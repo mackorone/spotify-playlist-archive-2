@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: july-august 2026 (previous playlists archived on my profile)",
-  "num_followers": 24356,
+  "num_followers": 24357,
   "original_name": "spacked out!!!",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAOhWPmPB9b3KC/upqcUpoM71EeKloh",
+  "snapshot_id": "AAAOiEH+DIG4fdbwQNrhdDjvNcFSGJaE",
   "tracks": [
     {
       "added_at": "2026-07-06 01:28:22",
@@ -111,22 +111,6 @@
     {
       "added_at": "2026-07-06 01:28:22",
       "album": {
-        "name": "Portishead",
-        "url": "https://open.spotify.com/album/3G36754KQVLyGuskraEAVA"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 299560,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2qKkC9cODRjIlsdyEkSJLQ"
-    },
-    {
-      "added_at": "2026-07-06 01:28:22",
-      "album": {
         "name": "10th",
         "url": "https://open.spotify.com/album/7GpupAdAv0IPaZEWEgV5IT"
       },
@@ -223,6 +207,38 @@
       "duration_ms": 194986,
       "name": "I Was The Dancer",
       "url": "https://open.spotify.com/track/2MATQphNB3FUAJGfeGD5bn"
+    },
+    {
+      "added_at": "2026-07-09 15:35:31",
+      "album": {
+        "name": "The La's (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
+      },
+      "artists": [
+        {
+          "name": "The La's",
+          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "I Am The Key - Key 103, Jan '89",
+      "url": "https://open.spotify.com/track/3kHEQxN6i74s5BQpYquuLd"
+    },
+    {
+      "added_at": "2026-07-10 00:57:59",
+      "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 436200,
+      "name": "Changeling",
+      "url": "https://open.spotify.com/track/5DIaZd2T8XohPHN72PkxTq"
     }
   ],
   "unique_name": "spacked out!!!",

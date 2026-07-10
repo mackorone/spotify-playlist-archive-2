@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo :  Jungeli & EMMA",
+  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo :  Benson Boone",
   "name": "Futurs Hits",
   "tracks": [
     {
@@ -3966,7 +3966,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 172544,
       "name": "des fleurs x stromae",
       "url": "https://open.spotify.com/track/0lNSoCSUfvKSmjm8B7rZYI"
@@ -4788,6 +4788,28 @@
       "duration_ms": 182626,
       "name": "Ensemble",
       "url": "https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC"
+    },
+    {
+      "album": {
+        "name": "Ensemble",
+        "url": "https://open.spotify.com/album/6QdDXJlhY1FbOZsEYPN1lu"
+      },
+      "artists": [
+        {
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+        },
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189280,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/4P9fHgmGJgf460F2t7OAie"
     },
     {
       "album": {
@@ -8096,7 +8118,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 154805,
       "name": "Juste un peu",
       "url": "https://open.spotify.com/track/7vNKvKNraI2IAooZMMiBzZ"
@@ -10426,7 +10448,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2"
@@ -13491,6 +13513,28 @@
     },
     {
       "album": {
+        "name": "R\u00e9anym\u00e9",
+        "url": "https://open.spotify.com/album/1ZtLBn35lK7Vm2nYmE9NBo"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        },
+        {
+          "name": "Anyme023",
+          "url": "https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151874,
+      "name": "R\u00e9anym\u00e9",
+      "url": "https://open.spotify.com/track/5EOVtfClo1Mhx0gSaZJC92"
+    },
+    {
+      "album": {
         "name": "R\u00e9sister (What about Peace?)",
         "url": "https://open.spotify.com/album/3lrK6iynnWj1oO1fONiQ9I"
       },
@@ -15102,6 +15146,24 @@
       "duration_ms": 136586,
       "name": "Summertime Friends",
       "url": "https://open.spotify.com/track/7JLzv38qr5GxXYqQfuQJP9"
+    },
+    {
+      "album": {
+        "name": "Sur la piste",
+        "url": "https://open.spotify.com/album/16vXhWhUZhSLmRDuljs5ui"
+      },
+      "artists": [
+        {
+          "name": "Eva",
+          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172725,
+      "name": "Sur la piste",
+      "url": "https://open.spotify.com/track/4bcuCoIXefyjaHK3TDe6k3"
     },
     {
       "album": {

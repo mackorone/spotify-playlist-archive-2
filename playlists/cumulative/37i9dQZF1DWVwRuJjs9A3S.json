@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Det senaste och b\u00e4sta fr\u00e5n v\u00e4rlden av indie. Cover: Nicole Saboun\u00e9 ",
+  "description": "Det senaste och b\u00e4sta fr\u00e5n v\u00e4rlden av indie. Cover: COLLEAGUES",
   "name": "Indie Highlights",
   "tracks": [
     {
@@ -5412,6 +5412,24 @@
       "duration_ms": 168461,
       "name": "Don't Let Me Know",
       "url": "https://open.spotify.com/track/1y20MYzuhK3SEOqJ5GObzx"
+    },
+    {
+      "album": {
+        "name": "Don't Ruin Love",
+        "url": "https://open.spotify.com/album/61PUBquYcUYgNZV8jQRjFn"
+      },
+      "artists": [
+        {
+          "name": "Violet Days",
+          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231533,
+      "name": "Don't Ruin Love",
+      "url": "https://open.spotify.com/track/6iBhukyWyHacgroTMqomuh"
     },
     {
       "album": {
@@ -11085,6 +11103,24 @@
     },
     {
       "album": {
+        "name": "INVINCIBLE",
+        "url": "https://open.spotify.com/album/1sT0yn1hLGTNh24kjKs0xK"
+      },
+      "artists": [
+        {
+          "name": "The Square",
+          "url": "https://open.spotify.com/artist/6ANvTGpJ3LJKZAziinXv9C"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127438,
+      "name": "INVINCIBLE",
+      "url": "https://open.spotify.com/track/5Q097UCJdfPaC6Io9AXjQ9"
+    },
+    {
+      "album": {
         "name": "is it real?",
         "url": "https://open.spotify.com/album/06WhEKEJ04m9IZxYswGDSY"
       },
@@ -16099,6 +16135,28 @@
     },
     {
       "album": {
+        "name": "Out of My Head",
+        "url": "https://open.spotify.com/album/71577VPbqC5hlUpJE5iCrM"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191095,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/29ucXsuXKkb6IWjuEvkEmz"
+    },
+    {
+      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/4q2QsmcyEa9Qbzl6oRoEK9"
       },
@@ -19382,6 +19440,24 @@
       "duration_ms": 200964,
       "name": "Sparv\u00f6ga",
       "url": "https://open.spotify.com/track/7Ad48doEcyyr91oRgTg2sz"
+    },
+    {
+      "album": {
+        "name": "speedboat",
+        "url": "https://open.spotify.com/album/3RoBaqNNyDm9NEhUiiVM9V"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192993,
+      "name": "speedboat",
+      "url": "https://open.spotify.com/track/1horiWF2fc97Q0uBdb8CAE"
     },
     {
       "album": {
@@ -22985,6 +23061,24 @@
     },
     {
       "album": {
+        "name": "Wash my hair",
+        "url": "https://open.spotify.com/album/5QrUbZtMt52oRRqZzzsQBI"
+      },
+      "artists": [
+        {
+          "name": "Dottie Andersson",
+          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180031,
+      "name": "Wash my hair",
+      "url": "https://open.spotify.com/track/4qSrZtU5n9VeZxL1q6DfYB"
+    },
+    {
+      "album": {
         "name": "Watching Over Me",
         "url": "https://open.spotify.com/album/2rqFQX6IDwpIXZEqg3Fqwp"
       },
@@ -23160,6 +23254,24 @@
       "duration_ms": 633333,
       "name": "Wedding in Leipzig",
       "url": "https://open.spotify.com/track/11xahEyH2ySa20FGwptUec"
+    },
+    {
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/3BszcroV45PMBmG4LtoKXd"
+      },
+      "artists": [
+        {
+          "name": "COLLEAGUES",
+          "url": "https://open.spotify.com/artist/6tANwKMqvV8oW0b7Np1ETB"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216715,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/7JbWqZVX0w8sc9qhNwwzIu"
     },
     {
       "album": {

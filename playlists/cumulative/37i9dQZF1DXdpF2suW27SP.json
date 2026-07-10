@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Piruka entra na zona. ",
+  "description": "LEO2745 entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -874,7 +874,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 243635,
       "name": "A Salva\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6UEv8n4yNipFSnLBp2d8wA"
@@ -6654,7 +6654,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 156932,
       "name": "ELA \u00c9 ESSA",
       "url": "https://open.spotify.com/track/3myDC0hr8oRTamQzjmGPzX"
@@ -9202,6 +9202,24 @@
       "duration_ms": 167591,
       "name": "HipHop\u00f3timo",
       "url": "https://open.spotify.com/track/57phNdx5dH8NsMWiX3vo3h"
+    },
+    {
+      "album": {
+        "name": "HIST\u00d3RIA",
+        "url": "https://open.spotify.com/album/7EKriqg7zckbRCsI2tubbf"
+      },
+      "artists": [
+        {
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188674,
+      "name": "HIST\u00d3RIA",
+      "url": "https://open.spotify.com/track/6zXt3ihvEWTuslDjyqUxOS"
     },
     {
       "album": {
@@ -15512,7 +15530,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 223081,
       "name": "PERAR",
       "url": "https://open.spotify.com/track/7ypr4HKCTl2QHYLvhbCuda"
@@ -16425,6 +16443,24 @@
     },
     {
       "album": {
+        "name": "Putos Qui Ata Cria",
+        "url": "https://open.spotify.com/album/1f5luAMRVCAvZew4mvNUdL"
+      },
+      "artists": [
+        {
+          "name": "Vado M\u00e1s Ki \u00c1s",
+          "url": "https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222076,
+      "name": "Putos Qui Ata Cria",
+      "url": "https://open.spotify.com/track/0Y387sgsGMktt6R8ua3GRG"
+    },
+    {
+      "album": {
         "name": "P\u00e1ginas EP",
         "url": "https://open.spotify.com/album/6xmpRs1tmEMis1UO8o0wk2"
       },
@@ -16636,7 +16672,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 145777,
       "name": "Quem D\u00e1 Costas \u00c9 Presa",
       "url": "https://open.spotify.com/track/6HudAnk1daR6C9cor9qMbF"
@@ -18328,7 +18364,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 212200,
       "name": "Sobre n\u00f3s",
       "url": "https://open.spotify.com/track/0qXdFerKyoeBIvTq76XlEt"
@@ -19785,6 +19821,24 @@
     },
     {
       "album": {
+        "name": "Traumas",
+        "url": "https://open.spotify.com/album/6uFAcZ1DBNnP97huRU2Kxg"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200412,
+      "name": "Traumas",
+      "url": "https://open.spotify.com/track/4F85yQQ8WBin4BJN9ZGLvW"
+    },
+    {
+      "album": {
         "name": "Trevas",
         "url": "https://open.spotify.com/album/0bdUs31bHxgbCfSsWzUO7x"
       },
@@ -20038,6 +20092,32 @@
       "duration_ms": 228655,
       "name": "Tudo Kuza",
       "url": "https://open.spotify.com/track/0Ku7Xnttx2ubDsl5wXZahZ"
+    },
+    {
+      "album": {
+        "name": "Tudo o Que Eu Pe\u00e7o",
+        "url": "https://open.spotify.com/album/4xWhdoAMXHu0j8whz77O2y"
+      },
+      "artists": [
+        {
+          "name": "Young Double",
+          "url": "https://open.spotify.com/artist/7uxVtHLLKggSUN4MNqqBfY"
+        },
+        {
+          "name": "YANKEMA",
+          "url": "https://open.spotify.com/artist/1KpBnKdAUaXpGoHvvSXUaJ"
+        },
+        {
+          "name": "Slim Boy",
+          "url": "https://open.spotify.com/artist/3taajR4dFA7XMW1OU9P7DU"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217123,
+      "name": "Tudo o Que Eu Pe\u00e7o",
+      "url": "https://open.spotify.com/track/7khhRsH9FfE8v9YyVEos5j"
     },
     {
       "album": {
@@ -20626,6 +20706,24 @@
       "duration_ms": 232727,
       "name": "Vento",
       "url": "https://open.spotify.com/track/1kvAnM70MHm9mKFeieswme"
+    },
+    {
+      "album": {
+        "name": "ver\u00e3o de lisboa",
+        "url": "https://open.spotify.com/album/7DdspE9ozlZBrvKrCPWFts"
+      },
+      "artists": [
+        {
+          "name": "Rony Fuego",
+          "url": "https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "ver\u00e3o de lisboa",
+      "url": "https://open.spotify.com/track/5BsvhFYvtZocwGJwq0Jstp"
     },
     {
       "album": {

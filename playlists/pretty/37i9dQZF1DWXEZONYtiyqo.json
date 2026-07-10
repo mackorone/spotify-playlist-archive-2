@@ -1,51 +1,15 @@
 {
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Liviu Teodorescu, Erika Isac",
-  "num_followers": 65337,
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Florian Rus, Holy Molly",
+  "num_followers": 65346,
   "original_name": "Hiturile de azi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI6iQcFZYfWDNh9clO9SNnAeozpQ",
+  "snapshot_id": "AAAAAEwjiCHl8MAkmSBzzdb+gTnsCK9c",
   "tracks": [
     {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "Morenito",
-        "url": "https://open.spotify.com/album/4qMgq0Xnm9zk1uKr6YMyRF"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 135694,
-      "name": "Morenito",
-      "url": "https://open.spotify.com/track/2UgaIRtWxiEmRcv6MXhFVb"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "O sa vina ziua",
-        "url": "https://open.spotify.com/album/2N2FAUAuIwxXMIQhYARMWu"
-      },
-      "artists": [
-        {
-          "name": "Liviu Teodorescu",
-          "url": "https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a"
-        },
-        {
-          "name": "Erika Isac",
-          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "O sa vina ziua",
-      "url": "https://open.spotify.com/track/0UQXbAOLooNOYq5Pw1aWCu"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
       "album": {
         "name": "At\u00e2tea inimi",
         "url": "https://open.spotify.com/album/2es8wgLPJuNGcUtaeHsbl5"
@@ -65,7 +29,95 @@
       "url": "https://open.spotify.com/track/2AtgVN7VzPJs5rK4mzyttK"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "Morenito",
+        "url": "https://open.spotify.com/album/4qMgq0Xnm9zk1uKr6YMyRF"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 135694,
+      "name": "Morenito",
+      "url": "https://open.spotify.com/track/2UgaIRtWxiEmRcv6MXhFVb"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "7 din 7",
+        "url": "https://open.spotify.com/album/4q3iKz4tg5UUxlnpADDq5W"
+      },
+      "artists": [
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        },
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        }
+      ],
+      "duration_ms": 167578,
+      "name": "7 din 7",
+      "url": "https://open.spotify.com/track/0tFGvE5jMG4rl8e0gP71ti"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "Caramela",
+        "url": "https://open.spotify.com/album/34Rqf2STHPVOCs7HuKP30t"
+      },
+      "artists": [
+        {
+          "name": "MIRA",
+          "url": "https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59"
+        }
+      ],
+      "duration_ms": 128889,
+      "name": "Caramela",
+      "url": "https://open.spotify.com/track/2rmHmsSXi34pgVJ7YLNblm"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "O sa vina ziua",
+        "url": "https://open.spotify.com/album/2N2FAUAuIwxXMIQhYARMWu"
+      },
+      "artists": [
+        {
+          "name": "Liviu Teodorescu",
+          "url": "https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a"
+        },
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "O sa vina ziua",
+      "url": "https://open.spotify.com/track/0UQXbAOLooNOYq5Pw1aWCu"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "Full Option",
+        "url": "https://open.spotify.com/album/72dDD3JTVcIBgj3EPZrVyn"
+      },
+      "artists": [
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "Full Option",
+      "url": "https://open.spotify.com/track/6vnbabsIQOkwp12neqpUoG"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
       "album": {
         "name": "Miss Cali (Hallelujah)",
         "url": "https://open.spotify.com/album/72iakJEQjDmbuDDealVMYk"
@@ -81,47 +133,7 @@
       "url": "https://open.spotify.com/track/48jQWwzGdUPfz3uov5L3uK"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "No No No",
-        "url": "https://open.spotify.com/album/6E1oypLnQvHvRbaJW2uOoc"
-      },
-      "artists": [
-        {
-          "name": "Nicole Cherry",
-          "url": "https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7"
-        },
-        {
-          "name": "Juno",
-          "url": "https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb"
-        }
-      ],
-      "duration_ms": 149599,
-      "name": "No No No",
-      "url": "https://open.spotify.com/track/0vZuecwzTTKc9ZiiWK0srD"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "Baila Morena",
-        "url": "https://open.spotify.com/album/6wGgOqelmrwrNWiXVTARKs"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Stan",
-          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
-        },
-        {
-          "name": "Jesko",
-          "url": "https://open.spotify.com/artist/4soYYfgAgLx5Yi1NO2ltub"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Baila Morena",
-      "url": "https://open.spotify.com/track/7otU1dobl9qJp6R5xORoda"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
       "album": {
         "name": "Genul \u0103la",
         "url": "https://open.spotify.com/album/6aYU0Zg3RePmH06uk90xL5"
@@ -141,7 +153,27 @@
       "url": "https://open.spotify.com/track/1gwsXF1G0j7uOS53KtRQYu"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "No No No",
+        "url": "https://open.spotify.com/album/6E1oypLnQvHvRbaJW2uOoc"
+      },
+      "artists": [
+        {
+          "name": "Nicole Cherry",
+          "url": "https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7"
+        },
+        {
+          "name": "Juno",
+          "url": "https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb"
+        }
+      ],
+      "duration_ms": 149599,
+      "name": "No No No",
+      "url": "https://open.spotify.com/track/0vZuecwzTTKc9ZiiWK0srD"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
       "album": {
         "name": "Telefonul",
         "url": "https://open.spotify.com/album/0pzhpHZsAqqDhz3QmebvVd"
@@ -161,7 +193,7 @@
       "url": "https://open.spotify.com/track/3TPh6VkcvL4ynsHayz8qaA"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
       "album": {
         "name": "SA TE PUP",
         "url": "https://open.spotify.com/album/7b8SR6CcVPZxuGH9PVgJgS"
@@ -177,63 +209,51 @@
       "url": "https://open.spotify.com/track/3dKNqxTNbM58WbgwHeodDn"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
       "album": {
-        "name": "Ya Tabtab",
-        "url": "https://open.spotify.com/album/70VOfqtogVHD4qzT9n8Deo"
+        "name": "Baila Morena",
+        "url": "https://open.spotify.com/album/6wGgOqelmrwrNWiXVTARKs"
       },
       "artists": [
         {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          "name": "Alexandra Stan",
+          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
         },
         {
-          "name": "Char Bell",
-          "url": "https://open.spotify.com/artist/4Op8WlR7WeCf0mkzjZsd6k"
+          "name": "Jesko",
+          "url": "https://open.spotify.com/artist/4soYYfgAgLx5Yi1NO2ltub"
         }
       ],
-      "duration_ms": 173454,
-      "name": "Ya Tabtab",
-      "url": "https://open.spotify.com/track/4VprDXa9zCBQ9n1xNSeIum"
+      "duration_ms": 138750,
+      "name": "Baila Morena",
+      "url": "https://open.spotify.com/track/7otU1dobl9qJp6R5xORoda"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
       "album": {
-        "name": "Doar noi doi si \u00eenc\u0103 ceva",
-        "url": "https://open.spotify.com/album/2IDtY4iBBOo1osWb6gCMFk"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1E7MzoTYYi12TXikpXlxrC"
       },
       "artists": [
         {
-          "name": "rares",
-          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
-        }
-      ],
-      "duration_ms": 185739,
-      "name": "Doar noi doi si \u00eenc\u0103 ceva",
-      "url": "https://open.spotify.com/track/6lXs2nT2Uzlz2Ll95fe1DV"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "Ce a fost",
-        "url": "https://open.spotify.com/album/07dca2YK9YScVkl7qD52FW"
-      },
-      "artists": [
-        {
-          "name": "DJ Project",
-          "url": "https://open.spotify.com/artist/1oqThNqOfhev071PvmOwWQ"
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
         },
         {
-          "name": "PETRA",
-          "url": "https://open.spotify.com/artist/1LDfQtGPCUSccCi58TsM2t"
+          "name": "Chris Hype",
+          "url": "https://open.spotify.com/artist/6exH5W5q1pR71N77VYff0a"
+        },
+        {
+          "name": "Orchestronic",
+          "url": "https://open.spotify.com/artist/4wOLzdvLBf9m00I0Z2QCYv"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Ce a fost",
-      "url": "https://open.spotify.com/track/67OMuyU7kBku4dLq8TNJK4"
+      "duration_ms": 204375,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4rMM6OaUqgYr6eZrFC2TMN"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
       "album": {
         "name": "Toreador",
         "url": "https://open.spotify.com/album/5KWbS4tCJzQtk4Fg8yPVtC"
@@ -253,23 +273,23 @@
       "url": "https://open.spotify.com/track/0AAfrVdWsndvIBwimXaYz4"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
       "album": {
-        "name": "In Eternitate",
-        "url": "https://open.spotify.com/album/5WpMFE2F6te0hLpOgamBmE"
+        "name": "Doar noi doi si \u00eenc\u0103 ceva",
+        "url": "https://open.spotify.com/album/2IDtY4iBBOo1osWb6gCMFk"
       },
       "artists": [
         {
-          "name": "Eneli",
-          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
         }
       ],
-      "duration_ms": 201230,
-      "name": "In Eternitate",
-      "url": "https://open.spotify.com/track/5h6YZAbuEHULZUiuw5TPv5"
+      "duration_ms": 185739,
+      "name": "Doar noi doi si \u00eenc\u0103 ceva",
+      "url": "https://open.spotify.com/track/6lXs2nT2Uzlz2Ll95fe1DV"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
       "album": {
         "name": "Apus de soare",
         "url": "https://open.spotify.com/album/5yCUtIrrw70tgDcubK8nys"
@@ -285,7 +305,75 @@
       "url": "https://open.spotify.com/track/6Xy52ktg6FlcuLueKHUNzf"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "Sa Danseze Fetele",
+        "url": "https://open.spotify.com/album/2fhmpks5dMP2jQ2ffOpXsP"
+      },
+      "artists": [
+        {
+          "name": "AMI",
+          "url": "https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF"
+        }
+      ],
+      "duration_ms": 207457,
+      "name": "Sa Danseze Fetele",
+      "url": "https://open.spotify.com/track/4L6VaGjKdKpTxaIj7IKx95"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "Ultima pies\u0103",
+        "url": "https://open.spotify.com/album/7D1EDPwMoZYFOQ8dWKMnzp"
+      },
+      "artists": [
+        {
+          "name": "Ronna Riva",
+          "url": "https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq"
+        }
+      ],
+      "duration_ms": 144888,
+      "name": "Ultima pies\u0103",
+      "url": "https://open.spotify.com/track/4dEjwBLsqSSCFiOFULYceF"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "Ya Tabtab",
+        "url": "https://open.spotify.com/album/70VOfqtogVHD4qzT9n8Deo"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Char Bell",
+          "url": "https://open.spotify.com/artist/4Op8WlR7WeCf0mkzjZsd6k"
+        }
+      ],
+      "duration_ms": 173454,
+      "name": "Ya Tabtab",
+      "url": "https://open.spotify.com/track/4VprDXa9zCBQ9n1xNSeIum"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "Mi Corazon",
+        "url": "https://open.spotify.com/album/00aGGnFbUDFkASysU0BeJw"
+      },
+      "artists": [
+        {
+          "name": "Fly Project",
+          "url": "https://open.spotify.com/artist/2Rum2rwDio2My0Md24m3Oa"
+        }
+      ],
+      "duration_ms": 150303,
+      "name": "Mi Corazon",
+      "url": "https://open.spotify.com/track/0SsPZnatOsS9HvL16wdNik"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
       "album": {
         "name": "R\u0103sf\u0103\u021bata",
         "url": "https://open.spotify.com/album/13EnJtXcxDCupV3UiY4H68"
@@ -305,7 +393,7 @@
       "url": "https://open.spotify.com/track/4CdFjQSRiNjVlOhNTMoA07"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
       "album": {
         "name": "Numa' bun\u0103 de iubit",
         "url": "https://open.spotify.com/album/2xrw0TUjVACkP9ekXjAGub"
@@ -321,95 +409,23 @@
       "url": "https://open.spotify.com/track/6vTisLvT3qEJGYL4aq1Mck"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
       "album": {
-        "name": "Dream Out Loud",
-        "url": "https://open.spotify.com/album/0AZ9wbbbM32nrzD8czHDwX"
+        "name": "D-Aia Nu Mai Pot Io",
+        "url": "https://open.spotify.com/album/0VI59gjM24VRuzz8rsX8RX"
       },
       "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
-        }
-      ],
-      "duration_ms": 184285,
-      "name": "Dream Out Loud",
-      "url": "https://open.spotify.com/track/1Tcsmov8MTNdZGXShRiviQ"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "Extraterestru",
-        "url": "https://open.spotify.com/album/0rmjzk4jwYDW0IKJwxDTLo"
-      },
-      "artists": [
-        {
-          "name": "BRUJA",
-          "url": "https://open.spotify.com/artist/6yoocPjo7xJwFxSvbZYUT9"
-        }
-      ],
-      "duration_ms": 180845,
-      "name": "Extraterestru",
-      "url": "https://open.spotify.com/track/3Um0UasmgNCa0oLlCNqLrS"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "O floare",
-        "url": "https://open.spotify.com/album/1dVciAfoRRBPU9MyuHGUH2"
-      },
-      "artists": [
-        {
-          "name": "Liviu Teodorescu",
-          "url": "https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a"
-        }
-      ],
-      "duration_ms": 163241,
-      "name": "O floare",
-      "url": "https://open.spotify.com/track/6J7EX3iRXWdEpObpE8UJmo"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "Cabluri",
-        "url": "https://open.spotify.com/album/5XHoEs8WGPRtbQxTLurlOc"
-      },
-      "artists": [
-        {
-          "name": "Cristian Porcari",
-          "url": "https://open.spotify.com/artist/2CYdLJs282GH7B65QAZEA7"
-        },
         {
           "name": "Juno",
           "url": "https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb"
         }
       ],
-      "duration_ms": 153333,
-      "name": "Cabluri",
-      "url": "https://open.spotify.com/track/3eeGNnaSm8LfwaECerkX3e"
+      "duration_ms": 137622,
+      "name": "D-Aia Nu Mai Pot Io",
+      "url": "https://open.spotify.com/track/3KqJyfTsKL0UpamJnJC7Yr"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "Beluga",
-        "url": "https://open.spotify.com/album/3DTsjoUMCLAnBp4iGhVvSJ"
-      },
-      "artists": [
-        {
-          "name": "Florin Ristei",
-          "url": "https://open.spotify.com/artist/75O3JSFrt909DtV34BTWfW"
-        }
-      ],
-      "duration_ms": 167462,
-      "name": "Beluga",
-      "url": "https://open.spotify.com/track/18dQBc9UPscYIqRqSepWF8"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
       "album": {
         "name": "Cine te sun\u0103?",
         "url": "https://open.spotify.com/album/4SX2FQRobz19rzI4Dexzym"
@@ -429,175 +445,7 @@
       "url": "https://open.spotify.com/track/2iv0HFAp8FNzH35irvm78r"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "Reveria",
-        "url": "https://open.spotify.com/album/0jCGJHr44ZwSidTWFmGXFV"
-      },
-      "artists": [
-        {
-          "name": "Smiley",
-          "url": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
-        }
-      ],
-      "duration_ms": 143063,
-      "name": "Reveria",
-      "url": "https://open.spotify.com/track/6travLwZzq8AYtSjfdNAeU"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "Un s\u0103rut c\u00e2t o via\u021b\u0103",
-        "url": "https://open.spotify.com/album/3DbR0ut6rmjLF5usRt2eeg"
-      },
-      "artists": [
-        {
-          "name": "3 Sud Est",
-          "url": "https://open.spotify.com/artist/0niQ4Q9nI1Qh0BHpT3b4NC"
-        },
-        {
-          "name": "Andra",
-          "url": "https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF"
-        }
-      ],
-      "duration_ms": 213830,
-      "name": "Un s\u0103rut c\u00e2t o via\u021b\u0103",
-      "url": "https://open.spotify.com/track/5RYdHdkUVNu3T61x5EH8vb"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "Noaptea",
-        "url": "https://open.spotify.com/album/0UmWqIkPaJp3vmURbUY45n"
-      },
-      "artists": [
-        {
-          "name": "EMAA",
-          "url": "https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE"
-        }
-      ],
-      "duration_ms": 166487,
-      "name": "Noaptea",
-      "url": "https://open.spotify.com/track/3oXWlk7N7M6pOq2BkMBUZc"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "Izabela",
-        "url": "https://open.spotify.com/album/7gGvvDd2j9GHeBn99YHLuR"
-      },
-      "artists": [
-        {
-          "name": "Connect-R",
-          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "Izabela",
-      "url": "https://open.spotify.com/track/6TJF9CvKYwbgOC2GcHbLUp"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "Sa Danseze Fetele",
-        "url": "https://open.spotify.com/album/2fhmpks5dMP2jQ2ffOpXsP"
-      },
-      "artists": [
-        {
-          "name": "AMI",
-          "url": "https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF"
-        }
-      ],
-      "duration_ms": 207457,
-      "name": "Sa Danseze Fetele",
-      "url": "https://open.spotify.com/track/4L6VaGjKdKpTxaIj7IKx95"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "Mi Corazon",
-        "url": "https://open.spotify.com/album/00aGGnFbUDFkASysU0BeJw"
-      },
-      "artists": [
-        {
-          "name": "Fly Project",
-          "url": "https://open.spotify.com/artist/2Rum2rwDio2My0Md24m3Oa"
-        }
-      ],
-      "duration_ms": 150303,
-      "name": "Mi Corazon",
-      "url": "https://open.spotify.com/track/0SsPZnatOsS9HvL16wdNik"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "Mor dup\u0103 tine",
-        "url": "https://open.spotify.com/album/5j7cc5gjif5RQ46G0Cfp3K"
-      },
-      "artists": [
-        {
-          "name": "Lazy Ed",
-          "url": "https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T"
-        },
-        {
-          "name": "JO",
-          "url": "https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "Mor dup\u0103 tine",
-      "url": "https://open.spotify.com/track/3ia9wVJVCCxpixci3dXlxB"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "\u00cen c\u0103utarea fericirii",
-        "url": "https://open.spotify.com/album/0po2U3nO9fn8vZaXhZe5j1"
-      },
-      "artists": [
-        {
-          "name": "EMAA",
-          "url": "https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE"
-        }
-      ],
-      "duration_ms": 164014,
-      "name": "\u00cen c\u0103utarea fericirii",
-      "url": "https://open.spotify.com/track/2vIVjEFiKM20qIDApuHoKr"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "Avalan\u0219a",
-        "url": "https://open.spotify.com/album/7vcbEWtoSo97AnogHOQ15v"
-      },
-      "artists": [
-        {
-          "name": "The Urs",
-          "url": "https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY"
-        }
-      ],
-      "duration_ms": 176282,
-      "name": "Avalan\u0219a",
-      "url": "https://open.spotify.com/track/6zHjWM8LdHMIHGd7L3KnQl"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "Analog",
-        "url": "https://open.spotify.com/album/10LHZgdI5Dj1esKEkiiKOM"
-      },
-      "artists": [
-        {
-          "name": "Delia",
-          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
-        }
-      ],
-      "duration_ms": 162194,
-      "name": "Analog",
-      "url": "https://open.spotify.com/track/7uP2yYhEtz8FGi6iDgIMAd"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
       "album": {
         "name": "Exist\u0103",
         "url": "https://open.spotify.com/album/3PBiW9sBszy0NVZGUjZB47"
@@ -613,55 +461,79 @@
       "url": "https://open.spotify.com/track/4tWJxQ0SccyaFWVO3aNfXY"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
       "album": {
-        "name": "Vara cand Pamantul s-a oprit",
-        "url": "https://open.spotify.com/album/5tMHC67Z0ZhXGDpC51tJhH"
+        "name": "Dream Out Loud",
+        "url": "https://open.spotify.com/album/0AZ9wbbbM32nrzD8czHDwX"
       },
       "artists": [
         {
-          "name": "ADDA",
-          "url": "https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy"
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
         }
       ],
-      "duration_ms": 163150,
-      "name": "Vara cand Pamantul s-a oprit",
-      "url": "https://open.spotify.com/track/2MZvGBHJlZ7zNIq5i1XkKn"
+      "duration_ms": 184285,
+      "name": "Dream Out Loud",
+      "url": "https://open.spotify.com/track/1Tcsmov8MTNdZGXShRiviQ"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
       "album": {
-        "name": "Jurnal",
-        "url": "https://open.spotify.com/album/3unPXEIMbJjpMx6Eb9rxJb"
+        "name": "Ce a fost",
+        "url": "https://open.spotify.com/album/07dca2YK9YScVkl7qD52FW"
       },
       "artists": [
         {
-          "name": "Feli",
-          "url": "https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX"
+          "name": "DJ Project",
+          "url": "https://open.spotify.com/artist/1oqThNqOfhev071PvmOwWQ"
+        },
+        {
+          "name": "PETRA",
+          "url": "https://open.spotify.com/artist/1LDfQtGPCUSccCi58TsM2t"
         }
       ],
-      "duration_ms": 161740,
-      "name": "Cetera",
-      "url": "https://open.spotify.com/track/5MVwdhr04bLrZuBz9TCN1N"
+      "duration_ms": 189000,
+      "name": "Ce a fost",
+      "url": "https://open.spotify.com/track/67OMuyU7kBku4dLq8TNJK4"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
       "album": {
-        "name": "Mr. Saxobeat - Spotify Singles",
-        "url": "https://open.spotify.com/album/4INWAlhyOBANA8GUB7Iugy"
+        "name": "O floare",
+        "url": "https://open.spotify.com/album/1dVciAfoRRBPU9MyuHGUH2"
       },
       "artists": [
         {
-          "name": "Erika Isac",
-          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+          "name": "Liviu Teodorescu",
+          "url": "https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a"
         }
       ],
-      "duration_ms": 177707,
-      "name": "Mr. Saxobeat - Spotify Singles",
-      "url": "https://open.spotify.com/track/78PyhOfbHt3mA4Jhz8M9tW"
+      "duration_ms": 163241,
+      "name": "O floare",
+      "url": "https://open.spotify.com/track/6J7EX3iRXWdEpObpE8UJmo"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "Reveria",
+        "url": "https://open.spotify.com/album/0jCGJHr44ZwSidTWFmGXFV"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
+        }
+      ],
+      "duration_ms": 143063,
+      "name": "Reveria",
+      "url": "https://open.spotify.com/track/6travLwZzq8AYtSjfdNAeU"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
       "album": {
         "name": "In Inima E Vara",
         "url": "https://open.spotify.com/album/5WvXbc0GsSytxh3yykpvU5"
@@ -681,103 +553,75 @@
       "url": "https://open.spotify.com/track/5VjfNK0tyw5EooP4mzYe9t"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
       "album": {
-        "name": "Uit\u0103-te \u00een ochii mei",
-        "url": "https://open.spotify.com/album/4wBsFTnnKDGIP3mX7mgvH2"
+        "name": "Avalan\u0219a",
+        "url": "https://open.spotify.com/album/7vcbEWtoSo97AnogHOQ15v"
       },
       "artists": [
         {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+          "name": "The Urs",
+          "url": "https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY"
         }
       ],
-      "duration_ms": 184285,
-      "name": "Uit\u0103-te \u00een ochii mei",
-      "url": "https://open.spotify.com/track/5WEonvH777WjGwaVgON52e"
+      "duration_ms": 176282,
+      "name": "Avalan\u0219a",
+      "url": "https://open.spotify.com/track/6zHjWM8LdHMIHGd7L3KnQl"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
       "album": {
-        "name": "Popcorn Song",
-        "url": "https://open.spotify.com/album/3xsn9KkwnH0zTZNolFmysh"
+        "name": "Analog",
+        "url": "https://open.spotify.com/album/10LHZgdI5Dj1esKEkiiKOM"
       },
       "artists": [
         {
-          "name": "Misha Miller",
-          "url": "https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp"
+          "name": "Delia",
+          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
         }
       ],
-      "duration_ms": 132416,
-      "name": "Popcorn Song",
-      "url": "https://open.spotify.com/track/0mVEc8E1KcRSi1spcs88Dy"
+      "duration_ms": 162194,
+      "name": "Analog",
+      "url": "https://open.spotify.com/track/7uP2yYhEtz8FGi6iDgIMAd"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
       "album": {
-        "name": "Doi Eroi",
-        "url": "https://open.spotify.com/album/687HFSpdsJoldHzogxa1If"
+        "name": "Un s\u0103rut c\u00e2t o via\u021b\u0103",
+        "url": "https://open.spotify.com/album/3DbR0ut6rmjLF5usRt2eeg"
       },
       "artists": [
         {
-          "name": "Andrei Ursu",
-          "url": "https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW"
+          "name": "3 Sud Est",
+          "url": "https://open.spotify.com/artist/0niQ4Q9nI1Qh0BHpT3b4NC"
+        },
+        {
+          "name": "Andra",
+          "url": "https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Doi Eroi",
-      "url": "https://open.spotify.com/track/3jNbjFryn449AQejgoDPRT"
+      "duration_ms": 213830,
+      "name": "Un s\u0103rut c\u00e2t o via\u021b\u0103",
+      "url": "https://open.spotify.com/track/5RYdHdkUVNu3T61x5EH8vb"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
       "album": {
-        "name": "8000 de zile",
-        "url": "https://open.spotify.com/album/0JPOs8otc0l8xYuy1Cf5xL"
+        "name": "Izabela",
+        "url": "https://open.spotify.com/album/7gGvvDd2j9GHeBn99YHLuR"
       },
       "artists": [
         {
-          "name": "Mario ",
-          "url": "https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF"
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
         }
       ],
-      "duration_ms": 180000,
-      "name": "8000 de zile",
-      "url": "https://open.spotify.com/track/61VmUaw4TyPra0wgkpXrjI"
+      "duration_ms": 146938,
+      "name": "Izabela",
+      "url": "https://open.spotify.com/track/6TJF9CvKYwbgOC2GcHbLUp"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "A\u0219 Fi Iubit-o",
-        "url": "https://open.spotify.com/album/04TmQ5AJT0o389O5mdixOj"
-      },
-      "artists": [
-        {
-          "name": "Andia",
-          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
-        }
-      ],
-      "duration_ms": 214230,
-      "name": "A\u0219 Fi Iubit-o",
-      "url": "https://open.spotify.com/track/0flHTpfogKtmsMmMFCTnso"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "Nu m\u0103 gr\u0103besc",
-        "url": "https://open.spotify.com/album/10HIxTtBeQx1K33TrN9YHQ"
-      },
-      "artists": [
-        {
-          "name": "Stefania",
-          "url": "https://open.spotify.com/artist/3GyTyH3aepWj2Z2wC3FqHy"
-        }
-      ],
-      "duration_ms": 154128,
-      "name": "Nu m\u0103 gr\u0103besc",
-      "url": "https://open.spotify.com/track/2ZiAm5VbNwdmi3Z7uwTXne"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
       "album": {
         "name": "Poze cu blitz",
         "url": "https://open.spotify.com/album/1q7hK4CLI8zK1gEsRO3k9l"
@@ -797,7 +641,219 @@
       "url": "https://open.spotify.com/track/2hRmR4NR4HkaTvaVPCDXNQ"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "Vara cand Pamantul s-a oprit",
+        "url": "https://open.spotify.com/album/5tMHC67Z0ZhXGDpC51tJhH"
+      },
+      "artists": [
+        {
+          "name": "ADDA",
+          "url": "https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy"
+        }
+      ],
+      "duration_ms": 163150,
+      "name": "Vara cand Pamantul s-a oprit",
+      "url": "https://open.spotify.com/track/2MZvGBHJlZ7zNIq5i1XkKn"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "Beluga",
+        "url": "https://open.spotify.com/album/3DTsjoUMCLAnBp4iGhVvSJ"
+      },
+      "artists": [
+        {
+          "name": "Florin Ristei",
+          "url": "https://open.spotify.com/artist/75O3JSFrt909DtV34BTWfW"
+        }
+      ],
+      "duration_ms": 167462,
+      "name": "Beluga",
+      "url": "https://open.spotify.com/track/18dQBc9UPscYIqRqSepWF8"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "Mr. Saxobeat - Spotify Singles",
+        "url": "https://open.spotify.com/album/4INWAlhyOBANA8GUB7Iugy"
+      },
+      "artists": [
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "duration_ms": 177707,
+      "name": "Mr. Saxobeat - Spotify Singles",
+      "url": "https://open.spotify.com/track/78PyhOfbHt3mA4Jhz8M9tW"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "Mor dup\u0103 tine",
+        "url": "https://open.spotify.com/album/5j7cc5gjif5RQ46G0Cfp3K"
+      },
+      "artists": [
+        {
+          "name": "Lazy Ed",
+          "url": "https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T"
+        },
+        {
+          "name": "JO",
+          "url": "https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "Mor dup\u0103 tine",
+      "url": "https://open.spotify.com/track/3ia9wVJVCCxpixci3dXlxB"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "Extraterestru",
+        "url": "https://open.spotify.com/album/0rmjzk4jwYDW0IKJwxDTLo"
+      },
+      "artists": [
+        {
+          "name": "BRUJA",
+          "url": "https://open.spotify.com/artist/6yoocPjo7xJwFxSvbZYUT9"
+        }
+      ],
+      "duration_ms": 180845,
+      "name": "Extraterestru",
+      "url": "https://open.spotify.com/track/3Um0UasmgNCa0oLlCNqLrS"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "\u00cen c\u0103utarea fericirii",
+        "url": "https://open.spotify.com/album/0po2U3nO9fn8vZaXhZe5j1"
+      },
+      "artists": [
+        {
+          "name": "EMAA",
+          "url": "https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE"
+        }
+      ],
+      "duration_ms": 164014,
+      "name": "\u00cen c\u0103utarea fericirii",
+      "url": "https://open.spotify.com/track/2vIVjEFiKM20qIDApuHoKr"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "Jurnal",
+        "url": "https://open.spotify.com/album/3unPXEIMbJjpMx6Eb9rxJb"
+      },
+      "artists": [
+        {
+          "name": "Feli",
+          "url": "https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX"
+        }
+      ],
+      "duration_ms": 161740,
+      "name": "Cetera",
+      "url": "https://open.spotify.com/track/5MVwdhr04bLrZuBz9TCN1N"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "Uit\u0103-te \u00een ochii mei",
+        "url": "https://open.spotify.com/album/4wBsFTnnKDGIP3mX7mgvH2"
+      },
+      "artists": [
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "duration_ms": 184285,
+      "name": "Uit\u0103-te \u00een ochii mei",
+      "url": "https://open.spotify.com/track/5WEonvH777WjGwaVgON52e"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "Popcorn Song",
+        "url": "https://open.spotify.com/album/3xsn9KkwnH0zTZNolFmysh"
+      },
+      "artists": [
+        {
+          "name": "Misha Miller",
+          "url": "https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp"
+        }
+      ],
+      "duration_ms": 132416,
+      "name": "Popcorn Song",
+      "url": "https://open.spotify.com/track/0mVEc8E1KcRSi1spcs88Dy"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "In Eternitate",
+        "url": "https://open.spotify.com/album/5WpMFE2F6te0hLpOgamBmE"
+      },
+      "artists": [
+        {
+          "name": "Eneli",
+          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "In Eternitate",
+      "url": "https://open.spotify.com/track/5h6YZAbuEHULZUiuw5TPv5"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "Doi Eroi",
+        "url": "https://open.spotify.com/album/687HFSpdsJoldHzogxa1If"
+      },
+      "artists": [
+        {
+          "name": "Andrei Ursu",
+          "url": "https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Doi Eroi",
+      "url": "https://open.spotify.com/track/3jNbjFryn449AQejgoDPRT"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "8000 de zile",
+        "url": "https://open.spotify.com/album/0JPOs8otc0l8xYuy1Cf5xL"
+      },
+      "artists": [
+        {
+          "name": "Mario ",
+          "url": "https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "8000 de zile",
+      "url": "https://open.spotify.com/track/61VmUaw4TyPra0wgkpXrjI"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
+      "album": {
+        "name": "Nu m\u0103 gr\u0103besc",
+        "url": "https://open.spotify.com/album/10HIxTtBeQx1K33TrN9YHQ"
+      },
+      "artists": [
+        {
+          "name": "Stefania",
+          "url": "https://open.spotify.com/artist/3GyTyH3aepWj2Z2wC3FqHy"
+        }
+      ],
+      "duration_ms": 154128,
+      "name": "Nu m\u0103 gr\u0103besc",
+      "url": "https://open.spotify.com/track/2ZiAm5VbNwdmi3Z7uwTXne"
+    },
+    {
+      "added_at": "2026-07-09 21:00:08",
       "album": {
         "name": "Midnight Echoes",
         "url": "https://open.spotify.com/album/3I6PSzNiPefKTnEnCaoH8c"
@@ -821,23 +877,7 @@
       "url": "https://open.spotify.com/track/0dHNJPhlBpk1f65kRmwoWj"
     },
     {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "CUM ESTI TU",
-        "url": "https://open.spotify.com/album/30KRfz9Ga7IjTyYaotuSPD"
-      },
-      "artists": [
-        {
-          "name": "VANILLA",
-          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "CUM ESTI TU",
-      "url": "https://open.spotify.com/track/4P3HhqX7YTeenh0BywMsPR"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
+      "added_at": "2026-07-09 21:00:08",
       "album": {
         "name": "Inim\u0103 \u00eempiedicat\u0103",
         "url": "https://open.spotify.com/album/7GcyN4ZuBweVdymJavDjiS"
@@ -851,38 +891,6 @@
       "duration_ms": 172702,
       "name": "Inim\u0103 \u00eempiedicat\u0103",
       "url": "https://open.spotify.com/track/4MYL6lLfm74ULqtgScKEQ4"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "All We Are About",
-        "url": "https://open.spotify.com/album/4UNeqrFbFeMXDmoC2AyOSh"
-      },
-      "artists": [
-        {
-          "name": "Satoshi",
-          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
-        }
-      ],
-      "duration_ms": 196990,
-      "name": "All We Are About",
-      "url": "https://open.spotify.com/track/1Wqy2bz7nbRly62gKUIDyy"
-    },
-    {
-      "added_at": "2026-07-02 21:00:51",
-      "album": {
-        "name": "Tightrope",
-        "url": "https://open.spotify.com/album/0JiXQxbZ07tyWGcrMdTlSb"
-      },
-      "artists": [
-        {
-          "name": "YGUANA",
-          "url": "https://open.spotify.com/artist/6LumHU8x4lK6LmGq7sanp7"
-        }
-      ],
-      "duration_ms": 156705,
-      "name": "Tightrope",
-      "url": "https://open.spotify.com/track/79072o5btLebMQgax1F555"
     }
   ],
   "unique_name": "Hiturile de azi",

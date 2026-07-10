@@ -615,6 +615,24 @@
     },
     {
       "album": {
+        "name": "Berceuse",
+        "url": "https://open.spotify.com/album/2jzxuEms2gCyOtKCmNQ4Bw"
+      },
+      "artists": [
+        {
+          "name": "Kanata yukino",
+          "url": "https://open.spotify.com/artist/1kiSclwSQ9GYt5WOSL1kCl"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181950,
+      "name": "Berceuse",
+      "url": "https://open.spotify.com/track/7zG9qefGCuFmUdvPyxFuwD"
+    },
+    {
+      "album": {
         "name": "Binetsu (Autumn) / Honesty (Session 1)",
         "url": "https://open.spotify.com/album/4Tzdk99BwpNhilbHOCaNFp"
       },
@@ -2318,7 +2336,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 256607,
       "name": "ITAI",
       "url": "https://open.spotify.com/track/7q7eyW6Ivwh5GDDEQwsShh"
@@ -3574,6 +3592,24 @@
       "duration_ms": 182013,
       "name": "Nobose",
       "url": "https://open.spotify.com/track/1n6W03okyF7dsmY83leZ6d"
+    },
+    {
+      "album": {
+        "name": "Note of Mothership",
+        "url": "https://open.spotify.com/album/4VReJ4pdw1dOJzIq2p1hlf"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178995,
+      "name": "Note of Mothership",
+      "url": "https://open.spotify.com/track/2Qj1RsGrDD9laGR9QqrBvV"
     },
     {
       "album": {
@@ -8334,7 +8370,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 376300,
       "name": "\u6642\u306e\u89e3\u6c7a",
       "url": "https://open.spotify.com/track/7KmjtQirbhpj3aeLu3BA7l"

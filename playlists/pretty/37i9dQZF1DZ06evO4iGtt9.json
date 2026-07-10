@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 9535,
+  "num_followers": 9538,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAADi5xqJZTC0M44yulTP0ej9",
+  "snapshot_id": "ak2TAAAAAAByehrCK/2IxcXz9QDxyhOH",
   "tracks": [
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GLADIATOR",
+        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 155121,
+      "name": "Dey Your Dey",
+      "url": "https://open.spotify.com/track/1zUxNj07FZ7wJOLQax3aU3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Gehn Gehn Album",
         "url": "https://open.spotify.com/album/3XgHoC7QgrDvusnQP1AdZS"
       },
@@ -251,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLADIATOR",
-        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
       },
       "artists": [
         {
@@ -260,25 +276,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 155121,
-      "name": "Dey Your Dey",
-      "url": "https://open.spotify.com/track/1zUxNj07FZ7wJOLQax3aU3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 187213,
-      "name": "Sanko",
-      "url": "https://open.spotify.com/track/0oWbSZxhrbaS043QNnSQhL"
+      "duration_ms": 245420,
+      "name": "Ogologomma",
+      "url": "https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Story",
-        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 245420,
-      "name": "Ogologomma",
-      "url": "https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz"
+      "duration_ms": 187213,
+      "name": "Sanko",
+      "url": "https://open.spotify.com/track/0oWbSZxhrbaS043QNnSQhL"
     },
     {
       "added_at": null,
@@ -339,22 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Concur",
-        "url": "https://open.spotify.com/album/6Mk1LUNK8jrQUaws9pDYvg"
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
       },
       "artists": [
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Don Jazzy",
-          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
         }
       ],
-      "duration_ms": 246224,
-      "name": "I Concur",
-      "url": "https://open.spotify.com/track/1WSw2HVuMNzcGWEHvC0pk3"
+      "duration_ms": 265404,
+      "name": "True Story",
+      "url": "https://open.spotify.com/track/154wqt2t7LYUHFEjjjgfhI"
     },
     {
       "added_at": null,
@@ -375,18 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Story",
-        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
+        "name": "I Concur",
+        "url": "https://open.spotify.com/album/6Mk1LUNK8jrQUaws9pDYvg"
       },
       "artists": [
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
         }
       ],
-      "duration_ms": 265404,
-      "name": "True Story",
-      "url": "https://open.spotify.com/track/154wqt2t7LYUHFEjjjgfhI"
+      "duration_ms": 246224,
+      "name": "I Concur",
+      "url": "https://open.spotify.com/track/1WSw2HVuMNzcGWEHvC0pk3"
     },
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zero Panic, Vol. 2",
-        "url": "https://open.spotify.com/album/2eX6rXJEXd2Gs8kD0nDkC4"
-      },
-      "artists": [
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 148140,
-      "name": "Taku",
-      "url": "https://open.spotify.com/track/63A8SVGGOBFB6OtmMEyBGv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IN MY HEAD",
         "url": "https://open.spotify.com/album/5dI959e51lkReZI50si0ef"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 177692,
       "name": "IN MY HEAD",
       "url": "https://open.spotify.com/track/7AoQcUEi2ZzF6vOrutcoZU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zero Panic, Vol. 2",
+        "url": "https://open.spotify.com/album/2eX6rXJEXd2Gs8kD0nDkC4"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 148140,
+      "name": "Taku",
+      "url": "https://open.spotify.com/track/63A8SVGGOBFB6OtmMEyBGv"
     },
     {
       "added_at": null,

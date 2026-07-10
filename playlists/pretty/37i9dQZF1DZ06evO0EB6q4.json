@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 266468,
+  "num_followers": 266504,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAABdi1rkW7DwwH4zfqXYSXlC",
+  "snapshot_id": "ak2TAAAAAACVZp5QBhN9UVYig2c1stom",
   "tracks": [
     {
       "added_at": null,
@@ -23,30 +23,6 @@
       "duration_ms": 188193,
       "name": "Qui\u00e9reme As\u00ed",
       "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Librame Se\u00f1or",
-        "url": "https://open.spotify.com/album/2GNQ27qiUc3P8umT1mnpQu"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Tu Musica",
-          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
-        },
-        {
-          "name": "Ronaldinho Ga\u00facho",
-          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
-        }
-      ],
-      "duration_ms": 173872,
-      "name": "Librame Se\u00f1or",
-      "url": "https://open.spotify.com/track/5ONARwYStRWlTUj4ivtlFe"
     },
     {
       "added_at": null,
@@ -463,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Tin y Que Tan",
-        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 155198,
-      "name": "Parece un sue\u00f1o",
-      "url": "https://open.spotify.com/track/3jP3gpR2Ni7FOJTTymz5v6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Loca Como T\u00fa",
         "url": "https://open.spotify.com/album/3gmrexExvzNXV9HlKwLAdT"
       },
@@ -491,6 +451,22 @@
       "duration_ms": 235008,
       "name": "Una Loca Como T\u00fa",
       "url": "https://open.spotify.com/track/0yWarPMKVH0kLJT7XZRMNF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Tin y Que Tan",
+        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 155198,
+      "name": "Parece un sue\u00f1o",
+      "url": "https://open.spotify.com/track/3jP3gpR2Ni7FOJTTymz5v6"
     },
     {
       "added_at": null,
@@ -667,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cari\u00f1itos y Flores",
-        "url": "https://open.spotify.com/album/70GVEB2pOYx7hViOJV9ucd"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Kris R.",
-          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
-        }
-      ],
-      "duration_ms": 159012,
-      "name": "Cari\u00f1itos y Flores",
-      "url": "https://open.spotify.com/track/1GOJEorxVpE2s6jhqUyRNh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seg\u00fan Nosotros",
         "url": "https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME"
       },
@@ -703,6 +659,26 @@
       "duration_ms": 224938,
       "name": "S\u00f3lo T\u00fa",
       "url": "https://open.spotify.com/track/0OpaOJ0gYjhnSgdEaSxHqY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cari\u00f1itos y Flores",
+        "url": "https://open.spotify.com/album/70GVEB2pOYx7hViOJV9ucd"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "duration_ms": 159012,
+      "name": "Cari\u00f1itos y Flores",
+      "url": "https://open.spotify.com/track/1GOJEorxVpE2s6jhqUyRNh"
     },
     {
       "added_at": null,
@@ -851,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Tin y Que Tan",
-        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 144290,
-      "name": "Te va a Doler",
-      "url": "https://open.spotify.com/track/6m35uri0H0L9ZccW6PRchX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LQRA Session #7",
         "url": "https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW"
       },
@@ -883,6 +843,22 @@
       "duration_ms": 169642,
       "name": "LQRA Session #7",
       "url": "https://open.spotify.com/track/0MAYG47TdvfnbqjOzpdHqP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Tin y Que Tan",
+        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 145471,
+      "name": "Buen Viaje",
+      "url": "https://open.spotify.com/track/41GJeh48o98ThqCvxUgkoX"
     },
     {
       "added_at": null,
@@ -931,22 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Tin y Que Tan",
-        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 145471,
-      "name": "Buen Viaje",
-      "url": "https://open.spotify.com/track/41GJeh48o98ThqCvxUgkoX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S\u00f3lo Lo Haces T\u00fa",
         "url": "https://open.spotify.com/album/43VUKcCmkvabI567ONaMyy"
       },
@@ -959,6 +919,22 @@
       "duration_ms": 141269,
       "name": "S\u00f3lo Lo Haces T\u00fa",
       "url": "https://open.spotify.com/track/1kkzu6mq0HV9UjPB8Xo2lT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Tin y Que Tan",
+        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 144290,
+      "name": "Te va a Doler",
+      "url": "https://open.spotify.com/track/6m35uri0H0L9ZccW6PRchX"
     },
     {
       "added_at": null,
@@ -983,6 +959,30 @@
       "duration_ms": 279014,
       "name": "Hace Tanto Tiempo",
       "url": "https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Librame Se\u00f1or",
+        "url": "https://open.spotify.com/album/2GNQ27qiUc3P8umT1mnpQu"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Tu Musica",
+          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
+        },
+        {
+          "name": "Ronaldinho Ga\u00facho",
+          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
+        }
+      ],
+      "duration_ms": 173872,
+      "name": "Librame Se\u00f1or",
+      "url": "https://open.spotify.com/track/5ONARwYStRWlTUj4ivtlFe"
     },
     {
       "added_at": null,

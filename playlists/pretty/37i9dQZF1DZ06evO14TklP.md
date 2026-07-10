@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 
 > This is Ebony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,832 likes - 49 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,855 likes - 49 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 48 | [Caneta](https://open.spotify.com/track/2WxgnVuE9zJPWqqQacGHE0) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Visão Periférica](https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF) | 3:08 |
 | 49 | [Ca$h Ca$h](https://open.spotify.com/track/5cIQ6FpIhXXFN3cCpBZQSD) | [BlakkStar](https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Ca$h Ca$h](https://open.spotify.com/album/77cE3ZebHOAHnt2xdFJ9l1) | 3:04 |
 
-Snapshot ID: `akrwAAAAAAARhBiJDhUHM/ppezAp0Xpt`
+Snapshot ID: `ak2TAAAAAACfDxouia3OLXOW/oHLGFlc`

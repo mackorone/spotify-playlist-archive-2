@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mJNbq.md) - [plain]
 
 > This is Zolita\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,193 likes - 41 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,197 likes - 41 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hell's Belles](https://open.spotify.com/track/4Ni3RfbRDVzC6KWxzcWPLi) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/18OF7zAz0K20cklvIZXAWD) | 3:06 |
 | 2 | [Somebody I F\*cked Once](https://open.spotify.com/track/73uoSkdELRTmovsYkbmHlB) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe Edition\)](https://open.spotify.com/album/0n2eTEITSu0EwdkpjtNFBr) | 3:04 |
-| 3 | [HARDCORE](https://open.spotify.com/track/3rh0NcysTtnld6q95INEK3) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [HARDCORE](https://open.spotify.com/album/7qAeQkuHuaSUhOEdAH1IpK) | 2:49 |
-| 4 | [I F\*cking Love You](https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw) | 3:00 |
+| 3 | [I F\*cking Love You](https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw) | 3:00 |
+| 4 | [HARDCORE](https://open.spotify.com/track/3rh0NcysTtnld6q95INEK3) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [HARDCORE](https://open.spotify.com/album/7qAeQkuHuaSUhOEdAH1IpK) | 2:49 |
 | 5 | [Ruin My Life](https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ruin My Life](https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf) | 3:32 |
 | 6 | [Single In September](https://open.spotify.com/track/2OigxU9wBGUMndN0PTQQB5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Single In September](https://open.spotify.com/album/6N04UZxm95ds9VHro2wI4x) | 3:15 |
 | 7 | [Small Town Scandal](https://open.spotify.com/track/6HDN6dR62FhfxT9vhlXqfR) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts](https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk) | 3:30 |
@@ -29,25 +29,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mJNbq.md) - [plain]
 | 19 | [Queen of Hearts](https://open.spotify.com/track/1ctvMX4Ykwfa7dwIAQPvwA) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts](https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk) | 3:30 |
 | 20 | [Come Home With Me](https://open.spotify.com/track/2IUZ5ifH9R13RoK8X70lgF) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 3:36 |
 | 21 | [Crazy Ex](https://open.spotify.com/track/6oAiUgrZtKQIX3uWYy3MTz) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Falling Out / Falling In](https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb) | 2:29 |
-| 22 | [Loveline](https://open.spotify.com/track/5oLim0g3AnZSay3a6U7KTT) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel](https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO) | 2:29 |
+| 22 | [Explosion](https://open.spotify.com/track/6endOGznHKDNpOtC2DHc2V) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Immaculate Conception](https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7) | 3:30 |
 | 23 | [All Over Again](https://open.spotify.com/track/78kaWaza97WrIqCGDs0bYF) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts](https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk) | 2:49 |
-| 24 | [Explosion](https://open.spotify.com/track/6endOGznHKDNpOtC2DHc2V) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Immaculate Conception](https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7) | 3:30 |
+| 24 | [Loveline](https://open.spotify.com/track/5oLim0g3AnZSay3a6U7KTT) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel](https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO) | 2:29 |
 | 25 | [For the Both of Us](https://open.spotify.com/track/0yOEI0VoPeo1vyWjUnglLw) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Falling Out / Falling In](https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb) | 3:13 |
 | 26 | [Bye Bye Baby](https://open.spotify.com/track/4KQishDlTPsAJtih2MeETB) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Bye Bye Baby](https://open.spotify.com/album/7johZg5HaYBD0zl3b6fDMk) | 2:59 |
 | 27 | [What If](https://open.spotify.com/track/6IZkI9PhxaTHLLltkHBu4t) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts](https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk) | 2:54 |
-| 28 | [Like Heaven](https://open.spotify.com/track/2ZmZ536Je4LyhwfkmvjozR) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 3:47 |
+| 28 | [Evil Angel](https://open.spotify.com/track/6JOhnaA96rAc1BHgvDRp4Q) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel](https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO) | 2:23 |
 | 29 | [Drunk with Your Exes](https://open.spotify.com/track/2EyKyp1GPK6xhJSoVi4WRk) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Falling Out / Falling In](https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb) | 3:20 |
-| 30 | [Evil Angel](https://open.spotify.com/track/6JOhnaA96rAc1BHgvDRp4Q) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel](https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO) | 2:23 |
+| 30 | [Like Heaven](https://open.spotify.com/track/2ZmZ536Je4LyhwfkmvjozR) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 3:47 |
 | 31 | [Grave](https://open.spotify.com/track/5XZj0TXYvV7c34lP69peNI) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Grave](https://open.spotify.com/album/1qzE9q5WIok3jj1LOiMtuQ) | 2:32 |
-| 32 | [Black Magic](https://open.spotify.com/track/730cOyBWglmh94hEvmLoJE) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe Edition\)](https://open.spotify.com/album/0n2eTEITSu0EwdkpjtNFBr) | 3:12 |
-| 33 | [Kill for You](https://open.spotify.com/track/1ciiCR9U41zWj3JrMfHTyi) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Immaculate Conception](https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7) | 3:29 |
-| 34 | [Drag Me to Hell](https://open.spotify.com/track/79HDP4qmwaVq0mdajHOwhk) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel](https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO) | 2:30 |
+| 32 | [Drag Me to Hell](https://open.spotify.com/track/79HDP4qmwaVq0mdajHOwhk) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel](https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO) | 2:30 |
+| 33 | [Black Magic](https://open.spotify.com/track/730cOyBWglmh94hEvmLoJE) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe Edition\)](https://open.spotify.com/album/0n2eTEITSu0EwdkpjtNFBr) | 3:12 |
+| 34 | [Kill for You](https://open.spotify.com/track/1ciiCR9U41zWj3JrMfHTyi) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Immaculate Conception](https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7) | 3:29 |
 | 35 | [New You](https://open.spotify.com/track/1IM5NzUgVym6ERZc2nO0a2) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 3:44 |
-| 36 | [Mad](https://open.spotify.com/track/4mm4gtJhqVxJPxNGDhNmrp) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe Edition\)](https://open.spotify.com/album/0n2eTEITSu0EwdkpjtNFBr) | 2:58 |
-| 37 | [Drug Me Now](https://open.spotify.com/track/1bKyqptWUV3LYj5I7GpcPM) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Immaculate Conception](https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7) | 3:39 |
-| 38 | [Truth Tea](https://open.spotify.com/track/5bognKHojz6lQ7EzangIpr) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel](https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO) | 3:35 |
-| 39 | [Remind Me](https://open.spotify.com/track/1UCYSP9JPrHQuaJYHZjiw9) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 4:04 |
+| 36 | [Truth Tea](https://open.spotify.com/track/5bognKHojz6lQ7EzangIpr) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel](https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO) | 3:35 |
+| 37 | [Mad](https://open.spotify.com/track/4mm4gtJhqVxJPxNGDhNmrp) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe Edition\)](https://open.spotify.com/album/0n2eTEITSu0EwdkpjtNFBr) | 2:58 |
+| 38 | [Drug Me Now](https://open.spotify.com/track/1bKyqptWUV3LYj5I7GpcPM) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Immaculate Conception](https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7) | 3:39 |
+| 39 | [Spotless](https://open.spotify.com/track/2mqLJT1iTLvcPNlDalHLUe) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 3:41 |
 | 40 | [Retrograde](https://open.spotify.com/track/2MLtYl74hh8UBf1lbiDI0P) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe Edition\)](https://open.spotify.com/album/0n2eTEITSu0EwdkpjtNFBr) | 0:34 |
-| 41 | [Spotless](https://open.spotify.com/track/2mqLJT1iTLvcPNlDalHLUe) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 3:41 |
+| 41 | [Remind Me](https://open.spotify.com/track/1UCYSP9JPrHQuaJYHZjiw9) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 4:04 |
 
-Snapshot ID: `akrwAAAAAAAzQXqFf26YQJGCQv2u6Tm3`
+Snapshot ID: `ak2TAAAAAAD/sEjljhIIVB4L0dN2kmtv`

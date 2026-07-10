@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:4PooHx6BstbetDtBMrLyV7">Hurricane Wisdom</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,726,187 likes - 99 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,726,056 likes - 99 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

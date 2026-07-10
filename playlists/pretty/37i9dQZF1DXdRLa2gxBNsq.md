@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,429 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,439 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 72 | [Vuelvo](https://open.spotify.com/track/117c3qQUL3vBRVxEZs8RY0) | [Maldito Matas](https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5), [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Vuelvo](https://open.spotify.com/album/5nRDzsLm2kQBApYFP7miCf) | 2:56 |
 | 73 | [Un Día Caerán](https://open.spotify.com/track/17elqylJoZzetxkrdaOZgM) | [Los Pelukeros de Punset](https://open.spotify.com/artist/6juxKdApXKZBmcsINhuCb5) | [Un Día Caerán](https://open.spotify.com/album/4tbYlTd1gnFNRhtOwLeFqX) | 3:42 |
 | 74 | [SIEMPRE MÁS](https://open.spotify.com/track/2HkXsj2AyVTmvxjpMc8Azd) | [Sandré](https://open.spotify.com/artist/5jO693ntO8nc5utL8HpE4H) | [PACIENCIA INFINITA](https://open.spotify.com/album/3m0GMOTc1MIGGofXOvf2oD) | 2:17 |
-| 75 | [O Mundo Toleou](https://open.spotify.com/track/0L3iUfeunkRbkftq1ZnYsA) | [Residuos Do Sistema](https://open.spotify.com/artist/3jQFONl2KOkCENGhDnJzWo), [Soak](https://open.spotify.com/artist/1sFx9AKYzR2OQYrUin52Pa) | [O Mundo Toleou](https://open.spotify.com/album/0SGKBiTKEXGACMk9mepESk) | 3:38 |
-| 76 | [Madrid Ha Muerto](https://open.spotify.com/track/6jrDxmAS6m2xkSD9v74sXD) | [Dr\. Gayolas](https://open.spotify.com/artist/4vCE8m5O8lGQXiyggF06BC) | [Madrid Ha Muerto](https://open.spotify.com/album/4Ah7fYbucAHZzsXiwsryIk) | 3:43 |
+| 75 | [Madrid Ha Muerto](https://open.spotify.com/track/6jrDxmAS6m2xkSD9v74sXD) | [Dr\. Gayolas](https://open.spotify.com/artist/4vCE8m5O8lGQXiyggF06BC) | [Madrid Ha Muerto](https://open.spotify.com/album/4Ah7fYbucAHZzsXiwsryIk) | 3:43 |
+| 76 | [O Mundo Toleou](https://open.spotify.com/track/0L3iUfeunkRbkftq1ZnYsA) | [Residuos Do Sistema](https://open.spotify.com/artist/3jQFONl2KOkCENGhDnJzWo), [Soak](https://open.spotify.com/artist/1sFx9AKYzR2OQYrUin52Pa) | [O Mundo Toleou](https://open.spotify.com/album/0SGKBiTKEXGACMk9mepESk) | 3:38 |
 | 77 | [Catalogados como peligrosos](https://open.spotify.com/track/3VCWH0n4b6dWtN0T7vnk3u) | [Desklate](https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT) | [Catalogados como peligrosos](https://open.spotify.com/album/01l7PPkuFKJzShOJGeVNpY) | 3:11 |
 | 78 | [Noches sin Luna](https://open.spotify.com/track/4sITI73ZbmS3a0veXw9LVb) | [La Mercury Punk](https://open.spotify.com/artist/5Fz3D2AtzaclCUr00tsnRo) | [Noches sin Luna](https://open.spotify.com/album/6dZzwhTELHgpFyIvC0TMVK) | 4:19 |
 | 79 | [Todo Se Acabo](https://open.spotify.com/track/5UpfB5tiLoVGwRNGhoNOTq) | [Enemigo Públiko](https://open.spotify.com/artist/1MfL8wnULVrgsqrIjIevtU) | [Gracias por Nada](https://open.spotify.com/album/4gXzOIRctezyzmCpmjcL89) | 3:03 |

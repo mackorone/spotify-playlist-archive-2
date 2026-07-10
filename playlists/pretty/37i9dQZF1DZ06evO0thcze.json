@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 58076,
+  "num_followers": 58079,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAD0X2AiHvpPoE4vlP8oFaOI",
+  "snapshot_id": "ak2TAAAAAACQCyQYI2IEGWgWpahwbxq3",
   "tracks": [
     {
       "added_at": null,
@@ -1327,6 +1327,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/3axy5HCe5bZWbJ493RS5ED"
+      },
+      "artists": [
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Alguien Que Me Cure",
+      "url": "https://open.spotify.com/track/7uq7pPp522U0jfAPN6HidR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Sentirme Vivo",
         "url": "https://open.spotify.com/album/014SJuIpfuhxP6OIovEJoe"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 271843,
       "name": "Para Sentirme Vivo",
       "url": "https://open.spotify.com/track/5SRsUMyQUSZbNy8sMYfK4I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/3axy5HCe5bZWbJ493RS5ED"
-      },
-      "artists": [
-        {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Alguien Que Me Cure",
-      "url": "https://open.spotify.com/track/7uq7pPp522U0jfAPN6HidR"
     },
     {
       "added_at": null,

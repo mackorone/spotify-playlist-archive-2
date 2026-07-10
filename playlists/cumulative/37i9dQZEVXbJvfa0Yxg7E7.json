@@ -28061,6 +28061,24 @@
     },
     {
       "album": {
+        "name": "Kygo Jo",
+        "url": "https://open.spotify.com/album/48ad5thLDu7xY01BdelYJa"
+      },
+      "artists": [
+        {
+          "name": "Lundenesrussen",
+          "url": "https://open.spotify.com/artist/5DSRnbun1oKwK7zykghVuN"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214177,
+      "name": "Kygo Jo",
+      "url": "https://open.spotify.com/track/7fWaeDlAHFY1UDDBBXQ6h0"
+    },
+    {
+      "album": {
         "name": "Kygo Jo (feat. Lyng) [Kygo Remix]",
         "url": "https://open.spotify.com/album/6AQiRXJ2i48Lu7CFUrKUER"
       },
@@ -28088,6 +28106,24 @@
       "duration_ms": 153272,
       "name": "Kygo Jo (feat. Lyng) - Kygo Remix",
       "url": "https://open.spotify.com/track/3ExrDwHbhBZYurE2AOC1rL"
+    },
+    {
+      "album": {
+        "name": "Kygo Jo (Remix)",
+        "url": "https://open.spotify.com/album/0Fkyj1B7wkedWLJVka1dSx"
+      },
+      "artists": [
+        {
+          "name": "MYTEN",
+          "url": "https://open.spotify.com/artist/1782aLMLW3c2T2R1UboUHa"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214054,
+      "name": "Kygo Jo - Remix",
+      "url": "https://open.spotify.com/track/4JmemoGKz7mP5gOXJUPygU"
     },
     {
       "album": {
@@ -29024,7 +29060,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 292134,
       "name": "Lett \u00e5 v\u00e6re rebell i kjellerleiligheten din",
       "url": "https://open.spotify.com/track/5svApusjXxsUMwEjiBovhK"
@@ -36858,7 +36894,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 226706,
       "name": "PAF.no",
       "url": "https://open.spotify.com/track/2coLAzVouJE4BC8lrKbDLk"
@@ -37132,7 +37168,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-09",
+      "date_removed": null,
       "duration_ms": 291769,
       "name": "Pappa",
       "url": "https://open.spotify.com/track/5l6motPyFOsw6O0bw4Bvpk"
@@ -41132,6 +41168,32 @@
     {
       "album": {
         "name": "SAMMEN FOR NORGE",
+        "url": "https://open.spotify.com/album/0NlvZMvS0BxtsIASZkYfJJ"
+      },
+      "artists": [
+        {
+          "name": "Nicolay Ramm",
+          "url": "https://open.spotify.com/artist/5VD5GCCQ2hh0m7ufVlmcue"
+        },
+        {
+          "name": "Markus Neby",
+          "url": "https://open.spotify.com/artist/7sv89W9sP0NujFoaPcurVZ"
+        },
+        {
+          "name": "Stjerner For Norge",
+          "url": "https://open.spotify.com/artist/2U9VW8fvgTHqi9SCmf9b0M"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195425,
+      "name": "SAMMEN FOR NORGE",
+      "url": "https://open.spotify.com/track/2dVBclLQDYL8mdsgPOgGFk"
+    },
+    {
+      "album": {
+        "name": "SAMMEN FOR NORGE",
         "url": "https://open.spotify.com/album/0KJLqWTb8C9JQSLxHQr6Ub"
       },
       "artists": [
@@ -41150,7 +41212,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 195425,
       "name": "SAMMEN FOR NORGE",
       "url": "https://open.spotify.com/track/4t0PYPeACGNWLJYniAqnVg"
@@ -45488,7 +45550,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 168773,
       "name": "Stjerner",
       "url": "https://open.spotify.com/track/0xvwQpWsloKMkEO9pxttwk"

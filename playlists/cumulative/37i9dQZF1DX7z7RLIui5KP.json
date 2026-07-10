@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Ssaru & Scar Mkadinali",
+  "description": "Proudly Kenyan gems made for the entire family. Cover: Matata",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -166,7 +166,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 231887,
       "name": "Anitah",
       "url": "https://open.spotify.com/track/6TTMF57Wiks0T8Z9tTvoLi"
@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 154000,
       "name": "For the Money",
       "url": "https://open.spotify.com/track/3YcqvoZ8wWD1ZWlslc0oPs"
@@ -3803,6 +3803,46 @@
     },
     {
       "album": {
+        "name": "Top Dollar",
+        "url": "https://open.spotify.com/album/4Q0EDop5sO6JqWfWrjLD7C"
+      },
+      "artists": [
+        {
+          "name": "Nameless",
+          "url": "https://open.spotify.com/artist/5e1OCdBgITL78zBRyW2wOf"
+        },
+        {
+          "name": "Okello Max",
+          "url": "https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203149,
+      "name": "Top Dollar",
+      "url": "https://open.spotify.com/track/0LbJnftqpmFdQoovMaRSUb"
+    },
+    {
+      "album": {
+        "name": "Top Shotta",
+        "url": "https://open.spotify.com/album/3Al5YNLwEWsuvJB5kEQ2cv"
+      },
+      "artists": [
+        {
+          "name": "Collo Blue",
+          "url": "https://open.spotify.com/artist/36JUu7ydl5Is9601ZhpLw3"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Top Shotta",
+      "url": "https://open.spotify.com/track/6Y3sJ0YFGYq793RrpmxqAn"
+    },
+    {
+      "album": {
         "name": "TRUE LOVE",
         "url": "https://open.spotify.com/album/3AWoNtSF6MCGBrJO1jrFR0"
       },
@@ -3942,7 +3982,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 219782,
       "name": "Umekuwa Wapi",
       "url": "https://open.spotify.com/track/71U2cD3TdVSYK9RR0TZgTi"
@@ -4082,6 +4122,28 @@
       "duration_ms": 197052,
       "name": "Utaambia Nini Watu?",
       "url": "https://open.spotify.com/track/1wzAlsS1kuKcXT6qJwh0Vh"
+    },
+    {
+      "album": {
+        "name": "Valle",
+        "url": "https://open.spotify.com/album/2BcVfop7n81LMww1Facj1a"
+      },
+      "artists": [
+        {
+          "name": "Matata",
+          "url": "https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV"
+        },
+        {
+          "name": "DJames",
+          "url": "https://open.spotify.com/artist/5okIIcFP9Tm05dnmf3qWij"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217720,
+      "name": "Valle",
+      "url": "https://open.spotify.com/track/2Uhbpvs7xnBfyBQ7iILT7t"
     },
     {
       "album": {

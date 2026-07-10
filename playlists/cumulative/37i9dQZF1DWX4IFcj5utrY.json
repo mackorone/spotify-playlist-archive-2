@@ -2028,7 +2028,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 333687,
       "name": "Amaphutha",
       "url": "https://open.spotify.com/track/6WAgkWtdNWXoZf8ZFkH5j1"
@@ -3822,7 +3822,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 298536,
       "name": "Bayathakatha (feat. Dladla Mshunqisi, Beast RSA & Sazified)",
       "url": "https://open.spotify.com/track/1YFv2J0MYXFq4JSfbqSzMr"
@@ -11231,6 +11231,28 @@
     },
     {
       "album": {
+        "name": "Hamba Nawe",
+        "url": "https://open.spotify.com/album/7720b71R3tldNOQDtxI2B9"
+      },
+      "artists": [
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        },
+        {
+          "name": "Mashudu",
+          "url": "https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372005,
+      "name": "Hamba Nawe",
+      "url": "https://open.spotify.com/track/2wehBHqjisx7V17lBLHGSZ"
+    },
+    {
+      "album": {
         "name": "Ghetto Fabulous EP",
         "url": "https://open.spotify.com/album/5oyeuUFpW5rSTCru7DNLV3"
       },
@@ -14064,6 +14086,36 @@
       "duration_ms": 363934,
       "name": "Into Flight",
       "url": "https://open.spotify.com/track/2MCCHRaafQVRveq79PdXRn"
+    },
+    {
+      "album": {
+        "name": "INtombi Entsha (feat. Essa Kay, Mnqobi Yazo & Mpumi)",
+        "url": "https://open.spotify.com/album/6ig0oDi8TK85VmuNuQYXKJ"
+      },
+      "artists": [
+        {
+          "name": "TNS",
+          "url": "https://open.spotify.com/artist/5uAbOIIAk6nHfy7gikjmYy"
+        },
+        {
+          "name": "Essa Kay",
+          "url": "https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh"
+        },
+        {
+          "name": "Mnqobi Yazo",
+          "url": "https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu"
+        },
+        {
+          "name": "Mpumi",
+          "url": "https://open.spotify.com/artist/7IoFnVmSBtCK528aCfFQdJ"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328797,
+      "name": "INtombi Entsha (feat. Essa Kay, Mnqobi Yazo & Mpumi)",
+      "url": "https://open.spotify.com/track/7CI6r9oceCzafniw8Yq739"
     },
     {
       "album": {
@@ -21258,7 +21310,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 385573,
       "name": "NgyaSindelwa",
       "url": "https://open.spotify.com/track/6PUTXnLSGYwKdtSmbTTHXa"
@@ -30734,6 +30786,28 @@
       "duration_ms": 169180,
       "name": "Umenitosha - Robin M Edit",
       "url": "https://open.spotify.com/track/3zacIPKScAlqfEdK7kd2tL"
+    },
+    {
+      "album": {
+        "name": "Umgido",
+        "url": "https://open.spotify.com/album/7xM3YscIeL5H7kU4oD7d0D"
+      },
+      "artists": [
+        {
+          "name": "Jnr SA",
+          "url": "https://open.spotify.com/artist/4z55shVorhhVNDP21Zojku"
+        },
+        {
+          "name": "Oscar Mbo",
+          "url": "https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360005,
+      "name": "Umgido",
+      "url": "https://open.spotify.com/track/3DEDg2rdY2YHVO4gWQjFP3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Yo no sé si no o si sí, pero sé que el Nata está de regreso y yo ya con eso digo que somos campeones <3 Y si se la saaaaaben
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,202,535 likes - 58 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,202,569 likes - 58 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

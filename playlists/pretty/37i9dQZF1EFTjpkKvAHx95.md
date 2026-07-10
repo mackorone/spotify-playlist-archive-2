@@ -167,8 +167,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 157 | [Hiatus](https://open.spotify.com/track/0R39oVT0h8jmmLADI7dkdy) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Young HeartThrob](https://open.spotify.com/album/7lmS1zDxOuTlJrJ8C1NHEW) | 3:02 |
 | 158 | [Things We Do](https://open.spotify.com/track/2sRG4WyPyGNLC20djAMXAL) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 2:59 |
 | 159 | [i need some inspo](https://open.spotify.com/track/3aakGDVfwfVgUgT10ax7zE) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [HELLA PRESSURE](https://open.spotify.com/album/1dG31Tcl0pmtn9vtFWw13d) | 2:41 |
-| 160 | [Mind Fucked](https://open.spotify.com/track/6G9hOorRnt0rInSSiW2U1d) | [Lyrica Anderson](https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh) | [Adia](https://open.spotify.com/album/6E9ZTmTTn4cOuWYWVBB931) | 2:48 |
-| 161 | [Mine](https://open.spotify.com/track/6hJLU6wfRj9JAJd6vFhpIY) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [God Must Really Love Me](https://open.spotify.com/album/2PgYxXmW7geBRncBAgpzNL) | 3:34 |
+| 160 | [Mine](https://open.spotify.com/track/6hJLU6wfRj9JAJd6vFhpIY) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [God Must Really Love Me](https://open.spotify.com/album/2PgYxXmW7geBRncBAgpzNL) | 3:34 |
+| 161 | [Mind Fucked](https://open.spotify.com/track/6G9hOorRnt0rInSSiW2U1d) | [Lyrica Anderson](https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh) | [Adia](https://open.spotify.com/album/6E9ZTmTTn4cOuWYWVBB931) | 2:48 |
 | 162 | [Best Friend](https://open.spotify.com/track/5TS5vMVVmf1mX1LYHNZdit) | [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [HAPPY 2 BE HERE](https://open.spotify.com/album/1CGxJ2HpqjEqmU56coDJyW) | 3:14 |
 | 163 | [No One](https://open.spotify.com/track/5AUDQcHzHl8lduqXBZq3Wc) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Reconstruction: Second Story](https://open.spotify.com/album/2DhoiwGl6jcbrMhCSwP44c) | 3:06 |
 | 164 | [Really Rare](https://open.spotify.com/track/3Vfj5HwBqHN1tBE7hMOmaj) | [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [Estrella](https://open.spotify.com/album/1ffizbY37d01taYetGPW2i) | 2:36 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 170 | [Wild Wild](https://open.spotify.com/track/4amxzY7kxQga4kZadCSWLY) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 3:02 |
 | 171 | [Can't Be Friends](https://open.spotify.com/track/6TwTDw7wzxk4PJeKd4pYOR) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 2:30 |
 
-Snapshot ID: `AcWVvAAAAAAOghf80Vf/jvAq7JPcZ1Mo`
+Snapshot ID: `AcWbUgAAAACYGHFi1M9DUxLqpi6OXefr`

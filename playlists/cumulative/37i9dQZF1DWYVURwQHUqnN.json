@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : TRIANGLE DES BERMUDES",
+  "description": "Photo : Jungeli",
   "name": "Best Life",
   "tracks": [
     {
@@ -238,7 +238,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 126720,
       "name": "7/7",
       "url": "https://open.spotify.com/track/68GcenbAtV9PVfFLvBjLm8"
@@ -2182,7 +2182,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 182209,
       "name": "chAmpagne",
       "url": "https://open.spotify.com/track/6jA2JzaXl46LbUeXTe99Yh"
@@ -4025,6 +4025,28 @@
     },
     {
       "album": {
+        "name": "Fendi Gang",
+        "url": "https://open.spotify.com/album/2a3O5qqfu691nrTKSMVz4g"
+      },
+      "artists": [
+        {
+          "name": "Marwa Loud",
+          "url": "https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV"
+        },
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177154,
+      "name": "Fendi Gang",
+      "url": "https://open.spotify.com/track/683LQJzTRemt1ZhCYxixwx"
+    },
+    {
+      "album": {
         "name": "FENTY BEAUTY",
         "url": "https://open.spotify.com/album/5VOr3DSFhTpFsHLR8MGRm8"
       },
@@ -4298,6 +4320,28 @@
       "duration_ms": 153750,
       "name": "Genkidama",
       "url": "https://open.spotify.com/track/09n6Y0EosYBt0SDyPlwNu2"
+    },
+    {
+      "album": {
+        "name": "Ghetto",
+        "url": "https://open.spotify.com/album/1IfoVSxWUntLQPvQdWlINh"
+      },
+      "artists": [
+        {
+          "name": "L'Allemand",
+          "url": "https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On"
+        },
+        {
+          "name": "Sasso",
+          "url": "https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164090,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/6RTroG5eJSnRIg3HkdDlTi"
     },
     {
       "album": {
@@ -5863,6 +5907,24 @@
     },
     {
       "album": {
+        "name": "Madame",
+        "url": "https://open.spotify.com/album/5SOuiSAWU96n3aOnTp838P"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118431,
+      "name": "Madame",
+      "url": "https://open.spotify.com/track/0K9EmVgpvkteeQwzhmb4oM"
+    },
+    {
+      "album": {
         "name": "KAID",
         "url": "https://open.spotify.com/album/1hLGGWyMJ4yJ84c7CITrWC"
       },
@@ -7155,6 +7217,28 @@
     },
     {
       "album": {
+        "name": "NO EX NO STRESS (feat. Tiitof)",
+        "url": "https://open.spotify.com/album/7f7XKdVoTuxT8od0CDVSs4"
+      },
+      "artists": [
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        },
+        {
+          "name": "Tiitof",
+          "url": "https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129411,
+      "name": "NO EX NO STRESS (feat. Tiitof)",
+      "url": "https://open.spotify.com/track/5ang7xKx9vHiPlByHGuyR1"
+    },
+    {
+      "album": {
         "name": "VENI VIDI VICI",
         "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
       },
@@ -7868,6 +7952,24 @@
       "duration_ms": 128465,
       "name": "Pas besoin de toi",
       "url": "https://open.spotify.com/track/5qaKyps348j6M5NkP4n6h9"
+    },
+    {
+      "album": {
+        "name": "Pas b\u00e9nef",
+        "url": "https://open.spotify.com/album/2z1vNsKXAA72YzqFrAHd7s"
+      },
+      "artists": [
+        {
+          "name": "JKSN",
+          "url": "https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158740,
+      "name": "Pas b\u00e9nef",
+      "url": "https://open.spotify.com/track/0Yj8YEKajzJLetLzQA0DxK"
     },
     {
       "album": {
@@ -9434,7 +9536,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 128893,
       "name": "Sans stress",
       "url": "https://open.spotify.com/track/0B33WPVHg5IJ9dNxZ0CyqR"
@@ -9818,7 +9920,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 155238,
       "name": "Snapelele",
       "url": "https://open.spotify.com/track/6wdQiVCKbSTD2FfoHzrKx2"
@@ -9938,7 +10040,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 183307,
       "name": "SPA",
       "url": "https://open.spotify.com/track/5UpupDvr2w93ccnEmmhS5q"
@@ -10608,7 +10710,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 131294,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/0jcb5URG3a2pZe7j9IDESI"
@@ -10978,6 +11080,24 @@
       "duration_ms": 272830,
       "name": "Trop Bizarre",
       "url": "https://open.spotify.com/track/6JnYVpEvdSMKYwLUfoM4v7"
+    },
+    {
+      "album": {
+        "name": "Trop Fraiche",
+        "url": "https://open.spotify.com/album/7GBneKI6IR3latK2CdK7Vr"
+      },
+      "artists": [
+        {
+          "name": "WarEnd",
+          "url": "https://open.spotify.com/artist/0kf4yD8VtffGwtLpbienGR"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Trop Fraiche",
+      "url": "https://open.spotify.com/track/3hIKqZ803uCNrimYU2ERiL"
     },
     {
       "album": {

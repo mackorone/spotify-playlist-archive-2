@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27252,
+  "num_followers": 27250,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-10-23 13:55:51",
       "album": {
-        "name": "\u6708\u5149\u6d74",
-        "url": "https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 248130,
-      "name": "\u6708\u5149\u6d74",
-      "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
         "name": "\u732b\u3068\u30a2\u30ec\u30eb\u30ae\u30fc",
         "url": "https://open.spotify.com/album/42G6RaP6sG7YOPYSyOFkkK"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 224480,
       "name": "\u602a\u7363\u306e\u8155\u306e\u306a\u304b",
       "url": "https://open.spotify.com/track/6MqrpdDa19FOxnhWfPsCgo"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u6708\u5149\u6d74",
+        "url": "https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 248130,
+      "name": "\u6708\u5149\u6d74",
+      "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -805,6 +805,22 @@
       "url": "https://open.spotify.com/track/2l02YNthg1e2dyXrv8gacQ"
     },
     {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "orion",
+        "url": "https://open.spotify.com/album/1Vbibus80oIZ7GWnsYLNtp"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 283333,
+      "name": "orion",
+      "url": "https://open.spotify.com/track/6FHEL65apB44ucTqTfbhtG"
+    },
+    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "\u30d7\u30e9\u30a4\u30de\u30eb",
@@ -835,22 +851,6 @@
       "duration_ms": 265803,
       "name": "\u6708\u306b\u5420\u3048\u308b",
       "url": "https://open.spotify.com/track/7sLxvJ2Lj4Kf2K6Wa7OEk1"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "orion",
-        "url": "https://open.spotify.com/album/1Vbibus80oIZ7GWnsYLNtp"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 283333,
-      "name": "orion",
-      "url": "https://open.spotify.com/track/6FHEL65apB44ucTqTfbhtG"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
+        "name": "SNOW SOUND / \u4eca\u307e\u3067\u541b\u304c\u6ce3\u3044\u305f\u5206\u53d6\u308a\u623b\u305d\u3046",
+        "url": "https://open.spotify.com/album/4JnLPlsSyrE4pD9TV6WLTj"
+      },
+      "artists": [
+        {
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "SNOW SOUND",
+      "url": "https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
         "name": "\u591c\u51ea (feat. \u306b\u3057\u306a)",
         "url": "https://open.spotify.com/album/4AAjWHXAFXvJ3bScDWyHaU"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 207492,
       "name": "\u591c\u51ea (feat. \u306b\u3057\u306a)",
       "url": "https://open.spotify.com/track/4peHpL8DSQpDxblRCZEHbd"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "SNOW SOUND / \u4eca\u307e\u3067\u541b\u304c\u6ce3\u3044\u305f\u5206\u53d6\u308a\u623b\u305d\u3046",
-        "url": "https://open.spotify.com/album/4JnLPlsSyrE4pD9TV6WLTj"
-      },
-      "artists": [
-        {
-          "name": "[Alexandros]",
-          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "SNOW SOUND",
-      "url": "https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1237,22 +1237,6 @@
       "url": "https://open.spotify.com/track/3fNnXZJUEZU0QUvUgdMVeI"
     },
     {
-      "added_at": "2025-12-24 00:34:11",
-      "album": {
-        "name": "You Got This",
-        "url": "https://open.spotify.com/album/5uN2MpBZUHi1lrOvZYJNta"
-      },
-      "artists": [
-        {
-          "name": "m-flo",
-          "url": "https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O"
-        }
-      ],
-      "duration_ms": 255603,
-      "name": "You Got This",
-      "url": "https://open.spotify.com/track/4ZQtHM0XoIJuuyy2Njg2Pw"
-    },
-    {
       "added_at": "2025-12-16 15:00:32",
       "album": {
         "name": "\u84bc\u304d\u6625",
@@ -1267,6 +1251,22 @@
       "duration_ms": 240197,
       "name": "\u84bc\u304d\u6625",
       "url": "https://open.spotify.com/track/2e9fua8pHpkK6Wso8Cq97c"
+    },
+    {
+      "added_at": "2025-12-24 00:34:11",
+      "album": {
+        "name": "You Got This",
+        "url": "https://open.spotify.com/album/5uN2MpBZUHi1lrOvZYJNta"
+      },
+      "artists": [
+        {
+          "name": "m-flo",
+          "url": "https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O"
+        }
+      ],
+      "duration_ms": 255603,
+      "name": "You Got This",
+      "url": "https://open.spotify.com/track/4ZQtHM0XoIJuuyy2Njg2Pw"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1301,22 +1301,6 @@
       "url": "https://open.spotify.com/track/2OnBkllxuR4IdUyvxfPAk6"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "imagination",
-        "url": "https://open.spotify.com/album/5MVA7qhcvMPhY7sK0Opw65"
-      },
-      "artists": [
-        {
-          "name": "clammbon",
-          "url": "https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Folklore",
-      "url": "https://open.spotify.com/track/0VVYgGflTZEUbz8vr04Awo"
-    },
-    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "NIGHT DANCER (Yaffle Holiday Remix - Spotify Singles)",
@@ -1335,6 +1319,22 @@
       "duration_ms": 231638,
       "name": "NIGHT DANCER - Yaffle Holiday Remix - Spotify Singles",
       "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "imagination",
+        "url": "https://open.spotify.com/album/5MVA7qhcvMPhY7sK0Opw65"
+      },
+      "artists": [
+        {
+          "name": "clammbon",
+          "url": "https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Folklore",
+      "url": "https://open.spotify.com/track/0VVYgGflTZEUbz8vr04Awo"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "Ken Hirai 10th Anniversary Complete Single Collection '95-'05 \u6b4c\u30d0\u30ab",
-        "url": "https://open.spotify.com/album/6XLXlr6vKDBxkpgkBKF502"
-      },
-      "artists": [
-        {
-          "name": "Ken Hirai",
-          "url": "https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc"
-        }
-      ],
-      "duration_ms": 339773,
-      "name": "even if",
-      "url": "https://open.spotify.com/track/6rKel5kmQN62IKewLUPBze"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
         "name": "\u30b1\u30e2\u30ce\u3068\u9b54\u6cd5",
         "url": "https://open.spotify.com/album/3Lcdpg8rJFvlTYtybS7sxw"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 241626,
       "name": "\u3082\u3046\u3059\u3050\u591c\u304c\u3042\u3051\u308b",
       "url": "https://open.spotify.com/track/5pwNKKm5rN04L5boM59llf"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "Ken Hirai 10th Anniversary Complete Single Collection '95-'05 \u6b4c\u30d0\u30ab",
+        "url": "https://open.spotify.com/album/6XLXlr6vKDBxkpgkBKF502"
+      },
+      "artists": [
+        {
+          "name": "Ken Hirai",
+          "url": "https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc"
+        }
+      ],
+      "duration_ms": 339773,
+      "name": "even if",
+      "url": "https://open.spotify.com/track/6rKel5kmQN62IKewLUPBze"
     },
     {
       "added_at": "2025-12-11 02:28:39",
@@ -1585,22 +1585,6 @@
       "url": "https://open.spotify.com/track/6TgWVZWAjihesMAPcIwFnY"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "\u51ac\u306e\u4e88\u611f",
-        "url": "https://open.spotify.com/album/6UaY4IfXT6wnafnjSlBRhI"
-      },
-      "artists": [
-        {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
-        }
-      ],
-      "duration_ms": 201462,
-      "name": "\u51ac\u306e\u4e88\u611f",
-      "url": "https://open.spotify.com/track/7oRPjRlfRnWZcBH4j8WAAT"
-    },
-    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "snow love",
@@ -1615,6 +1599,22 @@
       "duration_ms": 206461,
       "name": "snow love",
       "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u51ac\u306e\u4e88\u611f",
+        "url": "https://open.spotify.com/album/6UaY4IfXT6wnafnjSlBRhI"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "duration_ms": 201462,
+      "name": "\u51ac\u306e\u4e88\u611f",
+      "url": "https://open.spotify.com/track/7oRPjRlfRnWZcBH4j8WAAT"
     },
     {
       "added_at": "2025-03-11 22:40:18",

@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: La Pegatina\n",
-  "num_followers": 71630,
+  "num_followers": 71648,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Ensenada",
-        "url": "https://open.spotify.com/album/1uQ9JO4DlACYQiJWy3bGtw"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        }
-      ],
-      "duration_ms": 154484,
-      "name": "Ensenada",
-      "url": "https://open.spotify.com/track/2sRWqEaeb91Lv6KwDQnHlO"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "Pericos & Friends",
         "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 233267,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Ensenada",
+        "url": "https://open.spotify.com/album/1uQ9JO4DlACYQiJWy3bGtw"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "duration_ms": 154484,
+      "name": "Ensenada",
+      "url": "https://open.spotify.com/track/2sRWqEaeb91Lv6KwDQnHlO"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Rudy Come Home",
-        "url": "https://open.spotify.com/album/4BXqCarGoMoEtcD0hrnuxq"
-      },
-      "artists": [
-        {
-          "name": "Death Of Guitar Pop",
-          "url": "https://open.spotify.com/artist/6fD5uxjcSC0aF0FO61e5id"
-        }
-      ],
-      "duration_ms": 240429,
-      "name": "Rudy Come Home",
-      "url": "https://open.spotify.com/track/6tRydI62ouOLxHAIPMv9tZ"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "Frecuencia Extrema",
         "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 198373,
       "name": "Mala Vida",
       "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Rudy Come Home",
+        "url": "https://open.spotify.com/album/4BXqCarGoMoEtcD0hrnuxq"
+      },
+      "artists": [
+        {
+          "name": "Death Of Guitar Pop",
+          "url": "https://open.spotify.com/artist/6fD5uxjcSC0aF0FO61e5id"
+        }
+      ],
+      "duration_ms": 240429,
+      "name": "Rudy Come Home",
+      "url": "https://open.spotify.com/track/6tRydI62ouOLxHAIPMv9tZ"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Balkan Boys",
-        "url": "https://open.spotify.com/album/23UxzhoU54vxIAqEFdsxI0"
-      },
-      "artists": [
-        {
-          "name": "Dubioza kolektiv",
-          "url": "https://open.spotify.com/artist/02IFYoziC7CpQRK8fbehUY"
-        }
-      ],
-      "duration_ms": 124580,
-      "name": "Balkan Boys",
-      "url": "https://open.spotify.com/track/1Q20822BTCqDzM0I3OPuGF"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "Alles gl\u00e4nzt",
         "url": "https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 196699,
       "name": "Komm mit aufs Boot",
       "url": "https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Balkan Boys",
+        "url": "https://open.spotify.com/album/23UxzhoU54vxIAqEFdsxI0"
+      },
+      "artists": [
+        {
+          "name": "Dubioza kolektiv",
+          "url": "https://open.spotify.com/artist/02IFYoziC7CpQRK8fbehUY"
+        }
+      ],
+      "duration_ms": 124580,
+      "name": "Balkan Boys",
+      "url": "https://open.spotify.com/track/1Q20822BTCqDzM0I3OPuGF"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
+        "name": "STAY YOUNG STAY PUNK",
+        "url": "https://open.spotify.com/album/7k8Bm7SqifQOJK9iGvCT76"
+      },
+      "artists": [
+        {
+          "name": "FIVE STATE DRIVE",
+          "url": "https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "STAY YOUNG STAY PUNK",
+      "url": "https://open.spotify.com/track/1vkAooo0F2HolXGWOnu31C"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/751vQFOW3Ta6H207f2KXAp"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 179109,
       "name": "Juice",
       "url": "https://open.spotify.com/track/7EfoHAFmh3NXkFv6psha4K"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
-        "name": "STAY YOUNG STAY PUNK",
-        "url": "https://open.spotify.com/album/7k8Bm7SqifQOJK9iGvCT76"
-      },
-      "artists": [
-        {
-          "name": "FIVE STATE DRIVE",
-          "url": "https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "STAY YOUNG STAY PUNK",
-      "url": "https://open.spotify.com/track/1vkAooo0F2HolXGWOnu31C"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
+        "name": "Pancho",
+        "url": "https://open.spotify.com/album/7DrM0Z9XB0tTOi1gCqZXQf"
+      },
+      "artists": [
+        {
+          "name": "Fast Food Orchestra",
+          "url": "https://open.spotify.com/artist/2EjBCwIB8BXPEdWQKTeEqN"
+        }
+      ],
+      "duration_ms": 161818,
+      "name": "Pancho",
+      "url": "https://open.spotify.com/track/5X1pCdS5HwMHXeE2Yz7ZaC"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
         "name": "Zombiler",
         "url": "https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 303466,
       "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba - feat.TAKUMA (10-FEET)",
       "url": "https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
-        "name": "Pancho",
-        "url": "https://open.spotify.com/album/7DrM0Z9XB0tTOi1gCqZXQf"
-      },
-      "artists": [
-        {
-          "name": "Fast Food Orchestra",
-          "url": "https://open.spotify.com/artist/2EjBCwIB8BXPEdWQKTeEqN"
-        }
-      ],
-      "duration_ms": 161818,
-      "name": "Pancho",
-      "url": "https://open.spotify.com/track/5X1pCdS5HwMHXeE2Yz7ZaC"
     },
     {
       "added_at": "2026-03-20 06:00:11",

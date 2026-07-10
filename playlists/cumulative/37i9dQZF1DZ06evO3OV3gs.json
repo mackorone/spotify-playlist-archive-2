@@ -478,7 +478,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 215133,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/1MQTYbCmC1IvL94JtGB33E"
@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 250280,
       "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
       "url": "https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa"
@@ -1747,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227248,
+      "name": "Love Sensation",
+      "url": "https://open.spotify.com/track/1ViHUUTbkDgS9iyLmWgIYt"
+    },
+    {
+      "album": {
         "name": "Love Sensation",
         "url": "https://open.spotify.com/album/2kWMFjZvvOYNk7H89MsqI2"
       },
@@ -1776,7 +1794,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 260993,
       "name": "Love Without Words",
       "url": "https://open.spotify.com/track/0LQrDtj0l5Y0CZ59ZWDXTd"

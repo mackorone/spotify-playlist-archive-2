@@ -1,12 +1,12 @@
 {
   "description": "This is Sebastian Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2229,
+  "num_followers": 2228,
   "original_name": "This Is Sebastian Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAADr02gYT+7OEaqHN0PUE1HU",
+  "snapshot_id": "ak2TAAAAAABQxe+7Q/XY0BEASl8QQvAJ",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "B\u00e9lico y Cholo",
+        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 202218,
+      "name": "B\u00e9lico y Cholo",
+      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Que Sepan",
         "url": "https://open.spotify.com/album/709GhQq0Z1aKimTNKLkIs3"
       },
@@ -155,26 +175,6 @@
       "duration_ms": 228586,
       "name": "Pa Que Sepan",
       "url": "https://open.spotify.com/track/5PQUxBt32csrfY9hTjUG1G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B\u00e9lico y Cholo",
-        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        }
-      ],
-      "duration_ms": 202218,
-      "name": "B\u00e9lico y Cholo",
-      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
     },
     {
       "added_at": null,
@@ -211,34 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gustas",
-        "url": "https://open.spotify.com/album/31rzW2cjlkcOlzg17R44At"
-      },
-      "artists": [
-        {
-          "name": "8Uno",
-          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 146779,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/7HvWi85alJcNb2z3PFyVjl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "6AM",
         "url": "https://open.spotify.com/album/5T8BE0bIWYbJo8r5lNhoC1"
       },
@@ -267,6 +239,34 @@
       "duration_ms": 147401,
       "name": "6AM",
       "url": "https://open.spotify.com/track/584QtvdD4qgocm4RMZGaXA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Gustas",
+        "url": "https://open.spotify.com/album/31rzW2cjlkcOlzg17R44At"
+      },
+      "artists": [
+        {
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 146779,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/7HvWi85alJcNb2z3PFyVjl"
     },
     {
       "added_at": null,
@@ -547,6 +547,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Si No Te Hubieras Ido",
+        "url": "https://open.spotify.com/album/3bMqBBK7coxeJnoe97dHHt"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 221781,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/4wpDOXpF2cGBvOBemsmkx7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Electromorbo",
         "url": "https://open.spotify.com/album/4xgirQoTPMCnKMB3L9qZzW"
       },
@@ -599,22 +619,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si No Te Hubieras Ido",
-        "url": "https://open.spotify.com/album/3bMqBBK7coxeJnoe97dHHt"
+        "name": "Sobra y Falta",
+        "url": "https://open.spotify.com/album/269KIvvBFS87o2fPtvPocU"
       },
       "artists": [
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
         {
           "name": "Sebastian Esquivel",
           "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
         },
         {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
         }
       ],
-      "duration_ms": 221781,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/4wpDOXpF2cGBvOBemsmkx7"
+      "duration_ms": 190161,
+      "name": "Sobra y Falta",
+      "url": "https://open.spotify.com/track/6jiLRYgMeBMq2u4wRD2HZW"
     },
     {
       "added_at": null,
@@ -643,34 +671,6 @@
       "duration_ms": 170250,
       "name": "Scarlett\u00b4s",
       "url": "https://open.spotify.com/track/3RY4osHntr45D9PG9TcTJ0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sobra y Falta",
-        "url": "https://open.spotify.com/album/269KIvvBFS87o2fPtvPocU"
-      },
-      "artists": [
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 190161,
-      "name": "Sobra y Falta",
-      "url": "https://open.spotify.com/track/6jiLRYgMeBMq2u4wRD2HZW"
     },
     {
       "added_at": null,
@@ -795,6 +795,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "TFS",
+        "url": "https://open.spotify.com/album/3pormZJDUwmFPua4p2Fxqx"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 187297,
+      "name": "Tirando Flow Sesh #9",
+      "url": "https://open.spotify.com/track/3XOfnUKBNSB01mQRiTVspm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GUZBYE",
         "url": "https://open.spotify.com/album/0RJZJxSvOBnKSNU9nXQ6zD"
       },
@@ -831,30 +855,6 @@
       "duration_ms": 155818,
       "name": "Cartier en Mano",
       "url": "https://open.spotify.com/track/3cL0YHP6FIE3fWIujhdGCu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TFS",
-        "url": "https://open.spotify.com/album/3pormZJDUwmFPua4p2Fxqx"
-      },
-      "artists": [
-        {
-          "name": "Dan Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 187297,
-      "name": "Tirando Flow Sesh #9",
-      "url": "https://open.spotify.com/track/3XOfnUKBNSB01mQRiTVspm"
     },
     {
       "added_at": null,

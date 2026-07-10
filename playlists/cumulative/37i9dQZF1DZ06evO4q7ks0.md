@@ -4,7 +4,7 @@
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-93 songs - 5 hr 50 min
+94 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Electric Blue](https://open.spotify.com/track/2ZlWxTsv7PE6jGmEYB7s2E) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:50 | 2025-03-08 |  |
 | [Empty](https://open.spotify.com/track/5kXxYIVOQeERF8SuP7ASDW) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 3:26 | 2025-07-27 | 2025-09-05 |
 | [Empty \- 2025 Remastered](https://open.spotify.com/track/3HrNcD2Loy5lKsNZ3069Ye) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 3:25 | 2025-09-05 | 2025-09-13 |
+| [Empty \- Live At The London Astoria II, 1994](https://open.spotify.com/track/3vdQT29MvBGPuOCwuzGRGH) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Empty \(Live At The London Astoria II, 1994\)](https://open.spotify.com/album/3sxI9ZA68u8oeLBKX9FwmX) | 3:52 | 2026-07-10 |  |
 | [Empty \- Live MTV Unplugged](https://open.spotify.com/track/12sxeMvMRpKGe9vqBImiBS) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Empty](https://open.spotify.com/album/4W52uLWuYeNT3GJWoAb5fl) | 4:10 | 2025-09-21 | 2025-10-19 |
 | [Everything I Said](https://open.spotify.com/track/3dw1KIS8K5INsoeEXHQDdy) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 3:52 | 2025-09-05 | 2025-09-09 |
 | [Free To Decide](https://open.spotify.com/track/42e1QfTyPYWuoddr0ghc0i) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:25 | 2025-03-08 |  |
@@ -93,7 +94,7 @@
 | [Why](https://open.spotify.com/track/1UZns15TdY7BFYFrs51bJo) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 5:01 | 2025-12-02 | 2026-04-24 |
 | [Why](https://open.spotify.com/track/263omDZiPVO59MhpGOfQPZ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL) | 5:01 | 2026-06-15 |  |
 | [Yeats' Grave \- 2025 Remastered](https://open.spotify.com/track/5fiiSF02DqfoyixcTTc2x0) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 2:59 | 2025-09-04 | 2025-12-02 |
-| [Yesterday's Gone \- Live MTV Unplugged](https://open.spotify.com/track/1fjfSafHHZE6SpmA958ApR) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [MTV Unplugged](https://open.spotify.com/album/3nd1Edu2U0C78WMCsDHF1d) | 4:04 | 2025-11-11 |  |
+| [Yesterday's Gone \- Live MTV Unplugged](https://open.spotify.com/track/1fjfSafHHZE6SpmA958ApR) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [MTV Unplugged](https://open.spotify.com/album/3nd1Edu2U0C78WMCsDHF1d) | 4:04 | 2025-11-11 | 2026-07-10 |
 | [You And Me](https://open.spotify.com/track/6jEcFhllWB0clBHFylomJZ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:35 | 2025-03-08 |  |
 | [Zombie](https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 5:06 | 2025-03-08 | 2025-09-06 |
 | [Zombie \- 2025 Remastered](https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 5:05 | 2025-09-06 |  |

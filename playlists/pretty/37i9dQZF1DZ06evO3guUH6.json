@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1093309,
+  "num_followers": 1093396,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAABM9GfziNoHDXxSSe3GugH+",
+  "snapshot_id": "ak2TAAAAAADrP8o/qfiIjrYhNPtL5pBd",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"V1V0\"",
-        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 218411,
-      "name": "De Sobremanera",
-      "url": "https://open.spotify.com/track/3MVLAi81gIo1nSvfincYFk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/5sv3ywwb2iCoI6n8UD4ZRX"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 251746,
       "name": "Comando X - En Vivo",
       "url": "https://open.spotify.com/track/2j2MJGkoAwPKssQMRQplPD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"V1V0\"",
+        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 218411,
+      "name": "De Sobremanera",
+      "url": "https://open.spotify.com/track/3MVLAi81gIo1nSvfincYFk"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imaginaci\u00f3n",
-        "url": "https://open.spotify.com/album/7BnXJy3LCtSuOtWZd7Lgxz"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Imaginaci\u00f3n",
-      "url": "https://open.spotify.com/track/3fMe9PdNbajE7285bYUaa9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con El Pie Derecho",
         "url": "https://open.spotify.com/album/7tfTfzVmVrplYDru65lUbP"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 163680,
       "name": "El Principio Del Infierno",
       "url": "https://open.spotify.com/track/5pHfQtCDL0YmhzybaI5aSo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imaginaci\u00f3n",
+        "url": "https://open.spotify.com/album/7BnXJy3LCtSuOtWZd7Lgxz"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Imaginaci\u00f3n",
+      "url": "https://open.spotify.com/track/3fMe9PdNbajE7285bYUaa9"
     },
     {
       "added_at": null,

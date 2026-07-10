@@ -28549,6 +28549,24 @@
     },
     {
       "album": {
+        "name": "Soppatorsk",
+        "url": "https://open.spotify.com/album/1kAr0tigrW16cScaRRcK6v"
+      },
+      "artists": [
+        {
+          "name": "Ronny & Ragge",
+          "url": "https://open.spotify.com/artist/5pyF7nerLdGc4ZV3U72tdQ"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171773,
+      "name": "Soppatorsk",
+      "url": "https://open.spotify.com/track/4ptpBLhEblqkjt48lttmrY"
+    },
+    {
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/4ovjS3yvn1WNjtrUQWwlnd"
       },

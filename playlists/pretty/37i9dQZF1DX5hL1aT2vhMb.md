@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 
 > Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Sueye Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,818 likes - 157 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,838 likes - 157 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

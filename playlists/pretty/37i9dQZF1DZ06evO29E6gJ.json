@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAADPV758sUJzuOusDV7C8rA4",
+  "snapshot_id": "ak2TAAAAAAAZZwNwP/JkzIcxc3nsHXrq",
   "tracks": [
     {
       "added_at": null,
@@ -99,8 +99,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenaje Norte\u00f1o A Felipe Valdes Leal Con",
-        "url": "https://open.spotify.com/album/0ZJcupskEdoVbyQqCaU4rp"
+        "name": "Tu Recuerdo",
+        "url": "https://open.spotify.com/album/0ElJxS0euvpw3AQfgVGPKj"
       },
       "artists": [
         {
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 163440,
-      "name": "Entre Copa y Copa",
-      "url": "https://open.spotify.com/track/6uvGgaWZ66OiLqFxZDokGq"
+      "duration_ms": 144173,
+      "name": "Tierra Mala",
+      "url": "https://open.spotify.com/track/0D2UGMhfFJMXoJagYaiyGl"
     },
     {
       "added_at": null,
@@ -147,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Homenaje Norte\u00f1o A Felipe Valdes Leal Con",
+        "url": "https://open.spotify.com/album/0ZJcupskEdoVbyQqCaU4rp"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 163440,
+      "name": "Entre Copa y Copa",
+      "url": "https://open.spotify.com/track/6uvGgaWZ66OiLqFxZDokGq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Recuerdo",
         "url": "https://open.spotify.com/album/0ElJxS0euvpw3AQfgVGPKj"
       },
@@ -156,25 +172,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 144173,
-      "name": "Tierra Mala",
-      "url": "https://open.spotify.com/track/0D2UGMhfFJMXoJagYaiyGl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 Exitos de Los Alegres de Ter\u00e1n, vol. 1",
-        "url": "https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Desilusi\u00f3n",
-      "url": "https://open.spotify.com/track/4NEZkAs4jxwUSdyXfn6Q8w"
+      "duration_ms": 197453,
+      "name": "Prenda Del Alma",
+      "url": "https://open.spotify.com/track/6dAiVXqPyOp64bo42LfQDp"
     },
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "15 Exitos de Los Alegres de Ter\u00e1n, vol. 1",
+        "url": "https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "Desilusi\u00f3n",
+      "url": "https://open.spotify.com/track/4NEZkAs4jxwUSdyXfn6Q8w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pensando en Tu Dia Vol. 3",
         "url": "https://open.spotify.com/album/6keKSJlgpHyjPRjUci7qjO"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 170826,
       "name": "Cari\u00f1o Sin Condicion",
       "url": "https://open.spotify.com/track/3EYKM9dXqvnnTpqEt4PnRG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Recuerdo",
-        "url": "https://open.spotify.com/album/0ElJxS0euvpw3AQfgVGPKj"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "Prenda Del Alma",
-      "url": "https://open.spotify.com/track/6dAiVXqPyOp64bo42LfQDp"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serenata Bajo Las Estrellas 15 Exitos Inmortales",
-        "url": "https://open.spotify.com/album/0j2N0ZJPQjEQgcMN3OPNJk"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 162720,
-      "name": "Ingrato Amor",
-      "url": "https://open.spotify.com/track/1eaux4zfvoNc0LuXIVRgzB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Exitos de Los Alegres de Ter\u00e1n, vol. 1",
         "url": "https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 140466,
       "name": "Sea por Dios",
       "url": "https://open.spotify.com/track/5Ws6Td0ZpsJYQpGvQThwll"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serenata Bajo Las Estrellas 15 Exitos Inmortales",
+        "url": "https://open.spotify.com/album/0j2N0ZJPQjEQgcMN3OPNJk"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 162720,
+      "name": "Ingrato Amor",
+      "url": "https://open.spotify.com/track/1eaux4zfvoNc0LuXIVRgzB"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA TRAICIONERA (Remastered)",
-        "url": "https://open.spotify.com/album/116YnDmd7Vevo95B70AUdq"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 120306,
-      "name": "Margarita",
-      "url": "https://open.spotify.com/track/3AHRnIxggLXyUdw5Wi5DtH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Exitos de Los Alegres de Ter\u00e1n, vol. 1",
         "url": "https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 151293,
       "name": "Prisionero de Tus Brazos",
       "url": "https://open.spotify.com/track/6KqyjEEo57j3VHTNLv1BsC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Alegres De Teran (El Golpe Traidor)",
+        "url": "https://open.spotify.com/album/0jd6whSrvYGn6XBu2tcI8n"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 146013,
+      "name": "El Golpe Traidor",
+      "url": "https://open.spotify.com/track/2YuGycXNqP9WR0C9O7wgWt"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Alegres De Teran (El Golpe Traidor)",
-        "url": "https://open.spotify.com/album/0jd6whSrvYGn6XBu2tcI8n"
+        "name": "LA TRAICIONERA (Remastered)",
+        "url": "https://open.spotify.com/album/116YnDmd7Vevo95B70AUdq"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 146013,
-      "name": "El Golpe Traidor",
-      "url": "https://open.spotify.com/track/2YuGycXNqP9WR0C9O7wgWt"
+      "duration_ms": 120306,
+      "name": "Margarita",
+      "url": "https://open.spotify.com/track/3AHRnIxggLXyUdw5Wi5DtH"
     },
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos Clasicos: Canciones y Corridos",
-        "url": "https://open.spotify.com/album/5B6a96a0gdnf0AaIstQyYb"
+        "name": "Frente a Frente Los Alegres de Ter\u00e1n vs Los Invasores de Nuevo Le\u00f3n",
+        "url": "https://open.spotify.com/album/4Vnb9izUKk4ee79qfydeyf"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 167093,
-      "name": "Carta Jugada",
-      "url": "https://open.spotify.com/track/2n19eUctP7AZFIsktfBk2V"
+      "duration_ms": 168640,
+      "name": "Por El Amor A Mi Madre",
+      "url": "https://open.spotify.com/track/2mZDnPwVfV3nQ7LhplzMsd"
     },
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frente a Frente Los Alegres de Ter\u00e1n vs Los Invasores de Nuevo Le\u00f3n",
-        "url": "https://open.spotify.com/album/4Vnb9izUKk4ee79qfydeyf"
+        "name": "20 Exitos Clasicos: Canciones y Corridos",
+        "url": "https://open.spotify.com/album/5B6a96a0gdnf0AaIstQyYb"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 168640,
-      "name": "Por El Amor A Mi Madre",
-      "url": "https://open.spotify.com/track/2mZDnPwVfV3nQ7LhplzMsd"
+      "duration_ms": 167093,
+      "name": "Carta Jugada",
+      "url": "https://open.spotify.com/track/2n19eUctP7AZFIsktfBk2V"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 \u00c9xitos los Alegres de Teran, CD 2",
-        "url": "https://open.spotify.com/album/0m2aHPs4ObaxbeLBD5XpQF"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Los Tequileros",
-      "url": "https://open.spotify.com/track/7lF1c6A1FD17D4gisIY2Cu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Exitos de Los Alegres de Ter\u00e1n, vol. 1",
         "url": "https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s"
       },
@@ -627,6 +611,38 @@
       "duration_ms": 146026,
       "name": "Tu Nuevo Cari\u00f1ito",
       "url": "https://open.spotify.com/track/4S44UwAoCh9kdT9macDuGk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Famosos",
+        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 162453,
+      "name": "El 24 De Junio",
+      "url": "https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "30 \u00c9xitos los Alegres de Teran, CD 2",
+        "url": "https://open.spotify.com/album/0m2aHPs4ObaxbeLBD5XpQF"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Los Tequileros",
+      "url": "https://open.spotify.com/track/7lF1c6A1FD17D4gisIY2Cu"
     },
     {
       "added_at": null,
@@ -727,22 +743,6 @@
       "duration_ms": 132080,
       "name": "Los Paisanos",
       "url": "https://open.spotify.com/track/27LmeI5OdmPQWStquxwCvA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Famosos",
-        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 162453,
-      "name": "El 24 De Junio",
-      "url": "https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz"
     },
     {
       "added_at": null,

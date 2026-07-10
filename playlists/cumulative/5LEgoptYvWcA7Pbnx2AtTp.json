@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "Ugly is Beautiful",
+        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164312,
+      "name": "Alien Boy",
+      "url": "https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w"
+    },
+    {
+      "album": {
         "name": "An Unhealthy Obsession",
         "url": "https://open.spotify.com/album/4mK2uqTY0iz0rNYebd4EDd"
       },

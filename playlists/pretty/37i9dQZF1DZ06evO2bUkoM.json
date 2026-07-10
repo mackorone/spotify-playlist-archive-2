@@ -1,12 +1,12 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49201,
+  "num_followers": 49196,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAA2tZTGvQRBgjeqbcgiKy5H",
+  "snapshot_id": "ak2TAAAAAAD1zvHE0J0Sm3Usm6Ksy01G",
   "tracks": [
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "somewhere between the sand and the stardust",
-        "url": "https://open.spotify.com/album/1GffidSIS7j1j4cM5pX8hY"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 210918,
-      "name": "somewhere between the sand and the stardust",
-      "url": "https://open.spotify.com/track/3inSwrNUWkoCyCwzKezkwF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Citrine EP",
         "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 199666,
       "name": "Ease My Mind",
       "url": "https://open.spotify.com/track/7GHSSr69BQ0NwSbpfTjjSm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "somewhere between the sand and the stardust",
+        "url": "https://open.spotify.com/album/1GffidSIS7j1j4cM5pX8hY"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 210918,
+      "name": "somewhere between the sand and the stardust",
+      "url": "https://open.spotify.com/track/3inSwrNUWkoCyCwzKezkwF"
     },
     {
       "added_at": null,

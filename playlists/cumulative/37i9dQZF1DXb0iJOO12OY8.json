@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "+47 (oh ol\u00e9)",
+        "url": "https://open.spotify.com/album/3mpa6r4bfNUc3khM6zYjHJ"
+      },
+      "artists": [
+        {
+          "name": "Jonico",
+          "url": "https://open.spotify.com/artist/3qIGDkJ0dqe1tJSbGP16iR"
+        },
+        {
+          "name": "Samuel Lola",
+          "url": "https://open.spotify.com/artist/4zMSpw4meW8Bb3bqbGU0tT"
+        },
+        {
+          "name": "BIGZ",
+          "url": "https://open.spotify.com/artist/5RYuVXIs5bEO0h3kr4P3ne"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155912,
+      "name": "+47 (oh ol\u00e9)",
+      "url": "https://open.spotify.com/track/4gKZZ9xw0dyGzEm5RnHkAe"
+    },
+    {
+      "album": {
         "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
@@ -180,6 +206,28 @@
       "duration_ms": 261333,
       "name": "Alt For Norge",
       "url": "https://open.spotify.com/track/3E5IeN5MqUs16rjvMRlaT1"
+    },
+    {
+      "album": {
+        "name": "Alt for Norge / Vi heier p\u00e5 v\u00e5rt lille land",
+        "url": "https://open.spotify.com/album/6Qg9Bgr5pZT9BT0ufN2Ms7"
+      },
+      "artists": [
+        {
+          "name": "St\u00e5les menn",
+          "url": "https://open.spotify.com/artist/7jdPqVIVJ9kb4u4JT5v3VX"
+        },
+        {
+          "name": "Andreas Gjefle",
+          "url": "https://open.spotify.com/artist/0Bu6xDBv66W7kMNQf9Gs9d"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "Alt for Norge",
+      "url": "https://open.spotify.com/track/5JS9FgAexJae4Uj7VdiqO1"
     },
     {
       "album": {
@@ -1570,6 +1618,24 @@
       "duration_ms": 234600,
       "name": "Heatstroke",
       "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
+    },
+    {
+      "album": {
+        "name": "Runaljod \u2013 Yggdrasil",
+        "url": "https://open.spotify.com/album/7LsNPzgWHwrsLMRsWuiEJa"
+      },
+      "artists": [
+        {
+          "name": "Wardruna",
+          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431866,
+      "name": "Helvegen",
+      "url": "https://open.spotify.com/track/0OXEH9T6QSQCrmnjdtpf4P"
     },
     {
       "album": {
@@ -4507,6 +4573,24 @@
     },
     {
       "album": {
+        "name": "Vi er Norge",
+        "url": "https://open.spotify.com/album/1rFlvVaICoq08SUNwpPqaX"
+      },
+      "artists": [
+        {
+          "name": "J\u00f8rn Lande",
+          "url": "https://open.spotify.com/artist/3aOVLHmQbwbOq4nl4XcGSC"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259108,
+      "name": "Vi er Norge",
+      "url": "https://open.spotify.com/track/1FRmrLVrQLPPIBLCbeQUdt"
+    },
+    {
+      "album": {
         "name": "Alt for Norge / Vi heier p\u00e5 v\u00e5rt lille land",
         "url": "https://open.spotify.com/album/6Qg9Bgr5pZT9BT0ufN2Ms7"
       },
@@ -4786,7 +4870,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 139320,
       "name": "\u00c1r var alda",
       "url": "https://open.spotify.com/track/2xAWy0hRNZG5wKhxQJXGn6"

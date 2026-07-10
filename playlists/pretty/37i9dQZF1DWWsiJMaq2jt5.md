@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:3YFGEKxRqRSBCW6sSv2FJH">Kasia Sienkiewicz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,695 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,693 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Niebieskie oczy](https://open.spotify.com/track/1g1myS7l5x8ZPBqBHzlGBL) | [Oliwia Twardosz](https://open.spotify.com/artist/1UqrpPxGWQc9QXRqElmBCF) | [Niebieskie oczy](https://open.spotify.com/album/6G5kCHlJa1rwTmPkSZYmXL) | 2:55 |
 | 50 | [sobota](https://open.spotify.com/track/4ZzlT57hHelvRqmYd3Fyo8) | [microdawka](https://open.spotify.com/artist/01LgAoYLLXrA67ELEhKF3y) | [byepolar](https://open.spotify.com/album/2ddgk7GbfEBEk9BsMM08iD) | 4:12 |
 
-Snapshot ID: `AAAAAERK38CTX7J9LwF6b/EKTbqzxA++`
+Snapshot ID: `AAAAAAPIU43lPpoUf7+DtTCbT+ryzj0Z`

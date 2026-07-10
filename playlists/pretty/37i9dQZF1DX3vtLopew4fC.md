@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to Chxrry and Canadian women at full volume!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,591 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,592 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 39 | [Les Enfants Fragiles](https://open.spotify.com/track/15KH468wRaEtfSba3H1inz) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [Les Enfants Fragiles](https://open.spotify.com/album/78dPiaiJedrVQv7QNPGhFh) | 1:51 |
 | 40 | [Midnight Mixtape](https://open.spotify.com/track/42ZS3xVCJgAsRr0CKN2DSq) | [Taxi Girls](https://open.spotify.com/artist/5h3xtVYH6bpf1d9rXMhcoR) | [Static](https://open.spotify.com/album/4CzOslafFEBy6yNjSgEmIR) | 3:31 |
 
-Snapshot ID: `AAAAAEaCrFI7oUAHa7Dr02WTyF1ISogH`
+Snapshot ID: `AAAAALRem+71aoTwkeR1N+bWJaEeRbrh`

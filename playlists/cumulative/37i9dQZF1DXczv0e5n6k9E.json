@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: YungKapa",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: SIGMA, \tSIDARTA",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -7959,6 +7959,32 @@
     },
     {
       "album": {
+        "name": "KALASHNIKOV",
+        "url": "https://open.spotify.com/album/35gpaPgckaglMvxUnF3h4P"
+      },
+      "artists": [
+        {
+          "name": "Megrel",
+          "url": "https://open.spotify.com/artist/1K4CMTKtUibci2mZOIqFqx"
+        },
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "GMBeaTz",
+          "url": "https://open.spotify.com/artist/7d9PyOhLipsOeI1cov1cnz"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176236,
+      "name": "KALASHNIKOV",
+      "url": "https://open.spotify.com/track/0EmKMFE8T78eMOn72Kc2ET"
+    },
+    {
+      "album": {
         "name": "O Xoros Tou Fy",
         "url": "https://open.spotify.com/album/5B7KNfCrSFSPJdZjJV8Xui"
       },
@@ -13367,6 +13393,28 @@
     },
     {
       "album": {
+        "name": "POTE",
+        "url": "https://open.spotify.com/album/4HVncWl87jExvllBJNPb0p"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "CHEKKIS",
+          "url": "https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "POTE",
+      "url": "https://open.spotify.com/track/0hEtvbRFwcHe8xPEPPtdih"
+    },
+    {
+      "album": {
         "name": "POU ISOUNA ESY",
         "url": "https://open.spotify.com/album/0Dqc3M1W0eyutMe0I8ecaS"
       },
@@ -14148,6 +14196,32 @@
       "duration_ms": 168749,
       "name": "REPORTAGE",
       "url": "https://open.spotify.com/track/7nD3EmNXEg6RI7kRS8Wjdu"
+    },
+    {
+      "album": {
+        "name": "Reposado",
+        "url": "https://open.spotify.com/album/6VnW9b1Oe75buzETG2Rlv9"
+      },
+      "artists": [
+        {
+          "name": "Lil Koni",
+          "url": "https://open.spotify.com/artist/4md2OwykkDpAVx2keVXBBV"
+        },
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "Reposado",
+      "url": "https://open.spotify.com/track/36rbiCAxIo8Ty0LXwg3pMX"
     },
     {
       "album": {
@@ -15044,6 +15118,28 @@
       "duration_ms": 201931,
       "name": "SKG DRILL",
       "url": "https://open.spotify.com/track/3YKFn6I4dDHORAFWCNgvFU"
+    },
+    {
+      "album": {
+        "name": "SKONI TIS SELINIS",
+        "url": "https://open.spotify.com/album/6krtXhXq52iEqxDfLp50cF"
+      },
+      "artists": [
+        {
+          "name": "SIGMA",
+          "url": "https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow"
+        },
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204736,
+      "name": "SKONI TIS SELINIS",
+      "url": "https://open.spotify.com/track/0Q3l36g28MxaSk4jSxnwBE"
     },
     {
       "album": {

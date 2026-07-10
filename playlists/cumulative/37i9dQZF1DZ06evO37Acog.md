@@ -4,7 +4,7 @@
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-131 songs - 6 hr 50 min
+132 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Quisiera Tener Alas](https://open.spotify.com/track/4nCp7z2Lym4btfP1zoimYY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Quisiera Tener Alas](https://open.spotify.com/album/6kGpgDXcKl9Di09YYek92q) | 3:31 | 2024-03-02 |  |
 | [Quisiera Tener Alas](https://open.spotify.com/track/2HTIJanLHMBCu6PpzvpruE) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Ayer, Hoy Y Siempre Con..\. Ramón Ayala Y Sus Bravos Del Norte](https://open.spotify.com/album/7qJ2TrDx6uZFKaaV0YzZRu) | 3:31 | 2023-11-10 | 2024-01-20 |
 | [Qué Casualidad](https://open.spotify.com/track/2IeZVwidxkQVzmt4Lyza8m) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:02 | 2022-06-01 | 2022-06-06 |
-| [Qué Casualidad](https://open.spotify.com/track/7lgsl2ESXS9D5rvpl2bBsc) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Qué Casualidad](https://open.spotify.com/album/48MmKDBvYTuFZMdzgfER9w) | 3:03 | 2024-08-23 |  |
+| [Qué Casualidad](https://open.spotify.com/track/7lgsl2ESXS9D5rvpl2bBsc) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Qué Casualidad](https://open.spotify.com/album/48MmKDBvYTuFZMdzgfER9w) | 3:03 | 2024-08-23 | 2026-07-10 |
+| [Qué Casualidad](https://open.spotify.com/track/5PIG1GPqYdPeAmTDfwA23T) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Los Mejores 15 Éxitos Norteños](https://open.spotify.com/album/6G6ycCLOWgkb3AQoI28Y8c) | 3:03 | 2026-07-10 |  |
 | [Qué Casualidad \- En Vivo](https://open.spotify.com/track/6lZCAX3knOgcY1Qul2wHJu) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 3:38 | 2022-06-05 | 2024-08-23 |
 | [Recuerdos Tristes](https://open.spotify.com/track/7ddBBqgSFD17sJUjkdROAK) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Recuérdame Y Ven A Mí](https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU) | 3:05 | 2022-06-01 |  |
 | [Recuérdame Y Ven A Mí](https://open.spotify.com/track/1P75JJKulGQaF4Xeeab8oa) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos Pesados De La Cantina](https://open.spotify.com/album/6e5tTNCr3N7p2gjyyN2Kwo) | 3:23 | 2022-06-01 | 2025-08-18 |
@@ -132,8 +133,8 @@
 | [Un Puño De Tierra](https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:46 | 2022-06-01 |  |
 | [Una Carta](https://open.spotify.com/track/5FQ3QnqgmDQABJRQvpS6UT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 2:16 | 2022-06-01 | 2022-10-13 |
 | [Vestida De Color De Rosa](https://open.spotify.com/track/4hZzcu2j0XVti6j8hVV0Oz) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos](https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ) | 3:05 | 2022-09-29 | 2026-03-23 |
-| [Vestida De Color De Rosa](https://open.spotify.com/track/1HmpmlAE8TQ6dKTSpWHF7l) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [CORAZONCITO TIRANO/ VESTIDA DE COLOR DE ROSA \(Grabación Original Remasterizada\)](https://open.spotify.com/album/3j26mnN4TQkaBXCkkf48QL) | 3:06 | 2026-03-23 | 2026-05-12 |
-| [Vestida De Color De Rosa](https://open.spotify.com/track/1rHy0GbRj1KETUVVIY3Jjl) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Norteñas De Corazón 20 Exitos](https://open.spotify.com/album/4hV7x0wkkBb8KyPLy9ddh1) | 3:08 | 2026-05-12 |  |
+| [Vestida De Color De Rosa](https://open.spotify.com/track/1HmpmlAE8TQ6dKTSpWHF7l) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [CORAZONCITO TIRANO/ VESTIDA DE COLOR DE ROSA \(Grabación Original Remasterizada\)](https://open.spotify.com/album/3j26mnN4TQkaBXCkkf48QL) | 3:06 | 2026-03-23 |  |
+| [Vestida De Color De Rosa](https://open.spotify.com/track/1rHy0GbRj1KETUVVIY3Jjl) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Norteñas De Corazón 20 Exitos](https://open.spotify.com/album/4hV7x0wkkBb8KyPLy9ddh1) | 3:08 | 2026-05-12 | 2026-07-10 |
 | [Vestida De Color De Rosa](https://open.spotify.com/track/1rtdxwg7ZQB6yZn5SIMaj6) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Quisiera Tener Alas](https://open.spotify.com/album/6kGpgDXcKl9Di09YYek92q) | 3:09 | 2022-06-01 | 2022-09-30 |
 | [Vino Maldito](https://open.spotify.com/track/1XvSiILaUqz0a3llmPcGXx) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Norteñas De Exito Herencia Musical De](https://open.spotify.com/album/1ts28Fgr2woLWxk1lh5PKQ) | 3:11 | 2022-06-01 | 2025-11-26 |
 | [Volví A Mi Finca De Adobe](https://open.spotify.com/track/7CJSiAMo8EUdQde8Tv1wJp) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [DEBAJO DE AQUEL ÁRBOL / CUATRO CAMINOS \(GRABACIÓN ORIGINAL REMASTERIZADA\)](https://open.spotify.com/album/2dlKrcyJLsELo2zbU6WjpJ) | 3:09 | 2022-06-02 | 2023-07-03 |

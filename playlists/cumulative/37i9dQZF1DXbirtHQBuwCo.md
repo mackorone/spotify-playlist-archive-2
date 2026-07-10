@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: Dodree\(도드리\)\)
+> Trendy & Chill Korean R&B music\. \(Cover: youra\(유라\)\)
 
-926 songs - 2 day 0 hr 50 min
+928 songs - 2 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Collagen \(Feat\. Sylo\)](https://open.spotify.com/track/1f4Ra2jxRY5pIbh9oFulhK) | [ditch david](https://open.spotify.com/artist/3AMjDzr2vPow8zzuNWIy8Z), [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Collagen](https://open.spotify.com/album/4E7Uq0mhghm2RhUJatT7mh) | 2:38 | 2022-06-03 | 2022-06-17 |
 | [Color Me \(Feat\. CHUNG HA\)](https://open.spotify.com/track/0TtH1ocl5B20kKHiqPNELw) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Color Me \(Feat\. CHUNG HA\)](https://open.spotify.com/album/1SOyPMNJgR1RtmSJwJtT0b) | 3:36 | 2022-06-23 | 2022-09-28 |
 | [Come Back Home \(feat\. Yeeun\)](https://open.spotify.com/track/6Vl5W40Ve7mvbmPxKRhR94) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Yeeun](https://open.spotify.com/artist/0AgNlLxv23f2iBgdphi4to) | [Come Back Home](https://open.spotify.com/album/0itIaXewMbaWbViMKNstF9) | 3:26 | 2022-11-22 | 2022-12-10 |
-| [Come Closer](https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm) | [LEO](https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj) | [COME CLOSER](https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD) | 2:43 | 2024-05-10 |  |
+| [Come Closer](https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm) | [LEO](https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj) | [COME CLOSER](https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD) | 2:43 | 2024-05-10 | 2026-07-10 |
 | [comedy](https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:33 | 2022-07-25 | 2022-08-02 |
 | [COMFY](https://open.spotify.com/track/0PQzmvpqxnDlH82yj7wTh3) | [SEOA](https://open.spotify.com/artist/3jsk2LMEav6KI7pFwiU7tF), [SZN](https://open.spotify.com/artist/1MCqb5Gwah45385YUspsn5) | [COMFY](https://open.spotify.com/album/0F0KPsp7ru8WRgLIgaJO3S) | 3:45 | 2023-01-23 | 2023-02-15 |
 | [Coming Back](https://open.spotify.com/track/5n0PncWY6GO1YNzxradkfR) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9) | [Coming Back](https://open.spotify.com/album/3jeYPsm9JCCHxxqp2uC3DH) | 3:08 | 2022-04-19 | 2022-06-09 |
@@ -216,7 +216,7 @@
 | [Dawn do that](https://open.spotify.com/track/4xD5Vnn0DM8jksh1GCTqNu) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Dawn do that](https://open.spotify.com/album/6pmkZgZ01iByTV2hfaZmdo) | 4:03 | 2022-05-09 | 2022-07-22 |
 | [Day & Night](https://open.spotify.com/track/248ZX6OVcMc8xJPIO6YtE0) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [BrotherSu](https://open.spotify.com/artist/3fmAXFX05DFTaTkreemfxB) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 3:42 | 2023-02-14 | 2023-02-25 |
 | [Dear My](https://open.spotify.com/track/2p4yp2OSeGiMQ384JCAvAB) | [JeongA](https://open.spotify.com/artist/7ciR9UTxsmKjF9O09I55yL) | [Dear My](https://open.spotify.com/album/0qEXktHXsW5MW0VMGBRYHX) | 3:13 | 2022-09-20 | 2022-09-28 |
-| [Dear.J \(Feat\. Jay Park\)](https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Dear.J](https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek) | 3:21 | 2026-07-01 |  |
+| [Dear.J \(Feat\. Jay Park\)](https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Dear.J](https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek) | 3:21 | 2026-07-01 | 2026-07-10 |
 | [Dedicated 2 U](https://open.spotify.com/track/6FYbpoLyoevhwws05OLSBZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 3: Dedicated 2 U](https://open.spotify.com/album/4fSS3OAnjyYSuFwZHkH2nP) | 3:14 | 2024-08-09 | 2024-08-28 |
 | [Dedication \(feat\. Jay Park\)](https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp) | [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Homecoming](https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD) | 2:46 | 2022-04-19 | 2022-04-21 |
 | [DELIGHT](https://open.spotify.com/track/0M2bsM3SOJTADMgHGL049u) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [TIMELESS](https://open.spotify.com/album/4gy6AumMG4jWgACiSp0DwL) | 3:57 | 2022-07-24 | 2022-07-28 |
@@ -351,6 +351,7 @@
 | [Heart](https://open.spotify.com/track/0mjbciwK9zhfQl44jXfQv6) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [Belief](https://open.spotify.com/album/52FuiW7wS6lmx5PngSKWbw) | 3:16 | 2022-04-19 | 2022-07-29 |
 | [Heaven \(Feat\. Sam Kim\)](https://open.spotify.com/track/0ZpEiNVDCJbZBS8e9DKOUw) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:06 | 2024-06-17 | 2024-11-14 |
 | [Hello \(Feat\. MINHYUK LEE \(HUTA\)\)](https://open.spotify.com/track/6MCyFFKPrmTLQGPtW9H34W) | [CherryB](https://open.spotify.com/artist/0Bd1VLl8A4yk5vo2XfVnCd), [MINHYUK LEE \(HUTA\)](https://open.spotify.com/artist/0joPKRVT2TAG2puWLPGkbx) | [Hello](https://open.spotify.com/album/0cnfSAKHuz3pahoqIpen8V) | 2:57 | 2022-04-19 | 2022-04-21 |
+| [HELP](https://open.spotify.com/track/70lTW7QzelAUAqxKw0OG0M) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Brush](https://open.spotify.com/album/0JQ790SDVazDDbBNQQDOwX) | 2:16 | 2026-07-09 |  |
 | [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 | 2023-12-06 | 2024-03-28 |
 | [Hesitance](https://open.spotify.com/track/3NEMMUZ9oIV0HlzMSF75Jn) | [Kuonechan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Hesitance](https://open.spotify.com/album/7jJ3MqzFEJSWhLsx114Skp) | 3:40 | 2024-12-24 | 2025-01-12 |
 | [hey](https://open.spotify.com/track/4lMrTO101YGnotMbVcpbtt) | [zin](https://open.spotify.com/artist/7KPRlWVq4NZrXWmHTseuTW), [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA) | [hey](https://open.spotify.com/album/0Hoy3juXkjilRG9jycxRk7) | 2:45 | 2025-04-02 | 2025-04-08 |
@@ -387,6 +388,7 @@
 | [I Love Yuo](https://open.spotify.com/track/6ENEZrqRJqUMNhTaOjlu6X) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [TENT 0.3](https://open.spotify.com/album/2Lvb2FmWvthR6XPszLF41J) | 2:26 | 2024-08-15 | 2024-08-28 |
 | [I MEAN I MEAN.](https://open.spotify.com/track/6zOW7aFQXzIvLSpA7e7nAv) | [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [I MEAN I MEAN.](https://open.spotify.com/album/56ZCnaj5QSdXMOv6Cy1ksU) | 2:55 | 2022-05-11 | 2022-06-28 |
 | [I Mean You](https://open.spotify.com/track/3Ad0HzkD1pTXqlgpLEE7AI) | [Diana](https://open.spotify.com/artist/7Mq5nwlqlvFGoDu3pPtq3E) | [I Mean You](https://open.spotify.com/album/5kXiA6qyQ6Lym4TqPUcXXo) | 3:15 | 2023-01-23 | 2023-02-15 |
+| [i said it](https://open.spotify.com/track/26a0JIitgz3Ut1CNnf2HgW) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [i said it](https://open.spotify.com/album/4Bwf79TKUV0FYcc9e9A3GN) | 2:27 | 2026-07-09 |  |
 | [I Want to Be Closer to You](https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [A Love Supreme](https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi) | 3:30 | 2023-09-18 | 2023-12-09 |
 | [I was a Hero](https://open.spotify.com/track/6y2u3p63XWKrJr3PG9YGd3) | [9001](https://open.spotify.com/artist/0ucJPeq0vaU8dbHu0Tie6E) | [I was a Hero](https://open.spotify.com/album/7o7JkBnQg1EK3kP6JSBKFD) | 3:19 | 2022-07-04 | 2022-07-08 |
 | [I'm gonna change](https://open.spotify.com/track/5vfuJfkb777TwMGBCtEVlS) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [I'm gonna change](https://open.spotify.com/album/0AaZdCzbTqYFovfZNmjlZn) | 3:58 | 2024-11-22 | 2024-11-26 |

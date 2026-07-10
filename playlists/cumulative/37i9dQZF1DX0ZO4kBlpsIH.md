@@ -2,7 +2,7 @@
 
 ### [Café de Paris](https://open.spotify.com/playlist/37i9dQZF1DX0ZO4kBlpsIH)
 
-> A taste of French café culture; the charming sounds of the Parisian streets.
+> A taste of French café culture ☕️ jazz for slow mornings, sunny terraces, and long afternoons.
 
 261 songs - 12 hr 43 min
 
@@ -28,7 +28,7 @@
 | [Bei Dir war es immer so schön](https://open.spotify.com/track/6l3FR8oM1vScye1lyIxUjN) | [George Laffitte](https://open.spotify.com/artist/73svkXqxHEpuyC39kOuuCP) | [La Javanaise](https://open.spotify.com/album/1DdH3YQO9vGj4v75Lll1Uy) | 3:51 | 2023-05-25 | 2026-03-13 |
 | [Besame Mucho](https://open.spotify.com/track/4iAKfuXxtvBuBilApPvf06) | [Claudio Ranalli](https://open.spotify.com/artist/4Z6NDRwXM5rrKuzKcthNeu) | [Fantastica Fisarmonica 16 Beguine](https://open.spotify.com/album/03DkoUckKFcBpv90GlnQ1n) | 3:33 | 2022-02-18 | 2023-03-22 |
 | [Besame Mucho](https://open.spotify.com/track/6NTGlwq5oGviybLyppZL7T) | [Pierre\-Antoine Martin](https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs) | [French Cafe](https://open.spotify.com/album/5adQdukvF9RPivGzmYQUAC) | 3:21 | 2023-03-15 | 2023-08-19 |
-| [Biguine pour Ahoefa](https://open.spotify.com/track/2XiqESjgfqCkySHdlio7ad) | [Lune Brûlée](https://open.spotify.com/artist/30Kkab3lfweFQ6RrHN5ogu) | [Biguine pour Ahoefa](https://open.spotify.com/album/0xcxaUMHnOVfmGMXxQTI7a) | 3:24 | 2025-11-03 |  |
+| [Biguine pour Ahoefa](https://open.spotify.com/track/2XiqESjgfqCkySHdlio7ad) | [Lune Brûlée](https://open.spotify.com/artist/30Kkab3lfweFQ6RrHN5ogu) | [Biguine pour Ahoefa](https://open.spotify.com/album/0xcxaUMHnOVfmGMXxQTI7a) | 3:24 | 2025-11-03 | 2026-07-10 |
 | [Bistro Fada](https://open.spotify.com/track/08T5wMbEnPN8ghT8o24KY6) | [Stephane Wrembel](https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm) | [Bistro Fada](https://open.spotify.com/album/6lT35xJDhO7Ao5TOLfKsqZ) | 3:02 | 2022-02-18 | 2026-03-13 |
 | [Black and White](https://open.spotify.com/track/2EQpfex5XjYR1ctXdtjJ9I) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Coquette](https://open.spotify.com/album/2FS2664m3YH36zTKCaRTxp) | 3:01 | 2023-05-18 | 2025-08-20 |
 | [bleu comme ton cœur](https://open.spotify.com/track/66rl8hBMjkG5qOwzwP7sRN) | [Swing Bohème](https://open.spotify.com/artist/4NfSzqocfeGJwQeP3vulmw) | [bleu comme ton cœur](https://open.spotify.com/album/6bMV2838VZMsLZ6wLoHnyp) | 4:20 | 2024-01-05 | 2024-07-13 |
@@ -171,7 +171,7 @@
 | [Nature Boy](https://open.spotify.com/track/76krowblKCB2QKvFlF72rS) | [Chansons d´Accordeon](https://open.spotify.com/artist/7yyIR9coVU196KLJT9Mj6T) | [Nature Boy](https://open.spotify.com/album/0nppysWv4pEJU73jrO7HFS) | 2:59 | 2023-05-11 |  |
 | [Ne partez pas](https://open.spotify.com/track/0m2uXUpiOId5jnchCg7g9h) | [George Laffitte](https://open.spotify.com/artist/73svkXqxHEpuyC39kOuuCP) | [Ne partez pas](https://open.spotify.com/album/4rVQ0xFtDURS8OC2FS5DKf) | 2:37 | 2026-06-30 |  |
 | [Nivram](https://open.spotify.com/track/3oBd5LyXu64UGeZd5jOh5m) | [Alma Sinti](https://open.spotify.com/artist/359HPjn8qfvjUb2mn9LpYK) | [Nuits de Paris](https://open.spotify.com/album/2VO3QpjtZCbOKQO6Pqebnq) | 3:13 | 2023-03-07 |  |
-| [November Moon](https://open.spotify.com/track/712ZGHyBdeTUh3iEu6ctci) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [CAO 10](https://open.spotify.com/album/2M5SSx4fWARPw8lLnKD9oS) | 4:12 | 2022-11-25 |  |
+| [November Moon](https://open.spotify.com/track/712ZGHyBdeTUh3iEu6ctci) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [CAO 10](https://open.spotify.com/album/2M5SSx4fWARPw8lLnKD9oS) | 4:12 | 2022-11-25 | 2026-07-10 |
 | [Nuit d'Ivresse](https://open.spotify.com/track/6A23SUSRCmF5neznwHqDgp) | [Les Sales Gosses](https://open.spotify.com/artist/3ysjzjJYSYv6Rp4j2Buspn) | [Nuit d'Ivresse](https://open.spotify.com/album/4qFs40D6TrUX2ptMXfFEyv) | 3:02 | 2024-08-19 | 2025-06-17 |
 | [Nuits Françaises](https://open.spotify.com/track/62UxKGAaoPpbWxopsCpUar) | [Chansons d´Accordeon](https://open.spotify.com/artist/7yyIR9coVU196KLJT9Mj6T) | [Nuits Françaises](https://open.spotify.com/album/5w4k9Vz93h1ZJKRdp2zFn6) | 2:27 | 2023-10-13 |  |
 | [Oiseau En Cage](https://open.spotify.com/track/2G5JLF2ToNu5PfO7mjdyS4) | [Martín Lima](https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51) | [Oiseau En Cage](https://open.spotify.com/album/0EVi0LWKaZmxZq7UoYv6JH) | 2:38 | 2026-06-30 |  |
@@ -234,7 +234,7 @@
 | [Suzette](https://open.spotify.com/track/15G8JWzGHoxH7vryK5v2g4) | [Carré Bleu](https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es) | [Les feuilles mortes](https://open.spotify.com/album/3OtWDcUB17fVR7UtlQof1c) | 3:12 | 2023-03-21 | 2025-11-04 |
 | [Swing detox](https://open.spotify.com/track/7jqVzbrbcy3I8qFlnJl3ZZ) | [Le Quintette Bleu](https://open.spotify.com/artist/4Z1RjLPuWfGYAIbXPquetd) | [Swing detox](https://open.spotify.com/album/3flGXeJ4zqqSKdlR64PTzF) | 4:07 | 2025-11-03 | 2026-07-01 |
 | [Swing Gitane](https://open.spotify.com/track/1Bmk0wq732C39ifPLVGjfn) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Songs in a Parisian Cafe](https://open.spotify.com/album/0zZVqcIwJ2Z5gGs9oooaO5) | 2:41 | 2023-03-15 | 2023-08-04 |
-| [Swing Mocinateur](https://open.spotify.com/track/3dEX65c5OjLVdelCnBFSbr) | [Pierre\-Antoine Martin](https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs) | [Swing Mocinateur](https://open.spotify.com/album/3ijFxX31fKUG7lp6tEKEpe) | 3:28 | 2025-09-23 |  |
+| [Swing Mocinateur](https://open.spotify.com/track/3dEX65c5OjLVdelCnBFSbr) | [Pierre\-Antoine Martin](https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs) | [Swing Mocinateur](https://open.spotify.com/album/3ijFxX31fKUG7lp6tEKEpe) | 3:28 | 2025-09-23 | 2026-07-10 |
 | [Swing Parisien](https://open.spotify.com/track/1buoPIkULZPuxAyKMveXtE) | [George Laffitte](https://open.spotify.com/artist/73svkXqxHEpuyC39kOuuCP) | [Swing Parisien](https://open.spotify.com/album/6nsGz9H8fun1aaydktdP2l) | 2:49 | 2025-11-03 | 2026-07-01 |
 | [Swing Suspens](https://open.spotify.com/track/5EDDKBAMxFDvG3f7D6v93l) | [Marcel Loeffler](https://open.spotify.com/artist/0DglDT7eUNaSWf99w39e2m) | [Source Manouche](https://open.spotify.com/album/3mf1RSVpwCZZmDaY9nmN1o) | 3:23 | 2022-11-25 | 2025-05-06 |
 | [Säkkijärven Cumbia](https://open.spotify.com/track/1K7Z936Yp5AwR0iF3i0p2D) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [La Zingara](https://open.spotify.com/album/7A2CsrEpQ657PuoTxV9iy3) | 3:21 | 2022-02-18 | 2023-05-26 |

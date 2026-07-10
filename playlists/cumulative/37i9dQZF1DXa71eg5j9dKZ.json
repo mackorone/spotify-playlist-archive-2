@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Junior Simba",
+  "description": "The home for alternative electronic music. Cover: Confidence Man\n",
   "name": "Altar",
   "tracks": [
     {
@@ -4967,6 +4967,24 @@
     },
     {
       "album": {
+        "name": "Club Feelz",
+        "url": "https://open.spotify.com/album/1F4zEddY5Yt8FGWIvuw8Yy"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/00Yp7ztleUYQsQ3wtcEf5X"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203980,
+      "name": "Club Feelz",
+      "url": "https://open.spotify.com/track/6CGBTppIslowbb3DMrNC6x"
+    },
+    {
+      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -5874,7 +5892,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 139867,
       "name": "Danger",
       "url": "https://open.spotify.com/track/0emddmBnIrINlvtvtuLkXI"
@@ -6547,6 +6565,24 @@
     },
     {
       "album": {
+        "name": "Elsewhere",
+        "url": "https://open.spotify.com/album/5AeA3BwZYLPF4sZkseKaVd"
+      },
+      "artists": [
+        {
+          "name": "Luc Veermeer",
+          "url": "https://open.spotify.com/artist/1GQNSN0anKfRx96S1A4QIN"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258593,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/7m5y7mIOWGABC04lL4acuD"
+    },
+    {
+      "album": {
         "name": "Don't Cry",
         "url": "https://open.spotify.com/album/6E6Ma1phFlnclk3qufofPd"
       },
@@ -7110,7 +7146,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 253725,
       "name": "Driving On Sand",
       "url": "https://open.spotify.com/track/1XKrSSrclVXSAsrTK0E6y9"
@@ -7216,7 +7252,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 286153,
       "name": "DUMBB",
       "url": "https://open.spotify.com/track/7sbVfOxOFboMWTDyOzTbeC"
@@ -7834,6 +7870,36 @@
       "duration_ms": 279875,
       "name": "Energy - Ewan McVicar '05 Remix",
       "url": "https://open.spotify.com/track/3f6u2nwY2wgW8yq9Ith9P0"
+    },
+    {
+      "album": {
+        "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
+        "url": "https://open.spotify.com/album/4Ip6Qu6FKpjN5ExbgXumTN"
+      },
+      "artists": [
+        {
+          "name": "Jarreau Vandal",
+          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
+        },
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199351,
+      "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
+      "url": "https://open.spotify.com/track/0ydo9m41U6o1OpxEpRev0Y"
     },
     {
       "album": {
@@ -10373,6 +10439,28 @@
     },
     {
       "album": {
+        "name": "Get Me Down (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/7jtKstOvFpbqMAZzV5hDjC"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194038,
+      "name": "Get Me Down (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/3b1YokXcQXYM5xH97Dp7UU"
+    },
+    {
+      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc"
       },
@@ -10478,7 +10566,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 208322,
       "name": "Gimme A Break A Second",
       "url": "https://open.spotify.com/track/43MpbqyVNmucjUDki9eoS6"
@@ -10994,6 +11082,24 @@
       "duration_ms": 195795,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/2J9jWkE2NUeULlJ7OSIZ3G"
+    },
+    {
+      "album": {
+        "name": "GRIT",
+        "url": "https://open.spotify.com/album/1EKor2rfqEsTN1O9AEOoQz"
+      },
+      "artists": [
+        {
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209323,
+      "name": "GRIT",
+      "url": "https://open.spotify.com/track/2KMQQ1yvUUOgVjGDBStDRp"
     },
     {
       "album": {
@@ -14338,7 +14444,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 150857,
       "name": "Jump In",
       "url": "https://open.spotify.com/track/7aDl834jw3OD93b4gWEYXx"
@@ -14396,6 +14502,24 @@
       "duration_ms": 241999,
       "name": "JUNGLE TEKNAH",
       "url": "https://open.spotify.com/track/0PjXRi6lYapTH4BXl8xNlU"
+    },
+    {
+      "album": {
+        "name": "JUST 2 BE",
+        "url": "https://open.spotify.com/album/6OIKSuRtvqlrsFFYYvrmed"
+      },
+      "artists": [
+        {
+          "name": "Conducta",
+          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232380,
+      "name": "JUST 2 BE",
+      "url": "https://open.spotify.com/track/6j00toPhg0azocuu0jgMu3"
     },
     {
       "album": {
@@ -15724,7 +15848,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 178280,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
@@ -16472,7 +16596,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 302362,
       "name": "Make Me Feel Better",
       "url": "https://open.spotify.com/track/37Udv1XxXBOjmAgTr6n2f6"
@@ -17559,6 +17683,24 @@
     },
     {
       "album": {
+        "name": "Move Shake",
+        "url": "https://open.spotify.com/album/1S74QEpRIH8jaQX44H1ANg"
+      },
+      "artists": [
+        {
+          "name": "Jeff Sorkowitz",
+          "url": "https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178124,
+      "name": "Move Shake",
+      "url": "https://open.spotify.com/track/3zJ3HnuFWvYGNeVxafs4mu"
+    },
+    {
+      "album": {
         "name": "MOVEMENT",
         "url": "https://open.spotify.com/album/1Ai8Fe6169Y9K0sXUHbEyQ"
       },
@@ -17864,7 +18006,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 343484,
       "name": "MY SEARCH IS OVER",
       "url": "https://open.spotify.com/track/2VYe0pDgMUNk0wlzOPxEoT"
@@ -24609,6 +24751,28 @@
     },
     {
       "album": {
+        "name": "BAGS INC",
+        "url": "https://open.spotify.com/album/4QFuexUmfDhl8WL34Rnda8"
+      },
+      "artists": [
+        {
+          "name": "Sam Binga",
+          "url": "https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi"
+        },
+        {
+          "name": "Addison Groove",
+          "url": "https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207999,
+      "name": "SQZME",
+      "url": "https://open.spotify.com/track/4bCVm1YfSMPysLN7axPAtW"
+    },
+    {
+      "album": {
         "name": "Stars Above",
         "url": "https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B"
       },
@@ -25644,7 +25808,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 210227,
       "name": "Teach You Desire",
       "url": "https://open.spotify.com/track/2i2BaQHXCWNFzDqxcyZVE0"
@@ -26860,7 +27024,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 180520,
       "name": "Through The Pain (feat. Pozer)",
       "url": "https://open.spotify.com/track/0AFTmRJtR1AorwJ6XlOn8I"
@@ -26882,6 +27046,28 @@
       "duration_ms": 151968,
       "name": "Thru My Mind",
       "url": "https://open.spotify.com/track/2IOkHMQbAuAxcH6SqCqm1w"
+    },
+    {
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/57dp3wTJO7GspD9EqGXQPF"
+      },
+      "artists": [
+        {
+          "name": "Shafkkat",
+          "url": "https://open.spotify.com/artist/4wt5o5QeGiPuMhOlCldmWd"
+        },
+        {
+          "name": "Jess Young",
+          "url": "https://open.spotify.com/artist/7mt5zMJCyOKmxPyDT0ihZK"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/7k7LWZrsCic16PiZJidKdL"
     },
     {
       "album": {
@@ -30218,6 +30404,24 @@
       "duration_ms": 252012,
       "name": "You're So High (10 Years On) (Sasha Remix)",
       "url": "https://open.spotify.com/track/7gh68qwsiIDWnJxpsR3FXy"
+    },
+    {
+      "album": {
+        "name": "Young London",
+        "url": "https://open.spotify.com/album/0oOrh69HrDugr7QJ4l7llo"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186870,
+      "name": "Young London",
+      "url": "https://open.spotify.com/track/5cwZWtLpAgDQXIFbRhUZcc"
     },
     {
       "album": {

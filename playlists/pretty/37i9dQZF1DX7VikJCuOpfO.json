@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alta Consigna\ud83d\udcf8",
-  "num_followers": 368160,
+  "num_followers": 368176,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
+        "name": "Rolitas Para Mis Abuelos",
+        "url": "https://open.spotify.com/album/5usns2sPfiQDKJBVWXLZ4U"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        }
+      ],
+      "duration_ms": 230802,
+      "name": "100 Horas",
+      "url": "https://open.spotify.com/track/4H6mswx8rA37krmNa0Q6JD"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
         "name": "Me Enloqueces",
         "url": "https://open.spotify.com/album/1Vf2WGDh6Igd14bK28zBGd"
       },
@@ -643,38 +659,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Rolitas Para Mis Abuelos",
-        "url": "https://open.spotify.com/album/5usns2sPfiQDKJBVWXLZ4U"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        }
-      ],
-      "duration_ms": 230802,
-      "name": "100 Horas",
-      "url": "https://open.spotify.com/track/4H6mswx8rA37krmNa0Q6JD"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
-        "name": "\u00c9chenle Sal a la Herida",
-        "url": "https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E"
-      },
-      "artists": [
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        }
-      ],
-      "duration_ms": 199887,
-      "name": "Este Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6hYcfxnJxSdErfjN61a7db"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "Emilia",
         "url": "https://open.spotify.com/album/55kC2mytSmuqEkW4YkbhOz"
       },
@@ -695,22 +679,18 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Cuando Llegue el D\u00eda",
-        "url": "https://open.spotify.com/album/2J5YCv5iMrMXc9R47o92HC"
+        "name": "\u00c9chenle Sal a la Herida",
+        "url": "https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E"
       },
       "artists": [
         {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
         }
       ],
-      "duration_ms": 238200,
-      "name": "Cuando Llegue el D\u00eda",
-      "url": "https://open.spotify.com/track/5O60WjoCD5egvktd0FK283"
+      "duration_ms": 199887,
+      "name": "Este Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6hYcfxnJxSdErfjN61a7db"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -727,6 +707,26 @@
       "duration_ms": 170997,
       "name": "El Adi\u00f3s Ranchero",
       "url": "https://open.spotify.com/track/6FiCXjItnPGWQ09DIOi1Ml"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
+        "name": "Cuando Llegue el D\u00eda",
+        "url": "https://open.spotify.com/album/2J5YCv5iMrMXc9R47o92HC"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "Cuando Llegue el D\u00eda",
+      "url": "https://open.spotify.com/track/5O60WjoCD5egvktd0FK283"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Un Abrazo (Versi\u00f3n Regional)",
-        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "Un Abrazo - Versi\u00f3n Regional",
-      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/3WdLKbUHPxNbHmJXe2BVeu"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "De Qu\u00e9 Manera Te Olvido",
-        "url": "https://open.spotify.com/album/3ZdsQ9qRiqlzaIeRVdvC65"
+        "name": "Un Abrazo (Versi\u00f3n Regional)",
+        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
       },
       "artists": [
         {
-          "name": "Elias Medina",
-          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 174250,
-      "name": "De Qu\u00e9 Manera Te Olvido",
-      "url": "https://open.spotify.com/track/7r6np7igPeQkUB2UKYHW1U"
+      "duration_ms": 238500,
+      "name": "Un Abrazo - Versi\u00f3n Regional",
+      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -843,6 +827,22 @@
       "duration_ms": 205750,
       "name": "MI \u00daLTIMA DESPEDIDA",
       "url": "https://open.spotify.com/track/7rCGOjnuWBRA3iuhK60wTc"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
+        "name": "De Qu\u00e9 Manera Te Olvido",
+        "url": "https://open.spotify.com/album/3ZdsQ9qRiqlzaIeRVdvC65"
+      },
+      "artists": [
+        {
+          "name": "Elias Medina",
+          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
+        }
+      ],
+      "duration_ms": 174250,
+      "name": "De Qu\u00e9 Manera Te Olvido",
+      "url": "https://open.spotify.com/track/7r6np7igPeQkUB2UKYHW1U"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Angelito Sin Alas",
-        "url": "https://open.spotify.com/album/1X1ruDoYErT8r1phWKwTI5"
-      },
-      "artists": [
-        {
-          "name": "Las Posada",
-          "url": "https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll"
-        }
-      ],
-      "duration_ms": 168238,
-      "name": "Angelito Sin Alas",
-      "url": "https://open.spotify.com/track/3qSXwUNvSMFAfmrs1m4FIp"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "Despecho Puro (En Vivo)",
         "url": "https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 173173,
       "name": "\u00bfPOR QU\u00c9 ME HACES LLORAR? - En Vivo",
       "url": "https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
+        "name": "Angelito Sin Alas",
+        "url": "https://open.spotify.com/album/1X1ruDoYErT8r1phWKwTI5"
+      },
+      "artists": [
+        {
+          "name": "Las Posada",
+          "url": "https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll"
+        }
+      ],
+      "duration_ms": 168238,
+      "name": "Angelito Sin Alas",
+      "url": "https://open.spotify.com/track/3qSXwUNvSMFAfmrs1m4FIp"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
+        "name": "Pajarillo",
+        "url": "https://open.spotify.com/album/5jH8BDn3zQe2FQ0aZdson7"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Maria Napole\u00f3n",
+          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
+        },
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "Pajarillo",
+      "url": "https://open.spotify.com/track/0ZvSxLlYyF2qEs3PQj5X3w"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
         "name": "Este Amor",
         "url": "https://open.spotify.com/album/52k951JAnmJbJfJBCGe5AR"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 258894,
       "name": "Mam\u00e1",
       "url": "https://open.spotify.com/track/7LmtJqK1YDkHRsafCnVmCR"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
-        "name": "Pajarillo",
-        "url": "https://open.spotify.com/album/5jH8BDn3zQe2FQ0aZdson7"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Maria Napole\u00f3n",
-          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
-        },
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "Pajarillo",
-      "url": "https://open.spotify.com/track/0ZvSxLlYyF2qEs3PQj5X3w"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
+        "name": "Los Amigos Asi",
+        "url": "https://open.spotify.com/album/0kcnRSs7sG2RgGb2MyQO7t"
+      },
+      "artists": [
+        {
+          "name": "Los Periquines de Don Ramon Torres",
+          "url": "https://open.spotify.com/artist/1TiZXq8MXu42KTrkRumlTZ"
+        }
+      ],
+      "duration_ms": 207830,
+      "name": "Los Amigos Asi",
+      "url": "https://open.spotify.com/track/2ShRtZ8WAWcZQ3aVnh9yIK"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
         "name": "Qu\u00e9 Manera De Perder",
         "url": "https://open.spotify.com/album/3gug01l53bHONxiMPjAJmQ"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 155667,
       "name": "Qu\u00e9 Manera De Perder",
       "url": "https://open.spotify.com/track/6ilcYE1SD0G3K4VbQiwYHs"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
-        "name": "Los Amigos Asi",
-        "url": "https://open.spotify.com/album/0kcnRSs7sG2RgGb2MyQO7t"
-      },
-      "artists": [
-        {
-          "name": "Los Periquines de Don Ramon Torres",
-          "url": "https://open.spotify.com/artist/1TiZXq8MXu42KTrkRumlTZ"
-        }
-      ],
-      "duration_ms": 207830,
-      "name": "Los Amigos Asi",
-      "url": "https://open.spotify.com/track/2ShRtZ8WAWcZQ3aVnh9yIK"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "El \u00daltimo Beso",
-        "url": "https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S"
-      },
-      "artists": [
-        {
-          "name": "Eddy Y Samu",
-          "url": "https://open.spotify.com/artist/1ltW6BF5qgKsoN2T0nyEvn"
-        }
-      ],
-      "duration_ms": 169287,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "All\u00e1 Donde Vayas",
         "url": "https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 213316,
       "name": "All\u00e1 Donde Vayas",
       "url": "https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
+        "name": "El \u00daltimo Beso",
+        "url": "https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S"
+      },
+      "artists": [
+        {
+          "name": "Eddy Y Samu",
+          "url": "https://open.spotify.com/artist/1ltW6BF5qgKsoN2T0nyEvn"
+        }
+      ],
+      "duration_ms": 169287,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e"
     },
     {
       "added_at": "2026-07-03 06:00:19",

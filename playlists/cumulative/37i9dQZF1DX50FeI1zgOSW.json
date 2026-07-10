@@ -1025,6 +1025,28 @@
     },
     {
       "album": {
+        "name": "Anu Anuvai",
+        "url": "https://open.spotify.com/album/36LU93YaVWnC4oSOdWzMj3"
+      },
+      "artists": [
+        {
+          "name": "Santhan Anebajagane",
+          "url": "https://open.spotify.com/artist/7C0XpfZfYRJrDXK0lA2LSq"
+        },
+        {
+          "name": "Manasa",
+          "url": "https://open.spotify.com/artist/0asVUyWU3aDOUQwSRRx9m9"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192512,
+      "name": "Anu Anuvai",
+      "url": "https://open.spotify.com/track/7rsNofmYWP8dRnHAulqs1c"
+    },
+    {
+      "album": {
         "name": "Arakkiye",
         "url": "https://open.spotify.com/album/2wz4GI1MXwXTZMtJFFBsp7"
       },

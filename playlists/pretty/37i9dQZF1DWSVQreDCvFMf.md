@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: John Roa, Dash Calzado
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,588 likes - 103 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,614 likes - 103 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

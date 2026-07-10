@@ -238,7 +238,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 207738,
       "name": "Babylon, baby",
       "url": "https://open.spotify.com/track/6AcOGAvI3FX4Icq7BWINrO"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 196957,
       "name": "Danza Organica - Musumeci Remix Hot Version",
       "url": "https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z"
@@ -1060,6 +1060,24 @@
       "duration_ms": 263508,
       "name": "Disco Sole",
       "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
+    },
+    {
+      "album": {
+        "name": "Discoteca Eterna",
+        "url": "https://open.spotify.com/album/4nLGuJtZE9Zh83UlYCOEkY"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205161,
+      "name": "Discoteca Eterna",
+      "url": "https://open.spotify.com/track/0gca1p9T3HZK2yVNnV4bmW"
     },
     {
       "album": {
@@ -2039,6 +2057,24 @@
     },
     {
       "album": {
+        "name": "ITVLO",
+        "url": "https://open.spotify.com/album/1sY6EDoFwyLD5rI0tG2QJR"
+      },
+      "artists": [
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287267,
+      "name": "ITVLO",
+      "url": "https://open.spotify.com/track/5GmLeKLNFgOPCqyonBPYtr"
+    },
+    {
+      "album": {
         "name": "Challenger",
         "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
       },
@@ -2640,6 +2676,24 @@
       "duration_ms": 317120,
       "name": "My Magic Number - Club Domani Remix",
       "url": "https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV"
+    },
+    {
+      "album": {
+        "name": "Napoletana (Dance Rituals)",
+        "url": "https://open.spotify.com/album/00lUUPzAWmS99tE7tX5WQY"
+      },
+      "artists": [
+        {
+          "name": "Pellegrino",
+          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224564,
+      "name": "Napoletana - Dance Rituals",
+      "url": "https://open.spotify.com/track/6bEQ6Sr51Ij3p3NwlV8UwC"
     },
     {
       "album": {
@@ -3656,7 +3710,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 376621,
       "name": "The Night - Original Remastered Version 2020",
       "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"

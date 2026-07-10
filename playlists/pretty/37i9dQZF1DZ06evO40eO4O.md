@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40eO4O.md) - [plain]
 
 > This is Angela Torres\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,166 likes - 36 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,174 likes - 36 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40eO4O.md) - [plain]
 | 15 | [OOPS!](https://open.spotify.com/track/3sSDoM8C5OyagBQHzBufW7) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 2:12 |
 | 16 | [FRAGIL](https://open.spotify.com/track/3or5eT4oHWARZ9JUYfXM1C) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [LA NIÑA DE FUEGO](https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO) | 2:16 |
 | 17 | [Fiebre](https://open.spotify.com/track/3pNi7px9XVXGlwqr0fZHXo) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Fiebre](https://open.spotify.com/album/5sMP31RiHju3dGZ5tPdPWj) | 2:20 |
-| 18 | [Me Va Muy Bien](https://open.spotify.com/track/35PyAwHXwuAzmUAPLEArgy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Me Va Muy Bien](https://open.spotify.com/album/6xgKnmMwkoGcG13zn8fZVf) | 2:21 |
+| 18 | [FLOTANDO](https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FLOTANDO](https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY) | 2:42 |
 | 19 | [DEMASIADO](https://open.spotify.com/track/1FnX52b2XTa1YlBKQGJpwe) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 1:30 |
 | 20 | [LNDF](https://open.spotify.com/track/49b86Qmdexs8IxuaLHD0AA) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [LA NIÑA DE FUEGO](https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO) | 3:02 |
-| 21 | [FLOTANDO](https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FLOTANDO](https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY) | 2:42 |
+| 21 | [Me Va Muy Bien](https://open.spotify.com/track/35PyAwHXwuAzmUAPLEArgy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Me Va Muy Bien](https://open.spotify.com/album/6xgKnmMwkoGcG13zn8fZVf) | 2:21 |
 | 22 | [Nasty Girl \(feat\. Ingratax\)](https://open.spotify.com/track/3G8XMxse6i7UANaT9GT0jg) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Nasty Girl \(feat\. Ingratax\)](https://open.spotify.com/album/7nmAtVkZuv1Z9iwvCpwbXs) | 4:05 |
 | 23 | [PLACARD](https://open.spotify.com/track/0r5cPFo2h0MWR7mHKpQF7o) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 2:31 |
 | 24 | [ARRABALERA](https://open.spotify.com/track/2s9cvQzfwAgdnFUaKNivfE) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [LA NIÑA DE FUEGO](https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO) | 2:40 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40eO4O.md) - [plain]
 | 35 | [El Camino \(feat\. Ángela Torres\)](https://open.spotify.com/track/0BEIXJ00DmdrERdf1WwhI4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Buena Vida](https://open.spotify.com/album/1awXzHG1Y8xFuJQ75tnnO2) | 3:27 |
 | 36 | [Ropa Usada](https://open.spotify.com/track/42486PSR7Ed3VBGNhMFtP0) | [Diego Uma](https://open.spotify.com/artist/1GdiNwO4ULE3airQyDbIMI), [Martin Bosa](https://open.spotify.com/artist/0rQJnIVSGk1Bt9MQZIGBp4), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Kevsho](https://open.spotify.com/artist/2ZRWQ32bmdN6cdXr1TVGLh), [Sofía Saborido](https://open.spotify.com/artist/6yYuD9tFDOZFKA3HytWtVT), [Federico Sack](https://open.spotify.com/artist/0K2z0O8rZrG3SxQy59ZsQr) | [Porno y Helado \- \(Banda Sonora De La Segunda Temporada De La Serie Original De Amazon Prime\)](https://open.spotify.com/album/1GmqlbHDnKDsr5AWjv1EuE) | 1:57 |
 
-Snapshot ID: `akrwAAAAAABoP76MzGhqV0PfSlWAUw4+`
+Snapshot ID: `ak2TAAAAAADt8ScMOCIIDB2qDwIKED8Z`

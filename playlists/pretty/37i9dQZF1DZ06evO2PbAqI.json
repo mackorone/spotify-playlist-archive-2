@@ -1,12 +1,12 @@
 {
   "description": "This is Lacuna Coil. The essential tracks, all in one playlist.",
-  "num_followers": 35584,
+  "num_followers": 35587,
   "original_name": "This Is Lacuna Coil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAABVunUfSr63GFa0SuLoclyJ",
+  "snapshot_id": "ak2TAAAAAABPTFeW0D2BC+VXyUqJP5Qu",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delirium",
-        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 196080,
-      "name": "Delirium",
-      "url": "https://open.spotify.com/track/7q9si83DQmdTuT7zfuus7f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broken Crown Halo",
         "url": "https://open.spotify.com/album/6P5nvFW7lUOwGGvDNYuVvG"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 247573,
       "name": "Nothing Stands in Our Way",
       "url": "https://open.spotify.com/track/20gUq53TwfLsyq7AIUL2tt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delirium",
+        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 196080,
+      "name": "Delirium",
+      "url": "https://open.spotify.com/track/7q9si83DQmdTuT7zfuus7f"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broken Crown Halo",
-        "url": "https://open.spotify.com/album/6P5nvFW7lUOwGGvDNYuVvG"
+        "name": "In a Reverie",
+        "url": "https://open.spotify.com/album/3OGMfNOHgqT5KQeOrESXbG"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 236226,
-      "name": "I Forgive (But I Won't Forget Your Name)",
-      "url": "https://open.spotify.com/track/6sBzoJcptqlnns1eJ03wXF"
+      "duration_ms": 307266,
+      "name": "Falling Again",
+      "url": "https://open.spotify.com/track/1M3h1uXXNSG5wAjErb1Y15"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In a Reverie",
-        "url": "https://open.spotify.com/album/3OGMfNOHgqT5KQeOrESXbG"
+        "name": "Broken Crown Halo",
+        "url": "https://open.spotify.com/album/6P5nvFW7lUOwGGvDNYuVvG"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 307266,
-      "name": "Falling Again",
-      "url": "https://open.spotify.com/track/1M3h1uXXNSG5wAjErb1Y15"
+      "duration_ms": 236226,
+      "name": "I Forgive (But I Won't Forget Your Name)",
+      "url": "https://open.spotify.com/track/6sBzoJcptqlnns1eJ03wXF"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 229280,
-      "name": "You Love Me 'Cause I Hate You",
-      "url": "https://open.spotify.com/track/0j2QDNeAmt2WxrmAEQJUe0"
+      "duration_ms": 261053,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/6eR2jeiMILXRto4lxZzzEf"
     },
     {
       "added_at": null,
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 261053,
-      "name": "Downfall",
-      "url": "https://open.spotify.com/track/6eR2jeiMILXRto4lxZzzEf"
+      "duration_ms": 229280,
+      "name": "You Love Me 'Cause I Hate You",
+      "url": "https://open.spotify.com/track/0j2QDNeAmt2WxrmAEQJUe0"
     }
   ],
   "unique_name": "This Is Lacuna Coil",

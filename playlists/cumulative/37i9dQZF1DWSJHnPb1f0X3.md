@@ -4,7 +4,7 @@
 
 > Upbeat dance pop to keep your heart pumping.
 
-850 songs - 1 day 18 hr 13 min
+851 songs - 1 day 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -510,6 +510,7 @@
 | [My Loving](https://open.spotify.com/track/49sL5BeNMirG6Fy4mBd8Fg) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [My Loving](https://open.spotify.com/album/2HBmhLOs1tpnr1KGvJd6B3) | 2:50 | 2026-05-01 | 2026-06-14 |
 | [My Oh My](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [My Oh My](https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed) | 2:36 | 2024-04-05 | 2024-08-03 |
 | [My Oh My](https://open.spotify.com/track/0lEz9eKrVwFCJ7DMbR433x) | [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [My Oh My](https://open.spotify.com/album/4qnL9HQlKfDWtdP94Rf2jI) | 2:30 | 2022-03-25 | 2022-04-18 |
+| [My Place](https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [My Place](https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C) | 2:39 | 2026-07-07 |  |
 | [My Pony](https://open.spotify.com/track/1UaaVPtlo795n1hWqHpOYS) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [My Pony](https://open.spotify.com/album/3DTLDnxeGFdJZSME6WYgE1) | 2:33 | 2022-04-08 | 2022-07-29 |
 | [Nah \(feat\. Sinead Harnett\)](https://open.spotify.com/track/1xaOhiFM7q5Yi2H1v5WUS2) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Nah \(feat\. Sinead Harnett\)](https://open.spotify.com/album/2Cla1wK4qkDCdrVaZgeTFk) | 2:49 | 2021-12-31 | 2022-06-30 |
 | [Never Be Lonely \- Cascada Remix](https://open.spotify.com/track/2OOCFcLq9vDnxbMvAMopi3) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Never Be Lonely \(Cascada Remix\)](https://open.spotify.com/album/0CNe6GLbpxRWKXYTK8bytw) | 2:06 | 2024-03-22 | 2024-08-24 |
@@ -787,7 +788,7 @@
 | [Unconditional](https://open.spotify.com/track/3rI7logAQK4NlhdWWRNwf6) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Unconditional](https://open.spotify.com/album/4FNKXpTgL0M2Tnkw5p5Q8M) | 2:15 | 2021-12-17 | 2022-06-28 |
 | [Under The Sun](https://open.spotify.com/track/5VdP74vn6CXqtUE5sT74Tw) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Kidda](https://open.spotify.com/artist/3Ahrh4hh6fik3NRP4eglaR) | [Under The Sun](https://open.spotify.com/album/1yetKJDTEFbto7yOSxkTtz) | 3:21 | 2022-03-25 | 2022-04-18 |
 | [Under The Sun \(with Alok\)](https://open.spotify.com/track/59ySremqxhrlZnCuNrqf1Y) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Under The Sun \(with Alok\)](https://open.spotify.com/album/4PP92BFZLs8PMzJoKtNn5I) | 2:45 | 2024-06-21 | 2024-12-19 |
-| [Unstoppable \- R3HAB Remix](https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Unstoppable \(R3HAB Remix\)](https://open.spotify.com/album/3qWCIK0fqmaaSTLoqoWsaz) | 2:42 | 2022-07-28 |  |
+| [Unstoppable \- R3HAB Remix](https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Unstoppable \(R3HAB Remix\)](https://open.spotify.com/album/3qWCIK0fqmaaSTLoqoWsaz) | 2:42 | 2022-07-28 | 2026-07-10 |
 | [Unsure](https://open.spotify.com/track/0QUavh8qOxWeGutYZHgymz) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Unsure](https://open.spotify.com/album/6ll7yKhF7Iq3c04eLbwC3P) | 2:48 | 2024-05-07 | 2024-06-22 |
 | [Used To Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 | 2022-03-25 | 2022-04-20 |
 | [Vertigo](https://open.spotify.com/track/1suxL65o1WETsaGBf7e6Gk) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Vertigo](https://open.spotify.com/album/0Nlopyeu2gwpETJK0sqUd4) | 3:31 | 2025-04-25 | 2025-05-10 |

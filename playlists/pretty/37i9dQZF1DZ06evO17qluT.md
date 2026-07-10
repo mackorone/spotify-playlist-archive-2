@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,720 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,778 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 33 | [Sensação de Liberdade](https://open.spotify.com/track/64iBfVmlDnQVxZCz9ySpU1) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/7dMDChrId0PHuWQy5R3P5o) | 2:58 |
 | 34 | [Quadros](https://open.spotify.com/track/4SOHLqfBQe0fdl1GtisjCb) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Luccas Carlos](https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Ashira](https://open.spotify.com/artist/2ELyrHIXLmzYiuO2I99kct) | [Castelos & Ruínas](https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9) | 5:09 |
 | 35 | [Não Me Abandona](https://open.spotify.com/track/1Mq3sx9w4o26tUt4ThimhY) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r), [MUC4](https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M) | [Eu Odeio o Dia dos Namorados](https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu) | 3:23 |
-| 36 | [HOTEL ZONA SUL](https://open.spotify.com/track/4pKgrER7iEnznCLkRb8oTl) | [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [VERÃO CRIMINOSO](https://open.spotify.com/album/09xyu9e9oEq8n8rmImtHmc) | 4:00 |
-| 37 | [Bonde Passando](https://open.spotify.com/track/1IvqtJaqnGlIoWaQmz2bsZ) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [PRODUTO DO AMBIENTE](https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN) | 2:23 |
+| 36 | [Bonde Passando](https://open.spotify.com/track/1IvqtJaqnGlIoWaQmz2bsZ) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [PRODUTO DO AMBIENTE](https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN) | 2:23 |
+| 37 | [HOTEL ZONA SUL](https://open.spotify.com/track/4pKgrER7iEnznCLkRb8oTl) | [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [VERÃO CRIMINOSO](https://open.spotify.com/album/09xyu9e9oEq8n8rmImtHmc) | 4:00 |
 | 38 | [Castelos & Ruínas](https://open.spotify.com/track/5gfsiobWJXdalFzHPoM3x5) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9) | 4:09 |
 | 39 | [Titãs](https://open.spotify.com/track/180D7ddndoKuifsdIthUPW) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Gigantes](https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32) | 4:54 |
 | 40 | [Amor](https://open.spotify.com/track/3SYUDlqR6tYOwjOayZX1xV) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [O Líder em Movimento](https://open.spotify.com/album/22qXEcma67stw3AZOaDWmq) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 49 | [Rei da Noite](https://open.spotify.com/track/1VmX5IO6VCOPVVaEQgNy08) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Sol Também Chora](https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We) | 2:25 |
 | 50 | [VENTO](https://open.spotify.com/track/5TSS1yAFxEnqFA42wZwZ8M) | [FYE](https://open.spotify.com/artist/6YT21JiusfFSCdZoBSb9Jp), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [João Vinicius Barbosa](https://open.spotify.com/artist/5E1Cjv4cm5mowV8pJ5saQO) | [VENTO](https://open.spotify.com/album/3XemK52KXvatZaLnxGLUEp) | 3:26 |
 
-Snapshot ID: `akrwAAAAAADZEXJEp1s/cZvJbD/nHmQC`
+Snapshot ID: `ak2TAAAAAAAGnyUrcsLMN509lKoyzP9I`

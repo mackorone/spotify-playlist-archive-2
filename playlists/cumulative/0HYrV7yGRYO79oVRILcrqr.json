@@ -5829,6 +5829,24 @@
     },
     {
       "album": {
+        "name": "My Revenge",
+        "url": "https://open.spotify.com/album/1rjfZshfNjxGP5cQXyIGzz"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Turk",
+          "url": "https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200617,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/6IufA64SPqtOYyFoKzL1s6"
+    },
+    {
+      "album": {
         "name": "Make Love",
         "url": "https://open.spotify.com/album/0kJwIehJg21K07TgHVzCcS"
       },
@@ -5974,6 +5992,24 @@
       "duration_ms": 308607,
       "name": "Meet Me at the Sidebar",
       "url": "https://open.spotify.com/track/0Ew2kJHiWLEDedSn9Z5NVu"
+    },
+    {
+      "album": {
+        "name": "Menunggu Yang Tak Kembali (2026)",
+        "url": "https://open.spotify.com/album/0rxRylINpphWKEKwGb2YGC"
+      },
+      "artists": [
+        {
+          "name": "Yosie Widianta",
+          "url": "https://open.spotify.com/artist/30OcarWko8rxYaH0TTkgsx"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187584,
+      "name": "Menunggu Yang Tak Kembali (2026)",
+      "url": "https://open.spotify.com/track/1sCgHlVyvvJEjKExIsJsJ6"
     },
     {
       "album": {

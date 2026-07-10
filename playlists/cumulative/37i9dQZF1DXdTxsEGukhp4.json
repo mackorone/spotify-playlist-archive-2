@@ -2605,6 +2605,28 @@
     },
     {
       "album": {
+        "name": "Hug (feat. kojikoji)",
+        "url": "https://open.spotify.com/album/1q8jca3CXP19IutTf5BKMp"
+      },
+      "artists": [
+        {
+          "name": "\u7a7a\u97f3",
+          "url": "https://open.spotify.com/artist/3rTxb36W3M1BCxx00iiwMU"
+        },
+        {
+          "name": "kojikoji",
+          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184728,
+      "name": "Hug (feat. kojikoji)",
+      "url": "https://open.spotify.com/track/4cHB6U8fasfxq7XD8uNxuK"
+    },
+    {
+      "album": {
         "name": "I am I",
         "url": "https://open.spotify.com/album/2fmiCRhZF73BkExQub6Yq3"
       },
@@ -5022,7 +5044,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"

@@ -2,9 +2,9 @@
 
 ### [Beste van NL](https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL)
 
-> De beste Nederlandse liedjes\. Cover: Justen de Wildt
+> De beste Nederlandse liedjes\. Cover: Antoon
 
-510 songs - 1 day 1 hr 52 min
+512 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Doe Maar](https://open.spotify.com/track/2oCFzEd9T5Tz9PWsINhaQ5) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Doe Maar](https://open.spotify.com/album/0jw6ieOuuks0vMYStBr1yY) | 2:30 | 2024-05-23 | 2024-10-25 |
 | [Don't Want A Heart](https://open.spotify.com/track/4ptuHdQQ7VMgiTwwisOOUr) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2023 \(Aflevering 8\- Duetten\)](https://open.spotify.com/album/0H0YZXJcL3FUaBpLy9HFwb) | 3:26 | 2023-11-10 | 2024-02-29 |
 | [Door De Wind](https://open.spotify.com/track/3h7NZT1CATbn4GqUs51vwf) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2020 \(Miss Montreal\)](https://open.spotify.com/album/6g8ZS309YWXN7pUzfBQYhB) | 2:50 | 2023-02-24 | 2023-09-09 |
+| [Door Het Oog Van De Nacht](https://open.spotify.com/track/0uWmcPc7Ie30nyNrsHnTjR) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Door Het Oog Van De Nacht](https://open.spotify.com/album/7BRsfyW9ugAffAfhAo3yim) | 2:54 | 2026-07-09 |  |
 | [Door Weer En Wind](https://open.spotify.com/track/1kAPdyoWB9Mw5CA6zuRVyD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Dit Is Het Levenslied](https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc) | 4:01 | 2024-02-07 | 2025-04-18 |
 | [Draaien](https://open.spotify.com/track/4gD4oxamFPz4TJNxuozDL5) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Draaien](https://open.spotify.com/album/6hobNqHnmmBbX3R8dsCxwp) | 3:25 | 2023-11-10 | 2024-03-20 |
 | [Droom Jij Over Mij Vannacht](https://open.spotify.com/track/4VqkzNrCmkv31nd7POoHWL) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Droom Jij Over Mij Vannacht](https://open.spotify.com/album/7F3QzxZYm1dXmhjHctzsDy) | 3:10 | 2026-01-15 |  |
@@ -141,6 +142,7 @@
 | [Er Was Eens Een Meid](https://open.spotify.com/track/128TSKhbp925wwRpJksRXH) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Er Was Eens Een Meid](https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE) | 2:56 | 2023-04-14 | 2023-09-09 |
 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-03-19 | 2024-10-25 |
 | [Fantasie](https://open.spotify.com/track/7ceZUSh04dbG6al0eNvAxO) | [Pauline](https://open.spotify.com/artist/4p13MevTYMG2CbQ9SGH5li), [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Fantasie](https://open.spotify.com/album/4HLLWhBN7fJmI8KD6pB8iP) | 2:37 | 2025-04-25 | 2025-12-17 |
+| [Feessie](https://open.spotify.com/track/3ZfJ4YkM03y1KLK5pfqz8o) | [Fons Veurink](https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0) | [Feessie](https://open.spotify.com/album/4dtiKzti1SpG8AIrkNa2KZ) | 3:08 | 2026-07-09 |  |
 | [Feestje Op Mijn Graf](https://open.spotify.com/track/1XD5DhrBu0HpofkF8cv3Ii) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [Feestje Op Mijn Graf](https://open.spotify.com/album/65T5ywUjxqqG9ayJWuhLLt) | 2:42 | 2026-07-02 |  |
 | [Fly Like Me](https://open.spotify.com/track/6CtVJEoNheHMtlDaJoXboX) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Fly Like Me](https://open.spotify.com/album/4JNpgGiRlMT6DYwyVjg1Jb) | 3:02 | 2024-05-02 | 2025-12-17 |
 | [Free For Another Day](https://open.spotify.com/track/3ouNQOmQUd1swZpXWFlMPe) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Free For Another Day](https://open.spotify.com/album/3aER22kJjTQAiiLNGfnuRr) | 2:42 | 2024-09-12 | 2024-10-10 |

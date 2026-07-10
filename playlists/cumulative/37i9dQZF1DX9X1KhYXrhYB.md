@@ -2,7 +2,7 @@
 
 ### [Yellowjackets Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX9X1KhYXrhYB)
 
-> Secrets will be spilled\. Listen to all the music from Yellowjackets, now streaming on Paramount+ with Showtime.
+> Secrets will be spilled\. Listen to the music from Yellowjackets, now streaming on Paramount+.
 
 138 songs - 9 hr 1 min
 

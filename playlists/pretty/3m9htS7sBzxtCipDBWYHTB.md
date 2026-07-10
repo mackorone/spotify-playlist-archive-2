@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3m9htS7sBzxtCipDBWYHTB.md) - [plain]
 
 > The numb flavor of depression
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 32 songs - 1 hr 51 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 33 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,5 +40,6 @@ pretty - [cumulative](/playlists/cumulative/3m9htS7sBzxtCipDBWYHTB.md) - [plain]
 | 30 | [Bottom of the Pit \(feat\. Sam Haft\)](https://open.spotify.com/track/3JIkMEel91cKJoqZLpit1K) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [In Sound Mind \- Original Soundtrack](https://open.spotify.com/album/1xkfat7ew4UZejTX9F7LDr) | 4:00 |
 | 31 | [Disco! in the Panic Room](https://open.spotify.com/track/3gvusUWj94UpHw0Iv1RWhx) | [Bug Hunter](https://open.spotify.com/artist/3icuKNh1iYRvYPiEkxiAfR) | [The Rough Draft](https://open.spotify.com/album/3BIJimflJCEKdoMFSenabT) | 3:31 |
 | 32 | [why am i like this](https://open.spotify.com/track/3gE5o0qeyamJePqYcPgYcJ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [why am i like this](https://open.spotify.com/album/6hhTRMlslZIDOcuobjHjLh) | 2:56 |
+| 33 | [Alien Boy](https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4) | 2:44 |
 
-Snapshot ID: `AAAALLnqKkYrltDuvdXkBHeAq8M004Sc`
+Snapshot ID: `AAAALUjyn7AbdeIFKk4c9RFGl37vGyi+`

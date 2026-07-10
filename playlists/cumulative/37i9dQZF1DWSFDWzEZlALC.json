@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Emma Rose",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Elias",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -322,7 +322,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 138666,
       "name": "17000 Meilen",
       "url": "https://open.spotify.com/track/5OIvnAOpwJbHrKzI5udm6w"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 206733,
       "name": "Abgebrannt (mit Charlize, Romy & Rio Reiser)",
       "url": "https://open.spotify.com/track/61ZEChbuLcmvj6HtKbM8Zm"
@@ -2466,7 +2466,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 176236,
       "name": "Aperitivo",
       "url": "https://open.spotify.com/track/4wRyW0Xu75ra8myP57s3du"
@@ -3782,7 +3782,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 160000,
       "name": "berliner hollywood",
       "url": "https://open.spotify.com/track/33pzFfIQRxhbu8Asfp9g9d"
@@ -4036,6 +4036,28 @@
       "duration_ms": 212480,
       "name": "Bialetti",
       "url": "https://open.spotify.com/track/7DQPKQGA9IEsaF9H3RtnT2"
+    },
+    {
+      "album": {
+        "name": "bikini body",
+        "url": "https://open.spotify.com/album/7KvCv2HwQyAuV8xqPtkcGc"
+      },
+      "artists": [
+        {
+          "name": "MELE",
+          "url": "https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp"
+        },
+        {
+          "name": "zuender",
+          "url": "https://open.spotify.com/artist/4lCQMLf3GIOuDzrhVsd2FW"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137250,
+      "name": "bikini body",
+      "url": "https://open.spotify.com/track/2twXnIDIRD4XIx4OEMx80z"
     },
     {
       "album": {
@@ -10555,6 +10577,24 @@
     },
     {
       "album": {
+        "name": "Frieden",
+        "url": "https://open.spotify.com/album/2k9DOSaatqXZQa3l19qhUi"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Frieden",
+      "url": "https://open.spotify.com/track/5KuUGv7LppjS2XfEemohEh"
+    },
+    {
+      "album": {
         "name": "frieden",
         "url": "https://open.spotify.com/album/5iAkJn3zy2oVqeTMVyozku"
       },
@@ -11847,6 +11887,24 @@
     },
     {
       "album": {
+        "name": "Gewitter",
+        "url": "https://open.spotify.com/album/2P0RTEyf8A4n1yGYWcBpCl"
+      },
+      "artists": [
+        {
+          "name": "Cordoba78",
+          "url": "https://open.spotify.com/artist/2GNQkf6PWF0octGR2XzpQt"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193080,
+      "name": "Gewitter",
+      "url": "https://open.spotify.com/track/1T45f4RfjCF3GKsc3QSllM"
+    },
+    {
+      "album": {
         "name": "gewitter",
         "url": "https://open.spotify.com/album/6FYFS8DV6HTrkr9nsoKCsx"
       },
@@ -12140,6 +12198,24 @@
       "duration_ms": 192052,
       "name": "gold junge",
       "url": "https://open.spotify.com/track/7hULHmycFmInX4qSucxMNd"
+    },
+    {
+      "album": {
+        "name": "Golden Retriever Mindset",
+        "url": "https://open.spotify.com/album/0iAsErY6YYBIokykTbSAZy"
+      },
+      "artists": [
+        {
+          "name": "yara",
+          "url": "https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173218,
+      "name": "Golden Retriever Mindset",
+      "url": "https://open.spotify.com/track/0r6udkRvwSYlLyUWjz6202"
     },
     {
       "album": {
@@ -12480,7 +12556,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 126620,
       "name": "gute geister",
       "url": "https://open.spotify.com/track/1qEEhLq83vQKPlcRgbtU7k"
@@ -14338,6 +14414,24 @@
       "duration_ms": 120000,
       "name": "Ich Hab Dich",
       "url": "https://open.spotify.com/track/4ukBo7BejjVCB1dkwLEb30"
+    },
+    {
+      "album": {
+        "name": "Ich hab mich neu sortiert",
+        "url": "https://open.spotify.com/album/3V0JDcNqrbtkJKAFRgdPkB"
+      },
+      "artists": [
+        {
+          "name": "nand",
+          "url": "https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193514,
+      "name": "Ich hab mich neu sortiert",
+      "url": "https://open.spotify.com/track/4xPpCwyQJfocmevWIfLRSn"
     },
     {
       "album": {
@@ -16201,6 +16295,24 @@
     },
     {
       "album": {
+        "name": "Kamera Blitzlicht",
+        "url": "https://open.spotify.com/album/646xIOsDbv5KQq09Vgt3eg"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238241,
+      "name": "Kamera Blitzlicht",
+      "url": "https://open.spotify.com/track/1iqw9RC7HckP1b75DkO2es"
+    },
+    {
+      "album": {
         "name": "KANDY PAINT",
         "url": "https://open.spotify.com/album/1fLyr6RLjdXIfXztuFtUjt"
       },
@@ -17291,6 +17403,24 @@
     },
     {
       "album": {
+        "name": "klippen",
+        "url": "https://open.spotify.com/album/1KjwjtFZhCHSt6Djb9uxPl"
+      },
+      "artists": [
+        {
+          "name": "Vince",
+          "url": "https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123456,
+      "name": "klippen",
+      "url": "https://open.spotify.com/track/5YvQbwSkXnBk5vL8n8kRjy"
+    },
+    {
+      "album": {
         "name": "Knicklicht",
         "url": "https://open.spotify.com/album/05dlpYgbKT1v5KZmIJFxha"
       },
@@ -18160,6 +18290,24 @@
       "duration_ms": 175973,
       "name": "Lass Sie Reden",
       "url": "https://open.spotify.com/track/13aLB1KmkCh52On7ASZMQo"
+    },
+    {
+      "album": {
+        "name": "Last Man Standing",
+        "url": "https://open.spotify.com/album/4KT2BedID3WG8MZXobCRAU"
+      },
+      "artists": [
+        {
+          "name": "bac",
+          "url": "https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173669,
+      "name": "Last Man Standing",
+      "url": "https://open.spotify.com/track/08kPU1nRw2TFkqxmFFh0IL"
     },
     {
       "album": {
@@ -19597,6 +19745,24 @@
     },
     {
       "album": {
+        "name": "Macht \u00fcber mich",
+        "url": "https://open.spotify.com/album/1IopN0lretjngDlHxslT4R"
+      },
+      "artists": [
+        {
+          "name": "herbst",
+          "url": "https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262228,
+      "name": "Macht \u00fcber mich",
+      "url": "https://open.spotify.com/track/0PlSX6FQzGlFBWOrvsAqmi"
+    },
+    {
+      "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/3Mg5toj2GeadBVAjvRbiOR"
       },
@@ -20204,7 +20370,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 148206,
       "name": "Meer",
       "url": "https://open.spotify.com/track/5P5Y4Uf9EPR5FFJGo8wi1O"
@@ -20830,7 +20996,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 115201,
       "name": "Mitternacht",
       "url": "https://open.spotify.com/track/1so5kgE9INqvJc91spGyO8"
@@ -24068,7 +24234,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 133461,
       "name": "Realit\u00e4t",
       "url": "https://open.spotify.com/track/3543N9SkkEF5irRKM0h87l"
@@ -28544,7 +28710,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 114654,
       "name": "Sturzflug",
       "url": "https://open.spotify.com/track/12OYWJrxdrllOMltGJYUYu"
@@ -29332,7 +29498,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 137275,
       "name": "Timeline (feat. Audio88)",
       "url": "https://open.spotify.com/track/1JVD0Xl7vCuKYzW1UCjOaH"
@@ -29484,6 +29650,24 @@
       "duration_ms": 168188,
       "name": "Tourrettes",
       "url": "https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO"
+    },
+    {
+      "album": {
+        "name": "F\u00fcr Mich",
+        "url": "https://open.spotify.com/album/1uMd8qtuDIvM4Jl2yM8qSr"
+      },
+      "artists": [
+        {
+          "name": "Jugo \u00dcrdens",
+          "url": "https://open.spotify.com/artist/05ygKFPjfiChHhQSx5Y9Y2"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 12",
+      "url": "https://open.spotify.com/track/5rPhHTLPYfD7PLhI3Q2o85"
     },
     {
       "album": {
@@ -34334,7 +34518,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 174160,
       "name": "Zitroneneis",
       "url": "https://open.spotify.com/track/7bI5y4JotQCqZXgWGSVvZO"

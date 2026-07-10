@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Hania Kuzimowicz, Kaeyra",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Kizo, Julia Wieniawa",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -3722,7 +3722,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 159567,
       "name": "Dreszcze",
       "url": "https://open.spotify.com/track/4sXAOQVBABdN75iM7DijDL"
@@ -4018,6 +4018,28 @@
       "duration_ms": 196625,
       "name": "Dziewczyny Nie P\u0142acz\u0105",
       "url": "https://open.spotify.com/track/3HVcdH7cIOBYGsh274XadC"
+    },
+    {
+      "album": {
+        "name": "Dzie\u0144 dobry, to ja!",
+        "url": "https://open.spotify.com/album/6bbPW0BE36ruMgQ7iiHpzt"
+      },
+      "artists": [
+        {
+          "name": "Magda Bereda",
+          "url": "https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d"
+        },
+        {
+          "name": "Natalia Muianga",
+          "url": "https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187428,
+      "name": "Dzie\u0144 dobry, to ja!",
+      "url": "https://open.spotify.com/track/60xdzO5B20tWz6sRSyZcrs"
     },
     {
       "album": {
@@ -5631,6 +5653,28 @@
     },
     {
       "album": {
+        "name": "itepe itede",
+        "url": "https://open.spotify.com/album/5cjDwOzBF2po9ZibtIsxjc"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        },
+        {
+          "name": "ENKLAWA",
+          "url": "https://open.spotify.com/artist/6ZqdYXFVRXIOIx7ymVrexG"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "itepe itede",
+      "url": "https://open.spotify.com/track/1HmwwV4PUcrmyxSWiBQCg0"
+    },
+    {
+      "album": {
         "name": "JA SI\u0118 CHYBA ZAKOCHA\u0141AM",
         "url": "https://open.spotify.com/album/6naYVbFECwe7ayJeUbR9Qp"
       },
@@ -7191,6 +7235,40 @@
     },
     {
       "album": {
+        "name": "LAWETA",
+        "url": "https://open.spotify.com/album/3OLETlDfl1uKHtliwKJ1vy"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        },
+        {
+          "name": "GRAUX",
+          "url": "https://open.spotify.com/artist/7dIkkipbI4G2w3R24gIqQ6"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158230,
+      "name": "LAWETA",
+      "url": "https://open.spotify.com/track/0BB4jjCL7bYDZwZk6OsKsf"
+    },
+    {
+      "album": {
         "name": "Lec\u0119",
         "url": "https://open.spotify.com/album/08oFpzaGVoVzhFJvwCpZsU"
       },
@@ -7294,7 +7372,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 220157,
       "name": "Lepiej ju\u017c by\u0142o",
       "url": "https://open.spotify.com/track/5SGUNlgK09cniVcUdjnGPH"
@@ -15610,7 +15688,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 205641,
       "name": "To jest to!",
       "url": "https://open.spotify.com/track/1I7nEa7aWULffUDCJrkhVp"
@@ -15686,6 +15764,24 @@
       "duration_ms": 192813,
       "name": "To nie powt\u00f3rzy si\u0119",
       "url": "https://open.spotify.com/track/7pdT1kwrp2X0zJiQKX3Oik"
+    },
+    {
+      "album": {
+        "name": "To nie ty",
+        "url": "https://open.spotify.com/album/24caLEsBtpaANyWcT3qsJM"
+      },
+      "artists": [
+        {
+          "name": "Marika",
+          "url": "https://open.spotify.com/artist/35vsCsMdgbOroCgADBadfR"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175221,
+      "name": "To nie ty",
+      "url": "https://open.spotify.com/track/0L3MQur3l9mRf2bDbCsbJe"
     },
     {
       "album": {
@@ -16944,7 +17040,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 187693,
       "name": "Wiem, co by\u0142o warto",
       "url": "https://open.spotify.com/track/0XsLHbzCALJc3CUcxIJ33g"

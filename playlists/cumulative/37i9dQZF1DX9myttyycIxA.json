@@ -11151,6 +11151,24 @@
     },
     {
       "album": {
+        "name": "Florida Water Blues",
+        "url": "https://open.spotify.com/album/7ggqCiAQWXdPYr8PHdbCn6"
+      },
+      "artists": [
+        {
+          "name": "Twisted Teens",
+          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224420,
+      "name": "Florida Water Blues",
+      "url": "https://open.spotify.com/track/6vkuBueAxgzQe8dbGumiYF"
+    },
+    {
+      "album": {
         "name": "Come Back Down",
         "url": "https://open.spotify.com/album/5ihJcyfSetmfGtCCJoWhzR"
       },
@@ -25914,6 +25932,24 @@
       "duration_ms": 152800,
       "name": "Say",
       "url": "https://open.spotify.com/track/2GIxKXaeFkLtuIRw6qmfGq"
+    },
+    {
+      "album": {
+        "name": "CICADA 2",
+        "url": "https://open.spotify.com/album/1O5pUAZozUviIIGyyFpiVa"
+      },
+      "artists": [
+        {
+          "name": "Cicada",
+          "url": "https://open.spotify.com/artist/1Vt0r4emAfug3oHrH4GIvD"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156434,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/77O4FsprU2uCxOWdgkC98C"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: Manana",
+  "description": "The best in South African and international R&B. Cover: Marcus Harvey",
   "name": "R&Beats",
   "tracks": [
     {
@@ -684,7 +684,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 142220,
       "name": "Ask For Nun (Freestyle)",
       "url": "https://open.spotify.com/track/1rhk6qzraAvsSMwCof8BXW"
@@ -2065,6 +2065,54 @@
     },
     {
       "album": {
+        "name": "T's & C's Apply",
+        "url": "https://open.spotify.com/album/1BGoSXH26t5oeXmzB1gdDz"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Tellaman",
+          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222722,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/4IG4PZqVEbllfl3h0Qoypw"
+    },
+    {
+      "album": {
+        "name": "Come To Me",
+        "url": "https://open.spotify.com/album/5pi9jAX9QRAgXPt8S3xypZ"
+      },
+      "artists": [
+        {
+          "name": "Marcus Harvey",
+          "url": "https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213445,
+      "name": "Come To Me",
+      "url": "https://open.spotify.com/track/5e1GlV6qlEKrlnif3SMBa1"
+    },
+    {
+      "album": {
         "name": "Company",
         "url": "https://open.spotify.com/album/16US5VNFARXZp8J4DjPHvT"
       },
@@ -2668,7 +2716,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 211533,
       "name": "Don't Say the Words",
       "url": "https://open.spotify.com/track/0N1QCR8ixCrfJq61xeNoot"
@@ -5524,7 +5572,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 76746,
       "name": "Intro",
       "url": "https://open.spotify.com/track/3FL1FKNMrzKk9Bw66LmFY8"
@@ -12134,7 +12182,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-09",
+      "date_removed": null,
       "duration_ms": 206524,
       "name": "Venting",
       "url": "https://open.spotify.com/track/7uXMqHAf0bQINryPJ9jsQ4"

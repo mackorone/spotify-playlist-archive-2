@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: 神山羊
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,721 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,700 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 46 | [小説家](https://open.spotify.com/track/4a5uyzbI0Jw6n1nEYvEhmD) | [秘めごと](https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT) | [くろいもり](https://open.spotify.com/album/56zhHqyQXbrIrmuhbFwovo) | 4:40 |
 | 47 | [生活](https://open.spotify.com/track/4Nmki31FGggNIRruzEDU7r) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [生活](https://open.spotify.com/album/6vwrGmSQjnbV8BYBxQF6nB) | 4:58 |
 | 48 | [蛹](https://open.spotify.com/track/6JQJKJbDiBPrqfuDv7yZxH) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [C.U.T](https://open.spotify.com/album/29dHJXu3uX5FQKtQpgim4t) | 3:57 |
-| 49 | [maybe!](https://open.spotify.com/track/20DO9i2w43Iju7nEqMvYhQ) | [Eye](https://open.spotify.com/artist/3zqz8Khnygbv4LJia0v0iY), [むㇳ](https://open.spotify.com/artist/2LV5XOf7lhdHgGhxnqpbZB), [SEE](https://open.spotify.com/artist/2hJ5WKq9RUpQyzNJZqlzPM) | [maybe!](https://open.spotify.com/album/04OpnDKW2IN7wR86iHSkac) | 4:09 |
+| 49 | [maybe!](https://open.spotify.com/track/20DO9i2w43Iju7nEqMvYhQ) | [Eye](https://open.spotify.com/artist/3zqz8Khnygbv4LJia0v0iY), [Muto](https://open.spotify.com/artist/38gt1AsY6ZhEtrOP7e94ui), [SEE](https://open.spotify.com/artist/2hJ5WKq9RUpQyzNJZqlzPM) | [maybe!](https://open.spotify.com/album/04OpnDKW2IN7wR86iHSkac) | 4:09 |
 | 50 | [ボーイゼンガールズ](https://open.spotify.com/track/0A5JhYALRz1B6NvbSqsKW4) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [ボーイゼンガールズ](https://open.spotify.com/album/5TwCvI2JTqszFsaYsopWYt) | 3:10 |
 | 51 | [モエチャッカファイア](https://open.spotify.com/track/43CMcyGeImlZjy1oN0NVNG) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [モエチャッカファイア](https://open.spotify.com/album/1AzkXE2hgeuHGPKAqcGgHD) | 2:35 |
 | 52 | [SOS](https://open.spotify.com/track/7bVHnV7at3Bj8xdeSu6enh) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [SOS](https://open.spotify.com/album/6wNrAQ4w4SnU3fLnZpjQRp) | 3:00 |

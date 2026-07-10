@@ -2,9 +2,9 @@
 
 ### [afro&b ](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
-> Intersection of R&B and afrobeats\. Cover:  FOLA and Ayra Starr
+> Intersection of R&B and afrobeats\. Cover:  Nasty C
 
-591 songs - 1 day 6 hr 52 min
+593 songs - 1 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Bad lil' mama](https://open.spotify.com/track/7lcQAePZOtddt0vO5mC1Ot) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Bad lil' mama](https://open.spotify.com/album/2MuBIBSkLoaHNSVoHbol11) | 2:56 | 2025-09-19 | 2026-03-20 |
 | [Bad News](https://open.spotify.com/track/4cibtAt2Vi6R1shOn9fu41) | [PLXYGRND](https://open.spotify.com/artist/50PvUnXVMTdV9KRCcbxFMp), [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG), [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA) | [Bad News](https://open.spotify.com/album/3TZejTDaixhmNjsBSZDOpx) | 3:12 | 2022-02-18 | 2023-02-04 |
 | [Bad Side](https://open.spotify.com/track/1nbpsyj6OIfPV2O6DQsc5r) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Bad Side](https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE) | 2:38 | 2024-08-15 | 2025-10-03 |
+| [Bad Timing](https://open.spotify.com/track/2RCATsDsg3vBL3x561PJ1w) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Bad Timing](https://open.spotify.com/album/4pNBMEmECbFNbcR1IduYxA) | 4:16 | 2026-07-10 |  |
 | [Bad4u](https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad4u](https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8) | 2:59 | 2022-06-16 | 2023-06-23 |
 | [Baggage](https://open.spotify.com/track/44A3D6wFzNHMBS5RenZRfe) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [Baggage](https://open.spotify.com/album/1DOzQHmdMjRKcIpihuf89s) | 3:01 | 2026-03-27 |  |
 | [Baki Pekee Yako](https://open.spotify.com/track/5WPdyLkd0QNgC2HACe6Rte) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Baki Pekee Yako](https://open.spotify.com/album/4c8e3IiaSk4YAQ5jmb3GOr) | 3:58 | 2024-05-10 | 2025-07-18 |
@@ -105,6 +106,7 @@
 | [COCA BODY](https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [COCA BODY](https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa) | 2:33 | 2026-07-03 |  |
 | [Colors](https://open.spotify.com/track/0KRLUkUZLsIh6k6d7Vp8Ir) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Four Letter Word \(Deluxe\)](https://open.spotify.com/album/2BQcxkODkLjlM9SbwZqQS6) | 3:21 | 2025-10-17 | 2025-10-24 |
 | [Come Gimme](https://open.spotify.com/track/7agUxGNzZz3eaPqH1PQtSf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:49 | 2025-07-11 | 2026-01-24 |
+| [Come Over](https://open.spotify.com/track/4IG4PZqVEbllfl3h0Qoypw) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [T's & C's Apply](https://open.spotify.com/album/1BGoSXH26t5oeXmzB1gdDz) | 3:42 | 2026-07-10 |  |
 | [Come Slide](https://open.spotify.com/track/75uppmIvjtxiutMdmA8C9c) | [KFMD](https://open.spotify.com/artist/1OjbMcNg4moIhv8nnflAAa), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Come Slide](https://open.spotify.com/album/1w5cLDjyPVMfV1tYbziBk4) | 3:03 | 2026-05-22 | 2026-06-19 |
 | [Coming Back For You](https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:56 | 2022-11-04 | 2023-03-18 |
 | [Coming Back For You](https://open.spotify.com/track/6VVvzNsWQd62FIQyc4zBSR) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:56 | 2022-11-04 | 2022-11-21 |

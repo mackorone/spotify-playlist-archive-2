@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Le Petit Pêcheur" de Manon Lisa est le Grand Hit de la semaine.
+> "La lune" de Christophe Maé est le Grand Hit de la semaine.
 
-341 songs - 17 hr 25 min
+342 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Chez moi](https://open.spotify.com/track/09WGJARXs73XVQVWPGf5G1) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [Chez moi](https://open.spotify.com/album/6sclH7FYoU0OW02DRKmQbR) | 2:41 | 2025-08-14 | 2025-09-27 |
 | [Chez toi](https://open.spotify.com/track/4RFMijduXiJ13hHuYwPMoG) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz), [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Chroniques d’un cupidon](https://open.spotify.com/album/1a6v54PDHcrn6y5iA7wuT1) | 3:19 | 2023-09-28 | 2024-01-19 |
 | [Chez toi, chez moi](https://open.spotify.com/track/0gOjmVqeKWFByLqpPTTrJF) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Chez toi, chez moi](https://open.spotify.com/album/5P5y6ZjwvDvVkn5VOekb2T) | 2:39 | 2024-07-11 | 2024-07-27 |
-| [Chiens](https://open.spotify.com/track/51qMciprNwFso3R3XioUUu) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Chiens](https://open.spotify.com/album/0xlKFgR6BT4drhj22kvqJG) | 3:02 | 2025-10-09 |  |
+| [Chiens](https://open.spotify.com/track/51qMciprNwFso3R3XioUUu) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Chiens](https://open.spotify.com/album/0xlKFgR6BT4drhj22kvqJG) | 3:02 | 2025-10-09 | 2026-07-10 |
 | [CIEL](https://open.spotify.com/track/78FNSZkI1968KTtyf2s315) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [CIEL](https://open.spotify.com/album/6qU5xBM7guK1Gwb3LTLufL) | 3:06 | 2024-11-14 | 2025-06-27 |
 | [Coeur maladroit](https://open.spotify.com/track/6ISdHQpFruwETuKGMumaaM) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit](https://open.spotify.com/album/2a1xyBL997lWIOyIIuPcyt) | 2:40 | 2025-06-05 | 2026-02-27 |
 | [Comme Caroline \(feat\. MC Solaar\)](https://open.spotify.com/track/4EWeDhIeB90lUmgsVKATi2) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [Comme Caroline \(feat\. MC Solaar\)](https://open.spotify.com/album/70kgTL1sdlX06MdZ5wa4rq) | 3:05 | 2026-03-05 |  |
@@ -347,6 +347,7 @@
 | [À tes côtés](https://open.spotify.com/track/0wz1wXKDBtlGhfRNpnLtc1) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [À tes côtés](https://open.spotify.com/album/6xi7XWHQdck25dVdc5MRY1) | 2:37 | 2025-05-01 | 2025-12-05 |
 | [Ça fait mal](https://open.spotify.com/track/20TU073PqgJ2IcL9rYvhoS) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9) | 3:09 | 2026-03-05 |  |
 | [ça pik un peu quand même](https://open.spotify.com/track/5NYys16a8WwOsNHowqVBPw) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [industry plant](https://open.spotify.com/album/0RdSN1LHK5602mFafwYu4i) | 2:17 | 2026-03-19 |  |
+| [Été avec toi](https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Été avec toi](https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu) | 3:07 | 2026-07-09 |  |
 | [être biennn](https://open.spotify.com/track/0O2eT2YAfna5HFTFz1ibKE) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 3:27 | 2024-08-01 | 2024-09-13 |
 | [Ô travers](https://open.spotify.com/track/2GK0yEfMHJg7pXloAtVQSb) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Ô travers](https://open.spotify.com/album/4ONcUIWMX3t41Aju8oQCr9) | 2:41 | 2024-10-24 | 2025-03-07 |
 

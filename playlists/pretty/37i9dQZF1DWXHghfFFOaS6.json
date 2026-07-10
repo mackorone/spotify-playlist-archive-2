@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 387662,
+  "num_followers": 387725,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -43,8 +43,8 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "The Return of the Space Cowboy (Remastered)",
-        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
+        "name": "Pop Music: The Modern Era 1976-1999",
+        "url": "https://open.spotify.com/album/0Jh7XIEQrNQAXm7a6hbJ1h"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 386973,
-      "name": "Space Cowboy",
-      "url": "https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM"
+      "duration_ms": 227840,
+      "name": "Virtual Insanity",
+      "url": "https://open.spotify.com/track/24SUWisv2lYQiB3bVpE1sn"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -135,8 +135,8 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Pop Music: The Modern Era 1976-1999",
-        "url": "https://open.spotify.com/album/0Jh7XIEQrNQAXm7a6hbJ1h"
+        "name": "The Return of the Space Cowboy (Remastered)",
+        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
       },
       "artists": [
         {
@@ -144,9 +144,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 227840,
-      "name": "Virtual Insanity",
-      "url": "https://open.spotify.com/track/24SUWisv2lYQiB3bVpE1sn"
+      "duration_ms": 386973,
+      "name": "Space Cowboy",
+      "url": "https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -499,18 +499,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Hard Work",
-        "url": "https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw"
+        "name": "Cookie Dough",
+        "url": "https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM"
       },
       "artists": [
         {
-          "name": "John Handy",
-          "url": "https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR"
+          "name": "Wildcookie",
+          "url": "https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG"
         }
       ],
-      "duration_ms": 417960,
-      "name": "Hard Work",
-      "url": "https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI"
+      "duration_ms": 175586,
+      "name": "Serious Drug",
+      "url": "https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A"
     },
     {
       "added_at": "2024-03-26 13:55:21",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Cookie Dough",
-        "url": "https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM"
-      },
-      "artists": [
-        {
-          "name": "Wildcookie",
-          "url": "https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "Serious Drug",
-      "url": "https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Southern Comfort",
         "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 348760,
       "name": "Stomp And Buck Dance",
       "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Hard Work",
+        "url": "https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw"
+      },
+      "artists": [
+        {
+          "name": "John Handy",
+          "url": "https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR"
+        }
+      ],
+      "duration_ms": 417960,
+      "name": "Hard Work",
+      "url": "https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Evolution: The Polydor Anthology",
-        "url": "https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 355373,
-      "name": "Love Will Bring Us Back Together",
-      "url": "https://open.spotify.com/track/2LCsNgUX2qsEbKZ9yLRUJq"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Here Come The Lords",
         "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 166400,
       "name": "Lord Jazz Hit Me One Time (Make It Funky)",
       "url": "https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Evolution: The Polydor Anthology",
+        "url": "https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 355373,
+      "name": "Love Will Bring Us Back Together",
+      "url": "https://open.spotify.com/track/2LCsNgUX2qsEbKZ9yLRUJq"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "urban lounge",
-        "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
-      },
-      "artists": [
-        {
-          "name": "Young Disciples",
-          "url": "https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Apparently Nothin' - Edit",
-      "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "In the Hand of the Inevitable",
         "url": "https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 294240,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "urban lounge",
+        "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
+      },
+      "artists": [
+        {
+          "name": "Young Disciples",
+          "url": "https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Apparently Nothin' - Edit",
+      "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "YUNIK\u014dN",
-        "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
-      },
-      "artists": [
-        {
-          "name": "New Cool Collective",
-          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Tokisan",
-      "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Dad Man Cat",
         "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 265266,
       "name": "Long Cool & Bubbly",
       "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "YUNIK\u014dN",
+        "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
+      },
+      "artists": [
+        {
+          "name": "New Cool Collective",
+          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Tokisan",
+      "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1293,6 +1293,22 @@
       "url": "https://open.spotify.com/track/1OBGwJ6cCv4QYRcPlb67IQ"
     },
     {
+      "added_at": "2026-07-03 04:00:31",
+      "album": {
+        "name": "Acid Jazz Revenge",
+        "url": "https://open.spotify.com/album/4oUno0JWm4Etl38X8v78XF"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 271810,
+      "name": "Let the Music Find You",
+      "url": "https://open.spotify.com/track/1uUzPCn8zokwtQnZV8iapv"
+    },
+    {
       "added_at": "2022-07-14 19:24:43",
       "album": {
         "name": "On The One",
@@ -1307,22 +1323,6 @@
       "duration_ms": 332933,
       "name": "Pete's Sake",
       "url": "https://open.spotify.com/track/0CrzPm81c6W4uwXWSu1rB8"
-    },
-    {
-      "added_at": "2024-08-12 13:49:26",
-      "album": {
-        "name": "In The Breaks",
-        "url": "https://open.spotify.com/album/0NprC2Nx1OAmDaUChFAvMm"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        }
-      ],
-      "duration_ms": 289933,
-      "name": "In The Breaks",
-      "url": "https://open.spotify.com/track/34IBYWXWppPwRJa9mCuPtc"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1373,6 +1373,22 @@
       "url": "https://open.spotify.com/track/5lri4wmusuBlpOQWENexUK"
     },
     {
+      "added_at": "2024-08-12 13:49:26",
+      "album": {
+        "name": "In The Breaks",
+        "url": "https://open.spotify.com/album/0NprC2Nx1OAmDaUChFAvMm"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 289933,
+      "name": "In The Breaks",
+      "url": "https://open.spotify.com/track/34IBYWXWppPwRJa9mCuPtc"
+    },
+    {
       "added_at": "2024-03-26 13:55:21",
       "album": {
         "name": "Bosh!",
@@ -1387,22 +1403,6 @@
       "duration_ms": 213560,
       "name": "Take Four",
       "url": "https://open.spotify.com/track/1kHc8mFnI7IkSf9Hi0c3UM"
-    },
-    {
-      "added_at": "2026-07-03 04:00:31",
-      "album": {
-        "name": "Acid Jazz Revenge",
-        "url": "https://open.spotify.com/album/4oUno0JWm4Etl38X8v78XF"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        }
-      ],
-      "duration_ms": 271810,
-      "name": "Let the Music Find You",
-      "url": "https://open.spotify.com/track/1uUzPCn8zokwtQnZV8iapv"
     },
     {
       "added_at": "2022-07-14 19:24:43",

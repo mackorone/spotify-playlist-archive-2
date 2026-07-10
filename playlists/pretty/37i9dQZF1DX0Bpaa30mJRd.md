@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 
 > スタジオ地図作品の映画を彩る音楽をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,494 likes - 86 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,508 likes - 86 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

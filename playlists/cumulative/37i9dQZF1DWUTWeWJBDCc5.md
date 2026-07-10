@@ -2,9 +2,9 @@
 
 ### [Editor's Picks Korea: 에디터의 취향](https://open.spotify.com/playlist/37i9dQZF1DWUTWeWJBDCc5)
 
-> 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요\. \(Cover: go!go!vanillas\)
+> 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요\. \(Cover: The Marías\)
 
-250 songs - 13 hr 49 min
+253 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Fxxxboy](https://open.spotify.com/track/2YUoX58zywC6rqFPOUNOiq) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:07 | 2026-02-27 | 2026-04-30 |
 | [GIMME](https://open.spotify.com/track/08lCl7trHavgnghm8JwvN7) | [ChoCo1](https://open.spotify.com/artist/48ZmNBITUcYWmWZqoaIEAi), [ChoCo2](https://open.spotify.com/artist/479LeQR94Is2uPXyljxis8) | [ChoCo La Familia](https://open.spotify.com/album/1hmIzxtNhUckTodNrNc9C8) | 2:24 | 2026-03-03 | 2026-04-30 |
 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:56 | 2026-02-04 | 2026-03-04 |
+| [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2026-07-09 |  |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-12-04 | 2026-02-05 |
 | [GO!](https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:50 | 2025-12-04 | 2026-02-05 |
 | [Goddess](https://open.spotify.com/track/2SEeyc2KS9DIjiJPCYtfgJ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 4:27 | 2026-06-08 |  |
@@ -114,6 +115,7 @@
 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 | 2026-03-24 | 2026-04-30 |
 | [hopelessly falling](https://open.spotify.com/track/0HOuw2iR2bMhajd4urUlRc) | [bast](https://open.spotify.com/artist/3ajeLjEdOpuwPehkzDqb2C) | [hopelessly falling](https://open.spotify.com/album/68GCmbLhxjPShYiCyCxa7K) | 2:56 | 2026-02-04 | 2026-03-04 |
 | [Hush](https://open.spotify.com/track/4Vfc9QSzqyDyHtfZy7vGgC) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Hush](https://open.spotify.com/album/6u9gVzMK2g0mZh9xEK6avS) | 3:32 | 2026-02-04 | 2026-03-04 |
+| [Hush](https://open.spotify.com/track/4zXZ5Mq2L6jnsOsTssgRh8) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:01 | 2026-07-09 |  |
 | [Hustler Musik](https://open.spotify.com/track/5X69MOmlbEJQA49rwn2tjd) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter II](https://open.spotify.com/album/5qyUw6x9fjZPoQHUwuDu39) | 5:03 | 2026-03-03 | 2026-04-30 |
 | [Hypnagogia](https://open.spotify.com/track/7AhIuIBKKO8DcrCrXbCRQs) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [Hypnagogia](https://open.spotify.com/album/5ImVPsyWHwZeEJXP9hYiSx) | 4:07 | 2026-03-25 | 2026-06-26 |
 | [HYPNOTIZE](https://open.spotify.com/track/5r2FAkZaMsO5SsHwcywQTi) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/07J0T7JwhvJaX6ky1PiyM6) | 2:50 | 2026-02-04 | 2026-03-04 |
@@ -135,6 +137,7 @@
 | [KAY COOL](https://open.spotify.com/track/5eEDo5Um0Uk0b9wGoMaQsE) | [KC](https://open.spotify.com/artist/0hQTMC0zU4pFW0Lc7ExB6f), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G) | [KC3](https://open.spotify.com/album/2m8rq4ip4MPBvceEHdgH5G) | 3:39 | 2025-12-04 | 2026-02-05 |
 | [Key Beats](https://open.spotify.com/track/78LggIu7ieohPUuP91SmBI) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF) | [Key Beats](https://open.spotify.com/album/0kBBaam9McJndyPBpfkWOK) | 2:10 | 2026-04-29 | 2026-06-13 |
 | [Keychain \- from Original Motion Picture Soundtrack K\-POPS!](https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Keychain \(from Original Motion Picture Soundtrack K\-POPS!\)](https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02) | 2:50 | 2026-03-03 | 2026-04-30 |
+| [KISS KISS KISS \(Feat\. SUNWOO \(THE BOYZ\)\) \(Prod\. by Hukky Shibaseki\)](https://open.spotify.com/track/1alWuqrk1v7xzECNR8ovRo) | [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [SUNWOO](https://open.spotify.com/artist/27Uaxd3EmAW0Hl3Atpf74q) | [Show Me The Money 12 Episode 2](https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ) | 3:38 | 2026-07-09 |  |
 | [Labyrinth](https://open.spotify.com/track/2aLPTpA9zaLbGyNQM7UqIS) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU), [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Labyrinth](https://open.spotify.com/album/366bXWPlIg9V58s5GWCA1I) | 3:06 | 2026-04-29 | 2026-06-26 |
 | [lemon](https://open.spotify.com/track/45K6rDTeTFcpQlVmWbqlyS) | [Kangziwon](https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF) | [Ordinary Ever After](https://open.spotify.com/album/6YlzgfiTwwIF0BQ4GFTQOJ) | 3:21 | 2026-05-07 | 2026-06-28 |
 | [LET 'EM KNOW](https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [LET 'EM KNOW](https://open.spotify.com/album/7MmMz1SDFpAustlXwduMFa) | 2:59 | 2026-02-04 | 2026-03-04 |

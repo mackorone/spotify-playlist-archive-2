@@ -2,9 +2,9 @@
 
 ### [hits de l'été 2026](https://open.spotify.com/playlist/37i9dQZF1DWYAaAF4glatK)
 
-> La BO officielle de l'été 2026 🌞 Photo : GIMS
+> La BO officielle de l'été 2026 🌞 Photo : Naïka
 
-456 songs - 22 hr 56 min
+457 songs - 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Heaven](https://open.spotify.com/track/01iYmkiwWzpDTxgoBHKqEy) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [Heaven](https://open.spotify.com/album/13jUdmD1y0dlv7dLdC5uKx) | 2:22 | 2024-06-06 | 2025-05-02 |
 | [Here We Go Again](https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Here We Go Again](https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf) | 2:44 | 2023-03-10 | 2023-05-12 |
 | [Hit My Heart \- TR3NACRIA Remix](https://open.spotify.com/track/06g67XFL3EvhddvSG5Cuku) | [Benassi Bros.](https://open.spotify.com/artist/0yrjYlutW9HgmJlnX479Mx), [Dhany](https://open.spotify.com/artist/7HiP69UJp8p2pKxnRaPqYF), [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH) | [Hit My Heart \(TR3NACRIA Remix\)](https://open.spotify.com/album/0sQ8w7fRhtepxsjCinPXlB) | 3:54 | 2025-07-31 | 2026-04-04 |
-| [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 | 2026-05-14 |  |
+| [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 | 2026-05-14 | 2026-07-10 |
 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/album/0WWjvPdLmnwYrTi03XJ9ib) | 3:47 | 2024-07-15 | 2025-03-29 |
 | [Hot summer night \- Oh La La La](https://open.spotify.com/track/23uAM0P7BzfC2Vf5qVrczN) | [Smil](https://open.spotify.com/artist/6QjHYUiCpQbhpD7eVApnQI), [Just Ben](https://open.spotify.com/artist/1yYacwL1sMAVv0fGYPmFxL) | [Hot summer night \(Oh La La La\)](https://open.spotify.com/album/3OwwK4RPKg0xubd8IFMjoG) | 3:05 | 2025-06-26 | 2025-07-18 |
 | [Hotstepper](https://open.spotify.com/track/0p0zES2I7Lgeow1yXmF8ss) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Blvk H3ro](https://open.spotify.com/artist/29v52R5tPpJ0Hrh1VnmZoZ) | [Hotstepper](https://open.spotify.com/album/2fEyzL7jdYeu1trYCeFTXr) | 2:21 | 2024-04-04 | 2025-03-22 |
@@ -389,6 +389,7 @@
 | [Summer Jam](https://open.spotify.com/track/7wLTLminmuEDTdLbCapAMV) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [Craig Smart](https://open.spotify.com/artist/1rIUs5FD6pwDvRkti98lNr) | [Summer Jam](https://open.spotify.com/album/4Vfe7sbn59NOVxYffwW3De) | 3:01 | 2025-05-01 | 2025-07-25 |
 | [SunKissing](https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [SunKissing](https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A) | 2:57 | 2023-04-27 | 2023-05-11 |
 | [Superstar](https://open.spotify.com/track/79DFRI318iJU1hvZnPzA4K) | [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4), [Andrea Zelletta](https://open.spotify.com/artist/2sSVegHvvHIOT1gVsqw8EW) | [Superstar](https://open.spotify.com/album/2VmclQK1Fsr8uhrtcrL7pl) | 2:52 | 2023-04-27 | 2023-09-06 |
+| [Sé Miimii](https://open.spotify.com/track/46BNhNbHZi98svu6pFwYVq) | [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd), [DJ SKYCEE](https://open.spotify.com/artist/2LhAINHQMEMY2qL0AyNHmv) | [Sé Miimii](https://open.spotify.com/album/6POEgRFXk9dDYxWvQW8To4) | 2:01 | 2026-07-09 |  |
 | [T'avais raison](https://open.spotify.com/track/39zpVyhyhefIUTW8XXxv01) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [T'avais raison](https://open.spotify.com/album/6TZKnoVw8CXksbmw4tjkFZ) | 3:01 | 2026-04-10 | 2026-07-03 |
 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 | 2026-04-23 |  |
 | [Tamo Bien](https://open.spotify.com/track/72RjC359lcwhf1cON9ppls) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w) | [Tamo Bien](https://open.spotify.com/album/2K3vXTZjcuWR8H8LgvJ8Yk) | 3:06 | 2025-04-17 | 2026-04-04 |

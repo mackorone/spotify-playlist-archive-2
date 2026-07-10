@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-11",
-  "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: 999999999",
+  "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Nico Moreno, Novah",
   "name": "Hard Techno",
   "tracks": [
     {
@@ -934,6 +934,28 @@
       "duration_ms": 195096,
       "name": "Berserk",
       "url": "https://open.spotify.com/track/3zz6aAkhSdYLZCO8CLG2an"
+    },
+    {
+      "album": {
+        "name": "Better With You",
+        "url": "https://open.spotify.com/album/3Uuy2TmXMScAV6Mzy9CZiO"
+      },
+      "artists": [
+        {
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        },
+        {
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211928,
+      "name": "Better With You",
+      "url": "https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8"
     },
     {
       "album": {
@@ -2312,7 +2334,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 207508,
       "name": "Duality",
       "url": "https://open.spotify.com/track/3f6LpfaDNDy7gtYZFHg5Km"

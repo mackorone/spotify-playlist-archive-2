@@ -2,9 +2,9 @@
 
 ### [Indie Highlights](https://open.spotify.com/playlist/37i9dQZF1DWVwRuJjs9A3S)
 
-> Det senaste och bästa från världen av indie\. Cover: Nicole Sabouné
+> Det senaste och bästa från världen av indie\. Cover: COLLEAGUES
 
-1,317 songs - 3 day 3 hr 49 min
+1,323 songs - 3 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Don't Get Me Started](https://open.spotify.com/track/7i5M9mb2gF9VvuNSlUsAaz) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Don't Get Me Started](https://open.spotify.com/album/477uxPlEAq7OPmwF4zS1Wi) | 5:55 | 2024-08-08 | 2024-09-19 |
 | [Don't know why](https://open.spotify.com/track/7eteH0lFTshZkvc1rsSafQ) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Don't know why](https://open.spotify.com/album/2glDzsRZrRLZmSR2TKVoWD) | 2:36 | 2025-06-12 | 2026-01-16 |
 | [Don't Let Me Know](https://open.spotify.com/track/1y20MYzuhK3SEOqJ5GObzx) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Don't Let Me Know](https://open.spotify.com/album/5iL06qpB3LICUF1S6LKhUo) | 2:48 | 2024-11-07 | 2024-12-06 |
+| [Don't Ruin Love](https://open.spotify.com/track/6iBhukyWyHacgroTMqomuh) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Don't Ruin Love](https://open.spotify.com/album/61PUBquYcUYgNZV8jQRjFn) | 3:51 | 2026-07-09 |  |
 | [Don't Stop](https://open.spotify.com/track/3StgrlhRpFhZjS6gJOgIeX) | [Ludwig Hart](https://open.spotify.com/artist/74ELd1GTp5fY2NFCiY5RNl) | [Stay Young](https://open.spotify.com/album/3ClO0kTio3jxicICq3gQ79) | 3:15 | 2024-09-26 | 2024-11-22 |
 | [Don't Wait For Summer](https://open.spotify.com/track/62AWMWX41acCZ259kuU1Hr) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Away From This Dream](https://open.spotify.com/album/5bKVm5ADPdEAnwaSqh5Uwv) | 3:11 | 2024-06-27 | 2024-08-09 |
 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 | 2025-04-24 | 2025-07-25 |
@@ -600,6 +601,7 @@
 | [Ingrid The Sailor](https://open.spotify.com/track/5V9bApk9HtwwkZcULg3uUB) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J), [Yttling Jazz](https://open.spotify.com/artist/0sHY32geV56IzTbEEomMFG) | [Ingrid The Sailor](https://open.spotify.com/album/0vFgnBArl5j3o9EOGKIxAY) | 4:11 | 2026-02-26 |  |
 | [Inte som alla andra, precis som alla andra \(feat\. Joakim Berg\)](https://open.spotify.com/track/0BJotiVMsdxDSC7HfyitNP) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Inte som alla andra, precis som alla andra \(feat\. Joakim Berg\)](https://open.spotify.com/album/6kMOJcNPk2df3WnSeKpuQD) | 4:30 | 2025-05-15 | 2025-10-10 |
 | [Into My Arms](https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Covers](https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su) | 4:35 | 2025-06-12 | 2026-01-16 |
+| [INVINCIBLE](https://open.spotify.com/track/5Q097UCJdfPaC6Io9AXjQ9) | [The Square](https://open.spotify.com/artist/6ANvTGpJ3LJKZAziinXv9C) | [INVINCIBLE](https://open.spotify.com/album/1sT0yn1hLGTNh24kjKs0xK) | 2:07 | 2026-07-09 |  |
 | [is it real?](https://open.spotify.com/track/2EQBkPmYUsfJWZf7F310id) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [is it real?](https://open.spotify.com/album/06WhEKEJ04m9IZxYswGDSY) | 2:24 | 2025-05-15 | 2025-10-10 |
 | [is this how you said you’d be gone](https://open.spotify.com/track/1zM1XKfkjVooLnszVfO6nq) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [mexico / is this how you said you'd be gone](https://open.spotify.com/album/0iLHHCTA7n8iZyJHjiNKLA) | 4:07 | 2025-11-27 |  |
 | [ishioo](https://open.spotify.com/track/6POLF82xT5CsoFSUMraW7K) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [The Driving Towards The Sunset Tapes II](https://open.spotify.com/album/7hNpwNMZkrsnrovoUAZgGS) | 3:38 | 2025-05-29 | 2025-10-10 |
@@ -869,6 +871,7 @@
 | [Ostentatious](https://open.spotify.com/track/0buN3nIjGOmj2boRh7zNrz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Ostentatious](https://open.spotify.com/album/0Y0OQfgW9cFQHrKpZvicX2) | 3:44 | 2025-10-09 | 2026-05-01 |
 | [Other Girls](https://open.spotify.com/track/30KBxYM7rF2Bsx9EOzG6Do) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Other Girls](https://open.spotify.com/album/2DJXjPiY64Q8U5MHqMmOuD) | 3:18 | 2024-10-24 | 2025-01-17 |
 | [Our Way](https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Our Way](https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5) | 3:05 | 2024-06-27 | 2024-09-13 |
+| [Out of My Head](https://open.spotify.com/track/29ucXsuXKkb6IWjuEvkEmz) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Out of My Head](https://open.spotify.com/album/71577VPbqC5hlUpJE5iCrM) | 3:11 | 2026-07-09 |  |
 | [Over You](https://open.spotify.com/track/5Y6haMzLdn7wCyStXJNStG) | [theophilia](https://open.spotify.com/artist/3SWQx1YIz6i5AgeL3htTS1) | [Over You](https://open.spotify.com/album/4q2QsmcyEa9Qbzl6oRoEK9) | 2:16 | 2025-11-13 | 2026-05-29 |
 | [overthinking](https://open.spotify.com/track/5gv5WYrIhVCUDeXjo60AWb) | [Riley From Earth](https://open.spotify.com/artist/1b3TTtQOOT6oVnL4e8dtF3) | [overthinking](https://open.spotify.com/album/6iSr1R777BVfVQNnpqH9ia) | 2:46 | 2025-07-11 | 2026-01-16 |
 | [Oxygen](https://open.spotify.com/track/1EqpDxhSQrqvMnDXCKvpfs) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Million Dollar Baby](https://open.spotify.com/album/67dw7C6enQ3O05ZaI2dCaT) | 2:42 | 2024-08-01 | 2024-09-19 |
@@ -1046,6 +1049,7 @@
 | [SOV GODT](https://open.spotify.com/track/4BLFUCBe0WyPEIxTgH00de) | [READY ATLANTIC](https://open.spotify.com/artist/1qT5yTlM7pt9FftPgXeQzn) | [SOV GODT](https://open.spotify.com/album/7j8wITX3ELxvyn4NHmTb4S) | 3:42 | 2025-02-06 | 2025-03-28 |
 | [Spacer \(Reimagined\)](https://open.spotify.com/track/5OY3iMYgsGcqDfxbcxZ7PK) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Spacer \(Reimagined\)](https://open.spotify.com/album/52oKQNPiIAmYOFTBSIny5q) | 3:08 | 2024-06-27 | 2024-08-09 |
 | [Sparvöga](https://open.spotify.com/track/7Ad48doEcyyr91oRgTg2sz) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Sparvöga / I skydd av mörkret](https://open.spotify.com/album/3fmuDEVEgtEIYqEYEaDF1f) | 3:20 | 2025-01-23 | 2025-04-18 |
+| [speedboat](https://open.spotify.com/track/1horiWF2fc97Q0uBdb8CAE) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [speedboat](https://open.spotify.com/album/3RoBaqNNyDm9NEhUiiVM9V) | 3:12 | 2026-07-09 |  |
 | [Spirals On My Tongue](https://open.spotify.com/track/7C73dQdKGFB59kUCL5C2jV) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Spirals On My Tongue](https://open.spotify.com/album/2rxo2AhEjvtu27B0Va0GfC) | 2:45 | 2025-04-17 | 2025-07-04 |
 | [spirit harvest](https://open.spotify.com/track/2YOxLpCVCcf3wqaREHF2cF) | [Sindy](https://open.spotify.com/artist/3YUBKpd4lRd09FvF8jrLRa) | [spirit harvest](https://open.spotify.com/album/2mTKlYsc5n1quyR5Y5MvWw) | 2:51 | 2025-07-11 | 2025-10-17 |
 | [Split Lip](https://open.spotify.com/track/69Ghh9jP9OXebzBtEq6lsE) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Split Lip](https://open.spotify.com/album/4kMYV9lnrcVFIMWmzOaDn9) | 3:09 | 2024-07-25 | 2024-10-11 |
@@ -1236,6 +1240,7 @@
 | [Walmart](https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [Walmart](https://open.spotify.com/album/6MOODniNUgSGdiguTezSAz) | 2:51 | 2026-06-25 |  |
 | [Want Me Dead](https://open.spotify.com/track/4o7vtj953aOapFCrM83odl) | [drea](https://open.spotify.com/artist/5uAxEwTjRGgSqL1NkSROTM) | [Want Me Dead](https://open.spotify.com/album/2lEmhiDE29p2OzX3pQ7sRZ) | 2:55 | 2024-08-29 | 2024-11-01 |
 | [war](https://open.spotify.com/track/48oFsXk4HYLQWd8ELs82pj) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [war](https://open.spotify.com/album/6uZa4NhqqeV3gzH7XpP1q6) | 2:09 | 2024-08-15 | 2024-09-27 |
+| [Wash my hair](https://open.spotify.com/track/4qSrZtU5n9VeZxL1q6DfYB) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Wash my hair](https://open.spotify.com/album/5QrUbZtMt52oRRqZzzsQBI) | 3:00 | 2026-07-09 |  |
 | [Watching Over Me](https://open.spotify.com/track/7C3gStt8d7SxtB28gxrM06) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Watching Over Me](https://open.spotify.com/album/2rqFQX6IDwpIXZEqg3Fqwp) | 2:16 | 2025-10-30 | 2026-05-01 |
 | [Water the Flowers, Pray for a Garden](https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/6v6I7JpwdAZ0DqUWsGxR4H) | 3:26 | 2024-06-27 | 2024-07-27 |
 | [Way Back Home](https://open.spotify.com/track/6zgpB19NFV0ARh8IDdQDnH) | [KAPARI](https://open.spotify.com/artist/1YS9GiGL9yQ1A85ha3hPIX) | [Happy Life Go!](https://open.spotify.com/album/5elFqU3q3kuUG8anlOj0Jc) | 2:28 | 2024-11-09 | 2025-02-28 |
@@ -1245,6 +1250,7 @@
 | [we should talk](https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:04 | 2026-05-21 |  |
 | [Weak](https://open.spotify.com/track/7IoOgmEwcj8Cj6dTDHQ2IC) | [NEA EINI](https://open.spotify.com/artist/5d9OWj9gEcEXkTsILdZg0S) | [Weak](https://open.spotify.com/album/18k9auOfMZJfLSklwRp9yh) | 3:48 | 2024-08-29 | 2024-09-27 |
 | [Wedding in Leipzig](https://open.spotify.com/track/11xahEyH2ySa20FGwptUec) | [Jens Lekman](https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx) | [Wedding In Leipzig](https://open.spotify.com/album/797xaR6WVTBnzBpzkbYXYq) | 10:33 | 2025-08-07 | 2026-01-16 |
+| [Weekend](https://open.spotify.com/track/7JbWqZVX0w8sc9qhNwwzIu) | [COLLEAGUES](https://open.spotify.com/artist/6tANwKMqvV8oW0b7Np1ETB) | [Weekend](https://open.spotify.com/album/3BszcroV45PMBmG4LtoKXd) | 3:36 | 2026-07-09 |  |
 | [Weekend Boy](https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll) | 2:51 | 2024-10-03 | 2025-01-17 |
 | [well, well, well](https://open.spotify.com/track/6HKWq6r4OedN1Ey33G07qi) | [Orange Oak](https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy) | [well, well, well](https://open.spotify.com/album/57SCkw6m1ClHrYpHoXvJ5y) | 4:10 | 2026-04-30 |  |
 | [West Coast Girl](https://open.spotify.com/track/4wevmhCVQ1sSrmrYyZu9U1) | [10 000 år](https://open.spotify.com/artist/0emic5nhAqsyLBJHDy3E4l), [Nowhere Blue](https://open.spotify.com/artist/4rSnpj0LK5jbdGUTKeBLzP), [Birds Eye View](https://open.spotify.com/artist/60LZHUi3OMtWf7ETGxPAMO) | [West Coast Girl](https://open.spotify.com/album/2kewRK2h4IcqaAzUTvNQTQ) | 3:19 | 2025-09-11 | 2026-01-16 |

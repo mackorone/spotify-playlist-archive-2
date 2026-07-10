@@ -1049,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "Can't Live Without You",
+        "url": "https://open.spotify.com/album/5fnZH4QL5lDe2r8IBzgeDA"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255452,
+      "name": "Can't Live Without You",
+      "url": "https://open.spotify.com/track/1JsxDZyYow7kVn7i4aP7O3"
+    },
+    {
+      "album": {
         "name": "Man Of Galilee",
         "url": "https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv"
       },
@@ -3416,7 +3434,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 610039,
       "name": "I See The Lord - Live",
       "url": "https://open.spotify.com/track/38kUGVC4ZLfg6ekJ08IcUh"
@@ -3500,7 +3518,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 301008,
       "name": "I Will Wait",
       "url": "https://open.spotify.com/track/0tMRJTLAoxozAPwZOXCLuF"
@@ -4044,6 +4062,28 @@
       "duration_ms": 319981,
       "name": "Journey With You",
       "url": "https://open.spotify.com/track/4Muxej9MM2vn2GcGdk4QQW"
+    },
+    {
+      "album": {
+        "name": "Kabiyesi Eledumare",
+        "url": "https://open.spotify.com/album/5HrE7edXGXWjPWkvPHOZue"
+      },
+      "artists": [
+        {
+          "name": "Minister Prudence",
+          "url": "https://open.spotify.com/artist/1nyFNgSDFMVOez6h1v8Ya5"
+        },
+        {
+          "name": "Dera Speaks",
+          "url": "https://open.spotify.com/artist/0fcV1Awcevqi0HzhduM7ob"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 522244,
+      "name": "Kabiyesi Eledumare",
+      "url": "https://open.spotify.com/track/112ke1WjL3IYcNI5VWRPGO"
     },
     {
       "album": {
@@ -6809,6 +6849,28 @@
     },
     {
       "album": {
+        "name": "Ruvic Session",
+        "url": "https://open.spotify.com/album/5F7jnRCp7ezKJ0CWoT3pkw"
+      },
+      "artists": [
+        {
+          "name": "Ruvic Med",
+          "url": "https://open.spotify.com/artist/2vbMM363XirDpfXXpwZGZh"
+        },
+        {
+          "name": "Helen Ella",
+          "url": "https://open.spotify.com/artist/6dgJHhwDjZOjDfESG5HQiu"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111057,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/6yrY97sHj6jIw954QpECXo"
+    },
+    {
+      "album": {
         "name": "Faith Anthem",
         "url": "https://open.spotify.com/album/1nNGRfgZ2FkkpI4zGhMfAb"
       },
@@ -7770,7 +7832,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 333500,
       "name": "You Alone Are Worthy",
       "url": "https://open.spotify.com/track/6VLHU1X7vCzXkLLoB6i3UB"

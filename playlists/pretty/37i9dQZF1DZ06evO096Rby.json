@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 59791,
+  "num_followers": 59823,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAD4dxzS5ePPPKQGbOPo5nTX",
+  "snapshot_id": "ak2TAAAAAABkFVhH0f3j5bOd2+fKZS2e",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco Enamorado",
-        "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Loco Enamorado",
-      "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ciudad Peligrosa",
         "url": "https://open.spotify.com/album/1F5GpSmnkJrhzBYSjCCbPW"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 226000,
       "name": "Ciudad Peligrosa",
       "url": "https://open.spotify.com/track/6sI3A0IW1QN6gyrMtEaoQu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loco Enamorado",
+        "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
     },
     {
       "added_at": null,
@@ -855,6 +855,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Scrappy",
+        "url": "https://open.spotify.com/album/2G32KZDrfUv4cpf4BJD959"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 227551,
+      "name": "El Scrappy",
+      "url": "https://open.spotify.com/track/1AN1Jemy82iQlzbxMezAAG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos 602",
         "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
       },
@@ -899,30 +923,6 @@
       "duration_ms": 172000,
       "name": "Fruta Prohibida - En Vivo",
       "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Scrappy",
-        "url": "https://open.spotify.com/album/2G32KZDrfUv4cpf4BJD959"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 227551,
-      "name": "El Scrappy",
-      "url": "https://open.spotify.com/track/1AN1Jemy82iQlzbxMezAAG"
     },
     {
       "added_at": null,

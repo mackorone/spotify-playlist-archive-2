@@ -2851,6 +2851,24 @@
     },
     {
       "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436200,
+      "name": "Changeling",
+      "url": "https://open.spotify.com/track/5DIaZd2T8XohPHN72PkxTq"
+    },
+    {
+      "album": {
         "name": "Chasing Blue",
         "url": "https://open.spotify.com/album/3O2ZeAfmunYwTz6F8C4KzV"
       },
@@ -7022,6 +7040,24 @@
       "duration_ms": 241258,
       "name": "Hydra",
       "url": "https://open.spotify.com/track/3VNAzep1H7LuLJWWd7oeVX"
+    },
+    {
+      "album": {
+        "name": "The La's (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
+      },
+      "artists": [
+        {
+          "name": "The La's",
+          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "I Am The Key - Key 103, Jan '89",
+      "url": "https://open.spotify.com/track/3kHEQxN6i74s5BQpYquuLd"
     },
     {
       "album": {
@@ -12000,7 +12036,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 299560,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2qKkC9cODRjIlsdyEkSJLQ"

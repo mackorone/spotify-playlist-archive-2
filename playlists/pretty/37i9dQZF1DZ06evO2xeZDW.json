@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Giacchino. The essential tracks, all in one playlist.",
-  "num_followers": 18375,
+  "num_followers": 18379,
   "original_name": "This Is Michael Giacchino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAADEjP59GrikzQjUbB4FJYkW",
+  "snapshot_id": "ak2TAAAAAAARlL4unJ89GvvTo492DuyM",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ratatouille (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 118800,
+      "name": "Special Order",
+      "url": "https://open.spotify.com/track/2zfr8xbDTw3pquWSt6dswt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 55093,
       "name": "Zootopening",
       "url": "https://open.spotify.com/track/38cxPonZ8DehreKbDEGctW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ratatouille (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 118800,
-      "name": "Special Order",
-      "url": "https://open.spotify.com/track/2zfr8xbDTw3pquWSt6dswt"
     },
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
-      },
-      "artists": [
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 112600,
-      "name": "The Old Zoo Review",
-      "url": "https://open.spotify.com/track/76HDMYEE9m0Y4eGt5LMVQf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ratatouille (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2"
       },
@@ -423,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 458933,
-      "name": "Up With End Credits",
-      "url": "https://open.spotify.com/track/5X0kkx0LFKtRyXYPSRjdc8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
       },
@@ -452,9 +416,25 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 175026,
-      "name": "Hot Fursuit",
-      "url": "https://open.spotify.com/track/7AstzUKILlxTDESo09PLKG"
+      "duration_ms": 112600,
+      "name": "The Old Zoo Review",
+      "url": "https://open.spotify.com/track/76HDMYEE9m0Y4eGt5LMVQf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 458933,
+      "name": "Up With End Credits",
+      "url": "https://open.spotify.com/track/5X0kkx0LFKtRyXYPSRjdc8"
     },
     {
       "added_at": null,
@@ -487,6 +467,26 @@
       "duration_ms": 149760,
       "name": "The Imperial Suite",
       "url": "https://open.spotify.com/track/2NZhNbfb1rD1aRj3hZaoqk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "Hot Fursuit",
+      "url": "https://open.spotify.com/track/7AstzUKILlxTDESo09PLKG"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Star Trek Into Darkness (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0dst3z0HnOCF0pdU05AZ4b"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 130613,
+      "name": "London Calling",
+      "url": "https://open.spotify.com/track/4JSmTtaYAmKcHhadidacFi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
       },
@@ -559,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Trek Into Darkness (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/0dst3z0HnOCF0pdU05AZ4b"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 130613,
-      "name": "London Calling",
-      "url": "https://open.spotify.com/track/4JSmTtaYAmKcHhadidacFi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Batman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
       },
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 244573,
-      "name": "Can't Fight City Halloween",
-      "url": "https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K"
+      "duration_ms": 105746,
+      "name": "Funeral and Far Between",
+      "url": "https://open.spotify.com/track/2jVjwsysanjVbkuqu0LN6w"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost: The Final Season (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/4FseEgQujXndeaemvnuF7y"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 474506,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/0DNhUQCTDdAtuvxZXQ6krk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Star Trek Into Darkness (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/0dst3z0HnOCF0pdU05AZ4b"
       },
@@ -639,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Batman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 105746,
-      "name": "Funeral and Far Between",
-      "url": "https://open.spotify.com/track/2jVjwsysanjVbkuqu0LN6w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Incredibles (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV"
       },
@@ -667,6 +635,38 @@
       "duration_ms": 119280,
       "name": "Off to Work",
       "url": "https://open.spotify.com/track/5LhcHHGIIfW7dEqqSI5PLP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Batman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 244573,
+      "name": "Can't Fight City Halloween",
+      "url": "https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost: The Final Season (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4FseEgQujXndeaemvnuF7y"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 474506,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/0DNhUQCTDdAtuvxZXQ6krk"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let Him Go (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4fgejrAeBYWdSaYRLXYyis"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 109466,
+      "name": "The Break Of Dawn",
+      "url": "https://open.spotify.com/track/4Fvf3Ch1obEN4GiYacWa5N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 200093,
       "name": "Journey to the Journal",
       "url": "https://open.spotify.com/track/7JuNAiek69RpHtYW9Wsuwv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fantastic Four: First Steps Main Theme (From \"The Fantastic Four: First Steps\")",
-        "url": "https://open.spotify.com/album/7cAwr7nhlYNRCm9vCOC9Hj"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "The Fantastic Four: First Steps Main Theme - From \"The Fantastic Four: First Steps\"",
-      "url": "https://open.spotify.com/track/11fFILIDzuHakpgGoawXZw"
     },
     {
       "added_at": null,

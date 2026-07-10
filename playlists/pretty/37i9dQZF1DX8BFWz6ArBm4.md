@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 ### [Laika tou Simera](https://open.spotify.com/playlist/37i9dQZF1DX8BFWz6ArBm4)
 
-> Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Lena Zevgara
+> Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Nikos Oikonomopoulos
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,360 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,376 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tha Tha](https://open.spotify.com/track/6rB1MPGqlPvziOpkYwFoYT) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Tha Tha](https://open.spotify.com/album/5Izp0q7zGruZeSGZgRA49Y) | 2:31 |
-| 2 | [Pou Na Pao](https://open.spotify.com/track/2kSJoVwUAwNk3pGA553c6S) | [Nikos Makropoulos](https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO) | [Se Sena Milao](https://open.spotify.com/album/7Iymk9PTs7U1zuTVBff9BZ) | 3:36 |
-| 3 | [Enoho Kormi](https://open.spotify.com/track/3pp70iNV0LptCA6kiaSMgd) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Enoho Kormi](https://open.spotify.com/album/4Voffe2ZPY8CTnLcKohu2P) | 3:39 |
+| 1 | [Enoho Kormi](https://open.spotify.com/track/3pp70iNV0LptCA6kiaSMgd) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Enoho Kormi](https://open.spotify.com/album/4Voffe2ZPY8CTnLcKohu2P) | 3:39 |
+| 2 | [Tha Tha](https://open.spotify.com/track/6rB1MPGqlPvziOpkYwFoYT) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Tha Tha](https://open.spotify.com/album/5Izp0q7zGruZeSGZgRA49Y) | 2:31 |
+| 3 | [Pou Na Pao](https://open.spotify.com/track/2kSJoVwUAwNk3pGA553c6S) | [Nikos Makropoulos](https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO) | [Se Sena Milao](https://open.spotify.com/album/7Iymk9PTs7U1zuTVBff9BZ) | 3:36 |
 | 4 | [Ti Gynaika Eisai Esy](https://open.spotify.com/track/4ZMm0xfWp58dWcBfrQ1FrW) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Ti Gynaika Eisai Esy](https://open.spotify.com/album/6yIieDqzL1ASOvYuNHHQ0R) | 3:15 |
 | 5 | [Sta Kalitera Pou Elkontai \- Agapate Katallilous](https://open.spotify.com/track/7w3CkiZG4r01ZZgHjTPYZY) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Sta Kalitera Pou Elkontai \(Agapate Katallilous\)](https://open.spotify.com/album/32QmrCVsuU8DqDaQNqw3Y2) | 3:11 |
 | 6 | [Pare Na Exeis](https://open.spotify.com/track/1MGkBi3OFvputs43Hw9z15) | [Ilias Vrettos](https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1) | [Pare Na Exeis](https://open.spotify.com/album/7crwOz5bsAg7RxhzDyJtDd) | 3:40 |
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 25 | [Exairesi](https://open.spotify.com/track/7rnrHmjDOjeJTxmxHLSHIc) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Exairesi](https://open.spotify.com/album/2N4nSML0Ufqtk9LeUDX6PB) | 4:35 |
 | 26 | [Vrexei](https://open.spotify.com/track/2wY3WPHlQCAhC9c5UZA8hl) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Vrexei](https://open.spotify.com/album/5ftIw5ZnarnnZwtdYSSn2l) | 2:53 |
 | 27 | [Se Thelo Parafora](https://open.spotify.com/track/4Ny6sPSlZ6KGy9DBmLAnge) | [Nikos Makropoulos](https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO) | [Se Thelo Parafora](https://open.spotify.com/album/513gKE8Un3MSuku5MtFpUb) | 3:21 |
-| 28 | [Deutera](https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt) | [Antonis Remos](https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG) | [Deutera](https://open.spotify.com/album/09QOrsNfrqiAkgiiOewiOC) | 4:00 |
+| 28 | [Etsi Exei Mathei](https://open.spotify.com/track/6JD1KxMV8A5y68OuRXVpPA) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Etsi Exei Mathei](https://open.spotify.com/album/3AkgZF3a0REfLrVhbgDWTG) | 3:10 |
 | 29 | [Terma S' Agapo / Oti Kai Na Ginei Thimisou \- Medley](https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Terma S' Agapo / Oti Kai Na Ginei Thimisou \(Medley\)](https://open.spotify.com/album/7uQPoxmw3bL1K7c8viJCM0) | 5:05 |
-| 30 | [Etsi Exei Mathei](https://open.spotify.com/track/6JD1KxMV8A5y68OuRXVpPA) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Etsi Exei Mathei](https://open.spotify.com/album/3AkgZF3a0REfLrVhbgDWTG) | 3:10 |
+| 30 | [Deutera](https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt) | [Antonis Remos](https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG) | [Deutera](https://open.spotify.com/album/09QOrsNfrqiAkgiiOewiOC) | 4:00 |
 | 31 | [Matia Mou](https://open.spotify.com/track/3cTnyjyZpo93SfoO4RAA6v) | [Ilias Vrettos](https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1) | [Matia Mou](https://open.spotify.com/album/0Np3xakjySsq2L133xPFFo) | 3:51 |
 | 32 | [Ola Gia Ola](https://open.spotify.com/track/51Sxai2iT4hMLcGMpb0oY6) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Ola Gia Ola](https://open.spotify.com/album/7x2obj5avH7SoylWDKlfLo) | 4:41 |
 | 33 | [Xelogiastra](https://open.spotify.com/track/3Ng9QVp2XtIWG5ZADToxqB) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw), [Stavento](https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK) | [Xelogiastra](https://open.spotify.com/album/2SbWEEvoOUARNeUXNxrg6p) | 2:42 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 40 | [Epiptoseis](https://open.spotify.com/track/6dvpB2MjuzciJGECODPQdP) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [Epiptoseis](https://open.spotify.com/album/50c14vft7AEMFS3I9AcHPu) | 3:16 |
 | 41 | [Etsi Eimai](https://open.spotify.com/track/0Fc4uo72OdhOgIeoASzIT8) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [Etsi Eimai](https://open.spotify.com/album/61uDiFwh8cGDhhFoinSfs5) | 4:02 |
 | 42 | [Pigene Me Pali Piso Taxitzi](https://open.spotify.com/track/3ThFI7ukvQbAkMAjucye3G) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Sto Mualo Sou](https://open.spotify.com/album/7a2mEJ3x05wd2yJiKIZu1l) | 3:14 |
-| 43 | [Na Giriseis Pou](https://open.spotify.com/track/12yBDRdAFphLSeubaMO4Cc) | [Nikos Makropoulos](https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO) | [Na Giriseis Pou](https://open.spotify.com/album/3NtmGvcOSVqR53Qw2JL7mo) | 2:46 |
-| 44 | [Kala Na Pernate](https://open.spotify.com/track/2puBRG2ig5q8f0JcM1d9wD) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Kala Na Pernate](https://open.spotify.com/album/0jabVYWfYrgQEbX4XKNAak) | 3:06 |
+| 43 | [Kala Na Pernate](https://open.spotify.com/track/2puBRG2ig5q8f0JcM1d9wD) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Kala Na Pernate](https://open.spotify.com/album/0jabVYWfYrgQEbX4XKNAak) | 3:06 |
+| 44 | [Na Giriseis Pou](https://open.spotify.com/track/12yBDRdAFphLSeubaMO4Cc) | [Nikos Makropoulos](https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO) | [Na Giriseis Pou](https://open.spotify.com/album/3NtmGvcOSVqR53Qw2JL7mo) | 2:46 |
 | 45 | [Nero \- Live Edition](https://open.spotify.com/track/7AH52Zb9T2FqoluMNPx1ds) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Nero \(Live Edition\)](https://open.spotify.com/album/3c1xLILpDuCXETrptwXeYR) | 3:18 |
 | 46 | [Pare Repo](https://open.spotify.com/track/5rfWp7g7v94ThG0ydHJlIq) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Pare Repo](https://open.spotify.com/album/6s2Yfh1CRyRPH8M7r3ER0o) | 3:18 |
 | 47 | [Sou Eleipsa H Oxi?](https://open.spotify.com/track/3DjRWr61uRKkd6pe0DkO3e) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Sou Eleipsa H Oxi?](https://open.spotify.com/album/3Y3vGleylpZtWMQUySRcvI) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 49 | [Ta Parapona Mou](https://open.spotify.com/track/3RXBikhe617jBGLu7Rj8zL) | [Katerina](https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU) | [Ta Parapona mou](https://open.spotify.com/album/3HtI7dLnszDt9CuKvB7MfM) | 2:55 |
 | 50 | [Na M' Agapas](https://open.spotify.com/track/3gE0aPgt8hXdVFY6ocKfRO) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0) | [Na M' Agapas](https://open.spotify.com/album/46U7QZidges6iCwapYS8Gj) | 3:00 |
 
-Snapshot ID: `AAAAAAslxAeix1kLSIX9wksi3gwBLU/t`
+Snapshot ID: `AAAAAFhs5pX5URz7/Q2pA/76EvQws/44`

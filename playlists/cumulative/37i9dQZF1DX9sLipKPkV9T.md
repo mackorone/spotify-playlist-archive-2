@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר:ניר כנען
 
-681 songs - 1 day 11 hr 49 min
+683 songs - 1 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [הכי טוב במיטה](https://open.spotify.com/track/2GxRzcH8fGgfMuhqyovlt8) | [Cookie Levanna](https://open.spotify.com/artist/39hTcjXHjg9XAGWO5ubNCD) | [הכי טוב במיטה](https://open.spotify.com/album/4bCPIgPUjUE4vobQfzBLTm) | 2:42 | 2025-12-11 | 2026-01-15 |
 | [הכי יפה כשטעים לך](https://open.spotify.com/track/5lF6rogyJvyd6psqdkHfoP) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [הכי יפה כשטעים לך](https://open.spotify.com/album/3sSrK5k0odF4g5UMxlVwXr) | 2:27 | 2026-05-14 |  |
 | [הכל בסדר](https://open.spotify.com/track/27J03lBCBDAPEAptQbHHdc) | [ענבל רז](https://open.spotify.com/artist/31h1Tt25QjurO3YixXtJ5Y) | [הכל בסדר](https://open.spotify.com/album/6pemosj7J7gapGPWOevLWd) | 2:25 | 2025-12-04 | 2026-02-20 |
-| [הכל וכלום בבת אחת](https://open.spotify.com/track/39hxE8gd278EFqq3dPe8I3) | [שי המבר](https://open.spotify.com/artist/7gFDsAzdTcWL3Rq2t2ACa8) | [הכל וכלום בבת אחת](https://open.spotify.com/album/2DTKUl1ugPUmHmLrKw6tYm) | 3:00 | 2026-06-25 |  |
+| [הכל וכלום בבת אחת](https://open.spotify.com/track/39hxE8gd278EFqq3dPe8I3) | [שי המבר](https://open.spotify.com/artist/7gFDsAzdTcWL3Rq2t2ACa8) | [הכל וכלום בבת אחת](https://open.spotify.com/album/2DTKUl1ugPUmHmLrKw6tYm) | 3:00 | 2026-06-25 | 2026-07-10 |
 | [הכל זה נס](https://open.spotify.com/track/6QBHxdSrJwfyHPDHMfktXY) | [Aviv Bahar](https://open.spotify.com/artist/2gZQhTge4L8kMEDp4w3U4R) | [הכל זה נס](https://open.spotify.com/album/1vycKLRrIbc2zll1vsBEN1) | 2:58 | 2024-11-21 | 2025-03-14 |
 | [הכל יושב לי על הלב](https://open.spotify.com/track/7lwoLHmuhGIZ7l4UFJUSBf) | [Adar Gold](https://open.spotify.com/artist/0q7VehOO4cRZhlDafqypaI) | [הכל יושב לי על הלב](https://open.spotify.com/album/7dfwxthujHZNCfaArv1iCe) | 3:48 | 2026-01-15 | 2026-02-13 |
 | [הכל יעבור](https://open.spotify.com/track/7h6P67pvZQwOVhijoj5LEz) | [Avraham Tal](https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd), [Tohar Gadasi](https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa) | [הכל יעבור](https://open.spotify.com/album/00NBE1oou0zElLcx3YIXsK) | 2:55 | 2026-01-15 | 2026-06-12 |
@@ -327,6 +327,7 @@
 | [חופש](https://open.spotify.com/track/3CzBkM6Dvhm1lAVP5TaFfd) | [Ania Bukstein](https://open.spotify.com/artist/1nLHP2z03gwEP1YL02xVMg) | [ילדות גדולות](https://open.spotify.com/album/1JcDmanUeXBzyGwfPpYUpY) | 3:06 | 2025-02-06 | 2025-02-28 |
 | [חופשת מלחמה](https://open.spotify.com/track/6N6FiVp241IR19sUZcq1eN) | [Hatikva 6](https://open.spotify.com/artist/3umXlcgiDTcCRkvPVobeJc) | [חופשת מלחמה](https://open.spotify.com/album/3FzGJAXenSmRAAwCHuo3B4) | 3:24 | 2026-04-02 | 2026-05-01 |
 | [חורלא](https://open.spotify.com/track/3C7jJyJwgICuugBmm0ydGM) | [נוגה](https://open.spotify.com/artist/6HW3QANBDKr3G55gTxLUxc), [Lava Dome](https://open.spotify.com/artist/7cyXcAXjpUsTLIvBqsmIEC) | [בחזרה לארון](https://open.spotify.com/album/2wM0XTYE5UDr2dlgs6OqWp) | 2:58 | 2025-08-14 | 2025-09-12 |
+| [חושב שאתה מסי](https://open.spotify.com/track/3Pj0N7pQNa0zJQPbac2zN8) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [חושב שאתה מסי](https://open.spotify.com/album/2PgYa45gNf3GJuHmrdQGTZ) | 2:15 | 2026-07-09 |  |
 | [חי באנשים](https://open.spotify.com/track/6N3FM8RgFBVElijPWpGUjJ) | [Harel Moyal](https://open.spotify.com/artist/2icfuQZ4Mhw10Kbrzzsm4z) | [חי באנשים](https://open.spotify.com/album/0rTvR1Px1Yp36ffP1HPN8F) | 3:51 | 2026-04-16 | 2026-05-29 |
 | [חיילת של אושר](https://open.spotify.com/track/6Cp1HsYY2lWxO6wZviv7O0) | [May Sfadia](https://open.spotify.com/artist/4Bl08QHOgjjt8Hcg53iq0j) | [חיילת של אושר](https://open.spotify.com/album/3HJxggybi3KKXQUvXi1lb9) | 2:30 | 2024-08-29 | 2024-10-04 |
 | [חיים אחרי החושך](https://open.spotify.com/track/5mwwuLpggNCtpBurxrHNgM) | [Orr Amrami Brockman](https://open.spotify.com/artist/7LYQkaWV7dxEs53F8kP7Ml) | [חיים אחרי החושך](https://open.spotify.com/album/23PtbemoVRIgGreyLpACJQ) | 3:22 | 2026-01-22 | 2026-02-20 |
@@ -346,6 +347,7 @@
 | [יהונתן](https://open.spotify.com/track/1gg3OHucFALk4GBqpAHDma) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [שיחות שלום](https://open.spotify.com/album/2W1Ud6bXVvGSMJVj6xfUTj) | 3:56 | 2024-09-20 | 2024-10-04 |
 | [יהי רצון](https://open.spotify.com/track/4ERPLdXEg2WqLoKNKnV7Vi) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [סוף חמה לבוא](https://open.spotify.com/album/2SyQETIiAGH9ZnXVoG91oD) | 2:56 | 2024-09-19 | 2025-01-31 |
 | [יולי](https://open.spotify.com/track/2h9DbjelaBrBXJragBzSrZ) | [Shira Margalit](https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz) | [יולי](https://open.spotify.com/album/6rhOJGFjn9nvYk0WodAkjc) | 4:03 | 2025-09-11 | 2025-11-28 |
+| [יום ראשון שנה אחרונה \- מתוך הסרט "תיכון מגשימים"](https://open.spotify.com/track/1nbqxteAKBKQwOcswlwY65) | [Amit Ulman](https://open.spotify.com/artist/6NsAYf2GPGeHVSezRthCkD), [Yuval Mendelson](https://open.spotify.com/artist/6hVAKUdULwRNi7cRA3Fn2S), [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu), [Tomer Katz](https://open.spotify.com/artist/4uTaV6spIEYzsAFeXFPqqa) | [יום ראשון שנה אחרונה \(מתוך הסרט "תיכון מגשימים"\)](https://open.spotify.com/album/06o7hvuMsxV1pjTdSdYQr0) | 3:15 | 2026-07-09 |  |
 | [יומה](https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS) | [Tohar Gadasi](https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa) | [יומה](https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC) | 2:25 | 2025-01-30 | 2025-02-21 |
 | [יוצאת מזה](https://open.spotify.com/track/4xNo1LgWSCyjgK4OsUnLWg) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יוצאת מזה](https://open.spotify.com/album/1eme39BjyJg1EemvTA66sG) | 3:40 | 2024-06-27 | 2024-08-16 |
 | [יושב לי על הלב](https://open.spotify.com/track/3BX9e9v3D01YUuQUbN225e) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יושב לי על הלב](https://open.spotify.com/album/2JQkBoNvfZwe2yOW5T0iMJ) | 2:18 | 2025-07-10 | 2025-08-29 |
@@ -504,7 +506,7 @@
 | [מעונה לעונה](https://open.spotify.com/track/3FYdP6pprYqBtGwzqEtCsx) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [שיחות שלום](https://open.spotify.com/album/2W1Ud6bXVvGSMJVj6xfUTj) | 3:34 | 2025-07-17 | 2025-10-31 |
 | [מפרש לבן](https://open.spotify.com/track/4GzV9XajF9E8rSLAZa9WVA) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu) | [מפרש לבן](https://open.spotify.com/album/2Rklq8xzKHOGa64ZuKSDKZ) | 4:10 | 2025-03-20 | 2025-07-11 |
 | [מצאת קצת שקט](https://open.spotify.com/track/24fNT4hgA4er3z3i2Z2OUn) | [Maya Buskila](https://open.spotify.com/artist/4UnEeDqvDJudbJcn6GYSlS) | [מצאת קצת שקט](https://open.spotify.com/album/6nZrjfx7rxYlUxonmzCsuH) | 3:14 | 2025-12-04 | 2026-01-15 |
-| [מצאתי פינה](https://open.spotify.com/track/55U9lh5quFTrNsqHV0o7ZS) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [מצאתי פינה](https://open.spotify.com/album/4EGyGgAG5PVx0A8wX9IY8u) | 4:04 | 2026-04-10 |  |
+| [מצאתי פינה](https://open.spotify.com/track/55U9lh5quFTrNsqHV0o7ZS) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [מצאתי פינה](https://open.spotify.com/album/4EGyGgAG5PVx0A8wX9IY8u) | 4:04 | 2026-04-10 | 2026-07-10 |
 | [מקום בחייך](https://open.spotify.com/track/3odiIlhzbc43pFUiUXQSwH) | [Yam Refaeli](https://open.spotify.com/artist/0VWxCUPjwYC1haUA2kCrp6) | [מקום בחייך](https://open.spotify.com/album/2JoZx4ITfjtsyT1IZ0ObZ2) | 2:56 | 2024-06-27 | 2024-08-02 |
 | [מקום קטן](https://open.spotify.com/track/1Nj9SgKA9OeCGR40lU0hpu) | [Orr Amrami Brockman](https://open.spotify.com/artist/7LYQkaWV7dxEs53F8kP7Ml) | [מקום קטן](https://open.spotify.com/album/43S8jAGLrTWNtZbXTTbx4E) | 3:31 | 2025-10-23 | 2025-11-21 |
 | [מקרב הלבבות](https://open.spotify.com/track/3ES3Vi993SR3JvoDVryv8A) | [בניה ברבי](https://open.spotify.com/artist/0WjQnf1rQ0tY84gGgjrQQ9) | [מקרב הלבבות](https://open.spotify.com/album/1ByKzpw1vbLsBgQiMOo9qR) | 2:24 | 2025-09-04 | 2025-11-21 |

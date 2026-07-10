@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: K\u00c4SSY",
+  "description": "New music off the beaten track. Cover: Cody Currie",
   "name": "OFF POP",
   "tracks": [
     {
@@ -5221,6 +5221,24 @@
     },
     {
       "album": {
+        "name": "Dance Through The Night",
+        "url": "https://open.spotify.com/album/3AQytqkCPBHCYgzf4Td0OG"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263065,
+      "name": "Dance Through The Night",
+      "url": "https://open.spotify.com/track/3WXM4RTGY09Lyt8h8SUSL2"
+    },
+    {
+      "album": {
         "name": "Dancing Ain't Enough",
         "url": "https://open.spotify.com/album/2yOmqnThwnhPd3QPsefWWq"
       },
@@ -10031,6 +10049,24 @@
     },
     {
       "album": {
+        "name": "Ch\u00e2teau Brute",
+        "url": "https://open.spotify.com/album/2mOz0X4LF1VPrNZJyM4ldQ"
+      },
+      "artists": [
+        {
+          "name": "Luna Morgenstern",
+          "url": "https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165935,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/5s7xCUGbNucmHPiR1Wa6bs"
+    },
+    {
+      "album": {
         "name": "Gold Rush",
         "url": "https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0"
       },
@@ -13530,7 +13566,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 135666,
       "name": "Into the Sky",
       "url": "https://open.spotify.com/track/2bo1qVBpVO9xHDuOmJzcCZ"
@@ -14602,7 +14638,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 128598,
       "name": "Kids",
       "url": "https://open.spotify.com/track/3uWuQ4TyNDY63aQbppYcyc"

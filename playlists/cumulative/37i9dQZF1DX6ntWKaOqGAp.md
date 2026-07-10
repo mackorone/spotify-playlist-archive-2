@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: マカロニえんぴつ Macaroni Empitsu
 
-3,365 songs - 8 day 17 hr 48 min
+3,368 songs - 8 day 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1142,6 +1142,7 @@
 | [Paradox](https://open.spotify.com/track/2pI2hJE73VQunoktyU2QJa) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [BAD MORNING](https://open.spotify.com/album/2sy34466XWeUGokvFDXG2l) | 2:47 | 2026-03-03 | 2026-04-01 |
 | [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 | 2023-04-04 | 2023-06-21 |
 | [Paradox](https://open.spotify.com/track/0Xz3vuo3cINtRsZWMsxZUx) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh), [Bonnie Fraser](https://open.spotify.com/artist/4lPsOekQkRVNqFikwNd7jZ) | [Paradox](https://open.spotify.com/album/33O3I5EWGkW54jeNWW1lZZ) | 4:01 | 2023-06-20 | 2023-09-06 |
+| [Paradox](https://open.spotify.com/track/6ef5TcEKwNvcGEVVXDv7NT) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [Paradox](https://open.spotify.com/album/3HdbEchREWtQxmEjwxOBx2) | 3:01 | 2026-07-09 |  |
 | [Parasites](https://open.spotify.com/track/2PvPwvinXuMcF82qkR9DqG) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Parasites](https://open.spotify.com/album/02Tb76LOod9iowVjS8r9sF) | 2:10 | 2024-01-09 | 2024-01-31 |
 | [Parasol](https://open.spotify.com/track/3exFdWjEOzH8fOq1U2c8EI) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [gravity](https://open.spotify.com/album/7HDUHwXlqdvOYYtgAqx54M) | 2:47 | 2023-08-22 | 2023-09-27 |
 | [Paris, our](https://open.spotify.com/track/0aieJe8lT6GxrlYNGVDV6u) | [the cabs](https://open.spotify.com/artist/5PalnqYJTpnO5wt00jf0um) | [Paris, our](https://open.spotify.com/album/5ly8CjRnRSnrIODqEl41iA) | 4:10 | 2026-05-19 | 2026-05-27 |
@@ -2426,6 +2427,7 @@
 | [フェイクドラマ](https://open.spotify.com/track/442pMIC5EsDrhR8oNTF6qr) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [最後に残るもの](https://open.spotify.com/album/7EgengpE1IcBrCnlN04J3r) | 3:47 | 2023-10-03 | 2023-10-05 |
 | [フォーリン](https://open.spotify.com/track/4SR6nzYh5GFBA9l2q2kMau) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [フォーリン](https://open.spotify.com/album/4kMhGt65ZN0u4txAT81zKu) | 3:33 | 2026-05-12 |  |
 | [フカ](https://open.spotify.com/track/64PaMANvpetCz8PKpK2Se3) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [フカ](https://open.spotify.com/album/3plMHXh3uXTOznO6G1cLPG) | 3:17 | 2023-01-13 | 2023-02-15 |
+| [フツー](https://open.spotify.com/track/7vqR6NIxRJGAQgITOx7GuY) | [Kaisoku Tokyo](https://open.spotify.com/artist/4YFuNknEtewQjrymI6xPY1) | [フツー](https://open.spotify.com/album/2TpnRJELSbgLLs8ETLqf77) | 1:30 | 2026-07-09 |  |
 | [フラジェール](https://open.spotify.com/track/2q2jhRt35kZFoXKA6HNxb0) | [rubens](https://open.spotify.com/artist/00hFIHBsO61UDTsJ3iym1T) | [MELT](https://open.spotify.com/album/4qTPu3k41zzLZilDNyGEyD) | 3:56 | 2025-10-28 | 2025-11-12 |
 | [フラジャイル・ナイト](https://open.spotify.com/track/4AgyrMwqCQc5wlWftTPwrZ) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [フラジャイル・ナイト](https://open.spotify.com/album/1SzXBjLNyxHy73c04lYrVC) | 3:08 | 2025-03-11 | 2025-04-16 |
 | [フラッシュバック](https://open.spotify.com/track/3T7Mxy7rvnhiQBmjkLu5h9) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [フラッシュバック](https://open.spotify.com/album/6kUJMVt7vDXHDD0WvtJKaR) | 4:03 | 2024-08-27 | 2024-09-11 |
@@ -3229,6 +3231,7 @@
 | [衛星の夜](https://open.spotify.com/track/5zcga5dxLXanH6GhuOkZ7U) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [衛星の夜 / 秘密](https://open.spotify.com/album/5fqK00Cgh8EjVSTILXrZB3) | 3:12 | 2023-10-24 | 2023-10-26 |
 | [衝動](https://open.spotify.com/track/5vgIol0CCCIC0eykwAGOdS) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [衝動](https://open.spotify.com/album/3eY3c5xGJlTJzqHQhUa4ZV) | 3:47 | 2025-05-13 | 2025-07-02 |
 | [裏終電・敵前逃亡同盟](https://open.spotify.com/track/3YXDOt61f3Eb6gNR4hJGDe) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [裏終電・敵前逃亡同盟](https://open.spotify.com/album/12ABFWVcX8WNZ1MWhV5Z5M) | 3:27 | 2023-09-20 | 2023-09-21 |
+| [裸](https://open.spotify.com/track/4xhKllSdr9knDCIaCpwHnA) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [裸](https://open.spotify.com/album/1p22fJ5uoVoKfy0NDTWGqA) | 3:17 | 2026-07-09 |  |
 | [襲撃](https://open.spotify.com/track/4lKGembiDBdYHSCWfxOKIQ) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [式日散花](https://open.spotify.com/album/5UwYVbkJL3whWkNQIkLGpa) | 4:00 | 2023-08-29 | 2023-09-13 |
 | [西方コーストストーリー](https://open.spotify.com/track/1YH7Rv0BpvNyjtno88MxXY) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [サーフ ブンガク カマクラ \(半カートン\)](https://open.spotify.com/album/6O5gIlE93Ym8DeAlyJI4P3) | 3:41 | 2023-06-13 | 2023-07-05 |
 | [覚えてないよ](https://open.spotify.com/track/5zhGw4ojqbv504ETf1qbPt) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [覚えてないよ](https://open.spotify.com/album/4Du7OTml4ZXea5CXkeATpf) | 3:17 | 2026-05-26 | 2026-07-03 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 16822,
+  "num_followers": 16825,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAABnMtqcJpbNou4ZW37cH3hW",
+  "snapshot_id": "ak2TAAAAAACJS/LF1sbMO3Pik+D3bGq2",
   "tracks": [
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Broken Hearts & Dirty Windows: Songs of John Prine, Vol. 2",
+        "url": "https://open.spotify.com/album/1zeu2tjunNLjS6rWNWCZ70"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/1GOcYcVoojwz4FH1aD8ZKP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Armageddon In A Summer Dress",
         "url": "https://open.spotify.com/album/4QHHLKn8d51lY9i6OiOohV"
       },
@@ -747,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broken Hearts & Dirty Windows: Songs of John Prine, Vol. 2",
-        "url": "https://open.spotify.com/album/1zeu2tjunNLjS6rWNWCZ70"
+        "name": "Rollin' and Tumblin'",
+        "url": "https://open.spotify.com/album/0fnEQYKGxiZ8MeQdyQNpQ1"
       },
       "artists": [
         {
@@ -756,9 +772,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 209426,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/1GOcYcVoojwz4FH1aD8ZKP"
+      "duration_ms": 208110,
+      "name": "Rollin\u2019 and Tumblin\u2019",
+      "url": "https://open.spotify.com/track/6Gf3O9dcDuPUtMm6arXiCr"
     },
     {
       "added_at": null,
@@ -779,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rollin' and Tumblin'",
-        "url": "https://open.spotify.com/album/0fnEQYKGxiZ8MeQdyQNpQ1"
+        "name": "Traveler's Soul",
+        "url": "https://open.spotify.com/album/5vqWpNKeUOfzYTyoeQoCly"
       },
       "artists": [
+        {
+          "name": "Blues Traveler",
+          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
+        },
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 208110,
-      "name": "Rollin\u2019 and Tumblin\u2019",
-      "url": "https://open.spotify.com/track/6Gf3O9dcDuPUtMm6arXiCr"
+      "duration_ms": 248440,
+      "name": "I Can't Stand the Rain",
+      "url": "https://open.spotify.com/track/2ueEb5EeFRF2vINyQ5bP9x"
     },
     {
       "added_at": null,
@@ -815,26 +835,6 @@
       "duration_ms": 201921,
       "name": "Up and Rolling (feat. Son Little and Valerie June)",
       "url": "https://open.spotify.com/track/2Z76Gvp5iZcEkszy10LNQp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Traveler's Soul",
-        "url": "https://open.spotify.com/album/5vqWpNKeUOfzYTyoeQoCly"
-      },
-      "artists": [
-        {
-          "name": "Blues Traveler",
-          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
-        },
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "I Can't Stand the Rain",
-      "url": "https://open.spotify.com/track/2ueEb5EeFRF2vINyQ5bP9x"
     },
     {
       "added_at": null,

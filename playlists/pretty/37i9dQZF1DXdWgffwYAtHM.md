@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 11 | [como é doloroso não se achar merecedora](https://open.spotify.com/episode/3lNKORRmzUGPgFJem4B4fG) | [Colo de amiga por @sofidisse](https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc) | [Colo de amiga por @sofidisse](https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc) | 24:51 |
 | 12 | [Manda áudio 40](https://open.spotify.com/episode/2Jgr94l0r89gvZ9iXSpoLR) | [Até aí, ok!](https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth) | [Até aí, ok!](https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth) | 10:41 |
 
-Snapshot ID: `AAAAACU0wmoPTbyQzH48jjBm+5ALZxu9`
+Snapshot ID: `AAAAAKYo8mS9j0jmiarfkPTvRvo68f5Q`

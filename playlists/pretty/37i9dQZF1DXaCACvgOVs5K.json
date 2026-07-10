@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 896239,
+  "num_followers": 896448,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,22 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
-        "name": "Everytime",
-        "url": "https://open.spotify.com/album/3mSHcMzJwojPzTVubh9MuN"
+        "name": "My Place",
+        "url": "https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C"
       },
       "artists": [
         {
-          "name": "IDEMI",
-          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
         },
         {
-          "name": "Lustral",
-          "url": "https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7"
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
         }
       ],
-      "duration_ms": 205454,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/5uaHSOou5ernQBKhfVse1f"
+      "duration_ms": 159615,
+      "name": "My Place",
+      "url": "https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S"
     },
     {
       "added_at": "2026-07-02 23:00:16",
@@ -515,22 +515,22 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
-        "name": "My Place",
-        "url": "https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C"
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/3mSHcMzJwojPzTVubh9MuN"
       },
       "artists": [
         {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+          "name": "IDEMI",
+          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
         },
         {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+          "name": "Lustral",
+          "url": "https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7"
         }
       ],
-      "duration_ms": 159615,
-      "name": "My Place",
-      "url": "https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S"
+      "duration_ms": 205454,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/5uaHSOou5ernQBKhfVse1f"
     },
     {
       "added_at": "2026-07-02 23:00:16",
@@ -1303,6 +1303,42 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
+        "name": "Next Life",
+        "url": "https://open.spotify.com/album/0i8X8bHIlZeLpdKhzVlJI9"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        },
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+        }
+      ],
+      "duration_ms": 236481,
+      "name": "Next Life",
+      "url": "https://open.spotify.com/track/2eAJUXdGiX11TGuuXdYKgO"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
+        "name": "Bad Bara",
+        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        }
+      ],
+      "duration_ms": 245571,
+      "name": "Bad Bara",
+      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
         "name": "So High",
         "url": "https://open.spotify.com/album/2dEVOImH3Yr77PpLmf0tcW"
       },
@@ -1327,26 +1363,6 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
-        "name": "Next Life",
-        "url": "https://open.spotify.com/album/0i8X8bHIlZeLpdKhzVlJI9"
-      },
-      "artists": [
-        {
-          "name": "Dusky",
-          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
-        },
-        {
-          "name": "Rromarin",
-          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
-        }
-      ],
-      "duration_ms": 236481,
-      "name": "Next Life",
-      "url": "https://open.spotify.com/track/2eAJUXdGiX11TGuuXdYKgO"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
         "name": "Freaky",
         "url": "https://open.spotify.com/album/7i6Wz3tvYG2coehpE97RgC"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 120241,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/6orYXU56P1zLY9YUFX5zJV"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
-        "name": "Bad Bara",
-        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        }
-      ],
-      "duration_ms": 245571,
-      "name": "Bad Bara",
-      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
     },
     {
       "added_at": "2026-07-02 23:00:16",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
-        "name": "Close 2 U",
-        "url": "https://open.spotify.com/album/0G3fLBXfhn2bpDXc11F00s"
-      },
-      "artists": [
-        {
-          "name": "Paperwater",
-          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
-        }
-      ],
-      "duration_ms": 129097,
-      "name": "Close 2 U",
-      "url": "https://open.spotify.com/track/4KR4fvzuBru2PNqqhAZGk0"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
         "name": "Just Like That EP",
         "url": "https://open.spotify.com/album/6HyNLK9f5wrFumqmGfDeO3"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 203909,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/3eMVersNz99DsD0vvv3Bk6"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
+        "name": "Close 2 U",
+        "url": "https://open.spotify.com/album/0G3fLBXfhn2bpDXc11F00s"
+      },
+      "artists": [
+        {
+          "name": "Paperwater",
+          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
+        }
+      ],
+      "duration_ms": 129097,
+      "name": "Close 2 U",
+      "url": "https://open.spotify.com/track/4KR4fvzuBru2PNqqhAZGk0"
     },
     {
       "added_at": "2026-07-02 23:00:16",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
+        "name": "Nexus 002",
+        "url": "https://open.spotify.com/album/7A48CH1fN5LVSAvh9yyVTV"
+      },
+      "artists": [
+        {
+          "name": "Greggio",
+          "url": "https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3"
+        }
+      ],
+      "duration_ms": 213769,
+      "name": "Attack",
+      "url": "https://open.spotify.com/track/44vqflfNrPLnAW1Y5B1e4c"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
         "name": "Expressions (feat. Kosmo Kint)",
         "url": "https://open.spotify.com/album/4puy8244T6ejwnvusrLoo4"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 180962,
       "name": "Expressions (feat. Kosmo Kint)",
       "url": "https://open.spotify.com/track/7pDOfEWXhRY6L2JXkGl3Ap"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
-        "name": "Nexus 002",
-        "url": "https://open.spotify.com/album/7A48CH1fN5LVSAvh9yyVTV"
-      },
-      "artists": [
-        {
-          "name": "Greggio",
-          "url": "https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3"
-        }
-      ],
-      "duration_ms": 213769,
-      "name": "Attack",
-      "url": "https://open.spotify.com/track/44vqflfNrPLnAW1Y5B1e4c"
     },
     {
       "added_at": "2026-07-02 23:00:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Voice
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,512 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,545 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 94 | [Rock It](https://open.spotify.com/track/2VZlQCR2NlWD7NWEUjIQMA) | [Baron](https://open.spotify.com/artist/2sRsSGDTIpVs0r5UQ4OA3p), [Shurwayne Winchester](https://open.spotify.com/artist/2dqzb4OvhCxwr9ogGBEsQx), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [The KVG](https://open.spotify.com/artist/34ElLOqbMNKj5XkHsaFUx2) | [Rock It](https://open.spotify.com/album/34oWtMuSUjNjLaMvAjL2tP) | 2:44 |
 | 95 | [Energy](https://open.spotify.com/track/1CPMKAViIeLiYZKFqRfYQ1) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [Energy](https://open.spotify.com/album/6QjEZHqkpf3tCCEO4384zk) | 3:32 |
 | 96 | [Who Drinking Rum?](https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe) | [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78) | [King Bubba Mashup, Vol\. 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 3:08 |
-| 97 | [Look Back](https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Look Back](https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP) | 2:31 |
-| 98 | [Lose Weight](https://open.spotify.com/track/4ZxNX6lwbBJjOY3cg57L46) | [Sackie](https://open.spotify.com/artist/2fZJnsBgeBQfyjpdLAa6yh), [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20) | [Lose Weight](https://open.spotify.com/album/3jHQ2GrFQlLS71PoqIpIRF) | 2:47 |
+| 97 | [Lose Weight](https://open.spotify.com/track/4ZxNX6lwbBJjOY3cg57L46) | [Sackie](https://open.spotify.com/artist/2fZJnsBgeBQfyjpdLAa6yh), [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20) | [Lose Weight](https://open.spotify.com/album/3jHQ2GrFQlLS71PoqIpIRF) | 2:47 |
+| 98 | [Look Back](https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Look Back](https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP) | 2:31 |
 | 99 | [Blind](https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Blind](https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS) | 3:16 |
 | 100 | [Down Dey \- Refix](https://open.spotify.com/track/6ergIagYJbc09n51JHK3y1) | [GBM Nutron](https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT), [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Parry Jack](https://open.spotify.com/artist/3bD41MPiBepcsiRyqlc9DA), [All Star Brass](https://open.spotify.com/artist/5gMdbj51leNGDWTs35qsTa) | [Down Dey \(Refix\)](https://open.spotify.com/album/3KlpWoAIm83G0QQFZsubCY) | 2:53 |
 

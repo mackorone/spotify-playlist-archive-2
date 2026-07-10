@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,380 songs - 2 day 11 hr 25 min
+1,382 songs - 2 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [All My Love](https://open.spotify.com/track/4EG74jCrn9VR8nmNmdq6Bc) | [Duke Voss](https://open.spotify.com/artist/2IGgXmA7imZF06hqIbf8qb), [King Ky](https://open.spotify.com/artist/0LQwcJg9nBZONJg4OGUvkC) | [All My Love](https://open.spotify.com/album/24GkgzQcqwhfLzSsgAXoBv) | 3:04 | 2025-11-02 | 2025-11-17 |
 | [All Night](https://open.spotify.com/track/7MMsKHdzX5wjuBkzk4zCAN) | [Methner](https://open.spotify.com/artist/1KVh2mDowk5csLQLpG4sln), [XO](https://open.spotify.com/artist/7iYWcuAtM8cO4AFTJ5MHVl), [WLZN](https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce) | [All Night](https://open.spotify.com/album/7mJe5WNurNR4ULM04TapsM) | 2:51 | 2023-09-22 | 2024-02-12 |
 | [All Night Long](https://open.spotify.com/track/6BTJEauio7VgCelhJPRuGA) | [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3) | [All Night Long](https://open.spotify.com/album/1dN4X7ArobIEGG5hwOfOXx) | 2:18 | 2024-11-17 |  |
+| [All Night Long](https://open.spotify.com/track/13f0GBOFl1T983icdPRNIm) | [Palmero](https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn) | [All Night Long](https://open.spotify.com/album/00yjI7EzUOUCTQ8lVxUBoV) | 2:16 | 2026-07-09 |  |
 | [All Night Long \(All Night\)](https://open.spotify.com/track/53S4WXwMew3FsuELwsnI91) | [Coconut Kid](https://open.spotify.com/artist/0YVBrjCS4MxPBonrboHcEh), [Chill Gull](https://open.spotify.com/artist/0oF2AmTrkEWD7JvK1CH1Lw) | [All Night Long \(All Night\)](https://open.spotify.com/album/32yHfd46KtiDXQzyL0lkQM) | 2:36 | 2026-04-26 |  |
 | [All of My Life](https://open.spotify.com/track/2ZjY7V5G22ALggY0l2tFz8) | [AndyBear](https://open.spotify.com/artist/3PTvL4CPoyATF3fct0pQtc), [Roads We Walk](https://open.spotify.com/artist/4uppaNsZPfgLiR2Y3R5QCy), [PARY](https://open.spotify.com/artist/6X6pSBw0SNbXVIyDzkS2N7) | [All of My Life](https://open.spotify.com/album/22wSHnzCTUhm3SZW6Zv0BO) | 2:28 | 2024-02-02 | 2024-04-19 |
 | [All Over Again](https://open.spotify.com/track/60CpWNqHVaZoV5crpHC1mH) | [Tonality](https://open.spotify.com/artist/2EOl0zHOcWyuGkE4ZKoLik) | [All Over Again](https://open.spotify.com/album/1wXSue2Zs5yPtu7hTwxpCn) | 2:28 | 2025-03-01 | 2025-12-03 |
@@ -208,6 +209,7 @@
 | [Close To You](https://open.spotify.com/track/0ONuv4rQSS2Td8tZh9gSfF) | [Tripton](https://open.spotify.com/artist/3vIZaGKxTpq9QyknvvpIH1), [JAIKO](https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6) | [Close To You](https://open.spotify.com/album/3gXHjpxAOIY7S3BczNKDeq) | 2:55 | 2024-06-02 | 2026-02-16 |
 | [Closer](https://open.spotify.com/track/2H3qRWi8Rp9g7dYmDLX5Pw) | [Hobes](https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl) | [Closer](https://open.spotify.com/album/1iUCjNvCHuavIulJbZKGfv) | 2:14 | 2026-06-15 |  |
 | [Closer](https://open.spotify.com/track/1WAsyThe1xZQ82xNY0dkDk) | [just Fede](https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP), [KAJ](https://open.spotify.com/artist/1MPHxC0IFc9NFIqTSksCuj), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D) | [Closer](https://open.spotify.com/album/7GHhLgyhKRDJmqc1Ab3Bxk) | 2:30 | 2026-03-29 | 2026-04-27 |
+| [Closer](https://open.spotify.com/track/6VTucYs7wsUsHZjDEROKoP) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Velvety](https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh), [Luna Serenade](https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ) | [Closer](https://open.spotify.com/album/0BWcjWmP1GWSpfqBqLnu78) | 2:34 | 2026-07-09 |  |
 | [Closer](https://open.spotify.com/track/3rBD8phZjb14NPblq35s77) | [Seazons](https://open.spotify.com/artist/0yO8jzH8NUwFbJqKfvrRnf), [houselife](https://open.spotify.com/artist/2ZMVshOlD7ULhDmDjgOF3h) | [Closer](https://open.spotify.com/album/1tmjTej23PLm4d9zJQvMNj) | 2:26 | 2023-12-10 | 2023-12-31 |
 | [Clouds](https://open.spotify.com/track/31Y2fjAZ3yPV6gzUpKHyWZ) | [LMNY](https://open.spotify.com/artist/5tF2G0g0z4jVZGVpmR9m3S), [Hobes](https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl) | [Clouds](https://open.spotify.com/album/5viICibskFftesQNvvyIOh) | 2:16 | 2026-02-20 | 2026-03-30 |
 | [Clouds Over Twin Lakes](https://open.spotify.com/track/1oAb696G6NX1Ym6OUxjT0F) | [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [Jessie Lee Thetford](https://open.spotify.com/artist/2bLOeO0xeK04raTh2PaBTZ) | [Clouds Over Twin Lakes](https://open.spotify.com/album/51wOX6TzkGsn0sw85zpdsW) | 2:25 | 2025-02-20 | 2025-03-23 |

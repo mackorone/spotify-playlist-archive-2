@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 142595,
+  "num_followers": 142610,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAADDOoSaGNW8MNsvcy8sNKv/",
+  "snapshot_id": "ak2TAAAAAAAezVJOODm7b1hcFXT5i69E",
   "tracks": [
     {
       "added_at": null,
@@ -290,15 +290,11 @@
         {
           "name": "Blondie",
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        },
-        {
-          "name": "Craig Leon",
-          "url": "https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs"
         }
       ],
-      "duration_ms": 202826,
-      "name": "Rip Her To Shreds - Remastered 2001",
-      "url": "https://open.spotify.com/track/23yUwzz4CQ8yzQ65ATN6Ds"
+      "duration_ms": 194533,
+      "name": "X Offender - Remastered 2001",
+      "url": "https://open.spotify.com/track/2Yn7a6j6jWq9xzQFP2myDS"
     },
     {
       "added_at": null,
@@ -358,11 +354,15 @@
         {
           "name": "Blondie",
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        },
+        {
+          "name": "Craig Leon",
+          "url": "https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs"
         }
       ],
-      "duration_ms": 194533,
-      "name": "X Offender - Remastered 2001",
-      "url": "https://open.spotify.com/track/2Yn7a6j6jWq9xzQFP2myDS"
+      "duration_ms": 202826,
+      "name": "Rip Her To Shreds - Remastered 2001",
+      "url": "https://open.spotify.com/track/23yUwzz4CQ8yzQ65ATN6Ds"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pollinator",
-        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 259493,
-      "name": "Fun",
-      "url": "https://open.spotify.com/track/7sEVKrakaGrSvzHIQhWOTI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 380480,
       "name": "Ll\u00e1mame (Call Me)",
       "url": "https://open.spotify.com/track/3m2zWFVdi4LXMSw6YyQ6PP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pollinator",
+        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 259493,
+      "name": "Fun",
+      "url": "https://open.spotify.com/track/7sEVKrakaGrSvzHIQhWOTI"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pollinator",
-        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 246586,
-      "name": "Already Naked",
-      "url": "https://open.spotify.com/track/1ssGNcB3gVAXxFOaTcj0nE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Loud",
         "url": "https://open.spotify.com/album/63EtAEjDS7lOyOl2lJeriG"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 179613,
       "name": "Soul Train",
       "url": "https://open.spotify.com/track/7CmF9SN9l1pM0frifWOR7w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pollinator",
+        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 246586,
+      "name": "Already Naked",
+      "url": "https://open.spotify.com/track/1ssGNcB3gVAXxFOaTcj0nE"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pollinator",
-        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
+        "name": "Live",
+        "url": "https://open.spotify.com/album/6c3BB1ehH8VjFTj0lDXLoz"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 188480,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/03oGhqpLGW9N2ius8TIpen"
+      "duration_ms": 218760,
+      "name": "One Way Or Another - Live",
+      "url": "https://open.spotify.com/track/3l0VXECEIHBasR2gYKezNO"
     }
   ],
   "unique_name": "This Is Blondie",

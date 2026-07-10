@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. Pussy Riot
+> welcome to our universe ft\. Jazmin Bean
 
-1,313 songs - 2 day 16 hr 45 min
+1,316 songs - 2 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Boogiepop Blitzkrieg Blob](https://open.spotify.com/track/6XvkIu9TeTEV2dzT89Be5m) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Boogiepop Blitzkrieg Blob](https://open.spotify.com/album/18EEaZHJFCpZ14Eqx04lyC) | 1:40 | 2026-05-28 |  |
 | [Boohoo Baby](https://open.spotify.com/track/0EAGLQH0rTEL8EBCMg7DDn) | [Snaggletooth](https://open.spotify.com/artist/0xjDbJ1jJAQTW5bc51cA1n) | [Boohoo Baby](https://open.spotify.com/album/64sDvIdIurVKqwWfC2arTV) | 4:26 | 2022-09-22 | 2023-03-03 |
 | [BOOM](https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [BOOM](https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7) | 2:22 | 2023-02-24 | 2023-08-25 |
+| [borderline](https://open.spotify.com/track/55sxV91ONwaNz31R3HESnV) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [borderline](https://open.spotify.com/album/4RuzjsaUT6UbmPRITLM54U) | 4:24 | 2026-07-10 |  |
 | [bored](https://open.spotify.com/track/5Y3JG4ksAoLnFyRxDvvwis) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 2:30 | 2022-11-18 | 2023-02-09 |
 | [BORED](https://open.spotify.com/track/3CaCddaop8aqxQp6MRP4SF) | [LUzA CULT](https://open.spotify.com/artist/3PNeM7iJ589do6dmOP26IT), [SAVE Az](https://open.spotify.com/artist/41zUkY4aPJbXRPGdDH25y7) | [BORED](https://open.spotify.com/album/5r8GfaEZnFZp7uwMSsm4ut) | 2:02 | 2021-12-27 | 2022-01-06 |
 | [BOSH!](https://open.spotify.com/track/6Hf2I4DtHyXVRig1SufGMh) | [Nova May](https://open.spotify.com/artist/4XWuvGGim0dmoXngwZmGGs) | [BOSH!](https://open.spotify.com/album/2M0lXqbRFCsXQO6IxZVwx9) | 2:23 | 2024-06-06 | 2024-07-12 |
@@ -920,6 +921,7 @@
 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 | 2024-08-15 | 2024-10-11 |
 | [Piranha](https://open.spotify.com/track/3CsNQEi0aX88xnSVkWUH3i) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Piranha](https://open.spotify.com/album/4VEd0SDgR3oRQZHz8fgCa4) | 2:48 | 2025-05-15 | 2025-08-29 |
 | [pity party \(hyperpunk remix\)](https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [pity party \(hyperpunk remix\)](https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF) | 2:36 | 2022-02-11 | 2022-09-10 |
+| [Placeholder](https://open.spotify.com/track/5V1kxhCYOixHKKei4c4EwE) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Placeholder](https://open.spotify.com/album/2LsamWtPqjSpB4rNICcaRp) | 4:14 | 2026-07-10 |  |
 | [PLASTIC](https://open.spotify.com/track/7KF3yW2VZX7Ddu6gPREdUf) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja) | [PLASTIC](https://open.spotify.com/album/3Mgup1DdHwGNSejCMZz5Et) | 2:43 | 2022-07-07 | 2022-08-05 |
 | [Plastic Purse](https://open.spotify.com/track/51XzyvRLe38bouIZCv5itX) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:23 | 2022-10-06 | 2022-12-01 |
 | [Platform Shoes](https://open.spotify.com/track/46TJdLSSO0fsKWOWgdQwb1) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Platform Shoes](https://open.spotify.com/album/1gxsz0IxDEDGzFOTjHxFAv) | 3:06 | 2025-09-04 | 2026-03-13 |
@@ -1041,6 +1043,7 @@
 | [Silicone Mold](https://open.spotify.com/track/5laawOQLotQGCjP2IP5Yz6) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Silicone Mold](https://open.spotify.com/album/46rTeYoEFFpluo0Sq0JZdY) | 2:26 | 2025-06-13 | 2025-07-04 |
 | [Silly Boy](https://open.spotify.com/track/1IWDJT71pjQgy9h3P8UwtG) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Silly Boy](https://open.spotify.com/album/48X1aV5CY95zpcnHiE6WGf) | 3:18 | 2022-02-04 | 2022-04-01 |
 | [silly putty](https://open.spotify.com/track/3AG923oYOUn7ESzHTkthKL) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [silly putty](https://open.spotify.com/album/4HdrJc0K45gBQQSBIkOhx1) | 2:46 | 2021-12-27 | 2022-02-04 |
+| [Silvering Blade](https://open.spotify.com/track/6DLGneuo55lvn0l0rEuDZm) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Silvering Blade](https://open.spotify.com/album/57CgVtSaVRPX3nHZ37IMWn) | 3:53 | 2026-07-10 |  |
 | [SILYMI](https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [SILYMI](https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg) | 2:29 | 2024-01-26 | 2024-06-14 |
 | [SINS](https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [SINS](https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra) | 2:57 | 2022-08-25 | 2022-10-29 |
 | [SIRENCORE](https://open.spotify.com/track/2MZyaw5TUlYexpTEw7NyK7) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [SIRENCORE](https://open.spotify.com/album/6n2tAWkRPOee0giRslcyb4) | 3:03 | 2023-10-19 | 2024-04-12 |

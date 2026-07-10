@@ -1,6 +1,6 @@
 {
   "description": "Para subir la temperatura. Foto: Lebr\u00f3n Brothers",
-  "num_followers": 126319,
+  "num_followers": 126358,
   "original_name": "Salsa Brava",
   "owner": {
     "name": "Spotify",
@@ -483,26 +483,6 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "Baile Con Cortijo",
-        "url": "https://open.spotify.com/album/0GlMPsTR4U1x1k3TkUcK7o"
-      },
-      "artists": [
-        {
-          "name": "Cortijo Y Su Combo",
-          "url": "https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma"
-        },
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "El Negro Bemb\u00f3n",
-      "url": "https://open.spotify.com/track/5HBSFow30fXy0bPsCji7b9"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
         "name": "Ray Castro Presenta...Lo Mejor De Conjunto Clasico Con Tito Nieves",
         "url": "https://open.spotify.com/album/778A8QJMXVPaCnGwOlAK3y"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 252066,
       "name": "Se\u00f1ora Ley",
       "url": "https://open.spotify.com/track/5DtgZDktHvgUPW6tfOWXm8"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "Baile Con Cortijo",
+        "url": "https://open.spotify.com/album/0GlMPsTR4U1x1k3TkUcK7o"
+      },
+      "artists": [
+        {
+          "name": "Cortijo Y Su Combo",
+          "url": "https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma"
+        },
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "El Negro Bemb\u00f3n",
+      "url": "https://open.spotify.com/track/5HBSFow30fXy0bPsCji7b9"
     },
     {
       "added_at": "2024-06-24 22:23:31",

@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Vaazha 2",
-  "num_followers": 702833,
+  "num_followers": 703251,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE63EsyD4RHM5plUQ9iGRi/L+uRd",
+  "snapshot_id": "AAAAANSX0e8W3sW3WCHcf0gX07+qMtQO",
   "tracks": [
     {
       "added_at": "2026-04-14 06:35:29",
@@ -323,6 +323,34 @@
       "duration_ms": 174315,
       "name": "Akale",
       "url": "https://open.spotify.com/track/7sNZfck5oFf1Rt1e8MCVIa"
+    },
+    {
+      "added_at": "2026-07-09 08:59:40",
+      "album": {
+        "name": "Junoon",
+        "url": "https://open.spotify.com/album/1KsuaRR5LFGtvFZFIzqTNZ"
+      },
+      "artists": [
+        {
+          "name": "Hanan Shaah",
+          "url": "https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi"
+        },
+        {
+          "name": "Ali Najih",
+          "url": "https://open.spotify.com/artist/1QqoemJY9JDakoFrFpP1Qo"
+        },
+        {
+          "name": "Fathima Jahaan",
+          "url": "https://open.spotify.com/artist/2iqMauzUdnUyiCOUeOFYD6"
+        },
+        {
+          "name": "Chris Wayne",
+          "url": "https://open.spotify.com/artist/5GkVAEDUPPeV3INTYATuzc"
+        }
+      ],
+      "duration_ms": 169491,
+      "name": "Junoon",
+      "url": "https://open.spotify.com/track/6iKA99V8G2YxHBKbQU9dDv"
     },
     {
       "added_at": "2026-02-09 06:30:29",
@@ -1175,26 +1203,6 @@
       "duration_ms": 234428,
       "name": "Munthirichar",
       "url": "https://open.spotify.com/track/0133cEuPQ9SQcqHqjgFtbS"
-    },
-    {
-      "added_at": "2024-09-09 04:58:27",
-      "album": {
-        "name": "Vaazha (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5o8BwHw4pg8DZZzKGJocJx"
-      },
-      "artists": [
-        {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
-        },
-        {
-          "name": "electronic kili",
-          "url": "https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX"
-        }
-      ],
-      "duration_ms": 270375,
-      "name": "Eyy Banane",
-      "url": "https://open.spotify.com/track/3K8t6RzlYZSCkVjI3kczzD"
     },
     {
       "added_at": "2024-10-07 11:42:17",

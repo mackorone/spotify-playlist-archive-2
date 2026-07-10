@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Harsha Vardhan
 
-808 songs - 1 day 21 hr 48 min
+809 songs - 1 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Annakkiliye \- Giant Music India \- Originals](https://open.spotify.com/track/06CHfSu5mGkoF1ZipodSr1) | [Jagadeesh Kumar Balraj](https://open.spotify.com/artist/6vS08NxeEwSRd6Tdt3iMwt), [Giant Music India](https://open.spotify.com/artist/4i50YpLVKgBRGFModpDZPb) | [Annakkiliye \- Giant Music India \- Originals](https://open.spotify.com/album/20jo4olA3JTth10K4pRDU5) | 3:44 | 2024-08-09 | 2025-01-18 |
 | [Anniku Raathiri](https://open.spotify.com/track/3bf3IZr936SL0d45m8xlWo) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Anniku Raathiri](https://open.spotify.com/album/30o1lvT2QicxFzEwo2nloP) | 3:13 | 2023-12-15 | 2024-01-03 |
 | [AntiDrugAnthem](https://open.spotify.com/track/17MWq7zp3NOgLO6Q6at59I) | [Gaana Vinoth](https://open.spotify.com/artist/7N1TA78vXJ1x66NWgSKMMB), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I) | [AntiDrugAnthem](https://open.spotify.com/album/39cUVaQfAHTSGOSZnu2OqB) | 1:51 | 2024-07-09 | 2024-08-11 |
+| [Anu Anuvai](https://open.spotify.com/track/7rsNofmYWP8dRnHAulqs1c) | [Santhan Anebajagane](https://open.spotify.com/artist/7C0XpfZfYRJrDXK0lA2LSq), [Manasa](https://open.spotify.com/artist/0asVUyWU3aDOUQwSRRx9m9) | [Anu Anuvai](https://open.spotify.com/album/36LU93YaVWnC4oSOdWzMj3) | 3:12 | 2026-07-09 |  |
 | [Arakkiye](https://open.spotify.com/track/1wAuEy3S7IMkb4e2z71TKk) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Julius Gnanagar](https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V) | [Arakkiye](https://open.spotify.com/album/2wz4GI1MXwXTZMtJFFBsp7) | 3:47 | 2024-09-20 | 2025-02-01 |
 | [Arasi](https://open.spotify.com/track/7F1LALzf4IhVQ7azvc9trG) | [Haakash](https://open.spotify.com/artist/4srKc15ZZzjnAbr6NYhju0) | [Arasi](https://open.spotify.com/album/5j4nerLGYSNhuVKaoPAGlh) | 3:12 | 2026-05-14 |  |
 | [Atha Mava](https://open.spotify.com/track/0Xq6zAQzmQTiBckOU4BSVA) | [Neon Kaathadi](https://open.spotify.com/artist/3wQhNdGTR70QKpK8LgHde1) | [Atha Mava](https://open.spotify.com/album/0A6W0ReWy6DnU5NmcqMyK9) | 3:03 | 2025-06-04 | 2026-01-15 |

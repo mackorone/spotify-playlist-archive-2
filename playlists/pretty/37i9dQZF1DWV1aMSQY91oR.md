@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: J Hus
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,855 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,861 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 25 | [Pray](https://open.spotify.com/track/5i4I5Okh2ZHEsRNyTA5d96) | [Swisha T](https://open.spotify.com/artist/1KNGrimbkpYFO5jKiBSCLZ) | [Pray](https://open.spotify.com/album/3kicfD8T2Q5115mcFR1BxQ) | 1:45 |
 | 26 | [Where There's Smoke](https://open.spotify.com/track/3XmOtJlidyOhoyzFeifX3s) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Where There's Smoke](https://open.spotify.com/album/15QTGtc7kfICZkfHgw0fYd) | 3:10 |
 | 27 | [Ringin](https://open.spotify.com/track/6YvKDYJg5NwaK7K35qOD7D) | [Yonny](https://open.spotify.com/artist/6FHpiparqe3BdjjfHyNXNJ) | [Ringin](https://open.spotify.com/album/7BULccnerd1Gg0uhYGjcLb) | 2:41 |
-| 28 | [Is Loving Really Bad](https://open.spotify.com/track/0glAAFulS8PHqD1b35sKz6) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Is Loving Really Bad](https://open.spotify.com/album/5gD0Dn9wTqvAq4O73895dI) | 2:28 |
+| 28 | [Is Loving Really Bad](https://open.spotify.com/track/0glAAFulS8PHqD1b35sKz6) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Is Loving Really Bad](https://open.spotify.com/album/5gD0Dn9wTqvAq4O73895dI) | 2:26 |
 | 29 | [Big Body](https://open.spotify.com/track/5f2yyclq8IXZjPyKStXAS1) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w), [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Big Body](https://open.spotify.com/album/0J8gVZ4zvMdssAACSx0zGF) | 2:09 |
 | 30 | [ERA](https://open.spotify.com/track/4gjNkDYdkcdn5GJxbYOHtH) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [NA$\-T](https://open.spotify.com/artist/3eIngzdlD3RwDe6ngF0BN4) | [ERA](https://open.spotify.com/album/3Kz6gWnDwAknqI7ZQ8a1qX) | 3:12 |
 | 31 | [Outside](https://open.spotify.com/track/66akDgOGJi139ys0umhBns) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Outside](https://open.spotify.com/album/5zl5XG90weUWtbROL75GCT) | 3:04 |

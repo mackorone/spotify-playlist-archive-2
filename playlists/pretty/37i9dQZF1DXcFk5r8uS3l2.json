@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Keb' Mo'",
-  "num_followers": 1069593,
+  "num_followers": 1069610,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -635,18 +635,22 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Man's World",
-        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
+        "name": "Close To Me (with Madison Hughes)",
+        "url": "https://open.spotify.com/album/5cW5YQbeLiPAllNclJEjfG"
       },
       "artists": [
         {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+          "name": "The Deltaz",
+          "url": "https://open.spotify.com/artist/2Ux8BRWypmo461Vdorxx9G"
+        },
+        {
+          "name": "Madison Hughes",
+          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
         }
       ],
-      "duration_ms": 162290,
-      "name": "Man's World",
-      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
+      "duration_ms": 178869,
+      "name": "Close To Me (with Madison Hughes)",
+      "url": "https://open.spotify.com/track/3us3Ixr3f3gvG18X1SVe94"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -667,6 +671,22 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
+        "name": "Man's World",
+        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 162290,
+      "name": "Man's World",
+      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
         "name": "Ain't Half Bad",
         "url": "https://open.spotify.com/album/58QcvID20nLWQmJT0MB694"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 135000,
       "name": "Ain't Half Bad",
       "url": "https://open.spotify.com/track/7rXzaSJTLTkALZbTcjUmjj"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
-        "name": "Close To Me (with Madison Hughes)",
-        "url": "https://open.spotify.com/album/5cW5YQbeLiPAllNclJEjfG"
-      },
-      "artists": [
-        {
-          "name": "The Deltaz",
-          "url": "https://open.spotify.com/artist/2Ux8BRWypmo461Vdorxx9G"
-        },
-        {
-          "name": "Madison Hughes",
-          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
-        }
-      ],
-      "duration_ms": 178869,
-      "name": "Close To Me (with Madison Hughes)",
-      "url": "https://open.spotify.com/track/3us3Ixr3f3gvG18X1SVe94"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/089nElUHIdo4Olf4N1vC7T"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 202080,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/2gY5dl6JfG1dTQu6r0aGsK"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
         "name": "Let's Walk",
         "url": "https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 260458,
       "name": "You Still Got Me - Edit",
       "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/089nElUHIdo4Olf4N1vC7T"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 202080,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/2gY5dl6JfG1dTQu6r0aGsK"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
+        "name": "I\u2019m Done Runnin'",
+        "url": "https://open.spotify.com/album/4If94wqhZcb8clR5HOT9tt"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 185751,
+      "name": "I'm Done Runnin'",
+      "url": "https://open.spotify.com/track/19qNi1II1ih7b1Aq236oPh"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/0Skl6by8nLaYc2GnRUqJoa"
       },
@@ -1095,18 +1111,18 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "I\u2019m Done Runnin'",
-        "url": "https://open.spotify.com/album/4If94wqhZcb8clR5HOT9tt"
+        "name": "Flang Dang",
+        "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
       },
       "artists": [
         {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+          "name": "Andy Fairweather Low",
+          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
         }
       ],
-      "duration_ms": 185751,
-      "name": "I'm Done Runnin'",
-      "url": "https://open.spotify.com/track/19qNi1II1ih7b1Aq236oPh"
+      "duration_ms": 218746,
+      "name": "99 Ways",
+      "url": "https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1127,38 +1143,6 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Flang Dang",
-        "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
-      },
-      "artists": [
-        {
-          "name": "Andy Fairweather Low",
-          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "99 Ways",
-      "url": "https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
-        "name": "Best Believe",
-        "url": "https://open.spotify.com/album/1mqN7FXBKeUsL7mNxyOmE9"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 228192,
-      "name": "Best Believe",
-      "url": "https://open.spotify.com/track/25RTJhQWS4t1pjGqSV0i6U"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 227453,
       "name": "Crossroads",
       "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "Best Believe",
+        "url": "https://open.spotify.com/album/1mqN7FXBKeUsL7mNxyOmE9"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 228192,
+      "name": "Best Believe",
+      "url": "https://open.spotify.com/track/25RTJhQWS4t1pjGqSV0i6U"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "You Can't Love Me",
-        "url": "https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 251946,
-      "name": "You Can't Love Me",
-      "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
         "name": "Medium Raw",
         "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 255573,
       "name": "I Could Just Die Right Now",
       "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "You Can't Love Me",
+        "url": "https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 251946,
+      "name": "You Can't Love Me",
+      "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1365,6 +1365,22 @@
       "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
     },
     {
+      "added_at": "2026-07-03 04:00:33",
+      "album": {
+        "name": "Days Of Unrest",
+        "url": "https://open.spotify.com/album/48Pi5bbsz8A0ND4rAEfrX1"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Can\u2019t Stand Still",
+      "url": "https://open.spotify.com/track/34DP3hpitJRMYp3nUtc2jC"
+    },
+    {
       "added_at": "2026-06-05 04:00:36",
       "album": {
         "name": "Save Me",
@@ -1397,54 +1413,6 @@
       "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
     },
     {
-      "added_at": "2026-07-03 04:00:33",
-      "album": {
-        "name": "Days Of Unrest",
-        "url": "https://open.spotify.com/album/48Pi5bbsz8A0ND4rAEfrX1"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Can\u2019t Stand Still",
-      "url": "https://open.spotify.com/track/34DP3hpitJRMYp3nUtc2jC"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
-        "name": "Shoulda Been",
-        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
-      },
-      "artists": [
-        {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
-        }
-      ],
-      "duration_ms": 157125,
-      "name": "Man I Used To Be",
-      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 199874,
-      "name": "Deep Stays Down",
-      "url": "https://open.spotify.com/track/2IbB995oiJcMJXTfkMHioG"
-    },
-    {
       "added_at": "2026-06-05 04:00:36",
       "album": {
         "name": "Bring Me Back Home Again",
@@ -1459,38 +1427,6 @@
       "duration_ms": 223173,
       "name": "Bring Me Back Home Again",
       "url": "https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
-        "name": "The Circle Session, 2023",
-        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 216838,
-      "name": "Oceans Of Emotions - The Circle Session, 2023",
-      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
-        "name": "Companions",
-        "url": "https://open.spotify.com/album/53QsuWFAeqe5ihfdsL8VsN"
-      },
-      "artists": [
-        {
-          "name": "Adam Douglas",
-          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
-        }
-      ],
-      "duration_ms": 225106,
-      "name": "My Own Disguise",
-      "url": "https://open.spotify.com/track/0vIbWBOYgO6TTkWe4ZarrH"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1511,18 +1447,66 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Crisscross Way",
-        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
+        "name": "Companions",
+        "url": "https://open.spotify.com/album/53QsuWFAeqe5ihfdsL8VsN"
       },
       "artists": [
         {
-          "name": "ggwendolyn",
-          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
+          "name": "Adam Douglas",
+          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
         }
       ],
-      "duration_ms": 164344,
-      "name": "Crisscross Way",
-      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
+      "duration_ms": 225106,
+      "name": "My Own Disguise",
+      "url": "https://open.spotify.com/track/0vIbWBOYgO6TTkWe4ZarrH"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "Shoulda Been",
+        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "duration_ms": 157125,
+      "name": "Man I Used To Be",
+      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "The Circle Session, 2023",
+        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 216838,
+      "name": "Oceans Of Emotions - The Circle Session, 2023",
+      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 199874,
+      "name": "Deep Stays Down",
+      "url": "https://open.spotify.com/track/2IbB995oiJcMJXTfkMHioG"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1539,6 +1523,22 @@
       "duration_ms": 335658,
       "name": "Cover Me",
       "url": "https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "Crisscross Way",
+        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
+      },
+      "artists": [
+        {
+          "name": "ggwendolyn",
+          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
+        }
+      ],
+      "duration_ms": 164344,
+      "name": "Crisscross Way",
+      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
     },
     {
       "added_at": "2026-06-05 04:00:36",

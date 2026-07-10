@@ -1,13 +1,29 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 136432,
+  "num_followers": 136433,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABp64o3W+WK0QoqYY7c7N7au066Z",
+  "snapshot_id": "AAAAAJg2h81cTMW4ctVFzijTwKmmlEgm",
   "tracks": [
+    {
+      "added_at": "2026-07-09 15:00:35",
+      "album": {
+        "name": "Note of Mothership",
+        "url": "https://open.spotify.com/album/4VReJ4pdw1dOJzIq2p1hlf"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "duration_ms": 178995,
+      "name": "Note of Mothership",
+      "url": "https://open.spotify.com/track/2Qj1RsGrDD9laGR9QqrBvV"
+    },
     {
       "added_at": "2026-06-25 15:27:06",
       "album": {
@@ -25,6 +41,38 @@
       "url": "https://open.spotify.com/track/5atolq5rBAf9XkfqILXXga"
     },
     {
+      "added_at": "2026-07-09 15:00:35",
+      "album": {
+        "name": "Berceuse",
+        "url": "https://open.spotify.com/album/2jzxuEms2gCyOtKCmNQ4Bw"
+      },
+      "artists": [
+        {
+          "name": "Kanata yukino",
+          "url": "https://open.spotify.com/artist/1kiSclwSQ9GYt5WOSL1kCl"
+        }
+      ],
+      "duration_ms": 181950,
+      "name": "Berceuse",
+      "url": "https://open.spotify.com/track/7zG9qefGCuFmUdvPyxFuwD"
+    },
+    {
+      "added_at": "2026-06-25 15:27:06",
+      "album": {
+        "name": "\u30d1\u30fc\u30de\u30cd\u30f3\u30c8\u30d6\u30eb\u30fc",
+        "url": "https://open.spotify.com/album/2IjvDgFlK1cfjMySGzyPJA"
+      },
+      "artists": [
+        {
+          "name": "Keiichi Sokabe",
+          "url": "https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq"
+        }
+      ],
+      "duration_ms": 231091,
+      "name": "\u30d1\u30fc\u30de\u30cd\u30f3\u30c8\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/2G25QjpNSbfpAh2ufBxvwT"
+    },
+    {
       "added_at": "2026-04-17 03:28:41",
       "album": {
         "name": "Asleep Among Endives",
@@ -39,58 +87,6 @@
       "duration_ms": 306271,
       "name": "Asleep Among Endives",
       "url": "https://open.spotify.com/track/0RD3NWnHlyBCRwgNZy8QAn"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
-        "name": "\u5287\u5834",
-        "url": "https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc"
-      },
-      "artists": [
-        {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
-        }
-      ],
-      "duration_ms": 353958,
-      "name": "\u591c\u306e\u6b6f\u8eca",
-      "url": "https://open.spotify.com/track/4qof5qVArYf5hD1cfIQAhu"
-    },
-    {
-      "added_at": "2026-06-26 00:36:41",
-      "album": {
-        "name": "Nanimo Iranai",
-        "url": "https://open.spotify.com/album/6aZNQyY1juQJMLet4jUezz"
-      },
-      "artists": [
-        {
-          "name": "Miu Sakamoto",
-          "url": "https://open.spotify.com/artist/53MtqYIMvV1Z2L6FCh9f3h"
-        }
-      ],
-      "duration_ms": 449408,
-      "name": "Nanimo Iranai",
-      "url": "https://open.spotify.com/track/6qKI1B2KMkz7Z4k7FrFufU"
-    },
-    {
-      "added_at": "2026-05-07 16:20:57",
-      "album": {
-        "name": "Fine On The Outside",
-        "url": "https://open.spotify.com/album/6yEIhS2ltxor30hKSmucbx"
-      },
-      "artists": [
-        {
-          "name": "Miyuki Hatakeyama",
-          "url": "https://open.spotify.com/artist/1EoUchyiJeXQqhGBANhbiI"
-        },
-        {
-          "name": "\u5c0f\u6c60\u9f8d\u5e73",
-          "url": "https://open.spotify.com/artist/6nPhPmANjuDUgp0pTGiMdg"
-        }
-      ],
-      "duration_ms": 255477,
-      "name": "Fine On The Outside",
-      "url": "https://open.spotify.com/track/7BaO8K0um4NNzntfUZ0sz0"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -195,18 +191,18 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/6wiUifStt7pdwsn1k3ROfH"
+        "name": "\u5287\u5834",
+        "url": "https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc"
       },
       "artists": [
         {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
         }
       ],
-      "duration_ms": 364333,
-      "name": "\u30a8\u30a4\u30ea\u30a2\u30f3\u30ba",
-      "url": "https://open.spotify.com/track/5NclFtKE9l08xM8XhDKyzx"
+      "duration_ms": 353958,
+      "name": "\u591c\u306e\u6b6f\u8eca",
+      "url": "https://open.spotify.com/track/4qof5qVArYf5hD1cfIQAhu"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -223,6 +219,42 @@
       "duration_ms": 285334,
       "name": "\u751f\u6d3b\u306e\u5831\u544a",
       "url": "https://open.spotify.com/track/4hHdBdQHbf2bDyes288SQK"
+    },
+    {
+      "added_at": "2026-05-07 16:20:57",
+      "album": {
+        "name": "Fine On The Outside",
+        "url": "https://open.spotify.com/album/6yEIhS2ltxor30hKSmucbx"
+      },
+      "artists": [
+        {
+          "name": "Miyuki Hatakeyama",
+          "url": "https://open.spotify.com/artist/1EoUchyiJeXQqhGBANhbiI"
+        },
+        {
+          "name": "\u5c0f\u6c60\u9f8d\u5e73",
+          "url": "https://open.spotify.com/artist/6nPhPmANjuDUgp0pTGiMdg"
+        }
+      ],
+      "duration_ms": 255477,
+      "name": "Fine On The Outside",
+      "url": "https://open.spotify.com/track/7BaO8K0um4NNzntfUZ0sz0"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/6wiUifStt7pdwsn1k3ROfH"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 364333,
+      "name": "\u30a8\u30a4\u30ea\u30a2\u30f3\u30ba",
+      "url": "https://open.spotify.com/track/5NclFtKE9l08xM8XhDKyzx"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -405,52 +437,20 @@
       "url": "https://open.spotify.com/track/3pIbaGD2BPo1DTUj8Ujlct"
     },
     {
-      "added_at": "2026-04-17 03:28:41",
+      "added_at": "2026-06-26 00:36:41",
       "album": {
-        "name": "25\u30b3\u76ee\u306e\u67d3\u8272\u4f53",
-        "url": "https://open.spotify.com/album/5zfbtBsNrERjobaqJSokUI"
+        "name": "Nanimo Iranai",
+        "url": "https://open.spotify.com/album/6aZNQyY1juQJMLet4jUezz"
       },
       "artists": [
         {
-          "name": "Mone Kamishiraishi",
-          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
+          "name": "Miu Sakamoto",
+          "url": "https://open.spotify.com/artist/53MtqYIMvV1Z2L6FCh9f3h"
         }
       ],
-      "duration_ms": 329000,
-      "name": "25\u30b3\u76ee\u306e\u67d3\u8272\u4f53",
-      "url": "https://open.spotify.com/track/0oWj7v21R5YMIJCHVCADUp"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
-        "name": "\u706f\u706b",
-        "url": "https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM"
-      },
-      "artists": [
-        {
-          "name": "Yuga",
-          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
-        }
-      ],
-      "duration_ms": 219861,
-      "name": "\u706f\u706b",
-      "url": "https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
-        "name": "\u98a8\u306b\u4e57\u308b",
-        "url": "https://open.spotify.com/album/756umARKInXvcyVNY1fq4p"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "\u00e9toile",
-      "url": "https://open.spotify.com/track/4tNJEcWkXQQDes9P7cdNwA"
+      "duration_ms": 449408,
+      "name": "Nanimo Iranai",
+      "url": "https://open.spotify.com/track/6qKI1B2KMkz7Z4k7FrFufU"
     },
     {
       "added_at": "2026-07-02 15:00:05",
@@ -535,6 +535,74 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
+        "name": "25\u30b3\u76ee\u306e\u67d3\u8272\u4f53",
+        "url": "https://open.spotify.com/album/5zfbtBsNrERjobaqJSokUI"
+      },
+      "artists": [
+        {
+          "name": "Mone Kamishiraishi",
+          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
+        }
+      ],
+      "duration_ms": 329000,
+      "name": "25\u30b3\u76ee\u306e\u67d3\u8272\u4f53",
+      "url": "https://open.spotify.com/track/0oWj7v21R5YMIJCHVCADUp"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "\u706f\u706b",
+        "url": "https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM"
+      },
+      "artists": [
+        {
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+        }
+      ],
+      "duration_ms": 219861,
+      "name": "\u706f\u706b",
+      "url": "https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "\u98a8\u306b\u4e57\u308b",
+        "url": "https://open.spotify.com/album/756umARKInXvcyVNY1fq4p"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "\u00e9toile",
+      "url": "https://open.spotify.com/track/4tNJEcWkXQQDes9P7cdNwA"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "bless",
+        "url": "https://open.spotify.com/album/3R2OcOFPS54VirGmQaTB3D"
+      },
+      "artists": [
+        {
+          "name": "Tainaka Sachi",
+          "url": "https://open.spotify.com/artist/5rY2Eeg72edCtV9S35mAhY"
+        },
+        {
+          "name": "YUKA",
+          "url": "https://open.spotify.com/artist/6lzdZtpppU6ERZwqfhq1NJ"
+        }
+      ],
+      "duration_ms": 311880,
+      "name": "bless",
+      "url": "https://open.spotify.com/track/5jHrTGJQ7Nw7XDOfd5N4CF"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
         "name": "\u3042\u306b\u3085\u30fc",
         "url": "https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH"
       },
@@ -587,26 +655,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "bless",
-        "url": "https://open.spotify.com/album/3R2OcOFPS54VirGmQaTB3D"
-      },
-      "artists": [
-        {
-          "name": "Tainaka Sachi",
-          "url": "https://open.spotify.com/artist/5rY2Eeg72edCtV9S35mAhY"
-        },
-        {
-          "name": "YUKA",
-          "url": "https://open.spotify.com/artist/6lzdZtpppU6ERZwqfhq1NJ"
-        }
-      ],
-      "duration_ms": 311880,
-      "name": "bless",
-      "url": "https://open.spotify.com/track/5jHrTGJQ7Nw7XDOfd5N4CF"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "\u785d\u5b50\u306e\u7dda",
         "url": "https://open.spotify.com/album/0n4ltZwQnNA4rVtnInnJPq"
       },
@@ -623,22 +671,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u3042\u306b\u3085\u30fc",
-        "url": "https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH"
-      },
-      "artists": [
-        {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        }
-      ],
-      "duration_ms": 290400,
-      "name": "Odakyu Line",
-      "url": "https://open.spotify.com/track/0Fq7ovIDzp0swrLuSCR9WW"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "\u611b\u306e\u661f\u5c51\u3092",
         "url": "https://open.spotify.com/album/0aiLZfAW75Lsdr1oHplrxV"
       },
@@ -651,6 +683,22 @@
       "duration_ms": 265898,
       "name": "\u611b\u306e\u661f\u5c51\u3092",
       "url": "https://open.spotify.com/track/66zpkRPnd7OF05z1TZ83AP"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "\u3042\u306b\u3085\u30fc",
+        "url": "https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "duration_ms": 290400,
+      "name": "Odakyu Line",
+      "url": "https://open.spotify.com/track/0Fq7ovIDzp0swrLuSCR9WW"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1087,22 +1135,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "TWO MOON",
-        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
-      },
-      "artists": [
-        {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
-        }
-      ],
-      "duration_ms": 240323,
-      "name": "Mellow",
-      "url": "https://open.spotify.com/track/1NI7SxSO3lRQJdMHxH6KJd"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "\u97f3\u697d\u3068\u79c1",
         "url": "https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0"
       },
@@ -1115,6 +1147,22 @@
       "duration_ms": 392173,
       "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
       "url": "https://open.spotify.com/track/5ZwdNfFGj1ut9PzGgynYev"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "TWO MOON",
+        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 240323,
+      "name": "Mellow",
+      "url": "https://open.spotify.com/track/1NI7SxSO3lRQJdMHxH6KJd"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1167,22 +1215,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "TWO MOON",
-        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
-      },
-      "artists": [
-        {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
-        }
-      ],
-      "duration_ms": 287827,
-      "name": "\u7a93",
-      "url": "https://open.spotify.com/track/3brPAMmcLZRtiS7CyCO8Fc"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "50th Anniversary Special A Tribute of Hayashi Tetsuji - Saudade -",
         "url": "https://open.spotify.com/album/5xsy4iKnYN4g8uM3KWiMLf"
       },
@@ -1195,6 +1227,22 @@
       "duration_ms": 382866,
       "name": "\u5317\u30a6\u30a4\u30f3\u30b0 -CLASSIC-",
       "url": "https://open.spotify.com/track/07OiQkDWUwgatxU5WUWxXN"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "TWO MOON",
+        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 287827,
+      "name": "\u7a93",
+      "url": "https://open.spotify.com/track/3brPAMmcLZRtiS7CyCO8Fc"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1321,38 +1369,6 @@
       "url": "https://open.spotify.com/track/2p1CDsp3PCIt6juRzQWsgP"
     },
     {
-      "added_at": "2026-06-25 15:27:06",
-      "album": {
-        "name": "\u30d1\u30fc\u30de\u30cd\u30f3\u30c8\u30d6\u30eb\u30fc",
-        "url": "https://open.spotify.com/album/2IjvDgFlK1cfjMySGzyPJA"
-      },
-      "artists": [
-        {
-          "name": "Keiichi Sokabe",
-          "url": "https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq"
-        }
-      ],
-      "duration_ms": 231091,
-      "name": "\u30d1\u30fc\u30de\u30cd\u30f3\u30c8\u30d6\u30eb\u30fc",
-      "url": "https://open.spotify.com/track/2G25QjpNSbfpAh2ufBxvwT"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
-        "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
-        "url": "https://open.spotify.com/album/1lzbuzGrY7sbkFv9UioqZh"
-      },
-      "artists": [
-        {
-          "name": "Aoi Teshima",
-          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
-      "url": "https://open.spotify.com/track/54ZwbqBhemxQo3fJyyuOeR"
-    },
-    {
       "added_at": "2026-04-17 03:28:41",
       "album": {
         "name": "A Rainy Night in NY",
@@ -1371,18 +1387,18 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u30ca\u30b9\u30c6\u30a3\u30fb\u30cf\u30a6\u30b9",
-        "url": "https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC"
+        "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
+        "url": "https://open.spotify.com/album/1lzbuzGrY7sbkFv9UioqZh"
       },
       "artists": [
         {
-          "name": "Arata Manako",
-          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
+          "name": "Aoi Teshima",
+          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
         }
       ],
-      "duration_ms": 134015,
-      "name": "\u30ca\u30b9\u30c6\u30a3\u30fb\u30cf\u30a6\u30b9",
-      "url": "https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF"
+      "duration_ms": 266000,
+      "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/54ZwbqBhemxQo3fJyyuOeR"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1423,6 +1439,22 @@
       "duration_ms": 305213,
       "name": "\u7f8e\u8c8c\u306e\u9752\u7a7a\uff08Bibo no Aozora\uff09 - Geimori - Medley",
       "url": "https://open.spotify.com/track/0TfFwWDeuphsK3Cx6MAcJL"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "\u30ca\u30b9\u30c6\u30a3\u30fb\u30cf\u30a6\u30b9",
+        "url": "https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC"
+      },
+      "artists": [
+        {
+          "name": "Arata Manako",
+          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
+        }
+      ],
+      "duration_ms": 134015,
+      "name": "\u30ca\u30b9\u30c6\u30a3\u30fb\u30cf\u30a6\u30b9",
+      "url": "https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1475,22 +1507,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "good life, good people",
-        "url": "https://open.spotify.com/album/4EsbxeEeLAAr5EOymJIZnB"
-      },
-      "artists": [
-        {
-          "name": "Soushi Sakiyama",
-          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
-        }
-      ],
-      "duration_ms": 234840,
-      "name": "\u60aa\u9b54",
-      "url": "https://open.spotify.com/track/5yACHWDsUsC5n1QJuVTqMp"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "\u3070\u304b\u306e\u3046\u305f",
         "url": "https://open.spotify.com/album/0Q8mx1yHMWGG69vXrpiDrX"
       },
@@ -1503,6 +1519,22 @@
       "duration_ms": 121513,
       "name": "\u8001\u592b\u5a66",
       "url": "https://open.spotify.com/track/2vbXsUHfLlmH2svOb5oDv6"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "good life, good people",
+        "url": "https://open.spotify.com/album/4EsbxeEeLAAr5EOymJIZnB"
+      },
+      "artists": [
+        {
+          "name": "Soushi Sakiyama",
+          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
+        }
+      ],
+      "duration_ms": 234840,
+      "name": "\u60aa\u9b54",
+      "url": "https://open.spotify.com/track/5yACHWDsUsC5n1QJuVTqMp"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1647,38 +1679,6 @@
       "duration_ms": 230204,
       "name": "Tokyo Family Restaurant",
       "url": "https://open.spotify.com/track/18UGSP9lcwe1661N9K10hE"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
-        "name": "\u666f\u8272\u4e00\u7a7a",
-        "url": "https://open.spotify.com/album/2XAZByUJaGLU5E60QB3zKb"
-      },
-      "artists": [
-        {
-          "name": "KUKIKODAN",
-          "url": "https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS"
-        }
-      ],
-      "duration_ms": 376300,
-      "name": "\u6642\u306e\u89e3\u6c7a",
-      "url": "https://open.spotify.com/track/7KmjtQirbhpj3aeLu3BA7l"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
-        "name": "ITAI",
-        "url": "https://open.spotify.com/album/1iQaLxmV7ExoTtOoD5pQdx"
-      },
-      "artists": [
-        {
-          "name": "\u30b9\u30fc\u30d1\u30fc\u767b\u5c71\u90e8",
-          "url": "https://open.spotify.com/artist/5evTVfgO40erEFI5qBxtQ9"
-        }
-      ],
-      "duration_ms": 256607,
-      "name": "ITAI",
-      "url": "https://open.spotify.com/track/7q7eyW6Ivwh5GDDEQwsShh"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

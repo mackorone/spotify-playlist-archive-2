@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 47501,
+  "num_followers": 47505,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAACOZ3ysiBIl8pH/y6WZmIVW",
+  "snapshot_id": "ak2TAAAAAACzCFC6yGd5TWd1wh2O3fUV",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Decisi\u00f3n",
+        "url": "https://open.spotify.com/album/3hLv1eT4pM0Lv0F97ZyWG1"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Enga\u00f1ada",
+      "url": "https://open.spotify.com/track/4FJD2QyCnn7BfU0jQsgWMF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quiero Verte",
         "url": "https://open.spotify.com/album/0THRwX1TyZekzsCWn3wXxK"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 213812,
       "name": "Quiero Verte",
       "url": "https://open.spotify.com/track/18Qh0YfnFo5wMb8P9756yK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Decisi\u00f3n",
-        "url": "https://open.spotify.com/album/3hLv1eT4pM0Lv0F97ZyWG1"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "Enga\u00f1ada",
-      "url": "https://open.spotify.com/track/4FJD2QyCnn7BfU0jQsgWMF"
     },
     {
       "added_at": null,
@@ -971,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mi Me Respetas",
-        "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 150148,
-      "name": "A Mi Me Respetas",
-      "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vozes",
         "url": "https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 213173,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/7iOdfDA960q7Y4TQhaN3eA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Mi Me Respetas",
+        "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 150148,
+      "name": "A Mi Me Respetas",
+      "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
     }
   ],
   "unique_name": "This Is Ana B\u00e1rbara",

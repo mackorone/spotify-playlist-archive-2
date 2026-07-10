@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover:  Young Miko",
-  "num_followers": 65371,
+  "num_followers": 65367,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,26 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
+        "name": "Nobody (feat. Monaleo) [Remix]",
+        "url": "https://open.spotify.com/album/6tT8zJ9w55GkEcy4eFbnA9"
+      },
+      "artists": [
+        {
+          "name": "Trim",
+          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "duration_ms": 149963,
+      "name": "Nobody (feat. Monaleo) - Remix",
+      "url": "https://open.spotify.com/track/06D4xKbpIT0tXXE2JEysBp"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
         "name": "Mad About It",
         "url": "https://open.spotify.com/album/4VjiPFf4esJ94jdP6DYtfR"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 169024,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/2IcSuogCYSlvO7S9gG4eBo"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
-        "name": "Nobody (feat. Monaleo) [Remix]",
-        "url": "https://open.spotify.com/album/6tT8zJ9w55GkEcy4eFbnA9"
-      },
-      "artists": [
-        {
-          "name": "Trim",
-          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
-        },
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        }
-      ],
-      "duration_ms": 149963,
-      "name": "Nobody (feat. Monaleo) - Remix",
-      "url": "https://open.spotify.com/track/06D4xKbpIT0tXXE2JEysBp"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -535,18 +535,18 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "Big Mama",
-        "url": "https://open.spotify.com/album/7v3EosXU86nuE9Z8BZXc1O"
+        "name": "Pink Pocket Pistol",
+        "url": "https://open.spotify.com/album/4YZryAHr8tsQ73nVV0V81v"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
         }
       ],
-      "duration_ms": 176320,
-      "name": "Chrome Heart Diaper Bag",
-      "url": "https://open.spotify.com/track/0czIeeoUmB2SiXyZs4H8cL"
+      "duration_ms": 220474,
+      "name": "Raining Inside",
+      "url": "https://open.spotify.com/track/5IXPx6rTgCCEOLQnlq1cpa"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -567,18 +567,18 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "Pink Pocket Pistol",
-        "url": "https://open.spotify.com/album/4YZryAHr8tsQ73nVV0V81v"
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/7v3EosXU86nuE9Z8BZXc1O"
       },
       "artists": [
         {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 220474,
-      "name": "Raining Inside",
-      "url": "https://open.spotify.com/track/5IXPx6rTgCCEOLQnlq1cpa"
+      "duration_ms": 176320,
+      "name": "Chrome Heart Diaper Bag",
+      "url": "https://open.spotify.com/track/0czIeeoUmB2SiXyZs4H8cL"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "You Can Have Him",
-        "url": "https://open.spotify.com/album/2sLwRHswcURQ3Oe0chhcN8"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 195924,
-      "name": "You Can Have Him",
-      "url": "https://open.spotify.com/track/2Fk3aGFUTMniC8tNSJWe4S"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
         "name": "Living Room Floor",
         "url": "https://open.spotify.com/album/2TnsBQiuT5RJe7W4jmsScO"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 259435,
       "name": "Living Room Floor",
       "url": "https://open.spotify.com/track/3AP4jRZHwh2mmFJvSz9riQ"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
+        "name": "You Can Have Him",
+        "url": "https://open.spotify.com/album/2sLwRHswcURQ3Oe0chhcN8"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 195924,
+      "name": "You Can Have Him",
+      "url": "https://open.spotify.com/track/2Fk3aGFUTMniC8tNSJWe4S"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/2BN4p5eqhjLPUc17RGAogQ"
-      },
-      "artists": [
-        {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
-        }
-      ],
-      "duration_ms": 321120,
-      "name": "Actor",
-      "url": "https://open.spotify.com/track/48bePG5thRkA5xttNPRB8c"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
         "name": "Papercut",
         "url": "https://open.spotify.com/album/5q3xwmFq7Hgfyq6UUCgwpf"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 161843,
       "name": "On Demand",
       "url": "https://open.spotify.com/track/2AvfSSr0Wazcs643jYBzoO"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/2BN4p5eqhjLPUc17RGAogQ"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "duration_ms": 321120,
+      "name": "Actor",
+      "url": "https://open.spotify.com/track/48bePG5thRkA5xttNPRB8c"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -899,18 +899,18 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/6RxsiU29Br7Wu4ZdVwfHhr"
+        "name": "Diary Of A Young Lit B*tch",
+        "url": "https://open.spotify.com/album/5fmJLK908UzunIOHhZE5Au"
       },
       "artists": [
         {
-          "name": "Kyndal",
-          "url": "https://open.spotify.com/artist/4VFMlrDAmF0wwua3FVD8Qx"
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
         }
       ],
-      "duration_ms": 164106,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/42svR3QErydGM6Un0qcBSI"
+      "duration_ms": 102500,
+      "name": "What you Know",
+      "url": "https://open.spotify.com/track/2tbxEdJWzM7vT2OR8zLDFs"
     }
   ],
   "unique_name": "EQUAL US",

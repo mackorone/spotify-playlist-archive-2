@@ -2,13 +2,14 @@
 
 ### [Malkia](https://open.spotify.com/playlist/37i9dQZF1DX16usLA71XGW)
 
-> East Africa queens in their music bag\. Cover: Mimi Mars
+> East Africa queens in their music bag\. Cover: Akoth Jumadi
 
-197 songs - 10 hr 25 min
+199 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aki Sioni \- Magik Mix](https://open.spotify.com/track/4z03vgtWutFuDlGaIgFkJa) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Aki Sioni](https://open.spotify.com/album/4x5B7vS4XOQJqIUhndL1tr) | 3:10 | 2024-09-27 |  |
+| [Aleko](https://open.spotify.com/track/3T7Ld2R2Uf1hwSBziP28C1) | [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo) | [Aleko](https://open.spotify.com/album/7Lq0wvh72moA75509rm0HM) | 5:17 | 2026-07-10 |  |
 | [Amini](https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Love Struck](https://open.spotify.com/album/1XtJucTeSOb8USgV6x2Bzw) | 3:36 | 2024-05-24 | 2026-05-13 |
 | [Anayefaa](https://open.spotify.com/track/6WJpstQ3jrreN8NPFGcj1a) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Anayefaa](https://open.spotify.com/album/4gZlkGvAaeJWyZbygBFoUi) | 3:19 | 2022-07-18 | 2022-09-21 |
 | [Available](https://open.spotify.com/track/68kSXTp3h9GuVRJCXAXrmt) | [We are Nubia](https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN) | [Needs](https://open.spotify.com/album/2WOfCrcK8E7VwIpPebY4JR) | 3:36 | 2026-05-12 |  |
@@ -51,6 +52,7 @@
 | [Halichachi](https://open.spotify.com/track/6SWpURhRKx8IN6IXzCSV2S) | [Amber Lulu](https://open.spotify.com/artist/7eaEAJe6zgz9QVfEEP3dUg), [Kayumba](https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk) | [Halichachi](https://open.spotify.com/album/5Uz3x5jAmxJuUQBDEFLhvb) | 3:25 | 2022-07-18 | 2023-09-15 |
 | [Hate That I Love You](https://open.spotify.com/track/4Z5WbiyKtTMFWgqK7ErFKv) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Hate That I Love You](https://open.spotify.com/album/6mNgkMoCmIAuQuFDTfMu8M) | 2:37 | 2026-06-11 |  |
 | [Haya](https://open.spotify.com/track/42hRf2eAhvWnGqAUGnLHh1) | [Moraa](https://open.spotify.com/artist/3KXgIveLaCqHIvZPex0HE8) | [Feelings Station](https://open.spotify.com/album/6JQB8PzILyZHsYEMLejthu) | 2:16 | 2024-01-29 | 2026-05-13 |
+| [Heri](https://open.spotify.com/track/4Z02oNHC2HIeZs8fjMd5dz) | [Attara](https://open.spotify.com/artist/7q9Oam3CwOj6bP7JfSPApN) | [Heri](https://open.spotify.com/album/0jJs3OouMtskYLEJriZFaP) | 2:06 | 2026-07-10 |  |
 | [HIGH](https://open.spotify.com/track/6d8TFhchDxGs6SppX2AXOo) | [Mwiyeria Ess](https://open.spotify.com/artist/1rQ7I0qqPWCp4pQDcvt2im) | [HIGH](https://open.spotify.com/album/7KRSyRYblNpRGfHBPgs3dt) | 3:59 | 2022-07-18 | 2023-06-02 |
 | [HIVI NA HIVO](https://open.spotify.com/track/0lbf1IBDUh0ZRfSefOpFZT) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [HIVI NA HIVO](https://open.spotify.com/album/2qkkyBXKPpsFw4Lkb0qafh) | 3:07 | 2022-07-18 | 2022-11-18 |
 | [Home](https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [Home](https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW) | 4:12 | 2022-07-18 | 2024-06-01 |
@@ -159,7 +161,7 @@
 | [SARE](https://open.spotify.com/track/6PBPQBCwEecZHzuTKoKjiq) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [SARE](https://open.spotify.com/album/2dCE4ncQB0yQ0HAC1B6yyE) | 2:54 | 2022-07-18 | 2022-09-02 |
 | [Sepa](https://open.spotify.com/track/2DX696tkiXR8x4BlPrjVSP) | [Appy](https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv) | [Sepa](https://open.spotify.com/album/79bqeBFrIvVCYcJgLXV1Ml) | 3:04 | 2023-02-03 | 2025-08-22 |
 | [Sina Bae](https://open.spotify.com/track/6lW5Bt2zFGbCOovCXlC1ZI) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Love Art Lust](https://open.spotify.com/album/69sV0GeXbVxcEnEGewksb8) | 2:56 | 2023-06-01 | 2024-07-05 |
-| [Sirubala](https://open.spotify.com/track/56mjsDsH8FDJQmivRFJk01) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Sirubala](https://open.spotify.com/album/11M99Bc7YivvY8mnB899VP) | 3:18 | 2025-03-07 |  |
+| [Sirubala](https://open.spotify.com/track/56mjsDsH8FDJQmivRFJk01) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Sirubala](https://open.spotify.com/album/11M99Bc7YivvY8mnB899VP) | 3:18 | 2025-03-07 | 2026-07-10 |
 | [Sisi Ni Wale](https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Sisi Ni Wale](https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3) | 3:48 | 2024-01-29 | 2026-05-13 |
 | [Sita Sita](https://open.spotify.com/track/45Ii0U4wJk9YcIuPRYkLuJ) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Flavour](https://open.spotify.com/album/5YOqPJBwr15Z9RZOca5K1H) | 3:33 | 2023-05-11 | 2024-10-04 |
 | [Sitachelewa](https://open.spotify.com/track/2V8JCAL5fAYIuetBGKfj7X) | [Pryshon](https://open.spotify.com/artist/10tow6yKkH4OjXuZA0PR0w), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Gifted](https://open.spotify.com/album/0q80Hj7RGzccRcHTZcb0HY) | 3:54 | 2022-07-18 | 2024-04-19 |
@@ -202,7 +204,7 @@
 | [Yamenizidi](https://open.spotify.com/track/52Hrsu0VFAePA3n2iBJMTF) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Yamenizidi](https://open.spotify.com/album/0zYMkOpb7gzgoNzWyZ0yxq) | 3:35 | 2023-04-13 | 2025-08-22 |
 | [Yongeza](https://open.spotify.com/track/2rkITV0NVa5j0eRRXUrTI9) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [Yongeza](https://open.spotify.com/album/4WtFIQIxOVfIGm3C1uI2zf) | 3:10 | 2025-05-15 |  |
 | [Yule](https://open.spotify.com/track/5cBeuaV4kPJEvu4AuIZt1B) | [Liboi](https://open.spotify.com/artist/6HOD1hSjJf0TNjnWmt4nAp) | [Yule](https://open.spotify.com/album/5LHtoRzSsA6IQWF32z7ByY) | 5:09 | 2024-02-08 | 2025-12-19 |
-| [Zamani](https://open.spotify.com/track/60bfNCQoQ668j2CbTfzqZA) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Zamani](https://open.spotify.com/album/38KjNLFKtwaHr8Vxzmviwn) | 3:38 | 2024-02-23 |  |
+| [Zamani](https://open.spotify.com/track/60bfNCQoQ668j2CbTfzqZA) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Zamani](https://open.spotify.com/album/38KjNLFKtwaHr8Vxzmviwn) | 3:38 | 2024-02-23 | 2026-07-10 |
 | [Zawadi](https://open.spotify.com/track/4PDc1fFGZfK6DcjXh7qMxK) | [Nina Ogot](https://open.spotify.com/artist/70vJ4IvBtlCutfLNkxqoSu) | [Ukumbu.Ke](https://open.spotify.com/album/2fFmPvMzjFPRZluXAy0RBi) | 4:41 | 2024-05-24 | 2025-07-04 |
 | [Zetu Zetu](https://open.spotify.com/track/1zk5fviR2DwSYs8CZkhJ7j) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Zetu Zetu](https://open.spotify.com/album/7x7YZHSQ7XBl5plK0GUdWJ) | 2:36 | 2025-08-21 |  |
 

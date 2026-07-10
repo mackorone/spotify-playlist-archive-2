@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 9187,
+  "num_followers": 9188,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAClsLBthDB/PtLxjf7E70q3",
+  "snapshot_id": "ak2TAAAAAAD2wnkUR65Brtb0zk2icPUp",
   "tracks": [
     {
       "added_at": null,
@@ -315,18 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ojal\u00e1 Te Vaya Mal",
-        "url": "https://open.spotify.com/album/0hNOa6YQsez1orqmbIRu98"
+        "name": "Vida En Rosa Tour (En Vivo Desde El Palacio de los Deportes, CDMX)",
+        "url": "https://open.spotify.com/album/0wGZEBe38WBtZpn0B0fhI8"
       },
       "artists": [
+        {
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+        },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 180720,
-      "name": "Ojal\u00e1 Te Vaya Mal",
-      "url": "https://open.spotify.com/track/4ulHRZOvmzZBCxKqdXt6Ie"
+      "duration_ms": 265497,
+      "name": "A\u00fan As\u00ed Te Vas - En Vivo Desde El Palacio de los Deportes, CDMX",
+      "url": "https://open.spotify.com/track/0DunZVYfdXWHgl6U4b43Oe"
     },
     {
       "added_at": null,
@@ -363,22 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida En Rosa Tour (En Vivo Desde El Palacio de los Deportes, CDMX)",
-        "url": "https://open.spotify.com/album/0wGZEBe38WBtZpn0B0fhI8"
+        "name": "Ojal\u00e1 Te Vaya Mal",
+        "url": "https://open.spotify.com/album/0hNOa6YQsez1orqmbIRu98"
       },
       "artists": [
-        {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
-        },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 265497,
-      "name": "A\u00fan As\u00ed Te Vas - En Vivo Desde El Palacio de los Deportes, CDMX",
-      "url": "https://open.spotify.com/track/0DunZVYfdXWHgl6U4b43Oe"
+      "duration_ms": 180720,
+      "name": "Ojal\u00e1 Te Vaya Mal",
+      "url": "https://open.spotify.com/track/4ulHRZOvmzZBCxKqdXt6Ie"
     },
     {
       "added_at": null,
@@ -595,22 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DESPEDIDA",
-        "url": "https://open.spotify.com/album/3EpvmjKJlGBOwcSv2p4wVb"
+        "name": "Imperfecto",
+        "url": "https://open.spotify.com/album/5ldOIiMp33j3EbswWK0Ipv"
       },
       "artists": [
         {
-          "name": "Paco Miranda",
-          "url": "https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo"
+          "name": "Meri Deal",
+          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 216637,
-      "name": "DESPEDIDA",
-      "url": "https://open.spotify.com/track/4pTsCmLk3zEOSxjmznXVNI"
+      "duration_ms": 181181,
+      "name": "Imperfecto",
+      "url": "https://open.spotify.com/track/5V60OhB9WYqDhG8va96eCS"
     },
     {
       "added_at": null,
@@ -631,22 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imperfecto",
-        "url": "https://open.spotify.com/album/5ldOIiMp33j3EbswWK0Ipv"
+        "name": "DESPEDIDA",
+        "url": "https://open.spotify.com/album/3EpvmjKJlGBOwcSv2p4wVb"
       },
       "artists": [
         {
-          "name": "Meri Deal",
-          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+          "name": "Paco Miranda",
+          "url": "https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 181181,
-      "name": "Imperfecto",
-      "url": "https://open.spotify.com/track/5V60OhB9WYqDhG8va96eCS"
+      "duration_ms": 216637,
+      "name": "DESPEDIDA",
+      "url": "https://open.spotify.com/track/4pTsCmLk3zEOSxjmznXVNI"
     },
     {
       "added_at": null,
@@ -775,22 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfecto",
-        "url": "https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na"
+        "name": "Tributo A Una Leyenda Humberto Pab\u00f3n (Vol. 1)",
+        "url": "https://open.spotify.com/album/5PXqQ8FZPV5T3Q8BpmFEk8"
       },
       "artists": [
         {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 152050,
-      "name": "Perfecto",
-      "url": "https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8"
+      "duration_ms": 232000,
+      "name": "Coraz\u00f3n De Judas",
+      "url": "https://open.spotify.com/track/1p0OkY6apio6nHZnkijT7O"
     },
     {
       "added_at": null,
@@ -811,22 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tributo A Una Leyenda Humberto Pab\u00f3n (Vol. 1)",
-        "url": "https://open.spotify.com/album/5PXqQ8FZPV5T3Q8BpmFEk8"
+        "name": "Perfecto",
+        "url": "https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na"
       },
       "artists": [
         {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Coraz\u00f3n De Judas",
-      "url": "https://open.spotify.com/track/1p0OkY6apio6nHZnkijT7O"
+      "duration_ms": 152050,
+      "name": "Perfecto",
+      "url": "https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8"
     },
     {
       "added_at": null,

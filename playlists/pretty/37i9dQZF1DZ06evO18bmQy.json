@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 211366,
+  "num_followers": 211367,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAD4GQxfW4V2qmpbXwRN8Xsz",
+  "snapshot_id": "ak2TAAAAAAA8O6zCIXbFQhEri51LtVA+",
   "tracks": [
     {
       "added_at": null,
@@ -723,34 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O MENINO QUE QUERIA SER DEUS",
-        "url": "https://open.spotify.com/album/3wHxJMiiNBmAJaqFcB7llN"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        },
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/4735isrIwjAX0VY8IPlhhw"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/2nSZjzLqoQ2Afu2kiRvlhA"
-        }
-      ],
-      "duration_ms": 351978,
-      "name": "UFA",
-      "url": "https://open.spotify.com/track/4xkcrgWfbQqMW3P0zG0wa0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Olho de Tigre",
         "url": "https://open.spotify.com/album/1J5MVubFR95AEBMekVp5Dq"
       },
@@ -775,6 +747,34 @@
       "duration_ms": 238080,
       "name": "Olho de Tigre",
       "url": "https://open.spotify.com/track/5QoA1Ttcfi1OVCgRLxsVZN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O MENINO QUE QUERIA SER DEUS",
+        "url": "https://open.spotify.com/album/3wHxJMiiNBmAJaqFcB7llN"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/4735isrIwjAX0VY8IPlhhw"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/2nSZjzLqoQ2Afu2kiRvlhA"
+        }
+      ],
+      "duration_ms": 351978,
+      "name": "UFA",
+      "url": "https://open.spotify.com/track/4xkcrgWfbQqMW3P0zG0wa0"
     },
     {
       "added_at": null,
@@ -939,6 +939,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hist\u00f3rias da Minha \u00c1rea",
+        "url": "https://open.spotify.com/album/3NjTHK6FovpR3rHceaT5FE"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Bia Nogueira",
+          "url": "https://open.spotify.com/artist/7aOLFuqkyvr4VA70c4dMCl"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 250016,
+      "name": "O Cara de \u00d3culos",
+      "url": "https://open.spotify.com/track/6qL5zqdwgWjZZV6qmqbWzF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Depois do Baile",
         "url": "https://open.spotify.com/album/3tUkjGo50rgl56XOQhBjl4"
       },
@@ -987,30 +1011,6 @@
       "duration_ms": 632886,
       "name": "Depois do Baile",
       "url": "https://open.spotify.com/track/0XkH47qUbNA4YGdD4WEjAA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hist\u00f3rias da Minha \u00c1rea",
-        "url": "https://open.spotify.com/album/3NjTHK6FovpR3rHceaT5FE"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Bia Nogueira",
-          "url": "https://open.spotify.com/artist/7aOLFuqkyvr4VA70c4dMCl"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 250016,
-      "name": "O Cara de \u00d3culos",
-      "url": "https://open.spotify.com/track/6qL5zqdwgWjZZV6qmqbWzF"
     },
     {
       "added_at": null,

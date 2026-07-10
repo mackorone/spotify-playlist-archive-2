@@ -11762,7 +11762,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 154151,
       "name": "CLICK",
       "url": "https://open.spotify.com/track/5diLlqtaVPe2fBPllCFvMi"
@@ -27026,7 +27026,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 157346,
       "name": "Jackie \u039f'",
       "url": "https://open.spotify.com/track/3eki2WDPpHdejxehX147UA"
@@ -27724,7 +27724,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 186947,
       "name": "KAKO",
       "url": "https://open.spotify.com/track/28kpCoILnxmKUc6AMO6NEu"
@@ -51718,6 +51718,28 @@
       "duration_ms": 174315,
       "name": "Skoni & Kapnos",
       "url": "https://open.spotify.com/track/3Tm8kDi9atOtwMZRwr2807"
+    },
+    {
+      "album": {
+        "name": "SKONI TIS SELINIS",
+        "url": "https://open.spotify.com/album/6krtXhXq52iEqxDfLp50cF"
+      },
+      "artists": [
+        {
+          "name": "SIGMA",
+          "url": "https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow"
+        },
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204736,
+      "name": "SKONI TIS SELINIS",
+      "url": "https://open.spotify.com/track/0Q3l36g28MxaSk4jSxnwBE"
     },
     {
       "album": {

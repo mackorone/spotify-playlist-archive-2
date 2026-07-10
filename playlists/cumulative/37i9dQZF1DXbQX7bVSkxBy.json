@@ -1263,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "Can't Live Without You",
+        "url": "https://open.spotify.com/album/5fnZH4QL5lDe2r8IBzgeDA"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255452,
+      "name": "Can't Live Without You",
+      "url": "https://open.spotify.com/track/1JsxDZyYow7kVn7i4aP7O3"
+    },
+    {
+      "album": {
         "name": "Canopy",
         "url": "https://open.spotify.com/album/1at7LjqRsusfeqI7NbfVHv"
       },
@@ -5368,7 +5386,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 106111,
       "name": "Ikeze",
       "url": "https://open.spotify.com/track/0eVhIi4ISZc04b2sAH3r5j"

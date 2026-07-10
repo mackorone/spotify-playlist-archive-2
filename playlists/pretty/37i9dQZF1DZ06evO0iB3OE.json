@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAAqDYfVWKm4/rC+p670jlKM",
+  "snapshot_id": "ak2TAAAAAAAfsR3ogqJ4/Y0n6AqmnroX",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Que Se Fue",
-        "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 134320,
-      "name": "Con Que Me Pagas",
-      "url": "https://open.spotify.com/track/2EAabOFWset3x4EkvCJqaX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Mejores Corridos",
         "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 185906,
       "name": "Los Dos Jefes",
       "url": "https://open.spotify.com/track/4JOlwQcpmx3YhVUd5YfxR2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 134320,
+      "name": "Con Que Me Pagas",
+      "url": "https://open.spotify.com/track/2EAabOFWset3x4EkvCJqaX"
     },
     {
       "added_at": null,
@@ -643,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Enemigo P\u00fablico",
-        "url": "https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53"
+        "name": "Dejame",
+        "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
       },
       "artists": [
         {
           "name": "El Potro De Sinaloa",
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        },
+        {
+          "name": "Banda Sinaloense",
+          "url": "https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq"
         }
       ],
-      "duration_ms": 168613,
-      "name": "La Puerta Del Infierno",
-      "url": "https://open.spotify.com/track/5GQDiNkiaQLG8CPSBZrJ9C"
+      "duration_ms": 145402,
+      "name": "Dejame",
+      "url": "https://open.spotify.com/track/6rLYzSPsrs95tamhZ6oGrf"
     },
     {
       "added_at": null,
@@ -679,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dejame",
-        "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        },
-        {
-          "name": "Banda Sinaloense",
-          "url": "https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq"
-        }
-      ],
-      "duration_ms": 145402,
-      "name": "Dejame",
-      "url": "https://open.spotify.com/track/6rLYzSPsrs95tamhZ6oGrf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde el Rancho Bella Vista",
         "url": "https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Enemigo P\u00fablico",
+        "url": "https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 168613,
+      "name": "La Puerta Del Infierno",
+      "url": "https://open.spotify.com/track/5GQDiNkiaQLG8CPSBZrJ9C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Y Sigue la Mata Dando",
         "url": "https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb"
       },
@@ -731,26 +731,6 @@
       "duration_ms": 146580,
       "name": "Cuanto Tienes Cuanto Vales",
       "url": "https://open.spotify.com/track/533dQIJADShagV3sKG5JAZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Desde Las Tapias",
-        "url": "https://open.spotify.com/album/6yBguv4iIwJlyhhglOcPsW"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        },
-        {
-          "name": "Los Canelos De Durango",
-          "url": "https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ"
-        }
-      ],
-      "duration_ms": 189160,
-      "name": "Lamberto Verdugo - En Vivo Desde Las Tapias",
-      "url": "https://open.spotify.com/track/7gUCp7tdGA63B6VqXvTjyE"
     },
     {
       "added_at": null,
@@ -807,6 +787,26 @@
       "duration_ms": 186803,
       "name": "Que No Se Apague la Lumbre",
       "url": "https://open.spotify.com/track/6k4DozOPe9mZQzs7A9Nv6l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde Las Tapias",
+        "url": "https://open.spotify.com/album/6yBguv4iIwJlyhhglOcPsW"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        },
+        {
+          "name": "Los Canelos De Durango",
+          "url": "https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ"
+        }
+      ],
+      "duration_ms": 189160,
+      "name": "Lamberto Verdugo - En Vivo Desde Las Tapias",
+      "url": "https://open.spotify.com/track/7gUCp7tdGA63B6VqXvTjyE"
     },
     {
       "added_at": null,

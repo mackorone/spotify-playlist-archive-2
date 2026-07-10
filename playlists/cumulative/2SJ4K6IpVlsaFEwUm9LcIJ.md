@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: july\-august 2026 \(previous playlists archived on my profile\)
 
-1,034 songs - 2 day 15 hr 1 min
+1,036 songs - 2 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Ceffylau](https://open.spotify.com/track/16c7tL31q18QfNsFi6bXzR) | [Catrin Finch](https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818), [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc) | [Clychau Dibon](https://open.spotify.com/album/6sMLaItoTxTwETaIPYrEiv) | 5:23 | 2025-10-01 | 2025-11-15 |
 | [Celesta](https://open.spotify.com/track/43zrSh64eLYs8fpHbT20LJ) | [Azamiah](https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8) | [In Phases](https://open.spotify.com/album/5FYCzyWq5vcfhDLSTh9Sze) | 4:09 | 2024-02-13 | 2024-03-10 |
 | [Change](https://open.spotify.com/track/2JhIaeltCDCcp02K936tgx) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 4:14 | 2025-12-14 | 2025-12-28 |
+| [Changeling](https://open.spotify.com/track/5DIaZd2T8XohPHN72PkxTq) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN) | 7:16 | 2026-07-10 |  |
 | [Chasing Blue](https://open.spotify.com/track/2g1kSvIoQGINyhjnzma7bT) | [Daniel DaVinchy](https://open.spotify.com/artist/4PMpQNVTHYseyuy8gq73iO) | [Chasing Blue](https://open.spotify.com/album/3O2ZeAfmunYwTz6F8C4KzV) | 3:25 | 2025-07-09 | 2025-09-11 |
 | [China Cat Sunflower \- 2013 Remaster](https://open.spotify.com/track/63soSLcwqpJFJaI5OgnnC2) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Aoxomoxoa \(2013 Remaster\)](https://open.spotify.com/album/2IZe9ttqeMqwkv3dRXJRkd) | 3:42 | 2025-12-24 | 2025-12-27 |
 | [China Cat Sunflower \- Live in Paris 1972 Version](https://open.spotify.com/track/3iPYTo54a7gimA0kdp8x13) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Europe '72 \(Live; 2001 Remaster\)](https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9) | 5:32 | 2025-12-26 | 2026-01-15 |
@@ -388,6 +389,7 @@
 | [How To Teleport](https://open.spotify.com/track/45oY7hPnh7KvH7lGfVehsb) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Magic I Want U](https://open.spotify.com/album/6eNdafiqQJJmyrXFDoTWiM) | 3:26 | 2024-09-07 | 2024-11-14 |
 | [How Will We Turn Out?](https://open.spotify.com/track/4ERRwUZX0RlrRqOfsZdCJE) | [The Motifs](https://open.spotify.com/artist/4DMtkuaW5UoOXwNLJey0r3) | [I'm the One You Love...](https://open.spotify.com/album/4KhCaWzxeX8qIMlv6Xpwc0) | 2:36 | 2024-10-30 | 2024-11-14 |
 | [Hydra](https://open.spotify.com/track/3VNAzep1H7LuLJWWd7oeVX) | [Movietone](https://open.spotify.com/artist/71ZjnwAyCVUWd6UsMbRtqf) | [Peel Sessions](https://open.spotify.com/album/4GdnUQHVxyRlZpJJ6xIi07) | 4:01 | 2026-02-22 | 2026-03-13 |
+| [I Am The Key \- Key 103, Jan '89](https://open.spotify.com/track/3kHEQxN6i74s5BQpYquuLd) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's \(Deluxe Edition\)](https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW) | 3:04 | 2026-07-09 |  |
 | [I am your house](https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 4:26 | 2025-04-10 | 2025-05-09 |
 | [I Ate the Most](https://open.spotify.com/track/5Mjkrb43pfWNSt3dmztKjZ) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:06 | 2026-05-08 | 2026-07-06 |
 | [I B Yours](https://open.spotify.com/track/6fDyAzbpFIEyE9g4LoqlDD) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Time Was Gigantic......\. When We Were Kids](https://open.spotify.com/album/1pA18sbHzaYqzGKCtdGiY1) | 4:14 | 2025-01-26 | 2025-03-02 |
@@ -658,7 +660,7 @@
 | [One Step Up](https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:21 | 2024-01-24 | 2024-03-10 |
 | [One Stop](https://open.spotify.com/track/3VsRmRzYpLv4YpjSwbeP8J) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [One Stop](https://open.spotify.com/album/14XF8pdRSeyOI0MUbIpXAE) | 3:30 | 2026-03-12 | 2026-05-06 |
 | [Only People Can Save the World](https://open.spotify.com/track/7uGt9uDMoSaXFAHPKvGbJn) | [The Whatnauts](https://open.spotify.com/artist/2SFOkFzbmtkUJ5A6LcYPWB) | [On the Rocks](https://open.spotify.com/album/6QCGoXCij8HCBI4DwMGjZ6) | 4:44 | 2024-03-09 | 2024-05-16 |
-| [Only You](https://open.spotify.com/track/2qKkC9cODRjIlsdyEkSJLQ) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Portishead](https://open.spotify.com/album/3G36754KQVLyGuskraEAVA) | 4:59 | 2026-07-06 |  |
+| [Only You](https://open.spotify.com/track/2qKkC9cODRjIlsdyEkSJLQ) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Portishead](https://open.spotify.com/album/3G36754KQVLyGuskraEAVA) | 4:59 | 2026-07-06 | 2026-07-10 |
 | [Open Door](https://open.spotify.com/track/5aLwseyHgPRxyzqlCfIqal) | [Lifted](https://open.spotify.com/artist/3183eBpNb3nicV6VkhwCUL) | [Trellis](https://open.spotify.com/album/3RH41G95sJX1QEAlqiFbQX) | 4:53 | 2024-11-24 | 2025-01-12 |
 | [Open Up The Gate](https://open.spotify.com/track/3lTek1NhK7pHXt8VoiwDun) | [The Congos](https://open.spotify.com/artist/0nGxKkhmIzyu6bvuXrko1e) | [Heart Of The Congos](https://open.spotify.com/album/0FqUTYrs4FtPbav2Ry2I1M) | 4:21 | 2025-05-27 | 2025-07-04 |
 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 | 2025-07-17 | 2025-09-11 |

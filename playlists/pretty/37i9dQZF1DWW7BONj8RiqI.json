@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Voice",
-  "num_followers": 248512,
+  "num_followers": 248545,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Look Back",
-        "url": "https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP"
-      },
-      "artists": [
-        {
-          "name": "Boogy Rankss",
-          "url": "https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth"
-        },
-        {
-          "name": "Lyrikal",
-          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
-        }
-      ],
-      "duration_ms": 151250,
-      "name": "Look Back",
-      "url": "https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
         "name": "Lose Weight",
         "url": "https://open.spotify.com/album/3jHQ2GrFQlLS71PoqIpIRF"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 167999,
       "name": "Lose Weight",
       "url": "https://open.spotify.com/track/4ZxNX6lwbBJjOY3cg57L46"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
+        "name": "Look Back",
+        "url": "https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP"
+      },
+      "artists": [
+        {
+          "name": "Boogy Rankss",
+          "url": "https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth"
+        },
+        {
+          "name": "Lyrikal",
+          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "Look Back",
+      "url": "https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK"
     },
     {
       "added_at": "2026-07-02 16:13:31",

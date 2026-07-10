@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Édith Piaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,175 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,158 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,16 +64,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 54 | [Aline](https://open.spotify.com/track/17ODC17zbOv6MVBDiANvue) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Best Of](https://open.spotify.com/album/4XvvwnuEOPWWOexWJDbeYf) | 2:50 |
 | 55 | [Hier encore](https://open.spotify.com/track/0DXyFek0JfbNE34s2u2bDD) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 2:20 |
 | 56 | [Comment te dire adieu \- It Hurts to Say Goodbye](https://open.spotify.com/track/29GuoJqjg7aMxUmEO3XLEp) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Comment te dire adieu ?](https://open.spotify.com/album/5lX198dectE8fpkow4UXrf) | 2:26 |
-| 57 | [Amoureux de ma femme](https://open.spotify.com/track/6cT38LHvaN11gThHVVkDee) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [Les plus grandes chansons](https://open.spotify.com/album/4F6NYEBMBCvvIuj1RQv2vh) | 2:43 |
-| 58 | [La maladie d'amour](https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [La Maladie D'Amour](https://open.spotify.com/album/2VS8g9qRPdXFC3hQSIwmqK) | 3:30 |
-| 59 | [Je suis venu te dire que je m'en vais](https://open.spotify.com/track/35arjnsPj4gLO8aFclgexb) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Vu De L'Extérieur](https://open.spotify.com/album/352XdbgCcdCMStQtgVDX3X) | 3:19 |
+| 57 | [Poupée de cire, poupée de son](https://open.spotify.com/track/1OJcI2EzUidsTVl532wkWN) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [France Gall CD Story](https://open.spotify.com/album/31UwyKsz2yvAEUf98XD5Xb) | 2:33 |
+| 58 | [Amoureux de ma femme](https://open.spotify.com/track/6cT38LHvaN11gThHVVkDee) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [Les plus grandes chansons](https://open.spotify.com/album/4F6NYEBMBCvvIuj1RQv2vh) | 2:43 |
+| 59 | [La maladie d'amour](https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [La Maladie D'Amour](https://open.spotify.com/album/2VS8g9qRPdXFC3hQSIwmqK) | 3:30 |
 | 60 | [Emmenez Moi](https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 3:32 |
-| 61 | [Fais comme l'oiseau](https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais Comme L'Oiseau](https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn) | 3:06 |
-| 62 | [Vesoul](https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [Infiniment](https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf) | 3:06 |
-| 63 | [Parlez moi d'amour](https://open.spotify.com/track/6MqBuCt2rVBWQ0x23icnWc) | [Lucienne Boyer](https://open.spotify.com/artist/5KIyBfTJdvEzz2OxfVvsE6) | [Midnight in Paris \- French Classics](https://open.spotify.com/album/0kP8oCXy88fxa0hRhS1oV0) | 2:55 |
-| 64 | [Comme d'habitude](https://open.spotify.com/track/3oHpcWfXvtA6RrzgYahuAT) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Best Of](https://open.spotify.com/album/3ZU8JjHnH8JxGEKfrN7x16) | 4:13 |
+| 61 | [Je suis venu te dire que je m'en vais](https://open.spotify.com/track/35arjnsPj4gLO8aFclgexb) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Vu De L'Extérieur](https://open.spotify.com/album/352XdbgCcdCMStQtgVDX3X) | 3:19 |
+| 62 | [Fais comme l'oiseau](https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais Comme L'Oiseau](https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn) | 3:06 |
+| 63 | [Vesoul](https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [Infiniment](https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf) | 3:06 |
+| 64 | [Parlez moi d'amour](https://open.spotify.com/track/6MqBuCt2rVBWQ0x23icnWc) | [Lucienne Boyer](https://open.spotify.com/artist/5KIyBfTJdvEzz2OxfVvsE6) | [Midnight in Paris \- French Classics](https://open.spotify.com/album/0kP8oCXy88fxa0hRhS1oV0) | 2:55 |
 | 65 | [La bohème](https://open.spotify.com/track/1e9qVfNKLsWJZVjEYAzQyK) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 4:05 |
-| 66 | [Poupée de cire, poupée de son](https://open.spotify.com/track/1OJcI2EzUidsTVl532wkWN) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [France Gall CD Story](https://open.spotify.com/album/31UwyKsz2yvAEUf98XD5Xb) | 2:33 |
+| 66 | [Comme d'habitude](https://open.spotify.com/track/3oHpcWfXvtA6RrzgYahuAT) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Best Of](https://open.spotify.com/album/3ZU8JjHnH8JxGEKfrN7x16) | 4:13 |
 | 67 | [Les Mots Bleus](https://open.spotify.com/track/0iKhilpfx902LV9jUU5x30) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Les mots bleus](https://open.spotify.com/album/46kTt80CYge3BA2IWx4WRh) | 4:10 |
 | 68 | [J'ai deux amours](https://open.spotify.com/track/2UsWuHGtSGi3c7VsdeyQCg) | [Joséphine Baker](https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz) | [Musical Moments to Remember: Joséphine Baker, Vol\. 1 \(2014 Remastered\)](https://open.spotify.com/album/4jLdud0Asv42qDcssw0ahd) | 3:10 |
 | 69 | [Avec le temps](https://open.spotify.com/track/4zr0ivSuOhX7qwk0r3uk5E) | [Léo Ferré](https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo) | [Avec Le Temps \- Les Chansons D'Amour](https://open.spotify.com/album/641Qma5hnSs1OqudP24cfD) | 4:26 |

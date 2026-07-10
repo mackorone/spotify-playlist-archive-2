@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7420,
+  "num_followers": 7424,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAADYDWOxkcWLzWUBLXwAQEAX",
+  "snapshot_id": "ak2TAAAAAAAQrdyDT3m57DCMPosVNGO0",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AM I OKAY?!",
+        "url": "https://open.spotify.com/album/4Tku8dpR2O31BsilYVBw91"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 217662,
+      "name": "AM I OKAY?!",
+      "url": "https://open.spotify.com/track/7acblFUsVC2haLFRkHqlQZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shea Butter Baby",
         "url": "https://open.spotify.com/album/4H4zgSw27aH4HkJxLzZdCv"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 196652,
       "name": "Facetime (with Durand Bernarr) - Remix",
       "url": "https://open.spotify.com/track/36lhJvCzm7QxAHUCILGl0T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AM I OKAY?!",
-        "url": "https://open.spotify.com/album/4Tku8dpR2O31BsilYVBw91"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 217662,
-      "name": "AM I OKAY?!",
-      "url": "https://open.spotify.com/track/7acblFUsVC2haLFRkHqlQZ"
     },
     {
       "added_at": null,
@@ -103,26 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUR&",
-        "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 261500,
-      "name": "STUCK.",
-      "url": "https://open.spotify.com/track/7EXvZP4EJrwD9dVKMyKeGz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EP 8",
         "url": "https://open.spotify.com/album/5uerg4BPdbjGolQbku0DN4"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 184295,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/6EZhDRvp7JE0wb2wDsxkuc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DUR&",
+        "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 261500,
+      "name": "STUCK.",
+      "url": "https://open.spotify.com/track/7EXvZP4EJrwD9dVKMyKeGz"
     },
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/4qMSxLQ4cw8ZsQgX0V3o2R"
-      },
-      "artists": [
-        {
-          "name": "James Bambu",
-          "url": "https://open.spotify.com/artist/2afGhKp80uOinsYCrDr2Wn"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 227750,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/1FNH1V63OdaLf69OvEvQBK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Terrell One Million Show",
         "url": "https://open.spotify.com/album/3cAgKKxhswmZu3t8OC8Hr1"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 291620,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/2whrzPDuhdUfLYaE8xENIN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/4qMSxLQ4cw8ZsQgX0V3o2R"
+      },
+      "artists": [
+        {
+          "name": "James Bambu",
+          "url": "https://open.spotify.com/artist/2afGhKp80uOinsYCrDr2Wn"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 227750,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/1FNH1V63OdaLf69OvEvQBK"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
       "duration_ms": 222173,
       "name": "Lil Bit (feat. METTA)",
       "url": "https://open.spotify.com/track/2NOW1oBfJtkA1i4OASoKn4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Raw In Amsterdam (Live)",
-        "url": "https://open.spotify.com/album/2V6vqIHHdVfSvH7bMeAWEd"
-      },
-      "artists": [
-        {
-          "name": "Philip Lassiter",
-          "url": "https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 291053,
-      "name": "Bump The Man - Live",
-      "url": "https://open.spotify.com/track/5yWFIKczW4utUfbHkrZt7p"
     },
     {
       "added_at": null,

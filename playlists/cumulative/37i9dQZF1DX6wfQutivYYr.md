@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Geolier sulla cover della playlist con tutte le hit più 🔥🔥🔥
+> Angelina e Marco sulla cover della playlist con tutte le hit più 🔥🔥🔥
 
 355 songs - 18 hr 30 min
 

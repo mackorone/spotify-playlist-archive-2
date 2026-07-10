@@ -1,12 +1,12 @@
 {
   "description": "This is Architects. The essential tracks, all in one playlist.",
-  "num_followers": 90300,
+  "num_followers": 90320,
   "original_name": "This Is Architects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAD9CgSte8uWuvtpgQAmZUCg",
+  "snapshot_id": "ak2TAAAAAABb528MkwiNLyl1fTOUehMy",
   "tracks": [
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "the classic symptoms of a broken spirit",
-        "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
+        "name": "All Our Gods Have Abandoned Us",
+        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 259143,
-      "name": "burn down my house",
-      "url": "https://open.spotify.com/track/3Pysg3zpSc34Aj08HPbl78"
+      "duration_ms": 228017,
+      "name": "A Match Made in Heaven",
+      "url": "https://open.spotify.com/track/5QDDmrz819WmzBeQHZNhor"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 200800,
-      "name": "Blackhole",
-      "url": "https://open.spotify.com/track/04yjYHGB3aoyS3q7D7LiKy"
+      "duration_ms": 226166,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/5c3Nd8XUPfsO8MLUM1oa7O"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Our Gods Have Abandoned Us",
-        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
+        "name": "the classic symptoms of a broken spirit",
+        "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 228017,
-      "name": "A Match Made in Heaven",
-      "url": "https://open.spotify.com/track/5QDDmrz819WmzBeQHZNhor"
+      "duration_ms": 259143,
+      "name": "burn down my house",
+      "url": "https://open.spotify.com/track/3Pysg3zpSc34Aj08HPbl78"
     },
     {
       "added_at": null,
@@ -296,25 +296,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 226166,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/5c3Nd8XUPfsO8MLUM1oa7O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Holy Hell",
-        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 253973,
-      "name": "Holy Hell",
-      "url": "https://open.spotify.com/track/7z3Q4j4HJDSOZtbR5rbYdG"
+      "duration_ms": 200800,
+      "name": "Blackhole",
+      "url": "https://open.spotify.com/track/04yjYHGB3aoyS3q7D7LiKy"
     },
     {
       "added_at": null,
@@ -331,6 +315,22 @@
       "duration_ms": 171162,
       "name": "Nihilist",
       "url": "https://open.spotify.com/track/0LnNkDzIGaYKCvGbe5N9Wo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 253973,
+      "name": "Holy Hell",
+      "url": "https://open.spotify.com/track/7z3Q4j4HJDSOZtbR5rbYdG"
     },
     {
       "added_at": null,

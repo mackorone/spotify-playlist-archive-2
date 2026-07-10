@@ -2,9 +2,9 @@
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> 🍯🍯🍯<br/>Photo : JADE
+> 🍯🍯🍯<br/>Photo : BINO\*
 
-620 songs - 1 day 6 hr 36 min
+622 songs - 1 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [BAD GIRLS](https://open.spotify.com/track/1TtlUZyjlDxAU1bJUw7TuX) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [RESET](https://open.spotify.com/album/23lGhqrRevarvQiffZW90G) | 3:02 | 2024-02-01 | 2024-03-01 |
 | [Bad Mood](https://open.spotify.com/track/1LpsOvHQ77GmWNgp8mxNyp) | [Kyma](https://open.spotify.com/artist/6wrf5UOcbmUA5P9h76uYit) | [Red Cloud](https://open.spotify.com/album/0hOHi6J9qejpTNaUfRkcSS) | 2:20 | 2023-09-28 | 2023-10-27 |
 | [Bad rien que pour toi](https://open.spotify.com/track/3tWNxDHB4Rtum1fE4U64Yx) | [Kady](https://open.spotify.com/artist/4LQsz27cvpkFZ00qTtC1Lz) | [Émoi même](https://open.spotify.com/album/3fYmtE68JJjFM7aYyzpMuX) | 4:42 | 2025-05-15 | 2025-06-06 |
-| [balansoir](https://open.spotify.com/track/0eCBmHqITAj6CMLswCHV3N) | [HASNA](https://open.spotify.com/artist/30ZYb42MwDzkubaZm2GEoq) | [l'amour est à réinventer](https://open.spotify.com/album/4ZbL15jFIT6IBOZkOLWviv) | 3:29 | 2026-04-16 |  |
+| [balansoir](https://open.spotify.com/track/0eCBmHqITAj6CMLswCHV3N) | [HASNA](https://open.spotify.com/artist/30ZYb42MwDzkubaZm2GEoq) | [l'amour est à réinventer](https://open.spotify.com/album/4ZbL15jFIT6IBOZkOLWviv) | 3:29 | 2026-04-16 | 2026-07-10 |
 | [BAratin](https://open.spotify.com/track/7kBgw5DEkI6wp6RGyEnamF) | [VICTOR](https://open.spotify.com/artist/70KXknOC7uHe5dw3KTmMED) | [BAratin](https://open.spotify.com/album/50C1WM6TX0sA7GYKuVggBz) | 2:35 | 2026-03-26 | 2026-06-19 |
 | [BARBÈS](https://open.spotify.com/track/7JQZkNy5l5s8Sa05SGXvH8) | [Yend](https://open.spotify.com/artist/1ETAICxy3MJuIEmS8YWL4s) | [BARBÈS](https://open.spotify.com/album/6AZDR6fNjZzHvY0hoVslEG) | 2:46 | 2025-01-16 | 2025-02-28 |
 | [BBL](https://open.spotify.com/track/4vyW7yLnnO01ZIoZR21PIq) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [BBL](https://open.spotify.com/album/595vG7VzrjghpR8TlhgFaD) | 2:52 | 2024-04-04 | 2025-03-14 |
@@ -397,6 +397,7 @@
 | [MÂLE](https://open.spotify.com/track/5hcDdEW0Do38tgoYQMjTLT) | [Tamisha](https://open.spotify.com/artist/6h9iktwYq6f5sZ6vysvL1O) | [MÂLE](https://open.spotify.com/album/0AlDMomSvm7FF7T8RGzpon) | 3:09 | 2025-11-27 | 2026-01-23 |
 | [Médusa](https://open.spotify.com/track/3soB4XKjo5VW2wGsq6whEo) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y) | [Médusa](https://open.spotify.com/album/1cr6gnv8Qlh2sKRhpJTx2K) | 2:21 | 2026-07-02 |  |
 | [Même si](https://open.spotify.com/track/2qKaQs2leFuprBfviIewts) | [Mocaris](https://open.spotify.com/artist/5DpA6iFia7WBNhmj2M7q2j) | [Ginger Season 2](https://open.spotify.com/album/45zM9grYw3huSLPlgXpjwU) | 2:44 | 2024-02-15 | 2024-04-26 |
+| [NANANERE](https://open.spotify.com/track/3lDx7CLOfzWjZsWIAfxtOT) | [BINO\*](https://open.spotify.com/artist/5tbe22xZ7VzSgXAFQhoWiC) | [4PLAY](https://open.spotify.com/album/5v9GjkbqWTjqleEeHmGcQD) | 2:35 | 2026-07-09 |  |
 | [NBDY](https://open.spotify.com/track/4P2njhfma47xkcdVlEuXkL) | [KOKEÏNEJTD](https://open.spotify.com/artist/1QiNcFh9MLHHNvKxjntbsP) | [NBDY](https://open.spotify.com/album/0zYTDrnEc5EODxvX8SMuBV) | 2:05 | 2024-02-29 | 2024-04-12 |
 | [Ne pas déranger](https://open.spotify.com/track/1vBS7SOMSfW9Ap4CasUEqR) | [Soless](https://open.spotify.com/artist/5B0bNvzDNblvSEp9T0s20L) | [Ne pas déranger](https://open.spotify.com/album/1S531j6J6LwR9G2yOUzbN7) | 2:15 | 2025-11-13 | 2026-01-16 |
 | [Nicotine](https://open.spotify.com/track/2FHTgcplTV6yL9UjlVtK3m) | [HVDDOCK](https://open.spotify.com/artist/2VIJqCnSUPFwbtL0S6mUvT) | [Nicotine](https://open.spotify.com/album/51dLyWAkyogvr1XM2GYrGI) | 2:34 | 2024-10-03 | 2025-01-10 |
@@ -528,6 +529,7 @@
 | [Septembre](https://open.spotify.com/track/69oM9FG9MjQg8hmSfHMpiD) | [Mi Yoo](https://open.spotify.com/artist/5nrI4zcbwtB0NLi9O3fBlu) | [Septembre](https://open.spotify.com/album/2AcLdUpK98EXkGbBUZlOiD) | 2:23 | 2025-09-11 | 2025-11-14 |
 | [Seuil](https://open.spotify.com/track/4y9MxsGtYASkUyIKGGtdEH) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Héroïne\(s\)](https://open.spotify.com/album/5UU5HGSORbZ4aCalD2uWhU) | 3:25 | 2024-11-28 | 2025-09-19 |
 | [Sexe & the city](https://open.spotify.com/track/7w3Oy2C0Sp4ymfEiv1dLbK) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Sexe & the city](https://open.spotify.com/album/3XZvTKx5MxfalZwcJ3nECT) | 2:29 | 2025-11-20 | 2026-01-15 |
+| [Si elle demande](https://open.spotify.com/track/42GUegcNJubq8geCozIssi) | [Dienini](https://open.spotify.com/artist/5MCpw9P0BJ7vTFst9E6COK) | [Jusqu'à l'aube](https://open.spotify.com/album/26MONn92vJC2Z3UV3kSarj) | 2:52 | 2026-07-09 |  |
 | [Si J't'oubliais](https://open.spotify.com/track/0fML4zWjIwNwOOPtUZ3SBC) | [Mocaris](https://open.spotify.com/artist/5DpA6iFia7WBNhmj2M7q2j) | [Ginger Season](https://open.spotify.com/album/4kaZiL99Daa2VLA0VQl62o) | 3:46 | 2023-09-28 | 2024-02-16 |
 | [Si je reste](https://open.spotify.com/track/3CyZu7VYkNtU20zdqQqKBl) | [May Hi](https://open.spotify.com/artist/6M3tXpbSUNyON6g1O9fYDf) | [Si je reste](https://open.spotify.com/album/62vpOwtznSBvnBL7jd2rEA) | 3:00 | 2025-10-09 | 2025-11-07 |
 | [Si j’avais su](https://open.spotify.com/track/5XWWSnBxoSsFQbb0kpLjGQ) | [Ana](https://open.spotify.com/artist/2bvIIuEI2nMvfpTUIkbrYH) | [Si j’avais su](https://open.spotify.com/album/7icVd9EZl1GKAOYA7DgQTa) | 3:27 | 2026-04-09 | 2026-05-22 |
@@ -578,7 +580,7 @@
 | [Tous les deux \- version acoustique](https://open.spotify.com/track/7AE3xJuOyyukbbEMdLaXIJ) | [Svudvde](https://open.spotify.com/artist/5QKWzDESEU183DJckjnzMo) | [Tous les deux \(version acoustique\)](https://open.spotify.com/album/2H5Fngx8vdGkgvXEzHWpy8) | 2:22 | 2024-08-08 | 2024-10-11 |
 | [Tout essayé \- Acoustic version](https://open.spotify.com/track/77ZBaOziSr8gYC7r6o1RMh) | [MOORE](https://open.spotify.com/artist/0xCU6JJnQWVFOQd6Zcbtj5) | [Tout essayé \(Acoustic version\)](https://open.spotify.com/album/2u4dt36M3jpHIBh1CiXfk9) | 2:36 | 2023-09-28 | 2023-10-13 |
 | [Tout pour moi](https://open.spotify.com/track/3zyaLUK2HeTIxNC94sZT18) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [Tout pour moi](https://open.spotify.com/album/62kvXkB9AAw3FAiR1ieY1D) | 2:17 | 2025-08-28 | 2025-11-28 |
-| [Tout pour toi](https://open.spotify.com/track/2lkyILEN21Cbnb9tlwuuOo) | [Nka](https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz) | [Tout pour toi](https://open.spotify.com/album/0CCz8kxIMz9XgKU7JLTXrR) | 3:12 | 2026-04-23 |  |
+| [Tout pour toi](https://open.spotify.com/track/2lkyILEN21Cbnb9tlwuuOo) | [Nka](https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz) | [Tout pour toi](https://open.spotify.com/album/0CCz8kxIMz9XgKU7JLTXrR) | 3:12 | 2026-04-23 | 2026-07-10 |
 | [Tout recommencer](https://open.spotify.com/track/3jybB7p4kE9ROW1JqPxenP) | [Hind](https://open.spotify.com/artist/7hn0avwajECN2szcpBTBQr) | [Tout recommencer](https://open.spotify.com/album/5toFeOB6XFjieqy1xwCS3R) | 3:17 | 2025-10-09 | 2025-12-12 |
 | [Toute seule à la plage](https://open.spotify.com/track/2rSmqmk8SFCtuhlPiNwRGO) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Reverie](https://open.spotify.com/album/5newvs2aGEj6sYvNIECgiZ) | 2:38 | 2026-04-23 |  |
 | [toutes les fleurs](https://open.spotify.com/track/4105wlfhkrp2TfDJI6WdCB) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [les rêves sont dangereux](https://open.spotify.com/album/5nQ77Ms0SO65x0MASlVDBd) | 1:40 | 2024-12-12 | 2025-01-31 |

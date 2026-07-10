@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Teo Planell.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Poster Boy.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -2468,7 +2468,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 271487,
       "name": "Cheetah",
       "url": "https://open.spotify.com/track/4IXTSCVN2FgVCukmocfVka"
@@ -4168,7 +4168,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 196000,
       "name": "Dulcinea",
       "url": "https://open.spotify.com/track/1q02PqPVPSnZ3I5LcTr06r"
@@ -5208,6 +5208,24 @@
       "duration_ms": 125607,
       "name": "enamorau",
       "url": "https://open.spotify.com/track/5jS8ucQuG6zjl6iXRn3mrF"
+    },
+    {
+      "album": {
+        "name": "Encontrarme Contigo",
+        "url": "https://open.spotify.com/album/5knAELxSn0BZOb1nmVuD2U"
+      },
+      "artists": [
+        {
+          "name": "Esp\u00edritu System",
+          "url": "https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140198,
+      "name": "Encontrarme Contigo",
+      "url": "https://open.spotify.com/track/5PdbXImWW5Xi9UCKUSpBeF"
     },
     {
       "album": {
@@ -6433,6 +6451,24 @@
     },
     {
       "album": {
+        "name": "GUSTOSSO",
+        "url": "https://open.spotify.com/album/3k0fzcRiC2RRgcKgcXcLjR"
+      },
+      "artists": [
+        {
+          "name": "Juan Anselmo",
+          "url": "https://open.spotify.com/artist/59rrpl4VEJ34sIXu4JFp8W"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139215,
+      "name": "GUSTOSSO",
+      "url": "https://open.spotify.com/track/77na8BGFyju9OAUJSJN7j1"
+    },
+    {
+      "album": {
         "name": "HACER TEATRO",
         "url": "https://open.spotify.com/album/4QrD2b9rwY3O8acSduHOan"
       },
@@ -6560,7 +6596,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 234359,
       "name": "Hazte As\u00ed",
       "url": "https://open.spotify.com/track/23p63gg6ExDPBGZxa8vu7n"
@@ -8530,7 +8566,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 167640,
       "name": "Lo Volver\u00eda a Hacer",
       "url": "https://open.spotify.com/track/4iYdtnpvKaBXitcOGbCeS0"
@@ -8946,7 +8982,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 152901,
       "name": "Malo",
       "url": "https://open.spotify.com/track/47jmflHshtToQFN4iLBK6T"
@@ -10041,6 +10077,24 @@
     },
     {
       "album": {
+        "name": "motel",
+        "url": "https://open.spotify.com/album/0JLxnA13yoVztj82gK5NU3"
+      },
+      "artists": [
+        {
+          "name": "Poster Boy",
+          "url": "https://open.spotify.com/artist/2uQ5MPeAoOkb9B6dwBzjze"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260342,
+      "name": "motel",
+      "url": "https://open.spotify.com/track/1xZK25ra2zBnASw5CsKR0d"
+    },
+    {
+      "album": {
         "name": "Muero X Verte",
         "url": "https://open.spotify.com/album/1xXQ297EaVkgUScacoiiUa"
       },
@@ -10918,6 +10972,24 @@
       "duration_ms": 134518,
       "name": "No soy tu mama",
       "url": "https://open.spotify.com/track/0PB8Uzvi6iwahcVQ8qcKYx"
+    },
+    {
+      "album": {
+        "name": "NO SOY UN CHICO INDIE",
+        "url": "https://open.spotify.com/album/0lGYt7uHl2mTU5ChCF4xIF"
+      },
+      "artists": [
+        {
+          "name": "Maifr\u00e9n",
+          "url": "https://open.spotify.com/artist/571t1AKbmBJnGZY3NdNGCI"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173444,
+      "name": "NO SOY UN CHICO INDIE",
+      "url": "https://open.spotify.com/track/1PZGngdgWTk8j7p3av1DMS"
     },
     {
       "album": {
@@ -12787,6 +12859,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 monos los dos",
+        "url": "https://open.spotify.com/album/3Bb7O8ttAO2uHrvpG2JAgK"
+      },
+      "artists": [
+        {
+          "name": "Tristicis",
+          "url": "https://open.spotify.com/artist/3ZEgN3zPoACzAarGKxjla9"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210526,
+      "name": "Qu\u00e9 monos los dos",
+      "url": "https://open.spotify.com/track/3cKNfUvV3rqmuZuPPwaUyk"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 M\u00e1s Da",
         "url": "https://open.spotify.com/album/4FK7ljLaLfJpqI6VedEiia"
       },
@@ -14555,6 +14645,32 @@
     },
     {
       "album": {
+        "name": "Te Espero de Vuelta",
+        "url": "https://open.spotify.com/album/4mtJG5lY409WGrL2R6aUun"
+      },
+      "artists": [
+        {
+          "name": "1111",
+          "url": "https://open.spotify.com/artist/7s5UemXTsq4giWtzr4fqiN"
+        },
+        {
+          "name": "Hofe",
+          "url": "https://open.spotify.com/artist/56J8Wxq3wAYCDHNwabMzrO"
+        },
+        {
+          "name": "Kiliki",
+          "url": "https://open.spotify.com/artist/2x6JVTDJNTmVZxxOGYZKND"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200150,
+      "name": "Te Espero de Vuelta",
+      "url": "https://open.spotify.com/track/1lXKLGQ81b7r5EFmG0AOvt"
+    },
+    {
+      "album": {
         "name": "Te Vas :(",
         "url": "https://open.spotify.com/album/0Z0eCG0Ruh4lXBZr2q1cTl"
       },
@@ -15228,7 +15344,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 205738,
       "name": "Toujours oui <3",
       "url": "https://open.spotify.com/track/0G2h1Z7o0xLIkhCyPnUrGO"
@@ -15250,6 +15366,24 @@
       "duration_ms": 160124,
       "name": "TRABAJAR EN VERANO",
       "url": "https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT"
+    },
+    {
+      "album": {
+        "name": "TRAGEDIA",
+        "url": "https://open.spotify.com/album/6zTRAEX6goxJb5wXBqoSLO"
+      },
+      "artists": [
+        {
+          "name": "Marta Sango",
+          "url": "https://open.spotify.com/artist/4rVronLhqEXcfu8CjCmLQv"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "TRAGEDIA",
+      "url": "https://open.spotify.com/track/1FnRaQDk3s7RkWBXKmnuLv"
     },
     {
       "album": {
@@ -16514,7 +16648,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 185109,
       "name": "Ya no llueve",
       "url": "https://open.spotify.com/track/4IhWfUiuWtCuE6dA9RjPp2"

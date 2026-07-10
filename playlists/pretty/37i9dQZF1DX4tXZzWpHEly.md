@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 
 > Country songs that soundtrack the great Australian outback
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,657 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,662 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 33 | [Lights on the Hill](https://open.spotify.com/track/6bxrMOOJyjIAkbBcp5IPQh) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM), [Adam Harvey](https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf) | [The Great Country Songbook](https://open.spotify.com/album/4pGp5C1NMtCKCDsuVFpoan) | 3:12 |
 | 34 | [Cowboy](https://open.spotify.com/track/6xvD3k8rlUZLnzr2GBVIK7) | [Sunny Cowgirls](https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO) | [Here We Go](https://open.spotify.com/album/5Zwpz8j2OBECUD2oYRHM3M) | 2:57 |
 | 35 | [Bird On A Wire](https://open.spotify.com/track/0JeAfKpnBuiRVQdolUtRr7) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Double Happiness](https://open.spotify.com/album/3bU4pTLcfbfy3o61QcPDpn) | 4:28 |
-| 36 | [Summer's Little Angel](https://open.spotify.com/track/674ehjvBVjg874WczRx5fl) | [Steve Forde](https://open.spotify.com/artist/2WdWRfFSB5m9ivq7sOkBXL) | [Steve Forde](https://open.spotify.com/album/46T0ATAu5Yy6SWTHVDf9lw) | 2:53 |
-| 37 | [Love That](https://open.spotify.com/track/6R5orfPIOuk9YoV7GnOz2h) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Love That](https://open.spotify.com/album/3uOBdfK51I9H0mko4OMoH5) | 3:10 |
+| 36 | [Love That](https://open.spotify.com/track/6R5orfPIOuk9YoV7GnOz2h) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Love That](https://open.spotify.com/album/3uOBdfK51I9H0mko4OMoH5) | 3:10 |
+| 37 | [Summer's Little Angel](https://open.spotify.com/track/674ehjvBVjg874WczRx5fl) | [Steve Forde](https://open.spotify.com/artist/2WdWRfFSB5m9ivq7sOkBXL) | [Steve Forde](https://open.spotify.com/album/46T0ATAu5Yy6SWTHVDf9lw) | 2:53 |
 | 38 | [Born to Survive](https://open.spotify.com/track/1qJztvv77KYdBm4tce1D1K) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Long Way Home](https://open.spotify.com/album/64yV9WmwQecMCo9ojKgrSx) | 4:27 |
 | 39 | [Chandelier of Stars](https://open.spotify.com/track/0K8bNqCPf3DzxWOpS9U1Wc) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [His Favourite Collection](https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ) | 3:15 |
 | 40 | [Poster Girl \- Wrong Side of the World](https://open.spotify.com/track/0Otqe3FHmD1LmJb6Ml22bs) | [Beccy Cole](https://open.spotify.com/artist/5ed39W9I1i3LRpNa6Jk1bG) | [Feel This Free](https://open.spotify.com/album/0bkUg5k6yo3Sx9MzcNte80) | 4:01 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 51 | [Ghost Town](https://open.spotify.com/track/08IV7NVbtbeUpAUUSWe28Z) | [The McClymonts](https://open.spotify.com/artist/3rQZpe0EHJWXItfc2OzzKf) | [Chaos and Bright Lights](https://open.spotify.com/album/5bboHzwA1vlYcu2hnJoD5i) | 2:54 |
 | 52 | [Royal Telephone](https://open.spotify.com/track/3ANy5aNWEJScu480jnj11I) | [Jimmy Little](https://open.spotify.com/artist/6AEG1EJDgdOWQQEeP2AI97) | [The Definitive Collection](https://open.spotify.com/album/6FaVnrx77ieMJQ05srhqmz) | 2:13 |
 | 53 | [Dancin' with Elvis](https://open.spotify.com/track/0nvRN2P2zKZ1HnBeRdVELA) | [Gina Jeffreys](https://open.spotify.com/artist/1kfw6RPH8k2cuQnZ1fqnzk) | [Somebody's Daughter](https://open.spotify.com/album/3qSwSOljlJQC62UatQYzOu) | 3:25 |
-| 54 | [Heatwave](https://open.spotify.com/track/3RRFPAWfF7SzXtdePPQIr7) | [Missy Lancaster](https://open.spotify.com/artist/4D3jbGqN1G7WxpRYJ1R6gL) | [Piece Of Me](https://open.spotify.com/album/06AzmWtWOUCb5ZKJLh68b4) | 3:16 |
-| 55 | [Bury Me In Blue Jeans](https://open.spotify.com/track/3E3ZNCCIZt5TOgjS0IYyQY) | [Tailgate Drive](https://open.spotify.com/artist/5Saz490V1lZlwrQ6kTPFI8) | [Bury Me In Blue Jeans](https://open.spotify.com/album/39vorNleYwSGm4eCWoq4kB) | 4:03 |
+| 54 | [Bury Me In Blue Jeans](https://open.spotify.com/track/3E3ZNCCIZt5TOgjS0IYyQY) | [Tailgate Drive](https://open.spotify.com/artist/5Saz490V1lZlwrQ6kTPFI8) | [Bury Me In Blue Jeans](https://open.spotify.com/album/39vorNleYwSGm4eCWoq4kB) | 4:03 |
+| 55 | [Heatwave](https://open.spotify.com/track/3RRFPAWfF7SzXtdePPQIr7) | [Missy Lancaster](https://open.spotify.com/artist/4D3jbGqN1G7WxpRYJ1R6gL) | [Piece Of Me](https://open.spotify.com/album/06AzmWtWOUCb5ZKJLh68b4) | 3:16 |
 | 56 | [Fire & Ice](https://open.spotify.com/track/66BnogBwUwRU3U22ISWvjX) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd), [Catherine Britt](https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ) | [Call out for the Cavalry](https://open.spotify.com/album/7vYAJToSn6GsX6YYPelpdm) | 3:43 |
 | 57 | [Chain of Joy](https://open.spotify.com/track/4riMZ7xA4evmLwzgSc8cEo) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 2:57 |
 | 58 | [Showing Off](https://open.spotify.com/track/2ftpWJhsGQ3kEMKXYd7KL2) | [Route 33](https://open.spotify.com/artist/5KDFgnaOWRd3B8V1WQWZlE) | [Coro Drive](https://open.spotify.com/album/1TMvAafJiN5nZJ8nYCJwPy) | 3:32 |

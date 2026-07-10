@@ -4,7 +4,7 @@
 
 > This is Arooj Aftab\. The essential tracks, all in one playlist.
 
-77 songs - 8 hr 52 min
+78 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [En Route to Unfriending \(Live\)](https://open.spotify.com/track/5h12CCqstNZAeUJqYeTfCx) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6) | [Resonant Bodies \(Live\)](https://open.spotify.com/album/4xZgFllOjdl5xPInHpiUXD) | 13:46 | 2023-05-02 | 2025-04-25 |
 | [Endless February, Pt\. 1](https://open.spotify.com/track/52HqnlUppYvrfPlDeXUF36) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 3:44 | 2023-05-02 | 2026-01-29 |
 | [Eyes Of The Endless](https://open.spotify.com/track/0GZAb4y6jTKKdTIsRSvPKT) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Love In Exile](https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ) | 14:39 | 2023-05-02 |  |
+| [Fire on the Water](https://open.spotify.com/track/0dU2ZpIcqiV55L16TZfSE8) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Fire on the Water / Drift](https://open.spotify.com/album/0RpYhaCXxa6vICkfzkEq7t) | 3:03 | 2026-07-10 |  |
 | [Forgotten Land](https://open.spotify.com/track/5HYvoAY6OwZp4hKHUA5rtV) | [Deru](https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [SPELLJAMS](https://open.spotify.com/album/6V9QKCve0x4VTzOW8K4DK4) | 7:49 | 2026-05-25 |  |
 | [Forgotten Land](https://open.spotify.com/track/6Uy2qxvaOqV1YlF9kj0XJO) | [Deru](https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [SPELLJAMS](https://open.spotify.com/album/3HAMuPpHQQKKKJcH2dUNsa) | 7:49 | 2023-05-02 | 2026-04-24 |
 | [Freedom Now](https://open.spotify.com/track/4rHQ8H5ZI8a9aIEGff3td5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj), [Golshifteh Farahani](https://open.spotify.com/artist/2r87yC8H1mrlvAP8kq6BuB), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Freedom Now](https://open.spotify.com/album/3Bj0rk8lOxbzs5D2gOj9RO) | 3:44 | 2024-02-15 |  |

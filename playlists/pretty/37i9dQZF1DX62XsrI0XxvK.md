@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Kaleb J
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,335 likes - 103 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,336 likes - 103 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

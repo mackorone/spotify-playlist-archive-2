@@ -2,9 +2,9 @@
 
 ### [Suflet + Sunet](https://open.spotify.com/playlist/37i9dQZF1DXbSA2u8djoN5)
 
-> Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: RAVA, Antonia
+> Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: NANE
 
-298 songs - 14 hr 35 min
+300 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Antarctica](https://open.spotify.com/track/4p3206jk0fwiwEnaTRfhvI) | [Tomi Marfă](https://open.spotify.com/artist/6ukiR3J7anX3kgmYmiIkAs), [ASHU](https://open.spotify.com/artist/1hmxhgy1s2r3FjQE35ePHm) | [Nexus](https://open.spotify.com/album/22jhpvStxovmSD07CVNqAu) | 2:42 | 2026-01-15 | 2026-04-17 |
 | [Antidot](https://open.spotify.com/track/1elG9fCIfhyBouqhwadB7v) | [Pepy](https://open.spotify.com/artist/2xcZ2Y1cDPqycDAQI0oIRM), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Antidot](https://open.spotify.com/album/7JfKqjzqD5Lf5yYfZBEQOm) | 2:46 | 2024-09-19 |  |
 | [Anxius](https://open.spotify.com/track/0yQDfUIZTZDofXxCTIf8Gq) | [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY), [Silent Strike](https://open.spotify.com/artist/7wogO6QhOf6U31t2EHmAiS), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Deliric X Silent Strike III](https://open.spotify.com/album/64iIHOllncN6PQ7pW1g7ch) | 3:00 | 2025-06-05 | 2025-09-28 |
+| [APROAPE](https://open.spotify.com/track/3CjCSYYdjTgYZ89sjvJVKu) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS) | [APROAPE](https://open.spotify.com/album/3klLLkxu7x1EfgljSJvkGF) | 2:33 | 2026-07-09 |  |
 | [Aproape de mare](https://open.spotify.com/track/1mldLMRHq0MmCrrtKt5XjM) | [Angeles](https://open.spotify.com/artist/3tdg8XqJcJxUs0wpeKywzs), [Mobtrap](https://open.spotify.com/artist/6Nspm53g0iGjgJxTcwhqOl), [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [Aproape de mare](https://open.spotify.com/album/6DppbXvMVtGhceVt9DYFrm) | 2:46 | 2026-07-02 |  |
 | [Arunca\-ma La Lei](https://open.spotify.com/track/7ey9WXRJsnb9Bgsg7U41xb) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [Badd G](https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl) | [Arunca\-ma La Lei](https://open.spotify.com/album/4rQF7AMYBWW1zDGoVZ6on7) | 2:32 | 2025-05-01 |  |
 | [Asta\-i Țara Mea](https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv), [Vasile Advahov](https://open.spotify.com/artist/6Gg0PWo2x17nxM3EFomXyn) | [Asta\-i Țara Mea](https://open.spotify.com/album/0cfv8rktcvzj2O2WmIByeO) | 2:49 | 2025-08-28 |  |
@@ -176,7 +177,7 @@
 | [Mintea Mea](https://open.spotify.com/track/0COYO76iJYm8yTch9UeAsq) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Mintea Mea](https://open.spotify.com/album/7t2Yr9iJCea9Qo7PW8z1On) | 2:45 | 2026-03-06 | 2026-05-01 |
 | [Moldova și Bucovina](https://open.spotify.com/track/0VbHmj9I3Tweest7BWSOT2) | [F.Charm](https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I) | [Moldova și Bucovina](https://open.spotify.com/album/0kaoHTY5ou0c1ik4d5l6bx) | 2:35 | 2025-09-25 | 2025-10-21 |
 | [Momentul meu](https://open.spotify.com/track/432NUQM4s1DLDV27FxFhCi) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Irma](https://open.spotify.com/artist/6xFQ7fuQ25GZnXLzWWE67Z) | [REBORN](https://open.spotify.com/album/3TVB6kwu7R8ixT7um6Nf0F) | 2:31 | 2025-04-10 | 2026-01-05 |
-| [Morgana](https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq) | [F.Charm](https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I) | [Morgana](https://open.spotify.com/album/7rGsaNzNAN4DjjeRRKInj9) | 3:12 | 2025-07-31 |  |
+| [Morgana](https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq) | [F.Charm](https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I) | [Morgana](https://open.spotify.com/album/7rGsaNzNAN4DjjeRRKInj9) | 3:12 | 2025-07-31 | 2026-07-10 |
 | [mr\. idcash](https://open.spotify.com/track/1U0PITuc3ACNOOM6RhlYKt) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [mr\. idcash](https://open.spotify.com/album/15alNzThvqCaBopu8cFtWx) | 2:27 | 2026-05-14 |  |
 | [MUZEU](https://open.spotify.com/track/70lIMzCAltgvTJRFJe8s2Y) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [MUZEU](https://open.spotify.com/album/3bd1dMnWuPI1eKBda71qCy) | 2:36 | 2024-10-31 | 2025-04-05 |
 | [Ne vedem acasă](https://open.spotify.com/track/03YZNYucckHvgYTO2yQe83) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Ne vedem acasă](https://open.spotify.com/album/3KXsYqkmp8SbmCzScrOs1G) | 2:59 | 2025-12-04 | 2026-02-27 |
@@ -232,6 +233,7 @@
 | [SCHINDLER'S LIST](https://open.spotify.com/track/0v985X0RLuuoma0yZjOhAQ) | [Aris & Edi](https://open.spotify.com/artist/0FdLRLoI0r4yqlUPzKufFo) | [SCHINDLER'S LIST](https://open.spotify.com/album/3xFX8rN3YH9E5DRksDDK6q) | 2:03 | 2026-04-30 | 2026-05-15 |
 | [SCI\-FI \(cu IRAIDA\)](https://open.spotify.com/track/3okomQtoPOKU2MZARYyPiS) | [Serotone](https://open.spotify.com/artist/7nN2m7VvqkvB9bbFVgzBYn), [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov) | [SCI\-FI \(cu IRAIDA\)](https://open.spotify.com/album/2DIGNFof9SDrDuzf1PZpyd) | 2:40 | 2024-08-01 | 2024-08-23 |
 | [SCRISOARE DE CARTIER](https://open.spotify.com/track/2sU6IJD04FX2bWwH5MAH6c) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [SCRISOARE DE CARTIER](https://open.spotify.com/album/5Oozk0jQPOXmIP309aDwgP) | 1:41 | 2025-12-12 |  |
+| [SEARĂ DE FILM](https://open.spotify.com/track/0lP89B0jpETXLIZDavpdQW) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [SEARĂ DE FILM](https://open.spotify.com/album/55pKeqNMD2YM9Ne2uXvJLW) | 2:34 | 2026-07-09 |  |
 | [Sentimente din stilou](https://open.spotify.com/track/319trXVPgd1p8bXRC7wcFd) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Sentimente din stilou](https://open.spotify.com/album/1uM5JZSpMpiWG0GEGhfMZw) | 3:53 | 2025-04-17 | 2025-04-25 |
 | [Seria 5](https://open.spotify.com/track/41oOSj88trRGw0i16Rh9u1) | [Kepa](https://open.spotify.com/artist/0Mx93t13mwLCqOoQTQnILw), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Seria 5](https://open.spotify.com/album/3oCFqA2d4sGzfbY2Gx6c4I) | 2:32 | 2024-07-26 | 2024-09-20 |
 | [Sfinte Algoritm](https://open.spotify.com/track/7ANrVC0dxLkdWrDFm6pigf) | [Grasu XXL](https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG), [Vlad Dobrescu](https://open.spotify.com/artist/0bypMpAgjSZJaThtP1oqFV) | [Sfinte Algoritm](https://open.spotify.com/album/00fjsZeWrpGUbQgUBmteUx) | 2:55 | 2026-04-23 | 2026-05-01 |
@@ -247,7 +249,7 @@
 | [Sper Ca Esti Bine](https://open.spotify.com/track/6WUGsDp56TjkMRrF5WsElJ) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Hustler](https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E) | 2:53 | 2024-06-27 | 2025-06-17 |
 | [STILL IN LUV](https://open.spotify.com/track/2o7xkPKZ3nvp1zjyhrbyoS) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [STILL IN LUV](https://open.spotify.com/album/5DU4TXi3lF6JnLBOkDHzkB) | 2:46 | 2025-05-01 | 2025-05-16 |
 | [Stiu ca ai vrea](https://open.spotify.com/track/5uwyjLLf5mHOgFSsxIrxx5) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Tussin](https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb) | [AVIREX](https://open.spotify.com/album/2HJoxNWFuEN9f9r5Imog36) | 3:28 | 2026-06-11 |  |
-| [Storage Full](https://open.spotify.com/track/0MBXFQ3RXIdWqP6t6Mijrb) | [Vlad Flueraru](https://open.spotify.com/artist/5cbUrKTtbvXas4lUvnqi4n) | [Storage Full](https://open.spotify.com/album/0E8ntlda6u2zEtUaZ0EcYk) | 2:25 | 2026-06-11 |  |
+| [Storage Full](https://open.spotify.com/track/0MBXFQ3RXIdWqP6t6Mijrb) | [Vlad Flueraru](https://open.spotify.com/artist/5cbUrKTtbvXas4lUvnqi4n) | [Storage Full](https://open.spotify.com/album/0E8ntlda6u2zEtUaZ0EcYk) | 2:25 | 2026-06-11 | 2026-07-10 |
 | [Sufletul tău](https://open.spotify.com/track/6KMoVF88KgKkiHaigqvU4K) | [Pepy](https://open.spotify.com/artist/2xcZ2Y1cDPqycDAQI0oIRM), [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Sufletul tău](https://open.spotify.com/album/2tqXTltj5kC5wobURhsdXo) | 3:05 | 2025-06-05 | 2026-05-15 |
 | [Sunt fratii tai](https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Direct din Tei](https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr) | 2:39 | 2025-02-06 |  |
 | [Tata](https://open.spotify.com/track/3dKyg3xl2AblfOXXQIzd9m) | [BRUJA](https://open.spotify.com/artist/6yoocPjo7xJwFxSvbZYUT9) | [Gioconda](https://open.spotify.com/album/3VAJlaJqlmYqDDrhAzxseF) | 2:33 | 2026-04-30 | 2026-05-15 |

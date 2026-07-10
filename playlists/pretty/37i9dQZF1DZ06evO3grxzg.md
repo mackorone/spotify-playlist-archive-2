@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,994 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,982 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 49 | [¿Que Se Sentirá Tener Mamá?](https://open.spotify.com/track/4ecnJhOVl6PTm351CJmSrZ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [AmyLla Niña De La Mochila Azul Vol.2](https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW) | 2:57 |
 | 50 | [A Coro \- En Vivo](https://open.spotify.com/track/4x79biRWWDHilrtzoI1Qsj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Las Divinas](https://open.spotify.com/artist/5GsCDlhZrJrmJi3EaSS5oY), [Las Populares](https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX), [Los Klasicos](https://open.spotify.com/artist/3zE35VTA8dJXtbx8YTHzBq), [Los Basikos](https://open.spotify.com/artist/2tDH13R8KOOQlWh3qnNOC2) | [Atrévete A Soñar El Concierto \(En Vivo\)](https://open.spotify.com/album/4d5Xe8H0v3QQuYhjZNEno1) | 5:12 |
 
-Snapshot ID: `akrwAAAAAACAyU+noN7glISleSkJySpf`
+Snapshot ID: `ak2TAAAAAAArrz2pUo2FGCSowtCrb9/4`

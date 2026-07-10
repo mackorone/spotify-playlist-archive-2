@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-2,164 songs - 3 day 11 hr 38 min
+2,166 songs - 3 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,7 +467,7 @@
 | [Deep](https://open.spotify.com/track/1AIRo8fm2HRBijyK2R9tTv) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Deep](https://open.spotify.com/album/0QOeIULtoZKuYNhb6ZtdpI) | 2:40 | 2025-11-14 |  |
 | [Deep Blue Dream](https://open.spotify.com/track/4f9InuUz4uZuN2970RymXW) | [Curli Loxx](https://open.spotify.com/artist/72VXvG3lgyD6jsQyr6J05m) | [Deep Blue Dream](https://open.spotify.com/album/3CFaRM1b3dehFSsBaBcseB) | 3:01 | 2024-10-04 | 2025-03-29 |
 | [Deep Into Night](https://open.spotify.com/track/4LgPUjP5Fa98WpED9ji8NL) | [Sofi Tones](https://open.spotify.com/artist/2CmDq0oP7WE5N8WkxC2F8y) | [Deep Into Night](https://open.spotify.com/album/4HANCIsjuGKi1LoUMOoCZe) | 2:23 | 2026-04-10 |  |
-| [deep reverie](https://open.spotify.com/track/6qSwCH11dUzTMU6dxvDtRo) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [deep reverie](https://open.spotify.com/album/030JyTVxSvL5YzNCVrW12m) | 2:33 | 2024-03-22 |  |
+| [deep reverie](https://open.spotify.com/track/6qSwCH11dUzTMU6dxvDtRo) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [deep reverie](https://open.spotify.com/album/030JyTVxSvL5YzNCVrW12m) | 2:33 | 2024-03-22 | 2026-07-10 |
 | [deep side of the pool](https://open.spotify.com/track/1hAFv938WPE3WpW6zDmjto) | [nomoretime](https://open.spotify.com/artist/6WtIFRiNMwkJLPrZdAjNIB) | [deep side of the pool](https://open.spotify.com/album/1KQ3BiNpLI6rm0nFDTCtbH) | 1:56 | 2023-03-08 | 2025-07-03 |
 | [Delicate Day Dreams](https://open.spotify.com/track/3Qw3CIQV6fU1SuVxQYWh67) | [LazyLofi Boy](https://open.spotify.com/artist/6JdbBiVmstveo09InLdoWR) | [Delicate Day Dreams](https://open.spotify.com/album/3RUu8hHXtNcnnwdLJ7bzUa) | 2:09 | 2022-06-17 | 2022-07-29 |
 | [delta dawn](https://open.spotify.com/track/4p6oXrDJ3bohCgq7Wx0SrY) | [majic](https://open.spotify.com/artist/5sNthmyXtGakNigg1xxlMS) | [delta dawn](https://open.spotify.com/album/1T90Hqsk11EObyb5CLonMW) | 1:42 | 2022-09-30 | 2022-12-17 |
@@ -608,6 +608,7 @@
 | [Eunoia](https://open.spotify.com/track/0xLMlmoGZY2LhZcLMU6VvK) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Eunoia](https://open.spotify.com/album/4fBD47tpwDlksDgQSimWfX) | 2:13 | 2023-11-17 | 2025-06-07 |
 | [Euphoria](https://open.spotify.com/track/4ljI7MR9RmhuyML65YWQAp) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk) | [Euphoria](https://open.spotify.com/album/0ilUOQTMsh0nGPpzREboYF) | 2:35 | 2022-12-02 | 2023-10-20 |
 | [Euphorie](https://open.spotify.com/track/3nfGBv0j5NYMMSmpSv10Ik) | [Jeff Kaale](https://open.spotify.com/artist/6HbFnvkO1zsyxqyyfbNRwL), [eleven](https://open.spotify.com/artist/2je6GFLTZmAbrnjokRtWfU) | [Bonafide](https://open.spotify.com/album/1Lv6bpArExNLTqtyIYyDPi) | 3:11 | 2024-05-13 | 2024-11-15 |
+| [evening walk](https://open.spotify.com/track/7LkVzAKTL1JiCVGvsttdat) | [le gronk](https://open.spotify.com/artist/1HHbmSXj8pZ2oTGOXa3I0y) | [evening walk](https://open.spotify.com/album/5bNO4Z63kbIVrM3CfpdkNT) | 2:30 | 2026-07-09 |  |
 | [Evening Walk](https://open.spotify.com/track/0M5UurbUntOyAWboXeYAp3) | [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [Here and Now](https://open.spotify.com/album/2q7hkNQMnJWZiwM07Gb40O) | 2:08 | 2024-09-27 | 2025-08-21 |
 | [Evenings](https://open.spotify.com/track/3L6REEaOHHguItfa4RgYfx) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [Evenings](https://open.spotify.com/album/69TWnZEGKfjfGDzIS39J1R) | 2:30 | 2025-11-05 |  |
 | [Evenings](https://open.spotify.com/track/3jSslE7Fop3jOjiPYDpVD0) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Now / Again](https://open.spotify.com/album/2B35M85zMrnWhnsV8mW7i0) | 2:49 | 2021-12-07 | 2022-07-29 |
@@ -1908,6 +1909,7 @@
 | [The Day We Met](https://open.spotify.com/track/237omeczgBuZ7kRlgXhcpU) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [The Day We Met](https://open.spotify.com/album/0XgM1VU2XSekoWnzAoqSS0) | 2:29 | 2022-07-29 | 2022-08-12 |
 | [The End](https://open.spotify.com/track/0edUqIhyKWlr7HBh3UcE1Z) | [kust](https://open.spotify.com/artist/2HTMpw5UmlJ2sUap8z5ZbU) | [The End](https://open.spotify.com/album/5UU8K7OhaoZmrY6eaXw2Xo) | 2:24 | 2022-11-25 | 2023-04-12 |
 | [The Endless Night](https://open.spotify.com/track/112RApOQg0ma6FogrSAh0y) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [The Endless Night](https://open.spotify.com/album/3HTlEPNfMUMr6PpSeZsWPW) | 1:56 | 2023-04-03 | 2024-08-31 |
+| [The Faraway Land](https://open.spotify.com/track/1mYruwTnM4gDl2x8cHQl5n) | [Violet Blue](https://open.spotify.com/artist/3HnNGAP9z1iWa4ho2fX4FX) | [The Faraway Land](https://open.spotify.com/album/30zkLHVSfcUhASK1lVMun6) | 2:21 | 2026-07-09 |  |
 | [the farmyard](https://open.spotify.com/track/7129WaLtzJPaV2fx02SGGR) | [Stardog Lofi](https://open.spotify.com/artist/3a745TfKuAA2igLhyg7eOU), [kBeats](https://open.spotify.com/artist/5w3SUOG1J2oz1vsUQyvIyt), [Sakuraba](https://open.spotify.com/artist/41G6LD5586sRiClewOQBTe) | [Suburban](https://open.spotify.com/album/4jobRM9xvrzmyJbUeXb0js) | 1:58 | 2021-12-07 | 2022-07-29 |
 | [the farmyard](https://open.spotify.com/track/3L3fMOKNksoF9FR6dA3vFU) | [Stardog Lofi](https://open.spotify.com/artist/3a745TfKuAA2igLhyg7eOU), [Sakuraba](https://open.spotify.com/artist/41G6LD5586sRiClewOQBTe), [kBeats](https://open.spotify.com/artist/5w3SUOG1J2oz1vsUQyvIyt) | [Suburban](https://open.spotify.com/album/0laO5fRPq1kKLqwGaG9pHK) | 1:58 | 2022-07-29 | 2022-08-05 |
 | [The Field from Spirited Away](https://open.spotify.com/track/4XzIAs0juezayo4TEcFPA1) | [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw), [coa](https://open.spotify.com/artist/5nSiA2GRNACtE1gOOBvtju) | [The Field From Spirited Away](https://open.spotify.com/album/1o2JFTHYVWfnClJb5rddhe) | 2:34 | 2022-07-29 | 2022-08-12 |

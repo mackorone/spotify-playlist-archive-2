@@ -1398,6 +1398,24 @@
     {
       "album": {
         "name": "Can We Do This Over",
+        "url": "https://open.spotify.com/album/24wwR6Ux6D4FCaLDOnDWS5"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Can We Do This Over",
+      "url": "https://open.spotify.com/track/0gQq4NVM28K4aknlCoghUF"
+    },
+    {
+      "album": {
+        "name": "Can We Do This Over",
         "url": "https://open.spotify.com/album/5b2t3eQ9Tkblewvwv57etT"
       },
       "artists": [
@@ -1408,7 +1426,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 208000,
       "name": "Can We Do This Over",
       "url": "https://open.spotify.com/track/2xNO9VNXpvI84BzphjkYe4"
@@ -1598,7 +1616,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "Centuries",
       "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
@@ -2974,6 +2992,32 @@
     {
       "album": {
         "name": "Enemy",
+        "url": "https://open.spotify.com/album/4u9UaXjfnOGsGQFtYhPGhj"
+      },
+      "artists": [
+        {
+          "name": "Arc North",
+          "url": "https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH"
+        },
+        {
+          "name": "Meric Again",
+          "url": "https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF"
+        },
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/33MhyybC8d7gCEqB3pM70g"
+    },
+    {
+      "album": {
+        "name": "Enemy",
         "url": "https://open.spotify.com/album/1vQ4tFzfnqkQPMauA1m4wk"
       },
       "artists": [
@@ -3002,7 +3046,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 148009,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/0fEB4S6ZyFlRKNvFWRKO03"
@@ -8734,7 +8778,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 205320,
       "name": "original me (feat. dan reynolds of imagine dragons)",
       "url": "https://open.spotify.com/track/4KzOYxD4qIkUtZV9ZYakGu"

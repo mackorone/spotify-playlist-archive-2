@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 396370,
+  "num_followers": 396332,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 228326,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN"
-    },
-    {
-      "added_at": "2025-07-02 08:57:18",
-      "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 158359,
       "name": "Charmed",
       "url": "https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX"
+    },
+    {
+      "added_at": "2025-07-02 08:57:18",
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 228326,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN"
     },
     {
       "added_at": "2025-07-02 08:57:18",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
-        "name": "Solomon Burke's Greatest Hits",
-        "url": "https://open.spotify.com/album/5wbo06FU4VwIgA0CdfJXI4"
-      },
-      "artists": [
-        {
-          "name": "Solomon Burke",
-          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
-        }
-      ],
-      "duration_ms": 154906,
-      "name": "Cry to Me",
-      "url": "https://open.spotify.com/track/1tYk5zABu6h8CMP1cSea56"
-    },
-    {
-      "added_at": "2025-07-02 08:57:18",
-      "album": {
         "name": "Bossa Nova Lounge",
         "url": "https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 204418,
       "name": "Somewhere Over The Rainbow - Bossa Version",
       "url": "https://open.spotify.com/track/0n2I6f8lJ1BY0vNWPwOA8K"
+    },
+    {
+      "added_at": "2025-07-02 08:57:18",
+      "album": {
+        "name": "Solomon Burke's Greatest Hits",
+        "url": "https://open.spotify.com/album/5wbo06FU4VwIgA0CdfJXI4"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "duration_ms": 154906,
+      "name": "Cry to Me",
+      "url": "https://open.spotify.com/track/1tYk5zABu6h8CMP1cSea56"
     },
     {
       "added_at": "2025-07-02 08:57:18",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
-        "name": "Mujeres",
-        "url": "https://open.spotify.com/album/5oE1VEtOYkkJJiRkZ7KbgB"
+        "name": "Girls Just Wanna Have Fun",
+        "url": "https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY"
       },
       "artists": [
         {
-          "name": "Estrella Morente",
-          "url": "https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D"
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
         }
       ],
-      "duration_ms": 217853,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/1uhQ3H3TSDX9Bq9Oz6uHWV"
+      "duration_ms": 172992,
+      "name": "Girls Just Wanna Have Fun - Acoustic",
+      "url": "https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px"
     },
     {
       "added_at": "2025-07-02 08:57:18",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
-        "name": "Girls Just Wanna Have Fun",
-        "url": "https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY"
+        "name": "Mujeres",
+        "url": "https://open.spotify.com/album/5oE1VEtOYkkJJiRkZ7KbgB"
       },
       "artists": [
         {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+          "name": "Estrella Morente",
+          "url": "https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D"
         }
       ],
-      "duration_ms": 172992,
-      "name": "Girls Just Wanna Have Fun - Acoustic",
-      "url": "https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px"
+      "duration_ms": 217853,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/1uhQ3H3TSDX9Bq9Oz6uHWV"
     },
     {
       "added_at": "2025-07-02 08:57:18",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
+        "name": "Mo' Better Blues",
+        "url": "https://open.spotify.com/album/0hxR5dlIVm8EwblNwNGzM4"
+      },
+      "artists": [
+        {
+          "name": "Maxeen",
+          "url": "https://open.spotify.com/artist/6aOw8V4UtaVkO9z7zwturN"
+        }
+      ],
+      "duration_ms": 230312,
+      "name": "Mo' Better Blues",
+      "url": "https://open.spotify.com/track/3CGqAtOKUe4pn3j9kOKp4J"
+    },
+    {
+      "added_at": "2025-07-02 08:57:18",
+      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 194920,
       "name": "La Fugitiva (with Kevin Johansen)",
       "url": "https://open.spotify.com/track/1jmDkMtuAQJgSiN9AulFcx"
-    },
-    {
-      "added_at": "2025-07-02 08:57:18",
-      "album": {
-        "name": "Mo' Better Blues",
-        "url": "https://open.spotify.com/album/0hxR5dlIVm8EwblNwNGzM4"
-      },
-      "artists": [
-        {
-          "name": "Maxeen",
-          "url": "https://open.spotify.com/artist/6aOw8V4UtaVkO9z7zwturN"
-        }
-      ],
-      "duration_ms": 230312,
-      "name": "Mo' Better Blues",
-      "url": "https://open.spotify.com/track/3CGqAtOKUe4pn3j9kOKp4J"
     }
   ],
   "unique_name": "Cena con Amigos",

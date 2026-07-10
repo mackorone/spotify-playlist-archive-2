@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-619 songs - 1 day 14 hr 37 min
+621 songs - 1 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Lullaby](https://open.spotify.com/track/6Y6rNeW1Efcl7Jq0MT9TOV) | [Svetlana Bakushina](https://open.spotify.com/artist/1fGAIRdys4yhkkIJqz2bXL), [Carlos Rufo Martins](https://open.spotify.com/artist/0WDrIGBxrkxVF632AoVCdJ) | [Lullaby](https://open.spotify.com/album/01nMm9B1zVmQlGW1EmAlIb) | 3:37 | 2026-05-05 | 2026-05-26 |
 | [Mad Puppies](https://open.spotify.com/track/1BCF3qP2Tm8YL9Lo1VmcHA) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Mad Puppies](https://open.spotify.com/album/08M39olgNPLTRMjpa6pf0u) | 2:08 | 2025-12-16 | 2026-04-21 |
 | [Madhouse Holiday](https://open.spotify.com/track/6zeZvQfCUgngpOLXqrssXs) | [Methody Nightingale](https://open.spotify.com/artist/2V9RL8G3rCcT0n2H0jdpEw) | [Madhouse Holiday](https://open.spotify.com/album/5ZRaOTR2U8al2Gi7UMn1ny) | 6:43 | 2026-02-22 | 2026-03-18 |
+| [Magnolia](https://open.spotify.com/track/6IufA64SPqtOYyFoKzL1s6) | [Jonathan Turk](https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo) | [My Revenge](https://open.spotify.com/album/1rjfZshfNjxGP5cQXyIGzz) | 3:20 | 2026-07-09 |  |
 | [Make Love](https://open.spotify.com/track/3ijoP1G48nhRcBY2QB2y4o) | [CLARASCHEIN](https://open.spotify.com/artist/3G6VR0fzmyjvNSxZx6480w), [Vittorio Longobardi](https://open.spotify.com/artist/06qOVeNb3n8mq1UhbWG3TE) | [Make Love](https://open.spotify.com/album/0kJwIehJg21K07TgHVzCcS) | 2:37 | 2026-01-28 | 2026-03-18 |
 | [Maldito Antro](https://open.spotify.com/track/78KBfIKs7GKPRPv4j35xyX) | [Puerto Mariel](https://open.spotify.com/artist/4RYkqvK3dICXDfPhGaQa1C) | [Maldito Antro](https://open.spotify.com/album/0ehJgzhkbrUz1EBt13KaV4) | 3:31 | 2026-02-25 | 2026-03-18 |
 | [Marginal](https://open.spotify.com/track/4Nv0Bzom36kPiFXJt85HTT) | [Orecchio Sordo](https://open.spotify.com/artist/0f4qCSAE3bqGntDnL6gRyE) | [Marginal](https://open.spotify.com/album/28lICaZjyM3VNqjMVNHIB5) | 4:50 | 2025-09-29 | 2025-12-17 |
@@ -332,6 +333,7 @@
 | [Me Haces Sentir](https://open.spotify.com/track/0LIEw9QydN9YhmbhyqLBDj) | [José Vásquez ND7](https://open.spotify.com/artist/2JFcFnRC2de1I5X8bNrllE) | [Me Haces Sentir](https://open.spotify.com/album/4QxZM410XXjV2fHAeTSehN) | 3:49 | 2025-10-08 | 2025-11-28 |
 | [Medicine](https://open.spotify.com/track/2FGTL4RbwWbPXZrY8XoMQh) | [Lewis Mckale](https://open.spotify.com/artist/6yTP6bdkiI5MubxbfPiF7e) | [Dreaming of Injured Popstars '25](https://open.spotify.com/album/6LbYdmnpJrZ0JoktjZgcD7) | 2:42 | 2026-01-13 | 2026-03-18 |
 | [Meet Me at the Sidebar](https://open.spotify.com/track/0Ew2kJHiWLEDedSn9Z5NVu) | [The Meadowlark Lemons](https://open.spotify.com/artist/2JRrhlEgRBFvrFmXOMpLNy) | [The Meadowlark Lemons](https://open.spotify.com/album/0WFqangWFBGOthdswpLMOQ) | 5:08 | 2026-05-27 | 2026-06-18 |
+| [Menunggu Yang Tak Kembali \(2026\)](https://open.spotify.com/track/1sCgHlVyvvJEjKExIsJsJ6) | [Yosie Widianta](https://open.spotify.com/artist/30OcarWko8rxYaH0TTkgsx) | [Menunggu Yang Tak Kembali \(2026\)](https://open.spotify.com/album/0rxRylINpphWKEKwGb2YGC) | 3:07 | 2026-07-09 |  |
 | [Mercy's Song \(Psalm 6\)](https://open.spotify.com/track/580tHG3i04jZw2O1fwnJXy) | [RedemptionRising](https://open.spotify.com/artist/40yxohQeJ1MJhlJhzAj5Ty) | [Mercy's Song \(Psalm 6\)](https://open.spotify.com/album/5H78VfPQjOt1RG7EmiPo57) | 3:48 | 2025-09-07 |  |
 | [Message Through Time](https://open.spotify.com/track/4BPrHDgqGxnWANdMphAbNQ) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Message Through Time](https://open.spotify.com/album/45LoKgIdcZiDUrx7V5HbuC) | 5:21 | 2025-11-02 | 2025-12-17 |
 | [Mi memoria](https://open.spotify.com/track/5Thy4BzMaNWgj0Z3RlGHfw) | [Gal Baliero](https://open.spotify.com/artist/3IuWLDPy58I11hj2tOsn7M), [Isaac Gomez](https://open.spotify.com/artist/6OP5rawJOEJ3SGN6up8zOW), [Jacksa Suazo](https://open.spotify.com/artist/7rwpfamWDwfJ6F26zue6LV), [Banda Pope Joan](https://open.spotify.com/artist/1xG6VbKG0O3HUAhbu6UbR5) | [Pope Joan Sinfónico](https://open.spotify.com/album/2TvI5ziSqPflqifuBbcQbf) | 3:55 | 2026-06-13 | 2026-06-25 |

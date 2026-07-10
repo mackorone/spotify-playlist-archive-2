@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 14725,
+  "num_followers": 14730,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAACwD/36DX46u64CI4eRc83N",
+  "snapshot_id": "ak2TAAAAAAAiMvq377T5HvSznDpXoy3+",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 223166,
+      "name": "Can't Let You Go",
+      "url": "https://open.spotify.com/track/0VePjMxhV52EBof5HD3lYM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Give Up and See",
         "url": "https://open.spotify.com/album/3pv7jABm0LT7rfYMcZ5BFf"
       },
@@ -227,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN"
+        "name": "Lavida Loca (feat. Lasmid)",
+        "url": "https://open.spotify.com/album/36tSpQ2NiV5tpcQdXzTimB"
       },
       "artists": [
         {
@@ -236,13 +256,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
         }
       ],
-      "duration_ms": 223166,
-      "name": "Can't Let You Go",
-      "url": "https://open.spotify.com/track/0VePjMxhV52EBof5HD3lYM"
+      "duration_ms": 159292,
+      "name": "Lavida Loca (feat. Lasmid)",
+      "url": "https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN"
     },
     {
       "added_at": null,
@@ -391,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lavida Loca (feat. Lasmid)",
-        "url": "https://open.spotify.com/album/36tSpQ2NiV5tpcQdXzTimB"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 159292,
-      "name": "Lavida Loca (feat. Lasmid)",
-      "url": "https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/2OASYXR3lBYmnNKIT26hdq"
       },
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 185196,
-      "name": "Coachella",
-      "url": "https://open.spotify.com/track/28VXhY9rrvBAc8qcxyb8oA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NEXT DOOR (with Sarkodie)",
         "url": "https://open.spotify.com/album/0stN3a7ORRVvn3Xeyq47HI"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 156791,
       "name": "NEXT DOOR (with Sarkodie)",
       "url": "https://open.spotify.com/track/7ngTKqkPVMV5sVrIWcBnTC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "Coachella",
+      "url": "https://open.spotify.com/track/28VXhY9rrvBAc8qcxyb8oA"
     },
     {
       "added_at": null,
@@ -519,22 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/255tfKXfBXIX6OmaBBs3xj"
+        "name": "Oluwa Ni (Wemi You)",
+        "url": "https://open.spotify.com/album/2gjBzVBVGgBun17xS9PJqz"
       },
       "artists": [
         {
-          "name": "Praiz",
-          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
         },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 223947,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/3efFRZSg2qNU0OFZolXCix"
+      "duration_ms": 197467,
+      "name": "Oluwa Ni (Wemi You)",
+      "url": "https://open.spotify.com/track/4mZkl4BhKlzkYnqgYweg1W"
     },
     {
       "added_at": null,
@@ -559,22 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oluwa Ni (Wemi You)",
-        "url": "https://open.spotify.com/album/2gjBzVBVGgBun17xS9PJqz"
+        "name": "King",
+        "url": "https://open.spotify.com/album/255tfKXfBXIX6OmaBBs3xj"
       },
       "artists": [
         {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+          "name": "Praiz",
+          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
         },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 197467,
-      "name": "Oluwa Ni (Wemi You)",
-      "url": "https://open.spotify.com/track/4mZkl4BhKlzkYnqgYweg1W"
+      "duration_ms": 223947,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/3efFRZSg2qNU0OFZolXCix"
     },
     {
       "added_at": null,
@@ -783,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Xlimkid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "TRAUMA",
+      "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "As Promised",
         "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 253040,
       "name": "CCTV",
       "url": "https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Championship",
-        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Xlimkid",
-          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "TRAUMA",
-      "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
     },
     {
       "added_at": null,
@@ -947,30 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/2PErZB2USDV1fbqww2mJKJ"
-      },
-      "artists": [
-        {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 172577,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/4Yza7I7ds4vF1m1hi3Qg56"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BRAG",
         "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
       },
@@ -1003,6 +979,30 @@
       "duration_ms": 202346,
       "name": "Tonga",
       "url": "https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/2PErZB2USDV1fbqww2mJKJ"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 172577,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/4Yza7I7ds4vF1m1hi3Qg56"
     },
     {
       "added_at": null,

@@ -166,7 +166,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 142615,
       "name": "30\u00baC",
       "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
@@ -284,7 +284,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 183038,
       "name": "ADVICE",
       "url": "https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 119217,
       "name": "BIKINI (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/1qexrlq05Ak4NCthyLOhbd"
@@ -1592,6 +1592,24 @@
       "duration_ms": 183174,
       "name": "Caramba",
       "url": "https://open.spotify.com/track/0JxlMKdfoQKuB09keMmALe"
+    },
+    {
+      "album": {
+        "name": "MILLION DOLLAR BABE",
+        "url": "https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148114,
+      "name": "CATALANO",
+      "url": "https://open.spotify.com/track/4dB88qTUCkjYQn0ZxIZCuW"
     },
     {
       "album": {
@@ -3453,6 +3471,24 @@
     },
     {
       "album": {
+        "name": "MILLION DOLLAR BABE",
+        "url": "https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "HONEY",
+      "url": "https://open.spotify.com/track/55wR6hA738HnTk4F1z23oR"
+    },
+    {
+      "album": {
         "name": "HOTEL LOBBY (Unc & Phew)",
         "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
       },
@@ -4092,7 +4128,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 196799,
       "name": "LE BAMBINE FANNO OH (feat. Nerissima Serpe, ANNA, Papa V, Artie 5ive)",
       "url": "https://open.spotify.com/track/5pwLYZxXPYIQE6y3g29CUk"
@@ -4345,6 +4381,40 @@
     },
     {
       "album": {
+        "name": "\u00c8 O G.",
+        "url": "https://open.spotify.com/album/3vAjsYdC3b1kYWqmZaM4sd"
+      },
+      "artists": [
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        },
+        {
+          "name": "Flatpearl",
+          "url": "https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R"
+        },
+        {
+          "name": "Succo",
+          "url": "https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Soy Ares",
+          "url": "https://open.spotify.com/artist/2kg0j76ecA4XEPJp6lebLS"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151110,
+      "name": "Loco In Discoteca (feat. Yuri Redicopa)",
+      "url": "https://open.spotify.com/track/2DYIzxD4Nob2oKlsuw1Hwf"
+    },
+    {
+      "album": {
         "name": "London",
         "url": "https://open.spotify.com/album/78MY70eoqglCZO3xZhfluk"
       },
@@ -4526,6 +4596,32 @@
       "duration_ms": 127200,
       "name": "Maliciosa (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/6KJ57PY7fIIRlaweLnNbXj"
+    },
+    {
+      "album": {
+        "name": "\u00c8 O G.",
+        "url": "https://open.spotify.com/album/3vAjsYdC3b1kYWqmZaM4sd"
+      },
+      "artists": [
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        },
+        {
+          "name": "Flatpearl",
+          "url": "https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R"
+        },
+        {
+          "name": "Succo",
+          "url": "https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Malpensa",
+      "url": "https://open.spotify.com/track/6n5g6FiWp9NudnRnUwyoZN"
     },
     {
       "album": {
@@ -4798,6 +4894,24 @@
       "duration_ms": 180774,
       "name": "Michelle Pfeiffer (feat. Tony Effe)",
       "url": "https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c"
+    },
+    {
+      "album": {
+        "name": "MILLION DOLLAR BABE",
+        "url": "https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173445,
+      "name": "MILLION DOLLAR BABE",
+      "url": "https://open.spotify.com/track/4uzXo3sUkY7xXelBvj1L7A"
     },
     {
       "album": {
@@ -6146,7 +6260,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 115617,
       "name": "SCENDI",
       "url": "https://open.spotify.com/track/4WownAAcTO8CA2EiTpDbdg"

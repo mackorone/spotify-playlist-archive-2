@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > life too short love the one you got
 
-[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,032 songs - 2 day 10 hr 53 min
+[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,039 songs - 2 day 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1040,5 +1040,12 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1030 | [benefits](https://open.spotify.com/track/5SxXPHek3xsrNSkzTehdqa) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [benefits](https://open.spotify.com/album/3JPoxty0hq7Y4a3NVCDJHw) | 3:33 |
 | 1031 | [City Song](https://open.spotify.com/track/6ooXgSknViVHVuQN7f0cc5) | [Anya True](https://open.spotify.com/artist/434RAZcodjM2CnvNOU66kP) | [City Song](https://open.spotify.com/album/7oxROZAed2GKG445YpMOw6) | 3:57 |
 | 1032 | [Over + Under](https://open.spotify.com/track/2SSzg5E1wYe65kR5CO9HCG) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Over + Under](https://open.spotify.com/album/4fwRVKXm23UvPzjProyqhm) | 3:56 |
+| 1033 | [Jukebox](https://open.spotify.com/track/0FSz3pntgznGeUPkrh0ZXE) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:11 |
+| 1034 | [Weirdo](https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:31 |
+| 1035 | [Morals](https://open.spotify.com/track/1EVR07FNoOEQ8fEfJNs37G) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 2:20 |
+| 1036 | [Higher](https://open.spotify.com/track/736dtUONBLraRNmUFBixTX) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Run, Run Pure Beauty](https://open.spotify.com/album/6tEKOTU8xDuIabBbNTkoam) | 4:06 |
+| 1037 | [Seasons](https://open.spotify.com/track/4FsR3Qwxnnrmi8bzqBQqup) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:00 |
+| 1038 | [Teardrops](https://open.spotify.com/track/3es94VG64imX0Z3RZOR9Gy) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:44 |
+| 1039 | [Lost Boys](https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP) | 4:14 |
 
-Snapshot ID: `AAALGJ1ov+En09CCpommql0LeWUQgOQZ`
+Snapshot ID: `AAALH8zLFJR4979luguM/GRFzc+xviUW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,447 likes - 200 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,483 likes - 200 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 | 199 | [Your Eyes](https://open.spotify.com/track/0we7ueXlIbKRsfPkOuX9dW) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Your Eyes](https://open.spotify.com/album/6SoYA3Ay1qSWc14Ug5E9lR) | 3:40 |
 | 200 | [Stay Slow](https://open.spotify.com/track/1G5H0cEnIsv393dHiTKUrZ) | [Endless Space](https://open.spotify.com/artist/7HHVt02XZTOf0FQ6YhZtG5) | [Stay Slow](https://open.spotify.com/album/65u6NFLVDYBByotNUGRZqv) | 3:00 |
 
-Snapshot ID: `AAAAAFAUumrMOo5XR9jYFaveW+L2kBo5`
+Snapshot ID: `AAAAAGxfZzKgdZgxkGT9PSoxdlTsywSP`

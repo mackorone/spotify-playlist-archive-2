@@ -1,6 +1,6 @@
 {
   "description": "time to strike a couple of poses. cover: Karencici",
-  "num_followers": 627862,
+  "num_followers": 627823,
   "original_name": "poses",
   "owner": {
     "name": "Spotify",
@@ -587,18 +587,18 @@
     {
       "added_at": "2026-06-18 15:00:22",
       "album": {
-        "name": "GOOD GIRL BUT NOT FOR YOU",
-        "url": "https://open.spotify.com/album/4ER3z7bMjofTmhn2dMrWYu"
+        "name": "WE GO UP",
+        "url": "https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9"
       },
       "artists": [
         {
-          "name": "NiziU",
-          "url": "https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ"
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
         }
       ],
-      "duration_ms": 169200,
-      "name": "Too Bad",
-      "url": "https://open.spotify.com/track/1trZK2rzKfvvI81APSf6Dq"
+      "duration_ms": 186973,
+      "name": "WE GO UP",
+      "url": "https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl"
     },
     {
       "added_at": "2026-06-18 15:00:22",
@@ -619,18 +619,18 @@
     {
       "added_at": "2026-06-18 15:00:22",
       "album": {
-        "name": "WE GO UP",
-        "url": "https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9"
+        "name": "GOOD GIRL BUT NOT FOR YOU",
+        "url": "https://open.spotify.com/album/4ER3z7bMjofTmhn2dMrWYu"
       },
       "artists": [
         {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+          "name": "NiziU",
+          "url": "https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ"
         }
       ],
-      "duration_ms": 186973,
-      "name": "WE GO UP",
-      "url": "https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl"
+      "duration_ms": 169200,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/1trZK2rzKfvvI81APSf6Dq"
     },
     {
       "added_at": "2026-06-18 15:00:22",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-06-18 15:00:22",
       "album": {
-        "name": "Unang Kilig / Honey Honey",
-        "url": "https://open.spotify.com/album/3KDnE33OQ0tkI2qtvoVA0r"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        }
-      ],
-      "duration_ms": 158214,
-      "name": "Honey Honey",
-      "url": "https://open.spotify.com/track/282XNtIdfDh0NupdD8zBzp"
-    },
-    {
-      "added_at": "2026-06-18 15:00:22",
-      "album": {
         "name": "SEQUENCE 01.5 (dreaming of the 2nd 1st impact - consequences of fate redux)",
         "url": "https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 169000,
       "name": "I Choose You",
       "url": "https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub"
+    },
+    {
+      "added_at": "2026-06-18 15:00:22",
+      "album": {
+        "name": "Unang Kilig / Honey Honey",
+        "url": "https://open.spotify.com/album/3KDnE33OQ0tkI2qtvoVA0r"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "duration_ms": 158214,
+      "name": "Honey Honey",
+      "url": "https://open.spotify.com/track/282XNtIdfDh0NupdD8zBzp"
     },
     {
       "added_at": "2026-06-18 15:00:22",
@@ -843,18 +843,22 @@
     {
       "added_at": "2026-06-18 15:00:22",
       "album": {
-        "name": "FLAMES",
-        "url": "https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF"
+        "name": "MEXE",
+        "url": "https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX"
       },
       "artists": [
         {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
         }
       ],
-      "duration_ms": 180727,
-      "name": "Sweet Tooth",
-      "url": "https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu"
+      "duration_ms": 146204,
+      "name": "MEXE",
+      "url": "https://open.spotify.com/track/43x4drok2kDJqm9dgRr685"
     }
   ],
   "unique_name": "poses",

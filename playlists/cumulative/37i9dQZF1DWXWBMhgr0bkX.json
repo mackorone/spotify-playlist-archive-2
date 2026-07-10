@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New pop releases from the UK & Ireland \ud83c\udf1f\ncover: Florrie",
+  "description": "New pop releases from the UK & Ireland \ud83c\udf1f\ncover: piri",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -1247,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "Aquamarine",
+        "url": "https://open.spotify.com/album/5Ftz250CdsmP245ch6fUi4"
+      },
+      "artists": [
+        {
+          "name": "Alex Amor",
+          "url": "https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232666,
+      "name": "Aquamarine",
+      "url": "https://open.spotify.com/track/1N9IeARyJvRI9Fv5XMpih4"
+    },
+    {
+      "album": {
         "name": "Aquarius Moon",
         "url": "https://open.spotify.com/album/29PGh88gKWdfbs1w7yju3p"
       },
@@ -2474,6 +2492,24 @@
       "duration_ms": 241487,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/7fhJE5Ho4MAt38aqRQiDlj"
+    },
+    {
+      "album": {
+        "name": "Bittersweet Escape",
+        "url": "https://open.spotify.com/album/5FzOA3oAxjHzoLxo4SC6Ed"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167860,
+      "name": "Bittersweet Escape",
+      "url": "https://open.spotify.com/track/7m048jBthqhBF62d67E1kM"
     },
     {
       "album": {
@@ -4124,7 +4160,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 170061,
       "name": "CHEAP STUFF",
       "url": "https://open.spotify.com/track/34u7cWNiFu4F8ap9ErrmyF"
@@ -4773,6 +4809,24 @@
     },
     {
       "album": {
+        "name": "CRAWLING OUT MY SKIN",
+        "url": "https://open.spotify.com/album/7j9Oes4f4ejjqLZ7QcT0af"
+      },
+      "artists": [
+        {
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "CRAWLING OUT MY SKIN",
+      "url": "https://open.spotify.com/track/5QRdC0sH4GR7BCrvLUgadP"
+    },
+    {
+      "album": {
         "name": "Mountain Music (The Summit)",
         "url": "https://open.spotify.com/album/73LgNgE8rFoEUWacJ9dFut"
       },
@@ -5386,6 +5440,24 @@
       "duration_ms": 187627,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/6LgjqqJxjDGApJSltq2CXK"
+    },
+    {
+      "album": {
+        "name": "Dependent",
+        "url": "https://open.spotify.com/album/6PHUj1PI8BVwZlVpPKX7lT"
+      },
+      "artists": [
+        {
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180514,
+      "name": "Dependent",
+      "url": "https://open.spotify.com/track/60vroCBYfVR1UijoHFJJIR"
     },
     {
       "album": {
@@ -6884,6 +6956,24 @@
       "duration_ms": 231821,
       "name": "Everything Changes (But I Won't)",
       "url": "https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB"
+    },
+    {
+      "album": {
+        "name": "Everything Has Changed",
+        "url": "https://open.spotify.com/album/3LLPduhT2zbIogAieC5Zzh"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Hall",
+          "url": "https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Everything Has Changed",
+      "url": "https://open.spotify.com/track/2pV9u6adwSpIWao14cMwE4"
     },
     {
       "album": {
@@ -11240,7 +11330,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 147800,
       "name": "In Two",
       "url": "https://open.spotify.com/track/2chCyZz2DG5uRasGN40x28"
@@ -11960,7 +12050,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 146600,
       "name": "Kiss My Levi's",
       "url": "https://open.spotify.com/track/3EOc927LqursoU8Qx1zZxX"
@@ -13080,7 +13170,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 157188,
       "name": "love you like crazy",
       "url": "https://open.spotify.com/track/7H6e2h4XUtxkIXtkXUPsSA"
@@ -13314,7 +13404,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 236413,
       "name": "made for love",
       "url": "https://open.spotify.com/track/0wcH106ZfD71Vw2riAZnGv"
@@ -13534,7 +13624,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 155004,
       "name": "Man of the House",
       "url": "https://open.spotify.com/track/4j3tybPIKiCmp1Zm2hLD9Z"
@@ -14614,7 +14704,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 287630,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/5zoH2eQIgb8jNkXJGgque3"
@@ -14891,6 +14981,24 @@
     },
     {
       "album": {
+        "name": "No Narcotics",
+        "url": "https://open.spotify.com/album/1XyWbK9QroIJngVcDJAFi1"
+      },
+      "artists": [
+        {
+          "name": "Orchid",
+          "url": "https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168445,
+      "name": "No Narcotics",
+      "url": "https://open.spotify.com/track/3x9R6kjsYRX022NcZCXBnQ"
+    },
+    {
+      "album": {
         "name": "No Place Like You",
         "url": "https://open.spotify.com/album/6405c6m9bzga6WHRpFRBdz"
       },
@@ -14920,7 +15028,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 206118,
       "name": "Nobody Can Know",
       "url": "https://open.spotify.com/track/2Bfb8eFJ4aQUL41FmiptD6"
@@ -18087,6 +18195,24 @@
     },
     {
       "album": {
+        "name": "Settles",
+        "url": "https://open.spotify.com/album/2pTyUXXYADDihZpf20ZE3q"
+      },
+      "artists": [
+        {
+          "name": "Nell Mescal",
+          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212047,
+      "name": "Settles",
+      "url": "https://open.spotify.com/track/3krv0hI3YMv8XQpC9lnvhI"
+    },
+    {
+      "album": {
         "name": "sex dreams do cum tru",
         "url": "https://open.spotify.com/album/5YzxSH4ctA14VlbzNKmrAP"
       },
@@ -18660,7 +18786,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 180172,
       "name": "Skin",
       "url": "https://open.spotify.com/track/58HVudmVLO9xJRzIB73Q10"
@@ -19438,7 +19564,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 183066,
       "name": "Stay Over",
       "url": "https://open.spotify.com/track/63ILSMQiCCGDYMaX4osXK7"
@@ -21689,6 +21815,42 @@
     },
     {
       "album": {
+        "name": "girl in stem",
+        "url": "https://open.spotify.com/album/17Ro49BRz5Gveylng2A7Ri"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/6CIbLErx7WosfLorB4JE1T"
+    },
+    {
+      "album": {
+        "name": "On Your Side",
+        "url": "https://open.spotify.com/album/5H8h2QQ48TwqBpi6jXNDyr"
+      },
+      "artists": [
+        {
+          "name": "December 10",
+          "url": "https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/3RHtI2W6ZlAuM0r96nLhC9"
+    },
+    {
+      "album": {
         "name": "trespass coat",
         "url": "https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1"
       },
@@ -22364,6 +22526,24 @@
       "duration_ms": 149002,
       "name": "What Happened?",
       "url": "https://open.spotify.com/track/1jOvqIzgRTqPwWGzbmeEqh"
+    },
+    {
+      "album": {
+        "name": "Wheels Come Off",
+        "url": "https://open.spotify.com/album/2Ug1wvfipYLc5ecbFGKowH"
+      },
+      "artists": [
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207813,
+      "name": "Wheels Come Off",
+      "url": "https://open.spotify.com/track/0iGsGiJ2NBiKr2lolzbznn"
     },
     {
       "album": {
@@ -23066,7 +23246,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 175531,
       "name": "You & i",
       "url": "https://open.spotify.com/track/3PNtbHpajrBXnoJ83WDPiL"

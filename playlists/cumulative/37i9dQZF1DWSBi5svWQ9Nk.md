@@ -2,9 +2,9 @@
 
 ### [Hot Hits NL](https://open.spotify.com/playlist/37i9dQZF1DWSBi5svWQ9Nk)
 
-> De 50 grootste hits in NL\. Cover: Rutger van Barneveld
+> De 50 grootste hits in NL\. Cover: Roxy Dekker
 
-641 songs - 1 day 7 hr 31 min
+642 songs - 1 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 | 2025-06-26 | 2025-10-24 |
 | [Alles Op Gevoel](https://open.spotify.com/track/2hCc09htDSAQobdmbYWryY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Alles Op Gevoel](https://open.spotify.com/album/0NSk5echypu0j5gJ8x2MNp) | 2:49 | 2024-01-12 | 2024-08-13 |
 | [Alles Wordt Beter](https://open.spotify.com/track/5d0KtdnoPpniNFngV5ehcP) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Alles Wordt Beter](https://open.spotify.com/album/7CgvY0HQwJiDPh9ENB59DB) | 3:11 | 2025-04-24 | 2025-07-11 |
-| [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 | 2026-03-12 |  |
+| [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 | 2026-03-12 | 2026-07-10 |
 | [American Town](https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:17 | 2023-11-09 | 2023-12-15 |
 | [AMG](https://open.spotify.com/track/3yPelJTTB5ZTloQPBwd8dt) | [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [AMG](https://open.spotify.com/album/6Pfv4930oMiFojXF4HjX9R) | 2:24 | 2023-07-13 | 2023-08-04 |
 | [Angel Numbers / Ten Toes](https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 5:06 | 2023-12-08 | 2024-03-29 |
@@ -318,6 +318,7 @@
 | [Ken Je Dat Gevoel](https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Ken Je Dat Gevoel](https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x) | 2:51 | 2025-01-16 | 2025-05-23 |
 | [Kiki](https://open.spotify.com/track/7CqWn1gA0R9tCFTpTOcLLZ) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Love Doesn't Exist](https://open.spotify.com/album/4A2PB1hCtF2tcmUsaa9jYO) | 3:08 | 2024-04-11 | 2024-04-26 |
 | [KiLELE](https://open.spotify.com/track/404Il8wdrtHc2Wgcl0rfjT) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [KiLELE](https://open.spotify.com/album/402gAvYew9C7igBTsZgPSz) | 2:38 | 2025-05-15 | 2025-05-30 |
+| [Kingdom of Fear](https://open.spotify.com/track/5NIrBJ64wXc8eZB317cmqZ) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Deep Water](https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78) | 2:41 | 2026-07-09 |  |
 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 | 2024-09-12 | 2025-04-11 |
 | [Knalprobleem](https://open.spotify.com/track/7kWJE0vHK66DyAvtRpKqcP) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Knalprobleem](https://open.spotify.com/album/6rg0zIAUmB3z06LTToM5gS) | 2:03 | 2025-10-16 | 2025-11-28 |
 | [Kwijt](https://open.spotify.com/track/6P3cbZ06AN6B5vcF1cyOz1) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 2:51 | 2024-01-18 | 2024-02-23 |

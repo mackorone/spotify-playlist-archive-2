@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAABdNb1oYaguE4RL+NhW2JIJ",
+  "snapshot_id": "ak2TAAAAAADiGvaRyHn+tL+GP0Z3S+Tm",
   "tracks": [
     {
       "added_at": null,
@@ -123,18 +123,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Way Love",
-        "url": "https://open.spotify.com/album/4J8klFc6tXtpSwRt9Z6gvF"
+        "name": "Classic Shit (feat. Darryl J)",
+        "url": "https://open.spotify.com/album/7KN7e2uelEcRvvo98TA0kD"
       },
       "artists": [
         {
+          "name": "BANKKNOT P",
+          "url": "https://open.spotify.com/artist/3vRcNA61txR7YLC01dUwoK"
+        },
+        {
           "name": "Carl Carlton",
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        },
+        {
+          "name": "Darryl J",
+          "url": "https://open.spotify.com/artist/4J4HwYBtMIjXShTzt68YrR"
         }
       ],
-      "duration_ms": 149606,
-      "name": "Three Way Love",
-      "url": "https://open.spotify.com/track/3cs4NayPNNcJ03KIjDJFBO"
+      "duration_ms": 192500,
+      "name": "Classic Shit (feat. Darryl J)",
+      "url": "https://open.spotify.com/track/7eGrNYTDoHQBEwbLRPpELk"
     },
     {
       "added_at": null,
@@ -187,26 +195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classic Shit (feat. Darryl J)",
-        "url": "https://open.spotify.com/album/7KN7e2uelEcRvvo98TA0kD"
+        "name": "Three Way Love",
+        "url": "https://open.spotify.com/album/4J8klFc6tXtpSwRt9Z6gvF"
       },
       "artists": [
         {
-          "name": "BANKKNOT P",
-          "url": "https://open.spotify.com/artist/3vRcNA61txR7YLC01dUwoK"
-        },
-        {
           "name": "Carl Carlton",
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        },
-        {
-          "name": "Darryl J",
-          "url": "https://open.spotify.com/artist/4J4HwYBtMIjXShTzt68YrR"
         }
       ],
-      "duration_ms": 192500,
-      "name": "Classic Shit (feat. Darryl J)",
-      "url": "https://open.spotify.com/track/7eGrNYTDoHQBEwbLRPpELk"
+      "duration_ms": 149606,
+      "name": "Three Way Love",
+      "url": "https://open.spotify.com/track/3cs4NayPNNcJ03KIjDJFBO"
     },
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 313721,
-      "name": "Universal Girl",
-      "url": "https://open.spotify.com/track/4O2N9wZ1KvvfjIGlM786K7"
+      "duration_ms": 211490,
+      "name": "You've Been So Good to Me",
+      "url": "https://open.spotify.com/track/5KqvCWNr7WMMVuD4GtTiL1"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 378907,
-      "name": "Spend the Night",
-      "url": "https://open.spotify.com/track/7GfdXWpwnUeqAtzDXsCV0i"
+      "duration_ms": 313721,
+      "name": "Universal Girl",
+      "url": "https://open.spotify.com/track/4O2N9wZ1KvvfjIGlM786K7"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 211490,
-      "name": "You've Been So Good to Me",
-      "url": "https://open.spotify.com/track/5KqvCWNr7WMMVuD4GtTiL1"
+      "duration_ms": 378907,
+      "name": "Spend the Night",
+      "url": "https://open.spotify.com/track/7GfdXWpwnUeqAtzDXsCV0i"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't You Need a Boy Like Me",
-        "url": "https://open.spotify.com/album/3slEt5DjLk1aBN9owomaXM"
+        "name": "Hold On a Little Longer",
+        "url": "https://open.spotify.com/album/78kWRNYPsSD4HSMBTNNiQq"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 116888,
-      "name": "Don't You Need a Boy Like Me",
-      "url": "https://open.spotify.com/track/3zLEgjXLFNp9ucP5003ZNQ"
+      "duration_ms": 201962,
+      "name": "Hold On a Little Longer",
+      "url": "https://open.spotify.com/track/7uNmf3URsQftTLFPXo5VRM"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold On a Little Longer",
-        "url": "https://open.spotify.com/album/78kWRNYPsSD4HSMBTNNiQq"
+        "name": "Don't You Need a Boy Like Me",
+        "url": "https://open.spotify.com/album/3slEt5DjLk1aBN9owomaXM"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 201962,
-      "name": "Hold On a Little Longer",
-      "url": "https://open.spotify.com/track/7uNmf3URsQftTLFPXo5VRM"
+      "duration_ms": 116888,
+      "name": "Don't You Need a Boy Like Me",
+      "url": "https://open.spotify.com/track/3zLEgjXLFNp9ucP5003ZNQ"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Private Property",
-        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
+        "name": "Two Timer",
+        "url": "https://open.spotify.com/album/1voy5GjsqFOhSeIqhS9hYt"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 232521,
-      "name": "Thank You for Sticking Around",
-      "url": "https://open.spotify.com/track/4XA7G7vlHRnMK6eEQYJDLs"
+      "duration_ms": 154250,
+      "name": "Two Timer",
+      "url": "https://open.spotify.com/track/0GLEMJnSLLZYY8ubZ6JkK9"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two Timer",
-        "url": "https://open.spotify.com/album/1voy5GjsqFOhSeIqhS9hYt"
+        "name": "Private Property",
+        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
       },
       "artists": [
         {
@@ -532,15 +532,15 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 154250,
-      "name": "Two Timer",
-      "url": "https://open.spotify.com/track/0GLEMJnSLLZYY8ubZ6JkK9"
+      "duration_ms": 232521,
+      "name": "Thank You for Sticking Around",
+      "url": "https://open.spotify.com/track/4XA7G7vlHRnMK6eEQYJDLs"
     },
     {
       "added_at": null,
       "album": {
-        "name": "You Times Me Plus Love",
-        "url": "https://open.spotify.com/album/44jRoq7XaNWNbqyuGzPFuf"
+        "name": "Rare Sweet & Soul 12",
+        "url": "https://open.spotify.com/album/5tHj3OaG7TdK70nooRsuKK"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 144503,
-      "name": "You Times Me Plus Love",
-      "url": "https://open.spotify.com/track/5I77aUEixy9laeC5C4cQS1"
+      "duration_ms": 249506,
+      "name": "This feeling's rated extra",
+      "url": "https://open.spotify.com/track/3d9DTKYyBWqj1aKqbAeTeT"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rare Sweet & Soul 12",
-        "url": "https://open.spotify.com/album/5tHj3OaG7TdK70nooRsuKK"
+        "name": "You Times Me Plus Love",
+        "url": "https://open.spotify.com/album/44jRoq7XaNWNbqyuGzPFuf"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 249506,
-      "name": "This feeling's rated extra",
-      "url": "https://open.spotify.com/track/3d9DTKYyBWqj1aKqbAeTeT"
+      "duration_ms": 144503,
+      "name": "You Times Me Plus Love",
+      "url": "https://open.spotify.com/track/5I77aUEixy9laeC5C4cQS1"
     },
     {
       "added_at": null,

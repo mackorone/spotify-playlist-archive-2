@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 
 > Dedicata a chi non ha rischiato ed è sempre andato al massimo  ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,462 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,461 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 23 | [Mi sono innamorato di mia moglie](https://open.spotify.com/track/7vvzB2UIc9cZUxrSNN5U9u) | [Gianni Nazzaro](https://open.spotify.com/artist/4Xyv6XmF999fSruMHlHu6o) | [Il meglio](https://open.spotify.com/album/64N7AuJBH4se9KM2GXzdsc) | 3:47 |
 | 24 | [Il farmacista](https://open.spotify.com/track/3tx0Rl5JSvTVfPMuDd0CdN) | [Max Gazzè](https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa) | [Il farmacista](https://open.spotify.com/album/5O37ctKTp6CZyfhrRZhLq3) | 4:11 |
 | 25 | [Mezze verità](https://open.spotify.com/track/7rdw5FwyUOuXtTQCKRtsWy) | [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N) | [Playlist: Sottotono](https://open.spotify.com/album/3PNhqVcLql4ffwqtzIKXMr) | 4:18 |
-| 26 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Il Ragazzo Della Via Gluck \(2012 Remaster\)](https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V) | 4:13 |
-| 27 | [Buona Giornata](https://open.spotify.com/track/7LFXimqV3fbyE1IQrTkwlk) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Made In Italy](https://open.spotify.com/album/0aHIpO6L0A7hgp5Czy8OFF) | 3:38 |
+| 26 | [Buona Giornata](https://open.spotify.com/track/7LFXimqV3fbyE1IQrTkwlk) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Made In Italy](https://open.spotify.com/album/0aHIpO6L0A7hgp5Czy8OFF) | 3:38 |
+| 27 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Il Ragazzo Della Via Gluck \(2012 Remaster\)](https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V) | 4:13 |
 | 28 | [Linda Bella Linda \- 2004 Digital Remaster](https://open.spotify.com/track/2YCL69ro0MbYfCQHj0rY7z) | [Daniel Sentacruz Ensemble](https://open.spotify.com/artist/0VkTO4kWbmwTFNReojnv26) | [Daniel Sentacruz Ensemble: Solo Grandi Successi](https://open.spotify.com/album/5f9JDlOz09tMEcXmWljoZ0) | 3:42 |
 | 29 | [Verso il 2000](https://open.spotify.com/track/2Jgl0CTX70DeULejc5XUsn) | [Flavia Fortunato](https://open.spotify.com/artist/6u4qQuBV1wEiChGgPVT45f) | [Verso il 2000](https://open.spotify.com/album/5QybZhfwjSfKnDIRkmi1h6) | 4:34 |
 | 30 | [Bada Bambina](https://open.spotify.com/track/4KvJHSwn7GG5XVg1PSC9vQ) | [Little Tony](https://open.spotify.com/artist/6g9yfu8k5sapPN9iisZhEW) | [Little Tony](https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys) | 2:54 |

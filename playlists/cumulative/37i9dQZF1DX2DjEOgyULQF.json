@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 160076,
       "name": "Crystal Shore",
       "url": "https://open.spotify.com/track/1B7gbkPVwmZdCE0PZpglzl"
@@ -6876,6 +6876,24 @@
       "duration_ms": 147957,
       "name": "Sub Nubibus",
       "url": "https://open.spotify.com/track/7IoL1mOhd9J4yRQx5Rvq2n"
+    },
+    {
+      "album": {
+        "name": "Summer Haze",
+        "url": "https://open.spotify.com/album/6461BTT1Fhnku0P2qKfqdq"
+      },
+      "artists": [
+        {
+          "name": "Undis",
+          "url": "https://open.spotify.com/artist/6YjkEQuODblFDXN3AsCYKo"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184390,
+      "name": "Summer Haze",
+      "url": "https://open.spotify.com/track/5e2uQeP2XzYVvvF74jKs9Y"
     },
     {
       "album": {

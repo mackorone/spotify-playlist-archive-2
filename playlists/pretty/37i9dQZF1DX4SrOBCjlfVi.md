@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Ken Carson, J Hus, Rylo Rodriguez and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,860 likes - 49 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,914 likes - 49 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 23 | [Front & Bacc](https://open.spotify.com/track/0ryLK6sqGWmTd3P1GD7hFf) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Rich Rapping II](https://open.spotify.com/album/2HzEIHx4raKJbL4pK9f7re) | 1:41 |
 | 24 | [That's That](https://open.spotify.com/track/42D4wXZjIdDtINUCYu8t7a) | [DB.Boutabag](https://open.spotify.com/artist/3xGQQ8pYMw09C0YDkVS4mr) | [That's That](https://open.spotify.com/album/46UuSEizvFsUec3uBDaXOR) | 2:01 |
 | 25 | [Shake Sum](https://open.spotify.com/track/7DMl9kilKfXjqvD1V23n9E) | [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [Shake Sum](https://open.spotify.com/album/2z2Ym2bORwQY3rg4OPzCeY) | 1:34 |
-| 26 | [Is Loving Really Bad](https://open.spotify.com/track/0glAAFulS8PHqD1b35sKz6) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Is Loving Really Bad](https://open.spotify.com/album/5gD0Dn9wTqvAq4O73895dI) | 2:28 |
+| 26 | [Is Loving Really Bad](https://open.spotify.com/track/0glAAFulS8PHqD1b35sKz6) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Is Loving Really Bad](https://open.spotify.com/album/5gD0Dn9wTqvAq4O73895dI) | 2:26 |
 | 27 | [Another Day In The Sun](https://open.spotify.com/track/0xLgfrSygRlQnE5e8g0LWy) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM) | [Another Day In The Sun](https://open.spotify.com/album/08j4a5cZPyHMTxfXx03F4I) | 2:47 |
 | 28 | [MIU MIU SKIRT](https://open.spotify.com/track/1eoD3jxrYCKBU23T06Bsmx) | [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G) | [MIU MIU SKIRT](https://open.spotify.com/album/0uMBZHmaO0DLSnam78TwoV) | 2:18 |
 | 29 | [Gameboi](https://open.spotify.com/track/0zF18WMaq0TvSGvUcU6F0n) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Gameboi](https://open.spotify.com/album/5on9WThrgVpfVdxI4zDG9S) | 2:33 |

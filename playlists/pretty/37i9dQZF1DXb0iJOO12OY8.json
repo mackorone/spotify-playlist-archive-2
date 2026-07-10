@@ -1,12 +1,12 @@
 {
   "description": "Heia Norge \ud83c\uddf3\ud83c\uddf4\u26bd\ufe0f\ud83c\udfdf\ufe0f",
-  "num_followers": 216505,
+  "num_followers": 216885,
   "original_name": "Alt for Norge!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABj+wYURcHjYiaw8eeSaAo2yTM4t",
+  "snapshot_id": "AAAAAHXs5SQug1mn09n3sGiL+vgTy6pu",
   "tracks": [
     {
       "added_at": "2026-06-16 12:32:34",
@@ -377,6 +377,30 @@
       "url": "https://open.spotify.com/track/3MnAsEBBsEj86d03RgO4EM"
     },
     {
+      "added_at": "2026-07-09 08:41:01",
+      "album": {
+        "name": "+47 (oh ol\u00e9)",
+        "url": "https://open.spotify.com/album/3mpa6r4bfNUc3khM6zYjHJ"
+      },
+      "artists": [
+        {
+          "name": "Jonico",
+          "url": "https://open.spotify.com/artist/3qIGDkJ0dqe1tJSbGP16iR"
+        },
+        {
+          "name": "Samuel Lola",
+          "url": "https://open.spotify.com/artist/4zMSpw4meW8Bb3bqbGU0tT"
+        },
+        {
+          "name": "BIGZ",
+          "url": "https://open.spotify.com/artist/5RYuVXIs5bEO0h3kr4P3ne"
+        }
+      ],
+      "duration_ms": 155912,
+      "name": "+47 (oh ol\u00e9)",
+      "url": "https://open.spotify.com/track/4gKZZ9xw0dyGzEm5RnHkAe"
+    },
+    {
       "added_at": "2026-06-16 10:57:10",
       "album": {
         "name": "Magnetic / Addicted To Your Love",
@@ -429,6 +453,22 @@
       "url": "https://open.spotify.com/track/61UNCRjs82yxBMRtgAgPMO"
     },
     {
+      "added_at": "2026-07-09 08:41:01",
+      "album": {
+        "name": "Vi er Norge",
+        "url": "https://open.spotify.com/album/1rFlvVaICoq08SUNwpPqaX"
+      },
+      "artists": [
+        {
+          "name": "J\u00f8rn Lande",
+          "url": "https://open.spotify.com/artist/3aOVLHmQbwbOq4nl4XcGSC"
+        }
+      ],
+      "duration_ms": 259108,
+      "name": "Vi er Norge",
+      "url": "https://open.spotify.com/track/1FRmrLVrQLPPIBLCbeQUdt"
+    },
+    {
       "added_at": "2026-06-16 10:57:10",
       "album": {
         "name": "FRI",
@@ -467,22 +507,6 @@
     {
       "added_at": "2026-06-16 10:57:10",
       "album": {
-        "name": "Bender",
-        "url": "https://open.spotify.com/album/3ifaviRvCs4EvVTAneLnYn"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8te & Rare",
-          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
-        }
-      ],
-      "duration_ms": 139975,
-      "name": "Bender",
-      "url": "https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS"
-    },
-    {
-      "added_at": "2026-06-16 10:57:10",
-      "album": {
         "name": "Tobias Sten",
         "url": "https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH"
       },
@@ -495,6 +519,50 @@
       "duration_ms": 215156,
       "name": "Fy faen du e deili",
       "url": "https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6"
+    },
+    {
+      "added_at": "2026-07-09 08:41:01",
+      "album": {
+        "name": "Alt for Norge / Vi heier p\u00e5 v\u00e5rt lille land",
+        "url": "https://open.spotify.com/album/6Qg9Bgr5pZT9BT0ufN2Ms7"
+      },
+      "artists": [
+        {
+          "name": "St\u00e5les menn",
+          "url": "https://open.spotify.com/artist/7jdPqVIVJ9kb4u4JT5v3VX"
+        },
+        {
+          "name": "Andreas Gjefle",
+          "url": "https://open.spotify.com/artist/0Bu6xDBv66W7kMNQf9Gs9d"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "Alt for Norge",
+      "url": "https://open.spotify.com/track/5JS9FgAexJae4Uj7VdiqO1"
+    },
+    {
+      "added_at": "2026-06-16 10:57:10",
+      "album": {
+        "name": "Norge i r\u00f8dt, hvitt og bl\u00e5tt",
+        "url": "https://open.spotify.com/album/70xWT6PMJ5A8XX4sunFI2Z"
+      },
+      "artists": [
+        {
+          "name": "RykkinnFella",
+          "url": "https://open.spotify.com/artist/6KSaWsYvSy4JV7pM6MWQEK"
+        },
+        {
+          "name": "Jack Dee",
+          "url": "https://open.spotify.com/artist/1O4AnKY2Rp3ZNM5EmUqJrd"
+        },
+        {
+          "name": "Ola Nordmann",
+          "url": "https://open.spotify.com/artist/1NmbrZqVbinlAMscrnV3Jt"
+        }
+      ],
+      "duration_ms": 153095,
+      "name": "Norge i r\u00f8dt hvitt, og bl\u00e5tt",
+      "url": "https://open.spotify.com/track/7LaHknYqqjZX59BJT305fw"
     },
     {
       "added_at": "2026-06-16 10:57:10",
@@ -613,28 +681,20 @@
       "url": "https://open.spotify.com/track/7IwFAjqSi5EjQlkq8rE29y"
     },
     {
-      "added_at": "2026-06-16 10:57:10",
+      "added_at": "2026-07-09 08:41:01",
       "album": {
-        "name": "Norge i r\u00f8dt, hvitt og bl\u00e5tt",
-        "url": "https://open.spotify.com/album/70xWT6PMJ5A8XX4sunFI2Z"
+        "name": "Runaljod \u2013 Yggdrasil",
+        "url": "https://open.spotify.com/album/7LsNPzgWHwrsLMRsWuiEJa"
       },
       "artists": [
         {
-          "name": "RykkinnFella",
-          "url": "https://open.spotify.com/artist/6KSaWsYvSy4JV7pM6MWQEK"
-        },
-        {
-          "name": "Jack Dee",
-          "url": "https://open.spotify.com/artist/1O4AnKY2Rp3ZNM5EmUqJrd"
-        },
-        {
-          "name": "Ola Nordmann",
-          "url": "https://open.spotify.com/artist/1NmbrZqVbinlAMscrnV3Jt"
+          "name": "Wardruna",
+          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
         }
       ],
-      "duration_ms": 153095,
-      "name": "Norge i r\u00f8dt hvitt, og bl\u00e5tt",
-      "url": "https://open.spotify.com/track/7LaHknYqqjZX59BJT305fw"
+      "duration_ms": 431866,
+      "name": "Helvegen",
+      "url": "https://open.spotify.com/track/0OXEH9T6QSQCrmnjdtpf4P"
     },
     {
       "added_at": "2026-06-16 10:57:10",
@@ -659,18 +719,18 @@
     {
       "added_at": "2026-06-16 10:57:10",
       "album": {
-        "name": "Runaljod \u2013 gap var Ginnunga",
-        "url": "https://open.spotify.com/album/5CgXaggLWT1a8fWtJ86h3K"
+        "name": "Bender",
+        "url": "https://open.spotify.com/album/3ifaviRvCs4EvVTAneLnYn"
       },
       "artists": [
         {
-          "name": "Wardruna",
-          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
+          "name": "S\u00f8te & Rare",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
         }
       ],
-      "duration_ms": 139320,
-      "name": "\u00c1r var alda",
-      "url": "https://open.spotify.com/track/2xAWy0hRNZG5wKhxQJXGn6"
+      "duration_ms": 139975,
+      "name": "Bender",
+      "url": "https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS"
     },
     {
       "added_at": "2026-06-16 10:57:10",

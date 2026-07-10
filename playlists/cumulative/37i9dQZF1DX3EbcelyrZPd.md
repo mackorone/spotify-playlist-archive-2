@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Jux & Mbosso
+> Get your fill of vibes straight out of Tanzania\. Cover: Ibraah
 
-696 songs - 1 day 15 hr 30 min
+699 songs - 1 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Confidence](https://open.spotify.com/track/2sloZtCWM9mtuNw5gRTc1Q) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi) | [Confidence](https://open.spotify.com/album/1OHAqPWf7hbaprgcK7ziVg) | 2:49 | 2025-01-23 | 2025-07-04 |
 | [Controller](https://open.spotify.com/track/4Bpkbim8Fxw8dSdqVFgzbX) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Controller](https://open.spotify.com/album/07kcDlbjoCj3aFEw63CDA2) | 3:05 | 2022-08-11 | 2023-02-24 |
 | [Copy & Paste](https://open.spotify.com/track/612srFENT5FqUHk715dJJ3) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Copy & Paste](https://open.spotify.com/album/7xW1O2Gs7fYKPMcx6f3h64) | 3:09 | 2025-05-15 | 2026-06-19 |
-| [Crazy](https://open.spotify.com/track/0tApafDWAspLGlSiH9QWRB) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi), [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj) | [Crazy](https://open.spotify.com/album/5FYpusdzL6oiKqtBkWlprn) | 2:10 | 2026-04-16 |  |
+| [Crazy](https://open.spotify.com/track/0tApafDWAspLGlSiH9QWRB) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi), [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj) | [Crazy](https://open.spotify.com/album/5FYpusdzL6oiKqtBkWlprn) | 2:10 | 2026-04-16 | 2026-07-10 |
+| [Crown](https://open.spotify.com/track/7JGcBs1zowrL3rYS3qPcIX) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Crown](https://open.spotify.com/album/7MsbcOAMK6MCqILd0ezjkt) | 3:38 | 2026-07-10 |  |
 | [Daddy](https://open.spotify.com/track/4HU8Lq2LQZxiUTlkKXZzId) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Daddy](https://open.spotify.com/album/0hAbQ2yAopHo4xs4iw4mhi) | 3:22 | 2024-02-29 | 2024-12-06 |
 | [Dah!](https://open.spotify.com/track/3TXlJ5pREGbzgm6kMurKPy) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Dah!](https://open.spotify.com/album/6TRD05CyMKYFv5BDlZWidL) | 2:59 | 2024-01-18 | 2024-02-02 |
 | [Dah! \(feat\. Alikiba\)](https://open.spotify.com/track/4aiEer4vCjTyuRAVFAlmGD) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Dah! \(feat\. Alikiba\)](https://open.spotify.com/album/3W0tL0BDQHyKP4Wjol9Ps6) | 3:08 | 2024-02-01 | 2025-02-07 |
@@ -610,7 +611,8 @@
 | [U & I](https://open.spotify.com/track/7eC2CHUQLTUCMoM4TJWlWS) | [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH) | [U & I](https://open.spotify.com/album/5w7M7I2kIAO2wkmjfQl9kh) | 2:26 | 2022-07-14 | 2022-10-08 |
 | [UA](https://open.spotify.com/track/7qDnZtMk1yjQFkLaollEhQ) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [MMMCXII](https://open.spotify.com/album/3MGrxXwAivRhHt7BdVb5Z5) | 3:21 | 2026-05-29 |  |
 | [Ubuyu](https://open.spotify.com/track/1mU5xiFnlk7E8cMT5hV0u2) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Ubuyu](https://open.spotify.com/album/2bE5kJZMMkfcr3cPB5GV9V) | 3:47 | 2025-07-03 | 2026-05-01 |
-| [Uhakika](https://open.spotify.com/track/65kjHZwOyFP5ZM88XZrdfC) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [PM](https://open.spotify.com/album/5jPZv395c02JpG6P2CfDBd) | 3:31 | 2026-04-09 |  |
+| [Uhakika](https://open.spotify.com/track/65kjHZwOyFP5ZM88XZrdfC) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [PM](https://open.spotify.com/album/5jPZv395c02JpG6P2CfDBd) | 3:31 | 2026-04-09 | 2026-07-10 |
+| [Uhakika \- Remix](https://open.spotify.com/track/6Lr6yCLJz8dYhdvhvlCoDv) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Uhakika \(Remix\)](https://open.spotify.com/album/7I9e7Vm3KKw1Db94EqqvJG) | 3:41 | 2026-07-10 |  |
 | [Ujana](https://open.spotify.com/track/4aldg54TvCNPThgji8Syda) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Ujana](https://open.spotify.com/album/6z3OZUCoYCuYGnB3eru2nm) | 3:36 | 2024-08-15 | 2025-07-11 |
 | [Ukiniita](https://open.spotify.com/track/1a17ieOkzl7EYM93imiYqR) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Ukiniita](https://open.spotify.com/album/4jwiLihnEPa7w679H0F1Uq) | 3:32 | 2025-02-27 | 2025-09-20 |
 | [Uko Wapi](https://open.spotify.com/track/1j0UtHCxXqWzN43aPK1M64) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1) | [Uko Wapi](https://open.spotify.com/album/2lv7GEEu2x3IhahukEp89E) | 4:58 | 2026-01-01 | 2026-05-01 |
@@ -652,6 +654,7 @@
 | [Wanaweweseka](https://open.spotify.com/track/1rRmvbtJKihinccZi5Xbep) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Wanaweweseka](https://open.spotify.com/album/3K61B2XqXn3WpcdRojwWnA) | 3:22 | 2021-09-23 | 2022-05-20 |
 | [Wange](https://open.spotify.com/track/6xAiy56e2VZxSsWT7EKx2A) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Wange](https://open.spotify.com/album/35FjBLon7dtFYhsWJXtR8t) | 2:49 | 2026-03-26 | 2026-06-19 |
 | [Wangu](https://open.spotify.com/track/3rRiEM8ttueIZU59KNSdTe) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Wangu](https://open.spotify.com/album/6oQFivXTgklnz7mHzjQkab) | 3:30 | 2026-02-26 | 2026-03-06 |
+| [Wapi](https://open.spotify.com/track/0KW4jkATD90jEVUH1VYzT0) | [Centano](https://open.spotify.com/artist/4LpwKC4lrWuIGRxfbc8GO0) | [Self Love](https://open.spotify.com/album/7JdVF7n1nxAMrF9tACscLO) | 2:52 | 2026-07-10 |  |
 | [Wapo](https://open.spotify.com/track/1XPxQpP5eFmfp21sdY89xl) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Wapo](https://open.spotify.com/album/0sSuteqvC4BO0roqNxF62I) | 3:12 | 2023-10-05 | 2024-03-01 |
 | [Wasiwasi](https://open.spotify.com/track/5RzxzvDwkaBz3msv2VjSwi) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Wasiwasi](https://open.spotify.com/album/72ObTTZXAXz1TIo3NQSbrz) | 3:56 | 2023-02-23 | 2023-07-14 |
 | [Watu Feki](https://open.spotify.com/track/43EczENfxxOy3nJBqKRcV2) | [Appy](https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv) | [Watu Feki](https://open.spotify.com/album/3IQYzBMNVE9pEnZj2SWzKc) | 3:39 | 2023-08-10 | 2024-11-22 |

@@ -1041,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Chef leck Eier",
+        "url": "https://open.spotify.com/album/6A2YmDPRI7QjcHyoqeWAjU"
+      },
+      "artists": [
+        {
+          "name": "Breitner",
+          "url": "https://open.spotify.com/artist/51nc2EzirxJ4U2nqjXezl6"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139296,
+      "name": "Chef leck Eier",
+      "url": "https://open.spotify.com/track/58WqFigooAAlRBs8fEo0YE"
+    },
+    {
+      "album": {
         "name": "Ciao 3 Tage Blau",
         "url": "https://open.spotify.com/album/0UspjAHvU9oPeNgoyGK5gw"
       },
@@ -1600,7 +1618,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 121000,
       "name": "Erwischt",
       "url": "https://open.spotify.com/track/1usHG4kvIPmpuGwTGLIQaI"
@@ -1898,7 +1916,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 130909,
       "name": "Goal Aperol",
       "url": "https://open.spotify.com/track/2ayjxlaiKqhEXybvgqJb8F"
@@ -2670,7 +2688,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 144747,
       "name": "Jeany in a Bottle",
       "url": "https://open.spotify.com/track/5cKiKzqu3lBILif9Q22Cpk"
@@ -4691,6 +4709,28 @@
     },
     {
       "album": {
+        "name": "STEILGEHEN",
+        "url": "https://open.spotify.com/album/5ScsaWW3oj4opeWrFmjVM9"
+      },
+      "artists": [
+        {
+          "name": "Die T\u00fcnnesse",
+          "url": "https://open.spotify.com/artist/2U9pUM1f7HoVw11R1qhb6J"
+        },
+        {
+          "name": "MiKa One",
+          "url": "https://open.spotify.com/artist/1fUpov7N3GRaezoXsa4aBB"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153666,
+      "name": "STEILGEHEN",
+      "url": "https://open.spotify.com/track/4O50LCHyyqzKSSTP1dQ4Ad"
+    },
+    {
+      "album": {
         "name": "STIMMUNG!",
         "url": "https://open.spotify.com/album/19ZY1xaAX38yA1QR4DfRPx"
       },
@@ -5052,7 +5092,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 138000,
       "name": "Weinst du - Party Edit",
       "url": "https://open.spotify.com/track/6PQAdkDHTg5rmrRTMsUBTc"

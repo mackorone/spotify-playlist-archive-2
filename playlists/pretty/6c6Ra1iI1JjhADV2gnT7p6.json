@@ -6,7 +6,7 @@
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABJuwfTrZtRsBgickHc9fY52v7Y2u8q",
+  "snapshot_id": "AABJvbIfjj80Ym0pUUbIC3DRIJMCM6LO",
   "tracks": [
     {
       "added_at": "2026-07-08 10:32:30",
@@ -135,6 +135,22 @@
     {
       "added_at": "2026-07-08 10:32:30",
       "album": {
+        "name": "Sugar in my Drink",
+        "url": "https://open.spotify.com/album/11hCfkJEc9zDr8zivifLtK"
+      },
+      "artists": [
+        {
+          "name": "Tricky FM",
+          "url": "https://open.spotify.com/artist/2YUC5nYnx0PrmkE3s23Y0l"
+        }
+      ],
+      "duration_ms": 270198,
+      "name": "Sugar in my Drink",
+      "url": "https://open.spotify.com/track/2DVe9FPI1apq1paZR1oY6r"
+    },
+    {
+      "added_at": "2026-07-08 10:32:30",
+      "album": {
         "name": "Attraction",
         "url": "https://open.spotify.com/album/2TiBpImN1lteDXuUoKhX6w"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 197743,
       "name": "TIKI BAR",
       "url": "https://open.spotify.com/track/1XHUuxEU1jRWaB2on1nxM9"
-    },
-    {
-      "added_at": "2026-07-08 10:32:30",
-      "album": {
-        "name": "Every Time We Turn A Corner",
-        "url": "https://open.spotify.com/album/3JCOonvCNGwGu2fUYOfjmB"
-      },
-      "artists": [
-        {
-          "name": "Nixon Boyd",
-          "url": "https://open.spotify.com/artist/6uCdumKzVD3qp3gOH9QwSM"
-        }
-      ],
-      "duration_ms": 166293,
-      "name": "Blindfolded",
-      "url": "https://open.spotify.com/track/4D5QRhxksGFA7544JTo7UD"
     },
     {
       "added_at": "2026-07-08 10:32:30",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-07-08 10:32:30",
       "album": {
-        "name": "Sugar in my Drink",
-        "url": "https://open.spotify.com/album/11hCfkJEc9zDr8zivifLtK"
-      },
-      "artists": [
-        {
-          "name": "Tricky FM",
-          "url": "https://open.spotify.com/artist/2YUC5nYnx0PrmkE3s23Y0l"
-        }
-      ],
-      "duration_ms": 270198,
-      "name": "Sugar in my Drink",
-      "url": "https://open.spotify.com/track/2DVe9FPI1apq1paZR1oY6r"
-    },
-    {
-      "added_at": "2026-07-08 10:32:30",
-      "album": {
         "name": "whole thing",
         "url": "https://open.spotify.com/album/1WydiChL7ocrGkvYJlBdXD"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 265413,
       "name": "whole thing",
       "url": "https://open.spotify.com/track/66DFFKTwEtueKedCE5qt1O"
+    },
+    {
+      "added_at": "2026-07-08 10:32:30",
+      "album": {
+        "name": "Every Time We Turn A Corner",
+        "url": "https://open.spotify.com/album/3JCOonvCNGwGu2fUYOfjmB"
+      },
+      "artists": [
+        {
+          "name": "Nixon Boyd",
+          "url": "https://open.spotify.com/artist/6uCdumKzVD3qp3gOH9QwSM"
+        }
+      ],
+      "duration_ms": 166293,
+      "name": "Blindfolded",
+      "url": "https://open.spotify.com/track/4D5QRhxksGFA7544JTo7UD"
     },
     {
       "added_at": "2026-07-08 10:32:30",
@@ -1238,6 +1238,10 @@
         {
           "name": "Genesis Owusu",
           "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        },
+        {
+          "name": "KYE",
+          "url": "https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp"
         }
       ],
       "duration_ms": 196972,
@@ -13298,6 +13302,14 @@
         {
           "name": "Megasound",
           "url": "https://open.spotify.com/artist/5ReQfFpFV17lXutVutOvJr"
+        },
+        {
+          "name": "Bad Bad Hats",
+          "url": "https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6"
+        },
+        {
+          "name": "Party Nails",
+          "url": "https://open.spotify.com/artist/1PkfHC4LBy4o9UNU2k1yw4"
         }
       ],
       "duration_ms": 207960,

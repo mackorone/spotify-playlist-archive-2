@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: さらさ
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,238 likes - 79 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,262 likes - 79 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 32 | [小豆あらい](https://open.spotify.com/track/4X4WhLy5b859z7mGjdo5xg) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Hidefumi Kenmochi](https://open.spotify.com/artist/7v28R5tD4j8lvl6ok2N8Qg) | [小豆あらい](https://open.spotify.com/album/1xBM7AJhknzBcTFGI24RG9) | 3:25 |
 | 33 | [Looma \- English Ver.](https://open.spotify.com/track/52T7Ll9mOj6Rd462c6rQM5) | [Empty old City](https://open.spotify.com/artist/3RvUqTyR1WwQzNaGuBKnCY) | [Looma \(English Ver.\)](https://open.spotify.com/album/6uF1sSQW1wSpTppBvtVm3s) | 3:23 |
 | 34 | [FAR](https://open.spotify.com/track/0t23kUK11ldnqgBPVrD19z) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [FAR](https://open.spotify.com/album/46mjaDTLoZKnptOpyouvR2) | 3:18 |
-| 35 | [Synchronizer](https://open.spotify.com/track/18LDE6r6J1CyG1VTysZULN) | [KMNZ](https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz) | [Cont'd](https://open.spotify.com/album/0Rz7TBlGoLPLo2YDqXciJx) | 3:17 |
+| 35 | [Synchronizer](https://open.spotify.com/track/18LDE6r6J1CyG1VTysZULN) | [KMNZ](https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz), [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [Cont'd](https://open.spotify.com/album/0Rz7TBlGoLPLo2YDqXciJx) | 3:17 |
 | 36 | [雲海](https://open.spotify.com/track/0WIBr18GCQPEShUK7nbTSM) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [雲海](https://open.spotify.com/album/5jlKIi6cBG6YP6pkrZwYqD) | 6:02 |
 | 37 | [calling you](https://open.spotify.com/track/3kElrR8HyRAnNPRsagvMTq) | [月刊PAM](https://open.spotify.com/artist/65Q0IoeS4rHLyVaHGKqYSq) | [calling you](https://open.spotify.com/album/2RXlQTi7I4ppMiwBK9b2Sh) | 4:11 |
 | 38 | [LOOK BACK](https://open.spotify.com/track/511CeWo1jOVJmXuV2BnVc3) | [是是](https://open.spotify.com/artist/3dp4VySCuZGL1TEBelcnt1) | [LOOK BACK](https://open.spotify.com/album/3bxk6WA0sTR51KawreV6Qg) | 4:12 |

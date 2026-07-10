@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Hadise
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: manifest
 
 333 songs - 16 hr 12 min
 

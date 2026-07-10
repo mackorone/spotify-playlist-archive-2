@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: FILM.
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Kathleen Ivanka
 
-557 songs - 1 day 11 hr 29 min
+559 songs - 1 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Beralih](https://open.spotify.com/track/2idjIFh2881kQFEMNOvKSo) | [Terbit Dari Selatan](https://open.spotify.com/artist/2nydh1CUw2nxO9LYt7y3J0) | [Beralih](https://open.spotify.com/album/0geNK6W1wTH44xPKxTDw0c) | 4:12 | 2025-03-06 | 2025-05-09 |
 | [Beranilah Melawan](https://open.spotify.com/track/2svN10V6fzLbrrKlJYvVKq) | [Dialog Dini Hari](https://open.spotify.com/artist/4gJg421y4bUEvBAMwND149) | [Beranilah Melawan](https://open.spotify.com/album/11sFBkQkbQF7tmPQMiogre) | 4:14 | 2024-09-05 | 2024-12-14 |
 | [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/track/7c03QS94XIfcetKSNDhUdd) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/album/2fBBeFic82PIPRE9t0zQBX) | 4:44 | 2026-05-22 |  |
+| [Berdansa Berdancey](https://open.spotify.com/track/3jLbJfcEP5FcRv32AQYCOB) | [Kathleen Ivanka](https://open.spotify.com/artist/5ExQXrBc4BWeoYrLDwKskF) | [Episode 2: Sticky Situation](https://open.spotify.com/album/6EmngjybN57GG8ivZ5VeRY) | 3:30 | 2026-07-09 |  |
 | [Berdansa di Pesta](https://open.spotify.com/track/3zl5F4BCmmQ0TgNl3iqqGu) | [Aksaranata](https://open.spotify.com/artist/2oqxRLLsnj8YXdqoHUK3dt) | [Berdansa di Pesta](https://open.spotify.com/album/2CaUhA0E0rnKauBuCJRWME) | 3:00 | 2025-10-16 | 2026-02-06 |
 | [Berhasil](https://open.spotify.com/track/4gpG3srdgMXvQUmtXkTlPh) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Berhasil](https://open.spotify.com/album/0haj1kRwOg3FAmaItrFEzm) | 2:52 | 2025-02-13 |  |
 | [Beri Waktu Hidup Tuk Tumbuh](https://open.spotify.com/track/0AM7XbaUa4fKp9L9afolH5) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Beri Waktu Hidup Tuk Tumbuh](https://open.spotify.com/album/4UcYNXkEEDA7LG3KE2h9wi) | 4:14 | 2025-02-13 |  |
@@ -114,6 +115,7 @@
 | [Dari Kemarin](https://open.spotify.com/track/63V1GgVJ5RzwQ9V5V6Psr4) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Dari Kemarin](https://open.spotify.com/album/5nuOKWKTbrozwIxUMdEWD3) | 4:14 | 2025-03-21 | 2025-05-23 |
 | [Datang Dari Mana Saja \- Short Version](https://open.spotify.com/track/6rpcahXTUUmMURZXyY48BC) | [Kapal Udara](https://open.spotify.com/artist/5CvDGL6DI3YjfUujUZZa8f) | [Datang Dari Mana Saja \(Short Version\)](https://open.spotify.com/album/6tRvf8hVpu8iImCGwm8K0w) | 1:00 | 2025-06-12 | 2025-08-22 |
 | [Dear Diary](https://open.spotify.com/track/1Fi14RVbPnkAk2CSFgHskR) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Dear Diary](https://open.spotify.com/album/1ekuciDr4CiXnVOxBpVG5f) | 2:43 | 2025-11-07 | 2026-02-13 |
+| [Deep Breathe](https://open.spotify.com/track/7MUEJZlv3i5oeohNzzjbLV) | [Seagrass And The Waves](https://open.spotify.com/artist/65Jc9hPwMXPfkSo4FMFsFB), [Vika Randia](https://open.spotify.com/artist/1bB8TDS4oZ1j6zVOHd1VI8) | [Deep Breathe](https://open.spotify.com/album/5zfBhuPJ2kcf1LZahvWRRI) | 3:01 | 2026-07-09 |  |
 | [DENTUM](https://open.spotify.com/track/0Ie6cd0pjQ5sDXxlimfyti) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [DENTUM](https://open.spotify.com/album/1j19FQajbchxmR1Yc8GKYJ) | 5:18 | 2025-07-03 | 2026-02-06 |
 | [DERAU](https://open.spotify.com/track/5TUAHiQnqk1jslwwxROgf2) | [Jugo Djarot](https://open.spotify.com/artist/1rhx590gsjFYd8c2vhW6J3) | [DERAU](https://open.spotify.com/album/71TCJStstSDqdgQxwItoXN) | 3:12 | 2025-10-02 | 2026-02-06 |
 | [Dharma](https://open.spotify.com/track/5DQSWzbuysaOIcA5eynSvb) | [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE) | [Dharma](https://open.spotify.com/album/2cOXDoDjNw0xcKvTGajyf6) | 4:12 | 2024-06-27 | 2025-05-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,999 likes - 217 songs - 11 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,998 likes - 217 songs - 11 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 57 | [OctaHate](https://open.spotify.com/track/7JVfDagtyWy9bYsaf37H9K) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:24 |
 | 58 | [Doing It \(feat\. Rita Ora\)](https://open.spotify.com/track/4ljwHVxOaRTuPJe5qtriKr) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 3:48 |
 | 59 | [I might say something stupid](https://open.spotify.com/track/0PFZCt7UNmpas24HejQGu8) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 1:49 |
-| 60 | [When I Find Love Again \- Apollo Edition Version](https://open.spotify.com/track/5aHgzqUqrqlaS8mzAUfo8K) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Moon Landing \(Special Apollo Edition\)](https://open.spotify.com/album/1um82m9PCAD6SDLqkkDsYS) | 3:04 |
-| 61 | [Dying for You](https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:02 |
+| 60 | [Dying for You](https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:02 |
+| 61 | [When I Find Love Again \- Apollo Edition Version](https://open.spotify.com/track/5aHgzqUqrqlaS8mzAUfo8K) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Moon Landing \(Special Apollo Edition\)](https://open.spotify.com/album/1um82m9PCAD6SDLqkkDsYS) | 3:04 |
 | 62 | [So I](https://open.spotify.com/track/0AkiAfilrTUXV49dleC5SB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:31 |
 | 63 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 |
 | 64 | [1 Night \(feat\. Charli XCX\)](https://open.spotify.com/track/06XuHBFQejxy9jhNBaHEwx) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Mura Masa](https://open.spotify.com/album/0NBTBo1qrg554sAj79nEqD) | 3:27 |
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 117 | [Warm \(feat\. HAIM\)](https://open.spotify.com/track/2xHEAdEalJ5YcP0ur8kF6L) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:45 |
 | 118 | [7 years](https://open.spotify.com/track/4jQDJPgw3qkc1T2f1safdy) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [BJ Burton](https://open.spotify.com/artist/79qKFHLgvS3SEabYpohRHz) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 3:15 |
 | 119 | [Out of Myself](https://open.spotify.com/track/48T5DvWKHvVuGyNUPBUX05) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 2:19 |
-| 120 | [Spring breakers featuring kesha](https://open.spotify.com/track/54R8mxbJJJX46oS6uxtIbN) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR) | 2:22 |
-| 121 | [Rock Music](https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Rock Music](https://open.spotify.com/album/1Ct1PzrmnTxWE8w0PTTa4w) | 1:55 |
+| 120 | [Rock Music](https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Rock Music](https://open.spotify.com/album/1Ct1PzrmnTxWE8w0PTTa4w) | 1:55 |
+| 121 | [Spring breakers featuring kesha](https://open.spotify.com/track/54R8mxbJJJX46oS6uxtIbN) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR) | 2:22 |
 | 122 | [visions](https://open.spotify.com/track/5oZIhePTCzvWskktjYgdjr) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 3:49 |
 | 123 | [Official](https://open.spotify.com/track/38ybr0LS9XLUcqg8Yo62Wj) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:04 |
 | 124 | [love gang \(feat\. Charli XCX\)](https://open.spotify.com/track/3jjUphDBlbPzWD3Ft3tya1) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [love gang \(feat\. Charli XCX\)](https://open.spotify.com/album/78fh7LFI68DsHBe5Xt8XFE) | 2:58 |
@@ -186,8 +186,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 176 | [Emotional](https://open.spotify.com/track/6QhqEJFZKUV3DKIsoXbTTH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:53 |
 | 177 | [Me encanta \- I Love It](https://open.spotify.com/track/1kgBwPl0UUHz97Krp65zF4) | [Nancys Rubias](https://open.spotify.com/artist/7DHglFER2ajzSXJvNRwHJl) | [Me encanta \(I love it\)](https://open.spotify.com/album/5GmIVyf9Oqhvi5tFptXpbw) | 2:38 |
 | 178 | [Float On \(feat\. Charli xcx\)](https://open.spotify.com/track/6mN3uDOXjU0CtK8H6GVJlc) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Charli XCX](https://open.spotify.com/artist/0HNqrcl3vgc1U7U1SNtsvB) | [Old](https://open.spotify.com/album/27kBaFri0HzGkn9QlDuaS7) | 3:31 |
-| 179 | [If It's Over \(feat\. Charli XCX\)](https://open.spotify.com/track/3rGdqpn43JMpALFlC01OCE) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Forever Neverland](https://open.spotify.com/album/52c2O1mvqnfAVjX9QNC5yd) | 3:39 |
-| 180 | [Need Ur Luv](https://open.spotify.com/track/70TwpWVlBU1Mv6FRbp5FZ2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 3:45 |
+| 179 | [Need Ur Luv](https://open.spotify.com/track/70TwpWVlBU1Mv6FRbp5FZ2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 3:45 |
+| 180 | [If It's Over \(feat\. Charli XCX\)](https://open.spotify.com/track/3rGdqpn43JMpALFlC01OCE) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Forever Neverland](https://open.spotify.com/album/52c2O1mvqnfAVjX9QNC5yd) | 3:39 |
 | 181 | [Take My Hand](https://open.spotify.com/track/1FIDBdVbLixKj1VEySlKn7) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue) | 4:26 |
 | 182 | [Breaking Up](https://open.spotify.com/track/0CAAEA7BkwbtiQFcUWnaPX) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU) | 2:17 |
 | 183 | [Black Roses](https://open.spotify.com/track/5Nx7AnBwrM1tyS0ciuIvv9) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue) | 3:28 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 216 | [Moonlight](https://open.spotify.com/track/5G1VHdOog0ZhnaURm9CoK3) | [Lil XanniK](https://open.spotify.com/artist/3ahjZbbalgCMwieFg3GrCu) | [S4D](https://open.spotify.com/album/4kgFAxFqpRmn5Qw69NwZTM) | 1:30 |
 | 217 | [Friss meine Shorts](https://open.spotify.com/track/52sdkW14TkAL1lURxnPsgW) | [Bart](https://open.spotify.com/artist/27T8KFq2GCENrgbvjioqIb) | [The Voices of Springfield](https://open.spotify.com/album/2geQRLxx4XzNZHwGYVHVVl) | 2:40 |
 
-Snapshot ID: `AcWVsgAAAADfyVjiffm4lEbn4L2qUO4I`
+Snapshot ID: `AcWbUgAAAADFfxfLQOrwJKRubMaOl5gO`

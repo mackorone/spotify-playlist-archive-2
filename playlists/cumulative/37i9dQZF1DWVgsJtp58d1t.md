@@ -2,7 +2,7 @@
 
 ### [This Is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> In celebration of Black Music Month, we're highlighting Black women who are redefining pop on the global stage\. Click into the feed!
+> The best in Black music! Now featuring our Frequency Zine cover stars <a href="https://www.instagram.com/spotify/p/Dakrekkld0y/">FLO<br/></a>
 
 6,203 songs - 13 day 2 hr 51 min
 

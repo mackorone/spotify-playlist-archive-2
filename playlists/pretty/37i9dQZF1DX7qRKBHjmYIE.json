@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Cultura Prof\u00e9tica.",
-  "num_followers": 742489,
+  "num_followers": 742435,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -347,18 +347,22 @@
     {
       "added_at": "2026-06-26 04:01:58",
       "album": {
-        "name": "INFANCIA MAL CALIBRADA",
-        "url": "https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1"
+        "name": "Quiero",
+        "url": "https://open.spotify.com/album/5wNz8c67H9BpqJHyr5YOTq"
       },
       "artists": [
         {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+          "name": "ZTVZ",
+          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
+        },
+        {
+          "name": "Soultade",
+          "url": "https://open.spotify.com/artist/6W7QkdmLk3AtXkfrKH5ZDV"
         }
       ],
-      "duration_ms": 187605,
-      "name": "Quieres Autodestruirte Conmigo?",
-      "url": "https://open.spotify.com/track/0ImJfk8NU4a1aMvclUyJT0"
+      "duration_ms": 160433,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/6Jcyd0QpSDaRNSzAhro0WY"
     },
     {
       "added_at": "2026-06-26 04:01:58",
@@ -383,6 +387,22 @@
     {
       "added_at": "2026-06-26 04:01:58",
       "album": {
+        "name": "INFANCIA MAL CALIBRADA",
+        "url": "https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "duration_ms": 187605,
+      "name": "Quieres Autodestruirte Conmigo?",
+      "url": "https://open.spotify.com/track/0ImJfk8NU4a1aMvclUyJT0"
+    },
+    {
+      "added_at": "2026-06-26 04:01:58",
+      "album": {
         "name": "TANTO TANTO",
         "url": "https://open.spotify.com/album/7JQ2W78F3nUzUYTdiThV53"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 240000,
       "name": "TANTO TANTO",
       "url": "https://open.spotify.com/track/6ALHw0J3sXfvcdDhli6xPe"
-    },
-    {
-      "added_at": "2026-06-26 04:01:58",
-      "album": {
-        "name": "Quiero",
-        "url": "https://open.spotify.com/album/5wNz8c67H9BpqJHyr5YOTq"
-      },
-      "artists": [
-        {
-          "name": "ZTVZ",
-          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
-        },
-        {
-          "name": "Soultade",
-          "url": "https://open.spotify.com/artist/6W7QkdmLk3AtXkfrKH5ZDV"
-        }
-      ],
-      "duration_ms": 160433,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/6Jcyd0QpSDaRNSzAhro0WY"
     },
     {
       "added_at": "2026-06-26 04:01:58",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-06-26 04:01:58",
       "album": {
-        "name": "Morfina",
-        "url": "https://open.spotify.com/album/3XA0Zax9bAGsnvMcElA16n"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 350488,
-      "name": "Morfina",
-      "url": "https://open.spotify.com/track/7lYKq59aOgRnRlrjuTIvJv"
-    },
-    {
-      "added_at": "2026-06-26 04:01:58",
-      "album": {
         "name": "RODEO CLOWN",
         "url": "https://open.spotify.com/album/5172xO1n4yEllzzcsIqP1N"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 153764,
       "name": "RODEO CLOWN",
       "url": "https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba"
+    },
+    {
+      "added_at": "2026-06-26 04:01:58",
+      "album": {
+        "name": "Morfina",
+        "url": "https://open.spotify.com/album/3XA0Zax9bAGsnvMcElA16n"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 350488,
+      "name": "Morfina",
+      "url": "https://open.spotify.com/track/7lYKq59aOgRnRlrjuTIvJv"
     },
     {
       "added_at": "2026-06-26 04:01:58",
@@ -523,26 +523,6 @@
     {
       "added_at": "2026-06-26 04:01:58",
       "album": {
-        "name": "Goo Goo Ga Ga",
-        "url": "https://open.spotify.com/album/0QrOLBDdv5gk0oVI1hAolW"
-      },
-      "artists": [
-        {
-          "name": "CA7RIEL & Paco Amoroso",
-          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
-        },
-        {
-          "name": "Jack Black",
-          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
-        }
-      ],
-      "duration_ms": 191765,
-      "name": "Goo Goo Ga Ga",
-      "url": "https://open.spotify.com/track/1OshrLJk7kar0EoabLbEOo"
-    },
-    {
-      "added_at": "2026-06-26 04:01:58",
-      "album": {
         "name": "midsummer pipe dream",
         "url": "https://open.spotify.com/album/6HQsc7j2EyHMh5ph8tNbfH"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 156952,
       "name": "midsummer pipe dream",
       "url": "https://open.spotify.com/track/6nkQrHvWMu0vSse3nQGSPV"
+    },
+    {
+      "added_at": "2026-06-26 04:01:58",
+      "album": {
+        "name": "Goo Goo Ga Ga",
+        "url": "https://open.spotify.com/album/0QrOLBDdv5gk0oVI1hAolW"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "Jack Black",
+          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
+        }
+      ],
+      "duration_ms": 191765,
+      "name": "Goo Goo Ga Ga",
+      "url": "https://open.spotify.com/track/1OshrLJk7kar0EoabLbEOo"
     },
     {
       "added_at": "2026-06-26 04:01:58",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-06-26 04:01:58",
       "album": {
-        "name": "Soulost",
-        "url": "https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE"
-      },
-      "artists": [
-        {
-          "name": "Alice Wonder",
-          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
-        }
-      ],
-      "duration_ms": 240498,
-      "name": "iii. LaDrogaM\u00e1sSuaveDelMundo(!) \u00b7 enamoramiento",
-      "url": "https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v"
-    },
-    {
-      "added_at": "2026-06-26 04:01:58",
-      "album": {
         "name": "N\u00edtido",
         "url": "https://open.spotify.com/album/4jvLDuUoWJRUWcMc6VZk41"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 165529,
       "name": "Ecos",
       "url": "https://open.spotify.com/track/6OcofGGF5dzeql46GJbG3k"
+    },
+    {
+      "added_at": "2026-06-26 04:01:58",
+      "album": {
+        "name": "Soulost",
+        "url": "https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE"
+      },
+      "artists": [
+        {
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+        }
+      ],
+      "duration_ms": 240498,
+      "name": "iii. LaDrogaM\u00e1sSuaveDelMundo(!) \u00b7 enamoramiento",
+      "url": "https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v"
     },
     {
       "added_at": "2026-06-26 04:01:58",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2026-06-26 04:01:58",
       "album": {
-        "name": "Suiza",
-        "url": "https://open.spotify.com/album/4Aj3BUUr8notfsXiwUJBpA"
+        "name": "Se Amaba As\u00ed",
+        "url": "https://open.spotify.com/album/6oH9zF3t0iy2WhxLXwHrZK"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Isabel",
-          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
         }
       ],
-      "duration_ms": 140342,
-      "name": "Suiza",
-      "url": "https://open.spotify.com/track/0p0edvVy5tSbrh67pn5Rju"
+      "duration_ms": 194973,
+      "name": "Miraverah\u00ed",
+      "url": "https://open.spotify.com/track/1SAXS6YuktTyNF39cADeU9"
     },
     {
       "added_at": "2026-06-26 04:01:58",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2026-06-26 04:01:58",
       "album": {
-        "name": "Se Amaba As\u00ed",
-        "url": "https://open.spotify.com/album/6oH9zF3t0iy2WhxLXwHrZK"
+        "name": "Suiza",
+        "url": "https://open.spotify.com/album/4Aj3BUUr8notfsXiwUJBpA"
       },
       "artists": [
         {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+          "name": "Mar\u00eda Isabel",
+          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
         }
       ],
-      "duration_ms": 194973,
-      "name": "Miraverah\u00ed",
-      "url": "https://open.spotify.com/track/1SAXS6YuktTyNF39cADeU9"
+      "duration_ms": 140342,
+      "name": "Suiza",
+      "url": "https://open.spotify.com/track/0p0edvVy5tSbrh67pn5Rju"
     },
     {
       "added_at": "2026-06-26 04:01:58",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-06-26 04:01:58",
       "album": {
+        "name": "Ring Ring",
+        "url": "https://open.spotify.com/album/0LiTyKtFq29DDgZ1zvMI4j"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "duration_ms": 222871,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/44o4tDW0hGnrNOM180kM6K"
+    },
+    {
+      "added_at": "2026-06-26 04:01:58",
+      "album": {
         "name": "Alone In Roma (feat. French Braids)",
         "url": "https://open.spotify.com/album/0phNiAwsxluRkaQkzdzIPW"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 207557,
       "name": "Alone In Roma (feat. French Braids)",
       "url": "https://open.spotify.com/track/0HYHy6kaZ8ospkqYOeYLYw"
-    },
-    {
-      "added_at": "2026-06-26 04:01:58",
-      "album": {
-        "name": "Ring Ring",
-        "url": "https://open.spotify.com/album/0LiTyKtFq29DDgZ1zvMI4j"
-      },
-      "artists": [
-        {
-          "name": "Niko Rubio",
-          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
-        }
-      ],
-      "duration_ms": 222871,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/44o4tDW0hGnrNOM180kM6K"
     },
     {
       "added_at": "2026-06-26 04:01:58",

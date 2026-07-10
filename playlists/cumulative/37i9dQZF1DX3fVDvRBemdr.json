@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop releases. Cover: Afro Bros, John West, Billy Dans & Monq",
+  "description": "De nieuwste Hollands & Volkspop releases. Cover: Monique Smit",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "Als Ik Jou Niet Krijg",
+        "url": "https://open.spotify.com/album/0yGgXqHge6582HhTYXtNxx"
+      },
+      "artists": [
+        {
+          "name": "Laura Heijgen",
+          "url": "https://open.spotify.com/artist/6ByAkaup3Ff0fo6kUjXmAA"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144101,
+      "name": "Als Ik Jou Niet Krijg",
+      "url": "https://open.spotify.com/track/7d6ep7QrqikRvmO7zBC3rX"
+    },
+    {
+      "album": {
         "name": "Als Ik Naar Malaga Ga",
         "url": "https://open.spotify.com/album/68P4kgJpgPfw0FflrDVh5X"
       },
@@ -976,7 +994,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 176572,
       "name": "Als jij nu nog niet weet",
       "url": "https://open.spotify.com/track/5thX3h4OdQvVqP77tpteVt"
@@ -1914,6 +1932,54 @@
       "duration_ms": 148815,
       "name": "Cheerio",
       "url": "https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o"
+    },
+    {
+      "album": {
+        "name": "CHEERIO SUMMER REMIX",
+        "url": "https://open.spotify.com/album/7mkZQYGBJa1LMWFjnRrZrl"
+      },
+      "artists": [
+        {
+          "name": "DJ LARITA",
+          "url": "https://open.spotify.com/artist/73BcfubAabKdfcR0WpxbAg"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Carmell",
+          "url": "https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121512,
+      "name": "CHEERIO SUMMER REMIX",
+      "url": "https://open.spotify.com/track/1kpq0c9ErTJIaR3MPJz6sn"
+    },
+    {
+      "album": {
+        "name": "Chica Chica",
+        "url": "https://open.spotify.com/album/7yor7A4dAQaGcahXYldcI5"
+      },
+      "artists": [
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/2yL7gNaFIc8VoJeH7GxUkN"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Chica Chica",
+      "url": "https://open.spotify.com/track/5dRxTLVYLKRD1XragMNRtW"
     },
     {
       "album": {
@@ -2894,7 +2960,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 167464,
       "name": "Deze Nacht",
       "url": "https://open.spotify.com/track/1xFfN67OYCNDS3yN70IKVd"
@@ -3666,7 +3732,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 200197,
       "name": "Elke Dag Is Mijn Dag",
       "url": "https://open.spotify.com/track/3nZlIlVR7WeqHh0006HHoZ"
@@ -5326,7 +5392,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 161968,
       "name": "Huisje Aan De Amstel",
       "url": "https://open.spotify.com/track/4VdawoYdoZ2IxVb4jRKd7b"
@@ -6846,7 +6912,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 183616,
       "name": "Je Weet Niet Wat Je Mist",
       "url": "https://open.spotify.com/track/1TUABuqFdbTfcboSfXS9TU"
@@ -7318,7 +7384,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 146953,
       "name": "Klavertje Vier",
       "url": "https://open.spotify.com/track/3l5Vc6BkuyOaokYDQlAWuU"
@@ -8961,6 +9027,24 @@
     },
     {
       "album": {
+        "name": "Momento",
+        "url": "https://open.spotify.com/album/4zoULj0Q4u4FIAzUuvSpHs"
+      },
+      "artists": [
+        {
+          "name": "Diego Holzken",
+          "url": "https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167169,
+      "name": "Momento",
+      "url": "https://open.spotify.com/track/792tpHgVii7ghdL2WkaccO"
+    },
+    {
+      "album": {
         "name": "Niet Voor Lief",
         "url": "https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi"
       },
@@ -9008,7 +9092,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 138877,
       "name": "Mooiste Van Het Stel",
       "url": "https://open.spotify.com/track/73XjwdA1H58ay02UKEmG6t"
@@ -9247,6 +9331,24 @@
     },
     {
       "album": {
+        "name": "Niet Naar Huis",
+        "url": "https://open.spotify.com/album/5dnGno5uQ18Y1StP7oCMWT"
+      },
+      "artists": [
+        {
+          "name": "Monique Smit",
+          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161492,
+      "name": "Niet Naar Huis",
+      "url": "https://open.spotify.com/track/2VHZrsSSLNvnfqUO2qt6sC"
+    },
+    {
+      "album": {
         "name": "Niet Voor 1 Keer",
         "url": "https://open.spotify.com/album/2AiDcyCJNIrAhGEa2yr259"
       },
@@ -9258,7 +9360,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 171777,
       "name": "Niet Voor 1 Keer",
       "url": "https://open.spotify.com/track/4aR4GlPiahBUGUtbA0Fd4A"
@@ -9298,6 +9400,24 @@
       "duration_ms": 176842,
       "name": "Nog Een Nacht Met Jou",
       "url": "https://open.spotify.com/track/0KsuZnsqDZCINlre1OI37K"
+    },
+    {
+      "album": {
+        "name": "Nog Eentje",
+        "url": "https://open.spotify.com/album/0ZAmHBYRLO1HSJWJZkZ33U"
+      },
+      "artists": [
+        {
+          "name": "Daan",
+          "url": "https://open.spotify.com/artist/6JLmCgHQwZeTt0ati2JqQA"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Nog Eentje",
+      "url": "https://open.spotify.com/track/32IsZhwCUbqcSnascNciEc"
     },
     {
       "album": {
@@ -9844,6 +9964,24 @@
       "duration_ms": 186457,
       "name": "Oranje",
       "url": "https://open.spotify.com/track/7q8fi2mP8SkGQlhfKXF2kG"
+    },
+    {
+      "album": {
+        "name": "Ouder Word",
+        "url": "https://open.spotify.com/album/2DrMMDwhWi4iyEJcG3Sr0K"
+      },
+      "artists": [
+        {
+          "name": "Kafke",
+          "url": "https://open.spotify.com/artist/0nC1zkioNJaPntz8XAeLx9"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146766,
+      "name": "Ouder Word",
+      "url": "https://open.spotify.com/track/0woSSr7ZRt6sAJorMQc4j0"
     },
     {
       "album": {
@@ -11063,6 +11201,24 @@
     },
     {
       "album": {
+        "name": "Titanic",
+        "url": "https://open.spotify.com/album/75xQPShTgo1Df5LZnbnkqX"
+      },
+      "artists": [
+        {
+          "name": "Helemaal Hollands",
+          "url": "https://open.spotify.com/artist/0VTDgLvqZBSYXBE5d8ouhE"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149839,
+      "name": "Titanic",
+      "url": "https://open.spotify.com/track/64XZlWodGAQqSIPcR9bQ2O"
+    },
+    {
+      "album": {
         "name": "Toen De Euro Nog Een Gulden Was",
         "url": "https://open.spotify.com/album/0ByXYGsuwWtuXQpPW1Idy5"
       },
@@ -11494,7 +11650,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 143129,
       "name": "Vanavond Een Vent",
       "url": "https://open.spotify.com/track/0kfjIin2YlwqcfGud08eBw"
@@ -11622,6 +11778,24 @@
       "duration_ms": 152929,
       "name": "Veel Te Lang Geduurd",
       "url": "https://open.spotify.com/track/6EZs07WfzJbS9eGzEgR0gd"
+    },
+    {
+      "album": {
+        "name": "Veel Te Lange Nacht",
+        "url": "https://open.spotify.com/album/4qCHdpZC8hX3uMOxtT5wQ7"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Kuipers",
+          "url": "https://open.spotify.com/artist/3VW8sZ0BxGjRtexeVDGQXH"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150874,
+      "name": "Veel Te Lange Nacht",
+      "url": "https://open.spotify.com/track/11l2BSBXsThmuEAKwt0dBu"
     },
     {
       "album": {
@@ -12220,7 +12394,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 230000,
       "name": "Waarom Mag Ik Mijn Kind Niet Zien?",
       "url": "https://open.spotify.com/track/693gX8ZhCvrTvv1mLufTlt"
@@ -12534,7 +12708,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 171436,
       "name": "Waterpas",
       "url": "https://open.spotify.com/track/3aulIOmwLaqAnzNVy6Cho4"

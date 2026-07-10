@@ -1,12 +1,12 @@
 {
   "description": "This is Gabr\u00edel \u00d3lafs. The essential tracks, all in one playlist.",
-  "num_followers": 2513,
+  "num_followers": 2514,
   "original_name": "This Is Gabr\u00edel \u00d3lafs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAABgZd4QFMyvb8meS5yBYoJz",
+  "snapshot_id": "ak2TAAAAAAD1gZ+1yyG+jH0Cs/bX25D7",
   "tracks": [
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polar (Traveler\u2019s Log)",
-        "url": "https://open.spotify.com/album/1WoR3gL3aEAoIHgZmBQN6j"
+        "name": "Solon Islandus (Deluxe)",
+        "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 272501,
-      "name": "The Monolith",
-      "url": "https://open.spotify.com/track/2gIQ32GVBpFkDb6lsIQK39"
+      "duration_ms": 110151,
+      "name": "Kyndir",
+      "url": "https://open.spotify.com/track/2UMSHmV0qdCg2W3eJK9saL"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solon Islandus (Deluxe)",
-        "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
+        "name": "Polar (Traveler\u2019s Log)",
+        "url": "https://open.spotify.com/album/1WoR3gL3aEAoIHgZmBQN6j"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 110151,
-      "name": "Kyndir",
-      "url": "https://open.spotify.com/track/2UMSHmV0qdCg2W3eJK9saL"
+      "duration_ms": 272501,
+      "name": "The Monolith",
+      "url": "https://open.spotify.com/track/2gIQ32GVBpFkDb6lsIQK39"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "boom bap renasce todo dia. Foto: S\u00edntese, Murica",
+  "description": "boom bap renasce todo dia. Foto: Link do Zap",
   "name": "Boom Rap",
   "tracks": [
     {
@@ -2358,7 +2358,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 129940,
       "name": "Block Party",
       "url": "https://open.spotify.com/track/4XMST0F0UdamHIaFELWkVo"
@@ -17882,6 +17882,24 @@
       "duration_ms": 237951,
       "name": "Um Passo \u00c0 Frente",
       "url": "https://open.spotify.com/track/5IlAKLd2LvB1tquxwUKDKE"
+    },
+    {
+      "album": {
+        "name": "o lado bom das coisas irrevers\u00edveis",
+        "url": "https://open.spotify.com/album/2ua1n3o7GbzUyoKBCYjrIE"
+      },
+      "artists": [
+        {
+          "name": "Link do Zap",
+          "url": "https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169507,
+      "name": "um sol lindo brilha",
+      "url": "https://open.spotify.com/track/4qPIXMLDdrLFUxv1irUB1x"
     },
     {
       "album": {

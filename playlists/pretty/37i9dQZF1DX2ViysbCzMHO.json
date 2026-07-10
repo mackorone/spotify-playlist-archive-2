@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 176767,
+  "num_followers": 176774,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
+        "name": "Gonna Love You (Alternate Versions)",
+        "url": "https://open.spotify.com/album/2LyGE0JPXYK4ygkYPyk3uX"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "duration_ms": 174863,
+      "name": "Gonna Love You - Acoustic",
+      "url": "https://open.spotify.com/track/0fsiU4KOmZkqDqS6VO3PEh"
+    },
+    {
+      "added_at": "2026-06-12 04:02:08",
+      "album": {
         "name": "Some Girls (Acoustic)",
         "url": "https://open.spotify.com/album/6EMXqG3KdHuNWfC3qwr1uz"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 187361,
       "name": "You, Me, And Whiskey - Acoustic",
       "url": "https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN"
-    },
-    {
-      "added_at": "2026-06-12 04:02:08",
-      "album": {
-        "name": "Gonna Love You (Alternate Versions)",
-        "url": "https://open.spotify.com/album/2LyGE0JPXYK4ygkYPyk3uX"
-      },
-      "artists": [
-        {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
-        }
-      ],
-      "duration_ms": 174863,
-      "name": "Gonna Love You - Acoustic",
-      "url": "https://open.spotify.com/track/0fsiU4KOmZkqDqS6VO3PEh"
     },
     {
       "added_at": "2026-06-12 04:02:08",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
-        "name": "Save The Roses (Acoustic)",
-        "url": "https://open.spotify.com/album/4qmpoPJI3ys1tb3szfl55N"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 197373,
-      "name": "Save The Roses (Acoustic)",
-      "url": "https://open.spotify.com/track/6QNYLTMKqGrVzEl8RFxnQs"
-    },
-    {
-      "added_at": "2026-06-12 04:02:08",
-      "album": {
         "name": "Breakin' in Boots (Stripped)",
         "url": "https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG"
       },
@@ -1635,6 +1619,38 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
+        "name": "Save The Roses (Acoustic)",
+        "url": "https://open.spotify.com/album/4qmpoPJI3ys1tb3szfl55N"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 197373,
+      "name": "Save The Roses (Acoustic)",
+      "url": "https://open.spotify.com/track/6QNYLTMKqGrVzEl8RFxnQs"
+    },
+    {
+      "added_at": "2026-06-12 04:02:08",
+      "album": {
+        "name": "End of the Rain",
+        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
+      },
+      "artists": [
+        {
+          "name": "Jason Blaine",
+          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
+        }
+      ],
+      "duration_ms": 195701,
+      "name": "End of the Rain",
+      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
+    },
+    {
+      "added_at": "2026-06-12 04:02:08",
+      "album": {
         "name": "Put It in Drive",
         "url": "https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 191973,
       "name": "Lessons (Acoustic)",
       "url": "https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw"
-    },
-    {
-      "added_at": "2026-06-12 04:02:08",
-      "album": {
-        "name": "Heartbreaker (Piano Version)",
-        "url": "https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Heartbreaker - Piano Version",
-      "url": "https://open.spotify.com/track/5w1q62Vqr4kLCEaHV9HrXS"
     }
   ],
   "unique_name": "Nashville Stripped",

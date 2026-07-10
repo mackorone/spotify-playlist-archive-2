@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Nick León & Ela Minus
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,325,293 likes - 110 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,325,296 likes - 110 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 3 | [hey there \[i have a compulsive complex\]](https://open.spotify.com/track/21z8SSZUf7OQ9h4Is0yAZS) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [hey there \[i have a compulsive complex\]](https://open.spotify.com/album/4hJczqZb7VUIigRIp8utjA) | 2:53 |
 | 4 | [JBL in the Fireplace](https://open.spotify.com/track/5LX4N1Eznc8ngI7YavARuF) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/2e1eja8MYlw9fn7v48ZFlU) | 3:21 |
 | 5 | [abracadabra](https://open.spotify.com/track/5VLE6Rzh0lA9a1OThwWtq4) | [Tochi Bedford](https://open.spotify.com/artist/1zeUMAJrOoMdWjU0BErMzn) | [abracadabra](https://open.spotify.com/album/0Zwe2ZYhZnIk6cijsnBeo8) | 1:59 |
-| 6 | [Is Loving Really Bad](https://open.spotify.com/track/0glAAFulS8PHqD1b35sKz6) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Is Loving Really Bad](https://open.spotify.com/album/5gD0Dn9wTqvAq4O73895dI) | 2:28 |
+| 6 | [Is Loving Really Bad](https://open.spotify.com/track/0glAAFulS8PHqD1b35sKz6) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Is Loving Really Bad](https://open.spotify.com/album/5gD0Dn9wTqvAq4O73895dI) | 2:26 |
 | 7 | [Maybe I Still Love You](https://open.spotify.com/track/2Oof4NCIrXZmYBViU9XAfw) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Maybe I Still Love You](https://open.spotify.com/album/1Ma4Uq57VElIYB5o8ZRYkQ) | 4:01 |
 | 8 | [I Haven’t Forgotten You](https://open.spotify.com/track/10dei2pRZz9USduNqb2BsY) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Eternal BAM Nation](https://open.spotify.com/album/5V3JWWxA9uorTR3T5rcSfJ) | 2:24 |
 | 9 | [Sweet n’ Sour](https://open.spotify.com/track/3ksychRhiWmZgGjIxtzKix) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Sweet n’ Sour](https://open.spotify.com/album/06KkMtJIZ5bUGYjZjJmAOh) | 2:37 |

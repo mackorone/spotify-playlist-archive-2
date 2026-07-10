@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "2005",
+        "url": "https://open.spotify.com/album/5CWR7Nj5F5Nvrkw6QKZmxm"
+      },
+      "artists": [
+        {
+          "name": "url",
+          "url": "https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198811,
+      "name": "2005",
+      "url": "https://open.spotify.com/track/1GokUSLCKojga6JRk9eFaT"
+    },
+    {
+      "album": {
         "name": "2009",
         "url": "https://open.spotify.com/album/0PL1V8KaNzAMtjKtDEFYPk"
       },
@@ -5932,7 +5950,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 354461,
       "name": "Barrons Hotel (I, To, Thee.)",
       "url": "https://open.spotify.com/track/0eeyCEOLKsVVWxfZP0zA8k"
@@ -6782,7 +6800,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 160616,
       "name": "Better Angels",
       "url": "https://open.spotify.com/track/4dVmB6Y60E2U5tK79G2dhK"
@@ -8110,7 +8128,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 297546,
       "name": "Blu tac piano",
       "url": "https://open.spotify.com/track/4UMjHRPZAi5LgR8xhYShqc"
@@ -10580,7 +10598,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 242841,
       "name": "Can You Hear Me?",
       "url": "https://open.spotify.com/track/2BujIp2h0XoMjeqNL59m0z"
@@ -14242,7 +14260,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 175597,
       "name": "Crybaby",
       "url": "https://open.spotify.com/track/1etY8R5Z0rXhBKlqkUkkwN"
@@ -24134,6 +24152,24 @@
       "duration_ms": 230089,
       "name": "Good 2 Yourself",
       "url": "https://open.spotify.com/track/14BJVFg03Ep2iytTOSCEy1"
+    },
+    {
+      "album": {
+        "name": "good and bad",
+        "url": "https://open.spotify.com/album/1qkGUEHkUBJByyj5NU6iTQ"
+      },
+      "artists": [
+        {
+          "name": "Gash",
+          "url": "https://open.spotify.com/artist/1uiSPRIJiY4WSAqEeVS9jX"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95774,
+      "name": "good and bad",
+      "url": "https://open.spotify.com/track/6WUEmA64al3W96gO853HQA"
     },
     {
       "album": {
@@ -37751,6 +37787,24 @@
     },
     {
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/3TWDRBwvDaMP4sQcPNrJQ7"
+      },
+      "artists": [
+        {
+          "name": "D'Leesa",
+          "url": "https://open.spotify.com/artist/0G1rpAGzZYHuIf8X0VFF2a"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213993,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2dD0TQWTHOA7CArgLCFM60"
+    },
+    {
+      "album": {
         "name": "MAGIC",
         "url": "https://open.spotify.com/album/35wuBZfuxaNQlvPhe1Wiq8"
       },
@@ -38634,6 +38688,24 @@
       "duration_ms": 172199,
       "name": "Meet you at the Graveyard",
       "url": "https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz"
+    },
+    {
+      "album": {
+        "name": "melody",
+        "url": "https://open.spotify.com/album/2QhAdqbrpkCBhVcnKpdaJg"
+      },
+      "artists": [
+        {
+          "name": "daisy",
+          "url": "https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "melody",
+      "url": "https://open.spotify.com/track/0aMVTLwGKFJAvT66qcXQvt"
     },
     {
       "album": {
@@ -43498,7 +43570,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 189600,
       "name": "Nothing to be Bitter About",
       "url": "https://open.spotify.com/track/5u54LDMrRJ5ciBDpakE5wU"
@@ -45900,7 +45972,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 186903,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/0G6KhAjctCKbzAfN3EdYys"
@@ -46811,6 +46883,24 @@
     },
     {
       "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/7BHfasb0FXKXz5XjjqLcwj"
+      },
+      "artists": [
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167920,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh"
+    },
+    {
+      "album": {
         "name": "Pieces of Me",
         "url": "https://open.spotify.com/album/0DunsXwmke3F2Ar3ERPtYb"
       },
@@ -47074,7 +47164,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 170330,
       "name": "Place Like Home",
       "url": "https://open.spotify.com/track/5mQqlb1fRJ2pt3NKocO2cQ"
@@ -52637,6 +52727,24 @@
     },
     {
       "album": {
+        "name": "Shark & Blessed Are the Foals",
+        "url": "https://open.spotify.com/album/6Sxq14eYQ5icxS8gnb6J29"
+      },
+      "artists": [
+        {
+          "name": "imy3",
+          "url": "https://open.spotify.com/artist/5tn7FeN8PYvZJ4jumJzIBQ"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172193,
+      "name": "Shark",
+      "url": "https://open.spotify.com/track/3EtnThoIA6l52Nd7DXt4i3"
+    },
+    {
+      "album": {
         "name": "Sharks",
         "url": "https://open.spotify.com/album/6f2DJDgxBufS0JVEcHUDhL"
       },
@@ -56354,7 +56462,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 240654,
       "name": "Spiral",
       "url": "https://open.spotify.com/track/2U7v0lH247K8d57q1tWAHE"
@@ -57457,6 +57565,24 @@
     },
     {
       "album": {
+        "name": "Strafe",
+        "url": "https://open.spotify.com/album/6vr7cOwZZvLuEqJB2xjJ07"
+      },
+      "artists": [
+        {
+          "name": "Dying 4",
+          "url": "https://open.spotify.com/artist/5BsY72eb3azYvmYzxFIcWU"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193777,
+      "name": "Strafe",
+      "url": "https://open.spotify.com/track/2oPOztgNXWMhoJxGUrnD0e"
+    },
+    {
+      "album": {
         "name": "Put Me Right",
         "url": "https://open.spotify.com/album/46Syzx8fz8ejjJfYkdnIE2"
       },
@@ -57962,6 +58088,24 @@
       "duration_ms": 179400,
       "name": "SUEDE",
       "url": "https://open.spotify.com/track/2YdZ5tObXI4c5AXOwzK0PJ"
+    },
+    {
+      "album": {
+        "name": "Sugar in my Drink",
+        "url": "https://open.spotify.com/album/11hCfkJEc9zDr8zivifLtK"
+      },
+      "artists": [
+        {
+          "name": "Tricky FM",
+          "url": "https://open.spotify.com/artist/2YUC5nYnx0PrmkE3s23Y0l"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270198,
+      "name": "Sugar in my Drink",
+      "url": "https://open.spotify.com/track/2DVe9FPI1apq1paZR1oY6r"
     },
     {
       "album": {
@@ -60882,6 +61026,24 @@
       "duration_ms": 226378,
       "name": "The Hopeful Kind",
       "url": "https://open.spotify.com/track/72sIjHtNB3sOg5vmZ1brwF"
+    },
+    {
+      "album": {
+        "name": "The In-Between",
+        "url": "https://open.spotify.com/album/1bYR3lQjYfIkLOxcs6m7Ok"
+      },
+      "artists": [
+        {
+          "name": "Leela Rosa",
+          "url": "https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165084,
+      "name": "The In-Between",
+      "url": "https://open.spotify.com/track/7EaQY0r1DeAW9uqPjb2fpF"
     },
     {
       "album": {

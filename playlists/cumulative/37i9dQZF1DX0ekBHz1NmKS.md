@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,310 songs - 4 day 23 hr 51 min
+2,312 songs - 4 day 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Besvikelsens melodi](https://open.spotify.com/track/2vMkLWQPmHXDy9vBD06KuP) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r) | [Besvikelsens melodi](https://open.spotify.com/album/1vQFs8ArZg3Gh8OrbGrW14) | 2:41 | 2022-04-01 | 2022-10-16 |
 | [Better Clothes](https://open.spotify.com/track/32zQ6Vett2aO9VT0UNiJSz) | [SYLVE](https://open.spotify.com/artist/0PAAsgLKmFX9PFn3HMb7pW) | [Better Clothes](https://open.spotify.com/album/5Oj1H9ZLW7ZrDDlD2qSeSm) | 2:57 | 2022-06-16 | 2022-07-15 |
 | [Better Days](https://open.spotify.com/track/7E1kK0D0goo85p02ZAoa8Y) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Better Days](https://open.spotify.com/album/64OLfOz30pmwGnjngRodRT) | 3:38 | 2024-04-04 | 2024-05-10 |
+| [Better Man](https://open.spotify.com/track/4ykZCiEgz1rPTOlRpvYOyp) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Better Man](https://open.spotify.com/album/0v9rHxhxnFi9sEkWbtghGx) | 2:29 | 2026-07-09 |  |
 | [Better Now](https://open.spotify.com/track/20q5yfZdrfj0jk1jlDOhwk) | [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl) | [Better Now](https://open.spotify.com/album/55f8chw9TtGtmMX3wA1914) | 3:27 | 2024-08-15 | 2024-09-27 |
 | [Better Than Her](https://open.spotify.com/track/4NykJNyAnlVH4Awb15eTpa) | [SINNAH](https://open.spotify.com/artist/4sA5M3lc1U8npQb77sMhxh) | [Better Than Her](https://open.spotify.com/album/377ZKoD3Tb6JUFsmQocPRJ) | 2:54 | 2024-03-14 | 2024-04-07 |
 | [Betyder ingenting](https://open.spotify.com/track/1oqlZtu7OBwu81conDTu30) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [Mattias Andréasson](https://open.spotify.com/artist/0gFk1Wd2yws9WIB6dqaO4b) | [Betyder ingenting](https://open.spotify.com/album/1PF7HO7Smc7raUZY0B03VJ) | 2:29 | 2021-12-16 | 2022-01-10 |
@@ -615,7 +616,7 @@
 | [Fancy](https://open.spotify.com/track/7snkms1XxrZzmac3dFbks6) | [IRMELI](https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv) | [Fancy](https://open.spotify.com/album/6V42SnghxJXBlmwNfAPdfv) | 2:12 | 2024-10-10 | 2024-10-18 |
 | [Fantasi](https://open.spotify.com/track/5KImNJ1eFcH1J7sbRcwnWS) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Fantasi](https://open.spotify.com/album/0LirSVW5JLGusEimyUv0rt) | 3:36 | 2022-03-10 | 2022-05-13 |
 | [Fantiserar](https://open.spotify.com/track/6Iacj2942oCDNmDrcr51nu) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Fantiserar](https://open.spotify.com/album/1I5rl1epHuk0wEahddMPfL) | 2:36 | 2026-06-04 |  |
-| [Fantomsmärta](https://open.spotify.com/track/5Js7P4JCIoRJa4yhC5QZYQ) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Fantomsmärta](https://open.spotify.com/album/2eYfKVmCZo3EdIFNWijToG) | 3:17 | 2026-04-09 |  |
+| [Fantomsmärta](https://open.spotify.com/track/5Js7P4JCIoRJa4yhC5QZYQ) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Fantomsmärta](https://open.spotify.com/album/2eYfKVmCZo3EdIFNWijToG) | 3:17 | 2026-04-09 | 2026-07-10 |
 | [Farligaste](https://open.spotify.com/track/3EMO5vkEN7sFkDUyKNaD1Y) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [POWERBALLADER](https://open.spotify.com/album/278kUvgRBmXIOjp0tOO8FE) | 2:42 | 2026-05-28 |  |
 | [Farstaglitter](https://open.spotify.com/track/2vNZOd1Yj32A5dfonkf2vB) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Rathana Club](https://open.spotify.com/album/25S91oeTVaNfdmvSuk17Vw) | 2:51 | 2021-12-16 | 2022-03-10 |
 | [Fartdårar](https://open.spotify.com/track/7KxEJiz9780bNowu0ukBb0) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Fartdårar](https://open.spotify.com/album/5Y1MsRF1YHUv5Vzfk8tIJU) | 2:40 | 2026-04-16 | 2026-05-05 |
@@ -1039,7 +1040,7 @@
 | [Inte en gång till](https://open.spotify.com/track/6JD183FLGA6R4B0sYm2xiz) | [Jessica Bohlin](https://open.spotify.com/artist/6xMt0bWYPTHNcCj1zL80VB) | [Inte en gång till](https://open.spotify.com/album/0L8uwgD2s0AoXG4iJp1Xu7) | 3:08 | 2022-09-15 | 2022-09-22 |
 | [Inte idag](https://open.spotify.com/track/5IsHDEv8uqPQxFv5FuDG7O) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Inte idag](https://open.spotify.com/album/7K5PfBccKwBu4SeeGzRP9z) | 2:21 | 2025-04-17 | 2025-04-25 |
 | [Inte som alla andra, precis som alla andra \(feat\. Joakim Berg\)](https://open.spotify.com/track/0BJotiVMsdxDSC7HfyitNP) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Inte som alla andra, precis som alla andra \(feat\. Joakim Berg\)](https://open.spotify.com/album/6kMOJcNPk2df3WnSeKpuQD) | 4:30 | 2025-05-15 | 2026-01-15 |
-| [inte tillsammans \(find you\) \- isby sessions](https://open.spotify.com/track/0zP0wKwZQOTSu8wnMwSuhH) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [isby sessions](https://open.spotify.com/album/5LojPgU3MLaPLbD200sVSx) | 2:42 | 2026-01-15 |  |
+| [inte tillsammans \(find you\) \- isby sessions](https://open.spotify.com/track/0zP0wKwZQOTSu8wnMwSuhH) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [isby sessions](https://open.spotify.com/album/5LojPgU3MLaPLbD200sVSx) | 2:42 | 2026-01-15 | 2026-07-10 |
 | [Iris](https://open.spotify.com/track/4TRQ9JWo2kytsBQqaayD5z) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Iris](https://open.spotify.com/album/16DmICdpaMDhQBmvPWTSPd) | 3:00 | 2026-01-29 |  |
 | [Irreplaceable](https://open.spotify.com/track/1gK79XAWFSYyl8FpphEQiH) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Irreplaceable](https://open.spotify.com/album/2dIihXdiXigVetfKI2QDqs) | 3:35 | 2021-12-16 | 2022-03-11 |
 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 | 2023-10-13 | 2024-01-26 |
@@ -1855,6 +1856,7 @@
 | [Stjärnorna inatt](https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [Stjärnorna inatt](https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO) | 3:27 | 2024-06-07 | 2024-06-14 |
 | [Stockholm](https://open.spotify.com/track/53v7VYAmBEmH7ju6zSGhc4) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Stockholm](https://open.spotify.com/album/5eq8VZ9uOInt7pIE9bIFt8) | 2:46 | 2024-08-22 | 2025-01-12 |
 | [Stockholm](https://open.spotify.com/track/6ey4WncmCwNDailvLTUZCm) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Stockholm](https://open.spotify.com/album/3NNlYaqNHWxBhdKUJaPpcj) | 3:21 | 2026-06-15 |  |
+| [Stockholm](https://open.spotify.com/track/2OY0TuFhYouP4aPaMHtVf7) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Stockholm](https://open.spotify.com/album/6wTfGjzZyk0lGi784bSZe8) | 3:02 | 2026-07-09 |  |
 | [Stockholm City](https://open.spotify.com/track/7Kk0drc1rrjfTgUGbjvl2S) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Stockholm City](https://open.spotify.com/album/2pw15Ool1F0Eq85FcfSH6L) | 2:40 | 2025-04-17 | 2025-09-05 |
 | [Stockholm i natt](https://open.spotify.com/track/57TT1KRWDS35o1M9kiw4Jf) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Stockholm i natt](https://open.spotify.com/album/1DRbmA5XjnBuTrN6sPcrDx) | 3:32 | 2021-12-16 | 2022-04-02 |
 | [Stockholm lämnar sår \- REMAZE Remix](https://open.spotify.com/track/3oEX4kXtOkHqtFr2Vj8KIK) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70), [REMAZE](https://open.spotify.com/artist/7JgLMiRf1ogwmyTskyD8vB) | [Stockholm lämnar sår \(REMAZE Remix\)](https://open.spotify.com/album/5ZyicRFZ5ojBzcLP0GrGYf) | 3:30 | 2023-11-23 | 2024-02-09 |

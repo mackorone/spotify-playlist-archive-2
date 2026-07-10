@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Jorja Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,139 likes - 250 songs - 12 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,104 likes - 250 songs - 12 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

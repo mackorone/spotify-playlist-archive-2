@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-680 songs - 1 day 17 hr 22 min
+681 songs - 1 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,8 @@
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-10-20 | 2025-02-09 |
 | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk) | 2:15 | 2023-04-20 | 2025-09-06 |
 | [Gold](https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Gold](https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M) | 3:12 | 2023-05-25 | 2023-08-02 |
-| [Good Life](https://open.spotify.com/track/2hsTr2uDmLOk5BusqU1jc6) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Good Life](https://open.spotify.com/album/5uMRnkmSWRgwuWvtdwayO7) | 4:58 | 2026-02-19 |  |
+| [Golden](https://open.spotify.com/track/1Eux3qfFxjupNgEogQmjDs) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Golden](https://open.spotify.com/album/6eyoy9FWIuM5bfTk1pjnjw) | 2:57 | 2026-07-09 |  |
+| [Good Life](https://open.spotify.com/track/2hsTr2uDmLOk5BusqU1jc6) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Good Life](https://open.spotify.com/album/5uMRnkmSWRgwuWvtdwayO7) | 4:58 | 2026-02-19 | 2026-07-10 |
 | [Goodbye Evergreen](https://open.spotify.com/track/2GEs9D56FRHqUAEwvlvBpw) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 3:35 | 2023-10-17 | 2024-01-12 |
 | [grace](https://open.spotify.com/track/4tIvs7L5ND34rMCCfMuKUQ) | [Nezumi Coo](https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs) | [grace](https://open.spotify.com/album/5xy29po3H6R9PgsIfznkl3) | 3:03 | 2022-12-06 | 2023-02-10 |
 | [Green & Gold](https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK) | 4:38 | 2024-07-12 | 2025-09-06 |

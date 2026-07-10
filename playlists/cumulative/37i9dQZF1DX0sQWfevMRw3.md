@@ -4,7 +4,7 @@
 
 > 🇳🇴🤝🇸🇪
 
-1,676 songs - 2 day 21 hr 33 min
+1,677 songs - 2 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1360,6 +1360,7 @@
 | [Sommarnätter](https://open.spotify.com/track/3c1KrqOhuqTigFZTev07rK) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [Sommarnätter](https://open.spotify.com/album/1aC01cXxZVXtqigdiN5RQu) | 2:24 | 2024-06-06 | 2024-10-04 |
 | [Sommartider](https://open.spotify.com/track/3zWnPMKWTht7rc8TtQEnW4) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [Sommartider](https://open.spotify.com/album/4pwWHYGgwzjqYFw1A4UknS) | 2:35 | 2023-05-25 | 2023-09-15 |
 | [Sommartider](https://open.spotify.com/track/36CXEaKLZVm1IgLTCgvgwI) | [Perra & Berra](https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud) | [Sommartider](https://open.spotify.com/album/4XQor9jR3Z8cEn2riwChCe) | 1:55 | 2024-06-20 | 2024-09-20 |
+| [Soppatorsk](https://open.spotify.com/track/4ptpBLhEblqkjt48lttmrY) | [Ronny & Ragge](https://open.spotify.com/artist/5pyF7nerLdGc4ZV3U72tdQ) | [Soppatorsk](https://open.spotify.com/album/1kAr0tigrW16cScaRRcK6v) | 2:51 | 2026-07-09 |  |
 | [Sorry](https://open.spotify.com/track/65tQ1ZL4Q5uKsghVoj1O8o) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [ISÁK](https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl) | [Sorry](https://open.spotify.com/album/4ovjS3yvn1WNjtrUQWwlnd) | 2:45 | 2021-12-16 | 2022-07-05 |
 | [Sorry](https://open.spotify.com/track/6k1Q8mNcA2jFH0uv5B6g9G) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [ISÁK](https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:45 | 2022-07-28 | 2022-08-26 |
 | [SOS](https://open.spotify.com/track/4rPzC5pYU0MYzNys1VCQ2U) | [DIREKTÖREN](https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY), [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z) | [SOS](https://open.spotify.com/album/6HCFm5uTyOQVENK6Fizxyi) | 2:09 | 2025-09-25 |  |

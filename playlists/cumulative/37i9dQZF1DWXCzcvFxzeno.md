@@ -2,9 +2,9 @@
 
 ### [Hard Techno](https://open.spotify.com/playlist/37i9dQZF1DWXCzcvFxzeno)
 
-> 😈 welcome to the rave 😈  Cover: 999999999
+> 😈 welcome to the rave 😈  Cover: Nico Moreno, Novah
 
-388 songs - 1 day 2 hr 6 min
+389 songs - 1 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Because They Want Our Seat](https://open.spotify.com/track/4zr7hfFkbtPBUc9c1CeJN6) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Because They Want Our Seat](https://open.spotify.com/album/1caYLb8S3J4A2IdGzxXRV9) | 3:51 | 2024-09-06 | 2026-04-11 |
 | [Bella Ciao \- Hard Techno Remix](https://open.spotify.com/track/1EDnEdNHoNOhaTDBEowLDH) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Bella Ciao \(Hard Techno Remix\)](https://open.spotify.com/album/2wDigw0RKsIXLHrDK2hYaF) | 3:38 | 2024-05-31 |  |
 | [Berserk](https://open.spotify.com/track/3zz6aAkhSdYLZCO8CLG2an) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [Berserk](https://open.spotify.com/album/7F6zcr0bT4lMVblKSd3sUo) | 3:15 | 2025-08-22 | 2025-12-12 |
+| [Better With You](https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF) | [Better With You](https://open.spotify.com/album/3Uuy2TmXMScAV6Mzy9CZiO) | 3:31 | 2026-07-10 |  |
 | [BLACK](https://open.spotify.com/track/4YGzPQSuENk8V14hs3W9xH) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [BLACK](https://open.spotify.com/album/2Z6O9GYTQtu1wivPY3kMBe) | 5:31 | 2024-04-09 | 2024-09-27 |
 | [Black Hole](https://open.spotify.com/track/4zHpgtUnq6ukjCBoB3bsuP) | [Anxhela](https://open.spotify.com/artist/2GqUrgjv3nl7JBCJ26ky5n) | [Black Hole](https://open.spotify.com/album/0fEQO1ruegqY6Mq5Wsa1mN) | 6:20 | 2024-12-13 | 2025-10-02 |
 | [BLOW IT UP](https://open.spotify.com/track/3vqRYeWGfQli1HlRKgsrSA) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig), [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD) | [BLOW IT UP](https://open.spotify.com/album/5hwnKzCJXnIFdvbrziT6si) | 2:38 | 2025-06-20 |  |
@@ -118,7 +119,7 @@
 | [Dopamine](https://open.spotify.com/track/0fo5N7yteZrGgpdX796nei) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [Caroline Roxy](https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW) | [Dopamine](https://open.spotify.com/album/3rJcwBRcB9SGyw2fUTNWxn) | 2:01 | 2025-03-19 | 2025-04-12 |
 | [DRONE \- LESSSS EDIT](https://open.spotify.com/track/0Ns77ZocJgmY9dSHGesXij) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [Train Fantôme](https://open.spotify.com/artist/2mjW4mSSSH70mD4tH0Ijsg) | [DRONE \(LESSSS EDIT\)](https://open.spotify.com/album/4v5GFSdaDlbNItNJgO3qrE) | 2:52 | 2025-03-07 |  |
 | [Drop The Bomb](https://open.spotify.com/track/4yU6ZZmBIffFRe8BXJxmkc) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Drop The Bomb](https://open.spotify.com/album/5rvu2p5QSMZOj6VaVEZJsD) | 3:33 | 2024-04-09 | 2024-07-15 |
-| [Duality](https://open.spotify.com/track/3f6LpfaDNDy7gtYZFHg5Km) | [Paolo Ferrara](https://open.spotify.com/artist/1U7SiJjX2xOz8I0QFCEeDK), [LeStrange](https://open.spotify.com/artist/01nL5y3UmnvmvusuBmzpN9), [Benefice](https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus) | [Duality](https://open.spotify.com/album/1nTLgIAwIekeX7HKUNy8ge) | 3:27 | 2024-11-13 |  |
+| [Duality](https://open.spotify.com/track/3f6LpfaDNDy7gtYZFHg5Km) | [Paolo Ferrara](https://open.spotify.com/artist/1U7SiJjX2xOz8I0QFCEeDK), [LeStrange](https://open.spotify.com/artist/01nL5y3UmnvmvusuBmzpN9), [Benefice](https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus) | [Duality](https://open.spotify.com/album/1nTLgIAwIekeX7HKUNy8ge) | 3:27 | 2024-11-13 | 2026-07-10 |
 | [eat, sleep, slay, 🔁](https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [eat, sleep, slay, 🔁](https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h) | 2:29 | 2024-09-27 | 2024-11-14 |
 | [Eiskalt \- Short Mix](https://open.spotify.com/track/59K0LFhUnKtp5GsH76teI1) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC), [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Eiskalt \(Short Mix\)](https://open.spotify.com/album/4O2qkN2LQ9ayCb1n5exb6f) | 3:33 | 2024-04-09 | 2024-10-15 |
 | [Endless Dance](https://open.spotify.com/track/0533WxWr8MQPiMoc9pXwxA) | [Version 34](https://open.spotify.com/artist/1tb92FcoaVMXsKb50AVO9T) | [Endless Dance EP](https://open.spotify.com/album/4UrgbHvuCZ9zm5Kwm9BV7m) | 2:36 | 2025-11-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 
 > This is Miles Davis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,887 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,897 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 | 35 | [Oleo \- RVG Remastered 2008](https://open.spotify.com/track/6xPwn3TDhmKr2LWwg15a3i) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5), [Kenny Clarke](https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa), [Percy Heath](https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb) | [Bags' Groove \(Rudy Van Gelder 2008 Remaster\)](https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo) | 5:12 |
 | 36 | [Chez le photographe du motel \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/7rR1QRYxx4JBaMtAyLrhrq) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 3:50 |
 | 37 | [Tutu](https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Tutu](https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7) | 5:16 |
-| 38 | [Blue Haze \- Remastered 2024](https://open.spotify.com/track/2u1f3xfVNZ1q8RXnalGsKO) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles '54: The Prestige Recordings \(Remastered 2024\)](https://open.spotify.com/album/3n0Rai2wkPIKr2CsfRkaNg) | 6:12 |
-| 39 | [Mystery](https://open.spotify.com/track/6WfytwIOVy3rdh2j7qFoEh) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Doo\-Bop](https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl) | 3:56 |
+| 38 | [Mystery](https://open.spotify.com/track/6WfytwIOVy3rdh2j7qFoEh) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Doo\-Bop](https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl) | 3:56 |
+| 39 | [Blue Haze \- Remastered 2024](https://open.spotify.com/track/2u1f3xfVNZ1q8RXnalGsKO) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles '54: The Prestige Recordings \(Remastered 2024\)](https://open.spotify.com/album/3n0Rai2wkPIKr2CsfRkaNg) | 6:12 |
 | 40 | [Intoit](https://open.spotify.com/track/1zrYb4Y8KowyXmbzoHGh7L) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Conception](https://open.spotify.com/album/6Y0n5LeEbECbMcPxS1fyJe) | 3:19 |
 | 41 | [L'assassinat de Carala \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/6kAg8FCndlSgVWWm0mrngy) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 2:09 |
 | 42 | [Bags' Groove \- Take 1 / RVG Remastered 2008](https://open.spotify.com/track/5RQqoEIkp6XsYyULz7AlAS) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN), [Milt Jackson](https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN), [Kenny Clarke](https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa), [Percy Heath](https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb) | [Bags' Groove \(Rudy Van Gelder 2008 Remaster\)](https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo) | 11:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 | 49 | [The Pan Piper](https://open.spotify.com/track/2bQqOVOml9LQYfyjO3BbOW) | [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Sketches of Spain](https://open.spotify.com/album/2xyhltm9XWSQ5xok4C81BD) | 3:56 |
 | 50 | [Yesterdays](https://open.spotify.com/track/5OQzdZpyPlkADNSDMUEr2U) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Blue Note And Capitol Recordings](https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz) | 3:46 |
 
-Snapshot ID: `akrwAAAAAABsJ8Blthsmn5OKOA/DntbX`
+Snapshot ID: `ak2TAAAAAAAVjLD97XVdt8fu5O/TidsH`

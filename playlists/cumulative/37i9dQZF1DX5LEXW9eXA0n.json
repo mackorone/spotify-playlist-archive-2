@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: Hwang Chi Yeul (\ud669\uce58\uc5f4)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: Choi Yu Ree (\ucd5c\uc720\ub9ac)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -2965,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "Become More Beautiful",
+        "url": "https://open.spotify.com/album/5N5J8Ssg92eEhlm2j6BqVt"
+      },
+      "artists": [
+        {
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Become More Beautiful",
+      "url": "https://open.spotify.com/track/7FJ3haDCi8Y6wA27PeKPC9"
+    },
+    {
+      "album": {
         "name": "Before Love",
         "url": "https://open.spotify.com/album/12NS4M30oqznlTJPmBWMC0"
       },
@@ -4969,6 +4987,24 @@
     },
     {
       "album": {
+        "name": "Crushed",
+        "url": "https://open.spotify.com/album/0sXjgH2vb0I2ifgstdSztt"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Crushed",
+      "url": "https://open.spotify.com/track/7qWMlEMiKxnrl1bFTOcVPT"
+    },
+    {
+      "album": {
         "name": "CRY",
         "url": "https://open.spotify.com/album/1GHJYdO0IUEbCMaXNXhZf1"
       },
@@ -5638,6 +5674,24 @@
       "duration_ms": 243133,
       "name": "Distant Fate",
       "url": "https://open.spotify.com/track/6cwog2cadHETvgU9wJWAs3"
+    },
+    {
+      "album": {
+        "name": "Distant Memories of You",
+        "url": "https://open.spotify.com/album/2P8YzhY2vP23Bfs9BjN3UM"
+      },
+      "artists": [
+        {
+          "name": "Sin Ye Young",
+          "url": "https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "Distant Memories of You",
+      "url": "https://open.spotify.com/track/6u5lfoEkh6cGQd7Up7jJi5"
     },
     {
       "album": {
@@ -7216,7 +7270,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 187000,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/6rEl0Yj0Y7Zp84ur7soQHY"
@@ -7270,7 +7324,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 298000,
       "name": "Fading Away",
       "url": "https://open.spotify.com/track/3w63f62xSTTMUY7KRgg6rJ"
@@ -8226,7 +8280,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 248000,
       "name": "For You",
       "url": "https://open.spotify.com/track/7E1ltzmFIvIIvrj8Kfdw3S"
@@ -14251,6 +14305,24 @@
     },
     {
       "album": {
+        "name": "Stay: Two",
+        "url": "https://open.spotify.com/album/2gOa5uroWd6vArXZ1u2lg5"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Last Love",
+      "url": "https://open.spotify.com/track/2JwWon35h47xXgA89STbEN"
+    },
+    {
+      "album": {
         "name": "Last Love",
         "url": "https://open.spotify.com/album/1al5wXHrHop6h0ZXKBvnO4"
       },
@@ -14298,7 +14370,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 255000,
       "name": "Last Love",
       "url": "https://open.spotify.com/track/5wOCYMy0SP58fPiXOc4p3s"
@@ -19652,7 +19724,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 213000,
       "name": "One More Drink",
       "url": "https://open.spotify.com/track/3sgY0rXSs0QwS1iDCC7Lne"
@@ -24491,6 +24563,24 @@
     },
     {
       "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/4slUF3getoU3xR2UcxFMUL"
+      },
+      "artists": [
+        {
+          "name": "Lee Sora",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/1g1sttRV6Dy2tj6aE92TnM"
+    },
+    {
+      "album": {
         "name": "Summer End (Original Soundtrack from Last Summer)",
         "url": "https://open.spotify.com/album/2WyblLuFfoHwGxFIBnSo0O"
       },
@@ -25828,7 +25918,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 263000,
       "name": "The Miracle of Us (Feat. Jeon Sang Keun)",
       "url": "https://open.spotify.com/track/1yDW6SxPAcvdtEO1GVgM6g"
@@ -27894,6 +27984,24 @@
       "duration_ms": 202626,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/7qoNik0g1HwjxPlIXkXoAD"
+    },
+    {
+      "album": {
+        "name": "\uacb0\ud63c\uc758 \uc644\uc131 Original Sound Track Part.2",
+        "url": "https://open.spotify.com/album/22MrFdUTUvpJ0XZztCf3Uy"
+      },
+      "artists": [
+        {
+          "name": "OHYUL of LNGSHOT",
+          "url": "https://open.spotify.com/artist/19lETOCO5Jc7arA9DaLID8"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251334,
+      "name": "Us, Now",
+      "url": "https://open.spotify.com/track/7hHXvDy58AOKIWZgXeYarw"
     },
     {
       "album": {

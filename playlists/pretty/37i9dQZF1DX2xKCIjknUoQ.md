@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,993 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,001 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Le Graal](https://open.spotify.com/track/4hMsrR2JpxCeybyWN786qk) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [L'équilibre](https://open.spotify.com/album/4CkUoxJjBE1QLFMwJYcDwC) | 3:11 |
 | 2 | [Le vent nous portera](https://open.spotify.com/track/2ZQVJD9I6GCqXmkmMuEoLa) | [Noir Désir](https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos) | [Des visages des figures](https://open.spotify.com/album/2GbW5WBU1BFSChvxtt6BBH) | 4:48 |
 | 3 | [La vie est belle](https://open.spotify.com/track/42z3DqNB88hUKzbTQxklxR) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [13](https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo) | 5:27 |
-| 4 | [I'm Picky](https://open.spotify.com/track/4LIN465EXxcZwgGsQsG0TC) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [The Geeks and the Jerkin' Socks](https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK) | 3:58 |
-| 5 | [Let’s Go](https://open.spotify.com/track/1XsN9Flu0VvZpXmrkBtZGt) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Pursuit](https://open.spotify.com/album/4ML88AyBHneIkmTHJunWCC) | 3:31 |
+| 4 | [Let’s Go](https://open.spotify.com/track/1XsN9Flu0VvZpXmrkBtZGt) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Pursuit](https://open.spotify.com/album/4ML88AyBHneIkmTHJunWCC) | 3:31 |
+| 5 | [I'm Picky](https://open.spotify.com/track/4LIN465EXxcZwgGsQsG0TC) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [The Geeks and the Jerkin' Socks](https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK) | 3:58 |
 | 6 | [Jeune et con](https://open.spotify.com/track/0xLWMbuXHlW2O1DouU57AK) | [Saez](https://open.spotify.com/artist/2yQBgACksUJgNKh1JWPWPe) | [Jours Etranges](https://open.spotify.com/album/2bg7qOhAn5apkOzX5v2SHg) | 3:52 |
 | 7 | [L'homme pressé](https://open.spotify.com/track/637T4loKlXPwfUdQVZjPTV) | [Noir Désir](https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos) | [666.667 Club](https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT) | 3:45 |
 | 8 | [Sunday With A Flu](https://open.spotify.com/track/05pU63DL8dSAApA8amj0ql) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Tree Of Life](https://open.spotify.com/album/1ZBipWDQranfO54JP023ZT) | 2:17 |
-| 9 | [My Name Is Stain](https://open.spotify.com/track/5CGoooF86pFWxjbkIfl5q4) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [The Geeks and the Jerkin' Socks](https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK) | 3:27 |
-| 10 | [Emma](https://open.spotify.com/track/1XIuwgrZsB0FQpad2ZMVYa) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [La Ouache](https://open.spotify.com/album/3Jc7BaQeEeWq1KwDXmbS8g) | 3:57 |
+| 9 | [Emma](https://open.spotify.com/track/1XIuwgrZsB0FQpad2ZMVYa) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [La Ouache](https://open.spotify.com/album/3Jc7BaQeEeWq1KwDXmbS8g) | 3:57 |
+| 10 | [My Name Is Stain](https://open.spotify.com/track/5CGoooF86pFWxjbkIfl5q4) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [The Geeks and the Jerkin' Socks](https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK) | 3:27 |
 | 11 | [Ghost](https://open.spotify.com/track/59p3L2BcqN4L2DBBeg0KlQ) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late](https://open.spotify.com/album/4A3OeAAQMzcBSmyDpLSu6h) | 3:08 |
 | 12 | [Ding Dang Dong \(Ringing at Your Bell\)](https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Variéty](https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL) | 3:39 |
 | 13 | [Dis\-moi encore que tu m'aimes](https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf) | [Ginger](https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp) | 3:08 |

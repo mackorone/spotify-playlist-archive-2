@@ -4,12 +4,13 @@
 
 > This is RÜFÜS DU SOL\. The essential tracks, all in one playlist.
 
-41 songs - 3 hr 13 min
+42 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alive \- Anyma Remix](https://open.spotify.com/track/51a3PbfoqGIQsqZXKd2YWf) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Surrender \(Remixes\)](https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3) | 5:11 | 2026-06-15 |  |
 | [All I've Got](https://open.spotify.com/track/1LqcIO6jY4XEsObcuU5YiJ) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 3:43 | 2026-06-15 |  |
+| [Always](https://open.spotify.com/track/56jH9iqA8f2kwaoK8103hu) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 7:28 | 2026-07-10 |  |
 | [Break My Love](https://open.spotify.com/track/7kWLSsy2KfSFPhbbNysnns) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:20 | 2026-06-15 |  |
 | [Breathe](https://open.spotify.com/track/1qMGujcR5TWGxvCismyc6U) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 3:01 | 2026-06-15 |  |
 | [Brighter](https://open.spotify.com/track/7D5gkUVhkLbe5e8qG1NqcZ) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 4:41 | 2026-06-15 |  |
@@ -17,7 +18,7 @@
 | [Devotion](https://open.spotify.com/track/56Qdvab5ordX97OCvgY3ie) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:19 | 2026-06-15 |  |
 | [Exhale \- &friends & David Mackay Remix](https://open.spotify.com/track/3ct1EhKSNsCGkKDepzSc0n) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [David Mackay](https://open.spotify.com/artist/2eiBRWD2o9Q99ehtKoL2qt) | [Inhale / Exhale Remixed, Vol\. 2](https://open.spotify.com/album/1AonxwXjN8rALKh1tfLgg6) | 4:18 | 2026-06-15 |  |
 | [Eyes](https://open.spotify.com/track/6vkFCzPmJ3beYG0zeevdmX) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 3:50 | 2026-06-15 |  |
-| [I Don't Wanna Leave](https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 4:29 | 2026-06-15 |  |
+| [I Don't Wanna Leave](https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 4:29 | 2026-06-15 | 2026-07-10 |
 | [In the Moment \- Adriatique Remix](https://open.spotify.com/track/3JGvqlIZr8pvabWHmZwPsU) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Inhale / Exhale Remixed, Vol\. 1](https://open.spotify.com/album/1Dh0p4T4xkmUuTFI1QViss) | 4:10 | 2026-06-15 |  |
 | [Inhale](https://open.spotify.com/track/124hDFQWCBm3PI3RRXU2fH) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 1:48 | 2026-06-28 |  |
 | [Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 9:38 | 2026-06-15 |  |

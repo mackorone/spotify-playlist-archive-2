@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Josh Baker, Poppy Baskcomb
+> The UK's biggest dance playlist! Cover: Peggy Gou, Ayra Starr
 
 770 songs - 1 day 16 hr 0 min
 

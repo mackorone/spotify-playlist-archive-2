@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sarah Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,508 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,543 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 7 | [Maara Makka \- From "Think Indie"](https://open.spotify.com/track/13TxDpBIVafb5iAKXaO6IG) | [rudh](https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t) | [Maara Makka \(From "Think Indie"\)](https://open.spotify.com/album/19DWPHifKZD73XLtkiRb6B) | 2:43 |
 | 8 | [Frangipani \- Acoustic](https://open.spotify.com/track/38xB1JeSCiElBawdcatCrg) | [Kaber Vasuki](https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb) | [Raw Tapes 01 \(Acoustic\)](https://open.spotify.com/album/4qQWsDwWHyfz46GkKWgah7) | 10:10 |
 | 9 | [Fancy Store \- From "Atti Culture"](https://open.spotify.com/track/4DDZ9oM1mv7hiCuxToTGwj) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Kelithee](https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg) | [Fancy Store \(From "Atti Culture"\)](https://open.spotify.com/album/61FdiV3mqRtVRAMyEQa94o) | 3:17 |
-| 10 | [Sainkalam](https://open.spotify.com/track/6Y79pDSEdv5ujs0suUEBXL) | [Sooraj S\. Kurup](https://open.spotify.com/artist/0wvji3X9BFRc6KORiVgN8p) | [Sainkalam](https://open.spotify.com/album/0QsdI11FG0a7tLdOOWn2EJ) | 3:02 |
+| 10 | [Sainkalam](https://open.spotify.com/track/6Y79pDSEdv5ujs0suUEBXL) | [Sooraj S\. Kurup](https://open.spotify.com/artist/0wvji3X9BFRc6KORiVgN8p), [Naveen Bharathi](https://open.spotify.com/artist/1B3EG1myMgdRwViPIA2p3S) | [Sainkalam](https://open.spotify.com/album/0QsdI11FG0a7tLdOOWn2EJ) | 3:02 |
 | 11 | [KOLLURE \- From "Must Date The Playboy"](https://open.spotify.com/track/5jaXSWih6Mg6oi8SBe5e1x) | [Shabir Sulthan](https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng), [Vishnupriya Ravi](https://open.spotify.com/artist/0znqmX3tzZ55FFTmlffAlv), [Mazhaimegan](https://open.spotify.com/artist/0rXfJ6VTsAgBFdncbk6vGA) | [KOLLURE \(From "Must Date The Playboy"\)](https://open.spotify.com/album/1aDhfTPfEk78idjxV2aIsi) | 2:45 |
 | 12 | [POCHA \- From "Cheers Music"](https://open.spotify.com/track/6T4r1F01eg0jmcal7ulg4j) | [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Anand Kashinath](https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di) | [POCHA \(From "Cheers Music"\)](https://open.spotify.com/album/2K4e3kPsAoW2BGhSyDyeEW) | 3:33 |
 | 13 | [Hey Neptune Nizhale](https://open.spotify.com/track/1KIHbNslsJKimtwAnBuKOT) | [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit), [Sri Sudharsun](https://open.spotify.com/artist/3rEvzXb6i6OZsX184y3lY8), [Deepthi](https://open.spotify.com/artist/3cP8ynFpc7yZyeSlLNppFG) | [Hey Neptune Nizhale](https://open.spotify.com/album/56uh1I8uxk4dHPVC2Xa1PK) | 4:19 |

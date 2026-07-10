@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Ken Carson, J Hus, Rylo Rodriguez and more!
 
-10,448 songs - 19 day 23 hr 54 min
+10,448 songs - 19 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4675,7 +4675,7 @@
 | [IronMan](https://open.spotify.com/track/1VztOdqFSTBEjBJMTbmfNW) | [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL) | [IronMan](https://open.spotify.com/album/2woBXzBABHDsVvb6ZbZg8t) | 2:45 | 2022-08-05 | 2022-08-13 |
 | [Irreplaceable](https://open.spotify.com/track/6jhFFQtKBib4cICFEyf5Lv) | [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu) | [Irreplaceable](https://open.spotify.com/album/6DxxUOlKRmiNOjbZNgxIYN) | 2:39 | 2023-09-01 | 2023-09-09 |
 | [Is It The Way](https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Is It The Way](https://open.spotify.com/album/4yvcCQ6riOr6XvigkpItWN) | 2:32 | 2024-09-27 | 2024-10-05 |
-| [Is Loving Really Bad](https://open.spotify.com/track/0glAAFulS8PHqD1b35sKz6) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Is Loving Really Bad](https://open.spotify.com/album/5gD0Dn9wTqvAq4O73895dI) | 2:28 | 2026-07-03 |  |
+| [Is Loving Really Bad](https://open.spotify.com/track/0glAAFulS8PHqD1b35sKz6) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Is Loving Really Bad](https://open.spotify.com/album/5gD0Dn9wTqvAq4O73895dI) | 2:26 | 2026-07-03 |  |
 | [Is This Love \('09\) \(feat\. 50 Cent\)](https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Curtain Call 2](https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n) | 3:32 | 2022-08-05 | 2022-08-13 |
 | [is this my life](https://open.spotify.com/track/4iogvjEcNuWaPzQP8eu4uG) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [is this my life](https://open.spotify.com/album/4TdQqnYKKsou7eHxpPGrRK) | 3:49 | 2026-05-15 | 2026-05-23 |
 | [Is What It Is](https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Is What It Is](https://open.spotify.com/album/2YOF3TN46Z2FdTIIE9GTga) | 2:57 | 2022-06-17 | 2022-06-25 |

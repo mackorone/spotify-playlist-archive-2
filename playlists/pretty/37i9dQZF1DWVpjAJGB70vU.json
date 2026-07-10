@@ -1,6 +1,6 @@
 {
   "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 2232245,
+  "num_followers": 2232722,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Livin' On Love",
-      "url": "https://open.spotify.com/track/15gU2OepIEbeNTBbes6pIF"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Blue Clear Sky",
         "url": "https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 174866,
       "name": "Blue Clear Sky",
       "url": "https://open.spotify.com/track/59MIR30ATtW8kTaX3SCpq0"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Livin' On Love",
+      "url": "https://open.spotify.com/track/15gU2OepIEbeNTBbes6pIF"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "I Still Believe In You",
-        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Don't Let Our Love Start Slippin' Away",
-      "url": "https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Hard Workin' Man",
         "url": "https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 178493,
       "name": "Hard Workin' Man",
       "url": "https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "I Still Believe In You",
+        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Don't Let Our Love Start Slippin' Away",
+      "url": "https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "A Thousand Memories",
-        "url": "https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb"
+        "name": "Past The Point Of Rescue",
+        "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
       },
       "artists": [
         {
-          "name": "Rhett Akins",
-          "url": "https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24"
+          "name": "Hal Ketchum",
+          "url": "https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7"
         }
       ],
-      "duration_ms": 243106,
-      "name": "That Ain't My Truck",
-      "url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR"
+      "duration_ms": 177986,
+      "name": "Small Town Saturday Night",
+      "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Past The Point Of Rescue",
-        "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
+        "name": "A Thousand Memories",
+        "url": "https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb"
       },
       "artists": [
         {
-          "name": "Hal Ketchum",
-          "url": "https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7"
+          "name": "Rhett Akins",
+          "url": "https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24"
         }
       ],
-      "duration_ms": 177986,
-      "name": "Small Town Saturday Night",
-      "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
+      "duration_ms": 243106,
+      "name": "That Ain't My Truck",
+      "url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Rumor Has It",
-        "url": "https://open.spotify.com/album/51HYz7BSvrQBSUV2myiEOt"
-      },
-      "artists": [
-        {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
-        }
-      ],
-      "duration_ms": 183853,
-      "name": "Then What?",
-      "url": "https://open.spotify.com/track/1TjtrBIx7fPUBjDXL9svN1"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "When Fallen Angels Fly",
         "url": "https://open.spotify.com/album/3gl2RguatWgKSoCuN1tSw9"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 169933,
       "name": "I Try to Think About Elvis",
       "url": "https://open.spotify.com/track/121ILFThNZH9Egncny7upu"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Rumor Has It",
+        "url": "https://open.spotify.com/album/51HYz7BSvrQBSUV2myiEOt"
+      },
+      "artists": [
+        {
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+        }
+      ],
+      "duration_ms": 183853,
+      "name": "Then What?",
+      "url": "https://open.spotify.com/track/1TjtrBIx7fPUBjDXL9svN1"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Watch Me",
-        "url": "https://open.spotify.com/album/6o4D7rnYiEamaKelYwsw87"
-      },
-      "artists": [
-        {
-          "name": "Lorrie Morgan",
-          "url": "https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt"
-        }
-      ],
-      "duration_ms": 164293,
-      "name": "What Part of No",
-      "url": "https://open.spotify.com/track/074RB4dBpZ4ySuQRyG8SMk"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "She'd Give Anything",
         "url": "https://open.spotify.com/album/1X87sU2bykRDc7i7Msg2ZP"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 218706,
       "name": "She'd Give Anything",
       "url": "https://open.spotify.com/track/6NbaCMidP5CmQSUL1fomZf"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/6o4D7rnYiEamaKelYwsw87"
+      },
+      "artists": [
+        {
+          "name": "Lorrie Morgan",
+          "url": "https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt"
+        }
+      ],
+      "duration_ms": 164293,
+      "name": "What Part of No",
+      "url": "https://open.spotify.com/track/074RB4dBpZ4ySuQRyG8SMk"
     },
     {
       "added_at": "2026-02-11 22:52:29",

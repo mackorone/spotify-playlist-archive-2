@@ -1,6 +1,6 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 1961692,
+  "num_followers": 1961527,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-07-02 04:00:35",
       "album": {
-        "name": "Solstice",
-        "url": "https://open.spotify.com/album/2B1TsRb3uycachEmnppqsZ"
-      },
-      "artists": [
-        {
-          "name": "Anna Graves",
-          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
-        }
-      ],
-      "duration_ms": 206543,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/02KzF8vFmNIhtPW8XKTdHe"
-    },
-    {
-      "added_at": "2026-07-02 04:00:35",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/7w25Rqt9D2fDxUwntGAlw0"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 131427,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/3tFXa569w5PRRtb2rCwoQQ"
+    },
+    {
+      "added_at": "2026-07-02 04:00:35",
+      "album": {
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/2B1TsRb3uycachEmnppqsZ"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "duration_ms": 206543,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/02KzF8vFmNIhtPW8XKTdHe"
     },
     {
       "added_at": "2026-07-02 04:00:35",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-07-02 04:00:35",
       "album": {
-        "name": "(watch my moves)",
-        "url": "https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 332533,
-      "name": "Mount Airy Hill (Way Gone)",
-      "url": "https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt"
-    },
-    {
-      "added_at": "2026-07-02 04:00:35",
-      "album": {
         "name": "Flag Day (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 212546,
       "name": "I Think Of Angels",
       "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
+    },
+    {
+      "added_at": "2026-07-02 04:00:35",
+      "album": {
+        "name": "(watch my moves)",
+        "url": "https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 332533,
+      "name": "Mount Airy Hill (Way Gone)",
+      "url": "https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt"
     },
     {
       "added_at": "2026-07-02 04:00:35",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2026-07-02 04:00:35",
       "album": {
-        "name": "First Mind",
-        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB"
       },
       "artists": [
         {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 248853,
-      "name": "April",
-      "url": "https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf"
+      "duration_ms": 131999,
+      "name": "Loving You Will Be The Death Of Me",
+      "url": "https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ"
     },
     {
       "added_at": "2026-07-02 04:00:35",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2026-07-02 04:00:35",
       "album": {
-        "name": "Black Friday",
-        "url": "https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB"
+        "name": "First Mind",
+        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
         }
       ],
-      "duration_ms": 131999,
-      "name": "Loving You Will Be The Death Of Me",
-      "url": "https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ"
+      "duration_ms": 248853,
+      "name": "April",
+      "url": "https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf"
     },
     {
       "added_at": "2026-07-02 04:00:35",
@@ -1311,18 +1311,22 @@
     {
       "added_at": "2026-07-02 04:00:35",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+        "name": "What A Relief",
+        "url": "https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ"
       },
       "artists": [
         {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+          "name": "Katie Gavin",
+          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
+        },
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 244951,
-      "name": "Horse to Water",
-      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
+      "duration_ms": 182110,
+      "name": "As Good As It Gets",
+      "url": "https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN"
     },
     {
       "added_at": "2026-07-02 04:00:35",
@@ -1343,22 +1347,18 @@
     {
       "added_at": "2026-07-02 04:00:35",
       "album": {
-        "name": "What A Relief",
-        "url": "https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ"
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
       "artists": [
         {
-          "name": "Katie Gavin",
-          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
-        },
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
         }
       ],
-      "duration_ms": 182110,
-      "name": "As Good As It Gets",
-      "url": "https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN"
+      "duration_ms": 244951,
+      "name": "Horse to Water",
+      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
     },
     {
       "added_at": "2026-07-02 04:00:35",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-07-02 04:00:35",
       "album": {
-        "name": "Lightning",
-        "url": "https://open.spotify.com/album/7H28isrokI8ORbf0tSV8ar"
-      },
-      "artists": [
-        {
-          "name": "RYMAN",
-          "url": "https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj"
-        }
-      ],
-      "duration_ms": 222585,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/1wWIDdjh2pWRE3ECsVCklE"
-    },
-    {
-      "added_at": "2026-07-02 04:00:35",
-      "album": {
         "name": "High and Dry",
         "url": "https://open.spotify.com/album/13aAHCgpUyaK7OyuckY2HT"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 153124,
       "name": "High and Dry",
       "url": "https://open.spotify.com/track/3sNRm2oodzFRdNjSAer1jo"
+    },
+    {
+      "added_at": "2026-07-02 04:00:35",
+      "album": {
+        "name": "Lightning",
+        "url": "https://open.spotify.com/album/7H28isrokI8ORbf0tSV8ar"
+      },
+      "artists": [
+        {
+          "name": "RYMAN",
+          "url": "https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj"
+        }
+      ],
+      "duration_ms": 222585,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/1wWIDdjh2pWRE3ECsVCklE"
     },
     {
       "added_at": "2026-07-02 04:00:35",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2026-07-02 04:00:35",
       "album": {
-        "name": "If You Wanna Laugh, You Gotta Cry Sometimes",
-        "url": "https://open.spotify.com/album/20QQy3xJI0IjJbZ0pDnk6d"
+        "name": "Tiny Things",
+        "url": "https://open.spotify.com/album/7qEfd7XFXsGh5wNcjQuHxT"
       },
       "artists": [
         {
-          "name": "Robert Lester Folsom",
-          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
         }
       ],
-      "duration_ms": 211382,
-      "name": "One More Song",
-      "url": "https://open.spotify.com/track/1RW9MKJFpqWWrw5cgIHGMi"
+      "duration_ms": 217687,
+      "name": "delay",
+      "url": "https://open.spotify.com/track/4smEceyd7k4ykSC5riSeFw"
     },
     {
       "added_at": "2026-07-02 04:00:35",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2026-07-02 04:00:35",
       "album": {
-        "name": "Tiny Things",
-        "url": "https://open.spotify.com/album/7qEfd7XFXsGh5wNcjQuHxT"
+        "name": "If You Wanna Laugh, You Gotta Cry Sometimes",
+        "url": "https://open.spotify.com/album/20QQy3xJI0IjJbZ0pDnk6d"
       },
       "artists": [
         {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+          "name": "Robert Lester Folsom",
+          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
         }
       ],
-      "duration_ms": 217687,
-      "name": "delay",
-      "url": "https://open.spotify.com/track/4smEceyd7k4ykSC5riSeFw"
+      "duration_ms": 211382,
+      "name": "One More Song",
+      "url": "https://open.spotify.com/track/1RW9MKJFpqWWrw5cgIHGMi"
     },
     {
       "added_at": "2026-07-02 04:00:35",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Deutschpop, der jetzt passiert. Cover: Ella Stern",
+  "description": "Deutschpop, der jetzt passiert. Cover: MilleniumKid",
   "name": "POPLAND",
   "tracks": [
     {
@@ -720,6 +720,24 @@
       "duration_ms": 145714,
       "name": "An mich",
       "url": "https://open.spotify.com/track/376voLuWRnKlzohb1bfz7L"
+    },
+    {
+      "album": {
+        "name": "anders angefangen",
+        "url": "https://open.spotify.com/album/42pgGiWHKyRl3LdTup7Ye0"
+      },
+      "artists": [
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/1n5afsM6tuJMrJJbkH5xob"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164489,
+      "name": "anders angefangen",
+      "url": "https://open.spotify.com/track/3ytn91gGCPIH1jVpPkTemN"
     },
     {
       "album": {
@@ -2972,7 +2990,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 153037,
       "name": "es tut mir sooo leid",
       "url": "https://open.spotify.com/track/1eE5yIZfsT6gpSDURe4WEC"
@@ -3358,7 +3376,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 161162,
       "name": "Frieden im Herz",
       "url": "https://open.spotify.com/track/4XocN9QUsmiWPztk6ptRpI"
@@ -3954,7 +3972,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 140989,
       "name": "halb so wild",
       "url": "https://open.spotify.com/track/1ZcBtBanEcpfmN3DjpVcv0"
@@ -4450,10 +4468,28 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 188604,
       "name": "Highlightmensch",
       "url": "https://open.spotify.com/track/0GJzrvLzIXyALPh4qNszSL"
+    },
+    {
+      "album": {
+        "name": "himbeersorbet",
+        "url": "https://open.spotify.com/album/01junsA8SQhsHhjYZbdH4Q"
+      },
+      "artists": [
+        {
+          "name": "maja kemper",
+          "url": "https://open.spotify.com/artist/18mccMGkbMAxvuQ5D6a7lk"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "himbeersorbet",
+      "url": "https://open.spotify.com/track/1dNOuGSRY0F6QwN0B75mts"
     },
     {
       "album": {
@@ -4724,6 +4760,24 @@
       "duration_ms": 151721,
       "name": "Ich Wart Auf Dich",
       "url": "https://open.spotify.com/track/7swJnVcL7RwIrtE6MrQUAV"
+    },
+    {
+      "album": {
+        "name": "Ich wei\u00df es doch auch nicht",
+        "url": "https://open.spotify.com/album/6OrFYLsoKk5boz03Tu7tDh"
+      },
+      "artists": [
+        {
+          "name": "Jupiter Jones",
+          "url": "https://open.spotify.com/artist/0V9oHfk0CZIiedKP4TSTBL"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210196,
+      "name": "Ich wei\u00df es doch auch nicht",
+      "url": "https://open.spotify.com/track/1UXyd0p7uzgcPr5aN5v1iP"
     },
     {
       "album": {
@@ -5191,6 +5245,24 @@
     },
     {
       "album": {
+        "name": "Kamera Blitzlicht",
+        "url": "https://open.spotify.com/album/646xIOsDbv5KQq09Vgt3eg"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238241,
+      "name": "Kamera Blitzlicht",
+      "url": "https://open.spotify.com/track/1iqw9RC7HckP1b75DkO2es"
+    },
+    {
+      "album": {
         "name": "KANN ES SO F\u00dcR IMMER SEIN?",
         "url": "https://open.spotify.com/album/5Eo2YAztmntKoPIOOcmkSu"
       },
@@ -5296,7 +5368,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 174413,
       "name": "Kein Schlaf",
       "url": "https://open.spotify.com/track/0ir69oQMkmI4lVG1WbFDjD"
@@ -5542,6 +5614,24 @@
       "duration_ms": 179124,
       "name": "klein sein",
       "url": "https://open.spotify.com/track/4NMhK0SBRWZ0RaVzWc15BS"
+    },
+    {
+      "album": {
+        "name": "Kleine Krise",
+        "url": "https://open.spotify.com/album/1eFsjWI8VUBqa3KByfD8vC"
+      },
+      "artists": [
+        {
+          "name": "Bella Reed",
+          "url": "https://open.spotify.com/artist/1u8VighW9YHcYd4x3U8ity"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118206,
+      "name": "Kleine Krise",
+      "url": "https://open.spotify.com/track/63r4SEhodUPyahvju2XS1F"
     },
     {
       "album": {
@@ -6829,6 +6919,42 @@
     },
     {
       "album": {
+        "name": "Munition",
+        "url": "https://open.spotify.com/album/5putTbyJOqBDCLVWfutnhM"
+      },
+      "artists": [
+        {
+          "name": "Adrian Aslani",
+          "url": "https://open.spotify.com/artist/2bFfSoUJZ0oACwo0FFM7ll"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162569,
+      "name": "Munition",
+      "url": "https://open.spotify.com/track/1ay2hi92GYl08TWetl0Axg"
+    },
+    {
+      "album": {
+        "name": "Mutausbruch",
+        "url": "https://open.spotify.com/album/31eLkAOs4GAdSlCios1qKb"
+      },
+      "artists": [
+        {
+          "name": "TOCHTER",
+          "url": "https://open.spotify.com/artist/3ygi0RTsXTi7zPVp5Be9fR"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160790,
+      "name": "Mutausbruch",
+      "url": "https://open.spotify.com/track/5aLQFGe0ohBoGBaRaHv8mD"
+    },
+    {
+      "album": {
         "name": "m\u00e4dchen von nebenan",
         "url": "https://open.spotify.com/album/3yx1JBsuKOCLA8bTqpLk7n"
       },
@@ -6862,6 +6988,24 @@
       "duration_ms": 229913,
       "name": "M\u00e4nnlichkeit",
       "url": "https://open.spotify.com/track/0kv8gkS5xsleRmeq8kGDxX"
+    },
+    {
+      "album": {
+        "name": "M\u00e4rchen",
+        "url": "https://open.spotify.com/album/3BtLqiwsakxi6VCWYfttzN"
+      },
+      "artists": [
+        {
+          "name": "Alice Stark",
+          "url": "https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156631,
+      "name": "M\u00e4rchen",
+      "url": "https://open.spotify.com/track/7Eho5ONf9Hp4LKDxFDbQl8"
     },
     {
       "album": {
@@ -7386,7 +7530,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 134506,
       "name": "NIE WIEDER",
       "url": "https://open.spotify.com/track/7MLQqu5BcNGO78I4ozefEv"
@@ -8007,6 +8151,24 @@
     },
     {
       "album": {
+        "name": "Pinke Blumen",
+        "url": "https://open.spotify.com/album/3YJxrH0VhMqk26sRMAkZuG"
+      },
+      "artists": [
+        {
+          "name": "Julia Steen",
+          "url": "https://open.spotify.com/artist/7zGxTpEbNGFj6NxWUKLVhr"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175750,
+      "name": "Pinke Blumen",
+      "url": "https://open.spotify.com/track/6RFU79X62H21wzx4i7kQ8z"
+    },
+    {
+      "album": {
         "name": "Pinke Pl\u00fcschjacke",
         "url": "https://open.spotify.com/album/15SiaPrp8mY7IFu6FjRBIx"
       },
@@ -8148,7 +8310,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 187374,
       "name": "Popkorn",
       "url": "https://open.spotify.com/track/6U0h1sVP05ZadxLgYDvraQ"
@@ -8224,7 +8386,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 144105,
       "name": "Raus aus der Stadt",
       "url": "https://open.spotify.com/track/2Y2aEdqKArkM2YuF3U6iWa"
@@ -8282,6 +8444,24 @@
       "duration_ms": 145000,
       "name": "Rettest Du Mich",
       "url": "https://open.spotify.com/track/6fDw6jks6vPMhFFXjjtS91"
+    },
+    {
+      "album": {
+        "name": "Richtig guter Opa",
+        "url": "https://open.spotify.com/album/3jhoZpPuveKzJqU3wNcaMg"
+      },
+      "artists": [
+        {
+          "name": "ENKAY",
+          "url": "https://open.spotify.com/artist/3ZR4DKb6szzEmIavtFES5j"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136904,
+      "name": "Richtig guter Opa",
+      "url": "https://open.spotify.com/track/28AnONRNtk0wxslhk9dA3N"
     },
     {
       "album": {
@@ -8696,7 +8876,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 166335,
       "name": "Sie Will Nur Frieden",
       "url": "https://open.spotify.com/track/5j3jgJV8N68Ik2lX0D4H5h"
@@ -9816,7 +9996,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 173186,
       "name": "WACH AUF",
       "url": "https://open.spotify.com/track/6lG7oslbzyvft8SbhOkLzt"
@@ -10453,6 +10633,24 @@
     },
     {
       "album": {
+        "name": "Wenn du scheinst",
+        "url": "https://open.spotify.com/album/0y4CnmS7b8WPPCFG1Sl62Z"
+      },
+      "artists": [
+        {
+          "name": "Anna Grey",
+          "url": "https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145137,
+      "name": "Wenn du scheinst",
+      "url": "https://open.spotify.com/track/5xeSU50RyNQhdbGNsghDwt"
+    },
+    {
+      "album": {
         "name": "wenn du springst.",
         "url": "https://open.spotify.com/album/07uXQwIroRv0Up1qO7Xu5b"
       },
@@ -10620,6 +10818,24 @@
       "duration_ms": 195500,
       "name": "Wer wir sind",
       "url": "https://open.spotify.com/track/6qcEMiN7OvfOiw7dzwjuGZ"
+    },
+    {
+      "album": {
+        "name": "Wie Du",
+        "url": "https://open.spotify.com/album/3jYqCP7LOWZWYEAcSPnQv9"
+      },
+      "artists": [
+        {
+          "name": "MilleniumKid",
+          "url": "https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158012,
+      "name": "Wie Du",
+      "url": "https://open.spotify.com/track/6f4v65I6KCWtG0241uyAJp"
     },
     {
       "album": {
@@ -10818,7 +11034,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 189629,
       "name": "Wo diese Liebe hinf\u00e4llt (Krater)",
       "url": "https://open.spotify.com/track/5pZgHJlcOqAfwbYvef8fLx"
@@ -11136,7 +11352,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 195099,
       "name": "Zuhause",
       "url": "https://open.spotify.com/track/0UOrDOuL0LMoBABdhS2aFe"

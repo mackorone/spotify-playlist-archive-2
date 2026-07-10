@@ -4,7 +4,7 @@
 
 > Antoon kiest 20 bangers voor zomer ID 🕶️ main character summer <a href="spotify:genre:0JQ5DAqbMKFHoCrqEupC7P">Welke zomer ID ben jij?</a>
 
-213 songs - 9 hr 36 min
+214 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Casual](https://open.spotify.com/track/1Oq4ei25SeGivbXLcCnz7z) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:22 | 2025-07-17 | 2025-11-14 |
 | [Chaos](https://open.spotify.com/track/2wz7MrwJMq90RMuapVv0e3) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Chaos](https://open.spotify.com/album/2cUXkhXp0T5uWU1rgfWku2) | 2:51 | 2025-07-17 | 2025-09-26 |
 | [Cheerio](https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Cheerio](https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh) | 2:28 | 2026-05-07 |  |
+| [CHEERIO SUMMER REMIX](https://open.spotify.com/track/1kpq0c9ErTJIaR3MPJz6sn) | [DJ LARITA](https://open.spotify.com/artist/73BcfubAabKdfcR0WpxbAg), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [CHEERIO SUMMER REMIX](https://open.spotify.com/album/7mkZQYGBJa1LMWFjnRrZrl) | 2:01 | 2026-07-09 |  |
 | [CRUSH](https://open.spotify.com/track/5GKsUqnQ90T5kkvG6u30wZ) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli), [RHYME](https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ) | [CRUSH](https://open.spotify.com/album/3fAbIQ4KlgfrbFmIPDJQO0) | 2:46 | 2025-07-17 | 2026-04-03 |
 | [Da's Brunzynbaby](https://open.spotify.com/track/0aSjTvFL1ucNBPToefdceg) | [Brunzyn](https://open.spotify.com/artist/34zjBncq7MEAoNwsM1DMU9), [Dentalhon](https://open.spotify.com/artist/7aIdHQ8AGazYhQrF8dOe84) | [Da's Brunzynbaby](https://open.spotify.com/album/4IBxYCz5rMWl99Y4mvq55l) | 2:03 | 2025-08-25 | 2025-10-07 |
 | [Dame Un Grrr](https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Dame Un Grrr](https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65) | 2:13 | 2025-07-17 | 2025-09-05 |

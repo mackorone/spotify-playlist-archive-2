@@ -4,7 +4,7 @@
 
 > Beach vibes and summer jams only.
 
-683 songs - 1 day 2 hr 11 min
+684 songs - 1 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [first valentino](https://open.spotify.com/track/72vP7d1KwQ1pPsWy4xoKwt) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [first valentino](https://open.spotify.com/album/5KiLoQ8dmzV8cKhykgdOpn) | 2:04 | 2025-06-19 |  |
 | [Flamantico](https://open.spotify.com/track/6mbOBzSXjisjO2eB8ovh4X) | [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Flamantico](https://open.spotify.com/album/71oImTIci4jQKSiDOPIy8Z) | 2:09 | 2022-07-08 | 2022-09-09 |
 | [Flavors of Oro](https://open.spotify.com/track/4O7Tbtvbf1U25lMhkBa2wd) | [Aphid Friend](https://open.spotify.com/artist/6gQZaq3bhFr819MDPbmEso) | [Floaty Boi](https://open.spotify.com/album/6rxXyvP6xKjQJjBw27m3XB) | 2:48 | 2022-05-20 | 2025-07-01 |
+| [floatie](https://open.spotify.com/track/2A9xeiUtMLTxY4yO3nmxvK) | [rasbora](https://open.spotify.com/artist/4wquevbkDU8HqWvxboIzYF) | [floatie](https://open.spotify.com/album/4Cy8ph7lwy5dMpHmu7npxC) | 1:49 | 2026-07-09 |  |
 | [floating](https://open.spotify.com/track/23JhVTYEOlAMp82uiwqCvY) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [floating](https://open.spotify.com/album/31IsKfOz67NUz85jLOvZ9e) | 1:56 | 2024-06-28 |  |
 | [Floating Ways](https://open.spotify.com/track/1m1HGbcUMXFUCdi7S5UnuL) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [Diiolme](https://open.spotify.com/artist/29GPUrWlYRtiq1NMNpQiQo) | [Floating Ways](https://open.spotify.com/album/29voq6CUBAUx1Z0PHx18XT) | 2:35 | 2022-07-08 | 2022-08-19 |
 | [Flor de Maga](https://open.spotify.com/track/6YUl5cWPcgEdKl4qtCNlsg) | [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8) | [Flora Vida](https://open.spotify.com/album/5XanZuVir9LIv3lsFAtlAG) | 2:32 | 2022-05-20 | 2023-01-07 |
@@ -482,7 +483,7 @@
 | [Resurrected](https://open.spotify.com/track/3kSNdHcFAtT2PRIDhhEfPf) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Resurrected](https://open.spotify.com/album/3Mu69V1Epb8T2he3BcYhnc) | 2:06 | 2023-09-22 | 2024-07-19 |
 | [Retro Retreat](https://open.spotify.com/track/5aAV0yhdBbpKkbuDWng1cl) | [Rebecca Mardal](https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V) | [Retro Retreat](https://open.spotify.com/album/30Q0q8iC2pOTMEd8zYgCIV) | 2:42 | 2024-06-14 | 2024-08-10 |
 | [Retrospective](https://open.spotify.com/track/5BYOPUidJX9Hx0T6tv3lWA) | [Zach Jordan](https://open.spotify.com/artist/7wI6FVPuBFU5KcTSddrzK2) | [Retrospective](https://open.spotify.com/album/1hdYL4Gu453c6Ve4lGsUH1) | 2:11 | 2022-05-20 | 2022-07-01 |
-| [Rich and Thick](https://open.spotify.com/track/479ml65kpUENyze9msPNGX) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf) | [Rich and Thick](https://open.spotify.com/album/6E2ywpUylcc7WtMzVZbqYl) | 3:19 | 2022-05-20 |  |
+| [Rich and Thick](https://open.spotify.com/track/479ml65kpUENyze9msPNGX) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf) | [Rich and Thick](https://open.spotify.com/album/6E2ywpUylcc7WtMzVZbqYl) | 3:19 | 2022-05-20 | 2026-07-10 |
 | [Right&Left](https://open.spotify.com/track/2xvcgM5or71q13LkfHiwBo) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Right&Left](https://open.spotify.com/album/2z8B6fu05BifTQmsOeQ0Cs) | 2:40 | 2024-07-26 |  |
 | [Riptide](https://open.spotify.com/track/5epIUCDbbOxNw24rB0YgrC) | [Bambu](https://open.spotify.com/artist/6OExwlZp33GVhQqmL6nGy5) | [Riptide](https://open.spotify.com/album/30u0mn0Il5ychQrKZdnwUL) | 1:46 | 2022-10-28 | 2023-09-16 |
 | [Riptide](https://open.spotify.com/track/79Wiq8K0Ffom6OVYXHSrAb) | [Bambu](https://open.spotify.com/artist/6OExwlZp33GVhQqmL6nGy5) | [Riptide](https://open.spotify.com/album/4XTVisA6QosX0cdUYqqmZH) | 1:46 | 2022-05-20 | 2022-11-05 |

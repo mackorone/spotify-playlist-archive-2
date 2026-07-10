@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1474249,
+  "num_followers": 1474229,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -119,22 +119,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Brazilian Caf\u00e9",
-        "url": "https://open.spotify.com/album/5U7NjzLEWV6OtAdaKrwfIg"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "Acenda o farol",
-      "url": "https://open.spotify.com/track/2kXkaplZ6HdXz5XYBtdunj"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "Marina Lima",
         "url": "https://open.spotify.com/album/1CeZXXRcDz2Zci1M2ftSMj"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 305373,
       "name": "N\u00e3o Sei Dan\u00e7ar",
       "url": "https://open.spotify.com/track/68WXIG8PyHuArBOOhSp6Wt"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Brazilian Caf\u00e9",
+        "url": "https://open.spotify.com/album/5U7NjzLEWV6OtAdaKrwfIg"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "Acenda o farol",
+      "url": "https://open.spotify.com/track/2kXkaplZ6HdXz5XYBtdunj"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
+        "name": "Que Beleza",
+        "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Que Beleza",
+      "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
         "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
         "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 327946,
       "name": "Anuncia\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
-        "name": "Que Beleza",
-        "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Que Beleza",
-      "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -575,18 +575,18 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Como Vai Voc\u00ea",
-        "url": "https://open.spotify.com/album/73zRVTgL5JJugtY1zWasXe"
+        "name": "Cors\u00e1rio",
+        "url": "https://open.spotify.com/album/09wA7dQk165Ulk2t45AOZu"
       },
       "artists": [
         {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
         }
       ],
-      "duration_ms": 227568,
-      "name": "Como Vai Voc\u00ea",
-      "url": "https://open.spotify.com/track/6DihrQCKtLq7SpVQt4jBzA"
+      "duration_ms": 256048,
+      "name": "Cors\u00e1rio",
+      "url": "https://open.spotify.com/track/5VRY5G4qqb1zic8YbzIf9A"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -607,18 +607,18 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Cors\u00e1rio",
-        "url": "https://open.spotify.com/album/09wA7dQk165Ulk2t45AOZu"
+        "name": "Como Vai Voc\u00ea",
+        "url": "https://open.spotify.com/album/73zRVTgL5JJugtY1zWasXe"
       },
       "artists": [
         {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
         }
       ],
-      "duration_ms": 256048,
-      "name": "Cors\u00e1rio",
-      "url": "https://open.spotify.com/track/5VRY5G4qqb1zic8YbzIf9A"
+      "duration_ms": 227568,
+      "name": "Como Vai Voc\u00ea",
+      "url": "https://open.spotify.com/track/6DihrQCKtLq7SpVQt4jBzA"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
+        "name": "Racional (Vol 1)",
+        "url": "https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 305693,
+      "name": "Bom-Senso",
+      "url": "https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
         "name": "Belchior Ac\u00fastico",
         "url": "https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 155960,
       "name": "A Palo Seco",
       "url": "https://open.spotify.com/track/1rQ0viTAi8pxDy53iNvKNn"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
-        "name": "Racional (Vol 1)",
-        "url": "https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 305693,
-      "name": "Bom-Senso",
-      "url": "https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU"
     },
     {
       "added_at": "2026-05-22 11:20:59",

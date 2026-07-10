@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 119427,
+  "num_followers": 119457,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-07-03 04:02:15",
       "album": {
+        "name": "Una Velita",
+        "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Una Velita",
+      "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
+    },
+    {
+      "added_at": "2026-07-03 04:02:15",
+      "album": {
         "name": "Pegado",
         "url": "https://open.spotify.com/album/1b3JSZK4YWuJDekO8LmMZA"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 125000,
       "name": "Pegado",
       "url": "https://open.spotify.com/track/2if67V4tMNmOdmwjQfNahB"
-    },
-    {
-      "added_at": "2026-07-03 04:02:15",
-      "album": {
-        "name": "Una Velita",
-        "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "Una Velita",
-      "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
     },
     {
       "added_at": "2026-07-03 04:02:15",
@@ -1559,6 +1559,30 @@
     {
       "added_at": "2026-07-03 04:02:15",
       "album": {
+        "name": "Piquete Cabron",
+        "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Pensi\u00f3n",
+          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
+        },
+        {
+          "name": "Bray",
+          "url": "https://open.spotify.com/artist/2D3KD8asLccXu0Fp3TQuHn"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Piquete Cabron",
+      "url": "https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ"
+    },
+    {
+      "added_at": "2026-07-03 04:02:15",
+      "album": {
         "name": "Playa Y Arena",
         "url": "https://open.spotify.com/album/7a36GV9hrpji6sHCjTn4Ez"
       },
@@ -1599,30 +1623,6 @@
       "duration_ms": 218813,
       "name": "Pegao",
       "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
-    },
-    {
-      "added_at": "2026-07-03 04:02:15",
-      "album": {
-        "name": "Piquete Cabron",
-        "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Pensi\u00f3n",
-          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
-        },
-        {
-          "name": "Bray",
-          "url": "https://open.spotify.com/artist/2D3KD8asLccXu0Fp3TQuHn"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Piquete Cabron",
-      "url": "https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ"
     },
     {
       "added_at": "2026-07-03 04:02:15",
@@ -1739,62 +1739,26 @@
     {
       "added_at": "2026-07-03 04:02:15",
       "album": {
-        "name": "Si Vas Al mar",
-        "url": "https://open.spotify.com/album/180iVVSyWKcPtT4RoPIMy4"
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/49WSoPCFjeCJPcLxkyYrrI"
       },
       "artists": [
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "Danny Roma x Manrix",
+          "url": "https://open.spotify.com/artist/4spGf6fGY8RvGeM5hzFEF1"
         },
         {
-          "name": "Xinobi",
-          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
-        }
-      ],
-      "duration_ms": 256475,
-      "name": "Si Vas Al mar",
-      "url": "https://open.spotify.com/track/1oU2mTReAEUNlQdC6e4IAp"
-    },
-    {
-      "added_at": "2026-07-03 04:02:15",
-      "album": {
-        "name": "Mi Gentee EP",
-        "url": "https://open.spotify.com/album/6RStukcwjW3DzS9eR9BJKG"
-      },
-      "artists": [
-        {
-          "name": "Chinonegro",
-          "url": "https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY"
-        }
-      ],
-      "duration_ms": 208782,
-      "name": "Mi Gentee",
-      "url": "https://open.spotify.com/track/4LLkiwgCnowzc4vosFDJGQ"
-    },
-    {
-      "added_at": "2026-07-03 04:02:15",
-      "album": {
-        "name": "Batonga",
-        "url": "https://open.spotify.com/album/0iXDBvcWsZaRPYHsFrlAfC"
-      },
-      "artists": [
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+          "name": "CAVALLI",
+          "url": "https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4"
         },
         {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Al\u00e9 Kum\u00e1",
-          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
+          "name": "Lina Torres",
+          "url": "https://open.spotify.com/artist/5xX3HNmF1nGeWuaTbbadM1"
         }
       ],
-      "duration_ms": 169180,
-      "name": "Batonga",
-      "url": "https://open.spotify.com/track/6KhYXzR7FRt3UoVjC54fzh"
+      "duration_ms": 152903,
+      "name": "Vida",
+      "url": "https://open.spotify.com/track/7Jy94rhQOwizzFMRop4xBc"
     },
     {
       "added_at": "2026-07-03 04:02:15",
@@ -1823,26 +1787,62 @@
     {
       "added_at": "2026-07-03 04:02:15",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/49WSoPCFjeCJPcLxkyYrrI"
+        "name": "Batonga",
+        "url": "https://open.spotify.com/album/0iXDBvcWsZaRPYHsFrlAfC"
       },
       "artists": [
         {
-          "name": "Danny Roma x Manrix",
-          "url": "https://open.spotify.com/artist/4spGf6fGY8RvGeM5hzFEF1"
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
         },
         {
-          "name": "CAVALLI",
-          "url": "https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4"
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         },
         {
-          "name": "Lina Torres",
-          "url": "https://open.spotify.com/artist/5xX3HNmF1nGeWuaTbbadM1"
+          "name": "Al\u00e9 Kum\u00e1",
+          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
         }
       ],
-      "duration_ms": 152903,
-      "name": "Vida",
-      "url": "https://open.spotify.com/track/7Jy94rhQOwizzFMRop4xBc"
+      "duration_ms": 169180,
+      "name": "Batonga",
+      "url": "https://open.spotify.com/track/6KhYXzR7FRt3UoVjC54fzh"
+    },
+    {
+      "added_at": "2026-07-03 04:02:15",
+      "album": {
+        "name": "Mi Gentee EP",
+        "url": "https://open.spotify.com/album/6RStukcwjW3DzS9eR9BJKG"
+      },
+      "artists": [
+        {
+          "name": "Chinonegro",
+          "url": "https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY"
+        }
+      ],
+      "duration_ms": 208782,
+      "name": "Mi Gentee",
+      "url": "https://open.spotify.com/track/4LLkiwgCnowzc4vosFDJGQ"
+    },
+    {
+      "added_at": "2026-07-03 04:02:15",
+      "album": {
+        "name": "Si Vas Al mar",
+        "url": "https://open.spotify.com/album/180iVVSyWKcPtT4RoPIMy4"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        }
+      ],
+      "duration_ms": 256475,
+      "name": "Si Vas Al mar",
+      "url": "https://open.spotify.com/track/1oU2mTReAEUNlQdC6e4IAp"
     },
     {
       "added_at": "2026-07-03 04:02:15",
@@ -1863,22 +1863,6 @@
       "duration_ms": 155100,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
-    },
-    {
-      "added_at": "2026-07-03 04:02:15",
-      "album": {
-        "name": "Que Calor, Que Calor",
-        "url": "https://open.spotify.com/album/30PS8JTib0xrnYojz7SDXU"
-      },
-      "artists": [
-        {
-          "name": "MESTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
-        }
-      ],
-      "duration_ms": 199354,
-      "name": "Que Calor, Que Calor",
-      "url": "https://open.spotify.com/track/7x3EL6oSsGBoNjBRvwCAvU"
     },
     {
       "added_at": "2026-07-03 04:02:15",
@@ -1919,6 +1903,22 @@
       "duration_ms": 180000,
       "name": "Matadora - Radio Edit",
       "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
+    },
+    {
+      "added_at": "2026-07-03 04:02:15",
+      "album": {
+        "name": "Que Calor, Que Calor",
+        "url": "https://open.spotify.com/album/30PS8JTib0xrnYojz7SDXU"
+      },
+      "artists": [
+        {
+          "name": "MESTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+        }
+      ],
+      "duration_ms": 199354,
+      "name": "Que Calor, Que Calor",
+      "url": "https://open.spotify.com/track/7x3EL6oSsGBoNjBRvwCAvU"
     },
     {
       "added_at": "2026-07-03 04:02:15",

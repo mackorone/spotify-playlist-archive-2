@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: Tyler, The Creator",
+  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: SIENNA SPIRO",
   "name": "Next Up",
   "tracks": [
     {
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 257647,
       "name": "2AM Highway",
       "url": "https://open.spotify.com/track/7F2baCmzfx2fmDxgkQf3Zo"
@@ -1622,6 +1622,40 @@
       "duration_ms": 459120,
       "name": "72 Seasons",
       "url": "https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4"
+    },
+    {
+      "album": {
+        "name": "777 (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
+        "url": "https://open.spotify.com/album/4b432huYiZYsf9N5IYzglh"
+      },
+      "artists": [
+        {
+          "name": "YAO",
+          "url": "https://open.spotify.com/artist/2hYEEgRuJ4XS4B8y7E75TO"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "CHICO CARLITO",
+          "url": "https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz"
+        },
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        },
+        {
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185697,
+      "name": "777 (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
+      "url": "https://open.spotify.com/track/2T0PkwQizLJNcOstG1ssam"
     },
     {
       "album": {
@@ -3236,6 +3270,28 @@
       "duration_ms": 192000,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8"
+    },
+    {
+      "album": {
+        "name": "Alive (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/0b1wTKStMRshCOhUnhfPXR"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207085,
+      "name": "Alive (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH"
     },
     {
       "album": {
@@ -9191,6 +9247,36 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/4iOj6nJVkB4K9nbfLFIHC0"
+      },
+      "artists": [
+        {
+          "name": "MILLENNIUM PARADE",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        },
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Daiki Tsuneta",
+          "url": "https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156780,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/3T7vWvqWxZJnx9i5Az5rX4"
+    },
+    {
+      "album": {
         "name": "Blue Bird (feat. Maika Loubt\u00e9)",
         "url": "https://open.spotify.com/album/65rWyGlUaqsWQwYwOLFxIH"
       },
@@ -9308,6 +9394,24 @@
       "duration_ms": 182055,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/2yASo8VKTM1Xpj9Wi5I0Fj"
+    },
+    {
+      "album": {
+        "name": "Blue Shining Star",
+        "url": "https://open.spotify.com/album/2SeMoqmSR2QsKeDWCnMSvE"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221029,
+      "name": "Blue Shining Star",
+      "url": "https://open.spotify.com/track/3vFaVH1ux9FIYNsrLAVG9N"
     },
     {
       "album": {
@@ -11446,7 +11550,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 215033,
       "name": "bye<3",
       "url": "https://open.spotify.com/track/6LrOegJFrpML859y73HkpS"
@@ -21485,6 +21589,24 @@
     },
     {
       "album": {
+        "name": "End Of Beginning",
+        "url": "https://open.spotify.com/album/4L3Xa9Lk16N9Nu0E37TewI"
+      },
+      "artists": [
+        {
+          "name": "December 10",
+          "url": "https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "End Of Beginning",
+      "url": "https://open.spotify.com/track/46UeEKObJ4Et3ZRFDc4dNl"
+    },
+    {
+      "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
@@ -22370,6 +22492,24 @@
       "duration_ms": 182500,
       "name": "Every Second - Japanese Version",
       "url": "https://open.spotify.com/track/6rXnv125qKHuuQgB9p2o91"
+    },
+    {
+      "album": {
+        "name": "Every Summer",
+        "url": "https://open.spotify.com/album/75Yl2xYt8db9J4H4jF82yS"
+      },
+      "artists": [
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191032,
+      "name": "Every Summer",
+      "url": "https://open.spotify.com/track/5nM0o5Jnr8k2Kfcm0Qjrb7"
     },
     {
       "album": {
@@ -24411,6 +24551,24 @@
     },
     {
       "album": {
+        "name": "Fig Smoke",
+        "url": "https://open.spotify.com/album/4Y2u6eHHFMsoCKftRR63ab"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235233,
+      "name": "Fig Smoke",
+      "url": "https://open.spotify.com/track/1SzUveFBheIYBW1n758uTt"
+    },
+    {
+      "album": {
         "name": "Fighter",
         "url": "https://open.spotify.com/album/6kYU5SvrrrVFECBt5DsReN"
       },
@@ -24904,6 +25062,24 @@
       "duration_ms": 284478,
       "name": "Flashback feat. Daichi Yamamoto",
       "url": "https://open.spotify.com/track/3Jfguj7813unHPOXSwUKXB"
+    },
+    {
+      "album": {
+        "name": "FLASHBULB",
+        "url": "https://open.spotify.com/album/2Ab8Cerp6XYaiKEs2K3vPZ"
+      },
+      "artists": [
+        {
+          "name": "Omoinotake",
+          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219266,
+      "name": "FLASHBULB",
+      "url": "https://open.spotify.com/track/5ctRwWDnQxNtAS7wVjbuZj"
     },
     {
       "album": {
@@ -43079,6 +43255,24 @@
     },
     {
       "album": {
+        "name": "LIMIT",
+        "url": "https://open.spotify.com/album/5zBRnUWh547MkgZwAegm4o"
+      },
+      "artists": [
+        {
+          "name": "THE ORAL CIGARETTES",
+          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215034,
+      "name": "LIMIT",
+      "url": "https://open.spotify.com/track/50u76DXok7cIouLPLQxGfc"
+    },
+    {
+      "album": {
         "name": "one way",
         "url": "https://open.spotify.com/album/7xsX8mLdItSnc9Vom4VkgS"
       },
@@ -43390,6 +43584,24 @@
       "duration_ms": 177913,
       "name": "Live Like Summer",
       "url": "https://open.spotify.com/track/6WMLCWUim8AiK8LjuHTWfL"
+    },
+    {
+      "album": {
+        "name": "Live to Survive",
+        "url": "https://open.spotify.com/album/57Iy10AkQGsp10EyJGL6zT"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207517,
+      "name": "Live to Survive",
+      "url": "https://open.spotify.com/track/0Ylt36GkzEHeAljzzcck3L"
     },
     {
       "album": {
@@ -49219,6 +49431,24 @@
     },
     {
       "album": {
+        "name": "MORNING DEW (DONK)",
+        "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243896,
+      "name": "MORNING DEW (DONK)",
+      "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
+    },
+    {
+      "album": {
         "name": "Heavenly Heavenly",
         "url": "https://open.spotify.com/album/219OTmvtVH4PzBiDWYLGp0"
       },
@@ -54227,6 +54457,24 @@
     },
     {
       "album": {
+        "name": "ojigi",
+        "url": "https://open.spotify.com/album/0xcUMeamFTuOLMKSicNYWx"
+      },
+      "artists": [
+        {
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234815,
+      "name": "ojigi",
+      "url": "https://open.spotify.com/track/4XTJaCl0DLgZrd7ZexuXQh"
+    },
+    {
+      "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/15kgnv34kf8eRCpNWZl79V"
       },
@@ -57313,6 +57561,24 @@
     },
     {
       "album": {
+        "name": "Passengers",
+        "url": "https://open.spotify.com/album/6PtnK8pgb02Y0TniYmnDta"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190233,
+      "name": "Passengers",
+      "url": "https://open.spotify.com/track/4qXBod5nME8SxJCpjGfTSv"
+    },
+    {
+      "album": {
         "name": "Passing",
         "url": "https://open.spotify.com/album/0rTi7onngxwm1XYUI5bsbu"
       },
@@ -59212,7 +59478,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 171304,
       "name": "Pretty Little Things",
       "url": "https://open.spotify.com/track/4cxp9FkxuUqcNxvgnfVKju"
@@ -75263,6 +75529,24 @@
     },
     {
       "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228908,
+      "name": "The Visitor",
+      "url": "https://open.spotify.com/track/4wfIW1OLIqejwmBYG1LhCl"
+    },
+    {
+      "album": {
         "name": "Banquet",
         "url": "https://open.spotify.com/album/3wXNjLWGdqtKReMLjhat8H"
       },
@@ -81750,6 +82034,24 @@
       "duration_ms": 180000,
       "name": "WE WANT!!! - feat.7",
       "url": "https://open.spotify.com/track/2BxKxnjb7wsUjXpooz8dut"
+    },
+    {
+      "album": {
+        "name": "We'll Be Fine",
+        "url": "https://open.spotify.com/album/4CDFwKCQeTLzEetCoKwrjG"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174976,
+      "name": "We'll Be Fine",
+      "url": "https://open.spotify.com/track/59BPHsLyDIPNGq3ZibyQI8"
     },
     {
       "album": {
@@ -92388,7 +92690,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 283466,
       "name": "\u30bb\u30ed\u30ea",
       "url": "https://open.spotify.com/track/3ZnBfD6tpIrsRPDPvwY2so"
@@ -93468,7 +93770,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 182040,
       "name": "\u30cf\u30a4\u30bb\u30f3\u30b9\uff1d\u30ca\u30f3\u30bb\u30f3\u30b9",
       "url": "https://open.spotify.com/track/11JPVASzRw6bHemz5FAqwX"
@@ -93956,7 +94258,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 230900,
       "name": "\u30d1\u30c3\u30d1\u30d1\u30e9\u30c0\u30a4\u30b9",
       "url": "https://open.spotify.com/track/3347KswTTnQyqjUL9dXi5J"
@@ -99776,7 +100078,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 282906,
       "name": "\u5947\u8de1\u3058\u3083\u306a\u3044",
       "url": "https://open.spotify.com/track/0Xtn2PrmUSeSyxw6C62RfT"
@@ -101720,6 +102022,24 @@
       "duration_ms": 286546,
       "name": "\u65b0\u3057\u3044\u604b\u4eba\u9054\u306b",
       "url": "https://open.spotify.com/track/5LclntckGFFGFUVGJk9Z4x"
+    },
+    {
+      "album": {
+        "name": "\u65b0\u5973\u795e",
+        "url": "https://open.spotify.com/album/3wDVBZTSQpIevDMFVoFWr0"
+      },
+      "artists": [
+        {
+          "name": "\u540d\u8a89\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183813,
+      "name": "\u65b0\u5973\u795e",
+      "url": "https://open.spotify.com/track/5DUPMDswQK8U0eAEKmsOI9"
     },
     {
       "album": {
@@ -106576,6 +106896,24 @@
       "duration_ms": 181735,
       "name": "\u9065\u304b",
       "url": "https://open.spotify.com/track/5DjOVg4mTlMHWsLREAHe7S"
+    },
+    {
+      "album": {
+        "name": "\u907a\u66f8",
+        "url": "https://open.spotify.com/album/7Ex3hlv37lOp1yyoml6zUL"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185139,
+      "name": "\u907a\u66f8",
+      "url": "https://open.spotify.com/track/7fS84wIuhxleSaECc0CRua"
     },
     {
       "album": {

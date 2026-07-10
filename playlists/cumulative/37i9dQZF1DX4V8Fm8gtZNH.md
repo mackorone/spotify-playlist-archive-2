@@ -2,7 +2,7 @@
 
 ### [The Chi Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX4V8Fm8gtZNH)
 
-> Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
+> Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+.
 
 377 songs - 22 hr 15 min
 

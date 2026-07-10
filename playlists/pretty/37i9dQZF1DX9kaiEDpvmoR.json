@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93906,
+  "num_followers": 93908,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-07-02 22:00:39",
       "album": {
-        "name": "Of All People",
-        "url": "https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 154293,
-      "name": "Of All People",
-      "url": "https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc"
-    },
-    {
-      "added_at": "2026-07-02 22:00:39",
-      "album": {
         "name": "Glasshouse",
         "url": "https://open.spotify.com/album/5y6ilMb7yPnyeF1kTrZl36"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 181440,
       "name": "Glasshouse",
       "url": "https://open.spotify.com/track/3igailADWMRi9mHKiv7Xo2"
+    },
+    {
+      "added_at": "2026-07-02 22:00:39",
+      "album": {
+        "name": "Of All People",
+        "url": "https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 154293,
+      "name": "Of All People",
+      "url": "https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc"
     },
     {
       "added_at": "2026-07-02 22:00:39",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-07-02 22:00:39",
       "album": {
-        "name": "One on One",
-        "url": "https://open.spotify.com/album/6589BDSLHBG8zCDWanKDxW"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 221623,
-      "name": "One on One",
-      "url": "https://open.spotify.com/track/00AdnLQexne2adipm3n8Ip"
-    },
-    {
-      "added_at": "2026-07-02 22:00:39",
-      "album": {
         "name": "V\u00e4lkommen hem",
         "url": "https://open.spotify.com/album/5xa9ItPBGEmhciNBLU9Vyp"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 198796,
       "name": "Sagolik",
       "url": "https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ"
+    },
+    {
+      "added_at": "2026-07-02 22:00:39",
+      "album": {
+        "name": "One on One",
+        "url": "https://open.spotify.com/album/6589BDSLHBG8zCDWanKDxW"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 221623,
+      "name": "One on One",
+      "url": "https://open.spotify.com/track/00AdnLQexne2adipm3n8Ip"
     },
     {
       "added_at": "2026-07-02 22:00:39",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-07-02 22:00:39",
       "album": {
-        "name": "Tillbaka",
-        "url": "https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs"
-      },
-      "artists": [
-        {
-          "name": "Bo Kaspers Orkester",
-          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
-        }
-      ],
-      "duration_ms": 211233,
-      "name": "Tillbaka",
-      "url": "https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw"
-    },
-    {
-      "added_at": "2026-07-02 22:00:39",
-      "album": {
         "name": "R\u00e4dda Liv",
         "url": "https://open.spotify.com/album/4QqhNQxXWmPBpYZNn1p5aj"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 227666,
       "name": "R\u00e4dda Liv",
       "url": "https://open.spotify.com/track/1HU7FMa7cj5l1Zv4R6B0dO"
+    },
+    {
+      "added_at": "2026-07-02 22:00:39",
+      "album": {
+        "name": "Tillbaka",
+        "url": "https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs"
+      },
+      "artists": [
+        {
+          "name": "Bo Kaspers Orkester",
+          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
+        }
+      ],
+      "duration_ms": 211233,
+      "name": "Tillbaka",
+      "url": "https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw"
     },
     {
       "added_at": "2026-07-02 22:00:39",
@@ -739,18 +739,18 @@
     {
       "added_at": "2026-07-02 22:00:39",
       "album": {
-        "name": "Blindg\u00e5ngare / Du \u00e4r vid liv",
-        "url": "https://open.spotify.com/album/6eQFzMf0W6BniBkrWdR4yV"
+        "name": "Ingenting \u00e4r efter oss",
+        "url": "https://open.spotify.com/album/5NgyWTgIc8ilxOEL0Cb0kQ"
       },
       "artists": [
         {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+          "name": "Timo R\u00e4is\u00e4nen",
+          "url": "https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP"
         }
       ],
-      "duration_ms": 234360,
-      "name": "Blindg\u00e5ngare",
-      "url": "https://open.spotify.com/track/100mfCn33NMGrzd2L7Tr5L"
+      "duration_ms": 181066,
+      "name": "Ingenting \u00e4r efter oss",
+      "url": "https://open.spotify.com/track/690MIMKpAyUshTiusrgrmn"
     },
     {
       "added_at": "2026-07-02 22:00:39",
@@ -771,34 +771,18 @@
     {
       "added_at": "2026-07-02 22:00:39",
       "album": {
-        "name": "Ingenting \u00e4r efter oss",
-        "url": "https://open.spotify.com/album/5NgyWTgIc8ilxOEL0Cb0kQ"
+        "name": "Blindg\u00e5ngare / Du \u00e4r vid liv",
+        "url": "https://open.spotify.com/album/6eQFzMf0W6BniBkrWdR4yV"
       },
       "artists": [
         {
-          "name": "Timo R\u00e4is\u00e4nen",
-          "url": "https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP"
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
         }
       ],
-      "duration_ms": 181066,
-      "name": "Ingenting \u00e4r efter oss",
-      "url": "https://open.spotify.com/track/690MIMKpAyUshTiusrgrmn"
-    },
-    {
-      "added_at": "2026-07-02 22:00:39",
-      "album": {
-        "name": "Honey Honey",
-        "url": "https://open.spotify.com/album/4mC9GZ6gSoSBDZ9ApAvqkO"
-      },
-      "artists": [
-        {
-          "name": "Robin Bengtsson",
-          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
-        }
-      ],
-      "duration_ms": 179444,
-      "name": "Honey Honey",
-      "url": "https://open.spotify.com/track/0QcDwx1r5HXsxyMstgvHSm"
+      "duration_ms": 234360,
+      "name": "Blindg\u00e5ngare",
+      "url": "https://open.spotify.com/track/100mfCn33NMGrzd2L7Tr5L"
     },
     {
       "added_at": "2026-07-02 22:00:39",
@@ -819,18 +803,18 @@
     {
       "added_at": "2026-07-02 22:00:39",
       "album": {
-        "name": "\u00d6ver",
-        "url": "https://open.spotify.com/album/6Rj381d50c8zjs37wts189"
+        "name": "Honey Honey",
+        "url": "https://open.spotify.com/album/4mC9GZ6gSoSBDZ9ApAvqkO"
       },
       "artists": [
         {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
         }
       ],
-      "duration_ms": 229146,
-      "name": "\u00d6ver",
-      "url": "https://open.spotify.com/track/142CLjGxBpBtQxj9gPNJOK"
+      "duration_ms": 179444,
+      "name": "Honey Honey",
+      "url": "https://open.spotify.com/track/0QcDwx1r5HXsxyMstgvHSm"
     },
     {
       "added_at": "2026-07-02 22:00:39",
@@ -863,6 +847,22 @@
       "duration_ms": 262501,
       "name": "Everything's wasted",
       "url": "https://open.spotify.com/track/1ao7iSXbAFlnDKCibe3KcG"
+    },
+    {
+      "added_at": "2026-07-02 22:00:39",
+      "album": {
+        "name": "\u00d6ver",
+        "url": "https://open.spotify.com/album/6Rj381d50c8zjs37wts189"
+      },
+      "artists": [
+        {
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+        }
+      ],
+      "duration_ms": 229146,
+      "name": "\u00d6ver",
+      "url": "https://open.spotify.com/track/142CLjGxBpBtQxj9gPNJOK"
     },
     {
       "added_at": "2026-07-02 22:00:39",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-07-02 22:00:39",
       "album": {
-        "name": "Nu \u00e4r det sommar",
-        "url": "https://open.spotify.com/album/2vod2jSRKgWviLJ4o9N3HA"
-      },
-      "artists": [
-        {
-          "name": "Sven-Ingvars",
-          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
-        }
-      ],
-      "duration_ms": 187604,
-      "name": "Nu \u00e4r det sommar",
-      "url": "https://open.spotify.com/track/2BSV2wwILPT33uyNq6JeDC"
-    },
-    {
-      "added_at": "2026-07-02 22:00:39",
-      "album": {
         "name": "Revalution Club",
         "url": "https://open.spotify.com/album/6VrlawQweOnhs94WOGWl4D"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 269250,
       "name": "Musiken som h\u00f6rs fr\u00e5n Rival",
       "url": "https://open.spotify.com/track/0799iI2UqqtWpf2TUjR8aM"
+    },
+    {
+      "added_at": "2026-07-02 22:00:39",
+      "album": {
+        "name": "Nu \u00e4r det sommar",
+        "url": "https://open.spotify.com/album/2vod2jSRKgWviLJ4o9N3HA"
+      },
+      "artists": [
+        {
+          "name": "Sven-Ingvars",
+          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
+        }
+      ],
+      "duration_ms": 187604,
+      "name": "Nu \u00e4r det sommar",
+      "url": "https://open.spotify.com/track/2BSV2wwILPT33uyNq6JeDC"
     },
     {
       "added_at": "2026-07-02 22:00:39",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-07-02 22:00:39",
       "album": {
-        "name": "Bara mellan oss",
-        "url": "https://open.spotify.com/album/0uu0VZmG5Bk4q5VAXTLmnn"
-      },
-      "artists": [
-        {
-          "name": "Oskar Linnros",
-          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
-        }
-      ],
-      "duration_ms": 221833,
-      "name": "Bara mellan oss",
-      "url": "https://open.spotify.com/track/4VIWX9gEawpAkvzvwz2a1h"
-    },
-    {
-      "added_at": "2026-07-02 22:00:39",
-      "album": {
         "name": "Nebraska '82: Expanded Edition",
         "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2026-07-02 22:00:39",
       "album": {
-        "name": "If I Ever Lose My Temper",
-        "url": "https://open.spotify.com/album/6WgxseURmKuRAb9YiOh4mv"
+        "name": "Bara mellan oss",
+        "url": "https://open.spotify.com/album/0uu0VZmG5Bk4q5VAXTLmnn"
       },
       "artists": [
         {
-          "name": "The Ark",
-          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
+          "name": "Oskar Linnros",
+          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
         }
       ],
-      "duration_ms": 214733,
-      "name": "If I Ever Lose My Temper",
-      "url": "https://open.spotify.com/track/0xzmVwoAyRBVU6wOctHLcd"
+      "duration_ms": 221833,
+      "name": "Bara mellan oss",
+      "url": "https://open.spotify.com/track/4VIWX9gEawpAkvzvwz2a1h"
     },
     {
       "added_at": "2026-07-02 22:00:39",
@@ -1295,6 +1279,22 @@
       "duration_ms": 241000,
       "name": "Prinsessa",
       "url": "https://open.spotify.com/track/41BCn8oMNZEDvuFqXFMMrY"
+    },
+    {
+      "added_at": "2026-07-02 22:00:39",
+      "album": {
+        "name": "If I Ever Lose My Temper",
+        "url": "https://open.spotify.com/album/6WgxseURmKuRAb9YiOh4mv"
+      },
+      "artists": [
+        {
+          "name": "The Ark",
+          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "If I Ever Lose My Temper",
+      "url": "https://open.spotify.com/track/0xzmVwoAyRBVU6wOctHLcd"
     },
     {
       "added_at": "2026-07-02 22:00:39",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-07-02 22:00:39",
       "album": {
+        "name": "Ingen vet",
+        "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        }
+      ],
+      "duration_ms": 160975,
+      "name": "Ingen vet",
+      "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
+    },
+    {
+      "added_at": "2026-07-02 22:00:39",
+      "album": {
         "name": "Stronger Than",
         "url": "https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 218622,
       "name": "Bara trummor kvar",
       "url": "https://open.spotify.com/track/65R6XBsGQwS86rwzgybHH4"
-    },
-    {
-      "added_at": "2026-07-02 22:00:39",
-      "album": {
-        "name": "Ingen vet",
-        "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
-      },
-      "artists": [
-        {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
-        }
-      ],
-      "duration_ms": 160975,
-      "name": "Ingen vet",
-      "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
     },
     {
       "added_at": "2026-07-02 22:00:39",

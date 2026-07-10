@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 35732,
+  "num_followers": 35736,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAADSvxScdNwXZE3Z2ZH5OZ7y",
+  "snapshot_id": "ak2TAAAAAAA0lYnGx5qjBKlErR0uEjiu",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gold Chain Cowboy",
+        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "To Be Loved By You",
+      "url": "https://open.spotify.com/track/2pUQX4d3Cjh3umGkVz0XyI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Noise Complaint",
         "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 223062,
       "name": "Love (feat. Parker McCollum)",
       "url": "https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gold Chain Cowboy",
-        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "To Be Loved By You",
-      "url": "https://open.spotify.com/track/2pUQX4d3Cjh3umGkVz0XyI"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hollywood Gold",
-        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 183653,
-      "name": "Hold Me Back",
-      "url": "https://open.spotify.com/track/0b0bblC9e8Xxrq5rfq3omD"
+      "duration_ms": 221781,
+      "name": "Things I Never Told You",
+      "url": "https://open.spotify.com/track/4fxEEvoI7uL0rQ5GzwRnZT"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
+        "name": "Hollywood Gold",
+        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 221781,
-      "name": "Things I Never Told You",
-      "url": "https://open.spotify.com/track/4fxEEvoI7uL0rQ5GzwRnZT"
+      "duration_ms": 183653,
+      "name": "Hold Me Back",
+      "url": "https://open.spotify.com/track/0b0bblC9e8Xxrq5rfq3omD"
     },
     {
       "added_at": null,
@@ -411,6 +411,38 @@
       "duration_ms": 243506,
       "name": "Big Ole Fancy House",
       "url": "https://open.spotify.com/track/2O6518EoFdYebARB4PCEjH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 225801,
+      "name": "Tails I Lose",
+      "url": "https://open.spotify.com/track/5H1WgNxf2Fb3EJWn4QgX5E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Limestone Kid",
+        "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 251520,
+      "name": "High Above the Water",
+      "url": "https://open.spotify.com/track/4oJU2pJNmtAlduLSAMJ7QE"
     },
     {
       "added_at": null,
@@ -435,38 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Limestone Kid",
-        "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 251520,
-      "name": "High Above the Water",
-      "url": "https://open.spotify.com/track/4oJU2pJNmtAlduLSAMJ7QE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 225801,
-      "name": "Tails I Lose",
-      "url": "https://open.spotify.com/track/5H1WgNxf2Fb3EJWn4QgX5E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hollywood Gold",
         "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
       },
@@ -483,22 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Defense of Drinking",
-        "url": "https://open.spotify.com/album/2CU1ydBFrQ1JFbt0GG1txx"
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
       },
       "artists": [
-        {
-          "name": "Tyler Halverson",
-          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
-        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 221578,
-      "name": "Beer Garden Baby",
-      "url": "https://open.spotify.com/track/7iUN9ytQekHf0EazrYHoGk"
+      "duration_ms": 204489,
+      "name": "I Ain't Going Nowhere",
+      "url": "https://open.spotify.com/track/3Vk6skjOvvFMVYOGNaCaSp"
     },
     {
       "added_at": null,
@@ -519,18 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
+        "name": "In Defense of Drinking",
+        "url": "https://open.spotify.com/album/2CU1ydBFrQ1JFbt0GG1txx"
       },
       "artists": [
+        {
+          "name": "Tyler Halverson",
+          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
+        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 204489,
-      "name": "I Ain't Going Nowhere",
-      "url": "https://open.spotify.com/track/3Vk6skjOvvFMVYOGNaCaSp"
+      "duration_ms": 221578,
+      "name": "Beer Garden Baby",
+      "url": "https://open.spotify.com/track/7iUN9ytQekHf0EazrYHoGk"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 257866,
-      "name": "Wind My Friend",
-      "url": "https://open.spotify.com/track/0ZEvHwX30aXeG4mSp1Hm7b"
+      "duration_ms": 220240,
+      "name": "The One Before The One",
+      "url": "https://open.spotify.com/track/4q0xcRhjaHS2xdOzyj1OnF"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 220240,
-      "name": "The One Before The One",
-      "url": "https://open.spotify.com/track/4q0xcRhjaHS2xdOzyj1OnF"
+      "duration_ms": 257866,
+      "name": "Wind My Friend",
+      "url": "https://open.spotify.com/track/0ZEvHwX30aXeG4mSp1Hm7b"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: JBABE
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,242 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,277 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 62 | [Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aashiyan](https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq) | 2:54 |
 | 63 | [Saanware Aijaiyo](https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Saanware Aijaiyo](https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j) | 3:54 |
 | 64 | [Le Jaa](https://open.spotify.com/track/1JdphOaJPSdVoGTtilQ4Pr) | [Adeetiiya](https://open.spotify.com/artist/4H7bDnsqf7lF07XmWegR0s), [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Le Jaa](https://open.spotify.com/album/0imiHfsNmizV0OaVJOYCdA) | 2:34 |
-| 65 | [Jaa Tujhe Ishq Ho](https://open.spotify.com/track/3nsJy2UpjJyo14sqcbgJGH) | [Snehdeep Singh Kalsi](https://open.spotify.com/artist/5aFZ2WlD4ry5rc20mXTOa9), [Siddhant Kaushal](https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ) | [Jaa Tujhe Ishq Ho](https://open.spotify.com/album/1nf3Grd82k3UdU7Mh9BnCt) | 3:10 |
-| 66 | [Sahaare](https://open.spotify.com/track/0QPecwAlW2oX98JC0hGUV0) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Sahaare](https://open.spotify.com/album/3QzEFXJSJmKvraUIjfvoWf) | 3:08 |
+| 65 | [Sahaare](https://open.spotify.com/track/0QPecwAlW2oX98JC0hGUV0) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Sahaare](https://open.spotify.com/album/3QzEFXJSJmKvraUIjfvoWf) | 3:08 |
+| 66 | [Jaa Tujhe Ishq Ho](https://open.spotify.com/track/3nsJy2UpjJyo14sqcbgJGH) | [Snehdeep Singh Kalsi](https://open.spotify.com/artist/5aFZ2WlD4ry5rc20mXTOa9), [Siddhant Kaushal](https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ) | [Jaa Tujhe Ishq Ho](https://open.spotify.com/album/1nf3Grd82k3UdU7Mh9BnCt) | 3:10 |
 | 67 | [Saanjh](https://open.spotify.com/track/73HnMlPFhxQ4jqvqUWS0qO) | [Kartik Raman](https://open.spotify.com/artist/7a85VvAoGbPO0AKuYnq7Oc) | [Saanjh](https://open.spotify.com/album/2eselSZqVzpUQXp2SYcamV) | 4:00 |
 | 68 | [Jaan Se Zyada](https://open.spotify.com/track/4MuqA3HaelY0K7OfUHQEOP) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Zain \- Sam](https://open.spotify.com/artist/0Zj3IsE2VmUjbL70EQKXHL), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Jaan Se Zyada](https://open.spotify.com/album/7zFdhMVq9hnCkIbV1qyWd1) | 2:53 |
 | 69 | [Tere Bina](https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Tere Bina](https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB) | 2:52 |

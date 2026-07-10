@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Silica Gel\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: HANRORO\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,367 songs - 3 day 10 hr 46 min
+1,369 songs - 3 day 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Break Up](https://open.spotify.com/track/4VaN00fKWOc8ZtYs3lc7v8) | [Yyeon](https://open.spotify.com/artist/0qmWztaNn9Nrriuo0aP4uR) | [Break Up](https://open.spotify.com/album/1tDDkdNzfpuEoukq3zrgOE) | 2:31 | 2025-03-14 | 2025-04-11 |
 | [Breathe](https://open.spotify.com/track/0KaN3qT6D58wAezCAEyIU2) | [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Begins youth \(Original Xclusive Soundtrack\), Pt\. 1](https://open.spotify.com/album/4nK3NKTn5dDmuRMKW33QFL) | 4:08 | 2024-05-16 | 2024-07-23 |
 | [Broken camper](https://open.spotify.com/track/4k2erZIXJTbRnYXQ3dpmAk) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Broken camper](https://open.spotify.com/album/4MDrfI6KLD88dZceoqJi7D) | 4:00 | 2024-11-20 | 2025-01-31 |
-| [Bruised](https://open.spotify.com/track/24suBl4SGNDcRF4quflSFo) | [roon](https://open.spotify.com/artist/1Wq5gAIzVM5HKXv2j94j2j) | [A Blend of Scars and Healing](https://open.spotify.com/album/6lZym1hPod0mQHKoE6cJlQ) | 3:15 | 2026-04-15 |  |
+| [Bruised](https://open.spotify.com/track/24suBl4SGNDcRF4quflSFo) | [roon](https://open.spotify.com/artist/1Wq5gAIzVM5HKXv2j94j2j) | [A Blend of Scars and Healing](https://open.spotify.com/album/6lZym1hPod0mQHKoE6cJlQ) | 3:15 | 2026-04-15 | 2026-07-10 |
 | [Bruised Cloud](https://open.spotify.com/track/7vvA2Xv9Pp2d94oPArNw48) | [Doha](https://open.spotify.com/artist/3BruFP7xkpoAQg1VJnw4k5) | [Bruised Cloud](https://open.spotify.com/album/3gUHZCAPR0m2vogn5cmZVm) | 3:42 | 2022-01-27 | 2022-07-10 |
 | [Bullseye](https://open.spotify.com/track/72klky41z2aZ5ft5YAxlDy) | [Jeong Jia](https://open.spotify.com/artist/2dbUmZGHQxbgINmaqNxzz3) | [Bullseye](https://open.spotify.com/album/4K9A9hREpor7KTRbriaF7C) | 4:05 | 2022-06-18 | 2022-07-15 |
 | [BURN](https://open.spotify.com/track/6lhkk6BanA5aIc7FMIu8kN) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [IGNITE](https://open.spotify.com/album/7DG2868ELzq0vyfRKadbDx) | 3:18 | 2024-10-24 | 2024-11-21 |
@@ -1182,6 +1182,7 @@
 | [Train](https://open.spotify.com/track/2sC2MG2UB374acOg0Ltidg) | [ddbb](https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm) | [AoB Compilation Album Vol.1 : Mutant](https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb) | 3:58 | 2025-01-30 | 2025-04-11 |
 | [Treat You Right 사랑해줄래](https://open.spotify.com/track/4czJNPeQ4afZ00Vf779e2b) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Treat You Right 사랑해줄래](https://open.spotify.com/album/2InpzXMQUzTPoMFK1bIKN7) | 3:25 | 2022-03-31 | 2022-04-29 |
 | [Tree \(Feat\. Eily\)](https://open.spotify.com/track/09M5Yrj4L4wnJsB2A57kiB) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Eily](https://open.spotify.com/artist/6mkDOz32DQrnbO6uwCLSdD) | [Tree](https://open.spotify.com/album/7K8YzXvTz5vOfLiRmgqH9J) | 3:43 | 2021-12-21 | 2022-07-24 |
+| [TRUE](https://open.spotify.com/track/1tmPJxylPJLlhMOYz9auVB) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl), [homs](https://open.spotify.com/artist/4jb43XkP3Qog5XuO1LZMgF) | [LESS](https://open.spotify.com/album/7DJZnatOQB6yjFcokph4A2) | 4:49 | 2026-07-09 |  |
 | [Truthbuster](https://open.spotify.com/track/31u7mbAxSEkG0Ap3EA3QCG) | [Noridogam](https://open.spotify.com/artist/0wGPie2VhTjtwscQEqBhDe) | [Truthbuster](https://open.spotify.com/album/3VREd4I6QWnvDEhDbKVski) | 7:08 | 2025-11-05 | 2026-01-15 |
 | [Tryin' to forget you](https://open.spotify.com/track/3WligRZmcEPhsWT7iZClsH) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Double4Nine](https://open.spotify.com/artist/6aKJuORK8GKMuFt5aK9bQB) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 3:39 | 2022-03-31 | 2022-04-10 |
 | [Tutorial](https://open.spotify.com/track/4hYcI5bg1lu4LwjRKJlS9V) | [Fishingirls](https://open.spotify.com/artist/3sEqL7PBWr9jrCxB1tV6DI) | [Visible World](https://open.spotify.com/album/41raa6r0NfpRzanU92NkKX) | 3:12 | 2024-03-15 | 2024-05-10 |
@@ -1311,6 +1312,7 @@
 | [You](https://open.spotify.com/track/4QWehEg5WW9PVyEW70GwXa) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [The](https://open.spotify.com/album/2F55LJ7r0rNmiRwAt5Jm0a) | 3:28 | 2024-07-01 | 2024-07-16 |
 | [You](https://open.spotify.com/track/1dq8EPWCE8ld1Roex7fsGz) | [Marrakech](https://open.spotify.com/artist/396uBOizN3Vw2K2FmSlU2B) | [Colors](https://open.spotify.com/album/66UEd4XAQKMTJjBkLuaNVr) | 2:43 | 2025-09-18 | 2025-10-30 |
 | [YOU \(Feat\. Ko Youngbae of SORAN\)](https://open.spotify.com/track/4ar0KQ83Bdj4Ykenmxttw3) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Ko Youngbae](https://open.spotify.com/artist/135TOw1jqM2Bolkngy62nS) | [YOU \(Feat\. Ko Youngbae of SORAN\)](https://open.spotify.com/album/4kRf1gNa4VXmKNyR6Oy2fl) | 3:02 | 2022-04-12 | 2022-04-21 |
+| [You and I](https://open.spotify.com/track/35kftu3tYZnhWFBuKGyS1p) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [You and I](https://open.spotify.com/album/0W7dqgBtmGsVK18Y05cjKv) | 3:38 | 2026-07-09 |  |
 | [You Are a Star](https://open.spotify.com/track/5UwSjqcyGrLCNJSalzYDP3) | [Ra.L](https://open.spotify.com/artist/2TICrL7vZOMidetbsKrbfv) | [Mother of Mine 세상에서 제일 예쁜 내 딸 \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/72FqkN5DdiqTERUss9Esd3) | 2:28 | 2022-03-31 | 2022-04-16 |
 | [You Are My Universe](https://open.spotify.com/track/637WqBLI6CPZCDZhw24WWs) | [Low Hanging Fruits](https://open.spotify.com/artist/7KfFnqnCwvQ8NXL2a8avAu) | [You Are My Universe](https://open.spotify.com/album/1j1teMefag7nMbcWTzBFlJ) | 4:35 | 2022-07-08 | 2022-08-05 |
 | [You are special](https://open.spotify.com/track/2CNG54Mbrfw5EvmXE0370Y) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [You are special](https://open.spotify.com/album/2vtpyCgI3m6igo2dKJQqTV) | 3:24 | 2024-01-30 | 2024-05-10 |
@@ -1367,7 +1369,7 @@
 | [오디너리 러브](https://open.spotify.com/track/4ecxAtQScbtu6SVgEYUptr) | [Jehwwn](https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw) | [오디너리 러브](https://open.spotify.com/album/4sA9WEaboNsS00S0RKFKDo) | 3:13 | 2026-03-06 | 2026-04-22 |
 | [오월의 나무](https://open.spotify.com/track/4SvybiKZukEaXOk4xA2laz) | [Lucite Tokki](https://open.spotify.com/artist/5AXPLM73kNsbt3lh5bysN9) | [오월의 나무](https://open.spotify.com/album/7eyIv9fDkaHtnVtJGj5It4) | 3:43 | 2022-03-31 | 2022-04-02 |
 | [오키나와 Okinawa](https://open.spotify.com/track/5WJtEElIz5vt7EOEGR97Yz) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [오키나와 Okinawa](https://open.spotify.com/album/16zuGRQCDsJsJL8psjJM9M) | 5:48 | 2021-12-12 | 2022-07-29 |
-| [이사를 가요](https://open.spotify.com/track/5fbz2WBSO0X0UKn9ruqFrM) | [615](https://open.spotify.com/artist/1R2KUW45CEHkpv8fAgPADp) | [이사를 가요](https://open.spotify.com/album/4T7aYpnDgZAOOmQ7Ibqfck) | 4:05 | 2026-04-15 |  |
+| [이사를 가요](https://open.spotify.com/track/5fbz2WBSO0X0UKn9ruqFrM) | [615](https://open.spotify.com/artist/1R2KUW45CEHkpv8fAgPADp) | [이사를 가요](https://open.spotify.com/album/4T7aYpnDgZAOOmQ7Ibqfck) | 4:05 | 2026-04-15 | 2026-07-10 |
 | [잊고 살았던 것들](https://open.spotify.com/track/5cSY0Rpfgd9JapMTf9E45W) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [잊고 살았던 것들](https://open.spotify.com/album/3ntu3EDxTwnlUKnglHiUlh) | 3:06 | 2022-03-03 | 2022-06-10 |
 | [졸업, 먼 훗날 우리 \(Graduation, Far Down The Road\)](https://open.spotify.com/track/02qRI3evmFD17Cqlgtf91Z) | [DC Yun](https://open.spotify.com/artist/0gLWhjiydbtpZrjOVmeYFI) | [졸업, 먼 훗날 우리 \(Graduation, Far Down The Road\)](https://open.spotify.com/album/0iAG1POH2mEIbU2FVcSvU2) | 4:38 | 2026-02-06 | 2026-03-23 |
 | [집데이트 Home Date](https://open.spotify.com/track/7oZaH7O6NslcxHl2Dbimvm) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Home Date](https://open.spotify.com/album/0x79ov1mXMlwJKpgYhjjsx) | 2:33 | 2025-04-03 | 2025-04-18 |

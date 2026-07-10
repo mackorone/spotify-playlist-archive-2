@@ -4,7 +4,7 @@
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Nükhet Duru
 
-2,937 songs - 6 day 9 hr 37 min
+2,938 songs - 6 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -687,7 +687,7 @@
 | [Chaos](https://open.spotify.com/track/40wKTEdCfBwisOb3I1aptk) | [Aysedeniz Gokcin](https://open.spotify.com/artist/0MhNojJNQsaW1KXqKTX2Y0) | [Chaos](https://open.spotify.com/album/4nXKAEzbnlKWUgTSTMuGJH) | 3:39 | 2023-04-04 | 2023-05-03 |
 | [Chest](https://open.spotify.com/track/5ahYag585tQHsdiPX89wje) | [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Chest](https://open.spotify.com/album/4H111b8RbPVaf30USH78af) | 2:23 | 2025-06-03 | 2025-07-02 |
 | [Chicken Or Pasta](https://open.spotify.com/track/4Yd0xiJMMpIEDRlua057AR) | [Hande Ertürk](https://open.spotify.com/artist/5EbKb6Ac33LR572uP8m2SD) | [Chicken Or Pasta](https://open.spotify.com/album/4sx5oZJCpOW5UVUoDauG24) | 3:18 | 2025-11-04 | 2025-12-04 |
-| [Choro Pro Zé](https://open.spotify.com/track/5fjnzJBTYiwpt9ba0j5xnA) | [Elif Sanchez](https://open.spotify.com/artist/74v3N39tiIzpUsDLpHGz2B) | [Así pues...](https://open.spotify.com/album/3pSP6q7xiM7klF6wlaexC0) | 3:53 | 2026-06-30 |  |
+| [Choro Pro Zé](https://open.spotify.com/track/5fjnzJBTYiwpt9ba0j5xnA) | [Elif Sanchez](https://open.spotify.com/artist/74v3N39tiIzpUsDLpHGz2B), [O Kwarteto](https://open.spotify.com/artist/0XoxJtDROhxLeZo8hxI1ny) | [Así pues...](https://open.spotify.com/album/3pSP6q7xiM7klF6wlaexC0) | 3:53 | 2026-06-30 |  |
 | [cihan](https://open.spotify.com/track/43b6nRvYpO9dTNV7507wf1) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [cihan](https://open.spotify.com/album/1ttwKkQZEoZy7cDRQXpp4F) | 2:43 | 2024-06-04 | 2024-07-03 |
 | [Citrine](https://open.spotify.com/track/5s5oxALrZsmER4dxd5k3qp) | [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK), [aisu](https://open.spotify.com/artist/6WCTGeTYQ71cApZr34u4er) | [Citrine](https://open.spotify.com/album/4z1lIYsORI0Z8WgQjss9LC) | 2:30 | 2022-09-06 | 2022-10-05 |
 | [CİN SODA](https://open.spotify.com/track/1xid8DyuDHurAdsi7BUajW) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [CİN SODA](https://open.spotify.com/album/3FI2drKe1fysHk09uj2PhM) | 3:25 | 2022-05-31 | 2022-07-06 |
@@ -912,6 +912,7 @@
 | [Emanet](https://open.spotify.com/track/74FjbkZ1MihxeEfKR5Qrq6) | [KARDELEN](https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms) | [Emanet](https://open.spotify.com/album/54xPnrN0UYf8e9AkwjHHCo) | 3:13 | 2022-05-03 | 2022-06-01 |
 | [Eminönü](https://open.spotify.com/track/7p1xZbbjlmkxzXB9QYdJZm) | [OD Band](https://open.spotify.com/artist/4jT7a6Eq3mnAxfboEQLvzL) | [Eminönü](https://open.spotify.com/album/7zwvKMvYsO6xUvnTDOmZnf) | 3:51 | 2026-06-03 | 2026-07-01 |
 | [En Büyük Aşkım](https://open.spotify.com/track/4BdzYE2bJeAfcEDMmAtwxo) | [Melda Gürbey](https://open.spotify.com/artist/7fWJa0b0qySpdnpsJzZf7a) | [En Büyük Aşkım](https://open.spotify.com/album/4Enk0ZWfHrz0lo40yfffno) | 3:49 | 2023-04-04 | 2023-05-03 |
+| [En Büyük Yenilgim](https://open.spotify.com/track/0Urb3lQIYbz7VGVNHF8zPr) | [Gülden Esen](https://open.spotify.com/artist/0oNxxM5U3ySoqWW1NUhyPC) | [En Büyük Yenilgim](https://open.spotify.com/album/5V6Y7ZC3pWLf2DquCTHWX2) | 2:18 | 2026-06-30 |  |
 | [En Gizli](https://open.spotify.com/track/4geeLoDieiTKB404MZ9fjy) | [Selin Baycan](https://open.spotify.com/artist/1uTdiTi2LPWZlVSmOMFcmM) | [AŞİNA](https://open.spotify.com/album/3kj3cSyDqgolDIsStQGiZG) | 2:45 | 2025-04-01 | 2025-05-07 |
 | [En Güzel Misafir](https://open.spotify.com/track/7Kg3namEuZ4wx1TsyDU8aV) | [Gülben Ergen](https://open.spotify.com/artist/6hypPYDPSsgioRRfBXve38) | [En Güzel Misafir](https://open.spotify.com/album/4tJPd8D8jhfsZgX5WRAwn8) | 3:36 | 2023-05-02 | 2023-06-07 |
 | [En Tepede](https://open.spotify.com/track/7ywDrGlbVMFhKigmKfRtqC) | [SIRMA](https://open.spotify.com/artist/2fYZQJ1iohAImNGjuZoFrz) | [En Tepede](https://open.spotify.com/album/5uh85s7BzfC2F6i5MU0N4t) | 3:43 | 2022-05-31 | 2022-07-06 |

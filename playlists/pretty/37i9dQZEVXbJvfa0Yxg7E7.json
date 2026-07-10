@@ -1,259 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Norway.",
-  "num_followers": 548607,
+  "num_followers": 549091,
   "original_name": "Top 50 - Norway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MeG/eAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MeMQ+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Vikingblod (Norway Row Chant)",
-        "url": "https://open.spotify.com/album/6U7wwnQ9GrWMj4dCvOXky1"
-      },
-      "artists": [
-        {
-          "name": "Oljeberget",
-          "url": "https://open.spotify.com/artist/2fpiU89XxYeTRcnPtuEBip"
-        },
-        {
-          "name": "Katastrofe",
-          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
-        }
-      ],
-      "duration_ms": 162045,
-      "name": "Vikingblod (Norway Row Chant)",
-      "url": "https://open.spotify.com/track/34YF4ZTr6cWQyHsjAmV1Co"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Dai Dai",
-        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Dai Dai",
-      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Kongens Menn (feat. Birkelunden Mannskor)",
-        "url": "https://open.spotify.com/album/41gJTiB4DXB2EYrR1W7oMq"
-      },
-      "artists": [
-        {
-          "name": "Kongens Menn",
-          "url": "https://open.spotify.com/artist/6aJxLVgZ5875f0URSeQpRX"
-        },
-        {
-          "name": "Birkelunden Mannskor",
-          "url": "https://open.spotify.com/artist/2zfbcqB6axSNewctgkHOQD"
-        }
-      ],
-      "duration_ms": 168378,
-      "name": "Kongens Menn (feat. Birkelunden Mannskor)",
-      "url": "https://open.spotify.com/track/66ZkPCLY6fkEBFBX9Yxbro"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Alt For Norge",
-        "url": "https://open.spotify.com/album/73ZZN6P6S9fPNUYVhaxeQQ"
-      },
-      "artists": [
-        {
-          "name": "Drillos",
-          "url": "https://open.spotify.com/artist/0gSgXDEsDJj4ZsMclAGjeh"
-        },
-        {
-          "name": "J\u00f8rn Lande",
-          "url": "https://open.spotify.com/artist/3aOVLHmQbwbOq4nl4XcGSC"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Alt For Norge",
-      "url": "https://open.spotify.com/track/3E5IeN5MqUs16rjvMRlaT1"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Henda mot himmelen",
-        "url": "https://open.spotify.com/album/7a9nEtYAe7rqDvKuD43l0O"
-      },
-      "artists": [
-        {
-          "name": "Madel\u00e9ne",
-          "url": "https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz"
-        }
-      ],
-      "duration_ms": 205048,
-      "name": "Henda mot himmelen",
-      "url": "https://open.spotify.com/track/342fawASzRGGLF1oFqfhtK"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "SAMMEN FOR NORGE",
-        "url": "https://open.spotify.com/album/0KJLqWTb8C9JQSLxHQr6Ub"
-      },
-      "artists": [
-        {
-          "name": "Nicolay Ramm",
-          "url": "https://open.spotify.com/artist/5VD5GCCQ2hh0m7ufVlmcue"
-        },
-        {
-          "name": "Markus Neby",
-          "url": "https://open.spotify.com/artist/7sv89W9sP0NujFoaPcurVZ"
-        },
-        {
-          "name": "Stjerner For Norge",
-          "url": "https://open.spotify.com/artist/2U9VW8fvgTHqi9SCmf9b0M"
-        }
-      ],
-      "duration_ms": 195425,
-      "name": "SAMMEN FOR NORGE",
-      "url": "https://open.spotify.com/track/4t0PYPeACGNWLJYniAqnVg"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "H\u00e5pl\u00f8s",
-        "url": "https://open.spotify.com/album/5qampg6B8BB77GrP433F6O"
-      },
-      "artists": [
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        },
-        {
-          "name": "vinni",
-          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
-        }
-      ],
-      "duration_ms": 181782,
-      "name": "H\u00e5pl\u00f8s",
-      "url": "https://open.spotify.com/track/4SbpGcPIMBFFwPO5B7cuvl"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Inferno",
-        "url": "https://open.spotify.com/album/0Pkg2U6eM9f15PN9ZXefNq"
-      },
-      "artists": [
-        {
-          "name": "Petra Marklund",
-          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
-        }
-      ],
-      "duration_ms": 237813,
-      "name": "H\u00e4nderna mot himlen",
-      "url": "https://open.spotify.com/track/14AJI1RloVWTh8bJe9gBPM"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "OVERTIME/OVERKILL VOL. 7",
-        "url": "https://open.spotify.com/album/2fzl4ljcjIfXZHXfiz3BlL"
-      },
-      "artists": [
-        {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
-        }
-      ],
-      "duration_ms": 166862,
-      "name": "KARPE4LIFE",
-      "url": "https://open.spotify.com/track/5EMRYazBHIoeKXHZ0941gO"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Spill For Galleriet",
-        "url": "https://open.spotify.com/album/2f7lZnPRZhHfUcYzFMaKXb"
-      },
-      "artists": [
-        {
-          "name": "Makosir",
-          "url": "https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh"
-        },
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
-        }
-      ],
-      "duration_ms": 194800,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/0IpCt1Z62jF1LCPTADQTUB"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Dr\u00f8mmen jeg vil selge",
-        "url": "https://open.spotify.com/album/5qVnxEMGTPKzskjKY7gTNv"
-      },
-      "artists": [
-        {
-          "name": "GOLF",
-          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
-        }
-      ],
-      "duration_ms": 193613,
-      "name": "Damn, du ser bra ut!",
-      "url": "https://open.spotify.com/track/3tnIab6xsuT8Ds8liFDwNV"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Kors p\u00e5 halsen, ti kniver i hjertet, mor og far i d\u00f8den",
-        "url": "https://open.spotify.com/album/0c4ywEXoeJD05cfV1DwKY7"
-      },
-      "artists": [
-        {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
-        }
-      ],
-      "duration_ms": 185840,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/5hXlNBMHinSsyPP9RVnqgo"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "R\u00d8DT HVITT BL\u00c5TT",
-        "url": "https://open.spotify.com/album/0CfgQBJAB8R1r1eqLkl9hJ"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        },
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 148923,
-      "name": "R\u00d8DT HVITT BL\u00c5TT",
-      "url": "https://open.spotify.com/track/1wVc6eYrGKDK6HJUs5wxlm"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Kygo Jo (feat. Lyng) [Kygo Remix]",
         "url": "https://open.spotify.com/album/6AQiRXJ2i48Lu7CFUrKUER"
@@ -281,7 +37,251 @@
       "url": "https://open.spotify.com/track/3ExrDwHbhBZYurE2AOC1rL"
     },
     {
-      "added_at": "2026-07-08 19:56:40",
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Vikingblod (Norway Row Chant)",
+        "url": "https://open.spotify.com/album/6U7wwnQ9GrWMj4dCvOXky1"
+      },
+      "artists": [
+        {
+          "name": "Oljeberget",
+          "url": "https://open.spotify.com/artist/2fpiU89XxYeTRcnPtuEBip"
+        },
+        {
+          "name": "Katastrofe",
+          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
+        }
+      ],
+      "duration_ms": 162045,
+      "name": "Vikingblod (Norway Row Chant)",
+      "url": "https://open.spotify.com/track/34YF4ZTr6cWQyHsjAmV1Co"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Kongens Menn (feat. Birkelunden Mannskor)",
+        "url": "https://open.spotify.com/album/41gJTiB4DXB2EYrR1W7oMq"
+      },
+      "artists": [
+        {
+          "name": "Kongens Menn",
+          "url": "https://open.spotify.com/artist/6aJxLVgZ5875f0URSeQpRX"
+        },
+        {
+          "name": "Birkelunden Mannskor",
+          "url": "https://open.spotify.com/artist/2zfbcqB6axSNewctgkHOQD"
+        }
+      ],
+      "duration_ms": 168378,
+      "name": "Kongens Menn (feat. Birkelunden Mannskor)",
+      "url": "https://open.spotify.com/track/66ZkPCLY6fkEBFBX9Yxbro"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Alt For Norge",
+        "url": "https://open.spotify.com/album/73ZZN6P6S9fPNUYVhaxeQQ"
+      },
+      "artists": [
+        {
+          "name": "Drillos",
+          "url": "https://open.spotify.com/artist/0gSgXDEsDJj4ZsMclAGjeh"
+        },
+        {
+          "name": "J\u00f8rn Lande",
+          "url": "https://open.spotify.com/artist/3aOVLHmQbwbOq4nl4XcGSC"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Alt For Norge",
+      "url": "https://open.spotify.com/track/3E5IeN5MqUs16rjvMRlaT1"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "SAMMEN FOR NORGE",
+        "url": "https://open.spotify.com/album/0NlvZMvS0BxtsIASZkYfJJ"
+      },
+      "artists": [
+        {
+          "name": "Nicolay Ramm",
+          "url": "https://open.spotify.com/artist/5VD5GCCQ2hh0m7ufVlmcue"
+        },
+        {
+          "name": "Markus Neby",
+          "url": "https://open.spotify.com/artist/7sv89W9sP0NujFoaPcurVZ"
+        },
+        {
+          "name": "Stjerner For Norge",
+          "url": "https://open.spotify.com/artist/2U9VW8fvgTHqi9SCmf9b0M"
+        }
+      ],
+      "duration_ms": 195425,
+      "name": "SAMMEN FOR NORGE",
+      "url": "https://open.spotify.com/track/2dVBclLQDYL8mdsgPOgGFk"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Henda mot himmelen",
+        "url": "https://open.spotify.com/album/7a9nEtYAe7rqDvKuD43l0O"
+      },
+      "artists": [
+        {
+          "name": "Madel\u00e9ne",
+          "url": "https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz"
+        }
+      ],
+      "duration_ms": 205048,
+      "name": "Henda mot himmelen",
+      "url": "https://open.spotify.com/track/342fawASzRGGLF1oFqfhtK"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "H\u00e5pl\u00f8s",
+        "url": "https://open.spotify.com/album/5qampg6B8BB77GrP433F6O"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        },
+        {
+          "name": "vinni",
+          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
+        }
+      ],
+      "duration_ms": 181782,
+      "name": "H\u00e5pl\u00f8s",
+      "url": "https://open.spotify.com/track/4SbpGcPIMBFFwPO5B7cuvl"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/0Pkg2U6eM9f15PN9ZXefNq"
+      },
+      "artists": [
+        {
+          "name": "Petra Marklund",
+          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
+        }
+      ],
+      "duration_ms": 237813,
+      "name": "H\u00e4nderna mot himlen",
+      "url": "https://open.spotify.com/track/14AJI1RloVWTh8bJe9gBPM"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "OVERTIME/OVERKILL VOL. 7",
+        "url": "https://open.spotify.com/album/2fzl4ljcjIfXZHXfiz3BlL"
+      },
+      "artists": [
+        {
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+        }
+      ],
+      "duration_ms": 166862,
+      "name": "KARPE4LIFE",
+      "url": "https://open.spotify.com/track/5EMRYazBHIoeKXHZ0941gO"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Spill For Galleriet",
+        "url": "https://open.spotify.com/album/2f7lZnPRZhHfUcYzFMaKXb"
+      },
+      "artists": [
+        {
+          "name": "Makosir",
+          "url": "https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh"
+        },
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        }
+      ],
+      "duration_ms": 194800,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/0IpCt1Z62jF1LCPTADQTUB"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Dr\u00f8mmen jeg vil selge",
+        "url": "https://open.spotify.com/album/5qVnxEMGTPKzskjKY7gTNv"
+      },
+      "artists": [
+        {
+          "name": "GOLF",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+        }
+      ],
+      "duration_ms": 193613,
+      "name": "Damn, du ser bra ut!",
+      "url": "https://open.spotify.com/track/3tnIab6xsuT8Ds8liFDwNV"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "R\u00d8DT HVITT BL\u00c5TT",
+        "url": "https://open.spotify.com/album/0CfgQBJAB8R1r1eqLkl9hJ"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        },
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 148923,
+      "name": "R\u00d8DT HVITT BL\u00c5TT",
+      "url": "https://open.spotify.com/track/1wVc6eYrGKDK6HJUs5wxlm"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Kors p\u00e5 halsen, ti kniver i hjertet, mor og far i d\u00f8den",
+        "url": "https://open.spotify.com/album/0c4ywEXoeJD05cfV1DwKY7"
+      },
+      "artists": [
+        {
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+        }
+      ],
+      "duration_ms": 185840,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/5hXlNBMHinSsyPP9RVnqgo"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Norge skal til VM",
         "url": "https://open.spotify.com/album/4zzMlmA5wu8WlyT9f1nRgI"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/6ne5zNCWqsD4v3J9xEcYWz"
     },
     {
-      "added_at": "2026-07-08 19:56:40",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Heimakj\u00e6r",
         "url": "https://open.spotify.com/album/4JEIx9vt8EWKVpfiLyULGD"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/7tmObcH9iG5Ncv4dYAtVc4"
     },
     {
-      "added_at": "2026-07-08 19:56:40",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "FRI",
         "url": "https://open.spotify.com/album/2BKqivqcfDmcWWQGSxI9LA"
@@ -329,23 +329,7 @@
       "url": "https://open.spotify.com/track/5yuzzYiP9DZru2es7nTolF"
     },
     {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "OVERTIME/OVERKILL VOL. 1",
-        "url": "https://open.spotify.com/album/1D0KuQFJ34HPuWC0ndW4Pn"
-      },
-      "artists": [
-        {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
-        }
-      ],
-      "duration_ms": 211728,
-      "name": "Paw Patrol",
-      "url": "https://open.spotify.com/track/2XnbiDy4iVlRaoEw0Swnnk"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Heimakj\u00e6r",
         "url": "https://open.spotify.com/album/4JEIx9vt8EWKVpfiLyULGD"
@@ -361,39 +345,7 @@
       "url": "https://open.spotify.com/track/4Fgv82zo4VNvKPITQCyPFy"
     },
     {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Kors p\u00e5 halsen, ti kniver i hjertet, mor og far i d\u00f8den",
-        "url": "https://open.spotify.com/album/0c4ywEXoeJD05cfV1DwKY7"
-      },
-      "artists": [
-        {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "Spis din syvende sans",
-      "url": "https://open.spotify.com/track/2wklUkI6nr4uurf5w0AyPz"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "FRI II",
         "url": "https://open.spotify.com/album/173idF7MhMEJSD3oixjCj0"
@@ -413,7 +365,103 @@
       "url": "https://open.spotify.com/track/6c3ql70d6n0uuwdQepDgNI"
     },
     {
-      "added_at": "2026-07-08 19:56:40",
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Kygo Jo",
+        "url": "https://open.spotify.com/album/48ad5thLDu7xY01BdelYJa"
+      },
+      "artists": [
+        {
+          "name": "Lundenesrussen",
+          "url": "https://open.spotify.com/artist/5DSRnbun1oKwK7zykghVuN"
+        }
+      ],
+      "duration_ms": 214177,
+      "name": "Kygo Jo",
+      "url": "https://open.spotify.com/track/7fWaeDlAHFY1UDDBBXQ6h0"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "OVERTIME/OVERKILL VOL. 1",
+        "url": "https://open.spotify.com/album/1D0KuQFJ34HPuWC0ndW4Pn"
+      },
+      "artists": [
+        {
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+        }
+      ],
+      "duration_ms": 211728,
+      "name": "Paw Patrol",
+      "url": "https://open.spotify.com/track/2XnbiDy4iVlRaoEw0Swnnk"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "The Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Heimakj\u00e6r",
+        "url": "https://open.spotify.com/album/4JEIx9vt8EWKVpfiLyULGD"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "Sei da te meg",
+      "url": "https://open.spotify.com/track/4kVQ33VQRcV6spMOI28e4e"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Kors p\u00e5 halsen, ti kniver i hjertet, mor og far i d\u00f8den",
+        "url": "https://open.spotify.com/album/0c4ywEXoeJD05cfV1DwKY7"
+      },
+      "artists": [
+        {
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "Spis din syvende sans",
+      "url": "https://open.spotify.com/track/2wklUkI6nr4uurf5w0AyPz"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Norge sk\u00e5rte m\u00e5l",
         "url": "https://open.spotify.com/album/41JyMkkffGt09pkVnmI19w"
@@ -437,39 +485,23 @@
       "url": "https://open.spotify.com/track/57A2AQ1FjfAItYUIzhs4E6"
     },
     {
-      "added_at": "2026-07-08 19:56:40",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
-        "name": "Magnetic / Addicted To Your Love",
-        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
       },
       "artists": [
         {
-          "name": "The Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 181384,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+      "duration_ms": 231746,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN"
     },
     {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Heimakj\u00e6r",
-        "url": "https://open.spotify.com/album/4JEIx9vt8EWKVpfiLyULGD"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "Sei da te meg",
-      "url": "https://open.spotify.com/track/4kVQ33VQRcV6spMOI28e4e"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Sjelen",
         "url": "https://open.spotify.com/album/76g2psUAHym5tZCTINrtAS"
@@ -485,7 +517,23 @@
       "url": "https://open.spotify.com/track/3LF6HIJIFSluSqsbLJJSS5"
     },
     {
-      "added_at": "2026-07-08 19:56:40",
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Friskis",
         "url": "https://open.spotify.com/album/34GDL15iOZdbCknRQjgpGu"
@@ -509,23 +557,7 @@
       "url": "https://open.spotify.com/track/7v9T6N0q35ZwpqdN7Ln2xs"
     },
     {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 231746,
-      "name": "Choosin' Texas",
-      "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Originalversjoner av Jahn Teigen - Optimist",
         "url": "https://open.spotify.com/album/3E2Ux67YVHi3Uw1zweftq1"
@@ -541,39 +573,23 @@
       "url": "https://open.spotify.com/track/1pwcMdjdJHOpTQhplylyaa"
     },
     {
-      "added_at": "2026-07-08 19:56:40",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
-        "name": "hate that i made you love me",
-        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+        "name": "Kygo Jo (Remix)",
+        "url": "https://open.spotify.com/album/0Fkyj1B7wkedWLJVka1dSx"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "MYTEN",
+          "url": "https://open.spotify.com/artist/1782aLMLW3c2T2R1UboUHa"
         }
       ],
-      "duration_ms": 197949,
-      "name": "hate that i made you love me",
-      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+      "duration_ms": 214054,
+      "name": "Kygo Jo - Remix",
+      "url": "https://open.spotify.com/track/4JmemoGKz7mP5gOXJUPygU"
     },
     {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Valget \u00e5 g\u00e5, og vi gikk",
-        "url": "https://open.spotify.com/album/2h2KURYW7u2ja9AAJstTdK"
-      },
-      "artists": [
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "Falle og sl\u00e5 seg",
-      "url": "https://open.spotify.com/track/3YJA6qP1OMqMTfGxznhpAR"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "B\u00f8nda 2026",
         "url": "https://open.spotify.com/album/2vUIjtcElQzpfsY0WZK8BL"
@@ -589,39 +605,7 @@
       "url": "https://open.spotify.com/track/25mKSMVAh49s4xmrK1mBcQ"
     },
     {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 293802,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
-      },
-      "artists": [
-        {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Heimakj\u00e6r",
         "url": "https://open.spotify.com/album/4JEIx9vt8EWKVpfiLyULGD"
@@ -637,7 +621,23 @@
       "url": "https://open.spotify.com/track/0mhrvFXXIzIU5Swq6yQvfS"
     },
     {
-      "added_at": "2026-07-08 19:56:40",
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 293802,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Tobias Sten",
         "url": "https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH"
@@ -653,119 +653,7 @@
       "url": "https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6"
     },
     {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Heisann Montebello",
-        "url": "https://open.spotify.com/album/60ds7FFDM1sO5YbwEGq9US"
-      },
-      "artists": [
-        {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
-        }
-      ],
-      "duration_ms": 236560,
-      "name": "Hvite menn som pusher 50",
-      "url": "https://open.spotify.com/track/5XbtI5DR1e0OcvMbz531IP"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Rett Fra Hjertet",
-        "url": "https://open.spotify.com/album/3J1IcWt5f3CFbpCCKtSLha"
-      },
-      "artists": [
-        {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
-        }
-      ],
-      "duration_ms": 239546,
-      "name": "Piano",
-      "url": "https://open.spotify.com/track/6oLSO54qF1p5kZvSc2DTUV"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Heldig",
-        "url": "https://open.spotify.com/album/4Tff2wFQjJ61rgpRI8zwvQ"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 145469,
-      "name": "Heldig",
-      "url": "https://open.spotify.com/track/1k2DnlvWmjvlqVEM8vYB6r"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Kids med opiater",
-        "url": "https://open.spotify.com/album/7I897Ffy9uVvncjjyBfaTK"
-      },
-      "artists": [
-        {
-          "name": "Metropolen",
-          "url": "https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi"
-        }
-      ],
-      "duration_ms": 237091,
-      "name": "Kids med opiater",
-      "url": "https://open.spotify.com/track/1iZGMTYKMaCjQ7Cp2pw89Y"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "iloveitiloveitiloveit",
-        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 183237,
-      "name": "iloveitiloveitiloveit",
-      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Lose Myself / I Wanna",
-        "url": "https://open.spotify.com/album/5pLDXKmvchaKPLdI93TAjH"
-      },
-      "artists": [
-        {
-          "name": "The Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Lose Myself",
-      "url": "https://open.spotify.com/track/0e5K24g47Xze7bR6eftsHT"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Alt For Norge",
-        "url": "https://open.spotify.com/album/4aQB1v78WPrJolmCeTNFAM"
-      },
-      "artists": [
-        {
-          "name": "Den BB",
-          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
-        }
-      ],
-      "duration_ms": 151352,
-      "name": "Alt For Norge",
-      "url": "https://open.spotify.com/track/4m9erlcywGIMPeXsDEmfMW"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Melis",
         "url": "https://open.spotify.com/album/37OHrXXHZRIiKlxbHzOalj"
@@ -781,7 +669,103 @@
       "url": "https://open.spotify.com/track/6ZB1dFgdUW6I9qzW7Oap6o"
     },
     {
-      "added_at": "2026-07-08 19:56:40",
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Valget \u00e5 g\u00e5, og vi gikk",
+        "url": "https://open.spotify.com/album/2h2KURYW7u2ja9AAJstTdK"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "Falle og sl\u00e5 seg",
+      "url": "https://open.spotify.com/track/3YJA6qP1OMqMTfGxznhpAR"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Kids med opiater",
+        "url": "https://open.spotify.com/album/7I897Ffy9uVvncjjyBfaTK"
+      },
+      "artists": [
+        {
+          "name": "Metropolen",
+          "url": "https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi"
+        }
+      ],
+      "duration_ms": 237091,
+      "name": "Kids med opiater",
+      "url": "https://open.spotify.com/track/1iZGMTYKMaCjQ7Cp2pw89Y"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Lose Myself / I Wanna",
+        "url": "https://open.spotify.com/album/5pLDXKmvchaKPLdI93TAjH"
+      },
+      "artists": [
+        {
+          "name": "The Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Lose Myself",
+      "url": "https://open.spotify.com/track/0e5K24g47Xze7bR6eftsHT"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Heldig",
+        "url": "https://open.spotify.com/album/4Tff2wFQjJ61rgpRI8zwvQ"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 145469,
+      "name": "Heldig",
+      "url": "https://open.spotify.com/track/1k2DnlvWmjvlqVEM8vYB6r"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Ol\u00e9, Ol\u00e9, Ol\u00e9 (Det G\u00e5r Ned)",
         "url": "https://open.spotify.com/album/2LMh7xESdJd4kzcxaoc0SS"
@@ -797,59 +781,7 @@
       "url": "https://open.spotify.com/track/4VY17vIWTYqCGxRqGSUW99"
     },
     {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Spill For Galleriet",
-        "url": "https://open.spotify.com/album/2f7lZnPRZhHfUcYzFMaKXb"
-      },
-      "artists": [
-        {
-          "name": "Makosir",
-          "url": "https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh"
-        }
-      ],
-      "duration_ms": 146253,
-      "name": "Gledest\u00e5rer",
-      "url": "https://open.spotify.com/track/3vEIRhQjfiaJtjwHcf3NgE"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Fire Vegger",
-        "url": "https://open.spotify.com/album/2ABAeQdTwWlZZj4cW2zOWX"
-      },
-      "artists": [
-        {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
-        }
-      ],
-      "duration_ms": 168773,
-      "name": "Stjerner",
-      "url": "https://open.spotify.com/track/0xvwQpWsloKMkEO9pxttwk"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
-      "album": {
-        "name": "Omar Sheriff",
-        "url": "https://open.spotify.com/album/4pUvAgc5wiu5ww3v65wVB7"
-      },
-      "artists": [
-        {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
-        },
-        {
-          "name": "Omar Sheriff",
-          "url": "https://open.spotify.com/artist/7bD3cjwHYADj9rsonLyx7U"
-        }
-      ],
-      "duration_ms": 226706,
-      "name": "PAF.no",
-      "url": "https://open.spotify.com/track/2coLAzVouJE4BC8lrKbDLk"
-    },
-    {
-      "added_at": "2026-07-08 19:56:40",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Heisann Montebello",
         "url": "https://open.spotify.com/album/60ds7FFDM1sO5YbwEGq9US"
@@ -860,12 +792,60 @@
           "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
         }
       ],
-      "duration_ms": 292134,
-      "name": "Lett \u00e5 v\u00e6re rebell i kjellerleiligheten din",
-      "url": "https://open.spotify.com/track/5svApusjXxsUMwEjiBovhK"
+      "duration_ms": 236560,
+      "name": "Hvite menn som pusher 50",
+      "url": "https://open.spotify.com/track/5XbtI5DR1e0OcvMbz531IP"
     },
     {
-      "added_at": "2026-07-08 19:56:40",
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Rett Fra Hjertet",
+        "url": "https://open.spotify.com/album/3J1IcWt5f3CFbpCCKtSLha"
+      },
+      "artists": [
+        {
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+        }
+      ],
+      "duration_ms": 239546,
+      "name": "Piano",
+      "url": "https://open.spotify.com/track/6oLSO54qF1p5kZvSc2DTUV"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Pappa",
+        "url": "https://open.spotify.com/album/6jNuuA7jYxbOCmOuAmmZvu"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 291769,
+      "name": "Pappa",
+      "url": "https://open.spotify.com/track/5l6motPyFOsw6O0bw4Bvpk"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Alt For Norge",
+        "url": "https://open.spotify.com/album/4aQB1v78WPrJolmCeTNFAM"
+      },
+      "artists": [
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        }
+      ],
+      "duration_ms": 151352,
+      "name": "Alt For Norge",
+      "url": "https://open.spotify.com/track/4m9erlcywGIMPeXsDEmfMW"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
@@ -879,6 +859,22 @@
       "duration_ms": 173975,
       "name": "Great Expectation",
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Spill For Galleriet",
+        "url": "https://open.spotify.com/album/2f7lZnPRZhHfUcYzFMaKXb"
+      },
+      "artists": [
+        {
+          "name": "Makosir",
+          "url": "https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh"
+        }
+      ],
+      "duration_ms": 146253,
+      "name": "Gledest\u00e5rer",
+      "url": "https://open.spotify.com/track/3vEIRhQjfiaJtjwHcf3NgE"
     }
   ],
   "unique_name": "Top 50 - Norway",

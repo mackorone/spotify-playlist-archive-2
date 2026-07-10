@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-340 songs - 1 day 22 hr 40 min
+341 songs - 1 day 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,11 +92,12 @@
 | [Freedom chant \- Live](https://open.spotify.com/track/7bBecDvVJ3ngeIFGs1M8BG) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [Chinedu Ndubueze](https://open.spotify.com/artist/52CdmtfVJaUfq8calnMejr) | [Freedom chant \(Live\)](https://open.spotify.com/album/7Gs5hlOMJxcpBeVQQAfUpm) | 6:37 | 2025-01-31 | 2025-03-07 |
 | [FRESH FIRE \- LIVE](https://open.spotify.com/track/7sDMSbBoYKZBu5BGwtJWAP) | [Ruke Gure](https://open.spotify.com/artist/3kJycPCLqMjSCHGEjvMUlz) | [FRESH FIRE \(LIVE\)](https://open.spotify.com/album/1DiDnNc3mQqPu4lUDDU0gw) | 6:43 | 2024-05-31 | 2024-11-01 |
 | [Full Surrender \(Live\)](https://open.spotify.com/track/7ECm6U66LhwROK4CvqcnD2) | [Rivers Worship](https://open.spotify.com/artist/57XcYA50Fcakr6lTthQkaQ) | [Full Surrender \(Live\)](https://open.spotify.com/album/35c3pfkXamPsGb7Wdh6TuA) | 6:00 | 2025-11-07 | 2026-02-13 |
+| [Gbemiwo \- Live](https://open.spotify.com/track/0Xz9wb0uARMUcKKjcMY4uD) | [BisiManuel](https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO) | [Gbemiwo \(Live\)](https://open.spotify.com/album/7bnrsvw3HAUm0NfLLAbggy) | 12:43 | 2026-07-10 |  |
 | [Gbope Mi \(Live\)](https://open.spotify.com/track/2ZHAaraotmmXc13Ir9DOVy) | [Ethan Otedola](https://open.spotify.com/artist/68wbSl6oNKgoiTZm7vN0UK) | [Gbope Mi \(Live\)](https://open.spotify.com/album/6xAjLrGrMyXKMHfwpW880A) | 3:14 | 2026-01-16 |  |
 | [Ghana Medley \- Live](https://open.spotify.com/track/2PeUrNdSua8lFGb4CtQVV0) | [Puleng March](https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn) | [Heaven's Scroll \(Live\)](https://open.spotify.com/album/0IdIW30hdyEVScUQdr4UyV) | 8:41 | 2024-06-07 | 2024-10-04 |
 | [Glory \(Live\)](https://open.spotify.com/track/0iymH5SFw2bAkOaBBoLFB2) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [Glory \(Live\)](https://open.spotify.com/album/0tFBkbECWVx5PF18ZNAral) | 5:37 | 2024-11-08 | 2024-12-20 |
 | [Glory to God \(Live\)](https://open.spotify.com/track/23yCRDXfApu8gYJSZV8CkU) | [Sound Of Goshen](https://open.spotify.com/artist/3mMj2jo4RXaTW2fqSoNtYW), [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s) | [Praise and Worship \(Live\)](https://open.spotify.com/album/6Gwwh8hPZKpX2wKyNLdW5C) | 20:30 | 2025-11-14 | 2026-03-06 |
-| [God Alone \- Live](https://open.spotify.com/track/3dWxH0XNHZgC4A8Nbz8n12) | [OMASHINES](https://open.spotify.com/artist/2WPK5MznLVJDeI440TE3QM) | [God Alone \(Live\)](https://open.spotify.com/album/36VZypiP0OK3wfvI60Os0f) | 4:20 | 2026-04-17 |  |
+| [God Alone \- Live](https://open.spotify.com/track/3dWxH0XNHZgC4A8Nbz8n12) | [OMASHINES](https://open.spotify.com/artist/2WPK5MznLVJDeI440TE3QM) | [God Alone \(Live\)](https://open.spotify.com/album/36VZypiP0OK3wfvI60Os0f) | 4:20 | 2026-04-17 | 2026-07-10 |
 | [Goliathi \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/5cVaaESVeWB9bTMLXaC6KZ) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Goliathi \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/3tprEY7g0ha2s23TvgIsy2) | 6:49 | 2024-05-03 | 2024-11-08 |
 | [Gologota](https://open.spotify.com/track/5IAh8o4CPMRq93gCRtjFoI) | [Christine Nkole](https://open.spotify.com/artist/2coJ6dDm1YoltAWYmax9tZ), [Chileshe Bwalya](https://open.spotify.com/artist/3rij1hjdCM40Ct3tqQ393h) | [Gologota](https://open.spotify.com/album/4rQZLqNXid5h3v2ZNzo2Q7) | 7:22 | 2025-05-09 | 2025-08-22 |
 | [Good God \- Live](https://open.spotify.com/track/2EczWzXO2XGE0vaHjhbWlH) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Live from London](https://open.spotify.com/album/4tP9md1Ssy4bnaSWjffDey) | 4:14 | 2025-05-09 | 2025-08-22 |

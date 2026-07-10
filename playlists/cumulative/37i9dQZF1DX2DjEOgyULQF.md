@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-464 songs - 21 hr 52 min
+465 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Cottonia Creek](https://open.spotify.com/track/0dCUcvksazRPUy1ld5xab6) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Cottonia Creek](https://open.spotify.com/album/58BGziZfUqc7JGY5AW0Y0r) | 2:59 | 2023-04-28 | 2025-05-22 |
 | [Coupled](https://open.spotify.com/track/1LneJ82CsAFh6VyZkOUbKC) | [Everly Hess](https://open.spotify.com/artist/67t6YRbij8vz9jrlPu8ozo) | [Coupled](https://open.spotify.com/album/0KB3Ihcz08CkBd5xmernNT) | 2:02 | 2023-05-22 | 2026-02-19 |
 | [Creekside](https://open.spotify.com/track/00gniJGV3T78LoCmTeSbKM) | [Cedarsound](https://open.spotify.com/artist/3zQf7bXB7xtlEjVmeT53GP) | [Creekside](https://open.spotify.com/album/1GlqsJCYxTMCqI9ZxKCo3n) | 2:32 | 2026-04-03 |  |
-| [Crystal Shore](https://open.spotify.com/track/1B7gbkPVwmZdCE0PZpglzl) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Crystal Shore](https://open.spotify.com/album/1MzwRWG0fx48OoxyeuXqY8) | 2:40 | 2025-10-24 |  |
+| [Crystal Shore](https://open.spotify.com/track/1B7gbkPVwmZdCE0PZpglzl) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Crystal Shore](https://open.spotify.com/album/1MzwRWG0fx48OoxyeuXqY8) | 2:40 | 2025-10-24 | 2026-07-10 |
 | [Dawnings](https://open.spotify.com/track/7vNmI7V8ml6ZIh6CJbIne3) | [Moshi Moshi Desu](https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI) | [Dawnings](https://open.spotify.com/album/712CI19yCTwKGG1FIgxYR3) | 3:20 | 2023-04-28 | 2025-05-22 |
 | [Daylight](https://open.spotify.com/track/2hz7x71F69QH12R7wWxg6t) | [Ambiosis](https://open.spotify.com/artist/3Rg4fOMUW3gvG8qdIazNX1) | [Daylight](https://open.spotify.com/album/7xI2atqZ3yhx6P57R3m5as) | 2:26 | 2026-06-26 |  |
 | [Dedication To Calm](https://open.spotify.com/track/1VD7Pn1IS8rHixuWExfZp1) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Dedication To Calm](https://open.spotify.com/album/496IgIL2DJaK4f2WOggFJA) | 3:38 | 2023-04-28 | 2024-06-04 |
@@ -389,6 +389,7 @@
 | [Stream of Harmony](https://open.spotify.com/track/2vsrtWukHPNJq6T0rt38rk) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Stream of Harmony](https://open.spotify.com/album/76eHssQQ8jisSTZwuiqC0R) | 2:57 | 2024-04-01 |  |
 | [Stream of Stars](https://open.spotify.com/track/1CRJnMODdN3FgF3bRz8Qa2) | [Far North](https://open.spotify.com/artist/5PsHx1QHRwGpw7tIvFVI9P) | [Stream of Stars](https://open.spotify.com/album/46FtPwAKC6t2sSJdrw6zqm) | 2:38 | 2026-07-03 |  |
 | [Sub Nubibus](https://open.spotify.com/track/7IoL1mOhd9J4yRQx5Rvq2n) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Sub Nubibus](https://open.spotify.com/album/5ruwT199WJvJDnlTRxfIk3) | 2:27 | 2023-04-28 | 2024-08-24 |
+| [Summer Haze](https://open.spotify.com/track/5e2uQeP2XzYVvvF74jKs9Y) | [Undis](https://open.spotify.com/artist/6YjkEQuODblFDXN3AsCYKo) | [Summer Haze](https://open.spotify.com/album/6461BTT1Fhnku0P2qKfqdq) | 3:04 | 2026-07-03 |  |
 | [Sunrise in a Jar](https://open.spotify.com/track/0e5XpVnnRRLrIYb1tcuBTE) | [Stone Steps](https://open.spotify.com/artist/4FDTSH6593ZrweLvsonjQ5) | [Sunrise in a Jar](https://open.spotify.com/album/1Nzkj2cu59W15lC5Ps3OLV) | 3:21 | 2024-04-01 | 2024-06-04 |
 | [Sunrise In Zen](https://open.spotify.com/track/15ykqWIK6EJzZZqOcClrtF) | [Lost Lumina](https://open.spotify.com/artist/6hxR80dFvGZxlRm3Sd33KQ) | [Sunrise In Zen](https://open.spotify.com/album/6mNo4Z9EMW0iAvCkbMwtPq) | 2:36 | 2026-04-03 |  |
 | [Surface Water](https://open.spotify.com/track/74cd9khXUG4UsEAKZLCuKO) | [Elements Of Matter](https://open.spotify.com/artist/2msV34nEca2EAuKzEUp2Ef) | [Surface Water](https://open.spotify.com/album/1eEODxWpy92t2vU3gbvBND) | 2:43 | 2025-04-11 | 2026-04-04 |

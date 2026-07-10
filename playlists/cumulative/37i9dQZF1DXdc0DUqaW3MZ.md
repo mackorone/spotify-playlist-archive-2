@@ -4,7 +4,7 @@
 
 > where future beats meet timeless soul.
 
-497 songs - 1 day 5 hr 5 min
+498 songs - 1 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,7 @@
 | [S.A.D](https://open.spotify.com/track/2tdEGV3mQJ3qhGYD0KIlaB) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [S.A.D](https://open.spotify.com/album/0bBGzAua73MV43eiD6l5SE) | 3:20 | 2022-04-11 | 2022-04-15 |
 | [safe](https://open.spotify.com/track/3SUG6RZt3dSRM9jqJe460Z) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [zero](https://open.spotify.com/album/42rdDg3nul8w1TIhDFsRgx) | 3:28 | 2021-12-07 | 2022-07-29 |
 | [Salve](https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Salve](https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8) | 3:13 | 2025-04-17 |  |
-| [Say The Word \(feat\. Niomí\)](https://open.spotify.com/track/3AWEEokiIrQOsfRTR1Iuqh) | [NATE08](https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl), [Niomí](https://open.spotify.com/artist/16rklq8X2KwUNb7D51VvhQ) | [TWENTY SEVEN](https://open.spotify.com/album/735OI6yCFAwqKvtmmryNLB) | 3:08 | 2025-12-12 |  |
+| [Say The Word \(feat\. Niomí\)](https://open.spotify.com/track/3AWEEokiIrQOsfRTR1Iuqh) | [NATE08](https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl), [Niomí](https://open.spotify.com/artist/16rklq8X2KwUNb7D51VvhQ) | [TWENTY SEVEN](https://open.spotify.com/album/735OI6yCFAwqKvtmmryNLB) | 3:08 | 2025-12-12 | 2026-07-10 |
 | [Say Yes \(feat\. Rona Ray\)](https://open.spotify.com/track/5gUVHfISusTqmRZNiTnjpu) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Say Yes \(feat\. Rona Ray\)](https://open.spotify.com/album/3ZpyFFA6SMx5oIlXlhRcCx) | 2:37 | 2024-04-04 | 2024-09-19 |
 | [Sea Without Blue](https://open.spotify.com/track/1Qsdx0D4zH9bqvMyYhpV96) | [POLIÇA](https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ) | [When We Stay Alive](https://open.spotify.com/album/7IBhWoqJNbJtTityLHPYaT) | 3:00 | 2022-04-11 | 2022-10-28 |
 | [See Through](https://open.spotify.com/track/2o2nTbQ1LV0yycDLykgIHx) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO) | [See Through](https://open.spotify.com/album/2kXgvPzC5fX5kbbRChFOWl) | 3:31 | 2024-04-04 | 2024-09-23 |
@@ -440,6 +440,7 @@
 | [Talk](https://open.spotify.com/track/5qeIAwW9nhHzpiKkPHusPY) | [Noya Rao](https://open.spotify.com/artist/16XiowWxtn1LmT6aTMnzlv) | [Talk](https://open.spotify.com/album/4rBfvQhKA3aJ3rdKWtgE00) | 4:59 | 2021-12-07 | 2022-07-28 |
 | [The 1 you're looking 4 too / Show Love](https://open.spotify.com/track/4DqbTHcLG67mXV1AmIo6WI) | [Jack Wolff](https://open.spotify.com/artist/0jJwMd4KznBZXi2p5f6RQI) | [The 1 you're looking 4 too / Show Love](https://open.spotify.com/album/6Tq8BNAaITtJe0l2ZyV3ws) | 3:06 | 2021-12-07 | 2022-07-29 |
 | [The Basics](https://open.spotify.com/track/0Nj9CJflsNIuqgyThFfolU) | [Zaska](https://open.spotify.com/artist/3gzJlKscDvfqlV0z1B5g8k) | [The Basics](https://open.spotify.com/album/4W5NHc8dg3qSoZZoDG1zdB) | 3:25 | 2022-04-11 | 2022-04-20 |
+| [the bridge](https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [the bridge](https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z) | 3:53 | 2026-07-09 |  |
 | [The Choice \- Sofia Kourtesis Remix](https://open.spotify.com/track/3aL5D0PiRJlAU5uZGt9Eic) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [The Choice \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/1v5NVAGfBdlSiuDVUO6Csj) | 6:39 | 2025-12-12 | 2026-05-23 |
 | [The Corner I Painted Myself Into](https://open.spotify.com/track/7sJhhs2SPfoYPJETE6SV5V) | [namara](https://open.spotify.com/artist/1QHsDT2wf84okHcBKqf56A) | [The Corner I Painted Myself Into](https://open.spotify.com/album/2gzeAK0yBpIYrFDtcCtxaU) | 3:49 | 2022-04-11 | 2022-04-15 |
 | [The Mood](https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [The Mood](https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs) | 2:52 | 2025-08-28 |  |

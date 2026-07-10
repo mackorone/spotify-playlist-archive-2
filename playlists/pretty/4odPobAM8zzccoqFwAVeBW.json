@@ -6,8 +6,140 @@
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABNDPPJQhwVTnElGtkrdQmc/BZDZq+o",
+  "snapshot_id": "AABNGqvb018r1xEpnyWQjNO96FWA1Lj8",
   "tracks": [
+    {
+      "added_at": "2026-07-09 11:32:58",
+      "album": {
+        "name": "The Morning Of The Trip",
+        "url": "https://open.spotify.com/album/26AQrl6boR9gPuLcLIvC3u"
+      },
+      "artists": [
+        {
+          "name": "Andy Bell",
+          "url": "https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc"
+        },
+        {
+          "name": "Masal",
+          "url": "https://open.spotify.com/artist/57AGvkrbizJE4lN2c5KYSq"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "The Morning Of The Trip",
+      "url": "https://open.spotify.com/track/6qCUkoxdD19CwRxc8UqSiC"
+    },
+    {
+      "added_at": "2026-07-09 11:35:35",
+      "album": {
+        "name": "Faizoon",
+        "url": "https://open.spotify.com/album/6xjvyKbFZoyY9TfHU4XJ2F"
+      },
+      "artists": [
+        {
+          "name": "Lean Low",
+          "url": "https://open.spotify.com/artist/7A9q57PZ1UYY61rQVQKNUz"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Faizoon",
+      "url": "https://open.spotify.com/track/0qnnliA81BB5pHbDc9P2cC"
+    },
+    {
+      "added_at": "2026-07-09 11:34:41",
+      "album": {
+        "name": "Slime",
+        "url": "https://open.spotify.com/album/04W8vash5ytmvFO9u2lvSY"
+      },
+      "artists": [
+        {
+          "name": "Laughter",
+          "url": "https://open.spotify.com/artist/5zEmgwhR5Rha4crl1jW8HQ"
+        }
+      ],
+      "duration_ms": 230987,
+      "name": "Slime",
+      "url": "https://open.spotify.com/track/2fZ0ruvL1Wg26U5TkLI6lt"
+    },
+    {
+      "added_at": "2026-07-09 11:29:11",
+      "album": {
+        "name": "alhamdulillah",
+        "url": "https://open.spotify.com/album/2DaaOVMMdG3VeQ7tE5ahBq"
+      },
+      "artists": [
+        {
+          "name": "BAE BAE",
+          "url": "https://open.spotify.com/artist/1I8UXmyHIrwwX2fMKG0EQU"
+        }
+      ],
+      "duration_ms": 315013,
+      "name": "alhamdulillah",
+      "url": "https://open.spotify.com/track/3ykQVJlYeXExLnUmzUo850"
+    },
+    {
+      "added_at": "2026-07-09 11:34:25",
+      "album": {
+        "name": "Last of all Sleep",
+        "url": "https://open.spotify.com/album/1NKoemF3siDh4RkT5fiOvw"
+      },
+      "artists": [
+        {
+          "name": "Crumbling Ghost",
+          "url": "https://open.spotify.com/artist/1TCgPT3JAewdKKmU3ArCrl"
+        }
+      ],
+      "duration_ms": 234096,
+      "name": "Last of all Sleep",
+      "url": "https://open.spotify.com/track/5FngpBUeKK6E2rxXNJEYfS"
+    },
+    {
+      "added_at": "2026-07-09 11:34:06",
+      "album": {
+        "name": "Fear As A Gift",
+        "url": "https://open.spotify.com/album/0C4nP3Y8lSr6aDs21pCOcj"
+      },
+      "artists": [
+        {
+          "name": "The Easy Eight",
+          "url": "https://open.spotify.com/artist/0qfwGxm32YVXv8LxJeh3Yo"
+        }
+      ],
+      "duration_ms": 132466,
+      "name": "Fear As A Gift",
+      "url": "https://open.spotify.com/track/6QUXyASWPghbDjKWIIBZ27"
+    },
+    {
+      "added_at": "2026-07-09 11:35:54",
+      "album": {
+        "name": "Social Pressure",
+        "url": "https://open.spotify.com/album/5ZcVFKcRUkbBP8OFdGt9H6"
+      },
+      "artists": [
+        {
+          "name": "Crazy Clue",
+          "url": "https://open.spotify.com/artist/3E1x5YTXImUHE6DHbAyYLx"
+        }
+      ],
+      "duration_ms": 124375,
+      "name": "Social Pressure",
+      "url": "https://open.spotify.com/track/0TBBi9AdCuzpA1MuTrOk1f"
+    },
+    {
+      "added_at": "2026-07-09 11:36:06",
+      "album": {
+        "name": "Skydiver",
+        "url": "https://open.spotify.com/album/7dr2j70ZQWbn3YGfRENnSr"
+      },
+      "artists": [
+        {
+          "name": "The TSG",
+          "url": "https://open.spotify.com/artist/2XPARSRB6KHyP6qkpLJk4K"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Skydiver",
+      "url": "https://open.spotify.com/track/1l0BhUBIQD4TlZXPHTkTzj"
+    },
     {
       "added_at": "2026-07-03 09:49:08",
       "album": {

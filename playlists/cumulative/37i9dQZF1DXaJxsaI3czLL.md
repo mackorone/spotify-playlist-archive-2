@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-525 songs - 1 day 13 hr 13 min
+527 songs - 1 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Bedroom Dance](https://open.spotify.com/track/3LwKjqvW46q4SEcfl65fnP) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Bedroom Dance](https://open.spotify.com/album/2YeBGddpMrWz8QA2Vb12Ul) | 2:16 | 2026-04-03 | 2026-06-26 |
 | [Bedroom Talk](https://open.spotify.com/track/1Ppu2rlgrZz0pfcRl20vpC) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/0dOSO54LwPzxTUlnkEYxK1) | 3:21 | 2024-03-05 |  |
 | [Bedroom Talk](https://open.spotify.com/track/4mjO91PDIPlY5a9iYu3kzD) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) | 3:21 | 2023-06-13 | 2024-04-19 |
+| [Berceuse](https://open.spotify.com/track/7zG9qefGCuFmUdvPyxFuwD) | [Kanata yukino](https://open.spotify.com/artist/1kiSclwSQ9GYt5WOSL1kCl) | [Berceuse](https://open.spotify.com/album/2jzxuEms2gCyOtKCmNQ4Bw) | 3:01 | 2026-07-09 |  |
 | [Binetsu \(Autumn\)](https://open.spotify.com/track/6XEayKqPPoQ3QBMxihEBTr) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Binetsu \(Autumn\) / Honesty \(Session 1\)](https://open.spotify.com/album/4Tzdk99BwpNhilbHOCaNFp) | 4:58 | 2022-11-15 | 2022-11-23 |
 | [Blanket](https://open.spotify.com/track/69kYLxvCWgkWA6kUFdObtq) | [Umitaro Abe](https://open.spotify.com/artist/5JZautVqz7ojSZdWHldk7b), [Kaori Takeda](https://open.spotify.com/artist/7eXYitpmnte1BBdZZsmuHk) | [Blanket](https://open.spotify.com/album/4wZkCnUWUfZd2ZZmwq1GWl) | 2:24 | 2023-09-12 | 2023-10-04 |
 | [bless](https://open.spotify.com/track/5jHrTGJQ7Nw7XDOfd5N4CF) | [Tainaka Sachi](https://open.spotify.com/artist/5rY2Eeg72edCtV9S35mAhY), [YUKA](https://open.spotify.com/artist/6lzdZtpppU6ERZwqfhq1NJ) | [bless](https://open.spotify.com/album/3R2OcOFPS54VirGmQaTB3D) | 5:11 | 2024-02-27 |  |
@@ -129,7 +130,7 @@
 | [It Ain't Over](https://open.spotify.com/track/7xWKGIFGLxBJAyGSus7BOJ) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:59 | 2025-09-05 |  |
 | [It's OK](https://open.spotify.com/track/2cLSA6zzwBAkqncRpS3q5A) | [Wuinguin](https://open.spotify.com/artist/00N3aCj3lIPQW8hcPNFjRO) | [It's OK](https://open.spotify.com/album/5bwtyDdH57JJbkD3e8W6eJ) | 4:35 | 2023-06-20 | 2023-07-19 |
 | [ITAI](https://open.spotify.com/track/5Yz2Y881nKY5RXCwVflW67) | [Super Climbing Club](https://open.spotify.com/artist/34lmZs4w84HbiKjzknM3ab) | [ITAI](https://open.spotify.com/album/25ctr2SZq7WCsLUNWH7vkL) | 4:16 | 2024-01-30 | 2024-02-28 |
-| [ITAI](https://open.spotify.com/track/7q7eyW6Ivwh5GDDEQwsShh) | [スーパー登山部](https://open.spotify.com/artist/5evTVfgO40erEFI5qBxtQ9) | [ITAI](https://open.spotify.com/album/1iQaLxmV7ExoTtOoD5pQdx) | 4:16 | 2025-11-11 |  |
+| [ITAI](https://open.spotify.com/track/7q7eyW6Ivwh5GDDEQwsShh) | [スーパー登山部](https://open.spotify.com/artist/5evTVfgO40erEFI5qBxtQ9) | [ITAI](https://open.spotify.com/album/1iQaLxmV7ExoTtOoD5pQdx) | 4:16 | 2025-11-11 | 2026-07-10 |
 | [Kanashii Uta ga Aru Riyuu \- From THE FIRST TAKE](https://open.spotify.com/track/4nXxL11es8aPtbM04QSzKg) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Kanashii Uta ga Aru Riyuu \- From THE FIRST TAKE](https://open.spotify.com/album/24CQHbc6MxX248Mo92qqpO) | 5:57 | 2023-01-03 | 2023-05-31 |
 | [Karakai](https://open.spotify.com/track/1DFQpMVMM4esSg02Zj0Gx6) | [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ), [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Karakai](https://open.spotify.com/album/1Dy0En842kaMayp3M0ZD4w) | 4:02 | 2022-10-20 | 2024-04-19 |
 | [kid feat\. Yuga](https://open.spotify.com/track/7GMbDO1vB3nbUrPXnYeqkA) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf), [優河](https://open.spotify.com/artist/4Oy3S7MObkSt60p6D1qrua) | [from here to there](https://open.spotify.com/album/17kSaiO4qU3vigvTKPUJWU) | 4:13 | 2022-10-20 | 2022-11-09 |
@@ -196,6 +197,7 @@
 | [Nightfall](https://open.spotify.com/track/6GouUDqhYlz4D8A18osOwd) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Beat Installments](https://open.spotify.com/album/2UMNx3cmcaMPsMKViw4nS1) | 3:06 | 2023-01-26 | 2023-02-08 |
 | [Nights](https://open.spotify.com/track/25iGEuF3yz9m3LMU6deCJb) | [MLV LUNG](https://open.spotify.com/artist/7Fg0IzAh17pdIgOt6nSCWK) | [WAVES](https://open.spotify.com/album/6VPWyt3IzjcyEHW9M9xrhP) | 2:30 | 2023-08-29 | 2023-09-06 |
 | [Nobose](https://open.spotify.com/track/1n6W03okyF7dsmY83leZ6d) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 3:02 | 2023-03-30 | 2023-04-19 |
+| [Note of Mothership](https://open.spotify.com/track/2Qj1RsGrDD9laGR9QqrBvV) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [Note of Mothership](https://open.spotify.com/album/4VReJ4pdw1dOJzIq2p1hlf) | 2:58 | 2026-07-09 |  |
 | [Nothing \#2 \(feat\. Alex Siegel\)](https://open.spotify.com/track/3K7vtKv08nn7omt5S2d4eo) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb), [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [THE CHARM PARK II EXTRA](https://open.spotify.com/album/6yzc3XByJ7DRAJDKbDQ3hC) | 3:32 | 2023-12-07 | 2024-03-26 |
 | [Odakyu Line](https://open.spotify.com/track/0Fq7ovIDzp0swrLuSCR9WW) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [あにゅー](https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH) | 4:50 | 2026-04-03 |  |
 | [one window](https://open.spotify.com/track/1Gpvx7JZcjUEBm5PlpmHCe) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [one window](https://open.spotify.com/album/1FC4MalP7xTMrwnY0G1aav) | 3:46 | 2023-12-14 | 2024-01-31 |
@@ -449,7 +451,7 @@
 | [星明かりのトロイメライ](https://open.spotify.com/track/1PGaIt3b8ABOLZDZN0WKZS) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [ただいま](https://open.spotify.com/album/4YybvOoOrXps18hLkrsrEB) | 5:29 | 2024-03-05 | 2025-05-14 |
 | [星空のクリスマス](https://open.spotify.com/track/6Ma1w1UOKocjW1qDiDZfMk) | [Akane Irihi](https://open.spotify.com/artist/2N0lFQ7S1GpMvmTxamY0Ww) | [星空のクリスマス](https://open.spotify.com/album/0EAps7DuInxzcYl3oGRDgY) | 4:08 | 2022-12-20 | 2022-12-28 |
 | [春にして君を想う \- 2023 Remaster](https://open.spotify.com/track/5BHGLIAY6suHlO4G8mlcTe) | [Ozawa Kenji](https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I) | [春にして君を想う \(2023 Remaster\)](https://open.spotify.com/album/6Dvay3MPtCgstPLnpSJk6B) | 4:33 | 2023-06-20 | 2023-08-27 |
-| [時の解決](https://open.spotify.com/track/7KmjtQirbhpj3aeLu3BA7l) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [景色一空](https://open.spotify.com/album/2XAZByUJaGLU5E60QB3zKb) | 6:16 | 2023-10-17 |  |
+| [時の解決](https://open.spotify.com/track/7KmjtQirbhpj3aeLu3BA7l) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [景色一空](https://open.spotify.com/album/2XAZByUJaGLU5E60QB3zKb) | 6:16 | 2023-10-17 | 2026-07-10 |
 | [時の道標](https://open.spotify.com/track/1PJwg7N6psEi0XUHei8lZP) | [Hiroko Yakushimaru](https://open.spotify.com/artist/1QXFMGfCga8qSyUtVmjXrE) | [時の道標](https://open.spotify.com/album/30sM6PpUwOD3RAU32h3Ajm) | 5:36 | 2023-12-12 | 2023-12-14 |
 | [時計は眠い](https://open.spotify.com/track/4rkqxglseRrle9pYAw0mdv) | [Beautiful Hummingbird](https://open.spotify.com/artist/3arFktQQIVQR0QL2HiYrD4) | [時計は眠い](https://open.spotify.com/album/7a2bho1Rns2X9K3ec6WBKB) | 4:28 | 2022-12-13 | 2022-12-21 |
 | [景色一空](https://open.spotify.com/track/3CfgUhEuuWhwQRkj60SjbY) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [景色一空](https://open.spotify.com/album/6gyGX7WrIQKwOWGZHFHgJu) | 4:47 | 2023-10-10 | 2023-12-02 |

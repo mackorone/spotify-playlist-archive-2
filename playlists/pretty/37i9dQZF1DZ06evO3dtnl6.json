@@ -1,12 +1,12 @@
 {
   "description": "This is Gregory Alan Isakov. The essential tracks, all in one playlist.",
-  "num_followers": 81001,
+  "num_followers": 81024,
   "original_name": "This Is Gregory Alan Isakov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAC9bOXfQcZi2GqHd/D0WMFK",
+  "snapshot_id": "ak2TAAAAAACulJGuRUrPwQXMwIObtuWL",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/0ymCOKHMKGzUS0Pv0MLpgv"
+        "name": "The Weatherman",
+        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
       },
       "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        },
         {
           "name": "Gregory Alan Isakov",
           "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 240629,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1VO8Kwv6w3Yk1O1NMwNlba"
+      "duration_ms": 236653,
+      "name": "Suitcase Full of Sparks",
+      "url": "https://open.spotify.com/track/6qfg00bGlM1dQJwq08lZGi"
     },
     {
       "added_at": null,
@@ -243,6 +239,26 @@
       "duration_ms": 207586,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/4a6XLiY6PQmsUufWTDgrXc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/0ymCOKHMKGzUS0Pv0MLpgv"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        },
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 240629,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1VO8Kwv6w3Yk1O1NMwNlba"
     },
     {
       "added_at": null,
@@ -272,9 +288,9 @@
           "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 236653,
-      "name": "Suitcase Full of Sparks",
-      "url": "https://open.spotify.com/track/6qfg00bGlM1dQJwq08lZGi"
+      "duration_ms": 167533,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/76PS07wzG7zYMy8rHPjL2t"
     },
     {
       "added_at": null,
@@ -331,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Weatherman",
-        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 167533,
-      "name": "Time Will Tell",
-      "url": "https://open.spotify.com/track/76PS07wzG7zYMy8rHPjL2t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Appaloosa Bones",
         "url": "https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM"
       },
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Empty Northern Hemisphere",
-        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Dandelion Wine",
-      "url": "https://open.spotify.com/track/5AeoHJUx0PJXAzN425xryh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Weatherman",
         "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
       },
@@ -411,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Empty Northern Hemisphere",
+        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Dandelion Wine",
+      "url": "https://open.spotify.com/track/5AeoHJUx0PJXAzN425xryh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Evening Machines",
         "url": "https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 139240,
       "name": "Southern Star",
       "url": "https://open.spotify.com/track/3mKVJRnHIK6y97At1clkMI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Appaloosa Bones",
-        "url": "https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 183520,
-      "name": "Miles to Go",
-      "url": "https://open.spotify.com/track/3S3EJYLXPjao3vviYt3QVC"
     },
     {
       "added_at": null,
@@ -475,6 +459,22 @@
       "duration_ms": 191080,
       "name": "Honey, It's Alright",
       "url": "https://open.spotify.com/track/5BTHMC1yaJGHmUi2nRpXfq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Appaloosa Bones",
+        "url": "https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 183520,
+      "name": "Miles to Go",
+      "url": "https://open.spotify.com/track/3S3EJYLXPjao3vviYt3QVC"
     },
     {
       "added_at": null,
@@ -611,6 +611,26 @@
       "duration_ms": 293560,
       "name": "That Sea, The Gambler",
       "url": "https://open.spotify.com/track/12VXe2fhXFRtnU2k1imuCW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Surprises (feat. Gregory Alan Isakov)",
+        "url": "https://open.spotify.com/album/3NzR0FrJVJsw1vF2TfUPQc"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Fraites",
+          "url": "https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly"
+        },
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 257290,
+      "name": "No Surprises (feat. Gregory Alan Isakov)",
+      "url": "https://open.spotify.com/track/0ur0BoMX0LcblJzYsQxAS1"
     },
     {
       "added_at": null,

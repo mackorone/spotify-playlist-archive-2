@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 382873,
+  "num_followers": 382935,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
+      },
+      "artists": [
+        {
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+        }
+      ],
+      "duration_ms": 230792,
+      "name": "Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
+    },
+    {
+      "added_at": "2026-03-13 19:15:18",
+      "album": {
         "name": "Ora\u00e7\u00e3o De Gratid\u00e3o",
         "url": "https://open.spotify.com/album/0zyRK8liOTanEtFqhQTnI5"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 236031,
       "name": "Ora\u00e7\u00e3o De Gratid\u00e3o",
       "url": "https://open.spotify.com/track/2BrZxM2Acd5g3iESZMV37m"
-    },
-    {
-      "added_at": "2026-03-13 19:15:18",
-      "album": {
-        "name": "Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
-      },
-      "artists": [
-        {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
-        }
-      ],
-      "duration_ms": 230792,
-      "name": "Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
     },
     {
       "added_at": "2026-03-13 19:15:18",

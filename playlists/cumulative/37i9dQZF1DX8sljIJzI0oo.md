@@ -2,9 +2,9 @@
 
 ### [Fuego](https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo)
 
-> Yan Block is bringing the heat this week\. Tap in every Thursday for a fresh Fuego mixtape.
+> Jimmy Guzman is bringing the heat this week\. Tap in every Thursday for a fresh Fuego mixtape.
 
-2,929 songs - 6 day 13 hr 13 min
+2,930 songs - 6 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1251,6 +1251,7 @@
 | [intoxicao](https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:48 | 2022-06-10 | 2022-06-18 |
 | [Intro \- Freestyle](https://open.spotify.com/track/2iYEvhbfp2sY2oU2DT0FGF) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Yo Soy la Fama](https://open.spotify.com/album/1Kh36gr6wF5KfF2oGTKTSX) | 2:28 | 2023-03-16 | 2023-03-25 |
 | [Intro: THE GOAT](https://open.spotify.com/track/7s0YftbAtOPmkyWKjq6HA0) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [THE GOAT](https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb) | 2:04 | 2024-06-28 | 2024-07-05 |
+| [Intuición](https://open.spotify.com/track/47vYCMjh9YzQAvZSEFe7Uv) | [Jimmy Guzman](https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr) | [Intuición](https://open.spotify.com/album/28bPKJ84oK7VV8xZz4yUPm) | 3:02 | 2026-07-09 |  |
 | [Invítame A Un Café](https://open.spotify.com/track/5gv6rmOzIQkC6CHbelz60d) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Invítame A Un Café](https://open.spotify.com/album/6c8d7PNLIYu4Mfyf6J9SK5) | 3:07 | 2023-06-29 | 2023-07-07 |
 | [Isla Desierta](https://open.spotify.com/track/6p1KlApHJz7BwwyLmbAYHI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 2:53 | 2023-08-10 | 2023-08-18 |
 | [Ivonny Bonita](https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:42 | 2025-07-31 | 2025-08-10 |
@@ -1777,7 +1778,7 @@
 | [NEVER](https://open.spotify.com/track/0fuZXDaYup3EjXymo37H7E) | [Spotify](https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV) | [Haunted Playlist](https://open.spotify.com/album/1fJit1paD5pTbrMQZpZ2N1) | 0:15 | 2023-10-24 | 2023-11-02 |
 | [Neverita](https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:53 | 2022-05-20 | 2024-12-03 |
 | [NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:15 | 2022-01-31 | 2022-02-18 |
-| [New Things](https://open.spotify.com/track/031ZcJo8TyET61X2gdghf5) | [Dariel Amant](https://open.spotify.com/artist/6OWA7HFYDoWkb1iv31uwMo) | [El Amante](https://open.spotify.com/album/1PaBmH1vaPr6H8I4OHMHyG) | 3:01 | 2026-05-15 |  |
+| [New Things](https://open.spotify.com/track/031ZcJo8TyET61X2gdghf5) | [Dariel Amant](https://open.spotify.com/artist/6OWA7HFYDoWkb1iv31uwMo) | [El Amante](https://open.spotify.com/album/1PaBmH1vaPr6H8I4OHMHyG) | 3:01 | 2026-05-15 | 2026-07-10 |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-29 | 2024-09-06 |
 | [NEXTD00R\*](https://open.spotify.com/track/270B1goEV5felDbUvf0Ssz) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [LA CIUDAD NUNCA DUERME\*](https://open.spotify.com/album/6q0eNeShaKS7mRom4HunuI) | 2:58 | 2026-03-19 | 2026-03-27 |
 | [NI BIEN NI MAL](https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:56 | 2022-07-08 | 2022-07-16 |

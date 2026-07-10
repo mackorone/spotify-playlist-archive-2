@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: RAVA, Antonia ",
+  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: NANE",
   "name": "Suflet + Sunet",
   "tracks": [
     {
@@ -508,6 +508,24 @@
       "duration_ms": 180086,
       "name": "Anxius",
       "url": "https://open.spotify.com/track/0yQDfUIZTZDofXxCTIf8Gq"
+    },
+    {
+      "album": {
+        "name": "APROAPE",
+        "url": "https://open.spotify.com/album/3klLLkxu7x1EfgljSJvkGF"
+      },
+      "artists": [
+        {
+          "name": "Marko Glass",
+          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "APROAPE",
+      "url": "https://open.spotify.com/track/3CjCSYYdjTgYZ89sjvJVKu"
     },
     {
       "album": {
@@ -3628,7 +3646,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 192890,
       "name": "Morgana",
       "url": "https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq"
@@ -4757,6 +4775,24 @@
     },
     {
       "album": {
+        "name": "SEAR\u0102 DE FILM",
+        "url": "https://open.spotify.com/album/55pKeqNMD2YM9Ne2uXvJLW"
+      },
+      "artists": [
+        {
+          "name": "NANE",
+          "url": "https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154736,
+      "name": "SEAR\u0102 DE FILM",
+      "url": "https://open.spotify.com/track/0lP89B0jpETXLIZDavpdQW"
+    },
+    {
+      "album": {
         "name": "Sentimente din stilou",
         "url": "https://open.spotify.com/album/1uM5JZSpMpiWG0GEGhfMZw"
       },
@@ -5082,7 +5118,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 145919,
       "name": "Storage Full",
       "url": "https://open.spotify.com/track/0MBXFQ3RXIdWqP6t6Mijrb"

@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 484605,
+  "num_followers": 484600,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Recycle",
-        "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
-      },
-      "artists": [
-        {
-          "name": "loren north",
-          "url": "https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr"
-        }
-      ],
-      "duration_ms": 204342,
-      "name": "Recycle",
-      "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "MOVING ON",
         "url": "https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 248000,
       "name": "MOVING ON",
       "url": "https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "Recycle",
+        "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
+      },
+      "artists": [
+        {
+          "name": "loren north",
+          "url": "https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr"
+        }
+      ],
+      "duration_ms": 204342,
+      "name": "Recycle",
+      "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/5DCOPvYMwUPv0UCoFVD1hl"
-      },
-      "artists": [
-        {
-          "name": "Bones and Jones",
-          "url": "https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4"
-        }
-      ],
-      "duration_ms": 275962,
-      "name": "Peace In Me",
-      "url": "https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "Lara",
         "url": "https://open.spotify.com/album/0Y2mQu3eGq3dry8Ko9A74Q"
       },
@@ -1163,22 +1147,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Tommy Bahama",
-        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
-      },
-      "artists": [
-        {
-          "name": "Sebimor",
-          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
-        }
-      ],
-      "duration_ms": 229963,
-      "name": "Tommy Bahama",
-      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "Can You See The Sunshine? (EP)",
         "url": "https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC"
       },
@@ -1191,6 +1159,38 @@
       "duration_ms": 205376,
       "name": "Couch Sex",
       "url": "https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/5DCOPvYMwUPv0UCoFVD1hl"
+      },
+      "artists": [
+        {
+          "name": "Bones and Jones",
+          "url": "https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4"
+        }
+      ],
+      "duration_ms": 275962,
+      "name": "Peace In Me",
+      "url": "https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "Tommy Bahama",
+        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
+      },
+      "artists": [
+        {
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+        }
+      ],
+      "duration_ms": 229963,
+      "name": "Tommy Bahama",
+      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
     },
     {
       "added_at": "2026-04-09 14:00:34",

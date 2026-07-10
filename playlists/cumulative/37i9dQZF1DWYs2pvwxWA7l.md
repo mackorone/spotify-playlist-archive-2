@@ -4,7 +4,7 @@
 
 > The hottest Afropop records on the planet\.  Cover: Joshua Baraka
 
-812 songs - 1 day 17 hr 4 min
+814 songs - 1 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Apollo](https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:50 | 2022-06-08 | 2023-02-17 |
 | [Apollo](https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Apollo](https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz) | 2:50 | 2022-03-11 | 2022-12-18 |
 | [ARABAMBI](https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [ARABAMBI](https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1) | 3:10 | 2024-06-14 | 2024-09-10 |
-| [Arike \- Remix](https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Arike \(Remix\)](https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3) | 2:26 | 2025-07-18 |  |
+| [Arike \- Remix](https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Arike \(Remix\)](https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3) | 2:26 | 2025-07-18 | 2026-07-10 |
 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 | 2023-11-24 | 2024-07-08 |
 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 | 2024-03-22 | 2025-06-06 |
 | [Asali Mbichi](https://open.spotify.com/track/322gkQbDgQKstkJBCDIHo8) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Asali Mbichi](https://open.spotify.com/album/62onFHsinkH7RuIfFjkmfy) | 3:34 | 2025-07-18 | 2025-08-01 |
@@ -309,6 +309,7 @@
 | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf) | 2:54 | 2023-12-08 | 2024-09-10 |
 | [Happy](https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Happy](https://open.spotify.com/album/6h0gTnUQ4Af24CpoCQrYrN) | 3:02 | 2024-04-05 | 2024-04-26 |
 | [Heartbeat](https://open.spotify.com/track/0vdnJkU6Je0JkQs74RqhMi) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Heartbeat](https://open.spotify.com/album/4zoauodf0HkYb5RTQXB0OD) | 3:04 | 2022-02-24 | 2022-04-01 |
+| [Heaven On Earth](https://open.spotify.com/track/7r9qkWxCONSuZ3tDYrIBFi) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Heaven On Earth](https://open.spotify.com/album/3EZETRmlze91iyz6HoyHfX) | 3:55 | 2026-07-10 |  |
 | [hell and back](https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 2:41 | 2024-09-09 |  |
 | [Hello](https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Hello](https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr) | 2:50 | 2026-05-18 |  |
 | [Hennessy \- Remix](https://open.spotify.com/track/6B6yXEraBwQVlTdqtT03Lx) | [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Hennessy \(Remix\)](https://open.spotify.com/album/0nZh7vzE6SPFK7qQckplwZ) | 3:03 | 2022-06-23 | 2022-07-22 |
@@ -324,6 +325,7 @@
 | [Holy Ghost](https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Holy Ghost](https://open.spotify.com/album/5y1s96lknw32i5O1OObkhg) | 3:06 | 2023-11-10 | 2024-04-19 |
 | [Holy Ghost](https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Holy Ghost](https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm) | 3:06 | 2024-04-12 | 2024-09-10 |
 | [Hot Body](https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hot Body](https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z) | 2:40 | 2025-07-25 | 2026-05-19 |
+| [Hot Like You](https://open.spotify.com/track/2nYHjEx9E1OpMnehHOTspo) | [Sol Generation](https://open.spotify.com/artist/1RtDEotXrlKLQtHlnQJ7bX), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Hot Like You](https://open.spotify.com/album/7qZ4gXpWsgc2ob6Vqeudlr) | 2:41 | 2026-07-10 |  |
 | [HOW ARE YOU](https://open.spotify.com/track/3RtoMZxgC3lpyfxmZ29Rpu) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [HOW ARE YOU](https://open.spotify.com/album/1teBLhL3UsOfKJtMTntTvs) | 2:38 | 2025-11-04 | 2026-02-09 |
 | [How Are You \(My Friend\)](https://open.spotify.com/track/2QdqML21AFaQPWxmhuv1KW) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [How Are You \(My Friend\)](https://open.spotify.com/album/2h9jc7KGoE0qDayuf6o7pq) | 3:16 | 2022-10-13 | 2023-02-10 |
 | [How I Do](https://open.spotify.com/track/2aYT3G5pZ0lMDBngs5WLM0) | [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf) | [How I Do](https://open.spotify.com/album/0hwJoDUPcrYPZ0Yw1gqOtw) | 2:36 | 2023-06-02 | 2023-06-10 |
@@ -449,7 +451,7 @@
 | [Low Waist](https://open.spotify.com/track/5rb99A8aR2scVXSLIbLAft) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Low Waist](https://open.spotify.com/album/48xKnLRBNSajT7mcP4zdTb) | 3:01 | 2023-10-04 | 2023-10-20 |
 | [Lowkey!](https://open.spotify.com/track/5GEJ9JlbSlPleQU3yb2P5y) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Lowkey!](https://open.spotify.com/album/55IMTrO086EYoxCqFksLIA) | 3:33 | 2023-11-08 | 2024-06-01 |
 | [Loyalty](https://open.spotify.com/track/2oOr7XZmuqYTdmCnC5qQsC) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Loyalty](https://open.spotify.com/album/1xaW0G0ccKSbUuHfYGVhbL) | 2:47 | 2021-12-16 | 2022-06-19 |
-| [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 | 2024-06-07 |  |
+| [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 | 2024-06-07 | 2026-07-10 |
 | [Luvaluvah](https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:50 | 2025-06-20 |  |
 | [M.O.T.O](https://open.spotify.com/track/13RrmTzCsknCAV7jb1hPnx) | [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ), [SUNS3T](https://open.spotify.com/artist/5W3JLL9j3Xwn9wScCLFHSt) | [M.O.T.O](https://open.spotify.com/album/1z3vDn9mlXrNfJgXeXIdwb) | 3:19 | 2025-11-28 | 2025-12-05 |
 | [Ma Cherie](https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Ma Cherie](https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr) | 2:52 | 2023-10-27 | 2024-06-01 |

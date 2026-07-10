@@ -2,9 +2,9 @@
 
 ### [HOUSE MUSIC 2026: Future Dance Hits, House & Deep Beats  🎶](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
 
-> The best House Music of 2026! Featuring pulsating beats, high\-energy electronic dance tracks, and a mix of iconic artists like David Guetta, FISHER, Peggy Gou, and emerging talents\. Perfect for parties, workouts, or just chilling\. Updated weekly! Like and save this ultimate House playlist!
+> Dive into the best House Music &amp; Electronic Dance hits\. Featuring energetic beats from David Guetta, Calvin Harris, &amp; Fisher\. Perfect for parties, workouts, or feel\-good vibes\. Updated Weekly! Like &amp; Save for your next groove.
 
-541 songs - 1 day 3 hr 4 min
+542 songs - 1 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Joyride \(feat\. Kyle Reynolds\)](https://open.spotify.com/track/4yh0WPQgbBAXitxDTf9hZ8) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Joyride \(feat\. Kyle Reynolds\)](https://open.spotify.com/album/0akckUxwan3l9oA8ZHgwDj) | 2:42 | 2023-11-03 | 2024-07-27 |
 | [Jump](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC) | [Jump](https://open.spotify.com/album/6RyWbtser6LYefUpnemhIO) | 2:33 | 2024-04-12 | 2026-03-28 |
 | [Jump Higher](https://open.spotify.com/track/1P4uI6cVv6RgiW1NpJGBjB) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Danny P](https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd) | [Jump Higher](https://open.spotify.com/album/3dpGcHNwIkkcC0Ead79yzw) | 2:56 | 2025-11-21 |  |
+| [Just A Little \(feat\. Sam Harper\)](https://open.spotify.com/track/0H24VNZsFn9zoFycCHYQu3) | [Justė](https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Just A Little \(feat\. Sam Harper\)](https://open.spotify.com/album/5ZtlB4gohuljxSsWTuy2Ih) | 2:22 | 2026-07-09 |  |
 | [Just Friends](https://open.spotify.com/track/6RZrkpfwp705Vz9iZ3wLvk) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Just Friends](https://open.spotify.com/album/3J27ChDQ7pKkytOFfSvyYB) | 2:46 | 2024-02-02 | 2025-11-22 |
 | [Just The Way You Are](https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Just The Way You Are](https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y) | 2:39 | 2026-02-13 | 2026-04-18 |
 | [Keep Needing](https://open.spotify.com/track/3M3zORX9rvpSLZqEmOAvj1) | [Sarah Story](https://open.spotify.com/artist/6yyACKZEH3neKNMrBW7zbt), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Keep Needing](https://open.spotify.com/album/1AUyxsXcDe6pHK8y0DJhmJ) | 4:02 | 2025-09-19 | 2025-10-04 |

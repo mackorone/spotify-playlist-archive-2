@@ -1,12 +1,12 @@
 {
   "description": "This is John Williams. The essential tracks, all in one playlist.",
-  "num_followers": 232152,
+  "num_followers": 232156,
   "original_name": "This Is John Williams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAAgm3X7AQ78yYuc+6Kp2sWt",
+  "snapshot_id": "ak2TAAAAAAAIa04KpOpPxrNGtgyl+mRH",
   "tracks": [
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 225666,
-      "name": "Fawkes the Phoenix",
-      "url": "https://open.spotify.com/track/1m4ZjbibTvvmYIJyXAIuxv"
+      "duration_ms": 308200,
+      "name": "Reunion of Friends",
+      "url": "https://open.spotify.com/track/0rpSIjKSmZ2SFO6vmLJpXl"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 308200,
-      "name": "Reunion of Friends",
-      "url": "https://open.spotify.com/track/0rpSIjKSmZ2SFO6vmLJpXl"
+      "duration_ms": 225666,
+      "name": "Fawkes the Phoenix",
+      "url": "https://open.spotify.com/track/1m4ZjbibTvvmYIJyXAIuxv"
     },
     {
       "added_at": null,
@@ -423,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 97226,
+      "name": "Double Trouble",
+      "url": "https://open.spotify.com/track/1woL1W9wp2tKz9cFyc4NUm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 164306,
       "name": "Cantina Band",
       "url": "https://open.spotify.com/track/5ZSAdkQb23NPIcUGt6exdm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 97226,
-      "name": "Double Trouble",
-      "url": "https://open.spotify.com/track/1woL1W9wp2tKz9cFyc4NUm"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jurassic Park",
-        "url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 474933,
-      "name": "Welcome To Jurassic Park",
-      "url": "https://open.spotify.com/track/7MW1YzseA4CGfrZMBLqQWK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 72680,
       "name": "The Patronus Light",
       "url": "https://open.spotify.com/track/59xohjlL8uhdil8UEMIN76"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jurassic Park",
+        "url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 474933,
+      "name": "Welcome To Jurassic Park",
+      "url": "https://open.spotify.com/track/7MW1YzseA4CGfrZMBLqQWK"
     },
     {
       "added_at": null,
@@ -571,6 +571,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 107960,
+      "name": "Knockturn Alley",
+      "url": "https://open.spotify.com/track/717XC5okeGGuLAXCzcWZLS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cinema Serenade",
+        "url": "https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq"
+      },
+      "artists": [
+        {
+          "name": "Carlos Gardel",
+          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Pittsburgh Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Scent of a Woman: Tango (Por Una Cabeza)",
+      "url": "https://open.spotify.com/track/3mGkPsZbHEBf8ZT1ExZnww"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jurassic Park",
         "url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
       },
@@ -616,37 +660,9 @@
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 107960,
-      "name": "Knockturn Alley",
-      "url": "https://open.spotify.com/track/717XC5okeGGuLAXCzcWZLS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cinema Serenade",
-        "url": "https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq"
-      },
-      "artists": [
-        {
-          "name": "Carlos Gardel",
-          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Pittsburgh Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Scent of a Woman: Tango (Por Una Cabeza)",
-      "url": "https://open.spotify.com/track/3mGkPsZbHEBf8ZT1ExZnww"
+      "duration_ms": 125973,
+      "name": "Gilderoy Lockhart",
+      "url": "https://open.spotify.com/track/4Fproek7uXgqMyUgCFJcWt"
     },
     {
       "added_at": null,
@@ -679,22 +695,6 @@
       "duration_ms": 370266,
       "name": "Hymn To The Fallen - From \"Saving Private Ryan\" Soundtrack",
       "url": "https://open.spotify.com/track/71zPpqRMdkEUCl7cPQIBrV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 125973,
-      "name": "Gilderoy Lockhart",
-      "url": "https://open.spotify.com/track/4Fproek7uXgqMyUgCFJcWt"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Obi-Wan Kenobi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 246520,
+      "name": "Obi-Wan",
+      "url": "https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
       },
@@ -779,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obi-Wan Kenobi (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma"
+        "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
       },
       "artists": [
         {
           "name": "John Williams",
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         }
       ],
-      "duration_ms": 246520,
-      "name": "Obi-Wan",
-      "url": "https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb"
+      "duration_ms": 334426,
+      "name": "The Throne Room and End Title",
+      "url": "https://open.spotify.com/track/3HjDvnmiTLKaDalq4u2Hem"
     },
     {
       "added_at": null,
@@ -823,42 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 334426,
-      "name": "The Throne Room and End Title",
-      "url": "https://open.spotify.com/track/3HjDvnmiTLKaDalq4u2Hem"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Disclosure Day (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3KUEZUv5r736E70poNm7Eu"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 144589,
-      "name": "empathy\u2026",
-      "url": "https://open.spotify.com/track/1MTGaIAQ1SsxZEDuB15sjL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Schindler's List",
         "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
       },
@@ -883,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jurassic Park",
-        "url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
+        "name": "Disclosure Day (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3KUEZUv5r736E70poNm7Eu"
       },
       "artists": [
         {
@@ -892,9 +876,9 @@
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 532706,
-      "name": "Journey To The Island",
-      "url": "https://open.spotify.com/track/0QCvok3TPhk7JhQF0gYmBw"
+      "duration_ms": 144589,
+      "name": "empathy\u2026",
+      "url": "https://open.spotify.com/track/1MTGaIAQ1SsxZEDuB15sjL"
     },
     {
       "added_at": null,
@@ -919,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disclosure Day (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3KUEZUv5r736E70poNm7Eu"
+        "name": "Jurassic Park",
+        "url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
       },
       "artists": [
         {
@@ -928,9 +912,25 @@
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 247592,
-      "name": "memory\u2026",
-      "url": "https://open.spotify.com/track/44D5rXa6zh1KIPnhMjqKsG"
+      "duration_ms": 532706,
+      "name": "Journey To The Island",
+      "url": "https://open.spotify.com/track/0QCvok3TPhk7JhQF0gYmBw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Superman: The Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7Hlfql6zSPcQGyZZ6TY5jO"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 264293,
+      "name": "Theme from Superman - Concert Version",
+      "url": "https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ"
     }
   ],
   "unique_name": "This Is John Williams",

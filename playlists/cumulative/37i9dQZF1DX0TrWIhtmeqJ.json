@@ -312,7 +312,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 208032,
       "name": "BACKWARDS, INTO U",
       "url": "https://open.spotify.com/track/7cUQQ8eWY2RBBnU4N3DaG7"
@@ -820,10 +820,28 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 266171,
       "name": "Crocodile Woman",
       "url": "https://open.spotify.com/track/4UusBRHn8xwrFS9Uokutcz"
+    },
+    {
+      "album": {
+        "name": "Dare You/N2S",
+        "url": "https://open.spotify.com/album/5RaZ81hlhuq2Pa0R6kOxV6"
+      },
+      "artists": [
+        {
+          "name": "Jav\u00e1n",
+          "url": "https://open.spotify.com/artist/5Q3s71M9YsjdQNa0NTkzkE"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149976,
+      "name": "Dare You/N2S",
+      "url": "https://open.spotify.com/track/1lGlrfpVqRoSRhHaq9V3sn"
     },
     {
       "album": {
@@ -868,6 +886,28 @@
       "duration_ms": 137000,
       "name": "Debut",
       "url": "https://open.spotify.com/track/1UZJ4hNtLJSctGQi41zqLN"
+    },
+    {
+      "album": {
+        "name": "Far Away Grass",
+        "url": "https://open.spotify.com/album/3ZwBGCPjYBtpyS6z55IWU3"
+      },
+      "artists": [
+        {
+          "name": "Niall Tarmey",
+          "url": "https://open.spotify.com/artist/0mkGsPDIeYwlu3AphfXLmJ"
+        },
+        {
+          "name": "Oakruled",
+          "url": "https://open.spotify.com/artist/1qRVS1GgGkNSbqfgOz1o3R"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194291,
+      "name": "DEGENERATE",
+      "url": "https://open.spotify.com/track/6yhRDR8pjoEIXJBOxsijW0"
     },
     {
       "album": {
@@ -918,7 +958,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 188026,
       "name": "Devil In Disguise",
       "url": "https://open.spotify.com/track/0SeiW54NQCIWZkD3dSK3cA"
@@ -1282,7 +1322,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 118235,
       "name": "Favela",
       "url": "https://open.spotify.com/track/0eTBOGiX3nHdoUkP3QcqDA"
@@ -1412,6 +1452,24 @@
       "duration_ms": 198071,
       "name": "Fucking City",
       "url": "https://open.spotify.com/track/0QHZKuclgLPqxLaubCQFGU"
+    },
+    {
+      "album": {
+        "name": "future millionaire (couldn't care less)",
+        "url": "https://open.spotify.com/album/0UIzQ1OStPtWn6vL2uQyds"
+      },
+      "artists": [
+        {
+          "name": "Heroic Dragon",
+          "url": "https://open.spotify.com/artist/4d1z8SbLjVUT8qd7kMvBdk"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113956,
+      "name": "future millionaire (couldn't care less)",
+      "url": "https://open.spotify.com/track/3tu97lTFhy5Xz2ZiUqN4zQ"
     },
     {
       "album": {
@@ -1810,7 +1868,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 99428,
       "name": "I TRY MY BEST",
       "url": "https://open.spotify.com/track/6rUUQ0mnzcd5jgBnQi0Mlg"
@@ -2747,6 +2805,24 @@
     },
     {
       "album": {
+        "name": "Reaching",
+        "url": "https://open.spotify.com/album/1QbU6iDI8cC2RNJyMUqPXj"
+      },
+      "artists": [
+        {
+          "name": "IMVN",
+          "url": "https://open.spotify.com/artist/0zvjAHqFkgoiQb5y5EBF6w"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157251,
+      "name": "Reaching",
+      "url": "https://open.spotify.com/track/6Kjgp8Fcmyvqn2sfZcs0nN"
+    },
+    {
+      "album": {
         "name": "rectangles",
         "url": "https://open.spotify.com/album/6J3ygrQ3WnVyiQEb6hcQKm"
       },
@@ -3072,7 +3148,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 98746,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/6wNsQL63SDzUv3AWjiBL0c"
@@ -3723,6 +3799,24 @@
     },
     {
       "album": {
+        "name": "too many days i've spent waiting",
+        "url": "https://open.spotify.com/album/41RwHIbfWogg6NWsdotsvV"
+      },
+      "artists": [
+        {
+          "name": "BEASTIE",
+          "url": "https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "too many days i've spent waiting",
+      "url": "https://open.spotify.com/track/6NaWF1PFEmq0dSv4GDq6Aj"
+    },
+    {
+      "album": {
         "name": "Top 3",
         "url": "https://open.spotify.com/album/2sgcUUQ4UQ2XUbrduYisme"
       },
@@ -3818,6 +3912,24 @@
       "duration_ms": 173714,
       "name": "Trippin'",
       "url": "https://open.spotify.com/track/22sUkuhndJu54imupWXb6p"
+    },
+    {
+      "album": {
+        "name": "trust in u",
+        "url": "https://open.spotify.com/album/6FLmKsftSYNQgK3B1FUIr5"
+      },
+      "artists": [
+        {
+          "name": "Trtl",
+          "url": "https://open.spotify.com/artist/5hl4Ds8m0VaToEbZOQDE32"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170434,
+      "name": "trust in u",
+      "url": "https://open.spotify.com/track/6zytMRFFNCcXR1P5SYBXhn"
     },
     {
       "album": {

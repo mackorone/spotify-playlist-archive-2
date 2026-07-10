@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123578,
+  "num_followers": 123571,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVjlMklEk2LXBG5GH07chjk9zL4tIj",
+  "snapshot_id": "AAAVkILxQDv4Lm4prWcjJA97H5fZqXaZ",
   "tracks": [
+    {
+      "added_at": "2026-07-09 16:43:08",
+      "album": {
+        "name": "Nevada (Anniversary Remixes)",
+        "url": "https://open.spotify.com/album/1huKUeG2EHRLtqgQ5HqUx2"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        },
+        {
+          "name": "Cozi Zuehlsdorff",
+          "url": "https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "Nevada - Dubstep Mix",
+      "url": "https://open.spotify.com/track/1rYzYVcBW8IIWYZhZrbdeB"
+    },
     {
       "added_at": "2026-07-08 14:15:58",
       "album": {
@@ -1183,150 +1203,6 @@
       "duration_ms": 240000,
       "name": "funk of the week",
       "url": "https://open.spotify.com/track/6a53HroJufw9yjFfc9q6jy"
-    },
-    {
-      "added_at": "2026-04-06 14:31:08",
-      "album": {
-        "name": "Funk Star (Be Polite)",
-        "url": "https://open.spotify.com/album/2gfygIWZMm03LA0MZyTLsq"
-      },
-      "artists": [
-        {
-          "name": "Synthetic",
-          "url": "https://open.spotify.com/artist/3Xg0BvwpDq7msnpXMtX1x4"
-        },
-        {
-          "name": "CLV",
-          "url": "https://open.spotify.com/artist/5H5wUF8cjtn3erNzcUZUbC"
-        }
-      ],
-      "duration_ms": 171126,
-      "name": "Funk Star (Be Polite)",
-      "url": "https://open.spotify.com/track/29w7Ph7ljedsQp7zsaLeIx"
-    },
-    {
-      "added_at": "2026-04-02 15:10:53",
-      "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/3n8WLww6y3YDe9hjPDGaQT"
-      },
-      "artists": [
-        {
-          "name": "Last Heroes",
-          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
-        },
-        {
-          "name": "Midnight Kids",
-          "url": "https://open.spotify.com/artist/5w39eY1aNDybnDGTNgVt3r"
-        }
-      ],
-      "duration_ms": 206117,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/2fqjgv5ZhAzR0fXC5WrrPT"
-    },
-    {
-      "added_at": "2026-04-01 15:38:09",
-      "album": {
-        "name": "Volume Nation",
-        "url": "https://open.spotify.com/album/5P5wo8Auod5iYSHkAgBmnC"
-      },
-      "artists": [
-        {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
-        }
-      ],
-      "duration_ms": 166955,
-      "name": "Volume Nation",
-      "url": "https://open.spotify.com/track/6FXR8bDZEl1YY9ygjU0F1y"
-    },
-    {
-      "added_at": "2026-03-30 15:08:36",
-      "album": {
-        "name": "Hiding In Plain Sight",
-        "url": "https://open.spotify.com/album/4KcUNDN2nVj9Jjr5t1WDKO"
-      },
-      "artists": [
-        {
-          "name": "Merage",
-          "url": "https://open.spotify.com/artist/34cpsw0b9PMy47utxhl0rK"
-        },
-        {
-          "name": "Egzod",
-          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
-        },
-        {
-          "name": "Islet Oak",
-          "url": "https://open.spotify.com/artist/5bcyahJJpuygwCCVIIgfXE"
-        }
-      ],
-      "duration_ms": 208081,
-      "name": "Hiding In Plain Sight",
-      "url": "https://open.spotify.com/track/7zGqVYTVy5l6BnwZQR0y8Z"
-    },
-    {
-      "added_at": "2026-03-27 16:56:06",
-      "album": {
-        "name": "Do You Feel Loved",
-        "url": "https://open.spotify.com/album/6XomZTfkFWWHfr4IVfpAvl"
-      },
-      "artists": [
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Do You Feel Loved",
-      "url": "https://open.spotify.com/track/6QaHSnGMvd0jkuTpXtNZbd"
-    },
-    {
-      "added_at": "2026-03-27 16:55:59",
-      "album": {
-        "name": "Inferno",
-        "url": "https://open.spotify.com/album/6dCpnvdq8U4plaAKwFJ52M"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Levex",
-          "url": "https://open.spotify.com/artist/5m41Q8b6ISK0bbefIZl9Ef"
-        }
-      ],
-      "duration_ms": 151547,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/2WOX91Z1AZlkFgF3qBV1TU"
-    },
-    {
-      "added_at": "2026-03-26 16:15:48",
-      "album": {
-        "name": "Look At Me Now",
-        "url": "https://open.spotify.com/album/1iLkcAxnDp88Qut1FmWF8U"
-      },
-      "artists": [
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        },
-        {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "Anjulie",
-          "url": "https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV"
-        }
-      ],
-      "duration_ms": 217687,
-      "name": "Look At Me Now",
-      "url": "https://open.spotify.com/track/5Iby2CpAUke1noXR6mg51K"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

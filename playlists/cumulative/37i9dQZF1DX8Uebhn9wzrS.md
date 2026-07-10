@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,512 songs - 3 day 23 hr 34 min
+2,515 songs - 3 day 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Aquarius](https://open.spotify.com/track/0s5dpPXE8slpfRHg1Hsyxf) | [OnurOHA](https://open.spotify.com/artist/59GI9tAkVAL2QjhOBRLPVZ) | [Aquarius](https://open.spotify.com/album/07HkwGY6fscrm88zYDUcIw) | 2:10 | 2022-04-15 | 2022-07-01 |
 | [Aquarius](https://open.spotify.com/track/4AXG2evgy3smvD6OymqYys) | [Saï T](https://open.spotify.com/artist/0ngA3xgG8zkQ6PV2mqtPJA) | [Aquarius](https://open.spotify.com/album/6V8QJQBvmgJRi8D5IpC3QZ) | 2:48 | 2022-11-11 | 2023-02-07 |
 | [Aquatic Crystals](https://open.spotify.com/track/4pUOWikHwi87jPXYtwwb3v) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [Aquatic Crystals](https://open.spotify.com/album/2cUBsQeqRMJ3NqNVJsRW3U) | 2:05 | 2022-04-15 | 2023-02-14 |
-| [Arboreous](https://open.spotify.com/track/4yu1zpAy9PDX2p8NVdtXm1) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM), [Senn](https://open.spotify.com/artist/7xQncR3ejxUE58A6Ogb1Si) | [Dreamscape Jams](https://open.spotify.com/album/4pHBPlUYS6mg28OpyK7viH) | 1:59 | 2024-08-23 |  |
+| [Arboreous](https://open.spotify.com/track/4yu1zpAy9PDX2p8NVdtXm1) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM), [Senn](https://open.spotify.com/artist/7xQncR3ejxUE58A6Ogb1Si) | [Dreamscape Jams](https://open.spotify.com/album/4pHBPlUYS6mg28OpyK7viH) | 1:59 | 2024-08-23 | 2026-07-10 |
 | [Arcticano](https://open.spotify.com/track/1HnTdU1vPXRKFfHHKt1cOR) | [Fracta Aurea](https://open.spotify.com/artist/6IfjthXfdys0smRoO7rBGL) | [Arcticano](https://open.spotify.com/album/3JLxWSqzrADdJNY8A17u8V) | 2:44 | 2025-07-02 |  |
 | [are you still awake?](https://open.spotify.com/track/0yhPGQumNYiw9VI2MRzrxK) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [are you still awake?](https://open.spotify.com/album/3zM77eNvVTifUQdcsxf6Bc) | 2:01 | 2023-02-13 | 2025-07-18 |
 | [arrival](https://open.spotify.com/track/7J1e0LTIZRjdz7i6WWdWcF) | [foursite](https://open.spotify.com/artist/52zHyZn0uVtMXDhJXVIRma) | [arrival](https://open.spotify.com/album/4StEvC14w9UGdxD5SJqrhQ) | 2:49 | 2023-07-13 | 2025-11-26 |
@@ -226,6 +226,7 @@
 | [Belay](https://open.spotify.com/track/2XKssLHcOREVWXLJJkcnQ6) | [Miramare](https://open.spotify.com/artist/1GobnwKx4ZG8tvfqJxOMXg), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Belay](https://open.spotify.com/album/3X4HDcf9FGF5jHgJdb3K5Y) | 1:34 | 2022-09-23 | 2023-01-07 |
 | [Believe](https://open.spotify.com/track/1cBqTx0jm0s9s8V2Jn5uNm) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Lowkey](https://open.spotify.com/artist/7toCka0iNs3DkEyWv94JmO) | [Believe](https://open.spotify.com/album/58G6ZyqBusUHXIMix4MS0k) | 2:09 | 2024-12-06 | 2025-02-08 |
 | [Belle](https://open.spotify.com/track/0MEOsyD7omIzdF4NRx0e1A) | [Lewis Harris](https://open.spotify.com/artist/7DKw2ggDruU4BrX1SFXvFS) | [Belle](https://open.spotify.com/album/2gstV10wAA8ERmTD3I5XjW) | 2:18 | 2022-04-22 | 2022-11-12 |
+| [beneath](https://open.spotify.com/track/42pIoyICzBcN4iS6vtVpOr) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [beneath](https://open.spotify.com/album/6wv2ocQnKCuPRd4PLpuNKy) | 2:31 | 2026-07-09 |  |
 | [beneath your feet](https://open.spotify.com/track/2liw1mIxDdw1d0D6tkFsXG) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [beneath your feet / balcony falls](https://open.spotify.com/album/6kMAkZyLnbPHnxvtOY7kG0) | 2:03 | 2022-12-16 | 2025-07-11 |
 | [benice](https://open.spotify.com/track/0n5px9dEnPHgNMEJk8F2MH) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [benice](https://open.spotify.com/album/0orBbi62RzgLybgEdzxZm8) | 2:22 | 2024-07-05 |  |
 | [Benidorm](https://open.spotify.com/track/667LRsRYxwLCOJB2DDoUOC) | [Florida Frank](https://open.spotify.com/artist/1XPs2qSUuafYCiqiCf6V3z) | [Benidorm](https://open.spotify.com/album/6eCQmiuecEe2joDErnh7VW) | 2:11 | 2023-03-08 | 2025-03-22 |
@@ -437,7 +438,7 @@
 | [Coastal Rock Cafe](https://open.spotify.com/track/0EIHrZotApWG5NtQUwTrEL) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [The Roar Shack](https://open.spotify.com/album/6ZOBFrnnIHJHLI7Vkh9T5s) | 2:38 | 2023-03-08 | 2025-11-15 |
 | [coconut coffee](https://open.spotify.com/track/5a3ADzSwj3AW8T54W5fY6i) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [coconut coffee](https://open.spotify.com/album/56R9MfE2lSx6JvDe3Lhqxy) | 2:52 | 2024-06-28 | 2024-08-17 |
 | [Coconut Cup](https://open.spotify.com/track/1KdXLFsrKF4bRlWXw9skui) | [Drive](https://open.spotify.com/artist/58Z10RWlUsSA6UkgOnmHM1) | [Coconut Cup](https://open.spotify.com/album/6aAeUCH9XWIPsVrYLSFmA1) | 2:22 | 2022-08-19 | 2022-12-24 |
-| [cocoon](https://open.spotify.com/track/79nz6puC2rx26h5JHH2sju) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [cocoon](https://open.spotify.com/album/2vsxrL5VXH4bi6FX2uHbVO) | 2:28 | 2024-08-30 |  |
+| [cocoon](https://open.spotify.com/track/79nz6puC2rx26h5JHH2sju) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [cocoon](https://open.spotify.com/album/2vsxrL5VXH4bi6FX2uHbVO) | 2:28 | 2024-08-30 | 2026-07-10 |
 | [coffee](https://open.spotify.com/track/2C7VA1VMLDgeNjr4i3h0V1) | [Soft Illy](https://open.spotify.com/artist/2uNhXN2lFd8cDOAAEvjAhV) | [coffee](https://open.spotify.com/album/75scui9old7tKije9SEYFn) | 2:19 | 2025-08-29 | 2026-03-21 |
 | [Coffee Break](https://open.spotify.com/track/3TF8Y8OD9lpxLOfmu2SMmn) | [Yung Dark](https://open.spotify.com/artist/0FEEkPEuD7LFWz6peeJlIY) | [Coffee Break](https://open.spotify.com/album/1ZK1GmOmLyr265KdL2R8Vq) | 2:02 | 2022-04-15 | 2022-08-12 |
 | [coffee club](https://open.spotify.com/track/6rYskggFhg7dnBn4XmcOzV) | [Vynlsm](https://open.spotify.com/artist/7b4DhB3yTiN4HMgFGFQQ2y) | [coffee club](https://open.spotify.com/album/2CoFtACN6TBdx40rkmVsAs) | 2:31 | 2025-01-17 | 2025-03-08 |
@@ -529,6 +530,7 @@
 | [Daydream Thing](https://open.spotify.com/track/3Li5s9nmyXaZFTPqyGIO2x) | [Bnjo](https://open.spotify.com/artist/2ypA9JtiknHFRxTq1X36ry) | [Daydream Thing](https://open.spotify.com/album/0sul8DdAXX7bHDC4pv3bXX) | 2:08 | 2023-09-08 | 2025-07-26 |
 | [Daydreaming](https://open.spotify.com/track/4EON13xU5v3CsQG6C5BZcO) | [LUXID AXID](https://open.spotify.com/artist/6yZIMRBmAHdrstkuapdrc0), [Chiljalo](https://open.spotify.com/artist/5FshA6iHVcvQYwaPafaWjO) | [Daydreaming](https://open.spotify.com/album/7DbRuyDxuJTVIIUKvPFgb9) | 2:33 | 2022-09-16 | 2023-01-07 |
 | [Daylight](https://open.spotify.com/track/5dTPpkcJNZ5QrLhzb9bUOW) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Daylight](https://open.spotify.com/album/21SlLRetRq9OpLMaRFBx6T) | 2:17 | 2023-03-24 | 2023-10-06 |
+| [Dayphase](https://open.spotify.com/track/1krSFxhJyXiYGktvdVv7pj) | [Pale Fiction](https://open.spotify.com/artist/4rMd74iv02uwHdEs5Dc4XV) | [Dayphase](https://open.spotify.com/album/3lkkPmZIy4UJmGZFKcw70M) | 2:17 | 2026-07-09 |  |
 | [Days before](https://open.spotify.com/track/0Yr84Z0J8XdIFgef0Gm4wC) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [Days Before](https://open.spotify.com/album/0gSYHXWZ0niLxoUr7A63nq) | 2:47 | 2023-02-21 | 2025-11-26 |
 | [Days Of Noburu](https://open.spotify.com/track/31LBBQL98E7LutHxW9hT1X) | [Etzuko.](https://open.spotify.com/artist/2UnLJpotwiOvhCz8LXdVXb) | [Days Of Noburu](https://open.spotify.com/album/1sf3MH8rtSKOcuEoStAtnG) | 2:23 | 2022-04-15 | 2022-09-17 |
 | [Daytime](https://open.spotify.com/track/1UyhPO5FGcbE0iicGlqSMA) | [Lydtakt](https://open.spotify.com/artist/2nbKa9EFY05zFjSwkmMjkq) | [Daytime](https://open.spotify.com/album/1P9nIoReDcQ3lLi7lLdnCP) | 2:01 | 2023-03-08 | 2023-03-25 |
@@ -1037,6 +1039,7 @@
 | [Idle](https://open.spotify.com/track/0JNzya76xG0ubKczzLsvWo) | [Moodal](https://open.spotify.com/artist/1WTuPCWmIlFozKqzMAiNvf) | [Idle](https://open.spotify.com/album/4BXVmxpA1IZbaCmqkiSIQE) | 2:13 | 2025-01-31 | 2025-03-29 |
 | [Idyllic](https://open.spotify.com/track/5AveowMyJKst81mznnDn3q) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Idyllic](https://open.spotify.com/album/64uSGFrQ3szLAWUBe4KfyR) | 1:58 | 2023-03-20 | 2024-02-09 |
 | [If So](https://open.spotify.com/track/5aUtGFhNUeNjX5piVkJera) | [Trish Lupin](https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz) | [If So](https://open.spotify.com/album/1H3MVoueBdHkp05j6chiXv) | 1:48 | 2024-07-05 | 2024-08-29 |
+| [If You Stay](https://open.spotify.com/track/5oJRxByhIWnU3WE2LNZdQ0) | [Eliro Tape](https://open.spotify.com/artist/4EnArTD3WwwOJ6MF7gEDmT) | [If You Stay](https://open.spotify.com/album/0zyrzv73piVPikUWTpRve3) | 1:44 | 2026-07-09 |  |
 | [If You Were Here](https://open.spotify.com/track/3jFXQ83qHcUPpzJY0JlKCB) | [saint rumi](https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ) | [If You Were Here](https://open.spotify.com/album/3kntQKsqRLcHyW3Oj1LlCs) | 1:58 | 2025-02-27 | 2025-03-15 |
 | [Il Pigro Mafioso \(The Lazy Mobster\)](https://open.spotify.com/track/7wUevqE8Kpl6p6xZKAi7gl) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Il Pigro Mafioso \(The Lazy Mobster\)](https://open.spotify.com/album/5qRXYnq5sYYvSfrR77bnQN) | 2:42 | 2023-04-03 | 2023-10-20 |
 | [Imagination](https://open.spotify.com/track/4Iep4ODqp0YyxZq95DFGHB) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0) | [Imagination](https://open.spotify.com/album/0wbZQsx17Lg2TCUjDAubdl) | 2:35 | 2022-08-19 | 2022-12-24 |
@@ -2022,7 +2025,7 @@
 | [Soul Sister](https://open.spotify.com/track/6e13KTREbbwyAoTJVf8N26) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Maria](https://open.spotify.com/album/5T46u2h98CjDlCwgd3D9oW) | 1:22 | 2022-04-15 | 2022-04-22 |
 | [Soul Survivor](https://open.spotify.com/track/4deblxewzKBoFjpg6g78Bs) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Soul Survivor](https://open.spotify.com/album/4J1q7rtmw06g8MHno5fwi0) | 3:01 | 2022-05-27 | 2022-07-01 |
 | [Souls Aligned](https://open.spotify.com/track/5UDORPwmroyT5gJDm2SDAl) | [Walter Stewart](https://open.spotify.com/artist/3vfsss4OqjEykpWXeDnSCp) | [Souls Aligned](https://open.spotify.com/album/2qLykBrQDbVxIVt121KFL7) | 2:51 | 2024-09-13 | 2024-10-18 |
-| [SoulShower](https://open.spotify.com/track/5aeQDI9LxC5Aiuc5Vqo65K) | [Bus Topp](https://open.spotify.com/artist/6iWgfTsyBsH03H2XDrveyR) | [SoulShower](https://open.spotify.com/album/6JrRnSqrgKmEAIgx6f0qWX) | 3:13 | 2023-12-08 |  |
+| [SoulShower](https://open.spotify.com/track/5aeQDI9LxC5Aiuc5Vqo65K) | [Bus Topp](https://open.spotify.com/artist/6iWgfTsyBsH03H2XDrveyR) | [SoulShower](https://open.spotify.com/album/6JrRnSqrgKmEAIgx6f0qWX) | 3:13 | 2023-12-08 | 2026-07-10 |
 | [soundly](https://open.spotify.com/track/1eNQbDHBYv0zDrlJmP2YVp) | [Slopoke](https://open.spotify.com/artist/1iJ5ZP2QithYEHlojjT3Dw) | [soundly](https://open.spotify.com/album/0eSLk5OI0frYkwQ4PEpfmT) | 3:38 | 2025-08-01 | 2025-08-30 |
 | [Sounds From The Park](https://open.spotify.com/track/55uqa2dZDFoy45LNi2c0Da) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Sounds From The Park](https://open.spotify.com/album/1hZjugixYJQrlemnJEwnLE) | 1:54 | 2022-10-14 | 2024-07-19 |
 | [Souvenir](https://open.spotify.com/track/5GFro8JfW7Scx4XsgS5e32) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Souvenir](https://open.spotify.com/album/6v0GUOWu4WAa4XGjSB5eYx) | 2:28 | 2022-04-15 | 2022-08-12 |

@@ -18304,7 +18304,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 272000,
       "name": "Enmiserate",
       "url": "https://open.spotify.com/track/30qxCcubEI3NgTj39UUh4c"
@@ -18656,7 +18656,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-08",
+      "date_removed": null,
       "duration_ms": 196602,
       "name": "Estoy Llorando De Tanta Belleza",
       "url": "https://open.spotify.com/track/70THa2SQPnAF5U7vfTmnW0"
@@ -25180,7 +25180,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 247396,
       "name": "Hello Monserrat",
       "url": "https://open.spotify.com/track/4GeGkrJZHLok2EMqnJt7bS"
@@ -43678,7 +43678,7 @@
       },
       "artists": [
         {
-          "name": "Rosa Leon",
+          "name": "Rosa Le\u00f3n",
           "url": "https://open.spotify.com/artist/03ukvtQJzZmG7CEOmnkoMW"
         },
         {
@@ -53477,6 +53477,24 @@
     },
     {
       "album": {
+        "name": "Thread",
+        "url": "https://open.spotify.com/album/78Ymq0pnIrAt7O1ueJFLA9"
+      },
+      "artists": [
+        {
+          "name": "Ostraca",
+          "url": "https://open.spotify.com/artist/12QhXwxSPz6xu42dDkDuCV"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464000,
+      "name": "Song for November",
+      "url": "https://open.spotify.com/track/5GHEfrHj0M1xdpPq2OYOwQ"
+    },
+    {
+      "album": {
         "name": "Song Of Darkness",
         "url": "https://open.spotify.com/album/7oNRuKbR8HbZ2XvXoVJNl4"
       },
@@ -55960,6 +55978,24 @@
       "duration_ms": 89853,
       "name": "Swan Lake, Op. 20: Dance of the Four Swans (Arr. Wild for Piano)",
       "url": "https://open.spotify.com/track/3StysTPY6u60aPKxaT01sx"
+    },
+    {
+      "album": {
+        "name": "ReLoad (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/4ogbSOvBvqT0kqCO0fI1rW"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238760,
+      "name": "Sweat - \"Attitude\" Vocal Idea",
+      "url": "https://open.spotify.com/track/5uAGevWFuONPMlefEycnvr"
     },
     {
       "album": {
@@ -65480,7 +65516,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 372453,
       "name": "Voodoo Queen - \"Fixxxer\" Vocal Idea",
       "url": "https://open.spotify.com/track/0LvoGZvihRUUrZ7lLsVgHZ"

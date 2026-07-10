@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Yan Block is bringing the heat this week. Tap in every Thursday for a fresh Fuego mixtape.",
+  "description": "Jimmy Guzman is bringing the heat this week. Tap in every Thursday for a fresh Fuego mixtape.",
   "name": "Fuego",
   "tracks": [
     {
@@ -26915,6 +26915,24 @@
     },
     {
       "album": {
+        "name": "Intuici\u00f3n",
+        "url": "https://open.spotify.com/album/28bPKJ84oK7VV8xZz4yUPm"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Guzman",
+          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182748,
+      "name": "Intuici\u00f3n",
+      "url": "https://open.spotify.com/track/47vYCMjh9YzQAvZSEFe7Uv"
+    },
+    {
+      "album": {
         "name": "Inv\u00edtame A Un Caf\u00e9",
         "url": "https://open.spotify.com/album/6c8d7PNLIYu4Mfyf6J9SK5"
       },
@@ -38458,7 +38476,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 181628,
       "name": "New Things",
       "url": "https://open.spotify.com/track/031ZcJo8TyET61X2gdghf5"

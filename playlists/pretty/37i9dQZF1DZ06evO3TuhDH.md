@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,505 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,510 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 43 | [Get Loud](https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 1:50 |
 | 44 | [Hold Me Down \(42 Dugg, Coi Leray\)](https://open.spotify.com/track/3RXjFdXvbIIydnkrCKIjcA) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Hold Me Down](https://open.spotify.com/album/3ZnMKPhpgpTwXRSrXZ4XEm) | 2:50 |
 | 45 | [Wanna Come Thru](https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Wanna Come Thru](https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF) | 2:11 |
-| 46 | [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC) | 2:44 |
-| 47 | [Phuck It](https://open.spotify.com/track/67JdujEjlWXxTO1aujitaV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 1:58 |
-| 48 | [Thieves In Atlanta \(feat\. Coi Leray\)](https://open.spotify.com/track/0O6vnplGquhXRh0Zghyr8w) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Thieves In Atlanta \(feat\. Coi Leray\)](https://open.spotify.com/album/5NaBcPMcvwIRCLw3wjlkod) | 3:12 |
-| 49 | [Push Start \(with Coi Leray feat\. 42 Dugg\)](https://open.spotify.com/track/5DnubkVCDDFfcejkhtnM79) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 3:05 |
-| 50 | [Wasted](https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Wasted](https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ) | 2:37 |
+| 46 | [Thieves In Atlanta \(feat\. Coi Leray\)](https://open.spotify.com/track/0O6vnplGquhXRh0Zghyr8w) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Thieves In Atlanta \(feat\. Coi Leray\)](https://open.spotify.com/album/5NaBcPMcvwIRCLw3wjlkod) | 3:12 |
+| 47 | [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC) | 2:44 |
+| 48 | [Phuck It](https://open.spotify.com/track/67JdujEjlWXxTO1aujitaV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 1:58 |
+| 49 | [Wasted](https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Wasted](https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ) | 2:37 |
+| 50 | [Push Start \(with Coi Leray feat\. 42 Dugg\)](https://open.spotify.com/track/5DnubkVCDDFfcejkhtnM79) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 3:05 |
 
-Snapshot ID: `akrwAAAAAADNPzrl/leRJJeaDaWkB2Ox`
+Snapshot ID: `ak2TAAAAAAC3ewE9jCVVvNSYTZrOH8JZ`

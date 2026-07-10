@@ -1,32 +1,68 @@
 {
-  "description": "Enjoy your favorite Disney tunes, including \"Zoo\" from Zootopia 2!",
-  "num_followers": 2079100,
+  "description": "Enjoy your favorite Disney tunes, including \"You're Welcome\" from Moana! Disney's Moana, only in theaters.",
+  "num_followers": 2079231,
   "original_name": "Disney Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFvw9ne1zGQWgDeylw0YIbZFsHUU",
+  "snapshot_id": "AAAAAN9kZg4XGs1+RXr2ipl0SPv6aoCZ",
   "tracks": [
     {
-      "added_at": "2026-06-29 13:00:21",
+      "added_at": "2026-07-09 07:00:05",
       "album": {
-        "name": "Lilo & Stitch (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/682Q92eLz5C2AjMv5oYt4V"
+        "name": "Moana (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3g9Z0jxX31lghNgzkdfhCD"
       },
       "artists": [
         {
-          "name": "Nyjah Music & Zyah Rhythm",
-          "url": "https://open.spotify.com/artist/4aEDhgmmxsxsZDzl3FTxEh"
+          "name": "Dwayne Johnson",
+          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
         },
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 167272,
-      "name": "Burning Love",
-      "url": "https://open.spotify.com/track/7tg6qrdwIo0qKL5tgNWYh0"
+      "duration_ms": 167186,
+      "name": "You're Welcome",
+      "url": "https://open.spotify.com/track/6H0JqH391qbGqe0zs3oZJW"
+    },
+    {
+      "added_at": "2026-06-29 13:00:21",
+      "album": {
+        "name": "Toy Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/47OFnLtLVi5WrPYNXAwFGh"
+      },
+      "artists": [
+        {
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+        }
+      ],
+      "duration_ms": 124160,
+      "name": "You've Got a Friend in Me",
+      "url": "https://open.spotify.com/track/2stkLJ0JNcXkIRDNF3ld6c"
+    },
+    {
+      "added_at": "2026-06-29 13:00:21",
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
+      },
+      "artists": [
+        {
+          "name": "Dwayne Johnson",
+          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "You're Welcome",
+      "url": "https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24"
     },
     {
       "added_at": "2026-06-29 13:00:21",
@@ -209,24 +245,24 @@
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
     },
     {
-      "added_at": "2026-06-29 13:00:21",
+      "added_at": "2026-07-09 07:00:05",
       "album": {
-        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
+        "name": "Moana (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3g9Z0jxX31lghNgzkdfhCD"
       },
       "artists": [
         {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+          "name": "Catherine Laga'aia",
+          "url": "https://open.spotify.com/artist/73VULsGi9bDaKbgLORFXd5"
         },
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 163386,
+      "duration_ms": 171040,
       "name": "How Far I'll Go",
-      "url": "https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd"
+      "url": "https://open.spotify.com/track/0L7dpG5vvfPxrhJnEZ5zg1"
     },
     {
       "added_at": "2026-06-29 13:00:21",
@@ -307,26 +343,6 @@
       "duration_ms": 257213,
       "name": "The Family Madrigal",
       "url": "https://open.spotify.com/track/4b1yxSdlumA8N4fEk4UOZp"
-    },
-    {
-      "added_at": "2026-06-29 13:00:21",
-      "album": {
-        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
-      },
-      "artists": [
-        {
-          "name": "Dwayne Johnson",
-          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 163893,
-      "name": "You're Welcome",
-      "url": "https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24"
     },
     {
       "added_at": "2026-06-29 13:00:21",
@@ -419,6 +435,22 @@
       "duration_ms": 224240,
       "name": "I See the Light - From \"Tangled\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl"
+    },
+    {
+      "added_at": "2026-06-29 13:00:21",
+      "album": {
+        "name": "Disney's Ultimate Swashbuckler Collection",
+        "url": "https://open.spotify.com/album/7AARXLsjtDsT3TloDKsuau"
+      },
+      "artists": [
+        {
+          "name": "Disney Studio Chorus",
+          "url": "https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW"
+        }
+      ],
+      "duration_ms": 201640,
+      "name": "Yo Ho (A Pirate's Life for Me)",
+      "url": "https://open.spotify.com/track/35zjgo7EZJ84SgBSKD7TQT"
     },
     {
       "added_at": "2026-06-29 13:00:21",
@@ -643,22 +675,6 @@
       "duration_ms": 206506,
       "name": "Do You Want to Build a Snowman? - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6"
-    },
-    {
-      "added_at": "2026-06-29 13:00:21",
-      "album": {
-        "name": "Toy Story (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/47OFnLtLVi5WrPYNXAwFGh"
-      },
-      "artists": [
-        {
-          "name": "Randy Newman",
-          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
-        }
-      ],
-      "duration_ms": 124160,
-      "name": "You've Got a Friend in Me",
-      "url": "https://open.spotify.com/track/2stkLJ0JNcXkIRDNF3ld6c"
     },
     {
       "added_at": "2026-06-29 13:00:21",
@@ -1065,6 +1081,26 @@
       "url": "https://open.spotify.com/track/4f1BwLXtk02i8GjJvK9cUL"
     },
     {
+      "added_at": "2026-07-09 07:00:05",
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3g9Z0jxX31lghNgzkdfhCD"
+      },
+      "artists": [
+        {
+          "name": "Jemaine Clement",
+          "url": "https://open.spotify.com/artist/1Ymky4GOgYA1NI96FCY8yE"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/1ey4RwlCQdVc5l0cOKCPmr"
+    },
+    {
       "added_at": "2026-06-29 13:00:21",
       "album": {
         "name": "Toy Story 2",
@@ -1079,6 +1115,22 @@
       "duration_ms": 185240,
       "name": "When She Loved Me",
       "url": "https://open.spotify.com/track/6lMh9k54E4mxbGBMkSwYhT"
+    },
+    {
+      "added_at": "2026-06-29 13:00:21",
+      "album": {
+        "name": "Disney Classics",
+        "url": "https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0"
+      },
+      "artists": [
+        {
+          "name": "The Disney Afternoon Studio Chorus",
+          "url": "https://open.spotify.com/artist/0kzp6Ezum8UhblfmLkcyPq"
+        }
+      ],
+      "duration_ms": 168346,
+      "name": "Duck Tales Theme - From \u201cDuck Tales\u201c",
+      "url": "https://open.spotify.com/track/0XypNs2gluoWHdtfSTsIUF"
     },
     {
       "added_at": "2026-06-29 13:00:21",
@@ -1367,6 +1419,34 @@
     {
       "added_at": "2026-06-29 13:00:21",
       "album": {
+        "name": "Disney's Greatest Vol. 3",
+        "url": "https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh"
+      },
+      "artists": [
+        {
+          "name": "Pinto Colvig",
+          "url": "https://open.spotify.com/artist/4X8LTt7CXvrqzfS4G4ONUX"
+        },
+        {
+          "name": "Mary Moder",
+          "url": "https://open.spotify.com/artist/00ud2vhOOcbrUyGGYPSTYh"
+        },
+        {
+          "name": "Dorothy Compton",
+          "url": "https://open.spotify.com/artist/0humNRtJZUnSFh10d8Vnou"
+        },
+        {
+          "name": "Billy Bletcher",
+          "url": "https://open.spotify.com/artist/7MCVs8C2nykvXVyTyrUoVd"
+        }
+      ],
+      "duration_ms": 187320,
+      "name": "Who's Afraid of the Big, Bad Wolf - From \"Three Little Pigs\"",
+      "url": "https://open.spotify.com/track/4K1kR94TrMRoznMHBFaa3C"
+    },
+    {
+      "added_at": "2026-06-29 13:00:21",
+      "album": {
         "name": "Mary Poppins (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3TpEE2z8atZWn2p7MUHF0U"
       },
@@ -1499,6 +1579,22 @@
       "duration_ms": 151400,
       "name": "Touch The Sky",
       "url": "https://open.spotify.com/track/5yyqx4brn6Bm9U1Rj9ENnz"
+    },
+    {
+      "added_at": "2026-06-29 13:00:21",
+      "album": {
+        "name": "A Goofy Movie",
+        "url": "https://open.spotify.com/album/3gUUrvvTs1JlX5AjiKRV0P"
+      },
+      "artists": [
+        {
+          "name": "Tevin Campbell",
+          "url": "https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE"
+        }
+      ],
+      "duration_ms": 180440,
+      "name": "Stand Out",
+      "url": "https://open.spotify.com/track/48UDhM2xL9wUuYLfrpK2Jv"
     },
     {
       "added_at": "2026-06-29 13:00:21",
@@ -2487,82 +2583,6 @@
       "duration_ms": 241386,
       "name": "I2I",
       "url": "https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp"
-    },
-    {
-      "added_at": "2026-06-29 13:00:21",
-      "album": {
-        "name": "Disney's Ultimate Swashbuckler Collection",
-        "url": "https://open.spotify.com/album/7AARXLsjtDsT3TloDKsuau"
-      },
-      "artists": [
-        {
-          "name": "Disney Studio Chorus",
-          "url": "https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW"
-        }
-      ],
-      "duration_ms": 201640,
-      "name": "Yo Ho (A Pirate's Life for Me)",
-      "url": "https://open.spotify.com/track/35zjgo7EZJ84SgBSKD7TQT"
-    },
-    {
-      "added_at": "2026-06-29 13:00:21",
-      "album": {
-        "name": "A Goofy Movie",
-        "url": "https://open.spotify.com/album/3gUUrvvTs1JlX5AjiKRV0P"
-      },
-      "artists": [
-        {
-          "name": "Tevin Campbell",
-          "url": "https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE"
-        }
-      ],
-      "duration_ms": 180440,
-      "name": "Stand Out",
-      "url": "https://open.spotify.com/track/48UDhM2xL9wUuYLfrpK2Jv"
-    },
-    {
-      "added_at": "2026-06-29 13:00:21",
-      "album": {
-        "name": "Disney's Greatest Vol. 3",
-        "url": "https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh"
-      },
-      "artists": [
-        {
-          "name": "Pinto Colvig",
-          "url": "https://open.spotify.com/artist/4X8LTt7CXvrqzfS4G4ONUX"
-        },
-        {
-          "name": "Mary Moder",
-          "url": "https://open.spotify.com/artist/00ud2vhOOcbrUyGGYPSTYh"
-        },
-        {
-          "name": "Dorothy Compton",
-          "url": "https://open.spotify.com/artist/0humNRtJZUnSFh10d8Vnou"
-        },
-        {
-          "name": "Billy Bletcher",
-          "url": "https://open.spotify.com/artist/7MCVs8C2nykvXVyTyrUoVd"
-        }
-      ],
-      "duration_ms": 187320,
-      "name": "Who's Afraid of the Big, Bad Wolf - From \"Three Little Pigs\"",
-      "url": "https://open.spotify.com/track/4K1kR94TrMRoznMHBFaa3C"
-    },
-    {
-      "added_at": "2026-06-29 13:00:21",
-      "album": {
-        "name": "Disney Classics",
-        "url": "https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0"
-      },
-      "artists": [
-        {
-          "name": "The Disney Afternoon Studio Chorus",
-          "url": "https://open.spotify.com/artist/0kzp6Ezum8UhblfmLkcyPq"
-        }
-      ],
-      "duration_ms": 168346,
-      "name": "Duck Tales Theme - From \u201cDuck Tales\u201c",
-      "url": "https://open.spotify.com/track/0XypNs2gluoWHdtfSTsIUF"
     }
   ],
   "unique_name": "Disney Favorites",

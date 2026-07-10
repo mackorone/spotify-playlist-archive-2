@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 343 likes - 2,447 songs - 6 day 0 hr 8 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 343 likes - 2,463 songs - 6 day 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2455,5 +2455,21 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2445 | [Solo lo stesso](https://open.spotify.com/track/46dOaFi5Hp376Nmoxf7IVN) | [EDY](https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV) | [Solo lo stesso](https://open.spotify.com/album/2qUGQgrp7wVJi1P77bLkJh) | 2:41 |
 | 2446 | [Solo lo stesso](https://open.spotify.com/track/46dOaFi5Hp376Nmoxf7IVN) | [EDY](https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV) | [Solo lo stesso](https://open.spotify.com/album/2qUGQgrp7wVJi1P77bLkJh) | 2:41 |
 | 2447 | [Second Guessin’](https://open.spotify.com/track/40X8JuQRZSjtqbM9GB3U38) | [Lil Derik](https://open.spotify.com/artist/7duWaUqESXdNsXB2ASvM64), [Jessup](https://open.spotify.com/artist/2wgOckKfbjFnfnPEj6xuBC), [Jimboslice](https://open.spotify.com/artist/5xtgG3tZGw0AY9I2XIn4ke) | [Blue Dragon](https://open.spotify.com/album/4A45Tk2yR6MBllvKZNeJAp) | 3:00 |
+| 2448 | [More Than What](https://open.spotify.com/track/2z2w6MjuywxtX8CNxfgQca) | [Arden Bird](https://open.spotify.com/artist/4l9k8pAHsXspm1CE2d30RT) | [More Than What](https://open.spotify.com/album/45CxJFkAcY4bqcRidPJn52) | 4:07 |
+| 2449 | [Buta Cinta](https://open.spotify.com/track/7HX5KQP8OlMeJOy4Qk6fTu) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Buta Cinta](https://open.spotify.com/album/4NEcgeMux8RyzPzDzCjygM) | 4:00 |
+| 2450 | [Jangan Pergi lagi](https://open.spotify.com/track/1iT7Icg66E79oT8M432fJu) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Jangan Pergi lagi](https://open.spotify.com/album/74YLW8AvFcjrEbditMFNtY) | 2:54 |
+| 2451 | [Pilihan Kedua](https://open.spotify.com/track/2gNEUJgGgHWGdjYTjyOc90) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Pilihan Kedua](https://open.spotify.com/album/6mhC1s2gW2NwCn3qBfNojM) | 5:12 |
+| 2452 | [I’m almost grown](https://open.spotify.com/track/7fI9PPsqylriKI8OaEl46H) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r), [Cyara](https://open.spotify.com/artist/2mirTUwfECKglM4Yhj6JqB) | [I’m almost grown](https://open.spotify.com/album/4whrivITQjbXx32YIm4eP6) | 4:02 |
+| 2453 | [Aku lepas](https://open.spotify.com/track/2BPckjDFkuVEMX8bTKuNfM) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Aku lepas](https://open.spotify.com/album/5ivT0K8UpBZ1RPieShdd30) | 4:12 |
+| 2454 | [Sesederhana Kamu](https://open.spotify.com/track/0bNpJ5XIC35I2wdNmpvgy7) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Sesederhana Kamu](https://open.spotify.com/album/1bkSXGq7axjjSdgIEsHQVa) | 3:31 |
+| 2455 | [Cukup Jadi Kamu](https://open.spotify.com/track/3Fivvwj2IXWdpxYdnM2qA8) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r), [Andika Prayudi Utama](https://open.spotify.com/artist/6BwZ8OICBszXhHUJexBD0g) | [Cukup Jadi Kamu](https://open.spotify.com/album/2OfHiFXfgXnr2RFElQSlpm) | 4:54 |
+| 2456 | [Diruang yang sama](https://open.spotify.com/track/2X698x7ob5i98SSZFd5OC0) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Diruang yang sama](https://open.spotify.com/album/7DBBfmvVQJ4sTYxTZsz2wE) | 4:06 |
+| 2457 | [Kau hanya untukku](https://open.spotify.com/track/4cI9UtE34TVAjVflJoTadi) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Kau hanya untukku](https://open.spotify.com/album/0TAyHKjconjkSSpnNUbQao) | 2:29 |
+| 2458 | [Cukup Kamu](https://open.spotify.com/track/7FOPuqaVbWNBv0NdCNX8Yu) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Cukup Kamu](https://open.spotify.com/album/7HIS22S83KWi8dZW5FP4Nc) | 3:21 |
+| 2459 | [Diam diam](https://open.spotify.com/track/1yzVAad9V9hH8VzM6R9WjW) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Diam diam](https://open.spotify.com/album/4GEjPsNJ0XGr1HWTg41GZa) | 4:07 |
+| 2460 | [Teduh Dan Tenang](https://open.spotify.com/track/1W96wy1a5FNdPWG4dX941s) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Teduh Dan Tenang](https://open.spotify.com/album/4ifPGeFhtCLFK5CXSktaTj) | 4:28 |
+| 2461 | [Sinkopasi Rasa](https://open.spotify.com/track/0nziPGJge4BDTwyNDjhW0B) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Sinkopasi Rasa](https://open.spotify.com/album/1zmhCdv90zxAd0fEXvZRLz) | 2:25 |
+| 2462 | [Menjadi Utuh](https://open.spotify.com/track/5vcOa8lzcPBO2KQ74AQdtl) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Menjadi Utuh](https://open.spotify.com/album/2jynPXHatxWoOARNGRcYGf) | 4:13 |
+| 2463 | [Sardinia](https://open.spotify.com/track/5cLDgmrRqxhW27wKEf30G9) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Sardinia](https://open.spotify.com/album/6kNKTlgBDM7FWeTUtDnNM9) | 2:47 |
 
-Snapshot ID: `AAAKXLT+1KMWsQ+H3KclgiIFkUeYclQW`
+Snapshot ID: `AAAKbMU2r4V8NJu5rcYJpQGGMw2kCvcE`

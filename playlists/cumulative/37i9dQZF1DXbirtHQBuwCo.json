@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: Dodree(\ub3c4\ub4dc\ub9ac))",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: youra(\uc720\ub77c))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -3548,7 +3548,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 163000,
       "name": "Come Closer",
       "url": "https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm"
@@ -4300,7 +4300,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 201000,
       "name": "Dear.J (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi"
@@ -7087,6 +7087,24 @@
     },
     {
       "album": {
+        "name": "Brush",
+        "url": "https://open.spotify.com/album/0JQ790SDVazDDbBNQQDOwX"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "HELP",
+      "url": "https://open.spotify.com/track/70lTW7QzelAUAqxKw0OG0M"
+    },
+    {
+      "album": {
         "name": "her",
         "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
       },
@@ -7780,6 +7798,24 @@
       "duration_ms": 195150,
       "name": "I Mean You",
       "url": "https://open.spotify.com/track/3Ad0HzkD1pTXqlgpLEE7AI"
+    },
+    {
+      "album": {
+        "name": "i said it",
+        "url": "https://open.spotify.com/album/4Bwf79TKUV0FYcc9e9A3GN"
+      },
+      "artists": [
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "i said it",
+      "url": "https://open.spotify.com/track/26a0JIitgz3Ut1CNnf2HgW"
     },
     {
       "album": {

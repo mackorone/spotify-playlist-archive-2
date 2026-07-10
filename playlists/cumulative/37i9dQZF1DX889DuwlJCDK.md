@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: Mega Shinnosuke
 
-1,857 songs - 4 day 16 hr 14 min
+1,858 songs - 4 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Dawn](https://open.spotify.com/track/3xFka9Fj3vn299vIBqFUVu) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Dawn](https://open.spotify.com/album/16a4yEozxkuenTZ2EZ9fkw) | 4:27 | 2024-02-06 | 2024-03-13 |
 | [DAWN](https://open.spotify.com/track/7qu2sVmtyhtUZIwh607B9w) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [DAWN](https://open.spotify.com/album/728AONhuNSuYDoo6AH4q6E) | 4:27 | 2024-02-06 | 2024-02-08 |
 | [DAWN](https://open.spotify.com/track/6aovLdblRR3kIIFPy1cCAr) | [t.r.a.n.e](https://open.spotify.com/artist/6UGLy92fPWgGtULWBU1xJ1) | [DAWN](https://open.spotify.com/album/3cB3WrEIKIeerqtPdIkWao) | 4:07 | 2025-04-01 | 2025-04-09 |
-| [DAWN](https://open.spotify.com/track/1Fgkj5qAa7rxPPuTM8mU0X) | [tiny yawn](https://open.spotify.com/artist/4qiB0gKNq2SHDGl2pVvXrD) | [into the blue.](https://open.spotify.com/album/0tMJtfLzUvpOSZsHJivj0A) | 3:49 | 2026-05-19 |  |
+| [DAWN](https://open.spotify.com/track/1Fgkj5qAa7rxPPuTM8mU0X) | [tiny yawn](https://open.spotify.com/artist/4qiB0gKNq2SHDGl2pVvXrD) | [into the blue.](https://open.spotify.com/album/0tMJtfLzUvpOSZsHJivj0A) | 3:49 | 2026-05-19 | 2026-07-10 |
 | [DAY DREAM BEAT](https://open.spotify.com/track/3RTwBdZ4AbiIwiUwcblBCs) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [純異性交遊](https://open.spotify.com/album/5RRIY9T0OriPLPweISEIF3) | 3:58 | 2023-07-27 | 2024-04-19 |
 | [DAY GAME](https://open.spotify.com/track/4k5yIOC4efIEUWBxD8zKzU) | [Maki](https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA) | [DAY GAME](https://open.spotify.com/album/3RT5cAGwUqfaoHLq5v4PTu) | 4:39 | 2025-06-03 | 2025-07-16 |
 | [Days](https://open.spotify.com/track/1aMlCkpih7rBjsExZuWTKo) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [Days](https://open.spotify.com/album/0RxWIBG48GaRlCytYTMZzN) | 4:38 | 2026-05-13 | 2026-06-03 |
@@ -583,7 +583,7 @@
 | [Punk Head](https://open.spotify.com/track/6wN8LtVvVqh8RyEtFRESdr) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Punk Head](https://open.spotify.com/album/4en5HpvQhcqTFQXerMbXtM) | 2:53 | 2025-09-30 | 2025-10-26 |
 | [Punky Blue Kids](https://open.spotify.com/track/6dHNYfZg0EFi9UsDWSxDRh) | [DNA GAINZ](https://open.spotify.com/artist/0bOGtsbotnQiTIHQMehEZx) | [Punky Blue Kids](https://open.spotify.com/album/0xUvDlxHN41wOvOJTqsCEW) | 2:36 | 2024-04-30 | 2024-06-01 |
 | [QUEEN feat\. Ryo Takanami, ninichan](https://open.spotify.com/track/0QCAkp5NIgQvJNPebs2mrY) | [アンと私](https://open.spotify.com/artist/77KkjvrS1UpnQX2KldfB1J), [Ryo Takanami](https://open.spotify.com/artist/2u5VEfBMUKDyZqX8KcI3sp), [ninichan](https://open.spotify.com/artist/07RJS61MbDpOxNylSJABHc) | [QUEEN feat\. Ryo Takanami, ninichan](https://open.spotify.com/album/08PhB7vTCVnSLJmE5RXs8J) | 3:40 | 2025-09-16 | 2025-10-01 |
-| [Raise Your Flag](https://open.spotify.com/track/1aF3Nj5YI4AUTvcr6P17ap) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [Raise Your Flag](https://open.spotify.com/album/2PnF8XNl9MptTBMv3J2KId) | 3:43 | 2026-06-30 | 2026-07-08 |
+| [Raise Your Flag](https://open.spotify.com/track/1aF3Nj5YI4AUTvcr6P17ap) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [Raise Your Flag](https://open.spotify.com/album/2PnF8XNl9MptTBMv3J2KId) | 3:43 | 2026-06-30 |  |
 | [Rakugaki no Yona](https://open.spotify.com/track/4X7oNqdlt5KkNPUin7iFOP) | [Siberian Husky](https://open.spotify.com/artist/7ar3JkN4hS9Ux4Y421kOQF) | [Rakugaki no Yona](https://open.spotify.com/album/1LH56flbKHCibAi3vKW1Wt) | 3:54 | 2025-04-22 | 2025-05-07 |
 | [RARA](https://open.spotify.com/track/5tKaMINIHRqVfghw7f7zDt) | [TheSistersHigh](https://open.spotify.com/artist/0QN6oROcVrj6twcNWZPIOn) | [I like your dark side](https://open.spotify.com/album/5TgpnX9o2VbAwtygc9mxMx) | 3:39 | 2026-04-28 | 2026-05-06 |
 | [Ray](https://open.spotify.com/track/08VP35lzv2o06F6PjKEV7Z) | [夜々](https://open.spotify.com/artist/6t7fsMJuax8NObefWoWiOs) | [Ray](https://open.spotify.com/album/0L60JZmsft6EcKGHVWaH1t) | 3:32 | 2026-02-24 | 2026-03-13 |
@@ -1196,7 +1196,7 @@
 | [バッドリピートエンド](https://open.spotify.com/track/0647L6JfnQWufikSR6AabW) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [バッドリピートエンド](https://open.spotify.com/album/2PflW869EJaNYuPaHgK6gq) | 3:17 | 2023-07-27 | 2024-03-23 |
 | [バラッド](https://open.spotify.com/track/7i7IIiQmG3aaPksXzN0xmq) | [Maki](https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA) | [バラッド](https://open.spotify.com/album/0sfhfT4oWTshVTikCkML90) | 5:04 | 2025-03-11 | 2025-05-22 |
 | [バンジー！](https://open.spotify.com/track/3cSRTh5J0p3dMwTzoy1AxE) | [レトロマイガール!!](https://open.spotify.com/artist/3dtVOi7B41MT6TKllYhfuT) | [バンジー！](https://open.spotify.com/album/7zjiEMUM4iZyJWbvCfqZQQ) | 2:18 | 2024-01-09 | 2024-01-17 |
-| [バンドマンと金髪女](https://open.spotify.com/track/6Tqgxz6OHus0qu3WTDHECv) | [Cloudy](https://open.spotify.com/artist/1ZNbVSp7OXMnTNXJ3MmGUH) | [情熱があるならば](https://open.spotify.com/album/0I7TpNjJAYh7K79NWvx1Lg) | 3:01 | 2026-05-13 |  |
+| [バンドマンと金髪女](https://open.spotify.com/track/6Tqgxz6OHus0qu3WTDHECv) | [Cloudy](https://open.spotify.com/artist/1ZNbVSp7OXMnTNXJ3MmGUH) | [情熱があるならば](https://open.spotify.com/album/0I7TpNjJAYh7K79NWvx1Lg) | 3:01 | 2026-05-13 | 2026-07-10 |
 | [バーカ!](https://open.spotify.com/track/6JFOoi6YmB31AXVvs5EVJy) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [たからもの](https://open.spotify.com/album/17KGnAT0A34CBTIVnXmXGT) | 1:11 | 2024-04-16 | 2024-10-16 |
 | [バースデイ](https://open.spotify.com/track/0MUuGBksODh4qIiFK9kWHG) | [RETRORIRON](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [バースデイ](https://open.spotify.com/album/6cqJocSJ2QmCWHePaVbAUy) | 5:24 | 2025-11-04 | 2026-02-12 |
 | [パウダーブルー](https://open.spotify.com/track/4gM35NyfpKsc1MG5ugvvLL) | [マチカドラマ](https://open.spotify.com/artist/4xmsg6khhaIuKyIZUw7IQy) | [パウダーブルー](https://open.spotify.com/album/1FcbW9ocDDGZKMr0Zf3Wlz) | 3:41 | 2025-04-08 | 2025-04-16 |
@@ -1741,6 +1741,7 @@
 | [紙風船](https://open.spotify.com/track/6PnVH4Baj1g8Dyy1XwG0xx) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [紙風船](https://open.spotify.com/album/1rdUrzr2C2iTVjdvBO9zPI) | 3:14 | 2025-02-18 | 2025-07-09 |
 | [素直になれたら](https://open.spotify.com/track/1rDu82J9HWl5adEBnpqC3K) | [らそんぶる](https://open.spotify.com/artist/7b5qmQwKzZMoSDpRDvpU6j) | [素直になれたら](https://open.spotify.com/album/14MwmtnsCUKVa6JxUokBic) | 2:51 | 2026-06-30 | 2026-07-03 |
 | [紬](https://open.spotify.com/track/0J4UbxVqd2JtKsThF77lle) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [紬](https://open.spotify.com/album/4YbEISLvAHfDv6tBYO6qIL) | 3:25 | 2024-10-01 | 2025-01-22 |
+| [終わらない夜の守り方](https://open.spotify.com/track/4NlW2LywhAPqGP3WE6P6VZ) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [終わらない夜の守り方](https://open.spotify.com/album/7CsjZDN9lF8qoKcALpt2xs) | 4:04 | 2026-07-08 |  |
 | [終宵](https://open.spotify.com/track/77ve5M5MUltW9VvydkxvT7) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [終宵](https://open.spotify.com/album/13She1nPhAa5K5CdvOPOsa) | 3:49 | 2026-07-07 |  |
 | [終末論](https://open.spotify.com/track/4ack2j3aOoeovz8iPSnMdh) | [utsuro\-tanuki](https://open.spotify.com/artist/2IePttw7OG7Y8GXeZDGlz8) | [終末論](https://open.spotify.com/album/2ARcbArdrBFQqxZT5pVw5u) | 3:33 | 2025-01-21 | 2025-02-05 |
 | [終盤のジェンガ](https://open.spotify.com/track/6212OCQufHwSaJz1jKVOE8) | [窓際ぼっち倶楽部](https://open.spotify.com/artist/2e9zgh8OaNlxL0TZuWLlLJ) | [終盤のジェンガ](https://open.spotify.com/album/3RDf3QxuFW7tbVcwLHpl5w) | 3:02 | 2026-02-11 | 2026-03-11 |

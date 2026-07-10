@@ -5850,7 +5850,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 560126,
       "name": "I Live - Live",
       "url": "https://open.spotify.com/track/122j35m29xC1Xbd8vTKvJP"
@@ -11074,7 +11074,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-09",
+      "date_removed": null,
       "duration_ms": 147692,
       "name": "Sweet Jesus",
       "url": "https://open.spotify.com/track/7H1AhuPUekQcBnin0ScOxR"
@@ -11422,7 +11422,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 150750,
       "name": "Thank You Lord",
       "url": "https://open.spotify.com/track/6O79hOkKBJqmcq2dzFJsdD"
@@ -11788,6 +11788,36 @@
       "duration_ms": 141934,
       "name": "Titilailai",
       "url": "https://open.spotify.com/track/1SWHsd94dvBz0FTTZCUP2G"
+    },
+    {
+      "album": {
+        "name": "Titilailai II",
+        "url": "https://open.spotify.com/album/4yLLubzQk0BwFxOmawlWR9"
+      },
+      "artists": [
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "CHUKWUMA",
+          "url": "https://open.spotify.com/artist/1rJmQdx0zNkrRg79nRAani"
+        },
+        {
+          "name": "Johnson Jkeyz",
+          "url": "https://open.spotify.com/artist/3i5caMGGXTstF0BkyyXDNL"
+        },
+        {
+          "name": "Eddiekeyz",
+          "url": "https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199023,
+      "name": "Titilailai II",
+      "url": "https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r"
     },
     {
       "album": {

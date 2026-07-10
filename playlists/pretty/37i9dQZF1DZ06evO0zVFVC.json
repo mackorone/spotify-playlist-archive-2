@@ -1,12 +1,12 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 113869,
+  "num_followers": 113874,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAArDksrRATY+g2O9UhH+ExV",
+  "snapshot_id": "ak2TAAAAAADYJqIGBXMMZe8QIK0/c/Gd",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ire",
-        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 203289,
-      "name": "Dedicated",
-      "url": "https://open.spotify.com/track/467sEVDgETBscsn9OKJ87Q"
+      "duration_ms": 222975,
+      "name": "Absolute Power",
+      "url": "https://open.spotify.com/track/3PBO2IOcxzIdDbpDwygejB"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+        "name": "Ire",
+        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 222975,
-      "name": "Absolute Power",
-      "url": "https://open.spotify.com/track/3PBO2IOcxzIdDbpDwygejB"
+      "duration_ms": 203289,
+      "name": "Dedicated",
+      "url": "https://open.spotify.com/track/467sEVDgETBscsn9OKJ87Q"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 253839,
-      "name": "Deliver Me",
-      "url": "https://open.spotify.com/track/1OuOKS43b3pRYb9d49WrBp"
+      "duration_ms": 303808,
+      "name": "Wishing Wells",
+      "url": "https://open.spotify.com/track/6Fqdip4cWZEFwtmdhX9iNq"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 303808,
-      "name": "Wishing Wells",
-      "url": "https://open.spotify.com/track/6Fqdip4cWZEFwtmdhX9iNq"
+      "duration_ms": 253839,
+      "name": "Deliver Me",
+      "url": "https://open.spotify.com/track/1OuOKS43b3pRYb9d49WrBp"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ire",
-        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 287340,
-      "name": "Destroyer",
-      "url": "https://open.spotify.com/track/19STBV8KgQ5TqoYbio5Ewm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 248453,
       "name": "Home Is For The Heartless",
       "url": "https://open.spotify.com/track/2mvi7qtDNLuh25oOcHVEOk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ire",
+        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 287340,
+      "name": "Destroyer",
+      "url": "https://open.spotify.com/track/19STBV8KgQ5TqoYbio5Ewm"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 327013,
-      "name": "The River",
-      "url": "https://open.spotify.com/track/4yVgz6jQy3rshd2OJoyLuY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
       },
@@ -579,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing With A Smile",
-        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
       },
       "artists": [
         {
@@ -588,9 +572,25 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 220346,
-      "name": "Smoke 'Em If You Got 'Em",
-      "url": "https://open.spotify.com/track/3vbplXokNSSglwXOyZtnY5"
+      "duration_ms": 327013,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/4yVgz6jQy3rshd2OJoyLuY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killing with a Smile",
+        "url": "https://open.spotify.com/album/6BSLK8OMPCTbUldpzsYnml"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 196840,
+      "name": "Mutiny",
+      "url": "https://open.spotify.com/track/3qAS5KRBZazwa1ShCtqxW1"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 206374,
-      "name": "Devil's Calling",
-      "url": "https://open.spotify.com/track/3ysvcWkYJfyA51ieNhiKA8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
       },
@@ -643,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing with a Smile",
-        "url": "https://open.spotify.com/album/6BSLK8OMPCTbUldpzsYnml"
+        "name": "Ire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
       },
       "artists": [
         {
@@ -652,9 +636,25 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 196840,
-      "name": "Mutiny",
-      "url": "https://open.spotify.com/track/3qAS5KRBZazwa1ShCtqxW1"
+      "duration_ms": 206374,
+      "name": "Devil's Calling",
+      "url": "https://open.spotify.com/track/3ysvcWkYJfyA51ieNhiKA8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killing With A Smile",
+        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 220346,
+      "name": "Smoke 'Em If You Got 'Em",
+      "url": "https://open.spotify.com/track/3vbplXokNSSglwXOyZtnY5"
     },
     {
       "added_at": null,

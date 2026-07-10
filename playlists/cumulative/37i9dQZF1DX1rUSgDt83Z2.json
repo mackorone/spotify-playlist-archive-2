@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Achterbank",
+        "url": "https://open.spotify.com/album/0dUbHeTKK4QUnzuwShg4y0"
+      },
+      "artists": [
+        {
+          "name": "Tessa June",
+          "url": "https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168260,
+      "name": "Achterbank",
+      "url": "https://open.spotify.com/track/3BCCcJO19QKG54M2EAgGMT"
+    },
+    {
+      "album": {
         "name": "Tempo Giusto",
         "url": "https://open.spotify.com/album/38I4hDn3sXGtCI8bEiL8X6"
       },
@@ -150,7 +168,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 193388,
       "name": "Alleen Maar Jou",
       "url": "https://open.spotify.com/track/70AnDhv9j993sdGxAMpn9F"
@@ -790,6 +808,24 @@
       "duration_ms": 184615,
       "name": "Echo",
       "url": "https://open.spotify.com/track/7uxIqlS7WnDOB7XtAH2X3i"
+    },
+    {
+      "album": {
+        "name": "Echo Zonder Naam",
+        "url": "https://open.spotify.com/album/073sJQiVdw8KaOHr5A5PLd"
+      },
+      "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213340,
+      "name": "Echo Zonder Naam",
+      "url": "https://open.spotify.com/track/4xBDktgMyqDhROjDZWlAXq"
     },
     {
       "album": {
@@ -1452,6 +1488,28 @@
       "duration_ms": 165493,
       "name": "Iedereen is van de wereld (Titelsong Van De Film 'Iedereen is van de wereld')",
       "url": "https://open.spotify.com/track/3oom0huw1DOVJp9PvhbPEv"
+    },
+    {
+      "album": {
+        "name": "Ik Ben Niet Meer Bang",
+        "url": "https://open.spotify.com/album/189EqxKsLbH39r47N0VMbi"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        },
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181326,
+      "name": "Ik Ben Niet Meer Bang",
+      "url": "https://open.spotify.com/track/6nZo4DQDz3UMqKCXi6UvYY"
     },
     {
       "album": {
@@ -2412,7 +2470,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 211343,
       "name": "Niets Meer",
       "url": "https://open.spotify.com/track/24dVAws8icjFeBnWfRJMuj"
@@ -3352,7 +3410,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 199074,
       "name": "Tranen",
       "url": "https://open.spotify.com/track/7747domZyQuAyHPMy6jvAn"

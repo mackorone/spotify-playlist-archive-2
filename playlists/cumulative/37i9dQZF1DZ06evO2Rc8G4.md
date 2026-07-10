@@ -4,7 +4,7 @@
 
 > This is Kylie Minogue\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 22 min
+76 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [last night i dreamt i fell in love](https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [last night i dreamt i fell in love](https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA) | 2:06 | 2025-10-28 |  |
 | [Last Night I Dreamt I Fell In Love \- Live From The Tension Tour](https://open.spotify.com/track/1esvXyzLLj5d4ct4SUfwHP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension Tour//Live 2025](https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe) | 2:16 | 2025-10-28 | 2025-11-20 |
 | [Light Up \(From the Netflix Documentary 'Kylie'\)](https://open.spotify.com/track/5z8BOVrdo09o6VFR7AuhXk) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Up \(From the Netflix Documentary 'Kylie'\)](https://open.spotify.com/album/5ukQWhi6imFTlaJxsuoIZO) | 3:17 | 2026-05-22 |  |
+| [Light Years](https://open.spotify.com/track/23I7SxHu8fHBA6CVQ7Z0w8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Years](https://open.spotify.com/album/3vH4V069uawep9By3y6EP7) | 4:47 | 2026-07-10 |  |
 | [Lights Camera Action](https://open.spotify.com/track/1vbhiBKv5Tyfx75BOoTbdU) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:42 | 2025-10-28 |  |
 | [Love at First Sight](https://open.spotify.com/track/0NMUFQdEFjftg0BQnyZCsh) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WnLzmBgzwpotgPqqoIW9t) | 3:58 | 2025-10-28 | 2026-05-22 |
 | [Love at First Sight](https://open.spotify.com/track/6ua8mbyHXTHpAmGyGpFAS2) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:58 | 2026-05-22 |  |
@@ -75,7 +76,7 @@
 | [Things We Do For Love](https://open.spotify.com/track/6PHWpsr3URoJmitQ0xhsUL) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:09 | 2025-10-28 |  |
 | [Timebomb](https://open.spotify.com/track/5iXlbg16Fw84K2FwPsokzj) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Timebomb](https://open.spotify.com/album/1KFhdsYYnLd5nJGNSNg4Tl) | 2:56 | 2025-10-28 |  |
 | [Turn It into Love](https://open.spotify.com/track/1LH4pipBS71ZUPHmFS4gpC) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie](https://open.spotify.com/album/1uMNoNdPEtf8jhK6gxaDTO) | 3:37 | 2025-11-20 | 2026-05-22 |
-| [Vegas High](https://open.spotify.com/track/7HZtHUlDXG5eSm1PiTOrKP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:33 | 2025-10-28 |  |
+| [Vegas High](https://open.spotify.com/track/7HZtHUlDXG5eSm1PiTOrKP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:33 | 2025-10-28 | 2026-07-10 |
 | [What Do I Have to Do? \- Live From The Tension Tour](https://open.spotify.com/track/2AufsFx4AOIuluoIJXHJU6) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension Tour//Live 2025](https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe) | 2:51 | 2025-10-28 | 2026-03-18 |
 | [Where Does the DJ Go? \- Live From The Tension Tour](https://open.spotify.com/track/77ddjTj4EnIyYWi99hEKLx) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension Tour//Live 2025](https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe) | 2:07 | 2025-10-29 | 2025-10-30 |
 | [Where the Wild Roses Grow](https://open.spotify.com/track/4NtVhnFAJNzV9tCIOwdPcX) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [The Abbey Road Sessions](https://open.spotify.com/album/1BdQWouNev422Pnyrse62b) | 4:07 | 2026-04-30 |  |

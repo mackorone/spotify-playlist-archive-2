@@ -1,6 +1,6 @@
 {
   "description": "A mega Anime hits mix! Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 735863,
+  "num_followers": 735935,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-07-08 01:42:30",
       "album": {
-        "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK"
-      },
-      "artists": [
-        {
-          "name": "Yuuri",
-          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy"
-    },
-    {
-      "added_at": "2026-07-08 01:42:30",
-      "album": {
         "name": "Abyss (from Kaiju No. 8)",
         "url": "https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 123293,
       "name": "Abyss - from Kaiju No. 8",
       "url": "https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5"
+    },
+    {
+      "added_at": "2026-07-08 01:42:30",
+      "album": {
+        "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK"
+      },
+      "artists": [
+        {
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+        }
+      ],
+      "duration_ms": 243026,
+      "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy"
     },
     {
       "added_at": "2026-07-08 01:42:30",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-07-08 01:42:30",
       "album": {
-        "name": "\u659c\u967d",
-        "url": "https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "\u659c\u967d",
-      "url": "https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet"
-    },
-    {
-      "added_at": "2026-07-08 01:42:30",
-      "album": {
         "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
         "url": "https://open.spotify.com/album/5sHKJwFpJERdma9qtdm7Gl"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 189854,
       "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
       "url": "https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9"
+    },
+    {
+      "added_at": "2026-07-08 01:42:30",
+      "album": {
+        "name": "\u659c\u967d",
+        "url": "https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "\u659c\u967d",
+      "url": "https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet"
     },
     {
       "added_at": "2026-07-08 01:42:30",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-07-08 01:42:30",
       "album": {
+        "name": "Anytime Anywhere",
+        "url": "https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X"
+      },
+      "artists": [
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        }
+      ],
+      "duration_ms": 230449,
+      "name": "Anytime Anywhere",
+      "url": "https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2"
+    },
+    {
+      "added_at": "2026-07-08 01:42:30",
+      "album": {
         "name": "\u77ac\u767a\u7684\u306b\u604b\u3057\u3088\u3046",
         "url": "https://open.spotify.com/album/573QfvEpUAFE1Rxi5zvZxh"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 156000,
       "name": "\u77ac\u767a\u7684\u306b\u604b\u3057\u3088\u3046",
       "url": "https://open.spotify.com/track/3JWPApKcMzhQHkE0Waj9kK"
-    },
-    {
-      "added_at": "2026-07-08 01:42:30",
-      "album": {
-        "name": "Anytime Anywhere",
-        "url": "https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X"
-      },
-      "artists": [
-        {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
-        }
-      ],
-      "duration_ms": 230449,
-      "name": "Anytime Anywhere",
-      "url": "https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2"
     },
     {
       "added_at": "2026-07-08 01:42:30",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-07-08 01:42:30",
       "album": {
-        "name": "HIDE AND SEEK",
-        "url": "https://open.spotify.com/album/3TvybfjZVsoIzHj54Q5cMh"
-      },
-      "artists": [
-        {
-          "name": "i-dle",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "HIDE AND SEEK",
-      "url": "https://open.spotify.com/track/0b4CYurHJcazTtxNpE2OBG"
-    },
-    {
-      "added_at": "2026-07-08 01:42:30",
-      "album": {
         "name": "\u6253\u4e0a\u82b1\u706b",
         "url": "https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 289334,
       "name": "\u6253\u4e0a\u82b1\u706b",
       "url": "https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ"
+    },
+    {
+      "added_at": "2026-07-08 01:42:30",
+      "album": {
+        "name": "HIDE AND SEEK",
+        "url": "https://open.spotify.com/album/3TvybfjZVsoIzHj54Q5cMh"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "HIDE AND SEEK",
+      "url": "https://open.spotify.com/track/0b4CYurHJcazTtxNpE2OBG"
     },
     {
       "added_at": "2026-07-08 01:42:30",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-07-08 01:42:30",
       "album": {
-        "name": "\u96f6-zero-",
-        "url": "https://open.spotify.com/album/0M7H0tlUKc9PSljiRzx9mi"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "\u96f6-zero-",
-      "url": "https://open.spotify.com/track/0pLGNoLZ1q2r6Qt8ZYAS8u"
-    },
-    {
-      "added_at": "2026-07-08 01:42:30",
-      "album": {
         "name": "\u30b9\u30ad\u30f3\u30ba - Skins",
         "url": "https://open.spotify.com/album/763UvrUoMGjPlFkgdpLFIH"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 245893,
       "name": "\u30b9\u30ad\u30f3\u30ba - Skins",
       "url": "https://open.spotify.com/track/2Hbwu2z4ybNTIMVF8v3SxJ"
+    },
+    {
+      "added_at": "2026-07-08 01:42:30",
+      "album": {
+        "name": "\u96f6-zero-",
+        "url": "https://open.spotify.com/album/0M7H0tlUKc9PSljiRzx9mi"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 238253,
+      "name": "\u96f6-zero-",
+      "url": "https://open.spotify.com/track/0pLGNoLZ1q2r6Qt8ZYAS8u"
     },
     {
       "added_at": "2026-07-08 01:42:30",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2026-07-08 01:42:30",
       "album": {
+        "name": "CASANOVA POSSE",
+        "url": "https://open.spotify.com/album/2xfq9tUp4QOlCGT6j4k0g9"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "CASANOVA POSSE",
+      "url": "https://open.spotify.com/track/26Lip4WX1oWceF9tb8m2qw"
+    },
+    {
+      "added_at": "2026-07-08 01:42:30",
+      "album": {
         "name": "THE REVO",
         "url": "https://open.spotify.com/album/1OhdNxWQU7trRLggTJRtix"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 259588,
       "name": "\u98db\u307c\u3046\u3088",
       "url": "https://open.spotify.com/track/4Ael7H7pDC9VIHeA0CxU4U"
-    },
-    {
-      "added_at": "2026-07-08 01:42:30",
-      "album": {
-        "name": "CASANOVA POSSE",
-        "url": "https://open.spotify.com/album/2xfq9tUp4QOlCGT6j4k0g9"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "CASANOVA POSSE",
-      "url": "https://open.spotify.com/track/26Lip4WX1oWceF9tb8m2qw"
     }
   ],
   "unique_name": "Anime On Replay",

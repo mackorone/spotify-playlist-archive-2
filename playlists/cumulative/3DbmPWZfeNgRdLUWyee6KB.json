@@ -3883,6 +3883,24 @@
     },
     {
       "album": {
+        "name": "Cool Beans",
+        "url": "https://open.spotify.com/album/5ZGn1aZsdn2CwVNic1kXD6"
+      },
+      "artists": [
+        {
+          "name": "Lovechild",
+          "url": "https://open.spotify.com/artist/63joINATp7Ko83hV2D3UtU"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233546,
+      "name": "Cool Beans",
+      "url": "https://open.spotify.com/track/0oiXqI9221znTkKHYpTL4d"
+    },
+    {
+      "album": {
         "name": "Cool Breeze",
         "url": "https://open.spotify.com/album/5mcOE9xiQGH9rvaAW1H8Op"
       },
@@ -18275,6 +18293,24 @@
     },
     {
       "album": {
+        "name": "Smoke in a Silver Line",
+        "url": "https://open.spotify.com/album/33XXPERdj3JIybLT91WdLg"
+      },
+      "artists": [
+        {
+          "name": "Consorcio Humano",
+          "url": "https://open.spotify.com/artist/6pzNibk8eE0etGvSTW8rjI"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190354,
+      "name": "Smoke in a Silver Line",
+      "url": "https://open.spotify.com/track/5pJE5tr1BWeMHxlBoCSc73"
+    },
+    {
+      "album": {
         "name": "Snap",
         "url": "https://open.spotify.com/album/4ErbPCHn0Fc7yGiNTnoFOr"
       },
@@ -21604,6 +21640,28 @@
       "duration_ms": 274690,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/4GhdgLqCsD2cDPKZyXuNKR"
+    },
+    {
+      "album": {
+        "name": "Transparency",
+        "url": "https://open.spotify.com/album/6er4YynjnlK2CBfIFNMN5T"
+      },
+      "artists": [
+        {
+          "name": "T-WINNN",
+          "url": "https://open.spotify.com/artist/5DgJEIByQ2L0y5Nmzw4zq0"
+        },
+        {
+          "name": "Rap & R&B Collective",
+          "url": "https://open.spotify.com/artist/2bzcaHXweMRwPs4C9qqlwB"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181759,
+      "name": "Transparency",
+      "url": "https://open.spotify.com/track/6khQUVORfUdXUyyfzlWYZp"
     },
     {
       "album": {

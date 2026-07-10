@@ -1,6 +1,6 @@
 {
   "description": "T\u00fcrkiye'nin birbirinden g\u00fc\u00e7l\u00fc kad\u0131n sesleri bir arada. Kapak: N\u00fckhet Duru",
-  "num_followers": 84035,
+  "num_followers": 84039,
   "original_name": "EQUAL T\u00fcrkiye",
   "owner": {
     "name": "Spotify",
@@ -518,6 +518,10 @@
         {
           "name": "Elif Sanchez",
           "url": "https://open.spotify.com/artist/74v3N39tiIzpUsDLpHGz2B"
+        },
+        {
+          "name": "O Kwarteto",
+          "url": "https://open.spotify.com/artist/0XoxJtDROhxLeZo8hxI1ny"
         }
       ],
       "duration_ms": 233205,
@@ -635,6 +639,22 @@
       "duration_ms": 176949,
       "name": "Gams\u0131z",
       "url": "https://open.spotify.com/track/0tK8SCB2lHQUZLtptQ2wDX"
+    },
+    {
+      "added_at": "2026-06-30 21:00:09",
+      "album": {
+        "name": "En B\u00fcy\u00fck Yenilgim",
+        "url": "https://open.spotify.com/album/5V6Y7ZC3pWLf2DquCTHWX2"
+      },
+      "artists": [
+        {
+          "name": "G\u00fclden Esen",
+          "url": "https://open.spotify.com/artist/0oNxxM5U3ySoqWW1NUhyPC"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "En B\u00fcy\u00fck Yenilgim",
+      "url": "https://open.spotify.com/track/0Urb3lQIYbz7VGVNHF8zPr"
     },
     {
       "added_at": "2026-06-30 21:00:09",

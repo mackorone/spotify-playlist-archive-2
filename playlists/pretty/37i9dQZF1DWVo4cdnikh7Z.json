@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Vishwanath & Sons",
-  "num_followers": 752996,
+  "num_followers": 753083,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJFiDDAL+raSazo0QnhWVs6tgPva",
+  "snapshot_id": "AAAAAHqfu8dr/Ec4O/hVxVbofUbCa5A1",
   "tracks": [
     {
       "added_at": "2026-06-19 13:18:18",
@@ -31,6 +31,26 @@
       "duration_ms": 208500,
       "name": "Pattampoochi (From \"Vishwanath & Sons\")(Tamil)",
       "url": "https://open.spotify.com/track/1DgQIai8yxUNhNeYVfaqT9"
+    },
+    {
+      "added_at": "2026-07-06 12:23:12",
+      "album": {
+        "name": "Aane Wala Star",
+        "url": "https://open.spotify.com/album/6oh1KtCCDzeuzdFbZV1AW5"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Dholu bholu",
+          "url": "https://open.spotify.com/artist/3P1t2nnqpPMD8auDRSSZy6"
+        }
+      ],
+      "duration_ms": 132712,
+      "name": "Aane Wala Star",
+      "url": "https://open.spotify.com/track/34520Ev0rl6reqiIKSr2eK"
     },
     {
       "added_at": "2026-07-06 15:28:08",
@@ -173,24 +193,20 @@
       "url": "https://open.spotify.com/track/4pibaSwz8vWyQQcFlDafFz"
     },
     {
-      "added_at": "2026-07-06 12:23:12",
+      "added_at": "2026-05-18 09:30:20",
       "album": {
-        "name": "Aane Wala Star",
-        "url": "https://open.spotify.com/album/6oh1KtCCDzeuzdFbZV1AW5"
+        "name": "Raga of Revenge (From \"DC\")",
+        "url": "https://open.spotify.com/album/0E0UiqvTJlvYqnEaLuTaL8"
       },
       "artists": [
         {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "Dholu bholu",
-          "url": "https://open.spotify.com/artist/3P1t2nnqpPMD8auDRSSZy6"
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         }
       ],
-      "duration_ms": 132712,
-      "name": "Aane Wala Star",
-      "url": "https://open.spotify.com/track/34520Ev0rl6reqiIKSr2eK"
+      "duration_ms": 131250,
+      "name": "Raga of Revenge (From \"DC\")",
+      "url": "https://open.spotify.com/track/4cVgfaHzVDu3srYfJEP0AN"
     },
     {
       "added_at": "2026-07-01 13:35:26",
@@ -257,54 +273,6 @@
       "url": "https://open.spotify.com/track/0uExLQym0YauTNhuLJGcps"
     },
     {
-      "added_at": "2026-07-08 06:12:22",
-      "album": {
-        "name": "The Rise of GDN (From \"G.D.N.\")",
-        "url": "https://open.spotify.com/album/0q7dQTfaIzfrkkUoShIbco"
-      },
-      "artists": [
-        {
-          "name": "Govind Vasantha",
-          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
-        },
-        {
-          "name": "Maalavika Sundar",
-          "url": "https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP"
-        },
-        {
-          "name": "JAXK",
-          "url": "https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq"
-        },
-        {
-          "name": "Senthuzhan",
-          "url": "https://open.spotify.com/artist/70FG3TFLKDHaIiT9QcxWQX"
-        }
-      ],
-      "duration_ms": 215409,
-      "name": "The Rise of GDN (From \"G.D.N.\")",
-      "url": "https://open.spotify.com/track/4WH0z1XvtjJvgEKbsgQjwt"
-    },
-    {
-      "added_at": "2026-06-24 12:09:40",
-      "album": {
-        "name": "Rise of Linga (From \"MAGUDAM\")",
-        "url": "https://open.spotify.com/album/5N1Cs9I75y7ArInnP9Nbs1"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "V7h",
-          "url": "https://open.spotify.com/artist/12UkcM69ZnjKtvacIgVDdl"
-        }
-      ],
-      "duration_ms": 204041,
-      "name": "Rise of Linga (From \"MAGUDAM\")",
-      "url": "https://open.spotify.com/track/0MghbXuLRY6AbFFAMaUAp8"
-    },
-    {
       "added_at": "2026-06-26 05:15:39",
       "album": {
         "name": "Yaar Yaarival (From \"Ram in Leela\")",
@@ -335,6 +303,74 @@
       "duration_ms": 199132,
       "name": "Yaar Yaarival - From \"Ram in Leela\"",
       "url": "https://open.spotify.com/track/3c2yNVENVB9jgDuFZzxRXs"
+    },
+    {
+      "added_at": "2026-07-08 06:12:22",
+      "album": {
+        "name": "The Rise of GDN (From \"G.D.N.\")",
+        "url": "https://open.spotify.com/album/0q7dQTfaIzfrkkUoShIbco"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Maalavika Sundar",
+          "url": "https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP"
+        },
+        {
+          "name": "JAXK",
+          "url": "https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq"
+        },
+        {
+          "name": "Senthuzhan",
+          "url": "https://open.spotify.com/artist/70FG3TFLKDHaIiT9QcxWQX"
+        }
+      ],
+      "duration_ms": 215409,
+      "name": "The Rise of GDN (From \"G.D.N.\")",
+      "url": "https://open.spotify.com/track/4WH0z1XvtjJvgEKbsgQjwt"
+    },
+    {
+      "added_at": "2026-06-10 11:33:15",
+      "album": {
+        "name": "Parimala and Co (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Vbm40V6D1xPit0KDzRzp9"
+      },
+      "artists": [
+        {
+          "name": "foxn",
+          "url": "https://open.spotify.com/artist/2dbBX8wPRhL660FxN7MIDv"
+        },
+        {
+          "name": "LRC",
+          "url": "https://open.spotify.com/artist/6boEBmjWJPo38PIgIiVmfo"
+        }
+      ],
+      "duration_ms": 168428,
+      "name": "Watcha Udadha",
+      "url": "https://open.spotify.com/track/6zoMXYC40gVmMXQJfJFeCg"
+    },
+    {
+      "added_at": "2026-06-24 12:09:40",
+      "album": {
+        "name": "Rise of Linga (From \"MAGUDAM\")",
+        "url": "https://open.spotify.com/album/5N1Cs9I75y7ArInnP9Nbs1"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "V7h",
+          "url": "https://open.spotify.com/artist/12UkcM69ZnjKtvacIgVDdl"
+        }
+      ],
+      "duration_ms": 204041,
+      "name": "Rise of Linga (From \"MAGUDAM\")",
+      "url": "https://open.spotify.com/track/0MghbXuLRY6AbFFAMaUAp8"
     },
     {
       "added_at": "2026-06-26 05:13:09",
@@ -381,6 +417,22 @@
       "url": "https://open.spotify.com/track/21sbfmwfNXEHraQkJqSuZn"
     },
     {
+      "added_at": "2026-07-06 12:14:38",
+      "album": {
+        "name": "Settai (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/2wBctO4UnaTG48RVcu48wq"
+      },
+      "artists": [
+        {
+          "name": "VENGAYO",
+          "url": "https://open.spotify.com/artist/1P4oExIGGqxK4LYSjPxw01"
+        }
+      ],
+      "duration_ms": 133067,
+      "name": "Settai - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/639TuDa1HNjfQ5Z85y9obD"
+    },
+    {
       "added_at": "2026-07-06 12:39:03",
       "album": {
         "name": "Ladies & Ladies (From \"Toxic - Tamil\")",
@@ -415,58 +467,6 @@
       "duration_ms": 239294,
       "name": "Allipoove (From \"Arulvaan\")",
       "url": "https://open.spotify.com/track/0c1wb2AcT9Fgm4suQWDNtn"
-    },
-    {
-      "added_at": "2026-05-18 09:30:20",
-      "album": {
-        "name": "Raga of Revenge (From \"DC\")",
-        "url": "https://open.spotify.com/album/0E0UiqvTJlvYqnEaLuTaL8"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "Raga of Revenge (From \"DC\")",
-      "url": "https://open.spotify.com/track/4cVgfaHzVDu3srYfJEP0AN"
-    },
-    {
-      "added_at": "2026-07-06 12:14:38",
-      "album": {
-        "name": "Settai (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/2wBctO4UnaTG48RVcu48wq"
-      },
-      "artists": [
-        {
-          "name": "VENGAYO",
-          "url": "https://open.spotify.com/artist/1P4oExIGGqxK4LYSjPxw01"
-        }
-      ],
-      "duration_ms": 133067,
-      "name": "Settai - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/639TuDa1HNjfQ5Z85y9obD"
-    },
-    {
-      "added_at": "2026-06-10 11:33:15",
-      "album": {
-        "name": "Parimala and Co (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6Vbm40V6D1xPit0KDzRzp9"
-      },
-      "artists": [
-        {
-          "name": "foxn",
-          "url": "https://open.spotify.com/artist/2dbBX8wPRhL660FxN7MIDv"
-        },
-        {
-          "name": "LRC",
-          "url": "https://open.spotify.com/artist/6boEBmjWJPo38PIgIiVmfo"
-        }
-      ],
-      "duration_ms": 168428,
-      "name": "Watcha Udadha",
-      "url": "https://open.spotify.com/track/6zoMXYC40gVmMXQJfJFeCg"
     },
     {
       "added_at": "2026-07-07 04:15:10",
@@ -785,26 +785,6 @@
       "url": "https://open.spotify.com/track/7wacnPNAWYClCZWvvcCYie"
     },
     {
-      "added_at": "2026-06-29 09:27:39",
-      "album": {
-        "name": "Gatta Kusthi 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0yXEnEExgNVMHD2SUBTfs0"
-      },
-      "artists": [
-        {
-          "name": "Sean Roldan",
-          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
-        },
-        {
-          "name": "Mohan Rajan",
-          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
-        }
-      ],
-      "duration_ms": 219411,
-      "name": "Lesa Eduthuka",
-      "url": "https://open.spotify.com/track/1WjqHGnSi6jomhZb5HpzsN"
-    },
-    {
       "added_at": "2026-06-26 05:13:09",
       "album": {
         "name": "Engal Thangam (Original Motion Picture Soundtrack)",
@@ -893,82 +873,6 @@
       "url": "https://open.spotify.com/track/0a23qt1mtyXRcX8SvcMaYM"
     },
     {
-      "added_at": "2026-06-29 09:27:39",
-      "album": {
-        "name": "Irumudi Kattu (From \"Irumudi Kattu\")",
-        "url": "https://open.spotify.com/album/18vCzy7B5W4hc7WRpOiaCS"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Ananthu",
-          "url": "https://open.spotify.com/artist/2UbN2AxPOv8kc1x4J4SGjc"
-        },
-        {
-          "name": "Balaji Venugopal",
-          "url": "https://open.spotify.com/artist/2AgNfl8BFrDlCLKeZgBZli"
-        }
-      ],
-      "duration_ms": 249115,
-      "name": "Irumudi Kattu (From \"Irumudi Kattu\")",
-      "url": "https://open.spotify.com/track/7e29u4TK8upxo3QD0Q8i51"
-    },
-    {
-      "added_at": "2026-06-30 11:37:56",
-      "album": {
-        "name": "Ey Maanuda (From \"Sing Geetham\")",
-        "url": "https://open.spotify.com/album/5JLQEaXQ91ncu1pfJYTH0J"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Imayavaramban Barani",
-          "url": "https://open.spotify.com/artist/1ZTHsXjREz2tgRVhjxCpDH"
-        },
-        {
-          "name": "Narayanan Ravishankar",
-          "url": "https://open.spotify.com/artist/2eJunkotmRUe8mLJmqW8HD"
-        }
-      ],
-      "duration_ms": 128484,
-      "name": "Ey Maanuda (From \"Sing Geetham\")",
-      "url": "https://open.spotify.com/track/5Rmtxh4G1UaRBIlMXmvTSy"
-    },
-    {
-      "added_at": "2026-06-24 12:51:32",
-      "album": {
-        "name": "Rippipee (From \"Sathyavan Savithiri\")",
-        "url": "https://open.spotify.com/album/0q8EIU64LmGa5lbpF03ocB"
-      },
-      "artists": [
-        {
-          "name": "Sam C.S.",
-          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
-        },
-        {
-          "name": "Diwakar",
-          "url": "https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD"
-        },
-        {
-          "name": "Reshma Shyam",
-          "url": "https://open.spotify.com/artist/6gLyEME6OfBcqYtrDt1JlB"
-        },
-        {
-          "name": "Mohan Rajan",
-          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
-        }
-      ],
-      "duration_ms": 177079,
-      "name": "Rippipee (From \"Sathyavan Savithiri\")",
-      "url": "https://open.spotify.com/track/16u3QPCAZQ37dHqRmlWm0a"
-    },
-    {
       "added_at": "2026-06-19 13:23:14",
       "album": {
         "name": "Nightu Nila (From \"Vekkai\")",
@@ -991,22 +895,6 @@
       "duration_ms": 208205,
       "name": "Nightu Nila - From \"Vekkai\"",
       "url": "https://open.spotify.com/track/3BcifTzLQviVBw5zjMWDHw"
-    },
-    {
-      "added_at": "2026-06-24 12:37:11",
-      "album": {
-        "name": "Lingam (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5HQc3YpKCHrXbKPlKdbxDV"
-      },
-      "artists": [
-        {
-          "name": "Sireesha Bhagavatula",
-          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
-        }
-      ],
-      "duration_ms": 186681,
-      "name": "Ithu Enna",
-      "url": "https://open.spotify.com/track/3UFILBZdDrZgO2fhKneSaY"
     },
     {
       "added_at": "2026-06-23 04:52:06",

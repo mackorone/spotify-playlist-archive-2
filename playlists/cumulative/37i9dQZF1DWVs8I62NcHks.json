@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Enjoy your favorite Disney tunes, including \"Zoo\" from Zootopia 2!",
+  "description": "Enjoy your favorite Disney tunes, including \"You're Welcome\" from Moana! Disney's Moana, only in theaters.",
   "name": "Disney Favorites",
   "tracks": [
     {
@@ -718,7 +718,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 167272,
       "name": "Burning Love",
       "url": "https://open.spotify.com/track/7tg6qrdwIo0qKL5tgNWYh0"
@@ -1826,10 +1826,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 163386,
       "name": "How Far I'll Go",
       "url": "https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd"
+    },
+    {
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3g9Z0jxX31lghNgzkdfhCD"
+      },
+      "artists": [
+        {
+          "name": "Catherine Laga'aia",
+          "url": "https://open.spotify.com/artist/73VULsGi9bDaKbgLORFXd5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171040,
+      "name": "How Far I'll Go",
+      "url": "https://open.spotify.com/track/0L7dpG5vvfPxrhJnEZ5zg1"
     },
     {
       "album": {
@@ -3383,6 +3405,28 @@
     },
     {
       "album": {
+        "name": "Moana (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3g9Z0jxX31lghNgzkdfhCD"
+      },
+      "artists": [
+        {
+          "name": "Jemaine Clement",
+          "url": "https://open.spotify.com/artist/1Ymky4GOgYA1NI96FCY8yE"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184360,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/1ey4RwlCQdVc5l0cOKCPmr"
+    },
+    {
+      "album": {
         "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
       },
@@ -4832,6 +4876,28 @@
       "duration_ms": 163893,
       "name": "You're Welcome",
       "url": "https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24"
+    },
+    {
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3g9Z0jxX31lghNgzkdfhCD"
+      },
+      "artists": [
+        {
+          "name": "Dwayne Johnson",
+          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167186,
+      "name": "You're Welcome",
+      "url": "https://open.spotify.com/track/6H0JqH391qbGqe0zs3oZJW"
     },
     {
       "album": {

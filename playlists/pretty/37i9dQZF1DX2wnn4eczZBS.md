@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > Indiepop in het Nederlands\. Cover: Igor
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,438 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,440 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 40 | [CONFLICT](https://open.spotify.com/track/6rhUciq7H7uz6WjEckuk0S) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea) | [GEEN TITEL](https://open.spotify.com/album/3hioypt7zKgNZT5JTUwXsx) | 2:32 |
 | 41 | [In NL Mag Je Een Vrouw Slaan](https://open.spotify.com/track/7FxAlqztuui1tcixeLCq0n) | [Alice Olsthoorn](https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA) | [In NL Mag Je Een Vrouw Slaan](https://open.spotify.com/album/3q5dNlndDVXzfvulgjpbRe) | 2:30 |
 | 42 | [Nederland](https://open.spotify.com/track/6lByEnaXlZS78u7YxvKEF4) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4), [Vinkenoog](https://open.spotify.com/artist/6AGDhC3w4fUUMOwuzQlysK) | [Nederland](https://open.spotify.com/album/45DRLkQnQCjxiPDLrK0x63) | 3:04 |
-| 43 | [TIJDSGEEST](https://open.spotify.com/track/3uKQQH67pV4dsJIR6SML8z) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND 2](https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug) | 3:19 |
-| 44 | [Normaal Toen](https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Normaal Toen](https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10) | 3:14 |
+| 43 | [Normaal Toen](https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Normaal Toen](https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10) | 3:14 |
+| 44 | [TIJDSGEEST](https://open.spotify.com/track/3uKQQH67pV4dsJIR6SML8z) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND 2](https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug) | 3:19 |
 | 45 | [Niemandsland](https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niemandsland](https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll) | 2:45 |
 | 46 | [Mommy](https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Mommy](https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU) | 2:54 |
 | 47 | [Apotheek \- SIROJ Version](https://open.spotify.com/track/15BnW7ZSLvXkXzf5MjNpe5) | [SIROJ](https://open.spotify.com/artist/0SQOIur6PFpZ7ACj9BX2Tv), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Versions](https://open.spotify.com/album/3wUueIoejrx9j3nbVqOTA8) | 3:12 |

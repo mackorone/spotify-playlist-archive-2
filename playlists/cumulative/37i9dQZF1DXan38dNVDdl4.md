@@ -2,9 +2,9 @@
 
 ### [Dancehall Official](https://open.spotify.com/playlist/37i9dQZF1DXan38dNVDdl4)
 
-> The biggest Dancehall playlist in the world\. Cover: Shenseea
+> The biggest Dancehall playlist in the world\. Cover: Ayetian
 
-614 songs - 1 day 5 hr 51 min
+615 songs - 1 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Maniac](https://open.spotify.com/track/1tCcOw0WZuKRkW5xl9EhMm) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/3y09mvRbBlkfCJHmlpQnc7) | 2:58 | 2021-12-20 | 2022-03-22 |
 | [Mek Money](https://open.spotify.com/track/3MVbaHUhFefg7RKjTXMoa9) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Mek Money](https://open.spotify.com/album/5Evsbapiw54PEtMa7tpSGe) | 2:13 | 2021-12-20 | 2023-11-18 |
 | [Miami](https://open.spotify.com/track/6dlChd6ypZaBb17vJAY9cW) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Miami](https://open.spotify.com/album/3Evmu9HX1vxWSu3LJP3ZZh) | 3:01 | 2025-08-08 |  |
+| [Miami Vice](https://open.spotify.com/track/4weo7UBnXLgp7RN9zqHoru) | [Ayetian](https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P) | [JamPack](https://open.spotify.com/album/1Q6F68AS8dqwHqc62cEaiD) | 3:02 | 2026-07-09 |  |
 | [Middle](https://open.spotify.com/track/171oqBowIpiDoow5uGqgg0) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Middle](https://open.spotify.com/album/0NlJ1pz17KDONwsqbubpTz) | 2:06 | 2023-01-31 | 2023-07-11 |
 | [Midnight Calls](https://open.spotify.com/track/4lPMcQjIX701F1kwBerOC4) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Midnight Calls](https://open.spotify.com/album/1vtFz0wCx0SFYDQdY7wQ7E) | 3:04 | 2025-06-23 |  |
 | [Mill to a Billion](https://open.spotify.com/track/0atBExM7sK2koFIRVFgoYi) | [Adofo](https://open.spotify.com/artist/4hksQwOzftWoiJaiU9Ajq1) | [Mill to a Billion](https://open.spotify.com/album/4aT9w8TUk4glHrJnt8yNyL) | 3:14 | 2026-07-02 |  |
@@ -362,7 +363,7 @@
 | [Murda Me Say](https://open.spotify.com/track/3p9zn37zm6WabheFaXR7QJ) | [Jerry Wonda](https://open.spotify.com/artist/5zC9byApWfm2ZPnD3yZrWZ), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Murda Me Say](https://open.spotify.com/album/4CNfJLsFUP90y4FQfkbRZB) | 2:47 | 2025-06-23 | 2026-05-31 |
 | [Mute](https://open.spotify.com/track/1SsBhroynnJPIU4jc9eVqC) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Mute](https://open.spotify.com/album/6XhQsFERljV8xhwBGiuCnp) | 4:02 | 2025-08-29 |  |
 | [MY OWN](https://open.spotify.com/track/6JphsjYCbdAahwqHHLkR6m) | [BomboCat](https://open.spotify.com/artist/15eyufHcNdA2G33nBNotRm), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih), [Sukuward](https://open.spotify.com/artist/0HTe090uRvK2wjx8rdIOl3), [Tahire](https://open.spotify.com/artist/6U59m1jHqcbahYMY8AwAs7) | [MY OWN](https://open.spotify.com/album/790J6eXAN91mESJEIyYRsH) | 2:12 | 2023-09-24 | 2023-11-18 |
-| [My Type](https://open.spotify.com/track/3j8LTAARfkEw4oFO7QwjxM) | [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc), [RaheemWiddiBook](https://open.spotify.com/artist/2tu2x4ypYhnLoIeMwZdeIv), [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [My Type](https://open.spotify.com/album/6KZICvxKfXdBHEXxYvmZkA) | 2:48 | 2025-08-01 |  |
+| [My Type](https://open.spotify.com/track/3j8LTAARfkEw4oFO7QwjxM) | [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc), [RaheemWiddiBook](https://open.spotify.com/artist/2tu2x4ypYhnLoIeMwZdeIv), [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [My Type](https://open.spotify.com/album/6KZICvxKfXdBHEXxYvmZkA) | 2:48 | 2025-08-01 | 2026-07-10 |
 | [My Type](https://open.spotify.com/track/6oBtzGQSirafwnRDNlloMl) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [My Type \- Single](https://open.spotify.com/album/1IbrNSS9aKgY9M0k1wBJC7) | 3:05 | 2023-07-10 | 2023-08-08 |
 | [My Woman](https://open.spotify.com/track/4T3z9vQCpCqZHJazLXiMfd) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi), [Chambah](https://open.spotify.com/artist/6WKWGcRMN83IBGozupiLhS) | [Guarded \- EP](https://open.spotify.com/album/0HfUgNY3Sj0sZuFLskCP2E) | 3:06 | 2024-08-05 | 2025-10-03 |
 | [Nah Sell Out](https://open.spotify.com/track/3aHstJ30kSIoAyn3UkhFVx) | [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX), [Khago](https://open.spotify.com/artist/3c6AtQnmjRR92n1klQj5PB) | [One Day Riddim](https://open.spotify.com/album/5PkIgWAMxMDiDv1jrzkqgm) | 2:18 | 2023-07-10 | 2023-08-08 |

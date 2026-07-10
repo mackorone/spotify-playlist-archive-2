@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAC3H4PDZT+LEDDdG4Xx7+Ys",
+  "snapshot_id": "ak2TAAAAAABedm94UXSSnbEXmY6EQa8e",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghost World",
-        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 201653,
-      "name": "Tobacco In My Sheets",
-      "url": "https://open.spotify.com/track/4p6IFaIofYYRHrJlLq8MyY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ghost World (Piano Versions)",
         "url": "https://open.spotify.com/album/5rU6PM80YSF6JOOz4Nw92T"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 171438,
       "name": "Latest Ghost - Piano Version",
       "url": "https://open.spotify.com/track/2loDDNNlOt33AQqRDIZOtJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ghost World",
+        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "Tobacco In My Sheets",
+      "url": "https://open.spotify.com/track/4p6IFaIofYYRHrJlLq8MyY"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghost World",
-        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 174138,
-      "name": "Fuckedupminddd",
-      "url": "https://open.spotify.com/track/1utfH4im9foOZg7AgeMpKr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Isn\u2019t It Strange?",
         "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 202848,
       "name": "Suddenly Strangers",
       "url": "https://open.spotify.com/track/73B6PiZ2UDUss37GmbI5cQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ghost World",
+        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 174138,
+      "name": "Fuckedupminddd",
+      "url": "https://open.spotify.com/track/1utfH4im9foOZg7AgeMpKr"
     },
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Isn\u2019t It Strange?",
+        "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 237338,
+      "name": "Thinking About",
+      "url": "https://open.spotify.com/track/6wpUNL6pvnzjehb8Az0jmt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If Looks Could Kill",
         "url": "https://open.spotify.com/album/39DZ3bo9YT32B4LA7TxWOO"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 209896,
       "name": "If Looks Could Kill",
       "url": "https://open.spotify.com/track/40iz3ixJkBn8vFnnvGQhK1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Isn\u2019t It Strange?",
-        "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 239468,
-      "name": "How Would You Like It?",
-      "url": "https://open.spotify.com/track/2hew0QHOWxyf7JoiP8LVSI"
     },
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Isn\u2019t It Strange?",
+        "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 239468,
+      "name": "How Would You Like It?",
+      "url": "https://open.spotify.com/track/2hew0QHOWxyf7JoiP8LVSI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Liars",
         "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
       },
@@ -435,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Isn\u2019t It Strange?",
-        "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 237338,
-      "name": "Thinking About",
-      "url": "https://open.spotify.com/track/6wpUNL6pvnzjehb8Az0jmt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Knife",
         "url": "https://open.spotify.com/album/5lwCJrOOBc4y6xrspWuPsM"
       },
@@ -463,70 +463,6 @@
       "duration_ms": 176626,
       "name": "The Knife",
       "url": "https://open.spotify.com/track/3OUNyFSFAjddyeErrZJ4e1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ghost World",
-        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 111780,
-      "name": "Teenage Self",
-      "url": "https://open.spotify.com/track/6OldSvtQa4kQoTSaWzsSlR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liars",
-        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Broke",
-      "url": "https://open.spotify.com/track/4WB0MpDC1CmiKBmXIGjI2q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Isn\u2019t It Strange?",
-        "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 246888,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/1MNevc3dOPDPRZ3SinWfje"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/4t9wHECf8eEymsGn8uAfG0"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 238446,
-      "name": "Out Of Our Depth",
-      "url": "https://open.spotify.com/track/0azPcAj5JzQcpI3HTfcQmZ"
     },
     {
       "added_at": null,
@@ -559,6 +495,70 @@
       "duration_ms": 258598,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/20dyDdutlGUpKffvWOLpni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liars",
+        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/4WB0MpDC1CmiKBmXIGjI2q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/4t9wHECf8eEymsGn8uAfG0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 238446,
+      "name": "Out Of Our Depth",
+      "url": "https://open.spotify.com/track/0azPcAj5JzQcpI3HTfcQmZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ghost World",
+        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 111780,
+      "name": "Teenage Self",
+      "url": "https://open.spotify.com/track/6OldSvtQa4kQoTSaWzsSlR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Isn\u2019t It Strange?",
+        "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 246888,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/1MNevc3dOPDPRZ3SinWfje"
     },
     {
       "added_at": null,

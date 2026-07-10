@@ -1,6 +1,6 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: Grace Ives",
-  "num_followers": 629634,
+  "num_followers": 629641,
   "original_name": "Women of Indie",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 219986,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
         "name": "Dance Fever",
         "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 234857,
       "name": "Free",
       "url": "https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 219986,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -651,18 +651,18 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "Historian",
-        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
+        "name": "12 hugs (like butterflies)",
+        "url": "https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC"
       },
       "artists": [
         {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
         }
       ],
-      "duration_ms": 391829,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
+      "duration_ms": 289173,
+      "name": "more than words",
+      "url": "https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -683,34 +683,18 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "12 hugs (like butterflies)",
-        "url": "https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC"
+        "name": "Historian",
+        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
       },
       "artists": [
         {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 289173,
-      "name": "more than words",
-      "url": "https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
-        "name": "Headphones On",
-        "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 240308,
-      "name": "Headphones On",
-      "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
+      "duration_ms": 391829,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -727,6 +711,22 @@
       "duration_ms": 209533,
       "name": "I'm Your Man",
       "url": "https://open.spotify.com/track/6YO2dalWyZSobXSY3UUPv9"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
+        "name": "Headphones On",
+        "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 240308,
+      "name": "Headphones On",
+      "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "Days Are Gone",
-        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 245786,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
         "name": "WILLOW",
         "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 173920,
       "name": "Female Energy, Part 2",
       "url": "https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
+        "name": "Days Are Gone",
+        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 245786,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "cherry cola / sunburn",
-        "url": "https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn"
-      },
-      "artists": [
-        {
-          "name": "Devon Again",
-          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
-        }
-      ],
-      "duration_ms": 168226,
-      "name": "cherry cola",
-      "url": "https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 240364,
       "name": "Best Guess",
       "url": "https://open.spotify.com/track/2u6VEZjUu5P3GVfUMDIIbu"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
+        "name": "cherry cola / sunburn",
+        "url": "https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 168226,
+      "name": "cherry cola",
+      "url": "https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
+        "name": "If Not Winter",
+        "url": "https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM"
       },
       "artists": [
         {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         }
       ],
-      "duration_ms": 147413,
-      "name": "Delusional",
-      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
+      "duration_ms": 237840,
+      "name": "Breathe onto me",
+      "url": "https://open.spotify.com/track/4Ptz8KrFzU52Eyp1wwpVCn"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 147413,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
         "name": "2SIDED",
         "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 177473,
       "name": "2SIDED",
       "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
-        "name": "If Not Winter",
-        "url": "https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "Breathe onto me",
-      "url": "https://open.spotify.com/track/4Ptz8KrFzU52Eyp1wwpVCn"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
+        "name": "Hey u x",
+        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 182335,
+      "name": "If I Get To Meet You",
+      "url": "https://open.spotify.com/track/14rNxRzrnsyqDZ8PRfV1k3"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
         "name": "Desire, I Want To Turn Into You",
         "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 245124,
       "name": "Fly To You (feat. Grimes and Dido)",
       "url": "https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
-        "name": "Hey u x",
-        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 182335,
-      "name": "If I Get To Meet You",
-      "url": "https://open.spotify.com/track/14rNxRzrnsyqDZ8PRfV1k3"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/15GocbF7ybkkPP03YXtLqv"
+        "name": "Romanticism",
+        "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
       },
       "artists": [
         {
-          "name": "Tirzah",
-          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
         }
       ],
-      "duration_ms": 199733,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/4RjwMyr4D2W4py79Heop9l"
+      "duration_ms": 277815,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/2vMFO30YvEX3PQFKO1nVLZ"
     }
   ],
   "unique_name": "Women of Indie",

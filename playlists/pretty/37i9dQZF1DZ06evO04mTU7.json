@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 16313,
+  "num_followers": 16327,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAB5piJdyAQ1Z0GDRvzXzg3W",
+  "snapshot_id": "ak2TAAAAAACrcLv304+NbjTzqWiayA9v",
   "tracks": [
     {
       "added_at": null,
@@ -251,54 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasci pra ser - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/2gQtiyrMsbXHQAFaphqkKR"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 175402,
-      "name": "Nasci pra ser - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2TVPbqCPJezGriT4wjCtyD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Novo Testamento",
-        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Alt Niss",
-          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
-        },
-        {
-          "name": "Cheek",
-          "url": "https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 156374,
-      "name": "Sob a luz do seu olhar",
-      "url": "https://open.spotify.com/track/68SClB1WYtJnapn6I7Spmk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poetisas no Topo 3",
         "url": "https://open.spotify.com/album/59B1Leein60p2cEODo6OHl"
       },
@@ -343,6 +295,54 @@
       "duration_ms": 374400,
       "name": "Poetisas no Topo 3",
       "url": "https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Novo Testamento",
+        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Alt Niss",
+          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
+        },
+        {
+          "name": "Cheek",
+          "url": "https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 156374,
+      "name": "Sob a luz do seu olhar",
+      "url": "https://open.spotify.com/track/68SClB1WYtJnapn6I7Spmk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nasci pra ser - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2gQtiyrMsbXHQAFaphqkKR"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 175402,
+      "name": "Nasci pra ser - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2TVPbqCPJezGriT4wjCtyD"
     },
     {
       "added_at": null,
@@ -991,22 +991,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "VER\u00c3O",
-        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
+        "name": "Um Novo Tom",
+        "url": "https://open.spotify.com/album/11hngtRtwhsb9KDuQB3Rf1"
       },
       "artists": [
         {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         },
         {
           "name": "AJULLIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         }
       ],
-      "duration_ms": 165454,
-      "name": "MAMA",
-      "url": "https://open.spotify.com/track/4OR8cm9oFCI4z4yjfgvng0"
+      "duration_ms": 290769,
+      "name": "Um Novo Tom",
+      "url": "https://open.spotify.com/track/3uyXq1Y4zSy93mZI2iv8vL"
     },
     {
       "added_at": null,
@@ -1031,26 +1035,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Novo Tom",
-        "url": "https://open.spotify.com/album/11hngtRtwhsb9KDuQB3Rf1"
+        "name": "VER\u00c3O",
+        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
       },
       "artists": [
         {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
         },
         {
           "name": "AJULLIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         }
       ],
-      "duration_ms": 290769,
-      "name": "Um Novo Tom",
-      "url": "https://open.spotify.com/track/3uyXq1Y4zSy93mZI2iv8vL"
+      "duration_ms": 165454,
+      "name": "MAMA",
+      "url": "https://open.spotify.com/track/4OR8cm9oFCI4z4yjfgvng0"
     },
     {
       "added_at": null,

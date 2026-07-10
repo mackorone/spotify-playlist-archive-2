@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-282 songs - 16 hr 30 min
+283 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [How To Listen To This Album](https://open.spotify.com/track/0Py4iHLT1CPUOB6UJCrKeq) | [Stereoclip](https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL) | [Echoes](https://open.spotify.com/album/1oyF52n5Za9DFmSC2t0KMN) | 2:30 | 2025-07-18 | 2026-04-18 |
 | [How Will I Know](https://open.spotify.com/track/6Zj0prCnGTWIHJzbkRkxdY) | [Teddy Beats](https://open.spotify.com/artist/38aAEKHAmZwECZgFuUfdCB), [Nicola Fasano](https://open.spotify.com/artist/0AJ9YvsEOnAqMB9Q15TfYQ), [Miami Rockets](https://open.spotify.com/artist/4byzj224X350YqoAqGSkd8), [Anni](https://open.spotify.com/artist/6RMCiCPbBhd7hYP4cWhjOE) | [How Will I Know](https://open.spotify.com/album/689NgodT15JChJA4f2TdSM) | 3:06 | 2025-06-19 |  |
 | [Hurt Again](https://open.spotify.com/track/1KYdFmr3dZ678rVMD58k78) | [Into The Ether](https://open.spotify.com/artist/3d4kaVkfUluAiKUxDWDz5v), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Hurt Again](https://open.spotify.com/album/6zm2DCjAiQVani25CubAZO) | 3:40 | 2025-08-22 |  |
+| [I Love You Always Forever](https://open.spotify.com/track/41cbhaDUVCZP85vp8bvKM9) | [Marc Kiss](https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO), [Yasmin Hutchins](https://open.spotify.com/artist/79xm3aKAiZz4Nw1ppelt0d), [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u) | [I Love You Always Forever](https://open.spotify.com/album/74jLlJELVYPgcs3SE2PfBf) | 3:24 | 2026-07-10 |  |
 | [I Never Knew How \- Original Mix](https://open.spotify.com/track/1JRqdhtPjnfgizg6DB9ISo) | [Manu Zain](https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7), [Patrick Baker](https://open.spotify.com/artist/73PTYegu3D1i5vRERzcBhT) | [I Never Knew How](https://open.spotify.com/album/1YRe3DxgMk2eyJghhuRtiE) | 3:32 | 2025-06-19 |  |
 | [I Was Made For Loving You](https://open.spotify.com/track/1Oq12ylF5RLY9PXU0yImJe) | [SRNDE](https://open.spotify.com/artist/09GI3XFxh5aCMcTDm5sqFB), [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u) | [I Was Made For Loving You](https://open.spotify.com/album/2eSAnDMPGUEW166itn4AZd) | 2:28 | 2025-09-19 |  |
 | [I Would Like To Know](https://open.spotify.com/track/42JXQGrJTzN67naZ7QySyR) | [Collective Sound Members](https://open.spotify.com/artist/2nbNDji9Kj4dcqH0g8B5UQ) | [Music From The Soul Vol\. 1](https://open.spotify.com/album/1tleH47sxteEjY8Cts1Ztw) | 3:37 | 2025-06-19 |  |

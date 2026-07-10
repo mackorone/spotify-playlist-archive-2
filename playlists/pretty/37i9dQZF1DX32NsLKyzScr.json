@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2594988,
+  "num_followers": 2594914,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -155,30 +155,6 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
-        "name": "It Feels So Good",
-        "url": "https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Sonique",
-          "url": "https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI"
-        }
-      ],
-      "duration_ms": 160973,
-      "name": "It Feels So Good",
-      "url": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
-    },
-    {
-      "added_at": "2026-07-03 04:00:42",
-      "album": {
         "name": "Makina Time",
         "url": "https://open.spotify.com/album/2GglSuNrhoPfB0lFSoho5G"
       },
@@ -207,6 +183,30 @@
       "duration_ms": 130090,
       "name": "Makina Time",
       "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
+    },
+    {
+      "added_at": "2026-07-03 04:00:42",
+      "album": {
+        "name": "It Feels So Good",
+        "url": "https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Sonique",
+          "url": "https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI"
+        }
+      ],
+      "duration_ms": 160973,
+      "name": "It Feels So Good",
+      "url": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
     },
     {
       "added_at": "2026-07-03 04:00:42",
@@ -355,6 +355,26 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "duration_ms": 245264,
+      "name": "Bizarre",
+      "url": "https://open.spotify.com/track/15RhivSFgiIWYugV2FqV5I"
+    },
+    {
+      "added_at": "2026-07-03 04:00:42",
+      "album": {
         "name": "car crash",
         "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
       },
@@ -435,46 +455,6 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
-        "name": "CONFESSIONS II",
-        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        }
-      ],
-      "duration_ms": 245264,
-      "name": "Bizarre",
-      "url": "https://open.spotify.com/track/15RhivSFgiIWYugV2FqV5I"
-    },
-    {
-      "added_at": "2026-07-03 04:00:42",
-      "album": {
-        "name": "Repeat It",
-        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 191716,
-      "name": "Repeat It",
-      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
-    },
-    {
-      "added_at": "2026-07-03 04:00:42",
-      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 113702,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3BENVzgDdwCiTGVtJbZGJd"
+    },
+    {
+      "added_at": "2026-07-03 04:00:42",
+      "album": {
+        "name": "Repeat It",
+        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 191716,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
     },
     {
       "added_at": "2026-07-03 04:00:42",
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
-        "name": "Cerulean",
-        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
-      },
-      "artists": [
-        {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 232796,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
-    },
-    {
-      "added_at": "2026-07-03 04:00:42",
-      "album": {
         "name": "Whatever Turns You On (ft. Bonn)",
         "url": "https://open.spotify.com/album/0R5bksr4b5l8QRF5AIXeO1"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 195727,
       "name": "Whatever Turns You On",
       "url": "https://open.spotify.com/track/7cvWEBFsf7JvEQf7RzATSk"
+    },
+    {
+      "added_at": "2026-07-03 04:00:42",
+      "album": {
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 232796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
     },
     {
       "added_at": "2026-07-03 04:00:42",
@@ -1055,26 +1055,22 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
-        "name": "Dracula (JENNIE Remix - Boys Noize Disko Version)",
-        "url": "https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s"
+        "name": "No Mercy",
+        "url": "https://open.spotify.com/album/5CQcbHQNwH9lQdLtebmmlu"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
         }
       ],
-      "duration_ms": 240318,
-      "name": "Dracula - JENNIE Remix - Boys Noize Disko Version",
-      "url": "https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl"
+      "duration_ms": 155666,
+      "name": "No Mercy",
+      "url": "https://open.spotify.com/track/4SHAlw3C9Y1Mfqwq0thxpw"
     },
     {
       "added_at": "2026-07-03 04:00:42",
@@ -1103,22 +1099,26 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
-        "name": "No Mercy",
-        "url": "https://open.spotify.com/album/5CQcbHQNwH9lQdLtebmmlu"
+        "name": "Dracula (JENNIE Remix - Boys Noize Disko Version)",
+        "url": "https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         },
         {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
         }
       ],
-      "duration_ms": 155666,
-      "name": "No Mercy",
-      "url": "https://open.spotify.com/track/4SHAlw3C9Y1Mfqwq0thxpw"
+      "duration_ms": 240318,
+      "name": "Dracula - JENNIE Remix - Boys Noize Disko Version",
+      "url": "https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl"
     },
     {
       "added_at": "2026-07-03 04:00:42",
@@ -1167,6 +1167,30 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
+        "name": "Like A Child",
+        "url": "https://open.spotify.com/album/21kP7foJu4VQRhlnkVgrgC"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Marlo Rex",
+          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
+        }
+      ],
+      "duration_ms": 183181,
+      "name": "Like A Child",
+      "url": "https://open.spotify.com/track/0wGlXAZU2OQlOiCghAOCqm"
+    },
+    {
+      "added_at": "2026-07-03 04:00:42",
+      "album": {
         "name": "Don't Wanna Go Home (feat. Henry Camamile)",
         "url": "https://open.spotify.com/album/1Vs2Q4ghAOsjUiTQoGDBAn"
       },
@@ -1183,6 +1207,30 @@
       "duration_ms": 157717,
       "name": "Don't Wanna Go Home (feat. Henry Camamile)",
       "url": "https://open.spotify.com/track/6CAiFxfsp5qIOYs5m7kSZX"
+    },
+    {
+      "added_at": "2026-07-03 04:00:42",
+      "album": {
+        "name": "Roses (feat. Richard Judge)",
+        "url": "https://open.spotify.com/album/3mgLrsA1pHfVWzvD2jc3bR"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "Richard Judge",
+          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "Roses (feat. Richard Judge)",
+      "url": "https://open.spotify.com/track/2l0uDfDDdz1cGLvAzw474o"
     },
     {
       "added_at": "2026-07-03 04:00:42",
@@ -1207,30 +1255,6 @@
       "duration_ms": 163555,
       "name": "Don't Want Your Love - R\u00d8Z Remix",
       "url": "https://open.spotify.com/track/15kZV9MznawyHrCeExDXcj"
-    },
-    {
-      "added_at": "2026-07-03 04:00:42",
-      "album": {
-        "name": "Like A Child",
-        "url": "https://open.spotify.com/album/21kP7foJu4VQRhlnkVgrgC"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Marlo Rex",
-          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
-        }
-      ],
-      "duration_ms": 183181,
-      "name": "Like A Child",
-      "url": "https://open.spotify.com/track/0wGlXAZU2OQlOiCghAOCqm"
     },
     {
       "added_at": "2026-07-03 04:00:42",
@@ -1267,30 +1291,6 @@
       "duration_ms": 202248,
       "name": "Torture of the Heart",
       "url": "https://open.spotify.com/track/0NutjkZZwOyZKLViHN6BY5"
-    },
-    {
-      "added_at": "2026-07-03 04:00:42",
-      "album": {
-        "name": "Roses (feat. Richard Judge)",
-        "url": "https://open.spotify.com/album/3mgLrsA1pHfVWzvD2jc3bR"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "bradeazy",
-          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
-        },
-        {
-          "name": "Richard Judge",
-          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "Roses (feat. Richard Judge)",
-      "url": "https://open.spotify.com/track/2l0uDfDDdz1cGLvAzw474o"
     },
     {
       "added_at": "2026-07-03 04:00:42",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
+        "name": "Coming In Heavy",
+        "url": "https://open.spotify.com/album/723kV64ne2P2nR3PLXHNyY"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+        }
+      ],
+      "duration_ms": 231521,
+      "name": "Coming In Heavy",
+      "url": "https://open.spotify.com/track/6VTiQz9Er68Nn8DywsO2v3"
+    },
+    {
+      "added_at": "2026-07-03 04:00:42",
+      "album": {
         "name": "Break The Loop",
         "url": "https://open.spotify.com/album/4vePum8kXeh1BFpsZuBzl7"
       },
@@ -1671,26 +1691,6 @@
       "duration_ms": 226874,
       "name": "Break The Loop",
       "url": "https://open.spotify.com/track/6okZichvWNkRXxxPYbtJl1"
-    },
-    {
-      "added_at": "2026-07-03 04:00:42",
-      "album": {
-        "name": "Coming In Heavy",
-        "url": "https://open.spotify.com/album/723kV64ne2P2nR3PLXHNyY"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Pan-Pot",
-          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
-        }
-      ],
-      "duration_ms": 231521,
-      "name": "Coming In Heavy",
-      "url": "https://open.spotify.com/track/6VTiQz9Er68Nn8DywsO2v3"
     },
     {
       "added_at": "2026-07-03 04:00:42",
@@ -1759,6 +1759,30 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
+        "name": "Gravity (feat. SACHA)",
+        "url": "https://open.spotify.com/album/79aF8LZe8qAienSve3qjTo"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "duration_ms": 180849,
+      "name": "Gravity (feat. SACHA)",
+      "url": "https://open.spotify.com/track/05vUCrcaRvSjLzb0WbmVDk"
+    },
+    {
+      "added_at": "2026-07-03 04:00:42",
+      "album": {
         "name": "Turn Up The Dose",
         "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
       },
@@ -1779,6 +1803,22 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
+        "name": "Young Forever",
+        "url": "https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 227091,
+      "name": "Young Forever",
+      "url": "https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB"
+    },
+    {
+      "added_at": "2026-07-03 04:00:42",
+      "album": {
         "name": "She's A Devil",
         "url": "https://open.spotify.com/album/0KNBzGKNzi9sS8R3TCjwQb"
       },
@@ -1795,22 +1835,6 @@
       "duration_ms": 204923,
       "name": "She's A Devil",
       "url": "https://open.spotify.com/track/0RGoQAGnUlFkKcaCta4vmH"
-    },
-    {
-      "added_at": "2026-07-03 04:00:42",
-      "album": {
-        "name": "Young Forever",
-        "url": "https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 227091,
-      "name": "Young Forever",
-      "url": "https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB"
     },
     {
       "added_at": "2026-07-03 04:00:42",
@@ -1871,54 +1895,6 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
-        "name": "Gravity (feat. SACHA)",
-        "url": "https://open.spotify.com/album/79aF8LZe8qAienSve3qjTo"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "SACHA",
-          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
-        }
-      ],
-      "duration_ms": 180849,
-      "name": "Gravity (feat. SACHA)",
-      "url": "https://open.spotify.com/track/05vUCrcaRvSjLzb0WbmVDk"
-    },
-    {
-      "added_at": "2026-07-03 04:00:42",
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/1yFzaDx3ibycTAZqUQHJMh"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
-        },
-        {
-          "name": "Kosmo Kint",
-          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
-        }
-      ],
-      "duration_ms": 213953,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/4FRuekKdW64dsRJXzzVOLy"
-    },
-    {
-      "added_at": "2026-07-03 04:00:42",
-      "album": {
         "name": "Like A Prayer",
         "url": "https://open.spotify.com/album/0P0UAa1mOYWrKpuCFklA87"
       },
@@ -1959,6 +1935,30 @@
       "duration_ms": 159666,
       "name": "Out Of My Body (feat. EJAE)",
       "url": "https://open.spotify.com/track/6YYg1yA4raAeDzixJfITnb"
+    },
+    {
+      "added_at": "2026-07-03 04:00:42",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/1yFzaDx3ibycTAZqUQHJMh"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        }
+      ],
+      "duration_ms": 213953,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/4FRuekKdW64dsRJXzzVOLy"
     },
     {
       "added_at": "2026-07-03 04:00:42",
@@ -2223,6 +2223,22 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
+        "name": "Smalltown Boy",
+        "url": "https://open.spotify.com/album/1hwUID1QuiH75DSxJJhnwW"
+      },
+      "artists": [
+        {
+          "name": "Koti\u0113r",
+          "url": "https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu"
+        }
+      ],
+      "duration_ms": 204720,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/5za6XRkJQSrVipzabuf6cV"
+    },
+    {
+      "added_at": "2026-07-03 04:00:42",
+      "album": {
         "name": "World & Back (feat. Riko Dan)",
         "url": "https://open.spotify.com/album/3VUsBW3tT4QzsItJSDVL5n"
       },
@@ -2239,22 +2255,6 @@
       "duration_ms": 179956,
       "name": "World & Back (feat. Riko Dan)",
       "url": "https://open.spotify.com/track/5LkWl4o5BrKqnf7Zms4D0u"
-    },
-    {
-      "added_at": "2026-07-03 04:00:42",
-      "album": {
-        "name": "Smalltown Boy",
-        "url": "https://open.spotify.com/album/1hwUID1QuiH75DSxJJhnwW"
-      },
-      "artists": [
-        {
-          "name": "Koti\u0113r",
-          "url": "https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu"
-        }
-      ],
-      "duration_ms": 204720,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/5za6XRkJQSrVipzabuf6cV"
     },
     {
       "added_at": "2026-07-03 04:00:42",

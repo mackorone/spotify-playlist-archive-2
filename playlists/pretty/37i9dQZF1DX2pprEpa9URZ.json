@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 913130,
+  "num_followers": 913227,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-04-06 12:35:10",
       "album": {
+        "name": "Jendayi EP",
+        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
+      },
+      "artists": [
+        {
+          "name": "Anber",
+          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
+        }
+      ],
+      "duration_ms": 391511,
+      "name": "Jendayi",
+      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
+    },
+    {
+      "added_at": "2026-04-06 12:35:10",
+      "album": {
         "name": "Too Young",
         "url": "https://open.spotify.com/album/2eSDpMFSB9UmWGOa9tzcC4"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 175637,
       "name": "Too Young",
       "url": "https://open.spotify.com/track/2P47oSY4wOA04R35miFEnn"
-    },
-    {
-      "added_at": "2026-04-06 12:35:10",
-      "album": {
-        "name": "Jendayi EP",
-        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
-      },
-      "artists": [
-        {
-          "name": "Anber",
-          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
-        }
-      ],
-      "duration_ms": 391511,
-      "name": "Jendayi",
-      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
     },
     {
       "added_at": "2026-04-06 12:35:10",
@@ -719,18 +719,22 @@
     {
       "added_at": "2026-04-06 12:35:10",
       "album": {
-        "name": "Fata Morgana",
-        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
+        "name": "Karanfilce Devojce (PACHIRA Remix)",
+        "url": "https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5"
       },
       "artists": [
         {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+          "name": "Laboratorium Pie\u015bni",
+          "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
+        },
+        {
+          "name": "PACHIRA",
+          "url": "https://open.spotify.com/artist/7xYPxh4TBh0bkCQwg1YoT0"
         }
       ],
-      "duration_ms": 309680,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
+      "duration_ms": 342853,
+      "name": "Karanfilce Devojce - PACHIRA Remix",
+      "url": "https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps"
     },
     {
       "added_at": "2026-04-06 12:35:10",
@@ -751,22 +755,18 @@
     {
       "added_at": "2026-04-06 12:35:10",
       "album": {
-        "name": "Karanfilce Devojce (PACHIRA Remix)",
-        "url": "https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5"
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
       },
       "artists": [
         {
-          "name": "Laboratorium Pie\u015bni",
-          "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
-        },
-        {
-          "name": "PACHIRA",
-          "url": "https://open.spotify.com/artist/7xYPxh4TBh0bkCQwg1YoT0"
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
         }
       ],
-      "duration_ms": 342853,
-      "name": "Karanfilce Devojce - PACHIRA Remix",
-      "url": "https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps"
+      "duration_ms": 309680,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
     },
     {
       "added_at": "2026-04-06 12:35:10",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-04-06 12:35:10",
       "album": {
-        "name": "Magic Workout",
-        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 335877,
-      "name": "Magic Workout",
-      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
-    },
-    {
-      "added_at": "2026-04-06 12:35:10",
-      "album": {
         "name": "I Am Free",
         "url": "https://open.spotify.com/album/5tzqzDJhJ9bKuDY5xMUkLj"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 231147,
       "name": "I Am Free",
       "url": "https://open.spotify.com/track/6iHFanVnZvK8g9OJlbkkkD"
+    },
+    {
+      "added_at": "2026-04-06 12:35:10",
+      "album": {
+        "name": "Magic Workout",
+        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 335877,
+      "name": "Magic Workout",
+      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
     },
     {
       "added_at": "2026-04-06 12:35:10",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-04-06 12:35:10",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/7c03ElAhoOu0EorNLA2chE"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 243934,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/3Al39i3wHuZ2fH1dKgHmYG"
-    },
-    {
-      "added_at": "2026-04-06 12:35:10",
-      "album": {
         "name": "Ancestry",
         "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 454680,
       "name": "Into Your Tribe - Bedouin Remix",
       "url": "https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV"
+    },
+    {
+      "added_at": "2026-04-06 12:35:10",
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/7c03ElAhoOu0EorNLA2chE"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/3Al39i3wHuZ2fH1dKgHmYG"
     },
     {
       "added_at": "2026-04-06 12:35:10",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2026-04-06 12:35:10",
       "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
+      },
+      "artists": [
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 115090,
+      "name": "Terra",
+      "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
+    },
+    {
+      "added_at": "2026-04-06 12:35:10",
+      "album": {
         "name": "Mona Ki Ngi Xica (Everything Counts Remix)",
         "url": "https://open.spotify.com/album/2SuKOpLD4bk74dJzeXQDa5"
       },
@@ -1491,34 +1507,22 @@
     {
       "added_at": "2026-04-06 12:35:10",
       "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
+        "name": "Gotta Let You Go (Radio Mix)",
+        "url": "https://open.spotify.com/album/6IZC0cWRcb6v1dODpZevqA"
       },
       "artists": [
         {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 115090,
-      "name": "Terra",
-      "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
-    },
-    {
-      "added_at": "2026-04-06 12:35:10",
-      "album": {
-        "name": "Quem Sou Eu",
-        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
-      },
-      "artists": [
+          "name": "El Mukuka",
+          "url": "https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd"
+        },
         {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
+          "name": "Dominica",
+          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
         }
       ],
-      "duration_ms": 328912,
-      "name": "Quem Sou Eu",
-      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
+      "duration_ms": 178536,
+      "name": "Gotta Let You Go",
+      "url": "https://open.spotify.com/track/61zy0ub0pLKsqwtpoXjCyh"
     }
   ],
   "unique_name": "Org\u00e1nica",

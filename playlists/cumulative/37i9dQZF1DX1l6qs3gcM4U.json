@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: DENNYH",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Dynamo",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -4922,7 +4922,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 202986,
       "name": "GBB",
       "url": "https://open.spotify.com/track/7tdtvi7LWBoR9OTTjxd46A"
@@ -5991,6 +5991,24 @@
     },
     {
       "album": {
+        "name": "Kumpanhero",
+        "url": "https://open.spotify.com/album/4BGeYelRX48gmPxTgPNKQp"
+      },
+      "artists": [
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Kumpanhero",
+      "url": "https://open.spotify.com/track/7CJpblRFCo10gDzVCpQhEh"
+    },
+    {
+      "album": {
         "name": "Kuyar Assim",
         "url": "https://open.spotify.com/album/4ua52jcTMzkvFS6CQz2Yzk"
       },
@@ -6246,7 +6264,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 212450,
       "name": "Levei o meu sonho",
       "url": "https://open.spotify.com/track/0Q05LIozhlYRKBxxdE7L4A"
@@ -12192,6 +12210,32 @@
       "duration_ms": 183323,
       "name": "Todos Dias",
       "url": "https://open.spotify.com/track/4tRMqP0yXZVCUTPHD4UMqR"
+    },
+    {
+      "album": {
+        "name": "Toma",
+        "url": "https://open.spotify.com/album/4Ql3cnIKTPtFiXVNw2OHbw"
+      },
+      "artists": [
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        },
+        {
+          "name": "Afroplug",
+          "url": "https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK"
+        },
+        {
+          "name": "Tony Z",
+          "url": "https://open.spotify.com/artist/1LQV4iAHmqsgD14kDSm3Pt"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211179,
+      "name": "Toma",
+      "url": "https://open.spotify.com/track/69bzoDPH6DyjbgyTu5jFLL"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste dance hits! Cover: Franky Rizardo",
+  "description": "De beste dance hits! Cover: Diplo",
   "name": "360 Dance",
   "tracks": [
     {
@@ -1239,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "Everybody's Free (To Feel Good)",
+        "url": "https://open.spotify.com/album/5NMfems14qDbGpkZ9RlWqT"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144137,
+      "name": "Everybody's Free (To Feel Good)",
+      "url": "https://open.spotify.com/track/3KIfCWvmnbdB4xPcj6WwrX"
+    },
+    {
+      "album": {
         "name": "Feel",
         "url": "https://open.spotify.com/album/2kVboAU8NCpgRBT7VyHcK1"
       },
@@ -1790,6 +1808,32 @@
       "duration_ms": 180991,
       "name": "How I Feel (Am I Wrong)",
       "url": "https://open.spotify.com/track/2FFPJq44xTco95jn7KpZ82"
+    },
+    {
+      "album": {
+        "name": "Human (Feat. John Martin)",
+        "url": "https://open.spotify.com/album/4FOIeI7EpeHdrQxKSxKc8s"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199858,
+      "name": "Human (Feat. John Martin)",
+      "url": "https://open.spotify.com/track/426LH4RVp0WvxX69NQCTGl"
     },
     {
       "album": {
@@ -3378,6 +3422,32 @@
       "duration_ms": 216778,
       "name": "Papi",
       "url": "https://open.spotify.com/track/58uQz5X3NinstpE6HSY3lk"
+    },
+    {
+      "album": {
+        "name": "pAPi wiTH tOKisCha",
+        "url": "https://open.spotify.com/album/2RcRUBfoS0jugdKTTHAF48"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "pAPi wiTH tOKisCha",
+      "url": "https://open.spotify.com/track/5j2NMCTCQ5R4yV6CUwR1nG"
     },
     {
       "album": {

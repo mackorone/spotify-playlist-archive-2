@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Sublime on cover ",
-  "num_followers": 412559,
+  "num_followers": 412580,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -295,18 +295,18 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+        "name": "Goldfinger",
+        "url": "https://open.spotify.com/album/6iOlLW2s5qwquOiiOThBvS"
       },
       "artists": [
         {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
         }
       ],
-      "duration_ms": 275360,
-      "name": "Different People",
-      "url": "https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR"
+      "duration_ms": 190800,
+      "name": "Here In Your Bedroom",
+      "url": "https://open.spotify.com/track/7MH63filSWHfjwMlQrlQQG"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -359,24 +359,8 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Goldfinger",
-        "url": "https://open.spotify.com/album/6iOlLW2s5qwquOiiOThBvS"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Here In Your Bedroom",
-      "url": "https://open.spotify.com/track/7MH63filSWHfjwMlQrlQQG"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
-        "name": "The Beacon Street Collection",
-        "url": "https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw"
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
       "artists": [
         {
@@ -384,9 +368,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 198226,
-      "name": "Total Hate '95",
-      "url": "https://open.spotify.com/track/7uljNKb9leurDlZYAagvgK"
+      "duration_ms": 275360,
+      "name": "Different People",
+      "url": "https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -423,6 +407,22 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
+        "name": "Tears of a Clown",
+        "url": "https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw"
+      },
+      "artists": [
+        {
+          "name": "The Beat",
+          "url": "https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS"
+        }
+      ],
+      "duration_ms": 167457,
+      "name": "Ranking Full Stop",
+      "url": "https://open.spotify.com/track/64LfShvHappqFPT3Ftwbjq"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
         "name": "The Specials (Deluxe Version)",
         "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
       },
@@ -439,18 +439,18 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Tears of a Clown",
-        "url": "https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw"
+        "name": "The Beacon Street Collection",
+        "url": "https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw"
       },
       "artists": [
         {
-          "name": "The Beat",
-          "url": "https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS"
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 167457,
-      "name": "Ranking Full Stop",
-      "url": "https://open.spotify.com/track/64LfShvHappqFPT3Ftwbjq"
+      "duration_ms": 198226,
+      "name": "Total Hate '95",
+      "url": "https://open.spotify.com/track/7uljNKb9leurDlZYAagvgK"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
+        "name": "El Enemigo",
+        "url": "https://open.spotify.com/album/3zz6uN6pTbTVNHNmzVrTXq"
+      },
+      "artists": [
+        {
+          "name": "Sat\u00e9lite Kingston",
+          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "La \u00daltima Carta",
+      "url": "https://open.spotify.com/track/2A66FBk36QAMcOychXojNS"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
         "name": "Fuera de Control",
         "url": "https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 210824,
       "name": "Fuera de Control",
       "url": "https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
-        "name": "El Enemigo",
-        "url": "https://open.spotify.com/album/3zz6uN6pTbTVNHNmzVrTXq"
-      },
-      "artists": [
-        {
-          "name": "Sat\u00e9lite Kingston",
-          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "La \u00daltima Carta",
-      "url": "https://open.spotify.com/track/2A66FBk36QAMcOychXojNS"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -715,18 +715,18 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Reggae Greats",
-        "url": "https://open.spotify.com/album/4X1ILb0MYP4JB6KQGtULc0"
+        "name": "Trouble Maker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
       },
       "artists": [
         {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 159400,
-      "name": "You Can Get It If You Really Want",
-      "url": "https://open.spotify.com/track/6IwTuQuQ4suJTQ43plwZef"
+      "duration_ms": 143546,
+      "name": "Where I'm Going",
+      "url": "https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -747,18 +747,18 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Trouble Maker (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
+        "name": "Reggae Greats",
+        "url": "https://open.spotify.com/album/4X1ILb0MYP4JB6KQGtULc0"
       },
       "artists": [
         {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
         }
       ],
-      "duration_ms": 143546,
-      "name": "Where I'm Going",
-      "url": "https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz"
+      "duration_ms": 159400,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/6IwTuQuQ4suJTQ43plwZef"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Stomp",
-        "url": "https://open.spotify.com/album/6smpibJ3RlcnBDdHi7dINI"
+        "name": "Arcade Perfect",
+        "url": "https://open.spotify.com/album/2ICTXbgW4rWcYWlSG1JtJ9"
       },
       "artists": [
         {
-          "name": "Big D and the Kids Table",
-          "url": "https://open.spotify.com/artist/7rCVe3W6E37VMHBHJXB6xD"
+          "name": "Sonic Boom Six",
+          "url": "https://open.spotify.com/artist/3ccF37QB6LC4LqUfvtn5qb"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Stepping Out",
-      "url": "https://open.spotify.com/track/3TjsikWPyMLvnjQiUATci6"
+      "duration_ms": 194640,
+      "name": "Sound of a Revolution",
+      "url": "https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Arcade Perfect",
-        "url": "https://open.spotify.com/album/2ICTXbgW4rWcYWlSG1JtJ9"
-      },
-      "artists": [
-        {
-          "name": "Sonic Boom Six",
-          "url": "https://open.spotify.com/artist/3ccF37QB6LC4LqUfvtn5qb"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "Sound of a Revolution",
-      "url": "https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
         "name": "Room For Abuse '06",
         "url": "https://open.spotify.com/album/5Jf3CXEX8DhIxzH3psPoCf"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 186804,
       "name": "Ego",
       "url": "https://open.spotify.com/track/5vkJkwKAEBUGess9Elg26s"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "Stomp",
+        "url": "https://open.spotify.com/album/6smpibJ3RlcnBDdHi7dINI"
+      },
+      "artists": [
+        {
+          "name": "Big D and the Kids Table",
+          "url": "https://open.spotify.com/artist/7rCVe3W6E37VMHBHJXB6xD"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Stepping Out",
+      "url": "https://open.spotify.com/track/3TjsikWPyMLvnjQiUATci6"
     },
     {
       "added_at": "2026-06-12 06:00:36",

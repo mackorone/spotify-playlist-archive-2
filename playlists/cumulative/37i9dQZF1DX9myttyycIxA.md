@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Wishy
 
-1,923 songs - 4 day 15 hr 12 min
+1,925 songs - 4 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -615,6 +615,7 @@
 | [floor 20](https://open.spotify.com/track/54vGD9e0VAAZnth6KW6PSx) | [fearofmakingout](https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c), [Nyzahir](https://open.spotify.com/artist/1Ryitzfsu2Ed71p54ZdQZf) | [Secret Third Thing](https://open.spotify.com/album/5nRdGKFyU0RAz0HCObmLee) | 2:37 | 2022-10-28 | 2022-12-15 |
 | [floor 20](https://open.spotify.com/track/7LFWmxHI2ftcIS13s6ZsAC) | [fearofmakingout](https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c), [Nyzahir](https://open.spotify.com/artist/1Ryitzfsu2Ed71p54ZdQZf) | [Secret Third Thing](https://open.spotify.com/album/3vFvfJN9AISogzUwKuMu3P) | 2:37 | 2022-10-29 | 2022-11-05 |
 | [Florida](https://open.spotify.com/track/34pOJWcmlxBUDkHaoqG1K2) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Florida](https://open.spotify.com/album/3tUZTMKsWtJZbs55y1tnm7) | 2:27 | 2022-12-16 | 2023-03-04 |
+| [Florida Water Blues](https://open.spotify.com/track/6vkuBueAxgzQe8dbGumiYF) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Florida Water Blues](https://open.spotify.com/album/7ggqCiAQWXdPYr8PHdbCn6) | 3:44 | 2026-07-09 |  |
 | [Flowers](https://open.spotify.com/track/2zL3Tut6HrIV6tVAGw8Gh7) | [High.](https://open.spotify.com/artist/59LpxUqe2EStKGfpogJqxi) | [Come Back Down](https://open.spotify.com/album/5ihJcyfSetmfGtCCJoWhzR) | 3:57 | 2025-02-07 | 2025-05-24 |
 | [Flute](https://open.spotify.com/track/7uug9RhFg7u6bwsOAwtppO) | [Horsepower](https://open.spotify.com/artist/1ERf6Gecr1VWPzibnPJt1Y) | [Flute](https://open.spotify.com/album/5B225xRx1upSamhO5pUNv5) | 4:22 | 2026-01-09 | 2026-02-04 |
 | [Fly](https://open.spotify.com/track/4nJABCg1GAbrmnUHyiXFGb) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Fly](https://open.spotify.com/album/7eWnEj17GFuDUwzBMdcy2d) | 3:10 | 2025-02-21 | 2025-05-31 |
@@ -1422,6 +1423,7 @@
 | [Sarah](https://open.spotify.com/track/0OTntrfDQ2psVFMG2KLFmb) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Sarah](https://open.spotify.com/album/25y9cf7JzZekEAolqtMbhi) | 2:42 | 2023-06-30 | 2023-08-12 |
 | [Satan](https://open.spotify.com/track/42G1tGNkv09Oe4i30Xqxbx) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Satan / Jacob Rose](https://open.spotify.com/album/5pryPQr48Emi38L8bGqsN6) | 3:16 | 2022-03-04 | 2022-04-29 |
 | [Say](https://open.spotify.com/track/2GIxKXaeFkLtuIRw6qmfGq) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Say](https://open.spotify.com/album/4N9Y8YlXr38guFheXENI49) | 2:32 | 2023-05-05 | 2023-06-16 |
+| [Say It](https://open.spotify.com/track/77O4FsprU2uCxOWdgkC98C) | [Cicada](https://open.spotify.com/artist/1Vt0r4emAfug3oHrH4GIvD) | [CICADA 2](https://open.spotify.com/album/1O5pUAZozUviIIGyyFpiVa) | 2:36 | 2026-07-09 |  |
 | [Say It](https://open.spotify.com/track/30JVtfd4ayV6g4OylyesV5) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Say It](https://open.spotify.com/album/18iJRLRwdzvZAzeb82ApaT) | 3:14 | 2022-01-28 | 2022-04-26 |
 | [Say It Now](https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Say It Now](https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V) | 3:40 | 2022-09-23 | 2023-03-04 |
 | [Say!](https://open.spotify.com/track/0MfBaD7MFIECNxDP7uPnc9) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Popped Heart](https://open.spotify.com/album/7789tm9Qro5oSNkVgIUSQS) | 3:52 | 2024-04-12 | 2024-10-26 |

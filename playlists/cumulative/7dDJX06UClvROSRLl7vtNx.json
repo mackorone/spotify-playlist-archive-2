@@ -859,6 +859,24 @@
     },
     {
       "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/00yjI7EzUOUCTQ8lVxUBoV"
+      },
+      "artists": [
+        {
+          "name": "Palmero",
+          "url": "https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136859,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/13f0GBOFl1T983icdPRNIm"
+    },
+    {
+      "album": {
         "name": "All Night Long (All Night)",
         "url": "https://open.spotify.com/album/32yHfd46KtiDXQzyL0lkQM"
       },
@@ -4494,6 +4512,32 @@
       "duration_ms": 150918,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1WAsyThe1xZQ82xNY0dkDk"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0BWcjWmP1GWSpfqBqLnu78"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "Velvety",
+          "url": "https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh"
+        },
+        {
+          "name": "Luna Serenade",
+          "url": "https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154510,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/6VTucYs7wsUsHZjDEROKoP"
     },
     {
       "album": {

@@ -9396,7 +9396,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-09",
+      "date_removed": null,
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -12460,7 +12460,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 202408,
       "name": "\u05d0\u05d1\u05d0",
       "url": "https://open.spotify.com/track/3DTHsQnfuQVESYAYv0fybQ"
@@ -12550,7 +12550,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-08",
+      "date_removed": null,
       "duration_ms": 188702,
       "name": "\u05d0\u05d1\u05d9\u05e6'\u05d9",
       "url": "https://open.spotify.com/track/4DAwc04XQCOGDDHZ6trCbK"
@@ -12572,7 +12572,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 229411,
       "name": "\u05d0\u05d1\u05dc \u05d0\u05ea",
       "url": "https://open.spotify.com/track/5ogS9Gv62PA9a8h3nL2bEX"
@@ -14940,7 +14940,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 183750,
       "name": "\u05d1\u05d0\u05de\u05ea \u05e9\u05dc \u05d4\u05d0\u05de\u05ea",
       "url": "https://open.spotify.com/track/3Dx920qUWdBswFizsT1PxR"
@@ -17754,7 +17754,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-09",
+      "date_removed": null,
       "duration_ms": 181340,
       "name": "\u05d5\u05d0\u05df \u05d3\u05d0\u05dd",
       "url": "https://open.spotify.com/track/3gdSZLWC594njZXkwWh7lQ"
@@ -18712,7 +18712,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 160642,
       "name": "\u05d8\u05e7\u05d9\u05dc\u05d4",
       "url": "https://open.spotify.com/track/5ppuL7dOIhd7td0YCJJuwf"
@@ -21532,6 +21532,28 @@
       "duration_ms": 172941,
       "name": "\u05de\u05d3\u05d0\u05dd",
       "url": "https://open.spotify.com/track/02mgxr6NgCwAVtuLtttDUB"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05d3\u05d0\u05dd + \u05d9\u05db\u05d5\u05dc\u05d4 \u05dc\u05d1\u05d3 (\u05dc\u05d9\u05d9\u05d1 \u05d0\u05e6\u05d8\u05d3\u05d9\u05d5\u05df \u05e8\"\u05d2)",
+        "url": "https://open.spotify.com/album/4wJKQnrhfkfSem5fXrWzbY"
+      },
+      "artists": [
+        {
+          "name": "\u05d0\u05d5\u05d3\u05d9\u05d4",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
+        },
+        {
+          "name": "Noam Bettan",
+          "url": "https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327091,
+      "name": "\u05de\u05d3\u05d0\u05dd + \u05d9\u05db\u05d5\u05dc\u05d4 \u05dc\u05d1\u05d3 - \u05dc\u05d9\u05d9\u05d1 \u05d0\u05e6\u05d8\u05d3\u05d9\u05d5\u05df \u05e8\"\u05d2",
+      "url": "https://open.spotify.com/track/021JhGP2MLS2q7tYp4V0ZL"
     },
     {
       "album": {
@@ -25134,7 +25156,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 218374,
       "name": "\u05e4\u05d9\u05e0\u05d4 \u05e9\u05dc \u05e9\u05e7\u05d8",
       "url": "https://open.spotify.com/track/59WiHC6djTa97XxqawF8SX"
@@ -28104,7 +28126,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 202053,
       "name": "\u05ea\u05de\u05d9\u05d3 \u05e8\u05e6\u05d9\u05ea\u05d9 \u05e2\u05d5\u05d3",
       "url": "https://open.spotify.com/track/7JthqxqRulP1lxrSM0fNlh"

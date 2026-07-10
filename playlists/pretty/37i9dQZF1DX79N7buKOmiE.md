@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 
 > Hallgasd teljes hangerőn Magyarország női hangjait! Cover: SOFI
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,434 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,449 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 49 | [kék](https://open.spotify.com/track/70m0XDH55DdFSGfWcUa3Wz) | [fllozz](https://open.spotify.com/artist/1YMdcly0IoDPLGUsCI2ho9) | [kék](https://open.spotify.com/album/1Hs5kKl6TkFC4VMfGlUIDq) | 3:01 |
 | 50 | [Még egy kicsit](https://open.spotify.com/track/06RIvk744t5k7xQsKSwaeL) | [Petrita](https://open.spotify.com/artist/5UMFawtaY8x71iJbz2zN3p) | [Dália](https://open.spotify.com/album/2v2YnCuaT48G2S87MRdo0W) | 2:30 |
 
-Snapshot ID: `AAAAABmvfpbC6cjmBtXPkFHlcmR/gz4Q`
+Snapshot ID: `AAAAAMKX9RLRkXbTUM0aqIyf0cps+khW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,251 likes - 74 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,272 likes - 74 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 73 | [BRENDA](https://open.spotify.com/track/4M45L0XC2m2UDbKxCZY7IN) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [DougBeats](https://open.spotify.com/artist/3HyxA4BGfaxNsT9aFf9D5w) | [SPAM](https://open.spotify.com/album/2jiU7JZpfeB1ywY7cGTo59) | 2:49 |
 | 74 | [Juro Não É Drama \- Remix](https://open.spotify.com/track/3ac23PZ5PqrwKgPMkD4FuO) | [DHION](https://open.spotify.com/artist/1lzxvMTm6klPlX7nmHSDYy), [Modder Aka.](https://open.spotify.com/artist/6tMYoBuQNa41Bn0zoPbD2l), [Theuzz011](https://open.spotify.com/artist/7DUOb2BAkKqL0kG8ecSAVp), [JMB](https://open.spotify.com/artist/3S00c09nAIpRQ0XUWewXup) | [Juro Não É Drama \(Remix\)](https://open.spotify.com/album/2IBDisWQgXHwc1gi8Hunbe) | 3:12 |
 
-Snapshot ID: `AAAAAM0jsQxvy9g/SGPemcZvLW5JstP5`
+Snapshot ID: `AAAAAPpitgzKS0Zmr8kw5NW98y3gURz9`

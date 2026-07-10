@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our universe ft. Pussy Riot",
+  "description": "welcome to our universe ft. Jazmin Bean",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -2706,6 +2706,24 @@
       "duration_ms": 142737,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI"
+    },
+    {
+      "album": {
+        "name": "borderline",
+        "url": "https://open.spotify.com/album/4RuzjsaUT6UbmPRITLM54U"
+      },
+      "artists": [
+        {
+          "name": "L'Rain",
+          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264573,
+      "name": "borderline",
+      "url": "https://open.spotify.com/track/55sxV91ONwaNz31R3HESnV"
     },
     {
       "album": {
@@ -17189,6 +17207,24 @@
     },
     {
       "album": {
+        "name": "Placeholder",
+        "url": "https://open.spotify.com/album/2LsamWtPqjSpB4rNICcaRp"
+      },
+      "artists": [
+        {
+          "name": "Gilla Band",
+          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254421,
+      "name": "Placeholder",
+      "url": "https://open.spotify.com/track/5V1kxhCYOixHKKei4c4EwE"
+    },
+    {
+      "album": {
         "name": "PLASTIC",
         "url": "https://open.spotify.com/album/3Mgup1DdHwGNSejCMZz5Et"
       },
@@ -19448,6 +19484,24 @@
       "duration_ms": 166363,
       "name": "silly putty",
       "url": "https://open.spotify.com/track/3AG923oYOUn7ESzHTkthKL"
+    },
+    {
+      "album": {
+        "name": "Silvering Blade",
+        "url": "https://open.spotify.com/album/57CgVtSaVRPX3nHZ37IMWn"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233209,
+      "name": "Silvering Blade",
+      "url": "https://open.spotify.com/track/6DLGneuo55lvn0l0rEuDZm"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda MS de Sergio Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 1368084,
+  "num_followers": 1368138,
   "original_name": "This Is Banda MS de Sergio Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAAOGqfRUHDj99IQ0sZHszav",
+  "snapshot_id": "ak2TAAAAAAA3osfxfmS8fAeeVbKzoAHz",
   "tracks": [
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Enfermo",
+        "url": "https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "De Ti Enamorado",
+      "url": "https://open.spotify.com/track/3LkdhRNCXimKvOrO5vl0rC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Barda Me Vol\u00e9",
         "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 280093,
       "name": "Somos Los Que Somos - En Vivo",
       "url": "https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Enfermo",
-        "url": "https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 205666,
-      "name": "De Ti Enamorado",
-      "url": "https://open.spotify.com/track/3LkdhRNCXimKvOrO5vl0rC"
     },
     {
       "added_at": null,

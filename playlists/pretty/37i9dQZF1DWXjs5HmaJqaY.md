@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,179 likes - 52 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,244 likes - 52 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Red In The Desert \- Joseph Capriati Remix](https://open.spotify.com/track/2s65MIW86O3HQqMSisJUe6) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt), [Joseph Capriati](https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf) | [Red In The Desert \(Joseph Capriati Remix\)](https://open.spotify.com/album/08zh77lOlw5plQeNs8tAz9) | 5:12 |
-| 2 | [Silhouette](https://open.spotify.com/track/7EQB5hIiHPTWdQIdq6aq8q) | [mcfly](https://open.spotify.com/artist/00CJAni0JgRC6EhKTKUcCG) | [Silhouette](https://open.spotify.com/album/6EufZIjDDVTzobqywsT4rE) | 4:13 |
-| 3 | [Gisenyi](https://open.spotify.com/track/7HRjMcy76vtQWw3knEcv0j) | [NELL](https://open.spotify.com/artist/7Mzvd0tgZVSMABUtfT849M) | [Gisenyi](https://open.spotify.com/album/5VqNyuPZcnEtduBGMNey05) | 4:19 |
+| 2 | [DIGITAL ANIMAL](https://open.spotify.com/track/009NVh13DVQlXjkodfkdRW) | [DONT BLINK](https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba) | [DIGITAL ANIMAL](https://open.spotify.com/album/2i0XXFCLY4I7YOgxVYRKIN) | 3:01 |
+| 3 | [Silhouette](https://open.spotify.com/track/7EQB5hIiHPTWdQIdq6aq8q) | [mcfly](https://open.spotify.com/artist/00CJAni0JgRC6EhKTKUcCG) | [Silhouette](https://open.spotify.com/album/6EufZIjDDVTzobqywsT4rE) | 4:13 |
 | 4 | [Faded](https://open.spotify.com/track/6Pxp1y5hMM9a82GqkFaL4T) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0) | [Faded](https://open.spotify.com/album/0H1m383h7W9lZnenfZamU3) | 2:58 |
 | 5 | [Everybody](https://open.spotify.com/track/41oLjXkDavyLPTIuaaRYMl) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Free](https://open.spotify.com/album/4cHYUcFMJlapi74Qk5cYdF) | 2:34 |
 | 6 | [Certified Original](https://open.spotify.com/track/6bOCU2u20snODY1fMYrFpP) | [Frieder & Jakob](https://open.spotify.com/artist/0rngZQF9IoOPgAXhJmF35V) | [Certified Original](https://open.spotify.com/album/3EOjKhjmKd3eSm4BvF2fQW) | 3:05 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 51 | [Typerope \- Original Mix](https://open.spotify.com/track/6EEcPi3jwGYlG7BdMlnf42) | [Mathew Jonson](https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71) | [Typerope EP](https://open.spotify.com/album/7GeBsbuHAU7CfzNmCMaotz) | 8:10 |
 | 52 | [The House Of House \- Original Remastered Mix](https://open.spotify.com/track/28RwoHEeQbQn4VYZb1ezTZ) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [20 Years Bonzai](https://open.spotify.com/album/2SGPVcsd9IoDoY4Cmea0Vx) | 7:35 |
 
-Snapshot ID: `AAAAAEDiGe91+cqoHQL4SQRHsrgL68bl`
+Snapshot ID: `AAAAAEwyO/hDEZcCrmkfEys3ae8dWv6o`

@@ -4,7 +4,7 @@
 
 > This is Prof\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 38 min
+69 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Horse](https://open.spotify.com/track/3N6ikRnRr3XYlzBv9iRgEN) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:02 | 2025-04-19 |  |
 | [I Dry Heave](https://open.spotify.com/track/12bZrnYJpqXNCN8545LDIz) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Project Gampo](https://open.spotify.com/album/6cyh4kHkJVOlLGx6LFElwJ) | 3:43 | 2025-04-19 |  |
 | [Imposter](https://open.spotify.com/track/0TSLL6ziM6ArpN0uV7wwxY) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 4:09 | 2026-06-29 | 2026-07-03 |
-| [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/track/7DSqGWatwo13yjAIgKx8g8) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/album/2fBT3VgUrM7S3HVfZiqjbJ) | 3:07 | 2026-03-29 |  |
+| [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/track/39D9e2Kx9f7ligiEgB0WD8) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 3:07 | 2026-07-10 |  |
+| [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/track/7DSqGWatwo13yjAIgKx8g8) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/album/2fBT3VgUrM7S3HVfZiqjbJ) | 3:07 | 2026-03-29 | 2026-07-10 |
 | [Judy](https://open.spotify.com/track/0KijC5ByPD43qXLkxEmf7o) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 2:56 | 2025-04-19 |  |
 | [Kia Boy](https://open.spotify.com/track/4W0ovOeWSWoOVp7LFVTYYE) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Kia Boy](https://open.spotify.com/album/4HJohcUsonTrzPCyaaN1KP) | 3:05 | 2026-05-31 | 2026-06-28 |
 | [Kia Boy](https://open.spotify.com/track/6AT6RhEEh1lopfRnCaPcQ9) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Kia Boy](https://open.spotify.com/album/6T8ApoKC9h7K3Vrvtk4X2M) | 3:05 | 2026-06-28 |  |
@@ -60,7 +61,7 @@
 | [Penny Nickel Dime](https://open.spotify.com/track/30rmz7OJYaDnYrgxkzpsS1) | [Amp Live](https://open.spotify.com/artist/4WoeMzXhDQyoFCKdji4FlL), [Anya](https://open.spotify.com/artist/1Y2BbSdBwvfln12Otq7XTk), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Headphone Concerto](https://open.spotify.com/album/5UbbNvHn4onGGOmD4rpkMT) | 3:52 | 2025-04-19 | 2026-04-26 |
 | [Permission](https://open.spotify.com/track/2KZ0GMuXz3EOOSzi0XIAk4) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 2:57 | 2025-04-19 | 2026-06-28 |
 | [Pookie Baby](https://open.spotify.com/track/1GLZpvlLj1nMrn2Ld2ehhK) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:31 | 2025-04-19 |  |
-| [Reaching for Fire](https://open.spotify.com/track/5R5feKLIiHH3ouJVkXCCZM) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 3:38 | 2026-06-29 |  |
+| [Reaching for Fire](https://open.spotify.com/track/5R5feKLIiHH3ouJVkXCCZM) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 3:38 | 2026-06-29 | 2026-07-10 |
 | [Snake Skin Leather](https://open.spotify.com/track/521mlZAo2XcA5lvFgN4tUT) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:26 | 2025-04-19 |  |
 | [Soupy \(with Cozz\)](https://open.spotify.com/track/1nmZkBjLJr1fK3CiNjkNUS) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:26 | 2026-01-15 |  |
 | [Spellbound \(The Beginning\)](https://open.spotify.com/track/6cIprowHIA9CtkA9Bgxk7g) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:16 | 2025-04-19 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 174560,
+  "num_followers": 174554,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAAcEcEuYg/yCiB87c9ku/pK",
+  "snapshot_id": "ak2TAAAAAADEJhEArBSOcYn1SnzZtv6m",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Mc Tha",
+          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "A Ordem Natural das Coisas (feat. Mc Tha)",
+      "url": "https://open.spotify.com/track/7MK6sYlWniVj8D1mrAAIwb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emicida Racional VL 2 - Mesmas Cores & Mesmos Valores",
         "url": "https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 227220,
       "name": "Us memo preto zica",
       "url": "https://open.spotify.com/track/6zv9QgibOHQQUG9cGlqGaH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AmarElo",
-        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Mc Tha",
-          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "A Ordem Natural das Coisas (feat. Mc Tha)",
-      "url": "https://open.spotify.com/track/7MK6sYlWniVj8D1mrAAIwb"
     },
     {
       "added_at": null,
@@ -491,6 +491,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Criolo E Emicida Ao Vivo (Live)",
+        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Rua Augusta - Live",
+      "url": "https://open.spotify.com/track/09sMZakpoYDwZIdqgg9YKS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Mundo D\u00e1 Voltas",
         "url": "https://open.spotify.com/album/1fmt1VeCfsXnQTVQ9CgY8y"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 342928,
       "name": "A Laje",
       "url": "https://open.spotify.com/track/0EXqaE8m9hSzNrO9h6Yepq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Criolo E Emicida Ao Vivo (Live)",
-        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Rua Augusta - Live",
-      "url": "https://open.spotify.com/track/09sMZakpoYDwZIdqgg9YKS"
     },
     {
       "added_at": null,
@@ -1035,30 +1035,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Sou a Mar\u00e9 Viva",
-        "url": "https://open.spotify.com/album/2RhCVgGIB5dd4k8z8rsdYe"
-      },
-      "artists": [
-        {
-          "name": "Fresno",
-          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
-        },
-        {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 274145,
-      "name": "Manifesto (feat. Lenine & Emicida)",
-      "url": "https://open.spotify.com/track/6wJqQmyHqINC6aRm6iYsku"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobe junto",
         "url": "https://open.spotify.com/album/3hmUh5giqCBLlFLUrhnFPa"
       },
@@ -1083,6 +1059,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eu Sou a Mar\u00e9 Viva",
+        "url": "https://open.spotify.com/album/2RhCVgGIB5dd4k8z8rsdYe"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 274145,
+      "name": "Manifesto (feat. Lenine & Emicida)",
+      "url": "https://open.spotify.com/track/6wJqQmyHqINC6aRm6iYsku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quintal",
+        "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 180448,
+      "name": "Melhor Rem\u00e9dio",
+      "url": "https://open.spotify.com/track/5NtTHQEcdXhVZbevOxAh5a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trevo, Figuinha e Suor na Camisa",
         "url": "https://open.spotify.com/album/2642lz4wM8Li5L6eXiuZv8"
       },
@@ -1099,30 +1119,6 @@
       "duration_ms": 170453,
       "name": "Trevo, Figuinha e Suor na Camisa",
       "url": "https://open.spotify.com/track/5884mCtM3DdbiNIeJzxsQ8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock In Rio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
-      },
-      "artists": [
-        {
-          "name": "Cidade Negra",
-          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "Oi Compadre - Ao Vivo",
-      "url": "https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR"
     }
   ],
   "unique_name": "This Is Emicida",

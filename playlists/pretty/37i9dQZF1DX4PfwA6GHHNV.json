@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23306,
+  "num_followers": 23308,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -8,26 +8,6 @@
   },
   "snapshot_id": "AAAAANL5HfJYTV090byiFa1DMkN0GrtG",
   "tracks": [
-    {
-      "added_at": "2026-07-03 14:08:59",
-      "album": {
-        "name": "M\u00e1s Que T\u00fa",
-        "url": "https://open.spotify.com/album/4SQs6PQwQFanCdSfF0CUd9"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 197081,
-      "name": "M\u00e1s Que T\u00fa",
-      "url": "https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O"
-    },
     {
       "added_at": "2026-07-03 14:08:59",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 177565,
       "name": "treat u right",
       "url": "https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl"
+    },
+    {
+      "added_at": "2026-07-03 14:08:59",
+      "album": {
+        "name": "M\u00e1s Que T\u00fa",
+        "url": "https://open.spotify.com/album/4SQs6PQwQFanCdSfF0CUd9"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 197081,
+      "name": "M\u00e1s Que T\u00fa",
+      "url": "https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O"
     },
     {
       "added_at": "2026-07-03 14:08:59",
@@ -359,26 +359,22 @@
     {
       "added_at": "2026-07-03 14:08:59",
       "album": {
-        "name": "Baile Em Chamas",
-        "url": "https://open.spotify.com/album/4oFHjLe2BbGvDpfphCCkBV"
+        "name": "Um Corpo Preto",
+        "url": "https://open.spotify.com/album/2K26gT3KUNWPet0SodFpvb"
       },
       "artists": [
         {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
         },
         {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
-        },
-        {
-          "name": "DJ 2L da Rocinha",
-          "url": "https://open.spotify.com/artist/5DwizTSMRuMOEM1ylVOUYP"
+          "name": "Mylena Drague",
+          "url": "https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Baile Em Chamas",
-      "url": "https://open.spotify.com/track/5Inqosk5KZ1OHZqp36Xrid"
+      "duration_ms": 246486,
+      "name": "Mel na Sua Cara",
+      "url": "https://open.spotify.com/track/3HrcRxZdZLiXw5MCKJliA3"
     },
     {
       "added_at": "2026-07-03 14:08:59",
@@ -399,22 +395,26 @@
     {
       "added_at": "2026-07-03 14:08:59",
       "album": {
-        "name": "Um Corpo Preto",
-        "url": "https://open.spotify.com/album/2K26gT3KUNWPet0SodFpvb"
+        "name": "Baile Em Chamas",
+        "url": "https://open.spotify.com/album/4oFHjLe2BbGvDpfphCCkBV"
       },
       "artists": [
         {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
         },
         {
-          "name": "Mylena Drague",
-          "url": "https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d"
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "DJ 2L da Rocinha",
+          "url": "https://open.spotify.com/artist/5DwizTSMRuMOEM1ylVOUYP"
         }
       ],
-      "duration_ms": 246486,
-      "name": "Mel na Sua Cara",
-      "url": "https://open.spotify.com/track/3HrcRxZdZLiXw5MCKJliA3"
+      "duration_ms": 173333,
+      "name": "Baile Em Chamas",
+      "url": "https://open.spotify.com/track/5Inqosk5KZ1OHZqp36Xrid"
     },
     {
       "added_at": "2026-07-03 14:08:59",
@@ -483,26 +483,6 @@
     {
       "added_at": "2026-07-03 14:08:59",
       "album": {
-        "name": "Ol\u00e9, Ol\u00e9!",
-        "url": "https://open.spotify.com/album/1IsX7sfobRLBqRowRIuwOH"
-      },
-      "artists": [
-        {
-          "name": "El Coffee",
-          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 164016,
-      "name": "Ol\u00e9, Ol\u00e9!",
-      "url": "https://open.spotify.com/track/2Nt7cLUs1DuT6AckyYDK1B"
-    },
-    {
-      "added_at": "2026-07-03 14:08:59",
-      "album": {
         "name": "Um Corpo Preto",
         "url": "https://open.spotify.com/album/2K26gT3KUNWPet0SodFpvb"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 246305,
       "name": "Faz a Vibe",
       "url": "https://open.spotify.com/track/5KsbeBLxiYcPAwmncCVwwt"
+    },
+    {
+      "added_at": "2026-07-03 14:08:59",
+      "album": {
+        "name": "Ol\u00e9, Ol\u00e9!",
+        "url": "https://open.spotify.com/album/1IsX7sfobRLBqRowRIuwOH"
+      },
+      "artists": [
+        {
+          "name": "El Coffee",
+          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 164016,
+      "name": "Ol\u00e9, Ol\u00e9!",
+      "url": "https://open.spotify.com/track/2Nt7cLUs1DuT6AckyYDK1B"
     },
     {
       "added_at": "2026-07-03 14:08:59",
@@ -875,8 +875,8 @@
     {
       "added_at": "2026-07-03 14:08:59",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/7uaZKrYAdBdge7eb7gqlJN"
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/6YcTAftsSUNPC0gJTMYvM4"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Blues",
-      "url": "https://open.spotify.com/track/3Iqr5U8iVPlwy1v7pKQ4fQ"
+      "duration_ms": 191463,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/32VgModyfPye3imxW4Q7DC"
     },
     {
       "added_at": "2026-07-03 14:08:59",
@@ -979,8 +979,8 @@
     {
       "added_at": "2026-07-03 14:08:59",
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/6YcTAftsSUNPC0gJTMYvM4"
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7uaZKrYAdBdge7eb7gqlJN"
       },
       "artists": [
         {
@@ -992,9 +992,9 @@
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         }
       ],
-      "duration_ms": 191463,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/32VgModyfPye3imxW4Q7DC"
+      "duration_ms": 164000,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/3Iqr5U8iVPlwy1v7pKQ4fQ"
     },
     {
       "added_at": "2026-07-03 14:08:59",

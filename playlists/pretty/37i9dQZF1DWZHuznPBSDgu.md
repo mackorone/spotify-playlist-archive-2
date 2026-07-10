@@ -4,28 +4,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHuznPBSDgu.md) - [plain]
 
 > 1978年に「勝手にシンドバッド」でデビュー。1980年代から2010年代までの4年代でそれぞれチャート1位を記録する国民的バンド=サザンオールスターズのオールタイム・ベスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,602 likes - 111 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,636 likes - 111 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [恋のブギウギナイト](https://open.spotify.com/track/247Zts6V1wnpOofoQDkfiN) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 4:55 |
-| 2 | [ジャンヌ・ダルクによろしく](https://open.spotify.com/track/54CWAWfdkGsa0ZjHOjz2ty) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 3:49 |
-| 3 | [桜、ひらり](https://open.spotify.com/track/1J7mN0ueMbugyJtiTISIwB) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 4:08 |
-| 4 | [暮れゆく街のふたり](https://open.spotify.com/track/2uEi3q567aPEIYTh9yHPat) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 4:24 |
-| 5 | [盆ギリ恋歌](https://open.spotify.com/track/6MSQSRWPOBQKFOxDM3dq5E) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 4:21 |
-| 6 | [ごめんね母さん](https://open.spotify.com/track/3TwFopQdgEzng6VXOmK3El) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 3:46 |
-| 7 | [風のタイムマシンにのって](https://open.spotify.com/track/3vtF54SyZ5un1hwvK2hDo4) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 4:17 |
-| 8 | [史上最恐のモンスター](https://open.spotify.com/track/1IPgqpVCpoahsVULiceUef) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 5:08 |
-| 9 | [夢の宇宙旅行](https://open.spotify.com/track/5buIf0b9AIjkx4zioVnDGu) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 4:43 |
-| 10 | [歌えニッポンの空](https://open.spotify.com/track/6O0iQA6DaWEw9jkPaSx8HO) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 4:13 |
-| 11 | [悲しみはブギの彼方に](https://open.spotify.com/track/6iBW6K0BAQqrvZVD9vuYyY) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 4:25 |
-| 12 | [ミツコとカンジ](https://open.spotify.com/track/3c0I8vWKGWorKUWuTrN2cA) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 4:31 |
-| 13 | [神様からの贈り物](https://open.spotify.com/track/7xfEgHfT4QxkmkrRqLpSIb) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 3:48 |
-| 14 | [Relay～杜の詩](https://open.spotify.com/track/5bWzDkM5fSwWmpdfuIjUyQ) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 4:01 |
-| 15 | [希望の轍 \[2024 Remaster\]](https://open.spotify.com/track/4uXqVYOQKeriFLLO9QJMwo) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [稲村ジェーン \(SOUTHERN ALL STARS and ALL STARS\) \[2024 Remaster\]](https://open.spotify.com/album/1zwtbvotANDT2c5Vz0sZSJ) | 4:16 |
-| 16 | [LOVE AFFAIR～秘密のデート～ \[2024 Remaster\]](https://open.spotify.com/track/3grJB68CWKyKB8A1k2d5BM) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [さくら \[2024 Remaster\]](https://open.spotify.com/album/0fBowr9CjKttkEy3G4VYJV) | 5:21 |
-| 17 | [ミス・ブランニュー・デイ \(MISS BRAND\-NEW DAY\) \[2024 Remaster\]](https://open.spotify.com/track/3edbetxooWRGhCh1acbgRT) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [人気者で行こう \[2024 Remaster\]](https://open.spotify.com/album/4xSAiX8YIMkiptExDgbOZV) | 4:59 |
-| 18 | [いとしのエリー](https://open.spotify.com/track/7itS0NjYHtmXPq8xXacNZe) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [いとしのエリー](https://open.spotify.com/album/7okBhxOXYJhZGrgYnq4KQ3) | 4:26 |
+| 1 | [いとしのエリー](https://open.spotify.com/track/7itS0NjYHtmXPq8xXacNZe) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [いとしのエリー](https://open.spotify.com/album/7okBhxOXYJhZGrgYnq4KQ3) | 4:26 |
+| 2 | [恋のブギウギナイト](https://open.spotify.com/track/247Zts6V1wnpOofoQDkfiN) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 4:55 |
+| 3 | [ジャンヌ・ダルクによろしく](https://open.spotify.com/track/54CWAWfdkGsa0ZjHOjz2ty) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 3:49 |
+| 4 | [桜、ひらり](https://open.spotify.com/track/1J7mN0ueMbugyJtiTISIwB) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 4:08 |
+| 5 | [暮れゆく街のふたり](https://open.spotify.com/track/2uEi3q567aPEIYTh9yHPat) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 4:24 |
+| 6 | [盆ギリ恋歌](https://open.spotify.com/track/6MSQSRWPOBQKFOxDM3dq5E) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 4:21 |
+| 7 | [ごめんね母さん](https://open.spotify.com/track/3TwFopQdgEzng6VXOmK3El) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 3:46 |
+| 8 | [風のタイムマシンにのって](https://open.spotify.com/track/3vtF54SyZ5un1hwvK2hDo4) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 4:17 |
+| 9 | [史上最恐のモンスター](https://open.spotify.com/track/1IPgqpVCpoahsVULiceUef) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 5:08 |
+| 10 | [夢の宇宙旅行](https://open.spotify.com/track/5buIf0b9AIjkx4zioVnDGu) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 4:43 |
+| 11 | [歌えニッポンの空](https://open.spotify.com/track/6O0iQA6DaWEw9jkPaSx8HO) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 4:13 |
+| 12 | [悲しみはブギの彼方に](https://open.spotify.com/track/6iBW6K0BAQqrvZVD9vuYyY) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 4:25 |
+| 13 | [ミツコとカンジ](https://open.spotify.com/track/3c0I8vWKGWorKUWuTrN2cA) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 4:31 |
+| 14 | [神様からの贈り物](https://open.spotify.com/track/7xfEgHfT4QxkmkrRqLpSIb) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 3:48 |
+| 15 | [Relay～杜の詩](https://open.spotify.com/track/5bWzDkM5fSwWmpdfuIjUyQ) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 4:01 |
+| 16 | [希望の轍 \[2024 Remaster\]](https://open.spotify.com/track/4uXqVYOQKeriFLLO9QJMwo) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [稲村ジェーン \(SOUTHERN ALL STARS and ALL STARS\) \[2024 Remaster\]](https://open.spotify.com/album/1zwtbvotANDT2c5Vz0sZSJ) | 4:16 |
+| 17 | [LOVE AFFAIR～秘密のデート～ \[2024 Remaster\]](https://open.spotify.com/track/3grJB68CWKyKB8A1k2d5BM) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [さくら \[2024 Remaster\]](https://open.spotify.com/album/0fBowr9CjKttkEy3G4VYJV) | 5:21 |
+| 18 | [ミス・ブランニュー・デイ \(MISS BRAND\-NEW DAY\) \[2024 Remaster\]](https://open.spotify.com/track/3edbetxooWRGhCh1acbgRT) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [人気者で行こう \[2024 Remaster\]](https://open.spotify.com/album/4xSAiX8YIMkiptExDgbOZV) | 4:59 |
 | 19 | [HOTEL PACIFIC](https://open.spotify.com/track/1VjiZjzitQ7MweLmRxwLNW) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [HOTEL PACIFIC](https://open.spotify.com/album/2MRlAxaI4D4B8S8zr8Tq4S) | 4:47 |
 | 20 | [勝手にシンドバッド](https://open.spotify.com/track/1X7VQFZ23MgWshmLHYFRsZ) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [勝手にシンドバッド](https://open.spotify.com/album/4VD65BOCQSD1KMnchWlyL4) | 3:57 |
 | 21 | [真夏の果実 \[2024 Remaster\]](https://open.spotify.com/track/2zCBenntriaVNkqjI6l7Bh) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [稲村ジェーン \(SOUTHERN ALL STARS and ALL STARS\) \[2024 Remaster\]](https://open.spotify.com/album/1zwtbvotANDT2c5Vz0sZSJ) | 4:59 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHuznPBSDgu.md) - [plain]
 | 110 | [瞳の中にレインボウ](https://open.spotify.com/track/67Vem8LNv1WuUCAdubOb3d) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [熱い胸さわぎ](https://open.spotify.com/album/35lVeQiY2JsnKUiWCPGtre) | 4:51 |
 | 111 | [死体置場でロマンスを \[2024 Remaster\]](https://open.spotify.com/track/5ihNyGkx0BiiWInTkMZlQr) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [KAMAKURA \[2024 Remaster\]](https://open.spotify.com/album/1yGaFnbdndU5RVvHc28PMK) | 3:59 |
 
-Snapshot ID: `AAAAAJe8Y0erexB3eOePlasMzx7kUlM6`
+Snapshot ID: `AAAAACM/Y/PUsP14fCJn7mdyKSlS5QaN`

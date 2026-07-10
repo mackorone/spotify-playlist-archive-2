@@ -545,6 +545,28 @@
     },
     {
       "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Kacy Hill",
+          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339066,
+      "name": "90210 (feat. Kacy Hill)",
+      "url": "https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP"
+    },
+    {
+      "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa"
       },
@@ -1608,7 +1630,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 155268,
       "name": "Arricchiti (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/7agE2kK4XZnjRrbwnVJV1T"
@@ -2702,7 +2724,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 145505,
       "name": "Bipolari Bilocali",
       "url": "https://open.spotify.com/track/4dm8s8pL7e2562HDZfZhq2"
@@ -4684,6 +4706,32 @@
       "duration_ms": 213080,
       "name": "Company (feat. Future)",
       "url": "https://open.spotify.com/track/3JVTsvTldB6arHVlmxmTnM"
+    },
+    {
+      "album": {
+        "name": "CANCUN",
+        "url": "https://open.spotify.com/album/6dfFlS3ruKbUsuLVpLfzXe"
+      },
+      "artists": [
+        {
+          "name": "Cancun",
+          "url": "https://open.spotify.com/artist/2CFSNUGQpQF9w7UhYIpKVY"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213506,
+      "name": "Compare (feat. Lazza & Gu\u00e8)",
+      "url": "https://open.spotify.com/track/6OR6CqkAWNK6rr7gmfpJNK"
     },
     {
       "album": {
@@ -6958,7 +7006,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 176969,
       "name": "Famiglia (feat. Papa V)",
       "url": "https://open.spotify.com/track/5FsjUNGKnTzbfT0XOe26Nt"
@@ -7726,7 +7774,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 162000,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/4yMBRvsI4aFxlgwqYfzKco"
@@ -8256,6 +8304,24 @@
       "duration_ms": 148551,
       "name": "Get It Sexyy",
       "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
+    },
+    {
+      "album": {
+        "name": "Rise Against My Broken Odds",
+        "url": "https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Ghetto Love Story",
+      "url": "https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa"
     },
     {
       "album": {
@@ -9867,6 +9933,32 @@
     },
     {
       "album": {
+        "name": "Il Gatto e la volpe (From the Netflix Rap Show \"Nuova Scena\")",
+        "url": "https://open.spotify.com/album/4RcdZWyaLC5D3hxjWzTkid"
+      },
+      "artists": [
+        {
+          "name": "Flextony",
+          "url": "https://open.spotify.com/artist/4t97syp5w3yh2LrN0g4gmv"
+        },
+        {
+          "name": "Tigerplug",
+          "url": "https://open.spotify.com/artist/7KqLY09TEFK55X9DMMzd1K"
+        },
+        {
+          "name": "Nuova Scena",
+          "url": "https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150191,
+      "name": "Il Gatto e la Volpe (From the Netflix Rap Show \"Nuova Scena\")",
+      "url": "https://open.spotify.com/track/48dD5hQ3Cw8YyaMBBxq8bh"
+    },
+    {
+      "album": {
         "name": "FUNNY GAMES",
         "url": "https://open.spotify.com/album/4V8qhBg6rU8kd1THoGf2Pf"
       },
@@ -10492,7 +10584,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 148245,
       "name": "Kalashnikov",
       "url": "https://open.spotify.com/track/5tGZsRaBr98La6avokHGb3"
@@ -10828,7 +10920,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 135529,
       "name": "LA GIRO?",
       "url": "https://open.spotify.com/track/0w0kbSqpxuVDc9ZJG2J8qh"
@@ -10990,6 +11082,32 @@
       "duration_ms": 227321,
       "name": "Labirinto",
       "url": "https://open.spotify.com/track/11C1h0tuCW9qRa1QGPV9Vj"
+    },
+    {
+      "album": {
+        "name": "Labubu (From the Netflix Rap Show \"Nuova Scena\")",
+        "url": "https://open.spotify.com/album/5mFelpgmMreiY7nwXX9u4q"
+      },
+      "artists": [
+        {
+          "name": "Flextony",
+          "url": "https://open.spotify.com/artist/4t97syp5w3yh2LrN0g4gmv"
+        },
+        {
+          "name": "Tigerplug",
+          "url": "https://open.spotify.com/artist/7KqLY09TEFK55X9DMMzd1K"
+        },
+        {
+          "name": "Nuova Scena",
+          "url": "https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "Labubu (From the Netflix Rap Show \"Nuova Scena\")",
+      "url": "https://open.spotify.com/track/10MzYKMwqyVIg08RuG344S"
     },
     {
       "album": {
@@ -11840,7 +11958,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 151110,
       "name": "Loco In Discoteca (feat. Yuri Redicopa)",
       "url": "https://open.spotify.com/track/2DYIzxD4Nob2oKlsuw1Hwf"
@@ -12179,6 +12297,28 @@
     },
     {
       "album": {
+        "name": "MAFIA COCO (feat. Paky)",
+        "url": "https://open.spotify.com/album/0XytEmY7acJU0z9da6Telr"
+      },
+      "artists": [
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146440,
+      "name": "MAFIA COCO (feat. Paky)",
+      "url": "https://open.spotify.com/track/10TkqPWcmci21OmdxRrhlf"
+    },
+    {
+      "album": {
         "name": "MAGIE",
         "url": "https://open.spotify.com/album/7Jw0SgbSIlMjjIupte0ZON"
       },
@@ -12286,6 +12426,32 @@
       "duration_ms": 192005,
       "name": "Maladie",
       "url": "https://open.spotify.com/track/3CbcXXMMV42h0WZ9zIf4d8"
+    },
+    {
+      "album": {
+        "name": "\u00c8 O G.",
+        "url": "https://open.spotify.com/album/3vAjsYdC3b1kYWqmZaM4sd"
+      },
+      "artists": [
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        },
+        {
+          "name": "Flatpearl",
+          "url": "https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R"
+        },
+        {
+          "name": "Succo",
+          "url": "https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Malpensa",
+      "url": "https://open.spotify.com/track/6n5g6FiWp9NudnRnUwyoZN"
     },
     {
       "album": {
@@ -14130,6 +14296,24 @@
       "duration_ms": 217333,
       "name": "NEW DROP",
       "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
+    },
+    {
+      "album": {
+        "name": "NEW YORK",
+        "url": "https://open.spotify.com/album/0vOCi6Ur9juHEintKbSb98"
+      },
+      "artists": [
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198709,
+      "name": "NEW YORK",
+      "url": "https://open.spotify.com/track/2a9BZHsbrUeOxEbatUdust"
     },
     {
       "album": {
@@ -15980,7 +16164,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 195090,
       "name": "Potere (feat. Tony Boy)",
       "url": "https://open.spotify.com/track/6MwOss3bVsCw0VFCkzVT73"
@@ -16596,6 +16780,28 @@
       "duration_ms": 173142,
       "name": "PUTO (feat. French Montana)",
       "url": "https://open.spotify.com/track/5R1RXd5Og15AT9RfUX8nJ1"
+    },
+    {
+      "album": {
+        "name": "PUTT**A (From the Netflix Rap Show \"Nuova Scena\")",
+        "url": "https://open.spotify.com/album/6QNUbZTI9mq1izRydhQawh"
+      },
+      "artists": [
+        {
+          "name": "THYNA",
+          "url": "https://open.spotify.com/artist/7yah06bwmQDOwfp80ddBci"
+        },
+        {
+          "name": "Nuova Scena",
+          "url": "https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158761,
+      "name": "PUTT**A (From the Netflix Rap Show \"Nuova Scena\")",
+      "url": "https://open.spotify.com/track/4Z7KWzHtc9rpS9wCiYTuLT"
     },
     {
       "album": {
@@ -18392,6 +18598,28 @@
       "duration_ms": 157125,
       "name": "SkeeYee",
       "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
+    },
+    {
+      "album": {
+        "name": "SKIP (feat. Rhove)",
+        "url": "https://open.spotify.com/album/0Bpfb8ztGNuQu9HZ3x1dr2"
+      },
+      "artists": [
+        {
+          "name": "Em",
+          "url": "https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI"
+        },
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138225,
+      "name": "SKIP (feat. Rhove)",
+      "url": "https://open.spotify.com/track/0TtdELVbPWVJEJOW4miCAn"
     },
     {
       "album": {
@@ -20710,7 +20938,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 217593,
       "name": "Tristano e Isotta",
       "url": "https://open.spotify.com/track/7dFfkSJrAHnUdKM5jaUOLt"
@@ -21252,6 +21480,36 @@
       "duration_ms": 216013,
       "name": "Us vs. Them (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg"
+    },
+    {
+      "album": {
+        "name": "USHUA\u00cfA",
+        "url": "https://open.spotify.com/album/0vH9QaMrLySrI6uVXCvI4E"
+      },
+      "artists": [
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
+        },
+        {
+          "name": "Young Hash",
+          "url": "https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX"
+        },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169980,
+      "name": "USHUA\u00cfA",
+      "url": "https://open.spotify.com/track/3h4Ti5e9Hlqhm8OGJw56Xr"
     },
     {
       "album": {

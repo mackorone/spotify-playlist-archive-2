@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani di cui siamo ossessionati \ud83c\udfa7 SETTEMBRE in cover",
+  "description": "I brani italiani di cui siamo ossessionati \ud83c\udfa7 Irama in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -332,7 +332,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 193614,
       "name": "ACQUARIO",
       "url": "https://open.spotify.com/track/0P0GZSQTYSdCPzQar8Rbqf"
@@ -2791,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "MILLION DOLLAR BABE",
+        "url": "https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156116,
+      "name": "CRYSTAL COLLO",
+      "url": "https://open.spotify.com/track/3nWODsWETh5zUu3sLuJ2kv"
+    },
+    {
+      "album": {
         "name": "Cuore Bucato",
         "url": "https://open.spotify.com/album/0v01Hen2iwZZ3P9fRJ6tIe"
       },
@@ -3852,7 +3870,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 148099,
       "name": "Fascistissime (con Tutti Fenomeni)",
       "url": "https://open.spotify.com/track/55mudLy5uajbzC2jfDnipo"
@@ -7453,6 +7471,24 @@
     },
     {
       "album": {
+        "name": "MILLION DOLLAR BABE",
+        "url": "https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173445,
+      "name": "MILLION DOLLAR BABE",
+      "url": "https://open.spotify.com/track/4uzXo3sUkY7xXelBvj1L7A"
+    },
+    {
+      "album": {
         "name": "radio vega",
         "url": "https://open.spotify.com/album/2ykfPpPezkSUfCnZjSQ6CQ"
       },
@@ -8462,7 +8498,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 146750,
       "name": "ONDA BLU",
       "url": "https://open.spotify.com/track/3DgaXWyyyn6A2vWmDpo2Gw"
@@ -9614,6 +9650,24 @@
       "duration_ms": 161432,
       "name": "Qualcosa di grande",
       "url": "https://open.spotify.com/track/7LHCJnWkQgmHGUhQyZeoW5"
+    },
+    {
+      "album": {
+        "name": "IL GIORNO CHE ASPETTAVO",
+        "url": "https://open.spotify.com/album/7Hww6TqaOQMRjWJSNqVyyY"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207870,
+      "name": "QUANDO DORME LA CITT\u00c0",
+      "url": "https://open.spotify.com/track/77uiPp5CwS14DPThQSLsNs"
     },
     {
       "album": {

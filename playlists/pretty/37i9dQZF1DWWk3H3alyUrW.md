@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 
 > Enjoy these songs while you eat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,555 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,554 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 | 47 | [Uşşak Peşrev](https://open.spotify.com/track/4d5z3kFaO5eqko6jPKtp1h) | [Ubeydullah Sezikli](https://open.spotify.com/artist/1xiy8XwCNzhZt5hoBKpD9N) | [Makamlarla Türk Din Mûsîkisi Eğitim Seti, Vol\. 2 / Uşşak Hicaz](https://open.spotify.com/album/4CKCjlCm0tcc0NaHbPrsNu) | 1:47 |
 | 48 | [Rast Ud Taksimi\-Başak Harmancı](https://open.spotify.com/track/2wVSkZnzZEfZhAtrx7STu2) | [Ahmet Hakkı Turabi](https://open.spotify.com/artist/1Q53gmZO7nNx8VQABN5t6R) | [Ona Selam](https://open.spotify.com/album/6nSKMtfL7HZ1IVtDxHL5sM) | 1:30 |
 | 49 | [Çargah Sirto](https://open.spotify.com/track/2q4aOzOjhGbBsRAgm3y1Kd) | [Ahmet Cennetoğlu](https://open.spotify.com/artist/6jGc5YUnqnjxiFPBeTUjv8) | [Kaftan \(Instrumental Palace of Songs\)](https://open.spotify.com/album/4JoB1ufXjKA9ZtdK0C51JW) | 1:20 |
-| 50 | [Serenat \(Hicaz Medhal\)](https://open.spotify.com/track/4IkhBy75cKywj3mXbH9uig) | [Pınar Köksal](https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ), [Göksel Baktagir](https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp), [Hakan Aysev](https://open.spotify.com/artist/48cI3r9zpRorKUKiepDyHk) | [Duygu Pinari](https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID) | 3:41 |
+| 50 | [Coşku \(Rast Saz Eseri\)](https://open.spotify.com/track/5XAaaO2urMdS43jypIA7ac) | [Pınar Köksal](https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ), [Göksel Baktagir](https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp), [Hakan Aysev](https://open.spotify.com/artist/48cI3r9zpRorKUKiepDyHk) | [Duygu Pinari](https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID) | 4:00 |
 
 Snapshot ID: `AAAAAMcQkaqFkb9uzrI+pwknQTSgyQiP`

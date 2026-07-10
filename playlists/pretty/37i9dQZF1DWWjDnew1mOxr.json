@@ -1,6 +1,6 @@
 {
   "description": "Music that means it. Cover: overpass",
-  "num_followers": 131356,
+  "num_followers": 131364,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "The Rope",
-        "url": "https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 190574,
-      "name": "The Rope",
-      "url": "https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX"
-    },
-    {
-      "added_at": "2026-06-18 23:00:53",
-      "album": {
         "name": "Figure It Out",
         "url": "https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 189009,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx"
+    },
+    {
+      "added_at": "2026-06-18 23:00:53",
+      "album": {
+        "name": "The Rope",
+        "url": "https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 190574,
+      "name": "The Rope",
+      "url": "https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "Thorn",
-        "url": "https://open.spotify.com/album/7Mhz23360G2NPtM8mTla3W"
-      },
-      "artists": [
-        {
-          "name": "Keo",
-          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
-        }
-      ],
-      "duration_ms": 248480,
-      "name": "Thorn",
-      "url": "https://open.spotify.com/track/3n84Ht1sQY1kaChBAJn5XN"
-    },
-    {
-      "added_at": "2026-06-18 23:00:53",
-      "album": {
         "name": "Cardinals",
         "url": "https://open.spotify.com/album/6ljdAA4873Yi5Yoj2eX2Cp"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 194753,
       "name": "Twist and Turn",
       "url": "https://open.spotify.com/track/5UOMZft6sAffVx7wAizAhn"
+    },
+    {
+      "added_at": "2026-06-18 23:00:53",
+      "album": {
+        "name": "Thorn",
+        "url": "https://open.spotify.com/album/7Mhz23360G2NPtM8mTla3W"
+      },
+      "artists": [
+        {
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
+        }
+      ],
+      "duration_ms": 248480,
+      "name": "Thorn",
+      "url": "https://open.spotify.com/track/3n84Ht1sQY1kaChBAJn5XN"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "mettle",
-        "url": "https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw"
-      },
-      "artists": [
-        {
-          "name": "she's green",
-          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
-        }
-      ],
-      "duration_ms": 176853,
-      "name": "mettle",
-      "url": "https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB"
-    },
-    {
-      "added_at": "2026-06-18 23:00:53",
-      "album": {
         "name": "Siren",
         "url": "https://open.spotify.com/album/7gxWrfjgky0pVjUXXyH5VY"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 225426,
       "name": "Hands",
       "url": "https://open.spotify.com/track/5ZUlQwfPA1vKUsV70eiUyu"
+    },
+    {
+      "added_at": "2026-06-18 23:00:53",
+      "album": {
+        "name": "mettle",
+        "url": "https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw"
+      },
+      "artists": [
+        {
+          "name": "she's green",
+          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
+        }
+      ],
+      "duration_ms": 176853,
+      "name": "mettle",
+      "url": "https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "3AM",
-        "url": "https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx"
-      },
-      "artists": [
-        {
-          "name": "overpass",
-          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
-        }
-      ],
-      "duration_ms": 211119,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi"
-    },
-    {
-      "added_at": "2026-06-18 23:00:53",
-      "album": {
         "name": "Defibrillator",
         "url": "https://open.spotify.com/album/2BQMRPHCjPK4WN2ZtkJKTJ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 161186,
       "name": "Defibrillator",
       "url": "https://open.spotify.com/track/71zdTsKVOPKvEQjUWRiHvO"
+    },
+    {
+      "added_at": "2026-06-18 23:00:53",
+      "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "duration_ms": 211119,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "Something's Wrong",
-        "url": "https://open.spotify.com/album/1xuZIqxmZleNkPG8PonAp3"
-      },
-      "artists": [
-        {
-          "name": "James Marriott",
-          "url": "https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL"
-        }
-      ],
-      "duration_ms": 200729,
-      "name": "Something's Wrong",
-      "url": "https://open.spotify.com/track/45afJugFs63B3KaDO3pcVa"
-    },
-    {
-      "added_at": "2026-06-18 23:00:53",
-      "album": {
         "name": "Placebo",
         "url": "https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 290086,
       "name": "Placebo",
       "url": "https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14"
+    },
+    {
+      "added_at": "2026-06-18 23:00:53",
+      "album": {
+        "name": "Something's Wrong",
+        "url": "https://open.spotify.com/album/1xuZIqxmZleNkPG8PonAp3"
+      },
+      "artists": [
+        {
+          "name": "James Marriott",
+          "url": "https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL"
+        }
+      ],
+      "duration_ms": 200729,
+      "name": "Something's Wrong",
+      "url": "https://open.spotify.com/track/45afJugFs63B3KaDO3pcVa"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "Masquerade",
-        "url": "https://open.spotify.com/album/29AoeHJhdqdvkZAh7EPoS4"
-      },
-      "artists": [
-        {
-          "name": "Cardinals",
-          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
-        }
-      ],
-      "duration_ms": 184624,
-      "name": "Barbed Wire",
-      "url": "https://open.spotify.com/track/1MCZAFcjyD5WC43Xd82Mhi"
-    },
-    {
-      "added_at": "2026-06-18 23:00:53",
-      "album": {
         "name": "Breadline",
         "url": "https://open.spotify.com/album/0Oxox0LPqyimvSDEDz6te1"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 194652,
       "name": "Breadline",
       "url": "https://open.spotify.com/track/6MSuabY3lmqyNCUhcCgQ5n"
+    },
+    {
+      "added_at": "2026-06-18 23:00:53",
+      "album": {
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/29AoeHJhdqdvkZAh7EPoS4"
+      },
+      "artists": [
+        {
+          "name": "Cardinals",
+          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
+        }
+      ],
+      "duration_ms": 184624,
+      "name": "Barbed Wire",
+      "url": "https://open.spotify.com/track/1MCZAFcjyD5WC43Xd82Mhi"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "Lucy",
-        "url": "https://open.spotify.com/album/3uRlTeGvjVcrNYk1mqJTgf"
+        "name": "Love Me Please",
+        "url": "https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv"
       },
       "artists": [
         {
-          "name": "Louis Dunford",
-          "url": "https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342"
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
         }
       ],
-      "duration_ms": 260462,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/3BUjgjs6DCpu0pYT7PWEr8"
+      "duration_ms": 158667,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP"
     }
   ],
   "unique_name": "Proper Belters",

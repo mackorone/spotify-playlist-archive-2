@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 65702,
+  "num_followers": 65703,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAAsB+6GKFXcZGRDwY3eriqa",
+  "snapshot_id": "ak2TAAAAAACFYrk3Av8Q/Cyy681ifq7P",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 200009,
+      "name": "Is it a Crime?",
+      "url": "https://open.spotify.com/track/7dr1xuaEhYlykaoGNP10a3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Days Are Getting Shorter",
         "url": "https://open.spotify.com/album/4GYPiYB5ZXwHS3EVHv23lb"
       },
@@ -475,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
+        "name": "Aeon",
+        "url": "https://open.spotify.com/album/7zti2rv9mVrfELqwp9mgpD"
       },
       "artists": [
         {
@@ -484,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 200009,
-      "name": "Is it a Crime?",
-      "url": "https://open.spotify.com/track/7dr1xuaEhYlykaoGNP10a3"
+      "duration_ms": 110000,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/66xRBkSLMayKuFHVVSiqNY"
     },
     {
       "added_at": null,
@@ -507,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aeon",
-        "url": "https://open.spotify.com/album/7zti2rv9mVrfELqwp9mgpD"
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
       },
       "artists": [
         {
@@ -516,9 +532,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 110000,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/66xRBkSLMayKuFHVVSiqNY"
+      "duration_ms": 124885,
+      "name": "You Changed on Me.",
+      "url": "https://open.spotify.com/track/4zPtXbC2XnYo6AoEArcJBx"
     },
     {
       "added_at": null,
@@ -547,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
+        "name": "Aeon",
+        "url": "https://open.spotify.com/album/7zti2rv9mVrfELqwp9mgpD"
       },
       "artists": [
         {
@@ -556,9 +572,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 124885,
-      "name": "You Changed on Me.",
-      "url": "https://open.spotify.com/track/4zPtXbC2XnYo6AoEArcJBx"
+      "duration_ms": 215172,
+      "name": "We Are Still In Love",
+      "url": "https://open.spotify.com/track/3JJhBch0AWO0QY18dSd0Wc"
     },
     {
       "added_at": null,
@@ -583,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aeon",
-        "url": "https://open.spotify.com/album/7zti2rv9mVrfELqwp9mgpD"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "We Are Still In Love",
-      "url": "https://open.spotify.com/track/3JJhBch0AWO0QY18dSd0Wc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Spirit Still Remains (Purgatory)",
         "url": "https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP"
       },
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 162000,
-      "name": "I'd Do Anything For You",
-      "url": "https://open.spotify.com/track/781598Nn95TxDrkXny42A8"
+      "duration_ms": 144008,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/1QOsiJuZjJI7febiK6WjVA"
     },
     {
       "added_at": null,
@@ -631,6 +631,26 @@
       "duration_ms": 188000,
       "name": "Amor",
       "url": "https://open.spotify.com/track/3a8EoFX4khzdpzwHNGQzuM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i saw you in my dream",
+        "url": "https://open.spotify.com/album/6NYNn2Dyg46rALLiq2LNDL"
+      },
+      "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "i saw you in my dream (acoustic)",
+      "url": "https://open.spotify.com/track/3ac1wxBmJP1uspJSYgTrD6"
     },
     {
       "added_at": null,
@@ -663,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i saw you in my dream",
-        "url": "https://open.spotify.com/album/6NYNn2Dyg46rALLiq2LNDL"
-      },
-      "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "i saw you in my dream (acoustic)",
-      "url": "https://open.spotify.com/track/3ac1wxBmJP1uspJSYgTrD6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Spirit Still Remains (Purgatory)",
         "url": "https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP"
       },
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 144008,
-      "name": "Dance",
-      "url": "https://open.spotify.com/track/1QOsiJuZjJI7febiK6WjVA"
+      "duration_ms": 162000,
+      "name": "I'd Do Anything For You",
+      "url": "https://open.spotify.com/track/781598Nn95TxDrkXny42A8"
     },
     {
       "added_at": null,
@@ -735,42 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Beautiful.",
-        "url": "https://open.spotify.com/album/3RjNWofFohc05IBooJhfQt"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "3:35am",
-      "url": "https://open.spotify.com/track/0lio1hkxG0KUZfoKP4ERvC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Spirit Still Remains (Purgatory)",
-        "url": "https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP"
-      },
-      "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 100000,
-      "name": "If Only I Could Tell You (T.S.S.R. Piano Edit)",
-      "url": "https://open.spotify.com/track/0dXUlj0Jj1rPdUi5r1GTKG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Camp Lukewarm",
         "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
       },
@@ -795,18 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
+        "name": "The Spirit Still Remains (Purgatory)",
+        "url": "https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP"
       },
       "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 80945,
-      "name": "God or The Devil?",
-      "url": "https://open.spotify.com/track/4L5QSyBIXwgt3jwjZBXK0G"
+      "duration_ms": 100000,
+      "name": "If Only I Could Tell You (T.S.S.R. Piano Edit)",
+      "url": "https://open.spotify.com/track/0dXUlj0Jj1rPdUi5r1GTKG"
     },
     {
       "added_at": null,
@@ -823,6 +791,38 @@
       "duration_ms": 334285,
       "name": "Days Are Getting Shorter",
       "url": "https://open.spotify.com/track/7AxQOpOH4ag6zOALqGNOJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 80945,
+      "name": "God or The Devil?",
+      "url": "https://open.spotify.com/track/4L5QSyBIXwgt3jwjZBXK0G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Beautiful.",
+        "url": "https://open.spotify.com/album/3RjNWofFohc05IBooJhfQt"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "3:35am",
+      "url": "https://open.spotify.com/track/0lio1hkxG0KUZfoKP4ERvC"
     },
     {
       "added_at": null,

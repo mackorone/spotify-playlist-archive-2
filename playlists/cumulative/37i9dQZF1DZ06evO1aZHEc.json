@@ -828,7 +828,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-08",
+      "date_removed": null,
       "duration_ms": 56000,
       "name": "i",
       "url": "https://open.spotify.com/track/7vF0dmVV28qC0zv4vqc4k1"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "ix",
       "url": "https://open.spotify.com/track/0YBPjEDmouQZsaYeVsborr"
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-08",
+      "date_removed": null,
       "duration_ms": 225765,
       "name": "nothing to dread",
       "url": "https://open.spotify.com/track/75LCHnJsoQmdO2FjDzLzZG"
@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 322000,
       "name": "Sigh In My Ear",
       "url": "https://open.spotify.com/track/7lvtC5scO2e6fjk8vakUVq"
@@ -1662,7 +1662,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 289737,
       "name": "stoned gesture",
       "url": "https://open.spotify.com/track/7gC69iI7Tf7TTc6Xitje12"
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 338428,
       "name": "sunday morning",
       "url": "https://open.spotify.com/track/1y3ncUHQxY9lldcVALuald"
@@ -1854,7 +1854,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 142000,
       "name": "vii",
       "url": "https://open.spotify.com/track/7xhdQtOMre3IOkKpPJF7Ga"
@@ -1908,7 +1908,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 194000,
       "name": "x",
       "url": "https://open.spotify.com/track/0Ua9LPrNVtitDgMQY9gLap"

@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 188043,
+  "num_followers": 188039,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-07-02 22:01:45",
       "album": {
-        "name": "Romanticize The Dive",
-        "url": "https://open.spotify.com/album/75oefoG5Cn2MbBc32uNPnu"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 223106,
-      "name": "Tremolo",
-      "url": "https://open.spotify.com/track/2fLrRiiTmJM4Gdoq7mdXV9"
-    },
-    {
-      "added_at": "2026-07-02 22:01:45",
-      "album": {
         "name": "Isteri",
         "url": "https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2026-07-02 22:01:45",
       "album": {
+        "name": "Romanticize The Dive",
+        "url": "https://open.spotify.com/album/75oefoG5Cn2MbBc32uNPnu"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 223106,
+      "name": "Tremolo",
+      "url": "https://open.spotify.com/track/2fLrRiiTmJM4Gdoq7mdXV9"
+    },
+    {
+      "added_at": "2026-07-02 22:01:45",
+      "album": {
         "name": "The Banjo Song",
         "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 229760,
       "name": "The Banjo Song",
       "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
-    },
-    {
-      "added_at": "2026-07-02 22:01:45",
-      "album": {
-        "name": "Two of Diamonds",
-        "url": "https://open.spotify.com/album/7dnieoimvSordFsWN5Dec5"
-      },
-      "artists": [
-        {
-          "name": "Mick Harvey",
-          "url": "https://open.spotify.com/artist/5RyAbJ3y4yw8EbDcRblB8S"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "Out of Time Man",
-      "url": "https://open.spotify.com/track/3nFoPHJR1BOSrTl6jKIl1a"
     },
     {
       "added_at": "2026-07-02 22:01:45",
@@ -887,6 +871,22 @@
     {
       "added_at": "2026-07-02 22:01:45",
       "album": {
+        "name": "Two of Diamonds",
+        "url": "https://open.spotify.com/album/7dnieoimvSordFsWN5Dec5"
+      },
+      "artists": [
+        {
+          "name": "Mick Harvey",
+          "url": "https://open.spotify.com/artist/5RyAbJ3y4yw8EbDcRblB8S"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "Out of Time Man",
+      "url": "https://open.spotify.com/track/3nFoPHJR1BOSrTl6jKIl1a"
+    },
+    {
+      "added_at": "2026-07-02 22:01:45",
+      "album": {
         "name": "BODY TO BODY",
         "url": "https://open.spotify.com/album/67ntbNxZcbz9Hpf73sVCdL"
       },
@@ -899,22 +899,6 @@
       "duration_ms": 188000,
       "name": "BODY TO BODY",
       "url": "https://open.spotify.com/track/5IcnbQ9qp0tBGZp7vVhdzW"
-    },
-    {
-      "added_at": "2026-07-02 22:01:45",
-      "album": {
-        "name": "Montgomery Ricky (Plus 3)",
-        "url": "https://open.spotify.com/album/1yBN6eCHN8Iw1mmjsAYwyi"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 205652,
-      "name": "Some Kind of Man",
-      "url": "https://open.spotify.com/track/0Ci9ch7w390MXYK9kr84Ma"
     },
     {
       "added_at": "2026-07-02 22:01:45",
@@ -935,6 +919,38 @@
       "duration_ms": 235600,
       "name": "Boa Sorte / Good Luck (feat. Ben Harper)",
       "url": "https://open.spotify.com/track/1LR5KBD64oRzGEjQhAMNdj"
+    },
+    {
+      "added_at": "2026-07-02 22:01:45",
+      "album": {
+        "name": "Montgomery Ricky (Plus 3)",
+        "url": "https://open.spotify.com/album/1yBN6eCHN8Iw1mmjsAYwyi"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 205652,
+      "name": "Some Kind of Man",
+      "url": "https://open.spotify.com/track/0Ci9ch7w390MXYK9kr84Ma"
+    },
+    {
+      "added_at": "2026-07-02 22:01:45",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 196813,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
     },
     {
       "added_at": "2026-07-02 22:01:45",
@@ -967,22 +983,6 @@
       "duration_ms": 212213,
       "name": "couleur menthe \u00e0 l'eau",
       "url": "https://open.spotify.com/track/2jAifF3EKOi3uI628cmKC0"
-    },
-    {
-      "added_at": "2026-07-02 22:01:45",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
-        }
-      ],
-      "duration_ms": 196813,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
     },
     {
       "added_at": "2026-07-02 22:01:45",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-07-02 22:01:45",
       "album": {
+        "name": "Interior",
+        "url": "https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 213545,
+      "name": "Yours & Mine",
+      "url": "https://open.spotify.com/track/0Mp0s7GXwLHFlZWwUVftL5"
+    },
+    {
+      "added_at": "2026-07-02 22:01:45",
+      "album": {
         "name": "Chilling Effects",
         "url": "https://open.spotify.com/album/0M35TZUSnmX5Id5Vx5Y2GK"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 250600,
       "name": "Somebody That I Used to Know",
       "url": "https://open.spotify.com/track/0kQavaJGqio24iCOHyM6aa"
-    },
-    {
-      "added_at": "2026-07-02 22:01:45",
-      "album": {
-        "name": "Interior",
-        "url": "https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 213545,
-      "name": "Yours & Mine",
-      "url": "https://open.spotify.com/track/0Mp0s7GXwLHFlZWwUVftL5"
     },
     {
       "added_at": "2026-07-02 22:01:45",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2026-07-02 22:01:45",
       "album": {
-        "name": "Junk",
-        "url": "https://open.spotify.com/album/18FJHVg2pQUU4x2pxuVQ1A"
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz"
       },
       "artists": [
         {
-          "name": "Hailey Tuck",
-          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
         }
       ],
-      "duration_ms": 163301,
-      "name": "Cry to Me",
-      "url": "https://open.spotify.com/track/3SGTB0245ztpWiRN6wQvvI"
+      "duration_ms": 200826,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ"
     },
     {
       "added_at": "2026-07-02 22:01:45",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2026-07-02 22:01:45",
       "album": {
+        "name": "Junk",
+        "url": "https://open.spotify.com/album/18FJHVg2pQUU4x2pxuVQ1A"
+      },
+      "artists": [
+        {
+          "name": "Hailey Tuck",
+          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
+        }
+      ],
+      "duration_ms": 163301,
+      "name": "Cry to Me",
+      "url": "https://open.spotify.com/track/3SGTB0245ztpWiRN6wQvvI"
+    },
+    {
+      "added_at": "2026-07-02 22:01:45",
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/0qkytHZiIHQac8mOlcaiMf"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 201600,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/0SiOYtxmMk1zHrbHHwgx44"
-    },
-    {
-      "added_at": "2026-07-02 22:01:45",
-      "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz"
-      },
-      "artists": [
-        {
-          "name": "Johnny Jane",
-          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ"
     },
     {
       "added_at": "2026-07-02 22:01:45",
@@ -1315,54 +1315,6 @@
     {
       "added_at": "2026-07-02 22:01:45",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
-      },
-      "artists": [
-        {
-          "name": "Bleu Toucan",
-          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
-        }
-      ],
-      "duration_ms": 194082,
-      "name": "Hano\u00ef caf\u00e9",
-      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
-    },
-    {
-      "added_at": "2026-07-02 22:01:45",
-      "album": {
-        "name": "These Nights",
-        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 279183,
-      "name": "These Nights",
-      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
-    },
-    {
-      "added_at": "2026-07-02 22:01:45",
-      "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
-    },
-    {
-      "added_at": "2026-07-02 22:01:45",
-      "album": {
         "name": "Ar Fresco",
         "url": "https://open.spotify.com/album/3X7cwZY7OQlkq2BZvfXSCF"
       },
@@ -1383,6 +1335,54 @@
       "duration_ms": 242701,
       "name": "Ar Fresco",
       "url": "https://open.spotify.com/track/2n2J1IyAZQcAJZnekdnEPM"
+    },
+    {
+      "added_at": "2026-07-02 22:01:45",
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
+    },
+    {
+      "added_at": "2026-07-02 22:01:45",
+      "album": {
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 279183,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
+    },
+    {
+      "added_at": "2026-07-02 22:01:45",
+      "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
+      },
+      "artists": [
+        {
+          "name": "Bleu Toucan",
+          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
+        }
+      ],
+      "duration_ms": 194082,
+      "name": "Hano\u00ef caf\u00e9",
+      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
     },
     {
       "added_at": "2026-07-02 22:01:45",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2026-07-02 22:01:45",
       "album": {
+        "name": "END OF THE SKY",
+        "url": "https://open.spotify.com/album/6cyLb8x3s5tF76GY0uzF45"
+      },
+      "artists": [
+        {
+          "name": "JVLY",
+          "url": "https://open.spotify.com/artist/52flspAUwzY59cow3QC53f"
+        }
+      ],
+      "duration_ms": 159807,
+      "name": "END OF THE SKY",
+      "url": "https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z"
+    },
+    {
+      "added_at": "2026-07-02 22:01:45",
+      "album": {
         "name": "Keyring",
         "url": "https://open.spotify.com/album/3FKSfxyMWYpbz7yUtVIohl"
       },
@@ -1643,18 +1659,18 @@
     {
       "added_at": "2026-07-02 22:01:45",
       "album": {
-        "name": "END OF THE SKY",
-        "url": "https://open.spotify.com/album/6cyLb8x3s5tF76GY0uzF45"
+        "name": "Moonlit",
+        "url": "https://open.spotify.com/album/1sbBM687gBFOF1ZVWz8vRC"
       },
       "artists": [
         {
-          "name": "JVLY",
-          "url": "https://open.spotify.com/artist/52flspAUwzY59cow3QC53f"
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
         }
       ],
-      "duration_ms": 159807,
-      "name": "END OF THE SKY",
-      "url": "https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z"
+      "duration_ms": 221810,
+      "name": "Moonlit",
+      "url": "https://open.spotify.com/track/7bYCJEl4oPXccNUPxNPk1y"
     },
     {
       "added_at": "2026-07-02 22:01:45",
@@ -1675,34 +1691,18 @@
     {
       "added_at": "2026-07-02 22:01:45",
       "album": {
-        "name": "Moonlit",
-        "url": "https://open.spotify.com/album/1sbBM687gBFOF1ZVWz8vRC"
+        "name": "The City - EP",
+        "url": "https://open.spotify.com/album/5YSD37sctlEkDmGe2PSpRZ"
       },
       "artists": [
         {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+          "name": "Kazy Lambist",
+          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
         }
       ],
-      "duration_ms": 221810,
-      "name": "Moonlit",
-      "url": "https://open.spotify.com/track/7bYCJEl4oPXccNUPxNPk1y"
-    },
-    {
-      "added_at": "2026-07-02 22:01:45",
-      "album": {
-        "name": "Is It Love?",
-        "url": "https://open.spotify.com/album/3q1lGbvsac3MDTOZvmLuRR"
-      },
-      "artists": [
-        {
-          "name": "The Jungle Giants",
-          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
-        }
-      ],
-      "duration_ms": 252894,
-      "name": "Is It Love?",
-      "url": "https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo"
+      "duration_ms": 269653,
+      "name": "Annecy",
+      "url": "https://open.spotify.com/track/7CBXiV6q0kPOms002HJyoM"
     }
   ],
   "unique_name": "D\u00eener entre amis",

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover: Joepraize
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,880 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,900 likes - 50 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Promise Keeper](https://open.spotify.com/track/7v7F2NAs359SCkFk5YBZEK) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Promise Keeper](https://open.spotify.com/album/0AXYZMk19oDLs0iHZBCCHb) | 15:53 |
 | 2 | [He Is Here](https://open.spotify.com/track/71WaxrZwN86EY4oZr2Z8pm) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Ibukun](https://open.spotify.com/artist/1JcySGJuBH1NiNXOCRnY51), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [He Is Here](https://open.spotify.com/album/6pzbXY00MdrbtrOywFw7SQ) | 9:00 |
-| 3 | [Praise \(feat\. Brandon Lake, Chris Brown & Chandler Moore\)](https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:04 |
-| 4 | [What A Beautiful Name](https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/5tYHku7MpOJjUecn5Ape0O) | 4:00 |
-| 5 | [Ikeze](https://open.spotify.com/track/0eVhIi4ISZc04b2sAH3r5j) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [The Good Wine](https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj) | [Ikeze](https://open.spotify.com/album/6vPMxNFkNChotelcABKFpJ) | 1:46 |
+| 3 | [Can't Live Without You](https://open.spotify.com/track/1JsxDZyYow7kVn7i4aP7O3) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Can't Live Without You](https://open.spotify.com/album/5fnZH4QL5lDe2r8IBzgeDA) | 4:15 |
+| 4 | [Praise \(feat\. Brandon Lake, Chris Brown & Chandler Moore\)](https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:04 |
+| 5 | [What A Beautiful Name](https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/5tYHku7MpOJjUecn5Ape0O) | 4:00 |
 | 6 | [Jesus Has Won](https://open.spotify.com/track/2Zs2RddCnSBPQJXZyVXCSB) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Jesus Has Won](https://open.spotify.com/album/2C9WtoYZCIoZgOeDrTP0XG) | 3:26 |
 | 7 | [Faithful](https://open.spotify.com/track/1hltOjT8EEq1FX0Y8NYCQI) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Faithful](https://open.spotify.com/album/6QVYThtAZSWJuGRIBY8mhB) | 9:46 |
 | 8 | [Fi Life](https://open.spotify.com/track/73YHEkRd1VtJfrc53mMWrX) | [Miriam Jaydah](https://open.spotify.com/artist/0WD1OVRYVzK0UGWfh42NrG) | [Fi Life](https://open.spotify.com/album/7BsptJbMsZvoiyMFabdYUo) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 49 | [Ekwueme](https://open.spotify.com/track/5YOR2BKwdWNnDqIZzEgguu) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Osinachi Nwachukwu](https://open.spotify.com/artist/7DmYJaJIKvbtMy7WsUNb1F) | [Ekwueme to the World Project](https://open.spotify.com/album/1hLkcPy59fyfQktW86MaOQ) | 6:57 |
 | 50 | [I Believe It \(The Life of Jesus\)](https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [I Believe It \(The Life of Jesus\)](https://open.spotify.com/album/1kn3HEmaNTYMt4ZGUa23sj) | 3:45 |
 
-Snapshot ID: `AAAAADyxHYkcSkBicqZf6E721qmIHTzg`
+Snapshot ID: `AAAAACBpr7dYCqaNAwojuAuaDWWcwSkt`

@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,277 songs - 3 day 2 hr 13 min
+1,280 songs - 3 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Confession to Make](https://open.spotify.com/track/4BWbeI8yxhm6syj4P3K9yl) | [DJ Kosho](https://open.spotify.com/artist/4v0mYxAmKlG7pDYuiUfm87) | [Confession to Make](https://open.spotify.com/album/45O096QdrsBc5oRpQ7kVi2) | 3:53 | 2026-04-07 | 2026-05-03 |
 | [Contromano](https://open.spotify.com/track/4aWtfu4zFHETjfGmDWHwCY) | [Daniele Foschia](https://open.spotify.com/artist/7p5aD6fiPyqk1EJcdrsJGJ) | [Una pellicola di realtà](https://open.spotify.com/album/10Ji1hqmYDzlsCMSuVf2VB) | 3:17 | 2026-06-30 |  |
 | [Cool](https://open.spotify.com/track/0lEyuxEtiz90tgC542d3Iz) | [Tim Allan](https://open.spotify.com/artist/1PAvHNGevlHvYXRC5JityS) | [Not the Bad Boy](https://open.spotify.com/album/4fHVgR7PMm8nO8FPpaxIx1) | 2:45 | 2026-06-19 |  |
+| [Cool Beans](https://open.spotify.com/track/0oiXqI9221znTkKHYpTL4d) | [Lovechild](https://open.spotify.com/artist/63joINATp7Ko83hV2D3UtU) | [Cool Beans](https://open.spotify.com/album/5ZGn1aZsdn2CwVNic1kXD6) | 3:53 | 2026-07-09 |  |
 | [Cool Breeze](https://open.spotify.com/track/0uX7UsvCZzbjbJsFyqbdUR) | [Ben Carringer](https://open.spotify.com/artist/5Xs7la5VzfvqDJD2KfVhL6) | [Cool Breeze](https://open.spotify.com/album/5mcOE9xiQGH9rvaAW1H8Op) | 3:35 | 2026-03-03 | 2026-03-25 |
 | [Cooler Than Me](https://open.spotify.com/track/0ZGkH0TjppA4TSiCteQrkT) | [Max Cooper III](https://open.spotify.com/artist/5VwbADUdH8ryktypdkpX06) | [Cooler Than Me](https://open.spotify.com/album/7a10U2Vr1sXX8TrbzYHzCu) | 2:50 | 2026-07-02 |  |
 | [Copper](https://open.spotify.com/track/5WKo5MJKoepRrmXYN5pzGY) | [John Pronto](https://open.spotify.com/artist/5QtUYAAvpQfIFojICPFZuq) | [For the Birds](https://open.spotify.com/album/03ME7K35Ti1du3NWt02j5t) | 3:56 | 2026-03-30 | 2026-05-03 |
@@ -967,6 +968,7 @@
 | [Smile](https://open.spotify.com/track/6uKneVDbug79oVARPAqfKG) | [Asher Saipe](https://open.spotify.com/artist/11qtvzvtcIBq9S5gNPnBDD) | [Smile](https://open.spotify.com/album/24KgIkZhea3iRt93nKb8xw) | 4:05 | 2026-03-28 | 2026-05-03 |
 | [Smile at Anger](https://open.spotify.com/track/6kaYH8n5R5FxtW4CkxdSia) | [Benny Bianco](https://open.spotify.com/artist/0hhm40NV7HM1x69XiMDrna) | [Another Day of Life](https://open.spotify.com/album/6s42xcYpbSLbwx4MOnlcDn) | 3:16 | 2026-01-06 | 2026-02-03 |
 | [Smoke and Mirrors](https://open.spotify.com/track/00Oc8jsw9mzcvR2HhG1Jtm) | [Dane Rivers](https://open.spotify.com/artist/6PaURsKDuXnJOuLBhIpnJh) | [Smoke and Mirrors](https://open.spotify.com/album/13dteLs18ErbtnAkXlkN8D) | 2:58 | 2026-03-03 | 2026-03-25 |
+| [Smoke in a Silver Line](https://open.spotify.com/track/5pJE5tr1BWeMHxlBoCSc73) | [Consorcio Humano](https://open.spotify.com/artist/6pzNibk8eE0etGvSTW8rjI) | [Smoke in a Silver Line](https://open.spotify.com/album/33XXPERdj3JIybLT91WdLg) | 3:10 | 2026-07-09 |  |
 | [Snap](https://open.spotify.com/track/5t2KnkJ348gY4DvYudL47k) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Snap](https://open.spotify.com/album/4ErbPCHn0Fc7yGiNTnoFOr) | 3:23 | 2025-10-17 | 2025-12-21 |
 | [SO HIGH OFF LIFE](https://open.spotify.com/track/0evTfarhFyfb3RvHIcc0ep) | [C\-Zero](https://open.spotify.com/artist/5I8EdBtHPl24xU2dysCj3o) | [SO HIGH OFF LIFE](https://open.spotify.com/album/7g3yswgJrMgVK3xbyQPywX) | 2:53 | 2026-05-10 |  |
 | [Sogno di follia](https://open.spotify.com/track/2ed0HYFVbRBW3EQm8dxF2B) | [Steve](https://open.spotify.com/artist/5pNVhuDEajMOmhHU9maIqy) | [Sogno di follia](https://open.spotify.com/album/133A99qb7KhTn1XoZjwJT3) | 3:06 | 2026-01-24 | 2026-02-20 |
@@ -1137,6 +1139,7 @@
 | [Train Tracks](https://open.spotify.com/track/2F772qCRXyHYKvAKTIXXud) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Enchanted](https://open.spotify.com/album/3ClfQCfOsysGWFKSQGN2bt) | 2:24 | 2026-07-05 |  |
 | [Tranced](https://open.spotify.com/track/6lAhFQSwozOyNAEmTSeYxf) | [Lreds](https://open.spotify.com/artist/484AKhrbNYknWTxBc5cn0K) | [Tranced](https://open.spotify.com/album/1GPbQAIy1QwhNcLvRgBqaU) | 2:50 | 2026-03-11 | 2026-04-12 |
 | [Tranquility](https://open.spotify.com/track/4GhdgLqCsD2cDPKZyXuNKR) | [Barrie Johnson](https://open.spotify.com/artist/1Y5kb8pZVSA6CH12qTROX4) | [Tranquility](https://open.spotify.com/album/5EOfIpRs4JMH9M52TVzxs4) | 4:34 | 2025-11-04 | 2025-12-21 |
+| [Transparency](https://open.spotify.com/track/6khQUVORfUdXUyyfzlWYZp) | [T\-WINNN](https://open.spotify.com/artist/5DgJEIByQ2L0y5Nmzw4zq0), [Rap & R&B Collective](https://open.spotify.com/artist/2bzcaHXweMRwPs4C9qqlwB) | [Transparency](https://open.spotify.com/album/6er4YynjnlK2CBfIFNMN5T) | 3:01 | 2026-07-09 |  |
 | [Trapani](https://open.spotify.com/track/6TUzdPGuBPV9OgH61eQcPW) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs), [Marwan Samer](https://open.spotify.com/artist/3epY0zg2YiO3c3g2T7NtvO) | [Greetings from South Italy](https://open.spotify.com/album/6Yup2nahWkqQlE3Iji4tNm) | 5:09 | 2023-04-27 | 2025-11-29 |
 | [Trattore elettrico](https://open.spotify.com/track/3AEtSu6wMNAKdZQqUHSt2a) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Trattore elettrico](https://open.spotify.com/album/7p4Fj7Njf82gwksg50LVKq) | 3:39 | 2026-02-07 | 2026-03-07 |
 | [Trop Tard](https://open.spotify.com/track/4Jc87vJJuMZJs1sVCzihsl) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Trop Tard](https://open.spotify.com/album/4NIXc8GwWXnvo1TTMJEkWt) | 3:31 | 2026-05-10 | 2026-06-05 |

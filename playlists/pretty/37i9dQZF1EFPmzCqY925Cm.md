@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 20 | [Chasing Ghosts](https://open.spotify.com/track/5kMxyfaw9KDCyqaU0Z7QUj) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Chasing Ghosts](https://open.spotify.com/album/6KxYxYpOZA4xtBEZsaLORx) | 2:07 |
 | 21 | [bLeSs uR hEaRt](https://open.spotify.com/track/5dUgbxgqNmCBSmpH5GqKbD) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [bLeSs uR hEaRt](https://open.spotify.com/album/7GDQZo95yvUhGpYCeEWYuU) | 3:11 |
 | 22 | [reaLitie biTes](https://open.spotify.com/track/5dAHWcZ21aHi8AMzQCPCDQ) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [reaLitie biTes](https://open.spotify.com/album/4wcicyGCnoZx5lVwXIlJca) | 2:24 |
-| 23 | [Hey Violet](https://open.spotify.com/track/2jkIAgw6L0Me8RpFmbMAY7) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I) | [My Everlasting Isolation](https://open.spotify.com/album/3shRCuMoi8faGBEWiUsX80) | 2:34 |
-| 24 | [Don't Know About The World](https://open.spotify.com/track/7xil2jjcEh4kaU3XXoAPh8) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:23 |
+| 23 | [Don't Know About The World](https://open.spotify.com/track/7xil2jjcEh4kaU3XXoAPh8) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:23 |
+| 24 | [Hey Violet](https://open.spotify.com/track/2jkIAgw6L0Me8RpFmbMAY7) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I) | [My Everlasting Isolation](https://open.spotify.com/album/3shRCuMoi8faGBEWiUsX80) | 2:34 |
 | 25 | [SUGARCOAT](https://open.spotify.com/track/7ds2cvPKeRrbIVHTctkBc4) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN) | 2:30 |
 | 26 | [If You're Gonna Leave](https://open.spotify.com/track/0kWQkRj6pUnZkfYd5vC3uM) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [If You're Gonna Leave](https://open.spotify.com/album/7ClqmH7mHLiaboyJXNpdyb) | 3:05 |
 | 27 | [hung up on u](https://open.spotify.com/track/13UOvm8VUEAoyJDaAdiTqV) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [hung up on u](https://open.spotify.com/album/6KZc2DR22wkT60QK8a9Mz8) | 2:48 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 68 | [Nerve](https://open.spotify.com/track/7i2byKvq0t1ZFM2gRF08gM) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4), [Geena Fontanella](https://open.spotify.com/artist/10wiqOOU6bWDY4TavxRO42) | [Nerve](https://open.spotify.com/album/3zt0WesxwZxCUdvhF2EavU) | 2:48 |
 | 69 | [Not My Problem](https://open.spotify.com/track/00xbhCeJjnu5IJbKUJRoz0) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [You Should Prolly Sit Down For This](https://open.spotify.com/album/1IsDPJrQijue8GwAw6j3gz) | 3:07 |
 
-Snapshot ID: `AcWVqAAAAAACDYcpH8Dq1VDrfMrF/8tA`
+Snapshot ID: `AcWbUgAAAAAfKIPqLs84pzsPgZWSwHkU`

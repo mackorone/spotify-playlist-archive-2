@@ -142,7 +142,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 230260,
       "name": "5 More Minutes",
       "url": "https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 89750,
       "name": ":)",
       "url": "https://open.spotify.com/track/0LYwei9u75ekgIL52svluu"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 182073,
       "name": "anatomy",
       "url": "https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT"
@@ -460,7 +460,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 272194,
       "name": "As if",
       "url": "https://open.spotify.com/track/1BkDOu9pzQ1COEIFpIidED"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 268019,
       "name": "away",
       "url": "https://open.spotify.com/track/1MYetTbja5QTuFPovHz51u"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 250512,
       "name": "Beat Tub (Prod. STUTS)",
       "url": "https://open.spotify.com/track/3ljgp3F2ag2EdtUkm459tu"
@@ -864,6 +864,24 @@
       "duration_ms": 269357,
       "name": "burn",
       "url": "https://open.spotify.com/track/1Z54BGp8zlty1aWIRnaUKD"
+    },
+    {
+      "album": {
+        "name": "In My Room (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/07ECvLpnUHGLe2ntFJckIi"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192015,
+      "name": "But Not For Me (2015)",
+      "url": "https://open.spotify.com/track/2Z9OxLAF2vu0AOGqlQ0niN"
     },
     {
       "album": {
@@ -1374,7 +1392,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 209536,
       "name": "Cruel Odds",
       "url": "https://open.spotify.com/track/0YP1ZPdqjqfVxHRUvzquwz"
@@ -2652,8 +2670,8 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
-      "duration_ms": 218493,
+      "date_removed": null,
+      "duration_ms": 218497,
       "name": "IKAROS",
       "url": "https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2"
     },
@@ -3564,7 +3582,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 207472,
       "name": "munasawagi",
       "url": "https://open.spotify.com/track/3X89N0OmGkTzA0Uh7tlOE1"
@@ -3810,7 +3828,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 208251,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o"
@@ -3832,6 +3850,24 @@
       "duration_ms": 182013,
       "name": "Nobose",
       "url": "https://open.spotify.com/track/1n6W03okyF7dsmY83leZ6d"
+    },
+    {
+      "album": {
+        "name": "Note of Mothership",
+        "url": "https://open.spotify.com/album/4VReJ4pdw1dOJzIq2p1hlf"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178995,
+      "name": "Note of Mothership",
+      "url": "https://open.spotify.com/track/2Qj1RsGrDD9laGR9QqrBvV"
     },
     {
       "album": {
@@ -4354,7 +4390,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 111096,
       "name": "SAYONARA PENGUIN",
       "url": "https://open.spotify.com/track/2xJ66XR7lbKqL55J70cXqJ"
@@ -4538,7 +4574,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 221357,
       "name": "Silk Sheets",
       "url": "https://open.spotify.com/track/6g0lOAWi9nSIqmzb4Fh26O"
@@ -4798,7 +4834,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 181130,
       "name": "Stolen Seasons",
       "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
@@ -4922,7 +4958,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 222500,
       "name": "Sweet Lemon",
       "url": "https://open.spotify.com/track/4Cw3Cr6nghAhLvphXMneON"
@@ -5396,7 +5432,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 161066,
       "name": "THRIFTED",
       "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
@@ -5594,7 +5630,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 213355,
       "name": "Underdressed at the Symphony",
       "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"
@@ -6790,7 +6826,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 194902,
       "name": "\u7b11\u3063\u305f\u308a\u8ee2\u3093\u3060\u308a",
       "url": "https://open.spotify.com/track/0zmzVQMhAdO5qKiQIRdImn"
@@ -6852,6 +6888,24 @@
       "duration_ms": 262783,
       "name": "\u8857\u306e\u7d42\u308f\u308a",
       "url": "https://open.spotify.com/track/7fD09NyzrkqscB07BQJAwS"
+    },
+    {
+      "album": {
+        "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
+        "url": "https://open.spotify.com/album/65RpBciq29l3eI1zyCBpIR"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296282,
+      "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
+      "url": "https://open.spotify.com/track/36jhFhPeioSElVDd0Y2FMM"
     },
     {
       "album": {

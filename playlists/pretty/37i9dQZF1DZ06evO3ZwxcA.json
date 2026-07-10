@@ -1,12 +1,12 @@
 {
   "description": "This is P.O.D.. The essential tracks, all in one playlist.",
-  "num_followers": 79682,
+  "num_followers": 79695,
   "original_name": "This Is P.O.D.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAABgaKvjpTwyXLMDfxiyUCMn",
+  "snapshot_id": "ak2TAAAAAABEaBhJ6Dl7El2uALVD7PTE",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Testify",
+        "url": "https://open.spotify.com/album/5RIaPLtgEKqhRjLO5KHZfo"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 272546,
+      "name": "Goodbye for Now",
+      "url": "https://open.spotify.com/track/6UO0TGTr33kZLXG4PxRYZx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VERITAS",
         "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 184215,
       "name": "AFRAID TO DIE",
       "url": "https://open.spotify.com/track/70XQAZsck714xP80hqeUsj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Testify",
-        "url": "https://open.spotify.com/album/5RIaPLtgEKqhRjLO5KHZfo"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 272546,
-      "name": "Goodbye for Now",
-      "url": "https://open.spotify.com/track/6UO0TGTr33kZLXG4PxRYZx"
     },
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Murdered Love",
-        "url": "https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 245746,
-      "name": "Lost In Forever",
-      "url": "https://open.spotify.com/track/3j0TRa1zODLBJtEGjdBpj8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When Angels & Serpents Dance (2022 Remixed & Remastered)",
         "url": "https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 194721,
       "name": "When Angels & Serpents Dance - 2022 Remixed & Remastered",
       "url": "https://open.spotify.com/track/2nkA5H4RB8lzWc3xRmEbBd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Murdered Love",
+        "url": "https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 245746,
+      "name": "Lost In Forever",
+      "url": "https://open.spotify.com/track/3j0TRa1zODLBJtEGjdBpj8"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When Angels & Serpents Dance (2022 Remixed & Remastered)",
-        "url": "https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 283298,
-      "name": "It Can't Rain Everyday - 2022 Remixed & Remastered",
-      "url": "https://open.spotify.com/track/66ohz8sYtRkVBftnS9mGPp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Satellite (Expanded Edition; 2021 Remaster)",
         "url": "https://open.spotify.com/album/7fZcJiON0dNa4iE2miGmhw"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 246638,
       "name": "School Of Hard Knocks - 2021 Remaster",
       "url": "https://open.spotify.com/track/3E0vgHkr4wJcsqI65vFJAx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When Angels & Serpents Dance (2022 Remixed & Remastered)",
+        "url": "https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 283298,
+      "name": "It Can't Rain Everyday - 2022 Remixed & Remastered",
+      "url": "https://open.spotify.com/track/66ohz8sYtRkVBftnS9mGPp"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fundamental Elements of Southtown",
-        "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 55866,
-      "name": "Psalm 150",
-      "url": "https://open.spotify.com/track/5Q6aIW2cDbCgir92Gm3HC1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/3ileNPLE1vlimaNhDXtEzs"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 230680,
       "name": "This Goes Out To You",
       "url": "https://open.spotify.com/track/0wBNVJm6ivrFUlSucNVCkf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Murdered Love",
+        "url": "https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "West Coast Rock Steady",
+      "url": "https://open.spotify.com/track/7IHQvpdwkG4jHzG5u4ty4v"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Murdered Love",
-        "url": "https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO"
+        "name": "The Fundamental Elements of Southtown",
+        "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 185440,
-      "name": "West Coast Rock Steady",
-      "url": "https://open.spotify.com/track/7IHQvpdwkG4jHzG5u4ty4v"
+      "duration_ms": 55866,
+      "name": "Psalm 150",
+      "url": "https://open.spotify.com/track/5Q6aIW2cDbCgir92Gm3HC1"
     },
     {
       "added_at": null,

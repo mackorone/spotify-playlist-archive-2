@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Sweet afro melodies. Cover:  Reekado Banks",
+  "description": "Sweet afro melodies. Cover:  FAVE",
   "name": "Ginja",
   "tracks": [
     {
@@ -4903,6 +4903,24 @@
     },
     {
       "album": {
+        "name": "SSG (Sounds Of Soundgod)",
+        "url": "https://open.spotify.com/album/5AKxBbIslDwVMf7BIQIUnX"
+      },
+      "artists": [
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143008,
+      "name": "Do Me",
+      "url": "https://open.spotify.com/track/22cimUbmSqx1cMzsDTdvP1"
+    },
+    {
+      "album": {
         "name": "Do Me",
         "url": "https://open.spotify.com/album/6lB1CgMDQFEzikW59ng0Hj"
       },
@@ -8032,7 +8050,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 119347,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/2mHSiO1I0L8VlvXXMBdoNU"
@@ -9804,7 +9822,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 178000,
       "name": "Julie",
       "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
@@ -11516,7 +11534,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 170191,
       "name": "Luvaluvah",
       "url": "https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak"
@@ -12224,6 +12242,28 @@
       "duration_ms": 176583,
       "name": "Minor Notes",
       "url": "https://open.spotify.com/track/0k94cHa9Zr8dLw6iCVw6d4"
+    },
+    {
+      "album": {
+        "name": "RnBling",
+        "url": "https://open.spotify.com/album/64oOYzTHkjaVWG864hiOSI"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155526,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/3TCxqPtGcTeyfeVGWHeyCz"
     },
     {
       "album": {
@@ -14107,6 +14147,24 @@
     },
     {
       "album": {
+        "name": "Osei Baby",
+        "url": "https://open.spotify.com/album/5TPs8kUvZfRQr7IG0EzWUw"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152367,
+      "name": "Osei Baby",
+      "url": "https://open.spotify.com/track/0djbgPJX00eWz6TOq0oaxx"
+    },
+    {
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6"
       },
@@ -15814,7 +15872,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 144487,
       "name": "Samankwe",
       "url": "https://open.spotify.com/track/1lKPYCHbsmfviBbUq6xyZB"
@@ -16372,6 +16430,24 @@
       "duration_ms": 158400,
       "name": "Sip (Alcohol)",
       "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
+    },
+    {
+      "album": {
+        "name": "SLICK",
+        "url": "https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106909,
+      "name": "SLICK",
+      "url": "https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 693252,
+  "num_followers": 693345,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAABb24dF/zuDEI1QH47WnFX3",
+  "snapshot_id": "ak2TAAAAAADix9TZxOzD7LCbTdam6WfY",
   "tracks": [
     {
       "added_at": null,
@@ -327,18 +327,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "LUX (Complete Works)",
-        "url": "https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU"
+        "name": "Berghain (Remix)",
+        "url": "https://open.spotify.com/album/5tY5Hafl8siFkPnxyllYVR"
       },
       "artists": [
         {
+          "name": "Conrad Taylor",
+          "url": "https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw"
+        },
+        {
           "name": "ROSAL\u00cdA",
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
         }
       ],
-      "duration_ms": 192346,
-      "name": "Novia Robot",
-      "url": "https://open.spotify.com/track/501aZny32oS5iewdx3e4Eu"
+      "duration_ms": 154954,
+      "name": "Berghain - Remix",
+      "url": "https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw"
     },
     {
       "added_at": null,
@@ -367,30 +379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Berghain (Remix)",
-        "url": "https://open.spotify.com/album/5tY5Hafl8siFkPnxyllYVR"
+        "name": "LUX (Complete Works)",
+        "url": "https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU"
       },
       "artists": [
         {
-          "name": "Conrad Taylor",
-          "url": "https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw"
-        },
-        {
           "name": "ROSAL\u00cdA",
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        },
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
         }
       ],
-      "duration_ms": 154954,
-      "name": "Berghain - Remix",
-      "url": "https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw"
+      "duration_ms": 192346,
+      "name": "Novia Robot",
+      "url": "https://open.spotify.com/track/501aZny32oS5iewdx3e4Eu"
     },
     {
       "added_at": null,

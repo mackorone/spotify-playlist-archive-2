@@ -970,7 +970,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 281046,
       "name": "Alex",
       "url": "https://open.spotify.com/track/794t8xjE1odkdLmNb42nqu"
@@ -3776,7 +3776,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 206428,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/70q857tiye8tZ57Tau00jW"
@@ -3932,7 +3932,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 390500,
       "name": "Brillo",
       "url": "https://open.spotify.com/track/1Dr7w6s2juHbslzvVZN3xj"
@@ -5280,7 +5280,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 181272,
       "name": "Come Tonight - Isaac Carter Remix",
       "url": "https://open.spotify.com/track/4h88cErk4qe2Oo8r3pIGRN"
@@ -5846,6 +5846,24 @@
       "duration_ms": 228633,
       "name": "Dancing Shoes",
       "url": "https://open.spotify.com/track/0gbFEO8EcSzbGIf4SJR47P"
+    },
+    {
+      "album": {
+        "name": "Dancing Till Sunrise",
+        "url": "https://open.spotify.com/album/2NOEeK2OrNWcSQiOKH1oE2"
+      },
+      "artists": [
+        {
+          "name": "StoneBridge",
+          "url": "https://open.spotify.com/artist/1jpQ5Xepnpx5YAqKQITP4A"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164285,
+      "name": "Dancing Till Sunrise",
+      "url": "https://open.spotify.com/track/7ytDYGgGS3t50kaT2P5hIE"
     },
     {
       "album": {
@@ -8492,7 +8510,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 208660,
       "name": "Fight Club",
       "url": "https://open.spotify.com/track/1xypHRh7KhczA7undaebbj"
@@ -9658,7 +9676,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 193594,
       "name": "Girl",
       "url": "https://open.spotify.com/track/6ASmcWqTjvZROxoj97zzdo"
@@ -9868,7 +9886,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 181363,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/5dtFOeNz6FEtZSPkm5f1Ed"
@@ -10248,7 +10266,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 396190,
       "name": "Hammock Days",
       "url": "https://open.spotify.com/track/50kPwtZ7QkGNbR0KrXjsM6"
@@ -11482,6 +11500,24 @@
       "duration_ms": 224000,
       "name": "I Love You So - Shimza Remix",
       "url": "https://open.spotify.com/track/0eLiCCY502jx4MnX7zgjb6"
+    },
+    {
+      "album": {
+        "name": "I Never Knew",
+        "url": "https://open.spotify.com/album/2w8spOidxh0RSjdRjXvd3r"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231680,
+      "name": "I Never Knew",
+      "url": "https://open.spotify.com/track/54vF34GSMXYZfjPXMsHYWf"
     },
     {
       "album": {
@@ -14352,7 +14388,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 194121,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2G9EQucmyuipl9wXCO1oNx"
@@ -16322,7 +16358,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 178826,
       "name": "Midnight Sky, Pt. II",
       "url": "https://open.spotify.com/track/3q69fZ63R5n1bJ04DWId14"
@@ -18460,6 +18496,24 @@
       "duration_ms": 227047,
       "name": "No Reason - O'Flynn Remix",
       "url": "https://open.spotify.com/track/2LAkYom1gp2DYGO4JVOB9h"
+    },
+    {
+      "album": {
+        "name": "No Rules EP",
+        "url": "https://open.spotify.com/album/1S28FFZL59GgcUChSBfZBl"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230977,
+      "name": "No Rules",
+      "url": "https://open.spotify.com/track/55CHDLmvvmU1WPKuHDYsFf"
     },
     {
       "album": {
@@ -21651,6 +21705,24 @@
     },
     {
       "album": {
+        "name": "Rumba",
+        "url": "https://open.spotify.com/album/0vIbcU8qCzIMZ8WtCFfBhT"
+      },
+      "artists": [
+        {
+          "name": "Sterium",
+          "url": "https://open.spotify.com/artist/6mZFMQ4sBi39W9dXCLH77s"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Rumba",
+      "url": "https://open.spotify.com/track/3UAqSCnXLiIi46EbScLBRa"
+    },
+    {
+      "album": {
         "name": "Run feat. Andreya Triana (Sofia Kourtesis Remix)",
         "url": "https://open.spotify.com/album/3nZXPzR1Fo0w1cm0RSXQ6d"
       },
@@ -22176,7 +22248,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 217889,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/4RSI8BTL1IVLxuWBUFNNtU"
@@ -23310,6 +23382,24 @@
       "duration_ms": 280162,
       "name": "Siren",
       "url": "https://open.spotify.com/track/2fU6FZYhp33uEIc8HLYUdv"
+    },
+    {
+      "album": {
+        "name": "Siren Tiger",
+        "url": "https://open.spotify.com/album/3ubCMzPZnkLSbpgkiNiHB2"
+      },
+      "artists": [
+        {
+          "name": "Fundido",
+          "url": "https://open.spotify.com/artist/1to9uaFDyrcHAbK8PUhXfh"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229457,
+      "name": "Siren Tiger",
+      "url": "https://open.spotify.com/track/0QetcudUtlEE9rLA769ch5"
     },
     {
       "album": {
@@ -25114,6 +25204,24 @@
       "duration_ms": 292040,
       "name": "Take My Time",
       "url": "https://open.spotify.com/track/4vYuZjqIxGsRzyqjV15dWk"
+    },
+    {
+      "album": {
+        "name": "Take Our Time",
+        "url": "https://open.spotify.com/album/6gfjBDONFbjsXO5mgbDOwv"
+      },
+      "artists": [
+        {
+          "name": "Chico Rose (NL)",
+          "url": "https://open.spotify.com/artist/77dO0yIWjKSJeC4gOEo3NU"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246046,
+      "name": "Take Our Time",
+      "url": "https://open.spotify.com/track/21MLXf9dmt0bJpFQjeK7kK"
     },
     {
       "album": {
@@ -27049,6 +27157,24 @@
     },
     {
       "album": {
+        "name": "U GO",
+        "url": "https://open.spotify.com/album/3K9b2zvugYV840uhMNLd3W"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230697,
+      "name": "U GO",
+      "url": "https://open.spotify.com/track/3fxwGx5gP8xR2YdMR9ePqd"
+    },
+    {
+      "album": {
         "name": "U Got Me",
         "url": "https://open.spotify.com/album/1XM4mIMDCHN8CIt6I1djBb"
       },
@@ -27192,6 +27318,28 @@
       "duration_ms": 206000,
       "name": "Undressed - Vidojean X Oliver Loenn Remix",
       "url": "https://open.spotify.com/track/1f0ErRtNccQIzEnqRm0BA2"
+    },
+    {
+      "album": {
+        "name": "Unique Moment",
+        "url": "https://open.spotify.com/album/0iPrARRc7TA86CBN0dAvBq"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Unique Moment",
+      "url": "https://open.spotify.com/track/2fJFjRgFpfdkbSoyRKUuf7"
     },
     {
       "album": {
@@ -27482,6 +27630,24 @@
       "duration_ms": 235635,
       "name": "Veneno (&friends Remix)",
       "url": "https://open.spotify.com/track/6a56Hsf9EGznpPXr4VERkw"
+    },
+    {
+      "album": {
+        "name": "Verano En NY",
+        "url": "https://open.spotify.com/album/6lwdsDlonNio6vDG42eUZu"
+      },
+      "artists": [
+        {
+          "name": "Toman",
+          "url": "https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245972,
+      "name": "Verano En NY",
+      "url": "https://open.spotify.com/track/7DxrTNmUprBMQ0RV45xreb"
     },
     {
       "album": {
@@ -28000,7 +28166,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 163890,
       "name": "Watch Out Now",
       "url": "https://open.spotify.com/track/5kLXDttdWGI7ERlQHwULX0"
@@ -28878,7 +29044,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 251725,
       "name": "Won't Let U Down",
       "url": "https://open.spotify.com/track/26p0MOzovqgqMAPVAH6Lx6"

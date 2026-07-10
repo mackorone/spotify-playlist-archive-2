@@ -4,7 +4,7 @@
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Mutoriah
 
-331 songs - 18 hr 38 min
+332 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Hardest Thing](https://open.spotify.com/track/3VhO6BOBUVXj7kf7dFJEkA) | [WAMUYU](https://open.spotify.com/artist/5bzxOcTF1zHbuPm0hhgq03) | [Songa](https://open.spotify.com/album/2W1aQvUtiMpWTkqV48dcIl) | 3:33 | 2023-10-26 | 2024-06-28 |
 | [Heal](https://open.spotify.com/track/4NTXQuCZ1DrGRgdm1ItzKa) | [Mūmbi](https://open.spotify.com/artist/0rFgn9BBsW8nHbsp3A4kDF) | [Healing](https://open.spotify.com/album/0tOUGN0EVBE6KDwWH7Me8k) | 3:30 | 2026-01-29 |  |
 | [Heartbreak Song](https://open.spotify.com/track/5EDdDNPEijkgv5ghNQK3Nl) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heartbreak Song](https://open.spotify.com/album/4s6PcuPpXiHS5XOcZduQJa) | 3:27 | 2024-05-03 |  |
+| [Heaven On Earth](https://open.spotify.com/track/7r9qkWxCONSuZ3tDYrIBFi) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Heaven On Earth](https://open.spotify.com/album/3EZETRmlze91iyz6HoyHfX) | 3:55 | 2026-07-09 |  |
 | [Hello Sadness](https://open.spotify.com/track/7vmwfBkvRtJ6ncov0ClTpp) | [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Steph Kapela](https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl), [Sim Citizen](https://open.spotify.com/artist/6yrGrT2cOZ3R2oZqNQozsu) | [Hello Sadness](https://open.spotify.com/album/7JxP2gswniXKC54kESMAX8) | 4:01 | 2023-04-06 | 2024-02-23 |
 | [Hera Kakaheri](https://open.spotify.com/track/0HBc7Ufa6HYLSV5MCtmN04) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp) | [Boss](https://open.spotify.com/album/43KKokp4Xhul9RXFULhX82) | 3:36 | 2025-02-13 | 2025-02-21 |
 | [Heri](https://open.spotify.com/track/0wJektS8zzF1OinfLbRTTU) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Dr\. Flow Will See You Now](https://open.spotify.com/album/7yJbIkh03o7NxlOoYeZ6YX) | 4:01 | 2025-07-17 | 2026-05-29 |
@@ -143,7 +144,7 @@
 | [Jahera](https://open.spotify.com/track/1Za6fp8lIx5052iNdLci82) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Lisa Oduor Noah](https://open.spotify.com/album/1j6atBlfWPYRhbhkOsKr0V) | 3:07 | 2025-02-13 | 2025-02-21 |
 | [Jane](https://open.spotify.com/track/3zFJ8238lGHVMA8oJoCyHf) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Muthoni Njoroge](https://open.spotify.com/artist/3UmkRFAyY476ELymys1RUP) | [Jane](https://open.spotify.com/album/04nFAFPbSLiJQRGPUIyi9i) | 2:57 | 2024-03-28 | 2025-01-17 |
 | [Jioni](https://open.spotify.com/track/5QSs2eM32gab8J9yjp2O8w) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm), [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Jioni](https://open.spotify.com/album/2KLjotalInooY3FMPxYnFD) | 3:54 | 2023-10-12 | 2025-01-31 |
-| [June 10th](https://open.spotify.com/track/35U4EeFkCLtMa1X2fYQeOa) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [June 10th](https://open.spotify.com/album/4m2ponq6PJcf9EbDefBuSi) | 5:11 | 2025-06-13 |  |
+| [June 10th](https://open.spotify.com/track/35U4EeFkCLtMa1X2fYQeOa) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [June 10th](https://open.spotify.com/album/4m2ponq6PJcf9EbDefBuSi) | 5:11 | 2025-06-13 | 2026-07-10 |
 | [Kama Wee](https://open.spotify.com/track/78wPzvhmbDQfFce0lmntj7) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Miss Kuria](https://open.spotify.com/artist/1S6ZwQApF4OfFpelqSepUi) | [Odes by Queens](https://open.spotify.com/album/3eTbgi6s1WKIjSfDq5TJPh) | 3:35 | 2021-12-28 | 2023-04-07 |
 | [Karibia Kidogo](https://open.spotify.com/track/5r2cQj9547u1uMKFhxy1Vq) | [Muthoka](https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp) | [Karibia Kidogo](https://open.spotify.com/album/4ay6uxE2sjyGoYs6xE1MAX) | 3:17 | 2025-07-03 |  |
 | [Kesho](https://open.spotify.com/track/3DnDhuYVRRGWTT9rYvCKNW) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Kesho](https://open.spotify.com/album/5Fpjo8qf72pfBNEy80XpNK) | 2:37 | 2023-05-26 | 2025-04-26 |

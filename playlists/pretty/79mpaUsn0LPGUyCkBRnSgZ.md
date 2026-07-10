@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 750 songs - 2 day 0 hr 25 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 754 songs - 2 day 0 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -758,5 +758,9 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 748 | [Can't Face Another One](https://open.spotify.com/track/30NYedLY0oYNxAHne8NePL) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Dance Called Memory](https://open.spotify.com/album/2fNPTFiU2sCY9m6tv3Ucqa) | 3:52 |
 | 749 | [Focus](https://open.spotify.com/track/527BdOwfAFViMdKoPGCxJh) | [Automato](https://open.spotify.com/artist/0kC4yh9ZqS25UoGxpSNWLp) | [Automato](https://open.spotify.com/album/3MfpooFaUKPeltaQP6DseQ) | 4:22 |
 | 750 | [PS Exclusive](https://open.spotify.com/track/4D0geK6VcQ7pmNG046WKbx) | [Life Without Buildings](https://open.spotify.com/artist/16tbi6bWXBzJ9pOMZ5gIC7) | [Any Other City](https://open.spotify.com/album/1c7eigkoEcDAKKhkajY3Br) | 4:16 |
+| 751 | [The Secret](https://open.spotify.com/track/6LAepKExhN0A45tBFiDFoC) | [Shit Robot](https://open.spotify.com/artist/2ZvXaOrinJFZDexa3fWqMZ), [Reggie Watts](https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx) | [We Got A Love](https://open.spotify.com/album/5B9BJSRl2PBD9mC4XFNkTt) | 6:48 |
+| 752 | [How We Be](https://open.spotify.com/track/5jJu4fSQ360D0THFAu9iX6) | [Sinkane](https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w) | [Mean Love](https://open.spotify.com/album/6GemHEGZs6e9tgyWfGMDHo) | 4:17 |
+| 753 | [Ascension](https://open.spotify.com/track/3gep63eS5f6oLoEEDol52l) | [The Crystal Ark](https://open.spotify.com/artist/1mLxp9dyQX4cPjduUnlC3z) | [The Crystal Ark](https://open.spotify.com/album/5WzGXuD9LH8bf9LILLllNm) | 5:39 |
+| 754 | [Horizontalator](https://open.spotify.com/track/7e0txSRbMf7qaSixVhBFLP) | [Museum Of Love](https://open.spotify.com/artist/2nIzOTNOvPxPlgzB4GQHPc) | [Museum Of Love \(10th Anniversary Expanded Edition\)](https://open.spotify.com/album/5IFnvmXwn0fgNZo8SlgkJH) | 0:54 |
 
-Snapshot ID: `AAAJTlDVW6np4Gujh/XFQrFrzA908fYO`
+Snapshot ID: `AAAJUgsJk7bOM6s8c7m4wY+mvsbnP/qU`

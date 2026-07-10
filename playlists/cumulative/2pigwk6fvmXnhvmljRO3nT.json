@@ -50507,6 +50507,48 @@
     },
     {
       "album": {
+        "name": "Gold-Triumph",
+        "url": "https://open.spotify.com/album/7wxuClDXOnz5Nj1JDntHNb"
+      },
+      "artists": [
+        {
+          "name": "\u30b4\u30fc\u30eb\u30c9\u30b7\u30c3\u30d7 (CV. \u4e0a\u7530 \u77b3)",
+          "url": "https://open.spotify.com/artist/1tODxzD6whVt82RO4FgkFE"
+        },
+        {
+          "name": "\u30ca\u30ab\u30e4\u30de\u30d5\u30a7\u30b9\u30bf (CV. \u4e0b\u5730\u7d2b\u91ce)",
+          "url": "https://open.spotify.com/artist/5ElmbJJz5azpUCGshekl0P"
+        },
+        {
+          "name": "\u30aa\u30eb\u30d5\u30a7\u30fc\u30f4\u30eb (CV. \u65e5\u7b20\u967d\u5b50)",
+          "url": "https://open.spotify.com/artist/2YiY6vEoIiyVW3WyDnQNIM"
+        },
+        {
+          "name": "\u30c9\u30ea\u30fc\u30e0\u30b8\u30e3\u30fc\u30cb\u30fc (CV. \u5409\u5ca1\u8309\u7950)",
+          "url": "https://open.spotify.com/artist/19YA4Q32cgKV9x8KNb1TmN"
+        },
+        {
+          "name": "\u30d5\u30a7\u30ce\u30fc\u30e1\u30ce (CV. \u65e5\u6bd4\u512a\u7406\u9999)",
+          "url": "https://open.spotify.com/artist/7LTAH878GVLq890fi9i9sS"
+        },
+        {
+          "name": "\u30b9\u30c6\u30a4\u30b4\u30fc\u30eb\u30c9 (CV. \u677e\u7530\u98af\u6c34)",
+          "url": "https://open.spotify.com/artist/1Sxd0rOFUWr9bXtiBNFEVe"
+        },
+        {
+          "name": "\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc",
+          "url": "https://open.spotify.com/artist/5pTLke5Yq8nN4yaPxLPzGd"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216964,
+      "name": "Gold-Triumph",
+      "url": "https://open.spotify.com/track/7zy3isyZnCFhJaN5hSQEDX"
+    },
+    {
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },

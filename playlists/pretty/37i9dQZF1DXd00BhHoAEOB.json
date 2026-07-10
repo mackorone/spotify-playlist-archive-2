@@ -1,6 +1,6 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 601734,
+  "num_followers": 601717,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
+        "name": "Mejor Ya No Regreses",
+        "url": "https://open.spotify.com/album/3CPEBWb2qzy1DwwNAPlRBF"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 225344,
+      "name": "Mejor Ya No Regreses",
+      "url": "https://open.spotify.com/track/0uP6f0QwFO3fZVqKC0xNt5"
+    },
+    {
+      "added_at": "2025-01-10 16:11:48",
+      "album": {
         "name": "No tenemos prisa",
         "url": "https://open.spotify.com/album/0F2GJsUVDeIJhKFtB8wWKk"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 238847,
       "name": "Como una punzada",
       "url": "https://open.spotify.com/track/6gKaMK2pe6ZUCaypnnA9AM"
-    },
-    {
-      "added_at": "2025-01-10 16:11:48",
-      "album": {
-        "name": "Mejor Ya No Regreses",
-        "url": "https://open.spotify.com/album/3CPEBWb2qzy1DwwNAPlRBF"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 225344,
-      "name": "Mejor Ya No Regreses",
-      "url": "https://open.spotify.com/track/0uP6f0QwFO3fZVqKC0xNt5"
     },
     {
       "added_at": "2025-01-10 16:11:48",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "Dos Soledades",
-      "url": "https://open.spotify.com/track/2c6xAssXKcQ9NbcrMguJ5O"
-    },
-    {
-      "added_at": "2025-01-10 16:11:48",
-      "album": {
         "name": "fantasmas",
         "url": "https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 287248,
       "name": "fantasmas",
       "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
+    },
+    {
+      "added_at": "2025-01-10 16:11:48",
+      "album": {
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "Dos Soledades",
+      "url": "https://open.spotify.com/track/2c6xAssXKcQ9NbcrMguJ5O"
     },
     {
       "added_at": "2025-01-10 16:11:48",

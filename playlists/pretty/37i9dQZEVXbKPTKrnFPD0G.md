@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,640 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,665 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [NO LES DA](https://open.spotify.com/track/6pryujEohwqSNKGTW33SKE) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Lea in the Mix](https://open.spotify.com/artist/1r9N4yRWfeyTu4VEWU1yoP) | [MEGA CALLEJERO FINO RKT 2](https://open.spotify.com/album/5W9hkZ6wujcnIFUuj3Czzz) | 1:20 |
 | 50 | [Las mas bonitas son p\#tas](https://open.spotify.com/track/4vJaNTSA8fYLLLSauHmkLe) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las mas bonitas son p\#tas](https://open.spotify.com/album/6ylkMDI1T3kWWSeDdD8yyO) | 2:39 |
 
-Snapshot ID: `MeG/eAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MeMQ+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

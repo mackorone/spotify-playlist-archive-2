@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia \ud83e\udea9 in cover quello che potrebbe succederti a un concerto dei Tamango",
+  "description": "Rock, indie e punk dall'Italia \ud83d\ude97 dal finestrino alla vostra sinistra sorridono NOVE e Brucher\u00f2 nei pascoli",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -2466,7 +2466,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 273786,
       "name": "as I age",
       "url": "https://open.spotify.com/track/7Kj72ZtAjE39P0lA2mWwyo"
@@ -3184,6 +3184,24 @@
       "duration_ms": 182602,
       "name": "Batticuore",
       "url": "https://open.spotify.com/track/1sMFpkgaqYtmOgHjUxIcQ5"
+    },
+    {
+      "album": {
+        "name": "Be free now",
+        "url": "https://open.spotify.com/album/2MLsS6GZJbPjhh5T3eQdpH"
+      },
+      "artists": [
+        {
+          "name": "Yuppie Flu",
+          "url": "https://open.spotify.com/artist/1qTOyH1u1IfmKKx8LzF8KW"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185750,
+      "name": "Be free now",
+      "url": "https://open.spotify.com/track/2N9SSIL0vGoNq7CU46rqi8"
     },
     {
       "album": {
@@ -4032,7 +4050,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 142451,
       "name": "Bring beers and food",
       "url": "https://open.spotify.com/track/3qldGxGO2yO9fSDB9mfoke"
@@ -17479,6 +17497,28 @@
     },
     {
       "album": {
+        "name": "La sinistra \u00e8 morta (feat. Brucher\u00f2 nei pascoli)",
+        "url": "https://open.spotify.com/album/53b6iCCkASFqfqpAwXoW1k"
+      },
+      "artists": [
+        {
+          "name": "NOVE",
+          "url": "https://open.spotify.com/artist/3XIYJmJjLZKAXy9soJQHBo"
+        },
+        {
+          "name": "Brucher\u00f2 nei pascoli",
+          "url": "https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190682,
+      "name": "La sinistra \u00e8 morta (feat. Brucher\u00f2 nei pascoli)",
+      "url": "https://open.spotify.com/track/1EjaLCsoOihFp7vH3NINpM"
+    },
+    {
+      "album": {
         "name": "La sola concreta realt\u00e0",
         "url": "https://open.spotify.com/album/4ikitSU0lmSZNpN7egaUOX"
       },
@@ -23662,6 +23702,24 @@
       "duration_ms": 122181,
       "name": "ON & OFF",
       "url": "https://open.spotify.com/track/3QZ6880klFoNjJcnLE6orP"
+    },
+    {
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/1d7Z9VGAeyts6d7Qj20EKJ"
+      },
+      "artists": [
+        {
+          "name": "Dance! No Thanks",
+          "url": "https://open.spotify.com/artist/0885hgEwstYF6vz2qHbSpC"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127781,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/6sj0ye2NI0UGTEJUKDijre"
     },
     {
       "album": {
@@ -33181,6 +33239,24 @@
     },
     {
       "album": {
+        "name": "TIME OF MY LIFE",
+        "url": "https://open.spotify.com/album/2FVhkDCrWXKpOmN9CHZacl"
+      },
+      "artists": [
+        {
+          "name": "Stunt Pilots",
+          "url": "https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150375,
+      "name": "TIME OF MY LIFE",
+      "url": "https://open.spotify.com/track/1uy1ubRkZbny4QXoWRqExk"
+    },
+    {
+      "album": {
         "name": "Tipi a Posto",
         "url": "https://open.spotify.com/album/0OTDRav72ZKBKSCTORhVnF"
       },
@@ -33610,7 +33686,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 183826,
       "name": "Tragic Calypso",
       "url": "https://open.spotify.com/track/2jzNK4wypd9czXuDfJHFoB"

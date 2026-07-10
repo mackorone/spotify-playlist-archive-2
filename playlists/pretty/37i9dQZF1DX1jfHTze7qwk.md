@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 
 > ฟังและดูเอ็มวีเพลงไทยจากทุกช่วงเวลา ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน: Polycat
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,134 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,142 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 | 37 | [รักเธอทั้งหมดของหัวใจ \(For My Brother\)](https://open.spotify.com/track/7sZxRSdexu3IYDcUW7jXMQ) | [Pause](https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE) | [Evo\. & Nova](https://open.spotify.com/album/3S274uqfTRsJXEUpFYouVl) | 6:02 |
 | 38 | [ยังไม่รู้ \(I Don't Know\)](https://open.spotify.com/track/2OQQPlUlrSKu2nOPMwTS2c) | [Better Weather](https://open.spotify.com/artist/6dHHmu92q47xdwVxV6W7Fu) | [Better Than Looks](https://open.spotify.com/album/0zOyD7jWHv8gO8KBgTpu06) | 4:46 |
 | 39 | [ข่าวดี](https://open.spotify.com/track/0ZfxuArCbDRjJbEPI93ao2) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [Pillow War](https://open.spotify.com/album/6sYl8jS1YLFwKoYCxvsgmP) | 3:47 |
-| 40 | [กันและกัน \(Us\)](https://open.spotify.com/track/4Cz21VKsqHnAt20Z1eQwhM) | [Moderndog](https://open.spotify.com/artist/2xuN796lJ8Oj4vsx2XiJqj) | [แดดส่อง](https://open.spotify.com/album/67i2hh9vivLArE9XdVbm2B) | 4:42 |
-| 41 | [อยู่คนเดียว \(Loner\)](https://open.spotify.com/track/2N3yIGC0Lpv5kPAchqBeSa) | [WANYAi](https://open.spotify.com/artist/3yLZtAIGm6Eq4WSfnimZad) | [อยู่คนเดียว \(Loner\)](https://open.spotify.com/album/5CdkLPijMS29YG9gfHSIZm) | 4:15 |
+| 40 | [อยู่คนเดียว \(Loner\)](https://open.spotify.com/track/2N3yIGC0Lpv5kPAchqBeSa) | [WANYAi](https://open.spotify.com/artist/3yLZtAIGm6Eq4WSfnimZad) | [อยู่คนเดียว \(Loner\)](https://open.spotify.com/album/5CdkLPijMS29YG9gfHSIZm) | 4:15 |
+| 41 | [กันและกัน \(Us\)](https://open.spotify.com/track/4Cz21VKsqHnAt20Z1eQwhM) | [Moderndog](https://open.spotify.com/artist/2xuN796lJ8Oj4vsx2XiJqj) | [แดดส่อง](https://open.spotify.com/album/67i2hh9vivLArE9XdVbm2B) | 4:42 |
 | 42 | [รักเธอ](https://open.spotify.com/track/0vdr1c1Yk5BBfghJbDz2bj) | [TOR Saksit](https://open.spotify.com/artist/0dpiMnuJcfuvZFlGWaQ7tR) | [Living In C Major](https://open.spotify.com/album/6PlzDyEvcDJfFQ4MqUiqvB) | 4:30 |
 | 43 | [ไม่เคยไม่รักเธอ \(Never\)](https://open.spotify.com/track/5dnUVOtziaHI5kAHVUTZQY) | [Better Weather](https://open.spotify.com/artist/6dHHmu92q47xdwVxV6W7Fu) | [Better Than Looks](https://open.spotify.com/album/0zOyD7jWHv8gO8KBgTpu06) | 4:51 |
 | 44 | [สัมพันธ์](https://open.spotify.com/track/0LGL4db0abssZ4RicaoiJh) | [Pause](https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE) | [Mild](https://open.spotify.com/album/5UEBDg1sx03ah3jfU5U8no) | 5:17 |

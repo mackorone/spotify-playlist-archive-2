@@ -1,351 +1,15 @@
 {
-  "description": "A taste of French caf\u00e9 culture; the charming sounds of the Parisian streets.",
-  "num_followers": 448672,
+  "description": "A taste of French caf\u00e9 culture \u2615\ufe0f jazz for slow mornings, sunny terraces, and long afternoons.",
+  "num_followers": 448839,
   "original_name": "Caf\u00e9 de Paris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABBJ/sjhmR0S6okliUGYYk3s8NgJ",
+  "snapshot_id": "AAAAAO7bc5yI/J2y4rbxIs81AM8CagSU",
   "tracks": [
     {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Le Papillon",
-        "url": "https://open.spotify.com/album/4pNvRdPWKNjF0zs2KXpXwQ"
-      },
-      "artists": [
-        {
-          "name": "Mart\u00edn Lima",
-          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
-        }
-      ],
-      "duration_ms": 200634,
-      "name": "Le Papillon",
-      "url": "https://open.spotify.com/track/4H5FDxHvr2ir7XGQNlzVDD"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Je t'aime",
-        "url": "https://open.spotify.com/album/3lphX8YkY4WX4NUhmC6mOy"
-      },
-      "artists": [
-        {
-          "name": "Le Quintette Bleu",
-          "url": "https://open.spotify.com/artist/4Z1RjLPuWfGYAIbXPquetd"
-        }
-      ],
-      "duration_ms": 219205,
-      "name": "Je t'aime",
-      "url": "https://open.spotify.com/track/18eFw8Zuta9fc2Z3wr2VJZ"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Pour Zo\u00e9",
-        "url": "https://open.spotify.com/album/2MUo9E1yT7Gcl5gXisbdXL"
-      },
-      "artists": [
-        {
-          "name": "George Laffitte",
-          "url": "https://open.spotify.com/artist/73svkXqxHEpuyC39kOuuCP"
-        }
-      ],
-      "duration_ms": 118970,
-      "name": "Pour Zo\u00e9",
-      "url": "https://open.spotify.com/track/4781FCyphRO1IRYVbp8gNF"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Les Deux Musiciens",
-        "url": "https://open.spotify.com/album/1uFuwDjoXlMrDewnJant0A"
-      },
-      "artists": [
-        {
-          "name": "Goblin Quartet",
-          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
-        }
-      ],
-      "duration_ms": 190769,
-      "name": "Les Deux Musiciens",
-      "url": "https://open.spotify.com/track/4498bnhRZcTJXQGgVc8nvZ"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Valse Mignonne",
-        "url": "https://open.spotify.com/album/0cSjYMPRKeuYP0dFYUdAC2"
-      },
-      "artists": [
-        {
-          "name": "Pierre-Antoine Martin",
-          "url": "https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs"
-        }
-      ],
-      "duration_ms": 156853,
-      "name": "Valse Mignonne",
-      "url": "https://open.spotify.com/track/0FL4CUxg1DiPu1ezgOCZMC"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Haute tension",
-        "url": "https://open.spotify.com/album/7armeTDJKu0ItaHVENbaJn"
-      },
-      "artists": [
-        {
-          "name": "Cordeone",
-          "url": "https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ"
-        }
-      ],
-      "duration_ms": 120235,
-      "name": "Haute tension",
-      "url": "https://open.spotify.com/track/3AatypS8Wrzo75lYnrmX7e"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Quais de Seine",
-        "url": "https://open.spotify.com/album/0nXh4V6SDQSFsqw8a2trwa"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Paname",
-          "url": "https://open.spotify.com/artist/7KspfRDQwpzBe3AZ1Tk6wH"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Quais de Seine",
-      "url": "https://open.spotify.com/track/2hSHbGqjauW6YV6c38EkSu"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Ce si doux visage",
-        "url": "https://open.spotify.com/album/0W9bucc4qg1k2tslOrFDcu"
-      },
-      "artists": [
-        {
-          "name": "Notes de Nuit",
-          "url": "https://open.spotify.com/artist/5tLk5smZqsZZ4mgpmBR3pS"
-        }
-      ],
-      "duration_ms": 199889,
-      "name": "Ce si doux visage",
-      "url": "https://open.spotify.com/track/3MFN3UgYAFTyxPENVXQjDL"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Ne partez pas",
-        "url": "https://open.spotify.com/album/4rVQ0xFtDURS8OC2FS5DKf"
-      },
-      "artists": [
-        {
-          "name": "George Laffitte",
-          "url": "https://open.spotify.com/artist/73svkXqxHEpuyC39kOuuCP"
-        }
-      ],
-      "duration_ms": 157529,
-      "name": "Ne partez pas",
-      "url": "https://open.spotify.com/track/0m2uXUpiOId5jnchCg7g9h"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Mama Zouk",
-        "url": "https://open.spotify.com/album/5jdDsEXwBIIYJUymedWDCK"
-      },
-      "artists": [
-        {
-          "name": "Velours Noir",
-          "url": "https://open.spotify.com/artist/5fwmrmMYdyldKxvqlgGa2w"
-        }
-      ],
-      "duration_ms": 153817,
-      "name": "Mama Zouk",
-      "url": "https://open.spotify.com/track/31mhkMf1l4qBquDfd9OTQD"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Jour de F\u00eate",
-        "url": "https://open.spotify.com/album/48AHyOQkXBNq5WmtrBBebU"
-      },
-      "artists": [
-        {
-          "name": "Paddington St. Group",
-          "url": "https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO"
-        }
-      ],
-      "duration_ms": 176343,
-      "name": "Jour de F\u00eate",
-      "url": "https://open.spotify.com/track/0EPY6HZ00CXA88hosGJD3W"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Swing Mocinateur",
-        "url": "https://open.spotify.com/album/3ijFxX31fKUG7lp6tEKEpe"
-      },
-      "artists": [
-        {
-          "name": "Pierre-Antoine Martin",
-          "url": "https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs"
-        }
-      ],
-      "duration_ms": 208834,
-      "name": "Swing Mocinateur",
-      "url": "https://open.spotify.com/track/3dEX65c5OjLVdelCnBFSbr"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Pochette Surprise",
-        "url": "https://open.spotify.com/album/2g4I1EiuLKpevoi39uM9hz"
-      },
-      "artists": [
-        {
-          "name": "Menilmuche",
-          "url": "https://open.spotify.com/artist/4UokevHf2JYeNlpcpQH7W8"
-        }
-      ],
-      "duration_ms": 184416,
-      "name": "Pochette Surprise",
-      "url": "https://open.spotify.com/track/73asDqz9rGSCNEB1BJsaHt"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Vilain Nuage",
-        "url": "https://open.spotify.com/album/2F5fNjO5pZAWBL6bpZi6C5"
-      },
-      "artists": [
-        {
-          "name": "Carr\u00e9 Bleu",
-          "url": "https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es"
-        }
-      ],
-      "duration_ms": 202710,
-      "name": "Vilain Nuage",
-      "url": "https://open.spotify.com/track/3YBd2hYsrbxkdcj9VewRy5"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Oiseau En Cage",
-        "url": "https://open.spotify.com/album/0EVi0LWKaZmxZq7UoYv6JH"
-      },
-      "artists": [
-        {
-          "name": "Mart\u00edn Lima",
-          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
-        }
-      ],
-      "duration_ms": 158433,
-      "name": "Oiseau En Cage",
-      "url": "https://open.spotify.com/track/2G5JLF2ToNu5PfO7mjdyS4"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Nature Boy",
-        "url": "https://open.spotify.com/album/0nppysWv4pEJU73jrO7HFS"
-      },
-      "artists": [
-        {
-          "name": "Chansons d\u00b4Accordeon",
-          "url": "https://open.spotify.com/artist/7yyIR9coVU196KLJT9Mj6T"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Nature Boy",
-      "url": "https://open.spotify.com/track/76krowblKCB2QKvFlF72rS"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Valser Au Bal",
-        "url": "https://open.spotify.com/album/6JUmJ2TWj4w3pQjNO9PXL4"
-      },
-      "artists": [
-        {
-          "name": "Frank Guardiola",
-          "url": "https://open.spotify.com/artist/5gcPk6Qs7bOVFQDwH5xRcl"
-        }
-      ],
-      "duration_ms": 165736,
-      "name": "Valser Au Bal",
-      "url": "https://open.spotify.com/track/7M9IqZsdMbSiTBTtb9pO5v"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Valse pour Diana Mendes",
-        "url": "https://open.spotify.com/album/5T3x1dBZ9bmO6Q3krxlmUE"
-      },
-      "artists": [
-        {
-          "name": "Le Quintette Bleu",
-          "url": "https://open.spotify.com/artist/4Z1RjLPuWfGYAIbXPquetd"
-        }
-      ],
-      "duration_ms": 156940,
-      "name": "Valse pour Diana Mendes",
-      "url": "https://open.spotify.com/track/64kGHhoftyYZupMgWKk01c"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "La Ballade du Pont-Neuf",
-        "url": "https://open.spotify.com/album/2xAoidOHEh0XXFS5PLnubt"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Paname",
-          "url": "https://open.spotify.com/artist/7KspfRDQwpzBe3AZ1Tk6wH"
-        }
-      ],
-      "duration_ms": 151987,
-      "name": "La Ballade du Pont-Neuf",
-      "url": "https://open.spotify.com/track/2L4QyxS2Tp81y4n1etiXHd"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Chacun sa croix",
-        "url": "https://open.spotify.com/album/7a6i1kzrDvH8gH2fqXKhjJ"
-      },
-      "artists": [
-        {
-          "name": "Notes de Nuit",
-          "url": "https://open.spotify.com/artist/5tLk5smZqsZZ4mgpmBR3pS"
-        }
-      ],
-      "duration_ms": 174519,
-      "name": "Chacun sa croix",
-      "url": "https://open.spotify.com/track/3nIpWpWACgvoGyxx3wI9O3"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Biguine pour Ahoefa",
-        "url": "https://open.spotify.com/album/0xcxaUMHnOVfmGMXxQTI7a"
-      },
-      "artists": [
-        {
-          "name": "Lune Br\u00fbl\u00e9e",
-          "url": "https://open.spotify.com/artist/30Kkab3lfweFQ6RrHN5ogu"
-        }
-      ],
-      "duration_ms": 204551,
-      "name": "Biguine pour Ahoefa",
-      "url": "https://open.spotify.com/track/2XiqESjgfqCkySHdlio7ad"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "Les Yeux Ouverts",
         "url": "https://open.spotify.com/album/713V7aJPT8exLv571T7U1Y"
@@ -361,247 +25,59 @@
       "url": "https://open.spotify.com/track/1FjTuFrLRrbnT6sYmRCJcf"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
-        "name": "Le malin a 3 pieds",
-        "url": "https://open.spotify.com/album/5k9EstGuwve6Fr9SIlTFL0"
+        "name": "Accordion World",
+        "url": "https://open.spotify.com/album/7owjEbcQb8XxoDrUYte0PG"
       },
       "artists": [
         {
-          "name": "Bateau Mouche",
-          "url": "https://open.spotify.com/artist/5qCJ0Ww13jRmYWuL3PLEmf"
+          "name": "Ralf Gscheidle",
+          "url": "https://open.spotify.com/artist/7KlIXYsEgvbJzrCqcWTauW"
         }
       ],
-      "duration_ms": 179838,
-      "name": "Le malin a 3 pieds",
-      "url": "https://open.spotify.com/track/5sB6uPE7bjSzBVmIOn27FU"
+      "duration_ms": 120865,
+      "name": "Paris Pigalle",
+      "url": "https://open.spotify.com/track/0fzbz0jWZQJHSAqxHo74CM"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
-        "name": "Passion Gitane",
-        "url": "https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l"
+        "name": "Ne partez pas",
+        "url": "https://open.spotify.com/album/4rVQ0xFtDURS8OC2FS5DKf"
       },
       "artists": [
         {
-          "name": "Daniel Colin",
-          "url": "https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F"
+          "name": "George Laffitte",
+          "url": "https://open.spotify.com/artist/73svkXqxHEpuyC39kOuuCP"
         }
       ],
-      "duration_ms": 142973,
-      "name": "Passion gitane",
-      "url": "https://open.spotify.com/track/1a6WWeuqyJFk5GPQru1R83"
+      "duration_ms": 157529,
+      "name": "Ne partez pas",
+      "url": "https://open.spotify.com/track/0m2uXUpiOId5jnchCg7g9h"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
-        "name": "Nuits Fran\u00e7aises",
-        "url": "https://open.spotify.com/album/5w4k9Vz93h1ZJKRdp2zFn6"
+        "name": "Impair & valse",
+        "url": "https://open.spotify.com/album/5oh1bdjaq2PfSPd6gykbrn"
       },
       "artists": [
         {
-          "name": "Chansons d\u00b4Accordeon",
-          "url": "https://open.spotify.com/artist/7yyIR9coVU196KLJT9Mj6T"
-        }
-      ],
-      "duration_ms": 147624,
-      "name": "Nuits Fran\u00e7aises",
-      "url": "https://open.spotify.com/track/62UxKGAaoPpbWxopsCpUar"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Dans Tes Bras",
-        "url": "https://open.spotify.com/album/278aErcPJ6ImMTcDKQtjTc"
-      },
-      "artists": [
+          "name": "Romane",
+          "url": "https://open.spotify.com/artist/0ILn98RGLPZlVkgm3PUBoH"
+        },
         {
-          "name": "Nordic Quartet",
-          "url": "https://open.spotify.com/artist/6XhjDLFPmCbhposdUMoJvM"
+          "name": "Alice Bassi\u00e9",
+          "url": "https://open.spotify.com/artist/3BstnhCIllWyuEq7MFlDOj"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Dans Tes Bras",
-      "url": "https://open.spotify.com/track/3GPWB4M3Y720w8R1mHBXUF"
+      "duration_ms": 140920,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/42QbXalFUenFqckLeeJPIF"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Amis, Simplement",
-        "url": "https://open.spotify.com/album/6hHgKgqFSXKSemkT8xdaVA"
-      },
-      "artists": [
-        {
-          "name": "Nocturne des \u00eeles",
-          "url": "https://open.spotify.com/artist/4pYMtyyGtBDSZDRSCBghZa"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Amis, Simplement",
-      "url": "https://open.spotify.com/track/7uFbBGMifexy5Nb5GQ2NK9"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "More Accordions Of Paris",
-        "url": "https://open.spotify.com/album/1No7DEy8vVaAmqYmVSaY6r"
-      },
-      "artists": [
-        {
-          "name": "Les Musettes de Montmartre",
-          "url": "https://open.spotify.com/artist/7DsLMRMVsh4L7LcwWpps2j"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Amarcord",
-      "url": "https://open.spotify.com/track/5FRQe614oqDkHGf4LVZCr9"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "In the garden",
-        "url": "https://open.spotify.com/album/4859JovJgive9BA7AgZfPS"
-      },
-      "artists": [
-        {
-          "name": "Les Petits Parisians",
-          "url": "https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk"
-        }
-      ],
-      "duration_ms": 131980,
-      "name": "In the garden",
-      "url": "https://open.spotify.com/track/5tpbMhHzxtbFGOmQpVPRGi"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Sur Le Bistro",
-        "url": "https://open.spotify.com/album/5WANmbg5pwwj311JBYsZbg"
-      },
-      "artists": [
-        {
-          "name": "Frank Guardiola",
-          "url": "https://open.spotify.com/artist/5gcPk6Qs7bOVFQDwH5xRcl"
-        }
-      ],
-      "duration_ms": 127874,
-      "name": "Sur Le Bistro",
-      "url": "https://open.spotify.com/track/081pp1c5A5VEZpSkS2J6Yj"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Bleu Entrecote",
-        "url": "https://open.spotify.com/album/5KOOlRfVVHuNHQAartkRog"
-      },
-      "artists": [
-        {
-          "name": "Menilmuche",
-          "url": "https://open.spotify.com/artist/4UokevHf2JYeNlpcpQH7W8"
-        }
-      ],
-      "duration_ms": 114067,
-      "name": "Bleu Entrecote",
-      "url": "https://open.spotify.com/track/7usy3DT4MSywVCC8MkCk69"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "L'art de vivre",
-        "url": "https://open.spotify.com/album/5gu9L47CH0dWOgMRLqhx0K"
-      },
-      "artists": [
-        {
-          "name": "Notes de Nuit",
-          "url": "https://open.spotify.com/artist/5tLk5smZqsZZ4mgpmBR3pS"
-        }
-      ],
-      "duration_ms": 109072,
-      "name": "L'art de vivre",
-      "url": "https://open.spotify.com/track/6UIVcB8BUGK9RxMCAmtH6g"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "le guacamole d'Akpene",
-        "url": "https://open.spotify.com/album/6XBNui900udlZbHvNSx4II"
-      },
-      "artists": [
-        {
-          "name": "Cordeone",
-          "url": "https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "le guacamole d'Akpene",
-      "url": "https://open.spotify.com/track/0JEzoH8aQ06McetlSGf2rg"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Caf\u00e9 Francaise",
-        "url": "https://open.spotify.com/album/0F60JZbxQ3gBazKp1Z8OPh"
-      },
-      "artists": [
-        {
-          "name": "The Paris Musette",
-          "url": "https://open.spotify.com/artist/1hoGDUIieScxaFnv587nv0"
-        }
-      ],
-      "duration_ms": 173520,
-      "name": "Enchante",
-      "url": "https://open.spotify.com/track/1CT6igucC99c7lFx3mrI8K"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Un baiser sous la pluie",
-        "url": "https://open.spotify.com/album/7Jx4NFax8uREMeLirzV84Z"
-      },
-      "artists": [
-        {
-          "name": "Cole Peers trio",
-          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
-        }
-      ],
-      "duration_ms": 122250,
-      "name": "Un baiser sous la pluie",
-      "url": "https://open.spotify.com/track/3PikPxbIbnsg1uniee6Vo7"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "sur la route",
-        "url": "https://open.spotify.com/album/4rWFBS3c1YVzlcOxAoXSge"
-      },
-      "artists": [
-        {
-          "name": "Carr\u00e9 Bleu",
-          "url": "https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es"
-        }
-      ],
-      "duration_ms": 99913,
-      "name": "sur la route",
-      "url": "https://open.spotify.com/track/3ieJPWwbBIGG52W2PziOLv"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Le Printemps Me Manque",
-        "url": "https://open.spotify.com/album/3P7c08Xkgb40avYxJQrzvE"
-      },
-      "artists": [
-        {
-          "name": "Eugene Lambert",
-          "url": "https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl"
-        }
-      ],
-      "duration_ms": 234508,
-      "name": "Le Printemps Me Manque",
-      "url": "https://open.spotify.com/track/3sL8PRW9gZHGVqJiuBWnrJ"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "Little Waltz",
         "url": "https://open.spotify.com/album/3G0MEidJXd6KyVbAuhurSP"
@@ -617,7 +93,567 @@
       "url": "https://open.spotify.com/track/5bes1P1ZmbICTHoLkyK8VJ"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Passion Gitane",
+        "url": "https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l"
+      },
+      "artists": [
+        {
+          "name": "Daniel Colin",
+          "url": "https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F"
+        }
+      ],
+      "duration_ms": 142973,
+      "name": "Passion gitane",
+      "url": "https://open.spotify.com/track/1a6WWeuqyJFk5GPQru1R83"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Valser Au Bal",
+        "url": "https://open.spotify.com/album/6JUmJ2TWj4w3pQjNO9PXL4"
+      },
+      "artists": [
+        {
+          "name": "Frank Guardiola",
+          "url": "https://open.spotify.com/artist/5gcPk6Qs7bOVFQDwH5xRcl"
+        }
+      ],
+      "duration_ms": 165736,
+      "name": "Valser Au Bal",
+      "url": "https://open.spotify.com/track/7M9IqZsdMbSiTBTtb9pO5v"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Caf\u00e9 Francaise",
+        "url": "https://open.spotify.com/album/0F60JZbxQ3gBazKp1Z8OPh"
+      },
+      "artists": [
+        {
+          "name": "The Paris Musette",
+          "url": "https://open.spotify.com/artist/1hoGDUIieScxaFnv587nv0"
+        }
+      ],
+      "duration_ms": 128759,
+      "name": "Under Paris Skies",
+      "url": "https://open.spotify.com/track/1IT59rLa3oUTJ3FF9sOUAc"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/5G5cAxKMd5LFD4t5FKNI7V"
+      },
+      "artists": [
+        {
+          "name": "Cafe Accordion Orcherstra",
+          "url": "https://open.spotify.com/artist/08vqZfm3Whj0wYPjBhILIc"
+        }
+      ],
+      "duration_ms": 175213,
+      "name": "Harry Lime's Theme",
+      "url": "https://open.spotify.com/track/3uKUBSVaBeIasROH4eYSGZ"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Rendez Vous",
+        "url": "https://open.spotify.com/album/5f3Gv6mWHhWBCDNoNbsizk"
+      },
+      "artists": [
+        {
+          "name": "Baguette Quartette",
+          "url": "https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r"
+        }
+      ],
+      "duration_ms": 158613,
+      "name": "Reine de musette",
+      "url": "https://open.spotify.com/track/3bBHMiALWgT39xebBnpgJN"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Pour Zo\u00e9",
+        "url": "https://open.spotify.com/album/2MUo9E1yT7Gcl5gXisbdXL"
+      },
+      "artists": [
+        {
+          "name": "George Laffitte",
+          "url": "https://open.spotify.com/artist/73svkXqxHEpuyC39kOuuCP"
+        }
+      ],
+      "duration_ms": 118970,
+      "name": "Pour Zo\u00e9",
+      "url": "https://open.spotify.com/track/4781FCyphRO1IRYVbp8gNF"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Les Deux Musiciens",
+        "url": "https://open.spotify.com/album/1uFuwDjoXlMrDewnJant0A"
+      },
+      "artists": [
+        {
+          "name": "Goblin Quartet",
+          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "Les Deux Musiciens",
+      "url": "https://open.spotify.com/track/4498bnhRZcTJXQGgVc8nvZ"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Valse Mignonne",
+        "url": "https://open.spotify.com/album/0cSjYMPRKeuYP0dFYUdAC2"
+      },
+      "artists": [
+        {
+          "name": "Pierre-Antoine Martin",
+          "url": "https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs"
+        }
+      ],
+      "duration_ms": 156853,
+      "name": "Valse Mignonne",
+      "url": "https://open.spotify.com/track/0FL4CUxg1DiPu1ezgOCZMC"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Haute tension",
+        "url": "https://open.spotify.com/album/7armeTDJKu0ItaHVENbaJn"
+      },
+      "artists": [
+        {
+          "name": "Cordeone",
+          "url": "https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ"
+        }
+      ],
+      "duration_ms": 120235,
+      "name": "Haute tension",
+      "url": "https://open.spotify.com/track/3AatypS8Wrzo75lYnrmX7e"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Quais de Seine",
+        "url": "https://open.spotify.com/album/0nXh4V6SDQSFsqw8a2trwa"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Paname",
+          "url": "https://open.spotify.com/artist/7KspfRDQwpzBe3AZ1Tk6wH"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Quais de Seine",
+      "url": "https://open.spotify.com/track/2hSHbGqjauW6YV6c38EkSu"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Ce si doux visage",
+        "url": "https://open.spotify.com/album/0W9bucc4qg1k2tslOrFDcu"
+      },
+      "artists": [
+        {
+          "name": "Notes de Nuit",
+          "url": "https://open.spotify.com/artist/5tLk5smZqsZZ4mgpmBR3pS"
+        }
+      ],
+      "duration_ms": 199889,
+      "name": "Ce si doux visage",
+      "url": "https://open.spotify.com/track/3MFN3UgYAFTyxPENVXQjDL"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Mama Zouk",
+        "url": "https://open.spotify.com/album/5jdDsEXwBIIYJUymedWDCK"
+      },
+      "artists": [
+        {
+          "name": "Velours Noir",
+          "url": "https://open.spotify.com/artist/5fwmrmMYdyldKxvqlgGa2w"
+        }
+      ],
+      "duration_ms": 153817,
+      "name": "Mama Zouk",
+      "url": "https://open.spotify.com/track/31mhkMf1l4qBquDfd9OTQD"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Jour de F\u00eate",
+        "url": "https://open.spotify.com/album/48AHyOQkXBNq5WmtrBBebU"
+      },
+      "artists": [
+        {
+          "name": "Paddington St. Group",
+          "url": "https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO"
+        }
+      ],
+      "duration_ms": 176343,
+      "name": "Jour de F\u00eate",
+      "url": "https://open.spotify.com/track/0EPY6HZ00CXA88hosGJD3W"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Pochette Surprise",
+        "url": "https://open.spotify.com/album/2g4I1EiuLKpevoi39uM9hz"
+      },
+      "artists": [
+        {
+          "name": "Menilmuche",
+          "url": "https://open.spotify.com/artist/4UokevHf2JYeNlpcpQH7W8"
+        }
+      ],
+      "duration_ms": 184416,
+      "name": "Pochette Surprise",
+      "url": "https://open.spotify.com/track/73asDqz9rGSCNEB1BJsaHt"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Vilain Nuage",
+        "url": "https://open.spotify.com/album/2F5fNjO5pZAWBL6bpZi6C5"
+      },
+      "artists": [
+        {
+          "name": "Carr\u00e9 Bleu",
+          "url": "https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es"
+        }
+      ],
+      "duration_ms": 202710,
+      "name": "Vilain Nuage",
+      "url": "https://open.spotify.com/track/3YBd2hYsrbxkdcj9VewRy5"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Oiseau En Cage",
+        "url": "https://open.spotify.com/album/0EVi0LWKaZmxZq7UoYv6JH"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Lima",
+          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
+        }
+      ],
+      "duration_ms": 158433,
+      "name": "Oiseau En Cage",
+      "url": "https://open.spotify.com/track/2G5JLF2ToNu5PfO7mjdyS4"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Nature Boy",
+        "url": "https://open.spotify.com/album/0nppysWv4pEJU73jrO7HFS"
+      },
+      "artists": [
+        {
+          "name": "Chansons d\u00b4Accordeon",
+          "url": "https://open.spotify.com/artist/7yyIR9coVU196KLJT9Mj6T"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/76krowblKCB2QKvFlF72rS"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Valse pour Diana Mendes",
+        "url": "https://open.spotify.com/album/5T3x1dBZ9bmO6Q3krxlmUE"
+      },
+      "artists": [
+        {
+          "name": "Le Quintette Bleu",
+          "url": "https://open.spotify.com/artist/4Z1RjLPuWfGYAIbXPquetd"
+        }
+      ],
+      "duration_ms": 156940,
+      "name": "Valse pour Diana Mendes",
+      "url": "https://open.spotify.com/track/64kGHhoftyYZupMgWKk01c"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "La Ballade du Pont-Neuf",
+        "url": "https://open.spotify.com/album/2xAoidOHEh0XXFS5PLnubt"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Paname",
+          "url": "https://open.spotify.com/artist/7KspfRDQwpzBe3AZ1Tk6wH"
+        }
+      ],
+      "duration_ms": 151987,
+      "name": "La Ballade du Pont-Neuf",
+      "url": "https://open.spotify.com/track/2L4QyxS2Tp81y4n1etiXHd"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Chacun sa croix",
+        "url": "https://open.spotify.com/album/7a6i1kzrDvH8gH2fqXKhjJ"
+      },
+      "artists": [
+        {
+          "name": "Notes de Nuit",
+          "url": "https://open.spotify.com/artist/5tLk5smZqsZZ4mgpmBR3pS"
+        }
+      ],
+      "duration_ms": 174519,
+      "name": "Chacun sa croix",
+      "url": "https://open.spotify.com/track/3nIpWpWACgvoGyxx3wI9O3"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Le malin a 3 pieds",
+        "url": "https://open.spotify.com/album/5k9EstGuwve6Fr9SIlTFL0"
+      },
+      "artists": [
+        {
+          "name": "Bateau Mouche",
+          "url": "https://open.spotify.com/artist/5qCJ0Ww13jRmYWuL3PLEmf"
+        }
+      ],
+      "duration_ms": 179838,
+      "name": "Le malin a 3 pieds",
+      "url": "https://open.spotify.com/track/5sB6uPE7bjSzBVmIOn27FU"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Dans Tes Bras",
+        "url": "https://open.spotify.com/album/278aErcPJ6ImMTcDKQtjTc"
+      },
+      "artists": [
+        {
+          "name": "Nordic Quartet",
+          "url": "https://open.spotify.com/artist/6XhjDLFPmCbhposdUMoJvM"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Dans Tes Bras",
+      "url": "https://open.spotify.com/track/3GPWB4M3Y720w8R1mHBXUF"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Amis, Simplement",
+        "url": "https://open.spotify.com/album/6hHgKgqFSXKSemkT8xdaVA"
+      },
+      "artists": [
+        {
+          "name": "Nocturne des \u00eeles",
+          "url": "https://open.spotify.com/artist/4pYMtyyGtBDSZDRSCBghZa"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Amis, Simplement",
+      "url": "https://open.spotify.com/track/7uFbBGMifexy5Nb5GQ2NK9"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "More Accordions Of Paris",
+        "url": "https://open.spotify.com/album/1No7DEy8vVaAmqYmVSaY6r"
+      },
+      "artists": [
+        {
+          "name": "Les Musettes de Montmartre",
+          "url": "https://open.spotify.com/artist/7DsLMRMVsh4L7LcwWpps2j"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Amarcord",
+      "url": "https://open.spotify.com/track/5FRQe614oqDkHGf4LVZCr9"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "In the garden",
+        "url": "https://open.spotify.com/album/4859JovJgive9BA7AgZfPS"
+      },
+      "artists": [
+        {
+          "name": "Les Petits Parisians",
+          "url": "https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk"
+        }
+      ],
+      "duration_ms": 131980,
+      "name": "In the garden",
+      "url": "https://open.spotify.com/track/5tpbMhHzxtbFGOmQpVPRGi"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Nuits Fran\u00e7aises",
+        "url": "https://open.spotify.com/album/5w4k9Vz93h1ZJKRdp2zFn6"
+      },
+      "artists": [
+        {
+          "name": "Chansons d\u00b4Accordeon",
+          "url": "https://open.spotify.com/artist/7yyIR9coVU196KLJT9Mj6T"
+        }
+      ],
+      "duration_ms": 147624,
+      "name": "Nuits Fran\u00e7aises",
+      "url": "https://open.spotify.com/track/62UxKGAaoPpbWxopsCpUar"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Sur Le Bistro",
+        "url": "https://open.spotify.com/album/5WANmbg5pwwj311JBYsZbg"
+      },
+      "artists": [
+        {
+          "name": "Frank Guardiola",
+          "url": "https://open.spotify.com/artist/5gcPk6Qs7bOVFQDwH5xRcl"
+        }
+      ],
+      "duration_ms": 127874,
+      "name": "Sur Le Bistro",
+      "url": "https://open.spotify.com/track/081pp1c5A5VEZpSkS2J6Yj"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Bleu Entrecote",
+        "url": "https://open.spotify.com/album/5KOOlRfVVHuNHQAartkRog"
+      },
+      "artists": [
+        {
+          "name": "Menilmuche",
+          "url": "https://open.spotify.com/artist/4UokevHf2JYeNlpcpQH7W8"
+        }
+      ],
+      "duration_ms": 114067,
+      "name": "Bleu Entrecote",
+      "url": "https://open.spotify.com/track/7usy3DT4MSywVCC8MkCk69"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "L'art de vivre",
+        "url": "https://open.spotify.com/album/5gu9L47CH0dWOgMRLqhx0K"
+      },
+      "artists": [
+        {
+          "name": "Notes de Nuit",
+          "url": "https://open.spotify.com/artist/5tLk5smZqsZZ4mgpmBR3pS"
+        }
+      ],
+      "duration_ms": 109072,
+      "name": "L'art de vivre",
+      "url": "https://open.spotify.com/track/6UIVcB8BUGK9RxMCAmtH6g"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "le guacamole d'Akpene",
+        "url": "https://open.spotify.com/album/6XBNui900udlZbHvNSx4II"
+      },
+      "artists": [
+        {
+          "name": "Cordeone",
+          "url": "https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "le guacamole d'Akpene",
+      "url": "https://open.spotify.com/track/0JEzoH8aQ06McetlSGf2rg"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Caf\u00e9 Francaise",
+        "url": "https://open.spotify.com/album/0F60JZbxQ3gBazKp1Z8OPh"
+      },
+      "artists": [
+        {
+          "name": "The Paris Musette",
+          "url": "https://open.spotify.com/artist/1hoGDUIieScxaFnv587nv0"
+        }
+      ],
+      "duration_ms": 173520,
+      "name": "Enchante",
+      "url": "https://open.spotify.com/track/1CT6igucC99c7lFx3mrI8K"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Un baiser sous la pluie",
+        "url": "https://open.spotify.com/album/7Jx4NFax8uREMeLirzV84Z"
+      },
+      "artists": [
+        {
+          "name": "Cole Peers trio",
+          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
+        }
+      ],
+      "duration_ms": 122250,
+      "name": "Un baiser sous la pluie",
+      "url": "https://open.spotify.com/track/3PikPxbIbnsg1uniee6Vo7"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "sur la route",
+        "url": "https://open.spotify.com/album/4rWFBS3c1YVzlcOxAoXSge"
+      },
+      "artists": [
+        {
+          "name": "Carr\u00e9 Bleu",
+          "url": "https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es"
+        }
+      ],
+      "duration_ms": 99913,
+      "name": "sur la route",
+      "url": "https://open.spotify.com/track/3ieJPWwbBIGG52W2PziOLv"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Le Printemps Me Manque",
+        "url": "https://open.spotify.com/album/3P7c08Xkgb40avYxJQrzvE"
+      },
+      "artists": [
+        {
+          "name": "Eugene Lambert",
+          "url": "https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl"
+        }
+      ],
+      "duration_ms": 234508,
+      "name": "Le Printemps Me Manque",
+      "url": "https://open.spotify.com/track/3sL8PRW9gZHGVqJiuBWnrJ"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Je t'aime",
+        "url": "https://open.spotify.com/album/3lphX8YkY4WX4NUhmC6mOy"
+      },
+      "artists": [
+        {
+          "name": "Le Quintette Bleu",
+          "url": "https://open.spotify.com/artist/4Z1RjLPuWfGYAIbXPquetd"
+        }
+      ],
+      "duration_ms": 219205,
+      "name": "Je t'aime",
+      "url": "https://open.spotify.com/track/18eFw8Zuta9fc2Z3wr2VJZ"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "Donne moi ta fleur",
         "url": "https://open.spotify.com/album/0eUYB0WKygXR6vz6F5JBq7"
@@ -633,7 +669,7 @@
       "url": "https://open.spotify.com/track/4uInfO1vqoQps8Si4sHZxo"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "Fontainebleau",
         "url": "https://open.spotify.com/album/6icp2OONihDsCvAHDDjdrz"
@@ -657,7 +693,7 @@
       "url": "https://open.spotify.com/track/0lHtjEll4CWMMx88sq2Osa"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "Th\u00e9 Pour Deux",
         "url": "https://open.spotify.com/album/43iVIfU4pgIheRuYzPbuqE"
@@ -673,7 +709,7 @@
       "url": "https://open.spotify.com/track/3zztM5yPmJFkX7vktaaa8F"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "La Vie En Rose",
         "url": "https://open.spotify.com/album/3OG7njGt1Efjfyy1T1wwEs"
@@ -689,7 +725,23 @@
       "url": "https://open.spotify.com/track/0pkL7GfHF6iyAdyQujyRnK"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
+      "album": {
+        "name": "Le Papillon",
+        "url": "https://open.spotify.com/album/4pNvRdPWKNjF0zs2KXpXwQ"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Lima",
+          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
+        }
+      ],
+      "duration_ms": 200634,
+      "name": "Le Papillon",
+      "url": "https://open.spotify.com/track/4H5FDxHvr2ir7XGQNlzVDD"
+    },
+    {
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "Petite Fleur",
         "url": "https://open.spotify.com/album/4pqTRwa2Yscsk07QH7gCTA"
@@ -705,7 +757,7 @@
       "url": "https://open.spotify.com/track/6KbZgjkegPtz3KSQTGqK9o"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "Mystery Pacific",
         "url": "https://open.spotify.com/album/0ElHMJOjrO6zuCF076Eot2"
@@ -721,7 +773,7 @@
       "url": "https://open.spotify.com/track/7fPHlQGsVtfOyVU3hQnrYU"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "Sunbeam Bossa",
         "url": "https://open.spotify.com/album/1REO43jYtdKeP22HeTGMX8"
@@ -737,23 +789,7 @@
       "url": "https://open.spotify.com/track/1vh9W9ZWrC7n646F9xylVx"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Caf\u00e9 Francaise",
-        "url": "https://open.spotify.com/album/0F60JZbxQ3gBazKp1Z8OPh"
-      },
-      "artists": [
-        {
-          "name": "The Paris Musette",
-          "url": "https://open.spotify.com/artist/1hoGDUIieScxaFnv587nv0"
-        }
-      ],
-      "duration_ms": 128759,
-      "name": "Under Paris Skies",
-      "url": "https://open.spotify.com/track/1IT59rLa3oUTJ3FF9sOUAc"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "Saint-Denis",
         "url": "https://open.spotify.com/album/3wCO7hvSkDUNEs0jPITJzh"
@@ -769,7 +805,7 @@
       "url": "https://open.spotify.com/track/5kg6zxNyVtRRJ6nkWrwjNg"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "Merle Noir",
         "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
@@ -785,7 +821,7 @@
       "url": "https://open.spotify.com/track/0M4bg3q6Cjb1kVIfQJEBUR"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "Tout Simplement",
         "url": "https://open.spotify.com/album/6XRaXFmc6qY5KHj8z0XycC"
@@ -801,7 +837,7 @@
       "url": "https://open.spotify.com/track/26Qsldq4jis17e2nueatJA"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "Accordion World",
         "url": "https://open.spotify.com/album/7owjEbcQb8XxoDrUYte0PG"
@@ -817,7 +853,7 @@
       "url": "https://open.spotify.com/track/1e8P1UMUIa6sOlX9a4BbNb"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "Je Ne Pourrai Jamais Vivre Sans Toi",
         "url": "https://open.spotify.com/album/0ExkkBGotjcmpSrN3xbXgH"
@@ -833,7 +869,7 @@
       "url": "https://open.spotify.com/track/48ex83EaL03ai9Hx6oburv"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "Quel Mercredi",
         "url": "https://open.spotify.com/album/2Zsbl9Pps24ZI475iyz2sC"
@@ -849,7 +885,7 @@
       "url": "https://open.spotify.com/track/3ZSWLX4S1mc5yQBAZet5NM"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "Enrique Ugarte: Cafe Paris",
         "url": "https://open.spotify.com/album/2CQC3OjeiOhkEvOyAcC7JQ"
@@ -865,23 +901,7 @@
       "url": "https://open.spotify.com/track/5OALAotUm5wNEuYkB5yJaP"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Rendez Vous",
-        "url": "https://open.spotify.com/album/5f3Gv6mWHhWBCDNoNbsizk"
-      },
-      "artists": [
-        {
-          "name": "Baguette Quartette",
-          "url": "https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r"
-        }
-      ],
-      "duration_ms": 158613,
-      "name": "Reine de musette",
-      "url": "https://open.spotify.com/track/3bBHMiALWgT39xebBnpgJN"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "Mediterranean Caf\u00e9: Music of Italy, Greece and Spain",
         "url": "https://open.spotify.com/album/3gGZP9CROPsrqJpzaBK2Dc"
@@ -897,7 +917,7 @@
       "url": "https://open.spotify.com/track/0fHU9X4xzibSUdMj084Opd"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "Introducing Stephane Wrembel",
         "url": "https://open.spotify.com/album/4sz3Jgvhv7jAzxwQRxtGZD"
@@ -913,43 +933,7 @@
       "url": "https://open.spotify.com/track/4idHXZqvu37IDsiHTZDrLC"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Cinema",
-        "url": "https://open.spotify.com/album/5G5cAxKMd5LFD4t5FKNI7V"
-      },
-      "artists": [
-        {
-          "name": "Cafe Accordion Orcherstra",
-          "url": "https://open.spotify.com/artist/08vqZfm3Whj0wYPjBhILIc"
-        }
-      ],
-      "duration_ms": 175213,
-      "name": "Harry Lime's Theme",
-      "url": "https://open.spotify.com/track/3uKUBSVaBeIasROH4eYSGZ"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Impair & valse",
-        "url": "https://open.spotify.com/album/5oh1bdjaq2PfSPd6gykbrn"
-      },
-      "artists": [
-        {
-          "name": "Romane",
-          "url": "https://open.spotify.com/artist/0ILn98RGLPZlVkgm3PUBoH"
-        },
-        {
-          "name": "Alice Bassi\u00e9",
-          "url": "https://open.spotify.com/artist/3BstnhCIllWyuEq7MFlDOj"
-        }
-      ],
-      "duration_ms": 140920,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/42QbXalFUenFqckLeeJPIF"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "Nuits de Paris",
         "url": "https://open.spotify.com/album/2VO3QpjtZCbOKQO6Pqebnq"
@@ -965,7 +949,7 @@
       "url": "https://open.spotify.com/track/3oBd5LyXu64UGeZd5jOh5m"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "Souvenirs",
         "url": "https://open.spotify.com/album/0bNxItRPphxD07gwBZUZXH"
@@ -989,7 +973,7 @@
       "url": "https://open.spotify.com/track/3YqdvXCFdN44kattwBSgqn"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "Passion Gitane",
         "url": "https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l"
@@ -1005,23 +989,7 @@
       "url": "https://open.spotify.com/track/3D7XKxSW2giVfFMEm7Sym9"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "Accordion World",
-        "url": "https://open.spotify.com/album/7owjEbcQb8XxoDrUYte0PG"
-      },
-      "artists": [
-        {
-          "name": "Ralf Gscheidle",
-          "url": "https://open.spotify.com/artist/7KlIXYsEgvbJzrCqcWTauW"
-        }
-      ],
-      "duration_ms": 120865,
-      "name": "Paris Pigalle",
-      "url": "https://open.spotify.com/track/0fzbz0jWZQJHSAqxHo74CM"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "Valse du chignon",
         "url": "https://open.spotify.com/album/3HlMzsJ7YS9Gt0hX0l9TVC"
@@ -1037,7 +1005,7 @@
       "url": "https://open.spotify.com/track/6oBgyC4xuXj8XLr6S5WojN"
     },
     {
-      "added_at": "2026-06-30 12:26:06",
+      "added_at": "2026-07-09 06:43:13",
       "album": {
         "name": "L\u00b4amour Facile",
         "url": "https://open.spotify.com/album/3dXUhdR0VqnADAqgrsdChc"
@@ -1051,22 +1019,6 @@
       "duration_ms": 240502,
       "name": "L\u00b4amour Facile",
       "url": "https://open.spotify.com/track/1jBwaHMkPzAGQV8S2U1iRg"
-    },
-    {
-      "added_at": "2026-06-30 12:26:06",
-      "album": {
-        "name": "CAO 10",
-        "url": "https://open.spotify.com/album/2M5SSx4fWARPw8lLnKD9oS"
-      },
-      "artists": [
-        {
-          "name": "Cafe Accordion Orchestra",
-          "url": "https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M"
-        }
-      ],
-      "duration_ms": 252453,
-      "name": "November Moon",
-      "url": "https://open.spotify.com/track/712ZGHyBdeTUh3iEu6ctci"
     }
   ],
   "unique_name": "Caf\u00e9 de Paris",

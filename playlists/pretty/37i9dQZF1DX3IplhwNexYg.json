@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Phantastic Ferniture",
-  "num_followers": 113761,
+  "num_followers": 113757,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "What Do We Ever Really Know?",
-        "url": "https://open.spotify.com/album/3yfY2tkI6g8WR2HfZBaQfv"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "What Do We Ever Really Know?",
-      "url": "https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Poetry",
         "url": "https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 189418,
       "name": "Dog Days",
       "url": "https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "What Do We Ever Really Know?",
+        "url": "https://open.spotify.com/album/3yfY2tkI6g8WR2HfZBaQfv"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "What Do We Ever Really Know?",
+      "url": "https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Year of the Snake",
-        "url": "https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 310266,
-      "name": "Year of the Snake",
-      "url": "https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "I Used To",
         "url": "https://open.spotify.com/album/38GhGbTcdvmvX58jI5JnxR"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 186841,
       "name": "I Used To",
       "url": "https://open.spotify.com/track/0YatoTSyHsq4J6CZacYHEC"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Year of the Snake",
+        "url": "https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 310266,
+      "name": "Year of the Snake",
+      "url": "https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
+        "name": "This Could Be Texas",
+        "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
+      },
+      "artists": [
+        {
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+        }
+      ],
+      "duration_ms": 228122,
+      "name": "I\u2019m Not Crying, You\u2019re Crying",
+      "url": "https://open.spotify.com/track/1y7Z0cDqFWRJ9RS70ecEXM"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
         "name": "Zombieland",
         "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 162932,
       "name": "Zombieland",
       "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
-        "name": "Coyote",
-        "url": "https://open.spotify.com/album/5xNXZjSg3U4cqxBjHZZKQ8"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 244106,
-      "name": "Coyote",
-      "url": "https://open.spotify.com/track/3H29rW3jmhlJaNNutzANBe"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "This Could Be Texas",
-        "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
+        "name": "Coyote",
+        "url": "https://open.spotify.com/album/5xNXZjSg3U4cqxBjHZZKQ8"
       },
       "artists": [
         {
-          "name": "English Teacher",
-          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 228122,
-      "name": "I\u2019m Not Crying, You\u2019re Crying",
-      "url": "https://open.spotify.com/track/1y7Z0cDqFWRJ9RS70ecEXM"
+      "duration_ms": 244106,
+      "name": "Coyote",
+      "url": "https://open.spotify.com/track/3H29rW3jmhlJaNNutzANBe"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Romanticism",
-        "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 234234,
-      "name": "Airplane",
-      "url": "https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "I Blow Out Big Candles",
         "url": "https://open.spotify.com/album/0zd0dbI6jBG4lVYatitkCT"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 183925,
       "name": "Killer",
       "url": "https://open.spotify.com/track/0fc2aV1nOvTsSAA1ghGu0d"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Romanticism",
+        "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 234234,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9"
     },
     {
       "added_at": "2025-09-01 14:27:56",

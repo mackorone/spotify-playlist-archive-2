@@ -1,12 +1,12 @@
 {
   "description": "This is Avenoir. The essential tracks, all in one playlist.",
-  "num_followers": 5820,
+  "num_followers": 5819,
   "original_name": "This Is Avenoir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAABpBRICxmYBGX+GDDsq/ewg",
+  "snapshot_id": "ak2TAAAAAADbFS1bUXyfDO4CwB4vGjdX",
   "tracks": [
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 145120,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/69ms7KvY7nETPn8mYwTahK"
+      "duration_ms": 149253,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/5as974bpTDV3CJGZYbK6kJ"
     },
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 149253,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/5as974bpTDV3CJGZYbK6kJ"
+      "duration_ms": 145120,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/69ms7KvY7nETPn8mYwTahK"
     },
     {
       "added_at": null,

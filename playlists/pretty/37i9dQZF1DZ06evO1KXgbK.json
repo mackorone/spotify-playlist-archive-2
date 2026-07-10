@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 255869,
+  "num_followers": 255871,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAABXYMEUnnQNzjP4XoIbw+6t",
+  "snapshot_id": "ak2TAAAAAABPIx38Ul/NAH6Qq//i5dHh",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 188871,
+      "name": "Two Doors Down",
+      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/3N6fadaHlhGxflLKYSDSoU"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 186804,
       "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
       "url": "https://open.spotify.com/track/6o6STE55cbhH4BuM2EJRL9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 188871,
-      "name": "Two Doors Down",
-      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
     },
     {
       "added_at": null,
@@ -591,6 +591,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "God Only Knows (with Dolly Parton)",
+        "url": "https://open.spotify.com/album/1gpKIhj9oqbjJIDMvZhAdF"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 213653,
+      "name": "God Only Knows (with Dolly Parton)",
+      "url": "https://open.spotify.com/track/34n8xD9eHSdpwIGffhSLvW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trio II (2016 Remaster)",
         "url": "https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7"
       },
@@ -615,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Only Knows (with Dolly Parton)",
-        "url": "https://open.spotify.com/album/1gpKIhj9oqbjJIDMvZhAdF"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 213653,
-      "name": "God Only Knows (with Dolly Parton)",
-      "url": "https://open.spotify.com/track/34n8xD9eHSdpwIGffhSLvW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love & Fear",
         "url": "https://open.spotify.com/album/0y6Z7wpzSw7qMh9wyexwD3"
       },
@@ -651,6 +651,26 @@
       "duration_ms": 244029,
       "name": "Butterfly (feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/7vgUdXfoVjRcisDUvBXiQH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Words",
+        "url": "https://open.spotify.com/album/6pWNv9LbVXV2ZvlK3gvmRp"
+      },
+      "artists": [
+        {
+          "name": "Barry Gibb",
+          "url": "https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 191928,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/733sNPL4OMX4iN8DE6p2RH"
     },
     {
       "added_at": null,
@@ -679,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Words",
-        "url": "https://open.spotify.com/album/6pWNv9LbVXV2ZvlK3gvmRp"
-      },
-      "artists": [
-        {
-          "name": "Barry Gibb",
-          "url": "https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 191928,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/733sNPL4OMX4iN8DE6p2RH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
       },
@@ -711,26 +711,6 @@
       "duration_ms": 157427,
       "name": "Baby I'm Burnin'",
       "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PTX Vol. IV - Classics",
-        "url": "https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 131883,
-      "name": "Jolene (feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/4i8xlL0EqaSj9piUVUOQQO"
     },
     {
       "added_at": null,
@@ -751,6 +731,26 @@
       "duration_ms": 339322,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/4Zk5JSZklL3yIT6J5n9j9t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PTX Vol. IV - Classics",
+        "url": "https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 131883,
+      "name": "Jolene (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/4i8xlL0EqaSj9piUVUOQQO"
     },
     {
       "added_at": null,

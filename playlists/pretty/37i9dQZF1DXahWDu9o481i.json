@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Rose Gray",
-  "num_followers": 104260,
+  "num_followers": 104261,
   "original_name": "Editors' Picks: Best Songs of June",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 182257,
+      "name": "risk it all",
+      "url": "https://open.spotify.com/track/4Efkz2fw4BgqFaWfLReqKN"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
         "name": "AMIGOS CON DERECHOS",
         "url": "https://open.spotify.com/album/0LHeMCF4tu558UiIoxzvW2"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 168890,
       "name": "AMIGOS CON DERECHOS",
       "url": "https://open.spotify.com/track/504nbJ2Wj4eLJiN6r0kvC9"
-    },
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
-        "name": "and all pride aside",
-        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 182257,
-      "name": "risk it all",
-      "url": "https://open.spotify.com/track/4Efkz2fw4BgqFaWfLReqKN"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
-        "name": "PROJECT X",
-        "url": "https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 140666,
-      "name": "FACE DOWN",
-      "url": "https://open.spotify.com/track/2LVWUtmRJR7vVrbmKovmbB"
-    },
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
         "name": "and all pride aside",
         "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 181091,
       "name": "good girl",
       "url": "https://open.spotify.com/track/4dYhse0clrMQgMrCHyCnwR"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
+        "name": "PROJECT X",
+        "url": "https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 140666,
+      "name": "FACE DOWN",
+      "url": "https://open.spotify.com/track/2LVWUtmRJR7vVrbmKovmbB"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
-        "name": "CAN YOU FEEL IT",
-        "url": "https://open.spotify.com/album/0YdzgeVCQZum2GdEGkarQb"
-      },
-      "artists": [
-        {
-          "name": "Polyphia",
-          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "CAN YOU FEEL IT",
-      "url": "https://open.spotify.com/track/1UsjO2e3GW7mYpdWXyJ7AN"
-    },
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
         "name": "HAAVIN",
         "url": "https://open.spotify.com/album/1YRc4mdQaKjkvhjnIMlqnm"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 150000,
       "name": "HAAVIN",
       "url": "https://open.spotify.com/track/0bHZsctQYLC9JfglIHOuIk"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
+        "name": "CAN YOU FEEL IT",
+        "url": "https://open.spotify.com/album/0YdzgeVCQZum2GdEGkarQb"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "CAN YOU FEEL IT",
+      "url": "https://open.spotify.com/track/1UsjO2e3GW7mYpdWXyJ7AN"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
+        "name": "PAREIDOLIA",
+        "url": "https://open.spotify.com/album/0szHOhvBNJ5VSk4PNSnYS5"
+      },
+      "artists": [
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "duration_ms": 202250,
+      "name": "THE CINEMA",
+      "url": "https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
         "name": "outta time",
         "url": "https://open.spotify.com/album/3detwCd3QLrrzJZAEAxcQB"
       },
@@ -603,18 +619,18 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
-        "name": "PAREIDOLIA",
-        "url": "https://open.spotify.com/album/0szHOhvBNJ5VSk4PNSnYS5"
+        "name": "peach sand",
+        "url": "https://open.spotify.com/album/0ybGFr2rpjxzG4szAv2KlY"
       },
       "artists": [
         {
-          "name": "Erin LeCount",
-          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
         }
       ],
-      "duration_ms": 202250,
-      "name": "THE CINEMA",
-      "url": "https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv"
+      "duration_ms": 281869,
+      "name": "peach sand",
+      "url": "https://open.spotify.com/track/0Kf0Y91hndxNaPfKDl9Rgq"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -635,6 +651,22 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
+        "name": "Billy Came Back",
+        "url": "https://open.spotify.com/album/5PWPGFNrbIuXQoLcI8FsAe"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "duration_ms": 189148,
+      "name": "Billy Came Back",
+      "url": "https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
         "name": "Withness",
         "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
       },
@@ -651,38 +683,6 @@
       "duration_ms": 259189,
       "name": "Faster (ft. 3DDY)",
       "url": "https://open.spotify.com/track/6HMEYb4ao9EmxZm64rzntC"
-    },
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
-        "name": "peach sand",
-        "url": "https://open.spotify.com/album/0ybGFr2rpjxzG4szAv2KlY"
-      },
-      "artists": [
-        {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 281869,
-      "name": "peach sand",
-      "url": "https://open.spotify.com/track/0Kf0Y91hndxNaPfKDl9Rgq"
-    },
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
-        "name": "Billy Came Back",
-        "url": "https://open.spotify.com/album/5PWPGFNrbIuXQoLcI8FsAe"
-      },
-      "artists": [
-        {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
-        }
-      ],
-      "duration_ms": 189148,
-      "name": "Billy Came Back",
-      "url": "https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5"
     },
     {
       "added_at": "2026-07-01 04:00:22",

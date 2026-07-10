@@ -2791,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "Hot Girl Summer",
+        "url": "https://open.spotify.com/album/4yPDss2DQlBXN5NZv9MDHV"
+      },
+      "artists": [
+        {
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162781,
+      "name": "Hot Girl Summer",
+      "url": "https://open.spotify.com/track/4DZdj7VuCfbzBg2UPG9oAO"
+    },
+    {
+      "album": {
         "name": "Hotel Heartache",
         "url": "https://open.spotify.com/album/0lCgZcQptvTLAyLTHZroHN"
       },
@@ -2954,6 +2972,24 @@
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
+    },
+    {
+      "album": {
+        "name": "I Just Got Mad",
+        "url": "https://open.spotify.com/album/3QnV8Wq1tjUuor9guUzEXA"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149364,
+      "name": "I Just Got Mad",
+      "url": "https://open.spotify.com/track/5cEbOJ1W1cgWJ3LGeRBsn7"
     },
     {
       "album": {
@@ -3356,7 +3392,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 156139,
       "name": "Jamais \u00c9t\u00e9 (Cool)",
       "url": "https://open.spotify.com/track/2Znp96G4Vy1ZOuCEFheCBF"
@@ -4388,7 +4424,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 158201,
       "name": "nah am meer gebaut",
       "url": "https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es"
@@ -5198,6 +5234,24 @@
       "duration_ms": 162026,
       "name": "self destruct mode",
       "url": "https://open.spotify.com/track/7KQXfLNFK9xtNAwhV4oupL"
+    },
+    {
+      "album": {
+        "name": "Settles",
+        "url": "https://open.spotify.com/album/2pTyUXXYADDihZpf20ZE3q"
+      },
+      "artists": [
+        {
+          "name": "Nell Mescal",
+          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212047,
+      "name": "Settles",
+      "url": "https://open.spotify.com/track/3krv0hI3YMv8XQpC9lnvhI"
     },
     {
       "album": {
@@ -6570,7 +6624,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 160448,
       "name": "Was war das",
       "url": "https://open.spotify.com/track/0j9stlpfmon31bZfoD5PpF"

@@ -1,13 +1,33 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 127187,
+  "num_followers": 127185,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI2kRYYhOPV42BTI6zCt3ORq2kWV",
+  "snapshot_id": "AAAAADIu62t4MVCOvyAfXn86k1eQvkkV",
   "tracks": [
+    {
+      "added_at": "2026-07-09 15:00:36",
+      "album": {
+        "name": "the bridge",
+        "url": "https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "the bridge",
+      "url": "https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX"
+    },
     {
       "added_at": "2026-06-12 13:48:34",
       "album": {
@@ -25,22 +45,6 @@
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
-      "added_at": "2026-06-12 13:48:34",
-      "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 232114,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
-    },
-    {
       "added_at": "2026-07-02 15:00:06",
       "album": {
         "name": "Flying",
@@ -55,6 +59,38 @@
       "duration_ms": 145500,
       "name": "Flying",
       "url": "https://open.spotify.com/track/6McxWlzA4RqRJ6Cv7RB68I"
+    },
+    {
+      "added_at": "2026-07-09 15:00:36",
+      "album": {
+        "name": "Los Ojos Del C\u00f3ndor",
+        "url": "https://open.spotify.com/album/02rGEcmUxEmRaj1296jdlQ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 212980,
+      "name": "Los Ojos Del C\u00f3ndor",
+      "url": "https://open.spotify.com/track/7kDWwFekRc1ZlzNX0VTjfr"
+    },
+    {
+      "added_at": "2026-06-12 13:48:34",
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 232114,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
     },
     {
       "added_at": "2026-06-12 13:48:34",
@@ -127,18 +163,38 @@
     {
       "added_at": "2026-06-12 13:48:34",
       "album": {
-        "name": "Tip Toe",
-        "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
+        "name": "higher",
+        "url": "https://open.spotify.com/album/6GdriEV8mveuABwOOiVERK"
       },
       "artists": [
         {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+          "name": "LAUSBUB",
+          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
         }
       ],
-      "duration_ms": 224725,
-      "name": "Tip Toe",
-      "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
+      "duration_ms": 214733,
+      "name": "higher",
+      "url": "https://open.spotify.com/track/1w7bubiEhXQJXzlK3luqnh"
+    },
+    {
+      "added_at": "2026-07-09 15:00:36",
+      "album": {
+        "name": "amici immaginari",
+        "url": "https://open.spotify.com/album/0DGYxBp8zg0xsPVlNqYt4J"
+      },
+      "artists": [
+        {
+          "name": "fenoaltea",
+          "url": "https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L"
+        },
+        {
+          "name": "RIP",
+          "url": "https://open.spotify.com/artist/5ZI5zyGSJMzgm4Yr41I3HM"
+        }
+      ],
+      "duration_ms": 233547,
+      "name": "costole",
+      "url": "https://open.spotify.com/track/5HLCYmvsiLpXSc42zezhuC"
     },
     {
       "added_at": "2026-06-12 13:48:34",
@@ -157,20 +213,36 @@
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
-      "added_at": "2026-06-12 13:48:34",
+      "added_at": "2026-07-09 15:00:36",
       "album": {
-        "name": "higher",
-        "url": "https://open.spotify.com/album/6GdriEV8mveuABwOOiVERK"
+        "name": "Note of Mothership",
+        "url": "https://open.spotify.com/album/4VReJ4pdw1dOJzIq2p1hlf"
       },
       "artists": [
         {
-          "name": "LAUSBUB",
-          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
         }
       ],
-      "duration_ms": 214733,
-      "name": "higher",
-      "url": "https://open.spotify.com/track/1w7bubiEhXQJXzlK3luqnh"
+      "duration_ms": 178995,
+      "name": "Note of Mothership",
+      "url": "https://open.spotify.com/track/2Qj1RsGrDD9laGR9QqrBvV"
+    },
+    {
+      "added_at": "2026-06-12 13:48:34",
+      "album": {
+        "name": "Tip Toe",
+        "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 224725,
+      "name": "Tip Toe",
+      "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
     },
     {
       "added_at": "2026-06-12 13:48:34",
@@ -207,22 +279,6 @@
     {
       "added_at": "2026-06-12 13:48:34",
       "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 264372,
-      "name": "Sidelines",
-      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
-    },
-    {
-      "added_at": "2026-06-12 13:48:34",
-      "album": {
         "name": "Guitar Songs",
         "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
       },
@@ -235,6 +291,22 @@
       "duration_ms": 281380,
       "name": "TV",
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
+    },
+    {
+      "added_at": "2026-06-12 13:48:34",
+      "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 264372,
+      "name": "Sidelines",
+      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
     },
     {
       "added_at": "2026-06-12 13:48:34",
@@ -311,6 +383,22 @@
     {
       "added_at": "2026-06-12 13:48:34",
       "album": {
+        "name": "ROMP",
+        "url": "https://open.spotify.com/album/1aVH41SAin716xpep2O53d"
+      },
+      "artists": [
+        {
+          "name": "LAUSBUB",
+          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "I SYNC",
+      "url": "https://open.spotify.com/track/51aSWkFg6MHg2ciLjcnFRw"
+    },
+    {
+      "added_at": "2026-06-12 13:48:34",
+      "album": {
         "name": "The Slow Rush B-Sides & Remixes",
         "url": "https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa"
       },
@@ -343,22 +431,6 @@
     {
       "added_at": "2026-06-12 13:48:34",
       "album": {
-        "name": "Goddess",
-        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 267866,
-      "name": "Goddess",
-      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
-    },
-    {
-      "added_at": "2026-06-12 13:48:34",
-      "album": {
         "name": "Submarine",
         "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
       },
@@ -375,18 +447,18 @@
     {
       "added_at": "2026-06-12 13:48:34",
       "album": {
-        "name": "ROMP",
-        "url": "https://open.spotify.com/album/1aVH41SAin716xpep2O53d"
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
       },
       "artists": [
         {
-          "name": "LAUSBUB",
-          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 259333,
-      "name": "I SYNC",
-      "url": "https://open.spotify.com/track/51aSWkFg6MHg2ciLjcnFRw"
+      "duration_ms": 267866,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
     },
     {
       "added_at": "2026-06-12 13:48:34",
@@ -515,6 +587,22 @@
     {
       "added_at": "2026-06-12 13:48:34",
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/01tkNiiy4FwDYTOSU4Bu9W"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 153101,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/7nicn8ELgX9KaaHSS3MWxw"
+    },
+    {
+      "added_at": "2026-06-12 13:48:34",
+      "album": {
         "name": "Something About You (with Rudimental) [Alternate Versions]",
         "url": "https://open.spotify.com/album/4T4QEtrQvAUYtvpX20DO3z"
       },
@@ -531,22 +619,6 @@
       "duration_ms": 166533,
       "name": "Something About You (with Rudimental) - Chill Mix",
       "url": "https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ"
-    },
-    {
-      "added_at": "2026-06-12 13:48:34",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/01tkNiiy4FwDYTOSU4Bu9W"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 153101,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/7nicn8ELgX9KaaHSS3MWxw"
     },
     {
       "added_at": "2026-06-12 13:48:34",
@@ -979,70 +1051,6 @@
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
-    },
-    {
-      "added_at": "2026-06-12 13:48:34",
-      "album": {
-        "name": "Cannot Be, Whatsoever",
-        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Birdcage",
-      "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
-    },
-    {
-      "added_at": "2026-06-12 13:48:34",
-      "album": {
-        "name": "Endlessness",
-        "url": "https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE"
-      },
-      "artists": [
-        {
-          "name": "Nala Sinephro",
-          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
-        }
-      ],
-      "duration_ms": 247538,
-      "name": "Continuum 3",
-      "url": "https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr"
-    },
-    {
-      "added_at": "2026-06-12 13:48:34",
-      "album": {
-        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
-        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 254291,
-      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
-      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
-    },
-    {
-      "added_at": "2026-06-12 13:48:34",
-      "album": {
-        "name": "IS THIS LOVE",
-        "url": "https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 156880,
-      "name": "IS THIS LOVE (Piano Ver.)",
-      "url": "https://open.spotify.com/track/6Stw2SepJwrkjT60fusHxR"
     }
   ],
   "unique_name": "Midnight Chill",

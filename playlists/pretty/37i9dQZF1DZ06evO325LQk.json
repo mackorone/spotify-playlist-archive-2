@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAADLz3ZsvnM7UrbYmvABwCmd",
+  "snapshot_id": "ak2TAAAAAAC/xB2sSHzGa3Ay6WSASnnr",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LEMONADE",
+        "url": "https://open.spotify.com/album/57sloqMgDMARCIGqu7qbL3"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 118727,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/390ey4VzRGd88FHKCIflG7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOPHIE",
         "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
       },
@@ -283,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEMONADE",
-        "url": "https://open.spotify.com/album/57sloqMgDMARCIGqu7qbL3"
+        "name": "Nothing More to Say",
+        "url": "https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi"
       },
       "artists": [
         {
@@ -292,25 +308,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 118727,
-      "name": "LEMONADE",
-      "url": "https://open.spotify.com/track/390ey4VzRGd88FHKCIflG7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 230624,
-      "name": "It's Okay To Cry",
-      "url": "https://open.spotify.com/track/5djCX0bDd96N89Ayv5Y8Y2"
+      "duration_ms": 325307,
+      "name": "Nothing More to Say - Dub",
+      "url": "https://open.spotify.com/track/7rGmOXB4xH2A5jEK0gKD3N"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing More to Say",
-        "url": "https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi"
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 325307,
-      "name": "Nothing More to Say - Dub",
-      "url": "https://open.spotify.com/track/7rGmOXB4xH2A5jEK0gKD3N"
+      "duration_ms": 230624,
+      "name": "It's Okay To Cry",
+      "url": "https://open.spotify.com/track/5djCX0bDd96N89Ayv5Y8Y2"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
       "duration_ms": 215628,
       "name": "MSMSMSM",
       "url": "https://open.spotify.com/track/5g5y3bgYrajITEEYsLnkDq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 280286,
-      "name": "Infatuation",
-      "url": "https://open.spotify.com/track/3UYjzTbFu1qJjxkgktKXJC"
     },
     {
       "added_at": null,
@@ -415,6 +399,22 @@
       "duration_ms": 167458,
       "name": "La Ch\u00edqui",
       "url": "https://open.spotify.com/track/51Xn6IYNyiYaKc8ECI5CUr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 280286,
+      "name": "Infatuation",
+      "url": "https://open.spotify.com/track/3UYjzTbFu1qJjxkgktKXJC"
     },
     {
       "added_at": null,

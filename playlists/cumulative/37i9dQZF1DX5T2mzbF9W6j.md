@@ -4,7 +4,7 @@
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-383 songs - 19 hr 17 min
+384 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Priceless \(feat\. LISA\)](https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Priceless \(feat\. LISA\)](https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ) | 2:43 | 2025-05-19 | 2026-01-24 |
 | [Prince Charming](https://open.spotify.com/track/2qAcsOUzEdhBB9bqTmA4hn) | [Daria Marx](https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u) | [Prince Charming](https://open.spotify.com/album/5yfDkEZAj11yWvFmJi6gu6) | 2:33 | 2024-12-09 | 2025-01-18 |
 | [proszę pana](https://open.spotify.com/track/3S3ayOhVEJSZZP1tgeKEOB) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [proszę pana](https://open.spotify.com/album/4Atcfix3A3u1PefLTIW0j7) | 2:10 | 2025-10-03 |  |
+| [Przejdzie](https://open.spotify.com/track/1mX2xcAqCVkmTljZoyIryk) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg), [BELA](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Przejdzie](https://open.spotify.com/album/3NtiIpwW1totTDtB8EH8ZR) | 3:45 | 2026-06-26 |  |
 | [PRZEPRASZAM](https://open.spotify.com/track/4SjKuoNNQY5KDX63ryLNPF) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [PRZEPRASZAM](https://open.spotify.com/album/2tWlDdSh6N81GJxhJVPPVj) | 2:37 | 2025-12-19 | 2026-02-24 |
 | [Przy Tobie](https://open.spotify.com/track/5UUqrTg952hhIB2OQCy8RL) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Przy Tobie](https://open.spotify.com/album/1SeBK7WmzEHSwPyA0paTEz) | 2:40 | 2024-11-29 | 2025-05-20 |
 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 | 2024-06-28 | 2024-09-21 |
@@ -349,7 +350,7 @@
 | [Twój głos \- Muzyka z filmu "Piep\*zyć Mickiewicza 2"](https://open.spotify.com/track/5MDz37AV22b6q8XBAXnryU) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Twój głos \(Muzyka z filmu "Piep\*zyć Mickiewicza 2"\)](https://open.spotify.com/album/13wUT9lqifK3B7zhvvQ6Kf) | 2:21 | 2025-01-24 | 2025-03-22 |
 | [Tyle mogłem Ci dać](https://open.spotify.com/track/7yhlUkUDOyGqrfkb1THfSj) | [Filip Lato](https://open.spotify.com/artist/7IGQhHioiEXLsSCBt0ZBID) | [Tyle mogłem Ci dać](https://open.spotify.com/album/4dfPdu3N7AOQ4RLzSYIFNR) | 2:15 | 2024-06-28 | 2024-07-27 |
 | [tylko kochaj mnie](https://open.spotify.com/track/5cYTaKj5sd6gQLqsLptOsQ) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [tylko kochaj mnie](https://open.spotify.com/album/7Lq0KISXdnGyMfdlsWNgGi) | 2:41 | 2026-06-18 |  |
-| [Tylko My](https://open.spotify.com/track/2uuvl8raTa0NMQqSAFBjnn) | [Jeremi Sikorski](https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw) | [Tylko My](https://open.spotify.com/album/199kLe1uSOlO4TwseBuOVl) | 2:10 | 2026-06-26 |  |
+| [Tylko My](https://open.spotify.com/track/2uuvl8raTa0NMQqSAFBjnn) | [Jeremi Sikorski](https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw) | [Tylko My](https://open.spotify.com/album/199kLe1uSOlO4TwseBuOVl) | 2:10 | 2026-06-26 | 2026-07-10 |
 | [Układ otwarty](https://open.spotify.com/track/3ZSJjja6EisRGI7LHEBMid) | [Kuba Badach](https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC) | [Radio Edit](https://open.spotify.com/album/1jQ2hZKn5vxyIbyzPvOmBC) | 3:55 | 2025-11-14 | 2025-12-20 |
 | [Underneath The Blue \(feat\. Joe Cleere\)](https://open.spotify.com/track/0LbdqwL82dT9RWREPQd9zS) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK), [Joe Cleere](https://open.spotify.com/artist/6P4CBsjZN4ZsBfMnBMYFCA) | [Underneath The Blue \(feat\. Joe Cleere\)](https://open.spotify.com/album/0MlrZBUO8EqGlN19gbFnFt) | 2:22 | 2025-01-17 | 2025-08-09 |
 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 | 2024-07-19 | 2025-03-08 |

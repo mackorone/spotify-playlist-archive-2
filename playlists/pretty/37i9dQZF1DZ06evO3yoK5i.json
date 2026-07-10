@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 253151,
+  "num_followers": 253175,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAD9S35VyxZSAKNyWD+vAciP",
+  "snapshot_id": "ak2TAAAAAAB38v4dXfr3QXPcHXckzYyg",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Il mio giorno preferito/Mi d\u00eda preferido",
+        "url": "https://open.spotify.com/album/364VKqmZIJSiFbH4F5UX2x"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 206884,
+      "name": "Il mio giorno preferito",
+      "url": "https://open.spotify.com/track/1GNazjkjTfERkACRnn4EwY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dove c'\u00e8 musica",
         "url": "https://open.spotify.com/album/0CewPA0oXl2anqTzAgVcKX"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 335213,
       "name": "L'aurora",
       "url": "https://open.spotify.com/track/22jJTOMRp6aJrLROjDzcz4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Il mio giorno preferito/Mi d\u00eda preferido",
-        "url": "https://open.spotify.com/album/364VKqmZIJSiFbH4F5UX2x"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 206884,
-      "name": "Il mio giorno preferito",
-      "url": "https://open.spotify.com/track/1GNazjkjTfERkACRnn4EwY"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dove c'\u00e8 musica",
-        "url": "https://open.spotify.com/album/0CewPA0oXl2anqTzAgVcKX"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 281200,
-      "name": "Stella gemella",
-      "url": "https://open.spotify.com/track/50aMakGSM0CocFbBGB3XrB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 250760,
       "name": "Solo ieri",
       "url": "https://open.spotify.com/track/5XnRtv5Iqyr7fNnM8j2Q7I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dove c'\u00e8 musica",
+        "url": "https://open.spotify.com/album/0CewPA0oXl2anqTzAgVcKX"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 281200,
+      "name": "Stella gemella",
+      "url": "https://open.spotify.com/track/50aMakGSM0CocFbBGB3XrB"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 (Spanish Version)",
-        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 276920,
-      "name": "Un Segundo de Paz",
-      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 221293,
       "name": "Canzone per lei",
       "url": "https://open.spotify.com/track/66uYnF8Z5f56fGNC0Qp55F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "9 (Spanish Version)",
+        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 276920,
+      "name": "Un Segundo de Paz",
+      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNA STORIA IMPORTANTE",
-        "url": "https://open.spotify.com/album/5TjpjQjp7xKgEJRrzXSijO"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Max Pezzali",
-          "url": "https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9"
-        }
-      ],
-      "duration_ms": 182522,
-      "name": "Come nei film (feat. Max Pezzali)",
-      "url": "https://open.spotify.com/track/0Ssh4cYMdhuwYhfDjz1uAS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e9xico & Amigos",
         "url": "https://open.spotify.com/album/5wRH13btzRy0O7c5RWcpEo"
       },
@@ -683,6 +663,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "UNA STORIA IMPORTANTE",
+        "url": "https://open.spotify.com/album/5TjpjQjp7xKgEJRrzXSijO"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Max Pezzali",
+          "url": "https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9"
+        }
+      ],
+      "duration_ms": 182522,
+      "name": "Come nei film (feat. Max Pezzali)",
+      "url": "https://open.spotify.com/track/0Ssh4cYMdhuwYhfDjz1uAS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Donde Hay M\u00fasica (Spanish Version)",
         "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
       },
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 270080,
-      "name": "Ti vorrei rivivere",
-      "url": "https://open.spotify.com/track/37C68LgK0KGays4MYetqOT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alas Y Raices",
         "url": "https://open.spotify.com/album/69KJ3ywyhqcAI0Ai2FE5vN"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 238640,
       "name": "Dimelo a Mi",
       "url": "https://open.spotify.com/track/639NCadkzpvpwvZ7X8WL6b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 270080,
+      "name": "Ti vorrei rivivere",
+      "url": "https://open.spotify.com/track/37C68LgK0KGays4MYetqOT"
     },
     {
       "added_at": null,

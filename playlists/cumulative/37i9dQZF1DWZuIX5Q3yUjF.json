@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "seraphiel in cover della playlist dell'R&B italiano \ud83e\udec0",
+  "description": "Primo Amore in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -5271,6 +5271,24 @@
     },
     {
       "album": {
+        "name": "dentro di me",
+        "url": "https://open.spotify.com/album/0gBfh9FIBzZjWMJgRX0YE1"
+      },
+      "artists": [
+        {
+          "name": "Boisi\u00e9",
+          "url": "https://open.spotify.com/artist/4aYFx0nZk91epacdJub6Ti"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188298,
+      "name": "dentro di me",
+      "url": "https://open.spotify.com/track/2ExQTMYEMaS77vaT9ySQAM"
+    },
+    {
+      "album": {
         "name": "DAIMON",
         "url": "https://open.spotify.com/album/0knAreyhItw8swikZyl7Jb"
       },
@@ -6272,6 +6290,28 @@
       "duration_ms": 150303,
       "name": "ECO",
       "url": "https://open.spotify.com/track/7xdHyWvJ07kbgBf9yiyEC0"
+    },
+    {
+      "album": {
+        "name": "Effetto",
+        "url": "https://open.spotify.com/album/2CBgGZQDUdP0gJ4m6rZDmm"
+      },
+      "artists": [
+        {
+          "name": "MAT\u00cdS",
+          "url": "https://open.spotify.com/artist/1STJnuZ3De69Pm53puf4vi"
+        },
+        {
+          "name": "Leggero",
+          "url": "https://open.spotify.com/artist/09RNRUZuccUXJ9pRgC8gpv"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Effetto",
+      "url": "https://open.spotify.com/track/6KYTunJD3VX7qhWYTqo4S7"
     },
     {
       "album": {
@@ -11101,6 +11141,24 @@
     },
     {
       "album": {
+        "name": "malchevada",
+        "url": "https://open.spotify.com/album/1pQ7RFxu9nVqUnp6vFTkYB"
+      },
+      "artists": [
+        {
+          "name": "Chiara Lacasella",
+          "url": "https://open.spotify.com/artist/1GWZy3Qh3YUQI1PiILDzDS"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140031,
+      "name": "malchevada",
+      "url": "https://open.spotify.com/track/78hyAOUUzpmUw1saK4Qedi"
+    },
+    {
+      "album": {
         "name": "Male",
         "url": "https://open.spotify.com/album/1mtp7FTwowI3gAYDko7Y5C"
       },
@@ -13690,6 +13748,28 @@
       "duration_ms": 159937,
       "name": "Occhi Mare",
       "url": "https://open.spotify.com/track/5ShMQ5NevaLbqNnkAg2Rax"
+    },
+    {
+      "album": {
+        "name": "Occhi Neri (con Clementino)",
+        "url": "https://open.spotify.com/album/4ZeRwbydRPQMRIJ76XQRC4"
+      },
+      "artists": [
+        {
+          "name": "MONET",
+          "url": "https://open.spotify.com/artist/4lA15DbyyCQ6RzappQIUyL"
+        },
+        {
+          "name": "Clementino",
+          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131500,
+      "name": "Occhi Neri (con Clementino)",
+      "url": "https://open.spotify.com/track/4ycTjVd8VQXSkjLLQjeGIE"
     },
     {
       "album": {

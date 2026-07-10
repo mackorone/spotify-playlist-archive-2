@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-407 songs - 1 day 12 hr 50 min
+408 songs - 1 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Desolate Lands](https://open.spotify.com/track/0otmh5QkPkM4HtSleILAWC) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Desolate Lands](https://open.spotify.com/album/2KLiLQvguVwRpcLqL74Huc) | 4:18 | 2025-06-27 |  |
 | [Dicke Disko](https://open.spotify.com/track/7F6T8NsGPnQn8GdYRkTblw) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [KOMMIT](https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl) | 6:36 | 2022-09-16 | 2023-10-28 |
 | [Die Maschine auf Diskette 2](https://open.spotify.com/track/4nhnu43OWDMMfu9BeWH7eO) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Die Maschine auf Diskette 2](https://open.spotify.com/album/1MEvGJ9G7CS9CJl5e7QTrq) | 7:33 | 2025-01-17 | 2026-04-18 |
+| [DIGITAL ANIMAL](https://open.spotify.com/track/009NVh13DVQlXjkodfkdRW) | [DONT BLINK](https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba) | [DIGITAL ANIMAL](https://open.spotify.com/album/2i0XXFCLY4I7YOgxVYRKIN) | 3:01 | 2026-07-10 |  |
 | [Dimension](https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Dimension](https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg) | 8:01 | 2023-11-24 | 2024-05-11 |
 | [Distance](https://open.spotify.com/track/2c3TM6Zp1IHd3insEzf9ar) | [Sikora](https://open.spotify.com/artist/4cKdwlnRYAkd3MFwN4AJvj) | [New Electronic Folk and the Floor](https://open.spotify.com/album/5pROYlIuHsXwxFV6PWRtnW) | 5:38 | 2023-02-10 | 2023-03-04 |
 | [Distant Love](https://open.spotify.com/track/2l0emhOFWPN5sMc8DWybB3) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [Distant Love](https://open.spotify.com/album/5IeEHN7JoSqqaxl7TZFs6p) | 3:28 | 2023-10-27 |  |
@@ -155,7 +156,7 @@
 | [Get Up](https://open.spotify.com/track/041C78qqcmlvop1hGYtqGP) | [ASK:ME](https://open.spotify.com/artist/39vA0tgkcBq6RYH8Nn4CzU), [Ithaka](https://open.spotify.com/artist/19D6c1zHSp2sHkOvUIuVBz) | [Get Up](https://open.spotify.com/album/1UrpdDBbmDLgiCNOHNRVS2) | 6:27 | 2026-02-13 | 2026-04-18 |
 | [Getaway \- Henrik Schwarz Remix](https://open.spotify.com/track/5HqIyQKKL6NbD5Ok7Z8AQe) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R), [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [Getaway \(Henrik Schwarz Remix\)](https://open.spotify.com/album/7zDp5SwpTrgIQEnA9qpBh6) | 6:53 | 2025-02-14 | 2025-06-28 |
 | [Ginger](https://open.spotify.com/track/16lQpZjF3WfsPOo7tJJ8rF) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Ginger](https://open.spotify.com/album/3rRynKB1uolIl6HwikbFnS) | 7:35 | 2025-08-08 | 2026-04-11 |
-| [Gisenyi](https://open.spotify.com/track/7HRjMcy76vtQWw3knEcv0j) | [NELL](https://open.spotify.com/artist/7Mzvd0tgZVSMABUtfT849M) | [Gisenyi](https://open.spotify.com/album/5VqNyuPZcnEtduBGMNey05) | 4:19 | 2026-02-20 |  |
+| [Gisenyi](https://open.spotify.com/track/7HRjMcy76vtQWw3knEcv0j) | [NELL](https://open.spotify.com/artist/7Mzvd0tgZVSMABUtfT849M) | [Gisenyi](https://open.spotify.com/album/5VqNyuPZcnEtduBGMNey05) | 4:19 | 2026-02-20 | 2026-07-10 |
 | [Give A Little Bit](https://open.spotify.com/track/17mSLidLd8RFDgF2pNge3q) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Give A Little Bit](https://open.spotify.com/album/5yF5qpAoOQorS2xxO0RnYK) | 4:06 | 2023-09-01 | 2024-11-09 |
 | [Give Me](https://open.spotify.com/track/6M6VKcXTKXEOiiHOWHdzvI) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb) | [Give Me \(Bonus version\)](https://open.spotify.com/album/4sN833SNRVqdYHez7QIzOy) | 4:38 | 2026-04-17 |  |
 | [Go Daddy](https://open.spotify.com/track/6ElUISUJNU2wDTYBJ14qEU) | [ASK:ME](https://open.spotify.com/artist/39vA0tgkcBq6RYH8Nn4CzU) | [Get Up](https://open.spotify.com/album/1UrpdDBbmDLgiCNOHNRVS2) | 7:10 | 2026-04-17 |  |

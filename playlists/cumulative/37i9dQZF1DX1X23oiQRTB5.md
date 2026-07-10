@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Tiakola au top de la première playlist de rap français.
+> La Mano 1.9 x Ninho au top de la première playlist de rap français.
 
-459 songs - 22 hr 58 min
+460 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Eurostar \(feat\. Central Cee\)](https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:07 | 2023-07-06 | 2024-06-14 |
 | [EXPLICIT 69](https://open.spotify.com/track/5j1XxBRRoYYdL4l85Xj5WP) | [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [REQUIEM : MIEUX QU'HIER](https://open.spotify.com/album/7qWj5GRoz5L7e1YIb0QCmz) | 2:33 | 2026-04-23 |  |
 | [Fais de l'argent](https://open.spotify.com/track/5a96UhbVvqjmI4dEXr7wLb) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Fais de l'argent](https://open.spotify.com/album/12vTC7BH3Scluv2woieacw) | 2:25 | 2022-07-28 | 2023-02-17 |
+| [FBI](https://open.spotify.com/track/25LmqV3caGgXzyQqmCRYAz) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Play to Sky](https://open.spotify.com/artist/5s3gS6C41Im37sn8Lh1DzW) | [FBI](https://open.spotify.com/album/5yLNMwHht3aCEhDws0kWqB) | 3:07 | 2026-07-09 |  |
 | [FDT](https://open.spotify.com/track/1bLGJ2sbG6SWDzO3oRePSp) | [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [FDT](https://open.spotify.com/album/620W178thQwaizBX6AV3G9) | 2:02 | 2025-09-11 | 2025-11-07 |
 | [Fendi love](https://open.spotify.com/track/1tQRE9DOEtDzMSGRsGYqFM) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [COCO JOJO](https://open.spotify.com/album/5xNkM6KOf8SQqeNOHTYlzD) | 2:34 | 2022-01-06 | 2022-01-14 |
 | [FENG SHUI](https://open.spotify.com/track/5ZHK4qZbm9JR1AZ8FeePna) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [FENG SHUI](https://open.spotify.com/album/3pJk3LGl7GsxDA7KhnUouv) | 2:40 | 2026-07-02 |  |
@@ -152,7 +153,7 @@
 | [Finale \- Nouvelle École](https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM) | [Dau](https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L) | [Finale \- Nouvelle École](https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS) | 3:00 | 2023-06-08 | 2023-10-06 |
 | [FINIS\-LES](https://open.spotify.com/track/33tefvqbNE3zVlXxVHZ3Dm) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [FINIS\-LES](https://open.spotify.com/album/5dMhvGdEwPkCTWuPdPqOCd) | 2:15 | 2026-06-25 |  |
 | [Fixette](https://open.spotify.com/track/5sLfmuQHJtPjSORQF2sbrJ) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Fixette](https://open.spotify.com/album/6Y4OKe6gdIgxaVfJrASQzE) | 3:33 | 2022-01-06 | 2022-10-07 |
-| [FLASH\-BACK](https://open.spotify.com/track/13ykgko9pytBkK3UAoIrfY) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [FLASH\-BACK](https://open.spotify.com/album/0Gff4ye2yCh3isq47rPRaP) | 2:17 | 2026-04-23 |  |
+| [FLASH\-BACK](https://open.spotify.com/track/13ykgko9pytBkK3UAoIrfY) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [FLASH\-BACK](https://open.spotify.com/album/0Gff4ye2yCh3isq47rPRaP) | 2:17 | 2026-04-23 | 2026-07-10 |
 | [Flashback](https://open.spotify.com/track/02RGARryimtGfuawXbKj8P) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Flashback](https://open.spotify.com/album/3WZCmBlviCfRO1d5MDBvvt) | 2:56 | 2023-09-21 | 2023-09-27 |
 | [FLASHBACK](https://open.spotify.com/track/2PWJx5FwMrMVEaTjwYait1) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [IL LE FALLAIT](https://open.spotify.com/album/33Hs5QPrPlpiDEWKhNfX2S) | 2:56 | 2023-11-16 | 2024-11-08 |
 | [FLEURS \(feat\. Tiakola\)](https://open.spotify.com/track/0i9RysNKssk6syOrKDX3U2) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 3:30 | 2022-12-08 | 2023-09-22 |

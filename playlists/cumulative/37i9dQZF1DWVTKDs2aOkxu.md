@@ -2,9 +2,9 @@
 
 ### [The Indie List](https://open.spotify.com/playlist/37i9dQZF1DWVTKDs2aOkxu)
 
-> The best indie music of the moment\. Cover: mary in the junkyard
+> The best indie music of the moment\. Cover: The Last Dinner Party
 
-1,051 songs - 2 day 14 hr 24 min
+1,061 songs - 2 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 | 2025-01-24 | 2025-02-21 |
 | [Armor](https://open.spotify.com/track/3vEznOTV6qVU4GO7kmB1GK) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Armor](https://open.spotify.com/album/3OUjODbCdJfSwgGChAY5fR) | 3:18 | 2026-06-25 |  |
 | [As Good As It Gets](https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [What A Relief](https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ) | 3:02 | 2024-11-01 | 2025-02-14 |
+| [Ask Twice](https://open.spotify.com/track/1YdqpJZGjkpCtwccFZyn0s) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Ask Twice](https://open.spotify.com/album/7rSCN72JNmlwc7SjVWzD63) | 3:31 | 2026-07-09 |  |
 | [Asshole](https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 3:03 | 2025-02-14 | 2025-05-02 |
 | [Astrolabe](https://open.spotify.com/track/3XaSqO4M7fSLpmqTwyVwEP) | [The New Eves](https://open.spotify.com/artist/1uxnfBJssIJmSQUiuOB77l) | [The New Eve Is Rising](https://open.spotify.com/album/3Eg0fxQ3UrmFeYwZsMfSqH) | 3:25 | 2025-08-07 | 2025-10-17 |
 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 | 2025-04-24 | 2025-09-03 |
@@ -102,6 +103,7 @@
 | [bbydoll](https://open.spotify.com/track/2gnLLrNnITq04tguy716dt) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [bbydoll](https://open.spotify.com/album/5U69I8URn5ZJZVR2lpB5XO) | 2:14 | 2024-10-03 | 2025-01-24 |
 | [Be A Big Girl](https://open.spotify.com/track/3tdBEe2FBbWJpWzaSyfKto) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Be A Big Girl](https://open.spotify.com/album/3M48990TSLoCplWuNssAAs) | 2:50 | 2025-09-04 | 2026-01-15 |
 | [Be Mine](https://open.spotify.com/track/53fMX5yCAq8P3FOSO9jhS3) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [Utopia](https://open.spotify.com/album/4EzOrKjm5bkI5YA2hzLV7M) | 4:25 | 2025-10-09 | 2025-12-20 |
+| [Be My](https://open.spotify.com/track/1UP964gqzqac0iz9559rQy) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Be My](https://open.spotify.com/album/5iBnbqRnSsazklpO0eovRR) | 3:04 | 2026-07-09 |  |
 | [Beach House](https://open.spotify.com/track/5exf0keVsX7ocqamzUOVtG) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Beach House](https://open.spotify.com/album/0p2EBGp6qHe4u90O8LuHHt) | 3:17 | 2024-06-27 | 2024-09-06 |
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-08 | 2024-09-14 |
 | [Beaches](https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 3:50 | 2024-09-13 | 2025-01-10 |
@@ -331,6 +333,8 @@
 | [Flink Pike](https://open.spotify.com/track/1Iil2tX28N7tAAGxRrW8PL) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Flink Pike](https://open.spotify.com/album/53BDWgZ95h3taij0mOcR26) | 2:53 | 2025-04-11 | 2025-06-06 |
 | [Flirting Again](https://open.spotify.com/track/35Gwl5y08cuh99LUlOPyag) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Flirting Again](https://open.spotify.com/album/4nYswRIZBX55w6aTGUSCnS) | 3:02 | 2024-06-27 | 2024-08-23 |
 | [Florence](https://open.spotify.com/track/4vNf1qqBHno9dM6PcgVBHj) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [Florence](https://open.spotify.com/album/0GAuzNrkQcaZyNezFjNDSB) | 4:31 | 2026-04-16 | 2026-06-19 |
+| [FLOWERS](https://open.spotify.com/track/2UcutGXLrhCokGVY4V70lE) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [FLOWERS](https://open.spotify.com/album/6BVYE5jv8v6QjO6p5Wthj4) | 3:14 | 2026-07-09 |  |
+| [Follow](https://open.spotify.com/track/6BkGs2ZNaqaEbrJNlQAt2x) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Fire From The Hip](https://open.spotify.com/album/43mE12XfH3PQ7iX3mPj2Ri) | 3:24 | 2026-07-09 |  |
 | [For the Cold Country](https://open.spotify.com/track/65SovR8Agl5vY7vtJ02wk7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [For the Cold Country](https://open.spotify.com/album/6HnC12N2Ir7bb6jUj67RfY) | 6:27 | 2025-03-28 | 2025-04-04 |
 | [Forever](https://open.spotify.com/track/7aJCqveV9M4UlyBpv2mB2Q) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Forever](https://open.spotify.com/album/1TjO1lphyF0J5GXzoszYe6) | 3:41 | 2025-08-28 | 2025-11-28 |
 | [Forever Ever After](https://open.spotify.com/track/4MGnciz1ka4fYa3gJO8NTM) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Greyhound](https://open.spotify.com/album/3GeBXNOa1KPiFXNyAqeChF) | 4:56 | 2025-04-03 | 2025-06-20 |
@@ -421,6 +425,7 @@
 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 | 2025-05-29 | 2025-09-03 |
 | [Here's The Thing](https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Here's The Thing](https://open.spotify.com/album/63MATGJoOix8OypoCqnJga) | 2:43 | 2024-08-08 | 2024-09-06 |
 | [Hey You](https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Hey You](https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2) | 3:31 | 2025-09-11 | 2025-10-17 |
+| [hi from me](https://open.spotify.com/track/60XzwYT67TQNhF5Bhu2sQR) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer \(deluxe\)](https://open.spotify.com/album/2HnvB9ilRvh2hpoFesS5fl) | 1:42 | 2026-07-09 |  |
 | [HIJKL](https://open.spotify.com/track/0huegoNhnw66aO417YIGX0) | [Little Comets](https://open.spotify.com/artist/7cfhZmKaLWzNLwHDxzugUH) | [HIJKL](https://open.spotify.com/album/3PwWSGLBuKUH9yQZbjTcaW) | 2:36 | 2025-02-28 | 2025-04-04 |
 | [Hit My Head All Day \- Edit](https://open.spotify.com/track/271A8RDdBhRCOo8mHtyrNB) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Hit My Head All Day](https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI) | 3:43 | 2025-10-02 | 2025-11-14 |
 | [Hole In The Ground](https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Hole In The Ground](https://open.spotify.com/album/0kgOgOSINmwzYVDRssq6yK) | 3:44 | 2025-10-31 | 2026-03-06 |
@@ -522,6 +527,7 @@
 | [Kiss My Apocalypse](https://open.spotify.com/track/0N1ItNWhn5N7WiHarezCA8) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Kiss My Apocalypse](https://open.spotify.com/album/2X42JsIZ1VkhOooPBBfDZl) | 3:48 | 2024-11-22 | 2025-03-07 |
 | [Kneel](https://open.spotify.com/track/3zHlu8zTCOQ2R6nobGogKJ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Dancing Shoes](https://open.spotify.com/album/3YFxLOJQhY5voCBsEQ1kCt) | 3:44 | 2025-07-03 | 2025-09-27 |
 | [Knifefish](https://open.spotify.com/track/1KiWQFbHX5VPg41EEErqXh) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Knifefish](https://open.spotify.com/album/00PbPT6noUQpRC9bWXXJu4) | 2:26 | 2026-05-14 |  |
+| [Knocking at the Sky](https://open.spotify.com/track/16naEqXaSBJunVZvqLhsHq) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre \(Deluxe\)](https://open.spotify.com/album/3AGFxS8n4Bicv65GAOW3od) | 4:28 | 2026-07-09 |  |
 | [Koya](https://open.spotify.com/track/6GMUwFCOUn5DxXPpxpE9LG) | [The Maccabees](https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB) | [Koya](https://open.spotify.com/album/0XjWU0ZXEr2sVK33LUSpFy) | 5:17 | 2025-10-16 | 2025-12-05 |
 | [labour](https://open.spotify.com/track/0e00DiF2T9znEdmWakYSC3) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 3:57 | 2024-11-08 | 2025-02-14 |
 | [Last Time](https://open.spotify.com/track/6EWbV0FVnL9CHiSrMyhtpR) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Last Time](https://open.spotify.com/album/3UGeIKs2PcNCp4nphu9BMf) | 3:34 | 2025-09-01 | 2025-11-21 |
@@ -656,6 +662,7 @@
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2024-10-10 | 2025-01-24 |
 | [Nomad](https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nomad](https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq) | 3:45 | 2024-06-27 | 2024-07-12 |
 | [Not Enough](https://open.spotify.com/track/1GgAQK7vuuydUdSn7uJFFT) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Not Enough](https://open.spotify.com/album/4iPdqqlQoDwpsarVVgGmHu) | 3:11 | 2026-01-16 | 2026-03-20 |
+| [Not for Nothing](https://open.spotify.com/track/71LE6SBGVcXdIhHxJ6Nb8c) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Not for Nothing](https://open.spotify.com/album/6h7Q4NvBdCagiNOCSz6rjy) | 3:09 | 2026-07-09 |  |
 | [Not Ideal](https://open.spotify.com/track/3h4VpzoEM7UaC9aBfIfYt4) | [Mên An Tol](https://open.spotify.com/artist/4CFcHsL8xqUWQC4vIZWPOs) | [This Land](https://open.spotify.com/album/7lgJJWSRMLj6D4lGkSfFxc) | 3:06 | 2025-10-10 | 2026-01-30 |
 | [Nothing Compares To Nineteen](https://open.spotify.com/track/7GQwcstzhZd6GNFp0LJqEt) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [Nothing Compares To Nineteen](https://open.spotify.com/album/3aiDUv877OWq4i6t9jI9cD) | 2:48 | 2024-09-20 | 2024-11-15 |
 | [Nothing I Need](https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Nothing I Need](https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8) | 3:33 | 2025-03-28 | 2025-05-16 |
@@ -682,6 +689,7 @@
 | [Outbound](https://open.spotify.com/track/33JtmL41NT35v7Y1j9dULK) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Outbound](https://open.spotify.com/album/04PB5ijhEf7SJnQp1D1G9K) | 3:47 | 2025-09-01 | 2025-10-17 |
 | [Outlast](https://open.spotify.com/track/1ctDUAAad7Em6JenrjdMNC) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:01 | 2025-08-14 | 2025-10-31 |
 | [Outrun](https://open.spotify.com/track/3XjcRl7pAD7qXHVm8PRbrc) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Outrun](https://open.spotify.com/album/1fvSUnl38m7xy8eitaObBt) | 3:17 | 2026-01-16 | 2026-03-13 |
+| [Overtones](https://open.spotify.com/track/0a1AuyUxuKFMm83ZVsiaRr) | [James Ellis Ford](https://open.spotify.com/artist/4rzx4iwzF4sCJns8pelK55) | [Overtones](https://open.spotify.com/album/7mH9FHI7n7lq14tm6pMeaE) | 3:27 | 2026-07-09 |  |
 | [Oxygen](https://open.spotify.com/track/1EqpDxhSQrqvMnDXCKvpfs) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Million Dollar Baby](https://open.spotify.com/album/67dw7C6enQ3O05ZaI2dCaT) | 2:42 | 2024-08-01 | 2024-10-18 |
 | [pains of falling in love](https://open.spotify.com/track/6JVl0PrnA0cT45eXHAGQBP) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id), [camogirl3000](https://open.spotify.com/artist/28jJdp3i6BntofRp7t8N31) | [pains of falling in love](https://open.spotify.com/album/62NXg5kjzD9TzjdylSvkd2) | 2:08 | 2025-12-05 | 2026-02-13 |
 | [Pale Blue Eyes](https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pale Blue Eyes](https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D) | 3:09 | 2025-02-28 | 2025-05-09 |
@@ -813,6 +821,7 @@
 | [Softly](https://open.spotify.com/track/4Abqrfm6dPj2rIa9X1EXb2) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Softly](https://open.spotify.com/album/1xNG0WCsLGXot9HjhQcNCs) | 4:02 | 2024-08-09 | 2024-12-13 |
 | [Solitude Of The Night Bus](https://open.spotify.com/track/0XrRTQNcxOn8tQgrilf4Mp) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2) | [Solitude Of The Night Bus](https://open.spotify.com/album/5kzQFWJ9ArgLKExI7BaTnN) | 3:18 | 2024-07-11 | 2024-10-04 |
 | [Somebody](https://open.spotify.com/track/2p2PyJXXzOzpaP2HEEKYsE) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality \(Complete Edition\)](https://open.spotify.com/album/40OV4pw1Vvzrvo2yOTl5AF) | 2:49 | 2026-02-13 | 2026-02-20 |
+| [Someday, Somewhere](https://open.spotify.com/track/20FqWsyuUaQTU5tk4nP6eN) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Someday, Somewhere](https://open.spotify.com/album/4FlY87oGWuZ49lYMVdofEj) | 2:31 | 2026-07-09 |  |
 | [Somehow](https://open.spotify.com/track/04xfDpReIdCIXPZWdaMHun) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8), [The Bedroomer](https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB) | [Adult Contemporary](https://open.spotify.com/album/3GUtMJU1SvmsqJ7UYyVKrb) | 3:03 | 2026-03-27 | 2026-04-10 |
 | [Something In The Air](https://open.spotify.com/track/7rvhBrHKRK7G4SJFgclkr7) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Something In The Air](https://open.spotify.com/album/2RoSPQyzfjJl6ADhGFUnhr) | 3:47 | 2024-10-10 | 2024-11-01 |
 | [something new](https://open.spotify.com/track/1Qot7BYHZjUqFpdlcJZqZm) | [cumgirl8](https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6) | [something new](https://open.spotify.com/album/24jOjoJr6F2chxZiDBtqBF) | 3:51 | 2024-10-03 | 2024-11-15 |
@@ -969,7 +978,8 @@
 | [Trouble](https://open.spotify.com/track/3IU8gx0FlYarKKA4TOgraH) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Girlfriend](https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4) | 3:17 | 2026-03-20 | 2026-05-22 |
 | [Trouble](https://open.spotify.com/track/4bGeuZpvvvIldq0daPo9wZ) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Trouble](https://open.spotify.com/album/2KmIKQIxmavgPgAfeQJMqD) | 5:00 | 2025-01-17 | 2025-02-07 |
 | [Truth](https://open.spotify.com/track/6f7duf2up9giRj5V0XtFKW) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:43 | 2025-03-28 | 2025-06-13 |
-| [Tunnels](https://open.spotify.com/track/6YPCE9MLZegYj9mV03RXU3) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Tunnels](https://open.spotify.com/album/0tf2qpHEEELAYR6LKsPjuR) | 2:48 | 2026-06-11 |  |
+| [Try Try Try](https://open.spotify.com/track/37S6RNloIxDDNRkydQflwU) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Try Try Try](https://open.spotify.com/album/7twihH4moGgU0lmsVQFHG7) | 3:54 | 2026-07-09 |  |
+| [Tunnels](https://open.spotify.com/track/6YPCE9MLZegYj9mV03RXU3) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Tunnels](https://open.spotify.com/album/0tf2qpHEEELAYR6LKsPjuR) | 2:48 | 2026-06-11 | 2026-07-10 |
 | [TV Car Chase](https://open.spotify.com/track/5uyfpJr8GauOTQh3F3hsON) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [TV Car Chase](https://open.spotify.com/album/60qSBnX3GYDRVgeuzN66Pn) | 4:44 | 2024-07-11 | 2024-08-16 |
 | [Two Times](https://open.spotify.com/track/3nqo6oCIDGVCQseDGeSPy5) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Two Times](https://open.spotify.com/album/1VLDDFEzUDKAGt4Y13zdvm) | 3:46 | 2025-02-21 | 2025-04-04 |
 | [Tyler Richard](https://open.spotify.com/track/1z6gxaOoSkvzXpkb0s6sdh) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/2e1eja8MYlw9fn7v48ZFlU) | 3:01 | 2026-06-25 |  |

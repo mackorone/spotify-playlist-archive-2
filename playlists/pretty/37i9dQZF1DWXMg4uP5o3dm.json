@@ -1,6 +1,6 @@
 {
   "description": "alternative meets electronic.",
-  "num_followers": 498865,
+  "num_followers": 498901,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-04-20 20:51:15",
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 178920,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk"
+    },
+    {
+      "added_at": "2026-04-20 20:51:15",
+      "album": {
         "name": "Self Destruction Mode",
         "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 147836,
       "name": "Self Destruction Mode",
       "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
-    },
-    {
-      "added_at": "2026-04-20 20:51:15",
-      "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 178920,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk"
     },
     {
       "added_at": "2026-04-20 20:51:15",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-04-20 20:51:15",
       "album": {
-        "name": "RAT WARS",
-        "url": "https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz"
-      },
-      "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 181130,
-      "name": "ASHAMED",
-      "url": "https://open.spotify.com/track/2olEwF2igUG4f2eooVChni"
-    },
-    {
-      "added_at": "2026-04-20 20:51:15",
-      "album": {
         "name": "Miracle, Baby",
         "url": "https://open.spotify.com/album/4OEXo5dPHC8m3h3um07mL0"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 220471,
       "name": "Miracle, Baby",
       "url": "https://open.spotify.com/track/3Iu1P9opSIz1wmm98SG2qb"
+    },
+    {
+      "added_at": "2026-04-20 20:51:15",
+      "album": {
+        "name": "RAT WARS",
+        "url": "https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 181130,
+      "name": "ASHAMED",
+      "url": "https://open.spotify.com/track/2olEwF2igUG4f2eooVChni"
     },
     {
       "added_at": "2026-04-20 20:51:15",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-04-20 20:51:15",
       "album": {
-        "name": "BELIEVE",
-        "url": "https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK"
-      },
-      "artists": [
-        {
-          "name": "NEFFEX",
-          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "BELIEVE",
-      "url": "https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z"
-    },
-    {
-      "added_at": "2026-04-20 20:51:15",
-      "album": {
         "name": "Palm Reader",
         "url": "https://open.spotify.com/album/1QQRNBDVBOA4uomdDG2MxZ"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 180667,
       "name": "Palm Reader",
       "url": "https://open.spotify.com/track/729lI4P82NDXNQljBDmkmU"
+    },
+    {
+      "added_at": "2026-04-20 20:51:15",
+      "album": {
+        "name": "BELIEVE",
+        "url": "https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK"
+      },
+      "artists": [
+        {
+          "name": "NEFFEX",
+          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "BELIEVE",
+      "url": "https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z"
     },
     {
       "added_at": "2026-04-20 20:51:15",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2026-04-20 20:51:15",
       "album": {
-        "name": "PIRATE RADIO",
-        "url": "https://open.spotify.com/album/1bxj95VYRQYbEzaEHD3fp3"
+        "name": "When You & Me Dance",
+        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
       },
       "artists": [
         {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
         }
       ],
-      "duration_ms": 174799,
-      "name": "PIRATE RADIO",
-      "url": "https://open.spotify.com/track/6HQFxxX9d7HailblPX0Nxy"
+      "duration_ms": 221142,
+      "name": "When You & Me Dance",
+      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
     },
     {
       "added_at": "2026-04-20 20:51:15",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2026-04-20 20:51:15",
       "album": {
-        "name": "When You & Me Dance",
-        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
+        "name": "PIRATE RADIO",
+        "url": "https://open.spotify.com/album/1bxj95VYRQYbEzaEHD3fp3"
       },
       "artists": [
         {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
         }
       ],
-      "duration_ms": 221142,
-      "name": "When You & Me Dance",
-      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
+      "duration_ms": 174799,
+      "name": "PIRATE RADIO",
+      "url": "https://open.spotify.com/track/6HQFxxX9d7HailblPX0Nxy"
     },
     {
       "added_at": "2026-04-20 20:51:15",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2026-04-20 20:51:15",
       "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/0dCsvVuNZ9yudIkRsHfSmV"
+      },
+      "artists": [
+        {
+          "name": "Casper The Ghost",
+          "url": "https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L"
+        }
+      ],
+      "duration_ms": 158973,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/14gw6qQSrs9pEf8ADJuHo1"
+    },
+    {
+      "added_at": "2026-04-20 20:51:15",
+      "album": {
         "name": "IDFLU",
         "url": "https://open.spotify.com/album/139FdSB8EJfPzBhZiU6QSf"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 172235,
       "name": "IDFLU",
       "url": "https://open.spotify.com/track/4btPFFVz1aZ7RtrIIwe23t"
-    },
-    {
-      "added_at": "2026-04-20 20:51:15",
-      "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/0dCsvVuNZ9yudIkRsHfSmV"
-      },
-      "artists": [
-        {
-          "name": "Casper The Ghost",
-          "url": "https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L"
-        }
-      ],
-      "duration_ms": 158973,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/14gw6qQSrs9pEf8ADJuHo1"
     },
     {
       "added_at": "2026-04-20 20:51:15",
@@ -1739,22 +1739,18 @@
     {
       "added_at": "2026-04-20 20:51:15",
       "album": {
-        "name": "glass house (feat. Braden Bales)",
-        "url": "https://open.spotify.com/album/4mrdG4VhjZD8ID201pF151"
+        "name": "Have Fun",
+        "url": "https://open.spotify.com/album/1xbi36lPp1gIjz9q8hL06C"
       },
       "artists": [
         {
-          "name": "Ezra",
-          "url": "https://open.spotify.com/artist/4t3LO0Or2OMeBrH9Jy1bLY"
-        },
-        {
-          "name": "Braden Bales",
-          "url": "https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv"
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
         }
       ],
-      "duration_ms": 176347,
-      "name": "glass house (feat. Braden Bales)",
-      "url": "https://open.spotify.com/track/2wm7IiFx8bLBhLAuUFod3K"
+      "duration_ms": 236400,
+      "name": "Have Fun",
+      "url": "https://open.spotify.com/track/0CUDJNdyr5XhIblZRYIpe9"
     }
   ],
   "unique_name": "Alternative Beats",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 
 > canciones para chillear con Mon Laferte
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,027 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,025 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 | 54 | [Loquero Viejo](https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Loquero Viejo](https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh) | 3:31 |
 | 55 | [Antiguo y moderno](https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Julian Kartun](https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8) | [El Verdadero](https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt) | 2:43 |
 | 56 | [Para Siempre](https://open.spotify.com/track/1YskKvj2NqjlBDVoCTbIcE) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [Para Siempre](https://open.spotify.com/album/3j32qwP0UytC2bakmATjgP) | 3:51 |
-| 57 | [Amores Callejeros \- Bolero Remix](https://open.spotify.com/track/4TiuSDziSZ8QClZZYWfOqJ) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [SUPERSTICIONES: Remixes](https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf) | 3:24 |
-| 58 | [Duele](https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Duele](https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3) | 3:58 |
+| 57 | [Duele](https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Duele](https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3) | 3:58 |
+| 58 | [Amores Callejeros \- Bolero Remix](https://open.spotify.com/track/4TiuSDziSZ8QClZZYWfOqJ) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [SUPERSTICIONES: Remixes](https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf) | 3:24 |
 | 59 | [El Momento Perfecto](https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [El Momento Perfecto](https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS) | 3:21 |
 | 60 | [¿Qué Vas a Hacer Hoy?](https://open.spotify.com/track/73plJhWqEmSyN0CmmLy7Wb) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [¿Qué Vas a Hacer Hoy?](https://open.spotify.com/album/0KO6SBo6WRpil0wIlW4rA1) | 2:59 |
 | 61 | [Una Herida Y Un Adiós](https://open.spotify.com/track/5lucxvkqKHg0i6b4Dru8hw) | [Un Verano](https://open.spotify.com/artist/2vaSBYGcW5v46jnDdXhawN) | [Una Herida Y Un Adiós](https://open.spotify.com/album/6gcvjfv3oLAHg5LYDLt4QL) | 1:47 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 | 93 | [miradas](https://open.spotify.com/track/6ZtWvkZlK3upvmuGVddKiL) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q), [imbn](https://open.spotify.com/artist/4G8NhGa4RLX6Vyw5Cfb09o) | [QUIZÁS LAS HORAS SUMAN MESES](https://open.spotify.com/album/6RynSNM95iXqnzxU3UpeJg) | 2:30 |
 | 94 | [a todo el mundo le pasa](https://open.spotify.com/track/5jIZnV4PdKZzA4RoEdrje3) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [a todo el mundo le pasa](https://open.spotify.com/album/5WrnLgPUnxsbfbMHv8Nh5X) | 3:31 |
 | 95 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 |
-| 96 | [Una Persona](https://open.spotify.com/track/0i01P3ZURjQ7kGTFLrpv28) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Los Algarrobos](https://open.spotify.com/album/7BbLxJ2MPhmnSAHShC7DJZ) | 3:35 |
-| 97 | [Valiente](https://open.spotify.com/track/25itt5YemGNnKNh4zOFDoJ) | [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE) | [Valiente](https://open.spotify.com/album/7DUgTiPrOU4zykqdPbtjb4) | 2:05 |
+| 96 | [Valiente](https://open.spotify.com/track/25itt5YemGNnKNh4zOFDoJ) | [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE) | [Valiente](https://open.spotify.com/album/7DUgTiPrOU4zykqdPbtjb4) | 2:05 |
+| 97 | [Una Persona](https://open.spotify.com/track/0i01P3ZURjQ7kGTFLrpv28) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Los Algarrobos](https://open.spotify.com/album/7BbLxJ2MPhmnSAHShC7DJZ) | 3:35 |
 | 98 | [Cómo Viene Tu Amor](https://open.spotify.com/track/5J2wXlzzG1CrRm8zMmwFaB) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Cómo Viene Tu Amor](https://open.spotify.com/album/3LonceOAnPu6MqEpUuvP8M) | 2:51 |
 | 99 | [En la Moto](https://open.spotify.com/track/3oOnGcGqJEH17jLSxsMFFA) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Julian Kartun](https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8) | [En la Moto](https://open.spotify.com/album/2IKdzeh2FO1aelXzus5Yyj) | 2:53 |
 | 100 | [kiero ke te kedes](https://open.spotify.com/track/7ya7j5JVkSHQgdaOQVgZaM) | [Sofía Mora](https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE) | [kiero ke te kedes](https://open.spotify.com/album/6z7v8adQYJSnigYxx075Vy) | 3:38 |

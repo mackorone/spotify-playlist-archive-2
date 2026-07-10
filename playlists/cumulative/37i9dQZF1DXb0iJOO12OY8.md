@@ -4,10 +4,11 @@
 
 > Heia Norge 🇳🇴⚽️🏟️
 
-244 songs - 11 hr 18 min
+248 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [+47 \(oh olé\)](https://open.spotify.com/track/4gKZZ9xw0dyGzEm5RnHkAe) | [Jonico](https://open.spotify.com/artist/3qIGDkJ0dqe1tJSbGP16iR), [Samuel Lola](https://open.spotify.com/artist/4zMSpw4meW8Bb3bqbGU0tT), [BIGZ](https://open.spotify.com/artist/5RYuVXIs5bEO0h3kr4P3ne) | [+47 \(oh olé\)](https://open.spotify.com/album/3mpa6r4bfNUc3khM6zYjHJ) | 2:35 | 2026-07-09 |  |
 | [28](https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:53 | 2024-07-04 | 2024-09-13 |
 | [30 under 30](https://open.spotify.com/track/3atoN74BRD90F3NRo4uhUo) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [30 under 30](https://open.spotify.com/album/7DRt4eLn3btxQF8KSYSol1) | 2:59 | 2024-09-19 | 2024-09-22 |
 | [360 featuring robyn and yung lean](https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [360 featuring robyn and yung lean](https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h) | 2:09 | 2024-06-27 | 2024-08-16 |
@@ -17,6 +18,7 @@
 | [Alt For Norge](https://open.spotify.com/track/5MSj7P4ieMZ8IIngLnvhbH) | [Alexandra Rotan](https://open.spotify.com/artist/5LeUKbWRby5hGRHktQkXQV), [TRüH](https://open.spotify.com/artist/0qX8rYHY8qHGepVMSzAGbr) | [Alt For Norge](https://open.spotify.com/album/2F8SdxlBxcbcwMhZR4BuDk) | 2:59 | 2026-05-28 |  |
 | [Alt For Norge](https://open.spotify.com/track/4m9erlcywGIMPeXsDEmfMW) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Alt For Norge](https://open.spotify.com/album/4aQB1v78WPrJolmCeTNFAM) | 2:31 | 2026-05-28 |  |
 | [Alt For Norge](https://open.spotify.com/track/3E5IeN5MqUs16rjvMRlaT1) | [Drillos](https://open.spotify.com/artist/0gSgXDEsDJj4ZsMclAGjeh), [Jørn Lande](https://open.spotify.com/artist/3aOVLHmQbwbOq4nl4XcGSC) | [Alt For Norge](https://open.spotify.com/album/73ZZN6P6S9fPNUYVhaxeQQ) | 4:21 | 2026-07-06 |  |
+| [Alt for Norge](https://open.spotify.com/track/5JS9FgAexJae4Uj7VdiqO1) | [Ståles menn](https://open.spotify.com/artist/7jdPqVIVJ9kb4u4JT5v3VX), [Andreas Gjefle](https://open.spotify.com/artist/0Bu6xDBv66W7kMNQf9Gs9d) | [Alt for Norge / Vi heier på vårt lille land](https://open.spotify.com/album/6Qg9Bgr5pZT9BT0ufN2Ms7) | 2:48 | 2026-07-09 |  |
 | [Alt Jeg Har](https://open.spotify.com/track/6TzBENrpEVrgoFWiQXp7mP) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Alt Jeg Har](https://open.spotify.com/album/7aU0dqPYJgBZ16DUYG2Wqa) | 2:12 | 2025-07-17 | 2026-04-24 |
 | [Ambassadør](https://open.spotify.com/track/4Vrbv4EQ5kAsupUZRHHQvQ) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Ambassadør](https://open.spotify.com/album/1DjkyWV85yWHHOhKYDtFou) | 2:49 | 2024-10-31 | 2026-05-29 |
 | [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:50 | 2024-06-27 | 2024-08-30 |
@@ -88,6 +90,7 @@
 | [Haaland \(Ha Ha Ha\)](https://open.spotify.com/track/0hwPOwj3rojFt33NhaxNUy) | [CTID](https://open.spotify.com/artist/0Xw8uMcDlFaAI9RYZN8Pxx) | [Haaland \(Ha Ha Ha\)](https://open.spotify.com/album/2S7hk5ScgjdYZ6vyaaXFIx) | 3:05 | 2026-05-28 |  |
 | [Heartless](https://open.spotify.com/track/3qgnWArMxxlvE9jncRKWiL) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Heartless](https://open.spotify.com/album/2WXVkG3pCRkjcAYJfcKk1m) | 2:36 | 2026-02-05 | 2026-05-29 |
 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 | 2024-08-01 | 2025-05-02 |
+| [Helvegen](https://open.spotify.com/track/0OXEH9T6QSQCrmnjdtpf4P) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/7LsNPzgWHwrsLMRsWuiEJa) | 7:11 | 2026-07-09 |  |
 | [Hemmelighet](https://open.spotify.com/track/70KTjCosrAcVr2da6y1mTq) | [Synne Sørgjerd](https://open.spotify.com/artist/5Ai4yHtSLrIhQD7AmTs9XF) | [Beige, tam og middels mann](https://open.spotify.com/album/5pLY7JQg79i2pWgmO8ackZ) | 3:11 | 2024-09-05 | 2024-09-20 |
 | [Henda mot himmelen](https://open.spotify.com/track/342fawASzRGGLF1oFqfhtK) | [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [Henda mot himmelen](https://open.spotify.com/album/7a9nEtYAe7rqDvKuD43l0O) | 3:25 | 2026-05-28 |  |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-06-27 | 2024-10-03 |
@@ -237,6 +240,7 @@
 | [VENNELØS](https://open.spotify.com/track/7xB3Tq8HPCM6rpJtPKCA95) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [BRENTE BROER](https://open.spotify.com/album/62lXZLbHfnCg9qTZoA6aM0) | 1:54 | 2024-06-27 | 2025-01-02 |
 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 | 2024-06-27 | 2025-04-20 |
 | [Vestkantvilla](https://open.spotify.com/track/3SHHJUbeOcqef74LsHVkM9) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [Vestkantvilla](https://open.spotify.com/album/6hHY52SUkdHlv8tHeckjAX) | 1:52 | 2025-06-19 | 2025-08-08 |
+| [Vi er Norge](https://open.spotify.com/track/1FRmrLVrQLPPIBLCbeQUdt) | [Jørn Lande](https://open.spotify.com/artist/3aOVLHmQbwbOq4nl4XcGSC) | [Vi er Norge](https://open.spotify.com/album/1rFlvVaICoq08SUNwpPqaX) | 4:19 | 2026-07-09 |  |
 | [Vi heier på vårt lille land](https://open.spotify.com/track/3GiuNkNyJIY80035FKGqJP) | [Ståles menn](https://open.spotify.com/artist/7jdPqVIVJ9kb4u4JT5v3VX), [Andreas Gjefle](https://open.spotify.com/artist/0Bu6xDBv66W7kMNQf9Gs9d) | [Alt for Norge / Vi heier på vårt lille land](https://open.spotify.com/album/6Qg9Bgr5pZT9BT0ufN2Ms7) | 2:42 | 2026-05-28 |  |
 | [Vikingblod \(Norway Row Chant\)](https://open.spotify.com/track/34YF4ZTr6cWQyHsjAmV1Co) | [Oljeberget](https://open.spotify.com/artist/2fpiU89XxYeTRcnPtuEBip), [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Vikingblod \(Norway Row Chant\)](https://open.spotify.com/album/6U7wwnQ9GrWMj4dCvOXky1) | 2:42 | 2026-06-16 |  |
 | [Vil Ikke Dele](https://open.spotify.com/track/7McuDKPPrOXe5I0Y7b8wlg) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Vil Ikke Dele](https://open.spotify.com/album/2F8IyxW4ddsPxLjYPFwGg3) | 2:15 | 2025-01-16 | 2025-10-14 |
@@ -251,6 +255,6 @@
 | [YAYO](https://open.spotify.com/track/0vxDeUgs9QnjzGlkAGUuAA) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [YAYO](https://open.spotify.com/album/2d5fqQNVtiQPyyFZIyxxtB) | 2:03 | 2025-01-23 | 2025-05-09 |
 | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF) | 3:06 | 2024-06-27 | 2025-05-16 |
 | [Zanotti](https://open.spotify.com/track/3nT3EBnBlRgn9X00yrOLHE) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 4:26 | 2024-09-12 | 2026-05-29 |
-| [Ár var alda](https://open.spotify.com/track/2xAWy0hRNZG5wKhxQJXGn6) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – gap var Ginnunga](https://open.spotify.com/album/5CgXaggLWT1a8fWtJ86h3K) | 2:19 | 2026-05-28 |  |
+| [Ár var alda](https://open.spotify.com/track/2xAWy0hRNZG5wKhxQJXGn6) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – gap var Ginnunga](https://open.spotify.com/album/5CgXaggLWT1a8fWtJ86h3K) | 2:19 | 2026-05-28 | 2026-07-10 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

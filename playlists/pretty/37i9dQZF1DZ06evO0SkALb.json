@@ -1,12 +1,12 @@
 {
   "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
-  "num_followers": 12863,
+  "num_followers": 12866,
   "original_name": "This Is Lou Rawls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAA2wSBujHJ+AdKVyAkfJA4g",
+  "snapshot_id": "ak2TAAAAAAA+quIEWHdR5HoyXoh/hUz+",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Note Plays Bossa Nova",
-        "url": "https://open.spotify.com/album/6dsdyyYjxktA7E79DNBowM"
+        "name": "Let Me Be Good to You",
+        "url": "https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 263200,
-      "name": "The Girl From Ipanema - Live",
-      "url": "https://open.spotify.com/track/6nDJRsqTMNl3jTFKTk6TI9"
+      "duration_ms": 276093,
+      "name": "Time Will Take Care of Everything",
+      "url": "https://open.spotify.com/track/2k2TOpjdjuELXgPCT3387m"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Be Good to You",
-        "url": "https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY"
+        "name": "Blue Note Plays Bossa Nova",
+        "url": "https://open.spotify.com/album/6dsdyyYjxktA7E79DNBowM"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 276093,
-      "name": "Time Will Take Care of Everything",
-      "url": "https://open.spotify.com/track/2k2TOpjdjuELXgPCT3387m"
+      "duration_ms": 263200,
+      "name": "The Girl From Ipanema - Live",
+      "url": "https://open.spotify.com/track/6nDJRsqTMNl3jTFKTk6TI9"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brotherman!: Lou Rawls Sings His Hits",
-        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 154333,
-      "name": "The Letter",
-      "url": "https://open.spotify.com/track/1CDke7GKa0x4PheMWoIkuH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sit Down and Talk to Me",
         "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
       },
@@ -451,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brotherman!: Lou Rawls Sings His Hits",
+        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 154333,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/1CDke7GKa0x4PheMWoIkuH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Essential Lou Rawls",
         "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 339160,
-      "name": "Early Morning Love",
-      "url": "https://open.spotify.com/track/77SdpzxMVJIjpYkrObUHdP"
+      "duration_ms": 209040,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 209040,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz"
+      "duration_ms": 339160,
+      "name": "Early Morning Love",
+      "url": "https://open.spotify.com/track/77SdpzxMVJIjpYkrObUHdP"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brotherman!: Lou Rawls Sings His Hits",
+        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 176466,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stormy Monday",
         "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 357040,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brotherman!: Lou Rawls Sings His Hits",
-        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP"
     },
     {
       "added_at": null,

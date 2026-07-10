@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-206 songs - 11 hr 30 min
+207 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Mask of My Own Face](https://open.spotify.com/track/6ibbHAoBrdqJxo345QGumd) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Nature Tapes](https://open.spotify.com/album/4Julje5zwF2IRlSqBOQ2oJ) | 3:30 | 2022-08-01 |  |
 | [Absinthe](https://open.spotify.com/track/4hs2FbesB8qo6H5Berbikd) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [1981 Extended Play](https://open.spotify.com/album/6JmnnC2r3mvEFugTomuxWG) | 3:03 | 2024-10-14 |  |
 | [Affirmation Song](https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 2:06 | 2023-03-26 | 2023-12-14 |
+| [Alien Boy](https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4) | 2:44 | 2026-07-09 |  |
 | [An Unhealthy Obsession](https://open.spotify.com/track/43FkY9svV70r8PmBL7ypUh) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy) | [An Unhealthy Obsession](https://open.spotify.com/album/4mK2uqTY0iz0rNYebd4EDd) | 2:58 | 2023-03-23 |  |
 | [Angeleyes](https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:20 | 2024-09-19 |  |
 | [Artificial Intelligence](https://open.spotify.com/track/3H65hbZNMHDCiFo3vhiAOA) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Artificial Intelligence](https://open.spotify.com/album/0p3PojNPjYC8LHkJCwinTd) | 3:57 | 2022-05-06 | 2026-01-23 |

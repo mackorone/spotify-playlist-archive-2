@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,514 songs - 10 day 1 hr 59 min
+4,516 songs - 10 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2077,7 +2077,8 @@
 | [Just Human](https://open.spotify.com/track/7mZ4brZqkAI08vy4N2up7S) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [Just Human](https://open.spotify.com/album/7gCOnjUhcrGZotRhbydePn) | 3:46 | 2025-02-13 |  |
 | [Just the Thing](https://open.spotify.com/track/0TnbWHg68Z0fLDl4HYV31r) | [Meredith O'Connor](https://open.spotify.com/artist/0uA6tV1ERg5cIWTEIp2gfF) | [I Am](https://open.spotify.com/album/0k77QzqX1NJf5B8anY0Uif) | 2:43 | 2025-03-30 |  |
 | [JUST WAIT](https://open.spotify.com/track/0jn4pFs4qJhAILTDIIUlSb) | [BB](https://open.spotify.com/artist/79IIXXtsmNkpN2btrkbIot) | [MICHAEL 2](https://open.spotify.com/album/4voAERiKo3EYGvhKXJqz5U) | 2:08 | 2026-01-15 |  |
-| [Justice for Lucy Letby](https://open.spotify.com/track/7foZi9ro64GDP1dOrAS6x3) | [Beyond Reasonable Doubt](https://open.spotify.com/artist/4t1WIAA1040hy9mxgOxeiT) | [Justice for Lucy Letby](https://open.spotify.com/album/6g1xo1RvUj8ptweteqI2Hq) | 3:38 | 2026-03-01 |  |
+| [Justice for Lucy Letby](https://open.spotify.com/track/7foZi9ro64GDP1dOrAS6x3) | [BRD Investigations](https://open.spotify.com/artist/5iDvgzPhfxEWwXEjesv0Jn) | [Justice for Lucy Letby](https://open.spotify.com/album/6g1xo1RvUj8ptweteqI2Hq) | 3:38 | 2026-03-01 |  |
+| [Jóvenes Para Siempre Version 1](https://open.spotify.com/track/7p7Ak5S2ebOoIAoo6Q4EJ9) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Jóvenes Para Siempre Version 1](https://open.spotify.com/album/5S1KESzGJLlu0q8UosidFO) | 2:08 | 2026-07-09 |  |
 | [Kaibigang Demonyo](https://open.spotify.com/track/7o8fbvliCukqkMYn8amRWq) | [Labao St.](https://open.spotify.com/artist/03dSlROdmj0TUop0BOQI3H) | [Kaibigang Demonyo](https://open.spotify.com/album/4JEhkJHekEhNrVsOBHgfuE) | 5:52 | 2025-05-30 |  |
 | [Kaos](https://open.spotify.com/track/5Gv6JRKCGzdhBXDyMRMXv0) | [Againstide](https://open.spotify.com/artist/7qEOhbkxfx5d24fF5vEjpI) | [Kaos](https://open.spotify.com/album/3Kk9Jiio0xLE4FOuvY0kvx) | 4:37 | 2025-07-26 |  |
 | [Karpa Koi](https://open.spotify.com/track/5wNaTEXJt42mrir0krH5Z6) | [Ksv Sirius](https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF) | [Karpa Koi](https://open.spotify.com/album/4G1JLl7b1jjnjAlNyu9Tzb) | 1:57 | 2025-12-25 |  |
@@ -3065,6 +3066,7 @@
 | [Prismas](https://open.spotify.com/track/3OQis5k4SYXnQLHhjwfx9X) | [Nauj Project](https://open.spotify.com/artist/4g6e6FnWWi0oQGhHxkn9Jd) | [Dimensiones Paralelas](https://open.spotify.com/album/2OZKVMsaCv9vqfLAyO36hm) | 2:17 | 2026-04-13 |  |
 | [Privè](https://open.spotify.com/track/0RjAyL2wEfsFC0QeawwQ6M) | [AdhamFreeze](https://open.spotify.com/artist/59gnqNSxvDNpLnC9JrieXx), [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [Privè](https://open.spotify.com/album/53sajGgg9GM2oqEdOqG24N) | 2:20 | 2025-06-08 |  |
 | [Pro Open \(with BabyTron\)](https://open.spotify.com/track/5ZbgdzZ2TTxAbw79rkv9yn) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Pro Open \(with BabyTron\)](https://open.spotify.com/album/4m61LpV2q52yTJaorVVJR7) | 2:25 | 2025-07-28 |  |
+| [Problem Attic](https://open.spotify.com/track/2WdhOSqLFJLIb6og648nWv) | [The Spent Priests](https://open.spotify.com/artist/2gl2xRe5bzXRRluzAT1CdV) | [Problem Attic](https://open.spotify.com/album/31ciiu7Y3I0bO7M3Rb4q9m) | 3:53 | 2026-07-09 |  |
 | [Progression](https://open.spotify.com/track/7n10SATemReHLWUwmZS5VC) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Machine Yearning EP](https://open.spotify.com/album/7HBzPwXdizTOmjuEGCF9Bx) | 2:46 | 2025-12-04 |  |
 | [Prove Me Wrong](https://open.spotify.com/track/3GTKf1bCmgrU8MfRuIidFd) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [FOR CHARLIE](https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23) | 4:58 | 2026-04-13 |  |
 | [Prove Me Wrong oh](https://open.spotify.com/track/4oHVDuBb8IiioAg7odIgnJ) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [FOR CHARLIE](https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23) | 3:49 | 2026-04-13 |  |

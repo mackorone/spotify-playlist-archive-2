@@ -6,7 +6,7 @@
     "name": "Melody",
     "url": "https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih"
   },
-  "snapshot_id": "AAABfz0dEqaQ9dkZUhdlNKYTUxeCo97U",
+  "snapshot_id": "AAABgEKdueYxVQbBRcNro5rHb9zepwHd",
   "tracks": [
     {
       "added_at": "2020-03-11 15:33:22",
@@ -10151,6 +10151,26 @@
       "duration_ms": 240000,
       "name": "Missing Voices",
       "url": "https://open.spotify.com/track/3N9XjYjs2PH07aY9Nwhz1A"
+    },
+    {
+      "added_at": "2026-07-09 04:50:05",
+      "album": {
+        "name": "Secret Level",
+        "url": "https://open.spotify.com/album/5q0ZYZXvNOMPSUIoDxHPCd"
+      },
+      "artists": [
+        {
+          "name": "No Mana",
+          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
+        },
+        {
+          "name": "Jantine",
+          "url": "https://open.spotify.com/artist/3Hlhy5mpM8cT1Guv1GOhQG"
+        }
+      ],
+      "duration_ms": 283124,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/7lTwzE6Pa0BI9O1ok3KYZW"
     }
   ],
   "unique_name": "Projekt Melody Official Playlist",

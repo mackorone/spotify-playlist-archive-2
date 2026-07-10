@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 711933,
+  "num_followers": 712033,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAABMCTcFzQzgwRsLnxQ/nw0/",
+  "snapshot_id": "ak2TAAAAAADgOokgllFdvfSVNRdym3yX",
   "tracks": [
     {
       "added_at": null,
@@ -75,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 235771,
+      "name": "Danceteria",
+      "url": "https://open.spotify.com/track/3a49TEtsbeAgzZAQH9WiDZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bring Your Love",
         "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
       },
@@ -119,22 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CONFESSIONS II",
-        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 235771,
-      "name": "Danceteria",
-      "url": "https://open.spotify.com/track/3a49TEtsbeAgzZAQH9WiDZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like a Virgin",
         "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
@@ -147,6 +147,22 @@
       "duration_ms": 240706,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/7bkyXSi4GtVfD7itZRUR3e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 263469,
+      "name": "One Step Away",
+      "url": "https://open.spotify.com/track/7eidNIYy4hPOlGioM7jBwx"
     },
     {
       "added_at": null,
@@ -191,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CONFESSIONS II",
-        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 263469,
-      "name": "One Step Away",
-      "url": "https://open.spotify.com/track/7eidNIYy4hPOlGioM7jBwx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like a Virgin",
         "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
@@ -219,6 +219,22 @@
       "duration_ms": 218626,
       "name": "Like a Virgin",
       "url": "https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 188359,
+      "name": "Good For The Soul",
+      "url": "https://open.spotify.com/track/03D2TnaZuwlddRTh7P6Mq5"
     },
     {
       "added_at": null,
@@ -255,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CONFESSIONS II",
-        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 188359,
-      "name": "Good For The Soul",
-      "url": "https://open.spotify.com/track/03D2TnaZuwlddRTh7P6Mq5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
       },
@@ -283,6 +283,26 @@
       "duration_ms": 370426,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "duration_ms": 245264,
+      "name": "Bizarre",
+      "url": "https://open.spotify.com/track/15RhivSFgiIWYugV2FqV5I"
     },
     {
       "added_at": null,
@@ -319,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CONFESSIONS II",
-        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        }
-      ],
-      "duration_ms": 245264,
-      "name": "Bizarre",
-      "url": "https://open.spotify.com/track/15RhivSFgiIWYugV2FqV5I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confessions on a Dance Floor",
         "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
@@ -351,38 +351,6 @@
       "duration_ms": 238560,
       "name": "Jump",
       "url": "https://open.spotify.com/track/5hmRhU6fWzH0NjYmfhHjhp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hung Up (Remixes)",
-        "url": "https://open.spotify.com/album/5tlf5Grqk3ywZqvkEoECd3"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 202720,
-      "name": "Hung Up - Radio Version",
-      "url": "https://open.spotify.com/track/1Mo3b48tkMoOqSqguVrlC6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hard Candy",
-        "url": "https://open.spotify.com/album/7jgBVzMVZuuhaTG5zQ0Vgk"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 245080,
-      "name": "4 Minutes (feat. Justin Timberlake and Timbaland)",
-      "url": "https://open.spotify.com/track/1dDNz8h95Gsu0W4QdxVVln"
     },
     {
       "added_at": null,
@@ -403,6 +371,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hard Candy",
+        "url": "https://open.spotify.com/album/7jgBVzMVZuuhaTG5zQ0Vgk"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 245080,
+      "name": "4 Minutes (feat. Justin Timberlake and Timbaland)",
+      "url": "https://open.spotify.com/track/1dDNz8h95Gsu0W4QdxVVln"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hung Up (Remixes)",
+        "url": "https://open.spotify.com/album/5tlf5Grqk3ywZqvkEoECd3"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 202720,
+      "name": "Hung Up - Radio Version",
+      "url": "https://open.spotify.com/track/1Mo3b48tkMoOqSqguVrlC6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ray of Light",
         "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
       },
@@ -415,6 +415,22 @@
       "duration_ms": 251160,
       "name": "The Power of Good-Bye",
       "url": "https://open.spotify.com/track/01VFDkHBNJcCNUjzD3flWg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 227248,
+      "name": "Love Sensation",
+      "url": "https://open.spotify.com/track/1ViHUUTbkDgS9iyLmWgIYt"
     },
     {
       "added_at": null,
@@ -451,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CONFESSIONS II",
-        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
       "artists": [
         {
@@ -460,9 +476,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 260993,
-      "name": "Love Without Words",
-      "url": "https://open.spotify.com/track/0LQrDtj0l5Y0CZ59ZWDXTd"
+      "duration_ms": 315466,
+      "name": "Get Together",
+      "url": "https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a"
     },
     {
       "added_at": null,
@@ -495,22 +511,6 @@
       "duration_ms": 321360,
       "name": "Take a Bow",
       "url": "https://open.spotify.com/track/5oqukcHWfqq7HGjyKwLX1y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 315466,
-      "name": "Get Together",
-      "url": "https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who's That Girl Soundtrack",
-        "url": "https://open.spotify.com/album/21vHnROXDZY51gJxsjTLXZ"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 239173,
-      "name": "Who's That Girl",
-      "url": "https://open.spotify.com/track/3G0NNqwQ1sqRpySr6soHlH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sorry (with Madonna)",
         "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 161627,
       "name": "Sorry (with Madonna)",
       "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who's That Girl Soundtrack",
+        "url": "https://open.spotify.com/album/21vHnROXDZY51gJxsjTLXZ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "Who's That Girl",
+      "url": "https://open.spotify.com/track/3G0NNqwQ1sqRpySr6soHlH"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard Candy",
-        "url": "https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 287906,
-      "name": "Give It 2 Me",
-      "url": "https://open.spotify.com/track/59qPP8coY8EWIQ9nQDThui"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confessions on a Dance Floor",
         "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 301880,
       "name": "Future Lovers",
       "url": "https://open.spotify.com/track/0amQzI3QzlkNzlUQSLxGOP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hard Candy",
+        "url": "https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 287906,
+      "name": "Give It 2 Me",
+      "url": "https://open.spotify.com/track/59qPP8coY8EWIQ9nQDThui"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebration (Deluxe Version)",
-        "url": "https://open.spotify.com/album/28Ts8e6rqdmSPH6itDV4KP"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Express Yourself",
-      "url": "https://open.spotify.com/track/4AJflRLCvU0qtZQnVUq5l1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confessions on a Dance Floor",
         "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
@@ -839,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebration (Remixes)",
-        "url": "https://open.spotify.com/album/08ultWv4w3KP7wJ6LQtU2t"
+        "name": "Celebration (Deluxe Version)",
+        "url": "https://open.spotify.com/album/28Ts8e6rqdmSPH6itDV4KP"
       },
       "artists": [
         {
@@ -848,9 +832,37 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 215133,
-      "name": "Celebration",
-      "url": "https://open.spotify.com/track/1MQTYbCmC1IvL94JtGB33E"
+      "duration_ms": 239093,
+      "name": "Express Yourself",
+      "url": "https://open.spotify.com/track/4AJflRLCvU0qtZQnVUq5l1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
+        "url": "https://open.spotify.com/album/6smIdnnGseiA4jiEcOjcic"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        }
+      ],
+      "duration_ms": 250280,
+      "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
+      "url": "https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa"
     }
   ],
   "unique_name": "This Is Madonna",

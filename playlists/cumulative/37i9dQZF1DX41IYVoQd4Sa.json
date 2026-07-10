@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Something New",
+        "url": "https://open.spotify.com/album/2t1Vcdz9jrp1I6qSjN76Di"
+      },
+      "artists": [
+        {
+          "name": "Amalia Small",
+          "url": "https://open.spotify.com/artist/4lXSnNZ4n54sSMFfedgxhc"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250600,
+      "name": "Kinder",
+      "url": "https://open.spotify.com/track/19bc0sQFWkTr9Wp8sfLrf3"
+    },
+    {
+      "album": {
         "name": "La fille pas cool",
         "url": "https://open.spotify.com/album/6wCELjVWWrKuo0HjjWBFjs"
       },
@@ -2472,7 +2490,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 159413,
       "name": "What Friends Are For",
       "url": "https://open.spotify.com/track/29Hx1Xq5BrQ73NmPr3fBUG"
@@ -4560,7 +4578,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 237169,
       "name": "\u05d4\u05ea\u05d9\u05d9\u05d0\u05e9\u05ea\u05d9 \u05de\u05d4\u05d7\u05d5\u05dd",
       "url": "https://open.spotify.com/track/7nMTSGSMOQlAmnPanQqAE5"
@@ -5194,6 +5212,24 @@
       "duration_ms": 202280,
       "name": "\u05d9\u05d5\u05e0\u05ea\u05df (\u05d1\u05de\u05e7\u05d5\u05dd \u05d4\u05d6\u05d4)",
       "url": "https://open.spotify.com/track/3O3oZsTb905EMoryJyybhF"
+    },
+    {
+      "album": {
+        "name": "\u05e2\u05d3 \u05e9\u05ea\u05e6\u05d0 \u05d4\u05e7\u05e9\u05ea",
+        "url": "https://open.spotify.com/album/5CJaMNIMZ6OKMOUFqANmiV"
+      },
+      "artists": [
+        {
+          "name": "\u05e8\u05d5\u05e0\u05d9 \u05d1\u05e8 \u05d4\u05d3\u05e1",
+          "url": "https://open.spotify.com/artist/5OZeMBvHIGYKnOg3WfBQ44"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188613,
+      "name": "\u05d9\u05d5\u05e6\u05d0\u05ea \u05de\u05d4\u05e2\u05d9\u05e8",
+      "url": "https://open.spotify.com/track/6sBH7Vy6LkWe1mz5zUQxQC"
     },
     {
       "album": {
@@ -6669,6 +6705,28 @@
     },
     {
       "album": {
+        "name": "\u05d1\u05d7\u05d6\u05e8\u05d4 \u05dc\u05e9\u05d1\u05dc\u05d5\u05dc - \u05e6\u05d3 \u05e0\u05d5\u05e1\u05e3",
+        "url": "https://open.spotify.com/album/5ArghaNMlcUd6Qlh64FfQE"
+      },
+      "artists": [
+        {
+          "name": "Rockfour",
+          "url": "https://open.spotify.com/artist/79yGLYvB762fzc956hwpza"
+        },
+        {
+          "name": "Maor Cohen",
+          "url": "https://open.spotify.com/artist/2vPzfdWIYB3zCD8qEIvMM0"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "\u05de\u05e6\u05d9\u05e6\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/1iP2IpPoc0dv0n8mkIkblS"
+    },
+    {
+      "album": {
         "name": "\u05de\u05e8\u05d0\u05d4 \u05dc\u05d9 \u05d0\u05ea \u05d4\u05e9\u05e7\u05d8",
         "url": "https://open.spotify.com/album/4BeqL7VHszyjTMarotAZBI"
       },
@@ -7454,7 +7512,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 197800,
       "name": "\u05e2\u05e9\u05e8\u05d9\u05dd \u05d5\u05d0\u05e8\u05d1\u05e2",
       "url": "https://open.spotify.com/track/17uYGvQeP3X798baO6gl1L"
@@ -7774,6 +7832,24 @@
       "duration_ms": 232000,
       "name": "\u05e7\u05e9\u05d4 \u05dc\u05d0\u05d4\u05d5\u05d1",
       "url": "https://open.spotify.com/track/7BNMlLhlsC1BejJU0IBOGU"
+    },
+    {
+      "album": {
+        "name": "\u05db\u05d1\u05d3 \u05dc\u05d9",
+        "url": "https://open.spotify.com/album/18HIP8GSxtmQqSUFezgrx7"
+      },
+      "artists": [
+        {
+          "name": "Jenny Penkin",
+          "url": "https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "\u05e8\u05e2\u05d1\u05d4 \u05db\u05dc \u05d4\u05d6\u05de\u05df",
+      "url": "https://open.spotify.com/track/6pO2AfrI20RY1JrBtlE1WS"
     },
     {
       "album": {
@@ -8298,7 +8374,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 210620,
       "name": "\u05ea\u05e4\u05d9\u05dc\u05d4",
       "url": "https://open.spotify.com/track/4jQ5ypwCpPiu5oqPHwy2SY"

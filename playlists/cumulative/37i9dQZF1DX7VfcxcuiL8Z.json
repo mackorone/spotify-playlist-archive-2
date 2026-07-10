@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best in new rock. Cover: BIG NOTER",
+  "description": "The best in new rock. Cover: The Rolling Stones",
   "name": "Rock Out.",
   "tracks": [
     {
@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "Beaches In Tennessee",
+        "url": "https://open.spotify.com/album/4AB0To8YbkXhU8VHDdiEDQ"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196440,
+      "name": "Beaches In Tennessee",
+      "url": "https://open.spotify.com/track/20TOJbuP4XyGBEFbwB8Vbm"
+    },
+    {
+      "album": {
         "name": "Beat A B!tch Up",
         "url": "https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2"
       },
@@ -2081,6 +2099,28 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/07uewP6C55i9uDV9B2kdoy"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189677,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0OgIjOcARxnYgm5iL5P6AA"
+    },
+    {
+      "album": {
         "name": "Coal Dust",
         "url": "https://open.spotify.com/album/4VaI6BZB9ayjqCRp3KRb6z"
       },
@@ -2680,6 +2720,24 @@
       "duration_ms": 289424,
       "name": "dirty wedding dress",
       "url": "https://open.spotify.com/track/75GyGLjB9yFLTVltUlDVKI"
+    },
+    {
+      "album": {
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/2itfvUrApVCygurzgNzXJg"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191746,
+      "name": "Do What's Right (Happy)",
+      "url": "https://open.spotify.com/track/0uRZ0XwepbMqdPXohjdYj4"
     },
     {
       "album": {
@@ -3590,7 +3648,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 222957,
       "name": "Forever/Always",
       "url": "https://open.spotify.com/track/1MoRo6wa0WcfjlOcutsnui"
@@ -3770,7 +3828,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 223762,
       "name": "G.O.D. And The Broken Ribs",
       "url": "https://open.spotify.com/track/21UKOMGmKw9bqoHq7p9woU"
@@ -5001,6 +5059,24 @@
     },
     {
       "album": {
+        "name": "I Feel Hope Coming",
+        "url": "https://open.spotify.com/album/1lnUiFfaZhH6YHZpeWzyBZ"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311686,
+      "name": "I Feel Hope Coming",
+      "url": "https://open.spotify.com/track/6yFkQeeTv3DDhTQynN2WVV"
+    },
+    {
+      "album": {
         "name": "I Forgot To Be Your Lover",
         "url": "https://open.spotify.com/album/0QfT7WOAHM5CPZPL9ci2E1"
       },
@@ -5066,7 +5142,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 133537,
       "name": "I Know (In The End)",
       "url": "https://open.spotify.com/track/1uYOte1ZH6iaXiUcw8E5DX"
@@ -5326,7 +5402,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 253266,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91"
@@ -5420,6 +5496,24 @@
       "duration_ms": 180697,
       "name": "Invisible Man",
       "url": "https://open.spotify.com/track/3rq59yNoeIyvs8yk050BxQ"
+    },
+    {
+      "album": {
+        "name": "Iron City",
+        "url": "https://open.spotify.com/album/5bDculEme7GI0So0fOO6sg"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Iron City",
+      "url": "https://open.spotify.com/track/7o9gwmscHBXh6sUEYkWQ4e"
     },
     {
       "album": {
@@ -6875,6 +6969,24 @@
     },
     {
       "album": {
+        "name": "Foreign Tongues",
+        "url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274061,
+      "name": "Mr Charm",
+      "url": "https://open.spotify.com/track/7FNkY47xx3oKTjr5tk5m8k"
+    },
+    {
+      "album": {
         "name": "My Baby's Place",
         "url": "https://open.spotify.com/album/2SStqgA0tGcHofhYKgvyig"
       },
@@ -7002,6 +7114,24 @@
       "duration_ms": 160960,
       "name": "N.O.V.A",
       "url": "https://open.spotify.com/track/7u2yyIyLLMGyAuFrAHRbm6"
+    },
+    {
+      "album": {
+        "name": "Frozen Charlotte",
+        "url": "https://open.spotify.com/album/0VV4lddlDaShTgEzohQ7Jj"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304716,
+      "name": "Neighbors Blues",
+      "url": "https://open.spotify.com/track/3Gbadm56klrQ11LCPsyy7z"
     },
     {
       "album": {
@@ -7196,7 +7326,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 247144,
       "name": "Nightshift Superstar",
       "url": "https://open.spotify.com/track/0ysOBzp8xSrbDenht9mQ9C"
@@ -7766,7 +7896,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 259495,
       "name": "Opening Night",
       "url": "https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB"
@@ -8022,7 +8152,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 192071,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/5sZqrPVsomozAx6QnyD996"
@@ -8697,6 +8827,24 @@
     },
     {
       "album": {
+        "name": "Sungazer",
+        "url": "https://open.spotify.com/album/2N4iGvv8PwZdJQL3rNQlrh"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259834,
+      "name": "Runaways",
+      "url": "https://open.spotify.com/track/3fQLQSOhijzOC6W1NPhYle"
+    },
+    {
+      "album": {
         "name": "Russian Roulette",
         "url": "https://open.spotify.com/album/1D0knXchRfzVXkQWc6fSZs"
       },
@@ -9213,6 +9361,24 @@
     },
     {
       "album": {
+        "name": "Sleep In It",
+        "url": "https://open.spotify.com/album/3fnZ1zAEH8WxcdeTMHMp6v"
+      },
+      "artists": [
+        {
+          "name": "C.O.F.F.I.N",
+          "url": "https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179133,
+      "name": "Sleep In It",
+      "url": "https://open.spotify.com/track/4LrsCVVKPgJrGbEukJl8EF"
+    },
+    {
+      "album": {
         "name": "DEADBEAT!",
         "url": "https://open.spotify.com/album/3Gj628skEWhuPGYdm4hcEi"
       },
@@ -9260,7 +9426,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 241483,
       "name": "Slumber Party",
       "url": "https://open.spotify.com/track/1HG6WZVTLQQh6VmEojUMM0"
@@ -9681,6 +9847,42 @@
     },
     {
       "album": {
+        "name": "Stray Dogs",
+        "url": "https://open.spotify.com/album/6wwFB0YmjCiqCwyrQVXAkU"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323605,
+      "name": "Stray Dogs",
+      "url": "https://open.spotify.com/track/2PPfvgdNJqXzHjg61y9AWh"
+    },
+    {
+      "album": {
+        "name": "Street Of Dreams",
+        "url": "https://open.spotify.com/album/1ivlBe4lilutfAmOoQWxxS"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234657,
+      "name": "Street Of Dreams",
+      "url": "https://open.spotify.com/track/70X6SFkjCUZ0nRBUGXddTn"
+    },
+    {
+      "album": {
         "name": "Pacific Highway Music",
         "url": "https://open.spotify.com/album/3Gj02Upr1O1ojSMzE0Jtd3"
       },
@@ -9984,7 +10186,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 289801,
       "name": "Tell Me It Ain't Over",
       "url": "https://open.spotify.com/track/50m3JU4UKyu1pr4y7jWjfg"
@@ -10532,7 +10734,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 257693,
       "name": "These Arms",
       "url": "https://open.spotify.com/track/1xcBiYE5Jt8fynhe9ehVKt"
@@ -11676,7 +11878,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 168552,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi"

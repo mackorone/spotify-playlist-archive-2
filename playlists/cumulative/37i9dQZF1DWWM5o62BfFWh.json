@@ -777,6 +777,24 @@
     },
     {
       "album": {
+        "name": "El de Pi",
+        "url": "https://open.spotify.com/album/33DrhmxhAI9WShK28kXB9H"
+      },
+      "artists": [
+        {
+          "name": "El Chulo",
+          "url": "https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196472,
+      "name": "El de Pi",
+      "url": "https://open.spotify.com/track/4yAy8MUMIx030A5nS7XHDG"
+    },
+    {
+      "album": {
         "name": "El Doggy (feat. Ovi & Randy) [Perreo]",
         "url": "https://open.spotify.com/album/2S5Py3y97OSaYRs8Fzldv9"
       },
@@ -3270,7 +3288,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 135144,
       "name": "Se fue la luz",
       "url": "https://open.spotify.com/track/7f8KdL9B6uHqY27efMe9SI"

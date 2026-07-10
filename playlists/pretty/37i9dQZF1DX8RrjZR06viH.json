@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf31\ud83c\udf38\ud83c\udf3e\ud83c\udf3c\n",
-  "num_followers": 158910,
+  "num_followers": 158896,
   "original_name": "v\u00e5r i lufta",
   "owner": {
     "name": "Spotify",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Gro Harlem Brundtland",
-        "url": "https://open.spotify.com/album/7hNyb9KXnAjTUQbnLpfOIN"
-      },
-      "artists": [
-        {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 168390,
-      "name": "Gro Harlem Brundtland",
-      "url": "https://open.spotify.com/track/4I1wa2UEneXOOwS25Sy5p7"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
         "name": "I\u2019m Still - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5W72esMYrAOYLedSAb3Enl"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 159806,
       "name": "I'm Still - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5TAOdwZGUDfbgb9oohIDwT"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
+        "name": "Gro Harlem Brundtland",
+        "url": "https://open.spotify.com/album/7hNyb9KXnAjTUQbnLpfOIN"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 168390,
+      "name": "Gro Harlem Brundtland",
+      "url": "https://open.spotify.com/track/4I1wa2UEneXOOwS25Sy5p7"
     },
     {
       "added_at": "2026-05-22 07:11:08",

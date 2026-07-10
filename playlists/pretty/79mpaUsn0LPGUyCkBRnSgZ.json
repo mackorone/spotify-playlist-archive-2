@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAJTlDVW6np4Gujh/XFQrFrzA908fYO",
+  "snapshot_id": "AAAJUgsJk7bOM6s8c7m4wY+mvsbnP/qU",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -12547,6 +12547,74 @@
       "duration_ms": 256360,
       "name": "PS Exclusive",
       "url": "https://open.spotify.com/track/4D0geK6VcQ7pmNG046WKbx"
+    },
+    {
+      "added_at": "2026-07-09 13:29:26",
+      "album": {
+        "name": "We Got A Love",
+        "url": "https://open.spotify.com/album/5B9BJSRl2PBD9mC4XFNkTt"
+      },
+      "artists": [
+        {
+          "name": "Shit Robot",
+          "url": "https://open.spotify.com/artist/2ZvXaOrinJFZDexa3fWqMZ"
+        },
+        {
+          "name": "Reggie Watts",
+          "url": "https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx"
+        }
+      ],
+      "duration_ms": 408666,
+      "name": "The Secret",
+      "url": "https://open.spotify.com/track/6LAepKExhN0A45tBFiDFoC"
+    },
+    {
+      "added_at": "2026-07-09 13:29:38",
+      "album": {
+        "name": "Mean Love",
+        "url": "https://open.spotify.com/album/6GemHEGZs6e9tgyWfGMDHo"
+      },
+      "artists": [
+        {
+          "name": "Sinkane",
+          "url": "https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w"
+        }
+      ],
+      "duration_ms": 257278,
+      "name": "How We Be",
+      "url": "https://open.spotify.com/track/5jJu4fSQ360D0THFAu9iX6"
+    },
+    {
+      "added_at": "2026-07-09 13:29:51",
+      "album": {
+        "name": "The Crystal Ark",
+        "url": "https://open.spotify.com/album/5WzGXuD9LH8bf9LILLllNm"
+      },
+      "artists": [
+        {
+          "name": "The Crystal Ark",
+          "url": "https://open.spotify.com/artist/1mLxp9dyQX4cPjduUnlC3z"
+        }
+      ],
+      "duration_ms": 339946,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/3gep63eS5f6oLoEEDol52l"
+    },
+    {
+      "added_at": "2026-07-09 13:30:03",
+      "album": {
+        "name": "Museum Of Love (10th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/5IFnvmXwn0fgNZo8SlgkJH"
+      },
+      "artists": [
+        {
+          "name": "Museum Of Love",
+          "url": "https://open.spotify.com/artist/2nIzOTNOvPxPlgzB4GQHPc"
+        }
+      ],
+      "duration_ms": 54226,
+      "name": "Horizontalator",
+      "url": "https://open.spotify.com/track/7e0txSRbMf7qaSixVhBFLP"
     }
   ],
   "unique_name": "Zacklog",

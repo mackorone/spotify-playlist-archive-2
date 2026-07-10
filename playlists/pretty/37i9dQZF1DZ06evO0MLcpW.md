@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0MLcpW.md) - [plain]
 
 > This is Aventura\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,405 likes - 40 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,476 likes - 40 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0MLcpW.md) - [plain]
 | 34 | [Inmortal \- Live From MetLife Stadium](https://open.spotify.com/track/3f9SWkabRYCU8jLZdEUpWD) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Inmortal \(Live From MetLife Stadium\)](https://open.spotify.com/album/6N5QFzqqBBMHyZXebyqRnv) | 5:10 |
 | 35 | [Alexandra](https://open.spotify.com/track/5KGRgP2TIoQy5JGi5MFm7Z) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 4:05 |
 | 36 | [Defa Vú](https://open.spotify.com/track/1x27vVrC2P7WPlW2tCsjGu) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Love & Hate](https://open.spotify.com/album/2Z9tU5T5Xad6u4rTGjZIy7) | 4:24 |
-| 37 | [Controversia](https://open.spotify.com/track/2SnqFQaxOxkLmUDpk7Z4mi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 3:54 |
-| 38 | [My Voy \- Live](https://open.spotify.com/track/2YYqOY94VWoSl5XewubU9w) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Todavía Me Amas: Lo Mejor de Aventura \(Deluxe Edition\)](https://open.spotify.com/album/2KAFZKOzlkk0wOI1XdoO0q) | 4:25 |
+| 37 | [My Voy \- Live](https://open.spotify.com/track/2YYqOY94VWoSl5XewubU9w) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Todavía Me Amas: Lo Mejor de Aventura \(Deluxe Edition\)](https://open.spotify.com/album/2KAFZKOzlkk0wOI1XdoO0q) | 4:25 |
+| 38 | [Controversia](https://open.spotify.com/track/2SnqFQaxOxkLmUDpk7Z4mi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 3:54 |
 | 39 | [Amor Bonito \(Novela 2\)](https://open.spotify.com/track/6vw2D0AeWBSJhJi0OrnudX) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 3:37 |
 | 40 | [No Lo Perdona Dios](https://open.spotify.com/track/5ERhiZwEhNFIeXEG6RstN9) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 4:32 |
 
-Snapshot ID: `akrwAAAAAAAE0TtMSVjTinSqdYPduAXa`
+Snapshot ID: `ak2TAAAAAAAl+MapqNU12z4xnP5s/yrc`

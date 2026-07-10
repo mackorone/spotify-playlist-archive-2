@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & Hottest K-Hip Hop is here. (Cover: Keyveatz)",
+  "description": "New & Hottest K-Hip Hop is here. (Cover: Keith Ape)",
   "name": "KrOWN",
   "tracks": [
     {
@@ -2024,7 +2024,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 166285,
       "name": "AH AH (feat. Sik-K)",
       "url": "https://open.spotify.com/track/12A7D36p9PqK66yVlfpYa4"
@@ -2282,7 +2282,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 168000,
       "name": "ALBATROSS",
       "url": "https://open.spotify.com/track/0ErbwCsSL8LZGhpc2BzRtH"
@@ -2602,7 +2602,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 192179,
       "name": "Ambition",
       "url": "https://open.spotify.com/track/5oxIQwbWIvAIYDmB2K8E6j"
@@ -2800,7 +2800,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 197547,
       "name": "ANTIHERO",
       "url": "https://open.spotify.com/track/3l9XcrPZwg37swSJD3AmcC"
@@ -6300,7 +6300,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 176371,
       "name": "BUZZIN (Feat. Coogie, GRAY)",
       "url": "https://open.spotify.com/track/2xaQzu6vkA5SUNrJUTFuJI"
@@ -6424,7 +6424,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 155322,
       "name": "Came Back to Seoul",
       "url": "https://open.spotify.com/track/0jk5JK382O7qYfXDhh2qrf"
@@ -6570,7 +6570,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 177021,
       "name": "CASH IN",
       "url": "https://open.spotify.com/track/7HSDkaGuQUW9eHDNEhWswI"
@@ -6830,6 +6830,28 @@
       "duration_ms": 139494,
       "name": "CHANEL N.5",
       "url": "https://open.spotify.com/track/7pwgbW5Njwg6YQlZeLkR1t"
+    },
+    {
+      "album": {
+        "name": "CHAPAGETTI",
+        "url": "https://open.spotify.com/album/2oAuB30rHCO5FiaiqUVpp2"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "CHAPAGETTI (Feat. CHANGMO)",
+      "url": "https://open.spotify.com/track/0Kjx5TP9X2FgrCBSCk756n"
     },
     {
       "album": {
@@ -8696,7 +8718,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 176039,
       "name": "DEAD N BURIED (Feat. G2, Dbo)",
       "url": "https://open.spotify.com/track/3l48VUV51Lz1RbDPtN590k"
@@ -10298,7 +10320,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 146000,
       "name": "DUET",
       "url": "https://open.spotify.com/track/0M4O6UEu4F9SxImTsBuX9n"
@@ -12345,6 +12367,24 @@
     },
     {
       "album": {
+        "name": "FUEGO",
+        "url": "https://open.spotify.com/album/7siffxjW2u4lFcZdhGbIl3"
+      },
+      "artists": [
+        {
+          "name": "Khakii",
+          "url": "https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "FUEGO",
+      "url": "https://open.spotify.com/track/4Rql3jASn0JTx5x6FuH4WB"
+    },
+    {
+      "album": {
         "name": "FUEGO O NADA (feat. BLAS\u00c9, LOOPY, GOLDBUUDA, JUSTHIS & Tiger JK)",
         "url": "https://open.spotify.com/album/7KN4owvMs5yGdnc385WvuD"
       },
@@ -13508,6 +13548,24 @@
       "duration_ms": 111261,
       "name": "GO!",
       "url": "https://open.spotify.com/track/0o4SZSFkZlsDUQr4Gf0aFI"
+    },
+    {
+      "album": {
+        "name": "HERE COMES THE PAIN!",
+        "url": "https://open.spotify.com/album/1IvL6vkXhP0ZtilchQzSbM"
+      },
+      "artists": [
+        {
+          "name": "Keith Ape",
+          "url": "https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118153,
+      "name": "GO! x1000",
+      "url": "https://open.spotify.com/track/0rYHhQulxVzHKclhmIn9WG"
     },
     {
       "album": {
@@ -14706,7 +14764,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 169124,
       "name": "HAHA",
       "url": "https://open.spotify.com/track/0HIbRmDQZAv1FykxLZxsRo"
@@ -17196,7 +17254,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 156000,
       "name": "I QUIT XANNY (feat. Kid Milli)",
       "url": "https://open.spotify.com/track/3Ij2FW1ZdhGpuEDZZTTQDR"
@@ -20304,7 +20362,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 160781,
       "name": "LAKU",
       "url": "https://open.spotify.com/track/5xgBNPHw4s99IIQ9GORN71"
@@ -20862,7 +20920,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 176130,
       "name": "Let's Go (feat. Fleeky Bang)",
       "url": "https://open.spotify.com/track/0Qe1QL74zOCXXsjocELGcJ"
@@ -22034,7 +22092,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 236240,
       "name": "LOV3 (Feat. Bryan Chase, Okasian)",
       "url": "https://open.spotify.com/track/1QC4Ztt2GlFWpdSMLwt5ol"
@@ -24306,7 +24364,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 208495,
       "name": "Moonwalkin'",
       "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
@@ -25326,7 +25384,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 195000,
       "name": "NAMSAN TOWER (feat. LEY)",
       "url": "https://open.spotify.com/track/1DfQw1Y8gpDDeqkOGMIAVY"
@@ -26760,7 +26818,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 181000,
       "name": "nosho",
       "url": "https://open.spotify.com/track/3WvVJUxxd1mDGgMCDY3qsl"
@@ -26936,7 +26994,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 111491,
       "name": "NOW YOU SEE ME",
       "url": "https://open.spotify.com/track/77QbHZn7etLxVt3hLDrQY3"
@@ -29772,7 +29830,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 148000,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/79MExvq75fclMHnLMLHcc1"
@@ -30342,7 +30400,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 195374,
       "name": "real mc",
       "url": "https://open.spotify.com/track/6RYA2FDYHVKJYrQWwHVz5L"
@@ -30380,7 +30438,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 229500,
       "name": "real mc - remix",
       "url": "https://open.spotify.com/track/7Gfo8UL84WtOAR8mqUniTB"
@@ -31620,7 +31678,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 188973,
       "name": "ROSETTA (Feat. MILLI)",
       "url": "https://open.spotify.com/track/3Kf4pY9LwV1cptb4HDNFyk"
@@ -34817,6 +34875,24 @@
     },
     {
       "album": {
+        "name": "Still Hot",
+        "url": "https://open.spotify.com/album/5uLwwJVwMZcSiSe9JbltKP"
+      },
+      "artists": [
+        {
+          "name": "ZENE THE ZILLA",
+          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97714,
+      "name": "Still Hot",
+      "url": "https://open.spotify.com/track/3rFM4EUeGgwVN6fSeE5fqp"
+    },
+    {
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
       },
@@ -35290,6 +35366,24 @@
       "duration_ms": 170323,
       "name": "SUN GOES DOWN (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/1pzMTqvKABFaYYde4coFSg"
+    },
+    {
+      "album": {
+        "name": "707",
+        "url": "https://open.spotify.com/album/0YeYhlJ2UNUEWFmzMZ7TFy"
+      },
+      "artists": [
+        {
+          "name": "Anandelight",
+          "url": "https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136214,
+      "name": "SUNBEAM",
+      "url": "https://open.spotify.com/track/0q4rcjd14I3vgDtlutM1WB"
     },
     {
       "album": {
@@ -37810,7 +37904,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 224397,
       "name": "Too laid back",
       "url": "https://open.spotify.com/track/1ZahPh50rup7FdclZCuDo2"
@@ -37910,7 +38004,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 192000,
       "name": "Touch Down (Feat. ZENE THE ZILLA)",
       "url": "https://open.spotify.com/track/4eY2lXlOtVeki5zuL2jxlG"
@@ -38282,6 +38376,28 @@
       "duration_ms": 200773,
       "name": "Truth hurts (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/7Kpom2pMTS0TxnJBittIFp"
+    },
+    {
+      "album": {
+        "name": "TT",
+        "url": "https://open.spotify.com/album/6Skj8MIjNLrLqq9B8qi9vv"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192592,
+      "name": "TT (feat. Wonstein)",
+      "url": "https://open.spotify.com/track/4HHF5Qiq8BkACweSTH8QHU"
     },
     {
       "album": {
@@ -42173,6 +42289,24 @@
     },
     {
       "album": {
+        "name": "HERE COMES THE PAIN!",
+        "url": "https://open.spotify.com/album/1IvL6vkXhP0ZtilchQzSbM"
+      },
+      "artists": [
+        {
+          "name": "Keith Ape",
+          "url": "https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176538,
+      "name": "WTF?",
+      "url": "https://open.spotify.com/track/7Fnr6YdyGwTB92I1SJNdYD"
+    },
+    {
+      "album": {
         "name": "WYA?",
         "url": "https://open.spotify.com/album/63CcTzpw4kZMJiRhXCCqtE"
       },
@@ -42862,7 +42996,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 186000,
       "name": "You make me crzy",
       "url": "https://open.spotify.com/track/3YSNoXuS7ZV4vpl9KIvA3p"
@@ -42896,7 +43030,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 246184,
       "name": "You Think I Don't Know 2026",
       "url": "https://open.spotify.com/track/16f28nynL2BnxgbOiz0cDn"
@@ -43346,7 +43480,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 116800,
       "name": "\u30a2\u30cb\u30e7\u30cf\u30bb\u30e8",
       "url": "https://open.spotify.com/track/79o6CP5pgfHARPPXRHOcBN"

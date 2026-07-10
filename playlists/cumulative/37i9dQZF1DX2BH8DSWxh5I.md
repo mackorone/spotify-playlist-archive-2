@@ -4,7 +4,7 @@
 
 > Cozy up inside and do absolutely nothing\. Music videos only available on Premium.
 
-31 songs - 2 hr 0 min
+32 songs - 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [I'll Call You Mine](https://open.spotify.com/track/6rYgEHuyhO064Lgj48qlIe) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:21 | 2025-12-09 |  |
 | [I'll Change for You](https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [I'll Change for You](https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL) | 3:16 | 2026-02-17 |  |
 | [June Guitar](https://open.spotify.com/track/1leMmYw98725djni7wSYhq) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 3:52 | 2025-12-09 |  |
+| [Lemon Garland \(Official Video\)](https://open.spotify.com/track/1kY2ZgWxap134uyGTsT8pS) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [Lemon Garland \(Official Video\)](https://open.spotify.com/album/2WOZ6iiA56ebx9E53JWlbE) | 3:20 | 2026-07-09 |  |
 | [Lover, You Should've Come Over](https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:44 | 2025-12-09 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2025-12-09 | 2026-02-18 |
 | [Mykonos](https://open.spotify.com/track/3Ck96jIZdVzpWbbZ6mojsE) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Sun Giant](https://open.spotify.com/album/3vz6xBtlgVdLTRgK1CiPcF) | 4:35 | 2025-12-09 |  |

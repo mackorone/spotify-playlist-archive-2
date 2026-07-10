@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Liviu Teodorescu, Erika Isac",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Florian Rus, Holy Molly",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -126,6 +126,28 @@
       "duration_ms": 222285,
       "name": "33",
       "url": "https://open.spotify.com/track/4LafNv6Vn6XQX8A4XcSmiB"
+    },
+    {
+      "album": {
+        "name": "7 din 7",
+        "url": "https://open.spotify.com/album/4q3iKz4tg5UUxlnpADDq5W"
+      },
+      "artists": [
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        },
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167578,
+      "name": "7 din 7",
+      "url": "https://open.spotify.com/track/0tFGvE5jMG4rl8e0gP71ti"
     },
     {
       "album": {
@@ -528,7 +550,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 196990,
       "name": "All We Are About",
       "url": "https://open.spotify.com/track/1Wqy2bz7nbRly62gKUIDyy"
@@ -1088,7 +1110,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 214230,
       "name": "A\u0219 Fi Iubit-o",
       "url": "https://open.spotify.com/track/0flHTpfogKtmsMmMFCTnso"
@@ -1586,7 +1608,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 153333,
       "name": "Cabluri",
       "url": "https://open.spotify.com/track/3eeGNnaSm8LfwaECerkX3e"
@@ -1630,6 +1652,24 @@
       "duration_ms": 146470,
       "name": "Cancan & Business",
       "url": "https://open.spotify.com/track/7k8MaJlKKJbWfb6x1nwtkv"
+    },
+    {
+      "album": {
+        "name": "Caramela",
+        "url": "https://open.spotify.com/album/34Rqf2STHPVOCs7HuKP30t"
+      },
+      "artists": [
+        {
+          "name": "MIRA",
+          "url": "https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128889,
+      "name": "Caramela",
+      "url": "https://open.spotify.com/track/2rmHmsSXi34pgVJ7YLNblm"
     },
     {
       "album": {
@@ -2156,7 +2196,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 165000,
       "name": "CUM ESTI TU",
       "url": "https://open.spotify.com/track/4P3HhqX7YTeenh0BywMsPR"
@@ -2386,6 +2426,24 @@
       "duration_ms": 153000,
       "name": "C\u0103ma\u0219a",
       "url": "https://open.spotify.com/track/0vabm7nnXssXJehhwT4rzW"
+    },
+    {
+      "album": {
+        "name": "D-Aia Nu Mai Pot Io",
+        "url": "https://open.spotify.com/album/0VI59gjM24VRuzz8rsX8RX"
+      },
+      "artists": [
+        {
+          "name": "Juno",
+          "url": "https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137622,
+      "name": "D-Aia Nu Mai Pot Io",
+      "url": "https://open.spotify.com/track/3KqJyfTsKL0UpamJnJC7Yr"
     },
     {
       "album": {
@@ -3945,6 +4003,32 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1E7MzoTYYi12TXikpXlxrC"
+      },
+      "artists": [
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        },
+        {
+          "name": "Chris Hype",
+          "url": "https://open.spotify.com/artist/6exH5W5q1pR71N77VYff0a"
+        },
+        {
+          "name": "Orchestronic",
+          "url": "https://open.spotify.com/artist/4wOLzdvLBf9m00I0Z2QCYv"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204375,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4rMM6OaUqgYr6eZrFC2TMN"
+    },
+    {
+      "album": {
         "name": "Fricile tale",
         "url": "https://open.spotify.com/album/5ZacYYDztAiu5RZLsIiQ0x"
       },
@@ -3960,6 +4044,24 @@
       "duration_ms": 245393,
       "name": "Fricile tale",
       "url": "https://open.spotify.com/track/0cpJ4uF77qKnSayUiO8q9V"
+    },
+    {
+      "album": {
+        "name": "Full Option",
+        "url": "https://open.spotify.com/album/72dDD3JTVcIBgj3EPZrVyn"
+      },
+      "artists": [
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166875,
+      "name": "Full Option",
+      "url": "https://open.spotify.com/track/6vnbabsIQOkwp12neqpUoG"
     },
     {
       "album": {
@@ -6404,7 +6506,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 166487,
       "name": "Noaptea",
       "url": "https://open.spotify.com/track/3oXWlk7N7M6pOq2BkMBUZc"
@@ -9154,7 +9256,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 156705,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/79072o5btLebMQgax1F555"
@@ -9510,6 +9612,24 @@
       "duration_ms": 156500,
       "name": "Ultima Oar\u0103",
       "url": "https://open.spotify.com/track/3iSyHP5GeSJOsbUwetQ9OR"
+    },
+    {
+      "album": {
+        "name": "Ultima pies\u0103",
+        "url": "https://open.spotify.com/album/7D1EDPwMoZYFOQ8dWKMnzp"
+      },
+      "artists": [
+        {
+          "name": "Ronna Riva",
+          "url": "https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144888,
+      "name": "Ultima pies\u0103",
+      "url": "https://open.spotify.com/track/4dEjwBLsqSSCFiOFULYceF"
     },
     {
       "album": {

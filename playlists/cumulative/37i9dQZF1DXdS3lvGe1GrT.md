@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Ivy Knight
 
-2,137 songs - 5 day 7 hr 47 min
+2,138 songs - 5 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -677,6 +677,7 @@
 | [Flora](https://open.spotify.com/track/4fKAjt8XPW1PzZ60Dal4VZ) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Flora](https://open.spotify.com/album/1MzWFaZYAMa9mmQoHocXUD) | 4:08 | 2023-06-21 | 2024-01-11 |
 | [Florida](https://open.spotify.com/track/7LI0A9HGjw38J0gJZeOqpZ) | [Thomas Dollbaum](https://open.spotify.com/artist/3TBOFVWrSRdDxKjNxBdlKZ) | [Wellswood](https://open.spotify.com/album/0dGArczYsJKL5TqdFyxDyb) | 4:43 | 2022-11-30 | 2023-01-12 |
 | [Florida Honey](https://open.spotify.com/track/1tKyVj4ejDhDfcoOLNXCkp) | [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [This is a Good Sign](https://open.spotify.com/album/6zNW862YjKUX7Iqo5o22nf) | 2:18 | 2023-01-11 | 2023-02-23 |
+| [Florida Water Blues](https://open.spotify.com/track/6vkuBueAxgzQe8dbGumiYF) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Florida Water Blues](https://open.spotify.com/album/7ggqCiAQWXdPYr8PHdbCn6) | 3:44 | 2026-07-09 |  |
 | [Flower](https://open.spotify.com/track/03zy9xJ8UnPLlfzn4bFF3B) | [Hollow Bastion](https://open.spotify.com/artist/7wtsdpC5XVsxap879lzhFV) | [Flower](https://open.spotify.com/album/6UOb7o1P84OvtuBrgiBMz2) | 4:26 | 2026-05-06 |  |
 | [flower bed](https://open.spotify.com/track/53SwRcMOGn4BsXledMvTzT) | [Joei Razook](https://open.spotify.com/artist/7lKfXXpidmX8SAO3cEUrPr) | [flower bed](https://open.spotify.com/album/5ibsh6LBJZ481uwfyjDfvB) | 3:08 | 2023-04-12 | 2023-06-08 |
 | [Flowers Fell](https://open.spotify.com/track/5QnZ9eHpNQhqVvjd7mhFzP) | [Avery Friedman](https://open.spotify.com/artist/7HP0tah3dIBAtu2PKxRYYG) | [Flowers Fell](https://open.spotify.com/album/7ze8W3JJR82KMGHcFl1S3f) | 4:28 | 2024-11-27 | 2024-12-05 |

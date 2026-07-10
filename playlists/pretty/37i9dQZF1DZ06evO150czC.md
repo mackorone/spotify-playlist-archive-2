@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,278 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,280 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,17 +29,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 19 | [Tua Sorte \(Ao Vivo\)](https://open.spotify.com/track/4vOZsXEbP5AalMYNYxY4j2) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Tua Sorte \(Ao Vivo\)](https://open.spotify.com/album/24pLn2VLpannt8kUm86B8c) | 3:39 |
 | 20 | [Que Tal](https://open.spotify.com/track/1cKmv6Ca3hqonAttrAOH6y) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Nasci Pra Voar](https://open.spotify.com/album/6u8T90oj5FjrcsoljgjmT7) | 5:09 |
 | 21 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:07 |
-| 22 | [Mais Pura Adoração \- Ao Vivo](https://open.spotify.com/track/0G6Nno30Hp3WT12zka4rcz) | [Rachel Malafaia](https://open.spotify.com/artist/1xyrtLIDTu5kRTCvnHgIcJ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Mais Pura Adoração \(Ao Vivo\)](https://open.spotify.com/album/7nlz5DNyubRn9ZZ2M6vIUg) | 8:34 |
-| 23 | [Tira\-me do Vale](https://open.spotify.com/track/3TtolRnx8AHhlb42ZDKPBX) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 4:08 |
+| 22 | [Tira\-me do Vale](https://open.spotify.com/track/3TtolRnx8AHhlb42ZDKPBX) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 4:08 |
+| 23 | [Mais Pura Adoração \- Ao Vivo](https://open.spotify.com/track/0G6Nno30Hp3WT12zka4rcz) | [Rachel Malafaia](https://open.spotify.com/artist/1xyrtLIDTu5kRTCvnHgIcJ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Mais Pura Adoração \(Ao Vivo\)](https://open.spotify.com/album/7nlz5DNyubRn9ZZ2M6vIUg) | 8:34 |
 | 24 | [Sobrevivi \- Live MK 10 MI](https://open.spotify.com/track/2AhWt8NoWzWQOlIj1Ko95B) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Sarah Farias \(Ao Vivo\) \- Live MK 10 MI](https://open.spotify.com/album/0xXezrYxjC5yA7X5i7jiNG) | 4:41 |
 | 25 | [Posso Clamar + Não Pare \(Ao Vivo\)](https://open.spotify.com/track/2aduecse2bIIWbGr1mKlAO) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Posso Clamar + Não Pare \(Ao Vivo\)](https://open.spotify.com/album/1FOnoSgx0KWPzCFzniMiLH) | 6:21 |
-| 26 | [Jesus não se esqueceu de você](https://open.spotify.com/track/7zvrd90Kxt7ueDJvMqjMuL) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 3:49 |
-| 27 | [Jesus Não Esqueceu de Você](https://open.spotify.com/track/6IuN3ae4pAmPXJNsr6p1rj) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 3:40 |
-| 28 | [O Rei da Glória \(Ao Vivo\)](https://open.spotify.com/track/0Mw9rQpLgrucUSCZU8H5cs) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Rei da Glória \(Ao Vivo\)](https://open.spotify.com/album/3PrVbs7hzBdR760BHcO1qW) | 5:27 |
+| 26 | [O Rei da Glória \(Ao Vivo\)](https://open.spotify.com/track/0Mw9rQpLgrucUSCZU8H5cs) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Rei da Glória \(Ao Vivo\)](https://open.spotify.com/album/3PrVbs7hzBdR760BHcO1qW) | 5:27 |
+| 27 | [Jesus não se esqueceu de você](https://open.spotify.com/track/7zvrd90Kxt7ueDJvMqjMuL) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 3:49 |
+| 28 | [Jesus Não Esqueceu de Você](https://open.spotify.com/track/6IuN3ae4pAmPXJNsr6p1rj) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 3:40 |
 | 29 | [Quem Me Tocou \(Ao Vivo\)](https://open.spotify.com/track/6vonokUeMLYePK8oznQMCD) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Quem Me Tocou \(Ao Vivo\)](https://open.spotify.com/album/3NISHwhL3IJcTfETLbsvK2) | 4:53 |
 | 30 | [Eu Vim Te Adorar](https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:37 |
-| 31 | [Aguente, Guerreiro](https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Aguente, Guerreiro](https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9) | 5:07 |
-| 32 | [Vai Ter Vida Aí](https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vai Ter Vida Aí](https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX) | 4:30 |
+| 31 | [Vai Ter Vida Aí](https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vai Ter Vida Aí](https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX) | 4:30 |
+| 32 | [Aguente, Guerreiro](https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Aguente, Guerreiro](https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9) | 5:07 |
 | 33 | [O Rei Está Voltando \(Ao Vivo\)](https://open.spotify.com/track/6zB5D61eW6SxQWGXn8jzle) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:33 |
 | 34 | [O Preço Foi de Sangue](https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:36 |
 | 35 | [Enquanto a Igreja Ora \(Ao Vivo\)](https://open.spotify.com/track/1enVGeqBhDbv80eDqbBAkh) | [Família Cavalcanty](https://open.spotify.com/artist/68ClCwCtcofBZISAuAB5NU), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Enquanto a Igreja Ora \(Ao Vivo\)](https://open.spotify.com/album/6YRM1eHk7l5y80liFJCdOr) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 49 | [Guarda de Israel \(Ao Vivo\)](https://open.spotify.com/track/6Uo6Cs3BIRUGt3hvvCE6Tz) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Guarda de Israel \(Ao Vivo\)](https://open.spotify.com/album/5A77N7VrbxqnMAZ75mVBP9) | 3:46 |
 | 50 | [Não Está Nada Perdido \(Ao Vivo\)](https://open.spotify.com/track/57NfFc3A5Dwn2TvAwvYkKh) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Está Nada Perdido \(Ao Vivo\)](https://open.spotify.com/album/5rTzbVeGpTUM2B1VzKMRSb) | 4:32 |
 
-Snapshot ID: `akrwAAAAAAAxFyi4KylpWT8/0kWYi7T4`
+Snapshot ID: `ak2TAAAAAAAkEqqWzYuOGnPguJhfl6gv`

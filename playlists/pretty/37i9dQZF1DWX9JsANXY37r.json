@@ -299,6 +299,22 @@
     {
       "added_at": "2026-07-03 14:12:22",
       "album": {
+        "name": "my future",
+        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 208155,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
+    },
+    {
+      "added_at": "2026-07-03 14:12:22",
+      "album": {
         "name": "STELLA & STEVE",
         "url": "https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 223480,
       "name": "Supalonely",
       "url": "https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw"
-    },
-    {
-      "added_at": "2026-07-03 14:12:22",
-      "album": {
-        "name": "my future",
-        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 208155,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
     },
     {
       "added_at": "2026-07-03 14:12:22",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-07-03 14:12:22",
       "album": {
+        "name": "Offering",
+        "url": "https://open.spotify.com/album/2KrpEIIVUU7AMtTsCOzkAj"
+      },
+      "artists": [
+        {
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Hurry Hurry",
+      "url": "https://open.spotify.com/track/4BGA7VW330Eu1kaFNi98cG"
+    },
+    {
+      "added_at": "2026-07-03 14:12:22",
+      "album": {
         "name": "Tons de Marrom",
         "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 291900,
       "name": "Love Me Right",
       "url": "https://open.spotify.com/track/2xWVD6aecDSHroyPVVcPpa"
-    },
-    {
-      "added_at": "2026-07-03 14:12:22",
-      "album": {
-        "name": "Offering",
-        "url": "https://open.spotify.com/album/2KrpEIIVUU7AMtTsCOzkAj"
-      },
-      "artists": [
-        {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Hurry Hurry",
-      "url": "https://open.spotify.com/track/4BGA7VW330Eu1kaFNi98cG"
     },
     {
       "added_at": "2026-07-03 14:12:22",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover:   Wizkid x Jorja Smith",
+  "description": "Tracks popping off in the Afro scene. Cover: Victony",
   "name": "Afro Station",
   "tracks": [
     {
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 160800,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/7KAwVuShkYlBuZk01dPYmP"
@@ -4620,7 +4620,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 162461,
       "name": "CANADA BREEZE",
       "url": "https://open.spotify.com/track/5qWYxhd84Dj1uSR3GUtpJD"
@@ -5158,7 +5158,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 157922,
       "name": "Chippie",
       "url": "https://open.spotify.com/track/6b1Ub3FXQ0uN4khZKrKCDu"
@@ -12132,7 +12132,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 172171,
       "name": "JAMAIS CHANG\u00c9",
       "url": "https://open.spotify.com/track/5Dp27TXunm7jCjeKU2tyPL"
@@ -13316,6 +13316,24 @@
       "duration_ms": 170917,
       "name": "LA S\u00c9R\u00c9NADE",
       "url": "https://open.spotify.com/track/7qBfOpNYXoBjloQEEjgO31"
+    },
+    {
+      "album": {
+        "name": "Destin\u00e9e Supremacy",
+        "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165784,
+      "name": "La tip\u00e8re",
+      "url": "https://open.spotify.com/track/63JDKTI5MdjUVsqaJ7Rd5O"
     },
     {
       "album": {
@@ -14574,7 +14592,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 130126,
       "name": "LYNA",
       "url": "https://open.spotify.com/track/2ZizTkAYMGtjOXeGCAziZY"
@@ -15828,7 +15846,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 132833,
       "name": "MISS DES MISS",
       "url": "https://open.spotify.com/track/76z3Qyexa0tKqqDnSbqmQw"
@@ -17683,6 +17701,24 @@
     },
     {
       "album": {
+        "name": "Nu Ten",
+        "url": "https://open.spotify.com/album/5nrp1WYNIBgf9SBFjSJNvD"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151131,
+      "name": "Nu Ten",
+      "url": "https://open.spotify.com/track/3pe7k58O2rnAv4Tm5wr1qO"
+    },
+    {
+      "album": {
         "name": "BIG AKA 4 AKA KAI",
         "url": "https://open.spotify.com/album/2Sp3t61MrPQUPn71nv6QZm"
       },
@@ -18334,7 +18370,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 163994,
       "name": "On my mind",
       "url": "https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp"
@@ -18974,6 +19010,36 @@
       "duration_ms": 147641,
       "name": "PAPARAZZI",
       "url": "https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt"
+    },
+    {
+      "album": {
+        "name": "Paparazzi",
+        "url": "https://open.spotify.com/album/6vubUxTvzpnhLVGIrLnhoN"
+      },
+      "artists": [
+        {
+          "name": "JRK 19",
+          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
+        },
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "Pajel",
+          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180983,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/662kXym3EfWBhRvevjYv3g"
     },
     {
       "album": {
@@ -19765,6 +19831,24 @@
     },
     {
       "album": {
+        "name": "Pixie cut",
+        "url": "https://open.spotify.com/album/4rHf2vx3XHHg7okVZEWP4s"
+      },
+      "artists": [
+        {
+          "name": "Hulk",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128780,
+      "name": "Pixie cut",
+      "url": "https://open.spotify.com/track/0hSieuTT2zOUMvRSQAUPSi"
+    },
+    {
+      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
       },
@@ -20338,6 +20422,28 @@
       "duration_ms": 193413,
       "name": "P\u00c9L\u00c9L\u00c9",
       "url": "https://open.spotify.com/track/1ty1KGq9vkeJtdMbWlayy3"
+    },
+    {
+      "album": {
+        "name": "P\u00e9pin",
+        "url": "https://open.spotify.com/album/3CtMWQgzKAnC1r46FHSUHF"
+      },
+      "artists": [
+        {
+          "name": "La Folie",
+          "url": "https://open.spotify.com/artist/1a0V1vMdLVOZguN8iSJHoc"
+        },
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143636,
+      "name": "P\u00e9pin",
+      "url": "https://open.spotify.com/track/6GEBHcjoJkUIccDac8LeaY"
     },
     {
       "album": {
@@ -21820,7 +21926,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 122580,
       "name": "Shayo (feat. SOUNDPLUG)",
       "url": "https://open.spotify.com/track/5829bIzNB2B53bhp8yzVjP"
@@ -22034,6 +22140,24 @@
       "duration_ms": 153893,
       "name": "Skeu t\u2019attends de moi",
       "url": "https://open.spotify.com/track/6ofVlkwHudUUorfUSwF1ob"
+    },
+    {
+      "album": {
+        "name": "SLICK",
+        "url": "https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106909,
+      "name": "SLICK",
+      "url": "https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u"
     },
     {
       "album": {
@@ -24439,6 +24563,36 @@
     },
     {
       "album": {
+        "name": "Tu dis quoi?",
+        "url": "https://open.spotify.com/album/6OM8IMDKA5LhlOsBWFhjoe"
+      },
+      "artists": [
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        },
+        {
+          "name": "kulturr",
+          "url": "https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4"
+        },
+        {
+          "name": "Taliixo Beatz",
+          "url": "https://open.spotify.com/artist/0zJbnxrPTqqwSac6FEHWKE"
+        },
+        {
+          "name": "Wiils",
+          "url": "https://open.spotify.com/artist/5nlb9fduEXeYSS8K6IkFwj"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147231,
+      "name": "Tu dis quoi?",
+      "url": "https://open.spotify.com/track/1js2ctvtBznFXyMkhOXw3t"
+    },
+    {
+      "album": {
         "name": "TU ES F\u00c2CH\u00c9 ?",
         "url": "https://open.spotify.com/album/6hYXrbvuzul17gGXjYYWbM"
       },
@@ -24538,6 +24692,28 @@
       "duration_ms": 145492,
       "name": "Turbulence",
       "url": "https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK"
+    },
+    {
+      "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/4YNfqUF8keHTgZuNpz7vPE"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173989,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/3kihf5wWzLdE0xwmVDtPSU"
     },
     {
       "album": {

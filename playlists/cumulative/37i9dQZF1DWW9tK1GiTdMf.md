@@ -2,9 +2,9 @@
 
 ### [sanguegiovane 🩸](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> canzoni per un'estate non proprio felice 🥀 KLAUS NOIR in cover con un pezzone
+> canzoni per un'estate non proprio felice 🥀 TELLMEWISE in cover
 
-1,748 songs - 3 day 8 hr 16 min
+1,749 songs - 3 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -782,6 +782,7 @@
 | [IRSB](https://open.spotify.com/track/7atwRZgIdrIKUF5LqRrRNE) | [DIRTY SÖCKS](https://open.spotify.com/artist/3xImYOasFmUbn3ngECT1fI) | [I RAGAZZI STANNO BENE](https://open.spotify.com/album/3oZ7hp7zsXsKhdPTmXjW4g) | 3:19 | 2023-07-13 | 2023-10-06 |
 | [ISIDE](https://open.spotify.com/track/0Zt3q9ZMX6EbWPfsz4wH09) | [Veronica+](https://open.spotify.com/artist/4mdUjVc6TvMQqIpMe8HaBo), [ronnie](https://open.spotify.com/artist/3xUYZj64PEvIlUrITN5AOc) | [ISIDE](https://open.spotify.com/album/0PCF8YFY24BXfUSlVMPKMm) | 2:51 | 2025-04-10 | 2025-06-27 |
 | [Istruzioni](https://open.spotify.com/track/0s0PMCHKuqZrnypRt2a44D) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [Istruzioni](https://open.spotify.com/album/5lzeimyJ2yLa7B6lz77VE0) | 3:23 | 2026-05-07 |  |
+| [iTALi4N SHaM3](https://open.spotify.com/track/7j0KKi910dCZD0HTnXTVYM) | [FANTASMA DI ME](https://open.spotify.com/artist/3nnxeSXklp4PjXcjxfxe5l) | [iTALi4N SHaM3](https://open.spotify.com/album/2MUxfg1ChCefzgV49iqF0F) | 3:12 | 2026-07-09 |  |
 | [IT’S JUST ME](https://open.spotify.com/track/1uvcSWH2wGIOSZGktSUHBM) | [Dreik](https://open.spotify.com/artist/5hd7uzdSgIlrJmZRPfLkSi), [BlaK](https://open.spotify.com/artist/3tmt1mH0wGHpbWAZ6kLL3H) | [IT’S JUST ME](https://open.spotify.com/album/12QlRy3DV7DBuvNlR7ur8j) | 2:44 | 2024-10-24 | 2024-11-29 |
 | [JAMES DEAN](https://open.spotify.com/track/38ymTy0ALyNcnWCLoCDgWr) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [JAMES DEAN](https://open.spotify.com/album/7hihiCYSTCRKAGcX7hSUXJ) | 3:07 | 2022-05-06 | 2022-07-15 |
 | [jealous of my friends](https://open.spotify.com/track/5Elsfzs4R5AhZMrfepTxwV) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [jealous of my friends](https://open.spotify.com/album/4rRgE2wgNlVoxWi8aeVFbb) | 2:44 | 2023-03-16 | 2023-06-16 |

@@ -4,7 +4,7 @@
 
 > Raise a voice and testify the goodness of God\.  Cover: Joepraize
 
-580 songs - 1 day 21 hr 58 min
+581 songs - 1 day 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Call Me Blessed](https://open.spotify.com/track/5CyrCBCWC87Ppz6lNomYrB) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Call Me Blessed](https://open.spotify.com/album/7KCjQA1lve605tpDbqzSud) | 2:25 | 2024-02-02 | 2024-02-16 |
 | [Calling \(Bless Me\)](https://open.spotify.com/track/70phX1Md7Hertk651Q06Z2) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Calling \(Bless Me\)](https://open.spotify.com/album/6tgGEm8JciW3omq5q6kJKB) | 3:00 | 2025-04-18 | 2025-04-22 |
 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 | 2023-09-29 |  |
+| [Can't Live Without You](https://open.spotify.com/track/1JsxDZyYow7kVn7i4aP7O3) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Can't Live Without You](https://open.spotify.com/album/5fnZH4QL5lDe2r8IBzgeDA) | 4:15 | 2026-07-10 |  |
 | [Canopy](https://open.spotify.com/track/4QJrfpom9tgm5D3HavVYzK) | [Scott Evans](https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Canopy](https://open.spotify.com/album/1at7LjqRsusfeqI7NbfVHv) | 2:26 | 2025-08-15 | 2025-09-26 |
 | [Capable God](https://open.spotify.com/track/1ba2375k5XaAIGWPMC57y1) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 3:24 | 2023-12-15 | 2024-04-19 |
 | [Capable God](https://open.spotify.com/track/25sRKHPOYj8XsDXbxxdx3y) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 3:24 | 2023-04-07 | 2024-07-12 |
@@ -266,7 +267,7 @@
 | [ife](https://open.spotify.com/track/2dTsN61HPz0EjLpv70QOyq) | [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [God First](https://open.spotify.com/album/4bcYm108DwI3sdT3yW8g8F) | 2:30 | 2025-06-20 | 2025-07-04 |
 | [Ifunanya](https://open.spotify.com/track/0iTk4clE5ASPjciDKc9YfR) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Ifunanya](https://open.spotify.com/album/76QHVLQYinJCGAUeQS6d2e) | 3:38 | 2023-12-05 | 2025-04-22 |
 | [Igwe](https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb) | [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Igwe](https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG) | 5:12 | 2023-04-07 | 2023-05-26 |
-| [Ikeze](https://open.spotify.com/track/0eVhIi4ISZc04b2sAH3r5j) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [The Good Wine](https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj) | [Ikeze](https://open.spotify.com/album/6vPMxNFkNChotelcABKFpJ) | 1:46 | 2026-06-26 |  |
+| [Ikeze](https://open.spotify.com/track/0eVhIi4ISZc04b2sAH3r5j) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [The Good Wine](https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj) | [Ikeze](https://open.spotify.com/album/6vPMxNFkNChotelcABKFpJ) | 1:46 | 2026-06-26 | 2026-07-10 |
 | [Imali](https://open.spotify.com/track/6rqXjMcbaF6ntmbvFhv4ho) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4) | [Imali](https://open.spotify.com/album/4sRjCLPtaDPmbUHToa3GqS) | 2:59 | 2024-05-08 | 2024-05-24 |
 | [Imela](https://open.spotify.com/track/6cyYQWOwUORc8K1oBVqEvW) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [You are Great](https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum) | 5:19 | 2023-04-07 | 2023-12-30 |
 | [Imela](https://open.spotify.com/track/3WSjY8Z9vCKX8X3sc1pQwb) | [TFC Gold](https://open.spotify.com/artist/0tUXkhXZq28ovlMTUHTyg1), [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [Imela](https://open.spotify.com/album/5O5ASDteTamA9ceHyDExRY) | 3:22 | 2025-05-30 | 2025-06-06 |

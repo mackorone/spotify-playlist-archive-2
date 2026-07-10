@@ -2,7 +2,7 @@
 
 ### [Yellowstone Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWTQebjaPYhvs)
 
-> Generations of blood have lead to this\. Listen to the music from Yellowstone, airing Sundays on Paramount Network.
+> Generations of blood have led to this\. Listen to the music from Yellowstone, now streaming on Peacock
 
 278 songs - 17 hr 25 min
 

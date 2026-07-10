@@ -1,6 +1,6 @@
 {
   "description": "Certified hits. Cover: Ceebo",
-  "num_followers": 296584,
+  "num_followers": 296600,
   "original_name": "Certi",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
-        "name": "Peggy",
-        "url": "https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR"
-      },
-      "artists": [
-        {
-          "name": "Ceechynaa",
-          "url": "https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg"
-        }
-      ],
-      "duration_ms": 159336,
-      "name": "Peggy",
-      "url": "https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n"
-    },
-    {
-      "added_at": "2025-11-14 00:00:23",
-      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/7htW5qv2yBt0dH7be0zMbc"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 128399,
       "name": "Escape",
       "url": "https://open.spotify.com/track/43nqv4QZLdroszZ03wKCCh"
+    },
+    {
+      "added_at": "2025-11-14 00:00:23",
+      "album": {
+        "name": "Peggy",
+        "url": "https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR"
+      },
+      "artists": [
+        {
+          "name": "Ceechynaa",
+          "url": "https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg"
+        }
+      ],
+      "duration_ms": 159336,
+      "name": "Peggy",
+      "url": "https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n"
     },
     {
       "added_at": "2025-11-14 00:00:23",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
-        "name": "No Comment",
-        "url": "https://open.spotify.com/album/7lJucfUoSX4vCCDAa0Nyss"
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg"
       },
       "artists": [
         {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
         }
       ],
-      "duration_ms": 182000,
-      "name": "No Comment",
-      "url": "https://open.spotify.com/track/16YfvpZgzzdxzrulTpIwvB"
+      "duration_ms": 184000,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C"
     },
     {
       "added_at": "2025-11-14 00:00:23",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
-        "name": "Happy Birthday",
-        "url": "https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg"
+        "name": "No Comment",
+        "url": "https://open.spotify.com/album/7lJucfUoSX4vCCDAa0Nyss"
       },
       "artists": [
         {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Happy Birthday",
-      "url": "https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C"
+      "duration_ms": 182000,
+      "name": "No Comment",
+      "url": "https://open.spotify.com/track/16YfvpZgzzdxzrulTpIwvB"
     },
     {
       "added_at": "2025-11-14 00:00:23",

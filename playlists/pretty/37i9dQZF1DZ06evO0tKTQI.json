@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 14016,
+  "num_followers": 14015,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAADa3d40mell+4uT70fWM1Pt",
+  "snapshot_id": "ak2TAAAAAACIynzQ/OjksqjlS4OLXaMc",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "donde van los perros",
-        "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
+        "name": "TRES",
+        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
       },
       "artists": [
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 136101,
-      "name": "inocencia interrumpida",
-      "url": "https://open.spotify.com/track/0qCyVa5ASsxtkGY9uQtvRB"
+      "duration_ms": 202186,
+      "name": "Estos D\u00edas",
+      "url": "https://open.spotify.com/track/0H2wALPTgKViQYDXYNMBx0"
     },
     {
       "added_at": null,
@@ -495,18 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
+        "name": "donde van los perros",
+        "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
       },
       "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 202186,
-      "name": "Estos D\u00edas",
-      "url": "https://open.spotify.com/track/0H2wALPTgKViQYDXYNMBx0"
+      "duration_ms": 136101,
+      "name": "inocencia interrumpida",
+      "url": "https://open.spotify.com/track/0qCyVa5ASsxtkGY9uQtvRB"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
       "duration_ms": 200000,
       "name": "Things will be fine - Bratty Remix",
       "url": "https://open.spotify.com/track/4Af2TwsKHF9Hn10ltZ8xmg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRES",
+        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "Ya No Es Lo Mismo",
+      "url": "https://open.spotify.com/track/5OvmUAjeo81TsJ3m7Y45JG"
     },
     {
       "added_at": null,
@@ -563,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "Ya No Es Lo Mismo",
-      "url": "https://open.spotify.com/track/5OvmUAjeo81TsJ3m7Y45JG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Delusi\u00f3n",
         "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
       },
@@ -591,6 +591,22 @@
       "duration_ms": 138866,
       "name": "Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/2VGAj6WgbcQhxzb0PVMW0f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRES",
+        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Agosto",
+      "url": "https://open.spotify.com/track/1VH2uRGNHYNdgXnZ0dyX6k"
     },
     {
       "added_at": null,
@@ -631,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Agosto",
-      "url": "https://open.spotify.com/track/1VH2uRGNHYNdgXnZ0dyX6k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "lo q yo por ti",
         "url": "https://open.spotify.com/album/6zEyyStAYReX0eg8BFbGYj"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 173421,
       "name": "lo q yo por ti",
       "url": "https://open.spotify.com/track/2o3uQ63gwh63tBn9ox2bV3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRES",
+        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 187320,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3noKEDrCpmudJkH6IvLOxb"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 257773,
       "name": "friend",
       "url": "https://open.spotify.com/track/6POsLQxXvK9HIjS4CS2iRI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 187320,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/3noKEDrCpmudJkH6IvLOxb"
     },
     {
       "added_at": null,

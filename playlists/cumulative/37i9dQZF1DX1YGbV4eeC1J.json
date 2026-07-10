@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Vanilla",
+  "description": "What is your love language? Say it in Swahili.  Cover: Bruce Africa",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -1029,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/7MsbcOAMK6MCqILd0ezjkt"
+      },
+      "artists": [
+        {
+          "name": "Bruce africa",
+          "url": "https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218571,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/7JGcBs1zowrL3rYS3qPcIX"
+    },
+    {
+      "album": {
         "name": "Dah! (feat. Alikiba)",
         "url": "https://open.spotify.com/album/3W0tL0BDQHyKP4Wjol9Ps6"
       },
@@ -1516,7 +1534,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 165473,
       "name": "Furaha",
       "url": "https://open.spotify.com/track/77tlTHsLMs2ubmp8VyNqpx"
@@ -2580,7 +2598,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 130666,
       "name": "Lala (feat. Abigail Chams)",
       "url": "https://open.spotify.com/track/759DS4sknbTnQXgSsz1i2I"
@@ -6906,6 +6924,24 @@
       "duration_ms": 194783,
       "name": "Wapambe",
       "url": "https://open.spotify.com/track/6FnpY2o7B3Je5EuvizjdDx"
+    },
+    {
+      "album": {
+        "name": "Self Love",
+        "url": "https://open.spotify.com/album/7JdVF7n1nxAMrF9tACscLO"
+      },
+      "artists": [
+        {
+          "name": "Centano",
+          "url": "https://open.spotify.com/artist/4LpwKC4lrWuIGRxfbc8GO0"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172221,
+      "name": "Wapi",
+      "url": "https://open.spotify.com/track/0KW4jkATD90jEVUH1VYzT0"
     },
     {
       "album": {

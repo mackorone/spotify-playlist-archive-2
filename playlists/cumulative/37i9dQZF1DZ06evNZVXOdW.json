@@ -357,6 +357,28 @@
     },
     {
       "album": {
+        "name": "Fire on the Water / Drift",
+        "url": "https://open.spotify.com/album/0RpYhaCXxa6vICkfzkEq7t"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183047,
+      "name": "Fire on the Water",
+      "url": "https://open.spotify.com/track/0dU2ZpIcqiV55L16TZfSE8"
+    },
+    {
+      "album": {
         "name": "SPELLJAMS",
         "url": "https://open.spotify.com/album/6V9QKCve0x4VTzOW8K4DK4"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Goldbug",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Essy Sparrow",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -14092,7 +14092,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 148500,
       "name": "decay",
       "url": "https://open.spotify.com/track/4GYZEN4NiA8IUdken1XdR7"
@@ -14962,7 +14962,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 180362,
       "name": "Dirty",
       "url": "https://open.spotify.com/track/6GsKMETdRKLz5bXJGUC613"
@@ -25172,7 +25172,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 220000,
       "name": "HEAD IN THE CLOUDS",
       "url": "https://open.spotify.com/track/4s4fymRewq40MD6v4CQLSh"
@@ -30412,7 +30412,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 208460,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/3obOb4X1t6jpG4EKHMQYFQ"
@@ -36846,6 +36846,24 @@
       "duration_ms": 177107,
       "name": "Love You All The Same",
       "url": "https://open.spotify.com/track/2shllo5ACQMEUc8n0MtC7x"
+    },
+    {
+      "album": {
+        "name": "love you like crazy",
+        "url": "https://open.spotify.com/album/2ywvXLe9fDMeLy2Wtt2nGw"
+      },
+      "artists": [
+        {
+          "name": "ISABELLA",
+          "url": "https://open.spotify.com/artist/5A4DUMbVKNqflzW5Dpa43Q"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157188,
+      "name": "love you like crazy",
+      "url": "https://open.spotify.com/track/7H6e2h4XUtxkIXtkXUPsSA"
     },
     {
       "album": {
@@ -48681,6 +48699,24 @@
     },
     {
       "album": {
+        "name": "Reaching",
+        "url": "https://open.spotify.com/album/1QbU6iDI8cC2RNJyMUqPXj"
+      },
+      "artists": [
+        {
+          "name": "IMVN",
+          "url": "https://open.spotify.com/artist/0zvjAHqFkgoiQb5y5EBF6w"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157251,
+      "name": "Reaching",
+      "url": "https://open.spotify.com/track/6Kjgp8Fcmyvqn2sfZcs0nN"
+    },
+    {
+      "album": {
         "name": "Ready Or Not",
         "url": "https://open.spotify.com/album/27SYRZqfSCwaoQfi2waO8n"
       },
@@ -48794,6 +48830,28 @@
       "duration_ms": 180000,
       "name": "Realness",
       "url": "https://open.spotify.com/track/4u5uRIeQR8pvtCDaTDxuZi"
+    },
+    {
+      "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/1ePAwDQiQ6XL4YCkVP8xSv"
+      },
+      "artists": [
+        {
+          "name": "Grace Acladna",
+          "url": "https://open.spotify.com/artist/2AhTPaGsjBVOfF5UPWKGyd"
+        },
+        {
+          "name": "Shivum Sharma",
+          "url": "https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/4OVEhK3OmAKyTzJBDKEgF1"
     },
     {
       "album": {
@@ -53750,7 +53808,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 204285,
       "name": "SMOOTH",
       "url": "https://open.spotify.com/track/4OizxOdBbiKXPFAHTVb8vp"
@@ -54266,6 +54324,24 @@
       "duration_ms": 184173,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/06Mas50f5PrLSFpGT1Uyr1"
+    },
+    {
+      "album": {
+        "name": "solo + ways",
+        "url": "https://open.spotify.com/album/15YRI0nyUzfHLHt3uwBnsf"
+      },
+      "artists": [
+        {
+          "name": "808vic",
+          "url": "https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "solo",
+      "url": "https://open.spotify.com/track/5tmv0I8TqzOie4jLCf0za0"
     },
     {
       "album": {
@@ -58723,6 +58799,24 @@
     },
     {
       "album": {
+        "name": "The Drugs Don't Work Anymore",
+        "url": "https://open.spotify.com/album/2iLE0p4uqI9Mj4n5qZfHch"
+      },
+      "artists": [
+        {
+          "name": "Josephine Genais",
+          "url": "https://open.spotify.com/artist/5cBxSvPitCMSPk1edMceKC"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211541,
+      "name": "The Drugs Don't Work Anymore",
+      "url": "https://open.spotify.com/track/1xCcro54yyumRjWFBD6b0D"
+    },
+    {
+      "album": {
         "name": "The Duke",
         "url": "https://open.spotify.com/album/61zGoOzMeLDolAaKTodtJ9"
       },
@@ -60624,7 +60718,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 237500,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/1CzbGE8Pjmus67qSF6tjFK"
@@ -66044,6 +66138,24 @@
       "duration_ms": 162573,
       "name": "won't speak again",
       "url": "https://open.spotify.com/track/1ynfvyFOlaRb3HLC7WMS8c"
+    },
+    {
+      "album": {
+        "name": "Won't You Ever Need Me",
+        "url": "https://open.spotify.com/album/1kxILFM47rGHBPgdyU06sb"
+      },
+      "artists": [
+        {
+          "name": "Tommy Barlow",
+          "url": "https://open.spotify.com/artist/5pwO7OfGJSYXlLDODBRz8K"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261053,
+      "name": "Won't You Ever Need Me",
+      "url": "https://open.spotify.com/track/0gO6fILDlRAjpjidGPPT8s"
     },
     {
       "album": {

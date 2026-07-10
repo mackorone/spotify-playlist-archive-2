@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-246 songs - 18 hr 19 min
+247 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Flower Is A Lovesome Thing](https://open.spotify.com/track/5igO8dMEr3lvL5hnzP2RxR) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [A Flower Is A Lovesome Thing](https://open.spotify.com/album/5x49ipf24HQSNzSoGQnGH6) | 4:58 | 2022-09-08 | 2025-06-06 |
 | [A Flower Is a Lovesome Thing](https://open.spotify.com/track/5m5k5wCQiXimPD5V4ik6VN) | [Gathering in Jazz](https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Straight Road](https://open.spotify.com/album/248dwcccpMSMb7giqK1nJg) | 4:45 | 2025-06-05 |  |
 | [A Lonely CoEd](https://open.spotify.com/track/05D9j2TH4OAXUkgEJwGBz4) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [La chanson de Duke](https://open.spotify.com/album/4pB2XrkdIbhDBkIoApn5pk) | 3:18 | 2022-09-08 | 2025-01-30 |
+| [A Midnight In Paris](https://open.spotify.com/track/45paxmJz3gh8UVgARIx9ES) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke: The Columbia Years \(1927\-1962\)](https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7) | 3:36 | 2026-07-09 |  |
 | [A Train](https://open.spotify.com/track/5eXSfxJEQ97wabK59E4Q8V) | [The Bob Florence Limited Edition](https://open.spotify.com/artist/1j9ZcAj2ccKF0T05WIOtSZ) | [Legendary](https://open.spotify.com/album/12a7QFo0wpphi58Ad18Mk3) | 9:06 | 2022-09-08 |  |
 | [Absinthe](https://open.spotify.com/track/7eB4SpTgVxvZWuIeyixPR0) | [Duke Ellington And His Orchestra](https://open.spotify.com/artist/2uRZKi0u39J5Ip0fMcSMVm) | [Afro Bossa](https://open.spotify.com/album/7M9vNpxkRVlKyV1gk9tbNB) | 3:36 | 2026-04-15 |  |
 | [Absinthe](https://open.spotify.com/track/3ZBQ8TTYYRWFlVDhV0T35f) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Afro Bossa](https://open.spotify.com/album/4rVb2K3F6BHB5aY7kg0021) | 3:32 | 2022-09-08 | 2026-04-16 |

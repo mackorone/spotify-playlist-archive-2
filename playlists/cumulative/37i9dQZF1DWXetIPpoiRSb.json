@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The original shapeshifter returns. Madonna forever \u267e\ufe0f",
+  "description": "underscores _______ on the cover",
   "name": "Evolver",
   "tracks": [
+    {
+      "album": {
+        "name": "trinket",
+        "url": "https://open.spotify.com/album/20uJcpJbimpsyG7v9kL5Co"
+      },
+      "artists": [
+        {
+          "name": "tsubi club",
+          "url": "https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161311,
+      "name": "( \u2565\ufe4f\u2565 )",
+      "url": "https://open.spotify.com/track/4mMW7j3QfSOAR2MSsTKnaq"
+    },
     {
       "album": {
         "name": "(L)only Child",
@@ -2137,6 +2155,24 @@
     },
     {
       "album": {
+        "name": "and Boys",
+        "url": "https://open.spotify.com/album/42i1tdkSsuPiIcYOKEITGx"
+      },
+      "artists": [
+        {
+          "name": "biblemami",
+          "url": "https://open.spotify.com/artist/6Wl8Lok0dnlLHeURIWeGHV"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126936,
+      "name": "and Boys",
+      "url": "https://open.spotify.com/track/0E0eqHlzB1izSlejKoEBvx"
+    },
+    {
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/0VsjdPYUzQti57JmByRQvz"
       },
@@ -3306,7 +3342,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 207300,
       "name": "Baewatch",
       "url": "https://open.spotify.com/track/0WQanxyDKJltTrsp29co9T"
@@ -4910,7 +4946,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 169383,
       "name": "Blow My Mind - CA7RIEL & Paco Amoroso Version",
       "url": "https://open.spotify.com/track/2Fn0xjZZa6ma1WgwyHM69k"
@@ -7982,7 +8018,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 175743,
       "name": "CRANK",
       "url": "https://open.spotify.com/track/6eqQLOOiqBnrwKQEzXoHll"
@@ -10606,7 +10642,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 213861,
       "name": "Drive",
       "url": "https://open.spotify.com/track/4RnaELpFXTbyudvHjFutSl"
@@ -11304,7 +11340,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 197000,
       "name": "Energy Is Power",
       "url": "https://open.spotify.com/track/72RJN0t8XxNgMACO54bfsI"
@@ -14825,6 +14861,24 @@
     },
     {
       "album": {
+        "name": "Ch\u00e2teau Brute",
+        "url": "https://open.spotify.com/album/2mOz0X4LF1VPrNZJyM4ldQ"
+      },
+      "artists": [
+        {
+          "name": "Luna Morgenstern",
+          "url": "https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165935,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/5s7xCUGbNucmHPiR1Wa6bs"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/0OcRYga5YnflYN3oLWas5w"
       },
@@ -15004,7 +15058,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 188359,
       "name": "Good For The Soul",
       "url": "https://open.spotify.com/track/03D2TnaZuwlddRTh7P6Mq5"
@@ -16156,6 +16210,24 @@
       "duration_ms": 239119,
       "name": "Heart",
       "url": "https://open.spotify.com/track/2woJDJD5c1smpFdkWa4kpu"
+    },
+    {
+      "album": {
+        "name": "fall in love with the dj (deluxe)",
+        "url": "https://open.spotify.com/album/1KgxaU2u9eZoJ6TZO11Evo"
+      },
+      "artists": [
+        {
+          "name": "Lucky Iris",
+          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198411,
+      "name": "heart 4 heart",
+      "url": "https://open.spotify.com/track/0xmfyVJFrFSTWcUxjnNo9D"
     },
     {
       "album": {
@@ -17347,6 +17419,24 @@
     },
     {
       "album": {
+        "name": "Hot Wet Delirious",
+        "url": "https://open.spotify.com/album/48RvnMcydial0X4i7D4X8N"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188575,
+      "name": "Hot Wet Delirious",
+      "url": "https://open.spotify.com/track/30WDZKen0s4FtFe2EyqaCN"
+    },
+    {
+      "album": {
         "name": "hot!love!!",
         "url": "https://open.spotify.com/album/4vKDtKthzsao5SGN1ugdsS"
       },
@@ -18056,7 +18146,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 185610,
       "name": "I Don't Wanna Hurt You",
       "url": "https://open.spotify.com/track/6untI22mqrOtoK6EYkm1yY"
@@ -19328,7 +19418,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 150000,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/6PpJ7gIAckwYRLwpSWgi0U"
@@ -19958,7 +20048,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 147800,
       "name": "In Two",
       "url": "https://open.spotify.com/track/2chCyZz2DG5uRasGN40x28"
@@ -23204,7 +23294,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 133310,
       "name": "Live",
       "url": "https://open.spotify.com/track/1gsotXTOgjdbReDxNpXDqE"
@@ -25787,6 +25877,24 @@
     },
     {
       "album": {
+        "name": "MILLION DOLLAR BABE",
+        "url": "https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173445,
+      "name": "MILLION DOLLAR BABE",
+      "url": "https://open.spotify.com/track/4uzXo3sUkY7xXelBvj1L7A"
+    },
+    {
+      "album": {
         "name": "Million Dollar Baby",
         "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
       },
@@ -26260,6 +26368,24 @@
       "duration_ms": 135930,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/5G9FmeUt32pdxoO5Rk5ck4"
+    },
+    {
+      "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/28nsJk3KI30yHBehakxirS"
+      },
+      "artists": [
+        {
+          "name": "Moyka",
+          "url": "https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153200,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/5XNlfqa1h8R8n5WneARCZJ"
     },
     {
       "album": {
@@ -32878,7 +33004,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 224661,
       "name": "SAME LA",
       "url": "https://open.spotify.com/track/5PYrRnaRsCOOE0c65L4y2M"
@@ -33008,6 +33134,24 @@
       "duration_ms": 186514,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
+    },
+    {
+      "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/1lwDEmZ3j69Wrh0AycrCCU"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Satellites",
+      "url": "https://open.spotify.com/track/0w1z41tugZvJHNLUWUjXkD"
     },
     {
       "album": {
@@ -34302,7 +34446,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 179176,
       "name": "SKYLINE",
       "url": "https://open.spotify.com/track/05Ce3PPdmyJR7HjdzMpSMn"
@@ -35390,7 +35534,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 161660,
       "name": "Speakerphone",
       "url": "https://open.spotify.com/track/4IfS1NOpuyygRwoPzjbRyT"
@@ -38806,7 +38950,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 162346,
       "name": "The One",
       "url": "https://open.spotify.com/track/2nG2kgL2gTXd9s2RmD0u18"
@@ -40106,6 +40250,24 @@
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+    },
+    {
+      "album": {
+        "name": "girl in stem",
+        "url": "https://open.spotify.com/album/17Ro49BRz5Gveylng2A7Ri"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/6CIbLErx7WosfLorB4JE1T"
     },
     {
       "album": {
@@ -42137,6 +42299,24 @@
     },
     {
       "album": {
+        "name": "Wheels Come Off",
+        "url": "https://open.spotify.com/album/2Ug1wvfipYLc5ecbFGKowH"
+      },
+      "artists": [
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207813,
+      "name": "Wheels Come Off",
+      "url": "https://open.spotify.com/track/0iGsGiJ2NBiKr2lolzbznn"
+    },
+    {
+      "album": {
         "name": "To Anyone Like Me",
         "url": "https://open.spotify.com/album/7G9XvrcExrKTwxMwGLa3W0"
       },
@@ -42462,7 +42642,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 174927,
       "name": "why did i say i loved you?",
       "url": "https://open.spotify.com/track/1S3bdimvdeQAE4nwS6cSgG"
@@ -42568,7 +42748,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 169733,
       "name": "Wild Storm",
       "url": "https://open.spotify.com/track/6gOtmyEOqKDBAVLkBEweJN"

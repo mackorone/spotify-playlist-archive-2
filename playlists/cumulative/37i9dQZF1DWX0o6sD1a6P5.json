@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: Jo\u00e9 Dw\u00e8t Fil\u00e9",
+  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: Genezio",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -462,6 +462,28 @@
       "duration_ms": 153500,
       "name": "Aje (feat. Tayc)",
       "url": "https://open.spotify.com/track/2Nmq1A64nO4LCgyQNhrRLq"
+    },
+    {
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1eJstMWIHyldQcIlv2RURH"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207085,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/6UvjCPYE9rZ6B5AIlLMJEi"
     },
     {
       "album": {
@@ -6118,10 +6140,28 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 162000,
       "name": "En bas de chez moi",
       "url": "https://open.spotify.com/track/3FoX8jrM7dyXZJD5jVPih4"
+    },
+    {
+      "album": {
+        "name": "EN D\u00c9TENTE",
+        "url": "https://open.spotify.com/album/7K0ntLxmPQ88ImN9n3aQ8H"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "EN D\u00c9TENTE",
+      "url": "https://open.spotify.com/track/1kpFPU0Im1rlmKuwHkuF4n"
     },
     {
       "album": {
@@ -9326,7 +9366,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 154805,
       "name": "Juste un peu",
       "url": "https://open.spotify.com/track/7vNKvKNraI2IAooZMMiBzZ"
@@ -11659,6 +11699,24 @@
     },
     {
       "album": {
+        "name": "BACK 2 BACK",
+        "url": "https://open.spotify.com/album/7Bc60xCdm3tna3M8n6s1sK"
+      },
+      "artists": [
+        {
+          "name": "Yorssy",
+          "url": "https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132833,
+      "name": "MISS DES MISS",
+      "url": "https://open.spotify.com/track/76z3Qyexa0tKqqDnSbqmQw"
+    },
+    {
+      "album": {
         "name": "Miss Kitoko",
         "url": "https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR"
       },
@@ -11878,7 +11936,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 195600,
       "name": "Mon Nom",
       "url": "https://open.spotify.com/track/260Bx637B9nxl1LNsp31ag"
@@ -13316,6 +13374,28 @@
       "duration_ms": 166153,
       "name": "Omo Ope (feat. Olamide)",
       "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
+    },
+    {
+      "album": {
+        "name": "On my mind",
+        "url": "https://open.spotify.com/album/43w6KiIP8mCiOCc1RFVcvT"
+      },
+      "artists": [
+        {
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163994,
+      "name": "On my mind",
+      "url": "https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp"
     },
     {
       "album": {
@@ -15168,7 +15248,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"

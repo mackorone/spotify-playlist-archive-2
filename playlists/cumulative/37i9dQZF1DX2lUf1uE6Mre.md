@@ -2,9 +2,9 @@
 
 ### [Shisha Club](https://open.spotify.com/playlist/37i9dQZF1DX2lUf1uE6Mre)
 
-> Die Playlist zur Wasserpfeife\. Cover: RAF Camora
+> Die Playlist zur Wasserpfeife\. Cover: Luciano, Jazeek
 
-519 songs - 21 hr 53 min
+520 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Bei dir](https://open.spotify.com/track/7MLMhnzLCxXCsoWeKUZns7) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Bei dir](https://open.spotify.com/album/4bD5KUrBZ3baC2qzxwFUqk) | 2:38 | 2025-07-17 | 2026-03-31 |
 | [BEI MIR](https://open.spotify.com/track/03P56FVMC0MYjFCHq4iEyW) | [YAKARY](https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI) | [BEI MIR](https://open.spotify.com/album/4FxJz86FZTSdffBq8q8xsi) | 2:56 | 2024-06-28 | 2025-04-29 |
 | [Bei Nacht](https://open.spotify.com/track/3DVjjnzWtCURhhGlswtymg) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 3:41 | 2025-01-16 | 2025-04-18 |
-| [Bela](https://open.spotify.com/track/6ECv01XjUdP1of2IRZXg6P) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Bela](https://open.spotify.com/album/41rooj0woLx6z05NeHIkaj) | 2:19 | 2026-03-30 |  |
+| [Bela](https://open.spotify.com/track/6ECv01XjUdP1of2IRZXg6P) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Bela](https://open.spotify.com/album/41rooj0woLx6z05NeHIkaj) | 2:19 | 2026-03-30 | 2026-07-10 |
 | [Bend Over 2](https://open.spotify.com/track/0xdCOXFgnKNBFmhVGyDJjl) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Sosa La M](https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC) | [Bend Over 2](https://open.spotify.com/album/74xSrHtoKbfwUx6flF0GjA) | 2:11 | 2026-04-09 |  |
 | [Benz Series Black](https://open.spotify.com/track/4QuzAPUjXp7Er4gCUUkhUr) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Safraoui](https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX) | [Amo aller Amos](https://open.spotify.com/album/65hxxHs6vhOoQnzQe2eefr) | 2:17 | 2024-11-11 | 2024-12-10 |
 | [Best Life](https://open.spotify.com/track/5I4SsIgLyQzduQsxrs09l7) | [Faroon](https://open.spotify.com/artist/697ZbUKLJSEWWhtayAGxBY) | [Best Life](https://open.spotify.com/album/2rx2bUiHugP0iBBtqkInuZ) | 2:33 | 2024-08-12 | 2024-08-27 |
@@ -191,6 +191,7 @@
 | [GETRENNTE SOMMERNACHT](https://open.spotify.com/track/1TRFYbhEcFndwa9b9zdrSh) | [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3) | [GETRENNTE SOMMERNACHT](https://open.spotify.com/album/2lM8bDgDSMbLeUaMGT1Rrl) | 2:41 | 2025-10-23 |  |
 | [Ghetto Superstars](https://open.spotify.com/track/6UmX6507xaem9KkRmaMs5S) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Ghetto Superstars](https://open.spotify.com/album/3iAU42MwjGxRtUf5HtaWUH) | 3:05 | 2026-07-02 |  |
 | [GHETTOGIRL](https://open.spotify.com/track/0G5x5rALxKOkwicMjKta79) | [CAPO](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [HYAT](https://open.spotify.com/album/4VjkWLgSYG48sOxXu7aX8b) | 2:45 | 2025-11-04 |  |
+| [gimme luv <3](https://open.spotify.com/track/1UeTyrfK5QChYU0kOJqv1z) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [gimme luv <3](https://open.spotify.com/album/53ihPT5MZWX8CX317eTSNe) | 3:00 | 2026-07-09 |  |
 | [Glastisch](https://open.spotify.com/track/0h6Rex3lPLTAGotD2I6ZcS) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Glastisch](https://open.spotify.com/album/1K1XiAVE0qOwZQBFaYQpcw) | 2:51 | 2026-05-18 |  |
 | [Gold & Eis](https://open.spotify.com/track/6IBgJ6GAEYTGWo4rk2rg6N) | [Dorian](https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb) | [Gold & Eis](https://open.spotify.com/album/2YkTzSnKZ7Ri6OqUopVUxa) | 2:29 | 2025-11-26 |  |
 | [golden retriever](https://open.spotify.com/track/4bee4dpw6E3jP7VIoGvyQl) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS), [YUNG SAINT PAUL](https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R) | [backtoback](https://open.spotify.com/album/1ROn8y69vSgolGXPCNFmp4) | 2:55 | 2025-11-27 | 2026-01-23 |

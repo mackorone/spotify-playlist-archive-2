@@ -324,7 +324,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 166000,
       "name": "ALL NIGHT (feat. Abeliano)",
       "url": "https://open.spotify.com/track/2DjxWkGaYda6G3dhPK6qMe"
@@ -1778,7 +1778,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 149477,
       "name": "If I Had",
       "url": "https://open.spotify.com/track/3LxpCaAHHBuJgKtgUHEcBm"
@@ -7000,7 +7000,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 191506,
       "name": "\u5165\u570d\u8005 (feat. \u9673\u5ffb\u73a5)",
       "url": "https://open.spotify.com/track/2vUE4Zzfm0NsMTKUQgKMEp"
@@ -9755,6 +9755,24 @@
     },
     {
       "album": {
+        "name": "\u5979\u5df2\u4e0d\u518d\u662f\u90a3\u500b\u5973\u5b69",
+        "url": "https://open.spotify.com/album/5mM9F5AFSaGB2BgODm1jxy"
+      },
+      "artists": [
+        {
+          "name": "DIOR \u5927\u7a4e",
+          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297000,
+      "name": "\u5979\u5df2\u4e0d\u518d\u662f\u90a3\u500b\u5973\u5b69",
+      "url": "https://open.spotify.com/track/49T3qI4iMo0lAzJq1CWjA3"
+    },
+    {
+      "album": {
         "name": "\u5979\u662f\u8ab0",
         "url": "https://open.spotify.com/album/2RsjjlLJTXnv2NLv62Fybu"
       },
@@ -10257,6 +10275,24 @@
     },
     {
       "album": {
+        "name": "\u5ba2\u5ba2\u6c23\u6c23 COURTESY",
+        "url": "https://open.spotify.com/album/1Os0eKiEWbaWF6zZmlQcYj"
+      },
+      "artists": [
+        {
+          "name": "The Crane",
+          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157268,
+      "name": "\u5ba2\u5ba2\u6c23\u6c23 COURTESY",
+      "url": "https://open.spotify.com/track/3aZIGAzaPiZY3CXpWLYHfq"
+    },
+    {
+      "album": {
         "name": "\u5bb6\u5177",
         "url": "https://open.spotify.com/album/14SaJCAyUTMXtQigmEcqGc"
       },
@@ -10286,7 +10322,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 202388,
       "name": "\u5bc2\u5bde\u5148\u751f - \u6efe\u77f3\u649e\u6a02\u968a2 (\u539f\u5531:\u66f9\u683c)",
       "url": "https://open.spotify.com/track/3mnfuq9pALDNvh15QZw6m8"
@@ -13919,6 +13955,24 @@
     },
     {
       "album": {
+        "name": "\u6211\u9084\u6709\u500b\u5922",
+        "url": "https://open.spotify.com/album/4Dl1sqiAfFk2XzVVF8g2A1"
+      },
+      "artists": [
+        {
+          "name": "Xiao Yu",
+          "url": "https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232373,
+      "name": "\u6211\u9084\u6709\u500b\u5922",
+      "url": "https://open.spotify.com/track/0zAirwis62ZB9LExKoWXtH"
+    },
+    {
+      "album": {
         "name": "\u821e\u72c0\u5143",
         "url": "https://open.spotify.com/album/2M28Qhgb7On9XGAtm9LNsj"
       },
@@ -17187,6 +17241,24 @@
     },
     {
       "album": {
+        "name": "\u6f2b\u6f2b\u9577\u591c",
+        "url": "https://open.spotify.com/album/2u1JHZs5XcvIRShNl3K66J"
+      },
+      "artists": [
+        {
+          "name": "\u963f\u862d AC",
+          "url": "https://open.spotify.com/artist/4rmyrkHJMMD1i00eFs5jem"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193392,
+      "name": "\u6f2b\u6f2b\u9577\u591c",
+      "url": "https://open.spotify.com/track/6juKLpiHRBMociN7R4WP74"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1grN24m5hhYp7pCzNkkdIX"
       },
@@ -19318,7 +19390,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 239480,
       "name": "\u7e3d\u6709\u4e00\u9846\u5c6c\u65bc\u4f60\u7684\u661f\u7403 (Your Own Star)",
       "url": "https://open.spotify.com/track/43wspxaX8tKNjkjN8A4Xl5"
@@ -20282,6 +20354,24 @@
       "duration_ms": 235050,
       "name": "\u88ab\u7aa9\u88cf\u7684\u96e8\u5929",
       "url": "https://open.spotify.com/track/1rTxM0YHdhyBYDbr2HHmd9"
+    },
+    {
+      "album": {
+        "name": "\u88dd\u7761\u7684\u4eba",
+        "url": "https://open.spotify.com/album/7rUx8sF2L40YZjJo2nIx6e"
+      },
+      "artists": [
+        {
+          "name": "Ariel Tsai",
+          "url": "https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268936,
+      "name": "\u88dd\u7761\u7684\u4eba",
+      "url": "https://open.spotify.com/track/1N4xGyCDZNWsHZZlBSJkFs"
     },
     {
       "album": {

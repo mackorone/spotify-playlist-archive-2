@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PERSES",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: NANON",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -382,7 +382,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 211970,
       "name": "APE",
       "url": "https://open.spotify.com/track/02TrL37a5FQ5PqxG5cmov7"
@@ -624,7 +624,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 212380,
       "name": "BIRTHDAY BUT WITH ME (From \"\u0e0b\u0e2d\u0e42\u0e0b\u0e48\u0e25\u0e48\u0e32\u0e21\u0e18\u0e35\u0e23\u0e4c\")",
       "url": "https://open.spotify.com/track/7niNkagHSxm3poyNBmlpfp"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 174000,
       "name": "Dance With The Devil",
       "url": "https://open.spotify.com/track/3R5a0BnfrASTZ5f2ronWt3"
@@ -6616,7 +6616,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 223500,
       "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e01\u0e25\u0e32\u0e07\u0e27\u0e31\u0e19 \u0e1d\u0e31\u0e19\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e01\u0e25\u0e32\u0e07\u0e04\u0e37\u0e19",
       "url": "https://open.spotify.com/track/3kW9fmKoEQnD8zhu3JKffk"
@@ -7178,6 +7178,24 @@
       "duration_ms": 264000,
       "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 - Defendant Of Love",
       "url": "https://open.spotify.com/track/0AGhwXsWpVOwjHY5yf4dtD"
+    },
+    {
+      "album": {
+        "name": "\u0e08\u0e33\u0e44\u0e14\u0e49\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21 (Flashback)",
+        "url": "https://open.spotify.com/album/3lBrefeSY9SwTYiKn2DQjY"
+      },
+      "artists": [
+        {
+          "name": "William Jakrapatr",
+          "url": "https://open.spotify.com/artist/51sFFBq8BCtciQk7VqsDTJ"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267559,
+      "name": "\u0e08\u0e33\u0e44\u0e14\u0e49\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21 (Flashback)",
+      "url": "https://open.spotify.com/track/0qE8ZkREZXAn9zMcYzYUZV"
     },
     {
       "album": {
@@ -8559,6 +8577,24 @@
     },
     {
       "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e1e\u0e23\u0e38\u0e48\u0e07\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (Before Tomorrow) (From \"\u0e20\u0e1e\u0e40\u0e18\u0e2d Love Upon a Time\")",
+        "url": "https://open.spotify.com/album/4UpjGCs5qMIh2PYeYDukEm"
+      },
+      "artists": [
+        {
+          "name": "JJ Radchapon",
+          "url": "https://open.spotify.com/artist/5geh3xf43IPPVFVzCaix9c"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227027,
+      "name": "\u0e16\u0e49\u0e32\u0e1e\u0e23\u0e38\u0e48\u0e07\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (Before Tomorrow) (From \"\u0e20\u0e1e\u0e40\u0e18\u0e2d Love Upon a Time\")",
+      "url": "https://open.spotify.com/track/46P94Nv3gO0ieTIdDhDZOU"
+    },
+    {
+      "album": {
         "name": "\u0e16\u0e49\u0e32\u0e1e\u0e35\u0e48\u0e22\u0e31\u0e07\u0e27\u0e48\u0e32\u0e07\u0e2d\u0e22\u0e39\u0e48... (Come to be mine) [Special Track]",
         "url": "https://open.spotify.com/album/2aWjMiLMRKZDM2sytFHuVZ"
       },
@@ -9182,6 +9218,24 @@
       "duration_ms": 228397,
       "name": "\u0e19\u0e31\u0e1a\u0e2b\u0e19\u0e36\u0e48\u0e07 (From now on)",
       "url": "https://open.spotify.com/track/0hWzDHF10kCJFQ2hMg6FYX"
+    },
+    {
+      "album": {
+        "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e17\u0e23\u0e32\u0e22 (sign)",
+        "url": "https://open.spotify.com/album/0uOFuflrHAMrKt3CXmtOsW"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255466,
+      "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e17\u0e23\u0e32\u0e22 (sign)",
+      "url": "https://open.spotify.com/track/4S0zJwuiJF9ImbGYUbGrNT"
     },
     {
       "album": {
@@ -10269,6 +10323,28 @@
     },
     {
       "album": {
+        "name": "\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32 (You with Me) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"\u0e21\u0e35\u0e2a\u0e15\u0e34\u0e41\u0e25\u0e49\u0e27\u0e25\u0e39\u0e01\u0e1e\u0e35\u0e0a Peach And Me\"]",
+        "url": "https://open.spotify.com/album/2TLc6OfaPKJiEyxRFIgpE1"
+      },
+      "artists": [
+        {
+          "name": "Pond Naravit",
+          "url": "https://open.spotify.com/artist/37PDDAi9sH8d1Dt3CDvuqX"
+        },
+        {
+          "name": "Phuwin",
+          "url": "https://open.spotify.com/artist/1dDqRhUNUraehCs3aoLks0"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32 (You with Me) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"\u0e21\u0e35\u0e2a\u0e15\u0e34\u0e41\u0e25\u0e49\u0e27\u0e25\u0e39\u0e01\u0e1e\u0e35\u0e0a Peach And Me\"",
+      "url": "https://open.spotify.com/track/1lv4lZpBhfRBTrwz0IgyFt"
+    },
+    {
+      "album": {
         "name": "\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e21\u0e35\u0e09\u0e31\u0e19 (Safe Zone) - Single",
         "url": "https://open.spotify.com/album/3m7BYn24J2INtDV0wZr2Eh"
       },
@@ -10926,6 +11002,24 @@
       "duration_ms": 227500,
       "name": "\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e1c\u0e39\u0e01\u0e1e\u0e31\u0e19\u0e40\u0e02\u0e32 (Leave Me Alone)",
       "url": "https://open.spotify.com/track/0YYoT4ZLtHZW6UIQUEFL6H"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e21\u0e31\u0e01\u0e22\u0e32\u0e01 (Lover Loser)",
+        "url": "https://open.spotify.com/album/6ajyFXLc6OINgs3Z4ZFKSP"
+      },
+      "artists": [
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253764,
+      "name": "\u0e23\u0e31\u0e01\u0e21\u0e31\u0e01\u0e22\u0e32\u0e01 (Lover Loser)",
+      "url": "https://open.spotify.com/track/746ratCSSeCGRVZVoy6lLA"
     },
     {
       "album": {
@@ -13034,7 +13128,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 219999,
       "name": "\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e0a\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d \u0e2d\u0e22\u0e32\u0e01\u0e41\u0e0a\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19 y(our) song",
       "url": "https://open.spotify.com/track/2O2KeSSPM08QzPXMVJWe4L"
@@ -14087,6 +14181,24 @@
     },
     {
       "album": {
+        "name": "Play To Win",
+        "url": "https://open.spotify.com/album/1hkg8AMqV1e7UpcbUKFOz4"
+      },
+      "artists": [
+        {
+          "name": "MEEPOOH",
+          "url": "https://open.spotify.com/artist/6m6obXYeSAepfEH0nwGhHa"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224195,
+      "name": "\u0e40\u0e18\u0e2d\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e40\u0e01\u0e34\u0e19 (My Wish List)",
+      "url": "https://open.spotify.com/track/0STnyzhG4ObyyC13sHP1bS"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e1a\u0e27\u0e01\u0e2d\u0e04\u0e27\u0e32\u0e40\u0e23\u0e35\u0e22\u0e21\u0e04\u0e37\u0e2d\u0e40\u0e14\u0e2d\u0e30\u0e40\u0e1a\u0e2a\u0e17\u0e4c (Aquarium)",
         "url": "https://open.spotify.com/album/69pzGuX7007eu70hU60TH1"
       },
@@ -14962,7 +15074,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 249285,
       "name": "\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e40\u0e2a\u0e35\u0e22\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/4DIqAVapAAive5AILNtOj8"

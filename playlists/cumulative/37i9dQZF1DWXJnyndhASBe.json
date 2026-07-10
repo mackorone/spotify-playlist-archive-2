@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Avi",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Sentino",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -2294,7 +2294,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 256933,
       "name": "BEZ STRESU",
       "url": "https://open.spotify.com/track/38Jen8MKWIwtRDOhbxFCzG"
@@ -2922,7 +2922,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 117600,
       "name": "BRAKUJE MI MATY",
       "url": "https://open.spotify.com/track/0KwCJQfnBHQgPOHjwY9W2x"
@@ -5400,7 +5400,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 167333,
       "name": "DESIGNER",
       "url": "https://open.spotify.com/track/6K31sbM32akAWrV1wK4ZHn"
@@ -5740,6 +5740,50 @@
       "duration_ms": 195704,
       "name": "Dom Nad Wod\u0105",
       "url": "https://open.spotify.com/track/3fsukGRaCYqfoQ010VQGcC"
+    },
+    {
+      "album": {
+        "name": "Don Alvarez",
+        "url": "https://open.spotify.com/album/3zS53BAFQKFwg2PGS7HJgQ"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "CrackHouse",
+          "url": "https://open.spotify.com/artist/0VUlwZP3CE5Nfjz1fYJxVr"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Don Alvarez",
+      "url": "https://open.spotify.com/track/25gw4lE397Ex7Dnuba1U6A"
+    },
+    {
+      "album": {
+        "name": "DOOKO\u0141A \u015aWIATA",
+        "url": "https://open.spotify.com/album/4QxStvjylQxXA4GRpid1oy"
+      },
+      "artists": [
+        {
+          "name": "Kabe",
+          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
+        },
+        {
+          "name": "Worek",
+          "url": "https://open.spotify.com/artist/00o5eWNk5MqreQLbngsikb"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191366,
+      "name": "DOOKO\u0141A \u015aWIATA",
+      "url": "https://open.spotify.com/track/4MKqibeqzkEkNpnSV59zAa"
     },
     {
       "album": {
@@ -8148,7 +8192,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 181874,
       "name": "G\u0141UPIE RZECZY",
       "url": "https://open.spotify.com/track/2gEidMjgzD3TxLEknwWewl"
@@ -13740,7 +13784,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 198900,
       "name": "M\u0142ody kamieniarz",
       "url": "https://open.spotify.com/track/01kdJhfeY0VcaHVgYoq79L"
@@ -16471,6 +16515,24 @@
     },
     {
       "album": {
+        "name": "OSH TY",
+        "url": "https://open.spotify.com/album/0Yum1WWkWtGUSOyInIbhrV"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "OSH TY",
+      "url": "https://open.spotify.com/track/1n9PPqmn5rmkoUPkOAmGzy"
+    },
+    {
+      "album": {
         "name": "Osobowo\u015bci Dwie",
         "url": "https://open.spotify.com/album/2SVlS4bupwamLaoeEig71t"
       },
@@ -16694,7 +16756,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 162545,
       "name": "Ot tak",
       "url": "https://open.spotify.com/track/5fzLjnVS7A90JDYmaC730L"
@@ -20780,6 +20842,32 @@
     {
       "album": {
         "name": "START",
+        "url": "https://open.spotify.com/album/5sXdKxx38ARZ38u3sOwWAA"
+      },
+      "artists": [
+        {
+          "name": "Louis Villain",
+          "url": "https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv"
+        },
+        {
+          "name": "SVM!R",
+          "url": "https://open.spotify.com/artist/4K8wRpyAE3Cwq4q5Jpgpdh"
+        },
+        {
+          "name": "JNKSH",
+          "url": "https://open.spotify.com/artist/0QwZRtchj6deJgyAKW12IM"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175448,
+      "name": "START",
+      "url": "https://open.spotify.com/track/4AuTRYcDhgwmuCJ472Wtgy"
+    },
+    {
+      "album": {
+        "name": "START",
         "url": "https://open.spotify.com/album/6NLixoucrJzGcaWVyha43E"
       },
       "artists": [
@@ -21161,6 +21249,28 @@
     },
     {
       "album": {
+        "name": "kk",
+        "url": "https://open.spotify.com/album/798KIEMZ1IuBUBmCPH8OEc"
+      },
+      "artists": [
+        {
+          "name": "zdunekk",
+          "url": "https://open.spotify.com/artist/4HslOaTdnHIBXMAVlZQIOU"
+        },
+        {
+          "name": "Gory",
+          "url": "https://open.spotify.com/artist/7ubpSmIID5osd0LZkksfnQ"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124254,
+      "name": "szpilkki",
+      "url": "https://open.spotify.com/track/4Hpjxi2QkNsHADNiz2Zt44"
+    },
+    {
+      "album": {
         "name": "Sztuczne ognie",
         "url": "https://open.spotify.com/album/1bNNiUy9SxgiqgtSTUqxIa"
       },
@@ -21206,7 +21316,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 121714,
       "name": "Szybkie \u0141\u00f3dki",
       "url": "https://open.spotify.com/track/65ICmXkzBskrgjoEGU7YWN"
@@ -23139,6 +23249,24 @@
     },
     {
       "album": {
+        "name": "WALDEK KIEPSKI",
+        "url": "https://open.spotify.com/album/0cu0hYUipOmG1h8TCZ0IDE"
+      },
+      "artists": [
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166680,
+      "name": "WALDEK KIEPSKI",
+      "url": "https://open.spotify.com/track/1AWHemRVAmzAqaQfQcyqfM"
+    },
+    {
+      "album": {
         "name": "FF",
         "url": "https://open.spotify.com/album/2ydy628JCAOpPeT90o4f6z"
       },
@@ -24432,6 +24560,28 @@
       "duration_ms": 168000,
       "name": "ZAZA",
       "url": "https://open.spotify.com/track/5rNZXe9DZfysmY00COgDTW"
+    },
+    {
+      "album": {
+        "name": "Zejd\u017a mi z drogi",
+        "url": "https://open.spotify.com/album/0yGSIiamou4Sms8t88xUuw"
+      },
+      "artists": [
+        {
+          "name": "Oliwka Brazil",
+          "url": "https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs"
+        },
+        {
+          "name": "CUZCO$",
+          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Zejd\u017a mi z drogi",
+      "url": "https://open.spotify.com/track/2FO5CCs9e8xnUU9FqfR54Q"
     },
     {
       "album": {

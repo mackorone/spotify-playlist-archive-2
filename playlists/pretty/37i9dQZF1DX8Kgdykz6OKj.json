@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1586057,
+  "num_followers": 1586177,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-07-03 04:01:40",
       "album": {
-        "name": "RBT",
-        "url": "https://open.spotify.com/album/7tRd6qHR20ZfJKcGYGXbai"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 147504,
-      "name": "Axxtion",
-      "url": "https://open.spotify.com/track/2Uv3ZRtLNlAGvKPPga3Cru"
-    },
-    {
-      "added_at": "2026-07-03 04:01:40",
-      "album": {
         "name": "Saturday Mornings (feat. Lil Wayne)",
         "url": "https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 262573,
       "name": "Saturday Mornings (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu"
+    },
+    {
+      "added_at": "2026-07-03 04:01:40",
+      "album": {
+        "name": "RBT",
+        "url": "https://open.spotify.com/album/7tRd6qHR20ZfJKcGYGXbai"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 147504,
+      "name": "Axxtion",
+      "url": "https://open.spotify.com/track/2Uv3ZRtLNlAGvKPPga3Cru"
     },
     {
       "added_at": "2026-07-03 04:01:40",
@@ -859,26 +859,6 @@
     {
       "added_at": "2026-07-03 04:01:40",
       "album": {
-        "name": "Modal Soul",
-        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
-      },
-      "artists": [
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        },
-        {
-          "name": "Cise Starr & Akin from CYNE",
-          "url": "https://open.spotify.com/artist/0NQ5kUvKwC9r53V095i0np"
-        }
-      ],
-      "duration_ms": 175360,
-      "name": "Feather (feat. Cise Starr & Akin from CYNE)",
-      "url": "https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR"
-    },
-    {
-      "added_at": "2026-07-03 04:01:40",
-      "album": {
         "name": "ELSEWHERE",
         "url": "https://open.spotify.com/album/6TodyJESCEXJ67eXpUse0I"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 177021,
       "name": "False Accusations",
       "url": "https://open.spotify.com/track/4ZGOv0Qre6pB3xBLHM85lt"
+    },
+    {
+      "added_at": "2026-07-03 04:01:40",
+      "album": {
+        "name": "Modal Soul",
+        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
+      },
+      "artists": [
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        },
+        {
+          "name": "Cise Starr & Akin from CYNE",
+          "url": "https://open.spotify.com/artist/0NQ5kUvKwC9r53V095i0np"
+        }
+      ],
+      "duration_ms": 175360,
+      "name": "Feather (feat. Cise Starr & Akin from CYNE)",
+      "url": "https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR"
     },
     {
       "added_at": "2026-07-03 04:01:40",
@@ -1119,6 +1119,42 @@
     {
       "added_at": "2026-07-03 04:01:40",
       "album": {
+        "name": "3:AM (feat. Erykah Badu)",
+        "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 213566,
+      "name": "3:AM (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
+    },
+    {
+      "added_at": "2026-07-03 04:01:40",
+      "album": {
+        "name": "Train Of Thought",
+        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
+      },
+      "artists": [
+        {
+          "name": "Reflection Eternal",
+          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Memories Live",
+      "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
+    },
+    {
+      "added_at": "2026-07-03 04:01:40",
+      "album": {
         "name": "UP & AWAY!",
         "url": "https://open.spotify.com/album/2jlmcvz0xlwOsOGbiMFz7b"
       },
@@ -1143,38 +1179,18 @@
     {
       "added_at": "2026-07-03 04:01:40",
       "album": {
-        "name": "Train Of Thought",
-        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
+        "name": "Figure Numatic",
+        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
       },
       "artists": [
         {
-          "name": "Reflection Eternal",
-          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
         }
       ],
-      "duration_ms": 238573,
-      "name": "Memories Live",
-      "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
-    },
-    {
-      "added_at": "2026-07-03 04:01:40",
-      "album": {
-        "name": "3:AM (feat. Erykah Badu)",
-        "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 213566,
-      "name": "3:AM (feat. Erykah Badu)",
-      "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
+      "duration_ms": 370610,
+      "name": "Figure Numatic",
+      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
     },
     {
       "added_at": "2026-07-03 04:01:40",
@@ -1195,22 +1211,6 @@
       "duration_ms": 336866,
       "name": "Luv(sic.) pt3 (feat. Shing02)",
       "url": "https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk"
-    },
-    {
-      "added_at": "2026-07-03 04:01:40",
-      "album": {
-        "name": "Figure Numatic",
-        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        }
-      ],
-      "duration_ms": 370610,
-      "name": "Figure Numatic",
-      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
     },
     {
       "added_at": "2026-07-03 04:01:40",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-07-03 04:01:40",
       "album": {
-        "name": "Dont Wanna C Me Rich",
-        "url": "https://open.spotify.com/album/6kgS333fe7aqrClZAZmCfu"
-      },
-      "artists": [
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        }
-      ],
-      "duration_ms": 141172,
-      "name": "Dont Wanna C Me Rich",
-      "url": "https://open.spotify.com/track/3D1fiZW2BZf7QpbqhgFtwb"
-    },
-    {
-      "added_at": "2026-07-03 04:01:40",
-      "album": {
         "name": "GREEN LIGHT",
         "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 175714,
       "name": "GREEN LIGHT",
       "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
+    },
+    {
+      "added_at": "2026-07-03 04:01:40",
+      "album": {
+        "name": "Dont Wanna C Me Rich",
+        "url": "https://open.spotify.com/album/6kgS333fe7aqrClZAZmCfu"
+      },
+      "artists": [
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 141172,
+      "name": "Dont Wanna C Me Rich",
+      "url": "https://open.spotify.com/track/3D1fiZW2BZf7QpbqhgFtwb"
     },
     {
       "added_at": "2026-07-03 04:01:40",
@@ -1611,18 +1611,22 @@
     {
       "added_at": "2026-07-03 04:01:40",
       "album": {
-        "name": "That Jazz",
-        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
+        "name": "IMMORTAL",
+        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
       },
       "artists": [
         {
-          "name": "Coops",
-          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
+          "name": "Ricki Monique",
+          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
+        },
+        {
+          "name": "yourbeautifulruin",
+          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
         }
       ],
-      "duration_ms": 188764,
-      "name": "That Jazz",
-      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
+      "duration_ms": 185298,
+      "name": "IMMORTAL",
+      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
     },
     {
       "added_at": "2026-07-03 04:01:40",
@@ -1651,26 +1655,18 @@
     {
       "added_at": "2026-07-03 04:01:40",
       "album": {
-        "name": "California Games (feat. Earl Sweatshirt)",
-        "url": "https://open.spotify.com/album/2xFiOEI88LQHRso6Z0H8UI"
+        "name": "That Jazz",
+        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
       },
       "artists": [
         {
-          "name": "Armand Hammer",
-          "url": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+          "name": "Coops",
+          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
         }
       ],
-      "duration_ms": 193635,
-      "name": "California Games (feat. Earl Sweatshirt)",
-      "url": "https://open.spotify.com/track/0nZjAcQr2I4KIKkBEXE4Hx"
+      "duration_ms": 188764,
+      "name": "That Jazz",
+      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
     },
     {
       "added_at": "2026-07-03 04:01:40",
@@ -1695,22 +1691,26 @@
     {
       "added_at": "2026-07-03 04:01:40",
       "album": {
-        "name": "IMMORTAL",
-        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
+        "name": "California Games (feat. Earl Sweatshirt)",
+        "url": "https://open.spotify.com/album/2xFiOEI88LQHRso6Z0H8UI"
       },
       "artists": [
         {
-          "name": "Ricki Monique",
-          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
+          "name": "Armand Hammer",
+          "url": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C"
         },
         {
-          "name": "yourbeautifulruin",
-          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
         }
       ],
-      "duration_ms": 185298,
-      "name": "IMMORTAL",
-      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
+      "duration_ms": 193635,
+      "name": "California Games (feat. Earl Sweatshirt)",
+      "url": "https://open.spotify.com/track/0nZjAcQr2I4KIKkBEXE4Hx"
     },
     {
       "added_at": "2026-07-03 04:01:40",
@@ -1791,30 +1791,6 @@
     {
       "added_at": "2026-07-03 04:01:40",
       "album": {
-        "name": "Mishi",
-        "url": "https://open.spotify.com/album/4v9UNRmJKvZ2clhLrNrshD"
-      },
-      "artists": [
-        {
-          "name": "Cirilo Fernandez",
-          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
-        },
-        {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
-        },
-        {
-          "name": "Lautaro Quipildor",
-          "url": "https://open.spotify.com/artist/39RsGODePi7DUWbCMpExqR"
-        }
-      ],
-      "duration_ms": 199406,
-      "name": "Mishi",
-      "url": "https://open.spotify.com/track/1eKQNBeJJKLdEhrieQiX20"
-    },
-    {
-      "added_at": "2026-07-03 04:01:40",
-      "album": {
         "name": "Life Is Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/2eKy2HAQ2J3WY4Q4rVCha2"
       },
@@ -1835,6 +1811,30 @@
       "duration_ms": 216386,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW"
+    },
+    {
+      "added_at": "2026-07-03 04:01:40",
+      "album": {
+        "name": "Mishi",
+        "url": "https://open.spotify.com/album/4v9UNRmJKvZ2clhLrNrshD"
+      },
+      "artists": [
+        {
+          "name": "Cirilo Fernandez",
+          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
+        },
+        {
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+        },
+        {
+          "name": "Lautaro Quipildor",
+          "url": "https://open.spotify.com/artist/39RsGODePi7DUWbCMpExqR"
+        }
+      ],
+      "duration_ms": 199406,
+      "name": "Mishi",
+      "url": "https://open.spotify.com/track/1eKQNBeJJKLdEhrieQiX20"
     },
     {
       "added_at": "2026-07-03 04:01:40",

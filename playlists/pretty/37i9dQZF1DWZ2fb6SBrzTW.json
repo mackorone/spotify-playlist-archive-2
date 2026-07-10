@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 86900,
+  "num_followers": 86917,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -31,22 +31,6 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 134482,
-      "name": "Basquiat",
-      "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
         "name": "Allonsy",
         "url": "https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 122711,
       "name": "Allonsy",
       "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 134482,
+      "name": "Basquiat",
+      "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -127,18 +127,26 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+        "name": "Hey Jago",
+        "url": "https://open.spotify.com/album/0z4JNG0qrRWOZnrub2A40d"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Rahman Jago",
+          "url": "https://open.spotify.com/artist/65ekBj6zdws3gFRSYH7yNS"
         }
       ],
-      "duration_ms": 204279,
-      "name": "Uhh Yeahh",
-      "url": "https://open.spotify.com/track/42Xw4kv2Wy75UugmQ4kv8P"
+      "duration_ms": 125284,
+      "name": "Hey Jago",
+      "url": "https://open.spotify.com/track/4xVj25uTjTZCaHbSFbYwAE"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -163,26 +171,18 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "Hey Jago",
-        "url": "https://open.spotify.com/album/0z4JNG0qrRWOZnrub2A40d"
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
       "artists": [
         {
-          "name": "Poco Lee",
-          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "Rahman Jago",
-          "url": "https://open.spotify.com/artist/65ekBj6zdws3gFRSYH7yNS"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 125284,
-      "name": "Hey Jago",
-      "url": "https://open.spotify.com/track/4xVj25uTjTZCaHbSFbYwAE"
+      "duration_ms": 204279,
+      "name": "Uhh Yeahh",
+      "url": "https://open.spotify.com/track/42Xw4kv2Wy75UugmQ4kv8P"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -455,6 +455,30 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
         "name": "Back to Back",
         "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
       },
@@ -483,30 +507,6 @@
       "duration_ms": 234024,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "Stamina",
-      "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
+        "name": "yawa",
+        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "yawa",
+      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
         "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
         "url": "https://open.spotify.com/album/3FFhGEtxLrk7T6sAadIoUg"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 443556,
       "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
       "url": "https://open.spotify.com/track/4GxZKOak4mz6VmMJUmO4Is"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
-        "name": "yawa",
-        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "yawa",
-      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
+        "name": "Be There Still",
+        "url": "https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "Be There Still",
+      "url": "https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
         "name": "Trump",
         "url": "https://open.spotify.com/album/4ae3iKzKGE1kPWigSBARMS"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 160074,
       "name": "Trump",
       "url": "https://open.spotify.com/track/6N5ZV6koxWGLSyO4YfmSP3"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
-        "name": "Be There Still",
-        "url": "https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Be There Still",
-      "url": "https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "Hi Hi",
-        "url": "https://open.spotify.com/album/6gmqGq8zHgE0ym1OImsxqt"
-      },
-      "artists": [
-        {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
-        },
-        {
-          "name": "Berri-Tiga",
-          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
-        }
-      ],
-      "duration_ms": 135941,
-      "name": "Hi Hi",
-      "url": "https://open.spotify.com/track/7udshzJFOOChc3pUehXDbf"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
         "name": "Otilo (Izz Gone)",
         "url": "https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 162782,
       "name": "Otilo (Izz Gone)",
       "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
+        "name": "Hi Hi",
+        "url": "https://open.spotify.com/album/6gmqGq8zHgE0ym1OImsxqt"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        }
+      ],
+      "duration_ms": 135941,
+      "name": "Hi Hi",
+      "url": "https://open.spotify.com/track/7udshzJFOOChc3pUehXDbf"
     },
     {
       "added_at": "2026-03-13 00:01:25",

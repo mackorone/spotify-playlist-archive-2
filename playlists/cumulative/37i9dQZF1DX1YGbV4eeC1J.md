@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Vanilla
+> What is your love language? Say it in Swahili\.  Cover: Bruce Africa
 
-372 songs - 20 hr 50 min
+374 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Closer](https://open.spotify.com/track/2WVcEQjK8nDQq3xcGrb1I3) | [Miss Kamweru](https://open.spotify.com/artist/7bhv4dzPZ4ukV1fCBJNeUQ) | [Closer](https://open.spotify.com/album/0n38FRZY0LI1cgI4nAychR) | 2:37 | 2026-05-15 | 2026-06-26 |
 | [Confuse Me](https://open.spotify.com/track/7hPrIkzoycpFc9u2sQk8Lm) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp), [Mordecai Dex](https://open.spotify.com/artist/7itqo8Vno3ohE3Ce85aHBL), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Healing](https://open.spotify.com/album/6mjstDKxdSDfK7PgOvnKRC) | 3:50 | 2025-07-04 | 2025-11-07 |
 | [Controller](https://open.spotify.com/track/4Bpkbim8Fxw8dSdqVFgzbX) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Controller](https://open.spotify.com/album/07kcDlbjoCj3aFEw63CDA2) | 3:05 | 2022-08-11 | 2022-12-17 |
+| [Crown](https://open.spotify.com/track/7JGcBs1zowrL3rYS3qPcIX) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Crown](https://open.spotify.com/album/7MsbcOAMK6MCqILd0ezjkt) | 3:38 | 2026-07-10 |  |
 | [Dah! \(feat\. Alikiba\)](https://open.spotify.com/track/4aiEer4vCjTyuRAVFAlmGD) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Dah! \(feat\. Alikiba\)](https://open.spotify.com/album/3W0tL0BDQHyKP4Wjol9Ps6) | 3:08 | 2024-03-14 | 2024-03-22 |
 | [Dai](https://open.spotify.com/track/7kfS56uoLEzF0ZZGqCLO5h) | [Dufla](https://open.spotify.com/artist/4GoDK9fd6jIRjetgGZnmnC), [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn) | [Dai](https://open.spotify.com/album/6z1HBn8vf6Nm9GU8KkT673) | 3:33 | 2023-07-06 | 2023-08-04 |
 | [Dansi](https://open.spotify.com/track/1NP8M4sGjCFA5LBnatSgSz) | [D Ukingo](https://open.spotify.com/artist/3TqLsJbCWP1kXZocSWhpCO) | [Dansi](https://open.spotify.com/album/1eLebeQYFZWIThElQphNZ0) | 2:39 | 2024-11-29 | 2024-12-06 |
@@ -82,7 +83,7 @@
 | [Feelings \(feat\. Khaligraph Jones\)](https://open.spotify.com/track/4TwiRbTgM2vvY8cErSflxy) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Bumbuli Boy](https://open.spotify.com/album/7LyCaevKDsXhUhW0dFi7W9) | 3:14 | 2025-09-25 | 2026-04-17 |
 | [Fitingi \(feat\. Marioo\)](https://open.spotify.com/track/5UhDCKzxdH5RLbnUL5f4ld) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Fitingi \(feat\. Marioo\)](https://open.spotify.com/album/14LrFiTCxQoYkteAQO4iJY) | 3:00 | 2025-04-04 |  |
 | [Forever](https://open.spotify.com/track/1T64n0T17I3deCh0Uk9hct) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Therapy](https://open.spotify.com/album/0E7ArB2FlQPLLdyynSOvUp) | 3:37 | 2024-04-25 | 2024-07-05 |
-| [Furaha](https://open.spotify.com/track/77tlTHsLMs2ubmp8VyNqpx) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Furaha](https://open.spotify.com/album/4xsB6wIT8GFXLF1JIx2eVl) | 2:45 | 2025-02-13 |  |
+| [Furaha](https://open.spotify.com/track/77tlTHsLMs2ubmp8VyNqpx) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Furaha](https://open.spotify.com/album/4xsB6wIT8GFXLF1JIx2eVl) | 2:45 | 2025-02-13 | 2026-07-10 |
 | [Furukuta](https://open.spotify.com/track/5sgsXrwCGhGXaFP7KhbwrI) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Furukuta](https://open.spotify.com/album/6SUXON4yFtTdklgXQxOk4t) | 3:06 | 2024-06-27 | 2024-10-11 |
 | [Gimmie](https://open.spotify.com/track/72fGY2W3zO4QpYpmoSP9W5) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi) | [Gimmie](https://open.spotify.com/album/1Bv11bCWhUfhSc5QJk5MW8) | 2:20 | 2026-01-15 | 2026-06-26 |
 | [Goli](https://open.spotify.com/track/6n3ZfpBRbKFDbJcJDNdEUe) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Goli](https://open.spotify.com/album/5rmaDuakvgsWB6LdpLzj0z) | 3:31 | 2025-05-02 | 2025-08-22 |
@@ -136,7 +137,7 @@
 | [Kukupenda](https://open.spotify.com/track/56lZHXU9dMCIEPSEAsY0zP) | [Vii Sugar Boy](https://open.spotify.com/artist/2BE2wbegLNKCxfPe7jgXA3) | [Kukupenda](https://open.spotify.com/album/1nsDxtG4GX7aMgAQ1QTTo7) | 3:32 | 2024-06-14 | 2024-06-21 |
 | [Kumbe](https://open.spotify.com/track/2Xcvr4o54F8lib8ptIgSDO) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Kumbe](https://open.spotify.com/album/20hCsxkV1X5ipI9g1Yojh3) | 3:27 | 2026-07-02 |  |
 | [Kupenda](https://open.spotify.com/track/4lzsQhqooYugTKwymQ6KHE) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Kupenda](https://open.spotify.com/album/6GzRBHBJs4SG8AoaGwAaTe) | 2:55 | 2025-01-09 | 2026-03-20 |
-| [Lala \(feat\. Abigail Chams\)](https://open.spotify.com/track/759DS4sknbTnQXgSsz1i2I) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Lala \(feat\. Abigail Chams\)](https://open.spotify.com/album/0pTKNetIIghEtDHembZlje) | 2:10 | 2025-08-14 |  |
+| [Lala \(feat\. Abigail Chams\)](https://open.spotify.com/track/759DS4sknbTnQXgSsz1i2I) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Lala \(feat\. Abigail Chams\)](https://open.spotify.com/album/0pTKNetIIghEtDHembZlje) | 2:10 | 2025-08-14 | 2026-07-10 |
 | [Lalala](https://open.spotify.com/track/1DpJxlcNKo8b9JEA2Mu1uq) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3), [Mordecai Dex](https://open.spotify.com/artist/7itqo8Vno3ohE3Ce85aHBL) | [Lalala](https://open.spotify.com/album/5MtivQv9xtPdnXnf4E7zxl) | 2:40 | 2024-02-29 | 2024-06-14 |
 | [Lazizi \- Spotify Singles \- Cover](https://open.spotify.com/track/4rutxh0KdzzxPNR75CCgJR) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Lazizi \- Spotify Singles \(Cover\)](https://open.spotify.com/album/3sKcmVnqk37Sgsdg9GBfce) | 4:40 | 2023-11-03 | 2024-04-19 |
 | [Lonely \(feat\. Nandy\)](https://open.spotify.com/track/7iO2DALT0B86XvNRqA4pES) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK), [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Lonely \(feat\. Nandy\)](https://open.spotify.com/album/5QRSblXzuw4jNruyefe6nI) | 3:31 | 2024-05-23 | 2026-02-13 |
@@ -358,6 +359,7 @@
 | [Wangu](https://open.spotify.com/track/5jo2MPiQgct6oCFOO5FE36) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [The Godson](https://open.spotify.com/album/1zdIcgQ7EZqAF3f48De4fi) | 2:49 | 2024-11-29 |  |
 | [Wanita](https://open.spotify.com/track/6QZBqo7ubhps9A0Z3BvXwf) | [ICent](https://open.spotify.com/artist/56bg8TSGbshdGcQnPXqOlR), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Wanita](https://open.spotify.com/album/7utPhWIODju3YH6vdFKokR) | 3:32 | 2025-01-31 | 2025-06-14 |
 | [Wapambe](https://open.spotify.com/track/6FnpY2o7B3Je5EuvizjdDx) | [Haitham Kim](https://open.spotify.com/artist/750ujPfB38qROElCTru0vL), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Wapambe](https://open.spotify.com/album/1Gj7pdyvDIyM2GYzbN4fJ5) | 3:14 | 2024-02-09 | 2024-05-17 |
+| [Wapi](https://open.spotify.com/track/0KW4jkATD90jEVUH1VYzT0) | [Centano](https://open.spotify.com/artist/4LpwKC4lrWuIGRxfbc8GO0) | [Self Love](https://open.spotify.com/album/7JdVF7n1nxAMrF9tACscLO) | 2:52 | 2026-07-10 |  |
 | [Wawili](https://open.spotify.com/track/0tZlISnKWa6Z0rjvOn8SBx) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Wawili](https://open.spotify.com/album/1vYxPvOHWpK4pFxRyFafcb) | 3:10 | 2024-02-15 | 2024-08-09 |
 | [Wewe](https://open.spotify.com/track/0lubOWkxW8XzWHvn05W9h9) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Wewe](https://open.spotify.com/album/6pGLKEtnPe2caApnGszFEX) | 3:30 | 2026-03-27 |  |
 | [Wewe hapoo](https://open.spotify.com/track/0w5jaSkHZgBkYfK9A1f46k) | [Lony Bway](https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Wewe hapoo](https://open.spotify.com/album/395r1bIIUEd20cxJgQ6bp5) | 3:56 | 2024-03-14 | 2024-03-22 |

@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 118156,
+  "num_followers": 118194,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -135,26 +135,6 @@
     {
       "added_at": "2026-06-25 22:36:06",
       "album": {
-        "name": "Breaking",
-        "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
-        }
-      ],
-      "duration_ms": 172160,
-      "name": "Aura Salad",
-      "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
-    },
-    {
-      "added_at": "2026-06-25 22:36:06",
-      "album": {
         "name": "I Know Who I Be",
         "url": "https://open.spotify.com/album/7dR22XlVbfSAhTSltPiU7g"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 233976,
       "name": "I Know Who I Be",
       "url": "https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu"
+    },
+    {
+      "added_at": "2026-06-25 22:36:06",
+      "album": {
+        "name": "Breaking",
+        "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "duration_ms": 172160,
+      "name": "Aura Salad",
+      "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
     },
     {
       "added_at": "2026-06-25 22:36:06",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-06-25 22:36:06",
       "album": {
-        "name": "Ukanigbe",
-        "url": "https://open.spotify.com/album/5XaW0jZyPkJg3A85nxX0dA"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 169299,
-      "name": "Tumo Weto",
-      "url": "https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4"
-    },
-    {
-      "added_at": "2026-06-25 22:36:06",
-      "album": {
         "name": "BODY (danz)",
         "url": "https://open.spotify.com/album/1xnMv2ReoYX0A9qiOukR0i"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 147696,
       "name": "BODY (danz)",
       "url": "https://open.spotify.com/track/51WcemyU0PlssXhhsspBYh"
+    },
+    {
+      "added_at": "2026-06-25 22:36:06",
+      "album": {
+        "name": "Ukanigbe",
+        "url": "https://open.spotify.com/album/5XaW0jZyPkJg3A85nxX0dA"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 169299,
+      "name": "Tumo Weto",
+      "url": "https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4"
     },
     {
       "added_at": "2026-06-25 22:36:06",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-06-25 22:36:06",
       "album": {
-        "name": "Mofe",
-        "url": "https://open.spotify.com/album/6Pshl1rktRcEVRGlPO9BrB"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Mofe",
-      "url": "https://open.spotify.com/track/1w8lSGDuMUgRh7rygMp7VB"
-    },
-    {
-      "added_at": "2026-06-25 22:36:06",
-      "album": {
         "name": "ANGELS",
         "url": "https://open.spotify.com/album/66rFXjuBIQl029QAVfpSpM"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 184437,
       "name": "ANGELS",
       "url": "https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og"
+    },
+    {
+      "added_at": "2026-06-25 22:36:06",
+      "album": {
+        "name": "Mofe",
+        "url": "https://open.spotify.com/album/6Pshl1rktRcEVRGlPO9BrB"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Mofe",
+      "url": "https://open.spotify.com/track/1w8lSGDuMUgRh7rygMp7VB"
     },
     {
       "added_at": "2026-06-25 22:36:06",
@@ -875,6 +875,26 @@
     {
       "added_at": "2026-06-25 22:36:06",
       "album": {
+        "name": "Richard Mille",
+        "url": "https://open.spotify.com/album/4hjaK3AT4U47LEXANnpHv0"
+      },
+      "artists": [
+        {
+          "name": "Vusic",
+          "url": "https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 171707,
+      "name": "Richard Mille",
+      "url": "https://open.spotify.com/track/62vNNwvVcdFLtq1COoj3ck"
+    },
+    {
+      "added_at": "2026-06-25 22:36:06",
+      "album": {
         "name": "Uzama The 3rd",
         "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
       },
@@ -895,6 +915,26 @@
     {
       "added_at": "2026-06-25 22:36:06",
       "album": {
+        "name": "On my mind",
+        "url": "https://open.spotify.com/album/43w6KiIP8mCiOCc1RFVcvT"
+      },
+      "artists": [
+        {
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "On my mind",
+      "url": "https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp"
+    },
+    {
+      "added_at": "2026-06-25 22:36:06",
+      "album": {
         "name": "Many People",
         "url": "https://open.spotify.com/album/70JkP23kQm8ufn4XS6Bv0q"
       },
@@ -911,26 +951,6 @@
       "duration_ms": 175448,
       "name": "Many People",
       "url": "https://open.spotify.com/track/33Bn3hhHkfVFKojsg41kb2"
-    },
-    {
-      "added_at": "2026-06-25 22:36:06",
-      "album": {
-        "name": "Richard Mille",
-        "url": "https://open.spotify.com/album/4hjaK3AT4U47LEXANnpHv0"
-      },
-      "artists": [
-        {
-          "name": "Vusic",
-          "url": "https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 171707,
-      "name": "Richard Mille",
-      "url": "https://open.spotify.com/track/62vNNwvVcdFLtq1COoj3ck"
     },
     {
       "added_at": "2026-06-25 22:36:06",
@@ -1023,26 +1043,6 @@
       "duration_ms": 180688,
       "name": "Calculate - II",
       "url": "https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw"
-    },
-    {
-      "added_at": "2026-06-25 22:36:06",
-      "album": {
-        "name": "On my mind",
-        "url": "https://open.spotify.com/album/43w6KiIP8mCiOCc1RFVcvT"
-      },
-      "artists": [
-        {
-          "name": "Yam\u00ea",
-          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 163994,
-      "name": "On my mind",
-      "url": "https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp"
     },
     {
       "added_at": "2026-06-25 22:36:06",
@@ -1207,6 +1207,42 @@
     {
       "added_at": "2026-06-25 22:36:06",
       "album": {
+        "name": "YBTM",
+        "url": "https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "YBTM",
+      "url": "https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc"
+    },
+    {
+      "added_at": "2026-06-25 22:36:06",
+      "album": {
+        "name": "Che Che (feat. Asake)",
+        "url": "https://open.spotify.com/album/5PoSVyeGIhZ9EYWZlkWF9R"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 169911,
+      "name": "Che Che (feat. Asake)",
+      "url": "https://open.spotify.com/track/2iCI6gHilTbSiD8a138KMU"
+    },
+    {
+      "added_at": "2026-06-25 22:36:06",
+      "album": {
         "name": "1 WORK (Remix)",
         "url": "https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls"
       },
@@ -1251,26 +1287,6 @@
     {
       "added_at": "2026-06-25 22:36:06",
       "album": {
-        "name": "Che Che (feat. Asake)",
-        "url": "https://open.spotify.com/album/5PoSVyeGIhZ9EYWZlkWF9R"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 169911,
-      "name": "Che Che (feat. Asake)",
-      "url": "https://open.spotify.com/track/2iCI6gHilTbSiD8a138KMU"
-    },
-    {
-      "added_at": "2026-06-25 22:36:06",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
       },
@@ -1283,6 +1299,26 @@
       "duration_ms": 171553,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
+    },
+    {
+      "added_at": "2026-06-25 22:36:06",
+      "album": {
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 133966,
+      "name": "disco",
+      "url": "https://open.spotify.com/track/6jcyiJ9pS1gkPvZvgl9ZO5"
     },
     {
       "added_at": "2026-06-25 22:36:06",
@@ -1311,26 +1347,6 @@
     {
       "added_at": "2026-06-25 22:36:06",
       "album": {
-        "name": "catharsis",
-        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 133966,
-      "name": "disco",
-      "url": "https://open.spotify.com/track/6jcyiJ9pS1gkPvZvgl9ZO5"
-    },
-    {
-      "added_at": "2026-06-25 22:36:06",
-      "album": {
         "name": "Go Crazy",
         "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 156000,
       "name": "Go Crazy",
       "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
-    },
-    {
-      "added_at": "2026-06-25 22:36:06",
-      "album": {
-        "name": "YBTM",
-        "url": "https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 176727,
-      "name": "YBTM",
-      "url": "https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc"
     },
     {
       "added_at": "2026-06-25 22:36:06",
@@ -1467,22 +1467,18 @@
     {
       "added_at": "2026-06-25 22:36:06",
       "album": {
-        "name": "Jembe / 14DRoad",
-        "url": "https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew"
+        "name": "JIGGLE",
+        "url": "https://open.spotify.com/album/0MlvZhXLMS6Q0gZlVeY11R"
       },
       "artists": [
         {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Chella",
+          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
         }
       ],
-      "duration_ms": 167657,
-      "name": "14DRoad",
-      "url": "https://open.spotify.com/track/2rkKR9JLqCNdAC4swOmAbv"
+      "duration_ms": 128495,
+      "name": "JIGGLE",
+      "url": "https://open.spotify.com/track/6kSNvau2G1L3qxsyMB3LaT"
     },
     {
       "added_at": "2026-06-25 22:36:06",
@@ -1503,18 +1499,22 @@
     {
       "added_at": "2026-06-25 22:36:06",
       "album": {
-        "name": "JIGGLE",
-        "url": "https://open.spotify.com/album/0MlvZhXLMS6Q0gZlVeY11R"
+        "name": "Jembe / 14DRoad",
+        "url": "https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew"
       },
       "artists": [
         {
-          "name": "Chella",
-          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 128495,
-      "name": "JIGGLE",
-      "url": "https://open.spotify.com/track/6kSNvau2G1L3qxsyMB3LaT"
+      "duration_ms": 167657,
+      "name": "14DRoad",
+      "url": "https://open.spotify.com/track/2rkKR9JLqCNdAC4swOmAbv"
     },
     {
       "added_at": "2026-06-25 22:36:06",

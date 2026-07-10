@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,329 songs - 2 day 2 hr 50 min
+1,330 songs - 2 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,7 +387,7 @@
 | [Far From Home](https://open.spotify.com/track/2Cs4FC4wZR6FfclKa8V0or) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Far From Home](https://open.spotify.com/album/1Bkgwqw2MZAwOePryDEQys) | 2:00 | 2022-04-15 | 2023-09-16 |
 | [Faster](https://open.spotify.com/track/74HsEuxWpgnH0osQ3LT7UP) | [LelleXCX](https://open.spotify.com/artist/0fjlNlZw225NEmBfLcYg6t) | [Youth](https://open.spotify.com/album/6EsM3MnrEP0kcCf73zoHlF) | 2:29 | 2021-11-10 | 2022-09-03 |
 | [Fat Cap](https://open.spotify.com/track/3nBvqYMvBUn00wIPnn28Yu) | [LoDub](https://open.spotify.com/artist/0r8v9ej0fnnyLhdF8YYz36) | [Fat Cap](https://open.spotify.com/album/2NGM9eRg0DXqUib1FZw6VH) | 2:27 | 2023-02-07 | 2025-07-16 |
-| [Feca Dreaming](https://open.spotify.com/track/1o2uZSeGGny9JwUwC5OjNH) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Feca Dreaming](https://open.spotify.com/album/6J1P0Nr20nzQ3gc9pjpUrf) | 2:32 | 2023-04-20 |  |
+| [Feca Dreaming](https://open.spotify.com/track/1o2uZSeGGny9JwUwC5OjNH) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Feca Dreaming](https://open.spotify.com/album/6J1P0Nr20nzQ3gc9pjpUrf) | 2:32 | 2023-04-20 | 2026-07-10 |
 | [female instinct](https://open.spotify.com/track/7Bo9waxvipuELlsPODymet) | [natalie kenston](https://open.spotify.com/artist/392PBTDto12btpdlkc3L3K) | [female instinct](https://open.spotify.com/album/5IyKsBgHSX7zqQNTJorahs) | 1:24 | 2021-11-10 | 2022-06-03 |
 | [Fibonacci Sequence](https://open.spotify.com/track/1dQuDoTE50pWa0bvTx7xce) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [Fibonacci Sequence](https://open.spotify.com/album/6W8ycDHnXNiLJ0Se569fKH) | 2:24 | 2024-09-13 | 2025-07-16 |
 | [Fields](https://open.spotify.com/track/27jH99Hj03THQbpOU5XnWF) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Fields](https://open.spotify.com/album/28kyJFTa7twzNPVk68j1VT) | 2:05 | 2022-09-16 | 2023-10-06 |
@@ -601,6 +601,7 @@
 | [Kanashi](https://open.spotify.com/track/0Xs2w8ZtC6h1AOGpqCuvgu) | [Saint Totoro](https://open.spotify.com/artist/4w13HtawCKjVZFCb60zMbM) | [Kanashi](https://open.spotify.com/album/0cC5AFwmnMaAc7GzXFzrRY) | 2:24 | 2021-11-10 | 2022-10-01 |
 | [Keep It Calm](https://open.spotify.com/track/7Lk97jmCy6NLGoMOCliR25) | [Flaminguez](https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x) | [Keep It Calm](https://open.spotify.com/album/0sSxZTHWKC6Cx8llgdP8zN) | 2:12 | 2022-05-20 | 2025-11-26 |
 | [Keep it in Lane, Jane](https://open.spotify.com/track/3Qz20D25rp3xMQxe16xoix) | [Simis Cartwright](https://open.spotify.com/artist/5CBZsBU3HohXRlymLEIubg) | [Keep it in Lane, Jane](https://open.spotify.com/album/4qroDgfV7jSXjzO0CD1OaZ) | 2:01 | 2022-11-25 | 2023-08-04 |
+| [Kerosene](https://open.spotify.com/track/3RjAv5yesDSOOZHricohtS) | [Thélian](https://open.spotify.com/artist/6x8XkVA1HlZjLuHaD5NaE0) | [Kerosene](https://open.spotify.com/album/0HOozkiI4OpT9KmD7q3GG8) | 1:42 | 2026-07-09 |  |
 | [kettle](https://open.spotify.com/track/1EDXY5GBYVVwqxQLUPth5f) | [morefine](https://open.spotify.com/artist/5baLgCNimsTPQMY2vQMzCk) | [kettle](https://open.spotify.com/album/6gFxnoGIrBNUBaosFJdMSD) | 2:27 | 2024-06-28 | 2024-07-05 |
 | [KeyKeys](https://open.spotify.com/track/39V8fNz1ayuvT7lpdLmbrL) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [KeyKeys](https://open.spotify.com/album/4wSICDvdfqYqO9KayVDGmE) | 1:54 | 2022-07-08 | 2025-07-16 |
 | [Khayana](https://open.spotify.com/track/3OCs6iHLZf7NtYqZULM2AY) | [Damien Seul](https://open.spotify.com/artist/0aUdovRwbnx4Z5qLIgBVDE) | [Khayana](https://open.spotify.com/album/1D5Ey1JTJH0b6VbgJxdrsJ) | 1:24 | 2021-11-10 | 2022-09-03 |
@@ -769,7 +770,7 @@
 | [Morning Mist](https://open.spotify.com/track/0ROMwF8gNj8dCog0D8zStX) | [Jelika](https://open.spotify.com/artist/3eJdbQVaYyybG0aBrDdI5u) | [Morning Mist](https://open.spotify.com/album/7czewPa3OyAV9f4kBbUqFR) | 1:40 | 2021-11-10 | 2022-09-03 |
 | [Morning Mist](https://open.spotify.com/track/2sBez5HNklqVvAHXr4Rdy2) | [rezov](https://open.spotify.com/artist/6qkecg8KZjkwnYkLGP4H3H) | [Morning Mist](https://open.spotify.com/album/4ly78EoL5J9WXcHaKYmSaJ) | 2:33 | 2022-11-25 | 2023-05-20 |
 | [Morning Nature](https://open.spotify.com/track/7mTekQjP822DSXDNsjUM7b) | [Terrence Woods](https://open.spotify.com/artist/68OTfPEEVauMj9rWCFSz1k) | [Morning Nature](https://open.spotify.com/album/0QDzmNXuK79T55gf5UYDAJ) | 2:20 | 2022-09-02 | 2025-07-16 |
-| [Morning Routine](https://open.spotify.com/track/5xkFx1r5s899TF4eDlzIq4) | [MZERA](https://open.spotify.com/artist/7xJs9lbHChKSJ9cHvW95tK), [DAISI](https://open.spotify.com/artist/6puAtSfW1mN8JoGYgG1x2i) | [Morning Routine](https://open.spotify.com/album/7h1b8l17OW0aKsk4MAKalt) | 1:59 | 2023-04-20 |  |
+| [Morning Routine](https://open.spotify.com/track/5xkFx1r5s899TF4eDlzIq4) | [MZERA](https://open.spotify.com/artist/7xJs9lbHChKSJ9cHvW95tK), [DAISI](https://open.spotify.com/artist/6puAtSfW1mN8JoGYgG1x2i) | [Morning Routine](https://open.spotify.com/album/7h1b8l17OW0aKsk4MAKalt) | 1:59 | 2023-04-20 | 2026-07-10 |
 | [morning snowfall](https://open.spotify.com/track/0OWOH3peRNugmlPPzBGqpQ) | [sozin](https://open.spotify.com/artist/0XO6mvpyaIdmGMmpsTtyIj) | [morning snowfall](https://open.spotify.com/album/5rPiiqeRJTAuQbEj9O3c36) | 3:14 | 2024-03-22 | 2024-05-21 |
 | [Morning Sunrise](https://open.spotify.com/track/0wzWrIYYmziBwVPPGvnIHq) | [Cammie](https://open.spotify.com/artist/44r79Vc1hTjMlaDFfWE5aO), [Chkody](https://open.spotify.com/artist/0lpmaOMQwbE7m9MOQjBQuU) | [Morning Sunrise](https://open.spotify.com/album/24hioIL1cpUNoGRDOwBoWx) | 2:20 | 2022-10-01 | 2025-07-16 |
 | [morrowind](https://open.spotify.com/track/2KEKQ6UuaqnuvYHLbh6rn8) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [morrowind](https://open.spotify.com/album/3iZaHCWiNFfzuQqGTQoDsL) | 1:37 | 2021-11-10 | 2022-09-20 |
@@ -821,7 +822,7 @@
 | [night sky](https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [night sky](https://open.spotify.com/album/516345pBZ5P5mVE99OPnLf) | 1:46 | 2023-09-01 |  |
 | [Night Walk](https://open.spotify.com/track/7xzikC3nNzN0NEM8M9oD8p) | [Kokomiko](https://open.spotify.com/artist/1Tl7kataLF4lZip5jfVd7D), [Kuba](https://open.spotify.com/artist/28WkyS3nwct2W3sHjPg4xo) | [Night Walk](https://open.spotify.com/album/3EC2kOMzMFAHL4TwSGIRjY) | 2:03 | 2022-04-15 | 2023-04-28 |
 | [night walk](https://open.spotify.com/track/4X9OLjeDCUTr39baLOSMlQ) | [mood.](https://open.spotify.com/artist/3fL0KDSqNCWDtbu1wfIaVo) | [night walk](https://open.spotify.com/album/6HXpBu0Dk9XuJ0zkicvFIr) | 1:48 | 2021-11-10 | 2022-08-19 |
-| [night walk](https://open.spotify.com/track/6O1vOhc580LSaIzJ9g9ttr) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [night walk](https://open.spotify.com/album/3uxYAT9KUlzz05fXFYES1g) | 2:33 | 2026-07-02 | 2026-07-04 |
+| [night walk](https://open.spotify.com/track/6O1vOhc580LSaIzJ9g9ttr) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [night walk](https://open.spotify.com/album/3uxYAT9KUlzz05fXFYES1g) | 2:33 | 2026-07-02 |  |
 | [Nightfade](https://open.spotify.com/track/3Gv80WP1W59BKI2N9mmfG6) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Nylon](https://open.spotify.com/album/4hkOQue9O8fVariqAdrAyY) | 2:41 | 2023-02-17 | 2025-07-16 |
 | [Nightfall](https://open.spotify.com/track/1zBbaX88WI9bPXochk6Uw3) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Nightfall](https://open.spotify.com/album/1sp1kOcBZv60kZMRNmxsLJ) | 2:27 | 2022-09-02 | 2023-08-04 |
 | [nightfalling](https://open.spotify.com/track/2cQWH9iQfh0epKQa4xhd7Q) | [Lily of The Valley](https://open.spotify.com/artist/5aaaOy8v47CPgiLzGZriXH) | [nightfalling](https://open.spotify.com/album/3SWGuY3dVRctObeoEB9Y2d) | 2:10 | 2026-05-22 |  |

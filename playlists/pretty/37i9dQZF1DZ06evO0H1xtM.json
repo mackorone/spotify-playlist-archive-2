@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 376583,
+  "num_followers": 376620,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAABC2m20Gxcy/ZV43n+SkaN6",
+  "snapshot_id": "ak2TAAAAAACng8AovqsSEG4ast/pSN/B",
   "tracks": [
     {
       "added_at": null,
@@ -223,18 +223,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "On fire",
-        "url": "https://open.spotify.com/album/4tUJpKlX1wWFntOI9CPMw8"
+        "name": "Cham\u00e1n",
+        "url": "https://open.spotify.com/album/0TPmQlQqf3SJuw4iXBd3yi"
       },
       "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
         {
           "name": "Grupo Marca Registrada",
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 167692,
-      "name": "A ti",
-      "url": "https://open.spotify.com/track/1iCfoPEd960ppyxSkU7ZUP"
+      "duration_ms": 167968,
+      "name": "Cham\u00e1n",
+      "url": "https://open.spotify.com/track/3bfLsmZWYctP2j2ZrPRGHA"
     },
     {
       "added_at": null,
@@ -259,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cham\u00e1n",
-        "url": "https://open.spotify.com/album/0TPmQlQqf3SJuw4iXBd3yi"
+        "name": "On fire",
+        "url": "https://open.spotify.com/album/4tUJpKlX1wWFntOI9CPMw8"
       },
       "artists": [
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        },
         {
           "name": "Grupo Marca Registrada",
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 167968,
-      "name": "Cham\u00e1n",
-      "url": "https://open.spotify.com/track/3bfLsmZWYctP2j2ZrPRGHA"
+      "duration_ms": 167692,
+      "name": "A ti",
+      "url": "https://open.spotify.com/track/1iCfoPEd960ppyxSkU7ZUP"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Si Las Dudas",
-        "url": "https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 161258,
-      "name": "Por Si Las Dudas",
-      "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Empat\u00eda",
         "url": "https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 244219,
       "name": "Empat\u00eda",
       "url": "https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Si Las Dudas",
+        "url": "https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 161258,
+      "name": "Por Si Las Dudas",
+      "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
     },
     {
       "added_at": null,

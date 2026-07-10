@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 637659,
+  "num_followers": 637657,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAADxmuJAR68ERp907yLar2gI",
+  "snapshot_id": "ak2TAAAAAACskNHnSkXQfj8Et4RU07ea",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hot Issue",
         "url": "https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 225666,
       "name": "Fool",
       "url": "https://open.spotify.com/track/0K1bxe733BFc74jk4g59ED"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS"
     },
     {
       "added_at": null,

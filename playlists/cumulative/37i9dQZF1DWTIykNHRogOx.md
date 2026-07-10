@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française avec Nikola.
+> Les  meilleures nouveautés de la chanson française avec TeddyBear.
 
-360 songs - 19 hr 36 min
+362 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [CE QU'ILS DEVIENNENT](https://open.spotify.com/track/1Tzm3EAp5PtUk2n9lKQkkj) | [NACH](https://open.spotify.com/artist/1Rt8z1WIL486Ohrcokl6t0), [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [PEAU NEUVE \(Édition Deluxe\)](https://open.spotify.com/album/6j4d5KsL5aKyFMzolRR2Ny) | 3:20 | 2025-01-09 | 2025-06-06 |
 | [Ce que j'aime \(feat\. Nikola\)](https://open.spotify.com/track/0FUBEByQyhya0tLMuJs7xR) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [PLUS DE REFLETS](https://open.spotify.com/album/673iiuWKaEWX6MqvvN0Cw6) | 3:26 | 2024-10-10 | 2025-03-07 |
 | [Ce qu’on devient \- La clé](https://open.spotify.com/track/6AKgRLO2zVrFdEddw0EIWj) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Ce qu'on devient](https://open.spotify.com/album/1rIf7dwV3e6J6TFlQ2UYBs) | 3:49 | 2026-06-04 |  |
-| [Cendrion](https://open.spotify.com/track/3GAqvxdHFCrtdc3iiJrULd) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Cendrion](https://open.spotify.com/album/1mWjQu3zIIMdRDV0KOaK4z) | 3:27 | 2026-04-02 |  |
+| [Cendrion](https://open.spotify.com/track/3GAqvxdHFCrtdc3iiJrULd) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Cendrion](https://open.spotify.com/album/1mWjQu3zIIMdRDV0KOaK4z) | 3:27 | 2026-04-02 | 2026-07-10 |
 | [Cette guerre](https://open.spotify.com/track/2F7F4ZWiPnJ8ZUK2Gc96dQ) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/42BQRI096xf6TUvY4UOuEV) | 3:17 | 2025-04-03 | 2025-09-05 |
 | [Cette vie](https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Mon sang](https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR) | 2:54 | 2025-09-04 | 2025-12-19 |
 | [Charade](https://open.spotify.com/track/2TXNsK2zjC72HSDA944rCv) | [Nina Uzan](https://open.spotify.com/artist/30iinzdRdXO3StiffBPiw9) | [Charade](https://open.spotify.com/album/6D5xf0IHzBNyfQU3otMLcn) | 2:40 | 2026-02-12 | 2026-05-22 |
@@ -83,6 +83,7 @@
 | [Déjà\-vu](https://open.spotify.com/track/1d21teYPebHp8P0ZalkS65) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Déjà\-vu](https://open.spotify.com/album/4AbQZtSEzo7gdk5puwWkww) | 3:22 | 2025-01-09 | 2025-05-23 |
 | [Empreinte](https://open.spotify.com/track/3rJNURh2fch9PTWeMMDQfV) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Tout de suite](https://open.spotify.com/album/05xpzYcfsrfR5asnH24pw5) | 3:17 | 2024-06-27 | 2024-12-06 |
 | [Encore un peu](https://open.spotify.com/track/5XftKlBfuqCdDQawQ2irNP) | [Ronnie](https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz) | [Encore un peu](https://open.spotify.com/album/3PcCcn7Ux7l9xAT2v0XxKc) | 2:41 | 2026-04-30 |  |
+| [Enfin Bon](https://open.spotify.com/track/01OPB7Vn1pat5iHmof1d1W) | [TeddyBear](https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu) | [Enfin Bon](https://open.spotify.com/album/4YfDoDMtsY9oeVyvcgdkJQ) | 2:55 | 2026-07-09 |  |
 | [Engagé volon\-Terre \(feat\. René Nunes\)](https://open.spotify.com/track/7CqiodjJF4h89XAAf4FTfN) | [Charlelie Couture](https://open.spotify.com/artist/3iqmYVVSjUVWoeREwRf5a6), [Rene Nunes](https://open.spotify.com/artist/4eeh1QxWA2ZkbIsQpYqHzF) | [Engagé volon\-Terre \(feat\. René Nunes\)](https://open.spotify.com/album/00rcsuB0dL7fQmbf7a2Wjl) | 3:07 | 2026-02-19 | 2026-05-01 |
 | [Ensemble](https://open.spotify.com/track/023aFxmqIq2u1M1VlIGcZF) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/5Q7n8469T4aKLpQRvmSEy4) | 3:02 | 2024-06-27 | 2024-08-30 |
 | [Ensemble \- feat\. Charlotte Cardin](https://open.spotify.com/track/75pByJRPFcINx2q9wpv6nZ) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/1ttdXNBRHGq9ASHdeA36cI) | 2:52 | 2024-11-28 | 2025-04-25 |
@@ -129,6 +130,7 @@
 | [JEAN](https://open.spotify.com/track/2KQaZMOnSVvUws99I5H6y2) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h) | [JEAN](https://open.spotify.com/album/7qIiRSinRJopSRVuqZT9E9) | 3:27 | 2025-01-30 | 2025-02-28 |
 | [Juste avant de tomber](https://open.spotify.com/track/1ZXwbERsrEeKMrZVdOPRMQ) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Juste avant de tomber](https://open.spotify.com/album/6QqYvin3hXiGiIgpwKxdBQ) | 4:02 | 2025-05-22 | 2025-10-10 |
 | [J’en ai pas encore fini](https://open.spotify.com/track/0hrtAH1qXHDIkEVX4XQYRr) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [J'en ai pas encore fini](https://open.spotify.com/album/4Z3JZPSywHfItYA8Tzqvgv) | 3:28 | 2026-06-04 |  |
+| [J’suis QLF](https://open.spotify.com/track/1SD5DVz2m8QWDVZRu3E94P) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [J'suis QLF](https://open.spotify.com/album/4mSPYYMKQaS2T5UENy0QbU) | 4:13 | 2026-07-09 |  |
 | [J’veux du cuir](https://open.spotify.com/track/40pW3lzalVawpg8oTL1uv8) | [Vanille](https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI) | [J’veux du cuir](https://open.spotify.com/album/3qWWwn60K9WIFBILpDXHxb) | 2:44 | 2025-12-11 | 2026-04-10 |
 | [Kisbee](https://open.spotify.com/track/5mefCB9Jjlll59HwaLK33U) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Kisbee](https://open.spotify.com/album/62m4yqqakepro5IsQz5QN5) | 2:22 | 2026-06-25 |  |
 | [L'amertume \- Issu du documentaire "Tout un fromage"](https://open.spotify.com/track/13QPh3IfOzMdpmoWlieHRV) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [L'amertume \(Issu du documentaire "Tout un fromage"\)](https://open.spotify.com/album/4x7Ew0u9AqYYelle6w9KCj) | 2:41 | 2026-04-09 |  |

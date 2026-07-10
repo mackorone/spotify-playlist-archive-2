@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: Lina-Mariah",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: Levin Liam, SIRA",
   "name": "me right now",
   "tracks": [
     {
@@ -13214,7 +13214,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 287055,
       "name": "DANCE...",
       "url": "https://open.spotify.com/track/5rfOARz6QO73wPATyMtQQZ"
@@ -21095,6 +21095,24 @@
     },
     {
       "album": {
+        "name": "Frieden",
+        "url": "https://open.spotify.com/album/2k9DOSaatqXZQa3l19qhUi"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Frieden",
+      "url": "https://open.spotify.com/track/5KuUGv7LppjS2XfEemohEh"
+    },
+    {
+      "album": {
         "name": "frieden",
         "url": "https://open.spotify.com/album/5iAkJn3zy2oVqeTMVyozku"
       },
@@ -23930,7 +23948,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 171537,
       "name": "Glastisch",
       "url": "https://open.spotify.com/track/0h6Rex3lPLTAGotD2I6ZcS"
@@ -24522,6 +24540,24 @@
       "duration_ms": 172606,
       "name": "Goldman Sachs",
       "url": "https://open.spotify.com/track/1Nk3zGtszA6KjOOQmb6VBg"
+    },
+    {
+      "album": {
+        "name": "Goldrichtig",
+        "url": "https://open.spotify.com/album/4RaijoRP9vs55dNh4LVQn5"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "Goldrichtig",
+      "url": "https://open.spotify.com/track/6m30ibqUxVeV3BblhchtEG"
     },
     {
       "album": {
@@ -27670,7 +27706,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 194376,
       "name": "Hit the Wall",
       "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
@@ -29701,6 +29737,24 @@
     },
     {
       "album": {
+        "name": "Ich denk an dich",
+        "url": "https://open.spotify.com/album/1Kqnz3yaL8gvxP9YUnfr89"
+      },
+      "artists": [
+        {
+          "name": "Jenny & Joy",
+          "url": "https://open.spotify.com/artist/5biUqgfoCEV5HSpWHWUgLH"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160205,
+      "name": "Ich denk an dich",
+      "url": "https://open.spotify.com/track/5ikD0eJ2tR0KGzbNmQaN79"
+    },
+    {
+      "album": {
         "name": "Ich frag mich",
         "url": "https://open.spotify.com/album/1j6Um50KAGT9d4NYFeIWZa"
       },
@@ -31722,7 +31776,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 222602,
       "name": "jAGUAR",
       "url": "https://open.spotify.com/track/7r1xF1bYg6BMs8u5V4sAeT"
@@ -35412,6 +35466,24 @@
       "duration_ms": 172342,
       "name": "Last Last",
       "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
+    },
+    {
+      "album": {
+        "name": "Last Man Standing",
+        "url": "https://open.spotify.com/album/4KT2BedID3WG8MZXobCRAU"
+      },
+      "artists": [
+        {
+          "name": "bac",
+          "url": "https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173669,
+      "name": "Last Man Standing",
+      "url": "https://open.spotify.com/track/08kPU1nRw2TFkqxmFFh0IL"
     },
     {
       "album": {
@@ -40790,6 +40862,24 @@
       "duration_ms": 120093,
       "name": "MISCHKONSUM",
       "url": "https://open.spotify.com/track/1B8iBVpdLg2IxHv99ZAUKs"
+    },
+    {
+      "album": {
+        "name": "misery.",
+        "url": "https://open.spotify.com/album/6QJfoSZuiyqoKXXIXMyYO2"
+      },
+      "artists": [
+        {
+          "name": "pupsies",
+          "url": "https://open.spotify.com/artist/0Uo0W0Vfq9ZOLCFngwxOLm"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166401,
+      "name": "misery.",
+      "url": "https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY"
     },
     {
       "album": {
@@ -49552,7 +49642,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 205229,
       "name": "Prada Sport",
       "url": "https://open.spotify.com/track/4l3hXUZ5g2EB0R1SEPcsue"
@@ -53787,6 +53877,24 @@
     },
     {
       "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/5A94ZGE648fjXkHHSfh1xv"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151741,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/6xupcsJHo3wW2tSVKwu4mf"
+    },
+    {
+      "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/03xh8sZqJDe50mUiEqk7Ni"
       },
@@ -56434,7 +56542,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 182374,
       "name": "Sommerregen (Nimm meine Hand)",
       "url": "https://open.spotify.com/track/17qpIQNRNWWeOQm6VwT6SN"
@@ -66802,6 +66910,24 @@
       "duration_ms": 107415,
       "name": "We Never Met",
       "url": "https://open.spotify.com/track/3obYzeG6ycjGPGVZyRmjTH"
+    },
+    {
+      "album": {
+        "name": "WE ON GO",
+        "url": "https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168533,
+      "name": "WE ON GO",
+      "url": "https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ"
     },
     {
       "album": {

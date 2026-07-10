@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 
 > Parque Simón Bolívar, Marzo 20, 21 y 22.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,634 likes - 73 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,631 likes - 73 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 16 | [poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 2:01 |
 | 17 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 18 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 |
-| 19 | [Anxiety](https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal \(Extended\)](https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq) | 4:09 |
-| 20 | [Clouds](https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Levi Don't Do It](https://open.spotify.com/album/3hXx9qkxsHdQ1oyeqOvUAJ) | 2:38 |
+| 19 | [Clouds](https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Levi Don't Do It](https://open.spotify.com/album/3hXx9qkxsHdQ1oyeqOvUAJ) | 2:38 |
+| 20 | [Anxiety](https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal \(Extended\)](https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq) | 4:09 |
 | 21 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 |
 | 22 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
 | 23 | [Está Dañada](https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:34 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 65 | [MC Dinero](https://open.spotify.com/track/5vDKAa8p9ect2w1D0jVLDa) | [ANTOPIKO3](https://open.spotify.com/artist/7pIvpBpGKSiazpGDqeuj3a) | [Enkryptada](https://open.spotify.com/album/7CT5a6r4GHKRK3UKb62G1p) | 1:19 |
 | 66 | [La Colisión](https://open.spotify.com/track/5mKKcE9nZzLGDsi7hw9ZbN) | [dvd](https://open.spotify.com/artist/2zLbu1txxbXVkqql76GCGR) | [La Colisión](https://open.spotify.com/album/0mGWewNlWnhAeoLGNE0QBf) | 2:48 |
 | 67 | [Sosiego enla voz](https://open.spotify.com/track/30uKVQ8hm5lPKqn2hou9sJ) | [Agraciada](https://open.spotify.com/artist/0bXDryOL53cE5905IBMDOQ) | [Sosiego enla voz](https://open.spotify.com/album/6Rg95q6m55BBgYL8ULrIf8) | 2:03 |
-| 68 | [Can't Stop The Bleeding](https://open.spotify.com/track/6nvby2z8Gx8lAPX3Oq5tA5) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Can't Stop The Bleeding](https://open.spotify.com/album/4V6kISSEKInUDjZ8mst8KQ) | 4:38 |
-| 69 | [Demo](https://open.spotify.com/track/1fu2z1WS9gmszAt1kEoQDb) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [Demo](https://open.spotify.com/album/2fTICNULHgrYRmbwFpbBIZ) | 3:06 |
+| 68 | [Demo](https://open.spotify.com/track/1fu2z1WS9gmszAt1kEoQDb) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [Demo](https://open.spotify.com/album/2fTICNULHgrYRmbwFpbBIZ) | 3:06 |
+| 69 | [Can't Stop The Bleeding](https://open.spotify.com/track/6nvby2z8Gx8lAPX3Oq5tA5) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Can't Stop The Bleeding](https://open.spotify.com/album/4V6kISSEKInUDjZ8mst8KQ) | 4:38 |
 | 70 | [El Túnel](https://open.spotify.com/track/5Th66m2GLWVgsVb8pvcR3W) | [Nicolás y los Fumadores](https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh) | [Dios y La Mata de Lulo o ¿Qué hacer en caso de que haya perdido la luz?](https://open.spotify.com/album/568P4ZZ4SiNTFiigsiTI2A) | 3:57 |
 | 71 | [una casualidad](https://open.spotify.com/track/75t6WipUSPWFFj9qY8wfpa) | [Daniel Andrés](https://open.spotify.com/artist/3osQVuvWyX0Cxs0XTrB96q), [Jc Aviles](https://open.spotify.com/artist/5tbIXWoBJxflr4ng65iPiT) | [una casualidad](https://open.spotify.com/album/36l46wDSzUroaT9no4i0Ik) | 3:56 |
 | 72 | [fuga](https://open.spotify.com/track/0LKqLPLiE8ZdSy5k3IJW33) | [innexen](https://open.spotify.com/artist/4ifKGift7hUW8xG85qZjwK) | [hot steel: round 3](https://open.spotify.com/album/1K2ox3o0sOrs4SIzyKQ3XS) | 5:49 |

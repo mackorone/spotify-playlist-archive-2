@@ -2,9 +2,9 @@
 
 ### [No Cap \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWSq3HVpgrk0E)
 
-> The whole truth\. Cover: Future
+> The whole truth\. Cover: Yung Miami
 
-88 songs - 4 hr 16 min
+89 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,10 +73,11 @@
 | [PAY ME \(feat\. Stormzy and Zlatan\)](https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [PAY ME](https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5) | 3:30 | 2025-10-17 | 2026-01-17 |
 | [PAYG](https://open.spotify.com/track/0lgxvRcbVVylxN9cli3WSi) | [Digga](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [PAYG](https://open.spotify.com/album/1auIHYagR2co2AFtmAKILv) | 2:38 | 2026-04-16 | 2026-05-13 |
 | [PBT](https://open.spotify.com/track/5820PtzfB116EIALe50F6t) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 4:10 | 2025-10-17 | 2026-06-27 |
-| [Proud Of Me \(feat\. Meek Mill\)](https://open.spotify.com/track/1c3q6ie3uWznQ8hgcQrtYb) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:50 | 2025-10-17 |  |
+| [Proud Of Me \(feat\. Meek Mill\)](https://open.spotify.com/track/1c3q6ie3uWznQ8hgcQrtYb) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:50 | 2025-10-17 | 2026-07-10 |
 | [Radio](https://open.spotify.com/track/4WtMTAplAbnTaFuSxVphOj) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Radio](https://open.spotify.com/album/4Fdsn3xJZC7VwCsjzNz9jR) | 2:39 | 2026-06-26 |  |
 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-10-17 |  |
 | [SHOW ME LOVE \(feat\. Tory Lanez\)](https://open.spotify.com/track/37og4liez5wLRo5Rfe0ygo) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [SHOW ME LOVE \(feat\. Tory Lanez\)](https://open.spotify.com/album/4jZicC7cLLn9dQt4vGvtNh) | 2:07 | 2025-10-17 | 2025-12-01 |
+| [Spend Dat](https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Spend Dat](https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC) | 3:01 | 2026-07-09 |  |
 | [Summertime](https://open.spotify.com/track/2uMkradY7AwoycLaupIpNP) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Summertime](https://open.spotify.com/album/2Ne4WxL1YgJMf6r16br4mk) | 1:49 | 2025-10-17 | 2025-12-06 |
 | [Tartan](https://open.spotify.com/track/0rMZlyruR3etQ2F6baXc8S) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du), [Reekz MB](https://open.spotify.com/artist/4LZBcaTrA5ou6aW2OJzFza) | [Tartan](https://open.spotify.com/album/7lUojGh0Vop8CmHF69H7Ig) | 1:49 | 2025-10-17 | 2026-02-13 |
 | [Teenage Famous](https://open.spotify.com/track/4t8n6V5Lfl5ETENNmjqi9e) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [Weekend Rockstar](https://open.spotify.com/album/075UnQx3cTGfN9mg82Agwz) | 2:09 | 2026-02-13 | 2026-02-28 |

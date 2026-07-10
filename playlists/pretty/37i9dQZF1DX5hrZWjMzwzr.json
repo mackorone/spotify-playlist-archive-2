@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11745,
+  "num_followers": 11744,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,30 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "FREE WIFI",
+        "url": "https://open.spotify.com/album/2GKIvHvN2ZmWMNOouIhUQE"
+      },
+      "artists": [
+        {
+          "name": "god.wifi",
+          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
+        },
+        {
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+        },
+        {
+          "name": "Drabusheyka",
+          "url": "https://open.spotify.com/artist/0UiOIZotAQMcX2gNa6aflH"
+        }
+      ],
+      "duration_ms": 144324,
+      "name": "pingwin",
+      "url": "https://open.spotify.com/track/3p65URLNKVQ7esO9QJtSZj"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "W KONTAKCIE",
         "url": "https://open.spotify.com/album/1yp7VA7hHf2sOIYeiIkjWI"
       },
@@ -867,30 +891,6 @@
       "duration_ms": 203749,
       "name": "W KONTAKCIE",
       "url": "https://open.spotify.com/track/4Twi1X2kxlwEYJKNFZVwRs"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "FREE WIFI",
-        "url": "https://open.spotify.com/album/2GKIvHvN2ZmWMNOouIhUQE"
-      },
-      "artists": [
-        {
-          "name": "god.wifi",
-          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
-        },
-        {
-          "name": "\u017babson",
-          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
-        },
-        {
-          "name": "Drabusheyka",
-          "url": "https://open.spotify.com/artist/0UiOIZotAQMcX2gNa6aflH"
-        }
-      ],
-      "duration_ms": 144324,
-      "name": "pingwin",
-      "url": "https://open.spotify.com/track/3p65URLNKVQ7esO9QJtSZj"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "NEXT",
-        "url": "https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo"
-      },
-      "artists": [
-        {
-          "name": "javier",
-          "url": "https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY"
-        }
-      ],
-      "duration_ms": 113089,
-      "name": "SIE KLEI",
-      "url": "https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "Rajzefiber",
         "url": "https://open.spotify.com/album/1zySj2zrLpCvz5B9ruqpse"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 124833,
       "name": "STYL POPPIN",
       "url": "https://open.spotify.com/track/2ifECaZoMt964XTfJpfKOe"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "NEXT",
+        "url": "https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo"
+      },
+      "artists": [
+        {
+          "name": "javier",
+          "url": "https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY"
+        }
+      ],
+      "duration_ms": 113089,
+      "name": "SIE KLEI",
+      "url": "https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "ALBUM ALPHA (DEMO)",
-        "url": "https://open.spotify.com/album/3B5gMNPmUMIpn05rwuitV6"
-      },
-      "artists": [
-        {
-          "name": "Bober",
-          "url": "https://open.spotify.com/artist/03rREATXGWcD2CfG3OXDZY"
-        },
-        {
-          "name": "shhieda",
-          "url": "https://open.spotify.com/artist/3SmlmvX2qQzGJDn2QZkMFW"
-        }
-      ],
-      "duration_ms": 159981,
-      "name": "Nie ma takiego numeru",
-      "url": "https://open.spotify.com/track/4KwrwRXSWlY95QccTUxiD5"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "Czwarta Rano",
         "url": "https://open.spotify.com/album/6U5SqvclMhXUaI0lWlJxgp"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 160851,
       "name": "Czwarta Rano",
       "url": "https://open.spotify.com/track/3GMbyrZOt6OsEq8id8jU4h"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "ALBUM ALPHA (DEMO)",
+        "url": "https://open.spotify.com/album/3B5gMNPmUMIpn05rwuitV6"
+      },
+      "artists": [
+        {
+          "name": "Bober",
+          "url": "https://open.spotify.com/artist/03rREATXGWcD2CfG3OXDZY"
+        },
+        {
+          "name": "shhieda",
+          "url": "https://open.spotify.com/artist/3SmlmvX2qQzGJDn2QZkMFW"
+        }
+      ],
+      "duration_ms": 159981,
+      "name": "Nie ma takiego numeru",
+      "url": "https://open.spotify.com/track/4KwrwRXSWlY95QccTUxiD5"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1639,6 +1639,26 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "Przytul Jacka",
+        "url": "https://open.spotify.com/album/66nDvtAJIbAG085Ow4vedG"
+      },
+      "artists": [
+        {
+          "name": "Wini",
+          "url": "https://open.spotify.com/artist/2sIuhMKS4v6WOeS0HLS24r"
+        },
+        {
+          "name": "DJ Pete",
+          "url": "https://open.spotify.com/artist/4Kpm1vfuya0iB0ksyL3gX0"
+        }
+      ],
+      "duration_ms": 307562,
+      "name": "Przytul Jacka",
+      "url": "https://open.spotify.com/track/7uxrhskRmMqgH1WkQtNVVb"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "PATOPARTY",
         "url": "https://open.spotify.com/album/1KWozUxqSFnTwUPAa8lzqA"
       },
@@ -1675,26 +1695,6 @@
       "duration_ms": 285714,
       "name": "PATOPARTY",
       "url": "https://open.spotify.com/track/702Qa7dwKfXvIOGremdjSc"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "Przytul Jacka",
-        "url": "https://open.spotify.com/album/66nDvtAJIbAG085Ow4vedG"
-      },
-      "artists": [
-        {
-          "name": "Wini",
-          "url": "https://open.spotify.com/artist/2sIuhMKS4v6WOeS0HLS24r"
-        },
-        {
-          "name": "DJ Pete",
-          "url": "https://open.spotify.com/artist/4Kpm1vfuya0iB0ksyL3gX0"
-        }
-      ],
-      "duration_ms": 307562,
-      "name": "Przytul Jacka",
-      "url": "https://open.spotify.com/track/7uxrhskRmMqgH1WkQtNVVb"
     },
     {
       "added_at": "2026-04-09 22:12:46",

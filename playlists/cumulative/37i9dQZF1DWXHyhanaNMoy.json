@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes! Cover: Frenna, Odeal & Wizkid",
+  "description": "Motion & good vibes! Cover: Jonna Fraser & Tiwa Savage",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 131653,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/6ORqkf2oGjX0pz4dmozhX4"
@@ -3924,7 +3924,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 120000,
       "name": "Bell Me Op",
       "url": "https://open.spotify.com/track/4Vs0gIpwXvQr87X1ndakcz"
@@ -7330,7 +7330,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 149767,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/0aYju2nURQU2ppYrXpEzi7"
@@ -8773,6 +8773,24 @@
     },
     {
       "album": {
+        "name": "DAAROM",
+        "url": "https://open.spotify.com/album/5ExXfmAFeUC0b1sv5XMFIx"
+      },
+      "artists": [
+        {
+          "name": "Dammie",
+          "url": "https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157142,
+      "name": "DAAROM",
+      "url": "https://open.spotify.com/track/4a3hygWhqQUcQu8kOfhnN3"
+    },
+    {
+      "album": {
         "name": "DNK",
         "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
       },
@@ -10002,7 +10020,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 83076,
       "name": "Ding Dong",
       "url": "https://open.spotify.com/track/5MdIqWMtpLGRweJslu6AYA"
@@ -15348,7 +15366,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 145200,
       "name": "HERMES SLIDE",
       "url": "https://open.spotify.com/track/3sSvWm5dXOOf4ZdbMGAPQ6"
@@ -16540,7 +16558,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 136129,
       "name": "Ik Ken Die Girls",
       "url": "https://open.spotify.com/track/4LCDrR00rJwjGPQYKavU7G"
@@ -16992,6 +17010,28 @@
       "duration_ms": 144966,
       "name": "In Mijn Hoofd",
       "url": "https://open.spotify.com/track/2mYRIubhyxtSDtQevdyKiT"
+    },
+    {
+      "album": {
+        "name": "In Model",
+        "url": "https://open.spotify.com/album/7psp6MH3USYErUXce1kf6D"
+      },
+      "artists": [
+        {
+          "name": "Figo Gang",
+          "url": "https://open.spotify.com/artist/7kpbKPdmy6jHnsfTHdZmU7"
+        },
+        {
+          "name": "Marrabeatsz",
+          "url": "https://open.spotify.com/artist/2W0Q6w2WizYVCoKQGMjlm5"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206896,
+      "name": "In Model",
+      "url": "https://open.spotify.com/track/2NHxdPOcn2zkYCA1YvGj24"
     },
     {
       "album": {
@@ -23482,6 +23522,28 @@
     {
       "album": {
         "name": "Monalisa",
+        "url": "https://open.spotify.com/album/0nduPK6mYdyXYNr8VoJcfc"
+      },
+      "artists": [
+        {
+          "name": "Kish",
+          "url": "https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci"
+        },
+        {
+          "name": "Hekje31",
+          "url": "https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125723,
+      "name": "Monalisa",
+      "url": "https://open.spotify.com/track/0S686rD3xkRD9rNgyD4Zut"
+    },
+    {
+      "album": {
+        "name": "Monalisa",
         "url": "https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll"
       },
       "artists": [
@@ -24870,7 +24932,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 155384,
       "name": "Niemand",
       "url": "https://open.spotify.com/track/7opVlymroiCqCRjdhcphQZ"
@@ -26980,6 +27042,36 @@
       "duration_ms": 172307,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/5DGN8biFFZUiwLf3s6VVZc"
+    },
+    {
+      "album": {
+        "name": "OutSide",
+        "url": "https://open.spotify.com/album/1YIP2iOmdReMtlxTxVgW5E"
+      },
+      "artists": [
+        {
+          "name": "J.FIZ",
+          "url": "https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT"
+        },
+        {
+          "name": "Ksix",
+          "url": "https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR"
+        },
+        {
+          "name": "Veertien",
+          "url": "https://open.spotify.com/artist/65XrFrwnIwNQkttpOgrmJo"
+        },
+        {
+          "name": "Reimas",
+          "url": "https://open.spotify.com/artist/7nJaOXe9ZYSuGtnIBdWffl"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160629,
+      "name": "OutSide",
+      "url": "https://open.spotify.com/track/6IG0iq4FFvfJfMKQwdD3Fx"
     },
     {
       "album": {
@@ -29880,7 +29972,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 148000,
       "name": "Relax",
       "url": "https://open.spotify.com/track/3fY5BEL8RmPCyEzWVpapE1"
@@ -29924,6 +30016,32 @@
       "duration_ms": 159706,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/2S7FTwyeXHxDKaiMTrLixP"
+    },
+    {
+      "album": {
+        "name": "Repeat It",
+        "url": "https://open.spotify.com/album/2bbbgQaPEElwR8UNkZQkV2"
+      },
+      "artists": [
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        },
+        {
+          "name": "KARYO",
+          "url": "https://open.spotify.com/artist/5axX3V9XC7KOWoquBOdA59"
+        },
+        {
+          "name": "Travon John",
+          "url": "https://open.spotify.com/artist/2VM6HZlcBPRoyj8O2N233m"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/30peMmhPyRsPsdisYeG0qs"
     },
     {
       "album": {
@@ -33515,6 +33633,28 @@
     },
     {
       "album": {
+        "name": "S\u00e9 Miimii",
+        "url": "https://open.spotify.com/album/6POEgRFXk9dDYxWvQW8To4"
+      },
+      "artists": [
+        {
+          "name": "Miimii KDS",
+          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
+        },
+        {
+          "name": "DJ SKYCEE",
+          "url": "https://open.spotify.com/artist/2LhAINHQMEMY2qL0AyNHmv"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121858,
+      "name": "S\u00e9 Miimii",
+      "url": "https://open.spotify.com/track/46BNhNbHZi98svu6pFwYVq"
+    },
+    {
+      "album": {
         "name": "T'as capt\u00e9 (feat. Bryan Mg)",
         "url": "https://open.spotify.com/album/1sluSODxoTSXYJbLJVl4uB"
       },
@@ -35241,6 +35381,42 @@
     },
     {
       "album": {
+        "name": "GEM-Z II",
+        "url": "https://open.spotify.com/album/4uDJoGtxwEjbNaH8rsj7Zu"
+      },
+      "artists": [
+        {
+          "name": "GEM-Z",
+          "url": "https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/3A10KOEd7y8thZNSQD1tFF"
+    },
+    {
+      "album": {
+        "name": "GEM-Z II",
+        "url": "https://open.spotify.com/album/4uDJoGtxwEjbNaH8rsj7Zu"
+      },
+      "artists": [
+        {
+          "name": "GEM-Z",
+          "url": "https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/2KEimTjmwYYDRSyxZUb4F1"
+    },
+    {
+      "album": {
         "name": "Trainingspak",
         "url": "https://open.spotify.com/album/67N1h7Y59KjDS3xafg7gLc"
       },
@@ -35728,6 +35904,28 @@
       "duration_ms": 145492,
       "name": "Turbulence",
       "url": "https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK"
+    },
+    {
+      "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/4YNfqUF8keHTgZuNpz7vPE"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173989,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/3kihf5wWzLdE0xwmVDtPSU"
     },
     {
       "album": {
@@ -39524,7 +39722,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 166400,
       "name": "Zijkant",
       "url": "https://open.spotify.com/track/65bKgp0oPps8YDFaCWsMjg"

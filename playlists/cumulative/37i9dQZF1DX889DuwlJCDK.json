@@ -2940,7 +2940,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 229324,
       "name": "DAWN",
       "url": "https://open.spotify.com/track/1Fgkj5qAa7rxPPuTM8mU0X"
@@ -10398,7 +10398,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-08",
+      "date_removed": null,
       "duration_ms": 223800,
       "name": "Raise Your Flag",
       "url": "https://open.spotify.com/track/1aF3Nj5YI4AUTvcr6P17ap"
@@ -21488,7 +21488,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 181258,
       "name": "\u30d0\u30f3\u30c9\u30de\u30f3\u3068\u91d1\u9aea\u5973",
       "url": "https://open.spotify.com/track/6Tqgxz6OHus0qu3WTDHECv"
@@ -31336,6 +31336,24 @@
       "duration_ms": 205723,
       "name": "\u7d2c",
       "url": "https://open.spotify.com/track/0J4UbxVqd2JtKsThF77lle"
+    },
+    {
+      "album": {
+        "name": "\u7d42\u308f\u3089\u306a\u3044\u591c\u306e\u5b88\u308a\u65b9",
+        "url": "https://open.spotify.com/album/7CsjZDN9lF8qoKcALpt2xs"
+      },
+      "artists": [
+        {
+          "name": "INNER JOURNEY",
+          "url": "https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244216,
+      "name": "\u7d42\u308f\u3089\u306a\u3044\u591c\u306e\u5b88\u308a\u65b9",
+      "url": "https://open.spotify.com/track/4NlW2LywhAPqGP3WE6P6VZ"
     },
     {
       "album": {

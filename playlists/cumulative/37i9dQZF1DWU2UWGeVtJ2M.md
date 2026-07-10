@@ -4,7 +4,7 @@
 
 > 半清醒的時刻最迷人，讓最迷人的音樂和你一起隨興...
 
-385 songs - 21 hr 48 min
+386 songs - 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Autumn breeze \(Feat\. Milky Day\)](https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB) | 2:54 | 2022-07-25 | 2024-04-19 |
 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 | 2022-07-25 | 2024-04-19 |
 | [Baby Cakes](https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Baby Cakes](https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu) | 3:48 | 2022-06-06 | 2026-05-06 |
-| [bad weather](https://open.spotify.com/track/3Uf6WXkeF4b9LlDNC4PKOw) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [bad weather](https://open.spotify.com/album/7A0VdU0ipw7rApLq7OR7tb) | 2:28 | 2024-12-16 |  |
+| [bad weather](https://open.spotify.com/track/3Uf6WXkeF4b9LlDNC4PKOw) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [bad weather](https://open.spotify.com/album/7A0VdU0ipw7rApLq7OR7tb) | 2:28 | 2024-12-16 | 2026-07-10 |
 | [Bayou](https://open.spotify.com/track/0CC0kKfkPSIgokD882T9I5) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E) | [\(\(\( 2 \)\)\)](https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ) | 2:13 | 2023-09-18 | 2023-10-08 |
 | [Be On My Way \(Full\)](https://open.spotify.com/track/6kLEV4RF4HySkPmGeNOFT8) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 2:37 | 2024-02-12 |  |
 | [bet](https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bet](https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9) | 3:08 | 2024-04-08 |  |
@@ -50,6 +50,7 @@
 | [Blinded](https://open.spotify.com/track/7wMAiWj80CLKSleeDbWMOw) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Blinded](https://open.spotify.com/album/0J54MemwRGGvGEsxagUx2v) | 3:32 | 2022-06-06 | 2023-01-07 |
 | [Blue](https://open.spotify.com/track/0DeERXbSE5amnnFx5MSycO) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Blue](https://open.spotify.com/album/2V5sPS4x8LB3H7q3Q00Cjn) | 3:29 | 2023-03-06 | 2023-03-14 |
 | [Blue](https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Blue](https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y) | 3:40 | 2025-05-11 | 2025-12-23 |
+| [blue](https://open.spotify.com/track/6rW6FUhOATT7dBnup6UVHx) | [Pools](https://open.spotify.com/artist/4RYCoMC23D1PVJNH97xXWo) | [blue](https://open.spotify.com/album/6ydahDQDBR6C2isdOZxf4f) | 2:05 | 2026-02-09 |  |
 | [body](https://open.spotify.com/track/6EFlWDyNzOQZjoo8dIuYGb) | [Dom Guyot](https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0) | [body](https://open.spotify.com/album/2duD8w8XxzQ2NKmeIDe5QN) | 3:17 | 2024-04-22 | 2024-05-26 |
 | [Boyfriend](https://open.spotify.com/track/03i1lou4BzpQ7BnxpBUSCp) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [FITS](https://open.spotify.com/album/2hRJXpOoqZ44PGurfbka6g) | 2:18 | 2024-11-09 | 2025-02-28 |
 | [Break Me.](https://open.spotify.com/track/3XmIJ09BsBdqeDPxYcu3m3) | [Mood.](https://open.spotify.com/artist/3C6yGCM7b8QAjs1fTrEguw) | [Break Me.](https://open.spotify.com/album/7uuSPVQe5FKPQruNG9sClB) | 3:05 | 2022-07-11 | 2022-07-17 |

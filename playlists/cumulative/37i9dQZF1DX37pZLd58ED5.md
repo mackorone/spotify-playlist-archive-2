@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Tony Boy
 
-374 songs - 19 hr 6 min
+375 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [Univers](https://open.spotify.com/track/2hL3IwpnKgRkM2M1yGiLmA) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Black Pulcinella](https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6) | 3:32 | 2022-04-28 | 2022-05-20 |
 | [UOMO CATTIVO \(feat\. Nabi\)](https://open.spotify.com/track/3nv625SWTqVVctz7AtecoY) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [PROGETTO X](https://open.spotify.com/album/7wnvQLGtbRN9Y4zpCVYxdX) | 3:16 | 2025-09-30 | 2025-12-12 |
 | [Up](https://open.spotify.com/track/55bbclV2CNma8iNwua3Ks5) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P) | [MARIO III](https://open.spotify.com/album/7aAe08RqsSDaQrcAjbqWLX) | 2:49 | 2026-02-20 | 2026-04-17 |
+| [VELENO](https://open.spotify.com/track/3bFUhrjNmC3179e2R5lqjp) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [MILLION DOLLAR BABE](https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5) | 2:31 | 2026-07-09 |  |
 | [VENE BLU](https://open.spotify.com/track/7IyE1wahFtQTg2YTAXqia1) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [VENE BLU](https://open.spotify.com/album/6xT8MJmuAQ9RnYIt2oQxjG) | 2:37 | 2026-04-30 |  |
 | [VERE VISIONI \(feat\. Luchè\)](https://open.spotify.com/track/1Zn7sCfLr8dkAzGjpDlmIW) | [Voga](https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [CHI AMA NON DIMENTICA](https://open.spotify.com/album/0fnLXLFy55LD2UCeIVBo6B) | 2:50 | 2025-12-05 | 2026-01-29 |
 | [Vertigini](https://open.spotify.com/track/1Oou7m2VuxCDSOdqsu07TU) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh) | [Mowgli](https://open.spotify.com/album/2F4YVNFy52kTEGDXdeYiZX) | 3:23 | 2022-04-28 | 2025-10-04 |

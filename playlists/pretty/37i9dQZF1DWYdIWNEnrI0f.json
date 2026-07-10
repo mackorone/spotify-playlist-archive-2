@@ -1,6 +1,6 @@
 {
   "description": "Let Japanese beats guide you into a calm and blissful evening. / \u5fc3\u5730\u3088\u3044\u591c\u3092\u904e\u3054\u3059\u305f\u3081\u306e\u65e5\u672c\u88fd\u30d3\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9",
-  "num_followers": 30319,
+  "num_followers": 30355,
   "original_name": "Fujiyama Beats",
   "owner": {
     "name": "Spotify",
@@ -383,42 +383,6 @@
     {
       "added_at": "2026-06-26 00:25:19",
       "album": {
-        "name": "Sofie's SOS Tape",
-        "url": "https://open.spotify.com/album/4HSL9qNMgDUNQFngd3ODit"
-      },
-      "artists": [
-        {
-          "name": "Mndsgn",
-          "url": "https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26"
-        },
-        {
-          "name": "Sofie Royer",
-          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
-        }
-      ],
-      "duration_ms": 219149,
-      "name": "Abeja",
-      "url": "https://open.spotify.com/track/3mvaD4yyX71CV1idcd5lfJ"
-    },
-    {
-      "added_at": "2026-06-26 00:25:19",
-      "album": {
-        "name": "GRANDMA",
-        "url": "https://open.spotify.com/album/2Daec6JlmOMfNkMCzcuTui"
-      },
-      "artists": [
-        {
-          "name": "Rikinish",
-          "url": "https://open.spotify.com/artist/5p0u2sKqe1dMosR65Pumks"
-        }
-      ],
-      "duration_ms": 251580,
-      "name": "Beautiful Life",
-      "url": "https://open.spotify.com/track/0p4iFPBrB5lq4XypkIDnLU"
-    },
-    {
-      "added_at": "2026-06-26 00:25:19",
-      "album": {
         "name": "Water Flow",
         "url": "https://open.spotify.com/album/7qk8OPhLH17s6PdUxJKxCM"
       },
@@ -439,6 +403,42 @@
       "duration_ms": 154910,
       "name": "Water Flow",
       "url": "https://open.spotify.com/track/2LeF018m9vGgIAirUuOgCr"
+    },
+    {
+      "added_at": "2026-06-26 00:25:19",
+      "album": {
+        "name": "GRANDMA",
+        "url": "https://open.spotify.com/album/2Daec6JlmOMfNkMCzcuTui"
+      },
+      "artists": [
+        {
+          "name": "Rikinish",
+          "url": "https://open.spotify.com/artist/5p0u2sKqe1dMosR65Pumks"
+        }
+      ],
+      "duration_ms": 251580,
+      "name": "Beautiful Life",
+      "url": "https://open.spotify.com/track/0p4iFPBrB5lq4XypkIDnLU"
+    },
+    {
+      "added_at": "2026-06-26 00:25:19",
+      "album": {
+        "name": "Sofie's SOS Tape",
+        "url": "https://open.spotify.com/album/4HSL9qNMgDUNQFngd3ODit"
+      },
+      "artists": [
+        {
+          "name": "Mndsgn",
+          "url": "https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26"
+        },
+        {
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+        }
+      ],
+      "duration_ms": 219149,
+      "name": "Abeja",
+      "url": "https://open.spotify.com/track/3mvaD4yyX71CV1idcd5lfJ"
     },
     {
       "added_at": "2026-06-26 00:25:19",
@@ -659,8 +659,8 @@
     {
       "added_at": "2026-06-26 00:25:19",
       "album": {
-        "name": "Distant Lights",
-        "url": "https://open.spotify.com/album/7qHGwQ1hxCtJm9nNnAUbS6"
+        "name": "Sunrise at Mount Fuji",
+        "url": "https://open.spotify.com/album/1fyTJhCf41lyaM3lva5rTd"
       },
       "artists": [
         {
@@ -668,21 +668,21 @@
           "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
         },
         {
-          "name": "Jikuru",
-          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
-        },
-        {
           "name": "Lola",
           "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        },
+        {
+          "name": "Jikuru",
+          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
         },
         {
           "name": "Hideyuki Mochizuki",
           "url": "https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv"
         }
       ],
-      "duration_ms": 137248,
-      "name": "Distant Lights",
-      "url": "https://open.spotify.com/track/5VyCpzqB89n3ilkxHKCthF"
+      "duration_ms": 139506,
+      "name": "Sunrise at Mount Fuji",
+      "url": "https://open.spotify.com/track/3wtEF6gOrkS1DTT3BPMWdA"
     },
     {
       "added_at": "2026-06-26 00:25:19",
@@ -763,8 +763,8 @@
     {
       "added_at": "2026-06-26 00:25:19",
       "album": {
-        "name": "Sunrise at Mount Fuji",
-        "url": "https://open.spotify.com/album/1fyTJhCf41lyaM3lva5rTd"
+        "name": "Distant Lights",
+        "url": "https://open.spotify.com/album/7qHGwQ1hxCtJm9nNnAUbS6"
       },
       "artists": [
         {
@@ -772,21 +772,21 @@
           "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
         },
         {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
-        },
-        {
           "name": "Jikuru",
           "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
         },
         {
           "name": "Hideyuki Mochizuki",
           "url": "https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv"
         }
       ],
-      "duration_ms": 139506,
-      "name": "Sunrise at Mount Fuji",
-      "url": "https://open.spotify.com/track/3wtEF6gOrkS1DTT3BPMWdA"
+      "duration_ms": 137248,
+      "name": "Distant Lights",
+      "url": "https://open.spotify.com/track/5VyCpzqB89n3ilkxHKCthF"
     },
     {
       "added_at": "2026-06-26 00:25:19",

@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: I'm With Her",
-  "num_followers": 155036,
+  "num_followers": 155141,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-03-08 15:34:05",
       "album": {
-        "name": "Halfway There",
-        "url": "https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI"
-      },
-      "artists": [
-        {
-          "name": "Kathleen Regan",
-          "url": "https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf"
-        }
-      ],
-      "duration_ms": 194365,
-      "name": "Halfway There",
-      "url": "https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s"
-    },
-    {
-      "added_at": "2026-03-08 15:34:05",
-      "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 214706,
       "name": "Aftertaste",
       "url": "https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe"
+    },
+    {
+      "added_at": "2026-03-08 15:34:05",
+      "album": {
+        "name": "Halfway There",
+        "url": "https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Regan",
+          "url": "https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf"
+        }
+      ],
+      "duration_ms": 194365,
+      "name": "Halfway There",
+      "url": "https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s"
     },
     {
       "added_at": "2026-03-08 15:34:05",

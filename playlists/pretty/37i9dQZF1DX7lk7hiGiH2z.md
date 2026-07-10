@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Sommerferien, Eis in der Hand und ganz viel Badespaß!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,060 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,064 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 49 | [Wenn ich den See seh'](https://open.spotify.com/track/4G6RaIF1ogdDzpPWaKKG8T) | [3Berlin](https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V) | [Wenn ich den See seh'](https://open.spotify.com/album/7FpzmPcNIwl0zMUl742zRR) | 2:23 |
 | 50 | [Mücken nerven Leute](https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w) | [Laing](https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC), [Unter meinem Bett](https://open.spotify.com/artist/7y89sMv0ADqEMEOo2tOIM7) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 3:11 |
 
-Snapshot ID: `AAAAAJCztVZGJq6JiK7W58He0rOt98xT`
+Snapshot ID: `AAAAAH0XyCCHp8jOPPm05kGyg9JjuEp5`

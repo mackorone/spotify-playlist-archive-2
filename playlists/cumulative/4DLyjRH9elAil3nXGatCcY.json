@@ -8991,6 +8991,28 @@
     },
     {
       "album": {
+        "name": "Secret Level",
+        "url": "https://open.spotify.com/album/5q0ZYZXvNOMPSUIoDxHPCd"
+      },
+      "artists": [
+        {
+          "name": "No Mana",
+          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
+        },
+        {
+          "name": "Jantine",
+          "url": "https://open.spotify.com/artist/3Hlhy5mpM8cT1Guv1GOhQG"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283124,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/7lTwzE6Pa0BI9O1ok3KYZW"
+    },
+    {
+      "album": {
         "name": "Friendly Fires",
         "url": "https://open.spotify.com/album/3sGsbbZGQqc3npPtdlAgnU"
       },

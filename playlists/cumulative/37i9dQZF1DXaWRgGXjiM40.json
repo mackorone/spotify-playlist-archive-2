@@ -352,7 +352,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 214087,
       "name": "boa mem\u00f3ria - ao vivo",
       "url": "https://open.spotify.com/track/79BHjj4YkvbpOlMvG6wf3n"
@@ -744,6 +744,24 @@
       "duration_ms": 123060,
       "name": "Deus Me Livre Quem Me Dera",
       "url": "https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd"
+    },
+    {
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251785,
+      "name": "Dia, Lugar e Hora",
+      "url": "https://open.spotify.com/track/4404ixp3ApDtyRwje7Kgu4"
     },
     {
       "album": {

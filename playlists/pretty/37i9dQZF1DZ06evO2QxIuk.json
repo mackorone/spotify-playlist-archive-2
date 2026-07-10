@@ -1,12 +1,12 @@
 {
   "description": "This is Earth, Wind & Fire. The essential tracks, all in one playlist.",
-  "num_followers": 375544,
+  "num_followers": 375561,
   "original_name": "This Is Earth, Wind & Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAB3dIqZA7mpwvoI34daEhqI",
+  "snapshot_id": "ak2TAAAAAAB2ebVgFheNiHwnqlHz9Czx",
   "tracks": [
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Head To The Sky",
-        "url": "https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB"
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 311002,
-      "name": "Keep Your Head to the Sky",
-      "url": "https://open.spotify.com/track/0iPy1MWCrOT7SjGs14zSSv"
+      "duration_ms": 212484,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/6xGrfYIoclflaZvBUeFAwA"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+        "name": "Head To The Sky",
+        "url": "https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 212484,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/6xGrfYIoclflaZvBUeFAwA"
+      "duration_ms": 311002,
+      "name": "Keep Your Head to the Sky",
+      "url": "https://open.spotify.com/track/0iPy1MWCrOT7SjGs14zSSv"
     },
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "September",
-        "url": "https://open.spotify.com/album/11tbgwXv0FQSnqqt7iCfK4"
-      },
-      "artists": [
-        {
-          "name": "Throttle",
-          "url": "https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC"
-        },
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 256622,
-      "name": "September",
-      "url": "https://open.spotify.com/track/1fPI4n7mTvKOrhGRSaCbaU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Want My Love",
         "url": "https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 194373,
       "name": "You Want My Love",
       "url": "https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/11tbgwXv0FQSnqqt7iCfK4"
+      },
+      "artists": [
+        {
+          "name": "Throttle",
+          "url": "https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC"
+        },
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 256622,
+      "name": "September",
+      "url": "https://open.spotify.com/track/1fPI4n7mTvKOrhGRSaCbaU"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 215298,
-      "name": "Happy Feelin'",
-      "url": "https://open.spotify.com/track/4X7hACjMfokfcgfNWPasdZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sun Goddess",
         "url": "https://open.spotify.com/album/7F4lzjaoC7ghF162g0iGh5"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 509524,
       "name": "Sun Goddess (feat. Ramsey Lewis)",
       "url": "https://open.spotify.com/track/6NzOdf2JKluJVXEKjGDAMA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 215298,
+      "name": "Happy Feelin'",
+      "url": "https://open.spotify.com/track/4X7hACjMfokfcgfNWPasdZ"
     },
     {
       "added_at": null,

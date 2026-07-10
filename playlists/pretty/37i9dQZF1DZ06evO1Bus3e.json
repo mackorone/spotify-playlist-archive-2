@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAAygiE3BA3xcCy+JqurEUdS",
+  "snapshot_id": "ak2TAAAAAACYfaI34l+UJt4LfYQ/mSjZ",
   "tracks": [
     {
       "added_at": null,
@@ -215,18 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FIONA",
-        "url": "https://open.spotify.com/album/4eQKfcyUhqCXfXjstocfhQ"
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
       },
       "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 188446,
-      "name": "FIONA",
-      "url": "https://open.spotify.com/track/3vdhIXQOzU7qTS3cgL1J8K"
+      "duration_ms": 229004,
+      "name": "Los Recuerdos (feat. Arsenal Efectivo)",
+      "url": "https://open.spotify.com/track/7kunViZSovu0ZkOcgg9LS8"
     },
     {
       "added_at": null,
@@ -263,22 +267,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+        "name": "FIONA",
+        "url": "https://open.spotify.com/album/4eQKfcyUhqCXfXjstocfhQ"
       },
       "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 229004,
-      "name": "Los Recuerdos (feat. Arsenal Efectivo)",
-      "url": "https://open.spotify.com/track/7kunViZSovu0ZkOcgg9LS8"
+      "duration_ms": 188446,
+      "name": "FIONA",
+      "url": "https://open.spotify.com/track/3vdhIXQOzU7qTS3cgL1J8K"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 21645,
+  "num_followers": 21647,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALycqnWRr43N1z4wG472wR7IptE1",
+  "snapshot_id": "AAAAAIh1D7zrw6vTrxbWEPkOaaCM8q7U",
   "tracks": [
     {
       "added_at": "2024-10-11 00:01:00",
@@ -655,18 +655,18 @@
     {
       "added_at": "2026-05-22 00:01:37",
       "album": {
-        "name": "Want to Grow",
-        "url": "https://open.spotify.com/album/7znFZ68eRO9ACn3uxkUQEo"
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/7d3NnGMjzV8ZSFiveyTNGY"
       },
       "artists": [
         {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
         }
       ],
-      "duration_ms": 189557,
-      "name": "Want to Grow",
-      "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
+      "duration_ms": 140769,
+      "name": "Me & My Jesus",
+      "url": "https://open.spotify.com/track/4JWi6Q3LSBu8r3hBaWnIKI"
     },
     {
       "added_at": "2026-01-09 00:01:29",
@@ -687,18 +687,18 @@
     {
       "added_at": "2026-05-22 00:01:37",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/7d3NnGMjzV8ZSFiveyTNGY"
+        "name": "Want to Grow",
+        "url": "https://open.spotify.com/album/7znFZ68eRO9ACn3uxkUQEo"
       },
       "artists": [
         {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
         }
       ],
-      "duration_ms": 140769,
-      "name": "Me & My Jesus",
-      "url": "https://open.spotify.com/track/4JWi6Q3LSBu8r3hBaWnIKI"
+      "duration_ms": 189557,
+      "name": "Want to Grow",
+      "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
     },
     {
       "added_at": "2025-02-14 00:01:09",
@@ -1177,20 +1177,24 @@
       "url": "https://open.spotify.com/track/1sc1pQKdOvTJfNAcqci9Xv"
     },
     {
-      "added_at": "2026-06-19 00:01:33",
+      "added_at": "2026-06-26 00:01:41",
       "album": {
-        "name": "My Thank You",
-        "url": "https://open.spotify.com/album/4wsf5yxLcfZFjLrvkij6qI"
+        "name": "DO",
+        "url": "https://open.spotify.com/album/1Cj0Fz89D0N9cNcQoaGrMV"
       },
       "artists": [
         {
-          "name": "Esther Oji",
-          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+          "name": "Tjsarx",
+          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
         }
       ],
-      "duration_ms": 213430,
-      "name": "My Thank You",
-      "url": "https://open.spotify.com/track/2ZhFqLe4RLezTAfR8idwzX"
+      "duration_ms": 145531,
+      "name": "DO",
+      "url": "https://open.spotify.com/track/5my8ScRHzur1cdz2dnnZqL"
     },
     {
       "added_at": "2026-03-27 00:01:13",
@@ -1213,6 +1217,22 @@
       "url": "https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P"
     },
     {
+      "added_at": "2026-06-19 00:01:33",
+      "album": {
+        "name": "My Thank You",
+        "url": "https://open.spotify.com/album/4wsf5yxLcfZFjLrvkij6qI"
+      },
+      "artists": [
+        {
+          "name": "Esther Oji",
+          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+        }
+      ],
+      "duration_ms": 213430,
+      "name": "My Thank You",
+      "url": "https://open.spotify.com/track/2ZhFqLe4RLezTAfR8idwzX"
+    },
+    {
       "added_at": "2026-04-17 00:01:26",
       "album": {
         "name": "Wait On You",
@@ -1233,24 +1253,20 @@
       "url": "https://open.spotify.com/track/7yErAxvmSIVzWb0BFH0U4n"
     },
     {
-      "added_at": "2026-06-26 00:01:41",
+      "added_at": "2026-03-13 00:01:18",
       "album": {
-        "name": "DO",
-        "url": "https://open.spotify.com/album/1Cj0Fz89D0N9cNcQoaGrMV"
+        "name": "Sonship",
+        "url": "https://open.spotify.com/album/50ErJvkakjjq0y6sVhIslo"
       },
       "artists": [
         {
-          "name": "Tjsarx",
-          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
-        },
-        {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
         }
       ],
-      "duration_ms": 145531,
-      "name": "DO",
-      "url": "https://open.spotify.com/track/5my8ScRHzur1cdz2dnnZqL"
+      "duration_ms": 154039,
+      "name": "Love Assurance",
+      "url": "https://open.spotify.com/track/4jRaM74PxaKqtnjfT8Ba01"
     },
     {
       "added_at": "2026-03-13 00:01:18",
@@ -1269,22 +1285,6 @@
       "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
     },
     {
-      "added_at": "2026-03-13 00:01:18",
-      "album": {
-        "name": "Sonship",
-        "url": "https://open.spotify.com/album/50ErJvkakjjq0y6sVhIslo"
-      },
-      "artists": [
-        {
-          "name": "Neon Adejo",
-          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
-        }
-      ],
-      "duration_ms": 154039,
-      "name": "Love Assurance",
-      "url": "https://open.spotify.com/track/4jRaM74PxaKqtnjfT8Ba01"
-    },
-    {
       "added_at": "2026-04-24 00:01:08",
       "album": {
         "name": "Happy Song",
@@ -1299,6 +1299,30 @@
       "duration_ms": 147452,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
+    },
+    {
+      "added_at": "2026-06-26 00:01:41",
+      "album": {
+        "name": "If E No Be You Jesus",
+        "url": "https://open.spotify.com/album/6WV20H3NhF71GS2PDb2wPw"
+      },
+      "artists": [
+        {
+          "name": "Blessings Ng",
+          "url": "https://open.spotify.com/artist/7pEGK08h9Nk2NyhuiZ2u9m"
+        },
+        {
+          "name": "Tkeyz",
+          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
+        },
+        {
+          "name": "Elijah Daniel Omo Majemu",
+          "url": "https://open.spotify.com/artist/4lq5l1U6f3A8KwEOsvyTlG"
+        }
+      ],
+      "duration_ms": 234500,
+      "name": "If E No Be You Jesus",
+      "url": "https://open.spotify.com/track/0RlbvNt1jx208AZAdsMpBv"
     },
     {
       "added_at": "2026-05-15 00:01:23",
@@ -1335,30 +1359,6 @@
       "duration_ms": 218666,
       "name": "Upendo Overdose",
       "url": "https://open.spotify.com/track/4A5WBAFb9w2dNRI1nqxwyx"
-    },
-    {
-      "added_at": "2026-06-26 00:01:41",
-      "album": {
-        "name": "If E No Be You Jesus",
-        "url": "https://open.spotify.com/album/6WV20H3NhF71GS2PDb2wPw"
-      },
-      "artists": [
-        {
-          "name": "Blessings Ng",
-          "url": "https://open.spotify.com/artist/7pEGK08h9Nk2NyhuiZ2u9m"
-        },
-        {
-          "name": "Tkeyz",
-          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
-        },
-        {
-          "name": "Elijah Daniel Omo Majemu",
-          "url": "https://open.spotify.com/artist/4lq5l1U6f3A8KwEOsvyTlG"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "If E No Be You Jesus",
-      "url": "https://open.spotify.com/track/0RlbvNt1jx208AZAdsMpBv"
     },
     {
       "added_at": "2026-03-27 00:01:13",
@@ -1405,22 +1405,6 @@
       "url": "https://open.spotify.com/track/0ARQW1x7VJE3OyqckAOtD9"
     },
     {
-      "added_at": "2026-06-12 08:46:43",
-      "album": {
-        "name": "Yoyo",
-        "url": "https://open.spotify.com/album/03VvutM1txcETp75KZwHE8"
-      },
-      "artists": [
-        {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Yoyo",
-      "url": "https://open.spotify.com/track/2avVNhJHTUYcAuqSiJCWH9"
-    },
-    {
       "added_at": "2026-03-06 00:01:07",
       "album": {
         "name": "Lovin On Me",
@@ -1437,20 +1421,20 @@
       "url": "https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI"
     },
     {
-      "added_at": "2026-05-22 00:01:37",
+      "added_at": "2026-06-12 08:46:43",
       "album": {
-        "name": "Nara Ekele (Remix)",
-        "url": "https://open.spotify.com/album/3Y0QLwcmeLDBihKK027qD9"
+        "name": "Yoyo",
+        "url": "https://open.spotify.com/album/03VvutM1txcETp75KZwHE8"
       },
       "artists": [
         {
-          "name": "Dr Paul Enenche",
-          "url": "https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i"
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
         }
       ],
-      "duration_ms": 392462,
-      "name": "Nara Ekele - Remix",
-      "url": "https://open.spotify.com/track/5z53vv2JHLryixAKAkduBN"
+      "duration_ms": 206400,
+      "name": "Yoyo",
+      "url": "https://open.spotify.com/track/2avVNhJHTUYcAuqSiJCWH9"
     },
     {
       "added_at": "2026-03-13 00:01:18",
@@ -1473,40 +1457,20 @@
       "url": "https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y"
     },
     {
-      "added_at": "2026-06-12 08:46:43",
+      "added_at": "2026-05-22 00:01:37",
       "album": {
-        "name": "Kaunar Allah",
-        "url": "https://open.spotify.com/album/7cRvo8ih8ElRx3psSHbk2Y"
+        "name": "Nara Ekele (Remix)",
+        "url": "https://open.spotify.com/album/3Y0QLwcmeLDBihKK027qD9"
       },
       "artists": [
         {
-          "name": "Pastor Courage",
-          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+          "name": "Dr Paul Enenche",
+          "url": "https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Kaunar Allah",
-      "url": "https://open.spotify.com/track/6Yu4gwqfUEIwHhK5JRIG5P"
-    },
-    {
-      "added_at": "2026-03-06 00:01:07",
-      "album": {
-        "name": "Overflow",
-        "url": "https://open.spotify.com/album/2n1yJgNXwvsE5SY3Q1gm9l"
-      },
-      "artists": [
-        {
-          "name": "Naffymar",
-          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
-        },
-        {
-          "name": "Serviteur Pierre",
-          "url": "https://open.spotify.com/artist/1JjFSYv0PaKKlK1ImatxLh"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "Overflow",
-      "url": "https://open.spotify.com/track/3tlvLZKwCJ5OHGqnWzroLt"
+      "duration_ms": 392462,
+      "name": "Nara Ekele - Remix",
+      "url": "https://open.spotify.com/track/5z53vv2JHLryixAKAkduBN"
     },
     {
       "added_at": "2026-06-26 00:01:41",
@@ -1529,44 +1493,84 @@
       "url": "https://open.spotify.com/track/2zFo8f4kW4TrLE7HzpY4yk"
     },
     {
-      "added_at": "2026-05-29 00:01:36",
+      "added_at": "2026-03-06 00:01:07",
       "album": {
-        "name": "Thank You Lord",
-        "url": "https://open.spotify.com/album/7qQgba2IcWXawnNWUGoR2j"
+        "name": "Overflow",
+        "url": "https://open.spotify.com/album/2n1yJgNXwvsE5SY3Q1gm9l"
       },
       "artists": [
         {
-          "name": "Johay",
-          "url": "https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e"
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
         },
         {
-          "name": "LAMB CULTURE.",
-          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
-        },
-        {
-          "name": "A Tribe Apart",
-          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
+          "name": "Serviteur Pierre",
+          "url": "https://open.spotify.com/artist/1JjFSYv0PaKKlK1ImatxLh"
         }
       ],
-      "duration_ms": 150750,
-      "name": "Thank You Lord",
-      "url": "https://open.spotify.com/track/6O79hOkKBJqmcq2dzFJsdD"
+      "duration_ms": 130285,
+      "name": "Overflow",
+      "url": "https://open.spotify.com/track/3tlvLZKwCJ5OHGqnWzroLt"
     },
     {
-      "added_at": "2026-02-13 00:01:34",
+      "added_at": "2026-06-12 08:46:43",
       "album": {
-        "name": "I Live",
-        "url": "https://open.spotify.com/album/0cZteUtrDx3uIeTOVvVI8E"
+        "name": "Kaunar Allah",
+        "url": "https://open.spotify.com/album/7cRvo8ih8ElRx3psSHbk2Y"
       },
       "artists": [
         {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
         }
       ],
-      "duration_ms": 560126,
-      "name": "I Live - Live",
-      "url": "https://open.spotify.com/track/122j35m29xC1Xbd8vTKvJP"
+      "duration_ms": 198000,
+      "name": "Kaunar Allah",
+      "url": "https://open.spotify.com/track/6Yu4gwqfUEIwHhK5JRIG5P"
+    },
+    {
+      "added_at": "2026-06-19 00:01:33",
+      "album": {
+        "name": "Titilailai II",
+        "url": "https://open.spotify.com/album/4yLLubzQk0BwFxOmawlWR9"
+      },
+      "artists": [
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "CHUKWUMA",
+          "url": "https://open.spotify.com/artist/1rJmQdx0zNkrRg79nRAani"
+        },
+        {
+          "name": "Johnson Jkeyz",
+          "url": "https://open.spotify.com/artist/3i5caMGGXTstF0BkyyXDNL"
+        },
+        {
+          "name": "Eddiekeyz",
+          "url": "https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh"
+        }
+      ],
+      "duration_ms": 199023,
+      "name": "Titilailai II",
+      "url": "https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r"
+    },
+    {
+      "added_at": "2026-06-19 00:01:33",
+      "album": {
+        "name": "Sweet Jesus",
+        "url": "https://open.spotify.com/album/1v9gDAJXFl3UqF4NZVqe5Q"
+      },
+      "artists": [
+        {
+          "name": "Jordan Bangoji",
+          "url": "https://open.spotify.com/artist/702zIZlmgDwWKAqWW4WX5d"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Sweet Jesus",
+      "url": "https://open.spotify.com/track/7H1AhuPUekQcBnin0ScOxR"
     }
   ],
   "unique_name": "Blessed",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAAnyWjPxD2Mu3uO3lJlJwsf",
+  "snapshot_id": "ak2TAAAAAADp1kz7hd41/FjSjKzJLCEB",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 228853,
-      "name": "So So Soon",
-      "url": "https://open.spotify.com/track/4BTFkZkQTYAM6xf4uAGpA9"
+      "duration_ms": 257838,
+      "name": "Wave Form",
+      "url": "https://open.spotify.com/track/5FjFC56lrbiHcO3aE3nG5T"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 214573,
-      "name": "Harmony",
-      "url": "https://open.spotify.com/track/3sCvA4gQ5RCHcUvJCD0m1L"
+      "duration_ms": 190160,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/0H11Sou0GRil5ozQ7Qaclh"
     },
     {
       "added_at": null,
@@ -284,6 +284,70 @@
       "added_at": null,
       "album": {
         "name": "Glorious Sunset",
+        "url": "https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "duration_ms": 167080,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/0UPwyz3aaQdWPUGn6pEkrh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shatterproof Is Not A Challenge",
+        "url": "https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/3sCvA4gQ5RCHcUvJCD0m1L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quick The Word Sharp The Action",
+        "url": "https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "duration_ms": 222493,
+      "name": "Sick Little Masquerade",
+      "url": "https://open.spotify.com/track/76jTPFhV40C0eJXTswyRrC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ideas Above Our Station",
+        "url": "https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "duration_ms": 228613,
+      "name": "Dissolve",
+      "url": "https://open.spotify.com/track/5iQ0DPeLDn8Dn9HF52kWsE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Glorious Sunset",
         "url": "https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D"
       },
       "artists": [
@@ -292,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 257838,
-      "name": "Wave Form",
-      "url": "https://open.spotify.com/track/5FjFC56lrbiHcO3aE3nG5T"
+      "duration_ms": 196186,
+      "name": "It Suits You",
+      "url": "https://open.spotify.com/track/3aehHnqlvoi05DxnDR4qmE"
     },
     {
       "added_at": null,
@@ -331,54 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ideas Above Our Station",
-        "url": "https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 228613,
-      "name": "Dissolve",
-      "url": "https://open.spotify.com/track/5iQ0DPeLDn8Dn9HF52kWsE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 167080,
-      "name": "Done",
-      "url": "https://open.spotify.com/track/0UPwyz3aaQdWPUGn6pEkrh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shatterproof Is Not A Challenge",
-        "url": "https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "Pop",
-      "url": "https://open.spotify.com/track/0H11Sou0GRil5ozQ7Qaclh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quick The Word Sharp The Action",
         "url": "https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz"
       },
@@ -391,6 +407,22 @@
       "duration_ms": 183906,
       "name": "I'll Never Know",
       "url": "https://open.spotify.com/track/6TV1G6fQ8MgSUzNMKqOpxC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Glorious Sunset",
+        "url": "https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "duration_ms": 228853,
+      "name": "So So Soon",
+      "url": "https://open.spotify.com/track/4BTFkZkQTYAM6xf4uAGpA9"
     },
     {
       "added_at": null,
@@ -411,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 196186,
-      "name": "It Suits You",
-      "url": "https://open.spotify.com/track/3aehHnqlvoi05DxnDR4qmE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quick The Word Sharp The Action",
         "url": "https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz"
       },
@@ -436,9 +452,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 222493,
-      "name": "Sick Little Masquerade",
-      "url": "https://open.spotify.com/track/76jTPFhV40C0eJXTswyRrC"
+      "duration_ms": 238573,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/0XvuRaxgYMSWbFng8vHvDv"
     },
     {
       "added_at": null,
@@ -455,22 +471,6 @@
       "duration_ms": 256106,
       "name": "Slipping Away",
       "url": "https://open.spotify.com/track/5YrcfV2qcH5cTw9LqvOF2s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quick The Word Sharp The Action",
-        "url": "https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/0XvuRaxgYMSWbFng8vHvDv"
     },
     {
       "added_at": null,

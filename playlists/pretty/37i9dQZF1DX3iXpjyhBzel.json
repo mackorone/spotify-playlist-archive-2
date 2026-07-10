@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Get Worship",
-  "num_followers": 1218299,
+  "num_followers": 1218348,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
+        "name": "Toda Terra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 519302,
+      "name": "Toda Terra - Ao Vivo",
+      "url": "https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
         "name": "Uma Carta Viva (Ao Vivo)",
         "url": "https://open.spotify.com/album/6spnacimvh1AKK0QA9ZJ09"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 299946,
       "name": "Uma Carta Viva - Ao Vivo",
       "url": "https://open.spotify.com/track/6CxtFCLyCaDbi0iSO83aHr"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
-        "name": "Toda Terra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 519302,
-      "name": "Toda Terra - Ao Vivo",
-      "url": "https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot"
     },
     {
       "added_at": "2026-06-12 03:01:53",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
+        "name": "Se eu Somente Te Tocar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4InzdfPhGCrhPEmgFPLvL9"
+      },
+      "artists": [
+        {
+          "name": "Nilson Junior",
+          "url": "https://open.spotify.com/artist/3iVKvSnoBIfdGNiLYrLIny"
+        }
+      ],
+      "duration_ms": 295882,
+      "name": "Se eu Somente Te Tocar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3FZSOrmZmuUGZ9zxdfsVr1"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
         "name": "Meu Mestre",
         "url": "https://open.spotify.com/album/0pgRI4TKSJmgYA8TMkM0fn"
       },
@@ -523,18 +539,22 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
-        "name": "Se eu Somente Te Tocar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4InzdfPhGCrhPEmgFPLvL9"
+        "name": "N\u00e3o Me Deixe Esquecer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1bpa2Hycu9w4xWU6QRKi1r"
       },
       "artists": [
         {
-          "name": "Nilson Junior",
-          "url": "https://open.spotify.com/artist/3iVKvSnoBIfdGNiLYrLIny"
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 295882,
-      "name": "Se eu Somente Te Tocar - Ao Vivo",
-      "url": "https://open.spotify.com/track/3FZSOrmZmuUGZ9zxdfsVr1"
+      "duration_ms": 380477,
+      "name": "N\u00e3o Me Deixe Esquecer - Ao Vivo",
+      "url": "https://open.spotify.com/track/5l8vkQjZJz8EXmo28YoaPr"
     },
     {
       "added_at": "2026-06-12 03:01:53",
@@ -559,26 +579,6 @@
       "duration_ms": 503584,
       "name": "Fiel \u00e9 Deus",
       "url": "https://open.spotify.com/track/1EzlXvFPrQ8d7Ar4L9kOSx"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
-        "name": "N\u00e3o Me Deixe Esquecer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1bpa2Hycu9w4xWU6QRKi1r"
-      },
-      "artists": [
-        {
-          "name": "Valesca Mayssa",
-          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 380477,
-      "name": "N\u00e3o Me Deixe Esquecer - Ao Vivo",
-      "url": "https://open.spotify.com/track/5l8vkQjZJz8EXmo28YoaPr"
     },
     {
       "added_at": "2026-06-12 03:01:53",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
+        "name": "Santo Pra Sempre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/23thq9ElD6i6CoXulKrPSb"
+      },
+      "artists": [
+        {
+          "name": "Felipe Rodrigues",
+          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
+        }
+      ],
+      "duration_ms": 317074,
+      "name": "Santo Pra Sempre - Ao Vivo",
+      "url": "https://open.spotify.com/track/5c6o5yQdZ8jRCxboHK5SAq"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
         "name": "A Boa Parte (Ao Vivo)",
         "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 350274,
       "name": "A Boa Parte - Ao Vivo",
       "url": "https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
-        "name": "Santo Pra Sempre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/23thq9ElD6i6CoXulKrPSb"
-      },
-      "artists": [
-        {
-          "name": "Felipe Rodrigues",
-          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
-        }
-      ],
-      "duration_ms": 317074,
-      "name": "Santo Pra Sempre - Ao Vivo",
-      "url": "https://open.spotify.com/track/5c6o5yQdZ8jRCxboHK5SAq"
     }
   ],
   "unique_name": "Louvor & Adora\u00e7\u00e3o",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Silica Gel) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: HANRORO) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -2716,7 +2716,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 195294,
       "name": "Bruised",
       "url": "https://open.spotify.com/track/24suBl4SGNDcRF4quflSFo"
@@ -21953,6 +21953,28 @@
     },
     {
       "album": {
+        "name": "LESS",
+        "url": "https://open.spotify.com/album/7DJZnatOQB6yjFcokph4A2"
+      },
+      "artists": [
+        {
+          "name": "aiai",
+          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
+        },
+        {
+          "name": "homs",
+          "url": "https://open.spotify.com/artist/4jb43XkP3Qog5XuO1LZMgF"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289500,
+      "name": "TRUE",
+      "url": "https://open.spotify.com/track/1tmPJxylPJLlhMOYz9auVB"
+    },
+    {
+      "album": {
         "name": "Truthbuster",
         "url": "https://open.spotify.com/album/3VREd4I6QWnvDEhDbKVski"
       },
@@ -24367,6 +24389,24 @@
     },
     {
       "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/0W7dqgBtmGsVK18Y05cjKv"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/35kftu3tYZnhWFBuKGyS1p"
+    },
+    {
+      "album": {
         "name": "Mother of Mine \uc138\uc0c1\uc5d0\uc11c \uc81c\uc77c \uc608\uc05c \ub0b4 \ub538 (Original Television Soundtrack), Pt. 10",
         "url": "https://open.spotify.com/album/72FqkN5DdiqTERUss9Esd3"
       },
@@ -25410,7 +25450,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 245941,
       "name": "\uc774\uc0ac\ub97c \uac00\uc694",
       "url": "https://open.spotify.com/track/5fbz2WBSO0X0UKn9ruqFrM"

@@ -91,22 +91,6 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "The Great Divide",
-        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 317961,
-      "name": "The Great Divide",
-      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
         "name": "Done For",
         "url": "https://open.spotify.com/album/1cGgULJ45qb2qOvPuKQcXH"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 153315,
       "name": "Done For",
       "url": "https://open.spotify.com/track/3aSyshS7O34fmTpcieSCTt"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 317961,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
     },
     {
       "added_at": "2026-06-26 04:03:10",
@@ -241,20 +241,20 @@
       "url": "https://open.spotify.com/track/3iTwxZVmH5DoSIlFzlxvfL"
     },
     {
-      "added_at": "2026-05-22 04:02:59",
+      "added_at": "2026-06-26 04:03:10",
       "album": {
-        "name": "Music for the Soul",
-        "url": "https://open.spotify.com/album/6ycV8cYSdhSZwKKyh7Ngal"
+        "name": "Too Young to Die",
+        "url": "https://open.spotify.com/album/7b9deG3fNXBxkptJEyUW6r"
       },
       "artists": [
         {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
         }
       ],
-      "duration_ms": 224108,
-      "name": "Music for the Soul",
-      "url": "https://open.spotify.com/track/2CkZIsVGVK7vOpWlPjJ2SE"
+      "duration_ms": 233506,
+      "name": "Too Young to Die",
+      "url": "https://open.spotify.com/track/5oCG2Xp4fJlm1UGVhsCFQZ"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -295,6 +295,22 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
+        "name": "Music for the Soul",
+        "url": "https://open.spotify.com/album/6ycV8cYSdhSZwKKyh7Ngal"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 224108,
+      "name": "Music for the Soul",
+      "url": "https://open.spotify.com/track/2CkZIsVGVK7vOpWlPjJ2SE"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
         "name": "Easy Street",
         "url": "https://open.spotify.com/album/7bUVYoQv3CqY6yMZdSO5F8"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 159308,
       "name": "Think About Me",
       "url": "https://open.spotify.com/track/4rGkUNqOZ6Yf7VXAc1xHor"
-    },
-    {
-      "added_at": "2026-06-26 04:03:10",
-      "album": {
-        "name": "Too Young to Die",
-        "url": "https://open.spotify.com/album/7b9deG3fNXBxkptJEyUW6r"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Traffic Jam",
-          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
-        }
-      ],
-      "duration_ms": 233506,
-      "name": "Too Young to Die",
-      "url": "https://open.spotify.com/track/5oCG2Xp4fJlm1UGVhsCFQZ"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -417,22 +417,6 @@
       "url": "https://open.spotify.com/track/3mSmfRatQFPfg6UERTRkHd"
     },
     {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
-        "name": "Thinking Too Much",
-        "url": "https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1"
-      },
-      "artists": [
-        {
-          "name": "Joshua Slone",
-          "url": "https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9"
-        }
-      ],
-      "duration_ms": 216727,
-      "name": "Your Place At My Place",
-      "url": "https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl"
-    },
-    {
       "added_at": "2026-06-26 04:03:10",
       "album": {
         "name": "Nothin' Better To Do",
@@ -451,6 +435,22 @@
       "duration_ms": 182214,
       "name": "Nothin' Better To Do (with Wyatt Flores)",
       "url": "https://open.spotify.com/track/74Qu7xLd1FRWGwgLRh4EGI"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "Thinking Too Much",
+        "url": "https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1"
+      },
+      "artists": [
+        {
+          "name": "Joshua Slone",
+          "url": "https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9"
+        }
+      ],
+      "duration_ms": 216727,
+      "name": "Your Place At My Place",
+      "url": "https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -501,22 +501,6 @@
       "url": "https://open.spotify.com/track/7DzKcNfTSISDA9uBPavuaG"
     },
     {
-      "added_at": "2026-06-05 04:02:55",
-      "album": {
-        "name": "Preacher\u2019s Kid",
-        "url": "https://open.spotify.com/album/5r5DSgxAIE0yWQjqZT61fo"
-      },
-      "artists": [
-        {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
-        }
-      ],
-      "duration_ms": 302023,
-      "name": "Preacher\u2019s Kid",
-      "url": "https://open.spotify.com/track/0xhJziFgWiRqV3ihWaXdc0"
-    },
-    {
       "added_at": "2026-05-22 04:02:59",
       "album": {
         "name": "Snipe Hunter",
@@ -531,6 +515,22 @@
       "duration_ms": 285466,
       "name": "Eatin' Big Time",
       "url": "https://open.spotify.com/track/6b77gsnwtmE0mY1Xkv3Tyn"
+    },
+    {
+      "added_at": "2026-06-05 04:02:55",
+      "album": {
+        "name": "Preacher\u2019s Kid",
+        "url": "https://open.spotify.com/album/5r5DSgxAIE0yWQjqZT61fo"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "duration_ms": 302023,
+      "name": "Preacher\u2019s Kid",
+      "url": "https://open.spotify.com/track/0xhJziFgWiRqV3ihWaXdc0"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Returning To Myself",
-        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 260065,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/63oBWU1UnEwk5z441Xjngq"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
         "name": "Westward (Deluxe)",
         "url": "https://open.spotify.com/album/3DOexZdh22jhg9XeLHLG4l"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 150668,
       "name": "Windy City",
       "url": "https://open.spotify.com/track/13dPOEUDNyvOv8iKY9bxjq"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 260065,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/63oBWU1UnEwk5z441Xjngq"
     },
     {
       "added_at": "2026-06-26 04:03:10",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ"
     },
     {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
-        "name": "Memories and Empties",
-        "url": "https://open.spotify.com/album/3QB0ZTQH0RScbnHefHB2wr"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Memories and Empties",
-      "url": "https://open.spotify.com/track/2dlgdp1u8EgOWOy2ABLpg7"
-    },
-    {
       "added_at": "2026-06-26 04:03:10",
       "album": {
         "name": "Hometown",
@@ -1055,6 +1039,22 @@
       "duration_ms": 148133,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/7AsJDg1nrIoaFk7E18O2wv"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "Memories and Empties",
+        "url": "https://open.spotify.com/album/3QB0ZTQH0RScbnHefHB2wr"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "Memories and Empties",
+      "url": "https://open.spotify.com/track/2dlgdp1u8EgOWOy2ABLpg7"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "1800 Miles",
-        "url": "https://open.spotify.com/album/3Q36RgnJfohKd2UA7l8Wka"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 207160,
-      "name": "1800 Miles",
-      "url": "https://open.spotify.com/track/5ZJDbPWqjiKjKZVLOV93MD"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
         "name": "Devil\u2019s Den",
         "url": "https://open.spotify.com/album/3ylSrdUwRK2SMt4YIdAJ5q"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
+        "name": "1800 Miles",
+        "url": "https://open.spotify.com/album/3Q36RgnJfohKd2UA7l8Wka"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 207160,
+      "name": "1800 Miles",
+      "url": "https://open.spotify.com/track/5ZJDbPWqjiKjKZVLOV93MD"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
         "name": "A Crater Wide",
         "url": "https://open.spotify.com/album/1oeGWPa9719wEmCR9bUHp4"
       },
@@ -1155,54 +1155,6 @@
       "duration_ms": 190781,
       "name": "Heavy, Heavy Love",
       "url": "https://open.spotify.com/track/5Eionir5dOajqqJmmJHOWM"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
-        "name": "If You Ain\u2019t In Love By Now",
-        "url": "https://open.spotify.com/album/6CaciMY4uqOM1Dz202symB"
-      },
-      "artists": [
-        {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
-        }
-      ],
-      "duration_ms": 182532,
-      "name": "If You Ain\u2019t In Love By Now",
-      "url": "https://open.spotify.com/track/2fvv8455RiAIie3YY6oxxF"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
-        "name": "Appaloosa",
-        "url": "https://open.spotify.com/album/33YNI8LLZpVJJcOpSjbOh2"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 213137,
-      "name": "Oh My Days",
-      "url": "https://open.spotify.com/track/5xIlWBGj7l83z87YZJISD0"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 190923,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
     },
     {
       "added_at": "2026-07-03 04:03:22",
@@ -1227,6 +1179,54 @@
       "duration_ms": 243106,
       "name": "Deportee (Plane Wreck At Los Gatos) [Feat. Joan Baez & Memphis Mariachi]",
       "url": "https://open.spotify.com/track/6sHiv0apw8SIdIK4pXy2Dw"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "Appaloosa",
+        "url": "https://open.spotify.com/album/33YNI8LLZpVJJcOpSjbOh2"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 213137,
+      "name": "Oh My Days",
+      "url": "https://open.spotify.com/track/5xIlWBGj7l83z87YZJISD0"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "If You Ain\u2019t In Love By Now",
+        "url": "https://open.spotify.com/album/6CaciMY4uqOM1Dz202symB"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 182532,
+      "name": "If You Ain\u2019t In Love By Now",
+      "url": "https://open.spotify.com/track/2fvv8455RiAIie3YY6oxxF"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 190923,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Pink Living Room",
-        "url": "https://open.spotify.com/album/6Sua86pFF6JuJzns3XEeRs"
+        "name": "Pardon Me",
+        "url": "https://open.spotify.com/album/2DlQG7o1FSlgFKRuCBfAHL"
       },
       "artists": [
         {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
         }
       ],
-      "duration_ms": 236739,
-      "name": "Pink Living Room",
-      "url": "https://open.spotify.com/track/1Eu49CiR5D5x85kymc70ar"
+      "duration_ms": 244626,
+      "name": "Pardon Me",
+      "url": "https://open.spotify.com/track/6qXV3e8mrt4iI265wG5Zkn"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Pardon Me",
-        "url": "https://open.spotify.com/album/2DlQG7o1FSlgFKRuCBfAHL"
-      },
-      "artists": [
-        {
-          "name": "49 Winchester",
-          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
-        }
-      ],
-      "duration_ms": 244626,
-      "name": "Pardon Me",
-      "url": "https://open.spotify.com/track/6qXV3e8mrt4iI265wG5Zkn"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
         "name": "Field Song.",
         "url": "https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 139530,
       "name": "Field Song.",
       "url": "https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "Pink Living Room",
+        "url": "https://open.spotify.com/album/6Sua86pFF6JuJzns3XEeRs"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 236739,
+      "name": "Pink Living Room",
+      "url": "https://open.spotify.com/track/1Eu49CiR5D5x85kymc70ar"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/4yj8YSQdP7FABVFMxIfzSJ"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 209748,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
         "name": "The Longer You Hold On",
         "url": "https://open.spotify.com/album/3AhzyvefSpo0MiPsxy4MMv"
       },
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4yj8YSQdP7FABVFMxIfzSJ"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 209748,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
         "name": "So Long Little Miss Sunshine",
         "url": "https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr"
       },
@@ -1583,6 +1583,22 @@
       "duration_ms": 224861,
       "name": "Everything Burns",
       "url": "https://open.spotify.com/track/0lL6aruZNHj9NdWEVni3MX"
+    },
+    {
+      "added_at": "2026-07-03 04:03:22",
+      "album": {
+        "name": "Whole Lotta Talkin'",
+        "url": "https://open.spotify.com/album/4bt4gStS58TFuSUwA75OIn"
+      },
+      "artists": [
+        {
+          "name": "Lisa LeBlanc",
+          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "Whole Lotta Talkin'",
+      "url": "https://open.spotify.com/track/2A5KiEwjnjihPdMlk1Ic7z"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1603,18 +1619,18 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Book of Paul",
-        "url": "https://open.spotify.com/album/7uaR8wefw8pU4eYJh0jMr2"
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k"
       },
       "artists": [
         {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
         }
       ],
-      "duration_ms": 201230,
-      "name": "Dark Horse",
-      "url": "https://open.spotify.com/track/43ZxkpfIAC4cfaVuNjFqrB"
+      "duration_ms": 210650,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1635,22 +1651,6 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Darling",
-        "url": "https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 210650,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
         "name": "Everything I Wanted",
         "url": "https://open.spotify.com/album/2yNbFmp75Kv2kcyGGrI8wL"
       },
@@ -1663,6 +1663,22 @@
       "duration_ms": 215182,
       "name": "Lose A Friend",
       "url": "https://open.spotify.com/track/1gD4zZy5x6UAfo8syZlTDk"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "Book of Paul",
+        "url": "https://open.spotify.com/album/7uaR8wefw8pU4eYJh0jMr2"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Dark Horse",
+      "url": "https://open.spotify.com/track/43ZxkpfIAC4cfaVuNjFqrB"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1683,22 +1699,6 @@
       "duration_ms": 159330,
       "name": "Tumbleweeds and Chewing Gum",
       "url": "https://open.spotify.com/track/6KvzXZ70HTT3sLd9iYxZJY"
-    },
-    {
-      "added_at": "2026-07-03 04:03:22",
-      "album": {
-        "name": "Whole Lotta Talkin'",
-        "url": "https://open.spotify.com/album/4bt4gStS58TFuSUwA75OIn"
-      },
-      "artists": [
-        {
-          "name": "Lisa LeBlanc",
-          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "Whole Lotta Talkin'",
-      "url": "https://open.spotify.com/track/2A5KiEwjnjihPdMlk1Ic7z"
     },
     {
       "added_at": "2026-05-22 04:02:59",

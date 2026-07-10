@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: JMIN)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: PAAK)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 158124,
       "name": "babyblue",
       "url": "https://open.spotify.com/track/66HWds9qgwzMxcfiwQcCue"
@@ -3011,6 +3011,28 @@
     },
     {
       "album": {
+        "name": "NAMU!",
+        "url": "https://open.spotify.com/album/4P0gl1yPbph5fkA6hu1KHd"
+      },
+      "artists": [
+        {
+          "name": "PAAK",
+          "url": "https://open.spotify.com/artist/03sYskre0oa1U6nuso7EEL"
+        },
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162658,
+      "name": "COT (feat. MILLI)",
+      "url": "https://open.spotify.com/track/3vAte5domSgArlZsXlPFhC"
+    },
+    {
+      "album": {
         "name": "Counting Stars",
         "url": "https://open.spotify.com/album/4OJ5SXGLH3wIvsUsFuV8g8"
       },
@@ -4188,6 +4210,28 @@
       "duration_ms": 177362,
       "name": "Dry Flower (Feat. OLNL, GEMma)",
       "url": "https://open.spotify.com/track/1izqekFgQhPvnYnMWV6Ciq"
+    },
+    {
+      "album": {
+        "name": "DTLA",
+        "url": "https://open.spotify.com/album/3xVYQ9dMfPMKTBgjzrEjzf"
+      },
+      "artists": [
+        {
+          "name": "Bamsem",
+          "url": "https://open.spotify.com/artist/5iHMzgKZSoexGZSlY7Fext"
+        },
+        {
+          "name": "Cindrixie",
+          "url": "https://open.spotify.com/artist/4Qc6jbXfHEKQIhgS4yY5oS"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174552,
+      "name": "DTLA",
+      "url": "https://open.spotify.com/track/6eG44JiWp5Sk5wil9Yc7vw"
     },
     {
       "album": {
@@ -7254,7 +7298,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 205003,
       "name": "illa illa",
       "url": "https://open.spotify.com/track/4M58f8RgOr3jr5ccG6hRTb"
@@ -12267,6 +12311,24 @@
     },
     {
       "album": {
+        "name": "Still Hot",
+        "url": "https://open.spotify.com/album/5uLwwJVwMZcSiSe9JbltKP"
+      },
+      "artists": [
+        {
+          "name": "ZENE THE ZILLA",
+          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122363,
+      "name": "Realized",
+      "url": "https://open.spotify.com/track/2GpquAGNGJlbKw2f6kLwOt"
+    },
+    {
+      "album": {
         "name": "Refresh",
         "url": "https://open.spotify.com/album/4TWFoQslU8MtoWZWB9VlJk"
       },
@@ -13466,7 +13528,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 168640,
       "name": "Shawty (feat. Coogie)",
       "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"

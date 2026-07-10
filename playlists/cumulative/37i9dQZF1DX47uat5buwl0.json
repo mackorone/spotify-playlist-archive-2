@@ -653,6 +653,36 @@
     },
     {
       "album": {
+        "name": "CHEERIO SUMMER REMIX",
+        "url": "https://open.spotify.com/album/7mkZQYGBJa1LMWFjnRrZrl"
+      },
+      "artists": [
+        {
+          "name": "DJ LARITA",
+          "url": "https://open.spotify.com/artist/73BcfubAabKdfcR0WpxbAg"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Carmell",
+          "url": "https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121512,
+      "name": "CHEERIO SUMMER REMIX",
+      "url": "https://open.spotify.com/track/1kpq0c9ErTJIaR3MPJz6sn"
+    },
+    {
+      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/3fAbIQ4KlgfrbFmIPDJQO0"
       },

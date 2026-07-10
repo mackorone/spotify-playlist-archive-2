@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33910,
+  "num_followers": 33909,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
+        "name": "Good Riddance & Goodbye",
+        "url": "https://open.spotify.com/album/4fJjNjrXI8Kg06UwA30ImI"
+      },
+      "artists": [
+        {
+          "name": "INA ROSE",
+          "url": "https://open.spotify.com/artist/19ehJM5qKnIvJ1KXOnKddA"
+        }
+      ],
+      "duration_ms": 187980,
+      "name": "Good Riddance & Goodbye",
+      "url": "https://open.spotify.com/track/5qah0qyBq6iG8sRjtfPu7e"
+    },
+    {
+      "added_at": "2026-05-21 22:00:09",
+      "album": {
         "name": "Nashville Dreaming",
         "url": "https://open.spotify.com/album/6G9a3scmgICG59VxLBj82P"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 234584,
       "name": "Nashville Dreaming",
       "url": "https://open.spotify.com/track/5kGwMLgKd2INKw2pIA52f6"
-    },
-    {
-      "added_at": "2026-05-21 22:00:09",
-      "album": {
-        "name": "Good Riddance & Goodbye",
-        "url": "https://open.spotify.com/album/4fJjNjrXI8Kg06UwA30ImI"
-      },
-      "artists": [
-        {
-          "name": "INA ROSE",
-          "url": "https://open.spotify.com/artist/19ehJM5qKnIvJ1KXOnKddA"
-        }
-      ],
-      "duration_ms": 187980,
-      "name": "Good Riddance & Goodbye",
-      "url": "https://open.spotify.com/track/5qah0qyBq6iG8sRjtfPu7e"
     },
     {
       "added_at": "2026-05-21 22:00:09",

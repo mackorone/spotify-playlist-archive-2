@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 81567,
+  "num_followers": 81570,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
+        "name": "Tornado Ranchero",
+        "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
+      },
+      "artists": [
+        {
+          "name": "Tornado Ranchero",
+          "url": "https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl"
+        }
+      ],
+      "duration_ms": 267859,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
         "name": "Una Hora para Bailar",
         "url": "https://open.spotify.com/album/4rACcbOMPBbwWBiCLp5M7B"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 201627,
       "name": "All\u00e1 Va la Liebre",
       "url": "https://open.spotify.com/track/3512Mh1spOR8MLMlz57VtE"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
-        "name": "Tornado Ranchero",
-        "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
-      },
-      "artists": [
-        {
-          "name": "Tornado Ranchero",
-          "url": "https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl"
-        }
-      ],
-      "duration_ms": 267859,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Me Voy a Emborrachar",
-        "url": "https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Rimac",
-          "url": "https://open.spotify.com/artist/6d6QJqFsGRZmm8boMVAALN"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "El \u00daltimo Trago",
-      "url": "https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Para Mi Gente Campesina",
         "url": "https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 196662,
       "name": "Pecado de Amor",
       "url": "https://open.spotify.com/track/1o4te8zmQt1mE2yxoXXoAz"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Me Voy a Emborrachar",
+        "url": "https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Rimac",
+          "url": "https://open.spotify.com/artist/6d6QJqFsGRZmm8boMVAALN"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "El \u00daltimo Trago",
+      "url": "https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Ac\u00e1bame de Matar",
-        "url": "https://open.spotify.com/album/2dJ2IMonVOVdV73CyjK5zV"
-      },
-      "artists": [
-        {
-          "name": "El Azote",
-          "url": "https://open.spotify.com/artist/3CGruMV3zqAI4wF8xQLRwh"
-        }
-      ],
-      "duration_ms": 215370,
-      "name": "Ac\u00e1bame de Matar",
-      "url": "https://open.spotify.com/track/4L3VeEZtIaP6nMh3LTPAtJ"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Me Opongo",
         "url": "https://open.spotify.com/album/68sJRe35z5Zc6tTJpabi4d"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 177711,
       "name": "Me Opongo",
       "url": "https://open.spotify.com/track/2zpxH79G1hf1XcbT5v4Jd7"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Ac\u00e1bame de Matar",
+        "url": "https://open.spotify.com/album/2dJ2IMonVOVdV73CyjK5zV"
+      },
+      "artists": [
+        {
+          "name": "El Azote",
+          "url": "https://open.spotify.com/artist/3CGruMV3zqAI4wF8xQLRwh"
+        }
+      ],
+      "duration_ms": 215370,
+      "name": "Ac\u00e1bame de Matar",
+      "url": "https://open.spotify.com/track/4L3VeEZtIaP6nMh3LTPAtJ"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Un Nuevo Estilo Campesino",
-        "url": "https://open.spotify.com/album/1O8h1QrvakmCmUDn99vwdy"
-      },
-      "artists": [
-        {
-          "name": "Los Lumaquinos Alegres",
-          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
-        }
-      ],
-      "duration_ms": 218023,
-      "name": "La Porotera",
-      "url": "https://open.spotify.com/track/4tjQKSv3MNQ0U0zh6acZLR"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Galantes y Caballeros",
         "url": "https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 152816,
       "name": "Galantes y Caballeros",
       "url": "https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Un Nuevo Estilo Campesino",
+        "url": "https://open.spotify.com/album/1O8h1QrvakmCmUDn99vwdy"
+      },
+      "artists": [
+        {
+          "name": "Los Lumaquinos Alegres",
+          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
+        }
+      ],
+      "duration_ms": 218023,
+      "name": "La Porotera",
+      "url": "https://open.spotify.com/track/4tjQKSv3MNQ0U0zh6acZLR"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1423,8 +1423,8 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Corridos de Rancho",
-        "url": "https://open.spotify.com/album/56gfVFY5SibVSqOBWigNc0"
+        "name": "Palomita de Alas Blancas",
+        "url": "https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78"
       },
       "artists": [
         {
@@ -1432,9 +1432,9 @@
           "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
         }
       ],
-      "duration_ms": 246325,
-      "name": "Elenita",
-      "url": "https://open.spotify.com/track/2zGqdm3UcCjy1crKuCVoDI"
+      "duration_ms": 115466,
+      "name": "Palomita de Alas Blancas",
+      "url": "https://open.spotify.com/track/3Zh8ZpBFRe8OBSNdxTY4VG"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1503,8 +1503,8 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Palomita de Alas Blancas",
-        "url": "https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78"
+        "name": "Corridos de Rancho",
+        "url": "https://open.spotify.com/album/56gfVFY5SibVSqOBWigNc0"
       },
       "artists": [
         {
@@ -1512,9 +1512,9 @@
           "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
         }
       ],
-      "duration_ms": 115466,
-      "name": "Palomita de Alas Blancas",
-      "url": "https://open.spotify.com/track/3Zh8ZpBFRe8OBSNdxTY4VG"
+      "duration_ms": 246325,
+      "name": "Elenita",
+      "url": "https://open.spotify.com/track/2zGqdm3UcCjy1crKuCVoDI"
     },
     {
       "added_at": "2026-02-19 20:52:53",

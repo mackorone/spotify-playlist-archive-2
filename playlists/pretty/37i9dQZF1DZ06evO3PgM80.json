@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 22205,
+  "num_followers": 22210,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAABpKpnS4/Cead6MJDL4I9mF",
+  "snapshot_id": "ak2TAAAAAACBSlX/ELu1fyzGhfyXaOGG",
   "tracks": [
     {
       "added_at": null,
@@ -119,26 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tuas \u00c1guas",
-        "url": "https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 310200,
-      "name": "Tuas \u00c1guas",
-      "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Al\u00e9m do Rio Azul (Ao Vivo)",
         "url": "https://open.spotify.com/album/5jYmlFT4rPKgl3LJ9BJkVp"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 306560,
       "name": "Al\u00e9m do Rio Azul - Ao Vivo",
       "url": "https://open.spotify.com/track/7vnA8F8Eu1Wcye76U7CKkh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tuas \u00c1guas",
+        "url": "https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 310200,
+      "name": "Tuas \u00c1guas",
+      "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
     },
     {
       "added_at": null,
@@ -523,22 +523,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Julia Vit\u00f3ria - Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8"
+        "name": "Clamo Jesus (feat. Julia Vit\u00f3ria)",
+        "url": "https://open.spotify.com/album/3AAJ6ruUbzkffCCfPs1AOf"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+          "name": "Joe Vasconcelos",
+          "url": "https://open.spotify.com/artist/71ebPclkvE4MAtYPNQ4XBX"
         },
         {
-          "name": "Rachel Novaes",
-          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
+          "name": "Sing Church Worship",
+          "url": "https://open.spotify.com/artist/2gB9fUvjv7WdVt9sfqbd5J"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 296053,
-      "name": "Jesus At The Center (Bonus Track) - Acoustic",
-      "url": "https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M"
+      "duration_ms": 395773,
+      "name": "Clamo Jesus (feat. Julia Vit\u00f3ria)",
+      "url": "https://open.spotify.com/track/2hZiJNnQTYL0qHgh4zIbNE"
     },
     {
       "added_at": null,
@@ -563,26 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clamo Jesus (feat. Julia Vit\u00f3ria)",
-        "url": "https://open.spotify.com/album/3AAJ6ruUbzkffCCfPs1AOf"
+        "name": "Julia Vit\u00f3ria - Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8"
       },
       "artists": [
         {
-          "name": "Joe Vasconcelos",
-          "url": "https://open.spotify.com/artist/71ebPclkvE4MAtYPNQ4XBX"
-        },
-        {
-          "name": "Sing Church Worship",
-          "url": "https://open.spotify.com/artist/2gB9fUvjv7WdVt9sfqbd5J"
-        },
-        {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Rachel Novaes",
+          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
         }
       ],
-      "duration_ms": 395773,
-      "name": "Clamo Jesus (feat. Julia Vit\u00f3ria)",
-      "url": "https://open.spotify.com/track/2hZiJNnQTYL0qHgh4zIbNE"
+      "duration_ms": 296053,
+      "name": "Jesus At The Center (Bonus Track) - Acoustic",
+      "url": "https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catedral (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4mu6koOx6yaXbi9327NrzZ"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 278186,
-      "name": "Alvo Mais Que a Neve - Ao Vivo",
-      "url": "https://open.spotify.com/track/603qBVuPvdk7aSZNQbC8ts"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seguran\u00e7a / Canta Minh'alma (Blessed Assurance) [Ao Vivo]",
         "url": "https://open.spotify.com/album/29esCOFDzflMjWCvfmXoGg"
       },
@@ -807,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catedral (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4mu6koOx6yaXbi9327NrzZ"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 278186,
+      "name": "Alvo Mais Que a Neve - Ao Vivo",
+      "url": "https://open.spotify.com/track/603qBVuPvdk7aSZNQbC8ts"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tua Presen\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 320186,
       "name": "Tua Presen\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vem",
+        "url": "https://open.spotify.com/album/4w9Ym45CNTgnyTNaMXsJ1w"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 382880,
+      "name": "Vem",
+      "url": "https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b"
     },
     {
       "added_at": null,
@@ -839,22 +855,6 @@
       "duration_ms": 252866,
       "name": "Perto Eu Quero Estar - Ao Vivo",
       "url": "https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vem",
-        "url": "https://open.spotify.com/album/4w9Ym45CNTgnyTNaMXsJ1w"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 382880,
-      "name": "Vem",
-      "url": "https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b"
     },
     {
       "added_at": null,

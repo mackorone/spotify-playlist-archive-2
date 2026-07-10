@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap \u2764\ufe0f\u200d\ud83d\udd25 with Lizdek",
-  "num_followers": 878321,
+  "num_followers": 878275,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1027,30 +1027,6 @@
     {
       "added_at": "2026-07-08 03:08:07",
       "album": {
-        "name": "RIDDEM",
-        "url": "https://open.spotify.com/album/6K0oLtutn78F9CXO6IOQ2g"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Allenora",
-          "url": "https://open.spotify.com/artist/7bPZHSmeAYFS6svtey8re0"
-        },
-        {
-          "name": "America Foster",
-          "url": "https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO"
-        }
-      ],
-      "duration_ms": 207428,
-      "name": "RIDDEM",
-      "url": "https://open.spotify.com/track/1bkjMSYQVJJtxIZTykflfg"
-    },
-    {
-      "added_at": "2026-07-08 03:08:07",
-      "album": {
         "name": "4EVR",
         "url": "https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB"
       },
@@ -1075,6 +1051,30 @@
       "duration_ms": 203571,
       "name": "SIGNAL",
       "url": "https://open.spotify.com/track/2lI0NirbWze2kWcIsB7Nqo"
+    },
+    {
+      "added_at": "2026-07-08 03:08:07",
+      "album": {
+        "name": "RIDDEM",
+        "url": "https://open.spotify.com/album/6K0oLtutn78F9CXO6IOQ2g"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Allenora",
+          "url": "https://open.spotify.com/artist/7bPZHSmeAYFS6svtey8re0"
+        },
+        {
+          "name": "America Foster",
+          "url": "https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO"
+        }
+      ],
+      "duration_ms": 207428,
+      "name": "RIDDEM",
+      "url": "https://open.spotify.com/track/1bkjMSYQVJJtxIZTykflfg"
     },
     {
       "added_at": "2026-07-08 03:08:07",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-07-08 03:08:07",
       "album": {
+        "name": "Get Started",
+        "url": "https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 176514,
+      "name": "Get Started",
+      "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
+    },
+    {
+      "added_at": "2026-07-08 03:08:07",
+      "album": {
         "name": "JUMP OUT",
         "url": "https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 145714,
       "name": "JUMP OUT",
       "url": "https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0"
-    },
-    {
-      "added_at": "2026-07-08 03:08:07",
-      "album": {
-        "name": "Get Started",
-        "url": "https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 176514,
-      "name": "Get Started",
-      "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
     },
     {
       "added_at": "2026-07-08 03:08:07",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-07-08 03:08:07",
       "album": {
-        "name": "RAGE",
-        "url": "https://open.spotify.com/album/2hRr9AJySoLaK9NrxpAios"
-      },
-      "artists": [
-        {
-          "name": "AVELLO",
-          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
-        },
-        {
-          "name": "ROSSY",
-          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "RAGE",
-      "url": "https://open.spotify.com/track/5VM2R8CCOOPntVtycrbN9R"
-    },
-    {
-      "added_at": "2026-07-08 03:08:07",
-      "album": {
         "name": "Disaster",
         "url": "https://open.spotify.com/album/1Ky5TyJ72ScYyLhWgyKH8f"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 172901,
       "name": "Again? Fuck.",
       "url": "https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X"
+    },
+    {
+      "added_at": "2026-07-08 03:08:07",
+      "album": {
+        "name": "RAGE",
+        "url": "https://open.spotify.com/album/2hRr9AJySoLaK9NrxpAios"
+      },
+      "artists": [
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        }
+      ],
+      "duration_ms": 145600,
+      "name": "RAGE",
+      "url": "https://open.spotify.com/track/5VM2R8CCOOPntVtycrbN9R"
     },
     {
       "added_at": "2026-07-08 03:08:07",
@@ -1407,22 +1407,18 @@
     {
       "added_at": "2026-07-08 03:08:07",
       "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79"
+        "name": "BITE (MY STYLE)",
+        "url": "https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
         }
       ],
-      "duration_ms": 138857,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
+      "duration_ms": 148514,
+      "name": "BITE (MY STYLE)",
+      "url": "https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET"
     },
     {
       "added_at": "2026-07-08 03:08:07",
@@ -1443,18 +1439,18 @@
     {
       "added_at": "2026-07-08 03:08:07",
       "album": {
-        "name": "BITE (MY STYLE)",
-        "url": "https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO"
+        "name": "Steps On You (Peep My Style)",
+        "url": "https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt"
       },
       "artists": [
         {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
         }
       ],
-      "duration_ms": 148514,
-      "name": "BITE (MY STYLE)",
-      "url": "https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET"
+      "duration_ms": 176200,
+      "name": "Steps On You (Peep My Style)",
+      "url": "https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8"
     },
     {
       "added_at": "2026-07-08 03:08:07",
@@ -1475,34 +1471,38 @@
     {
       "added_at": "2026-07-08 03:08:07",
       "album": {
-        "name": "Steps On You (Peep My Style)",
-        "url": "https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt"
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79"
       },
       "artists": [
         {
-          "name": "Nitepunk",
-          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         }
       ],
-      "duration_ms": 176200,
-      "name": "Steps On You (Peep My Style)",
-      "url": "https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8"
+      "duration_ms": 138857,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
     },
     {
       "added_at": "2026-07-08 03:08:07",
       "album": {
-        "name": "Snakebite",
-        "url": "https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN"
+        "name": "CONTROL",
+        "url": "https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6"
       },
       "artists": [
         {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Snakebite",
-      "url": "https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy"
+      "duration_ms": 145600,
+      "name": "CONTROL",
+      "url": "https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK"
     },
     {
       "added_at": "2026-07-08 03:08:07",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2026-07-08 03:08:07",
       "album": {
-        "name": "CONTROL",
-        "url": "https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6"
+        "name": "Snakebite",
+        "url": "https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN"
       },
       "artists": [
         {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
         }
       ],
-      "duration_ms": 145600,
-      "name": "CONTROL",
-      "url": "https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK"
+      "duration_ms": 192000,
+      "name": "Snakebite",
+      "url": "https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy"
     },
     {
       "added_at": "2026-07-08 03:08:07",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2026-07-08 03:08:07",
       "album": {
-        "name": "DOOM",
-        "url": "https://open.spotify.com/album/4TxFxkekKZ0tBtcezdyeHB"
-      },
-      "artists": [
-        {
-          "name": "Getter",
-          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
-        },
-        {
-          "name": "Shakewell",
-          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
-        }
-      ],
-      "duration_ms": 251076,
-      "name": "STAB UP (feat. Shakewell)",
-      "url": "https://open.spotify.com/track/0kGpfbVDi9K8srRsJBeVla"
-    },
-    {
-      "added_at": "2026-07-08 03:08:07",
-      "album": {
         "name": "Monomyth",
         "url": "https://open.spotify.com/album/3snB2cQcZUkFYS1aawRQm9"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 185142,
       "name": "Ghoul",
       "url": "https://open.spotify.com/track/53ICazVbw0uQNOBnUff09a"
+    },
+    {
+      "added_at": "2026-07-08 03:08:07",
+      "album": {
+        "name": "DOOM",
+        "url": "https://open.spotify.com/album/4TxFxkekKZ0tBtcezdyeHB"
+      },
+      "artists": [
+        {
+          "name": "Getter",
+          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
+        },
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+        }
+      ],
+      "duration_ms": 251076,
+      "name": "STAB UP (feat. Shakewell)",
+      "url": "https://open.spotify.com/track/0kGpfbVDi9K8srRsJBeVla"
     },
     {
       "added_at": "2026-07-08 03:08:07",

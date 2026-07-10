@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Amanda Magalh\u00e3es ",
-  "num_followers": 290379,
+  "num_followers": 290371,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,30 @@
     {
       "added_at": "2026-07-03 03:00:40",
       "album": {
+        "name": "Pensando Em N\u00f3s",
+        "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
+      },
+      "artists": [
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        },
+        {
+          "name": "CALIFFA",
+          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
+        },
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Pensando Em N\u00f3s",
+      "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
+    },
+    {
+      "added_at": "2026-07-03 03:00:40",
+      "album": {
         "name": "Flor de Maio",
         "url": "https://open.spotify.com/album/18jhTVeRNyNOTkM1YeOYZt"
       },
@@ -467,30 +491,6 @@
       "duration_ms": 154105,
       "name": "O Despertar",
       "url": "https://open.spotify.com/track/33wlhom1u9DpjP28vbjj1u"
-    },
-    {
-      "added_at": "2026-07-03 03:00:40",
-      "album": {
-        "name": "Pensando Em N\u00f3s",
-        "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
-      },
-      "artists": [
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
-        },
-        {
-          "name": "CALIFFA",
-          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
-        },
-        {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Pensando Em N\u00f3s",
-      "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
     },
     {
       "added_at": "2026-07-03 03:00:40",
@@ -639,6 +639,26 @@
     {
       "added_at": "2026-07-03 03:00:40",
       "album": {
+        "name": "Camisa Vintage",
+        "url": "https://open.spotify.com/album/24537ToUynGliJJ9K0l23v"
+      },
+      "artists": [
+        {
+          "name": "Gavi",
+          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
+        },
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
+        }
+      ],
+      "duration_ms": 144095,
+      "name": "Camisa Vintage",
+      "url": "https://open.spotify.com/track/35REdBtOnxQnGNKqNcBEcb"
+    },
+    {
+      "added_at": "2026-07-03 03:00:40",
+      "album": {
         "name": "LUMINOSA, ATO II: SOL",
         "url": "https://open.spotify.com/album/0jjFw0lrAwiOvXgbnvOp2D"
       },
@@ -679,26 +699,6 @@
     {
       "added_at": "2026-07-03 03:00:40",
       "album": {
-        "name": "Camisa Vintage",
-        "url": "https://open.spotify.com/album/24537ToUynGliJJ9K0l23v"
-      },
-      "artists": [
-        {
-          "name": "Gavi",
-          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
-        },
-        {
-          "name": "Riff",
-          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
-        }
-      ],
-      "duration_ms": 144095,
-      "name": "Camisa Vintage",
-      "url": "https://open.spotify.com/track/35REdBtOnxQnGNKqNcBEcb"
-    },
-    {
-      "added_at": "2026-07-03 03:00:40",
-      "album": {
         "name": "Mundo Gira",
         "url": "https://open.spotify.com/album/5aSep1XPJCD03R2DHgSVpt"
       },
@@ -711,6 +711,26 @@
       "duration_ms": 171913,
       "name": "\u00cdm\u00e3",
       "url": "https://open.spotify.com/track/51fIvSXRy2dObhEOFlEl9O"
+    },
+    {
+      "added_at": "2026-07-03 03:00:40",
+      "album": {
+        "name": "Por Isso Me Liga",
+        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 219168,
+      "name": "Por Isso Me Liga",
+      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
     },
     {
       "added_at": "2026-07-03 03:00:40",
@@ -735,26 +755,6 @@
       "duration_ms": 191093,
       "name": "SAMBA DE CRIA",
       "url": "https://open.spotify.com/track/7sXea0Z2jwhTGlRXWe2znZ"
-    },
-    {
-      "added_at": "2026-07-03 03:00:40",
-      "album": {
-        "name": "Por Isso Me Liga",
-        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
-      },
-      "artists": [
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 219168,
-      "name": "Por Isso Me Liga",
-      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
     },
     {
       "added_at": "2026-07-03 03:00:40",

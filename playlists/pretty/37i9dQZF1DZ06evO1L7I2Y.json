@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAACTOdXq89hTzbqVey2y+e31",
+  "snapshot_id": "ak2TAAAAAACadL5Pnr8fXKE0l3UCOntu",
   "tracks": [
     {
       "added_at": null,
@@ -330,15 +330,11 @@
         {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Prece",
-      "url": "https://open.spotify.com/track/6UmJjde5JUyvqMm2lqvPyD"
+      "duration_ms": 197142,
+      "name": "Ferve",
+      "url": "https://open.spotify.com/track/0O2sovjHJwWJb9IgeDIa3R"
     },
     {
       "added_at": null,
@@ -418,11 +414,15 @@
         {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
         }
       ],
-      "duration_ms": 197142,
-      "name": "Ferve",
-      "url": "https://open.spotify.com/track/0O2sovjHJwWJb9IgeDIa3R"
+      "duration_ms": 160000,
+      "name": "Prece",
+      "url": "https://open.spotify.com/track/6UmJjde5JUyvqMm2lqvPyD"
     },
     {
       "added_at": null,
@@ -723,26 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fases",
-        "url": "https://open.spotify.com/album/36R1fAVyOsz8ockmiJVv1o"
+        "name": "O Jogo Virou",
+        "url": "https://open.spotify.com/album/3m4s2u9Be8BzIv9rFhi3eN"
       },
       "artists": [
-        {
-          "name": "Devasto Prod",
-          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
-        },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
         }
       ],
-      "duration_ms": 199860,
-      "name": "Fases",
-      "url": "https://open.spotify.com/track/1oq5Gk7m0r3kRzOoh6GUOA"
+      "duration_ms": 172009,
+      "name": "O Jogo Virou",
+      "url": "https://open.spotify.com/track/187pijczzR58jQMhlyQbH8"
     },
     {
       "added_at": null,
@@ -767,22 +763,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Jogo Virou",
-        "url": "https://open.spotify.com/album/3m4s2u9Be8BzIv9rFhi3eN"
+        "name": "Fases",
+        "url": "https://open.spotify.com/album/36R1fAVyOsz8ockmiJVv1o"
       },
       "artists": [
+        {
+          "name": "Devasto Prod",
+          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
+        },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
         }
       ],
-      "duration_ms": 172009,
-      "name": "O Jogo Virou",
-      "url": "https://open.spotify.com/track/187pijczzR58jQMhlyQbH8"
+      "duration_ms": 199860,
+      "name": "Fases",
+      "url": "https://open.spotify.com/track/1oq5Gk7m0r3kRzOoh6GUOA"
     },
     {
       "added_at": null,
@@ -807,6 +807,62 @@
       "duration_ms": 206197,
       "name": "24 Horas",
       "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00fasicas Para Marolar",
+        "url": "https://open.spotify.com/album/3arnEefvVL9ReTcoHiNOFp"
+      },
+      "artists": [
+        {
+          "name": "KING Saints",
+          "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 171008,
+      "name": "Gostoso esse Pretinho",
+      "url": "https://open.spotify.com/track/3VQ4Dszt8yygoYp0n0OlBt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PELE",
+        "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Vitin",
+          "url": "https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        },
+        {
+          "name": "Kash",
+          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
+        }
+      ],
+      "duration_ms": 156442,
+      "name": "Lux\u00faria",
+      "url": "https://open.spotify.com/track/37W8TBDB1z5rhQPEUP1Bhz"
     },
     {
       "added_at": null,
@@ -843,62 +899,6 @@
       "duration_ms": 352500,
       "name": "Rock Danger Brasil Grime Show - Big Bllakk X N.I.N.A",
       "url": "https://open.spotify.com/track/0otaj8BW7Jjr7pNt38tAjq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PELE",
-        "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Vitin",
-          "url": "https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        },
-        {
-          "name": "Kash",
-          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
-        }
-      ],
-      "duration_ms": 156442,
-      "name": "Lux\u00faria",
-      "url": "https://open.spotify.com/track/37W8TBDB1z5rhQPEUP1Bhz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00fasicas Para Marolar",
-        "url": "https://open.spotify.com/album/3arnEefvVL9ReTcoHiNOFp"
-      },
-      "artists": [
-        {
-          "name": "KING Saints",
-          "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 171008,
-      "name": "Gostoso esse Pretinho",
-      "url": "https://open.spotify.com/track/3VQ4Dszt8yygoYp0n0OlBt"
     },
     {
       "added_at": null,
@@ -1027,42 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Copy",
-        "url": "https://open.spotify.com/album/0aabe3MkHEfOH89G3AA7rX"
-      },
-      "artists": [
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Kaylan Mary",
-          "url": "https://open.spotify.com/artist/3ARExS7RN7MsIONPRMk9uD"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 181778,
-      "name": "Copy",
-      "url": "https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FUTURO III",
         "url": "https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR"
       },
@@ -1107,6 +1071,42 @@
       "duration_ms": 174861,
       "name": "MEC",
       "url": "https://open.spotify.com/track/4sRo2cKLhGI3SlOftXq4I0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Copy",
+        "url": "https://open.spotify.com/album/0aabe3MkHEfOH89G3AA7rX"
+      },
+      "artists": [
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Kaylan Mary",
+          "url": "https://open.spotify.com/artist/3ARExS7RN7MsIONPRMk9uD"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 181778,
+      "name": "Copy",
+      "url": "https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX"
     },
     {
       "added_at": null,

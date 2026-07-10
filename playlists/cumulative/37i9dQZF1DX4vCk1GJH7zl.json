@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 226843,
       "name": "Dopamina",
       "url": "https://open.spotify.com/track/3r9VtIqzY73RwUw6dOHiIo"
@@ -3124,6 +3124,28 @@
       "duration_ms": 250780,
       "name": "P\u00f3len",
       "url": "https://open.spotify.com/track/5a55PUJFZ4HkEqsS1oOTMg"
+    },
+    {
+      "album": {
+        "name": "Qual \u00e9 o fim?",
+        "url": "https://open.spotify.com/album/1DoCydT1FLrVHHjKG5iv3Y"
+      },
+      "artists": [
+        {
+          "name": "Viralata",
+          "url": "https://open.spotify.com/artist/4nzGWvAnomcGsvVhNyZ0xn"
+        },
+        {
+          "name": "QuatroK",
+          "url": "https://open.spotify.com/artist/1JHtQRVTjep7gP7AT6gQ1n"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Qual \u00e9 o fim?",
+      "url": "https://open.spotify.com/track/4FUAnqFwmOiym89Rwmy1f1"
     },
     {
       "album": {

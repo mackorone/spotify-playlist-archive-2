@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : Leto x Kim x DJ Ken",
+  "description": "Les hits zouk & kompa du moment. Photo : Axel Tony x Yoan",
   "name": "Zouk Station",
   "tracks": [
+    {
+      "album": {
+        "name": "#M.A.L.T",
+        "url": "https://open.spotify.com/album/4m8t6BcR0nUxwDqGSlWhLn"
+      },
+      "artists": [
+        {
+          "name": "T-Gui",
+          "url": "https://open.spotify.com/artist/4qc6LLDZhaO2vOSJZ7Jrq5"
+        },
+        {
+          "name": "Yena Blue",
+          "url": "https://open.spotify.com/artist/0JqXT1KmVtZ4VdGtprB2b4"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174655,
+      "name": "#M.A.L.T",
+      "url": "https://open.spotify.com/track/6Dpf7BNBd0iWmRbIEUp6hR"
+    },
     {
       "album": {
         "name": "10 Minutes",
@@ -1810,7 +1832,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 197400,
       "name": "Difficile",
       "url": "https://open.spotify.com/track/4KYoyDke6jhrCXFUHKZq5w"
@@ -1920,6 +1942,28 @@
       "duration_ms": 251422,
       "name": "DIS-MOI",
       "url": "https://open.spotify.com/track/4sn3FqYa8jvMGBO3QKPqN1"
+    },
+    {
+      "album": {
+        "name": "NOX BOOK I",
+        "url": "https://open.spotify.com/album/0OFqXAhoa2s8RDqO6uhATs"
+      },
+      "artists": [
+        {
+          "name": "Axel Tony",
+          "url": "https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh"
+        },
+        {
+          "name": "Yoan",
+          "url": "https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195084,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/46CCih4yxgvMkmqWm4ejOJ"
     },
     {
       "album": {
@@ -2474,7 +2518,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 195555,
       "name": "En Boucle",
       "url": "https://open.spotify.com/track/4NTxdNnlRL5tPwmYS95Xl3"
@@ -2598,7 +2642,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 144848,
       "name": "Et c'est OK",
       "url": "https://open.spotify.com/track/0bbTMG9s4X03MF1Natlhkl"
@@ -2766,7 +2810,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 194634,
       "name": "Fem Sonje",
       "url": "https://open.spotify.com/track/4LtHP9DSggO0j79FXFKrME"
@@ -4945,6 +4989,28 @@
     },
     {
       "album": {
+        "name": "Mon soleil",
+        "url": "https://open.spotify.com/album/2HNeSonvAEoZh12uS22Gm3"
+      },
+      "artists": [
+        {
+          "name": "Priscillia",
+          "url": "https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK"
+        },
+        {
+          "name": "MJTX",
+          "url": "https://open.spotify.com/artist/5oYrabnj98r8zzsTsD5PbP"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188414,
+      "name": "Mon soleil",
+      "url": "https://open.spotify.com/track/4Hcq1O14u8ratqdfs7mWjS"
+    },
+    {
+      "album": {
         "name": "Mon sort",
         "url": "https://open.spotify.com/album/385xJKyCGkopThDZfF26ie"
       },
@@ -5162,6 +5228,24 @@
       "duration_ms": 132000,
       "name": "NA ASSEZ",
       "url": "https://open.spotify.com/track/2SjxKYGkm0RrCOpt7wVI6S"
+    },
+    {
+      "album": {
+        "name": "Natacha",
+        "url": "https://open.spotify.com/album/6IFdY9fQYO22PRyrbZVN31"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156278,
+      "name": "Natacha",
+      "url": "https://open.spotify.com/track/01aRMjUBdK0TlE3K8wCxmj"
     },
     {
       "album": {
@@ -6670,7 +6754,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 158918,
       "name": "Rekomanse",
       "url": "https://open.spotify.com/track/5zd2ins9CVO1T0W1c0xQ10"
@@ -8302,6 +8386,24 @@
       "duration_ms": 141176,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2VX6f5jrnErZ8gwX6z6fz7"
+    },
+    {
+      "album": {
+        "name": "THERAPY",
+        "url": "https://open.spotify.com/album/6AjkBSOVwXBWc2lXflY65D"
+      },
+      "artists": [
+        {
+          "name": "Kalipsxau",
+          "url": "https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/6jHeDkT1nisjl2LE1qVzFb"
     },
     {
       "album": {

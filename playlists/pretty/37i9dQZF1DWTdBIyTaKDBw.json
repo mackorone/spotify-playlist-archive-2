@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 29033,
+  "num_followers": 29063,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAESTC4fVhRRZ2punjqdScy+Cvl27",
+  "snapshot_id": "AAAAAF8iDyRwBo6PXWpxEVZr3d/UY3RN",
   "tracks": [
     {
       "added_at": "2026-06-29 08:21:08",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
+        "name": "Sleeping Soul",
+        "url": "https://open.spotify.com/album/0ke8WCdALew5qZUPHsgScT"
+      },
+      "artists": [
+        {
+          "name": "Tenno",
+          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
+        }
+      ],
+      "duration_ms": 204090,
+      "name": "Breathing Stone",
+      "url": "https://open.spotify.com/track/2ybaJ0ASch1Gz2fhX0gi9q"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
         "name": "Back to Nature",
         "url": "https://open.spotify.com/album/5ESQzoS4zCbmBIXv56FGLo"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 139636,
       "name": "Tiger Lily",
       "url": "https://open.spotify.com/track/4h3KM0HdN1xnYexB7zCIjG"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
-        "name": "Sleeping Soul",
-        "url": "https://open.spotify.com/album/0ke8WCdALew5qZUPHsgScT"
-      },
-      "artists": [
-        {
-          "name": "Tenno",
-          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
-        }
-      ],
-      "duration_ms": 204090,
-      "name": "Breathing Stone",
-      "url": "https://open.spotify.com/track/2ybaJ0ASch1Gz2fhX0gi9q"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
+        "name": "Chillhop Essentials Spring 2017",
+        "url": "https://open.spotify.com/album/0Mr3TYA4sKQVPUeQp16Q7i"
+      },
+      "artists": [
+        {
+          "name": "Gyvus",
+          "url": "https://open.spotify.com/artist/6qNRi3Mn9apPNnMSt6Qbvn"
+        }
+      ],
+      "duration_ms": 152812,
+      "name": "Koi",
+      "url": "https://open.spotify.com/track/5zaVUfHKidYZ8xIsDOnWl6"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
         "name": "New Beginnings",
         "url": "https://open.spotify.com/album/31VMZGfuUcn72p2Phw9reC"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 135575,
       "name": "New Beginnings",
       "url": "https://open.spotify.com/track/4vxItbZpDtTmH5ZRNPq63m"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
-        "name": "Chillhop Essentials Spring 2017",
-        "url": "https://open.spotify.com/album/0Mr3TYA4sKQVPUeQp16Q7i"
-      },
-      "artists": [
-        {
-          "name": "Gyvus",
-          "url": "https://open.spotify.com/artist/6qNRi3Mn9apPNnMSt6Qbvn"
-        }
-      ],
-      "duration_ms": 152812,
-      "name": "Koi",
-      "url": "https://open.spotify.com/track/5zaVUfHKidYZ8xIsDOnWl6"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Eternal Youth",
-        "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
-      },
-      "artists": [
-        {
-          "name": "R\u016eDE",
-          "url": "https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq"
-        }
-      ],
-      "duration_ms": 222380,
-      "name": "Forever Lotus",
-      "url": "https://open.spotify.com/track/6R2pHq4pApqWlnoUoms9KX"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Sage",
         "url": "https://open.spotify.com/album/26BmBroNz25vIvfSXU5rwd"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 147000,
       "name": "Sage",
       "url": "https://open.spotify.com/track/63yGlWei594l3Me8KaKF2G"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Eternal Youth",
+        "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
+      },
+      "artists": [
+        {
+          "name": "R\u016eDE",
+          "url": "https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq"
+        }
+      ],
+      "duration_ms": 222380,
+      "name": "Forever Lotus",
+      "url": "https://open.spotify.com/track/6R2pHq4pApqWlnoUoms9KX"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
+        "name": "Waiting To Board",
+        "url": "https://open.spotify.com/album/0IoQZx76wVaEcG1hUHDXQl"
+      },
+      "artists": [
+        {
+          "name": "vhskid.",
+          "url": "https://open.spotify.com/artist/7jqvj8jfIMreNLAN8DJWlq"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "Waiting To Board",
+      "url": "https://open.spotify.com/track/29zJNvKmZbvuDt6bofVXfK"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
         "name": "Koto Memories",
         "url": "https://open.spotify.com/album/4j8gPwwY6gBdMgky70xHTU"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 139107,
       "name": "Koto Memories",
       "url": "https://open.spotify.com/track/7D4x4iimJWUwWplPdrQndB"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
-        "name": "Waiting To Board",
-        "url": "https://open.spotify.com/album/0IoQZx76wVaEcG1hUHDXQl"
-      },
-      "artists": [
-        {
-          "name": "vhskid.",
-          "url": "https://open.spotify.com/artist/7jqvj8jfIMreNLAN8DJWlq"
-        }
-      ],
-      "duration_ms": 138333,
-      "name": "Waiting To Board",
-      "url": "https://open.spotify.com/track/29zJNvKmZbvuDt6bofVXfK"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Mt Fuji",
-        "url": "https://open.spotify.com/album/6lNtz6uNR6f2szHla7qJiA"
-      },
-      "artists": [
-        {
-          "name": "lechiffrebeats",
-          "url": "https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn"
-        }
-      ],
-      "duration_ms": 116841,
-      "name": "Mt Fuji",
-      "url": "https://open.spotify.com/track/3lAqbZuoUooBSSbsSJvyOb"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Red Lamps.",
         "url": "https://open.spotify.com/album/754cKk6njePm3Wx8zJ1Pyi"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 131294,
       "name": "Red Lamps.",
       "url": "https://open.spotify.com/track/1IkGsJo1MkPXHTC4rvdBTd"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Mt Fuji",
+        "url": "https://open.spotify.com/album/6lNtz6uNR6f2szHla7qJiA"
+      },
+      "artists": [
+        {
+          "name": "lechiffrebeats",
+          "url": "https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn"
+        }
+      ],
+      "duration_ms": 116841,
+      "name": "Mt Fuji",
+      "url": "https://open.spotify.com/track/3lAqbZuoUooBSSbsSJvyOb"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
+        "name": "Dozing",
+        "url": "https://open.spotify.com/album/06xj5eksSF8gpAggo7Upfg"
+      },
+      "artists": [
+        {
+          "name": "Chris Mazuera",
+          "url": "https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE"
+        }
+      ],
+      "duration_ms": 146090,
+      "name": "Dozing",
+      "url": "https://open.spotify.com/track/0uonkgrfmCAsKYSKiwXMZX"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
         "name": "Kintsukuroi",
         "url": "https://open.spotify.com/album/4fkpxS01a1c2dozXwKiv6i"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 77946,
       "name": "Gold Powder",
       "url": "https://open.spotify.com/track/5DfOGcKjXLocgijpEQgLla"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
-        "name": "Dozing",
-        "url": "https://open.spotify.com/album/06xj5eksSF8gpAggo7Upfg"
-      },
-      "artists": [
-        {
-          "name": "Chris Mazuera",
-          "url": "https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE"
-        }
-      ],
-      "duration_ms": 146090,
-      "name": "Dozing",
-      "url": "https://open.spotify.com/track/0uonkgrfmCAsKYSKiwXMZX"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1535,38 +1535,18 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "D\u00e9j\u00e0 vu",
-        "url": "https://open.spotify.com/album/4LTL70hnBdhDGxGcc42LzZ"
+        "name": "Daichi",
+        "url": "https://open.spotify.com/album/2UIUb5zqUqtHZS1HDz0I3y"
       },
       "artists": [
         {
-          "name": "S\u00e1tyr",
-          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
-        },
-        {
-          "name": "marsquake",
-          "url": "https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb"
+          "name": "JazzyCal",
+          "url": "https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd"
         }
       ],
-      "duration_ms": 151730,
-      "name": "Sunlit",
-      "url": "https://open.spotify.com/track/6CaNDQIdh5guSCXbg0MOgG"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
-        "name": "Ancient Bond",
-        "url": "https://open.spotify.com/album/2VmqsNof7gbRec5Gd3xAX5"
-      },
-      "artists": [
-        {
-          "name": "Raimu",
-          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Ancient Bond",
-      "url": "https://open.spotify.com/track/3qOwHr2YkggGQjDHOU10ra"
+      "duration_ms": 118035,
+      "name": "Daichi",
+      "url": "https://open.spotify.com/track/11Mjbc6OAMVjEKsfnDI0R2"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1583,6 +1563,22 @@
       "duration_ms": 211304,
       "name": "Song of the Samurai",
       "url": "https://open.spotify.com/track/5nG6besfk5Aoa24OBSdREv"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Ancient Bond",
+        "url": "https://open.spotify.com/album/2VmqsNof7gbRec5Gd3xAX5"
+      },
+      "artists": [
+        {
+          "name": "Raimu",
+          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Ancient Bond",
+      "url": "https://open.spotify.com/track/3qOwHr2YkggGQjDHOU10ra"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1607,18 +1603,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Daichi",
-        "url": "https://open.spotify.com/album/2UIUb5zqUqtHZS1HDz0I3y"
+        "name": "D\u00e9j\u00e0 vu",
+        "url": "https://open.spotify.com/album/4LTL70hnBdhDGxGcc42LzZ"
       },
       "artists": [
         {
-          "name": "JazzyCal",
-          "url": "https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd"
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        },
+        {
+          "name": "marsquake",
+          "url": "https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb"
         }
       ],
-      "duration_ms": 118035,
-      "name": "Daichi",
-      "url": "https://open.spotify.com/track/11Mjbc6OAMVjEKsfnDI0R2"
+      "duration_ms": 151730,
+      "name": "Sunlit",
+      "url": "https://open.spotify.com/track/6CaNDQIdh5guSCXbg0MOgG"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Despair",
-        "url": "https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v"
-      },
-      "artists": [
-        {
-          "name": "NKOHA",
-          "url": "https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR"
-        }
-      ],
-      "duration_ms": 131240,
-      "name": "Death Curse",
-      "url": "https://open.spotify.com/track/3G6p8lXQ1qjQOzvZA1KB6A"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Nama",
         "url": "https://open.spotify.com/album/2gaz2Ko1IGrk8LfQxAgSBX"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 161020,
       "name": "Nama",
       "url": "https://open.spotify.com/track/5uvMZMApFm7G5pVueAmXhu"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Despair",
+        "url": "https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v"
+      },
+      "artists": [
+        {
+          "name": "NKOHA",
+          "url": "https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR"
+        }
+      ],
+      "duration_ms": 131240,
+      "name": "Death Curse",
+      "url": "https://open.spotify.com/track/3G6p8lXQ1qjQOzvZA1KB6A"
     },
     {
       "added_at": "2026-06-29 08:21:08",

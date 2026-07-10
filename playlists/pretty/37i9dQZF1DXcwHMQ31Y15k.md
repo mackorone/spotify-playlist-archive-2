@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover:Masdddho
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,584 likes - 114 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,675 likes - 114 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

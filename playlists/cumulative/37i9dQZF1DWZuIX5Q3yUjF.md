@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> seraphiel in cover della playlist dell'R&B italiano 🫀
+> Primo Amore in cover della playlist dell'R&B italiano 🫀
 
-1,088 songs - 2 day 5 hr 41 min
+1,092 songs - 2 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Demone](https://open.spotify.com/track/1iQKy7EU6imwiFez0SBrB8) | [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Essere Uomo](https://open.spotify.com/album/2aEOb5jk0T8mi1PzbdnzHh) | 3:01 | 2024-04-15 | 2024-09-27 |
 | [Demone](https://open.spotify.com/track/214KT9TF4uVt1VCNBtOmzj) | [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Demone](https://open.spotify.com/album/6kIx9gfpHm1NI2TDo9FLU4) | 3:03 | 2023-07-06 | 2023-09-29 |
 | [DENIM TEARS \(feat\. Plug, CoCo\)](https://open.spotify.com/track/3cVVnDx1o4KKmJIMsyqfMI) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Niko Beatz](https://open.spotify.com/artist/38KfktpTerKDEMxWtbSdCH), [Plug](https://open.spotify.com/artist/0PWa13NHPcTgfyBlIkjjBx), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Angeli Violenti](https://open.spotify.com/album/6pKpBKHov6EhhP362AeFLm) | 3:43 | 2025-09-04 | 2026-02-06 |
+| [dentro di me](https://open.spotify.com/track/2ExQTMYEMaS77vaT9ySQAM) | [Boisié](https://open.spotify.com/artist/4aYFx0nZk91epacdJub6Ti) | [dentro di me](https://open.spotify.com/album/0gBfh9FIBzZjWMJgRX0YE1) | 3:08 | 2026-07-09 |  |
 | [Destino](https://open.spotify.com/track/2RCIO4gT6eIumbcZSBoDZG) | [Subconscio](https://open.spotify.com/artist/1QrrQzYzB6iWHcJee809Zh) | [DAIMON](https://open.spotify.com/album/0knAreyhItw8swikZyl7Jb) | 3:12 | 2025-10-09 | 2025-11-14 |
 | [Dettagli](https://open.spotify.com/track/7isfTQzWnrGZPv0eLf92cF) | [marco.](https://open.spotify.com/artist/3YwnaFYy7mL8nnjkxL0bx1), [Santacroce](https://open.spotify.com/artist/6tXJU8pjgnWBnw6m6b8krY) | [Dettagli](https://open.spotify.com/album/4Ap3xuFc7S9zqnOZ3A2XdF) | 3:01 | 2023-09-28 | 2023-12-08 |
 | [Devi stare quiet](https://open.spotify.com/track/0Op7XFczJtSbxNXHVRRRMv) | [INVERNO](https://open.spotify.com/artist/7Ao4PRYc1rFAZVkr0FKnrt) | [Act II: Devi stare quiet / Questa città brucia](https://open.spotify.com/album/0HWRRstSBPJxpObtaSK16b) | 2:44 | 2026-02-12 | 2026-06-05 |
@@ -327,6 +328,7 @@
 | [Easy Tiger](https://open.spotify.com/track/2H5FqzUYCgJw0SVcCAGeEv) | [GIOIA](https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB) | [Easy Tiger](https://open.spotify.com/album/4LgnoL4ZRqh0z74aTqMhat) | 3:25 | 2025-07-17 |  |
 | [eco](https://open.spotify.com/track/2JwjMGTmsop9VkWiDyJ69s) | [seraphiel](https://open.spotify.com/artist/7BvpHaU1BqIKMEMKB8goGO) | [eco](https://open.spotify.com/album/00edV6cTwmqINpTR7Pe6aI) | 3:37 | 2026-06-25 |  |
 | [ECO](https://open.spotify.com/track/7xdHyWvJ07kbgBf9yiyEC0) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [ECO](https://open.spotify.com/album/1wRVugtJAp1Z199ndOK4tN) | 2:30 | 2026-01-08 | 2026-07-03 |
+| [Effetto](https://open.spotify.com/track/6KYTunJD3VX7qhWYTqo4S7) | [MATÍS](https://open.spotify.com/artist/1STJnuZ3De69Pm53puf4vi), [Leggero](https://open.spotify.com/artist/09RNRUZuccUXJ9pRgC8gpv) | [Effetto](https://open.spotify.com/album/2CBgGZQDUdP0gJ4m6rZDmm) | 2:54 | 2026-07-09 |  |
 | [Effetto Domino \(feat\. Evra & Blue Phelix\)](https://open.spotify.com/track/1IdM9itYdIvgBhUZh9Iis8) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [MYDRAMA](https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH), [KAPUT](https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt), [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt) | [Effetto Domino \(feat\. Evra & Blue Phelix\)](https://open.spotify.com/album/583dSlEeKPTLVodqjH6I3k) | 3:33 | 2023-06-01 | 2024-02-02 |
 | [Elodie](https://open.spotify.com/track/3jVjU6iokZmcq7ypeEooBV) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Elodie](https://open.spotify.com/album/0Yagp1kDUvjcRGGhNqqd4A) | 2:51 | 2025-09-11 | 2026-07-03 |
 | [Equilibri](https://open.spotify.com/track/5BWq3Kgyj543Izg2dkghB6) | [johara](https://open.spotify.com/artist/5c4D7WHqD6FZggQ3K4atAh), [Angela Iris](https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C) | [Equilibri](https://open.spotify.com/album/3ZyWo3KKTwcUVYuSYgtO3e) | 3:22 | 2023-03-02 | 2023-05-05 |
@@ -572,6 +574,7 @@
 | [Mai](https://open.spotify.com/track/49yoO2ALwofOHJnMO5ufUy) | [Santé](https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1) | [Mai](https://open.spotify.com/album/15yYnAkNRCm31esmGNf6ew) | 2:36 | 2023-06-08 | 2024-05-10 |
 | [MaiMai](https://open.spotify.com/track/7wQw4FZ9Gx9Jsmsr9kuk18) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [MaiMai](https://open.spotify.com/album/0N0eyvXySVkHm43vO2vYS7) | 2:38 | 2023-06-01 | 2023-07-14 |
 | [Mal di testa](https://open.spotify.com/track/3CXbnnGSNSBZ4cBhHdnVc5) | [Sofia](https://open.spotify.com/artist/4T5t1RTDYfbyshE3hGlb4D) | [Mal di testa](https://open.spotify.com/album/3UhrMNEvpct8rQ3CHbQae1) | 2:54 | 2025-09-18 | 2025-11-14 |
+| [malchevada](https://open.spotify.com/track/78hyAOUUzpmUw1saK4Qedi) | [Chiara Lacasella](https://open.spotify.com/artist/1GWZy3Qh3YUQI1PiILDzDS) | [malchevada](https://open.spotify.com/album/1pQ7RFxu9nVqUnp6vFTkYB) | 2:20 | 2026-07-09 |  |
 | [Male](https://open.spotify.com/track/5qgYxqoRxG5q6X9hRGfbGS) | [AZZURRA](https://open.spotify.com/artist/1Ffzy4GSWaWqkyhOWDNMU2) | [Male](https://open.spotify.com/album/1mtp7FTwowI3gAYDko7Y5C) | 3:04 | 2026-02-19 | 2026-04-10 |
 | [MALEDETTA TE](https://open.spotify.com/track/7hXZ2ppaYw9RBm0Lb2S1zq) | [eroCaddeo](https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5) | [MALEDETTA TE](https://open.spotify.com/album/17ZdmY0EXzNBYsjwcsVi5J) | 2:22 | 2024-03-14 | 2024-04-16 |
 | [Mama](https://open.spotify.com/track/3Ry2ZBM6XaCDPpZaMuFE9v) | [SAMIA](https://open.spotify.com/artist/4LxiKyrhyqB0fTGmKtXSFZ) | [Mama](https://open.spotify.com/album/6Te8O72BKZZIK2MI72LUKT) | 3:11 | 2023-01-12 | 2023-04-14 |
@@ -704,6 +707,7 @@
 | [Occhi Fissi](https://open.spotify.com/track/2RJhyerZqCfSOiUZ7JsV99) | [Subconscio](https://open.spotify.com/artist/1QrrQzYzB6iWHcJee809Zh), [Madbuddy](https://open.spotify.com/artist/1tBJtWHAbcvZF9qfGwLp1J) | [Occhi Fissi](https://open.spotify.com/album/4rWV237xpH6Elc33l9mjEz) | 2:43 | 2025-09-11 | 2025-11-14 |
 | [Occhi Lucifero](https://open.spotify.com/track/3BpZscXjqUS1TJspdxEVDV) | [Distemah](https://open.spotify.com/artist/1Jjk9plzVKCCPjqmipNIuK) | [Occhi Lucifero](https://open.spotify.com/album/3bjL9J5BXgZd6TsyZYVyKF) | 2:33 | 2026-06-04 |  |
 | [Occhi Mare](https://open.spotify.com/track/5ShMQ5NevaLbqNnkAg2Rax) | [ARMA COD](https://open.spotify.com/artist/6aAQzz66co4bsETGpKr9aC), [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Occhi Mare](https://open.spotify.com/album/6NROP6JwVHrnDgi8Ai6zwk) | 2:39 | 2023-08-31 | 2023-09-29 |
+| [Occhi Neri \(con Clementino\)](https://open.spotify.com/track/4ycTjVd8VQXSkjLLQjeGIE) | [MONET](https://open.spotify.com/artist/4lA15DbyyCQ6RzappQIUyL), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3) | [Occhi Neri \(con Clementino\)](https://open.spotify.com/album/4ZeRwbydRPQMRIJ76XQRC4) | 2:11 | 2026-07-09 |  |
 | [OCCHI STANCHI](https://open.spotify.com/track/1axi47Y55klJTxAGRrIweI) | [Martina](https://open.spotify.com/artist/5FUuvvK6pzPDOJsRl10Z8p) | [OCCHI STANCHI](https://open.spotify.com/album/3vON14VlAxP71Md2R3Tv24) | 2:23 | 2022-09-08 | 2023-02-03 |
 | [Occhi su di me](https://open.spotify.com/track/4oh46p9qC3Z2E3QM2cSr59) | [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX) | [Occhi su di me](https://open.spotify.com/album/7wfpmJ9NtGrSFlOwfR93PB) | 2:26 | 2022-05-05 | 2023-01-27 |
 | [Odense](https://open.spotify.com/track/2lPOGlxqhVx2MAkbrzMQxO) | [VITTORIA](https://open.spotify.com/artist/2UhLqY4Vmo4gIYGsJ8q3TF) | [Presente Indicativo](https://open.spotify.com/album/2y65ziC6q7ZZSTKtuK2tdF) | 2:53 | 2022-05-19 | 2022-08-26 |

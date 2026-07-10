@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-251 songs - 12 hr 16 min
+254 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Back To Life](https://open.spotify.com/track/08x0S0LgffRPiI1qiIsdFT) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [KIYOTO](https://open.spotify.com/artist/5uxop8n7axixBHd562LYrR) | [Back To Life](https://open.spotify.com/album/4RT8Qkl0vNxvDW6iX8abxB) | 3:05 | 2025-09-11 |  |
 | [Bad](https://open.spotify.com/track/3MmSFDQ14BHOwGiS6nTI76) | [Lyah Noir](https://open.spotify.com/artist/1kGvH9vElfXBpOpm2MUGY4) | [Bad](https://open.spotify.com/album/1DYT4lDHV9dV5QW5UvmwCJ) | 2:44 | 2025-07-04 | 2026-04-04 |
 | [Bad Cop](https://open.spotify.com/track/2n4YYAXNgrIiLzdTfld9Rv) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Bad Cop](https://open.spotify.com/album/7wgqGkRiaGOuFue6eM03tj) | 2:20 | 2025-07-04 |  |
+| [Bang On The Drums](https://open.spotify.com/track/6FnmKuDTiiM8GxZx0KiiFT) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Bang On The Drums](https://open.spotify.com/album/4HgdfeH2IwTfwnIhQrReXN) | 2:32 | 2026-07-09 |  |
 | [Bassline Vandal](https://open.spotify.com/track/1GUMaM9D1qF2eHxMy7KwXT) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9) | [Bassline Vandal](https://open.spotify.com/album/5wlxgzkOV92T2RHqMGXoeM) | 3:20 | 2025-07-04 |  |
 | [Be The Same](https://open.spotify.com/track/3jd4rNPPHvWuJkGXn3GfVJ) | [DESTRO](https://open.spotify.com/artist/36tENaXXd6WfMiK1slOlEo), [John Blvck](https://open.spotify.com/artist/3q0RpmjOTzxW97quPJWPT7), [Nills](https://open.spotify.com/artist/5PqDPLvRPg8H1vwKvkbvFY) | [Be The Same](https://open.spotify.com/album/2jJAJl7SjDsgf1PqyImOa1) | 3:48 | 2025-07-04 |  |
 | [Beauty of Silence](https://open.spotify.com/track/4bJNjv003vOudzUNf4x95x) | [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU), [Svenson & Gielen](https://open.spotify.com/artist/0u3QU5dRkT3Xeioo16EUtV), [Johan Gielen](https://open.spotify.com/artist/2eSSc4YqhlEw0e11E9oQhP) | [Tranceformation](https://open.spotify.com/album/20n8FSFvvV8YiaYB5huDTL) | 2:54 | 2025-07-04 |  |
@@ -60,6 +61,8 @@
 | [Dangerous](https://open.spotify.com/track/55bETs6cTbpHQEg3YJwwKm) | [HAVOQ](https://open.spotify.com/artist/71ujKAKr4j1X7n4Hio2u7C) | [Dangerous](https://open.spotify.com/album/0Ke0yaYh8cvhWgG8CkJALQ) | 2:32 | 2025-07-04 |  |
 | [Dangerous](https://open.spotify.com/track/32ggG1I3rQX3eWwsyVretE) | [Maski & Banga](https://open.spotify.com/artist/36NmS3mln38AYWDoj8CVHN) | [Dangerous](https://open.spotify.com/album/6hkY6ZjDoHaoS9p1kLfqDQ) | 2:13 | 2025-07-04 |  |
 | [Dark Kinda Love](https://open.spotify.com/track/5tXgRNLZkH6t9Wa5ih1zjl) | [Ken Bauer](https://open.spotify.com/artist/19bSyzqhV2NIVhHtqdFX7t), [Reveuse](https://open.spotify.com/artist/59rvUqk3QAYyFnqhOsRFhH) | [Dark Kinda Love](https://open.spotify.com/album/0ZmsswK3vbe48Ck9FWPgOd) | 2:20 | 2025-07-04 | 2026-04-26 |
+| [Desert Mirage](https://open.spotify.com/track/30jVgiyjm19NSiPmtkXP4i) | [DJ TORA](https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS) | [Desert Mirage](https://open.spotify.com/album/68zEXkCIH1fsFApt3xHxLM) | 2:36 | 2026-07-09 |  |
+| [Devotion](https://open.spotify.com/track/13BJVhr9YWOSSQlOpc4pKp) | [MatricK](https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH) | [Devotion](https://open.spotify.com/album/7jt5hqw0cUrvH4vV7sDuRL) | 2:42 | 2026-07-09 |  |
 | [Different Eyes](https://open.spotify.com/track/3rkN5M7eJvTmNPvLj6Tt0i) | [Steven Franz](https://open.spotify.com/artist/3OxNprtRKpK0SqIQpbUyxe), [MNERØ](https://open.spotify.com/artist/1GTkqHXXS6uKqKAibWYsdi), [Trenom](https://open.spotify.com/artist/6m2khJd0zLKIWkJVr8UHpJ) | [Different Eyes](https://open.spotify.com/album/60To0kgoWubyxUyvIEVEqm) | 3:12 | 2025-07-04 | 2026-04-26 |
 | [Do You Even Want Me](https://open.spotify.com/track/6spdhkGpHWAmPahxARUMyX) | [Gelida](https://open.spotify.com/artist/3zlRoYmaLR1ogMVyJxfjag), [Otto Palmborg](https://open.spotify.com/artist/1YQWn973MCGK5yzVeukVtc) | [Do You Even Want Me](https://open.spotify.com/album/7r2ZFHvNkwzsBVJbLAZVhU) | 2:55 | 2025-07-04 |  |
 | [Dogtown](https://open.spotify.com/track/03o8yrizhOdYQjb5l1YMFz) | [Retrika](https://open.spotify.com/artist/6SLVPua1BJCUt85y4bug2Z), [Alex Mueller](https://open.spotify.com/artist/6hPJjDkls4G9H1nRUqBPGS) | [Dogtown](https://open.spotify.com/album/1UwrLouwHmWRvvdPBf5AfT) | 2:16 | 2025-07-04 |  |

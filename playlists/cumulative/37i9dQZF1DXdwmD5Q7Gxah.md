@@ -4,7 +4,7 @@
 
 > it's a chanel beads summer bby 🫦
 
-3,868 songs - 8 day 19 hr 49 min
+3,869 songs - 8 day 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1693,7 +1693,7 @@
 | [i'm not okay](https://open.spotify.com/track/7dGvMClz3JuBUs6qWfaqye) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [i'm not okay](https://open.spotify.com/album/7bLH8PFvqdSnlMkdiaJCCa) | 2:54 | 2021-03-14 | 2021-06-05 |
 | [I'm Not Them](https://open.spotify.com/track/79ddfmePpbSFnMgeY4vXhC) | [Them & I](https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT) | [A Kiss Dressed His Cheek](https://open.spotify.com/album/5zxiCKwsVIJvDxvFFb35Eh) | 2:03 | 2025-03-14 | 2025-07-19 |
 | [I'm So Serious](https://open.spotify.com/track/15EOCEksKtUd844TrW9Tjv) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Daryl Johns](https://open.spotify.com/album/1KcMm91Cfdgf60yhnhTbFj) | 3:42 | 2024-12-03 | 2025-04-19 |
-| [I'm with You](https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:43 | 2021-03-14 | 2021-04-02 |
+| [I'm with You](https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:43 | 2021-03-14 |  |
 | [I'm Your Dirt, I'm Your Love](https://open.spotify.com/track/72CUf7pWNkykpZ5dUxdGlb) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Jonatan](https://open.spotify.com/album/09N3Yw1yNAMNNXSUqnoV6l) | 2:51 | 2025-05-02 | 2025-06-28 |
 | [I'm Your Dog](https://open.spotify.com/track/3jSJoKiJ0rxOf3sM60Iat6) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Piano](https://open.spotify.com/album/5frL9kThqoY2hDXyoJ3nhX) | 3:03 | 2019-08-08 | 2019-08-21 |
 | [I'm Yours](https://open.spotify.com/track/4zMx72lMg0PytbVzTwd0Oe) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [I'm Yours](https://open.spotify.com/album/17mtviWhSTKrsZjMHQRW1w) | 3:54 | 2019-07-30\* | 2019-10-10 |
@@ -3496,6 +3496,7 @@
 | [Trap Doors](https://open.spotify.com/track/4WvfcU7QCkI49HjUQckTqA) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 0:29 | 2022-06-21 | 2022-07-02 |
 | [Trapped In A Lava Lamp](https://open.spotify.com/track/3JqgQpLuexkxUw9Nu4aRsR) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Trapped In A Lava Lamp](https://open.spotify.com/album/0wVMcTCd0pe5nFzWlVLkP1) | 3:03 | 2021-02-24 | 2021-04-10 |
 | [Traveling Alone](https://open.spotify.com/track/00c6I4e1BL1vqbD97KIh50) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Traveling Alone](https://open.spotify.com/album/6pOevfLRzz8OWOkrg7SrZn) | 2:40 | 2020-08-21 | 2020-09-04 |
+| [trees for the woods](https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [trees for the woods](https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a) | 4:07 | 2026-07-09 |  |
 | [Trickster](https://open.spotify.com/track/2iCw7tmpHVml1CG8S0n490) | [Eterna](https://open.spotify.com/artist/7ekeXKGdf5os6oYTZgKTQP) | [Debunker](https://open.spotify.com/album/7CV16uMpp4OJrur72BruwV) | 3:41 | 2025-02-05 | 2025-03-08 |
 | [triflin'](https://open.spotify.com/track/1RxMN0IcPf5yauGJRUjlAS) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [wood tip](https://open.spotify.com/album/2VgvkopYH1hzaHue8eaDYw) | 2:49 | 2022-12-16 | 2023-01-19 |
 | [Trigger Of Love](https://open.spotify.com/track/0CtfBQl582RRut2ccLtjBr) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Trigger Of Love](https://open.spotify.com/album/7klv1gjxbcnRZI9TVSbXEo) | 2:50 | 2020-10-16 | 2021-11-13 |

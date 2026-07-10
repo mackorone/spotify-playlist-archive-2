@@ -4,7 +4,7 @@
 
 > Uma playlist de pura alma pop! Foto: Criss Calisto
 
-548 songs - 1 day 4 hr 52 min
+549 songs - 1 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Beijo](https://open.spotify.com/track/3303s19agScDaCsPYdCu7i) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU), [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Toy](https://open.spotify.com/artist/3ggsRmBGV01RYdNu8pRWJd), [Tony Carreira](https://open.spotify.com/artist/6w7nHPNj2BIGTEbRrefVyu) | [Beijo](https://open.spotify.com/album/2KnncUYSx94xd8rox89Rrw) | 3:29 | 2025-07-03 | 2026-01-15 |
 | [Bem](https://open.spotify.com/track/6jH3MDwn8rquyjvaT8dFgQ) | [No Maka](https://open.spotify.com/artist/35dFX8XteNIxKbFW6VmdW3) | [Bem](https://open.spotify.com/album/2kJIIlaZgdSnzWNhBKpCAo) | 3:04 | 2026-03-13 | 2026-05-29 |
 | [bilhete na garrafa](https://open.spotify.com/track/1hwccM97LF25C0CGbGDKCP) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [bilhete na garrafa](https://open.spotify.com/album/66E2SDh51iVq64oot5dxpc) | 2:22 | 2025-04-24 | 2025-08-01 |
-| [Biri Bam Bam](https://open.spotify.com/track/7cBpp7L46vwX7MZ40pQp4A) | [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A), [Maria João](https://open.spotify.com/artist/0jgkYmoEBi6R0MfysJpz7N) | [Biri Bam Bam](https://open.spotify.com/album/0Bn7C13zNi9vYlC5nbmkpa) | 2:57 | 2026-05-28 |  |
+| [Biri Bam Bam](https://open.spotify.com/track/7cBpp7L46vwX7MZ40pQp4A) | [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A), [Maria João](https://open.spotify.com/artist/0jgkYmoEBi6R0MfysJpz7N) | [Biri Bam Bam](https://open.spotify.com/album/0Bn7C13zNi9vYlC5nbmkpa) | 2:57 | 2026-05-28 | 2026-07-10 |
 | [Boca Louca](https://open.spotify.com/track/3on5wwXaYBWMqV5bhP78So) | [Filipe Gonçalves](https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL) | [Boca Louca](https://open.spotify.com/album/0duEgRKsX4UfXOoF9bqMiG) | 2:52 | 2025-03-07 | 2025-05-09 |
 | [Bom Dia](https://open.spotify.com/track/0I2KjbYEBm2mE8Dc9KbIYB) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Bom Dia](https://open.spotify.com/album/5yMkVXNyaa2AA9RqDuAqzX) | 3:15 | 2024-09-19 | 2025-03-14 |
 | [Bom Peixe](https://open.spotify.com/track/3wpwFciDgazzQA6F6VWiNE) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Bom Peixe](https://open.spotify.com/album/3LG6YxuHUJ203MMXt8G5GL) | 3:08 | 2025-06-26 | 2025-09-27 |
@@ -471,6 +471,7 @@
 | [Sentir Demais](https://open.spotify.com/track/78YlWezaE2pSEAyWwNvepu) | [Beatriz Abrunhosa](https://open.spotify.com/artist/3obN0kv6cKvDcwGT1TMpTF) | [Sentir Demais](https://open.spotify.com/album/26Uss3yiklzIIbjriDr2z8) | 3:18 | 2025-09-04 | 2025-10-03 |
 | [Sentir o Sol](https://open.spotify.com/track/70GRlXUPxqaiv1JZCoAKYn) | [Os Quatro e Meia](https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE) | [Pontos nos Is](https://open.spotify.com/album/5oFhCtICV8D4Hh50FU32BG) | 3:47 | 2026-05-14 | 2026-05-22 |
 | [Sentir o Sol](https://open.spotify.com/track/0gxPb4HXzKje9pUg8VhbGG) | [Os Quatro e Meia](https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE) | [Sentir o Sol](https://open.spotify.com/album/0iqbj2gboZFz5MZDd9xG30) | 3:47 | 2025-10-02 | 2025-10-10 |
+| [Serei Alguém](https://open.spotify.com/track/1o6BRR3sBSAwFXe0PX6bbD) | [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ), [Cláudinhas](https://open.spotify.com/artist/7Lnc28YAy6LZWDOuaPGywo) | [Serei Alguém](https://open.spotify.com/album/61WHRE53kG43xcTjRwYNRH) | 3:10 | 2026-07-09 |  |
 | [SERENATA](https://open.spotify.com/track/0Z7kEnuStWYC1MOOfAnM4u) | [ZARKO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf), [Aurora Pinto](https://open.spotify.com/artist/67IzblEppf2J60LZAviG9B) | [SIMBIOSE](https://open.spotify.com/album/3qslggfh46RL2JGy8p1kHg) | 2:56 | 2025-11-21 | 2026-02-13 |
 | [Sexo Fraco](https://open.spotify.com/track/0mlpCkNmNoWk0n3tLAaq1c) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [Sexo Fraco](https://open.spotify.com/album/26Wewjf4VSZBEgO0tjHFz2) | 2:45 | 2025-03-21 | 2025-06-27 |
 | [Silêncio e Tanta Gente](https://open.spotify.com/track/1ficHVddpZ4rCfgExZXYpd) | [Milhanas](https://open.spotify.com/artist/4NbHlXvmfisJ4e9tNkTqgC) | [Silêncio e Tanta Gente](https://open.spotify.com/album/7f5JNyAOv8B9Ol08te8nF3) | 2:38 | 2024-06-27 | 2024-07-05 |

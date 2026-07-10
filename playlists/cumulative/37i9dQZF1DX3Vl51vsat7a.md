@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Lina\-Mariah
 
-528 songs - 1 day 2 hr 48 min
+531 songs - 1 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Hate My Mom](https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Feel Like Shit And It's All Your Fault](https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn) | 2:57 | 2026-07-02 |  |
 | [Haus am Meer](https://open.spotify.com/track/5pB99KzpJkc7IOVTcCaUVh) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Haus am Meer](https://open.spotify.com/album/1iVc7dFKvehP3OmTpMihjm) | 2:17 | 2024-07-18 | 2025-07-25 |
 | [Haus am See](https://open.spotify.com/track/0ZmJHRMjUaDTjgUvg867Y5) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Haus am See](https://open.spotify.com/album/0oCCOrnBMCeNJ8kJXnUGJe) | 3:17 | 2021-12-16 | 2022-08-12 |
-| [Head In The Air](https://open.spotify.com/track/6LnBxvMwtw57Ww0kwE3Tc8) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Head In The Air](https://open.spotify.com/album/5Bwx59yHFWLiVWdYNsjIWt) | 3:10 | 2026-06-04 |  |
+| [Head In The Air](https://open.spotify.com/track/6LnBxvMwtw57Ww0kwE3Tc8) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Head In The Air](https://open.spotify.com/album/5Bwx59yHFWLiVWdYNsjIWt) | 3:10 | 2026-06-04 | 2026-07-10 |
 | [Head Over Heels](https://open.spotify.com/track/0uyv1zBBUQolBPzKlslzKh) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Head Over Heels](https://open.spotify.com/album/6h3wZMS53G5yxRB2ZcZWx6) | 3:14 | 2025-12-11 | 2026-02-20 |
 | [Headbanger](https://open.spotify.com/track/26RIjpOPLFygAMiUVeXoRq) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Headbanger](https://open.spotify.com/album/0OcIRYsHa2lbMMu6qB9niK) | 2:53 | 2025-01-30 | 2025-07-25 |
 | [Heartbeat](https://open.spotify.com/track/39KWR72Ih2I1NEYk3UfT3A) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Heartbeat](https://open.spotify.com/album/7bd01wRAWSuH8CdSvMQuo0) | 3:24 | 2026-01-15 | 2026-02-13 |
@@ -216,6 +216,7 @@
 | [Hey Chatty](https://open.spotify.com/track/5v1cAVbBR0v5Gev5NF1GZd) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Hey Chatty](https://open.spotify.com/album/0Bvd5BIjtgxoAvg3F7OTla) | 2:47 | 2025-08-29 | 2025-10-24 |
 | [Hiatus](https://open.spotify.com/track/6mAJTxk3J3ifwnCKKjKBMK) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Hiatus](https://open.spotify.com/album/15vGlftpVYpyr6DTY7rDd2) | 2:48 | 2024-05-23 | 2024-09-06 |
 | [Hilferuf](https://open.spotify.com/track/08QqmrxcfV58x8f1o6JxKe) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Hilferuf](https://open.spotify.com/album/2pV2IQwHfErIcdjNxznMqs) | 2:37 | 2023-02-02 | 2023-03-03 |
+| [himbeersorbet](https://open.spotify.com/track/1dNOuGSRY0F6QwN0B75mts) | [maja kemper](https://open.spotify.com/artist/18mccMGkbMAxvuQ5D6a7lk) | [himbeersorbet](https://open.spotify.com/album/01junsA8SQhsHhjYZbdH4Q) | 2:40 | 2026-07-09 |  |
 | [Hold Me Like You Used To](https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:06 | 2021-12-16 | 2022-03-18 |
 | [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 | 2026-01-13 | 2026-01-30 |
 | [Hope](https://open.spotify.com/track/2QRGdW5I7M74y0URMgkfqn) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [The Pictures](https://open.spotify.com/album/1gd2DBDRgwMmrwvUC8sOX1) | 7:28 | 2021-12-16 | 2022-05-20 |
@@ -263,6 +264,7 @@
 | [James Blake](https://open.spotify.com/track/6wjiWdFdfcyZNikqjqb9vu) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [James Blake](https://open.spotify.com/album/5PVKyMewYidIhvFGpiGeNW) | 3:44 | 2023-11-23 | 2025-05-30 |
 | [Jungle](https://open.spotify.com/track/4ALVnrzsiNjtRZs3hulmEZ) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Sycamore](https://open.spotify.com/album/3dkbfJo5szx7gGIx51zR5q) | 3:00 | 2021-12-16 | 2022-04-08 |
 | [Jungs](https://open.spotify.com/track/1jho4k3ZW3EcDEKDuoAaEs) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Jungs](https://open.spotify.com/album/6xck8Dqp9molj0ILkbwMbV) | 2:36 | 2024-06-20 | 2024-08-17 |
+| [Kamera Blitzlicht](https://open.spotify.com/track/1iqw9RC7HckP1b75DkO2es) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Kamera Blitzlicht](https://open.spotify.com/album/646xIOsDbv5KQq09Vgt3eg) | 3:58 | 2026-07-09 |  |
 | [Keep Fucking Up](https://open.spotify.com/track/3zyIidytVGtGxCujC5rUwn) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Keep Fucking Up](https://open.spotify.com/album/7eylxM4Ts6ts4UaOJ21teR) | 2:57 | 2024-08-22 | 2026-02-27 |
 | [Keep Going](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Keep Going](https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo) | 3:44 | 2023-02-02 | 2023-05-19 |
 | [KEEP IT COOL](https://open.spotify.com/track/73F2NmXZV1usx6pzxXZDEj) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [KEEP IT COOL](https://open.spotify.com/album/51OBw9QiES9prvrJZ1GVoz) | 2:53 | 2025-06-12 | 2025-09-26 |
@@ -448,7 +450,8 @@
 | [Therapieplatz](https://open.spotify.com/track/2NrOjJZTuOQpoEasaHUO6W) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Therapieplatz](https://open.spotify.com/album/5HY8oGkHL7HpAbGWeYAdXE) | 5:15 | 2025-10-09 | 2025-11-21 |
 | [Third Wheel](https://open.spotify.com/track/1RF6WXFDCKPnk5HrtzF7Cn) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Third Wheel](https://open.spotify.com/album/2G1VWNuQSHST4RhIduQDZA) | 2:46 | 2022-07-07 | 2022-11-18 |
 | [This Ain't Your Home](https://open.spotify.com/track/4veWqGtf0LDYEXhVw4jsvK) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [This Ain't Your Home](https://open.spotify.com/album/7oWOinSfW5wRgFSIdNFRUp) | 3:29 | 2021-12-16 | 2022-01-28 |
-| [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 | 2025-09-18 |  |
+| [This Is Nice](https://open.spotify.com/track/1PATluDwNKgyj88RJA4a1Z) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [This Is Nice](https://open.spotify.com/album/1XdY3LFfrRMLpQOtirJq0l) | 2:38 | 2026-07-09 |  |
+| [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 | 2025-09-18 | 2026-07-10 |
 | [Time \(is a healer\)](https://open.spotify.com/track/5YhHGpCRsvIx4ytZKKlkf8) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Time \(is a healer\)](https://open.spotify.com/album/1QEkyXwkvhixkw92ndXONV) | 3:48 | 2023-04-13 | 2023-06-02 |
 | [Time Lost](https://open.spotify.com/track/2Rw5ktfYbZvrqT2O0uMPA7) | [Junes](https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv) | [Of Love and Loss](https://open.spotify.com/album/7eJIpv68HMlBpqViTvCgxv) | 4:19 | 2025-06-05 | 2025-08-29 |
 | [Tinnitus](https://open.spotify.com/track/190WjFY2x74JEa1jL8BTSU) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Tinnitus](https://open.spotify.com/album/3B7SQjSOkUmlfWNOjZDFel) | 2:17 | 2022-03-31 | 2022-06-17 |
@@ -474,7 +477,7 @@
 | [Vergeben \(ans Leben\)](https://open.spotify.com/track/3duSLGUdDRMd2xTnfk4xq8) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Vergeben \(ans Leben\)](https://open.spotify.com/album/72yvEy7DONAkwTvch9C2rl) | 2:13 | 2026-04-03 |  |
 | [Verschwendete Zeit](https://open.spotify.com/track/4Ku2j0poFCLaSAEtncIeLi) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Verschwendete Zeit](https://open.spotify.com/album/6juFtXw9xa1N6zOsRixGWy) | 2:47 | 2024-05-16 | 2024-08-02 |
 | [viele](https://open.spotify.com/track/38zw0z87YOu2zDY2DbgiyV) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [viele](https://open.spotify.com/album/4as6aHBiCwqiaXzxuIGz7A) | 3:39 | 2024-03-21 | 2025-07-25 |
-| [vielleicht fehlst du mir](https://open.spotify.com/track/6e4ntmP3oc63oA7pt7ixjg) | [Bella](https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56) | [vielleicht fehlst du mir](https://open.spotify.com/album/20f16ZQ8Pj9dMxoQMF1Y03) | 2:35 | 2025-10-23 |  |
+| [vielleicht fehlst du mir](https://open.spotify.com/track/6e4ntmP3oc63oA7pt7ixjg) | [Bella](https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56) | [vielleicht fehlst du mir](https://open.spotify.com/album/20f16ZQ8Pj9dMxoQMF1Y03) | 2:35 | 2025-10-23 | 2026-07-10 |
 | [vitamin](https://open.spotify.com/track/0yNrKZfMskOElmuadLTI55) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [vitamin](https://open.spotify.com/album/0nP3FfwgJAXHSMgRTQzlkd) | 2:52 | 2025-06-19 | 2025-09-19 |
 | [Vitamins](https://open.spotify.com/track/5aLY8E1e60iaI4gVCCD7OK) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Star](https://open.spotify.com/album/3YDJfL56ce6fcxL4tWxvg6) | 2:59 | 2022-05-26 | 2023-06-16 |
 | [VOICEMAIL](https://open.spotify.com/track/25gIGyYd4Q9kHJ7Fvsa9RP) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [VOICEMAIL](https://open.spotify.com/album/0wg7TKWgd0ZdhSif29VuKu) | 4:10 | 2022-07-21 | 2023-07-28 |

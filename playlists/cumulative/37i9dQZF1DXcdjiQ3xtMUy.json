@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Helena Paparizou",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: ZAF",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "AVGOUSTOS",
+        "url": "https://open.spotify.com/album/55Bf3rw7yRyg8lGBWbv9Cb"
+      },
+      "artists": [
+        {
+          "name": "ZAF",
+          "url": "https://open.spotify.com/artist/0vC9IaLo87ruiqkOXmPvPO"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210924,
+      "name": "AVGOUSTOS",
+      "url": "https://open.spotify.com/track/3X9IIjWv3B96N7LZkMLb5O"
+    },
+    {
+      "album": {
         "name": "Ax Kardia Mou",
         "url": "https://open.spotify.com/album/12DviWYgAjScvO1TTpoUnf"
       },
@@ -1124,6 +1142,28 @@
       "duration_ms": 144130,
       "name": "Balkan Christmas",
       "url": "https://open.spotify.com/track/4D0d32TD5t6Acmcwzqnaln"
+    },
+    {
+      "album": {
+        "name": "Ballaro Xana",
+        "url": "https://open.spotify.com/album/5yBfHkqUCmsJWW8YDblOXF"
+      },
+      "artists": [
+        {
+          "name": "JOJO",
+          "url": "https://open.spotify.com/artist/7y3Vc1nVxf9MK2BXv5G3ul"
+        },
+        {
+          "name": "GXHAN",
+          "url": "https://open.spotify.com/artist/6rdyRCKpxlwH5dMRYr1fUD"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Ballaro Xana",
+      "url": "https://open.spotify.com/track/2imtO14NPFxuiHIRXPvo3J"
     },
     {
       "album": {
@@ -2520,7 +2560,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 208717,
       "name": "Gia Panta",
       "url": "https://open.spotify.com/track/4U2WTa7KJImfnHiiCajzeq"
@@ -2797,6 +2837,24 @@
     },
     {
       "album": {
+        "name": "Gyrna",
+        "url": "https://open.spotify.com/album/15Tqk5XWNfjSJWRZcHM2rq"
+      },
+      "artists": [
+        {
+          "name": "Daphne Lawrence",
+          "url": "https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157920,
+      "name": "Gyrna",
+      "url": "https://open.spotify.com/track/122ZMmDRmRWfUsMJchWgtx"
+    },
+    {
+      "album": {
         "name": "Halima",
         "url": "https://open.spotify.com/album/2Zt6kRIh2TjWqEW1G4y8b7"
       },
@@ -2910,7 +2968,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 140000,
       "name": "IN BERLIN",
       "url": "https://open.spotify.com/track/6zZxKDOarBgVNZ07KqZuEq"
@@ -3578,6 +3636,28 @@
       "duration_ms": 189152,
       "name": "Leei Leei Leei",
       "url": "https://open.spotify.com/track/5ILUPEjMQHEOi3QTChOIa1"
+    },
+    {
+      "album": {
+        "name": "LOCA",
+        "url": "https://open.spotify.com/album/2wnaEz6OTA8VUzQSpR7i2E"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191304,
+      "name": "LOCA",
+      "url": "https://open.spotify.com/track/1t6A6AZZ8RyVPWrrO6aX3b"
     },
     {
       "album": {
@@ -4846,7 +4926,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 206838,
       "name": "Proteraiotita",
       "url": "https://open.spotify.com/track/1bLeGv7pHEnY1j7Ni7wOTX"
@@ -6188,7 +6268,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 217933,
       "name": "Xronomixani",
       "url": "https://open.spotify.com/track/0uHiM7lWdLZvsUJO24C5rX"

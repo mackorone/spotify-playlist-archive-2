@@ -4,7 +4,7 @@
 
 > Geniet van de zon met deze lijst vol zomer vibes! Met muziek van Flaire, HUGEL, 54 Ultra en meer...
 
-385 songs - 21 hr 11 min
+386 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Stay](https://open.spotify.com/track/3EpQUpVAaQWZX9oLCoJEfo) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Stay](https://open.spotify.com/album/6E2VmkOih43z49pVr5WNQK) | 3:04 | 2026-03-20 | 2026-04-11 |
 | [Stay](https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Stay](https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS) | 3:30 | 2025-07-17 | 2025-09-23 |
 | [Still Champagne](https://open.spotify.com/track/5O2Ut0Ka1wthWEuarwCWSJ) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Still Champagne](https://open.spotify.com/album/7zpeK7KW3wkYhwSVFsl97Y) | 3:41 | 2026-03-24 |  |
+| [Street Of Dreams](https://open.spotify.com/track/70X6SFkjCUZ0nRBUGXddTn) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Street Of Dreams](https://open.spotify.com/album/1ivlBe4lilutfAmOoQWxxS) | 3:54 | 2026-07-09 |  |
 | [stupid song](https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:29 | 2026-06-12 |  |
 | [Suburban Requiem](https://open.spotify.com/track/7qtFxBjONSOPOsHopgAwH3) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Idols \(Complete\)](https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM) | 4:39 | 2026-02-20 | 2026-03-25 |
 | [Such A Funny Way](https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend \(Bonus Track Version\)](https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP) | 3:52 | 2026-01-23 | 2026-03-28 |

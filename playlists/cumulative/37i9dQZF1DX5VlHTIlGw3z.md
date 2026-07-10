@@ -4,7 +4,7 @@
 
 > 超等身大のむきだし青春＆音楽奮闘漫画『ふつうの軽音部』の世界を彩る楽曲をプレイリストで。本編は <a href=https://shonenjumpplus.com/episode/16457717013869519536>ジャンプ＋</a>で毎週日曜更新。 Enjoy Music from "Girl Meets Rock!".<br/>Ⓒクワハリ・出内テツオ／集英社
 
-51 songs - 3 hr 19 min
+56 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,18 +18,23 @@
 | [lemonade](https://open.spotify.com/track/0EyViwXzoKDRKUtLczjJwL) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 3:06 | 2025-09-03 |  |
 | [Let's ダバダバ](https://open.spotify.com/track/1IJ0O0ZYggmHLfK5AU3wLK) | [POLYSICS](https://open.spotify.com/artist/3l4rRK7zL537twQBI967Bq) | [Oh! No! It's Heavy Polysick!!!](https://open.spotify.com/album/1WI2KQ2uAAiaIyOZhJxav1) | 3:19 | 2025-12-03 |  |
 | [Oz.](https://open.spotify.com/track/1Aq9S5teUzfZucr7rVRpSj) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 3:15 | 2026-03-05 |  |
+| [REVIVER](https://open.spotify.com/track/1p6WtbNY4bDjiFBmSZolJY) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [S･S･S](https://open.spotify.com/album/0fIXE9BDAKai3jMx2IWoiC) | 4:50 | 2026-07-09 |  |
 | [swim](https://open.spotify.com/track/4fT8isC75wJe9CCsJdnNdI) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [CAVU](https://open.spotify.com/album/5ZGyjBoHMJb8M2diIt9af8) | 3:27 | 2026-03-05 |  |
 | [UFOを呼ぶダンス](https://open.spotify.com/track/0Ty3ogHHmgHmoH4JrW5Gtz) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [戦略的生存](https://open.spotify.com/album/3YThqweWZRKmnAt8ibr5PM) | 3:43 | 2025-05-29 |  |
 | [Wonderwall](https://open.spotify.com/track/1DadkoAI2gicYJfindPY20) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Time Flies...1994\-2009](https://open.spotify.com/album/6L5KBi1wt0rv1rA88kS1W4) | 4:19 | 2025-06-03 |  |
 | [あいどんわなだい](https://open.spotify.com/track/4YDWrN8wshiHXTMckF9pKj) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [あいどんわなだい](https://open.spotify.com/album/6UKzA0AKcyD9zPHE8gql4V) | 5:10 | 2025-05-29 |  |
 | [おしゃかしゃま](https://open.spotify.com/track/39oAp7sfaU9PDaraVLD31O) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [アルトコロニーの定理](https://open.spotify.com/album/5L5EmTd2tdm70Yo0CYLIsg) | 3:48 | 2025-05-29 |  |
+| [さよならエレジー](https://open.spotify.com/track/3oYD2O31b05fILFpv0AXRI) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [PLAY\(Special Edition\)](https://open.spotify.com/album/5JP5NDPvio5ZhkXXjcHVov) | 4:17 | 2026-07-09 |  |
 | [はあとぶれいく](https://open.spotify.com/track/5nofQAlk7aSin5fZvkM3Vv) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [すとーりーず](https://open.spotify.com/album/5jXQZzyi9xsndYnQsIGrQr) | 3:14 | 2025-05-29 |  |
 | [ばらの花](https://open.spotify.com/track/6iyKwsCmtdXvs19uKyBFfS) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [TEAM ROCK](https://open.spotify.com/album/0FJnTE821z9cp6edHW1pxB) | 5:01 | 2025-12-03 |  |
+| [アイラブ言う](https://open.spotify.com/track/0qNo1ESxfogTbOfMG3yyMD) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [いまも忘れらんねえよ。 \(DISC 1\)](https://open.spotify.com/album/4dSwmPzbEQH3RORFTzboci) | 3:25 | 2026-07-09 |  |
 | [インフェルノ](https://open.spotify.com/track/2vOAHp8PBBFYqvQUWSoITY) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 3:31 | 2025-09-03 |  |
 | [エンジェルベイビー](https://open.spotify.com/track/1chQj8QU3onRnLz9dGuCwk) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [ねえみんな大好きだよ](https://open.spotify.com/album/02oMXyO7O6Xz0yJ3VwOXkX) | 4:55 | 2025-05-29 |  |
+| [クリスマス](https://open.spotify.com/track/7BHuEHufMzJVVu1Avp2PmD) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [Orange Sunshine](https://open.spotify.com/album/7j8oAuDBsqe8z9U9xcw1b1) | 4:19 | 2026-07-09 |  |
 | [サバシスター's THEME \- 2024 ver.](https://open.spotify.com/track/1cvy3uzdTG80BJK31OG9CK) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:32 | 2025-06-03 | 2025-06-05 |
 | [シンデレラボーイ](https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr) | 3:54 | 2025-05-29 |  |
 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 | 2025-05-29 |  |
+| [ストラトキャスター・シーサイド](https://open.spotify.com/track/0jPt8zNHeeCWoPuttIqBqL) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/57na8P5liC3zgZTG72lz2S) | 3:12 | 2026-07-09 |  |
 | [スピカ](https://open.spotify.com/track/0llYDkfHwnPUM8uU6ubivX) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [花鳥風月+](https://open.spotify.com/album/3CCg3A3M9NtDtBdFmDEhK0) | 4:19 | 2025-05-29 |  |
 | [ソラニン](https://open.spotify.com/track/2H9YjQghPZ74vt0U4xHcKq) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [マジックディスク](https://open.spotify.com/album/1Pz6ADZaTvqTSUBC2ux7oI) | 4:32 | 2025-05-29 |  |
 | [デイドリーム](https://open.spotify.com/track/7bULwkgRO7FHaXHHJbvzI8) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [my](https://open.spotify.com/album/2ScDaY2kCiHLd0li7FQf37) | 4:28 | 2026-03-05 |  |

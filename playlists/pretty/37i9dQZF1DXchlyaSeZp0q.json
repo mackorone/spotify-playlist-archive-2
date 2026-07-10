@@ -1,6 +1,6 @@
 {
   "description": "Soul for the blues. Cover: Otis Redding.",
-  "num_followers": 363505,
+  "num_followers": 363646,
   "original_name": "Sad Soul",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
+        "name": "Chapter Two",
+        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 249946,
+      "name": "Do What You Gotta Do",
+      "url": "https://open.spotify.com/track/2tF6qsoOtu92PzCTk4OKOf"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
         "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 386426,
       "name": "Bad Luck (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
-        "name": "Chapter Two",
-        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 249946,
-      "name": "Do What You Gotta Do",
-      "url": "https://open.spotify.com/track/2tF6qsoOtu92PzCTk4OKOf"
     },
     {
       "added_at": "2021-11-11 14:02:18",

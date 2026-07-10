@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 
 > techno you can relax/study to
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,899 likes - 100 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,923 likes - 100 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 62 | [Lyot Remix \- Edit](https://open.spotify.com/track/7LHfXGLdbxAaRJp6Jq0lAn) | [Basic Channel](https://open.spotify.com/artist/37um1uxI92g4ll61LzrtB5) | [Bcd](https://open.spotify.com/album/3QiuQrKMLpt7MDgjUDvv8d) | 6:28 |
 | 63 | [Winter Calmness](https://open.spotify.com/track/0IrrY7K6VwEjuhQTogbIAy) | [Martin Schulte](https://open.spotify.com/artist/3l9uLPHODHCBSiGcALBPPI) | [Seasons](https://open.spotify.com/album/5sN18BNWYP7m2IJCy9zcJV) | 6:02 |
 | 64 | [Heavy Snow](https://open.spotify.com/track/1343rvbH69vJ3mPDmPwBrg) | [STL](https://open.spotify.com/artist/3Aa3AP52gyOW8I2PlnxaIg) | [Message Of Sound, Pt\. 1](https://open.spotify.com/album/6R1ntsOgTuBhIXqAGyU3b2) | 9:10 |
-| 65 | [Outpost](https://open.spotify.com/track/6pkVbLNQkMHijQFhRwlScm) | [Pablo Bolivar](https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs), [Nacho Sanchez](https://open.spotify.com/artist/4YEgaKhOIrhCE9QYrSpzjf), [Ercos Blanka](https://open.spotify.com/artist/0Vox2K7dpTsHq004KMQiuJ) | [Distances](https://open.spotify.com/album/5tukJUioJ8GmhIpJW9ZccB) | 5:37 |
-| 66 | [Rain 3](https://open.spotify.com/track/2TvgXwgbSkt4hsDyOlmyQA) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Yes](https://open.spotify.com/album/7zsktVl91eHbxy2cEoUfZ3) | 7:35 |
-| 67 | [Reminder](https://open.spotify.com/track/2KkIKY9UQfSi1TQizmb8A6) | [Biodub](https://open.spotify.com/artist/3SlLKPEWkqqxLWNar2H9WY) | [Reisegefaehrte](https://open.spotify.com/album/5r7NnD004ziOkMaoDbTNjn) | 6:28 |
+| 65 | [Rain 3](https://open.spotify.com/track/2TvgXwgbSkt4hsDyOlmyQA) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Yes](https://open.spotify.com/album/7zsktVl91eHbxy2cEoUfZ3) | 7:35 |
+| 66 | [Reminder](https://open.spotify.com/track/2KkIKY9UQfSi1TQizmb8A6) | [Biodub](https://open.spotify.com/artist/3SlLKPEWkqqxLWNar2H9WY) | [Reisegefaehrte](https://open.spotify.com/album/5r7NnD004ziOkMaoDbTNjn) | 6:28 |
+| 67 | [Outpost](https://open.spotify.com/track/6pkVbLNQkMHijQFhRwlScm) | [Pablo Bolivar](https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs), [Nacho Sanchez](https://open.spotify.com/artist/4YEgaKhOIrhCE9QYrSpzjf), [Ercos Blanka](https://open.spotify.com/artist/0Vox2K7dpTsHq004KMQiuJ) | [Distances](https://open.spotify.com/album/5tukJUioJ8GmhIpJW9ZccB) | 5:37 |
 | 68 | [Zauberberg 2](https://open.spotify.com/track/18IoZD8aQjJn972NcGN4Jc) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Zauberberg](https://open.spotify.com/album/3q8NuY6M6Ay1XA34vGpeud) | 14:12 |
 | 69 | [Never Tell You \- 1](https://open.spotify.com/track/7iScEp6dZvGy8ZwJjb7xxh) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo), [Paul St\. Hilaire](https://open.spotify.com/artist/2z6qOkQVyn7h3XzUuNlRlM) | [Showcase](https://open.spotify.com/album/4G11Lr35wOYhRwV0j5h3UM) | 6:20 |
 | 70 | [upekah](https://open.spotify.com/track/7I1pDB99PH4iaUatXBXHgi) | [son.sine](https://open.spotify.com/artist/1t4NXvWnxF1xx3r6vhJMSp) | [upekah](https://open.spotify.com/album/5nqOxv7NpHWGFtiZCBuaxq) | 8:57 |
@@ -83,11 +83,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 73 | [Untitled C3](https://open.spotify.com/track/3zotN6ezz03EnQoLDMmduF) | [SW.](https://open.spotify.com/artist/6lDaViWraJYpkI6nRq29vp) | [The Album](https://open.spotify.com/album/5yHg79n8OTEDo9V5zNg6oi) | 3:03 |
 | 74 | [Existing Closer or Deeper in Space](https://open.spotify.com/track/6kzNAm0RiDW3UyxTOimSLU) | [Earthen Sea](https://open.spotify.com/artist/3vP8rFfMW7ZZtUFfYyN5QH) | [Grass and Trees](https://open.spotify.com/album/5BWggRFjTVj5uC1lqjjFU7) | 3:51 |
 | 75 | [Tangente](https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [Fading](https://open.spotify.com/album/5r78nlhueNsrrviTYGPdfR) | 5:07 |
-| 76 | [Zenith \- Original Mix](https://open.spotify.com/track/1Vd1PtUIKePKhOZHoTtf9E) | [Claudio PRC](https://open.spotify.com/artist/5qbXOiqkhAk2GEvpkma7xj) | [Drifting Northward EP](https://open.spotify.com/album/1ww2pbN521Xdm4fcVvvSFY) | 7:47 |
-| 77 | [Boo's Mood](https://open.spotify.com/track/3NpY3kZ5NDJVZZDjzAlBaz) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Boo's Mood](https://open.spotify.com/album/37XnGed9rFSMci9ljdWSOQ) | 4:23 |
-| 78 | [Machine Food](https://open.spotify.com/track/2pwd3D0xp09vaQLLerDMfW) | [JASSS](https://open.spotify.com/artist/4reMrexillTAvq1AQr6MzV) | [Machine Food](https://open.spotify.com/album/2RPmQRsg1A9vMhnpwdiV08) | 4:26 |
-| 79 | [Everyone Is Moving](https://open.spotify.com/track/0I2NAwJ0zz5WfKHqxWNcfh) | [DFRNT](https://open.spotify.com/artist/6NXFAGGcI3nq3em34tsWnQ) | [Fading \(Deluxe Edition\)](https://open.spotify.com/album/7bykHlOaWjYLioMEnNa1Rw) | 7:08 |
-| 80 | [Nighttrain \- Efdemin Dub](https://open.spotify.com/track/7xKz0WElyMHFLPV3XgstO1) | [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G) | [Chicago \- The Remixes Pt\. 1](https://open.spotify.com/album/2fncVDocptyJUW4kM7ho5o) | 4:23 |
+| 76 | [Boo's Mood](https://open.spotify.com/track/3NpY3kZ5NDJVZZDjzAlBaz) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Boo's Mood](https://open.spotify.com/album/37XnGed9rFSMci9ljdWSOQ) | 4:23 |
+| 77 | [Zenith \- Original Mix](https://open.spotify.com/track/1Vd1PtUIKePKhOZHoTtf9E) | [Claudio PRC](https://open.spotify.com/artist/5qbXOiqkhAk2GEvpkma7xj) | [Drifting Northward EP](https://open.spotify.com/album/1ww2pbN521Xdm4fcVvvSFY) | 7:47 |
+| 78 | [Everyone Is Moving](https://open.spotify.com/track/0I2NAwJ0zz5WfKHqxWNcfh) | [DFRNT](https://open.spotify.com/artist/6NXFAGGcI3nq3em34tsWnQ) | [Fading \(Deluxe Edition\)](https://open.spotify.com/album/7bykHlOaWjYLioMEnNa1Rw) | 7:08 |
+| 79 | [Nighttrain \- Efdemin Dub](https://open.spotify.com/track/7xKz0WElyMHFLPV3XgstO1) | [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G) | [Chicago \- The Remixes Pt\. 1](https://open.spotify.com/album/2fncVDocptyJUW4kM7ho5o) | 4:23 |
+| 80 | [Machine Food](https://open.spotify.com/track/2pwd3D0xp09vaQLLerDMfW) | [JASSS](https://open.spotify.com/artist/4reMrexillTAvq1AQr6MzV) | [Machine Food](https://open.spotify.com/album/2RPmQRsg1A9vMhnpwdiV08) | 4:26 |
 | 81 | [Game Over \( e 1 \)](https://open.spotify.com/track/2WrtP0IBtd6WL7RnfhVVHX) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Game Over \( e 1 \)](https://open.spotify.com/album/0uH5IgHeTFznjqRtkNrhFR) | 3:15 |
 | 82 | [Oktember](https://open.spotify.com/track/49MosPm9tMO3Xzzs2nzokf) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Oktember](https://open.spotify.com/album/6Dafde7J7kH2MQeyplCGVk) | 15:13 |
 | 83 | [Draught](https://open.spotify.com/track/4MQZjU6uaFobbj5MaxtAGe) | [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q), [Ordo Sakhna](https://open.spotify.com/artist/3SnKKOKMywsI29DK4qoIIe) | [Moritz Von Oswald & Ordo Sakhna](https://open.spotify.com/album/0GWKJ6ct7XkaD7KwDYPJk4) | 4:44 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 96 | [Jazz Da Bazz](https://open.spotify.com/track/2crt4Lq4DTkAHdThJiWU7r) | [Recoil \[ZA\]](https://open.spotify.com/artist/0GzKP9rOJeR7mkw0kfqjJa), [Secret Cinema](https://open.spotify.com/artist/6TrT2n9RVox8c9xpffVKyW) | [Jazz Da Bazz](https://open.spotify.com/album/24MqTjPyjWFrCFdPpxx8wt) | 6:54 |
 | 97 | [Force X](https://open.spotify.com/track/1fvHJJ7Ai2obOE36aKPcgQ) | [Anton Kubikov](https://open.spotify.com/artist/6EFW97xZ8UyegVYNJ2fJtg) | [Force X EP](https://open.spotify.com/album/7uS17P6U8ebrZ5x6eiMvWV) | 7:46 |
 | 98 | [Tramuntana \- Efdemin Remix](https://open.spotify.com/track/6yUIf4MeZhA2tvq42EHaFT) | [Ben Kaczor](https://open.spotify.com/artist/4F3AofUDB3Vb0dHSSFP4aL), [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G) | [Petrovo Uho Remixes Part I/III](https://open.spotify.com/album/6V5xhUwDfS2z2zHo608b84) | 7:00 |
-| 99 | [Unity \- G's Dub](https://open.spotify.com/track/0tbbwxwUgqh40MSzLqupPp) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV), [Red Eye](https://open.spotify.com/artist/6ixoXddZ103IcJlEeQ17Kt), [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN) | [Unity \(G's Dub\)](https://open.spotify.com/album/7FcRPKDM9QLRaVzp2doaj6) | 7:48 |
-| 100 | [Cadence](https://open.spotify.com/track/3p3mBN7TxJaIjJufQS6Agz) | [Tomas Rubeck](https://open.spotify.com/artist/5vHlxnXxdR1AkCKRhUSgFK) | [The Blueprint](https://open.spotify.com/album/0eBbk8OVWXihwYfb5k5Ify) | 6:08 |
+| 99 | [Cadence](https://open.spotify.com/track/3p3mBN7TxJaIjJufQS6Agz) | [Tomas Rubeck](https://open.spotify.com/artist/5vHlxnXxdR1AkCKRhUSgFK) | [The Blueprint](https://open.spotify.com/album/0eBbk8OVWXihwYfb5k5Ify) | 6:08 |
+| 100 | [Unity \- G's Dub](https://open.spotify.com/track/0tbbwxwUgqh40MSzLqupPp) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV), [Red Eye](https://open.spotify.com/artist/6ixoXddZ103IcJlEeQ17Kt), [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN) | [Unity \(G's Dub\)](https://open.spotify.com/album/7FcRPKDM9QLRaVzp2doaj6) | 7:48 |
 
 Snapshot ID: `AAAAAGYxxvKfWT5x5H2hWEOEARO+TGW8`

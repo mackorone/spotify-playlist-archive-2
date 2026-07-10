@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,586 songs - 10 day 5 hr 43 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,588 songs - 10 day 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 21 | [Null'apposto](https://open.spotify.com/track/6rtef2jevNqMhpnBnPzYxg) | [EDY](https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV) | [Null'apposto](https://open.spotify.com/album/0Op2NZQy6vopdG9PjnUT9e) | 3:32 |
 | 22 | [Asincopado](https://open.spotify.com/track/5yAO854PtOR0ITzBhVaXD3) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Asincopado](https://open.spotify.com/album/0eMSyUX3YPXapifVO6ANoU) | 4:27 |
 | 23 | [You Could Be The One](https://open.spotify.com/track/02pvQdHxWqIY9tn2c3pdrU) | [Niklas Adam NKA](https://open.spotify.com/artist/46KsqlLXguaP5uKbte1awz), [Megan Simpson](https://open.spotify.com/artist/3rgijfHse67hzlRSPO2tJP) | [You Could Be The One](https://open.spotify.com/album/5YehGgNqJ41m5TJhGUgbrV) | 3:22 |
-| 24 | [Justice for Lucy Letby](https://open.spotify.com/track/7foZi9ro64GDP1dOrAS6x3) | [Beyond Reasonable Doubt](https://open.spotify.com/artist/4t1WIAA1040hy9mxgOxeiT) | [Justice for Lucy Letby](https://open.spotify.com/album/6g1xo1RvUj8ptweteqI2Hq) | 3:38 |
+| 24 | [Justice for Lucy Letby](https://open.spotify.com/track/7foZi9ro64GDP1dOrAS6x3) | [BRD Investigations](https://open.spotify.com/artist/5iDvgzPhfxEWwXEjesv0Jn) | [Justice for Lucy Letby](https://open.spotify.com/album/6g1xo1RvUj8ptweteqI2Hq) | 3:38 |
 | 25 | [Like I Love You](https://open.spotify.com/track/2BmUatmy9K4kZL8SLgne6l) | [Miley Rose](https://open.spotify.com/artist/6MA3iyWPi3BNUecJdCp563) | [Like I Love You](https://open.spotify.com/album/2bdsi3Elzz7AQx99LRMdn7) | 3:30 |
 | 26 | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/track/0oXSnN7pVn3sXtGld1eS7b) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Riccardo Morello](https://open.spotify.com/artist/5ffJmWfw31UII0CriZhsP3) | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/album/3RURHXjT0MKCp7gW4ZovwM) | 4:18 |
 | 27 | [It's You](https://open.spotify.com/track/6PTEYjeE9e1jXbBHKZeYdH) | [Umang Mehta](https://open.spotify.com/artist/1zKJLTBdEXNsdHiIAH6Th2) | [It's You](https://open.spotify.com/album/3kbxJm5NAgNQAw3a6GVXpk) | 3:55 |
@@ -4594,5 +4594,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4584 | [Tu Hai Toh \- Reprise Version](https://open.spotify.com/track/6CwgYQDfDldZem7oXS0lmL) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Tu Hai Toh](https://open.spotify.com/album/1y8LBxZd0BOyQvqixXMQ7h) | 4:21 |
 | 4585 | [Purple Boots](https://open.spotify.com/track/1l5ibJGuB8RKadQ6c2x6eZ) | [Dizzy Daffodils](https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm) | [Purple Boots](https://open.spotify.com/album/6zNl5lgn9FuPngHvt8jfyk) | 3:31 |
 | 4586 | [Chibo Da Paz](https://open.spotify.com/track/5QGSThpT3sVeE91IySPHBe) | [David Lisboa](https://open.spotify.com/artist/6C1HHrKkNoObr8bS8IrgGG) | [Super\-Heriós](https://open.spotify.com/album/5kVLd6P222EsnzQMNz54bP) | 3:19 |
+| 4587 | [Problem Attic](https://open.spotify.com/track/2WdhOSqLFJLIb6og648nWv) | [The Spent Priests](https://open.spotify.com/artist/2gl2xRe5bzXRRluzAT1CdV) | [Problem Attic](https://open.spotify.com/album/31ciiu7Y3I0bO7M3Rb4q9m) | 3:53 |
+| 4588 | [Jóvenes Para Siempre Version 1](https://open.spotify.com/track/7p7Ak5S2ebOoIAoo6Q4EJ9) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Jóvenes Para Siempre Version 1](https://open.spotify.com/album/5S1KESzGJLlu0q8UosidFO) | 2:08 |
 
-Snapshot ID: `AAAJIzy+OWyX+IopBjtBcgi+hJ2cFcOm`
+Snapshot ID: `AAAJJVYSKQ+6azonqfHnzCuTJZi8vaWK`

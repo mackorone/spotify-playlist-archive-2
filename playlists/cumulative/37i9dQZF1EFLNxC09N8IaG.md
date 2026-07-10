@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-225 songs - 13 hr 5 min
+226 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Reverse \(Interlude\)](https://open.spotify.com/track/7pFB7lqFfsEPaVxxDlGKZd) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 1:18 | 2024-12-11 |  |
 | [RICH](https://open.spotify.com/track/5zrKviCOmCeuBS8KfJXoM7) | [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh) | [RICH](https://open.spotify.com/album/7KK8se4Rp7J8jMsl3iDizR) | 2:30 | 2024-06-11 | 2025-06-28 |
 | [Rich \(feat\. Trina & Yo Gotti\)](https://open.spotify.com/track/4FW3mvLkORbHuAGDKgA7Wq) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [More Issues Than Vogue](https://open.spotify.com/album/307Vo39bAFM833KEs9Op54) | 4:05 | 2025-06-27 |  |
+| [Richest](https://open.spotify.com/track/6JUObwBY69Zi8k5tOcUsch) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Richest](https://open.spotify.com/album/58IJMjXWxHRcE4p1HHTieI) | 3:39 | 2026-07-09 |  |
 | [Risk It All](https://open.spotify.com/track/7jDwn8Uc7ijT0SdVHPGs2q) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Woman](https://open.spotify.com/album/6RoTHNbxFtxUejrmNiKMMa) | 4:46 | 2024-06-11 |  |
 | [River](https://open.spotify.com/track/3ZAbzT3EIBAM4pDB6pD8V6) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind \(Deluxe Edition\)](https://open.spotify.com/album/7E4Zm8sWQgkGyOm2v4d9D4) | 3:11 | 2024-06-11 |  |
 | [Rock\-A\-Bye Baby](https://open.spotify.com/track/2LLMxepMUklkusMixPmHtw) | [Phylicia Rashad](https://open.spotify.com/artist/4b6gmSpQTEPc1UZY8oaPVM) | [Rhymin' Time!](https://open.spotify.com/album/2LHDBWJJIgWq8JKVFawbg0) | 0:52 | 2024-06-11 | 2025-07-10 |

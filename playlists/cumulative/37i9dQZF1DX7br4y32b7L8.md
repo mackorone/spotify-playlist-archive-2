@@ -2,9 +2,9 @@
 
 ### [Viral Hits NL](https://open.spotify.com/playlist/37i9dQZF1DX7br4y32b7L8)
 
-> \#fyp songs voor je playlist Cover: Aya Nakamura
+> \#fyp songs voor je playlist Cover: DJ LARITA, Afro Bros, Billy Dans & Carmell
 
-906 songs - 1 day 21 hr 30 min
+909 songs - 1 day 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Charger](https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [Franchement !](https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD) | 2:35 | 2025-08-09 | 2026-04-22 |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-05-25 | 2023-06-27 |
 | [Chasing Highs](https://open.spotify.com/track/3GJjiToqnCxTm5rOaqoxdi) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Chasing Highs](https://open.spotify.com/album/1nF6jsEiGpdjS7gG3DPaIP) | 3:15 | 2023-04-14 | 2023-06-27 |
+| [CHEERIO SUMMER REMIX](https://open.spotify.com/track/1kpq0c9ErTJIaR3MPJz6sn) | [DJ LARITA](https://open.spotify.com/artist/73BcfubAabKdfcR0WpxbAg), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [CHEERIO SUMMER REMIX](https://open.spotify.com/album/7mkZQYGBJa1LMWFjnRrZrl) | 2:01 | 2026-07-09 |  |
 | [Cherry Vanilli](https://open.spotify.com/track/5EUAGkEGtYhk96DHhR3Ghj) | [Béla](https://open.spotify.com/artist/2qrK1JzNruSNOHzQsIaiBP) | [Cherry Vanilli](https://open.spotify.com/album/6CD3tcmJeHymIMm9stJNhY) | 2:27 | 2025-08-09 | 2025-10-22 |
 | [Chicago](https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [XSCAPE](https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ) | 4:05 | 2026-06-17 |  |
 | [chille guy](https://open.spotify.com/track/7BDorbvHZ7gcHwEZLu06eY) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [chille guy](https://open.spotify.com/album/0fHVPIbtXgbAv0LJnri8jR) | 1:40 | 2025-01-17 | 2025-09-16 |
@@ -511,6 +512,7 @@
 | [Menina de Vermelho](https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i) | [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU), [RAMONMIX](https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK), [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm) | [Menina de Vermelho](https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s) | 2:31 | 2024-11-15 | 2024-12-04 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-01-09 | 2025-06-21 |
 | [Messy](https://open.spotify.com/track/6v6O07aMwdAkBtEuviGe33) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2ZA9At0a1IsXTyL8nInUBS) | 4:44 | 2024-12-03 | 2024-12-12 |
+| [Mi Chico \- Official \- Jason Derulo x Melody](https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX) | [DJ Goja](https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Mi Chico \(Official \- Jason Derulo x Melody\)](https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3) | 2:05 | 2026-07-09 |  |
 | [Middelvinger](https://open.spotify.com/track/5n0yG4LEdKkIFnEMHbILId) | [Romeijn](https://open.spotify.com/artist/1dUocViVH0TuntyDehVn6B), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Middelvinger](https://open.spotify.com/album/7HaemgeoWlIyMK26Feapko) | 1:50 | 2024-08-28 | 2024-10-22 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-06 | 2024-07-04 |
 | [Mimosa 2000](https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT) | [Furacão 2000](https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0), [Nyasia](https://open.spotify.com/artist/1FmH6MmsNdjm11V4qa9nMW) | [27 Anos Nacional](https://open.spotify.com/album/5wcu3Cy16Mm6JJrVlIPsHW) | 2:20 | 2025-10-07 | 2025-11-21 |
@@ -670,6 +672,7 @@
 | [Ride Like the Wind](https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:35 | 2024-06-26 | 2024-07-04 |
 | [Ride Or Die, Pt\. 2 \(with Villano Antillano & Tokischa\)](https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Ride Or Die, Pt\. 2](https://open.spotify.com/album/0KSwPzRWwU14SH8QUCwfM0) | 2:38 | 2024-04-25 | 2024-05-24 |
 | [Rim Tim Tagi Dim](https://open.spotify.com/track/5TswDbxMnxptgFTf6ZxvXQ) | [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [Rim Tim Tagi Dim](https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t) | 2:59 | 2024-05-09 | 2024-05-24 |
+| [RMB \(Ring My Bell\)](https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [RMB \(Ring My Bell\)](https://open.spotify.com/album/4pkAMeqsWDN1YtFHsKoD1g) | 2:54 | 2026-07-09 |  |
 | [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 | 2025-06-26 | 2026-05-29 |
 | [Rocketship](https://open.spotify.com/track/5q2zRUEMUMh51Ipd97bmAa) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Rocketship](https://open.spotify.com/album/4za3vqGRKS1vFTQAhYnLwQ) | 2:36 | 2023-05-18 | 2023-09-07 |
 | [Rodeo \(Remix\)](https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo \(Remix\)](https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq) | 4:05 | 2023-04-18 | 2023-06-27 |

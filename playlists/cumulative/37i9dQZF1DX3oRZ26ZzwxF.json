@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Tazeboy",
+  "description": "Le meilleur du rap africain francophone. Photo : Didi B x TRK.",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -3055,6 +3055,24 @@
     },
     {
       "album": {
+        "name": "Freestyle KORDIAL III",
+        "url": "https://open.spotify.com/album/7yMT3BOX81VMDe96fxuqOI"
+      },
+      "artists": [
+        {
+          "name": "Kadja",
+          "url": "https://open.spotify.com/artist/18r6Mec5ndlllp5BAoGNek"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "Freestyle KORDIAL III",
+      "url": "https://open.spotify.com/track/6pdqCNNj4B8iqSrKVzljv4"
+    },
+    {
+      "album": {
         "name": "FREESTYLE VATOS #1",
         "url": "https://open.spotify.com/album/6Mx1MTnGd1JmDoC9h48ttA"
       },
@@ -4250,7 +4268,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 166579,
       "name": "LOVER BOY",
       "url": "https://open.spotify.com/track/0G0iXdd9YHETAchcu0RqmC"
@@ -6392,7 +6410,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 172800,
       "name": "SINSI BINA",
       "url": "https://open.spotify.com/track/7JlSxfhTpQjZCmPWSHqdy4"
@@ -6607,6 +6625,28 @@
     },
     {
       "album": {
+        "name": "SUR LE TERRAIN",
+        "url": "https://open.spotify.com/album/1fr0vOwfuBcODruMKmfUPQ"
+      },
+      "artists": [
+        {
+          "name": "d\u00f8pelym",
+          "url": "https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs"
+        },
+        {
+          "name": "KAGE",
+          "url": "https://open.spotify.com/artist/5oNgpBQyteJdewZ0emcyfb"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157575,
+      "name": "SUR LE TERRAIN",
+      "url": "https://open.spotify.com/track/34UeMLqDCZQYeVvjWiAlAw"
+    },
+    {
+      "album": {
         "name": "Suspect 95 - MVP",
         "url": "https://open.spotify.com/album/0KYoZrYR3Pt3C3Iv1yzrj6"
       },
@@ -6785,6 +6825,28 @@
     },
     {
       "album": {
+        "name": "Tchiza",
+        "url": "https://open.spotify.com/album/2SBUY8atmI3bZPjGyL9e8E"
+      },
+      "artists": [
+        {
+          "name": "Jeune VILI",
+          "url": "https://open.spotify.com/artist/7DB0XoY2hRc1I8KjK6rbOV"
+        },
+        {
+          "name": "Sonik",
+          "url": "https://open.spotify.com/artist/1pZnslHopDREVLA0hjtpgR"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158063,
+      "name": "Tchiza",
+      "url": "https://open.spotify.com/track/5LmvAYsbiAnm7DU9mxglZZ"
+    },
+    {
+      "album": {
         "name": "34",
         "url": "https://open.spotify.com/album/67jDpqg46Rv9gMvVQOj1Ni"
       },
@@ -6907,6 +6969,28 @@
     },
     {
       "album": {
+        "name": "Tout casser",
+        "url": "https://open.spotify.com/album/6KinGbA4sruCTJBuEh5f9u"
+      },
+      "artists": [
+        {
+          "name": "TRK.",
+          "url": "https://open.spotify.com/artist/1n8sswL2m5gBFjC6JQF1b7"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Tout casser",
+      "url": "https://open.spotify.com/track/6fd3ZFWxU2DBwv3BgoOneq"
+    },
+    {
+      "album": {
         "name": "Tout ira mieux (Faut pas m'appeler)",
         "url": "https://open.spotify.com/album/5yRMGyukQkl1CCIMMbnKyy"
       },
@@ -6998,7 +7082,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 139487,
       "name": "TRAVAILLER",
       "url": "https://open.spotify.com/track/18iQA40Yy0wn88hw67KDOj"

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Rubby P\u00e9rez",
-  "num_followers": 386865,
+  "num_followers": 386851,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "El Africano",
-      "url": "https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "10 De Colecci\u00f3n",
         "url": "https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 275186,
       "name": "Patac\u00f3n Pisao",
       "url": "https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "El Africano",
+      "url": "https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -947,26 +947,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Todos Exitos, Vol. 1",
-        "url": "https://open.spotify.com/album/4T55O9faGJeB8MeMTFHOhs"
+        "name": "Los Toros Band... \"Pa' La Calle\"",
+        "url": "https://open.spotify.com/album/6iXKTogNUFHBIkJcC2U7lO"
       },
       "artists": [
         {
-          "name": "Los Hijos Del Rey",
-          "url": "https://open.spotify.com/artist/6GzYE02GejB3ufs6CaW2Ou"
-        },
-        {
-          "name": "Fernando Villalona",
-          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
-        },
-        {
-          "name": "Robert JeanD'or",
-          "url": "https://open.spotify.com/artist/6I2TsnwUL8n5hLrRUDb8g0"
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
         }
       ],
-      "duration_ms": 291240,
-      "name": "Feliciana",
-      "url": "https://open.spotify.com/track/6f77ESDOzi93Ssq7tw0Xr8"
+      "duration_ms": 234600,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/5Tk8DkD7gyfOaEkbd6DoRW"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -987,18 +979,26 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Los Toros Band... \"Pa' La Calle\"",
-        "url": "https://open.spotify.com/album/6iXKTogNUFHBIkJcC2U7lO"
+        "name": "Todos Exitos, Vol. 1",
+        "url": "https://open.spotify.com/album/4T55O9faGJeB8MeMTFHOhs"
       },
       "artists": [
         {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+          "name": "Los Hijos Del Rey",
+          "url": "https://open.spotify.com/artist/6GzYE02GejB3ufs6CaW2Ou"
+        },
+        {
+          "name": "Fernando Villalona",
+          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
+        },
+        {
+          "name": "Robert JeanD'or",
+          "url": "https://open.spotify.com/artist/6I2TsnwUL8n5hLrRUDb8g0"
         }
       ],
-      "duration_ms": 234600,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/5Tk8DkD7gyfOaEkbd6DoRW"
+      "duration_ms": 291240,
+      "name": "Feliciana",
+      "url": "https://open.spotify.com/track/6f77ESDOzi93Ssq7tw0Xr8"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Raices",
+        "url": "https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "El Negrito Del Batey",
+      "url": "https://open.spotify.com/track/7fzn2U8JQoRzMvnqpdOh1T"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Con el Alma",
         "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 239693,
       "name": "Las Locas",
       "url": "https://open.spotify.com/track/0weR0n8ubbO0hJuyN8pYsP"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Raices",
-        "url": "https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 198826,
-      "name": "El Negrito Del Batey",
-      "url": "https://open.spotify.com/track/7fzn2U8JQoRzMvnqpdOh1T"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Edici\u00f3n Limitada",
+        "url": "https://open.spotify.com/album/21TzuVhh3Nm12AFIqnZjF0"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 266493,
+      "name": "Melina",
+      "url": "https://open.spotify.com/track/6GHOBqeLlPkYabtn1ltqqC"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Con el Alma",
         "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 266666,
       "name": "Me Tiene Amarrao",
       "url": "https://open.spotify.com/track/07QUDnW5QUY6v3S3B2JreR"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Edici\u00f3n Limitada",
-        "url": "https://open.spotify.com/album/21TzuVhh3Nm12AFIqnZjF0"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 266493,
-      "name": "Melina",
-      "url": "https://open.spotify.com/track/6GHOBqeLlPkYabtn1ltqqC"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Raices",
+        "url": "https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 379053,
+      "name": "Medley Rescate 2: Desidario Arias / La Chiva Blanca / Cana Brava / El Papelito Blanco / El Marangon",
+      "url": "https://open.spotify.com/track/3RfY5rAS5Xbel2TtUEL9vV"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Con el Alma",
         "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 236706,
       "name": "Platano Maduro",
       "url": "https://open.spotify.com/track/1Jma9i28NacARtJR3QEWAO"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Raices",
-        "url": "https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 379053,
-      "name": "Medley Rescate 2: Desidario Arias / La Chiva Blanca / Cana Brava / El Papelito Blanco / El Marangon",
-      "url": "https://open.spotify.com/track/3RfY5rAS5Xbel2TtUEL9vV"
     },
     {
       "added_at": "2024-06-28 21:55:14",

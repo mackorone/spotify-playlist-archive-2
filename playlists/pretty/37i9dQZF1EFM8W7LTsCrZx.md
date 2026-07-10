@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5aLMfjiruumRxGGkZpYdTQ">Ben \(of Waterboutus\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19 likes - 99 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 20 likes - 99 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 45 | [ECHTE LOVE](https://open.spotify.com/track/3F4WrtfP3UMC43bVPUDlMi) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [ECHTE LOVE](https://open.spotify.com/album/7r2f85yuFrRSwLcWCW0Pb5) | 3:14 |
 | 46 | [Pop \(d.P.\)](https://open.spotify.com/track/19wguSIHtRGPVYwpPXKXDD) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 3:12 |
 | 47 | [Strasse brennt](https://open.spotify.com/track/5JFLVMxSuepBp8O4oL8nHj) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Sa4](https://open.spotify.com/artist/5qZLYtTL3ldN6Uw7OXHESR) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 3:05 |
-| 48 | [Moneyfeen](https://open.spotify.com/track/0AuQf2tbJaP5gNw6xVUtc0) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Moneyfeen](https://open.spotify.com/album/2h0BSzn8CrAUCYENsGpbFI) | 2:39 |
-| 49 | [Soft](https://open.spotify.com/track/73pOCqJVVHoyMLH3orprph) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 2:08 |
+| 48 | [Soft](https://open.spotify.com/track/73pOCqJVVHoyMLH3orprph) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 2:08 |
+| 49 | [Moneyfeen](https://open.spotify.com/track/0AuQf2tbJaP5gNw6xVUtc0) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Moneyfeen](https://open.spotify.com/album/2h0BSzn8CrAUCYENsGpbFI) | 2:39 |
 | 50 | [A6](https://open.spotify.com/track/46a10pDBgDcctpaU5TuzZu) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [LX](https://open.spotify.com/artist/10XY9PZCJKzUFzZOdtlQLU) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 2:12 |
 | 51 | [Wir gehen rein!](https://open.spotify.com/track/4ZwiWNSqJiKdUZC4Afqmob) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Jaill](https://open.spotify.com/artist/0RTKm5n4OBSU5H8uGqi3fM) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 2:28 |
 | 52 | [Mein Blut](https://open.spotify.com/track/0Gt2V17WTLAL4VdmueTfS7) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 2:05 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 98 | [Gas nur mit dir](https://open.spotify.com/track/58m3LEsLbH2ZBJqLZ87vHB) | [Yous39](https://open.spotify.com/artist/5dLEzOHOPykRTvRoan7DBK), [eightyoneace](https://open.spotify.com/artist/6aLtq5w4tLiDEMMBtyDluE) | [Gas nur mit dir](https://open.spotify.com/album/7s3S0KPiQJkpCOhWAUj182) | 2:11 |
 | 99 | [Catwoman](https://open.spotify.com/track/4p2zIDZA4oglBJuPJl6oOF) | [Jano](https://open.spotify.com/artist/7L47OSdJj97aLcHuHVm6k3) | [Catwoman](https://open.spotify.com/album/52SI4Qw2cWcwRV0YNIFHqJ) | 2:16 |
 
-Snapshot ID: `AcWV0AAAAABeUeC1MOgs6WKDUBEAA8pd`
+Snapshot ID: `AcWbUgAAAADvn7vzGkb4MGVyNpGUzOnW`

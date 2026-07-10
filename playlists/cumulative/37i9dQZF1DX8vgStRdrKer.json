@@ -3750,7 +3750,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 401000,
       "name": "El Gibbor",
       "url": "https://open.spotify.com/track/15basiVIAqFSSITtAiS1tQ"
@@ -14560,6 +14560,24 @@
       "duration_ms": 174893,
       "name": "TRUST ISSUES",
       "url": "https://open.spotify.com/track/1nDOuuy6VBxuN8GwD6F0It"
+    },
+    {
+      "album": {
+        "name": "Assurance",
+        "url": "https://open.spotify.com/album/1tcMzoel1OUbK3to92ngFV"
+      },
+      "artists": [
+        {
+          "name": "Labisi",
+          "url": "https://open.spotify.com/artist/4AJSklNIYg4jQr5EaDvUR8"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310000,
+      "name": "Tuale",
+      "url": "https://open.spotify.com/track/1adeZmxXG7aqyZOaeJhult"
     },
     {
       "album": {

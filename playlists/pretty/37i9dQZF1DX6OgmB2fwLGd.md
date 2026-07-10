@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > hyper\_sleaze.electro\_glitch.v2008.infamy.zip.\[FINAL\]\_\[REAL\]\_\_coverartist.BrothelinBelize
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,372,135 likes - 79 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,372,066 likes - 79 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 1025572,
+  "num_followers": 1025760,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,34 @@
     {
       "added_at": "2026-07-03 04:01:14",
       "album": {
+        "name": "Twenty One",
+        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Aidan Martin",
+          "url": "https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb"
+        }
+      ],
+      "duration_ms": 147269,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY"
+    },
+    {
+      "added_at": "2026-07-03 04:01:14",
+      "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah"
       },
@@ -751,34 +779,6 @@
     {
       "added_at": "2026-07-03 04:01:14",
       "album": {
-        "name": "Twenty One",
-        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Aidan Martin",
-          "url": "https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb"
-        }
-      ],
-      "duration_ms": 147269,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY"
-    },
-    {
-      "added_at": "2026-07-03 04:01:14",
-      "album": {
         "name": "Promises (with Sam Smith)",
         "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
       },
@@ -823,6 +823,30 @@
     {
       "added_at": "2026-07-03 04:01:14",
       "album": {
+        "name": "una noche con hugel",
+        "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 191475,
+      "name": "una noche con hugel",
+      "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
+    },
+    {
+      "added_at": "2026-07-03 04:01:14",
+      "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ"
       },
@@ -855,30 +879,6 @@
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
-    },
-    {
-      "added_at": "2026-07-03 04:01:14",
-      "album": {
-        "name": "una noche con hugel",
-        "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 191475,
-      "name": "una noche con hugel",
-      "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
     },
     {
       "added_at": "2026-07-03 04:01:14",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-07-03 04:01:14",
       "album": {
+        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
+        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "duration_ms": 186341,
+      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
+      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
+    },
+    {
+      "added_at": "2026-07-03 04:01:14",
+      "album": {
         "name": "Makeba (Ian Asher Remix)",
         "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
       },
@@ -963,22 +979,6 @@
     {
       "added_at": "2026-07-03 04:01:14",
       "album": {
-        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
-        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        }
-      ],
-      "duration_ms": 186341,
-      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
-      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
-    },
-    {
-      "added_at": "2026-07-03 04:01:14",
-      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP"
       },
@@ -999,6 +999,26 @@
       "duration_ms": 168387,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
+    },
+    {
+      "added_at": "2026-07-03 04:01:14",
+      "album": {
+        "name": "Wo, man (Edit)",
+        "url": "https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Wo, man - Edit",
+      "url": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS"
     },
     {
       "added_at": "2026-07-03 04:01:14",
@@ -1075,26 +1095,6 @@
       "duration_ms": 217000,
       "name": "Jackie B",
       "url": "https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa"
-    },
-    {
-      "added_at": "2026-07-03 04:01:14",
-      "album": {
-        "name": "Wo, man (Edit)",
-        "url": "https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Wo, man - Edit",
-      "url": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS"
     },
     {
       "added_at": "2026-07-03 04:01:14",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-07-03 04:01:14",
       "album": {
-        "name": "Won't Forget You",
-        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 230945,
-      "name": "Won't Forget You (Edit)",
-      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
-    },
-    {
-      "added_at": "2026-07-03 04:01:14",
-      "album": {
         "name": "Cola (ARTBAT Remix)",
         "url": "https://open.spotify.com/album/3iLdjCAbObHpiYqZCvdByJ"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 188160,
       "name": "Cola - ARTBAT Remix",
       "url": "https://open.spotify.com/track/58caScGqKTQIDDJQ7QnJU8"
+    },
+    {
+      "added_at": "2026-07-03 04:01:14",
+      "album": {
+        "name": "Won't Forget You",
+        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 230945,
+      "name": "Won't Forget You (Edit)",
+      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
     },
     {
       "added_at": "2026-07-03 04:01:14",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2026-07-03 04:01:14",
       "album": {
-        "name": "Sunrise (Remixes)",
-        "url": "https://open.spotify.com/album/3Im5438f9q5yyVSSYcqwO1"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        }
-      ],
-      "duration_ms": 228870,
-      "name": "Sunrise (Adam Ten Remix)",
-      "url": "https://open.spotify.com/track/4CrKKZuQtC5GgCSBRl1zpk"
-    },
-    {
-      "added_at": "2026-07-03 04:01:14",
-      "album": {
         "name": "NO HAY VERANO SIN GORDO",
         "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 157500,
       "name": "Olvidarte (feat. Emilia)",
       "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
+    },
+    {
+      "added_at": "2026-07-03 04:01:14",
+      "album": {
+        "name": "Sunrise (Remixes)",
+        "url": "https://open.spotify.com/album/3Im5438f9q5yyVSSYcqwO1"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        }
+      ],
+      "duration_ms": 228870,
+      "name": "Sunrise (Adam Ten Remix)",
+      "url": "https://open.spotify.com/track/4CrKKZuQtC5GgCSBRl1zpk"
     },
     {
       "added_at": "2026-07-03 04:01:14",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2026-07-03 04:01:14",
       "album": {
+        "name": "Spanish Chica",
+        "url": "https://open.spotify.com/album/04LUS5N9H4DIxFty3pUnTN"
+      },
+      "artists": [
+        {
+          "name": "MESTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+        }
+      ],
+      "duration_ms": 244918,
+      "name": "Te Doy La Libertad",
+      "url": "https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp"
+    },
+    {
+      "added_at": "2026-07-03 04:01:14",
+      "album": {
         "name": "ASTROPICAL",
         "url": "https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl"
       },
@@ -2019,22 +2035,6 @@
       "duration_ms": 219221,
       "name": "Brinca (Acuario)",
       "url": "https://open.spotify.com/track/7rdgssw9cq1TloP5HbopVx"
-    },
-    {
-      "added_at": "2026-07-03 04:01:14",
-      "album": {
-        "name": "Spanish Chica",
-        "url": "https://open.spotify.com/album/04LUS5N9H4DIxFty3pUnTN"
-      },
-      "artists": [
-        {
-          "name": "MESTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
-        }
-      ],
-      "duration_ms": 244918,
-      "name": "Te Doy La Libertad",
-      "url": "https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp"
     },
     {
       "added_at": "2026-07-03 04:01:14",

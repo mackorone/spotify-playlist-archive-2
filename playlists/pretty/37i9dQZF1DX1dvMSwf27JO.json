@@ -1,6 +1,6 @@
 {
   "description": "music to get fly to ft. Erykah Badu",
-  "num_followers": 555643,
+  "num_followers": 555616,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Heaven To A Tortured Mind",
-        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 106102,
-      "name": "Romanticist",
-      "url": "https://open.spotify.com/track/3nRhH5u3TE6HtvBH6mNwzY"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Monologues",
         "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 221613,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/3XVsJ2JMP3oBUqhXbFReQ3"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Heaven To A Tortured Mind",
+        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 106102,
+      "name": "Romanticist",
+      "url": "https://open.spotify.com/track/3nRhH5u3TE6HtvBH6mNwzY"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Freaky (RGB)",
+        "url": "https://open.spotify.com/album/7JOLFZAeIkv6MERxfiHqn1"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "duration_ms": 109241,
+      "name": "Freaky (RGB)",
+      "url": "https://open.spotify.com/track/6x74a97yVVRskQeOm787SG"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "THE ANGEL YOU DON'T KNOW",
         "url": "https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 180485,
       "name": "C\u00c9LINE",
       "url": "https://open.spotify.com/track/3PDph58rpbRHraKLXaC2ZG"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Freaky (RGB)",
-        "url": "https://open.spotify.com/album/7JOLFZAeIkv6MERxfiHqn1"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        }
-      ],
-      "duration_ms": 109241,
-      "name": "Freaky (RGB)",
-      "url": "https://open.spotify.com/track/6x74a97yVVRskQeOm787SG"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Dog Food (feat. Denzel Curry)",
-        "url": "https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 184123,
-      "name": "Dog Food (feat. Denzel Curry)",
-      "url": "https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "WAN ME DEAD",
         "url": "https://open.spotify.com/album/2IZuFx4C7bvUQdCWEiRcLR"
       },
@@ -1723,6 +1703,26 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Dog Food (feat. Denzel Curry)",
+        "url": "https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 184123,
+      "name": "Dog Food (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Leak 04-13 (Bait Ones)",
         "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
       },
@@ -1735,22 +1735,6 @@
       "duration_ms": 56880,
       "name": "chix - Unfinished",
       "url": "https://open.spotify.com/track/7JZHO1HF2XIIWcPVh0uzlC"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Good Movie",
-        "url": "https://open.spotify.com/album/2REajdJ8KOaR8Vm2Zx8UXM"
-      },
-      "artists": [
-        {
-          "name": "Pi\u2019erre Bourne",
-          "url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
-        }
-      ],
-      "duration_ms": 189151,
-      "name": "DJ In The Car",
-      "url": "https://open.spotify.com/track/7w4yrrz2HMkqjhDrLjA4yy"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1771,6 +1755,22 @@
       "duration_ms": 192000,
       "name": "THINK OF ME",
       "url": "https://open.spotify.com/track/0965uWewv2fb21pL7dt3oR"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Good Movie",
+        "url": "https://open.spotify.com/album/2REajdJ8KOaR8Vm2Zx8UXM"
+      },
+      "artists": [
+        {
+          "name": "Pi\u2019erre Bourne",
+          "url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
+        }
+      ],
+      "duration_ms": 189151,
+      "name": "DJ In The Car",
+      "url": "https://open.spotify.com/track/7w4yrrz2HMkqjhDrLjA4yy"
     },
     {
       "added_at": "2024-08-23 04:00:00",

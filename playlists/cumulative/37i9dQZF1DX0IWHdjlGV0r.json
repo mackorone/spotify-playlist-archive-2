@@ -1567,6 +1567,24 @@
     },
     {
       "album": {
+        "name": "MILLION DOLLAR BABE",
+        "url": "https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108648,
+      "name": "CUORE IN OFF",
+      "url": "https://open.spotify.com/track/6mwHTWc7bdlBsiR6s6QFGl"
+    },
+    {
+      "album": {
         "name": "CUORI SPEZZATI",
         "url": "https://open.spotify.com/album/5GWvi5nrEzRBunptW3Yv6K"
       },
@@ -1974,7 +1992,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 193500,
       "name": "Ferma A Guardare",
       "url": "https://open.spotify.com/track/1zVUP6UPrzxZEYLXOl1AV1"
@@ -4646,7 +4664,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 184186,
       "name": "SOGNI SPORCHI",
       "url": "https://open.spotify.com/track/0TF3HpySQc7lV4tleKPFAY"
@@ -5486,6 +5504,24 @@
       "duration_ms": 190352,
       "name": "Utopia (feat. Gemitaiz)",
       "url": "https://open.spotify.com/track/1YOiFqx9ON69FAQu2EZ1DP"
+    },
+    {
+      "album": {
+        "name": "MILLION DOLLAR BABE",
+        "url": "https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151363,
+      "name": "VELENO",
+      "url": "https://open.spotify.com/track/3bFUhrjNmC3179e2R5lqjp"
     },
     {
       "album": {

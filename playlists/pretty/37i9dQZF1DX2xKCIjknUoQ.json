@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 57993,
+  "num_followers": 58001,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "The Geeks and the Jerkin' Socks",
-        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
-      },
-      "artists": [
-        {
-          "name": "Shaka Ponk",
-          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "I'm Picky",
-      "url": "https://open.spotify.com/track/4LIN465EXxcZwgGsQsG0TC"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "Pursuit",
         "url": "https://open.spotify.com/album/4ML88AyBHneIkmTHJunWCC"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 211453,
       "name": "Let\u2019s Go",
       "url": "https://open.spotify.com/track/1XsN9Flu0VvZpXmrkBtZGt"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "The Geeks and the Jerkin' Socks",
+        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "I'm Picky",
+      "url": "https://open.spotify.com/track/4LIN465EXxcZwgGsQsG0TC"
     },
     {
       "added_at": "2025-11-13 09:07:41",
@@ -139,22 +139,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "The Geeks and the Jerkin' Socks",
-        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
-      },
-      "artists": [
-        {
-          "name": "Shaka Ponk",
-          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
-        }
-      ],
-      "duration_ms": 207132,
-      "name": "My Name Is Stain",
-      "url": "https://open.spotify.com/track/5CGoooF86pFWxjbkIfl5q4"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "La Ouache",
         "url": "https://open.spotify.com/album/3Jc7BaQeEeWq1KwDXmbS8g"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 237293,
       "name": "Emma",
       "url": "https://open.spotify.com/track/1XIuwgrZsB0FQpad2ZMVYa"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "The Geeks and the Jerkin' Socks",
+        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        }
+      ],
+      "duration_ms": 207132,
+      "name": "My Name Is Stain",
+      "url": "https://open.spotify.com/track/5CGoooF86pFWxjbkIfl5q4"
     },
     {
       "added_at": "2025-11-13 09:07:41",

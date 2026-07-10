@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 9580,
+  "num_followers": 9581,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAABrLjK7Lkg9hAqvL1p+lZII",
+  "snapshot_id": "ak2TAAAAAABcRvn18e9f0G7EdFyZnfiL",
   "tracks": [
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trap The Fato Deluxe",
-        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
-      },
-      "artists": [
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 209245,
-      "name": "\u00d3PIO",
-      "url": "https://open.spotify.com/track/59XgYFAlA8GyjOAaNQF29E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At\u00e9 aqui, Slip nos ajudou",
         "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 140108,
       "name": "Eu Gosto",
       "url": "https://open.spotify.com/track/7iCtr0g6SX8otCdG0GrTx2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trap The Fato Deluxe",
+        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 209245,
+      "name": "\u00d3PIO",
+      "url": "https://open.spotify.com/track/59XgYFAlA8GyjOAaNQF29E"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "At\u00e9 aqui, Slip nos ajudou",
+        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Vai, Slip",
+      "url": "https://open.spotify.com/track/2Orq5fw09wNJCtvNVqIfLI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slipmami On The Radar Freestyle Pt. 2",
         "url": "https://open.spotify.com/album/6xZSYwLGujgmf7kHIUzNhM"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 160645,
       "name": "Slipmami On The Radar Freestyle Pt. 2",
       "url": "https://open.spotify.com/track/5BZhhKdfLRCeZMD2rrGgb5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At\u00e9 aqui, Slip nos ajudou",
-        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Vai, Slip",
-      "url": "https://open.spotify.com/track/2Orq5fw09wNJCtvNVqIfLI"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gostosa Posturada",
-        "url": "https://open.spotify.com/album/0wAogaPUucF4zLQUUzW2Je"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Rafu",
-          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "Rainha do Vinho",
-      "url": "https://open.spotify.com/track/45uCTNJhmdGkU36vKPTXjX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At\u00e9 aqui, Slip nos ajudou",
         "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 90000,
       "name": "Velotrol",
       "url": "https://open.spotify.com/track/6ufP9EO1fy6LOlwfKLvD43"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gostosa Posturada",
+        "url": "https://open.spotify.com/album/0wAogaPUucF4zLQUUzW2Je"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Rafu",
+          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "Rainha do Vinho",
+      "url": "https://open.spotify.com/track/45uCTNJhmdGkU36vKPTXjX"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "At\u00e9 aqui, Slip nos ajudou",
+        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 174550,
+      "name": "N\u00e3o Gosto",
+      "url": "https://open.spotify.com/track/23dDG4rg0mZT3YwKOTgF8T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DI\u00c1RIO DE UMA GAROTA SUBVERSIVA",
         "url": "https://open.spotify.com/album/3Fzo07bEdiOfM1f3FX6XCF"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 141742,
       "name": "HISTERIA",
       "url": "https://open.spotify.com/track/4SWO4FtUOn5N34iyT4cr2M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At\u00e9 aqui, Slip nos ajudou",
-        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 174550,
-      "name": "N\u00e3o Gosto",
-      "url": "https://open.spotify.com/track/23dDG4rg0mZT3YwKOTgF8T"
     },
     {
       "added_at": null,
@@ -1011,26 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trem Bala",
-        "url": "https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e"
-      },
-      "artists": [
-        {
-          "name": "DJ Leonardo Rafael",
-          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 136624,
-      "name": "Trem Bala",
-      "url": "https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MONTE RUSH+",
         "url": "https://open.spotify.com/album/3Diovb4bH559HziAhlI21P"
       },
@@ -1091,6 +1071,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cria de Caxias",
+        "url": "https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 127866,
+      "name": "cria de caxias",
+      "url": "https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pra Voc\u00ea Ficar a Vontade",
         "url": "https://open.spotify.com/album/1KkbKj4wDO6f6ZNSpE6j0c"
       },
@@ -1115,22 +1115,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cria de Caxias",
-        "url": "https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4"
+        "name": "Trem Bala",
+        "url": "https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e"
       },
       "artists": [
         {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+          "name": "DJ Leonardo Rafael",
+          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
         },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         }
       ],
-      "duration_ms": 127866,
-      "name": "cria de caxias",
-      "url": "https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4"
+      "duration_ms": 136624,
+      "name": "Trem Bala",
+      "url": "https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 260973,
+  "num_followers": 260983,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -231,18 +231,22 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
-        "name": "the way things go",
-        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
+        "name": "A Night To Remember",
+        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
       },
       "artists": [
         {
           "name": "beabadoobee",
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 187800,
-      "name": "the way things go",
-      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
+      "duration_ms": 233388,
+      "name": "A Night To Remember",
+      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -311,22 +315,18 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
-        "name": "A Night To Remember",
-        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
+        "name": "the way things go",
+        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
       },
       "artists": [
         {
           "name": "beabadoobee",
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        },
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 233388,
-      "name": "A Night To Remember",
-      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
+      "duration_ms": 187800,
+      "name": "the way things go",
+      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -923,30 +923,6 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
-        "name": "TYPHOON",
-        "url": "https://open.spotify.com/album/53SL5EIuJdUG7EBF6u2rdv"
-      },
-      "artists": [
-        {
-          "name": "Luke Chiang",
-          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
-        },
-        {
-          "name": "Jesse Barrera",
-          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
-        },
-        {
-          "name": "Albert Posis",
-          "url": "https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn"
-        }
-      ],
-      "duration_ms": 196222,
-      "name": "what can i do?",
-      "url": "https://open.spotify.com/track/3ds8Ve7yEkWcwHSnVlmqHV"
-    },
-    {
-      "added_at": "2026-03-19 19:58:12",
-      "album": {
         "name": "Dancing in the Dark",
         "url": "https://open.spotify.com/album/7rOMHjsj1NGX26xag6rOro"
       },
@@ -967,6 +943,30 @@
       "duration_ms": 198640,
       "name": "Dancing in the Dark",
       "url": "https://open.spotify.com/track/7BubCfFAY8usLpIubuUxXN"
+    },
+    {
+      "added_at": "2026-03-19 19:58:12",
+      "album": {
+        "name": "TYPHOON",
+        "url": "https://open.spotify.com/album/53SL5EIuJdUG7EBF6u2rdv"
+      },
+      "artists": [
+        {
+          "name": "Luke Chiang",
+          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
+        },
+        {
+          "name": "Jesse Barrera",
+          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
+        },
+        {
+          "name": "Albert Posis",
+          "url": "https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn"
+        }
+      ],
+      "duration_ms": 196222,
+      "name": "what can i do?",
+      "url": "https://open.spotify.com/track/3ds8Ve7yEkWcwHSnVlmqHV"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
+        "name": "Too Much Of A Good Thing",
+        "url": "https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 171626,
+      "name": "Too Much Of A Good Thing",
+      "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
+    },
+    {
+      "added_at": "2026-03-19 19:58:12",
+      "album": {
         "name": "Sweet Nothings (Chapter 2)",
         "url": "https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj"
       },
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
-        "name": "Too Much Of A Good Thing",
-        "url": "https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 171626,
-      "name": "Too Much Of A Good Thing",
-      "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
-    },
-    {
-      "added_at": "2026-03-19 19:58:12",
-      "album": {
         "name": "dishonesty",
         "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
       },
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
-        "name": "sad face :(",
-        "url": "https://open.spotify.com/album/346wFaSt5f7TfNJfXMKE78"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "no na",
-          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
-        }
-      ],
-      "duration_ms": 208051,
-      "name": "sad face :(",
-      "url": "https://open.spotify.com/track/3St17urGIaCTW6PD0rgyI5"
-    },
-    {
-      "added_at": "2026-03-19 19:58:12",
-      "album": {
         "name": "the asia tour: blooming season ep",
         "url": "https://open.spotify.com/album/5QPN39fT4yD5joAeXKWQam"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 121795,
       "name": "colors",
       "url": "https://open.spotify.com/track/0pFpRWGfYcyls9K43l0rYo"
+    },
+    {
+      "added_at": "2026-03-19 19:58:12",
+      "album": {
+        "name": "sad face :(",
+        "url": "https://open.spotify.com/album/346wFaSt5f7TfNJfXMKE78"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "duration_ms": 208051,
+      "name": "sad face :(",
+      "url": "https://open.spotify.com/track/3St17urGIaCTW6PD0rgyI5"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
-        "name": "KOLORCOASTER",
-        "url": "https://open.spotify.com/album/1LbK9faGw5Fn3WiX4NoA5a"
-      },
-      "artists": [
-        {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
-        }
-      ],
-      "duration_ms": 166595,
-      "name": "INDIGO (with u)",
-      "url": "https://open.spotify.com/track/1X9BHY12mpgKejetEtMYrx"
-    },
-    {
-      "added_at": "2026-03-19 19:58:12",
-      "album": {
         "name": "Sexy Goodbye",
         "url": "https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
-        "name": "savior",
-        "url": "https://open.spotify.com/album/2JP5Mp4SKK352Jeb4mLrUa"
+        "name": "KOLORCOASTER",
+        "url": "https://open.spotify.com/album/1LbK9faGw5Fn3WiX4NoA5a"
       },
       "artists": [
         {
-          "name": "Rol3ert",
-          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
         }
       ],
-      "duration_ms": 163559,
-      "name": "savior",
-      "url": "https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0"
+      "duration_ms": 166595,
+      "name": "INDIGO (with u)",
+      "url": "https://open.spotify.com/track/1X9BHY12mpgKejetEtMYrx"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -1379,6 +1363,22 @@
       "duration_ms": 199380,
       "name": "i hope my cat loves me",
       "url": "https://open.spotify.com/track/3t586kGSELrw77TZvHSvIp"
+    },
+    {
+      "added_at": "2026-03-19 19:58:12",
+      "album": {
+        "name": "savior",
+        "url": "https://open.spotify.com/album/2JP5Mp4SKK352Jeb4mLrUa"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "duration_ms": 163559,
+      "name": "savior",
+      "url": "https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
-        "name": "Ohaguro",
-        "url": "https://open.spotify.com/album/34WjpX08hejkOMciVh9JBI"
-      },
-      "artists": [
-        {
-          "name": "luv",
-          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Ohaguro",
-      "url": "https://open.spotify.com/track/7AfgpoIGH0QhPBBc5tmlGc"
-    },
-    {
-      "added_at": "2026-03-19 19:58:12",
-      "album": {
         "name": "Dancing with my phone",
         "url": "https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 158312,
       "name": "my love my love my love",
       "url": "https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP"
+    },
+    {
+      "added_at": "2026-03-19 19:58:12",
+      "album": {
+        "name": "Ohaguro",
+        "url": "https://open.spotify.com/album/34WjpX08hejkOMciVh9JBI"
+      },
+      "artists": [
+        {
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Ohaguro",
+      "url": "https://open.spotify.com/track/7AfgpoIGH0QhPBBc5tmlGc"
     },
     {
       "added_at": "2026-03-19 19:58:12",

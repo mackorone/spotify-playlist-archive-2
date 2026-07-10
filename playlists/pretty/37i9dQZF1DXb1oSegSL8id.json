@@ -1,6 +1,6 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 863352,
+  "num_followers": 863360,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "N\u00e3o Quero Saber de Ti Ti Ti",
-        "url": "https://open.spotify.com/album/4nu2sb4YM2YA8AjsS5Duc2"
-      },
-      "artists": [
-        {
-          "name": "Molejo",
-          "url": "https://open.spotify.com/artist/7yl05GUXqcUA3mfpowr1fe"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Cilada",
-      "url": "https://open.spotify.com/track/2CfYBDMvXBKxIqBOUjAvfU"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
         "name": "Cheirosa (Ao Vivo)",
         "url": "https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 181930,
       "name": "Cheirosa - Ao Vivo",
       "url": "https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
+        "name": "N\u00e3o Quero Saber de Ti Ti Ti",
+        "url": "https://open.spotify.com/album/4nu2sb4YM2YA8AjsS5Duc2"
+      },
+      "artists": [
+        {
+          "name": "Molejo",
+          "url": "https://open.spotify.com/artist/7yl05GUXqcUA3mfpowr1fe"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Cilada",
+      "url": "https://open.spotify.com/track/2CfYBDMvXBKxIqBOUjAvfU"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Maxximum - S\u00f3 Pra Contrariar",
-        "url": "https://open.spotify.com/album/6Nm5DiOuT2rp5b8ahF5Yz4"
-      },
-      "artists": [
-        {
-          "name": "S\u00f3 Pra Contrariar",
-          "url": "https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1"
-        }
-      ],
-      "duration_ms": 240533,
-      "name": "Que Se Chama Amor",
-      "url": "https://open.spotify.com/track/3q8U4Q7zDxLPSsx8upRq1Z"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
         "name": "Debaixo Do Meu Telhado",
         "url": "https://open.spotify.com/album/3nK8BGJDIxuIN1rhsOX3mg"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 183413,
       "name": "Foi P\u00e1 Pum",
       "url": "https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
+        "name": "Maxximum - S\u00f3 Pra Contrariar",
+        "url": "https://open.spotify.com/album/6Nm5DiOuT2rp5b8ahF5Yz4"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3 Pra Contrariar",
+          "url": "https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1"
+        }
+      ],
+      "duration_ms": 240533,
+      "name": "Que Se Chama Amor",
+      "url": "https://open.spotify.com/track/3q8U4Q7zDxLPSsx8upRq1Z"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -1259,18 +1259,22 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Adorei",
-        "url": "https://open.spotify.com/album/2jNeKASJ5d7cZ2NNIVLqwb"
+        "name": "Aqui e Agora, Vol.1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf"
       },
       "artists": [
         {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        },
+        {
+          "name": "Matheuzinho",
+          "url": "https://open.spotify.com/artist/1JQLCxphQYlnbokiEvfB8o"
         }
       ],
-      "duration_ms": 179452,
-      "name": "Adorei",
-      "url": "https://open.spotify.com/track/6rfNbeEGCh8M5AAj879g0r"
+      "duration_ms": 183695,
+      "name": "S\u00f3 de Sacanagem - Ao Vivo",
+      "url": "https://open.spotify.com/track/40zJaB3z53PGaxIkYyieBP"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -1295,22 +1299,18 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Aqui e Agora, Vol.1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf"
+        "name": "Adorei",
+        "url": "https://open.spotify.com/album/2jNeKASJ5d7cZ2NNIVLqwb"
       },
       "artists": [
         {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
-        },
-        {
-          "name": "Matheuzinho",
-          "url": "https://open.spotify.com/artist/1JQLCxphQYlnbokiEvfB8o"
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
         }
       ],
-      "duration_ms": 183695,
-      "name": "S\u00f3 de Sacanagem - Ao Vivo",
-      "url": "https://open.spotify.com/track/40zJaB3z53PGaxIkYyieBP"
+      "duration_ms": 179452,
+      "name": "Adorei",
+      "url": "https://open.spotify.com/track/6rfNbeEGCh8M5AAj879g0r"
     },
     {
       "added_at": "2026-06-22 17:28:18",

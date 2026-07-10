@@ -1,12 +1,12 @@
 {
   "description": "This is Peggy Gou. The essential tracks, all in one playlist.",
-  "num_followers": 60649,
+  "num_followers": 60659,
   "original_name": "This Is Peggy Gou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAADWlMEnXoeLH/ST2rkl8RQm",
+  "snapshot_id": "ak2TAAAAAABh136/4lCGAjTc5lrQfkbt",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1+1=11",
-        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 190644,
-      "name": "1+1=11 - Edit",
-      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Hear You",
         "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 233917,
       "name": "All That",
       "url": "https://open.spotify.com/track/2iMuxgCe0aR2DYeXkDl43u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1+1=11",
+        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 190644,
+      "name": "1+1=11 - Edit",
+      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Day Without Yesterday / Six O Six",
-        "url": "https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 339379,
-      "name": "Day Without Yesterday",
-      "url": "https://open.spotify.com/track/0OhEIJc0H8ZbRtQbeVBpaz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Hear You",
         "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 221666,
       "name": "Purple Horizon",
       "url": "https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Day Without Yesterday / Six O Six",
+        "url": "https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 339379,
+      "name": "Day Without Yesterday",
+      "url": "https://open.spotify.com/track/0OhEIJc0H8ZbRtQbeVBpaz"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Hear You",
+        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 117236,
+      "name": "Your Art",
+      "url": "https://open.spotify.com/track/3xSdEXX2d1A02U1jaLmGwl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jigoo (Radio Edit)",
         "url": "https://open.spotify.com/album/6juwIAOIKkN7D9JavrZnSf"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 243066,
       "name": "Jigoo - Radio Edit",
       "url": "https://open.spotify.com/track/15bJAVsKK8osEoMzYkQB1o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Hear You",
-        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 117236,
-      "name": "Your Art",
-      "url": "https://open.spotify.com/track/3xSdEXX2d1A02U1jaLmGwl"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Once",
-        "url": "https://open.spotify.com/album/6iPrb23tXiLrKCCmiAqVTA"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 416014,
-      "name": "Hundres Times",
-      "url": "https://open.spotify.com/track/26oSDKypk0yTVUlCHi5B73"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Hear You",
         "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
       },
@@ -583,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travelling Without Arriving",
-        "url": "https://open.spotify.com/album/6deWiLAKj3Zpb85JrFbvlO"
+        "name": "Once",
+        "url": "https://open.spotify.com/album/6iPrb23tXiLrKCCmiAqVTA"
       },
       "artists": [
         {
@@ -592,9 +576,9 @@
           "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 357883,
-      "name": "Travelling Without Arriving",
-      "url": "https://open.spotify.com/track/4FiadIuhjYbjq5jkEwCOFF"
+      "duration_ms": 416014,
+      "name": "Hundres Times",
+      "url": "https://open.spotify.com/track/26oSDKypk0yTVUlCHi5B73"
     },
     {
       "added_at": null,
@@ -615,6 +599,22 @@
       "duration_ms": 387226,
       "name": "When Round, They Go - Terekke Remix",
       "url": "https://open.spotify.com/track/2jcLXice4V8TNsvwE76498"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Travelling Without Arriving",
+        "url": "https://open.spotify.com/album/6deWiLAKj3Zpb85JrFbvlO"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 357883,
+      "name": "Travelling Without Arriving",
+      "url": "https://open.spotify.com/track/4FiadIuhjYbjq5jkEwCOFF"
     },
     {
       "added_at": null,

@@ -1,13 +1,37 @@
 {
-  "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 70580,
+  "description": "Check out the latest hits from Sandalwood!\nCover : Ayogya 2",
+  "num_followers": 70586,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO24T/zApqrPDrTsf+d6asAQ35e/",
+  "snapshot_id": "AAAAAAydFDNJ6+Kz4mVbKu/JDHaORa+U",
   "tracks": [
+    {
+      "added_at": "2026-07-09 07:08:49",
+      "album": {
+        "name": "Anna Bandre (From \"Ayogya 2\")",
+        "url": "https://open.spotify.com/album/4EpjeLbMAahVusOxjNALip"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Chethan Kumar",
+          "url": "https://open.spotify.com/artist/3DsGNNhEpv3RwfFPkcEEfY"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        }
+      ],
+      "duration_ms": 290586,
+      "name": "Anna Bandre (From \"Ayogya 2\")",
+      "url": "https://open.spotify.com/track/1gfbRYuRfRyDH8ye3o1F3I"
+    },
     {
       "added_at": "2026-07-03 16:54:26",
       "album": {
@@ -77,6 +101,58 @@
       "url": "https://open.spotify.com/track/1zyvE0Ik0EPVZPbG9jk7mt"
     },
     {
+      "added_at": "2026-06-22 16:20:26",
+      "album": {
+        "name": "Mudd Muddu Putlakshmi (From \"Ayogya 2\")",
+        "url": "https://open.spotify.com/album/3iRYIALqe75nSupDOtZJ1o"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Chethan Kumar",
+          "url": "https://open.spotify.com/artist/3DsGNNhEpv3RwfFPkcEEfY"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Prithwi Bhat",
+          "url": "https://open.spotify.com/artist/3oHfvwbDQywYV2Kh2Cvr21"
+        }
+      ],
+      "duration_ms": 294880,
+      "name": "Mudd Muddu Putlakshmi (From \"Ayogya 2\")",
+      "url": "https://open.spotify.com/track/0uc6L16PhCad1SlwHTdolj"
+    },
+    {
+      "added_at": "2026-07-03 16:54:26",
+      "album": {
+        "name": "Hutti Banda Hulibeeranaagi (From \"Hulibeera\")",
+        "url": "https://open.spotify.com/album/7aQMtPcsd25rQIwHBMt85X"
+      },
+      "artists": [
+        {
+          "name": "Sangeetha Katti",
+          "url": "https://open.spotify.com/artist/20K7c4KKuOy98zaujRNNTg"
+        },
+        {
+          "name": "Veer Samarth",
+          "url": "https://open.spotify.com/artist/4y7yOpyqmE7aXMngtperyb"
+        },
+        {
+          "name": "Shivu Bhergi",
+          "url": "https://open.spotify.com/artist/41pdNa7aFPAwxchRhL4z8Z"
+        }
+      ],
+      "duration_ms": 238736,
+      "name": "Hutti Banda Hulibeeranaagi (From \"Hulibeera\")",
+      "url": "https://open.spotify.com/track/2CsBS4Ra9Sy70GZJrgbMC8"
+    },
+    {
       "added_at": "2026-07-03 16:54:26",
       "album": {
         "name": "Preethi Kathe",
@@ -91,26 +167,6 @@
       "duration_ms": 180000,
       "name": "Preethi Kathe",
       "url": "https://open.spotify.com/track/1XQsVRqsqtmeh8YfmzaNpa"
-    },
-    {
-      "added_at": "2026-03-27 11:59:35",
-      "album": {
-        "name": "Goggayya",
-        "url": "https://open.spotify.com/album/5sgugcWlxWzj0VnTDeBElR"
-      },
-      "artists": [
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        },
-        {
-          "name": "Meghana Haliyal",
-          "url": "https://open.spotify.com/artist/2IVFHDXsOnIyrfA2BQ4f9i"
-        }
-      ],
-      "duration_ms": 276361,
-      "name": "Nanna Muddu Bombe",
-      "url": "https://open.spotify.com/track/6JQMdl0IhBHHNUVLnHIPF7"
     },
     {
       "added_at": "2026-03-02 07:46:32",
@@ -181,28 +237,20 @@
       "url": "https://open.spotify.com/track/7edV4z3OYgI5zMRKGpyR75"
     },
     {
-      "added_at": "2026-07-03 16:54:26",
+      "added_at": "2026-07-09 07:08:49",
       "album": {
-        "name": "Hutti Banda Hulibeeranaagi (From \"Hulibeera\")",
-        "url": "https://open.spotify.com/album/7aQMtPcsd25rQIwHBMt85X"
+        "name": "Baana Saradaara",
+        "url": "https://open.spotify.com/album/1IaSBrlj4CNwJVkT7prKUf"
       },
       "artists": [
         {
-          "name": "Sangeetha Katti",
-          "url": "https://open.spotify.com/artist/20K7c4KKuOy98zaujRNNTg"
-        },
-        {
-          "name": "Veer Samarth",
-          "url": "https://open.spotify.com/artist/4y7yOpyqmE7aXMngtperyb"
-        },
-        {
-          "name": "Shivu Bhergi",
-          "url": "https://open.spotify.com/artist/41pdNa7aFPAwxchRhL4z8Z"
+          "name": "Sagar Simha",
+          "url": "https://open.spotify.com/artist/5lAKHGEXwmNfVvO6nIn9zG"
         }
       ],
-      "duration_ms": 238736,
-      "name": "Hutti Banda Hulibeeranaagi (From \"Hulibeera\")",
-      "url": "https://open.spotify.com/track/2CsBS4Ra9Sy70GZJrgbMC8"
+      "duration_ms": 423936,
+      "name": "Baana Saradaara",
+      "url": "https://open.spotify.com/track/1BkD7IUMvqIUkgGe4uvtwf"
     },
     {
       "added_at": "2026-06-30 06:01:01",
@@ -467,34 +515,6 @@
       "duration_ms": 237689,
       "name": "Aaraaro Ra Ra Ri Ro (From \"Jolly\")",
       "url": "https://open.spotify.com/track/1csXGWV0jrrcrTWv7b2UHd"
-    },
-    {
-      "added_at": "2026-06-22 16:20:26",
-      "album": {
-        "name": "Mudd Muddu Putlakshmi (From \"Ayogya 2\")",
-        "url": "https://open.spotify.com/album/3iRYIALqe75nSupDOtZJ1o"
-      },
-      "artists": [
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        },
-        {
-          "name": "Chethan Kumar",
-          "url": "https://open.spotify.com/artist/3DsGNNhEpv3RwfFPkcEEfY"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Prithwi Bhat",
-          "url": "https://open.spotify.com/artist/3oHfvwbDQywYV2Kh2Cvr21"
-        }
-      ],
-      "duration_ms": 294880,
-      "name": "Mudd Muddu Putlakshmi (From \"Ayogya 2\")",
-      "url": "https://open.spotify.com/track/0uc6L16PhCad1SlwHTdolj"
     },
     {
       "added_at": "2026-05-22 07:29:22",
@@ -1787,22 +1807,6 @@
       "duration_ms": 130299,
       "name": "Maga Maccha Geleya (From \"Loves U\")",
       "url": "https://open.spotify.com/track/1Zd5Fe6ObypImpASeK7FR7"
-    },
-    {
-      "added_at": "2026-03-27 12:00:16",
-      "album": {
-        "name": "Goggayya",
-        "url": "https://open.spotify.com/album/5sgugcWlxWzj0VnTDeBElR"
-      },
-      "artists": [
-        {
-          "name": "Kailash Kher",
-          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
-        }
-      ],
-      "duration_ms": 257359,
-      "name": "Nee Hedarabeda Kanda",
-      "url": "https://open.spotify.com/track/10la6z1fQ3tpqMTKapz8Yf"
     }
   ],
   "unique_name": "Latest Kannada",

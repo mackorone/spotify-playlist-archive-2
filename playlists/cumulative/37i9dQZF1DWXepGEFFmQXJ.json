@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's country crop. Cover: Cody Johnson",
+  "description": "The cream of today's country crop. Cover: Riley Green",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -2103,6 +2103,24 @@
     },
     {
       "album": {
+        "name": "Better Love Next Time",
+        "url": "https://open.spotify.com/album/4JIt7ovI1ZDOgetIFs7NXh"
+      },
+      "artists": [
+        {
+          "name": "Lauren Watkins",
+          "url": "https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183933,
+      "name": "Better Love Next Time",
+      "url": "https://open.spotify.com/track/10eoW1KhGDTJdgNuW56NEv"
+    },
+    {
+      "album": {
         "name": "Better Me For You (Brown Eyes)",
         "url": "https://open.spotify.com/album/6WV1OV7B6aMpbDgorCvnqd"
       },
@@ -2858,7 +2876,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 199080,
       "name": "Bottom Of Your Boots",
       "url": "https://open.spotify.com/track/0hv6276QhpMDnVJIMxEWPH"
@@ -5459,6 +5477,24 @@
     },
     {
       "album": {
+        "name": "Dirt Floor",
+        "url": "https://open.spotify.com/album/5B3igccmcycyYZ4VxAxHzm"
+      },
+      "artists": [
+        {
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203269,
+      "name": "Dirt Floor",
+      "url": "https://open.spotify.com/track/6ijzG4bmEpvdDEmJCGN0jr"
+    },
+    {
+      "album": {
         "name": "Dirt Road Down",
         "url": "https://open.spotify.com/album/0It8BS2aYEgexa65TJbp18"
       },
@@ -7509,6 +7545,28 @@
     },
     {
       "album": {
+        "name": "Go Again",
+        "url": "https://open.spotify.com/album/1DqoGBZHjDONQkSs5p1q2g"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Hannah McFarland",
+          "url": "https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240166,
+      "name": "Go Again",
+      "url": "https://open.spotify.com/track/6TLJax0EYimCJxCF1Zg69e"
+    },
+    {
+      "album": {
         "name": "Go Around",
         "url": "https://open.spotify.com/album/6xUvrvbSTXnEIRPKOGnhJh"
       },
@@ -8640,7 +8698,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 187626,
       "name": "Heartbreakaholic",
       "url": "https://open.spotify.com/track/43UbMvCw1JOW1mYguzrgkb"
@@ -9114,6 +9172,24 @@
       "duration_ms": 212470,
       "name": "Highway Queen",
       "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
+    },
+    {
+      "album": {
+        "name": "Hits Me",
+        "url": "https://open.spotify.com/album/53KBpFueG6qOFrR9RqEemi"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190157,
+      "name": "Hits Me",
+      "url": "https://open.spotify.com/track/7hbsfi6jiydEHGmXSQWA2m"
     },
     {
       "album": {
@@ -16706,7 +16782,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 158973,
       "name": "Running",
       "url": "https://open.spotify.com/track/6AOJuGF8ySvVY5uBsRcd8a"
@@ -18244,7 +18320,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 172491,
       "name": "Songs About Us",
       "url": "https://open.spotify.com/track/7Mt9l5xWp9u5eP0KOfF7Ss"
@@ -19996,7 +20072,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 228837,
       "name": "Think As You Drunk",
       "url": "https://open.spotify.com/track/20FhqUEadmPYCrJYzeyPSx"
@@ -22104,6 +22180,24 @@
       "duration_ms": 204000,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/6G5tFKEf5pcWwV4frnavIQ"
+    },
+    {
+      "album": {
+        "name": "Who Told You That",
+        "url": "https://open.spotify.com/album/7MHzrc64ZU0SvegIKDSFzQ"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202160,
+      "name": "Who Told You That",
+      "url": "https://open.spotify.com/track/2DZKhX2k3XZqQ5h5jwJyGh"
     },
     {
       "album": {

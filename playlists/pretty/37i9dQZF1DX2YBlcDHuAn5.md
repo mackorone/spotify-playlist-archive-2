@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,910 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,909 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 42 | [The Fire Inside](https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [The Fire Inside](https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp) | 3:35 |
 | 43 | [Good As Gone](https://open.spotify.com/track/3Q7e5lPNK6PJ5PqpqczWnf) | [Koen Vael](https://open.spotify.com/artist/3vLt2bP1seJHs2RGSSZ0jx) | [Good As Gone](https://open.spotify.com/album/5L7K0GaNwfTqHG5XRYjK50) | 3:45 |
 | 44 | [Wealthiest Man](https://open.spotify.com/track/0m5RI0qThyYnZ3QX9WQk2O) | [Erik Lindeman](https://open.spotify.com/artist/3n3KUrOk92Xm3ks9WYtrjH) | [Wealthiest Man](https://open.spotify.com/album/1SW1cbceHsjMJjHvyniK0s) | 4:53 |
-| 45 | [Nashville Dreaming](https://open.spotify.com/track/5kGwMLgKd2INKw2pIA52f6) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [Jan Tekstra](https://open.spotify.com/artist/1JRKQK9beR7EOaKlCetzTn) | [Nashville Dreaming](https://open.spotify.com/album/6G9a3scmgICG59VxLBj82P) | 3:54 |
-| 46 | [Good Riddance & Goodbye](https://open.spotify.com/track/5qah0qyBq6iG8sRjtfPu7e) | [INA ROSE](https://open.spotify.com/artist/19ehJM5qKnIvJ1KXOnKddA) | [Good Riddance & Goodbye](https://open.spotify.com/album/4fJjNjrXI8Kg06UwA30ImI) | 3:07 |
+| 45 | [Good Riddance & Goodbye](https://open.spotify.com/track/5qah0qyBq6iG8sRjtfPu7e) | [INA ROSE](https://open.spotify.com/artist/19ehJM5qKnIvJ1KXOnKddA) | [Good Riddance & Goodbye](https://open.spotify.com/album/4fJjNjrXI8Kg06UwA30ImI) | 3:07 |
+| 46 | [Nashville Dreaming](https://open.spotify.com/track/5kGwMLgKd2INKw2pIA52f6) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [Jan Tekstra](https://open.spotify.com/artist/1JRKQK9beR7EOaKlCetzTn) | [Nashville Dreaming](https://open.spotify.com/album/6G9a3scmgICG59VxLBj82P) | 3:54 |
 | 47 | [Buckle Down](https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY) | [Melanie Ryan](https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4) | [Buckle Down](https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2) | 2:46 |
 | 48 | [Steady On The Gun](https://open.spotify.com/track/76ruF6lW2FdHfLALjrhNh1) | [Koen Vael](https://open.spotify.com/artist/3vLt2bP1seJHs2RGSSZ0jx) | [Steady On The Gun](https://open.spotify.com/album/67QhahyU7UgHBIbmNMQ2pd) | 3:30 |
 | 49 | [For Tomorrow's Sake](https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [For Tomorrow's Sake](https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi) | 3:24 |

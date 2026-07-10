@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-617 songs - 1 day 12 hr 45 min
+618 songs - 1 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Douceur du mois d'aout](https://open.spotify.com/track/1MvELfNVnESM9z5JONi9qI) | [Jeando](https://open.spotify.com/artist/0R5yr84EzZRFxrF4GFloAO) | [Toutes les étoiles me l'ont dit](https://open.spotify.com/album/4m6vgWkQ14w9EeYM2UXzXi) | 3:06 | 2021-01-03\* | 2021-01-25 |
 | [Doux](https://open.spotify.com/track/1ShsVA7nrhUVGFWXWU3M8T) | [Mariko](https://open.spotify.com/artist/4R9sMVAPeFyuPxtK2mBY0V) | [La fin du printemps](https://open.spotify.com/album/2r332ksd9Zuwv1cu5c2eQB) | 4:07 | 2021-01-03\* | 2022-07-25 |
 | [Doux](https://open.spotify.com/track/5JPj0yjiqe7B3kzGYN900F) | [Sarah Villeneuve](https://open.spotify.com/artist/2KKuXLeQXtuOKKiWP1xdRE) | [Doux](https://open.spotify.com/album/7wBkEWvGeAvdQBeVV5uG4o) | 4:00 | 2022-04-01 | 2022-06-28 |
+| [Down To The Wire](https://open.spotify.com/track/0DagKFYImY7OibkxGqaG5E) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [Down To The Wire](https://open.spotify.com/album/1NN37cdEy0sKhZVn7pjRPQ) | 2:49 | 2026-07-03 |  |
 | [Du temps](https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Du temps](https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno) | 3:42 | 2023-10-06 | 2026-07-04 |
 | [Désordre insensé](https://open.spotify.com/track/0LG9F3iWjlzR6q6RpbyJNS) | [Désirée](https://open.spotify.com/artist/7igTH5z3uoVbKRvQ3M10fG) | [Les souvenirs flous](https://open.spotify.com/album/2qiD7xcB164I74T1fzHb6c) | 3:30 | 2023-02-17 | 2023-03-12 |
 | [Easy](https://open.spotify.com/track/5jS4a8pDTk5rHG8eQOPSGt) | [Bella Galasso](https://open.spotify.com/artist/0xOHwnESa9ODHYNWMLgZCI) | [Easy](https://open.spotify.com/album/2NH9ifK4WaQoA2SXmFrZlG) | 3:55 | 2026-04-17 | 2026-05-25 |
@@ -309,7 +310,7 @@
 | [Les hyènes](https://open.spotify.com/track/2gh61qxVfhoNJP9OJhge5j) | [vice E roi](https://open.spotify.com/artist/6SmN2oQRKkyUlhqg3bOUcz) | [Les hyènes](https://open.spotify.com/album/5TUmOqdJH0FacyZceljNhe) | 3:19 | 2021-01-03\* | 2021-05-08 |
 | [Les joailliers \(piano, voix\)](https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Les joailliers \(piano, voix\)](https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o) | 3:17 | 2021-06-06 |  |
 | [Les longues migrations](https://open.spotify.com/track/6NB5YYtXAzfZOu2vTflAHA) | [Foisy](https://open.spotify.com/artist/6iESQOGvGZKWF6bRd3hlRt) | [Mémoires](https://open.spotify.com/album/6iiDJfzBCgLaQmJf8vHcfq) | 3:52 | 2021-01-03\* | 2022-07-27 |
-| [Les mots que tu chantes](https://open.spotify.com/track/62pMWesW7OeH2xZACewgyX) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow), [John Nathaniel](https://open.spotify.com/artist/2Nb5cgwPtDPPL6Whe9zjfQ) | [Les mots que tu chantes](https://open.spotify.com/album/4DqPIbudxuN6AG308NCKqm) | 2:58 | 2026-05-15 |  |
+| [Les mots que tu chantes](https://open.spotify.com/track/62pMWesW7OeH2xZACewgyX) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow), [John Nathaniel](https://open.spotify.com/artist/2Nb5cgwPtDPPL6Whe9zjfQ) | [Les mots que tu chantes](https://open.spotify.com/album/4DqPIbudxuN6AG308NCKqm) | 2:58 | 2026-05-15 | 2026-07-10 |
 | [Les mots qui nous manquent](https://open.spotify.com/track/4MsRf1Ka0nVjJzk1HhUcaY) | [Jules](https://open.spotify.com/artist/067eVTSlIc2fqaaHyRrWmt) | [Les mots qui nous manquent](https://open.spotify.com/album/1eyswuwRnpxBj4nPBItxdg) | 4:14 | 2024-05-03 | 2024-06-08 |
 | [Les nuits incandescentes](https://open.spotify.com/track/3Ahqt9mwrDj9hTvDQkz4AB) | [Vincent Alizé](https://open.spotify.com/artist/2lgS5ZE6g9BhF47APJPrTD) | [Nos royaumes interdits](https://open.spotify.com/album/2OaemYlWbshatH7gXnNxyz) | 4:08 | 2021-02-22 | 2022-07-19 |
 | [Les oiseaux](https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP) | [Fleur de Peau](https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi) | [Les oiseaux](https://open.spotify.com/album/6mwxPyeT0gkLxj1MGwWDyu) | 4:04 | 2025-11-28 |  |

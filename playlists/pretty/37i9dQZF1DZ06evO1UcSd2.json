@@ -1,37 +1,13 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 87539,
+  "num_followers": 87568,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAABdGtvaqtCkJ925AnilffJ",
+  "snapshot_id": "ak2TAAAAAACdlrMM7AVv8SGCfVHBnAeq",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Titular",
-        "url": "https://open.spotify.com/album/25FBGuSUJGy0HBKQrGUmvC"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Ronaldinho Ga\u00facho",
-          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
-        },
-        {
-          "name": "Tu Musica",
-          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Titular",
-      "url": "https://open.spotify.com/track/6coDVmtstHCQJLknlcCuUF"
-    },
     {
       "added_at": null,
       "album": {
@@ -495,6 +471,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Titular",
+        "url": "https://open.spotify.com/album/25FBGuSUJGy0HBKQrGUmvC"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Ronaldinho Ga\u00facho",
+          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
+        },
+        {
+          "name": "Tu Musica",
+          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Titular",
+      "url": "https://open.spotify.com/track/6coDVmtstHCQJLknlcCuUF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Conquista",
         "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
       },
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X Aniversario",
-        "url": "https://open.spotify.com/album/6VV8sExAwhYbhqqGPrVwmc"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 168170,
-      "name": "Dicen Y Dicen",
-      "url": "https://open.spotify.com/track/6RzdMdzrkgEXAv5rISgzvB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seguimos Adelante",
         "url": "https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 195242,
       "name": "Hierba de Receta",
       "url": "https://open.spotify.com/track/2ApWM2QZy7n5zZxwaCvH6j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X Aniversario",
+        "url": "https://open.spotify.com/album/6VV8sExAwhYbhqqGPrVwmc"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 168170,
+      "name": "Dicen Y Dicen",
+      "url": "https://open.spotify.com/track/6RzdMdzrkgEXAv5rISgzvB"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Positivo",
-        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 179050,
-      "name": "Sabe Lo Que Trae",
-      "url": "https://open.spotify.com/track/7z3FyYTEEof8nK8adxlI2Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Aroma a Alcohol",
         "url": "https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 208000,
       "name": "Tres Veladoras",
       "url": "https://open.spotify.com/track/4Ua4dmFPenv0xlDK8sIEQN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Positivo",
+        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 179050,
+      "name": "Sabe Lo Que Trae",
+      "url": "https://open.spotify.com/track/7z3FyYTEEof8nK8adxlI2Z"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguimos Adelante",
-        "url": "https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 155730,
-      "name": "Estas Ganas de Tomar",
-      "url": "https://open.spotify.com/track/6fua8dVpIgNQbStBmGxEtA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Aroma a Alcohol",
         "url": "https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seguimos Adelante",
+        "url": "https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 155730,
+      "name": "Estas Ganas de Tomar",
+      "url": "https://open.spotify.com/track/6fua8dVpIgNQbStBmGxEtA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Estrenando Amante",
         "url": "https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw"
       },
@@ -799,6 +799,22 @@
       "duration_ms": 168546,
       "name": "Estrenando Amante",
       "url": "https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Los Pies en La Tierra",
+        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 175090,
+      "name": "24/7 Dolido",
+      "url": "https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk"
     },
     {
       "added_at": null,
@@ -835,22 +851,6 @@
       "duration_ms": 181674,
       "name": "No Fue Suficiente",
       "url": "https://open.spotify.com/track/49BlbuGvUpwLXY4648UP1P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Los Pies en La Tierra",
-        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 175090,
-      "name": "24/7 Dolido",
-      "url": "https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk"
     },
     {
       "added_at": null,

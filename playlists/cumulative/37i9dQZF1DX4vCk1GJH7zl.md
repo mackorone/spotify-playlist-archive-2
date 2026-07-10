@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Colomy, Peter Buck
 
-238 songs - 14 hr 14 min
+239 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Dizem](https://open.spotify.com/track/0slJ2ORPHsjlnVRbPOzVhi) | [Odair Jose](https://open.spotify.com/artist/3kUC3a0wTkjsdkJiytULkN) | [Seres Humanos \(e a Inteligência Artificial\)](https://open.spotify.com/album/76vczkF1upttoxgHfgHjo3) | 2:50 | 2024-06-21 | 2024-07-13 |
 | [Dois Mundos](https://open.spotify.com/track/0yWPnJ50IOP1Vbzf3jYxbX) | [Fabio Cadore](https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp), [Tulio Freitas](https://open.spotify.com/artist/1jDI5QIP2tPVrFDqwQY4Dj) | [Dois Mundos](https://open.spotify.com/album/64ZYrxz7k8QunMzLd3Wrcv) | 4:17 | 2023-07-21 | 2024-03-16 |
 | [Doomed](https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Doomed](https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0) | 3:26 | 2024-03-29 | 2025-07-19 |
-| [Dopamina](https://open.spotify.com/track/3r9VtIqzY73RwUw6dOHiIo) | [Capsula](https://open.spotify.com/artist/6Vk5nW1jLHk4k8pIsjJAkk) | [Dopamina](https://open.spotify.com/album/2GE5d3yHARKUY3zPI7JNwH) | 3:46 | 2026-05-29 |  |
+| [Dopamina](https://open.spotify.com/track/3r9VtIqzY73RwUw6dOHiIo) | [Capsula](https://open.spotify.com/artist/6Vk5nW1jLHk4k8pIsjJAkk) | [Dopamina](https://open.spotify.com/album/2GE5d3yHARKUY3zPI7JNwH) | 3:46 | 2026-05-29 | 2026-07-10 |
 | [Douraddo](https://open.spotify.com/track/75jOQ3d6y36N09fpnUSQR7) | [Soprü](https://open.spotify.com/artist/2e8dBCjQCLAqXAQwt89fi9) | [Douraddo](https://open.spotify.com/album/3m89RKjTjqZv4XzxaGaXDC) | 2:41 | 2026-06-19 |  |
 | [Dragon](https://open.spotify.com/track/2MGoRGsL1Q4kUL5ggkFOlC) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Dragon](https://open.spotify.com/album/42UhCrnOFpM7IekWMorsV1) | 3:05 | 2024-03-15 |  |
 | [Elefantes](https://open.spotify.com/track/3pe1rds7yMY2A3RBpDNuEz) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE) | [Elefantes](https://open.spotify.com/album/6L78lDEA7z65ZD8srvw9C2) | 3:05 | 2024-09-27 | 2025-09-27 |
@@ -173,6 +173,7 @@
 | [Proposta](https://open.spotify.com/track/5YNikQYqgUZIVhDJC0Q3TO) | [Davi Leão](https://open.spotify.com/artist/63PbB9qmaVblxOqBoOb2g7) | [Proposta](https://open.spotify.com/album/0u0CKWaPgFtWjzACLHQsle) | 2:46 | 2024-10-18 | 2025-05-31 |
 | [Pássaro Livre](https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9) | [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pássaro Livre](https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA) | 4:28 | 2023-07-21 |  |
 | [Pólen](https://open.spotify.com/track/5a55PUJFZ4HkEqsS1oOTMg) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Pólen](https://open.spotify.com/album/5tAqPQ72NUjJRdO0yyhsDZ) | 4:10 | 2023-10-20 | 2024-02-24 |
+| [Qual é o fim?](https://open.spotify.com/track/4FUAnqFwmOiym89Rwmy1f1) | [Viralata](https://open.spotify.com/artist/4nzGWvAnomcGsvVhNyZ0xn), [QuatroK](https://open.spotify.com/artist/1JHtQRVTjep7gP7AT6gQ1n) | [Qual é o fim?](https://open.spotify.com/album/1DoCydT1FLrVHHjKG5iv3Y) | 3:20 | 2026-07-10 |  |
 | [Qualquer Lugar](https://open.spotify.com/track/0chOJa6EheSEbjy3miQn2A) | [Matheus de Bezerra](https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu), [MOBILE LAB](https://open.spotify.com/artist/5jGDIZzcLyiXnEDhMkC5Kw) | [Qualquer Lugar](https://open.spotify.com/album/6bib8zqBX9MRfSPZSoixba) | 3:21 | 2023-07-21 | 2024-04-13 |
 | [Quanto Tempo Demora Um Mês](https://open.spotify.com/track/64kByFEamIW6sVECquQlRm) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Quanto Tempo Demora Um Mês](https://open.spotify.com/album/6umXN07xdVY0zfabiVqrf8) | 3:30 | 2023-07-21 |  |
 | [Quanto é Muito? \(Atravessar\)](https://open.spotify.com/track/4JpxLYN0FbxVBin0LaGm9m) | [Chella](https://open.spotify.com/artist/0PfKBDzVqAXKEnTQvHvT5a) | [Quanto é Muito? \(Atravessar\)](https://open.spotify.com/album/4k4LWyZ69kQQlgVfx0HZtd) | 3:25 | 2025-07-11 |  |

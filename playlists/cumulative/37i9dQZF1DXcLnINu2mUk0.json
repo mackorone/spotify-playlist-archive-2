@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Monsta",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Waze",
   "name": "Seda",
   "tracks": [
     {
@@ -3030,7 +3030,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 138000,
       "name": "CASA NOVA",
       "url": "https://open.spotify.com/track/5rZ7E2CfTMmECMO6pYrYla"
@@ -7571,6 +7571,24 @@
     },
     {
       "album": {
+        "name": "HIST\u00d3RIA",
+        "url": "https://open.spotify.com/album/7EKriqg7zckbRCsI2tubbf"
+      },
+      "artists": [
+        {
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188674,
+      "name": "HIST\u00d3RIA",
+      "url": "https://open.spotify.com/track/6zXt3ihvEWTuslDjyqUxOS"
+    },
+    {
+      "album": {
         "name": "Hoje",
         "url": "https://open.spotify.com/album/77G9r1x1JEgNPdfI6IQoX5"
       },
@@ -10522,7 +10540,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 206000,
       "name": "M\u00e1 Pessoa",
       "url": "https://open.spotify.com/track/4GIgAxEcYOgCq9a9Yyeu08"
@@ -16831,6 +16849,24 @@
     },
     {
       "album": {
+        "name": "Traumas",
+        "url": "https://open.spotify.com/album/6uFAcZ1DBNnP97huRU2Kxg"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200412,
+      "name": "Traumas",
+      "url": "https://open.spotify.com/track/4F85yQQ8WBin4BJN9ZGLvW"
+    },
+    {
+      "album": {
         "name": "Triste (Pensas Em Mim)",
         "url": "https://open.spotify.com/album/4NWM9iVA8OfQd9WI6oR0DK"
       },
@@ -17616,7 +17652,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 150000,
       "name": "Vem Devagar",
       "url": "https://open.spotify.com/track/5rfvs5YRfNsfpKbu5UpExR"
@@ -17718,6 +17754,24 @@
       "duration_ms": 282411,
       "name": "Ver\u00e3o Azul - Encore Sessions",
       "url": "https://open.spotify.com/track/1l8AOv2r3qTaBcQz6EW6XL"
+    },
+    {
+      "album": {
+        "name": "ver\u00e3o de lisboa",
+        "url": "https://open.spotify.com/album/7DdspE9ozlZBrvKrCPWFts"
+      },
+      "artists": [
+        {
+          "name": "Rony Fuego",
+          "url": "https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "ver\u00e3o de lisboa",
+      "url": "https://open.spotify.com/track/5BsvhFYvtZocwGJwq0Jstp"
     },
     {
       "album": {

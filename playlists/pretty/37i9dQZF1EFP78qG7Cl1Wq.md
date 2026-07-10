@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,120 likes - 251 songs - 12 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,119 likes - 251 songs - 12 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 113 | [I'm Ready \(feat\. Camper\)](https://open.spotify.com/track/3o6hX5T3imF508VycE44lQ) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Camper](https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 3:51 |
 | 114 | [Summer](https://open.spotify.com/track/3y0pDizVSNtDBPWFS2cXC2) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:30 |
 | 115 | [Birthday \(feat\. 50 Cent\)](https://open.spotify.com/track/2y70lWYidJKME62BChQ2nt) | [Elle Varner](https://open.spotify.com/artist/7zmk5lkmCMVvfvwF3H8FWC), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Birthday \(feat\. 50 Cent\)](https://open.spotify.com/album/4bTXnH9Hwnb0de2JA6mybQ) | 4:20 |
-| 116 | [Nobody but Me](https://open.spotify.com/track/1Cqqr2V32xGScFeuj5qCKp) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Nobody But Me](https://open.spotify.com/album/7CisHDnMwiAnuEel2OSdTq) | 4:08 |
-| 117 | [Diamond](https://open.spotify.com/track/6IAFBoQofnfWJUOkha7DjA) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [4 Walls \- The 4th Album](https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH) | 3:59 |
+| 116 | [Diamond](https://open.spotify.com/track/6IAFBoQofnfWJUOkha7DjA) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [4 Walls \- The 4th Album](https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH) | 3:59 |
+| 117 | [Nobody but Me](https://open.spotify.com/track/1Cqqr2V32xGScFeuj5qCKp) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Nobody But Me](https://open.spotify.com/album/7CisHDnMwiAnuEel2OSdTq) | 4:08 |
 | 118 | [Call Me Crazy](https://open.spotify.com/track/5Kxs4hSxjT9faa77ZMql6o) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Call Me Crazy, But...](https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7) | 3:40 |
 | 119 | [Spring Cleaning](https://open.spotify.com/track/4Z5ZGYDG3yn73kEAa0BMIX) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Through The Madness Vol\. 2](https://open.spotify.com/album/5s1S4QUVIVFRg9gLOz9ves) | 2:32 |
 | 120 | [Relapse](https://open.spotify.com/track/0Ky7dNE5kiSBgqNiwwl1jx) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [While You Were Out](https://open.spotify.com/album/6lYGdrU9Qg9qLLUAEoFcqi) | 2:52 |
@@ -154,9 +154,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 144 | [Glad I'm Not Alone](https://open.spotify.com/track/0gPuDqBxwsManRTW6SfnM5) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 3:27 |
 | 145 | [Out Of Your Mind](https://open.spotify.com/track/7LPTfbLRyfYcEpdN5gnpes) | [The Presets](https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Hi Viz](https://open.spotify.com/album/49AKBTCbQuHJm2w5G6MlPj) | 3:03 |
 | 146 | [End of My World](https://open.spotify.com/track/6luWULgexFygt7r2xYQ5iP) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Double Vision \(Deluxe Edition\)](https://open.spotify.com/album/2iTpTfHG5yui5JVtfRNOdK) | 3:41 |
-| 147 | [You](https://open.spotify.com/track/3dtLjqr0rjNP61Q6fxL7cr) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 2:53 |
-| 148 | [YOUR SONG](https://open.spotify.com/track/2QbeXjJMa3cssEf0EVp7Lf) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [ONE SHOT, TWO SHOT \- The 1st Mini Album](https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5) | 3:32 |
-| 149 | [Saturday Night](https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Saturday Night](https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J) | 3:37 |
+| 147 | [Saturday Night](https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Saturday Night](https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J) | 3:37 |
+| 148 | [You](https://open.spotify.com/track/3dtLjqr0rjNP61Q6fxL7cr) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 2:53 |
+| 149 | [YOUR SONG](https://open.spotify.com/track/2QbeXjJMa3cssEf0EVp7Lf) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [ONE SHOT, TWO SHOT \- The 1st Mini Album](https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5) | 3:32 |
 | 150 | [YOUR EYES \(feat\. Tayla Parx\)](https://open.spotify.com/track/5RJizYf3glrHlux3XymB2r) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [TESTIFY](https://open.spotify.com/album/72QrPCGdsW94gJZvQY8ZFV) | 3:28 |
 | 151 | [Make You Mine](https://open.spotify.com/track/42PMnBInInWXdnkZTboVIu) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Make You Mine](https://open.spotify.com/album/0zmEwkMcEY5B5nDzDh0PSp) | 2:44 |
 | 152 | [Deserve](https://open.spotify.com/track/08UOwr56mqHnQOTF2HThmd) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 2:01 |
@@ -260,4 +260,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 250 | [Intro](https://open.spotify.com/track/5O8Qhglfsza40ImevHVURy) | [Soul Point](https://open.spotify.com/artist/1Ept3gLGpmaMqUB5nEFmTj) | [Blue Gum St\. 3](https://open.spotify.com/album/3Z69aT615d7CRCE6WdE7zy) | 1:58 |
 | 251 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 
-Snapshot ID: `AcWVvAAAAACN2U/LEIy0b82h7xPuqyBY`
+Snapshot ID: `AcWbUgAAAACpQ2s7yKyWIwVOjUZ1HmYj`

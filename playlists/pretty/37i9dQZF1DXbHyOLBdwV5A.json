@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 133491,
+  "num_followers": 133501,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -31,30 +31,6 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "Pode Morar Aqui (Remix)",
-        "url": "https://open.spotify.com/album/1VinOknA5ejR8imqhUsbYP"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
-        },
-        {
-          "name": "M\u00cbDNA",
-          "url": "https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Pode Morar Aqui - Remix",
-      "url": "https://open.spotify.com/track/6pTd7vUXSGW19gGXuESNgE"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
         "name": "Algo Novo (Kennto Remix) (feat. Lukas Agustinho)",
         "url": "https://open.spotify.com/album/60MRcOTfoSmqLMqnvTAdUw"
       },
@@ -75,6 +51,30 @@
       "duration_ms": 188040,
       "name": "Algo Novo (Kennto Remix) (feat. Lukas Agustinho)",
       "url": "https://open.spotify.com/track/7x4uXkwjA86WgaQXPxRObd"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
+        "name": "Pode Morar Aqui (Remix)",
+        "url": "https://open.spotify.com/album/1VinOknA5ejR8imqhUsbYP"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        },
+        {
+          "name": "M\u00cbDNA",
+          "url": "https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Pode Morar Aqui - Remix",
+      "url": "https://open.spotify.com/track/6pTd7vUXSGW19gGXuESNgE"
     },
     {
       "added_at": "2026-05-08 03:01:30",
@@ -143,26 +143,6 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "S\u00f3 o Come\u00e7o (Remix)",
-        "url": "https://open.spotify.com/album/5dApJHhpM7BMh7fBBXjnBt"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "Vocal Livre",
-          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
-        }
-      ],
-      "duration_ms": 243750,
-      "name": "S\u00f3 o Come\u00e7o - Remix",
-      "url": "https://open.spotify.com/track/5FvMsEAd3rO9JXZojAQUNn"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
         "name": "S\u00f3 Quero Queimar (Remix)",
         "url": "https://open.spotify.com/album/4sz7OFQhn3xOZOYjbe8AXE"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 217500,
       "name": "S\u00f3 Quero Queimar - Remix",
       "url": "https://open.spotify.com/track/720ymxcvuttoINPvJ3EXSC"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
+        "name": "S\u00f3 o Come\u00e7o (Remix)",
+        "url": "https://open.spotify.com/album/5dApJHhpM7BMh7fBBXjnBt"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "Vocal Livre",
+          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
+        }
+      ],
+      "duration_ms": 243750,
+      "name": "S\u00f3 o Come\u00e7o - Remix",
+      "url": "https://open.spotify.com/track/5FvMsEAd3rO9JXZojAQUNn"
     },
     {
       "added_at": "2026-05-08 03:01:30",
@@ -255,26 +255,6 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/5YgyARkjEkGMzz96G4qVBA"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/6j0DDG232N0ZJfGcD32bE3"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
         "name": "A Casa Sou Eu",
         "url": "https://open.spotify.com/album/74YuCp17efP3Pbm0BNM7xZ"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 225000,
       "name": "A Casa Sou Eu - Remix",
       "url": "https://open.spotify.com/track/630ABfNYLELJZgTSg0cuUU"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/5YgyARkjEkGMzz96G4qVBA"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/6j0DDG232N0ZJfGcD32bE3"
     },
     {
       "added_at": "2026-05-08 03:01:30",
@@ -363,30 +363,6 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "Yeshua + S\u00f3 Quero Ver Voc\u00ea",
-        "url": "https://open.spotify.com/album/4qzveuyWchP5wpVZ6PKm3O"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/30P5aXJyIGmH93qiM251ze"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "Yeshua + S\u00f3 Quero Ver Voc\u00ea (feat. Marcelo Markes)",
-      "url": "https://open.spotify.com/track/3QEqBKFS8boYIAELBcHUnj"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
         "name": "J\u00e1 N\u00e3o Vivo Eu: Remixes",
         "url": "https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl"
       },
@@ -407,6 +383,30 @@
       "duration_ms": 215625,
       "name": "J\u00e1 N\u00e3o Vivo Eu - Michaell D Remix",
       "url": "https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
+        "name": "Yeshua + S\u00f3 Quero Ver Voc\u00ea",
+        "url": "https://open.spotify.com/album/4qzveuyWchP5wpVZ6PKm3O"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/30P5aXJyIGmH93qiM251ze"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "Yeshua + S\u00f3 Quero Ver Voc\u00ea (feat. Marcelo Markes)",
+      "url": "https://open.spotify.com/track/3QEqBKFS8boYIAELBcHUnj"
     },
     {
       "added_at": "2026-05-08 03:01:30",
@@ -471,26 +471,6 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "Melhor Lugar (Remix)",
-        "url": "https://open.spotify.com/album/4JWqkbPbgyVN3RH2n2wbxh"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Melhor Lugar - Remix",
-      "url": "https://open.spotify.com/track/6YtV6hNKhBE0Js1Ucvffyy"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
         "name": "Uma Vida \u00c9 Pouco pra Te Amar (Remix)",
         "url": "https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 161169,
       "name": "Uma Vida \u00c9 Pouco pra Te Amar - Remix",
       "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
+        "name": "Melhor Lugar (Remix)",
+        "url": "https://open.spotify.com/album/4JWqkbPbgyVN3RH2n2wbxh"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Melhor Lugar - Remix",
+      "url": "https://open.spotify.com/track/6YtV6hNKhBE0Js1Ucvffyy"
     },
     {
       "added_at": "2026-05-08 03:01:30",
@@ -583,26 +583,6 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "Respirar e Confiar",
-        "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
-      },
-      "artists": [
-        {
-          "name": "Dj Yuuki",
-          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
-        },
-        {
-          "name": "Jessi Dias",
-          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
-        }
-      ],
-      "duration_ms": 216470,
-      "name": "Respirar e Confiar",
-      "url": "https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
         "name": "Encontrei o Meu Lugar (Remix)",
         "url": "https://open.spotify.com/album/4hgCaDOMhntpliryE9N84R"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 165967,
       "name": "Encontrei o Meu Lugar - Remix",
       "url": "https://open.spotify.com/track/3G9aCmxxZcbvLQL6G3cOko"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
+        "name": "Respirar e Confiar",
+        "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
+      },
+      "artists": [
+        {
+          "name": "Dj Yuuki",
+          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
+        },
+        {
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+        }
+      ],
+      "duration_ms": 216470,
+      "name": "Respirar e Confiar",
+      "url": "https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl"
     },
     {
       "added_at": "2026-05-08 03:01:30",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
+        "name": "Eu Voltei",
+        "url": "https://open.spotify.com/album/0ODwJ0peFEa3k3axaltglD"
+      },
+      "artists": [
+        {
+          "name": "Leandro Alencar",
+          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
+        },
+        {
+          "name": "Eliezer Rezende",
+          "url": "https://open.spotify.com/artist/46R0MX2uXNqCdIPeUo3xFh"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Eu Voltei",
+      "url": "https://open.spotify.com/track/6Pd2FCXWEomUTcUraqadp2"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
         "name": "Vamo Com Tudo",
         "url": "https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 179527,
       "name": "Vamo Com Tudo",
       "url": "https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
-        "name": "Eu Voltei",
-        "url": "https://open.spotify.com/album/0ODwJ0peFEa3k3axaltglD"
-      },
-      "artists": [
-        {
-          "name": "Leandro Alencar",
-          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
-        },
-        {
-          "name": "Eliezer Rezende",
-          "url": "https://open.spotify.com/artist/46R0MX2uXNqCdIPeUo3xFh"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Eu Voltei",
-      "url": "https://open.spotify.com/track/6Pd2FCXWEomUTcUraqadp2"
     },
     {
       "added_at": "2026-05-08 03:01:30",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
+        "name": "Para o Alto (Remix)",
+        "url": "https://open.spotify.com/album/3KPQGc4SBlvFEunu9rilc4"
+      },
+      "artists": [
+        {
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+        },
+        {
+          "name": "DJ Mois\u00e9s",
+          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
+        }
+      ],
+      "duration_ms": 207187,
+      "name": "Para o Alto - Remix",
+      "url": "https://open.spotify.com/track/6DfUjTDRAdS1DjO28CcP8q"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
         "name": "Me Encontrou Remix",
         "url": "https://open.spotify.com/album/0W3OfqzLQ5GIWYFXMZD50p"
       },
@@ -1195,28 +1215,8 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "Para o Alto (Remix)",
-        "url": "https://open.spotify.com/album/3KPQGc4SBlvFEunu9rilc4"
-      },
-      "artists": [
-        {
-          "name": "Jessi Dias",
-          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
-        },
-        {
-          "name": "DJ Mois\u00e9s",
-          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
-        }
-      ],
-      "duration_ms": 207187,
-      "name": "Para o Alto - Remix",
-      "url": "https://open.spotify.com/track/6DfUjTDRAdS1DjO28CcP8q"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/55jG2m5ui9g5Szx8idFaTr"
+        "name": "Alto Pre\u00e7o",
+        "url": "https://open.spotify.com/album/5ZbZZmG0c1OhpD4vyGpam8"
       },
       "artists": [
         {
@@ -1230,15 +1230,11 @@
         {
           "name": "Michaell D",
           "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Jeovana Menezes",
-          "url": "https://open.spotify.com/artist/5NaPoQ3RKd5KoEAVeO5zqA"
         }
       ],
-      "duration_ms": 156093,
-      "name": "Gra\u00e7a",
-      "url": "https://open.spotify.com/track/0ethtHl4ngZ6NGgaZm4J8e"
+      "duration_ms": 189375,
+      "name": "Alto Pre\u00e7o",
+      "url": "https://open.spotify.com/track/6ygbezTFylWUnp52YjceFO"
     },
     {
       "added_at": "2026-05-08 03:01:30",
@@ -1351,8 +1347,8 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "Alto Pre\u00e7o",
-        "url": "https://open.spotify.com/album/5ZbZZmG0c1OhpD4vyGpam8"
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/55jG2m5ui9g5Szx8idFaTr"
       },
       "artists": [
         {
@@ -1366,11 +1362,15 @@
         {
           "name": "Michaell D",
           "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Jeovana Menezes",
+          "url": "https://open.spotify.com/artist/5NaPoQ3RKd5KoEAVeO5zqA"
         }
       ],
-      "duration_ms": 189375,
-      "name": "Alto Pre\u00e7o",
-      "url": "https://open.spotify.com/track/6ygbezTFylWUnp52YjceFO"
+      "duration_ms": 156093,
+      "name": "Gra\u00e7a",
+      "url": "https://open.spotify.com/track/0ethtHl4ngZ6NGgaZm4J8e"
     },
     {
       "added_at": "2026-05-08 03:01:30",

@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJIzy+OWyX+IopBjtBcgi+hJ2cFcOm",
+  "snapshot_id": "AAAJJVYSKQ+6azonqfHnzCuTJZi8vaWK",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -388,8 +388,8 @@
       },
       "artists": [
         {
-          "name": "Beyond Reasonable Doubt",
-          "url": "https://open.spotify.com/artist/4t1WIAA1040hy9mxgOxeiT"
+          "name": "BRD Investigations",
+          "url": "https://open.spotify.com/artist/5iDvgzPhfxEWwXEjesv0Jn"
         }
       ],
       "duration_ms": 218120,
@@ -74815,6 +74815,38 @@
       "duration_ms": 199686,
       "name": "Chibo Da Paz",
       "url": "https://open.spotify.com/track/5QGSThpT3sVeE91IySPHBe"
+    },
+    {
+      "added_at": "2026-07-09 12:57:35",
+      "album": {
+        "name": "Problem Attic",
+        "url": "https://open.spotify.com/album/31ciiu7Y3I0bO7M3Rb4q9m"
+      },
+      "artists": [
+        {
+          "name": "The Spent Priests",
+          "url": "https://open.spotify.com/artist/2gl2xRe5bzXRRluzAT1CdV"
+        }
+      ],
+      "duration_ms": 233478,
+      "name": "Problem Attic",
+      "url": "https://open.spotify.com/track/2WdhOSqLFJLIb6og648nWv"
+    },
+    {
+      "added_at": "2026-07-09 20:21:48",
+      "album": {
+        "name": "J\u00f3venes Para Siempre Version 1",
+        "url": "https://open.spotify.com/album/5S1KESzGJLlu0q8UosidFO"
+      },
+      "artists": [
+        {
+          "name": "Potao",
+          "url": "https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P"
+        }
+      ],
+      "duration_ms": 128228,
+      "name": "J\u00f3venes Para Siempre Version 1",
+      "url": "https://open.spotify.com/track/7p7Ak5S2ebOoIAoo6Q4EJ9"
     }
   ],
   "unique_name": "playlist spotify free",

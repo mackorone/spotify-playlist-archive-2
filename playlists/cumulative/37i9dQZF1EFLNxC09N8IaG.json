@@ -3177,6 +3177,24 @@
     },
     {
       "album": {
+        "name": "Richest",
+        "url": "https://open.spotify.com/album/58IJMjXWxHRcE4p1HHTieI"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Richest",
+      "url": "https://open.spotify.com/track/6JUObwBY69Zi8k5tOcUsch"
+    },
+    {
+      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/6RoTHNbxFtxUejrmNiKMMa"
       },

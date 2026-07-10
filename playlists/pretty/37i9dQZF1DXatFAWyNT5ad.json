@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 153235,
+  "num_followers": 153234,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/0keyZeyshU2953FCfoQAq3"
+      },
+      "artists": [
+        {
+          "name": "Haiden Henderson",
+          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
+        }
+      ],
+      "duration_ms": 128323,
+      "name": "K.O.",
+      "url": "https://open.spotify.com/track/0SbcrlSSBXJUnm1cT4E4GQ"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 163321,
       "name": "Bois Lie (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/0keyZeyshU2953FCfoQAq3"
-      },
-      "artists": [
-        {
-          "name": "Haiden Henderson",
-          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
-        }
-      ],
-      "duration_ms": 128323,
-      "name": "K.O.",
-      "url": "https://open.spotify.com/track/0SbcrlSSBXJUnm1cT4E4GQ"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 187249,
-      "name": "You Broke Me Too (feat. Avril Lavigne)",
-      "url": "https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "ILLENIUM",
         "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 152331,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 187249,
+      "name": "You Broke Me Too (feat. Avril Lavigne)",
+      "url": "https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Heart Attack (Rock Version)",
-        "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 239011,
-      "name": "Heart Attack - Rock Version",
-      "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 172466,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Heart Attack (Rock Version)",
+        "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 239011,
+      "name": "Heart Attack - Rock Version",
+      "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/2R5WaXG1YcFHhRdFNoS4U4"
+      },
+      "artists": [
+        {
+          "name": "Landon Barker",
+          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
+        }
+      ],
+      "duration_ms": 170266,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/2ANcnQVK8L23fpyvwd021a"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
         "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
         "url": "https://open.spotify.com/album/7E9rdvLTWHLxkk1dg3tZno"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 214735,
       "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
       "url": "https://open.spotify.com/track/4hothXhcXn6OmMXmN9A2cU"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "Over You",
-        "url": "https://open.spotify.com/album/2R5WaXG1YcFHhRdFNoS4U4"
-      },
-      "artists": [
-        {
-          "name": "Landon Barker",
-          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
-        }
-      ],
-      "duration_ms": 170266,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/2ANcnQVK8L23fpyvwd021a"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Communicating",
-        "url": "https://open.spotify.com/album/5H1cgSVYz8sTHlNVO1jx2t"
-      },
-      "artists": [
-        {
-          "name": "Bad Suns",
-          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Communicating",
-      "url": "https://open.spotify.com/track/0sLPIQKoiRMzy8DycnMjB1"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Crashing Out",
         "url": "https://open.spotify.com/album/6udajFqjOweuBuWeRkfpQA"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 215518,
       "name": "Crashing Out",
       "url": "https://open.spotify.com/track/3FYnfTHQybL7NDMNM1A02N"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Communicating",
+        "url": "https://open.spotify.com/album/5H1cgSVYz8sTHlNVO1jx2t"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Communicating",
+      "url": "https://open.spotify.com/track/0sLPIQKoiRMzy8DycnMjB1"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "dyed (2008 - 2023)",
-        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 180959,
-      "name": "don't light the match (dyed black 2010)",
-      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Liquor and Kerosene (feat. The Maine)",
         "url": "https://open.spotify.com/album/2Hz30mmJGwlVXhbffxDM8j"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 214024,
       "name": "Liquor and Kerosene (feat. The Maine)",
       "url": "https://open.spotify.com/track/7k0OJud8YsBKbncUPa46TY"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "dyed (2008 - 2023)",
+        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 180959,
+      "name": "don't light the match (dyed black 2010)",
+      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "WHERE DID ALL THE BUTTERFLIES GO?",
-        "url": "https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM"
-      },
-      "artists": [
-        {
-          "name": "BEAUTY SCHOOL DROPOUT",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
-        }
-      ],
-      "duration_ms": 181866,
-      "name": "HEART AWAY",
-      "url": "https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Toxic Positivity",
         "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 223176,
       "name": "STRANGERS",
       "url": "https://open.spotify.com/track/2eeLM9CVHETMWIdDGtW39i"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "WHERE DID ALL THE BUTTERFLIES GO?",
+        "url": "https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM"
+      },
+      "artists": [
+        {
+          "name": "BEAUTY SCHOOL DROPOUT",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "duration_ms": 181866,
+      "name": "HEART AWAY",
+      "url": "https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2423,6 +2423,22 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
+        "name": "My Heart's A Crowded Room",
+        "url": "https://open.spotify.com/album/1xUibDNIkBquUUX6Tou9S0"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "My Heart's A Crowded Room",
+      "url": "https://open.spotify.com/track/1upx2CHNbauM1Fa9EdPlze"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
         "name": "FREAK (Feat. jxdn)",
         "url": "https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5"
       },
@@ -2439,22 +2455,6 @@
       "duration_ms": 149142,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "My Heart's A Crowded Room",
-        "url": "https://open.spotify.com/album/1xUibDNIkBquUUX6Tou9S0"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "My Heart's A Crowded Room",
-      "url": "https://open.spotify.com/track/1upx2CHNbauM1Fa9EdPlze"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Big City Thing",
-        "url": "https://open.spotify.com/album/4qhwIb8uXcg7M7Dz7Kn0Rn"
-      },
-      "artists": [
-        {
-          "name": "The Scarlet Opera",
-          "url": "https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix"
-        }
-      ],
-      "duration_ms": 203667,
-      "name": "Big City Thing",
-      "url": "https://open.spotify.com/track/3OOAv73AZwwCnAW7VGHbZd"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "SOULSUCKER",
         "url": "https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 198000,
       "name": "Emerald",
       "url": "https://open.spotify.com/track/3827xzieELFZ56ENCHL4jp"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Big City Thing",
+        "url": "https://open.spotify.com/album/4qhwIb8uXcg7M7Dz7Kn0Rn"
+      },
+      "artists": [
+        {
+          "name": "The Scarlet Opera",
+          "url": "https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix"
+        }
+      ],
+      "duration_ms": 203667,
+      "name": "Big City Thing",
+      "url": "https://open.spotify.com/track/3OOAv73AZwwCnAW7VGHbZd"
     },
     {
       "added_at": "2026-01-16 05:00:41",

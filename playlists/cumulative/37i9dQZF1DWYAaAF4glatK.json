@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-28",
-  "description": "La BO officielle de l'\u00e9t\u00e9 2026 \ud83c\udf1e Photo : GIMS",
+  "description": "La BO officielle de l'\u00e9t\u00e9 2026 \ud83c\udf1e Photo : Na\u00efka",
   "name": "hits de l'\u00e9t\u00e9 2026",
   "tracks": [
     {
@@ -3652,7 +3652,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
@@ -8200,6 +8200,28 @@
       "duration_ms": 172142,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/79DFRI318iJU1hvZnPzA4K"
+    },
+    {
+      "album": {
+        "name": "S\u00e9 Miimii",
+        "url": "https://open.spotify.com/album/6POEgRFXk9dDYxWvQW8To4"
+      },
+      "artists": [
+        {
+          "name": "Miimii KDS",
+          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
+        },
+        {
+          "name": "DJ SKYCEE",
+          "url": "https://open.spotify.com/artist/2LhAINHQMEMY2qL0AyNHmv"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121858,
+      "name": "S\u00e9 Miimii",
+      "url": "https://open.spotify.com/track/46BNhNbHZi98svu6pFwYVq"
     },
     {
       "album": {

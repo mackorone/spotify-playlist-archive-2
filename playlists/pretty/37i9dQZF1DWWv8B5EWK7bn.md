@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,251 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,259 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 16 | [Wish You Well](https://open.spotify.com/track/03TWR8Pj2dYpXiCbhuncQb) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Rose Main Reading Room](https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE) | 2:46 |
 | 17 | [Sad Makeup](https://open.spotify.com/track/74eE402hFv13hLBw5iPQds) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Sad Makeup](https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X) | 3:50 |
 | 18 | [Garter Snake](https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph) | [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [Mouth Full of Glass](https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq) | 3:35 |
-| 19 | [Lost](https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU) | [Zola Jesus](https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P) | [Arkhon](https://open.spotify.com/album/4fAgGEM3LIMho5Brx5Gio9) | 3:24 |
-| 20 | [Beetlebugs](https://open.spotify.com/track/3nBBFysco3704yXmEhntVl) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Beetlebugs](https://open.spotify.com/album/3B9cbAEBw8RUdxk9lvFXaG) | 3:42 |
+| 19 | [Beetlebugs](https://open.spotify.com/track/3nBBFysco3704yXmEhntVl) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Beetlebugs](https://open.spotify.com/album/3B9cbAEBw8RUdxk9lvFXaG) | 3:42 |
+| 20 | [Lost](https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU) | [Zola Jesus](https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P) | [Arkhon](https://open.spotify.com/album/4fAgGEM3LIMho5Brx5Gio9) | 3:24 |
 | 21 | [Up and Up](https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Agitprop Alterna](https://open.spotify.com/album/56o75WZe4MrgNj1wL0769C) | 5:14 |
 | 22 | [Don't Get Me Started](https://open.spotify.com/track/7i5M9mb2gF9VvuNSlUsAaz) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Don't Get Me Started](https://open.spotify.com/album/477uxPlEAq7OPmwF4zS1Wi) | 5:55 |
 | 23 | [Something in the Room She Moves](https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 6:18 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 34 | [Crispy Skin](https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Crispy Skin](https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA) | 6:19 |
 | 35 | [Corner Of My Sky](https://open.spotify.com/track/0Kx5mnfoluqEcrZmQDin6m) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Inner Song](https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz) | 7:27 |
 | 36 | [Love in Constant Spectacle](https://open.spotify.com/track/15EzGKqgmv2DJqrZ64tWM3) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [Love in Constant Spectacle](https://open.spotify.com/album/7JQueQibvRMgQ6gHRpUOpd) | 4:17 |
-| 37 | [Deux Paradis](https://open.spotify.com/track/5rpm1ugQFOy1X76YvVFmEO) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Deux Paradis](https://open.spotify.com/album/4uwHuTOND0nzdivw2yuqtG) | 4:33 |
-| 38 | [Snapdragon](https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:12 |
+| 37 | [Snapdragon](https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:12 |
+| 38 | [Deux Paradis](https://open.spotify.com/track/5rpm1ugQFOy1X76YvVFmEO) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Deux Paradis](https://open.spotify.com/album/4uwHuTOND0nzdivw2yuqtG) | 4:33 |
 | 39 | [Afternoon X](https://open.spotify.com/track/3DdKYu9en4HzWUdg98bB9Z) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Afternoon X](https://open.spotify.com/album/6yUptnHXA1lRp48hWzXsUl) | 4:06 |
 | 40 | [Billowing](https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk) | [Hiro Ama](https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ), [Keeley Forsyth](https://open.spotify.com/artist/3b0YRaadaoMwK4STNVeHGF) | [Music for Peace and Harmony](https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW) | 4:35 |
 | 41 | [Follow The Light](https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Follow The Light](https://open.spotify.com/album/6v2rqiNIvp8wpwjuM52ea6) | 2:39 |
@@ -84,12 +84,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 74 | [Lovegaze](https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 4:51 |
 | 75 | [love is not the poison](https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [love is not the poison](https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s) | 5:18 |
 | 76 | [Space Jumps](https://open.spotify.com/track/4o7FggT3N6nFRfks48BTGS) | [Memory Of Jane](https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM) | [Space Jumps](https://open.spotify.com/album/25px9ivu1nlZUNk5LhKmeM) | 3:31 |
-| 77 | [Al Sur](https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha), [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Al Sur](https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy) | 3:18 |
-| 78 | [La Roseraie](https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 2:50 |
-| 79 | [Heat!](https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG) | [Me Lost Me](https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO) | [RPG](https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15) | 3:47 |
-| 80 | [Itchy](https://open.spotify.com/track/7gLNxGyUmJWxjDTkZKOvQZ) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Itchy](https://open.spotify.com/album/1ND77RmeJxHFW7J4imS0MI) | 3:12 |
-| 81 | [Processional](https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Are You There God? It’s Me, @](https://open.spotify.com/album/3yH4aVY5yxzxaijksQOOJk) | 3:14 |
-| 82 | [Sekwar](https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ) | 4:34 |
+| 77 | [La Roseraie](https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 2:50 |
+| 78 | [Al Sur](https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha), [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Al Sur](https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy) | 3:18 |
+| 79 | [Processional](https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Are You There God? It’s Me, @](https://open.spotify.com/album/3yH4aVY5yxzxaijksQOOJk) | 3:14 |
+| 80 | [Sekwar](https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ) | 4:34 |
+| 81 | [Itchy](https://open.spotify.com/track/7gLNxGyUmJWxjDTkZKOvQZ) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Itchy](https://open.spotify.com/album/1ND77RmeJxHFW7J4imS0MI) | 3:12 |
+| 82 | [Heat!](https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG) | [Me Lost Me](https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO) | [RPG](https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15) | 3:47 |
 | 83 | [Sur la terre](https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Sur La Terre](https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk) | 3:16 |
 | 84 | [I'VE BEEN EVIL](https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [SOMETHING'S ENDING / I'VE BEEN EVIL](https://open.spotify.com/album/2s12W57AKBVgE05hxm1v6P) | 2:34 |
 | 85 | [Dividual Individual](https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2) | 5:00 |

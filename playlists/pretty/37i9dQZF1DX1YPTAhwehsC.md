@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: A$AP Rocky
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,854 likes - 99 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,841 likes - 99 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 3 | [Belly](https://open.spotify.com/track/7MYypH9VM4e2Ai05LhhyDE) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Belly](https://open.spotify.com/album/6xkDEPFBEVdWcOF42JEbYP) | 3:08 |
 | 4 | [STAY HERE 4 LIFE \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 5:46 |
 | 5 | [I Wanna Rock](https://open.spotify.com/track/6PetGqmYmxytj5TfEvHO5k) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [I Wanna Rock](https://open.spotify.com/album/5RvJlNjUyH6D7DEdbFjI1z) | 3:44 |
-| 6 | [Is Loving Really Bad](https://open.spotify.com/track/0glAAFulS8PHqD1b35sKz6) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Is Loving Really Bad](https://open.spotify.com/album/5gD0Dn9wTqvAq4O73895dI) | 2:28 |
+| 6 | [Is Loving Really Bad](https://open.spotify.com/track/0glAAFulS8PHqD1b35sKz6) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Is Loving Really Bad](https://open.spotify.com/album/5gD0Dn9wTqvAq4O73895dI) | 2:26 |
 | 7 | [600 Racks](https://open.spotify.com/track/4ss5dbCWS90LRINPRxDjE6) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [600 Racks](https://open.spotify.com/album/6rU9y9BYVGa7uA977pl0f5) | 3:04 |
 | 8 | [ROLLIN](https://open.spotify.com/track/2JCWCZzZiLoZYoWXJLktbN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [BIANCA \(Deluxe\)](https://open.spotify.com/album/5DOdpNIiaOVADclW1K8dIN) | 2:29 |
 | 9 | [Bobby Seale Dreams](https://open.spotify.com/track/334tE6hsEfVNj9zzHf3MKK) | [Yoko](https://open.spotify.com/artist/4LJbGT2DlmVpmWMoznZ5AI) | [Tweakamann](https://open.spotify.com/album/110szDF5FBs5vtShG1b3Bm) | 1:09 |

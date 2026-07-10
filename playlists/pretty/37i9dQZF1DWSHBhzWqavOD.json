@@ -1,6 +1,6 @@
 {
   "description": "The Biggest Afrobeats festival in World ",
-  "num_followers": 23980,
+  "num_followers": 24067,
   "original_name": "Afro Nation 2026",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 167027,
+      "name": "Maliciosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3CJiho39iutZrDxQG5Vubl"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "Jerusalema (Deluxe)",
         "url": "https://open.spotify.com/album/4Kf2NqytdWUKXgnvsRVlLR"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 328000,
       "name": "Jerusalema (feat. Burna Boy & Nomcebo Zikode) - Remix",
       "url": "https://open.spotify.com/track/1dmES1X8l1AnFBy2gR3wYA"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 167027,
-      "name": "Maliciosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/3CJiho39iutZrDxQG5Vubl"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1607,6 +1607,26 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Gentility",
+        "url": "https://open.spotify.com/album/5xHAJFZs4692uGn0j79eRZ"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 225729,
+      "name": "Gentility",
+      "url": "https://open.spotify.com/track/2Zyayzb8BPHBXZk14W4HPn"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "Ke Star (feat. Virgo Deep) [Remix]",
         "url": "https://open.spotify.com/album/3YVMs7Ktt0s5Lt9vRCOcf3"
       },
@@ -1627,26 +1647,6 @@
       "duration_ms": 328766,
       "name": "Ke Star (feat. Virgo Deep) - Remix",
       "url": "https://open.spotify.com/track/71JcMmqaJ2rGxxTcufwkSg"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Gentility",
-        "url": "https://open.spotify.com/album/5xHAJFZs4692uGn0j79eRZ"
-      },
-      "artists": [
-        {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 225729,
-      "name": "Gentility",
-      "url": "https://open.spotify.com/track/2Zyayzb8BPHBXZk14W4HPn"
     },
     {
       "added_at": "2026-06-30 14:51:43",

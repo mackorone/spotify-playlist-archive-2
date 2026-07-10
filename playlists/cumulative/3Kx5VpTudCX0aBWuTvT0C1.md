@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-184 songs - 10 hr 40 min
+185 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [automatic shoes](https://open.spotify.com/track/5yDoiuvVI1YBNlS8mjjL4F) | [we are concrete](https://open.spotify.com/artist/1G8m3RgBJsjJNBMFiB4pWP) | [\(\)](https://open.spotify.com/album/5HcYtyZx6yPCqTIz6WaDwV) | 2:55 | 2025-10-26 | 2025-12-09 |
 | [Away](https://open.spotify.com/track/05YP4WXwNVoj9A0Viqwr3k) | [Orbis](https://open.spotify.com/artist/6mNA4j8NdL2AAV46EKMy1d) | [Slick Heart Machinery](https://open.spotify.com/album/5Ji55WmrvyDcClmIXboWIR) | 7:15 | 2025-11-03 | 2025-12-09 |
 | [Away Too Long](https://open.spotify.com/track/0tuvYh6wDvM45ivRimfyUB) | [Digital Bog](https://open.spotify.com/artist/34WuPzlCsRIbT5RuFGtTMw) | [Away Too Long](https://open.spotify.com/album/4iJhmu6czRwB1FUiKjIBsg) | 3:00 | 2025-11-26 | 2026-06-14 |
+| [Backseat Polaroids](https://open.spotify.com/track/1JriHYTjpwdbG5UAH0RKHU) | [The Nightfall](https://open.spotify.com/artist/1SImrCTeQXeP3b7ZQ5ODKo) | [Backseat Polaroids](https://open.spotify.com/album/245ZhCG2h6slLxHhvgniyh) | 3:31 | 2026-07-09 |  |
 | [Balla da solo](https://open.spotify.com/track/5i2OJvqlBWWuBNC3FTqOPM) | [Gin Ozz](https://open.spotify.com/artist/6Mt0M4SfhEqzg7Jkxoee54) | [Balla da solo](https://open.spotify.com/album/6goetFqE7uwg4jYxk0THyA) | 3:20 | 2026-06-18 |  |
 | [Bangkok Jam](https://open.spotify.com/track/3bt6ASkwDUQOcIrQf4ufFS) | [John Taratsas](https://open.spotify.com/artist/4VkfNtbWEZMiOMm4NjNPnf) | [Bangkok Jam](https://open.spotify.com/album/2lldcVHNQyPzeWFrNZo0Oq) | 3:05 | 2025-10-29 | 2025-12-09 |
 | [Bara](https://open.spotify.com/track/50hb6zxmJMxrfavhe0fyn7) | [Merah](https://open.spotify.com/artist/0SqG39qV2HtVNgtjKSKGXQ) | [Utara](https://open.spotify.com/album/2Ds4iV3LPSya4zyVBHqhcn) | 3:49 | 2026-06-18 |  |

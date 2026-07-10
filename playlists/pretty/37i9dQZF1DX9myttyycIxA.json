@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: Wishy",
-  "num_followers": 308763,
+  "num_followers": 308759,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPUuz6KSehgXdlXUjcVys7h0UOjq",
+  "snapshot_id": "AAAAAFdVNS+3ahh2JhCqVpnpzTVLUa67",
   "tracks": [
     {
       "added_at": "2026-06-26 20:05:05",
@@ -23,6 +23,22 @@
       "duration_ms": 180870,
       "name": "Pretty Little Fantasy",
       "url": "https://open.spotify.com/track/4Smf0vdmlvQRsUezDS91wW"
+    },
+    {
+      "added_at": "2026-07-09 16:34:40",
+      "album": {
+        "name": "CICADA 2",
+        "url": "https://open.spotify.com/album/1O5pUAZozUviIIGyyFpiVa"
+      },
+      "artists": [
+        {
+          "name": "Cicada",
+          "url": "https://open.spotify.com/artist/1Vt0r4emAfug3oHrH4GIvD"
+        }
+      ],
+      "duration_ms": 156434,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/77O4FsprU2uCxOWdgkC98C"
     },
     {
       "added_at": "2026-06-26 20:05:05",
@@ -55,6 +71,22 @@
       "duration_ms": 200853,
       "name": "Drive",
       "url": "https://open.spotify.com/track/73gsQxt8P7MNkaEB9QUvYT"
+    },
+    {
+      "added_at": "2026-07-09 16:34:40",
+      "album": {
+        "name": "Florida Water Blues",
+        "url": "https://open.spotify.com/album/7ggqCiAQWXdPYr8PHdbCn6"
+      },
+      "artists": [
+        {
+          "name": "Twisted Teens",
+          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
+        }
+      ],
+      "duration_ms": 224420,
+      "name": "Florida Water Blues",
+      "url": "https://open.spotify.com/track/6vkuBueAxgzQe8dbGumiYF"
     },
     {
       "added_at": "2026-06-26 20:05:05",

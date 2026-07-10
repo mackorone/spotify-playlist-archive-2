@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : MDNS",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Jain",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "faux raccords",
+        "url": "https://open.spotify.com/album/4g2Fl4O85OW0aUz0toF3PX"
+      },
+      "artists": [
+        {
+          "name": "Virgile Martini",
+          "url": "https://open.spotify.com/artist/5kYxARx7UT4CiZw7NaCfOI"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155685,
+      "name": "Allo docteur",
+      "url": "https://open.spotify.com/track/7DitnLZ8YxUFdMQ3t0tTXT"
+    },
+    {
+      "album": {
         "name": "ALLO?C MOI",
         "url": "https://open.spotify.com/album/41DPBGQl4RL8QqJlm5cxP7"
       },
@@ -460,7 +478,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 142000,
       "name": "Appelle-moi",
       "url": "https://open.spotify.com/track/52imcKqpt9NgcThDj2WHTx"
@@ -1460,7 +1478,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 144399,
       "name": "Chanson triste (feat. a6el)",
       "url": "https://open.spotify.com/track/1sc6lYULJA1X0s1yT9r2p3"
@@ -1802,7 +1820,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 131961,
       "name": "Com\u00e8te",
       "url": "https://open.spotify.com/track/5gOQr8XJxXtmLIDhSTPm20"
@@ -3263,6 +3281,24 @@
     },
     {
       "album": {
+        "name": "100%HITS",
+        "url": "https://open.spotify.com/album/5jEHthPLKhKWSJkZLJHfDp"
+      },
+      "artists": [
+        {
+          "name": "Venus VNR",
+          "url": "https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180077,
+      "name": "HISTOIRE2Q",
+      "url": "https://open.spotify.com/track/3Evkob5ZBmK5x9WXb0hxxo"
+    },
+    {
+      "album": {
         "name": "Je voulais te dire",
         "url": "https://open.spotify.com/album/46EUuGovh2n0RQY7uBDlVp"
       },
@@ -3314,7 +3350,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 203053,
       "name": "Hula Hoop",
       "url": "https://open.spotify.com/track/1z4KHoU4euYqA84FE5986Q"
@@ -5547,6 +5583,24 @@
     },
     {
       "album": {
+        "name": "MIND THE GAP",
+        "url": "https://open.spotify.com/album/7kn0CpZlN0CXTrqEvxgGin"
+      },
+      "artists": [
+        {
+          "name": "BLUE GEMINI",
+          "url": "https://open.spotify.com/artist/7t8yQWK5A7DIXDJqyoXE3w"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "Magenta",
+      "url": "https://open.spotify.com/track/5tLmCV2kgSqTLVYetgTgBL"
+    },
+    {
+      "album": {
         "name": "mais le ciel est sublime",
         "url": "https://open.spotify.com/album/6wlaGZBe38vEnajOPYzAOl"
       },
@@ -6352,7 +6406,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 178533,
       "name": "Nothing Lasts",
       "url": "https://open.spotify.com/track/5ftl2zhs5mo6LZtSJNcIh8"
@@ -6453,6 +6507,24 @@
     },
     {
       "album": {
+        "name": "One way (le mode automatique)",
+        "url": "https://open.spotify.com/album/0e4Wow8ArKaqBsao2ytLyx"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Bonjour",
+          "url": "https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156202,
+      "name": "One way (le mode automatique)",
+      "url": "https://open.spotify.com/track/2UAOU0vF5l8WYuFN5Bkajs"
+    },
+    {
+      "album": {
         "name": "Opening",
         "url": "https://open.spotify.com/album/03BSJyijRZPzlCiPbTcHFC"
       },
@@ -6482,7 +6554,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 214880,
       "name": "Oui mais non",
       "url": "https://open.spotify.com/track/07f9dfX1Uo0p7dz6yncTZE"
@@ -6666,6 +6738,28 @@
       "duration_ms": 221746,
       "name": "Partir",
       "url": "https://open.spotify.com/track/57VBmGojxzW7mOWe7IUX6s"
+    },
+    {
+      "album": {
+        "name": "PAS +",
+        "url": "https://open.spotify.com/album/1gf5xUV0msVwmsHD4Ets8E"
+      },
+      "artists": [
+        {
+          "name": "unisature",
+          "url": "https://open.spotify.com/artist/5Q1QmxKNSY4UHazJ0wFQXn"
+        },
+        {
+          "name": "William",
+          "url": "https://open.spotify.com/artist/0TTEZQOq4cNQsdL7MA1gcH"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "PAS +",
+      "url": "https://open.spotify.com/track/5QkBwwh6SKPIVBE5Xzhp4y"
     },
     {
       "album": {
@@ -6980,6 +7074,42 @@
       "duration_ms": 193771,
       "name": "PLAYSTATION",
       "url": "https://open.spotify.com/track/2Y7pSaRip0CegkydJUtzqp"
+    },
+    {
+      "album": {
+        "name": "PLEINE LUNE",
+        "url": "https://open.spotify.com/album/7aUwZPIjbAuB82uxwgApvf"
+      },
+      "artists": [
+        {
+          "name": "Kayson",
+          "url": "https://open.spotify.com/artist/592Fx192BSIFGTS9ldHXoI"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182140,
+      "name": "PLEINE LUNE",
+      "url": "https://open.spotify.com/track/2uOQmdjZyVVt0fUXfmE5yJ"
+    },
+    {
+      "album": {
+        "name": "pleurer, baiser, rire",
+        "url": "https://open.spotify.com/album/1MARX9XFzXGfu2uAbs9Z2P"
+      },
+      "artists": [
+        {
+          "name": "ange",
+          "url": "https://open.spotify.com/artist/4Z07W9SCuNeImQlwTXsczG"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103986,
+      "name": "pleurer, baiser, rire",
+      "url": "https://open.spotify.com/track/2K2NUCIZ4gQ1M5tAunR6Yv"
     },
     {
       "album": {
@@ -7590,7 +7720,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 148260,
       "name": "RIEN QUE \u00c7A",
       "url": "https://open.spotify.com/track/0b8Nzt7nZW1Q5wM8qlLGgE"
@@ -8753,6 +8883,24 @@
     },
     {
       "album": {
+        "name": "Temp\u00eate",
+        "url": "https://open.spotify.com/album/7fcB91H0LuS8zzg4kymcww"
+      },
+      "artists": [
+        {
+          "name": "Odezenne",
+          "url": "https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258148,
+      "name": "Temp\u00eate",
+      "url": "https://open.spotify.com/track/1w4adoqWBcsxBxMFIoNVZ1"
+    },
+    {
+      "album": {
         "name": "territoire(s) perdu(s)",
         "url": "https://open.spotify.com/album/3ycRGfXo5CUm4L0cNq87ES"
       },
@@ -9496,7 +9644,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 202775,
       "name": "WEBCAM",
       "url": "https://open.spotify.com/track/7ioVtUe6IAiWvVohQJvcNH"

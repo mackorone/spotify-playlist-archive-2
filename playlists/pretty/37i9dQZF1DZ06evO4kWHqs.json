@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAACt7ahmU7Mdm8wmwF6jyxbT",
+  "snapshot_id": "ak2TAAAAAAA6ANOErJplZr05O9jLZVx3",
   "tracks": [
     {
       "added_at": null,
@@ -375,26 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bitches Over Boys",
-        "url": "https://open.spotify.com/album/23qRynO3OytfHSeMKtTADN"
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/2BFNePqPv0p0nsxbtgD1RE"
       },
       "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Redlight",
-          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
-        },
         {
           "name": "SadBoi",
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 147947,
-      "name": "Bitches Over Boys",
-      "url": "https://open.spotify.com/track/0YWFpqZck5m8olsZr3CC1H"
+      "duration_ms": 131250,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/0Oqiavr7my94MXN2K8HLeJ"
     },
     {
       "added_at": null,
@@ -415,18 +407,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twisted",
-        "url": "https://open.spotify.com/album/2BFNePqPv0p0nsxbtgD1RE"
+        "name": "Bitches Over Boys",
+        "url": "https://open.spotify.com/album/23qRynO3OytfHSeMKtTADN"
       },
       "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        },
         {
           "name": "SadBoi",
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 131250,
-      "name": "Twisted",
-      "url": "https://open.spotify.com/track/0Oqiavr7my94MXN2K8HLeJ"
+      "duration_ms": 147947,
+      "name": "Bitches Over Boys",
+      "url": "https://open.spotify.com/track/0YWFpqZck5m8olsZr3CC1H"
     },
     {
       "added_at": null,
@@ -519,46 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DRY CRY",
-        "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 169208,
-      "name": "cunty (feat. Duquesa)",
-      "url": "https://open.spotify.com/track/4VZXiqqOV4fNg4IS2SecgL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BARE CHAT",
-        "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        },
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        }
-      ],
-      "duration_ms": 243529,
-      "name": "DESLIZA - Slide Remix",
-      "url": "https://open.spotify.com/track/05A0fzgw1LCQhdvsCCSGeL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue Sky (feat. LYZZA & SadBoi)",
         "url": "https://open.spotify.com/album/1gAXHK0ShArg1KBrOoKbwu"
       },
@@ -583,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "watch it all fall",
-        "url": "https://open.spotify.com/album/2IQilFWhwiowCzcdNN0xiG"
+        "name": "BARE CHAT",
+        "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
       },
       "artists": [
         {
           "name": "SadBoi",
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
         }
       ],
-      "duration_ms": 170666,
-      "name": "watch it all fall",
-      "url": "https://open.spotify.com/track/4dHI6744n697CKwis0vhT5"
+      "duration_ms": 243529,
+      "name": "DESLIZA - Slide Remix",
+      "url": "https://open.spotify.com/track/05A0fzgw1LCQhdvsCCSGeL"
     },
     {
       "added_at": null,
@@ -608,19 +572,19 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         },
         {
-          "name": "DJ SAZE",
-          "url": "https://open.spotify.com/artist/2HrKTpCwAnIHz39mXoaNot"
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
         }
       ],
-      "duration_ms": 110769,
-      "name": "rosa",
-      "url": "https://open.spotify.com/track/1j8xdNqCaZ02QO14dS8Y1D"
+      "duration_ms": 169208,
+      "name": "cunty (feat. Duquesa)",
+      "url": "https://open.spotify.com/track/4VZXiqqOV4fNg4IS2SecgL"
     },
     {
       "added_at": null,
       "album": {
-        "name": "BARE CHAT",
-        "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
+        "name": "watch it all fall",
+        "url": "https://open.spotify.com/album/2IQilFWhwiowCzcdNN0xiG"
       },
       "artists": [
         {
@@ -628,9 +592,9 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 84708,
-      "name": "Vex",
-      "url": "https://open.spotify.com/track/2Vzrlke7xUmfLmKLMqS7xl"
+      "duration_ms": 170666,
+      "name": "watch it all fall",
+      "url": "https://open.spotify.com/track/4dHI6744n697CKwis0vhT5"
     },
     {
       "added_at": null,
@@ -659,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gyal Clown",
-        "url": "https://open.spotify.com/album/1Got83XMepM9n4AS4AwT6h"
+        "name": "BARE CHAT",
+        "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
       },
       "artists": [
         {
@@ -668,9 +632,9 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 136888,
-      "name": "Gyal Clown",
-      "url": "https://open.spotify.com/track/4KGBCy1x03LIG3YG07JhuP"
+      "duration_ms": 84708,
+      "name": "Vex",
+      "url": "https://open.spotify.com/track/2Vzrlke7xUmfLmKLMqS7xl"
     },
     {
       "added_at": null,
@@ -711,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gyal Clown",
+        "url": "https://open.spotify.com/album/1Got83XMepM9n4AS4AwT6h"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 136888,
+      "name": "Gyal Clown",
+      "url": "https://open.spotify.com/track/4KGBCy1x03LIG3YG07JhuP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "U Dun Kno",
         "url": "https://open.spotify.com/album/5lD2QGhGCh7lGmfvaLWjxR"
       },
@@ -723,22 +703,6 @@
       "duration_ms": 146548,
       "name": "U Dun Kno",
       "url": "https://open.spotify.com/track/4xBkOH8QEUSsrObywcUWyf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "were all the ig girls worth it?",
-        "url": "https://open.spotify.com/album/6uWFHUANC7gDHb0Ytv6OTx"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 125397,
-      "name": "blaming me",
-      "url": "https://open.spotify.com/track/77A3hbvlWZ27EmRa0ZJFaz"
     },
     {
       "added_at": null,
@@ -756,9 +720,25 @@
           "url": "https://open.spotify.com/artist/2HrKTpCwAnIHz39mXoaNot"
         }
       ],
-      "duration_ms": 73846,
-      "name": "dnd",
-      "url": "https://open.spotify.com/track/5Ttdoj46kU4eQbwVB4KecE"
+      "duration_ms": 110769,
+      "name": "rosa",
+      "url": "https://open.spotify.com/track/1j8xdNqCaZ02QO14dS8Y1D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "were all the ig girls worth it?",
+        "url": "https://open.spotify.com/album/6uWFHUANC7gDHb0Ytv6OTx"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 125397,
+      "name": "blaming me",
+      "url": "https://open.spotify.com/track/77A3hbvlWZ27EmRa0ZJFaz"
     },
     {
       "added_at": null,
@@ -799,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "his sweater",
-        "url": "https://open.spotify.com/album/3j9430eB54S43NfA9JgXvV"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "his sweater",
-      "url": "https://open.spotify.com/track/5wqDRHhLsthAPQXrwpzdEI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DRY CRY",
         "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
       },
@@ -822,11 +786,15 @@
         {
           "name": "SadBoi",
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "DJ SAZE",
+          "url": "https://open.spotify.com/artist/2HrKTpCwAnIHz39mXoaNot"
         }
       ],
-      "duration_ms": 149333,
-      "name": "nana",
-      "url": "https://open.spotify.com/track/3PfDnS3vZIEse1F14LJnlj"
+      "duration_ms": 73846,
+      "name": "dnd",
+      "url": "https://open.spotify.com/track/5Ttdoj46kU4eQbwVB4KecE"
     },
     {
       "added_at": null,
@@ -871,6 +839,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "his sweater",
+        "url": "https://open.spotify.com/album/3j9430eB54S43NfA9JgXvV"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "his sweater",
+      "url": "https://open.spotify.com/track/5wqDRHhLsthAPQXrwpzdEI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DRY CRY",
+        "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "nana",
+      "url": "https://open.spotify.com/track/3PfDnS3vZIEse1F14LJnlj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GRACIAS (Remix)",
+        "url": "https://open.spotify.com/album/2cA7MFLrQZ8cUB2iJ0wKUS"
+      },
+      "artists": [
+        {
+          "name": "Bayka",
+          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 146377,
+      "name": "GRACIAS - Remix",
+      "url": "https://open.spotify.com/track/3brSGOCq6CbPLP4b1LBC7H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "METAL TAIL",
         "url": "https://open.spotify.com/album/743P9G9do6QUrn31c7Y7p1"
       },
@@ -887,6 +907,22 @@
       "duration_ms": 178611,
       "name": "DAMAGE",
       "url": "https://open.spotify.com/track/7yGqmihUYriXMVXmbOHhLy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ms. Do You Wrong",
+        "url": "https://open.spotify.com/album/3dheKefbYeaYT97B6bxEzW"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 113142,
+      "name": "Ms. Do You Wrong",
+      "url": "https://open.spotify.com/track/3kuby3Wz1hjeSgCFVB4Xn1"
     },
     {
       "added_at": null,
@@ -923,42 +959,6 @@
       "duration_ms": 148860,
       "name": "LIE LIE LIE!",
       "url": "https://open.spotify.com/track/0pAQYA3DItRcxctQCGM2AH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GRACIAS (Remix)",
-        "url": "https://open.spotify.com/album/2cA7MFLrQZ8cUB2iJ0wKUS"
-      },
-      "artists": [
-        {
-          "name": "Bayka",
-          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
-        },
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 146377,
-      "name": "GRACIAS - Remix",
-      "url": "https://open.spotify.com/track/3brSGOCq6CbPLP4b1LBC7H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ms. Do You Wrong",
-        "url": "https://open.spotify.com/album/3dheKefbYeaYT97B6bxEzW"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 113142,
-      "name": "Ms. Do You Wrong",
-      "url": "https://open.spotify.com/track/3kuby3Wz1hjeSgCFVB4Xn1"
     }
   ],
   "unique_name": "This Is SadBoi",

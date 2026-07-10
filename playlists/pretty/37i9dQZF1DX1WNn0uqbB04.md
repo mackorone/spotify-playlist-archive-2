@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 
 > El Tango está más vivo que nunca 📸 Santiago Motorizado & FLORIAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,670 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,669 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 38 | [Carabelas Nada](https://open.spotify.com/track/6vgPBFsZOOjrlVPLlamQHj) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Carabelas Nada](https://open.spotify.com/album/6i37stRS1hsLchPh8qpBtz) | 4:43 |
 | 39 | [Zorzal](https://open.spotify.com/track/1UUXHwy4T4wHqj1wN7LWpP) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Campo](https://open.spotify.com/album/34BPrha22VRVsJsOUAqE2l) | 3:09 |
 | 40 | [La Última Copa](https://open.spotify.com/track/5QWi1iGvTappdOGes0CAPE) | [Mauricio Junior Lescano](https://open.spotify.com/artist/0InckL49BuCjxQZuSPg9DV) | [Modo Tango](https://open.spotify.com/album/5hztYEebSTjDTFEV1gO9hK) | 2:35 |
-| 41 | [La Del Subte](https://open.spotify.com/track/2jH02gTgXEd8Uac7gMu22d) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Electro Dub Tango](https://open.spotify.com/album/7hQ3XsiHgR5NFNF3MHHvBQ) | 3:37 |
-| 42 | [Sube Y Baja](https://open.spotify.com/track/4W6EyV83P9GxKHGiQ2uoUQ) | [MLNGA CLUB](https://open.spotify.com/artist/7ANcrZTJw6ufk0i6GS0yvh) | [Mlnga Club](https://open.spotify.com/album/1WuCYVq8MBofBOluFpLK73) | 4:04 |
+| 41 | [Sube Y Baja](https://open.spotify.com/track/4W6EyV83P9GxKHGiQ2uoUQ) | [MLNGA CLUB](https://open.spotify.com/artist/7ANcrZTJw6ufk0i6GS0yvh) | [Mlnga Club](https://open.spotify.com/album/1WuCYVq8MBofBOluFpLK73) | 4:04 |
+| 42 | [La Del Subte](https://open.spotify.com/track/2jH02gTgXEd8Uac7gMu22d) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Electro Dub Tango](https://open.spotify.com/album/7hQ3XsiHgR5NFNF3MHHvBQ) | 3:37 |
 | 43 | [El Vino Triste](https://open.spotify.com/track/7KO3n68SPMyh9MFAQDWU9j) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [El Vino Triste \(feat\. Raúl Lavié\)](https://open.spotify.com/album/07G5T8FaZTFYRNtawKaPHQ) | 2:53 |
 | 44 | [Fueye Mood](https://open.spotify.com/track/7o405CF3y3a0s5nDPQYAlE) | [Supertangox](https://open.spotify.com/artist/0hSsQFYJ0B5MMpjpg9rwKC) | [Fueye Mood](https://open.spotify.com/album/7vrPwQQk9tgwirJXpa8uia) | 3:51 |
-| 45 | [Transtango](https://open.spotify.com/track/6ajUXYpxjeP6PrjJOoY0b2) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Reinventango](https://open.spotify.com/album/5jwhQjcZ5sIiNos3OfLwxi) | 4:19 |
-| 46 | [Fuego y pasión / Que Ironía \- Acústico](https://open.spotify.com/track/3UzaPjqE4v7CCnvVzbVNKg) | [Gianni](https://open.spotify.com/artist/0Wb8Pu3pQBRYRhuc9yRZOU) | [Fuego y pasión / Que Ironía \(Acústico\)](https://open.spotify.com/album/3wJNdWMDUM0C4d5j9SUbDD) | 4:00 |
+| 45 | [Fuego y pasión / Que Ironía \- Acústico](https://open.spotify.com/track/3UzaPjqE4v7CCnvVzbVNKg) | [Gianni](https://open.spotify.com/artist/0Wb8Pu3pQBRYRhuc9yRZOU) | [Fuego y pasión / Que Ironía \(Acústico\)](https://open.spotify.com/album/3wJNdWMDUM0C4d5j9SUbDD) | 4:00 |
+| 46 | [Transtango](https://open.spotify.com/track/6ajUXYpxjeP6PrjJOoY0b2) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Reinventango](https://open.spotify.com/album/5jwhQjcZ5sIiNos3OfLwxi) | 4:19 |
 | 47 | [Farras](https://open.spotify.com/track/0vukCYhpBdyFxAyjLPFNhq) | [BIFE](https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Veinte Veinte](https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG) | 1:13 |
 | 48 | [Plegaria para un niño dormido](https://open.spotify.com/track/3hW3s0ClWYEKdDVZnwKZYU) | [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 3:47 |
 | 49 | [Viaje Sin Luna](https://open.spotify.com/track/1LEU5VOD3tUQabsMTPBY19) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 4:32 |

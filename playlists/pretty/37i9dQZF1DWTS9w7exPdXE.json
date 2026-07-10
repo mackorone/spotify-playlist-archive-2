@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers. Cover: Samuel Welten (<a href=\"spotify:artist:37i9dQZF1DXaxwXKCsImRe\">RADAR BNLX</a>-artiest)",
-  "num_followers": 167286,
+  "num_followers": 167353,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -1599,58 +1599,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Leef",
-        "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Hazes Jr.",
-          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
-        }
-      ],
-      "duration_ms": 217902,
-      "name": "Leef",
-      "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        },
-        {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
-        }
-      ],
-      "duration_ms": 193694,
-      "name": "Alleen Met Jou",
-      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
-        "name": "Automatisch",
-        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 165768,
-      "name": "Automatisch",
-      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Vluchtstrook",
         "url": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
       },
@@ -1675,6 +1623,58 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        },
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        }
+      ],
+      "duration_ms": 193694,
+      "name": "Alleen Met Jou",
+      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Leef",
+        "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
+        }
+      ],
+      "duration_ms": 217902,
+      "name": "Leef",
+      "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Automatisch",
+        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 165768,
+      "name": "Automatisch",
+      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
         "name": "Sugardaddy",
         "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
       },
@@ -1687,6 +1687,34 @@
       "duration_ms": 131796,
       "name": "Sugardaddy",
       "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
+        "url": "https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        },
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 152285,
+      "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
+      "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1739,34 +1767,6 @@
       "duration_ms": 172235,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
-        "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
-        "url": "https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        },
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        },
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 152285,
-      "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
-      "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
     }
   ],
   "unique_name": "Hollandse Meezingers",

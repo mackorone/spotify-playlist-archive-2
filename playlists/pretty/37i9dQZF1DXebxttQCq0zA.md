@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,272,041 likes - 226 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,272,215 likes - 226 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 225 | [Lucent Calm](https://open.spotify.com/track/3AVyhHZshmqu53oCcqXV4Z) | [Phase Quiet](https://open.spotify.com/artist/4nGXChdq7ggYhLNnqP10Ma) | [Lucent Calm](https://open.spotify.com/album/0NsszANleiE6bzi09tjJ4J) | 2:42 |
 | 226 | [Absorb](https://open.spotify.com/track/59OCrl2Z9eyOSTja6jzNoM) | [Lejo](https://open.spotify.com/artist/5AK84Ka91VoQyA1CmwGbAf) | [Absorb](https://open.spotify.com/album/2WZZgYVzAwzCwIwrVoIhSB) | 2:03 |
 
-Snapshot ID: `AAAAAAeqZm1ggBuMd+i7szwgR/tSsmRq`
+Snapshot ID: `AAAAAKfkxAq/ZxfUCfOWimSmnnLduX0F`

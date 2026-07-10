@@ -1,6 +1,6 @@
 {
   "description": "Un \u00edcono que marc\u00f3 la m\u00fasica para siempre, gracias Willie Col\u00f3n. \ud83d\udd4a\ufe0f",
-  "num_followers": 1875841,
+  "num_followers": 1875728,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
+        "name": "Pan",
+        "url": "https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft"
+      },
+      "artists": [
+        {
+          "name": "Chuwi",
+          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
+        }
+      ],
+      "duration_ms": 221656,
+      "name": "Tikiri",
+      "url": "https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
         "name": "PLIS",
         "url": "https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 222800,
       "name": "PLIS",
       "url": "https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
-        "name": "Pan",
-        "url": "https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft"
-      },
-      "artists": [
-        {
-          "name": "Chuwi",
-          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
-        }
-      ],
-      "duration_ms": 221656,
-      "name": "Tikiri",
-      "url": "https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
+        "name": "Leyendas: Salsa Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 304533,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
         "name": "Salsa Legends",
         "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 358493,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
-        "name": "Leyendas: Salsa Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 304533,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 360666,
+      "name": "Doble Vida",
+      "url": "https://open.spotify.com/track/6kpWSzcaLQc5wccq51Ysp9"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
         "name": "Por Tu Placer",
         "url": "https://open.spotify.com/album/7tapGmPdbl2LJ3Spdk6m5f"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 269800,
       "name": "Comerte a Besos - Salsa Version",
       "url": "https://open.spotify.com/track/5CTj6t8M4n8ft81jN8o1S7"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 360666,
-      "name": "Doble Vida",
-      "url": "https://open.spotify.com/track/6kpWSzcaLQc5wccq51Ysp9"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
-        "name": "Quien",
-        "url": "https://open.spotify.com/album/0hNgwLeRtUaLir1rHEwdLp"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 259090,
-      "name": "Quien",
-      "url": "https://open.spotify.com/track/2hkAgJwtYXK4GiWeJmIyDv"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
         "name": "Soy La Candela",
         "url": "https://open.spotify.com/album/7yx4SxwUnCKxIecRpCGkR5"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 341760,
       "name": "Cuenta Bien",
       "url": "https://open.spotify.com/track/5uAUdYqKxwofLV0p47ED5Y"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
+        "name": "Quien",
+        "url": "https://open.spotify.com/album/0hNgwLeRtUaLir1rHEwdLp"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 259090,
+      "name": "Quien",
+      "url": "https://open.spotify.com/track/2hkAgJwtYXK4GiWeJmIyDv"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
-        "name": "Como Olvidarte",
-        "url": "https://open.spotify.com/album/32uPouQihQTzUcgZCPXJY9"
-      },
-      "artists": [
-        {
-          "name": "Josimar y Su Yamb\u00fa",
-          "url": "https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs"
-        },
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 188078,
-      "name": "Como Olvidarte",
-      "url": "https://open.spotify.com/track/4BqXG8Al1bDML9J8Ywapt7"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
         "name": "Metamorfosis",
         "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
       },
@@ -1751,18 +1731,22 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
-        "name": "GRIS",
-        "url": "https://open.spotify.com/album/7gQT5v5aHRnoHJ7Py2h25f"
+        "name": "Como Olvidarte",
+        "url": "https://open.spotify.com/album/32uPouQihQTzUcgZCPXJY9"
       },
       "artists": [
         {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+          "name": "Josimar y Su Yamb\u00fa",
+          "url": "https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
         }
       ],
-      "duration_ms": 239106,
-      "name": "C\u00f3mo Se Compara",
-      "url": "https://open.spotify.com/track/0NsJ0CkYwNzgKXKWv8ErKd"
+      "duration_ms": 188078,
+      "name": "Como Olvidarte",
+      "url": "https://open.spotify.com/track/4BqXG8Al1bDML9J8Ywapt7"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -1779,6 +1763,22 @@
       "duration_ms": 259586,
       "name": "El Combo del Mundo",
       "url": "https://open.spotify.com/track/7papz71lGIeD4yHPraTfD7"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
+        "name": "GRIS",
+        "url": "https://open.spotify.com/album/7gQT5v5aHRnoHJ7Py2h25f"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 239106,
+      "name": "C\u00f3mo Se Compara",
+      "url": "https://open.spotify.com/track/0NsJ0CkYwNzgKXKWv8ErKd"
     }
   ],
   "unique_name": "Salsa Nation",

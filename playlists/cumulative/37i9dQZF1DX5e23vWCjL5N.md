@@ -2,9 +2,9 @@
 
 ### [Liricisti](https://open.spotify.com/playlist/37i9dQZF1DX5e23vWCjL5N)
 
-> Punchline, storytelling, rap italiano\. DJ Shocca aka Roc Beats in cover.
+> Punchline, storytelling, rap italiano\. Ele A in cover.
 
-444 songs - 22 hr 34 min
+448 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [OK](https://open.spotify.com/track/4Omankg1sEMCJEieJGduI8) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [OK](https://open.spotify.com/album/0gHO8mZTMTQMNRxQgZrwuD) | 2:47 | 2026-03-26 |  |
 | [Oki](https://open.spotify.com/track/0VvjGOqozrA3l33E0NZkmE) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [26](https://open.spotify.com/album/67SBrrE0LhCNEJpar5MQ0P) | 2:13 | 2026-06-25 |  |
 | [Ombre di città \(feat\. Colapesce\)](https://open.spotify.com/track/4kjNUtCESsc43Akyjstr8E) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Ombre di città \(feat\. Colapesce\)](https://open.spotify.com/album/1CbkJFWbNADgydCD7cOoyP) | 3:03 | 2025-07-31 | 2025-09-12 |
+| [OMBRELLINA \(feat\. Vegas Jones & Dani Faiv\)](https://open.spotify.com/track/6uVLw4LxAuU6FKaMiwPnVq) | [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP), [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp), [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ) | [DRIVE SAFE](https://open.spotify.com/album/0r2wwJrvLSWqCetGL21XXu) | 2:12 | 2026-07-09 |  |
 | [ON FIRE](https://open.spotify.com/track/7fH0LbrfyMtQOHBH3Ctf5V) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq) | [ON FIRE](https://open.spotify.com/album/6hDfU5wl4i0G2I4QNfcckp) | 3:21 | 2025-04-28 |  |
 | [Only](https://open.spotify.com/track/4KB5YSxkhJsRimltaSICcp) | [Lorenzza](https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6) | [Only](https://open.spotify.com/album/3AGnHGssZokETorb9IRbXL) | 2:15 | 2026-02-05 | 2026-02-25 |
 | [orfani\. \(con Izi\)](https://open.spotify.com/track/6Ju42BlJ12IxdmexBwIFek) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [decrescendo.](https://open.spotify.com/album/2oV2fJQbYBswcOptTNAKpd) | 3:13 | 2025-05-22 | 2025-06-27 |
@@ -320,6 +321,7 @@
 | [PARTO NATURALE](https://open.spotify.com/track/0irGvCfIUGgbSSPsPIk72f) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [PARTO NATURALE](https://open.spotify.com/album/7jogdPB6uAARTKOoygqpom) | 2:16 | 2025-05-22 |  |
 | [PASSIONE](https://open.spotify.com/track/6HOTek8Xtk0KBy2m5Tt1du) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [INTROSPEZIONE](https://open.spotify.com/album/0j6Fj7S8xJ2yab0paEHRPI) | 1:41 | 2025-07-10 | 2025-09-12 |
 | [Peccati](https://open.spotify.com/track/26VKv5ZFXCdpF54mfoH4MS) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 2:16 | 2023-11-30 | 2024-02-23 |
+| [Per Due Soldi](https://open.spotify.com/track/4iig9dFCpZHUFMMtY4qsae) | [Armani Doc](https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC), [ThinkFast](https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T) | [Per Due Soldi](https://open.spotify.com/album/7xqbmXqLLrKjLuwFxCL7IH) | 3:06 | 2026-07-09 |  |
 | [Per il Sangue Versato](https://open.spotify.com/track/5KgCXKLAuDmeuE9xqW7H0y) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 3:25 | 2026-01-30 |  |
 | [PER SOLDI E PER AMORE](https://open.spotify.com/track/3iO7515tvrsXpNtTGTEUUt) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y) | 3:10 | 2025-09-18 |  |
 | [Per te che Lotto](https://open.spotify.com/track/70600tukZat0m8rM0yqDoD) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 3:08 | 2026-01-30 |  |
@@ -339,6 +341,7 @@
 | [PORTA PORTESE \(feat\. Tormento, Tredici Pietro\)](https://open.spotify.com/track/3HVIK2o1Z4XueKYPPOFMrF) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L), [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [LEGGENDARIO RXX Edition](https://open.spotify.com/album/3v4bpfvNG3GzEJLWdojAyr) | 3:07 | 2025-09-11 | 2025-11-07 |
 | [PREDE](https://open.spotify.com/track/0wgmMFmkc2ZsxcCoz1op0w) | [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT), [Cuta](https://open.spotify.com/artist/3YHgTUKp46PTi8yhIHOUQi) | [PREDE](https://open.spotify.com/album/1zzdOLQb9Qi4rrzNcVFytf) | 2:22 | 2025-06-05 | 2025-06-27 |
 | [Prefissi](https://open.spotify.com/track/19ik2WLPpAWJIy3k3Q2a2L) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:15 | 2023-01-13 |  |
+| [PRIMA](https://open.spotify.com/track/4vLgFh5zLBRWpgRxCfje1z) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [MORENDO AD OCCHI APERTI](https://open.spotify.com/album/0FR8xNZ062P4lWYFLya43C) | 2:29 | 2026-07-09 |  |
 | [Prima che](https://open.spotify.com/track/1bXER40RxwNWTf9fnQOY64) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Prima che](https://open.spotify.com/album/2BWwjP2nMSpRRS1mdnHnIP) | 3:03 | 2026-02-25 |  |
 | [Provincia Policy \(feat\. 22simba & Speranza\)](https://open.spotify.com/track/4RD86kiLai8DvPUg0Z5Hqz) | [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F) | [BISTRO!](https://open.spotify.com/album/2cOa8DD0qiyu8u2aqeCVKv) | 2:20 | 2025-09-11 | 2025-12-12 |
 | [Punto d'incontro](https://open.spotify.com/track/6d76kTlyGcBSeOP2DjraHt) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [io Individuo](https://open.spotify.com/album/31bkDaSjWXeCnc18BfkpaY) | 3:15 | 2026-03-19 | 2026-05-08 |
@@ -382,6 +385,7 @@
 | [sharp](https://open.spotify.com/track/0g6u67MW4H4iE5m6goGNwJ) | [lowlow](https://open.spotify.com/artist/5tBnK7LvBMgvkXuePtfywp) | [sharp](https://open.spotify.com/album/673EVAAQVmLEkh5Yy6tsYq) | 2:43 | 2025-05-16 | 2025-06-27 |
 | [Simba](https://open.spotify.com/track/1HYfVj2vVlKDGlpMkbzdVW) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [68 \(Till The End\)](https://open.spotify.com/album/1F6aVwr0raeSt5YT02hARW) | 3:19 | 2025-04-18 | 2025-10-10 |
 | [Smith & Wesson Freestyle \(feat\. Marracash\)](https://open.spotify.com/track/596fQREtpVHWRl3xCmVhEM) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Dj Harsh](https://open.spotify.com/artist/5BNE7AF1Sp5bWiqtXpekFq), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Fastlife 4](https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6) | 2:10 | 2022-04-15 |  |
+| [Sofia \(feat\. Sayf\)](https://open.spotify.com/track/5XyOcPBalIPilLGjiKePHC) | [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [Antidoto](https://open.spotify.com/album/0vHwuA7PNzG93jVOaXd7sT) | 4:53 | 2026-07-09 |  |
 | [SOLI](https://open.spotify.com/track/0ngRr9jrwrd4bhltVSHTEb) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:35 | 2024-12-13 | 2025-06-06 |
 | [Solo Per Me \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/0UKgEDJm4M54t50cbGGiUC) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 2:58 | 2022-04-15 | 2025-04-11 |
 | [SOLO POLLO 2](https://open.spotify.com/track/2d3nv5bAE7385kdTtVr2b8) | [Giovane Feddini](https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u), [Drimer](https://open.spotify.com/artist/3Qz694qtRw2d9yKFr8zK8u) | [SOLO POLLO 2](https://open.spotify.com/album/66pHoQZyIq67rkuEZQxi10) | 3:16 | 2026-01-22 | 2026-02-13 |

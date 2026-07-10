@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 19505,
+  "num_followers": 19510,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAADNPzrl/leRJJeaDaWkB2Ox",
+  "snapshot_id": "ak2TAAAAAAC3ewE9jCVVvNSYTZrOH8JZ",
   "tracks": [
     {
       "added_at": null,
@@ -939,6 +939,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Thieves In Atlanta (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/5NaBcPMcvwIRCLw3wjlkod"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 192048,
+      "name": "Thieves In Atlanta (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/0O6vnplGquhXRh0Zghyr8w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pink Money (feat. G Herbo)",
         "url": "https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC"
       },
@@ -979,22 +999,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thieves In Atlanta (feat. Coi Leray)",
-        "url": "https://open.spotify.com/album/5NaBcPMcvwIRCLw3wjlkod"
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
       },
       "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 192048,
-      "name": "Thieves In Atlanta (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/0O6vnplGquhXRh0Zghyr8w"
+      "duration_ms": 157800,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
     },
     {
       "added_at": null,
@@ -1019,22 +1035,6 @@
       "duration_ms": 185477,
       "name": "Push Start (with Coi Leray feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/5DnubkVCDDFfcejkhtnM79"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wasted",
-        "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
     }
   ],
   "unique_name": "This Is Coi Leray",

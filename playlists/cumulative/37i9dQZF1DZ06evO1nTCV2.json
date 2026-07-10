@@ -754,7 +754,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 252075,
       "name": "Burning Photographs",
       "url": "https://open.spotify.com/track/6PKNfjoN5MLXoqdTSjq6I4"
@@ -952,7 +952,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 290520,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/1c7QlGCnOxQY0ToOezw9zS"
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 244066,
       "name": "Cracks in the Photograph",
       "url": "https://open.spotify.com/track/12hwupEjdzn47WVFyjD6Rl"
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 262466,
       "name": "Cry On Demand",
       "url": "https://open.spotify.com/track/4PxgclMjvH7lyrvQDJPjC0"
@@ -1582,7 +1582,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 171666,
       "name": "Firecracker",
       "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 183773,
       "name": "Firecracker",
       "url": "https://open.spotify.com/track/1bMo8y4UGCry6QxyuFTzsI"
@@ -3382,7 +3382,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 215706,
       "name": "Please Do Not Let Me Go",
       "url": "https://open.spotify.com/track/1n4IcC3bp6hqha6yYvrJye"
@@ -3454,7 +3454,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 180840,
       "name": "Pretenders",
       "url": "https://open.spotify.com/track/18dFKDJvv0Tz8Bubl3QMsJ"
@@ -3490,7 +3490,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 249485,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/2ysAcfGtUNg4PUOSom6yd5"
@@ -3778,7 +3778,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 176557,
       "name": "Shinin' through the Dark",
       "url": "https://open.spotify.com/track/7igP2tWAoNgUgMTFKAlKY2"
@@ -3958,7 +3958,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 264333,
       "name": "Somehow, Someday",
       "url": "https://open.spotify.com/track/2X3cgDxTNhmkbW3HGl1gkS"
@@ -4300,7 +4300,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 202933,
       "name": "Tell It to My Heart",
       "url": "https://open.spotify.com/track/3dh14wbU3UZzvxNfm1JUdk"
@@ -4722,6 +4722,24 @@
       "duration_ms": 189645,
       "name": "Too Old To Die Young",
       "url": "https://open.spotify.com/track/3IpPLOAeA3bseWabO6fX9S"
+    },
+    {
+      "album": {
+        "name": "The Suicide Handbook",
+        "url": "https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226160,
+      "name": "Touch, Feel & Lose",
+      "url": "https://open.spotify.com/track/6bNrYc4Xzw4Zd3LHS7FsLo"
     },
     {
       "album": {
@@ -5172,6 +5190,24 @@
       "duration_ms": 175466,
       "name": "Wild and Hopeless",
       "url": "https://open.spotify.com/track/6xlSShT4sz2vBzrYQ1lZR0"
+    },
+    {
+      "album": {
+        "name": "The Suicide Handbook",
+        "url": "https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275373,
+      "name": "Wild Flowers",
+      "url": "https://open.spotify.com/track/5mDL6etyGhUBkuKSBc7iux"
     },
     {
       "album": {

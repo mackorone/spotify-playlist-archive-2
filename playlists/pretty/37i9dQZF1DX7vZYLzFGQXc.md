@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 연정\(YeonJeong\)\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,446 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,441 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 11 | [Fort](https://open.spotify.com/track/7KHW6Pfgp8odnmWJ8KxOAi) | [Kwon so jeong](https://open.spotify.com/artist/40i3Nvksz5pGDxoGEz4Q7i) | [Fort](https://open.spotify.com/album/7oMVaKEQlIdMJ7YixaQNdK) | 3:36 |
 | 12 | [Daisy](https://open.spotify.com/track/0vd69ZoxNRPDNkdD02uX13) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [DAISY](https://open.spotify.com/album/4ORomDLja82WVXGmEePcsq) | 2:04 |
 | 13 | [Remaining](https://open.spotify.com/track/6n7EzXekjBHOgAjJbrWrn8) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Remaining](https://open.spotify.com/album/07o0WLU12HUpGjvuzCvcJx) | 5:17 |
-| 14 | [FOMO](https://open.spotify.com/track/5ut4evJfC39eyPuyU6V598) | [South Kidd](https://open.spotify.com/artist/1esvVLySdorVAyrigvWQxZ) | [FOMO](https://open.spotify.com/album/7vip43KlGFeIdvcwNxiPG8) | 2:24 |
+| 14 | [FOMO](https://open.spotify.com/track/5ut4evJfC39eyPuyU6V598) | [SOUTH KIDD](https://open.spotify.com/artist/1esvVLySdorVAyrigvWQxZ) | [FOMO](https://open.spotify.com/album/7vip43KlGFeIdvcwNxiPG8) | 2:24 |
 | 15 | [Love Expiry Date](https://open.spotify.com/track/5zyIOKmjuEWMT4JY859sPA) | [Kim Siwon](https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW) | [Love Expiry Date](https://open.spotify.com/album/7AOcSHkVp9xAkp27TTivG4) | 2:27 |
 | 16 | [Summer Equation](https://open.spotify.com/track/35cHw3u8SKKmjlunF9yWmR) | [EJel](https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd) | [Summer Equation](https://open.spotify.com/album/7vxxHrc0G4FVWoBsG8auNQ) | 2:51 |
 | 17 | [Clover](https://open.spotify.com/track/3ykYgc3QSxKuBYRXl4l9Uv) | [Sujo](https://open.spotify.com/artist/48j7Y03pXamTYd3TGuVL7r) | [Clover](https://open.spotify.com/album/13sFVVgefDaJppXGH8pyJl) | 3:33 |

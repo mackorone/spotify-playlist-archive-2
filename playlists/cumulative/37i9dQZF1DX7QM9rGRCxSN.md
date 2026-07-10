@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00:00](https://open.spotify.com/track/10w3SS3mZe9sRPbhZg4Vcc) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [00:00](https://open.spotify.com/album/2uEBBdg1RqgZhmpJU9kpf5) | 3:17 | 2025-10-24 | 2026-06-13 |
-| [24:00](https://open.spotify.com/track/6ZZMJsKZavEzmXSgHT0TIW) | [Diente de Oro](https://open.spotify.com/artist/6o7Yqv4imhW4Jz4Y1v20YM) | [Nimio](https://open.spotify.com/album/4nZopQiqBny5EWs3sZMZYm) | 3:38 | 2026-06-12 |  |
+| [24:00](https://open.spotify.com/track/6ZZMJsKZavEzmXSgHT0TIW) | [Diente de Oro](https://open.spotify.com/artist/6o7Yqv4imhW4Jz4Y1v20YM) | [Nimio](https://open.spotify.com/album/4nZopQiqBny5EWs3sZMZYm) | 3:38 | 2026-06-12 | 2026-07-10 |
 | [31](https://open.spotify.com/track/6e9FG8qGTou5WZnExDRj9q) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [31](https://open.spotify.com/album/2fzX5NsXDEoN65sF7KCsP6) | 3:35 | 2025-10-24 | 2026-06-13 |
 | [3k](https://open.spotify.com/track/1B9QARNqTkzIUosalq7d7g) | [Kumatora](https://open.spotify.com/artist/22c7RZg1HnmhTs96YEJLYs) | [lo único incómodo \(es\) que nos vamos a encontrar](https://open.spotify.com/album/5QKRBZ05aG8NOQIqsz0oPx) | 1:44 | 2026-06-12 |  |
 | [Al Dolor](https://open.spotify.com/track/0btPdehlgDqJNiqCBu9mTs) | [Vera Fauna](https://open.spotify.com/artist/6A1ptzbr3ljSMF01esP6G4) | [Al Dolor](https://open.spotify.com/album/1qcACYx5tCgfCF0xkzRSXG) | 2:51 | 2022-04-14 | 2023-03-11 |
@@ -43,7 +43,7 @@
 | [Cristinópolis](https://open.spotify.com/track/7JbLW703nG7Ukr1iHwLE8L) | [Daga Voladora](https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca) | [Los manantiales](https://open.spotify.com/album/4MAFhcqXWSW6eQfjOioK4o) | 3:08 | 2024-06-24 | 2024-10-05 |
 | [Cruz de navajas](https://open.spotify.com/track/3Iw2JGQOIx5LtmpPX5HTz6) | [Beyond Sadness](https://open.spotify.com/artist/4D6riy0MljyHs3LtsWMPxb) | [Traicion / Cruz de Navajas](https://open.spotify.com/album/6X0R8jBws2cprXv3lIIgvr) | 5:18 | 2023-03-13 | 2023-09-03 |
 | [D'arcy](https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 6:35 | 2021-10-19 | 2026-06-13 |
-| [De Dios](https://open.spotify.com/track/2pvyTrY3i5N2vjKCH2w6x3) | [Contraflores](https://open.spotify.com/artist/0wGaUR9l9vGTRIRy9kjZ0x) | [De Dios](https://open.spotify.com/album/4kj1lahnGLAxqnVvThCA6y) | 3:42 | 2026-06-12 | 2026-07-09 |
+| [De Dios](https://open.spotify.com/track/2pvyTrY3i5N2vjKCH2w6x3) | [Contraflores](https://open.spotify.com/artist/0wGaUR9l9vGTRIRy9kjZ0x) | [De Dios](https://open.spotify.com/album/4kj1lahnGLAxqnVvThCA6y) | 3:42 | 2026-06-12 |  |
 | [De Viaje](https://open.spotify.com/track/5Alh9ZUF8clLNm1UmFLcSv) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Super 8](https://open.spotify.com/album/6b4l8rVWImW1hkCshXichu) | 4:14 | 2021-10-19 | 2026-06-13 |
 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 | 2021-10-19 | 2024-04-19 |
 | [Destello](https://open.spotify.com/track/1M0QiIMZ7hR7Am3hK9Y5Vz) | [Distimia Agorafóbica](https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR) | [Todo Ocaso Resplandece y Acaba](https://open.spotify.com/album/7Mpv4BsHC0sM20F4RXXMYJ) | 5:00 | 2026-06-12 |  |

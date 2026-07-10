@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,063 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,080 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 29 | [Just A Little Misunderstanding](https://open.spotify.com/track/03qdgEafx6iQkZHWQ6Ytjx) | [The Contours](https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1) | [Essential](https://open.spotify.com/album/6SCZSe06bdBdFE3T3ouLT8) | 2:42 |
 | 30 | [Landslide](https://open.spotify.com/track/3WoIKZ5ItkSOqGt3h1NLaV) | [Tony Clarke](https://open.spotify.com/artist/1XbD7zgDdqQXEqm4Pvkhw1) | [Chess Northern Soul](https://open.spotify.com/album/2DmdMq9Kk6dUAbW9lOSv5C) | 2:13 |
 | 31 | [Love On a Mountaintop](https://open.spotify.com/track/6zEdkGQCg57M1XigHl0Alu) | [Robert Knight](https://open.spotify.com/artist/0X79jVQeTlVeDM881ZhrU1) | [Everlasting Love \(Expanded Edition\)](https://open.spotify.com/album/76gTPZDkrOTvu6UyT0xSYp) | 2:28 |
-| 32 | [Right Track \- Single Version](https://open.spotify.com/track/0B9KUe1doo2XUq4GSif9kl) | [Billy Butler](https://open.spotify.com/artist/1nWzeAq1znj206rT3xWdwt) | [Right Track \- Best Of Okeh Northern Soul](https://open.spotify.com/album/0Wa12OOX2DXFmGAU4M3Wql) | 2:25 |
-| 33 | [I Got A Feeling \- Single Version](https://open.spotify.com/track/1w6gJH9upDjPnrT4dtvITo) | [Barbara Randolph](https://open.spotify.com/artist/1JloDwcRC1jrV3NWiZjMXM) | [Big Hits & Hard To Find Classics](https://open.spotify.com/album/0I4XWJ2ovnMdzqH61zioBD) | 3:01 |
+| 32 | [I Got A Feeling \- Single Version](https://open.spotify.com/track/1w6gJH9upDjPnrT4dtvITo) | [Barbara Randolph](https://open.spotify.com/artist/1JloDwcRC1jrV3NWiZjMXM) | [Big Hits & Hard To Find Classics](https://open.spotify.com/album/0I4XWJ2ovnMdzqH61zioBD) | 3:01 |
+| 33 | [Right Track \- Single Version](https://open.spotify.com/track/0B9KUe1doo2XUq4GSif9kl) | [Billy Butler](https://open.spotify.com/artist/1nWzeAq1znj206rT3xWdwt) | [Right Track \- Best Of Okeh Northern Soul](https://open.spotify.com/album/0Wa12OOX2DXFmGAU4M3Wql) | 2:25 |
 | 34 | [Soul Time \- Single Version](https://open.spotify.com/track/3im4hrqpF3MW0uTtwuNHxZ) | [Shirley Ellis](https://open.spotify.com/artist/4GO3ufZJ7YsEnQ3PiML2Dg) | [The Northern Soul Story Vol.1: The Twisted Wheel](https://open.spotify.com/album/4m7PZF4kH6K7JKOp2vlf3d) | 2:38 |
 | 35 | [Ordinary Joe](https://open.spotify.com/track/6AkGkimvrVzVe8Btgy0FRL) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [Occasional Rain](https://open.spotify.com/album/1dgEMGLSJTJgJRQX0kFxb9) | 4:13 |
 | 36 | [You're Gonna Make Me Love You](https://open.spotify.com/track/6BB7Ubl0MlFmvMcJu7dNl0) | [Sandi Sheldon](https://open.spotify.com/artist/5h7BKJSdnYnC7ciVgs3Mp0) | [Right Track \- Best Of Okeh Northern Soul](https://open.spotify.com/album/0Wa12OOX2DXFmGAU4M3Wql) | 2:55 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 75 | [Skiing in the Snow](https://open.spotify.com/track/0MGUfjPDUqMUJBhfWGQhHx) | [The Invitations](https://open.spotify.com/artist/32vBCJI7CQEKdZPmUgAJQB) | [For Northern Soul Collectors: Volume 1](https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9) | 2:39 |
 | 76 | [Let Love Come Between Us](https://open.spotify.com/track/6b1ZEXdMikajKUfrLzgOwj) | [James & Bobby Purify](https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7) | [The Pure Sound Of The Purifys](https://open.spotify.com/album/5kb8JoUSVy5itxArhE7kD3) | 2:27 |
 | 77 | [Gonna Get Along Without You Now \- Single Version](https://open.spotify.com/track/1qgtXp0dM8HSxlnbSQZDuc) | [The Vibrations](https://open.spotify.com/artist/3BLqcKdqgBI3oJvVg7Odz8) | [New Vibrations](https://open.spotify.com/album/17pK7FO1957b0Ap3PubWOh) | 2:07 |
-| 78 | [Under Your Powerful Love](https://open.spotify.com/track/4LHGfnRAzkwM24MMALFQxU) | [Joe Tex](https://open.spotify.com/artist/5TbXjzD8tYgMD5JU2g2F8q) | [Joe Tex Collection Vol\. 2](https://open.spotify.com/album/1fKKAl08O1wOUicU1cY0M3) | 4:26 |
-| 79 | [You Don't Want Me No More](https://open.spotify.com/track/4cQ1CLgqhJtlskXUpM25VE) | [Major Lance](https://open.spotify.com/artist/7onp6ew3LGoQImTt1I78gt) | [The Best Of Major Lance: Everybody Loves A Good Time!](https://open.spotify.com/album/2MzrmQwcw5sWN5cx3amAPC) | 2:12 |
+| 78 | [You Don't Want Me No More](https://open.spotify.com/track/4cQ1CLgqhJtlskXUpM25VE) | [Major Lance](https://open.spotify.com/artist/7onp6ew3LGoQImTt1I78gt) | [The Best Of Major Lance: Everybody Loves A Good Time!](https://open.spotify.com/album/2MzrmQwcw5sWN5cx3amAPC) | 2:12 |
+| 79 | [Under Your Powerful Love](https://open.spotify.com/track/4LHGfnRAzkwM24MMALFQxU) | [Joe Tex](https://open.spotify.com/artist/5TbXjzD8tYgMD5JU2g2F8q) | [Joe Tex Collection Vol\. 2](https://open.spotify.com/album/1fKKAl08O1wOUicU1cY0M3) | 4:26 |
 | 80 | [You Just Don't Know \(What You Do To Me\)](https://open.spotify.com/track/4Q6gZa8pEcTuaMteHEEYdl) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [The Hits Of '65](https://open.spotify.com/album/5ajbK1dMjom8xX40BEgmU9) | 2:30 |
 | 81 | [She Kissed Me](https://open.spotify.com/track/4QZGpOChUV3r36qd0J3gZj) | [Frankie Beverly And The Butlers](https://open.spotify.com/artist/2XVmdPWJyOZd6iRVmlQNMg) | [Cameo Parkway Pop And Soul Gems Of 1966 Vol\. 2](https://open.spotify.com/album/2Qu5NZYF3JxaG2SpcfvrTv) | 2:30 |
 | 82 | [I'm Where It's At](https://open.spotify.com/track/2ETtE2nroXLwviIrTkopbW) | [The Jades](https://open.spotify.com/artist/35ygC5lMRprqOIHZbcjsK0) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 2:28 |

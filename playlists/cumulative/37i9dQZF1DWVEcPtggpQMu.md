@@ -2,9 +2,9 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap\. <br/>Cover: Maglera Doe Boy
+> Only the hottest South African rap\. <br/>Cover: MOËTT
 
-1,136 songs - 2 day 12 hr 3 min
+1,137 songs - 2 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -647,7 +647,7 @@
 | [mshikishiki\*](https://open.spotify.com/track/543zwfc4zAj7G7tmxg15yV) | [GREEK.](https://open.spotify.com/artist/3vCcedoc2PrcQzmQDNfXyq) | [mshikishiki\*](https://open.spotify.com/album/5LFZ4B6eZGwCEOPCSuGagV) | 1:48 | 2022-07-21 | 2022-10-15 |
 | [Mshimane 2.0](https://open.spotify.com/track/2Ormc8TxYXrn3XKIzrmngh) | [Stino Le Thwenny](https://open.spotify.com/artist/5kicxKGLnJF6uG0pgb0F3m), [K.O](https://open.spotify.com/artist/1d6JzYUN2E6MIt9HmepdPk), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Khuli Chana](https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc) | [Mshimane 2.0](https://open.spotify.com/album/6z0CU8tj2lCmgSvS4j3uU5) | 3:47 | 2021-02-18 | 2022-09-23 |
 | [MSL FREESTYLE](https://open.spotify.com/track/5kRIS6pUNilLshmMznHyqZ) | [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR) | [SOLDIER IN TRANSIT](https://open.spotify.com/album/15xG70LDB6Ba7IjrsYFo13) | 2:20 | 2025-07-04 | 2026-05-30 |
-| [MSP](https://open.spotify.com/track/6Fmf4e8VM4Eug4QhjIpt5I) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [DJ Speedsta](https://open.spotify.com/artist/3sNkVGehC2a2YkD346mk87) | [MSP](https://open.spotify.com/album/3DercX1wefziUL8AjaLlZo) | 2:33 | 2025-09-05 |  |
+| [MSP](https://open.spotify.com/track/6Fmf4e8VM4Eug4QhjIpt5I) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [DJ Speedsta](https://open.spotify.com/artist/3sNkVGehC2a2YkD346mk87) | [MSP](https://open.spotify.com/album/3DercX1wefziUL8AjaLlZo) | 2:33 | 2025-09-05 | 2026-07-10 |
 | [Mud](https://open.spotify.com/track/5GWqKTUOOFf7jH0T8GOsfP) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT) | [Mud](https://open.spotify.com/album/4sQjiqXrRvUpwpCpgjn6Q3) | 2:34 | 2021-09-30 | 2022-02-11 |
 | [Mud](https://open.spotify.com/track/2pnpyVc48sLowcV0UPIEco) | [ZRi.](https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N), [LaCabra](https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT), [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D), [Scarface Panda](https://open.spotify.com/artist/3jyUAIoIRG8CgEraAM8RWJ), [Qwellers](https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R) | [Mud](https://open.spotify.com/album/6rLGhiSDi2NozXz6L01kjp) | 3:48 | 2024-09-05 | 2024-09-27 |
 | [Muthaland](https://open.spotify.com/track/4w8QGOOFOt5WwjUUYWewjn) | [Jozi](https://open.spotify.com/artist/4DWODx6kvx8zd04eI9M0Vr) | [Muthaland Crunk](https://open.spotify.com/album/07DOK0joGLQYaAnhfQcjtg) | 4:04 | 2023-01-30 | 2023-02-02 |
@@ -657,6 +657,7 @@
 | [Ndim](https://open.spotify.com/track/1vNSQc1mLydmj1XO9bTjSZ) | [LOOKATUPS](https://open.spotify.com/artist/3Juf3knCVNci9CIpYraBER), [K Keed](https://open.spotify.com/artist/7HFfLUbgIzPWhEGdRnq91d) | [Ndim](https://open.spotify.com/album/32rpMWiKaYUABfDxYDXVnK) | 2:44 | 2022-02-03 | 2022-02-11 |
 | [Ndiya Ndiya](https://open.spotify.com/track/3hn5TIDvQGt5qBhvcjS2hk) | [Aux Cable](https://open.spotify.com/artist/0oQqr0QFshPgMWE8Dl0q8Q), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Bhutlalakimi](https://open.spotify.com/artist/1mn874CY5PGYW8UsZ2Sbli), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks) | [Ndiya Ndiya](https://open.spotify.com/album/1YpFNw17uJXIjG0PYFhZ4D) | 2:29 | 2022-01-27 | 2022-08-30 |
 | [Ndize](https://open.spotify.com/track/2D5h0UEnLFBYlXipCoXGHf) | [HENNYBELIT](https://open.spotify.com/artist/0w2p769eAX32IMb6u5v1eP), [LaCabra](https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI) | [Mastandiverse II](https://open.spotify.com/album/37D5b46WJS0Uvv8NeibAD1) | 2:44 | 2024-11-08 | 2025-06-20 |
+| [Net So](https://open.spotify.com/track/02yrpw146s2npjmcgDsInJ) | [MOËTT](https://open.spotify.com/artist/0iyiD7Z1iDyjQs4oVRz3b4), [Taura Montana](https://open.spotify.com/artist/3nHAIiYB7ixCIPUIpXbvHu) | [Net So](https://open.spotify.com/album/2ZA6mx3tVgF3EyX5nnxgLM) | 1:28 | 2026-07-09 |  |
 | [Neva Again \- '95 Remix](https://open.spotify.com/track/0a5xp73pMA68i26VzoYDLE) | [Propherts Of Da City](https://open.spotify.com/artist/4eR5Rs8Dcv0lD05WbUYOdb) | [Universal Souljaz](https://open.spotify.com/album/16DQunq4itF4igF53MaraZ) | 4:53 | 2023-01-30 | 2023-02-02 |
 | [Never Leave](https://open.spotify.com/track/76UE0LjH2n4bHnYTLv3JAT) | [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [Never Leave](https://open.spotify.com/album/2thmsOHH8ATk2KAU0VqfiG) | 2:49 | 2024-01-25 | 2024-05-10 |
 | [NEVER RIDE](https://open.spotify.com/track/3DFw8WqtxcGtUP8X1o4Yti) | [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [Thato Saul](https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [NEVER RIDE](https://open.spotify.com/album/17BYlFgYEGoqNwJsiM4B4k) | 2:26 | 2022-05-12 | 2023-10-21 |

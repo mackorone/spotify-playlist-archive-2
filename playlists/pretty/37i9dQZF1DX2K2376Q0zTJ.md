@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: Julia Takada
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,214 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,220 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Mollyfantasy](https://open.spotify.com/track/6KTyaTAo4SZqaHKHiPbZx0) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [Le Tombeau de valknee](https://open.spotify.com/album/3jEd5ad9Jb1NpZQf6OHubw) | 3:24 |
 | 50 | [COLORATURA](https://open.spotify.com/track/3jIGteplWR9tMpqsH06J83) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luminescent Creatures](https://open.spotify.com/album/4rjsPDeHyY19vV6MZ2zHLt) | 4:07 |
 
-Snapshot ID: `AAAAAI5jpoP/ymoosDRVrc42yh/J+wJL`
+Snapshot ID: `AAAAAKUkRRmxRy+NlFSuzHL6ObADQH2B`

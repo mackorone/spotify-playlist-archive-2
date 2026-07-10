@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Shenseea",
+  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Keros-N",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -850,10 +850,32 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 176018,
       "name": "An nou f\u00e8 lanmou",
       "url": "https://open.spotify.com/track/64WOuZkT6Ta55s8jtdlB68"
+    },
+    {
+      "album": {
+        "name": "An plen ky\u00e8",
+        "url": "https://open.spotify.com/album/6mEUvUFxd2anbpg72maoAr"
+      },
+      "artists": [
+        {
+          "name": "Lorenz",
+          "url": "https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN"
+        },
+        {
+          "name": "Jixels",
+          "url": "https://open.spotify.com/artist/38Ka4b5FwfQ4yRal2B068T"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "An plen ky\u00e8",
+      "url": "https://open.spotify.com/track/0c5FGOrY2qeX5vylg3iVHu"
     },
     {
       "album": {
@@ -1242,7 +1264,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 177877,
       "name": "Avis d\u00e9c\u00e8s",
       "url": "https://open.spotify.com/track/6qsBqPXB1OdhILQcQ5goXk"
@@ -1628,7 +1650,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 158435,
       "name": "BAD GAL",
       "url": "https://open.spotify.com/track/2UUVBzkDao6ZzlAp1mzuV5"
@@ -3088,7 +3110,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 147478,
       "name": "Booty",
       "url": "https://open.spotify.com/track/3CADsRP82AiKi9EGqOTtuU"
@@ -4067,6 +4089,32 @@
     },
     {
       "album": {
+        "name": "SHATTA HARD",
+        "url": "https://open.spotify.com/album/1mPR3jfJCHgDuma2gwUJOY"
+      },
+      "artists": [
+        {
+          "name": "Keros-N",
+          "url": "https://open.spotify.com/artist/5DFOYJLWzBdNifHaXGuRQc"
+        },
+        {
+          "name": "N'Ken",
+          "url": "https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p"
+        },
+        {
+          "name": "R\u00e9gi",
+          "url": "https://open.spotify.com/artist/3u2GD1YqwD8nbIc3ShtG63"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151153,
+      "name": "Ce soir",
+      "url": "https://open.spotify.com/track/0n38qShFY4hGxGoqHbOADr"
+    },
+    {
+      "album": {
         "name": "Great Is He (Deluxe)",
         "url": "https://open.spotify.com/album/32vNuIiZ5Q4wh6FDsq1y0o"
       },
@@ -5018,7 +5066,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 107817,
       "name": "Controlla",
       "url": "https://open.spotify.com/track/4z8FuVG2TuDj7TFh96krXr"
@@ -5838,6 +5886,28 @@
       "duration_ms": 138901,
       "name": "Discreet",
       "url": "https://open.spotify.com/track/1DvwTv5wKJHGG8kPIohLz2"
+    },
+    {
+      "album": {
+        "name": "Do It",
+        "url": "https://open.spotify.com/album/43M0TToKdrxsudNRL167VA"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Zimi",
+          "url": "https://open.spotify.com/artist/1CDJaUv1aGeoQQFlIGrqDA"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130560,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/3uO3UMFIUbjpjiUhMRL8iC"
     },
     {
       "album": {
@@ -7498,7 +7568,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 122222,
       "name": "Full Up",
       "url": "https://open.spotify.com/track/4CPHJCPZaMsoKUVyEQtUlU"
@@ -8494,7 +8564,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 136677,
       "name": "Gwo Dada",
       "url": "https://open.spotify.com/track/4FfLMTudp286aIlBHYIBly"
@@ -12411,6 +12481,24 @@
     },
     {
       "album": {
+        "name": "JamPack",
+        "url": "https://open.spotify.com/album/1Q6F68AS8dqwHqc62cEaiD"
+      },
+      "artists": [
+        {
+          "name": "Ayetian",
+          "url": "https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182415,
+      "name": "Miami Vice",
+      "url": "https://open.spotify.com/track/4weo7UBnXLgp7RN9zqHoru"
+    },
+    {
+      "album": {
         "name": "Mignon Gar\u00e7on",
         "url": "https://open.spotify.com/album/2qs6UsiUQUvlauoM9GMBl6"
       },
@@ -13233,6 +13321,28 @@
     },
     {
       "album": {
+        "name": "M\u00eame le lundi",
+        "url": "https://open.spotify.com/album/25H5IyQaleVIt8EpqO03Ev"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/4tdlXdW4Agcp0EGX9otdDK"
+        },
+        {
+          "name": "Dirty One",
+          "url": "https://open.spotify.com/artist/6HpOGsyRFY4u5mgndavTVm"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "M\u00eame le lundi",
+      "url": "https://open.spotify.com/track/1JdQbEESXeg8vcMMOTWhNU"
+    },
+    {
+      "album": {
         "name": "Dancehall Frequency",
         "url": "https://open.spotify.com/album/0f6Hp5x5TZLw6hk7LCYXAA"
       },
@@ -13252,7 +13362,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 186502,
       "name": "Nah Tek No Talk",
       "url": "https://open.spotify.com/track/7L7aP2zDUVwldZ0U5tt0gu"
@@ -13756,7 +13866,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 97016,
       "name": "No pain no gain",
       "url": "https://open.spotify.com/track/4yEaKUEuPhWjPRUsjf3WcJ"
@@ -14190,6 +14300,32 @@
       "duration_ms": 137185,
       "name": "On pick",
       "url": "https://open.spotify.com/track/7iHBCREM7INf7DRZohL5jx"
+    },
+    {
+      "album": {
+        "name": "On pick, Pt. 2",
+        "url": "https://open.spotify.com/album/7jQc2jnI5jDCvRhWjl539x"
+      },
+      "artists": [
+        {
+          "name": "Lagess",
+          "url": "https://open.spotify.com/artist/5brOruoItuGUMISGRDOzNq"
+        },
+        {
+          "name": "Jemg",
+          "url": "https://open.spotify.com/artist/6vhwFD4TaAZgZo60cqoP1L"
+        },
+        {
+          "name": "Yanishi",
+          "url": "https://open.spotify.com/artist/2XngitiMW1vEd1VL0CQg2x"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149409,
+      "name": "On pick, Pt. 2",
+      "url": "https://open.spotify.com/track/0ilE7klIsZ1dXWkRDU9NB2"
     },
     {
       "album": {
@@ -15272,7 +15408,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 126478,
       "name": "Pink Pink",
       "url": "https://open.spotify.com/track/1hxQP8IdRy6Ca9pvIcKbl9"
@@ -16569,6 +16705,32 @@
     },
     {
       "album": {
+        "name": "Repeat It",
+        "url": "https://open.spotify.com/album/2bbbgQaPEElwR8UNkZQkV2"
+      },
+      "artists": [
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        },
+        {
+          "name": "KARYO",
+          "url": "https://open.spotify.com/artist/5axX3V9XC7KOWoquBOdA59"
+        },
+        {
+          "name": "Travon John",
+          "url": "https://open.spotify.com/artist/2VM6HZlcBPRoyj8O2N233m"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/30peMmhPyRsPsdisYeG0qs"
+    },
+    {
+      "album": {
         "name": "SYSTM",
         "url": "https://open.spotify.com/album/7C1GNqxVxKR6nVlVv77SLu"
       },
@@ -16734,6 +16896,28 @@
       "duration_ms": 172800,
       "name": "R\u00e9fl\u00e9chi",
       "url": "https://open.spotify.com/track/3dwR9UFLT4Yxm6RQZfYtVU"
+    },
+    {
+      "album": {
+        "name": "R\u00e9t\u00e9 Zanmi",
+        "url": "https://open.spotify.com/album/7ppuRvk3xLeGhc02F6BBbt"
+      },
+      "artists": [
+        {
+          "name": "X-Man",
+          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
+        },
+        {
+          "name": "Dj Glad",
+          "url": "https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133608,
+      "name": "R\u00e9t\u00e9 Zanmi",
+      "url": "https://open.spotify.com/track/6VoWEjJzhISCOEYfqC9FJL"
     },
     {
       "album": {
@@ -19726,6 +19910,24 @@
       "duration_ms": 126812,
       "name": "Tout Kot\u00e9",
       "url": "https://open.spotify.com/track/5DLNMwPxp2kpgzT6RMyDLe"
+    },
+    {
+      "album": {
+        "name": "Toutouni",
+        "url": "https://open.spotify.com/album/4xYO34ADSBEIgckyD4Cnlh"
+      },
+      "artists": [
+        {
+          "name": "Blaxco",
+          "url": "https://open.spotify.com/artist/1kT5chZT4CCrgIJh78fT89"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131330,
+      "name": "Toutouni",
+      "url": "https://open.spotify.com/track/7ikBpw38gzuCBlpiPje6o8"
     },
     {
       "album": {

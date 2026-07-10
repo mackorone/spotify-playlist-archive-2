@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 299260,
+  "num_followers": 299286,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,18 @@
     {
       "added_at": "2026-07-02 22:01:46",
       "album": {
-        "name": "Boogie's in My Soul",
-        "url": "https://open.spotify.com/album/58mYTAij5IQXuuDo3ojhTQ"
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/1AUrq5meJLITlFgraUVuE5"
       },
       "artists": [
         {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
         }
       ],
-      "duration_ms": 222213,
-      "name": "Boogie's in My Soul",
-      "url": "https://open.spotify.com/track/3auasA1oQjH9hXr5Ux72Sk"
+      "duration_ms": 160468,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/4YAMMJJOKgNlIOtrYlvvNp"
     },
     {
       "added_at": "2026-07-02 22:01:46",
@@ -215,18 +211,22 @@
     {
       "added_at": "2026-07-02 22:01:46",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/1AUrq5meJLITlFgraUVuE5"
+        "name": "Boogie's in My Soul",
+        "url": "https://open.spotify.com/album/58mYTAij5IQXuuDo3ojhTQ"
       },
       "artists": [
         {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 160468,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/4YAMMJJOKgNlIOtrYlvvNp"
+      "duration_ms": 222213,
+      "name": "Boogie's in My Soul",
+      "url": "https://open.spotify.com/track/3auasA1oQjH9hXr5Ux72Sk"
     },
     {
       "added_at": "2026-07-02 22:01:46",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-07-02 22:01:46",
       "album": {
+        "name": "Feel Alive",
+        "url": "https://open.spotify.com/album/4MfK4qyG0xxWjQtrb0fwvI"
+      },
+      "artists": [
+        {
+          "name": "MONTMARTRE",
+          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+        }
+      ],
+      "duration_ms": 169280,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/2nPXfUVFzIlhN4SokXg6O7"
+    },
+    {
+      "added_at": "2026-07-02 22:01:46",
+      "album": {
         "name": "Dive Into The Ocean",
         "url": "https://open.spotify.com/album/3wNI7uuXR8S3PKVjjJ6JMA"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 218453,
       "name": "Dive Into The Ocean (Prod. By Alok)",
       "url": "https://open.spotify.com/track/1QUE9sIUcCA2uvcieOQ2uJ"
-    },
-    {
-      "added_at": "2026-07-02 22:01:46",
-      "album": {
-        "name": "Feel Alive",
-        "url": "https://open.spotify.com/album/4MfK4qyG0xxWjQtrb0fwvI"
-      },
-      "artists": [
-        {
-          "name": "MONTMARTRE",
-          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
-        }
-      ],
-      "duration_ms": 169280,
-      "name": "Feel Alive",
-      "url": "https://open.spotify.com/track/2nPXfUVFzIlhN4SokXg6O7"
     },
     {
       "added_at": "2026-07-02 22:01:46",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-07-02 22:01:46",
       "album": {
+        "name": "FEEL THE NIGHT",
+        "url": "https://open.spotify.com/album/5oCyQWYNOeNB6jM8EY2vyo"
+      },
+      "artists": [
+        {
+          "name": "Sara Costa",
+          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "FEEL THE NIGHT",
+      "url": "https://open.spotify.com/track/7EzQ54GP7TtEfd9QMbWZzV"
+    },
+    {
+      "added_at": "2026-07-02 22:01:46",
+      "album": {
         "name": "These Nights",
         "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 254119,
       "name": "Back Alley Rhythm",
       "url": "https://open.spotify.com/track/3hJvsWP7gzv09iosdDmiAu"
-    },
-    {
-      "added_at": "2026-07-02 22:01:46",
-      "album": {
-        "name": "FEEL THE NIGHT",
-        "url": "https://open.spotify.com/album/5oCyQWYNOeNB6jM8EY2vyo"
-      },
-      "artists": [
-        {
-          "name": "Sara Costa",
-          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "FEEL THE NIGHT",
-      "url": "https://open.spotify.com/track/7EzQ54GP7TtEfd9QMbWZzV"
     },
     {
       "added_at": "2026-07-02 22:01:46",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-07-02 22:01:46",
       "album": {
-        "name": "Give Me More",
-        "url": "https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 190745,
-      "name": "Give Me More",
-      "url": "https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ"
-    },
-    {
-      "added_at": "2026-07-02 22:01:46",
-      "album": {
         "name": "Turn It On",
         "url": "https://open.spotify.com/album/0SdouN0Ag8ZNj9Kdtrw8NB"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 183360,
       "name": "Turn It On",
       "url": "https://open.spotify.com/track/4e6cFfzPcHNyvsrSyh86wH"
+    },
+    {
+      "added_at": "2026-07-02 22:01:46",
+      "album": {
+        "name": "Give Me More",
+        "url": "https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 190745,
+      "name": "Give Me More",
+      "url": "https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ"
     },
     {
       "added_at": "2026-07-02 22:01:46",
@@ -995,6 +995,26 @@
     {
       "added_at": "2026-07-02 22:01:46",
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/1qnAHpyTVSkXo8Oh57Appo"
+      },
+      "artists": [
+        {
+          "name": "MONTMARTRE",
+          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+        },
+        {
+          "name": "Side One",
+          "url": "https://open.spotify.com/artist/02Ni6QKLqoq8wfx846M2GZ"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/4PzjQpUlb2uPlsB6U1MgHr"
+    },
+    {
+      "added_at": "2026-07-02 22:01:46",
+      "album": {
         "name": "Fish in a Bowl",
         "url": "https://open.spotify.com/album/4EjoAF2w6uCqttZAgko5Cp"
       },
@@ -1007,22 +1027,6 @@
       "duration_ms": 222400,
       "name": "Fish in a Bowl",
       "url": "https://open.spotify.com/track/5MjlhiqSDgSValAXvEd1w7"
-    },
-    {
-      "added_at": "2026-07-02 22:01:46",
-      "album": {
-        "name": "Electronicity",
-        "url": "https://open.spotify.com/album/3WPR5y3pK1RW3GMt9ivjUC"
-      },
-      "artists": [
-        {
-          "name": "Lewis OfMan",
-          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "Electronicity",
-      "url": "https://open.spotify.com/track/12JADuvXNQXZFwLcfob4QY"
     },
     {
       "added_at": "2026-07-02 22:01:46",
@@ -1043,22 +1047,18 @@
     {
       "added_at": "2026-07-02 22:01:46",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/1qnAHpyTVSkXo8Oh57Appo"
+        "name": "Electronicity",
+        "url": "https://open.spotify.com/album/3WPR5y3pK1RW3GMt9ivjUC"
       },
       "artists": [
         {
-          "name": "MONTMARTRE",
-          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
-        },
-        {
-          "name": "Side One",
-          "url": "https://open.spotify.com/artist/02Ni6QKLqoq8wfx846M2GZ"
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
         }
       ],
-      "duration_ms": 172653,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/4PzjQpUlb2uPlsB6U1MgHr"
+      "duration_ms": 232373,
+      "name": "Electronicity",
+      "url": "https://open.spotify.com/track/12JADuvXNQXZFwLcfob4QY"
     },
     {
       "added_at": "2026-07-02 22:01:46",

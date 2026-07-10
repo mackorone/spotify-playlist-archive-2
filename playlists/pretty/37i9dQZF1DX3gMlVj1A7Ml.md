@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > Ascultă la volum maxim vocile feminine din România și piesele alese de editorii noștri\. Cover: Theo Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,003 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,001 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 | 49 | [Lume](https://open.spotify.com/track/6tG31N8m24gUvtGpSUhDRp) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Lume](https://open.spotify.com/album/4bEBkaJNcnWnIuVdmQu2gF) | 2:33 |
 | 50 | [Nu te mai sun](https://open.spotify.com/track/7KNzlejrzayOsTzGuSy8l0) | [Andra](https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF), [ADI Istrate](https://open.spotify.com/artist/6xFS0ejCf4Zjy7tD08PJ9m) | [Nu te mai sun](https://open.spotify.com/album/0HRx3orLtS2xWxGIRp1oB6) | 2:28 |
 
-Snapshot ID: `AAAAAI/ucqrc67YW2tYJbgHY+t5aYQv2`
+Snapshot ID: `AAAAAPCgU+hv1QkY/0P7E1E1NbL02n8P`

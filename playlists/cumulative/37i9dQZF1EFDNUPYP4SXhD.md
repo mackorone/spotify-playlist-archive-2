@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1OuLNm4mvRAZK11eefmj9Z">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-257 songs - 15 hr 8 min
+258 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Alérgico](https://open.spotify.com/track/3KxuI7clUKkijpBzrvEpWo) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:44 | 2022-06-24 |  |
 | [Amanecer Contigo](https://open.spotify.com/track/1DzgxamWIUxbIvGzHNocFj) | [Tormenta](https://open.spotify.com/artist/5IxyAzEThg31lxtUWCcb2q) | [Bendiciones \(Deluxe Edition\)](https://open.spotify.com/album/0uj7i2QiUuSyi7STcjo9uZ) | 3:29 | 2022-12-15 | 2023-12-14 |
 | [Amanecio Conmigo](https://open.spotify.com/track/2469mAOX2OTdCJwsywxojD) | [Yampi](https://open.spotify.com/artist/3Ia6QnB1tPR9bcgnmbL5FO), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [El Yamposo \(24 Kilates Edition\)](https://open.spotify.com/album/2EWvMtPcvdXg5n5Jb79km4) | 3:07 | 2023-12-13 | 2025-06-28 |
+| [AMIGA CON BENEFICIOS](https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs) | [LOS DUROS SON ELLOS](https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [AMIGA CON BENEFICIOS](https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS) | 3:13 | 2026-07-09 |  |
 | [Amigos Na' Mas](https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:10 | 2022-06-04 |  |
 | [Amor Amor](https://open.spotify.com/track/2lOldevYazzMn8mXaOJZxh) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:18 | 2022-06-04 |  |
 | [Amor Prohibido](https://open.spotify.com/track/6BEegAev4N2O6arBbXgtdd) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 4:09 | 2022-06-04 |  |

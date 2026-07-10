@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 18191,
+  "num_followers": 18219,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Backwards Directions",
+        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 187072,
+      "name": "Backwards Directions",
+      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Dhak Dhak",
         "url": "https://open.spotify.com/album/1bfaIV1LAAiy22ZGGHzSq2"
       },
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Backwards Directions",
-        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 187072,
-      "name": "Backwards Directions",
-      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Chuy\u1ec7n R\u1eb1ng",
         "url": "https://open.spotify.com/album/5luCD1OBB8iHHhaSaOLHGz"
       },
@@ -1651,6 +1651,22 @@
       "duration_ms": 272152,
       "name": "Chuy\u1ec7n R\u1eb1ng",
       "url": "https://open.spotify.com/track/7oBUoEbCDF748UkHnLusUB"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "A BEGINNER'S GUIDE TO FAKING YOUR DEATH",
+        "url": "https://open.spotify.com/album/4Xfd2a497pZksMAx2BHqrv"
+      },
+      "artists": [
+        {
+          "name": "Jhariah",
+          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
+        }
+      ],
+      "duration_ms": 158466,
+      "name": "Flight of the Crows",
+      "url": "https://open.spotify.com/track/2SgpLPEfLGWDMkCT9nFAO6"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1683,22 +1699,6 @@
       "duration_ms": 216852,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/43I2PiBJCc781cQwY5EUVA"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "A BEGINNER'S GUIDE TO FAKING YOUR DEATH",
-        "url": "https://open.spotify.com/album/4Xfd2a497pZksMAx2BHqrv"
-      },
-      "artists": [
-        {
-          "name": "Jhariah",
-          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
-        }
-      ],
-      "duration_ms": 158466,
-      "name": "Flight of the Crows",
-      "url": "https://open.spotify.com/track/2SgpLPEfLGWDMkCT9nFAO6"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0x6S6Ym4obKr2dz23OvDyd"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 190249,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "i haunt ur dreams",
         "url": "https://open.spotify.com/album/6Nm1396bUjq3IUS0nlhcAP"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 216665,
       "name": "i haunt ur dreams",
       "url": "https://open.spotify.com/track/2JE60bG37E2hJA0pAuQ9wo"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0x6S6Ym4obKr2dz23OvDyd"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 190249,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Just Drive",
-        "url": "https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy"
-      },
-      "artists": [
-        {
-          "name": "Erin Kinsey",
-          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
-        }
-      ],
-      "duration_ms": 147693,
-      "name": "Just Drive",
-      "url": "https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 277200,
       "name": "False Direction",
       "url": "https://open.spotify.com/track/110PnrQX9AJIt3HNJtjPgt"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Just Drive",
+        "url": "https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "duration_ms": 147693,
+      "name": "Just Drive",
+      "url": "https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "I Don't Wanna Lose",
-        "url": "https://open.spotify.com/album/44lnoKWe4pQib9vwQPgvHb"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/0yeSknpYINjXT25ilz4wpr"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Khayaal",
         "url": "https://open.spotify.com/album/4EArcY1dBXz075hMxNgRUN"
       },
@@ -2339,6 +2323,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "I Don't Wanna Lose",
+        "url": "https://open.spotify.com/album/44lnoKWe4pQib9vwQPgvHb"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/0yeSknpYINjXT25ilz4wpr"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Shotta Flow 2",
         "url": "https://open.spotify.com/album/1FxcC9sPtPHDs7EW5m8ji2"
       },
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Essentials",
-        "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
-      },
-      "artists": [
-        {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Little Bit",
-      "url": "https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Space Makes Me Sad",
         "url": "https://open.spotify.com/album/4qW3WrCTZT7RcRkdHmikBX"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 136419,
       "name": "Space Makes Me Sad",
       "url": "https://open.spotify.com/track/5Op3wFn328uL17aJUIGJx3"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Essentials",
+        "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Little Bit",
+      "url": "https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Ditch",
-        "url": "https://open.spotify.com/album/4LQi2uo2316ZzEpQO3oh59"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 210233,
-      "name": "Ditch",
-      "url": "https://open.spotify.com/track/6075pGQxRNkWdteEz4Hfwb"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "eyes don\u2019t lie",
         "url": "https://open.spotify.com/album/6058NxZ7f2h99cX5nYai0Y"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 226054,
       "name": "Eyes Don't Lie",
       "url": "https://open.spotify.com/track/7mVBncqtMZeCC6lnOx4GSv"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Ditch",
+        "url": "https://open.spotify.com/album/4LQi2uo2316ZzEpQO3oh59"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 210233,
+      "name": "Ditch",
+      "url": "https://open.spotify.com/track/6075pGQxRNkWdteEz4Hfwb"
     },
     {
       "added_at": "2025-05-19 03:00:14",

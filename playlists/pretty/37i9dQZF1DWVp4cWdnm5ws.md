@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Introducing RADAR Philippines Cast of 2026\. Cover: Kenaniah
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,656 likes - 43 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,651 likes - 43 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

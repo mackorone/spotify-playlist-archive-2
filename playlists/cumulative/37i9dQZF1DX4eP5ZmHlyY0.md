@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: BE:FIRST
+> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: PSYCHIC FEVER from EXILE TRIBE
 
-1,038 songs - 2 day 8 hr 22 min
+1,040 songs - 2 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,7 @@
 | [high\-five～歓喜の音～](https://open.spotify.com/track/659H1DnkdzYB601pSq8gje) | [EXILE THE SECOND](https://open.spotify.com/artist/5l7Uyt1IiYk8l93ohXiQd6) | [THE FAR EAST COWBOYZ](https://open.spotify.com/album/0KDT4ZSAMWJ1JfChw4tqcX) | 4:39 | 2024-06-04 | 2024-06-13 |
 | [HIGHER EX](https://open.spotify.com/track/5HQkEVozABejYyWUdMfeFF) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [HIGHER EX](https://open.spotify.com/album/43FcOYz8efEsLFhm5suAiZ) | 3:22 | 2024-05-21 | 2024-09-04 |
 | [Highlights \(Twilight Remix\)](https://open.spotify.com/track/0RSazMPFPTxeLgwdxhp7tb) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Highlights \(Twilight Remix\)](https://open.spotify.com/album/6RZSx9zM1PlAcPFbkIkSGw) | 2:55 | 2024-03-26 | 2024-04-03 |
-| [Highs and Lows](https://open.spotify.com/track/3YCLoxizfJ9CFenVAAyuOK) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Unpiltered](https://open.spotify.com/album/3kty6WKxv7NDe3qZkPtqUG) | 2:48 | 2026-04-03 |  |
+| [Highs and Lows](https://open.spotify.com/track/3YCLoxizfJ9CFenVAAyuOK) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Unpiltered](https://open.spotify.com/album/3kty6WKxv7NDe3qZkPtqUG) | 2:48 | 2026-04-03 | 2026-07-10 |
 | [HIRAKEGOMA](https://open.spotify.com/track/3hp17ZWfLvUXNe1rzo8RbZ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ \(Deluxe\)](https://open.spotify.com/album/3OH4JlJZ6J7A1yhA0XmnPR) | 2:40 | 2024-12-03 | 2025-03-07 |
 | [Hollow](https://open.spotify.com/track/5K1thEZHOgjE89mxwA01T9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hollow](https://open.spotify.com/album/3yZGdJW5lLePqAPE5z7OxT) | 3:29 | 2025-06-10 | 2025-10-21 |
 | [Hollywood Action](https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [The Action](https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD) | 2:28 | 2025-10-20 | 2026-05-12 |
@@ -391,6 +391,7 @@
 | [ICE](https://open.spotify.com/track/6zac62mblxAmbgVkqBQKCB) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96) | [Parade](https://open.spotify.com/album/43PcyZMcbxwUWOYzE9bg1P) | 3:12 | 2024-03-19 | 2024-07-10 |
 | [ICE](https://open.spotify.com/track/549zkJFZcpg2AtwwvzdhDy) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ](https://open.spotify.com/album/4fjCFlz6sObm63PnAGDBD6) | 2:35 | 2024-09-24 | 2025-03-07 |
 | [ICE BREAKER](https://open.spotify.com/track/4RuPoCWg8ewIaTpj54lG2z) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [ICE BREAKER](https://open.spotify.com/album/5KJDNocPvS3kv62myZDClM) | 2:26 | 2025-05-01 | 2025-05-26 |
+| [Ice Cream](https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [NO LABELS: PART 02](https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg) | 2:04 | 2026-07-09 |  |
 | [Ice On My Teeth](https://open.spotify.com/track/0xGgYWdUS3g23VOEydYrqm) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.2](https://open.spotify.com/album/3yigtf01oYimHLNYzop85Z) | 3:03 | 2025-03-06 | 2025-03-24 |
 | [ICONIC](https://open.spotify.com/track/5VYVO6zoi3B3o9IJ9EUxNg) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [ICONIC](https://open.spotify.com/album/1gr8097Cod4LbC8pQNFGq8) | 3:26 | 2025-08-01 | 2025-11-03 |
 | [ICONIK](https://open.spotify.com/track/3b7ejK9HytsRwa1Wne277w) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [NEVER SAY NEVER](https://open.spotify.com/album/5IW8xxg85CGHRAMsiW0VLJ) | 3:13 | 2025-09-01 | 2026-01-15 |
@@ -402,6 +403,7 @@
 | [IF I](https://open.spotify.com/track/3IWNxztdd0eOeB2Zsslqa3) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [4th MINI ALBUM \[NEW WAV\]](https://open.spotify.com/album/1IinX64nobDfparPym8DlR) | 3:00 | 2026-06-01 |  |
 | [IF I SAY, I LOVE YOU](https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [IF I SAY, I LOVE YOU](https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe) | 2:41 | 2025-03-06 | 2025-05-20 |
 | [if you wanna](https://open.spotify.com/track/3CuGOVC8ML0TrQJ68RvwfP) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Syndrome](https://open.spotify.com/album/6xwwk8iEemDRT8eOcg3rOM) | 2:28 | 2025-11-02 | 2026-01-15 |
+| [If You're Mine](https://open.spotify.com/track/23GA5FON8Aa21oSocnNmnm) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [DIFFERENT](https://open.spotify.com/album/2TtsDrSETlfL4RD8j5GQZG) | 2:43 | 2026-07-09 |  |
 | [IKUK](https://open.spotify.com/track/1CjaEVRcMcHJs6K6JcsBg4) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [Dear.M](https://open.spotify.com/album/47FAjLG2fBhDBgb4mRHMQT) | 2:48 | 2025-03-06 | 2025-04-09 |
 | [Imagination](https://open.spotify.com/track/3KpNOsT8D9pU5qKDPG1IKo) | [w\-inds.](https://open.spotify.com/artist/2UEnhov0KDPYU2dmGUjfcn) | [Imagination](https://open.spotify.com/album/1TeZi1NtgcETvxImnvTNpB) | 2:52 | 2024-04-30 | 2024-05-29 |
 | [In My Head](https://open.spotify.com/track/14fYNWLL13lnpV8pdJmREV) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [In My Head](https://open.spotify.com/album/1xJb2W3tod9ecek8mAl2Bf) | 3:20 | 2024-02-20 | 2024-02-22 |
@@ -612,7 +614,7 @@
 | [PIECES \- STARGLOW Ver.](https://open.spotify.com/track/1hY0tMMKzSkeW6czNDdPph) | [STARGLOW](https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ) | [PIECES \(STARGLOW Ver.\)](https://open.spotify.com/album/2OX4YJRS8z8ad58YjMeacS) | 5:18 | 2025-11-09 | 2026-01-15 |
 | [Pineapple Juice](https://open.spotify.com/track/5cVd0qp9h0yFcAB9UfGqtd) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [THE ORIGIN](https://open.spotify.com/album/5BTHGzCMlg05u2ZSZcRQbd) | 3:00 | 2025-06-22 | 2025-08-20 |
 | [Pink Flash Lights](https://open.spotify.com/track/2cIDJumjrAhqOW7pTM2MvK) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Pink Flash Lights](https://open.spotify.com/album/0c2jiUm4CEpbCMpwZHbGVn) | 2:31 | 2024-05-14 | 2024-06-26 |
-| [Pink Lemonade](https://open.spotify.com/track/0svNBo93XRg9xvVYWdPcft) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Pink Lemonade](https://open.spotify.com/album/1r2bxGAJKXoWxsIhyn069U) | 2:32 | 2026-06-12 |  |
+| [Pink Lemonade](https://open.spotify.com/track/0svNBo93XRg9xvVYWdPcft) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Pink Lemonade](https://open.spotify.com/album/1r2bxGAJKXoWxsIhyn069U) | 2:32 | 2026-06-12 | 2026-07-10 |
 | [Pinocchio](https://open.spotify.com/track/3hXsfPCNGZnZx0l4AYvh8E) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [The Passage](https://open.spotify.com/album/0ZX6t8OnOwrjrnKXzHGuHK) | 3:41 | 2025-11-05 | 2026-06-13 |
 | [PLAY](https://open.spotify.com/track/2d0SS0vO0UuIZLaaUme0iA) | [Cool\-X](https://open.spotify.com/artist/61LvMTjrjLLjKODTNvpnCl) | [PLAY](https://open.spotify.com/album/0U2XVTb4U5coiTpYQdmyWb) | 2:25 | 2024-07-30 | 2024-09-04 |
 | [Play Back](https://open.spotify.com/track/35vMXuNLXjIlOWvpVpx7gh) | [Ren Zotto](https://open.spotify.com/artist/01vosgL49wVuUILMj9K4zX), [Doppio Dropscythe](https://open.spotify.com/artist/5WwGFvg1ymGn0um34gY1Tu) | [Play Back](https://open.spotify.com/album/5yTCOHjGcPIfhArrvcIHVH) | 3:11 | 2024-06-12 | 2024-06-19 |
@@ -635,7 +637,7 @@
 | [Present](https://open.spotify.com/track/1laQLfoxkzQX3qSiTgB3Eo) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [Present](https://open.spotify.com/album/2FNIoMSAQ796xyI06iMnUy) | 3:44 | 2024-11-19 | 2024-11-27 |
 | [present](https://open.spotify.com/track/6iz1Hlc9Evt7xayq3LyRCP) | [THE BEAT GARDEN](https://open.spotify.com/artist/7gcQfJbjZ2W440kQ2wmqzk) | [present](https://open.spotify.com/album/68Tt5pQ5JRSMRA9SYczoIs) | 4:27 | 2024-02-13 | 2024-03-06 |
 | [Pretty Boy](https://open.spotify.com/track/4etRRTZx5odrdgKiZqGSZ6) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DUH!](https://open.spotify.com/album/31Q4mSPAjzNEwqSwyBzW5p) | 2:56 | 2025-08-04 | 2025-09-17 |
-| [Pretty Boy Swag](https://open.spotify.com/track/0CAp5YHw319gluaW2uCGJN) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<yesweare>](https://open.spotify.com/album/11LKBt6oAhxk5h5nEreqgE) | 2:59 | 2026-01-15 |  |
+| [Pretty Boy Swag](https://open.spotify.com/track/0CAp5YHw319gluaW2uCGJN) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<yesweare>](https://open.spotify.com/album/11LKBt6oAhxk5h5nEreqgE) | 2:59 | 2026-01-15 | 2026-07-10 |
 | [Promise](https://open.spotify.com/track/4BQ9FKqj1qNwrVYhCAz3oV) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Promise](https://open.spotify.com/album/3PRKzsCRtiJqRZJJpq0Acu) | 3:32 | 2025-12-09 | 2026-04-28 |
 | [Promise You](https://open.spotify.com/track/31uZqvs2g0loE1NEVcpM37) | [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy) | [Promise You](https://open.spotify.com/album/6zIXKU8BzOqWDUT6y2Idop) | 3:03 | 2025-03-25 | 2025-05-28 |
 | [Pump It Up! feat\. TAKUMA THE GREAT](https://open.spotify.com/track/36tQVvEnWA4CfgJAQRNDDP) | [DA PUMP](https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX), [Takuma the Great](https://open.spotify.com/artist/2VwCj19Ruz3bW7tF0KRJws) | [Pump It Up! feat\. TAKUMA THE GREAT](https://open.spotify.com/album/1M2kGI112t0hnGpUpqzw2y) | 3:29 | 2024-06-12 | 2024-07-10 |

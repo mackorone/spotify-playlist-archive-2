@@ -2,9 +2,9 @@
 
 ### [Melodys Marcantes](https://open.spotify.com/playlist/37i9dQZF1DX9zF9ZmsyHKt)
 
-> O melhor do Tecnobrega, Melody e Brega do norte! Foto: Manu
+> O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-318 songs - 18 hr 27 min
+319 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [De Volta Pro Aconchego](https://open.spotify.com/track/6vzEUwK4CbcDMDvmJ09WsY) | [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A) | [Fogo Na Mistura](https://open.spotify.com/album/4AChNbwadWZ9nTyRLs1RMf) | 4:37 | 2021-10-15 | 2024-10-23 |
 | [Decote \(feat\. Pabllo Vittar\)](https://open.spotify.com/track/2wBr59j9see3tGF9Haxbo3) | [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Decote \(feat\. Pabllo Vittar\)](https://open.spotify.com/album/69PDqjhM6qtLSinYmpiXE6) | 2:58 | 2021-10-15 | 2022-07-18 |
 | [Deixa](https://open.spotify.com/track/7FVOOixkNSoUkY3GUUfREK) | [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Ana Muller](https://open.spotify.com/album/0wzMf9BvPCaVifQiWwkIp4) | 4:04 | 2021-10-15 | 2022-07-28 |
+| [Deixa de Ser Besta \- Ao Vivo](https://open.spotify.com/track/1uje66FbB5Iaa2Y5ELRzAu) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [BATIDÃO RAIZ VERÃO \(Ao Vivo\)](https://open.spotify.com/album/6qOw4ckFWs6j8FoEA63Wn2) | 2:05 | 2026-07-10 |  |
 | [Delírio](https://open.spotify.com/track/6xljIkWM1sM84RPw4coZWZ) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Delírio](https://open.spotify.com/album/6xOlwAGA7rxAzBfOzkWLhU) | 2:54 | 2021-10-15 | 2024-10-23 |
 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 | 2021-10-15 | 2024-10-23 |
 | [Diaba](https://open.spotify.com/track/4Zhxtm6x56wEiRtSMAl28n) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Diaba](https://open.spotify.com/album/01o2odeolV6Ke76Q2QTVyS) | 2:45 | 2022-10-07 | 2024-04-19 |
@@ -324,7 +325,7 @@
 | [Água na Boca](https://open.spotify.com/track/2xTaOIpC4sKmk9iusmRIFV) | [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm) | [Água na Boca](https://open.spotify.com/album/1XVbxdgj9y6Hl2G1Y4pdHg) | 3:05 | 2021-10-15 | 2024-10-23 |
 | [É Isso Aí](https://open.spotify.com/track/47djwMo5LjilxB20Aix1M2) | [Paula Lima](https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW) | [É Isso Aí](https://open.spotify.com/album/3Iqv2tlN9V7jt5rhicn66U) | 3:21 | 2021-10-15 | 2023-07-09 |
 | [É Sal](https://open.spotify.com/track/472LBNCGld5qZqVeO5Opfv) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [É Sal](https://open.spotify.com/album/5xMMqLnvzHYgTfc8s46lR8) | 1:58 | 2025-05-23 | 2025-12-05 |
-| [É Tudo pra Mim](https://open.spotify.com/track/7esYGSi17zTkqPA8mQGnHm) | [Banda Paixão do Calypso](https://open.spotify.com/artist/7zDyKhidLb4eNwgDZpYy7m) | [É Tudo pra Mim](https://open.spotify.com/album/4jQ4walwpL7J8kCW0ZzR8f) | 4:11 | 2024-12-09 |  |
+| [É Tudo pra Mim](https://open.spotify.com/track/7esYGSi17zTkqPA8mQGnHm) | [Banda Paixão do Calypso](https://open.spotify.com/artist/7zDyKhidLb4eNwgDZpYy7m) | [É Tudo pra Mim](https://open.spotify.com/album/4jQ4walwpL7J8kCW0ZzR8f) | 4:11 | 2024-12-09 | 2026-07-10 |
 | [Éramos Chuva](https://open.spotify.com/track/5Wt8gB3mzJ8emEzVlivSjY) | [As Baías](https://open.spotify.com/artist/7MKatfaGFrdd4jTZiwZW2K) | [Enquanto Estamos Distantes](https://open.spotify.com/album/49Qx8PiCf3A9HziPLZBeei) | 2:24 | 2021-10-15 | 2022-07-27 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

@@ -2,9 +2,9 @@
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Bryan Behr
+> Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Mari Froes
 
-957 songs - 1 day 23 hr 53 min
+959 songs - 1 day 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A BELEZA É VOCÊ MENINA](https://open.spotify.com/track/7rNhzJJQaO1CQwDYsejFGP) | [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA) | [A BELEZA É VOCÊ MENINA](https://open.spotify.com/album/0VIVSFkDikh8A0WBM0cN13) | 3:27 | 2023-12-01 | 2024-01-13 |
 | [A Cara do Amor da Minha Vida](https://open.spotify.com/track/4IjOrQ4CBgjE6JDxbSEnJx) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [A Cara do Amor da Minha Vida](https://open.spotify.com/album/0OvRM5meYXSh2A5n4vN2NC) | 2:31 | 2024-06-14 | 2025-06-28 |
 | [a festa acabou :\(](https://open.spotify.com/track/2qdSJW4mPBHZySOiUyoeKY) | [Lucas Andrade](https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm) | [A FESTA ACABOU](https://open.spotify.com/album/2NTv2W55sIlX6TK7MVbYSD) | 2:15 | 2025-07-25 | 2025-12-05 |
-| [A GENTE COMBINA](https://open.spotify.com/track/40z0XrdegYW7nVS3VEfR8I) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [MAIS FORTE QUE A DÚVIDA](https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n) | 2:51 | 2026-05-29 |  |
+| [A GENTE COMBINA](https://open.spotify.com/track/40z0XrdegYW7nVS3VEfR8I) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [MAIS FORTE QUE A DÚVIDA](https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n) | 2:51 | 2026-05-29 | 2026-07-10 |
 | [A Gente Gosta Assim](https://open.spotify.com/track/1t3btOs8sA3X4u7FivAHhi) | [Marco Baptista](https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF) | [PERDURAR](https://open.spotify.com/album/6HmSIFZzmRW7c8DYMJQ5BG) | 2:27 | 2024-05-10 | 2024-10-05 |
 | [A Gente Se Acostuma](https://open.spotify.com/track/15Kx5YfYgqEY85d2IQwsxJ) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [A Gente Se Acostuma](https://open.spotify.com/album/2XN3XQ0iGeurRIJBdDG6rM) | 2:50 | 2024-10-11 | 2024-12-24 |
 | [A Gente Se Dá Bem](https://open.spotify.com/track/7dLpa10WnGum4uJHF3aP6e) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Gonti](https://open.spotify.com/album/3C7oQQcsRM47RyaSfUGkb6) | 2:46 | 2024-11-08 | 2025-01-18 |
@@ -292,6 +292,7 @@
 | [Dezembro](https://open.spotify.com/track/6fqyjifsBZiZLpYA8n3FuB) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [Dezembro](https://open.spotify.com/album/6YTd5CGlZO7L1pnUSgvSvl) | 3:48 | 2023-12-15 | 2024-02-17 |
 | [Diante dos Olhos](https://open.spotify.com/track/4MS7gcn0uGhmzNWWl5RRwd) | [Vintium](https://open.spotify.com/artist/3SGA7GJztAksjHmf5zVTUB), [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Diante dos Olhos](https://open.spotify.com/album/4xQUvpsZBA4bAtyHRbYcUc) | 3:36 | 2024-04-19 | 2024-10-05 |
 | [Dias Claros](https://open.spotify.com/track/6Npj5ItEySUyXSx2H5pSzy) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [Dias Claros](https://open.spotify.com/album/0i53V3hMoZsMJqUzz02nO9) | 2:31 | 2023-04-07 | 2023-12-02 |
+| [Disco Tropical](https://open.spotify.com/track/38laFU5ZV92YufR2eIGxJU) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Disco Tropical](https://open.spotify.com/album/5I88FHndtPxjZndN8EovDR) | 3:07 | 2026-07-10 |  |
 | [disco voador](https://open.spotify.com/track/2jRXQx3AS2OVMSYB7PEhTj) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD) | [BASEADO EM FATOS REAIS \(deluxe\)](https://open.spotify.com/album/1VNgTtRJ1zbNbBCc9mmTr1) | 2:55 | 2026-04-03 |  |
 | [do céu ao inferno](https://open.spotify.com/track/2su7rpshqu1YtlRSinMGNx) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [do céu ao inferno](https://open.spotify.com/album/3ymIbbproFg65oCA0eOFeH) | 3:18 | 2024-10-11 | 2024-12-21 |
 | [Do Jeito Que Você Me Ilude](https://open.spotify.com/track/2FFaJrEQven5YnYcRL7U5r) | [Victor de Albuquerque](https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD), [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj) | [Do Jeito Que Você Me Ilude](https://open.spotify.com/album/4xZzsW2CUOKRSEkPaIemmr) | 2:35 | 2022-05-13 | 2022-06-15 |
@@ -457,7 +458,7 @@
 | [Louco de Amor](https://open.spotify.com/track/615qyOqm6qXrgVCVBDYCRX) | [Davi Bandeira](https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68), [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9) | [INTENSO](https://open.spotify.com/album/6BTSt53WQzgxPoAQWX1v6c) | 3:08 | 2022-11-18 | 2023-02-25 |
 | [love leve](https://open.spotify.com/track/00Ke9O7f7kiGzz1fROAnZP) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [love leve](https://open.spotify.com/album/2yyeSZQC3SNGLWWeci8lbU) | 2:47 | 2023-12-28 | 2024-04-10 |
 | [LSD](https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Reviravolta](https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo) | 3:25 | 2023-01-27 | 2023-04-09 |
-| [Lua Cheia](https://open.spotify.com/track/2WxYqChcFIQP0KARhMyEyb) | [Peu Heise](https://open.spotify.com/artist/4Oem7hhYuxmPQr4sOrQbgS) | [Me Queimei](https://open.spotify.com/album/3JnYQOaIKhSc8a7aVTBKTX) | 2:41 | 2026-05-22 |  |
+| [Lua Cheia](https://open.spotify.com/track/2WxYqChcFIQP0KARhMyEyb) | [Peu Heise](https://open.spotify.com/artist/4Oem7hhYuxmPQr4sOrQbgS) | [Me Queimei](https://open.spotify.com/album/3JnYQOaIKhSc8a7aVTBKTX) | 2:41 | 2026-05-22 | 2026-07-10 |
 | [Lua Vai, Lua Vem](https://open.spotify.com/track/6E8h5omaLR37mlc8MgqnmS) | [Thaïs Morell](https://open.spotify.com/artist/1ESEFcOYV9ooFj3Hf0KgqB) | [Lua Vai, Lua Vem](https://open.spotify.com/album/4XxMT3mZQTZlr1T8lGwQaX) | 3:36 | 2023-06-16 | 2023-07-15 |
 | [Lá De Onde Eu Vim](https://open.spotify.com/track/46TRHeVkHNhsxDHzamiSh0) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Lá De Onde Eu Vim](https://open.spotify.com/album/0NQiTiTp3Qa4OJpL2gYZ8B) | 3:07 | 2023-05-26 | 2023-07-08 |
 | [Lá Vem A Noite](https://open.spotify.com/track/1Yg5rkFc2XVM6h950xtmsN) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Pretinho da Serrinha](https://open.spotify.com/artist/4qDFGliScFrzPiFS9caqnw), [Rahiza](https://open.spotify.com/artist/6dBPKpFGzWHzvBriE4Dbwx) | [Lá Vem A Noite](https://open.spotify.com/album/7jC67OLg5vFyeHfQgbSAQd) | 3:48 | 2022-12-02 | 2023-07-01 |
@@ -725,6 +726,7 @@
 | [Resposta](https://open.spotify.com/track/0ZJ6kYBasODtY4JWDzkDDE) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Resposta](https://open.spotify.com/album/6fPQatXeKSpZuyNKj5adbD) | 3:31 | 2023-12-15 | 2024-10-05 |
 | [Retrato de Maria Lúcia](https://open.spotify.com/track/4mjBM5IAzxuKcYIgrH0oDF) | [Ítallo](https://open.spotify.com/artist/3Z8iiGCNdH9SM2dxr0WZp9), [Marina Nemesio](https://open.spotify.com/artist/1jLb1hc9fbV18QKGtkclMR) | [Tarde no Walkiria](https://open.spotify.com/album/3d9WQ7ir8GSaHmMMog7qfr) | 4:07 | 2023-05-26 | 2023-07-01 |
 | [REWIND DOIS](https://open.spotify.com/track/7E7cd7fZV1ZsLjBO1rQAeK) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [REWIND DOIS](https://open.spotify.com/album/2S4ZruzfwuQWkoVYk4ibrZ) | 3:04 | 2023-03-24 | 2023-09-23 |
+| [Rio Lua](https://open.spotify.com/track/2U2EHzePinWCXk8RItiiJW) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Rio Lua](https://open.spotify.com/album/1ZKkYip0a1vYvZHbHhRWHs) | 2:29 | 2026-07-10 |  |
 | [Rockstar](https://open.spotify.com/track/7nkqdCmYskYjTElzcB7RsP) | [Théo Medon](https://open.spotify.com/artist/68BYpHWp2bG1aED8Tq6n8y) | [Rockstar](https://open.spotify.com/album/7hpBRdQRQhqPs4kItbAAy5) | 2:51 | 2022-06-24 | 2022-07-02 |
 | [roda de bamba](https://open.spotify.com/track/3p1sKst6UehseITknM5z1b) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [NJDDAMC](https://open.spotify.com/album/6TLehgZQDQ4TcvBayNmN89) | 2:42 | 2022-11-11 | 2022-11-26 |
 | [Romance](https://open.spotify.com/track/7JqcuxIUQDuLNE8LMoRB7X) | [Duda Brack](https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab), [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Felipe Cordeiro](https://open.spotify.com/artist/5Udg8m6Rj2wefjeKJZRvk4) | [PROIBIDO NÃO GOSTAR](https://open.spotify.com/album/69WlCG6kcfEwIinh2asJcu) | 3:04 | 2024-07-05 | 2024-08-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa Charli xcx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,721 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,723 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 53 | [Criminal \- From the Original Motion Picture Scream 7](https://open.spotify.com/track/7FzmTWZg0cmBXOr5428N8R) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Criminal \(From the Original Motion Picture Scream 7\)](https://open.spotify.com/album/2nmVXKVnYRht1PxXZ6aguS) | 3:19 |
 | 54 | [More than enough...](https://open.spotify.com/track/3yKFnRfIRmSHMWMGvjannW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [More than enough...](https://open.spotify.com/album/51K1isfES8v2BMcKI40kXP) | 3:32 |
 | 55 | [Se ei mennyt niin](https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Vesala](https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:50 |
-| 56 | [MMG](https://open.spotify.com/track/78F5qg3GeuvulXePGIL3vJ) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [MMG](https://open.spotify.com/album/2TbFAQtfMExiXwaQqksQvW) | 3:06 |
-| 57 | [ALICE](https://open.spotify.com/track/62lIi3Mb3jR018YFjESFl7) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [ALICE](https://open.spotify.com/album/1JmyKpeyt4cHkYlfKBU6Dv) | 4:39 |
+| 56 | [ALICE](https://open.spotify.com/track/62lIi3Mb3jR018YFjESFl7) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [ALICE](https://open.spotify.com/album/1JmyKpeyt4cHkYlfKBU6Dv) | 4:39 |
+| 57 | [MMG](https://open.spotify.com/track/78F5qg3GeuvulXePGIL3vJ) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [MMG](https://open.spotify.com/album/2TbFAQtfMExiXwaQqksQvW) | 3:06 |
 | 58 | [SHOTIT](https://open.spotify.com/track/72S4WLsyHM9dj4eIZd3zPc) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [SHOTIT](https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ) | 2:34 |
 | 59 | [Kuudes aisti](https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Kuudes aisti](https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y) | 3:13 |
 | 60 | [FATHER \(I Will Never Confess\)](https://open.spotify.com/track/0TBOHLelyVGkuEWgWdyB3L) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [FATHER \(I Will Never Confess\)](https://open.spotify.com/album/787MQtQSxspIiK7b06vwzk) | 3:18 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 64 | [Monsteri \(feat\. Rajaton\)](https://open.spotify.com/track/0l9pXT5uurCBaUBjiCSwnr) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Rajaton](https://open.spotify.com/artist/3ZfVp9mvvJt4Zly7lxgcaR) | [No Haav No Love](https://open.spotify.com/album/06SWD7zsvxo9yJHy50sk2q) | 4:37 |
 | 65 | [Pokaali](https://open.spotify.com/track/2OYNF3qYJmr2LBLTvPCCvR) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Pokaali](https://open.spotify.com/album/2jGLJVeqQ46IhSvb3Ilw40) | 3:07 |
 | 66 | [Naamat](https://open.spotify.com/track/7fk4XZFhP99KgWUIF5soxf) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [KATULAPSI](https://open.spotify.com/album/5lroKDiW0qQOrLDJDC3YUW) | 2:39 |
-| 67 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
-| 68 | [1001 tapaa](https://open.spotify.com/track/3FEqxWTMRB4jka8qmknxOz) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [1001 tapaa](https://open.spotify.com/album/6An4sRgD5Iw430vBfvXjRU) | 2:48 |
+| 67 | [1001 tapaa](https://open.spotify.com/track/3FEqxWTMRB4jka8qmknxOz) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [1001 tapaa](https://open.spotify.com/album/6An4sRgD5Iw430vBfvXjRU) | 2:48 |
+| 68 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
 | 69 | [Sydän \(feat\. Alina Burnet\)](https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Sydän \(feat\. Alina Burnet\)](https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg) | 3:45 |
 | 70 | [Älä sano sua rumaksi](https://open.spotify.com/track/6pV8EIckMcd64Fwz0bsu6b) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Älä sano sua rumaksi](https://open.spotify.com/album/6Dq6bC1xg4O3awxY3xAKJc) | 2:33 |
 | 71 | [Olosuhteet](https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [Olosuhteet](https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L) | 3:08 |

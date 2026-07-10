@@ -4,7 +4,7 @@
 
 > The premier indie melancholia playlist, featuring Lana Del Rey
 
-435 songs - 1 day 5 hr 7 min
+437 songs - 1 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Cherry Wine \- Live](https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:00 | 2022-08-26 | 2024-03-01 |
 | [Chewing Cotton Wool](https://open.spotify.com/track/2qRRVF41NynV0FRHJKaYjM) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Chewing Cotton Wool](https://open.spotify.com/album/0vdb79nBrtdF8sozFxRzDw) | 3:29 | 2019-11-23 | 2022-07-29 |
 | [Chewing Cotton Wool](https://open.spotify.com/track/3XxI16XYIjNhbvMFSN6Mlg) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Chewing Cotton Wool](https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z) | 3:29 | 2022-07-15 | 2022-09-13 |
+| [cigarette smoke](https://open.spotify.com/track/0e4u0sFRGxHL4U2iFBrUvZ) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 5:40 | 2026-07-09 |  |
 | [circle the drain](https://open.spotify.com/track/5Fxqn2kr6NBio3EDfaMi45) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [circle the drain](https://open.spotify.com/album/728chZ1Mu69fH291jrctJ5) | 4:40 | 2020-01-18 | 2022-06-18 |
 | [Claudion](https://open.spotify.com/track/6pxONgR0fKIYToNDZ0QdCp) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Claudion](https://open.spotify.com/album/56QvUgrueWipXDiX61qZCR) | 4:27 | 2019-09-29\* | 2020-01-17 |
 | [cold/mess](https://open.spotify.com/track/2AoWWiMelowkStJoqPMDed) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold / mess](https://open.spotify.com/album/668sak5iUcXZeaOwq3fERM) | 4:41 | 2020-01-18 | 2022-04-10 |
@@ -206,7 +207,7 @@
 | [Legs](https://open.spotify.com/track/2UVPkh6lrARjYDK42jC6kD) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 3:40 | 2020-08-30 | 2020-09-11 |
 | [Lejos de Ti](https://open.spotify.com/track/0phzfJn8NeT1LkbqfV2peI) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 2:59 | 2025-01-27 |  |
 | [Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:59 | 2025-06-10 |  |
-| [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 | 2022-05-25 |  |
+| [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 | 2022-05-25 | 2026-07-10 |
 | [Light Years](https://open.spotify.com/track/0dcKsPZVWa64MvnoCes49q) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Light Years](https://open.spotify.com/album/2PhtZZE1Re3j09XzBxz7jQ) | 3:33 | 2019-09-29\* | 2022-07-29 |
 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 | 2022-07-15 | 2023-04-06 |
 | [Lilo](https://open.spotify.com/track/32P4qhYWGe9XEQE2XGgfdP) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 4:10 | 2022-07-15 | 2022-08-27 |
@@ -215,6 +216,7 @@
 | [Lonely Shade of Blue](https://open.spotify.com/track/3Xy4XTx8YUspuzOAP1VteX) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Lonely Shade of Blue](https://open.spotify.com/album/3yaYIRcHa4fwXW9TROD7ew) | 4:22 | 2019-11-16 | 2024-09-14 |
 | [Lose My Breath](https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 3:37 | 2020-08-30 | 2020-09-11 |
 | [Lost at Sea](https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lost At Sea](https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ) | 3:07 | 2023-06-16 | 2023-08-18 |
+| [Lost Boys](https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP) | 4:14 | 2026-07-09 |  |
 | [Love Me Right](https://open.spotify.com/track/5cdHRbjhYzNUSvzWWDfKcC) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Blues Ballads](https://open.spotify.com/album/1nTzKUnHcWvrDDWxvuUYbi) | 1:54 | 2020-08-30 | 2020-09-11 |
 | [Lover I Don't Have to Love](https://open.spotify.com/track/5kfbZ2Dt3FYVboAfrAG5by) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [LIFTED or The Story Is in the Soil, Keep Your Ear to the Ground \(Remastered\)](https://open.spotify.com/album/3D9lWF6r92UhRESvgte65y) | 3:59 | 2020-08-30 | 2020-09-11 |
 | [Lover, You Should’ve Come Over](https://open.spotify.com/track/3pmZMUdxIKSu4YBVqGlyLe) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Lover, You Should’ve Come Over](https://open.spotify.com/album/3vOfCeKyiRZBkpoSoHmcbm) | 6:01 | 2024-01-03 | 2024-09-14 |
@@ -276,7 +278,7 @@
 | [Please Stay](https://open.spotify.com/track/2PehCKKeDxSVeOnkLuhp5l) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:19 | 2024-02-12 | 2024-09-14 |
 | [Please, Please, Please, Let Me Get What I Want \- 2011 Remaster](https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 1:52 | 2022-08-26 |  |
 | [Pool](https://open.spotify.com/track/5cHDAJwQx3CUxRWHfAvbkv) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 4:29 | 2022-08-26 | 2024-09-14 |
-| [Pool House](https://open.spotify.com/track/74f0dpqHhTeTJzs4pmZ1yq) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:29 | 2022-03-04 |  |
+| [Pool House](https://open.spotify.com/track/74f0dpqHhTeTJzs4pmZ1yq) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:29 | 2022-03-04 | 2026-07-10 |
 | [Possibility](https://open.spotify.com/track/39Odj4vLKRarATkCA31gaW) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [The Twilight Saga: New Moon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R) | 5:06 | 2022-08-11 | 2024-09-14 |
 | [Real Pain](https://open.spotify.com/track/4Q1GVYao4Z4fDZBv4KbI3y) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 4:50 | 2024-02-12 | 2024-09-14 |
 | [Rearrange My World](https://open.spotify.com/track/3Ku0VYAQ4b6IomnonhjdVv) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 3:48 | 2025-02-20 |  |

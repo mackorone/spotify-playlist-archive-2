@@ -12318,6 +12318,10 @@
         {
           "name": "Elif Sanchez",
           "url": "https://open.spotify.com/artist/74v3N39tiIzpUsDLpHGz2B"
+        },
+        {
+          "name": "O Kwarteto",
+          "url": "https://open.spotify.com/artist/0XoxJtDROhxLeZo8hxI1ny"
         }
       ],
       "date_added": "2026-06-30",
@@ -16394,6 +16398,24 @@
       "duration_ms": 229995,
       "name": "En B\u00fcy\u00fck A\u015fk\u0131m",
       "url": "https://open.spotify.com/track/4BdzYE2bJeAfcEDMmAtwxo"
+    },
+    {
+      "album": {
+        "name": "En B\u00fcy\u00fck Yenilgim",
+        "url": "https://open.spotify.com/album/5V6Y7ZC3pWLf2DquCTHWX2"
+      },
+      "artists": [
+        {
+          "name": "G\u00fclden Esen",
+          "url": "https://open.spotify.com/artist/0oNxxM5U3ySoqWW1NUhyPC"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "En B\u00fcy\u00fck Yenilgim",
+      "url": "https://open.spotify.com/track/0Urb3lQIYbz7VGVNHF8zPr"
     },
     {
       "album": {

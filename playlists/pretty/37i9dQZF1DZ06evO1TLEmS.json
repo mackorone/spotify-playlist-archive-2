@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 4673,
+  "num_followers": 4675,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAABXGP5q7BbMC+O0jYtTtt+t",
+  "snapshot_id": "ak2TAAAAAACIaSkz8R+mcdCM+de34/fM",
   "tracks": [
     {
       "added_at": null,
@@ -167,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ace",
+        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "My Full Name",
+      "url": "https://open.spotify.com/track/54BTdSX1jqE366VPHeGfWh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Departures",
         "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 253213,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ace",
-        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "My Full Name",
-      "url": "https://open.spotify.com/track/54BTdSX1jqE366VPHeGfWh"
     },
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Send My Regards",
-        "url": "https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH"
-      },
-      "artists": [
-        {
-          "name": "Anthony da Costa",
-          "url": "https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Send My Regards",
-      "url": "https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broken Harvest",
         "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 287439,
       "name": "Broken Harvest",
       "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...but i'd rather be with you, too",
+        "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 197790,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
     },
     {
       "added_at": null,
@@ -555,22 +555,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "...but i'd rather be with you, too",
-        "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
       "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 197790,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
+      "duration_ms": 228013,
+      "name": "L.A. (Looking Alive)",
+      "url": "https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT"
     },
     {
       "added_at": null,
@@ -595,54 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+        "name": "Send My Regards",
+        "url": "https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH"
       },
       "artists": [
         {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "L.A. (Looking Alive)",
-      "url": "https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Graceland Way",
-        "url": "https://open.spotify.com/album/3Tpi8aDmEZ7tpJvPu8sxuI"
-      },
-      "artists": [
-        {
-          "name": "Mikaela Davis",
-          "url": "https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5"
+          "name": "Anthony da Costa",
+          "url": "https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj"
         },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 215497,
-      "name": "(Looking Through) Rose Colored Glasses",
-      "url": "https://open.spotify.com/track/336t4aqoOMtMMKIAVYqgWb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 262934,
-      "name": "In From Japan",
-      "url": "https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw"
+      "duration_ms": 247893,
+      "name": "Send My Regards",
+      "url": "https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI"
     },
     {
       "added_at": null,
@@ -683,6 +647,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 262934,
+      "name": "In From Japan",
+      "url": "https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Graceland Way",
+        "url": "https://open.spotify.com/album/3Tpi8aDmEZ7tpJvPu8sxuI"
+      },
+      "artists": [
+        {
+          "name": "Mikaela Davis",
+          "url": "https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 215497,
+      "name": "(Looking Through) Rose Colored Glasses",
+      "url": "https://open.spotify.com/track/336t4aqoOMtMMKIAVYqgWb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cunningham Bird",
         "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
       },
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 283106,
-      "name": "Crystal",
-      "url": "https://open.spotify.com/track/2H3gBsloNdjGWlnct8GR1d"
+      "duration_ms": 151213,
+      "name": "Lola (My Love)",
+      "url": "https://open.spotify.com/track/6xfbp79nVK2quJDtoZyUPe"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 151213,
-      "name": "Lola (My Love)",
-      "url": "https://open.spotify.com/track/6xfbp79nVK2quJDtoZyUPe"
+      "duration_ms": 283106,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/2H3gBsloNdjGWlnct8GR1d"
     },
     {
       "added_at": null,
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 266733,
-      "name": "Common Language",
-      "url": "https://open.spotify.com/track/3rEwolA0qEDonOpKkws7V7"
+      "duration_ms": 217933,
+      "name": "Plain Letters",
+      "url": "https://open.spotify.com/track/785XCeQqmArhIMXov8OIsc"
     }
   ],
   "unique_name": "This Is Madison Cunningham",

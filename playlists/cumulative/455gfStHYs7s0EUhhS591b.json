@@ -2229,6 +2229,32 @@
     },
     {
       "album": {
+        "name": "I Love You Always Forever",
+        "url": "https://open.spotify.com/album/74jLlJELVYPgcs3SE2PfBf"
+      },
+      "artists": [
+        {
+          "name": "Marc Kiss",
+          "url": "https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO"
+        },
+        {
+          "name": "Yasmin Hutchins",
+          "url": "https://open.spotify.com/artist/79xm3aKAiZz4Nw1ppelt0d"
+        },
+        {
+          "name": "Summer Is Calling",
+          "url": "https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204338,
+      "name": "I Love You Always Forever",
+      "url": "https://open.spotify.com/track/41cbhaDUVCZP85vp8bvKM9"
+    },
+    {
+      "album": {
         "name": "I Never Knew How",
         "url": "https://open.spotify.com/album/1YRe3DxgMk2eyJghhuRtiE"
       },

@@ -42,7 +42,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-06",
+      "date_removed": null,
       "duration_ms": 35826,
       "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 3",
       "url": "https://open.spotify.com/track/01krwPhJ04YilFViTRPU1O"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 250828,
       "name": "Rainbow Connection - From \"The Muppet Movie\"",
       "url": "https://open.spotify.com/track/2zDcsFEQTjCTxl4Efod6Ml"
@@ -1258,6 +1258,36 @@
       "duration_ms": 182000,
       "name": "Rhapsody on a Theme of Paganini, Op. 43: Var. 18. Andante cantabile (Arr. Korepanova for Solo Piano)",
       "url": "https://open.spotify.com/track/5jw0ZZVYXI6zYXGfQZ3o8W"
+    },
+    {
+      "album": {
+        "name": "Rachmaninov: Piano Concerto No.2; Rhapsody on a Theme of Paganini; Prelude op.23",
+        "url": "https://open.spotify.com/album/47qtV9qmB13tNmMCGJBTZp"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168573,
+      "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation No. 18 - Live",
+      "url": "https://open.spotify.com/track/3lEZKbnHo4Wzvh6iQmZcrt"
     },
     {
       "album": {
@@ -1642,7 +1672,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 174266,
       "name": "\u00c9tudes, Op. 25: No. 1 in A-Flat Major",
       "url": "https://open.spotify.com/track/6SZecFOXcA1mt31T67vajf"

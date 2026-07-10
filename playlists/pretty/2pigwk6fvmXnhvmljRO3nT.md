@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,496 songs - 21 day 15 hr 16 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,497 songs - 21 day 15 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8504,5 +8504,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8494 | [destiny](https://open.spotify.com/track/2LVEEbWnNKnnmCkc9yRwJc) | [TEAM B・A・K・A](https://open.spotify.com/artist/2SCVh3n48D3OBBYLor3HKZ) | [ギブミー・シークレット](https://open.spotify.com/album/3YFO3niisQcza038bWIUUl) | 4:51 |
 | 8495 | [ギブミー・シークレット \- inst.](https://open.spotify.com/track/6JIbQJmxPK6hooISd4A0mC) | [StylipS](https://open.spotify.com/artist/16Vu3ajNELyWQhDuqyi2zR) | [ギブミー・シークレット](https://open.spotify.com/album/3YFO3niisQcza038bWIUUl) | 3:47 |
 | 8496 | [destiny \- inst.](https://open.spotify.com/track/6PGEBF1J8sArr5HdTxkM6n) | [TEAM B・A・K・A](https://open.spotify.com/artist/2SCVh3n48D3OBBYLor3HKZ) | [ギブミー・シークレット](https://open.spotify.com/album/3YFO3niisQcza038bWIUUl) | 4:51 |
+| 8497 | [Gold\-Triumph](https://open.spotify.com/track/7zy3isyZnCFhJaN5hSQEDX) | [ゴールドシップ \(CV\. 上田 瞳\)](https://open.spotify.com/artist/1tODxzD6whVt82RO4FgkFE), [ナカヤマフェスタ \(CV\. 下地紫野\)](https://open.spotify.com/artist/5ElmbJJz5azpUCGshekl0P), [オルフェーヴル \(CV\. 日笠陽子\)](https://open.spotify.com/artist/2YiY6vEoIiyVW3WyDnQNIM), [ドリームジャーニー \(CV\. 吉岡茉祐\)](https://open.spotify.com/artist/19YA4Q32cgKV9x8KNb1TmN), [フェノーメノ \(CV\. 日比優理香\)](https://open.spotify.com/artist/7LTAH878GVLq890fi9i9sS), [ステイゴールド \(CV\. 松田颯水\)](https://open.spotify.com/artist/1Sxd0rOFUWr9bXtiBNFEVe), [ウマ娘 プリティーダービー](https://open.spotify.com/artist/5pTLke5Yq8nN4yaPxLPzGd) | [Gold\-Triumph](https://open.spotify.com/album/7wxuClDXOnz5Nj1JDntHNb) | 3:36 |
 
-Snapshot ID: `AAAMQ9EpgE+ONRBOSl5vOCP4OUPUffCB`
+Snapshot ID: `AAAMRKcOb4tzrG1EjUCret88hEbFdMWL`

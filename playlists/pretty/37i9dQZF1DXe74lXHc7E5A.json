@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Drake",
-  "num_followers": 45301,
+  "num_followers": 45315,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -831,26 +831,6 @@
     {
       "added_at": "2026-06-19 00:01:57",
       "album": {
-        "name": "US",
-        "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
-      },
-      "artists": [
-        {
-          "name": "Swayvee",
-          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
-        },
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        }
-      ],
-      "duration_ms": 139047,
-      "name": "US",
-      "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
-    },
-    {
-      "added_at": "2026-06-19 00:01:57",
-      "album": {
         "name": "PICANTO",
         "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 184077,
       "name": "PICANTO",
       "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
+    },
+    {
+      "added_at": "2026-06-19 00:01:57",
+      "album": {
+        "name": "US",
+        "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
+      },
+      "artists": [
+        {
+          "name": "Swayvee",
+          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        }
+      ],
+      "duration_ms": 139047,
+      "name": "US",
+      "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
     },
     {
       "added_at": "2026-06-19 00:01:57",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-06-19 00:01:57",
       "album": {
-        "name": "Free (Deluxe)",
-        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 120058,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
-    },
-    {
-      "added_at": "2026-06-19 00:01:57",
-      "album": {
         "name": "DECLAN RICE",
         "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
       },
@@ -991,6 +975,22 @@
     {
       "added_at": "2026-06-19 00:01:57",
       "album": {
+        "name": "Free (Deluxe)",
+        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 120058,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
+    },
+    {
+      "added_at": "2026-06-19 00:01:57",
+      "album": {
         "name": "Boom Boom",
         "url": "https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp"
       },
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2026-06-19 00:01:57",
       "album": {
-        "name": "The Odyssey",
-        "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
-      },
-      "artists": [
-        {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 179381,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW"
-    },
-    {
-      "added_at": "2026-06-19 00:01:57",
-      "album": {
         "name": "Hello Habibi",
         "url": "https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 194661,
       "name": "Hello Habibi",
       "url": "https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY"
+    },
+    {
+      "added_at": "2026-06-19 00:01:57",
+      "album": {
+        "name": "The Odyssey",
+        "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 179381,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW"
     },
     {
       "added_at": "2026-06-19 00:01:57",
@@ -1135,22 +1135,18 @@
     {
       "added_at": "2026-06-19 00:01:57",
       "album": {
-        "name": "Digga",
-        "url": "https://open.spotify.com/album/3WbPHstTziKAuJVx9vIQQI"
+        "name": "ESCAPE PLAN",
+        "url": "https://open.spotify.com/album/0ziQ2r1K4QV1oIJhnF5JtT"
       },
       "artists": [
         {
-          "name": "Y\u00f4rkk",
-          "url": "https://open.spotify.com/artist/4KLrpPDaqivMxsrJ7X6byv"
-        },
-        {
-          "name": "ARTSALGHUL",
-          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         }
       ],
-      "duration_ms": 187736,
-      "name": "Digga",
-      "url": "https://open.spotify.com/track/1oh95MuaCB9hd1gckqyRXA"
+      "duration_ms": 148571,
+      "name": "ESCAPE PLAN",
+      "url": "https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm"
     }
   ],
   "unique_name": "Hype List",

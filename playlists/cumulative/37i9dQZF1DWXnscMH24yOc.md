@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [00000 Million](https://open.spotify.com/track/4tLyH16Ede8bJTXtE6iHah) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [00000 Million](https://open.spotify.com/album/59eEDBsPFsF8KGKg4JFc0c) | 3:20 | 2021-10-21 | 2022-07-10 |
+| [00000 Million](https://open.spotify.com/track/4tLyH16Ede8bJTXtE6iHah) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [00000 Million](https://open.spotify.com/album/59eEDBsPFsF8KGKg4JFc0c) | 3:20 | 2021-10-21 |  |
 | [1979](https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [1979](https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg) | 4:50 | 2021-10-21 |  |
 | [A Real Hero \- College and Electric Youth Cover](https://open.spotify.com/track/1xSb8M26e7Z9bw2OyxBFwE) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [Open Season \(Deluxe Edition\)](https://open.spotify.com/album/3uP20RvcBDDnlBpRZQIoUU) | 3:17 | 2022-03-22 | 2022-04-18 |
 | [About You Now](https://open.spotify.com/track/0z4eTq4BtDiNN5IFQSUBau) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Nocturnes](https://open.spotify.com/album/6Jzq1Fi63BPj4aMhXLQ5yH) | 3:47 | 2022-03-22 | 2024-04-19 |
@@ -52,7 +52,7 @@
 | [Come As You Are](https://open.spotify.com/track/7nQqRgkJz4yKbz0by1DY6t) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Come As You Are](https://open.spotify.com/album/0b3kdOPZ92v7bSjeYcbsuH) | 2:45 | 2022-03-22 | 2024-02-13 |
 | [Come Away with Me \(feat\. Josh Kumra\)](https://open.spotify.com/track/4uPne76R07AKS4jEXL6QIl) | [Emma Bunton](https://open.spotify.com/artist/2AEEnr6Le5zHzBwpnlZSmq), [Josh Kumra](https://open.spotify.com/artist/18iCcFcI1cBJEq8wKk5zZm) | [My Happy Place](https://open.spotify.com/album/3SZ3cbYeS9O8edtb6OEUgg) | 2:48 | 2021-10-21 | 2022-07-29 |
 | [Country Roads](https://open.spotify.com/track/2ETA67aCemVtQj2nS4TWaM) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4), [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Country Roads](https://open.spotify.com/album/2htGdWsy7NuxdwLs0tA3Y4) | 3:13 | 2021-10-21 |  |
-| [Creep](https://open.spotify.com/track/7fu3lFEf8dVfFuvKxhTPwP) | [Ember Island](https://open.spotify.com/artist/1I5eQkzyM8jCVZIM3k2bKL) | [Creep](https://open.spotify.com/album/3Gx0Yoem0yyteJnSZ9j77l) | 2:57 | 2022-03-22 |  |
+| [Creep](https://open.spotify.com/track/7fu3lFEf8dVfFuvKxhTPwP) | [Ember Island](https://open.spotify.com/artist/1I5eQkzyM8jCVZIM3k2bKL) | [Creep](https://open.spotify.com/album/3Gx0Yoem0yyteJnSZ9j77l) | 2:57 | 2022-03-22 | 2026-07-10 |
 | [Crush](https://open.spotify.com/track/09zy05TC3lWtGl1YRky16r) | [Meiko](https://open.spotify.com/artist/6tW9jWf8lpuzDzAdVMvNMV) | [Crush](https://open.spotify.com/album/0RTz9szRDyx9LXQYlWXATZ) | 3:41 | 2021-10-21 | 2022-07-29 |
 | [Dakota](https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna) | 4:54 | 2022-03-22 | 2024-04-19 |
 | [Dakota](https://open.spotify.com/track/6zUVhz0qHuwtZETMf7vgUT) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/5veDybiqNFwSXdDtheoXDD) | 4:54 | 2021-10-21 | 2022-07-29 |

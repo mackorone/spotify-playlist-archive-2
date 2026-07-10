@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,605 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,606 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Тону](https://open.spotify.com/track/3dxOjnX03UHPUYW7bBikVu) | [HOLLYFLAME](https://open.spotify.com/artist/4WSx41vaWVKu4rdK3VpTDX) | [Тону](https://open.spotify.com/album/0dooqoBNx1V9sTJM903uCy) | 2:43 |
 | 50 | [Омут](https://open.spotify.com/track/6UoUYGsdHo7aB5JtuJxW81) | [Полка](https://open.spotify.com/artist/5VxeSwDCDsUT35ggejgYo2), [YASMI](https://open.spotify.com/artist/0ltb3ImYKP1qewcChFzM1x) | [Омут](https://open.spotify.com/album/0YLVbSvC2KFXKQGAxmOuzQ) | 2:44 |
 
-Snapshot ID: `MeG/eAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MeMQ+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

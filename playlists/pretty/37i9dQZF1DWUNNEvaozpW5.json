@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Robe y Leiva.",
-  "num_followers": 615999,
+  "num_followers": 616036,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-07-02 22:01:02",
       "album": {
-        "name": "Me has invitado a bailar",
-        "url": "https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 192906,
-      "name": "Me has invitado a bailar",
-      "url": "https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE"
-    },
-    {
-      "added_at": "2026-07-02 22:01:02",
-      "album": {
         "name": "ALGUNA PEL\u00cdCULA",
         "url": "https://open.spotify.com/album/4MGEYqtdNzINdek4d2fo0W"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 202450,
       "name": "ALGUNA PEL\u00cdCULA",
       "url": "https://open.spotify.com/track/4nKiTOHUGMUvLuuhroCTS7"
+    },
+    {
+      "added_at": "2026-07-02 22:01:02",
+      "album": {
+        "name": "Me has invitado a bailar",
+        "url": "https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "duration_ms": 192906,
+      "name": "Me has invitado a bailar",
+      "url": "https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE"
     },
     {
       "added_at": "2026-07-02 22:01:02",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-07-02 22:01:02",
       "album": {
-        "name": "Instrucciones",
-        "url": "https://open.spotify.com/album/7ePSlsRUOUcIUyEP8qla04"
-      },
-      "artists": [
-        {
-          "name": "Arde Bogot\u00e1",
-          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
-        }
-      ],
-      "duration_ms": 206520,
-      "name": "Instrucciones",
-      "url": "https://open.spotify.com/track/4eAz4bfY3RjxmOoVXKzIBR"
-    },
-    {
-      "added_at": "2026-07-02 22:01:02",
-      "album": {
         "name": "Negociando gasolina",
         "url": "https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2026-07-02 22:01:02",
       "album": {
-        "name": "Muy Deficiente",
-        "url": "https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1"
+        "name": "Instrucciones",
+        "url": "https://open.spotify.com/album/7ePSlsRUOUcIUyEP8qla04"
       },
       "artists": [
         {
-          "name": "Platero Y Tu",
-          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
         }
       ],
-      "duration_ms": 250093,
-      "name": "El roce de tu cuerpo",
-      "url": "https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl"
+      "duration_ms": 206520,
+      "name": "Instrucciones",
+      "url": "https://open.spotify.com/track/4eAz4bfY3RjxmOoVXKzIBR"
     },
     {
       "added_at": "2026-07-02 22:01:02",
@@ -755,6 +739,22 @@
       "duration_ms": 224611,
       "name": "TU PROBLEMA",
       "url": "https://open.spotify.com/track/6nvfYRoa8TFba7G4T8wRFg"
+    },
+    {
+      "added_at": "2026-07-02 22:01:02",
+      "album": {
+        "name": "Muy Deficiente",
+        "url": "https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1"
+      },
+      "artists": [
+        {
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "El roce de tu cuerpo",
+      "url": "https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl"
     },
     {
       "added_at": "2026-07-02 22:01:02",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-07-02 22:01:02",
       "album": {
+        "name": "Veo Veo Mamoneo",
+        "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
+      },
+      "artists": [
+        {
+          "name": "Rosendo",
+          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
+        }
+      ],
+      "duration_ms": 243040,
+      "name": "Masculino singular",
+      "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
+    },
+    {
+      "added_at": "2026-07-02 22:01:02",
+      "album": {
         "name": "Sin Tiempo",
         "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
       },
@@ -1347,18 +1363,18 @@
     {
       "added_at": "2026-07-02 22:01:02",
       "album": {
-        "name": "Veo Veo Mamoneo",
-        "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
+        "name": "Bajo Presi\u00f3n",
+        "url": "https://open.spotify.com/album/0UQVnUty5NVhUOH3tKFbSK"
       },
       "artists": [
         {
-          "name": "Rosendo",
-          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
         }
       ],
-      "duration_ms": 243040,
-      "name": "Masculino singular",
-      "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
+      "duration_ms": 259881,
+      "name": "Bajo Presi\u00f3n",
+      "url": "https://open.spotify.com/track/01aWWKx7oCpvTFOXmxdHtZ"
     },
     {
       "added_at": "2026-07-02 22:01:02",
@@ -1375,22 +1391,6 @@
       "duration_ms": 237346,
       "name": "20 de abril - En directo 1997",
       "url": "https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx"
-    },
-    {
-      "added_at": "2026-07-02 22:01:02",
-      "album": {
-        "name": "Bajo Presi\u00f3n",
-        "url": "https://open.spotify.com/album/0UQVnUty5NVhUOH3tKFbSK"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 259881,
-      "name": "Bajo Presi\u00f3n",
-      "url": "https://open.spotify.com/track/01aWWKx7oCpvTFOXmxdHtZ"
     },
     {
       "added_at": "2026-07-02 22:01:02",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2026-07-02 22:01:02",
       "album": {
-        "name": "12 Botellines y 5 Tercios",
-        "url": "https://open.spotify.com/album/06giFWDWB3yEX9eDtciSyd"
-      },
-      "artists": [
-        {
-          "name": "Porretas",
-          "url": "https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk"
-        }
-      ],
-      "duration_ms": 173533,
-      "name": "Pongamos Que Hablo de Madrid",
-      "url": "https://open.spotify.com/track/6RVCZgNqZQQSRDFtE7zFwt"
-    },
-    {
-      "added_at": "2026-07-02 22:01:02",
-      "album": {
         "name": "Ser Artista",
         "url": "https://open.spotify.com/album/1o34AsgvJERz55MPyzMwGP"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 175874,
       "name": "Ser Artista",
       "url": "https://open.spotify.com/track/3oOMhibiLHUKGU8XoSm7Jl"
+    },
+    {
+      "added_at": "2026-07-02 22:01:02",
+      "album": {
+        "name": "12 Botellines y 5 Tercios",
+        "url": "https://open.spotify.com/album/06giFWDWB3yEX9eDtciSyd"
+      },
+      "artists": [
+        {
+          "name": "Porretas",
+          "url": "https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk"
+        }
+      ],
+      "duration_ms": 173533,
+      "name": "Pongamos Que Hablo de Madrid",
+      "url": "https://open.spotify.com/track/6RVCZgNqZQQSRDFtE7zFwt"
     },
     {
       "added_at": "2026-07-02 22:01:02",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2026-07-02 22:01:02",
       "album": {
+        "name": "Metamorfosis. En Directo Desde El Teatro Arriaga",
+        "url": "https://open.spotify.com/album/5qIHOPv1Ot90WPGIRmsfMr"
+      },
+      "artists": [
+        {
+          "name": "Doctor Deseo",
+          "url": "https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA"
+        }
+      ],
+      "duration_ms": 329491,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/0rEZBTkZP2Q3c8upkx2WPf"
+    },
+    {
+      "added_at": "2026-07-02 22:01:02",
+      "album": {
         "name": "Llorar y bailar",
         "url": "https://open.spotify.com/album/6tVZ8pZHYwtiHTCUdUxCQm"
       },
@@ -1971,22 +1987,6 @@
       "duration_ms": 205635,
       "name": "Llorar y bailar",
       "url": "https://open.spotify.com/track/16ILDUny5QSrCoRmuZ3vaq"
-    },
-    {
-      "added_at": "2026-07-02 22:01:02",
-      "album": {
-        "name": "Metamorfosis. En Directo Desde El Teatro Arriaga",
-        "url": "https://open.spotify.com/album/5qIHOPv1Ot90WPGIRmsfMr"
-      },
-      "artists": [
-        {
-          "name": "Doctor Deseo",
-          "url": "https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA"
-        }
-      ],
-      "duration_ms": 329491,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/0rEZBTkZP2Q3c8upkx2WPf"
     },
     {
       "added_at": "2026-07-02 22:01:02",

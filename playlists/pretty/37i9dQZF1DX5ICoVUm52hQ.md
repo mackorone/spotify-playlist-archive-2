@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ICoVUm52hQ.md) - [plain]
 
 > esta playlist dura lo mismo \(o menos\) que la pausa futbolera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,650 likes - 10 songs - 2 min 54 sec
+[Spotify](https://open.spotify.com/user/spotify) - 175,621 likes - 10 songs - 2 min 54 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

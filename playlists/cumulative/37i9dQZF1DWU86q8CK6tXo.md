@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover:  Young Miko
 
-2,268 songs - 5 day 2 hr 35 min
+2,269 songs - 5 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Baby](https://open.spotify.com/track/44o4tDW0hGnrNOM180kM6K) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Ring Ring](https://open.spotify.com/album/0LiTyKtFq29DDgZ1zvMI4j) | 3:42 | 2025-08-04 | 2025-10-02 |
 | [Baby Dragon](https://open.spotify.com/track/1IiGlnA7K558hYKMQBov7B) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv) | [Baby Dragon](https://open.spotify.com/album/4ygfkIvjDsQizHqBr9NzHY) | 3:27 | 2024-09-03 | 2024-10-02 |
 | [BABYDOLL \(Speed\)](https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL \(Speed\)](https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per) | 2:36 | 2022-04-19 | 2022-05-05 |
-| [Babylon](https://open.spotify.com/track/42svR3QErydGM6Un0qcBSI) | [Kyndal](https://open.spotify.com/artist/4VFMlrDAmF0wwua3FVD8Qx) | [Babylon](https://open.spotify.com/album/6RxsiU29Br7Wu4ZdVwfHhr) | 2:44 | 2026-07-01 |  |
+| [Babylon](https://open.spotify.com/track/42svR3QErydGM6Un0qcBSI) | [Kyndal](https://open.spotify.com/artist/4VFMlrDAmF0wwua3FVD8Qx) | [Babylon](https://open.spotify.com/album/6RxsiU29Br7Wu4ZdVwfHhr) | 2:44 | 2026-07-01 | 2026-07-10 |
 | [back 2 u](https://open.spotify.com/track/32hCv3uH5eZrQyiwKUbfUq) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [MUSIC 4 DANCING](https://open.spotify.com/album/4Ktfjs4DfhzMJ1gcK6NS91) | 4:08 | 2026-01-20 | 2026-04-21 |
 | [Back Into It](https://open.spotify.com/track/1Oj3Co069DI1DLxbVLU0au) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC), [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [Back Into It](https://open.spotify.com/album/5Pg1l7PCtNxoL6HQWy6OSX) | 3:18 | 2023-10-04 | 2023-11-09 |
 | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/track/5zHqXGQkZ1BSGePTAg6xSF) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/album/1NUu71LKvnQJHfrMvrYfap) | 2:53 | 2024-01-26 | 2024-03-02 |
@@ -2172,6 +2172,7 @@
 | [what will they say](https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [what will they say](https://open.spotify.com/album/0fKRLBkEn4QwgKw5OdRZgQ) | 2:37 | 2026-01-20 | 2026-05-05 |
 | [what would you do?](https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [what would you do?](https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs) | 2:46 | 2022-06-01 | 2022-07-07 |
 | [What You Deserve](https://open.spotify.com/track/1y5G5QFWuUmEF7O2CSck9v) | [Femme It Forward](https://open.spotify.com/artist/3rw1MKkbLTZw46AqC7gRpH), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [Big Femme Energy Volume 1](https://open.spotify.com/album/7mRnNfdDMiu6xuLNzXgcHB) | 2:55 | 2022-01-05 | 2022-02-03 |
+| [What you Know](https://open.spotify.com/track/2tbxEdJWzM7vT2OR8zLDFs) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [Diary Of A Young Lit B\*tch](https://open.spotify.com/album/5fmJLK908UzunIOHhZE5Au) | 1:42 | 2026-07-01 |  |
 | [What You Need](https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 3:54 | 2025-12-05 | 2026-03-10 |
 | [Whatcha Know About That](https://open.spotify.com/track/4sl7urnvv4gI7BtjGby7y0) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Whatcha Know About That](https://open.spotify.com/album/0dS99ant98Rrmw5tVuHfkE) | 2:48 | 2022-11-02 | 2022-12-01 |
 | [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 | 2024-11-01 | 2025-01-18 |

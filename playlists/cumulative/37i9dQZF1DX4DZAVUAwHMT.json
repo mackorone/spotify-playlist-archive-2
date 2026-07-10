@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Fat Dog",
+  "description": "The UK's biggest rock playlist. Cover: Show Me The Body",
   "name": "The Rock List",
   "tracks": [
     {
@@ -2405,6 +2405,24 @@
     },
     {
       "album": {
+        "name": "Beaches In Tennessee",
+        "url": "https://open.spotify.com/album/4AB0To8YbkXhU8VHDdiEDQ"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196440,
+      "name": "Beaches In Tennessee",
+      "url": "https://open.spotify.com/track/20TOJbuP4XyGBEFbwB8Vbm"
+    },
+    {
+      "album": {
         "name": "Beat A B!tch Up",
         "url": "https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2"
       },
@@ -4615,6 +4633,28 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/07uewP6C55i9uDV9B2kdoy"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189677,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0OgIjOcARxnYgm5iL5P6AA"
+    },
+    {
+      "album": {
         "name": "WOOF.",
         "url": "https://open.spotify.com/album/5zuQQIzkoyry8lZrmW4744"
       },
@@ -6065,6 +6105,24 @@
     },
     {
       "album": {
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/2itfvUrApVCygurzgNzXJg"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191746,
+      "name": "Do What's Right (Happy)",
+      "url": "https://open.spotify.com/track/0uRZ0XwepbMqdPXohjdYj4"
+    },
+    {
+      "album": {
         "name": "Do You Remember?",
         "url": "https://open.spotify.com/album/4dw74gFXRLubjjaOOohMgK"
       },
@@ -6260,6 +6318,24 @@
       "duration_ms": 224000,
       "name": "Drag Path",
       "url": "https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L"
+    },
+    {
+      "album": {
+        "name": "Dread",
+        "url": "https://open.spotify.com/album/0UGMgW1D9Bo0uTbL9l8Ruo"
+      },
+      "artists": [
+        {
+          "name": "Cold Years",
+          "url": "https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Dread",
+      "url": "https://open.spotify.com/track/34Ivy5c5vQ449z5gwH7GUV"
     },
     {
       "album": {
@@ -10113,6 +10189,24 @@
     },
     {
       "album": {
+        "name": "moisturizer (deluxe)",
+        "url": "https://open.spotify.com/album/2HnvB9ilRvh2hpoFesS5fl"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102883,
+      "name": "hi from me",
+      "url": "https://open.spotify.com/track/60XzwYT67TQNhF5Bhu2sQR"
+    },
+    {
+      "album": {
         "name": "hide & seek",
         "url": "https://open.spotify.com/album/0pD1eUq9emXqqRnt9JI2u2"
       },
@@ -10814,6 +10908,24 @@
       "duration_ms": 131076,
       "name": "I am a Machine",
       "url": "https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC"
+    },
+    {
+      "album": {
+        "name": "I Can See You From Here",
+        "url": "https://open.spotify.com/album/440LCjwEQuTyspIosyIizC"
+      },
+      "artists": [
+        {
+          "name": "Citizen",
+          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190100,
+      "name": "I Can See You From Here",
+      "url": "https://open.spotify.com/track/5siXvTM8ElmVQgTPqn2aY8"
     },
     {
       "album": {
@@ -12642,6 +12754,24 @@
       "duration_ms": 214935,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/1RMYwkxY1v6RryYIbfDHjY"
+    },
+    {
+      "album": {
+        "name": "From The Pyre (Deluxe)",
+        "url": "https://open.spotify.com/album/3AGFxS8n4Bicv65GAOW3od"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268399,
+      "name": "Knocking at the Sky",
+      "url": "https://open.spotify.com/track/16naEqXaSBJunVZvqLhsHq"
     },
     {
       "album": {
@@ -15035,6 +15165,24 @@
     },
     {
       "album": {
+        "name": "Foreign Tongues",
+        "url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274061,
+      "name": "Mr Charm",
+      "url": "https://open.spotify.com/track/7FNkY47xx3oKTjr5tk5m8k"
+    },
+    {
+      "album": {
         "name": "mr. mole",
         "url": "https://open.spotify.com/album/2vq7eSrcugqlRKxiiRcwG5"
       },
@@ -15328,6 +15476,24 @@
       "duration_ms": 198133,
       "name": "Need You No More",
       "url": "https://open.spotify.com/track/52wTxB7XWwR0Ix6zT57PM0"
+    },
+    {
+      "album": {
+        "name": "Frozen Charlotte",
+        "url": "https://open.spotify.com/album/0VV4lddlDaShTgEzohQ7Jj"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304716,
+      "name": "Neighbors Blues",
+      "url": "https://open.spotify.com/track/3Gbadm56klrQ11LCPsyy7z"
     },
     {
       "album": {
@@ -16513,6 +16679,24 @@
     },
     {
       "album": {
+        "name": "One Hot July",
+        "url": "https://open.spotify.com/album/1si6IlCtjcCIENtBLr9s84"
+      },
+      "artists": [
+        {
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348634,
+      "name": "One Hot July",
+      "url": "https://open.spotify.com/track/2fsgLcJElACDHoBcdKV4WL"
+    },
+    {
+      "album": {
         "name": "One Man Band",
         "url": "https://open.spotify.com/album/3kHrYmHBC2fi59cNjBbwZn"
       },
@@ -16950,6 +17134,24 @@
       "duration_ms": 302897,
       "name": "outlaw overture",
       "url": "https://open.spotify.com/track/3EuCkgHpzLixcDH2OtNFA3"
+    },
+    {
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/1f5ztxzAuXzoTgXs9TANIW"
+      },
+      "artists": [
+        {
+          "name": "Coach Party",
+          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196641,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/65iScqJSzfdfnqZYf6q0Xd"
     },
     {
       "album": {
@@ -17710,6 +17912,24 @@
       "duration_ms": 290086,
       "name": "Placebo",
       "url": "https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14"
+    },
+    {
+      "album": {
+        "name": "Placeholder",
+        "url": "https://open.spotify.com/album/2LsamWtPqjSpB4rNICcaRp"
+      },
+      "artists": [
+        {
+          "name": "Gilla Band",
+          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254421,
+      "name": "Placeholder",
+      "url": "https://open.spotify.com/track/5V1kxhCYOixHKKei4c4EwE"
     },
     {
       "album": {
@@ -20125,6 +20345,24 @@
     },
     {
       "album": {
+        "name": "Silent Pictures",
+        "url": "https://open.spotify.com/album/0uj5lZsHyJz6JeLaUAK8EB"
+      },
+      "artists": [
+        {
+          "name": "Mouth Ulcers",
+          "url": "https://open.spotify.com/artist/7ohGcioscyT39FJjvkivt5"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204614,
+      "name": "Silent Pictures",
+      "url": "https://open.spotify.com/track/0JMyXn7qUYjdpqvt4jOX7u"
+    },
+    {
+      "album": {
         "name": "silent stranger",
         "url": "https://open.spotify.com/album/3yksUh3OSJ0ZiZiZ4pIfuI"
       },
@@ -20212,6 +20450,24 @@
       "duration_ms": 227529,
       "name": "Sinking Feeling",
       "url": "https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb"
+    },
+    {
+      "album": {
+        "name": "i think i want to go home now.",
+        "url": "https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148826,
+      "name": "sinking feeling",
+      "url": "https://open.spotify.com/track/5L5iQ8r4WVRSCNGajFNbjX"
     },
     {
       "album": {
@@ -20885,6 +21141,24 @@
     },
     {
       "album": {
+        "name": "Spiral Again / Forever",
+        "url": "https://open.spotify.com/album/3eggvC1TSW1vOB2ZYyo5eG"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236560,
+      "name": "Spiral Again - Single Edit",
+      "url": "https://open.spotify.com/track/3dAs0a9mfbfqePzC0ChGeS"
+    },
+    {
+      "album": {
         "name": "Spiralling Out",
         "url": "https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle"
       },
@@ -21311,6 +21585,24 @@
     },
     {
       "album": {
+        "name": "Story Of My Demise",
+        "url": "https://open.spotify.com/album/55gsSLyg6jPFfXfO58kqln"
+      },
+      "artists": [
+        {
+          "name": "Massive Wagons",
+          "url": "https://open.spotify.com/artist/7xytG2E40s4GeukvZCGqGP"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238829,
+      "name": "Story Of My Demise",
+      "url": "https://open.spotify.com/track/64uN2g20yzcGtrSATzIEys"
+    },
+    {
+      "album": {
         "name": "straight out the oven !",
         "url": "https://open.spotify.com/album/1xMSlBl1FaPiCJIZ8ppofk"
       },
@@ -21384,6 +21676,42 @@
       "duration_ms": 213542,
       "name": "Stray",
       "url": "https://open.spotify.com/track/2wb55krslcGE17P1BHeqH1"
+    },
+    {
+      "album": {
+        "name": "Stray Dogs",
+        "url": "https://open.spotify.com/album/6wwFB0YmjCiqCwyrQVXAkU"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323605,
+      "name": "Stray Dogs",
+      "url": "https://open.spotify.com/track/2PPfvgdNJqXzHjg61y9AWh"
+    },
+    {
+      "album": {
+        "name": "Street Of Dreams",
+        "url": "https://open.spotify.com/album/1ivlBe4lilutfAmOoQWxxS"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234657,
+      "name": "Street Of Dreams",
+      "url": "https://open.spotify.com/track/70X6SFkjCUZ0nRBUGXddTn"
     },
     {
       "album": {

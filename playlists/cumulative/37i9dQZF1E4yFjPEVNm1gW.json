@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-29",
-  "description": "With Yeat, Cuo Zay, Autumn! and more",
+  "description": "With Yeat, Autumn!, Cuo Zay and more",
   "name": "Taewitdak Radio",
   "tracks": [
     {
@@ -166,7 +166,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 106728,
       "name": "Air Bender",
       "url": "https://open.spotify.com/track/0SC10wGF4YMLIdL1QMGlm8"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 157355,
       "name": "Bad Boy (with Young Thug)",
       "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 192040,
       "name": "Been Off (feat. Yeat)",
       "url": "https://open.spotify.com/track/1MTsf7pxtcAX2DVDVliJ2L"
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 138250,
       "name": "Double Trouble",
       "url": "https://open.spotify.com/track/5U4gWtfgt9uddsz73UeDFj"
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 229738,
       "name": "Fire in my heart",
       "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
@@ -2356,7 +2356,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 189231,
       "name": "king of the pumpkin patch",
       "url": "https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv"
@@ -2976,7 +2976,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 160000,
       "name": "No Blickout",
       "url": "https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg"
@@ -4448,6 +4448,24 @@
       "duration_ms": 114301,
       "name": "tempted",
       "url": "https://open.spotify.com/track/1Qm0FSIjb94bsiAs4KcPb6"
+    },
+    {
+      "album": {
+        "name": "Th-Th-Thumpin",
+        "url": "https://open.spotify.com/album/3c4U53wy960fEBhU1pKzqI"
+      },
+      "artists": [
+        {
+          "name": "ronehl",
+          "url": "https://open.spotify.com/artist/6IAzgtmHLQwtzjWe9W8WNY"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141199,
+      "name": "Th-Th-Thumpin",
+      "url": "https://open.spotify.com/track/0xcgqLbkY6N634T9cbl08W"
     },
     {
       "album": {

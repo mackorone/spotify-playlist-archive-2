@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 8006,
+  "num_followers": 8014,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Christmas Time's A-Comin'",
-        "url": "https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v"
-      },
-      "artists": [
-        {
-          "name": "Jerry Garcia Acoustic Band",
-          "url": "https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1"
-        }
-      ],
-      "duration_ms": 182406,
-      "name": "Christmas Time's A-Comin' - Live",
-      "url": "https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "Send Me Out Like Autumn",
         "url": "https://open.spotify.com/album/3ZLT3bHm4ksZ5AIFOEK5jJ"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 233706,
       "name": "Send Me Out Like Autumn",
       "url": "https://open.spotify.com/track/6YpliRFdvQHBUj70VzuY7J"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Christmas Time's A-Comin'",
+        "url": "https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Acoustic Band",
+          "url": "https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1"
+        }
+      ],
+      "duration_ms": 182406,
+      "name": "Christmas Time's A-Comin' - Live",
+      "url": "https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -755,6 +755,22 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
+        "name": "Christmas Tree in the Window",
+        "url": "https://open.spotify.com/album/2rwOJbEi8XzqrNHPl705ES"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Christmas Tree in the Window",
+      "url": "https://open.spotify.com/track/0yvWyeKe1Og8DDprkEv8gS"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
         "name": "Merry Christmas Darling",
         "url": "https://open.spotify.com/album/0QcwV6O3vAsYZZirkEccE4"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Christmas Tree in the Window",
-        "url": "https://open.spotify.com/album/2rwOJbEi8XzqrNHPl705ES"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Christmas Tree in the Window",
-      "url": "https://open.spotify.com/track/0yvWyeKe1Og8DDprkEv8gS"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "Let It Snow",
         "url": "https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh"
       },
@@ -823,22 +823,6 @@
       "duration_ms": 136566,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "Juvenile Diabetes Research Foundation: More Hope For The Holidays",
-        "url": "https://open.spotify.com/album/1u0LAzvQ3znPUvdkg3s8ey"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "The Heartache Can Wait - Brandi Carlile",
-      "url": "https://open.spotify.com/track/60XIwRbygMJzZAD09LuaeG"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -859,6 +843,26 @@
       "duration_ms": 162333,
       "name": "Under the Mistletoe!",
       "url": "https://open.spotify.com/track/74YpSfHQSct8wznkHopETX"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Lonely on Christmas",
+        "url": "https://open.spotify.com/album/3oG3oJqYCWBFeuBznwd4ft"
+      },
+      "artists": [
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        },
+        {
+          "name": "Mike and the Moonpies",
+          "url": "https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi"
+        }
+      ],
+      "duration_ms": 189118,
+      "name": "Lonely on Christmas",
+      "url": "https://open.spotify.com/track/5PfYhLWG9tiLdcr4oPE9XH"
     }
   ],
   "unique_name": "Americana Christmas",

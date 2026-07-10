@@ -2,9 +2,9 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> giuse the lizia in modalità amore estivo finito male 🧡
+> birthh ci riempie il cuore questa estate 🧡
 
-593 songs - 1 day 7 hr 43 min
+595 songs - 1 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Cosa Faremo Da Grandi?](https://open.spotify.com/track/1fi6WJYdiFQ7gEtAtJ8NH6) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Cosa Faremo Da Grandi?](https://open.spotify.com/album/0lVUjh0JQVfpUlengR8PwQ) | 3:00 | 2025-02-20 | 2025-03-21 |
 | [Cosa mi manchi a fare](https://open.spotify.com/track/7L8cIUKXToCr6PV9hFoX3Q) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Mainstream \(Deluxe Edition\)](https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k) | 2:49 | 2025-11-27 | 2025-12-25 |
 | [Costa orientale](https://open.spotify.com/track/1CQNGSfmq7p9yS2AusE9ws) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Nuovo Amore Passato parte II](https://open.spotify.com/album/0QxA22QiAE2SZeYTwWDcXl) | 3:12 | 2026-06-18 |  |
+| [costole](https://open.spotify.com/track/5HLCYmvsiLpXSc42zezhuC) | [fenoaltea](https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L), [RIP](https://open.spotify.com/artist/5ZI5zyGSJMzgm4Yr41I3HM) | [amici immaginari](https://open.spotify.com/album/0DGYxBp8zg0xsPVlNqYt4J) | 3:53 | 2026-07-09 |  |
 | [Cu'mme](https://open.spotify.com/track/7o4YxPFeOBZHTncM1HgvPx) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw), [Damiank](https://open.spotify.com/artist/0HK1JtedHdz3a76ZpWaEsc) | [Cu'mme](https://open.spotify.com/album/25FWNzlqZOdjS78c1ewthP) | 2:42 | 2024-07-25 | 2024-08-16 |
 | [Cuori infranti](https://open.spotify.com/track/0D0ZSyiqzZcuvbXqMi76fg) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Cuori infranti](https://open.spotify.com/album/03CBDXT35cavl0TY2evqBl) | 2:47 | 2024-09-13 | 2024-10-02 |
 | [CUORICINI](https://open.spotify.com/track/0A9FAzeaUEMHB68FPk3GYc) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [CUORICINI](https://open.spotify.com/album/5iab7EULiYrp2rgp5PsdzK) | 3:14 | 2025-02-12 | 2025-04-09 |
@@ -310,7 +311,7 @@
 | [Maledette parole](https://open.spotify.com/track/19AjcostKmym7FTREFGTdL) | [Amalfitano](https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ) | [Maledette Parole](https://open.spotify.com/album/15p1V27O34W9n5dofOKIGY) | 2:34 | 2026-06-11 | 2026-07-03 |
 | [Maledetto me](https://open.spotify.com/track/0RkFzXmEJzSv4Bu6YwZJx6) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [CALCINACCI](https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93) | 2:59 | 2026-03-12 |  |
 | [Maledizione](https://open.spotify.com/track/3PIFOW1UKwebiblSzb0Quk) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [SOLITO CINEMA](https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD) | 3:19 | 2026-04-23 |  |
-| [Malinconia](https://open.spotify.com/track/6RA2oh1cdQMBYUWEIkFwIt) | [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn) | [Malinconia](https://open.spotify.com/album/3yETtsRdvQoMPkfuOCQRh5) | 3:20 | 2026-06-04 |  |
+| [Malinconia](https://open.spotify.com/track/6RA2oh1cdQMBYUWEIkFwIt) | [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn) | [Malinconia](https://open.spotify.com/album/3yETtsRdvQoMPkfuOCQRh5) | 3:20 | 2026-06-04 | 2026-07-10 |
 | [Maltempo](https://open.spotify.com/track/3H2LhTgQFKJLZmw6jKVD6D) | [BALTIMORA](https://open.spotify.com/artist/0rRRvEq07vdUc9QgaK46Fl), [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Maltempo](https://open.spotify.com/album/2wq6w01RZkfNBxQzFJnvLz) | 2:57 | 2026-05-14 |  |
 | [Mambo](https://open.spotify.com/track/1Eslj0XCaVpzPbYBmaol7T) | [Tatum Rush](https://open.spotify.com/artist/47p2js8l70JjDWGS0a1hqr) | [Mambo](https://open.spotify.com/album/4Rf1gy3dHPSQNFhanMHtjp) | 4:05 | 2024-07-04 | 2024-08-16 |
 | [Mamma Mezzanotte](https://open.spotify.com/track/4pDdlC0APzRn8C9mcEUJk4) | [Zara Colombo](https://open.spotify.com/artist/0UieFG2dymbbVECj27mBcx) | [Madre Lingua](https://open.spotify.com/album/1naMbMqwfCgeIRsBmaue8x) | 2:47 | 2026-04-02 | 2026-05-01 |
@@ -335,6 +336,7 @@
 | [MEZZ’ORA D’AMORE \(S1 E3\)](https://open.spotify.com/track/3RwhBeek2bz0mrGHbgl5Q8) | [Mameli](https://open.spotify.com/artist/3f4nC1CZ1OBwqgVy8zSwmu) | [FINO ALL'ULTIMO RESPIRO](https://open.spotify.com/album/37kkhjamTEmKobW3xX1OGU) | 2:54 | 2024-11-21 | 2025-01-17 |
 | [Mi arrendo \(con Brunori Sas\)](https://open.spotify.com/track/5kxpGaL0c3qfrls4riTdNm) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Anatomia di uno schianto prolungato](https://open.spotify.com/album/7MC6hKYPdD8osqbRbLF2kN) | 4:16 | 2026-05-14 |  |
 | [mia](https://open.spotify.com/track/2PP6LXaNeA4hTWxq2FVOnr) | [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws) | [Nessuna](https://open.spotify.com/album/3aCQCerumFp8XZKbGD6jXM) | 2:14 | 2025-12-04 | 2026-03-13 |
+| [Mia nonna non si sposerà mai](https://open.spotify.com/track/6AmrSKgbadD1vvMWJIS8nR) | [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn) | [Mia nonna non si sposerà mai](https://open.spotify.com/album/4d187YmVmtKgGxiOxfRAsB) | 2:12 | 2026-07-09 |  |
 | [Miao](https://open.spotify.com/track/1bA1XFvz1mmii9x6uOCsD4) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84) | [Miao](https://open.spotify.com/album/2VvvpSZiSHD6t2lhXdBkqo) | 3:35 | 2025-07-17 | 2025-08-29 |
 | [Midnight Light](https://open.spotify.com/track/57dXFliDUK856PYFVT8vJg) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Midnight Light](https://open.spotify.com/album/0JnjMb9y6vskoDmOCUUknB) | 4:35 | 2025-05-01 | 2025-05-30 |
 | [MIELE \(scusa\)](https://open.spotify.com/track/6pmIgVimnQs8dgohYE9SSB) | [Greta](https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0) | [MIELE \(Scusa\)](https://open.spotify.com/album/3tzuzJ0IlYtGy2IWfONuSo) | 2:27 | 2024-11-14 | 2025-01-03 |
@@ -579,7 +581,7 @@
 | [Una storia](https://open.spotify.com/track/4XjqghtOHPBDD3o2QDjdR7) | [Baustelle](https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi) | [Una storia](https://open.spotify.com/album/0Usiwih4bBfNaPqtBWMoGI) | 3:27 | 2025-02-27 | 2025-03-13 |
 | [Una vita normale](https://open.spotify.com/track/7KXiNcodDshozttV90Ensd) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Hotel esistenza](https://open.spotify.com/album/1Vwliljh15ZM7gv0PdLZCE) | 3:26 | 2024-10-24 | 2025-04-11 |
 | [uomini contro insetti](https://open.spotify.com/track/1nHCgvMscCKhQt5finJKaW) | [Giorgio Poi](https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW) | [uomini contro insetti](https://open.spotify.com/album/1hWIJhQHmnJWB3rmpX9vpD) | 4:32 | 2025-03-13 | 2025-04-18 |
-| [Uomini gentili](https://open.spotify.com/track/2XGysxgEOpclU7vt6ey1qX) | [Cigarilla Disonasty](https://open.spotify.com/artist/3rTEGeGVcOA8fyji7HJTQS) | [Uomini gentili](https://open.spotify.com/album/4yq8SOQkuyRUmoKkdnSJLR) | 3:27 | 2026-06-18 |  |
+| [Uomini gentili](https://open.spotify.com/track/2XGysxgEOpclU7vt6ey1qX) | [Cigarilla Disonasty](https://open.spotify.com/artist/3rTEGeGVcOA8fyji7HJTQS) | [Uomini gentili](https://open.spotify.com/album/4yq8SOQkuyRUmoKkdnSJLR) | 3:27 | 2026-06-18 | 2026-07-10 |
 | [Vado](https://open.spotify.com/track/0CmTm6IBN7J0NkGFl1biOI) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [t’ amango](https://open.spotify.com/album/5cAT5HRLD002iI3fpffv2j) | 3:39 | 2026-06-11 |  |
 | [Vanagloria](https://open.spotify.com/track/1xTjMkjpcfHMKVSAWMjhS4) | [Tutti Fenomeni](https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE) | [Vanagloria](https://open.spotify.com/album/6U4meIqdidImHWIqqvkD48) | 3:24 | 2026-01-08 | 2026-04-17 |
 | [Vecchia scuola](https://open.spotify.com/track/6uAHNlbU9YuQBIeRUspzfT) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET EXPLORER](https://open.spotify.com/album/6kq0w1HINm0xj5bOeAxAWp) | 3:18 | 2025-06-12 | 2025-12-12 |

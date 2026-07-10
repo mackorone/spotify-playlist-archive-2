@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Shimza",
+  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Darque",
   "name": "Afro House Pulse",
   "tracks": [
     {
@@ -546,7 +546,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 313220,
       "name": "Awukwazi (feat. Dlala Thukzin)",
       "url": "https://open.spotify.com/track/2GRQKhpmLc2gAwpNg2Vzmg"
@@ -2097,6 +2097,28 @@
     },
     {
       "album": {
+        "name": "Hamba Nawe",
+        "url": "https://open.spotify.com/album/7720b71R3tldNOQDtxI2B9"
+      },
+      "artists": [
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        },
+        {
+          "name": "Mashudu",
+          "url": "https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372005,
+      "name": "Hamba Nawe",
+      "url": "https://open.spotify.com/track/2wehBHqjisx7V17lBLHGSZ"
+    },
+    {
+      "album": {
         "name": "Harder to Breathe",
         "url": "https://open.spotify.com/album/2DNDDsbu309G8lWzA4YuDG"
       },
@@ -2746,6 +2768,36 @@
       "duration_ms": 384157,
       "name": "Intersexy (Thakzin Remix)",
       "url": "https://open.spotify.com/track/3mUpLs4JexPKtrd8l5rLz6"
+    },
+    {
+      "album": {
+        "name": "INtombi Entsha (feat. Essa Kay, Mnqobi Yazo & Mpumi)",
+        "url": "https://open.spotify.com/album/6ig0oDi8TK85VmuNuQYXKJ"
+      },
+      "artists": [
+        {
+          "name": "TNS",
+          "url": "https://open.spotify.com/artist/5uAbOIIAk6nHfy7gikjmYy"
+        },
+        {
+          "name": "Essa Kay",
+          "url": "https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh"
+        },
+        {
+          "name": "Mnqobi Yazo",
+          "url": "https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu"
+        },
+        {
+          "name": "Mpumi",
+          "url": "https://open.spotify.com/artist/7IoFnVmSBtCK528aCfFQdJ"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328797,
+      "name": "INtombi Entsha (feat. Essa Kay, Mnqobi Yazo & Mpumi)",
+      "url": "https://open.spotify.com/track/7CI6r9oceCzafniw8Yq739"
     },
     {
       "album": {
@@ -6208,7 +6260,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 194000,
       "name": "Tropical Island (feat. Gee Skillz)",
       "url": "https://open.spotify.com/track/5xHyRPe2muEv4qU3k76TEF"

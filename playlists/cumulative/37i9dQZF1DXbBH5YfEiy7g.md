@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-248 songs - 1 day 3 hr 2 min
+249 songs - 1 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,8 +188,9 @@
 | [Thato Ya Hao \- Live](https://open.spotify.com/track/5GCgGHvpspY0QmFuMeaIvW) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 3:54 | 2024-10-04 |  |
 | [Themba Lethu \- Live at the Durban ICC/ 2025](https://open.spotify.com/track/0EAZbdLRr4ATJugP2Wg3cu) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Ngegama Lakho/ Themba Lethu](https://open.spotify.com/album/4wBUn5NnLNZ6B3YSRAPgXX) | 8:17 | 2026-05-15 |  |
 | [Thula Moya Wam \- Live At Krugersdorp](https://open.spotify.com/track/79THsHXl74N9Xf8htzukKv) | [William Sejake](https://open.spotify.com/artist/4WTT2rtyjYaA0oOIBbae6R) | [Thula Moya Wam \(Live At Krugersdorp\)](https://open.spotify.com/album/5BJ86o3emSIdj42OdWcaTX) | 4:21 | 2026-02-06 |  |
-| [Thula Sizwe / I Shall Be Released](https://open.spotify.com/track/3f24AZKBhOBaKGpN2F0n52) | [Common People](https://open.spotify.com/artist/4VJhzDgY4GJ4zOmNHtd3iZ), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Tommy Sims](https://open.spotify.com/artist/1v5hoRyO2K9NNPm8GVOPEe), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e) | [Thula Sizwe / I Shall Be Released](https://open.spotify.com/album/6wK4WlDLgaOGMnBsvyVrxO) | 3:15 | 2026-06-12 |  |
+| [Thula Sizwe / I Shall Be Released](https://open.spotify.com/track/3f24AZKBhOBaKGpN2F0n52) | [Common People](https://open.spotify.com/artist/4VJhzDgY4GJ4zOmNHtd3iZ), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Tommy Sims](https://open.spotify.com/artist/1v5hoRyO2K9NNPm8GVOPEe), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e) | [Thula Sizwe / I Shall Be Released](https://open.spotify.com/album/6wK4WlDLgaOGMnBsvyVrxO) | 3:15 | 2026-06-12 | 2026-07-10 |
 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 | 2024-10-11 |  |
+| [Track 2](https://open.spotify.com/track/5l0Vfkkk9TC375DG7WCSjR) | [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG) | [Ivangeli](https://open.spotify.com/album/5I1BCKaeMEcnZ284Gcpo9Z) | 0:00 | 2026-07-10 |  |
 | [Tshepo Ya Lefatshe](https://open.spotify.com/track/0r9SsIPTibFOQ6r6tPfcte) | [Lebo Elle Tisane](https://open.spotify.com/artist/5OjmAYpmIb99cv5HC7Rwkt) | [In Season](https://open.spotify.com/album/1yax3wDYJRlKUgOZhDGJZZ) | 5:07 | 2025-10-10 | 2025-11-07 |
 | [Ubonakalise \- Live at State Theatre Pretoria](https://open.spotify.com/track/49YNFxhVD9AcUSQbXSAPC6) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Heart Of Worship Vol\. 2](https://open.spotify.com/album/78bKt7eOSzSbXlotysuYEw) | 9:43 | 2026-03-06 | 2026-04-03 |
 | [Ujesu Ulidwala](https://open.spotify.com/track/77zsgriq7B4e9pYQn0rGC5) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [HYMNS OF FAITH IN ZION](https://open.spotify.com/album/35XmpyoZg5UcVkKRBc1xTl) | 6:39 | 2025-04-11 | 2025-08-08 |

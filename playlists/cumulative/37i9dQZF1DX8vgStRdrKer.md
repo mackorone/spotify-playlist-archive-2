@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-814 songs - 2 day 22 hr 4 min
+815 songs - 2 day 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Ekele \(Thank You\)](https://open.spotify.com/track/2yHAk6q2S0xol1xxYo2P72) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Dells TMX](https://open.spotify.com/artist/5w4pU01c66v4DQc8mqGK0r), [April Onoh](https://open.spotify.com/artist/5PiRDDnrgH1ekAf6fgYeSb) | [Ekele \(Thank You\)](https://open.spotify.com/album/6Nu8MaPI5Iy01qGFXk8RiK) | 2:25 | 2026-01-23 |  |
 | [Ekwueme](https://open.spotify.com/track/2iM3JrGHGpEVW8zR22zkhZ) | [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc), [Ransom papi](https://open.spotify.com/artist/3QKg4PyjjtQ5fUmzTDpskf) | [Ekwueme](https://open.spotify.com/album/2XSQC92Cgl1nCz5aWNQr06) | 2:45 | 2025-06-06 | 2025-07-11 |
 | [Ekwueme](https://open.spotify.com/track/4C6PTGpwmwPxRC0pRBwp28) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A) | [EKWUEME](https://open.spotify.com/album/6LMZJFPE2SwUEOFxYrDkPy) | 9:45 | 2025-06-13 | 2025-08-30 |
-| [El Gibbor](https://open.spotify.com/track/15basiVIAqFSSITtAiS1tQ) | [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW) | [El Gibbor](https://open.spotify.com/album/3YVHOI34HH897Vcg6nehLc) | 6:41 | 2026-01-23 |  |
+| [El Gibbor](https://open.spotify.com/track/15basiVIAqFSSITtAiS1tQ) | [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW) | [El Gibbor](https://open.spotify.com/album/3YVHOI34HH897Vcg6nehLc) | 6:41 | 2026-01-23 | 2026-07-10 |
 | [El\-Roi](https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [El\-Roi](https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD) | 3:44 | 2024-05-03 | 2025-06-06 |
 | [Eledumare \- Live](https://open.spotify.com/track/26UUHxn7Mhbav9oJIwhqYc) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Eledumare \(Live\)](https://open.spotify.com/album/4ikbG2W4WG6spfFQ6fNrTc) | 7:07 | 2025-08-22 | 2025-10-03 |
 | [ELIYAH](https://open.spotify.com/track/4VcrZkamuQXvxDhQFV8d9V) | [Funmi Reks](https://open.spotify.com/artist/1W7gXp0BPYb8wyQAnv4eGt) | [ELIYAH](https://open.spotify.com/album/1MYoiymSXTzSjo8jZgxJwC) | 5:15 | 2025-07-04 | 2025-07-26 |
@@ -717,6 +717,7 @@
 | [Tout nouveau tout beau](https://open.spotify.com/track/2JoIx8bmH2zSTddVgMRoVO) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Tout nouveau tout beau](https://open.spotify.com/album/2DwcOMNP63IZSXyRHmpxNv) | 2:47 | 2024-11-08 | 2025-01-14 |
 | [Trust](https://open.spotify.com/track/5VkiTD85sZbjqfBwTilPN1) | [Ebells](https://open.spotify.com/artist/26kwu3Si2L4Cdaq3gQYIjr), [Essemm.](https://open.spotify.com/artist/28rB1ItIc2RESyqo2jdmBJ), [Victoria Israel](https://open.spotify.com/artist/5LcTR3uqIuwM3RKAs7mEcA) | [TRUST](https://open.spotify.com/album/5wjpOAbzhBder8I6KfVHgB) | 5:59 | 2025-06-27 | 2025-07-11 |
 | [TRUST ISSUES](https://open.spotify.com/track/1nDOuuy6VBxuN8GwD6F0It) | [Paul Payne837](https://open.spotify.com/artist/1TZ5t6mqPJEJ1HELSGt7cp) | [TRUST ISSUES](https://open.spotify.com/album/6saZDU6x1tDjBmOAvJwKFX) | 2:54 | 2025-06-13 | 2025-06-20 |
+| [Tuale](https://open.spotify.com/track/1adeZmxXG7aqyZOaeJhult) | [Labisi](https://open.spotify.com/artist/4AJSklNIYg4jQr5EaDvUR8) | [Assurance](https://open.spotify.com/album/1tcMzoel1OUbK3to92ngFV) | 5:10 | 2026-07-03 |  |
 | [TURNING AROUND](https://open.spotify.com/track/6hrLilhSwvVNplz9aV6QAE) | [Femi Ogebule](https://open.spotify.com/artist/0eKCZj4LYXRaOqPyZ6aWDI), [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [TURNING AROUND](https://open.spotify.com/album/7lHTGlnInHz6Hw0mJTqyW8) | 5:22 | 2026-01-16 | 2026-04-21 |
 | [Turning Around](https://open.spotify.com/track/2SCSzVBRw96OpLCHHXMWOU) | [Victor Olayeni](https://open.spotify.com/artist/0TRdYFzxaxrp8DCiBp4UiR) | [Turning Around](https://open.spotify.com/album/7yCyLvm84zgKjH6Rfl8I8Z) | 5:16 | 2025-06-06 | 2025-06-27 |
 | [Twakulumba \(We Praise You\)](https://open.spotify.com/track/6ygbkOBN2EhCb6k4c4ABMY) | [Overland Missions Music](https://open.spotify.com/artist/3p3D7GwSbpQHvzw7nUz8cf), [Racheal](https://open.spotify.com/artist/2HjgUAOfmS92knyncXjXYJ) | [Twakulumba \(We Praise You\)](https://open.spotify.com/album/3bmZg76PXA1B4NpduLENDX) | 4:06 | 2025-06-27 | 2025-07-13 |

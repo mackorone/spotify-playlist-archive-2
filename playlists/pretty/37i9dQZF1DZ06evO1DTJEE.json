@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 75496,
+  "num_followers": 75560,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAABfj1YD4h+apLlsPEGQpkxM",
+  "snapshot_id": "ak2TAAAAAADN+74vdolCUot2Ze8BWQhs",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If It Wasn't For Trucks (Big Machine Radio Release Special)",
-        "url": "https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "If It Wasn\u2019t For Trucks",
-      "url": "https://open.spotify.com/track/3wnYQrgVJO5Kse4Pq8eyoz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ain't My Last Rodeo",
         "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 216466,
       "name": "Workin' On Me",
       "url": "https://open.spotify.com/track/5yW4e8NG9a14JctdIlXAFt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If It Wasn't For Trucks (Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "If It Wasn\u2019t For Trucks",
+      "url": "https://open.spotify.com/track/3wnYQrgVJO5Kse4Pq8eyoz"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Way Out Here",
-        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 188173,
-      "name": "Good Morning From Mexico",
-      "url": "https://open.spotify.com/track/2UzdgpZgL41ZkT3TUnNZPr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ain't My Last Rodeo",
         "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
       },
@@ -499,38 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different 'Round Here",
-        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 188426,
-      "name": "Same Old Song",
-      "url": "https://open.spotify.com/track/7lBkuyDfK0y6x6N6Zd1Z0U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Mind If I Do",
-        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 171573,
-      "name": "Rather Be",
-      "url": "https://open.spotify.com/track/2EWouyr1NipXylaziIXyye"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Way Out Here",
         "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
       },
@@ -540,25 +492,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 221200,
-      "name": "Way Out Here",
-      "url": "https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midtown Sessions",
-        "url": "https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 193534,
-      "name": "Bartender In Destin - Acoustic",
-      "url": "https://open.spotify.com/track/4kXx6CEEqO47DWccKO4KBQ"
+      "duration_ms": 188173,
+      "name": "Good Morning From Mexico",
+      "url": "https://open.spotify.com/track/2UzdgpZgL41ZkT3TUnNZPr"
     },
     {
       "added_at": null,
@@ -595,6 +531,70 @@
       "duration_ms": 198699,
       "name": "Waitin' All Day",
       "url": "https://open.spotify.com/track/23FjE9H1VxmyT6D2Q5Tf5D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different 'Round Here",
+        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 188426,
+      "name": "Same Old Song",
+      "url": "https://open.spotify.com/track/7lBkuyDfK0y6x6N6Zd1Z0U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Way Out Here",
+        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 221200,
+      "name": "Way Out Here",
+      "url": "https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midtown Sessions",
+        "url": "https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 193534,
+      "name": "Bartender In Destin - Acoustic",
+      "url": "https://open.spotify.com/track/4kXx6CEEqO47DWccKO4KBQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Mind If I Do",
+        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 171573,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/2EWouyr1NipXylaziIXyye"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "If It Wasn't For Trucks (Big Machine Radio Release Special)",
-        "url": "https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp"
+        "name": "Behind The Bar",
+        "url": "https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 183560,
-      "name": "Jesus And Wranglers",
-      "url": "https://open.spotify.com/track/5anbo4JjAPHa8UbEmRls05"
+      "duration_ms": 230733,
+      "name": "That\u2019s What I\u2019ve Been Told",
+      "url": "https://open.spotify.com/track/2TjAkXVq0SU5Q25vLXOjib"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Behind The Bar",
-        "url": "https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5"
+        "name": "If It Wasn't For Trucks (Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 230733,
-      "name": "That\u2019s What I\u2019ve Been Told",
-      "url": "https://open.spotify.com/track/2TjAkXVq0SU5Q25vLXOjib"
+      "duration_ms": 183560,
+      "name": "Jesus And Wranglers",
+      "url": "https://open.spotify.com/track/5anbo4JjAPHa8UbEmRls05"
     },
     {
       "added_at": null,

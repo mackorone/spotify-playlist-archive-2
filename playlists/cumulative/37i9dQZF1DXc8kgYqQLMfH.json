@@ -7214,7 +7214,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 152704,
       "name": "Feca Dreaming",
       "url": "https://open.spotify.com/track/1o2uZSeGGny9JwUwC5OjNH"
@@ -11267,6 +11267,24 @@
     },
     {
       "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/0HOozkiI4OpT9KmD7q3GG8"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e9lian",
+          "url": "https://open.spotify.com/artist/6x8XkVA1HlZjLuHaD5NaE0"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102447,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/3RjAv5yesDSOOZHricohtS"
+    },
+    {
+      "album": {
         "name": "kettle",
         "url": "https://open.spotify.com/album/6gFxnoGIrBNUBaosFJdMSD"
       },
@@ -14478,7 +14496,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 119031,
       "name": "Morning Routine",
       "url": "https://open.spotify.com/track/5xkFx1r5s899TF4eDlzIq4"
@@ -15470,7 +15488,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 153333,
       "name": "night walk",
       "url": "https://open.spotify.com/track/6O1vOhc580LSaIzJ9g9ttr"

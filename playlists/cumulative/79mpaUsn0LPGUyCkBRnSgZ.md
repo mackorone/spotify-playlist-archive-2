@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,175 songs - 3 day 3 hr 53 min
+1,179 songs - 3 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [As Good As New](https://open.spotify.com/track/71or1G6CbfIttRDnBnTTAL) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 3:24 | 2023-01-18 |  |
 | [As Scared As Can Be](https://open.spotify.com/track/0CoUc6KQK29UbNIckUB27e) | [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [Peak Experience](https://open.spotify.com/album/2jfoofcxbrIC99cwR8qMbq) | 2:09 | 2025-12-06 |  |
 | [ascension](https://open.spotify.com/track/62MSbv3IJNlQdN2NMfOGny) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 3:12 | 2024-07-31 |  |
+| [Ascension](https://open.spotify.com/track/3gep63eS5f6oLoEEDol52l) | [The Crystal Ark](https://open.spotify.com/artist/1mLxp9dyQX4cPjduUnlC3z) | [The Crystal Ark](https://open.spotify.com/album/5WzGXuD9LH8bf9LILLllNm) | 5:39 | 2026-07-09 |  |
 | [Ashes in the Snow \- Remastered](https://open.spotify.com/track/6ieH021IWLGOGifX0FUzsM) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Hymn to the Immortal Wind \(Anniversary Edition\)](https://open.spotify.com/album/2tMQkZ8WvwpM7qmRVrW3hK) | 11:44 | 2025-09-10 |  |
 | [Asking To Break](https://open.spotify.com/track/1NoxZc2x2Y7eX1U5wHj6hr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 2:52 | 2026-03-23 |  |
 | [Assata's Code](https://open.spotify.com/track/2aSkCiAqywd3LMmanvsYXi) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Diani](https://open.spotify.com/artist/4g4T0gCzryRmUOfYDgrvyD) | [Liberation 2](https://open.spotify.com/album/0zsoWKnMDhi7TgMMST7sYn) | 2:02 | 2024-04-14 |  |
@@ -437,6 +438,7 @@
 | [Honey](https://open.spotify.com/track/3olYZQTYOLYNImERBnZZqm) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Honey](https://open.spotify.com/album/6WZjFvrzwq8SOGe0r8R3qk) | 4:54 | 2022-03-19 | 2025-09-24 |
 | [Honky Cat](https://open.spotify.com/track/1plcM0XlbKdjND7Ufokuzb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 5:13 | 2022-05-18 |  |
 | [Hopeless Romantic](https://open.spotify.com/track/545SZZYmeuSlM9biS7uZjf) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Non\-Perishable](https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M) | 2:56 | 2023-05-18 |  |
+| [Horizontalator](https://open.spotify.com/track/7e0txSRbMf7qaSixVhBFLP) | [Museum Of Love](https://open.spotify.com/artist/2nIzOTNOvPxPlgzB4GQHPc) | [Museum Of Love \(10th Anniversary Expanded Edition\)](https://open.spotify.com/album/5IFnvmXwn0fgNZo8SlgkJH) | 0:54 | 2026-07-09 |  |
 | [Horn Intro](https://open.spotify.com/track/5nKe9PgCtEhqdnvXAQIBhF) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 0:09 | 2022-09-20 |  |
 | [Hot Rotten Grass Smell](https://open.spotify.com/track/16weYq1yI3d7pyjkRLYlrY) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 1:35 | 2023-04-19 | 2024-01-02 |
 | [Hot Tent Blues](https://open.spotify.com/track/71Vlx8pCp21bmgNx9PZsx5) | [Late of the Pier](https://open.spotify.com/artist/5ZBQea34QfBgEDkcGEKK2b) | [Fantasy Black Channel](https://open.spotify.com/album/08MTKoAy7sggTqeQNcvDdi) | 1:15 | 2024-06-08 | 2024-06-12 |
@@ -444,6 +446,7 @@
 | [House featuring John Cale](https://open.spotify.com/track/15ApEgs3gaAMKOEj2vzH1p) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:15 | 2026-02-13 | 2026-02-17 |
 | [HOW FAST](https://open.spotify.com/track/6pMujuxDlZv5k8RWktJAQw) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 2:54 | 2025-08-23 |  |
 | [How the Shadow Is Clear \- Remastered](https://open.spotify.com/track/4dJV7QQkkqE8o6UrWp6poO) | [Oidopuaa Vladimir Oiun](https://open.spotify.com/artist/11D12wFV7ZA7kc83fO23Fv) | [Divine Music from Jail](https://open.spotify.com/album/1EfMnzM9K8lIXG394evveZ) | 2:06 | 2026-01-28 |  |
+| [How We Be](https://open.spotify.com/track/5jJu4fSQ360D0THFAu9iX6) | [Sinkane](https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w) | [Mean Love](https://open.spotify.com/album/6GemHEGZs6e9tgyWfGMDHo) | 4:17 | 2026-07-09 |  |
 | [Howling At The Moon](https://open.spotify.com/track/4dXNZHMLQSg1slX92JGjA1) | [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [Love Gun 2](https://open.spotify.com/album/2jHaYTt9piEHSwhqA3ZJlB) | 4:36 | 2024-07-19 |  |
 | [Huh? \(Intro\)](https://open.spotify.com/track/2KlgoBhIRYyGt0BbOeyjlN) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Sweet Heart Sweet Light](https://open.spotify.com/album/4hrpqNai22Fpg51cmHmUCm) | 1:01 | 2024-03-11 | 2025-07-25 |
 | [Hunchback](https://open.spotify.com/track/0VHwZQkuVS8JFKMGL3HURj) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Childish Prodigy](https://open.spotify.com/album/3TmWAswHIm0Vb08qymeagU) | 4:49 | 2025-02-24 |  |
@@ -1029,6 +1032,7 @@
 | [The Plan](https://open.spotify.com/track/5nrIEQ6ZmVwt9Pfr3ydvbn) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [Keep It like a Secret](https://open.spotify.com/album/2PKZhfPrgMmK5zug2pqdHA) | 3:29 | 2022-09-20 | 2025-10-28 |
 | [The Robots \- 2009 Remaster](https://open.spotify.com/track/5eqZWYQ5tbIehx00NeKXz7) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 6:12 | 2023-12-30 |  |
 | [The Rolling Stones](https://open.spotify.com/track/7sMZ7doYb71bHK8tqviTCu) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 | 2025-01-15 | 2025-04-25 |
+| [The Secret](https://open.spotify.com/track/6LAepKExhN0A45tBFiDFoC) | [Shit Robot](https://open.spotify.com/artist/2ZvXaOrinJFZDexa3fWqMZ), [Reggie Watts](https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx) | [We Got A Love](https://open.spotify.com/album/5B9BJSRl2PBD9mC4XFNkTt) | 6:48 | 2026-07-09 |  |
 | [The Simple Life](https://open.spotify.com/track/1TJ8KmN9CNabccJWE3LKKs) | [The Juan Maclean](https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt) | [The Future Will Come](https://open.spotify.com/album/3bnnIbRzlxbwl0xDVUwgyc) | 8:38 | 2026-07-01 |  |
 | [The Song Remains the Same \- Remaster](https://open.spotify.com/track/2e61kmae4HhbuS9hYONQ0A) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 5:29 | 2023-02-11 |  |
 | [The Sound Of Confusion](https://open.spotify.com/track/3zUKCWesKho55Jm6e6JPpV) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Taking Drugs To Make Music To Take Drugs To \(Remastered\)](https://open.spotify.com/album/60dj0AVW7k2jFHPPLN6J1X) | 5:54 | 2024-07-09 |  |

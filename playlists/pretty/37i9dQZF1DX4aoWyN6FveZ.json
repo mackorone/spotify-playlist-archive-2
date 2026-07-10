@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
-  "num_followers": 24531,
+  "num_followers": 24536,
   "original_name": "Ravie B's Taste",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,26 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
+        "name": "Press Play",
+        "url": "https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        }
+      ],
+      "duration_ms": 388226,
+      "name": "Last Night (feat. Keyshia Cole)",
+      "url": "https://open.spotify.com/track/5gfPJ45gpn3ThswDyeW0Qc"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
         "name": "R.U.L.E.",
         "url": "https://open.spotify.com/album/2gBIN9uSnZjf0mb3FjwEnb"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 258213,
       "name": "New York",
       "url": "https://open.spotify.com/track/7xXvPyOiFCsB5SSpio5g38"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
-        "name": "Press Play",
-        "url": "https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h"
-      },
-      "artists": [
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
-        {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
-        }
-      ],
-      "duration_ms": 388226,
-      "name": "Last Night (feat. Keyshia Cole)",
-      "url": "https://open.spotify.com/track/5gfPJ45gpn3ThswDyeW0Qc"
     },
     {
       "added_at": "2022-10-01 20:09:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,867 likes - 111 songs - 7 hr 20 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,869 likes - 113 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,5 +119,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 109 | [Eres la Salida](https://open.spotify.com/track/6Sr829J8pwV992gK1POY9D) | [Lily Suarez](https://open.spotify.com/artist/4n5pyBbmvQPxXYhWzOhobk) | [Eres la Salida](https://open.spotify.com/album/1gT4KLEASqfJRpS9VTiCsZ) | 3:06 |
 | 110 | [Red Flags](https://open.spotify.com/track/38RZyMyR07gV4f9Fbc6O6a) | [Lemonhead](https://open.spotify.com/artist/01eYzyZnS4aE2rwtJKBNcs) | [Red Flags](https://open.spotify.com/album/4vM6Z43GlIZ5SrLsXNOekc) | 3:10 |
 | 111 | [Rossa Luna](https://open.spotify.com/track/3wnGCihTWncCJkn0awDes3) | [Hari the Cosmic Cowboy](https://open.spotify.com/artist/5rYjmE5aHWuEzdBi4Afb7m) | [Rossa Luna](https://open.spotify.com/album/2763zkWD7SCAnmFH8pIhjQ) | 3:57 |
+| 112 | [Menunggu Yang Tak Kembali \(2026\)](https://open.spotify.com/track/1sCgHlVyvvJEjKExIsJsJ6) | [Yosie Widianta](https://open.spotify.com/artist/30OcarWko8rxYaH0TTkgsx) | [Menunggu Yang Tak Kembali \(2026\)](https://open.spotify.com/album/0rxRylINpphWKEKwGb2YGC) | 3:07 |
+| 113 | [Magnolia](https://open.spotify.com/track/6IufA64SPqtOYyFoKzL1s6) | [Jonathan Turk](https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo) | [My Revenge](https://open.spotify.com/album/1rjfZshfNjxGP5cQXyIGzz) | 3:20 |
 
-Snapshot ID: `AAAL9OCWTo1uczk0BOLUGNYRPF9Mbt0v`
+Snapshot ID: `AAAL9rsCKcKE5lQxvWC42/YBCnAG43WO`

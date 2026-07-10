@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,202,054 likes - 85 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,202,113 likes - 85 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 77 | [The Very Thought Of You](https://open.spotify.com/track/5vaadMKxBp0nvzfMrlaiQ7) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Unforgettable: With Love](https://open.spotify.com/album/78qajwwkI8eOt1DrnUOtuL) | 4:16 |
 | 78 | [Tuxedo Junction](https://open.spotify.com/track/5qDNH9eQkseIjwZ4BqCsNm) | [The Manhattan Transfer](https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc) | [The Manhattan Transfer](https://open.spotify.com/album/2us4nYN1OoaAkvEXVNRLQu) | 3:06 |
 | 79 | [What A Difference A Day Made](https://open.spotify.com/track/0ZwLGauFqFpbj4P3apDM3r) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/5uBSuPB7ZgHB1mLtFzO39B) | 5:09 |
-| 80 | [Let's Fall In Love](https://open.spotify.com/track/0Z0qG3El21xEkL9RupyIin) | [Ann Hampton Callaway](https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e) | [To Ella With Love](https://open.spotify.com/album/7u4thCH0J24iqaKu1UwffK) | 2:46 |
-| 81 | [Midnight Sun](https://open.spotify.com/track/6X7Bt2oWmhX6ZUj6oibNVO) | [Dee Dee Bridgewater](https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI) | [This Is Dee Dee Bridgewater](https://open.spotify.com/album/5lVLW0P06Fr1wPWD4YvjnN) | 7:22 |
-| 82 | [One for My Baby \(And One More for the Road\)](https://open.spotify.com/track/41Z6a2KhWJYwtUH2MeSMjm) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Crooners and Champagne](https://open.spotify.com/album/1elk2gnwJWxL4nvKWmE1Eb) | 2:56 |
+| 80 | [Midnight Sun](https://open.spotify.com/track/6X7Bt2oWmhX6ZUj6oibNVO) | [Dee Dee Bridgewater](https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI) | [This Is Dee Dee Bridgewater](https://open.spotify.com/album/5lVLW0P06Fr1wPWD4YvjnN) | 7:22 |
+| 81 | [One for My Baby \(And One More for the Road\)](https://open.spotify.com/track/41Z6a2KhWJYwtUH2MeSMjm) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Crooners and Champagne](https://open.spotify.com/album/1elk2gnwJWxL4nvKWmE1Eb) | 2:56 |
+| 82 | [Let's Fall In Love](https://open.spotify.com/track/0Z0qG3El21xEkL9RupyIin) | [Ann Hampton Callaway](https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e) | [To Ella With Love](https://open.spotify.com/album/7u4thCH0J24iqaKu1UwffK) | 2:46 |
 | 83 | [Mad About The Boy](https://open.spotify.com/track/4eByri8JfhjBK25aCnwSNF) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Love Songs](https://open.spotify.com/album/5pnDpwi8OtuUOvLkQyVCZM) | 2:50 |
 | 84 | [Misty](https://open.spotify.com/track/1PkpbUvZkQHOvASe8pN5vi) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [4 Beautiful Jazz Divas \(40 Tracks Remastered\)](https://open.spotify.com/album/1T81ZLCjdaOmgPvEuWjBOR) | 3:02 |
 | 85 | [My Funny Valentine](https://open.spotify.com/track/5tPdH3Qm9exYGRUG0vUrr7) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Hits](https://open.spotify.com/album/7IfeIgmH2s46g1RhK0wfEw) | 3:51 |

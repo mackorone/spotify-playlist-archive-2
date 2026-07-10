@@ -1,6 +1,6 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 386920,
+  "num_followers": 386923,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
-      },
-      "artists": [
-        {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
-        }
-      ],
-      "duration_ms": 196400,
-      "name": "Me And Bobby McGee",
-      "url": "https://open.spotify.com/track/3i5bJFIAkgoZqJoRAQqAKO"
-    },
-    {
-      "added_at": "2026-02-17 04:47:51",
-      "album": {
         "name": "Columbia Country Classics Volume 3: Americana",
         "url": "https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 177573,
       "name": "Wolverton Mountain",
       "url": "https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey"
+    },
+    {
+      "added_at": "2026-02-17 04:47:51",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
+      },
+      "artists": [
+        {
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+        }
+      ],
+      "duration_ms": 196400,
+      "name": "Me And Bobby McGee",
+      "url": "https://open.spotify.com/track/3i5bJFIAkgoZqJoRAQqAKO"
     },
     {
       "added_at": "2026-02-17 04:47:51",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "The Essential Waylon Jennings",
-        "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 146133,
-      "name": "(That's What You Get) For Lovin' Me",
-      "url": "https://open.spotify.com/track/1FrG5yYxDbusk4dK3pQ9le"
-    },
-    {
-      "added_at": "2026-02-17 04:47:51",
-      "album": {
         "name": "The Essential Eddy Arnold",
         "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 157826,
       "name": "Make the World Go Away",
       "url": "https://open.spotify.com/track/7GafJyGdVj7ahXo96LwFM4"
+    },
+    {
+      "added_at": "2026-02-17 04:47:51",
+      "album": {
+        "name": "The Essential Waylon Jennings",
+        "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 146133,
+      "name": "(That's What You Get) For Lovin' Me",
+      "url": "https://open.spotify.com/track/1FrG5yYxDbusk4dK3pQ9le"
     },
     {
       "added_at": "2026-02-17 04:47:51",

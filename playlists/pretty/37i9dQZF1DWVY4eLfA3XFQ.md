@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 💜 Tech house operators, featuring Ferreck Dawn
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,751 likes - 125 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,837 likes - 125 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

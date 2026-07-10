@@ -1,6 +1,6 @@
 {
   "description": "The best instrumental versions of the American songbook classics. Cover: Miles Davis",
-  "num_followers": 177207,
+  "num_followers": 177261,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Quiet Kenny",
-        "url": "https://open.spotify.com/album/4B0pF1WLB3pCaZ4eTx5U8S"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Alone Together - Rudy Van Gelder Remaster 2006",
-      "url": "https://open.spotify.com/track/3GOZbK2epuHzCt5YvvVFHO"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Somethin' Else (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 659520,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/0X5DcGkbxCXSadgj01ZXd7"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Quiet Kenny",
+        "url": "https://open.spotify.com/album/4B0pF1WLB3pCaZ4eTx5U8S"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Alone Together - Rudy Van Gelder Remaster 2006",
+      "url": "https://open.spotify.com/track/3GOZbK2epuHzCt5YvvVFHO"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "My Favorite Things",
-        "url": "https://open.spotify.com/album/3nLStxdTkSzihxm7FTLzCP"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 824133,
-      "name": "My Favorite Things",
-      "url": "https://open.spotify.com/track/3ZikLQCnH3SIswlGENBcKe"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 321026,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/4rrLFMxzVVwAJjmvHLPL8y"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "My Favorite Things",
+        "url": "https://open.spotify.com/album/3nLStxdTkSzihxm7FTLzCP"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 824133,
+      "name": "My Favorite Things",
+      "url": "https://open.spotify.com/track/3ZikLQCnH3SIswlGENBcKe"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Used To Be Duke",
-        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 217293,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/2rguP2Zy8ohN8tYWwcbr0l"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "In a Sentimental Mood",
         "url": "https://open.spotify.com/album/38NufhOhCETUhjBqZa5w7e"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 191293,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/1Jrdpneg6p0j2crsbuxW0R"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Used To Be Duke",
+        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 217293,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/2rguP2Zy8ohN8tYWwcbr0l"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 447760,
-      "name": "You've Changed",
-      "url": "https://open.spotify.com/track/1bzWQAERd8mtwpxH8R4vjB"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Saga Jazz: European Delights 1933-1939",
         "url": "https://open.spotify.com/album/1o7xxxWQil1BBZu3yYykrE"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 167986,
       "name": "Honeysuckle Rose",
       "url": "https://open.spotify.com/track/6UvGBRRCCP7Ro3gbLIuDU6"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 447760,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/1bzWQAERd8mtwpxH8R4vjB"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Young Chet",
-        "url": "https://open.spotify.com/album/2DYP3Cpj7U88CgUqdZubky"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 155693,
-      "name": "Time After Time - Instrumental",
-      "url": "https://open.spotify.com/track/0AtkWTAdzyuXO5AFdMd2nH"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "New Faces - New Sounds, Wynton Kelly Piano Interpretations",
         "url": "https://open.spotify.com/album/2lB4nYpIXctWDzAT5RRrVu"
       },
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
+        "name": "Young Chet",
+        "url": "https://open.spotify.com/album/2DYP3Cpj7U88CgUqdZubky"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 339160,
-      "name": "Our Love Is Here To Stay - Rudy Van Gelder Edition / 2003 Remaster",
-      "url": "https://open.spotify.com/track/3WBOCI8zM5SKfTXq41wM4e"
+      "duration_ms": 155693,
+      "name": "Time After Time - Instrumental",
+      "url": "https://open.spotify.com/track/0AtkWTAdzyuXO5AFdMd2nH"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1647,6 +1631,22 @@
       "duration_ms": 183160,
       "name": "After You've Gone",
       "url": "https://open.spotify.com/track/4leHEk0wS3rLsdfHz3ZItX"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 339160,
+      "name": "Our Love Is Here To Stay - Rudy Van Gelder Edition / 2003 Remaster",
+      "url": "https://open.spotify.com/track/3WBOCI8zM5SKfTXq41wM4e"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 253133,
-      "name": "The Song Is You",
-      "url": "https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Open Sesame (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
       },
@@ -1747,6 +1731,22 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 253133,
+      "name": "The Song Is You",
+      "url": "https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
         "name": "Another Workout",
         "url": "https://open.spotify.com/album/0asfmpz1bfQKt2Q0GDJAji"
       },
@@ -1759,22 +1759,6 @@
       "duration_ms": 483946,
       "name": "Hello, Young Lovers - Remastered 2006",
       "url": "https://open.spotify.com/track/0FbiwclsX9EVAY711xZQ9g"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
-        "name": "The Real... Toots Thielemans",
-        "url": "https://open.spotify.com/album/45kY69KnMtysdft3o07LiZ"
-      },
-      "artists": [
-        {
-          "name": "Toots Thielemans",
-          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
-        }
-      ],
-      "duration_ms": 275226,
-      "name": "Bluesette",
-      "url": "https://open.spotify.com/track/2yAWaE7k8dVU7f9cztK95E"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1807,6 +1791,22 @@
       "duration_ms": 235560,
       "name": "Stella By Starlight - Remaster/2004",
       "url": "https://open.spotify.com/track/4k23sI0AfmO1SxR6NDYmuj"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "The Real... Toots Thielemans",
+        "url": "https://open.spotify.com/album/45kY69KnMtysdft3o07LiZ"
+      },
+      "artists": [
+        {
+          "name": "Toots Thielemans",
+          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
+        }
+      ],
+      "duration_ms": 275226,
+      "name": "Bluesette",
+      "url": "https://open.spotify.com/track/2yAWaE7k8dVU7f9cztK95E"
     },
     {
       "added_at": "2026-05-28 09:37:04",

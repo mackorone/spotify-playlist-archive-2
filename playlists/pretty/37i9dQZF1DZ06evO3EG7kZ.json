@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 52068,
+  "num_followers": 52079,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAABZfKLQwb10vb7Uu3rgIc7E",
+  "snapshot_id": "ak2TAAAAAABbaLNSJmfD/RNQ4NAAD1cp",
   "tracks": [
     {
       "added_at": null,
@@ -184,13 +184,13 @@
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
         },
         {
-          "name": "Helena Czajka",
-          "url": "https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO"
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 189707,
-      "name": "Creek is Beautiful!",
-      "url": "https://open.spotify.com/track/3IX0GkNlQyjPi3GLtjhMdt"
+      "duration_ms": 145986,
+      "name": "Camping",
+      "url": "https://open.spotify.com/track/4w5LdmsuCKio1HnWIycAub"
     },
     {
       "added_at": null,
@@ -222,11 +222,15 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        },
+        {
+          "name": "Daniel O\u2019Brien",
+          "url": "https://open.spotify.com/artist/0uSEEB8TwdhevZ2hv80BoL"
         }
       ],
-      "duration_ms": 183434,
-      "name": "Curry Quest",
-      "url": "https://open.spotify.com/track/0Mv6OYvk9l6xzeDXRA428u"
+      "duration_ms": 144125,
+      "name": "Alongside (Instrumental)",
+      "url": "https://open.spotify.com/track/190HNzzsBBgH7BmCtbzv6f"
     },
     {
       "added_at": null,
@@ -260,13 +264,13 @@
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
         },
         {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+          "name": "Helena Czajka",
+          "url": "https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO"
         }
       ],
-      "duration_ms": 145986,
-      "name": "Camping",
-      "url": "https://open.spotify.com/track/4w5LdmsuCKio1HnWIycAub"
+      "duration_ms": 189707,
+      "name": "Creek is Beautiful!",
+      "url": "https://open.spotify.com/track/3IX0GkNlQyjPi3GLtjhMdt"
     },
     {
       "added_at": null,
@@ -310,15 +314,11 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        },
-        {
-          "name": "Daniel O\u2019Brien",
-          "url": "https://open.spotify.com/artist/0uSEEB8TwdhevZ2hv80BoL"
         }
       ],
-      "duration_ms": 144125,
-      "name": "Alongside (Instrumental)",
-      "url": "https://open.spotify.com/track/190HNzzsBBgH7BmCtbzv6f"
+      "duration_ms": 183434,
+      "name": "Curry Quest",
+      "url": "https://open.spotify.com/track/0Mv6OYvk9l6xzeDXRA428u"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 116537,
-      "name": "Tradies",
-      "url": "https://open.spotify.com/track/2559xiglYjf0N6gwkKWGeQ"
+      "duration_ms": 79483,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/7dugKt6t0REqsPlRmkV0uv"
     },
     {
       "added_at": null,
@@ -554,15 +554,11 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        },
-        {
-          "name": "Pluto Jonze",
-          "url": "https://open.spotify.com/artist/6DRm66ULaD9MVnfZ4TBfmF"
         }
       ],
-      "duration_ms": 216849,
-      "name": "Cricket",
-      "url": "https://open.spotify.com/track/3lKbohZkDt7f2TtS0b41XL"
+      "duration_ms": 76443,
+      "name": "Rug Island, Pt. 2",
+      "url": "https://open.spotify.com/track/3Cq2MyHslpTABcw1bPx50m"
     }
   ],
   "unique_name": "This Is Bluey",

@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 265607,
+  "num_followers": 265626,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAC2y/0mTA6OLBWnDKxCIvEY",
+  "snapshot_id": "ak2TAAAAAACNK7i7cFaznQNHCJpXYnGq",
   "tracks": [
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 238973,
-      "name": "The Kinslayer",
-      "url": "https://open.spotify.com/track/7JrKMhfBOMr78l3KbCAF1q"
+      "duration_ms": 274426,
+      "name": "Come Cover Me",
+      "url": "https://open.spotify.com/track/1RSKK7hj4emItvmh45crcX"
     },
     {
       "added_at": null,
@@ -708,41 +708,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 274426,
-      "name": "Come Cover Me",
-      "url": "https://open.spotify.com/track/1RSKK7hj4emItvmh45crcX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yesterwynde",
-        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 566433,
-      "name": "An Ocean Of Strange Islands",
-      "url": "https://open.spotify.com/track/548ttPqK3JM7dmIuP5VZ6p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Over The Hills And Far Away",
-        "url": "https://open.spotify.com/album/6j4E355c5CbrduKa4rGGLj"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 320733,
-      "name": "10th Man Down",
-      "url": "https://open.spotify.com/track/6ufTwGcAxjHAYlTrhxeyME"
+      "duration_ms": 238973,
+      "name": "The Kinslayer",
+      "url": "https://open.spotify.com/track/7JrKMhfBOMr78l3KbCAF1q"
     },
     {
       "added_at": null,
@@ -763,6 +731,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Over The Hills And Far Away",
+        "url": "https://open.spotify.com/album/6j4E355c5CbrduKa4rGGLj"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 320733,
+      "name": "10th Man Down",
+      "url": "https://open.spotify.com/track/6ufTwGcAxjHAYlTrhxeyME"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yesterwynde",
+        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 566433,
+      "name": "An Ocean Of Strange Islands",
+      "url": "https://open.spotify.com/track/548ttPqK3JM7dmIuP5VZ6p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oceanborn",
         "url": "https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yesterwynde",
-        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 355040,
-      "name": "The Antikythera Mechanism",
-      "url": "https://open.spotify.com/track/3CJ3Bbq0nUh8lFt1hHUI1K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HUMAN. :II: NATURE.",
         "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 236764,
       "name": "Tribal",
       "url": "https://open.spotify.com/track/5tN4bKhtt6klkkB0GVt9i1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wishmaster",
+        "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 407333,
+      "name": "Dead Boy's Poem",
+      "url": "https://open.spotify.com/track/5Qud73nljWvajesez4GhV4"
     }
   ],
   "unique_name": "This Is Nightwish",

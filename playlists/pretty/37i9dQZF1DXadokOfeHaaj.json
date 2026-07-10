@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Bonobo",
-  "num_followers": 43600,
+  "num_followers": 43604,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,22 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
-        "name": "Lockup",
-        "url": "https://open.spotify.com/album/1wZBrUG91Caq1CFVP2fqb7"
+        "name": "I\u2019m your girl right? (Fcukers Remix)",
+        "url": "https://open.spotify.com/album/0leGp1s72gcNFFsdHs4MhY"
       },
       "artists": [
         {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
         }
       ],
-      "duration_ms": 271835,
-      "name": "Lockup",
-      "url": "https://open.spotify.com/track/0iONV7wVA3odk4r4MuQO7w"
+      "duration_ms": 343239,
+      "name": "I\u2019m your girl right? (Fcukers Remix)",
+      "url": "https://open.spotify.com/track/0xu869oKDmbWv66goofbFq"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -415,22 +419,18 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
-        "name": "I\u2019m your girl right? (Fcukers Remix)",
-        "url": "https://open.spotify.com/album/0leGp1s72gcNFFsdHs4MhY"
+        "name": "Lockup",
+        "url": "https://open.spotify.com/album/1wZBrUG91Caq1CFVP2fqb7"
       },
       "artists": [
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
         }
       ],
-      "duration_ms": 343239,
-      "name": "I\u2019m your girl right? (Fcukers Remix)",
-      "url": "https://open.spotify.com/track/0xu869oKDmbWv66goofbFq"
+      "duration_ms": 271835,
+      "name": "Lockup",
+      "url": "https://open.spotify.com/track/0iONV7wVA3odk4r4MuQO7w"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -507,26 +507,6 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
-        "name": "Sound of You (ft. TEED)",
-        "url": "https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 236528,
-      "name": "Sound of You (ft. TEED)",
-      "url": "https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
         "name": "Sick Of Love (Mura Masa Remix)",
         "url": "https://open.spotify.com/album/4MH2cB8M1yl9Gnz8r8bR0n"
       },
@@ -547,42 +527,22 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
-        "name": "Ambiguous Desire",
-        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
+        "name": "Sound of You (ft. TEED)",
+        "url": "https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
         },
         {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
         }
       ],
-      "duration_ms": 242541,
-      "name": "Senses ft. Sampha",
-      "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
-        "name": "Turn Up The Love",
-        "url": "https://open.spotify.com/album/2OkJyJE2eByZ7jg46Gqsy5"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        },
-        {
-          "name": "Crystal Fighters",
-          "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
-        }
-      ],
-      "duration_ms": 186728,
-      "name": "Turn Up The Love",
-      "url": "https://open.spotify.com/track/6mPVFIUE1SamSyfWGju8Y4"
+      "duration_ms": 236528,
+      "name": "Sound of You (ft. TEED)",
+      "url": "https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -607,6 +567,46 @@
       "duration_ms": 212750,
       "name": "Mind Off",
       "url": "https://open.spotify.com/track/1NW7RoUrFx7H9H5k258BVM"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
+        "name": "Turn Up The Love",
+        "url": "https://open.spotify.com/album/2OkJyJE2eByZ7jg46Gqsy5"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        },
+        {
+          "name": "Crystal Fighters",
+          "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
+        }
+      ],
+      "duration_ms": 186728,
+      "name": "Turn Up The Love",
+      "url": "https://open.spotify.com/track/6mPVFIUE1SamSyfWGju8Y4"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
+        "name": "Ambiguous Desire",
+        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 242541,
+      "name": "Senses ft. Sampha",
+      "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -819,6 +819,26 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
+        "name": "Say\u014dnara",
+        "url": "https://open.spotify.com/album/4sSuFuXvMNnml7USWeCiQ9"
+      },
+      "artists": [
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        },
+        {
+          "name": "Paul Hartnoll",
+          "url": "https://open.spotify.com/artist/2VhTV1oh2l76vhVoQHhOrU"
+        }
+      ],
+      "duration_ms": 184734,
+      "name": "Say\u014dnara",
+      "url": "https://open.spotify.com/track/5gNzx8gPSmvZRmC7GqDlkI"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
         "name": "catch these fists (FDC DJs remix)",
         "url": "https://open.spotify.com/album/0jaPtW8Ybv0oxPKVhtYvIb"
       },
@@ -831,6 +851,22 @@
       "duration_ms": 177589,
       "name": "catch these fists - FDC DJs remix",
       "url": "https://open.spotify.com/track/3nPu3NcWSG4tGGuBWrPGEi"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
+        "name": "She Waits",
+        "url": "https://open.spotify.com/album/2OeZ42uzQXCop2v3xLTK0d"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 177840,
+      "name": "She Waits",
+      "url": "https://open.spotify.com/track/6UPql2upXpCahPme1FzOs6"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -855,38 +891,18 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
-        "name": "She Waits",
-        "url": "https://open.spotify.com/album/2OeZ42uzQXCop2v3xLTK0d"
+        "name": "ROUND & ROUND",
+        "url": "https://open.spotify.com/album/0eKrFiYJK5RhlqELhsSxqi"
       },
       "artists": [
         {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
         }
       ],
-      "duration_ms": 177840,
-      "name": "She Waits",
-      "url": "https://open.spotify.com/track/6UPql2upXpCahPme1FzOs6"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
-        "name": "Say\u014dnara",
-        "url": "https://open.spotify.com/album/4sSuFuXvMNnml7USWeCiQ9"
-      },
-      "artists": [
-        {
-          "name": "KNEECAP",
-          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
-        },
-        {
-          "name": "Paul Hartnoll",
-          "url": "https://open.spotify.com/artist/2VhTV1oh2l76vhVoQHhOrU"
-        }
-      ],
-      "duration_ms": 184734,
-      "name": "Say\u014dnara",
-      "url": "https://open.spotify.com/track/5gNzx8gPSmvZRmC7GqDlkI"
+      "duration_ms": 224841,
+      "name": "ROUND & ROUND",
+      "url": "https://open.spotify.com/track/3O70fX1mURzZI5lXd42JEq"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -903,22 +919,6 @@
       "duration_ms": 173772,
       "name": "I Like It Like That",
       "url": "https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
-        "name": "ROUND & ROUND",
-        "url": "https://open.spotify.com/album/0eKrFiYJK5RhlqELhsSxqi"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 224841,
-      "name": "ROUND & ROUND",
-      "url": "https://open.spotify.com/track/3O70fX1mURzZI5lXd42JEq"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -991,26 +991,6 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
-        "name": "afters",
-        "url": "https://open.spotify.com/album/3A8zjiT2srTevPGcvrNf2j"
-      },
-      "artists": [
-        {
-          "name": "Sonnee",
-          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
-        },
-        {
-          "name": "Malaki",
-          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
-        }
-      ],
-      "duration_ms": 167979,
-      "name": "afters",
-      "url": "https://open.spotify.com/track/1V9QgIqKy6Z24EKGgTpfws"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
         "name": "START UP A RUMOUR",
         "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
       },
@@ -1027,38 +1007,22 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
-        "name": "Like It",
-        "url": "https://open.spotify.com/album/14PgQPeflG0gYdsgSdgHQU"
+        "name": "afters",
+        "url": "https://open.spotify.com/album/3A8zjiT2srTevPGcvrNf2j"
       },
       "artists": [
         {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
         },
         {
-          "name": "3DDY",
-          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+          "name": "Malaki",
+          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
         }
       ],
-      "duration_ms": 266923,
-      "name": "Like It",
-      "url": "https://open.spotify.com/track/45k8qYkYZJ87ckRq3O3fVj"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
-        "name": "Switch Up",
-        "url": "https://open.spotify.com/album/3zjyEgzxDUFRaWdCTM5vZU"
-      },
-      "artists": [
-        {
-          "name": "Mike D",
-          "url": "https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8"
-        }
-      ],
-      "duration_ms": 215375,
-      "name": "Switch Up",
-      "url": "https://open.spotify.com/track/1FHSvpvNWmJcpDcmsxrtbH"
+      "duration_ms": 167979,
+      "name": "afters",
+      "url": "https://open.spotify.com/track/1V9QgIqKy6Z24EKGgTpfws"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -1091,6 +1055,42 @@
       "duration_ms": 169411,
       "name": "Play Me",
       "url": "https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
+        "name": "Switch Up",
+        "url": "https://open.spotify.com/album/3zjyEgzxDUFRaWdCTM5vZU"
+      },
+      "artists": [
+        {
+          "name": "Mike D",
+          "url": "https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8"
+        }
+      ],
+      "duration_ms": 215375,
+      "name": "Switch Up",
+      "url": "https://open.spotify.com/track/1FHSvpvNWmJcpDcmsxrtbH"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
+        "name": "Like It",
+        "url": "https://open.spotify.com/album/14PgQPeflG0gYdsgSdgHQU"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "duration_ms": 266923,
+      "name": "Like It",
+      "url": "https://open.spotify.com/track/45k8qYkYZJ87ckRq3O3fVj"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
+        "name": "Everything U",
+        "url": "https://open.spotify.com/album/6u6pP0iEfqlP1fJPTyrkWi"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 210294,
+      "name": "Everything U",
+      "url": "https://open.spotify.com/track/6i2H5Guogjwx2ALTACHmTY"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
         "name": "WORRY. (Herbert's Brahm Dub)",
         "url": "https://open.spotify.com/album/289cq3Rl0F7yqAiwvJBdoX"
       },
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
-        "name": "Everything U",
-        "url": "https://open.spotify.com/album/6u6pP0iEfqlP1fJPTyrkWi"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 210294,
-      "name": "Everything U",
-      "url": "https://open.spotify.com/track/6i2H5Guogjwx2ALTACHmTY"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X"
       },
@@ -1267,22 +1267,22 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
-        "name": "EVERYTHING IS FUNNY",
-        "url": "https://open.spotify.com/album/4Gg47cyXg8R06a0SDkCt6O"
+        "name": "Sort It Out",
+        "url": "https://open.spotify.com/album/0frOHCo8ZfNdzs59oztxzK"
       },
       "artists": [
         {
-          "name": "Sweatbaby",
-          "url": "https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9"
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
         },
         {
-          "name": "Ruby Rodgers",
-          "url": "https://open.spotify.com/artist/1yQ8xHBILLk32v48YCzq0G"
+          "name": "Clouds",
+          "url": "https://open.spotify.com/artist/3f0kobRhjLIHJna3UsEqim"
         }
       ],
-      "duration_ms": 164548,
-      "name": "SWITCH",
-      "url": "https://open.spotify.com/track/10PTIp0MdGqBuTvtTEuhR0"
+      "duration_ms": 271415,
+      "name": "Sort It Out",
+      "url": "https://open.spotify.com/track/7GPLRckCBUZSq0nPkw539N"
     }
   ],
   "unique_name": "Indie Electronic ",

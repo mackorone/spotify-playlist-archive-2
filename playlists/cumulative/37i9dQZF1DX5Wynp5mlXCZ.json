@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u0430\u0440\u0442\u0438\u0441\u0442\u0438 \u0432 \u0434\u043e\u0431\u0456\u0440\u0446\u0456 \u043d\u0430\u0439\u0446\u0456\u043a\u0430\u0432\u0456\u0448\u0438\u0445 \u043f\u043e\u043f \u0442\u0440\u0435\u043a\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: \u041c\u0430\u0448\u0430 \u041a\u043e\u043d\u0434\u0440\u0430\u0442\u0435\u043d\u043a\u043e & \u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440 \u0414\u0430\u043d\u0442\u0435\u0441",
+  "description": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u0430\u0440\u0442\u0438\u0441\u0442\u0438 \u0432 \u0434\u043e\u0431\u0456\u0440\u0446\u0456 \u043d\u0430\u0439\u0446\u0456\u043a\u0430\u0432\u0456\u0448\u0438\u0445 \u043f\u043e\u043f \u0442\u0440\u0435\u043a\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Madonna",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "tracks": [
     {
@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/0v9rHxhxnFi9sEkWbtghGx"
+      },
+      "artists": [
+        {
+          "name": "Maria Sur",
+          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149096,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/4ykZCiEgz1rPTOlRpvYOyp"
+    },
+    {
+      "album": {
         "name": "Bird of Pray (Eurovision 2025)",
         "url": "https://open.spotify.com/album/7ipNGl84BdLCYkcOm0fToR"
       },
@@ -657,6 +675,24 @@
     },
     {
       "album": {
+        "name": "Break Up in Reverse",
+        "url": "https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205523,
+      "name": "Break Up in Reverse",
+      "url": "https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6"
+    },
+    {
+      "album": {
         "name": "Bring Your Love",
         "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
       },
@@ -734,7 +770,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 215511,
       "name": "Camera",
       "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
@@ -3260,6 +3296,24 @@
       "duration_ms": 275780,
       "name": "More to Lose",
       "url": "https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF"
+    },
+    {
+      "album": {
+        "name": "MORNING DEW (DONK)",
+        "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243896,
+      "name": "MORNING DEW (DONK)",
+      "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
     },
     {
       "album": {
@@ -6190,7 +6244,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 143404,
       "name": "\u0410\u042f\u042f\u0419",
       "url": "https://open.spotify.com/track/3CjMX4vb7pzdZvFHYjCGWy"
@@ -6790,7 +6844,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 154285,
       "name": "\u0433\u043e\u043b\u043e\u0441\u043e\u0432\u0456",
       "url": "https://open.spotify.com/track/4QzEEmdmpwhW2AWgSxhyta"
@@ -8056,7 +8110,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 199166,
       "name": "\u041b\u0456\u0442\u043e",
       "url": "https://open.spotify.com/track/2HRQnNp8gdUrHQg8LWU6Od"
@@ -9560,7 +9614,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 182035,
       "name": "\u041f\u0440\u0438\u0432\u0456\u0442. Hello",
       "url": "https://open.spotify.com/track/6hZJocUHCjpSmWOghwdHkL"
@@ -9612,6 +9666,24 @@
       "duration_ms": 209454,
       "name": "\u041f\u0440\u043e \u0442\u0435\u0431\u0435",
       "url": "https://open.spotify.com/track/36rT5B4D5vV8i1MA7Y4vwu"
+    },
+    {
+      "album": {
+        "name": "\u043f\u0440\u043e\u043a\u0438\u043d\u044c\u0441\u044f",
+        "url": "https://open.spotify.com/album/2AqFWc8gE4wjVRMidyj2xI"
+      },
+      "artists": [
+        {
+          "name": "CHERNETSKA",
+          "url": "https://open.spotify.com/artist/3NXDoDGrRoeOFS7UOoEYIK"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "\u043f\u0440\u043e\u043a\u0438\u043d\u044c\u0441\u044f",
+      "url": "https://open.spotify.com/track/1rQ80rmKbCDSyUd8tHGp5d"
     },
     {
       "album": {
@@ -11312,6 +11384,24 @@
       "duration_ms": 168780,
       "name": "\u0456\u043d\u0456\u0439",
       "url": "https://open.spotify.com/track/5iHHQ57Z3ffRxbpg2xoLFw"
+    },
+    {
+      "album": {
+        "name": "\u0406\u041d\u0406\u0419",
+        "url": "https://open.spotify.com/album/4DancO9CYYXPlbYlGwumsW"
+      },
+      "artists": [
+        {
+          "name": "\u0421\u0422\u0420\u0423\u041a\u0422\u0423\u0420\u0410 \u0429\u0410\u0421\u0422\u042f",
+          "url": "https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156646,
+      "name": "\u0406\u041d\u0406\u0419",
+      "url": "https://open.spotify.com/track/4YWHO5ztihkh5A5QXmxPPB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5Wynp5mlXCZ"

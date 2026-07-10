@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 45005,
+  "num_followers": 45019,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAAVqQnicjGLFM9v4Wn9ZEng",
+  "snapshot_id": "ak2TAAAAAADuX2Y4FPXPP1npxS5wXUT/",
   "tracks": [
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
-        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
+        "name": "Bandido (En Vivo)",
+        "url": "https://open.spotify.com/album/05WrjfX5fyvh4OSDKUwrwZ"
       },
       "artists": [
         {
@@ -504,13 +504,13 @@
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         },
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 242928,
-      "name": "AMOR LIMOSNERO - En Vivo desde Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku"
+      "duration_ms": 214826,
+      "name": "Bandido - En Vivo",
+      "url": "https://open.spotify.com/track/1gKuxAJX4sKow9NOABCLSK"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bandido (En Vivo)",
-        "url": "https://open.spotify.com/album/05WrjfX5fyvh4OSDKUwrwZ"
+        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
+        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
       "artists": [
         {
@@ -540,13 +540,13 @@
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 214826,
-      "name": "Bandido - En Vivo",
-      "url": "https://open.spotify.com/track/1gKuxAJX4sKow9NOABCLSK"
+      "duration_ms": 242928,
+      "name": "AMOR LIMOSNERO - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku"
     },
     {
       "added_at": null,
@@ -634,15 +634,11 @@
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 191652,
-      "name": "SOLDADO BLANCO - En Vivo desde Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/3r2kOgyTJ7ECwh6zr62BVL"
+      "duration_ms": 158298,
+      "name": "DELANTE DE MI - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/0zCDvSDndSus3dDtcsyAoI"
     },
     {
       "added_at": null,
@@ -714,11 +710,15 @@
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 158298,
-      "name": "DELANTE DE MI - En Vivo desde Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/0zCDvSDndSus3dDtcsyAoI"
+      "duration_ms": 191652,
+      "name": "SOLDADO BLANCO - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/3r2kOgyTJ7ECwh6zr62BVL"
     },
     {
       "added_at": null,

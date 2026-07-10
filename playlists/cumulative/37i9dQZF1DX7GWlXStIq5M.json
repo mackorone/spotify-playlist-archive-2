@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Clau",
+  "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Lucas Pretti",
   "name": "Palco POP",
   "tracks": [
     {
@@ -5124,7 +5124,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 160741,
       "name": "Coincidentemente (Tirando Certas Coisas)",
       "url": "https://open.spotify.com/track/6jRuKl48CmDvAKh7fBSI6z"
@@ -6799,6 +6799,24 @@
     },
     {
       "album": {
+        "name": "Disco Tropical",
+        "url": "https://open.spotify.com/album/5I88FHndtPxjZndN8EovDR"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187589,
+      "name": "Disco Tropical",
+      "url": "https://open.spotify.com/track/38laFU5ZV92YufR2eIGxJU"
+    },
+    {
+      "album": {
         "name": "Disfarce",
         "url": "https://open.spotify.com/album/2AWsgoxFjLB27lahfqvP5Y"
       },
@@ -7112,6 +7130,36 @@
       "duration_ms": 171130,
       "name": "DRAMA",
       "url": "https://open.spotify.com/track/2sMalV6A0ojBHRk4kyRfh1"
+    },
+    {
+      "album": {
+        "name": "Duas Vezes",
+        "url": "https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3"
+      },
+      "artists": [
+        {
+          "name": "UCHA",
+          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
+        },
+        {
+          "name": "Niina",
+          "url": "https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Sonora Sessions",
+          "url": "https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160784,
+      "name": "Duas Vezes",
+      "url": "https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz"
     },
     {
       "album": {
@@ -15844,7 +15892,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 166442,
       "name": "Olhar de Quem n\u00e3o Presta",
       "url": "https://open.spotify.com/track/5cJ90Ya6UbFgQpk6Epq5vk"
@@ -19140,7 +19188,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 138282,
       "name": "Quero Sim, Quero N\u00e3o",
       "url": "https://open.spotify.com/track/0P5454OX0xDqbkOw4t4NnB"
@@ -20962,6 +21010,28 @@
       "duration_ms": 165957,
       "name": "Serena",
       "url": "https://open.spotify.com/track/6JUytWFYcYR7KSA4kiIJoI"
+    },
+    {
+      "album": {
+        "name": "Sess\u00e3o Da Tarde",
+        "url": "https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y"
+      },
+      "artists": [
+        {
+          "name": "Voraz",
+          "url": "https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb"
+        },
+        {
+          "name": "Julies",
+          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182784,
+      "name": "Sess\u00e3o Da Tarde",
+      "url": "https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w"
     },
     {
       "album": {

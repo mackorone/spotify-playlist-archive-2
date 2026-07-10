@@ -2,9 +2,9 @@
 
 ### [Jazz NEXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the sounds of South African Jazz\. Cover: Skyjack
+> Journey through the sounds of South African Jazz\. Cover: Bokang Ramatlapeng
 
-367 songs - 1 day 12 hr 22 min
+368 songs - 1 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Chance](https://open.spotify.com/track/1vxATOQuc29oW4nQOnbtNE) | [Vimbs Mavimbs](https://open.spotify.com/artist/17miQtSakhWQ0YJQtNdCeN) | [Late Bloomer](https://open.spotify.com/album/7BUfSUXfhfKlyYqAKufExP) | 6:14 | 2026-06-18 |  |
 | [Chanel's Mood](https://open.spotify.com/track/6vWowjcocZCZWuMlbbH08k) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Leagan Starchild](https://open.spotify.com/artist/463uy2bD1rR0u2GbG8AMxS), [Marcus Wyatt](https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4), [Sisonke Xonti](https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm) | [Skemerdans, Season 1 \(Music from the Showmax Original Series\)](https://open.spotify.com/album/0mNEoS45dcBIdQ5SAtzmV1) | 2:44 | 2022-04-28 | 2023-05-09 |
 | [Change](https://open.spotify.com/track/7cahHOmO7sCFEPDHUoxxyU) | [NALEDI](https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA) | [Change](https://open.spotify.com/album/0JeO1Z8FsQom8wOrdCO1h5) | 5:01 | 2024-05-10 | 2024-05-17 |
+| [Chant Song: Bakoena Ba Nkopane](https://open.spotify.com/track/48qf6rG6ixRciJJ2saRTDn) | [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [Qalo](https://open.spotify.com/album/0Tpgl8HOd2y6aWBGusFIep) | 4:20 | 2026-07-09 |  |
 | [Choices](https://open.spotify.com/track/1FFO1fM3Y8JuaQOhtZd8ne) | [Nobuhle Ashanti](https://open.spotify.com/artist/1j0veQcW4sD1PKkfSCJiop), [Shaw Komori](https://open.spotify.com/artist/38Ke1hHsORcBqMK6zs1RgN) | [Bait For Steps Forward](https://open.spotify.com/album/1rfJh3x1Bia6M2r4nert9m) | 5:46 | 2023-08-25 | 2024-07-18 |
 | [Chosi](https://open.spotify.com/track/0VXVa4Xzf9DUyEjJ9wOx6j) | [Thesis ZA](https://open.spotify.com/artist/1WWnGqSNzDgePBza5THZHm) | [Chosi](https://open.spotify.com/album/4GWzyQiFsfojuInUn28tFn) | 5:06 | 2022-04-28 | 2023-03-18 |
 | [Clarion Call](https://open.spotify.com/track/5GIVW2BPGiHThDoCaMpWmq) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [In The Wake](https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq) | 6:58 | 2024-03-21 |  |
@@ -358,7 +359,7 @@
 | [When We Love](https://open.spotify.com/track/0xJhuT46JCo3KcE8EECp4e) | [Tutu Puoane](https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jacomo Bairos](https://open.spotify.com/artist/2NgN8L3qHI04lOWzGCKmo3) | [When We Love](https://open.spotify.com/album/6Unyfiu2vf5ylGeSOuQm4S) | 5:38 | 2025-06-20 | 2025-12-10 |
 | [When You Come Back](https://open.spotify.com/track/0tZW3IAdEZHsmd6NVPjHy4) | [Vusi Mahlasela](https://open.spotify.com/artist/7tUdxVCUWjTPf3Ic90eWDJ) | [When You Come Back](https://open.spotify.com/album/6XFkCtYY2yN7IISFxjfepE) | 4:06 | 2026-04-29 | 2026-05-22 |
 | [Where The Heart Is](https://open.spotify.com/track/43COSQ9QZsY47ZariNFRnS) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 5:27 | 2022-04-28 | 2024-01-26 |
-| [Words](https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ) | [Sibusiso Mash Mashiloane](https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI) | [IZIBONGO](https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg) | 6:52 | 2023-08-25 |  |
+| [Words](https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ) | [Sibusiso Mash Mashiloane](https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI) | [IZIBONGO](https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg) | 6:52 | 2023-08-25 | 2026-07-10 |
 | [Worried](https://open.spotify.com/track/7GlEJJlkmpHQ3wuwEfwNY7) | [Don Vino](https://open.spotify.com/artist/64N6WTvbf3j8jeNiw2uwoZ), [Tye Platinum](https://open.spotify.com/artist/4wVmuqmDv8Ht6hPpFnCLtp) | [Worried](https://open.spotify.com/album/4mWhEVGbhhS1YERH1Zy7Xl) | 3:58 | 2026-04-29 | 2026-05-22 |
 | [Woza We Mvula](https://open.spotify.com/track/2L02rCaQR1cROLVPvtmxtJ) | [Zawadi Yamungu](https://open.spotify.com/artist/1cfkRhGxegzAt8KlgVF0vl) | [Ngimuhle](https://open.spotify.com/album/68klg3i2cv28eXndxsUJFd) | 7:32 | 2026-04-29 | 2026-05-22 |
 | [Wozani Nonke Sizothandaza](https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [At This Point in Time: Voices in Volumes](https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr) | 8:04 | 2022-04-28 |  |

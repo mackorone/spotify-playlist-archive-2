@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Madonna on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,107 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,178 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 90 | [Paint It Red](https://open.spotify.com/track/31giOS9KhpK97GcG9eT7PP) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Paint It Red](https://open.spotify.com/album/4Wi5IZG5ZIFs53Hr5tfJYN) | 3:34 |
 | 91 | [Cutthroat World](https://open.spotify.com/track/6pfYkCpOXw2qSMJDZFFvV7) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Cutthroat World](https://open.spotify.com/album/3LHdP9h9zET4F5GCokoc84) | 2:44 |
 | 92 | [Slush Puppy](https://open.spotify.com/track/5esPnS3J0c0x94yZuCxukj) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Slush Puppy](https://open.spotify.com/album/6lik4v0FwZyEZ0VPKui5z0) | 2:46 |
-| 93 | [Is Loving Really Bad](https://open.spotify.com/track/0glAAFulS8PHqD1b35sKz6) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Is Loving Really Bad](https://open.spotify.com/album/5gD0Dn9wTqvAq4O73895dI) | 2:28 |
+| 93 | [Is Loving Really Bad](https://open.spotify.com/track/0glAAFulS8PHqD1b35sKz6) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Is Loving Really Bad](https://open.spotify.com/album/5gD0Dn9wTqvAq4O73895dI) | 2:26 |
 | 94 | [winner](https://open.spotify.com/track/7bXqaPGlz0irAUcmqMnHuP) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [winner](https://open.spotify.com/album/48QRF24jEiOeQGNqJ77c3q) | 2:48 |
 | 95 | [Levitating](https://open.spotify.com/track/7MgOIswjMUk3oAjrL4KXKM) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Levitating](https://open.spotify.com/album/0fAU1eC6LSdzN1trgunppq) | 3:07 |
 | 96 | [I Ain't That Guy](https://open.spotify.com/track/0FppFE0sXIP7XC4VQxxVaI) | [Schmitty](https://open.spotify.com/artist/5mQw15vCNMnhD6LO8suS7b) | [I Ain't That Guy](https://open.spotify.com/album/7xhktNCwZPqSy4YnDwY05X) | 2:52 |

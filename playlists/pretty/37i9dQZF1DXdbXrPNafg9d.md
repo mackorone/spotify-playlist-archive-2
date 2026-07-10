@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: mary in the junkyard
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,290,899 likes - 213 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,290,880 likes - 213 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

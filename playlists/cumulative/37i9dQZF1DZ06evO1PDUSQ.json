@@ -569,6 +569,28 @@
     },
     {
       "album": {
+        "name": "Trying: Season 5 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0ekvgvmf5fF1h5KIFr8BzB"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        },
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198519,
+      "name": "So Perfect",
+      "url": "https://open.spotify.com/track/2ghQex1XgicbaZg3t6n3Ty"
+    },
+    {
+      "album": {
         "name": "Everybody Needs a Hero",
         "url": "https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe"
       },

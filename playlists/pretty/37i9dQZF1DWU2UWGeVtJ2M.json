@@ -1,6 +1,6 @@
 {
   "description": "\u534a\u6e05\u9192\u7684\u6642\u523b\u6700\u8ff7\u4eba\uff0c\u8b93\u6700\u8ff7\u4eba\u7684\u97f3\u6a02\u548c\u4f60\u4e00\u8d77\u96a8\u8208...",
-  "num_followers": 168021,
+  "num_followers": 168024,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,30 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "roundabout",
+        "url": "https://open.spotify.com/album/72JOBJj1vbLdTg0B2XVjwT"
+      },
+      "artists": [
+        {
+          "name": "fcj",
+          "url": "https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js"
+        },
+        {
+          "name": "Ivoris",
+          "url": "https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji"
+        },
+        {
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+        }
+      ],
+      "duration_ms": 132931,
+      "name": "roundabout",
+      "url": "https://open.spotify.com/track/4My5qxutluZnhCiSz4mY92"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "Walk Long",
         "url": "https://open.spotify.com/album/0zR3grZpgad6nqfPauPdnJ"
       },
@@ -863,30 +887,6 @@
       "duration_ms": 184253,
       "name": "I Don\u2019t Wanna",
       "url": "https://open.spotify.com/track/7qkScg9F6NUKFxfX16qtWb"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "roundabout",
-        "url": "https://open.spotify.com/album/72JOBJj1vbLdTg0B2XVjwT"
-      },
-      "artists": [
-        {
-          "name": "fcj",
-          "url": "https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js"
-        },
-        {
-          "name": "Ivoris",
-          "url": "https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji"
-        },
-        {
-          "name": "Ryce",
-          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
-        }
-      ],
-      "duration_ms": 132931,
-      "name": "roundabout",
-      "url": "https://open.spotify.com/track/4My5qxutluZnhCiSz4mY92"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1679,22 +1679,18 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Emo Regulation",
-        "url": "https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk"
+        "name": "blue",
+        "url": "https://open.spotify.com/album/6ydahDQDBR6C2isdOZxf4f"
       },
       "artists": [
         {
-          "name": "RIP Swirl",
-          "url": "https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V"
-        },
-        {
-          "name": "Ydegirl",
-          "url": "https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V"
+          "name": "Pools",
+          "url": "https://open.spotify.com/artist/4RYCoMC23D1PVJNH97xXWo"
         }
       ],
-      "duration_ms": 165500,
-      "name": "Spirals On My Tongue",
-      "url": "https://open.spotify.com/track/0I1oME61NvoZCIQxct99mP"
+      "duration_ms": 125380,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/6rW6FUhOATT7dBnup6UVHx"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1715,6 +1711,26 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "Emo Regulation",
+        "url": "https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk"
+      },
+      "artists": [
+        {
+          "name": "RIP Swirl",
+          "url": "https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V"
+        },
+        {
+          "name": "Ydegirl",
+          "url": "https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Spirals On My Tongue",
+      "url": "https://open.spotify.com/track/0I1oME61NvoZCIQxct99mP"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 218627,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "bad weather",
-        "url": "https://open.spotify.com/album/7A0VdU0ipw7rApLq7OR7tb"
-      },
-      "artists": [
-        {
-          "name": "Kibishi",
-          "url": "https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G"
-        }
-      ],
-      "duration_ms": 148855,
-      "name": "bad weather",
-      "url": "https://open.spotify.com/track/3Uf6WXkeF4b9LlDNC4PKOw"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

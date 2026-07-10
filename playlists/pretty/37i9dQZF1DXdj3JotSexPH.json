@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 36018,
+  "num_followers": 36017,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "CUTE DEPRESSED",
-        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
-      },
-      "artists": [
-        {
-          "name": "Dyan Dxddy",
-          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
-        }
-      ],
-      "duration_ms": 96946,
-      "name": "CUTE DEPRESSED",
-      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Lioness",
         "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 172515,
       "name": "Lioness",
       "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "CUTE DEPRESSED",
+        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
+      },
+      "artists": [
+        {
+          "name": "Dyan Dxddy",
+          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
+        }
+      ],
+      "duration_ms": 96946,
+      "name": "CUTE DEPRESSED",
+      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1043,30 +1043,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "MONTAGEM - PR FUNK",
-        "url": "https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB"
-      },
-      "artists": [
-        {
-          "name": "S3BZS",
-          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Mc Menor Do Alvorada",
-          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
-        }
-      ],
-      "duration_ms": 61634,
-      "name": "MONTAGEM - PR FUNK",
-      "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Around The World",
         "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
       },
@@ -1103,6 +1079,30 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "MONTAGEM - PR FUNK",
+        "url": "https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
+        }
+      ],
+      "duration_ms": 61634,
+      "name": "MONTAGEM - PR FUNK",
+      "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Sea Of Problems",
         "url": "https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95"
       },
@@ -1115,6 +1115,30 @@
       "duration_ms": 110624,
       "name": "Sea Of Problems",
       "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "He's A Pirate (Save Me)",
+        "url": "https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "KEL",
+          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
+        }
+      ],
+      "duration_ms": 153125,
+      "name": "He's A Pirate (Save Me)",
+      "url": "https://open.spotify.com/track/1Vj7ZZgVpNIKqkC2bA9mpx"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1155,30 +1179,6 @@
       "duration_ms": 139200,
       "name": "Crystals",
       "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "He's A Pirate (Save Me)",
-        "url": "https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "KEL",
-          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
-        }
-      ],
-      "duration_ms": 153125,
-      "name": "He's A Pirate (Save Me)",
-      "url": "https://open.spotify.com/track/1Vj7ZZgVpNIKqkC2bA9mpx"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Where You Are (GRiZ Remix)",
         "url": "https://open.spotify.com/album/6kULCT45GzgLQp2DbCA0oS"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 240000,
       "name": "Where You Are - GRiZ Remix",
       "url": "https://open.spotify.com/track/47kEJq44ZBrRBD4gvdCu0v"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2155,18 +2155,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Dem Not Ready",
-        "url": "https://open.spotify.com/album/487RGweLy8ywFNEJKALlR9"
+        "name": "Feel the Beat",
+        "url": "https://open.spotify.com/album/4izfgFschtwTedFJH5b4rO"
       },
       "artists": [
         {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+          "name": "LB aka LABAT",
+          "url": "https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh"
+        },
+        {
+          "name": "Partiboi69",
+          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
         }
       ],
-      "duration_ms": 277714,
-      "name": "Dem Not Ready",
-      "url": "https://open.spotify.com/track/1ELRBqdDN0M9fxe2xQE3gY"
+      "duration_ms": 397189,
+      "name": "Feel the Beat - Partiboi69 Remix",
+      "url": "https://open.spotify.com/track/2wNEBBr52TumYRmtYH1ocC"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2195,22 +2199,18 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Feel the Beat",
-        "url": "https://open.spotify.com/album/4izfgFschtwTedFJH5b4rO"
+        "name": "Dem Not Ready",
+        "url": "https://open.spotify.com/album/487RGweLy8ywFNEJKALlR9"
       },
       "artists": [
         {
-          "name": "LB aka LABAT",
-          "url": "https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh"
-        },
-        {
-          "name": "Partiboi69",
-          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
         }
       ],
-      "duration_ms": 397189,
-      "name": "Feel the Beat - Partiboi69 Remix",
-      "url": "https://open.spotify.com/track/2wNEBBr52TumYRmtYH1ocC"
+      "duration_ms": 277714,
+      "name": "Dem Not Ready",
+      "url": "https://open.spotify.com/track/1ELRBqdDN0M9fxe2xQE3gY"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2319,6 +2319,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "The Basement",
+        "url": "https://open.spotify.com/album/5MkryrNraC1vGE3rI7ReVr"
+      },
+      "artists": [
+        {
+          "name": "Kissimjau",
+          "url": "https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0"
+        }
+      ],
+      "duration_ms": 136946,
+      "name": "The Basement",
+      "url": "https://open.spotify.com/track/3Sv9eoZL7BD1UtcnMdeV7W"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Born Again",
         "url": "https://open.spotify.com/album/1pwBeGAONzyEHFJyFdWUv7"
       },
@@ -2335,22 +2351,6 @@
       "duration_ms": 158873,
       "name": "Born Again",
       "url": "https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "The Basement",
-        "url": "https://open.spotify.com/album/5MkryrNraC1vGE3rI7ReVr"
-      },
-      "artists": [
-        {
-          "name": "Kissimjau",
-          "url": "https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0"
-        }
-      ],
-      "duration_ms": 136946,
-      "name": "The Basement",
-      "url": "https://open.spotify.com/track/3Sv9eoZL7BD1UtcnMdeV7W"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -3011,22 +3011,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Funk of Gal\u00e1ctico",
-        "url": "https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA"
-      },
-      "artists": [
-        {
-          "name": "SXID",
-          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
-        }
-      ],
-      "duration_ms": 90461,
-      "name": "Funk of Gal\u00e1ctico",
-      "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Ela Joga na Hora",
         "url": "https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb"
       },
@@ -3043,6 +3027,22 @@
       "duration_ms": 132922,
       "name": "Ela Joga na Hora",
       "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Funk of Gal\u00e1ctico",
+        "url": "https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA"
+      },
+      "artists": [
+        {
+          "name": "SXID",
+          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
+        }
+      ],
+      "duration_ms": 90461,
+      "name": "Funk of Gal\u00e1ctico",
+      "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
     },
     {
       "added_at": "2026-04-13 15:38:24",

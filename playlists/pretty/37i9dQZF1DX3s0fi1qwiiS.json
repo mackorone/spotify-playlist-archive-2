@@ -1,6 +1,6 @@
 {
   "description": "The Detty December anthems over the years ",
-  "num_followers": 8195,
+  "num_followers": 8196,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
+        "name": "Party Hard",
+        "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
+      },
+      "artists": [
+        {
+          "name": "Donae'o",
+          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+        }
+      ],
+      "duration_ms": 218773,
+      "name": "Party Hard",
+      "url": "https://open.spotify.com/track/0S0qKgHu2CCL3MjPo3HMl5"
+    },
+    {
+      "added_at": "2025-12-23 16:53:12",
+      "album": {
         "name": "Sgudi Snyc",
         "url": "https://open.spotify.com/album/3MOD8aita13JIDWrLsqQoe"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 331377,
       "name": "Sgudi Snyc",
       "url": "https://open.spotify.com/track/0XSYoJ0MJpMB2tddyRcBEC"
-    },
-    {
-      "added_at": "2025-12-23 16:53:12",
-      "album": {
-        "name": "Party Hard",
-        "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
-      },
-      "artists": [
-        {
-          "name": "Donae'o",
-          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
-        }
-      ],
-      "duration_ms": 218773,
-      "name": "Party Hard",
-      "url": "https://open.spotify.com/track/0S0qKgHu2CCL3MjPo3HMl5"
     },
     {
       "added_at": "2025-12-23 16:53:12",

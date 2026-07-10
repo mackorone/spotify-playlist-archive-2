@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Backseat Polaroids",
+        "url": "https://open.spotify.com/album/245ZhCG2h6slLxHhvgniyh"
+      },
+      "artists": [
+        {
+          "name": "The Nightfall",
+          "url": "https://open.spotify.com/artist/1SImrCTeQXeP3b7ZQ5ODKo"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211365,
+      "name": "Backseat Polaroids",
+      "url": "https://open.spotify.com/track/1JriHYTjpwdbG5UAH0RKHU"
+    },
+    {
+      "album": {
         "name": "Balla da solo",
         "url": "https://open.spotify.com/album/6goetFqE7uwg4jYxk0THyA"
       },

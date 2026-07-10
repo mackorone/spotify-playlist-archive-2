@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: SUPER BEAVER
 
-598 songs - 1 day 10 hr 6 min
+599 songs - 1 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Hoodstar +](https://open.spotify.com/track/1cAX2R2IHZapREX4esktMW) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [Hoodstar +](https://open.spotify.com/album/5bw7lOzrONH3nG39JrSWwM) | 8:24 | 2023-01-26 | 2023-02-03 |
 | [hot lemon \- Remix](https://open.spotify.com/track/0KjOGXAd5j5rbjGSnBiolt) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM) | [hot lemon \(Remix\)](https://open.spotify.com/album/6MNsyAUtnCzLnuo1dJQBMB) | 2:33 | 2024-01-05 | 2024-02-02 |
 | [How Many Boogie](https://open.spotify.com/track/7ItiKu7nH1YYGBQZiwFq6M) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5), [Fuma no KTR](https://open.spotify.com/artist/6thFYr8FXQ3irTtczyv9YO) | [Something Forgotten](https://open.spotify.com/album/2DXyh7L0d6WMKueR9RF2Z8) | 2:39 | 2023-07-13 | 2024-02-09 |
+| [Hug \(feat\. kojikoji\)](https://open.spotify.com/track/4cHB6U8fasfxq7XD8uNxuK) | [空音](https://open.spotify.com/artist/3rTxb36W3M1BCxx00iiwMU), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [Hug \(feat\. kojikoji\)](https://open.spotify.com/album/1q8jca3CXP19IutTf5BKMp) | 3:04 | 2026-07-09 |  |
 | [I am I](https://open.spotify.com/track/7q3Difw99kuKvSgu9eoYH1) | [Toua](https://open.spotify.com/artist/3eRkbO29ksmOBO8DBjO1Ke) | [I am I](https://open.spotify.com/album/2fmiCRhZF73BkExQub6Yq3) | 3:55 | 2024-08-29 | 2024-10-02 |
 | [I Don't Wanna Dance In This Squall](https://open.spotify.com/track/4mDqiAffJp71GpC5WktLFC) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [I Don't Wanna Dance In This Squall](https://open.spotify.com/album/2sa0iSLjooxgcXj8zDho8J) | 3:36 | 2023-08-01 | 2023-09-02 |
 | [I Don’t Think That I Like Her](https://open.spotify.com/track/0Ts1lnK3lYa2dwE2orDJc5) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/2LTqBgZUH4EkDcj8hdkNjK) | 3:08 | 2023-02-23 | 2023-11-11 |
@@ -263,7 +264,7 @@
 | [Ready Go](https://open.spotify.com/track/3DXsJF9I3rmb4tzTaavbpT) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [MUSE](https://open.spotify.com/album/63Fi9c3GqnaR2aTbm4lR5D) | 3:20 | 2025-04-13 | 2025-05-01 |
 | [rendez\-vous](https://open.spotify.com/track/5i8lwhzx9FyilInJWa5lhn) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [kidnapping / rendez\-vous](https://open.spotify.com/album/0TxOw3GSb01frvQeBbP8MP) | 3:57 | 2023-08-17 | 2024-01-20 |
 | [rendez\-vous](https://open.spotify.com/track/77mI5OSGIIPKxHXBkHOySy) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [Hors d'oeuvre](https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D) | 3:58 | 2024-01-19 | 2024-04-19 |
-| [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 | 2025-08-28 |  |
+| [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 | 2025-08-28 | 2026-07-10 |
 | [Run](https://open.spotify.com/track/4JZzsSVtY9AkFtAgO2b2RP) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [Showcase](https://open.spotify.com/album/51Dh8xNNwdk0C7CaWimgMH) | 4:06 | 2023-02-09 | 2023-03-10 |
 | [RUN FOR YOU](https://open.spotify.com/track/2ev4YByQEhb3TbsxqyNF1N) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [RUN FOR YOU](https://open.spotify.com/album/4pyPXipdnMSHxekhwuJNJG) | 2:58 | 2023-09-14 | 2023-10-13 |
 | [Sakura furefure](https://open.spotify.com/track/4i32VDJhNyNYeRmuSSGVFQ) | [THE SUPER FRUIT](https://open.spotify.com/artist/3I0DG4uOeYNPq5MCyHPPer) | [Sakura furefure](https://open.spotify.com/album/1TXAzr199OFgyoMhtPhZz4) | 3:53 | 2023-03-03 | 2023-03-31 |

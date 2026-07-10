@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sara Evelyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,705 likes - 80 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,769 likes - 80 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 7 | [A Glória Desta Última Casa \(Ao Vivo\)](https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [A Glória Desta Última Casa \(Ao Vivo\)](https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK) | 7:11 |
 | 8 | [Sou Deus](https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv) | [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Sou Deus](https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb) | 4:15 |
 | 9 | [Pra te Ferir](https://open.spotify.com/track/4VFFsq9ZmPxmVE1pQhbUpS) | [Samuel Eleoterio](https://open.spotify.com/artist/1S4E2bNyTqNi1Pi303fcLv) | [Pra Te Ferir](https://open.spotify.com/album/4BTrNml4nN0jxrEftiO7Uo) | 4:26 |
-| 10 | [Canta](https://open.spotify.com/track/4jLM5rqH7f4sLDgUEB32nW) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Canta](https://open.spotify.com/album/6UaxqMu4afpNyU81hk9kfi) | 4:58 |
-| 11 | [Eu Sou Mistério](https://open.spotify.com/track/2rcELfYmKTFtit6Gv1ZEqF) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Eu Sou Mistério](https://open.spotify.com/album/4SpmYh0CjxUxtXzxXE32Is) | 4:28 |
+| 10 | [Eu Sou Mistério](https://open.spotify.com/track/2rcELfYmKTFtit6Gv1ZEqF) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Eu Sou Mistério](https://open.spotify.com/album/4SpmYh0CjxUxtXzxXE32Is) | 4:28 |
+| 11 | [Canta](https://open.spotify.com/track/4jLM5rqH7f4sLDgUEB32nW) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Canta](https://open.spotify.com/album/6UaxqMu4afpNyU81hk9kfi) | 4:58 |
 | 12 | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ) | 6:42 |
 | 13 | [Vai Remando](https://open.spotify.com/track/6uh4TPpwdxOSiLyGkxE5L6) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Vai Remando](https://open.spotify.com/album/18VzHuGUCwAROJwXE7VDnF) | 4:59 |
 | 14 | [Se O Mar Não Se Abrir / Citação: Firme Nas Promessas \(Ao Vivo\)](https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Se O Mar Não Se Abrir \(Ao Vivo\)](https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7) | 5:58 |

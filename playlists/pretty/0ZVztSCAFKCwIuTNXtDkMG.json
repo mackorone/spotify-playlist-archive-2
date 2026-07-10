@@ -1,12 +1,12 @@
 {
   "description": "Feel the difference with MadFit's official workout playlist.  <a href=\"https://topsify.lnk.to/MadFitYouTubeSY\">Subscribe to MadFit on YouTube.</a>",
-  "num_followers": 148550,
+  "num_followers": 148536,
   "original_name": "MadFit Workout Songs: Dance Hits",
   "owner": {
     "name": "Topsify",
     "url": "https://open.spotify.com/user/topsify"
   },
-  "snapshot_id": "AAAFDLWPcAqzxrPWW8n3wd4bU+snDmJC",
+  "snapshot_id": "AAAFDtvVwyXD2UAb7OVbIAFz0fYcv2eg",
   "tracks": [
     {
       "added_at": "2026-07-01 21:57:56",
@@ -395,6 +395,26 @@
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
+    },
+    {
+      "added_at": "2026-07-09 20:56:24",
+      "album": {
+        "name": "Just A Little (feat. Sam Harper)",
+        "url": "https://open.spotify.com/album/5ZtlB4gohuljxSsWTuy2Ih"
+      },
+      "artists": [
+        {
+          "name": "Just\u0117",
+          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
+        },
+        {
+          "name": "Sam Harper",
+          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+        }
+      ],
+      "duration_ms": 142391,
+      "name": "Just A Little (feat. Sam Harper)",
+      "url": "https://open.spotify.com/track/0H24VNZsFn9zoFycCHYQu3"
     },
     {
       "added_at": "2026-07-01 21:57:56",

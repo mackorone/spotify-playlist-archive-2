@@ -2,9 +2,9 @@
 
 ### [Boom Rap](https://open.spotify.com/playlist/37i9dQZF1DX3zN05ePDN6Q)
 
-> boom bap renasce todo dia\. Foto: Síntese, Murica
+> boom bap renasce todo dia\. Foto: Link do Zap
 
-797 songs - 1 day 17 hr 14 min
+798 songs - 1 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Big Man](https://open.spotify.com/track/2fEcLZdJP3Ni4vMAUabEHS) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [MAD GUI](https://open.spotify.com/artist/3EurgulwAwWZ9hjxOQ0NXv) | [Big Man](https://open.spotify.com/album/5LPDZn3qaYJTlT6EgHWM4v) | 3:07 | 2025-01-17 | 2025-04-15 |
 | [Bipolar](https://open.spotify.com/track/0aZQn07s3Kf2UlE6tnkAPg) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Cansei de Ouvir Trap Mixtape](https://open.spotify.com/album/5j9OB2EfeWOhLBNo1sNy5s) | 1:26 | 2023-08-25 | 2023-10-14 |
 | [Black Mafia](https://open.spotify.com/track/3AEeaAqF0XBQYNLGHXrn97) | [Romer Attack](https://open.spotify.com/artist/2kWsMzpXAlYAt8viDHOck0), [Goldman](https://open.spotify.com/artist/34Tri1BoJA03aIDbQlYEU7), [Menthor](https://open.spotify.com/artist/0XzXCGtdBwz8qaAUuqCxsM), [Mahal Reis](https://open.spotify.com/artist/5jG0MAA7TLDdeZq2O03s8U) | [Street Disciple](https://open.spotify.com/album/2MOUb2b9whF10xglGuDX31) | 4:17 | 2024-06-07 | 2024-08-10 |
-| [Block Party](https://open.spotify.com/track/4XMST0F0UdamHIaFELWkVo) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Zander Zel](https://open.spotify.com/artist/0BoltRO9bTiqSLCSogpkS5), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [4F](https://open.spotify.com/album/3AREmsVJLjOkE6WquTIw7g) | 2:09 | 2026-04-10 |  |
+| [Block Party](https://open.spotify.com/track/4XMST0F0UdamHIaFELWkVo) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Zander Zel](https://open.spotify.com/artist/0BoltRO9bTiqSLCSogpkS5), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [4F](https://open.spotify.com/album/3AREmsVJLjOkE6WquTIw7g) | 2:09 | 2026-04-10 | 2026-07-10 |
 | [BNP](https://open.spotify.com/track/430YJ1fYo7y9HIJmNpRTDp) | [Caio Ocean](https://open.spotify.com/artist/4vSK6DNj480ABpDaCwrn4Q), [OrdinaryJoe](https://open.spotify.com/artist/5YXq4N2hgx1FyPkhbRZAxN) | [BNP](https://open.spotify.com/album/4VtMV4EhZdMtcxGC0jAQ92) | 1:55 | 2025-10-24 |  |
 | [Boca do Cais](https://open.spotify.com/track/2EsQKH1tYRXFlGF8obK8Uh) | [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [yung vegan](https://open.spotify.com/artist/1syJqMCwFKLRoDT9plGxJV), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Boca do Cais](https://open.spotify.com/album/2XVHUp4Lh9caAr45PLTKiJ) | 3:12 | 2023-11-24 | 2024-03-02 |
 | [BOLA DE MEIA.](https://open.spotify.com/track/6gLZVkQfxtLb7Lw4yV1nM3) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [BOLA DE MEIA.](https://open.spotify.com/album/6vXRIMIBzpOflkPY2agdON) | 3:33 | 2025-11-24 |  |
@@ -746,6 +746,7 @@
 | [UM BRINDE EMBAIXO DOS ARCOS](https://open.spotify.com/track/3FMRrB4ryUt2YncbuSyxpA) | [CHS](https://open.spotify.com/artist/3MHIgk9kofA8ZkNcZoQMpj) | [UM BRINDE EMBAIXO DOS ARCOS](https://open.spotify.com/album/0JBgeSVKi704924viPEJy0) | 2:49 | 2023-08-04 | 2023-08-19 |
 | [Um Fardo \(Speedup\)](https://open.spotify.com/track/4M6qPVMKH6G5OkG3iGqNnV) | [luqeta](https://open.spotify.com/artist/5yBdprfbFGKUg6ckI8gtSZ) | [Luq Speed Vision 2](https://open.spotify.com/album/66XyaMC5pKkxrIyvnHQbJg) | 1:07 | 2022-06-24 | 2022-07-02 |
 | [Um Passo À Frente](https://open.spotify.com/track/5IlAKLd2LvB1tquxwUKDKE) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [TiaGuinn](https://open.spotify.com/artist/2kuYQG9Ag9EKlu25ziQKbX), [Sombra](https://open.spotify.com/artist/54cBoDN5Z8F9chRzmQz7V3) | [Um Passo À Frente](https://open.spotify.com/album/4Gc0Lp4fw3fh9LJzsxMEdS) | 3:57 | 2024-02-02 | 2024-02-24 |
+| [um sol lindo brilha](https://open.spotify.com/track/4qPIXMLDdrLFUxv1irUB1x) | [Link do Zap](https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm) | [o lado bom das coisas irreversíveis](https://open.spotify.com/album/2ua1n3o7GbzUyoKBCYjrIE) | 2:49 | 2026-07-10 |  |
 | [Uma Dose de Boombap](https://open.spotify.com/track/4ldgX0SM921NprB232n7zW) | [Ton NV](https://open.spotify.com/artist/1tYimuAsK1o1xHDXemZbWp) | [Uma Dose de Boombap](https://open.spotify.com/album/0KFd6lTTdKNJccZ2QeUlPv) | 3:58 | 2022-03-18 | 2023-02-18 |
 | [Uma Menina](https://open.spotify.com/track/6IrNgfvI2ymDGVl9eT2LEA) | [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [O Silêncio Que Grita](https://open.spotify.com/album/6dyzdn5KrBgmmQnznQI1PO) | 2:59 | 2025-05-30 | 2025-06-21 |
 | [Umapadeloko](https://open.spotify.com/track/2XlfVgtm1urfaOtBVzN8kL) | [Ton NV](https://open.spotify.com/artist/1tYimuAsK1o1xHDXemZbWp), [Xapz, The Child](https://open.spotify.com/artist/1Iq8bUA9tgE4sfkwR28KLX), [Skill tw](https://open.spotify.com/artist/4Uv6HRWhpZmmJFqncSGbWf), [Meyn4](https://open.spotify.com/artist/4nTOkm60bxUyD9y9wYGsUb), [Maikon](https://open.spotify.com/artist/6ORaGqrapGPmVGFdEqRNBJ), [djminister](https://open.spotify.com/artist/6J1B4GB6oPzp7lGtyT5rGh) | [Umapadeloko](https://open.spotify.com/album/58MsDTR5WGqIKYUWKno03w) | 7:25 | 2022-04-01 | 2022-06-04 |

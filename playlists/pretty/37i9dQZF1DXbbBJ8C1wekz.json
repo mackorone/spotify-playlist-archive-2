@@ -1,6 +1,6 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 187599,
+  "num_followers": 187672,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2026-06-08 19:39:35",
       "album": {
+        "name": "808 CLUB",
+        "url": "https://open.spotify.com/album/155txpbYywt6aLgZIQSAwq"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "PUTO (feat. Alee)",
+      "url": "https://open.spotify.com/track/1mhgqpCAnVZarcA65K6L0h"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
         "name": "Paladar Infantil",
         "url": "https://open.spotify.com/album/6y1V62Msb6V5oiVJkYa9Dx"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 143283,
       "name": "Paladar Infantil",
       "url": "https://open.spotify.com/track/2CzIoSG4eDkstyTiXzjryy"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
-        "name": "808 CLUB",
-        "url": "https://open.spotify.com/album/155txpbYywt6aLgZIQSAwq"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "PUTO (feat. Alee)",
-      "url": "https://open.spotify.com/track/1mhgqpCAnVZarcA65K6L0h"
     },
     {
       "added_at": "2026-06-08 19:39:35",
@@ -1435,30 +1435,6 @@
     {
       "added_at": "2026-06-08 19:39:35",
       "album": {
-        "name": "tempo.zip",
-        "url": "https://open.spotify.com/album/3AJvminfxx0wpM3dpF3vaY"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "doce m\u00e1gico",
-      "url": "https://open.spotify.com/track/2zjSEHhLqyRoNHrNcGewMO"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
@@ -1483,6 +1459,30 @@
       "duration_ms": 192000,
       "name": "Lenda",
       "url": "https://open.spotify.com/track/6XSTDJMW7yUr4Zuzyr4Ht6"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
+        "name": "tempo.zip",
+        "url": "https://open.spotify.com/album/3AJvminfxx0wpM3dpF3vaY"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        }
+      ],
+      "duration_ms": 139428,
+      "name": "doce m\u00e1gico",
+      "url": "https://open.spotify.com/track/2zjSEHhLqyRoNHrNcGewMO"
     },
     {
       "added_at": "2026-06-08 19:39:35",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2026-06-08 19:39:35",
       "album": {
+        "name": "808 CLUB",
+        "url": "https://open.spotify.com/album/155txpbYywt6aLgZIQSAwq"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        }
+      ],
+      "duration_ms": 202107,
+      "name": "RUAS DE FORTAL (feat. Brand\u00e3o85)",
+      "url": "https://open.spotify.com/track/3f6sD0ixZTFHToSjAj79jM"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
         "name": "FRXV (Ao Vivo)",
         "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
       },
@@ -1763,26 +1783,6 @@
       "duration_ms": 260129,
       "name": "Melhor Dia: Dopamina",
       "url": "https://open.spotify.com/track/78csEnL5LYOQc9eVITJTpu"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
-        "name": "808 CLUB",
-        "url": "https://open.spotify.com/album/155txpbYywt6aLgZIQSAwq"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Brand\u00e3o85",
-          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
-        }
-      ],
-      "duration_ms": 202107,
-      "name": "RUAS DE FORTAL (feat. Brand\u00e3o85)",
-      "url": "https://open.spotify.com/track/3f6sD0ixZTFHToSjAj79jM"
     },
     {
       "added_at": "2026-06-08 19:39:35",
@@ -2239,6 +2239,22 @@
     {
       "added_at": "2026-06-08 19:39:35",
       "album": {
+        "name": "Animais Traidores 2",
+        "url": "https://open.spotify.com/album/5B2QEtzBGfRRBYcuCeszur"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 194726,
+      "name": "Animais Traidores 2",
+      "url": "https://open.spotify.com/track/7phZ8xIy0e31ZfEjF3i4ZX"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
         "name": "Franco, The Sir! On The Radar Freestyle",
         "url": "https://open.spotify.com/album/1n1VqHx9HS0ty0QnbhXBv4"
       },
@@ -2259,22 +2275,6 @@
     {
       "added_at": "2026-06-08 19:39:35",
       "album": {
-        "name": "Animais Traidores 2",
-        "url": "https://open.spotify.com/album/5B2QEtzBGfRRBYcuCeszur"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "duration_ms": 194726,
-      "name": "Animais Traidores 2",
-      "url": "https://open.spotify.com/track/7phZ8xIy0e31ZfEjF3i4ZX"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
         "name": "2 L3Trinha",
         "url": "https://open.spotify.com/album/4cbEBTjZqyqvjADtg2mgBN"
       },
@@ -2291,6 +2291,30 @@
       "duration_ms": 130671,
       "name": "Pepp@ 2",
       "url": "https://open.spotify.com/track/4Yrs6DDP7GRTZIj9oJ4SPS"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
+        "name": "Ra\u00fal",
+        "url": "https://open.spotify.com/album/29zzU4Pe3SPIM2LESyaxDK"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Ra\u00fal",
+      "url": "https://open.spotify.com/track/51o1CX6amjuojNn37xdjSp"
     },
     {
       "added_at": "2026-06-08 19:39:35",
@@ -2323,30 +2347,6 @@
       "duration_ms": 151982,
       "name": "Um Mano Discreto (feat. Mc Luanna)",
       "url": "https://open.spotify.com/track/0lN6Mpuubw0DRgOqYq7Fg8"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
-        "name": "Ra\u00fal",
-        "url": "https://open.spotify.com/album/29zzU4Pe3SPIM2LESyaxDK"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Ra\u00fal",
-      "url": "https://open.spotify.com/track/51o1CX6amjuojNn37xdjSp"
     },
     {
       "added_at": "2026-06-08 19:39:35",
@@ -2483,26 +2483,6 @@
     {
       "added_at": "2026-06-08 19:39:35",
       "album": {
-        "name": "Distante",
-        "url": "https://open.spotify.com/album/0ipAbh8IRfQez8fvS9HIl7"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Distante",
-      "url": "https://open.spotify.com/track/7oE08PPqw5XozzHUv1P9XD"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
         "name": "Por Voc\u00ea...",
         "url": "https://open.spotify.com/album/4OUZfWsgUkkdnz7EgmQhsK"
       },
@@ -2539,6 +2519,26 @@
       "duration_ms": 127500,
       "name": "Rotina 2",
       "url": "https://open.spotify.com/track/0c5V12H7qQwmtjvMY9zxOY"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
+        "name": "Distante",
+        "url": "https://open.spotify.com/album/0ipAbh8IRfQez8fvS9HIl7"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Distante",
+      "url": "https://open.spotify.com/track/7oE08PPqw5XozzHUv1P9XD"
     },
     {
       "added_at": "2026-06-08 19:39:35",

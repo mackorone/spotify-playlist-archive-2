@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover:Los Alegres del Barranco, Los Alegres Del Barranco, Edgardo Nuñez, Los Farmerz 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,815 likes - 66 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,819 likes - 66 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

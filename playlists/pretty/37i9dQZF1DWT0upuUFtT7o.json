@@ -1,13 +1,45 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: @",
-  "num_followers": 256790,
+  "num_followers": 256798,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADF9bujUlf+ffiN/7wxSGcdIAxNm",
+  "snapshot_id": "AAAAAHeYu/2dheZd+Kbxgdisq9+5XQXs",
   "tracks": [
+    {
+      "added_at": "2026-07-09 16:16:47",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/3TWDRBwvDaMP4sQcPNrJQ7"
+      },
+      "artists": [
+        {
+          "name": "D'Leesa",
+          "url": "https://open.spotify.com/artist/0G1rpAGzZYHuIf8X0VFF2a"
+        }
+      ],
+      "duration_ms": 213993,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2dD0TQWTHOA7CArgLCFM60"
+    },
+    {
+      "added_at": "2026-07-09 16:16:47",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/7BHfasb0FXKXz5XjjqLcwj"
+      },
+      "artists": [
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh"
+    },
     {
       "added_at": "2026-06-24 22:07:04",
       "album": {
@@ -25,6 +57,102 @@
       "url": "https://open.spotify.com/track/5zg2SLq4J1w0y7n9TWP8s4"
     },
     {
+      "added_at": "2026-07-09 16:16:47",
+      "album": {
+        "name": "good and bad",
+        "url": "https://open.spotify.com/album/1qkGUEHkUBJByyj5NU6iTQ"
+      },
+      "artists": [
+        {
+          "name": "Gash",
+          "url": "https://open.spotify.com/artist/1uiSPRIJiY4WSAqEeVS9jX"
+        }
+      ],
+      "duration_ms": 95774,
+      "name": "good and bad",
+      "url": "https://open.spotify.com/track/6WUEmA64al3W96gO853HQA"
+    },
+    {
+      "added_at": "2026-06-24 22:07:04",
+      "album": {
+        "name": "Autosmile",
+        "url": "https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 399026,
+      "name": "Autosmile",
+      "url": "https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr"
+    },
+    {
+      "added_at": "2026-07-09 16:16:47",
+      "album": {
+        "name": "2005",
+        "url": "https://open.spotify.com/album/5CWR7Nj5F5Nvrkw6QKZmxm"
+      },
+      "artists": [
+        {
+          "name": "url",
+          "url": "https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2"
+        }
+      ],
+      "duration_ms": 198811,
+      "name": "2005",
+      "url": "https://open.spotify.com/track/1GokUSLCKojga6JRk9eFaT"
+    },
+    {
+      "added_at": "2026-07-09 16:16:47",
+      "album": {
+        "name": "The In-Between",
+        "url": "https://open.spotify.com/album/1bYR3lQjYfIkLOxcs6m7Ok"
+      },
+      "artists": [
+        {
+          "name": "Leela Rosa",
+          "url": "https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66"
+        }
+      ],
+      "duration_ms": 165084,
+      "name": "The In-Between",
+      "url": "https://open.spotify.com/track/7EaQY0r1DeAW9uqPjb2fpF"
+    },
+    {
+      "added_at": "2026-07-09 16:30:21",
+      "album": {
+        "name": "melody",
+        "url": "https://open.spotify.com/album/2QhAdqbrpkCBhVcnKpdaJg"
+      },
+      "artists": [
+        {
+          "name": "daisy",
+          "url": "https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "melody",
+      "url": "https://open.spotify.com/track/0aMVTLwGKFJAvT66qcXQvt"
+    },
+    {
+      "added_at": "2026-07-09 16:16:47",
+      "album": {
+        "name": "Sugar in my Drink",
+        "url": "https://open.spotify.com/album/11hCfkJEc9zDr8zivifLtK"
+      },
+      "artists": [
+        {
+          "name": "Tricky FM",
+          "url": "https://open.spotify.com/artist/2YUC5nYnx0PrmkE3s23Y0l"
+        }
+      ],
+      "duration_ms": 270198,
+      "name": "Sugar in my Drink",
+      "url": "https://open.spotify.com/track/2DVe9FPI1apq1paZR1oY6r"
+    },
+    {
       "added_at": "2026-07-02 19:48:03",
       "album": {
         "name": "Bluebells",
@@ -39,6 +167,38 @@
       "duration_ms": 173250,
       "name": "Bluebells",
       "url": "https://open.spotify.com/track/12UNcq0piKgV5VxhxOSRpz"
+    },
+    {
+      "added_at": "2026-07-09 16:16:47",
+      "album": {
+        "name": "Shark & Blessed Are the Foals",
+        "url": "https://open.spotify.com/album/6Sxq14eYQ5icxS8gnb6J29"
+      },
+      "artists": [
+        {
+          "name": "imy3",
+          "url": "https://open.spotify.com/artist/5tn7FeN8PYvZJ4jumJzIBQ"
+        }
+      ],
+      "duration_ms": 172193,
+      "name": "Shark",
+      "url": "https://open.spotify.com/track/3EtnThoIA6l52Nd7DXt4i3"
+    },
+    {
+      "added_at": "2026-07-09 16:16:47",
+      "album": {
+        "name": "Strafe",
+        "url": "https://open.spotify.com/album/6vr7cOwZZvLuEqJB2xjJ07"
+      },
+      "artists": [
+        {
+          "name": "Dying 4",
+          "url": "https://open.spotify.com/artist/5BsY72eb3azYvmYzxFIcWU"
+        }
+      ],
+      "duration_ms": 193777,
+      "name": "Strafe",
+      "url": "https://open.spotify.com/track/2oPOztgNXWMhoJxGUrnD0e"
     },
     {
       "added_at": "2026-07-02 19:48:03",
@@ -71,22 +231,6 @@
       "duration_ms": 344820,
       "name": "Stew",
       "url": "https://open.spotify.com/track/1bDwvHbDgtCvr2TcZIpQyn"
-    },
-    {
-      "added_at": "2026-06-24 22:07:04",
-      "album": {
-        "name": "Autosmile",
-        "url": "https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 399026,
-      "name": "Autosmile",
-      "url": "https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr"
     },
     {
       "added_at": "2026-07-02 19:48:03",
@@ -1041,22 +1185,6 @@
       "url": "https://open.spotify.com/track/182pZBYrPgjBRVHSzSyWsw"
     },
     {
-      "added_at": "2026-05-13 15:04:02",
-      "album": {
-        "name": "Parachute",
-        "url": "https://open.spotify.com/album/4DMrla244oAlAEKKOEOJ0X"
-      },
-      "artists": [
-        {
-          "name": "Bryce Bishop",
-          "url": "https://open.spotify.com/artist/4bCECQ7T6fKIUbM8PtC13Q"
-        }
-      ],
-      "duration_ms": 186903,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/0G6KhAjctCKbzAfN3EdYys"
-    },
-    {
       "added_at": "2026-05-06 17:59:13",
       "album": {
         "name": "Lighter in the Morning (2/2)",
@@ -1087,138 +1215,6 @@
       "duration_ms": 111784,
       "name": "Above n Beyond (Weather Man)",
       "url": "https://open.spotify.com/track/1JPLwvtprzZh3J7FFmzBfS"
-    },
-    {
-      "added_at": "2026-05-06 17:59:13",
-      "album": {
-        "name": "Can You Hear Me?",
-        "url": "https://open.spotify.com/album/3Q0jVeca9RPoodNn4j6rgU"
-      },
-      "artists": [
-        {
-          "name": "Pilar Victoria",
-          "url": "https://open.spotify.com/artist/2DSFPJr5VQONBtmvondIke"
-        }
-      ],
-      "duration_ms": 242841,
-      "name": "Can You Hear Me?",
-      "url": "https://open.spotify.com/track/2BujIp2h0XoMjeqNL59m0z"
-    },
-    {
-      "added_at": "2026-04-29 18:30:29",
-      "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/5iMuYMgn6229IR2g1221Vs"
-      },
-      "artists": [
-        {
-          "name": "Alana Markel",
-          "url": "https://open.spotify.com/artist/6PC5HPcQCXiidE2DKTAwoY"
-        }
-      ],
-      "duration_ms": 170330,
-      "name": "Place Like Home",
-      "url": "https://open.spotify.com/track/5mQqlb1fRJ2pt3NKocO2cQ"
-    },
-    {
-      "added_at": "2026-04-08 16:00:06",
-      "album": {
-        "name": "Crybaby",
-        "url": "https://open.spotify.com/album/1yjYllIw1d3OZoRgPcTGBA"
-      },
-      "artists": [
-        {
-          "name": "After Louise",
-          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
-        }
-      ],
-      "duration_ms": 175597,
-      "name": "Crybaby",
-      "url": "https://open.spotify.com/track/1etY8R5Z0rXhBKlqkUkkwN"
-    },
-    {
-      "added_at": "2026-05-06 17:59:13",
-      "album": {
-        "name": "Blu tac piano",
-        "url": "https://open.spotify.com/album/0iHDzwYLxxsxVJI4NGu8kO"
-      },
-      "artists": [
-        {
-          "name": "Cusk",
-          "url": "https://open.spotify.com/artist/3JkYnVJf85irRhvG5ptSIw"
-        }
-      ],
-      "duration_ms": 297546,
-      "name": "Blu tac piano",
-      "url": "https://open.spotify.com/track/4UMjHRPZAi5LgR8xhYShqc"
-    },
-    {
-      "added_at": "2026-05-06 17:59:13",
-      "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/3MHGBNMXy8FfQZMHUnqsze"
-      },
-      "artists": [
-        {
-          "name": "aaron's book club",
-          "url": "https://open.spotify.com/artist/6vzSrIg2hK1qTPUGrGCLqq"
-        }
-      ],
-      "duration_ms": 240654,
-      "name": "Spiral",
-      "url": "https://open.spotify.com/track/2U7v0lH247K8d57q1tWAHE"
-    },
-    {
-      "added_at": "2026-04-29 18:30:29",
-      "album": {
-        "name": "Barrons Hotel/Yellow Bones",
-        "url": "https://open.spotify.com/album/4DiYXaIgNZZBKHwWBjXr6Y"
-      },
-      "artists": [
-        {
-          "name": "Purelink",
-          "url": "https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ"
-        },
-        {
-          "name": "Rainy Miller",
-          "url": "https://open.spotify.com/artist/53LAWIqLkYE3N2UFod80A3"
-        }
-      ],
-      "duration_ms": 354461,
-      "name": "Barrons Hotel (I, To, Thee.)",
-      "url": "https://open.spotify.com/track/0eeyCEOLKsVVWxfZP0zA8k"
-    },
-    {
-      "added_at": "2026-04-29 18:30:29",
-      "album": {
-        "name": "Nothing to be Bitter About",
-        "url": "https://open.spotify.com/album/6eGAg30P7vdKPzjB2t7yan"
-      },
-      "artists": [
-        {
-          "name": "Alann8h",
-          "url": "https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "Nothing to be Bitter About",
-      "url": "https://open.spotify.com/track/5u54LDMrRJ5ciBDpakE5wU"
-    },
-    {
-      "added_at": "2026-04-08 16:00:06",
-      "album": {
-        "name": "Better Angels",
-        "url": "https://open.spotify.com/album/5oZuk5EIEG4licuoLSpgrz"
-      },
-      "artists": [
-        {
-          "name": "sadie",
-          "url": "https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc"
-        }
-      ],
-      "duration_ms": 160616,
-      "name": "Better Angels",
-      "url": "https://open.spotify.com/track/4dVmB6Y60E2U5tK79G2dhK"
     }
   ],
   "unique_name": "Fresh Finds Indie",

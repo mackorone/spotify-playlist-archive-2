@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Valentino Merlo & Marama",
-  "num_followers": 1118659,
+  "num_followers": 1118490,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -991,26 +991,6 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "Sin Querer",
-        "url": "https://open.spotify.com/album/5crzwGAdOnMyylNrwt8fWx"
-      },
-      "artists": [
-        {
-          "name": "Fer Vazquez",
-          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
-        },
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
-        }
-      ],
-      "duration_ms": 141071,
-      "name": "Sin Querer",
-      "url": "https://open.spotify.com/track/0kVpyCPMT52a05026zHGiq"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
         "name": "SALE SOLA",
         "url": "https://open.spotify.com/album/5mWt90aqfwx2SoepYXeOuk"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 125969,
       "name": "SALE SOLA",
       "url": "https://open.spotify.com/track/2xm4FQMffynQ251pwc0Rcn"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "Sin Querer",
+        "url": "https://open.spotify.com/album/5crzwGAdOnMyylNrwt8fWx"
+      },
+      "artists": [
+        {
+          "name": "Fer Vazquez",
+          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "duration_ms": 141071,
+      "name": "Sin Querer",
+      "url": "https://open.spotify.com/track/0kVpyCPMT52a05026zHGiq"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "VIAJEMOS EN EL TIEMPO #2 | C\u00e1sate Conmigo",
-        "url": "https://open.spotify.com/album/2bni1x1fcaOh0WWCplqzXl"
-      },
-      "artists": [
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        },
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 152696,
-      "name": "VIAJEMOS EN EL TIEMPO #2 | C\u00e1sate Conmigo",
-      "url": "https://open.spotify.com/track/78U6wIRpfUkdjYdcexWTXe"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
         "name": "Sin Cadenas",
         "url": "https://open.spotify.com/album/1q8MbrlzmYGA5FzlnxiuqU"
       },
@@ -1399,22 +1379,6 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "Fuego en la Noche",
-        "url": "https://open.spotify.com/album/0R0srt4VrapSD65tIQnTfd"
-      },
-      "artists": [
-        {
-          "name": "El Super Hobby",
-          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
-        }
-      ],
-      "duration_ms": 147960,
-      "name": "Chica Brasile\u00f1a",
-      "url": "https://open.spotify.com/track/5gwCA6eUUqFNg5VVWo2Yzo"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
         "name": "Ya no me duele :,)",
         "url": "https://open.spotify.com/album/0jJ0wlC1Or8aSdURo1TBWp"
       },
@@ -1431,6 +1395,42 @@
       "duration_ms": 157021,
       "name": "Ya no me duele :,)",
       "url": "https://open.spotify.com/track/6gT5ISEKzUVT8eTy0f3GvU"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "VIAJEMOS EN EL TIEMPO #2 | C\u00e1sate Conmigo",
+        "url": "https://open.spotify.com/album/2bni1x1fcaOh0WWCplqzXl"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "duration_ms": 152696,
+      "name": "VIAJEMOS EN EL TIEMPO #2 | C\u00e1sate Conmigo",
+      "url": "https://open.spotify.com/track/78U6wIRpfUkdjYdcexWTXe"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "Fuego en la Noche",
+        "url": "https://open.spotify.com/album/0R0srt4VrapSD65tIQnTfd"
+      },
+      "artists": [
+        {
+          "name": "El Super Hobby",
+          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
+        }
+      ],
+      "duration_ms": 147960,
+      "name": "Chica Brasile\u00f1a",
+      "url": "https://open.spotify.com/track/5gwCA6eUUqFNg5VVWo2Yzo"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
+        "name": "Amor Sincero",
+        "url": "https://open.spotify.com/album/6mkYsDQfFm1H4YYGk6lo4X"
+      },
+      "artists": [
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+        }
+      ],
+      "duration_ms": 187956,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/35Tg6HJcUghZgeCJq64OOt"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
         "name": "Todo Comenz\u00f3 Bailando (Remix)",
         "url": "https://open.spotify.com/album/5uETffhuDgeUDZhN4PacAJ"
       },
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "Amor Sincero",
-        "url": "https://open.spotify.com/album/6mkYsDQfFm1H4YYGk6lo4X"
-      },
-      "artists": [
-        {
-          "name": "Maxi Espindola",
-          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
-        }
-      ],
-      "duration_ms": 187956,
-      "name": "Amor Sincero",
-      "url": "https://open.spotify.com/track/35Tg6HJcUghZgeCJq64OOt"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
         "name": "Esperando por Ti",
         "url": "https://open.spotify.com/album/570lHGohzWuNEMmMefMIIC"
       },
@@ -1627,34 +1627,6 @@
       "duration_ms": 134916,
       "name": "Esperando por Ti",
       "url": "https://open.spotify.com/track/4R2PfTQvrZkjAPRbJDbLhd"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
-        "name": "Promet\u00ed",
-        "url": "https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1"
-      },
-      "artists": [
-        {
-          "name": "Fer Vazquez",
-          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
-        },
-        {
-          "name": "Chili Fernandez",
-          "url": "https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID"
-        },
-        {
-          "name": "Candu Dom\u00cdnguez",
-          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
-        },
-        {
-          "name": "ZHAE",
-          "url": "https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9"
-        }
-      ],
-      "duration_ms": 156325,
-      "name": "Promet\u00ed",
-      "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1691,22 +1663,30 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "Aunque Te Enamores",
-        "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
+        "name": "Promet\u00ed",
+        "url": "https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1"
       },
       "artists": [
         {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+          "name": "Fer Vazquez",
+          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
         },
         {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+          "name": "Chili Fernandez",
+          "url": "https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID"
+        },
+        {
+          "name": "Candu Dom\u00cdnguez",
+          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
+        },
+        {
+          "name": "ZHAE",
+          "url": "https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9"
         }
       ],
-      "duration_ms": 130212,
-      "name": "Aunque Te Enamores",
-      "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
+      "duration_ms": 156325,
+      "name": "Promet\u00ed",
+      "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1727,6 +1707,26 @@
       "duration_ms": 148283,
       "name": "No Fue Culpa Tuya",
       "url": "https://open.spotify.com/track/3S0pR6KMZdaBL0QC9SI2vY"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "Aunque Te Enamores",
+        "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 130212,
+      "name": "Aunque Te Enamores",
+      "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1971,26 +1971,6 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "Me toc\u00f3 perder",
-        "url": "https://open.spotify.com/album/5KT2qIb8oaHLzOrtboZi5x"
-      },
-      "artists": [
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 126477,
-      "name": "Me toc\u00f3 perder",
-      "url": "https://open.spotify.com/track/42bWLJQt6LX3dk28o9i7QK"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
         "name": "Ya No Quiero Verte",
         "url": "https://open.spotify.com/album/7LgHocBu4JUghhlAJqgNrS"
       },
@@ -2051,6 +2031,26 @@
       "duration_ms": 166153,
       "name": "\u00daltima Noche",
       "url": "https://open.spotify.com/track/20GboINqv3c8q3h8ppVANK"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "Me toc\u00f3 perder",
+        "url": "https://open.spotify.com/album/5KT2qIb8oaHLzOrtboZi5x"
+      },
+      "artists": [
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 126477,
+      "name": "Me toc\u00f3 perder",
+      "url": "https://open.spotify.com/track/42bWLJQt6LX3dk28o9i7QK"
     },
     {
       "added_at": "2026-06-19 03:00:25",

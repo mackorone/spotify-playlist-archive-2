@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Carly Rae Jepsen",
-  "num_followers": 1982,
+  "num_followers": 1981,
   "original_name": "Editors' Picks: Best Canadian Songs of June",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2026-07-03 03:21:47",
       "album": {
-        "name": "A Sign In The Weather",
-        "url": "https://open.spotify.com/album/17nzheejzWjrbPH3DjOcmz"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 203847,
-      "name": "Stuff",
-      "url": "https://open.spotify.com/track/7bGFbEzrG66G5oah25BnHw"
-    },
-    {
-      "added_at": "2026-07-03 03:21:47",
-      "album": {
         "name": "6 FEET UNDER",
         "url": "https://open.spotify.com/album/3KorkZ4PVhYd218hvElsgb"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 163360,
       "name": "6 FEET UNDER",
       "url": "https://open.spotify.com/track/2X1desrdxPyzUKrjlNpGom"
+    },
+    {
+      "added_at": "2026-07-03 03:21:47",
+      "album": {
+        "name": "A Sign In The Weather",
+        "url": "https://open.spotify.com/album/17nzheejzWjrbPH3DjOcmz"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 203847,
+      "name": "Stuff",
+      "url": "https://open.spotify.com/track/7bGFbEzrG66G5oah25BnHw"
     },
     {
       "added_at": "2026-07-03 03:21:47",
@@ -403,18 +403,18 @@
     {
       "added_at": "2026-07-03 03:21:47",
       "album": {
-        "name": "Something Out Of Nothing",
-        "url": "https://open.spotify.com/album/5DzYearmFZj5MF36mNJpl2"
+        "name": "Another Heartbreak",
+        "url": "https://open.spotify.com/album/0PY6nhGDYTVIQdf2XmRFhj"
       },
       "artists": [
         {
-          "name": "Bye Parula",
-          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
         }
       ],
-      "duration_ms": 206338,
-      "name": "Something Out Of Nothing",
-      "url": "https://open.spotify.com/track/1SpUMOyvEtvjWa4xWqFlAv"
+      "duration_ms": 217951,
+      "name": "Another Heartbreak",
+      "url": "https://open.spotify.com/track/29CQnZlg4xzTqdaZaYnGZ7"
     },
     {
       "added_at": "2026-07-03 03:21:47",
@@ -435,18 +435,18 @@
     {
       "added_at": "2026-07-03 03:21:47",
       "album": {
-        "name": "Another Heartbreak",
-        "url": "https://open.spotify.com/album/0PY6nhGDYTVIQdf2XmRFhj"
+        "name": "Something Out Of Nothing",
+        "url": "https://open.spotify.com/album/5DzYearmFZj5MF36mNJpl2"
       },
       "artists": [
         {
-          "name": "Savannah R\u00e9",
-          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+          "name": "Bye Parula",
+          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
         }
       ],
-      "duration_ms": 217951,
-      "name": "Another Heartbreak",
-      "url": "https://open.spotify.com/track/29CQnZlg4xzTqdaZaYnGZ7"
+      "duration_ms": 206338,
+      "name": "Something Out Of Nothing",
+      "url": "https://open.spotify.com/track/1SpUMOyvEtvjWa4xWqFlAv"
     },
     {
       "added_at": "2026-07-03 03:21:47",
@@ -643,6 +643,26 @@
     {
       "added_at": "2026-07-03 03:21:47",
       "album": {
+        "name": "7ayati",
+        "url": "https://open.spotify.com/album/3UGMlvp7syKa9ze1hNkhms"
+      },
+      "artists": [
+        {
+          "name": "Nawfal",
+          "url": "https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr"
+        },
+        {
+          "name": "DJ White Socks",
+          "url": "https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf"
+        }
+      ],
+      "duration_ms": 151874,
+      "name": "7ayati",
+      "url": "https://open.spotify.com/track/1BN7xAyT8kj44lsdem70kx"
+    },
+    {
+      "added_at": "2026-07-03 03:21:47",
+      "album": {
         "name": "Bingo!",
         "url": "https://open.spotify.com/album/6TRNx1xO2gLDKHd85qtNOC"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 224823,
       "name": "Time of Your Life",
       "url": "https://open.spotify.com/track/1mK6XmC8hkJKyKzZfkmaZ3"
-    },
-    {
-      "added_at": "2026-07-03 03:21:47",
-      "album": {
-        "name": "7ayati",
-        "url": "https://open.spotify.com/album/3UGMlvp7syKa9ze1hNkhms"
-      },
-      "artists": [
-        {
-          "name": "Nawfal",
-          "url": "https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr"
-        },
-        {
-          "name": "DJ White Socks",
-          "url": "https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "7ayati",
-      "url": "https://open.spotify.com/track/1BN7xAyT8kj44lsdem70kx"
     },
     {
       "added_at": "2026-07-03 03:21:47",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-07-03 03:21:47",
       "album": {
-        "name": "Beaux L\u00e9on",
-        "url": "https://open.spotify.com/album/60yrLtaDquVD28nqR2GLB6"
-      },
-      "artists": [
-        {
-          "name": "Beaux L\u00e9on",
-          "url": "https://open.spotify.com/artist/18L8wzQmX9vmU7wxW2Bpde"
-        }
-      ],
-      "duration_ms": 180706,
-      "name": "222",
-      "url": "https://open.spotify.com/track/1JffGbCr4wlGDPf0WPistB"
-    },
-    {
-      "added_at": "2026-07-03 03:21:47",
-      "album": {
         "name": "Traveling Blues",
         "url": "https://open.spotify.com/album/4CEWvUJ9YjEQF1apGtPTju"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 215250,
       "name": "Traveling Blues",
       "url": "https://open.spotify.com/track/45fEI8uXWhqDdo7JkBm73i"
+    },
+    {
+      "added_at": "2026-07-03 03:21:47",
+      "album": {
+        "name": "Beaux L\u00e9on",
+        "url": "https://open.spotify.com/album/60yrLtaDquVD28nqR2GLB6"
+      },
+      "artists": [
+        {
+          "name": "Beaux L\u00e9on",
+          "url": "https://open.spotify.com/artist/18L8wzQmX9vmU7wxW2Bpde"
+        }
+      ],
+      "duration_ms": 180706,
+      "name": "222",
+      "url": "https://open.spotify.com/track/1JffGbCr4wlGDPf0WPistB"
     },
     {
       "added_at": "2026-07-03 03:21:47",

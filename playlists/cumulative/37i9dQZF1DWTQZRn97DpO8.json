@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : JADE",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : BINO*",
   "name": "le miel",
   "tracks": [
     {
@@ -886,7 +886,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 209467,
       "name": "balansoir",
       "url": "https://open.spotify.com/track/0eCBmHqITAj6CMLswCHV3N"
@@ -7315,6 +7315,24 @@
     },
     {
       "album": {
+        "name": "4PLAY",
+        "url": "https://open.spotify.com/album/5v9GjkbqWTjqleEeHmGcQD"
+      },
+      "artists": [
+        {
+          "name": "BINO*",
+          "url": "https://open.spotify.com/artist/5tbe22xZ7VzSgXAFQhoWiC"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155365,
+      "name": "NANANERE",
+      "url": "https://open.spotify.com/track/3lDx7CLOfzWjZsWIAfxtOT"
+    },
+    {
+      "album": {
         "name": "NBDY",
         "url": "https://open.spotify.com/album/0zYTDrnEc5EODxvX8SMuBV"
       },
@@ -9773,6 +9791,24 @@
     },
     {
       "album": {
+        "name": "Jusqu'\u00e0 l'aube",
+        "url": "https://open.spotify.com/album/26MONn92vJC2Z3UV3kSarj"
+      },
+      "artists": [
+        {
+          "name": "Dienini",
+          "url": "https://open.spotify.com/artist/5MCpw9P0BJ7vTFst9E6COK"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172778,
+      "name": "Si elle demande",
+      "url": "https://open.spotify.com/track/42GUegcNJubq8geCozIssi"
+    },
+    {
+      "album": {
         "name": "Ginger Season",
         "url": "https://open.spotify.com/album/4kaZiL99Daa2VLA0VQl62o"
       },
@@ -10720,7 +10756,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 192000,
       "name": "Tout pour toi",
       "url": "https://open.spotify.com/track/2lkyILEN21Cbnb9tlwuuOo"

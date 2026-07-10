@@ -1,6 +1,6 @@
 {
   "description": "Mellow down the mood with these Telugu tracks\nCover: Dear Comrade",
-  "num_followers": 107026,
+  "num_followers": 107082,
   "original_name": "Mellow Telugu",
   "owner": {
     "name": "Spotify",
@@ -593,26 +593,6 @@
       "url": "https://open.spotify.com/track/4L1x42K4MYwWL0xgm5rand"
     },
     {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
-        "name": "Sakhi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/63A8OAjGyffPyMhZOMhoSG"
-      },
-      "artists": [
-        {
-          "name": "Hariharan",
-          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
-        },
-        {
-          "name": "Clinton",
-          "url": "https://open.spotify.com/artist/0kEZTiAxUemQeqP06npWMG"
-        }
-      ],
-      "duration_ms": 361666,
-      "name": "Pachchadanamey",
-      "url": "https://open.spotify.com/track/6Au5A9YR9koo7bkyG4ucYf"
-    },
-    {
       "added_at": "2024-09-10 05:46:22",
       "album": {
         "name": "Ela (From \"Sopathulu\")",
@@ -635,6 +615,26 @@
       "duration_ms": 228224,
       "name": "Ela (From \"Sopathulu\")",
       "url": "https://open.spotify.com/track/6UGklMOti1kY7zl9po1WEH"
+    },
+    {
+      "added_at": "2022-09-02 08:32:31",
+      "album": {
+        "name": "Sakhi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/63A8OAjGyffPyMhZOMhoSG"
+      },
+      "artists": [
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        },
+        {
+          "name": "Clinton",
+          "url": "https://open.spotify.com/artist/0kEZTiAxUemQeqP06npWMG"
+        }
+      ],
+      "duration_ms": 361666,
+      "name": "Pachchadanamey",
+      "url": "https://open.spotify.com/track/6Au5A9YR9koo7bkyG4ucYf"
     },
     {
       "added_at": "2026-04-10 15:27:39",
@@ -927,6 +927,26 @@
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
+        "name": "Nuvvu Nenu Prema",
+        "url": "https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Naresh Ayar",
+          "url": "https://open.spotify.com/artist/1khqNmFNMQ1SME1rAV4ZCl"
+        }
+      ],
+      "duration_ms": 354368,
+      "name": "Preminche Premava",
+      "url": "https://open.spotify.com/track/1FtRJTH2uCemK3N2qUOb3U"
+    },
+    {
+      "added_at": "2022-09-02 08:32:31",
+      "album": {
         "name": "Oye",
         "url": "https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8"
       },
@@ -939,22 +959,6 @@
       "duration_ms": 354346,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/42XgH6kQAvTOiKODWMuD9p"
-    },
-    {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
-        "name": "Mahanati",
-        "url": "https://open.spotify.com/album/0Inb1EOqKno7hCcv9q5tP1"
-      },
-      "artists": [
-        {
-          "name": "Charulatha Mani",
-          "url": "https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm"
-        }
-      ],
-      "duration_ms": 197589,
-      "name": "Sada Nannu",
-      "url": "https://open.spotify.com/track/2vhQo1YVhZVFTohJIlHg3v"
     },
     {
       "added_at": "2021-05-18 09:57:44",
@@ -979,6 +983,22 @@
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
+        "name": "Mahanati",
+        "url": "https://open.spotify.com/album/0Inb1EOqKno7hCcv9q5tP1"
+      },
+      "artists": [
+        {
+          "name": "Charulatha Mani",
+          "url": "https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm"
+        }
+      ],
+      "duration_ms": 197589,
+      "name": "Sada Nannu",
+      "url": "https://open.spotify.com/track/2vhQo1YVhZVFTohJIlHg3v"
+    },
+    {
+      "added_at": "2022-09-02 08:32:31",
+      "album": {
         "name": "Panjaa",
         "url": "https://open.spotify.com/album/1yc1PhFxmSKD1tZtCWQirO"
       },
@@ -995,22 +1015,6 @@
       "duration_ms": 305925,
       "name": "Ela Ela Naalo",
       "url": "https://open.spotify.com/track/5RJb4ZBgdJBOZe5Fx2aDWo"
-    },
-    {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
-        "name": "Nuvvostanante Nenoddantana",
-        "url": "https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO"
-      },
-      "artists": [
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        }
-      ],
-      "duration_ms": 255292,
-      "name": "Chandrullo Unde",
-      "url": "https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR"
     }
   ],
   "unique_name": "Mellow Telugu",

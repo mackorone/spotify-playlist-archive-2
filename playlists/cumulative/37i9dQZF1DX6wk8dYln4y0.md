@@ -4,7 +4,7 @@
 
 > pop that \*hits different\* featuring holly hebe
 
-745 songs - 1 day 16 hr 5 min
+748 songs - 1 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Caramel](https://open.spotify.com/track/7H5jHyfHk4sAYoS8J8f112) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wishbone](https://open.spotify.com/album/1Q0kTJx8DrQd8RJW9L7eIN) | 3:54 | 2025-08-14 |  |
 | [cardigan](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:59 | 2023-08-25 | 2024-06-19 |
 | [Cards On The Table](https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Cards On The Table](https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox) | 2:56 | 2024-04-11 | 2024-04-19 |
-| [carry](https://open.spotify.com/track/2zaeUBQObunKCSOzgfBc3g) | [Newport](https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur) | [carry](https://open.spotify.com/album/1TUKElLn4QSQ73qdpcoYvk) | 2:40 | 2026-06-11 |  |
+| [carry](https://open.spotify.com/track/2zaeUBQObunKCSOzgfBc3g) | [Newport](https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur) | [carry](https://open.spotify.com/album/1TUKElLn4QSQ73qdpcoYvk) | 2:40 | 2026-06-11 | 2026-07-10 |
 | [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 | 2026-03-26 |  |
 | [Carry the Weight](https://open.spotify.com/track/7p3oJMceNz5skGLw52ZOjY) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator \(Deluxe\)](https://open.spotify.com/album/6ehD64XkegXwfsA2hYhkKr) | 3:09 | 2026-04-30 | 2026-06-29 |
 | [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 | 2024-06-04 | 2025-06-13 |
@@ -173,7 +173,7 @@
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2023-03-16 | 2023-12-20 |
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2023-06-15 | 2023-08-23 |
 | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe) | 3:33 | 2023-07-27 | 2024-06-19 |
-| [diamonds are forever](https://open.spotify.com/track/1VAtSBqecE1fIfxYikIHUG) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [diamonds are forever](https://open.spotify.com/album/5OP38JygZWcTBGMeG6smz3) | 2:36 | 2026-01-15 |  |
+| [diamonds are forever](https://open.spotify.com/track/1VAtSBqecE1fIfxYikIHUG) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [diamonds are forever](https://open.spotify.com/album/5OP38JygZWcTBGMeG6smz3) | 2:36 | 2026-01-15 | 2026-07-10 |
 | [Die 4 Me](https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Die 4 Me](https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz) | 3:35 | 2023-03-16 | 2023-04-06 |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2023-03-16 | 2023-09-24 |
 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 | 2023-03-16 | 2023-04-21 |
@@ -231,6 +231,7 @@
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-03-16 | 2023-08-04 |
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-08-02 | 2023-09-28 |
 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-09-28 | 2024-04-19 |
+| [Fluent](https://open.spotify.com/track/5RmvYROdCmvdUsO1AFNd3q) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Fluent](https://open.spotify.com/album/4xVe4dRqYKxxzx4HmoV7WA) | 1:52 | 2026-07-09 |  |
 | [folding chairs on the moon](https://open.spotify.com/track/6kU8m88hdo7QyQ1EPqBQVF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [folding chairs on the moon](https://open.spotify.com/album/3pNeAqZF4s1icAo94ovwOc) | 3:20 | 2025-09-18 | 2025-12-07 |
 | [Follow Excitement!](https://open.spotify.com/track/3kmNmUivuxN6zhOWTpi0Gx) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Follow Excitement!](https://open.spotify.com/album/2eTnFkpJoMPxx6MwYiWqxX) | 2:28 | 2025-07-17 | 2025-12-09 |
 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 | 2024-02-08 | 2024-03-15 |
@@ -264,6 +265,7 @@
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-21 | 2024-06-19 |
 | [Grin](https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE 05 + 06](https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg) | 2:50 | 2024-07-18 | 2025-08-01 |
 | [HABIT](https://open.spotify.com/track/4jmSlQSgcmT5uByjwz2wWI) | [Millie Atlas](https://open.spotify.com/artist/12gLtwJ2Anu18fHcsxfGRC) | [HABIT](https://open.spotify.com/album/0ZV1MqyzKffbSPBBj9rOYC) | 3:07 | 2026-06-25 |  |
+| [HALF DEVIL](https://open.spotify.com/track/6xMtlkixWKJiN27QJvFkLx) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [HALF DEVIL](https://open.spotify.com/album/7jP4KbB3gZa1Sq23p6eAXn) | 2:28 | 2026-07-09 |  |
 | [half moon bay](https://open.spotify.com/track/0eqhYYMADCZiLj5Xr2tQML) | [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji) | [half moon bay](https://open.spotify.com/album/4bsge1luWq0VBX8H036if3) | 2:38 | 2025-06-19 | 2025-07-04 |
 | [Happier Than Ever \- Edit](https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever \(Edit\)](https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz) | 2:31 | 2023-04-06 | 2023-04-29 |
 | [happy 4 u](https://open.spotify.com/track/2OwvgYtIVUT65olr13imQ1) | [Dani Marchio](https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT) | [happy 4 u](https://open.spotify.com/album/4XM28g2GoNUXkYSV1rvMHe) | 3:16 | 2025-06-26 | 2025-08-01 |
@@ -408,6 +410,7 @@
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-13 | 2024-06-12 |
 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2023-03-16 | 2023-04-28 |
 | [Lucky](https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lucky](https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX) | 3:18 | 2024-08-19 | 2024-11-09 |
+| [Lucky Girl](https://open.spotify.com/track/3lyjX7e9TsT4Z564QnCQ5b) | [Tilly Fenton](https://open.spotify.com/artist/0ZaJkkKuLo8dZDEUcVj8hr) | [Lucky Girl](https://open.spotify.com/album/1jPHZtHpDa4ghY5uVjPdJM) | 3:31 | 2026-07-09 |  |
 | [Lucy](https://open.spotify.com/track/2djMadJLhufUl397ravYvO) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Lucy](https://open.spotify.com/album/1ayJQYYEf8irFc5UVR82f8) | 2:41 | 2025-04-10 | 2025-04-28 |
 | [Mad](https://open.spotify.com/track/1uq1pf0UdjGmfbPqIpPg5K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Mad](https://open.spotify.com/album/1jqgdLTganjzL121lxeusU) | 2:54 | 2025-06-26 | 2025-08-22 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2023-03-16 | 2023-04-28 |
@@ -544,7 +547,7 @@
 | [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 | 2023-03-16 | 2024-06-28 |
 | [Shy](https://open.spotify.com/track/2N6md2JtrNake4sJ14KJ72) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:12 | 2025-07-31 | 2026-05-05 |
 | [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 | 2026-04-09 |  |
-| [SICK](https://open.spotify.com/track/2F6YUXi48PHfXEXfP8LSnO) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [SICK](https://open.spotify.com/album/1HhWdO64tB0AQLoXJtyhyO) | 2:12 | 2026-06-11 |  |
+| [SICK](https://open.spotify.com/track/2F6YUXi48PHfXEXfP8LSnO) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [SICK](https://open.spotify.com/album/1HhWdO64tB0AQLoXJtyhyO) | 2:12 | 2026-06-11 | 2026-07-10 |
 | [Sideshow](https://open.spotify.com/track/3AfqWj9c2YkDXQiG57maQC) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [Sideshow](https://open.spotify.com/album/200ad5LFRYHGxmUsgja0Xq) | 3:14 | 2024-04-04 | 2024-04-12 |
 | [Silver Bullet](https://open.spotify.com/track/5kePuQb32DnG04KanvphDW) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Silver Bullet](https://open.spotify.com/album/5qPV6KqFt5qIkm1GzkdCBR) | 3:21 | 2026-02-19 | 2026-04-10 |
 | [simon says](https://open.spotify.com/track/70OkYX2vVdktgONmoNQypf) | [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [simon says](https://open.spotify.com/album/7nGSnccAgmoYG8WCCsTN22) | 3:01 | 2025-07-10 | 2025-08-01 |

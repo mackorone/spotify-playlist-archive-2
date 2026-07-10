@@ -2,7 +2,7 @@
 
 ### [School Spirits Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX5LhW5nPZDse)
 
-> Death is just the beginning\. Listen to the music from School Spirits, new season now streaming on Paramount+.
+> Death is just the beginning\. Listen to the music from School Spirits, now streaming on Paramount+
 
 105 songs - 6 hr 8 min
 

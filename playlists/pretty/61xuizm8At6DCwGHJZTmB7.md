@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! Soaking worship music \| Jelly Roll gospel \. cinco de mayo , gospel songs jelly roll christian
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,417 likes - 168 songs - 15 hr 23 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,406 likes - 168 songs - 15 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 15 | [Bless Your Name](https://open.spotify.com/track/04OblrBhkRHOHJ11RkXS64) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Bless Your Name](https://open.spotify.com/album/0zUGFX6Xl5vSvXZ2n3q9mH) | 4:11 |
 | 16 | [Left It In The River](https://open.spotify.com/track/12UlWZFRx4feuHwmy5CN2a) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Left It In The River](https://open.spotify.com/album/4sFdV25QCnfJSAHvfd4SYC) | 2:58 |
 | 17 | [Even Death On A Cross!](https://open.spotify.com/track/6QM7HFCQZvBvlzFyNtxdfZ) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Even Death On A Cross!](https://open.spotify.com/album/7vTcBAEdOYVZwASV8qk0A8) | 4:09 |
-| 18 | [Hallowed Be Your Name](https://open.spotify.com/track/1KacGbIerk18ESTtdCniF9) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8), [Leeland Mooring](https://open.spotify.com/artist/2ylW0JAtYmQpymRkrvWnJb) | [The Chorus](https://open.spotify.com/album/6JThXMOkqvJ8BkF9kOLwbz) | 6:33 |
-| 19 | [The Blood](https://open.spotify.com/track/1XrwHv9rd88EoM6MXAEdpF) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [JJ Hasulube](https://open.spotify.com/artist/7bnRk7bPNqkp9aP8R4SJCS) | [The Blood](https://open.spotify.com/album/5uqY6m44JXWvfRH99r9PUw) | 8:36 |
-| 20 | [Firm Foundation \(He Won’t\)](https://open.spotify.com/track/39Gs7AuV2vXLopvvIiBaP4) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(Live\)](https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l) | 6:22 |
+| 18 | [The Blood](https://open.spotify.com/track/1XrwHv9rd88EoM6MXAEdpF) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [JJ Hasulube](https://open.spotify.com/artist/7bnRk7bPNqkp9aP8R4SJCS) | [The Blood](https://open.spotify.com/album/5uqY6m44JXWvfRH99r9PUw) | 8:36 |
+| 19 | [Firm Foundation \(He Won’t\)](https://open.spotify.com/track/39Gs7AuV2vXLopvvIiBaP4) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(Live\)](https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l) | 6:22 |
+| 20 | [Hallowed Be Your Name](https://open.spotify.com/track/1KacGbIerk18ESTtdCniF9) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8), [Leeland Mooring](https://open.spotify.com/artist/2ylW0JAtYmQpymRkrvWnJb) | [The Chorus](https://open.spotify.com/album/6JThXMOkqvJ8BkF9kOLwbz) | 6:33 |
 | 21 | [Wondrous Cross \(When I Survey\)](https://open.spotify.com/track/2S6z1YyMPfokSW8axqBtxu) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Wondrous Cross \(When I Survey\)](https://open.spotify.com/album/56iT32JlFS49AAXUCsyR6e) | 4:38 |
 | 22 | [Looking](https://open.spotify.com/track/3czGXdoslTCmd8IL7zPjyx) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Jason Ingram](https://open.spotify.com/artist/5YTcOomGzlsfsLmqO553CR) | [EAT](https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K) | 5:33 |
 | 23 | [Something Beautiful](https://open.spotify.com/track/4wnKG1BVR918F3oTLyHtdh) | [The Heritage](https://open.spotify.com/artist/7MHGumVnrmZttVe3ez5VSJ) | [Something Beautiful](https://open.spotify.com/album/4MI5ORaiOFK5lVm894GbkN) | 4:40 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 167 | [Rest On Us](https://open.spotify.com/track/25p9WwZkKwI07cZiHxFask) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Harvest Grapevine](https://open.spotify.com/artist/1fHsA04cL5A4gkCzl9gAW0) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 9:24 |
 | 168 | [Fear of God ∞](https://open.spotify.com/track/27GcUxI5ScpItTrA82fwSD) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [INFINITY](https://open.spotify.com/album/026YDYCcrzKoCrELvYR1ZM) | 4:33 |
 
-Snapshot ID: `AAAigf75oMxPmaXOMQuFYZ9FfqQ8gV9B`
+Snapshot ID: `AAAigootZFduE8zSCxh82/uDdhwLG6dg`

@@ -1,6 +1,6 @@
 {
   "description": "Ghazals for the rapture and passion of intense love and longing. Cover - Jagjit Singh",
-  "num_followers": 142343,
+  "num_followers": 142350,
   "original_name": "Golden Ghazals",
   "owner": {
     "name": "Spotify",
@@ -183,30 +183,6 @@
     {
       "added_at": "2026-07-06 04:12:09",
       "album": {
-        "name": "Dil Ke Chhaale",
-        "url": "https://open.spotify.com/album/6QUvquefLiuLCW7qV3rlxC"
-      },
-      "artists": [
-        {
-          "name": "Kalpana Gandharva",
-          "url": "https://open.spotify.com/artist/5UQgOU6dkEDeqPGoZWr1ax"
-        },
-        {
-          "name": "Mahendra Dhirajlal Kamdar",
-          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
-        },
-        {
-          "name": "Priyankaa Bhattacharya",
-          "url": "https://open.spotify.com/artist/1AerBLLesWL9aNrvn0hJt5"
-        }
-      ],
-      "duration_ms": 272879,
-      "name": "Dil Ke Chhaale",
-      "url": "https://open.spotify.com/track/4LZh8cudSVP5fYMxbA4XaJ"
-    },
-    {
-      "added_at": "2026-07-06 04:12:09",
-      "album": {
         "name": "Pahli Niha",
         "url": "https://open.spotify.com/album/28KOgnAwUAQ2iZk4zvLMpR"
       },
@@ -227,6 +203,30 @@
       "duration_ms": 328690,
       "name": "Pahli Niha",
       "url": "https://open.spotify.com/track/5jF3y8tm4rQ47k8KVRtqm5"
+    },
+    {
+      "added_at": "2026-07-06 04:12:09",
+      "album": {
+        "name": "Dil Ke Chhaale",
+        "url": "https://open.spotify.com/album/6QUvquefLiuLCW7qV3rlxC"
+      },
+      "artists": [
+        {
+          "name": "Kalpana Gandharva",
+          "url": "https://open.spotify.com/artist/5UQgOU6dkEDeqPGoZWr1ax"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+        },
+        {
+          "name": "Priyankaa Bhattacharya",
+          "url": "https://open.spotify.com/artist/1AerBLLesWL9aNrvn0hJt5"
+        }
+      ],
+      "duration_ms": 272879,
+      "name": "Dil Ke Chhaale",
+      "url": "https://open.spotify.com/track/4LZh8cudSVP5fYMxbA4XaJ"
     },
     {
       "added_at": "2026-07-06 04:12:09",
@@ -299,26 +299,6 @@
     {
       "added_at": "2026-07-06 04:12:09",
       "album": {
-        "name": "Ghazal Lounge",
-        "url": "https://open.spotify.com/album/0650SIztpEIyUkoQUIFflW"
-      },
-      "artists": [
-        {
-          "name": "Roop Kumar Rathod",
-          "url": "https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa"
-        },
-        {
-          "name": "Abhijit Pohankar",
-          "url": "https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY"
-        }
-      ],
-      "duration_ms": 400720,
-      "name": "Aaj Jaane Ki Zid Na Karo",
-      "url": "https://open.spotify.com/track/2KYqJSqEcFKtFmcSf5574E"
-    },
-    {
-      "added_at": "2026-07-06 04:12:09",
-      "album": {
         "name": "Dil Ke Chhaale",
         "url": "https://open.spotify.com/album/13Lq2RJ7uLtN0NOpSg6aEt"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 322554,
       "name": "Dil Ke Chhaale",
       "url": "https://open.spotify.com/track/50704i9WQZM3Nco78XBLLo"
+    },
+    {
+      "added_at": "2026-07-06 04:12:09",
+      "album": {
+        "name": "Ghazal Lounge",
+        "url": "https://open.spotify.com/album/0650SIztpEIyUkoQUIFflW"
+      },
+      "artists": [
+        {
+          "name": "Roop Kumar Rathod",
+          "url": "https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa"
+        },
+        {
+          "name": "Abhijit Pohankar",
+          "url": "https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY"
+        }
+      ],
+      "duration_ms": 400720,
+      "name": "Aaj Jaane Ki Zid Na Karo",
+      "url": "https://open.spotify.com/track/2KYqJSqEcFKtFmcSf5574E"
     },
     {
       "added_at": "2026-07-06 04:12:09",
@@ -479,6 +479,26 @@
     {
       "added_at": "2026-07-06 04:12:09",
       "album": {
+        "name": "Kya Batayein",
+        "url": "https://open.spotify.com/album/46ex4EWYffcfyxQdHGMcht"
+      },
+      "artists": [
+        {
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+        },
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        }
+      ],
+      "duration_ms": 260640,
+      "name": "Kya Batayein",
+      "url": "https://open.spotify.com/track/54DMShI0aIJm8LZTHJH6qG"
+    },
+    {
+      "added_at": "2026-07-06 04:12:09",
+      "album": {
         "name": "Icon",
         "url": "https://open.spotify.com/album/06K2HzhX1eoUo9pVUFpYc3"
       },
@@ -491,6 +511,26 @@
       "duration_ms": 402053,
       "name": "Chandi Jaisa Rang - Live In India",
       "url": "https://open.spotify.com/track/4lNIbr9cjYnk1W1CppnqUQ"
+    },
+    {
+      "added_at": "2026-07-06 04:12:09",
+      "album": {
+        "name": "Kaise Keh Dein",
+        "url": "https://open.spotify.com/album/7dYJFrC2T3IeqiAhfMFxyB"
+      },
+      "artists": [
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        }
+      ],
+      "duration_ms": 249856,
+      "name": "Kaise Keh Dein",
+      "url": "https://open.spotify.com/track/0azdOh0YcG9pUxPps6WbvA"
     },
     {
       "added_at": "2026-07-06 04:12:09",
@@ -519,26 +559,6 @@
       "duration_ms": 348478,
       "name": "Ab Chhalakte Hue (From \"Bhoomi 2025\")",
       "url": "https://open.spotify.com/track/4Ys3cMRAqJDL4XFI3KcTiV"
-    },
-    {
-      "added_at": "2026-07-06 04:12:09",
-      "album": {
-        "name": "Kaise Keh Dein",
-        "url": "https://open.spotify.com/album/7dYJFrC2T3IeqiAhfMFxyB"
-      },
-      "artists": [
-        {
-          "name": "Khwaab",
-          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
-        },
-        {
-          "name": "Divyam Sodhi",
-          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
-        }
-      ],
-      "duration_ms": 249856,
-      "name": "Kaise Keh Dein",
-      "url": "https://open.spotify.com/track/0azdOh0YcG9pUxPps6WbvA"
     },
     {
       "added_at": "2026-07-06 04:12:09",
@@ -607,6 +627,26 @@
     {
       "added_at": "2026-07-06 04:12:09",
       "album": {
+        "name": "Baalam",
+        "url": "https://open.spotify.com/album/2PjcTTSCszEjfMRT7hiIK2"
+      },
+      "artists": [
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        }
+      ],
+      "duration_ms": 260952,
+      "name": "Baalam",
+      "url": "https://open.spotify.com/track/6nVouCfWYhoA5mxaCeezNy"
+    },
+    {
+      "added_at": "2026-07-06 04:12:09",
+      "album": {
         "name": "Rare Moments",
         "url": "https://open.spotify.com/album/4kTiRFjbJLrP4Py00IA10N"
       },
@@ -627,22 +667,22 @@
     {
       "added_at": "2026-07-06 04:12:09",
       "album": {
-        "name": "Baalam",
-        "url": "https://open.spotify.com/album/2PjcTTSCszEjfMRT7hiIK2"
+        "name": "Rangrasiya",
+        "url": "https://open.spotify.com/album/4EM5UkaNoCKB0seUaorGgq"
       },
       "artists": [
         {
-          "name": "Khwaab",
-          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+          "name": "Rekha Bhardwaj",
+          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
         },
         {
-          "name": "Divyam Sodhi",
-          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+          "name": "Hopun Saikia",
+          "url": "https://open.spotify.com/artist/427lOJJUkRWgIZYpcUKKwN"
         }
       ],
-      "duration_ms": 260952,
-      "name": "Baalam",
-      "url": "https://open.spotify.com/track/6nVouCfWYhoA5mxaCeezNy"
+      "duration_ms": 261500,
+      "name": "Rangrasiya",
+      "url": "https://open.spotify.com/track/4yEkt1sfM6qziBykSESn7W"
     },
     {
       "added_at": "2026-07-06 04:12:09",
@@ -675,26 +715,6 @@
       "duration_ms": 257441,
       "name": "Hoke Majboor",
       "url": "https://open.spotify.com/track/0AT0gJ1ItX40XbIChd106B"
-    },
-    {
-      "added_at": "2026-07-06 04:12:09",
-      "album": {
-        "name": "Rangrasiya",
-        "url": "https://open.spotify.com/album/4EM5UkaNoCKB0seUaorGgq"
-      },
-      "artists": [
-        {
-          "name": "Rekha Bhardwaj",
-          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
-        },
-        {
-          "name": "Hopun Saikia",
-          "url": "https://open.spotify.com/artist/427lOJJUkRWgIZYpcUKKwN"
-        }
-      ],
-      "duration_ms": 261500,
-      "name": "Rangrasiya",
-      "url": "https://open.spotify.com/track/4yEkt1sfM6qziBykSESn7W"
     },
     {
       "added_at": "2026-07-06 04:12:09",
@@ -735,26 +755,6 @@
       "duration_ms": 361733,
       "name": "Tere Jane Se",
       "url": "https://open.spotify.com/track/5zfKHMv3fIwCdaz4H3f6Uz"
-    },
-    {
-      "added_at": "2026-07-06 04:12:09",
-      "album": {
-        "name": "Kya Batayein",
-        "url": "https://open.spotify.com/album/46ex4EWYffcfyxQdHGMcht"
-      },
-      "artists": [
-        {
-          "name": "Shraddha Pandit",
-          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
-        },
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        }
-      ],
-      "duration_ms": 260640,
-      "name": "Kya Batayein",
-      "url": "https://open.spotify.com/track/54DMShI0aIJm8LZTHJH6qG"
     },
     {
       "added_at": "2026-07-06 04:12:09",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2026-07-06 04:12:09",
       "album": {
+        "name": "The Great Ghazals",
+        "url": "https://open.spotify.com/album/09OSMi2qL8eeEwvD6czHdN"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Hussain",
+          "url": "https://open.spotify.com/artist/2bQv65MFDaU3dRb26fgNr1"
+        },
+        {
+          "name": "Mohammed Hussain",
+          "url": "https://open.spotify.com/artist/2PTznhNEX9D1uSb8ESYrB0"
+        }
+      ],
+      "duration_ms": 450373,
+      "name": "Nazar Mujhse",
+      "url": "https://open.spotify.com/track/2qAHkVmvyhcxgJqKXxnLIz"
+    },
+    {
+      "added_at": "2026-07-06 04:12:09",
+      "album": {
         "name": "Bekhudi Ishq Ki",
         "url": "https://open.spotify.com/album/4G1jCHowIxMGm1Qeg3wRex"
       },
@@ -1107,22 +1127,18 @@
     {
       "added_at": "2026-07-06 04:12:09",
       "album": {
-        "name": "The Great Ghazals",
-        "url": "https://open.spotify.com/album/09OSMi2qL8eeEwvD6czHdN"
+        "name": "Soulful Ghazals",
+        "url": "https://open.spotify.com/album/5npeS4QWzh2ONX9p1zOYxe"
       },
       "artists": [
         {
-          "name": "Ahmed Hussain",
-          "url": "https://open.spotify.com/artist/2bQv65MFDaU3dRb26fgNr1"
-        },
-        {
-          "name": "Mohammed Hussain",
-          "url": "https://open.spotify.com/artist/2PTznhNEX9D1uSb8ESYrB0"
+          "name": "Ashok Khosla",
+          "url": "https://open.spotify.com/artist/2fIO95bqKqcruVFfBV9fkb"
         }
       ],
-      "duration_ms": 450373,
-      "name": "Nazar Mujhse",
-      "url": "https://open.spotify.com/track/2qAHkVmvyhcxgJqKXxnLIz"
+      "duration_ms": 393160,
+      "name": "Ajnabi Shehar Mein",
+      "url": "https://open.spotify.com/track/0uXpXoYmYQJn7wIzP3Kllp"
     },
     {
       "added_at": "2026-07-06 04:12:09",
@@ -1143,22 +1159,6 @@
       "duration_ms": 297000,
       "name": "Wo Baat Kahan",
       "url": "https://open.spotify.com/track/4P2ye5Ocy41bUThs9r96Kz"
-    },
-    {
-      "added_at": "2026-07-06 04:12:09",
-      "album": {
-        "name": "Soulful Ghazals",
-        "url": "https://open.spotify.com/album/5npeS4QWzh2ONX9p1zOYxe"
-      },
-      "artists": [
-        {
-          "name": "Ashok Khosla",
-          "url": "https://open.spotify.com/artist/2fIO95bqKqcruVFfBV9fkb"
-        }
-      ],
-      "duration_ms": 393160,
-      "name": "Ajnabi Shehar Mein",
-      "url": "https://open.spotify.com/track/0uXpXoYmYQJn7wIzP3Kllp"
     },
     {
       "added_at": "2026-07-06 04:12:09",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-07-06 04:12:09",
       "album": {
+        "name": "Aaeena",
+        "url": "https://open.spotify.com/album/6Qs8oNyb6hc0GoUQfAbUe5"
+      },
+      "artists": [
+        {
+          "name": "Jagjit Singh",
+          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+        }
+      ],
+      "duration_ms": 305946,
+      "name": "Parakhana Mat",
+      "url": "https://open.spotify.com/track/6J3TdrT50xyN2BaYTSF2VF"
+    },
+    {
+      "added_at": "2026-07-06 04:12:09",
+      "album": {
         "name": "Vo Haseen Raat",
         "url": "https://open.spotify.com/album/3lgSHYWQ83jzYB5uOSiV5v"
       },
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2026-07-06 04:12:09",
       "album": {
-        "name": "Aaeena",
-        "url": "https://open.spotify.com/album/6Qs8oNyb6hc0GoUQfAbUe5"
+        "name": "Mehfilz with Papon - Irshad (From The Living Room)",
+        "url": "https://open.spotify.com/album/0TQpR0KAlDDgVifx1q8hPl"
       },
       "artists": [
         {
-          "name": "Jagjit Singh",
-          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
         }
       ],
-      "duration_ms": 305946,
-      "name": "Parakhana Mat",
-      "url": "https://open.spotify.com/track/6J3TdrT50xyN2BaYTSF2VF"
+      "duration_ms": 332413,
+      "name": "Bekhauf Mohabbat (Irshad - Mehfilz with Papon) (From The Living Room)",
+      "url": "https://open.spotify.com/track/1Hnj9t9qDKOom0HgI6KyTw"
     },
     {
       "added_at": "2026-07-06 04:12:09",
@@ -1235,22 +1251,6 @@
       "duration_ms": 276136,
       "name": "Ikhtiyar",
       "url": "https://open.spotify.com/track/5HxrUkU47ymZMMQBHVNZr4"
-    },
-    {
-      "added_at": "2026-07-06 04:12:09",
-      "album": {
-        "name": "Mehfilz with Papon - Irshad (From The Living Room)",
-        "url": "https://open.spotify.com/album/0TQpR0KAlDDgVifx1q8hPl"
-      },
-      "artists": [
-        {
-          "name": "Papon",
-          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
-        }
-      ],
-      "duration_ms": 332413,
-      "name": "Bekhauf Mohabbat (Irshad - Mehfilz with Papon) (From The Living Room)",
-      "url": "https://open.spotify.com/track/1Hnj9t9qDKOom0HgI6KyTw"
     },
     {
       "added_at": "2026-07-06 04:12:09",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-07-06 04:12:09",
       "album": {
-        "name": "Dil Pareshan Karta Hai",
-        "url": "https://open.spotify.com/album/0QShTKNJ3BzzNkny1w2qu3"
-      },
-      "artists": [
-        {
-          "name": "Sumeet Tappoo",
-          "url": "https://open.spotify.com/artist/6xOOEKbsrxfFVJ1hsso3Zf"
-        },
-        {
-          "name": "Gulzar",
-          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
-        }
-      ],
-      "duration_ms": 339376,
-      "name": "Samandar",
-      "url": "https://open.spotify.com/track/2aAyT3c7fuLPMTYvkmiIYG"
-    },
-    {
-      "added_at": "2026-07-06 04:12:09",
-      "album": {
         "name": "Ghazal Ho Gayi",
         "url": "https://open.spotify.com/album/6XAgeFUrZViCXtVKfw4o2i"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 220500,
       "name": "Phir Hui Shaam",
       "url": "https://open.spotify.com/track/21clDdrxC1f0PKvOh1A5Zi"
+    },
+    {
+      "added_at": "2026-07-06 04:12:09",
+      "album": {
+        "name": "Dil Pareshan Karta Hai",
+        "url": "https://open.spotify.com/album/0QShTKNJ3BzzNkny1w2qu3"
+      },
+      "artists": [
+        {
+          "name": "Sumeet Tappoo",
+          "url": "https://open.spotify.com/artist/6xOOEKbsrxfFVJ1hsso3Zf"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "duration_ms": 339376,
+      "name": "Samandar",
+      "url": "https://open.spotify.com/track/2aAyT3c7fuLPMTYvkmiIYG"
     },
     {
       "added_at": "2026-07-06 04:12:09",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2026-07-06 04:12:09",
       "album": {
+        "name": "Fauji 2",
+        "url": "https://open.spotify.com/album/6cxpqLhzdx09wp7qRfLp8B"
+      },
+      "artists": [
+        {
+          "name": "Jazim Sharma",
+          "url": "https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB"
+        },
+        {
+          "name": "Ahmad Faraz",
+          "url": "https://open.spotify.com/artist/2LJEfT1Ljm07p3iAU2Gclr"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Isse Pehle",
+      "url": "https://open.spotify.com/track/4KCtJWeuJTh4n7geCGG4nO"
+    },
+    {
+      "added_at": "2026-07-06 04:12:09",
+      "album": {
         "name": "Zikr Hamara Hai Magar (From - Izhaar-E-Ishq)",
         "url": "https://open.spotify.com/album/210Xmg0WOxgQ17S1eJJY83"
       },
@@ -1455,22 +1475,6 @@
       "duration_ms": 343360,
       "name": "Zikr Hamara Hai Magar (From - Izhaar-E-Ishq)",
       "url": "https://open.spotify.com/track/5raBN9JYslOZsjZjQ0UgjA"
-    },
-    {
-      "added_at": "2026-07-06 04:12:09",
-      "album": {
-        "name": "Tujhse Mohabbat (From - Izhaar-E-Ishq)",
-        "url": "https://open.spotify.com/album/1KhfQKzO0BjpwDupugvOkr"
-      },
-      "artists": [
-        {
-          "name": "Jazim Sharma",
-          "url": "https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB"
-        }
-      ],
-      "duration_ms": 304041,
-      "name": "Tujhse Mohabbat (From - Izhaar-E-Ishq)",
-      "url": "https://open.spotify.com/track/5DG2W3WACSbK5yFA1WpUiN"
     }
   ],
   "unique_name": "Golden Ghazals",

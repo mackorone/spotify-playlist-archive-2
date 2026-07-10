@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 880740,
+  "num_followers": 880837,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "S\u00e3o Paulo Motoboy",
-        "url": "https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 148600,
-      "name": "S\u00e3o Paulo Motoboy",
-      "url": "https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
         "name": "Earthology",
         "url": "https://open.spotify.com/album/4FXD1pVdJ5G690V7mRAFEL"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 199572,
       "name": "Safari Strut",
       "url": "https://open.spotify.com/track/1lDELORqnHLLTe1bYmHLq7"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "S\u00e3o Paulo Motoboy",
+        "url": "https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 148600,
+      "name": "S\u00e3o Paulo Motoboy",
+      "url": "https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -983,6 +983,22 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
+        "name": "Ka Rica-Tar",
+        "url": "https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg"
+      },
+      "artists": [
+        {
+          "name": "Karl Hector & The Malcouns",
+          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Kingdom of D'mt",
+      "url": "https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
         "name": "Kolaba",
         "url": "https://open.spotify.com/album/3VTLLiRXLrDxRqgOaA7yjW"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 238420,
       "name": "Kudaushe",
       "url": "https://open.spotify.com/track/7hGidl99Umesys0O0CzXTS"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
-        "name": "Ka Rica-Tar",
-        "url": "https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg"
-      },
-      "artists": [
-        {
-          "name": "Karl Hector & The Malcouns",
-          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Kingdom of D'mt",
-      "url": "https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
+        "name": "Moonshake",
+        "url": "https://open.spotify.com/album/5t6furplfi3sWXxezzQtQA"
+      },
+      "artists": [
+        {
+          "name": "Marcello Cassanelli",
+          "url": "https://open.spotify.com/artist/2Y2ZlBMCoDBEumOLdAbGcm"
+        },
+        {
+          "name": "Gabe Costa",
+          "url": "https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR"
+        }
+      ],
+      "duration_ms": 154445,
+      "name": "Moonshake",
+      "url": "https://open.spotify.com/track/6JmjLIr94qWA1rKOXdJgDL"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
         "name": "Found A Light (Beale Street)",
         "url": "https://open.spotify.com/album/3bryfCCYVWa9IpMyObn3PN"
       },
@@ -1087,6 +1107,22 @@
       "duration_ms": 436130,
       "name": "Found A Light (Beale Street)",
       "url": "https://open.spotify.com/track/09Btkoj4YIm36KVJqomiCE"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "Canti, Vol. 2",
+        "url": "https://open.spotify.com/album/0bKmrls3Qe9G6WyrBJeV4Q"
+      },
+      "artists": [
+        {
+          "name": "ONDAKEIKI",
+          "url": "https://open.spotify.com/artist/2sb3erMdYBN1W2jGtL14BG"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "Un cerchio",
+      "url": "https://open.spotify.com/track/79Ug46sAlyAIhMmptxe2zA"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1111,22 +1147,6 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Canti, Vol. 2",
-        "url": "https://open.spotify.com/album/0bKmrls3Qe9G6WyrBJeV4Q"
-      },
-      "artists": [
-        {
-          "name": "ONDAKEIKI",
-          "url": "https://open.spotify.com/artist/2sb3erMdYBN1W2jGtL14BG"
-        }
-      ],
-      "duration_ms": 278626,
-      "name": "Un cerchio",
-      "url": "https://open.spotify.com/track/79Ug46sAlyAIhMmptxe2zA"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
         "name": "Padremontes",
         "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 203778,
       "name": "Sondiram\u00e1",
       "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
-        "name": "Moonshake",
-        "url": "https://open.spotify.com/album/5t6furplfi3sWXxezzQtQA"
-      },
-      "artists": [
-        {
-          "name": "Marcello Cassanelli",
-          "url": "https://open.spotify.com/artist/2Y2ZlBMCoDBEumOLdAbGcm"
-        },
-        {
-          "name": "Gabe Costa",
-          "url": "https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR"
-        }
-      ],
-      "duration_ms": 154445,
-      "name": "Moonshake",
-      "url": "https://open.spotify.com/track/6JmjLIr94qWA1rKOXdJgDL"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Space Echo (Analog Africa No. 20)",
-        "url": "https://open.spotify.com/album/58gj8oagDeV8xq7ZWPaWNz"
+        "name": "Mount Matsu",
+        "url": "https://open.spotify.com/album/4pGx4kwa3nb51qACYJJkgB"
       },
       "artists": [
         {
-          "name": "Abel Lima",
-          "url": "https://open.spotify.com/artist/6IhMyPQwTBivqok4kKvMmh"
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
         }
       ],
-      "duration_ms": 188200,
-      "name": "Corre Riba, Corre Baixo",
-      "url": "https://open.spotify.com/track/3ln5s4LFL2hRnpTCddKEST"
+      "duration_ms": 324978,
+      "name": "Takahashi Timing",
+      "url": "https://open.spotify.com/track/07Waqz8Zkad6oM7dL4MNce"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Mount Matsu",
-        "url": "https://open.spotify.com/album/4pGx4kwa3nb51qACYJJkgB"
+        "name": "Space Echo (Analog Africa No. 20)",
+        "url": "https://open.spotify.com/album/58gj8oagDeV8xq7ZWPaWNz"
       },
       "artists": [
         {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+          "name": "Abel Lima",
+          "url": "https://open.spotify.com/artist/6IhMyPQwTBivqok4kKvMmh"
         }
       ],
-      "duration_ms": 324978,
-      "name": "Takahashi Timing",
-      "url": "https://open.spotify.com/track/07Waqz8Zkad6oM7dL4MNce"
+      "duration_ms": 188200,
+      "name": "Corre Riba, Corre Baixo",
+      "url": "https://open.spotify.com/track/3ln5s4LFL2hRnpTCddKEST"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
+        "name": "Weirdo",
+        "url": "https://open.spotify.com/album/1VMIAyfBq7OQN5XTgkV1p8"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "duration_ms": 291932,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6cyceLjnnc8JzkhhqGTbGz"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
         "name": "Robson Jorge e Lincoln Olivetti",
         "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 207234,
       "name": "Vem pra Casa",
       "url": "https://open.spotify.com/track/1ThUsFb2Vb5twgKrIAmVeF"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
-        "name": "Weirdo",
-        "url": "https://open.spotify.com/album/1VMIAyfBq7OQN5XTgkV1p8"
-      },
-      "artists": [
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        }
-      ],
-      "duration_ms": 291932,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/6cyceLjnnc8JzkhhqGTbGz"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Puro Mambo",
-        "url": "https://open.spotify.com/album/3To831Y2DDdp42fp2mDmnm"
+        "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
+        "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
       },
       "artists": [
         {
-          "name": "Buraka Som Sistema",
-          "url": "https://open.spotify.com/artist/6zUiRChNyL3HEezOd1Wjam"
+          "name": "kujipy",
+          "url": "https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs"
         }
       ],
-      "duration_ms": 169117,
-      "name": "Puro Mambo",
-      "url": "https://open.spotify.com/track/6Z9U6Xk4kQtziCcdEZfUzw"
+      "duration_ms": 448947,
+      "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
+      "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
-        "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
+        "name": "Puro Mambo",
+        "url": "https://open.spotify.com/album/3To831Y2DDdp42fp2mDmnm"
       },
       "artists": [
         {
-          "name": "kujipy",
-          "url": "https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs"
+          "name": "Buraka Som Sistema",
+          "url": "https://open.spotify.com/artist/6zUiRChNyL3HEezOd1Wjam"
         }
       ],
-      "duration_ms": 448947,
-      "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
-      "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
+      "duration_ms": 169117,
+      "name": "Puro Mambo",
+      "url": "https://open.spotify.com/track/6Z9U6Xk4kQtziCcdEZfUzw"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
+        "name": "Miniatures de auto rhythm",
+        "url": "https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 143617,
+      "name": "Faux savage",
+      "url": "https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
         "name": "Jamais Cal\u00e9",
         "url": "https://open.spotify.com/album/2M6gByDMC8pjO9VhFJrVCW"
       },
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Miniatures de auto rhythm",
-        "url": "https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn"
-      },
-      "artists": [
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 143617,
-      "name": "Faux savage",
-      "url": "https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
         "name": "Marvin",
         "url": "https://open.spotify.com/album/0JStflx0reeYHxiTIy0SQO"
       },
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "The Return of\u2026",
-        "url": "https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 224882,
-      "name": "Sunset Sound",
-      "url": "https://open.spotify.com/track/7c1pACjA4ahceDSuGEJspA"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
         "name": "Road Of The Lonely Ones",
         "url": "https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf"
       },
@@ -1675,18 +1659,18 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Killa's on da Loose",
-        "url": "https://open.spotify.com/album/2HHZuxkBr6NWXPsil0xSD8"
+        "name": "The Return of\u2026",
+        "url": "https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA"
       },
       "artists": [
         {
-          "name": "LUNA MAKI",
-          "url": "https://open.spotify.com/artist/5sV0gDazGixsbRNHPIs6F8"
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
         }
       ],
-      "duration_ms": 254453,
-      "name": "Killa's on da Loose",
-      "url": "https://open.spotify.com/track/1MoYps1hme7HBzM8TyQQbM"
+      "duration_ms": 224882,
+      "name": "Sunset Sound",
+      "url": "https://open.spotify.com/track/7c1pACjA4ahceDSuGEJspA"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1727,6 +1711,22 @@
       "duration_ms": 304178,
       "name": "Mama - D\u00e9ni-Shain & Mister Francky Remix",
       "url": "https://open.spotify.com/track/0LoVuHRdOFBhT61crHWyIo"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "Killa's on da Loose",
+        "url": "https://open.spotify.com/album/2HHZuxkBr6NWXPsil0xSD8"
+      },
+      "artists": [
+        {
+          "name": "LUNA MAKI",
+          "url": "https://open.spotify.com/artist/5sV0gDazGixsbRNHPIs6F8"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Killa's on da Loose",
+      "url": "https://open.spotify.com/track/1MoYps1hme7HBzM8TyQQbM"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Djanne",
-        "url": "https://open.spotify.com/album/3QkxgYHkAYDUQY3NxCZOdx"
-      },
-      "artists": [
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        }
-      ],
-      "duration_ms": 162707,
-      "name": "Djanne",
-      "url": "https://open.spotify.com/track/6A28wYLJErEQD6UryKE8Ct"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
         "name": "Tropicoso",
         "url": "https://open.spotify.com/album/481L9QkG0QiHGYBkDzqqsz"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 152600,
       "name": "Comencemos (Let's Start)",
       "url": "https://open.spotify.com/track/44kT6XsCkSGb9wNQ5qGXvg"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "Djanne",
+        "url": "https://open.spotify.com/album/3QkxgYHkAYDUQY3NxCZOdx"
+      },
+      "artists": [
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "duration_ms": 162707,
+      "name": "Djanne",
+      "url": "https://open.spotify.com/track/6A28wYLJErEQD6UryKE8Ct"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1959,22 +1959,18 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Beyond Our Shores",
-        "url": "https://open.spotify.com/album/3hpJyiPBMya8b1FKhyj75e"
+        "name": "Orb II",
+        "url": "https://open.spotify.com/album/6k78QLpwnOuAJOIcg6l95f"
       },
       "artists": [
         {
-          "name": "Valvetronic",
-          "url": "https://open.spotify.com/artist/0XbLVjYVNnVmy5mwjfI5i1"
-        },
-        {
-          "name": "Ntjam Rosie",
-          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
+          "name": "Meister Lampe",
+          "url": "https://open.spotify.com/artist/4KjUoFUS7MM53AJtofvn1i"
         }
       ],
-      "duration_ms": 170483,
-      "name": "You Got This",
-      "url": "https://open.spotify.com/track/2h2aS5GMCPRNLE0xvgci9j"
+      "duration_ms": 201626,
+      "name": "Dantokpa",
+      "url": "https://open.spotify.com/track/2eUMZhKSqfURd3aRZsfsAZ"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1999,22 +1995,6 @@
       "duration_ms": 150803,
       "name": "House Of Mirrors",
       "url": "https://open.spotify.com/track/0HvloGv9Nf8okpw3dO7HE1"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
-        "name": "Orb II",
-        "url": "https://open.spotify.com/album/6k78QLpwnOuAJOIcg6l95f"
-      },
-      "artists": [
-        {
-          "name": "Meister Lampe",
-          "url": "https://open.spotify.com/artist/4KjUoFUS7MM53AJtofvn1i"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Dantokpa",
-      "url": "https://open.spotify.com/track/2eUMZhKSqfURd3aRZsfsAZ"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -2055,6 +2035,26 @@
       "duration_ms": 267316,
       "name": "Bumay\u00e9 - Voilaaa Disco Remix",
       "url": "https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "Beyond Our Shores",
+        "url": "https://open.spotify.com/album/3hpJyiPBMya8b1FKhyj75e"
+      },
+      "artists": [
+        {
+          "name": "Valvetronic",
+          "url": "https://open.spotify.com/artist/0XbLVjYVNnVmy5mwjfI5i1"
+        },
+        {
+          "name": "Ntjam Rosie",
+          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
+        }
+      ],
+      "duration_ms": 170483,
+      "name": "You Got This",
+      "url": "https://open.spotify.com/track/2h2aS5GMCPRNLE0xvgci9j"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Countryman '82",
-        "url": "https://open.spotify.com/album/5TANOhy2EyTNRjaUhUrhul"
-      },
-      "artists": [
-        {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
-        }
-      ],
-      "duration_ms": 243442,
-      "name": "Countryman '82",
-      "url": "https://open.spotify.com/track/2FLejaz3c5gLUMViFIjddZ"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
         "name": "The Age of Aquarius",
         "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 235706,
       "name": "Move on Up",
       "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "Countryman '82",
+        "url": "https://open.spotify.com/album/5TANOhy2EyTNRjaUhUrhul"
+      },
+      "artists": [
+        {
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+        }
+      ],
+      "duration_ms": 243442,
+      "name": "Countryman '82",
+      "url": "https://open.spotify.com/track/2FLejaz3c5gLUMViFIjddZ"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -2267,18 +2267,18 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Of The Earth",
-        "url": "https://open.spotify.com/album/1WLCmU6lTy0OqC1ALX4wfJ"
+        "name": "Kodak",
+        "url": "https://open.spotify.com/album/0VxK1HxAonoEU6mdVTQqdD"
       },
       "artists": [
         {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Step Lightly",
-      "url": "https://open.spotify.com/track/2vRvwjEa5SFu7BXhdfuFik"
+      "duration_ms": 176083,
+      "name": "Kodak",
+      "url": "https://open.spotify.com/track/61JId4cKxT37dAx8Ugy49k"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -2299,18 +2299,18 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Kodak",
-        "url": "https://open.spotify.com/album/0VxK1HxAonoEU6mdVTQqdD"
+        "name": "Of The Earth",
+        "url": "https://open.spotify.com/album/1WLCmU6lTy0OqC1ALX4wfJ"
       },
       "artists": [
         {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
         }
       ],
-      "duration_ms": 176083,
-      "name": "Kodak",
-      "url": "https://open.spotify.com/track/61JId4cKxT37dAx8Ugy49k"
+      "duration_ms": 264000,
+      "name": "Step Lightly",
+      "url": "https://open.spotify.com/track/2vRvwjEa5SFu7BXhdfuFik"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -2391,6 +2391,26 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
+        "name": "Hafa",
+        "url": "https://open.spotify.com/album/2kv0GcPQvtQgDnUpTmlDSI"
+      },
+      "artists": [
+        {
+          "name": "iZem",
+          "url": "https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r"
+        },
+        {
+          "name": "Nina Miranda",
+          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
+        }
+      ],
+      "duration_ms": 249982,
+      "name": "Agua Viva",
+      "url": "https://open.spotify.com/track/5qQviPvlrLAezMa8EzmZev"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
         "name": "Encontrar",
         "url": "https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs"
       },
@@ -2443,22 +2463,18 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Hafa",
-        "url": "https://open.spotify.com/album/2kv0GcPQvtQgDnUpTmlDSI"
+        "name": "KB's Mixtape No. 2",
+        "url": "https://open.spotify.com/album/4Kf6c23vulrmowV1rj3iHP"
       },
       "artists": [
         {
-          "name": "iZem",
-          "url": "https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r"
-        },
-        {
-          "name": "Nina Miranda",
-          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
+          "name": "Karate Boogaloo",
+          "url": "https://open.spotify.com/artist/6D1VqVFh9yM5oARLleWNpQ"
         }
       ],
-      "duration_ms": 249982,
-      "name": "Agua Viva",
-      "url": "https://open.spotify.com/track/5qQviPvlrLAezMa8EzmZev"
+      "duration_ms": 304333,
+      "name": "Juicy Fruit",
+      "url": "https://open.spotify.com/track/2K7h1g3vxQZEFPisYq0Qlv"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -2499,22 +2515,6 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "KB's Mixtape No. 2",
-        "url": "https://open.spotify.com/album/4Kf6c23vulrmowV1rj3iHP"
-      },
-      "artists": [
-        {
-          "name": "Karate Boogaloo",
-          "url": "https://open.spotify.com/artist/6D1VqVFh9yM5oARLleWNpQ"
-        }
-      ],
-      "duration_ms": 304333,
-      "name": "Juicy Fruit",
-      "url": "https://open.spotify.com/track/2K7h1g3vxQZEFPisYq0Qlv"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
         "name": "Cinema Sound System",
         "url": "https://open.spotify.com/album/3lZBuGE2PBHtI3gkSoaMXv"
       },
@@ -2543,6 +2543,22 @@
       "duration_ms": 208444,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/09NQA1y2NeEWxhqNBveQQY"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "Fully Loaded",
+        "url": "https://open.spotify.com/album/5JdrXJhIxq21tkQTTf8BoV"
+      },
+      "artists": [
+        {
+          "name": "Magnum",
+          "url": "https://open.spotify.com/artist/3NCYHagstCfaXKU2WoAAXP"
+        }
+      ],
+      "duration_ms": 350600,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/60lRT01X553ode0LvndRf0"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -2579,38 +2595,18 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Fully Loaded",
-        "url": "https://open.spotify.com/album/5JdrXJhIxq21tkQTTf8BoV"
+        "name": "A Trip To Bolgatanga",
+        "url": "https://open.spotify.com/album/5bsoJcFeIoL6g1AdSZcy14"
       },
       "artists": [
         {
-          "name": "Magnum",
-          "url": "https://open.spotify.com/artist/3NCYHagstCfaXKU2WoAAXP"
+          "name": "African Head Charge",
+          "url": "https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ"
         }
       ],
-      "duration_ms": 350600,
-      "name": "Evolution",
-      "url": "https://open.spotify.com/track/60lRT01X553ode0LvndRf0"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
-        "name": "Mira Bien",
-        "url": "https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU"
-      },
-      "artists": [
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 207386,
-      "name": "Mira Bien",
-      "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
+      "duration_ms": 223280,
+      "name": "Microdosing",
+      "url": "https://open.spotify.com/track/08yH12opbafXqCAYPEsWTm"
     },
     {
       "added_at": "2026-06-25 22:02:54",

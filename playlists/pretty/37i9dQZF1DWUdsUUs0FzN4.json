@@ -1,6 +1,6 @@
 {
   "description": "bailando en el antro con Karlo hasta el amanecer ",
-  "num_followers": 24495,
+  "num_followers": 24497,
   "original_name": "ANTRO ",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
+        "name": "ITALO MIXTAPE",
+        "url": "https://open.spotify.com/album/6LEuKXo8oyW8NIJ6kjgkkG"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Vestre",
+          "url": "https://open.spotify.com/artist/5G6MDceucqUd5LBH2wOlpb"
+        }
+      ],
+      "duration_ms": 171172,
+      "name": "PERDI\u00c9NDOME EN EL MOOD",
+      "url": "https://open.spotify.com/track/0ItH0fsYJ9YLLf59nFLjtv"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
         "name": "ATP",
         "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 181200,
       "name": "BOBOMENSOTONTO",
       "url": "https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
-        "name": "ITALO MIXTAPE",
-        "url": "https://open.spotify.com/album/6LEuKXo8oyW8NIJ6kjgkkG"
-      },
-      "artists": [
-        {
-          "name": "F\u00e9lix Vestre",
-          "url": "https://open.spotify.com/artist/5G6MDceucqUd5LBH2wOlpb"
-        }
-      ],
-      "duration_ms": 171172,
-      "name": "PERDI\u00c9NDOME EN EL MOOD",
-      "url": "https://open.spotify.com/track/0ItH0fsYJ9YLLf59nFLjtv"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
+        "name": "ai nostalgia",
+        "url": "https://open.spotify.com/album/1lzvc6Q7bjThtfFjP4J5PE"
+      },
+      "artists": [
+        {
+          "name": "iuky",
+          "url": "https://open.spotify.com/artist/0DSyNVb6qcsOmbTTN1Yzs9"
+        }
+      ],
+      "duration_ms": 138559,
+      "name": "superloved!",
+      "url": "https://open.spotify.com/track/24LSHVR39KTK8Y0kQngmBv"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
         "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
         "url": "https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 147586,
       "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
       "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
-        "name": "ai nostalgia",
-        "url": "https://open.spotify.com/album/1lzvc6Q7bjThtfFjP4J5PE"
-      },
-      "artists": [
-        {
-          "name": "iuky",
-          "url": "https://open.spotify.com/artist/0DSyNVb6qcsOmbTTN1Yzs9"
-        }
-      ],
-      "duration_ms": 138559,
-      "name": "superloved!",
-      "url": "https://open.spotify.com/track/24LSHVR39KTK8Y0kQngmBv"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "Todav\u00eda No",
-        "url": "https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq"
-      },
-      "artists": [
-        {
-          "name": "Karlo",
-          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
-        },
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 245669,
-      "name": "Todav\u00eda No",
-      "url": "https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
         "name": "ROKALETA!",
         "url": "https://open.spotify.com/album/0lvjK0WwoO0eKXScQaPQlI"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 168058,
       "name": "ROKALETA!",
       "url": "https://open.spotify.com/track/0lt39TTaP09rUJspqQxvQa"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
+        "name": "Todav\u00eda No",
+        "url": "https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq"
+      },
+      "artists": [
+        {
+          "name": "Karlo",
+          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 245669,
+      "name": "Todav\u00eda No",
+      "url": "https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
+        "name": "Shippeo",
+        "url": "https://open.spotify.com/album/4DhwrVu3V0UOIZKWCW10pp"
+      },
+      "artists": [
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Shippeo",
+      "url": "https://open.spotify.com/track/0Fpf1FiEbWfr8rPWmibpLE"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
         "name": "raxets",
         "url": "https://open.spotify.com/album/7E2h45zRGDsMo3hFLNhX4Z"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 114893,
       "name": "raxets",
       "url": "https://open.spotify.com/track/2Qh4VZQvEuoR0rm6ZjKzar"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
-        "name": "Shippeo",
-        "url": "https://open.spotify.com/album/4DhwrVu3V0UOIZKWCW10pp"
-      },
-      "artists": [
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Shippeo",
-      "url": "https://open.spotify.com/track/0Fpf1FiEbWfr8rPWmibpLE"
     },
     {
       "added_at": "2026-06-26 06:00:38",

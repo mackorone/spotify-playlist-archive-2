@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1643676,
+  "num_followers": 1643866,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -107,26 +107,6 @@
     {
       "added_at": "2026-06-11 16:08:55",
       "album": {
-        "name": "Instrumental Relics",
-        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
-      },
-      "artists": [
-        {
-          "name": "Clams Casino",
-          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
-        },
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        }
-      ],
-      "duration_ms": 277710,
-      "name": "I'm God",
-      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
-    },
-    {
-      "added_at": "2026-06-11 16:08:55",
-      "album": {
         "name": "LEGACY (slowed down)",
         "url": "https://open.spotify.com/album/7ehm1EBMZUZbpVwnNfCBjj"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 161765,
       "name": "LEGACY (slowed down)",
       "url": "https://open.spotify.com/track/0yFLCs151QFUOufMSti5Xo"
+    },
+    {
+      "added_at": "2026-06-11 16:08:55",
+      "album": {
+        "name": "Instrumental Relics",
+        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
+      },
+      "artists": [
+        {
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 277710,
+      "name": "I'm God",
+      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
     },
     {
       "added_at": "2026-06-11 16:08:55",

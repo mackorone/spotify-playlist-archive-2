@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 178300,
+  "num_followers": 178319,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAAxeJb8JPgzIDIHDBiI7iv3",
+  "snapshot_id": "ak2TAAAAAAAiA0dFtRcBgZqzgT2xvkZg",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ricochet",
-        "url": "https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 201778,
-      "name": "Us Against The World",
-      "url": "https://open.spotify.com/track/45AMYmUDGuo5UfrHzbITka"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ghost Note Symphonies, Vol.1",
         "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 142892,
       "name": "Faint Resemblance - Ghost Note Symphonies",
       "url": "https://open.spotify.com/track/6RTDyHa1vdrRLUNvFOH4Ry"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 201778,
+      "name": "Us Against The World",
+      "url": "https://open.spotify.com/track/45AMYmUDGuo5UfrHzbITka"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ricochet",
-        "url": "https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 223532,
-      "name": "Damage Is Done",
-      "url": "https://open.spotify.com/track/0DZS3FxH7OhNLsHHQcaKMb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ghost Note Symphonies, Vol.1",
         "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 233553,
       "name": "Far From Perfect - Ghost Note Symphonies",
       "url": "https://open.spotify.com/track/5k1pZ19vT32fzCSeqRL26v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 223532,
+      "name": "Damage Is Done",
+      "url": "https://open.spotify.com/track/0DZS3FxH7OhNLsHHQcaKMb"
     },
     {
       "added_at": null,

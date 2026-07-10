@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Tous les hits latino du moment sont ici. Photo : Ozuna",
+  "description": "Tous les hits latino du moment sont ici. Photo : Shakira x Burna Boy",
   "name": "Caliente",
   "tracks": [
     {
@@ -2014,7 +2014,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 177742,
       "name": "Comme au cin\u00e9ma",
       "url": "https://open.spotify.com/track/6ulsztRQFzuHNWswC3bzjF"
@@ -2928,7 +2928,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 180493,
       "name": "Dosis",
       "url": "https://open.spotify.com/track/6VUGq7Gi6q5luloeeROI6W"
@@ -4373,6 +4373,32 @@
     },
     {
       "album": {
+        "name": "Muchacho Alegre",
+        "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193849,
+      "name": "Hay Con Que",
+      "url": "https://open.spotify.com/track/5LWQAJftnMD7SZAZhwH9CQ"
+    },
+    {
+      "album": {
         "name": "Heroina",
         "url": "https://open.spotify.com/album/3EF4FDNvaA9bW5fp9YdGHQ"
       },
@@ -4713,6 +4739,28 @@
     },
     {
       "album": {
+        "name": "Joven y Salvaje (with Bb trickz)",
+        "url": "https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk"
+      },
+      "artists": [
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122703,
+      "name": "Joven y Salvaje (with Bb trickz)",
+      "url": "https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ"
+    },
+    {
+      "album": {
         "name": "K HUBO PS MOR",
         "url": "https://open.spotify.com/album/4vmg2S2isfFP5l9Sc6Qvjw"
       },
@@ -5014,6 +5062,28 @@
       "duration_ms": 199807,
       "name": "LA GUARACHA (Oh Oh Oh)",
       "url": "https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM"
+    },
+    {
+      "album": {
+        "name": "La Monda",
+        "url": "https://open.spotify.com/album/2Z4jEq2zHhWK9XagSRjnTV"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176481,
+      "name": "La Monda",
+      "url": "https://open.spotify.com/track/7cIyY45Uw7NIWkVt3QkbsH"
     },
     {
       "album": {
@@ -5509,6 +5579,28 @@
     },
     {
       "album": {
+        "name": "LOCA",
+        "url": "https://open.spotify.com/album/2wnaEz6OTA8VUzQSpR7i2E"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191304,
+      "name": "LOCA",
+      "url": "https://open.spotify.com/track/1t6A6AZZ8RyVPWrrO6aX3b"
+    },
+    {
+      "album": {
         "name": "Loco Contigo",
         "url": "https://open.spotify.com/album/6K1zeBOnzT2Yl20rY0vVvp"
       },
@@ -5736,7 +5828,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 125560,
       "name": "Mal o Bien",
       "url": "https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4"
@@ -8038,7 +8130,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 171028,
       "name": "ROMO",
       "url": "https://open.spotify.com/track/2FNmcj4i3DHZLWB1Idx1H3"

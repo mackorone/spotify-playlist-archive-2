@@ -2,7 +2,7 @@
 
 ### [trend 2026](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\.  Kapak: Yalın
+> viral, trend ve yükselenler\.  Kapak: Hadise
 
 297 songs - 15 hr 3 min
 

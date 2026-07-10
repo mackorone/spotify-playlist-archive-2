@@ -4,11 +4,12 @@
 
 > The numb flavor of depression
 
-33 songs - 1 hr 54 min
+34 songs - 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A TV Show Called Earth](https://open.spotify.com/track/0htdbSx3Z3dRU6GcaQrNBD) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [A TV Show Called Earth](https://open.spotify.com/album/6ISLeFSTZIVxxKrPY3DGq7) | 3:22 | 2023-07-09 | 2024-10-01 |
+| [Alien Boy](https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4) | 2:44 | 2026-07-09 |  |
 | [Billy The Kid's Dream Of The Magic Shoes](https://open.spotify.com/track/6UKIygZDcwFy8uOpP8tbjC) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Protein Source Of The Future..\. Now!](https://open.spotify.com/album/51m8MbCu9l4ecj1PhkShHF) | 2:06 | 2024-11-20 |  |
 | [Birth of Serpents](https://open.spotify.com/track/0KMHoeMX9IOY7IoWDVtpVy) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Eternals Deck](https://open.spotify.com/album/3SkG4Alb9sIniRsJiXwlYX) | 3:07 | 2023-03-03 |  |
 | [Bottom of the Pit \(feat\. Sam Haft\)](https://open.spotify.com/track/3JIkMEel91cKJoqZLpit1K) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [In Sound Mind \- Original Soundtrack](https://open.spotify.com/album/1xkfat7ew4UZejTX9F7LDr) | 4:00 | 2026-02-24 |  |

@@ -978,7 +978,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 146823,
       "name": "Arike - Remix",
       "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
@@ -6231,6 +6231,24 @@
     },
     {
       "album": {
+        "name": "Heaven On Earth",
+        "url": "https://open.spotify.com/album/3EZETRmlze91iyz6HoyHfX"
+      },
+      "artists": [
+        {
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235636,
+      "name": "Heaven On Earth",
+      "url": "https://open.spotify.com/track/7r9qkWxCONSuZ3tDYrIBFi"
+    },
+    {
+      "album": {
         "name": "adedamola",
         "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
       },
@@ -6542,6 +6560,28 @@
       "duration_ms": 160000,
       "name": "Hot Body",
       "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
+    },
+    {
+      "album": {
+        "name": "Hot Like You",
+        "url": "https://open.spotify.com/album/7qZ4gXpWsgc2ob6Vqeudlr"
+      },
+      "artists": [
+        {
+          "name": "Sol Generation",
+          "url": "https://open.spotify.com/artist/1RtDEotXrlKLQtHlnQJ7bX"
+        },
+        {
+          "name": "Savara",
+          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161139,
+      "name": "Hot Like You",
+      "url": "https://open.spotify.com/track/2nYHjEx9E1OpMnehHOTspo"
     },
     {
       "album": {
@@ -9126,7 +9166,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 220606,
       "name": "Luv Again",
       "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"

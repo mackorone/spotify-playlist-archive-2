@@ -2,9 +2,9 @@
 
 ### [X\-Over ジャズ!](https://open.spotify.com/playlist/37i9dQZF1DX4KVW02Geer9)
 
-> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: リアナ・フローレス
+> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: aron!
 
-583 songs - 1 day 17 hr 55 min
+585 songs - 1 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [No Rulebook](https://open.spotify.com/track/4OVZT61Hd24Q4p1cux4BJ3) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [No Rulebook](https://open.spotify.com/album/39t8KDt3ldQzwukKwlxbZL) | 3:53 | 2024-07-11 | 2025-01-17 |
 | [No Title](https://open.spotify.com/track/6ZbR1rdeVaqpc8dZexbmSg) | [Jun Miyakawa](https://open.spotify.com/artist/5KdoAx6uSh0kTvYYxVnPfj), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [The Way \(Deluxe Edition\)](https://open.spotify.com/album/1k06f2ViOox957pPj2va5h) | 6:12 | 2025-07-24 | 2025-12-12 |
 | [NOD YORC \(feat\. James Maddren\)](https://open.spotify.com/track/3Iev06PYajWQzH4CMQE78z) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [James Maddren](https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw) | [NOD YORC \(feat\. James Maddren\)](https://open.spotify.com/album/5g3r747VexI56BdgzoyQi2) | 5:41 | 2025-07-10 | 2025-11-28 |
+| [Not For A Lack Of Trying](https://open.spotify.com/track/7up1fKKwZSVVQJsfcVGPeo) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [Not For A Lack Of Trying](https://open.spotify.com/album/1nK1WPgFCJmY258Q0cfKe3) | 2:34 | 2026-07-09 |  |
 | [Not today](https://open.spotify.com/track/1qc7OiZej7ah818tYefk1R) | [ZIW](https://open.spotify.com/artist/7ijz6PFdK9juJmaKs75KHa), [Yuka Kawabata](https://open.spotify.com/artist/5EnPzvbgBpteSYgt9A3Tpr) | [Not today](https://open.spotify.com/album/4ey0qdzpCg3g6fPFAdMlNi) | 3:28 | 2026-05-19 |  |
 | [Nothing Much](https://open.spotify.com/track/3e8p14OhUmrHbugk5aSg8f) | [The O'My's](https://open.spotify.com/artist/1GQx6SUIHxDC1mRIFIpslD), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Nothing Much](https://open.spotify.com/album/2WGQ4kDAjeqZze2a2LzFTz) | 4:46 | 2024-09-19 | 2025-02-07 |
 | [Nothing New](https://open.spotify.com/track/5lVa0Xk92kBLl1Pbg1Gf8Z) | [INSTANT ALTER](https://open.spotify.com/artist/4fKUw2uU0uGJJUe523yzIf), [Natasha Agrama](https://open.spotify.com/artist/5IPHEpzQLhUPfrqt4BatR5), [Emilio Modeste](https://open.spotify.com/artist/3nzBo4Edo33cChnzfyraEG) | [Nothing New](https://open.spotify.com/album/46FslfGTc7UaEi5sgmIjyn) | 5:21 | 2025-07-24 | 2025-10-17 |
@@ -544,6 +545,7 @@
 | [What We Are and What We Are Meant to Be](https://open.spotify.com/track/6vWyxdcmw1wpXiqU0CtSJc) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [What We Are and What We Are Meant to Be](https://open.spotify.com/album/6c6eYEx2vp7nOhc9aI4Knh) | 5:37 | 2025-05-08 | 2025-05-16 |
 | [when pluto was a planet and everything was cool](https://open.spotify.com/track/5SuV2j2prZrJh4zC05DCF3) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [when pluto was a planet and everything was cool](https://open.spotify.com/album/3NhWY2wHzILoo85qEUhApH) | 5:33 | 2025-07-03 | 2025-11-28 |
 | [WHEN YOUR OWN INITIALS ARE ENOUGH](https://open.spotify.com/track/0huE46kfj5EC4TqEWw5Be5) | [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [SUNDANCE FOR BOTTEGA VENETA](https://open.spotify.com/album/4Ds0rPkwGrxsHSqysy8IoR) | 3:09 | 2025-08-19 | 2026-04-10 |
+| [Where the Fog Sleeps: 散文, 2026 Jul.](https://open.spotify.com/track/12klLUvj9V2NedmQtwdjDs) | [三田珠理](https://open.spotify.com/artist/2HTIBIzcYQYA5rcOTsHIws) | [Where the Fog Sleeps: 散文, 2026 Jul.](https://open.spotify.com/album/2zGDJHGVOAqeE2wb8UX0J8) | 1:31 | 2026-07-09 |  |
 | [WHIP.wav](https://open.spotify.com/track/4wZ0xrGMdZ9gzqEl68dmqh) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [WHIP.wav](https://open.spotify.com/album/0GHT8jE2JMWAcMvzigrIUC) | 1:38 | 2024-10-17 | 2025-01-24 |
 | [Who Cares 1](https://open.spotify.com/track/4gCVhvI8Nk9esdj1wz4MOq) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [nothing](https://open.spotify.com/album/1hD0obPJIc7yi3RwwREblP) | 1:44 | 2024-08-08 | 2024-11-29 |
 | [Who is "LH"?](https://open.spotify.com/track/6LzMDXrQThX499lfG5ZMU9) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN) | [Who is “LAGHEADS”?](https://open.spotify.com/album/52iASbVYgjcsSasw8D0KZY) | 1:28 | 2025-03-13 | 2025-05-02 |

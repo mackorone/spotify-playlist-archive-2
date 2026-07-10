@@ -96,7 +96,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 243880,
       "name": "(When You Gonna) Give It Up to Me - Radio Version",
       "url": "https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"
@@ -3883,6 +3883,28 @@
     },
     {
       "album": {
+        "name": "BATUT",
+        "url": "https://open.spotify.com/album/0Phe8iwXf7qSnH7Xwyqqoc"
+      },
+      "artists": [
+        {
+          "name": "KSIOR",
+          "url": "https://open.spotify.com/artist/2NuYz10D2u4pbBUb9zVCQ6"
+        },
+        {
+          "name": "SISS",
+          "url": "https://open.spotify.com/artist/1URQKyDhNbxD42pNxdpctn"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161428,
+      "name": "BATUT",
+      "url": "https://open.spotify.com/track/0cGSVOwXOlDrPpjV2lJthP"
+    },
+    {
+      "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
       },
@@ -5546,6 +5568,24 @@
       "duration_ms": 122772,
       "name": "Build a Bitch",
       "url": "https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q"
+    },
+    {
+      "album": {
+        "name": "Is this love",
+        "url": "https://open.spotify.com/album/63X3DYzk3CGfjYG8w7gvTo"
+      },
+      "artists": [
+        {
+          "name": "Fiki",
+          "url": "https://open.spotify.com/artist/7JLPN5CklYCRotAvFGw4Q1"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256836,
+      "name": "Bum",
+      "url": "https://open.spotify.com/track/5o9rVT7VQm2EzFLClPfcN3"
     },
     {
       "album": {
@@ -19886,7 +19926,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 200283,
       "name": "Koya",
       "url": "https://open.spotify.com/track/7AG1ltHqHdUl9BEaq6QniG"
@@ -25340,7 +25380,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 239998,
       "name": "Na tebe ne otkazvam",
       "url": "https://open.spotify.com/track/5qXynMZJAEsLz00X6BTq9q"
@@ -30798,7 +30838,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 223698,
       "name": "Rezhim Neprilichna",
       "url": "https://open.spotify.com/track/1BDsCVdpvuR5qku8n8LUqG"
@@ -42950,7 +42990,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 189176,
       "name": "\u0411\u0430\u043c \u0411\u0430\u043c \u0411\u0430\u043c",
       "url": "https://open.spotify.com/track/3cKFXnDX2AqTrLXGPIBI6j"
@@ -43834,7 +43874,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 248000,
       "name": "\u0413\u0440\u0435\u0448\u043d\u0438\u0446\u0438",
       "url": "https://open.spotify.com/track/6W2jsJG6MPPJ6xTWcNEeHr"
@@ -44192,7 +44232,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 205102,
       "name": "\u0414\u0438\u0441\u043a\u043e\u0442\u0435\u043a\u0430",
       "url": "https://open.spotify.com/track/7DLnkcz4EU04ghpTIQcEqL"
@@ -46654,7 +46694,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-08",
+      "date_removed": null,
       "duration_ms": 203624,
       "name": "\u041c\u043e\u0435\u0442\u043e \u0441\u043b\u0430\u0431\u043e \u043c\u044f\u0441\u0442\u043e",
       "url": "https://open.spotify.com/track/46YeHpvSWbG2pHRlMcC5Rp"

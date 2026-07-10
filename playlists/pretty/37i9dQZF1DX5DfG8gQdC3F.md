@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Releases from Céline Dion, Madonna, SIENNA SPIRO, STELLA LEFTY, Zeds Dead, Riley Green, Jorja Smith, and Goldie Boutilier.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,037 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,012 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

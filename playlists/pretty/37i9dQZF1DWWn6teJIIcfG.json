@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 222726,
+  "num_followers": 222724,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -535,26 +535,6 @@
     {
       "added_at": "2026-07-03 04:00:48",
       "album": {
-        "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
-        "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Murray Perahia",
-          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Lieder ohne Worte, Op. 19, No. 1",
-      "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
-    },
-    {
-      "added_at": "2026-07-03 04:00:48",
-      "album": {
         "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
         "url": "https://open.spotify.com/album/0f1utxCEh4RRCXVPQYfhXG"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 210026,
       "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
       "url": "https://open.spotify.com/track/6QAGeFtnxxXGN8sig88JEC"
+    },
+    {
+      "added_at": "2026-07-03 04:00:48",
+      "album": {
+        "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
+        "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Lieder ohne Worte, Op. 19, No. 1",
+      "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
     },
     {
       "added_at": "2026-07-03 04:00:48",
@@ -639,26 +639,6 @@
     {
       "added_at": "2026-07-03 04:00:48",
       "album": {
-        "name": "Gjeilo: Winter Light",
-        "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
-      },
-      "artists": [
-        {
-          "name": "Ola Gjeilo",
-          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
-        },
-        {
-          "name": "Roberto Sorrentino",
-          "url": "https://open.spotify.com/artist/0qMo8J1UbKsYkjFjS2PwRH"
-        }
-      ],
-      "duration_ms": 170080,
-      "name": "Winter Light",
-      "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
-    },
-    {
-      "added_at": "2026-07-03 04:00:48",
-      "album": {
         "name": "Glass: Tissue No. 7 (Musical Moments)",
         "url": "https://open.spotify.com/album/6NLMY1DYWgGhKq0c1pjlZs"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 195712,
       "name": "Tissue No. 7",
       "url": "https://open.spotify.com/track/5PIijxAWbWAOvJ3TKhejPA"
+    },
+    {
+      "added_at": "2026-07-03 04:00:48",
+      "album": {
+        "name": "Gjeilo: Winter Light",
+        "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        },
+        {
+          "name": "Roberto Sorrentino",
+          "url": "https://open.spotify.com/artist/0qMo8J1UbKsYkjFjS2PwRH"
+        }
+      ],
+      "duration_ms": 170080,
+      "name": "Winter Light",
+      "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
     },
     {
       "added_at": "2026-07-03 04:00:48",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2026-07-03 04:00:48",
       "album": {
-        "name": "Chill With Chopin",
-        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Idil Biret",
-          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
-        }
-      ],
-      "duration_ms": 294120,
-      "name": "Andante spiniato in G: Allegro maestoso",
-      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
-    },
-    {
-      "added_at": "2026-07-03 04:00:48",
-      "album": {
         "name": "Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo (Elaborations by See Siang Wong)",
         "url": "https://open.spotify.com/album/0nBAiJGtx3LFsvjGxyPnUK"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 156080,
       "name": "Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo (Elaborations by See Siang Wong)",
       "url": "https://open.spotify.com/track/2DiUfuknJX3bTHw5zgyTnu"
+    },
+    {
+      "added_at": "2026-07-03 04:00:48",
+      "album": {
+        "name": "Chill With Chopin",
+        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "duration_ms": 294120,
+      "name": "Andante spiniato in G: Allegro maestoso",
+      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
     },
     {
       "added_at": "2026-07-03 04:00:48",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2026-07-03 04:00:48",
       "album": {
-        "name": "Bach: Inventions & Sinfonias",
-        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Simone Dinnerstein",
-          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
-        }
-      ],
-      "duration_ms": 98120,
-      "name": "Invention No. 14 in B-Flat Major, BWV 785",
-      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
-    },
-    {
-      "added_at": "2026-07-03 04:00:48",
-      "album": {
         "name": "Telemann Collection",
         "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
       },
@@ -1363,6 +1343,62 @@
       "duration_ms": 65080,
       "name": "Ouverture-Suite in D Minor, TWV 55:d2: II. Rondeau",
       "url": "https://open.spotify.com/track/5i640tjpGNKyvSaYP3eEwC"
+    },
+    {
+      "added_at": "2026-07-03 04:00:48",
+      "album": {
+        "name": "Bach: Inventions & Sinfonias",
+        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+        }
+      ],
+      "duration_ms": 98120,
+      "name": "Invention No. 14 in B-Flat Major, BWV 785",
+      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
+    },
+    {
+      "added_at": "2026-07-03 04:00:48",
+      "album": {
+        "name": "Nocturnes, Vol. 1",
+        "url": "https://open.spotify.com/album/1vyghybQ8nn2KHljaM98ky"
+      },
+      "artists": [
+        {
+          "name": "Valmandel",
+          "url": "https://open.spotify.com/artist/4SfzZsFdmM7mpqtSfli7UU"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "Nocturne No. 6, Serenity",
+      "url": "https://open.spotify.com/track/3BJg9HfpoSgoFK3YJA591v"
+    },
+    {
+      "added_at": "2026-07-03 04:00:48",
+      "album": {
+        "name": "H\u00e4ndel: Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
+        "url": "https://open.spotify.com/album/4apxJCjtmQUME6ljfVg2iK"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "duration_ms": 71262,
+      "name": "Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
+      "url": "https://open.spotify.com/track/3ep7uabl9lyY5A6JpdgAtl"
     },
     {
       "added_at": "2026-07-03 04:00:48",
@@ -1395,26 +1431,6 @@
     {
       "added_at": "2026-07-03 04:00:48",
       "album": {
-        "name": "H\u00e4ndel: Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
-        "url": "https://open.spotify.com/album/4apxJCjtmQUME6ljfVg2iK"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
-        }
-      ],
-      "duration_ms": 71262,
-      "name": "Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
-      "url": "https://open.spotify.com/track/3ep7uabl9lyY5A6JpdgAtl"
-    },
-    {
-      "added_at": "2026-07-03 04:00:48",
-      "album": {
         "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
         "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 153640,
       "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
       "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
-    },
-    {
-      "added_at": "2026-07-03 04:00:48",
-      "album": {
-        "name": "Nocturnes, Vol. 1",
-        "url": "https://open.spotify.com/album/1vyghybQ8nn2KHljaM98ky"
-      },
-      "artists": [
-        {
-          "name": "Valmandel",
-          "url": "https://open.spotify.com/artist/4SfzZsFdmM7mpqtSfli7UU"
-        }
-      ],
-      "duration_ms": 166466,
-      "name": "Nocturne No. 6, Serenity",
-      "url": "https://open.spotify.com/track/3BJg9HfpoSgoFK3YJA591v"
     },
     {
       "added_at": "2026-07-03 04:00:48",
@@ -1627,30 +1627,6 @@
     {
       "added_at": "2026-07-03 04:00:48",
       "album": {
-        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
-        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        }
-      ],
-      "duration_ms": 138239,
-      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: III. (b) Andante",
-      "url": "https://open.spotify.com/track/6AG7ekfWoiYTY6gyiEebCN"
-    },
-    {
-      "added_at": "2026-07-03 04:00:48",
-      "album": {
         "name": "Canon in D Variation (From Canon in D Major, P. 37/T. 337, Arr. for Piano and Violin by Svetoslav Karparov)",
         "url": "https://open.spotify.com/album/3IabT6Sk0Bmg0ELcLxQ0fS"
       },
@@ -1675,22 +1651,46 @@
     {
       "added_at": "2026-07-03 04:00:48",
       "album": {
-        "name": "Sing Gently",
-        "url": "https://open.spotify.com/album/55TGl3eLHEOV5Mkf2ekEQY"
+        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
+        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
       },
       "artists": [
         {
-          "name": "Eric Whitacre",
-          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Lavinia Meijer",
-          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
         }
       ],
-      "duration_ms": 225235,
-      "name": "Sing Gently",
-      "url": "https://open.spotify.com/track/1inuj7hFiczkKp8yNmnRLr"
+      "duration_ms": 138239,
+      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: III. (b) Andante",
+      "url": "https://open.spotify.com/track/6AG7ekfWoiYTY6gyiEebCN"
+    },
+    {
+      "added_at": "2026-07-03 04:00:48",
+      "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 114601,
+      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
+      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
     },
     {
       "added_at": "2026-07-03 04:00:48",
@@ -1715,22 +1715,22 @@
     {
       "added_at": "2026-07-03 04:00:48",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
+        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
       },
       "artists": [
         {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
         },
         {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+          "name": "Bruno Fontaine",
+          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
         }
       ],
-      "duration_ms": 114601,
-      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
-      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
+      "duration_ms": 106320,
+      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
+      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
     },
     {
       "added_at": "2026-07-03 04:00:48",
@@ -1763,22 +1763,22 @@
     {
       "added_at": "2026-07-03 04:00:48",
       "album": {
-        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
-        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
+        "name": "Sing Gently",
+        "url": "https://open.spotify.com/album/55TGl3eLHEOV5Mkf2ekEQY"
       },
       "artists": [
         {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+          "name": "Eric Whitacre",
+          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
         },
         {
-          "name": "Bruno Fontaine",
-          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
         }
       ],
-      "duration_ms": 106320,
-      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
-      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
+      "duration_ms": 225235,
+      "name": "Sing Gently",
+      "url": "https://open.spotify.com/track/1inuj7hFiczkKp8yNmnRLr"
     },
     {
       "added_at": "2026-07-03 04:00:48",
@@ -2023,26 +2023,6 @@
     {
       "added_at": "2026-07-03 04:00:48",
       "album": {
-        "name": "Devotions (String Quartet No 3): III.",
-        "url": "https://open.spotify.com/album/45vOywZwvefQaKNIhoyLrl"
-      },
-      "artists": [
-        {
-          "name": "Edmund Finnis",
-          "url": "https://open.spotify.com/artist/43AwXMZwny13kQZFMzMN75"
-        },
-        {
-          "name": "Solem Quartet",
-          "url": "https://open.spotify.com/artist/63YhBkgW5BOcyn95e9mqAw"
-        }
-      ],
-      "duration_ms": 255534,
-      "name": "Devotions (String Quartet No 3): III.",
-      "url": "https://open.spotify.com/track/0J1HEV58pUrMe0Rhh2Hcej"
-    },
-    {
-      "added_at": "2026-07-03 04:00:48",
-      "album": {
         "name": "Barbella: Mandolin Concerto in D Major: II. Andantino",
         "url": "https://open.spotify.com/album/3Hv6HfQgtLiNwpyuB7GuIv"
       },
@@ -2071,22 +2051,22 @@
     {
       "added_at": "2026-07-03 04:00:48",
       "album": {
-        "name": "Chordal Drift",
-        "url": "https://open.spotify.com/album/6nHbqioJUSyUf01jRdZjLe"
+        "name": "Devotions (String Quartet No 3): III.",
+        "url": "https://open.spotify.com/album/45vOywZwvefQaKNIhoyLrl"
       },
       "artists": [
         {
-          "name": "Scoring Berlin",
-          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
+          "name": "Edmund Finnis",
+          "url": "https://open.spotify.com/artist/43AwXMZwny13kQZFMzMN75"
         },
         {
-          "name": "Roger Eno",
-          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+          "name": "Solem Quartet",
+          "url": "https://open.spotify.com/artist/63YhBkgW5BOcyn95e9mqAw"
         }
       ],
-      "duration_ms": 182965,
-      "name": "Chordal Drift",
-      "url": "https://open.spotify.com/track/6S30a788IqUT1ExSTQljLM"
+      "duration_ms": 255534,
+      "name": "Devotions (String Quartet No 3): III.",
+      "url": "https://open.spotify.com/track/0J1HEV58pUrMe0Rhh2Hcej"
     },
     {
       "added_at": "2026-07-03 04:00:48",
@@ -2103,6 +2083,26 @@
       "duration_ms": 265665,
       "name": "With Silence (Mvt. 3) - Pt. 4 \u201csunwards turn\u201d",
       "url": "https://open.spotify.com/track/6uTEe5tHsfdbFMN1uHe31k"
+    },
+    {
+      "added_at": "2026-07-03 04:00:48",
+      "album": {
+        "name": "Chordal Drift",
+        "url": "https://open.spotify.com/album/6nHbqioJUSyUf01jRdZjLe"
+      },
+      "artists": [
+        {
+          "name": "Scoring Berlin",
+          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
+        },
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        }
+      ],
+      "duration_ms": 182965,
+      "name": "Chordal Drift",
+      "url": "https://open.spotify.com/track/6S30a788IqUT1ExSTQljLM"
     },
     {
       "added_at": "2026-07-03 04:00:48",
@@ -2187,6 +2187,22 @@
     {
       "added_at": "2026-07-03 04:00:48",
       "album": {
+        "name": "Je R\u00eave de Paris",
+        "url": "https://open.spotify.com/album/5cxXfAb0XBaYrN4wAp7doi"
+      },
+      "artists": [
+        {
+          "name": "Pianoscapes by Nathan Seiler",
+          "url": "https://open.spotify.com/artist/4WOBmphh5NKzR73LixPVLx"
+        }
+      ],
+      "duration_ms": 162874,
+      "name": "Je R\u00eave de Paris",
+      "url": "https://open.spotify.com/track/5diHufQvgHmdOy2IGNKB15"
+    },
+    {
+      "added_at": "2026-07-03 04:00:48",
+      "album": {
         "name": "Rachmaninoff: Vocalise, Op. 34, No. 14 (Arr. Rose for Cello and Piano) [Musical Moments]",
         "url": "https://open.spotify.com/album/4faodWUUkGAJQrtN5fJKBV"
       },
@@ -2207,6 +2223,26 @@
       "duration_ms": 386066,
       "name": "Vocalise, Op. 34, No. 14 (Arr. Rose for Cello and Piano) - Musical Moments",
       "url": "https://open.spotify.com/track/3Se2RfDlXgkVP3fgLpF2z4"
+    },
+    {
+      "added_at": "2026-07-03 04:00:48",
+      "album": {
+        "name": "Beeftink: Frequency",
+        "url": "https://open.spotify.com/album/7ALl8ZD017wmVyQSuOhdbQ"
+      },
+      "artists": [
+        {
+          "name": "Herman Beeftink",
+          "url": "https://open.spotify.com/artist/2FS7z1DsLrJIlEAbTMOOuG"
+        },
+        {
+          "name": "Emissary Quartet",
+          "url": "https://open.spotify.com/artist/35pqsv6kqCKUshiLlrZuhe"
+        }
+      ],
+      "duration_ms": 378040,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/7EDCHN0RxNGUyAyTZiTSxA"
     },
     {
       "added_at": "2026-07-03 04:00:48",
@@ -2295,42 +2331,6 @@
       "duration_ms": 96786,
       "name": "Valses Po\u00e9ticos H. 147, DLR 7:8: No. 1: Mel\u00f3dico",
       "url": "https://open.spotify.com/track/1UT4F8DOvzM616ZTOm1z6s"
-    },
-    {
-      "added_at": "2026-07-03 04:00:48",
-      "album": {
-        "name": "Beeftink: Frequency",
-        "url": "https://open.spotify.com/album/7ALl8ZD017wmVyQSuOhdbQ"
-      },
-      "artists": [
-        {
-          "name": "Herman Beeftink",
-          "url": "https://open.spotify.com/artist/2FS7z1DsLrJIlEAbTMOOuG"
-        },
-        {
-          "name": "Emissary Quartet",
-          "url": "https://open.spotify.com/artist/35pqsv6kqCKUshiLlrZuhe"
-        }
-      ],
-      "duration_ms": 378040,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/7EDCHN0RxNGUyAyTZiTSxA"
-    },
-    {
-      "added_at": "2026-07-03 04:00:48",
-      "album": {
-        "name": "Je R\u00eave de Paris",
-        "url": "https://open.spotify.com/album/5cxXfAb0XBaYrN4wAp7doi"
-      },
-      "artists": [
-        {
-          "name": "Pianoscapes by Nathan Seiler",
-          "url": "https://open.spotify.com/artist/4WOBmphh5NKzR73LixPVLx"
-        }
-      ],
-      "duration_ms": 162874,
-      "name": "Je R\u00eave de Paris",
-      "url": "https://open.spotify.com/track/5diHufQvgHmdOy2IGNKB15"
     },
     {
       "added_at": "2026-07-03 04:00:48",

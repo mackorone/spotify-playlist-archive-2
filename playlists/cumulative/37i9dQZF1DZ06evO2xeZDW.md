@@ -4,7 +4,7 @@
 
 > This is Michael Giacchino\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 23 min
+51 songs - 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,8 +45,9 @@
 | [Sub Prime Directive](https://open.spotify.com/track/0vgkEeiULt4ow0B4zjKkfI) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Star Trek Into Darkness \(Music From The Motion Picture\)](https://open.spotify.com/album/0dst3z0HnOCF0pdU05AZ4b) | 2:24 | 2026-07-08 |  |
 | [Tears of Joy](https://open.spotify.com/track/3vQO2vRV9PVbwU3BtHkppI) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Inside Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN) | 3:39 | 2026-07-08 |  |
 | [The Batman](https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19) | 6:47 | 2026-07-08 |  |
+| [The Break Of Dawn](https://open.spotify.com/track/4Fvf3Ch1obEN4GiYacWa5N) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Let Him Go \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4fgejrAeBYWdSaYRLXYyis) | 1:49 | 2026-07-10 |  |
 | [The Ellie Badge](https://open.spotify.com/track/33riuTg9aVoiRhHTqm2Qq8) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 1:30 | 2026-07-08 |  |
-| [The Fantastic Four: First Steps Main Theme \- From "The Fantastic Four: First Steps"](https://open.spotify.com/track/11fFILIDzuHakpgGoawXZw) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Fantastic Four: First Steps Main Theme \(From "The Fantastic Four: First Steps"\)](https://open.spotify.com/album/7cAwr7nhlYNRCm9vCOC9Hj) | 3:22 | 2026-07-08 |  |
+| [The Fantastic Four: First Steps Main Theme \- From "The Fantastic Four: First Steps"](https://open.spotify.com/track/11fFILIDzuHakpgGoawXZw) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Fantastic Four: First Steps Main Theme \(From "The Fantastic Four: First Steps"\)](https://open.spotify.com/album/7cAwr7nhlYNRCm9vCOC9Hj) | 3:22 | 2026-07-08 | 2026-07-10 |
 | [The Glory Days](https://open.spotify.com/track/59Djq0zGIu8HDZ8QXs2oiz) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Incredibles \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV) | 3:32 | 2026-07-08 |  |
 | [The Imperial Suite](https://open.spotify.com/track/2NZhNbfb1rD1aRj3hZaoqk) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Rogue One: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT) | 2:29 | 2026-07-08 |  |
 | [The Old Zoo Review](https://open.spotify.com/track/76HDMYEE9m0Y4eGt5LMVQf) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 1:52 | 2026-07-08 |  |

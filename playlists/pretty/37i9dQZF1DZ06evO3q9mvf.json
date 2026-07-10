@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAAB4Nup9t2qZqsDKQWOLqBNk",
+  "snapshot_id": "ak2TAAAAAABDEQDDFvZjtEcVJTk5C5OF",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 195693,
-      "name": "Spend, Spend, Spend",
-      "url": "https://open.spotify.com/track/0bPIKFrGacMfW0kvqMMk67"
+      "duration_ms": 213906,
+      "name": "FM",
+      "url": "https://open.spotify.com/track/3uSfy9p7AQRmKt6MHcdtnV"
     },
     {
       "added_at": null,
@@ -164,73 +164,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 213906,
-      "name": "FM",
-      "url": "https://open.spotify.com/track/3uSfy9p7AQRmKt6MHcdtnV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live at the Gibus Club",
-        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 113960,
-      "name": "Split (Live at The Gibus Club, 1978)",
-      "url": "https://open.spotify.com/track/6PdY3m4TaBMZUTNmsffJUD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Return of the Giant Slits",
-        "url": "https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 400906,
-      "name": "Animal Space / Spacier",
-      "url": "https://open.spotify.com/track/4AcSNRceUrNyddhHzQzbcx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cut (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 95960,
-      "name": "Shoplifting",
-      "url": "https://open.spotify.com/track/6pY6AdtuZixaErD7xLt5Z6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cut",
-        "url": "https://open.spotify.com/album/0TfUvdJAj5ggwaLihQQ5qs"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Adventures Close To Home",
-      "url": "https://open.spotify.com/track/0fIdKFpALGsshmcombaz13"
+      "duration_ms": 195693,
+      "name": "Spend, Spend, Spend",
+      "url": "https://open.spotify.com/track/0bPIKFrGacMfW0kvqMMk67"
     },
     {
       "added_at": null,
@@ -276,9 +212,73 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 160213,
-      "name": "So Tough",
-      "url": "https://open.spotify.com/track/37djIDiwXDcazfaKVy6bu6"
+      "duration_ms": 95960,
+      "name": "Shoplifting",
+      "url": "https://open.spotify.com/track/6pY6AdtuZixaErD7xLt5Z6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cut",
+        "url": "https://open.spotify.com/album/0TfUvdJAj5ggwaLihQQ5qs"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Adventures Close To Home",
+      "url": "https://open.spotify.com/track/0fIdKFpALGsshmcombaz13"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at the Gibus Club",
+        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 113960,
+      "name": "Split (Live at The Gibus Club, 1978)",
+      "url": "https://open.spotify.com/track/6PdY3m4TaBMZUTNmsffJUD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Return of the Giant Slits",
+        "url": "https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 400906,
+      "name": "Animal Space / Spacier",
+      "url": "https://open.spotify.com/track/4AcSNRceUrNyddhHzQzbcx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cut (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 228160,
+      "name": "Newtown",
+      "url": "https://open.spotify.com/track/1e3ifvbu3nfTHFAN3qvS94"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 228160,
-      "name": "Newtown",
-      "url": "https://open.spotify.com/track/1e3ifvbu3nfTHFAN3qvS94"
+      "duration_ms": 160213,
+      "name": "So Tough",
+      "url": "https://open.spotify.com/track/37djIDiwXDcazfaKVy6bu6"
     },
     {
       "added_at": null,

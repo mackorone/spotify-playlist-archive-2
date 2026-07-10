@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Harsha Vardhan",
-  "num_followers": 19935,
+  "num_followers": 19945,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL65UZUqCOyUSCi1EgYJqaBE15At",
+  "snapshot_id": "AAAAAGC+nMh0VbSDx94Y1UW24iE6/JeB",
   "tracks": [
     {
       "added_at": "2026-06-10 10:19:16",
@@ -201,6 +201,26 @@
       "url": "https://open.spotify.com/track/6dEDlp5g1WaebGKI3K3IGH"
     },
     {
+      "added_at": "2026-06-26 05:27:01",
+      "album": {
+        "name": "Seruppa Kaanom",
+        "url": "https://open.spotify.com/album/6ZKUg07pVCkuPNfh4P1tIT"
+      },
+      "artists": [
+        {
+          "name": "Joshua Aaron",
+          "url": "https://open.spotify.com/artist/3q3ikUy0tmXkAonQpYDORq"
+        },
+        {
+          "name": "Sanikelama",
+          "url": "https://open.spotify.com/artist/2mQ8644XwW4V5Xdrl42w91"
+        }
+      ],
+      "duration_ms": 226329,
+      "name": "Seruppa Kaanom",
+      "url": "https://open.spotify.com/track/5aIc4lWWlx3YcPy3dCz7FO"
+    },
+    {
       "added_at": "2026-07-08 06:10:44",
       "album": {
         "name": "Aathadi",
@@ -377,6 +397,26 @@
       "url": "https://open.spotify.com/track/6Lg938ZCEBYRxTFvkIfnmf"
     },
     {
+      "added_at": "2026-07-09 14:57:16",
+      "album": {
+        "name": "Anu Anuvai",
+        "url": "https://open.spotify.com/album/36LU93YaVWnC4oSOdWzMj3"
+      },
+      "artists": [
+        {
+          "name": "Santhan Anebajagane",
+          "url": "https://open.spotify.com/artist/7C0XpfZfYRJrDXK0lA2LSq"
+        },
+        {
+          "name": "Manasa",
+          "url": "https://open.spotify.com/artist/0asVUyWU3aDOUQwSRRx9m9"
+        }
+      ],
+      "duration_ms": 192512,
+      "name": "Anu Anuvai",
+      "url": "https://open.spotify.com/track/7rsNofmYWP8dRnHAulqs1c"
+    },
+    {
       "added_at": "2026-06-25 06:48:21",
       "album": {
         "name": "ACAPELLA SAMBAA",
@@ -411,26 +451,6 @@
       "duration_ms": 223914,
       "name": "ACAPELLA SAMBAA",
       "url": "https://open.spotify.com/track/0mkw6W14pYkRTvnbQnr52z"
-    },
-    {
-      "added_at": "2026-06-26 05:27:01",
-      "album": {
-        "name": "Seruppa Kaanom",
-        "url": "https://open.spotify.com/album/6ZKUg07pVCkuPNfh4P1tIT"
-      },
-      "artists": [
-        {
-          "name": "Joshua Aaron",
-          "url": "https://open.spotify.com/artist/3q3ikUy0tmXkAonQpYDORq"
-        },
-        {
-          "name": "Sanikelama",
-          "url": "https://open.spotify.com/artist/2mQ8644XwW4V5Xdrl42w91"
-        }
-      ],
-      "duration_ms": 226329,
-      "name": "Seruppa Kaanom",
-      "url": "https://open.spotify.com/track/5aIc4lWWlx3YcPy3dCz7FO"
     },
     {
       "added_at": "2026-06-17 05:45:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VlHTIlGw3z.md) - [plain]
 
 > 超等身大のむきだし青春＆音楽奮闘漫画『ふつうの軽音部』の世界を彩る楽曲をプレイリストで。本編は <a href=https://shonenjumpplus.com/episode/16457717013869519536>ジャンプ＋</a>で毎週日曜更新。 Enjoy Music from "Girl Meets Rock!".<br/>Ⓒクワハリ・出内テツオ／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,338 likes - 49 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,418 likes - 54 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,5 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VlHTIlGw3z.md) - [plain]
 | 47 | [Oz.](https://open.spotify.com/track/1Aq9S5teUzfZucr7rVRpSj) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 3:15 |
 | 48 | [DEAR MY FRIEND](https://open.spotify.com/track/4gIE68yoKi15VNb63HTrEc) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD) | 3:12 |
 | 49 | [swim](https://open.spotify.com/track/4fT8isC75wJe9CCsJdnNdI) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [CAVU](https://open.spotify.com/album/5ZGyjBoHMJb8M2diIt9af8) | 3:27 |
+| 50 | [アイラブ言う](https://open.spotify.com/track/0qNo1ESxfogTbOfMG3yyMD) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [いまも忘れらんねえよ。 \(DISC 1\)](https://open.spotify.com/album/4dSwmPzbEQH3RORFTzboci) | 3:25 |
+| 51 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/0jPt8zNHeeCWoPuttIqBqL) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/57na8P5liC3zgZTG72lz2S) | 3:12 |
+| 52 | [REVIVER](https://open.spotify.com/track/1p6WtbNY4bDjiFBmSZolJY) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [S･S･S](https://open.spotify.com/album/0fIXE9BDAKai3jMx2IWoiC) | 4:50 |
+| 53 | [クリスマス](https://open.spotify.com/track/7BHuEHufMzJVVu1Avp2PmD) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [Orange Sunshine](https://open.spotify.com/album/7j8oAuDBsqe8z9U9xcw1b1) | 4:19 |
+| 54 | [さよならエレジー](https://open.spotify.com/track/3oYD2O31b05fILFpv0AXRI) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [PLAY\(Special Edition\)](https://open.spotify.com/album/5JP5NDPvio5ZhkXXjcHVov) | 4:17 |
 
-Snapshot ID: `AAAAAG6yU+4PDn9sxzwLDZ3kO9cTPPlu`
+Snapshot ID: `AAAAAF9C4klqVYX/34MPHenERRokSmLD`

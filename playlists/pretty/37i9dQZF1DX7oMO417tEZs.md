@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚ A curated space for the avant\-garde + und3rground⋆ ˚₊‧⁺ Cover: Zeds Dead
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,501 likes - 71 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,520 likes - 71 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

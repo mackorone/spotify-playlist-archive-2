@@ -1,12 +1,12 @@
 {
   "description": "This is Pop Smoke. The essential tracks, all in one playlist.",
-  "num_followers": 497649,
+  "num_followers": 497658,
   "original_name": "This Is Pop Smoke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAABYQBU2ri1npzMk/4O8LOUc",
+  "snapshot_id": "ak2TAAAAAAAhOvuBAbCkV5/91rTEHaJP",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE"
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/6CPPV9JBLRKEM0O13A3WdU"
       },
       "artists": [
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Woo Baby",
-      "url": "https://open.spotify.com/track/28s2lmL37j0SrdD07oRAuR"
+      "duration_ms": 108131,
+      "name": "Imperfections (Interlude)",
+      "url": "https://open.spotify.com/track/5MfVY0rINB7xdQDrg8buWr"
     },
     {
       "added_at": null,
@@ -203,18 +199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "url": "https://open.spotify.com/album/6CPPV9JBLRKEM0O13A3WdU"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE"
       },
       "artists": [
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
         }
       ],
-      "duration_ms": 108131,
-      "name": "Imperfections (Interlude)",
-      "url": "https://open.spotify.com/track/5MfVY0rINB7xdQDrg8buWr"
+      "duration_ms": 156000,
+      "name": "Woo Baby",
+      "url": "https://open.spotify.com/track/28s2lmL37j0SrdD07oRAuR"
     },
     {
       "added_at": null,
@@ -231,46 +231,6 @@
       "duration_ms": 108160,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/2r5gtqo25eRhk4bCwUMbDF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meet The Woo",
-        "url": "https://open.spotify.com/album/3PL3Of7YmQ76TzbQPrHC50"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 118800,
-      "name": "Hawk Em",
-      "url": "https://open.spotify.com/track/3Rjx5mVXkYskoWTJMEO2JQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/6u3vDhwJ2HXHShH5kD00qL"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "The Woo",
-      "url": "https://open.spotify.com/track/0Xyapgw7NB8xf5ZvRQbwV6"
     },
     {
       "added_at": null,
@@ -299,6 +259,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/6u3vDhwJ2HXHShH5kD00qL"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "The Woo",
+      "url": "https://open.spotify.com/track/0Xyapgw7NB8xf5ZvRQbwV6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/3PL3Of7YmQ76TzbQPrHC50"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 118800,
+      "name": "Hawk Em",
+      "url": "https://open.spotify.com/track/3Rjx5mVXkYskoWTJMEO2JQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meet The Woo 2 (Deluxe)",
         "url": "https://open.spotify.com/album/2SbCbfsxJMQz8ygrfNiA7H"
       },
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meet The Woo",
-        "url": "https://open.spotify.com/album/3PL3Of7YmQ76TzbQPrHC50"
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/6CPPV9JBLRKEM0O13A3WdU"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 199826,
-      "name": "PTSD",
-      "url": "https://open.spotify.com/track/0aPsDo50fno6jpCU3lKmX5"
+      "duration_ms": 151011,
+      "name": "Hotel Lobby",
+      "url": "https://open.spotify.com/track/3t6D3tZXVIuy8SwT7Pcc6N"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "url": "https://open.spotify.com/album/6CPPV9JBLRKEM0O13A3WdU"
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/3PL3Of7YmQ76TzbQPrHC50"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 151011,
-      "name": "Hotel Lobby",
-      "url": "https://open.spotify.com/track/3t6D3tZXVIuy8SwT7Pcc6N"
+      "duration_ms": 199826,
+      "name": "PTSD",
+      "url": "https://open.spotify.com/track/0aPsDo50fno6jpCU3lKmX5"
     },
     {
       "added_at": null,
@@ -383,38 +383,6 @@
       "duration_ms": 221813,
       "name": "War",
       "url": "https://open.spotify.com/track/2lScGbg0R262A73sTqNoAo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meet The Woo",
-        "url": "https://open.spotify.com/album/3PL3Of7YmQ76TzbQPrHC50"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Welcome To The Party",
-      "url": "https://open.spotify.com/track/16PAC7NLpbryofiPTlqTFK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/3HrEoVcXbsvjY0KD2AIcNu"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Gangstas",
-      "url": "https://open.spotify.com/track/5wET197xfCQ9Mmcfj5BktY"
     },
     {
       "added_at": null,
@@ -443,6 +411,38 @@
       "duration_ms": 296011,
       "name": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",
       "url": "https://open.spotify.com/track/6MO2bfLHKykUgCChFdw91H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/3HrEoVcXbsvjY0KD2AIcNu"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Gangstas",
+      "url": "https://open.spotify.com/track/5wET197xfCQ9Mmcfj5BktY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/3PL3Of7YmQ76TzbQPrHC50"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Welcome To The Party",
+      "url": "https://open.spotify.com/track/16PAC7NLpbryofiPTlqTFK"
     },
     {
       "added_at": null,

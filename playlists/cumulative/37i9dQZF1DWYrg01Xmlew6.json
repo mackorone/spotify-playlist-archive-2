@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo rap da Napoli e dalla Campania. Dipinto in cover.",
+  "description": "Solo rap da Napoli e dalla Campania. Frezza in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -2053,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "CELEBRIT\u00c0",
+        "url": "https://open.spotify.com/album/5UfCA3NOCegT9U9D7T73MQ"
+      },
+      "artists": [
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "CELEBRIT\u00c0",
+      "url": "https://open.spotify.com/track/6nDmABDUsU59nnjhGxz6OY"
+    },
+    {
+      "album": {
         "name": "CELINE",
         "url": "https://open.spotify.com/album/0xJpWxYdYOiAGHmSRJVzZO"
       },
@@ -2681,6 +2699,24 @@
     },
     {
       "album": {
+        "name": "COMM MAJE",
+        "url": "https://open.spotify.com/album/0P6sZz0sFoc0tp2usYjA5o"
+      },
+      "artists": [
+        {
+          "name": "Erness",
+          "url": "https://open.spotify.com/artist/0ai9hSxhZEP5cTjreUnR58"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135365,
+      "name": "COMM MAJE",
+      "url": "https://open.spotify.com/track/7hzZEihCTEmO5oSknytJi2"
+    },
+    {
+      "album": {
         "name": "COMM VUO TU",
         "url": "https://open.spotify.com/album/5hbChIhNLZIlsAjKv4YxOE"
       },
@@ -3026,7 +3062,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 133231,
       "name": "DAWSON'S CREEK",
       "url": "https://open.spotify.com/track/6v4iaADDd80fPQ7sc6Rmx2"
@@ -3956,7 +3992,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 186000,
       "name": "For4ver",
       "url": "https://open.spotify.com/track/3Yri5Vv8jpKpJ9E8lcOrH5"
@@ -6384,7 +6420,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 137142,
       "name": "MARMO",
       "url": "https://open.spotify.com/track/29jiWFPyKcnfEheowHWTfl"
@@ -7090,7 +7126,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 160576,
       "name": "MOMO DESIGN 2 (feat. Im Envy)",
       "url": "https://open.spotify.com/track/5SVM5HK2AQELROMINAG5jE"
@@ -7924,6 +7960,28 @@
       "duration_ms": 173596,
       "name": "NU SUONN",
       "url": "https://open.spotify.com/track/0acALfHPyz5J9bLMzh4akk"
+    },
+    {
+      "album": {
+        "name": "NUN CAGNAM MAJE",
+        "url": "https://open.spotify.com/album/2QqJRcf45foDXm2KUdZ8zF"
+      },
+      "artists": [
+        {
+          "name": "Christian Liguori",
+          "url": "https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn"
+        },
+        {
+          "name": "Rivrek",
+          "url": "https://open.spotify.com/artist/7iiuyNvPPtm4zwwDBot61y"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150260,
+      "name": "NUN CAGNAM MAJE",
+      "url": "https://open.spotify.com/track/3tusXESXzq58pxemK1diEu"
     },
     {
       "album": {
@@ -9982,6 +10040,28 @@
       "duration_ms": 148940,
       "name": "RA SUL",
       "url": "https://open.spotify.com/track/0pwcRVxksO8iEAXjWsTd71"
+    },
+    {
+      "album": {
+        "name": "RAFFAELLA FICO",
+        "url": "https://open.spotify.com/album/26BpBOqkCoqIFDEfavYQl7"
+      },
+      "artists": [
+        {
+          "name": "Le-one",
+          "url": "https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou"
+        },
+        {
+          "name": "Higashi",
+          "url": "https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132892,
+      "name": "RAFFAELLA FICO",
+      "url": "https://open.spotify.com/track/3fBHfKPOuaZ99tZOMg9Cgw"
     },
     {
       "album": {

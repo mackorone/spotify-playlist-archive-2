@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 177110,
       "name": "Biri Bam Bam",
       "url": "https://open.spotify.com/track/7cBpp7L46vwX7MZ40pQp4A"
@@ -9096,6 +9096,28 @@
       "duration_ms": 227427,
       "name": "Sentir o Sol",
       "url": "https://open.spotify.com/track/0gxPb4HXzKje9pUg8VhbGG"
+    },
+    {
+      "album": {
+        "name": "Serei Algu\u00e9m",
+        "url": "https://open.spotify.com/album/61WHRE53kG43xcTjRwYNRH"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e1udia Pascoal",
+          "url": "https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ"
+        },
+        {
+          "name": "Cl\u00e1udinhas",
+          "url": "https://open.spotify.com/artist/7Lnc28YAy6LZWDOuaPGywo"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190540,
+      "name": "Serei Algu\u00e9m",
+      "url": "https://open.spotify.com/track/1o6BRR3sBSAwFXe0PX6bbD"
     },
     {
       "album": {

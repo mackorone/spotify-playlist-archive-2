@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: SKUBAS",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Nosowska",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -1255,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "Basia",
+        "url": "https://open.spotify.com/album/4iaBmjad2XtwaHykq0UBBm"
+      },
+      "artists": [
+        {
+          "name": "Pola B\u0142asik",
+          "url": "https://open.spotify.com/artist/5uZWOg9SH9pMTGV7G2awtj"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253860,
+      "name": "Basia",
+      "url": "https://open.spotify.com/track/7BBzb45Wl71DMTzUe5e1dN"
+    },
+    {
+      "album": {
         "name": "BATMOBIL",
         "url": "https://open.spotify.com/album/3BoiHzHgWNGedutj8DqYDy"
       },
@@ -2431,6 +2449,24 @@
     },
     {
       "album": {
+        "name": "Album Niebieski",
+        "url": "https://open.spotify.com/album/6gnfCOxgVSV0qYQJWudBM0"
+      },
+      "artists": [
+        {
+          "name": "Mlecze",
+          "url": "https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211800,
+      "name": "Brak tchu",
+      "url": "https://open.spotify.com/track/40WAq4ke8fNkOMJKJQ8iQq"
+    },
+    {
+      "album": {
         "name": "Brawo",
         "url": "https://open.spotify.com/album/5wXbh5Xh1x3MFicJSRNQ93"
       },
@@ -2566,7 +2602,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 201680,
       "name": "Brzydkie posty",
       "url": "https://open.spotify.com/track/3bZIGxeDbYwYpiCxMAKrTR"
@@ -3442,6 +3478,24 @@
       "duration_ms": 155330,
       "name": "chc\u0119 ci\u0119 wi\u0119cej",
       "url": "https://open.spotify.com/track/3gFH7qSBnk9iGnYfxE3hFb"
+    },
+    {
+      "album": {
+        "name": "Chc\u0119 do domu",
+        "url": "https://open.spotify.com/album/6687I5obVv0GRyyTsB4RCc"
+      },
+      "artists": [
+        {
+          "name": "Amelia And",
+          "url": "https://open.spotify.com/artist/58wKaNZ5iuXaeelRtHzEsk"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228965,
+      "name": "Chc\u0119 do domu",
+      "url": "https://open.spotify.com/track/7fwMKsvHISlxkuO3PXru02"
     },
     {
       "album": {
@@ -4428,6 +4482,24 @@
       "duration_ms": 169720,
       "name": "co to? Mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/6ujrbBFwVsI8op1IncntBV"
+    },
+    {
+      "album": {
+        "name": "Co Z Tego?",
+        "url": "https://open.spotify.com/album/7oXZTVO6AN0iZq5gMuBNv1"
+      },
+      "artists": [
+        {
+          "name": "zieli\u0144ski",
+          "url": "https://open.spotify.com/artist/75u3vQCTDHOWmYmby80Rs5"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189260,
+      "name": "Co Z Tego?",
+      "url": "https://open.spotify.com/track/2trKj0KxpBzB4cqpevuTch"
     },
     {
       "album": {
@@ -7398,7 +7470,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 219347,
       "name": "Fiber Optic Love",
       "url": "https://open.spotify.com/track/2mOBJQOCoEN2WYxtiITo3g"
@@ -8912,7 +8984,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 212973,
       "name": "Horyzont",
       "url": "https://open.spotify.com/track/2rljLpNIGIDx3V0o1wW3XV"
@@ -9040,6 +9112,24 @@
       "duration_ms": 230391,
       "name": "I Fell in Love with Your Voice",
       "url": "https://open.spotify.com/track/2KxdGMZicx7fiVclxKLudc"
+    },
+    {
+      "album": {
+        "name": "I KILKA KROPEL",
+        "url": "https://open.spotify.com/album/2N2oby9GFYxTTNcoHIJYIA"
+      },
+      "artists": [
+        {
+          "name": "Kuba D\u0105browski",
+          "url": "https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164166,
+      "name": "I KILKA KROPEL",
+      "url": "https://open.spotify.com/track/479GwVBlAErWagNxZCFZD9"
     },
     {
       "album": {
@@ -9852,7 +9942,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 244655,
       "name": "Jak to jest?",
       "url": "https://open.spotify.com/track/3nyQq75twpGQsn4VU8gXYe"
@@ -10062,6 +10152,24 @@
       "duration_ms": 168507,
       "name": "Jest jak jest",
       "url": "https://open.spotify.com/track/2mFa5j7qkgBevlL3nvemWO"
+    },
+    {
+      "album": {
+        "name": "Jest Mi Dobrze",
+        "url": "https://open.spotify.com/album/07RYBndrIwK9aBqQkws2UF"
+      },
+      "artists": [
+        {
+          "name": "Joulie Fox",
+          "url": "https://open.spotify.com/artist/5hE1IPeVSiRpzsHBBBpzy4"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144421,
+      "name": "Jest Mi Dobrze",
+      "url": "https://open.spotify.com/track/1mas8R3yJGfMRXnvUeDimW"
     },
     {
       "album": {
@@ -11886,7 +11994,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 237600,
       "name": "Krem Budyniowy o Aksamitnej Egzystencji",
       "url": "https://open.spotify.com/track/2BgigWAHJIpKZawikjToEh"
@@ -12914,6 +13022,24 @@
       "duration_ms": 210612,
       "name": "Letnie my\u015bli",
       "url": "https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY"
+    },
+    {
+      "album": {
+        "name": "Lew",
+        "url": "https://open.spotify.com/album/7dkBpLi9GUtkMYRj9Fpv4l"
+      },
+      "artists": [
+        {
+          "name": "Jerzy Koczur",
+          "url": "https://open.spotify.com/artist/1Y5FAU8ociSgGzRsfdPzLb"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290196,
+      "name": "Lew",
+      "url": "https://open.spotify.com/track/3IVTkR4vT7MOYJrai7lZZH"
     },
     {
       "album": {
@@ -14044,7 +14170,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 166853,
       "name": "Medytacje o kocie",
       "url": "https://open.spotify.com/track/2EC7lpt9Loyi5HCnjaM25s"
@@ -15426,7 +15552,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 111020,
       "name": "MO\u017bE ZA ROK",
       "url": "https://open.spotify.com/track/3nBcnL1aF5v6gMP85hZvxo"
@@ -17428,7 +17554,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 171074,
       "name": "Nie szkoda",
       "url": "https://open.spotify.com/track/73Ju1QgCqj1N5wctZe2kZf"
@@ -22574,7 +22700,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 228910,
       "name": "radiatio",
       "url": "https://open.spotify.com/track/2cHNZSK2N5vXkTXN4UyNck"
@@ -24613,6 +24739,24 @@
     },
     {
       "album": {
+        "name": "SOS CHAOSU",
+        "url": "https://open.spotify.com/album/3QK3cUQL9EWljfxaixiB3T"
+      },
+      "artists": [
+        {
+          "name": "Nosowska",
+          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206672,
+      "name": "SOS CHAOSU",
+      "url": "https://open.spotify.com/track/5vg5psGfAug2GiMQuS8zpV"
+    },
+    {
+      "album": {
         "name": "Space EP2024",
         "url": "https://open.spotify.com/album/2Xynk1NjRlwkQIk09ODD0M"
       },
@@ -25144,6 +25288,24 @@
       "duration_ms": 197454,
       "name": "strach",
       "url": "https://open.spotify.com/track/3SdyBCDMtGKT0eVBejxKUv"
+    },
+    {
+      "album": {
+        "name": "STRACONY RAJ",
+        "url": "https://open.spotify.com/album/1eMTSYxpcv1V4DW7lL3qWm"
+      },
+      "artists": [
+        {
+          "name": "cafetrauma",
+          "url": "https://open.spotify.com/artist/49BvAtfEqPHiCWmq6dTwR2"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176823,
+      "name": "STRACONY RAJ",
+      "url": "https://open.spotify.com/track/29aQki5xfTBzYCeObU95cp"
     },
     {
       "album": {
@@ -25731,6 +25893,24 @@
     },
     {
       "album": {
+        "name": "SZKODA BRAW",
+        "url": "https://open.spotify.com/album/23eiw1A237sVpBjanamgEm"
+      },
+      "artists": [
+        {
+          "name": "Nosowska",
+          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199414,
+      "name": "SZKODA BRAW",
+      "url": "https://open.spotify.com/track/4iWzjSOVQwNMa12HRhzWc3"
+    },
+    {
+      "album": {
         "name": "Chod\u017amy na \u0142aweczk\u0119",
         "url": "https://open.spotify.com/album/08plV2YkI2tR5gRrlJ9YC6"
       },
@@ -25829,6 +26009,28 @@
     },
     {
       "album": {
+        "name": "Uciekaj St\u0105d",
+        "url": "https://open.spotify.com/album/0SBRRZaUZIPybtjuIQI18Y"
+      },
+      "artists": [
+        {
+          "name": "SUPERNOVA",
+          "url": "https://open.spotify.com/artist/13pID0NGBQTVDqblbBcSNO"
+        },
+        {
+          "name": "SNLGHT",
+          "url": "https://open.spotify.com/artist/1Ybm8Ze0H3meOe4GP6OWCi"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182071,
+      "name": "Sztylet",
+      "url": "https://open.spotify.com/track/6iqMhHCqCz2m028rEBF780"
+    },
+    {
+      "album": {
         "name": "Szum",
         "url": "https://open.spotify.com/album/2S6yeWf41bXsVaVnQ8AskE"
       },
@@ -25866,7 +26068,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 278986,
       "name": "Szum",
       "url": "https://open.spotify.com/track/3wlSDEpTLE2s7QtvEZrovH"
@@ -26836,7 +27038,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 341803,
       "name": "The Moment",
       "url": "https://open.spotify.com/track/5jpSNQkBsF8mXaCgJFeto3"
@@ -28270,6 +28472,24 @@
       "duration_ms": 177478,
       "name": "t\u0119skno za Tob\u0105",
       "url": "https://open.spotify.com/track/3g6VOkNNePcSlJupWrxAti"
+    },
+    {
+      "album": {
+        "name": "Ucieczki donik\u0105d",
+        "url": "https://open.spotify.com/album/6TKOAF0dm6tSVMicg9A4lY"
+      },
+      "artists": [
+        {
+          "name": "Jacek Kuderski",
+          "url": "https://open.spotify.com/artist/355phxdVt7RWaQgmvfYrGW"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152826,
+      "name": "Ucieczki donik\u0105d",
+      "url": "https://open.spotify.com/track/37RcI3x05qLoHm44xS13px"
     },
     {
       "album": {
@@ -32466,7 +32686,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 181687,
       "name": "Znikn\u0105\u0142 jak dym",
       "url": "https://open.spotify.com/track/631Zedsmh4q69t8GV4jBUZ"

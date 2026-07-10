@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/5vBL2UwpiOUtBUEWD4RA5F"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275973,
+      "name": "Amore",
+      "url": "https://open.spotify.com/track/5HMuyrjj7GrQPyDE7PGE9K"
+    },
+    {
+      "album": {
         "name": "unknown",
         "url": "https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW"
       },
@@ -846,7 +864,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-08",
+      "date_removed": null,
       "duration_ms": 217483,
       "name": "Oh UnHappy Day",
       "url": "https://open.spotify.com/track/1vD9wJjZfEV0171Bmi9R5f"
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 247520,
       "name": "YOU",
       "url": "https://open.spotify.com/track/3o3XXokoRYbLCgeS961bcj"
@@ -2170,7 +2188,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 640626,
       "name": "\u79c1\u305f\u3061\u306e\u8b83\u6b4c",
       "url": "https://open.spotify.com/track/2pcSKo69fqz0J8t0ZwheFg"

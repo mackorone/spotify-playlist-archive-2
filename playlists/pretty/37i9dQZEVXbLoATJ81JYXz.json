@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Sweden.",
-  "num_followers": 621717,
+  "num_followers": 621716,
   "original_name": "Top 50 - Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MeG/eAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MeMQ+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Somna med Humlan Djojj",
         "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0j2JcSeuF8ElJTrC8g6493"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
@@ -49,7 +49,35 @@
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Kygo Jo (feat. Lyng) [Kygo Remix]",
+        "url": "https://open.spotify.com/album/6AQiRXJ2i48Lu7CFUrKUER"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Flow Kingz",
+          "url": "https://open.spotify.com/artist/1811qTctCVNYGH09k7sfyY"
+        },
+        {
+          "name": "JMK",
+          "url": "https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN"
+        },
+        {
+          "name": "Lyng",
+          "url": "https://open.spotify.com/artist/5ducg8qTQPfJJSSsO3D8hB"
+        }
+      ],
+      "duration_ms": 153272,
+      "name": "Kygo Jo (feat. Lyng) - Kygo Remix",
+      "url": "https://open.spotify.com/track/3ExrDwHbhBZYurE2AOC1rL"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Det ligger n\u00e5t i luften",
         "url": "https://open.spotify.com/album/5CrGCx8NwnkfYlqJv7DXXE"
@@ -65,7 +93,7 @@
       "url": "https://open.spotify.com/track/4okV0gcEkY1BlqQNDvaQCw"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Upp och ner och hit och dit med Babblarna",
         "url": "https://open.spotify.com/album/6P4rV3154g0xVp9vrOyYH1"
@@ -81,63 +109,7 @@
       "url": "https://open.spotify.com/track/3GygspQIcYy5OnRiw245Qh"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2026-07-08 19:56:38",
-      "album": {
-        "name": "Somna med Humlan Djojj",
-        "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
-      },
-      "artists": [
-        {
-          "name": "Humlan Djojj",
-          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
-        },
-        {
-          "name": "Josefine G\u00f6testam",
-          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
-        }
-      ],
-      "duration_ms": 166216,
-      "name": "Stj\u00e4rnorna",
-      "url": "https://open.spotify.com/track/5jlAu4lHHVzheutRcbDklk"
-    },
-    {
-      "added_at": "2026-07-08 19:56:38",
-      "album": {
-        "name": "Sov med Humlan Djojj",
-        "url": "https://open.spotify.com/album/6K3aPGyRCE1EgmcTyftjxu"
-      },
-      "artists": [
-        {
-          "name": "Humlan Djojj",
-          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
-        },
-        {
-          "name": "Josefine G\u00f6testam",
-          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
-        }
-      ],
-      "duration_ms": 114124,
-      "name": "Humlehum",
-      "url": "https://open.spotify.com/track/6F0EAXG5D1iFZU57wfa0Ys"
-    },
-    {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Atom",
         "url": "https://open.spotify.com/album/2PH7ApIbAdLECzTi0iX5yB"
@@ -157,7 +129,23 @@
       "url": "https://open.spotify.com/track/24j5pHISv4r7Au45ueiZ8r"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
@@ -173,7 +161,7 @@
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Somna med Humlan Djojj",
         "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
@@ -188,12 +176,52 @@
           "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
         }
       ],
-      "duration_ms": 160373,
-      "name": "Somna",
-      "url": "https://open.spotify.com/track/401N7rbd6MSziVSDVTaQr7"
+      "duration_ms": 166216,
+      "name": "Stj\u00e4rnorna",
+      "url": "https://open.spotify.com/track/5jlAu4lHHVzheutRcbDklk"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Pil\u00e9 (Gospel)",
+        "url": "https://open.spotify.com/album/5ASuHiYQYuQU8VemaHSRNq"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        },
+        {
+          "name": "Kano Choir",
+          "url": "https://open.spotify.com/artist/2i04Yoaa4wV8J75w8aPX1G"
+        }
+      ],
+      "duration_ms": 123720,
+      "name": "Pil\u00e9 - Gospel",
+      "url": "https://open.spotify.com/track/1yOrvnfHb2t8CmMdfcBHTl"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Sov med Humlan Djojj",
+        "url": "https://open.spotify.com/album/6K3aPGyRCE1EgmcTyftjxu"
+      },
+      "artists": [
+        {
+          "name": "Humlan Djojj",
+          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
+        },
+        {
+          "name": "Josefine G\u00f6testam",
+          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
+        }
+      ],
+      "duration_ms": 114124,
+      "name": "Humlehum",
+      "url": "https://open.spotify.com/track/6F0EAXG5D1iFZU57wfa0Ys"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "N\u00e4r vi gr\u00e4ver guld i USA - Spotify Singles",
         "url": "https://open.spotify.com/album/7pH41TuSykueUvJElnq0go"
@@ -217,59 +245,7 @@
       "url": "https://open.spotify.com/track/3vKjA3z6VhX5A6kppUOkHV"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
-      "album": {
-        "name": "Pil\u00e9 (Gospel)",
-        "url": "https://open.spotify.com/album/5ASuHiYQYuQU8VemaHSRNq"
-      },
-      "artists": [
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        },
-        {
-          "name": "Kano Choir",
-          "url": "https://open.spotify.com/artist/2i04Yoaa4wV8J75w8aPX1G"
-        }
-      ],
-      "duration_ms": 123720,
-      "name": "Pil\u00e9 - Gospel",
-      "url": "https://open.spotify.com/track/1yOrvnfHb2t8CmMdfcBHTl"
-    },
-    {
-      "added_at": "2026-07-08 19:56:38",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
-    },
-    {
-      "added_at": "2026-07-08 19:56:38",
-      "album": {
-        "name": "VI \u00c4R GUL OCH BL\u00c5",
-        "url": "https://open.spotify.com/album/6SkFElMa4kSe7siIllQ2yW"
-      },
-      "artists": [
-        {
-          "name": "EDI'VIBZ",
-          "url": "https://open.spotify.com/artist/6UW4rV59NBjZiMMS8uS98t"
-        }
-      ],
-      "duration_ms": 134800,
-      "name": "VI \u00c4R GUL OCH BL\u00c5",
-      "url": "https://open.spotify.com/track/5AGNs0W1DKuYWzGa9ilP1K"
-    },
-    {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Somna med Humlan Djojj",
         "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
@@ -284,28 +260,12 @@
           "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
         }
       ],
-      "duration_ms": 161481,
-      "name": "Nu s\u00e4ger vi godnatt",
-      "url": "https://open.spotify.com/track/7qLwjBWh3M2JLFlEokIjUP"
+      "duration_ms": 160373,
+      "name": "Somna",
+      "url": "https://open.spotify.com/track/401N7rbd6MSziVSDVTaQr7"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
-      "album": {
-        "name": "All in f\u00f6r Sverige (VM-l\u00e5t 2026)",
-        "url": "https://open.spotify.com/album/4gZvTQm8EXL0tJtHU3cY3w"
-      },
-      "artists": [
-        {
-          "name": "Brandsta City Sl\u00e4ckers",
-          "url": "https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l"
-        }
-      ],
-      "duration_ms": 192130,
-      "name": "All in f\u00f6r Sverige (VM-l\u00e5t 2026)",
-      "url": "https://open.spotify.com/track/3AGFGLUAhu0Cwv1Mkea3d4"
-    },
-    {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Glenmark Eriksson Str\u00f6mstedt",
         "url": "https://open.spotify.com/album/6SVY7GMw6KZxOSduyXSeoi"
@@ -333,7 +293,91 @@
       "url": "https://open.spotify.com/track/3iAJRvvn8pywXZtvBNNP71"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "VI \u00c4R GUL OCH BL\u00c5",
+        "url": "https://open.spotify.com/album/6SkFElMa4kSe7siIllQ2yW"
+      },
+      "artists": [
+        {
+          "name": "EDI'VIBZ",
+          "url": "https://open.spotify.com/artist/6UW4rV59NBjZiMMS8uS98t"
+        }
+      ],
+      "duration_ms": 134800,
+      "name": "VI \u00c4R GUL OCH BL\u00c5",
+      "url": "https://open.spotify.com/track/5AGNs0W1DKuYWzGa9ilP1K"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Somna med Humlan Djojj",
+        "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
+      },
+      "artists": [
+        {
+          "name": "Humlan Djojj",
+          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
+        },
+        {
+          "name": "Josefine G\u00f6testam",
+          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
+        }
+      ],
+      "duration_ms": 161481,
+      "name": "Nu s\u00e4ger vi godnatt",
+      "url": "https://open.spotify.com/track/7qLwjBWh3M2JLFlEokIjUP"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "All in f\u00f6r Sverige (VM-l\u00e5t 2026)",
+        "url": "https://open.spotify.com/album/4gZvTQm8EXL0tJtHU3cY3w"
+      },
+      "artists": [
+        {
+          "name": "Brandsta City Sl\u00e4ckers",
+          "url": "https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l"
+        }
+      ],
+      "duration_ms": 192130,
+      "name": "All in f\u00f6r Sverige (VM-l\u00e5t 2026)",
+      "url": "https://open.spotify.com/track/3AGFGLUAhu0Cwv1Mkea3d4"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Tusen sp\u00e4nn",
         "url": "https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL"
@@ -353,23 +397,23 @@
       "url": "https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
-        "name": "hate that i made you love me",
-        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 197949,
-      "name": "hate that i made you love me",
-      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+      "duration_ms": 258773,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
@@ -389,39 +433,7 @@
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
-      "album": {
-        "name": "(What's The Story) Morning Glory? [Remastered]",
-        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "Wonderwall - Remastered",
-      "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
-    },
-    {
-      "added_at": "2026-07-08 19:56:38",
-      "album": {
-        "name": "Escape (2022 Remaster)",
-        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Don't Stop Believin' (2022 Remaster)",
-      "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
-    },
-    {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
@@ -437,39 +449,23 @@
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
-        "name": "Kan Inte G\u00e5",
-        "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
+        "name": "Escape (2022 Remaster)",
+        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
       },
       "artists": [
         {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 146718,
-      "name": "Kan Inte G\u00e5",
-      "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
+      "duration_ms": 249600,
+      "name": "Don't Stop Believin' (2022 Remaster)",
+      "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
-      "album": {
-        "name": "Livet kommer d\u00f6da oss, vi lever det \u00e4nd\u00e5",
-        "url": "https://open.spotify.com/album/0Go4LuZjdNYuwmyT7S3VlO"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 187076,
-      "name": "Svagare \u00e4n jag",
-      "url": "https://open.spotify.com/track/63kBt6KKF2qGoPwhNXdZnv"
-    },
-    {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
@@ -485,27 +481,7 @@
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
-      "album": {
-        "name": "Somna med Humlan Djojj",
-        "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
-      },
-      "artists": [
-        {
-          "name": "Humlan Djojj",
-          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
-        },
-        {
-          "name": "Josefine G\u00f6testam",
-          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
-        }
-      ],
-      "duration_ms": 120545,
-      "name": "Godnattvisan",
-      "url": "https://open.spotify.com/track/5MxHurfskrN1RvkKez2ofd"
-    },
-    {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
@@ -521,27 +497,7 @@
       "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
-      "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Stateside + Zara Larsson",
-      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
-    },
-    {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Tomma glas (feat. Molly Sand\u00e9n & Dante)",
         "url": "https://open.spotify.com/album/2zSpEzpWaPkCjjFLXtM1JP"
@@ -565,39 +521,47 @@
       "url": "https://open.spotify.com/track/6XBKxNfb7kmxoGXyicHYHz"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
-        "name": "Sunnanvind",
-        "url": "https://open.spotify.com/album/1ShszyLF2JHOQxuREGy2d9"
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
       },
       "artists": [
         {
-          "name": "Mares",
-          "url": "https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 202409,
-      "name": "Sunnanvind",
-      "url": "https://open.spotify.com/track/6FeOQ2oiV6z6xIoFSI9Y1T"
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
-        "name": "Viva L\u2019Amor",
-        "url": "https://open.spotify.com/album/4b0SCc4EWD8oAJmkpo0wr7"
+        "name": "Somna med Humlan Djojj",
+        "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
       },
       "artists": [
         {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+          "name": "Humlan Djojj",
+          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
+        },
+        {
+          "name": "Josefine G\u00f6testam",
+          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
         }
       ],
-      "duration_ms": 181800,
-      "name": "Viva L\u2019Amor",
-      "url": "https://open.spotify.com/track/7AfJuBQaZQxmKDofbP73TT"
+      "duration_ms": 120545,
+      "name": "Godnattvisan",
+      "url": "https://open.spotify.com/track/5MxHurfskrN1RvkKez2ofd"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Inferno",
         "url": "https://open.spotify.com/album/0Pkg2U6eM9f15PN9ZXefNq"
@@ -613,175 +577,23 @@
       "url": "https://open.spotify.com/track/14AJI1RloVWTh8bJe9gBPM"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
-        "name": "N\u00e4r vi letar m\u00e4n i USA",
-        "url": "https://open.spotify.com/album/2TlOKbbHTB0gCYrF4UgLvV"
+        "name": "Sunnanvind",
+        "url": "https://open.spotify.com/album/1ShszyLF2JHOQxuREGy2d9"
       },
       "artists": [
         {
-          "name": "Hanna Friberg",
-          "url": "https://open.spotify.com/artist/6pNKNPOp1ltx8DJ4SkYz8R"
+          "name": "Mares",
+          "url": "https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC"
         }
       ],
-      "duration_ms": 205320,
-      "name": "N\u00e4r vi letar m\u00e4n i USA",
-      "url": "https://open.spotify.com/track/2spHbP27LclSlQktaMSY2g"
+      "duration_ms": 202409,
+      "name": "Sunnanvind",
+      "url": "https://open.spotify.com/track/6FeOQ2oiV6z6xIoFSI9Y1T"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
-      "album": {
-        "name": "FEVER DREAM",
-        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 153430,
-      "name": "FEVER DREAM",
-      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
-    },
-    {
-      "added_at": "2026-07-08 19:56:38",
-      "album": {
-        "name": "Fr\u00f6jdo Frido",
-        "url": "https://open.spotify.com/album/1hwTLZPs4MKVGad7frWF2e"
-      },
-      "artists": [
-        {
-          "name": "Lovet",
-          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
-        }
-      ],
-      "duration_ms": 156062,
-      "name": "Fr\u00f6jdo Frido",
-      "url": "https://open.spotify.com/track/05v3imcEyaTpAeWXnuurKt"
-    },
-    {
-      "added_at": "2026-07-08 19:56:38",
-      "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Earrings",
-      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
-    },
-    {
-      "added_at": "2026-07-08 19:56:38",
-      "album": {
-        "name": "Bangaranga",
-        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
-      },
-      "artists": [
-        {
-          "name": "DARA",
-          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
-        }
-      ],
-      "duration_ms": 177995,
-      "name": "Bangaranga",
-      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
-    },
-    {
-      "added_at": "2026-07-08 19:56:38",
-      "album": {
-        "name": "Ikv\u00e4ll Igen",
-        "url": "https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32"
-      },
-      "artists": [
-        {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
-        }
-      ],
-      "duration_ms": 137727,
-      "name": "Ikv\u00e4ll Igen",
-      "url": "https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf"
-    },
-    {
-      "added_at": "2026-07-08 19:56:38",
-      "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
-    },
-    {
-      "added_at": "2026-07-08 19:56:38",
-      "album": {
-        "name": "Sov med Humlan Djojj",
-        "url": "https://open.spotify.com/album/6K3aPGyRCE1EgmcTyftjxu"
-      },
-      "artists": [
-        {
-          "name": "Humlan Djojj",
-          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
-        },
-        {
-          "name": "Josefine G\u00f6testam",
-          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
-        }
-      ],
-      "duration_ms": 138947,
-      "name": "Vila med mig",
-      "url": "https://open.spotify.com/track/5JxKpEkR3Gqvf4OA8VLrBR"
-    },
-    {
-      "added_at": "2026-07-08 19:56:38",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2026-07-08 19:56:38",
-      "album": {
-        "name": "Kanna P\u00e5",
-        "url": "https://open.spotify.com/album/1H1mvRnO1DEEkUg2gqzycg"
-      },
-      "artists": [
-        {
-          "name": "De Vet Du",
-          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
-        },
-        {
-          "name": "Gula V\u00e4ggen",
-          "url": "https://open.spotify.com/artist/5g680PZBOiU2EnM6GzoaWc"
-        }
-      ],
-      "duration_ms": 141492,
-      "name": "Kanna P\u00e5",
-      "url": "https://open.spotify.com/track/6MgS6F5wCz17iwaC6emAil"
-    },
-    {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Dizzy up the Girl",
         "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
@@ -797,23 +609,135 @@
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+        "name": "Livet kommer d\u00f6da oss, vi lever det \u00e4nd\u00e5",
+        "url": "https://open.spotify.com/album/0Go4LuZjdNYuwmyT7S3VlO"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
         }
       ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+      "duration_ms": 187076,
+      "name": "Svagare \u00e4n jag",
+      "url": "https://open.spotify.com/track/63kBt6KKF2qGoPwhNXdZnv"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Kan Inte G\u00e5",
+        "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "duration_ms": 146718,
+      "name": "Kan Inte G\u00e5",
+      "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/0mYXRQpTGjaLJt1l9MY4ps"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Fr\u00f6jdo Frido",
+        "url": "https://open.spotify.com/album/1hwTLZPs4MKVGad7frWF2e"
+      },
+      "artists": [
+        {
+          "name": "Lovet",
+          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
+        }
+      ],
+      "duration_ms": 156062,
+      "name": "Fr\u00f6jdo Frido",
+      "url": "https://open.spotify.com/track/05v3imcEyaTpAeWXnuurKt"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Viva L\u2019Amor",
+        "url": "https://open.spotify.com/album/4b0SCc4EWD8oAJmkpo0wr7"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Viva L\u2019Amor",
+      "url": "https://open.spotify.com/track/7AfJuBQaZQxmKDofbP73TT"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "N\u00e4r vi letar m\u00e4n i USA",
+        "url": "https://open.spotify.com/album/2TlOKbbHTB0gCYrF4UgLvV"
+      },
+      "artists": [
+        {
+          "name": "Hanna Friberg",
+          "url": "https://open.spotify.com/artist/6pNKNPOp1ltx8DJ4SkYz8R"
+        }
+      ],
+      "duration_ms": 205320,
+      "name": "N\u00e4r vi letar m\u00e4n i USA",
+      "url": "https://open.spotify.com/track/2spHbP27LclSlQktaMSY2g"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Bangaranga",
+        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
+      },
+      "artists": [
+        {
+          "name": "DARA",
+          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
+        }
+      ],
+      "duration_ms": 177995,
+      "name": "Bangaranga",
+      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Superlim & silvertejp",
         "url": "https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm"
@@ -833,39 +757,27 @@
       "url": "https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+        "name": "Kanna P\u00e5",
+        "url": "https://open.spotify.com/album/1H1mvRnO1DEEkUg2gqzycg"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
-    },
-    {
-      "added_at": "2026-07-08 19:56:38",
-      "album": {
-        "name": "Babblarnas vaggvisa",
-        "url": "https://open.spotify.com/album/3byd3r0bluk22eusc6uth3"
-      },
-      "artists": [
+          "name": "De Vet Du",
+          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
+        },
         {
-          "name": "Vintergatan",
-          "url": "https://open.spotify.com/artist/2bl9NxlK21JgGjP5HkNi5o"
+          "name": "Gula V\u00e4ggen",
+          "url": "https://open.spotify.com/artist/5g680PZBOiU2EnM6GzoaWc"
         }
       ],
-      "duration_ms": 305765,
-      "name": "Babblarnas vaggvisa",
-      "url": "https://open.spotify.com/track/4lQfnSLKKSKlep9ASNoTbo"
+      "duration_ms": 141492,
+      "name": "Kanna P\u00e5",
+      "url": "https://open.spotify.com/track/6MgS6F5wCz17iwaC6emAil"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Satan i gatan (Bonus Version)",
         "url": "https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH"
@@ -881,7 +793,7 @@
       "url": "https://open.spotify.com/track/5MEuFY2DxrozPEgGpR8Fji"
     },
     {
-      "added_at": "2026-07-08 19:56:38",
+      "added_at": "2026-07-09 17:24:20",
       "album": {
         "name": "Fel p\u00e5 dig",
         "url": "https://open.spotify.com/album/4dVOq4Bs0pF1VqnQZcEUiA"
@@ -899,6 +811,106 @@
       "duration_ms": 154117,
       "name": "Fel p\u00e5 dig",
       "url": "https://open.spotify.com/track/4UGJVXMoSyTUl61OdVJ3N0"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Dream Your Life Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2026-07-09 17:24:20",
+      "album": {
+        "name": "Sov med Humlan Djojj",
+        "url": "https://open.spotify.com/album/6K3aPGyRCE1EgmcTyftjxu"
+      },
+      "artists": [
+        {
+          "name": "Humlan Djojj",
+          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
+        },
+        {
+          "name": "Josefine G\u00f6testam",
+          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
+        }
+      ],
+      "duration_ms": 138947,
+      "name": "Vila med mig",
+      "url": "https://open.spotify.com/track/5JxKpEkR3Gqvf4OA8VLrBR"
     }
   ],
   "unique_name": "Top 50 - Sweden",

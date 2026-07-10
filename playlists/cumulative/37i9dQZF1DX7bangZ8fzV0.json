@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: Droomsindroom en Bernice West",
+  "description": "Net die beste Afrikaanse musiek! Omslag: Rooksein en Early B",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 196208,
       "name": "Carina",
       "url": "https://open.spotify.com/track/6g8kgX8WWiExbvUJqGpz1X"
@@ -2279,6 +2279,28 @@
     },
     {
       "album": {
+        "name": "Halfpad",
+        "url": "https://open.spotify.com/album/6oCYKb6n9hZlqRw2lB7zTQ"
+      },
+      "artists": [
+        {
+          "name": "Rooksein",
+          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
+        },
+        {
+          "name": "Early B",
+          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192149,
+      "name": "Halfpad",
+      "url": "https://open.spotify.com/track/2G1KsYYIZF29YKuiMiKhTp"
+    },
+    {
+      "album": {
         "name": "Hallo My Maatjie",
         "url": "https://open.spotify.com/album/7gdqvTxXpNWVstcYyEnBn7"
       },
@@ -3388,7 +3410,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 181194,
       "name": "Klein Bietjie",
       "url": "https://open.spotify.com/track/3VAhXrrV3pA0hSHfG3fFPr"
@@ -6035,6 +6057,24 @@
     },
     {
       "album": {
+        "name": "Nuwe Spore",
+        "url": "https://open.spotify.com/album/6RNnzl4wOCBsemtp5dqHfv"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182006,
+      "name": "Spore",
+      "url": "https://open.spotify.com/track/5y9iFzYn1Nygb9sOKSLamt"
+    },
+    {
+      "album": {
         "name": "Stadig",
         "url": "https://open.spotify.com/album/2ndEeWY99a4o2lHtx61nGP"
       },
@@ -6314,7 +6354,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 160771,
       "name": "Swaartekrag",
       "url": "https://open.spotify.com/track/1ow1s5FcO29MuIBebhwi4I"
@@ -6882,6 +6922,24 @@
       "duration_ms": 220000,
       "name": "Voete Jeuk",
       "url": "https://open.spotify.com/track/3L2TgLpX3Y9iW1Ltoen06W"
+    },
+    {
+      "album": {
+        "name": "Vra Net Vir Jou",
+        "url": "https://open.spotify.com/album/17qeeLEcYt674KEQuHs6em"
+      },
+      "artists": [
+        {
+          "name": "Gerhard Steyn",
+          "url": "https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208780,
+      "name": "Vra Net Vir Jou",
+      "url": "https://open.spotify.com/track/6n5dI8KlITx2vRvsm9ddF0"
     },
     {
       "album": {

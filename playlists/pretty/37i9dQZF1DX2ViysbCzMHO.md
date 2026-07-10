@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,767 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,774 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 84 | [Neon Moon](https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Neon Moon](https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT) | 2:41 |
 | 85 | [Can't Nobody \- Acoustic](https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Can't Nobody \(Acoustic\)](https://open.spotify.com/album/6C3biWX9TVBevi1aA5ucsk) | 3:24 |
 | 86 | [Heart Shut \(feat\. Tenille Townes\)](https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Six Strings](https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk) | 3:21 |
-| 87 | [Some Girls \- Acoustic](https://open.spotify.com/track/6C2d77cnFFiVPUTsjbJ5t2) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Some Girls \(Acoustic\)](https://open.spotify.com/album/6EMXqG3KdHuNWfC3qwr1uz) | 3:11 |
-| 88 | [You, Me, And Whiskey \- Acoustic](https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk), [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [You, Me, And Whiskey \(Acoustic\)](https://open.spotify.com/album/6tArNmtAD2sWugYk9ePmg5) | 3:07 |
-| 89 | [Gonna Love You \- Acoustic](https://open.spotify.com/track/0fsiU4KOmZkqDqS6VO3PEh) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Gonna Love You \(Alternate Versions\)](https://open.spotify.com/album/2LyGE0JPXYK4ygkYPyk3uX) | 2:54 |
+| 87 | [Gonna Love You \- Acoustic](https://open.spotify.com/track/0fsiU4KOmZkqDqS6VO3PEh) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Gonna Love You \(Alternate Versions\)](https://open.spotify.com/album/2LyGE0JPXYK4ygkYPyk3uX) | 2:54 |
+| 88 | [Some Girls \- Acoustic](https://open.spotify.com/track/6C2d77cnFFiVPUTsjbJ5t2) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Some Girls \(Acoustic\)](https://open.spotify.com/album/6EMXqG3KdHuNWfC3qwr1uz) | 3:11 |
+| 89 | [You, Me, And Whiskey \- Acoustic](https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk), [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [You, Me, And Whiskey \(Acoustic\)](https://open.spotify.com/album/6tArNmtAD2sWugYk9ePmg5) | 3:07 |
 | 90 | [She Had Me at Heads Carolina \- Acoustic](https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [She Had Me At Heads Carolina \(Acoustic\)](https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa) | 3:16 |
 | 91 | [This Town's Been Too Good To Us \(Stripped\)](https://open.spotify.com/track/3qx8Dv2nvxlPkzteEItNSf) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [This Town's Been Too Good To Us \(Stripped\)](https://open.spotify.com/album/08KAKDcYVYi4mymCOVi021) | 3:09 |
 | 92 | [Never Wanted To Be That Girl \- Acoustic Version](https://open.spotify.com/track/0CbnbBGQGXK3tXieapv9sk) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl \(Acoustic Version\)](https://open.spotify.com/album/5MNdQpKMxTRTjQbJ14qtQC) | 3:31 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 94 | [I Should Probably Go To Bed \- Acoustic](https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [I Should Probably Go To Bed \(Acoustic\)](https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc) | 2:57 |
 | 95 | [My Left Hand \(Wedding Version\)](https://open.spotify.com/track/2S7fxN0RqZwAqXuXkVi9Ij) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [My Left Hand \(Wedding Version\)](https://open.spotify.com/album/59WB1DENlJgW6tC9mElV7Z) | 3:06 |
 | 96 | [Waiting For You \- Acoustic](https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Studio 900 Sessions](https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK) | 3:05 |
-| 97 | [Save The Roses \(Acoustic\)](https://open.spotify.com/track/6QNYLTMKqGrVzEl8RFxnQs) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Save The Roses \(Acoustic\)](https://open.spotify.com/album/4qmpoPJI3ys1tb3szfl55N) | 3:17 |
-| 98 | [Breakin' in Boots \- Stripped](https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Breakin' in Boots \(Stripped\)](https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG) | 2:34 |
-| 99 | [Lessons \(Acoustic\)](https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw) | [Tommy Karlas](https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY) | [Put It in Drive](https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB) | 3:11 |
-| 100 | [Heartbreaker \- Piano Version](https://open.spotify.com/track/5w1q62Vqr4kLCEaHV9HrXS) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Heartbreaker \(Piano Version\)](https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB) | 3:42 |
+| 97 | [Breakin' in Boots \- Stripped](https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Breakin' in Boots \(Stripped\)](https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG) | 2:34 |
+| 98 | [Save The Roses \(Acoustic\)](https://open.spotify.com/track/6QNYLTMKqGrVzEl8RFxnQs) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Save The Roses \(Acoustic\)](https://open.spotify.com/album/4qmpoPJI3ys1tb3szfl55N) | 3:17 |
+| 99 | [End of the Rain](https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [End of the Rain](https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb) | 3:15 |
+| 100 | [Lessons \(Acoustic\)](https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw) | [Tommy Karlas](https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY) | [Put It in Drive](https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB) | 3:11 |
 
 Snapshot ID: `AAAAABTz9Q8fYI0D/7XgBwb7J5zLOGDW`

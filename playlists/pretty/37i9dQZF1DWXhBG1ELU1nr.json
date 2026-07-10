@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
-  "num_followers": 232630,
+  "num_followers": 232612,
   "original_name": "Trabalhando de Casa",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "The Doors",
         "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 429760,
       "name": "Light My Fire",
       "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Out Of Time (U.S. Version)",
-        "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 267733,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 308333,
       "name": "Cryin'",
       "url": "https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Out Of Time (U.S. Version)",
+        "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 267733,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Unplugged (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 289026,
-      "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
-      "url": "https://open.spotify.com/track/3BEZCNZSmVv30vsMNSOCri"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "G N' R Lies",
         "url": "https://open.spotify.com/album/1RCAG3LrDwYsNU5ZiUJlWi"
       },
@@ -1399,18 +1383,18 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "The Joshua Tree (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/2qKmY7yt0kXdzSQxYAu9eZ"
+        "name": "Unplugged (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 295520,
-      "name": "With Or Without You - Remastered",
-      "url": "https://open.spotify.com/track/4kAJawkLZj4Q7N5521ofP6"
+      "duration_ms": 289026,
+      "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "url": "https://open.spotify.com/track/3BEZCNZSmVv30vsMNSOCri"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
+        "name": "The Joshua Tree (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/2qKmY7yt0kXdzSQxYAu9eZ"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 295520,
+      "name": "With Or Without You - Remastered",
+      "url": "https://open.spotify.com/track/4kAJawkLZj4Q7N5521ofP6"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
         "name": "No Need To Argue (The Complete Sessions 1994-1995)",
         "url": "https://open.spotify.com/album/2KsgTeLQXz7yDV1joGOd2L"
       },
@@ -1443,22 +1443,6 @@
       "duration_ms": 271533,
       "name": "Ode To My Family",
       "url": "https://open.spotify.com/track/1eQuRtkMEPhf2DGzpBVTE6"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
-        "name": "Deep Cuts: The Best Of The Ballads",
-        "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "To Be With You",
-      "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
+        "name": "Deep Cuts: The Best Of The Ballads",
+        "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 208066,
+      "name": "To Be With You",
+      "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
         "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
         "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
       },
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Rebel Yell",
-        "url": "https://open.spotify.com/album/2GWgADRfO423cyzHa1rKc5"
-      },
-      "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        }
-      ],
-      "duration_ms": 298293,
-      "name": "Eyes Without A Face - 1999 - Remaster",
-      "url": "https://open.spotify.com/track/6qI1KfY3nomDW1s0BrUInE"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Hopes and Fears (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5QqVXRTiGpLgmo1YNoz9Bk"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 216520,
       "name": "Everybody's Changing",
       "url": "https://open.spotify.com/track/216S5ED9SNRWaHWVjSJGyX"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Rebel Yell",
+        "url": "https://open.spotify.com/album/2GWgADRfO423cyzHa1rKc5"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 298293,
+      "name": "Eyes Without A Face - 1999 - Remaster",
+      "url": "https://open.spotify.com/track/6qI1KfY3nomDW1s0BrUInE"
     },
     {
       "added_at": "2024-02-27 20:15:05",

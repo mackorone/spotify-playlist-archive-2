@@ -4,7 +4,7 @@
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: BTS\) \(Enjoy a playlist of songs that support music video features!\)
 
-256 songs - 14 hr 1 min
+260 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [BAD](https://open.spotify.com/track/3SVX3EEHoia0DQLMTqBl4A) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [BAD](https://open.spotify.com/album/0PtWbP7Km50SmLKTKwToEi) | 3:45 | 2026-06-30 |  |
 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/2NXIhvX7tEhHjRXi7zhhs0) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Bad Desire \(With or Without You\)](https://open.spotify.com/album/1nOX4L5b6lCKfexhZU8ZND) | 2:46 | 2025-07-15 |  |
 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/3c8XJaxue3pvT2bq0W6cna) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Bad Desire \(With or Without You\)](https://open.spotify.com/album/7sidGuLHbrH2Vug76JRo26) | 2:46 | 2025-07-15 |  |
+| [Bansanka](https://open.spotify.com/track/0KgetoSLg8qfJWIwoAQxBf) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [J\-POP REMAKE Vol.1](https://open.spotify.com/album/6TrdV55NrcCxlod6cXsTNu) | 3:39 | 2026-07-09 |  |
 | [BBUU!](https://open.spotify.com/track/2eRPvAVimwqU0LTIBPNlut) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [BBUU!](https://open.spotify.com/album/40NtdpmgyeLNRR6SGksIIb) | 2:58 | 2025-12-03 |  |
 | [Beat It Up](https://open.spotify.com/track/6UbIw69jzYJabksNHobINQ) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beat It Up](https://open.spotify.com/album/1WjJDIxuJC7aTAXSNdGe9K) | 3:28 | 2025-12-03 |  |
 | [Beat It Up \| Spotify Performance Video](https://open.spotify.com/track/5B5SLuIkevqp9KlCzxhupw) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beat It Up \| Spotify Performance Video](https://open.spotify.com/album/2H001xNfwbodUi051OEO6Y) | 3:56 | 2025-12-03 |  |
@@ -113,6 +114,7 @@
 | [Handlebars](https://open.spotify.com/track/02ycmM2h4Qy7N7F8d68evw) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Handlebars](https://open.spotify.com/album/3gcVaAZbYasW3tPtFYLMo9) | 3:31 | 2025-07-15 | 2025-08-20 |
 | [HANDS UP](https://open.spotify.com/track/36pQp4XqaNgg3aGipDkQc4) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/2tcFy4JMpGJ97f2IEi7VLb) | 3:24 | 2025-07-15 |  |
 | [HANDS UP](https://open.spotify.com/track/5A6Hz16MM07t7yYacvB8fO) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/5LZ71KaercZEeBpGk3AOMp) | 3:24 | 2025-07-15 |  |
+| [HAWWAH \(夏渦\)](https://open.spotify.com/track/2X1XfAwcPM30Njo42x8IIr) | [dodree](https://open.spotify.com/artist/7aIg9z17jL7GCGoAxlnCCN) | [HAWWAH \(夏渦\)](https://open.spotify.com/album/5mouAcYmpBNriCzf2LT68G) | 2:53 | 2026-07-09 |  |
 | [Heavy Serenade](https://open.spotify.com/track/6HtaC2TRP4QMoCtK1MHPoe) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Heavy Serenade](https://open.spotify.com/album/1CcQeGV2y27qbZFvfKgNkL) | 3:23 | 2026-05-12 |  |
 | [HER](https://open.spotify.com/track/3H3PlGOLu5RqW8oC4upoi9) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [HER](https://open.spotify.com/album/6oe7WSv4pqbz3xC7MFTxm5) | 2:49 | 2025-07-15 | 2025-08-20 |
 | [HomeRUN](https://open.spotify.com/track/2QPjIYPYysnKvZwyVKTXaP) | [NOWZ](https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg) | [HomeRUN](https://open.spotify.com/album/0duN67iQTQ2rmPx0SwdGHi) | 3:01 | 2025-12-03 |  |
@@ -143,6 +145,7 @@
 | [La La Love Me](https://open.spotify.com/track/67HEeCRSWYzGfZEqgwl51b) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [La La Love Me](https://open.spotify.com/album/6RaOlm1b2E4KbcfSHfP6LI) | 3:10 | 2025-07-15 |  |
 | [Layback](https://open.spotify.com/track/54MezJT8koqN1K9j14yvcz) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Layback](https://open.spotify.com/album/5c3H5O5VDtmWuOeBA9Kef9) | 3:16 | 2026-06-19 |  |
 | [Lemon Drop](https://open.spotify.com/track/09d3tp7hN0NrXMUdzJg8pB) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Lemon Drop](https://open.spotify.com/album/09IydXd1KOgReAONummjt5) | 3:43 | 2025-07-15 |  |
+| [Lemon Tang](https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Lemon Tang \- The 2nd Mini Album](https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI) | 2:43 | 2026-07-09 |  |
 | [Like a Bubble](https://open.spotify.com/track/7LgDSRShxEGYpfF4NarHSx) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Like a Bubble](https://open.spotify.com/album/5RJ5xtdKiJnGgtCoEibdhc) | 3:27 | 2026-06-12 |  |
 | [like JENNIE](https://open.spotify.com/track/2cYzrDoBQNHuZ1a8gn91Qx) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [like JENNIE](https://open.spotify.com/album/18D8t8yEsudCJfFYIzcEI1) | 3:02 | 2025-07-15 | 2025-08-20 |
 | [LOOK AT ME](https://open.spotify.com/track/7LUZEEGVPp2SsMUlUKg6sq) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [LOOK AT ME](https://open.spotify.com/album/2JiloDVxdzXC2DfLbUms7m) | 2:47 | 2025-12-13 |  |
@@ -186,6 +189,7 @@
 | [POSE](https://open.spotify.com/track/7eJjhlY1IpLEdiMK41qdcy) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [POSE](https://open.spotify.com/album/1pyLJ89FLvz7j7C7mtDCpU) | 2:43 | 2026-04-25 |  |
 | [POWER \[Official Video\]](https://open.spotify.com/track/3v4QrvFs2vFAht1MdOiAC8) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER \[Official Video\]](https://open.spotify.com/album/3SoygZ2zWfBPX3TSE9i2Kx) | 2:46 | 2025-07-15 | 2025-08-20 |
 | [Pretty Boy Swag](https://open.spotify.com/track/7w8ZbczPuJUDlC16gVk80x) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [Pretty Boy Swag](https://open.spotify.com/album/08Di0TMfvqvCve78eBuJEW) | 2:58 | 2026-01-09 |  |
+| [Pretty Girl](https://open.spotify.com/track/26GehcyfHwgzfS0ok9yDYk) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Pretty Girl \- Special Single](https://open.spotify.com/album/5fooRwtJmNvt64WhLN5Chy) | 3:30 | 2026-07-09 |  |
 | [Promise](https://open.spotify.com/track/6Dxr0JrIN3wOMhNQzxL9RW) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Promise](https://open.spotify.com/album/4zjAHJSBQp7bifv39za7Kq) | 4:04 | 2025-12-13 |  |
 | [Promise \- Spotify Live Version](https://open.spotify.com/track/4ABOx8gMHbKsWYrMOBa2ZD) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Promise \- Spotify Live Version](https://open.spotify.com/album/7DDuWzLVKJxRKPuKUgH9Ob) | 3:53 | 2025-08-13 |  |
 | [Promise \- Spotify Live Version](https://open.spotify.com/track/1RJBfvb4imdz0YE0UMoG70) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Promise \- Spotify Live Version](https://open.spotify.com/album/4Ze2b2wEqXr6dxntYIBnqk) | 3:55 | 2025-08-13 |  |

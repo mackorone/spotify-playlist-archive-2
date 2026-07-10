@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KARSfd7WcM.md) - [plain]
 
 > Fall hard, love harder\. Listen to the music from Heartstopper, new season now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 817,583 likes - 147 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,665 likes - 147 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

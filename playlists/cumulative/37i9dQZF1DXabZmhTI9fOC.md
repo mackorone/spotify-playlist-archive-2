@@ -4,7 +4,7 @@
 
 > Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on Peacock.
 
-1,047 songs - 2 day 8 hr 42 min
+1,049 songs - 2 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Boom Boom](https://open.spotify.com/track/0BAlC3pMYdzmk0DQ3pYus2) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Bri Bryant](https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR) | [Boom Boom](https://open.spotify.com/album/7Jl6V6t0qqK5UvlYVS1xd8) | 2:52 | 2025-06-24 |  |
 | [Boom Boom](https://open.spotify.com/track/74KXRFi0qw3EdNyR9oLzRK) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Bri Bryant](https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR) | [Boom Boom](https://open.spotify.com/album/0Fj3i3nj3SabKrmnSIUsrA) | 2:52 | 2022-07-29 | 2025-06-12 |
 | [Boom Boom](https://open.spotify.com/track/1tRztGP1nj2Vdn3wGaRtkq) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Jon](https://open.spotify.com/artist/2QJKrWBci7NRXIFDe1zo6p), [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Boom Boom](https://open.spotify.com/album/1u48epo8DIoUdTxL5EfE3B) | 2:52 | 2022-07-29 | 2022-10-13 |
+| [Boom Clap](https://open.spotify.com/track/0Y1MWB026LYxGvhq4EcMiC) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU) | 2:49 | 2026-07-10 |  |
 | [Booty \(feat\. Latto\)](https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Booty \(feat\. Latto\)](https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF) | 2:26 | 2023-08-22 | 2024-06-13 |
 | [BOTH](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BOTH](https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL) | 3:08 | 2023-09-13 | 2024-06-13 |
 | [Bounce](https://open.spotify.com/track/38TKtVZBGq2ayVSGPk94a9) | [Mad Circuit](https://open.spotify.com/artist/1hEew8IFcwMc0gpMyHJm8u) | [Airhead](https://open.spotify.com/album/4gqp7YLAsnBCcnLoEjYx6e) | 3:18 | 2025-07-09 | 2026-06-05 |
@@ -663,6 +664,7 @@
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-06-13 | 2025-06-12 |
 | [Night Talks](https://open.spotify.com/track/3C3nxNgZ9NK2qyDPQ8Zf5h) | [Maisyn](https://open.spotify.com/artist/2SQWrWZ6liOAZtLkcs2P2d) | [Night Talks](https://open.spotify.com/album/1XgVKm93SUFBZLTfkWmhdx) | 3:07 | 2024-07-09 | 2025-06-12 |
 | [NIGHTS LIKE THESE](https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 2:52 | 2023-07-29 | 2024-06-13 |
+| [Nighttime Thing \(with Julia Michaels\)](https://open.spotify.com/track/0y4EfZFJECbLXHIap7vjlO) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 2:24 | 2026-07-10 |  |
 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 | 2026-07-08 |  |
 | [No Easy Way Out \- Epic Trailer Version](https://open.spotify.com/track/6NZMxSYawQ7oAI2TLWkTLR) | [Hidden Citizens](https://open.spotify.com/artist/707cnVfI3ISM4j5uzfTc7J), [VĒ](https://open.spotify.com/artist/1azXaTeQxY8ChkeQF7BwXy) | [Reawakenings Vol\. 2](https://open.spotify.com/album/2LrTI8TmMtjlAfGFvvMLoD) | 4:02 | 2022-08-12 | 2023-07-19 |
 | [No Mercy](https://open.spotify.com/track/3E56PIzUsN5bzRsE4f6JZB) | [Zayde Wølf](https://open.spotify.com/artist/7LIy7KinYq7a83dUH6kvxT) | [Modern Alchemy](https://open.spotify.com/album/26lJZZBUlOj3olP9sEESUZ) | 3:44 | 2023-08-07 | 2025-06-12 |
@@ -950,7 +952,7 @@
 | [Trouble](https://open.spotify.com/track/00lPcGSCLPgMGGQaPWKrNX) | [Valley Of Wolves](https://open.spotify.com/artist/1sYbTp9AgWvJb0mJBAB6eP) | [Beast in Me](https://open.spotify.com/album/65eiXztq6hqAKqwrZdB2jg) | 3:30 | 2024-07-09 | 2025-06-12 |
 | [Trouble \(with Georgia Ku\)](https://open.spotify.com/track/7HHRiPCwjaYcUzxjbOK1lO) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Trouble \(with Georgia Ku\)](https://open.spotify.com/album/0SO2B2p5FXifC2mwY24nih) | 2:19 | 2023-07-22 | 2024-06-13 |
 | [True Romance](https://open.spotify.com/track/7G4aD9GSe262y5lisfaIGy) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [True Romance](https://open.spotify.com/album/6kPYPazaW34fsXAgVGQxxZ) | 4:05 | 2022-08-12 | 2023-07-19 |
-| [True Romance](https://open.spotify.com/track/3DSIQ2SCR25VwYqkpImpmb) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6) | 4:05 | 2023-09-13 | 2026-06-05 |
+| [True Romance](https://open.spotify.com/track/3DSIQ2SCR25VwYqkpImpmb) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6) | 4:05 | 2023-09-13 |  |
 | [True Romance](https://open.spotify.com/track/5cozKcTbz5DUdHHfgNdGOb) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF) | 4:05 | 2023-08-16 | 2024-06-13 |
 | [TRUSTFALL](https://open.spotify.com/track/1gUwi1o1S9W9P0FQgJdY8s) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:57 | 2025-06-12 |  |
 | [Turks & Caicos](https://open.spotify.com/track/2A9MZqq8SJO8fVIQIqxplP) | [Flamingos](https://open.spotify.com/artist/1cRyfaJ5aUjOD8q5u7ZrQI) | [Turks & Caicos](https://open.spotify.com/album/26zUQ4Srz9IHfp9zlw4ju9) | 1:57 | 2024-07-20 | 2025-06-12 |

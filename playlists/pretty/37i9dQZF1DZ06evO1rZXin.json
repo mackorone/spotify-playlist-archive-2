@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akrwAAAAAADPKqrjRcjYze/SSNbjFklk",
+  "snapshot_id": "ak2TAAAAAAAihy6p21IWxoIgdouNqlJl",
   "tracks": [
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busca Amor",
-        "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 200426,
-      "name": "La Banda Rock",
-      "url": "https://open.spotify.com/track/448szMJep2MNhcZLVeMeGn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celebrando En Grande",
         "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 137000,
       "name": "Tu Eres",
       "url": "https://open.spotify.com/track/2j41ukCckXffKAgtyUpACd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Busca Amor",
+        "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 200426,
+      "name": "La Banda Rock",
+      "url": "https://open.spotify.com/track/448szMJep2MNhcZLVeMeGn"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meneaito",
-        "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 217234,
-      "name": "Meneaito",
-      "url": "https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
         "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 179000,
       "name": "Aunque Te Enamores",
       "url": "https://open.spotify.com/track/1nFZVvBqero0LnSsH23NAd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meneaito",
+        "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 217234,
+      "name": "Meneaito",
+      "url": "https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD"
     },
     {
       "added_at": null,

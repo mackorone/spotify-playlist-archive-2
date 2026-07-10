@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,879 likes - 79 songs - 4 hr 45 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,890 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,5 +87,6 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 77 | [Ridin'](https://open.spotify.com/track/6grMfwV4ObyviLICT967F7) | [Evan Shapiro](https://open.spotify.com/artist/0UILmPMs55OVehWiVAoFTc), [David J\. Michalak](https://open.spotify.com/artist/3SgiNaCNy5hVnqi0lc5VYv) | [Ridin'](https://open.spotify.com/album/2fmKXOMnrCF9kgevQekIPL) | 3:07 |
 | 78 | [Blodwyn](https://open.spotify.com/track/5UFmMdHSFqbWXQJoAbppSm) | [Moss Meredith](https://open.spotify.com/artist/3DL8xk1UlC6kPkrlbTHA56) | [Blodwyn](https://open.spotify.com/album/6UUxFXo46hihB0aOxV5kPq) | 3:20 |
 | 79 | [Over It](https://open.spotify.com/track/2kj6TZScNoIT7XkmHaNzf5) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE) | [Over It](https://open.spotify.com/album/2QMH3GnAnZDiHobPxWdlYI) | 3:11 |
+| 80 | [Backseat Polaroids](https://open.spotify.com/track/1JriHYTjpwdbG5UAH0RKHU) | [The Nightfall](https://open.spotify.com/artist/1SImrCTeQXeP3b7ZQ5ODKo) | [Backseat Polaroids](https://open.spotify.com/album/245ZhCG2h6slLxHhvgniyh) | 3:31 |
 
-Snapshot ID: `AAACw8R9uUMm8W2boQONH35+MjWRWPiW`
+Snapshot ID: `AAACxBK3lbs0AAzoeF8U08ipPwqZyF3P`

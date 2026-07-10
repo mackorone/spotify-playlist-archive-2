@@ -203,6 +203,22 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
+        "name": "GROSSE MAISON",
+        "url": "https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb"
+      },
+      "artists": [
+        {
+          "name": "Super Plage",
+          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "TIP TOP",
+      "url": "https://open.spotify.com/track/7EsVuPM95bLSqb8qIoPCw8"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
         "name": "je t\u2019ai dit je t\u2019aime",
         "url": "https://open.spotify.com/album/6YRSyAeYRIcnrKWw5D4BRV"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 157132,
       "name": "Swim With the Gore",
       "url": "https://open.spotify.com/track/2utE575Mfh8CJQqHPqcoFV"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "GROSSE MAISON",
-        "url": "https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb"
-      },
-      "artists": [
-        {
-          "name": "Super Plage",
-          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "TIP TOP",
-      "url": "https://open.spotify.com/track/7EsVuPM95bLSqb8qIoPCw8"
     },
     {
       "added_at": "2025-11-20 17:00:08",

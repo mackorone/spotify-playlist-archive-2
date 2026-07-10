@@ -3569,6 +3569,24 @@
     },
     {
       "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/0v9rHxhxnFi9sEkWbtghGx"
+      },
+      "artists": [
+        {
+          "name": "Maria Sur",
+          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149096,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/4ykZCiEgz1rPTOlRpvYOyp"
+    },
+    {
+      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/55f8chw9TtGtmMX3wA1914"
       },
@@ -11370,7 +11388,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 197938,
       "name": "Fantomsm\u00e4rta",
       "url": "https://open.spotify.com/track/5Js7P4JCIoRJa4yhC5QZYQ"
@@ -19282,7 +19300,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-10",
       "duration_ms": 162703,
       "name": "inte tillsammans (find you) - isby sessions",
       "url": "https://open.spotify.com/track/0zP0wKwZQOTSu8wnMwSuhH"
@@ -34548,6 +34566,24 @@
       "duration_ms": 201342,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/6ey4WncmCwNDailvLTUZCm"
+    },
+    {
+      "album": {
+        "name": "Stockholm",
+        "url": "https://open.spotify.com/album/6wTfGjzZyk0lGi784bSZe8"
+      },
+      "artists": [
+        {
+          "name": "Vilhelm Buchaus",
+          "url": "https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182413,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/2OY0TuFhYouP4aPaMHtVf7"
     },
     {
       "album": {
