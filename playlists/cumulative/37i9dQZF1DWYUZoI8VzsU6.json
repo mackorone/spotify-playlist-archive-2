@@ -669,6 +669,28 @@
     },
     {
       "album": {
+        "name": "Kill Me First",
+        "url": "https://open.spotify.com/album/2SAoqo4aCJO8wshF6Lf1dX"
+      },
+      "artists": [
+        {
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+        },
+        {
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187464,
+      "name": "Kill Me First",
+      "url": "https://open.spotify.com/track/1mFvTywPa4teyAeo9frqAY"
+    },
+    {
+      "album": {
         "name": "Liar Outta Me",
         "url": "https://open.spotify.com/album/6BN7Fn5p7UdbRai6HLClca"
       },

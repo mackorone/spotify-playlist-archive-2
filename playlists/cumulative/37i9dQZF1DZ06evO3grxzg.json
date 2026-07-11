@@ -102,7 +102,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 312866,
       "name": "A Coro - En Vivo",
       "url": "https://open.spotify.com/track/4x79biRWWDHilrtzoI1Qsj"
@@ -2774,6 +2774,28 @@
       "duration_ms": 167741,
       "name": "Vuelve, Vuelve",
       "url": "https://open.spotify.com/track/5EjRxRZTIpJP1nOdowCFbZ"
+    },
+    {
+      "album": {
+        "name": "Energ\u00eda Chimbita",
+        "url": "https://open.spotify.com/album/0xve7Ca19TNkPVwoCXyZQ0"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167741,
+      "name": "Vuelve, Vuelve",
+      "url": "https://open.spotify.com/track/7F4lqx96eJZvG7fNzv2pKt"
     },
     {
       "album": {

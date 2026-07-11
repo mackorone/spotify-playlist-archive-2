@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Harsha Vardhan",
+  "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Joshua Aaron",
   "name": "RADAR Tamil",
   "tracks": [
     {
@@ -120,6 +120,28 @@
       "duration_ms": 174315,
       "name": "Aahaa Penney",
       "url": "https://open.spotify.com/track/7Kf1dOawUard8B9qpue80n"
+    },
+    {
+      "album": {
+        "name": "27 Saayal",
+        "url": "https://open.spotify.com/album/36sC0MtrdgnqBw6D6yWVVe"
+      },
+      "artists": [
+        {
+          "name": "Kanav",
+          "url": "https://open.spotify.com/artist/5T5xCP3V1dyWbQjpfFqQoo"
+        },
+        {
+          "name": "Ashlay JC",
+          "url": "https://open.spotify.com/artist/3zLbhGMrdDFUyU0lUerfxt"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Aaley Aaley",
+      "url": "https://open.spotify.com/track/1mgNWa6XeVeaJkPz7xuBZP"
     },
     {
       "album": {
@@ -1942,7 +1964,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 234294,
       "name": "Broken Star (From \"Loopd\")",
       "url": "https://open.spotify.com/track/0hIgpTZOcfxex9i1xW7prm"
@@ -5995,6 +6017,28 @@
     },
     {
       "album": {
+        "name": "27 Saayal",
+        "url": "https://open.spotify.com/album/36sC0MtrdgnqBw6D6yWVVe"
+      },
+      "artists": [
+        {
+          "name": "Kanav",
+          "url": "https://open.spotify.com/artist/5T5xCP3V1dyWbQjpfFqQoo"
+        },
+        {
+          "name": "Dharshu Prakash",
+          "url": "https://open.spotify.com/artist/3759kf89nqfqS46KxjLyPb"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154186,
+      "name": "Kallaatam",
+      "url": "https://open.spotify.com/track/0zYffmclu4HJoeFZusAE3Q"
+    },
+    {
+      "album": {
         "name": "Kalyanathukku Menu En Kadhal (From \"MM Originals\") (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7E7E1r2niiRGflZxGzvLQg"
       },
@@ -6106,6 +6150,32 @@
       "duration_ms": 218426,
       "name": "Kanatha Kanavukal",
       "url": "https://open.spotify.com/track/2lg7V9oIEcJsM0BUhmXJHd"
+    },
+    {
+      "album": {
+        "name": "Kanave",
+        "url": "https://open.spotify.com/album/3nGyeFmt5NcH44pRJilHhp"
+      },
+      "artists": [
+        {
+          "name": "Rama Priya Yegasivanathan",
+          "url": "https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx"
+        },
+        {
+          "name": "Shibi Srinivasan",
+          "url": "https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5"
+        },
+        {
+          "name": "Mirun Pradhap",
+          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277333,
+      "name": "Kanave",
+      "url": "https://open.spotify.com/track/0aOcwV1NQhx2AKWXpPaNGa"
     },
     {
       "album": {
@@ -13114,7 +13184,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 177000,
       "name": "Sattaiyila Button Illa - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/1TQN8q2X6dS3RXrnoxfFpA"
@@ -17614,7 +17684,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 178285,
       "name": "Yaen Anbe",
       "url": "https://open.spotify.com/track/3qo7g4rdkeefPbKPAgdBhC"

@@ -4,7 +4,7 @@
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure.
 
-1,324 songs - 3 day 10 hr 53 min
+1,330 songs - 3 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -711,6 +711,7 @@
 | [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 | 2025-07-11 |  |
 | [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 | 2025-08-08 |  |
 | [My Will to Live](https://open.spotify.com/track/4sAWFLOCxVfyBvZq9dWy0s) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [My Will to Live](https://open.spotify.com/album/5Jqz6ZgchnSaUNsTbV38pz) | 5:20 | 2023-01-06 | 2024-02-03 |
+| [NAIL MARY](https://open.spotify.com/track/3Amh892iDICZ1Vuil7vwUC) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [NAIL MARY](https://open.spotify.com/album/3bi1oM2Nsau0BsfoAIo4js) | 3:11 | 2026-07-10 |  |
 | [NAIL5](https://open.spotify.com/track/7qD4fAVNgkhhQ7TAfwcLCa) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [NAIL5](https://open.spotify.com/album/5JIRskvoOGxpCmqnQbdKX6) | 2:33 | 2024-04-12 | 2025-04-11 |
 | [names](https://open.spotify.com/track/4keVU1iG5gKDkp3gFnIMsM) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2), [Record Setter](https://open.spotify.com/artist/5dAHI3WBHJFGRaAyDm5VHT) | [names](https://open.spotify.com/album/4UDjMHGSpHxfRm6ABUsiCF) | 1:16 | 2022-04-01 | 2023-07-15 |
 | [Napalm](https://open.spotify.com/track/5DCFs0BboOFVMCYWMpQfeH) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [Napalm](https://open.spotify.com/album/7sJcgW8x73vH5vwhqEdsLz) | 2:30 | 2022-01-28 | 2023-07-15 |
@@ -767,6 +768,7 @@
 | [Novocaine](https://open.spotify.com/track/7ylI3Csj3EG4HPVf11L2jz) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Novocaine](https://open.spotify.com/album/7dMhiwQNwLVNmqUdRCQ8My) | 4:55 | 2024-03-08 | 2025-04-11 |
 | [Nu Delhi](https://open.spotify.com/track/4AFqxUgTjluFRfjPLuoZ0a) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Nu Delhi](https://open.spotify.com/album/3JTGK3Rm4G03OcK6wI1bJa) | 4:28 | 2024-10-18 | 2025-04-11 |
 | [NUGE SNIGHT](https://open.spotify.com/track/2UCgCgrVNGPND618mlS9eo) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [NUGE SNIGHT](https://open.spotify.com/album/3gSv2igJIJ6V9UaWv927mb) | 1:31 | 2022-02-11 | 2023-07-15 |
+| [Numb The Pain](https://open.spotify.com/track/0TD9zLvWImAZMbMaP132IW) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Numb The Pain](https://open.spotify.com/album/0CJSjtmDIHA8hvOiFNhvxW) | 2:57 | 2026-07-10 |  |
 | [Numb To What Is Real](https://open.spotify.com/track/6PDygXdsETLyRlyVAp656O) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Long Gone / Numb To What Is Real](https://open.spotify.com/album/0g2f9LqOKNbRB0vDcHf6P9) | 2:49 | 2024-12-13 | 2025-04-11 |
 | [Nympheas](https://open.spotify.com/track/6dlvIEP0oxOCs4XtA3JPfc) | [Birds in Row](https://open.spotify.com/artist/2H5x6tCSjQ4N5Lh7pRrTNo) | [Nympheas](https://open.spotify.com/album/0uHCBkvSUkndSSVKxKqPWm) | 3:24 | 2022-07-15 | 2023-07-15 |
 | [Nü Burn](https://open.spotify.com/track/6SpXyStq0oiro815bJLey9) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Nü Burn](https://open.spotify.com/album/01i8t4KWDs5RSTO6mR69m0) | 4:01 | 2025-03-07 | 2026-04-25 |
@@ -1099,6 +1101,7 @@
 | [The Dying Breath of a Sacred Stag](https://open.spotify.com/track/2QmY7VFt60PR7U7OIl7twZ) | [Blackbraid](https://open.spotify.com/artist/47nBZhrImXWXTWVSWt09MY) | [The Dying Breath of a Sacred Stag](https://open.spotify.com/album/1gJaCOAb78Dcfs3lrBu5lt) | 7:44 | 2025-07-04 |  |
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Dying Song \(Time To Sing\)](https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8) | 3:23 | 2022-07-22 | 2023-07-15 |
 | [THE EARTH’S COLD EMBRACE](https://open.spotify.com/track/7MuzyATTUAjByhKB3zHLTQ) | [Mouth for War](https://open.spotify.com/artist/2XWmtvXZ0FHiRT9PGzGPaF) | [THE EARTH’S COLD EMBRACE](https://open.spotify.com/album/2yaFrFB0fmseL2s5maXwBO) | 2:47 | 2024-09-27 | 2025-04-11 |
+| [The Edge of Perfection](https://open.spotify.com/track/4yyZgS9QlUbOtMPzagV7g3) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [The Edge of Perfection](https://open.spotify.com/album/7vNUBvc21dOm2r4ClB7wJY) | 6:46 | 2026-07-10 |  |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-06 | 2025-04-11 |
 | [The End of All We Know](https://open.spotify.com/track/28uXRxTn0ztyqUjtMtHYJa) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Fracture](https://open.spotify.com/album/0m0oTvI6SHfVmYHuq4jU8p) | 4:12 | 2025-04-04 | 2026-06-20 |
 | [The End of Times](https://open.spotify.com/track/5PREpWSEGXjkmOvLFQ3i0B) | [Defacing God](https://open.spotify.com/artist/1vDFKivJsGreOJhC7aYLus) | [The End of Times](https://open.spotify.com/album/0lVlIuxzG665JhrCCYGSZg) | 4:13 | 2022-08-05 | 2023-07-15 |
@@ -1216,6 +1219,7 @@
 | [UNTENDED GRAVES](https://open.spotify.com/track/4t9E4wj0PHqNozXXIboLYM) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs) | [UNTENDED GRAVES](https://open.spotify.com/album/1hsYH0Y9c8o3siY9FQy1Wm) | 2:17 | 2022-12-16 | 2023-07-15 |
 | [Unthinkable](https://open.spotify.com/track/3LkNBDxqs44zWx4ixcv5AS) | [Fotocrime](https://open.spotify.com/artist/4FISVeBOWY3NwQsTUc7aVE) | [Unthinkable](https://open.spotify.com/album/0Piffg2fjroEVwxvDuPqNs) | 3:58 | 2026-02-06 |  |
 | [Unwavering Vow](https://open.spotify.com/track/6GGl1K5qvkGHOVrh4pe4TW) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Unwavering Vow](https://open.spotify.com/album/2C7dVc4F38Lxu2CnHo1arQ) | 3:07 | 2022-06-03 | 2023-07-15 |
+| [Upphaf](https://open.spotify.com/track/1QfeSgrrRMPiywQWiFDY7L) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Upphaf](https://open.spotify.com/album/1Pi6Re7Laq42e5T7FvN847) | 4:32 | 2026-07-10 |  |
 | [Upside Down](https://open.spotify.com/track/6FX3esU21yEcnwhZtFlloL) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [Upside Down](https://open.spotify.com/album/3KujdnfhASvMZsSFTDf5Go) | 3:17 | 2025-06-13 | 2026-06-20 |
 | [V.A.N](https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [V.A.N](https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM) | 4:34 | 2024-01-26 | 2025-04-11 |
 | [Vale of Tears](https://open.spotify.com/track/3ETG30h6dYBQJrx7ofWuUA) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB) | [Vale of Tears](https://open.spotify.com/album/0Ji58POfsCobxnVoTISYBi) | 2:01 | 2025-02-28 | 2026-04-25 |
@@ -1320,6 +1324,7 @@
 | [You Are the Beginning](https://open.spotify.com/track/4z1hGpOWBgFPa1AUND2P7X) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [You Are the Beginning](https://open.spotify.com/album/4Jupeun3ZXE7DsAb3nv7ZG) | 3:44 | 2023-05-05 | 2024-02-03 |
 | [You Bastard](https://open.spotify.com/track/4ohvO7swB3BaaCaRFcjTr8) | [Monolord](https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm) | [You Bastard](https://open.spotify.com/album/3Dr4mWBqu9z9c2gEXjjoze) | 4:19 | 2026-04-03 |  |
 | [You Get One](https://open.spotify.com/track/27FTxVOBjgkv8Ox47iNftf) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [You Get One](https://open.spotify.com/album/45mqk7FIJfOKGmxIf5DQ1j) | 3:00 | 2026-04-03 |  |
+| [You Worms' Vain Delusions](https://open.spotify.com/track/4PHGUmRE5v6k3PH13mVxRQ) | [Devil Master](https://open.spotify.com/artist/4AMKnzwsd1nq6EjUdVNi4i) | [You Worms' Vain Delusions](https://open.spotify.com/album/4M37Y3GfdYCNcIiCFaaHhZ) | 2:41 | 2026-07-10 |  |
 | [You're Gonna Have To Kill Me](https://open.spotify.com/track/0EOX4S6BJLixT61KRika3H) | [Blood For Blood](https://open.spotify.com/artist/1x61OF80wiXb3qawWTGUDA) | [You're Gonna Have To Kill Me](https://open.spotify.com/album/1LLMdiKtf5rmffV9bhhSm7) | 2:52 | 2025-12-12 |  |
 | [You're On The List \(minus one\)](https://open.spotify.com/track/0hKmeXmY7wJSfEUqrL7pTD) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [You're On The List \(minus one\)](https://open.spotify.com/album/1NlppsZ2UrWiYjwWGgoXk8) | 3:01 | 2023-05-19 | 2024-02-03 |
 | [Your Flowers](https://open.spotify.com/track/1f6jZXsVuoSb2imgfJ91Vx) | [Excide](https://open.spotify.com/artist/340j9YEGnVocbAAgrtiBUh) | [Your Flowers](https://open.spotify.com/album/5IF7a6vg9C8HbltPfq0giv) | 3:10 | 2025-06-20 |  |
@@ -1331,6 +1336,7 @@
 | [いとをかしMyType](https://open.spotify.com/track/2FWQeQtJToIZdZWuaivtJd) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [ぶっちぎり東京](https://open.spotify.com/album/0g7BacE5bE3ScvHzmQqbFq) | 3:07 | 2024-12-06 | 2025-04-11 |
 | [おいしいサバイバー](https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [おいしいサバイバー](https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX) | 2:58 | 2025-01-31 | 2026-02-07 |
 | [お先に失礼します。](https://open.spotify.com/track/1bTZoQX1G6GmADCY0xwBbO) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [お先に失礼します。](https://open.spotify.com/album/0l4QylgmJ4qS6UfyMbMnlf) | 3:09 | 2023-01-13 | 2024-02-03 |
+| [命短し対する乙女よ](https://open.spotify.com/track/3uXfyndmsK3fRNSMr7uWrI) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [命短し対する乙女よ](https://open.spotify.com/album/5bHN3dSjlEq7AX09q4U9dC) | 3:48 | 2026-07-10 |  |
 | [知恵](https://open.spotify.com/track/5fJKzNZbsGbeA8w8yKPGaS) | [moreru](https://open.spotify.com/artist/6YbQDmSNnb9RxI3NMk4BN4) | [山田花子](https://open.spotify.com/album/6p4e0G8qlZMvSpcpviffAw) | 3:26 | 2022-04-01 | 2023-07-15 |
 
 \*This playlist was first scraped on 2022-11-16. Prior content cannot be recovered.

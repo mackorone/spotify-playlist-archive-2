@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: miaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,755 likes - 172 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,819 likes - 172 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Walmart](https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [Walmart](https://open.spotify.com/album/6MOODniNUgSGdiguTezSAz) | 2:51 |
 | 2 | [See\-through](https://open.spotify.com/track/68Pmz9nDlz2MjpNJ3X94KQ) | [effe](https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX) | [See\-through](https://open.spotify.com/album/3h4pgqLbUPj2ojUeKy0Y0G) | 4:19 |
-| 3 | [Be My](https://open.spotify.com/track/0R224dzbGFzYy4bQgnO19J) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Be My](https://open.spotify.com/album/3tNlHGHKxgbvMsg440Nnov) | 3:04 |
+| 3 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 |
 | 4 | [Stew](https://open.spotify.com/track/1bDwvHbDgtCvr2TcZIpQyn) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Stew](https://open.spotify.com/album/2Rwca3mHmAeP6fEkbXCVHO) | 5:44 |
-| 5 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 |
-| 6 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 |
-| 7 | [Tyler Richard](https://open.spotify.com/track/1z6gxaOoSkvzXpkb0s6sdh) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/2e1eja8MYlw9fn7v48ZFlU) | 3:01 |
-| 8 | [Something For My Head \- Tiffi M REWORK](https://open.spotify.com/track/4VcAlqZULz0HJruvvhrv9D) | [thredd](https://open.spotify.com/artist/0Ev2bboZsrsNWTTwaOtXQC), [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5) | [Something For My Head REWORKS](https://open.spotify.com/album/2imAVUf6b3Kyr2NpshuAgh) | 2:45 |
-| 9 | [Time Will Help](https://open.spotify.com/track/1C0LH8rIuyoPQVzBJNhxwm) | [Tigeroak](https://open.spotify.com/artist/5438LSbtMXzEmfe0qZRff0), [Teis Ortved](https://open.spotify.com/artist/5GgzMnW2NLZDoCtR2K3S5X) | [Time Will Help](https://open.spotify.com/album/1UDR8zmbOrEuRg83q1wbRU) | 3:59 |
-| 10 | [Blo](https://open.spotify.com/track/65Ja8ZfxVKPlhMbQtHpjO1) | [never\-never](https://open.spotify.com/artist/4TR28DVlsvth6WIPlcxoKP) | [Blo](https://open.spotify.com/album/2mq28v3vkhlh1SbVDb0x0f) | 1:52 |
-| 11 | [Going about my day](https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14) | [Lola Hammerich](https://open.spotify.com/artist/2wQsqVsADuAKMfEbg3ey40) | [Going about my day](https://open.spotify.com/album/1vXJSMCiSd14fGi6rIJQMV) | 5:57 |
-| 12 | [i wait, i sink](https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [i wait, i sink](https://open.spotify.com/album/7caD1nvFAGlDkltnoJHh1o) | 2:46 |
-| 13 | [blue+green](https://open.spotify.com/track/7cLHzL62KYEIDvqhmml7fx) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [blue+green](https://open.spotify.com/album/7dskID1nsNKIaBuA7Kze02) | 4:05 |
+| 5 | [Be My](https://open.spotify.com/track/0R224dzbGFzYy4bQgnO19J) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Be My](https://open.spotify.com/album/3tNlHGHKxgbvMsg440Nnov) | 3:04 |
+| 6 | [Tyler Richard](https://open.spotify.com/track/1z6gxaOoSkvzXpkb0s6sdh) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/2e1eja8MYlw9fn7v48ZFlU) | 3:01 |
+| 7 | [Going about my day](https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14) | [Lola Hammerich](https://open.spotify.com/artist/2wQsqVsADuAKMfEbg3ey40) | [Going about my day](https://open.spotify.com/album/1vXJSMCiSd14fGi6rIJQMV) | 5:57 |
+| 8 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 |
+| 9 | [Something For My Head \- Tiffi M REWORK](https://open.spotify.com/track/4VcAlqZULz0HJruvvhrv9D) | [thredd](https://open.spotify.com/artist/0Ev2bboZsrsNWTTwaOtXQC), [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5) | [Something For My Head REWORKS](https://open.spotify.com/album/2imAVUf6b3Kyr2NpshuAgh) | 2:45 |
+| 10 | [blue+green](https://open.spotify.com/track/7cLHzL62KYEIDvqhmml7fx) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [blue+green](https://open.spotify.com/album/7dskID1nsNKIaBuA7Kze02) | 4:05 |
+| 11 | [Time Will Help](https://open.spotify.com/track/1C0LH8rIuyoPQVzBJNhxwm) | [Tigeroak](https://open.spotify.com/artist/5438LSbtMXzEmfe0qZRff0), [Teis Ortved](https://open.spotify.com/artist/5GgzMnW2NLZDoCtR2K3S5X) | [Time Will Help](https://open.spotify.com/album/1UDR8zmbOrEuRg83q1wbRU) | 3:59 |
+| 12 | [Blo](https://open.spotify.com/track/65Ja8ZfxVKPlhMbQtHpjO1) | [never\-never](https://open.spotify.com/artist/4TR28DVlsvth6WIPlcxoKP) | [Blo](https://open.spotify.com/album/2mq28v3vkhlh1SbVDb0x0f) | 1:52 |
+| 13 | [i wait, i sink](https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [i wait, i sink](https://open.spotify.com/album/7caD1nvFAGlDkltnoJHh1o) | 2:46 |
 | 14 | [Blue Flame](https://open.spotify.com/track/5R9utrfWW0T6GqAe3koh3o) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Play](https://open.spotify.com/album/4mveLQ3t7GKHwuKDShwgzx) | 3:03 |
 | 15 | [Miscommunication](https://open.spotify.com/track/1Iufyww7vBObAq95TsleLn) | [Iben](https://open.spotify.com/artist/74r4FqTey9wuD0hsGp1gdf) | [Miscommunication](https://open.spotify.com/album/0XUJr36WbA7gYBm2HcYpsY) | 4:40 |
 | 16 | [Higher Midnight](https://open.spotify.com/track/34Yc7nYqmSXIqM6wIoS6Ca) | [Koilwood](https://open.spotify.com/artist/4GKDR0aZmXTNpvDBcUy1m2) | [Higher Midnight](https://open.spotify.com/album/5qgWe7MCLEQKH3mBmQIlaa) | 2:12 |
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 | 171 | [sinking stone](https://open.spotify.com/track/6HO2Ak18blRMCY7ePLRW5W) | [Nova Varnrable](https://open.spotify.com/artist/7eXnw7Cn85i2s9aYNAERcR) | [where it melts away](https://open.spotify.com/album/3xHwEDVAeZjpnDg4PRmaBl) | 2:44 |
 | 172 | [Letters](https://open.spotify.com/track/0B6xHxWg4g7C9174Cx1d0m) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr) | 2:26 |
 
-Snapshot ID: `AAAAAG1mqhsg+VbaEyr5Fzdq7mANqPNn`
+Snapshot ID: `AAAAALMRUyvrLFTaM2nPAum9CdMHtzbs`

@@ -410,7 +410,7 @@
       },
       "artists": [
         {
-          "name": "Felix Jaehn",
+          "name": "felix jaehn",
           "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         },
         {
@@ -420,7 +420,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 186146,
       "name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
       "url": "https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x"
@@ -858,6 +858,24 @@
       "duration_ms": 183460,
       "name": "Always Been U",
       "url": "https://open.spotify.com/track/35jQAfJWI7FlOo0MP1CV0W"
+    },
+    {
+      "album": {
+        "name": "Always Remember Us This Way",
+        "url": "https://open.spotify.com/album/45QxedNdVyNdoOlI49jFjV"
+      },
+      "artists": [
+        {
+          "name": "Noelle Johnson",
+          "url": "https://open.spotify.com/artist/2V17eU6gWyvIWAMxuDMoUJ"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194314,
+      "name": "Always Remember Us This Way",
+      "url": "https://open.spotify.com/track/2zxJycVPzGvmHWmcvK5PWf"
     },
     {
       "album": {
@@ -6695,6 +6713,28 @@
     },
     {
       "album": {
+        "name": "From A Bakermat Point Of View",
+        "url": "https://open.spotify.com/album/6v3GGTQUhTPz6ap8v3DOs8"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214942,
+      "name": "Good Feeling (feat. Rhys Lewis)",
+      "url": "https://open.spotify.com/track/59lNCXBP6UXgRcrSGy2p9T"
+    },
+    {
+      "album": {
         "name": "Good Feeling (feat. Rhys Lewis)",
         "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
       },
@@ -6826,6 +6866,24 @@
       "duration_ms": 153928,
       "name": "Good to Be Bad (Lionel Fabert Remix)",
       "url": "https://open.spotify.com/track/5K9ou6fnkrGkuMCCvjsqvr"
+    },
+    {
+      "album": {
+        "name": "BITCH",
+        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198644,
+      "name": "Goodmorning!",
+      "url": "https://open.spotify.com/track/0wPrPcpFhTMcE6wYHY6aVi"
     },
     {
       "album": {
@@ -18874,7 +18932,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 162332,
       "name": "we can't be friends (wait for your love) - Acoustic",
       "url": "https://open.spotify.com/track/62OnBfpjSEaIPASYHBYAky"
@@ -19848,6 +19906,28 @@
       "duration_ms": 204326,
       "name": "You Are The Reason",
       "url": "https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B"
+    },
+    {
+      "album": {
+        "name": "Only Human (Special Edition)",
+        "url": "https://open.spotify.com/album/1RcwvxkvyE60CTFNagElek"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190760,
+      "name": "You Are The Reason - Duet Version",
+      "url": "https://open.spotify.com/track/1x3W8RZxW94lrVGhP95qA6"
     },
     {
       "album": {

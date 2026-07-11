@@ -10367,6 +10367,24 @@
     },
     {
       "album": {
+        "name": "Yang Hilang Dan Kembali",
+        "url": "https://open.spotify.com/album/3TgWuuR0vPIAlELXj6ujmj"
+      },
+      "artists": [
+        {
+          "name": "The Monophones",
+          "url": "https://open.spotify.com/artist/2qNkBIMEYtteU9TIzj1FDn"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331413,
+      "name": "Yang Hilang Dan Kembali",
+      "url": "https://open.spotify.com/track/4HloxctN0aVtaTUTkS92YU"
+    },
+    {
+      "album": {
         "name": "Yang Tak Sama",
         "url": "https://open.spotify.com/album/7H3GfaIUQP0N461ab0POFd"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Igor",
-  "num_followers": 11440,
+  "num_followers": 11442,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Kubus In Een Ballenbak",
-        "url": "https://open.spotify.com/album/2qCMxawxzGP2g3dJ8q0eNR"
-      },
-      "artists": [
-        {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        }
-      ],
-      "duration_ms": 153428,
-      "name": "Komt Goed",
-      "url": "https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Boterham",
         "url": "https://open.spotify.com/album/2gs4DAtbdobe6Zc0WEYXoO"
       },
@@ -503,34 +487,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Vliegen",
-        "url": "https://open.spotify.com/album/5qKq0ApO977tSmvGzIuH3H"
+        "name": "Kubus In Een Ballenbak",
+        "url": "https://open.spotify.com/album/2qCMxawxzGP2g3dJ8q0eNR"
       },
       "artists": [
         {
-          "name": "Maxime",
-          "url": "https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR"
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Vliegen",
-      "url": "https://open.spotify.com/track/62aJj3DjAJtvU1hri0d27h"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "Was Het Nou Maar Zo (EP)",
-        "url": "https://open.spotify.com/album/4Qu9jV13GeXFLgSr7Voada"
-      },
-      "artists": [
-        {
-          "name": "Politie Warnsveld",
-          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
-        }
-      ],
-      "duration_ms": 194125,
-      "name": "Was Het Nou Maar Zo",
-      "url": "https://open.spotify.com/track/16109XiqzxPp5UrwFTB285"
+      "duration_ms": 153428,
+      "name": "Komt Goed",
+      "url": "https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -555,18 +523,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Niks Is zeker",
-        "url": "https://open.spotify.com/album/2mdXMY6Jgqtmf8Vlmv7gNb"
+        "name": "Was Het Nou Maar Zo (EP)",
+        "url": "https://open.spotify.com/album/4Qu9jV13GeXFLgSr7Voada"
       },
       "artists": [
         {
-          "name": "Willem",
-          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+          "name": "Politie Warnsveld",
+          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
         }
       ],
-      "duration_ms": 181539,
-      "name": "Niks is zeker",
-      "url": "https://open.spotify.com/track/6ojaqvQB3ai8gTORhpoGTQ"
+      "duration_ms": 194125,
+      "name": "Was Het Nou Maar Zo",
+      "url": "https://open.spotify.com/track/16109XiqzxPp5UrwFTB285"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -607,6 +575,38 @@
       "duration_ms": 168078,
       "name": "Opscheer",
       "url": "https://open.spotify.com/track/0UHJ1EeeObYXPkO1Dscxtz"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Niks Is zeker",
+        "url": "https://open.spotify.com/album/2mdXMY6Jgqtmf8Vlmv7gNb"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        }
+      ],
+      "duration_ms": 181539,
+      "name": "Niks is zeker",
+      "url": "https://open.spotify.com/track/6ojaqvQB3ai8gTORhpoGTQ"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Vliegen",
+        "url": "https://open.spotify.com/album/5qKq0ApO977tSmvGzIuH3H"
+      },
+      "artists": [
+        {
+          "name": "Maxime",
+          "url": "https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Vliegen",
+      "url": "https://open.spotify.com/track/62aJj3DjAJtvU1hri0d27h"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
+        "name": "Sneeuw In De Zomer",
+        "url": "https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32"
+      },
+      "artists": [
+        {
+          "name": "Alice Olsthoorn",
+          "url": "https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA"
+        }
+      ],
+      "duration_ms": 164794,
+      "name": "Sneeuw In De Zomer",
+      "url": "https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
         "name": "Versions",
         "url": "https://open.spotify.com/album/3wUueIoejrx9j3nbVqOTA8"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Sneeuw In De Zomer",
-        "url": "https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32"
-      },
-      "artists": [
-        {
-          "name": "Alice Olsthoorn",
-          "url": "https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA"
-        }
-      ],
-      "duration_ms": 164794,
-      "name": "Sneeuw In De Zomer",
-      "url": "https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Maskers",
         "url": "https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO"
       },
@@ -875,18 +875,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Gefeliciteerd",
-        "url": "https://open.spotify.com/album/027zmAQqyEznyL4ty6ERuG"
+        "name": "Ook De Miezer",
+        "url": "https://open.spotify.com/album/40xY7z7fbX1drEWKz5y5CQ"
       },
       "artists": [
         {
-          "name": "LOT",
-          "url": "https://open.spotify.com/artist/5WFiEpMZfNw5NgFTHfJA8K"
+          "name": "Vic Willems",
+          "url": "https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX"
+        },
+        {
+          "name": "Denise Breevaart",
+          "url": "https://open.spotify.com/artist/7a7QUAAZArOW20p34t9nhS"
         }
       ],
-      "duration_ms": 164117,
-      "name": "Gefeliciteerd",
-      "url": "https://open.spotify.com/track/14mSt9SODkDGfTawFGyIM4"
+      "duration_ms": 240949,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/0Q7FWCLgqatwSWma0K3afr"
     }
   ],
   "unique_name": "indie.nl",

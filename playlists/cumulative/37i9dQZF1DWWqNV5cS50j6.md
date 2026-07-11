@@ -2,9 +2,9 @@
 
 ### [anti pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
 
-> Alternative indie music etc\. Cover: WILLOW
+> Alternative indie music etc\. Cover: Magi Merlin
 
-1,920 songs - 3 day 20 hr 12 min
+1,925 songs - 3 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Bloom](https://open.spotify.com/track/253Sq7utuR9vchbNWyjyE4) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Mango](https://open.spotify.com/album/3N9piIqnt2BHomjXpg4BEe) | 5:02 | 2022-05-06 | 2022-05-28 |
 | [Blossom](https://open.spotify.com/track/57u4qXUFPo9MtMPTjQXv8Y) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Blossom](https://open.spotify.com/album/6Iv9EOdA8QZEugV2V5X0yd) | 1:54 | 2021-05-15 | 2021-10-14 |
 | [Blue](https://open.spotify.com/track/193bPH6VVqnEde43kRbn1W) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Blue](https://open.spotify.com/album/6GrrIAJtxjw5ZObE7ycNSY) | 3:20 | 2022-02-04 | 2022-03-01 |
+| [Blue](https://open.spotify.com/track/3T7vWvqWxZJnx9i5Az5rX4) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [Blue](https://open.spotify.com/album/4iOj6nJVkB4K9nbfLFIHC0) | 2:36 | 2026-07-10 |  |
 | [Blue](https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [Blue](https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU) | 3:46 | 2022-11-11 | 2023-03-23 |
 | [blue dream](https://open.spotify.com/track/1gYRR8ZHN3Ii9p7fggfihQ) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe) | [blue dream](https://open.spotify.com/album/5dVdataC8Czd3mIh3gheEK) | 3:08 | 2023-01-13 | 2023-05-20 |
 | [Blue Flame](https://open.spotify.com/track/5R9utrfWW0T6GqAe3koh3o) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Play](https://open.spotify.com/album/4mveLQ3t7GKHwuKDShwgzx) | 3:03 | 2026-05-22 |  |
@@ -757,6 +758,7 @@
 | [HI 5](https://open.spotify.com/track/0k9ynvL7RDuqNWiS7d7s8i) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [HI 5](https://open.spotify.com/album/1ZPLF1NH79pCOPF7SlZxCB) | 2:52 | 2023-03-24 | 2023-04-15 |
 | [High \- Remix](https://open.spotify.com/track/1YTslvpUMCvbo2GMR25LTq) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [High \(Remix\)](https://open.spotify.com/album/38MrNIfXvvdnU0WxeArHSd) | 1:56 | 2024-03-08 | 2024-06-01 |
 | [High Beams \- JPEGMAFIA Remix](https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [High Beams \(JPEGMAFIA Remix\)](https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti) | 2:37 | 2022-10-14 | 2023-01-28 |
+| [higher! higher! \(for Paul\)](https://open.spotify.com/track/2lL1H5ZW8MxFYAylEKDHjg) | [nowhere else to be](https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw) | [higher! higher! \(for Paul\)](https://open.spotify.com/album/7sZvaGDXY06bTVO9gK5BkQ) | 2:48 | 2026-07-10 |  |
 | [HIGHJACK](https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [HIGHJACK](https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL) | 3:10 | 2024-08-08 | 2024-09-15 |
 | [Highway Hex](https://open.spotify.com/track/2vfEXLJbi4jEnKG2OFkYC3) | [Ghost Mountain](https://open.spotify.com/artist/5Hxx7FpVvps2OZLl6LUfJi), [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [October Country](https://open.spotify.com/album/297WYgy6pW0YZhSRRiGImK) | 2:45 | 2025-03-21 |  |
 | [HIGHWITCHA](https://open.spotify.com/track/7B63qxsALIx0CgOIZK2KZy) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [HIGHWITCHA](https://open.spotify.com/album/0jm2bQw1Gk8MokQr23MlCh) | 2:15 | 2024-03-01 | 2024-04-27 |
@@ -798,6 +800,7 @@
 | [How to Breathe in Static](https://open.spotify.com/track/29v4LSsQsDClxO5icOU07h) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Phenomena](https://open.spotify.com/album/3Swuuoui4G5AvOg3pMeLo1) | 4:23 | 2021-10-15 | 2022-01-13 |
 | [HUBBA BUBBA](https://open.spotify.com/track/3QZ4lz1SOh8KmSMC59p6iZ) | [DAISY](https://open.spotify.com/artist/7riIDkMpiCIuZUbLaScpQq) | [HUBBA BUBBA](https://open.spotify.com/album/42RzFTI9NgqXZyPGeUyRhd) | 3:34 | 2022-05-09 | 2022-07-01 |
 | [Hullabaloo](https://open.spotify.com/track/1zew16SiipS0aoEnnfyXtx) | [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n) | [Hullabaloo](https://open.spotify.com/album/4WfAFQDRh8VNYDVp6H2wIf) | 1:42 | 2022-02-11 | 2022-03-01 |
+| [HUMAN AGAIN](https://open.spotify.com/track/3uP7jqdt4haiuL4acLhrDY) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke), [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [HUMAN AGAIN](https://open.spotify.com/album/6wTs6A9l7dl7C3WcqvF8XX) | 3:16 | 2026-07-10 |  |
 | [Human Being](https://open.spotify.com/track/6J04JDT037lOo9gvfjb3zZ) | [Javier Bennett](https://open.spotify.com/artist/0RrvJKbORGX9jQsie32cXT) | [Human Being](https://open.spotify.com/album/48qAF6Blfg0w0oXxbcCoCm) | 2:52 | 2022-11-22 | 2023-03-04 |
 | [Human Shape](https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [DREAM SOUP](https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP) | 3:26 | 2022-04-08 | 2023-03-21 |
 | [Hummingbird](https://open.spotify.com/track/70I4o2N1z1zF0zOkXMWnVw) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Chasing Moving Trains](https://open.spotify.com/album/50eGAFAREgtdDVmSl7gD1y) | 4:06 | 2024-11-01 |  |
@@ -1838,6 +1841,7 @@
 | [Water World](https://open.spotify.com/track/557GPWoXsbALezINZhftNf) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Miracle Mile](https://open.spotify.com/album/5Yyw9PEcJwpfx6VxSeeENp) | 3:10 | 2021-05-15 | 2021-10-16 |
 | [We Heal](https://open.spotify.com/track/3jDgP0foXp0dUsOZIOryIO) | [DEEGAN](https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi) | [We Heal](https://open.spotify.com/album/5TVAvWNdYyzXxv6Z5wIfW8) | 3:34 | 2020-10-13\* | 2021-01-23 |
 | [WE UP](https://open.spotify.com/track/3Tomx3hVVZkcXV6xvWMFuX) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [WE UP](https://open.spotify.com/album/2Pz7VXk7PkptFuexUckoAE) | 2:58 | 2022-06-17 | 2022-07-09 |
+| [we were fire](https://open.spotify.com/track/3rhRmWRFtvZy7TjWd8CIqG) | [Félix Collin](https://open.spotify.com/artist/1LdaP4F8M6XzkmVAfsSQ1s) | [we were fire](https://open.spotify.com/album/6RFN9IU19eOFxTFE2RKJgb) | 3:04 | 2026-07-10 |  |
 | [We're All Gonna Be Killed](https://open.spotify.com/track/0OWJgwv0SF2gJPtbjAPGub) | [Terrell Hines](https://open.spotify.com/artist/2jhjHaG1p2SMn6cDyhwhjQ) | [We’re All Gonna Be Killed](https://open.spotify.com/album/7tlzrNNWxGBD7Wmd98eJ1h) | 3:15 | 2020-10-23 | 2021-10-14 |
 | [Weather](https://open.spotify.com/track/6jSyWPJ4nQIMlvBXZv9R09) | [Popcoin](https://open.spotify.com/artist/1319K2vYzvVgXjWmVr9alQ) | [Weather](https://open.spotify.com/album/1gUFG8gElsbQ4tGwt56EVL) | 2:08 | 2021-08-13 | 2022-02-12 |
 | [Weather \(feat\. Spill Tab\)](https://open.spotify.com/track/37gqLs74suBBjQf4nPv5UV) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Weather \(feat\. Spill Tab\)](https://open.spotify.com/album/6d0IKj81ve9Pj76Aw1wn6B) | 2:23 | 2021-07-04 | 2021-10-16 |
@@ -1856,6 +1860,7 @@
 | [When Will This Body Be Mine?](https://open.spotify.com/track/2B4m7QOMcFcRrurISKhs6W) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi) | [When Will This Body Be Mine?](https://open.spotify.com/album/239Ck9S3prFwGDTSdxdLxN) | 2:48 | 2025-02-28 | 2026-02-28 |
 | [When You Had It All](https://open.spotify.com/track/2zmLiqywhWDH17FR2T9NXA) | [Perfect Person](https://open.spotify.com/artist/2GObAMII1pHqdP7JmJ4uaZ), [Holostar](https://open.spotify.com/artist/5gWquiuT3fPa76GxQlDT0k) | [When You Had It All](https://open.spotify.com/album/35jiodhbSf3z6lSZedKgs5) | 3:47 | 2026-05-15 |  |
 | [WHERE FLOWERS GO TO DIE](https://open.spotify.com/track/41v1NkuMJPYcDhM9j2S2v5) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [ARENA](https://open.spotify.com/album/5rRo5aHnN90CeipzqdeRAJ) | 3:04 | 2023-05-19 | 2023-07-22 |
+| [WHIP](https://open.spotify.com/track/5VSUBxfNbjniBXbK4vjg72) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [POWER HOUSE](https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h) | 3:12 | 2026-07-10 |  |
 | [WHIPCREAM](https://open.spotify.com/track/55iO3rILBsWI8bMntmW1Mh) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [SUPERNOVA](https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117) | 2:36 | 2023-09-15 | 2024-04-27 |
 | [WHITE CAPRICE](https://open.spotify.com/track/3Q0h7wkHLIlwySLGZYqFPu) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [REAL B\*TCHES DON'T DIE!](https://open.spotify.com/album/2man3aalGPUqaZqKrTBdDX) | 3:16 | 2023-05-26 | 2023-09-16 |
 | [White Honda](https://open.spotify.com/track/57uA9JRQxD9BoEx3N6FC8N) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO) | [White Honda](https://open.spotify.com/album/24ihEz3AzFTqxVH2SfGI0u) | 3:15 | 2022-06-17 | 2022-08-06 |

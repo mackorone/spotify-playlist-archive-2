@@ -986,7 +986,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 747625,
       "name": "AH, JESUS / CORA\u00c7\u00c3O IGUAL AO TEU",
       "url": "https://open.spotify.com/track/2wwEjucN8zj8MuZ7ZYoxiH"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 162580,
       "name": "Ama Um Maloqueiro",
       "url": "https://open.spotify.com/track/3qKcgMYlJ10WYa3ChZMp19"
@@ -1724,7 +1724,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 180832,
       "name": "Arrependida\u00e7o (Onde Voc\u00ea Anda)",
       "url": "https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces"
@@ -2358,7 +2358,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 156536,
       "name": "Bebe, Beija e Trai - Ao Vivo",
       "url": "https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs"
@@ -4133,6 +4133,24 @@
     },
     {
       "album": {
+        "name": "Deixo",
+        "url": "https://open.spotify.com/album/6yOKyXzB6Qz8oxeyK5RZ8K"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195365,
+      "name": "Deixo",
+      "url": "https://open.spotify.com/track/5kMu03BQiBZwg2urpihT9H"
+    },
+    {
+      "album": {
         "name": "DEJA VU",
         "url": "https://open.spotify.com/album/0aN9m8iDUE1Khh5qL6Aj4q"
       },
@@ -4869,6 +4887,24 @@
     },
     {
       "album": {
+        "name": "Velhos H\u00e1bitos, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Zvp9WWJTWzonuuAM9vA3L"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191154,
+      "name": "Dois Gumes (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6Exec6nPRIwvAEu3N8pVnT"
+    },
+    {
+      "album": {
         "name": "Dois Gumes (Ao Vivo)",
         "url": "https://open.spotify.com/album/4o1PjHRaJZI1FqRRsb8Oz4"
       },
@@ -5326,7 +5362,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 157358,
       "name": "Errado o Triplo (\u00d4h Perigo) - Ao Vivo",
       "url": "https://open.spotify.com/track/4TvVqX9HOMTvDJXYHxHbq7"
@@ -5600,7 +5636,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 162406,
       "name": "Eu N\u00e3o Sou Terapia - Ao Vivo",
       "url": "https://open.spotify.com/track/43M2EwcFfSxthlO3E58Men"
@@ -6848,7 +6884,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 124125,
       "name": "Hipnotiza",
       "url": "https://open.spotify.com/track/55PclCORPD6GpFEUva4MOX"
@@ -6866,7 +6902,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 155553,
       "name": "Hoje N\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/7rrzNI9TrcK7HLc5mBHUJn"
@@ -8444,7 +8480,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 177230,
       "name": "ME POSTOU NO DAILY - FESTA DO BIG G",
       "url": "https://open.spotify.com/track/4ukpXdplqDEMk3Fy2i30oI"
@@ -11014,7 +11050,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 262158,
       "name": "Pacman de Panicat",
       "url": "https://open.spotify.com/track/2oh5HTG1Wv2a41P3xmlbvY"
@@ -15006,7 +15042,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 129515,
       "name": "Texana 37",
       "url": "https://open.spotify.com/track/72KzypkTLmEyOz3xWuAurD"
@@ -16286,7 +16322,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 156571,
       "name": "Vale a Pena Ouvir de Novo - Do Nosso Model\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/7nb27TERfCb0YsZIjteSg0"

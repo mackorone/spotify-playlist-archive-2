@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 142102,
       "name": "Belleville",
       "url": "https://open.spotify.com/track/2QJXHDyxs9uqGvdcsR5g2h"
@@ -2018,7 +2018,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 166910,
       "name": "Brume Matinale",
       "url": "https://open.spotify.com/track/0jFnlaavbGTER2XNnUztEF"
@@ -5039,6 +5039,24 @@
     },
     {
       "album": {
+        "name": "Fiorella",
+        "url": "https://open.spotify.com/album/6reytDEuXQgpcLQNIm1b2R"
+      },
+      "artists": [
+        {
+          "name": "Luca Bissette",
+          "url": "https://open.spotify.com/artist/3dE26Q3xzd8o6XVd49FJpL"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145411,
+      "name": "Fiorella",
+      "url": "https://open.spotify.com/track/4W3u6i9YR2POKAHfHKITdw"
+    },
+    {
+      "album": {
         "name": "Flow Beside",
         "url": "https://open.spotify.com/album/0KiN2GfIOM8yir7f2SVmR3"
       },
@@ -5950,7 +5968,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 126529,
       "name": "Healing",
       "url": "https://open.spotify.com/track/2e68vzuzRv3GFUtYDO7NBE"
@@ -8338,7 +8356,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 143406,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/3U987lHXBgataMkhfi7YAL"
@@ -11010,7 +11028,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 143931,
       "name": "Remember",
       "url": "https://open.spotify.com/track/41RfvRLI3FvwqERqGKi8Q1"
@@ -13026,7 +13044,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 142450,
       "name": "Stems of green",
       "url": "https://open.spotify.com/track/0j0OGX7ApByJrAWJTXdZpR"
@@ -15914,7 +15932,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 140967,
       "name": "With You",
       "url": "https://open.spotify.com/track/7uVYkqXcq6qeUuzIRWUUSS"

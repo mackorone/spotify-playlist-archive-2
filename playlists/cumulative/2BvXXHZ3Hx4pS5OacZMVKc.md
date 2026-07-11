@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-467 songs - 23 hr 58 min
+468 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Wait A While](https://open.spotify.com/track/0Dr0XdJ9OvXOUliU3mpHMn) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [LEOWI](https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y), [m els](https://open.spotify.com/artist/4AqQDC7iD1m7opRDm95GGD), [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Wait A While](https://open.spotify.com/album/493oxECc6D9qRDmOw5i5e4) | 2:55 | 2025-06-20 |  |
 | [Wait For Me](https://open.spotify.com/track/2hBW1iJavk57xEV9n6Nven) | [Doctor Neiman](https://open.spotify.com/artist/4O6KqCW3WUncBfaan8SYDe), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Wait For Me](https://open.spotify.com/album/0zECTjnRLcusNmXSFlP3vj) | 3:35 | 2023-08-10 |  |
 | [Waiting For You](https://open.spotify.com/track/1TMABbejBbBNMd49DHFHdL) | [Fiko](https://open.spotify.com/artist/1eYLZ92uIQTOyaFn43A0iq) | [Waiting For You](https://open.spotify.com/album/0EPcMNw5f3KFDzIhA3Rylx) | 2:45 | 2022-02-08 | 2023-08-11 |
+| [Waiting For You](https://open.spotify.com/track/3JG6IcoOqW2IFlWYLFlgBs) | [Kkriegerz](https://open.spotify.com/artist/5RKvtuppIH0e1Nc2Wt5EiW) | [Waiting For You](https://open.spotify.com/album/7Ge6ApjDzOEtMX43mTaLeU) | 2:16 | 2026-07-10 |  |
 | [Walk Away](https://open.spotify.com/track/6RbEs9k0lpjd74vCgY93yM) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn) | [Walk Away](https://open.spotify.com/album/3GvHKJ9sVH0WnYIfvFXW6q) | 3:01 | 2023-08-10 | 2024-11-20 |
 | [wanna do](https://open.spotify.com/track/0HaoNO8eXyjzlyVazU8otv) | [Jey Vazz](https://open.spotify.com/artist/3UUa5nO3gumI0Ld4bapvhu) | [wanna do](https://open.spotify.com/album/30CQ6sTIIBor6L2o7BgZfE) | 3:45 | 2026-06-04 |  |
 | [Want Your Body](https://open.spotify.com/track/4BVdyQn5EMDxHNlTQXOOMy) | [Taylor Torrence](https://open.spotify.com/artist/4PhWdminU7odBReTmyyZrH), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Want Your Body](https://open.spotify.com/album/35RnRZJVg3gttpOsVE3v4d) | 2:48 | 2025-08-08 |  |

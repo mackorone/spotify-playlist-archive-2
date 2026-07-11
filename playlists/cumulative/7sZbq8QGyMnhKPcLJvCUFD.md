@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-869 songs - 1 day 19 hr 8 min
+871 songs - 1 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Firefly](https://open.spotify.com/track/1YB2NnK2KrK9PdrJ0czdDB) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO) | [Firefly](https://open.spotify.com/album/3xjkwdRVxpZVcFEbVzQ0dw) | 4:16 | 2023-08-08 | 2024-02-10 |
 | [Firestarter](https://open.spotify.com/track/1TUKNbEWmCV4xkcQ2fKvkj) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Lack D](https://open.spotify.com/artist/3G5tB6xoKtda7r4pqEFAAB) | [Firestarter](https://open.spotify.com/album/6hb4md1GbTkSai4km9UpeN) | 2:51 | 2024-11-22 |  |
 | [First Class](https://open.spotify.com/track/2uh0bkoi1aAfov9AaOMu7R) | [NORTHNIGHT](https://open.spotify.com/artist/0evEuKn6HnhCsJRMjg5LfD) | [First Class](https://open.spotify.com/album/1TPia8OudW1b5kWMT0KV2C) | 2:30 | 2025-11-04 |  |
+| [FLIRT LIGHTS](https://open.spotify.com/track/0J1gzNYwa8xSEeCU5F8kS1) | [2frers](https://open.spotify.com/artist/2P1tiZhfy8OaqDo0TWAC3B) | [FLIRT LIGHTS](https://open.spotify.com/album/3qUX7jjHgdvm7lg2ZSKg0o) | 2:00 | 2026-07-10 |  |
 | [Flow](https://open.spotify.com/track/3ZE0FgsjBycgnNKBzp67ic) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K) | [Flow](https://open.spotify.com/album/0yVWAOYtACtksGgAu3xOSn) | 2:24 | 2023-03-17 | 2023-08-10 |
 | [flowers in my head](https://open.spotify.com/track/4nk2uUQA7cuQhpAzh3WkbZ) | [DIECXLD](https://open.spotify.com/artist/0yex2PnkC4hyIoA1FMz1Df), [Prod\. 94](https://open.spotify.com/artist/76aDH2U2OFw00wOWvhK6pk) | [flowers in my head](https://open.spotify.com/album/6op4ENwyqG53kJ33wzOqgk) | 2:05 | 2025-11-14 |  |
 | [Flutter](https://open.spotify.com/track/7cVEshyrawmEYmtqYtwoPy) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Flutter](https://open.spotify.com/album/5LrOkZ1rrpRyeM9Tbd3wJ6) | 4:00 | 2023-08-08 | 2023-12-14 |
@@ -813,6 +814,7 @@
 | [Voyage](https://open.spotify.com/track/0SOnRPjBDZ2wJiKXEysgeD) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Voyage](https://open.spotify.com/album/645TcShtLFbgysGGzf7bSV) | 3:14 | 2023-03-14 | 2023-08-10 |
 | [Wait A While](https://open.spotify.com/track/0Dr0XdJ9OvXOUliU3mpHMn) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [LEOWI](https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y), [m els](https://open.spotify.com/artist/4AqQDC7iD1m7opRDm95GGD), [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Wait A While](https://open.spotify.com/album/493oxECc6D9qRDmOw5i5e4) | 2:55 | 2025-06-20 |  |
 | [Waiting](https://open.spotify.com/track/5ZsVoJMUYzanwp2MZfNOvf) | [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Waiting](https://open.spotify.com/album/0xfFT55IkgeDqA3zuvyg6z) | 3:07 | 2022-12-13 | 2023-04-28 |
+| [Waiting For You](https://open.spotify.com/track/3JG6IcoOqW2IFlWYLFlgBs) | [Kkriegerz](https://open.spotify.com/artist/5RKvtuppIH0e1Nc2Wt5EiW) | [Waiting For You](https://open.spotify.com/album/7Ge6ApjDzOEtMX43mTaLeU) | 2:16 | 2026-07-10 |  |
 | [Walk Away](https://open.spotify.com/track/6gjgucEZ3sJnWxfiqEsEhU) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to), [SRY](https://open.spotify.com/artist/1Tful0EmoUktY5EOtDsoYN) | [Walk Away](https://open.spotify.com/album/4xW14rcbvAX2Z0NTZS8SPF) | 3:18 | 2023-03-15 | 2023-08-10 |
 | [Walk Away](https://open.spotify.com/track/6RbEs9k0lpjd74vCgY93yM) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn) | [Walk Away](https://open.spotify.com/album/3GvHKJ9sVH0WnYIfvFXW6q) | 3:01 | 2023-06-30 | 2023-08-10 |
 | [Walk On Water](https://open.spotify.com/track/6UWHjVoKOBXbhROLqaR7aQ) | [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [Southby](https://open.spotify.com/artist/30UL7vK03suadfI9eqNYLA), [Emily J](https://open.spotify.com/artist/5ChprbFpHquoq5pkUUdY0v) | [Walk On Water](https://open.spotify.com/album/6g9GjsV0C6xszmocxt2Yb2) | 3:40 | 2025-11-27 |  |

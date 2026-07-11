@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 191870,
       "name": "180",
       "url": "https://open.spotify.com/track/2f7zdx2sNebdcSyuR55LnD"
@@ -220,7 +220,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 199173,
       "name": "Alcohol",
       "url": "https://open.spotify.com/track/7knB6NUQFwmKEBroRiLsQ1"
@@ -308,6 +308,24 @@
       "duration_ms": 222457,
       "name": "All That I Need",
       "url": "https://open.spotify.com/track/1YEc4P48PIWSPNip6FaI3T"
+    },
+    {
+      "album": {
+        "name": "All That It Is",
+        "url": "https://open.spotify.com/album/5XaCaoQjxJPz5a3NhZxjNZ"
+      },
+      "artists": [
+        {
+          "name": "Whitney Whitney",
+          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230960,
+      "name": "All That It Is",
+      "url": "https://open.spotify.com/track/7aEfNs8cRi0YRbiIwwrmP9"
     },
     {
       "album": {
@@ -868,6 +886,24 @@
       "duration_ms": 181356,
       "name": "Bitter Sweet",
       "url": "https://open.spotify.com/track/6kgb3tjGSMJDeEUqpR1BGQ"
+    },
+    {
+      "album": {
+        "name": "Bittersweet Escape",
+        "url": "https://open.spotify.com/album/5FzOA3oAxjHzoLxo4SC6Ed"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167860,
+      "name": "Bittersweet Escape",
+      "url": "https://open.spotify.com/track/7m048jBthqhBF62d67E1kM"
     },
     {
       "album": {
@@ -4173,6 +4209,24 @@
     },
     {
       "album": {
+        "name": "Hurts",
+        "url": "https://open.spotify.com/album/5kRVr5kcCtBZuIL6C5aycN"
+      },
+      "artists": [
+        {
+          "name": "Kerr Mercer",
+          "url": "https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180453,
+      "name": "Hurts",
+      "url": "https://open.spotify.com/track/6GGyMAS1ne4pnih5ukFFaL"
+    },
+    {
+      "album": {
         "name": "Hurts So Bad",
         "url": "https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2"
       },
@@ -5626,7 +5680,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 198971,
       "name": "Love Is A Game",
       "url": "https://open.spotify.com/track/3SlQR2O64JKUr15Kc69QJ2"
@@ -6386,7 +6440,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 153402,
       "name": "Mr. Right Now",
       "url": "https://open.spotify.com/track/6BsYGPQrKHlnJslIex6plC"
@@ -6404,7 +6458,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 192534,
       "name": "Mrs. Kisses",
       "url": "https://open.spotify.com/track/559GqhUeuXY8tKdVXMSMpT"
@@ -8919,6 +8973,24 @@
     },
     {
       "album": {
+        "name": "Twenty Something",
+        "url": "https://open.spotify.com/album/3zIuPy0xhAOMg9veibhAwy"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171400,
+      "name": "Stuck In Sixteen",
+      "url": "https://open.spotify.com/track/0K77y1Qbihu4hK54zAFxVV"
+    },
+    {
+      "album": {
         "name": "Definitely NOW",
         "url": "https://open.spotify.com/album/2R40qpfi2fRj8eBFuPi6mu"
       },
@@ -9494,7 +9566,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 220800,
       "name": "The Moment (with KOKORO)",
       "url": "https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX"
@@ -9841,6 +9913,24 @@
     },
     {
       "album": {
+        "name": "USE ME",
+        "url": "https://open.spotify.com/album/5ZrgtfxnJFBzAkCRsDBsmo"
+      },
+      "artists": [
+        {
+          "name": "tig3r lewis",
+          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178954,
+      "name": "USE ME",
+      "url": "https://open.spotify.com/track/5LAQvCXTaJl0ZRLcYENaiK"
+    },
+    {
+      "album": {
         "name": "Velcro (feat. Gus Dapperton)",
         "url": "https://open.spotify.com/album/7yBUQWGRTjCSwSKVbcFbcA"
       },
@@ -9860,6 +9950,24 @@
       "duration_ms": 192793,
       "name": "Velcro (feat. Gus Dapperton)",
       "url": "https://open.spotify.com/track/4jN6jgeKdFG7oBeXg3qC26"
+    },
+    {
+      "album": {
+        "name": "Just My Luck",
+        "url": "https://open.spotify.com/album/7BJsNyKpMF59uelRRp9p4K"
+      },
+      "artists": [
+        {
+          "name": "Maya Engen",
+          "url": "https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215488,
+      "name": "Vinyl",
+      "url": "https://open.spotify.com/track/3I6n7OQMpaaBfRFKpxl5U0"
     },
     {
       "album": {

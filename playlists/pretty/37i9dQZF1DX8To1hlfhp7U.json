@@ -1,15 +1,15 @@
 {
   "description": "Get ready for a full-body workout",
-  "num_followers": 92576,
+  "num_followers": 92586,
   "original_name": "Workout Bhangra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFZc02eAfwC3loLM/3xD4jk6tOr8",
+  "snapshot_id": "AAAAANgEIgX24rXeOMavYfPi+NEma3ic",
   "tracks": [
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Dhurandhar The Revenge - Aari Aari (From \"Dhurandhar The Revenge\")",
         "url": "https://open.spotify.com/album/2xH6R3iKLYdEkKiCwiTZYL"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/2SeUci6OXx1ztZiFiDIyX5"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Making Memories",
         "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
@@ -73,7 +73,23 @@
       "url": "https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
+      "album": {
+        "name": "Sohniye",
+        "url": "https://open.spotify.com/album/0SQKVfRe9nUS9ULfGQ0fOo"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "duration_ms": 154937,
+      "name": "Sohniye",
+      "url": "https://open.spotify.com/track/4rL0ikdBsPgGF4QkOkX9YC"
+    },
+    {
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Majhaestic",
         "url": "https://open.spotify.com/album/0Rfydlvsbf9JRARoPfaj3v"
@@ -97,7 +113,7 @@
       "url": "https://open.spotify.com/track/5Cri5X3u4On71cGDGeNNiD"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Namaste England (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6qokplIH6RyEbm9Q2DiBQB"
@@ -121,31 +137,7 @@
       "url": "https://open.spotify.com/track/39ujbBjTwwqUFySaCYDMMT"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
-      "album": {
-        "name": "The Call of Panjab",
-        "url": "https://open.spotify.com/album/58nSQhJ6jxFam34jgoZyul"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Tru-Skool",
-          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
-        },
-        {
-          "name": "Chani Nattan",
-          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "Morni",
-      "url": "https://open.spotify.com/track/6dfkZxJZnj8lhDkSgl2H6j"
-    },
-    {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "9:45",
         "url": "https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR"
@@ -169,7 +161,31 @@
       "url": "https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
+      "album": {
+        "name": "The Call of Panjab",
+        "url": "https://open.spotify.com/album/58nSQhJ6jxFam34jgoZyul"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Tru-Skool",
+          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
+        },
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "Morni",
+      "url": "https://open.spotify.com/track/6dfkZxJZnj8lhDkSgl2H6j"
+    },
+    {
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Brown Munde",
         "url": "https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs"
@@ -197,7 +213,7 @@
       "url": "https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "No Turning Back",
         "url": "https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/5vXDlXE3vNa3eA8E73jySm"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Naah",
         "url": "https://open.spotify.com/album/69E3qRzBF9CVToWXmXH4po"
@@ -241,7 +257,7 @@
       "url": "https://open.spotify.com/track/0zRsGGueSQLRkYWs4kPA4V"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Check It Out",
         "url": "https://open.spotify.com/album/1vF3ag997oVOcaSYVlFytV"
@@ -261,7 +277,7 @@
       "url": "https://open.spotify.com/track/4VosVUajzm6nzGlSb6nP3L"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
         "url": "https://open.spotify.com/album/7LwW8qe6sND4ySnKmdZacl"
@@ -289,27 +305,7 @@
       "url": "https://open.spotify.com/track/5fXslGZPI5Cco6PKHzlSL3"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
-      "album": {
-        "name": "Teeje Week",
-        "url": "https://open.spotify.com/album/6LxCxBowIfX7JAfmafOIaM"
-      },
-      "artists": [
-        {
-          "name": "Jordan Sandhu",
-          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
-        },
-        {
-          "name": "Bunty Bains",
-          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
-        }
-      ],
-      "duration_ms": 190203,
-      "name": "Teeje Week",
-      "url": "https://open.spotify.com/track/000RDCYioLteXcutOjeweY"
-    },
-    {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Snake",
         "url": "https://open.spotify.com/album/7nFkbtIGw5DqUV5MSFZBip"
@@ -329,7 +325,27 @@
       "url": "https://open.spotify.com/track/5Hbcsj2iTcsETphClTi4Wq"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
+      "album": {
+        "name": "Teeje Week",
+        "url": "https://open.spotify.com/album/6LxCxBowIfX7JAfmafOIaM"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Bunty Bains",
+          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
+        }
+      ],
+      "duration_ms": 190203,
+      "name": "Teeje Week",
+      "url": "https://open.spotify.com/track/000RDCYioLteXcutOjeweY"
+    },
+    {
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu"
@@ -349,7 +365,7 @@
       "url": "https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Illegal Weapon",
         "url": "https://open.spotify.com/album/3FZHxI5Qc9POrnW3Lr9z4P"
@@ -369,7 +385,7 @@
       "url": "https://open.spotify.com/track/3Oe3VdPn6rAueriQvFhCBA"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "ONE (Original Never Ends)",
         "url": "https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw"
@@ -385,27 +401,7 @@
       "url": "https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
-      "album": {
-        "name": "Arjan Vailly (From \"ANIMAL\")",
-        "url": "https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K"
-      },
-      "artists": [
-        {
-          "name": "Manan Bhardwaj",
-          "url": "https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh"
-        },
-        {
-          "name": "Bhupinder Babbal",
-          "url": "https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g"
-        }
-      ],
-      "duration_ms": 182170,
-      "name": "Arjan Vailly (From \"ANIMAL\")",
-      "url": "https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn"
-    },
-    {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Young G.O.A.T",
         "url": "https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq"
@@ -425,7 +421,27 @@
       "url": "https://open.spotify.com/track/1QKIZctspbifzxSJr6i7JX"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
+      "album": {
+        "name": "Arjan Vailly (From \"ANIMAL\")",
+        "url": "https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K"
+      },
+      "artists": [
+        {
+          "name": "Manan Bhardwaj",
+          "url": "https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh"
+        },
+        {
+          "name": "Bhupinder Babbal",
+          "url": "https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g"
+        }
+      ],
+      "duration_ms": 182170,
+      "name": "Arjan Vailly (From \"ANIMAL\")",
+      "url": "https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn"
+    },
+    {
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Mummy Nu Pasand (From \"Jai Mummy Di\")",
         "url": "https://open.spotify.com/album/6CBvOAJkYbQbehRvq4nrcE"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/74qF0JeFMVilMEeFDiQZ48"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Baby Girl",
         "url": "https://open.spotify.com/album/4dob5W0fcOiKEe3ii4AuqD"
@@ -469,7 +485,7 @@
       "url": "https://open.spotify.com/track/0FoAlOXHI6KJ4RHP9v8jnw"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Jattiye Ni",
         "url": "https://open.spotify.com/album/4sISXOYpISfwZI6RmGWfJA"
@@ -485,7 +501,7 @@
       "url": "https://open.spotify.com/track/24KWB5VT9fWqtj5bUyPnoq"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Chobar",
         "url": "https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/1HJhiNWURFxcHbCdQ2y7jt"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Mitti Da Bawa",
         "url": "https://open.spotify.com/album/0yrvrlpDvPM05MJQyVPKvW"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/2xzuUPOffYMIdOkOG7D0BI"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Nikle Currant",
         "url": "https://open.spotify.com/album/7dXErOdlQlzs0pYIYmPP2c"
@@ -541,7 +557,7 @@
       "url": "https://open.spotify.com/track/5T3rp70MEW4XnWv82BDVey"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Naach Meri Rani (Feat. Nora Fatehi)",
         "url": "https://open.spotify.com/album/5bimKHx8YBRQBsoph5sODo"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/1orM67pmkNc4alrZkWjYkV"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "MoonChild Era",
         "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
@@ -581,7 +597,7 @@
       "url": "https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Halla Gulla",
         "url": "https://open.spotify.com/album/4kN2YAdAUuDcPHxmNOd3oQ"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/6VDZQV2ZhRSwtapy6860Rv"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Sip Sip",
         "url": "https://open.spotify.com/album/5VZK2hiVQ86cVglMLXsIga"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/3PKEWXIkFwSJnlGdhjivCP"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Hauli Hauli (From \"De De Pyaar De\")",
         "url": "https://open.spotify.com/album/7BaHZuSZetmYHSt6anOMQg"
@@ -657,7 +673,7 @@
       "url": "https://open.spotify.com/track/60XrRbNjDMAGUZ2xLkU9W3"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Trending Nakhra",
         "url": "https://open.spotify.com/album/3Dhlyk7vUAE1FYbak0Xa4O"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/42NUrjx6cy23vTp2JyUawT"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "MoonChild Era",
         "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
@@ -689,7 +705,7 @@
       "url": "https://open.spotify.com/track/5wiSbeDm2p5yniuus7eH4J"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "MEDAL",
         "url": "https://open.spotify.com/album/1UWSQ9JqRDlPfFMR89J9kf"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/4K5aBuakMjnDhFa56CmlHC"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Sang Maar Gayi",
         "url": "https://open.spotify.com/album/6GXO46JpbsnaAAqw1VFmBo"
@@ -729,7 +745,7 @@
       "url": "https://open.spotify.com/track/4kKwMfSZyjiJyAPNWCDJed"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Nachan Nu Jee Karda (From \"Angrezi Medium\")",
         "url": "https://open.spotify.com/album/0GrVV09R7votIjQBpBLwLC"
@@ -757,7 +773,7 @@
       "url": "https://open.spotify.com/track/2zQeAeH3q0K7U2AWEcVOsF"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "High Rated Gabru",
         "url": "https://open.spotify.com/album/6S1g0Jx3X8AWKopRZJsgBb"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/60uVumQU74E83X5dbLHKhN"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Con.Fi.Den.Tial",
         "url": "https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD"
@@ -801,7 +817,7 @@
       "url": "https://open.spotify.com/track/5dUpL1UYXkjXqf55FrBLgr"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Panjeban",
         "url": "https://open.spotify.com/album/05IH45QvIWWy7g77Cd9uzB"
@@ -821,7 +837,7 @@
       "url": "https://open.spotify.com/track/5UpDw777uj0nvw6dtDRjw7"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Hostel",
         "url": "https://open.spotify.com/album/7KSbKQ1gsadsdqEJyzg4S0"
@@ -845,7 +861,7 @@
       "url": "https://open.spotify.com/track/4OOqDEp5ilJ7eq612SZ7Lk"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "ROMEO",
         "url": "https://open.spotify.com/album/3BdbcwuZ24zF60YcQrL3NV"
@@ -869,7 +885,7 @@
       "url": "https://open.spotify.com/track/0UXQN4UL4LW1IeMczufzsF"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Longway",
         "url": "https://open.spotify.com/album/44SVcjDKmwb0buNknrEpiW"
@@ -893,7 +909,7 @@
       "url": "https://open.spotify.com/track/7iU1ZT0cD11WQO6PI6ChdB"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Sauda Khara Khara (From \"Good Newwz\")",
         "url": "https://open.spotify.com/album/4s111tHGrcnzOoZpIxijX5"
@@ -929,7 +945,7 @@
       "url": "https://open.spotify.com/track/7Fq769JN9wwaVHUgVdkxNg"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Kamli (Original)",
         "url": "https://open.spotify.com/album/69MQPN9orEyUl6lzre4Bms"
@@ -945,7 +961,7 @@
       "url": "https://open.spotify.com/track/15fmoePTSxMrZCskvyXSac"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Jawaani Jaaneman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4G3LgNCIT4yHn2pF4AfrsR"
@@ -973,7 +989,7 @@
       "url": "https://open.spotify.com/track/7bWIRK3emiP8UwH6fpDfuu"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Lamberghini - Single",
         "url": "https://open.spotify.com/album/0DrkuJJyjj8wsr4wuzRfQF"
@@ -993,27 +1009,7 @@
       "url": "https://open.spotify.com/track/45P9g6kUb7itdonjjGjDdS"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
-      "album": {
-        "name": "Maan Made",
-        "url": "https://open.spotify.com/album/4f6X5dcoh29T7f8FGuXoO1"
-      },
-      "artists": [
-        {
-          "name": "Amrit Maan",
-          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
-        },
-        {
-          "name": "Deep Jandu",
-          "url": "https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3"
-        }
-      ],
-      "duration_ms": 169212,
-      "name": "RR",
-      "url": "https://open.spotify.com/track/0NIyZKeWOvCzgjiEwdL5ZM"
-    },
-    {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "A KID FROM GURDASPUR",
         "url": "https://open.spotify.com/album/6MBBnnY5Kacck7ATbIVTcJ"
@@ -1037,7 +1033,27 @@
       "url": "https://open.spotify.com/track/7Gc2WlXhHEzYrlGl77tYag"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
+      "album": {
+        "name": "Maan Made",
+        "url": "https://open.spotify.com/album/4f6X5dcoh29T7f8FGuXoO1"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        },
+        {
+          "name": "Deep Jandu",
+          "url": "https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3"
+        }
+      ],
+      "duration_ms": 169212,
+      "name": "RR",
+      "url": "https://open.spotify.com/track/0NIyZKeWOvCzgjiEwdL5ZM"
+    },
+    {
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Jawani",
         "url": "https://open.spotify.com/album/3NmA8MILjtc0I0vt4dafpU"
@@ -1061,7 +1077,7 @@
       "url": "https://open.spotify.com/track/2NHAkmYfm3HsyLpxz74SbB"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "She Don't Know (From \"Blessed\")",
         "url": "https://open.spotify.com/album/0vomvwmwqw7puUfnwVWjsf"
@@ -1081,7 +1097,7 @@
       "url": "https://open.spotify.com/track/23dCPIMivfUQwUPSeDSUPc"
     },
     {
-      "added_at": "2026-07-08 12:59:51",
+      "added_at": "2026-07-10 12:59:31",
       "album": {
         "name": "Left Behind",
         "url": "https://open.spotify.com/album/3Z3kGbW5yyIlKeu6zpEFzQ"
@@ -1099,30 +1115,6 @@
       "duration_ms": 222232,
       "name": "Left Behind",
       "url": "https://open.spotify.com/track/2CQlMyN2oEbCN2Rqg1uuzB"
-    },
-    {
-      "added_at": "2026-07-08 12:59:51",
-      "album": {
-        "name": "Pyaar Tenu Karda Gabru (From \"Shubh Mangal Zyada Saavdhan\")",
-        "url": "https://open.spotify.com/album/4FSDkGEXFPKgmrnxHNvp2Y"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        }
-      ],
-      "duration_ms": 165581,
-      "name": "Pyaar Tenu Karda Gabru (From \"Shubh Mangal Zyada Saavdhan\")",
-      "url": "https://open.spotify.com/track/0OcVZqIer0LLu3K8sdU5Yb"
     }
   ],
   "unique_name": "Workout Bhangra",

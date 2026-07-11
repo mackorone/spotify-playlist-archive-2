@@ -1,28 +1,40 @@
 {
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83c\uddeb\ud83c\uddf7 featuring Jersey",
-  "num_followers": 844693,
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83d\udca8 featuring MPH",
+  "num_followers": 844674,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIVBT/h/9z7VMVNQTMs2EdTZr4em",
+  "snapshot_id": "AAAAABUSs01EyVUjZT33htdaSj7JVfvE",
   "tracks": [
     {
-      "added_at": "2026-06-12 15:55:15",
+      "added_at": "2026-07-10 04:02:04",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/5Temir79WPxflPU00Tv4Qp"
+        "name": "DID IT AGAIN (MPH Remix)",
+        "url": "https://open.spotify.com/album/1wQ6r57Y4wfzFTJEFFKpTf"
       },
       "artists": [
         {
-          "name": "Jersey",
-          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+          "name": "Travy",
+          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
+        },
+        {
+          "name": "Elzzz",
+          "url": "https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
         }
       ],
-      "duration_ms": 226973,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/2yNe0KpyIimbKYeIhWrdKF"
+      "duration_ms": 186857,
+      "name": "DID IT AGAIN - MPH Remix",
+      "url": "https://open.spotify.com/track/3AX5uNN5flZ8fnNZlMXNpT"
     },
     {
       "added_at": "2026-05-08 04:04:13",
@@ -41,24 +53,36 @@
       "url": "https://open.spotify.com/track/1kGhJkCKFJ12Bi7nAm01tT"
     },
     {
-      "added_at": "2026-07-06 22:09:49",
+      "added_at": "2026-06-12 15:55:15",
       "album": {
-        "name": "watch me fly",
-        "url": "https://open.spotify.com/album/1Izwn5JqW4GIRxKwfGLMkC"
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/5Temir79WPxflPU00Tv4Qp"
       },
       "artists": [
         {
-          "name": "Cucina Sonora",
-          "url": "https://open.spotify.com/artist/0t4vNX1iyHzmASWTnsYzES"
-        },
-        {
-          "name": "Pentola",
-          "url": "https://open.spotify.com/artist/3K4rEZFW6Y93pEXaOtlSJM"
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
         }
       ],
-      "duration_ms": 200000,
-      "name": "watch me fly",
-      "url": "https://open.spotify.com/track/5XQ0rzL3dWztmJ8IqQTjJU"
+      "duration_ms": 226973,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2yNe0KpyIimbKYeIhWrdKF"
+    },
+    {
+      "added_at": "2026-07-10 04:02:04",
+      "album": {
+        "name": "be with me",
+        "url": "https://open.spotify.com/album/5Zu5Efho9jRbmiJzcUcZVE"
+      },
+      "artists": [
+        {
+          "name": "MAYV",
+          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
+        }
+      ],
+      "duration_ms": 155543,
+      "name": "be with me",
+      "url": "https://open.spotify.com/track/13iSspPHQg1cDyUl55ItRg"
     },
     {
       "added_at": "2026-05-01 04:02:39",
@@ -81,6 +105,26 @@
       "url": "https://open.spotify.com/track/6Q7WM5xVcgXIy9qd41EqyZ"
     },
     {
+      "added_at": "2026-07-06 22:09:49",
+      "album": {
+        "name": "watch me fly",
+        "url": "https://open.spotify.com/album/1Izwn5JqW4GIRxKwfGLMkC"
+      },
+      "artists": [
+        {
+          "name": "Cucina Sonora",
+          "url": "https://open.spotify.com/artist/0t4vNX1iyHzmASWTnsYzES"
+        },
+        {
+          "name": "Pentola",
+          "url": "https://open.spotify.com/artist/3K4rEZFW6Y93pEXaOtlSJM"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "watch me fly",
+      "url": "https://open.spotify.com/track/5XQ0rzL3dWztmJ8IqQTjJU"
+    },
+    {
       "added_at": "2026-06-19 04:02:07",
       "album": {
         "name": "uniti/separati",
@@ -95,26 +139,6 @@
       "duration_ms": 197624,
       "name": "uniti/separati",
       "url": "https://open.spotify.com/track/4MIOpYyJVYuG5JTqGjlBcC"
-    },
-    {
-      "added_at": "2026-06-12 15:55:15",
-      "album": {
-        "name": "Long Goodbye",
-        "url": "https://open.spotify.com/album/2nMTpO7M30ejb2XkIWotGX"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 214222,
-      "name": "Long Goodbye",
-      "url": "https://open.spotify.com/track/0Xl9DRIQFa3PinMxQu4b7t"
     },
     {
       "added_at": "2026-06-12 15:55:15",
@@ -135,6 +159,62 @@
       "duration_ms": 170800,
       "name": "thumbs",
       "url": "https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS"
+    },
+    {
+      "added_at": "2026-06-19 04:02:07",
+      "album": {
+        "name": "prima",
+        "url": "https://open.spotify.com/album/4gi0k3TcLf0Altvmb2Fzm4"
+      },
+      "artists": [
+        {
+          "name": "dunne",
+          "url": "https://open.spotify.com/artist/5DhorexpOznbCPzHH1aGwb"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "prima",
+      "url": "https://open.spotify.com/track/4kmgDJjEUwjj6nlEQLve1Z"
+    },
+    {
+      "added_at": "2026-07-10 04:02:04",
+      "album": {
+        "name": "For Me",
+        "url": "https://open.spotify.com/album/6pCthnB3Fdl539ZM628Rlc"
+      },
+      "artists": [
+        {
+          "name": "Dogs I Know",
+          "url": "https://open.spotify.com/artist/659NKYZdNCCOnkKwedxXcQ"
+        },
+        {
+          "name": "Polezsky",
+          "url": "https://open.spotify.com/artist/7qbUBlb8FSSWMqypKleqAL"
+        }
+      ],
+      "duration_ms": 164885,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/3azLtBULAnMXVSR600y29n"
+    },
+    {
+      "added_at": "2026-06-12 15:55:15",
+      "album": {
+        "name": "Long Goodbye",
+        "url": "https://open.spotify.com/album/2nMTpO7M30ejb2XkIWotGX"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 214222,
+      "name": "Long Goodbye",
+      "url": "https://open.spotify.com/track/0Xl9DRIQFa3PinMxQu4b7t"
     },
     {
       "added_at": "2026-05-22 04:01:03",
@@ -189,20 +269,24 @@
       "url": "https://open.spotify.com/track/2Ed8PLm1CGGcHqJYj8H8nl"
     },
     {
-      "added_at": "2026-06-19 04:02:07",
+      "added_at": "2026-07-10 04:02:04",
       "album": {
-        "name": "prima",
-        "url": "https://open.spotify.com/album/4gi0k3TcLf0Altvmb2Fzm4"
+        "name": "Time:never",
+        "url": "https://open.spotify.com/album/6iLIhOWokff8uIfsvRskGX"
       },
       "artists": [
         {
-          "name": "dunne",
-          "url": "https://open.spotify.com/artist/5DhorexpOznbCPzHH1aGwb"
+          "name": "Estremo",
+          "url": "https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM"
+        },
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/6c3y5GxfMe6dWgUtTLnnCE"
         }
       ],
-      "duration_ms": 164571,
-      "name": "prima",
-      "url": "https://open.spotify.com/track/4kmgDJjEUwjj6nlEQLve1Z"
+      "duration_ms": 199636,
+      "name": "Time:never",
+      "url": "https://open.spotify.com/track/3c7kn1x8bIqMiTT8rTDcsM"
     },
     {
       "added_at": "2026-06-19 04:02:07",
@@ -289,6 +373,22 @@
       "url": "https://open.spotify.com/track/6VixlHKJOoG9d8RjxmzIWo"
     },
     {
+      "added_at": "2026-07-10 04:02:04",
+      "album": {
+        "name": "Body Step",
+        "url": "https://open.spotify.com/album/5URnN4y5b5KeKrmg5c3JGA"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "duration_ms": 307786,
+      "name": "Body Step",
+      "url": "https://open.spotify.com/track/23Kpkv7C3YRnFQTnjAeppb"
+    },
+    {
       "added_at": "2026-05-15 04:02:26",
       "album": {
         "name": "RINGING IN MY HEAD",
@@ -353,20 +453,24 @@
       "url": "https://open.spotify.com/track/72rArSfKMPrcQeGlBRfOrs"
     },
     {
-      "added_at": "2026-05-29 04:02:39",
+      "added_at": "2026-07-10 04:02:04",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/1EfHBprhrWg6BDa4SOnTof"
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/2Xy8c3F4rfAhb2ZmkIuRN9"
       },
       "artists": [
         {
           "name": "ALIGN",
           "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
+        },
+        {
+          "name": "artemis orion",
+          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
         }
       ],
-      "duration_ms": 125070,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/6mzfxppGNFic87PquwtGuT"
+      "duration_ms": 161363,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/7jMHu4cwTP8iCmmNvQnqOG"
     },
     {
       "added_at": "2026-05-22 04:01:03",
@@ -509,42 +613,6 @@
       "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
     },
     {
-      "added_at": "2026-06-26 04:01:01",
-      "album": {
-        "name": "HANGOVER GIRL",
-        "url": "https://open.spotify.com/album/4KzO8wGVIUOguCqVWoG70t"
-      },
-      "artists": [
-        {
-          "name": "M\u00a5SS KETA",
-          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
-        },
-        {
-          "name": "Miss Bashful",
-          "url": "https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C"
-        }
-      ],
-      "duration_ms": 184225,
-      "name": "HANGOVER GIRL",
-      "url": "https://open.spotify.com/track/4IRpoipsrAESkDp5fxW4b9"
-    },
-    {
-      "added_at": "2026-05-22 04:01:03",
-      "album": {
-        "name": "don't you miss me",
-        "url": "https://open.spotify.com/album/3926g3gdPUSeCr8oILWFVG"
-      },
-      "artists": [
-        {
-          "name": "Aki Oke",
-          "url": "https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv"
-        }
-      ],
-      "duration_ms": 203230,
-      "name": "don't you miss me",
-      "url": "https://open.spotify.com/track/52zrmEuyescE1mlhBPtdkA"
-    },
-    {
       "added_at": "2026-06-19 04:02:07",
       "album": {
         "name": "Eyes",
@@ -677,22 +745,6 @@
       "url": "https://open.spotify.com/track/1pA3PUVtJALwxZIQ6wj42X"
     },
     {
-      "added_at": "2026-06-26 04:01:01",
-      "album": {
-        "name": "TON UP",
-        "url": "https://open.spotify.com/album/5iQAfeKPOroT201igMqPsI"
-      },
-      "artists": [
-        {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
-        }
-      ],
-      "duration_ms": 285314,
-      "name": "LOVER MENTALITY",
-      "url": "https://open.spotify.com/track/4wHOGBIC1PBH4UF0Aqmls4"
-    },
-    {
       "added_at": "2026-04-10 04:03:08",
       "album": {
         "name": "ALL IN",
@@ -711,6 +763,22 @@
       "duration_ms": 170266,
       "name": "ALL IN",
       "url": "https://open.spotify.com/track/3qKmaSnePGCYCfybNDuxG1"
+    },
+    {
+      "added_at": "2026-05-29 04:02:39",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/1EfHBprhrWg6BDa4SOnTof"
+      },
+      "artists": [
+        {
+          "name": "ALIGN",
+          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
+        }
+      ],
+      "duration_ms": 125070,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/6mzfxppGNFic87PquwtGuT"
     },
     {
       "added_at": "2026-05-08 04:04:13",
@@ -833,30 +901,6 @@
       "url": "https://open.spotify.com/track/2Q0VLkprjKv6PLuJb2X4f4"
     },
     {
-      "added_at": "2026-05-15 04:02:26",
-      "album": {
-        "name": "DON'T GET ME HIGH",
-        "url": "https://open.spotify.com/album/2rV3W98OiGKtMgUp58H3ns"
-      },
-      "artists": [
-        {
-          "name": "Col3man",
-          "url": "https://open.spotify.com/artist/2kT0QKVXW2YOnhpqvhy4qv"
-        },
-        {
-          "name": "Underbelly",
-          "url": "https://open.spotify.com/artist/0sRH4nJGFNV1pu9cutNw5O"
-        },
-        {
-          "name": "Brooke Williams",
-          "url": "https://open.spotify.com/artist/47eA8knxvpD9CZsqHn4Mxz"
-        }
-      ],
-      "duration_ms": 133448,
-      "name": "DON'T GET ME HIGH",
-      "url": "https://open.spotify.com/track/2ji3qnCuq74HpvxT7H3BmQ"
-    },
-    {
       "added_at": "2026-05-08 04:04:13",
       "album": {
         "name": "Ur Way",
@@ -875,26 +919,6 @@
       "duration_ms": 198776,
       "name": "Ur Way",
       "url": "https://open.spotify.com/track/48aHq417z6EDt6b7wGyOnT"
-    },
-    {
-      "added_at": "2026-04-24 04:02:20",
-      "album": {
-        "name": "wakeup(crazy) [feat. Angst]",
-        "url": "https://open.spotify.com/album/7lm1i1YAKTD4La9WRkGXak"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "Angst",
-          "url": "https://open.spotify.com/artist/1nFcEfO5iLptFlrBCiDztw"
-        }
-      ],
-      "duration_ms": 195517,
-      "name": "wakeup(crazy) [feat. Angst]",
-      "url": "https://open.spotify.com/track/3IR1kOzcLjPbSipZyp1o30"
     },
     {
       "added_at": "2026-04-24 04:02:20",
@@ -919,26 +943,6 @@
       "duration_ms": 138000,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/6PuGfVM0DCgX04vyZ2RFwz"
-    },
-    {
-      "added_at": "2026-06-19 04:02:07",
-      "album": {
-        "name": "breathe",
-        "url": "https://open.spotify.com/album/6I5AZZAixliwotjWRyrx4F"
-      },
-      "artists": [
-        {
-          "name": "k?d",
-          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 241256,
-      "name": "breathe",
-      "url": "https://open.spotify.com/track/6ifoDLGesgTpLfrWzCyEZF"
     },
     {
       "added_at": "2026-05-15 04:02:26",

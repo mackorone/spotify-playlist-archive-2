@@ -1,13 +1,53 @@
 {
-  "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Harsha Vardhan",
-  "num_followers": 19945,
+  "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Joshua Aaron",
+  "num_followers": 19954,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGC+nMh0VbSDx94Y1UW24iE6/JeB",
+  "snapshot_id": "AAAAAL3PzFOOqaDiXG40UbMpAYU5FNYT",
   "tracks": [
+    {
+      "added_at": "2026-06-26 05:27:01",
+      "album": {
+        "name": "Seruppa Kaanom",
+        "url": "https://open.spotify.com/album/6ZKUg07pVCkuPNfh4P1tIT"
+      },
+      "artists": [
+        {
+          "name": "Joshua Aaron",
+          "url": "https://open.spotify.com/artist/3q3ikUy0tmXkAonQpYDORq"
+        },
+        {
+          "name": "Sanikelama",
+          "url": "https://open.spotify.com/artist/2mQ8644XwW4V5Xdrl42w91"
+        }
+      ],
+      "duration_ms": 226329,
+      "name": "Seruppa Kaanom",
+      "url": "https://open.spotify.com/track/5aIc4lWWlx3YcPy3dCz7FO"
+    },
+    {
+      "added_at": "2026-06-08 11:47:18",
+      "album": {
+        "name": "Daavu",
+        "url": "https://open.spotify.com/album/38zcO3MVMaUVz2foHaAlHI"
+      },
+      "artists": [
+        {
+          "name": "Nilukshan",
+          "url": "https://open.spotify.com/artist/2hBjBVtnPvVJ8HycacP7EL"
+        },
+        {
+          "name": "Velan Udhayakumar",
+          "url": "https://open.spotify.com/artist/1aiY8n9nQ9hhBtqfl33EPG"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Daavu",
+      "url": "https://open.spotify.com/track/4Dmz2VjarNsfZf84nDGJMB"
+    },
     {
       "added_at": "2026-06-10 10:19:16",
       "album": {
@@ -27,6 +67,30 @@
       "duration_ms": 169117,
       "name": "IOIO",
       "url": "https://open.spotify.com/track/0ye9i27scMk0GBlbGJEVjJ"
+    },
+    {
+      "added_at": "2026-06-12 13:35:00",
+      "album": {
+        "name": "Dubbuku Dubakuru",
+        "url": "https://open.spotify.com/album/31EtSaMTSKUc2SuRtPVqAg"
+      },
+      "artists": [
+        {
+          "name": "Alvin Bruno",
+          "url": "https://open.spotify.com/artist/1YYlKQ8S26WxCvXg1ULKvC"
+        },
+        {
+          "name": "Denzel George",
+          "url": "https://open.spotify.com/artist/5wl1x4rDNo22w2fCc2j1DB"
+        },
+        {
+          "name": "Christo G",
+          "url": "https://open.spotify.com/artist/3on7sLyR0SJ7guvcU47liT"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "Dubbuku Dubakuru",
+      "url": "https://open.spotify.com/track/2vRnCXR37fbbUhrIfFOweD"
     },
     {
       "added_at": "2026-06-24 12:12:33",
@@ -63,70 +127,6 @@
       "duration_ms": 175384,
       "name": "Ey Pulla",
       "url": "https://open.spotify.com/track/1A81vwNeY6ghuNo6llNePU"
-    },
-    {
-      "added_at": "2026-02-13 05:13:51",
-      "album": {
-        "name": "Broken Star (From \"Loopd\")",
-        "url": "https://open.spotify.com/album/4OV1vpPYa4djhsQcBBRCtI"
-      },
-      "artists": [
-        {
-          "name": "John Robins",
-          "url": "https://open.spotify.com/artist/4vrGxEyhSmRkywIlWp8Xqc"
-        },
-        {
-          "name": "Vetti Payan Venkat",
-          "url": "https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e"
-        }
-      ],
-      "duration_ms": 234294,
-      "name": "Broken Star (From \"Loopd\")",
-      "url": "https://open.spotify.com/track/0hIgpTZOcfxex9i1xW7prm"
-    },
-    {
-      "added_at": "2026-06-08 11:47:18",
-      "album": {
-        "name": "Daavu",
-        "url": "https://open.spotify.com/album/38zcO3MVMaUVz2foHaAlHI"
-      },
-      "artists": [
-        {
-          "name": "Nilukshan",
-          "url": "https://open.spotify.com/artist/2hBjBVtnPvVJ8HycacP7EL"
-        },
-        {
-          "name": "Velan Udhayakumar",
-          "url": "https://open.spotify.com/artist/1aiY8n9nQ9hhBtqfl33EPG"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Daavu",
-      "url": "https://open.spotify.com/track/4Dmz2VjarNsfZf84nDGJMB"
-    },
-    {
-      "added_at": "2026-06-12 13:35:00",
-      "album": {
-        "name": "Dubbuku Dubakuru",
-        "url": "https://open.spotify.com/album/31EtSaMTSKUc2SuRtPVqAg"
-      },
-      "artists": [
-        {
-          "name": "Alvin Bruno",
-          "url": "https://open.spotify.com/artist/1YYlKQ8S26WxCvXg1ULKvC"
-        },
-        {
-          "name": "Denzel George",
-          "url": "https://open.spotify.com/artist/5wl1x4rDNo22w2fCc2j1DB"
-        },
-        {
-          "name": "Christo G",
-          "url": "https://open.spotify.com/artist/3on7sLyR0SJ7guvcU47liT"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "Dubbuku Dubakuru",
-      "url": "https://open.spotify.com/track/2vRnCXR37fbbUhrIfFOweD"
     },
     {
       "added_at": "2026-06-30 11:25:01",
@@ -201,26 +201,6 @@
       "url": "https://open.spotify.com/track/6dEDlp5g1WaebGKI3K3IGH"
     },
     {
-      "added_at": "2026-06-26 05:27:01",
-      "album": {
-        "name": "Seruppa Kaanom",
-        "url": "https://open.spotify.com/album/6ZKUg07pVCkuPNfh4P1tIT"
-      },
-      "artists": [
-        {
-          "name": "Joshua Aaron",
-          "url": "https://open.spotify.com/artist/3q3ikUy0tmXkAonQpYDORq"
-        },
-        {
-          "name": "Sanikelama",
-          "url": "https://open.spotify.com/artist/2mQ8644XwW4V5Xdrl42w91"
-        }
-      ],
-      "duration_ms": 226329,
-      "name": "Seruppa Kaanom",
-      "url": "https://open.spotify.com/track/5aIc4lWWlx3YcPy3dCz7FO"
-    },
-    {
       "added_at": "2026-07-08 06:10:44",
       "album": {
         "name": "Aathadi",
@@ -255,6 +235,30 @@
       "duration_ms": 175609,
       "name": "Podhaadho?",
       "url": "https://open.spotify.com/track/38uon1nYNzQelci58PtnMp"
+    },
+    {
+      "added_at": "2026-07-10 15:09:33",
+      "album": {
+        "name": "Kanave",
+        "url": "https://open.spotify.com/album/3nGyeFmt5NcH44pRJilHhp"
+      },
+      "artists": [
+        {
+          "name": "Rama Priya Yegasivanathan",
+          "url": "https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx"
+        },
+        {
+          "name": "Shibi Srinivasan",
+          "url": "https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5"
+        },
+        {
+          "name": "Mirun Pradhap",
+          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+        }
+      ],
+      "duration_ms": 277333,
+      "name": "Kanave",
+      "url": "https://open.spotify.com/track/0aOcwV1NQhx2AKWXpPaNGa"
     },
     {
       "added_at": "2026-06-10 11:42:28",
@@ -319,6 +323,26 @@
       "duration_ms": 194285,
       "name": "Malare Unnai Kaana (A Cappella)",
       "url": "https://open.spotify.com/track/1memLus2OlpRwDDRbuZB8f"
+    },
+    {
+      "added_at": "2026-07-10 15:14:01",
+      "album": {
+        "name": "27 Saayal",
+        "url": "https://open.spotify.com/album/36sC0MtrdgnqBw6D6yWVVe"
+      },
+      "artists": [
+        {
+          "name": "Kanav",
+          "url": "https://open.spotify.com/artist/5T5xCP3V1dyWbQjpfFqQoo"
+        },
+        {
+          "name": "Ashlay JC",
+          "url": "https://open.spotify.com/artist/3zLbhGMrdDFUyU0lUerfxt"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Aaley Aaley",
+      "url": "https://open.spotify.com/track/1mgNWa6XeVeaJkPz7xuBZP"
     },
     {
       "added_at": "2026-05-04 07:47:45",
@@ -415,6 +439,26 @@
       "duration_ms": 192512,
       "name": "Anu Anuvai",
       "url": "https://open.spotify.com/track/7rsNofmYWP8dRnHAulqs1c"
+    },
+    {
+      "added_at": "2026-07-10 15:14:01",
+      "album": {
+        "name": "27 Saayal",
+        "url": "https://open.spotify.com/album/36sC0MtrdgnqBw6D6yWVVe"
+      },
+      "artists": [
+        {
+          "name": "Kanav",
+          "url": "https://open.spotify.com/artist/5T5xCP3V1dyWbQjpfFqQoo"
+        },
+        {
+          "name": "Dharshu Prakash",
+          "url": "https://open.spotify.com/artist/3759kf89nqfqS46KxjLyPb"
+        }
+      ],
+      "duration_ms": 154186,
+      "name": "Kallaatam",
+      "url": "https://open.spotify.com/track/0zYffmclu4HJoeFZusAE3Q"
     },
     {
       "added_at": "2026-06-25 06:48:21",
@@ -1461,34 +1505,6 @@
       "url": "https://open.spotify.com/track/5MaHn9vvLPagH4kxMuBrW8"
     },
     {
-      "added_at": "2026-02-12 12:05:14",
-      "album": {
-        "name": "Sattaiyila Button Illa (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/4cWZj0QW1LJeZJt2ISpxa2"
-      },
-      "artists": [
-        {
-          "name": "Pranav Muniraj",
-          "url": "https://open.spotify.com/artist/4Y4vxCuihUYyfcZlYuTmXp"
-        },
-        {
-          "name": "Pravekha",
-          "url": "https://open.spotify.com/artist/26s50DKJKi3Sg5zhw0jwv9"
-        },
-        {
-          "name": "vaisagh",
-          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
-        },
-        {
-          "name": "Susantika",
-          "url": "https://open.spotify.com/artist/4gnkNWZfLbN5K26Pjf7wnT"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Sattaiyila Button Illa - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/1TQN8q2X6dS3RXrnoxfFpA"
-    },
-    {
       "added_at": "2026-03-02 15:27:10",
       "album": {
         "name": "27 CLUB",
@@ -1567,26 +1583,6 @@
       "duration_ms": 228853,
       "name": "Maruguriye",
       "url": "https://open.spotify.com/track/4jAPcdyYF8XtcD4rpttfd9"
-    },
-    {
-      "added_at": "2026-02-06 05:33:04",
-      "album": {
-        "name": "Mudhal Murai",
-        "url": "https://open.spotify.com/album/7ikAlqIH9VPsYdwwRyPglQ"
-      },
-      "artists": [
-        {
-          "name": "Vidusan Kaneswaran",
-          "url": "https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs"
-        },
-        {
-          "name": "Dharrini Santhabavan",
-          "url": "https://open.spotify.com/artist/5RgQJpUJIaouCA81goKiOW"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Yaen Anbe",
-      "url": "https://open.spotify.com/track/3qo7g4rdkeefPbKPAgdBhC"
     }
   ],
   "unique_name": "RADAR Tamil",

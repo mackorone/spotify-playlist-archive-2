@@ -1,12 +1,12 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1168,
+  "num_followers": 1167,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFfvMJrGcs7k1yayplNaMBdoZVo1Wz",
+  "snapshot_id": "AAAFhw3w6a9oy5iBfZhcPAvT2eEDoEg4",
   "tracks": [
     {
       "added_at": "2026-06-30 21:58:18",
@@ -41,42 +41,6 @@
       "url": "https://open.spotify.com/track/7GOHw06yKrMFF5UuesDKIf"
     },
     {
-      "added_at": "2026-06-29 05:38:33",
-      "album": {
-        "name": "Remixes: Volume One",
-        "url": "https://open.spotify.com/album/7md6RQ477cE7hsQ3eqFTf3"
-      },
-      "artists": [
-        {
-          "name": "Loprov",
-          "url": "https://open.spotify.com/artist/3Zv31lkrOJ7HPBWmXOjiwJ"
-        },
-        {
-          "name": "Zeonyx",
-          "url": "https://open.spotify.com/artist/1cGNmTGl6Sn5aNWxogHaCg"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "i'm now alone with our memories. - Zeonyx Remix",
-      "url": "https://open.spotify.com/track/2PnCxSzzzKKM0RXIx1iDWP"
-    },
-    {
-      "added_at": "2026-07-03 08:13:48",
-      "album": {
-        "name": "Bite Me",
-        "url": "https://open.spotify.com/album/0VVg7Cu5eHBM3IVmWe7LuK"
-      },
-      "artists": [
-        {
-          "name": "GABUISLOST",
-          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
-        }
-      ],
-      "duration_ms": 217879,
-      "name": "Say The Words",
-      "url": "https://open.spotify.com/track/0SFYPKipfy0G1R7Y6oAkqO"
-    },
-    {
       "added_at": "2026-06-30 21:58:18",
       "album": {
         "name": "FIRST\u00b9",
@@ -104,9 +68,9 @@
           "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
         }
       ],
-      "duration_ms": 157281,
-      "name": "Some Years",
-      "url": "https://open.spotify.com/track/7nhuibhCjq3sSrnpT4pgow"
+      "duration_ms": 217879,
+      "name": "Say The Words",
+      "url": "https://open.spotify.com/track/0SFYPKipfy0G1R7Y6oAkqO"
     },
     {
       "added_at": "2026-06-29 05:39:18",
@@ -127,6 +91,22 @@
       "duration_ms": 203333,
       "name": "Surf Slowly",
       "url": "https://open.spotify.com/track/0ta7inTx4QTgBC8UHWWnIb"
+    },
+    {
+      "added_at": "2026-07-03 08:13:48",
+      "album": {
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/0VVg7Cu5eHBM3IVmWe7LuK"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "duration_ms": 157281,
+      "name": "Some Years",
+      "url": "https://open.spotify.com/track/7nhuibhCjq3sSrnpT4pgow"
     },
     {
       "added_at": "2026-06-29 05:37:05",
@@ -175,22 +155,6 @@
       "duration_ms": 225882,
       "name": "SUPERSTAR",
       "url": "https://open.spotify.com/track/0bOR18kp6y4qRxYFXCfb5v"
-    },
-    {
-      "added_at": "2026-06-30 21:58:18",
-      "album": {
-        "name": "Horse Club",
-        "url": "https://open.spotify.com/album/5LvERCWJyeYHS9etXxSnno"
-      },
-      "artists": [
-        {
-          "name": "Horse Club",
-          "url": "https://open.spotify.com/artist/3GeQs87oFB5XSDsCoKddAo"
-        }
-      ],
-      "duration_ms": 334062,
-      "name": "This Might Be the Last Time That I See You",
-      "url": "https://open.spotify.com/track/7Lctmg2gPaUNEUS6H5tnfE"
     },
     {
       "added_at": "2026-06-16 22:13:12",
@@ -347,6 +311,22 @@
       "duration_ms": 189900,
       "name": "b-b-BASS DOWN LOW - Maple Remix",
       "url": "https://open.spotify.com/track/5gBRwn2eD1U6CQuBy4QE47"
+    },
+    {
+      "added_at": "2026-07-10 07:42:00",
+      "album": {
+        "name": "iPop",
+        "url": "https://open.spotify.com/album/0y62AVbc0vCZwEye11xE5P"
+      },
+      "artists": [
+        {
+          "name": "Musa",
+          "url": "https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "iPop",
+      "url": "https://open.spotify.com/track/2N8s7lPPUSNfsi5ARpmJmC"
     },
     {
       "added_at": "2026-04-27 23:05:49",

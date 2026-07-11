@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 95283,
+  "num_followers": 95296,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "I Will Destroy The Void In You / Hold Steady",
-        "url": "https://open.spotify.com/album/6NucKcIcqnjZj9xutH9j3H"
-      },
-      "artists": [
-        {
-          "name": "The Glorious Sons",
-          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
-        }
-      ],
-      "duration_ms": 149698,
-      "name": "Hold Steady",
-      "url": "https://open.spotify.com/track/6izZd7444tvwqzWVwR9wUV"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "Wine On Venus",
         "url": "https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 278133,
       "name": "Tell Me Why U Do That",
       "url": "https://open.spotify.com/track/4Qnu29eLWDP2KZCiGHdNdh"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "I Will Destroy The Void In You / Hold Steady",
+        "url": "https://open.spotify.com/album/6NucKcIcqnjZj9xutH9j3H"
+      },
+      "artists": [
+        {
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+        }
+      ],
+      "duration_ms": 149698,
+      "name": "Hold Steady",
+      "url": "https://open.spotify.com/track/6izZd7444tvwqzWVwR9wUV"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Nervous",
-        "url": "https://open.spotify.com/album/2nzUJkFqobo7AeMczO9v7q"
-      },
-      "artists": [
-        {
-          "name": "Black Stone Cherry",
-          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
-        }
-      ],
-      "duration_ms": 195583,
-      "name": "Nervous",
-      "url": "https://open.spotify.com/track/5fQF78hwHmuRS6s6VRTAMG"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "Deep in the Trouble",
         "url": "https://open.spotify.com/album/5Uki8ZPYpS7wDAKdUks7Me"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 325254,
       "name": "Pile of Bones",
       "url": "https://open.spotify.com/track/0P7DARpTXXH01LhUArEYQK"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Nervous",
+        "url": "https://open.spotify.com/album/2nzUJkFqobo7AeMczO9v7q"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "duration_ms": 195583,
+      "name": "Nervous",
+      "url": "https://open.spotify.com/track/5fQF78hwHmuRS6s6VRTAMG"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -959,50 +959,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Interstate Cowboy",
-        "url": "https://open.spotify.com/album/6T9OmS588U5Dk5bKCkQvvj"
-      },
-      "artists": [
-        {
-          "name": "The Vegabonds",
-          "url": "https://open.spotify.com/artist/4FhEJXt9Dnh48FsjLN0JEh"
-        },
-        {
-          "name": "Sam Burchfield",
-          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
-        }
-      ],
-      "duration_ms": 214881,
-      "name": "Interstate Cowboy",
-      "url": "https://open.spotify.com/track/3c2RQ6N405f59qatt86lPS"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
-        "name": "Holy Ghost (feat. Jon Harvey [Monster Truck])",
-        "url": "https://open.spotify.com/album/03EAJNTCPNeCynFUhUrgye"
-      },
-      "artists": [
-        {
-          "name": "The Picturebooks",
-          "url": "https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo"
-        },
-        {
-          "name": "Jon Harvey",
-          "url": "https://open.spotify.com/artist/2zYl9bqiHYkqxIcrkJE4WN"
-        },
-        {
-          "name": "Monster Truck",
-          "url": "https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu"
-        }
-      ],
-      "duration_ms": 220480,
-      "name": "Holy Ghost (feat. Jon Harvey [Monster Truck])",
-      "url": "https://open.spotify.com/track/7CaZXMfKtmBwTXqz9fZQEC"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
         "url": "https://open.spotify.com/album/1EYgsan8PK3XiINKNSO4ht"
       },
@@ -1027,6 +983,26 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
+        "name": "Interstate Cowboy",
+        "url": "https://open.spotify.com/album/6T9OmS588U5Dk5bKCkQvvj"
+      },
+      "artists": [
+        {
+          "name": "The Vegabonds",
+          "url": "https://open.spotify.com/artist/4FhEJXt9Dnh48FsjLN0JEh"
+        },
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "duration_ms": 214881,
+      "name": "Interstate Cowboy",
+      "url": "https://open.spotify.com/track/3c2RQ6N405f59qatt86lPS"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
         "name": "Break My Heart",
         "url": "https://open.spotify.com/album/1wOvsBCKijqgU7cFkkDHOq"
       },
@@ -1039,6 +1015,30 @@
       "duration_ms": 254082,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/3njCj24qFzep7tAhiJSYTZ"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Holy Ghost (feat. Jon Harvey [Monster Truck])",
+        "url": "https://open.spotify.com/album/03EAJNTCPNeCynFUhUrgye"
+      },
+      "artists": [
+        {
+          "name": "The Picturebooks",
+          "url": "https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo"
+        },
+        {
+          "name": "Jon Harvey",
+          "url": "https://open.spotify.com/artist/2zYl9bqiHYkqxIcrkJE4WN"
+        },
+        {
+          "name": "Monster Truck",
+          "url": "https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu"
+        }
+      ],
+      "duration_ms": 220480,
+      "name": "Holy Ghost (feat. Jon Harvey [Monster Truck])",
+      "url": "https://open.spotify.com/track/7CaZXMfKtmBwTXqz9fZQEC"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
+        "name": "Heavy Soul",
+        "url": "https://open.spotify.com/album/3OvB15dImXdgGbmn3ew162"
+      },
+      "artists": [
+        {
+          "name": "David Shaw",
+          "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+        }
+      ],
+      "duration_ms": 182689,
+      "name": "Heavy Soul",
+      "url": "https://open.spotify.com/track/5qwc4qqv0CHfbJN6byvExp"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
         "name": "Natchez",
         "url": "https://open.spotify.com/album/7cuM4fOrG1nbdsGggB4Zq4"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 214293,
       "name": "Alabama",
       "url": "https://open.spotify.com/track/13iwFAkP5vMi6oEwV3uUsP"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
-        "name": "First High",
-        "url": "https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 187867,
-      "name": "First High",
-      "url": "https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ"
     }
   ],
   "unique_name": "Southern Comfort",

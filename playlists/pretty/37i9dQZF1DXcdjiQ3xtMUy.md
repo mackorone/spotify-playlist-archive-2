@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: ZAF
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,141 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,158 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 19 | [Keno](https://open.spotify.com/track/5bIY2tipWqaLOBanuPL4sF) | [Manos](https://open.spotify.com/artist/1f1rxFbyGZ77El3CNyxeV6), [Dina](https://open.spotify.com/artist/4R2DcF9JLwKQSfm87963xV) | [Keno](https://open.spotify.com/album/7FrdB9jKNXI7DbhPHN9sl0) | 3:51 |
 | 20 | [Glyko Antio](https://open.spotify.com/track/1XJAyJ7p11u2He72ecoq5C) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Ixogenia](https://open.spotify.com/album/5koMXETaZmIZv69JLjro8v) | 2:20 |
 | 21 | [Oneiro Vathi](https://open.spotify.com/track/0VU2t3vtbGI8TiVzR0PoFt) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Oneiro Vathi](https://open.spotify.com/album/641o0ItNropWRYCAUZkoTD) | 3:16 |
-| 22 | [Ballaro Xana](https://open.spotify.com/track/2imtO14NPFxuiHIRXPvo3J) | [JOJO](https://open.spotify.com/artist/7y3Vc1nVxf9MK2BXv5G3ul), [GXHAN](https://open.spotify.com/artist/6rdyRCKpxlwH5dMRYr1fUD) | [Ballaro Xana](https://open.spotify.com/album/5yBfHkqUCmsJWW8YDblOXF) | 2:36 |
+| 22 | [Ballaro Xana](https://open.spotify.com/track/2imtO14NPFxuiHIRXPvo3J) | [JOJO](https://open.spotify.com/artist/7y3Vc1nVxf9MK2BXv5G3ul), [GXHAN](https://open.spotify.com/artist/6rdyRCKpxlwH5dMRYr1fUD) | [Ballaro Xana](https://open.spotify.com/album/5yBfHkqUCmsJWW8YDblOXF) | 2:34 |
 | 23 | [KARALHO](https://open.spotify.com/track/1vTAwpWr8qOtFM7pfMw6wM) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [KARALHO](https://open.spotify.com/album/5V94gUViWjEaX3RGgshVHz) | 3:00 |
 | 24 | [Gypsy Girl](https://open.spotify.com/track/1YLbaW7lnYHbYBe805jsn2) | [Tania Breazou](https://open.spotify.com/artist/0kLn8jOEDFY8KfArE2wn8r), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Gypsy Girl](https://open.spotify.com/album/6P5HUKAvskokExIqXTZuRr) | 2:22 |
 | 25 | [NAYA](https://open.spotify.com/track/7CoyoHJ9Nhlcl1MPwmUmsn) | [CARLA](https://open.spotify.com/artist/0efzWCTqpsoaTZNUn3ar4z) | [NAYA](https://open.spotify.com/album/6Gb4SvqtyqT5JYSy4cvUQx) | 2:35 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 343 likes - 2,463 songs - 6 day 1 hr 9 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 343 likes - 2,469 songs - 6 day 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2471,5 +2471,11 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2461 | [Sinkopasi Rasa](https://open.spotify.com/track/0nziPGJge4BDTwyNDjhW0B) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Sinkopasi Rasa](https://open.spotify.com/album/1zmhCdv90zxAd0fEXvZRLz) | 2:25 |
 | 2462 | [Menjadi Utuh](https://open.spotify.com/track/5vcOa8lzcPBO2KQ74AQdtl) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Menjadi Utuh](https://open.spotify.com/album/2jynPXHatxWoOARNGRcYGf) | 4:13 |
 | 2463 | [Sardinia](https://open.spotify.com/track/5cLDgmrRqxhW27wKEf30G9) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Sardinia](https://open.spotify.com/album/6kNKTlgBDM7FWeTUtDnNM9) | 2:47 |
+| 2464 | [Blu Cobalto](https://open.spotify.com/track/3EuICfEHF0XSk2QKzXHbxg) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Del Vento e Del Mare](https://open.spotify.com/album/5K5ARVaWTrVKw7yEKvcCpt) | 3:09 |
+| 2465 | [Segreti di Miele](https://open.spotify.com/track/0DsXkCyT6k1PoOBaSXTGIq) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Del Vento e Del Mare](https://open.spotify.com/album/5K5ARVaWTrVKw7yEKvcCpt) | 2:04 |
+| 2466 | [Duna Surf](https://open.spotify.com/track/07unJbxGo2TlbT6IgoYKOe) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Del Vento e Del Mare](https://open.spotify.com/album/5K5ARVaWTrVKw7yEKvcCpt) | 3:16 |
+| 2467 | [G33](https://open.spotify.com/track/2OxylJJcJD1lyPSGsjVfvW) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Del Vento e Del Mare](https://open.spotify.com/album/5K5ARVaWTrVKw7yEKvcCpt) | 3:11 |
+| 2468 | [Take Me Up \- Radio Edit](https://open.spotify.com/track/30NbCk8tGXG23YAJyYfuZn) | [Andrea Belli](https://open.spotify.com/artist/65buRrCpNVkMbkKspjt5iR), [Dave Roy Bland](https://open.spotify.com/artist/1X3vecxOTZqDpEVb4Y4nVd) | [Take Me Up](https://open.spotify.com/album/6GyR4IdJwhvK1ReW1tsF4Z) | 2:21 |
+| 2469 | [Dosenbier an der Cote d'azur](https://open.spotify.com/track/0OoQUa4Y6Vd4ahVWXjbhQr) | [ArneB](https://open.spotify.com/artist/76B0pivpAcHhfEeIRpaZL7) | [\(K\)ein Sommermärchen](https://open.spotify.com/album/0QPxwzolCZoWRnSatyGCp6) | 3:01 |
 
-Snapshot ID: `AAAKbMU2r4V8NJu5rcYJpQGGMw2kCvcE`
+Snapshot ID: `AAAKcrByKs9meFnQD4a2YiRK9Iy5YyDo`

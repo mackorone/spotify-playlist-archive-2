@@ -1,15 +1,15 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Freddie Gibbs",
-  "num_followers": 1561938,
+  "num_followers": 1561832,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHiBBKAEzMXGCsFz94rJt8qvC0j0",
+  "snapshot_id": "AAAAAIJrCNHqu2C7ndiEo1cLvzvGNR2v",
   "tracks": [
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
+      "album": {
+        "name": "The Fall-Off",
+        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 318066,
+      "name": "SAFETY",
+      "url": "https://open.spotify.com/track/3sJLoIc9y1b4gKAP8ZNsR9"
+    },
+    {
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "BULLY",
         "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
@@ -45,23 +61,7 @@
       "url": "https://open.spotify.com/track/7GVuAK4EmYP7gvlXA4JXqU"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
-      "album": {
-        "name": "The Fall-Off",
-        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 318066,
-      "name": "SAFETY",
-      "url": "https://open.spotify.com/track/3sJLoIc9y1b4gKAP8ZNsR9"
-    },
-    {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "RBT",
         "url": "https://open.spotify.com/album/7tRd6qHR20ZfJKcGYGXbai"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/0wkWMbqr3SgM9TdgdzMsXv"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "The Plugs I Met 2.5",
         "url": "https://open.spotify.com/album/3dE6joteTJNZV7sRu9ps6t"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/1RSRsuzoI486TlrGI8lJDC"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Boss Thing",
         "url": "https://open.spotify.com/album/1EppA9ixwZVDCMBAhtgn5z"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/1GxWQ0kLR8AOyw4raoqHKs"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/73ycOMnODtUc2Ggj6EfCpO"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "For The Gig",
         "url": "https://open.spotify.com/album/6yaXs1mAkeUE3Ina5gf2nI"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/1KNjdLUsAeaP02NgXb7o8c"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Warehouse 4 (feat. OT The Real & Rick Hyde)",
         "url": "https://open.spotify.com/album/4Vu9NCSr7nM4cqvqH4W9yM"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/1T1JrlDyvdNeX61gK6Y5Ox"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "RBT",
         "url": "https://open.spotify.com/album/7tRd6qHR20ZfJKcGYGXbai"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/7tSvP9ABqDWwjSssEhpo9r"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "The Plugs I Met 2.5",
         "url": "https://open.spotify.com/album/3dE6joteTJNZV7sRu9ps6t"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/1pGWrXxZPhpSWRTsSlgCRq"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Moving Towards Love_PINK",
         "url": "https://open.spotify.com/album/4nvIE4mJRIPMeYSFB3rbGM"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/04JwLfghNEDQefQPcXVttx"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "BRICK AFTER",
         "url": "https://open.spotify.com/album/3jTWBl7d7voiFplo792UHM"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/2ziDFyG3wWjyyTyy2SbLfJ"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Heavy Burden",
         "url": "https://open.spotify.com/album/3WAGbhtpV1VydhckNYGKvM"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/5jGDB8x3JuPh0LjhFfb2KP"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Easter Clothes",
         "url": "https://open.spotify.com/album/5U5SsCeIxbSiC8s5M9MOhq"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/1jvq0gHKy8OZmdkiTWkD36"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Sir Render",
         "url": "https://open.spotify.com/album/49q1HNNngQn7A798rHU8rp"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/5G6gK0ZF3IwgekqCNNGlFb"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "BULLY",
         "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/0fD7KBtQgPR1YCtuPAsyZJ"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Like This",
         "url": "https://open.spotify.com/album/4V98caF1bCA9EnJM8mfjJ0"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/4h4PMl9vdHR14Qazvq4JB1"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "2010 - Mr. October",
         "url": "https://open.spotify.com/album/56ZRbU1e9sCndkyStRWENe"
@@ -405,7 +405,31 @@
       "url": "https://open.spotify.com/track/0jrUT67nSXhu8dikZfJXD9"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
+      "album": {
+        "name": "ROTTEN APPLE",
+        "url": "https://open.spotify.com/album/2WWRfSIg7D8pbDuJcnElEQ"
+      },
+      "artists": [
+        {
+          "name": "Iman Nunez",
+          "url": "https://open.spotify.com/artist/0ZLhwTpdRnE4bOD6Rh6RYa"
+        },
+        {
+          "name": "Niko Brim",
+          "url": "https://open.spotify.com/artist/1leUdTmVH8GDaAQIqhvq7r"
+        },
+        {
+          "name": "Kai Ca$h",
+          "url": "https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG"
+        }
+      ],
+      "duration_ms": 218359,
+      "name": "ROTTEN APPLE",
+      "url": "https://open.spotify.com/track/261VjS7u4ZWv1dLJVpclgs"
+    },
+    {
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
@@ -421,7 +445,7 @@
       "url": "https://open.spotify.com/track/3rssNOLucK9fzsRcKonhYu"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Alligator Bites Never Heal",
         "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
@@ -437,7 +461,7 @@
       "url": "https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "The Fall-Off",
         "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
@@ -453,7 +477,7 @@
       "url": "https://open.spotify.com/track/5pjf75G1zn9EEFa8iaCV5h"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Harlem's Finest: Return Of The King",
         "url": "https://open.spotify.com/album/52bbgcaJfoKW3N2eO8TYMN"
@@ -477,7 +501,7 @@
       "url": "https://open.spotify.com/track/7lCpzHEIIBf7BQKfRyRP01"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
@@ -493,7 +517,7 @@
       "url": "https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Balloonerism",
         "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
@@ -509,7 +533,7 @@
       "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Life Is Beautiful",
         "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
@@ -533,7 +557,7 @@
       "url": "https://open.spotify.com/track/6hh74g3EXXM8dF1Boamcyn"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "The Fall-Off",
         "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
@@ -549,7 +573,7 @@
       "url": "https://open.spotify.com/track/3kUHIvjJ8p9UzeaeeqHkfg"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Alfredo 2",
         "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
@@ -569,7 +593,7 @@
       "url": "https://open.spotify.com/track/7I3cmK1BCShHs3MIZ3rOWF"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Ca$ino",
         "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
@@ -585,7 +609,7 @@
       "url": "https://open.spotify.com/track/76uwSqRmmSfRZVocIceH1b"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "IT'S BEEN AWFUL",
         "url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH"
@@ -605,7 +629,7 @@
       "url": "https://open.spotify.com/track/0sSkIRZuqZWigJvUnPMdKL"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Let God Sort Em Out",
         "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
@@ -633,7 +657,7 @@
       "url": "https://open.spotify.com/track/6X5sXeRwqbqPsZ8FFFae0F"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Port Antonio",
         "url": "https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW"
@@ -649,7 +673,7 @@
       "url": "https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Alfredo 2",
         "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
@@ -673,7 +697,7 @@
       "url": "https://open.spotify.com/track/4ig1U15Fek3EOm6lJppxu1"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Ca$ino",
         "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
@@ -689,7 +713,7 @@
       "url": "https://open.spotify.com/track/4LGFc5Vv5YlqTvWIa37CbG"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Life Is Beautiful",
         "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
@@ -713,7 +737,27 @@
       "url": "https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
+      "album": {
+        "name": "KILL THE KING",
+        "url": "https://open.spotify.com/album/7n2pr72Wvg7ZPHN3wFLSfd"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Young Dro",
+          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
+        }
+      ],
+      "duration_ms": 176435,
+      "name": "SEE WH'AM SAYIN (feat. Young Dro)",
+      "url": "https://open.spotify.com/track/58rEnX8jMVPp39ABn8GZoe"
+    },
+    {
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Alligator Bites Never Heal",
         "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
@@ -729,7 +773,47 @@
       "url": "https://open.spotify.com/track/27oSDhuYJWxdm9yjI6891v"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
+      "album": {
+        "name": "Alfredo 2",
+        "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 221786,
+      "name": "Gold Feet (feat. J.I.D.)",
+      "url": "https://open.spotify.com/track/6yZPdc1jlYnG9QFG8WnrMm"
+    },
+    {
+      "added_at": "2026-07-10 21:05:35",
+      "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 166469,
+      "name": "No Blame",
+      "url": "https://open.spotify.com/track/4OiF7pHMapELmWxgwShCbK"
+    },
+    {
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "God Does Like Ugly",
         "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
@@ -757,47 +841,7 @@
       "url": "https://open.spotify.com/track/3LXxHFZWt6OHdBsgucSIjJ"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
-      "album": {
-        "name": "Alfredo 2",
-        "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 221786,
-      "name": "Gold Feet (feat. J.I.D.)",
-      "url": "https://open.spotify.com/track/6yZPdc1jlYnG9QFG8WnrMm"
-    },
-    {
-      "added_at": "2026-06-26 04:01:49",
-      "album": {
-        "name": "Ca$ino",
-        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 166469,
-      "name": "No Blame",
-      "url": "https://open.spotify.com/track/4OiF7pHMapELmWxgwShCbK"
-    },
-    {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Balloonerism",
         "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
@@ -813,7 +857,7 @@
       "url": "https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Sir Render",
         "url": "https://open.spotify.com/album/49q1HNNngQn7A798rHU8rp"
@@ -833,7 +877,7 @@
       "url": "https://open.spotify.com/track/1ielrdn4NJvJPYcKSaSW1z"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Spiral Staircases",
         "url": "https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ"
@@ -857,7 +901,7 @@
       "url": "https://open.spotify.com/track/52O0lWLhF9VoOVACnlnAnS"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Muddy Waters Too",
         "url": "https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi"
@@ -877,7 +921,7 @@
       "url": "https://open.spotify.com/track/36u1dV1zt17N8Cv7Ptct4u"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "e.t.d.s. A Mixtape by .idk.",
         "url": "https://open.spotify.com/album/0CfaDINhy5bFTz9UwM7WAF"
@@ -901,7 +945,7 @@
       "url": "https://open.spotify.com/track/7JXgFyQNzpxcfIILwryyJZ"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "Balloonerism",
         "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
@@ -917,7 +961,7 @@
       "url": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "EGYPT (Remix)",
         "url": "https://open.spotify.com/album/3XC0hyQcq2vsrpGXZKtGs2"
@@ -937,23 +981,7 @@
       "url": "https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
-      "album": {
-        "name": "ADHD 2 Reloaded",
-        "url": "https://open.spotify.com/album/61MEzXrdKxuTvken9N1C7g"
-      },
-      "artists": [
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        }
-      ],
-      "duration_ms": 217411,
-      "name": "Reconsider",
-      "url": "https://open.spotify.com/track/68s4qX9mitS8d3u1UY7SDj"
-    },
-    {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
         "name": "God Does Like Ugly",
         "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
@@ -973,44 +1001,20 @@
       "url": "https://open.spotify.com/track/12Wh0aUUoJUFffOQdY1ouy"
     },
     {
-      "added_at": "2026-06-26 04:01:49",
+      "added_at": "2026-07-10 21:05:35",
       "album": {
-        "name": "Spiral Staircases",
-        "url": "https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ"
+        "name": "ADHD 2 Reloaded",
+        "url": "https://open.spotify.com/album/61MEzXrdKxuTvken9N1C7g"
       },
       "artists": [
         {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
         }
       ],
-      "duration_ms": 222853,
-      "name": "2.P.I.G.",
-      "url": "https://open.spotify.com/track/3sgv5VRl0IZpocRJcwc5CK"
-    },
-    {
-      "added_at": "2026-06-26 04:01:49",
-      "album": {
-        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 224639,
-      "name": "Die Together",
-      "url": "https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0"
+      "duration_ms": 217411,
+      "name": "Reconsider",
+      "url": "https://open.spotify.com/track/68s4qX9mitS8d3u1UY7SDj"
     }
   ],
   "unique_name": "Spilled Ink",

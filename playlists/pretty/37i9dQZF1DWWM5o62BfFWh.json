@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica que representa a Cuba! Cover: Dany Ome & Kevincito El 13",
-  "num_followers": 166841,
+  "num_followers": 166865,
   "original_name": "Hecho en Cuba",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2026-06-30 15:56:51",
       "album": {
+        "name": "Tiene De Mami De Papi",
+        "url": "https://open.spotify.com/album/3B2NnLawYCFqwunM315eMn"
+      },
+      "artists": [
+        {
+          "name": "Baby Maikol",
+          "url": "https://open.spotify.com/artist/5Gfu31ACxk44eRhZalyZ8U"
+        }
+      ],
+      "duration_ms": 171461,
+      "name": "Tiene De Mami De Papi",
+      "url": "https://open.spotify.com/track/7pATpkt5YKGakLPBPMOzbW"
+    },
+    {
+      "added_at": "2026-06-30 15:56:51",
+      "album": {
         "name": "EL PROBLEMA SOY YO",
         "url": "https://open.spotify.com/album/41QxG4croIE1tKMHx58bfW"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 211490,
       "name": "EL PROBLEMA SOY YO",
       "url": "https://open.spotify.com/track/4sQTbV2DblGqo0vKuiaUZz"
-    },
-    {
-      "added_at": "2026-06-30 15:56:51",
-      "album": {
-        "name": "Tiene De Mami De Papi",
-        "url": "https://open.spotify.com/album/3B2NnLawYCFqwunM315eMn"
-      },
-      "artists": [
-        {
-          "name": "Baby Maikol",
-          "url": "https://open.spotify.com/artist/5Gfu31ACxk44eRhZalyZ8U"
-        }
-      ],
-      "duration_ms": 171461,
-      "name": "Tiene De Mami De Papi",
-      "url": "https://open.spotify.com/track/7pATpkt5YKGakLPBPMOzbW"
     },
     {
       "added_at": "2026-06-30 15:56:51",
@@ -283,6 +283,30 @@
     {
       "added_at": "2026-06-30 15:56:51",
       "album": {
+        "name": "Mi Lugar Favorito (Prod. by Ernesto Losa, Roberto Ferrante)",
+        "url": "https://open.spotify.com/album/7DV49wDTaPb2EQHV7Vtc0d"
+      },
+      "artists": [
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        },
+        {
+          "name": "Roberto Ferrante",
+          "url": "https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1"
+        }
+      ],
+      "duration_ms": 158484,
+      "name": "Mi Lugar Favorito - Prod. by Ernesto Losa, Roberto Ferrante",
+      "url": "https://open.spotify.com/track/1s1HC6pWnAnD71q7jNVw7w"
+    },
+    {
+      "added_at": "2026-06-30 15:56:51",
+      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/6GPX8ih1SqGIY87K4dcJ2Y"
       },
@@ -319,50 +343,6 @@
     {
       "added_at": "2026-06-30 15:56:51",
       "album": {
-        "name": "Mi Lugar Favorito (Prod. by Ernesto Losa, Roberto Ferrante)",
-        "url": "https://open.spotify.com/album/7DV49wDTaPb2EQHV7Vtc0d"
-      },
-      "artists": [
-        {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
-        },
-        {
-          "name": "Roberto Ferrante",
-          "url": "https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1"
-        }
-      ],
-      "duration_ms": 158484,
-      "name": "Mi Lugar Favorito - Prod. by Ernesto Losa, Roberto Ferrante",
-      "url": "https://open.spotify.com/track/1s1HC6pWnAnD71q7jNVw7w"
-    },
-    {
-      "added_at": "2026-06-30 15:56:51",
-      "album": {
-        "name": "El Sano",
-        "url": "https://open.spotify.com/album/70vYsvr1Ob0IKzweSNuJpy"
-      },
-      "artists": [
-        {
-          "name": "El Taiger",
-          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
-        },
-        {
-          "name": "Lex White",
-          "url": "https://open.spotify.com/artist/1RzvhumWtiuw4dJiiuD7Mr"
-        }
-      ],
-      "duration_ms": 199307,
-      "name": "El Sano",
-      "url": "https://open.spotify.com/track/3CsaEEDEFo6uwt7SwSyexu"
-    },
-    {
-      "added_at": "2026-06-30 15:56:51",
-      "album": {
         "name": "Vibras",
         "url": "https://open.spotify.com/album/1BWYew8QB2zdGHXdCt7bXu"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 194036,
       "name": "Vibras",
       "url": "https://open.spotify.com/track/6KCvGJbPW4stj6p2PFt5aj"
+    },
+    {
+      "added_at": "2026-06-30 15:56:51",
+      "album": {
+        "name": "El Sano",
+        "url": "https://open.spotify.com/album/70vYsvr1Ob0IKzweSNuJpy"
+      },
+      "artists": [
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        },
+        {
+          "name": "Lex White",
+          "url": "https://open.spotify.com/artist/1RzvhumWtiuw4dJiiuD7Mr"
+        }
+      ],
+      "duration_ms": 199307,
+      "name": "El Sano",
+      "url": "https://open.spotify.com/track/3CsaEEDEFo6uwt7SwSyexu"
     },
     {
       "added_at": "2026-06-30 15:56:51",
@@ -435,6 +435,26 @@
     {
       "added_at": "2026-06-30 15:56:51",
       "album": {
+        "name": "Todos Los D\u00edas Son Iguales",
+        "url": "https://open.spotify.com/album/1pcciV0T9o0fxVGXiD8Wo9"
+      },
+      "artists": [
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        },
+        {
+          "name": "El Bandolero",
+          "url": "https://open.spotify.com/artist/5bSI7DmMQFvDRkV8RMe2wB"
+        }
+      ],
+      "duration_ms": 151086,
+      "name": "Sellito y Foto - Prod. by El Bandolero",
+      "url": "https://open.spotify.com/track/2rUc0kMhOMWxCdH1PaTVVr"
+    },
+    {
+      "added_at": "2026-06-30 15:56:51",
+      "album": {
         "name": "Imag\u00ednate",
         "url": "https://open.spotify.com/album/7C3VkDmLRuhVgJXnIhQ1Ho"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 157974,
       "name": "After Party",
       "url": "https://open.spotify.com/track/1SUN7eeCyhKY08FxWBde8U"
-    },
-    {
-      "added_at": "2026-06-30 15:56:51",
-      "album": {
-        "name": "Todos Los D\u00edas Son Iguales",
-        "url": "https://open.spotify.com/album/1pcciV0T9o0fxVGXiD8Wo9"
-      },
-      "artists": [
-        {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
-        },
-        {
-          "name": "El Bandolero",
-          "url": "https://open.spotify.com/artist/5bSI7DmMQFvDRkV8RMe2wB"
-        }
-      ],
-      "duration_ms": 151086,
-      "name": "Sellito y Foto - Prod. by El Bandolero",
-      "url": "https://open.spotify.com/track/2rUc0kMhOMWxCdH1PaTVVr"
     },
     {
       "added_at": "2026-06-30 15:56:51",
@@ -639,26 +639,6 @@
     {
       "added_at": "2026-06-30 15:56:51",
       "album": {
-        "name": "De Ping4",
-        "url": "https://open.spotify.com/album/75LHeZMkEZP1Nkwbum0kKg"
-      },
-      "artists": [
-        {
-          "name": "Wow Popy",
-          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
-        },
-        {
-          "name": "Charaway",
-          "url": "https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy"
-        }
-      ],
-      "duration_ms": 177762,
-      "name": "De Ping4",
-      "url": "https://open.spotify.com/track/0TZx2Nlsrgrsv9Dm88pmn0"
-    },
-    {
-      "added_at": "2026-06-30 15:56:51",
-      "album": {
         "name": "TODO SE SUPERA",
         "url": "https://open.spotify.com/album/1dwGmtihvoExwvQ29jP3tw"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 165312,
       "name": "TODO SE SUPERA",
       "url": "https://open.spotify.com/track/7yclBy0HutOePT34WzbAxi"
+    },
+    {
+      "added_at": "2026-06-30 15:56:51",
+      "album": {
+        "name": "De Ping4",
+        "url": "https://open.spotify.com/album/75LHeZMkEZP1Nkwbum0kKg"
+      },
+      "artists": [
+        {
+          "name": "Wow Popy",
+          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
+        },
+        {
+          "name": "Charaway",
+          "url": "https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy"
+        }
+      ],
+      "duration_ms": 177762,
+      "name": "De Ping4",
+      "url": "https://open.spotify.com/track/0TZx2Nlsrgrsv9Dm88pmn0"
     },
     {
       "added_at": "2026-06-30 15:56:51",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-06-30 15:56:51",
       "album": {
-        "name": "TE VIR\u00c9 EL CASETTE",
-        "url": "https://open.spotify.com/album/6HuNpYO5oiXanjfMiyq7F2"
-      },
-      "artists": [
-        {
-          "name": "Un Titico",
-          "url": "https://open.spotify.com/artist/1wgxD20A755DF21xNi4OiX"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "BORRACHO",
-      "url": "https://open.spotify.com/track/4eHxfgW4GUzrpDEU8mvQw3"
-    },
-    {
-      "added_at": "2026-06-30 15:56:51",
-      "album": {
         "name": "CUBATON PAL REPARTO",
         "url": "https://open.spotify.com/album/4qf82iLojkj09mwtxlUV3p"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 153891,
       "name": "LO MEJOR DE LO MEJOR",
       "url": "https://open.spotify.com/track/7KxHYPDF3WKt3mzjZifL9U"
+    },
+    {
+      "added_at": "2026-06-30 15:56:51",
+      "album": {
+        "name": "TE VIR\u00c9 EL CASETTE",
+        "url": "https://open.spotify.com/album/6HuNpYO5oiXanjfMiyq7F2"
+      },
+      "artists": [
+        {
+          "name": "Un Titico",
+          "url": "https://open.spotify.com/artist/1wgxD20A755DF21xNi4OiX"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "BORRACHO",
+      "url": "https://open.spotify.com/track/4eHxfgW4GUzrpDEU8mvQw3"
     },
     {
       "added_at": "2026-06-30 15:56:51",

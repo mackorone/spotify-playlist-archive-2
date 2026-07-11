@@ -4,7 +4,7 @@
 
 > Les hits zouk & kompa du moment\. Photo : Axel Tony x Yoan
 
-449 songs - 23 hr 27 min
+449 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Come Back To Me \(feat\. Kayos KF & DJ Keishawn\)](https://open.spotify.com/track/4meLnWTjgOmpls5FSsmu6k) | [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr), [Kayos KF](https://open.spotify.com/artist/6sAVp1U2N61SR2o6BtAwMC), [DJ Keishawn](https://open.spotify.com/artist/0NXDvLMKfwZAhyblSeA8Um) | [Come Back To Me \(feat\. Kayos KF & DJ Keishawn\)](https://open.spotify.com/album/3qxI9eHBXqfldgOr75nOBW) | 4:09 | 2025-04-24 | 2025-05-23 |
 | [COMMANDES](https://open.spotify.com/track/4iEBC6CH4TUgqt9tWH1brw) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2) | [CATTLEYA](https://open.spotify.com/album/3yPzQIfc6dj1NQWNYLYHGn) | 4:21 | 2024-04-18 | 2024-08-02 |
 | [Comme Never](https://open.spotify.com/track/0CwxFBHUIachZjzCH1yUAi) | [Kénédy](https://open.spotify.com/artist/4UQw6LI7i8sdQQMYhwQd71), [JmaX](https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV) | [Comme Never](https://open.spotify.com/album/65tAmGppTFEBGdzMVIxx83) | 2:56 | 2025-08-07 | 2025-09-12 |
+| [Comment m'aimer](https://open.spotify.com/track/6jHeDkT1nisjl2LE1qVzFb) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [THERAPY](https://open.spotify.com/album/6AjkBSOVwXBWc2lXflY65D) | 2:46 | 2026-07-09 |  |
 | [COMPLIQUÉ](https://open.spotify.com/track/2GWCVjGJ30y2hXIKIXhsxT) | [Dj Tyson](https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv), [VARAINE BEN](https://open.spotify.com/artist/33VRGx12FIZw3TPLU93feY) | [COMPLIQUÉ](https://open.spotify.com/album/2ev4tDFNjbJyAetjBBzuii) | 3:28 | 2023-09-28 | 2024-03-01 |
 | [Condamné](https://open.spotify.com/track/6Ih8EcMC6qReJ9tKz6WIYV) | [KOKEÏNEJTD](https://open.spotify.com/artist/1QiNcFh9MLHHNvKxjntbsP), [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [Condamné](https://open.spotify.com/album/5td7pfaLpn96MRBbIcrnmc) | 3:12 | 2025-11-13 | 2026-01-30 |
 | [Continué gardé](https://open.spotify.com/track/0rL4mMf6GShlF70S6CXpkB) | [Maiko](https://open.spotify.com/artist/2Q9GRYHW7SsDdDrZghr3Sd), [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm) | [Continué gardé](https://open.spotify.com/album/77slPqHtITdgg4b5874Mfq) | 2:52 | 2025-08-07 | 2025-10-10 |
@@ -418,7 +419,6 @@
 | [Toute ma vie](https://open.spotify.com/track/6OARgpwlVE5qZJMm0jNWBz) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [Toute ma vie](https://open.spotify.com/album/5sOH6iZp5nhaCLxeWjoBY4) | 2:53 | 2025-10-02 | 2025-11-28 |
 | [Toxic](https://open.spotify.com/track/4mu20BQcDwqTRwIjXi7LgX) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt), [MJTX](https://open.spotify.com/artist/5oYrabnj98r8zzsTsD5PbP) | [Toxic](https://open.spotify.com/album/6vTkMnhW0kmJFZQeNbwcLU) | 3:05 | 2025-06-26 | 2025-08-15 |
 | [Toxic](https://open.spotify.com/track/2VX6f5jrnErZ8gwX6z6fz7) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y), [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Toxic](https://open.spotify.com/album/5VAROo1FfGrrY2tapcGWOi) | 2:21 | 2023-09-28 | 2023-11-10 |
-| [Track 2](https://open.spotify.com/track/6jHeDkT1nisjl2LE1qVzFb) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [THERAPY](https://open.spotify.com/album/6AjkBSOVwXBWc2lXflY65D) | 0:00 | 2026-07-09 |  |
 | [Trahison](https://open.spotify.com/track/4KlcmzQslGv5RDpGLEykG9) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Pièce Maîtresse](https://open.spotify.com/album/3ZAiBEiCKVYwdeiWHEYIU3) | 2:56 | 2023-10-26 | 2023-11-24 |
 | [Trop bien pour moi](https://open.spotify.com/track/1DiaIGmVgNZj9gPmJYX51w) | [Loïc Emboulé](https://open.spotify.com/artist/7BLv95GIAewL8GOsIM8qN4), [YSN](https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q) | [Trop bien pour moi](https://open.spotify.com/album/4RM0HTBqUmOVOVBiMPniIG) | 2:47 | 2026-05-14 | 2026-06-26 |
 | [TROP DOUX](https://open.spotify.com/track/7qk5RFp7PrxzguPkTdgkmq) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [TROP DOUX](https://open.spotify.com/album/52mKE8lmxbVpXyAVJa4lX7) | 3:28 | 2023-09-28 | 2023-10-27 |

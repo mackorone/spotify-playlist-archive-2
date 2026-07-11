@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Noa Sainz en portada \u2728",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Banda MS en portada \u2728",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 223384,
       "name": "105",
       "url": "https://open.spotify.com/track/6alc7s6nlzXgNS5pIFRGpa"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 135461,
       "name": "506",
       "url": "https://open.spotify.com/track/5RtMi0Dq42mU68Bz7NmqFx"
@@ -3361,6 +3361,28 @@
     },
     {
       "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/6kn5ZIUlHA3NBsacObuBiU"
+      },
+      "artists": [
+        {
+          "name": "Bon Calso",
+          "url": "https://open.spotify.com/artist/7ayZ0ZHp9SC1Bp6rzDd6gu"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250006,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/7IwG40uAh2A39GQtqANRNW"
+    },
+    {
+      "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/7AqEjgf07HPFdnsC9mxNIz"
       },
@@ -5535,6 +5557,40 @@
     },
     {
       "album": {
+        "name": "Soy Luna: Volver a rodar (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/6glYGr5mPdY0m1vt9mzNuO"
+      },
+      "artists": [
+        {
+          "name": "Elenco de Soy Luna",
+          "url": "https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Karol Sevilla",
+          "url": "https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3"
+        },
+        {
+          "name": "Ruggero Pasquarelli",
+          "url": "https://open.spotify.com/artist/7uMsrJMSZWhL8IXO6YArQL"
+        },
+        {
+          "name": "Michael Ronda",
+          "url": "https://open.spotify.com/artist/0TRtXrrdp0uEmcdg5amrLt"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Jet",
+      "url": "https://open.spotify.com/track/48k8Aqk90ytRKbhaRCPcc5"
+    },
+    {
+      "album": {
         "name": "Jet Lag",
         "url": "https://open.spotify.com/album/6ua7OrjJXvdecm1ccxKErh"
       },
@@ -5746,7 +5802,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 131367,
       "name": "KORA KORA",
       "url": "https://open.spotify.com/track/6ndpaM4u9dss1lpC7RX92X"
@@ -5786,6 +5842,28 @@
       "duration_ms": 146031,
       "name": "LA FOTO",
       "url": "https://open.spotify.com/track/3M5cksDfuPEF68TZfPr76h"
+    },
+    {
+      "album": {
+        "name": "LA GUARACHA (Oh Oh Oh)",
+        "url": "https://open.spotify.com/album/2I5gxj9pxbyE7o0TpcadAN"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199807,
+      "name": "LA GUARACHA (Oh Oh Oh)",
+      "url": "https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM"
     },
     {
       "album": {
@@ -7654,7 +7732,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 154444,
       "name": "muero por ella",
       "url": "https://open.spotify.com/track/40JFndyTeKYIMDHbdwIwVN"
@@ -9217,6 +9295,36 @@
     },
     {
       "album": {
+        "name": "pAL_veranito.mp3",
+        "url": "https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "pongo remix",
+      "url": "https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x"
+    },
+    {
+      "album": {
         "name": "Mis Tributos",
         "url": "https://open.spotify.com/album/30JextuxXVMYWhTDuKQePj"
       },
@@ -9362,7 +9470,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 170204,
       "name": "puede ser que ma\u00f1ana",
       "url": "https://open.spotify.com/track/04JyEAMKSbbaYePxUxl2ko"
@@ -9764,6 +9872,24 @@
       "duration_ms": 210000,
       "name": "Qu\u00e9date a dormir",
       "url": "https://open.spotify.com/track/6DcuRt9RlipUllglXSWuDq"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/6mdMzA1MhhkQK4LwgRHZvU"
+      },
+      "artists": [
+        {
+          "name": "Sam Vazquez",
+          "url": "https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142684,
+      "name": "Qu\u00e9date Conmigo",
+      "url": "https://open.spotify.com/track/0g1sVcIBtO4JHVultHI3RI"
     },
     {
       "album": {
@@ -10412,7 +10538,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 209125,
       "name": "si t\u00fa me llamas",
       "url": "https://open.spotify.com/track/5sZdhdpyHeJiqNi56gqIXA"
@@ -11878,6 +12004,24 @@
       "duration_ms": 180120,
       "name": "Tu Coraz\u00f3n (Your Heart)",
       "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
+    },
+    {
+      "album": {
+        "name": "Tu Falta De Querer",
+        "url": "https://open.spotify.com/album/1LmPvZc8SPVeQRyiOcOdxW"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193684,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/6AKvMFodvPaTWlbLExloiO"
     },
     {
       "album": {

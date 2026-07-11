@@ -1,6 +1,6 @@
 {
   "description": "put it on and let it play. ",
-  "num_followers": 1254007,
+  "num_followers": 1253939,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-07-03 11:51:49",
       "album": {
+        "name": "Talk 2 Me",
+        "url": "https://open.spotify.com/album/61AvsZppCaX3N1mM7xbZHP"
+      },
+      "artists": [
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 186624,
+      "name": "Talk 2 Me",
+      "url": "https://open.spotify.com/track/7wfOwy1NErjzBYRf1HnDPb"
+    },
+    {
+      "added_at": "2026-07-03 11:51:49",
+      "album": {
         "name": "Reputation (feat. Dominic Fike)",
         "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 235705,
       "name": "Reputation (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
-    },
-    {
-      "added_at": "2026-07-03 11:51:49",
-      "album": {
-        "name": "Talk 2 Me",
-        "url": "https://open.spotify.com/album/61AvsZppCaX3N1mM7xbZHP"
-      },
-      "artists": [
-        {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
-        }
-      ],
-      "duration_ms": 186624,
-      "name": "Talk 2 Me",
-      "url": "https://open.spotify.com/track/7wfOwy1NErjzBYRf1HnDPb"
     },
     {
       "added_at": "2026-07-03 11:51:49",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-07-03 11:51:49",
       "album": {
-        "name": "Guitar",
-        "url": "https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 110173,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/5A6xiYvuRA76qdjr5fjjGw"
-    },
-    {
-      "added_at": "2026-07-03 11:51:49",
-      "album": {
         "name": "Manning Fireworks",
         "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 216426,
       "name": "You Don't Know The Shape I'm In",
       "url": "https://open.spotify.com/track/1ZBQPkEYHOv3LfgU6v0h0S"
+    },
+    {
+      "added_at": "2026-07-03 11:51:49",
+      "album": {
+        "name": "Guitar",
+        "url": "https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 110173,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/5A6xiYvuRA76qdjr5fjjGw"
     },
     {
       "added_at": "2026-07-03 11:51:49",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-07-03 11:51:49",
       "album": {
-        "name": "Jean",
-        "url": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 162096,
-      "name": "Yellow Eyes",
-      "url": "https://open.spotify.com/track/4l3MfSQrxCWfUYUyE2sMy6"
-    },
-    {
-      "added_at": "2026-07-03 11:51:49",
-      "album": {
         "name": "Images of Love (with Dominic Fike)",
         "url": "https://open.spotify.com/album/2Fwe7dJvmbzU3m2gJKXn2D"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 209942,
       "name": "Images of Love (with Dominic Fike)",
       "url": "https://open.spotify.com/track/1Vj11Vm95STtBEL7hSB5Sh"
+    },
+    {
+      "added_at": "2026-07-03 11:51:49",
+      "album": {
+        "name": "Jean",
+        "url": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 162096,
+      "name": "Yellow Eyes",
+      "url": "https://open.spotify.com/track/4l3MfSQrxCWfUYUyE2sMy6"
     },
     {
       "added_at": "2026-07-03 11:51:49",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-07-03 11:51:49",
       "album": {
-        "name": "choke enough",
-        "url": "https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt"
-      },
-      "artists": [
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        }
-      ],
-      "duration_ms": 198587,
-      "name": "blade bird",
-      "url": "https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U"
-    },
-    {
-      "added_at": "2026-07-03 11:51:49",
-      "album": {
         "name": "Ali",
         "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
       },
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2026-07-03 11:51:49",
       "album": {
+        "name": "choke enough",
+        "url": "https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 198587,
+      "name": "blade bird",
+      "url": "https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U"
+    },
+    {
+      "added_at": "2026-07-03 11:51:49",
+      "album": {
         "name": "In Russia. A is a 9",
         "url": "https://open.spotify.com/album/2puthl2ughnGeS7jor8GJU"
       },
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-07-03 11:51:49",
       "album": {
-        "name": "Jinx",
-        "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
-      },
-      "artists": [
-        {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
-        }
-      ],
-      "duration_ms": 111986,
-      "name": "Cracking",
-      "url": "https://open.spotify.com/track/3VwgtTh9D0CubY32jdhI5U"
-    },
-    {
-      "added_at": "2026-07-03 11:51:49",
-      "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 215904,
       "name": "Goji",
       "url": "https://open.spotify.com/track/01t6M8ZxGwlqVTdefA2Q4X"
+    },
+    {
+      "added_at": "2026-07-03 11:51:49",
+      "album": {
+        "name": "Jinx",
+        "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "duration_ms": 111986,
+      "name": "Cracking",
+      "url": "https://open.spotify.com/track/3VwgtTh9D0CubY32jdhI5U"
     },
     {
       "added_at": "2026-07-03 11:51:49",

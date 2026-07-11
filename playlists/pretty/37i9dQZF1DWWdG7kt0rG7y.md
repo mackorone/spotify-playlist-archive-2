@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdG7kt0rG7y.md) - [plain]
 
 > One dorm\. Zero boundaries\. Listen to the music from ROOMMATES.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,482 likes - 32 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,519 likes - 32 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

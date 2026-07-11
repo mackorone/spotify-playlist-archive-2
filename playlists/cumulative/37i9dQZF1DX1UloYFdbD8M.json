@@ -1025,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "Athirilla Mohangal",
+        "url": "https://open.spotify.com/album/1WtSLZruzQtSEh5FEMT84g"
+      },
+      "artists": [
+        {
+          "name": "Suroor Musthafa",
+          "url": "https://open.spotify.com/artist/0LhTV2pJFN3cu1FCwabznV"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Athirilla Mohangal",
+      "url": "https://open.spotify.com/track/0wpuRk4VLhHL6KFF4rUJdV"
+    },
+    {
+      "album": {
         "name": "Athiru Kaakkum",
         "url": "https://open.spotify.com/album/4UCDnO9iM4ANbFUG4OV9LW"
       },

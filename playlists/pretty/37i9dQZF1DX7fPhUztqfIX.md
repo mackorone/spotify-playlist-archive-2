@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Cory Asbury
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,748 likes - 100 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,873 likes - 100 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 99 | [The Potter](https://open.spotify.com/track/0jFwTL1CgmPsbmpdsUDFtF) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [The Potter](https://open.spotify.com/album/7mCPY1vDbN8r5N4Nwhgxkt) | 6:14 |
 | 100 | [Stand In Awe \- Live](https://open.spotify.com/track/5LVVufavpKNI6AjvTnU8XR) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr), [Matthew Harris](https://open.spotify.com/artist/24UGiLnPAOZVxfHE3B31MN) | [Yes, We Believe \(Live\)](https://open.spotify.com/album/2ep9ouSatrcBrwtb2XYbl6) | 6:18 |
 
-Snapshot ID: `AAAAAAUh4aggfSsYJOMx4+6gF/zoKsUl`
+Snapshot ID: `AAAAAG+mKQ7sAuBnes9SnWwWBXyb3qZ+`

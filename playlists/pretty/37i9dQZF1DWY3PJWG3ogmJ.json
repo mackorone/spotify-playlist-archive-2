@@ -1,6 +1,6 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 721753,
+  "num_followers": 721795,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "In Darkness",
+        "url": "https://open.spotify.com/album/1OKhPR0IeOTmyM5dqxSpMD"
+      },
+      "artists": [
+        {
+          "name": "Varials",
+          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "In Darkness",
+      "url": "https://open.spotify.com/track/0Y7kbZ3s7AYKGc0N8BJngA"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Elegy",
         "url": "https://open.spotify.com/album/1YwAkYsGTgNMWaayCgxjsb"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 322153,
       "name": "Blood in the Sands of Time",
       "url": "https://open.spotify.com/track/4evo7dv7goRstcgHFhcJMQ"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "In Darkness",
-        "url": "https://open.spotify.com/album/1OKhPR0IeOTmyM5dqxSpMD"
-      },
-      "artists": [
-        {
-          "name": "Varials",
-          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "In Darkness",
-      "url": "https://open.spotify.com/track/0Y7kbZ3s7AYKGc0N8BJngA"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Playing the Victim",
+        "url": "https://open.spotify.com/album/6lpNPXtYqjMq50B8mYwqfe"
+      },
+      "artists": [
+        {
+          "name": "Blood Youth",
+          "url": "https://open.spotify.com/artist/7f6aaGesYhnRPTcI36JGsb"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Playing the Victim",
+      "url": "https://open.spotify.com/track/6RZ8XyeLf77Qiby52iXW8b"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "SUPERN\u00d8VA (feat. Marcus Bischoff of Heaven Shall Burn)",
         "url": "https://open.spotify.com/album/2ZdKo8ZWbTBffLX0iVJ8y9"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 225708,
       "name": "SUPERN\u00d8VA (feat. Marcus Bischoff of Heaven Shall Burn)",
       "url": "https://open.spotify.com/track/1Vbmq7Tp3hRhrhUbDT7AME"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Playing the Victim",
-        "url": "https://open.spotify.com/album/6lpNPXtYqjMq50B8mYwqfe"
-      },
-      "artists": [
-        {
-          "name": "Blood Youth",
-          "url": "https://open.spotify.com/artist/7f6aaGesYhnRPTcI36JGsb"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Playing the Victim",
-      "url": "https://open.spotify.com/track/6RZ8XyeLf77Qiby52iXW8b"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/1dci829PPCM5M3cj7OqU6X"
-      },
-      "artists": [
-        {
-          "name": "Decayer",
-          "url": "https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i"
-        }
-      ],
-      "duration_ms": 249901,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6II9b4hQFTqgtUXR7eYCt9"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 241767,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/1dci829PPCM5M3cj7OqU6X"
+      },
+      "artists": [
+        {
+          "name": "Decayer",
+          "url": "https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i"
+        }
+      ],
+      "duration_ms": 249901,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6II9b4hQFTqgtUXR7eYCt9"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Bad to My World",
-        "url": "https://open.spotify.com/album/5ysQoh4zeljDcOwgFZnNQS"
-      },
-      "artists": [
-        {
-          "name": "Backtrack",
-          "url": "https://open.spotify.com/artist/71N7xIvnaOFGetZL5nhWsl"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "One with You",
-      "url": "https://open.spotify.com/track/2ChqOkTSX0SRqVoiEFvTU9"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Ultimate",
         "url": "https://open.spotify.com/album/1LnDkfF4HHBYhhKsHCeGjO"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 151800,
       "name": "Ultimate",
       "url": "https://open.spotify.com/track/330RnswrHmcXgIgee4ZVOU"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Bad to My World",
+        "url": "https://open.spotify.com/album/5ysQoh4zeljDcOwgFZnNQS"
+      },
+      "artists": [
+        {
+          "name": "Backtrack",
+          "url": "https://open.spotify.com/artist/71N7xIvnaOFGetZL5nhWsl"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "One with You",
+      "url": "https://open.spotify.com/track/2ChqOkTSX0SRqVoiEFvTU9"
     },
     {
       "added_at": "2023-01-18 15:54:17",

@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5ever](https://open.spotify.com/track/0amY9RP8QsTSDzJhOmA0FM) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [5ever](https://open.spotify.com/album/7zEf0n6elijdDpzkTYz4QS) | 4:27 | 2026-01-25 | 2026-02-10 |
-| [BOOM！怪物星人](https://open.spotify.com/track/2G2MLrAIdDHHK99h3bUgQz) | [BOOM！怪物星人](https://open.spotify.com/artist/7pd8OrAGWxfDR2ujHsVEvX) | [BOOM！怪物星人](https://open.spotify.com/album/3qDQ6Do1NbVjPxgNjSAy1M) | 3:54 | 2026-02-09 |  |
+| [BOOM！怪物星人](https://open.spotify.com/track/2G2MLrAIdDHHK99h3bUgQz) | [怪星](https://open.spotify.com/artist/7pd8OrAGWxfDR2ujHsVEvX) | [BOOM！怪物星人](https://open.spotify.com/album/3qDQ6Do1NbVjPxgNjSAy1M) | 3:54 | 2026-02-09 |  |
 | [Cold Dream](https://open.spotify.com/track/1JpCGxRT3yexccFeCcxTE5) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [一天的交界](https://open.spotify.com/album/77K5EwWtG43DxX6bIFyCIN) | 3:54 | 2024-01-23 | 2025-01-11 |
 | [Crash You](https://open.spotify.com/track/38DnLqm6p1dkU1p9tVYBM0) | [沐妍](https://open.spotify.com/artist/5lkCNTlv7uDrYNr6eaLP8h) | [Crash You](https://open.spotify.com/album/6Jy9jSdyJZWS3GeTBV8raX) | 3:16 | 2026-02-09 |  |
 | [Crazy For U](https://open.spotify.com/track/1VkZv2reV1L9a42DuEiFmp) | [鐵夫 Dave](https://open.spotify.com/artist/4qGDbD5rMPAgX2JJlD87nR) | [Crazy For U](https://open.spotify.com/album/2xgOmPC2ztZIRnCnjN4IoR) | 3:51 | 2026-02-09 |  |
@@ -56,7 +56,7 @@
 | [愛你](https://open.spotify.com/track/0n7Ij8XEDfYYFRgBQjNjnf) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [Kimberley首張同名專輯](https://open.spotify.com/album/4SAbPUrnyw72WivjOA3n8i) | 3:27 | 2026-01-25 |  |
 | [愛著 \(戲劇《今夜一起為愛鼓掌》主題曲\)](https://open.spotify.com/track/7jNWVntpWXMzd43yVPkMMT) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [愛著](https://open.spotify.com/album/75GTuLd5GJjphiSbDUgZAp) | 4:07 | 2025-01-10 | 2026-01-26 |
 | [慢慢喜歡你](https://open.spotify.com/track/79LVKCDq5n3N2k6dtWP4gP) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [我們在中場相遇](https://open.spotify.com/album/7Af29PKaPGe1ali29ogX8l) | 3:41 | 2026-01-25 |  |
-| [我不可一世的輕狂 \(戲劇《你好，我是接體員》主題曲\)](https://open.spotify.com/track/2lcRwqj3fKmtZaMDJQI0O4) | [BOOM！怪物星人](https://open.spotify.com/artist/7pd8OrAGWxfDR2ujHsVEvX) | [我不可一世的輕狂](https://open.spotify.com/album/6snS6ANt0FHArEwKuNq7jw) | 4:23 | 2026-02-09 |  |
+| [我不可一世的輕狂 \(戲劇《你好，我是接體員》主題曲\)](https://open.spotify.com/track/2lcRwqj3fKmtZaMDJQI0O4) | [怪星](https://open.spotify.com/artist/7pd8OrAGWxfDR2ujHsVEvX) | [我不可一世的輕狂](https://open.spotify.com/album/6snS6ANt0FHArEwKuNq7jw) | 4:23 | 2026-02-09 |  |
 | [我不能不能喜歡你 \(影集《童話故事下集》插曲\)](https://open.spotify.com/track/7sqA93cjcNDer3y2ThjuLy) | [琳誼 Ring](https://open.spotify.com/artist/4piQadI6uXO5CUcQ3FJuDt) | [我不能不能喜歡你](https://open.spotify.com/album/4NWWpSqA42Y7axqD9Ha5Ed) | 4:30 | 2026-01-25 | 2026-02-10 |
 | [我們 \(《奇蹟》前導片插曲\)](https://open.spotify.com/track/4p9jKHLROoI5z8rUSJD20Y) | [Ray 黃霆睿](https://open.spotify.com/artist/2qRV9YtZuf2FuKWj23cPL4) | [fff](https://open.spotify.com/album/2sctJUp4IwUfCtWNk5BY4L) | 3:49 | 2026-02-09 |  |
 | [我們都擁有海洋 \- 嗶哩嗶哩2023畢業歌](https://open.spotify.com/track/3EvzUlFWEDVnHawK5K0BIp) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [我們都擁有海洋 \(嗶哩嗶哩2023畢業歌\)](https://open.spotify.com/album/0mU8KGXUoFee9S51sEE1ju) | 3:58 | 2024-01-23 | 2025-01-11 |

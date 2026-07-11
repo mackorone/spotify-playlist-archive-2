@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
+      },
+      "artists": [
+        {
+          "name": "Not For Radio",
+          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265606,
+      "name": "Ache",
+      "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
+    },
+    {
+      "album": {
         "name": "Charm",
         "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
       },
@@ -828,7 +846,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 162379,
       "name": "BITCH",
       "url": "https://open.spotify.com/track/53OEjS6e0dH9PGgrkr0sH4"
@@ -1012,6 +1030,24 @@
       "duration_ms": 218293,
       "name": "Break My Heart - Piano Acoustic",
       "url": "https://open.spotify.com/track/7e5HVLu9xSydLebKSqBebM"
+    },
+    {
+      "album": {
+        "name": "Break Up in Reverse",
+        "url": "https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205523,
+      "name": "Break Up in Reverse",
+      "url": "https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6"
     },
     {
       "album": {
@@ -1200,7 +1236,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 183187,
       "name": "care to care (feat. Plumm)",
       "url": "https://open.spotify.com/track/6Y5J8CemxHISRLDJltDGcH"
@@ -1312,7 +1348,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 184839,
       "name": "Coldest Century",
       "url": "https://open.spotify.com/track/4tE6WPgDKliTWybODgsuxl"
@@ -1840,7 +1876,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 176347,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/4VB66fjenkvNRSAEKs5uLi"
@@ -2549,6 +2585,24 @@
     },
     {
       "album": {
+        "name": "God Made Him",
+        "url": "https://open.spotify.com/album/6jaPkauQzuYdbSCWorAJk6"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222825,
+      "name": "God Made Him",
+      "url": "https://open.spotify.com/track/4GkoWb00TaR4QPQB7eoS2X"
+    },
+    {
+      "album": {
         "name": "GOD'S GOT MY BACK",
         "url": "https://open.spotify.com/album/4rot6qlRjv0PZXp2BP5kFM"
       },
@@ -2676,6 +2730,24 @@
       "duration_ms": 156104,
       "name": "Happy To Be Sad",
       "url": "https://open.spotify.com/track/7H1v4mORwHtxbnxQJOa19F"
+    },
+    {
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
       "album": {
@@ -3920,7 +3992,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 169950,
       "name": "Mentos and Coke",
       "url": "https://open.spotify.com/track/1vohIWnkOUnCv60Od198Ma"
@@ -4296,7 +4368,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 184778,
       "name": "Nobody Does It Like You",
       "url": "https://open.spotify.com/track/0TkKfx51dQk1ca2TE17Z3R"
@@ -5356,7 +5428,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 156420,
       "name": "Shawn",
       "url": "https://open.spotify.com/track/2EzckqCnSMivKc45dHh1aQ"
@@ -5428,7 +5500,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 143821,
       "name": "Should Be Us",
       "url": "https://open.spotify.com/track/110vOPCNhnG4Xe1Gmhe32O"
@@ -5888,7 +5960,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 178616,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/2jhEkqJCX7QVfBVlpV4OUq"
@@ -6492,7 +6564,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 193677,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/1urIUOKFTYggmfqAjh2xyz"
@@ -7012,7 +7084,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 184770,
       "name": "Was It A Dream? - Stripped",
       "url": "https://open.spotify.com/track/0EzbHF72gd8J0QJckmMSco"
@@ -7412,7 +7484,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 176652,
       "name": "you were just drunk",
       "url": "https://open.spotify.com/track/4kzYqtjwhtTi8NXv8Wfm4b"

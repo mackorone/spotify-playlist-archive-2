@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Azul de Viena en portada.",
-  "num_followers": 38960,
+  "num_followers": 38974,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-07-03 06:00:12",
       "album": {
-        "name": "Mentiras Arriesgadas",
-        "url": "https://open.spotify.com/album/7CY5pnkyNQT1T5uR2TaF80"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        }
-      ],
-      "duration_ms": 212960,
-      "name": "Mentiras Arriesgadas",
-      "url": "https://open.spotify.com/track/30fg5jzLCAPTrCbBurBA41"
-    },
-    {
-      "added_at": "2026-07-03 06:00:12",
-      "album": {
         "name": "Zero",
         "url": "https://open.spotify.com/album/36qFySoOy3b1rfHDqg5olY"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 272386,
       "name": "Zero (Feat. Zaira Jabnell)",
       "url": "https://open.spotify.com/track/669OFp5ut5nydyepuuS0Eg"
+    },
+    {
+      "added_at": "2026-07-03 06:00:12",
+      "album": {
+        "name": "Mentiras Arriesgadas",
+        "url": "https://open.spotify.com/album/7CY5pnkyNQT1T5uR2TaF80"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        }
+      ],
+      "duration_ms": 212960,
+      "name": "Mentiras Arriesgadas",
+      "url": "https://open.spotify.com/track/30fg5jzLCAPTrCbBurBA41"
     },
     {
       "added_at": "2026-07-03 06:00:12",
@@ -783,26 +783,6 @@
     {
       "added_at": "2026-07-03 06:00:12",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We? (Deluxe / Remastered 2026)",
-        "url": "https://open.spotify.com/album/7ktarJEh4sDBnMvmGeAXuA"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        },
-        {
-          "name": "ANASOF",
-          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
-        }
-      ],
-      "duration_ms": 277557,
-      "name": "Dreams - Spanish Mix (2026)",
-      "url": "https://open.spotify.com/track/05T4MrrXyH4HvBCFieKqKY"
-    },
-    {
-      "added_at": "2026-07-03 06:00:12",
-      "album": {
         "name": "Igual de gris",
         "url": "https://open.spotify.com/album/01ue76B6p752PENdJ6eurO"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 196395,
       "name": "Igual de gris",
       "url": "https://open.spotify.com/track/4cScSwuQMKmvAsJmwQt4E0"
+    },
+    {
+      "added_at": "2026-07-03 06:00:12",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We? (Deluxe / Remastered 2026)",
+        "url": "https://open.spotify.com/album/7ktarJEh4sDBnMvmGeAXuA"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        },
+        {
+          "name": "ANASOF",
+          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
+        }
+      ],
+      "duration_ms": 277557,
+      "name": "Dreams - Spanish Mix (2026)",
+      "url": "https://open.spotify.com/track/05T4MrrXyH4HvBCFieKqKY"
     },
     {
       "added_at": "2026-07-03 06:00:12",
@@ -911,26 +911,6 @@
     {
       "added_at": "2026-07-03 06:00:12",
       "album": {
-        "name": "El Reloj Me Miente",
-        "url": "https://open.spotify.com/album/5OLRpRcnGYLR1u0HFy0DTk"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        },
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 223274,
-      "name": "El Reloj Me Miente",
-      "url": "https://open.spotify.com/track/0OiQup7RDj8XgOe4yHIDpP"
-    },
-    {
-      "added_at": "2026-07-03 06:00:12",
-      "album": {
         "name": "EL PEOR",
         "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
       },
@@ -947,22 +927,22 @@
     {
       "added_at": "2026-07-03 06:00:12",
       "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
+        "name": "El Reloj Me Miente",
+        "url": "https://open.spotify.com/album/5OLRpRcnGYLR1u0HFy0DTk"
       },
       "artists": [
         {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
         },
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
         }
       ],
-      "duration_ms": 217135,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
+      "duration_ms": 223274,
+      "name": "El Reloj Me Miente",
+      "url": "https://open.spotify.com/track/0OiQup7RDj8XgOe4yHIDpP"
     },
     {
       "added_at": "2026-07-03 06:00:12",
@@ -987,6 +967,26 @@
     {
       "added_at": "2026-07-03 06:00:12",
       "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 217135,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
+    },
+    {
+      "added_at": "2026-07-03 06:00:12",
+      "album": {
         "name": "Vidrio por Doquier",
         "url": "https://open.spotify.com/album/1yZpFG972NjuqaR6eAXMrV"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 216666,
       "name": "Vidrio por Doquier",
       "url": "https://open.spotify.com/track/0CgjSAC3uPptcMJgBeYTLm"
-    },
-    {
-      "added_at": "2026-07-03 06:00:12",
-      "album": {
-        "name": "Coraz\u00f3n hinchado",
-        "url": "https://open.spotify.com/album/2wZHlVJw1HAXlPZtnOMHl5"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 179040,
-      "name": "Coraz\u00f3n hinchado",
-      "url": "https://open.spotify.com/track/51hwVUxXajijH8QarFV6Q7"
     },
     {
       "added_at": "2026-07-03 06:00:12",
@@ -1035,6 +1019,22 @@
       "duration_ms": 206633,
       "name": "Perfecto Final",
       "url": "https://open.spotify.com/track/7gX02EZpixtgIuiygeYGtj"
+    },
+    {
+      "added_at": "2026-07-03 06:00:12",
+      "album": {
+        "name": "Coraz\u00f3n hinchado",
+        "url": "https://open.spotify.com/album/2wZHlVJw1HAXlPZtnOMHl5"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "Coraz\u00f3n hinchado",
+      "url": "https://open.spotify.com/track/51hwVUxXajijH8QarFV6Q7"
     },
     {
       "added_at": "2026-07-03 06:00:12",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-07-03 06:00:12",
       "album": {
+        "name": "La vida de Nadie",
+        "url": "https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi"
+      },
+      "artists": [
+        {
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+        }
+      ],
+      "duration_ms": 167943,
+      "name": "Nadie",
+      "url": "https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5"
+    },
+    {
+      "added_at": "2026-07-03 06:00:12",
+      "album": {
         "name": "EN LO TOTAL",
         "url": "https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 180960,
       "name": "MARIPOSA TECKNICOLOR",
       "url": "https://open.spotify.com/track/6ZlQ4IpYvyUzfry3TdbSiA"
-    },
-    {
-      "added_at": "2026-07-03 06:00:12",
-      "album": {
-        "name": "La vida de Nadie",
-        "url": "https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi"
-      },
-      "artists": [
-        {
-          "name": "Besmaya",
-          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
-        }
-      ],
-      "duration_ms": 167943,
-      "name": "Nadie",
-      "url": "https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5"
     },
     {
       "added_at": "2026-07-03 06:00:12",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-07-03 06:00:12",
       "album": {
-        "name": "Los mejores a\u00f1os de nuestra vida",
-        "url": "https://open.spotify.com/album/0vgA7E6cinrPHGrBF9Qbzo"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 257488,
-      "name": "Los mejores a\u00f1os de nuestra vida",
-      "url": "https://open.spotify.com/track/2gefFE6cOjYJ9n4QHUOzan"
-    },
-    {
-      "added_at": "2026-07-03 06:00:12",
-      "album": {
         "name": "Despertar",
         "url": "https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4"
       },
@@ -1215,22 +1199,6 @@
     {
       "added_at": "2026-07-03 06:00:12",
       "album": {
-        "name": "Bruma",
-        "url": "https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Bruma",
-      "url": "https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4"
-    },
-    {
-      "added_at": "2026-07-03 06:00:12",
-      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
       },
@@ -1247,6 +1215,38 @@
     {
       "added_at": "2026-07-03 06:00:12",
       "album": {
+        "name": "Bruma",
+        "url": "https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Bruma",
+      "url": "https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4"
+    },
+    {
+      "added_at": "2026-07-03 06:00:12",
+      "album": {
+        "name": "Los mejores a\u00f1os de nuestra vida",
+        "url": "https://open.spotify.com/album/0vgA7E6cinrPHGrBF9Qbzo"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 257488,
+      "name": "Los mejores a\u00f1os de nuestra vida",
+      "url": "https://open.spotify.com/track/2gefFE6cOjYJ9n4QHUOzan"
+    },
+    {
+      "added_at": "2026-07-03 06:00:12",
+      "album": {
         "name": "ESO Que Nos Trajo a Abbey Road",
         "url": "https://open.spotify.com/album/0avtZa7A9cmR4bNgYJkG2s"
       },
@@ -1259,26 +1259,6 @@
       "duration_ms": 198051,
       "name": "Memoria Muscular - Desde Abbey Road",
       "url": "https://open.spotify.com/track/729ABU6pAHqCuAk8YXeSl0"
-    },
-    {
-      "added_at": "2026-07-03 06:00:12",
-      "album": {
-        "name": "M\u00daSICAM\u00c1GICA",
-        "url": "https://open.spotify.com/album/3cePFmC807BFNNOpkAzMp3"
-      },
-      "artists": [
-        {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 193376,
-      "name": "Vacaciones en el Manicomio",
-      "url": "https://open.spotify.com/track/4sVsmYAwNoA2mAYStKZU6H"
     },
     {
       "added_at": "2026-07-03 06:00:12",
@@ -1315,6 +1295,26 @@
       "duration_ms": 267238,
       "name": "Quiero saber si es amor (feat. Joy)",
       "url": "https://open.spotify.com/track/7eCEgiZZkQXtLtfZWaOBOv"
+    },
+    {
+      "added_at": "2026-07-03 06:00:12",
+      "album": {
+        "name": "M\u00daSICAM\u00c1GICA",
+        "url": "https://open.spotify.com/album/3cePFmC807BFNNOpkAzMp3"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 193376,
+      "name": "Vacaciones en el Manicomio",
+      "url": "https://open.spotify.com/track/4sVsmYAwNoA2mAYStKZU6H"
     },
     {
       "added_at": "2026-07-03 06:00:12",

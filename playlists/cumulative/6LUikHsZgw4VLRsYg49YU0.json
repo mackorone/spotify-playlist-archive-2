@@ -2043,6 +2043,28 @@
     },
     {
       "album": {
+        "name": "Goodbye, Lara (Original Series Soundtrack EP)",
+        "url": "https://open.spotify.com/album/6apQ0e3kiN5pGo7l2TiiLc"
+      },
+      "artists": [
+        {
+          "name": "yuma yamaguchi",
+          "url": "https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8"
+        },
+        {
+          "name": "Tatiana Parra",
+          "url": "https://open.spotify.com/artist/4UPAR5j8CLFlb68v9KFiZV"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188157,
+      "name": "L A R A (feat. Tatiana Parra)",
+      "url": "https://open.spotify.com/track/58W2sab5a1jGUILhcdcb5a"
+    },
+    {
+      "album": {
         "name": "Lalala",
         "url": "https://open.spotify.com/album/4WlC4FXhonJhNTXCQPGP3r"
       },

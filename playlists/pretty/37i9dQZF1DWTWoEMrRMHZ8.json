@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: L\u00f4 Borges",
-  "num_followers": 355251,
+  "num_followers": 355239,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC2Pkqw9eCnKlejYT7Zj6iMtV0Jp",
+  "snapshot_id": "AAAAAMuNJWlbugghcFHecs3b5mIx9x2H",
   "tracks": [
     {
       "added_at": "2026-07-03 13:11:42",
@@ -223,26 +223,6 @@
     {
       "added_at": "2026-07-03 13:11:42",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 276459,
-      "name": "River Man",
-      "url": "https://open.spotify.com/track/2ApJEk0TXkQPNSBqsrAFb9"
-    },
-    {
-      "added_at": "2026-07-03 13:11:42",
-      "album": {
         "name": "Estrela Do Meu Show",
         "url": "https://open.spotify.com/album/4bNxkTxf5UheqNQA4dhoGe"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 246835,
       "name": "Estrela Do Meu Show",
       "url": "https://open.spotify.com/track/7lM0Uq7a0tm29Csb5vSS7D"
+    },
+    {
+      "added_at": "2026-07-03 13:11:42",
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 276459,
+      "name": "River Man",
+      "url": "https://open.spotify.com/track/2ApJEk0TXkQPNSBqsrAFb9"
     },
     {
       "added_at": "2026-07-03 13:11:42",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-07-03 13:11:42",
       "album": {
-        "name": "Vera Cruz",
-        "url": "https://open.spotify.com/album/1A7eEqH0oaRVURujDR5gqj"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Vera Cruz",
-      "url": "https://open.spotify.com/track/7gEyYa53pf56NbDlaUuPnZ"
-    },
-    {
-      "added_at": "2026-07-03 13:11:42",
-      "album": {
         "name": "Eu Venho de Longe",
         "url": "https://open.spotify.com/album/6TXoief9M9RhmIPA3Qt2iG"
       },
@@ -387,6 +371,42 @@
       "duration_ms": 223009,
       "name": "Eu Venho de Longe",
       "url": "https://open.spotify.com/track/0xSEIEoggoRmfS2A6GPQDV"
+    },
+    {
+      "added_at": "2026-07-03 13:11:42",
+      "album": {
+        "name": "Joyce Alane Ao Vivo no SALA",
+        "url": "https://open.spotify.com/album/2uzda75zVsNRfwXi4jAweS"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "duration_ms": 190250,
+      "name": "Bel\u00e9m - Ao Vivo",
+      "url": "https://open.spotify.com/track/6hasWlKd0tNBlGoRFfV3CP"
+    },
+    {
+      "added_at": "2026-07-03 13:11:42",
+      "album": {
+        "name": "Vera Cruz",
+        "url": "https://open.spotify.com/album/1A7eEqH0oaRVURujDR5gqj"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Vera Cruz",
+      "url": "https://open.spotify.com/track/7gEyYa53pf56NbDlaUuPnZ"
     },
     {
       "added_at": "2026-07-03 13:11:42",
@@ -431,26 +451,6 @@
       "duration_ms": 200835,
       "name": "Bossa Sempre Nova",
       "url": "https://open.spotify.com/track/4wwAFZw2eyy63AALgl0rmW"
-    },
-    {
-      "added_at": "2026-07-03 13:11:42",
-      "album": {
-        "name": "Joyce Alane Ao Vivo no SALA",
-        "url": "https://open.spotify.com/album/2uzda75zVsNRfwXi4jAweS"
-      },
-      "artists": [
-        {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        }
-      ],
-      "duration_ms": 190250,
-      "name": "Bel\u00e9m - Ao Vivo",
-      "url": "https://open.spotify.com/track/6hasWlKd0tNBlGoRFfV3CP"
     },
     {
       "added_at": "2026-07-03 13:11:42",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-07-03 13:11:42",
       "album": {
+        "name": "Feira de Mangaio",
+        "url": "https://open.spotify.com/album/4cWi4ErDXvCgd9L4u6asfA"
+      },
+      "artists": [
+        {
+          "name": "Bruna Black",
+          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
+        }
+      ],
+      "duration_ms": 133566,
+      "name": "Feira de Mangaio",
+      "url": "https://open.spotify.com/track/490ktUB68RgDOWmRRzJNyl"
+    },
+    {
+      "added_at": "2026-07-03 13:11:42",
+      "album": {
         "name": "Outras Vezes",
         "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
       },
@@ -651,26 +667,6 @@
       "duration_ms": 213000,
       "name": "Outras Vezes",
       "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
-    },
-    {
-      "added_at": "2026-07-03 13:11:42",
-      "album": {
-        "name": "Sembal",
-        "url": "https://open.spotify.com/album/3jb0i7cPqumhnn9vSJRLiy"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Vicente Barreto",
-          "url": "https://open.spotify.com/artist/5xo48wf1KbbuihtprJtOhb"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "Sembal",
-      "url": "https://open.spotify.com/track/5pJfwJZBwzJDhBP8pKeORU"
     },
     {
       "added_at": "2026-07-03 13:11:42",
@@ -695,22 +691,6 @@
     {
       "added_at": "2026-07-03 13:11:42",
       "album": {
-        "name": "Feira de Mangaio",
-        "url": "https://open.spotify.com/album/4cWi4ErDXvCgd9L4u6asfA"
-      },
-      "artists": [
-        {
-          "name": "Bruna Black",
-          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
-        }
-      ],
-      "duration_ms": 133566,
-      "name": "Feira de Mangaio",
-      "url": "https://open.spotify.com/track/490ktUB68RgDOWmRRzJNyl"
-    },
-    {
-      "added_at": "2026-07-03 13:11:42",
-      "album": {
         "name": "CATATAU",
         "url": "https://open.spotify.com/album/4REOHQ0cGxJ3FVVcE3R0S1"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 138804,
       "name": "janeiro",
       "url": "https://open.spotify.com/track/0yeURxDXfCeHCkecSj8b4H"
+    },
+    {
+      "added_at": "2026-07-03 13:11:42",
+      "album": {
+        "name": "Sembal",
+        "url": "https://open.spotify.com/album/3jb0i7cPqumhnn9vSJRLiy"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Vicente Barreto",
+          "url": "https://open.spotify.com/artist/5xo48wf1KbbuihtprJtOhb"
+        }
+      ],
+      "duration_ms": 212853,
+      "name": "Sembal",
+      "url": "https://open.spotify.com/track/5pJfwJZBwzJDhBP8pKeORU"
     },
     {
       "added_at": "2026-07-03 13:11:42",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-07-03 13:11:42",
       "album": {
-        "name": "Campo Alegre Km 500 Mil",
-        "url": "https://open.spotify.com/album/1NWBPQX5rhytyEJMXkvJFl"
+        "name": "Mariana Nolasco Sessions 3",
+        "url": "https://open.spotify.com/album/6RcwBjOAtnTDHN8DJM0ZNQ"
       },
       "artists": [
         {
-          "name": "L\u00f4 Borges",
-          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
         }
       ],
-      "duration_ms": 227512,
-      "name": "Campo Alegre Km 500 Mil",
-      "url": "https://open.spotify.com/track/4nMGitEcCZQkfNe2XOyEnG"
+      "duration_ms": 149825,
+      "name": "Deus me proteja - Sessions",
+      "url": "https://open.spotify.com/track/67RY6Ze7UDQNiB2klRhxzT"
     },
     {
       "added_at": "2026-07-03 13:11:42",
@@ -851,18 +851,18 @@
     {
       "added_at": "2026-07-03 13:11:42",
       "album": {
-        "name": "Mariana Nolasco Sessions 3",
-        "url": "https://open.spotify.com/album/6RcwBjOAtnTDHN8DJM0ZNQ"
+        "name": "Campo Alegre Km 500 Mil",
+        "url": "https://open.spotify.com/album/1NWBPQX5rhytyEJMXkvJFl"
       },
       "artists": [
         {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+          "name": "L\u00f4 Borges",
+          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
         }
       ],
-      "duration_ms": 149825,
-      "name": "Deus me proteja - Sessions",
-      "url": "https://open.spotify.com/track/67RY6Ze7UDQNiB2klRhxzT"
+      "duration_ms": 227512,
+      "name": "Campo Alegre Km 500 Mil",
+      "url": "https://open.spotify.com/track/4nMGitEcCZQkfNe2XOyEnG"
     },
     {
       "added_at": "2026-07-03 13:11:42",
@@ -879,6 +879,22 @@
       "duration_ms": 207291,
       "name": "sinais",
       "url": "https://open.spotify.com/track/6AwT3gyouzIk988tFFnhG5"
+    },
+    {
+      "added_at": "2026-07-03 13:11:42",
+      "album": {
+        "name": "Sabi\u00e1",
+        "url": "https://open.spotify.com/album/1M3IYBNa9kkS5gEm72y7mD"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "duration_ms": 169595,
+      "name": "Sabi\u00e1",
+      "url": "https://open.spotify.com/track/0idV091z1bxjvxroCMMStq"
     },
     {
       "added_at": "2026-07-03 13:11:42",
@@ -911,22 +927,6 @@
       "duration_ms": 250851,
       "name": "Depois do Breu",
       "url": "https://open.spotify.com/track/1uGsuX9zgJPjRBmMN2u2pZ"
-    },
-    {
-      "added_at": "2026-07-03 13:11:42",
-      "album": {
-        "name": "Sabi\u00e1",
-        "url": "https://open.spotify.com/album/1M3IYBNa9kkS5gEm72y7mD"
-      },
-      "artists": [
-        {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
-        }
-      ],
-      "duration_ms": 169595,
-      "name": "Sabi\u00e1",
-      "url": "https://open.spotify.com/track/0idV091z1bxjvxroCMMStq"
     },
     {
       "added_at": "2026-07-03 13:11:42",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-07-03 13:11:42",
       "album": {
+        "name": "Pensei que fosse o c\u00e9u (Ao vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/2fVaO6cRhhbg9MIqsYGU0o"
+      },
+      "artists": [
+        {
+          "name": "Vander Lee",
+          "url": "https://open.spotify.com/artist/61BsnDVXUUSASD04kvzMs1"
+        }
+      ],
+      "duration_ms": 247847,
+      "name": "Onde Deus possa me ouvir - Ao vivo",
+      "url": "https://open.spotify.com/track/1SRwGa2dBqPeo8tbtMSAyG"
+    },
+    {
+      "added_at": "2026-07-03 13:11:42",
+      "album": {
         "name": "D'Ouro Brilhante",
         "url": "https://open.spotify.com/album/6IOEwWmfVCUPAuYw2miAlv"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 246802,
       "name": "D'Ouro Brilhante",
       "url": "https://open.spotify.com/track/6WKEg8JZFraRFZLX9IukL5"
-    },
-    {
-      "added_at": "2026-07-03 13:11:42",
-      "album": {
-        "name": "Pensei que fosse o c\u00e9u (Ao vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/2fVaO6cRhhbg9MIqsYGU0o"
-      },
-      "artists": [
-        {
-          "name": "Vander Lee",
-          "url": "https://open.spotify.com/artist/61BsnDVXUUSASD04kvzMs1"
-        }
-      ],
-      "duration_ms": 247847,
-      "name": "Onde Deus possa me ouvir - Ao vivo",
-      "url": "https://open.spotify.com/track/1SRwGa2dBqPeo8tbtMSAyG"
     },
     {
       "added_at": "2026-07-03 13:11:42",
@@ -1139,18 +1139,22 @@
     {
       "added_at": "2026-07-03 13:11:42",
       "album": {
-        "name": "Agudo Grave",
-        "url": "https://open.spotify.com/album/1gAuuKvvJk52MwUD5VMcIv"
+        "name": "25 Anos de M\u00fasica",
+        "url": "https://open.spotify.com/album/0VrtUkuZbAvaoL8t6A1NTI"
       },
       "artists": [
         {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+          "name": "Gabriel Sater",
+          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
+        },
+        {
+          "name": "Ivan Lins",
+          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
         }
       ],
-      "duration_ms": 190873,
-      "name": "Agudo Grave",
-      "url": "https://open.spotify.com/track/4TCgBRQyeMEpG7nM7uuk5v"
+      "duration_ms": 220826,
+      "name": "Me Ajuda",
+      "url": "https://open.spotify.com/track/1blOHgDdBpI1BLCqgvZgz0"
     },
     {
       "added_at": "2026-07-03 13:11:42",
@@ -1175,22 +1179,18 @@
     {
       "added_at": "2026-07-03 13:11:42",
       "album": {
-        "name": "25 Anos de M\u00fasica",
-        "url": "https://open.spotify.com/album/0VrtUkuZbAvaoL8t6A1NTI"
+        "name": "Agudo Grave",
+        "url": "https://open.spotify.com/album/1gAuuKvvJk52MwUD5VMcIv"
       },
       "artists": [
         {
-          "name": "Gabriel Sater",
-          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
-        },
-        {
-          "name": "Ivan Lins",
-          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
         }
       ],
-      "duration_ms": 220826,
-      "name": "Me Ajuda",
-      "url": "https://open.spotify.com/track/1blOHgDdBpI1BLCqgvZgz0"
+      "duration_ms": 190873,
+      "name": "Agudo Grave",
+      "url": "https://open.spotify.com/track/4TCgBRQyeMEpG7nM7uuk5v"
     },
     {
       "added_at": "2026-07-03 13:11:42",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-07-03 13:11:42",
       "album": {
-        "name": "Tum Tum Tum",
-        "url": "https://open.spotify.com/album/1ysg4ZrH2ufsLX3VRUUz1Q"
-      },
-      "artists": [
-        {
-          "name": "MOMO.",
-          "url": "https://open.spotify.com/artist/59U0b1U9BXyD2ftlbJUdXM"
-        }
-      ],
-      "duration_ms": 250156,
-      "name": "Tudo Que Se Tem",
-      "url": "https://open.spotify.com/track/56lywF1vwSlCAXXl7BeS5B"
-    },
-    {
-      "added_at": "2026-07-03 13:11:42",
-      "album": {
         "name": "Avi\u00e3o",
         "url": "https://open.spotify.com/album/0VLMPprvToCvNmrUeRlW43"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 191330,
       "name": "Avi\u00e3o",
       "url": "https://open.spotify.com/track/0nEs39xCUywoYfAHxzvCN8"
+    },
+    {
+      "added_at": "2026-07-03 13:11:42",
+      "album": {
+        "name": "Tum Tum Tum",
+        "url": "https://open.spotify.com/album/1ysg4ZrH2ufsLX3VRUUz1Q"
+      },
+      "artists": [
+        {
+          "name": "MOMO.",
+          "url": "https://open.spotify.com/artist/59U0b1U9BXyD2ftlbJUdXM"
+        }
+      ],
+      "duration_ms": 250156,
+      "name": "Tudo Que Se Tem",
+      "url": "https://open.spotify.com/track/56lywF1vwSlCAXXl7BeS5B"
     },
     {
       "added_at": "2026-07-03 13:11:42",
@@ -1347,6 +1347,30 @@
       "duration_ms": 156000,
       "name": "Mandinga",
       "url": "https://open.spotify.com/track/3jEit8uxHNRvDwhHdMSE3H"
+    },
+    {
+      "added_at": "2026-07-03 13:11:42",
+      "album": {
+        "name": "F\u00faria",
+        "url": "https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx"
+      },
+      "artists": [
+        {
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        },
+        {
+          "name": "Coral",
+          "url": "https://open.spotify.com/artist/6SzRzynHLo6kgimRw5k3cs"
+        },
+        {
+          "name": "Fervo Unboxing",
+          "url": "https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia"
+        }
+      ],
+      "duration_ms": 193610,
+      "name": "F\u00faria",
+      "url": "https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN"
     },
     {
       "added_at": "2026-07-03 13:11:42",
@@ -1451,26 +1475,22 @@
     {
       "added_at": "2026-07-03 13:11:42",
       "album": {
-        "name": "F\u00faria",
-        "url": "https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx"
+        "name": "A paz que desejamos",
+        "url": "https://open.spotify.com/album/4UtfTgEX52zOjNyWmwb6Sl"
       },
       "artists": [
         {
-          "name": "Mari Merenda",
-          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+          "name": "Renato Motha",
+          "url": "https://open.spotify.com/artist/3XzRAIlxYeAvE2ZlgpRpU9"
         },
         {
-          "name": "Coral",
-          "url": "https://open.spotify.com/artist/6SzRzynHLo6kgimRw5k3cs"
-        },
-        {
-          "name": "Fervo Unboxing",
-          "url": "https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia"
+          "name": "Patricia Lobato",
+          "url": "https://open.spotify.com/artist/201VD33gwv7T7BN7Td9jfb"
         }
       ],
-      "duration_ms": 193610,
-      "name": "F\u00faria",
-      "url": "https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN"
+      "duration_ms": 191232,
+      "name": "A paz que desejamos",
+      "url": "https://open.spotify.com/track/5e7ztWak213GequwvCnK0l"
     },
     {
       "added_at": "2026-07-03 13:11:42",
@@ -1511,26 +1531,6 @@
       "duration_ms": 206760,
       "name": "A Beleza De Ser",
       "url": "https://open.spotify.com/track/77KUT4cGoNZZwatCZii61P"
-    },
-    {
-      "added_at": "2026-07-03 13:11:42",
-      "album": {
-        "name": "A paz que desejamos",
-        "url": "https://open.spotify.com/album/4UtfTgEX52zOjNyWmwb6Sl"
-      },
-      "artists": [
-        {
-          "name": "Renato Motha",
-          "url": "https://open.spotify.com/artist/3XzRAIlxYeAvE2ZlgpRpU9"
-        },
-        {
-          "name": "Patricia Lobato",
-          "url": "https://open.spotify.com/artist/201VD33gwv7T7BN7Td9jfb"
-        }
-      ],
-      "duration_ms": 191232,
-      "name": "A paz que desejamos",
-      "url": "https://open.spotify.com/track/5e7ztWak213GequwvCnK0l"
     },
     {
       "added_at": "2026-07-03 13:11:42",

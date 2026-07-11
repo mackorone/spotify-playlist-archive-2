@@ -2,9 +2,9 @@
 
 ### [Ny Pop \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX8hNBsFKBtPu)
 
-> We got you! Den bedste nye pop er samlet her 💖 SIENNA SPIRO
+> We got you! Den bedste nye pop er samlet her 💖 URO
 
-940 songs - 1 day 23 hr 56 min
+945 songs - 2 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Bottle Up This Feeling](https://open.spotify.com/track/7pw1Ujw5bjKTbUDD78NkpO) | [SKAYA](https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC) | [Bottle Up This Feeling](https://open.spotify.com/album/5mwtSY7y89IMj7GucE6wvv) | 3:01 | 2025-07-31 | 2025-09-19 |
 | [BOY](https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [BOY](https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi) | 2:31 | 2024-09-05 | 2024-10-04 |
 | [Boys](https://open.spotify.com/track/2hOAuuGXwJmX8BDhNGQhQ5) | [Kleo](https://open.spotify.com/artist/3UvjfeWjJTe7E88iz1dWbc) | [Boys](https://open.spotify.com/album/11zvtab70uikoScqVkOgZz) | 2:45 | 2025-09-11 | 2025-10-03 |
+| [Break Up in Reverse](https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Break Up in Reverse](https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg) | 3:25 | 2026-07-10 |  |
 | [Breaking Hearts](https://open.spotify.com/track/0bd28vKHk7HDgdOF0gYowj) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Breaking Hearts](https://open.spotify.com/album/051gZSH5RHDuhX8VTzP2pW) | 3:26 | 2025-02-27 | 2025-04-18 |
 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:36 | 2026-04-30 | 2026-06-12 |
 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 | 2025-02-13 | 2025-06-27 |
@@ -233,6 +234,7 @@
 | [En Mildest Talt Elendig Samtale](https://open.spotify.com/track/7fGN0JEQtntcln3LdnjXoe) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz), [Chris Burton](https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo) | [En Mildest Talt Elendig Samtale](https://open.spotify.com/album/49j3gmWxLB6AlHJtqsixOf) | 2:53 | 2026-05-21 |  |
 | [En Sammen](https://open.spotify.com/track/0rmjpEVY7Ay6oC2pXykuPW) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [En Sammen](https://open.spotify.com/album/18i88ZCgHuTLE98m68gFSV) | 2:45 | 2024-08-29 | 2025-01-17 |
 | [En Som Dig](https://open.spotify.com/track/2D70stXApX10H7JKusia0x) | [BUKURU](https://open.spotify.com/artist/3ihqaAb6mlqx7JYCgo8mSN) | [En Som Dig](https://open.spotify.com/album/1CDNj8AV1BFoZsiOdEnNXf) | 3:12 | 2025-07-10 | 2025-08-22 |
+| [En Som Dig \(feat\. Blæst, ADAAM & Back To Back\)](https://open.spotify.com/track/2zRpuPGERrbAfRXqjCAKix) | [Rune Rask](https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0), [Hampenberg](https://open.spotify.com/artist/7ssfFZ8qtx1YbG1XxYoTzY), [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Back To Back](https://open.spotify.com/artist/5EljmLww3poYYENLJK0wRO) | [En Som Dig \(feat\. Blæst, ADAAM & Back To Back\)](https://open.spotify.com/album/0egJx0r3KVGFeckHPcMHDs) | 2:45 | 2026-07-10 |  |
 | [En Stor Lykkelig Familie](https://open.spotify.com/track/4djG0CzBPUSugXvokqz3mr) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [En Stor Lykkelig Familie](https://open.spotify.com/album/2EwuPoBKkcHDwIx6xTH4Vh) | 3:15 | 2026-02-26 |  |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-03 | 2025-07-11 |
 | [Er Det For Sent](https://open.spotify.com/track/0andi7C0152CbwLOsV0zxA) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Allerhelst Vil Vi Elskes](https://open.spotify.com/album/0PvtxoHkUFd9SjApTQUVcP) | 2:50 | 2024-06-27 | 2024-07-30 |
@@ -255,6 +257,7 @@
 | [Falling Behind](https://open.spotify.com/track/2PjPwiqoTs8RREFzR9e9Jz) | [Betty Bass](https://open.spotify.com/artist/0TwII45Qeh2MAqMjEIoQ8b) | [Falling Behind](https://open.spotify.com/album/0FIHlq0Hn44YivHaUJCBPH) | 3:14 | 2025-10-23 | 2026-01-15 |
 | [fancy](https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [fancy / xvideos](https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge) | 2:05 | 2024-12-19 | 2025-01-17 |
 | [FANTASIZE](https://open.spotify.com/track/4V7xLY4YaJsxk2L0FKu0zg) | [Ericka Jane](https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL) | [FANTASIZE](https://open.spotify.com/album/0FPgUBumD3wTcUEWKYAZmW) | 2:56 | 2025-04-03 | 2025-04-25 |
+| [FARLIGT](https://open.spotify.com/track/4TEYRDBEb8KPbgPOyEs5Dr) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [VÆRD AT ELSKE](https://open.spotify.com/album/3MhhbQdxCE9CiHRlcOV19O) | 2:24 | 2026-07-10 |  |
 | [Fartblind](https://open.spotify.com/track/5ap2LagBiIXYkxuROXgv9q) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Fartblind](https://open.spotify.com/album/7EoVkxuxuEOqh483a52H8f) | 3:38 | 2024-06-27 | 2025-03-28 |
 | [Favela](https://open.spotify.com/track/2sFJkBZ6RKHp6qeiCyRHIa) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Favela](https://open.spotify.com/album/1gLQEOLpUth8DBXKLXJ8sf) | 2:46 | 2025-03-06 | 2025-04-11 |
 | [Febersol](https://open.spotify.com/track/1KLnxLylhJfMvYyjkwCJYN) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Febersol](https://open.spotify.com/album/5dQFIWm2ASKAPHhLyauEX7) | 3:00 | 2025-05-01 | 2025-05-23 |
@@ -324,6 +327,7 @@
 | [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 | 2025-07-10 | 2025-09-12 |
 | [Gjort Hvad Jeg Kan](https://open.spotify.com/track/7nKXclXnCjbZiXv2yo8twY) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Gjort Hvad Jeg Kan](https://open.spotify.com/album/2RfVIgXe5IJNwh4yVlym7k) | 3:23 | 2025-10-09 |  |
 | [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 | 2026-02-26 |  |
+| [Go Wild](https://open.spotify.com/track/7neEbVYXg6S55GZXfNUeis) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Go Wild](https://open.spotify.com/album/6KwafSxK1XJwonGnLbNrTj) | 3:26 | 2026-07-10 |  |
 | [god dag](https://open.spotify.com/track/2AfkO7eCM0UvVAXpVQWNBi) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [god dag](https://open.spotify.com/album/1ZFQUiw6YJvasou0MrkJck) | 3:04 | 2024-06-27 | 2024-10-04 |
 | [Gode Dage Venter](https://open.spotify.com/track/6qRcNR61C16q4sSplRwe24) | [Malte August](https://open.spotify.com/artist/0jXOczqKCZPeNfF0vtEvm6) | [Gode Dage Venter](https://open.spotify.com/album/331nvnmllDG5iYUsEvbsS6) | 3:25 | 2025-10-23 | 2025-11-14 |
 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 | 2025-05-22 | 2025-11-14 |
@@ -570,6 +574,7 @@
 | [Mig Og Min Veninde](https://open.spotify.com/track/03WDn7FfygjcXVzPNrZHlt) | [Astrid Schick](https://open.spotify.com/artist/63MG9SvV2U3MTBcus237QI) | [Mig Og Min Veninde](https://open.spotify.com/album/1I5mvadv2kjJeoodBPHHg1) | 2:52 | 2024-11-21 | 2025-01-24 |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-06-27 | 2024-08-30 |
 | [Min Bror](https://open.spotify.com/track/50XScTYQGylJMD55jXpjgJ) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Min Bror](https://open.spotify.com/album/4SwKgXPEaCTUF1eHHDF91h) | 2:54 | 2024-10-10 | 2025-04-25 |
+| [Min Bror \- akustisk version](https://open.spotify.com/track/30oeyNYJy9R06U1tMFhXJ0) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Min Bror \(akustisk version\)](https://open.spotify.com/album/5BfIY9d4v2DfSv1ZPI7PzM) | 3:02 | 2026-07-10 |  |
 | [Min Ven](https://open.spotify.com/track/0xsFwrEpSw4D6NzSCP0D6U) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Min Ven](https://open.spotify.com/album/5qX1iW4bIxYjb9bwhcv3xe) | 3:15 | 2024-08-22 | 2025-04-25 |
 | [Min ven](https://open.spotify.com/track/72zmawn1ucrxKotv031bpr) | [Rosa](https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM) | [Lige Her, Lige Nu](https://open.spotify.com/album/2gA3mRQDu4jyVVqrgcVd7W) | 2:59 | 2026-04-16 |  |
 | [Min Verden](https://open.spotify.com/track/11rDQfvESLURcnXM4ll3TQ) | [NOAH](https://open.spotify.com/artist/1M0dufGcezQSWNroSSQcK5) | [Min Verden](https://open.spotify.com/album/12F48SvxNeXfAq7RDiZIBP) | 3:09 | 2025-09-18 |  |

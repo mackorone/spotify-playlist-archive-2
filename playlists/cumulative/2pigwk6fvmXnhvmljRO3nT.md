@@ -4,7 +4,7 @@
 
 > 
 
-8,710 songs - 22 day 4 hr 22 min
+8,711 songs - 22 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7905,6 +7905,7 @@
 | [ミルククラウン・オン・ソーネチカ](https://open.spotify.com/track/26lpuW0yseY1vKZTTLiT4o) | [日野森雫](https://open.spotify.com/artist/5N00QVyIS7NWkuQWEfJmKQ) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム MORE MORE JUMP！](https://open.spotify.com/album/3AAX5Rt3xYCnOEvQiIdJgi) | 3:36 | 2025-10-03 |  |
 | [ミルククラウン・オン・ソーネチカ](https://open.spotify.com/track/1N4f4H5nXJUgc4qmpELvvf) | [花里みのり](https://open.spotify.com/artist/0PNaamnT0FCz53QxNeDQVo) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム MORE MORE JUMP！](https://open.spotify.com/album/3AAX5Rt3xYCnOEvQiIdJgi) | 3:36 | 2025-10-05 |  |
 | [ムード・ロマンティカNo2](https://open.spotify.com/track/2fsUmzxehyV8M0zXoxcBbE) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [残光](https://open.spotify.com/album/6yXvLJMTXfEiZVpk6o3No2) | 4:27 | 2025-01-03 |  |
+| [メジロ讃歌](https://open.spotify.com/track/5LrciDXFMw3nH79w32NDIE) | [メジロマックイーン \(CV\. 大西沙織\)](https://open.spotify.com/artist/2l6FCoCzlD0uQgtSkXBZi2), [メジロライアン \(CV\. 土師亜文\)](https://open.spotify.com/artist/1OQUYszJKFHB1F9KzqWBBz), [メジロドーベル \(CV\. 久保田ひかり\)](https://open.spotify.com/artist/24noUo4DlVnbOHdAOg7eXc), [メジロパーマー \(CV\. のぐちゆり\)](https://open.spotify.com/artist/0kgyKBVMw61tab5SiTXUMY), [メジロアルダン \(CV\. 会沢紗弥\)](https://open.spotify.com/artist/4SVqi1dsrUfUBfanBcF1rd), [メジロブライト \(CV\. 大西綺華\)](https://open.spotify.com/artist/5jaEbbJbDumYz5sgQrk2WE) | [『ウマ娘 プリティーダービー』WINNING LIVE 07](https://open.spotify.com/album/7kcDsGpTrUIxUQBb43T9X6) | 2:01 | 2026-07-10 |  |
 | [メランコリック \(feat\. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン\)](https://open.spotify.com/track/1v9RaAaopToqfuXqXltdf4) | [MORE MORE JUMP!](https://open.spotify.com/artist/1yorjq7rihYVC8Se7eRKps) | [MORE MORE JUMP！ SEKAI ALBUM vol.3](https://open.spotify.com/album/4NuYzGoA9Bi40OUvdbNCUO) | 3:39 | 2025-12-27 |  |
 | [メランコリー](https://open.spotify.com/track/0RJKHViNh3oKK2EymwNwEL) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [SODA POP FANCLUB 1](https://open.spotify.com/album/7FeXuK7EKkslhOAurjnWsm) | 4:03 | 2025-05-13 |  |
 | [ヤングアダルト](https://open.spotify.com/track/3IanNVIcOMlKFr329uhNcA) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 4:18 | 2025-01-04 |  |

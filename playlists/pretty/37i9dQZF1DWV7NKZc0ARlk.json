@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 265916,
+  "num_followers": 265938,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
+        "name": "Arde El Cielo",
+        "url": "https://open.spotify.com/album/2yvMWRuWOjzY1OhZfJfC96"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 271106,
+      "name": "Mariposa Traicionera - En Vivo",
+      "url": "https://open.spotify.com/track/44lkeFeeuCevvpIeFlVIsu"
+    },
+    {
+      "added_at": "2026-03-06 03:00:23",
+      "album": {
         "name": "Franco De Vita En Primera Fila",
         "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 255000,
       "name": "Si La Ves (feat. Noel Schajris & Leonel Garc\u00eda)",
       "url": "https://open.spotify.com/track/2HBo8LhUxBJBsxWaP6ePL3"
-    },
-    {
-      "added_at": "2026-03-06 03:00:23",
-      "album": {
-        "name": "Arde El Cielo",
-        "url": "https://open.spotify.com/album/2yvMWRuWOjzY1OhZfJfC96"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 271106,
-      "name": "Mariposa Traicionera - En Vivo",
-      "url": "https://open.spotify.com/track/44lkeFeeuCevvpIeFlVIsu"
     },
     {
       "added_at": "2026-03-06 03:00:23",

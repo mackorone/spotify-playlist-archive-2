@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4p5WgeiPSPpqPDs7T6OkWf">ANOTR</a>'s favorite tracks\. Curated by ANOTR\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-279 songs - 1 day 0 hr 22 min
+280 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Shoot from the Heart](https://open.spotify.com/track/2tuiGLoE9ZNqAamqylsafY) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Ritmo](https://open.spotify.com/album/0xwLWmM77s0319HTS6HJ4T) | 4:26 | 2025-01-13 | 2026-03-06 |
 | [Shopping Cart](https://open.spotify.com/track/57xHPifnfguNFDig9kHZOq) | [Parallel Dance Ensemble](https://open.spotify.com/artist/7bi3KdGErnScN1PrviZI71) | [Possessions And Obsessions](https://open.spotify.com/album/0Ehvg0k08rB3rpquQks9Vw) | 4:05 | 2024-05-14 | 2025-01-14 |
 | [Show Me the Right](https://open.spotify.com/track/7iaTCBWqabZxPhb1HgndsN) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Show Me the Right](https://open.spotify.com/album/07I5dQ0SaT2zr9p3PY3YDh) | 3:24 | 2025-01-13 |  |
+| [Silver Lines \(feat\. Emily Warren\)](https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Silver Lines \(feat\. Emily Warren\)](https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1) | 3:21 | 2026-07-10 |  |
 | [Sixth Sense \- Louie Vega Remix](https://open.spotify.com/track/4kmA5nPprnfthIlL4JpxdL) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H), [Ursula Rucker](https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj), [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg) | [Sixth Sense \(Remixes\)](https://open.spotify.com/album/7hFfh44vxo0bbJDpcot19a) | 6:36 | 2023-12-27 | 2025-01-14 |
 | [Smells Like You](https://open.spotify.com/track/3knO1ek0smFqqsQNR5HaU6) | [Origāmi](https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0), [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Smells Like You](https://open.spotify.com/album/1uVLTR5cjjBE8eeRmXHoMM) | 4:29 | 2025-01-13 | 2026-03-06 |
 | [Soft Spot \- Original Mix](https://open.spotify.com/track/0fajIsMV4r4iwfEcjmXmi1) | [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [The Music In Me](https://open.spotify.com/album/3XpbyaMhf2ApRfW5fje9mm) | 4:36 | 2023-12-27 | 2024-03-23 |

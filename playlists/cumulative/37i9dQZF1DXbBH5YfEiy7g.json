@@ -675,6 +675,28 @@
     },
     {
       "album": {
+        "name": "Ivangeli",
+        "url": "https://open.spotify.com/album/5I1BCKaeMEcnZ284Gcpo9Z"
+      },
+      "artists": [
+        {
+          "name": "Spirit of Praise Choir",
+          "url": "https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG"
+        },
+        {
+          "name": "Thami Mthabela",
+          "url": "https://open.spotify.com/artist/3vykH9neFCy7n3NpfgzWbi"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324047,
+      "name": "Ebukhoneni",
+      "url": "https://open.spotify.com/track/5l0Vfkkk9TC375DG7WCSjR"
+    },
+    {
+      "album": {
         "name": "eJordan",
         "url": "https://open.spotify.com/album/22kQ8BQShrU9NhhJnwZ65b"
       },
@@ -3706,24 +3728,6 @@
       "duration_ms": 346331,
       "name": "Thulungakhali",
       "url": "https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M"
-    },
-    {
-      "album": {
-        "name": "Ivangeli",
-        "url": "https://open.spotify.com/album/5I1BCKaeMEcnZ284Gcpo9Z"
-      },
-      "artists": [
-        {
-          "name": "Spirit of Praise Choir",
-          "url": "https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG"
-        }
-      ],
-      "date_added": "2026-07-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/5l0Vfkkk9TC375DG7WCSjR"
     },
     {
       "album": {

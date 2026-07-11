@@ -1,33 +1,13 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49196,
+  "num_followers": 49194,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak2TAAAAAAD1zvHE0J0Sm3Usm6Ksy01G",
+  "snapshot_id": "ak7kgAAAAABv25mLFCR060yOYmcym/7Z",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "girls like girls the album",
-        "url": "https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 232934,
-      "name": "die 4 u",
-      "url": "https://open.spotify.com/track/6m23hIW0TYTnSdHJOHoZnl"
-    },
     {
       "added_at": null,
       "album": {
@@ -76,13 +56,13 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         },
         {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 219389,
-      "name": "nobody should have you",
-      "url": "https://open.spotify.com/track/2fExLqkaKlK5Warz67vbtV"
+      "duration_ms": 232934,
+      "name": "die 4 u",
+      "url": "https://open.spotify.com/track/6m23hIW0TYTnSdHJOHoZnl"
     },
     {
       "added_at": null,
@@ -152,13 +132,13 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         },
         {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
         }
       ],
-      "duration_ms": 181153,
-      "name": "postcard",
-      "url": "https://open.spotify.com/track/1NuOwB56vkR1rKZlaGrPrH"
+      "duration_ms": 219389,
+      "name": "nobody should have you",
+      "url": "https://open.spotify.com/track/2fExLqkaKlK5Warz67vbtV"
     },
     {
       "added_at": null,
@@ -224,13 +204,13 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         },
         {
-          "name": "August Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
         }
       ],
-      "duration_ms": 195162,
-      "name": "periwinkle princess",
-      "url": "https://open.spotify.com/track/4c29AxRp16Q5vdDPSNrdcB"
+      "duration_ms": 181153,
+      "name": "postcard",
+      "url": "https://open.spotify.com/track/1NuOwB56vkR1rKZlaGrPrH"
     },
     {
       "added_at": null,
@@ -290,11 +270,15 @@
         {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
         }
       ],
-      "duration_ms": 167034,
-      "name": "choker",
-      "url": "https://open.spotify.com/track/7v7kKPOcnvwHTRKmwzLN5g"
+      "duration_ms": 195162,
+      "name": "periwinkle princess",
+      "url": "https://open.spotify.com/track/4c29AxRp16Q5vdDPSNrdcB"
     },
     {
       "added_at": null,
@@ -354,15 +338,11 @@
         {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 225261,
-      "name": "trophy",
-      "url": "https://open.spotify.com/track/0d0YDO6Y5Aff71fHvAN0oX"
+      "duration_ms": 167034,
+      "name": "choker",
+      "url": "https://open.spotify.com/track/7v7kKPOcnvwHTRKmwzLN5g"
     },
     {
       "added_at": null,
@@ -426,11 +406,15 @@
         {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 174266,
-      "name": "falling through (from the motion picture)",
-      "url": "https://open.spotify.com/track/2KBe1zbcZKgj9upAk7eXef"
+      "duration_ms": 225261,
+      "name": "trophy",
+      "url": "https://open.spotify.com/track/0d0YDO6Y5Aff71fHvAN0oX"
     },
     {
       "added_at": null,

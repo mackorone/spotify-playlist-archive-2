@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-534 songs - 1 day 6 hr 17 min
+536 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [L'ultimo Etero Del Mondo](https://open.spotify.com/track/0PnJzlsh1tKHDgd5pQw8pC) | [Costa Calcinara](https://open.spotify.com/artist/7rCyfyNrDTZyh5Zfnq3oM1) | [L'ultimo Etero Del Mondo](https://open.spotify.com/album/2mIOljo5sT5gwmHmbsjMvQ) | 3:18 | 2026-05-19 | 2026-06-14 |
 | [L'été](https://open.spotify.com/track/1QCUwsbi0gzZjZWbBTfvNS) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [L'été](https://open.spotify.com/album/2Sc22SbioaEC7xBfK94JUc) | 3:58 | 2026-02-08 | 2026-03-03 |
 | [LA CORREA](https://open.spotify.com/track/6crvVYcGro1Ewukvm98AL0) | [Hugo Serrano](https://open.spotify.com/artist/2CdZKr2ePuktdkB8BZwrWj) | [HALLOWEEN](https://open.spotify.com/album/2q0gSWqA5rgVqAnXVTTAwj) | 2:18 | 2025-11-01 | 2025-12-01 |
+| [La valiente](https://open.spotify.com/track/7hojzEYFzsIFNcsoD8ElWD) | [Alicia Castillo](https://open.spotify.com/artist/75DS5VXEOn1wHK8Y5PdTBM) | [Silencio y vértigo](https://open.spotify.com/album/4Q8VjxMQTSGXQ8UCEw2zHz) | 3:02 | 2026-07-10 |  |
 | [Last Goodbye](https://open.spotify.com/track/5SdEoelq5gFFHzpxGeqi1W) | [Softcase](https://open.spotify.com/artist/2nqXZfwOxBVcKjVa7pYdC8) | [Last Goodbye](https://open.spotify.com/album/52T9LF5wyA24Vz0qI7C5SE) | 3:17 | 2026-02-28 | 2026-05-26 |
 | [Last Time Dancing](https://open.spotify.com/track/3XtY6BIFUKabU0CIrntHNe) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Last Time Dancing](https://open.spotify.com/album/2TPQDIZSmD7ZD1dxACv9u2) | 2:15 | 2025-11-08 | 2025-12-01 |
 | [Late Nites](https://open.spotify.com/track/75gsaxmN1p8wLimz3iKmRa) | [Gmile](https://open.spotify.com/artist/2tt6NEFNep08zMwtrzxNaF) | [Late Nites](https://open.spotify.com/album/5XwHLVp7dZCxO0b8W2as0k) | 2:52 | 2025-11-17 | 2026-01-05 |
@@ -538,6 +539,7 @@
 | [young frankenstein](https://open.spotify.com/track/35r1UEv4bYbwxHT7MqoPX8) | [open](https://open.spotify.com/artist/0BGu5l3ttSeSQq7yhqBTjB) | [young frankenstein](https://open.spotify.com/album/3HUqK5fRKaBOMUJGJFYPrf) | 2:59 | 2025-12-04 | 2026-01-05 |
 | [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 | 2026-02-07 | 2026-03-03 |
 | [Ziggy Is a Alien](https://open.spotify.com/track/54MGPMwVgY22hEZ8IPZm9j) | [Vinto Van Go](https://open.spotify.com/artist/0uUd4TGlqun8VeyQ8fIMwA) | [Ziggy Is a Alien](https://open.spotify.com/album/63jS1IYn1RtilOe8kcgK1Q) | 3:43 | 2026-03-22 | 2026-05-26 |
+| [Вредные привычки](https://open.spotify.com/track/6IVb14z4hVAg6ZXys0OvYE) | [AVISHA](https://open.spotify.com/artist/4UjgtBaKmWqr2hTnSZRvS5) | [Вредные привычки](https://open.spotify.com/album/4PZGbvYySz3OiyC5fH8ukp) | 2:23 | 2026-07-10 |  |
 | [Дилеми](https://open.spotify.com/track/0S65e6R28vFpOoZTGTlubn) | [Gosh](https://open.spotify.com/artist/4TVuWA1a4rWfnUM6UxKfE0) | [Дилеми](https://open.spotify.com/album/0S2yXqK0zKkR2MfO31L8Hk) | 2:16 | 2025-11-22 | 2026-01-05 |
 | [Женщина](https://open.spotify.com/track/6nMGOXJqekVgIfJWUjyMQt) | [Эрик Шарипов](https://open.spotify.com/artist/4wZEqo5Khk8Dmam8PLe5xq) | [Женщина](https://open.spotify.com/album/1EauWCGwFOiE58e8Gq6Efp) | 3:04 | 2025-11-11 | 2025-12-01 |
 | [Стихи усыпаны золой](https://open.spotify.com/track/5lKLESXe57MOnrruGp509e) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Стихи усыпаны золой](https://open.spotify.com/album/5R6LA8nzq4jZsMsWAK53TG) | 2:37 | 2026-01-18 | 2026-02-21 |

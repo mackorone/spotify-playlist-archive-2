@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,395 songs - 5 day 8 hr 33 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,396 songs - 5 day 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2403,5 +2403,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2393 | [Dealer](https://open.spotify.com/track/3FRIOB6cFdB6M1fREjXUAG) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [Old Skool Masters \- S3RL](https://open.spotify.com/album/4DG2AOiKIXzl41ySz4KAsB) | 4:45 |
 | 2394 | [L.U.C.K.Y](https://open.spotify.com/track/1KoTSKG0vs2vbzMvrbpWjp) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:18 |
 | 2395 | [FILLE](https://open.spotify.com/track/3rqyWkpY4Qx3HVsryAOcFu) | [Cannelle](https://open.spotify.com/artist/0wBhtCF5VHSgXPGm7xfDtg) | [FILLE](https://open.spotify.com/album/1reg9VJhlIsm3n9ZthHW2Q) | 2:08 |
+| 2396 | [Crushed](https://open.spotify.com/track/0vnh0D3xtxMMuG0VO8kr2p) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Hazyville](https://open.spotify.com/album/4kMTX5zW78Oj7c60qKzQaA) | 3:15 |
 
-Snapshot ID: `AAAFYlIQDHufwkOUB4v7rF8Z3glskbsX`
+Snapshot ID: `AAAFY9wqj55L9kWCJgP0zAi6CRBchKIN`

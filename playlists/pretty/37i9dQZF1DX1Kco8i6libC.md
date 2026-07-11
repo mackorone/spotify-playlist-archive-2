@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Kco8i6libC.md) - [plain]
 | 22 | [Crazy For U](https://open.spotify.com/track/1VkZv2reV1L9a42DuEiFmp) | [鐵夫 Dave](https://open.spotify.com/artist/4qGDbD5rMPAgX2JJlD87nR) | [Crazy For U](https://open.spotify.com/album/2xgOmPC2ztZIRnCnjN4IoR) | 3:51 |
 | 23 | [陪你](https://open.spotify.com/track/0uqh5RBdskPVNyVHPQAkPk) | [沐妍](https://open.spotify.com/artist/5lkCNTlv7uDrYNr6eaLP8h) | [陪你](https://open.spotify.com/album/41CU7s48WaC1zAkr5PrkR3) | 3:50 |
 | 24 | [Show Some Love](https://open.spotify.com/track/0zKdkWy7dq1EqXrovX13fq) | [Justin吴宗翰](https://open.spotify.com/artist/0pFM2LKw2VX8KrZBACOgZj) | [Show Some Love](https://open.spotify.com/album/4lVducdXCH3afP4FAjEgYb) | 4:02 |
-| 25 | [我不可一世的輕狂 \(戲劇《你好，我是接體員》主題曲\)](https://open.spotify.com/track/2lcRwqj3fKmtZaMDJQI0O4) | [BOOM！怪物星人](https://open.spotify.com/artist/7pd8OrAGWxfDR2ujHsVEvX) | [我不可一世的輕狂](https://open.spotify.com/album/6snS6ANt0FHArEwKuNq7jw) | 4:23 |
+| 25 | [我不可一世的輕狂 \(戲劇《你好，我是接體員》主題曲\)](https://open.spotify.com/track/2lcRwqj3fKmtZaMDJQI0O4) | [怪星](https://open.spotify.com/artist/7pd8OrAGWxfDR2ujHsVEvX) | [我不可一世的輕狂](https://open.spotify.com/album/6snS6ANt0FHArEwKuNq7jw) | 4:23 |
 | 26 | [答案是你 \(戲劇《靈魂約定》主題曲\)](https://open.spotify.com/track/4JzSTAQH9SlSAYaTXv9xfB) | [Ray 黃霆睿](https://open.spotify.com/artist/2qRV9YtZuf2FuKWj23cPL4) | [答案是你](https://open.spotify.com/album/3nxIxsZVH1LsUVLknPkKN0) | 2:41 |
 | 27 | [當你](https://open.spotify.com/track/2EZsFzgESMhRzGMLZHX72G) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [Begin](https://open.spotify.com/album/6zTY7YiEQ7KkGOO0wzSq3F) | 3:23 |
 | 28 | [有些](https://open.spotify.com/track/4bDJJr7yG31MApWuvEasAo) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/4BHheCy06jeyqTEmc2QlX9) | 3:49 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Kco8i6libC.md) - [plain]
 | 48 | [猜你也不會說](https://open.spotify.com/track/1Cko0sP3s0YYp5nJyRI94g) | [鐵夫 Dave](https://open.spotify.com/artist/4qGDbD5rMPAgX2JJlD87nR) | [All of Me](https://open.spotify.com/album/4HdjRbnAIYwaoYaVIInzC7) | 2:41 |
 | 49 | [Crash You](https://open.spotify.com/track/38DnLqm6p1dkU1p9tVYBM0) | [沐妍](https://open.spotify.com/artist/5lkCNTlv7uDrYNr6eaLP8h) | [Crash You](https://open.spotify.com/album/6Jy9jSdyJZWS3GeTBV8raX) | 3:16 |
 | 50 | [停下来](https://open.spotify.com/track/3YUFdfgWv5fovD9gP4jMvu) | [Justin吴宗翰](https://open.spotify.com/artist/0pFM2LKw2VX8KrZBACOgZj), [Joey 梁祖仪](https://open.spotify.com/artist/7szHSylDpqL8t1QalgJ0Bg) | [停下来](https://open.spotify.com/album/4tSI9TxVIwfeLGxNKZ9aHZ) | 5:12 |
-| 51 | [BOOM！怪物星人](https://open.spotify.com/track/2G2MLrAIdDHHK99h3bUgQz) | [BOOM！怪物星人](https://open.spotify.com/artist/7pd8OrAGWxfDR2ujHsVEvX) | [BOOM！怪物星人](https://open.spotify.com/album/3qDQ6Do1NbVjPxgNjSAy1M) | 3:54 |
+| 51 | [BOOM！怪物星人](https://open.spotify.com/track/2G2MLrAIdDHHK99h3bUgQz) | [怪星](https://open.spotify.com/artist/7pd8OrAGWxfDR2ujHsVEvX) | [BOOM！怪物星人](https://open.spotify.com/album/3qDQ6Do1NbVjPxgNjSAy1M) | 3:54 |
 | 52 | [我們 \(《奇蹟》前導片插曲\)](https://open.spotify.com/track/4p9jKHLROoI5z8rUSJD20Y) | [Ray 黃霆睿](https://open.spotify.com/artist/2qRV9YtZuf2FuKWj23cPL4) | [fff](https://open.spotify.com/album/2sctJUp4IwUfCtWNk5BY4L) | 3:49 |
 
 Snapshot ID: `AAAAALvNod8biZdKb+hRwR5sRJchbVbP`

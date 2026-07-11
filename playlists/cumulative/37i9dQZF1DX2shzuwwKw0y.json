@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-26",
-  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Natanael Cano",
+  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Victor Eme",
   "name": "Corridos Perrones",
   "tracks": [
     {
@@ -3755,6 +3755,24 @@
     },
     {
       "album": {
+        "name": "Sin Filtro",
+        "url": "https://open.spotify.com/album/0MPs76DUisAdrfWMG0AsvF"
+      },
+      "artists": [
+        {
+          "name": "Victor Eme",
+          "url": "https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173105,
+      "name": "El 610",
+      "url": "https://open.spotify.com/track/7c5caHnw542j2ggdRcDP0h"
+    },
+    {
+      "album": {
         "name": "El ABL",
         "url": "https://open.spotify.com/album/56MTChSy899m0jYs8fwX2f"
       },
@@ -4232,7 +4250,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 221493,
       "name": "El Chavo",
       "url": "https://open.spotify.com/track/1j8X26U42cDQpxcjCk8IiI"
@@ -4786,7 +4804,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 161000,
       "name": "El Federal De Caminos",
       "url": "https://open.spotify.com/track/3LICuqg5kjcNKUBsYgYWEM"
@@ -6556,7 +6574,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 223173,
       "name": "En La Sierra Y En La Ciudad \"La China\"",
       "url": "https://open.spotify.com/track/2wzBBN4okgN6lZ6OSkBB1L"
@@ -8050,6 +8068,24 @@
       "duration_ms": 174642,
       "name": "James B.",
       "url": "https://open.spotify.com/track/6T9mi3HBKG2T21JvM9zowV"
+    },
+    {
+      "album": {
+        "name": "Japan",
+        "url": "https://open.spotify.com/album/33ktm9mqdTd8sbR3IW707f"
+      },
+      "artists": [
+        {
+          "name": "Grupo La Revo",
+          "url": "https://open.spotify.com/artist/2CCm63X8y210EdLf541qBr"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224815,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/5diddGNJH2svqZnsVfAwKk"
     },
     {
       "album": {
@@ -11618,6 +11654,28 @@
       "duration_ms": 158517,
       "name": "Patrullon",
       "url": "https://open.spotify.com/track/54AkMJKLhLmw8lQTYiLh8g"
+    },
+    {
+      "album": {
+        "name": "Peguemos Fuga",
+        "url": "https://open.spotify.com/album/0GcRzq75VzBkyTM8MnB1bX"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
+        {
+          "name": "Jes\u00fas Uriarte",
+          "url": "https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150012,
+      "name": "Peguemos Fuga",
+      "url": "https://open.spotify.com/track/71JqZx1iD6E94qZ2bejuTA"
     },
     {
       "album": {

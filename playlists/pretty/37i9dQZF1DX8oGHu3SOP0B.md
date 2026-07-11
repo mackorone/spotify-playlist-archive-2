@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: Juna Mae
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,469 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,471 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [Girlfriend](https://open.spotify.com/track/00velRJvhabjlxUAmmWptg) | [MADELN](https://open.spotify.com/artist/5ApNtcmlfHITwpgMDyKRsF) | [Girlfriend](https://open.spotify.com/album/2wh5EKH25HVNc28pUQodNw) | 3:12 |
 | 50 | [ROULETTE](https://open.spotify.com/track/3q7NEyNVAA7SvgR9glnV3K) | [INC MATAWEE](https://open.spotify.com/artist/2pGlpKAhNMQRDy1pwtNJcg) | [ROULETTE](https://open.spotify.com/album/2bzjk8AxeAeTJm7yWiaPqC) | 2:47 |
 
-Snapshot ID: `AAAAAJgnsgcIEUZlvihwf69LXMBNcq73`
+Snapshot ID: `AAAAAM1Fb3+Mv/wihFnhoeOrBYUJLnIs`

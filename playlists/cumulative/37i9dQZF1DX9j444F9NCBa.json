@@ -2518,7 +2518,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 177457,
       "name": "Diamonds and Pearls",
       "url": "https://open.spotify.com/track/3WKpflEjBgrePheA5AzsU1"
@@ -7961,6 +7961,24 @@
     },
     {
       "album": {
+        "name": "Photograph",
+        "url": "https://open.spotify.com/album/4zjdNFa7ixJkILyFQgi00k"
+      },
+      "artists": [
+        {
+          "name": "Noham St Pierre",
+          "url": "https://open.spotify.com/artist/5peIXCuwqmyxKDs2JT1CDA"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212401,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/4S0oYfTzeFZUKRlBpBF3nb"
+    },
+    {
+      "album": {
         "name": "Photograph (Instrumental Piano)",
         "url": "https://open.spotify.com/album/6I1ceSGsVPEfRnqyyTHwKj"
       },
@@ -11536,7 +11554,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 189677,
       "name": "When I Was Your Man",
       "url": "https://open.spotify.com/track/5HiUOgzNWhTcCx26TpIVEK"
@@ -11760,6 +11778,24 @@
       "duration_ms": 236500,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/0w4UTfFR62G4Tv0u1lJIED"
+    },
+    {
+      "album": {
+        "name": "Wild World",
+        "url": "https://open.spotify.com/album/0BEGVJkPOdYaAn6I6PMv97"
+      },
+      "artists": [
+        {
+          "name": "Alexander Gresham",
+          "url": "https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/5ehcBCNeQJUkJeBb4RDK0M"
     },
     {
       "album": {

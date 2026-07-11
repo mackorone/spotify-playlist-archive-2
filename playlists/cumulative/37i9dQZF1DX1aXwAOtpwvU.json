@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Odkryj nowych ulubionych artyst\u00f3w. Cover:  <a href=\"spotify:artist:6VaYrjshHIPyNBnmVdLdgQ\">Hugo Tarres</a>",
+  "description": "Odkryj nowych ulubionych artyst\u00f3w. Cover:  <a href=\"spotify:artist:251W9nU4osxaBuBkU9HXT3\">Jea Mira</a>",
   "name": "RADAR Polska",
   "tracks": [
     {
@@ -745,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Album Niebieski",
+        "url": "https://open.spotify.com/album/6gnfCOxgVSV0qYQJWudBM0"
+      },
+      "artists": [
+        {
+          "name": "Mlecze",
+          "url": "https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211800,
+      "name": "Brak tchu",
+      "url": "https://open.spotify.com/track/40WAq4ke8fNkOMJKJQ8iQq"
+    },
+    {
+      "album": {
         "name": "bravo girl",
         "url": "https://open.spotify.com/album/7vi5jgKCTShlsAbnSEiNK3"
       },
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 182518,
       "name": "cisza nocna",
       "url": "https://open.spotify.com/track/6c6lldByHVVBfqha25sOor"
@@ -2502,6 +2520,24 @@
       "duration_ms": 191739,
       "name": "FULL-TIME",
       "url": "https://open.spotify.com/track/11ZSjYaV1K4MSnwRNA0odP"
+    },
+    {
+      "album": {
+        "name": "Gdzie jest Frank Ocean?",
+        "url": "https://open.spotify.com/album/4zjQp7uLgt5DQoIanOrp1v"
+      },
+      "artists": [
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "Gdzie jest Frank Ocean?",
+      "url": "https://open.spotify.com/track/0Zl4Qc9ykqydUmTvbc145L"
     },
     {
       "album": {
@@ -3992,7 +4028,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 160795,
       "name": "lie to me better",
       "url": "https://open.spotify.com/track/1yOVQADad0VaKAmx9VKkZb"
@@ -4764,7 +4800,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 159000,
       "name": "mi\u0119kn\u0119&wi\u0119dn\u0119",
       "url": "https://open.spotify.com/track/5VGl9p1HU0lBGmyZtfitbG"
@@ -5554,7 +5590,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 178500,
       "name": "Nie musz\u0119 mie\u0107 nic",
       "url": "https://open.spotify.com/track/2315J0BhNqSKWcqGcPHkvf"
@@ -5782,6 +5818,24 @@
       "duration_ms": 176884,
       "name": "NIGDY WI\u0118CEJ",
       "url": "https://open.spotify.com/track/6sjhOvFtbxJqvgcTgdoUTG"
+    },
+    {
+      "album": {
+        "name": "Ironic?",
+        "url": "https://open.spotify.com/album/6H1ou0W0EZl6JO6CyjU8Df"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152312,
+      "name": "NIGHT OUT",
+      "url": "https://open.spotify.com/track/2I0d5mI7uU4NqJJ9uD9fmK"
     },
     {
       "album": {
@@ -6383,6 +6437,24 @@
     },
     {
       "album": {
+        "name": "PARANOJA",
+        "url": "https://open.spotify.com/album/3QtM4vAwBExJsuWJSnx7dz"
+      },
+      "artists": [
+        {
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116885,
+      "name": "PARANOJA",
+      "url": "https://open.spotify.com/track/7o42yfJFnEldFhMN7bAT4D"
+    },
+    {
+      "album": {
         "name": "Paranoja",
         "url": "https://open.spotify.com/album/3INlwdlKAUbAc52aD2Gn5y"
       },
@@ -6776,7 +6848,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 166607,
       "name": "Pretty Woman",
       "url": "https://open.spotify.com/track/3lw7lnqS2cNgrMEZeEzQ7W"
@@ -7284,6 +7356,28 @@
       "duration_ms": 174939,
       "name": "Rossa",
       "url": "https://open.spotify.com/track/2eOAf2wRndC9cYZPfwdDtU"
+    },
+    {
+      "album": {
+        "name": "rozla\u0142am mleko",
+        "url": "https://open.spotify.com/album/5tQIR5LXvAU32BBy8ken46"
+      },
+      "artists": [
+        {
+          "name": "Qncicka",
+          "url": "https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ"
+        },
+        {
+          "name": "Moo Latte",
+          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190800,
+      "name": "rozla\u0142am mleko",
+      "url": "https://open.spotify.com/track/6OpN6R8X0L1MMihWmTIM6M"
     },
     {
       "album": {
@@ -8134,6 +8228,28 @@
       "duration_ms": 242443,
       "name": "Szk\u0142o",
       "url": "https://open.spotify.com/track/1zvOrq2ZDeb2IEyl1zbce7"
+    },
+    {
+      "album": {
+        "name": "kk",
+        "url": "https://open.spotify.com/album/798KIEMZ1IuBUBmCPH8OEc"
+      },
+      "artists": [
+        {
+          "name": "zdunekk",
+          "url": "https://open.spotify.com/artist/4HslOaTdnHIBXMAVlZQIOU"
+        },
+        {
+          "name": "Gory",
+          "url": "https://open.spotify.com/artist/7ubpSmIID5osd0LZkksfnQ"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124254,
+      "name": "szpilkki",
+      "url": "https://open.spotify.com/track/4Hpjxi2QkNsHADNiz2Zt44"
     },
     {
       "album": {

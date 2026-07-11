@@ -2591,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "sunaround",
+        "url": "https://open.spotify.com/album/0NcMogW5bJxIZ8OrHGPCTn"
+      },
+      "artists": [
+        {
+          "name": "Galen Rise",
+          "url": "https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "sunaround",
+      "url": "https://open.spotify.com/track/0DW4xuWL5NvMUUPOvF0SM4"
+    },
+    {
+      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/74wLBrYsjGT8XuBchhf6Rj"
       },
@@ -3222,6 +3240,24 @@
       "duration_ms": 190000,
       "name": "Wengen",
       "url": "https://open.spotify.com/track/4EmOsFxW6Nx84qPs9ACrA5"
+    },
+    {
+      "album": {
+        "name": "What if",
+        "url": "https://open.spotify.com/album/6iFw3wB3enX30toVhL4lWe"
+      },
+      "artists": [
+        {
+          "name": "D Orbea",
+          "url": "https://open.spotify.com/artist/5zIA2WFT6BBxHqtA8tmi8K"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129729,
+      "name": "What if",
+      "url": "https://open.spotify.com/track/0zrq89L6zJpWyCDFLWQQ9W"
     },
     {
       "album": {

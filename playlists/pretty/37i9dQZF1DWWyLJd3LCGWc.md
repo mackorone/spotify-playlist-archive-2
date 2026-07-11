@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 
 > <a href="https://www.instagram.com/pxssypalace/?hl=en">Pxssy Palace</a> creates a safe space for queer womxn, trans, non\-binary and intersex people of colour with their London\-based club night\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,461 likes - 46 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,460 likes - 46 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 | 23 | [Blessed \(with Tyga\)](https://open.spotify.com/track/5imCvF3VHty1TZ0qaE1JEj) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Blessed \(with Tyga\)](https://open.spotify.com/album/7aTeShQY6NnCiFmjYluvcl) | 2:28 |
 | 24 | [NITEVISION](https://open.spotify.com/track/6HJ0QLyvuYuvGwTz8PSv4c) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Pamputtae](https://open.spotify.com/artist/3qu3PIngYcX3SzOVcNGSTF) | [NITEVISION](https://open.spotify.com/album/1k6ErxVZcEwgUVSzrDpWeP) | 2:13 |
 | 25 | [B2B](https://open.spotify.com/track/3OrMbFUgXjchOYTU8TeLO7) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [B2B / Black Roses](https://open.spotify.com/album/7rs4RT4DkkGWpdxT9belLA) | 3:44 |
-| 26 | [Little Lotto](https://open.spotify.com/track/3RT7nhA6KgsGC1ueLYM2PV) | [Alo Wala](https://open.spotify.com/artist/4mYDn1R8xbWE4WhRPlr1IG), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Little Lotto](https://open.spotify.com/album/0gDY61ZPg18gY8XT8pRE7L) | 3:56 |
+| 26 | [Little Lotto](https://open.spotify.com/track/3RT7nhA6KgsGC1ueLYM2PV) | [Alo Wala](https://open.spotify.com/artist/4mYDn1R8xbWE4WhRPlr1IG), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [MC Zulu](https://open.spotify.com/artist/0f9afvXSbz0PRitPH4dKCN) | [Little Lotto](https://open.spotify.com/album/0gDY61ZPg18gY8XT8pRE7L) | 3:56 |
 | 27 | [Classroom](https://open.spotify.com/track/5OPYrpZPzcyfBNzKnDRihe) | [Traumer](https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh) | [Classroom](https://open.spotify.com/album/379F7rTQ1KTTdbZZumT9ad) | 8:36 |
 | 28 | [My Name is Shhh](https://open.spotify.com/track/0RryeDY1e0hTjIN4oa2fNb) | [Manara](https://open.spotify.com/artist/3SLHgM7u02zr0Hfkm0Yn4R), [Bok Bok](https://open.spotify.com/artist/2qUNVIgjpwhQ3gGpM1Nrok) | [Manara International Presents: The Ultimate Spice Mix](https://open.spotify.com/album/1Ibm7cEZrtnTc8T5STUXlw) | 3:20 |
 | 29 | [Bashiri](https://open.spotify.com/track/52shYYi6lVYuGy1jFNCkgK) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Bashiri](https://open.spotify.com/album/4rxGDBJaJlQacS7KFvBKCu) | 3:19 |

@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for all your activities.
 
-1,761 songs - 4 day 8 hr 44 min
+1,766 songs - 4 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [A Memory of Rio](https://open.spotify.com/track/42ILtwrB3M88vpC0VNZExQ) | [Two steps in the street](https://open.spotify.com/artist/6BG94mKYRcBXUoB1id2LdN) | [A Memory of Rio](https://open.spotify.com/album/0Ky3i88keJXhXr9ifXNuJQ) | 2:21 | 2026-05-29 |  |
 | [A Minor Thing](https://open.spotify.com/track/0zysTPrA9fFSX2JGiYIcZm) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [A Minor Thing](https://open.spotify.com/album/1R2Y6GnYt9LzwW4Rqo3mmv) | 3:37 | 2024-04-16 | 2025-12-03 |
 | [A minute so long](https://open.spotify.com/track/3Xn7vSjgTLNwHk6ZfPMv4Y) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [A minute so long](https://open.spotify.com/album/4hq76KYACxP9LUb8CqZttE) | 3:05 | 2025-09-03 |  |
+| [A new beginning](https://open.spotify.com/track/7IxyFOyqxTKYRBcfDp4v3A) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [A new beginning](https://open.spotify.com/album/0yqVSDxzaBGtyQ2G8eNcxj) | 2:59 | 2026-07-10 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/1sp7bA5S2pxf2mNsVLCjuU) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/7979k1NF3U9qJlbgl9yoAj) | 3:36 | 2022-08-09 | 2025-05-20 |
 | [A Note's Journey](https://open.spotify.com/track/4I6QjfPQz1InbbIOIbw1jz) | [Isaiah Lewis](https://open.spotify.com/artist/3BpZjEATDP62xncYcfVkqP) | [A Note's Journey](https://open.spotify.com/album/7DsmLchOkUIMsesLaVWkWn) | 3:48 | 2023-12-08 | 2024-11-12 |
 | [A persuasive argument](https://open.spotify.com/track/5WwybHBAdhsJMNBbXymtS3) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [A persuasive argument](https://open.spotify.com/album/3OAJII4iToETQ0SPLK8b9z) | 3:54 | 2023-08-10 | 2025-12-03 |
@@ -298,6 +299,7 @@
 | [Cliffs](https://open.spotify.com/track/4LEDxHTo5iTzYgNbzIfaBK) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Cliffs](https://open.spotify.com/album/5BNrTrQr8lcyRso4aXESIP) | 3:37 | 2024-05-23 | 2025-07-16 |
 | [Close Enough For Love](https://open.spotify.com/track/0JVGzHbAmJybAXzPV6D7CM) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Close Enough For Love](https://open.spotify.com/album/1chLDtOmC1qhV5Pq7YpiqJ) | 3:25 | 2022-06-21 | 2022-10-14 |
 | [Close Your Eyes](https://open.spotify.com/track/3VSMYAVSnUHMgNonipRcsQ) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Close Your Eyes](https://open.spotify.com/album/2AKnOIZeclPvfNySSo7ANk) | 3:46 | 2022-04-11 | 2024-04-11 |
+| [Closer than before](https://open.spotify.com/track/4OETAC7tPolm6wY1BXVFGz) | [Noel Hayes](https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S) | [Closer than before](https://open.spotify.com/album/4SeYmOjD0W8ATBKa03uzc5) | 3:02 | 2026-07-10 |  |
 | [Closer Together](https://open.spotify.com/track/2gDD4mcubDaaPamwHNc1lc) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [Paris in the Rain](https://open.spotify.com/album/02n3H8PMcmrFzjgvG5cUc2) | 3:26 | 2022-01-17 | 2022-10-28 |
 | [Closing Doors](https://open.spotify.com/track/5Bjhtzgcewszhdw5COwnIm) | [Jazmina Tozer Three](https://open.spotify.com/artist/469VzQ6JsfGQlFis6YQP0H) | [Closing Doors](https://open.spotify.com/album/1MKxoZMGkMo2lmubT8KwQM) | 3:00 | 2022-06-14 | 2024-06-04 |
 | [Closing Time](https://open.spotify.com/track/2qLTH8o4woaUd81rgUAeZp) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Closing Time](https://open.spotify.com/album/6uvsg6dcwLw85DY6z4jMvh) | 3:36 | 2023-10-20 | 2025-12-03 |
@@ -350,6 +352,7 @@
 | [Daydreaming](https://open.spotify.com/track/0mZErx8PGRivBVFTMBnGoy) | [Nathan Hill Trio](https://open.spotify.com/artist/4KDVrZS1ZTq8DvPeEZxbHz) | [Daydreaming](https://open.spotify.com/album/5oN2Epvtk0HNsWlEqunZFD) | 2:46 | 2024-04-10 | 2025-10-01 |
 | [Daydreams](https://open.spotify.com/track/6e6mVG7SXv73TrkpziM4gW) | [Streetlight Trio](https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4) | [Daydreams](https://open.spotify.com/album/62wFAEZha1KG97xnIoIGZx) | 3:22 | 2023-01-26 | 2025-07-16 |
 | [Dazzle my eyes](https://open.spotify.com/track/2X1KnKmWQKyf3Q8HwjnahW) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Dazzle my eyes](https://open.spotify.com/album/1fOSHz1VrhlPyk6IW5UVnn) | 3:25 | 2024-05-10 | 2024-09-10 |
+| [Debbys raise](https://open.spotify.com/track/5IeUaZ4ySZMlOPfvNJxHzv) | [Nighthawks Revisited](https://open.spotify.com/artist/2sgwN8aKPOcrVSAdVil6R1) | [Debbys raise](https://open.spotify.com/album/3lo7y3M1haLZQgHJR1PBrv) | 2:52 | 2026-07-10 |  |
 | [Debras Fall](https://open.spotify.com/track/3XWAUrNmY4HKsBotTZTFUO) | [The Low Light Trio](https://open.spotify.com/artist/5WdixIK85kM8klaN4qpQfT) | [Debras Fall](https://open.spotify.com/album/06JsvpOoYrV6026WLJenPx) | 2:51 | 2026-04-24 |  |
 | [Decor\-free](https://open.spotify.com/track/4iACpgxgxLkWkd4kypNNwx) | [Sarah Troedsson](https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh) | [Decor\-free](https://open.spotify.com/album/1cry6SmclW8CYxmloksuVf) | 3:59 | 2024-01-05 | 2024-07-27 |
 | [Dedication](https://open.spotify.com/track/2OgzNGxR6fSLRjWsG1oU7Z) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [Dedication](https://open.spotify.com/album/4C4V0h8oPigghabatAuLlw) | 3:08 | 2024-06-24 | 2025-12-03 |
@@ -365,6 +368,7 @@
 | [Dime in the Payphone](https://open.spotify.com/track/37cRCP2V3367tAbWA5PMok) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Dime in the Payphone](https://open.spotify.com/album/5Hc0AgbGCDh0k6vD2dcuTf) | 3:32 | 2024-09-02 | 2025-03-25 |
 | [Dimma](https://open.spotify.com/track/0psxsB5R09bk0oNd7pBK6U) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Dimma](https://open.spotify.com/album/5r3Og7emgRoygtaVgxZJMS) | 2:55 | 2026-04-24 |  |
 | [Dimness](https://open.spotify.com/track/5IVl86u3PwXeo73x3tFBEh) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Dimness](https://open.spotify.com/album/5gcieuuevVgn5pfCTix7lO) | 3:19 | 2024-02-23 | 2025-12-03 |
+| [Dinner 4 2](https://open.spotify.com/track/4kohcY73tFCQTXVPf21tWM) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Dinner 4 2](https://open.spotify.com/album/6FsKnfRVerMJ95hmqniyNi) | 3:19 | 2026-07-10 |  |
 | [Dipping Birds](https://open.spotify.com/track/3JtvojpnCGBLdalXoPpw4l) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Dipping Birds](https://open.spotify.com/album/2HpAQ9RPhao2ErPp3LLlGx) | 3:14 | 2022-11-17 | 2024-07-23 |
 | [Distant Hearts](https://open.spotify.com/track/7qOoWH3cUsEMfqEGcT1muE) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Distant Hearts](https://open.spotify.com/album/1fbiWYWMGJF3yB4WmoqJNv) | 2:19 | 2022-11-24 | 2025-07-24 |
 | [Distant Now](https://open.spotify.com/track/1Ru3xVXSBbKh9QlDLlvgR2) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Distant Now](https://open.spotify.com/album/7h1I4YMlS6Bx3SEHorgoOe) | 3:14 | 2026-04-03 |  |
@@ -1086,7 +1090,7 @@
 | [On A Clear Day](https://open.spotify.com/track/2rtTRNbX2fRQGsLBje9YHS) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [On A Clear Day](https://open.spotify.com/album/3hLEkeJRG2VTK3M7015jt0) | 2:37 | 2022-10-13 | 2025-07-11 |
 | [On a Clear Day \(You Can See Forever\)](https://open.spotify.com/track/6zeTz2j5A9G6gEKi34ks05) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Long Ago \(and Far Away\)](https://open.spotify.com/album/5pXFxobaToNeBHgCRV2YNr) | 3:25 | 2022-01-17 | 2022-08-10 |
 | [On a rainy night](https://open.spotify.com/track/23UsmEE9f1y1OTRWpxZsnx) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [I fall in love too easily](https://open.spotify.com/album/5P4UboAiY1NObMGBNryw37) | 2:54 | 2022-01-17 | 2022-09-30 |
-| [On A Road To Nowhere](https://open.spotify.com/track/5nDpC1oqtsVETQsgjMHr8H) | [Phoenix Archer](https://open.spotify.com/artist/4Syv4sTnGc2Kq3gWqGGdJ3) | [On a Road to Nowhere](https://open.spotify.com/album/2lhiYKgXulitWYfMrYu2ID) | 3:58 | 2026-03-20 |  |
+| [On A Road To Nowhere](https://open.spotify.com/track/5nDpC1oqtsVETQsgjMHr8H) | [Phoenix Archer](https://open.spotify.com/artist/4Syv4sTnGc2Kq3gWqGGdJ3) | [On a Road to Nowhere](https://open.spotify.com/album/2lhiYKgXulitWYfMrYu2ID) | 3:58 | 2026-03-20 | 2026-07-11 |
 | [On Green Avenue](https://open.spotify.com/track/3YEULsoCVhL7vNyCMsm9BJ) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [On Green Avenue](https://open.spotify.com/album/6XMQ0vWE9PNnNns83HpJvQ) | 3:56 | 2025-07-15 |  |
 | [On My Own](https://open.spotify.com/track/4wEbOI5l8rNidBk2BeNmo7) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [On My Own](https://open.spotify.com/album/2Jmi6zdQVavjTu69m8JARk) | 3:46 | 2024-04-16 | 2024-08-27 |
 | [On my way](https://open.spotify.com/track/4s1HE0mkDMa9b3Hl6cVgBE) | [The Fading Light Trio](https://open.spotify.com/artist/3ORrNORmkA0W8UamB9B3IC) | [On my way](https://open.spotify.com/album/2W7GGsEVTWgKHu2gciLnNE) | 3:17 | 2025-10-07 | 2026-05-30 |
@@ -1390,6 +1394,7 @@
 | [Sunset Stroll](https://open.spotify.com/track/1KYECtLMpjC6ov4SDRAj2Y) | [Urban Jazz Junction](https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd) | [Sunset Stroll](https://open.spotify.com/album/2MQMIyZob2GNC9h3GY8iTf) | 2:44 | 2023-09-22 | 2024-06-12 |
 | [Sunshine...](https://open.spotify.com/track/2eQkkGTC99e1SJ7Rz0ckX6) | [Stillwater Trio](https://open.spotify.com/artist/6LNPl6SLaQ4zJAsQnVAF1o) | [Sunshine...](https://open.spotify.com/album/49KX7jOMRB00HCZecZlFp6) | 3:16 | 2026-05-29 |  |
 | [Swaying Shadows](https://open.spotify.com/track/53MQJJpDsIE0QV6y6Mv2mc) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Swaying Shadows](https://open.spotify.com/album/0td3uSBMDcvtSI4XEonj6L) | 3:20 | 2024-03-22 | 2025-12-03 |
+| [Sweet And Lonely](https://open.spotify.com/track/5xjfiCZOJpUCV0VwOGXjGp) | [Bernina Quartet](https://open.spotify.com/artist/2Svnw11NWIp2PHpPAgIqRo) | [Sweet And Lonely](https://open.spotify.com/album/4YEjAMG43uUDaAR3HCyQqE) | 4:56 | 2026-07-10 |  |
 | [Sweet And Lovely](https://open.spotify.com/track/2CWgW8oWE5Ec1CvMvawwQ6) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Sweet And Lovely](https://open.spotify.com/album/5lyuMvNyS4lbRByuICf61I) | 3:04 | 2022-10-07 | 2025-07-24 |
 | [Sweet Honey](https://open.spotify.com/track/4vRZsYi3mrWjg3jQimvC87) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Sweet Honey](https://open.spotify.com/album/62XR4MrH9mTodpVimsCho0) | 3:36 | 2025-12-02 |  |
 | [Sweet Smile](https://open.spotify.com/track/5DghAA2I1vE1jqFOaJRIsv) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Sweet Smile](https://open.spotify.com/album/0z6Bmefx4SMCYqfRqZfJcH) | 3:54 | 2024-02-02 | 2025-12-03 |

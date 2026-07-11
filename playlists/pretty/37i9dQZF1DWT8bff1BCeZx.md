@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,035 likes - 112 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,046 likes - 112 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Grace \- Remix](https://open.spotify.com/track/7iJLNphVZoKg1AAm3RagLa) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Grace \(Remix\)](https://open.spotify.com/album/26hi7AyFWMykRnAc3iIIxC) | 3:13 |
 | 2 | [We Raise A Sound](https://open.spotify.com/track/25roQKgZN5cEzxI9DmvJHX) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/6E4YUnHFOOfL57krwBfgYl), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [We Raise A Sound](https://open.spotify.com/album/5ekhrynccEoe3lkq2c5wKh) | 8:22 |
 | 3 | [We will be many](https://open.spotify.com/track/55qF5hzyM6Vv02DOchu0jN) | [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [We will be many](https://open.spotify.com/album/4zBbD33yMF8YXqJPZDhAHX) | 3:14 |
-| 4 | [Track 2](https://open.spotify.com/track/51IYEc1ytqmqHoZqnX7avn) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM) | [Super Power](https://open.spotify.com/album/3LzWjKiMnifcDGTjBXtJkJ) | 0:00 |
+| 4 | [Albarkun Allah](https://open.spotify.com/track/51IYEc1ytqmqHoZqnX7avn) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [TMP Music](https://open.spotify.com/artist/0FSWMqdRbmwGSlcOlquXgo) | [Super Power](https://open.spotify.com/album/3LzWjKiMnifcDGTjBXtJkJ) | 5:21 |
 | 5 | [ABBA FATHER \- raw](https://open.spotify.com/track/6fgmNr07tGMB2plXEuGf2k) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [ABBA FATHER \(raw\)](https://open.spotify.com/album/68RAoLRRu8sKyakgEIDYia) | 1:08 |
 | 6 | [SOMETHING GOOD](https://open.spotify.com/track/17BDMrOQieQCZVNLRS5bRd) | [Sydni Alexander](https://open.spotify.com/artist/44iyQx0SU5V8iA0myHrJAq), [Nitro X](https://open.spotify.com/artist/10L8JkR6O9qlT7tZHMjnqW), [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [SOMETHING GOOD](https://open.spotify.com/album/6duqiwAuZbZPW9OVJHX5BY) | 2:44 |
 | 7 | [EZI CHINEKE \(DRILL\)](https://open.spotify.com/track/4LNulzWo7heM1Kznwfrm0t) | [Trenches Man](https://open.spotify.com/artist/4RqMgE1wtKcbcV7n6t5zPa), [Gospel Wills](https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr) | [EZI CHINEKE \(DRILL\)](https://open.spotify.com/album/5VLznNKBObYkZUtvfjFe6j) | 3:12 |

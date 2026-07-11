@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,732 likes - 120 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,734 likes - 120 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 11 | [Wash my hair](https://open.spotify.com/track/4qSrZtU5n9VeZxL1q6DfYB) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Wash my hair](https://open.spotify.com/album/5QrUbZtMt52oRRqZzzsQBI) | 3:00 |
 | 12 | [Sunflower](https://open.spotify.com/track/7hKd8osKVrmehhIx1FP6Lz) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Sunflower](https://open.spotify.com/album/085BCn8A8f0RIVLiKvsJ3A) | 3:34 |
 | 13 | [the bridge](https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [the bridge](https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z) | 3:53 |
-| 14 | [Länge Leve \(Sommarern\)](https://open.spotify.com/track/2CSftoMORIG7yvKRo4ijJ2) | [PA](https://open.spotify.com/artist/7lajTunyA5lTd0gKNKXrZn) | [Länge Leve \(Sommarern\)](https://open.spotify.com/album/32xYbPovjxwixEB2EAJ6Tu) | 2:12 |
+| 14 | [Länge Leve \(Sommaren\)](https://open.spotify.com/track/2CSftoMORIG7yvKRo4ijJ2) | [PA](https://open.spotify.com/artist/7lajTunyA5lTd0gKNKXrZn) | [Länge Leve \(Sommaren\)](https://open.spotify.com/album/32xYbPovjxwixEB2EAJ6Tu) | 2:12 |
 | 15 | [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 |
 | 16 | [Låt tiden stå still](https://open.spotify.com/track/3tBl132yRrnjCBABb9dlnk) | [Felix Manu](https://open.spotify.com/artist/2gXs1tQmQNe5bAUU726Ohd) | [Låt tiden stå still](https://open.spotify.com/album/1gMkgThkxzfr1AsPen3J6z) | 2:14 |
 | 17 | [100 Decibel](https://open.spotify.com/track/6gS6PBCrvrY9ZZhG7dCY2R) | [Tim Lidman](https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq) | [100 Decibel](https://open.spotify.com/album/1j7dRiURpx65NsZ8vrLjBB) | 2:24 |

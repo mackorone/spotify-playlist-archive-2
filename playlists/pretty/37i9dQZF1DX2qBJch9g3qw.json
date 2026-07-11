@@ -1,6 +1,6 @@
 {
   "description": "lost in a haze",
-  "num_followers": 178849,
+  "num_followers": 178945,
   "original_name": "dazed",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-11-13 16:46:16",
       "album": {
-        "name": "Floetic",
-        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
-      },
-      "artists": [
-        {
-          "name": "Floetry",
-          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
-        }
-      ],
-      "duration_ms": 268373,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
-    },
-    {
-      "added_at": "2025-11-13 16:46:16",
-      "album": {
         "name": "Brown Sugar",
         "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 262893,
       "name": "Brown Sugar",
       "url": "https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE"
+    },
+    {
+      "added_at": "2025-11-13 16:46:16",
+      "album": {
+        "name": "Floetic",
+        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
+      },
+      "artists": [
+        {
+          "name": "Floetry",
+          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
+        }
+      ],
+      "duration_ms": 268373,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
     },
     {
       "added_at": "2025-11-13 16:46:16",
@@ -819,26 +819,6 @@
     {
       "added_at": "2025-11-13 16:46:16",
       "album": {
-        "name": "Fall In Love With Her",
-        "url": "https://open.spotify.com/album/5FLWW34mtPlu7S691mEQQ9"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        },
-        {
-          "name": "Taner\u00e9lle",
-          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
-        }
-      ],
-      "duration_ms": 245581,
-      "name": "Fall in Love With Her",
-      "url": "https://open.spotify.com/track/3qk0TOeA6WtKsLbwQC8I8J"
-    },
-    {
-      "added_at": "2025-11-13 16:46:16",
-      "album": {
         "name": "Is This Real Love? (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 179579,
       "name": "Is This Real Love? (feat. Lucky Daye) - Remix",
       "url": "https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO"
+    },
+    {
+      "added_at": "2025-11-13 16:46:16",
+      "album": {
+        "name": "Fall In Love With Her",
+        "url": "https://open.spotify.com/album/5FLWW34mtPlu7S691mEQQ9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        },
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        }
+      ],
+      "duration_ms": 245581,
+      "name": "Fall in Love With Her",
+      "url": "https://open.spotify.com/track/3qk0TOeA6WtKsLbwQC8I8J"
     },
     {
       "added_at": "2025-11-13 16:46:16",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-11-13 16:46:16",
       "album": {
-        "name": "Imperfect Me",
-        "url": "https://open.spotify.com/album/4Du59lDEB6pAv7B89QNtx4"
-      },
-      "artists": [
-        {
-          "name": "INDIA BLUE",
-          "url": "https://open.spotify.com/artist/5M91kIFBO3vwGoHceiMugI"
-        }
-      ],
-      "duration_ms": 234043,
-      "name": "Imperfect Me",
-      "url": "https://open.spotify.com/track/2C5M5oQOLjaTiBAInYxEty"
-    },
-    {
-      "added_at": "2025-11-13 16:46:16",
-      "album": {
         "name": "it all ends with us",
         "url": "https://open.spotify.com/album/6HZA7wSrjCAwRC9x1BQG1J"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 226000,
       "name": "it all ends with us",
       "url": "https://open.spotify.com/track/4XAfqNOaiPj8WZw7r7pNYL"
+    },
+    {
+      "added_at": "2025-11-13 16:46:16",
+      "album": {
+        "name": "Imperfect Me",
+        "url": "https://open.spotify.com/album/4Du59lDEB6pAv7B89QNtx4"
+      },
+      "artists": [
+        {
+          "name": "INDIA BLUE",
+          "url": "https://open.spotify.com/artist/5M91kIFBO3vwGoHceiMugI"
+        }
+      ],
+      "duration_ms": 234043,
+      "name": "Imperfect Me",
+      "url": "https://open.spotify.com/track/2C5M5oQOLjaTiBAInYxEty"
     }
   ],
   "unique_name": "dazed",

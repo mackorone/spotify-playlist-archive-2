@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Joss ML en cover",
+  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Loyaltty y Alan Arrieta en cover",
   "name": "Reggaet\u00f3n Mexa ",
   "tracks": [
     {
@@ -866,7 +866,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 148955,
       "name": "AKOLATRONIC",
       "url": "https://open.spotify.com/track/2vozHDePHUg9EnMyFhckc7"
@@ -4842,6 +4842,36 @@
       "duration_ms": 150093,
       "name": "Contenta",
       "url": "https://open.spotify.com/track/3kDeZkH9kk9VEHlEZBy49v"
+    },
+    {
+      "album": {
+        "name": "CONTIGO",
+        "url": "https://open.spotify.com/album/3wJD96IL24uNBjWThA2o2S"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
+        {
+          "name": "Alan Arrieta",
+          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
+        },
+        {
+          "name": "ZAMU",
+          "url": "https://open.spotify.com/artist/21SU0ZCjZqaHJkzrKbHP4x"
+        },
+        {
+          "name": "Santiago Berrio",
+          "url": "https://open.spotify.com/artist/3poRvxocbLlXT9rER89tAs"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "CONTIGO",
+      "url": "https://open.spotify.com/track/03AL8xQYFTZOojUAg8AM5c"
     },
     {
       "album": {
@@ -22227,6 +22257,32 @@
     },
     {
       "album": {
+        "name": "Te Resuelvo",
+        "url": "https://open.spotify.com/album/7ovXJMTfqzgt0EDHdFCEhU"
+      },
+      "artists": [
+        {
+          "name": "Kinto Piso",
+          "url": "https://open.spotify.com/artist/7fmF1cxEVCz8Ais01qrJwH"
+        },
+        {
+          "name": "Ruzzo Doblezz",
+          "url": "https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D"
+        },
+        {
+          "name": "Salon Sandunga",
+          "url": "https://open.spotify.com/artist/7GO5cbRGVs48OP0lPdjLyo"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "Te Resuelvo",
+      "url": "https://open.spotify.com/track/2PtS9LHflsVSxnzVyZycsP"
+    },
+    {
+      "album": {
         "name": "Te vas",
         "url": "https://open.spotify.com/album/6sAbLFsioGx77UDFe3acfp"
       },
@@ -23893,6 +23949,32 @@
     },
     {
       "album": {
+        "name": "ULA U",
+        "url": "https://open.spotify.com/album/7zivrAN54dgpplrgDLkSrV"
+      },
+      "artists": [
+        {
+          "name": "RIVVAA",
+          "url": "https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5"
+        },
+        {
+          "name": "Jose Alatorre",
+          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
+        },
+        {
+          "name": "QueHicisteBella",
+          "url": "https://open.spotify.com/artist/7tZ9DkFKRbmnkqxjrUZRpv"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "ULA U",
+      "url": "https://open.spotify.com/track/58lUFyBGQyRbuy8SpVhRrI"
+    },
+    {
+      "album": {
         "name": "Un Bezito",
         "url": "https://open.spotify.com/album/73ak0lB4a1hE6glj88jp9b"
       },
@@ -23952,7 +24034,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 167960,
       "name": "Un Pacto",
       "url": "https://open.spotify.com/track/4WQnJ9yzHxpfTIoQf1GKra"
@@ -25168,7 +25250,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 152449,
       "name": "YALES",
       "url": "https://open.spotify.com/track/3OqV9jT3eozGsxwU6tvZ6Z"

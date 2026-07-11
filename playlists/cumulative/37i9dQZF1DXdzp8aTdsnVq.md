@@ -4,7 +4,7 @@
 
 > Novedades y clásicos del popular género colombiano\. Foto: Ana del Castillo
 
-212 songs - 14 hr 40 min
+213 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Tierra Mala](https://open.spotify.com/track/7iJ43W1RWMrNjU3Or15jxX) | [Julio Meza](https://open.spotify.com/artist/61KRv7WhZJ2erWoYnJYHvL) | [Julio Canta Vallenato](https://open.spotify.com/album/5Qxd7iZAeoYqYFBLc3rchd) | 4:34 | 2022-09-02 | 2023-08-26 |
 | [Tierra Mala](https://open.spotify.com/track/0fVroVR0FTRID4WoeQ6Jko) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Grandes Hits \- Los Chiches Vallenatos](https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx) | 4:48 | 2024-01-26 |  |
 | [Tierra Mala](https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Tierra Mala](https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU) | 4:49 | 2022-09-02 | 2024-04-19 |
+| [Tu Carita](https://open.spotify.com/track/3o2gUt04NbZwMv5uwKwbSy) | [El Meke](https://open.spotify.com/artist/4efeWM0inGKd3KGCyOyXGm), [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc) | [Tu Carita](https://open.spotify.com/album/3w67vYzRHo4TWmtkM31YFx) | 2:36 | 2026-07-10 |  |
 | [Tú Me Gustas, Mujer!!!](https://open.spotify.com/track/1zfs7wu5eDin6jDpIC662H) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ) | [Tú Me Gustas, Mujer!!!](https://open.spotify.com/album/1AH2y3HEWgiSKSYkbrgBEn) | 3:43 | 2022-09-02 | 2025-03-29 |
 | [Tú Y Yo](https://open.spotify.com/track/3IVqpHiPnmKXUbM4YUYuL7) | [Ana del Castillo](https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7) | [X AMOR A MI](https://open.spotify.com/album/6bE1rdpj4bKLOLK6rUlV9T) | 3:16 | 2026-05-15 |  |
 | [Un Beso Y Una Flor](https://open.spotify.com/track/5wVv9KObFL175Ng3Qlyd2i) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Un Beso Y Una Flor](https://open.spotify.com/album/37s4nHhHGs9wGOwxXwNdtR) | 4:16 | 2022-10-21 | 2023-04-06 |

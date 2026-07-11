@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "Cancer Cello Meditation",
+        "url": "https://open.spotify.com/album/0p8hPybX8AZRC8N91Rv704"
+      },
+      "artists": [
+        {
+          "name": "The Wong Janice",
+          "url": "https://open.spotify.com/artist/1q1P9ifOMhgIYCsj9KXxdX"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Cancer II (Edit)",
+      "url": "https://open.spotify.com/track/5aOKTbcnog95ghsoPQL3Yp"
+    },
+    {
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/0Y1JlLPyUEvslc0SaI5cXL"
       },
@@ -1120,6 +1138,32 @@
       "duration_ms": 240161,
       "name": "Concrete Clouds",
       "url": "https://open.spotify.com/track/19d1QBVkXuXV1kPhKSLOHI"
+    },
+    {
+      "album": {
+        "name": "Contemplazione del Mare (Reimagined)",
+        "url": "https://open.spotify.com/album/1r9xanrGsGfL7ARWLeCVdv"
+      },
+      "artists": [
+        {
+          "name": "Gianni Domenici",
+          "url": "https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g"
+        },
+        {
+          "name": "Nadav Cohen",
+          "url": "https://open.spotify.com/artist/7MVwyy7j6wKwEPFPT3RpjV"
+        },
+        {
+          "name": "Nsee",
+          "url": "https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140564,
+      "name": "Contemplazione del Mare - Reimagined",
+      "url": "https://open.spotify.com/track/6O5CUrMTwb8fdJAt8ZtIQn"
     },
     {
       "album": {

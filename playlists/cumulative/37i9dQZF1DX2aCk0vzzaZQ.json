@@ -105,6 +105,32 @@
     },
     {
       "album": {
+        "name": "A Pagan Dance No.2 Live",
+        "url": "https://open.spotify.com/album/6naztOk0fDaFHBsfpGFn10"
+      },
+      "artists": [
+        {
+          "name": "Mark John McEncroe",
+          "url": "https://open.spotify.com/artist/02ep1mxR5xAc2t9m0ZyGL6"
+        },
+        {
+          "name": "Budapest Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/4yrzlxPNm4ulLRpn5wmEAX"
+        },
+        {
+          "name": "Anthony Amore",
+          "url": "https://open.spotify.com/artist/2I2M6cIgvlfSUSgOfIjjrp"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372682,
+      "name": "A Pagan Dance No.2 Live",
+      "url": "https://open.spotify.com/track/2bMdP5b8Um7zHPg2B83vnl"
+    },
+    {
+      "album": {
         "name": "Essential Baroque",
         "url": "https://open.spotify.com/album/2ptb27zRmcc2Iu9NlG5URO"
       },

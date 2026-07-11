@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Mula
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,184 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,166 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SOORT](https://open.spotify.com/track/0zVpWODG7CH9skI22fR146) | [Mula](https://open.spotify.com/artist/0fzMb7AJnLMfYElJvYd8N4), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [SOORT](https://open.spotify.com/album/7yd9QC2t3BXH241IczbsKB) | 2:35 |
 | 2 | [Isolator](https://open.spotify.com/track/1qVSOM9AhwOsSqwCoClUCX) | [Philly](https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj) | [Isolator](https://open.spotify.com/album/6sLoYje4ZTyPefK7CW2S7V) | 2:29 |
 | 3 | [208 & Polo's](https://open.spotify.com/track/4EfuG976Yv7VEErj0Bm3mb) | [GOR](https://open.spotify.com/artist/5MlJLdL7eYtIn5UeOOzluz), [Flashy](https://open.spotify.com/artist/5sXROBdCYLZ26gvHtpj4gd) | [208 & Polo's](https://open.spotify.com/album/46Ycvv7AA0SC0ndjzgdSFY) | 2:20 |
-| 4 | [Track 3](https://open.spotify.com/track/6hbpMc9FxjYn62yrphSRVo) | [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp) | [GEM\-Z II](https://open.spotify.com/album/4uDJoGtxwEjbNaH8rsj7Zu) | 0:00 |
+| 4 | [HOTBOY](https://open.spotify.com/track/6hbpMc9FxjYn62yrphSRVo) | [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49), [BFLClyde](https://open.spotify.com/artist/5ybuFtnUioZDYS90bDO4GD) | [GEM\-Z II](https://open.spotify.com/album/4uDJoGtxwEjbNaH8rsj7Zu) | 2:34 |
 | 5 | [101Killerz](https://open.spotify.com/track/6tOBp2E1AUWxtqUrx4f6L1) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Kingsize](https://open.spotify.com/artist/1d6XcWMNZgvbgs123LlFgJ), [MocroManiac](https://open.spotify.com/artist/1n34ZpZX4OCwbuyo9mnfU8), [Rafello](https://open.spotify.com/artist/1V748CEB0J563vCjbIz62B), [Rotjoch](https://open.spotify.com/artist/52kkq3LdnSafdKRWjNqKBw) | [Vrijspel \(Deluxe\)](https://open.spotify.com/album/2ITuJwvDclaOKmIJfcyZft) | 5:21 |
 | 6 | [Chinese Food](https://open.spotify.com/track/5uCjThQVqg6hhflfREjJat) | [DJ Wale](https://open.spotify.com/artist/4gTsaC1OX5plDemue2uZHn), [Quincy Promes](https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS), [Giniio](https://open.spotify.com/artist/1iSUoJSoYDqjIO5P1CdPfM) | [Chinese Food](https://open.spotify.com/album/63TwsJbJSjQAt2jvJlGqXu) | 2:47 |
 | 7 | [Flashbacks & Jetlags \(feat\. Leblanco\)](https://open.spotify.com/track/0Yh4hBIuVI8qZfMfEScwLV) | [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk), [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [Flashbacks & Jetlags](https://open.spotify.com/album/3QgLObJAyutJr87RuMwHzV) | 3:25 |
-| 8 | [Extra](https://open.spotify.com/track/4LTSN3uEYbjO5U0To8hBnU) | [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Extra](https://open.spotify.com/album/5p9qGvkq7jcCFibGsaqTQ0) | 2:16 |
-| 9 | [STUK](https://open.spotify.com/track/6ktcLOodfzrT0e9G810fVZ) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [STUK](https://open.spotify.com/album/7CNunsUm1e9qFJcEPD9T2f) | 1:49 |
-| 10 | [Vliegveld](https://open.spotify.com/track/5DhcPYnVskpB7h3wGYqiYu) | [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O) | [Vliegveld](https://open.spotify.com/album/7ip4GhSBkQbR3FIy9Agoo7) | 2:10 |
+| 8 | [Vliegveld](https://open.spotify.com/track/6T4c8NIzwTCZr0EW7vYWqx) | [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O) | [Vliegveld](https://open.spotify.com/album/6JWWmdv51eTguuGmI2F6Cj) | 2:10 |
+| 9 | [Extra](https://open.spotify.com/track/4LTSN3uEYbjO5U0To8hBnU) | [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Extra](https://open.spotify.com/album/5p9qGvkq7jcCFibGsaqTQ0) | 2:16 |
+| 10 | [STUK](https://open.spotify.com/track/6ktcLOodfzrT0e9G810fVZ) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [STUK](https://open.spotify.com/album/7CNunsUm1e9qFJcEPD9T2f) | 1:49 |
 | 11 | [Brassen](https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde \(Deluxe\)](https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta) | 2:23 |
 | 12 | [BARZ](https://open.spotify.com/track/2aB7oEYgD3beidlijXZNzr) | [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7), [Della](https://open.spotify.com/artist/7eWWFCSHZYcLaeRLkcuVEy) | [BARZ](https://open.spotify.com/album/2kvFrbKl53nTIdgPbFK8sk) | 2:03 |
 | 13 | [Wap Wap \(feat\. Ronnie Flex\)](https://open.spotify.com/track/6zyGYgUKH7tjp022XxLIUb) | [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Wap Wap \(feat\. Ronnie Flex\)](https://open.spotify.com/album/4LwWZvvuHDOF6pZuLYX0RA) | 2:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Stenen & Liquide](https://open.spotify.com/track/6BwAzx1XS2j7QTHPFPOnEm) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Stenen & Liquide](https://open.spotify.com/album/2gXnEAPoYOUvy6sfk2H2db) | 1:48 |
 | 60 | [Maak Me Niet Heet](https://open.spotify.com/track/0npU90BM992t07Oh3hfaYb) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [De Ene Hand Wast De Ander \(Deluxe\)](https://open.spotify.com/album/4kiNumKo95FBrtwmIC6uF5) | 3:09 |
 
-Snapshot ID: `AAAAAELVSgYAvi0HQWKFW7T0Wvv+tE8n`
+Snapshot ID: `AAAAANcJJz/YiDPLoidrNS7w8s7im3TT`

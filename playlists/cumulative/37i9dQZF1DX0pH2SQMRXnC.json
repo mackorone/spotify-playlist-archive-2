@@ -133,6 +133,32 @@
     },
     {
       "album": {
+        "name": "4 THE SCENE",
+        "url": "https://open.spotify.com/album/6KP7d6om2F114FQZ8x3nM0"
+      },
+      "artists": [
+        {
+          "name": "4444 OF A KIND",
+          "url": "https://open.spotify.com/artist/69aOmjpvxqUDUaZUvuw6Di"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202838,
+      "name": "4 THE SCENE",
+      "url": "https://open.spotify.com/track/2Tbz9ZMUoqh6iCHafGYfV4"
+    },
+    {
+      "album": {
         "name": "99 PROBLEMS (But My Kick Ain't One)",
         "url": "https://open.spotify.com/album/278oMqLt41EDRUKM3Wzs07"
       },
@@ -144,7 +170,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 130620,
       "name": "99 PROBLEMS (But My Kick Ain't One)",
       "url": "https://open.spotify.com/track/776HmtbPE028tXrfav6KVe"
@@ -1612,7 +1638,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 211764,
       "name": "Big City Life - BassWar & CaoX Remix",
       "url": "https://open.spotify.com/track/0gkSAe8SBP4ufXgIMfB5VK"
@@ -19334,7 +19360,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 230355,
       "name": "The Next Dimension - APEX 2026 OST",
       "url": "https://open.spotify.com/track/4GtxTKlRiO3Hr7t3bWpdtT"
@@ -20272,6 +20298,28 @@
       "duration_ms": 186424,
       "name": "Together As One",
       "url": "https://open.spotify.com/track/22bQ4WJUJeRRZIV1y571Vt"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Can Wait",
+        "url": "https://open.spotify.com/album/23R50J5esOKMbTLcnQmBjU"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Tomorrow Can Wait",
+      "url": "https://open.spotify.com/track/3rBnU7nnxpfJd4SZDqpkSX"
     },
     {
       "album": {
@@ -21880,6 +21928,24 @@
       "duration_ms": 210750,
       "name": "Welcome To The Underground",
       "url": "https://open.spotify.com/track/5opy1J4SMBUFrwQ03weuZ4"
+    },
+    {
+      "album": {
+        "name": "What Is Love",
+        "url": "https://open.spotify.com/album/5NMlGVHuG1mm6m63Tbil8a"
+      },
+      "artists": [
+        {
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149156,
+      "name": "What Is Love",
+      "url": "https://open.spotify.com/track/6yO9indH9XB6IP2YVmVskI"
     },
     {
       "album": {

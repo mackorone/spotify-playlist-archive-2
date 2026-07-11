@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11744,
+  "num_followers": 11743,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "NEXT",
-        "url": "https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo"
-      },
-      "artists": [
-        {
-          "name": "javier",
-          "url": "https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY"
-        }
-      ],
-      "duration_ms": 113089,
-      "name": "SIE KLEI",
-      "url": "https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "To nie pop (intro) / M\u0142ody Ma Plik",
         "url": "https://open.spotify.com/album/3vGjPsCJKSSEbZNv2eTR6K"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 130455,
       "name": "To nie pop (intro)",
       "url": "https://open.spotify.com/track/7Ll9a1sk3cX6w9VmjkpqsH"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "NEXT",
+        "url": "https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo"
+      },
+      "artists": [
+        {
+          "name": "javier",
+          "url": "https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY"
+        }
+      ],
+      "duration_ms": 113089,
+      "name": "SIE KLEI",
+      "url": "https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1271,6 +1271,30 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "Wytrych",
+        "url": "https://open.spotify.com/album/34nYNHsFR8qVWAEzHSBP1a"
+      },
+      "artists": [
+        {
+          "name": "W.E.N.A.",
+          "url": "https://open.spotify.com/artist/183C4P5B8pmW1zmI4himpF"
+        },
+        {
+          "name": "Amatowsky",
+          "url": "https://open.spotify.com/artist/4RTruGcOVuIPiDVxOJbG7q"
+        },
+        {
+          "name": "Dj Qmak",
+          "url": "https://open.spotify.com/artist/2LUyULm4hu6KViQeXRUAkJ"
+        }
+      ],
+      "duration_ms": 175413,
+      "name": "K-R-\u00d3-L",
+      "url": "https://open.spotify.com/track/2JyhAYl6cwkUwsLJkAo52a"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Reszty Nie Trzeba",
         "url": "https://open.spotify.com/album/6wwmbJkCTg8PabC4BtmqX5"
       },
@@ -1307,30 +1331,6 @@
       "duration_ms": 282188,
       "name": "Szko\u0142a \u017bycia",
       "url": "https://open.spotify.com/track/5UQ4wo1cpnTloANWlQuAnM"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "Wytrych",
-        "url": "https://open.spotify.com/album/34nYNHsFR8qVWAEzHSBP1a"
-      },
-      "artists": [
-        {
-          "name": "W.E.N.A.",
-          "url": "https://open.spotify.com/artist/183C4P5B8pmW1zmI4himpF"
-        },
-        {
-          "name": "Amatowsky",
-          "url": "https://open.spotify.com/artist/4RTruGcOVuIPiDVxOJbG7q"
-        },
-        {
-          "name": "Dj Qmak",
-          "url": "https://open.spotify.com/artist/2LUyULm4hu6KViQeXRUAkJ"
-        }
-      ],
-      "duration_ms": 175413,
-      "name": "K-R-\u00d3-L",
-      "url": "https://open.spotify.com/track/2JyhAYl6cwkUwsLJkAo52a"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "BUKOWSKI",
+        "url": "https://open.spotify.com/album/1lSvpuKWJUxISwWHRieKui"
+      },
+      "artists": [
+        {
+          "name": "Ten Typ Mes",
+          "url": "https://open.spotify.com/artist/3AU8FAva0w5qdrf5IVu620"
+        }
+      ],
+      "duration_ms": 131076,
+      "name": "LOS NIE CHCIA\u0141 INACZEJ",
+      "url": "https://open.spotify.com/track/5h6pVFRP8dxX1F0OKHgczM"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Ca\u0142y Blok",
         "url": "https://open.spotify.com/album/70ZjNOhf40mWJZiODibJBe"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 170685,
       "name": "Ca\u0142y Blok",
       "url": "https://open.spotify.com/track/5IZA5pBAArGLdlKw9Ary8X"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "BUKOWSKI",
-        "url": "https://open.spotify.com/album/1lSvpuKWJUxISwWHRieKui"
-      },
-      "artists": [
-        {
-          "name": "Ten Typ Mes",
-          "url": "https://open.spotify.com/artist/3AU8FAva0w5qdrf5IVu620"
-        }
-      ],
-      "duration_ms": 131076,
-      "name": "LOS NIE CHCIA\u0141 INACZEJ",
-      "url": "https://open.spotify.com/track/5h6pVFRP8dxX1F0OKHgczM"
     },
     {
       "added_at": "2026-04-09 22:12:46",

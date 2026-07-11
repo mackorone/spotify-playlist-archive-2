@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Trudy",
+  "description": "The home of Canadian country music. Cover: Chevy Beaulieu",
   "name": "North Country",
   "tracks": [
     {
@@ -528,7 +528,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 216885,
       "name": "Any Easier",
       "url": "https://open.spotify.com/track/0RGPhUgF2xzoyg8jnCzVPO"
@@ -950,6 +950,24 @@
       "duration_ms": 194346,
       "name": "Before You (Wedding Version)",
       "url": "https://open.spotify.com/track/0g9rZ52Z1ADLwWVh6F1Z1f"
+    },
+    {
+      "album": {
+        "name": "Being Free",
+        "url": "https://open.spotify.com/album/4QqwaUHjqb9QsoP4F2fqHe"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vanderzon",
+          "url": "https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216598,
+      "name": "Being Free",
+      "url": "https://open.spotify.com/track/4BiENiXpFT8dNinYMtwxCo"
     },
     {
       "album": {
@@ -2754,7 +2772,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 166792,
       "name": "Dirty Rosie",
       "url": "https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC"
@@ -3241,6 +3259,28 @@
     },
     {
       "album": {
+        "name": "Faded Blue Jeans",
+        "url": "https://open.spotify.com/album/7jbfvhV7NYQoXYVFdJwhD2"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Josh Homme",
+          "url": "https://open.spotify.com/artist/03xb2BUdIFzuRQ6o88yfCB"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151962,
+      "name": "Faded Blue Jeans (feat. Josh Homme)",
+      "url": "https://open.spotify.com/track/5Zdks1bLKiYAP9HJEh65kc"
+    },
+    {
+      "album": {
         "name": "Family Drama",
         "url": "https://open.spotify.com/album/5ta2vcaiJPQqOIQ8dKyJiy"
       },
@@ -3654,7 +3694,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 155332,
       "name": "Fortune Teller",
       "url": "https://open.spotify.com/track/43mitDdTC0YfAQ0y1o8jaS"
@@ -3936,6 +3976,24 @@
       "duration_ms": 183880,
       "name": "Go Get Er",
       "url": "https://open.spotify.com/track/3InbmgnbaVKkrI3mBMrnBq"
+    },
+    {
+      "album": {
+        "name": "God Knows I Try",
+        "url": "https://open.spotify.com/album/7IQPPigGG11oSuzWYIEKZF"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205950,
+      "name": "God Knows I Try",
+      "url": "https://open.spotify.com/track/1Im9Iuc0kOw6CqZo9AItEo"
     },
     {
       "album": {
@@ -4643,6 +4701,24 @@
     },
     {
       "album": {
+        "name": "Chevy Beaulieu",
+        "url": "https://open.spotify.com/album/0FQiGrFyiSDAWo0XEjHXDu"
+      },
+      "artists": [
+        {
+          "name": "Chevy Beaulieu",
+          "url": "https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Hell If I Know",
+      "url": "https://open.spotify.com/track/15dkTfTBwtG4tpz3hVbMYu"
+    },
+    {
+      "album": {
         "name": "HELL YEAH",
         "url": "https://open.spotify.com/album/4hI2zD9yAGH86zksyQE1U6"
       },
@@ -4820,6 +4896,24 @@
       "duration_ms": 191500,
       "name": "Home",
       "url": "https://open.spotify.com/track/0Eiif2eLqWumvKSDejgT8F"
+    },
+    {
+      "album": {
+        "name": "Home In Your Broken Heart",
+        "url": "https://open.spotify.com/album/6UW0EYuBmuScXfzQmfolg9"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222710,
+      "name": "Home In Your Broken Heart",
+      "url": "https://open.spotify.com/track/23jTdWCqELQZAPfOzG1jtB"
     },
     {
       "album": {
@@ -5474,6 +5568,24 @@
       "duration_ms": 210445,
       "name": "I Should Be Your Man",
       "url": "https://open.spotify.com/track/0xDdiaSUAtpn6QPAlYwNUE"
+    },
+    {
+      "album": {
+        "name": "I Sure Hope So",
+        "url": "https://open.spotify.com/album/6AF4c8unC9GTqPnAc5MHUv"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209166,
+      "name": "I Sure Hope So",
+      "url": "https://open.spotify.com/track/1sx70yd6jpIAGZPy9xgocz"
     },
     {
       "album": {
@@ -6133,6 +6245,24 @@
     },
     {
       "album": {
+        "name": "Killed My Silverado",
+        "url": "https://open.spotify.com/album/65CoarfdhnrxT9djRQJcbS"
+      },
+      "artists": [
+        {
+          "name": "Evan Burrison",
+          "url": "https://open.spotify.com/artist/429Zw6geVC0AUPv1sq0bf4"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163035,
+      "name": "Killed My Silverado",
+      "url": "https://open.spotify.com/track/7no6q4Nx6mJus9km9s4KV6"
+    },
+    {
+      "album": {
         "name": "Killer Instinct",
         "url": "https://open.spotify.com/album/0ApCfCsGsqL8cGvp14gzNw"
       },
@@ -6148,6 +6278,24 @@
       "duration_ms": 197625,
       "name": "Killer Instinct",
       "url": "https://open.spotify.com/track/1nSxYz9KGiqPUoBF4RIFcM"
+    },
+    {
+      "album": {
+        "name": "Killing Spree",
+        "url": "https://open.spotify.com/album/7hRmv19NTFBQc2Pq8Cc0h8"
+      },
+      "artists": [
+        {
+          "name": "Heather Russell",
+          "url": "https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158530,
+      "name": "Killing Spree",
+      "url": "https://open.spotify.com/track/6L64IOKXyZjIS6rpdwEf8Z"
     },
     {
       "album": {
@@ -6892,6 +7040,24 @@
       "duration_ms": 165681,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/2RWMwlqu6w92RmUVON25EZ"
+    },
+    {
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/6UqGAVVxW5CTW92XPkWqOb"
+      },
+      "artists": [
+        {
+          "name": "Jessica Sevier",
+          "url": "https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186884,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7DQ5YNHYWwEyEqGsb4JWfQ"
     },
     {
       "album": {
@@ -10540,7 +10706,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 190539,
       "name": "Springsteen",
       "url": "https://open.spotify.com/track/0ZaO9StpzY9hRGYHoGeu89"
@@ -12186,7 +12352,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 173174,
       "name": "Way Back",
       "url": "https://open.spotify.com/track/7ABu9tAiv5hMGiyJgOqe8I"

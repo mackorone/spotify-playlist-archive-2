@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-348 songs - 18 hr 31 min
+352 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [All Clear](https://open.spotify.com/track/1gLsIbGueJZ3GFeE8W9PnC) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:44 | 2022-07-22 | 2023-02-19 |
 | [All Clear](https://open.spotify.com/track/5VRDbvm8OaLHqMu7D9lvw5) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:44 | 2023-02-13 | 2024-04-19 |
 | [All Clear](https://open.spotify.com/track/6kwPQEP7rHdubkgDvVhNOf) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [All Clear](https://open.spotify.com/album/1MZ1vm0zHq7Q2jCMhz1A7R) | 3:44 | 2021-12-10 | 2025-03-27 |
+| [Always Know](https://open.spotify.com/track/2suwcmJtyWrVOTI7o0x144) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Always Know](https://open.spotify.com/album/3dMZmG47IGKlzmzHw8Aixc) | 3:43 | 2026-07-10 |  |
 | [Ambre](https://open.spotify.com/track/25zykbJGBYXYjnq5VyhO3N) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Wintermusik](https://open.spotify.com/album/7wkQV8xvauPFBG2xC3pawK) | 3:47 | 2021-12-10 | 2023-01-04 |
 | [Ambro](https://open.spotify.com/track/5kU2kYLFu3uNDBlmjvvNxg) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Ambro](https://open.spotify.com/album/3B6FfU08qymnkrY7paVtUX) | 2:45 | 2021-12-10 | 2023-01-04 |
 | [Amor \- C.B\. Rework](https://open.spotify.com/track/7bUwtVVvPPdlW6Cghagfhn) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Daniel Isn’t Real \(Expanded Edition\)](https://open.spotify.com/album/7lew2WtSATnm25If8B9cAZ) | 4:10 | 2021-12-10 | 2023-03-15 |
@@ -154,6 +155,7 @@
 | [Last to Let Go \- Daigo Hanada Rework](https://open.spotify.com/track/5GN6PZdeSyRREY9EbxlaHL) | [Richard Luke](https://open.spotify.com/artist/6d6LoDu28FVz8DRGehoClE), [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Last to Let Go \(Daigo Hanada Rework\)](https://open.spotify.com/album/6Klc4LbsQR8EOqxiSkglNK) | 3:38 | 2022-07-22 | 2024-04-19 |
 | [Laura \(Piano Vision\)](https://open.spotify.com/track/63ofp7btGGtGE4vRruo5vu) | [Stimming x Lambert](https://open.spotify.com/artist/1TTO5SuWJWgnOOGMdwVvD5) | [Laura \(Piano Vision\)](https://open.spotify.com/album/2244WAWYH7iDNwRyR5oAYT) | 1:51 | 2022-07-08 | 2023-01-04 |
 | [LEO “The Fierce”](https://open.spotify.com/track/4aHYB3DwRl5ladGeGjoFJ9) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [180°](https://open.spotify.com/album/4hFVZKTMTQHEDrG1bzlEJs) | 4:38 | 2024-08-23 | 2026-04-03 |
+| [Levitare](https://open.spotify.com/track/6LEvhUeNOoOvy6w04LZR1J) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6) | [Levitare](https://open.spotify.com/album/6zGWHambm6rTuLI97egH48) | 2:38 | 2026-07-10 |  |
 | [Liebe X \- Version for Piano Solo](https://open.spotify.com/track/0JDrhUQ1VH0TX6ZbVh7wDR) | [Simon Bächinger](https://open.spotify.com/artist/7kPNlVK1qPDXmPP5EygHRu) | [Liebe X \(Version for Piano Solo\)](https://open.spotify.com/album/0nDzkWedJwjoQlZ98j9Qrc) | 3:15 | 2026-05-22 |  |
 | [Like Stars In The Sky \- Sleep Rework](https://open.spotify.com/track/7HUCEBu3fo5F9v8oYaJyl4) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Like The Stars In The Sky \(Sleep Rework\)](https://open.spotify.com/album/00yIp3AqgVa9eDMtXijQog) | 3:01 | 2025-02-28 |  |
 | [Lilac](https://open.spotify.com/track/67U3BF1e1PTw6DF1LLRPcF) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8) | [Lilac](https://open.spotify.com/album/0yEDrVPu9cPGu23o1ulSbC) | 4:05 | 2021-12-10 | 2026-06-20 |
@@ -278,6 +280,7 @@
 | [Silhouette](https://open.spotify.com/track/2hwV3gqCQ0hmS8sp8vXioj) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Silhouette](https://open.spotify.com/album/04KfDPzBhw4C3iAqNJIV5A) | 2:23 | 2021-12-10 | 2023-03-15 |
 | [Sleep Spiral](https://open.spotify.com/track/3oRu4U9c9pRVQfMsvM3qcg) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Sleep Spiral](https://open.spotify.com/album/3EuaCwg2cuCbxPek2zVWJ4) | 5:40 | 2026-06-19 |  |
 | [Small Falls](https://open.spotify.com/track/3F5fg5XwKVsD01TlnMxWfr) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G) | [Cascades, Vol\. 1](https://open.spotify.com/album/4TwUJ8ch5mqjqO2J9RyXVe) | 2:32 | 2025-05-23 |  |
+| [So Far, Fine](https://open.spotify.com/track/5VTV5lV0g1CM8olKNQcm9G) | [Mattia Vlad Morleo](https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE) | [So Far, Fine](https://open.spotify.com/album/0yQc4BPZ6SOjz25Y09pHgB) | 2:26 | 2026-07-10 |  |
 | [Soglia](https://open.spotify.com/track/754YO0HqOWBbksx2vmWTAj) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Soglia](https://open.spotify.com/album/2JRm3nGkmyz6wBFCpkEJ3X) | 2:41 | 2026-05-08 |  |
 | [Solas](https://open.spotify.com/track/0yfMign5fsLtw5I4pK73ge) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Solas](https://open.spotify.com/album/2XZXXXuThQ8JwPjoTcGIkF) | 2:26 | 2025-05-16 |  |
 | [Solomeo](https://open.spotify.com/track/1FWA5vw5kvSjnOPS1fPZTD) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [Intercosmia Vol\. 1](https://open.spotify.com/album/3y5tT5o4of6SEyndkccXMI) | 3:34 | 2024-11-08 | 2026-04-03 |
@@ -319,6 +322,7 @@
 | [The White Blur Was a Fox \- Nowhere Sessions](https://open.spotify.com/track/2RnBhNFZXgDpRP7Oa0AZgl) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [The White Blur Was a Fox \(Nowhere Sessions\)](https://open.spotify.com/album/5WtN0AZd4vgoAucya1rom9) | 3:29 | 2026-04-17 |  |
 | [Thirty](https://open.spotify.com/track/3VkJtin5wvok5H43TN4xv5) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Thirty](https://open.spotify.com/album/4h5DGFxPNsrOW3wxs2miTY) | 2:34 | 2022-01-21 |  |
 | [Through The Blue \- Piano Version](https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Through The Blue \(Piano Version\)](https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx) | 3:45 | 2023-03-31 |  |
+| [Through The Mist](https://open.spotify.com/track/3sC1qfvNq25NOriczIEvGb) | [Alex Davies](https://open.spotify.com/artist/3kKkkhpN9Qf63I74rhh2l4), [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [Through The Mist](https://open.spotify.com/album/6spT2hFu7gHXYLIUFUHmP0) | 3:59 | 2026-07-10 |  |
 | [Tides \- Soft Felt Piano](https://open.spotify.com/track/4daFxaQC8EQLHVcryi2sRA) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ), [Marco Velocci](https://open.spotify.com/artist/0fey1vDYFmbGGRWCo1iwWe) | [Tides \(Soft Felt Piano\)](https://open.spotify.com/album/2tE1PBjVgv6rg6I5qkIeRH) | 5:33 | 2025-12-22 |  |
 | [Time Spent](https://open.spotify.com/track/3ZLzPbSOw4OfVqa5zyEWCu) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Owl Splinters](https://open.spotify.com/album/0UCWmdeObrNjjW92mA6bRn) | 2:09 | 2021-12-10 | 2023-01-04 |
 | [Timothy Is Sleeping](https://open.spotify.com/track/6vYjY9nVrHxfKQ2ByvcuTu) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Lumière \(Expanded\)](https://open.spotify.com/album/5sPxNUytj37p0cQJ8KRbOZ) | 1:55 | 2026-06-12 |  |

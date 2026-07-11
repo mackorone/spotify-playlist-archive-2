@@ -1,6 +1,6 @@
 {
   "description": "Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.",
-  "num_followers": 33514,
+  "num_followers": 33532,
   "original_name": "The Sims Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
+        "name": "All We Know Is Falling",
+        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
         "name": "True Colors",
         "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 218293,
       "name": "Beautiful Now",
       "url": "https://open.spotify.com/track/2ISSQPb9LHHiV6ng2NXosL"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
-        "name": "All We Know Is Falling",
-        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 200583,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "White Feathers",
         "url": "https://open.spotify.com/album/52koatNHePHRWEmmkP0z2Z"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 221520,
       "name": "Too Shy",
       "url": "https://open.spotify.com/track/6WEBIVqiEsevfgJefTyuQQ"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 200583,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "The Big Bang",
-        "url": "https://open.spotify.com/album/4KiFoNGSzCB5vxGrobuUcv"
-      },
-      "artists": [
-        {
-          "name": "Rock Mafia",
-          "url": "https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47"
-        }
-      ],
-      "duration_ms": 160200,
-      "name": "The Big Bang",
-      "url": "https://open.spotify.com/track/0SGojwNP2zUrgDyeoBQxYO"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 172480,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "The Big Bang",
+        "url": "https://open.spotify.com/album/4KiFoNGSzCB5vxGrobuUcv"
+      },
+      "artists": [
+        {
+          "name": "Rock Mafia",
+          "url": "https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "The Big Bang",
+      "url": "https://open.spotify.com/track/0SGojwNP2zUrgDyeoBQxYO"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/158sVr4HeR7ukWJMDGmdFw"
-      },
-      "artists": [
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        }
-      ],
-      "duration_ms": 185460,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/1abN81EF3BNKoVpSxvQXPi"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Nack Nostalgia",
         "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 187433,
       "name": "Nack Nostalgia",
       "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/158sVr4HeR7ukWJMDGmdFw"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        }
+      ],
+      "duration_ms": 185460,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/1abN81EF3BNKoVpSxvQXPi"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Dream Into Action (2018 Expanded & Remastered Edition)",
-        "url": "https://open.spotify.com/album/4RCG2vLqJFqEeVRA4y3BYB"
-      },
-      "artists": [
-        {
-          "name": "Howard Jones",
-          "url": "https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "Things Can Only Get Better - 2018 Remaster",
-      "url": "https://open.spotify.com/track/2zbXf2qz52eXmw4dpHWWq6"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
         "url": "https://open.spotify.com/album/4sKqN5y5RydUVgSSccH13q"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 198000,
       "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
       "url": "https://open.spotify.com/track/7HneEBTvTra2CRYsxgMOAi"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Dream Into Action (2018 Expanded & Remastered Edition)",
+        "url": "https://open.spotify.com/album/4RCG2vLqJFqEeVRA4y3BYB"
+      },
+      "artists": [
+        {
+          "name": "Howard Jones",
+          "url": "https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY"
+        }
+      ],
+      "duration_ms": 235146,
+      "name": "Things Can Only Get Better - 2018 Remaster",
+      "url": "https://open.spotify.com/track/2zbXf2qz52eXmw4dpHWWq6"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Bom Bom",
-        "url": "https://open.spotify.com/album/69onf0drqjCpyjgJsIb8BJ"
-      },
-      "artists": [
-        {
-          "name": "Sam And The Womp",
-          "url": "https://open.spotify.com/artist/3tgiOZXeC1DIimfprvfL64"
-        }
-      ],
-      "duration_ms": 174033,
-      "name": "Bom Bom - Radio Edit",
-      "url": "https://open.spotify.com/track/0d5f6gzzW1Pgx9uJsLrSDP"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Just The Beginning",
         "url": "https://open.spotify.com/album/55LUvkPPMUgwQVmypS3Wex"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 172493,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/4XrvRf68c9H4orZZ9KoldQ"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Bom Bom",
+        "url": "https://open.spotify.com/album/69onf0drqjCpyjgJsIb8BJ"
+      },
+      "artists": [
+        {
+          "name": "Sam And The Womp",
+          "url": "https://open.spotify.com/artist/3tgiOZXeC1DIimfprvfL64"
+        }
+      ],
+      "duration_ms": 174033,
+      "name": "Bom Bom - Radio Edit",
+      "url": "https://open.spotify.com/track/0d5f6gzzW1Pgx9uJsLrSDP"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Home Video",
-        "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 250613,
-      "name": "Hot & Heavy",
-      "url": "https://open.spotify.com/track/6SIooImkHGKCIwgUZ3WDvD"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "The Way It Was",
         "url": "https://open.spotify.com/album/7drIw3eAGaFbqjAQe9EMYF"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 235813,
       "name": "Kiss Me Slowly",
       "url": "https://open.spotify.com/track/72R0X0h8YaxYNpegeoOl0M"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Home Video",
+        "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 250613,
+      "name": "Hot & Heavy",
+      "url": "https://open.spotify.com/track/6SIooImkHGKCIwgUZ3WDvD"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Touchin\u2019 (The Pack)",
-        "url": "https://open.spotify.com/album/5HfNizUWZsXJvHE2pMrzmw"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        }
-      ],
-      "duration_ms": 193797,
-      "name": "Touchin\u2019",
-      "url": "https://open.spotify.com/track/0yzVYUHAAu9AQdrp9s7vGk"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Streets Of Gold",
         "url": "https://open.spotify.com/album/1W9toxqtPfieKk6cft0f7R"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 190706,
       "name": "Double Vision",
       "url": "https://open.spotify.com/track/3o2ESAMet1zR1aASlzrIxO"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Touchin\u2019 (The Pack)",
+        "url": "https://open.spotify.com/album/5HfNizUWZsXJvHE2pMrzmw"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        }
+      ],
+      "duration_ms": 193797,
+      "name": "Touchin\u2019",
+      "url": "https://open.spotify.com/track/0yzVYUHAAu9AQdrp9s7vGk"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Secondhand Rapture",
-        "url": "https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt"
-      },
-      "artists": [
-        {
-          "name": "MS MR",
-          "url": "https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Insomniatic",
         "url": "https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 175920,
       "name": "Chemicals React - Remix",
       "url": "https://open.spotify.com/track/7vOjTY220BqIttYDbwshED"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Secondhand Rapture",
+        "url": "https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt"
+      },
+      "artists": [
+        {
+          "name": "MS MR",
+          "url": "https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
+        "name": "Sleep Talking",
+        "url": "https://open.spotify.com/album/5j2SxMw6xC8wNKUfrtgjvQ"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "duration_ms": 224223,
+      "name": "Sleep Talking",
+      "url": "https://open.spotify.com/track/0ojtOskzapucZWX767nQrc"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
         "name": "BREAD",
         "url": "https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 177760,
       "name": "Halloweenie VI: Possess Me",
       "url": "https://open.spotify.com/track/7kkZdXNVFUxtRVtwSQTnqU"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
-        "name": "Sleep Talking",
-        "url": "https://open.spotify.com/album/5j2SxMw6xC8wNKUfrtgjvQ"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
-        }
-      ],
-      "duration_ms": 224223,
-      "name": "Sleep Talking",
-      "url": "https://open.spotify.com/track/0ojtOskzapucZWX767nQrc"
     },
     {
       "added_at": "2026-02-13 19:31:47",

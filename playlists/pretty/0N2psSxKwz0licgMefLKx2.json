@@ -1,12 +1,12 @@
 {
   "description": "The biggest Country hits of the year w Morgan Wallen, Tucker Wetmore, and Josh Ross! Cover: Taylor Swift",
-  "num_followers": 11271,
+  "num_followers": 11272,
   "original_name": "2026 COUNTRY BANGERS \ud83e\udd20\ud83d\udd25",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAnSZgffI330eDU7g+NRYJ7JeXg3o4l",
+  "snapshot_id": "AAAnTKE9lV5dvlJ/kqYQT3ocm2MYocCV",
   "tracks": [
     {
       "added_at": "2026-07-04 00:11:13",
@@ -23,6 +23,22 @@
       "duration_ms": 178186,
       "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
+    },
+    {
+      "added_at": "2026-07-10 14:05:48",
+      "album": {
+        "name": "Who Told You That",
+        "url": "https://open.spotify.com/album/7MHzrc64ZU0SvegIKDSFzQ"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "duration_ms": 202160,
+      "name": "Who Told You That",
+      "url": "https://open.spotify.com/track/2DZKhX2k3XZqQ5h5jwJyGh"
     },
     {
       "added_at": "2026-07-04 00:11:13",
@@ -1479,22 +1495,6 @@
       "duration_ms": 217446,
       "name": "Damned If I Do",
       "url": "https://open.spotify.com/track/5Lf0Hm3SuFxFzjfhg0Sous"
-    },
-    {
-      "added_at": "2026-07-04 00:11:13",
-      "album": {
-        "name": "3,2,1",
-        "url": "https://open.spotify.com/album/5IPdGQ46nrjHlnBLpU5oGQ"
-      },
-      "artists": [
-        {
-          "name": "Tucker Wetmore",
-          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "3,2,1",
-      "url": "https://open.spotify.com/track/2mxyToKuuc2JGhxBNlJzUh"
     },
     {
       "added_at": "2026-07-04 00:11:13",

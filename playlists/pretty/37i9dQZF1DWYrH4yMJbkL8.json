@@ -1,38 +1,386 @@
 {
-  "description": "These are some of Cat Clyde's favourite songs by Indigenous artists.",
-  "num_followers": 60026,
+  "description": "These are some of LOV's favourite songs by Indigenous artists.",
+  "num_followers": 60025,
   "original_name": "Indigenous",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPe0ohJdLCOn5l3uyhgcCTtAL9vo",
+  "snapshot_id": "AAAAALUM5Qob31b7DnOhNt+2u563idlH",
   "tracks": [
     {
-      "added_at": "2026-05-08 19:40:24",
+      "added_at": "2026-07-10 04:03:06",
       "album": {
-        "name": "Rollin' & Tumblin'",
-        "url": "https://open.spotify.com/album/0zH3VfkDhdbBBTl80Q5Lyz"
+        "name": "Iskw\u00eaw",
+        "url": "https://open.spotify.com/album/6bHmF0MXOWZi9LSqKCCd2C"
       },
       "artists": [
         {
-          "name": "Blue Moon Marquee",
-          "url": "https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1"
-        },
-        {
-          "name": "Northern Cree",
-          "url": "https://open.spotify.com/artist/5n4JXEQjauDsFSHTjhHkDq"
+          "name": "LOV",
+          "url": "https://open.spotify.com/artist/36HaK4wNnlYPVsZzGtvbw1"
         }
       ],
-      "duration_ms": 211173,
-      "name": "Rollin' & Tumblin'",
-      "url": "https://open.spotify.com/track/33yETwxlok0VSSUqCKPwiK"
+      "duration_ms": 184768,
+      "name": "M\u00e2ci N\u00eemihtow",
+      "url": "https://open.spotify.com/track/2iSTBOBNxK8O361WPsxRDq"
     },
     {
-      "added_at": "2026-05-08 19:40:24",
+      "added_at": "2026-07-10 04:03:06",
       "album": {
-        "name": "Further From the Country",
-        "url": "https://open.spotify.com/album/4hLnzIN6eYqCmitWi6TIPO"
+        "name": "RED FUTURE (feat. Electric Fields)",
+        "url": "https://open.spotify.com/album/13zIKYYrCqLwiuphkkgII9"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        },
+        {
+          "name": "Electric Fields",
+          "url": "https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5"
+        }
+      ],
+      "duration_ms": 188755,
+      "name": "RED FUTURE (feat. Electric Fields)",
+      "url": "https://open.spotify.com/track/7nvnmUYiJYbHgGL0MDH7G0"
+    },
+    {
+      "added_at": "2026-07-10 04:03:06",
+      "album": {
+        "name": "Since 95",
+        "url": "https://open.spotify.com/album/6d3NMaDVgvGNRqpYbnDvya"
+      },
+      "artists": [
+        {
+          "name": "Jessa Sky",
+          "url": "https://open.spotify.com/artist/2s3owRsjkaanegjOOxmCC8"
+        },
+        {
+          "name": "LOV",
+          "url": "https://open.spotify.com/artist/36HaK4wNnlYPVsZzGtvbw1"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Since 95",
+      "url": "https://open.spotify.com/track/08MoHYHrP4t6QhGJvAOv19"
+    },
+    {
+      "added_at": "2026-07-10 04:03:06",
+      "album": {
+        "name": "Nation II Nation",
+        "url": "https://open.spotify.com/album/5SKS3EwP2Ifv8ypqUrWB3h"
+      },
+      "artists": [
+        {
+          "name": "The Halluci Nation",
+          "url": "https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z"
+        },
+        {
+          "name": "Northern Voice",
+          "url": "https://open.spotify.com/artist/3TfPTnc5AriMC5a4jUcNrT"
+        }
+      ],
+      "duration_ms": 271653,
+      "name": "Sisters",
+      "url": "https://open.spotify.com/track/6ZzHtu3SSeuG7vQ3LL7vjo"
+    },
+    {
+      "added_at": "2026-07-10 04:03:06",
+      "album": {
+        "name": "Avenue",
+        "url": "https://open.spotify.com/album/1OqqdHi0bzwTZmtHmFBak0"
+      },
+      "artists": [
+        {
+          "name": "Antoinex",
+          "url": "https://open.spotify.com/artist/0RIlGvo0OBtWiLsytJVkW9"
+        },
+        {
+          "name": "Rezcoast Grizz",
+          "url": "https://open.spotify.com/artist/4H2c41FCNwfcPZWK4ln889"
+        },
+        {
+          "name": "Nevad Brave",
+          "url": "https://open.spotify.com/artist/6zXvXdvLRTONKibZ4DT4iq"
+        }
+      ],
+      "duration_ms": 242608,
+      "name": "Avenue",
+      "url": "https://open.spotify.com/track/2s30LvjB2cs2UiKWcxfoWr"
+    },
+    {
+      "added_at": "2026-07-10 04:03:06",
+      "album": {
+        "name": "I Know (feat. Sebastian Gaskin)",
+        "url": "https://open.spotify.com/album/2eOeBodzY7yVPHRYmaspPI"
+      },
+      "artists": [
+        {
+          "name": "Shub",
+          "url": "https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A"
+        },
+        {
+          "name": "Sebastian Gaskin",
+          "url": "https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za"
+        }
+      ],
+      "duration_ms": 158145,
+      "name": "I Know (feat. Sebastian Gaskin)",
+      "url": "https://open.spotify.com/track/1mnwBR7jdBzarK4kMfHldV"
+    },
+    {
+      "added_at": "2026-07-10 04:03:06",
+      "album": {
+        "name": "The BlackStar",
+        "url": "https://open.spotify.com/album/2UccXSWuCSaSfpqMvJZ9r5"
+      },
+      "artists": [
+        {
+          "name": "Joey Stylez",
+          "url": "https://open.spotify.com/artist/5SEUHl3YJL3a5aQGuMDETE"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "Kool Runnin",
+      "url": "https://open.spotify.com/track/0oKKSJXyt4Bu6mscK21HNi"
+    },
+    {
+      "added_at": "2026-07-10 04:03:06",
+      "album": {
+        "name": "Iskw\u00eaw",
+        "url": "https://open.spotify.com/album/6bHmF0MXOWZi9LSqKCCd2C"
+      },
+      "artists": [
+        {
+          "name": "LOV",
+          "url": "https://open.spotify.com/artist/36HaK4wNnlYPVsZzGtvbw1"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Can I?",
+      "url": "https://open.spotify.com/track/4qiL8ya86x4uAXXTimNWk0"
+    },
+    {
+      "added_at": "2026-07-10 04:03:06",
+      "album": {
+        "name": "HEALIN'",
+        "url": "https://open.spotify.com/album/2FEEZlJNU8c9IZanC1QjW8"
+      },
+      "artists": [
+        {
+          "name": "Jessa Sky",
+          "url": "https://open.spotify.com/artist/2s3owRsjkaanegjOOxmCC8"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "HEALIN'",
+      "url": "https://open.spotify.com/track/7EozBDHGZdtIplbgtVtrXw"
+    },
+    {
+      "added_at": "2026-07-10 04:03:06",
+      "album": {
+        "name": "Death, Taxes, and Bitches",
+        "url": "https://open.spotify.com/album/0xeInzkIqUz2Tp7bArvWAX"
+      },
+      "artists": [
+        {
+          "name": "Natasha Fisher",
+          "url": "https://open.spotify.com/artist/644igyu4xfNmbD8r0SJmGJ"
+        }
+      ],
+      "duration_ms": 173205,
+      "name": "Death, Taxes, and Bitches",
+      "url": "https://open.spotify.com/track/3o9ewmaeBvREcMsUqqjlmN"
+    },
+    {
+      "added_at": "2026-07-10 04:03:06",
+      "album": {
+        "name": "Siibii",
+        "url": "https://open.spotify.com/album/15q5yC9luMLzyFr7InrnxA"
+      },
+      "artists": [
+        {
+          "name": "Siibii",
+          "url": "https://open.spotify.com/artist/5xIv9tG1tb1tBj3PsjIqgi"
+        }
+      ],
+      "duration_ms": 166226,
+      "name": "YOY",
+      "url": "https://open.spotify.com/track/04CdfLg3ywn9GHDzc5Fx1w"
+    },
+    {
+      "added_at": "2026-07-10 04:03:06",
+      "album": {
+        "name": "Sage My Soul",
+        "url": "https://open.spotify.com/album/403Imnd6NTzDTbwxVAR2ZU"
+      },
+      "artists": [
+        {
+          "name": "Tia Wood",
+          "url": "https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC"
+        }
+      ],
+      "duration_ms": 178550,
+      "name": "Sage My Soul",
+      "url": "https://open.spotify.com/track/1xKHTdrOlDwXVfe6mG8apM"
+    },
+    {
+      "added_at": "2026-07-10 04:03:06",
+      "album": {
+        "name": "#Greymagic",
+        "url": "https://open.spotify.com/album/7KezsLoMM5sEVb201BZvFg"
+      },
+      "artists": [
+        {
+          "name": "Joey Stylez",
+          "url": "https://open.spotify.com/artist/5SEUHl3YJL3a5aQGuMDETE"
+        }
+      ],
+      "duration_ms": 206520,
+      "name": "The Oath",
+      "url": "https://open.spotify.com/track/79sqeJg4x1o10roQRSfn3v"
+    },
+    {
+      "added_at": "2026-07-10 04:03:06",
+      "album": {
+        "name": "Heritage (Part Two)",
+        "url": "https://open.spotify.com/album/6rDzJ4JMDUucsf0S9pMsdK"
+      },
+      "artists": [
+        {
+          "name": "Shub",
+          "url": "https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A"
+        },
+        {
+          "name": "Aysanabee",
+          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
+        },
+        {
+          "name": "Drezus",
+          "url": "https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ"
+        }
+      ],
+      "duration_ms": 268016,
+      "name": "Rise (feat. Aysanabee & Drezus)",
+      "url": "https://open.spotify.com/track/0tGct69CHpfr5kwu9hkEeI"
+    },
+    {
+      "added_at": "2026-07-10 04:03:06",
+      "album": {
+        "name": "Dirt Roads",
+        "url": "https://open.spotify.com/album/45mNHIYIE7iJmIMMAMeha9"
+      },
+      "artists": [
+        {
+          "name": "Tia Wood",
+          "url": "https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC"
+        }
+      ],
+      "duration_ms": 192907,
+      "name": "Dirt Roads",
+      "url": "https://open.spotify.com/track/6abgej5aQVjWvSFydjqo6o"
+    },
+    {
+      "added_at": "2026-07-10 04:03:06",
+      "album": {
+        "name": "Iskw\u00eaw",
+        "url": "https://open.spotify.com/album/6bHmF0MXOWZi9LSqKCCd2C"
+      },
+      "artists": [
+        {
+          "name": "LOV",
+          "url": "https://open.spotify.com/artist/36HaK4wNnlYPVsZzGtvbw1"
+        }
+      ],
+      "duration_ms": 191880,
+      "name": "G.O.S",
+      "url": "https://open.spotify.com/track/7yzfQKfz4SgAr2b7LQ9HwP"
+    },
+    {
+      "added_at": "2026-07-10 04:03:06",
+      "album": {
+        "name": "What's The Point",
+        "url": "https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "duration_ms": 179563,
+      "name": "Bucket",
+      "url": "https://open.spotify.com/track/66IRmY2hl6QsaNDds7WG8h"
+    },
+    {
+      "added_at": "2026-07-10 04:03:06",
+      "album": {
+        "name": "Oh Vibrant Sky",
+        "url": "https://open.spotify.com/album/0f20QPMxFp4bGctmw8Fxns"
+      },
+      "artists": [
+        {
+          "name": "Wyatt C. Louis",
+          "url": "https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB"
+        }
+      ],
+      "duration_ms": 256614,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/1mWPMMMHKn9EiOlJMRDcSo"
+    },
+    {
+      "added_at": "2026-07-10 04:03:06",
+      "album": {
+        "name": "Where do you go?",
+        "url": "https://open.spotify.com/album/0ooUntJBS1dCdfdKhP24O0"
+      },
+      "artists": [
+        {
+          "name": "S\u00ebd\u00e9z\u00eb",
+          "url": "https://open.spotify.com/artist/0PwzBovCUFyeDocsf4L4ti"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "Where do you go?",
+      "url": "https://open.spotify.com/track/1YlhMiA7i1GnYlITASGgbk"
+    },
+    {
+      "added_at": "2026-07-10 04:03:06",
+      "album": {
+        "name": "Loved You All Along",
+        "url": "https://open.spotify.com/album/53SW1wC3QkXvEbE156AvbE"
+      },
+      "artists": [
+        {
+          "name": "Constant Reminder",
+          "url": "https://open.spotify.com/artist/164DQxtcAy1FfwVcnZv5K3"
+        }
+      ],
+      "duration_ms": 257230,
+      "name": "Loved You All Along",
+      "url": "https://open.spotify.com/track/6WezXltnNDwOINzjcFdykZ"
+    },
+    {
+      "added_at": "2026-07-10 04:03:06",
+      "album": {
+        "name": "Chandler",
+        "url": "https://open.spotify.com/album/6n4MUgNl5I0ZndmMO3AaZV"
+      },
+      "artists": [
+        {
+          "name": "Wyatt C. Louis",
+          "url": "https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB"
+        }
+      ],
+      "duration_ms": 172413,
+      "name": "Dancing with Sue",
+      "url": "https://open.spotify.com/track/59Frl2BCKGy6las4ickX0S"
+    },
+    {
+      "added_at": "2026-07-10 04:03:06",
+      "album": {
+        "name": "Stand in the Joy",
+        "url": "https://open.spotify.com/album/2r3IZ2sjXvKm14wZEUZC49"
       },
       "artists": [
         {
@@ -40,449 +388,185 @@
           "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
         }
       ],
-      "duration_ms": 176300,
-      "name": "Flowers on the Dash",
-      "url": "https://open.spotify.com/track/2saySH2zRgmNq16TFZS27W"
+      "duration_ms": 185920,
+      "name": "When You Miss Someone",
+      "url": "https://open.spotify.com/track/0WTMkjTjqKy2KnNQYGfQI5"
     },
     {
-      "added_at": "2026-05-08 19:40:24",
+      "added_at": "2026-07-10 04:03:06",
       "album": {
-        "name": "Good Buddy",
-        "url": "https://open.spotify.com/album/2iIkOsqJ9gRP8oEM2NRvfQ"
+        "name": "The Grapefruit Skies",
+        "url": "https://open.spotify.com/album/5Rt8iiZpgYCrgEZ5Xe5bY3"
       },
       "artists": [
         {
-          "name": "FONTINE",
-          "url": "https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy"
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
         }
       ],
-      "duration_ms": 154853,
-      "name": "Good Buddy",
-      "url": "https://open.spotify.com/track/7s3LXB2IecZ0E3pijltHKu"
+      "duration_ms": 199841,
+      "name": "Wash over Me",
+      "url": "https://open.spotify.com/track/6z8fJYLXTqxCfSt9lwK2n8"
     },
     {
-      "added_at": "2026-05-08 19:40:24",
+      "added_at": "2026-07-10 04:03:06",
       "album": {
-        "name": "The Legendary Sun Classics",
-        "url": "https://open.spotify.com/album/3NVX14fsKVOBt8mPbUMgwj"
+        "name": "Inuit Legend",
+        "url": "https://open.spotify.com/album/5sNLJQbxeNGwRkQtec3OGF"
       },
       "artists": [
         {
-          "name": "Charlie Feathers",
-          "url": "https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN"
+          "name": "Beatrice Deer",
+          "url": "https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe"
         }
       ],
-      "duration_ms": 113950,
-      "name": "The Man In Love",
-      "url": "https://open.spotify.com/track/1yDAzE81UefB7767FQktZw"
+      "duration_ms": 219019,
+      "name": "Wolf Woman",
+      "url": "https://open.spotify.com/track/3MebqUHhJ8PtSiU4rhyThc"
     },
     {
-      "added_at": "2026-05-08 19:40:24",
+      "added_at": "2026-07-10 04:03:06",
       "album": {
-        "name": "Mud Blood Bone",
-        "url": "https://open.spotify.com/album/3Jmb3wYx7WLoiUGn7WIeZS"
+        "name": "Purple Blanket",
+        "url": "https://open.spotify.com/album/2oeksNbwpU1PNGOScv146y"
       },
       "artists": [
         {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+          "name": "S\u00ebd\u00e9z\u00eb",
+          "url": "https://open.spotify.com/artist/0PwzBovCUFyeDocsf4L4ti"
         }
       ],
-      "duration_ms": 142596,
-      "name": "Wild One",
-      "url": "https://open.spotify.com/track/3VM4XZuEsP9GCxuH4zydNa"
+      "duration_ms": 277664,
+      "name": "Purple Blanket",
+      "url": "https://open.spotify.com/track/13FsL75nqSbhoktkkkYiNJ"
     },
     {
-      "added_at": "2026-05-08 19:40:24",
+      "added_at": "2026-07-10 04:03:06",
       "album": {
-        "name": "Sings: With a Heart - With a Beat",
-        "url": "https://open.spotify.com/album/7eeVrjFmABcDANgdi5t3RF"
+        "name": "There Are No Goodbyes",
+        "url": "https://open.spotify.com/album/3fPwEWQBP5fSbeP8hp6js1"
       },
       "artists": [
         {
-          "name": "Marvin Rainwater",
-          "url": "https://open.spotify.com/artist/0io243tshqbvutIxj44rMy"
+          "name": "Randy Wood",
+          "url": "https://open.spotify.com/artist/3KmbAgLvGynHxwke0lSdxA"
         }
       ],
-      "duration_ms": 132560,
-      "name": "Gotta Go Get My Baby",
-      "url": "https://open.spotify.com/track/1AGVitdA8VBXpi0Z2G0Uvi"
+      "duration_ms": 167173,
+      "name": "Don't Ever Go Away",
+      "url": "https://open.spotify.com/track/7iUW0tPMYlsSZAmccEzLRe"
     },
     {
-      "added_at": "2026-05-08 19:40:24",
+      "added_at": "2026-07-10 04:03:06",
       "album": {
-        "name": "Put Your Feathers On",
-        "url": "https://open.spotify.com/album/51p944Re7VpiQylcRVMbMr"
+        "name": "Iskwewak - Songs of Indigenous Womanhood",
+        "url": "https://open.spotify.com/album/4kxpjT2AC25hLcLisNWRHj"
       },
       "artists": [
         {
-          "name": "Blue Moon Marquee",
-          "url": "https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1"
-        },
-        {
-          "name": "Northern Cree",
-          "url": "https://open.spotify.com/artist/5n4JXEQjauDsFSHTjhHkDq"
+          "name": "Fawn Wood",
+          "url": "https://open.spotify.com/artist/7HrK2HP1tJfnMW2HFDw4kb"
         }
       ],
-      "duration_ms": 222853,
-      "name": "Put Your Feathers On",
-      "url": "https://open.spotify.com/track/0mD9244Msu3YUuDuRZrfU4"
+      "duration_ms": 191120,
+      "name": "Tapwe Oma",
+      "url": "https://open.spotify.com/track/2HcbJ8hSAWTRSWJfm38vut"
     },
     {
-      "added_at": "2026-05-08 19:40:24",
+      "added_at": "2026-07-10 04:03:06",
       "album": {
-        "name": "Come and Get Your Love",
-        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
+        "name": "Memories and Daydreams",
+        "url": "https://open.spotify.com/album/3PxbmtiuMK9liCxrElC7SG"
       },
       "artists": [
         {
-          "name": "Redbone",
-          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
+          "name": "Red Blaze",
+          "url": "https://open.spotify.com/artist/5btZz5AAd8FdR8N8QfuSVk"
         }
       ],
-      "duration_ms": 205933,
-      "name": "Come and Get Your Love - Single Version",
-      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
+      "duration_ms": 289093,
+      "name": "Drums",
+      "url": "https://open.spotify.com/track/3a0gkFdYcaFZLzRkMX5qDE"
     },
     {
-      "added_at": "2026-05-08 19:40:24",
+      "added_at": "2026-07-10 04:03:06",
       "album": {
-        "name": "Down Rounder",
-        "url": "https://open.spotify.com/album/3SaOC7YKiYYtVSTww9SuTx"
+        "name": "Feed My Sin",
+        "url": "https://open.spotify.com/album/5PO4Bpujo2qPDXXWnSTj5f"
       },
       "artists": [
         {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+          "name": "Jason Chakita",
+          "url": "https://open.spotify.com/artist/1AEShyfxFOlEYglOGeWtsc"
         }
       ],
-      "duration_ms": 145913,
-      "name": "Papa Took My Totems",
-      "url": "https://open.spotify.com/track/5nr0o4m0shbFB4KCO0tCq2"
+      "duration_ms": 102632,
+      "name": "Feed My Sin",
+      "url": "https://open.spotify.com/track/2U1p3dDE2b2SMKgmlnmrXn"
     },
     {
-      "added_at": "2026-05-08 19:40:24",
+      "added_at": "2026-07-10 04:03:06",
       "album": {
-        "name": "Good Buddy",
-        "url": "https://open.spotify.com/album/2iIkOsqJ9gRP8oEM2NRvfQ"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/6zk4fKwjjkBilpq3etPp4s"
       },
       "artists": [
         {
-          "name": "FONTINE",
-          "url": "https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy"
+          "name": "Chester Knight and the Wind",
+          "url": "https://open.spotify.com/artist/76uYFQGqbG2XcSV1IGfJzz"
         }
       ],
-      "duration_ms": 196226,
-      "name": "Home Right Here",
-      "url": "https://open.spotify.com/track/1igYV6bfAibN26GqVNNOGt"
+      "duration_ms": 330440,
+      "name": "Love Me Strong",
+      "url": "https://open.spotify.com/track/3hEOmOZZIcT5I0RoBlXhdl"
     },
     {
-      "added_at": "2026-05-08 19:40:24",
+      "added_at": "2026-07-10 04:03:06",
       "album": {
-        "name": "Gypsy Blues",
-        "url": "https://open.spotify.com/album/3QrMkRlHBBIaJJdwzoLZEP"
+        "name": "Fiddling Metis Style",
+        "url": "https://open.spotify.com/album/3SFnJsdX1rRLKiE4bZx8YC"
       },
       "artists": [
         {
-          "name": "Blue Moon Marquee",
-          "url": "https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1"
+          "name": "Hap Boyer",
+          "url": "https://open.spotify.com/artist/6n4lJ5ABstMQPUDN4yQ3P5"
         }
       ],
-      "duration_ms": 221893,
-      "name": "Double Barrel Blues",
-      "url": "https://open.spotify.com/track/5ENjX7EFTnKdMG6OeeEImy"
+      "duration_ms": 170906,
+      "name": "Red River Jig",
+      "url": "https://open.spotify.com/track/2Pi2Hmp1sbP6fdYq4GVic0"
     },
     {
-      "added_at": "2026-05-08 19:40:24",
+      "added_at": "2026-07-10 04:03:06",
       "album": {
-        "name": "Link Wray",
-        "url": "https://open.spotify.com/album/6NYyr8iHYfYxCRrvFu0Xfi"
+        "name": "Run As One",
+        "url": "https://open.spotify.com/album/4iAUZXTDtbuQkN4s1wCCPc"
       },
       "artists": [
         {
-          "name": "Link Wray",
-          "url": "https://open.spotify.com/artist/2vQavlZtDA660mnZotYIto"
+          "name": "C-Weed Band",
+          "url": "https://open.spotify.com/artist/7u2wjefZiVTpr0scEi9r5t"
         }
       ],
-      "duration_ms": 225200,
-      "name": "Fallin' Rain",
-      "url": "https://open.spotify.com/track/64dByZjmB5NN5PiWZQdM2X"
+      "duration_ms": 383843,
+      "name": "Run As One",
+      "url": "https://open.spotify.com/track/0hnCRnn9fx0zqLiRpp1UDW"
     },
     {
-      "added_at": "2026-05-08 19:40:24",
+      "added_at": "2026-07-10 04:03:06",
       "album": {
-        "name": "Cruel Joke",
-        "url": "https://open.spotify.com/album/6bsixeIRweFGPSo3RHqpQH"
+        "name": "Original Recordings",
+        "url": "https://open.spotify.com/album/55p6gvGwAZx1pnmUzOQc2f"
       },
       "artists": [
         {
-          "name": "Ken Pomeroy",
-          "url": "https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF"
-        },
-        {
-          "name": "John Moreland",
-          "url": "https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH"
+          "name": "Ernest Monias",
+          "url": "https://open.spotify.com/artist/7KF4feJQfiUhHtMrguWdi8"
         }
       ],
-      "duration_ms": 230059,
-      "name": "Coyote",
-      "url": "https://open.spotify.com/track/1ERgZKcOl3XCimALNr5VVw"
-    },
-    {
-      "added_at": "2026-05-08 19:40:24",
-      "album": {
-        "name": "Creation Never Sleeps, Creation Never Dies: The Willie Dunn Anthology",
-        "url": "https://open.spotify.com/album/5TEMjTAfk1m4ByGwDj7794"
-      },
-      "artists": [
-        {
-          "name": "Willie Dunn",
-          "url": "https://open.spotify.com/artist/3jeo0fVqyC3Yw1K5VyxpV6"
-        }
-      ],
-      "duration_ms": 167213,
-      "name": "The Dreamer",
-      "url": "https://open.spotify.com/track/7vtB525Mw0sXGk6WHPYybX"
-    },
-    {
-      "added_at": "2026-05-08 19:40:24",
-      "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/1cPNmlx4bKWmVgqcJC6dcb"
-      },
-      "artists": [
-        {
-          "name": "Kalyn Fay",
-          "url": "https://open.spotify.com/artist/2ojhmBnnR44AHdtGGK8f9q"
-        }
-      ],
-      "duration_ms": 247906,
-      "name": "Seven",
-      "url": "https://open.spotify.com/track/6XJMZ8XIm5WehJTY4B7hoj"
-    },
-    {
-      "added_at": "2026-05-08 19:40:24",
-      "album": {
-        "name": "Nasgino Inage Nidayulenvi (It Started in the Woods)",
-        "url": "https://open.spotify.com/album/2skgWEWI01fzUwDKvhzm7d"
-      },
-      "artists": [
-        {
-          "name": "Agalisiga",
-          "url": "https://open.spotify.com/artist/3I2gWxBYCCVQBxg6MpVBHQ"
-        }
-      ],
-      "duration_ms": 172749,
-      "name": "Ahyvdawalohi (Thunder)",
-      "url": "https://open.spotify.com/track/7sqBTtGHz0hRaSZqkHmu6R"
-    },
-    {
-      "added_at": "2026-05-08 19:40:24",
-      "album": {
-        "name": "Comanche / White Lightning (Japan Stereo Mix 2026)",
-        "url": "https://open.spotify.com/album/2iQRKWmm7WkxanayZMrR53"
-      },
-      "artists": [
-        {
-          "name": "Link Wray",
-          "url": "https://open.spotify.com/artist/2vQavlZtDA660mnZotYIto"
-        }
-      ],
-      "duration_ms": 123341,
-      "name": "Comanche (Japan Stereo Mix 2026)",
-      "url": "https://open.spotify.com/track/6ndUiNseNU1ar5vZeYt4Ms"
-    },
-    {
-      "added_at": "2026-05-08 19:40:24",
-      "album": {
-        "name": "Silent Warrior",
-        "url": "https://open.spotify.com/album/1Qfmkij2s40dh2BQ5JCNPa"
-      },
-      "artists": [
-        {
-          "name": "Xit",
-          "url": "https://open.spotify.com/artist/0ppPnaWRcLheRWisYSTyPC"
-        }
-      ],
-      "duration_ms": 359480,
-      "name": "Reservation of Education",
-      "url": "https://open.spotify.com/track/5tr1woX2TVOHfVcevcX8Vb"
-    },
-    {
-      "added_at": "2026-05-08 19:40:24",
-      "album": {
-        "name": "Comanche / White Lightning (Japan Stereo Mix 2026)",
-        "url": "https://open.spotify.com/album/2iQRKWmm7WkxanayZMrR53"
-      },
-      "artists": [
-        {
-          "name": "Link Wray",
-          "url": "https://open.spotify.com/artist/2vQavlZtDA660mnZotYIto"
-        }
-      ],
-      "duration_ms": 119071,
-      "name": "White Lightning (Japan Stereo Mix 2026)",
-      "url": "https://open.spotify.com/track/3SuY2tZ56hlHmzAlfAz8yj"
-    },
-    {
-      "added_at": "2026-05-08 19:40:24",
-      "album": {
-        "name": "Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country 1966-1985",
-        "url": "https://open.spotify.com/album/305eIp6qJ0g5vdYoNaaERr"
-      },
-      "artists": [
-        {
-          "name": "Willie Dunn",
-          "url": "https://open.spotify.com/artist/3jeo0fVqyC3Yw1K5VyxpV6"
-        }
-      ],
-      "duration_ms": 175080,
-      "name": "I Pity the Country",
-      "url": "https://open.spotify.com/track/1GyAagsfqUSPf5DdO3bBBe"
-    },
-    {
-      "added_at": "2026-05-08 19:40:24",
-      "album": {
-        "name": "Sings: With a Heart - With a Beat",
-        "url": "https://open.spotify.com/album/7eeVrjFmABcDANgdi5t3RF"
-      },
-      "artists": [
-        {
-          "name": "Marvin Rainwater",
-          "url": "https://open.spotify.com/artist/0io243tshqbvutIxj44rMy"
-        }
-      ],
-      "duration_ms": 105253,
-      "name": "Boo Hoo",
-      "url": "https://open.spotify.com/track/1Y7hBVxs7Vx3UCaxPBUh2G"
-    },
-    {
-      "added_at": "2026-05-08 19:40:24",
-      "album": {
-        "name": "Plight of the Redman",
-        "url": "https://open.spotify.com/album/63Um3BFScFfIuxrsjTn1oc"
-      },
-      "artists": [
-        {
-          "name": "Xit",
-          "url": "https://open.spotify.com/artist/0ppPnaWRcLheRWisYSTyPC"
-        }
-      ],
-      "duration_ms": 429120,
-      "name": "Nihaa Shil Hozh, I\u2019m Happy About You",
-      "url": "https://open.spotify.com/track/6Ld2yaY7s4XMyt5GFvo8Ik"
-    },
-    {
-      "added_at": "2026-05-08 19:40:24",
-      "album": {
-        "name": "His Complete King Recordings",
-        "url": "https://open.spotify.com/album/15IZgzHg7L0LNSglHIC3tC"
-      },
-      "artists": [
-        {
-          "name": "Charlie Feathers",
-          "url": "https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN"
-        }
-      ],
-      "duration_ms": 169986,
-      "name": "Can't Hardly Stand It",
-      "url": "https://open.spotify.com/track/1YXG5DwZwjS7xhnjBXYAPH"
-    },
-    {
-      "added_at": "2026-05-08 19:40:24",
-      "album": {
-        "name": "Woman in Color",
-        "url": "https://open.spotify.com/album/5O8UYOmXvdRfMTuh3gQYRe"
-      },
-      "artists": [
-        {
-          "name": "Raye Zaragoza",
-          "url": "https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc"
-        }
-      ],
-      "duration_ms": 207840,
-      "name": "He Calls Me River",
-      "url": "https://open.spotify.com/track/0NL25XcyfMwUAM2T3tEdvJ"
-    },
-    {
-      "added_at": "2026-05-08 19:40:24",
-      "album": {
-        "name": "Creation Never Sleeps, Creation Never Dies: The Willie Dunn Anthology",
-        "url": "https://open.spotify.com/album/5TEMjTAfk1m4ByGwDj7794"
-      },
-      "artists": [
-        {
-          "name": "Willie Dunn",
-          "url": "https://open.spotify.com/artist/3jeo0fVqyC3Yw1K5VyxpV6"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "M\u00e9tis Red River Song",
-      "url": "https://open.spotify.com/track/7AYfvCft2ambgSuxTi0Pxs"
-    },
-    {
-      "added_at": "2026-05-08 19:40:24",
-      "album": {
-        "name": "Sings: With a Heart - With a Beat",
-        "url": "https://open.spotify.com/album/7eeVrjFmABcDANgdi5t3RF"
-      },
-      "artists": [
-        {
-          "name": "Marvin Rainwater",
-          "url": "https://open.spotify.com/artist/0io243tshqbvutIxj44rMy"
-        }
-      ],
-      "duration_ms": 127773,
-      "name": "Moanin' the Blues",
-      "url": "https://open.spotify.com/track/5h9gvmiwID0ozVcFGXatU6"
-    },
-    {
-      "added_at": "2026-05-08 19:40:24",
-      "album": {
-        "name": "Good Buddy",
-        "url": "https://open.spotify.com/album/2iIkOsqJ9gRP8oEM2NRvfQ"
-      },
-      "artists": [
-        {
-          "name": "FONTINE",
-          "url": "https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Body Double",
-      "url": "https://open.spotify.com/track/5EewQq5LmalL8a9NiWXIGh"
-    },
-    {
-      "added_at": "2026-05-08 19:40:24",
-      "album": {
-        "name": "Plight of the Redman",
-        "url": "https://open.spotify.com/album/63Um3BFScFfIuxrsjTn1oc"
-      },
-      "artists": [
-        {
-          "name": "Xit",
-          "url": "https://open.spotify.com/artist/0ppPnaWRcLheRWisYSTyPC"
-        }
-      ],
-      "duration_ms": 166880,
-      "name": "War Cry",
-      "url": "https://open.spotify.com/track/5qCAJzQ1tqpEPd9FMKAyqv"
-    },
-    {
-      "added_at": "2026-05-08 19:40:24",
-      "album": {
-        "name": "Mud Blood Bone",
-        "url": "https://open.spotify.com/album/3Jmb3wYx7WLoiUGn7WIeZS"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/1pPwsE5d14EzDagRhuS68o"
+      "duration_ms": 185000,
+      "name": "Stay Awhile",
+      "url": "https://open.spotify.com/track/6bLoxsdxSPvN6sn2XyoVtj"
     }
   ],
   "unique_name": "Indigenous",

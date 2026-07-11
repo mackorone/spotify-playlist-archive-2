@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 
 > The best pop music right now ft\. Madonna
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,796 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,749 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 | 79 | [Hot Sprite](https://open.spotify.com/track/1Z3Of1kO00D1G5HSOIK1pX) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [Hot Sprite](https://open.spotify.com/album/6C3IITvErdLUkcAlF0l5Cr) | 2:34 |
 | 80 | [Be Her](https://open.spotify.com/track/13HD3tYTiz8oSRxWzXEq7g) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 3:37 |
 
-Snapshot ID: `AAAAAB+ZAONv6DKAfrpmGBbb6PRhZTgO`
+Snapshot ID: `AAAAAIufgtsQCkzj0wKu2CQBSoecAnKM`

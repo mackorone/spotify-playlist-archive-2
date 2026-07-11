@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The latest of R&B rising in the UK. Cover: JayO",
+  "description": "The latest of R&B rising in the UK. Cover: Jav\u00e1n",
   "name": "R&B UK",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 138260,
       "name": "4ursafety",
       "url": "https://open.spotify.com/track/7u0JIVXQBpCD74ivUiPAPR"
@@ -2275,6 +2275,24 @@
     },
     {
       "album": {
+        "name": "Dare You/N2S",
+        "url": "https://open.spotify.com/album/5RaZ81hlhuq2Pa0R6kOxV6"
+      },
+      "artists": [
+        {
+          "name": "Jav\u00e1n",
+          "url": "https://open.spotify.com/artist/5Q3s71M9YsjdQNa0NTkzkE"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149976,
+      "name": "Dare You/N2S",
+      "url": "https://open.spotify.com/track/1lGlrfpVqRoSRhHaq9V3sn"
+    },
+    {
+      "album": {
         "name": "DARLING",
         "url": "https://open.spotify.com/album/0HJRLdzJ0Y6phDRCBg6i7u"
       },
@@ -3385,6 +3403,24 @@
     },
     {
       "album": {
+        "name": "Find Out",
+        "url": "https://open.spotify.com/album/5uqr9mJzXpW7h3zwmR0sta"
+      },
+      "artists": [
+        {
+          "name": "zuriel.",
+          "url": "https://open.spotify.com/artist/1j9rm7utmRfNP4LKDoCKtW"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233043,
+      "name": "Find Out",
+      "url": "https://open.spotify.com/track/2HnJNGhSHAF6tXruK5rjSp"
+    },
+    {
+      "album": {
         "name": "Thoughts I Never Said",
         "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
       },
@@ -3530,7 +3566,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 154126,
       "name": "For You",
       "url": "https://open.spotify.com/track/015oTZOFMNR1IhWEKOr1H1"
@@ -3602,7 +3638,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 187118,
       "name": "Found Love",
       "url": "https://open.spotify.com/track/5Puvc0yCAbWyz5qdTRIcJ0"
@@ -3726,7 +3762,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 210613,
       "name": "Frostbite",
       "url": "https://open.spotify.com/track/4rZk8pAA1RXsGAAea5sIZg"
@@ -4812,6 +4848,28 @@
       "duration_ms": 196100,
       "name": "HOME",
       "url": "https://open.spotify.com/track/765aPM26j6Tkki0khCBHUF"
+    },
+    {
+      "album": {
+        "name": "Homegrown (feat. Blxst)",
+        "url": "https://open.spotify.com/album/2JTsVy8S2Tdk9YB82nF7RN"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171803,
+      "name": "Homegrown (feat. Blxst)",
+      "url": "https://open.spotify.com/track/4s0tZBDviWiawHu8XlYXcJ"
     },
     {
       "album": {
@@ -5986,7 +6044,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 209858,
       "name": "Keep Coming Back To You",
       "url": "https://open.spotify.com/track/55uA56TpLi1Xu0OBb95RTN"
@@ -11510,6 +11568,24 @@
       "duration_ms": 172500,
       "name": "Weather Woman",
       "url": "https://open.spotify.com/track/3HTajNvnpRHFaKfhmBlhJM"
+    },
+    {
+      "album": {
+        "name": "Weed & Rum",
+        "url": "https://open.spotify.com/album/04JhKfM0yWkpnuRahcOshj"
+      },
+      "artists": [
+        {
+          "name": "Children of Zeus",
+          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154685,
+      "name": "Weed & Rum",
+      "url": "https://open.spotify.com/track/4dVeAro2bdvN5P4ezQPLYr"
     },
     {
       "album": {

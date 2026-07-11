@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "Always Know",
+        "url": "https://open.spotify.com/album/3dMZmG47IGKlzmzHw8Aixc"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223599,
+      "name": "Always Know",
+      "url": "https://open.spotify.com/track/2suwcmJtyWrVOTI7o0x144"
+    },
+    {
+      "album": {
         "name": "Wintermusik",
         "url": "https://open.spotify.com/album/7wkQV8xvauPFBG2xC3pawK"
       },
@@ -2761,6 +2779,24 @@
     },
     {
       "album": {
+        "name": "Levitare",
+        "url": "https://open.spotify.com/album/6zGWHambm6rTuLI97egH48"
+      },
+      "artists": [
+        {
+          "name": "Dirk Maassen",
+          "url": "https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158200,
+      "name": "Levitare",
+      "url": "https://open.spotify.com/track/6LEvhUeNOoOvy6w04LZR1J"
+    },
+    {
+      "album": {
         "name": "Liebe X (Version for Piano Solo)",
         "url": "https://open.spotify.com/album/0nDzkWedJwjoQlZ98j9Qrc"
       },
@@ -5097,6 +5133,24 @@
     },
     {
       "album": {
+        "name": "So Far, Fine",
+        "url": "https://open.spotify.com/album/0yQc4BPZ6SOjz25Y09pHgB"
+      },
+      "artists": [
+        {
+          "name": "Mattia Vlad Morleo",
+          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146592,
+      "name": "So Far, Fine",
+      "url": "https://open.spotify.com/track/5VTV5lV0g1CM8olKNQcm9G"
+    },
+    {
+      "album": {
         "name": "Soglia",
         "url": "https://open.spotify.com/album/2JRm3nGkmyz6wBFCpkEJ3X"
       },
@@ -5864,6 +5918,28 @@
       "duration_ms": 225494,
       "name": "Through The Blue - Piano Version",
       "url": "https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC"
+    },
+    {
+      "album": {
+        "name": "Through The Mist",
+        "url": "https://open.spotify.com/album/6spT2hFu7gHXYLIUFUHmP0"
+      },
+      "artists": [
+        {
+          "name": "Alex Davies",
+          "url": "https://open.spotify.com/artist/3kKkkhpN9Qf63I74rhh2l4"
+        },
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239560,
+      "name": "Through The Mist",
+      "url": "https://open.spotify.com/track/3sC1qfvNq25NOriczIEvGb"
     },
     {
       "album": {

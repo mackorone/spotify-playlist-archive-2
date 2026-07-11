@@ -1,12 +1,12 @@
 {
   "description": "Cannelle new mixtape = inspiring \u2728",
-  "num_followers": 508658,
+  "num_followers": 509046,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIlf4n8QLw7FPlvKo5PrrOCRuCdD",
+  "snapshot_id": "AAAAAHz5z3iEswCD0XomEqgcVlMM+ZK8",
   "tracks": [
     {
       "added_at": "2026-07-03 04:02:01",
@@ -23,6 +23,54 @@
       "duration_ms": 147600,
       "name": "Dis-Moi",
       "url": "https://open.spotify.com/track/5GgRZOMxH4Uly3nZa3BPWA"
+    },
+    {
+      "added_at": "2026-07-10 04:02:12",
+      "album": {
+        "name": "U&ME",
+        "url": "https://open.spotify.com/album/2f4fFPtXYPZdLR6aaVsKXf"
+      },
+      "artists": [
+        {
+          "name": "STARKIDS",
+          "url": "https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x"
+        }
+      ],
+      "duration_ms": 159424,
+      "name": "U&ME",
+      "url": "https://open.spotify.com/track/4Ng4JMlg97GYcW7eDZ0ij0"
+    },
+    {
+      "added_at": "2026-07-08 20:17:28",
+      "album": {
+        "name": "Bridgerton",
+        "url": "https://open.spotify.com/album/1Ok9MkN9HydNOM0RIt0LfA"
+      },
+      "artists": [
+        {
+          "name": "gloss*",
+          "url": "https://open.spotify.com/artist/2VU7LWcdl4rXJZpS4tQZUI"
+        }
+      ],
+      "duration_ms": 117302,
+      "name": "Bridgerton",
+      "url": "https://open.spotify.com/track/4RKtDDOYsm6864QgAziwdW"
+    },
+    {
+      "added_at": "2026-07-10 04:02:12",
+      "album": {
+        "name": "Tweaker Poem",
+        "url": "https://open.spotify.com/album/2fzKiP2hfzKll1QlXNzojx"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/0sVwFUDyDI5ZVFuS3bl3NE"
     },
     {
       "added_at": "2026-06-19 04:01:32",
@@ -43,22 +91,6 @@
       "duration_ms": 182368,
       "name": "CONSTANTLY",
       "url": "https://open.spotify.com/track/15vg0v6tZ1y8aZfpdz2KRY"
-    },
-    {
-      "added_at": "2026-07-03 04:02:01",
-      "album": {
-        "name": "Satellites",
-        "url": "https://open.spotify.com/album/1lwDEmZ3j69Wrh0AycrCCU"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Satellites",
-      "url": "https://open.spotify.com/track/0w1z41tugZvJHNLUWUjXkD"
     },
     {
       "added_at": "2026-06-12 04:01:44",
@@ -145,20 +177,36 @@
       "url": "https://open.spotify.com/track/1uDVTuH0e2XaMPsX3yox1T"
     },
     {
-      "added_at": "2026-07-08 20:17:28",
+      "added_at": "2026-07-10 04:02:12",
       "album": {
-        "name": "Bridgerton",
-        "url": "https://open.spotify.com/album/1Ok9MkN9HydNOM0RIt0LfA"
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/5bq0T1HikXAfh4Psg75aFL"
       },
       "artists": [
         {
-          "name": "gloss*",
-          "url": "https://open.spotify.com/artist/2VU7LWcdl4rXJZpS4tQZUI"
+          "name": "Westwood",
+          "url": "https://open.spotify.com/artist/3ROUUVgC0l5pYp3wLQQ05v"
         }
       ],
-      "duration_ms": 117302,
-      "name": "Bridgerton",
-      "url": "https://open.spotify.com/track/4RKtDDOYsm6864QgAziwdW"
+      "duration_ms": 130259,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/4jZUTV3lMCxllZiIvWte9X"
+    },
+    {
+      "added_at": "2026-07-03 04:02:01",
+      "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/1lwDEmZ3j69Wrh0AycrCCU"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Satellites",
+      "url": "https://open.spotify.com/track/0w1z41tugZvJHNLUWUjXkD"
     },
     {
       "added_at": "2026-05-15 04:02:23",
@@ -179,6 +227,22 @@
       "duration_ms": 148837,
       "name": "GET UP! GET DOWN! (EVERYBODYYY)",
       "url": "https://open.spotify.com/track/2nqn5XsYk0gsCGSAWbBFsR"
+    },
+    {
+      "added_at": "2026-07-10 04:02:12",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/5j9CsAJyPn9a25S78r9bFm"
+      },
+      "artists": [
+        {
+          "name": "Zorza",
+          "url": "https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/49Rdl7t3twbGakStIny6Xd"
     },
     {
       "added_at": "2026-07-03 04:02:01",
@@ -217,24 +281,20 @@
       "url": "https://open.spotify.com/track/1fbipsUw493ucwKBj1e0VN"
     },
     {
-      "added_at": "2026-05-29 04:02:29",
+      "added_at": "2026-03-27 04:00:20",
       "album": {
-        "name": "notime\u2026youshouldbeaskingmeout",
-        "url": "https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU"
+        "name": "SAME LA",
+        "url": "https://open.spotify.com/album/196LXZ6rQkJEwMrysIbSms"
       },
       "artists": [
         {
-          "name": "finnj\u00e4vel",
-          "url": "https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT"
-        },
-        {
-          "name": "GRANT",
-          "url": "https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj"
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
         }
       ],
-      "duration_ms": 139354,
-      "name": "notime\u2026",
-      "url": "https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww"
+      "duration_ms": 224661,
+      "name": "SAME LA",
+      "url": "https://open.spotify.com/track/6dycPSQglCA4tZEU2UdLf8"
     },
     {
       "added_at": "2026-07-03 04:02:01",
@@ -269,6 +329,26 @@
       "url": "https://open.spotify.com/track/5Wshn1HCkONGNXAJ9zg0x5"
     },
     {
+      "added_at": "2026-05-29 04:02:29",
+      "album": {
+        "name": "notime\u2026youshouldbeaskingmeout",
+        "url": "https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU"
+      },
+      "artists": [
+        {
+          "name": "finnj\u00e4vel",
+          "url": "https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT"
+        },
+        {
+          "name": "GRANT",
+          "url": "https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "notime\u2026",
+      "url": "https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww"
+    },
+    {
       "added_at": "2026-05-08 04:03:55",
       "album": {
         "name": "Hanging On A Minute",
@@ -301,6 +381,22 @@
       "url": "https://open.spotify.com/track/0bP1I4aL8vehpEkXQ3dmgO"
     },
     {
+      "added_at": "2026-07-10 04:02:12",
+      "album": {
+        "name": "Like, all night",
+        "url": "https://open.spotify.com/album/7wLyLosOsIAubXvXSaYccN"
+      },
+      "artists": [
+        {
+          "name": "Reysha Rami",
+          "url": "https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j"
+        }
+      ],
+      "duration_ms": 122538,
+      "name": "Like, all night",
+      "url": "https://open.spotify.com/track/7qUs4oO95iIyAezE3qUirS"
+    },
+    {
       "added_at": "2026-07-03 04:02:01",
       "album": {
         "name": "Almost Forever",
@@ -317,22 +413,6 @@
       "url": "https://open.spotify.com/track/7qRmZMqzUtv6oUsKuU24Pb"
     },
     {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "SAME LA",
-        "url": "https://open.spotify.com/album/196LXZ6rQkJEwMrysIbSms"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
-        }
-      ],
-      "duration_ms": 224661,
-      "name": "SAME LA",
-      "url": "https://open.spotify.com/track/6dycPSQglCA4tZEU2UdLf8"
-    },
-    {
       "added_at": "2026-06-19 04:01:32",
       "album": {
         "name": "I GET WHAT I WANT",
@@ -347,6 +427,22 @@
       "duration_ms": 171940,
       "name": "I GET WHAT I WANT",
       "url": "https://open.spotify.com/track/2LaB9c5odTQj5KZyth4lWQ"
+    },
+    {
+      "added_at": "2026-07-10 04:02:12",
+      "album": {
+        "name": "Hot Wet Delirious",
+        "url": "https://open.spotify.com/album/48RvnMcydial0X4i7D4X8N"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+        }
+      ],
+      "duration_ms": 188575,
+      "name": "Hot Wet Delirious",
+      "url": "https://open.spotify.com/track/30WDZKen0s4FtFe2EyqaCN"
     },
     {
       "added_at": "2026-05-29 04:02:29",
@@ -381,6 +477,22 @@
       "url": "https://open.spotify.com/track/1qz9ZTZDdXH9W1bEeCcrYD"
     },
     {
+      "added_at": "2026-07-10 04:02:12",
+      "album": {
+        "name": "Bar La Perla",
+        "url": "https://open.spotify.com/album/2tUxfBMP3mwohAOanU2Tuw"
+      },
+      "artists": [
+        {
+          "name": "Vanity Vercetti",
+          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
+        }
+      ],
+      "duration_ms": 126793,
+      "name": "Bar La Perla",
+      "url": "https://open.spotify.com/track/7gTGG6ymd6mO3dHVNHZ7cE"
+    },
+    {
       "added_at": "2026-06-12 04:01:44",
       "album": {
         "name": "ULTRA",
@@ -411,6 +523,22 @@
       "duration_ms": 99484,
       "name": "Guts",
       "url": "https://open.spotify.com/track/1hxyrDr9AME8Yby6lY09cC"
+    },
+    {
+      "added_at": "2026-07-10 04:02:12",
+      "album": {
+        "name": "oscillation",
+        "url": "https://open.spotify.com/album/04VjQrZQcZqpophLLhePPA"
+      },
+      "artists": [
+        {
+          "name": "zivve",
+          "url": "https://open.spotify.com/artist/4uBfAtQBqmCA5dwvU6cq7v"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "conflicted II",
+      "url": "https://open.spotify.com/track/7zIpP6nhJfWPkr7h9jTwnf"
     },
     {
       "added_at": "2026-05-29 04:02:29",
@@ -971,22 +1099,6 @@
     {
       "added_at": "2026-04-17 04:03:13",
       "album": {
-        "name": "Lara's Boyfriend",
-        "url": "https://open.spotify.com/album/6WzXFSfxylpQiNvdlvbyxO"
-      },
-      "artists": [
-        {
-          "name": "MARiMARi",
-          "url": "https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl"
-        }
-      ],
-      "duration_ms": 126750,
-      "name": "Lara's Boyfriend",
-      "url": "https://open.spotify.com/track/1oG0qodkwuizOggAJEWBNa"
-    },
-    {
-      "added_at": "2026-04-17 04:03:13",
-      "album": {
         "name": "niterush",
         "url": "https://open.spotify.com/album/2Se9DtzSTbI74wlR0lv6yw"
       },
@@ -1201,42 +1313,6 @@
       "url": "https://open.spotify.com/track/7C36qjso9lFwADSdoOU0gj"
     },
     {
-      "added_at": "2026-04-24 04:02:28",
-      "album": {
-        "name": "Oxytocin",
-        "url": "https://open.spotify.com/album/5M7Sx0bhscdaLyj16ImRmX"
-      },
-      "artists": [
-        {
-          "name": "Ella Rosa",
-          "url": "https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F"
-        }
-      ],
-      "duration_ms": 111666,
-      "name": "Oxytocin",
-      "url": "https://open.spotify.com/track/0Ehshcvlug8jW9P6JaFMV0"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "d\u00e9j\u00e0 vu",
-        "url": "https://open.spotify.com/album/3sWnMNMa1nzCUhalLrR47n"
-      },
-      "artists": [
-        {
-          "name": "aidn.",
-          "url": "https://open.spotify.com/artist/4omuqQ7ohlcuOto359qQsn"
-        },
-        {
-          "name": "Intentions",
-          "url": "https://open.spotify.com/artist/0Naa1nD2BZ3Rvjj73sYyxR"
-        }
-      ],
-      "duration_ms": 195691,
-      "name": "d\u00e9j\u00e0 vu",
-      "url": "https://open.spotify.com/track/6odzEUEbJvJPhFVzjOCHyx"
-    },
-    {
       "added_at": "2026-03-27 04:00:20",
       "album": {
         "name": "Missing",
@@ -1283,22 +1359,6 @@
       "duration_ms": 164636,
       "name": "Sucker Punch",
       "url": "https://open.spotify.com/track/1VvVql8oUrOLpZTw1X62sb"
-    },
-    {
-      "added_at": "2026-04-10 04:02:39",
-      "album": {
-        "name": "walk you home",
-        "url": "https://open.spotify.com/album/1HKSzkVfhjbw9YeX581RKJ"
-      },
-      "artists": [
-        {
-          "name": "b2nny",
-          "url": "https://open.spotify.com/artist/2tbEf5RXMJ4XXwssBVlJ2B"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "walk you home",
-      "url": "https://open.spotify.com/track/1MjBG4QNBd6L1MRhivTNw2"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -1771,34 +1831,6 @@
     {
       "added_at": "2026-03-27 04:00:20",
       "album": {
-        "name": "Open! feat. \u306a\u304b\u3080\u3089\u307f\u306a\u307f",
-        "url": "https://open.spotify.com/album/2xkTDsGcMwEi7vfQtVAUn4"
-      },
-      "artists": [
-        {
-          "name": "TREKKIE TRAX CREW",
-          "url": "https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3"
-        },
-        {
-          "name": "umru",
-          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
-        },
-        {
-          "name": "nextdimensional",
-          "url": "https://open.spotify.com/artist/3zDlEDZXauNcVpmq9FUrUD"
-        },
-        {
-          "name": "\u306a\u304b\u3080\u3089\u307f\u306a\u307f",
-          "url": "https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq"
-        }
-      ],
-      "duration_ms": 172285,
-      "name": "Open! feat. \u306a\u304b\u3080\u3089\u307f\u306a\u307f",
-      "url": "https://open.spotify.com/track/4SUIbmMKdb2RsW0c3nuR9i"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
         "name": "havefun",
         "url": "https://open.spotify.com/album/24p67ENiw4sPj6f2diJqD9"
       },
@@ -1831,26 +1863,6 @@
     {
       "added_at": "2026-03-27 04:00:20",
       "album": {
-        "name": "Espiral despiadada",
-        "url": "https://open.spotify.com/album/6anisDOzIg0ELcoWhSp0Mx"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Escarmiento",
-          "url": "https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl"
-        },
-        {
-          "name": "Vau Boy",
-          "url": "https://open.spotify.com/artist/2tx3YCpd2RHR1ZSU101zFB"
-        }
-      ],
-      "duration_ms": 175686,
-      "name": "Espiral despiadada",
-      "url": "https://open.spotify.com/track/2qiPJbBfWc1RzClmRvM284"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
         "name": "Miffy (Halo Boy Remix)",
         "url": "https://open.spotify.com/album/25YDnM7fzsHjxGWMtd0nxI"
       },
@@ -1867,22 +1879,6 @@
       "duration_ms": 127429,
       "name": "Miffy - Halo Boy Remix",
       "url": "https://open.spotify.com/track/0YKWVQAAhWUdN2CHb2tBPW"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "Me forever :(",
-        "url": "https://open.spotify.com/album/6ejhEfZ6NCucu2lC6G4rOh"
-      },
-      "artists": [
-        {
-          "name": "samxemma",
-          "url": "https://open.spotify.com/artist/3t0tkWfZvQbKkmji8oa26y"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Me forever :(",
-      "url": "https://open.spotify.com/track/0gbSF6qGsr69EMC1mXdDpP"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -2063,22 +2059,6 @@
       "duration_ms": 180735,
       "name": "GET HIGHER",
       "url": "https://open.spotify.com/track/3MiqSOZesQI2NctPFdSyzP"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "for us",
-        "url": "https://open.spotify.com/album/0dLV7pFGKpSsJBMQr0FAjf"
-      },
-      "artists": [
-        {
-          "name": "nate sib",
-          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
-        }
-      ],
-      "duration_ms": 139534,
-      "name": "go",
-      "url": "https://open.spotify.com/track/4H448E9IQ0TV4nmLRMJ2BH"
     },
     {
       "added_at": "2026-03-27 04:00:20",

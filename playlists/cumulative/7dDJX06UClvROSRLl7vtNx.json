@@ -8417,6 +8417,32 @@
     },
     {
       "album": {
+        "name": "Feels Like Heaven",
+        "url": "https://open.spotify.com/album/1yZbqdL3rfSSC2qSqb39Cw"
+      },
+      "artists": [
+        {
+          "name": "Chris Ruo",
+          "url": "https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY"
+        },
+        {
+          "name": "Jiwon",
+          "url": "https://open.spotify.com/artist/4LyqJpHI1a45aZHIkVRBSQ"
+        },
+        {
+          "name": "Spijk",
+          "url": "https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181071,
+      "name": "Feels Like Heaven",
+      "url": "https://open.spotify.com/track/2o1soodVgdVjLMNWtlplOx"
+    },
+    {
+      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/7h7rtAWyHRapZEKACglLfg"
       },
@@ -9588,6 +9614,24 @@
       "duration_ms": 159428,
       "name": "Girls Like Us",
       "url": "https://open.spotify.com/track/2t2uYv81UF81cnvnCqCBon"
+    },
+    {
+      "album": {
+        "name": "Give It All",
+        "url": "https://open.spotify.com/album/06zxRlneQjU3xzhyb5MZkC"
+      },
+      "artists": [
+        {
+          "name": "ENVOL",
+          "url": "https://open.spotify.com/artist/5h8U1AIYA23J6XR0mgNOD4"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Give It All",
+      "url": "https://open.spotify.com/track/3pxrEQZGZcpXGJPEuWbzz2"
     },
     {
       "album": {
@@ -24398,6 +24442,24 @@
       "duration_ms": 160714,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/0Drhwzv9nC4HSxceTpGMxZ"
+    },
+    {
+      "album": {
+        "name": "Something About You",
+        "url": "https://open.spotify.com/album/1qMbkOWTTyoaHuW6gej1Na"
+      },
+      "artists": [
+        {
+          "name": "S\u00f6nnefelt",
+          "url": "https://open.spotify.com/artist/38FDUny44xLWCsKHGWI9bo"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143589,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/6fUTHEhkGwYdi2oFvQN4LX"
     },
     {
       "album": {

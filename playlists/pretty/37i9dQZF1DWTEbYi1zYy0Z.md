@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Boney James
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,283 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,316 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Solag](https://open.spotify.com/track/6NR43oOqDquzfkAVdldWJ7) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Solag](https://open.spotify.com/album/27L1aYTKh0rNNnOTt9fp9t) | 2:59 |
 | 100 | [Do You Really Trust Yourself](https://open.spotify.com/track/5clox4JjNfESuyBpyZTXqx) | [Michael Benedikt](https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL), [Lukas Thoeni](https://open.spotify.com/artist/0AkFAZapNk0NraCEB3YsP9) | [Do You Really Trust Yourself](https://open.spotify.com/album/3FIGKThoaQz1jLMcK2rap9) | 2:16 |
 
-Snapshot ID: `AAAAAP+m8rElj1eoZNNpYH5Xzfor6SEf`
+Snapshot ID: `AAAAAJ4iUkd0PfGsYkbXWqcMzhuNSlFm`

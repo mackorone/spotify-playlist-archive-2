@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-03-19",
-  "description": "time to strike a couple of poses. cover: Karencici",
+  "description": "time to strike a couple of poses. cover: Deb Fan ",
   "name": "poses",
   "tracks": [
     {
@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Revolutionary!",
+        "url": "https://open.spotify.com/album/762s1QrK9agznkBaixtpj7"
+      },
+      "artists": [
+        {
+          "name": "Juliet By Night",
+          "url": "https://open.spotify.com/artist/4kFlZCpQ9vLFSlqsqs24HP"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265166,
+      "name": "A Revolutionary!",
+      "url": "https://open.spotify.com/track/1ye2QToJ7UzL74NBJf5MnX"
+    },
+    {
+      "album": {
         "name": "HANA",
         "url": "https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg"
       },
@@ -74,6 +92,42 @@
       "duration_ms": 152319,
       "name": "ALL IN",
       "url": "https://open.spotify.com/track/6lOUOvcscCHUofusbjbYV2"
+    },
+    {
+      "album": {
+        "name": "Amoeba",
+        "url": "https://open.spotify.com/album/7c17U6VtyH0xRoWqfDcKrn"
+      },
+      "artists": [
+        {
+          "name": "Chezka",
+          "url": "https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Amoeba",
+      "url": "https://open.spotify.com/track/1z3yelL9joxerhXDqG96vy"
+    },
+    {
+      "album": {
+        "name": "Angel(s)",
+        "url": "https://open.spotify.com/album/71W6HyKdt6FDhVYChmamZ4"
+      },
+      "artists": [
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183373,
+      "name": "Angel(s)",
+      "url": "https://open.spotify.com/track/6SwLUJjEIhQfDBPJNexA2y"
     },
     {
       "album": {
@@ -398,7 +452,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 191755,
       "name": "Crow",
       "url": "https://open.spotify.com/track/65pQCf5tMSFEZO9JSfRUe1"
@@ -477,6 +531,50 @@
     },
     {
       "album": {
+        "name": "depresso",
+        "url": "https://open.spotify.com/album/2CUbNUEaW14qh7Z7XmDcGp"
+      },
+      "artists": [
+        {
+          "name": "Anna hisbbuR",
+          "url": "https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228007,
+      "name": "depresso",
+      "url": "https://open.spotify.com/track/7oM7WsJFQclWbcD7Obrrrz"
+    },
+    {
+      "album": {
+        "name": "Distant Lover",
+        "url": "https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "FANDOM",
+          "url": "https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217696,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF"
+    },
+    {
+      "album": {
         "name": "Tumbleweed from nowhere",
         "url": "https://open.spotify.com/album/7FeB53a2BQpqhcEJdsZX1e"
       },
@@ -488,7 +586,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 263148,
       "name": "Don't just yet resolve",
       "url": "https://open.spotify.com/track/4pOWzV51JJHBShJYeqSrVB"
@@ -582,7 +680,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 195402,
       "name": "GO",
       "url": "https://open.spotify.com/track/3ZqbplDGd2MJOUgs6yY42I"
@@ -724,7 +822,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 240000,
       "name": "However Long It Takes (Go!)",
       "url": "https://open.spotify.com/track/5Im0t3P370wcX6ntTSvEAi"
@@ -988,7 +1086,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 199534,
       "name": "Make U Blush",
       "url": "https://open.spotify.com/track/037MAvYyO35gv4vODbE3nC"
@@ -1024,7 +1122,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 225160,
       "name": "maybe not tonight",
       "url": "https://open.spotify.com/track/0uqOCp3cDPVlAI7WvlM6iB"
@@ -1316,7 +1414,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 232572,
       "name": "PRIDE",
       "url": "https://open.spotify.com/track/52z8YyNZYlL7ZBDRjUvgX6"
@@ -1432,7 +1530,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Shake!",
       "url": "https://open.spotify.com/track/6wdKMBPEUhdIE7Xhxb8ynP"
@@ -1530,7 +1628,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 188000,
       "name": "stepbystep",
       "url": "https://open.spotify.com/track/4csnapkNSfjVvUSdfunHbM"
@@ -1552,6 +1650,24 @@
       "duration_ms": 223416,
       "name": "Stranger's Funeral",
       "url": "https://open.spotify.com/track/0xsKzUbzpcqQ9kGLV1tZ16"
+    },
+    {
+      "album": {
+        "name": "Stuck in Between",
+        "url": "https://open.spotify.com/album/59brawft7S2HJ4eY2GYPUx"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Armstrong",
+          "url": "https://open.spotify.com/artist/2ePmGYViXoQ3Ku4z7Pk78y"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200749,
+      "name": "Stuck in Between",
+      "url": "https://open.spotify.com/track/6qoPv5gXmFX3yHCp1cU0s2"
     },
     {
       "album": {
@@ -1584,10 +1700,28 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 160000,
       "name": "substack girl",
       "url": "https://open.spotify.com/track/6sUzkLo4dRJGbNKlxQu9xb"
+    },
+    {
+      "album": {
+        "name": "Subway",
+        "url": "https://open.spotify.com/album/3prVfUPn070kHEpvWcfgqK"
+      },
+      "artists": [
+        {
+          "name": "MIIMA",
+          "url": "https://open.spotify.com/artist/7msIIlSoyB6UouPdIjwCwW"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205819,
+      "name": "Subway",
+      "url": "https://open.spotify.com/track/45rNOSJ0D8TSQvAgRZEh16"
     },
     {
       "album": {
@@ -1620,7 +1754,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 175005,
       "name": "Surprise Surprise",
       "url": "https://open.spotify.com/track/1qxP9aigVY42COVRva1rO9"
@@ -1638,7 +1772,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 180727,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu"
@@ -1816,7 +1950,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 222587,
       "name": "Under Construction",
       "url": "https://open.spotify.com/track/4Y3253lAyzFqLhcUgYEY62"

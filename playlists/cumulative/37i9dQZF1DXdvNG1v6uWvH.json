@@ -86991,6 +86991,28 @@
     },
     {
       "album": {
+        "name": "Hold My Breath",
+        "url": "https://open.spotify.com/album/540DKCihQemJiYBN9AFi4m"
+      },
+      "artists": [
+        {
+          "name": "Albi",
+          "url": "https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Hold My Breath",
+      "url": "https://open.spotify.com/track/4FOdgYVV5xaMjY0NCZoFEu"
+    },
+    {
+      "album": {
         "name": "Hold My Hand",
         "url": "https://open.spotify.com/album/6wfUGdWF1qpvMtrANVj4TA"
       },
@@ -164747,6 +164769,24 @@
     },
     {
       "album": {
+        "name": "New Man",
+        "url": "https://open.spotify.com/album/2JP7EIbTweYKgL3d2F9qEZ"
+      },
+      "artists": [
+        {
+          "name": "Freyr",
+          "url": "https://open.spotify.com/artist/0XEC2bQgKvaq09BZFPDA9y"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144403,
+      "name": "Same Old",
+      "url": "https://open.spotify.com/track/1dgU0WemJ842gCJj7iyEoq"
+    },
+    {
+      "album": {
         "name": "Same Old Place",
         "url": "https://open.spotify.com/album/4QVK662xvR1pinZlAMLHZh"
       },
@@ -202984,24 +203024,6 @@
       "duration_ms": 187500,
       "name": "traces (feat. Molina)",
       "url": "https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa"
-    },
-    {
-      "album": {
-        "name": "New Man",
-        "url": "https://open.spotify.com/album/2JP7EIbTweYKgL3d2F9qEZ"
-      },
-      "artists": [
-        {
-          "name": "Freyr",
-          "url": "https://open.spotify.com/artist/0XEC2bQgKvaq09BZFPDA9y"
-        }
-      ],
-      "date_added": "2026-07-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/1dgU0WemJ842gCJj7iyEoq"
     },
     {
       "album": {

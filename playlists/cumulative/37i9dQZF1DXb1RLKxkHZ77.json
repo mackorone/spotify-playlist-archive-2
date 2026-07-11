@@ -4199,6 +4199,24 @@
     },
     {
       "album": {
+        "name": "Cinta Pada Pencipta",
+        "url": "https://open.spotify.com/album/7vcw0X5nAbALIck0ADMX1s"
+      },
+      "artists": [
+        {
+          "name": "Fiq7",
+          "url": "https://open.spotify.com/artist/1qTtRgrpqIXPRJnmc8QlMR"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200888,
+      "name": "Cinta Pada Pencipta",
+      "url": "https://open.spotify.com/track/3kIn8f0d0OBAOn6fIpv20z"
+    },
+    {
+      "album": {
         "name": "Cinta Penuh Liku",
         "url": "https://open.spotify.com/album/4QmB6SdCk2PNoXxKshAKxM"
       },
@@ -9287,6 +9305,24 @@
     },
     {
       "album": {
+        "name": "Kisah Terbaik",
+        "url": "https://open.spotify.com/album/7fvcwSyGFUR3q18lxWxiB4"
+      },
+      "artists": [
+        {
+          "name": "Fazura",
+          "url": "https://open.spotify.com/artist/4P0JsOTEOJEAGLAGo3R1Yf"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207474,
+      "name": "Kisah Terbaik",
+      "url": "https://open.spotify.com/track/6nGRs77lCVJmOdMsSKqv1T"
+    },
+    {
+      "album": {
         "name": "Kisah Yang Lain",
         "url": "https://open.spotify.com/album/1EeGQqYpr6ephrrwkD42Ss"
       },
@@ -9458,7 +9494,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 174798,
       "name": "KOPI",
       "url": "https://open.spotify.com/track/2EWtkQdW9o8PtIbw0OqNMw"
@@ -10764,7 +10800,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 205555,
       "name": "MALU MALU",
       "url": "https://open.spotify.com/track/70mMQpJZwUuqardEybuaPP"
@@ -12274,6 +12310,24 @@
       "duration_ms": 204956,
       "name": "Mungkin Ke?",
       "url": "https://open.spotify.com/track/2I3WeViGfPCaakFBuYCYPq"
+    },
+    {
+      "album": {
+        "name": "Mungkir",
+        "url": "https://open.spotify.com/album/3zM3nb8NzCDjmmPDJslVkr"
+      },
+      "artists": [
+        {
+          "name": "Usop",
+          "url": "https://open.spotify.com/artist/4Gva5ICIXF9VvD8AEIyOSX"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231340,
+      "name": "Mungkir",
+      "url": "https://open.spotify.com/track/4arSKKe4pnyNthzT0tjS75"
     },
     {
       "album": {
@@ -16874,7 +16928,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 230200,
       "name": "Simpul",
       "url": "https://open.spotify.com/track/0YCKakFdUjP9Tzl0HCRUrE"
@@ -18275,6 +18329,24 @@
     },
     {
       "album": {
+        "name": "Teh Hijau",
+        "url": "https://open.spotify.com/album/7A38wbAswxuZGB5aFvK9Qn"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212879,
+      "name": "Teh Hijau",
+      "url": "https://open.spotify.com/track/4R9G7azXaZe93KTX65P9fU"
+    },
+    {
+      "album": {
         "name": "Telepati",
         "url": "https://open.spotify.com/album/6L7TQes2IZBlcQzjYpPJEk"
       },
@@ -18518,7 +18590,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 175764,
       "name": "Terbang - Original Soundtrack From Tarung: Unforgiven",
       "url": "https://open.spotify.com/track/0Ng7ays249fbahyqJQGTi0"

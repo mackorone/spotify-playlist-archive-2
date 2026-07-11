@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  6uff",
-  "num_followers": 192003,
+  "num_followers": 192027,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-06-19 00:01:51",
       "album": {
+        "name": "Redemption Valley",
+        "url": "https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 165981,
+      "name": "Yawa (Hosanna)",
+      "url": "https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP"
+    },
+    {
+      "added_at": "2026-06-19 00:01:51",
+      "album": {
         "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
         "url": "https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 189677,
       "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
       "url": "https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM"
-    },
-    {
-      "added_at": "2026-06-19 00:01:51",
-      "album": {
-        "name": "Redemption Valley",
-        "url": "https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 165981,
-      "name": "Yawa (Hosanna)",
-      "url": "https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP"
     },
     {
       "added_at": "2026-06-19 00:01:51",
@@ -543,26 +543,6 @@
     {
       "added_at": "2026-06-19 00:01:51",
       "album": {
-        "name": "No Excuses Deluxe",
-        "url": "https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "FINE SHYT (feat. Tml Vibez)",
-      "url": "https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv"
-    },
-    {
-      "added_at": "2026-06-19 00:01:51",
-      "album": {
         "name": "Exopa",
         "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 190515,
       "name": "Exopa",
       "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
+    },
+    {
+      "added_at": "2026-06-19 00:01:51",
+      "album": {
+        "name": "No Excuses Deluxe",
+        "url": "https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "FINE SHYT (feat. Tml Vibez)",
+      "url": "https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv"
     },
     {
       "added_at": "2026-06-19 00:01:51",
@@ -747,26 +747,6 @@
     {
       "added_at": "2026-06-19 00:01:51",
       "album": {
-        "name": "The Odyssey",
-        "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
-      },
-      "artists": [
-        {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 179381,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW"
-    },
-    {
-      "added_at": "2026-06-19 00:01:51",
-      "album": {
         "name": "AFRIKA MAGIK",
         "url": "https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 196471,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2"
+    },
+    {
+      "added_at": "2026-06-19 00:01:51",
+      "album": {
+        "name": "The Odyssey",
+        "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 179381,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW"
     },
     {
       "added_at": "2026-06-19 00:01:51",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2026-06-19 00:01:51",
       "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/1wrWSz0lA8otyYg85jRmli"
+      },
+      "artists": [
+        {
+          "name": "LAYCON",
+          "url": "https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP"
+        },
+        {
+          "name": "Tytanium",
+          "url": "https://open.spotify.com/artist/2aE4O2If0FyUZwjBjN3hjX"
+        }
+      ],
+      "duration_ms": 121021,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/7mfzkmVMPfnIz0zeynq7h2"
+    },
+    {
+      "added_at": "2026-06-19 00:01:51",
+      "album": {
         "name": "Ye Dede (feat. DarkoVibes)",
         "url": "https://open.spotify.com/album/0B4VXn4Ur7AOmpkQLdRySW"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 160288,
       "name": "Ye Dede (feat. DarkoVibes)",
       "url": "https://open.spotify.com/track/3n0PQFnAzLsPbIQdu8ns7q"
-    },
-    {
-      "added_at": "2026-06-19 00:01:51",
-      "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/1wrWSz0lA8otyYg85jRmli"
-      },
-      "artists": [
-        {
-          "name": "LAYCON",
-          "url": "https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP"
-        },
-        {
-          "name": "Tytanium",
-          "url": "https://open.spotify.com/artist/2aE4O2If0FyUZwjBjN3hjX"
-        }
-      ],
-      "duration_ms": 121021,
-      "name": "Reason",
-      "url": "https://open.spotify.com/track/7mfzkmVMPfnIz0zeynq7h2"
     },
     {
       "added_at": "2026-06-19 00:01:51",

@@ -217,6 +217,24 @@
     },
     {
       "album": {
+        "name": "400 Down",
+        "url": "https://open.spotify.com/album/6PXoM9qRW5BiS3WpEGKasf"
+      },
+      "artists": [
+        {
+          "name": "LANELL GRANT",
+          "url": "https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "400 Down",
+      "url": "https://open.spotify.com/track/1g4IKIdKCx12iox1JPD6bR"
+    },
+    {
+      "album": {
         "name": "Abacus",
         "url": "https://open.spotify.com/album/3KyWbqtqq3MXd7QOQMS7D1"
       },
@@ -2256,7 +2274,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 138795,
       "name": "BOOM!",
       "url": "https://open.spotify.com/track/7aip3a5tzvuRuS0MhdCOoF"

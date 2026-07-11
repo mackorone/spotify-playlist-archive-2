@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Anna Makula
 
-776 songs - 2 day 19 hr 29 min
+777 songs - 2 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -589,7 +589,7 @@
 | [Right Here \(It Must Be\)](https://open.spotify.com/track/3WE6NG4DHL1RbbPoKvId64) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Right Here \(It Must Be\)](https://open.spotify.com/album/32uMtefl8RRamBjA2b00yM) | 3:09 | 2023-09-15 | 2023-11-02 |
 | [Rise Again](https://open.spotify.com/track/4QslrJv6HTxAvbVuGbGAzD) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Rise Again](https://open.spotify.com/album/4Jz256xiPaijzGdNvMS7V8) | 2:33 | 2025-07-18 | 2025-07-25 |
 | [Rise Up \(Lazarus\)](https://open.spotify.com/track/04LAy5aSyniUfX6sXnjsF5) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Rise Up \(Lazarus\)](https://open.spotify.com/album/03vhlBbQj9TOuyVVSv0D3J) | 2:45 | 2024-06-14 | 2024-07-27 |
-| [Room](https://open.spotify.com/track/7Cx35Wgzc8LTchIJQQiHS2) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Room](https://open.spotify.com/album/5cSaor9UmP74uP1Mucfl85) | 4:52 | 2026-06-12 |  |
+| [Room](https://open.spotify.com/track/7Cx35Wgzc8LTchIJQQiHS2) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Room](https://open.spotify.com/album/5cSaor9UmP74uP1Mucfl85) | 4:52 | 2026-06-12 | 2026-07-11 |
 | [Run To God \(R.T.G\)](https://open.spotify.com/track/26rCCAd1YcewQG1gdLBuCO) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0) | [Run To God \(R.T.G\)](https://open.spotify.com/album/2fPZrIhOH9tLM74XnDqpuT) | 2:22 | 2026-01-23 |  |
 | [Running Over](https://open.spotify.com/track/7ddO2IAJRp8JUNpISskFMG) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [THE MANDATE](https://open.spotify.com/album/2TwGUBLCc4gMW37ANmWdvi) | 2:46 | 2024-03-15 | 2024-03-29 |
 | [S.E.L.F](https://open.spotify.com/track/5ebiW0NaOwjhQTqegf4liq) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [S.E.L.F](https://open.spotify.com/album/6Nr3TfDODs4l81R8RKWa9B) | 1:37 | 2024-07-19 | 2024-08-09 |
@@ -699,6 +699,7 @@
 | [Wake Us Up](https://open.spotify.com/track/5Da7RICQW8CMTDUw9bMClb) | [Salt & Grace](https://open.spotify.com/artist/2yaom9TYZfkhHXgk3Zr3sy) | [Wake Us Up](https://open.spotify.com/album/1cjYTIgFPwsGzsBV9dn8Lc) | 4:24 | 2025-06-06 | 2025-06-26 |
 | [Walk on Water](https://open.spotify.com/track/48NL5bIhYoaBs1KHbq6pGA) | [BunjoVille Ug](https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT), [Fresera](https://open.spotify.com/artist/2nShmM3otHhrl43ju76gJ5), [Joel Bunjo Annointed](https://open.spotify.com/artist/40qFQ34iu2llYyyir6ZGAO) | [Kairos](https://open.spotify.com/album/429zY8VzGTrilGTR3zsfg4) | 6:35 | 2026-03-13 | 2026-03-20 |
 | [Walk On Water \- Live](https://open.spotify.com/track/7fZfxFBVBko3TfSSQvgFTX) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Walk On Water \(Live\)](https://open.spotify.com/album/1G24vc9iGCGr77IELGJnGW) | 8:58 | 2026-01-30 |  |
+| [Walk With God](https://open.spotify.com/track/6BTaPFXJ1lhHsuj9mZ0WOX) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Walk With God](https://open.spotify.com/album/5AHCUzq7E6QfhuKsezRC51) | 3:22 | 2026-06-26 |  |
 | [Walking In The Light](https://open.spotify.com/track/4QtjlWmeSApfxBStLpbE4J) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv), [Soltune](https://open.spotify.com/artist/1PFwvjnnz3gPAAJvmhY9fq) | [Sound From The South](https://open.spotify.com/album/3qhYnMrI5u6t7eZcL6eGQJ) | 2:48 | 2026-04-10 | 2026-05-22 |
 | [Want to Grow](https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Want to Grow](https://open.spotify.com/album/7znFZ68eRO9ACn3uxkUQEo) | 3:09 | 2026-05-22 |  |
 | [Wassup With You](https://open.spotify.com/track/1cXeYd3QiBm9vyUYnB36ph) | [Cee Sharp](https://open.spotify.com/artist/7tMTp2fNbzt8HANDTADOiM), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Wassup With You](https://open.spotify.com/album/3tdu6XYFfP2B3CBMlkqr2w) | 2:32 | 2025-08-01 | 2025-08-22 |

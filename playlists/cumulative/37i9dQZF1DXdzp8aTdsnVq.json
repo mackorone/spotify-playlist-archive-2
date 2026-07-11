@@ -4051,6 +4051,28 @@
     },
     {
       "album": {
+        "name": "Tu Carita",
+        "url": "https://open.spotify.com/album/3w67vYzRHo4TWmtkM31YFx"
+      },
+      "artists": [
+        {
+          "name": "El Meke",
+          "url": "https://open.spotify.com/artist/4efeWM0inGKd3KGCyOyXGm"
+        },
+        {
+          "name": "Diego Daza",
+          "url": "https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "Tu Carita",
+      "url": "https://open.spotify.com/track/3o2gUt04NbZwMv5uwKwbSy"
+    },
+    {
+      "album": {
         "name": "T\u00fa Me Gustas, Mujer!!!",
         "url": "https://open.spotify.com/album/1AH2y3HEWgiSKSYkbrgBEn"
       },

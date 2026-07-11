@@ -5726,7 +5726,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 145068,
       "name": "always changing",
       "url": "https://open.spotify.com/track/7yNZb7qHL5cfmDdnvNadk3"
@@ -39093,6 +39093,28 @@
     },
     {
       "album": {
+        "name": "embrace",
+        "url": "https://open.spotify.com/album/7eRjgrjP0kuCfWBumh9DLT"
+      },
+      "artists": [
+        {
+          "name": "Bcalm",
+          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
+        },
+        {
+          "name": "jaackson",
+          "url": "https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118356,
+      "name": "embrace",
+      "url": "https://open.spotify.com/track/3AAfTHI6SiBDOUAEVgBV2m"
+    },
+    {
+      "album": {
         "name": "Moonlight Tales",
         "url": "https://open.spotify.com/album/3XMbwIbPcfsJY345nZaElz"
       },
@@ -40960,6 +40982,24 @@
       "duration_ms": 158231,
       "name": "evening star",
       "url": "https://open.spotify.com/track/06VD9rJVYRrYpoStUxObaH"
+    },
+    {
+      "album": {
+        "name": "evening walk",
+        "url": "https://open.spotify.com/album/5bNO4Z63kbIVrM3CfpdkNT"
+      },
+      "artists": [
+        {
+          "name": "le gronk",
+          "url": "https://open.spotify.com/artist/1HHbmSXj8pZ2oTGOXa3I0y"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150766,
+      "name": "evening walk",
+      "url": "https://open.spotify.com/track/7LkVzAKTL1JiCVGvsttdat"
     },
     {
       "album": {
@@ -55955,6 +55995,28 @@
     },
     {
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/306SNwPAnkuIAMXtTRVQbV"
+      },
+      "artists": [
+        {
+          "name": "amies",
+          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
+        },
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/45Rs3Os2SaOFEQKDcmmQBp"
+    },
+    {
+      "album": {
         "name": "heartbeat",
         "url": "https://open.spotify.com/album/3ubzF6QJzCUKP9HHaAnelI"
       },
@@ -70455,6 +70517,24 @@
     },
     {
       "album": {
+        "name": "late june",
+        "url": "https://open.spotify.com/album/3kuK0fHX4OfX4JhGFLdbRH"
+      },
+      "artists": [
+        {
+          "name": "slowburn",
+          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138205,
+      "name": "late june",
+      "url": "https://open.spotify.com/track/1qmm8sVryJHUzJSnPccxsM"
+    },
+    {
+      "album": {
         "name": "Late Night",
         "url": "https://open.spotify.com/album/5ZPE0dkj0QmzVNnW1t0eDt"
       },
@@ -77028,7 +77108,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 163235,
       "name": "low light",
       "url": "https://open.spotify.com/track/6epeveQRKGptYQghyFnTB0"
@@ -96095,6 +96175,24 @@
     },
     {
       "album": {
+        "name": "open door",
+        "url": "https://open.spotify.com/album/4d12ugnO5VUeke6ksFxnOP"
+      },
+      "artists": [
+        {
+          "name": "stillnote",
+          "url": "https://open.spotify.com/artist/71URiGTdyY6ffXdsu3pzRL"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120500,
+      "name": "open door",
+      "url": "https://open.spotify.com/track/3bgxCaydVu3k2jhKCjmFHv"
+    },
+    {
+      "album": {
         "name": "At Ease",
         "url": "https://open.spotify.com/album/16qoJEqdBZ3s71UCX3GfaG"
       },
@@ -112288,7 +112386,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 135691,
       "name": "second nature",
       "url": "https://open.spotify.com/track/1GK6XU3uVfGyNxWagNUqcK"
@@ -123386,7 +123484,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 124275,
       "name": "stepping stones",
       "url": "https://open.spotify.com/track/6yfrht7uwfrbggDIKZqTAU"
@@ -133406,6 +133504,24 @@
       "duration_ms": 140800,
       "name": "Things Have Changed",
       "url": "https://open.spotify.com/track/1m3tVP7vB1s40FSXfF99RK"
+    },
+    {
+      "album": {
+        "name": "things we see",
+        "url": "https://open.spotify.com/album/0Tk2aRYU1USx0Qauh31zKE"
+      },
+      "artists": [
+        {
+          "name": "mutedvibes",
+          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147098,
+      "name": "things we see",
+      "url": "https://open.spotify.com/track/3BFlgrffvIkndTpxxRfIiq"
     },
     {
       "album": {
@@ -143890,6 +144006,24 @@
       "duration_ms": 111724,
       "name": "warm quilt",
       "url": "https://open.spotify.com/track/3cHSIFhQreEfxLYY0weEq9"
+    },
+    {
+      "album": {
+        "name": "Warm Static",
+        "url": "https://open.spotify.com/album/0VD3U1uzSAEQTpllK0JqWU"
+      },
+      "artists": [
+        {
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/0Tc5RmUZd5MfNBwBQfEXld"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130862,
+      "name": "Warm Static",
+      "url": "https://open.spotify.com/track/72vCbzRwe8TdJyFWvfiT59"
     },
     {
       "album": {

@@ -7789,6 +7789,24 @@
     },
     {
       "album": {
+        "name": "Onde Est\u00e1 Meu Amor?",
+        "url": "https://open.spotify.com/album/2vUcpGS0RvO6WzxuYD6OJf"
+      },
+      "artists": [
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181942,
+      "name": "Namora Com O Telefone",
+      "url": "https://open.spotify.com/track/6cGcgAvBwT6EFukPAuRTBj"
+    },
+    {
+      "album": {
         "name": "Namorado",
         "url": "https://open.spotify.com/album/39pBAZBtmSzLborWcGy8Pc"
       },
@@ -8140,7 +8158,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 200005,
       "name": "Nossas Coisas (feat. Ary)",
       "url": "https://open.spotify.com/track/0ty1TRfXkmeQj8jIyYA1vE"

@@ -790,7 +790,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 215858,
       "name": "AIZO",
       "url": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 258173,
       "name": "AKANE On My Mind\uff5e\u9945\u982d\u3053\u308f\u3044",
       "url": "https://open.spotify.com/track/5um4gHKgOovWuzsQJsErXn"
@@ -2370,7 +2370,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 199200,
       "name": "BELIEVERS",
       "url": "https://open.spotify.com/track/4AgFjRJo4DYsSP3bealsdf"
@@ -4575,6 +4575,24 @@
     },
     {
       "album": {
+        "name": "Clover",
+        "url": "https://open.spotify.com/album/5eMSxw5F43b9x6J9NCzoc2"
+      },
+      "artists": [
+        {
+          "name": "\u6c50\u308c\u3044\u3089",
+          "url": "https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176233,
+      "name": "Clover",
+      "url": "https://open.spotify.com/track/3vT5XVoVCjF6EujVPobNs3"
+    },
+    {
+      "album": {
         "name": "CODE GE4SS",
         "url": "https://open.spotify.com/album/5Lf9djU5FvvXfFtjdRsz2z"
       },
@@ -5036,7 +5054,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 247360,
       "name": "CUE CUE CUTE",
       "url": "https://open.spotify.com/track/79r72AAzvRGkDXtPkLry2O"
@@ -5252,7 +5270,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 287182,
       "name": "Dance with STEEL BALL RUN",
       "url": "https://open.spotify.com/track/4lJMMdMHq3qk2Uqld0AEkF"
@@ -10568,7 +10586,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 256000,
       "name": "Hito wa Wataridori",
       "url": "https://open.spotify.com/track/1i6W26f6aVGZUdMxAyhet6"
@@ -12140,7 +12158,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 218250,
       "name": "itoi",
       "url": "https://open.spotify.com/track/4jBagyswztUlKEzHvmeonh"
@@ -17588,7 +17606,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 192859,
       "name": "NEXT CARD",
       "url": "https://open.spotify.com/track/6rZlzao97RWwllySqCEsDw"
@@ -18378,7 +18396,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 215324,
       "name": "One Two Three",
       "url": "https://open.spotify.com/track/5CEYf8aWwIXLg4cHhn5fou"
@@ -22528,7 +22546,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 267696,
       "name": "Silver 30",
       "url": "https://open.spotify.com/track/1EaUao4ZRibbH9qPaCUIAB"
@@ -25082,7 +25100,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 195297,
       "name": "The Brave - from CrosSing",
       "url": "https://open.spotify.com/track/1TqErSDB1EQqLqqXcNnvbm"
@@ -27425,6 +27443,24 @@
     },
     {
       "album": {
+        "name": "Wanna me (TV edit)",
+        "url": "https://open.spotify.com/album/7ht4FNVIRQaKBae84sAdWj"
+      },
+      "artists": [
+        {
+          "name": "adieu",
+          "url": "https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91506,
+      "name": "Wanna me (TV edit)",
+      "url": "https://open.spotify.com/track/7k5NIibKDiyE0rm816QcD4"
+    },
+    {
+      "album": {
         "name": "Warcry",
         "url": "https://open.spotify.com/album/3NzsiDe5i8vsyePy7Zq7Ci"
       },
@@ -29298,7 +29334,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 213093,
       "name": "Zutto Ichibanni Shitene",
       "url": "https://open.spotify.com/track/1zPs9OnsajiSqtFVy1SyRN"
@@ -32164,7 +32200,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 187130,
       "name": "\u307e\u305f\u5e30\u3063\u3066\u304d\u305f\u30b1\u30ed\u30c3\uff01\u3068\u30de\u30fc\u30c1",
       "url": "https://open.spotify.com/track/5Mm8lWUFmdpEPM0yoRkXTM"
@@ -34400,7 +34436,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 236000,
       "name": "\u30ad\u30e5\u30fc\u30c8\u306a\u30ad\u30e5\u30fc\u305f\u3044",
       "url": "https://open.spotify.com/track/73rdU71fLEd0nW7HENRhKF"
@@ -34960,6 +34996,24 @@
       "duration_ms": 308893,
       "name": "\u30b3\u30c8\u30fb\u30e2\u30ce\u30fb\u30c8\u30ad",
       "url": "https://open.spotify.com/track/1SQH9DuoKwEa8mPVwlFJJZ"
+    },
+    {
+      "album": {
+        "name": "\u30b3\u30cb\u30d5\u30a1\u30fc",
+        "url": "https://open.spotify.com/album/44W6rIo0iB8w2337QadDL6"
+      },
+      "artists": [
+        {
+          "name": "Regallily",
+          "url": "https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219960,
+      "name": "\u30b3\u30cb\u30d5\u30a1\u30fc",
+      "url": "https://open.spotify.com/track/0xiPPtrQgUp9dB0Z3oQ3x8"
     },
     {
       "album": {
@@ -44456,7 +44510,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 270365,
       "name": "\u5fc3\u661f",
       "url": "https://open.spotify.com/track/7dPbXBrAPzVDuUYnaqEvy6"
@@ -50502,7 +50556,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 286417,
       "name": "\u91d1\u5b57\u5854",
       "url": "https://open.spotify.com/track/0G0FQEoNawD8i0LCrDMAl4"
@@ -51782,7 +51836,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 204466,
       "name": "\u9ece\u660eCompass",
       "url": "https://open.spotify.com/track/2OYoDq2WkF8g2i1WxrsgrT"

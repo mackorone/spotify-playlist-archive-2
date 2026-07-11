@@ -3491,6 +3491,24 @@
     },
     {
       "album": {
+        "name": "BACK TO BASICS",
+        "url": "https://open.spotify.com/album/1AKBx4RPU7jtv0qDzOot8U"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171035,
+      "name": "BACK TO BASICS",
+      "url": "https://open.spotify.com/track/26Ia0YGbzItnlz5IpewDaI"
+    },
+    {
+      "album": {
         "name": "BACK TO LIFE",
         "url": "https://open.spotify.com/album/3pWdq6D1fx54VQDJ6rQytB"
       },
@@ -16291,6 +16309,24 @@
     },
     {
       "album": {
+        "name": "ECHOES",
+        "url": "https://open.spotify.com/album/4ypyTtE6YpMruqGDgdw3N8"
+      },
+      "artists": [
+        {
+          "name": "Cardination",
+          "url": "https://open.spotify.com/artist/4toQz3bR47E3eTqP8PssZm"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "ECHOES",
+      "url": "https://open.spotify.com/track/6iry91GQOSsNFAQvh8cYXA"
+    },
+    {
+      "album": {
         "name": "Echoes of Unity (Official Toxicator 2023 Anthem)",
         "url": "https://open.spotify.com/album/6L5eWhkdwPFpSEtMOkG34G"
       },
@@ -17006,6 +17042,28 @@
       "duration_ms": 312774,
       "name": "Enter The Void",
       "url": "https://open.spotify.com/track/0LjV7CvquJ67CG63vOBiOw"
+    },
+    {
+      "album": {
+        "name": "Escape From Reality",
+        "url": "https://open.spotify.com/album/4qxhcKqunaWP702nDIUlhS"
+      },
+      "artists": [
+        {
+          "name": "Day-Mar",
+          "url": "https://open.spotify.com/artist/0dvmxtAgqN2UAFyRA8JLpf"
+        },
+        {
+          "name": "Drokz",
+          "url": "https://open.spotify.com/artist/2RoJa2qF4fdyhBkVcl5pNi"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226104,
+      "name": "Escape From Reality",
+      "url": "https://open.spotify.com/track/0emUzrTHY6Jm0p1028EOYX"
     },
     {
       "album": {
@@ -26451,6 +26509,28 @@
     },
     {
       "album": {
+        "name": "Higher Lately",
+        "url": "https://open.spotify.com/album/4QGnZyhT4vUn8gybqwFhcb"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        {
+          "name": "Nathalie Blue",
+          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226645,
+      "name": "Higher Lately",
+      "url": "https://open.spotify.com/track/4U8OSLIBZS3FtuZiAG5Y6J"
+    },
+    {
+      "album": {
         "name": "Highland Bounce",
         "url": "https://open.spotify.com/album/0PFsCzzKtupTtICuLgNHcs"
       },
@@ -33590,6 +33670,24 @@
       "duration_ms": 157789,
       "name": "Like A King - Nightcore",
       "url": "https://open.spotify.com/track/2s8DqUYs4PMOucYWpI7jGb"
+    },
+    {
+      "album": {
+        "name": "LIKE A LOVE SONG",
+        "url": "https://open.spotify.com/album/7L1FuT2HD46PPwPjLnQG6k"
+      },
+      "artists": [
+        {
+          "name": "Dead X",
+          "url": "https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "LIKE A LOVE SONG",
+      "url": "https://open.spotify.com/track/6xE0s8La7F6UnuHTqHmeI2"
     },
     {
       "album": {
@@ -47794,6 +47892,24 @@
       "duration_ms": 132600,
       "name": "Ride To Glory",
       "url": "https://open.spotify.com/track/7hj8Ji0H1PwTPM3Te87p6i"
+    },
+    {
+      "album": {
+        "name": "Ride With Me",
+        "url": "https://open.spotify.com/album/17aijjFqQXAbZgolaHwwNQ"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Ride With Me",
+      "url": "https://open.spotify.com/track/1MSpj7AjU2hxAYBtzf36Mf"
     },
     {
       "album": {

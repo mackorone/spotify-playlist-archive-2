@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover \- Twinkle Aggrwal
 
-707 songs - 1 day 18 hr 12 min
+708 songs - 1 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Ek Tarfa](https://open.spotify.com/track/6s7dQ6nHwILfXw1SMyOI8F) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk) | [Ek Tarfa](https://open.spotify.com/album/48N7cNRVOafA9ERnFHkIIy) | 3:46 | 2022-09-07 | 2023-03-03 |
 | [Falak Tak](https://open.spotify.com/track/0IudGhdeJZwJ0Ps6ndtQDt) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Tashan](https://open.spotify.com/album/59p4XN8mbKxNCoY5nQJyN5) | 5:56 | 2026-03-19 | 2026-04-09 |
 | [Faqeeran \- Live](https://open.spotify.com/track/7DlNgLpxX3gPh3tzqrY7tL) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [MUSAFIR \(Live\)](https://open.spotify.com/album/6IAfM7GKWU0oKM2XNQv6qI) | 4:42 | 2026-03-19 | 2026-04-09 |
-| [Fasaana](https://open.spotify.com/track/69UVWiMCXMNnj6bKLc2Bi6) | [Kuhu Gracia](https://open.spotify.com/artist/4ebleKdf8oHmy6tyB0W6cq) | [Fasaana](https://open.spotify.com/album/1aXkbjRSWxyBZOujzSE8Wj) | 3:25 | 2026-05-11 |  |
+| [Fasaana](https://open.spotify.com/track/69UVWiMCXMNnj6bKLc2Bi6) | [Kuhu Gracia](https://open.spotify.com/artist/4ebleKdf8oHmy6tyB0W6cq) | [Fasaana](https://open.spotify.com/album/1aXkbjRSWxyBZOujzSE8Wj) | 3:25 | 2026-05-11 | 2026-07-11 |
 | [Feeka](https://open.spotify.com/track/0KtpHwKA3UylFJyaJcdBxv) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0), [NEVERSOBER](https://open.spotify.com/artist/4QWgs64BJEmTH6OfcBsEvO) | [Feeka](https://open.spotify.com/album/76gnTOJwG2tIcpUsR6Dd0A) | 2:43 | 2026-02-04 |  |
 | [Fikkar Koi Na \- Female Version](https://open.spotify.com/track/3aUeXn3MYEojxXBqrdJlgy) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [The Koko](https://open.spotify.com/artist/5fdZP1hlx6kNQlOVVunTi3), [Sync](https://open.spotify.com/artist/1JT2GXhUeRkIglDUazBmVH) | [Fikkar Koi Na \(Female Version\)](https://open.spotify.com/album/07HlaUf3JFUc8jhxvlnLcE) | 2:52 | 2022-02-01 | 2022-03-08 |
 | [Filam Dekho \- From "Nishaanchi"](https://open.spotify.com/track/64wZ5ZEc1d1AqAZmXMDDG9) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Shashwat Dwivedi](https://open.spotify.com/artist/4wpalPDU6IgVSO3EExYjaF) | [Nishaanchi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ajq1uRIfOOtpr3Yx7elHU) | 3:20 | 2025-09-02 | 2025-09-13 |
@@ -552,6 +552,7 @@
 | [Saami Saami](https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC) | [Mounika Yadav](https://open.spotify.com/artist/2oLVeyUyYNFELwC93iZWGG) | [Pushpa \- The Rise](https://open.spotify.com/album/4EP0PqETB5XNtJT9vOIfnu) | 3:43 | 2021-12-10 | 2022-02-02 |
 | [Saami Saami \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/track/1GjRIaC1VRaPw8cl5CAjuF) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Saami Saami \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/album/02tXOv9v8wSngJjB1i3E7z) | 3:47 | 2022-03-08 | 2024-09-03 |
 | [Saamna](https://open.spotify.com/track/0lhk4r9QgUs4prcgnKdatB) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Saamna](https://open.spotify.com/album/3OnWdkTf2gg6DaZWsSSoOA) | 3:53 | 2022-04-05 | 2023-01-04 |
+| [Saanjh](https://open.spotify.com/track/4sgBqGDsKiNzc65jGaEnr3) | [Raveena Paul](https://open.spotify.com/artist/3JShaTOiYkvAT6XoaU38se), [Aman Sharma](https://open.spotify.com/artist/2jGsUaf3nyfgiIukPeX200) | [Saanjh](https://open.spotify.com/album/3cgRZU6NFFHXPpMvI0YnLe) | 2:44 | 2026-07-06 |  |
 | [Saanjh](https://open.spotify.com/track/5nrhIgDiO6TppbdLxUDqHs) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Saanjh](https://open.spotify.com/album/6lzFKrN8dJifMdpDBNuOw8) | 4:42 | 2023-03-02 | 2023-08-01 |
 | [Saanware](https://open.spotify.com/track/5pKX2YPm6Ke9ObybeurG8i) | [Zikrr](https://open.spotify.com/artist/4aEfgXDQuGLSDsyFRGt2DZ), [Vidhi Tyagi](https://open.spotify.com/artist/2WUJ2S53A6RZENNR2rbAzr), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz), [DUSH](https://open.spotify.com/artist/05abXfm9g4tZcaUqn301Xh) | [Saanware](https://open.spotify.com/album/5GLWcHsMZOBsIPj0969gXm) | 3:34 | 2026-05-29 |  |
 | [Saanware Aijaiyo](https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Saanware Aijaiyo](https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j) | 3:54 | 2023-09-14 | 2024-02-24 |

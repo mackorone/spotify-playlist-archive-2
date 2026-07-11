@@ -46324,6 +46324,10 @@
         {
           "name": "Naod",
           "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        },
+        {
+          "name": "NBLNATION",
+          "url": "https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6"
         }
       ],
       "date_added": "2026-07-09",
@@ -190329,6 +190333,28 @@
     },
     {
       "album": {
+        "name": "Hold My Breath",
+        "url": "https://open.spotify.com/album/540DKCihQemJiYBN9AFi4m"
+      },
+      "artists": [
+        {
+          "name": "Albi",
+          "url": "https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Hold My Breath",
+      "url": "https://open.spotify.com/track/4FOdgYVV5xaMjY0NCZoFEu"
+    },
+    {
+      "album": {
         "name": "Hold my breath",
         "url": "https://open.spotify.com/album/0eDkEAUHSyzQTuRuh6gKtJ"
       },
@@ -230433,7 +230459,7 @@
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 188258,
+      "duration_ms": 187910,
       "name": "juliet",
       "url": "https://open.spotify.com/track/20QpnulmuflvwCjXnDW8I2"
     },
@@ -268105,7 +268131,7 @@
     },
     {
       "album": {
-        "name": "L\u00e4nge Leve (Sommarern)",
+        "name": "L\u00e4nge Leve (Sommaren)",
         "url": "https://open.spotify.com/album/32xYbPovjxwixEB2EAJ6Tu"
       },
       "artists": [
@@ -268118,7 +268144,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 132451,
-      "name": "L\u00e4nge Leve (Sommarern)",
+      "name": "L\u00e4nge Leve (Sommaren)",
       "url": "https://open.spotify.com/track/2CSftoMORIG7yvKRo4ijJ2"
     },
     {
@@ -282518,6 +282544,24 @@
       "duration_ms": 144059,
       "name": "Million Cash",
       "url": "https://open.spotify.com/track/6Cds0aUGW0olm8E5kxSZ5J"
+    },
+    {
+      "album": {
+        "name": "MILLION DOLLAR BABE",
+        "url": "https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173445,
+      "name": "MILLION DOLLAR BABE",
+      "url": "https://open.spotify.com/track/4uzXo3sUkY7xXelBvj1L7A"
     },
     {
       "album": {
@@ -363333,6 +363377,24 @@
     },
     {
       "album": {
+        "name": "New Man",
+        "url": "https://open.spotify.com/album/2JP7EIbTweYKgL3d2F9qEZ"
+      },
+      "artists": [
+        {
+          "name": "Freyr",
+          "url": "https://open.spotify.com/artist/0XEC2bQgKvaq09BZFPDA9y"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144403,
+      "name": "Same Old",
+      "url": "https://open.spotify.com/track/1dgU0WemJ842gCJj7iyEoq"
+    },
+    {
+      "album": {
         "name": "Same Old Dirt",
         "url": "https://open.spotify.com/album/5nBa7kEFLjmMmftj60JWwM"
       },
@@ -441732,24 +441794,6 @@
       "duration_ms": 197933,
       "name": "TQG",
       "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
-    },
-    {
-      "album": {
-        "name": "New Man",
-        "url": "https://open.spotify.com/album/2JP7EIbTweYKgL3d2F9qEZ"
-      },
-      "artists": [
-        {
-          "name": "Freyr",
-          "url": "https://open.spotify.com/artist/0XEC2bQgKvaq09BZFPDA9y"
-        }
-      ],
-      "date_added": "2026-07-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/1dgU0WemJ842gCJj7iyEoq"
     },
     {
       "album": {

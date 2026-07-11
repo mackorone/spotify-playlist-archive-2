@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Popjustice's new release playlist updated on Fridays for over a decade with one rule: best song at the top\. Here are 500\-ish songs of the week from the first ten years of New Music Friday.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,721 likes - 509 songs - 1 day 4 hr 50 min
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,718 likes - 509 songs - 1 day 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

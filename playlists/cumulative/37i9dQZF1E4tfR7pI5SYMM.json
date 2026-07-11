@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Jon Drake, Dystopian X Vision, Bad Scullianz and more",
+  "description": "With Jon Drake, Haneke Twins, Parnham and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -529,6 +529,24 @@
     },
     {
       "album": {
+        "name": "Angels and Demons",
+        "url": "https://open.spotify.com/album/63PRsEWbpxZS4MJxBNhkCw"
+      },
+      "artists": [
+        {
+          "name": "Call Me T",
+          "url": "https://open.spotify.com/artist/23H6nhAuaXfnfLg2JHzXpF"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Angels and Demons",
+      "url": "https://open.spotify.com/track/3YdXRS9Mecl4G97R11yTkl"
+    },
+    {
+      "album": {
         "name": "Appsolution",
         "url": "https://open.spotify.com/album/2zC2wmBVFSBXhUavezinYx"
       },
@@ -540,7 +558,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 184070,
       "name": "Appsolution",
       "url": "https://open.spotify.com/track/3BhMNE3Z0xIIOg1VP5A5mu"
@@ -580,6 +598,24 @@
       "duration_ms": 297000,
       "name": "Asinis gran\u012bt\u0101 deg",
       "url": "https://open.spotify.com/track/3puivPPakeQ6HOsClj8Bx9"
+    },
+    {
+      "album": {
+        "name": "Our Future Is in the Stars",
+        "url": "https://open.spotify.com/album/1fuya1V5XWJOguLaefEh7G"
+      },
+      "artists": [
+        {
+          "name": "Aurora Syndrome",
+          "url": "https://open.spotify.com/artist/5M5BTFTnaQApS4zmaoajUr"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99747,
+      "name": "Astray",
+      "url": "https://open.spotify.com/track/1VCPQ9DCMZRGigOFtJ8AbR"
     },
     {
       "album": {
@@ -800,7 +836,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 178190,
       "name": "Bara mig sj\u00e4lv",
       "url": "https://open.spotify.com/track/0tBXwBmJl2wOIzSsnXrFOa"
@@ -818,7 +854,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 282352,
       "name": "Be Your Own Light",
       "url": "https://open.spotify.com/track/7IWEy1oMlW4Ua2YG8t0Kms"
@@ -908,7 +944,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -962,7 +998,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 254374,
       "name": "Black Heart",
       "url": "https://open.spotify.com/track/2nq1Ih4df9PNbjwQObcFNk"
@@ -1884,7 +1920,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 290000,
       "name": "Commander Cruel - Rework 2026",
       "url": "https://open.spotify.com/track/1cz2tkOAJEnaOr4DLp16hH"
@@ -2310,6 +2346,24 @@
       "duration_ms": 246666,
       "name": "Death, That Elusive Mistress",
       "url": "https://open.spotify.com/track/6dkyykLMdt7oF2djYNOVX7"
+    },
+    {
+      "album": {
+        "name": "Haneke Twins",
+        "url": "https://open.spotify.com/album/0Gy7fIwP3YDH9Iu6eygJxu"
+      },
+      "artists": [
+        {
+          "name": "Haneke Twins",
+          "url": "https://open.spotify.com/artist/0jIuUCEUI2ejpPurPdkPGK"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220376,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/3sUcCa6qKH6d7Lo0epfqTW"
     },
     {
       "album": {
@@ -3262,7 +3316,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 235589,
       "name": "Elden",
       "url": "https://open.spotify.com/track/5VcS5mmrBi7LJCTvN6N3oc"
@@ -4570,7 +4624,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 149538,
       "name": "Gin N Tonic",
       "url": "https://open.spotify.com/track/4lRrtbKHGIYXWGtP0i7F9K"
@@ -5858,7 +5912,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 167285,
       "name": "Iron Line",
       "url": "https://open.spotify.com/track/4NVfZCQJskqECiopkrCFws"
@@ -6100,7 +6154,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -6598,7 +6652,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 122666,
       "name": "Lies Behind The Afterlife - 2026 remastered version",
       "url": "https://open.spotify.com/track/3fneVquIhlM7TjjxckJ4jS"
@@ -6964,7 +7018,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 218008,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/4cVstee7fswTt4u33UxODw"
@@ -7801,6 +7855,24 @@
     },
     {
       "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/0QfoJAqJGn5hjcdTTrhXfO"
+      },
+      "artists": [
+        {
+          "name": "Ivan May",
+          "url": "https://open.spotify.com/artist/60DBdNzE9weHaADp0qfOJL"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224896,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/0dXmvYjBKsPUPlJEiaPo91"
+    },
+    {
+      "album": {
         "name": "Pull Like a Dog",
         "url": "https://open.spotify.com/album/2rPxVtL7D8v8AoYkHekCiy"
       },
@@ -7902,7 +7974,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 316493,
       "name": "Mutter",
       "url": "https://open.spotify.com/track/0dZQZ2lzX73bPIqPG33AeA"
@@ -8400,7 +8472,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 219752,
       "name": "Not Immortal",
       "url": "https://open.spotify.com/track/5fK9crvnMpEOU7aLe4X8wW"
@@ -9592,7 +9664,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 295200,
       "name": "Psycho Drill",
       "url": "https://open.spotify.com/track/6UXUcPabJyN1obijdKq7gr"
@@ -10576,7 +10648,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 277282,
       "name": "Smile, Smile, Smile",
       "url": "https://open.spotify.com/track/1nlhgVRaJJl1tWqXpLtuTf"
@@ -11510,7 +11582,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 169456,
       "name": "Televised - Radio Edit",
       "url": "https://open.spotify.com/track/1oRgzB0NVhJ3Yc27Zxj2Ix"
@@ -11748,7 +11820,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 107586,
       "name": "The End",
       "url": "https://open.spotify.com/track/3XP2fgY72feUbo3jG5bOjS"
@@ -12054,7 +12126,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 298320,
       "name": "The Loneliest Place",
       "url": "https://open.spotify.com/track/21y9EJHV1INbYDAvJkzDzP"
@@ -12228,7 +12300,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-08",
+      "date_removed": null,
       "duration_ms": 193500,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/60tVvB34IfKDBqq0lbAdZr"
@@ -12658,7 +12730,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 206083,
       "name": "Time",
       "url": "https://open.spotify.com/track/67dBdEclgI36iWZmd9YjRU"
@@ -12698,7 +12770,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 182451,
       "name": "to another town",
       "url": "https://open.spotify.com/track/0XeiDjaFNRK2SzO9SyBIom"
@@ -12846,7 +12918,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 168574,
       "name": "Touch The Sky",
       "url": "https://open.spotify.com/track/2mwTI5QWepywqsrp4YG6QL"
@@ -13410,7 +13482,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 282133,
       "name": "Verschworen (Metropolis Remaster)",
       "url": "https://open.spotify.com/track/3nmFptZo0VDSeIps4eL6SO"
@@ -14197,6 +14269,24 @@
     },
     {
       "album": {
+        "name": "Dark Light",
+        "url": "https://open.spotify.com/album/0iO6Le6KC7eMe25VZbxnFj"
+      },
+      "artists": [
+        {
+          "name": "Parnham",
+          "url": "https://open.spotify.com/artist/16JA6LYjG1uiMLbSfRaBFs"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192891,
+      "name": "Wounded Not Broken",
+      "url": "https://open.spotify.com/track/78sjWLKsG7P3E7hVhP1bO3"
+    },
+    {
+      "album": {
         "name": "Steel, Fire & Ice",
         "url": "https://open.spotify.com/album/35vZ59kKeBFlzJ0dsavTIy"
       },
@@ -14768,7 +14858,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 186823,
       "name": "\u041d\u0456\u0445\u0442\u043e \u043d\u0456 \u0432 \u0447\u043e\u043c\u0443 \u043d\u0435 \u0432\u0438\u043d\u0435\u043d, \u043e\u043a\u0440\u0456\u043c \u043c\u0435\u043d\u0435",
       "url": "https://open.spotify.com/track/3ZrLynIiP5Bp0rfJtnqH19"

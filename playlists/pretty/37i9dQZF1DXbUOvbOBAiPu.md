@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from La Mano 1.9 x Ninho, Genezio, U2, Teddy Swims and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,108 likes - 115 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,278 likes - 115 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 25 | [INSTRUMENT](https://open.spotify.com/track/1XDmQEZjsDDSoInzjLe7lD) | [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB) | [INSTRUMENT](https://open.spotify.com/album/6RE499ANI1c9XVC8a9GtxZ) | 2:42 |
 | 26 | [Silver Lines \(feat\. Emily Warren\)](https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Silver Lines \(feat\. Emily Warren\)](https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1) | 3:21 |
 | 27 | [Someday, Somewhere](https://open.spotify.com/track/20FqWsyuUaQTU5tk4nP6eN) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Someday, Somewhere](https://open.spotify.com/album/4FlY87oGWuZ49lYMVdofEj) | 2:31 |
-| 28 | [Toxic](https://open.spotify.com/track/0PzKXHZLlax3utLHSAAsiF) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Toxic](https://open.spotify.com/album/4S2OSc9WPy2QK6FabRqurE) | 2:47 |
+| 28 | [Toxic](https://open.spotify.com/track/0PzKXHZLlax3utLHSAAsiF) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Toxic](https://open.spotify.com/album/4S2OSc9WPy2QK6FabRqurE) | 2:44 |
 | 29 | [All My Life](https://open.spotify.com/track/5SIQKhxonWjF5C0f1KT7At) | [GGB](https://open.spotify.com/artist/5YxNG0dFyrvF92ZMSZhZft), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Lena Situations](https://open.spotify.com/artist/31mbaFC1l80Rsah5IVltYX), [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [All My Life](https://open.spotify.com/album/3D9ujtj8Re6EK1QgwEXeGe) | 2:35 |
 | 30 | [SOORT](https://open.spotify.com/track/0zVpWODG7CH9skI22fR146) | [Mula](https://open.spotify.com/artist/0fzMb7AJnLMfYElJvYd8N4), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [SOORT](https://open.spotify.com/album/7yd9QC2t3BXH241IczbsKB) | 2:35 |
 | 31 | [SLICK](https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [SLICK](https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ) | 1:46 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 47 | [I See Myself In You](https://open.spotify.com/track/7fFIi03q0VmDVirivowqVK) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [I See Myself In You](https://open.spotify.com/album/5KUwS3sFw9GNjF25MzaZrH) | 3:30 |
 | 48 | [Met Mij Zijn](https://open.spotify.com/track/1EOSFJC2w4LvFaInJr9G4T) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Met Mij Zijn](https://open.spotify.com/album/2slIoPsgmDzAcvkF5g2Uyt) | 2:33 |
 | 49 | [Faded Blue Jeans \(feat\. Josh Homme\)](https://open.spotify.com/track/5Zdks1bLKiYAP9HJEh65kc) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Josh Homme](https://open.spotify.com/artist/03xb2BUdIFzuRQ6o88yfCB) | [Faded Blue Jeans](https://open.spotify.com/album/7jbfvhV7NYQoXYVFdJwhD2) | 2:31 |
-| 50 | [Samedi soir](https://open.spotify.com/track/4LOwVIcwwOTwT9FcCPiYTb) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [Samedi soir](https://open.spotify.com/album/2qIZTgXmZ3R6LlJ6mXGFNk) | 2:37 |
+| 50 | [Samedi soir](https://open.spotify.com/track/4LOwVIcwwOTwT9FcCPiYTb) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Gemtro](https://open.spotify.com/artist/1oFFkY4UrGTXjFwzFndWB4) | [Samedi soir](https://open.spotify.com/album/2qIZTgXmZ3R6LlJ6mXGFNk) | 2:37 |
 | 51 | [Tu dis quoi?](https://open.spotify.com/track/1js2ctvtBznFXyMkhOXw3t) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4), [Taliixo Beatz](https://open.spotify.com/artist/0zJbnxrPTqqwSac6FEHWKE), [Wiils](https://open.spotify.com/artist/5nlb9fduEXeYSS8K6IkFwj) | [Tu dis quoi?](https://open.spotify.com/album/6OM8IMDKA5LhlOsBWFhjoe) | 2:27 |
 | 52 | [chambre d'ado](https://open.spotify.com/track/7qbr3dwkMiCLUx4e1WnBKD) | [melissa](https://open.spotify.com/artist/77pC16FFzTR8m9sK49Miba) | [tout va bien \(jcrois\)](https://open.spotify.com/album/3xTuNXYehyPW7Ta6M08b4h) | 3:01 |
 | 53 | [CHER OU ILLÉGAL](https://open.spotify.com/track/7sjQaTDanYjjmGacS08mLG) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP) | [CHER OU ILLÉGAL](https://open.spotify.com/album/1HYHcOjNEUjoBEUpUvpiuG) | 2:44 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 86 | [Iron City](https://open.spotify.com/track/7o9gwmscHBXh6sUEYkWQ4e) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Iron City](https://open.spotify.com/album/5bDculEme7GI0So0fOO6sg) | 4:10 |
 | 87 | [Wild Romance](https://open.spotify.com/track/0JMpMJszhmHuBCvdnYt6tq) | [Tahiti 80](https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j) | [Wild Romance](https://open.spotify.com/album/5Loewzrsr9zGKzQrLKuLFr) | 2:43 |
 | 88 | [Sans Permission](https://open.spotify.com/track/1NOxV2j4xco6tfmXEJtFii) | [EMA](https://open.spotify.com/artist/5sBs3oeSyC5mNZimFy1QHY) | [Sans Permission](https://open.spotify.com/album/17DuUZlmxAK3ciA6dypepK) | 2:22 |
-| 89 | [Track 2](https://open.spotify.com/track/6jHeDkT1nisjl2LE1qVzFb) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [THERAPY](https://open.spotify.com/album/6AjkBSOVwXBWc2lXflY65D) | 0:00 |
+| 89 | [Comment m'aimer](https://open.spotify.com/track/6jHeDkT1nisjl2LE1qVzFb) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [THERAPY](https://open.spotify.com/album/6AjkBSOVwXBWc2lXflY65D) | 2:46 |
 | 90 | [Better With You](https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF) | [Better With You](https://open.spotify.com/album/3Uuy2TmXMScAV6Mzy9CZiO) | 3:31 |
 | 91 | [Pas bénef](https://open.spotify.com/track/0Yj8YEKajzJLetLzQA0DxK) | [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE) | [Pas bénef](https://open.spotify.com/album/2z1vNsKXAA72YzqFrAHd7s) | 2:38 |
 | 92 | [Knocking at the Sky](https://open.spotify.com/track/16naEqXaSBJunVZvqLhsHq) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre \(Deluxe\)](https://open.spotify.com/album/3AGFxS8n4Bicv65GAOW3od) | 4:28 |

@@ -1,6 +1,6 @@
 {
   "description": "Sintoniza los \u00e9xitos rom\u00e1nticos del siglo pasado \ud83e\udd40",
-  "num_followers": 171640,
+  "num_followers": 171685,
   "original_name": "Radio Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Salvaje y Tierno",
-        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 140133,
-      "name": "Nunca Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Con La Fuerza Del Destino",
         "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 197800,
       "name": "Con El Coraz\u00f3n En La Mano",
       "url": "https://open.spotify.com/track/7dQXDhWQmLrememQGfQo70"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Salvaje y Tierno",
+        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Total Que M\u00e1s Da",
+      "url": "https://open.spotify.com/track/11MzWUaZDnx9byUjJQraAy"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -431,6 +431,22 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
+        "name": "\u00daltimas Noticias",
+        "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
+      },
+      "artists": [
+        {
+          "name": "Viento Y Sol",
+          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Ultimas Noticias",
+      "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
         "name": "Salvaje y Tierno",
         "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
       },
@@ -440,9 +456,9 @@
           "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
         }
       ],
-      "duration_ms": 198040,
-      "name": "Total Que M\u00e1s Da",
-      "url": "https://open.spotify.com/track/11MzWUaZDnx9byUjJQraAy"
+      "duration_ms": 140133,
+      "name": "Nunca Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -459,22 +475,6 @@
       "duration_ms": 199013,
       "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
       "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
-        "name": "\u00daltimas Noticias",
-        "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
-      },
-      "artists": [
-        {
-          "name": "Viento Y Sol",
-          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Ultimas Noticias",
-      "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -815,18 +815,18 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
-        "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
+        "name": "La Rondalla Etc.",
+        "url": "https://open.spotify.com/album/21iFLZ2JMHMhPU2zKkzFAp"
       },
       "artists": [
         {
-          "name": "Los Golpes",
-          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
+          "name": "La Rondalla De Saltillo",
+          "url": "https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P"
         }
       ],
-      "duration_ms": 180426,
-      "name": "Olvidarte Nunca - 2003 Digital Remaster",
-      "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
+      "duration_ms": 146800,
+      "name": "Wendolyne",
+      "url": "https://open.spotify.com/track/5UzphHLxBUS69n6J30BZea"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -847,18 +847,18 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "La Rondalla Etc.",
-        "url": "https://open.spotify.com/album/21iFLZ2JMHMhPU2zKkzFAp"
+        "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
+        "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
       },
       "artists": [
         {
-          "name": "La Rondalla De Saltillo",
-          "url": "https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P"
+          "name": "Los Golpes",
+          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
         }
       ],
-      "duration_ms": 146800,
-      "name": "Wendolyne",
-      "url": "https://open.spotify.com/track/5UzphHLxBUS69n6J30BZea"
+      "duration_ms": 180426,
+      "name": "Olvidarte Nunca - 2003 Digital Remaster",
+      "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Solo Para Ti",
-        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
-      },
-      "artists": [
-        {
-          "name": "Generacion 2000",
-          "url": "https://open.spotify.com/artist/0EFNcc6Ju1d2Ik5i1jHrCd"
-        }
-      ],
-      "duration_ms": 140653,
-      "name": "T\u00fa Eres",
-      "url": "https://open.spotify.com/track/3XR3LkDvFIs32jEz1KdzTx"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "S\u00f3lo para enamorados",
         "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 183693,
       "name": "Por qu\u00e9?",
       "url": "https://open.spotify.com/track/5RXdPnVu0Re9XvKo9v6Wx4"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Solo Para Ti",
+        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
+      },
+      "artists": [
+        {
+          "name": "Generacion 2000",
+          "url": "https://open.spotify.com/artist/0EFNcc6Ju1d2Ik5i1jHrCd"
+        }
+      ],
+      "duration_ms": 140653,
+      "name": "T\u00fa Eres",
+      "url": "https://open.spotify.com/track/3XR3LkDvFIs32jEz1KdzTx"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1315,8 +1315,8 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Serie Sensacional Regional Mexican Yndio",
-        "url": "https://open.spotify.com/album/58GJW5Vi2X7lbAbYCN8Xm2"
+        "name": "Mano A Mano Volumen 1",
+        "url": "https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK"
       },
       "artists": [
         {
@@ -1324,9 +1324,9 @@
           "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
         }
       ],
-      "duration_ms": 223466,
-      "name": "Sin Tu Amor",
-      "url": "https://open.spotify.com/track/6nAkDgnYiBWK7cwGXdAMZ4"
+      "duration_ms": 190773,
+      "name": "Por Que Nos Dijimos Adios",
+      "url": "https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "15 Super Exitos Vol. 2",
-        "url": "https://open.spotify.com/album/7jSBOT8Dv2Knavq4HxOErj"
-      },
-      "artists": [
-        {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
-        }
-      ],
-      "duration_ms": 204693,
-      "name": "Acepta Mi Error",
-      "url": "https://open.spotify.com/track/3cw7R2QQKqkQfMTUSRJebL"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Una Sola Caida Y Las Abandonadas",
         "url": "https://open.spotify.com/album/0xrskhlBwinqWkw3ePezNv"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 202760,
       "name": "Con Cartitas",
       "url": "https://open.spotify.com/track/1YQInx1RDDFO22FwbWcjey"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "15 Super Exitos Vol. 2",
+        "url": "https://open.spotify.com/album/7jSBOT8Dv2Knavq4HxOErj"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "duration_ms": 204693,
+      "name": "Acepta Mi Error",
+      "url": "https://open.spotify.com/track/3cw7R2QQKqkQfMTUSRJebL"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Idolos de Argentina",
-        "url": "https://open.spotify.com/album/6RlXYXZd7cCw6astTKZJIB"
-      },
-      "artists": [
-        {
-          "name": "King Clave",
-          "url": "https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "Los Hombres No Deben Llorar",
-      "url": "https://open.spotify.com/track/3y4BiEvje7Ez7lnWR0VVEa"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Una Sola Caida Y Las Abandonadas",
         "url": "https://open.spotify.com/album/0xrskhlBwinqWkw3ePezNv"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 176226,
       "name": "Una Sola Ca\u00edda",
       "url": "https://open.spotify.com/track/0EGNdaIWoY4JrVawzWCWb5"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Idolos de Argentina",
+        "url": "https://open.spotify.com/album/6RlXYXZd7cCw6astTKZJIB"
+      },
+      "artists": [
+        {
+          "name": "King Clave",
+          "url": "https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Los Hombres No Deben Llorar",
+      "url": "https://open.spotify.com/track/3y4BiEvje7Ez7lnWR0VVEa"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1863,8 +1863,8 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Mano A Mano Volumen 1",
-        "url": "https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK"
+        "name": "Serie Sensacional Regional Mexican Yndio",
+        "url": "https://open.spotify.com/album/58GJW5Vi2X7lbAbYCN8Xm2"
       },
       "artists": [
         {
@@ -1872,9 +1872,9 @@
           "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
         }
       ],
-      "duration_ms": 190773,
-      "name": "Por Que Nos Dijimos Adios",
-      "url": "https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO"
+      "duration_ms": 223466,
+      "name": "Sin Tu Amor",
+      "url": "https://open.spotify.com/track/6nAkDgnYiBWK7cwGXdAMZ4"
     },
     {
       "added_at": "2025-01-28 15:41:46",

@@ -1,13 +1,121 @@
 {
-  "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  ",
-  "num_followers": 31506,
+  "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: Joel Corry",
+  "num_followers": 31502,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAwqc+d0V5/voB3Oddp9Q8SNJb7GKd/",
+  "snapshot_id": "AAAwsX6LBtuR5ocRYbi72drHQ71Nqbju",
   "tracks": [
+    {
+      "added_at": "2026-07-10 06:49:20",
+      "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/0jbAkBNqdBNOVBI7HVSwMu"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 154784,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/6f6wEbx3wXsFx3aC6krC39"
+    },
+    {
+      "added_at": "2026-07-10 06:50:04",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/79BvQiisRxhMJd80E0KhbC"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        }
+      ],
+      "duration_ms": 188595,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/7cNlP8j97DxWC6rG9ZCSCj"
+    },
+    {
+      "added_at": "2026-07-10 06:50:24",
+      "album": {
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/4fQDq1sjjn1COVRXpvUKED"
+      },
+      "artists": [
+        {
+          "name": "Mode\u0101",
+          "url": "https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ"
+        }
+      ],
+      "duration_ms": 178309,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/3JJcOCcWlQQe4FNbKAt742"
+    },
+    {
+      "added_at": "2026-07-10 06:50:33",
+      "album": {
+        "name": "My Oh My",
+        "url": "https://open.spotify.com/album/2DaXDsSAZ5rTJkaFUVTcXh"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "duration_ms": 156591,
+      "name": "My Oh My",
+      "url": "https://open.spotify.com/track/5GmoIA9yhjMTpZ0J08Nyqk"
+    },
+    {
+      "added_at": "2026-07-10 06:51:02",
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/6248spe3i2kq3ZqWCP9MYV"
+      },
+      "artists": [
+        {
+          "name": "Seth Hills",
+          "url": "https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Secretos",
+      "url": "https://open.spotify.com/track/4wj3giGtalyb2liRz5ArK9"
+    },
+    {
+      "added_at": "2026-07-10 06:51:19",
+      "album": {
+        "name": "Noches de Fuego",
+        "url": "https://open.spotify.com/album/4mCx5qTL3M5Wz7NiOyoAjp"
+      },
+      "artists": [
+        {
+          "name": "Flukey",
+          "url": "https://open.spotify.com/artist/7glj5RC8NxHA3gll167Qe2"
+        }
+      ],
+      "duration_ms": 162474,
+      "name": "Noches de Fuego",
+      "url": "https://open.spotify.com/track/44GDet7znfTWXniOMZwU1A"
+    },
     {
       "added_at": "2026-07-09 09:20:46",
       "album": {

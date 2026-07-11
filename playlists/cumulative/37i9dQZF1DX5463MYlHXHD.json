@@ -5017,6 +5017,24 @@
     },
     {
       "album": {
+        "name": "Miguelito (El Angelito Musical)",
+        "url": "https://open.spotify.com/album/1vydlQIHdYUgxg3BWYhlEW"
+      },
+      "artists": [
+        {
+          "name": "Miguelito",
+          "url": "https://open.spotify.com/artist/4IJbOplPSGIRdzgO4fjSdC"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205093,
+      "name": "Para que volver",
+      "url": "https://open.spotify.com/track/5wKCkCOPWcJghSdU6aNi5X"
+    },
+    {
+      "album": {
         "name": "Para Que Volver (Remix)",
         "url": "https://open.spotify.com/album/14Zy4BPJID3Ft96E7K8Pt6"
       },
@@ -5744,7 +5762,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 332000,
       "name": "Remake",
       "url": "https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU"

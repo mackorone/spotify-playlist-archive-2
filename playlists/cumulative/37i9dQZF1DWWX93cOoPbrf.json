@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de los corridones. MorenoX4 portada.",
+  "description": "Lo m\u00e1s fresco de los corridones. Explosi\u00f3n Norte\u00f1a y Los Invasores de Nuevo Le\u00f3n en portada.",
   "name": "Corridos 2026",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 247104,
       "name": "15 A\u00f1os",
       "url": "https://open.spotify.com/track/1HhVb2idokJ5V0JDTIgnLU"
@@ -6266,6 +6266,24 @@
       "duration_ms": 239074,
       "name": "Cuando Le Batallaba",
       "url": "https://open.spotify.com/track/27waItiQKZqS7KF5WgBuCZ"
+    },
+    {
+      "album": {
+        "name": "Cuando No Estoy",
+        "url": "https://open.spotify.com/album/1LFdrxDKu84elIyzZR6TXg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162066,
+      "name": "Cuando No Estoy",
+      "url": "https://open.spotify.com/track/4uSbOaDtyIZIj0CUmmjbDk"
     },
     {
       "album": {
@@ -14619,6 +14637,28 @@
     },
     {
       "album": {
+        "name": "El Pr\u00f3fugo De Tijuana",
+        "url": "https://open.spotify.com/album/5IxubunJ6DG3BLd7CKKg5N"
+      },
+      "artists": [
+        {
+          "name": "Explosion Nortena",
+          "url": "https://open.spotify.com/artist/3iAoPIsx4h1blFVmNMSJG9"
+        },
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168885,
+      "name": "El Pr\u00f3fugo De Tijuana",
+      "url": "https://open.spotify.com/track/5Yn20NlbZW7DLppF7y8Vwa"
+    },
+    {
+      "album": {
         "name": "El Psiquiatra",
         "url": "https://open.spotify.com/album/6cxX8y5fAhF2XTYOSJn9HT"
       },
@@ -19355,6 +19395,32 @@
     },
     {
       "album": {
+        "name": "Muchacho Alegre",
+        "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193849,
+      "name": "Hay Con Que",
+      "url": "https://open.spotify.com/track/5LWQAJftnMD7SZAZhwH9CQ"
+    },
+    {
+      "album": {
         "name": "Hay Con Queso",
         "url": "https://open.spotify.com/album/0Znylw5hoTxyO2MonRp3Ip"
       },
@@ -20312,6 +20378,24 @@
       "duration_ms": 174642,
       "name": "James B.",
       "url": "https://open.spotify.com/track/6T9mi3HBKG2T21JvM9zowV"
+    },
+    {
+      "album": {
+        "name": "Japan",
+        "url": "https://open.spotify.com/album/33ktm9mqdTd8sbR3IW707f"
+      },
+      "artists": [
+        {
+          "name": "Grupo La Revo",
+          "url": "https://open.spotify.com/artist/2CCm63X8y210EdLf541qBr"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224815,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/5diddGNJH2svqZnsVfAwKk"
     },
     {
       "album": {
@@ -21885,6 +21969,24 @@
     },
     {
       "album": {
+        "name": "La Formula",
+        "url": "https://open.spotify.com/album/6Tu1tbDt5FXknsuXpAuyFF"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158250,
+      "name": "La Formula",
+      "url": "https://open.spotify.com/track/1eD8kj787e0mwwJ7bukv2g"
+    },
+    {
+      "album": {
         "name": "La Fory Fay (En Vivo)",
         "url": "https://open.spotify.com/album/0a81vazvFavfROu2bdElKo"
       },
@@ -22638,7 +22740,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 203710,
       "name": "La Opini\u00f3n",
       "url": "https://open.spotify.com/track/33o2E1rmr8Jl2JO1fdLgHG"
@@ -25354,7 +25456,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 133269,
       "name": "Los Tigres Mandan",
       "url": "https://open.spotify.com/track/3Wxkij7oSwTMpMcIWlU0h8"
@@ -27446,6 +27548,24 @@
       "duration_ms": 240078,
       "name": "Mi Viejo del Sombrero",
       "url": "https://open.spotify.com/track/5SStjPqIVa59Mn8XNou8wo"
+    },
+    {
+      "album": {
+        "name": "Mi Villano Favorito",
+        "url": "https://open.spotify.com/album/63hzI2FZr65KgpR4nFulpY"
+      },
+      "artists": [
+        {
+          "name": "Uziel Payan",
+          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149786,
+      "name": "Mi Villano Favorito",
+      "url": "https://open.spotify.com/track/1cR8nVkndIFT45CXKRHzT6"
     },
     {
       "album": {
@@ -30253,6 +30373,28 @@
     },
     {
       "album": {
+        "name": "Peguemos Fuga",
+        "url": "https://open.spotify.com/album/0GcRzq75VzBkyTM8MnB1bX"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
+        {
+          "name": "Jes\u00fas Uriarte",
+          "url": "https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150012,
+      "name": "Peguemos Fuga",
+      "url": "https://open.spotify.com/track/71JqZx1iD6E94qZ2bejuTA"
+    },
+    {
+      "album": {
         "name": "Corridos No Caricaturas",
         "url": "https://open.spotify.com/album/7tLwnVL4C4RYHdvAQn4Ioy"
       },
@@ -30436,6 +30578,28 @@
       "duration_ms": 195857,
       "name": "Pero Yo",
       "url": "https://open.spotify.com/track/4eEU3xjm1fXxXyRnXdlFay"
+    },
+    {
+      "album": {
+        "name": "Perro De Cadena (Desde El Rancho)",
+        "url": "https://open.spotify.com/album/1sPFDyiyMBJKxKxNKC6Rmi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Historia",
+          "url": "https://open.spotify.com/artist/3uT3L1OzDiAH34ectqbocz"
+        },
+        {
+          "name": "Los Cuates de Sinaloa",
+          "url": "https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212447,
+      "name": "Perro De Cadena - Desde El Rancho",
+      "url": "https://open.spotify.com/track/7IYDD9ijTW2BWuxioACIUi"
     },
     {
       "album": {
@@ -35370,6 +35534,24 @@
       "duration_ms": 198666,
       "name": "Tarantino",
       "url": "https://open.spotify.com/track/4yNiC8goCyCe8g80LQhA2D"
+    },
+    {
+      "album": {
+        "name": "TARTAMUDEANDO",
+        "url": "https://open.spotify.com/album/0KpIlTfLhqXtKYMSfRfOJz"
+      },
+      "artists": [
+        {
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172358,
+      "name": "TARTAMUDEANDO",
+      "url": "https://open.spotify.com/track/0wuIsbBzhouLphDylRr8ZM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-132 songs - 6 hr 43 min
+133 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,8 +92,9 @@
 | [Occhi verdi](https://open.spotify.com/track/3J4gqixO14RACrX3ISIR4l) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Il cielo contromano su Giove](https://open.spotify.com/album/21gWOI8QKz6gRqEEyUJbdy) | 3:43 | 2022-09-16 |  |
 | [Odio Amore Chimico](https://open.spotify.com/track/02OZT1ygcgP9ZNc8AoUIiJ) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [MI AMI MI ODI](https://open.spotify.com/album/0grqDgwk7yAw6j4PxjHECP) | 3:40 | 2025-09-10 |  |
 | [parolacce](https://open.spotify.com/track/61zba7lHT4kUUXrGXLWjjj) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD) | 3:02 | 2022-09-16 |  |
-| [Per sempre si](https://open.spotify.com/track/5FvH6VAvolNEooauCJFmA5) | [Couverture](https://open.spotify.com/artist/5MnkPWhF25sUyQKjkmFazf) | [Sanremo 2026 \- Strings & Piano Version](https://open.spotify.com/album/06hb15M2F0YbNC5XpoPovN) | 3:14 | 2026-06-10 |  |
+| [Per sempre si](https://open.spotify.com/track/5FvH6VAvolNEooauCJFmA5) | [Couverture](https://open.spotify.com/artist/5MnkPWhF25sUyQKjkmFazf) | [Sanremo 2026 \- Strings & Piano Version](https://open.spotify.com/album/06hb15M2F0YbNC5XpoPovN) | 3:14 | 2026-06-10 | 2026-07-11 |
 | [Per sempre si](https://open.spotify.com/track/6H5KsfrpQlYE5kcgo3dBKz) | [Daniel Vitale](https://open.spotify.com/artist/1vrUWw5xm8aIXduzTTNIag) | [Per sempre si](https://open.spotify.com/album/1A6M19FUfVtHlDQOFDEQgo) | 2:58 | 2026-05-19 | 2026-05-26 |
+| [Per Sempre Si](https://open.spotify.com/track/5rFZRuR1SjzFpCPMkoYx99) | [Dany Laville](https://open.spotify.com/artist/1gRqffkH16tSlPyPRGwGLD) | [Per Sempre Si](https://open.spotify.com/album/0vamPogJmLeSeWiwAkhS2G) | 2:55 | 2026-07-10 |  |
 | [Per sempre si](https://open.spotify.com/track/5lzOrsEUpdwykAnwRyoigL) | [Dune Filter](https://open.spotify.com/artist/6ArEC79lELbr2BGaaE3nQM) | [Desert Echoes of Sanremo 2026 \(Remix\)](https://open.spotify.com/album/2oCyg93atTjh8KLZfc2H8N) | 3:16 | 2026-03-03 | 2026-05-09 |
 | [Per sempre si](https://open.spotify.com/track/1ePROwpZ6DzqGzN2do7r0u) | [Joseph Messina](https://open.spotify.com/artist/55hWEabWXznMkaXLDQT2TC) | [Per sempre si](https://open.spotify.com/album/3ltueIHwQNpAuBNE5fIX60) | 3:32 | 2026-05-08 | 2026-05-20 |
 | [Prima di te](https://open.spotify.com/track/58IqnJR6PRquHRqf4jLbdi) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Prima di te](https://open.spotify.com/album/5t9ito4iEA9Qo9tTOMFpdp) | 2:38 | 2022-09-16 |  |

@@ -1,28 +1,28 @@
 {
-  "description": "hyper_sleaze.electro_glitch.v2008.infamy.zip.[FINAL]_[REAL]__coverartist.BrothelinBelize",
-  "num_followers": 1372066,
+  "description": "hyper_sleaze.electro_glitch.v2008.creep.zip.[FINAL]_[REAL]__coverartist.FrostChildren",
+  "num_followers": 1372003,
   "original_name": "hyp3r.wav",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJTAv/wrWRjLIeMZ6SamW2VZVM9S",
+  "snapshot_id": "AAAAAOzZfiUhqanPH8ObvZVRUik91Hq5",
   "tracks": [
     {
-      "added_at": "2026-05-08 04:02:18",
+      "added_at": "2026-07-10 04:02:03",
       "album": {
-        "name": "Ne Plus Ultra",
-        "url": "https://open.spotify.com/album/2VJYwE0GEeZ9JADw5BFX80"
+        "name": "Tweaker Poem",
+        "url": "https://open.spotify.com/album/2fzKiP2hfzKll1QlXNzojx"
       },
       "artists": [
         {
-          "name": "ear",
-          "url": "https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG"
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
         }
       ],
-      "duration_ms": 169285,
-      "name": "Ne Plus Ultra",
-      "url": "https://open.spotify.com/track/5nlsXkRIR3ZFTdeot66Yj6"
+      "duration_ms": 240000,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/0sVwFUDyDI5ZVFuS3bl3NE"
     },
     {
       "added_at": "2026-06-26 04:01:53",
@@ -41,6 +41,38 @@
       "url": "https://open.spotify.com/track/49zA3XXiF1mDmNiW02jw9p"
     },
     {
+      "added_at": "2026-05-08 04:02:18",
+      "album": {
+        "name": "Ne Plus Ultra",
+        "url": "https://open.spotify.com/album/2VJYwE0GEeZ9JADw5BFX80"
+      },
+      "artists": [
+        {
+          "name": "ear",
+          "url": "https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG"
+        }
+      ],
+      "duration_ms": 169285,
+      "name": "Ne Plus Ultra",
+      "url": "https://open.spotify.com/track/5nlsXkRIR3ZFTdeot66Yj6"
+    },
+    {
+      "added_at": "2026-07-10 04:02:03",
+      "album": {
+        "name": "melody",
+        "url": "https://open.spotify.com/album/2QhAdqbrpkCBhVcnKpdaJg"
+      },
+      "artists": [
+        {
+          "name": "daisy",
+          "url": "https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "melody",
+      "url": "https://open.spotify.com/track/0aMVTLwGKFJAvT66qcXQvt"
+    },
+    {
       "added_at": "2026-06-26 04:01:53",
       "album": {
         "name": "CINNA",
@@ -57,38 +89,6 @@
       "url": "https://open.spotify.com/track/1xduHvvoJ4KgsLqKZLdEax"
     },
     {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "I Love My Computer",
-        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 190577,
-      "name": "Fuck My Computer",
-      "url": "https://open.spotify.com/track/5ZbztTcvj6QWWbeYsL4GTa"
-    },
-    {
-      "added_at": "2026-06-26 04:01:53",
-      "album": {
-        "name": "Satellites",
-        "url": "https://open.spotify.com/album/1lwDEmZ3j69Wrh0AycrCCU"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Satellites",
-      "url": "https://open.spotify.com/track/0w1z41tugZvJHNLUWUjXkD"
-    },
-    {
       "added_at": "2026-06-29 23:57:11",
       "album": {
         "name": "poser",
@@ -103,6 +103,22 @@
       "duration_ms": 132121,
       "name": "run away",
       "url": "https://open.spotify.com/track/1WKzFx2fO5nA8LfXgkAPTL"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "I Love My Computer",
+        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 190577,
+      "name": "Fuck My Computer",
+      "url": "https://open.spotify.com/track/5ZbztTcvj6QWWbeYsL4GTa"
     },
     {
       "added_at": "2026-06-19 04:01:31",
@@ -125,22 +141,6 @@
       "url": "https://open.spotify.com/track/15vg0v6tZ1y8aZfpdz2KRY"
     },
     {
-      "added_at": "2026-06-12 04:01:45",
-      "album": {
-        "name": "punch",
-        "url": "https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4"
-      },
-      "artists": [
-        {
-          "name": "daisy",
-          "url": "https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A"
-        }
-      ],
-      "duration_ms": 195357,
-      "name": "punch",
-      "url": "https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA"
-    },
-    {
       "added_at": "2026-05-22 04:01:26",
       "album": {
         "name": "lao shi",
@@ -157,24 +157,20 @@
       "url": "https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK"
     },
     {
-      "added_at": "2026-07-01 22:17:17",
+      "added_at": "2026-07-03 04:02:02",
       "album": {
-        "name": "Just Keep Holding On",
-        "url": "https://open.spotify.com/album/1OXIAbJNjrNxMCznTsCt8J"
+        "name": "I Love You Kimchi",
+        "url": "https://open.spotify.com/album/38PqXIwpG3G78dWkU7VtoK"
       },
       "artists": [
         {
-          "name": "Eera",
-          "url": "https://open.spotify.com/artist/2pEvCYGB3kxgoesDK5kt2P"
-        },
-        {
-          "name": "Nick Le\u00f3n",
-          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
+          "name": "ilykimchi",
+          "url": "https://open.spotify.com/artist/6cCXgBhHKKuftmzJTL9Omb"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Just Being Honest",
-      "url": "https://open.spotify.com/track/4G4BPQVqOdTgecAjRY1sBq"
+      "duration_ms": 153562,
+      "name": "Hello Baby",
+      "url": "https://open.spotify.com/track/4uLExyzgacC4BUPxkS4cXq"
     },
     {
       "added_at": "2026-07-01 22:17:17",
@@ -191,6 +187,22 @@
       "duration_ms": 153137,
       "name": "Me & My Machine",
       "url": "https://open.spotify.com/track/55OtNCFFm2ncO80K2gmkey"
+    },
+    {
+      "added_at": "2026-06-26 04:01:53",
+      "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/1lwDEmZ3j69Wrh0AycrCCU"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Satellites",
+      "url": "https://open.spotify.com/track/0w1z41tugZvJHNLUWUjXkD"
     },
     {
       "added_at": "2026-05-01 04:02:12",
@@ -211,6 +223,58 @@
       "duration_ms": 190291,
       "name": "I Bring My Gun To The Function (with Boys Noize)",
       "url": "https://open.spotify.com/track/0f3P2kbpIvGdgfvXN7rIKG"
+    },
+    {
+      "added_at": "2026-06-12 04:01:45",
+      "album": {
+        "name": "punch",
+        "url": "https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4"
+      },
+      "artists": [
+        {
+          "name": "daisy",
+          "url": "https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A"
+        }
+      ],
+      "duration_ms": 195357,
+      "name": "punch",
+      "url": "https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA"
+    },
+    {
+      "added_at": "2026-07-10 04:02:03",
+      "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/2j9TLf6B5OBpPCHFQA8A3E"
+      },
+      "artists": [
+        {
+          "name": "Rosacea boy",
+          "url": "https://open.spotify.com/artist/61YfdcpPNccLF3vgbHKKj1"
+        }
+      ],
+      "duration_ms": 307748,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/1DdhWbX7eJGpBwTVmRdiL0"
+    },
+    {
+      "added_at": "2026-07-01 22:17:17",
+      "album": {
+        "name": "Just Keep Holding On",
+        "url": "https://open.spotify.com/album/1OXIAbJNjrNxMCznTsCt8J"
+      },
+      "artists": [
+        {
+          "name": "Eera",
+          "url": "https://open.spotify.com/artist/2pEvCYGB3kxgoesDK5kt2P"
+        },
+        {
+          "name": "Nick Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Just Being Honest",
+      "url": "https://open.spotify.com/track/4G4BPQVqOdTgecAjRY1sBq"
     },
     {
       "added_at": "2026-07-03 04:02:02",
@@ -329,6 +393,26 @@
       "url": "https://open.spotify.com/track/0fSJb9b42BuMbO1KjYDeIV"
     },
     {
+      "added_at": "2026-07-10 04:02:03",
+      "album": {
+        "name": "Manmade Manmaid (Eilish Constance Re:mix)",
+        "url": "https://open.spotify.com/album/50wXn4WcZLsvLv7W3LUiHM"
+      },
+      "artists": [
+        {
+          "name": "the sound chalk makes",
+          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
+        },
+        {
+          "name": "Eilish Constance",
+          "url": "https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj"
+        }
+      ],
+      "duration_ms": 160561,
+      "name": "Manmade Manmaid - Eilish Constance Re:mix",
+      "url": "https://open.spotify.com/track/5XO2izrZ5YhDOu4j83VcfB"
+    },
+    {
       "added_at": "2026-07-03 04:02:02",
       "album": {
         "name": "Water on my circuit",
@@ -439,6 +523,22 @@
       "duration_ms": 133725,
       "name": "third degree",
       "url": "https://open.spotify.com/track/7tGtSYXBIi5x8DxQD2oDlf"
+    },
+    {
+      "added_at": "2026-07-10 04:02:03",
+      "album": {
+        "name": "whereyougoing?",
+        "url": "https://open.spotify.com/album/0gQhQb8mtotanUSjRbvQy8"
+      },
+      "artists": [
+        {
+          "name": "Marc.net",
+          "url": "https://open.spotify.com/artist/4z0gLrvnr59tgbaluEOtZH"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "whereyougoing?",
+      "url": "https://open.spotify.com/track/3FDjHkHUaHxshXvF9bBnBQ"
     },
     {
       "added_at": "2026-06-05 15:04:45",
@@ -577,26 +677,6 @@
       "url": "https://open.spotify.com/track/4uzkJXMs6PjmJ5wAQLzflw"
     },
     {
-      "added_at": "2026-05-29 04:02:30",
-      "album": {
-        "name": "Sad But So Funny",
-        "url": "https://open.spotify.com/album/2sZNACN1OtfS387IGeyJi9"
-      },
-      "artists": [
-        {
-          "name": "Eera",
-          "url": "https://open.spotify.com/artist/2pEvCYGB3kxgoesDK5kt2P"
-        },
-        {
-          "name": "Mechatok",
-          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
-        }
-      ],
-      "duration_ms": 223561,
-      "name": "Sad But So Funny",
-      "url": "https://open.spotify.com/track/4z82AjKmLtVzxmShgNCgkp"
-    },
-    {
       "added_at": "2026-06-19 04:01:31",
       "album": {
         "name": "Thing About You",
@@ -611,30 +691,6 @@
       "duration_ms": 269599,
       "name": "Thing About You",
       "url": "https://open.spotify.com/track/37Gynn6b6jLav72MY5TZQH"
-    },
-    {
-      "added_at": "2026-05-22 04:01:26",
-      "album": {
-        "name": "CSM for bullshit",
-        "url": "https://open.spotify.com/album/4dlec4sTKWyTcTX81GZvlL"
-      },
-      "artists": [
-        {
-          "name": "the sound chalk makes",
-          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
-        },
-        {
-          "name": "Seven Blair Angels",
-          "url": "https://open.spotify.com/artist/4q68y687T1f5iGToWOTrnQ"
-        },
-        {
-          "name": "pato6p",
-          "url": "https://open.spotify.com/artist/1T7amPqWVfFBlntdPtflSm"
-        }
-      ],
-      "duration_ms": 102492,
-      "name": "CSM for bullshit",
-      "url": "https://open.spotify.com/track/4UGzIUDcabJcatRVXzozJt"
     },
     {
       "added_at": "2026-06-12 04:01:45",
@@ -671,22 +727,6 @@
       "duration_ms": 133098,
       "name": "ELECTRIC",
       "url": "https://open.spotify.com/track/3O2VWQ06QUg6CDV5vF8kAz"
-    },
-    {
-      "added_at": "2026-07-03 04:02:02",
-      "album": {
-        "name": "I Love You Kimchi",
-        "url": "https://open.spotify.com/album/38PqXIwpG3G78dWkU7VtoK"
-      },
-      "artists": [
-        {
-          "name": "ilykimchi",
-          "url": "https://open.spotify.com/artist/6cCXgBhHKKuftmzJTL9Omb"
-        }
-      ],
-      "duration_ms": 153562,
-      "name": "Hello Baby",
-      "url": "https://open.spotify.com/track/4uLExyzgacC4BUPxkS4cXq"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -1025,22 +1065,6 @@
       "url": "https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K"
     },
     {
-      "added_at": "2026-05-27 01:01:17",
-      "album": {
-        "name": "Third Degree",
-        "url": "https://open.spotify.com/album/7nz4CAVrr3RzkaLcA0ww0o"
-      },
-      "artists": [
-        {
-          "name": "Fake Dad",
-          "url": "https://open.spotify.com/artist/1PdmgC2URr5bdLpcS5YBdk"
-        }
-      ],
-      "duration_ms": 187288,
-      "name": "Third Degree",
-      "url": "https://open.spotify.com/track/75Y3xrk63ZjUluUrjnXX1X"
-    },
-    {
       "added_at": "2026-04-24 04:02:31",
       "album": {
         "name": "Bitches Talk Shit",
@@ -1055,26 +1079,6 @@
       "duration_ms": 219969,
       "name": "Bitches Talk Shit",
       "url": "https://open.spotify.com/track/2zeOTTt5w7lSwKtbUXcnTQ"
-    },
-    {
-      "added_at": "2026-04-24 04:02:31",
-      "album": {
-        "name": "Bad Love +1",
-        "url": "https://open.spotify.com/album/6G1jJHYx8Iu1es4AZsAV92"
-      },
-      "artists": [
-        {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
-        },
-        {
-          "name": "Nick Le\u00f3n",
-          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
-        }
-      ],
-      "duration_ms": 151353,
-      "name": "Bad Love +1",
-      "url": "https://open.spotify.com/track/1RVNzN0kkyBifG1PbCB5ld"
     },
     {
       "added_at": "2026-04-10 04:02:34",

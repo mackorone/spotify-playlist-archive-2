@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,737 likes - 286 songs - 14 hr 59 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,734 likes - 296 songs - 15 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -294,5 +294,15 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 284 | [Singing About My Problems](https://open.spotify.com/track/6q3JIBfJI0ZrRXlO2ANERB) | [Alice Geary](https://open.spotify.com/artist/5UEW5uzcxaDQAFGwIMVUvk) | [Singing About My Problems](https://open.spotify.com/album/0CSuFvzHhzsJqzKNs53cVU) | 2:36 |
 | 285 | [DUMMY](https://open.spotify.com/track/4iwDUT6a015rHrKtq8HZD8) | [DeathKittyGurl](https://open.spotify.com/artist/2bqCyjXh2yihMXNMgwz0qU) | [Puppiez Nd Icecream!](https://open.spotify.com/album/0Zz0hHrZEI4gE5t55X8J6K) | 1:28 |
 | 286 | [Forest Light Way](https://open.spotify.com/track/5dlcMhb5SRQ0FTANx8RYmr) | [Hiroki Ikawa](https://open.spotify.com/artist/4N2nY51WkgMkqWUugN2QuH), [Yasuyuki Shimizu](https://open.spotify.com/artist/4aZXvPPAdVNH03dnQT6jQ4) | [Forest Light Way](https://open.spotify.com/album/2NlMajHSlroUv36jLjMVCk) | 3:35 |
+| 287 | [Neon Heartbeats](https://open.spotify.com/track/4fGrhGriiNxyUjSQQofT2l) | [Silver Atom](https://open.spotify.com/artist/0JmgYnUa2o1dEDrxRgIl1B) | [Neon Heartbeats](https://open.spotify.com/album/6gsxqACTSgmkSQwERVY8Vd) | 3:12 |
+| 288 | [Let's Ride](https://open.spotify.com/track/3wXQrXor7dwKcCuNakhYr6) | [Junior Writes](https://open.spotify.com/artist/46o96NxNMYIdeVFsYQVCb3) | [Shadows and Radiance](https://open.spotify.com/album/5JhZErH5vH4DbGaNw9sQpK) | 3:11 |
+| 289 | [Hello amigos](https://open.spotify.com/track/47eyXy1ymHspS1CmbPToQz) | [Leo Tiberi](https://open.spotify.com/artist/3C9ioBuuDOiJaDBfpfH9y5) | [Hello amigos](https://open.spotify.com/album/0ZHY3pShmVhGz4zH9vo6WB) | 3:07 |
+| 290 | [High After Low](https://open.spotify.com/track/2mFmKVKHDb16KxPph4po36) | [Frank O.](https://open.spotify.com/artist/0VdYElkPX4FCOKVvEtkGfS) | [High After Low](https://open.spotify.com/album/2tNPvm6rCkGOHcTbMSYy2g) | 2:55 |
+| 291 | [You're the One I Want](https://open.spotify.com/track/1G1Udv9RGt6lNIPjDr0RA5) | [Aaron Topfer Music](https://open.spotify.com/artist/5w3z7KmGsQ0NACUneDfph7) | [You're the One I Want](https://open.spotify.com/album/0TG3Pv3O4bMarQxXNnjcVr) | 2:28 |
+| 292 | [Lost You](https://open.spotify.com/track/33kLaLYievnvm9c2SpFQW4) | [Chris Ceee](https://open.spotify.com/artist/3xvbsexUenyFLSigMZ42fq) | [Lost You](https://open.spotify.com/album/6jgQQH4yfDpLLCJJCb3wrH) | 4:38 |
+| 293 | [antisocial](https://open.spotify.com/track/00s4VPoLBlwBrFKRw3ta1P) | [Nyshiq](https://open.spotify.com/artist/6Cj0SPdD7QqFgqEZGbm16R) | [antisocial](https://open.spotify.com/album/3AlOWQVRL2p2pWlckVw5kP) | 2:02 |
+| 294 | [Wired Awake](https://open.spotify.com/track/26EoUOdt4zdz2cOdUEJaiV) | [Glitch CT](https://open.spotify.com/artist/31462OWixSRK8v6UxstsnE) | [Version 1](https://open.spotify.com/album/0sMnURlNvGbLf1EraNEJvO) | 4:38 |
+| 295 | [Acension](https://open.spotify.com/track/0BGgGDfK5iPykptYF1yr8z) | [Glitch CT](https://open.spotify.com/artist/31462OWixSRK8v6UxstsnE) | [Falling Into You](https://open.spotify.com/album/53CaGLrWKSTDRVqyFlTz7R) | 3:04 |
+| 296 | [Carefree Wonderland](https://open.spotify.com/track/69i0AN8izwkY7lsnFFrQk4) | [Dylan Debiase](https://open.spotify.com/artist/31BVM6BLaoSP8ad00i8m25) | [Carefree Wonderland](https://open.spotify.com/album/2eZ4lyjre4c5vn65CBV4lJ) | 3:28 |
 
-Snapshot ID: `AAA6Wap8vJvb3yU/TIEcrrpK0y/y/IZa`
+Snapshot ID: `AAA6YzXt8ycxjfBsDOcaUGPaFlZdFrW+`

@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 802512,
+  "num_followers": 802831,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/5S26j913nxRCYKyE4sZNCR"
-      },
-      "artists": [
-        {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        },
-        {
-          "name": "Maire Brennan",
-          "url": "https://open.spotify.com/artist/6JIbdXrERgmH6Hn8mmjfUR"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "Saltwater",
-      "url": "https://open.spotify.com/track/1eohWwYv5zfXgLf5yKCJIS"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Faithless 2.0",
         "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
       },
@@ -351,18 +331,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "The Double Album",
-        "url": "https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a"
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/5S26j913nxRCYKyE4sZNCR"
       },
       "artists": [
         {
-          "name": "Mauro Picotto",
-          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        },
+        {
+          "name": "Maire Brennan",
+          "url": "https://open.spotify.com/artist/6JIbdXrERgmH6Hn8mmjfUR"
         }
       ],
-      "duration_ms": 313120,
-      "name": "Lizard",
-      "url": "https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt"
+      "duration_ms": 202866,
+      "name": "Saltwater",
+      "url": "https://open.spotify.com/track/1eohWwYv5zfXgLf5yKCJIS"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -379,6 +363,22 @@
       "duration_ms": 216933,
       "name": "Insomnia - Radio Edit",
       "url": "https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "The Double Album",
+        "url": "https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a"
+      },
+      "artists": [
+        {
+          "name": "Mauro Picotto",
+          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
+        }
+      ],
+      "duration_ms": 313120,
+      "name": "Lizard",
+      "url": "https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Trance Top 1000 - The Legends",
-        "url": "https://open.spotify.com/album/6EFXK7ipsLo87KEXAkONR0"
+        "name": "Ferry Corsten Collected",
+        "url": "https://open.spotify.com/album/6ztYonrTxDSPQSD5mfbKkN"
       },
       "artists": [
         {
-          "name": "Warrior",
-          "url": "https://open.spotify.com/artist/5h5zcDZF3qxBCskb39D8yt"
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
         }
       ],
-      "duration_ms": 227428,
-      "name": "Warrior",
-      "url": "https://open.spotify.com/track/3lI7LW2LP1994W7kTBOUaK"
+      "duration_ms": 219133,
+      "name": "Punk",
+      "url": "https://open.spotify.com/track/74BSVo5XxxlOOWKstr8doF"
     }
   ],
   "unique_name": "Trance Classics",

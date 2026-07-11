@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "50% techno, 50% house \ud83d\udc9c Tech house operators, featuring Ferreck Dawn",
+  "description": "50% techno, 50% house \ud83d\udc9c Tech house operators, featuring MARTA & Eve Lauren",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 163384,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
@@ -6100,7 +6100,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 184000,
       "name": "Bom Dia",
       "url": "https://open.spotify.com/track/4XwAXL9rSGfAWMFmxHLVsv"
@@ -6312,7 +6312,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 186502,
       "name": "BOOM! (I Got Your Boyfriend)",
       "url": "https://open.spotify.com/track/3kr06joltj0ObqTm3sr4Nw"
@@ -8127,6 +8127,28 @@
     },
     {
       "album": {
+        "name": "Can I Ride",
+        "url": "https://open.spotify.com/album/4N2frseoAuec502jnHYCb8"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "95 South",
+          "url": "https://open.spotify.com/artist/3vjd6YHdWCqO3MWaYbxDf0"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163888,
+      "name": "Can I Ride",
+      "url": "https://open.spotify.com/track/3gXGtYT41b4FXYctdxMwCI"
+    },
+    {
+      "album": {
         "name": "Can You Feel It",
         "url": "https://open.spotify.com/album/7h4QbMGJ5KIsxVVjJIu8k7"
       },
@@ -8290,7 +8312,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 192727,
       "name": "Can't Help Myself",
       "url": "https://open.spotify.com/track/649WkG75AJOBLsD4wkVrTV"
@@ -10216,6 +10238,28 @@
       "duration_ms": 217142,
       "name": "Come On Over",
       "url": "https://open.spotify.com/track/6FHnogzevxPEy3DkZS7Qt8"
+    },
+    {
+      "album": {
+        "name": "Come To Life",
+        "url": "https://open.spotify.com/album/0HIW7oTP9Y1RpJ1OlvJ4lD"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192209,
+      "name": "Come To Life",
+      "url": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW"
     },
     {
       "album": {
@@ -18730,7 +18774,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 207089,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/4CmdvI4QzrhPscIcthDgOL"
@@ -19642,6 +19686,24 @@
       "duration_ms": 173552,
       "name": "Fvck The Cops",
       "url": "https://open.spotify.com/track/2Di0yOQR40CDLkL8v5hg6C"
+    },
+    {
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/6MhQHs7hrUMbB2wYIphJy9"
+      },
+      "artists": [
+        {
+          "name": "Zuffo",
+          "url": "https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194531,
+      "name": "G0",
+      "url": "https://open.spotify.com/track/1XJ8aKhIHPwJdsV3PB1wMh"
     },
     {
       "album": {
@@ -22663,6 +22725,24 @@
     },
     {
       "album": {
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/3aUMWIeaMBi42uYkexJVO0"
+      },
+      "artists": [
+        {
+          "name": "AJK",
+          "url": "https://open.spotify.com/artist/3DWDq9siRUkW6n9geTbtIm"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182812,
+      "name": "High Voltage",
+      "url": "https://open.spotify.com/track/10U3j6UP6joB9xAX4JRY1C"
+    },
+    {
+      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/0B6UE8Ksah2CtPHtk45Gu9"
       },
@@ -23060,6 +23140,24 @@
       "duration_ms": 187086,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6x9z3M0LJ87EZ6AhvgPxL5"
+    },
+    {
+      "album": {
+        "name": "Hold Up (You Feel That)",
+        "url": "https://open.spotify.com/album/6JDoDEbKUisuqslm1c8FQz"
+      },
+      "artists": [
+        {
+          "name": "Loco Dice",
+          "url": "https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195523,
+      "name": "Hold Up (You Feel That)",
+      "url": "https://open.spotify.com/track/50YM2aUnoXylaWRCK8v3CZ"
     },
     {
       "album": {
@@ -24741,6 +24839,24 @@
     },
     {
       "album": {
+        "name": "I Never Knew",
+        "url": "https://open.spotify.com/album/2w8spOidxh0RSjdRjXvd3r"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231680,
+      "name": "I Never Knew",
+      "url": "https://open.spotify.com/track/54vF34GSMXYZfjPXMsHYWf"
+    },
+    {
+      "album": {
         "name": "I Never Knew Love",
         "url": "https://open.spotify.com/album/2JupQom4QixXJfhU3x140N"
       },
@@ -25346,7 +25462,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 154153,
       "name": "In Case You Call (5544321)",
       "url": "https://open.spotify.com/track/2FdMF9wENmhdAjEyW4VRVu"
@@ -25922,7 +26038,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 213543,
       "name": "Insane",
       "url": "https://open.spotify.com/track/1o8TJOACq1zlp5uclv8VlW"
@@ -26244,6 +26360,24 @@
       "duration_ms": 160973,
       "name": "It Feels So Good",
       "url": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
+    },
+    {
+      "album": {
+        "name": "It's A Bomb",
+        "url": "https://open.spotify.com/album/1R1lxbv5ORPkEKEYFKNqa2"
+      },
+      "artists": [
+        {
+          "name": "Flex (UK)",
+          "url": "https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "It's A Bomb",
+      "url": "https://open.spotify.com/track/1CBPMauO4oFmhvlw3MY0Kx"
     },
     {
       "album": {
@@ -27148,6 +27282,28 @@
       "duration_ms": 178604,
       "name": "Kerching",
       "url": "https://open.spotify.com/track/3voNCdMNCd1M2Yh1Y7cm4Y"
+    },
+    {
+      "album": {
+        "name": "Kick Back",
+        "url": "https://open.spotify.com/album/1RbjW60PLyLqNaslqBPMvR"
+      },
+      "artists": [
+        {
+          "name": "MARTA",
+          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
+        },
+        {
+          "name": "Eve Lauren",
+          "url": "https://open.spotify.com/artist/0VGRIovFmOFenDy7hnwr7g"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198960,
+      "name": "Kick Back",
+      "url": "https://open.spotify.com/track/3PLXh3XJRYXmKRsbmONqDd"
     },
     {
       "album": {
@@ -28294,7 +28450,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 234685,
       "name": "Lazer Beams",
       "url": "https://open.spotify.com/track/3MGn2DU2SY4Yo1dQdyHX1N"
@@ -30790,7 +30946,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 167064,
       "name": "Love Don't Dance Here Anymore",
       "url": "https://open.spotify.com/track/4sYVCZ2QqgXp0lSFiQkRJP"
@@ -31348,7 +31504,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 166153,
       "name": "Make A Cry",
       "url": "https://open.spotify.com/track/3GmIhCGeEF35TIdEcrIAVO"
@@ -33228,6 +33384,24 @@
       "duration_ms": 163969,
       "name": "Moaning House",
       "url": "https://open.spotify.com/track/3Vq8ykcuOV0XeU0WjaCDuY"
+    },
+    {
+      "album": {
+        "name": "Mobile Groove",
+        "url": "https://open.spotify.com/album/2njt1aVBaYxJLhWsdffPvD"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219534,
+      "name": "Mobile Groove",
+      "url": "https://open.spotify.com/track/5dy1bdvVpdW62kizAWUACU"
     },
     {
       "album": {
@@ -35794,6 +35968,24 @@
       "duration_ms": 352500,
       "name": "No Boys Allowed - OG House Mix",
       "url": "https://open.spotify.com/track/5ECEMutDIhmSKM6MkJuVc3"
+    },
+    {
+      "album": {
+        "name": "No Brakes All Cake",
+        "url": "https://open.spotify.com/album/0Ac5LS7ASFcfthtmJSQToo"
+      },
+      "artists": [
+        {
+          "name": "Shaded",
+          "url": "https://open.spotify.com/artist/2xKTuI2Nl32OaYyDndSB3S"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197020,
+      "name": "No Brakes All Cake",
+      "url": "https://open.spotify.com/track/2YlJTRecCxvjbd1rAwmAJC"
     },
     {
       "album": {
@@ -39257,6 +39449,32 @@
     },
     {
       "album": {
+        "name": "Party Time (feat. Aatig)",
+        "url": "https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199072,
+      "name": "Party Time (feat. Aatig)",
+      "url": "https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW"
+    },
+    {
+      "album": {
         "name": "Party's Jumpin",
         "url": "https://open.spotify.com/album/0ipSLNiyPij1uJ8mbcRyFy"
       },
@@ -40110,7 +40328,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 144923,
       "name": "Play Me",
       "url": "https://open.spotify.com/track/3fvZBt6yQ5A23Y83D2Jmw5"
@@ -40884,7 +41102,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 142954,
       "name": "PROPAGANDA",
       "url": "https://open.spotify.com/track/45qX16FOpNQL98LOp2LOHl"
@@ -45631,6 +45849,24 @@
     },
     {
       "album": {
+        "name": "Shaking That Ass",
+        "url": "https://open.spotify.com/album/5NvKTmZjQ7AKjAIMSPQiOY"
+      },
+      "artists": [
+        {
+          "name": "DOX",
+          "url": "https://open.spotify.com/artist/36jHmnMMKH4XOhdAj4LGe3"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Shaking That Ass",
+      "url": "https://open.spotify.com/track/3C4ybKAZlkciqP9vc6Yt6h"
+    },
+    {
+      "album": {
         "name": "Shaky",
         "url": "https://open.spotify.com/album/423ScEexLkxNgdlxeFfT5L"
       },
@@ -46160,6 +46396,24 @@
       "duration_ms": 225208,
       "name": "Sick With It",
       "url": "https://open.spotify.com/track/15zpqXOkvL346KQVCK0lYT"
+    },
+    {
+      "album": {
+        "name": "Side 2 Side",
+        "url": "https://open.spotify.com/album/0G1of0pEzbeW2LdgkZV5L0"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e8s Mortimer",
+          "url": "https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270999,
+      "name": "Side 2 Side",
+      "url": "https://open.spotify.com/track/6YChr2GzBH1S2OSV8yqB69"
     },
     {
       "album": {
@@ -47289,6 +47543,28 @@
     },
     {
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/4OgQSxkPDKXUMqw1En6tYk"
+      },
+      "artists": [
+        {
+          "name": "Marco Lys",
+          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
+        },
+        {
+          "name": "Ben Miller",
+          "url": "https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178125,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/242Uhtg4wD6SAmrJkHxW02"
+    },
+    {
+      "album": {
         "name": "So Good (Heat Mix)",
         "url": "https://open.spotify.com/album/1ge1VryWt3hDBd1kroI1NW"
       },
@@ -48018,7 +48294,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 180465,
       "name": "Spaceman",
       "url": "https://open.spotify.com/track/5bAeC0lJj2SIZB9Qpc16wE"
@@ -53601,6 +53877,28 @@
     },
     {
       "album": {
+        "name": "Touch Me",
+        "url": "https://open.spotify.com/album/0a1Skpwx5RjTkDP3vL9a8e"
+      },
+      "artists": [
+        {
+          "name": "Shiba San",
+          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
+        },
+        {
+          "name": "Zack Darza",
+          "url": "https://open.spotify.com/artist/1lTlUGVbQ7f7NQ5vHeg6xm"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162187,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/7pdnrLzhnwtEAdlcIPpAwe"
+    },
+    {
+      "album": {
         "name": "Touched EP",
         "url": "https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu"
       },
@@ -55006,7 +55304,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 207230,
       "name": "Up Front",
       "url": "https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL"
@@ -58022,7 +58320,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 186776,
       "name": "Work Your Body",
       "url": "https://open.spotify.com/track/2eUZAef6lJ9hBvw7XeExDf"

@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,247 songs - 2 day 14 hr 21 min
+1,248 songs - 2 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [10!](https://open.spotify.com/track/5wGpuoijb2FQHzk4AQeBw0) | [keiju](https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5), [MOMO](https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq) | [PIIKA](https://open.spotify.com/album/7uQXB9fAq0FLImsAIjjuKH) | 2:28 | 2026-05-28 |  |
 | [10/10](https://open.spotify.com/track/3gOsiQH9yMW41J0btVZQet) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Ootsä nähny mua?](https://open.spotify.com/album/0pf2sh61zutGdkGtnWi9yI) | 2:56 | 2026-05-28 | 2026-06-19 |
 | [100 kyyneltä](https://open.spotify.com/track/4odOlYAhOx65GVHPCaoMSR) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI) | [100 kyyneltä](https://open.spotify.com/album/6D8caW2M3TrdCJ1YeFoUPS) | 3:06 | 2024-07-02 | 2024-07-12 |
-| [110%](https://open.spotify.com/track/6SKjV9XZvqldONThAgCFUi) | [Frans Harju](https://open.spotify.com/artist/5XHY4502E49TflEsiq7ed5) | [110%](https://open.spotify.com/album/5HxGB4zDzMiTGYJmahMrxW) | 3:01 | 2026-05-14 |  |
+| [110%](https://open.spotify.com/track/6SKjV9XZvqldONThAgCFUi) | [Frans Harju](https://open.spotify.com/artist/5XHY4502E49TflEsiq7ed5) | [110%](https://open.spotify.com/album/5HxGB4zDzMiTGYJmahMrxW) | 3:01 | 2026-05-14 | 2026-07-11 |
 | [112](https://open.spotify.com/track/7huJK8mp1FdJxmII15POPN) | [Ida](https://open.spotify.com/artist/2Jfsm2UQsgIpyfnksNNIzj) | [112](https://open.spotify.com/album/623gXbUqzeIY6nxr3nKMdA) | 2:39 | 2026-03-12 | 2026-06-26 |
 | [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 | 2024-07-18 | 2024-08-16 |
 | [16 ct](https://open.spotify.com/track/3RbtraQDqbNGuviw5iJDJt) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Habson](https://open.spotify.com/artist/1oTR448XOPP7T54lMD6BGa) | [16 ct](https://open.spotify.com/album/2I8ZiXuYmFptvaDskAnpke) | 3:01 | 2025-07-17 | 2025-08-16 |
@@ -61,6 +61,7 @@
 | [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 | 2024-09-14 | 2024-10-04 |
 | [Almost](https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Almost](https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC) | 3:40 | 2025-10-23 | 2025-11-14 |
 | [Aloittelijat](https://open.spotify.com/track/3N3BAE6zMcLGl4znCXtzoI) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Valoa varten](https://open.spotify.com/album/0rA902E230Stu32mLX4axp) | 2:57 | 2026-02-13 | 2026-06-19 |
+| [Amarantti](https://open.spotify.com/track/5VylE5YOSWST1VuTpPplEo) | [Coevisto](https://open.spotify.com/artist/6ntNjeOd8U1y1cFSdp6isr) | [Amarantti](https://open.spotify.com/album/5yo5CURDiY0HDFpzQW7skw) | 3:32 | 2026-06-25 |  |
 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 | 2026-03-05 | 2026-06-19 |
 | [André \(feat\. Kerkkogabriel\)](https://open.spotify.com/track/0tllMoxGZzPJ00wPRVGV5A) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [Kerkkogabriel](https://open.spotify.com/artist/5GL3CCJkNN8qRqXRkhFrfw) | [André \(feat\. Kerkkogabriel\)](https://open.spotify.com/album/3CsFnRuZrMDDWYDEAOHZTN) | 2:27 | 2025-07-10 | 2025-09-05 |
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-07-18 | 2024-08-02 |

@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Elias
 
-1,869 songs - 3 day 16 hr 0 min
+1,870 songs - 3 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Alles was du brauchst](https://open.spotify.com/track/5VLY2jLhe8uL2JeQ6kdPlo) | [BRUCHBUDE](https://open.spotify.com/artist/1qmBzZ6fokNBJqlPxrID7U) | [Alles was du brauchst](https://open.spotify.com/album/2ChWTVvC6kj491VXYcR6gx) | 2:48 | 2024-06-27 | 2024-08-02 |
 | [alles was ich anfass geht kaputt](https://open.spotify.com/track/23Ib8ciHSKO4Fg6vah51KB) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [alles was ich anfass geht kaputt](https://open.spotify.com/album/2Ec57j1QAf6vYPHZWv50Xb) | 3:51 | 2026-03-05 | 2026-04-17 |
 | [Alles wieder gut](https://open.spotify.com/track/3Mcn1p3V3mn6ei20gqRYzy) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Extra](https://open.spotify.com/album/4205ekpRnekrI9dgDS3n4I) | 3:39 | 2024-09-26 | 2024-11-01 |
+| [Alles Wird Gut](https://open.spotify.com/track/5rPhHTLPYfD7PLhI3Q2o85) | [Jugo Ürdens](https://open.spotify.com/artist/05ygKFPjfiChHhQSx5Y9Y2), [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Für Mich](https://open.spotify.com/album/1uMd8qtuDIvM4Jl2yM8qSr) | 2:52 | 2026-07-09 |  |
 | [Alma](https://open.spotify.com/track/3BeKhlADRYwyPF4jcsy4zf) | [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Alma](https://open.spotify.com/album/3WXrbjjks1fCWPq5dJfWtn) | 2:54 | 2025-03-27 | 2025-04-25 |
 | [Almost Hit By A Discokugel](https://open.spotify.com/track/6mqxkxgtNyTLbbd3XsDz40) | [BUBE](https://open.spotify.com/artist/4bNL0SKfELaXHN3zsmUMfN) | [BUBE](https://open.spotify.com/album/5PfHkFlPlselXKuiqPjnfX) | 4:54 | 2024-09-19 | 2024-10-18 |
 | [Altbau](https://open.spotify.com/track/5LmYjkAaboDhhNhDxAfMvM) | [Lucifer Xo](https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb) | [Altbau](https://open.spotify.com/album/6o5C3NyIx43mgF1tC3LfPg) | 2:47 | 2024-11-21 | 2024-12-13 |
@@ -1076,6 +1077,7 @@
 | [mann von welt // benim adim da güzel](https://open.spotify.com/track/1Wy243slZOLAkcxM6opqk7) | [blue friend](https://open.spotify.com/artist/052QHH0e04tuBG9Ik6E5q0) | [mann von welt // benim adim da güzel](https://open.spotify.com/album/1u1QYGjEGPlcSUmqFjKWCI) | 2:00 | 2026-02-14 | 2026-03-03 |
 | [Marathon](https://open.spotify.com/track/3dNjDMod4qSZ1kM0QGhRc3) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Marathon](https://open.spotify.com/album/6lDGrMh75TwqSJyygAMmfB) | 2:35 | 2024-08-29 | 2024-09-20 |
 | [marie](https://open.spotify.com/track/5Qzigqughy9Wi40tdMATo5) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [marie](https://open.spotify.com/album/6FhxvQfSYvQn1pQVExw0i4) | 3:08 | 2026-07-02 |  |
+| [Marilyn](https://open.spotify.com/track/6mf4W08c67kOASyrTOhY4j) | [Caro Schaeffler](https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB) | [Marilyn](https://open.spotify.com/album/4ucyxLR2CsQCN8K6MJ6krV) | 3:16 | 2026-07-10 |  |
 | [Marlboro](https://open.spotify.com/track/6Ptjpsd6Dzd5gz6zGZmFo7) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Marlboro](https://open.spotify.com/album/5sHOBlcohfiJD02j2JlXTj) | 2:32 | 2023-10-12 | 2023-11-17 |
 | [Marlboro Mann](https://open.spotify.com/track/35dP1MzINMO9ABzCQAO6sy) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Marlboro Mann](https://open.spotify.com/album/2L4bP14MasfkUuU8UpTKgB) | 2:56 | 2025-11-06 | 2026-02-06 |
 | [Marmeladenglas](https://open.spotify.com/track/0zfEbXO9ZbjVeBhry6BFfU) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Marmeladenglas](https://open.spotify.com/album/5lejtK4NAGjPhhXpY3JP4w) | 2:06 | 2025-08-14 | 2025-11-14 |
@@ -1580,7 +1582,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 12](https://open.spotify.com/track/5rPhHTLPYfD7PLhI3Q2o85) | [Jugo Ürdens](https://open.spotify.com/artist/05ygKFPjfiChHhQSx5Y9Y2) | [Für Mich](https://open.spotify.com/album/1uMd8qtuDIvM4Jl2yM8qSr) | 0:00 | 2026-07-09 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |
 | [Traumfrau](https://open.spotify.com/track/56Xl3GghpULu6GUeKnUkwq) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Traumfrau](https://open.spotify.com/album/0UTRKkM5FlbYi3xJVkV1Fc) | 2:11 | 2025-02-13 | 2025-02-15 |

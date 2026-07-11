@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-204 songs - 11 hr 58 min
+205 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [The Light We Cast](https://open.spotify.com/track/2pdGvz2IWaw0ST2mAafKno) | [Jessica Curry](https://open.spotify.com/artist/7maqsg42XWKV2TOwesH5YF) | [Everybody's Gone to the Rapture \(Original Soundtrack\)](https://open.spotify.com/album/0gmge9DFfEc5VSi87yiXyM) | 3:10 | 2021-12-15 | 2022-05-28 |
 | [The Lost Crown \(Prince of Persia\)](https://open.spotify.com/track/116jZYVgxrFurFTmo6pDgv) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Joznez](https://open.spotify.com/artist/03u3O2Nv2hOb00DRFYEISs), [Kataem](https://open.spotify.com/artist/4v5vKGibNG5JeqTPAhnqil) | [The Lost Crown \(Original Music for Prince of Persia\)](https://open.spotify.com/album/4LNnzY4srbB8ytC7Tb3PFS) | 3:19 | 2024-10-07 | 2024-12-24 |
 | [The Orb Of Dreamers](https://open.spotify.com/track/17A0HiJjuQwZuTAzLekMeP) | [The Daniel Pemberton TV Orchestra](https://open.spotify.com/artist/545GoPyuY6bF37QY9BXDZc) | [Little BIG Music: Musical Oddities From And Inspired By Little Big Planet](https://open.spotify.com/album/63XHHwjqDPhXrDlbRMvGjc) | 2:31 | 2021-12-15 | 2022-03-15 |
+| [The Prize](https://open.spotify.com/track/52OFbGqmiCNV5nPLP11WjV) | [Stephen Lukach](https://open.spotify.com/artist/59OpIi4DXe7wIKhFt7bOq9), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed Black Flag: Resynced \(Original Game Soundtrack\)](https://open.spotify.com/album/1aKVX5Eiql11CnPwUYgRXW) | 2:07 | 2026-07-10 |  |
 | [The Rebel Path](https://open.spotify.com/track/3m8UfZwPMMbiWfGR8Lg2cR) | [P.T\. Adamczyk](https://open.spotify.com/artist/27VhXJzIph9c75cBh1e8XM) | [Cyberpunk 2077 \- Original Score](https://open.spotify.com/album/1B2QrHbMox8vPXUY7rXAFp) | 4:10 | 2021-12-15 |  |
 | [The Streets of Whiterun](https://open.spotify.com/track/18CctEeOpjEDIAvWM5S7RE) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v) | [The Elder Scrolls V: Skyrim: Original Game Soundtrack](https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4) | 4:04 | 2022-08-19 |  |
 | [The Tower of Eternity : Into the New World](https://open.spotify.com/track/26gZk8hoaAXXwfbJ0LvkOW) | [Simon Franglen](https://open.spotify.com/artist/12WCXE6DlRcCn2rEShNepL), [양방언](https://open.spotify.com/artist/3nGQkVl2Z5kemw17W0J7Ob), [Eleanor Grant](https://open.spotify.com/artist/4Jugsx1WbX4uLXRzVqC87e) | [The Echoes of Eternity \(AION2 Original Soundtrack\)](https://open.spotify.com/album/4hrCSpPqhJXVMOaXxp0Eh6) | 4:37 | 2025-11-20 |  |

@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-249 songs - 1 day 3 hr 2 min
+249 songs - 1 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Dzina Lau \(Yahweh\) \- Live](https://open.spotify.com/track/0pNHl233SlEV7I8AcbspkQ) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Brenton Brown](https://open.spotify.com/artist/3oZR0tAkfIn1YmLe1faQST) | [Dzina Lau \(Yahweh\) \[Live\]](https://open.spotify.com/album/76VQmBJ3M9JYlmQam36rl1) | 9:25 | 2026-05-01 | 2026-05-29 |
 | [Ebenezer](https://open.spotify.com/track/66cf5Aufw5GxRauvzVdli7) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Ebenezer](https://open.spotify.com/album/0MQ00rMj7eBh6vsbNbqZFj) | 9:28 | 2025-02-07 | 2025-11-07 |
 | [Ebenezer \(feat\. Yanga Sobetwa\)](https://open.spotify.com/track/7IOiIVkaEVSHK03Dy8vzXe) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Yanga Sobetwa](https://open.spotify.com/artist/1T2eBbz7Lx7N24h9VJGKt7) | [Ebenezer \(feat\. Yanga Sobetwa\)](https://open.spotify.com/album/133DKG44TGVY2vVw1c8VuU) | 6:36 | 2025-04-11 | 2025-08-08 |
+| [Ebukhoneni](https://open.spotify.com/track/5l0Vfkkk9TC375DG7WCSjR) | [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Thami Mthabela](https://open.spotify.com/artist/3vykH9neFCy7n3NpfgzWbi) | [Ivangeli](https://open.spotify.com/album/5I1BCKaeMEcnZ284Gcpo9Z) | 5:24 | 2026-07-10 |  |
 | [eJordan](https://open.spotify.com/track/5aZBAwCnBvjSgUJP8o1FGV) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [Dr Winnie Mashaba](https://open.spotify.com/artist/5ZUpkkYxKKwQbd8uNBvw2F) | [eJordan](https://open.spotify.com/album/22kQ8BQShrU9NhhJnwZ65b) | 6:16 | 2025-03-14 | 2025-12-05 |
 | [Elshadai Adonai Medley \(Live\)](https://open.spotify.com/track/6Cu35kyDyoWUioEWyiYTpS) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Precious Mosotho](https://open.spotify.com/artist/2vQTWpv2T7PVBVomihqmwF) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 7:00 | 2024-10-04 |  |
 | [Emmanuel \- Recorded at Studio](https://open.spotify.com/track/4aAbmhOtG5pQT3tBXYKHQN) | [Universal Khathisma Apostolic Church In Zion](https://open.spotify.com/artist/4XMCB93O98csLnrucGLvuw) | [MOPOROFETA](https://open.spotify.com/album/6zu9UliivfrJ11NZEnXcol) | 5:03 | 2024-10-04 |  |
@@ -190,7 +191,6 @@
 | [Thula Moya Wam \- Live At Krugersdorp](https://open.spotify.com/track/79THsHXl74N9Xf8htzukKv) | [William Sejake](https://open.spotify.com/artist/4WTT2rtyjYaA0oOIBbae6R) | [Thula Moya Wam \(Live At Krugersdorp\)](https://open.spotify.com/album/5BJ86o3emSIdj42OdWcaTX) | 4:21 | 2026-02-06 |  |
 | [Thula Sizwe / I Shall Be Released](https://open.spotify.com/track/3f24AZKBhOBaKGpN2F0n52) | [Common People](https://open.spotify.com/artist/4VJhzDgY4GJ4zOmNHtd3iZ), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Tommy Sims](https://open.spotify.com/artist/1v5hoRyO2K9NNPm8GVOPEe), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e) | [Thula Sizwe / I Shall Be Released](https://open.spotify.com/album/6wK4WlDLgaOGMnBsvyVrxO) | 3:15 | 2026-06-12 | 2026-07-10 |
 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 | 2024-10-11 |  |
-| [Track 2](https://open.spotify.com/track/5l0Vfkkk9TC375DG7WCSjR) | [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG) | [Ivangeli](https://open.spotify.com/album/5I1BCKaeMEcnZ284Gcpo9Z) | 0:00 | 2026-07-10 |  |
 | [Tshepo Ya Lefatshe](https://open.spotify.com/track/0r9SsIPTibFOQ6r6tPfcte) | [Lebo Elle Tisane](https://open.spotify.com/artist/5OjmAYpmIb99cv5HC7Rwkt) | [In Season](https://open.spotify.com/album/1yax3wDYJRlKUgOZhDGJZZ) | 5:07 | 2025-10-10 | 2025-11-07 |
 | [Ubonakalise \- Live at State Theatre Pretoria](https://open.spotify.com/track/49YNFxhVD9AcUSQbXSAPC6) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Heart Of Worship Vol\. 2](https://open.spotify.com/album/78bKt7eOSzSbXlotysuYEw) | 9:43 | 2026-03-06 | 2026-04-03 |
 | [Ujesu Ulidwala](https://open.spotify.com/track/77zsgriq7B4e9pYQn0rGC5) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [HYMNS OF FAITH IN ZION](https://open.spotify.com/album/35XmpyoZg5UcVkKRBc1xTl) | 6:39 | 2025-04-11 | 2025-08-08 |

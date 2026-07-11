@@ -148,7 +148,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Ain't No Love (feat. BabyChiefDoit & BAK Jay)",
       "url": "https://open.spotify.com/track/6bI8DN3LF8EzHkYbh065Ei"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 192040,
       "name": "Been Off (feat. Yeat)",
       "url": "https://open.spotify.com/track/1MTsf7pxtcAX2DVDVliJ2L"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 154062,
       "name": "Blacked Out",
       "url": "https://open.spotify.com/track/0c7uMUPFCvPZGSHNEjv7z1"
@@ -634,7 +634,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 133815,
       "name": "Bowls In The Underworld",
       "url": "https://open.spotify.com/track/0Pgwc9wwiNgiD4ucHsyohr"
@@ -873,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Sanity Evaded",
+        "url": "https://open.spotify.com/album/5CkmOdUGDcPcdJvH3sVcIv"
+      },
+      "artists": [
+        {
+          "name": "YFG FATSO",
+          "url": "https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151722,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/6BQtUSJ3vfkcM53gdXscgB"
+    },
+    {
+      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/6dgiL9q5Ckw8U3V14w1zYH"
       },
@@ -884,7 +902,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 152112,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/0OUJusExWi6PM06g3cpwbV"
@@ -920,7 +938,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-06",
+      "date_removed": null,
       "duration_ms": 128026,
       "name": "CURRY SLIDE",
       "url": "https://open.spotify.com/track/3fwvaufxWAwdqCtiHlejPM"
@@ -1944,6 +1962,28 @@
       "duration_ms": 126082,
       "name": "Hoop Ass Nigga",
       "url": "https://open.spotify.com/track/5Fr3Tsw7WvayQ0ec1r6DaS"
+    },
+    {
+      "album": {
+        "name": "HTH",
+        "url": "https://open.spotify.com/album/3aFaUdZfbrrhB3VvlJLM1E"
+      },
+      "artists": [
+        {
+          "name": "hybriid",
+          "url": "https://open.spotify.com/artist/0OQyKOGAectNfRjbz15zi0"
+        },
+        {
+          "name": "Blackedy",
+          "url": "https://open.spotify.com/artist/1KUAXExkHPbU9dtaqKwkK2"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125271,
+      "name": "HTH",
+      "url": "https://open.spotify.com/track/5fO5kjV2PM45vvs1n3LKJt"
     },
     {
       "album": {
@@ -2976,7 +3016,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "No Blickout",
       "url": "https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg"
@@ -4390,7 +4430,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 145841,
       "name": "Telephones",
       "url": "https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU"

@@ -5101,6 +5101,24 @@
     },
     {
       "album": {
+        "name": "Soda Con Tequila",
+        "url": "https://open.spotify.com/album/76w533dlRiIkENYJpQfz8T"
+      },
+      "artists": [
+        {
+          "name": "BROKIX",
+          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Soda Con Tequila",
+      "url": "https://open.spotify.com/track/1FzrBHvyxnjwbxUDhDdLH0"
+    },
+    {
+      "album": {
         "name": "Sol",
         "url": "https://open.spotify.com/album/0cfK10ZyQ7zEPHSRBCjiwf"
       },

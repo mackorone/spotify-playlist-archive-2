@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Kierra Sheard
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,141 likes - 74 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,158 likes - 74 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 73 | [mourning 2 dancing](https://open.spotify.com/track/3T2vuPqaHbXLwegNZyeRVa) | [Tenroc](https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [mourning 2 dancing](https://open.spotify.com/album/4nbGCL267piZpeBJ7jQsFq) | 2:44 |
 | 74 | [What I Need](https://open.spotify.com/track/0LTdWXf4krvXCHdEbJIHRl) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [What I Need](https://open.spotify.com/album/3AtNtoPcgW71xzuzgSwk1q) | 2:51 |
 
-Snapshot ID: `AAAAACqzuCnOIW7vB9OMS0Jp27Bbnf+Z`
+Snapshot ID: `AAAAAJMLp7T7qHfXhGMKrmcywGhSZubm`

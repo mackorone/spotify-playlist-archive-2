@@ -1,13 +1,29 @@
 {
   "description": "the best underground club tracks for party criminals \u2694\ufe0f featuring Surusinghe \u2694\ufe0f ",
-  "num_followers": 69301,
+  "num_followers": 69349,
   "original_name": "Club Culture",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIvN/jLm+RixqNxu6xK44peTPn4T",
+  "snapshot_id": "AAAAAFQDHv4r6ELcq/wxrVY0YSPguzLN",
   "tracks": [
+    {
+      "added_at": "2026-06-25 22:01:45",
+      "album": {
+        "name": "Clammy",
+        "url": "https://open.spotify.com/album/14eOPm3XAA8CVb6csdvVU8"
+      },
+      "artists": [
+        {
+          "name": "Povoa",
+          "url": "https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Shut Me Down",
+      "url": "https://open.spotify.com/track/3DHcH10CRGx3kgreP6nBCG"
+    },
     {
       "added_at": "2026-06-25 22:01:45",
       "album": {
@@ -29,20 +45,40 @@
       "url": "https://open.spotify.com/track/3fRURTdeiyrZMRKpyFtDbE"
     },
     {
-      "added_at": "2026-06-25 22:01:45",
+      "added_at": "2026-07-10 04:01:54",
       "album": {
-        "name": "Clammy",
-        "url": "https://open.spotify.com/album/14eOPm3XAA8CVb6csdvVU8"
+        "name": "BAGS INC",
+        "url": "https://open.spotify.com/album/4QFuexUmfDhl8WL34Rnda8"
       },
       "artists": [
         {
-          "name": "Povoa",
-          "url": "https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC"
+          "name": "Sam Binga",
+          "url": "https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi"
+        },
+        {
+          "name": "Addison Groove",
+          "url": "https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Shut Me Down",
-      "url": "https://open.spotify.com/track/3DHcH10CRGx3kgreP6nBCG"
+      "duration_ms": 207999,
+      "name": "SQZME",
+      "url": "https://open.spotify.com/track/4bCVm1YfSMPysLN7axPAtW"
+    },
+    {
+      "added_at": "2026-07-10 04:01:54",
+      "album": {
+        "name": "The Sick Dimension",
+        "url": "https://open.spotify.com/album/2UIQEzb2pd4N9jveukNUmS"
+      },
+      "artists": [
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        }
+      ],
+      "duration_ms": 339009,
+      "name": "Odd Sympathy",
+      "url": "https://open.spotify.com/track/525ZgRrCdTjiaCHRFO3q4x"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -65,24 +101,20 @@
       "url": "https://open.spotify.com/track/2PqPTeBqrzY3dEHie9rSvU"
     },
     {
-      "added_at": "2026-06-25 22:01:45",
+      "added_at": "2026-07-10 04:01:54",
       "album": {
-        "name": "Cold at the Top (Shanti Celeste Remix)",
-        "url": "https://open.spotify.com/album/26Pql0k7TczNyZBCPOLyAf"
+        "name": "Scanline",
+        "url": "https://open.spotify.com/album/6fPckZ0fwQweoof4uKJcwS"
       },
       "artists": [
         {
-          "name": "KNEECAP",
-          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
-        },
-        {
-          "name": "Shanti Celeste",
-          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
+          "name": "FJAAK",
+          "url": "https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV"
         }
       ],
-      "duration_ms": 353444,
-      "name": "Cold at the Top - Shanti Celeste Remix",
-      "url": "https://open.spotify.com/track/68Y4z8FEhHDStugmExZpuB"
+      "duration_ms": 292448,
+      "name": "Scanline",
+      "url": "https://open.spotify.com/track/02EbDzufBOHaP26WFfx8B4"
     },
     {
       "added_at": "2026-07-03 04:02:00",
@@ -103,6 +135,26 @@
       "duration_ms": 125988,
       "name": "only one way",
       "url": "https://open.spotify.com/track/5MSZXgbUYRthFMP2FEvZaM"
+    },
+    {
+      "added_at": "2026-06-25 22:01:45",
+      "album": {
+        "name": "Cold at the Top (Shanti Celeste Remix)",
+        "url": "https://open.spotify.com/album/26Pql0k7TczNyZBCPOLyAf"
+      },
+      "artists": [
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        },
+        {
+          "name": "Shanti Celeste",
+          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
+        }
+      ],
+      "duration_ms": 353444,
+      "name": "Cold at the Top - Shanti Celeste Remix",
+      "url": "https://open.spotify.com/track/68Y4z8FEhHDStugmExZpuB"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -157,6 +209,22 @@
       "url": "https://open.spotify.com/track/5HTGA8YG0nxAElOgVirldf"
     },
     {
+      "added_at": "2026-07-10 04:01:54",
+      "album": {
+        "name": "Lemon / Satisfied",
+        "url": "https://open.spotify.com/album/7cMQM3I0WldxwpARQNzPqj"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/4ZDx6cyzSUHxflYxGA7D2l"
+    },
+    {
       "added_at": "2026-06-25 22:01:45",
       "album": {
         "name": "The Sick Dimension",
@@ -171,6 +239,26 @@
       "duration_ms": 321773,
       "name": "Default Mode",
       "url": "https://open.spotify.com/track/6pkkVyRGtIEIIsYU253DxK"
+    },
+    {
+      "added_at": "2026-07-10 04:01:54",
+      "album": {
+        "name": "The Voices",
+        "url": "https://open.spotify.com/album/6H7j8om4PXQgnmsNTWqAeB"
+      },
+      "artists": [
+        {
+          "name": "Papa Nugs",
+          "url": "https://open.spotify.com/artist/03ByonbL0ZBHM7vZ8WxbFP"
+        },
+        {
+          "name": "DJ ADHD",
+          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
+        }
+      ],
+      "duration_ms": 210909,
+      "name": "The Voices",
+      "url": "https://open.spotify.com/track/3PbvwaGLypQtufjpTZ82GJ"
     },
     {
       "added_at": "2026-07-03 04:02:00",
@@ -191,6 +279,22 @@
       "duration_ms": 202000,
       "name": "Guestlist",
       "url": "https://open.spotify.com/track/2nyuc8Ic9LbpnZB7DDE40O"
+    },
+    {
+      "added_at": "2026-07-10 04:01:54",
+      "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/1WFmjaXHzqjUOkBDYg9ST6"
+      },
+      "artists": [
+        {
+          "name": "1111",
+          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
+        }
+      ],
+      "duration_ms": 185915,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/3AMiyQcA4FFSzZEdFEYOK0"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -243,6 +347,22 @@
       "duration_ms": 278260,
       "name": "Artificial",
       "url": "https://open.spotify.com/track/2DG2EhND9DmbXOsOJjOo5F"
+    },
+    {
+      "added_at": "2026-07-10 04:01:54",
+      "album": {
+        "name": "X Amor",
+        "url": "https://open.spotify.com/album/3Yn76vi1U7llZplkGpbI1g"
+      },
+      "artists": [
+        {
+          "name": "Matteo Just",
+          "url": "https://open.spotify.com/artist/2MxSgR2qXs4xlLz6qRRR16"
+        }
+      ],
+      "duration_ms": 204744,
+      "name": "X Amor",
+      "url": "https://open.spotify.com/track/305MbndVqozM9u0GQ2RYsb"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -313,6 +433,22 @@
       "url": "https://open.spotify.com/track/6Zq31r061bYdQyqO0s6oda"
     },
     {
+      "added_at": "2026-07-10 04:01:54",
+      "album": {
+        "name": "Synoptic Audio",
+        "url": "https://open.spotify.com/album/66yTd9FrhbN4v6GBtSxvWc"
+      },
+      "artists": [
+        {
+          "name": "Speaker Music",
+          "url": "https://open.spotify.com/artist/1H0aWZUg7aOHQmo5h09xso"
+        }
+      ],
+      "duration_ms": 374693,
+      "name": "Chaosmosis",
+      "url": "https://open.spotify.com/track/6w5EhMONFzd90QfCLMcyVA"
+    },
+    {
       "added_at": "2026-07-03 04:02:00",
       "album": {
         "name": "head space",
@@ -329,20 +465,20 @@
       "url": "https://open.spotify.com/track/2fQw85bsefLmWX1gR9QBbj"
     },
     {
-      "added_at": "2026-06-25 22:01:45",
+      "added_at": "2026-07-10 04:01:54",
       "album": {
-        "name": "u know me",
-        "url": "https://open.spotify.com/album/3PF3h6lEKhVIgjIhAdmK8i"
+        "name": "Big Beat Manifesto Vol. XII",
+        "url": "https://open.spotify.com/album/4zN9BzorYzojQQSRxvzoXc"
       },
       "artists": [
         {
-          "name": "RONI",
-          "url": "https://open.spotify.com/artist/3ACB6pQFKxf7vsmm5Tl39g"
+          "name": "Eden Burns",
+          "url": "https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2"
         }
       ],
-      "duration_ms": 253000,
-      "name": "u know me",
-      "url": "https://open.spotify.com/track/2W4XDbRhkH726agskYOUS1"
+      "duration_ms": 428530,
+      "name": "Direction",
+      "url": "https://open.spotify.com/track/7ukS7TQfYq7h6DCeCHxT9N"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -515,6 +651,22 @@
       "duration_ms": 458878,
       "name": "FRIED",
       "url": "https://open.spotify.com/track/1i527ye8rzBUSsb6o5OFpZ"
+    },
+    {
+      "added_at": "2026-06-25 22:01:45",
+      "album": {
+        "name": "u know me",
+        "url": "https://open.spotify.com/album/3PF3h6lEKhVIgjIhAdmK8i"
+      },
+      "artists": [
+        {
+          "name": "RONI",
+          "url": "https://open.spotify.com/artist/3ACB6pQFKxf7vsmm5Tl39g"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "u know me",
+      "url": "https://open.spotify.com/track/2W4XDbRhkH726agskYOUS1"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -779,26 +931,6 @@
       "duration_ms": 264561,
       "name": "ID1",
       "url": "https://open.spotify.com/track/41qFfCBEexyEM4TNOgqk4O"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
-        "name": "Pyrexia",
-        "url": "https://open.spotify.com/album/5bXY8a7X1GPtI01b4NCV4s"
-      },
-      "artists": [
-        {
-          "name": "Ehua",
-          "url": "https://open.spotify.com/artist/6mmklLsukQYQBIfS7WJw50"
-        },
-        {
-          "name": "Flore",
-          "url": "https://open.spotify.com/artist/14LfGaytRuKLzIjUP6SXMM"
-        }
-      ],
-      "duration_ms": 338277,
-      "name": "Helix",
-      "url": "https://open.spotify.com/track/4CDLVSZvQ2pEj3xreFWns6"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -1459,22 +1591,6 @@
     {
       "added_at": "2026-06-25 22:01:45",
       "album": {
-        "name": "Eye Drop",
-        "url": "https://open.spotify.com/album/3ZSJ5JFCxuUvrX0nmrMMuA"
-      },
-      "artists": [
-        {
-          "name": "Stones Taro",
-          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
-        }
-      ],
-      "duration_ms": 353615,
-      "name": "Eye Drop",
-      "url": "https://open.spotify.com/track/7LKakpplgrNyTlHXsU4sgI"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
         "name": "Stasis / Come On",
         "url": "https://open.spotify.com/album/68PsVuj4RgGOgxBzoWeyob"
       },
@@ -1503,26 +1619,6 @@
       "duration_ms": 363934,
       "name": "Syrup Swirl",
       "url": "https://open.spotify.com/track/25LEEULLtpftcQU8jXqebD"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
-        "name": "Pipe Up",
-        "url": "https://open.spotify.com/album/13JonOUORqjQxPHZAu0FOU"
-      },
-      "artists": [
-        {
-          "name": "Deft",
-          "url": "https://open.spotify.com/artist/43qPWPlDL5noyuCJKPKm6N"
-        },
-        {
-          "name": "COIDO",
-          "url": "https://open.spotify.com/artist/3pY8LTXZvim2leLtFv1jej"
-        }
-      ],
-      "duration_ms": 205077,
-      "name": "Pipe Up",
-      "url": "https://open.spotify.com/track/0RlCE8V8FPIr4FOsPDkzSv"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -1559,22 +1655,6 @@
     {
       "added_at": "2026-06-25 22:01:45",
       "album": {
-        "name": "Let's Get This Party Over With",
-        "url": "https://open.spotify.com/album/7uPA2O3MHKRdMMu8ar3W9k"
-      },
-      "artists": [
-        {
-          "name": "WTCHCRFT",
-          "url": "https://open.spotify.com/artist/5BfKiWheLXOhRKgVka5Gkq"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Let's Get This Party Over With",
-      "url": "https://open.spotify.com/track/3pocpEGLluCx2COq7xI7Z5"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
         "name": "Beezknees",
         "url": "https://open.spotify.com/album/2yuRw2XM2vAukRwsNllxQs"
       },
@@ -1587,22 +1667,6 @@
       "duration_ms": 243750,
       "name": "Beezknees",
       "url": "https://open.spotify.com/track/0CLTYIDn9PC96SKt7tEYed"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
-        "name": "Pulse Cycles",
-        "url": "https://open.spotify.com/album/5Yd7AGmmhEof8IKEfuqowR"
-      },
-      "artists": [
-        {
-          "name": "Yas Reven",
-          "url": "https://open.spotify.com/artist/0zyuDlBHPKqLYvhiSEeHCD"
-        }
-      ],
-      "duration_ms": 259082,
-      "name": "2am Cycles",
-      "url": "https://open.spotify.com/track/4p0END5g9uDjqmB0ZiVJjJ"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -1731,22 +1795,6 @@
     {
       "added_at": "2026-06-25 22:01:45",
       "album": {
-        "name": "Angel Crisis",
-        "url": "https://open.spotify.com/album/2fV7dW8bFZ0QH75wYm7H5V"
-      },
-      "artists": [
-        {
-          "name": "Zora Jones",
-          "url": "https://open.spotify.com/artist/5zJUDjV6daKYTo1H7OoFAY"
-        }
-      ],
-      "duration_ms": 207518,
-      "name": "Angel Crisis",
-      "url": "https://open.spotify.com/track/09ZBgtOAfjz56ep7JYLWHZ"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
         "name": "think & dream",
         "url": "https://open.spotify.com/album/3NWgXYTeSZ5q7sM0sqrjsH"
       },
@@ -1759,22 +1807,6 @@
       "duration_ms": 216774,
       "name": "think & dream",
       "url": "https://open.spotify.com/track/1HLTR6jmmraeE6OucxKGZS"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
-        "name": "HEY MISTER DEEJAY",
-        "url": "https://open.spotify.com/album/35vauJf2FeghU7u57kZLwm"
-      },
-      "artists": [
-        {
-          "name": "Flansie",
-          "url": "https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "HEY MISTER DEEJAY",
-      "url": "https://open.spotify.com/track/0wG2zTaZd8TT8U0gjADuzu"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -1823,22 +1855,6 @@
       "duration_ms": 150206,
       "name": "Sonidero",
       "url": "https://open.spotify.com/track/6isTmPPYrPkNmeqKydQm5k"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
-        "name": "Moire",
-        "url": "https://open.spotify.com/album/5yxDD9kqU4961uarBjkhNi"
-      },
-      "artists": [
-        {
-          "name": "GRRL",
-          "url": "https://open.spotify.com/artist/0JpzRsUcCKSyr44mQiosNg"
-        }
-      ],
-      "duration_ms": 160213,
-      "name": "Moire",
-      "url": "https://open.spotify.com/track/64xwM6gRhzh9XlTCYFX6y3"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -1947,26 +1963,6 @@
       "duration_ms": 291500,
       "name": "Business",
       "url": "https://open.spotify.com/track/3B7DEjXs1lyFLHGqtxjSbq"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
-        "name": "Beat Bunny",
-        "url": "https://open.spotify.com/album/4918fSnTl2rA30dykzTrXG"
-      },
-      "artists": [
-        {
-          "name": "Povoa",
-          "url": "https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC"
-        },
-        {
-          "name": "Madge",
-          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
-        }
-      ],
-      "duration_ms": 194626,
-      "name": "Beat Bunny",
-      "url": "https://open.spotify.com/track/03aGl91oeW7EZolJTFFNlM"
     },
     {
       "added_at": "2026-06-25 22:01:45",

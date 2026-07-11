@@ -1,13 +1,41 @@
 {
-  "description": "New jazz for open minds. Cover: Jacob Collier",
-  "num_followers": 1049906,
+  "description": "New jazz for open minds. Cover: FATHERS",
+  "num_followers": 1049924,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADBLxf7zsdHPpey3g5dcm6Wvs33y",
+  "snapshot_id": "AAAAABGmKubxyhIldSylD340wzJb4ByN",
   "tracks": [
+    {
+      "added_at": "2026-07-10 04:00:27",
+      "album": {
+        "name": "FATHERS",
+        "url": "https://open.spotify.com/album/1EeNAliCb18UrU84kfqWmh"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "duration_ms": 158106,
+      "name": "PATCHWORK",
+      "url": "https://open.spotify.com/track/38HigDpo88ILLFU2zhzRT6"
+    },
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
@@ -25,10 +53,10 @@
       "url": "https://open.spotify.com/track/6jQ2AEAq0BKtaYgKNb5Gdz"
     },
     {
-      "added_at": "2026-07-03 04:00:42",
+      "added_at": "2026-07-10 04:00:27",
       "album": {
-        "name": "Sangam & Friends",
-        "url": "https://open.spotify.com/album/1Jm3KSmqeij3dcksUYwM1I"
+        "name": "Sam on the Ganges",
+        "url": "https://open.spotify.com/album/7F9x71oGaG8uy3SwVUcaPU"
       },
       "artists": [
         {
@@ -38,7 +66,7 @@
       ],
       "duration_ms": 431266,
       "name": "Sam on the Ganges",
-      "url": "https://open.spotify.com/track/6ZIjXziCir2H7zzcWdAr4K"
+      "url": "https://open.spotify.com/track/6NN84SLP6Zccaya0CsU03l"
     },
     {
       "added_at": "2026-07-03 04:00:42",
@@ -131,34 +159,6 @@
       "duration_ms": 307245,
       "name": "Sometimes Love",
       "url": "https://open.spotify.com/track/20KOIyeSqCrfWnUJhGlfKl"
-    },
-    {
-      "added_at": "2026-06-19 04:01:28",
-      "album": {
-        "name": "PEARL",
-        "url": "https://open.spotify.com/album/0gfmzQ2h5XslfUtAZKm4oj"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
-        },
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        },
-        {
-          "name": "CARRTOONS",
-          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
-        },
-        {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "PEARL",
-      "url": "https://open.spotify.com/track/33E2bU4xRVvjuc6Y4dtk5k"
     },
     {
       "added_at": "2026-06-26 04:00:18",

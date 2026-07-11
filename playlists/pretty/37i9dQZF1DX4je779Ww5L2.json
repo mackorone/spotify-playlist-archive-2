@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 190636,
+  "num_followers": 190631,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "sunflower boy",
-        "url": "https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM"
-      },
-      "artists": [
-        {
-          "name": "FLORA",
-          "url": "https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W"
-        }
-      ],
-      "duration_ms": 146605,
-      "name": "sunflower boy",
-      "url": "https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
         "name": "Dissolve",
         "url": "https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 403787,
       "name": "Dissolve",
       "url": "https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
+        "name": "sunflower boy",
+        "url": "https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM"
+      },
+      "artists": [
+        {
+          "name": "FLORA",
+          "url": "https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W"
+        }
+      ],
+      "duration_ms": 146605,
+      "name": "sunflower boy",
+      "url": "https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
+        "name": "Can",
+        "url": "https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "duration_ms": 201557,
+      "name": "Can",
+      "url": "https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
         "name": "Nightwood (Feat. Tine Reymer) Radio edit [Radio Edit]",
         "url": "https://open.spotify.com/album/6PoU9sVRrfr7sbEIfJY06q"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 219106,
       "name": "Nightwood (Feat. Tine Reymer) Radio Edit",
       "url": "https://open.spotify.com/track/5dKV3esDsQ5fHWb4XLK5P7"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
-        "name": "Can",
-        "url": "https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9"
-      },
-      "artists": [
-        {
-          "name": "Soft Loft",
-          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
-        }
-      ],
-      "duration_ms": 201557,
-      "name": "Can",
-      "url": "https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/0hbVt302avAUnb1AER2uf6"
-      },
-      "artists": [
-        {
-          "name": "Ciska Ciska",
-          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
-        }
-      ],
-      "duration_ms": 204047,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4U7pnAXHXvMiiS6OPppAWf"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
         "name": "Getting Up",
         "url": "https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Baby Blue (Acoustic)",
-        "url": "https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c"
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/0hbVt302avAUnb1AER2uf6"
       },
       "artists": [
         {
-          "name": "Penny Roox",
-          "url": "https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg"
+          "name": "Ciska Ciska",
+          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
         }
       ],
-      "duration_ms": 185114,
-      "name": "Baby Blue - Acoustic",
-      "url": "https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5"
+      "duration_ms": 204047,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4U7pnAXHXvMiiS6OPppAWf"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -851,22 +835,18 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "A Soundtrack to a Never-Ending Story",
-        "url": "https://open.spotify.com/album/2Ej1zX3c1wVBDIJnNk62Dp"
+        "name": "Baby Blue (Acoustic)",
+        "url": "https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c"
       },
       "artists": [
         {
-          "name": "A. Johanson",
-          "url": "https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69"
-        },
-        {
-          "name": "G\u00e9onne Hartman",
-          "url": "https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon"
+          "name": "Penny Roox",
+          "url": "https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg"
         }
       ],
-      "duration_ms": 253386,
-      "name": "Seven Lonely Nights",
-      "url": "https://open.spotify.com/track/4KWwyQtWCtO04TWelNBbe2"
+      "duration_ms": 185114,
+      "name": "Baby Blue - Acoustic",
+      "url": "https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -883,6 +863,26 @@
       "duration_ms": 215000,
       "name": "At The Party",
       "url": "https://open.spotify.com/track/0eD9nDx3ZdZt5wzLOOUtxy"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
+        "name": "A Soundtrack to a Never-Ending Story",
+        "url": "https://open.spotify.com/album/2Ej1zX3c1wVBDIJnNk62Dp"
+      },
+      "artists": [
+        {
+          "name": "A. Johanson",
+          "url": "https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69"
+        },
+        {
+          "name": "G\u00e9onne Hartman",
+          "url": "https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon"
+        }
+      ],
+      "duration_ms": 253386,
+      "name": "Seven Lonely Nights",
+      "url": "https://open.spotify.com/track/4KWwyQtWCtO04TWelNBbe2"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Rush Hour Traffic",
-        "url": "https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y"
-      },
-      "artists": [
-        {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
-        }
-      ],
-      "duration_ms": 264346,
-      "name": "Rush Hour Traffic",
-      "url": "https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
         "name": "Dark Sky Reserve",
         "url": "https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "U&I",
-        "url": "https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB"
+        "name": "Rush Hour Traffic",
+        "url": "https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y"
       },
       "artists": [
         {
-          "name": "Isaac Roux",
-          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
         }
       ],
-      "duration_ms": 153164,
-      "name": "U&I",
-      "url": "https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi"
+      "duration_ms": 264346,
+      "name": "Rush Hour Traffic",
+      "url": "https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -1003,6 +987,22 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
+        "name": "U&I",
+        "url": "https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB"
+      },
+      "artists": [
+        {
+          "name": "Isaac Roux",
+          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
+        }
+      ],
+      "duration_ms": 153164,
+      "name": "U&I",
+      "url": "https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
         "name": "My Child, My Friend - Anchor",
         "url": "https://open.spotify.com/album/63nOrTo9E93yU00AZvnCLD"
       },
@@ -1015,22 +1015,6 @@
       "duration_ms": 152146,
       "name": "My Child, My Friend",
       "url": "https://open.spotify.com/track/4fJ1qHYvlGZVtCWkIbO7hQ"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
-        "name": "Sunflower Sunset",
-        "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
-      },
-      "artists": [
-        {
-          "name": "Future Husband",
-          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
-        }
-      ],
-      "duration_ms": 308963,
-      "name": "Sunflower Sunset",
-      "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -1055,34 +1039,18 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "the bed-ties",
-        "url": "https://open.spotify.com/album/2R8Fri8R7n1q3za8By1MnL"
+        "name": "Sunflower Sunset",
+        "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
       },
       "artists": [
         {
-          "name": "MAYA MARIA",
-          "url": "https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy"
+          "name": "Future Husband",
+          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
         }
       ],
-      "duration_ms": 220080,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/6PS7UXENl8M47HDDg3uW1x"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
-        "name": "An Hour Per Day",
-        "url": "https://open.spotify.com/album/32QlWfeGQTrlE5JFR3Teav"
-      },
-      "artists": [
-        {
-          "name": "Robin Kester",
-          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
-        }
-      ],
-      "duration_ms": 217646,
-      "name": "An Hour Per Day",
-      "url": "https://open.spotify.com/track/7rBwAUy2w1CPrrIan7r2Rd"
+      "duration_ms": 308963,
+      "name": "Sunflower Sunset",
+      "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -1103,34 +1071,50 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "More than a warning",
-        "url": "https://open.spotify.com/album/6mDTQhx9rC4e7fnRv9qgOW"
+        "name": "Holes",
+        "url": "https://open.spotify.com/album/0MzBPDnz6TRkL6TqmD68QS"
       },
       "artists": [
         {
-          "name": "Amongster",
-          "url": "https://open.spotify.com/artist/6YIKMlerK7c5j109TgfjnK"
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0d4PHPVdZaJylLDOJUd2Yw"
         }
       ],
-      "duration_ms": 301417,
-      "name": "More than a warning",
-      "url": "https://open.spotify.com/track/2WyoxWAgDvsGzqKOWIhxPv"
+      "duration_ms": 231000,
+      "name": "Holes",
+      "url": "https://open.spotify.com/track/2uJr0wiHkkMYUkesFLkHFT"
     },
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Mr. Beckett",
-        "url": "https://open.spotify.com/album/5GmgDdcsrcwxePMDYTebeh"
+        "name": "An Hour Per Day",
+        "url": "https://open.spotify.com/album/32QlWfeGQTrlE5JFR3Teav"
       },
       "artists": [
         {
-          "name": "Agn\u00e8s Botty",
-          "url": "https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC"
+          "name": "Robin Kester",
+          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
         }
       ],
-      "duration_ms": 223973,
-      "name": "Mr. Beckett",
-      "url": "https://open.spotify.com/track/2PuT4rCzGU7CXGVNAEihTe"
+      "duration_ms": 217646,
+      "name": "An Hour Per Day",
+      "url": "https://open.spotify.com/track/7rBwAUy2w1CPrrIan7r2Rd"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
+        "name": "the bed-ties",
+        "url": "https://open.spotify.com/album/2R8Fri8R7n1q3za8By1MnL"
+      },
+      "artists": [
+        {
+          "name": "MAYA MARIA",
+          "url": "https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/6PS7UXENl8M47HDDg3uW1x"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
+        "name": "Mr. Beckett",
+        "url": "https://open.spotify.com/album/5GmgDdcsrcwxePMDYTebeh"
+      },
+      "artists": [
+        {
+          "name": "Agn\u00e8s Botty",
+          "url": "https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC"
+        }
+      ],
+      "duration_ms": 223973,
+      "name": "Mr. Beckett",
+      "url": "https://open.spotify.com/track/2PuT4rCzGU7CXGVNAEihTe"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
         "name": "Bleeding Colours",
         "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 220543,
       "name": "You",
       "url": "https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
+        "name": "More than a warning",
+        "url": "https://open.spotify.com/album/6mDTQhx9rC4e7fnRv9qgOW"
+      },
+      "artists": [
+        {
+          "name": "Amongster",
+          "url": "https://open.spotify.com/artist/6YIKMlerK7c5j109TgfjnK"
+        }
+      ],
+      "duration_ms": 301417,
+      "name": "More than a warning",
+      "url": "https://open.spotify.com/track/2WyoxWAgDvsGzqKOWIhxPv"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -1215,18 +1231,18 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Holes",
-        "url": "https://open.spotify.com/album/0MzBPDnz6TRkL6TqmD68QS"
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/7pYx7rQtcVhaLEKlf0QQ4Y"
       },
       "artists": [
         {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0d4PHPVdZaJylLDOJUd2Yw"
+          "name": "Lisette",
+          "url": "https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO"
         }
       ],
-      "duration_ms": 231000,
-      "name": "Holes",
-      "url": "https://open.spotify.com/track/2uJr0wiHkkMYUkesFLkHFT"
+      "duration_ms": 225595,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/72RALfAJBuXc939MfC0Gl7"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -1247,22 +1263,6 @@
       "duration_ms": 203374,
       "name": "BB II",
       "url": "https://open.spotify.com/track/08G9r5z6KrPw1UgTTGoC7K"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
-        "name": "Lucy",
-        "url": "https://open.spotify.com/album/7pYx7rQtcVhaLEKlf0QQ4Y"
-      },
-      "artists": [
-        {
-          "name": "Lisette",
-          "url": "https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO"
-        }
-      ],
-      "duration_ms": 225595,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/72RALfAJBuXc939MfC0Gl7"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/2AmsdFE6K0JljNeAB2EqrD"
-      },
-      "artists": [
-        {
-          "name": "Jacob Drescher",
-          "url": "https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv"
-        }
-      ],
-      "duration_ms": 209237,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/0LuRbtuakg2uS1z5qoDzba"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
         "name": "More Than Enough",
         "url": "https://open.spotify.com/album/2N0laeE3SqH46ADFdgcs34"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 196821,
       "name": "More Than Enough",
       "url": "https://open.spotify.com/track/1wTtnNyUUrJL4erWEUfC77"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/2AmsdFE6K0JljNeAB2EqrD"
+      },
+      "artists": [
+        {
+          "name": "Jacob Drescher",
+          "url": "https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv"
+        }
+      ],
+      "duration_ms": 209237,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/0LuRbtuakg2uS1z5qoDzba"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Queen-Size Life",
-        "url": "https://open.spotify.com/album/7e5CvNi9fnhAIJ9ntZnlDB"
-      },
-      "artists": [
-        {
-          "name": "Mountaineer",
-          "url": "https://open.spotify.com/artist/5ayGJVSrPdzT28dxwsxgOj"
-        }
-      ],
-      "duration_ms": 216690,
-      "name": "Queen-Size Life",
-      "url": "https://open.spotify.com/track/3Ci3PhwCqFUTNlfQ59Nj3z"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
         "name": "My Hands",
         "url": "https://open.spotify.com/album/1PHbCItyhGrNHBIwwdxdFD"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 218701,
       "name": "My Hands",
       "url": "https://open.spotify.com/track/0SvSlr8HPXE577UkIMOT2P"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
+        "name": "Queen-Size Life",
+        "url": "https://open.spotify.com/album/7e5CvNi9fnhAIJ9ntZnlDB"
+      },
+      "artists": [
+        {
+          "name": "Mountaineer",
+          "url": "https://open.spotify.com/artist/5ayGJVSrPdzT28dxwsxgOj"
+        }
+      ],
+      "duration_ms": 216690,
+      "name": "Queen-Size Life",
+      "url": "https://open.spotify.com/track/3Ci3PhwCqFUTNlfQ59Nj3z"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Tardigrades",
-        "url": "https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd"
-      },
-      "artists": [
-        {
-          "name": "Slow Res",
-          "url": "https://open.spotify.com/artist/0w5Ntkxa6z2RF00gXNRBrF"
-        }
-      ],
-      "duration_ms": 190631,
-      "name": "Tardigrades",
-      "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
         "name": "Where's The Fun In That?",
         "url": "https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 227433,
       "name": "The Moon Is Going For A Swim",
       "url": "https://open.spotify.com/track/4yfEsna4QNbBL0EYnieNY6"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
+        "name": "Tardigrades",
+        "url": "https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd"
+      },
+      "artists": [
+        {
+          "name": "Slow Res",
+          "url": "https://open.spotify.com/artist/0w5Ntkxa6z2RF00gXNRBrF"
+        }
+      ],
+      "duration_ms": 190631,
+      "name": "Tardigrades",
+      "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
     },
     {
       "added_at": "2026-06-25 22:00:34",

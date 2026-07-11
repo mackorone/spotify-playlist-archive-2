@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Solo rap da Napoli e dalla Campania\. Frezza in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,989 likes - 75 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,000 likes - 75 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 31 | [PIU' SU](https://open.spotify.com/track/2cM6NVBphorrGhs5BqLaoD) | [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a) | [COME VIVO](https://open.spotify.com/album/6HeBSFceg9xJPzVJcS4Q9x) | 2:10 |
 | 32 | [SCUGNIZZI X SEMPRE](https://open.spotify.com/track/2pakBQInXYUYEw0p1PKF7w) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [SCUGNIZZI X SEMPRE](https://open.spotify.com/album/21mKWI9bgOFJY8JLq1Auji) | 1:48 |
 | 33 | [CARACAS](https://open.spotify.com/track/46qBqierqPc0ilaD0sHkqV) | [Kalionte](https://open.spotify.com/artist/4EXgod8ey7HXn2o8zAOcAQ), [CLAVO](https://open.spotify.com/artist/1qHMq6qI0GjOVzrj5BpfV0) | [CARACAS](https://open.spotify.com/album/6lZIFCI3QgDXp5Woakmw7G) | 2:06 |
-| 34 | [NUN CAGNAM MAJE](https://open.spotify.com/track/3tusXESXzq58pxemK1diEu) | [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn), [Rivrek](https://open.spotify.com/artist/7iiuyNvPPtm4zwwDBot61y) | [NUN CAGNAM MAJE](https://open.spotify.com/album/2QqJRcf45foDXm2KUdZ8zF) | 2:30 |
+| 34 | [NUN CAGNAM MAJE](https://open.spotify.com/track/3tusXESXzq58pxemK1diEu) | [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn), [Rivreck](https://open.spotify.com/artist/1nB0WQrdlmT4vEV158VV7i) | [NUN CAGNAM MAJE](https://open.spotify.com/album/2QqJRcf45foDXm2KUdZ8zF) | 2:30 |
 | 35 | [T'amo e T'odio \(feat\. Frezza & Dipinto\)](https://open.spotify.com/track/6YGKWLpQtBDopaAlOMgZnw) | [Pepp 'O Red](https://open.spotify.com/artist/0wF47dWCTiDlqm5FkNkr1B), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9) | [T'am e T'odio \(feat\. Frezza & Dipinto\)](https://open.spotify.com/album/3nqsZLYlVSknjbK1YXxWu4) | 2:23 |
 | 36 | [MOMO DESIGN \(feat\. Im Envy\)](https://open.spotify.com/track/1yGreSMP5Vle6mURU2bMdC) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7) | [MOMO DESIGN \(feat\. Im Envy\)](https://open.spotify.com/album/3G8Ej9TUqVEKGwcwYfg9SG) | 2:03 |
 | 37 | [GAMBINO](https://open.spotify.com/track/4lml3kYiuBppXCVtSA7SuY) | [Neves17](https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe) | [GAMBINO](https://open.spotify.com/album/3hmMoSZxe1ev9gDhqXmg2N) | 1:56 |

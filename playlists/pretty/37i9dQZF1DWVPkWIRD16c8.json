@@ -1,6 +1,6 @@
 {
   "description": "Let Jesus take the wheel...and the aux cord! ",
-  "num_followers": 261154,
+  "num_followers": 261244,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 184186,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
         "name": "Benjamin William Hastings",
         "url": "https://open.spotify.com/album/1K9dbdsz6jagqTAkrHHSmk"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 237173,
       "name": "That's The Thing About Praise",
       "url": "https://open.spotify.com/track/3jWIXPUA6KAHoatVUAaxBv"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
+        "name": "Looking For You",
+        "url": "https://open.spotify.com/album/4rIGflo5TdNJmO9QsxcxEQ"
+      },
+      "artists": [
+        {
+          "name": "Gable Price and Friends",
+          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
+        }
+      ],
+      "duration_ms": 199698,
+      "name": "Looking For You",
+      "url": "https://open.spotify.com/track/4gKpsgQRhi3A8GCJRhZOrc"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
         "name": "I'll Fly Away (feat. Benjamin William Hastings)",
         "url": "https://open.spotify.com/album/1G1dXoBVTVsHi8ckSxwl0z"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 180936,
       "name": "I'll Fly Away (feat. Benjamin William Hastings)",
       "url": "https://open.spotify.com/track/2wyDAbsLjAysWOWr6q5NGB"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
-        "name": "Looking For You",
-        "url": "https://open.spotify.com/album/4rIGflo5TdNJmO9QsxcxEQ"
-      },
-      "artists": [
-        {
-          "name": "Gable Price and Friends",
-          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
-        }
-      ],
-      "duration_ms": 199698,
-      "name": "Looking For You",
-      "url": "https://open.spotify.com/track/4gKpsgQRhi3A8GCJRhZOrc"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -715,26 +715,6 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "Shackles (Praise You)",
-        "url": "https://open.spotify.com/album/3MV9tnmk8JZGXMhNg5rx7m"
-      },
-      "artists": [
-        {
-          "name": "Coby James",
-          "url": "https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J"
-        },
-        {
-          "name": "Evvie McKinney",
-          "url": "https://open.spotify.com/artist/0vEQSfGHMSb31RdNjAWa39"
-        }
-      ],
-      "duration_ms": 158235,
-      "name": "Shackles (Praise You)",
-      "url": "https://open.spotify.com/track/7BS27vWbRTmCkSEpeFZRRy"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
         "name": "trustfall",
         "url": "https://open.spotify.com/album/6HGmAgrZHojZ3Urz9OTEyi"
       },
@@ -751,18 +731,22 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "Stand My Ground",
-        "url": "https://open.spotify.com/album/7pGYCXWMHwUKaVWCxcB2kA"
+        "name": "Shackles (Praise You)",
+        "url": "https://open.spotify.com/album/3MV9tnmk8JZGXMhNg5rx7m"
       },
       "artists": [
         {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+          "name": "Coby James",
+          "url": "https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J"
+        },
+        {
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/0vEQSfGHMSb31RdNjAWa39"
         }
       ],
-      "duration_ms": 175394,
-      "name": "Stand My Ground",
-      "url": "https://open.spotify.com/track/47sscyz9PrvrpyTvmBcr28"
+      "duration_ms": 158235,
+      "name": "Shackles (Praise You)",
+      "url": "https://open.spotify.com/track/7BS27vWbRTmCkSEpeFZRRy"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -819,6 +803,22 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
+        "name": "Stand My Ground",
+        "url": "https://open.spotify.com/album/7pGYCXWMHwUKaVWCxcB2kA"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 175394,
+      "name": "Stand My Ground",
+      "url": "https://open.spotify.com/track/47sscyz9PrvrpyTvmBcr28"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
         "name": "Poetic",
         "url": "https://open.spotify.com/album/61SHJYAQxMDXr2eT0iJQL8"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 228677,
       "name": "Poetic",
       "url": "https://open.spotify.com/track/7HWnZQeOWZjC3dvGv0d70b"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
-        "name": "aroma:devotion",
-        "url": "https://open.spotify.com/album/0Is8pbhwqDFPyNiAqlkJja"
-      },
-      "artists": [
-        {
-          "name": "Elyssa Figueroa",
-          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
-        }
-      ],
-      "duration_ms": 226790,
-      "name": "Here In The Moment",
-      "url": "https://open.spotify.com/track/1TlIZbnfUgZdW8vRucbYeD"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -867,6 +851,22 @@
       "duration_ms": 171536,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/6ofKv7jnJCB2am9gqd4xVo"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "aroma:devotion",
+        "url": "https://open.spotify.com/album/0Is8pbhwqDFPyNiAqlkJja"
+      },
+      "artists": [
+        {
+          "name": "Elyssa Figueroa",
+          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
+        }
+      ],
+      "duration_ms": 226790,
+      "name": "Here In The Moment",
+      "url": "https://open.spotify.com/track/1TlIZbnfUgZdW8vRucbYeD"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "Steady",
-        "url": "https://open.spotify.com/album/02Q11OcOgZz90H5MWrGkoq"
-      },
-      "artists": [
-        {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
-        }
-      ],
-      "duration_ms": 167065,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6Tbgv6lIzTGPsXlTIBvb1E"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
         "name": "Runs In The Blood",
         "url": "https://open.spotify.com/album/2koZ327e01iwRUcOEzWd69"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 184203,
       "name": "Runs In The Blood",
       "url": "https://open.spotify.com/track/0VRNfCYpbLDM2QJapqw9aC"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/02Q11OcOgZz90H5MWrGkoq"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "duration_ms": 167065,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6Tbgv6lIzTGPsXlTIBvb1E"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "oasis for my soul",
-        "url": "https://open.spotify.com/album/0vJOrqWFbDnsSUXGRrkPyt"
-      },
-      "artists": [
-        {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 136839,
-      "name": "oasis for my soul",
-      "url": "https://open.spotify.com/track/5OO0LZ2apmNZE3j6LFfLqf"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
         "name": "So Divine",
         "url": "https://open.spotify.com/album/6Ne1Fmuoc3iajPROkDGkQU"
       },
@@ -1143,24 +1127,8 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "Don't Let The Darkness",
-        "url": "https://open.spotify.com/album/7q9FrrEjg9wGyrspaY8i6s"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 196960,
-      "name": "Don't Let The Darkness",
-      "url": "https://open.spotify.com/track/2KtroNFk42zBcvHjmAMZQF"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/7s4KNsNzQuHuZLYneTMUEE"
+        "name": "oasis for my soul",
+        "url": "https://open.spotify.com/album/0vJOrqWFbDnsSUXGRrkPyt"
       },
       "artists": [
         {
@@ -1168,9 +1136,9 @@
           "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
         }
       ],
-      "duration_ms": 122391,
-      "name": "dopamine",
-      "url": "https://open.spotify.com/track/1MlwlvguOnqk3vZCAWe168"
+      "duration_ms": 136839,
+      "name": "oasis for my soul",
+      "url": "https://open.spotify.com/track/5OO0LZ2apmNZE3j6LFfLqf"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1187,6 +1155,22 @@
       "duration_ms": 248820,
       "name": "Why Do You Love Me?",
       "url": "https://open.spotify.com/track/5Gmwolvg550hVuwAvSgnPe"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "Don't Let The Darkness",
+        "url": "https://open.spotify.com/album/7q9FrrEjg9wGyrspaY8i6s"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 196960,
+      "name": "Don't Let The Darkness",
+      "url": "https://open.spotify.com/track/2KtroNFk42zBcvHjmAMZQF"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1227,6 +1211,22 @@
       "duration_ms": 193100,
       "name": "Drive",
       "url": "https://open.spotify.com/track/4e8lXxOrEBJfvyx2zoZ0K3"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/7s4KNsNzQuHuZLYneTMUEE"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 122391,
+      "name": "dopamine",
+      "url": "https://open.spotify.com/track/1MlwlvguOnqk3vZCAWe168"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "backseat drive",
-        "url": "https://open.spotify.com/album/0KfV7F7WilXiUspp3YN1Hr"
-      },
-      "artists": [
-        {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 174650,
-      "name": "backseat drive",
-      "url": "https://open.spotify.com/track/4IValzT5ZRzUXyofWl8mbp"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
         "name": "wake up",
         "url": "https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c"
       },
@@ -1475,22 +1459,6 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "Cascade View",
-        "url": "https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 165382,
-      "name": "Cascade View",
-      "url": "https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
         "name": "Morning glory, don't you worry.",
         "url": "https://open.spotify.com/album/485K5RKBArRkto27KG5SWT"
       },
@@ -1503,6 +1471,22 @@
       "duration_ms": 253712,
       "name": "Morning glory, don't you worry.",
       "url": "https://open.spotify.com/track/13p9ZPYNpFDNLYA0o8tKkZ"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "Cascade View",
+        "url": "https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 165382,
+      "name": "Cascade View",
+      "url": "https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1527,6 +1511,22 @@
       "duration_ms": 154231,
       "name": "I'd Be Lying",
       "url": "https://open.spotify.com/track/5gSSBeFZLEnvoXMYVIiCzK"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "backseat drive",
+        "url": "https://open.spotify.com/album/0KfV7F7WilXiUspp3YN1Hr"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 174650,
+      "name": "backseat drive",
+      "url": "https://open.spotify.com/track/4IValzT5ZRzUXyofWl8mbp"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "FAITH TOO HIGH",
-        "url": "https://open.spotify.com/album/6nFAmYXQALG4xUAOfzE96B"
+        "name": "Crying Out Loud",
+        "url": "https://open.spotify.com/album/4iMTjPySOIJY9dJk4wFGyB"
       },
       "artists": [
         {
-          "name": "Ryan Trey",
-          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 167460,
-      "name": "FAITH TOO HIGH",
-      "url": "https://open.spotify.com/track/5W5IOrjSfZZoyGrcYH7L8Y"
+      "duration_ms": 200201,
+      "name": "Crying Out Loud",
+      "url": "https://open.spotify.com/track/2q7BXGqVOraGocLXEWk9Dn"
     }
   ],
   "unique_name": "Christian Road Trip",

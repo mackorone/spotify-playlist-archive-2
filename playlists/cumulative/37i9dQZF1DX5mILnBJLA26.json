@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves right now. Mixes available on Premium. Cover: TxC",
+  "description": "The biggest Amapiano singles making waves right now.  Cover: Fake'Well",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -7460,7 +7460,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 399336,
       "name": "CNT BLIV IT (feat. Mmambo The Voice of God, FaroQii MuziQ & Kwanda MusiQ)",
       "url": "https://open.spotify.com/track/6dpzvi6czcclpLN1pQsG5x"
@@ -17602,7 +17602,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 398755,
       "name": "Jaiva La (feat. Fiesta Black)",
       "url": "https://open.spotify.com/track/4UlrAOKlC6d115YaR3eJnd"
@@ -21492,6 +21492,40 @@
       "duration_ms": 360000,
       "name": "MABOKO (feat. 2woshortrsa, Stompiiey, Shaunmusiq, Ftears & Madumane)",
       "url": "https://open.spotify.com/track/4Ljxv42ATXbgEAEtBEP8gy"
+    },
+    {
+      "album": {
+        "name": "Macashelana (feat. Twinnie Gee & KheKhe)",
+        "url": "https://open.spotify.com/album/6nVv6JLwrnNsBTRPRzElRW"
+      },
+      "artists": [
+        {
+          "name": "Novatron",
+          "url": "https://open.spotify.com/artist/5rnKcmn5XTpbD9OPEsrV1s"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        },
+        {
+          "name": "Twinnie Gee",
+          "url": "https://open.spotify.com/artist/2x4gKsuNtnFHYwNkJZ5kEy"
+        },
+        {
+          "name": "Khekhe",
+          "url": "https://open.spotify.com/artist/50nXCtLS1eDAz39WOvvrxo"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377154,
+      "name": "Macashelana (feat. Twinnie Gee & KheKhe)",
+      "url": "https://open.spotify.com/track/5mMpbWjwoaXucsGMeMpbKu"
     },
     {
       "album": {
@@ -26278,6 +26312,36 @@
       "duration_ms": 343971,
       "name": "Ngeke Balunge",
       "url": "https://open.spotify.com/track/3SsGZQi6HFXUXGrjmkWd31"
+    },
+    {
+      "album": {
+        "name": "Ngena Ngena",
+        "url": "https://open.spotify.com/album/6E6QPGYemNnTDI63EZJIIo"
+      },
+      "artists": [
+        {
+          "name": "Fake'Well",
+          "url": "https://open.spotify.com/artist/3gBzDuP9GAtHXqgeBNMoZT"
+        },
+        {
+          "name": "Uncool MC",
+          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Masterpiece YVK",
+          "url": "https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427401,
+      "name": "Ngena Ngena",
+      "url": "https://open.spotify.com/track/1Qmn279d2m5DYYKNgdUm6E"
     },
     {
       "album": {
@@ -31786,6 +31850,44 @@
       "duration_ms": 432366,
       "name": "Sharp",
       "url": "https://open.spotify.com/track/2n5OQxQArx6lFvT8hokNzl"
+    },
+    {
+      "album": {
+        "name": "iKati Elimhlophe",
+        "url": "https://open.spotify.com/album/1LcskaHMVjytf4BWPxX6z0"
+      },
+      "artists": [
+        {
+          "name": "CowBoii",
+          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
+        },
+        {
+          "name": "Bob Mabena",
+          "url": "https://open.spotify.com/artist/64AibK7iJaFyzaWdx2t09W"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Mulest Vankay",
+          "url": "https://open.spotify.com/artist/3xqiosg5nLMwVd8w3lO5li"
+        },
+        {
+          "name": "Slyza",
+          "url": "https://open.spotify.com/artist/3HaCuJqa94mbfhCwwpFC6G"
+        },
+        {
+          "name": "LactoXDeep",
+          "url": "https://open.spotify.com/artist/2H1Mz400KqgzoaXlILlOUj"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458814,
+      "name": "Shashalaza FC (feat. Mulest Vankay, Slyza & LactoXDeep)",
+      "url": "https://open.spotify.com/track/43j0OV031nBQwyugAVjzVx"
     },
     {
       "album": {
@@ -42882,7 +42984,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 395811,
       "name": "YOH HAI",
       "url": "https://open.spotify.com/track/4xostLFvR5kjpfJkGBvIkB"

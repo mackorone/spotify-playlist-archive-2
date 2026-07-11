@@ -510,7 +510,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 211106,
       "name": "Gimme a D",
       "url": "https://open.spotify.com/track/74bY6zZfIDJxz5OhQzZU7D"
@@ -604,6 +604,24 @@
       "duration_ms": 163946,
       "name": "Guns For Show, Knives For A Pro",
       "url": "https://open.spotify.com/track/5oGajAwzolRHDD5QYEtqaU"
+    },
+    {
+      "album": {
+        "name": "Killing with a Smile",
+        "url": "https://open.spotify.com/album/6BSLK8OMPCTbUldpzsYnml"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164040,
+      "name": "Guns for Show, Knives for a Pro",
+      "url": "https://open.spotify.com/track/4X3kwo3PRPsxFlQ2Z3mQ0N"
     },
     {
       "album": {

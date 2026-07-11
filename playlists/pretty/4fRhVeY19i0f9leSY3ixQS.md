@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,464 likes - 279 songs - 15 hr 34 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,467 likes - 288 songs - 16 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -287,5 +287,14 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 277 | [Running Out Of Time](https://open.spotify.com/track/6YJaaqobp9mAjaUWrPlGhe) | [We Told You So](https://open.spotify.com/artist/4S0J9xNGBXBmZDg75JYWen) | [A New Frame Of Mind](https://open.spotify.com/album/7Fwxmj80bpcjWKWyT2EBUb) | 2:22 |
 | 278 | [The Chaser](https://open.spotify.com/track/2oRjeUDlXz5Ab1r0fywv9N) | [KATOEN](https://open.spotify.com/artist/5ziGS8hqIWxdeEeuWTJ56S) | [The Chaser](https://open.spotify.com/album/6HDCkBm9n7FnpnF0viEb4L) | 3:34 |
 | 279 | [BALLET BILLY](https://open.spotify.com/track/6s75SQOvQynztfiYTc5mrC) | [Cut Manners](https://open.spotify.com/artist/1OXL2MCFMKck1RMwKvcvNT) | [BALLET BILLY](https://open.spotify.com/album/1HUnj0XuLs6AQ6TxKrNr37) | 1:46 |
+| 280 | [Living Human Lives](https://open.spotify.com/track/1wUZCRG9rKE0Q77P5OrB6r) | [The Buddyrevelles](https://open.spotify.com/artist/4NlRR8Pym2Rj3rSaBKjb2e) | [The Conviction](https://open.spotify.com/album/1RBux3y7PJPHLxdpvDdEFf) | 4:10 |
+| 281 | [Free the Noise](https://open.spotify.com/track/0sjHKzox0O91e8q7eqPQ59) | [Luke, Im ur fuzzer](https://open.spotify.com/artist/4HPVFa8z0dRn18htOSCISy) | [Free the Noise](https://open.spotify.com/album/1MI6Ozaa89mEwbGaZ7EnU6) | 2:55 |
+| 282 | [Bild aus Asche](https://open.spotify.com/track/1pIJoMHfnL9z9vdHZ8SDtS) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Nie mehr halbe Wege](https://open.spotify.com/album/7GyjaLz41aITtFW85NAE7T) | 2:53 |
+| 283 | [About a Girl](https://open.spotify.com/track/6osg5L0yTjCa4ExGLYa9Tm) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [About a Girl](https://open.spotify.com/album/3C6PoM9SZ4OwNjpZReQxNB) | 2:45 |
+| 284 | [Fuck It, Let’s Go Bowling](https://open.spotify.com/track/1nVy9utuNfq77uaQTm4v5t) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [Too Broke For Money](https://open.spotify.com/album/7MX4Q2DfTrscHAIl5SoUtZ) | 1:35 |
+| 285 | [Another Day](https://open.spotify.com/track/7BreCBggU853Vk2f8H6V3i) | [Melexo](https://open.spotify.com/artist/5rOtSodS6Uf2sAWsjhjHXM) | [Another Day](https://open.spotify.com/album/4WumWxIaJFjux1pDq0LhbB) | 3:09 |
+| 286 | [Cumberland Gap](https://open.spotify.com/track/6Gxu4KymW16NH2EeA9AJCr) | [The Grunges](https://open.spotify.com/artist/2NM1MCdBmXIbziFHGLBWjN), [Semantik](https://open.spotify.com/artist/5KDq9vPopEITAxvHLIAtdX) | [The Orange Castle](https://open.spotify.com/album/0t4swqKgO8kmvArQ4m6xhb) | 3:02 |
+| 287 | [Carefree Wonderland](https://open.spotify.com/track/69i0AN8izwkY7lsnFFrQk4) | [Dylan Debiase](https://open.spotify.com/artist/31BVM6BLaoSP8ad00i8m25) | [Carefree Wonderland](https://open.spotify.com/album/2eZ4lyjre4c5vn65CBV4lJ) | 3:28 |
+| 288 | [Fuzz Queen](https://open.spotify.com/track/74YY8wgwfoU4JC2Z0PaF7Y) | [The Shivvis](https://open.spotify.com/artist/1GdgXoyO1uCWM5qtH9nwuF) | [Echoes from the Basement](https://open.spotify.com/album/3sVdFA8jAp2qQM9an4UlFt) | 3:06 |
 
-Snapshot ID: `AAARfGqw1P1HKdRXRrSPic5x2Trcamex`
+Snapshot ID: `AAARhV68Wed8Fn3V/Mi0Rq32PSgs3v1B`

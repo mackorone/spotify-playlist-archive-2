@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak2TAAAAAABAEulJZ6Mbr2a7nd+TOa5f",
+  "snapshot_id": "ak7kgAAAAAAUeIXYRa8X+hbzLW6RtMWu",
   "tracks": [
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puppet Stringers",
-        "url": "https://open.spotify.com/album/23gzdvkfw6DHXhNU2FK1XZ"
+        "name": "Call Your Friends",
+        "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 169659,
-      "name": "Puppet Stringers",
-      "url": "https://open.spotify.com/track/4LW2otQQtTwdzuQ4nZPbhN"
+      "duration_ms": 210547,
+      "name": "Public Enemy Number One",
+      "url": "https://open.spotify.com/track/2rlLzrOvZpnjJcERPojtWE"
     }
   ],
   "unique_name": "This Is zebrahead",

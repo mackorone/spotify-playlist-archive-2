@@ -2,9 +2,9 @@
 
 ### [alt BR](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Música brasileira fora da curva\. Foto: boasorte
+> Música brasileira fora da curva\. Foto: Karen Jonz, Fernanda Takai
 
-925 songs - 2 day 4 hr 37 min
+927 songs - 2 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,7 +490,7 @@
 | [Melô de Aparecida](https://open.spotify.com/track/1e0hVVG6zKxTQvY0lLDQPn) | [Mateus Fazeno Rock](https://open.spotify.com/artist/4kZPtnykddZRw7B8Jh6Pb5) | [Melô de Aparecida](https://open.spotify.com/album/4vs3woZjO8j9L303tEhWxB) | 2:58 | 2023-01-27 | 2023-03-18 |
 | [Melô do Sossego](https://open.spotify.com/track/3oazTEgO9QZ0BAXNMbMbud) | [Mateus Fazeno Rock](https://open.spotify.com/artist/4kZPtnykddZRw7B8Jh6Pb5) | [Melô do Sossego](https://open.spotify.com/album/5qzdvVJmvb6gk05ftG0tB0) | 3:56 | 2025-07-04 | 2026-03-14 |
 | [Memorável](https://open.spotify.com/track/52L4iJdJcqRtmpk9K1KPe1) | [Morro Fuji](https://open.spotify.com/artist/1pWhGcoXS2qPnzp69pd9Q5) | [Memorável / Nuvens Espirais \(Larara\)](https://open.spotify.com/album/0HB0IUE7Fiey3kZwvwz1Mm) | 3:10 | 2026-05-22 |  |
-| [Menina do cabelo alaranjado](https://open.spotify.com/track/2Rspg5WSGNFmU0XicEwYr8) | [Luiza Aires](https://open.spotify.com/artist/7xOICaCwUN27SBArKb9jle) | [Menina do cabelo alaranjado](https://open.spotify.com/album/40wuN4ukAndX0xBCYIbecA) | 3:00 | 2026-02-06 |  |
+| [Menina do cabelo alaranjado](https://open.spotify.com/track/2Rspg5WSGNFmU0XicEwYr8) | [Luiza Aires](https://open.spotify.com/artist/7xOICaCwUN27SBArKb9jle) | [Menina do cabelo alaranjado](https://open.spotify.com/album/40wuN4ukAndX0xBCYIbecA) | 3:00 | 2026-02-06 | 2026-07-11 |
 | [MENINA LINDA](https://open.spotify.com/track/5MAO8iHLDVnfmWPDyPzU4a) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx), [Dois Quartos](https://open.spotify.com/artist/3JsaihYkRDSTkIgQbxSUto) | [MENINA LINDA](https://open.spotify.com/album/0OmfyYuXhDFZkdiqaNGkrA) | 2:37 | 2022-02-11 | 2022-03-12 |
 | [Menina Uh Uh](https://open.spotify.com/track/2LqzKuAtEl9MvHigNIUdBg) | [Tuzera](https://open.spotify.com/artist/3s0liW6FMQi0jZ3cHpU2pU) | [Você Não É Especial](https://open.spotify.com/album/75Bk9Jt2cNlfSnnKh3Ip0e) | 2:21 | 2023-02-03 | 2023-03-03 |
 | [Menino Bonito \- Ao Vivo](https://open.spotify.com/track/7qM2ScAqB3NwAk0ngJsGfl) | [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Menino Bonito \(Ao Vivo\)](https://open.spotify.com/album/6SGCr2LABC1SeJYYtnesah) | 2:49 | 2025-07-11 | 2026-03-14 |
@@ -749,6 +749,7 @@
 | [Sem Ódio na Pista](https://open.spotify.com/track/2hQ4dJT3DQofqImbP3i8of) | [Rei Lacoste](https://open.spotify.com/artist/7Bp2KSECy4D9UGok5wtScH), [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu), [Giovani Cidreira](https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1), [Tangolo Mangos](https://open.spotify.com/artist/5i8xf9hZ3c5aXFO5WdrO6o) | [Sem Ódio na Pista](https://open.spotify.com/album/2pBVFIx5RQrLQ6qZD0ax9F) | 3:55 | 2024-08-02 | 2024-08-17 |
 | [Sensível](https://open.spotify.com/track/186od6oy358cSNu00HrQp9) | [j4mpa](https://open.spotify.com/artist/6x1PjwopHU4qaamzJrAhAt) | [Sensível](https://open.spotify.com/album/6yf7vHJPUJe9R8HSvuZaQb) | 2:38 | 2023-03-17 | 2023-09-16 |
 | [ser/existir](https://open.spotify.com/track/5IrFoIIwQWUZXonhxQy5yM) | [Vulgari](https://open.spotify.com/artist/1I59YmNhfLX2DO3bkGGKmX) | [euforia EP](https://open.spotify.com/album/7GBsEG9yn0oDIHHjNy9pxp) | 3:27 | 2026-06-12 |  |
+| [SESSÃO DE HORROR \- Original](https://open.spotify.com/track/0ZuAeAWRf9YEc55YsZf9ez) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE) | [SESSÃO DE HORROR ft\. Fernanda Takai \(Original\)](https://open.spotify.com/album/5r9jtNz7NBtrGwUZq3GO4J) | 3:21 | 2026-07-10 |  |
 | [Seu Ex](https://open.spotify.com/track/2eY3y3Rf2mhE9ZV8haXKK4) | [Banda Tereza](https://open.spotify.com/artist/2jIkaAwhzf31RMBCmOxD3T), [Léo Soma](https://open.spotify.com/artist/6zAnNubrVXt74QU2WqAGsO), [Nixon Silva](https://open.spotify.com/artist/7ExQN8npW8unboofPLTMMC) | [Seu Ex](https://open.spotify.com/album/52x09F005pv9ahvlmheXs9) | 2:44 | 2022-01-14 | 2022-08-20 |
 | [Sex, Drugs, Etc\. \- Stripped Down](https://open.spotify.com/track/4UIP2ib4kHghA1S0jxnW5s) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Sex, Drugs, Etc\. \(Stripped Down\)](https://open.spotify.com/album/4dy64woaU8KwpLVdU14nsc) | 3:21 | 2022-12-02 | 2023-02-04 |
 | [Sheila](https://open.spotify.com/track/0Xnooy75kYv3tBFFVENwRw) | [Ana Sucha](https://open.spotify.com/artist/3kvXelHhUO5ycgsG05QAB5) | [Sheila](https://open.spotify.com/album/4G2I5wZ8G2tPMpGZ5gzXBN) | 3:01 | 2022-02-11 | 2022-03-26 |
@@ -759,7 +760,7 @@
 | [sinestesia](https://open.spotify.com/track/49unruR1AIczXADwmD2ZNO) | [josefe](https://open.spotify.com/artist/1KgTCjRp4Cuoe7N2dwzrPX) | [fascínio diamantino](https://open.spotify.com/album/4vAdtBPHjmQFJFOOprPmmh) | 3:21 | 2026-05-29 |  |
 | [Single](https://open.spotify.com/track/0Ivg6ozcVEb5krFceeOQh2) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [Single](https://open.spotify.com/album/736IbFrkZ0esLDrSUgpGbR) | 3:13 | 2025-12-12 | 2026-04-25 |
 | [Skarência \- Ao Vivo](https://open.spotify.com/track/16IFYy4h2R5yrR2BKB4uKX) | [Tangolo Mangos](https://open.spotify.com/artist/5i8xf9hZ3c5aXFO5WdrO6o) | [Tangolo Mangos ao Vivo no Dosoltv Sessions \(Ao Vivo\)](https://open.spotify.com/album/1Vrc42RNOmHX0TPUKTetvw) | 2:02 | 2025-01-31 | 2025-05-10 |
-| [slow down / vc me disse](https://open.spotify.com/track/2GVOf10WzZfkAUYJL4CYL8) | [guandu](https://open.spotify.com/artist/6kF4KHZ94ltqD6JetcWtoJ), [Resp](https://open.spotify.com/artist/7aQV5qISnvnjl2IiAw1Q6o) | [slow down / vc me disse](https://open.spotify.com/album/6P0uNdRotmFioY6RbJbOdc) | 4:32 | 2026-01-30 |  |
+| [slow down / vc me disse](https://open.spotify.com/track/2GVOf10WzZfkAUYJL4CYL8) | [guandu](https://open.spotify.com/artist/6kF4KHZ94ltqD6JetcWtoJ), [Resp](https://open.spotify.com/artist/7aQV5qISnvnjl2IiAw1Q6o) | [slow down / vc me disse](https://open.spotify.com/album/6P0uNdRotmFioY6RbJbOdc) | 4:32 | 2026-01-30 | 2026-07-11 |
 | [Sobre as Aves](https://open.spotify.com/track/0ivp9LTo2VaHHe0L2pkg4S) | [Tutu Nana](https://open.spotify.com/artist/71wPGbsleoh9Oy8xBQn6mv) | [Sobre as Aves](https://open.spotify.com/album/2zC8x6wMa5ANYVLObQ7MM2) | 4:29 | 2026-03-13 | 2026-05-30 |
 | [Sobreviver](https://open.spotify.com/track/7mdIt0bTjrfzuK3mpkSIzw) | [Cronistas](https://open.spotify.com/artist/7L5dmHSm4H8cHne1itDWJq) | [Sobreviver](https://open.spotify.com/album/3PHwQan7uUJC8fTZL7QByM) | 2:43 | 2023-07-21 | 2023-12-09 |
 | [SOFRER DE AMOR](https://open.spotify.com/track/5KcMiPpmgsI4EEomWEXpKX) | [HENZEE](https://open.spotify.com/artist/5TSWnKJY6y03fawwqfkD54) | [VOANDO PELA ÓRBITA DA TERRA](https://open.spotify.com/album/4KMk5OAxc2qUIAb8duVAYh) | 4:08 | 2022-08-19 | 2023-08-05 |
@@ -900,6 +901,7 @@
 | [Viu!?](https://open.spotify.com/track/0Y5Ulasjgo28kEpFbBFKkf) | [Cyro Sampaio](https://open.spotify.com/artist/5L0ZOCLmpOTteBYRqeIl9g) | [Viu!?](https://open.spotify.com/album/073YAMjODyN4sxKRQq9mXM) | 3:05 | 2024-10-11 | 2026-01-31 |
 | [Viver É Urgente](https://open.spotify.com/track/7jSV6Rj6qwfpWp6217Pesb) | [Victor de Albuquerque](https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD) | [Viver É Urgente](https://open.spotify.com/album/3hhCQrv2j5qGROGEFaP7Cf) | 3:18 | 2022-01-21 | 2023-01-21 |
 | [Você](https://open.spotify.com/track/3b6IgM70DasoHSQ2NQbgfR) | [measyou](https://open.spotify.com/artist/4zDWNcpNltzn5srR9WBNqr) | [Você](https://open.spotify.com/album/5Nnkk8HJWazxWIU3MJs4Y9) | 3:15 | 2023-04-28 | 2023-05-06 |
+| [Você Já Sabe Que Eu Te Amo](https://open.spotify.com/track/5Rnie3NITLaAfeBKIcTSPu) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0), [Nyron Higor](https://open.spotify.com/artist/2WYlmnoa3sQwZVX6CYwlsQ) | [Sem Fronteiras](https://open.spotify.com/album/6JXjV8CKdndWGknRTAZsR9) | 3:47 | 2026-07-10 |  |
 | [Você Me Deu a Mão](https://open.spotify.com/track/1oOrihudjA8uPLlYK7KsV0) | [Rafa Martins](https://open.spotify.com/artist/4h4cE2zRVOuTX6CWO3526o) | [Você Me Deu a Mão](https://open.spotify.com/album/5fXUFmz3UWZprhEIZ1spyy) | 2:34 | 2024-04-12 | 2024-08-17 |
 | [Você Não Vê](https://open.spotify.com/track/03o9imYVmPeXwJEGLZrWbv) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5), [Personas](https://open.spotify.com/artist/0mb0ogPa9MGn5LEWPI9MrQ) | [Você Não Vê](https://open.spotify.com/album/3B1OvmobOdKZvwGvme9WR3) | 2:44 | 2022-04-01 | 2022-07-09 |
 | [Você Sabe Bem](https://open.spotify.com/track/08qLu0pFzJMUMhm7X6s6Ta) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ), [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Você Sabe Bem](https://open.spotify.com/album/0r4SCZb2ad6flYCzFRaECL) | 4:38 | 2025-12-05 | 2026-06-12 |

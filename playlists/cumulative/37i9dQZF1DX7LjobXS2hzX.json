@@ -8247,6 +8247,24 @@
     },
     {
       "album": {
+        "name": "Mauvais gar\u00e7on",
+        "url": "https://open.spotify.com/album/5v0pPn3LfbFJm4BX6b3aMY"
+      },
+      "artists": [
+        {
+          "name": "Darren Vaudreuil",
+          "url": "https://open.spotify.com/artist/0NsFllzrTIT8ojiTpgRADg"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203503,
+      "name": "Mauvais gar\u00e7on",
+      "url": "https://open.spotify.com/track/7FqeHGDM4luGnMZmoR9eXo"
+    },
+    {
+      "album": {
         "name": "Mauvais r\u00eave",
         "url": "https://open.spotify.com/album/5SPoEMJ0aODZHCVMos4tzv"
       },
@@ -12304,7 +12322,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 169842,
       "name": "Tant qu'on est toi et moi",
       "url": "https://open.spotify.com/track/4BalTIdao8I2XZzbMIMJDg"

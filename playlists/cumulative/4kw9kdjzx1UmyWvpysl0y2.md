@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,265 songs - 2 day 22 hr 13 min
+1,266 songs - 2 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [drunk on u](https://open.spotify.com/track/64KSyt7Jn8jC5lNEB15xjX) | [The Duchess](https://open.spotify.com/artist/5WxiAl23gqBkSToRgKsG8B), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [drunk on u](https://open.spotify.com/album/3uZkt4BhHKIkVlgUz0mQfB) | 2:12 | 2025-03-20 | 2025-06-13 |
 | [Duality](https://open.spotify.com/track/3SdDaIM1CjAEaFN9jmqfjf) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Duality](https://open.spotify.com/album/1y7jhXRTJG1kBi7ZftkjB8) | 3:30 | 2022-12-08 | 2023-03-09 |
 | [Duality \- VIP](https://open.spotify.com/track/4myFq10WACySlAAS0vGeTJ) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Duality \(VIP\)](https://open.spotify.com/album/69PpLYqPXWsobyRrEQvVpe) | 2:56 | 2025-07-04 | 2025-09-30 |
+| [DUMFUK](https://open.spotify.com/track/6Rp4w9HGlQS8fkAR7p5VXJ) | [Clockvice](https://open.spotify.com/artist/0KgVymhgHYfOMP13j78XsS), [Vorso](https://open.spotify.com/artist/5Og6MsfuDPnFYd1asgHXdH) | [DUMFUK](https://open.spotify.com/album/3nY9oNjrm5Hvq4p9KDoLc1) | 4:10 | 2026-07-10 |  |
 | [Eagle Rock](https://open.spotify.com/track/04XcibbkTGfV5dbUZ1e2FJ) | [Alex H](https://open.spotify.com/artist/3VJS76xe6UUj7Qo2S9gxvB) | [Eagle Rock](https://open.spotify.com/album/6uvex7L4oOshBeTbgtlzQN) | 4:04 | 2022-11-19 | 2022-11-22 |
 | [EARTHQUAKE](https://open.spotify.com/track/5LHd02ccyYe90VI9lHhDDN) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [PAID!NFULL](https://open.spotify.com/artist/7B37NUWYcRkxnAc0YO84ue) | [EARTHQUAKE](https://open.spotify.com/album/2du1PXwCvH3VsVRU1EAvIR) | 2:53 | 2025-07-02 | 2025-09-24 |
 | [easier](https://open.spotify.com/track/6Nq8uEVMd328QWCXQoSuuM) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [clouds in my basement](https://open.spotify.com/album/5Vdqlk72QXWQSDMMrUaYTJ) | 2:44 | 2022-08-26 | 2022-11-02 |

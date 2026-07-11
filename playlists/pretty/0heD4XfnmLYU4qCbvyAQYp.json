@@ -6,8 +6,24 @@
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAO2lndB7+9rQvfcbwytoQ3yc37Wxbo",
+  "snapshot_id": "AAAO26oawPnyfdwWLh/8WdA89o5o76un",
   "tracks": [
+    {
+      "added_at": "2026-07-10 02:49:22",
+      "album": {
+        "name": "Ante Todo",
+        "url": "https://open.spotify.com/album/0kLrbPrwRgbGmpbHHfYNpC"
+      },
+      "artists": [
+        {
+          "name": "Danel",
+          "url": "https://open.spotify.com/artist/1IhKepzJXk7ZsHc0tyy4Fo"
+        }
+      ],
+      "duration_ms": 225094,
+      "name": "Bajo Llave",
+      "url": "https://open.spotify.com/track/1hA0NMXvi3EkTCJgwzWmn8"
+    },
     {
       "added_at": "2026-07-07 07:38:21",
       "album": {

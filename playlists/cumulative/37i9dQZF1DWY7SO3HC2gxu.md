@@ -4,7 +4,7 @@
 
 > Best blends of Electronic music across Africa\. Cover: Big Nyagz & Mura
 
-341 songs - 1 day 2 hr 8 min
+342 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Umoya](https://open.spotify.com/track/00f6dMrGyyVh0HaCmaNE7F) | [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [We Live 4 Our Music](https://open.spotify.com/album/0GtP5C0gsYAVubcDHkCpai) | 7:16 | 2023-04-06 | 2025-04-05 |
 | [UNASIFU](https://open.spotify.com/track/5LupM0umG4xt2FcuarfR4q) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn) | [UNASIFU](https://open.spotify.com/album/3ZrrjXGlUHRRW8ZiMfjQWd) | 2:59 | 2023-01-12 | 2024-01-20 |
 | [Unfiltered Dreams \- Original Mix](https://open.spotify.com/track/1mjYCKeyze5EgW4OGnkphm) | [KAMUSHEZ](https://open.spotify.com/artist/45IuInsqovfU1Xg1a5YZdS) | [Unfiltered Dreams \(Original Mix\)](https://open.spotify.com/album/3VkM6kZHzAkKV7WzWSyiHa) | 7:12 | 2022-08-01 | 2024-06-28 |
+| [UTAMTOA](https://open.spotify.com/track/2aQnQSCixFXauVUrXeJ8Pp) | [REYDIM](https://open.spotify.com/artist/1Rj1QgiUptSD68FDWkVxWf), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [UTAMTOA](https://open.spotify.com/album/105qUVFXKMGHry78Pr4hAz) | 4:14 | 2026-07-10 |  |
 | [Uwongo](https://open.spotify.com/track/2eJ8HehVciBmnfIamp1sBW) | [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd), [Bjørn Bonde](https://open.spotify.com/artist/13o2t8xNPlG2vsQpNTKPTL) | [Uwongo](https://open.spotify.com/album/15IXl5DoDtJ8oW56sLutMU) | 4:03 | 2025-05-15 | 2025-11-08 |
 | [uZosala](https://open.spotify.com/track/1S3QiJeXpptj7aath0JOpf) | [Omagoqa](https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy), [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [The Ascension](https://open.spotify.com/artist/69l0v3QQfyIR61ve0kWMjF), [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Umqhumo Wethu](https://open.spotify.com/album/2Dl8jKEAdAe81ifBg5uhNx) | 5:25 | 2024-05-17 | 2025-06-21 |
 | [Vika La Vika](https://open.spotify.com/track/3xjsBZ53Pth6e37ughLZma) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Vika La Vika](https://open.spotify.com/album/2gB3i2gOMU2Mn3S6INjyPX) | 5:25 | 2025-06-20 |  |

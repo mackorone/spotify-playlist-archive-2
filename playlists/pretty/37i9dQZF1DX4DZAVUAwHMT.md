@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Show Me The Body
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,128 likes - 103 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,037,087 likes - 103 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,548 likes - 97 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,580 likes - 97 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 | 96 | [Returning Home](https://open.spotify.com/track/1ClUmEEJYoDemcIPQQIODw) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Returning Home](https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L) | 2:28 |
 | 97 | [End of Rain](https://open.spotify.com/track/2cyZXpEgr7kEqlma6gggmE) | [Beyza](https://open.spotify.com/artist/3T8l3I28aJ9xQUmzxs1KUO) | [End of Rain](https://open.spotify.com/album/1FfGIz3CAGu1P1KGl2w5PL) | 4:20 |
 
-Snapshot ID: `AAAAADDIRn/muNm9oFIYd0J+jOhowUCt`
+Snapshot ID: `AAAAANRZWzsGg7vWLyRcGBucLSzcgibU`

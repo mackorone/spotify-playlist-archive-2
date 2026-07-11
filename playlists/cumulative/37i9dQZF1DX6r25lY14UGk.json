@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "New releases for the kids. Cover: Laurie Berkner",
+  "description": "New releases for the kids. Cover: Kamdenboy & Kyraboo",
   "name": "New Kids Music",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 156006,
       "name": "A Ram Sam Sam Dance Party",
       "url": "https://open.spotify.com/track/6NKufqpbrlptNshwm7IkFG"
@@ -1317,6 +1317,28 @@
     },
     {
       "album": {
+        "name": "Sesame Street (with Bounce Patrol)",
+        "url": "https://open.spotify.com/album/1g4VZrKl0Gg9gMHwrVJ061"
+      },
+      "artists": [
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        },
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154960,
+      "name": "Ball Pit Party (with Bounce Patrol)",
+      "url": "https://open.spotify.com/track/26JXItKm11HlVHFd1XbZGD"
+    },
+    {
+      "album": {
         "name": "Banana Jump",
         "url": "https://open.spotify.com/album/0k7CxDXHh1e6beP1uYNjHr"
       },
@@ -1480,7 +1502,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 111000,
       "name": "Be Kind To Animals - Aprende Peque Version",
       "url": "https://open.spotify.com/track/4JAGzwXs8qcwEMzQewoICy"
@@ -1672,7 +1694,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 224571,
       "name": "Bedroom Posters (feat. Blippi)",
       "url": "https://open.spotify.com/track/29hWBaFS2d7cVDgCi3nbam"
@@ -3202,7 +3224,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 114384,
       "name": "Chill On The Plate",
       "url": "https://open.spotify.com/track/2KL8J6xtwankfk3kCRZ5rZ"
@@ -3536,10 +3558,32 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 51041,
       "name": "Colorful Crystal Rap",
       "url": "https://open.spotify.com/track/4nFrZ8okq0UnP4bpdhXPNp"
+    },
+    {
+      "album": {
+        "name": "Colours of the Rainbow",
+        "url": "https://open.spotify.com/album/312MSqJuqH6VN16GDjkMAg"
+      },
+      "artists": [
+        {
+          "name": "Oh Clementine",
+          "url": "https://open.spotify.com/artist/5AN1Wjg0YhqPFqF2xE0TnV"
+        },
+        {
+          "name": "Elizabeth Mitchell",
+          "url": "https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210299,
+      "name": "Colours of the Rainbow",
+      "url": "https://open.spotify.com/track/4ARNKC0dakEO3b8W2f9Gsf"
     },
     {
       "album": {
@@ -5370,7 +5414,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 148791,
       "name": "Evie's Ready for Nappy Pants",
       "url": "https://open.spotify.com/track/6s7kSOZ6QULJEzYuUszGu6"
@@ -7124,6 +7168,28 @@
       "duration_ms": 110918,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/3ec1Er3elkvHHBYUPlDrdF"
+    },
+    {
+      "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/1nOHuDof9xjZH3Hdl9Dr6F"
+      },
+      "artists": [
+        {
+          "name": "Vered",
+          "url": "https://open.spotify.com/artist/0u2bCRyS3Cnz9dRl2mnTEg"
+        },
+        {
+          "name": "Mega Ran",
+          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172866,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/1smnCc2EAljzNGaoqZ6x7q"
     },
     {
       "album": {
@@ -9408,7 +9474,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 211162,
       "name": "I'm a Baby Fish",
       "url": "https://open.spotify.com/track/1d0j6RlY6AeDctHwwG3ynb"
@@ -9528,6 +9594,24 @@
       "duration_ms": 153454,
       "name": "I'm Di-Vine",
       "url": "https://open.spotify.com/track/0c7wgVqSDzsQM0HC20zPQT"
+    },
+    {
+      "album": {
+        "name": "I'm Gonna Tap, Tap, Tap (Rhythm Stick Song)",
+        "url": "https://open.spotify.com/album/11h1h2l9KAix3fZgo5qaqo"
+      },
+      "artists": [
+        {
+          "name": "Miss Caitlin",
+          "url": "https://open.spotify.com/artist/1mxTDiZyelEP86sMqeRBBw"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161119,
+      "name": "I'm Gonna Tap, Tap, Tap (Rhythm Stick Song)",
+      "url": "https://open.spotify.com/track/4Q4hej5Sv1jsBkhNp6G1bE"
     },
     {
       "album": {
@@ -10788,7 +10872,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 119707,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/7M2Zl58TQyu4g99gjV0CV9"
@@ -12159,6 +12243,32 @@
     },
     {
       "album": {
+        "name": "Magnificent",
+        "url": "https://open.spotify.com/album/783KS7U8mhnHItAi15v99s"
+      },
+      "artists": [
+        {
+          "name": "Lachi",
+          "url": "https://open.spotify.com/artist/07D2qGlJUOVf83OM5ujJZD"
+        },
+        {
+          "name": "123 Andr\u00e9s",
+          "url": "https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9"
+        },
+        {
+          "name": "Tangina Stone",
+          "url": "https://open.spotify.com/artist/4bfY46yOsnTqkW6FOzKSUZ"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Magnificent",
+      "url": "https://open.spotify.com/track/0JsyQMTwou58X6xBbwqex1"
+    },
+    {
+      "album": {
         "name": "Major Tom (Coming Home)",
         "url": "https://open.spotify.com/album/3BlZf2W4J410EXrzHoIDu4"
       },
@@ -12334,6 +12444,24 @@
       "duration_ms": 116778,
       "name": "Making Waves",
       "url": "https://open.spotify.com/track/5APTTD2bk28pIH6JmWkVYj"
+    },
+    {
+      "album": {
+        "name": "Manners",
+        "url": "https://open.spotify.com/album/3b3YXPrYLyR1NpH0Lrfx3R"
+      },
+      "artists": [
+        {
+          "name": "Electric Umbrella",
+          "url": "https://open.spotify.com/artist/3CQEvYasV0N5WrCOZjB6d6"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193103,
+      "name": "Manners",
+      "url": "https://open.spotify.com/track/4gS0WDCFCaud48XFHlDJ2F"
     },
     {
       "album": {
@@ -12584,7 +12712,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 156444,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/4aMTY2YU11Rkr32muQp37w"
@@ -12679,6 +12807,24 @@
     },
     {
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/5nIgD5ISbeiUEtyDNsuHUc"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183180,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/3K2sq4GzFkLFA3u0lhYWeR"
+    },
+    {
+      "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/3fcpT9C5xaM6hBOuR13n2K"
       },
@@ -12746,6 +12892,24 @@
       "duration_ms": 122901,
       "name": "Minnie's Bow-Toons: Pet Hotel Main Title (Extended)",
       "url": "https://open.spotify.com/track/6Ao9bXxOe0h0nT2RcqICkn"
+    },
+    {
+      "album": {
+        "name": "Mission Theme Song",
+        "url": "https://open.spotify.com/album/1nOuOMNPwdD1Kd9Uh2Rpme"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48631,
+      "name": "Mission Theme Song",
+      "url": "https://open.spotify.com/track/033iQyDDeGssAIJeIZJ38Q"
     },
     {
       "album": {
@@ -13014,7 +13178,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 33950,
       "name": "Motor Go Boom",
       "url": "https://open.spotify.com/track/7MXVrsiV0rnXXOP8N4Nuu9"
@@ -14005,6 +14169,24 @@
     },
     {
       "album": {
+        "name": "One, Two, Buckle My Shoe Circle Time",
+        "url": "https://open.spotify.com/album/6aW5FQa2VoKYgkfj6lnUXk"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61200,
+      "name": "One, Two, Buckle My Shoe Circle Time",
+      "url": "https://open.spotify.com/track/5BtMLVYPY5vsMUlQQnZ4ae"
+    },
+    {
+      "album": {
         "name": "Counting Songs for Kids",
         "url": "https://open.spotify.com/album/6sjdWjglHtNFlIaqS27asi"
       },
@@ -14331,6 +14513,32 @@
     },
     {
       "album": {
+        "name": "Paint Your Life (A Song About Frida Kahlo)",
+        "url": "https://open.spotify.com/album/0coQwtNLcfSe4ccbAbrguq"
+      },
+      "artists": [
+        {
+          "name": "Little People, BIG DREAMS",
+          "url": "https://open.spotify.com/artist/0yubK9huKbJvRu7YxlpoFX"
+        },
+        {
+          "name": "Dom James",
+          "url": "https://open.spotify.com/artist/1JY39k85BM1XtU5WnBN8WD"
+        },
+        {
+          "name": "Tommy Antonio",
+          "url": "https://open.spotify.com/artist/5ZSb3HseeIBllSbROydx4B"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199238,
+      "name": "Paint Your Life - A Song About Frida Kahlo",
+      "url": "https://open.spotify.com/track/642WObgrBNJWjHGbIgZerc"
+    },
+    {
+      "album": {
         "name": "Part of Your World (From \"The Little Mermaid\")",
         "url": "https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR"
       },
@@ -14422,7 +14630,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 161941,
       "name": "Pat-A-Cake",
       "url": "https://open.spotify.com/track/44Bqo6kzLXY2Kin1VIxzvg"
@@ -15025,6 +15233,28 @@
     },
     {
       "album": {
+        "name": "Popsicle",
+        "url": "https://open.spotify.com/album/3aRZtdIujhfMd4DebEh380"
+      },
+      "artists": [
+        {
+          "name": "Kamdenboy & Kyraboo",
+          "url": "https://open.spotify.com/artist/1LLiBhK15nZ9cG4X9hpfJx"
+        },
+        {
+          "name": "The KB Family",
+          "url": "https://open.spotify.com/artist/1KcvVk1JUYc6W0FVHpJlHk"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181518,
+      "name": "Popsicle",
+      "url": "https://open.spotify.com/track/0OmRyYG8IcuMXRu0Zd4ST6"
+    },
+    {
+      "album": {
         "name": "CoComelon Kids Hits, Vol. 14",
         "url": "https://open.spotify.com/album/4al58zNQHDwc60Ns2VKuCO"
       },
@@ -15043,6 +15273,24 @@
     },
     {
       "album": {
+        "name": "Power Up",
+        "url": "https://open.spotify.com/album/6IQlOYhsE5wgv6Cz47X6zQ"
+      },
+      "artists": [
+        {
+          "name": "L.O.L. Surprise!",
+          "url": "https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142941,
+      "name": "Power Up",
+      "url": "https://open.spotify.com/track/2K1DI3D1BYZLQC65KaVp8b"
+    },
+    {
+      "album": {
         "name": "Powers",
         "url": "https://open.spotify.com/album/40iHe2RVYv4Om4AjCDdMEW"
       },
@@ -15058,6 +15306,24 @@
       "duration_ms": 201537,
       "name": "Powers",
       "url": "https://open.spotify.com/track/4CHmOhXvVg89RzifsrIATY"
+    },
+    {
+      "album": {
+        "name": "Pretty In Paris",
+        "url": "https://open.spotify.com/album/066RVFjWIhfDyExsbsRhXp"
+      },
+      "artists": [
+        {
+          "name": "Rainbow High",
+          "url": "https://open.spotify.com/artist/7cvp5x5lxRteAQnPklF4zD"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144893,
+      "name": "Pretty In Paris",
+      "url": "https://open.spotify.com/track/4rmqg5G2ZD0AfBkzToB13i"
     },
     {
       "album": {
@@ -15130,7 +15396,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 52510,
       "name": "Purrfect Friend",
       "url": "https://open.spotify.com/track/6eh0rQV7I3ylNTQiaHcPRh"
@@ -15695,6 +15961,24 @@
     },
     {
       "album": {
+        "name": "Rubber Duckie",
+        "url": "https://open.spotify.com/album/4IFionSfkKUh4iGiwuxNRp"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122475,
+      "name": "Rubber Duckie - from \"Sesame Street\"",
+      "url": "https://open.spotify.com/track/2SkDK4MACq0BFfIQkP4y0E"
+    },
+    {
+      "album": {
         "name": "Rug Island (Full Version)",
         "url": "https://open.spotify.com/album/7gPsHxkyML0jgQ3JMgYxTc"
       },
@@ -15822,7 +16106,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 187068,
       "name": "S-H-A-R-K Toy Car Family",
       "url": "https://open.spotify.com/track/3yp9P1J045n6Ed4ZvycfNl"
@@ -17267,6 +17551,24 @@
     },
     {
       "album": {
+        "name": "Step by Step",
+        "url": "https://open.spotify.com/album/79ic9FglKQupUlsQLcaWpr"
+      },
+      "artists": [
+        {
+          "name": "The Lightcatchers Band",
+          "url": "https://open.spotify.com/artist/56LaK1yeHlJOV1FP36rr7P"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Step by Step",
+      "url": "https://open.spotify.com/track/3XEuweAwrjXlbPupQbKp1R"
+    },
+    {
+      "album": {
         "name": "Stereotype",
         "url": "https://open.spotify.com/album/3izhrUyfDvcbHltLih5KLO"
       },
@@ -17394,7 +17696,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 159900,
       "name": "Stop the Excavator!",
       "url": "https://open.spotify.com/track/1zKTVLbYpXpWh6qcvCgwmz"
@@ -19239,6 +19541,28 @@
     },
     {
       "album": {
+        "name": "The Shaker Song",
+        "url": "https://open.spotify.com/album/1boEeAqkPGMWjzLRTUu0x4"
+      },
+      "artists": [
+        {
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+        },
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209398,
+      "name": "The Shaker Song",
+      "url": "https://open.spotify.com/track/20OSwhwxSrvOLea7IZjdfm"
+    },
+    {
+      "album": {
         "name": "The Smile Song (DJ Pon-3's Version)",
         "url": "https://open.spotify.com/album/5uCLaf34OHpCgGB2YnFxS4"
       },
@@ -19606,7 +19930,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 175087,
       "name": "There's an Animal That I See",
       "url": "https://open.spotify.com/track/38SPer8dqQvGIPdSSMqNBy"
@@ -20566,7 +20890,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 173832,
       "name": "Under The Chestnut Tree",
       "url": "https://open.spotify.com/track/4R1iI2FjUVcyhffUg4S1wa"
@@ -20990,7 +21314,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 201229,
       "name": "Warming Up Our Voices",
       "url": "https://open.spotify.com/track/5F7QAjG5Oil2J1MQwAPosm"
@@ -21020,6 +21344,28 @@
       "duration_ms": 194476,
       "name": "Watch Me Zoom",
       "url": "https://open.spotify.com/track/09f7Mzc5wcH14Arz9CvDJL"
+    },
+    {
+      "album": {
+        "name": "Watch Out for That Rake (from \"PATRICK STAR SUPERSTAR\" / Remastered)",
+        "url": "https://open.spotify.com/album/2qeit1RWhlaWDkk7u3h0Xk"
+      },
+      "artists": [
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        },
+        {
+          "name": "Patrick Star",
+          "url": "https://open.spotify.com/artist/4M7bDPAyyd1rns4cbEy0yQ"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49102,
+      "name": "Watch Out for That Rake",
+      "url": "https://open.spotify.com/track/6oKpLMgvQV4fNAAY4uXkKz"
     },
     {
       "album": {
@@ -21666,7 +22012,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 85490,
       "name": "What's Your Name? (feat. Sesame Street)",
       "url": "https://open.spotify.com/track/4TAzNSca3BotmhvnYVHO2r"
@@ -22546,6 +22892,24 @@
       "duration_ms": 174295,
       "name": "You're the Best at Being You",
       "url": "https://open.spotify.com/track/5UxiECmQSbwj5Kv648gXAa"
+    },
+    {
+      "album": {
+        "name": "Alma in Oz: The Musical",
+        "url": "https://open.spotify.com/album/06ZzYZAXyKphnitotSkFcD"
+      },
+      "artists": [
+        {
+          "name": "Alma's Way",
+          "url": "https://open.spotify.com/artist/67F6yiiA0nSOZM6iLIuJxY"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179973,
+      "name": "You've Got It In You",
+      "url": "https://open.spotify.com/track/1SujgLCyeKnaIuP9lwl0S2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > just trying our best
 
-2,826 songs - 5 day 22 hr 22 min
+2,832 songs - 5 day 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -607,6 +607,7 @@
 | [Deliriously Good](https://open.spotify.com/track/0BlcnJ36zeJTr1wn2OCYnt) | [Rat City](https://open.spotify.com/artist/6VSMAVF00xwG8Adoqnbqy6) | [Deliriously Good](https://open.spotify.com/album/3ll1uzNKwbNLIC3gO4nooq) | 3:33 | 2019-08-17 | 2020-10-21 |
 | [DeLorean](https://open.spotify.com/track/0b4b7Em3xHYHAXVQ0KQReI) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [DeLorean](https://open.spotify.com/album/5P1w7q0aU3Zo2GiviyKfJN) | 3:31 | 2025-01-24 | 2025-04-05 |
 | [Demons](https://open.spotify.com/track/2h9MUJQ62325E0G0dJs5Wl) | [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Ask Me How I’ve Been](https://open.spotify.com/album/6FrJR357uhTSuFNJVaYo7b) | 2:42 | 2026-03-27 | 2026-06-13 |
+| [Dependent](https://open.spotify.com/track/60vroCBYfVR1UijoHFJJIR) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Dependent](https://open.spotify.com/album/6PHUj1PI8BVwZlVpPKX7lT) | 3:00 | 2026-07-10 |  |
 | [depends](https://open.spotify.com/track/6ClRt5Ikl6VEO6xJrdKRCX) | [Maya J'an](https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0) | [blindfaith county](https://open.spotify.com/album/63PCqsm4LhqC3OSWSN97RB) | 4:19 | 2026-05-22 |  |
 | [depressed on the internet](https://open.spotify.com/track/2M6bHGBfPrOC48SuODYcwJ) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [depressed on the internet](https://open.spotify.com/album/6yRPZDsFWQE6p4NhpGqjyw) | 2:57 | 2026-05-08 |  |
 | [Deserve It](https://open.spotify.com/track/54G55Srn9Dk5bF76JNPQYD) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Deserve It](https://open.spotify.com/album/6pDK9mems2WhwqQJiok2Lx) | 2:57 | 2022-10-28 | 2022-11-14 |
@@ -657,7 +658,7 @@
 | [DOING IT AGAIN BABY](https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 2:25 | 2024-03-08 | 2024-03-23 |
 | [Doing Really Well Thanks](https://open.spotify.com/track/5RKsUNisanWVAvmg1BO7f5) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Doing Really Well Thanks](https://open.spotify.com/album/3m0pmKEVZHRUo2AIMKau6q) | 4:43 | 2021-11-19 | 2022-03-12 |
 | [DON'T](https://open.spotify.com/track/09KcJTiSWfibriFPchj0Jt) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [DON'T](https://open.spotify.com/album/4uaMlHLDGX7sv3sKWVxBOw) | 2:09 | 2024-05-10 | 2024-05-18 |
-| [DON'T ASK!](https://open.spotify.com/track/47Z2SkqckoCdJiUgCs46jA) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [DON'T ASK!](https://open.spotify.com/album/5rqi3IpAQc4QgQoO6LadFU) | 3:02 | 2026-04-17 |  |
+| [DON'T ASK!](https://open.spotify.com/track/47Z2SkqckoCdJiUgCs46jA) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [DON'T ASK!](https://open.spotify.com/album/5rqi3IpAQc4QgQoO6LadFU) | 3:02 | 2026-04-17 | 2026-07-11 |
 | [Don't Blame It On My Boyfriend](https://open.spotify.com/track/3LDRHmtw1tSMtpnhDKRx91) | [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl) | [Don't Blame It On My Boyfriend](https://open.spotify.com/album/0wDnE9lEviiZt0xv1871U5) | 2:54 | 2022-11-11 | 2022-11-16 |
 | [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 | 2023-06-02 | 2024-01-05 |
 | [Don't Forget Your Neighborhood](https://open.spotify.com/track/6LbtLmUbt5MCydSpovIJAw) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Don't Forget Your Neighborhood](https://open.spotify.com/album/65bVXONatvnkNP5Jy8u3BN) | 4:54 | 2021-07-16 | 2022-01-12 |
@@ -788,6 +789,7 @@
 | [EZ](https://open.spotify.com/track/0yK7WNzfnq7xS7AARO0rIS) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [EZ](https://open.spotify.com/album/3o2uohhOcMphVdVH42s54a) | 2:20 | 2025-09-26 | 2026-01-15 |
 | [F U Goodbye](https://open.spotify.com/track/205wK88loGkvq5Me6h3XZg) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [F U Goodbye](https://open.spotify.com/album/1qN1cdmp9anpdy8fohdvLo) | 2:46 | 2023-03-03 | 2023-04-23 |
 | [Fabulous](https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu) | [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Fabulous](https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN) | 2:33 | 2026-02-06 | 2026-04-11 |
+| [Face Card](https://open.spotify.com/track/5zsaIAuOp3SmeNV3ASmJMs) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Face Card](https://open.spotify.com/album/3fKG5ulXQe3bRv8X2MmdQQ) | 2:37 | 2026-07-10 |  |
 | [Face Like Yours](https://open.spotify.com/track/3m3aEs2NUwzCPmOG0SXeBt) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Face Like Yours](https://open.spotify.com/album/1JxGPiYxQlORUJ9yIeJL2G) | 2:41 | 2025-02-28 | 2025-05-17 |
 | [Face Like Yours](https://open.spotify.com/track/2s1eDgLrgfZxcKG0Re5qZM) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Face Like Yours](https://open.spotify.com/album/1JZe1YVeWAAeToAavXZ0f3) | 2:38 | 2026-02-06 | 2026-05-02 |
 | [Fail](https://open.spotify.com/track/3wb0OtpuyUjZBOxa8HdxhL) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Fail](https://open.spotify.com/album/6EPz1cdBFPdjoXKdczgdbY) | 2:36 | 2024-07-26 | 2024-09-07 |
@@ -1510,6 +1512,7 @@
 | [Loser](https://open.spotify.com/track/7abo0Ait48p7JNBhmvm9JI) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Loser](https://open.spotify.com/album/4zbZlYVPwTL25Dg0VRdhcD) | 2:55 | 2019-05-26\* | 2019-08-13 |
 | [Loser \- IAMNOBODI Remix](https://open.spotify.com/track/6toyTKS1SciMnCs6R7h1Bu) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria), [IAMNOBODI](https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn) | [Loser \(The Remixes\)](https://open.spotify.com/album/3L2dTwiH4DF8IvLkTtP1P1) | 3:03 | 2020-03-27 | 2020-04-18 |
 | [LOSER!!](https://open.spotify.com/track/5lHh9CANIUY82y1HEzoeIX) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [LOSER!!](https://open.spotify.com/album/0V7dIK9Bf6aVqSZuV0fqhD) | 3:48 | 2024-06-28 | 2024-10-19 |
+| [Losing People](https://open.spotify.com/track/77pNS7sNHCTptHMPawto7i) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Losing People](https://open.spotify.com/album/59GmuL2GM7ssQ9318WRYhR) | 2:34 | 2026-07-10 |  |
 | [Losing Sleep](https://open.spotify.com/track/7yML47qFTPnJW9gp7uurpT) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Losing Sleep](https://open.spotify.com/album/7J7FNt2SsRtvs294XWmTPd) | 2:42 | 2022-10-28 | 2022-11-12 |
 | [Losing Streak](https://open.spotify.com/track/3OTN972oOsFGjHvjRbdSnU) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Losing Streak](https://open.spotify.com/album/53R2ayL23t6b6oPJWFyGnV) | 3:38 | 2026-02-27 | 2026-05-23 |
 | [Lost](https://open.spotify.com/track/2P008xRvFjXgzOK7OUUVyS) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Lost](https://open.spotify.com/album/6baHRhSnqtzgOo4uPhMAVO) | 3:28 | 2021-08-19 | 2021-10-16 |
@@ -1532,6 +1535,7 @@
 | [love is embarrassing](https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:34 | 2023-09-08 | 2025-03-29 |
 | [Love Language](https://open.spotify.com/track/1GRwEsNUPJ8iTUyeYy0YQM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Love Language](https://open.spotify.com/album/4sh3Yk0ITqd0brs7mmFL1T) | 2:57 | 2025-06-06 | 2025-08-18 |
 | [Love Like A Hobby](https://open.spotify.com/track/3Ce2UwnIE9clxZp94hkAGp) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Love Like A Hobby](https://open.spotify.com/album/4FhYzCXg5OeNGBT0NvjVvg) | 3:42 | 2026-07-05 |  |
+| [Love Makes You Do](https://open.spotify.com/track/5by7y6dIZ6t0OJyxXTl0tA) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Love Makes You Do](https://open.spotify.com/album/1cBAq0FGVcENUZGKcTx559) | 3:36 | 2026-07-10 |  |
 | [Love Me Not](https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Love Me Not](https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh) | 2:20 | 2024-02-09 | 2024-10-19 |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2024-05-27 | 2025-12-06 |
 | [Love On TV](https://open.spotify.com/track/70pzDL6WXCbT4RhW29TGgY) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Love On TV](https://open.spotify.com/album/1LXU3kEAWsG3j41EjdFOT7) | 3:13 | 2022-03-18 | 2022-06-07 |
@@ -1778,6 +1782,7 @@
 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 | 2025-02-28 | 2025-08-18 |
 | [Not Because I Loved You](https://open.spotify.com/track/5TYsUOzefxh91dDPsGpSrW) | [Max Drazen](https://open.spotify.com/artist/2gxdQj1Dy77p45uTuve030) | [Not Because I Loved You](https://open.spotify.com/album/1S8p6Bs1aiFl3EUTDyP52b) | 2:59 | 2022-12-23 | 2023-02-04 |
 | [Not Enough](https://open.spotify.com/track/0KjtkLC1AVfhTh1ftQTR6M) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Not Enough](https://open.spotify.com/album/7DagVBaeEcCmoZRnJ8cFtt) | 3:37 | 2025-01-17 | 2025-05-10 |
+| [Not For A Lack Of Trying](https://open.spotify.com/track/7up1fKKwZSVVQJsfcVGPeo) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [Not For A Lack Of Trying](https://open.spotify.com/album/1nK1WPgFCJmY258Q0cfKe3) | 2:34 | 2026-07-10 |  |
 | [Not How It's Supposed To Go](https://open.spotify.com/track/0Ue6Bvzrf13VCxFyDcvvpc) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Moral of the Story: Chapter 2](https://open.spotify.com/album/1Er8k3y3jJywWRXLtINF78) | 2:53 | 2019-09-06 | 2020-06-10 |
 | [Not Like I’m In Love With You](https://open.spotify.com/track/3A9x6yHdlP1H5BY5Pz3l7P) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Not Like I’m In Love With You](https://open.spotify.com/album/5Rf1ieZNxALb2P41tvVTfQ) | 3:05 | 2022-04-29 | 2022-06-25 |
 | [Not Like That Anymore](https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Not Like That Anymore](https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn) | 3:22 | 2025-06-20 | 2025-08-09 |
@@ -2313,6 +2318,7 @@
 | [STFU](https://open.spotify.com/track/74I5Zaz3B2DQp5lAgvOA3V) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [STFU](https://open.spotify.com/album/5F6OtMKcioMKLCaUSgQchc) | 3:29 | 2019-06-15 | 2020-06-07 |
 | [still be friends](https://open.spotify.com/track/0pXfzBjkfflxV8C4yaX2x1) | [Ben Ellis](https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8) | [still be friends](https://open.spotify.com/album/2ARfFTRWvTq8WzKHquyMjU) | 2:56 | 2026-01-09 | 2026-03-28 |
 | [stimulation](https://open.spotify.com/track/4bEUXJIYBbTsQRfkF5gIfq) | [wordsbyjuni](https://open.spotify.com/artist/0yLJt17DnD4o5Z7HQMFFhy) | [stimulation](https://open.spotify.com/album/5Dkr7XMmdh8zHGPfcHsbkS) | 2:40 | 2021-04-19 | 2021-08-15 |
+| [stitched \(on & on\)](https://open.spotify.com/track/5zSKj1LWqut5museAcupvr) | [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [stitched \(on & on\)](https://open.spotify.com/album/5MIxOoG0TtlyWIshOPIycZ) | 3:46 | 2026-07-10 |  |
 | [Stoned Nights](https://open.spotify.com/track/71rTViUIFq4eDyd8bWtjtJ) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Stoned Nights](https://open.spotify.com/album/63dmsjTvTlAgBRjXlDznF2) | 3:25 | 2021-12-03 | 2022-01-08 |
 | [Story of a Boy](https://open.spotify.com/track/6ePdWn39KoSXsanJvRXIjx) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [BOY](https://open.spotify.com/album/75Cps520layAjj3UTUMC9v) | 2:36 | 2023-04-22 | 2023-08-08 |
 | [Story of a Boy](https://open.spotify.com/track/7atzImo7vWrKHrsqkFrMuQ) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Story of a Boy](https://open.spotify.com/album/1emFHl6oXIJRrXS3yS4hj4) | 2:36 | 2023-01-27 | 2023-02-04 |

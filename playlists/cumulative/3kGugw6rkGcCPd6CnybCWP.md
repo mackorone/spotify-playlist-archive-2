@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-436 songs - 1 day 1 hr 18 min
+437 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Rooted on the Road](https://open.spotify.com/track/2yD1l6lXuQvvaSyj2Onuip) | [CLANDESTINA](https://open.spotify.com/artist/0fCGnCJsfojMmsEi3v27TX) | [Rooted on the Road](https://open.spotify.com/album/1S1DoC1rXsONURycia5on5) | 2:56 | 2025-12-12 | 2026-03-10 |
 | [Round and Round](https://open.spotify.com/track/7uFPwIzZHUJCbPpkbhk71U) | [Plastic Funeral](https://open.spotify.com/artist/65Af8cCDWCfPu1nEX9PIfy) | [Round and Round](https://open.spotify.com/album/1H9cOzkLY09KkJVSdcKHJA) | 4:49 | 2026-05-27 |  |
 | [Runnin' On Empty](https://open.spotify.com/track/4Ak9DIQXtFKsB5xc9u6LTw) | [Brandon Birdwell](https://open.spotify.com/artist/0AhCptHCR9jOUnM5nYzVSi) | [Runnin' On Empty](https://open.spotify.com/album/6zrNLo1HS4qF1d72WfDqiE) | 3:30 | 2026-03-31 | 2026-05-06 |
+| [S.A.D.](https://open.spotify.com/track/4qtr4X6SQU3KZcFN1E8y9e) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [S.A.D.](https://open.spotify.com/album/3hGmdAkoso8AqAaxiLNgi0) | 3:20 | 2026-07-10 |  |
 | [SALEM](https://open.spotify.com/track/1XQEKHZ7DkLbttxrSWI72j) | [Wikka](https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq) | [SALEM](https://open.spotify.com/album/2yxTaNnjFgwUVjEO3xNAUt) | 4:54 | 2026-03-08 | 2026-04-16 |
 | [Satellite](https://open.spotify.com/track/0DubPnJ1rX0O1dIBiAihPZ) | [Cold Equations](https://open.spotify.com/artist/2axEJPob8hT3XbjX72Npii) | [Satellite](https://open.spotify.com/album/6yjxqvOUnOQRiIpi4MtEHN) | 4:11 | 2025-10-27 | 2025-12-02 |
 | [SATISFIED](https://open.spotify.com/track/4tgRMPgQF7cjJ0t2oeqAEg) | [Mike Manos](https://open.spotify.com/artist/6pdy7rMEZXFowM5Z2gu6yA) | [SATISFIED](https://open.spotify.com/album/4wl2aolRxxD08ItnHxsovn) | 2:59 | 2025-10-30 | 2025-12-12 |

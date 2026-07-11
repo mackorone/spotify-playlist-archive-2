@@ -2549,6 +2549,24 @@
     },
     {
       "album": {
+        "name": "Stars (Blue Hour Deluxe)",
+        "url": "https://open.spotify.com/album/3OMBUTRjGHezf7PxuRsO6c"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222603,
+      "name": "Me & Jesus",
+      "url": "https://open.spotify.com/track/02j7pikjgJqmmQUBr23zPt"
+    },
+    {
+      "album": {
         "name": "Menace",
         "url": "https://open.spotify.com/album/2UYLPh9VLF8ASVBn31VwIK"
       },
@@ -3398,6 +3416,24 @@
       "duration_ms": 204800,
       "name": "Strong",
       "url": "https://open.spotify.com/track/7qKq3YnzxmYfYipYQxzLe4"
+    },
+    {
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/1qeOCgKRH1TzpFwFf9ZXMX"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177895,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/03g8sbVKjDg2o4GBVfI3xc"
     },
     {
       "album": {

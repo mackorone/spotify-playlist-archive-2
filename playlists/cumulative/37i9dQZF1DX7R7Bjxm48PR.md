@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-184 songs - 8 hr 15 min
+186 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Stay The Night](https://open.spotify.com/track/5GuS3tJuRwbdNObPdCEVfI) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Stay The Night](https://open.spotify.com/album/4vYZPIYks7WPspZHdcwvdG) | 2:02 | 2022-01-19 | 2022-03-18 |
 | [Still Grove Waters](https://open.spotify.com/track/41Knhtf9XRy88QiDzio9Zg) | [Lars Peters](https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx) | [Still Grove Waters](https://open.spotify.com/album/2gqOqtUdkxKwlm4ApasA2e) | 2:27 | 2025-04-29 | 2025-05-15 |
 | [Stuck In A Dream](https://open.spotify.com/track/26S0ebDSZX2BBmDXQhpsrq) | [Joyce Dulaney](https://open.spotify.com/artist/5fdxuo0vbjD6xK1zty3Kvi) | [Stuck In A Dream](https://open.spotify.com/album/1aUbffKm9QcEYO7ZTOplKQ) | 2:48 | 2022-01-19 | 2024-10-23 |
+| [sunaround](https://open.spotify.com/track/0DW4xuWL5NvMUUPOvF0SM4) | [Galen Rise](https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R) | [sunaround](https://open.spotify.com/album/0NcMogW5bJxIZ8OrHGPCTn) | 2:54 | 2026-07-10 |  |
 | [Sunrise](https://open.spotify.com/track/5WGiuwZ3b4GgpkJTUv0S32) | [Graciosa](https://open.spotify.com/artist/1miegxCenxnaWgMYkeRIkY) | [Sunrise](https://open.spotify.com/album/74wLBrYsjGT8XuBchhf6Rj) | 3:10 | 2025-01-29 | 2025-04-30 |
 | [Sunset From Beyond](https://open.spotify.com/track/3ds1T336lEcCzJw1CClUzQ) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Sunset From Beyond](https://open.spotify.com/album/2DVpfQiCiKQpVsZWHnentg) | 2:30 | 2024-11-06 |  |
 | [Tales of an Oak](https://open.spotify.com/track/5bCmrU1C14AFNulJ5qMNEw) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Tales of an Oak](https://open.spotify.com/album/1kXMFkrXkNYwkldSswlJpb) | 2:00 | 2022-01-19 | 2024-11-14 |
@@ -186,6 +187,7 @@
 | [Waves](https://open.spotify.com/track/4POl5mnK3ZDe6crPzkxW9L) | [Delevski](https://open.spotify.com/artist/7jWYbcMTpLqG9gi67M5H2k) | [Waves](https://open.spotify.com/album/0ERpE5TAYb6GSInWr0v6dI) | 2:24 | 2023-01-26 | 2024-04-19 |
 | [We Will Make It](https://open.spotify.com/track/7yVh5SkxIS6OpNlL8gf2Qx) | [Finn Forsberg](https://open.spotify.com/artist/4yTgrCNA5ym4jRHkU1q9Hd) | [We Will Make It](https://open.spotify.com/album/3XY93ClwPSOcghbPeDkGzr) | 2:08 | 2022-01-19 | 2025-01-30 |
 | [Wengen](https://open.spotify.com/track/4EmOsFxW6Nx84qPs9ACrA5) | [Lorah Weber](https://open.spotify.com/artist/6KPIG4JnXUCcKZPGD8aE5R) | [Wengen](https://open.spotify.com/album/2BopNtLHRQ1mx5YlamsiEg) | 3:10 | 2022-01-19 | 2024-11-14 |
+| [What if](https://open.spotify.com/track/0zrq89L6zJpWyCDFLWQQ9W) | [D Orbea](https://open.spotify.com/artist/5zIA2WFT6BBxHqtA8tmi8K) | [What if](https://open.spotify.com/album/6iFw3wB3enX30toVhL4lWe) | 2:09 | 2026-07-10 |  |
 | [When Earth Whispers](https://open.spotify.com/track/6YtzGYCIUydA50pbDuPhE8) | [throughfield](https://open.spotify.com/artist/38RdlcwxQGnKfpO1z7pJaQ) | [When Earth Whispers](https://open.spotify.com/album/4QYtWQV3YlroscBoTnbwBs) | 2:36 | 2025-11-05 |  |
 | [White Light](https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 3:05 | 2022-01-19 | 2024-11-14 |
 | [Who You Are](https://open.spotify.com/track/76agaZQuHOXaW7FoulqfD0) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [Who You Are](https://open.spotify.com/album/3vPN95aWwiD7Rzuz9eDQFy) | 2:42 | 2022-01-19 |  |

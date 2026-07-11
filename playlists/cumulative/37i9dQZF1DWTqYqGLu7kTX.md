@@ -2,9 +2,9 @@
 
 ### [RAP 91 Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX)
 
-> Best of Punjabi Hip\-Hop! Cover:  Navaan Sandhu
+> Best of Punjabi Hip\-Hop! Cover:  Gurinder Gill
 
-343 songs - 17 hr 2 min
+344 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [MVP](https://open.spotify.com/track/5BQePe9rcCJozHK3oPayYk) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [MVP](https://open.spotify.com/album/5oCCfkVCpkSUhBUXe0pyJF) | 3:16 | 2024-05-16 | 2026-04-18 |
 | [My Boyz](https://open.spotify.com/track/3CRjjTpw9dpg3P84SHmszK) | [Kambi Rajpuria](https://open.spotify.com/artist/0D1zUm6fYTA4tzlGjmnYFw), [Desi Ma](https://open.spotify.com/artist/4Xxi26Q3J73FVmLpBtLnH0), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Unity, Vol\. 1](https://open.spotify.com/album/6dMxu2itWiv3N804kxn6PW) | 3:17 | 2024-03-26 | 2024-08-10 |
 | [My Way](https://open.spotify.com/track/0IU3udts4NQ1C4KHRfv6sv) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Breakin Boundaries](https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e) | 2:30 | 2025-01-24 | 2025-11-22 |
+| [Naggnee](https://open.spotify.com/track/6kjrGexGBZCyuNSnsXVybn) | [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Manu](https://open.spotify.com/artist/3IKpHWEZQ8pPp4PEsGuT28), [Sach](https://open.spotify.com/artist/7leZzL76FU9U3ycqFiVQ2N) | [Can't Stop Now](https://open.spotify.com/album/030a4ObLC1PdluepsqarAM) | 2:34 | 2026-07-10 |  |
 | [Nazare](https://open.spotify.com/track/4y6I1Jm5Vh0QKh454bOz4i) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt) | [Bonafide](https://open.spotify.com/album/2wOy3GGZN8Z13kgwoYlqSk) | 2:45 | 2026-02-17 | 2026-05-30 |
 | [Negative Bande](https://open.spotify.com/track/2s5BdD53tc3EXJJZLOpGgN) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC), [Kavvy Riyaaz](https://open.spotify.com/artist/4NQtFuGJoyFup7YPfqOInx) | [Negative Bande](https://open.spotify.com/album/2jnwBnl9Ea0ZXqqlbcH4tM) | 3:07 | 2024-09-16 | 2024-10-11 |
 | [Never Ever](https://open.spotify.com/track/4DSrqUJX30NN9Gip0BSB7c) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:26 | 2024-11-11 | 2025-07-12 |
@@ -233,7 +234,7 @@
 | [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2023-03-18 | 2024-03-29 |
 | [NO MIDMAN](https://open.spotify.com/track/4vrnlcjMrRpTecEvdiuiAv) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [NO MIDMAN](https://open.spotify.com/album/3z7Qb70k9Q3jIB8q5pjfko) | 3:38 | 2025-08-15 | 2025-10-11 |
 | [No One Like You](https://open.spotify.com/track/4wAd8rvqAOIztdjJJJEah7) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Real Sheikh](https://open.spotify.com/artist/1FqIxFISLBxKVtWyCKPsOR) | [Deja Vu](https://open.spotify.com/album/4j8ZHrjf3cgM96KJU4WYNP) | 2:07 | 2024-10-16 | 2024-10-23 |
-| [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 | 2023-04-23 |  |
+| [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 | 2023-04-23 | 2026-07-11 |
 | [No Regrets](https://open.spotify.com/track/2aAM91sTMQ81KdwYLXPiwM) | [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Lazyeye](https://open.spotify.com/artist/2EYUCVTwCcAqNnmCPCAAoQ) | [No Regrets](https://open.spotify.com/album/6KRRQoVmR0BMZn90t4i0m4) | 2:35 | 2024-04-03 | 2024-06-11 |
 | [Not Again](https://open.spotify.com/track/1GeYg8ZmnjUezVhIzdfRmd) | [Hemmy](https://open.spotify.com/artist/4MET84hruIiQ3Z05lLDNO6), [Bekhauf](https://open.spotify.com/artist/11TNfhP5pMAgWbDwPhvdg0) | [Not Again](https://open.spotify.com/album/4YoP0DeqCUpl8GtJSYIkxZ) | 3:03 | 2024-04-05 | 2024-05-23 |
 | [Not Allowed](https://open.spotify.com/track/6GHamf2yNnMghMPGZ1CDmW) | [Indyy Sanghera](https://open.spotify.com/artist/3NLsLe2pvDtx8sDNChqQCN), [rocky](https://open.spotify.com/artist/5SdlpwxcJbR4JjrkmPEl1G) | [Not Allowed](https://open.spotify.com/album/28YNr2IZpS6LcpBfOfvYWq) | 3:30 | 2024-04-02 | 2024-05-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 
 > rolitas perras pa' agarrar cura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,199 likes - 88 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,249 likes - 88 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 | 87 | [La Lámpara](https://open.spotify.com/track/1rWLsPHuaDl4Ohy2MITM8z) | [Banda Perla De Michoacán](https://open.spotify.com/artist/2ensvIDANP7J8Y81kmno84) | [Amor Prohibido](https://open.spotify.com/album/72A7aGvsBk4adMbTjJxGkY) | 2:27 |
 | 88 | [GIVENCHY](https://open.spotify.com/track/02JYTPbXuQ18Wc8ZTsYMJD) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [GIVENCHY](https://open.spotify.com/album/2HdHZu2iTKume9VHwC9Pd8) | 2:27 |
 
-Snapshot ID: `AAAAACH/STy72foirriAFS2o8e3N9uVH`
+Snapshot ID: `AAAAAK1SzMAsKNojgXMIl28WqnXKSCq4`

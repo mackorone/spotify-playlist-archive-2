@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk & kompa du moment\. Photo : Axel Tony x Yoan
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,587 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,608 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Distance](https://open.spotify.com/track/46CCih4yxgvMkmqWm4ejOJ) | [Axel Tony](https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh), [Yoan](https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke) | [NOX BOOK I](https://open.spotify.com/album/0OFqXAhoa2s8RDqO6uhATs) | 3:15 |
 | 2 | [Rihanna](https://open.spotify.com/track/23Y3IYu82OxwSWC1f2ILyl) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Rihanna](https://open.spotify.com/album/7jvhFuArohMk5JOGfhH84L) | 3:28 |
-| 3 | [Track 2](https://open.spotify.com/track/6jHeDkT1nisjl2LE1qVzFb) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [THERAPY](https://open.spotify.com/album/6AjkBSOVwXBWc2lXflY65D) | 0:00 |
+| 3 | [Comment m'aimer](https://open.spotify.com/track/6jHeDkT1nisjl2LE1qVzFb) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [THERAPY](https://open.spotify.com/album/6AjkBSOVwXBWc2lXflY65D) | 2:46 |
 | 4 | [Bam Love](https://open.spotify.com/track/2w2j4DxB5j4QVXtr8hxpMP) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [EX\-VOTO](https://open.spotify.com/album/6VbZz0zsL8N2iL9lkHvxFP) | 3:12 |
 | 5 | [Natacha](https://open.spotify.com/track/01aRMjUBdK0TlE3K8wCxmj) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Natacha](https://open.spotify.com/album/6IFdY9fQYO22PRyrbZVN31) | 2:36 |
 | 6 | [Dis le moi](https://open.spotify.com/track/4UJhjeCgpWZnMVm8Kugsi0) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Dis le moi](https://open.spotify.com/album/1r1Q68LcB4tSigUhaZAdOE) | 3:22 |

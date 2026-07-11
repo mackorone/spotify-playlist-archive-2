@@ -2029,6 +2029,28 @@
     },
     {
       "album": {
+        "name": "F\u00fcr Mich",
+        "url": "https://open.spotify.com/album/1uMd8qtuDIvM4Jl2yM8qSr"
+      },
+      "artists": [
+        {
+          "name": "Jugo \u00dcrdens",
+          "url": "https://open.spotify.com/artist/05ygKFPjfiChHhQSx5Y9Y2"
+        },
+        {
+          "name": "MOLA",
+          "url": "https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Alles Wird Gut",
+      "url": "https://open.spotify.com/track/5rPhHTLPYfD7PLhI3Q2o85"
+    },
+    {
+      "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/3WXrbjjks1fCWPq5dJfWtn"
       },
@@ -20153,6 +20175,24 @@
     },
     {
       "album": {
+        "name": "Marilyn",
+        "url": "https://open.spotify.com/album/4ucyxLR2CsQCN8K6MJ6krV"
+      },
+      "artists": [
+        {
+          "name": "Caro Schaeffler",
+          "url": "https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196909,
+      "name": "Marilyn",
+      "url": "https://open.spotify.com/track/6mf4W08c67kOASyrTOhY4j"
+    },
+    {
+      "album": {
         "name": "Marlboro",
         "url": "https://open.spotify.com/album/5sHOBlcohfiJD02j2JlXTj"
       },
@@ -29650,24 +29690,6 @@
       "duration_ms": 168188,
       "name": "Tourrettes",
       "url": "https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO"
-    },
-    {
-      "album": {
-        "name": "F\u00fcr Mich",
-        "url": "https://open.spotify.com/album/1uMd8qtuDIvM4Jl2yM8qSr"
-      },
-      "artists": [
-        {
-          "name": "Jugo \u00dcrdens",
-          "url": "https://open.spotify.com/artist/05ygKFPjfiChHhQSx5Y9Y2"
-        }
-      ],
-      "date_added": "2026-07-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 12",
-      "url": "https://open.spotify.com/track/5rPhHTLPYfD7PLhI3Q2o85"
     },
     {
       "album": {

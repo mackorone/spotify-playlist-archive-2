@@ -4,7 +4,7 @@
 
 > New music from La Mano 1.9 x Ninho, Genezio, U2, Teddy Swims and more...
 
-10,706 songs - 23 day 8 hr 30 min
+10,706 songs - 23 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1902,6 +1902,7 @@
 | [Comme Ye](https://open.spotify.com/track/64pEZyDpOpb3zOjryhvNSv) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Comme Ye](https://open.spotify.com/album/1xyFYAejJRKhUdTk0lkUas) | 2:33 | 2025-03-27 | 2025-04-04 |
 | [Comment faire](https://open.spotify.com/track/0om4QY2l97Cdju4zBlbTVl) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Comment faire](https://open.spotify.com/album/6j1HTQ19MZq9KzNY5KyfKG) | 2:54 | 2026-01-29 | 2026-02-06 |
 | [Comment ils font les autres](https://open.spotify.com/track/15odO9cZVBQJeX1JiAgAOc) | [47ter](https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi) | [LA VIE CONTINUE](https://open.spotify.com/album/40bvQc2RUuJzUFc5Q0KFxT) | 2:13 | 2026-04-23 | 2026-05-01 |
+| [Comment m'aimer](https://open.spotify.com/track/6jHeDkT1nisjl2LE1qVzFb) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [THERAPY](https://open.spotify.com/album/6AjkBSOVwXBWc2lXflY65D) | 2:46 | 2026-07-09 |  |
 | [Comment on s'aime](https://open.spotify.com/track/0wXS05bMuXsKhDKnNrKfQo) | [SOR4](https://open.spotify.com/artist/03XsGQcpz4qlzyW3X2Jsln) | [SOR4](https://open.spotify.com/album/4pcikVhgrWGgy7bQSyS6Us) | 2:47 | 2024-09-19 | 2024-09-27 |
 | [COMMENT ÇA VA](https://open.spotify.com/track/1wr00CjLwxBnSBCgs4oVgS) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [ADN : PART I](https://open.spotify.com/album/2gnhctJkV23No6pEQ5wcXk) | 2:56 | 2025-07-17 | 2025-07-25 |
 | [Como Ca Va](https://open.spotify.com/track/4qQLht5dC05Bnc5N7Ts5IM) | [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Como Ca Va](https://open.spotify.com/album/5pwbWTNLxYYH0cTRfNO82f) | 2:35 | 2026-03-26 | 2026-04-03 |
@@ -7970,7 +7971,7 @@
 | [Same Old Song](https://open.spotify.com/track/7fgBaZMKj1KIftugsmBrkB) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic \(Preview\)](https://open.spotify.com/album/7jnh9Dv3ocxLzYmf8kAL4p) | 2:54 | 2025-01-09 | 2025-01-17 |
 | [Same Old Tunes](https://open.spotify.com/track/1NuOAxkiBc6wUIoRndQ0Lm) | [BARRU](https://open.spotify.com/artist/4o4dEe1l0R6qNVc4OFcy1K) | [Same Old Tunes](https://open.spotify.com/album/7ozKURMzhSAnWMrcAgICcp) | 3:18 | 2025-09-25 | 2025-10-04 |
 | [Same Thing](https://open.spotify.com/track/6XMNNNDOnkTXSh567RaGsb) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Same Thing](https://open.spotify.com/album/0YXGVn9prM1CoWIiZNGfyL) | 1:55 | 2025-07-24 | 2025-08-01 |
-| [Samedi soir](https://open.spotify.com/track/4LOwVIcwwOTwT9FcCPiYTb) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [Samedi soir](https://open.spotify.com/album/2qIZTgXmZ3R6LlJ6mXGFNk) | 2:37 | 2026-07-09 |  |
+| [Samedi soir](https://open.spotify.com/track/4LOwVIcwwOTwT9FcCPiYTb) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Gemtro](https://open.spotify.com/artist/1oFFkY4UrGTXjFwzFndWB4) | [Samedi soir](https://open.spotify.com/album/2qIZTgXmZ3R6LlJ6mXGFNk) | 2:37 | 2026-07-09 |  |
 | [SAMEDI SOIR](https://open.spotify.com/track/5iux9MC1F5qGVOa6x9XwEb) | [Kunta](https://open.spotify.com/artist/3ishWMiOKQ8C7iUViLsS6V) | [SAMEDI SOIR](https://open.spotify.com/album/11FyCm23JWpm1f9M93rzDe) | 2:43 | 2025-05-08 | 2025-05-16 |
 | [Samen Blijven](https://open.spotify.com/track/05frc7EsEIMBrF7uK6CCxT) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Samen Blijven](https://open.spotify.com/album/0n3idTgAnCgj84Szvmjc4o) | 2:38 | 2026-05-21 | 2026-05-29 |
 | [sampLES & Scotts](https://open.spotify.com/track/6o9ZPYIgAAHywH9T5aJdVF) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [sampLES & Scotts](https://open.spotify.com/album/0wtl8rarZ8VTXBl2AZmq2K) | 2:19 | 2026-01-29 | 2026-02-06 |
@@ -9572,14 +9573,13 @@
 | [TOXIC](https://open.spotify.com/track/02SkhSShsYpPPAmqwdJi6B) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2), [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [TOXIC](https://open.spotify.com/album/7DWEu6Ka60yycvREDE9XLG) | 3:15 | 2025-07-10 | 2025-07-18 |
 | [TOXIC](https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 2:40 | 2025-06-19 | 2025-06-27 |
 | [Toxic](https://open.spotify.com/track/2Go05djCQi4zVufi2XFcsQ) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [Toxic](https://open.spotify.com/album/7liVvdipZeK6caApJkWSqd) | 2:31 | 2026-05-07 | 2026-05-15 |
-| [Toxic](https://open.spotify.com/track/0PzKXHZLlax3utLHSAAsiF) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Toxic](https://open.spotify.com/album/4S2OSc9WPy2QK6FabRqurE) | 2:47 | 2026-07-09 |  |
+| [Toxic](https://open.spotify.com/track/0PzKXHZLlax3utLHSAAsiF) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Toxic](https://open.spotify.com/album/4S2OSc9WPy2QK6FabRqurE) | 2:44 | 2026-07-09 |  |
 | [Toxic Lullaby](https://open.spotify.com/track/3nMVqsavDiNftAda8yMbfW) | [LEEZ](https://open.spotify.com/artist/1HM97QoNxOsRwFJ9x9Nbig) | [Toxic Lullaby](https://open.spotify.com/album/3FH0l70wKh2DggehaFL891) | 3:05 | 2024-06-06 | 2024-06-14 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2024-12-13 |
 | [TP sur TP](https://open.spotify.com/track/5pEftKLE1dyuOLTewNQZeX) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [TP sur TP](https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo) | 3:06 | 2025-12-04 | 2025-12-12 |
 | [Traagskes Groeien](https://open.spotify.com/track/7x56DylaWz5SsQ1yPhO0wL) | [Het Zesde Metaal](https://open.spotify.com/artist/0BqOXpkslA5Kxud9UXi2yG) | [Traagskes Groeien](https://open.spotify.com/album/5zmGVGCKsfZtz2lbhd888A) | 3:58 | 2025-09-04 | 2025-09-12 |
 | [Traces](https://open.spotify.com/track/2ovgJSq4o0pLynO6y7kJUj) | [Cellini](https://open.spotify.com/artist/5wFiSr66v5LC5Lt8MF06n3), [AMOS](https://open.spotify.com/artist/4YznhYq21QSUGqRPLhhrRW) | [Traces](https://open.spotify.com/album/7cR6i3wtHh9xIuLO2qLTy9) | 3:28 | 2025-01-16 | 2025-01-24 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 | 2026-06-05 |
-| [Track 2](https://open.spotify.com/track/6jHeDkT1nisjl2LE1qVzFb) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [THERAPY](https://open.spotify.com/album/6AjkBSOVwXBWc2lXflY65D) | 0:00 | 2026-07-09 |  |
 | [Track Team](https://open.spotify.com/track/4DXaHQVSIEn6TzCvTOKJP8) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Track Team](https://open.spotify.com/album/5OjS6NVhELa2DEJPenjsVL) | 3:25 | 2026-07-09 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |
 | [Traffic Jam](https://open.spotify.com/track/24E5e3sqJ3vh9U3faTbawa) | [5NAPBACK](https://open.spotify.com/artist/0ERCrnTOTP6m7KbCLTliEj), [Holliz](https://open.spotify.com/artist/1GcM7yt6bCkRdj82FxVY45) | [Traffic Jam](https://open.spotify.com/album/09NpsaHGa405WL7ZObWDeA) | 3:02 | 2025-04-24 | 2025-05-02 |

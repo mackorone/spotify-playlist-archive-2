@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las mujeres de la M\u00fasica Mexicana! Rosalia Le\u00f3n en portada \ud83c\udf39",
-  "num_followers": 189511,
+  "num_followers": 189518,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
+        "name": "Las Rejas No Matan",
+        "url": "https://open.spotify.com/album/2HbREHvhYxmjUuWGFys3M9"
+      },
+      "artists": [
+        {
+          "name": "Guadalupe Pineda",
+          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Las Rejas No Matan",
+      "url": "https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm"
+    },
+    {
+      "added_at": "2026-02-13 06:00:00",
+      "album": {
         "name": "Vu\u00e9lveme a Querer",
         "url": "https://open.spotify.com/album/7ebsAIjaxazDs1R6IXdpzq"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 235609,
       "name": "Vu\u00e9lveme a Querer",
       "url": "https://open.spotify.com/track/5wqege8XFAluzO8iS2W3K1"
-    },
-    {
-      "added_at": "2026-02-13 06:00:00",
-      "album": {
-        "name": "Las Rejas No Matan",
-        "url": "https://open.spotify.com/album/2HbREHvhYxmjUuWGFys3M9"
-      },
-      "artists": [
-        {
-          "name": "Guadalupe Pineda",
-          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Las Rejas No Matan",
-      "url": "https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm"
     },
     {
       "added_at": "2026-02-13 06:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
-        "name": "Fruta Prohibida",
-        "url": "https://open.spotify.com/album/0q4wmFZM0Doz5GkzZQmpts"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 165610,
-      "name": "Fruta Prohibida",
-      "url": "https://open.spotify.com/track/3x9x9FMUXUkAQSpLYlH4vY"
-    },
-    {
-      "added_at": "2026-02-13 06:00:00",
-      "album": {
         "name": "Para Que Seas Feliz",
         "url": "https://open.spotify.com/album/3iZXKhjO9HOdOwYYbGfwgV"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
+        "name": "Fruta Prohibida",
+        "url": "https://open.spotify.com/album/0q4wmFZM0Doz5GkzZQmpts"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 165610,
+      "name": "Fruta Prohibida",
+      "url": "https://open.spotify.com/track/3x9x9FMUXUkAQSpLYlH4vY"
+    },
+    {
+      "added_at": "2026-02-13 06:00:00",
+      "album": {
         "name": "Lucha Villa Interpreta A Jose Alfredo Jimenez",
         "url": "https://open.spotify.com/album/2WclW17u0Wwa3DLdSmwekb"
       },
@@ -1531,22 +1531,6 @@
       "duration_ms": 173627,
       "name": "Te Solte La Rienda",
       "url": "https://open.spotify.com/track/5vWniApCCY3PXFHY70pN8Q"
-    },
-    {
-      "added_at": "2026-02-13 06:00:00",
-      "album": {
-        "name": "Lola Beltr\u00e1n en Concierto - 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
-        "url": "https://open.spotify.com/album/5s2FnaKvePvxbVaBt1qZMF"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Cielito Lindo",
-      "url": "https://open.spotify.com/track/7vzrbp7j0XIHSycOZqgRa0"
     },
     {
       "added_at": "2026-02-13 06:00:00",
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
+        "name": "Lola Beltr\u00e1n en Concierto - 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
+        "url": "https://open.spotify.com/album/5s2FnaKvePvxbVaBt1qZMF"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Cielito Lindo",
+      "url": "https://open.spotify.com/track/7vzrbp7j0XIHSycOZqgRa0"
+    },
+    {
+      "added_at": "2026-02-13 06:00:00",
+      "album": {
         "name": "15 Grandes Exitos-Flor Silvestre",
         "url": "https://open.spotify.com/album/4FNgT1gbX9oHHuikiyZcOv"
       },
@@ -1611,22 +1611,6 @@
       "duration_ms": 162272,
       "name": "Gaviota Traidora",
       "url": "https://open.spotify.com/track/54UCeomwW6iG6gN0YijQfM"
-    },
-    {
-      "added_at": "2026-02-13 06:00:00",
-      "album": {
-        "name": "Cari\u00f1o de Mis Cari\u00f1os",
-        "url": "https://open.spotify.com/album/6v7iTP4Lh5C9adz8mXIi7G"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        }
-      ],
-      "duration_ms": 199968,
-      "name": "Y Volver\u00e9...",
-      "url": "https://open.spotify.com/track/2jLCF9svTRPh0dF2Ugv1AB"
     },
     {
       "added_at": "2026-02-13 06:00:00",
@@ -1651,18 +1635,34 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
-        "name": "Chelo Interpreta A Jose Alfredo Jimenez",
-        "url": "https://open.spotify.com/album/08sekdK1Y2funzXBqM2bNz"
+        "name": "Cari\u00f1o de Mis Cari\u00f1os",
+        "url": "https://open.spotify.com/album/6v7iTP4Lh5C9adz8mXIi7G"
       },
       "artists": [
         {
-          "name": "Chelo",
-          "url": "https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne"
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
         }
       ],
-      "duration_ms": 145194,
-      "name": "Por Si Me Olvidas",
-      "url": "https://open.spotify.com/track/2Kibj5KtMqbXDgtrN3Oqmw"
+      "duration_ms": 199968,
+      "name": "Y Volver\u00e9...",
+      "url": "https://open.spotify.com/track/2jLCF9svTRPh0dF2Ugv1AB"
+    },
+    {
+      "added_at": "2026-02-13 06:00:00",
+      "album": {
+        "name": "Me Saludas A La Tuya",
+        "url": "https://open.spotify.com/album/19czamPsw1zWGUQon24S8R"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "duration_ms": 163661,
+      "name": "Seis Pies Abajo",
+      "url": "https://open.spotify.com/track/6vToApx4MX31wLOxuKXElW"
     }
   ],
   "unique_name": "Reinas del Mariachi",

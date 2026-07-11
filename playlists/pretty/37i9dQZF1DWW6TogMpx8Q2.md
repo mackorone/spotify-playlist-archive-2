@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 
 > Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: 洪嘉豪 Kaho Hung
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,304 likes - 112 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,305 likes - 112 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

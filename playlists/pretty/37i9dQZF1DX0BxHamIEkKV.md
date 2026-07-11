@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BxHamIEkKV.md) - [plain]
 
 > Smart, engaging podcasts that go beyond the headlines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,992 likes - 3 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,991 likes - 3 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

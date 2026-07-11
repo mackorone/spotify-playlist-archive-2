@@ -2,7 +2,7 @@
 
 ### [Country Top 50](https://open.spotify.com/playlist/37i9dQZF1DX7aUUBCKwo4Y)
 
-> Country music's 50 most played songs in the world\. Updated weekly\. Cover: Taylor Swift
+> Country music's 50 most played songs in the world\. Updated weekly\. Cover: Ella Langley
 
 346 songs - 19 hr 21 min
 

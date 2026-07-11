@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 414431,
+  "num_followers": 414633,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-07-09 22:02:42",
       "album": {
+        "name": "ITVLO",
+        "url": "https://open.spotify.com/album/1sY6EDoFwyLD5rI0tG2QJR"
+      },
+      "artists": [
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 287267,
+      "name": "ITVLO",
+      "url": "https://open.spotify.com/track/5GmLeKLNFgOPCqyonBPYtr"
+    },
+    {
+      "added_at": "2026-07-09 22:02:42",
+      "album": {
         "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
         "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 244075,
       "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
       "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
-    },
-    {
-      "added_at": "2026-07-09 22:02:42",
-      "album": {
-        "name": "ITVLO",
-        "url": "https://open.spotify.com/album/1sY6EDoFwyLD5rI0tG2QJR"
-      },
-      "artists": [
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 287267,
-      "name": "ITVLO",
-      "url": "https://open.spotify.com/track/5GmLeKLNFgOPCqyonBPYtr"
     },
     {
       "added_at": "2026-07-09 22:02:42",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-07-09 22:02:42",
       "album": {
-        "name": "Tacchini",
-        "url": "https://open.spotify.com/album/3j9gagsPfqOmdi7jB0F2tG"
-      },
-      "artists": [
-        {
-          "name": "Mind Enterprises",
-          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
-        }
-      ],
-      "duration_ms": 289815,
-      "name": "Tacchini",
-      "url": "https://open.spotify.com/track/6YpeSOKGqvxO8M8K5SlsjQ"
-    },
-    {
-      "added_at": "2026-07-09 22:02:42",
-      "album": {
         "name": "The Division",
         "url": "https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 396435,
       "name": "Neutron Dance",
       "url": "https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7"
+    },
+    {
+      "added_at": "2026-07-09 22:02:42",
+      "album": {
+        "name": "Tacchini",
+        "url": "https://open.spotify.com/album/3j9gagsPfqOmdi7jB0F2tG"
+      },
+      "artists": [
+        {
+          "name": "Mind Enterprises",
+          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
+        }
+      ],
+      "duration_ms": 289815,
+      "name": "Tacchini",
+      "url": "https://open.spotify.com/track/6YpeSOKGqvxO8M8K5SlsjQ"
     },
     {
       "added_at": "2026-07-09 22:02:42",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-07-09 22:02:42",
       "album": {
-        "name": "Tuttosport",
-        "url": "https://open.spotify.com/album/2kcM5zOApNGVIjKnXuI5Te"
-      },
-      "artists": [
-        {
-          "name": "Mind Enterprises",
-          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
-        }
-      ],
-      "duration_ms": 336120,
-      "name": "Tuttosport",
-      "url": "https://open.spotify.com/track/5Y2ckG8axbdGJ2HUzOe7Ce"
-    },
-    {
-      "added_at": "2026-07-09 22:02:42",
-      "album": {
         "name": "Viewpoint",
         "url": "https://open.spotify.com/album/2hGI6J931bSqHmpirIY9Fb"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 254973,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/7vOs0UNehTDMera8uv6fXh"
+    },
+    {
+      "added_at": "2026-07-09 22:02:42",
+      "album": {
+        "name": "Another World",
+        "url": "https://open.spotify.com/album/2s0nIaX5wcdvzuLj3ZWVnp"
+      },
+      "artists": [
+        {
+          "name": "Mind Enterprises",
+          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
+        }
+      ],
+      "duration_ms": 281167,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/7Ky4Cj8IhPxSYSl5nvka8B"
     },
     {
       "added_at": "2026-07-09 22:02:42",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-07-09 22:02:42",
       "album": {
-        "name": "Another World",
-        "url": "https://open.spotify.com/album/2s0nIaX5wcdvzuLj3ZWVnp"
-      },
-      "artists": [
-        {
-          "name": "Mind Enterprises",
-          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
-        }
-      ],
-      "duration_ms": 281167,
-      "name": "Another World",
-      "url": "https://open.spotify.com/track/7Ky4Cj8IhPxSYSl5nvka8B"
-    },
-    {
-      "added_at": "2026-07-09 22:02:42",
-      "album": {
         "name": "Tac..!",
         "url": "https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 236333,
       "name": "Balla Ba",
       "url": "https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs"
+    },
+    {
+      "added_at": "2026-07-09 22:02:42",
+      "album": {
+        "name": "Tuttosport",
+        "url": "https://open.spotify.com/album/2kcM5zOApNGVIjKnXuI5Te"
+      },
+      "artists": [
+        {
+          "name": "Mind Enterprises",
+          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
+        }
+      ],
+      "duration_ms": 336120,
+      "name": "Tuttosport",
+      "url": "https://open.spotify.com/track/5Y2ckG8axbdGJ2HUzOe7Ce"
     },
     {
       "added_at": "2026-07-09 22:02:42",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-07-09 22:02:42",
       "album": {
-        "name": "Ritmomento",
-        "url": "https://open.spotify.com/album/7p7sdHAqivaTObw64x5xoc"
-      },
-      "artists": [
-        {
-          "name": "Eternal Love",
-          "url": "https://open.spotify.com/artist/6RGEvodcU9SrSfrnvIOSTl"
-        }
-      ],
-      "duration_ms": 282946,
-      "name": "Luna Manga",
-      "url": "https://open.spotify.com/track/44YVqCyXdmfPgxykjnzUkw"
-    },
-    {
-      "added_at": "2026-07-09 22:02:42",
-      "album": {
         "name": "La vita nuova (Remixes)",
         "url": "https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT"
       },
@@ -1179,18 +1163,34 @@
     {
       "added_at": "2026-07-09 22:02:42",
       "album": {
-        "name": "Discamore",
-        "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
+        "name": "Ritmomento",
+        "url": "https://open.spotify.com/album/7p7sdHAqivaTObw64x5xoc"
       },
       "artists": [
         {
-          "name": "Dov'\u00e8 Liana",
-          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
+          "name": "Eternal Love",
+          "url": "https://open.spotify.com/artist/6RGEvodcU9SrSfrnvIOSTl"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Discamore",
-      "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
+      "duration_ms": 282946,
+      "name": "Luna Manga",
+      "url": "https://open.spotify.com/track/44YVqCyXdmfPgxykjnzUkw"
+    },
+    {
+      "added_at": "2026-07-09 22:02:42",
+      "album": {
+        "name": "Italiana Vol. 1",
+        "url": "https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "duration_ms": 259773,
+      "name": "Morir\u00f2 Per Te - 2001 Remaster",
+      "url": "https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy"
     },
     {
       "added_at": "2026-07-09 22:02:42",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2026-07-09 22:02:42",
       "album": {
-        "name": "Italiana Vol. 1",
-        "url": "https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD"
+        "name": "Discamore",
+        "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
       },
       "artists": [
         {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+          "name": "Dov'\u00e8 Liana",
+          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
         }
       ],
-      "duration_ms": 259773,
-      "name": "Morir\u00f2 Per Te - 2001 Remaster",
-      "url": "https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy"
+      "duration_ms": 224000,
+      "name": "Discamore",
+      "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
     },
     {
       "added_at": "2026-07-09 22:02:42",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-07-09 22:02:42",
       "album": {
+        "name": "Napoletana (Dance Rituals)",
+        "url": "https://open.spotify.com/album/00lUUPzAWmS99tE7tX5WQY"
+      },
+      "artists": [
+        {
+          "name": "Pellegrino",
+          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
+        }
+      ],
+      "duration_ms": 224564,
+      "name": "Napoletana - Dance Rituals",
+      "url": "https://open.spotify.com/track/6bEQ6Sr51Ij3p3NwlV8UwC"
+    },
+    {
+      "added_at": "2026-07-09 22:02:42",
+      "album": {
         "name": "Baciami",
         "url": "https://open.spotify.com/album/1Yfw5ZfDELSGZHbTvjWofP"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 176063,
       "name": "Baciami",
       "url": "https://open.spotify.com/track/0trp5xcRDZwQiL7zatx8gs"
-    },
-    {
-      "added_at": "2026-07-09 22:02:42",
-      "album": {
-        "name": "Napoletana (Dance Rituals)",
-        "url": "https://open.spotify.com/album/00lUUPzAWmS99tE7tX5WQY"
-      },
-      "artists": [
-        {
-          "name": "Pellegrino",
-          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
-        }
-      ],
-      "duration_ms": 224564,
-      "name": "Napoletana - Dance Rituals",
-      "url": "https://open.spotify.com/track/6bEQ6Sr51Ij3p3NwlV8UwC"
     }
   ],
   "unique_name": "Italo Disco",

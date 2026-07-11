@@ -4,7 +4,7 @@
 
 > a playlist without boundaries 💐 cover: Alewya
 
-1,063 songs - 2 day 6 hr 15 min
+1,064 songs - 2 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -564,6 +564,7 @@
 | [Little White Lie](https://open.spotify.com/track/3GPUrIPWpqIFdIqL8Spyla) | [LYVIA](https://open.spotify.com/artist/50lx8GGMkqblJrDSpaV0du) | [Little White Lie](https://open.spotify.com/album/6W1bujMekOCFTcmGD2rb88) | 2:27 | 2025-08-21 | 2025-10-10 |
 | [Living in Memory](https://open.spotify.com/track/0Oh0bIJoGD0KM48pEKDm3z) | [Pixie McCann](https://open.spotify.com/artist/2JT4el59Lvkj4FrhbzdBSu) | [Indigo, Vibrant and New](https://open.spotify.com/album/67nJ95a1e01XxgMjNZkXRN) | 3:42 | 2026-06-11 |  |
 | [LOLA](https://open.spotify.com/track/09rbDRGEfhvOVuvHvsRzuU) | [George Lyons](https://open.spotify.com/artist/42dK0eCb48P1tILqEV28mW) | [LOLA](https://open.spotify.com/album/5MZjzS9KWzLuRFJ9nf28l1) | 2:45 | 2025-06-12 | 2025-07-25 |
+| [London Tonight](https://open.spotify.com/track/0e04OZxrOF4VrDPFRPfXcO) | [Mercer](https://open.spotify.com/artist/3SWER2Np3pHA03J0MDHnV7) | [London Tonight](https://open.spotify.com/album/47M0OMLQ5G5AFgwqkKXDUf) | 3:25 | 2026-07-09 |  |
 | [Lonely](https://open.spotify.com/track/617iJNSnWz4F4qez3b304m) | [Malan](https://open.spotify.com/artist/4lTwsxnU59QAenYUzJteBl) | [Lonely](https://open.spotify.com/album/6DQrLzlM7XwodvAaZkK9P5) | 3:10 | 2025-10-16 | 2026-02-13 |
 | [Long Way Back](https://open.spotify.com/track/441Jf2ya0yn0L39am4qk8c) | [Speelburg](https://open.spotify.com/artist/0bn8cJWYNORYFzNUxTb8n1) | [Long Way Back](https://open.spotify.com/album/2BmUoSfihM32BuPmk76OLG) | 3:36 | 2024-09-20 | 2025-01-24 |
 | [Long Way Down](https://open.spotify.com/track/0Pj9URDzlYnU5tGRQuGwCm) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Long Way Down](https://open.spotify.com/album/32MExZHjMtIVKpZHl2SXAA) | 3:16 | 2026-01-16 | 2026-04-24 |

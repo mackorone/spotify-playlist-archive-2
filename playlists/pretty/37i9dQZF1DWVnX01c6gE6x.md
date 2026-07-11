@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 > Creadores que necesitas tener en el RADAR\. En la portada: <a href="spotify:show:24fUXERZ38CtyNbJtCnpa8">Finanzas que Valen </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,029 likes - 9 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,030 likes - 9 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,4 +18,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 | 8 | [Suegras dementes \| Las DESENCANTADAS podcast Ep\. 11](https://open.spotify.com/episode/3b9KTx2ktIRCuY4mY6oBJw) | [Las Desencantadas](https://open.spotify.com/show/1Rd6XqtD2PNcs599lgCaqn) | [Las Desencantadas](https://open.spotify.com/album/1Rd6XqtD2PNcs599lgCaqn) | 1:13:02 |
 | 9 | [ Secretos adolescentes \(mi mamá casi se desmaya\) \| Las Desencantadas Podcast Ep\. 10](https://open.spotify.com/episode/7LsxFrD4txS7jR0NWNNPCG) | [Las Desencantadas](https://open.spotify.com/show/1Rd6XqtD2PNcs599lgCaqn) | [Las Desencantadas](https://open.spotify.com/album/1Rd6XqtD2PNcs599lgCaqn) | 1:31:26 |
 
-Snapshot ID: `AAAAAO27EpNyYq1GxOLrICs3s8DQWmbl`
+Snapshot ID: `AAAAAD+LT2pJipcgRKznvDY3fP0IbrDr`

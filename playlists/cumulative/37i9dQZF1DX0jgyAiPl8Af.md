@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-941 songs - 1 day 16 hr 34 min
+948 songs - 1 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [In vino veritas](https://open.spotify.com/track/6BjN3um3X3aF0xI0i29NY1) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [New Amsterdam](https://open.spotify.com/album/10FZBKArCxME3V2PB8C818) | 3:07 | 2022-07-15 | 2022-10-29 |
 | [In Your Absence](https://open.spotify.com/track/32u8uyFdwGKNZtXsJg7kri) | [Joey Michels](https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ) | [In Your Absence](https://open.spotify.com/album/6tgJ6nnJLNbqHeSP1ct5Me) | 2:44 | 2026-03-30 |  |
 | [Inamorata](https://open.spotify.com/track/6o3KXEq44ThRSknUDcIXAT) | [Hugh Blake](https://open.spotify.com/artist/72kt4nY6XIqB3gBpkdB83D) | [Inamorata](https://open.spotify.com/album/3bCmccXAf7WgYZf6Gm8ZYa) | 2:29 | 2023-03-24 | 2024-05-25 |
+| [Inner Peace](https://open.spotify.com/track/2ZONkrczm3c4qy2Huxd66c) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [Inner Peace](https://open.spotify.com/album/5rks39WTC4PLzzwvRAw38m) | 2:05 | 2026-07-10 |  |
 | [Intertwined](https://open.spotify.com/track/3oni7vtcnPPUWvnT4zRfQF) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Lighthouse](https://open.spotify.com/album/0Y6A0WTmWoDys4X4okDmq4) | 2:20 | 2023-06-02 | 2023-06-04 |
 | [Intimation](https://open.spotify.com/track/1pPsz87YEWRZKgCLSPKyoL) | [Ron Well](https://open.spotify.com/artist/3SEmNWyAadupLPO2WOcw0W) | [Intimation](https://open.spotify.com/album/3zKYzylFhenfGuKNaNfOB6) | 1:24 | 2022-08-19 | 2023-05-26 |
 | [Into Motion](https://open.spotify.com/track/0bu1XZGQadPRJLf8F7hv6p) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Into Motion](https://open.spotify.com/album/1ZcPD4YUAnPcbVUgGOpTz4) | 2:37 | 2024-03-29 | 2025-10-01 |
@@ -539,6 +540,7 @@
 | [Morning Dew](https://open.spotify.com/track/0dhPf7uQVTl63JOFCaYsJD) | [Dorothy Laddland](https://open.spotify.com/artist/4faFJj7Vro57tVaN6Q8p3I) | [Morning Dew](https://open.spotify.com/album/1ycPHmmIrXmVYkpdOtKQU9) | 1:52 | 2023-05-26 | 2023-06-16 |
 | [Morning flight](https://open.spotify.com/track/6cCJDEcjnMC88bJWpfkGIz) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Morning flight](https://open.spotify.com/album/7DpdN294vUmSSPI9EEkv3Q) | 2:18 | 2025-03-10 |  |
 | [Morongo Basin](https://open.spotify.com/track/2PDKauWWq2aICXQ4jlzA53) | [Carlo Castilla](https://open.spotify.com/artist/3mI0smMNTM9eIfd4EHXYLR) | [Morongo Basin](https://open.spotify.com/album/50yIELzJpSucPRD1OEoDbX) | 2:37 | 2023-08-10 | 2024-06-01 |
+| [Mountain Ridge](https://open.spotify.com/track/4rOZKpuzD3ZqJLCMBrWRYL) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Mountain Ridge](https://open.spotify.com/album/75LOlRTFFrU644Xu50wgrX) | 2:00 | 2026-07-10 |  |
 | [Mountain Train](https://open.spotify.com/track/56PyPh8da7AnBnHkSvICfG) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Mountain Train](https://open.spotify.com/album/6WPjFsCNnKId7wQkP9RDlg) | 2:46 | 2021-12-08 | 2022-11-18 |
 | [Mozzafiato](https://open.spotify.com/track/6d3696qgdzrKOr6vz3YrGA) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Mozzafiato](https://open.spotify.com/album/3Jp2IlVVqic8H5Gm6U5Q6Q) | 2:08 | 2022-06-24 | 2022-11-18 |
 | [Mudanças](https://open.spotify.com/track/2DGPgil0GkkDTuLzTtAU6V) | [Ogden Rhone](https://open.spotify.com/artist/0EBhni5PCPCZpF93k9chyo) | [De Nieuwe Kerk](https://open.spotify.com/album/1aezKfZ0mXc76tSl9VSCTt) | 2:56 | 2021-12-08 | 2022-07-29 |
@@ -611,6 +613,7 @@
 | [Over Time...](https://open.spotify.com/track/4d3hQ4hknCGdOmIe3AyhUp) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Over Time...](https://open.spotify.com/album/4PNu7Ofbxy2n0Cb7b5slpM) | 2:26 | 2024-09-25 | 2025-04-08 |
 | [Pacifiquement](https://open.spotify.com/track/5Ge0efczeqLMSLW7PuYezG) | [Antoine Gasquet](https://open.spotify.com/artist/1fXaIo98PufpTCJsXLtRVt) | [Pacifiquement](https://open.spotify.com/album/3zmOaoYfYtYtsZXPYJKmmn) | 2:26 | 2021-12-08 | 2024-04-05 |
 | [Pampas](https://open.spotify.com/track/69mjMThxmO77svcQG5jv9s) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Pampas](https://open.spotify.com/album/24ZUuBk8JknWaAalkgC2ZO) | 2:43 | 2023-09-29 | 2024-07-18 |
+| [Paper Airplane](https://open.spotify.com/track/6olkDzNrsniHTBIyGA4JZe) | [Nayeem Mayah](https://open.spotify.com/artist/5LIN5eTXMQmr45HFXdfcwi) | [Paper Airplane](https://open.spotify.com/album/66qpyOMPqpWfhpXfBkI18c) | 2:10 | 2026-07-10 |  |
 | [Paper Hearts](https://open.spotify.com/track/5LgSiLbrmYEiN78RZgfGah) | [Bo Svensson](https://open.spotify.com/artist/6zWJx2jK0mRPBJEWMWyGTQ) | [Paper Hearts](https://open.spotify.com/album/1ouRgWmiR127yR5iyYmeY8) | 2:23 | 2026-03-30 |  |
 | [Parallel Thoughts](https://open.spotify.com/track/5vVlRB1LTfaOBrl1Nihr0S) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Parallel Thoughts](https://open.spotify.com/album/6vDPs1iMuGuQKy0LqAZG9H) | 2:18 | 2024-09-25 |  |
 | [Passage](https://open.spotify.com/track/5QpR40FJQcO0dU4ygdQuIm) | [Carol Poole](https://open.spotify.com/artist/02I1DT5QQhN18VH7MYEsSv) | [Passage](https://open.spotify.com/album/6eVfefPBUUxftPxKDlxLjE) | 2:30 | 2021-12-08 | 2022-06-17 |
@@ -849,6 +852,7 @@
 | [This Time Tomorrow](https://open.spotify.com/track/5acLw8ejNDk15x0qr4ys9D) | [Evergreen Dream](https://open.spotify.com/artist/0imX3QCdp1ozlEiyXBtiFy) | [This Time Tomorrow](https://open.spotify.com/album/4oj20OCf2PsnZYOniBjacV) | 2:09 | 2022-10-28 | 2023-05-06 |
 | [This Time Tomorrow](https://open.spotify.com/track/6OpC8QfhcsesgXzZvm8gqX) | [Evergreen Dream](https://open.spotify.com/artist/0imX3QCdp1ozlEiyXBtiFy) | [This Time Tomorrow](https://open.spotify.com/album/1YtMptZExJhRBXGaHic3Mh) | 2:09 | 2022-10-28 | 2022-11-04 |
 | [This Yellow Light](https://open.spotify.com/track/4kctoVJ5NcwQxD8MwKcsa4) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [This Yellow Light](https://open.spotify.com/album/5H1LeHCf7tV7ydiInjejnv) | 2:20 | 2025-08-18 |  |
+| [Thomas At The Garden](https://open.spotify.com/track/3iTywFmuhCHPeqiN8hp8u9) | [Maude Clonet](https://open.spotify.com/artist/65bMWcpcLJpFbCTLgusJId) | [Thomas At The Garden](https://open.spotify.com/album/2IRvmz5pi5tm7ep3A8Y7rc) | 3:16 | 2026-07-10 |  |
 | [Through Space And Time](https://open.spotify.com/track/7ntTUba89GDgmTiIDaF9FU) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Through Space And Time](https://open.spotify.com/album/43ZdDQgeDHozcQIuojFdBR) | 2:33 | 2024-09-03 | 2025-11-11 |
 | [Through the canyon](https://open.spotify.com/track/7IfuYpqyqgoXHEoaQOmzZg) | [Feran Ali](https://open.spotify.com/artist/2Gpe2ttb0vi4UU3fT5h92j) | [through the canyon](https://open.spotify.com/album/3dbAktoedWmlxLDXffMk0O) | 3:36 | 2021-12-08 | 2022-07-08 |
 | [Through The Clouds](https://open.spotify.com/track/4iAdXL69NTrfKpBO8os3uZ) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Learn to Fly](https://open.spotify.com/album/329j1EFas4BUDJaJLz0k5l) | 3:01 | 2021-12-08 | 2022-02-16 |
@@ -858,6 +862,7 @@
 | [Tomorrow's Dream](https://open.spotify.com/track/2CCN2biC5thrngQtYUlSOh) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Tomorrow's Dream](https://open.spotify.com/album/375tL35zwCzLsuLSkSpGpG) | 3:00 | 2025-03-05 |  |
 | [Toucher mon coeur](https://open.spotify.com/track/3hl7B9bDfLmDd32hh3pD4Y) | [Bonno Neo](https://open.spotify.com/artist/5nBFfdEKdggIFXDXiWs8lf) | [Brouillard épais](https://open.spotify.com/album/1hkUIy6TCA1stwWpOvIB1A) | 2:23 | 2022-11-25 | 2024-06-08 |
 | [Toujours](https://open.spotify.com/track/4KcEPxhVRj82HNQkZz0fTW) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Toujours](https://open.spotify.com/album/676ljNNDqK54CNbN0NOayI) | 3:11 | 2023-09-08 | 2026-03-05 |
+| [Tranquil](https://open.spotify.com/track/23WvQdpdYAdI5LW9Cg9frd) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Tranquil](https://open.spotify.com/album/75JrSHwYVc6jmTmZpv2T9Q) | 2:39 | 2026-07-10 |  |
 | [Tranquille](https://open.spotify.com/track/2aSvGgyhVRgQYDzhBbWJ51) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Tranquille](https://open.spotify.com/album/6QYtL1c2hj8S0EcBpFbNYP) | 2:50 | 2021-12-08 | 2023-11-24 |
 | [Tranquillité](https://open.spotify.com/track/1IY7Sd93dqmjFu0Kb48Z90) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Tranquillité](https://open.spotify.com/album/6gC38WXTRW3FR65ThRvt6p) | 2:35 | 2023-08-10 | 2024-04-05 |
 | [Translucent](https://open.spotify.com/track/5JTQZAulgYZHdYvsGzIPpr) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Translucent](https://open.spotify.com/album/52GxEBUMTXix3i2AhCaFVz) | 3:16 | 2024-01-12 |  |
@@ -868,6 +873,7 @@
 | [Tropea](https://open.spotify.com/track/2KjlaQdk4M6h7WPHCCOsjk) | [Giovanni Benatti](https://open.spotify.com/artist/6C9bWJOawsAAYTfz5xbrkq) | [Tropea](https://open.spotify.com/album/61us2aGdGHCB7SOlJe7Qsj) | 1:57 | 2023-03-24 | 2023-08-19 |
 | [Two on The Aisle](https://open.spotify.com/track/7dIdBLlE297mJZHjnfpI5i) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Two on The Aisle](https://open.spotify.com/album/58oYLdrSUZgDyMjOcu2dMu) | 2:42 | 2025-11-10 |  |
 | [Unbound](https://open.spotify.com/track/45o2hX8j0DBnSBOUW07z3d) | [Esmeralda Avery](https://open.spotify.com/artist/2EjRdyNA6dC2NAxnP1R2z8) | [Unbound](https://open.spotify.com/album/4fCVgwzgbeGvQXiBUrMzpH) | 1:54 | 2023-10-27 | 2024-02-23 |
+| [Under the Soft Snow](https://open.spotify.com/track/4L6bQObWV6KMboL9Yd4bpa) | [Roland Ledell](https://open.spotify.com/artist/1gAlu9RMvhm5sLWMLK8H7i) | [Under the Soft Snow](https://open.spotify.com/album/243moPK7dmI5DOoc7rbGRA) | 2:39 | 2026-07-10 |  |
 | [Under The Sun](https://open.spotify.com/track/0phG3SYvbnB6jaGv0No5XW) | [Ansel Leo](https://open.spotify.com/artist/0ZGzQZpKm8vUaLk7QooDgq) | [Under The Sun](https://open.spotify.com/album/5TMmO5vxumbNfkVNzCGUYy) | 2:36 | 2026-05-08 |  |
 | [Unforced](https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [Unforced](https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ) | 2:21 | 2021-12-08 | 2022-07-01 |
 | [Until You](https://open.spotify.com/track/0nG07gVZWViLiiUncaCG3h) | [Lexie Baxter](https://open.spotify.com/artist/5kdRX0bJREG0oR4IkhhTrv) | [Until You](https://open.spotify.com/album/1JHu4FXVAq8e0vqRUCdwSu) | 2:26 | 2023-04-21 | 2024-06-01 |
@@ -938,6 +944,7 @@
 | [Wishful Thinking](https://open.spotify.com/track/32jAfJ9rlQRGfFISloeh9m) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Wishful Thinking](https://open.spotify.com/album/23wAvlEfME0Hg9UYDRTgx2) | 2:28 | 2023-01-13 | 2023-09-08 |
 | [Wishing It Was So](https://open.spotify.com/track/144IEqxttGI6l5MKryGZsL) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Wishing It Was So](https://open.spotify.com/album/1Gf2koBhgOt4z4QaWYVuAU) | 2:41 | 2022-07-01 | 2024-06-08 |
 | [Wistful Night](https://open.spotify.com/track/2UkU2CEKN1Td4C9F9hpmXQ) | [Suno Light](https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h) | [Wistful Night](https://open.spotify.com/album/0xulObkLw0qNGAxzwDkjeg) | 3:02 | 2024-08-13 |  |
+| [With A Song](https://open.spotify.com/track/7KyEc1vuyGeAyRHQDWwLQT) | [Quinn Sage](https://open.spotify.com/artist/4k3ooZfSTsaIT5DPGL2dhz) | [With A Song](https://open.spotify.com/album/0gk1ObRcuNU5dlGz4bxY4S) | 2:34 | 2026-07-10 |  |
 | [With Languor](https://open.spotify.com/track/7wcUEnW420sjGIpD5XZTvK) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 3:19 | 2024-02-02 |  |
 | [Within the Shadows](https://open.spotify.com/track/1RJtXa2TkS5ikLxU6dFBhc) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Within the Shadows](https://open.spotify.com/album/4prfX6I5qZUD92xTIG2WpZ) | 2:38 | 2024-07-18 |  |
 | [Wonderland Is Real](https://open.spotify.com/track/7jhgZmvTTPMj20FGQocws1) | [Colton Rhodes](https://open.spotify.com/artist/2s0UVTXzeFVuHYKKYcJNbk) | [Wonderland Is Real](https://open.spotify.com/album/2I1OftcagAk67igxS6Przx) | 3:57 | 2022-10-07 | 2023-03-10 |

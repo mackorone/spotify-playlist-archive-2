@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > 🇲🇦 أحسن أغاني البوب المغربي
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,559 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,577 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 9 | [SATA 9TTALA](https://open.spotify.com/track/2CxG2gBTQog41ZLJuFj5jo) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 3:33 |
 | 10 | [Ghir Ana](https://open.spotify.com/track/5pPBbSleU1nnknHrGqADep) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1), [Bachir Zairi](https://open.spotify.com/artist/6W4d4DSr9BHJ54EXjy957u) | [Ghir Ana](https://open.spotify.com/album/5BiUm5dEENGHri4Wu0XfYj) | 2:51 |
 | 11 | [Loca](https://open.spotify.com/track/2QVScxNp2qLnKflRftE2Kx) | [Lakamura](https://open.spotify.com/artist/1ocBu5jVKJJ6xW0Sw0r87b) | [Loca](https://open.spotify.com/album/531r0snKCGKu4Eb6yNMsNS) | 2:28 |
-| 12 | [La La / لا لا](https://open.spotify.com/track/10j44BWMnYtr2JnZcxJu7v) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [La La / لا لا](https://open.spotify.com/album/33TQa6td5uJtBHVK1hsGzg) | 2:36 |
+| 12 | [La La \- لا لا](https://open.spotify.com/track/10j44BWMnYtr2JnZcxJu7v) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [La La \- لا لا](https://open.spotify.com/album/33TQa6td5uJtBHVK1hsGzg) | 2:36 |
 | 13 | [KALIMAT](https://open.spotify.com/track/1JxvJa1Eu2NUM8DChk79lp) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [KALIMAT](https://open.spotify.com/album/4m1HeXVka3qZXRiEz792br) | 3:12 |
 | 14 | [Belbala](https://open.spotify.com/track/4Oagap5XW3qs8J9Kkmr855) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Belbala](https://open.spotify.com/album/6AmmvJiN4To7amchRSxEKm) | 2:39 |
 | 15 | [Jatni S3iba](https://open.spotify.com/track/5UL5GQIlwzmmcXQJlDUDcL) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Jatni S3iba](https://open.spotify.com/album/1r0FGLUWSda2QHqYdhc5Od) | 3:01 |

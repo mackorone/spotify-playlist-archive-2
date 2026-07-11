@@ -841,6 +841,28 @@
     },
     {
       "album": {
+        "name": "Ghost in the Frame",
+        "url": "https://open.spotify.com/album/4WeKqfgARZQxuU33cpqjww"
+      },
+      "artists": [
+        {
+          "name": "Jesse L. Martin",
+          "url": "https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I"
+        },
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200713,
+      "name": "Ghost in the Frame",
+      "url": "https://open.spotify.com/track/2JqrmLQPpIrOTwY8WEiPI8"
+    },
+    {
+      "album": {
         "name": "Long Distance (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G"
       },
@@ -1494,7 +1516,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 145546,
       "name": "Like the Sea Is Breathing",
       "url": "https://open.spotify.com/track/1RXuoOVAufKpauBFcLy8Bt"

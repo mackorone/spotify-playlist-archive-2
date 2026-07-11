@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "El Hijo Del Palenque",
+        "url": "https://open.spotify.com/album/2nVMx0p4RXPuCRKiOelIOX"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189053,
+      "name": "El Hijo Del Palenque",
+      "url": "https://open.spotify.com/track/7rwYjq4vIxIXKYwRX4Hl1l"
+    },
+    {
+      "album": {
         "name": "Rondas Norte\u00f1as",
         "url": "https://open.spotify.com/album/4i6mDtb1PJbrAYNWCHG2zL"
       },
@@ -574,7 +592,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 190705,
       "name": "El Hijo del Palenque",
       "url": "https://open.spotify.com/track/3h242j8N8kczxVip8BiMB1"
@@ -995,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Cazador de Asesinos",
+        "url": "https://open.spotify.com/album/4irooFudmMNZGIKIAYdQmk"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192680,
+      "name": "La Tragedia de Rosita",
+      "url": "https://open.spotify.com/track/3Zu8YsXSO8AeOYTAIp7ntv"
+    },
+    {
+      "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/5G1p919anXA90nYTb8W4k7"
       },
@@ -1006,7 +1042,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 192920,
       "name": "La Tragedia de Rosita",
       "url": "https://open.spotify.com/track/1jG0m4TKRb7ipRXhHnUzXR"
@@ -2068,10 +2104,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 169769,
       "name": "Una Lagrima y Un Recuerdo",
       "url": "https://open.spotify.com/track/32wLxgQY6227VTkhZQaBor"
+    },
+    {
+      "album": {
+        "name": "Una L\u00e1grima y Un Recuerdo",
+        "url": "https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167933,
+      "name": "Una L\u00e1grima y Un Recuerdo",
+      "url": "https://open.spotify.com/track/1MeNluJL3QMoCuyaMUIpww"
     },
     {
       "album": {

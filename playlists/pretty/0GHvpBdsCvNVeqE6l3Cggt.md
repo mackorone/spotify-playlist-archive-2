@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,292 likes - 48 songs - 3 hr 1 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,292 likes - 49 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,6 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 46 | [Torn Apart](https://open.spotify.com/track/51OI5w469NmM9ryTo4NUnQ) | [Elastic Skies](https://open.spotify.com/artist/4jkUxKT4fAB0Dl63hZqiNc) | [II](https://open.spotify.com/album/3jEGsiUz61h7REHkE2cMJt) | 2:18 |
 | 47 | [I Have Myself](https://open.spotify.com/track/23VrT5eYArnddWOUZNwxVK) | [Brave The Storm](https://open.spotify.com/artist/6DPd6AkhKbj2qYKHULOU77), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [I Have Myself](https://open.spotify.com/album/34v9wtjbxHZ1qz4SY6UbPl) | 3:07 |
 | 48 | [Lost And Found](https://open.spotify.com/track/7mppllyJK82vQ7MlSJxjvc) | [Punch 11](https://open.spotify.com/artist/1LuxznMngBLfxBab8QSvI0) | [Lost And Found](https://open.spotify.com/album/4W8kpUIeh0Rj8nxOgdTabC) | 2:19 |
+| 49 | [Oops!](https://open.spotify.com/track/4WyQyVjkmKTfx2R5cM0utK) | [Nessa Blake](https://open.spotify.com/artist/2h0XRI0fBH4bZcTeNzVbpv) | [Oops!](https://open.spotify.com/album/6XF8BILHXtmvZKLmqWcSfR) | 2:37 |
 
-Snapshot ID: `AAAkS8Z3Us2mPLBJ6GToX6Vfsg7Uvdh+`
+Snapshot ID: `AAAkTGlU1Tp4mi4heYXz2ykWXq/Pxzon`

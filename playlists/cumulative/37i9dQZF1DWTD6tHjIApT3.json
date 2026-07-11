@@ -2567,6 +2567,24 @@
     },
     {
       "album": {
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/5vBL2UwpiOUtBUEWD4RA5F"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275973,
+      "name": "Amore",
+      "url": "https://open.spotify.com/track/5HMuyrjj7GrQPyDE7PGE9K"
+    },
+    {
+      "album": {
         "name": "An Easy Girl",
         "url": "https://open.spotify.com/album/6J4VeS0MQVmhTJ4FLjdEqa"
       },
@@ -41965,6 +41983,24 @@
     },
     {
       "album": {
+        "name": "\u300c\u3044\u3064\u304b\u3061\u3083\u3093\u3068\u3002\u300d",
+        "url": "https://open.spotify.com/album/2xVnBZ3RrltT44pum4lRmB"
+      },
+      "artists": [
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256573,
+      "name": "\u300c\u3044\u3064\u304b\u3061\u3083\u3093\u3068\u3002\u300d",
+      "url": "https://open.spotify.com/track/73lvSTyOiahOWWxjwtcyXI"
+    },
+    {
+      "album": {
         "name": "\u671d\u9732\u306f\u6728\u6f0f\u308c\u65e5\u306b\u6eb6\u3051\u3066",
         "url": "https://open.spotify.com/album/3LfOHhwP8Uh3t9rcdcb2Tr"
       },
@@ -42534,7 +42570,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 197066,
       "name": "\u3042\u308f",
       "url": "https://open.spotify.com/track/6O0LyEm9dwtPlG3KsNu6Ao"
@@ -49184,7 +49220,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 180755,
       "name": "\u30ad\u30e3\u30ea\u30fc\u30d0\u30c3\u30b0",
       "url": "https://open.spotify.com/track/1h0H9Hp0jZvZh1MuRWBk9J"

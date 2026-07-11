@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Jasiel Nu\u00f1ez en la tarima. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. T.O.N.A en la tarima. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -5444,6 +5444,24 @@
       "duration_ms": 226666,
       "name": "De Roll",
       "url": "https://open.spotify.com/track/5yvRLSBdxhhVCZv9MvGKhE"
+    },
+    {
+      "album": {
+        "name": "De Todos Modos",
+        "url": "https://open.spotify.com/album/1U9wMvJt0SDSLvlj7j6skD"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153428,
+      "name": "De Todos Modos",
+      "url": "https://open.spotify.com/track/6LMBX9i51zvjldytTBwv9c"
     },
     {
       "album": {
@@ -11654,7 +11672,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 198900,
       "name": "Luz",
       "url": "https://open.spotify.com/track/0IzFs3MJUBc4viBhAnrmMl"
@@ -18908,7 +18926,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 180874,
       "name": "The Cypher Effect",
       "url": "https://open.spotify.com/track/6l4WAOBbANGA52gIZ3iRFj"
@@ -19795,6 +19813,32 @@
     },
     {
       "album": {
+        "name": "Ultima Cena",
+        "url": "https://open.spotify.com/album/0sYMdf0WUvlhiXMpZpvLDf"
+      },
+      "artists": [
+        {
+          "name": "T.O.N.A",
+          "url": "https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK"
+        },
+        {
+          "name": "PAVEL",
+          "url": "https://open.spotify.com/artist/73MIElBc2EabbqXIWffWyv"
+        },
+        {
+          "name": "SwaggGlock",
+          "url": "https://open.spotify.com/artist/0TQ494EpT0cwX3JWh87nOr"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173461,
+      "name": "Ultima Cena",
+      "url": "https://open.spotify.com/track/3p8OrjTiIeRblUlaoh5E6z"
+    },
+    {
+      "album": {
         "name": "Umami",
         "url": "https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m"
       },
@@ -20280,6 +20324,28 @@
       "duration_ms": 237439,
       "name": "Vida Callejera",
       "url": "https://open.spotify.com/track/2E3dGYCkGR30v8UjJANf04"
+    },
+    {
+      "album": {
+        "name": "Vida Grifa",
+        "url": "https://open.spotify.com/album/1nbWI0cSxFzXHqspDobMBA"
+      },
+      "artists": [
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        },
+        {
+          "name": "Mickey Ojo Rojo Sg",
+          "url": "https://open.spotify.com/artist/0oxYBzQwBy2nmTquzJ447r"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212998,
+      "name": "Vida Grifa",
+      "url": "https://open.spotify.com/track/5LRayfyzuwFUBo6OKGzgNt"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "The best of Pinoy hip-hop. KALYE Natin 'To. Cover: Flow G",
+  "description": "The best of Pinoy hip-hop. KALYE Natin 'To. Cover: kiddotin",
   "name": "KALYE",
   "tracks": [
     {
@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 180490,
       "name": "Banana",
       "url": "https://open.spotify.com/track/3iSa7VCFrQiaG2SUqHeaYw"
@@ -3536,7 +3536,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 171404,
       "name": "Hindi Pwede",
       "url": "https://open.spotify.com/track/0Mmy4nQ67MIposiYplapb9"
@@ -3620,6 +3620,24 @@
       "duration_ms": 178732,
       "name": "Huli Na",
       "url": "https://open.spotify.com/track/3tOxw3kjwNNfzENNoVqD2E"
+    },
+    {
+      "album": {
+        "name": "LOST FILES",
+        "url": "https://open.spotify.com/album/0MDAXWNxNoC6nHNXL9t0S6"
+      },
+      "artists": [
+        {
+          "name": "Nateman",
+          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177662,
+      "name": "Huling Limang Daan",
+      "url": "https://open.spotify.com/track/3tf69rk6dSjo0aRpsV7jPL"
     },
     {
       "album": {
@@ -4600,6 +4618,24 @@
       "duration_ms": 200774,
       "name": "Legit Check",
       "url": "https://open.spotify.com/track/6Z1VpaxkZhn4Npmqu0Kelg"
+    },
+    {
+      "album": {
+        "name": "Leon (Ka)",
+        "url": "https://open.spotify.com/album/0GZ0anWavQubIILRMTMsLY"
+      },
+      "artists": [
+        {
+          "name": "Ez Mil",
+          "url": "https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198969,
+      "name": "Leon (Ka)",
+      "url": "https://open.spotify.com/track/643JRTr9lKVrOmgOTcUdEv"
     },
     {
       "album": {
@@ -6302,7 +6338,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 178604,
       "name": "Panis ka boy",
       "url": "https://open.spotify.com/track/7IhDoHptmogxTg5aTMgHWd"
@@ -7593,6 +7629,28 @@
     },
     {
       "album": {
+        "name": "Sinasabi Ko Na Nga Ba",
+        "url": "https://open.spotify.com/album/455rGDoGJi0Y1lTHx2BDkz"
+      },
+      "artists": [
+        {
+          "name": "Saint Bino",
+          "url": "https://open.spotify.com/artist/2SxlcU4oJ9sl2uh7n5FEIY"
+        },
+        {
+          "name": "Clien",
+          "url": "https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168312,
+      "name": "Sinasabi Ko Na Nga Ba",
+      "url": "https://open.spotify.com/track/5paN5BIEU70EPHa1XwkuaY"
+    },
+    {
+      "album": {
         "name": "Since Day One",
         "url": "https://open.spotify.com/album/5mLe2QlFKmqeKJb6W4aJZI"
       },
@@ -8296,7 +8354,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 189512,
       "name": "Tapos Na Yung Atin",
       "url": "https://open.spotify.com/track/4Z2v9QegxCJ8Kgvlb0Thpr"
@@ -8350,7 +8408,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 157159,
       "name": "Tate",
       "url": "https://open.spotify.com/track/3wRv7hSIGHO335Li0ejFUu"
@@ -8648,7 +8706,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 180740,
       "name": "TRIGGER FINGER",
       "url": "https://open.spotify.com/track/6nkEi7KOmRa6vz3Cbd63fG"
@@ -8702,7 +8760,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 179076,
       "name": "TUMATAK",
       "url": "https://open.spotify.com/track/1btvfzHy40Lmg49DZ1fdZL"
@@ -8820,6 +8878,36 @@
       "duration_ms": 200816,
       "name": "TYPE KO",
       "url": "https://open.spotify.com/track/4NyMaEIaJGOxVeKkxghSqN"
+    },
+    {
+      "album": {
+        "name": "ULAP",
+        "url": "https://open.spotify.com/album/3u4bBpOV8OOSCAcZhcgP6c"
+      },
+      "artists": [
+        {
+          "name": "Jrldm",
+          "url": "https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB"
+        },
+        {
+          "name": "Guddhist Gunatita",
+          "url": "https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL"
+        },
+        {
+          "name": "Alisson Shore",
+          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
+        },
+        {
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290249,
+      "name": "ULAP",
+      "url": "https://open.spotify.com/track/0eS0KVhvXkklVVzdhmOrHp"
     },
     {
       "album": {
@@ -9132,7 +9220,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 145495,
       "name": "WALANG KAPALIT",
       "url": "https://open.spotify.com/track/1CwZCqkwP2HGTNksWnCrIX"
@@ -9400,7 +9488,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 223499,
       "name": "YASAPWAY",
       "url": "https://open.spotify.com/track/2zLUK0PjtsUUcdk07FDbcv"

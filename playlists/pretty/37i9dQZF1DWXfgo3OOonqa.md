@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,499 likes - 100 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,502 likes - 100 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bestfriend](https://open.spotify.com/track/2uy44BohFKspxfdfFZBrDl) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Bestfriend](https://open.spotify.com/album/3j8BO6g8AJmwDxv38IvpM5) | 2:00 |
+| 1 | [Bestfriend](https://open.spotify.com/track/2uy44BohFKspxfdfFZBrDl) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Bestfriend](https://open.spotify.com/album/3j8BO6g8AJmwDxv38IvpM5) | 2:00 |
 | 2 | [ANDAS](https://open.spotify.com/track/770laZZFCvuWI23IzOoiHo) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6), [Versa](https://open.spotify.com/artist/0bYamnXdEteT6qKPrcYWFI) | [BARETTA](https://open.spotify.com/album/1oQFPbWMtwh3CfhbGSDjzT) | 2:22 |
 | 3 | [pompeii](https://open.spotify.com/track/5Zoojk4bL1IuEtIXMAPcQz) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [pompeii](https://open.spotify.com/album/7EA5RpqKTYnM3LL1Hg4Khp) | 2:42 |
 | 4 | [ROBIN HOOD](https://open.spotify.com/track/6Ft3SAvmGhsyTA7M0vAcG9) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [ROBIN HOOD](https://open.spotify.com/album/3m9aDT63ak9jHsfdKOcz6z) | 2:15 |

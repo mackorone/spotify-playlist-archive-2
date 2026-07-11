@@ -1,12 +1,12 @@
 {
   "description": "This is The Beach Boys. The essential tracks, all in one playlist.",
-  "num_followers": 342773,
+  "num_followers": 342794,
   "original_name": "This Is The Beach Boys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak2TAAAAAAAU6awWDjxGvAqeO9DdLYZH",
+  "snapshot_id": "ak7kgAAAAADF5RrJOj0IVDFegroHv7nT",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20/20 (Remastered)",
-        "url": "https://open.spotify.com/album/2vFDenbFedYVMOwDqTiw82"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 157293,
-      "name": "I Can Hear Music",
-      "url": "https://open.spotify.com/track/1hcMfYTsRTC4hIKbfosxjz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Surfin' Safari (Remastered)",
         "url": "https://open.spotify.com/album/6gcXDGhzGcCBY4dLzEgNFB"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 126640,
       "name": "Surfin' Safari - Mono/Remastered 2001",
       "url": "https://open.spotify.com/track/4kIYRtgbZyPzAWSFLdlajW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20/20 (Remastered)",
+        "url": "https://open.spotify.com/album/2vFDenbFedYVMOwDqTiw82"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 157293,
+      "name": "I Can Hear Music",
+      "url": "https://open.spotify.com/track/1hcMfYTsRTC4hIKbfosxjz"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "Forever - Remastered 2009",
-      "url": "https://open.spotify.com/track/74D87XkpPozTefTJaGs1oH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Smile Sessions",
         "url": "https://open.spotify.com/album/5SKIMMI6ilJTGOLd69Q9aM"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 255400,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/6aU6a9tdn2vHhnPGlboFZX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 162293,
+      "name": "Forever - Remastered 2009",
+      "url": "https://open.spotify.com/track/74D87XkpPozTefTJaGs1oH"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 124146,
-      "name": "Dance, Dance, Dance",
-      "url": "https://open.spotify.com/track/107Rm04DaGWg6GqFILZ5W5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Beach Boys Today! (Remastered)",
         "url": "https://open.spotify.com/album/1xPtXzS5yCbDAqC7pxRCaF"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 167266,
       "name": "Please Let Me Wonder - Remastered",
       "url": "https://open.spotify.com/track/0rttThNJX5cZLtQUASghA7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 124146,
+      "name": "Dance, Dance, Dance",
+      "url": "https://open.spotify.com/track/107Rm04DaGWg6GqFILZ5W5"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 131520,
-      "name": "Be True To Your School - Remastered",
-      "url": "https://open.spotify.com/track/0Tc7E6YsVc87M2op6fmFwI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Summer Long (Mono & Stereo)",
         "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 114333,
       "name": "Little Honda (Stereo)",
       "url": "https://open.spotify.com/track/1QL2yb3tD2zF5I1NAYH3mD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 131520,
+      "name": "Be True To Your School - Remastered",
+      "url": "https://open.spotify.com/track/0Tc7E6YsVc87M2op6fmFwI"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 149013,
-      "name": "Rock And Roll Music - Remastered 2012",
-      "url": "https://open.spotify.com/track/0nmfRjxDxOhs2CggxvGPHS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Summer Long (Mono & Stereo)",
         "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 128973,
       "name": "All Summer Long (Stereo)",
       "url": "https://open.spotify.com/track/7Dq4DIHxstJPuoZAkP4885"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 149013,
+      "name": "Rock And Roll Music - Remastered 2012",
+      "url": "https://open.spotify.com/track/0nmfRjxDxOhs2CggxvGPHS"
     },
     {
       "added_at": null,

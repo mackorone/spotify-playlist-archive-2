@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Agarren su pareja que es momento de mover ese botecito. En portada Los Morales, De Parranda \ud83e\udd20",
+  "description": "Agarren su pareja que es momento de mover ese botecito. En portada Grupo Efecto TJ \ud83e\udd20",
   "name": "Cumbia Norte\u00f1a",
   "tracks": [
     {
@@ -379,6 +379,24 @@
     },
     {
       "album": {
+        "name": "Bandidas",
+        "url": "https://open.spotify.com/album/2kx9UT2ztkxTbswUi9O3yM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Efecto TJ",
+          "url": "https://open.spotify.com/artist/6nrrBRDAQY73LoX0kB6tJS"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "Bandidas",
+      "url": "https://open.spotify.com/track/3SroxZM38FVMw2G1Ggia2P"
+    },
+    {
+      "album": {
         "name": "BB PA DONDE",
         "url": "https://open.spotify.com/album/6Bwj69yLgbNqzDJgIhKBNR"
       },
@@ -724,7 +742,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 175162,
       "name": "Confidencial",
       "url": "https://open.spotify.com/track/41UeD03DM1lLtfJB2I7gsg"
@@ -1543,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "La Caminera",
+        "url": "https://open.spotify.com/album/109Ug3e64k9nFH9JS2oZR8"
+      },
+      "artists": [
+        {
+          "name": "Kiko Montalvo",
+          "url": "https://open.spotify.com/artist/3NAOqotjjzGdJS7yKglv8e"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155534,
+      "name": "La Caminera",
+      "url": "https://open.spotify.com/track/5L2XRjYSnCaZk3AdagEqaW"
+    },
+    {
+      "album": {
         "name": "Jugo A La Vida",
         "url": "https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK"
       },
@@ -1666,6 +1702,24 @@
       "duration_ms": 173480,
       "name": "La \u00c9tica",
       "url": "https://open.spotify.com/track/5lme9vHMk1a85L6bEUvp6G"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde Monterrey, Nuevo Le\u00f3n",
+        "url": "https://open.spotify.com/album/70o61l2EHww6tbkcTnjaoI"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "La \u00c9tica - En Vivo",
+      "url": "https://open.spotify.com/track/046n3w6lM0WLHK3OagloEU"
     },
     {
       "album": {
@@ -2068,7 +2122,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 142250,
       "name": "MIA",
       "url": "https://open.spotify.com/track/3DPfJKlnvu4kcJkpZnbjrB"
@@ -2560,7 +2614,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 255214,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/4j9u8xRwAvzQpI7wnC0RXB"
@@ -2818,10 +2872,28 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 198352,
       "name": "Solito Me Empin\u00e9",
       "url": "https://open.spotify.com/track/6JaBW5Ai0vHauWAefQuKIt"
+    },
+    {
+      "album": {
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/2jWBsJ2aMzmxNMMNBQOpfN"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Relincho",
+          "url": "https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182692,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/6NyYYcxBRWqQgKKEVnCLWm"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Your guide to R&B in Canada, with Savannah R\u00e9 from Scarborough ON.",
+  "description": "Your guide to R&B in Canada, with Magi Merlin from Montr\u00e9al, QC.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 149610,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/5AURcgKlQ044RuuH6UoX4p"
@@ -2439,6 +2439,24 @@
     },
     {
       "album": {
+        "name": "Back In Town",
+        "url": "https://open.spotify.com/album/5O6B5L6RmteQOS3TkwS0Mk"
+      },
+      "artists": [
+        {
+          "name": "1000joules",
+          "url": "https://open.spotify.com/artist/5ZAvdhTpqHgx29fmUQvAuY"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211948,
+      "name": "Back In Town",
+      "url": "https://open.spotify.com/track/1fzu6MxVEvuYCayElRucVz"
+    },
+    {
+      "album": {
         "name": "Back to Heaven",
         "url": "https://open.spotify.com/album/2hPFEV3hqWKiVq8tJ8VaDC"
       },
@@ -2566,6 +2584,24 @@
       "duration_ms": 259793,
       "name": "Bad Intentions",
       "url": "https://open.spotify.com/track/0sSQFWw30ZjRLNnvoAclJT"
+    },
+    {
+      "album": {
+        "name": "Bad Timing",
+        "url": "https://open.spotify.com/album/4pNBMEmECbFNbcR1IduYxA"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256034,
+      "name": "Bad Timing",
+      "url": "https://open.spotify.com/track/2RCATsDsg3vBL3x561PJ1w"
     },
     {
       "album": {
@@ -3370,7 +3406,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 232974,
       "name": "BITING MY TONGUE",
       "url": "https://open.spotify.com/track/0JcIsvfeEsz493yYmD2S0i"
@@ -6286,7 +6322,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 143964,
       "name": "Date Night",
       "url": "https://open.spotify.com/track/0qBJf99P4Hj9O6Bri30hNZ"
@@ -6488,6 +6524,24 @@
       "duration_ms": 191500,
       "name": "DIAMOND RING",
       "url": "https://open.spotify.com/track/69cFa6cbxklnS4IjevPR5P"
+    },
+    {
+      "album": {
+        "name": "Lucky Me",
+        "url": "https://open.spotify.com/album/7iWh8pkPqZknJm7F7uAQdo"
+      },
+      "artists": [
+        {
+          "name": "Jesse Gold",
+          "url": "https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178509,
+      "name": "Did U Get The Flowers?",
+      "url": "https://open.spotify.com/track/2qLmFVAnKfamULrFnjImfg"
     },
     {
       "album": {
@@ -6790,7 +6844,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 216666,
       "name": "DMC",
       "url": "https://open.spotify.com/track/5VwijLVQoXQggTZndp7sic"
@@ -7868,6 +7922,24 @@
       "duration_ms": 203286,
       "name": "drownin.",
       "url": "https://open.spotify.com/track/6IAe0sByd4DMbX3rtrKxhJ"
+    },
+    {
+      "album": {
+        "name": "Dupe",
+        "url": "https://open.spotify.com/album/7CFlseQhPVnIyn4QlDFiLI"
+      },
+      "artists": [
+        {
+          "name": "Puma June",
+          "url": "https://open.spotify.com/artist/2kZHI8c2WK0bi6EaNAWg2I"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Dupe",
+      "url": "https://open.spotify.com/track/5cdGa77tX90MjFSlepk6lk"
     },
     {
       "album": {
@@ -13662,7 +13734,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 207114,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/5k5M9d3KpJv0zv6Y9LhraU"
@@ -13752,7 +13824,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 182000,
       "name": "Inner Peace",
       "url": "https://open.spotify.com/track/67oeDknBhOIOmLElU1GrG9"
@@ -16430,7 +16502,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 228000,
       "name": "Love Me Crazy",
       "url": "https://open.spotify.com/track/2X9kvnIFMFjI0NnADY4moh"
@@ -19172,7 +19244,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 180840,
       "name": "No One\u2019s Business",
       "url": "https://open.spotify.com/track/725T9HeiG4h0hrlluk0dgI"
@@ -19480,7 +19552,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 235088,
       "name": "Not So Sweet",
       "url": "https://open.spotify.com/track/36MdkPZVMopxPWK3MXsE70"
@@ -20283,6 +20355,24 @@
     },
     {
       "album": {
+        "name": "On Your Time (Hold You Like It's Ice Cold)",
+        "url": "https://open.spotify.com/album/3xD5u6AttDKey4PXrfKm9i"
+      },
+      "artists": [
+        {
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "On Your Time (Hold You Like It's Ice Cold)",
+      "url": "https://open.spotify.com/track/4ZNfNWylpQtGsq3ALDUlnm"
+    },
+    {
+      "album": {
         "name": "One 4 U",
         "url": "https://open.spotify.com/album/0ZKzGLUdPNcbVvDUbVUycX"
       },
@@ -20418,6 +20508,24 @@
       "duration_ms": 189507,
       "name": "One Plus One",
       "url": "https://open.spotify.com/track/2YadaIIr00rdv5T7RVzIO8"
+    },
+    {
+      "album": {
+        "name": "One Sided",
+        "url": "https://open.spotify.com/album/6LppWJEdvUgGInucQBWX34"
+      },
+      "artists": [
+        {
+          "name": "Myles Lloyd",
+          "url": "https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182474,
+      "name": "One Sided",
+      "url": "https://open.spotify.com/track/04Z06rmw8BMSBahqr3KvS4"
     },
     {
       "album": {
@@ -23287,6 +23395,32 @@
     },
     {
       "album": {
+        "name": "On Time!",
+        "url": "https://open.spotify.com/album/1IFOEXxsXF60IEiWnjLpeL"
+      },
+      "artists": [
+        {
+          "name": "Cameron James",
+          "url": "https://open.spotify.com/artist/4L2lMQeDAR8VxA0ZiMR9hT"
+        },
+        {
+          "name": "40k",
+          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
+        },
+        {
+          "name": "Terrell Morris",
+          "url": "https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179286,
+      "name": "Ricky",
+      "url": "https://open.spotify.com/track/5J37sfapbsuaLMQShJXTc1"
+    },
+    {
+      "album": {
         "name": "Relaxin'",
         "url": "https://open.spotify.com/album/1nmI8mc9Iw66z1FmEkVMB1"
       },
@@ -23396,6 +23530,24 @@
       "duration_ms": 280462,
       "name": "Right Where You Left Me",
       "url": "https://open.spotify.com/track/7B4D7aJcJ7noYNxX0XqhlT"
+    },
+    {
+      "album": {
+        "name": "Right Wit Us",
+        "url": "https://open.spotify.com/album/55mCLrWcyfd5L3ujzrCc7C"
+      },
+      "artists": [
+        {
+          "name": "Chikoruss",
+          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141473,
+      "name": "Right Wit Us",
+      "url": "https://open.spotify.com/track/2H378kaXwCiVzsD9CRViL1"
     },
     {
       "album": {
@@ -23674,6 +23826,28 @@
       "duration_ms": 148720,
       "name": "Rounds",
       "url": "https://open.spotify.com/track/0MpBG76Vk6k9zUvEi2lAzf"
+    },
+    {
+      "album": {
+        "name": "RUDE",
+        "url": "https://open.spotify.com/album/23acah4vCfE1P8mxaX6aRq"
+      },
+      "artists": [
+        {
+          "name": "Emerson",
+          "url": "https://open.spotify.com/artist/4PbPuQ6PfvEJAtGiGlWE2K"
+        },
+        {
+          "name": "Jayda Shaye",
+          "url": "https://open.spotify.com/artist/7rTS4XuhES5SCCJE0o87fN"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "RUDE",
+      "url": "https://open.spotify.com/track/1flmYT9OoihHBytgH8YYYF"
     },
     {
       "album": {
@@ -25768,7 +25942,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 136517,
       "name": "So Scandalous",
       "url": "https://open.spotify.com/track/0Stuc5s9TH32u5IqQyNokc"
@@ -28194,6 +28368,28 @@
       "duration_ms": 161117,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2psfarsxBErTOV8TTGnHwG"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/3FvKYSZJw8lpjvnud24Dvh"
+      },
+      "artists": [
+        {
+          "name": "Sad\u00e9 Awele",
+          "url": "https://open.spotify.com/artist/7mxnGYkm5Bkm8bMAugnQZZ"
+        },
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173243,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/6Fm1lwgjl0WFp42FQ1xIgQ"
     },
     {
       "album": {
@@ -31723,6 +31919,24 @@
     },
     {
       "album": {
+        "name": "POWER HOUSE",
+        "url": "https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h"
+      },
+      "artists": [
+        {
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192095,
+      "name": "WHIP",
+      "url": "https://open.spotify.com/track/5VSUBxfNbjniBXbK4vjg72"
+    },
+    {
+      "album": {
         "name": "Who Dey Shake",
         "url": "https://open.spotify.com/album/57BOojfQE1CsH1qpFmpANc"
       },
@@ -32228,7 +32442,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 190078,
       "name": "World's Best Attraction",
       "url": "https://open.spotify.com/track/6Dz3iCj5eGFUdq16KiDHvD"

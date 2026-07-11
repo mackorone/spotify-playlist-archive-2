@@ -1,13 +1,81 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Curry",
-  "num_followers": 27172,
+  "num_followers": 27179,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAItzc4FlDu6lmL3PV8oao3cLZ5la",
+  "snapshot_id": "AAAAAJAs02nwUp+FetGuKNd1oMFUmusd",
   "tracks": [
+    {
+      "added_at": "2026-07-10 11:34:44",
+      "album": {
+        "name": "Na Jothegiruve",
+        "url": "https://open.spotify.com/album/3bI6NLq6ZvBtfBBvBFLTE8"
+      },
+      "artists": [
+        {
+          "name": "Srinidhi Aathreya",
+          "url": "https://open.spotify.com/artist/7BxQkZxvW88LrRaY6CwyR9"
+        },
+        {
+          "name": "Vinay Raj",
+          "url": "https://open.spotify.com/artist/7uJaOxsK8Iv5CS8Uu9UZtf"
+        }
+      ],
+      "duration_ms": 223410,
+      "name": "Na Jothegiruve",
+      "url": "https://open.spotify.com/track/34Yt1LWymQ3CViw4sBPoMO"
+    },
+    {
+      "added_at": "2026-06-19 13:11:16",
+      "album": {
+        "name": "Nannavale",
+        "url": "https://open.spotify.com/album/6olXD0bAZYJN5HjjP28Upd"
+      },
+      "artists": [
+        {
+          "name": "Curry",
+          "url": "https://open.spotify.com/artist/1sHWKJ2CYul8vAS8wL2Yl5"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Nannavale",
+      "url": "https://open.spotify.com/track/3OS7pl10PHd4JBtJQZSz9K"
+    },
+    {
+      "added_at": "2026-07-10 11:34:44",
+      "album": {
+        "name": "Matte Matte",
+        "url": "https://open.spotify.com/album/1gihc6T0yKkyXIqaQvZqcb"
+      },
+      "artists": [
+        {
+          "name": "Karna",
+          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
+        }
+      ],
+      "duration_ms": 111345,
+      "name": "Matte Matte",
+      "url": "https://open.spotify.com/track/2UV6XQUq2JiCesxsKfFFWm"
+    },
+    {
+      "added_at": "2026-07-10 11:34:44",
+      "album": {
+        "name": "Heege Helali",
+        "url": "https://open.spotify.com/album/6x3z99uTwGAAIzuTVFBLkK"
+      },
+      "artists": [
+        {
+          "name": "MB Dhruva",
+          "url": "https://open.spotify.com/artist/4zMlgSABylIn0qld8vUgNN"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Heege Helali",
+      "url": "https://open.spotify.com/track/5XSqlZhV6HgdbffNSVDyBd"
+    },
     {
       "added_at": "2026-07-03 16:55:34",
       "album": {
@@ -59,22 +127,6 @@
       "duration_ms": 180000,
       "name": "Preethi Kathe",
       "url": "https://open.spotify.com/track/1XQsVRqsqtmeh8YfmzaNpa"
-    },
-    {
-      "added_at": "2026-06-19 13:11:16",
-      "album": {
-        "name": "Nannavale",
-        "url": "https://open.spotify.com/album/6olXD0bAZYJN5HjjP28Upd"
-      },
-      "artists": [
-        {
-          "name": "Curry",
-          "url": "https://open.spotify.com/artist/1sHWKJ2CYul8vAS8wL2Yl5"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Nannavale",
-      "url": "https://open.spotify.com/track/3OS7pl10PHd4JBtJQZSz9K"
     },
     {
       "added_at": "2026-06-11 04:39:16",

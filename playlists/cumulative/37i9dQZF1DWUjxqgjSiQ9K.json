@@ -6053,6 +6053,28 @@
     },
     {
       "album": {
+        "name": "El Nombre De Jes\u00fas",
+        "url": "https://open.spotify.com/album/5Ejbagf6LcCm95RV1mJMth"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Intimidad Worship",
+          "url": "https://open.spotify.com/artist/4kTG6PgHuvq7bsSjJ2ZPhL"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384991,
+      "name": "El Nombre De Jes\u00fas",
+      "url": "https://open.spotify.com/track/28pE86orYXvAU9z0cRX888"
+    },
+    {
+      "album": {
         "name": "El Nombre de Jes\u00fas",
         "url": "https://open.spotify.com/album/2mRX0rFQbW3xosGIdL2IkM"
       },
@@ -14975,6 +14997,24 @@
     },
     {
       "album": {
+        "name": "Roca Firme",
+        "url": "https://open.spotify.com/album/08M4Cp8S7c6mNYw1wU8MTo"
+      },
+      "artists": [
+        {
+          "name": "Omar Rodriguez Music",
+          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322745,
+      "name": "Roca Firme",
+      "url": "https://open.spotify.com/track/0fKnt6UG3I1DG4WnBB8rop"
+    },
+    {
+      "album": {
         "name": "Roca Firme (Live)",
         "url": "https://open.spotify.com/album/07dyv0elWzL2jjfbbxwypw"
       },
@@ -17461,6 +17501,24 @@
     },
     {
       "album": {
+        "name": "Todo Es Tuyo",
+        "url": "https://open.spotify.com/album/6PgTGEACb0aw53fBvymWkh"
+      },
+      "artists": [
+        {
+          "name": "Felipe S. Santos",
+          "url": "https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526701,
+      "name": "Todo Es Tuyo",
+      "url": "https://open.spotify.com/track/0NTLfJpoK217J40IFWIgsn"
+    },
+    {
+      "album": {
         "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
         "url": "https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl"
       },
@@ -17898,7 +17956,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 249218,
       "name": "Tu Iglesia Cantar\u00e1",
       "url": "https://open.spotify.com/track/3Tk7o1NAtUkp6ryW1RTIRa"
@@ -18520,7 +18578,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 390254,
       "name": "Una vez",
       "url": "https://open.spotify.com/track/5kaj7CwtzCovfEQIQf5z2I"
@@ -18644,7 +18702,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 284707,
       "name": "Vamos A Cantar",
       "url": "https://open.spotify.com/track/4uFpzCg9cdWpwXQC4g9CIq"

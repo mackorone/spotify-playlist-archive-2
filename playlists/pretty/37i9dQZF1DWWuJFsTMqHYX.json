@@ -1,6 +1,6 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 472085,
+  "num_followers": 472160,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,30 @@
     {
       "added_at": "2026-03-12 18:21:09",
       "album": {
+        "name": "Degg Gui",
+        "url": "https://open.spotify.com/album/06B14KCKiA5UbBebBZiuLx"
+      },
+      "artists": [
+        {
+          "name": "Cheikh L\u00f4",
+          "url": "https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h"
+        },
+        {
+          "name": "Flavia Coelho",
+          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
+        },
+        {
+          "name": "Fixi",
+          "url": "https://open.spotify.com/artist/4ZdJ35EaWtMCvdbczspFET"
+        }
+      ],
+      "duration_ms": 228782,
+      "name": "Degg Gui",
+      "url": "https://open.spotify.com/track/2m9TLj1eU3qZT895FOIm0v"
+    },
+    {
+      "added_at": "2026-03-12 18:21:09",
+      "album": {
         "name": "Kel Tamasheq (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH"
       },
@@ -391,30 +415,6 @@
       "duration_ms": 284840,
       "name": "Awa adounia",
       "url": "https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg"
-    },
-    {
-      "added_at": "2026-03-12 18:21:09",
-      "album": {
-        "name": "Degg Gui",
-        "url": "https://open.spotify.com/album/06B14KCKiA5UbBebBZiuLx"
-      },
-      "artists": [
-        {
-          "name": "Cheikh L\u00f4",
-          "url": "https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h"
-        },
-        {
-          "name": "Flavia Coelho",
-          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
-        },
-        {
-          "name": "Fixi",
-          "url": "https://open.spotify.com/artist/4ZdJ35EaWtMCvdbczspFET"
-        }
-      ],
-      "duration_ms": 228782,
-      "name": "Degg Gui",
-      "url": "https://open.spotify.com/track/2m9TLj1eU3qZT895FOIm0v"
     },
     {
       "added_at": "2026-03-12 18:21:09",

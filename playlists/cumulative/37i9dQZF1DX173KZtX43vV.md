@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: Nippa, Blxst
 
-1,058 songs - 2 day 3 hr 46 min
+1,058 songs - 2 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,7 +553,7 @@
 | [Little Things](https://open.spotify.com/track/2o1i4aHop75hCwnlyetBIr) | [Sol And The Gang](https://open.spotify.com/artist/3NEJdWXs3nzfb6EqeV0SoR), [J\-Sol](https://open.spotify.com/artist/0moTgm8lXIQpK1EXLSgJFR) | [Little Things](https://open.spotify.com/album/3F472i63J1eeE0hvyETdJA) | 4:06 | 2026-07-02 |  |
 | [Livin' the Dream](https://open.spotify.com/track/6vQvDDhQExWcFKUTJXLJxp) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF) | [Livin' the Dream](https://open.spotify.com/album/55FiFtUQbahPJXBbyJIgQD) | 3:02 | 2026-06-11 | 2026-06-26 |
 | [lkn up](https://open.spotify.com/track/4Q2dvEQj7r38SmcpFSv2PP) | [Mya Craig](https://open.spotify.com/artist/6OZAGWOtQOg40OjFl56WOu) | [lkn up](https://open.spotify.com/album/2pnbYqy01MuEoNSXuP9cfW) | 3:16 | 2026-01-02 | 2026-01-16 |
-| [Lockdown](https://open.spotify.com/track/4qClEI84z9dXnssKQD3BC2) | [Marnz Malone](https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4), [Sus](https://open.spotify.com/artist/1tWZDk56cffZfgjmgHWuXD) | [Lockdown](https://open.spotify.com/album/1Lxf0aIki6lHkdRaHkMbX1) | 2:37 | 2026-07-02 |  |
+| [Lockdown](https://open.spotify.com/track/4qClEI84z9dXnssKQD3BC2) | [Marnz Malone](https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4), [Sus](https://open.spotify.com/artist/1tWZDk56cffZfgjmgHWuXD) | [Lockdown](https://open.spotify.com/album/1Lxf0aIki6lHkdRaHkMbX1) | 2:38 | 2026-07-02 |  |
 | [LOCKED IN](https://open.spotify.com/track/79hkyX6iGUalVRrXszyDCO) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [LOCKED IN](https://open.spotify.com/album/7jTcuDWNDsIHAdvVtVntg1) | 2:11 | 2025-11-21 | 2025-12-05 |
 | [LOCKED IN FREESTYLE](https://open.spotify.com/track/6eEOnuRoGAcjG2ifHR6BXk) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [LOCKED IN FREESTYLE](https://open.spotify.com/album/15adnfLuRIbtT9Usdd44EN) | 1:40 | 2026-05-28 | 2026-06-12 |
 | [Lola](https://open.spotify.com/track/7xjD1xcqCBNyQq7nPPZ3vW) | [Melina Malone](https://open.spotify.com/artist/605KmpfOyF5FrdSfQkHnq3) | [Lola](https://open.spotify.com/album/18rKM5MD8hCKyAQpAD0IJS) | 3:12 | 2026-02-27 | 2026-03-06 |

@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "A new beginning",
+        "url": "https://open.spotify.com/album/0yqVSDxzaBGtyQ2G8eNcxj"
+      },
+      "artists": [
+        {
+          "name": "Leeluck & Co",
+          "url": "https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179308,
+      "name": "A new beginning",
+      "url": "https://open.spotify.com/track/7IxyFOyqxTKYRBcfDp4v3A"
+    },
+    {
+      "album": {
         "name": "A New Dawn",
         "url": "https://open.spotify.com/album/77QWJ7qZDfLThQK3X3EFGe"
       },

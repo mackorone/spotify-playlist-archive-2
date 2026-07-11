@@ -1223,17 +1223,17 @@
     {
       "added_at": "2016-08-21 00:58:52",
       "album": {
-        "name": "Hi Scores",
+        "name": "",
         "url": "https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii"
       },
       "artists": [
         {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 423933,
-      "name": "Everything You Do Is A Balloon",
+      "duration_ms": 0,
+      "name": "",
       "url": "https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3"
     },
     {

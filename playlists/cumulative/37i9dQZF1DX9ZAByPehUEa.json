@@ -1573,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/19U3FVCtRLd3ZNPi75oBNA"
+      },
+      "artists": [
+        {
+          "name": "Monty Kiddo",
+          "url": "https://open.spotify.com/artist/2hUodM79etRBN9x06kpmQy"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182213,
+      "name": "Big Time",
+      "url": "https://open.spotify.com/track/5VfSqIjgPD3oC2McPl5qDi"
+    },
+    {
+      "album": {
         "name": "Biscayne Lady",
         "url": "https://open.spotify.com/album/61pCikDM91BMm3xNvv8Umo"
       },
@@ -1766,7 +1784,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 164899,
       "name": "BOUNCE",
       "url": "https://open.spotify.com/track/5fGj24yvNAqYB3aeI3CZ34"
@@ -1897,6 +1915,28 @@
     },
     {
       "album": {
+        "name": "Bury Me On The Dancefloor",
+        "url": "https://open.spotify.com/album/3SLCn5cftubYvSPBdSkDA7"
+      },
+      "artists": [
+        {
+          "name": "Goshfather",
+          "url": "https://open.spotify.com/artist/2g7WWQ12c4FLTtdk0z5mwI"
+        },
+        {
+          "name": "Motion Twin",
+          "url": "https://open.spotify.com/artist/3lUiTlGRBleZw6KNy5c4eP"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Bury Me On The Dancefloor",
+      "url": "https://open.spotify.com/track/0XkHrSxYPR7LRSWcAHkyEs"
+    },
+    {
+      "album": {
         "name": "Inferno (No. 2)",
         "url": "https://open.spotify.com/album/2rY5Z3ismUfHQqxZhZRPFN"
       },
@@ -1948,7 +1988,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 187920,
       "name": "By The Hour",
       "url": "https://open.spotify.com/track/5opoEqziQvyGT8R58QoLKL"
@@ -3330,7 +3370,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 176458,
       "name": "Disco Turbo",
       "url": "https://open.spotify.com/track/0RZjuYWQ7nXV0iij60LYgJ"
@@ -3940,7 +3980,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 250946,
       "name": "Drop It Low",
       "url": "https://open.spotify.com/track/6MMMI18jP88d2tcNl6stEt"
@@ -4500,6 +4540,24 @@
       "duration_ms": 151967,
       "name": "Family (feat. El Boogie)",
       "url": "https://open.spotify.com/track/6X6HvqcAThorTz88ereWUF"
+    },
+    {
+      "album": {
+        "name": "Fanta",
+        "url": "https://open.spotify.com/album/25G8q8NVDm0bDX6AYqmGj6"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153214,
+      "name": "Fanta",
+      "url": "https://open.spotify.com/track/51PDNRmmdf5Qws2xhESuVO"
     },
     {
       "album": {
@@ -5928,6 +5986,32 @@
       "duration_ms": 232547,
       "name": "Haunted Nights",
       "url": "https://open.spotify.com/track/2aWT2xExUohnos6YChlPZT"
+    },
+    {
+      "album": {
+        "name": "Heartbeat Away",
+        "url": "https://open.spotify.com/album/0CVMJFhlgjl6JHDSWVSKt1"
+      },
+      "artists": [
+        {
+          "name": "Dick Johnson",
+          "url": "https://open.spotify.com/artist/1aJC3HAG67ndsncUrUCj5m"
+        },
+        {
+          "name": "Jeremy Redmore",
+          "url": "https://open.spotify.com/artist/5mmgJNEz7e4BePqugnaRkC"
+        },
+        {
+          "name": "Ethan Jupe",
+          "url": "https://open.spotify.com/artist/3q36kBrSPnZcIZYTQaHsEI"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188031,
+      "name": "Heartbeat Away - Radio Edit",
+      "url": "https://open.spotify.com/track/140dqK0R7Il75uMFXsxmKm"
     },
     {
       "album": {
@@ -13383,6 +13467,24 @@
     },
     {
       "album": {
+        "name": "So High",
+        "url": "https://open.spotify.com/album/0ptLgAIJOUlzluAN9eEJkd"
+      },
+      "artists": [
+        {
+          "name": "AUGIS",
+          "url": "https://open.spotify.com/artist/2UlsuMqDGywuSw0FT1rfbb"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/6rWdAbniutWlBsK1m7j8Tb"
+    },
+    {
+      "album": {
         "name": "So Pretty",
         "url": "https://open.spotify.com/album/203Xqt7kaHARcEBwV9l7oh"
       },
@@ -14036,7 +14138,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 286106,
       "name": "Strings Boogie",
       "url": "https://open.spotify.com/track/3kfj74G6VN3WZS09I1j47X"

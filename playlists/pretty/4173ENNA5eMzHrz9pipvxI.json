@@ -1,13 +1,65 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Just\u0117",
-  "num_followers": 118075,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Joel Corry",
+  "num_followers": 118072,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAhvhk7deDOTDcUiX5GEnc8QSa/Jzzg",
+  "snapshot_id": "AAAhwtLiLoqot+fgzo3AWsZkdTRBsZzP",
   "tracks": [
+    {
+      "added_at": "2026-07-10 06:56:39",
+      "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/0jbAkBNqdBNOVBI7HVSwMu"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 154784,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/6f6wEbx3wXsFx3aC6krC39"
+    },
+    {
+      "added_at": "2026-07-10 06:57:11",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/79BvQiisRxhMJd80E0KhbC"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        }
+      ],
+      "duration_ms": 188595,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/7cNlP8j97DxWC6rG9ZCSCj"
+    },
+    {
+      "added_at": "2026-07-10 06:56:58",
+      "album": {
+        "name": "Noches de Fuego",
+        "url": "https://open.spotify.com/album/4mCx5qTL3M5Wz7NiOyoAjp"
+      },
+      "artists": [
+        {
+          "name": "Flukey",
+          "url": "https://open.spotify.com/artist/7glj5RC8NxHA3gll167Qe2"
+        }
+      ],
+      "duration_ms": 162474,
+      "name": "Noches de Fuego",
+      "url": "https://open.spotify.com/track/44GDet7znfTWXniOMZwU1A"
+    },
     {
       "added_at": "2026-07-09 09:19:42",
       "album": {

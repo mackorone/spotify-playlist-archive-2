@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Asim Azhar",
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Faisal Kapadia",
   "name": "New Pakistani Pop",
   "tracks": [
     {
@@ -1527,6 +1527,32 @@
     },
     {
       "album": {
+        "name": "Bindi",
+        "url": "https://open.spotify.com/album/2Sc3Wxz4qocvQryWGZXcRf"
+      },
+      "artists": [
+        {
+          "name": "Ali Raza",
+          "url": "https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC"
+        },
+        {
+          "name": "Shajjar Hussain",
+          "url": "https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv"
+        },
+        {
+          "name": "Ali & Shjr",
+          "url": "https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165064,
+      "name": "Bindi",
+      "url": "https://open.spotify.com/track/2rX5D9FiZMmeETMYj67PX8"
+    },
+    {
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/2Dxh8OopbagzxRU4EqrYNs"
       },
@@ -2881,6 +2907,32 @@
     },
     {
       "album": {
+        "name": "Duur Ve",
+        "url": "https://open.spotify.com/album/1H2FXOWxWhIaDiC1UNP19R"
+      },
+      "artists": [
+        {
+          "name": "Zoha Waseem",
+          "url": "https://open.spotify.com/artist/20DlRoUeIcVHGEEgYuvvZ8"
+        },
+        {
+          "name": "Arshman Naeem",
+          "url": "https://open.spotify.com/artist/2WF847myArLiNE7Cjs9kgD"
+        },
+        {
+          "name": "Haider Ali",
+          "url": "https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185400,
+      "name": "Duur Ve",
+      "url": "https://open.spotify.com/track/3VOCvRHR0jih5Xuc8peenF"
+    },
+    {
+      "album": {
         "name": "echoes of us",
         "url": "https://open.spotify.com/album/1pCoejoGcsv8wM6rUMsP6T"
       },
@@ -3182,7 +3234,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 122790,
       "name": "fine shyt",
       "url": "https://open.spotify.com/track/2Q1ONyfkjQoRtcBlV6qeJj"
@@ -4210,6 +4262,24 @@
       "duration_ms": 225963,
       "name": "Hum Milne Lage Aap Se",
       "url": "https://open.spotify.com/track/32ekzz28WLuVRNJHVhh8hD"
+    },
+    {
+      "album": {
+        "name": "Hum Tum",
+        "url": "https://open.spotify.com/album/1mgrMbTC544XpgNSKQ8LJf"
+      },
+      "artists": [
+        {
+          "name": "Music Mafia",
+          "url": "https://open.spotify.com/artist/2fS1nPjrfNQoffsRr4wsBS"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204515,
+      "name": "Hum Tum",
+      "url": "https://open.spotify.com/track/1zbVNe4F2vaw2B4kEmpurs"
     },
     {
       "album": {
@@ -5686,6 +5756,24 @@
       "duration_ms": 163953,
       "name": "Kon Ae Tu?",
       "url": "https://open.spotify.com/track/4jIVye9jAjdr0M7tqwJFHv"
+    },
+    {
+      "album": {
+        "name": "Kya Hogaya Hai Mujhay",
+        "url": "https://open.spotify.com/album/1JBLp2NIHrZxrjmQbJfEhR"
+      },
+      "artists": [
+        {
+          "name": "Faisal Kapadia",
+          "url": "https://open.spotify.com/artist/5sJRjMmbbpbEZCtkiZYPCR"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255428,
+      "name": "Kya Hogaya Hai Mujhay",
+      "url": "https://open.spotify.com/track/0mYfIcEYDgDyIInj2oHmhh"
     },
     {
       "album": {
@@ -9187,6 +9275,24 @@
     },
     {
       "album": {
+        "name": "Sadaain",
+        "url": "https://open.spotify.com/album/25iGyXdsCRFs4O2g9vxbxU"
+      },
+      "artists": [
+        {
+          "name": "Ali Alvi",
+          "url": "https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217931,
+      "name": "Sadaain",
+      "url": "https://open.spotify.com/track/39AmHjHqNiaoQZBi1YHMxP"
+    },
+    {
+      "album": {
         "name": "Sadiyaan",
         "url": "https://open.spotify.com/album/1H8GWKTq498qZQImjLztKQ"
       },
@@ -10060,6 +10166,24 @@
       "duration_ms": 318820,
       "name": "Sway (feat. Peter Corser)",
       "url": "https://open.spotify.com/track/3I10WagQ7sTXueaZh9zcE9"
+    },
+    {
+      "album": {
+        "name": "Taaray",
+        "url": "https://open.spotify.com/album/4HERvvheLdARiGJ8NjY1Vw"
+      },
+      "artists": [
+        {
+          "name": "Azhar Ali",
+          "url": "https://open.spotify.com/artist/10wfQ2iksyP08eyX6oCCwh"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Taaray",
+      "url": "https://open.spotify.com/track/1K8NevkJX6T80kVO6gJZ2o"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [el nuevo tropical](https://open.spotify.com/playlist/37i9dQZF1DX07X8UDWKEwP)
 
-> Lo nuevo del mundo tropical\. Cover: Luis Figueroa
+> Lo nuevo del mundo tropical\. Cover: J Salez
 
-892 songs - 2 day 2 hr 51 min
+893 songs - 2 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Di Que Sí](https://open.spotify.com/track/3SwU6NpaZ257IYLkOINHuM) | [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs) | [Di Que Sí](https://open.spotify.com/album/3nqE0CkDhzUuvWV5D3uPRg) | 3:07 | 2024-05-17 | 2024-07-13 |
 | [Diamante](https://open.spotify.com/track/0swIeIY7LlwDyHlINNckzq) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Diamante](https://open.spotify.com/album/3C1zTVInM2jD0gsE8Qx3B1) | 2:36 | 2025-01-31 | 2025-03-29 |
 | [Dicen en mi Barrio](https://open.spotify.com/track/1JuPGhXphzWrADfz8ZtO4f) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Aún Me Sigo Encontrando](https://open.spotify.com/album/5h5LYj1q3fHaol9hIF6sQx) | 3:03 | 2024-05-10 | 2024-07-27 |
-| [Dile](https://open.spotify.com/track/7p4gSq54UDd4miM4E6GHuw) | [Vinny Rivera](https://open.spotify.com/artist/16KwTAKkQMkBVS0Fuz2vpt), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Dile](https://open.spotify.com/album/2M56LMATlM7UyOv5Simrqy) | 3:25 | 2026-03-20 |  |
+| [Dile](https://open.spotify.com/track/7p4gSq54UDd4miM4E6GHuw) | [Vinny Rivera](https://open.spotify.com/artist/16KwTAKkQMkBVS0Fuz2vpt), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Dile](https://open.spotify.com/album/2M56LMATlM7UyOv5Simrqy) | 3:25 | 2026-03-20 | 2026-07-11 |
 | [Dime](https://open.spotify.com/track/6NuyWrCUmOsoI7QY2ctvtD) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Dime](https://open.spotify.com/album/1N3cFEsXs9SKnnW4YE0Ks5) | 2:59 | 2025-01-27 | 2025-03-15 |
 | [Dime \- Salsa](https://open.spotify.com/track/72lcWU4PrmDIVzJLBG5p7C) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E) | [Dime \(Salsa\)](https://open.spotify.com/album/6ojbNRqGpAAJVRxq2wxGJf) | 3:51 | 2022-01-01 | 2022-04-29 |
 | [Dime Cómo Se Siente](https://open.spotify.com/track/3EJ6TrlfKKiP1PMZhjuT2r) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Dime Cómo Se Siente](https://open.spotify.com/album/4wMRyvWczYmzYRBU6cacKJ) | 2:40 | 2023-10-06 | 2024-04-06 |
@@ -883,6 +883,7 @@
 | [Y Si Se Quiere Ir](https://open.spotify.com/track/54G1IvYJQLPNlKEMxF3Kwn) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Y Si Se Quiere Ir](https://open.spotify.com/album/4sSGKyUasnz00ys394IZeR) | 2:48 | 2025-01-10 | 2025-03-15 |
 | [Ya Me Enteré](https://open.spotify.com/track/76TlvxOQhLheXqCC2NkvZQ) | [Georgie Valencia](https://open.spotify.com/artist/2TWRMGU3MH4YBFt2yIY7jx), [Andrés Libreros](https://open.spotify.com/artist/5xDgrJMSVzb49wQEO7THZf) | [Ya Me Enteré](https://open.spotify.com/album/33bn3AQApUplhhaKmq6FCW) | 4:13 | 2022-06-29 | 2023-01-14 |
 | [YA NO ESTÁS SOLA](https://open.spotify.com/track/7bTLME3Z0vRWAUuDeZYObf) | [Milo Bvgatti](https://open.spotify.com/artist/7lyNgZSgWXCRYXx6y1flAK), [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [YA NO ESTÁS SOLA](https://open.spotify.com/album/6DTVqyumWfK1LQenAafvAx) | 3:17 | 2025-10-24 | 2026-02-14 |
+| [Ya No Queda Nada](https://open.spotify.com/track/3GuJ8gUo2a81wxCVHyUL0w) | [J Salez](https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Ya No Queda Nada](https://open.spotify.com/album/7dTbYW1mLWMgnBM7QBdizE) | 3:14 | 2026-07-10 |  |
 | [Ya No Te Amo](https://open.spotify.com/track/4oEHUVWr6GnvaszaHqSdoi) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Ya No Te Amo](https://open.spotify.com/album/70clE19xMTQeZRbMx5DIMM) | 3:56 | 2023-03-03 | 2023-04-29 |
 | [YA NO TE EXTRAÑO \- Versión Mambo En Vivo](https://open.spotify.com/track/1PtHwjnIchITuf23QXMvdP) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [YA NO TE EXTRAÑO \(Versión Mambo En Vivo\)](https://open.spotify.com/album/7tRhGOtzo6SpjLa40ikqk0) | 3:04 | 2024-04-05 | 2024-05-11 |
 | [Ya Supérame](https://open.spotify.com/track/0jPKUwIK6xiB5xZWXoYGXk) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Ya Supérame](https://open.spotify.com/album/7yMrWYOXO2U8ZTl8DT8sE1) | 2:05 | 2023-02-17 | 2023-04-24 |

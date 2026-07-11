@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-02-26",
-  "description": "the glorious sounds of Jazz House, from Montreal, Lagos, & beyond \ud83c\udf0e featuring KALLITECHNIS",
+  "description": "the glorious sounds of Jazz House, from Montreal, Lagos, Bogot\u00e1, & beyond \ud83c\udf0e featuring KALLITECHNIS",
   "name": "Jazz House",
   "tracks": [
     {
@@ -792,7 +792,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 176411,
       "name": "closer than before",
       "url": "https://open.spotify.com/track/6h32GfLkoQ42uYYQf8Q1sR"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 172250,
       "name": "First Light Falling",
       "url": "https://open.spotify.com/track/0ZocjCzNp403Gmy6pEkuD9"
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 215476,
       "name": "Her Eyes",
       "url": "https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B"
@@ -2099,6 +2099,24 @@
     },
     {
       "album": {
+        "name": "intersection",
+        "url": "https://open.spotify.com/album/1QBqcimkOSDc56jvdra679"
+      },
+      "artists": [
+        {
+          "name": "fyodor",
+          "url": "https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198306,
+      "name": "intersection",
+      "url": "https://open.spotify.com/track/2AEkFnLKAWMQQwKmWGqxkr"
+    },
+    {
+      "album": {
         "name": "Island Of Vibes",
         "url": "https://open.spotify.com/album/3ObQKUDBA3YPdE8mofro2B"
       },
@@ -2114,10 +2132,28 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 167441,
       "name": "Island Of Vibes",
       "url": "https://open.spotify.com/track/7jUIG9bGtK8djfjj8UuKjj"
+    },
+    {
+      "album": {
+        "name": "Jazz Circus",
+        "url": "https://open.spotify.com/album/2T74Vk9US8w8w9EBsLpFom"
+      },
+      "artists": [
+        {
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Jazz Circus",
+      "url": "https://open.spotify.com/track/1tFITdO6lhju5TzqaC0R3n"
     },
     {
       "album": {
@@ -2276,7 +2312,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 344432,
       "name": "Keep On",
       "url": "https://open.spotify.com/track/6hnAC8BVOSAstUNeQxWHOP"
@@ -2316,6 +2352,28 @@
       "duration_ms": 520677,
       "name": "Kintsugi",
       "url": "https://open.spotify.com/track/43cbFFWsvH9ojZ0QaufdlH"
+    },
+    {
+      "album": {
+        "name": "kosmos",
+        "url": "https://open.spotify.com/album/5w7xBJYs4rDtPCGJx90J0x"
+      },
+      "artists": [
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        },
+        {
+          "name": "mango heist",
+          "url": "https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254270,
+      "name": "kosmos",
+      "url": "https://open.spotify.com/track/15KhBDYKgNZpDXAR0Ph9GK"
     },
     {
       "album": {
@@ -2590,6 +2648,24 @@
       "duration_ms": 167000,
       "name": "low tide",
       "url": "https://open.spotify.com/track/3LdvPnAMNILTn0TDorCIvT"
+    },
+    {
+      "album": {
+        "name": "Lum",
+        "url": "https://open.spotify.com/album/1RezJlQz40JMBqkTnvFayF"
+      },
+      "artists": [
+        {
+          "name": "Juando",
+          "url": "https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338356,
+      "name": "Lum",
+      "url": "https://open.spotify.com/track/0z7kmmyQJwKjYpB3h0JBUk"
     },
     {
       "album": {
@@ -2928,6 +3004,24 @@
       "duration_ms": 238571,
       "name": "Mr. Particular",
       "url": "https://open.spotify.com/track/4B4acwDbCZkxNC9VmBOaE4"
+    },
+    {
+      "album": {
+        "name": "My Worth",
+        "url": "https://open.spotify.com/album/5TZ5oHRgcwt4KMbDaj6HEL"
+      },
+      "artists": [
+        {
+          "name": "Yasin Hazim",
+          "url": "https://open.spotify.com/artist/1zQG3HG2ikVmCzRetpDS5k"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244186,
+      "name": "My Worth",
+      "url": "https://open.spotify.com/track/22hAYuBmT7JyNi7904WF3q"
     },
     {
       "album": {
@@ -3618,7 +3712,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 339250,
       "name": "Rhodes, 3AM",
       "url": "https://open.spotify.com/track/2RkW8H3tq7sVtqKNaL0iXn"
@@ -3880,6 +3974,28 @@
       "duration_ms": 204523,
       "name": "Six Am",
       "url": "https://open.spotify.com/track/6KsDQA0pYkNs1kiN1u9V6T"
+    },
+    {
+      "album": {
+        "name": "SO GOOD (ft. Simone Ashley)",
+        "url": "https://open.spotify.com/album/3k5pLFKcTX8VbxuC4YTNB6"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        },
+        {
+          "name": "Simone Ashley",
+          "url": "https://open.spotify.com/artist/4pPJVe0DnEat9EC8L0mzZ0"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136533,
+      "name": "SO GOOD (ft. Simone Ashley)",
+      "url": "https://open.spotify.com/track/0aEvKe7Am20nBkT6MzcNRR"
     },
     {
       "album": {
@@ -4174,6 +4290,28 @@
       "duration_ms": 103333,
       "name": "Talk to me.",
       "url": "https://open.spotify.com/track/2CjCINQC9GwKJnkmxZM8X9"
+    },
+    {
+      "album": {
+        "name": "Tell Me More And More And Then Some (dublon Remix)",
+        "url": "https://open.spotify.com/album/4mX3k5E8iVScFeD6ghkalz"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151260,
+      "name": "Tell Me More And More And Then Some - dublon Remix",
+      "url": "https://open.spotify.com/track/3MRACcCmiYbeNkFiF3sNu1"
     },
     {
       "album": {
@@ -4854,7 +4992,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 227000,
       "name": "Wind Flow",
       "url": "https://open.spotify.com/track/5eOMr8XPdhjbVDiJ1gYkyY"

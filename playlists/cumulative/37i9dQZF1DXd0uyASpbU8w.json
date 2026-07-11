@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "New music from Jnr SA, Marcus Harvey & Mick Jenkins, Victony and more.",
+  "description": "New music from Future, Jnr SA, Marcus Harvey & Mick Jenkins, Victony and more.",
   "name": "New Music Friday South Africa",
   "tracks": [
     {
@@ -35502,6 +35502,24 @@
       "duration_ms": 199680,
       "name": "California Child",
       "url": "https://open.spotify.com/track/7iMevAfaNM9t6WqRLMW6lV"
+    },
+    {
+      "album": {
+        "name": "The Real Me",
+        "url": "https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "California Girls",
+      "url": "https://open.spotify.com/track/5Rv0O0Bv90IqC97T68zesG"
     },
     {
       "album": {
@@ -141596,7 +141614,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 243896,
       "name": "MORNING DEW (DONK)",
       "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
@@ -157221,6 +157239,32 @@
     },
     {
       "album": {
+        "name": "Divine Rhythm",
+        "url": "https://open.spotify.com/album/7uGBPQcmUA3kUxhGs6FhFG"
+      },
+      "artists": [
+        {
+          "name": "Smash SA",
+          "url": "https://open.spotify.com/artist/0w5arbommuYnUMeXetmv17"
+        },
+        {
+          "name": "Mitjo Sa",
+          "url": "https://open.spotify.com/artist/3AizoQcrXMG9SNOQrLbg5z"
+        },
+        {
+          "name": "Stoziimusiq",
+          "url": "https://open.spotify.com/artist/7Aj43ACkVlBIfMuKNCXKW8"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382334,
+      "name": "Nodoli (feat. StoziimusiQ)",
+      "url": "https://open.spotify.com/track/1LoJY1J3Zqj9F9cgLs5iTj"
+    },
+    {
+      "album": {
         "name": "Kaiser Chiefs' Easy Eighth Album",
         "url": "https://open.spotify.com/album/5dkbWYrgm2ysC8bObtnjON"
       },
@@ -167238,8 +167282,8 @@
           "url": "https://open.spotify.com/artist/35hN9kHzlqiLfimNr4bNds"
         },
         {
-          "name": "De Confident DJ",
-          "url": "https://open.spotify.com/artist/5XOjeaWgCgGR0FgHGdgTv1"
+          "name": "De confident Dj",
+          "url": "https://open.spotify.com/artist/5CfFtopS86r2liZuR8CLX6"
         },
         {
           "name": "Kya Lami",
@@ -217207,42 +217251,6 @@
     },
     {
       "album": {
-        "name": "On Your Side",
-        "url": "https://open.spotify.com/album/5H8h2QQ48TwqBpi6jXNDyr"
-      },
-      "artists": [
-        {
-          "name": "December 10",
-          "url": "https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr"
-        }
-      ],
-      "date_added": "2026-07-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/3RHtI2W6ZlAuM0r96nLhC9"
-    },
-    {
-      "album": {
-        "name": "Divine Rhythm",
-        "url": "https://open.spotify.com/album/7uGBPQcmUA3kUxhGs6FhFG"
-      },
-      "artists": [
-        {
-          "name": "Smash SA",
-          "url": "https://open.spotify.com/artist/0w5arbommuYnUMeXetmv17"
-        }
-      ],
-      "date_added": "2026-07-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/1LoJY1J3Zqj9F9cgLs5iTj"
-    },
-    {
-      "album": {
         "name": "Track Team",
         "url": "https://open.spotify.com/album/5OjS6NVhELa2DEJPenjsVL"
       },
@@ -227608,6 +227616,24 @@
       "duration_ms": 139047,
       "name": "US",
       "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
+    },
+    {
+      "album": {
+        "name": "On Your Side",
+        "url": "https://open.spotify.com/album/5H8h2QQ48TwqBpi6jXNDyr"
+      },
+      "artists": [
+        {
+          "name": "December 10",
+          "url": "https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Us Against The World",
+      "url": "https://open.spotify.com/track/3RHtI2W6ZlAuM0r96nLhC9"
     },
     {
       "album": {

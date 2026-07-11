@@ -12535,6 +12535,36 @@
     },
     {
       "album": {
+        "name": "Dem Goats",
+        "url": "https://open.spotify.com/album/2M0IQZnARm6zbyvYxtkQBh"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Anthony Q.",
+          "url": "https://open.spotify.com/artist/2pae36JwIwwS5a9G0qqI82"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218456,
+      "name": "Choose Wisely (feat. Killer Mike and Anthony Q.)",
+      "url": "https://open.spotify.com/track/5naKXc6f6FwCBEJwQ2gOPS"
+    },
+    {
+      "album": {
         "name": "Christ Freestyle",
         "url": "https://open.spotify.com/album/09EycEXbxa4PTq3Kgx3leu"
       },
@@ -21208,7 +21238,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 213350,
       "name": "Everywhere",
       "url": "https://open.spotify.com/track/6z7ymrkYp7wSHFxgfvVpy2"
@@ -31927,6 +31957,32 @@
     },
     {
       "album": {
+        "name": "RHYTHM & MELODY",
+        "url": "https://open.spotify.com/album/5pNI5yBir20ciWubOiQlDK"
+      },
+      "artists": [
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        },
+        {
+          "name": "Fire",
+          "url": "https://open.spotify.com/artist/2dTSAcZp3tUR9HooN7pqPE"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140939,
+      "name": "I CALLED",
+      "url": "https://open.spotify.com/track/55GZ7qalA7HJiSKVHXrviz"
+    },
+    {
+      "album": {
         "name": "I Can Dream, Can't I?",
         "url": "https://open.spotify.com/album/1Om5FVKUu8ymu92UHCMSpt"
       },
@@ -33014,6 +33070,24 @@
       "duration_ms": 188106,
       "name": "I'm Gonna Love You",
       "url": "https://open.spotify.com/track/3C94TlV5KIavC4EjzK2AHf"
+    },
+    {
+      "album": {
+        "name": "I'm Never Gonna R.I.P.",
+        "url": "https://open.spotify.com/album/3pN3jdL5rj6mf6AqkjR3aD"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124554,
+      "name": "I'm Never Gonna R.I.P.",
+      "url": "https://open.spotify.com/track/30A5B0l4yBknR1UPYZIEU0"
     },
     {
       "album": {
@@ -35466,7 +35540,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 229994,
       "name": "Jealous Lover",
       "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
@@ -43615,6 +43689,24 @@
     },
     {
       "album": {
+        "name": "The Hidden Hand",
+        "url": "https://open.spotify.com/album/2KiQN7FeBS56DsxhaPHwmO"
+      },
+      "artists": [
+        {
+          "name": "If These Trees Could Talk",
+          "url": "https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236280,
+      "name": "Metanoia",
+      "url": "https://open.spotify.com/track/2dQInLHAplDfsARk886qLc"
+    },
+    {
+      "album": {
         "name": "Metaphysics",
         "url": "https://open.spotify.com/album/0xZSnkdlyLJzIKZcop3uPh"
       },
@@ -44156,13 +44248,17 @@
         {
           "name": "Ye",
           "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "The WRLDFMS Tony Williams",
+          "url": "https://open.spotify.com/artist/6TTVdg5UOUHsyiYPHgxLaq"
         }
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-23",
+      "date_removed": null,
       "duration_ms": 112751,
-      "name": "MISSION CONTROL",
+      "name": "MISSION CONTROL (feat. The WRLDFMS Tony Williams)",
       "url": "https://open.spotify.com/track/040LDuJ8MWKKhV9Fdwc64N"
     },
     {
@@ -45044,6 +45140,24 @@
       "duration_ms": 273626,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/74QtlreVh59b7BbW3n2gF1"
+    },
+    {
+      "album": {
+        "name": "Foreign Tongues",
+        "url": "https://open.spotify.com/album/650o7IPvNOzSSn9qOyJhxw"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274061,
+      "name": "Mr Charm",
+      "url": "https://open.spotify.com/track/1YfhdcCmNm4EiFnyz7DNiT"
     },
     {
       "album": {
@@ -48848,7 +48962,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 158193,
       "name": "OK (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/5UNo2nitxVTkBA9QYmnHJx"
@@ -54605,6 +54719,36 @@
     },
     {
       "album": {
+        "name": "SAHARA",
+        "url": "https://open.spotify.com/album/7MFtLera71DH0hr1GMkgrF"
+      },
+      "artists": [
+        {
+          "name": "MUNI",
+          "url": "https://open.spotify.com/artist/6DMjso63MM8iBE0WYQvmHP"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Shyheim",
+          "url": "https://open.spotify.com/artist/0rqb5s3Cxj0lGr6jTrWc0P"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Pursuit",
+      "url": "https://open.spotify.com/track/5sPsDkHO7CudR6sefKmdRT"
+    },
+    {
+      "album": {
         "name": "Purveyor of Pleasure (Moby Remix)",
         "url": "https://open.spotify.com/album/5eIguzF8e7DXOrixNMgPcB"
       },
@@ -55180,7 +55324,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 162666,
       "name": "Rarri",
       "url": "https://open.spotify.com/track/0jlS9kRAeWdzDFnwtunfFU"
@@ -58252,6 +58396,32 @@
       "duration_ms": 269558,
       "name": "Satisfy - Extended Mix",
       "url": "https://open.spotify.com/track/20JGqofKNH4FPjO91u0zHL"
+    },
+    {
+      "album": {
+        "name": "Satisfy (James Poole Remix)",
+        "url": "https://open.spotify.com/album/0S5z3uSXJW1v8cNUJSW4OA"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "James Poole",
+          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191303,
+      "name": "Satisfy - James Poole Remix",
+      "url": "https://open.spotify.com/track/2HddjdBF8NcXFCfWmfvWZo"
     },
     {
       "album": {
@@ -65827,6 +65997,24 @@
     },
     {
       "album": {
+        "name": "Take Me to Church (In the style of Sleep Token)",
+        "url": "https://open.spotify.com/album/1mqG2eTIiY0xUusTS0tRKN"
+      },
+      "artists": [
+        {
+          "name": "Anthony Vincent",
+          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280922,
+      "name": "Take Me to Church (In the style of Sleep Token)",
+      "url": "https://open.spotify.com/track/6vXIMeOYHe0Jbi5MujSdDk"
+    },
+    {
+      "album": {
         "name": "Take Me to the Beach (feat. Ado)",
         "url": "https://open.spotify.com/album/42qtC6akiL6crX1i4Sf4yJ"
       },
@@ -66329,6 +66517,28 @@
     },
     {
       "album": {
+        "name": "Tell Me More And More And Then Some (dublon Remix)",
+        "url": "https://open.spotify.com/album/4mX3k5E8iVScFeD6ghkalz"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151260,
+      "name": "Tell Me More And More And Then Some - dublon Remix",
+      "url": "https://open.spotify.com/track/3MRACcCmiYbeNkFiF3sNu1"
+    },
+    {
+      "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/66dOCZnzAEgxWpG8DVjoUv"
       },
@@ -66802,7 +67012,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 257741,
       "name": "That's All I Ask - HAAi Remix / Edit",
       "url": "https://open.spotify.com/track/40qN3XgBBaq3AtD4a6ArJc"
@@ -73145,6 +73355,24 @@
     },
     {
       "album": {
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/5yav8qsU5KzmV3zo3EtQMx"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222900,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/6l0InYggDci03fO4F4YMhX"
+    },
+    {
+      "album": {
         "name": "Up From the Bottom",
         "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
       },
@@ -73200,6 +73428,24 @@
       "duration_ms": 170300,
       "name": "Up on the Housetop",
       "url": "https://open.spotify.com/track/1z5GlN4nJElIMEBaiy9FyY"
+    },
+    {
+      "album": {
+        "name": "Upphaf",
+        "url": "https://open.spotify.com/album/1Pi6Re7Laq42e5T7FvN847"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272840,
+      "name": "Upphaf",
+      "url": "https://open.spotify.com/track/1QfeSgrrRMPiywQWiFDY7L"
     },
     {
       "album": {
@@ -74868,6 +75114,32 @@
       "duration_ms": 87301,
       "name": "Wasted Words (feat. Thundercat)",
       "url": "https://open.spotify.com/track/5p11IMrHpfoyMsEMNPCjD9"
+    },
+    {
+      "album": {
+        "name": "Dem Goats",
+        "url": "https://open.spotify.com/album/2M0IQZnARm6zbyvYxtkQBh"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190043,
+      "name": "Wasting Time (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/2G4y316Kk8FNcH0pf3mjBY"
     },
     {
       "album": {
@@ -76604,7 +76876,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 225864,
       "name": "WHERE I'M FROM (feat. Anderson .Paak & STALONE)",
       "url": "https://open.spotify.com/track/3xRVgHRyAlUIBpQ8mFWDyh"

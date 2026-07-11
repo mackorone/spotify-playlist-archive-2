@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Debbii Dawson",
-  "num_followers": 444411,
+  "num_followers": 444431,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH9QJ+aKR00YNkPyjD9BPJLlEW7Y",
+  "snapshot_id": "AAAAAHhmxnRmRP6m2qkEU9SSd4x/3gk7",
   "tracks": [
     {
       "added_at": "2026-06-26 04:00:29",
@@ -25,6 +25,54 @@
       "url": "https://open.spotify.com/track/5RbmvXlg7WFVqFZtxv9ATO"
     },
     {
+      "added_at": "2026-05-01 04:02:18",
+      "album": {
+        "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 178016,
+      "name": "Material Lover",
+      "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
+    },
+    {
+      "added_at": "2026-07-10 04:02:31",
+      "album": {
+        "name": "Hurts",
+        "url": "https://open.spotify.com/album/5kRVr5kcCtBZuIL6C5aycN"
+      },
+      "artists": [
+        {
+          "name": "Kerr Mercer",
+          "url": "https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x"
+        }
+      ],
+      "duration_ms": 180453,
+      "name": "Hurts",
+      "url": "https://open.spotify.com/track/6GGyMAS1ne4pnih5ukFFaL"
+    },
+    {
+      "added_at": "2026-07-10 04:02:31",
+      "album": {
+        "name": "All That It Is",
+        "url": "https://open.spotify.com/album/5XaCaoQjxJPz5a3NhZxjNZ"
+      },
+      "artists": [
+        {
+          "name": "Whitney Whitney",
+          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
+        }
+      ],
+      "duration_ms": 230960,
+      "name": "All That It Is",
+      "url": "https://open.spotify.com/track/7aEfNs8cRi0YRbiIwwrmP9"
+    },
+    {
       "added_at": "2026-05-29 04:01:17",
       "album": {
         "name": "F.I.G",
@@ -41,20 +89,20 @@
       "url": "https://open.spotify.com/track/5XpfG1xcdznjc3BPdotlXK"
     },
     {
-      "added_at": "2026-07-07 15:11:11",
+      "added_at": "2026-07-10 04:02:31",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/2Xh1UPh5dsUwbGUA7lGOzi"
+        "name": "Bittersweet Escape",
+        "url": "https://open.spotify.com/album/5FzOA3oAxjHzoLxo4SC6Ed"
       },
       "artists": [
         {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
         }
       ],
-      "duration_ms": 193803,
-      "name": "Roses In The Dark",
-      "url": "https://open.spotify.com/track/6G2PQFUnMpou6DwSeD8YZ5"
+      "duration_ms": 167860,
+      "name": "Bittersweet Escape",
+      "url": "https://open.spotify.com/track/7m048jBthqhBF62d67E1kM"
     },
     {
       "added_at": "2026-07-03 04:02:23",
@@ -73,6 +121,38 @@
       "url": "https://open.spotify.com/track/25fgqMC5JX8A9du5YeqREN"
     },
     {
+      "added_at": "2026-07-10 04:02:31",
+      "album": {
+        "name": "USE ME",
+        "url": "https://open.spotify.com/album/5ZrgtfxnJFBzAkCRsDBsmo"
+      },
+      "artists": [
+        {
+          "name": "tig3r lewis",
+          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
+        }
+      ],
+      "duration_ms": 178954,
+      "name": "USE ME",
+      "url": "https://open.spotify.com/track/5LAQvCXTaJl0ZRLcYENaiK"
+    },
+    {
+      "added_at": "2026-07-07 15:11:11",
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/2Xh1UPh5dsUwbGUA7lGOzi"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 193803,
+      "name": "Roses In The Dark",
+      "url": "https://open.spotify.com/track/6G2PQFUnMpou6DwSeD8YZ5"
+    },
+    {
       "added_at": "2026-06-26 04:00:29",
       "album": {
         "name": "Saturday Night",
@@ -87,22 +167,6 @@
       "duration_ms": 217440,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX"
-    },
-    {
-      "added_at": "2026-05-01 04:02:18",
-      "album": {
-        "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 178016,
-      "name": "Material Lover",
-      "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
     },
     {
       "added_at": "2026-07-03 04:02:23",
@@ -121,6 +185,22 @@
       "url": "https://open.spotify.com/track/3zN8glApKznq24oqZ9uWAG"
     },
     {
+      "added_at": "2026-07-10 04:02:31",
+      "album": {
+        "name": "Just My Luck",
+        "url": "https://open.spotify.com/album/7BJsNyKpMF59uelRRp9p4K"
+      },
+      "artists": [
+        {
+          "name": "Maya Engen",
+          "url": "https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm"
+        }
+      ],
+      "duration_ms": 215488,
+      "name": "Vinyl",
+      "url": "https://open.spotify.com/track/3I6n7OQMpaaBfRFKpxl5U0"
+    },
+    {
       "added_at": "2026-07-07 15:11:11",
       "album": {
         "name": "Sweet n\u2019 Sour",
@@ -135,6 +215,22 @@
       "duration_ms": 157683,
       "name": "Sweet n\u2019 Sour",
       "url": "https://open.spotify.com/track/3ksychRhiWmZgGjIxtzKix"
+    },
+    {
+      "added_at": "2026-07-10 04:02:31",
+      "album": {
+        "name": "Twenty Something",
+        "url": "https://open.spotify.com/album/3zIuPy0xhAOMg9veibhAwy"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 171400,
+      "name": "Stuck In Sixteen",
+      "url": "https://open.spotify.com/track/0K77y1Qbihu4hK54zAFxVV"
     },
     {
       "added_at": "2026-04-17 04:00:57",
@@ -215,22 +311,6 @@
       "duration_ms": 198797,
       "name": "My Tragic Love Story",
       "url": "https://open.spotify.com/track/6fIkgdMrq2OzoHKcpEYO8z"
-    },
-    {
-      "added_at": "2026-06-05 04:01:52",
-      "album": {
-        "name": "Mrs. Kisses",
-        "url": "https://open.spotify.com/album/1qbnghY7L0MQhGSxBxm2Mb"
-      },
-      "artists": [
-        {
-          "name": "tig3r lewis",
-          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
-        }
-      ],
-      "duration_ms": 192534,
-      "name": "Mrs. Kisses",
-      "url": "https://open.spotify.com/track/559GqhUeuXY8tKdVXMSMpT"
     },
     {
       "added_at": "2026-06-12 04:14:06",
@@ -721,22 +801,6 @@
       "url": "https://open.spotify.com/track/5B5TkWpRVYbwTalK5wmlif"
     },
     {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
-        "name": "Mr. Right Now",
-        "url": "https://open.spotify.com/album/6PGH7mRzk4693ahAtPuj5y"
-      },
-      "artists": [
-        {
-          "name": "tig3r lewis",
-          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
-        }
-      ],
-      "duration_ms": 153402,
-      "name": "Mr. Right Now",
-      "url": "https://open.spotify.com/track/6BsYGPQrKHlnJslIex6plC"
-    },
-    {
       "added_at": "2026-03-20 04:00:32",
       "album": {
         "name": "One Man Show",
@@ -767,22 +831,6 @@
       "duration_ms": 193181,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/4X2wd4grYiRaGjS75UncRA"
-    },
-    {
-      "added_at": "2026-04-03 04:58:46",
-      "album": {
-        "name": "180",
-        "url": "https://open.spotify.com/album/1UA9keCcWY3lEOIKFFqYQg"
-      },
-      "artists": [
-        {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
-        }
-      ],
-      "duration_ms": 191870,
-      "name": "180",
-      "url": "https://open.spotify.com/track/2f7zdx2sNebdcSyuR55LnD"
     },
     {
       "added_at": "2026-03-13 04:00:38",
@@ -911,22 +959,6 @@
       "duration_ms": 143745,
       "name": "Love Me Twice",
       "url": "https://open.spotify.com/track/6RBWAgKA9mukk3nOs0doEk"
-    },
-    {
-      "added_at": "2026-03-20 04:00:32",
-      "album": {
-        "name": "Love Is A Game",
-        "url": "https://open.spotify.com/album/1hfihH9BfIrUxpueRVvUL9"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Waddell",
-          "url": "https://open.spotify.com/artist/5VicbscvXlAJafb1vdsCSY"
-        }
-      ],
-      "duration_ms": 198971,
-      "name": "Love Is A Game",
-      "url": "https://open.spotify.com/track/3SlQR2O64JKUr15Kc69QJ2"
     },
     {
       "added_at": "2026-02-27 05:00:42",
@@ -1293,22 +1325,6 @@
       "url": "https://open.spotify.com/track/6hR0pP818BP6CZjaOG7k1V"
     },
     {
-      "added_at": "2025-11-21 05:00:33",
-      "album": {
-        "name": "Alcohol",
-        "url": "https://open.spotify.com/album/0hYcs0BNcfioP8zWglC9zt"
-      },
-      "artists": [
-        {
-          "name": "Kerr Mercer",
-          "url": "https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x"
-        }
-      ],
-      "duration_ms": 199173,
-      "name": "Alcohol",
-      "url": "https://open.spotify.com/track/7knB6NUQFwmKEBroRiLsQ1"
-    },
-    {
       "added_at": "2025-09-05 04:00:05",
       "album": {
         "name": "Man I Need",
@@ -1599,30 +1615,6 @@
       "duration_ms": 210296,
       "name": "Summertime Blue",
       "url": "https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts"
-    },
-    {
-      "added_at": "2025-07-18 04:00:07",
-      "album": {
-        "name": "The Moment (with KOKORO)",
-        "url": "https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K"
-      },
-      "artists": [
-        {
-          "name": "Lola Amour",
-          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
-        },
-        {
-          "name": "PSYCHIC FEVER from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb"
-        },
-        {
-          "name": "KOKORO",
-          "url": "https://open.spotify.com/artist/4gULOUdHcpIdWOO170i4E5"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "The Moment (with KOKORO)",
-      "url": "https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX"
     },
     {
       "added_at": "2025-07-25 04:00:40",

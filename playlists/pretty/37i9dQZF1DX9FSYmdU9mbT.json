@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1474229,
+  "num_followers": 1474252,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -295,26 +295,18 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
+        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
       },
       "artists": [
         {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        },
-        {
-          "name": "Elba Ramalho",
-          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
-        },
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
         }
       ],
-      "duration_ms": 327946,
-      "name": "Anuncia\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy"
+      "duration_ms": 270690,
+      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -335,22 +327,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
-      },
-      "artists": [
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        }
-      ],
-      "duration_ms": 270690,
-      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "Amor Festa Devo\u00e7\u00e3o Ao Vivo",
         "url": "https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38"
       },
@@ -363,6 +339,30 @@
       "duration_ms": 300333,
       "name": "Reconvexo - Ao Vivo",
       "url": "https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        },
+        {
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        },
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+        }
+      ],
+      "duration_ms": 327946,
+      "name": "Anuncia\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Cinema Transcendental",
-        "url": "https://open.spotify.com/album/64JvR5shy7j04mTiX0wfNp"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 139933,
-      "name": "Caju\u00edna - Remixed Original Album",
-      "url": "https://open.spotify.com/track/7cEfPAbju7glmdAgT4e1AU"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "Que Falta Voc\u00ea Me Faz",
         "url": "https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 182160,
       "name": "Samba da B\u00ean\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Cinema Transcendental",
+        "url": "https://open.spotify.com/album/64JvR5shy7j04mTiX0wfNp"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 139933,
+      "name": "Caju\u00edna - Remixed Original Album",
+      "url": "https://open.spotify.com/track/7cEfPAbju7glmdAgT4e1AU"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -503,26 +503,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "F\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0fwc0d0RgaCypAt32HGICQ"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 212601,
-      "name": "F\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0JBC2rItQc5K8wMZrMDV2r"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "Proposta",
         "url": "https://open.spotify.com/album/6kV4cGFJFBrm8xWk9RqKWD"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 224720,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/7nnOpLkOGevWX6BYxs2xnP"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "F\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0fwc0d0RgaCypAt32HGICQ"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 212601,
+      "name": "F\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0JBC2rItQc5K8wMZrMDV2r"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Caetanear",
-        "url": "https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Odara",
-      "url": "https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "Como Vai Voc\u00ea",
         "url": "https://open.spotify.com/album/73zRVTgL5JJugtY1zWasXe"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 227568,
       "name": "Como Vai Voc\u00ea",
       "url": "https://open.spotify.com/track/6DihrQCKtLq7SpVQt4jBzA"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Caetanear",
+        "url": "https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Odara",
+      "url": "https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Que Tal Um Samba? (Ao Vivo)",
-        "url": "https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 170448,
-      "name": "Samba do Grande Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/4tj4BdoordmiTZJcyTjimT"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "O Segundo Sol (Turn\u00ea Jardim-Pomar) [Ao Vivo em Porto Alegre]",
         "url": "https://open.spotify.com/album/2hrS3ADuXuced8UnMTWubm"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 253973,
       "name": "O Segundo Sol (Turn\u00ea Jardim-Pomar) [Ao Vivo em Porto Alegre]",
       "url": "https://open.spotify.com/track/4pID7hvPWS15Xu1e2XdraW"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Que Tal Um Samba? (Ao Vivo)",
+        "url": "https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 170448,
+      "name": "Samba do Grande Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/4tj4BdoordmiTZJcyTjimT"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Caravanas Ao Vivo",
-        "url": "https://open.spotify.com/album/23D3QyvWb50hK2AYNCtpyE"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 184119,
-      "name": "Sabi\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/629DheUXpR6hplX51EWdiw"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "Eterna Alegria (Special Edition) [Ao Vivo]",
         "url": "https://open.spotify.com/album/5Cl79Wr1ZukFvRGM2zgG7z"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 205915,
       "name": "Mutir\u00e3o de Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/0yL2NJPP19vdualPdOCWet"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Caravanas Ao Vivo",
+        "url": "https://open.spotify.com/album/23D3QyvWb50hK2AYNCtpyE"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 184119,
+      "name": "Sabi\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/629DheUXpR6hplX51EWdiw"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Constru\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5YARZzYbonX4CbZ5hucHPc"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 383706,
-      "name": "Constru\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1ECean5dVz7mYQ07mdVGKT"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "Vidas Pra Contar",
         "url": "https://open.spotify.com/album/6MIoj7esxtgwgtG8Mh8rcw"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 261640,
       "name": "N\u00e3o \u00e9 um Bolero",
       "url": "https://open.spotify.com/track/4ZGMXn6kUqS8CTVkl3lDuk"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Constru\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5YARZzYbonX4CbZ5hucHPc"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 383706,
+      "name": "Constru\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1ECean5dVz7mYQ07mdVGKT"
     },
     {
       "added_at": "2026-05-22 11:20:59",

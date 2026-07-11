@@ -4,7 +4,7 @@
 
 > Uutta musaa tarjoilevat Käärijä ja SANNI, Costi.\. ja moni muu  🎶
 
-11,879 songs - 26 day 4 hr 15 min
+11,879 songs - 26 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1476,6 +1476,7 @@
 | [CARRY YOU](https://open.spotify.com/track/5rCgj5fATSArrdlnZSekLk) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [CARRY YOU](https://open.spotify.com/album/06nu3BwrAi9xuWMtQq1f0k) | 3:08 | 2024-08-08 | 2024-08-16 |
 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 | 2024-05-30 | 2024-06-07 |
 | [Carry Your Name](https://open.spotify.com/track/1LaDyabD9KcfJAIv7lJ99R) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [PEARL](https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW) | [The Learning of Urgency](https://open.spotify.com/album/7uAP4tFWMugcNZOrk5xBED) | 3:17 | 2024-06-06 | 2024-06-14 |
+| [Carved](https://open.spotify.com/track/6UwSqLdmUrD0DGp0D21Lpq) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [The Plot In You](https://open.spotify.com/album/6PJzcqwj8n19g9cdDWRiTf) | 3:18 | 2026-07-09 |  |
 | [Casablanca](https://open.spotify.com/track/0qMV9XmjaGbS9Zt7s7gSrF) | [Adi L Hasla](https://open.spotify.com/artist/2Hnqmn6bAxVSYf70M2aSkk) | [Casablanca](https://open.spotify.com/album/5Jwoq0Q7YUStEiFlHZhtrA) | 2:57 | 2024-09-19 | 2024-09-27 |
 | [Casanova](https://open.spotify.com/track/7DKqquL8njykv59YgLtJU9) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Casanova](https://open.spotify.com/album/6iELgLhTy8AzINTUH2PQ1c) | 3:02 | 2025-04-24 | 2025-05-02 |
 | [CASH](https://open.spotify.com/track/71nsQ0fpgV9WfAGxiapCEE) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ) | [CASH](https://open.spotify.com/album/7urGLHpiDwRVRkQgf4sZDq) | 2:32 | 2025-11-13 | 2025-11-21 |
@@ -4702,7 +4703,7 @@
 | [Julia](https://open.spotify.com/track/2xnllPBqRgTiszi2cmgLul) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [Julia](https://open.spotify.com/album/5TWGSRtuOsPUDAKl2WKvon) | 2:52 | 2025-06-19 | 2025-06-27 |
 | [Julia](https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Julia](https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si) | 4:45 | 2026-02-12 | 2026-02-20 |
 | [Julie](https://open.spotify.com/track/7b2JZ8XmdH6tLwPxeI8l4f) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Julie](https://open.spotify.com/album/0U98zDYqqXd5XGx5BPamFJ) | 4:37 | 2024-12-12 | 2024-12-20 |
-| [juliet](https://open.spotify.com/track/20QpnulmuflvwCjXnDW8I2) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK), [Emilio Piano](https://open.spotify.com/artist/73mpJzShg7QOejB76dAHZT) | [juliet](https://open.spotify.com/album/5xDgBZvS8EFi4kh4jKcpP9) | 3:08 | 2026-07-09 |  |
+| [juliet](https://open.spotify.com/track/20QpnulmuflvwCjXnDW8I2) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK), [Emilio Piano](https://open.spotify.com/artist/73mpJzShg7QOejB76dAHZT) | [juliet](https://open.spotify.com/album/5xDgBZvS8EFi4kh4jKcpP9) | 3:07 | 2026-07-09 |  |
 | [Julkkis](https://open.spotify.com/track/6IdIBbwA7F2YTvsZmkPHbd) | [Baby Blu](https://open.spotify.com/artist/4MRUt0W6EcwLPwuH7ehu4A) | [Julkkis](https://open.spotify.com/album/7uPP9Pq2VcSDqqtEz1Mnln) | 2:30 | 2025-05-15 | 2025-05-23 |
 | [July](https://open.spotify.com/track/6LzxjnLFFlk639Xw43MDB9) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [July](https://open.spotify.com/album/3sbAIbwlBjdUt1GD1iteHO) | 2:32 | 2026-04-09 | 2026-04-17 |
 | [July Blue Skies](https://open.spotify.com/track/2TM3EXOpPX7LMiHuyBmL4m) | [Jimi Tenor](https://open.spotify.com/artist/69H6uUTI29XBzQXV1d3A7D), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [July Blue Skies](https://open.spotify.com/album/1KfTUlzzDovoJTZzI4nua8) | 8:52 | 2025-04-24 | 2025-05-02 |
@@ -10450,7 +10451,6 @@
 | [Toyboy](https://open.spotify.com/track/7MVEmgMAip0fGfOgNaRjlI) | [Herrat](https://open.spotify.com/artist/2HGPd1n5wmvFCJccRPRJ9k) | [Toyboy](https://open.spotify.com/album/5m3yIBuAo3v75o0NgSIAMT) | 3:19 | 2025-10-23 | 2025-10-31 |
 | [Toyboy](https://open.spotify.com/track/5PKv65XyVpMPwj6mDJNVdE) | [Ylävire](https://open.spotify.com/artist/7xCgb12CxaseKxdiQcm6BJ) | [Toyboy](https://open.spotify.com/album/51QGW3h5KDZ4whu2d85d9h) | 2:38 | 2026-06-11 | 2026-06-19 |
 | [Toyota Camry](https://open.spotify.com/track/1xkHI7u9Pt5CGFoeppAcKA) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [Toyota Camry](https://open.spotify.com/album/4JEj7jRQAfmWlRBvMcgD3O) | 4:06 | 2025-11-27 | 2025-12-05 |
-| [Track 12](https://open.spotify.com/track/6UwSqLdmUrD0DGp0D21Lpq) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [The Plot In You](https://open.spotify.com/album/6PJzcqwj8n19g9cdDWRiTf) | 0:00 | 2026-07-09 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-09 | 2026-04-17 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 | 2026-04-03 |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |

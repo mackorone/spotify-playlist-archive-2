@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Bonobo
 
-486 songs - 1 day 6 hr 29 min
+487 songs - 1 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Plastic Camelia](https://open.spotify.com/track/0ep3CnoP0dSWyFPUhQJU0D) | [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0) | [Plastic Camelia / Laurel](https://open.spotify.com/album/12PCtvnkWhvr5RRPXrFxyP) | 4:25 | 2026-04-16 | 2026-06-26 |
 | [Play Me](https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Play Me](https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV) | 2:49 | 2025-07-24 |  |
 | [Playa Paradiso](https://open.spotify.com/track/0l3T3j8Zr55SZbVZJEvpbU) | [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Playa Paradiso](https://open.spotify.com/album/0yMyo1SmvIrGoVUHW37YuP) | 3:05 | 2025-07-24 | 2025-09-18 |
+| [Please Don’t Go](https://open.spotify.com/track/3Vts3XadQYgFxql1hSyu3f) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [DJ\-Kicks: TEED](https://open.spotify.com/album/0JBsu60WuAjdgmNwBsqeDD) | 4:31 | 2026-06-25 |  |
 | [Pleasure Chasers](https://open.spotify.com/track/6pf5Yqg1zSbsxHaLBf49BP) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Promised Land](https://open.spotify.com/album/0uj28c7dMMgO59Jzx84bSE) | 2:50 | 2024-05-24 | 2025-05-09 |
 | [Plush](https://open.spotify.com/track/4jP7Eh55rn0buD5c2Cknmj) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Plush](https://open.spotify.com/album/4oxdzUE0WaiEG4mRkkidXE) | 3:59 | 2026-02-13 | 2026-06-19 |
 | [Pressure](https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Pressure](https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7) | 4:39 | 2024-10-03 | 2026-05-08 |
@@ -491,7 +492,7 @@
 | [Won't Give Your Love](https://open.spotify.com/track/1dO2xUT8D2MsscEEOcKX0Y) | [I Monster](https://open.spotify.com/artist/1CcPlAmcnJjC4FnaPVzv2v) | [Won't Give Your Love](https://open.spotify.com/album/3HJk1ikOOqmL4g07YRGG9l) | 2:43 | 2024-03-22 | 2024-09-20 |
 | [Wonderful Life '25](https://open.spotify.com/track/3HiwSiBqwXHy20VUVv44We) | [Hurts](https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Wonderful Life '25](https://open.spotify.com/album/1AF8ip6XRTWQkN1y5rQm2a) | 2:58 | 2025-05-29 | 2026-05-08 |
 | [words](https://open.spotify.com/track/26jHXGOE2EENKlCByolM1x) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [words](https://open.spotify.com/album/0wV2RsQZbMRVH1MynpbBSD) | 2:17 | 2025-05-08 | 2025-10-04 |
-| [WORRY\. \(Herbert's Brahm Dub\)](https://open.spotify.com/track/6OCgI9QBl6zgqfOFgiRGuu) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp) | [WORRY\. \(Herbert's Brahm Dub\)](https://open.spotify.com/album/289cq3Rl0F7yqAiwvJBdoX) | 3:14 | 2026-06-18 |  |
+| [WORRY\. \(Herbert's Brahm Dub\)](https://open.spotify.com/track/6OCgI9QBl6zgqfOFgiRGuu) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp) | [WORRY\. \(Herbert's Brahm Dub\)](https://open.spotify.com/album/289cq3Rl0F7yqAiwvJBdoX) | 3:14 | 2026-06-18 | 2026-07-11 |
 | [You Never Take Me Dancing](https://open.spotify.com/track/4pUen16NDnHuTTwhFKnRDM) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [You Never Take Me Dancing](https://open.spotify.com/album/4aEINAY37QrEjuUM0xxGVP) | 5:46 | 2024-03-01 | 2025-01-17 |
 | [⁠The Ghost of Her Smile](https://open.spotify.com/track/56Q8UTxYRhMu1YaF3wW9GG) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Julie Dawson](https://open.spotify.com/artist/1TzJp2tHjwJG5CZKPWGBIL) | [The Ghost of Her Smile](https://open.spotify.com/album/1eqB2GZ3j5ElZdXHUctKOB) | 3:40 | 2025-10-16 | 2025-11-07 |
 

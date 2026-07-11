@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 159061,
       "name": "La Pluma De Wax",
       "url": "https://open.spotify.com/track/5YZLTMJYD7GQ9vlBp7CoHU"
@@ -1870,6 +1870,28 @@
       "duration_ms": 164000,
       "name": "Pongase Bien Chula",
       "url": "https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4"
+    },
+    {
+      "album": {
+        "name": "Por el Pueblo y Para el Pueblo",
+        "url": "https://open.spotify.com/album/1wgidFNBRzoFtGx8NXhKm2"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Alta Gama",
+          "url": "https://open.spotify.com/artist/1ZOQjTwtC0tXWf4FqCKA3m"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Por el Pueblo y Para el Pueblo",
+      "url": "https://open.spotify.com/track/0r4FuLHmh5yE9TBBFOHikB"
     },
     {
       "album": {

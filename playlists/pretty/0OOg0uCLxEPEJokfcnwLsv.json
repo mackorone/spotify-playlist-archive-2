@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1142,
+  "num_followers": 1145,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGm5Zf5fMwAR6bfuvSEzR/zd1kreS0",
+  "snapshot_id": "AAAGnIyvMCMeR+D5320iaUn+sghJrDqF",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1923,6 +1923,22 @@
       "duration_ms": 215625,
       "name": "Glorious",
       "url": "https://open.spotify.com/track/1mAJOvqasn4SzRgqvdmF52"
+    },
+    {
+      "added_at": "2026-07-10 16:37:16",
+      "album": {
+        "name": "what're we doing?",
+        "url": "https://open.spotify.com/album/2AtX3aO6bRDHtc1qO3W61D"
+      },
+      "artists": [
+        {
+          "name": "Ethan Jacobs",
+          "url": "https://open.spotify.com/artist/7rLn0S7IQ2UibUTclefgGA"
+        }
+      ],
+      "duration_ms": 243750,
+      "name": "what're we doing?",
+      "url": "https://open.spotify.com/track/04bZCSivQeAQLCfVu6CTEQ"
     }
   ],
   "unique_name": "Unsigned Rock",

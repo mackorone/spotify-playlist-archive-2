@@ -536,7 +536,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 297746,
       "name": "Como duele el frio",
       "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
@@ -1134,6 +1134,24 @@
       "duration_ms": 316760,
       "name": "El Llanto de un Rey",
       "url": "https://open.spotify.com/track/1UO7KVq6QhNG5SxfwaLmyg"
+    },
+    {
+      "album": {
+        "name": "Rafael Orozco\u2026 Vive, Vol. 2",
+        "url": "https://open.spotify.com/album/5dHmdqVE60ZfRQN6cBgf1s"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316826,
+      "name": "El Llanto de un Rey",
+      "url": "https://open.spotify.com/track/385dsd7q5O9Htpx10Oqb76"
     },
     {
       "album": {
@@ -3606,7 +3624,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 297413,
       "name": "Quiero Saber de Ti",
       "url": "https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg"
@@ -3802,7 +3820,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 294640,
       "name": "Si Tu Amor No Vuelve",
       "url": "https://open.spotify.com/track/4frx1sI3l2Chq71SLHjiSx"

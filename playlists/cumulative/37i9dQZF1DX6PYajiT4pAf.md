@@ -4,7 +4,7 @@
 
 > Vicco, Pablo Alborán, Lucho RK, J Abecia con Luis Cortés y el resto de novedades de la semana.
 
-6,081 songs - 12 day 23 hr 15 min
+6,082 songs - 12 day 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [A Veces](https://open.spotify.com/track/3N1yNINZKp7j62WbA39ToX) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [A Veces](https://open.spotify.com/album/4o5XUPdw1HeAY7LtBpRMnw) | 3:52 | 2026-01-15 | 2026-01-23 |
 | [A Veces](https://open.spotify.com/track/0ZF9URNu4tNJHPF1eHAE5B) | [Las Rodes](https://open.spotify.com/artist/3ZNLwVLzrOCDyWMaqiaQoc) | [A Veces](https://open.spotify.com/album/3WKi4oEaVbeBLRhZSgQi6m) | 2:57 | 2026-02-13 | 2026-02-20 |
 | [A ver quién se duerme ahora](https://open.spotify.com/track/7o5WOg4bXlWjVmOBPLgEtb) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ) | [A ver quién se duerme ahora](https://open.spotify.com/album/0nJbGCacKiwX8Rw1teA7lJ) | 3:28 | 2026-05-28 | 2026-06-05 |
+| [A Xon De Que](https://open.spotify.com/track/7LehzyyXmCYjxw3DHX6vyZ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [A Xon De Que](https://open.spotify.com/album/1OzctavGYNKD9Tu5W0dOYP) | 2:21 | 2026-07-10 |  |
 | [Aa Amor](https://open.spotify.com/track/48u1Y5A6hRgu442M6qK0lx) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA) | [Aa Amor](https://open.spotify.com/album/2fLJbbhSsUrnbrVsKUNJsM) | 2:50 | 2026-06-25 | 2026-07-03 |
 | [Aa Hermana](https://open.spotify.com/track/52LbkOsKnSGobyEymMN65C) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA) | [Aa](https://open.spotify.com/album/3EZvaYqi6Mbmbu7LMPrLn9) | 3:01 | 2026-03-26 | 2026-04-03 |
 | [Aa Mamá](https://open.spotify.com/track/1UVfA3ocDO8asSbQJ2zFKy) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA) | [Aa Mamá](https://open.spotify.com/album/7bbisrM50D2hRE5BOw8hYa) | 3:02 | 2026-03-05 | 2026-03-13 |
@@ -824,7 +825,7 @@
 | [CALIFATTY](https://open.spotify.com/track/6zf8oieONzFgpoMKDXebXg) | [Gloosito](https://open.spotify.com/artist/1MXug5KOetEEQjjvCPWwIm) | [CALIFATTY](https://open.spotify.com/album/0ReDy6oCayZyaSp65NsAJt) | 2:56 | 2026-06-18 | 2026-06-26 |
 | [California](https://open.spotify.com/track/2mhfNF3gDjy4aoIgY9TeVR) | [Bely Basarte](https://open.spotify.com/artist/6akDfyocmsREgR5eUXZt3I) | [California](https://open.spotify.com/album/5zOjxY928iI0ItXHMKHzrq) | 3:49 | 2025-05-22 | 2025-05-30 |
 | [California](https://open.spotify.com/track/6Fu81TIuJn4rYleNUctqOx) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [California](https://open.spotify.com/album/08Dvx4JDDAICQr0Vzeu0ve) | 2:16 | 2025-07-18 | 2025-07-25 |
-| [California Girls](https://open.spotify.com/track/5Rv0O0Bv90IqC97T68zesG) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:29 | 2026-07-09 |  |
+| [California Girls](https://open.spotify.com/track/5Rv0O0Bv90IqC97T68zesG) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:29 | 2026-07-09 | 2026-07-11 |
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-02-20 | 2025-02-28 |
 | [Callaita](https://open.spotify.com/track/4fX7YnVgyD5hKSdLMPti1X) | [Karina y Marina](https://open.spotify.com/artist/4B6Hy10aNxuD1TebKDgzAe), [Marc Magán](https://open.spotify.com/artist/2vpwloS2Oqgn4tSxcfVuCq) | [Callaita](https://open.spotify.com/album/7hyNffnjlUqgJi27t9uEsC) | 2:54 | 2025-05-22 | 2025-05-30 |
 | [Callaito](https://open.spotify.com/track/3Aqg7ZURmkYp2wBWP97yyf) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Callaito](https://open.spotify.com/album/4bvde1FuDj7wFYuCr8ynWv) | 2:34 | 2025-08-01 | 2025-08-09 |

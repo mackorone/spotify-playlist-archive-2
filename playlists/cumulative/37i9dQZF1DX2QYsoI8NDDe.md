@@ -2,9 +2,9 @@
 
 ### [Women of Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX2QYsoI8NDDe)
 
-> ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Laraim 🔥
+> ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Marian Oviedo y Laraim 🔥
 
-704 songs - 1 day 14 hr 1 min
+707 songs - 1 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Ayer Pedí](https://open.spotify.com/track/6Pyh7P7RYN7Cu21jjwXsTu) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Ayer Pedí](https://open.spotify.com/album/5DbBtgQ0oZ5odiNf1QZM7m) | 2:58 | 2024-08-30 | 2025-10-25 |
 | [Aún Así Te Vas](https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Aún Así Te Vas](https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW) | 3:16 | 2024-09-20 | 2025-04-05 |
 | [Aún Así Te Vas](https://open.spotify.com/track/1brn629MQJ4GOKmUiIjFSv) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Mío](https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h) | 3:17 | 2025-05-30 | 2026-03-07 |
+| [Baby You Already Know](https://open.spotify.com/track/2KqhiKIOo47WRZMBY30vLy) | [Jaime Carrasco Y Su 37](https://open.spotify.com/artist/1luesZjrXUWCvqfkUF7RCf) | [Baby You Already Know](https://open.spotify.com/album/7ffW9e0vWEcbobN2UYsIPq) | 2:44 | 2026-07-10 |  |
 | [Bala Perdida](https://open.spotify.com/track/157j8WwiFdDZ6FKIiomEXr) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Bala Perdida](https://open.spotify.com/album/3QpEb97cXKHstSxXt4MSmk) | 3:03 | 2026-02-20 | 2026-06-27 |
 | [Bandera Roja](https://open.spotify.com/track/2bHHyIL9AX6EraJ3ESEqzW) | [Irany](https://open.spotify.com/artist/49wdJm96LMyfZh8V5YMEPF) | [Bandera Roja](https://open.spotify.com/album/1tFEgnkswmKs2NN5z7cLH1) | 2:49 | 2026-03-06 |  |
 | [Bandida](https://open.spotify.com/track/2yTBoj98BbfJx72n3Npbt2) | [Domenica](https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX) | [Bandida](https://open.spotify.com/album/4mWjo0GCQ0LaFZOrZppIEI) | 2:57 | 2025-01-28 | 2026-01-15 |
@@ -148,6 +149,7 @@
 | [De Qué Sirvió](https://open.spotify.com/track/39p2KkJKj06tAAPSVrgu0H) | [Anna Lizbeth](https://open.spotify.com/artist/3yTCVdTJhxuAOdbGg0QA6s) | [De Qué Sirvió](https://open.spotify.com/album/4x25w7QnfjQoXtMOnMiEh9) | 2:40 | 2025-11-14 | 2026-01-17 |
 | [De Ti No Lo Esperaba](https://open.spotify.com/track/6JMJKfwi2UiDsCvAlaOH4x) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [De Ti No Lo Esperaba](https://open.spotify.com/album/5WWN1xJb84SCDRx3kll6E0) | 3:13 | 2022-01-07 | 2022-01-22 |
 | [Decidí No Amarte Más](https://open.spotify.com/track/59MvagSItdlMaZZrka4rfR) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Decidí No Amarte Más](https://open.spotify.com/album/6i2TPa1oe7awd3ZZDaMYWt) | 3:47 | 2025-05-30 | 2026-03-07 |
+| [Decías](https://open.spotify.com/track/4PfYbfUpKZMcS4yR83Ruuj) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci), [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Decías](https://open.spotify.com/album/4qbGlRLvzWKjqrBHU1WPJ9) | 2:54 | 2026-07-10 |  |
 | [Deja Que Salga La Luna](https://open.spotify.com/track/7I8Y1UM2J2IDqXxpSjfrJB) | [Isaveli Laina](https://open.spotify.com/artist/37dfV12XY35kkD8roaOSnj) | [Deja Que Salga La Luna](https://open.spotify.com/album/1AqW1mbKegwXQfTCeTdxOT) | 3:54 | 2025-09-26 | 2026-04-04 |
 | [Deja Que Salga la Luna \- En Vivo](https://open.spotify.com/track/5d4rgvM3J5aV9mY2OweosG) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Deja Que Salga la Luna \(En Vivo\)](https://open.spotify.com/album/6ndaddkZnoMfm6Q1YXQ1qY) | 3:17 | 2024-09-20 | 2026-02-14 |
 | [Desamor \(Medley\)](https://open.spotify.com/track/3i6t7Hc5UuFPS9oob58oAe) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z), [Grupo Marcial](https://open.spotify.com/artist/1ppy6WatE50AkKuQ1g8qsM) | [Desamor \(Medley\)](https://open.spotify.com/album/5eobty6ORu74MLDLLpQFMz) | 5:38 | 2023-03-03 | 2023-05-01 |
@@ -644,6 +646,7 @@
 | [Tú a Mí No Me Hundes](https://open.spotify.com/track/6PblaBoFvMNh3x4gbTV0zU) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/4You1BWzCuVqMqDuxW7Bkl) | 3:04 | 2022-01-07 | 2022-07-28 |
 | [Tú Lo Decidiste](https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:49 | 2022-01-07 | 2023-03-04 |
 | [Tú Me Juraste](https://open.spotify.com/track/7H0UpwPK8u7KZZmztK4lyG) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Tú Me Juraste](https://open.spotify.com/album/4r7lu3B0x4cT9OFEUd4mis) | 3:27 | 2026-03-20 |  |
+| [Tú Serás Mi Baby](https://open.spotify.com/track/5AyIzkvWCgH7IY8qCoJbYo) | [Susana Zabaleta](https://open.spotify.com/artist/7JzK970uwxEKUzYUgMvC3Q) | [Tú Serás Mi Baby](https://open.spotify.com/album/5Bi4HNvi7RkD35jLJqqObs) | 2:52 | 2026-07-10 |  |
 | [Tú Sí Sabes Quererme \(feat\. Los Macorinos\)](https://open.spotify.com/track/6p3yxt0uJJshAS3CT0znQg) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol\. 1\)](https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt) | 4:04 | 2022-01-07 | 2023-03-04 |
 | [Tú, Solamente Tú](https://open.spotify.com/track/71NhyYmqQL4TcCmVvLZG5i) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Tú, Solamente Tú](https://open.spotify.com/album/2vSo3dxG5oktb1HKdI1Mof) | 3:22 | 2024-10-18 | 2026-02-14 |
 | [Un Abrazo \- Versión Regional](https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Un Abrazo \(Versión Regional\)](https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H) | 3:58 | 2025-12-12 |  |

@@ -1,13 +1,277 @@
 {
-  "description": "The home of Canadian country music. Cover: Trudy",
-  "num_followers": 84102,
+  "description": "The home of Canadian country music. Cover: Chevy Beaulieu",
+  "num_followers": 84108,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGPX0A5e6cKywECeGslwDGj34Ibz",
+  "snapshot_id": "AAAAAFnsmeJDD972tF+EITiVA6Ir//OD",
   "tracks": [
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Chevy Beaulieu",
+        "url": "https://open.spotify.com/album/0FQiGrFyiSDAWo0XEjHXDu"
+      },
+      "artists": [
+        {
+          "name": "Chevy Beaulieu",
+          "url": "https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Hell If I Know",
+      "url": "https://open.spotify.com/track/15dkTfTBwtG4tpz3hVbMYu"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "I Sure Hope So",
+        "url": "https://open.spotify.com/album/6AF4c8unC9GTqPnAc5MHUv"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "duration_ms": 209166,
+      "name": "I Sure Hope So",
+      "url": "https://open.spotify.com/track/1sx70yd6jpIAGZPy9xgocz"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Faded Blue Jeans",
+        "url": "https://open.spotify.com/album/7jbfvhV7NYQoXYVFdJwhD2"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Josh Homme",
+          "url": "https://open.spotify.com/artist/03xb2BUdIFzuRQ6o88yfCB"
+        }
+      ],
+      "duration_ms": 151962,
+      "name": "Faded Blue Jeans (feat. Josh Homme)",
+      "url": "https://open.spotify.com/track/5Zdks1bLKiYAP9HJEh65kc"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "God Knows I Try",
+        "url": "https://open.spotify.com/album/7IQPPigGG11oSuzWYIEKZF"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "duration_ms": 205950,
+      "name": "God Knows I Try",
+      "url": "https://open.spotify.com/track/1Im9Iuc0kOw6CqZo9AItEo"
+    },
+    {
+      "added_at": "2026-04-17 04:05:01",
+      "album": {
+        "name": "Deep Water",
+        "url": "https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 153069,
+      "name": "Deep Water",
+      "url": "https://open.spotify.com/track/528USB3qDsPEM7Gd0gnUxP"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Being Free",
+        "url": "https://open.spotify.com/album/4QqwaUHjqb9QsoP4F2fqHe"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vanderzon",
+          "url": "https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD"
+        }
+      ],
+      "duration_ms": 216598,
+      "name": "Being Free",
+      "url": "https://open.spotify.com/track/4BiENiXpFT8dNinYMtwxCo"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Home In Your Broken Heart",
+        "url": "https://open.spotify.com/album/6UW0EYuBmuScXfzQmfolg9"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 222710,
+      "name": "Home In Your Broken Heart",
+      "url": "https://open.spotify.com/track/23jTdWCqELQZAPfOzG1jtB"
+    },
+    {
+      "added_at": "2026-06-26 08:00:22",
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/1nRGVWoYLgEXzkbVMRMzTx"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "duration_ms": 181389,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/1D5jc3SEX95okcz9tkeXea"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Killed My Silverado",
+        "url": "https://open.spotify.com/album/65CoarfdhnrxT9djRQJcbS"
+      },
+      "artists": [
+        {
+          "name": "Evan Burrison",
+          "url": "https://open.spotify.com/artist/429Zw6geVC0AUPv1sq0bf4"
+        }
+      ],
+      "duration_ms": 163035,
+      "name": "Killed My Silverado",
+      "url": "https://open.spotify.com/track/7no6q4Nx6mJus9km9s4KV6"
+    },
+    {
+      "added_at": "2026-06-26 08:00:22",
+      "album": {
+        "name": "The Tenth Album (Side A)",
+        "url": "https://open.spotify.com/album/6hE8XsXc342nRFRc1bSKyD"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "duration_ms": 144790,
+      "name": "Death Of Me",
+      "url": "https://open.spotify.com/track/0y1dRDH0ygZFRznBaJaLGs"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/6UqGAVVxW5CTW92XPkWqOb"
+      },
+      "artists": [
+        {
+          "name": "Jessica Sevier",
+          "url": "https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2"
+        }
+      ],
+      "duration_ms": 186884,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7DQ5YNHYWwEyEqGsb4JWfQ"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Killing Spree",
+        "url": "https://open.spotify.com/album/7hRmv19NTFBQc2Pq8Cc0h8"
+      },
+      "artists": [
+        {
+          "name": "Heather Russell",
+          "url": "https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN"
+        }
+      ],
+      "duration_ms": 158530,
+      "name": "Killing Spree",
+      "url": "https://open.spotify.com/track/6L64IOKXyZjIS6rpdwEf8Z"
+    },
+    {
+      "added_at": "2026-07-03 04:03:19",
+      "album": {
+        "name": "On va veiller toute la nuit",
+        "url": "https://open.spotify.com/album/7qda1MBlYz2KIHn2ZdtJmD"
+      },
+      "artists": [
+        {
+          "name": "Classe Moyenne",
+          "url": "https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        },
+        {
+          "name": "Zach Chico",
+          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
+        },
+        {
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+        },
+        {
+          "name": "Phil Rxcket",
+          "url": "https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt"
+        },
+        {
+          "name": "Francis Degrandpr\u00e9",
+          "url": "https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "On va veiller toute la nuit (feat. Francis Degrandpr\u00e9)",
+      "url": "https://open.spotify.com/track/35BamCZ36Pz5wtUrF9go0g"
+    },
+    {
+      "added_at": "2026-04-17 04:05:01",
+      "album": {
+        "name": "In The Feeling",
+        "url": "https://open.spotify.com/album/5t9dUqzhZipR4hx7et4gx4"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 200623,
+      "name": "Rest Of My",
+      "url": "https://open.spotify.com/track/3nPggg2eXJSJWTnThsj85q"
+    },
+    {
+      "added_at": "2026-05-29 08:01:08",
+      "album": {
+        "name": "Wanted Me To Be",
+        "url": "https://open.spotify.com/album/5BjaOkDHHlGDvvCg3bPzyK"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 185169,
+      "name": "Wanted Me To Be",
+      "url": "https://open.spotify.com/track/1Nww2oddtMYh25oGMVp7HD"
+    },
     {
       "added_at": "2026-07-03 04:03:19",
       "album": {
@@ -39,38 +303,6 @@
       "duration_ms": 201487,
       "name": "I Ain't Crazy",
       "url": "https://open.spotify.com/track/4ZJ6oanHufLf1kBDloOipa"
-    },
-    {
-      "added_at": "2026-04-17 04:05:01",
-      "album": {
-        "name": "Deep Water",
-        "url": "https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 153069,
-      "name": "Deep Water",
-      "url": "https://open.spotify.com/track/528USB3qDsPEM7Gd0gnUxP"
-    },
-    {
-      "added_at": "2026-06-26 08:00:22",
-      "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/1nRGVWoYLgEXzkbVMRMzTx"
-      },
-      "artists": [
-        {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
-        }
-      ],
-      "duration_ms": 181389,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/1D5jc3SEX95okcz9tkeXea"
     },
     {
       "added_at": "2026-07-03 04:03:19",
@@ -123,42 +355,6 @@
     {
       "added_at": "2026-07-03 04:03:19",
       "album": {
-        "name": "On va veiller toute la nuit",
-        "url": "https://open.spotify.com/album/7qda1MBlYz2KIHn2ZdtJmD"
-      },
-      "artists": [
-        {
-          "name": "Classe Moyenne",
-          "url": "https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v"
-        },
-        {
-          "name": "Gabriel Fredette",
-          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
-        },
-        {
-          "name": "Zach Chico",
-          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
-        },
-        {
-          "name": "Justin Roy",
-          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
-        },
-        {
-          "name": "Phil Rxcket",
-          "url": "https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt"
-        },
-        {
-          "name": "Francis Degrandpr\u00e9",
-          "url": "https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "On va veiller toute la nuit (feat. Francis Degrandpr\u00e9)",
-      "url": "https://open.spotify.com/track/35BamCZ36Pz5wtUrF9go0g"
-    },
-    {
-      "added_at": "2026-07-03 04:03:19",
-      "album": {
         "name": "Wild One",
         "url": "https://open.spotify.com/album/3hso24A17CvR3XtHsQtyam"
       },
@@ -171,22 +367,6 @@
       "duration_ms": 208210,
       "name": "Wild One",
       "url": "https://open.spotify.com/track/1hzhwqaH1z72vzbihRF3No"
-    },
-    {
-      "added_at": "2026-04-17 04:05:01",
-      "album": {
-        "name": "In The Feeling",
-        "url": "https://open.spotify.com/album/5t9dUqzhZipR4hx7et4gx4"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 200623,
-      "name": "Rest Of My",
-      "url": "https://open.spotify.com/track/3nPggg2eXJSJWTnThsj85q"
     },
     {
       "added_at": "2026-06-12 04:03:11",
@@ -203,22 +383,6 @@
       "duration_ms": 190276,
       "name": "Natural Disaster",
       "url": "https://open.spotify.com/track/4yZZkrYsIrHzqJHZBzhM28"
-    },
-    {
-      "added_at": "2026-06-26 08:00:22",
-      "album": {
-        "name": "The Tenth Album (Side A)",
-        "url": "https://open.spotify.com/album/6hE8XsXc342nRFRc1bSKyD"
-      },
-      "artists": [
-        {
-          "name": "Dean Brody",
-          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
-        }
-      ],
-      "duration_ms": 144790,
-      "name": "Death Of Me",
-      "url": "https://open.spotify.com/track/0y1dRDH0ygZFRznBaJaLGs"
     },
     {
       "added_at": "2026-06-26 08:00:22",
@@ -259,22 +423,6 @@
       "duration_ms": 255883,
       "name": "Little Miss Twain (feat. Tanya Tucker)",
       "url": "https://open.spotify.com/track/5HxmVxSA0jpEz67sk3bCXA"
-    },
-    {
-      "added_at": "2026-05-29 08:01:08",
-      "album": {
-        "name": "Wanted Me To Be",
-        "url": "https://open.spotify.com/album/5BjaOkDHHlGDvvCg3bPzyK"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 185169,
-      "name": "Wanted Me To Be",
-      "url": "https://open.spotify.com/track/1Nww2oddtMYh25oGMVp7HD"
     },
     {
       "added_at": "2026-06-26 08:00:22",
@@ -1031,22 +1179,6 @@
       "duration_ms": 205402,
       "name": "Mid Life",
       "url": "https://open.spotify.com/track/6rVUVt13g4qJ7Tlz2ZQEyG"
-    },
-    {
-      "added_at": "2026-05-15 04:03:14",
-      "album": {
-        "name": "Dirty Rosie",
-        "url": "https://open.spotify.com/album/3uN1RhHEbmFjBXfpPVU1qb"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 166792,
-      "name": "Dirty Rosie",
-      "url": "https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC"
     },
     {
       "added_at": "2026-05-29 08:01:08",
@@ -1853,22 +1985,6 @@
       "url": "https://open.spotify.com/track/0P7lYijRL5egHjELsuKtRk"
     },
     {
-      "added_at": "2026-04-17 04:05:01",
-      "album": {
-        "name": "Headlights & Memories / Any Easier",
-        "url": "https://open.spotify.com/album/70uAWM56N4JPsmby2zb09o"
-      },
-      "artists": [
-        {
-          "name": "Chevy Beaulieu",
-          "url": "https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC"
-        }
-      ],
-      "duration_ms": 216885,
-      "name": "Any Easier",
-      "url": "https://open.spotify.com/track/0RGPhUgF2xzoyg8jnCzVPO"
-    },
-    {
       "added_at": "2026-01-23 05:01:13",
       "album": {
         "name": "Thought About You",
@@ -2225,22 +2341,6 @@
       "url": "https://open.spotify.com/track/0muNW8rIdKibQ53jYZtntK"
     },
     {
-      "added_at": "2026-04-03 04:04:15",
-      "album": {
-        "name": "Springsteen",
-        "url": "https://open.spotify.com/album/6OAS2XMhnVr3z0NyqNsMc0"
-      },
-      "artists": [
-        {
-          "name": "Jessica Sevier",
-          "url": "https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2"
-        }
-      ],
-      "duration_ms": 190539,
-      "name": "Springsteen",
-      "url": "https://open.spotify.com/track/0ZaO9StpzY9hRGYHoGeu89"
-    },
-    {
       "added_at": "2026-03-27 04:01:06",
       "album": {
         "name": "If I Go Missin\u2019",
@@ -2401,22 +2501,6 @@
       "url": "https://open.spotify.com/track/58T9niWI2sJJVnwbv57Zfn"
     },
     {
-      "added_at": "2025-10-24 04:25:20",
-      "album": {
-        "name": "Way Back",
-        "url": "https://open.spotify.com/album/6xyq20lV14UZxDcqBrl464"
-      },
-      "artists": [
-        {
-          "name": "Robyn Ottolini",
-          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
-        }
-      ],
-      "duration_ms": 173174,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/7ABu9tAiv5hMGiyJgOqe8I"
-    },
-    {
       "added_at": "2026-03-20 04:01:39",
       "album": {
         "name": "Call Away",
@@ -2483,22 +2567,6 @@
       "duration_ms": 234272,
       "name": "the acrobat (feat. Lori McKenna)",
       "url": "https://open.spotify.com/track/6Q3lIX5uEqiTxt2cwvyl0R"
-    },
-    {
-      "added_at": "2025-10-17 04:01:39",
-      "album": {
-        "name": "Fortune Teller",
-        "url": "https://open.spotify.com/album/1GIHpTihLalWrEw8qi07RJ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vanderzon",
-          "url": "https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD"
-        }
-      ],
-      "duration_ms": 155332,
-      "name": "Fortune Teller",
-      "url": "https://open.spotify.com/track/43mitDdTC0YfAQ0y1o8jaS"
     },
     {
       "added_at": "2026-03-13 04:01:34",

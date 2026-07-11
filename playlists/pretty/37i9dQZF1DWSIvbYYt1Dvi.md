@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > estatística não esconde lírica comum // Rincon Sapiência
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,138,079 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,137,949 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [TÚNEL REBOUÇAS](https://open.spotify.com/track/7k0aaFjBBSyqwWoTNhVryG) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP) | [Você Precisa do Álibi](https://open.spotify.com/album/4530wDuVkqhhnJsGma5qKX) | 1:48 |
 | 50 | [Selva Russa](https://open.spotify.com/track/21309SlGrywf6x8sy7lwRe) | [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE), [Caio Ocean](https://open.spotify.com/artist/4vSK6DNj480ABpDaCwrn4Q) | [Se Não Sabe Agora Sabe, Vol\. 1](https://open.spotify.com/album/0AmHaCOUrjzxA79wlb3Zao) | 2:39 |
 
-Snapshot ID: `AAAAAPpv/Ct/rYWRqIakCF2jfFNNl7ht`
+Snapshot ID: `AAAAAI2e0TPFQn0z3zZKbsPcs6n63SpD`

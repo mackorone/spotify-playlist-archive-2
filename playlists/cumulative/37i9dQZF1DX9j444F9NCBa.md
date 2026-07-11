@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-692 songs - 1 day 11 hr 8 min
+694 songs - 1 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Demons](https://open.spotify.com/track/4kUStH2WW43Ly9wXHOry5v) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [Demons](https://open.spotify.com/album/38CMtYhTZkGGCAi63jiTDi) | 2:48 | 2022-12-02 | 2023-06-03 |
 | [Despacito](https://open.spotify.com/track/2WEmPZmssb7P5CKTijtA0t) | [Zack Allen](https://open.spotify.com/artist/66Lcw9CT6905ShD7NP1eNe) | [Despacito](https://open.spotify.com/album/4geG06rG3VMTn7ALmhkbuW) | 1:51 | 2022-10-14 | 2023-08-18 |
 | [Diamonds](https://open.spotify.com/track/27KOvI2gU9fAMddgSTpQw4) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Diamonds](https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n) | 3:09 | 2023-05-12 | 2023-06-03 |
-| [Diamonds and Pearls](https://open.spotify.com/track/3WKpflEjBgrePheA5AzsU1) | [Simon Westman](https://open.spotify.com/artist/5BfaOl251rYEVEU1RCwzSW) | [Diamonds and Pearls](https://open.spotify.com/album/7IBC5tXIczTPEPbSIlUGd1) | 2:57 | 2022-05-18 |  |
+| [Diamonds and Pearls](https://open.spotify.com/track/3WKpflEjBgrePheA5AzsU1) | [Simon Westman](https://open.spotify.com/artist/5BfaOl251rYEVEU1RCwzSW) | [Diamonds and Pearls](https://open.spotify.com/album/7IBC5tXIczTPEPbSIlUGd1) | 2:57 | 2022-05-18 | 2026-07-11 |
 | [Die 4 Me](https://open.spotify.com/track/6UFkfO4Hn0RCiUoL270dpq) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Die 4 Me](https://open.spotify.com/album/4zluT7uuTQrgz55gESxfZe) | 2:36 | 2023-04-28 | 2026-03-05 |
 | [Die With A Smile](https://open.spotify.com/track/3NbO3rVszlJViICwud48IU) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Die With A Smile](https://open.spotify.com/album/1MttF66Wfhp9pwZTLy26mg) | 3:18 | 2024-11-08 |  |
 | [Dive](https://open.spotify.com/track/77WVPfm3iseIYSEzrarIMC) | [Simon Koch](https://open.spotify.com/artist/6X1UMdYVnTzCJgLryxnbcs) | [Dive](https://open.spotify.com/album/510NDFUG6t6G6ESArhK9HS) | 2:03 | 2026-04-24 |  |
@@ -450,6 +450,7 @@
 | [Perfect](https://open.spotify.com/track/7HTSEdBFiJF2dy5PYeZ5EM) | [Claire Haeving](https://open.spotify.com/artist/1TwEiPFLOc40tfIB7EvaWX) | [Perfect](https://open.spotify.com/album/23TNaO22z7yYPuzgqxdTOL) | 2:58 | 2024-12-20 |  |
 | [Perfect \- Acoustic Guitar](https://open.spotify.com/track/0lqq3RSTNMgRuupfrXcVj1) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/013FphjZqkqZzBaJNzb5yp) | 3:26 | 2022-01-21 | 2024-07-19 |
 | [Perfect \- Acoustic Guitar](https://open.spotify.com/track/4PiaKCDfrFPih8JJW0nyfP) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/7uLOIGQT1VKBQPOaPtlt8a) | 3:26 | 2023-03-24 | 2024-04-19 |
+| [Photograph](https://open.spotify.com/track/4S0oYfTzeFZUKRlBpBF3nb) | [Noham St Pierre](https://open.spotify.com/artist/5peIXCuwqmyxKDs2JT1CDA) | [Photograph](https://open.spotify.com/album/4zjdNFa7ixJkILyFQgi00k) | 3:32 | 2026-07-10 |  |
 | [Photograph \(Instrumental Piano\)](https://open.spotify.com/track/0UNXTLCFf3erUgsO8IH4aK) | [Matchstick Piano Man](https://open.spotify.com/artist/4aKuEXqhHmIZKdDRkaPPKO) | [Photograph \(Instrumental Piano\)](https://open.spotify.com/album/6I1ceSGsVPEfRnqyyTHwKj) | 5:08 | 2022-08-01 | 2025-10-25 |
 | [Piano Man](https://open.spotify.com/track/0VQsMDssKFEUG57CZ31YcD) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Piano Man](https://open.spotify.com/album/3BqnXRksYjWugaqusDNrML) | 2:31 | 2024-02-09 |  |
 | [Please Please Please](https://open.spotify.com/track/3zohOG2bCU8uKPEd7IXT2e) | [Alexander Windale](https://open.spotify.com/artist/0HkHkfvuF0nxswWANtem18) | [Please Please Please](https://open.spotify.com/album/2yWHVaVYNQbJIhcSDVnde9) | 2:46 | 2026-01-09 |  |
@@ -648,7 +649,7 @@
 | [What Is Love](https://open.spotify.com/track/3tKauD5kFXQb4cju242NMv) | [Vakur Svalason](https://open.spotify.com/artist/6yfv7Ftp3LxeYueOlidnZ3) | [Say My Name](https://open.spotify.com/album/0LAO785ee5Dx0SNTMApanL) | 2:53 | 2023-03-17 | 2023-06-03 |
 | [What Was I Made For?](https://open.spotify.com/track/5yhPNVqJog8cR2e8AWADO6) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [What Was I Made For?](https://open.spotify.com/album/1B034YD9BTZoSI4l6WCXuK) | 3:01 | 2023-09-08 | 2026-03-05 |
 | [When I Held Ya](https://open.spotify.com/track/7lNpAXqQVSUjmaVDMljWPp) | [Isobel Fontenay](https://open.spotify.com/artist/17qS41Pzc9yp8aOWJiey0Z) | [When I Held Ya](https://open.spotify.com/album/0SK2OyGdMTXcayeC3M4X3v) | 3:10 | 2022-12-16 | 2025-10-25 |
-| [When I Was Your Man](https://open.spotify.com/track/5HiUOgzNWhTcCx26TpIVEK) | [Alexander Gresham](https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN) | [When I Was Your Man](https://open.spotify.com/album/7Kg7Sh8eO8stsl1ZLpBOca) | 3:09 | 2025-08-29 |  |
+| [When I Was Your Man](https://open.spotify.com/track/5HiUOgzNWhTcCx26TpIVEK) | [Alexander Gresham](https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN) | [When I Was Your Man](https://open.spotify.com/album/7Kg7Sh8eO8stsl1ZLpBOca) | 3:09 | 2025-08-29 | 2026-07-11 |
 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 | 2022-01-21 | 2023-04-14 |
 | [When You Believe](https://open.spotify.com/track/2EfjVCYTSVGWtBFh75r99F) | [Stephen Thorpe](https://open.spotify.com/artist/62R1usQ6dISiLd8Ogw8wKD) | [When You Believe](https://open.spotify.com/album/0CIUvoJOwQMIjVTAXDGKLI) | 4:03 | 2022-01-21 | 2023-03-18 |
 | [When You Say Nothing At All](https://open.spotify.com/track/6j0tjTQ6Pz3tB0O8uix2Eo) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [When You Say Nothing At All](https://open.spotify.com/album/1heo44LPMiIUkFQjiQjrM3) | 3:21 | 2023-11-17 |  |
@@ -661,6 +662,7 @@
 | [Wicked Game](https://open.spotify.com/track/2xdZFU10kxBAZSyImawWkf) | [Claire Haeving](https://open.spotify.com/artist/1TwEiPFLOc40tfIB7EvaWX) | [Uncovered](https://open.spotify.com/album/0xOfEKGbSpYALqMH3IHahO) | 3:10 | 2022-01-21 | 2026-03-05 |
 | [Wicked Little Town](https://open.spotify.com/track/2pUSuzYdYL7slVFPBFlWGp) | [Belinda Myers](https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8) | [Defying Gravity](https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb) | 3:16 | 2022-01-21 | 2023-04-29 |
 | [Wild Horses](https://open.spotify.com/track/0w4UTfFR62G4Tv0u1lJIED) | [Richard Goldsworthy](https://open.spotify.com/artist/0W0vripYNU4cqxy3abRYuO) | [Wild Horses](https://open.spotify.com/album/7ojqnKT6vCuQN5yG9arN1N) | 3:56 | 2022-08-01 | 2023-02-10 |
+| [Wild World](https://open.spotify.com/track/5ehcBCNeQJUkJeBb4RDK0M) | [Alexander Gresham](https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN) | [Wild World](https://open.spotify.com/album/0BEGVJkPOdYaAn6I6PMv97) | 3:07 | 2026-07-10 |  |
 | [Wildflower](https://open.spotify.com/track/0nviVIOaSeiE5IgcoiCj53) | [Blue Spov](https://open.spotify.com/artist/0v4UETzymroBlTsmlVCdNa) | [Wildflower](https://open.spotify.com/album/2Smbg9yigOUljVnk4HRPAd) | 3:32 | 2026-05-22 | 2026-06-12 |
 | [Wind Of Change](https://open.spotify.com/track/7xYSleWEppumLFfcae1D2F) | [Kim Jonas](https://open.spotify.com/artist/1FlrpSI88fx7RNjHNHbc2H) | [Wind Of Change](https://open.spotify.com/album/0sTLdlhQTr2ZjxdTlr2HcI) | 3:13 | 2024-03-22 |  |
 | [With or without you](https://open.spotify.com/track/5ySNvjc6U7c4TDhRgqNdJh) | [Anissa Henderson](https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE) | [With or without you](https://open.spotify.com/album/2hzBunUPQX0klUidFYR9Ux) | 2:36 | 2023-11-17 |  |

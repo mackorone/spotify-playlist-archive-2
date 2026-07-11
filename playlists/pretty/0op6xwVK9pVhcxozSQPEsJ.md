@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0op6xwVK9pVhcxozSQPEsJ.md) - [plain]
 
 > Take some time out of your day to recharge your mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,181 likes - 93 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,181 likes - 93 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/0op6xwVK9pVhcxozSQPEsJ.md) - [plain]
 | 73 | [Sileo](https://open.spotify.com/track/4lopUQupNmGU0dKqiZDsXC) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT) | [Stories From Elsewhere](https://open.spotify.com/album/4O4mrGOqhCqTaZmyfy2OsJ) | 3:43 |
 | 74 | [Heard About You Last Night](https://open.spotify.com/track/45dNWdzIqcgdJuEPRcDMHQ) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [RAVE TAPES](https://open.spotify.com/album/2fpcgO6HxWRz4u2dm3ECsH) | 5:24 |
 | 75 | [Silverfish](https://open.spotify.com/track/0UVWTQdCq20t2EG8H8CX2B) | [Sounds Of System Breakdown](https://open.spotify.com/artist/5l73vUu289Rs8q1bYffw6q) | [Nomad](https://open.spotify.com/album/6R5h6AhaNMwV8wVzVUaUOl) | 2:26 |
-| 76 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 |
+| 76 | [](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 0:00 |
 | 77 | [An Ending \(Ascent\)](https://open.spotify.com/track/1sGpjDlrzobaQW6nUPmVIR) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Pure Cinema Chillout](https://open.spotify.com/album/3ga5qZ5vbFoIgvIdkNyFJg) | 4:21 |
 | 78 | [A Walk](https://open.spotify.com/track/5MSfgtOBZkbxlcwsI9XNpf) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/07iFqXD8DLWr2iqe1Sr1p2) | 5:16 |
 | 79 | [K&F Thema](https://open.spotify.com/track/4mXrCkCr0LzzApjxPPlVcH) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Krieg Und Frieden \(Music for Theatre\)](https://open.spotify.com/album/5roJGdR6EyuKL2WstVPmlS) | 4:18 |

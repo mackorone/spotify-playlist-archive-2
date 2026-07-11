@@ -1,13 +1,117 @@
 {
-  "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Riordan & AlunaGeorge",
-  "num_followers": 85696,
+  "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nwith Locky & Luke Dean",
+  "num_followers": 85738,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIA8idWsfahrO0ycaGvsdkZCpzhJ",
+  "snapshot_id": "AAAAAAfkmoY0cWPIBiEDCXbin2eg0OR1",
   "tracks": [
+    {
+      "added_at": "2026-07-10 04:02:04",
+      "album": {
+        "name": "Check One, Check Two",
+        "url": "https://open.spotify.com/album/2WxsN8ePby4cmpSPMAH6He"
+      },
+      "artists": [
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        },
+        {
+          "name": "Locky",
+          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        }
+      ],
+      "duration_ms": 156458,
+      "name": "Check One, Check Two",
+      "url": "https://open.spotify.com/track/1rUv2sOHvgzBERMXW40YgD"
+    },
+    {
+      "added_at": "2026-07-03 04:01:53",
+      "album": {
+        "name": "Look Into My Eyes",
+        "url": "https://open.spotify.com/album/1tneLNsSg6WqawX5eDGwF9"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        }
+      ],
+      "duration_ms": 176969,
+      "name": "Look Into My Eyes",
+      "url": "https://open.spotify.com/track/1zcK0NoULhS0ty8uimR5ja"
+    },
+    {
+      "added_at": "2026-07-01 03:14:17",
+      "album": {
+        "name": "Other Side of the Phone",
+        "url": "https://open.spotify.com/album/1peSg724wfQGE3RWyktVA4"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "duration_ms": 285354,
+      "name": "Other Side of the Phone",
+      "url": "https://open.spotify.com/track/4yWeNq5VjZgvNFwdyZKGz2"
+    },
+    {
+      "added_at": "2026-07-10 04:02:04",
+      "album": {
+        "name": "Move Shake",
+        "url": "https://open.spotify.com/album/1S74QEpRIH8jaQX44H1ANg"
+      },
+      "artists": [
+        {
+          "name": "Jeff Sorkowitz",
+          "url": "https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC"
+        }
+      ],
+      "duration_ms": 178124,
+      "name": "Move Shake",
+      "url": "https://open.spotify.com/track/3zJ3HnuFWvYGNeVxafs4mu"
+    },
+    {
+      "added_at": "2026-06-19 04:01:17",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/2U07xqRus8Vm96YT2YZsSy"
+      },
+      "artists": [
+        {
+          "name": "Ryan Nicholls",
+          "url": "https://open.spotify.com/artist/4XraXXQSAaQ5Sn9hNEim2Q"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/5X8ir6VRntSttQwkDAncjn"
+    },
+    {
+      "added_at": "2026-07-10 04:02:04",
+      "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/6xMSHgwAfkqYJdOlwZTtsO"
+      },
+      "artists": [
+        {
+          "name": "M-High",
+          "url": "https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW"
+        }
+      ],
+      "duration_ms": 239246,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/6uQvNeVRlCltMrJVPRE2I4"
+    },
     {
       "added_at": "2026-07-01 03:14:17",
       "album": {
@@ -31,82 +135,18 @@
     {
       "added_at": "2026-07-03 04:01:53",
       "album": {
-        "name": "Look Into My Eyes",
-        "url": "https://open.spotify.com/album/1tneLNsSg6WqawX5eDGwF9"
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0Q92nebW1oGdgpoNtiwcq3"
       },
       "artists": [
         {
-          "name": "Obsk\u00fcr",
-          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+          "name": "Mat Eclair",
+          "url": "https://open.spotify.com/artist/42lEg1ppWhuHrBKLKdVdSa"
         }
       ],
-      "duration_ms": 176969,
-      "name": "Look Into My Eyes",
-      "url": "https://open.spotify.com/track/1zcK0NoULhS0ty8uimR5ja"
-    },
-    {
-      "added_at": "2026-06-19 04:01:17",
-      "album": {
-        "name": "Best Be Believing",
-        "url": "https://open.spotify.com/album/02mPc6O70UKAHE4A3rEVkL"
-      },
-      "artists": [
-        {
-          "name": "AlunaGeorge",
-          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
-        },
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "Danny P",
-          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
-        },
-        {
-          "name": "Caleb Laurenson",
-          "url": "https://open.spotify.com/artist/1KBwb4QGzLkhNtLjIkNRDR"
-        }
-      ],
-      "duration_ms": 217611,
-      "name": "Best Be Believing",
-      "url": "https://open.spotify.com/track/30pPf3bjXSL07zF613iHLF"
-    },
-    {
-      "added_at": "2026-07-01 03:14:17",
-      "album": {
-        "name": "Other Side of the Phone",
-        "url": "https://open.spotify.com/album/1peSg724wfQGE3RWyktVA4"
-      },
-      "artists": [
-        {
-          "name": "TeeDee",
-          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
-        }
-      ],
-      "duration_ms": 285354,
-      "name": "Other Side of the Phone",
-      "url": "https://open.spotify.com/track/4yWeNq5VjZgvNFwdyZKGz2"
-    },
-    {
-      "added_at": "2026-06-19 04:01:17",
-      "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/2U07xqRus8Vm96YT2YZsSy"
-      },
-      "artists": [
-        {
-          "name": "Ryan Nicholls",
-          "url": "https://open.spotify.com/artist/4XraXXQSAaQ5Sn9hNEim2Q"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/5X8ir6VRntSttQwkDAncjn"
+      "duration_ms": 182255,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/3Ry5upRqMd9UhbiKrwPVDI"
     },
     {
       "added_at": "2026-07-03 04:01:53",
@@ -147,6 +187,54 @@
     {
       "added_at": "2026-07-03 04:01:53",
       "album": {
+        "name": "If Its Real",
+        "url": "https://open.spotify.com/album/5DPzHVof5XijoRlsmK4BGJ"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "If Its Real",
+      "url": "https://open.spotify.com/track/0vgA7Avux3faFKOmUHTHvo"
+    },
+    {
+      "added_at": "2026-06-19 04:01:17",
+      "album": {
+        "name": "Best Be Believing",
+        "url": "https://open.spotify.com/album/02mPc6O70UKAHE4A3rEVkL"
+      },
+      "artists": [
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        },
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Danny P",
+          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
+        },
+        {
+          "name": "Caleb Laurenson",
+          "url": "https://open.spotify.com/artist/1KBwb4QGzLkhNtLjIkNRDR"
+        }
+      ],
+      "duration_ms": 217611,
+      "name": "Best Be Believing",
+      "url": "https://open.spotify.com/track/30pPf3bjXSL07zF613iHLF"
+    },
+    {
+      "added_at": "2026-07-03 04:01:53",
+      "album": {
         "name": "My Place",
         "url": "https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C"
       },
@@ -181,20 +269,24 @@
       "url": "https://open.spotify.com/track/5jUIGwxb8jznbYXL64nIX0"
     },
     {
-      "added_at": "2026-07-03 04:01:53",
+      "added_at": "2026-07-10 04:02:04",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0Q92nebW1oGdgpoNtiwcq3"
+        "name": "Take The Rhythm EP",
+        "url": "https://open.spotify.com/album/1bxS8Fu5CpJWMMUUk8TFrF"
       },
       "artists": [
         {
-          "name": "Mat Eclair",
-          "url": "https://open.spotify.com/artist/42lEg1ppWhuHrBKLKdVdSa"
+          "name": "Galo",
+          "url": "https://open.spotify.com/artist/4v0KJDTlY8yFHSZAFmMj3L"
+        },
+        {
+          "name": "Drago",
+          "url": "https://open.spotify.com/artist/2W86O0D3XvwXmfEEbv5SYo"
         }
       ],
-      "duration_ms": 182255,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/3Ry5upRqMd9UhbiKrwPVDI"
+      "duration_ms": 176250,
+      "name": "Show It Off",
+      "url": "https://open.spotify.com/track/3v99wqFqqedYXeKmyUCKP8"
     },
     {
       "added_at": "2026-07-01 03:14:17",
@@ -229,22 +321,6 @@
       "url": "https://open.spotify.com/track/0oDbO6K2eYSobaJmDM1cNw"
     },
     {
-      "added_at": "2026-07-03 04:01:53",
-      "album": {
-        "name": "If Its Real",
-        "url": "https://open.spotify.com/album/5DPzHVof5XijoRlsmK4BGJ"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "If Its Real",
-      "url": "https://open.spotify.com/track/0vgA7Avux3faFKOmUHTHvo"
-    },
-    {
       "added_at": "2026-05-01 04:01:14",
       "album": {
         "name": "What Did You Come For ?",
@@ -259,6 +335,22 @@
       "duration_ms": 221572,
       "name": "Trapped - Radio-Edit",
       "url": "https://open.spotify.com/track/7A5lQnbimaAolqrVqVGSbl"
+    },
+    {
+      "added_at": "2026-07-10 04:02:04",
+      "album": {
+        "name": "Big Beat EP",
+        "url": "https://open.spotify.com/album/4UXrN1XSgRLBZsPN9iEMmF"
+      },
+      "artists": [
+        {
+          "name": "Justin Rabin",
+          "url": "https://open.spotify.com/artist/6BxPifFRPEvAX1gyMxnCmv"
+        }
+      ],
+      "duration_ms": 153344,
+      "name": "Big Beat",
+      "url": "https://open.spotify.com/track/2DhhhosrtccQXQXW9Cjxf6"
     },
     {
       "added_at": "2026-06-19 04:01:17",
@@ -283,6 +375,22 @@
       "duration_ms": 186363,
       "name": "Morning Light (feat. Mizbee)",
       "url": "https://open.spotify.com/track/0evpQOzmGKPoZo5LYFfKRt"
+    },
+    {
+      "added_at": "2026-07-10 04:02:04",
+      "album": {
+        "name": "To Be Free / Sweet Love",
+        "url": "https://open.spotify.com/album/61aG9H7cKm2HHjY6sRLI50"
+      },
+      "artists": [
+        {
+          "name": "ANATTA",
+          "url": "https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6"
+        }
+      ],
+      "duration_ms": 184853,
+      "name": "To Be Free",
+      "url": "https://open.spotify.com/track/7DFSWmAZmtspiqEQNjXB6x"
     },
     {
       "added_at": "2026-05-29 04:01:35",
@@ -341,6 +449,26 @@
       "url": "https://open.spotify.com/track/5eABSV4aDk5irs5DVz9VIG"
     },
     {
+      "added_at": "2026-07-10 04:02:04",
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/4ASgCVfuiXn2z4Jj6OJb0X"
+      },
+      "artists": [
+        {
+          "name": "CROSS CITY",
+          "url": "https://open.spotify.com/artist/2YEX28QkrNloZQR3SgVXMh"
+        },
+        {
+          "name": "Yung Ta",
+          "url": "https://open.spotify.com/artist/0BtWJZaHgSsVOp71L14leH"
+        }
+      ],
+      "duration_ms": 146564,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/2EOYAOg7weioqPFlSzv9bH"
+    },
+    {
       "added_at": "2026-07-03 04:01:53",
       "album": {
         "name": "Misbehaving",
@@ -359,6 +487,26 @@
       "duration_ms": 145454,
       "name": "Misbehaving",
       "url": "https://open.spotify.com/track/6WcoFEjaMaCcgBJQ4E790k"
+    },
+    {
+      "added_at": "2026-07-10 04:02:04",
+      "album": {
+        "name": "Feel It - EP",
+        "url": "https://open.spotify.com/album/3tLH8xF5ArstvU0pETOh4V"
+      },
+      "artists": [
+        {
+          "name": "Burnski",
+          "url": "https://open.spotify.com/artist/4aOxcso0VF2zuORd93J32L"
+        },
+        {
+          "name": "Kepler.",
+          "url": "https://open.spotify.com/artist/4yGWhPE8bcrYShFXg6iCxV"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/5qFt57XzmdMfIaFF06GoO9"
     },
     {
       "added_at": "2026-03-20 04:00:44",
@@ -397,6 +545,50 @@
       "url": "https://open.spotify.com/track/3S7PIQ273n5Yx7e6d6n2Jj"
     },
     {
+      "added_at": "2026-06-19 04:01:17",
+      "album": {
+        "name": "Puff Puff Pass (Nafe Smallz & Luke Dean Remix)",
+        "url": "https://open.spotify.com/album/0KRv87FFURKGhb4i7PMMmP"
+      },
+      "artists": [
+        {
+          "name": "Kitty Hall",
+          "url": "https://open.spotify.com/artist/3bq7T2hgRWGSJa2HLoU6EQ"
+        },
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "duration_ms": 335831,
+      "name": "Puff Puff Pass - Nafe Smallz & Luke Dean Remix",
+      "url": "https://open.spotify.com/track/45gMbNPiHzrzEIezRwPmiB"
+    },
+    {
+      "added_at": "2026-07-10 04:02:04",
+      "album": {
+        "name": "Link Up EP",
+        "url": "https://open.spotify.com/album/0P4tx3jkhfAOZa4sFpgi1r"
+      },
+      "artists": [
+        {
+          "name": "Michel De Hey",
+          "url": "https://open.spotify.com/artist/4BY4HaWussT44zj9RiCGzh"
+        },
+        {
+          "name": "Boss Priester",
+          "url": "https://open.spotify.com/artist/0aut7mlvs8CZUwZKn5e3ZE"
+        }
+      ],
+      "duration_ms": 199149,
+      "name": "Rushmore",
+      "url": "https://open.spotify.com/track/6IuLAWba4hLEoqcmAUDzaE"
+    },
+    {
       "added_at": "2026-07-01 03:14:17",
       "album": {
         "name": "You Decide / In The Mix",
@@ -411,6 +603,26 @@
       "duration_ms": 179162,
       "name": "You Decide",
       "url": "https://open.spotify.com/track/1OKngv6psn4G12xsAbw4Rp"
+    },
+    {
+      "added_at": "2026-07-10 04:02:04",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/5USGeGYL7YPwUii9X1N3DC"
+      },
+      "artists": [
+        {
+          "name": "Dunmore Brothers",
+          "url": "https://open.spotify.com/artist/66IBwwjqDnQ18LFOtA687W"
+        },
+        {
+          "name": "J.A.M.O.N.",
+          "url": "https://open.spotify.com/artist/6i0cY7HdJqYdwLYrls3aJ0"
+        }
+      ],
+      "duration_ms": 214107,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/2xUWuk2VkyXpx9MFNGsTuP"
     },
     {
       "added_at": "2026-05-08 04:01:49",
@@ -519,30 +731,6 @@
       "duration_ms": 224438,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/45FTnF7YPwGWFebjG8AmGO"
-    },
-    {
-      "added_at": "2026-06-19 04:01:17",
-      "album": {
-        "name": "Puff Puff Pass (Nafe Smallz & Luke Dean Remix)",
-        "url": "https://open.spotify.com/album/0KRv87FFURKGhb4i7PMMmP"
-      },
-      "artists": [
-        {
-          "name": "Kitty Hall",
-          "url": "https://open.spotify.com/artist/3bq7T2hgRWGSJa2HLoU6EQ"
-        },
-        {
-          "name": "Nafe Smallz",
-          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
-        },
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        }
-      ],
-      "duration_ms": 335831,
-      "name": "Puff Puff Pass - Nafe Smallz & Luke Dean Remix",
-      "url": "https://open.spotify.com/track/45gMbNPiHzrzEIezRwPmiB"
     },
     {
       "added_at": "2026-05-29 04:01:35",
@@ -837,22 +1025,6 @@
       "url": "https://open.spotify.com/track/4rUMS7aU6T4D0Hbisv9tZW"
     },
     {
-      "added_at": "2026-05-27 23:36:59",
-      "album": {
-        "name": "Hypa",
-        "url": "https://open.spotify.com/album/6qwcD8Fu84jZJgFVfeIT5B"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        }
-      ],
-      "duration_ms": 174544,
-      "name": "Make It Hot",
-      "url": "https://open.spotify.com/track/6Y1Ox3HcXyZBuCS01qfjOW"
-    },
-    {
       "added_at": "2026-05-29 04:01:35",
       "album": {
         "name": "Back 2 Da Beat",
@@ -873,26 +1045,6 @@
       "url": "https://open.spotify.com/track/1N73MfL1Klma29fohDhnwL"
     },
     {
-      "added_at": "2026-05-29 04:01:35",
-      "album": {
-        "name": "Jump N' Shout (Gorgon City Remix)",
-        "url": "https://open.spotify.com/album/2G9F2xsIz3HFRmzDEW4RQR"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        },
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 237022,
-      "name": "Jump N' Shout - Gorgon City Remix",
-      "url": "https://open.spotify.com/track/2pbtSI3CJXfAE9ekE5qowg"
-    },
-    {
       "added_at": "2026-05-15 04:02:22",
       "album": {
         "name": "The Funk EP",
@@ -907,22 +1059,6 @@
       "duration_ms": 206412,
       "name": "Feel The Funk",
       "url": "https://open.spotify.com/track/2fWyCaf8OQViWejIesNwPE"
-    },
-    {
-      "added_at": "2026-05-15 17:09:33",
-      "album": {
-        "name": "Is It You (Or Is It Me)",
-        "url": "https://open.spotify.com/album/240i6UmyYLhmTXxB4j31AX"
-      },
-      "artists": [
-        {
-          "name": "ADR (UK)",
-          "url": "https://open.spotify.com/artist/3IMrOdTFlakSWfVl6DKMub"
-        }
-      ],
-      "duration_ms": 205454,
-      "name": "Is It You (Or Is It Me)",
-      "url": "https://open.spotify.com/track/4VjGuOdMtLmjVvySSwYwc1"
     },
     {
       "added_at": "2026-04-24 04:01:42",
@@ -955,22 +1091,6 @@
       "duration_ms": 196555,
       "name": "Push Ya Back",
       "url": "https://open.spotify.com/track/5i5caeF79c3FuXWbJMZQww"
-    },
-    {
-      "added_at": "2026-05-15 04:02:22",
-      "album": {
-        "name": "Unless You Wanna (Uh Uh)",
-        "url": "https://open.spotify.com/album/3uoo2B8buepUOirzHxrcYm"
-      },
-      "artists": [
-        {
-          "name": "JOSSA",
-          "url": "https://open.spotify.com/artist/13X34zKdY9gaYUEb2Jnsm9"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Unless You Wanna (Uh Uh)",
-      "url": "https://open.spotify.com/track/7dLRmh16YMIr7BpO4DmkHQ"
     },
     {
       "added_at": "2026-05-29 04:01:35",
@@ -1131,22 +1251,6 @@
     {
       "added_at": "2026-05-01 04:01:14",
       "album": {
-        "name": "Pump",
-        "url": "https://open.spotify.com/album/0wIrWcnbf7Ra8wZIgq258X"
-      },
-      "artists": [
-        {
-          "name": "NIKEN",
-          "url": "https://open.spotify.com/artist/0du0nO5Rxa6Vgum3L53zIl"
-        }
-      ],
-      "duration_ms": 197211,
-      "name": "Pump",
-      "url": "https://open.spotify.com/track/5ZvpgFqhDyi7MODmzoYvD5"
-    },
-    {
-      "added_at": "2026-05-01 04:01:14",
-      "album": {
         "name": "Second Nature (SHUFFA Remix)",
         "url": "https://open.spotify.com/album/5YAVWB3eqaoWfHSu8CHJ4F"
       },
@@ -1231,22 +1335,6 @@
       "duration_ms": 207272,
       "name": "Ain't With That (Late Night Callin')",
       "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH"
-    },
-    {
-      "added_at": "2026-03-27 04:00:16",
-      "album": {
-        "name": "Too In Love With You",
-        "url": "https://open.spotify.com/album/6AxJcFqY38n9VMNr3G9rA7"
-      },
-      "artists": [
-        {
-          "name": "Ethan Walsh",
-          "url": "https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT"
-        }
-      ],
-      "duration_ms": 149838,
-      "name": "Too In Love With You",
-      "url": "https://open.spotify.com/track/0rS9f6pdy49rLBVzyGyQYv"
     },
     {
       "added_at": "2026-05-01 04:01:14",
@@ -1657,38 +1745,6 @@
       "url": "https://open.spotify.com/track/4k4R0Fboys1lMarTUtrIu0"
     },
     {
-      "added_at": "2026-03-20 04:00:44",
-      "album": {
-        "name": "Teach You Desire",
-        "url": "https://open.spotify.com/album/7Ff17FqI9Nl0uIueRWJwWM"
-      },
-      "artists": [
-        {
-          "name": "IDEMI",
-          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
-        }
-      ],
-      "duration_ms": 210227,
-      "name": "Teach You Desire",
-      "url": "https://open.spotify.com/track/2i2BaQHXCWNFzDqxcyZVE0"
-    },
-    {
-      "added_at": "2026-02-20 05:00:42",
-      "album": {
-        "name": "Just Like That EP",
-        "url": "https://open.spotify.com/album/6HyNLK9f5wrFumqmGfDeO3"
-      },
-      "artists": [
-        {
-          "name": "SOSA",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 203909,
-      "name": "Just Like That",
-      "url": "https://open.spotify.com/track/3eMVersNz99DsD0vvv3Bk6"
-    },
-    {
       "added_at": "2026-03-27 04:00:16",
       "album": {
         "name": "Believe In Yourself",
@@ -1771,22 +1827,6 @@
       "duration_ms": 142562,
       "name": "Front, Left",
       "url": "https://open.spotify.com/track/7IP9P1jnYnvEBa2FcEDDSd"
-    },
-    {
-      "added_at": "2026-03-13 04:00:43",
-      "album": {
-        "name": "Say What?",
-        "url": "https://open.spotify.com/album/1UGIzC7T4rTwtFNG5fvdsl"
-      },
-      "artists": [
-        {
-          "name": "Flex (UK)",
-          "url": "https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM"
-        }
-      ],
-      "duration_ms": 137769,
-      "name": "Say What?",
-      "url": "https://open.spotify.com/track/2cyqfeXRo1mijttR0Jp6CL"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -1983,22 +2023,6 @@
       "duration_ms": 217577,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/02RgJpUYnhe1zlyO4N2pZe"
-    },
-    {
-      "added_at": "2025-10-17 15:56:09",
-      "album": {
-        "name": "Get Funky EP",
-        "url": "https://open.spotify.com/album/396xgvGL6BTtYzH0Qvmir8"
-      },
-      "artists": [
-        {
-          "name": "AAT",
-          "url": "https://open.spotify.com/artist/02B08CAGsMQ0y87xmg07M9"
-        }
-      ],
-      "duration_ms": 193384,
-      "name": "Get Funky",
-      "url": "https://open.spotify.com/track/5au1dxozcN7pepkik4E4uE"
     },
     {
       "added_at": "2025-11-14 05:00:32",

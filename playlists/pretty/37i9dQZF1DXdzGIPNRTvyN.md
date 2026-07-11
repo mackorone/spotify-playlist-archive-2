@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,561 likes - 168 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,811 likes - 168 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 167 | [Endless Clouds](https://open.spotify.com/track/2GTfmAPDOT2JpcExWit355) | [Shanglari](https://open.spotify.com/artist/1cK5ptD5pydqAD3wiayjGL) | [Endless Clouds](https://open.spotify.com/album/0Ql7z2eNgrPJMKOKPW3P9d) | 2:41 |
 | 168 | [Peaceful Oasis](https://open.spotify.com/track/31DnMj7hs5zUQcT82WSfil) | [Harlow Moss](https://open.spotify.com/artist/1sVm3d1J0iADPftVNfTdBE) | [Peaceful Oasis](https://open.spotify.com/album/6iM47rcVv5oeECBmoqgjDP) | 2:57 |
 
-Snapshot ID: `AAAAAKGVbYl3XaUmi++6dpQIqwZmleE+`
+Snapshot ID: `AAAAAGluzkwirtUmzmgQGBr7NYHfU0LS`

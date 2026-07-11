@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123571,
+  "num_followers": 123567,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVkILxQDv4Lm4prWcjJA97H5fZqXaZ",
+  "snapshot_id": "AAAVkUAN7yTAssz5pVhADLpWh0LHXCKx",
   "tracks": [
+    {
+      "added_at": "2026-07-10 13:44:54",
+      "album": {
+        "name": "DUMFUK",
+        "url": "https://open.spotify.com/album/3nY9oNjrm5Hvq4p9KDoLc1"
+      },
+      "artists": [
+        {
+          "name": "Clockvice",
+          "url": "https://open.spotify.com/artist/0KgVymhgHYfOMP13j78XsS"
+        },
+        {
+          "name": "Vorso",
+          "url": "https://open.spotify.com/artist/5Og6MsfuDPnFYd1asgHXdH"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "DUMFUK",
+      "url": "https://open.spotify.com/track/6Rp4w9HGlQS8fkAR7p5VXJ"
+    },
     {
       "added_at": "2026-07-09 16:43:08",
       "album": {

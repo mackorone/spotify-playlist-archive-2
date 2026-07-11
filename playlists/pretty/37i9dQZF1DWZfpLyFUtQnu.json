@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 112318,
+  "num_followers": 112331,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
+        "name": "&",
+        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "duration_ms": 236853,
+      "name": "Sublime & Silence",
+      "url": "https://open.spotify.com/track/5nOy1wbwjpGTXr3Bk5zI4T"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
         "name": "Essentiels",
         "url": "https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 263066,
       "name": "Femmes... Je vous aime",
       "url": "https://open.spotify.com/track/1Cis3BiUs6rLpT3BnRy1TR"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
-        "name": "&",
-        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
-      },
-      "artists": [
-        {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
-        }
-      ],
-      "duration_ms": 236853,
-      "name": "Sublime & Silence",
-      "url": "https://open.spotify.com/track/5nOy1wbwjpGTXr3Bk5zI4T"
     },
     {
       "added_at": "2026-01-21 14:43:12",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "Au Nom D'Une Femme",
-        "url": "https://open.spotify.com/album/3uaw8NfCYdRLPLpslvQMzu"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9l\u00e8ne S\u00e9gara",
-          "url": "https://open.spotify.com/artist/4jqOuZDAtFnB3uGEnNxlvX"
-        }
-      ],
-      "duration_ms": 305493,
-      "name": "Elle, tu l'aimes",
-      "url": "https://open.spotify.com/track/08nsSNtxmSCCjq546wZ2E7"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
         "name": "D'o\u00f9 venez-vous ?",
         "url": "https://open.spotify.com/album/397PJkwZTSa8abMLaQwf88"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 252533,
       "name": "So Far Away from L.A.",
       "url": "https://open.spotify.com/track/4OnWd9bQcVfjo5U63SLTXQ"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
+        "name": "Au Nom D'Une Femme",
+        "url": "https://open.spotify.com/album/3uaw8NfCYdRLPLpslvQMzu"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9l\u00e8ne S\u00e9gara",
+          "url": "https://open.spotify.com/artist/4jqOuZDAtFnB3uGEnNxlvX"
+        }
+      ],
+      "duration_ms": 305493,
+      "name": "Elle, tu l'aimes",
+      "url": "https://open.spotify.com/track/08nsSNtxmSCCjq546wZ2E7"
     },
     {
       "added_at": "2026-01-21 14:43:12",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "Superflu",
-        "url": "https://open.spotify.com/album/5bkQ6M2RXukXeF9NEHwgUY"
-      },
-      "artists": [
-        {
-          "name": "Pascal Obispo",
-          "url": "https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS"
-        }
-      ],
-      "duration_ms": 255573,
-      "name": "Lucie",
-      "url": "https://open.spotify.com/track/5lgjlZSujTErTw7FUoCxj9"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
         "name": "Lettre \u00e0 France",
         "url": "https://open.spotify.com/album/6hpVIWjLEiqoOMK9ETMVp1"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 249042,
       "name": "Lettre \u00e0 France",
       "url": "https://open.spotify.com/track/3KHzadkhdMB6hD4lJU0I5U"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
+        "name": "Superflu",
+        "url": "https://open.spotify.com/album/5bkQ6M2RXukXeF9NEHwgUY"
+      },
+      "artists": [
+        {
+          "name": "Pascal Obispo",
+          "url": "https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS"
+        }
+      ],
+      "duration_ms": 255573,
+      "name": "Lucie",
+      "url": "https://open.spotify.com/track/5lgjlZSujTErTw7FUoCxj9"
     },
     {
       "added_at": "2026-01-21 14:43:12",

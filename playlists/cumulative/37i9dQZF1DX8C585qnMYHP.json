@@ -8317,6 +8317,36 @@
     },
     {
       "album": {
+        "name": "Cow With Half Moon Parasol",
+        "url": "https://open.spotify.com/album/3s5JFSNttXDbwCEvCIctLS"
+      },
+      "artists": [
+        {
+          "name": "HUG",
+          "url": "https://open.spotify.com/artist/0fPTd29x2F2C4lHNVUwFEs"
+        },
+        {
+          "name": "Gyan Riley",
+          "url": "https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf"
+        },
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        },
+        {
+          "name": "Noah Georgeson",
+          "url": "https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276620,
+      "name": "Cow With Half Moon Parasol",
+      "url": "https://open.spotify.com/track/2pUjVfqByVLqkgrKBrsdkw"
+    },
+    {
+      "album": {
         "name": "Insomnia EP",
         "url": "https://open.spotify.com/album/65VEew3wzPdc7xJTO4Bxu6"
       },
@@ -9488,7 +9518,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 174555,
       "name": "Devil's Hour",
       "url": "https://open.spotify.com/track/6ETvI7qq9NXRLvAukPRMnn"

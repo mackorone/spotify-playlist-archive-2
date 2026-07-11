@@ -4,7 +4,7 @@
 
 > Mellow jazz for focus or unwinding.
 
-1,370 songs - 3 day 8 hr 35 min
+1,372 songs - 3 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,6 +429,7 @@
 | [Further Away](https://open.spotify.com/track/2TrxmC76ZH32PdlHGBH6Db) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Further Away](https://open.spotify.com/album/3WpahRL5hNaxp5cz3bfj1m) | 3:41 | 2024-05-10 | 2024-10-08 |
 | [Galaxy](https://open.spotify.com/track/51g4wZxI5yS88Aj0VTCsXM) | [The Tealeaf Jazz Trio](https://open.spotify.com/artist/1kZ1pkxbbukhm8Dnfo8MhI) | [Galaxy](https://open.spotify.com/album/3bazDS19KvT06CyQvxUp29) | 3:51 | 2021-12-07 | 2024-11-13 |
 | [Gentle Affairs](https://open.spotify.com/track/27tNbqcfxrrGmKzo9lFw20) | [The Jazz Syndicate](https://open.spotify.com/artist/5UK5HWgWZnp4GK5uUUHaNT) | [Gentle Affairs](https://open.spotify.com/album/1AHAN5DFibgWNPGOxLv3dC) | 3:41 | 2026-05-22 |  |
+| [Gentle Dance](https://open.spotify.com/track/0paGyUzVyVubb5xDN65qWR) | [Noel Duvall Trio](https://open.spotify.com/artist/0WnF3BShlFwy0QbTza5jda) | [Gentle Dance](https://open.spotify.com/album/6QjEcGcOtt7t7XJABBJVj5) | 3:49 | 2026-07-10 |  |
 | [Gentle Rain](https://open.spotify.com/track/2EJujnITIj7jRLTM38DBwB) | [Tom Francis](https://open.spotify.com/artist/6uaneVpX351id57reqAEff) | [Gentle Rain](https://open.spotify.com/album/5fwhgGEmNF748ytdgWVmci) | 3:12 | 2024-01-12 | 2025-11-19 |
 | [Georgia On My Mind](https://open.spotify.com/track/15c6okmVGsMQYb7PkKi5v3) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Georgia On My Mind](https://open.spotify.com/album/113L3LCtjrI2vA7xe8DCLq) | 3:12 | 2021-12-07 | 2025-11-19 |
 | [Get Busy Living](https://open.spotify.com/track/13UThtb1vPsYq9WQfsQQew) | [Par Noir](https://open.spotify.com/artist/0AbbEMo6kKsdeH9dDEMFG9) | [Get Busy Living](https://open.spotify.com/album/1fVkOCYxBnZnpTPqaY9TIe) | 3:41 | 2024-06-17 | 2026-01-27 |
@@ -544,6 +545,7 @@
 | [I've Been Dreaming](https://open.spotify.com/track/7Fudip9GPATB4YTKocr6fS) | [Hugh Wilson Quartet](https://open.spotify.com/artist/6bSVeTJc0knuEwTyeP9M6p) | [I've Been Dreaming](https://open.spotify.com/album/1bAVZlLVErljJUN7mxXWxi) | 2:43 | 2024-05-10 | 2024-09-03 |
 | [i've got a crush on you](https://open.spotify.com/track/79S9Ea6Q347UAPTIWnLmV2) | [Hunter Paige](https://open.spotify.com/artist/4JNwhTb4YN98anDrWn2kIZ) | [i've got a crush on you](https://open.spotify.com/album/3bdegMUGxFxJbgKocQE2G4) | 3:36 | 2023-02-16 | 2025-11-19 |
 | [I've Grown Accustomed To Your Face](https://open.spotify.com/track/6tjpdYez3LQQnwNOWmHe6I) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [I've Grown Accustomed To Your Face](https://open.spotify.com/album/5zkxVrO0q1Kjx1qiMdRi2T) | 4:16 | 2022-05-02 | 2023-03-10 |
+| [I've Grown Weary](https://open.spotify.com/track/0bvRjbt6T38i7nh2t10ulI) | [Earlham Trio](https://open.spotify.com/artist/2iWX7U2iPzG2ew3ywVSSQx) | [I've Grown Weary](https://open.spotify.com/album/209j9jSfg1o1dznSZlKRZp) | 3:07 | 2026-07-10 |  |
 | [I've Never Been in Love Before](https://open.spotify.com/track/7bsrxWD78NPHkQGdWDtVKA) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [I've Never Been in Love Before](https://open.spotify.com/album/1X73HhmwH7gDohGimuAagb) | 3:46 | 2021-12-07 | 2025-02-21 |
 | [I've Told Every Little Star](https://open.spotify.com/track/2bYWfgNXxt4CQCPWBicqPx) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:13 | 2021-12-07 | 2024-10-02 |
 | [Icelandic time](https://open.spotify.com/track/1oZkKgfZDvBYVlAyR1Yszq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Icelandic time](https://open.spotify.com/album/3RGokP0Ax8RaawZZQ3pmct) | 3:32 | 2023-04-27 | 2025-11-19 |

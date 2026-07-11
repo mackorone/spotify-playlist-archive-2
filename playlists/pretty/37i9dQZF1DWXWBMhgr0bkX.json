@@ -1,6 +1,6 @@
 {
   "description": "New pop releases from the UK & Ireland \ud83c\udf1f\ncover: piri",
-  "num_followers": 48308,
+  "num_followers": 48314,
   "original_name": "New Pop UK",
   "owner": {
     "name": "Spotify",
@@ -20,8 +20,8 @@
           "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 172153,
+      "name": "both be happier",
       "url": "https://open.spotify.com/track/6CIbLErx7WosfLorB4JE1T"
     },
     {
@@ -68,9 +68,25 @@
           "url": "https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 163000,
+      "name": "Us Against The World",
       "url": "https://open.spotify.com/track/3RHtI2W6ZlAuM0r96nLhC9"
+    },
+    {
+      "added_at": "2026-07-09 23:00:34",
+      "album": {
+        "name": "London Tonight",
+        "url": "https://open.spotify.com/album/47M0OMLQ5G5AFgwqkKXDUf"
+      },
+      "artists": [
+        {
+          "name": "Mercer",
+          "url": "https://open.spotify.com/artist/3SWER2Np3pHA03J0MDHnV7"
+        }
+      ],
+      "duration_ms": 205669,
+      "name": "London Tonight",
+      "url": "https://open.spotify.com/track/0e04OZxrOF4VrDPFRPfXcO"
     },
     {
       "added_at": "2026-07-09 23:00:34",

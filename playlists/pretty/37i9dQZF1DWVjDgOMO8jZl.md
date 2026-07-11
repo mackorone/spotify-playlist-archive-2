@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Sei nomi e sei storie che non vediamo l'ora di farvi scoprire e raccontarvi quest'anno 🥹 Emili Kasa in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,377 likes - 20 songs - 58 min 51 sec
+[Spotify](https://open.spotify.com/user/spotify) - 25,386 likes - 20 songs - 58 min 51 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

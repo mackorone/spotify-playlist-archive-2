@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 156000,
       "name": "Ma Belle",
       "url": "https://open.spotify.com/track/5VyDCVjeqGwpOxA75OHw4T"
@@ -2604,6 +2604,24 @@
       "duration_ms": 204461,
       "name": "Soffia la notte",
       "url": "https://open.spotify.com/track/3BfKUxdpnG24qXFYX2e5XU"
+    },
+    {
+      "album": {
+        "name": "Soft Waves and Relaxing Piano",
+        "url": "https://open.spotify.com/album/6MwZDExAHrpKWbTmnGDf7Y"
+      },
+      "artists": [
+        {
+          "name": "Vilhelm Brandt",
+          "url": "https://open.spotify.com/artist/4k5hcVGerX1LVQ79iXD52S"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Soft Waves and Relaxing Piano 4",
+      "url": "https://open.spotify.com/track/7eId0Weez1x12LeHjkEmMN"
     },
     {
       "album": {

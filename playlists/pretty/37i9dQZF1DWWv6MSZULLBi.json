@@ -1,13 +1,241 @@
 {
-  "description": "A laid-back trip in the folk scene. Cover: Rachel Bobbitt",
-  "num_followers": 166671,
+  "description": "A laid-back trip in the folk scene. Cover: Allison Russell",
+  "num_followers": 166666,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE2FkMM8Ww7IPFeWAznSaSnc3Ntb",
+  "snapshot_id": "AAAAAKReBm0A9bErfOVup+HfpcRD+U+U",
   "tracks": [
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Track Team",
+        "url": "https://open.spotify.com/album/5OjS6NVhELa2DEJPenjsVL"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 205412,
+      "name": "Track Team",
+      "url": "https://open.spotify.com/track/4DXaHQVSIEn6TzCvTOKJP8"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Home In Your Broken Heart",
+        "url": "https://open.spotify.com/album/6UW0EYuBmuScXfzQmfolg9"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 222710,
+      "name": "Home In Your Broken Heart",
+      "url": "https://open.spotify.com/track/23jTdWCqELQZAPfOzG1jtB"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Sweet Thief",
+        "url": "https://open.spotify.com/album/6GbmTCqvdEbaKmsCIvdXYz"
+      },
+      "artists": [
+        {
+          "name": "Luluc",
+          "url": "https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72"
+        }
+      ],
+      "duration_ms": 230916,
+      "name": "Wanna Get Free",
+      "url": "https://open.spotify.com/track/5xOwaw30UPg9u1yJOQFujy"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "In the Hour of Chaos",
+        "url": "https://open.spotify.com/album/3kscpGV3VPWFFX7lPf0DuL"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
+        {
+          "name": "Kashus Culpepper",
+          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
+        }
+      ],
+      "duration_ms": 250520,
+      "name": "Searchlight (ft. Kashus Culpepper)",
+      "url": "https://open.spotify.com/track/0cEwQVCHALAXWAHqIiqudp"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Right Now (Bouquet Version)",
+        "url": "https://open.spotify.com/album/0pKVNtlghMWCm9FV7szYCW"
+      },
+      "artists": [
+        {
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+        }
+      ],
+      "duration_ms": 174008,
+      "name": "Right Now - Bouquet Version",
+      "url": "https://open.spotify.com/track/0pahIPR9i0l549a4ftxex5"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Los Ojos Del C\u00f3ndor",
+        "url": "https://open.spotify.com/album/02rGEcmUxEmRaj1296jdlQ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 212980,
+      "name": "Los Ojos Del C\u00f3ndor",
+      "url": "https://open.spotify.com/track/7kDWwFekRc1ZlzNX0VTjfr"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Full Moon Chamber",
+        "url": "https://open.spotify.com/album/0wiTPWUxtCXFCgtEsoqMea"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "You Make It Easy",
+      "url": "https://open.spotify.com/track/5rJYLtLtWOnEGdu5yjxIya"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Being Free",
+        "url": "https://open.spotify.com/album/4QqwaUHjqb9QsoP4F2fqHe"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vanderzon",
+          "url": "https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD"
+        }
+      ],
+      "duration_ms": 216598,
+      "name": "Being Free",
+      "url": "https://open.spotify.com/track/4BiENiXpFT8dNinYMtwxCo"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Hiding Places",
+        "url": "https://open.spotify.com/album/0Gb7pcU9WAk6tP3Nh1WTYC"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "duration_ms": 165782,
+      "name": "Never in Love",
+      "url": "https://open.spotify.com/track/12zMISWKPX9HqBx871hlOL"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Not on the Run",
+        "url": "https://open.spotify.com/album/3drm7P3ddFJldy10G0hhAp"
+      },
+      "artists": [
+        {
+          "name": "True Quiet",
+          "url": "https://open.spotify.com/artist/6uDLahVZZGW8tboTCW88fO"
+        }
+      ],
+      "duration_ms": 231861,
+      "name": "Not on the Run",
+      "url": "https://open.spotify.com/track/3sKzGE1NqzMV96BqacsEm6"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Stuck In Place",
+        "url": "https://open.spotify.com/album/1gV2SVAWG6tLIrM54ZcwNS"
+      },
+      "artists": [
+        {
+          "name": "Emilee Moore",
+          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
+        }
+      ],
+      "duration_ms": 247592,
+      "name": "Stuck In Place",
+      "url": "https://open.spotify.com/track/1roqDqdHzKnducYiaXT2Q8"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Georgia",
+        "url": "https://open.spotify.com/album/2YCNpGkDmPxTGLAlTM9oJx"
+      },
+      "artists": [
+        {
+          "name": "Olivia Ridgely",
+          "url": "https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv"
+        }
+      ],
+      "duration_ms": 129204,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/4BaFhT9qytt0X7ApDsEE4H"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Blush Red",
+        "url": "https://open.spotify.com/album/7fMmi1DkgkI1fdOhRFxUpg"
+      },
+      "artists": [
+        {
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+        }
+      ],
+      "duration_ms": 186213,
+      "name": "romance tape",
+      "url": "https://open.spotify.com/track/0mDPqU51kG3c2dBoQ3ulvG"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Not Me / Sick Tooth",
+        "url": "https://open.spotify.com/album/0i8DuUKaN822221vlPw3zP"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Not Me",
+      "url": "https://open.spotify.com/track/2Gw646aqq8l6SIQgIC8nPN"
+    },
     {
       "added_at": "2026-07-03 04:03:19",
       "album": {
@@ -2079,38 +2307,6 @@
     {
       "added_at": "2026-06-19 04:03:01",
       "album": {
-        "name": "Finish Line",
-        "url": "https://open.spotify.com/album/69yBujeTPGK2rC2qFcdS9X"
-      },
-      "artists": [
-        {
-          "name": "Sean Solomon",
-          "url": "https://open.spotify.com/artist/2rIEFpPW3NjFRA6llfnOq3"
-        }
-      ],
-      "duration_ms": 200293,
-      "name": "Finish Line",
-      "url": "https://open.spotify.com/track/4tGVYB2GmhidTUN7hv6Rwt"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "Stand-Up Woman",
-        "url": "https://open.spotify.com/album/5i3RXx1VMRSlNJ9fyvTuiV"
-      },
-      "artists": [
-        {
-          "name": "Mia Kelly",
-          "url": "https://open.spotify.com/artist/3QvVwM4jqnOtzctJZr2Bch"
-        }
-      ],
-      "duration_ms": 205804,
-      "name": "Stand-Up Woman",
-      "url": "https://open.spotify.com/track/0qxsNDeLFjfynBD8j8zWk5"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
         "name": "Oh, Ana",
         "url": "https://open.spotify.com/album/7h9mJCFBWhaRdWHm28xIME"
       },
@@ -2127,38 +2323,6 @@
     {
       "added_at": "2026-06-19 04:03:01",
       "album": {
-        "name": "Dark and Stormy",
-        "url": "https://open.spotify.com/album/4PnsPNH41o40lO1TjXZufB"
-      },
-      "artists": [
-        {
-          "name": "The Brudi Brothers",
-          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Silver Wave",
-      "url": "https://open.spotify.com/track/5dsWR4AuIjIVi5DWj7slaB"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "White Flag",
-        "url": "https://open.spotify.com/album/2uB5nyQCsFejw9e0cpzlVm"
-      },
-      "artists": [
-        {
-          "name": "Darren Kiely",
-          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
-        }
-      ],
-      "duration_ms": 171782,
-      "name": "White Flag",
-      "url": "https://open.spotify.com/track/1Lk4rIjW0TcZ0KGTClWsPE"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
         "name": "Alexander Mure's Songs in the Key of C-Minus!",
         "url": "https://open.spotify.com/album/04GJJ7V0sBgkRREWsBJHZf"
       },
@@ -2171,30 +2335,6 @@
       "duration_ms": 170000,
       "name": "Milkman",
       "url": "https://open.spotify.com/track/6HoUzmc0wu7zjKgjnKKTLX"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
-        "url": "https://open.spotify.com/album/66qSzjkzyYbD2cXKauAOVJ"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "Julie Williams",
-          "url": "https://open.spotify.com/artist/4sRUZFWl0hDJg6MW9lHKR9"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
-      "url": "https://open.spotify.com/track/4roCXZFxzB1WrKofdjedQg"
     },
     {
       "added_at": "2026-06-19 04:03:01",
@@ -2363,54 +2503,6 @@
     {
       "added_at": "2026-06-19 04:03:01",
       "album": {
-        "name": "If You Wanna Laugh, You Gotta Cry Sometimes",
-        "url": "https://open.spotify.com/album/20QQy3xJI0IjJbZ0pDnk6d"
-      },
-      "artists": [
-        {
-          "name": "Robert Lester Folsom",
-          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
-        }
-      ],
-      "duration_ms": 211382,
-      "name": "One More Song",
-      "url": "https://open.spotify.com/track/1RW9MKJFpqWWrw5cgIHGMi"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "It's Not Going to be Okay",
-        "url": "https://open.spotify.com/album/6AsWzHfb8cfeQbebqChYeo"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "It's Not Going to be Okay",
-      "url": "https://open.spotify.com/track/7CqcAoZywRveplkSLe3PQE"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/3LanvkcdxbnFSRS1BWAGZm"
-      },
-      "artists": [
-        {
-          "name": "Jillian Lake",
-          "url": "https://open.spotify.com/artist/1VBiXsCfOgQzy8uxyhCnPY"
-        }
-      ],
-      "duration_ms": 244238,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/7tWc9N4ccqkRScvnbERjcW"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
         "name": "Porch Light",
         "url": "https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q"
       },
@@ -2423,106 +2515,6 @@
       "duration_ms": 262726,
       "name": "Porch Light",
       "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "a million",
-        "url": "https://open.spotify.com/album/6kf8tzKyYQufZu0SHRmthA"
-      },
-      "artists": [
-        {
-          "name": "Ella Woolsey",
-          "url": "https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9"
-        }
-      ],
-      "duration_ms": 166674,
-      "name": "a million",
-      "url": "https://open.spotify.com/track/33IjsGyaereLETeWa5NcbL"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "Shadow Child",
-        "url": "https://open.spotify.com/album/4EtascluhmKr8QbmFeJ3GN"
-      },
-      "artists": [
-        {
-          "name": "Abigail Lapell",
-          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
-        }
-      ],
-      "duration_ms": 171653,
-      "name": "Shadow Child",
-      "url": "https://open.spotify.com/track/0FFKYIhuZemAM4eJpEwoSz"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "Time of Fallow",
-        "url": "https://open.spotify.com/album/5iAURosKLz2YhEUDdzSG0U"
-      },
-      "artists": [
-        {
-          "name": "Ellie O'Neill",
-          "url": "https://open.spotify.com/artist/7FCg4FGsuJfM2o6aE83UHw"
-        }
-      ],
-      "duration_ms": 234887,
-      "name": "Silent Water",
-      "url": "https://open.spotify.com/track/1K8acHNZSeht0WfkJIex9B"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "GUTWORK",
-        "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
-      },
-      "artists": [
-        {
-          "name": "Winnie Raeder",
-          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Nights Like These",
-      "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "Stolen Valor / Leash",
-        "url": "https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0"
-      },
-      "artists": [
-        {
-          "name": "Hudson Freeman",
-          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
-        },
-        {
-          "name": "The Bedroomer",
-          "url": "https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Stolen Valor",
-      "url": "https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "Fleeting",
-        "url": "https://open.spotify.com/album/5oFeXV2HqSoLuFbPHOAIXt"
-      },
-      "artists": [
-        {
-          "name": "Michaela Slinger",
-          "url": "https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ"
-        }
-      ],
-      "duration_ms": 248437,
-      "name": "Fleeting",
-      "url": "https://open.spotify.com/track/3q99nHKtH9hs5n055NRhfd"
     }
   ],
   "unique_name": "Folk & Friends",

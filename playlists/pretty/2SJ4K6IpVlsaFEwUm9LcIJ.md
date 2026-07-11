@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: july\-august 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,357 likes - 14 songs - 1 hr 5 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,350 likes - 16 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,5 +22,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 12 | [I Was The Dancer](https://open.spotify.com/track/2MATQphNB3FUAJGfeGD5bn) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/0gVl6TbtVCioOlWDOGObly) | 3:14 |
 | 13 | [I Am The Key \- Key 103, Jan '89](https://open.spotify.com/track/3kHEQxN6i74s5BQpYquuLd) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's \(Deluxe Edition\)](https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW) | 3:04 |
 | 14 | [Changeling](https://open.spotify.com/track/5DIaZd2T8XohPHN72PkxTq) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN) | 7:16 |
+| 15 | [Natural Disasters](https://open.spotify.com/track/6F3TZeOG2uKDNDbUgoOE3S) | [Enon](https://open.spotify.com/artist/3jJxGc6wl7xvZHSg8tg61V) | [High Society](https://open.spotify.com/album/22xdBowvTHJ7kOkR3srCzx) | 2:49 |
+| 16 | [Don’t Challenge Me](https://open.spotify.com/track/7keyJb7V22AHhKEXFEbwkC) | [Makers](https://open.spotify.com/artist/4o3UbCOZDjx8y4pORzt4wq) | [Don't Challenge Me / You're Shy](https://open.spotify.com/album/27yf7UUdGz4VlqiVdMBELz) | 3:05 |
 
-Snapshot ID: `AAAOiEH+DIG4fdbwQNrhdDjvNcFSGJaE`
+Snapshot ID: `AAAOjHRVQwtUsbbowrm2WdRjWOzeZZgC`

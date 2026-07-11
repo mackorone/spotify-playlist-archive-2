@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang dangdut ngetop Tanah Air\. Cover: Mila DA7, Valen DA7
+> Dendang dangdut ngetop Tanah Air\. Cover: April DA7
 
-305 songs - 1 day 0 hr 10 min
+307 songs - 1 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Mengapa Cuma Mimpi](https://open.spotify.com/track/0yx1ixe6exnSVaSwMDSDDh) | [Mansyur S](https://open.spotify.com/artist/4uq6QLz8nA9LAj01MDk58W) | [Mengapa Cuma Mimpi](https://open.spotify.com/album/2FNYU3mjyOwd2D5W0BOVli) | 5:11 | 2025-12-11 |  |
 | [Menggapai Cinta](https://open.spotify.com/track/4rerJfXC9ursw1GszRrxuO) | [Putri Isnari](https://open.spotify.com/artist/0OnSSg1BbWcHmKtDfBpjE1) | [Menggapai Cinta](https://open.spotify.com/album/18rTICWmL8FhSeB8XMKHXa) | 5:30 | 2023-12-14 |  |
 | [Menuntun Rindu](https://open.spotify.com/track/4GtDoitzRU2J1867x43Xb3) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Menuntun Rindu](https://open.spotify.com/album/3hu2vQpAdagC35INFDwwjI) | 5:19 | 2025-04-17 |  |
+| [Menyala](https://open.spotify.com/track/2HBxIqFFgXv94aCa8iGF48) | [April DA7](https://open.spotify.com/artist/5uQ1xq1w3lW2D7UcM6m3DX) | [Menyala](https://open.spotify.com/album/1XTVVaJTxjZgDM9B02GW7c) | 4:43 | 2026-07-10 |  |
 | [Menyerah](https://open.spotify.com/track/17QG2cIIyiUk3938GRLRTq) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB), [Mom Uung](https://open.spotify.com/artist/5w0tU4gg00N5ODpshCHz6c), [Rizky Billar](https://open.spotify.com/artist/1QHSgB3sQ7xd1Cbs3yPU16) | [Menyerah](https://open.spotify.com/album/0zA93D842xuF7GCUitx0i6) | 4:28 | 2023-12-21 | 2025-10-18 |
 | [Meraih Impian](https://open.spotify.com/track/0Cg4RdstxbC0l265xzKRLU) | [Warda](https://open.spotify.com/artist/13VpyoFwcfTMN0wLMMshRw) | [Meraih Impian](https://open.spotify.com/album/2CkCEt6jf0yPavwwFH5aAY) | 4:13 | 2024-03-28 | 2024-09-27 |
 | [Merayu \- Live](https://open.spotify.com/track/50fiMmuMbK6NacXfcxQ1yB) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Merayu \(Live\)](https://open.spotify.com/album/7CDKnC3gJuKaiiMYL5v1du) | 4:36 | 2024-06-06 | 2024-10-18 |
@@ -237,6 +238,7 @@
 | [Sambel Terasi](https://open.spotify.com/track/1i1vBILMIPrdSykyIHS6JV) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Sambel terasi](https://open.spotify.com/album/1AH9wWrPKRzvydpQLk2ta1) | 4:59 | 2021-08-23 | 2023-02-17 |
 | [Samira](https://open.spotify.com/track/2UNIOm160O0c3EHq3kKy2I) | [King nassar](https://open.spotify.com/artist/2SsGOU0OZ5ElIz6PN7aSYg) | [Samira](https://open.spotify.com/album/2Jb7eQXavnheWW3j0Wz0Ap) | 5:09 | 2024-10-04 | 2025-06-14 |
 | [Satru](https://open.spotify.com/track/0kiLz3NcF1LMbn97OCTlgJ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Satru](https://open.spotify.com/album/6iVngjCW7DXIg4Q5f60OVi) | 5:11 | 2021-08-23 | 2024-09-07 |
+| [Satu Dalam Ikatan](https://open.spotify.com/track/0HJhxXxnpIZ5yxupupD82D) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Satu Dalam Ikatan](https://open.spotify.com/album/7qbFoe6MjBogw9GMFVxRxQ) | 5:16 | 2026-07-10 |  |
 | [Satu Hati Sampai Mati](https://open.spotify.com/track/5L51wafs3f9Kd9rWSSoK3k) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Satu Hati Sampai Mati](https://open.spotify.com/album/0NdTR19Y6d5yS3eTRjnoEz) | 3:49 | 2021-08-23 | 2024-09-07 |
 | [Satu Kamu](https://open.spotify.com/track/2E79MZzmwGOJRhfE73DyIo) | [Fildan](https://open.spotify.com/artist/6uOceknzOyjcK3UdX3SIzl) | [Satu Kamu](https://open.spotify.com/album/0PUJsQZYGFlDliTLrQrZ2A) | 4:32 | 2023-07-13 | 2025-11-07 |
 | [Satu Rasa Cinta](https://open.spotify.com/track/2LkIEQEtMp4agDn68uJ4OF) | [Riri Chantika](https://open.spotify.com/artist/45QLgbqjuDQzHSagWxx7VX) | [Satu Rasa Cinta](https://open.spotify.com/album/6hjsEcQfDliKpxh1totuC6) | 4:54 | 2024-09-12 |  |

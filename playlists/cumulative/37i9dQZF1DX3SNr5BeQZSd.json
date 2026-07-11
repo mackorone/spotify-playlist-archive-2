@@ -2716,7 +2716,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 147692,
       "name": "Before It's Over",
       "url": "https://open.spotify.com/track/3UarXXaTIWcNfDthy8iQF7"
@@ -4786,7 +4786,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 140294,
       "name": "celeca",
       "url": "https://open.spotify.com/track/1q0FlllkAl9iWdeCNTiKkX"
@@ -6178,7 +6178,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 155670,
       "name": "Currents",
       "url": "https://open.spotify.com/track/73y3EybtsSszrRDsiVLmUN"
@@ -7234,6 +7234,24 @@
       "duration_ms": 134048,
       "name": "Down Time",
       "url": "https://open.spotify.com/track/5tB7rV4Q2JBXl2oRqbv486"
+    },
+    {
+      "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/4o5wO9KDEa9OPqAjKWcztB"
+      },
+      "artists": [
+        {
+          "name": "Konteks",
+          "url": "https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99512,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/4t257bvrSvudVCeJg2q672"
     },
     {
       "album": {
@@ -8329,6 +8347,28 @@
     },
     {
       "album": {
+        "name": "embrace",
+        "url": "https://open.spotify.com/album/7eRjgrjP0kuCfWBumh9DLT"
+      },
+      "artists": [
+        {
+          "name": "Bcalm",
+          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
+        },
+        {
+          "name": "jaackson",
+          "url": "https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118356,
+      "name": "embrace",
+      "url": "https://open.spotify.com/track/3AAfTHI6SiBDOUAEVgBV2m"
+    },
+    {
+      "album": {
         "name": "Everything Is So Beautiful",
         "url": "https://open.spotify.com/album/4ajHfecAtjWyq0P4dn2c8x"
       },
@@ -8532,6 +8572,24 @@
       "duration_ms": 125647,
       "name": "evening feelings",
       "url": "https://open.spotify.com/track/5k0j1HLcj3hpMVyJXyXw4f"
+    },
+    {
+      "album": {
+        "name": "Evening Shadows",
+        "url": "https://open.spotify.com/album/65oQdM03PMF0q4v8AqIeOW"
+      },
+      "artists": [
+        {
+          "name": "Lemon Kids",
+          "url": "https://open.spotify.com/artist/5AUN0NmzPlINdLMmzCjvI6"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136727,
+      "name": "Evening Shadows",
+      "url": "https://open.spotify.com/track/5ugBNeeUsrnY0RioLmCdlM"
     },
     {
       "album": {
@@ -9602,7 +9660,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 142702,
       "name": "florence",
       "url": "https://open.spotify.com/track/4qJ5TPk7AeD7c4m0eyOIIy"
@@ -11165,6 +11223,28 @@
     },
     {
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/306SNwPAnkuIAMXtTRVQbV"
+      },
+      "artists": [
+        {
+          "name": "amies",
+          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
+        },
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/45Rs3Os2SaOFEQKDcmmQBp"
+    },
+    {
+      "album": {
         "name": "heartbreak hotel",
         "url": "https://open.spotify.com/album/61U4uztkIl1IeXwhXXP8KV"
       },
@@ -11472,6 +11552,24 @@
       "duration_ms": 139163,
       "name": "Hideout",
       "url": "https://open.spotify.com/track/3sfH8q2fDvW19NzSHgqZn8"
+    },
+    {
+      "album": {
+        "name": "high lines",
+        "url": "https://open.spotify.com/album/3Pa9qFAljKQz68K7Np6fcT"
+      },
+      "artists": [
+        {
+          "name": "ron quixote",
+          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130153,
+      "name": "high lines",
+      "url": "https://open.spotify.com/track/5zrIGZKbIejn0YS7ac2Zbg"
     },
     {
       "album": {
@@ -13325,6 +13423,24 @@
     },
     {
       "album": {
+        "name": "interior.",
+        "url": "https://open.spotify.com/album/1JTb35eCLbqyRK39O5hppX"
+      },
+      "artists": [
+        {
+          "name": "yeyts.",
+          "url": "https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115662,
+      "name": "interior.",
+      "url": "https://open.spotify.com/track/4Eyb4WOlCF7yxYelXSAPPG"
+    },
+    {
+      "album": {
         "name": "Growing Up, Vol. 1",
         "url": "https://open.spotify.com/album/1qxLJGTmKJZVXzqKwLdzxD"
       },
@@ -14618,6 +14734,24 @@
       "duration_ms": 147272,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/5ovTwZdMu6ruPuAj3M8QMD"
+    },
+    {
+      "album": {
+        "name": "late june",
+        "url": "https://open.spotify.com/album/3kuK0fHX4OfX4JhGFLdbRH"
+      },
+      "artists": [
+        {
+          "name": "slowburn",
+          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138205,
+      "name": "late june",
+      "url": "https://open.spotify.com/track/1qmm8sVryJHUzJSnPccxsM"
     },
     {
       "album": {
@@ -16394,10 +16528,36 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 163235,
       "name": "low light",
       "url": "https://open.spotify.com/track/6epeveQRKGptYQghyFnTB0"
+    },
+    {
+      "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/5f3o9pTMsdp2NpnD8rN3A7"
+      },
+      "artists": [
+        {
+          "name": "Dani Catal\u00e1",
+          "url": "https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i"
+        },
+        {
+          "name": "dennisivnvc",
+          "url": "https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo"
+        },
+        {
+          "name": "Sling Dilly",
+          "url": "https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118518,
+      "name": "Low Tide",
+      "url": "https://open.spotify.com/track/4DTNQDl2D4w67kS6GbgyWd"
     },
     {
       "album": {
@@ -20574,7 +20734,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 142608,
       "name": "outgrowing",
       "url": "https://open.spotify.com/track/4HddQsBo7ymo2wUOTtXbhe"
@@ -21825,6 +21985,24 @@
     },
     {
       "album": {
+        "name": "Praia Da Rocha",
+        "url": "https://open.spotify.com/album/0swnw54ZayYgHIt3z2xtQ6"
+      },
+      "artists": [
+        {
+          "name": "cl\u00f8se2u",
+          "url": "https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152903,
+      "name": "Praia Da Rocha",
+      "url": "https://open.spotify.com/track/6HQNJPQW09NvtkdLkiFR1E"
+    },
+    {
+      "album": {
         "name": "Precious",
         "url": "https://open.spotify.com/album/70yAR0Wq1MPzSoeGzMfz77"
       },
@@ -21912,7 +22090,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 178380,
       "name": "Promise",
       "url": "https://open.spotify.com/track/7clmICpOL6Z9L2Bh7ikWo9"
@@ -24882,7 +25060,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 137147,
       "name": "Skies",
       "url": "https://open.spotify.com/track/4VbCjCIATXuwWmwvsg84S3"
@@ -30744,7 +30922,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 144657,
       "name": "Untold",
       "url": "https://open.spotify.com/track/1BQQfx1itdVJeKnYdOs32g"
@@ -30962,6 +31140,28 @@
       "duration_ms": 78947,
       "name": "Velvet Cosmos",
       "url": "https://open.spotify.com/track/5ZoeTjSgPYBch4iP2JSyIK"
+    },
+    {
+      "album": {
+        "name": "Venice",
+        "url": "https://open.spotify.com/album/2eAXiLQuYcbKaACr3GE9oK"
+      },
+      "artists": [
+        {
+          "name": "Oatmello",
+          "url": "https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O"
+        },
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127228,
+      "name": "Venice",
+      "url": "https://open.spotify.com/track/60Ct4E9BoMSG7KWAFwQ6TP"
     },
     {
       "album": {
@@ -31498,6 +31698,10 @@
         {
           "name": "jaackson",
           "url": "https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI"
+        },
+        {
+          "name": "Oiyo",
+          "url": "https://open.spotify.com/artist/5HIjruR5eBns42y5P0r2aD"
         }
       ],
       "date_added": "2026-07-03",
@@ -32862,7 +33066,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 144000,
       "name": "Wishful",
       "url": "https://open.spotify.com/track/2tGB8LtrztHHdiEOIKb6CX"

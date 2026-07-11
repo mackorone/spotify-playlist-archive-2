@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Liana Flores",
+  "description": "The best jazz new releases. Cover: aron!",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -286,7 +286,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 285863,
       "name": "A Time For Love",
       "url": "https://open.spotify.com/track/6jHtoIPI83lU0pZg4vPq3c"
@@ -1846,6 +1846,24 @@
       "duration_ms": 333979,
       "name": "Bet",
       "url": "https://open.spotify.com/track/7pnM9gB0aO7WrIYqjeZaPX"
+    },
+    {
+      "album": {
+        "name": "Better Late Than Never",
+        "url": "https://open.spotify.com/album/3qQ3aaXoYtgZhlAUdds7Ce"
+      },
+      "artists": [
+        {
+          "name": "Michael Benedikt",
+          "url": "https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221952,
+      "name": "Better Late Than Never",
+      "url": "https://open.spotify.com/track/17Hhp1UcthCRXbKHwMjIR0"
     },
     {
       "album": {
@@ -5258,7 +5276,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 241303,
       "name": "El Bazita",
       "url": "https://open.spotify.com/track/4DD7TxEznG8QclshuPIbxv"
@@ -6742,7 +6760,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 349600,
       "name": "Gl\u00f2r",
       "url": "https://open.spotify.com/track/3AsKQkYvnehFj9JkVYdTJP"
@@ -9534,6 +9552,24 @@
       "duration_ms": 275533,
       "name": "Konsiens",
       "url": "https://open.spotify.com/track/1VbcvYk4WD8CacQcDMKZa7"
+    },
+    {
+      "album": {
+        "name": "L'absence",
+        "url": "https://open.spotify.com/album/14amzPAGoz50KNpAPUUhce"
+      },
+      "artists": [
+        {
+          "name": "Baptiste Trotignon",
+          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197800,
+      "name": "L'absence",
+      "url": "https://open.spotify.com/track/52FCKsApUgPGcKzCtXinE9"
     },
     {
       "album": {
@@ -12706,7 +12742,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 251520,
       "name": "New Blues",
       "url": "https://open.spotify.com/track/3QOaxOWCkhmkBFbUW2kKrK"
@@ -13041,6 +13077,24 @@
     },
     {
       "album": {
+        "name": "Not For A Lack Of Trying",
+        "url": "https://open.spotify.com/album/1nK1WPgFCJmY258Q0cfKe3"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154813,
+      "name": "Not For A Lack Of Trying",
+      "url": "https://open.spotify.com/track/7up1fKKwZSVVQJsfcVGPeo"
+    },
+    {
+      "album": {
         "name": "Not Here / Not Now",
         "url": "https://open.spotify.com/album/0pO4nHmz5vGINmvO31sE5N"
       },
@@ -13210,7 +13264,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 205081,
       "name": "N\u00e3o Posso Viver Sem Voc\u00ea",
       "url": "https://open.spotify.com/track/5fTAcOluWUSutQZZ3gu0fQ"
@@ -14099,6 +14153,36 @@
     },
     {
       "album": {
+        "name": "FATHERS",
+        "url": "https://open.spotify.com/album/1EeNAliCb18UrU84kfqWmh"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158106,
+      "name": "PATCHWORK",
+      "url": "https://open.spotify.com/track/38HigDpo88ILLFU2zhzRT6"
+    },
+    {
+      "album": {
         "name": "To Whom This May Concern",
         "url": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG"
       },
@@ -14242,6 +14326,24 @@
       "duration_ms": 156400,
       "name": "People Tell Me / Les gens me disent (feat. Julian Lage)",
       "url": "https://open.spotify.com/track/6VpSE1x8TpJ1uVyUbPDoeJ"
+    },
+    {
+      "album": {
+        "name": "Live At Caf\u00e9 Carlyle",
+        "url": "https://open.spotify.com/album/2hLGS8w5LaKzHMomED3KzH"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159813,
+      "name": "Perhaps, Perhaps, Perhaps - Live",
+      "url": "https://open.spotify.com/track/3a2y73CXhJ06Kgw4zJqu84"
     },
     {
       "album": {
@@ -15494,7 +15596,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 192858,
       "name": "Scrolls",
       "url": "https://open.spotify.com/track/5xzkFMj8D5DhWlmRFR9log"
@@ -17504,6 +17606,28 @@
       "duration_ms": 183013,
       "name": "Tegucigalpa 72",
       "url": "https://open.spotify.com/track/5Dsxl7aOX1Z2w4fWqfJkoV"
+    },
+    {
+      "album": {
+        "name": "Tell Me More And More And Then Some (dublon Remix)",
+        "url": "https://open.spotify.com/album/4mX3k5E8iVScFeD6ghkalz"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151260,
+      "name": "Tell Me More And More And Then Some - dublon Remix",
+      "url": "https://open.spotify.com/track/3MRACcCmiYbeNkFiF3sNu1"
     },
     {
       "album": {

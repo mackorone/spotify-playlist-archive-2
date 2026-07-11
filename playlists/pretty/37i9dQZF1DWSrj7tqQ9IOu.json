@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : Folie's",
-  "num_followers": 402146,
+  "num_followers": 402162,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Juin 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAePqTJHhfR3vkoDcoVo2k5BKjr0",
+  "snapshot_id": "AAAAAIf6KT4BzyZ0uGrCw2M+Y5fwaej5",
   "tracks": [
     {
       "added_at": "2026-06-30 22:00:27",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-06-30 22:00:27",
       "album": {
-        "name": "swim",
-        "url": "https://open.spotify.com/album/4h4L56LbVAXREBss215iRB"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 371887,
-      "name": "swim",
-      "url": "https://open.spotify.com/track/3TRP1MEDDkUw0YDsi8iQ3F"
-    },
-    {
-      "added_at": "2026-06-30 22:00:27",
-      "album": {
         "name": "Resurrection",
         "url": "https://open.spotify.com/album/0YwFC9K2Xqgz9DsLOuZuMn"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 167280,
       "name": "Better Than She Can",
       "url": "https://open.spotify.com/track/6SlKZkppWwFtQa1uQIb5Yf"
+    },
+    {
+      "added_at": "2026-06-30 22:00:27",
+      "album": {
+        "name": "swim",
+        "url": "https://open.spotify.com/album/4h4L56LbVAXREBss215iRB"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 371887,
+      "name": "swim",
+      "url": "https://open.spotify.com/track/3TRP1MEDDkUw0YDsi8iQ3F"
     },
     {
       "added_at": "2026-06-30 22:00:27",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-06-30 22:00:27",
       "album": {
-        "name": "Stone Over Water",
-        "url": "https://open.spotify.com/album/3217KYfcBkCV5MJNCdRw58"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 194225,
-      "name": "Stone Over Water",
-      "url": "https://open.spotify.com/track/4hMsWFknk0f46OLEiQOG6u"
-    },
-    {
-      "added_at": "2026-06-30 22:00:27",
-      "album": {
         "name": "La Favorite, suite et fin",
         "url": "https://open.spotify.com/album/21cNAngHUeUUJWI4Lrh3PX"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 148520,
       "name": "Ma m\u00e8re va me tuer",
       "url": "https://open.spotify.com/track/2ovxLH2PYpesPw1gnBe8lz"
+    },
+    {
+      "added_at": "2026-06-30 22:00:27",
+      "album": {
+        "name": "Stone Over Water",
+        "url": "https://open.spotify.com/album/3217KYfcBkCV5MJNCdRw58"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 194225,
+      "name": "Stone Over Water",
+      "url": "https://open.spotify.com/track/4hMsWFknk0f46OLEiQOG6u"
     },
     {
       "added_at": "2026-06-30 22:00:27",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-06-30 22:00:27",
       "album": {
-        "name": "Je ne reviendrai pas",
-        "url": "https://open.spotify.com/album/53bMY8rm48WqjhBGnzyAOE"
-      },
-      "artists": [
-        {
-          "name": "Vendredi sur Mer",
-          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
-        }
-      ],
-      "duration_ms": 163933,
-      "name": "Je ne reviendrai pas",
-      "url": "https://open.spotify.com/track/1ow5dtpQkTtAmHZoZ4Qwe7"
-    },
-    {
-      "added_at": "2026-06-30 22:00:27",
-      "album": {
         "name": "OAMPD",
         "url": "https://open.spotify.com/album/20vW9zgw5DdNuPfOynKXPl"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 120000,
       "name": "OAMPD",
       "url": "https://open.spotify.com/track/47aEofUzey1BNJ1rvkWrxl"
+    },
+    {
+      "added_at": "2026-06-30 22:00:27",
+      "album": {
+        "name": "Je ne reviendrai pas",
+        "url": "https://open.spotify.com/album/53bMY8rm48WqjhBGnzyAOE"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "Je ne reviendrai pas",
+      "url": "https://open.spotify.com/track/1ow5dtpQkTtAmHZoZ4Qwe7"
     },
     {
       "added_at": "2026-06-30 22:00:27",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-06-30 22:00:27",
       "album": {
-        "name": "Chaque fois",
-        "url": "https://open.spotify.com/album/1sxyuQ4ewVOtzOgEfgg4U2"
-      },
-      "artists": [
-        {
-          "name": "2TH",
-          "url": "https://open.spotify.com/artist/5FK0v12GGmqj8kzmiWDPRT"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Chaque fois",
-      "url": "https://open.spotify.com/track/7dclFha2hgMXhxlph3OUQV"
-    },
-    {
-      "added_at": "2026-06-30 22:00:27",
-      "album": {
         "name": "Les Abeilles",
         "url": "https://open.spotify.com/album/1kAtPqcZ1HyN1n3Y0W7t9o"
       },
@@ -563,22 +547,18 @@
     {
       "added_at": "2026-06-30 22:00:27",
       "album": {
-        "name": "Entracte",
-        "url": "https://open.spotify.com/album/5WgGolnUP1YwxluwOEzrzg"
+        "name": "Chaque fois",
+        "url": "https://open.spotify.com/album/1sxyuQ4ewVOtzOgEfgg4U2"
       },
       "artists": [
         {
-          "name": "2L",
-          "url": "https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj"
-        },
-        {
-          "name": "Souffrance",
-          "url": "https://open.spotify.com/artist/1uzx1lyRA2RIZlVSxOfBAi"
+          "name": "2TH",
+          "url": "https://open.spotify.com/artist/5FK0v12GGmqj8kzmiWDPRT"
         }
       ],
-      "duration_ms": 173235,
-      "name": "Grandir",
-      "url": "https://open.spotify.com/track/5pzj7LLz8VrbThEKwIPFkg"
+      "duration_ms": 178064,
+      "name": "Chaque fois",
+      "url": "https://open.spotify.com/track/7dclFha2hgMXhxlph3OUQV"
     },
     {
       "added_at": "2026-06-30 22:00:27",
@@ -595,6 +575,26 @@
       "duration_ms": 121641,
       "name": "SCLA",
       "url": "https://open.spotify.com/track/5JWBjUhdKMKxkHl1uRkaed"
+    },
+    {
+      "added_at": "2026-06-30 22:00:27",
+      "album": {
+        "name": "Entracte",
+        "url": "https://open.spotify.com/album/5WgGolnUP1YwxluwOEzrzg"
+      },
+      "artists": [
+        {
+          "name": "2L",
+          "url": "https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj"
+        },
+        {
+          "name": "Souffrance",
+          "url": "https://open.spotify.com/artist/1uzx1lyRA2RIZlVSxOfBAi"
+        }
+      ],
+      "duration_ms": 173235,
+      "name": "Grandir",
+      "url": "https://open.spotify.com/track/5pzj7LLz8VrbThEKwIPFkg"
     },
     {
       "added_at": "2026-06-30 22:00:27",

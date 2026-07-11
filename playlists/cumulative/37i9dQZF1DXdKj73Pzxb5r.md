@@ -4,7 +4,7 @@
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Kathleen Ivanka
 
-559 songs - 1 day 11 hr 36 min
+560 songs - 1 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,6 +559,7 @@
 | [Wijaya Kusuma](https://open.spotify.com/track/27FpiTg0UQhC2FvsBAXO8A) | [Tropical Flower](https://open.spotify.com/artist/5vMByzSDmyn6WvIRewJ7Qj) | [Merangkai Bunga](https://open.spotify.com/album/3Jsnmz61rNY4JxXHUa6eQb) | 3:16 | 2024-08-16 | 2024-10-04 |
 | [Wildfires](https://open.spotify.com/track/38AAuWfmItCn3dQaYixUUA) | [Karsha](https://open.spotify.com/artist/1AnRPfFu4rRNCrfOWMYHOO) | [Wildfires](https://open.spotify.com/album/28iZ66KRRKQ73pd755X7s0) | 3:41 | 2025-05-08 | 2025-06-20 |
 | [With You](https://open.spotify.com/track/5iqGjegieFX6k8mi8KmPu9) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj), [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [With You](https://open.spotify.com/album/6yNqjn10LSEtt9jtWy1qpG) | 3:02 | 2024-07-11 | 2024-08-17 |
+| [Yang Hilang Dan Kembali](https://open.spotify.com/track/4HloxctN0aVtaTUTkS92YU) | [The Monophones](https://open.spotify.com/artist/2qNkBIMEYtteU9TIzj1FDn) | [Yang Hilang Dan Kembali](https://open.spotify.com/album/3TgWuuR0vPIAlELXj6ujmj) | 5:31 | 2026-07-10 |  |
 | [Yang Tak Sama](https://open.spotify.com/track/2Bf5Ioyjz1DOx1bCrHG6As) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [Yang Tak Sama](https://open.spotify.com/album/7H3GfaIUQP0N461ab0POFd) | 3:52 | 2026-01-30 |  |
 | [yang tumbuh \- live](https://open.spotify.com/track/3cuBDsoKryqJpzuHGbWMgb) | [Amira Karin](https://open.spotify.com/artist/3rCwi62vIXjO26qeTbDtKp), [Gardika Gigih](https://open.spotify.com/artist/0o6rbDGIxDEw5vzGKyxdcK) | [yang tumbuh \- live](https://open.spotify.com/album/0BjMX0earROGLT3f0kebDe) | 6:05 | 2025-11-06 | 2026-05-16 |
 | [Yasudah](https://open.spotify.com/track/4gKgefMQuie6nz017V6jiP) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Yasudah](https://open.spotify.com/album/0NVWNTENg9PZM0J1RfToXX) | 4:56 | 2024-06-27 | 2025-05-17 |

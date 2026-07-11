@@ -1,12 +1,12 @@
 {
-  "description": "Where R&B lives. Cover: kwn",
-  "num_followers": 6079173,
+  "description": "Where R&B lives. Cover: Kelela",
+  "num_followers": 6078542,
   "original_name": "RNB X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAhZreMTLSmp6ODW+jgF5bnkJ0Vh",
+  "snapshot_id": "AAAAANMDWXnsTnKFtInLaHy92Ey6m5Lf",
   "tracks": [
     {
       "added_at": "2026-07-06 16:13:51",
@@ -77,6 +77,26 @@
       "url": "https://open.spotify.com/track/6Q1biSMDWjVrtpcZNeAd5A"
     },
     {
+      "added_at": "2026-07-10 04:15:39",
+      "album": {
+        "name": "new avatar",
+        "url": "https://open.spotify.com/album/0t1I0Ic8IzTND3sesj9tDE"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 204693,
+      "name": "new life forms",
+      "url": "https://open.spotify.com/track/1hn8Yk25LhVUPgUBICzAKp"
+    },
+    {
       "added_at": "2026-06-19 04:01:57",
       "album": {
         "name": "Resurrection",
@@ -131,6 +151,22 @@
       "duration_ms": 176297,
       "name": "Nowhere Fast",
       "url": "https://open.spotify.com/track/2p6y4R0mIqjr919ASPeFh8"
+    },
+    {
+      "added_at": "2026-07-10 04:15:39",
+      "album": {
+        "name": "Body So Tea",
+        "url": "https://open.spotify.com/album/2mG7Jq4OnkQdpmemAmtXAQ"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 151951,
+      "name": "Body So Tea",
+      "url": "https://open.spotify.com/track/2V1ne5a2MBngWduIph5pqg"
     },
     {
       "added_at": "2026-06-19 04:01:57",
@@ -447,22 +483,6 @@
     {
       "added_at": "2026-06-05 03:09:01",
       "album": {
-        "name": "point blank",
-        "url": "https://open.spotify.com/album/2jJpukwwcs7tfNQFGq8iLr"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 266613,
-      "name": "point blank",
-      "url": "https://open.spotify.com/track/3iVIWU9iGw8bJ8x2mfwXnI"
-    },
-    {
-      "added_at": "2026-06-05 03:09:01",
-      "album": {
         "name": "Don\u2019t Break Her Heart",
         "url": "https://open.spotify.com/album/4zH1DbsAbNzjtL0CtUBGnY"
       },
@@ -479,8 +499,8 @@
     {
       "added_at": "2026-05-29 04:02:15",
       "album": {
-        "name": "THE EDGE",
-        "url": "https://open.spotify.com/album/0OeCOxmJZPbLdSZYSmHYg8"
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/6Yz1hJu1dIcIlTHmuNZkkY"
       },
       "artists": [
         {
@@ -488,9 +508,9 @@
           "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
         }
       ],
-      "duration_ms": 172605,
-      "name": "PAGEANT STAGE",
-      "url": "https://open.spotify.com/track/18xbuNAEvWdiJpFMLgyRHj"
+      "duration_ms": 186716,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/2AaDINmyHvzElSXWQ0tmrb"
     },
     {
       "added_at": "2026-05-29 04:02:15",
@@ -871,22 +891,6 @@
       "duration_ms": 181334,
       "name": "Is It a Crime",
       "url": "https://open.spotify.com/track/31Oh4pwZWjBTuRmzNtxj10"
-    },
-    {
-      "added_at": "2026-05-29 04:02:15",
-      "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/6Yz1hJu1dIcIlTHmuNZkkY"
-      },
-      "artists": [
-        {
-          "name": "Tone Stith",
-          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
-        }
-      ],
-      "duration_ms": 186716,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/2AaDINmyHvzElSXWQ0tmrb"
     }
   ],
   "unique_name": "RNB X",

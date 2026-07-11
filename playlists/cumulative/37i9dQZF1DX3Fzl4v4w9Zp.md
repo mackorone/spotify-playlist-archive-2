@@ -2,9 +2,9 @@
 
 ### [The Pulse of Americana](https://open.spotify.com/playlist/37i9dQZF1DX3Fzl4v4w9Zp)
 
-> Where roots meet what’s next\. Cover: Brandon Flowers
+> Where roots meet what’s next\. Cover: Allison Russell
 
-1,004 songs - 2 day 13 hr 46 min
+1,006 songs - 2 day 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [Every Light](https://open.spotify.com/track/4i8j6kulj1ipa8srEE4LZT) | [Radio Company](https://open.spotify.com/artist/3qBdT7NKSOBogHhGiUVLiV) | [Keep On Ramblin'](https://open.spotify.com/album/2A2aFLVWZKdon9eXdcJu6x) | 4:15 | 2023-02-24 | 2024-02-17 |
 | [Every Next Woman](https://open.spotify.com/track/5n0TMVRz66QG0h5jP1leDO) | [Madison Hughes](https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F) | [Every Next Woman](https://open.spotify.com/album/4u5wRNZUmfTIcLf4bUQAom) | 3:33 | 2025-09-05 | 2025-12-13 |
 | [Everybody \(feat\. Jenny Lewis\)](https://open.spotify.com/track/4kUTA4ftbqY5uZHJzm0wCL) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S), [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Everybody \(feat\. Jenny Lewis\)](https://open.spotify.com/album/2UJQBQGLVhmnt8qVIVZshO) | 2:58 | 2022-01-07 | 2022-04-02 |
-| [Everyday Singing](https://open.spotify.com/track/619wrEClKmJ6HRJZyesFTR) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Everyday Singing](https://open.spotify.com/album/6sV4THDB5uRtiHKiu56yD4) | 4:14 | 2026-05-22 |  |
+| [Everyday Singing](https://open.spotify.com/track/619wrEClKmJ6HRJZyesFTR) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Everyday Singing](https://open.spotify.com/album/6sV4THDB5uRtiHKiu56yD4) | 4:14 | 2026-05-22 | 2026-07-11 |
 | [Everyone But You](https://open.spotify.com/track/3PS7zsYHyOrG050v9CK6xH) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Everyone But You](https://open.spotify.com/album/6L3nLBtCelt2STcaWoMu5l) | 3:40 | 2024-07-19 | 2025-05-17 |
 | [Everyone Wants To Feel Like You Do](https://open.spotify.com/track/0S4FrT5ZhIwjdnqsGI69lZ) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Valentine](https://open.spotify.com/album/2Bn5Qn9nmG0lVZTbU6C6Gz) | 4:03 | 2026-01-16 | 2026-03-07 |
 | [Everything At Once \(feat\. Jeff Tweedy\)](https://open.spotify.com/track/1uFxDct07CM36KdhQYjWEh) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY), [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [The Chicago Sessions](https://open.spotify.com/album/43n3JA5Xt9rnxgq3yQ7i6o) | 3:45 | 2024-03-29 | 2024-04-19 |
@@ -342,6 +342,7 @@
 | [Gold Rush](https://open.spotify.com/track/5jx8nGaWvgYQZJd6k1OOuO) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Gold Rush](https://open.spotify.com/album/5PCVQKjEnyxqaWi9M45Gz9) | 4:15 | 2025-02-07 | 2025-12-13 |
 | [Golden State](https://open.spotify.com/track/6OZlJDNIs9Eix2QGajJEOy) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [All The Wine In California](https://open.spotify.com/album/5hvJoYH3K4PaGfVcI9Dqny) | 4:24 | 2023-09-08 | 2025-01-18 |
 | [Golden Years](https://open.spotify.com/track/4fQXOpDKcxHWgYXmincsq8) | [Parker Gispert](https://open.spotify.com/artist/2EPHhgkv9L6O4FzWJT5kcs) | [Golden Years](https://open.spotify.com/album/0sfjxBL5IvqREalOeEkmDW) | 3:37 | 2022-06-17 | 2023-04-22 |
+| [Goldmine](https://open.spotify.com/track/3LmkUHLn8uCpslDDc6sgBy) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Goldmine](https://open.spotify.com/album/42ZLcsAyICGppuqfnQ6nDu) | 2:50 | 2026-07-10 |  |
 | [Gone](https://open.spotify.com/track/087TB9G9VYQ8BDGOoKtbW8) | [Rambler Kane](https://open.spotify.com/artist/7k8nztcDZOpEF7BO327JCg) | [Gone](https://open.spotify.com/album/6XfYaqvXP5729clabOlMNG) | 3:32 | 2025-11-07 |  |
 | [Good Morning Coffee](https://open.spotify.com/track/6ic8f1Bzdq8hYoqUobU15F) | [Seth Avett](https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW) | [Laughing River](https://open.spotify.com/album/1LnQJBFkhJGgr6mfTwDET8) | 3:46 | 2022-10-28 | 2024-01-27 |
 | [Good People \(Thank Me\)](https://open.spotify.com/track/0BfNYBkhbR99P2orPOeOS0) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [We're Only Human](https://open.spotify.com/album/3O4k0itGX6pQfT4gfktCdx) | 3:43 | 2025-08-08 | 2026-01-15 |
@@ -532,6 +533,7 @@
 | [Lost at Sea](https://open.spotify.com/track/4SPFLGbWVbdSnnVa985mvA) | [Cordovas](https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE) | [Back to Life](https://open.spotify.com/album/2tf6b0OVMQg6Nh7O5OgHKu) | 3:04 | 2026-01-30 | 2026-04-11 |
 | [Lost Cause Lover Fool](https://open.spotify.com/track/67BIKHphUzH4RpIgbtpVom) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Lost Cause Lover Fool](https://open.spotify.com/album/5Da2gVIzT3m8pSAsNHv9Mv) | 4:59 | 2026-04-24 |  |
 | [Lost Lover's Eyes](https://open.spotify.com/track/4mrFszdYwKUgN5hlxEAfKK) | [Vince Herman](https://open.spotify.com/artist/68y27sv6lj2UUtFw4ckGiG) | [Lost Lover's Eyes](https://open.spotify.com/album/1eEqgnT0al5DaAaDHdShsG) | 3:23 | 2022-11-11 | 2024-02-03 |
+| [Love is a Golden Lion \(ft\. Devon Gilfillian\)](https://open.spotify.com/track/4L6mGV7SyDFOWXInO32PgO) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [In the Hour of Chaos](https://open.spotify.com/album/3kscpGV3VPWFFX7lPf0DuL) | 2:57 | 2026-07-10 |  |
 | [Love is Electric](https://open.spotify.com/track/1iIXB01AHT5ulo896r09JW) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Look Who's Back](https://open.spotify.com/album/46VxArVIVJrpSJrHD3P2ji) | 3:19 | 2026-02-13 | 2026-03-21 |
 | [Love Is Selfish](https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A) | 2:52 | 2022-01-21 | 2022-11-19 |
 | [Love Last](https://open.spotify.com/track/7kaHskn4s3SM1aY7GNVqbc) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Curioso](https://open.spotify.com/album/3GQfiWf3Hmkn7wW7FsQTKr) | 3:23 | 2025-02-07 | 2025-11-08 |
@@ -611,7 +613,7 @@
 | [Northwest](https://open.spotify.com/track/26XedTngu1tjJkwoHqQiC1) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Northwest](https://open.spotify.com/album/7sfdAh5oRQDPknCjqS3Eqt) | 4:45 | 2023-05-12 | 2024-03-02 |
 | [Not Broken](https://open.spotify.com/track/6h6UXhBPuVg5RPSyK07OIO) | [Alan Sparhawk](https://open.spotify.com/artist/7ljTofQBh5fR5SYfGHRYs8), [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Not Broken](https://open.spotify.com/album/2MJWcA10XHn3WSwJSuoLnc) | 3:22 | 2025-05-16 | 2026-01-30 |
 | [Not Mine to Begin With](https://open.spotify.com/track/44X23UitJjs0tc5dYx6NNh) | [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7) | [Not Mine to Begin With](https://open.spotify.com/album/27DMNQKPVF4JH4HBB7hG44) | 3:26 | 2022-05-13 | 2023-04-15 |
-| [Nothing Comes Easy](https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Nothing Comes Easy](https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy) | 2:54 | 2026-01-16 |  |
+| [Nothing Comes Easy](https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Nothing Comes Easy](https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy) | 2:54 | 2026-01-16 | 2026-07-11 |
 | [Nothing I Need](https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Nothing I Need](https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8) | 3:33 | 2025-03-28 | 2026-01-17 |
 | [Nothing You Can Take From Me \(Boot\-Stompin' Version\) \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/4ck5SWSXlSUVHhYjq9Cb8L) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3), [The Covey Band](https://open.spotify.com/artist/4qH48Bc0oZ12M7TdGB7QVi) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:13 | 2023-11-30 | 2024-08-10 |
 | [Now is the Time](https://open.spotify.com/track/5ddrYyHEHIwXeeELXkgEel) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Now is the Time](https://open.spotify.com/album/2LYm9NJMZYR8V3Ldq5Umh4) | 3:35 | 2021-12-17 | 2022-04-16 |

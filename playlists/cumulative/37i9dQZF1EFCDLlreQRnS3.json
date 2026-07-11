@@ -2441,6 +2441,24 @@
     },
     {
       "album": {
+        "name": "Fairy Pop",
+        "url": "https://open.spotify.com/album/3cPdL4VimfdCUNqkfvdArO"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182056,
+      "name": "Skydive",
+      "url": "https://open.spotify.com/track/0sarXEVIAjsJva5gnAYdjk"
+    },
+    {
+      "album": {
         "name": "Sleepless",
         "url": "https://open.spotify.com/album/5OGYUO0DwfmxEeiH4vCYnJ"
       },

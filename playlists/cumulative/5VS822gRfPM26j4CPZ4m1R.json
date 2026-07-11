@@ -10771,6 +10771,24 @@
     },
     {
       "album": {
+        "name": "This is a Poem",
+        "url": "https://open.spotify.com/album/0AS4354AoY7EWpJIVxz8iv"
+      },
+      "artists": [
+        {
+          "name": "Worries And Other Plants",
+          "url": "https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211893,
+      "name": "This is a Poem",
+      "url": "https://open.spotify.com/track/5JLlk8QoH8jlzdUXRvYFPZ"
+    },
+    {
+      "album": {
         "name": "Reasonings",
         "url": "https://open.spotify.com/album/4KmHuc0BNk5nMlZVMaL1c4"
       },

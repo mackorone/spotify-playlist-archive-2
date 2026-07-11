@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-521 songs - 1 day 3 hr 40 min
+522 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Colourblind](https://open.spotify.com/track/08AK8kZVQIt5XRjgbbW4c3) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Colourblind](https://open.spotify.com/album/2nX6yifTLWANuDNVK8VJ2P) | 2:38 | 2021-10-29 | 2022-06-14 |
 | [Coming Down](https://open.spotify.com/track/6pO7fWXv9FCOT79cJdWq6H) | [Solanca](https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Coming Down](https://open.spotify.com/album/63YuEPlpI89krdvctGytaa) | 3:34 | 2025-05-30 | 2025-06-03 |
 | [Contesto](https://open.spotify.com/track/4PjAtEHN8MXgXFQwTxIWva) | [Massuma](https://open.spotify.com/artist/2JnGvSeKbZegE0nxAsHCNF), [DOSAMIS](https://open.spotify.com/artist/36fpW4ktLfu9b1duhS928K) | [Contesto](https://open.spotify.com/album/2EKQFEyR9kMnCZ52U8xPgA) | 3:26 | 2025-07-25 | 2025-11-05 |
-| [Cops & Robbers](https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Cops & Robbers](https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U) | 2:41 | 2025-06-24 |  |
+| [Cops & Robbers](https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Cops & Robbers](https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U) | 2:41 | 2025-06-24 | 2026-07-11 |
 | [CORAÇAO \- 20th Anniversary Mix](https://open.spotify.com/track/2KVAO2OAH6a9Tr2DqYL65g) | [Jerry Ropero](https://open.spotify.com/artist/73rKG9PlOR46yTmu2IqnSG), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Mijangos](https://open.spotify.com/artist/55Y97uxwaGhvalkzZbxyzf), [Jesús Fernández](https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum) | [CORAÇAO \(20th Anniversary Mix\)](https://open.spotify.com/album/76jQdtc4MNArbcZxWgZU3p) | 2:55 | 2024-08-30 | 2026-05-16 |
 | [Corpo e Canção \- Club Mix](https://open.spotify.com/track/0fdnuaaMLkAJb3czxnwKxh) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Letícia Fialho](https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN) | [Corpo e Canção \(Club Mix\)](https://open.spotify.com/album/6PHYNn7KqOlQxAgETl4ujD) | 4:35 | 2024-06-07 | 2025-11-07 |
 | [Could You Be Loved \(with LP Giobbi\)](https://open.spotify.com/track/6IAu19Ylpuu6PRhU0x4wff) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Could You Be Loved \(with LP Giobbi\)](https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY) | 4:46 | 2025-10-17 | 2026-03-21 |
@@ -487,6 +487,7 @@
 | [Too Good To Lose \- Sunset Edition](https://open.spotify.com/track/7qJ0fplEhE9Hjjrexg2QPS) | [Electric Polar Bears](https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI), [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [Too Good To Lose \- Sunset Edition](https://open.spotify.com/album/6QK9eQNS6LQb24a8CCHJZe) | 2:56 | 2022-04-08 | 2022-04-19 |
 | [Touch](https://open.spotify.com/track/6xa40oo11mx6XTLpZwuLUL) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a) | [Touch](https://open.spotify.com/album/34q5aD1Ldo2e7nSQzF608l) | 2:52 | 2022-03-25 | 2022-07-29 |
 | [Toxic](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Toxic](https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn) | 2:44 | 2025-04-04 | 2026-05-16 |
+| [Trapped \- Radio\-Edit](https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [What Did You Come For ?](https://open.spotify.com/album/3HK2AgbyXwcMfYBjG2A71e) | 3:41 | 2026-07-10 |  |
 | [Travel Guitar](https://open.spotify.com/track/25EVi5xRn0yebtQupMqvg8) | [Zia & Zio](https://open.spotify.com/artist/0B8o3cxzT2CjTjb7Gu4JEv) | [Travel Guitar](https://open.spotify.com/album/42qFmxzGmWw2JCeUBseaxc) | 2:02 | 2022-03-25 | 2022-04-20 |
 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 | 2024-07-26 |  |
 | [Tschaka](https://open.spotify.com/track/7c5pAtAI2doDnsDD4SqMHG) | [Till Von Sein](https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI) | [Tschaka 'n Tscheka](https://open.spotify.com/album/3Lav6mhh8bChUl6afGf9j4) | 5:24 | 2021-10-29 | 2022-07-20 |

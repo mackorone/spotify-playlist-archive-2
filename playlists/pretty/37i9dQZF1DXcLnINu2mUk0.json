@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Waze",
-  "num_followers": 55375,
+  "num_followers": 55381,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -495,26 +495,6 @@
     {
       "added_at": "2026-07-09 23:00:42",
       "album": {
-        "name": "Amor de Agosto",
-        "url": "https://open.spotify.com/album/43OLhOCAzmBiNuoNS856NS"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        },
-        {
-          "name": "Mariana Pereira",
-          "url": "https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm"
-        }
-      ],
-      "duration_ms": 169230,
-      "name": "Amor de Agosto",
-      "url": "https://open.spotify.com/track/6wVVIGFQdgQkYYEaYcGC2M"
-    },
-    {
-      "added_at": "2026-07-09 23:00:42",
-      "album": {
         "name": "Reservado",
         "url": "https://open.spotify.com/album/1fv3j4QZFpWTljyn1Ay6sM"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 158326,
       "name": "Cacau",
       "url": "https://open.spotify.com/track/4jq69Jq3ZxYXTeXu9JhmIO"
+    },
+    {
+      "added_at": "2026-07-09 23:00:42",
+      "album": {
+        "name": "Amor de Agosto",
+        "url": "https://open.spotify.com/album/43OLhOCAzmBiNuoNS856NS"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        },
+        {
+          "name": "Mariana Pereira",
+          "url": "https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm"
+        }
+      ],
+      "duration_ms": 169230,
+      "name": "Amor de Agosto",
+      "url": "https://open.spotify.com/track/6wVVIGFQdgQkYYEaYcGC2M"
     },
     {
       "added_at": "2026-07-09 23:00:42",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-07-09 23:00:42",
       "album": {
-        "name": "Camisa 10 (Primavera)",
-        "url": "https://open.spotify.com/album/5GkTbaYqQBYY1XSW6GWLxe"
-      },
-      "artists": [
-        {
-          "name": "Edgar Domingos",
-          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Camisa 10 (Primavera)",
-      "url": "https://open.spotify.com/track/35ikW2zACF8ksDyMxDhgzX"
-    },
-    {
-      "added_at": "2026-07-09 23:00:42",
-      "album": {
         "name": "+ Reservado",
         "url": "https://open.spotify.com/album/65EamwZnZsgVnompZedhm4"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 175500,
       "name": "Bem Zen",
       "url": "https://open.spotify.com/track/0EheRsG3tZgIYAVP3m9b0u"
+    },
+    {
+      "added_at": "2026-07-09 23:00:42",
+      "album": {
+        "name": "Camisa 10 (Primavera)",
+        "url": "https://open.spotify.com/album/5GkTbaYqQBYY1XSW6GWLxe"
+      },
+      "artists": [
+        {
+          "name": "Edgar Domingos",
+          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Camisa 10 (Primavera)",
+      "url": "https://open.spotify.com/track/35ikW2zACF8ksDyMxDhgzX"
     },
     {
       "added_at": "2026-07-09 23:00:42",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-07-09 23:00:42",
       "album": {
+        "name": "Bisou",
+        "url": "https://open.spotify.com/album/2Qj3dZxstpDRAFiVCyLcQ1"
+      },
+      "artists": [
+        {
+          "name": "Satiro",
+          "url": "https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Bisou",
+      "url": "https://open.spotify.com/track/4Gj5SkUb1S4bWTq2wgLIDD"
+    },
+    {
+      "added_at": "2026-07-09 23:00:42",
+      "album": {
         "name": "Dama & Vagabundo",
         "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 188593,
       "name": "Interestelar",
       "url": "https://open.spotify.com/track/0itv2Wy3TruEEZy4dRsu32"
-    },
-    {
-      "added_at": "2026-07-09 23:00:42",
-      "album": {
-        "name": "Bisou",
-        "url": "https://open.spotify.com/album/2Qj3dZxstpDRAFiVCyLcQ1"
-      },
-      "artists": [
-        {
-          "name": "Satiro",
-          "url": "https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "Bisou",
-      "url": "https://open.spotify.com/track/4Gj5SkUb1S4bWTq2wgLIDD"
     },
     {
       "added_at": "2026-07-09 23:00:42",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-07-09 23:00:42",
       "album": {
-        "name": "Eu Quero Um Preto",
-        "url": "https://open.spotify.com/album/4VYHoBdfe9ItKcZEIVVky4"
-      },
-      "artists": [
-        {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
-        }
-      ],
-      "duration_ms": 233307,
-      "name": "Eu Quero Um Preto",
-      "url": "https://open.spotify.com/track/5RR0enYvYBvjNIPAAYzxcU"
-    },
-    {
-      "added_at": "2026-07-09 23:00:42",
-      "album": {
         "name": "M\u00e3o de Sonhos",
         "url": "https://open.spotify.com/album/1P4rGS3xRlS9qOqglHFGFe"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 194655,
       "name": "M\u00e3o de Sonhos",
       "url": "https://open.spotify.com/track/4AmFBFSgOrk0ZBvk0tjCy8"
+    },
+    {
+      "added_at": "2026-07-09 23:00:42",
+      "album": {
+        "name": "Eu Quero Um Preto",
+        "url": "https://open.spotify.com/album/4VYHoBdfe9ItKcZEIVVky4"
+      },
+      "artists": [
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        }
+      ],
+      "duration_ms": 233307,
+      "name": "Eu Quero Um Preto",
+      "url": "https://open.spotify.com/track/5RR0enYvYBvjNIPAAYzxcU"
     },
     {
       "added_at": "2026-07-09 23:00:42",
@@ -1071,6 +1071,30 @@
     {
       "added_at": "2026-07-09 23:00:42",
       "album": {
+        "name": "Aguarela",
+        "url": "https://open.spotify.com/album/3xn6NxoK4rdQRyWndt4ylL"
+      },
+      "artists": [
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        },
+        {
+          "name": "Teetwo",
+          "url": "https://open.spotify.com/artist/5VJa8cNehs0vBfqAEd92ar"
+        },
+        {
+          "name": "TeniTeach",
+          "url": "https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE"
+        }
+      ],
+      "duration_ms": 196912,
+      "name": "Aguarela",
+      "url": "https://open.spotify.com/track/7d0P02kHN2V2dD4LRFqF2S"
+    },
+    {
+      "added_at": "2026-07-09 23:00:42",
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs"
       },
@@ -1095,22 +1119,6 @@
     {
       "added_at": "2026-07-09 23:00:42",
       "album": {
-        "name": "Bon Vivan",
-        "url": "https://open.spotify.com/album/7J2ZbDOKBqeBGwtSKLcT7p"
-      },
-      "artists": [
-        {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
-        }
-      ],
-      "duration_ms": 137910,
-      "name": "Bon Vivan",
-      "url": "https://open.spotify.com/track/4AJCfH6VKefdRWsEyrhufE"
-    },
-    {
-      "added_at": "2026-07-09 23:00:42",
-      "album": {
         "name": "P\u00e9 Descal\u00e7o",
         "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
       },
@@ -1127,26 +1135,18 @@
     {
       "added_at": "2026-07-09 23:00:42",
       "album": {
-        "name": "Aguarela",
-        "url": "https://open.spotify.com/album/3xn6NxoK4rdQRyWndt4ylL"
+        "name": "Bon Vivan",
+        "url": "https://open.spotify.com/album/7J2ZbDOKBqeBGwtSKLcT7p"
       },
       "artists": [
         {
-          "name": "Myles 6ix",
-          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
-        },
-        {
-          "name": "Teetwo",
-          "url": "https://open.spotify.com/artist/5VJa8cNehs0vBfqAEd92ar"
-        },
-        {
-          "name": "TeniTeach",
-          "url": "https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE"
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
         }
       ],
-      "duration_ms": 196912,
-      "name": "Aguarela",
-      "url": "https://open.spotify.com/track/7d0P02kHN2V2dD4LRFqF2S"
+      "duration_ms": 137910,
+      "name": "Bon Vivan",
+      "url": "https://open.spotify.com/track/4AJCfH6VKefdRWsEyrhufE"
     },
     {
       "added_at": "2026-07-09 23:00:42",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-07-09 23:00:42",
       "album": {
+        "name": "10 MINUTOS",
+        "url": "https://open.spotify.com/album/1f7H62wBukLZ1dWc8Vfgoh"
+      },
+      "artists": [
+        {
+          "name": "ATJ",
+          "url": "https://open.spotify.com/artist/2EIF8yz9lT5vzYDriL5VAG"
+        }
+      ],
+      "duration_ms": 300333,
+      "name": "10 MINUTOS",
+      "url": "https://open.spotify.com/track/0NIlYkV3zxqZkGVbJJzpLf"
+    },
+    {
+      "added_at": "2026-07-09 23:00:42",
+      "album": {
         "name": "Nossa Hist\u00f3ria",
         "url": "https://open.spotify.com/album/4ly1joTaalQ5wAP0rbwmPT"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 253085,
       "name": "Nossa Hist\u00f3ria",
       "url": "https://open.spotify.com/track/7fTEgp9TRGwEPVgfCLVjSb"
-    },
-    {
-      "added_at": "2026-07-09 23:00:42",
-      "album": {
-        "name": "10 MINUTOS",
-        "url": "https://open.spotify.com/album/1f7H62wBukLZ1dWc8Vfgoh"
-      },
-      "artists": [
-        {
-          "name": "ATJ",
-          "url": "https://open.spotify.com/artist/2EIF8yz9lT5vzYDriL5VAG"
-        }
-      ],
-      "duration_ms": 300333,
-      "name": "10 MINUTOS",
-      "url": "https://open.spotify.com/track/0NIlYkV3zxqZkGVbJJzpLf"
     },
     {
       "added_at": "2026-07-09 23:00:42",

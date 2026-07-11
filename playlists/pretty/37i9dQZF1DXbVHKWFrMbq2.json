@@ -1,6 +1,6 @@
 {
   "description": "canciones para chillear con Mon Laferte",
-  "num_followers": 29025,
+  "num_followers": 29023,
   "original_name": "pop tranqui",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "barquito (bonus track)",
-        "url": "https://open.spotify.com/album/6vyb0NaK9u3StlgRlYxFuZ"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 204974,
-      "name": "barquito - bonus track",
-      "url": "https://open.spotify.com/track/2W7HbOnu7ivBFXGrcdcwDB"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
         "name": "Desastres Fabulosos",
         "url": "https://open.spotify.com/album/2OGrbIbMpKM9mZiIY95F09"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 163546,
       "name": "Desastres Fabulosos",
       "url": "https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
+        "name": "barquito (bonus track)",
+        "url": "https://open.spotify.com/album/6vyb0NaK9u3StlgRlYxFuZ"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 204974,
+      "name": "barquito - bonus track",
+      "url": "https://open.spotify.com/track/2W7HbOnu7ivBFXGrcdcwDB"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -719,6 +719,26 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
+        "name": "Toda la vida",
+        "url": "https://open.spotify.com/album/7udgVaRDthuSi8JtMTz0e1"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        },
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 274908,
+      "name": "Toda la vida",
+      "url": "https://open.spotify.com/track/34M4ir211IC4o1oF4WkgzZ"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
         "name": "Todo De M\u00ed",
         "url": "https://open.spotify.com/album/6p0QVx7FDgUzSDfoQYpV5L"
       },
@@ -751,26 +771,6 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "M\u00e1quina del Tiempo",
-        "url": "https://open.spotify.com/album/2MyOEXK1SPgLVqkmrMGlnD"
-      },
-      "artists": [
-        {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
-        },
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 247412,
-      "name": "M\u00e1quina del Tiempo",
-      "url": "https://open.spotify.com/track/4j4nMKhrAES1zlBrX6CQ8Q"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -791,22 +791,22 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "Toda la vida",
-        "url": "https://open.spotify.com/album/7udgVaRDthuSi8JtMTz0e1"
+        "name": "M\u00e1quina del Tiempo",
+        "url": "https://open.spotify.com/album/2MyOEXK1SPgLVqkmrMGlnD"
       },
       "artists": [
         {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
         },
         {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 274908,
-      "name": "Toda la vida",
-      "url": "https://open.spotify.com/track/34M4ir211IC4o1oF4WkgzZ"
+      "duration_ms": 247412,
+      "name": "M\u00e1quina del Tiempo",
+      "url": "https://open.spotify.com/track/4j4nMKhrAES1zlBrX6CQ8Q"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -991,26 +991,6 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 238508,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
         "name": "SUPERSTICIONES: Remixes",
         "url": "https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf"
       },
@@ -1031,34 +1011,22 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "El Momento Perfecto",
-        "url": "https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS"
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3"
       },
       "artists": [
         {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 201661,
-      "name": "El Momento Perfecto",
-      "url": "https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
-        "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
-        "url": "https://open.spotify.com/album/0KO6SBo6WRpil0wIlW4rA1"
-      },
-      "artists": [
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
         {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 179533,
-      "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
-      "url": "https://open.spotify.com/track/73plJhWqEmSyN0CmmLy7Wb"
+      "duration_ms": 238508,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1079,6 +1047,22 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
+        "name": "El Momento Perfecto",
+        "url": "https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 201661,
+      "name": "El Momento Perfecto",
+      "url": "https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
         "name": "no llames lo m\u00edo nuestro",
         "url": "https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 219133,
       "name": "no llames lo m\u00edo nuestro",
       "url": "https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
+        "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
+        "url": "https://open.spotify.com/album/0KO6SBo6WRpil0wIlW4rA1"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
+      "url": "https://open.spotify.com/track/73plJhWqEmSyN0CmmLy7Wb"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "Es por Amor",
-        "url": "https://open.spotify.com/album/1pDRoekrP21qQbZBiADn3r"
-      },
-      "artists": [
-        {
-          "name": "Franco Rizzaro",
-          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
-        }
-      ],
-      "duration_ms": 182325,
-      "name": "Es por Amor",
-      "url": "https://open.spotify.com/track/1thMBeq1EsLSlV5QOtmbgg"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
         "name": "escapar de m\u00ed",
         "url": "https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 185138,
       "name": "No hay nadie como t\u00fa",
       "url": "https://open.spotify.com/track/2ylnGkpzyQ7NIqFA4yt0sZ"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
+        "name": "Es por Amor",
+        "url": "https://open.spotify.com/album/1pDRoekrP21qQbZBiADn3r"
+      },
+      "artists": [
+        {
+          "name": "Franco Rizzaro",
+          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
+        }
+      ],
+      "duration_ms": 182325,
+      "name": "Es por Amor",
+      "url": "https://open.spotify.com/track/1thMBeq1EsLSlV5QOtmbgg"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1231,26 +1231,6 @@
       "duration_ms": 229729,
       "name": "cuando pase la tormenta - Spotify Sessions",
       "url": "https://open.spotify.com/track/1wDzdboT18AyCJpRxXPW70"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
-        "name": "MUCHO CON DEMASIAO'",
-        "url": "https://open.spotify.com/album/4ZmmHuczCn4jkAV8zkK8zu"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Jossman",
-          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
-        }
-      ],
-      "duration_ms": 139049,
-      "name": "MUCHO CON DEMASIAO'",
-      "url": "https://open.spotify.com/track/0C4EGmFGx2AxA28Sq0wY9L"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1303,22 +1283,22 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "Vamos Viendo",
-        "url": "https://open.spotify.com/album/7pRdY4sR1NNte99L7qWp8S"
+        "name": "MUCHO CON DEMASIAO'",
+        "url": "https://open.spotify.com/album/4ZmmHuczCn4jkAV8zkK8zu"
       },
       "artists": [
         {
-          "name": "Franco Rizzaro",
-          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
         },
         {
-          "name": "Sof\u00eda Mora",
-          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
+          "name": "Jossman",
+          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
         }
       ],
-      "duration_ms": 253243,
-      "name": "Vamos Viendo",
-      "url": "https://open.spotify.com/track/65Iaqqf1cr5GlUxtUnfWAt"
+      "duration_ms": 139049,
+      "name": "MUCHO CON DEMASIAO'",
+      "url": "https://open.spotify.com/track/0C4EGmFGx2AxA28Sq0wY9L"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1339,6 +1319,26 @@
       "duration_ms": 235044,
       "name": "Mar de Coral",
       "url": "https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
+        "name": "Vamos Viendo",
+        "url": "https://open.spotify.com/album/7pRdY4sR1NNte99L7qWp8S"
+      },
+      "artists": [
+        {
+          "name": "Franco Rizzaro",
+          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
+        },
+        {
+          "name": "Sof\u00eda Mora",
+          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
+        }
+      ],
+      "duration_ms": 253243,
+      "name": "Vamos Viendo",
+      "url": "https://open.spotify.com/track/65Iaqqf1cr5GlUxtUnfWAt"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "YA TE CANSASTE DE MI???",
-        "url": "https://open.spotify.com/album/4UcD2NoR0I5CkNRDO2Q24A"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Mora",
-          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "YA TE CANSASTE DE MI???",
-      "url": "https://open.spotify.com/track/5MAMS7hSgxurBcNKBcRTmU"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
         "name": "Estrella",
         "url": "https://open.spotify.com/album/7h1JPC24EIvqeglKgKm8dP"
       },
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
+        "name": "YA TE CANSASTE DE MI???",
+        "url": "https://open.spotify.com/album/4UcD2NoR0I5CkNRDO2Q24A"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Mora",
+          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "YA TE CANSASTE DE MI???",
+      "url": "https://open.spotify.com/track/5MAMS7hSgxurBcNKBcRTmU"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
         "name": "Agradezco Haberme Equivocado",
         "url": "https://open.spotify.com/album/6qYU7btru03OP3M4eMHtJa"
       },
@@ -1475,22 +1475,6 @@
       "duration_ms": 177911,
       "name": "Agradezco Haberme Equivocado",
       "url": "https://open.spotify.com/track/0SaC0FpkUs2DDmYATSC5HW"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
-        "name": "calma",
-        "url": "https://open.spotify.com/album/0FxGdicC03LBraAb4Zcglc"
-      },
-      "artists": [
-        {
-          "name": "Lito",
-          "url": "https://open.spotify.com/artist/3y7HnEVrtqMCiz1I7gLjGW"
-        }
-      ],
-      "duration_ms": 119336,
-      "name": "calma",
-      "url": "https://open.spotify.com/track/72u9TVViPWzK3xiuhxRgf0"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "al menos esta vez",
-        "url": "https://open.spotify.com/album/04kcMaGoeUfsql1U9IHnI1"
+        "name": "calma",
+        "url": "https://open.spotify.com/album/0FxGdicC03LBraAb4Zcglc"
       },
       "artists": [
         {
-          "name": "Mica Sotera",
-          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
+          "name": "Lito",
+          "url": "https://open.spotify.com/artist/3y7HnEVrtqMCiz1I7gLjGW"
         }
       ],
-      "duration_ms": 243128,
-      "name": "al menos esta vez",
-      "url": "https://open.spotify.com/track/66gBvl6lnycugddmfIs4dL"
+      "duration_ms": 119336,
+      "name": "calma",
+      "url": "https://open.spotify.com/track/72u9TVViPWzK3xiuhxRgf0"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1555,6 +1539,22 @@
       "duration_ms": 247015,
       "name": "Las Cosas Simples",
       "url": "https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
+        "name": "al menos esta vez",
+        "url": "https://open.spotify.com/album/04kcMaGoeUfsql1U9IHnI1"
+      },
+      "artists": [
+        {
+          "name": "Mica Sotera",
+          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
+        }
+      ],
+      "duration_ms": 243128,
+      "name": "al menos esta vez",
+      "url": "https://open.spotify.com/track/66gBvl6lnycugddmfIs4dL"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "Lejos De Todo",
-        "url": "https://open.spotify.com/album/0BTlNjaXzEluXhNGGyz0lz"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 178678,
-      "name": "Lejos De Todo",
-      "url": "https://open.spotify.com/track/09STQVdUiyjoR4b90fqBhU"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
         "name": "QUIZ\u00c1S LAS HORAS SUMAN MESES",
         "url": "https://open.spotify.com/album/6RynSNM95iXqnzxU3UpeJg"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 211000,
       "name": "a todo el mundo le pasa",
       "url": "https://open.spotify.com/track/5jIZnV4PdKZzA4RoEdrje3"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
+        "name": "Lejos De Todo",
+        "url": "https://open.spotify.com/album/0BTlNjaXzEluXhNGGyz0lz"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 178678,
+      "name": "Lejos De Todo",
+      "url": "https://open.spotify.com/track/09STQVdUiyjoR4b90fqBhU"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "C\u00f3mo Viene Tu Amor",
-        "url": "https://open.spotify.com/album/3LonceOAnPu6MqEpUuvP8M"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 171712,
-      "name": "C\u00f3mo Viene Tu Amor",
-      "url": "https://open.spotify.com/track/5J2wXlzzG1CrRm8zMmwFaB"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
         "name": "En la Moto",
         "url": "https://open.spotify.com/album/2IKdzeh2FO1aelXzus5Yyj"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 173003,
       "name": "En la Moto",
       "url": "https://open.spotify.com/track/3oOnGcGqJEH17jLSxsMFFA"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
+        "name": "C\u00f3mo Viene Tu Amor",
+        "url": "https://open.spotify.com/album/3LonceOAnPu6MqEpUuvP8M"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "duration_ms": 171712,
+      "name": "C\u00f3mo Viene Tu Amor",
+      "url": "https://open.spotify.com/track/5J2wXlzzG1CrRm8zMmwFaB"
     },
     {
       "added_at": "2026-07-03 03:00:43",

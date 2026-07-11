@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Ante Todo",
+        "url": "https://open.spotify.com/album/0kLrbPrwRgbGmpbHHfYNpC"
+      },
+      "artists": [
+        {
+          "name": "Danel",
+          "url": "https://open.spotify.com/artist/1IhKepzJXk7ZsHc0tyy4Fo"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225094,
+      "name": "Bajo Llave",
+      "url": "https://open.spotify.com/track/1hA0NMXvi3EkTCJgwzWmn8"
+    },
+    {
+      "album": {
         "name": "Our Little Lives",
         "url": "https://open.spotify.com/album/7mmmpaae8BEEBYMnGXkP7a"
       },

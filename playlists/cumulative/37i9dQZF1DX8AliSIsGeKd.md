@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Pan\-Pot
 
-7,264 songs - 24 day 14 hr 50 min
+7,265 songs - 24 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3125,6 +3125,7 @@
 | [In A Blurry World](https://open.spotify.com/track/0LNRfd0PXiMunpzOl4OQhN) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [In A Blurry World](https://open.spotify.com/album/4lfQqESSeqD0m6W2VSN23g) | 5:47 | 2023-11-09 | 2023-12-01 |
 | [In A Blurry World \- Teho Remix](https://open.spotify.com/track/60rFlNI2apIPEOMTz9fRXL) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE), [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [In A Blurry World \(Teho Remix\)](https://open.spotify.com/album/55uKvWwpBFVQLY6AtljvPY) | 6:14 | 2024-05-30 | 2024-06-14 |
 | [In A Flow \- Edit](https://open.spotify.com/track/1MVUSTcBIVV7jdNEM8EYUm) | [Mellow Man](https://open.spotify.com/artist/7FZU2q9gvxYUWR2ijNG9SQ) | [In A Flow](https://open.spotify.com/album/7yNU2V78DpEhww6CHSwE6E) | 3:55 | 2024-12-05 | 2025-01-03 |
+| [In A Nutshell](https://open.spotify.com/track/31dMBOR909sWoMW3YJlZHp) | [Olsvangèr](https://open.spotify.com/artist/3xlprdQ7Cjmqn9j8WqcZED) | [In A Nutshell](https://open.spotify.com/album/79oZ6ksI5ByugbabcL0lYd) | 6:22 | 2026-07-09 |  |
 | [In And Out Of Love \- Innellea Remix](https://open.spotify.com/track/13z0WuyNhDPQlwXSr8EY4S) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Sharon Den Adel](https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi) | [In And Out Of Love \(Innellea Remix\)](https://open.spotify.com/album/0usEDxtDCBWHx3cfPceoYD) | 3:38 | 2023-08-25 | 2023-09-15 |
 | [In Berlin](https://open.spotify.com/track/6PYkcjJAUpkR3p4iM3RvaE) | [Jody 6](https://open.spotify.com/artist/0E8BC8YVaBgXflTlmNnH5Y) | [In Berlin](https://open.spotify.com/album/2xTlFb68oh7P3Uu2rD88hH) | 3:14 | 2026-03-19 | 2026-04-10 |
 | [In Between](https://open.spotify.com/track/0dbs5ekoC9Ajn4kCnj6N8p) | [Stephan Zovsky](https://open.spotify.com/artist/7311LpGBvRgQVXyxBl2PzP), [FiveP](https://open.spotify.com/artist/4coqV2wMpLpeacmVtNcn9d) | [In Between](https://open.spotify.com/album/6nXScUVx9vvWzNxwBfkiNM) | 7:22 | 2022-05-26 | 2022-06-17 |
@@ -4983,6 +4984,7 @@
 | [Proton](https://open.spotify.com/track/7qYLpCBd3QTlCJY1BXpzCQ) | [Carlo Ruetz](https://open.spotify.com/artist/5vDqopi7jF9kQoL6xg696f) | [Proton](https://open.spotify.com/album/1lgtdQcPe6E04NS1y4krXH) | 6:10 | 2022-08-25 | 2022-09-09 |
 | [Prozess Eins](https://open.spotify.com/track/0OTjvgrFo2AUu3spH6TOb1) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [Prozess Eins](https://open.spotify.com/album/0oOQO1KFK9zQ7OMuZHz0zb) | 7:20 | 2024-10-17 | 2024-11-01 |
 | [Psilocybin \- Edit](https://open.spotify.com/track/2MuKdFxf6iSWEaiXPEG6vo) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Psilocybin](https://open.spotify.com/album/0Pu8vQpdqZ8jVZDCI7NaXj) | 3:48 | 2025-05-29 | 2025-06-21 |
+| [Psychedelic Disco Freak](https://open.spotify.com/track/1SfDsTCEBUc8HcDUQUslyR) | [Jody 6](https://open.spotify.com/artist/0E8BC8YVaBgXflTlmNnH5Y) | [Psychedelic Disco Freak](https://open.spotify.com/album/3EAC99ZYhAaVFGhXEQ3Om5) | 2:56 | 2026-07-10 |  |
 | [Psychedelic Highway \- Original Mix](https://open.spotify.com/track/5Hs9f3joqVyndsgDDZItOr) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Psychedelic Highway](https://open.spotify.com/album/6685L9FV6zexZJ1ATlGnva) | 6:36 | 2022-08-12 | 2022-08-26 |
 | [Psychedelic World](https://open.spotify.com/track/4rp7FdOt0uxSQDGdE58m3c) | [Timmo](https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U) | [Psychedelic World](https://open.spotify.com/album/5U4AOXnaSY90bTGwHTxfUQ) | 3:01 | 2025-06-20 | 2025-07-11 |
 | [PSYCHODYSKO](https://open.spotify.com/track/6SUhqjKnzoD6NapngfSNEF) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [PSYCHODYSKO](https://open.spotify.com/album/2lFstCwn0jCvKn0sR2TQ2c) | 5:24 | 2022-05-05 | 2022-05-27 |
@@ -7088,7 +7090,6 @@
 | [With You](https://open.spotify.com/track/79uf4T9oqDNjPKd8eCKtha) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [With You](https://open.spotify.com/album/2eFptiwMZ9ecBP0EQ2A0xN) | 5:29 | 2023-09-28 | 2023-10-20 |
 | [With You](https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [With You](https://open.spotify.com/album/1BBT9e9UssKGz49zmGAFRH) | 2:48 | 2023-09-21 | 2023-10-13 |
 | [With Your Sleep](https://open.spotify.com/track/5q78sp1YZXPiUwE6nnw4qI) | [Aparde](https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS) | [With Your Sleep](https://open.spotify.com/album/2CYPIyk3SKwa5W4ARyeKYZ) | 4:51 | 2025-02-27 | 2025-03-21 |
-| [Within The Nut](https://open.spotify.com/track/31dMBOR909sWoMW3YJlZHp) | [Olsvangèr](https://open.spotify.com/artist/3xlprdQ7Cjmqn9j8WqcZED) | [In A Nutshell](https://open.spotify.com/album/79oZ6ksI5ByugbabcL0lYd) | 6:22 | 2026-07-09 |  |
 | [Within You \- Kölsch Mix](https://open.spotify.com/track/7KivlOvEJx1P3PpGkwxkGU) | [GusGus](https://open.spotify.com/artist/5sL9uDMwceYHPknnCLAAwJ), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Within You \(Kölsch Mix\)](https://open.spotify.com/album/0DA1F1TcRgvcisPqFF8qx4) | 10:15 | 2024-09-12 | 2024-10-04 |
 | [Without A Cause](https://open.spotify.com/track/4tnDJW9XiW9DrAXs5eWpXs) | [Marcel Dettmann](https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP), [Ogazón](https://open.spotify.com/artist/6FIr59SJB0UrQ0vzmi7PWb) | [My Own Shadow: Approaching](https://open.spotify.com/album/6U0XdemC5TfEWfyhVFddlK) | 4:55 | 2025-11-06 | 2025-11-21 |
 | [Without You](https://open.spotify.com/track/6ihfM5D7cXmzyvj22nQqwz) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo), [Shari](https://open.spotify.com/artist/2pK7JRQbphcmD1hjf521oa) | [Evergreen](https://open.spotify.com/album/4OymE7ShgSXAkwgixlbvjv) | 4:25 | 2026-04-09 | 2026-04-24 |

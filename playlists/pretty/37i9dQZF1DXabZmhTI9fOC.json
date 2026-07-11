@@ -1,13 +1,121 @@
 {
   "description": "Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on Peacock. ",
-  "num_followers": 178259,
+  "num_followers": 179177,
   "original_name": "Love Island USA Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKBaiauycDoi/Is8zPNwwR+umcjU",
+  "snapshot_id": "AAAAAPGeRgOMohUoRGApS5zPyxZpjRac",
   "tracks": [
+    {
+      "added_at": "2026-07-11 01:00:31",
+      "album": {
+        "name": "From A Bakermat Point Of View",
+        "url": "https://open.spotify.com/album/6v3GGTQUhTPz6ap8v3DOs8"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 214942,
+      "name": "Good Feeling (feat. Rhys Lewis)",
+      "url": "https://open.spotify.com/track/59lNCXBP6UXgRcrSGy2p9T"
+    },
+    {
+      "added_at": "2026-07-11 01:00:31",
+      "album": {
+        "name": "Always Remember Us This Way",
+        "url": "https://open.spotify.com/album/45QxedNdVyNdoOlI49jFjV"
+      },
+      "artists": [
+        {
+          "name": "Noelle Johnson",
+          "url": "https://open.spotify.com/artist/2V17eU6gWyvIWAMxuDMoUJ"
+        }
+      ],
+      "duration_ms": 194314,
+      "name": "Always Remember Us This Way",
+      "url": "https://open.spotify.com/track/2zxJycVPzGvmHWmcvK5PWf"
+    },
+    {
+      "added_at": "2026-07-11 01:00:31",
+      "album": {
+        "name": "Only Human (Special Edition)",
+        "url": "https://open.spotify.com/album/1RcwvxkvyE60CTFNagElek"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "You Are The Reason - Duet Version",
+      "url": "https://open.spotify.com/track/1x3W8RZxW94lrVGhP95qA6"
+    },
+    {
+      "added_at": "2026-07-11 01:00:31",
+      "album": {
+        "name": "BITCH",
+        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 198644,
+      "name": "Goodmorning!",
+      "url": "https://open.spotify.com/track/0wPrPcpFhTMcE6wYHY6aVi"
+    },
+    {
+      "added_at": "2026-07-11 01:00:31",
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ"
+      },
+      "artists": [
+        {
+          "name": "felix jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 186146,
+      "name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
+      "url": "https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x"
+    },
+    {
+      "added_at": "2026-07-11 01:00:31",
+      "album": {
+        "name": "we can't be friends (wait for your love) [Acoustic]",
+        "url": "https://open.spotify.com/album/1OPLf9VTUjY9lF8uCe7noq"
+      },
+      "artists": [
+        {
+          "name": "Jada Facer",
+          "url": "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf"
+        }
+      ],
+      "duration_ms": 162332,
+      "name": "we can't be friends (wait for your love) - Acoustic",
+      "url": "https://open.spotify.com/track/62OnBfpjSEaIPASYHBYAky"
+    },
     {
       "added_at": "2026-07-10 02:00:34",
       "album": {

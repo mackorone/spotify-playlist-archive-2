@@ -556,7 +556,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 167200,
       "name": "A song for always",
       "url": "https://open.spotify.com/track/78EvJphoG9nEY8GP5pwTEX"
@@ -722,6 +722,24 @@
       "duration_ms": 272726,
       "name": "After The Rain",
       "url": "https://open.spotify.com/track/6LQtGpIF8z1hIK4vpUsLib"
+    },
+    {
+      "album": {
+        "name": "After The Snow",
+        "url": "https://open.spotify.com/album/7xvr5Cr9dJFnI6vHXD4fz2"
+      },
+      "artists": [
+        {
+          "name": "James Auren",
+          "url": "https://open.spotify.com/artist/7Ds0cZCPbFyORBS5NSvQaQ"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172773,
+      "name": "After The Snow",
+      "url": "https://open.spotify.com/track/2ylzXt72ax5IMekxYf7Z0i"
     },
     {
       "album": {
@@ -938,6 +956,42 @@
       "duration_ms": 149762,
       "name": "Almost Like Being There",
       "url": "https://open.spotify.com/track/7kLV94VyYS7PR4ypFgGOaR"
+    },
+    {
+      "album": {
+        "name": "Almost Midnight",
+        "url": "https://open.spotify.com/album/1y2S6BNaqcxVxAViXZyumd"
+      },
+      "artists": [
+        {
+          "name": "Erland Mills",
+          "url": "https://open.spotify.com/artist/4bWGNCQ4IhlefV03agQ9pb"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183992,
+      "name": "Almost Midnight",
+      "url": "https://open.spotify.com/track/3DbLiHGuGWUM2A0QNn08UY"
+    },
+    {
+      "album": {
+        "name": "Almost Nothing Happens",
+        "url": "https://open.spotify.com/album/0yyndov4zkTVxSUPV8iW2r"
+      },
+      "artists": [
+        {
+          "name": "Myles Dale",
+          "url": "https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140269,
+      "name": "Almost Nothing Happens",
+      "url": "https://open.spotify.com/track/5wFf8MlVzX9MDllODdWHAt"
     },
     {
       "album": {
@@ -1283,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "As You Were",
+        "url": "https://open.spotify.com/album/1MXMeuZvO98WjXVNfkH01h"
+      },
+      "artists": [
+        {
+          "name": "Emile Valadon",
+          "url": "https://open.spotify.com/artist/3ZcrcpwVpdp0nHKwf2l8eS"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128405,
+      "name": "As You Were",
+      "url": "https://open.spotify.com/track/4CI6gzYlKcszqy2VkPvUwn"
+    },
+    {
+      "album": {
         "name": "Ask Me Now",
         "url": "https://open.spotify.com/album/0q9x1QQbHUsNMuSwbuvclJ"
       },
@@ -1604,6 +1676,42 @@
       "duration_ms": 124238,
       "name": "Before last month",
       "url": "https://open.spotify.com/track/6EpEjSQr7d6agKJENjeDff"
+    },
+    {
+      "album": {
+        "name": "Before the Candle Burns Out",
+        "url": "https://open.spotify.com/album/0hXgBExOgYHRyLwh6glsBr"
+      },
+      "artists": [
+        {
+          "name": "Swing City Affair",
+          "url": "https://open.spotify.com/artist/61VUtRySMVPXlpOCFILlpX"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152766,
+      "name": "Before the Candle Burns Out",
+      "url": "https://open.spotify.com/track/5QZSyoye8o5tEV29AdCj4h"
+    },
+    {
+      "album": {
+        "name": "Before the rain returns",
+        "url": "https://open.spotify.com/album/4xqIY7gV7gu9LkWBhjVBIP"
+      },
+      "artists": [
+        {
+          "name": "Camille Blanche",
+          "url": "https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142566,
+      "name": "Before the rain returns",
+      "url": "https://open.spotify.com/track/13hjlecTEmJ8EYMkHOd0ie"
     },
     {
       "album": {
@@ -2723,6 +2831,24 @@
     },
     {
       "album": {
+        "name": "Daydreams",
+        "url": "https://open.spotify.com/album/2hG3ttYHTxGEzBEoby7Kkp"
+      },
+      "artists": [
+        {
+          "name": "Pontus De Bjorn",
+          "url": "https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Daydreams",
+      "url": "https://open.spotify.com/track/3TLULjWkuA5GNpFMeI1Iz6"
+    },
+    {
+      "album": {
         "name": "Days of Wine and Roses",
         "url": "https://open.spotify.com/album/0ymqZlyx7gyoeyV0RiG2uL"
       },
@@ -3382,7 +3508,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 171350,
       "name": "Emily",
       "url": "https://open.spotify.com/track/3pKm80Q4BorCdIkUoGjn1q"
@@ -3713,6 +3839,24 @@
     },
     {
       "album": {
+        "name": "Faint Echoes",
+        "url": "https://open.spotify.com/album/4KPBnlY7e16YfaMxqM8inG"
+      },
+      "artists": [
+        {
+          "name": "Noa Emerson",
+          "url": "https://open.spotify.com/artist/6L3ru0t3JBL8fGywpt7uD6"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154333,
+      "name": "Faint Echoes",
+      "url": "https://open.spotify.com/track/3lKyERFQMQp40To5RS4FbZ"
+    },
+    {
+      "album": {
         "name": "Faithful In Paradise",
         "url": "https://open.spotify.com/album/5dAEvV7iXei0kLOO1a14UY"
       },
@@ -3944,6 +4088,24 @@
       "duration_ms": 201306,
       "name": "Flaming Katy",
       "url": "https://open.spotify.com/track/4QX3pL1js2TmgU0TmkHbV5"
+    },
+    {
+      "album": {
+        "name": "Floating between your words",
+        "url": "https://open.spotify.com/album/06HpM4qVrQZlgaRs5cFcAD"
+      },
+      "artists": [
+        {
+          "name": "Laura Romano",
+          "url": "https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146300,
+      "name": "Floating between your words",
+      "url": "https://open.spotify.com/track/2R10v5xG1S5aoCKzwT5CId"
     },
     {
       "album": {
@@ -4196,6 +4358,24 @@
       "duration_ms": 140864,
       "name": "Freetown",
       "url": "https://open.spotify.com/track/3x9NLVXW9Zjtw2t2YTI0Ug"
+    },
+    {
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/44EryELI3kZI86OtYYlVz1"
+      },
+      "artists": [
+        {
+          "name": "Serenity State of Mind",
+          "url": "https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/0VXxzMEihUlmHPlBubn5IH"
     },
     {
       "album": {
@@ -4649,6 +4829,24 @@
     },
     {
       "album": {
+        "name": "Haley's Comet",
+        "url": "https://open.spotify.com/album/6wVjnR2KDv2pzNKN3g7HTe"
+      },
+      "artists": [
+        {
+          "name": "Lukas Auer",
+          "url": "https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Haley's Comet",
+      "url": "https://open.spotify.com/track/6l5ugDTNaJpzROfC1OLEIJ"
+    },
+    {
+      "album": {
         "name": "Happy Days",
         "url": "https://open.spotify.com/album/7DIg6LQbbwVZNioht5hana"
       },
@@ -4721,6 +4919,24 @@
     },
     {
       "album": {
+        "name": "Hazy Nights",
+        "url": "https://open.spotify.com/album/7KldWzgGbrvnudgzI4DiZn"
+      },
+      "artists": [
+        {
+          "name": "Jonas Faelan",
+          "url": "https://open.spotify.com/artist/0PgdJD61tYgtpsEXBVBujk"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149744,
+      "name": "Hazy Nights",
+      "url": "https://open.spotify.com/track/18hIdWj8d2IGch7DdbP1cr"
+    },
+    {
+      "album": {
         "name": "Hear This Lullaby",
         "url": "https://open.spotify.com/album/1gPekjVyQYquvIe7uElfHp"
       },
@@ -4772,6 +4988,24 @@
       "duration_ms": 108053,
       "name": "Heartbreak Avenue",
       "url": "https://open.spotify.com/track/0ibXzDN3MG91YTyGUXJJSQ"
+    },
+    {
+      "album": {
+        "name": "Held in suspension",
+        "url": "https://open.spotify.com/album/3dx1xYJFOESuQkpalzaair"
+      },
+      "artists": [
+        {
+          "name": "Ilse Fisher",
+          "url": "https://open.spotify.com/artist/2WWIVn4Edfmjx7pD5t4kPt"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149066,
+      "name": "Held in suspension",
+      "url": "https://open.spotify.com/track/3FvvjXdwnO03VfDgJUv0HV"
     },
     {
       "album": {
@@ -5189,6 +5423,24 @@
     },
     {
       "album": {
+        "name": "I Knew You\u2019d Smile",
+        "url": "https://open.spotify.com/album/3jkt7uN6Al3Klwa1YrPjEc"
+      },
+      "artists": [
+        {
+          "name": "Lev Banks",
+          "url": "https://open.spotify.com/artist/78kWvPdx9S93qoBi9kVpOD"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176397,
+      "name": "I Knew You\u2019d Smile",
+      "url": "https://open.spotify.com/track/72RZTtAJgnyM3uciNR8Cwo"
+    },
+    {
+      "album": {
         "name": "I Left My Heart In San Francisco",
         "url": "https://open.spotify.com/album/7Cti2pokVA6FYhZmYBzBZY"
       },
@@ -5402,6 +5654,24 @@
       "duration_ms": 210000,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/1nDdCstJ1Mz8eRiyHhr5pS"
+    },
+    {
+      "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/4lHfaCRzz3MH5YbE4K78kv"
+      },
+      "artists": [
+        {
+          "name": "Simon Westman",
+          "url": "https://open.spotify.com/artist/5BfaOl251rYEVEU1RCwzSW"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190233,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/5zSWgD2lqFWPnKcAiRLp8L"
     },
     {
       "album": {
@@ -6575,6 +6845,24 @@
     },
     {
       "album": {
+        "name": "Just About",
+        "url": "https://open.spotify.com/album/1j1BDpPnRoMCijeVnEnNZB"
+      },
+      "artists": [
+        {
+          "name": "Raven St John",
+          "url": "https://open.spotify.com/artist/2UFwqcUNMHLDh1Bf0oQDqu"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135041,
+      "name": "Just About",
+      "url": "https://open.spotify.com/track/1eCML5VJZequaheztQWBjs"
+    },
+    {
+      "album": {
         "name": "Just Driving By",
         "url": "https://open.spotify.com/album/097FmuLTlTP9LnWFPaK1iL"
       },
@@ -6719,6 +7007,24 @@
     },
     {
       "album": {
+        "name": "Last light on 52nd street",
+        "url": "https://open.spotify.com/album/1ewztXs9EIdDaY5szpP2cS"
+      },
+      "artists": [
+        {
+          "name": "Art Beckett",
+          "url": "https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "Last light on 52nd street",
+      "url": "https://open.spotify.com/track/2UIMFV8wrYW4QthT9oODXX"
+    },
+    {
+      "album": {
         "name": "Last Rounds",
         "url": "https://open.spotify.com/album/390DhLEXEDzFZbo8YlBg4J"
       },
@@ -6842,6 +7148,24 @@
       "duration_ms": 153437,
       "name": "Laura",
       "url": "https://open.spotify.com/track/5GeV5VHplD4jZ45hjkVKI8"
+    },
+    {
+      "album": {
+        "name": "Lavender Medley",
+        "url": "https://open.spotify.com/album/6sVsYdpjAbVqy0RHuCvLMZ"
+      },
+      "artists": [
+        {
+          "name": "Simon Kafka",
+          "url": "https://open.spotify.com/artist/6pcG4bu4IriopD3PnKTdVO"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Lavender Medley",
+      "url": "https://open.spotify.com/track/5EJJJBFw9d4ZhO6NlzmoBy"
     },
     {
       "album": {
@@ -7166,6 +7490,24 @@
       "duration_ms": 188413,
       "name": "Little Bossy",
       "url": "https://open.spotify.com/track/0Rz7PvOkwkVnTlEFsmSt3n"
+    },
+    {
+      "album": {
+        "name": "Lonely Night",
+        "url": "https://open.spotify.com/album/1Ki27j6xLxshzKD7Pi4GkD"
+      },
+      "artists": [
+        {
+          "name": "Laszlo Teofil",
+          "url": "https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149848,
+      "name": "Lonely Night",
+      "url": "https://open.spotify.com/track/24RVhFr4owfzOlKB3Y0aZI"
     },
     {
       "album": {
@@ -7882,7 +8224,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 135166,
       "name": "Moments like these",
       "url": "https://open.spotify.com/track/2GUX2SSimlXLvvdPDzp3qK"
@@ -7922,6 +8264,24 @@
       "duration_ms": 178868,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/5opHsxh5NPey4qGcPmDTW6"
+    },
+    {
+      "album": {
+        "name": "Moonlight On My Mind",
+        "url": "https://open.spotify.com/album/25y6rKRxjxxWCY4bsfyWHS"
+      },
+      "artists": [
+        {
+          "name": "uniqlesse",
+          "url": "https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152356,
+      "name": "Moonlight On My Mind",
+      "url": "https://open.spotify.com/track/6oxBpiGgJx1IGVn3hXICM2"
     },
     {
       "album": {
@@ -7994,6 +8354,24 @@
       "duration_ms": 118236,
       "name": "Moonlit Nights",
       "url": "https://open.spotify.com/track/4wf3q64jS9wZu0pfFlNSGq"
+    },
+    {
+      "album": {
+        "name": "Moonlit Whispers",
+        "url": "https://open.spotify.com/album/2KVF4HwNUKItZm6B5oeoA3"
+      },
+      "artists": [
+        {
+          "name": "Stefan Scholz",
+          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151266,
+      "name": "Moonlit Whispers",
+      "url": "https://open.spotify.com/track/3uBWcFVdGorvEUhvjCqi72"
     },
     {
       "album": {
@@ -8357,6 +8735,24 @@
     },
     {
       "album": {
+        "name": "Nadine",
+        "url": "https://open.spotify.com/album/772JBxu58FqPTklAJIVNUO"
+      },
+      "artists": [
+        {
+          "name": "Dawn Huntley",
+          "url": "https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157933,
+      "name": "Nadine",
+      "url": "https://open.spotify.com/track/44SuXlqYJX4d2qk8ISGoHN"
+    },
+    {
+      "album": {
         "name": "Naima",
         "url": "https://open.spotify.com/album/6Zoa4RTHHwt7FY6fxHLja2"
       },
@@ -8462,6 +8858,24 @@
       "duration_ms": 152285,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/6LkO16bRoZItqrR9yIbHQZ"
+    },
+    {
+      "album": {
+        "name": "New Favorite",
+        "url": "https://open.spotify.com/album/7GV82dx7rnVpGWtzrZFJQS"
+      },
+      "artists": [
+        {
+          "name": "Talia Vernon",
+          "url": "https://open.spotify.com/artist/3W6H4hzFD0fZP4EMnTrzQ8"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133348,
+      "name": "New Favorite",
+      "url": "https://open.spotify.com/track/1hUihHUxE7X3R3kRAVFKc6"
     },
     {
       "album": {
@@ -8588,6 +9002,24 @@
       "duration_ms": 224000,
       "name": "Nightmood",
       "url": "https://open.spotify.com/track/4ditrMy34cshzgGWwTc7bH"
+    },
+    {
+      "album": {
+        "name": "No Rush",
+        "url": "https://open.spotify.com/album/1LUhmdGHtxp2IYfyDsZFPx"
+      },
+      "artists": [
+        {
+          "name": "Nola Finch",
+          "url": "https://open.spotify.com/artist/4OlAO9Q7R6qESvjaIcoZ1R"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143466,
+      "name": "No Rush",
+      "url": "https://open.spotify.com/track/5vHJmW9jEtdiSrEkPknw0n"
     },
     {
       "album": {
@@ -8843,6 +9275,24 @@
     },
     {
       "album": {
+        "name": "On My Way Home",
+        "url": "https://open.spotify.com/album/5PcjD52rF1dSSAyCdebywF"
+      },
+      "artists": [
+        {
+          "name": "Arielan Vide",
+          "url": "https://open.spotify.com/artist/2fvlcT93u5SQePtPugGGpz"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129572,
+      "name": "On My Way Home",
+      "url": "https://open.spotify.com/track/32tDQJ4itvge6f6w4zGib5"
+    },
+    {
+      "album": {
         "name": "On the Road Again",
         "url": "https://open.spotify.com/album/2nibwPlq5KEcfk1Cg291dM"
       },
@@ -8876,6 +9326,24 @@
       "duration_ms": 231750,
       "name": "On The Street Where You Live",
       "url": "https://open.spotify.com/track/1dgYQO1Hui0E6lGe3F1hDw"
+    },
+    {
+      "album": {
+        "name": "Once I Held a Dream",
+        "url": "https://open.spotify.com/album/6rJXIiXsZtoD3oIwNQveJt"
+      },
+      "artists": [
+        {
+          "name": "Paolo Biscottini",
+          "url": "https://open.spotify.com/artist/6XTAgjCPixFSoiGjxVvDhN"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137621,
+      "name": "Once I Held a Dream",
+      "url": "https://open.spotify.com/track/5ceJkIHaUukwwqyL7EnZCy"
     },
     {
       "album": {
@@ -9002,6 +9470,24 @@
       "duration_ms": 142162,
       "name": "Only Trust Your Heart",
       "url": "https://open.spotify.com/track/2hmtAFBGrjZLCYBWQd3IB8"
+    },
+    {
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/0aZdPmg3NYMj4Bfs8KXPh0"
+      },
+      "artists": [
+        {
+          "name": "Emile Valadon",
+          "url": "https://open.spotify.com/artist/3ZcrcpwVpdp0nHKwf2l8eS"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145790,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/73j1TvyRJyX7ntAixyiZCK"
     },
     {
       "album": {
@@ -9581,6 +10067,24 @@
     },
     {
       "album": {
+        "name": "Quiet Motion",
+        "url": "https://open.spotify.com/album/2x7OUdfywQf5gaaRo8nvG5"
+      },
+      "artists": [
+        {
+          "name": "Vera Nightingale",
+          "url": "https://open.spotify.com/artist/6dgvfOxu8nivAN0pQPLeEo"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151866,
+      "name": "Quiet Motion",
+      "url": "https://open.spotify.com/track/65fRG4DT8wDjZMW5SQO4QI"
+    },
+    {
+      "album": {
         "name": "Quiet Now",
         "url": "https://open.spotify.com/album/33NWbG7zQYR3Fle9hw4JO2"
       },
@@ -9690,6 +10194,24 @@
       "duration_ms": 188022,
       "name": "Relief On A Shitty Day",
       "url": "https://open.spotify.com/track/4LDZC11b3Xe5s6jgz1RQJ3"
+    },
+    {
+      "album": {
+        "name": "Remember Yesterday",
+        "url": "https://open.spotify.com/album/0sia92hSPoaTCaNJEC55ZI"
+      },
+      "artists": [
+        {
+          "name": "Elliot Keys",
+          "url": "https://open.spotify.com/artist/1dVm5TvkX4Ow94LJhr8uD3"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162697,
+      "name": "Remember Yesterday",
+      "url": "https://open.spotify.com/track/15d24D9UC7eDsKD5MeJ0U6"
     },
     {
       "album": {
@@ -10179,6 +10701,24 @@
     },
     {
       "album": {
+        "name": "She Left with the Light On",
+        "url": "https://open.spotify.com/album/0rUAk0dGDnDrLZ6tRldG0s"
+      },
+      "artists": [
+        {
+          "name": "Georg Harvester",
+          "url": "https://open.spotify.com/artist/2w9g3qs7EAeQFeRC91BaBs"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133267,
+      "name": "She Left with the Light On",
+      "url": "https://open.spotify.com/track/245F6KblIA0S7Vv27SRdYN"
+    },
+    {
+      "album": {
         "name": "She's Funny That Way",
         "url": "https://open.spotify.com/album/5yYAlWUjZX4PR2gHMaPyh6"
       },
@@ -10266,6 +10806,24 @@
       "duration_ms": 145000,
       "name": "Silent Measure",
       "url": "https://open.spotify.com/track/1BYSgoRv2JAKdsZKCQ1GOA"
+    },
+    {
+      "album": {
+        "name": "Simple Changes",
+        "url": "https://open.spotify.com/album/5LE0mGYeGfNdMWjhVtVkko"
+      },
+      "artists": [
+        {
+          "name": "Nola Finch",
+          "url": "https://open.spotify.com/artist/4OlAO9Q7R6qESvjaIcoZ1R"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143600,
+      "name": "Simple Changes",
+      "url": "https://open.spotify.com/track/0LEkKeAuqIbTiEljbuLMUL"
     },
     {
       "album": {
@@ -11007,6 +11565,24 @@
     },
     {
       "album": {
+        "name": "Starlit Serenade",
+        "url": "https://open.spotify.com/album/6oo7YzVieMvHs8O4dQUNjq"
+      },
+      "artists": [
+        {
+          "name": "Leah Lambert",
+          "url": "https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153866,
+      "name": "Starlit Serenade",
+      "url": "https://open.spotify.com/track/59p773ERg8nzaFkQz1hzFm"
+    },
+    {
+      "album": {
         "name": "Starlit Slumber",
         "url": "https://open.spotify.com/album/1yfNMhJXqUQYdb8iqRD6ag"
       },
@@ -11295,6 +11871,42 @@
     },
     {
       "album": {
+        "name": "Strollin in the Park",
+        "url": "https://open.spotify.com/album/1ZrgW0At3UG29JBvZoOnKK"
+      },
+      "artists": [
+        {
+          "name": "Noah Wenger",
+          "url": "https://open.spotify.com/artist/61K16AcuP4yczd1ZH6u0fm"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164622,
+      "name": "Strollin in the Park",
+      "url": "https://open.spotify.com/track/4Ao2tGbc6AG1b7U51EktJI"
+    },
+    {
+      "album": {
+        "name": "Strollin Moods",
+        "url": "https://open.spotify.com/album/4Og8nnBg6mQDcQCUn89PbC"
+      },
+      "artists": [
+        {
+          "name": "M. Birkeland",
+          "url": "https://open.spotify.com/artist/0JldzuwP5NF3nsxjnlLCTS"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126467,
+      "name": "Strollin Moods",
+      "url": "https://open.spotify.com/track/2cGeG4PCU7o4OvE7A5Bhh6"
+    },
+    {
+      "album": {
         "name": "Sudden Light",
         "url": "https://open.spotify.com/album/5A6oIf1TnaPU8NJL6MKLq4"
       },
@@ -11540,7 +12152,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Tender Is The Quiet",
       "url": "https://open.spotify.com/track/23h7USfFHcvcPOeFAOIeZi"
@@ -11666,7 +12278,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 140834,
       "name": "That Velvet Mood",
       "url": "https://open.spotify.com/track/6SlCfZEOc1yquwZlRxJzVT"
@@ -11727,6 +12339,24 @@
     },
     {
       "album": {
+        "name": "The door to one\u2019s heart",
+        "url": "https://open.spotify.com/album/2MAigh5Nbp7ASFbS6UOHp5"
+      },
+      "artists": [
+        {
+          "name": "Gottfried Barber",
+          "url": "https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143548,
+      "name": "The door to one\u2019s heart",
+      "url": "https://open.spotify.com/track/0sJOcSucChfY7tIAjeHGMc"
+    },
+    {
+      "album": {
         "name": "The Drive",
         "url": "https://open.spotify.com/album/0iOkAxEHl2pxlAu9edGyJu"
       },
@@ -11778,6 +12408,24 @@
       "duration_ms": 182677,
       "name": "The End Of A Love Affair",
       "url": "https://open.spotify.com/track/121BsQV03zxG11taJmpnUe"
+    },
+    {
+      "album": {
+        "name": "The gentle kind of blue",
+        "url": "https://open.spotify.com/album/0ixxw6w3mV64PUZHxDm2T7"
+      },
+      "artists": [
+        {
+          "name": "Laura Romano",
+          "url": "https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143654,
+      "name": "The gentle kind of blue",
+      "url": "https://open.spotify.com/track/5FTAiWsy7XMHOjd1jYV3Li"
     },
     {
       "album": {
@@ -11943,6 +12591,24 @@
     },
     {
       "album": {
+        "name": "The Long Way Home",
+        "url": "https://open.spotify.com/album/5pSEQWT3skSHS6JW12MMrG"
+      },
+      "artists": [
+        {
+          "name": "Wes Ivory",
+          "url": "https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135666,
+      "name": "The Long Way Home",
+      "url": "https://open.spotify.com/track/1rz29fI7F9hwCuXFGDT9hd"
+    },
+    {
+      "album": {
         "name": "The Memories We Have",
         "url": "https://open.spotify.com/album/73vXfkDbtL5ce56LjZtK4z"
       },
@@ -12066,6 +12732,42 @@
       "duration_ms": 322628,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/3xKchgf19FmMrNNxC0SpT1"
+    },
+    {
+      "album": {
+        "name": "The Next Road",
+        "url": "https://open.spotify.com/album/3klCdtU3R1wEhoG9aM3kaY"
+      },
+      "artists": [
+        {
+          "name": "Caye Skye",
+          "url": "https://open.spotify.com/artist/3ocLLPDmkfgvjHZ5Yn10oW"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152729,
+      "name": "The Next Road",
+      "url": "https://open.spotify.com/track/7bDIBgPSiTpArCqjLm3BOY"
+    },
+    {
+      "album": {
+        "name": "The Night Forgot Our Names",
+        "url": "https://open.spotify.com/album/3flAwqL9DL2A1MpWb0UQo5"
+      },
+      "artists": [
+        {
+          "name": "Georg Harvester",
+          "url": "https://open.spotify.com/artist/2w9g3qs7EAeQFeRC91BaBs"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155466,
+      "name": "The Night Forgot Our Names",
+      "url": "https://open.spotify.com/track/5AVnesv0aPqtiub0UmMjNw"
     },
     {
       "album": {
@@ -12267,6 +12969,24 @@
     },
     {
       "album": {
+        "name": "The Soft Collapse",
+        "url": "https://open.spotify.com/album/0Lhazl53i7gilbwW01Svs5"
+      },
+      "artists": [
+        {
+          "name": "Ametrine Skies",
+          "url": "https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159533,
+      "name": "The Soft Collapse",
+      "url": "https://open.spotify.com/track/63bhBWE7hN69E83iHNTdZc"
+    },
+    {
+      "album": {
         "name": "The Songbird",
         "url": "https://open.spotify.com/album/0ifVCB5Y3UiwEHjbUnM0xJ"
       },
@@ -12393,6 +13113,24 @@
     },
     {
       "album": {
+        "name": "The Way Back Home",
+        "url": "https://open.spotify.com/album/0q58NcB4kJZGzFQksnLdJI"
+      },
+      "artists": [
+        {
+          "name": "Hugo Allessi",
+          "url": "https://open.spotify.com/artist/5QKkYMW3aIKIMIionE8uOx"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252813,
+      "name": "The Way Back Home",
+      "url": "https://open.spotify.com/track/0iBWgmR6YlJXsqyDDXQ6FG"
+    },
+    {
+      "album": {
         "name": "The Way It's Supposed To Be",
         "url": "https://open.spotify.com/album/0U5RLGTDGtSgj3Pn3p5eAk"
       },
@@ -12426,6 +13164,42 @@
       "duration_ms": 226000,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/3j2pCB15qVRN5O78T2kTmV"
+    },
+    {
+      "album": {
+        "name": "The Way You Stay",
+        "url": "https://open.spotify.com/album/1SkeqV8IopjzxYQuHNOp93"
+      },
+      "artists": [
+        {
+          "name": "Aven Ash",
+          "url": "https://open.spotify.com/artist/5pNTxBbJF6IcHU8jTk1kKq"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148200,
+      "name": "The Way You Stay",
+      "url": "https://open.spotify.com/track/1jfaCzz0V1WQd1aphQJ4Gk"
+    },
+    {
+      "album": {
+        "name": "The Way You Stayed",
+        "url": "https://open.spotify.com/album/1kImI82v9CLt4HyeGxpsc1"
+      },
+      "artists": [
+        {
+          "name": "Danny Walgreen",
+          "url": "https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171468,
+      "name": "The Way You Stayed",
+      "url": "https://open.spotify.com/track/6VoeBtGuETNI90puIUtC9v"
     },
     {
       "album": {
@@ -12746,7 +13520,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 147354,
       "name": "Time for You and Me",
       "url": "https://open.spotify.com/track/6KYQho4HeJOb1Hsp4tYiey"
@@ -12969,6 +13743,24 @@
     },
     {
       "album": {
+        "name": "Two, For Once",
+        "url": "https://open.spotify.com/album/4d8Hhc5NDxiNwwhBiT8Jax"
+      },
+      "artists": [
+        {
+          "name": "Bedford and 7th",
+          "url": "https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136141,
+      "name": "Two, For Once",
+      "url": "https://open.spotify.com/track/6eFd9P43gPOPnLb7N1c79Z"
+    },
+    {
+      "album": {
         "name": "Uncovered",
         "url": "https://open.spotify.com/album/5gX3IA4EQOELEVnpOa4YYH"
       },
@@ -13002,6 +13794,42 @@
       "duration_ms": 117474,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/4CK5h3o4QliBTMJ8SjWf2E"
+    },
+    {
+      "album": {
+        "name": "Unmarked Paths",
+        "url": "https://open.spotify.com/album/0niTxPAnzBOJ0OPQqamFzm"
+      },
+      "artists": [
+        {
+          "name": "Camille Blanche",
+          "url": "https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208266,
+      "name": "Unmarked Paths",
+      "url": "https://open.spotify.com/track/4lY3iJHGwqtYDqH11uePd3"
+    },
+    {
+      "album": {
+        "name": "Until the End of Night",
+        "url": "https://open.spotify.com/album/1DIOYPyEmtndqsvjnmRnpE"
+      },
+      "artists": [
+        {
+          "name": "Wiz Senega",
+          "url": "https://open.spotify.com/artist/0Nj1FVgOM1YdKQj3xa6vWP"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153733,
+      "name": "Until the End of Night",
+      "url": "https://open.spotify.com/track/6h90hz90xCvuPonKE3hkau"
     },
     {
       "album": {
@@ -13056,6 +13884,24 @@
       "duration_ms": 163946,
       "name": "Velvet Gloves & Spit",
       "url": "https://open.spotify.com/track/5AbvIJTlfp52S6b9WipNBC"
+    },
+    {
+      "album": {
+        "name": "Velvet Regret",
+        "url": "https://open.spotify.com/album/1PH4bEuY5zASK9WxRKtwNk"
+      },
+      "artists": [
+        {
+          "name": "Wiz Senega",
+          "url": "https://open.spotify.com/artist/0Nj1FVgOM1YdKQj3xa6vWP"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141079,
+      "name": "Velvet Regret",
+      "url": "https://open.spotify.com/track/52kzFhVHV9JyjTgkeDbyNk"
     },
     {
       "album": {
@@ -13164,6 +14010,42 @@
       "duration_ms": 140361,
       "name": "Waltz for Old Times",
       "url": "https://open.spotify.com/track/0Cs57044KOyPglhJ1Ts8sL"
+    },
+    {
+      "album": {
+        "name": "Waltzing Away with You",
+        "url": "https://open.spotify.com/album/3tB9qlOJgnunLENnxhBawi"
+      },
+      "artists": [
+        {
+          "name": "Harper Avery",
+          "url": "https://open.spotify.com/artist/6wkcjnTRQKVK4YoRcWgy8L"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120778,
+      "name": "Waltzing Away with You",
+      "url": "https://open.spotify.com/track/1rBGjTx1BBBZcCcmvqsIPj"
+    },
+    {
+      "album": {
+        "name": "We Didn\u2019t Ask for More",
+        "url": "https://open.spotify.com/album/4XdBCEzRM2kHjoolUOZaB4"
+      },
+      "artists": [
+        {
+          "name": "Maurillo",
+          "url": "https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176196,
+      "name": "We Didn\u2019t Ask For More",
+      "url": "https://open.spotify.com/track/5yFbUIOsimH15bhqwA0kKq"
     },
     {
       "album": {
@@ -13383,6 +14265,24 @@
     },
     {
       "album": {
+        "name": "When shadows fall",
+        "url": "https://open.spotify.com/album/314JkcRJ3k6bAZkSu5Nf0m"
+      },
+      "artists": [
+        {
+          "name": "Henriette Martin",
+          "url": "https://open.spotify.com/artist/2BFYg3poUj1QT1EE8Z8NVS"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161950,
+      "name": "When shadows fall",
+      "url": "https://open.spotify.com/track/3fZhmPTU8TFCNqp2FQkQG9"
+    },
+    {
+      "album": {
         "name": "When Sunny Gets Blue",
         "url": "https://open.spotify.com/album/52eXoXB6bX5hvKocauqYKC"
       },
@@ -13473,6 +14373,24 @@
     },
     {
       "album": {
+        "name": "When You Smile",
+        "url": "https://open.spotify.com/album/0uAZQ8MSq76Xykb4I3eJEh"
+      },
+      "artists": [
+        {
+          "name": "Ward Stetson",
+          "url": "https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180700,
+      "name": "When You Smile",
+      "url": "https://open.spotify.com/track/21yZ7CgXJm3aWWa601GJ2p"
+    },
+    {
+      "album": {
         "name": "Where Dreams Go to Sleep",
         "url": "https://open.spotify.com/album/2joqhs2irtfZ2kDRCCj9Ia"
       },
@@ -13527,6 +14445,24 @@
     },
     {
       "album": {
+        "name": "Where Sound Becomes Distance",
+        "url": "https://open.spotify.com/album/1OJrNDYQKOpiZYnryNhVMd"
+      },
+      "artists": [
+        {
+          "name": "Myles Dale",
+          "url": "https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159066,
+      "name": "Where Sound Becomes Distance",
+      "url": "https://open.spotify.com/track/1wS52FxTn8QVnslYWxorAH"
+    },
+    {
+      "album": {
         "name": "Where the Streetlights Blur",
         "url": "https://open.spotify.com/album/3MV1uqxpaW9wBFPm7JYq4D"
       },
@@ -13578,6 +14514,24 @@
       "duration_ms": 319066,
       "name": "Why try to change me now",
       "url": "https://open.spotify.com/track/6eGpLVtbSxsiOLXT47AcIe"
+    },
+    {
+      "album": {
+        "name": "Windows Still Awake",
+        "url": "https://open.spotify.com/album/3xGyNqhZRvqynFDmV1b8lt"
+      },
+      "artists": [
+        {
+          "name": "Rhys Wells",
+          "url": "https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154533,
+      "name": "Windows Still Awake",
+      "url": "https://open.spotify.com/track/6sgoGEIx5nSnpdsoeqdbWg"
     },
     {
       "album": {

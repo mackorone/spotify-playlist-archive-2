@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Genesis Owusu
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,922 likes - 90 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,945 likes - 90 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 79 | [Winona Forever](https://open.spotify.com/track/4ZZUyU3Ykb53WGTzQdOj6M) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Winona Forever](https://open.spotify.com/album/5JcbIXmE9wMHsBDr7DF6el) | 2:49 |
 | 80 | [Meet Me In Love](https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Meet Me In Love](https://open.spotify.com/album/1dG3C2nPstMJcrrtvZGJyM) | 4:02 |
 | 81 | [Magic River](https://open.spotify.com/track/3DaNsIHhc6UHMyrQXN31O3) | [JW Francis](https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6) | [Magic River](https://open.spotify.com/album/6LBgt0ibhXp7b59OuUIMyV) | 4:35 |
-| 82 | [It's All In My Head](https://open.spotify.com/track/1nDOj9RshykaZHUJT79QTU) | [Noah Hill](https://open.spotify.com/artist/5InLQMvQHRNks5rVkl56M8), [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [It's All In My Head](https://open.spotify.com/album/5YxfEVBhAcrNVkPdpxrASb) | 3:39 |
+| 82 | [It's All In My Head](https://open.spotify.com/track/1nDOj9RshykaZHUJT79QTU) | [Noah Hill](https://open.spotify.com/artist/5InLQMvQHRNks5rVkl56M8) | [It's All In My Head](https://open.spotify.com/album/5YxfEVBhAcrNVkPdpxrASb) | 3:39 |
 | 83 | [Saying](https://open.spotify.com/track/2NAPapAWtRwJMPqp5Q7IRS) | [WERANI](https://open.spotify.com/artist/4jD0XltNt9Dd9RpPdLt5J7) | [Saying](https://open.spotify.com/album/0knLaJu0OQaOPu5r0ifDaL) | 3:21 |
 | 84 | [Kuru](https://open.spotify.com/track/2nMv52nAojJCVzFDuqmt49) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Kuru](https://open.spotify.com/album/1ZfIIMH8csJLoREj0MX7fF) | 5:25 |
 | 85 | [Violins](https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Violins](https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy) | 4:10 |

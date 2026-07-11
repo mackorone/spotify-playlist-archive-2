@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap nacional. Foto: Muzzike",
+  "description": "Os lan\u00e7amentos e melhores sons do rap nacional. Foto: Rashid",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 137072,
       "name": "a vis\u00e3o de Patrice Lumumba",
       "url": "https://open.spotify.com/track/1CYgml2th69GhDwkkXfl9Q"
@@ -2674,7 +2674,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 191180,
       "name": "Ano da Colheita",
       "url": "https://open.spotify.com/track/2h0tWXR6Y9mtAGiaycCiVD"
@@ -5449,6 +5449,28 @@
     },
     {
       "album": {
+        "name": "Buarque Livre",
+        "url": "https://open.spotify.com/album/39AD5FD56hnHWi9FJzGoFf"
+      },
+      "artists": [
+        {
+          "name": "Ak\u00e1",
+          "url": "https://open.spotify.com/artist/3r6InLzbGmdEZmD4PLyQvE"
+        },
+        {
+          "name": "Xavier2bit",
+          "url": "https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Buarque Livre",
+      "url": "https://open.spotify.com/track/0skiQLhYzTUIpvJdJzJT72"
+    },
+    {
+      "album": {
         "name": "Bug do Mil\u00eanio (A Cone Voltou)",
         "url": "https://open.spotify.com/album/4izW6bYoT5TLnGF64JBkMi"
       },
@@ -7293,6 +7315,32 @@
     },
     {
       "album": {
+        "name": "COMO Q OFUSCA O BRILHO? (STUDIO#9)",
+        "url": "https://open.spotify.com/album/4TVYzJGGuEIEGFfN9sfoA6"
+      },
+      "artists": [
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        },
+        {
+          "name": "Paulo DK",
+          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136170,
+      "name": "COMO Q OFUSCA O BRILHO?",
+      "url": "https://open.spotify.com/track/3rjEHukg1FWFoTVj9PT5pf"
+    },
+    {
+      "album": {
         "name": "Como Que Eu Tiro F\u00e9rias (Remix)",
         "url": "https://open.spotify.com/album/2TaKWT7MqZZjhCBodnmogb"
       },
@@ -7936,6 +7984,28 @@
       "duration_ms": 166551,
       "name": "CORRE",
       "url": "https://open.spotify.com/track/5giQdUTYdQwIWto1UyCS9g"
+    },
+    {
+      "album": {
+        "name": "Corredor da Morte",
+        "url": "https://open.spotify.com/album/2NsekLDIwW9ZnyrDYYcCDa"
+      },
+      "artists": [
+        {
+          "name": "iann guxtavo",
+          "url": "https://open.spotify.com/artist/1rCwo9ZX017N1ZxfmeBiZ3"
+        },
+        {
+          "name": "bigel",
+          "url": "https://open.spotify.com/artist/6oSW1AGGUjhNryNvdmYZWx"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110874,
+      "name": "Corredor da Morte",
+      "url": "https://open.spotify.com/track/4rQXcrYQn7nz9dLYoKJxW2"
     },
     {
       "album": {
@@ -19643,6 +19713,28 @@
     },
     {
       "album": {
+        "name": "COMPLEXO DE VIRA LATA",
+        "url": "https://open.spotify.com/album/4k8AznnZ3bFyy4jAu5o43f"
+      },
+      "artists": [
+        {
+          "name": "Magr\u00e3o AllFavela",
+          "url": "https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1"
+        },
+        {
+          "name": "VIETN\u00c3",
+          "url": "https://open.spotify.com/artist/10KPCPEMWg7CyzMScMPXHo"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153116,
+      "name": "mem\u00f3rias de um sonho louco",
+      "url": "https://open.spotify.com/track/1kHgroLmQl7CQ3oAGtPE0j"
+    },
+    {
+      "album": {
         "name": "Menina",
         "url": "https://open.spotify.com/album/1LwvM5sLMX3w50dKitRzg1"
       },
@@ -21718,7 +21810,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 175402,
       "name": "Nasci pra ser - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2TVPbqCPJezGriT4wjCtyD"
@@ -24150,6 +24242,28 @@
       "duration_ms": 313043,
       "name": "O Mundo Contra N\u00f3s",
       "url": "https://open.spotify.com/track/3OmaetxzaJ5MlfiVqP7vpm"
+    },
+    {
+      "album": {
+        "name": "O Mundo Se Acabando",
+        "url": "https://open.spotify.com/album/4sOOZPrJyLe5ONSdwXb11i"
+      },
+      "artists": [
+        {
+          "name": "Rico Neurotico",
+          "url": "https://open.spotify.com/artist/0CnbFTpnkVna6F8VfO1Yhi"
+        },
+        {
+          "name": "TerrorDosBeats",
+          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196853,
+      "name": "O Mundo Se Acabando",
+      "url": "https://open.spotify.com/track/5XR3slx9bwjUY3MQX9CKYh"
     },
     {
       "album": {
@@ -28282,7 +28396,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 109333,
       "name": "PRECIP\u00cdCIO FREESTYLE",
       "url": "https://open.spotify.com/track/0asViOPGxV94M4Lj99rV6I"
@@ -29714,7 +29828,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 261817,
       "name": "Rap Sujo",
       "url": "https://open.spotify.com/track/1MyA9Xq5ZbDDeEf99lXTQH"
@@ -30726,7 +30840,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 218709,
       "name": "Rua da Alegria",
       "url": "https://open.spotify.com/track/4Sf15AdO36cTjbjnaVtyS2"
@@ -34099,6 +34213,36 @@
     },
     {
       "album": {
+        "name": "S\u00cdNDROME DE REF",
+        "url": "https://open.spotify.com/album/0jpSx2igDLja6sFsIEmBJ0"
+      },
+      "artists": [
+        {
+          "name": "GEXIS",
+          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
+        },
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "Agostinhx",
+          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
+        },
+        {
+          "name": "Vitonez",
+          "url": "https://open.spotify.com/artist/3NAgETVTsxnmj2KDoRWiiL"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176106,
+      "name": "S\u00cdNDROME DE REF",
+      "url": "https://open.spotify.com/track/4UzNmje7TGyeU5Mv1QzzVd"
+    },
+    {
+      "album": {
         "name": "S\u00cfNNAL",
         "url": "https://open.spotify.com/album/1QLwI8gx9F3TsEmBRYTD8t"
       },
@@ -35936,7 +36080,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 165600,
       "name": "Tudo Vai",
       "url": "https://open.spotify.com/track/1V7qSWWYLyz5VtwQcEU18j"
@@ -38010,6 +38154,32 @@
       "duration_ms": 188424,
       "name": "YOPO",
       "url": "https://open.spotify.com/track/3BkovTn63HdqznWVrF3HIN"
+    },
+    {
+      "album": {
+        "name": "YOWA",
+        "url": "https://open.spotify.com/album/4o7X9zjerNUyY0MXKHSLQd"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Pai David Dias",
+          "url": "https://open.spotify.com/artist/7oGqRZT9SalCTee9GqD3KG"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259853,
+      "name": "YOWA",
+      "url": "https://open.spotify.com/track/6Gug8fojZkrU0IkeMBaPwS"
     },
     {
       "album": {

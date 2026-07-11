@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Ray. The essential tracks, all in one playlist.",
-  "num_followers": 5982,
+  "num_followers": 5981,
   "original_name": "This Is Victor Ray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak2TAAAAAABzIns0yj+bHCbOk8xycJMV",
+  "snapshot_id": "ak7kgAAAAAC6IQC9thxDfM11beUq05MK",
   "tracks": [
     {
       "added_at": null,
@@ -167,22 +167,6 @@
       "duration_ms": 200946,
       "name": "Falling Into Place",
       "url": "https://open.spotify.com/track/0XPMEaoR4neOwCvmGx54At"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still The Same",
-        "url": "https://open.spotify.com/album/3bGZJDlp1lBNJYrcdGR1F4"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 194928,
-      "name": "Still The Same",
-      "url": "https://open.spotify.com/track/1ALggh912tizrjndhRLY63"
     },
     {
       "added_at": null,

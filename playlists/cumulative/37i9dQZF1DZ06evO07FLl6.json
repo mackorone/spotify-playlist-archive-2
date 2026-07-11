@@ -1513,6 +1513,24 @@
     },
     {
       "album": {
+        "name": "A Night of Miles Davis",
+        "url": "https://open.spotify.com/album/16cOIJcGCSl6UAqh0K8Ygi"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225146,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/1NPbR9xEe9mtaW4wRkryPQ"
+    },
+    {
+      "album": {
         "name": "The Blue Note And Capitol Recordings",
         "url": "https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz"
       },
@@ -1524,7 +1542,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 226160,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/5OQzdZpyPlkADNSDMUEr2U"

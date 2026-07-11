@@ -513,6 +513,24 @@
     },
     {
       "album": {
+        "name": "About a Girl",
+        "url": "https://open.spotify.com/album/3C6PoM9SZ4OwNjpZReQxNB"
+      },
+      "artists": [
+        {
+          "name": "Kutas",
+          "url": "https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165067,
+      "name": "About a Girl",
+      "url": "https://open.spotify.com/track/6osg5L0yTjCa4ExGLYa9Tm"
+    },
+    {
+      "album": {
         "name": "Abyss & Oblivion",
         "url": "https://open.spotify.com/album/3J1HO6lC1DA2eX2Dp6fcqN"
       },
@@ -1360,6 +1378,24 @@
       "duration_ms": 208733,
       "name": "Angerman River",
       "url": "https://open.spotify.com/track/7ceDhV9bN8szerp64nZw0D"
+    },
+    {
+      "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/4WumWxIaJFjux1pDq0LhbB"
+      },
+      "artists": [
+        {
+          "name": "Melexo",
+          "url": "https://open.spotify.com/artist/5rOtSodS6Uf2sAWsjhjHXM"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189955,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/7BreCBggU853Vk2f8H6V3i"
     },
     {
       "album": {
@@ -2724,7 +2760,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 173683,
       "name": "Bild aus Asche",
       "url": "https://open.spotify.com/track/1pIJoMHfnL9z9vdHZ8SDtS"
@@ -4653,6 +4689,24 @@
     },
     {
       "album": {
+        "name": "Carefree Wonderland",
+        "url": "https://open.spotify.com/album/2eZ4lyjre4c5vn65CBV4lJ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Debiase",
+          "url": "https://open.spotify.com/artist/31BVM6BLaoSP8ad00i8m25"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208993,
+      "name": "Carefree Wonderland",
+      "url": "https://open.spotify.com/track/69i0AN8izwkY7lsnFFrQk4"
+    },
+    {
+      "album": {
         "name": "Castaway",
         "url": "https://open.spotify.com/album/5omwhRrrco9U57TmhEu1D9"
       },
@@ -6060,6 +6114,28 @@
       "duration_ms": 216380,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3btAgesKJyF1LCHuNDp9sd"
+    },
+    {
+      "album": {
+        "name": "The Orange Castle",
+        "url": "https://open.spotify.com/album/0t4swqKgO8kmvArQ4m6xhb"
+      },
+      "artists": [
+        {
+          "name": "The Grunges",
+          "url": "https://open.spotify.com/artist/2NM1MCdBmXIbziFHGLBWjN"
+        },
+        {
+          "name": "Semantik",
+          "url": "https://open.spotify.com/artist/5KDq9vPopEITAxvHLIAtdX"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182760,
+      "name": "Cumberland Gap",
+      "url": "https://open.spotify.com/track/6Gxu4KymW16NH2EeA9AJCr"
     },
     {
       "album": {
@@ -10441,6 +10517,24 @@
     },
     {
       "album": {
+        "name": "Too Broke For Money",
+        "url": "https://open.spotify.com/album/7MX4Q2DfTrscHAIl5SoUtZ"
+      },
+      "artists": [
+        {
+          "name": "S/ash66",
+          "url": "https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95400,
+      "name": "Fuck It, Let\u2019s Go Bowling",
+      "url": "https://open.spotify.com/track/1nVy9utuNfq77uaQTm4v5t"
+    },
+    {
+      "album": {
         "name": "Fuck You Too",
         "url": "https://open.spotify.com/album/588r8ExigerT2hB6O7kHXg"
       },
@@ -10672,6 +10766,24 @@
       "duration_ms": 168320,
       "name": "Future Isn't Sealed",
       "url": "https://open.spotify.com/track/6R98wJtYfS1KaEfxpKo8lR"
+    },
+    {
+      "album": {
+        "name": "Echoes from the Basement",
+        "url": "https://open.spotify.com/album/3sVdFA8jAp2qQM9an4UlFt"
+      },
+      "artists": [
+        {
+          "name": "The Shivvis",
+          "url": "https://open.spotify.com/artist/1GdgXoyO1uCWM5qtH9nwuF"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186319,
+      "name": "Fuzz Queen",
+      "url": "https://open.spotify.com/track/74YY8wgwfoU4JC2Z0PaF7Y"
     },
     {
       "album": {
@@ -16486,6 +16598,24 @@
       "duration_ms": 208799,
       "name": "Live This Thing Deep",
       "url": "https://open.spotify.com/track/0YaZI1IFBhlvky9nXfnanb"
+    },
+    {
+      "album": {
+        "name": "The Conviction",
+        "url": "https://open.spotify.com/album/1RBux3y7PJPHLxdpvDdEFf"
+      },
+      "artists": [
+        {
+          "name": "The Buddyrevelles",
+          "url": "https://open.spotify.com/artist/4NlRR8Pym2Rj3rSaBKjb2e"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250872,
+      "name": "Living Human Lives",
+      "url": "https://open.spotify.com/track/1wUZCRG9rKE0Q77P5OrB6r"
     },
     {
       "album": {

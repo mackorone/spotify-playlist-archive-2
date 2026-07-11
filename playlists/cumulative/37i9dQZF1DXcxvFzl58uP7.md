@@ -2,9 +2,9 @@
 
 ### [Bedroom Pop](https://open.spotify.com/playlist/37i9dQZF1DXcxvFzl58uP7)
 
-> Dreamy melodies and hushed vocals\. Cover: Asal
+> Dreamy melodies and hushed vocals\. Cover: Ghostly Kisses
 
-1,039 songs - 2 day 5 hr 51 min
+1,041 songs - 2 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Drowsy](https://open.spotify.com/track/4yp90BbE4dxPXfGGSpbFwT) | [Banes World](https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG) | [Drowsy](https://open.spotify.com/album/5bo68qHIH6DqSGqmJs6Yky) | 2:44 | 2019-07-30\* | 2020-07-02 |
 | [drunk at dinner](https://open.spotify.com/track/2lu8G4Qzunrn85yyDZkA24) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [drunk at dinner](https://open.spotify.com/album/6LugUwZTStmVJfJNJYVHjh) | 2:46 | 2022-03-04 | 2022-04-18 |
 | [DUBBLE BUBBLE](https://open.spotify.com/track/3QVYo25Sctw3gCNQTQ1iu5) | [Zack Villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh), [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [DUBBLE BUBBLE](https://open.spotify.com/album/3QJD2R7ZulglwWFICcVTgi) | 3:46 | 2023-07-07 | 2023-09-10 |
+| [Ease Your Mind](https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Ease Your Mind](https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA) | 3:02 | 2026-07-10 |  |
 | [East Coast](https://open.spotify.com/track/00GXITN3KudnqcJgkwXRrh) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 4:37 | 2023-04-17 | 2024-04-19 |
 | [East Coast](https://open.spotify.com/track/3lhsUIhg27AZDKcLqujAjN) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [East Coast](https://open.spotify.com/album/3BkjqERhr7hFzpZdkKU1Me) | 4:37 | 2019-10-13 | 2022-07-26 |
 | [Easy On Them Turns](https://open.spotify.com/track/5IvLhgNPWzi9fu9cINVsf9) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Easy On Them Turns](https://open.spotify.com/album/6ljNbyPlF5xjrzIopEAqey) | 2:15 | 2021-10-25 | 2022-07-29 |
@@ -380,7 +381,7 @@
 | [golden feeling since june](https://open.spotify.com/track/4ALuKkHjcduEJq9wll2uEJ) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Over Grey Skies](https://open.spotify.com/album/0lR03Yi5SSu0IeFMkE7jG1) | 2:27 | 2019-07-30\* | 2021-05-03 |
 | [Golden Light](https://open.spotify.com/track/1rPYEWQfIRo5A4fvLgFbBe) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Miracle Mile](https://open.spotify.com/album/1bvGSdxElbk5CTTPIrWO2L) | 4:43 | 2024-04-23 |  |
 | [Good Dog](https://open.spotify.com/track/5T0Y9lMJNNA50FswxRPkmX) | [Earth Dad](https://open.spotify.com/artist/4chHQ1XcMUGTnvb0Q5mgIG) | [Good Dog](https://open.spotify.com/album/3OFQDp9qEGZvI9QeAZqCYK) | 2:58 | 2021-04-30 | 2021-08-25 |
-| [Goodbye](https://open.spotify.com/track/0p1KjT88fOshVrM0sFVDhA) | [Sonia Gadhia](https://open.spotify.com/artist/3bjxtDdZiByIKfHFEK96zB), [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Goodbye](https://open.spotify.com/album/0T0wt8HN43bWa4fkBcoLHD) | 2:54 | 2024-07-05 |  |
+| [Goodbye](https://open.spotify.com/track/0p1KjT88fOshVrM0sFVDhA) | [Sonia Gadhia](https://open.spotify.com/artist/3bjxtDdZiByIKfHFEK96zB), [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Goodbye](https://open.spotify.com/album/0T0wt8HN43bWa4fkBcoLHD) | 2:54 | 2024-07-05 | 2026-07-11 |
 | [Goodbye Texas](https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Goodbye Texas](https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3) | 3:34 | 2023-02-10 | 2026-02-24 |
 | [Goodie Bag](https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl) | 2:26 | 2019-07-30\* | 2022-07-29 |
 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 | 2021-02-27 | 2024-04-19 |
@@ -615,7 +616,7 @@
 | [Moving Unison](https://open.spotify.com/track/5vvJ16FQDLDbdR6OkLGnE0) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Moving Unison](https://open.spotify.com/album/3DXmQLHYEbjO047QFb6DTN) | 3:05 | 2026-02-27 | 2026-04-18 |
 | [Multiplied](https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Multiplied](https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R) | 3:02 | 2026-05-08 |  |
 | [Mushroom](https://open.spotify.com/track/6bF20uauKV4HUXp5mKdx82) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Mushroom](https://open.spotify.com/album/2VVDnRJ9hsMcH8qLfPL4rf) | 2:46 | 2019-07-30\* | 2021-05-27 |
-| [my forever](https://open.spotify.com/track/15clT8j9S3OjjhjGqsoVZv) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [my forever](https://open.spotify.com/album/2JoAyLaBfgrpMtGY7Sbg6U) | 3:22 | 2024-05-10 |  |
+| [my forever](https://open.spotify.com/track/15clT8j9S3OjjhjGqsoVZv) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [my forever](https://open.spotify.com/album/2JoAyLaBfgrpMtGY7Sbg6U) | 3:22 | 2024-05-10 | 2026-07-11 |
 | [My Jinji](https://open.spotify.com/track/7wmFsS43fO8vAg0vcr776N) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Jinji Kikko](https://open.spotify.com/album/23fJtVCer8xdqYluyK8Rh9) | 6:40 | 2020-10-08 | 2022-12-15 |
 | [My Own Person](https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373) | 4:24 | 2021-02-27 | 2022-10-13 |
 | [My Own Person](https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA) | 4:24 | 2022-09-14 | 2022-12-15 |
@@ -729,6 +730,7 @@
 | [Rapaz](https://open.spotify.com/track/14ATHYF1QK0nW6v1NxE9ux) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Rapaz](https://open.spotify.com/album/6k5Z3sIOEvRTzmwSOBhm2W) | 3:47 | 2021-03-10 | 2021-05-27 |
 | [Rare](https://open.spotify.com/track/3FwSGFXzoODJ3igRA06DhV) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Moonlight/Rare](https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv) | 3:04 | 2022-03-04 | 2025-01-13 |
 | [Raspberry Tongue](https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Raspberry Tongue](https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG) | 2:58 | 2021-04-12 | 2022-04-21 |
+| [Rat Race](https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Rat Race](https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA) | 3:10 | 2026-07-10 |  |
 | [Real Life](https://open.spotify.com/track/5aqslHfDoGviK5vRwyQQgd) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7) | [Real Life](https://open.spotify.com/album/4QEaQ0w17wI48QSvnrR2Fq) | 3:11 | 2019-08-11 | 2022-07-16 |
 | [Really good cry](https://open.spotify.com/track/4ezZ31HcRsE7zMNy73z9js) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [garage sale](https://open.spotify.com/album/083gC3RjOGmxjHN3OX4UmP) | 1:54 | 2024-04-23 | 2026-05-30 |
 | [Red Light](https://open.spotify.com/track/4MrYs5bPQYkLjx0TZxzvSR) | [Personal Trainer](https://open.spotify.com/artist/7hA3k0nbR7qQhE6LrbdQrI) | [Red Light](https://open.spotify.com/album/6Whcc2P1zUjqH3xos7Aeam) | 4:07 | 2020-04-21 | 2021-07-07 |

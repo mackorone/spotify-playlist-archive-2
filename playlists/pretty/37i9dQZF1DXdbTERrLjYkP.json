@@ -1,13 +1,29 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Cassandra Coleman",
-  "num_followers": 219533,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Macy Todd",
+  "num_followers": 219528,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP9RDvpDx2OtWZQkNWPoDrSAW3cu",
+  "snapshot_id": "AAAAAPH/EIo3Pm9viFzINu3djrigTn+P",
   "tracks": [
+    {
+      "added_at": "2026-07-10 15:28:37",
+      "album": {
+        "name": "pretty ruthless",
+        "url": "https://open.spotify.com/album/6qijNpc6Vt4lxkrRHoPL26"
+      },
+      "artists": [
+        {
+          "name": "Macy Todd",
+          "url": "https://open.spotify.com/artist/36LLquZpLrRaGaMRivV2CD"
+        }
+      ],
+      "duration_ms": 200029,
+      "name": "mean!",
+      "url": "https://open.spotify.com/track/3Wbq0xfJFzYE74WBMiqJOH"
+    },
     {
       "added_at": "2026-06-26 04:00:35",
       "album": {
@@ -23,6 +39,70 @@
       "duration_ms": 212861,
       "name": "Maggie",
       "url": "https://open.spotify.com/track/4a2r6VPZAbFcSX1qf0Aw74"
+    },
+    {
+      "added_at": "2026-07-10 15:28:37",
+      "album": {
+        "name": "All That It Is",
+        "url": "https://open.spotify.com/album/5XaCaoQjxJPz5a3NhZxjNZ"
+      },
+      "artists": [
+        {
+          "name": "Whitney Whitney",
+          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
+        }
+      ],
+      "duration_ms": 230960,
+      "name": "All That It Is",
+      "url": "https://open.spotify.com/track/7aEfNs8cRi0YRbiIwwrmP9"
+    },
+    {
+      "added_at": "2026-07-10 15:28:37",
+      "album": {
+        "name": "Just My Luck",
+        "url": "https://open.spotify.com/album/7BJsNyKpMF59uelRRp9p4K"
+      },
+      "artists": [
+        {
+          "name": "Maya Engen",
+          "url": "https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm"
+        }
+      ],
+      "duration_ms": 215488,
+      "name": "Vinyl",
+      "url": "https://open.spotify.com/track/3I6n7OQMpaaBfRFKpxl5U0"
+    },
+    {
+      "added_at": "2026-07-10 15:28:37",
+      "album": {
+        "name": "Hurts",
+        "url": "https://open.spotify.com/album/5kRVr5kcCtBZuIL6C5aycN"
+      },
+      "artists": [
+        {
+          "name": "Kerr Mercer",
+          "url": "https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x"
+        }
+      ],
+      "duration_ms": 180453,
+      "name": "Hurts",
+      "url": "https://open.spotify.com/track/6GGyMAS1ne4pnih5ukFFaL"
+    },
+    {
+      "added_at": "2026-07-10 15:28:37",
+      "album": {
+        "name": "SIDES OF MY PEN",
+        "url": "https://open.spotify.com/album/12IL9L3DtwEbkJ7q3JYts0"
+      },
+      "artists": [
+        {
+          "name": "Tabi",
+          "url": "https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn"
+        }
+      ],
+      "duration_ms": 165221,
+      "name": "SIDES OF MY PEN",
+      "url": "https://open.spotify.com/track/3MKfTmgTZbA9i2hL57mzTU"
     },
     {
       "added_at": "2026-07-06 20:49:16",

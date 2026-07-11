@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best tracks from the world of music. Cover: Olivia Rodrigo",
+  "description": "The best tracks from the world of music. Cover: no na",
   "name": "Hot Hits Malaysia",
   "tracks": [
     {
@@ -876,6 +876,24 @@
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "album": {
+        "name": "GOLDEN HOUR : Part.5",
+        "url": "https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156034,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3"
     },
     {
       "album": {
@@ -2060,7 +2078,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 195935,
       "name": "DDI RO RI",
       "url": "https://open.spotify.com/track/6Ja4MH8qIfhVABsb9Kxjjr"
@@ -8873,6 +8891,24 @@
     },
     {
       "album": {
+        "name": "Teh Hijau",
+        "url": "https://open.spotify.com/album/7A38wbAswxuZGB5aFvK9Qn"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212879,
+      "name": "Teh Hijau",
+      "url": "https://open.spotify.com/track/4R9G7azXaZe93KTX65P9fU"
+    },
+    {
+      "album": {
         "name": "Telepathy",
         "url": "https://open.spotify.com/album/3iN6gt0GlkJPdVymrbCD3Q"
       },
@@ -8960,7 +8996,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 175764,
       "name": "Terbang - Original Soundtrack From Tarung: Unforgiven",
       "url": "https://open.spotify.com/track/0Ng7ays249fbahyqJQGTi0"
@@ -10268,7 +10304,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 322237,
       "name": "\u4f60\u597d\uff0c\u5c31\u8db3\u77e3",
       "url": "https://open.spotify.com/track/58st6yu5NAp2kTrMfOI0xI"
@@ -10326,6 +10362,28 @@
       "duration_ms": 236616,
       "name": "\u50cf\u6674\u5929\u50cf\u96e8\u5929\uff08\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u5fc3\u52a8\u66f2\uff09",
       "url": "https://open.spotify.com/track/298LjjcBvuQCAlwUWb9dKb"
+    },
+    {
+      "album": {
+        "name": "\u50cf\u6c34\u4e00\u6837",
+        "url": "https://open.spotify.com/album/1EPbDAs94C0h5WcfQb8g7t"
+      },
+      "artists": [
+        {
+          "name": "Dato' Sri Siti Nurhaliza",
+          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
+        },
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188709,
+      "name": "\u50cf\u6c34\u4e00\u6837",
+      "url": "https://open.spotify.com/track/6SpKBQVLa4QzOMhoRaaxDY"
     },
     {
       "album": {
@@ -10434,6 +10492,24 @@
       "duration_ms": 211240,
       "name": "\u5931\u7720",
       "url": "https://open.spotify.com/track/2vPvqW9oZVLdb4l7NXOQSp"
+    },
+    {
+      "album": {
+        "name": "\u5979\u5df2\u4e0d\u518d\u662f\u90a3\u500b\u5973\u5b69",
+        "url": "https://open.spotify.com/album/5mM9F5AFSaGB2BgODm1jxy"
+      },
+      "artists": [
+        {
+          "name": "DIOR \u5927\u7a4e",
+          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297000,
+      "name": "\u5979\u5df2\u4e0d\u518d\u662f\u90a3\u500b\u5973\u5b69",
+      "url": "https://open.spotify.com/track/49T3qI4iMo0lAzJq1CWjA3"
     },
     {
       "album": {

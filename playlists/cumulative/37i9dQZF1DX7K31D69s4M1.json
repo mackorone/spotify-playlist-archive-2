@@ -5297,6 +5297,24 @@
     },
     {
       "album": {
+        "name": "Contemplative Days",
+        "url": "https://open.spotify.com/album/0efua451szEZjz9KfiOhhl"
+      },
+      "artists": [
+        {
+          "name": "Ey\u00f8ni",
+          "url": "https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148001,
+      "name": "Contemplative Days",
+      "url": "https://open.spotify.com/track/37ZWo6M5e1EbEmkb5jzn7f"
+    },
+    {
+      "album": {
         "name": "Contemporain",
         "url": "https://open.spotify.com/album/42aVkSXm3MA7sDh26dMo5O"
       },

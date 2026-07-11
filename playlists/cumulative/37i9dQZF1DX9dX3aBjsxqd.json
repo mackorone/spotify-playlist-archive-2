@@ -61,6 +61,36 @@
     },
     {
       "album": {
+        "name": "Paganini Variations",
+        "url": "https://open.spotify.com/album/0vqgDCU36xGEmGGW93gv8f"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Kian Soltani",
+          "url": "https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ"
+        },
+        {
+          "name": "Pablo Ferrandez",
+          "url": "https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt"
+        },
+        {
+          "name": "Julien Quentin",
+          "url": "https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157040,
+      "name": "5 Pieces for 2 Violins & Piano: No. 1, Prelude (Arr. Atovmyan for 2 Cellos & Piano)",
+      "url": "https://open.spotify.com/track/1w7ydQ7UD6mS1m5BKKwJA3"
+    },
+    {
+      "album": {
         "name": "R. Schumann: 5 St\u00fccke im Volkston, Op. 102: II. Langsam",
         "url": "https://open.spotify.com/album/1yyvZIt8OcGvFJV99DJasI"
       },
@@ -1749,6 +1779,32 @@
     },
     {
       "album": {
+        "name": "Neighbors",
+        "url": "https://open.spotify.com/album/7rlCWUkxS3xp9lfGwyoDjd"
+      },
+      "artists": [
+        {
+          "name": "Julius Klengel",
+          "url": "https://open.spotify.com/artist/3mNsamKBQEN899jGMk6zDO"
+        },
+        {
+          "name": "Matt Haimovitz",
+          "url": "https://open.spotify.com/artist/4QGidRjlbajuTespAY0LMp"
+        },
+        {
+          "name": "Uccello",
+          "url": "https://open.spotify.com/artist/4ccekGU8qAkIduXNcNEbG1"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302334,
+      "name": "Hymnus Op. 57 for 12 Cellos",
+      "url": "https://open.spotify.com/track/5C5hJjv3zXR26y54tkfDqR"
+    },
+    {
+      "album": {
         "name": "Cellopera (Deluxe Edition)",
         "url": "https://open.spotify.com/album/170NOpTvClHxlcMH1Sjol6"
       },
@@ -1866,6 +1922,28 @@
       "duration_ms": 206400,
       "name": "Intermezzo (Cavalleria Rusticana)",
       "url": "https://open.spotify.com/track/3tN0o0Dl0S7hG3YMDFNDkc"
+    },
+    {
+      "album": {
+        "name": "ISCHIA (PIANO&CELLO)",
+        "url": "https://open.spotify.com/album/2r4YBzpLuw31yWORXE4HsE"
+      },
+      "artists": [
+        {
+          "name": "David Grumel",
+          "url": "https://open.spotify.com/artist/36Sgkyc7kU3NRspCbSHakS"
+        },
+        {
+          "name": "Olivier Koundouno",
+          "url": "https://open.spotify.com/artist/61NyOOVAag8NTfwgeFLwzC"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112648,
+      "name": "Ischia - Piano & Cello",
+      "url": "https://open.spotify.com/track/2hR0d9Z4eLQT2IKLrNkTjR"
     },
     {
       "album": {

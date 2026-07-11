@@ -4,7 +4,7 @@
 
 > Brand new music from The Temper Trap, Beyoncé, ROLE MODEL, Genesis Owusu, Malcom Todd + more
 
-13,777 songs - 31 day 6 hr 39 min
+13,779 songs - 31 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1938,6 +1938,7 @@
 | [California Blues](https://open.spotify.com/track/02IxKteRXkWN4JTqE3cPOo) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Flowers \(Deluxe Edition\)](https://open.spotify.com/album/4NFUSpiltdkLXzLNf0hPlK) | 2:01 | 2023-12-14 | 2023-12-22 |
 | [California Boys](https://open.spotify.com/track/5Xg1TU91VVKi3jDh1xHbIu) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [California Boys](https://open.spotify.com/album/1AAwuJanuPh8bN6OaybBIx) | 2:56 | 2025-05-29 | 2025-06-06 |
 | [California Games \(feat\. Earl Sweatshirt\)](https://open.spotify.com/track/0nZjAcQr2I4KIKkBEXE4Hx) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [California Games \(feat\. Earl Sweatshirt\)](https://open.spotify.com/album/2xFiOEI88LQHRso6Z0H8UI) | 3:13 | 2025-11-06 | 2025-11-14 |
+| [California Girls](https://open.spotify.com/track/5Rv0O0Bv90IqC97T68zesG) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:29 | 2026-07-10 |  |
 | [California On You](https://open.spotify.com/track/2VDkKjUZ0Vx4E4NDpFL628) | [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3), [Kennyon Brown](https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5), [Cuuhraig](https://open.spotify.com/artist/4Yz6rDZcx8W4BycGweekah) | [California On You](https://open.spotify.com/album/0ZPWxiCuILVgZ8TuKr1TJQ) | 3:10 | 2023-06-15 | 2023-06-23 |
 | [California Rain](https://open.spotify.com/track/6t2NMt38FtP7uKiXVe0X1z) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [California Rain](https://open.spotify.com/album/6AP2pWklJEWxzemOkIBYaw) | 3:23 | 2024-07-11 | 2024-07-19 |
 | [California Sober](https://open.spotify.com/track/7s5TCAqfDLMmOUqwsOXdId) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [California Sober](https://open.spotify.com/album/7gI0X71p03RtZMYpyCgtY9) | 2:42 | 2024-06-27 | 2024-07-05 |
@@ -3111,6 +3112,7 @@
 | [Distance](https://open.spotify.com/track/37iubkt9ZLMvMpXby6ZXKY) | [Sam V](https://open.spotify.com/artist/6m0VpWIUbhI3aITZFK2hmr) | [Distance](https://open.spotify.com/album/1k1JRpGWhKAeExQwbjDYVK) | 4:36 | 2023-10-26 | 2023-11-03 |
 | [distance](https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [distance](https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI) | 2:22 | 2024-08-01 | 2024-08-09 |
 | [Distant](https://open.spotify.com/track/12ZOYB6ALfoVZcCHza89al) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Distant](https://open.spotify.com/album/2A43FrrF9yQ5nONlBtHkqs) | 2:43 | 2024-11-14 | 2024-11-22 |
+| [Distant Lover](https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Distant Lover](https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi) | 3:37 | 2026-07-09 |  |
 | [Distant Novacane](https://open.spotify.com/track/0NDbcOUY3mN5phy1CssHE9) | [Harry Foxton](https://open.spotify.com/artist/1uwBZt6T6d0lvEf1FCYGnf) | [Fear in Forgiveness](https://open.spotify.com/album/6lDOa5DMBiut767tQs1Vhp) | 3:08 | 2026-04-09 | 2026-04-17 |
 | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/track/7oa9VKcTKyWIYTnaz5V6xI) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/album/1cwp5FEVGQaKoBV1WPbIdJ) | 2:45 | 2025-06-12 | 2025-06-20 |
 | [Diva](https://open.spotify.com/track/6ynQk8NlYeRv0KnrCU0ppi) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Diva](https://open.spotify.com/album/0JV0FSaxRPredegMlY1tYi) | 4:16 | 2025-04-24 | 2025-05-02 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Haylie Davis",
+  "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Luke Tyler Shelton",
   "name": "the new retro",
   "tracks": [
     {
@@ -430,7 +430,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 194064,
       "name": "Blown Away",
       "url": "https://open.spotify.com/track/7mHBL0aq8D9DLGchZWMG48"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 233159,
       "name": "Cheap Champagne",
       "url": "https://open.spotify.com/track/6kd0JbGLweEJi7wpsAkSyw"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 207613,
       "name": "Don't Please Yourself",
       "url": "https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt"
@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 212293,
       "name": "Got Soul",
       "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
@@ -1822,7 +1822,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 225098,
       "name": "Hang My Head in Shame",
       "url": "https://open.spotify.com/track/7lxHif999XHcMA3ER65kBy"
@@ -3844,7 +3844,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 209198,
       "name": "Oporto-Madrid Blvd",
       "url": "https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2"
@@ -4136,6 +4136,24 @@
       "duration_ms": 201933,
       "name": "Real Contender",
       "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
+    },
+    {
+      "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/5VLjMfC2GGKl98RElwNnhv"
+      },
+      "artists": [
+        {
+          "name": "Luke Tyler Shelton",
+          "url": "https://open.spotify.com/artist/403x11RUETcMwsBZlbneLC"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183776,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/6qp7oXl2E2DDwDMJPhb1xX"
     },
     {
       "album": {
@@ -5922,7 +5940,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 224266,
       "name": "Waterfallin'",
       "url": "https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM"
@@ -6016,7 +6034,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 239706,
       "name": "When We Were On Fire",
       "url": "https://open.spotify.com/track/6YTWCuGPAYmgKc5jZJ97OJ"
@@ -6034,7 +6052,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 219920,
       "name": "Who's Gonna Love You When I'm Gone",
       "url": "https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw"

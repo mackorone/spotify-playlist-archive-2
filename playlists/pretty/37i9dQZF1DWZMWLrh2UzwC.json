@@ -1,12 +1,12 @@
 {
   "description": "New music from Faizal Tahir, Insomniacks, Beyonc\u00e9,   Teddy Swims,  Amira Othman, Hazama, Hazami,  and more!",
-  "num_followers": 75345,
+  "num_followers": 75436,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFxTwEpO6+FCFSR9SfqM00ObBddw",
+  "snapshot_id": "AAAAADwBNoB8k9NzAlzJA4GxHB2faYcX",
   "tracks": [
     {
       "added_at": "2026-07-09 16:00:29",
@@ -176,7 +176,7 @@
           "url": "https://open.spotify.com/artist/73mpJzShg7QOejB76dAHZT"
         }
       ],
-      "duration_ms": 188258,
+      "duration_ms": 187910,
       "name": "juliet",
       "url": "https://open.spotify.com/track/20QpnulmuflvwCjXnDW8I2"
     },
@@ -224,8 +224,8 @@
           "url": "https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 163000,
+      "name": "Us Against The World",
       "url": "https://open.spotify.com/track/3RHtI2W6ZlAuM0r96nLhC9"
     },
     {
@@ -281,6 +281,30 @@
       "url": "https://open.spotify.com/track/5RmvYROdCmvdUsO1AFNd3q"
     },
     {
+      "added_at": "2026-07-10 05:08:31",
+      "album": {
+        "name": "Distant Lover",
+        "url": "https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "FANDOM",
+          "url": "https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv"
+        }
+      ],
+      "duration_ms": 217696,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF"
+    },
+    {
       "added_at": "2026-07-09 16:00:29",
       "album": {
         "name": "We made",
@@ -295,6 +319,38 @@
       "duration_ms": 146880,
       "name": "Gimme Dat Love",
       "url": "https://open.spotify.com/track/1wE6dqzjRFAxAV0rCnEpa5"
+    },
+    {
+      "added_at": "2026-07-10 05:08:31",
+      "album": {
+        "name": "NO LABELS: PART 02",
+        "url": "https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg"
+      },
+      "artists": [
+        {
+          "name": "YEONJUN",
+          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
+        }
+      ],
+      "duration_ms": 124896,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp"
+    },
+    {
+      "added_at": "2026-07-10 12:16:19",
+      "album": {
+        "name": "99 Degrees",
+        "url": "https://open.spotify.com/album/4Is832uPcdyCDQ2dupadBg"
+      },
+      "artists": [
+        {
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "99 Degrees",
+      "url": "https://open.spotify.com/track/0Adkq5CkilX52wKp7GzRct"
     },
     {
       "added_at": "2026-07-09 16:00:29",
@@ -389,6 +445,22 @@
       "url": "https://open.spotify.com/track/2Dxcl42nEzJJCCQkBzsbUR"
     },
     {
+      "added_at": "2026-07-10 05:08:31",
+      "album": {
+        "name": "The Real Me",
+        "url": "https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 149600,
+      "name": "California Girls",
+      "url": "https://open.spotify.com/track/5Rv0O0Bv90IqC97T68zesG"
+    },
+    {
       "added_at": "2026-07-09 16:00:29",
       "album": {
         "name": "Tear",
@@ -403,6 +475,30 @@
       "duration_ms": 249500,
       "name": "Tear",
       "url": "https://open.spotify.com/track/3rhgTxmFHqPYOBq9xzcyUT"
+    },
+    {
+      "added_at": "2026-07-10 05:08:31",
+      "album": {
+        "name": "Sepanjang Jalan (From \"Moana\"/Versi Bahasa Indonesia)",
+        "url": "https://open.spotify.com/album/5Sv3YsD84XXziqqLcExFaK"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        },
+        {
+          "name": "Amora Lemos",
+          "url": "https://open.spotify.com/artist/2LtaczRkheOlNY8hhoU0CY"
+        },
+        {
+          "name": "Silet Open Up",
+          "url": "https://open.spotify.com/artist/5naPJsWUJ6y22yKXA6dX36"
+        }
+      ],
+      "duration_ms": 257213,
+      "name": "Sepanjang Jalan - From \"Moana\"/Versi Bahasa Indonesia",
+      "url": "https://open.spotify.com/track/20aDE7fbCZGTFVfYwDFrt1"
     },
     {
       "added_at": "2026-07-09 16:00:29",
@@ -675,6 +771,22 @@
       "duration_ms": 191304,
       "name": "LOCA",
       "url": "https://open.spotify.com/track/1t6A6AZZ8RyVPWrrO6aX3b"
+    },
+    {
+      "added_at": "2026-07-10 07:41:32",
+      "album": {
+        "name": "GELATO",
+        "url": "https://open.spotify.com/album/4b48tsaeUQkAMylpFsbaBx"
+      },
+      "artists": [
+        {
+          "name": "Matilde G",
+          "url": "https://open.spotify.com/artist/4kV6iM6LBNfZX4qRHJUoNH"
+        }
+      ],
+      "duration_ms": 174608,
+      "name": "GELATO",
+      "url": "https://open.spotify.com/track/3qqOoD7sowKQ0Fh72bSolk"
     },
     {
       "added_at": "2026-07-09 16:00:29",
@@ -1369,6 +1481,22 @@
       "url": "https://open.spotify.com/track/7bXNh0D5uDRwcuG9eJh9vl"
     },
     {
+      "added_at": "2026-07-10 06:51:56",
+      "album": {
+        "name": "forget forgetting u",
+        "url": "https://open.spotify.com/album/5gyr7KTHxvXtOF3bWr9mJD"
+      },
+      "artists": [
+        {
+          "name": "KAI.ZEN",
+          "url": "https://open.spotify.com/artist/2TMub1vgKdjAFlEjBC3Trx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "forget forgetting u",
+      "url": "https://open.spotify.com/track/6Y8Mya8Xcl5crBtT9gUYh4"
+    },
+    {
       "added_at": "2026-07-09 16:00:29",
       "album": {
         "name": "\u6c92\u6709\u4f60\u7684\u4e16\u754c",
@@ -1792,8 +1920,8 @@
           "url": "https://open.spotify.com/artist/6QxpOqXgNVgObidnodQ9yz"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 12",
+      "duration_ms": 188521,
+      "name": "Doubt",
       "url": "https://open.spotify.com/track/2v0jBa08hoeXZe7c7eAqKF"
     },
     {

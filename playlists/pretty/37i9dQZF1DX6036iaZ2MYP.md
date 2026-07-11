@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Victony
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,181 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,458 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 10 | [Pépin](https://open.spotify.com/track/6GEBHcjoJkUIccDac8LeaY) | [La Folie](https://open.spotify.com/artist/1a0V1vMdLVOZguN8iSJHoc), [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [Pépin](https://open.spotify.com/album/3CtMWQgzKAnC1r46FHSUHF) | 2:23 |
 | 11 | [COCA BODY](https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [COCA BODY](https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa) | 2:33 |
 | 12 | [Petit jeu](https://open.spotify.com/track/3jTEyLRWyCyPiJLDeGZvS0) | [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Petit jeu](https://open.spotify.com/album/3D1MZvuSuLODI6sx0OVoaB) | 2:12 |
-| 13 | [Dima \- ديما](https://open.spotify.com/track/403VWu7hrDm7JMKtBBzbBI) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Farasha / فراشة](https://open.spotify.com/album/5o214igdQdbjhVlAnd6ukf) | 1:48 |
+| 13 | [Dima \- ديما](https://open.spotify.com/track/403VWu7hrDm7JMKtBBzbBI) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Farasha \- فراشة](https://open.spotify.com/album/5o214igdQdbjhVlAnd6ukf) | 1:48 |
 | 14 | [Paparazzi](https://open.spotify.com/track/662kXym3EfWBhRvevjYv3g) | [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Paparazzi](https://open.spotify.com/album/6vubUxTvzpnhLVGIrLnhoN) | 3:00 |
 | 15 | [I Know Who I Be](https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh) | [I Know Who I Be](https://open.spotify.com/album/7dR22XlVbfSAhTSltPiU7g) | 3:53 |
 | 16 | [Pixie cut](https://open.spotify.com/track/0hSieuTT2zOUMvRSQAUPSi) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Pixie cut](https://open.spotify.com/album/4rHf2vx3XHHg7okVZEWP4s) | 2:08 |

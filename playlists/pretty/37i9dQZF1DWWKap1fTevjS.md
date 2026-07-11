@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,304 likes - 224 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,365 likes - 224 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -233,4 +233,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 223 | [Mist and Feather](https://open.spotify.com/track/6ZRFd7bPCIVoUdWj2QEStv) | [Foreglow](https://open.spotify.com/artist/2fxdHlNjFfdYlMltby9IpJ) | [Mist and Feather](https://open.spotify.com/album/5cdp7wtrceHf0mDviouxTB) | 2:37 |
 | 224 | [Placid Interval](https://open.spotify.com/track/3rejhbJj7L7YG8dYkaq1Th) | [Zyair Price](https://open.spotify.com/artist/767ee2dusb4P76a8GXPf6t) | [Placid Interval](https://open.spotify.com/album/7d55HIpi8OCtp0LiiU2KQK) | 2:44 |
 
-Snapshot ID: `AAAAAEUnEKYE6xviGJRDXlT9lod7qn8o`
+Snapshot ID: `AAAAAGp34Q7XksNV5yWZxK/Y1LSyq5Y0`

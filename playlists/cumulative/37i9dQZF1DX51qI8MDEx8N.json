@@ -185,6 +185,42 @@
     },
     {
       "album": {
+        "name": "And There You Were",
+        "url": "https://open.spotify.com/album/6eWZ48kGoExcasNAVjvmlE"
+      },
+      "artists": [
+        {
+          "name": "John Othmar",
+          "url": "https://open.spotify.com/artist/7J3MgxBFbSLYv0Q0Viy5v2"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158034,
+      "name": "And There You Were",
+      "url": "https://open.spotify.com/track/2ij4ApQBRFmf6ohJVWcogb"
+    },
+    {
+      "album": {
+        "name": "Anemone",
+        "url": "https://open.spotify.com/album/28dwyOwoO2S9wGxfz7ci3u"
+      },
+      "artists": [
+        {
+          "name": "Ferragno",
+          "url": "https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134231,
+      "name": "Anemone",
+      "url": "https://open.spotify.com/track/5pmQLEt0f2PWwoQWGMdRax"
+    },
+    {
+      "album": {
         "name": "Apr\u00e8s Tout",
         "url": "https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3"
       },
@@ -326,6 +362,24 @@
       "duration_ms": 155000,
       "name": "Ballerina Waltz",
       "url": "https://open.spotify.com/track/7FGh1RBfCJLd0zdJYUuHFr"
+    },
+    {
+      "album": {
+        "name": "Be Somebody",
+        "url": "https://open.spotify.com/album/10AMeHlDFsbR4eb47ZmV2c"
+      },
+      "artists": [
+        {
+          "name": "Hector Vall\u00c7e",
+          "url": "https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154750,
+      "name": "Be Somebody",
+      "url": "https://open.spotify.com/track/4qUKcsKSR2ECMsstOQcwsF"
     },
     {
       "album": {
@@ -574,7 +628,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 156906,
       "name": "Close",
       "url": "https://open.spotify.com/track/5tUoI7u3zsCo9KCx5s3GQh"
@@ -682,7 +736,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 146000,
       "name": "Das Versprechen",
       "url": "https://open.spotify.com/track/1QCpwaFTWdn52B1MybBmGJ"
@@ -794,6 +848,42 @@
       "duration_ms": 154337,
       "name": "Drifting By",
       "url": "https://open.spotify.com/track/0VVtg9eCHlU8jPQRhvhd7F"
+    },
+    {
+      "album": {
+        "name": "Drystem",
+        "url": "https://open.spotify.com/album/3Yu8S1IjvNVPxD2kFLBAPE"
+      },
+      "artists": [
+        {
+          "name": "SoftKey",
+          "url": "https://open.spotify.com/artist/73P22uwEYwcNzLZhc63iFX"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145019,
+      "name": "Drystem",
+      "url": "https://open.spotify.com/track/3yJciXYbUbfPFnYFtkUEkT"
+    },
+    {
+      "album": {
+        "name": "During Dusk",
+        "url": "https://open.spotify.com/album/09XpqDeMEJgB0Ur4tnhwRP"
+      },
+      "artists": [
+        {
+          "name": "Viro Marix",
+          "url": "https://open.spotify.com/artist/0dSIbheAKaFJ9K2TxRJ3vv"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153799,
+      "name": "During Dusk",
+      "url": "https://open.spotify.com/track/3g0HqDIiNIq3MpCkZAIYhv"
     },
     {
       "album": {
@@ -934,7 +1024,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 160009,
       "name": "Fallboard",
       "url": "https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92"
@@ -1010,6 +1100,24 @@
       "duration_ms": 154829,
       "name": "Finale",
       "url": "https://open.spotify.com/track/3NT3cMv9qqmIX45fQqwVIU"
+    },
+    {
+      "album": {
+        "name": "Finding Peace",
+        "url": "https://open.spotify.com/album/34MBFODPslGLaXpN9SGM2i"
+      },
+      "artists": [
+        {
+          "name": "Nivellea",
+          "url": "https://open.spotify.com/artist/6fV1zumElkmOdLFGwBLr7f"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137172,
+      "name": "Finding Peace",
+      "url": "https://open.spotify.com/track/5Gt7PbiwVTiAOuTQvBQBQJ"
     },
     {
       "album": {
@@ -1150,7 +1258,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 158250,
       "name": "Fristad",
       "url": "https://open.spotify.com/track/4G5Zl5CAe63eqW5XrAq9w2"
@@ -1247,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/02DMIRVjsIqiLiayCgzdoq"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9er",
+          "url": "https://open.spotify.com/artist/5yYwQWCRkaZAIOThUKNo5n"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/6Hrlsgrkf3xNM1kIdPAnXX"
+    },
+    {
+      "album": {
         "name": "Haven",
         "url": "https://open.spotify.com/album/2GtLmksn6hajz3ZX14bjO7"
       },
@@ -1258,7 +1384,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 165000,
       "name": "Haven",
       "url": "https://open.spotify.com/track/5K5WAmv3SxQR8Is4zJklrz"
@@ -1276,7 +1402,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 137000,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW"
@@ -1330,7 +1456,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 159500,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN"
@@ -1924,7 +2050,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 161250,
       "name": "Les couleurs du ciel",
       "url": "https://open.spotify.com/track/3nyasiaSCFSEfxEEYg4jpx"
@@ -1964,6 +2090,24 @@
       "duration_ms": 155324,
       "name": "Lonewolf",
       "url": "https://open.spotify.com/track/65lkARn7lMcwoDtySoAubT"
+    },
+    {
+      "album": {
+        "name": "Long Fold",
+        "url": "https://open.spotify.com/album/5V2b9EkDXWYsbU5llbbRer"
+      },
+      "artists": [
+        {
+          "name": "Andrea Neroli",
+          "url": "https://open.spotify.com/artist/3JrPnL4GFXXCAe09g8QdnO"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129294,
+      "name": "Long Fold",
+      "url": "https://open.spotify.com/track/6DhRY1ZFTT406noY4GFqTT"
     },
     {
       "album": {
@@ -2075,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "Meadows",
+        "url": "https://open.spotify.com/album/3Lc7mWrPRzzwRalHHEnkxS"
+      },
+      "artists": [
+        {
+          "name": "Phlox Sage",
+          "url": "https://open.spotify.com/artist/5eIwTQpKoGAM6rFunUEd1T"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148511,
+      "name": "Meadows",
+      "url": "https://open.spotify.com/track/6qlDMQe9cfRleaEOmHEh1u"
+    },
+    {
+      "album": {
         "name": "Mimosas",
         "url": "https://open.spotify.com/album/5xFVyWiUXT6uEOqUUocEO3"
       },
@@ -2122,7 +2284,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 120000,
       "name": "Mis\u00e9rable",
       "url": "https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx"
@@ -2482,7 +2644,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 121124,
       "name": "Once when I was young",
       "url": "https://open.spotify.com/track/4FRPWTwl40uOHMslTL7fGa"
@@ -2561,6 +2723,24 @@
     },
     {
       "album": {
+        "name": "Peace At Heart",
+        "url": "https://open.spotify.com/album/1yDEyxcTzcltKGHzuHrnQK"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9lie Doret",
+          "url": "https://open.spotify.com/artist/06pZeDECUky6aiFA6GjYg0"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143157,
+      "name": "Peace At Heart",
+      "url": "https://open.spotify.com/track/4VQ9tUUeBkaxSGFO3twj6v"
+    },
+    {
+      "album": {
         "name": "Peace N Quiet",
         "url": "https://open.spotify.com/album/3e2S5B57V6O5fFCxu1mLHz"
       },
@@ -2576,6 +2756,24 @@
       "duration_ms": 175213,
       "name": "Peace N Quiet",
       "url": "https://open.spotify.com/track/6V5mepn6GsKZaW0xHMmLmo"
+    },
+    {
+      "album": {
+        "name": "Pearls",
+        "url": "https://open.spotify.com/album/4u9ivHWSlcC0k0pCgGuYv6"
+      },
+      "artists": [
+        {
+          "name": "Thomas Perceval",
+          "url": "https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131750,
+      "name": "Pearls",
+      "url": "https://open.spotify.com/track/59BuoMZ1HS8TpiIowic4KL"
     },
     {
       "album": {
@@ -2824,7 +3022,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 114285,
       "name": "Red Roses",
       "url": "https://open.spotify.com/track/5CF6kdYN9s5x3Zps5hHPDZ"
@@ -2932,7 +3130,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 154729,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/5oKiEfM3YuGCOXrFKcZpbM"
@@ -3040,7 +3238,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 157764,
       "name": "Settle Down In Somewhere",
       "url": "https://open.spotify.com/track/1e8NCyJxZaMd1XNZhKO9ez"
@@ -3227,6 +3425,24 @@
     },
     {
       "album": {
+        "name": "Somewhere Further",
+        "url": "https://open.spotify.com/album/2LaiM63ax9AjOOKArUpMXT"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3ret Labino",
+          "url": "https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145065,
+      "name": "Somewhere Further",
+      "url": "https://open.spotify.com/track/1UEgJDZMb79E2gnrnwyqTz"
+    },
+    {
+      "album": {
         "name": "Sparrow",
         "url": "https://open.spotify.com/album/0vUq0BxoKFTGQTSK5ChdXM"
       },
@@ -3281,6 +3497,24 @@
     },
     {
       "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/4HNSRPdgPCqLR9atsz5SkR"
+      },
+      "artists": [
+        {
+          "name": "Dylan Charbeneau",
+          "url": "https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151570,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/2mUDca9tulegFAKnzHG6eD"
+    },
+    {
+      "album": {
         "name": "Fylke",
         "url": "https://open.spotify.com/album/1jSCqDW3ZNficEbdHvTD8H"
       },
@@ -3314,6 +3548,24 @@
       "duration_ms": 150088,
       "name": "Still Night",
       "url": "https://open.spotify.com/track/2ZanS7xDIkjePVDKPiysrh"
+    },
+    {
+      "album": {
+        "name": "Stone Worn",
+        "url": "https://open.spotify.com/album/142Hrq33zUe1LXWUDKgXhR"
+      },
+      "artists": [
+        {
+          "name": "Ella Davies",
+          "url": "https://open.spotify.com/artist/41ZN6cpScLI4JidZW7f47H"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Stone Worn",
+      "url": "https://open.spotify.com/track/6L1Ttfw1NAi6q6gra940BP"
     },
     {
       "album": {
@@ -3443,6 +3695,24 @@
     },
     {
       "album": {
+        "name": "Take Me There",
+        "url": "https://open.spotify.com/album/65Sz1OuYoGcXNAYrJHV3m1"
+      },
+      "artists": [
+        {
+          "name": "Herman Schirmer",
+          "url": "https://open.spotify.com/artist/3jyv8lrOBakKhajNDnxoJm"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146812,
+      "name": "Take Me There",
+      "url": "https://open.spotify.com/track/0cchNVMlw35l2VRxOdglj9"
+    },
+    {
+      "album": {
         "name": "Te lo prometto",
         "url": "https://open.spotify.com/album/3FevTCLbawOb3TgUlUD66p"
       },
@@ -3526,10 +3796,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 145500,
       "name": "The Cherry Trees",
       "url": "https://open.spotify.com/track/1dPIVEUmnh7v9r4KUnOTHH"
+    },
+    {
+      "album": {
+        "name": "The day passed",
+        "url": "https://open.spotify.com/album/3G2uY6zvMbhUqL7nLgXQ3n"
+      },
+      "artists": [
+        {
+          "name": "Erland Mills",
+          "url": "https://open.spotify.com/artist/4bWGNCQ4IhlefV03agQ9pb"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112427,
+      "name": "The day passed",
+      "url": "https://open.spotify.com/track/6nI7j2LJHJRTiEIMVUv1Lt"
     },
     {
       "album": {
@@ -3652,7 +3940,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 150500,
       "name": "The Phenomenon",
       "url": "https://open.spotify.com/track/6QCddEiJ7fLtmoGsq1kWdq"
@@ -3760,7 +4048,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 164000,
       "name": "Tomorrow's Dreams",
       "url": "https://open.spotify.com/track/2aj7eNHqMG4SeF5sBG7idE"
@@ -4102,7 +4390,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 158000,
       "name": "Vole Vers Moi",
       "url": "https://open.spotify.com/track/76tMNpO6rHIMyKu9s4aY55"
@@ -4178,6 +4466,24 @@
       "duration_ms": 127395,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6jFdydFW7HvS77aiiRR9XL"
+    },
+    {
+      "album": {
+        "name": "Where Flowers Bloom",
+        "url": "https://open.spotify.com/album/6MklZkzMiZhfB4AcdMpif5"
+      },
+      "artists": [
+        {
+          "name": "Sounds from a Box",
+          "url": "https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164960,
+      "name": "Where Flowers Bloom",
+      "url": "https://open.spotify.com/track/18MR6Kx7W07sdfABNB786v"
     },
     {
       "album": {

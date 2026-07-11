@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-01",
-  "description": "Brand new music from Beyonc\u00e9, The Rolling Stones and more! ",
+  "description": "Brand new music from Beyonc\u00e9, Future, The Rolling Stones and more! ",
   "name": "New Music Friday UK",
   "tracks": [
     {
@@ -31769,6 +31769,24 @@
     },
     {
       "album": {
+        "name": "Bad Friend",
+        "url": "https://open.spotify.com/album/6A7MNcy06eXZcjnVpFMVrH"
+      },
+      "artists": [
+        {
+          "name": "Alice Auer",
+          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241411,
+      "name": "Bad Friend",
+      "url": "https://open.spotify.com/track/08Zz7bnCHoN2rdBLUojhwr"
+    },
+    {
+      "album": {
         "name": "The Afters",
         "url": "https://open.spotify.com/album/0nCB0adZv1ffnrApTIXyXp"
       },
@@ -50681,6 +50699,24 @@
     },
     {
       "album": {
+        "name": "girl in stem",
+        "url": "https://open.spotify.com/album/17Ro49BRz5Gveylng2A7Ri"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172153,
+      "name": "both be happier",
+      "url": "https://open.spotify.com/track/6CIbLErx7WosfLorB4JE1T"
+    },
+    {
+      "album": {
         "name": "Both Feet",
         "url": "https://open.spotify.com/album/7kEOthIQTziQYwGkOMxDr0"
       },
@@ -59108,6 +59144,24 @@
       "duration_ms": 216306,
       "name": "California and Me",
       "url": "https://open.spotify.com/track/768tjNAwyH3nIFee5BIdcl"
+    },
+    {
+      "album": {
+        "name": "The Real Me",
+        "url": "https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "California Girls",
+      "url": "https://open.spotify.com/track/5Rv0O0Bv90IqC97T68zesG"
     },
     {
       "album": {
@@ -101316,6 +101370,24 @@
       "duration_ms": 155862,
       "name": "don't let me go",
       "url": "https://open.spotify.com/track/2ji2z7jiPIfcdBr4C8dCYN"
+    },
+    {
+      "album": {
+        "name": "Turbulence",
+        "url": "https://open.spotify.com/album/4VBvBdmWo2HQwNaEmYOlCw"
+      },
+      "artists": [
+        {
+          "name": "Krafty Kuts",
+          "url": "https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257910,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/15XS7vvUwOpURbi6pdJGQ1"
     },
     {
       "album": {
@@ -183703,6 +183775,24 @@
     },
     {
       "album": {
+        "name": "I Just Got Mad",
+        "url": "https://open.spotify.com/album/3QnV8Wq1tjUuor9guUzEXA"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149364,
+      "name": "I Just Got Mad",
+      "url": "https://open.spotify.com/track/5cEbOJ1W1cgWJ3LGeRBsn7"
+    },
+    {
+      "album": {
         "name": "I Just Killed a Spider",
         "url": "https://open.spotify.com/album/6lAXiMRbz2Qqa2gRax6y39"
       },
@@ -198929,6 +199019,24 @@
     },
     {
       "album": {
+        "name": "Iron City",
+        "url": "https://open.spotify.com/album/5bDculEme7GI0So0fOO6sg"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Iron City",
+      "url": "https://open.spotify.com/track/7o9gwmscHBXh6sUEYkWQ4e"
+    },
+    {
+      "album": {
         "name": "45 Pounds",
         "url": "https://open.spotify.com/album/5DLFxUTEQIFGhjll8vhTZE"
       },
@@ -205697,7 +205805,7 @@
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 188258,
+      "duration_ms": 187910,
       "name": "juliet",
       "url": "https://open.spotify.com/track/20QpnulmuflvwCjXnDW8I2"
     },
@@ -397799,60 +397907,6 @@
     },
     {
       "album": {
-        "name": "girl in stem",
-        "url": "https://open.spotify.com/album/17Ro49BRz5Gveylng2A7Ri"
-      },
-      "artists": [
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        }
-      ],
-      "date_added": "2026-07-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/6CIbLErx7WosfLorB4JE1T"
-    },
-    {
-      "album": {
-        "name": "Turbulence",
-        "url": "https://open.spotify.com/album/4VBvBdmWo2HQwNaEmYOlCw"
-      },
-      "artists": [
-        {
-          "name": "Krafty Kuts",
-          "url": "https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2"
-        }
-      ],
-      "date_added": "2026-07-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 14",
-      "url": "https://open.spotify.com/track/15XS7vvUwOpURbi6pdJGQ1"
-    },
-    {
-      "album": {
-        "name": "On Your Side",
-        "url": "https://open.spotify.com/album/5H8h2QQ48TwqBpi6jXNDyr"
-      },
-      "artists": [
-        {
-          "name": "December 10",
-          "url": "https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr"
-        }
-      ],
-      "date_added": "2026-07-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/3RHtI2W6ZlAuM0r96nLhC9"
-    },
-    {
-      "album": {
         "name": "Track and Field",
         "url": "https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA"
       },
@@ -407760,6 +407814,24 @@
       "duration_ms": 205166,
       "name": "Us Again",
       "url": "https://open.spotify.com/track/1hk0qvXd04Xy5wuSmHCwZ6"
+    },
+    {
+      "album": {
+        "name": "On Your Side",
+        "url": "https://open.spotify.com/album/5H8h2QQ48TwqBpi6jXNDyr"
+      },
+      "artists": [
+        {
+          "name": "December 10",
+          "url": "https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Us Against The World",
+      "url": "https://open.spotify.com/track/3RHtI2W6ZlAuM0r96nLhC9"
     },
     {
       "album": {
@@ -428497,7 +428569,7 @@
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 226982,
+      "duration_ms": 226293,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/00Kh829MiosKSvGHFQEbt8"
     },

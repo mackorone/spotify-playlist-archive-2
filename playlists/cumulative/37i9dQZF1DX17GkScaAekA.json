@@ -443,6 +443,28 @@
     },
     {
       "album": {
+        "name": "Mompou: Au clair de la lune: Glossa sobre",
+        "url": "https://open.spotify.com/album/505ZGZUv3IUWKQgXikO32S"
+      },
+      "artists": [
+        {
+          "name": "Federico Mompou",
+          "url": "https://open.spotify.com/artist/25OpIkirunuJjVw6TgTV9M"
+        },
+        {
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96080,
+      "name": "Au clair de la lune: Glossa sobre",
+      "url": "https://open.spotify.com/track/7ixEtip4qy1uAOIXUrRbvh"
+    },
+    {
+      "album": {
         "name": "Schubert: Classical Creations",
         "url": "https://open.spotify.com/album/1Dqu9JiEM8yLcjxY3CY5Xm"
       },
@@ -948,6 +970,24 @@
       "duration_ms": 287960,
       "name": "Die Rose, Romanze aus der Oper Zemir und Azor, S571/R259 (Spohr)",
       "url": "https://open.spotify.com/track/7lO0GHKtEZKLZ0l32upmll"
+    },
+    {
+      "album": {
+        "name": "Dream 5",
+        "url": "https://open.spotify.com/album/0SINpDIl1C7xHPdDQVxeQ8"
+      },
+      "artists": [
+        {
+          "name": "Aleksander D\u0119bicz",
+          "url": "https://open.spotify.com/artist/0HZYW7kTNPn8JRCmHv6fad"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220412,
+      "name": "Dream 5",
+      "url": "https://open.spotify.com/track/0WmNqYLyIzCMV0R6Zq9Ark"
     },
     {
       "album": {

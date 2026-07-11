@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > e aí tue, como foi o show?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,547,703 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,547,961 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [Stalker](https://open.spotify.com/track/4Qtv069FqWXt7yjutBUw1i) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr) | [ARꓘANO](https://open.spotify.com/album/6dehecfgOrOfZqIzzwDQxl) | 3:04 |
 | 50 | [POTÊNCIA](https://open.spotify.com/track/4rezds0Va7LDCDH3gvlf2b) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [C4rlinhxs](https://open.spotify.com/artist/2d7vU3M4WY23wRN1nAqEwp) | [POTÊNCIA](https://open.spotify.com/album/09bZBNkYaEjskXBjzve0hc) | 2:38 |
 
-Snapshot ID: `AAAAAGYMbbMnzchckuD7XDpc/zEkcp1Z`
+Snapshot ID: `AAAAALhFc/8+xxUTuEkANUW5HSqwyT7b`

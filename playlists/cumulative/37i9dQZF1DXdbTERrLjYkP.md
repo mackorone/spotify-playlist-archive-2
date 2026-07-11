@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Cassandra Coleman
+> Discover the next wave of talent writing their own songs\. Cover: Macy Todd
 
-1,103 songs - 2 day 11 hr 25 min
+1,108 songs - 2 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [all my ghosts](https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [all my ghosts](https://open.spotify.com/album/2um5IQr83Qc2dhgNP0jswi) | 3:17 | 2022-01-21 | 2022-02-26 |
 | [All My Songs](https://open.spotify.com/track/00EtXjSHo1YKBPXANXMZN2) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [All My Songs](https://open.spotify.com/album/5MTmDNt1UeWj9QlGP7F149) | 3:28 | 2026-01-06 | 2026-06-05 |
 | [All Our Friends Are Splitting Up](https://open.spotify.com/track/1EuUY6pUpeonLyCNQzrsTY) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Subject To Change](https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx) | 3:40 | 2022-03-18 | 2022-08-06 |
+| [All That It Is](https://open.spotify.com/track/7aEfNs8cRi0YRbiIwwrmP9) | [Whitney Whitney](https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R) | [All That It Is](https://open.spotify.com/album/5XaCaoQjxJPz5a3NhZxjNZ) | 3:50 | 2026-07-10 |  |
 | [Almost Did](https://open.spotify.com/track/3eO4Rgv1UiBJRFXsXGUngq) | [Julia Campbell](https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud) | [Almost Did](https://open.spotify.com/album/4t8FPBUkiUwOjJhXJzjIsj) | 2:25 | 2026-01-06 | 2026-04-25 |
 | [almost happy](https://open.spotify.com/track/06SnkMUvEOai4zY9lGvuky) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [almost happy](https://open.spotify.com/album/3IISfQ5BRf3a5wNRf7CX0K) | 2:17 | 2022-11-18 | 2022-12-24 |
 | [Almost Loved You](https://open.spotify.com/track/1gCIGVbF00N5toEK0TEmWr) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [part one](https://open.spotify.com/album/7mMRGWSoqwWWwQzCI2eMqh) | 3:40 | 2023-02-03 | 2023-05-06 |
@@ -464,6 +465,7 @@
 | [How's It Gonna End?](https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:30 | 2023-10-06 | 2023-12-14 |
 | [how2get2me](https://open.spotify.com/track/1uRKG3qQlihYCSQVEop2lA) | [ALINA](https://open.spotify.com/artist/5dMqTi9pBymJAVzH9V7N86) | [how2get2me / pocket](https://open.spotify.com/album/3yCcg5MsSClD2TnUIbu5p4) | 2:53 | 2026-04-24 |  |
 | [Hurt Again](https://open.spotify.com/track/3gdiyrJ3d1FGnYnCrVKwph) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Hurt Again](https://open.spotify.com/album/5CAl06ROTsSgP4z0ysJOmQ) | 2:06 | 2022-01-14 | 2022-03-12 |
+| [Hurts](https://open.spotify.com/track/6GGyMAS1ne4pnih5ukFFaL) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Hurts](https://open.spotify.com/album/5kRVr5kcCtBZuIL6C5aycN) | 3:00 | 2026-07-10 |  |
 | [Hurts Different](https://open.spotify.com/track/4JQAx07ymzsRegTgjlCNg6) | [Isabella Kearney](https://open.spotify.com/artist/3IiEUjaWFpelGMcTTRGBDL) | [Hurts Different](https://open.spotify.com/album/0tuEjKKxbF3gOLjN5wlRPc) | 2:21 | 2025-01-24 | 2025-05-17 |
 | [Hurts Like Hell](https://open.spotify.com/track/6UkIfamz0vrnlCpWlAfs1T) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Hurts Like Hell](https://open.spotify.com/album/2u7qCdSsazhl9PXlXPCQ5k) | 2:43 | 2023-07-28 | 2023-12-14 |
 | [Hypothetically](https://open.spotify.com/track/0GW4U3AyJNm25YAWjlL4Ww) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Hypothetically](https://open.spotify.com/album/3840k7aSlsMmh6uK1srrsO) | 2:41 | 2024-06-07 | 2024-12-07 |
@@ -655,6 +657,7 @@
 | [MAYBE.](https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [MAYBE.](https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr) | 3:55 | 2024-08-02 | 2025-01-04 |
 | [Me to You](https://open.spotify.com/track/4lW9Uvw8MP5hxwzO7Rp94v) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Well Here We Are \- EP](https://open.spotify.com/album/2RjoJH522YdcMLFK3sBg1s) | 3:03 | 2023-08-11 | 2023-09-16 |
 | [Mean Something](https://open.spotify.com/track/6xJAJMCtecFOlbfXsmdAeo) | [Filiah](https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl) | [Mean Something](https://open.spotify.com/album/2KmHL9ePVBaO705xrHr1Mr) | 4:04 | 2025-08-29 | 2025-11-22 |
+| [mean!](https://open.spotify.com/track/3Wbq0xfJFzYE74WBMiqJOH) | [Macy Todd](https://open.spotify.com/artist/36LLquZpLrRaGaMRivV2CD) | [pretty ruthless](https://open.spotify.com/album/6qijNpc6Vt4lxkrRHoPL26) | 3:20 | 2026-07-10 |  |
 | [Meant To Be](https://open.spotify.com/track/136J2Jkg8sG7P5wilO9P1R) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/2Ii84ROOIm5Hf5ZtbiG3P9) | 2:43 | 2022-01-14 | 2022-02-26 |
 | [Megan’s Song](https://open.spotify.com/track/71eVKx9MDUBpGChmV98Hiu) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Megan’s Song](https://open.spotify.com/album/6ZP7zOFmqA5NyjKLd2mhR2) | 3:10 | 2022-08-19 | 2022-12-24 |
 | [Memories](https://open.spotify.com/track/6SrYWzq2Fn0ReOmhE3lqh4) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [Memories](https://open.spotify.com/album/7udQ2xdosB3zUkdNGaG4m8) | 2:33 | 2024-09-20 | 2025-01-18 |
@@ -850,6 +853,7 @@
 | [sharing Jesus with an ex](https://open.spotify.com/track/4UMyvWKB7ggyig9rixl6K3) | [Zoe Levert](https://open.spotify.com/artist/0f7KVpp4sPg1v2EzCwTmD8) | [sharing Jesus with an ex](https://open.spotify.com/album/6um401jXC8mKsa5j9ZEbIc) | 1:55 | 2026-02-27 | 2026-04-25 |
 | [She's There](https://open.spotify.com/track/01yJB2dEUSEMcow0DX0RHA) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart, Chapter 1](https://open.spotify.com/album/5flJ8xRc70suiyuOnE4YhG) | 3:50 | 2023-06-02 | 2023-11-11 |
 | [Shut Up About It](https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17 \(Deluxe\)](https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a) | 3:18 | 2024-05-17 | 2024-10-19 |
+| [SIDES OF MY PEN](https://open.spotify.com/track/3MKfTmgTZbA9i2hL57mzTU) | [Tabi](https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn) | [SIDES OF MY PEN](https://open.spotify.com/album/12IL9L3DtwEbkJ7q3JYts0) | 2:45 | 2026-07-10 |  |
 | [Silence](https://open.spotify.com/track/3wzrK49eHKXufPDkNzRAoH) | [Grey Zeigler](https://open.spotify.com/artist/7KPQ1gyjGeNrDCySwrXAhI) | [Pray For Me](https://open.spotify.com/album/79UgvdWK1Cz8SN5BdgKFL4) | 2:57 | 2023-07-07 | 2023-12-14 |
 | [Silence](https://open.spotify.com/track/5sEuodPxtfU0JZOxOQSnIy) | [Grey Zeigler](https://open.spotify.com/artist/7KPQ1gyjGeNrDCySwrXAhI) | [Silence](https://open.spotify.com/album/0QTeJJR2WXrNd07TUbbhql) | 2:57 | 2023-06-23 | 2023-11-11 |
 | [Silence](https://open.spotify.com/track/6WO593vQqznWD2XUA5w15L) | [Katherine Lynn\-Rose](https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ) | [Silence](https://open.spotify.com/album/7qgIlatcSSMESbsQ3OCiM1) | 2:06 | 2025-09-26 | 2026-02-17 |
@@ -1029,6 +1033,7 @@
 | [Vauxhall](https://open.spotify.com/track/2ukWCx1OUBiZsTyjhfGVYY) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Slowly, It Dawns](https://open.spotify.com/album/4cXbkCGtivxpmwwbmdyuQR) | 3:22 | 2025-01-17 | 2025-05-23 |
 | [VCR Home Video](https://open.spotify.com/track/12Tsnabj0nuyrLwG7yvxDb) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [VCR Home Video](https://open.spotify.com/album/7qBk7vFJkG2K73yGruM5Ow) | 3:23 | 2024-08-02 | 2025-01-04 |
 | [Vincent's Wife \(p.33\)](https://open.spotify.com/track/2YqjRiCr5WfH7VBd2ctHcX) | [Salty Licorice](https://open.spotify.com/artist/6ipya2KPF19iwpylWPCHZs) | [Vincent's Wife \(p.33\)](https://open.spotify.com/album/3aj4SLrcyZzswSqbfBflP9) | 4:33 | 2025-04-18 | 2025-07-19 |
+| [Vinyl](https://open.spotify.com/track/3I6n7OQMpaaBfRFKpxl5U0) | [Maya Engen](https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm) | [Just My Luck](https://open.spotify.com/album/7BJsNyKpMF59uelRRp9p4K) | 3:35 | 2026-07-10 |  |
 | [Virginity](https://open.spotify.com/track/71UNeDnHSi1dWnGgRgFdLU) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Virginity](https://open.spotify.com/album/6YXOcBLyEC6ah8w302CLsw) | 2:18 | 2022-08-26 | 2022-11-12 |
 | [volkswagens](https://open.spotify.com/track/5lJKyrg4IRUEGN0eQao1JK) | [dora.](https://open.spotify.com/artist/0Ym566deMKtIcLclCs6AqB) | [volkswagens](https://open.spotify.com/album/5lleMb5RdpoSGN8uGaOzYq) | 2:40 | 2022-03-18 | 2022-05-07 |
 | [Wait Up](https://open.spotify.com/track/6zniefLYl8sGh6TY0rDbID) | [Becky Sikasa](https://open.spotify.com/artist/3UqXMAMPI53itEWm6SMaBZ) | [Wait Up](https://open.spotify.com/album/4owm0U3LAo5y1sCun9lyXV) | 2:55 | 2023-09-29 | 2024-01-05 |

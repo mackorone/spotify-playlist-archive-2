@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Pulse](https://open.spotify.com/playlist/1xVV8WCtm9c6y0cGo4WrWG)
 
-> The newest and best Hip\-Hop tracks, updated weekly! Cover: Yung Miami
+> The newest and best Hip\-Hop tracks, updated weekly! Cover: GloRilla
 
 508 songs - 1 day 1 hr 49 min
 

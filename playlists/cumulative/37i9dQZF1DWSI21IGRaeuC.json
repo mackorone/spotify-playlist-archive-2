@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-05",
-  "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Riordan & AlunaGeorge",
+  "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nwith Locky & Luke Dean",
   "name": "Deep & Minimal",
   "tracks": [
     {
@@ -1961,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "Big Beat EP",
+        "url": "https://open.spotify.com/album/4UXrN1XSgRLBZsPN9iEMmF"
+      },
+      "artists": [
+        {
+          "name": "Justin Rabin",
+          "url": "https://open.spotify.com/artist/6BxPifFRPEvAX1gyMxnCmv"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153344,
+      "name": "Big Beat",
+      "url": "https://open.spotify.com/track/2DhhhosrtccQXQXW9Cjxf6"
+    },
+    {
+      "album": {
         "name": "Big Buddha",
         "url": "https://open.spotify.com/album/60X7c0zY50pjVl9DZbml7k"
       },
@@ -2931,6 +2949,28 @@
     },
     {
       "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/5USGeGYL7YPwUii9X1N3DC"
+      },
+      "artists": [
+        {
+          "name": "Dunmore Brothers",
+          "url": "https://open.spotify.com/artist/66IBwwjqDnQ18LFOtA687W"
+        },
+        {
+          "name": "J.A.M.O.N.",
+          "url": "https://open.spotify.com/artist/6i0cY7HdJqYdwLYrls3aJ0"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214107,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/2xUWuk2VkyXpx9MFNGsTuP"
+    },
+    {
+      "album": {
         "name": "Cama Cama",
         "url": "https://open.spotify.com/album/59y5b3c0Nh8ZIAs28DSedv"
       },
@@ -3240,6 +3280,32 @@
       "duration_ms": 218507,
       "name": "Check One",
       "url": "https://open.spotify.com/track/7JI4W4fvPwzoPGcRSKYeHw"
+    },
+    {
+      "album": {
+        "name": "Check One, Check Two",
+        "url": "https://open.spotify.com/album/2WxsN8ePby4cmpSPMAH6He"
+      },
+      "artists": [
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        },
+        {
+          "name": "Locky",
+          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156458,
+      "name": "Check One, Check Two",
+      "url": "https://open.spotify.com/track/1rUv2sOHvgzBERMXW40YgD"
     },
     {
       "album": {
@@ -6141,6 +6207,28 @@
     },
     {
       "album": {
+        "name": "Feel It - EP",
+        "url": "https://open.spotify.com/album/3tLH8xF5ArstvU0pETOh4V"
+      },
+      "artists": [
+        {
+          "name": "Burnski",
+          "url": "https://open.spotify.com/artist/4aOxcso0VF2zuORd93J32L"
+        },
+        {
+          "name": "Kepler.",
+          "url": "https://open.spotify.com/artist/4yGWhPE8bcrYShFXg6iCxV"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/5qFt57XzmdMfIaFF06GoO9"
+    },
+    {
+      "album": {
         "name": "Feel It EP",
         "url": "https://open.spotify.com/album/6QqcyAbCmxUOVXqyIg7PRN"
       },
@@ -7346,7 +7434,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 193384,
       "name": "Get Funky",
       "url": "https://open.spotify.com/track/5au1dxozcN7pepkik4E4uE"
@@ -9936,7 +10024,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 205454,
       "name": "Is It You (Or Is It Me)",
       "url": "https://open.spotify.com/track/4VjGuOdMtLmjVvySSwYwc1"
@@ -10244,7 +10332,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 237022,
       "name": "Jump N' Shout - Gorgon City Remix",
       "url": "https://open.spotify.com/track/2pbtSI3CJXfAE9ekE5qowg"
@@ -10400,7 +10488,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 203909,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/3eMVersNz99DsD0vvv3Bk6"
@@ -12020,7 +12108,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 174544,
       "name": "Make It Hot",
       "url": "https://open.spotify.com/track/6Y1Ox3HcXyZBuCS01qfjOW"
@@ -12940,6 +13028,24 @@
       "duration_ms": 162461,
       "name": "Move & Groove",
       "url": "https://open.spotify.com/track/1poxjTo5B52kb3ImfnCRig"
+    },
+    {
+      "album": {
+        "name": "Move Shake",
+        "url": "https://open.spotify.com/album/1S74QEpRIH8jaQX44H1ANg"
+      },
+      "artists": [
+        {
+          "name": "Jeff Sorkowitz",
+          "url": "https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178124,
+      "name": "Move Shake",
+      "url": "https://open.spotify.com/track/3zJ3HnuFWvYGNeVxafs4mu"
     },
     {
       "album": {
@@ -15492,7 +15598,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 197211,
       "name": "Pump",
       "url": "https://open.spotify.com/track/5ZvpgFqhDyi7MODmzoYvD5"
@@ -16727,6 +16833,28 @@
     },
     {
       "album": {
+        "name": "Link Up EP",
+        "url": "https://open.spotify.com/album/0P4tx3jkhfAOZa4sFpgi1r"
+      },
+      "artists": [
+        {
+          "name": "Michel De Hey",
+          "url": "https://open.spotify.com/artist/4BY4HaWussT44zj9RiCGzh"
+        },
+        {
+          "name": "Boss Priester",
+          "url": "https://open.spotify.com/artist/0aut7mlvs8CZUwZKn5e3ZE"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199149,
+      "name": "Rushmore",
+      "url": "https://open.spotify.com/track/6IuLAWba4hLEoqcmAUDzaE"
+    },
+    {
+      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5"
       },
@@ -16884,7 +17012,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 137769,
       "name": "Say What?",
       "url": "https://open.spotify.com/track/2cyqfeXRo1mijttR0Jp6CL"
@@ -17559,6 +17687,28 @@
     },
     {
       "album": {
+        "name": "Take The Rhythm EP",
+        "url": "https://open.spotify.com/album/1bxS8Fu5CpJWMMUUk8TFrF"
+      },
+      "artists": [
+        {
+          "name": "Galo",
+          "url": "https://open.spotify.com/artist/4v0KJDTlY8yFHSZAFmMj3L"
+        },
+        {
+          "name": "Drago",
+          "url": "https://open.spotify.com/artist/2W86O0D3XvwXmfEEbv5SYo"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Show It Off",
+      "url": "https://open.spotify.com/track/3v99wqFqqedYXeKmyUCKP8"
+    },
+    {
+      "album": {
         "name": "Show Them",
         "url": "https://open.spotify.com/album/3gnDuBUzhMO6JXMcE8oV6N"
       },
@@ -17708,6 +17858,28 @@
       "duration_ms": 193282,
       "name": "Slammin",
       "url": "https://open.spotify.com/track/1iU5we2bgobVKgsi6r6O4V"
+    },
+    {
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/4ASgCVfuiXn2z4Jj6OJb0X"
+      },
+      "artists": [
+        {
+          "name": "CROSS CITY",
+          "url": "https://open.spotify.com/artist/2YEX28QkrNloZQR3SgVXMh"
+        },
+        {
+          "name": "Yung Ta",
+          "url": "https://open.spotify.com/artist/0BtWJZaHgSsVOp71L14leH"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146564,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/2EOYAOg7weioqPFlSzv9bH"
     },
     {
       "album": {
@@ -19298,7 +19470,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 210227,
       "name": "Teach You Desire",
       "url": "https://open.spotify.com/track/2i2BaQHXCWNFzDqxcyZVE0"
@@ -20519,6 +20691,24 @@
     },
     {
       "album": {
+        "name": "To Be Free / Sweet Love",
+        "url": "https://open.spotify.com/album/61aG9H7cKm2HHjY6sRLI50"
+      },
+      "artists": [
+        {
+          "name": "ANATTA",
+          "url": "https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184853,
+      "name": "To Be Free",
+      "url": "https://open.spotify.com/track/7DFSWmAZmtspiqEQNjXB6x"
+    },
+    {
+      "album": {
         "name": "To the Beat",
         "url": "https://open.spotify.com/album/6lk7tjRUuj4o0Qa9GdUud5"
       },
@@ -20620,7 +20810,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 149838,
       "name": "Too In Love With You",
       "url": "https://open.spotify.com/track/0rS9f6pdy49rLBVzyGyQYv"
@@ -21294,7 +21484,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 179076,
       "name": "Unless You Wanna (Uh Uh)",
       "url": "https://open.spotify.com/track/7dLRmh16YMIr7BpO4DmkHQ"
@@ -22024,6 +22214,24 @@
       "duration_ms": 311168,
       "name": "What You Say",
       "url": "https://open.spotify.com/track/2aOlGcKkcYYLABhtLDAvqn"
+    },
+    {
+      "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/6xMSHgwAfkqYJdOlwZTtsO"
+      },
+      "artists": [
+        {
+          "name": "M-High",
+          "url": "https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239246,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/6uQvNeVRlCltMrJVPRE2I4"
     },
     {
       "album": {

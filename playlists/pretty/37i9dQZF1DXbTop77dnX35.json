@@ -1,12 +1,12 @@
 {
   "description": "New Music from Victony, Runtown, FAVE, Sarkodie, Beyonc\u00e9, Kelela, Kojo Blak, Nasty C & Tellaman and more ",
-  "num_followers": 203095,
+  "num_followers": 203944,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGsdQTLBNwcOvINzRvCxKOqEvutt",
+  "snapshot_id": "AAAAAAaQFWUnL7GR9qSaLgZd1DhoiMQ2",
   "tracks": [
     {
       "added_at": "2026-07-10 00:01:24",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/3BDCe3gcBmfH1AbG5c46gX"
     },
     {
+      "added_at": "2026-07-10 10:59:37",
+      "album": {
+        "name": "The Real Me",
+        "url": "https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 149600,
+      "name": "California Girls",
+      "url": "https://open.spotify.com/track/5Rv0O0Bv90IqC97T68zesG"
+    },
+    {
       "added_at": "2026-07-10 00:01:24",
       "album": {
         "name": "Gbewa",
@@ -136,7 +152,7 @@
           "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
         }
       ],
-      "duration_ms": 169691,
+      "duration_ms": 169655,
       "name": "Gbewa",
       "url": "https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY"
     },
@@ -175,22 +191,6 @@
       "duration_ms": 177931,
       "name": "Major League",
       "url": "https://open.spotify.com/track/4uzf6Vyc2b9UHVcGOkR38J"
-    },
-    {
-      "added_at": "2026-07-10 00:01:24",
-      "album": {
-        "name": "MORNING DEW (DONK)",
-        "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 243896,
-      "name": "MORNING DEW (DONK)",
-      "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
     },
     {
       "added_at": "2026-07-10 00:01:24",
@@ -238,10 +238,26 @@
         {
           "name": "VVS",
           "url": "https://open.spotify.com/artist/7cHMsh1QFMCQGlu6KhM48P"
+        },
+        {
+          "name": "Siraheem",
+          "url": "https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh"
+        },
+        {
+          "name": "Blnde",
+          "url": "https://open.spotify.com/artist/08wh4LAiwn4XMAO5p4085c"
+        },
+        {
+          "name": "Romi",
+          "url": "https://open.spotify.com/artist/5kZWwJkGR6YrQt0xh3W3Vo"
+        },
+        {
+          "name": "Wavy The Creator",
+          "url": "https://open.spotify.com/artist/5kr136hLeeKJznp60ieWdC"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 140869,
+      "name": "Kolobi",
       "url": "https://open.spotify.com/track/40zaQry0n2pojzkdwQo778"
     },
     {
@@ -531,22 +547,6 @@
       "duration_ms": 130560,
       "name": "Do It",
       "url": "https://open.spotify.com/track/3uO3UMFIUbjpjiUhMRL8iC"
-    },
-    {
-      "added_at": "2026-07-10 00:01:24",
-      "album": {
-        "name": "The Real Me",
-        "url": "https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "Fukk A Interview",
-      "url": "https://open.spotify.com/track/7EOgQuWYzWIgCfe5zEe1dl"
     },
     {
       "added_at": "2026-07-10 00:01:24",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-07-10 00:01:24",
       "album": {
+        "name": "All 2 Myself",
+        "url": "https://open.spotify.com/album/56YPvP5zhC3xkrfA3tyUQ0"
+      },
+      "artists": [
+        {
+          "name": "Miiles44",
+          "url": "https://open.spotify.com/artist/0qMcSjYZVHwlz9c8llOKvZ"
+        }
+      ],
+      "duration_ms": 98078,
+      "name": "All 2 Myself",
+      "url": "https://open.spotify.com/track/1ATosP7EtfDwYpGnyFCPLp"
+    },
+    {
+      "added_at": "2026-07-10 00:01:24",
+      "album": {
         "name": "erc20",
         "url": "https://open.spotify.com/album/2STB9YEuVlrFgowHI59J4i"
       },
@@ -1000,8 +1016,8 @@
           "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 242787,
+      "name": "THE LIVING LIGHT",
       "url": "https://open.spotify.com/track/6YTO8NQvqaTXUOiycutghC"
     },
     {
@@ -1019,6 +1035,22 @@
       "duration_ms": 182474,
       "name": "One Sided",
       "url": "https://open.spotify.com/track/04Z06rmw8BMSBahqr3KvS4"
+    },
+    {
+      "added_at": "2026-07-10 00:01:24",
+      "album": {
+        "name": "On Your Time (Hold You Like It's Ice Cold)",
+        "url": "https://open.spotify.com/album/3xD5u6AttDKey4PXrfKm9i"
+      },
+      "artists": [
+        {
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "On Your Time (Hold You Like It's Ice Cold)",
+      "url": "https://open.spotify.com/track/4ZNfNWylpQtGsq3ALDUlnm"
     },
     {
       "added_at": "2026-07-10 00:01:24",

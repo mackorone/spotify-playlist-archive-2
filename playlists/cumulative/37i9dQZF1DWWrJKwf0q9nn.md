@@ -4,7 +4,7 @@
 
 > Wekelijkse update! Cover: Kris Kross Amsterdam, Luisa Sonza & Willy William
 
-1,301 songs - 2 day 18 hr 22 min
+1,302 songs - 2 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [Higher When I Rise](https://open.spotify.com/track/45vv0ZVpJ8sCh08YQtRQlT) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Higher When I Rise](https://open.spotify.com/album/4mZreqlCfU6i3c7MPzwaeA) | 3:15 | 2026-04-09 | 2026-04-17 |
 | [Hijack](https://open.spotify.com/track/4fc9Y3MQAZPfMYn5eQcLhm) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC) | [Hijack](https://open.spotify.com/album/0VGNgLP2tVS4UY1Mv6H4gD) | 2:31 | 2026-03-19 | 2026-04-24 |
 | [Hold Me In Heaven](https://open.spotify.com/track/5EXprmPJtnGKgfIT8bejLV) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Hold Me In Heaven](https://open.spotify.com/album/2ZyeSOegRloityIr5TMo0b) | 3:12 | 2026-05-07 | 2026-05-15 |
+| [Hold My Breath](https://open.spotify.com/track/4FOdgYVV5xaMjY0NCZoFEu) | [Albi](https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Hold My Breath](https://open.spotify.com/album/540DKCihQemJiYBN9AFi4m) | 2:20 | 2026-07-09 |  |
 | [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 | 2025-08-04 | 2025-09-19 |
 | [Hold On](https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Hold On](https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv) | 3:24 | 2025-10-23 | 2025-11-28 |
 | [Hold On \(feat\. EVIE\)](https://open.spotify.com/track/2RvQ3rzIbzN3OOwefRothl) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [EVIE](https://open.spotify.com/artist/2NLyAz11eTmhTyaj39KLGo) | [Hold On \(feat\. EVIE\)](https://open.spotify.com/album/4cf08XQ3LKfQcjBq6YSUj4) | 3:22 | 2025-10-31 | 2025-11-28 |

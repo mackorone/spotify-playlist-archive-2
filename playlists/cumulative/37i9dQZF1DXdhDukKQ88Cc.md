@@ -2,9 +2,9 @@
 
 ### [rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> kun det nyeste danske rap 👀 ZUUZ på cover
+> kun det nyeste danske rap 👀 Carmon & Jamaika på cover
 
-586 songs - 1 day 1 hr 6 min
+588 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [gossip](https://open.spotify.com/track/7xJEerUJU59Qr0OD2SMo5I) | [madsemil](https://open.spotify.com/artist/4gD8XuLJ3JfZXjxwK5b34u) | [gossip](https://open.spotify.com/album/1lGaCN7SRImdRZa68qvIHQ) | 2:33 | 2026-05-14 | 2026-05-22 |
 | [Graffiti](https://open.spotify.com/track/2KpulNb5RWB2flro8HYm3K) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [Graffiti](https://open.spotify.com/album/01aGurolrsjwZJbQ6V7KuH) | 2:13 | 2024-01-18 | 2024-02-23 |
 | [Grim Verden](https://open.spotify.com/track/6AIAWHWftd6fwVd9wbwPkv) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Grim Verden](https://open.spotify.com/album/50oFS5rbWDpPodUYOV3Ewv) | 3:45 | 2024-04-18 | 2024-04-26 |
+| [GTA](https://open.spotify.com/track/7Ko1EvgCUKZJXaCQJYzJ6v) | [Wesmo](https://open.spotify.com/artist/6igw5k1b1JrNyj4E3rZVm3) | [GTA](https://open.spotify.com/album/3HlrKgIBuuMnHn7GwmuSjM) | 2:31 | 2026-07-10 |  |
 | [Guld](https://open.spotify.com/track/11etqbG118JJvJGMS5Rtv7) | [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i) | [OG SÅ VIDERE](https://open.spotify.com/album/5eltcb1nCUUS5xeCyrsQV3) | 3:13 | 2024-03-08 | 2024-04-05 |
 | [Gynger](https://open.spotify.com/track/7AhBe8AbklsfzpM1XM6UAn) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Gynger](https://open.spotify.com/album/3lM6gpWLQlZjT8WxjhMXzn) | 2:28 | 2025-04-17 | 2025-05-09 |
 | [Gøre Det Igen](https://open.spotify.com/track/1BOgF6FLheiCR5YLnkd36w) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Gøre Det Igen](https://open.spotify.com/album/6ycmMHSu86WJzuFIdslzTL) | 2:37 | 2025-04-10 | 2025-05-31 |
@@ -583,6 +584,7 @@
 | [winwin](https://open.spotify.com/track/3luzLKFxbRZbz1Tbz7UMNF) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [winwin](https://open.spotify.com/album/7j8TjCjwYdrv8x1YBdxbcU) | 2:43 | 2024-01-25 | 2024-10-04 |
 | [Woodstock](https://open.spotify.com/track/5H9t67ui38cdTPo5ZURc1w) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Woodstock](https://open.spotify.com/album/7ykBwGuz9mSCR2BNRao9xl) | 2:55 | 2025-08-14 | 2026-04-10 |
 | [Workin](https://open.spotify.com/track/7APPYAtxoPeYqe7894cwQ8) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Workin](https://open.spotify.com/album/6H7EllX7zXYPPgpntMDJo2) | 2:30 | 2025-10-23 | 2026-04-10 |
+| [WORKIN'](https://open.spotify.com/track/62qFtLxFEWDxz9JilEyoYv) | [dB](https://open.spotify.com/artist/5nospQluEmA57wvulbbV9N), [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH) | [WORKIN'](https://open.spotify.com/album/49SwRiM8737kaO3BBExd3s) | 2:03 | 2026-07-10 |  |
 | [X](https://open.spotify.com/track/7j5VquF3X1W8Z9eAj4vRtX) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [X](https://open.spotify.com/album/2VnRS1preGdKgWCqZYQ7lP) | 2:03 | 2025-03-27 | 2025-04-18 |
 | [XL\-BYG](https://open.spotify.com/track/1AYTzhKxjsOSqaZz9m8TZk) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [XL\-BYG](https://open.spotify.com/album/32Ev2loIcvWsph87jlExk0) | 2:22 | 2025-10-30 | 2026-04-10 |
 | [xoxo \(feat\. ICEKIID\)](https://open.spotify.com/track/1QYu15XcUvIzbniUykHudF) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [nu hvor vi er her](https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc) | 3:01 | 2023-09-21 | 2024-01-19 |

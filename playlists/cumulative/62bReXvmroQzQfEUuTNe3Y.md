@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-579 songs - 1 day 7 hr 45 min
+581 songs - 1 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [I Got Summer On My Mind](https://open.spotify.com/track/6HJiKaPc4LYPczBFGSMBFs) | [Jay Dunham](https://open.spotify.com/artist/4JWZwoacJTvnATTK9BUE34) | [I Got Summer On My Mind](https://open.spotify.com/album/1yVct2QPNbEAwI4kljQiOF) | 3:08 | 2022-07-29 | 2022-11-12 |
 | [I Know](https://open.spotify.com/track/4Jc3WtzfV23qCZCKwWlNlh) | [Fabian Luttenberger](https://open.spotify.com/artist/00A9Xt6NyGD5bldz9OnCbe) | [I Know](https://open.spotify.com/album/4nVBPAoafbfkbcXrhWAuDJ) | 5:03 | 2020-09-13\* | 2021-03-06 |
 | [I Loved U](https://open.spotify.com/track/35q7X4tARttH2r0ByoJOJt) | [Gvonni](https://open.spotify.com/artist/14jz3w0nEENe6ewnpSqRvf) | [I Loved U](https://open.spotify.com/album/05uqHTZrNWNrd2dodUUdf5) | 2:24 | 2021-04-24 | 2021-11-11 |
+| [i saw you](https://open.spotify.com/track/0T6rwk7R4uMyUfdXLVxudj) | [kalm](https://open.spotify.com/artist/0caSrZsazREwoaF8jFj1XM) | [i saw you](https://open.spotify.com/album/3xQlUsogQBCY4lIPZGP6AX) | 2:22 | 2026-07-10 |  |
 | [i think i'm addicted](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [i think i'm addicted](https://open.spotify.com/album/6zUJXKpWJGuzb2LrB7t7hG) | 2:38 | 2026-01-05 |  |
 | [I'd Rather Be Alone](https://open.spotify.com/track/3e3NPloQESLLcs1ftn04AV) | [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2), [EDGR](https://open.spotify.com/artist/0WMuIwO9iaJZagSAdO5wuV) | [Memories](https://open.spotify.com/album/7zIefy2Zq120nQGMpi11xT) | 3:38 | 2024-02-16 | 2024-02-24 |
 | [I'll Be Around](https://open.spotify.com/track/1Swh2Td4N7mpMG9xyG09gA) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [I'll Be Around](https://open.spotify.com/album/6z0mzroQzquz0gPkPwLAx5) | 3:48 | 2023-01-20 | 2023-04-01 |
@@ -497,6 +498,7 @@
 | [The Chase](https://open.spotify.com/track/0SANWT6WZgajOViFe0EkCO) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Last Dance, Pt 2](https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov) | 3:13 | 2024-12-06 | 2025-07-31 |
 | [The Chase \- Rebūke Remix](https://open.spotify.com/track/2cwfGkfp1XWdfCuPcMjWnK) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [The Chase \(Rebūke Remix\)](https://open.spotify.com/album/28uhTIgM1VgRPfRPoCMtqu) | 3:08 | 2024-07-26 | 2024-09-21 |
 | [The Darkside](https://open.spotify.com/track/5xan7XL4YNpsAOL7LhXUPb) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [The Darkside](https://open.spotify.com/album/3cBZZRepesMW2Umf7NrZGJ) | 2:44 | 2023-02-17 | 2024-02-24 |
+| [the grey](https://open.spotify.com/track/7pSsLajQC1EYOnKuzndAaB) | [kalm](https://open.spotify.com/artist/0caSrZsazREwoaF8jFj1XM) | [i saw you](https://open.spotify.com/album/3xQlUsogQBCY4lIPZGP6AX) | 2:13 | 2026-07-10 |  |
 | [the morning](https://open.spotify.com/track/3Hz9J3MMt7o8mdLDjEykeO) | [kalm](https://open.spotify.com/artist/0caSrZsazREwoaF8jFj1XM) | [the morning](https://open.spotify.com/album/3scCR0jhVdKOVq5gcjtKzA) | 2:19 | 2025-12-05 |  |
 | [The Otherside](https://open.spotify.com/track/6dVaPIowc4SX9Qm3Zj2KQq) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [The Otherside](https://open.spotify.com/album/5UesfEmQZ72n3jin1LgegB) | 3:34 | 2022-03-18 |  |
 | [The Way It Goes](https://open.spotify.com/track/0koayp1WcjhQjN5kS5JxoE) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Smiling Through The Pain](https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW) | 3:04 | 2025-07-30 |  |

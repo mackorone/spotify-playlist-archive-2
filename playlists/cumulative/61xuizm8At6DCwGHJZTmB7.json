@@ -6995,6 +6995,28 @@
     },
     {
       "album": {
+        "name": "Oh My Soul + I Know A Name",
+        "url": "https://open.spotify.com/album/7oqCcj5CucrhmdGA3AuXbb"
+      },
+      "artists": [
+        {
+          "name": "Canaan Baca",
+          "url": "https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q"
+        },
+        {
+          "name": "Bella Taylor Smith",
+          "url": "https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358738,
+      "name": "I Know A Name",
+      "url": "https://open.spotify.com/track/2e2vGUvAbGTpw5mvU1whWb"
+    },
+    {
+      "album": {
         "name": "I Know That I Know (Live)",
         "url": "https://open.spotify.com/album/4H5BjT8TcWnUjHvppL3Fb5"
       },

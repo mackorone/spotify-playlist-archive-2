@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, pra voc\u00ea garimpar lan\u00e7amentos. Foto: Brocasito, Abbot, BGK",
+  "description": "O Trap brasileiro puro ouro, pra voc\u00ea garimpar lan\u00e7amentos. Foto: KayBlack",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -6114,7 +6114,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 126449,
       "name": "Blindado",
       "url": "https://open.spotify.com/track/4Hcw0S0bFvUvSjHldNlmMr"
@@ -9796,6 +9796,40 @@
       "duration_ms": 132786,
       "name": "Como Q Pode",
       "url": "https://open.spotify.com/track/6Ct1t7wqZR9cdwfMNIKmjN"
+    },
+    {
+      "album": {
+        "name": "Dualidades",
+        "url": "https://open.spotify.com/album/2LbwD4PbOjUtuLxlM2SgAW"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175229,
+      "name": "Como Se Nada Tivesse Acontecido",
+      "url": "https://open.spotify.com/track/6Bx3aWW86P4GNqtBmsANF4"
     },
     {
       "album": {
@@ -23885,6 +23919,32 @@
     },
     {
       "album": {
+        "name": "KYLIE",
+        "url": "https://open.spotify.com/album/1istqS5u2OpbnCdsBCS24S"
+      },
+      "artists": [
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Ferreira",
+          "url": "https://open.spotify.com/artist/5LPrt6Yb6PnetV8iQuVe2J"
+        },
+        {
+          "name": "NAVII",
+          "url": "https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151836,
+      "name": "KYLIE",
+      "url": "https://open.spotify.com/track/3gYanSuYtVG93Rq3pVQOyM"
+    },
+    {
+      "album": {
         "name": "Kylie",
         "url": "https://open.spotify.com/album/40g7jtWID93Fya0JsoPAa7"
       },
@@ -28666,6 +28726,28 @@
       "duration_ms": 172812,
       "name": "Miami Vice",
       "url": "https://open.spotify.com/track/4IAUpSJ65723cWLvn6whp1"
+    },
+    {
+      "album": {
+        "name": "MIB under #8",
+        "url": "https://open.spotify.com/album/3VUCpii2zC4qKpgz4Lxfgi"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "MIB",
+          "url": "https://open.spotify.com/artist/4xosFqu0sMEWvyR5Ye567q"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "MIB under #8",
+      "url": "https://open.spotify.com/track/3hgLfLZS5iXRyg3V860lsF"
     },
     {
       "album": {
@@ -38410,7 +38492,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 124662,
       "name": "PR\u00caMIO MULTISHOW",
       "url": "https://open.spotify.com/track/6yMwEg04MIcrJpcokK75yI"
@@ -50738,7 +50820,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 166285,
       "name": "WARZONE",
       "url": "https://open.spotify.com/track/6hdttnSKaHJHAb4ohCl19b"

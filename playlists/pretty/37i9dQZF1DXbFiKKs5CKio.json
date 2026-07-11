@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 72965,
+  "num_followers": 72971,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANHjs8XM47X54miMeu++2CxumG/6",
+  "snapshot_id": "AAAAAG29EG/SZZvl0Wo5dUCrkd3Rwg7y",
   "tracks": [
     {
       "added_at": "2026-07-02 21:50:11",
@@ -31,22 +31,6 @@
     {
       "added_at": "2026-07-02 21:50:11",
       "album": {
-        "name": "Rosa Maria",
-        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 232390,
-      "name": "Rosa Maria",
-      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
-    },
-    {
-      "added_at": "2026-07-02 21:50:11",
-      "album": {
         "name": "TENTAR DE NOVO",
         "url": "https://open.spotify.com/album/67b4a9HNZelF5QRmOjF6vM"
       },
@@ -67,6 +51,22 @@
       "duration_ms": 134249,
       "name": "TENTAR DE NOVO",
       "url": "https://open.spotify.com/track/055Lxzpk9MFO8HsKpKFjjv"
+    },
+    {
+      "added_at": "2026-07-02 21:50:11",
+      "album": {
+        "name": "Rosa Maria",
+        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 232390,
+      "name": "Rosa Maria",
+      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
     },
     {
       "added_at": "2026-07-02 21:50:11",
@@ -111,22 +111,34 @@
     {
       "added_at": "2026-07-02 21:50:11",
       "album": {
-        "name": "Slap Sessions: Melly (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4IOY6NKMG3itD8WIW8rpgn"
+        "name": "Ainda \u00e9 pouco",
+        "url": "https://open.spotify.com/album/1m2nWpGkENRy7whHk6REol"
       },
       "artists": [
         {
-          "name": "Slap",
-          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
-        },
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        }
+      ],
+      "duration_ms": 174377,
+      "name": "Ainda \u00e9 pouco",
+      "url": "https://open.spotify.com/track/6AGC7ecYM61Mbpw3g9akOB"
+    },
+    {
+      "added_at": "2026-07-02 21:50:11",
+      "album": {
+        "name": "Amar\u00edssima",
+        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
+      },
+      "artists": [
         {
           "name": "Melly",
           "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
         }
       ],
-      "duration_ms": 166800,
-      "name": "Eternamente",
-      "url": "https://open.spotify.com/track/3Ez01JZkWXupNqWLBwhGme"
+      "duration_ms": 178548,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
     },
     {
       "added_at": "2026-07-02 21:50:11",
@@ -143,22 +155,6 @@
       "duration_ms": 178352,
       "name": "Amor da Minha Vida",
       "url": "https://open.spotify.com/track/1cbLFYmad56AWDBu6HNIW0"
-    },
-    {
-      "added_at": "2026-07-02 21:50:11",
-      "album": {
-        "name": "Ainda \u00e9 pouco",
-        "url": "https://open.spotify.com/album/1m2nWpGkENRy7whHk6REol"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        }
-      ],
-      "duration_ms": 174377,
-      "name": "Ainda \u00e9 pouco",
-      "url": "https://open.spotify.com/track/6AGC7ecYM61Mbpw3g9akOB"
     },
     {
       "added_at": "2026-07-02 21:50:11",
@@ -191,18 +187,22 @@
     {
       "added_at": "2026-07-02 21:50:11",
       "album": {
-        "name": "Amar\u00edssima",
-        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
+        "name": "Slap Sessions: Melly (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4IOY6NKMG3itD8WIW8rpgn"
       },
       "artists": [
+        {
+          "name": "Slap",
+          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
+        },
         {
           "name": "Melly",
           "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
         }
       ],
-      "duration_ms": 178548,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
+      "duration_ms": 166800,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/3Ez01JZkWXupNqWLBwhGme"
     },
     {
       "added_at": "2026-07-02 21:50:11",
@@ -243,26 +243,6 @@
     {
       "added_at": "2026-07-02 21:50:11",
       "album": {
-        "name": "Fiquei assim",
-        "url": "https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 218662,
-      "name": "Fiquei assim",
-      "url": "https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz"
-    },
-    {
-      "added_at": "2026-07-02 21:50:11",
-      "album": {
         "name": "Dissolu\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 179586,
       "name": "Compartilhando o c\u00e9u",
       "url": "https://open.spotify.com/track/79o4A5fUPdeniOCFNIb4Ag"
+    },
+    {
+      "added_at": "2026-07-02 21:50:11",
+      "album": {
+        "name": "Fiquei assim",
+        "url": "https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 218662,
+      "name": "Fiquei assim",
+      "url": "https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz"
     },
     {
       "added_at": "2026-07-02 21:50:11",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-07-02 21:50:11",
       "album": {
-        "name": "MOMENTUM",
-        "url": "https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx"
-      },
-      "artists": [
-        {
-          "name": "Trivia",
-          "url": "https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g"
-        }
-      ],
-      "duration_ms": 220728,
-      "name": "Fim\u2026",
-      "url": "https://open.spotify.com/track/44AB55f9QlY6BLwtjNJ6FS"
-    },
-    {
-      "added_at": "2026-07-02 21:50:11",
-      "album": {
         "name": "Love Songs, Vol. I",
         "url": "https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 139200,
       "name": "me chama de sua",
       "url": "https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB"
+    },
+    {
+      "added_at": "2026-07-02 21:50:11",
+      "album": {
+        "name": "MOMENTUM",
+        "url": "https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx"
+      },
+      "artists": [
+        {
+          "name": "Trivia",
+          "url": "https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g"
+        }
+      ],
+      "duration_ms": 220728,
+      "name": "Fim\u2026",
+      "url": "https://open.spotify.com/track/44AB55f9QlY6BLwtjNJ6FS"
     },
     {
       "added_at": "2026-07-02 21:50:11",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-07-02 21:50:11",
       "album": {
-        "name": "Passageiro do Bem - LADO B",
-        "url": "https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ"
-      },
-      "artists": [
-        {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "Voc\u00ea Merece",
-      "url": "https://open.spotify.com/track/4wypZLE0UkTScBWmjhnNBm"
-    },
-    {
-      "added_at": "2026-07-02 21:50:11",
-      "album": {
         "name": "(Des)conectar",
         "url": "https://open.spotify.com/album/57phCII157BEvM0camoMvd"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 200217,
       "name": "(Des)conectar",
       "url": "https://open.spotify.com/track/5TxpANIiDUqlJamIHZcO31"
+    },
+    {
+      "added_at": "2026-07-02 21:50:11",
+      "album": {
+        "name": "Passageiro do Bem - LADO B",
+        "url": "https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ"
+      },
+      "artists": [
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Voc\u00ea Merece",
+      "url": "https://open.spotify.com/track/4wypZLE0UkTScBWmjhnNBm"
     },
     {
       "added_at": "2026-07-02 21:50:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > 6 🤷 7 \- Madame in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,325 likes - 95 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,302 likes - 95 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 39 | [Ricordi \(con Elisa\)](https://open.spotify.com/track/1FiQPrDtOkxBMuNYsJSPmW) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Ma'](https://open.spotify.com/album/2dSL2X3K3YoVwaKty2JYcE) | 4:37 |
 | 40 | [Macumba](https://open.spotify.com/track/5m9jMcwLirowKEU21jJysM) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Macumba](https://open.spotify.com/album/175VFqji1RiCTtE862gb6H) | 3:08 |
 | 41 | [Casa In Fiamme](https://open.spotify.com/track/0XQvtQJR0I5fjDUGswzwZU) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [Casa In Fiamme](https://open.spotify.com/album/5jgyApMVKqjoCQaOuQDd34) | 3:00 |
-| 42 | [Rompicapo](https://open.spotify.com/track/2Skm5Ula5AthztR1L91hk8) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [Rompicapo](https://open.spotify.com/album/28ZZGd2xZpTYPHrDIcViYU) | 2:52 |
+| 42 | [ROMPICAPO](https://open.spotify.com/track/2Skm5Ula5AthztR1L91hk8) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [ROMPICAPO](https://open.spotify.com/album/28ZZGd2xZpTYPHrDIcViYU) | 2:52 |
 | 43 | [Sombrero \- NETTUNO](https://open.spotify.com/track/27NEGynjXRHsgvagoKOdvF) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Sombrero \- NETTUNO](https://open.spotify.com/album/5GK6ipFZc8nji75p2QWxky) | 2:39 |
 | 44 | [Stranamore](https://open.spotify.com/track/0Oh0MvuU2uZhB8Vb3CwmmJ) | [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA), [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [Stranamore](https://open.spotify.com/album/5k87tkbPKfhRufPG2vt94H) | 2:43 |
 | 45 | [Sto con Ferro](https://open.spotify.com/track/0lwVEZ62c56bODYXkgouNa) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny), [Sonni Uno](https://open.spotify.com/artist/3IMvrBv5cuWJjb7GbwhMsq), [Zenit](https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN) | [Sto con Ferro](https://open.spotify.com/album/4Ig2RnwxZN9NTs1JXwrD8A) | 2:54 |

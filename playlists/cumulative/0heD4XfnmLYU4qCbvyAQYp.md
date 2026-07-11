@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-138 songs - 8 hr 55 min
+139 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Apolitico](https://open.spotify.com/track/1bBKdkkz0ohLg1ACo17kl7) | [Godiva Re\-Load](https://open.spotify.com/artist/0VnuZPYu7ZMmOeoc64q6GD) | [Apolitico / Io E Lady G](https://open.spotify.com/album/3hXH3LEE8bXIugvTFgsuqc) | 5:08 | 2025-12-07 | 2026-02-07 |
 | [Are We Dreaming?](https://open.spotify.com/track/0DeP3IiS666gBlTv6mT9NX) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Low Fidelity](https://open.spotify.com/album/6NYA18h0U4PtpFe5hOYNoE) | 2:49 | 2026-01-01 | 2026-02-07 |
 | [Ascent](https://open.spotify.com/track/07jLXJM0cPtkusSIsggBPx) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 2:39 | 2025-12-10 | 2026-02-07 |
+| [Bajo Llave](https://open.spotify.com/track/1hA0NMXvi3EkTCJgwzWmn8) | [Danel](https://open.spotify.com/artist/1IhKepzJXk7ZsHc0tyy4Fo) | [Ante Todo](https://open.spotify.com/album/0kLrbPrwRgbGmpbHHfYNpC) | 3:45 | 2026-07-10 |  |
 | [Ballerina's Dilemma](https://open.spotify.com/track/7LTciIxPjON8ttlOOI1Ue5) | [Jocelyn Stewart](https://open.spotify.com/artist/3ACUC6ruZ4IiXDpFDLZhXK), [Mike Hamilton](https://open.spotify.com/artist/1NImbJcYPrIMmEDpDSskX3) | [Our Little Lives](https://open.spotify.com/album/7mmmpaae8BEEBYMnGXkP7a) | 3:17 | 2026-05-14 |  |
 | [Be Right Here](https://open.spotify.com/track/5bb4mLHW4JaJjLB7z9Pu38) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Be Right Here](https://open.spotify.com/album/5jjjFyrWKTaATTx3P4UtHs) | 4:09 | 2025-11-12 | 2025-12-08 |
 | [Bea Tiene Una Risa Tan Especial](https://open.spotify.com/track/0cpEflaylHIzMmKy3DgjMj) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Bea Tiene Una Risa Tan Especial](https://open.spotify.com/album/0COY3QqIEM0exOOJTqanVc) | 4:10 | 2025-10-05 |  |

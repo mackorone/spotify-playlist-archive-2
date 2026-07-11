@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,280 songs - 3 day 2 hr 23 min
+1,284 songs - 3 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Aloha wau iā ʻoe](https://open.spotify.com/track/4QCsOjVip08VY94h6mOiry) | [DJ Kosho](https://open.spotify.com/artist/4v0mYxAmKlG7pDYuiUfm87) | [Aloha wau iā ʻoe](https://open.spotify.com/album/5Hj7C1hSX8R3ehZcSlpSDt) | 4:12 | 2026-01-07 | 2026-02-03 |
 | [Alone Time](https://open.spotify.com/track/6IiYq1kRLnP1NyIEmsQWOg) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Coda](https://open.spotify.com/album/0zE11JuqyTk2HdGeyhIGHZ) | 2:16 | 2026-02-06 | 2026-03-25 |
 | [Alquimia Ancestral](https://open.spotify.com/track/1cMmRFXNiIhON1TfyTxAMt) | [Lucas Prospero](https://open.spotify.com/artist/2KqlV9bFYcA3KtqxJLSIvf) | [Alquimia Ancestral](https://open.spotify.com/album/0Mi0CLyGKcgYm7XCXLzgkA) | 2:55 | 2025-12-19 | 2026-01-15 |
+| [Always Too Short](https://open.spotify.com/track/6NshlTSKsI7BDQszwZv1s0) | [GINSHER](https://open.spotify.com/artist/4JjoAxWIfPKrhuRZwGvOPS) | [Always Too Short](https://open.spotify.com/album/3gYgRoI2j1Ppz7qAPl6khA) | 3:40 | 2026-07-10 |  |
 | [Alwida](https://open.spotify.com/track/1pip1R2XZVF6mq0SZiUlJH) | [Melodic Devesh](https://open.spotify.com/artist/2WAxrHRaxuJMtEHNF31qjr) | [Alwida](https://open.spotify.com/album/3uILzk0zDdni99ISE7Wi3N) | 4:05 | 2026-06-13 |  |
 | [Amores Verdadeiros](https://open.spotify.com/track/0KFjJCtRRslJdBjQITVRGp) | [Binho Rodrigues](https://open.spotify.com/artist/2Th24UXO0EXhREONi0KNkd) | [Amores Verdadeiros](https://open.spotify.com/album/3MGsphbmnz4m1lA9CGKRwf) | 2:19 | 2026-02-04 | 2026-03-07 |
 | [Amori inutili](https://open.spotify.com/track/5siNyqczRiqtJ0nboaUpNY) | [Tommaso Giusti](https://open.spotify.com/artist/45gWIaYD5ih9QCHoBxEy3a) | [Amori inutili](https://open.spotify.com/album/5P6RxvlC9MP9nwo0BpBD12) | 3:18 | 2026-05-25 | 2026-07-03 |
@@ -179,6 +180,7 @@
 | [Chamberlain](https://open.spotify.com/track/6RzVj1GlldWzLeNvmpsaPL) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Chamberlain](https://open.spotify.com/album/5wbDeuswW2DxwN5IL3GTrV) | 3:01 | 2026-05-24 | 2026-07-03 |
 | [Chameleon](https://open.spotify.com/track/0854rJz7ZGPmB3MLFjnUix) | [Othy k](https://open.spotify.com/artist/3GeCRJaGrkzdNO0deIDPlv) | [Chameleon](https://open.spotify.com/album/5eh3fy6t871p8EIDxcMf4a) | 3:34 | 2025-12-04 | 2026-01-05 |
 | [Chance It](https://open.spotify.com/track/2Zo3WV1uxQtpecOW90meze) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Chance It](https://open.spotify.com/album/4RRJetrxk1v6h5an2w83fH) | 2:56 | 2025-12-10 | 2026-01-05 |
+| [Charades](https://open.spotify.com/track/0Lqam62KIO2220P2lulsYJ) | [Max Cooper III](https://open.spotify.com/artist/5VwbADUdH8ryktypdkpX06) | [Charades](https://open.spotify.com/album/3Iv3MMwKQn1RiZEpQ7RsNB) | 3:22 | 2026-07-10 |  |
 | [Chasing The Wolf](https://open.spotify.com/track/5JlwkkUdSL94Mo6PQURSU9) | [A.C.C.](https://open.spotify.com/artist/60HIwZ2n7gFMDB77rLfAYH) | [Chasing The Wolf](https://open.spotify.com/album/3WbumANahke2nr9AMJsCzC) | 3:52 | 2025-10-02 | 2025-11-29 |
 | [Chemical](https://open.spotify.com/track/5XxXvHmjkXtJHqNykytLE1) | [JUMPP MUSIC](https://open.spotify.com/artist/6sopoAUpLIbZzRQ1bQtgoJ) | [Chemical](https://open.spotify.com/album/2dcxhcMzXkp4dWpmuInz06) | 3:15 | 2026-05-27 | 2026-07-03 |
 | [Cherry Wine](https://open.spotify.com/track/0bNsre3voeNutKYyhRpdiA) | [Ain't no Ducks](https://open.spotify.com/artist/6gpSt6r2hIoVRHzOcNxF6U) | [Cherry Wine](https://open.spotify.com/album/0VzEK8ziTsdwXszlm2QvDq) | 2:50 | 2026-06-29 |  |
@@ -902,6 +904,7 @@
 | [Run away](https://open.spotify.com/track/3MMWYNw86r00wkk7smvoM1) | [AILEX](https://open.spotify.com/artist/74xdDdsFQZWsje0e2840Y7) | [Run away](https://open.spotify.com/album/2rsLIZcRDk7G3B6UIEtt6M) | 2:48 | 2026-03-31 | 2026-05-03 |
 | [Runaway](https://open.spotify.com/track/40CRFRPniqwB7sbPlXPm9F) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Runaway](https://open.spotify.com/album/0zgAdhmtbSNkekdvpeeIEd) | 3:39 | 2025-12-15 | 2026-01-15 |
 | [Rusty Song](https://open.spotify.com/track/7hUeW0lgFIwJaXxbS8r9Wo) | [The meantime green](https://open.spotify.com/artist/03AuzDuKaTGM8tBZDtT90h) | [Rusty Song](https://open.spotify.com/album/79nI7doJ0LuujE6jrDJ4Id) | 3:27 | 2026-05-14 | 2026-07-03 |
+| [Rótulo](https://open.spotify.com/track/4F1QSRSGLiFmqKUZA2HOjR) | [Andre Santolin](https://open.spotify.com/artist/4nY8m3tltMGpIDJnKnLe8K), [Vanessa Louz](https://open.spotify.com/artist/4vUiVOcaAaHlwOWlNsWeXM) | [Rótulo](https://open.spotify.com/album/2QaYSsaNuZTTKxxoxTrBsg) | 4:34 | 2026-07-10 |  |
 | [Saajna](https://open.spotify.com/track/2f9yKZiCmnGKgtkmsT67yP) | [Niswarth](https://open.spotify.com/artist/65dQV1yW3OrsEcy0O1b0S5), [Pradhumn Rajput](https://open.spotify.com/artist/2INevekE5kePA1zEWUXuih) | [Saajna](https://open.spotify.com/album/5VTsL2MF0q4Mjfvd7pV1Kx) | 4:00 | 2026-01-14 | 2026-02-20 |
 | [Sabor a Café](https://open.spotify.com/track/0EVejdb25HjSn1MEi9N8sw) | [Samuel Calderón](https://open.spotify.com/artist/6VFOsXn6LfGB6MMdQzvs4l) | [Problema Favorito](https://open.spotify.com/album/0NJKShNiu4WU6Iqxl9R6Ww) | 3:24 | 2025-12-15 | 2026-01-15 |
 | [Sai mondo l'ho capito](https://open.spotify.com/track/7IUdrwykrrNMjk68kaRzZm) | [kreio](https://open.spotify.com/artist/3kRclwJ3uJqLsAYwLLjcZK) | [Sai mondo l'ho capito](https://open.spotify.com/album/5V4C0WT4qhZfFAJnI1AOzK) | 3:17 | 2026-03-09 | 2026-04-12 |
@@ -1192,6 +1195,7 @@
 | [Visitantes](https://open.spotify.com/track/6MyaVhVyLkh6GfUUu7cts5) | [Julian Kancepolski](https://open.spotify.com/artist/6DDqxjhbPR5KUwZ6TomVYE) | [Estantes](https://open.spotify.com/album/4NUa8r6wjIix0KCQZpvQtn) | 3:10 | 2026-02-05 | 2026-03-07 |
 | [Vivo e rinasco](https://open.spotify.com/track/10dVUOSkQQlpGNOXM8TIkU) | [Sabrina Cor](https://open.spotify.com/artist/30LQQ8lsO1RO4N3GzzDudl) | [Vivo e rinasco](https://open.spotify.com/album/2Jhdimc5VsOJduGqYfeVmB) | 2:57 | 2026-03-20 | 2026-04-22 |
 | [Vochinch \(Ոչինչ\)](https://open.spotify.com/track/2ydFQDTK56qpH24cWrQmaK) | [SHANT](https://open.spotify.com/artist/1UBy0HrtNVoS1FcAnngrx0) | [Vochinch \(Ոչինչ\)](https://open.spotify.com/album/0M3VuTB8B9d7KCVxVK8RVE) | 4:07 | 2026-06-16 |  |
+| [Voice Inside Your Head](https://open.spotify.com/track/6KOuuIdVpJgLFjlu73P6fQ) | [Harlem Night](https://open.spotify.com/artist/5eEP76MIZe73OshBV05bNd) | [Voice Inside Your Head](https://open.spotify.com/album/77YnVpsKX8NXAa5YlLnwDf) | 2:40 | 2026-07-10 |  |
 | [Voices](https://open.spotify.com/track/5zV93GRdQUXmqWWXW5HCz2) | [Pseudo the Beatguy](https://open.spotify.com/artist/2Dzm6zujQAWKyV9X1T8N1f), [Julia A](https://open.spotify.com/artist/4UuZOWk0ZQuRTtCyj1PgIe) | [Vin\-tagé](https://open.spotify.com/album/6sdhZZcUOqSVsZZKoLnHEC) | 4:38 | 2026-03-22 | 2026-05-03 |
 | [Voler de nos propres ailes](https://open.spotify.com/track/1G6Iz4X61rsBlYfdUjWYCx) | [Eric Hartereau](https://open.spotify.com/artist/05AKy1V7dOPuFuzLZHRtu7) | [Voler](https://open.spotify.com/album/4AZUeXfb2Z4PpMQMjDy9e1) | 5:44 | 2026-07-06 |  |
 | [Volevo Essere Un Duro](https://open.spotify.com/track/0ys9Y9jiKL99HJtJjhZqjM) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Volevo Essere Un Duro](https://open.spotify.com/album/4kJhiE1uP9r78mRJtiJ3cD) | 3:07 | 2025-12-29 | 2026-01-24 |

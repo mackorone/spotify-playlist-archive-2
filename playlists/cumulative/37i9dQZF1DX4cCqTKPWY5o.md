@@ -4,7 +4,7 @@
 
 > Move it and groove it to these great tunes!
 
-144 songs - 7 hr 11 min
+145 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [If You're Happy & You Know It \(TODDLER TECHNO\)](https://open.spotify.com/track/3Z31bfKlaANPwxRaMJgy92) | [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [Lenny's Toddler Techno \(Vol1\)](https://open.spotify.com/album/4iIfA12jhRw38vWhJdpJ4y) | 1:13 | 2025-03-14 |  |
 | [If You're Happy and You Know It](https://open.spotify.com/track/1CoEBzmNnIJlNRrgcGZ1Lz) | [Big Don](https://open.spotify.com/artist/5CgfMNQljRnqHeS8EZ54JT) | [Big Don's Brand New Beat](https://open.spotify.com/album/3p6hybEOJ67tTbLYUd2i2v) | 3:05 | 2022-03-31 |  |
 | [It's Raining Tacos Again](https://open.spotify.com/track/2gBSQCNsDZYwlsiZGvQXtT) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [The Raining Tacos Saga](https://open.spotify.com/album/3mEi6JvyJcLoPsOrPgIVyC) | 1:44 | 2025-01-27 |  |
-| [It's Stariana!](https://open.spotify.com/track/0mI8clBGy1IIVDctrLA9fP) | [The Cast of Baby Shark's Big Movie](https://open.spotify.com/artist/2qlOwH6ICaEw63LMC3bBVR), [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [It's Stariana!](https://open.spotify.com/album/5yhIJn35x1qpZVTdg4Mv4Q) | 0:43 | 2024-01-30 |  |
+| [It's Stariana!](https://open.spotify.com/track/0mI8clBGy1IIVDctrLA9fP) | [The Cast of Baby Shark's Big Movie](https://open.spotify.com/artist/2qlOwH6ICaEw63LMC3bBVR), [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [It's Stariana!](https://open.spotify.com/album/5yhIJn35x1qpZVTdg4Mv4Q) | 0:43 | 2024-01-30 | 2026-07-11 |
 | [It’s Alright \- From The Netflix Film My Little Pony: A New Generation](https://open.spotify.com/track/3pj8yw8GHt28TfX8RE2OaV) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [It's Alright \(From The Netflix Film My Little Pony: A New Generation\)](https://open.spotify.com/album/21gDAoF1n6uNZUIR6iDvC7) | 3:13 | 2022-03-31 |  |
 | [Jumping Jack](https://open.spotify.com/track/5Ua7nKxK8fbVl8qFmvbHPP) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Jumping Jack](https://open.spotify.com/album/4V6rcHJLaaSl6pVpo9cUyf) | 2:23 | 2022-03-31 |  |
 | [Just Sing](https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kenan Thompson](https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 3:41 | 2022-03-31 |  |
@@ -100,6 +100,7 @@
 | [Limbo Rock \- Party Mix](https://open.spotify.com/track/42vbEUpcyzVP4vDDdBmQZo) | [Limbo Rock Kids Party](https://open.spotify.com/artist/5Mtwfzsnnoui0egwH3OsKD) | [Limbo Rock Kids Party](https://open.spotify.com/album/0OE7ESqvOBNX1MHHkb0JeX) | 4:58 | 2022-03-31 |  |
 | [Macarena](https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:09 | 2022-03-31 |  |
 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/4JTJlhiVJKs3rFi22v66yZ) | [The Rock & Roll Playhouse](https://open.spotify.com/artist/22gB5FsgmeZI79hG1E5wal) | [Me and Julio Down by the Schoolyard](https://open.spotify.com/album/1wwygt8wXs4jrBQ0a93zdV) | 2:13 | 2025-07-20 |  |
+| [Midnight Sun](https://open.spotify.com/track/3K2sq4GzFkLFA3u0lhYWeR) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Midnight Sun](https://open.spotify.com/album/5nIgD5ISbeiUEtyDNsuHUc) | 3:03 | 2026-07-10 |  |
 | [Montero \(Call Me By Your Name\)](https://open.spotify.com/track/6Dpvk8uvQyrpyCiqG46E2d) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:16 | 2022-03-31 | 2022-11-13 |
 | [Move Your Feet](https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop the Beat](https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7) | 3:01 | 2023-06-02 | 2024-04-19 |
 | [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 | 2022-03-31 |  |

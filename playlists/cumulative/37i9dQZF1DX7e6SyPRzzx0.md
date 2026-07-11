@@ -4,7 +4,7 @@
 
 > The home of rage rap\. Cover: Playboi Carti
 
-221 songs - 9 hr 26 min
+222 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Cartoon Network](https://open.spotify.com/track/12V00GCnpzT8ghx0vTVbp4) | [Protect](https://open.spotify.com/artist/14Ah9L7Sei8VOOty0tZrOR) | [500 Days of Summer](https://open.spotify.com/album/5rT8y6Tt8WVu5UFoKK5WsT) | 2:40 | 2025-08-15 | 2025-12-13 |
 | [catastrophe](https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [catastrophe](https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd) | 2:10 | 2025-11-07 |  |
 | [Club Siberia](https://open.spotify.com/track/0ltPQEEW1aC1pKqt68DIqV) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Club Siberia](https://open.spotify.com/album/6PAjRoxVTG2dEdcnSnxTzl) | 2:22 | 2025-07-11 | 2025-12-13 |
-| [Codeine Shower \(feat\. Destroy Lonely\)](https://open.spotify.com/track/5zi2pjM0RAE35geLDPTpE8) | [ApolloRed1](https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Demon Heart Radio](https://open.spotify.com/album/2TUhJtMwtQE4fs1lxit9UB) | 1:59 | 2026-06-05 |  |
+| [Codeine Shower \(feat\. Destroy Lonely\)](https://open.spotify.com/track/5zi2pjM0RAE35geLDPTpE8) | [ApolloRed1](https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Demon Heart Radio](https://open.spotify.com/album/2TUhJtMwtQE4fs1lxit9UB) | 1:59 | 2026-06-05 | 2026-07-11 |
 | [COMË N GO](https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 3:18 | 2025-10-10 |  |
 | [CONTEST](https://open.spotify.com/track/7ydu79RLStYQTOi1OM6Dvg) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 4:32 | 2025-07-15 |  |
 | [COUNT MY BANDZ](https://open.spotify.com/track/2JSu5cKatilbxzLLwWcwrE) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [COUNT MY BANDZ](https://open.spotify.com/album/5IhBUU1UKUKXvsWOjU2WjW) | 2:03 | 2024-09-20 | 2025-10-11 |
@@ -89,6 +89,7 @@
 | [HI\-VOLTAGE](https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [HI\-VOLTAGE](https://open.spotify.com/album/07c7CJkXRPhZq1DQFe3ubf) | 1:58 | 2024-03-29 | 2024-06-01 |
 | [how u feel?](https://open.spotify.com/track/5BsigwhOMHxCkF6ntEhUQ5) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 3:53 | 2023-12-01 | 2024-04-27 |
 | [Hurting](https://open.spotify.com/track/0tWhCPNjhc9t64S17gE0hw) | [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [Hurting](https://open.spotify.com/album/2p7RhIT6IKHsHiJOIxgMB9) | 2:50 | 2026-02-06 | 2026-02-14 |
+| [i got taste](https://open.spotify.com/track/45oVmTltKMxvW5x0U3vS5l) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [AVANT NOVA](https://open.spotify.com/album/1VBKHNvJ4Ncn9QJYr9HLDv) | 2:22 | 2026-07-10 |  |
 | [i need meds](https://open.spotify.com/track/6JIHW3L3mW9z2RtMNe1nlr) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [i need meds](https://open.spotify.com/album/0h6LKZjMZDE2pOGYQaczrL) | 1:35 | 2025-08-08 | 2025-11-22 |
 | [i need u](https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [i need u](https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz) | 2:28 | 2023-12-01 | 2024-03-16 |
 | [I Rot, I Rot.](https://open.spotify.com/track/6S2Uwo1I2uwyDh7IUx23MM) | [che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Sayso Says](https://open.spotify.com/album/47geWD2PbTuFY3z1CNsEDU) | 1:59 | 2024-09-03 | 2024-12-07 |

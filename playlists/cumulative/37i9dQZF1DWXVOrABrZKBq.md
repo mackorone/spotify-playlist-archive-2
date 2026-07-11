@@ -2,9 +2,9 @@
 
 ### [Rap francophone](https://open.spotify.com/playlist/37i9dQZF1DWXVOrABrZKBq)
 
-> Les nouveautés rap franco sans frontières\. Photo: Leto, Rim'K
+> Les nouveautés rap franco sans frontières\. Photo: La Mano 1.9, Ninho
 
-676 songs - 1 day 8 hr 44 min
+680 songs - 1 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [b200](https://open.spotify.com/track/68dAZIVNsvBIqfGxdv8tos) | [Franz Keloh](https://open.spotify.com/artist/0QtshFoajFl0OOk8ZydKdO), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A) | [OPERATION85](https://open.spotify.com/album/3zzear2bK1CgFDUquphd23) | 2:44 | 2025-12-05 | 2026-01-17 |
 | [Bad](https://open.spotify.com/track/3bmHBHh990jX1pTANKDPoe) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:46 | 2023-06-30 | 2023-07-08 |
 | [Bad Boy](https://open.spotify.com/track/1lZ3lrfihYiq47ywSzu1ZX) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [Bad Boy](https://open.spotify.com/album/6r1x7Pf23XFHxBLsqLh6i9) | 2:05 | 2026-04-17 | 2026-05-16 |
+| [BADBIHFORTEKOMMIKASA](https://open.spotify.com/track/6TRatGrWsZtghDFaqgT56b) | [K!RA OJI](https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm) | [BADBIHFORTEKOMMIKASA](https://open.spotify.com/album/45n9mUWjqb9XIINadv7w7Z) | 1:56 | 2026-07-10 |  |
 | [Bah Ouais \- Nouvelle École](https://open.spotify.com/track/2PYMw8P6kuCHqhltz47XMr) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Nouvelle École \| Saison 3 \| La Finale \(Série Netflix\)](https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F) | 3:21 | 2024-07-26 | 2025-10-11 |
 | [BALLE DANS LE COEUR](https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D) | [Ikaz Boi](https://open.spotify.com/artist/1h0vYLWMAElSWYCjm6RBpe), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BRUT4L](https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC) | 2:40 | 2023-10-13 | 2024-07-13 |
 | [Ballon D'or](https://open.spotify.com/track/3zs1RJzrhgt0JsNsPopubX) | [Le Crime](https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Après La Vague](https://open.spotify.com/album/3EcOZjpLJXsdISZVDaeGFM) | 3:26 | 2025-10-24 | 2025-12-13 |
@@ -147,6 +148,7 @@
 | [Chrome Hearts](https://open.spotify.com/track/6OhaunEHa10FjmOMFuxy38) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 2:49 | 2023-03-03 | 2023-08-19 |
 | [CHROME HEARTS](https://open.spotify.com/track/4ZlaY8an3Sk87sW9m0mkil) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [Bundog](https://open.spotify.com/artist/4wL3ZswVcMUC6iNcvWklfO) | [CHROME HEARTS](https://open.spotify.com/album/24tSytQhrgseCAvSx2Gydo) | 3:16 | 2025-08-01 | 2025-10-11 |
 | [CHROMI](https://open.spotify.com/track/2jayHZIvrhTwLYXKZuBv3l) | [FRE5H](https://open.spotify.com/artist/3wHBt5vw5plrufZh1DdQVe) | [SOLARIA](https://open.spotify.com/album/5GGl1EIK37AbSyz3Gg0wCu) | 2:21 | 2026-06-19 | 2026-06-27 |
+| [CHÈVRE GOAT NTABA \- GRM x yard](https://open.spotify.com/track/16MJYG3Bcljvh1Qm8prgyq) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [CHÈVRE GOAT NTABA \(GRM x yard\)](https://open.spotify.com/album/5RrVVBQd9Jle9ym3nw9yb3) | 2:54 | 2026-07-10 |  |
 | [CHÉRIE COCO](https://open.spotify.com/track/3EffNWkk8hktq6psmhC3RR) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [CHÉRIE COCO](https://open.spotify.com/album/5i5r4A39FsatsEZEsuLxXK) | 2:47 | 2026-02-20 | 2026-05-16 |
 | [Ciao](https://open.spotify.com/track/7hGyQqjhVw2LbCr2oZ4rUS) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ciao](https://open.spotify.com/album/5gbcnNg4JK4qaR6BYtdUwv) | 3:36 | 2023-03-17 | 2024-03-02 |
 | [Cible](https://open.spotify.com/track/2ioQiGCxAtdH3hkbKyJnxC) | [DTM13z](https://open.spotify.com/artist/7itbQ8sHOumBWViOMj20u5) | [Cible](https://open.spotify.com/album/762fRyuio1SYwgpg2zjgEl) | 2:30 | 2025-10-24 | 2025-11-22 |
@@ -233,6 +235,7 @@
 | [Faites\-vous la guerre, je fais mes affaires...](https://open.spotify.com/track/52apmQhdvTfhW8giGnG7Jc) | [Fabe](https://open.spotify.com/artist/5Jh4UFOCWwleD3kcd88xyh), [Cutee B.](https://open.spotify.com/artist/5PTDGbHPxxXf81RrubpIOO), [Yellow Productions](https://open.spotify.com/artist/4i80vEqtmiE3CENhYDp8zm) | [A Finest Fusion of Black Tempo](https://open.spotify.com/album/2UJZaT8fUNcQ6kqtDD3Hlu) | 4:51 | 2025-12-05 | 2026-02-07 |
 | [FASTER](https://open.spotify.com/track/3oCMHzquSjSXN1Tmqa6LiT) | [Mandyspie](https://open.spotify.com/artist/1EKlBG4TgOac9aboMbphiM) | [FASTER](https://open.spotify.com/album/4beiqPRLNVCOYCBG8VAKfK) | 2:21 | 2026-02-06 | 2026-04-11 |
 | [Fausse note](https://open.spotify.com/track/7dUPnQNR1RydSLVtSwXPAK) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1) | [Fausse note](https://open.spotify.com/album/1Id54INX5wrzorVHkl9STm) | 2:36 | 2024-06-28 | 2025-09-26 |
+| [FBI](https://open.spotify.com/track/25LmqV3caGgXzyQqmCRYAz) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Play to Sky](https://open.spotify.com/artist/5s3gS6C41Im37sn8Lh1DzW) | [FBI](https://open.spotify.com/album/5yLNMwHht3aCEhDws0kWqB) | 3:07 | 2026-07-10 |  |
 | [FDT](https://open.spotify.com/track/1bLGJ2sbG6SWDzO3oRePSp) | [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [FDT](https://open.spotify.com/album/620W178thQwaizBX6AV3G9) | 2:02 | 2025-10-24 | 2025-11-15 |
 | [FENG SHUI](https://open.spotify.com/track/5ZHK4qZbm9JR1AZ8FeePna) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [FENG SHUI](https://open.spotify.com/album/3pJk3LGl7GsxDA7KhnUouv) | 2:40 | 2026-06-26 |  |
 | [Filature](https://open.spotify.com/track/5WYQmwTH0OtbOyyFsjUIby) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Hagra, Vol.1](https://open.spotify.com/album/4D4QUuwxoAe9qYpoqd4Zhn) | 2:25 | 2023-03-03 | 2023-03-18 |
@@ -635,6 +638,7 @@
 | [Tout prendre](https://open.spotify.com/track/5kU24jy5EGIXdWtLMpCjn2) | [NeS](https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9) | [Des pieds et des mains](https://open.spotify.com/album/5bx1CGjjFfQpIoOBAUjKps) | 1:49 | 2026-03-13 | 2026-05-30 |
 | [TOUT VA BIEN \(feat\. Ninho & Naps\)](https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:12 | 2023-03-03 | 2023-12-09 |
 | [TOUTE LA JOURNÉE \(feat\. Tiakola\)](https://open.spotify.com/track/2nD4X3sHH2kZ1gWraTpe7u) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [TOUTE LA JOURNÉE \(feat\. Tiakola\)](https://open.spotify.com/album/6oi3iBbHDDAaAzMoG0UbgE) | 2:48 | 2023-03-03 | 2023-07-01 |
+| [Toxic](https://open.spotify.com/track/0PzKXHZLlax3utLHSAAsiF) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Toxic](https://open.spotify.com/album/4S2OSc9WPy2QK6FabRqurE) | 2:44 | 2026-07-10 |  |
 | [TP](https://open.spotify.com/track/71BbAEWBJIaewEK5seMkCg) | [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [TP](https://open.spotify.com/album/6Mkan2lPAHIebVP04fQucL) | 2:58 | 2023-06-23 | 2024-02-03 |
 | [TRAHISON POUR DU PAPERS](https://open.spotify.com/track/386lC3S1fta3sRqXai233D) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [THUG CEREMONY](https://open.spotify.com/album/7HXLcrvfG2UXJcZFLdKfB5) | 2:29 | 2026-01-16 | 2026-03-21 |
 | [Tranchées](https://open.spotify.com/track/4ojWmrrprVbyVU2zc7lOqf) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Dieu Donne, J'utilise part.2](https://open.spotify.com/album/6vA5LeB2ybi78YZpqhg1yN) | 3:00 | 2026-03-27 | 2026-07-04 |

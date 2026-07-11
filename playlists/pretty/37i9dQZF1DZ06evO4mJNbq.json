@@ -1,12 +1,12 @@
 {
   "description": "This is Zolita. The essential tracks, all in one playlist.",
-  "num_followers": 3197,
+  "num_followers": 3198,
   "original_name": "This Is Zolita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak2TAAAAAAD/sEjljhIIVB4L0dN2kmtv",
+  "snapshot_id": "ak7kgAAAAABKQHpKKGEeTGZrqi3KJNJ5",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Best Ex of Your Life",
+        "url": "https://open.spotify.com/album/7HRxfQtn1QyngtjAyFeUzi"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Best Ex of Your Life",
+      "url": "https://open.spotify.com/track/2RhLKRJJq29Tvecbk63X4K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Queen of Hearts (Deluxe Edition)",
         "url": "https://open.spotify.com/album/78gqMA4jrmtgwb9O94ZgYh"
       },
@@ -155,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ashley",
-        "url": "https://open.spotify.com/album/1yPpGluI3skIgOBVxJtXPA"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 168813,
-      "name": "Ashley",
-      "url": "https://open.spotify.com/track/5iMUQTIxTGgbVItGIPAWbL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen of Hearts",
         "url": "https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk"
       },
@@ -183,6 +183,22 @@
       "duration_ms": 164000,
       "name": "All Girls Go to Heaven",
       "url": "https://open.spotify.com/track/7lm66m2dAZUVDH1a2w7iJ7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ashley",
+        "url": "https://open.spotify.com/album/1yPpGluI3skIgOBVxJtXPA"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 168813,
+      "name": "Ashley",
+      "url": "https://open.spotify.com/track/5iMUQTIxTGgbVItGIPAWbL"
     },
     {
       "added_at": null,
@@ -219,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sappho",
-        "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Fight Like A Girl",
-      "url": "https://open.spotify.com/track/5t1LF6dD7ZbdOaN6Tw1soD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen of Hearts",
         "url": "https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk"
       },
@@ -247,6 +247,22 @@
       "duration_ms": 211000,
       "name": "Bloodstream",
       "url": "https://open.spotify.com/track/0oPCvCDccyPM8kXHR2Wnn8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sappho",
+        "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Fight Like A Girl",
+      "url": "https://open.spotify.com/track/5t1LF6dD7ZbdOaN6Tw1soD"
     },
     {
       "added_at": null,
@@ -395,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Falling Out / Falling In",
-        "url": "https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "For the Both of Us",
-      "url": "https://open.spotify.com/track/0yOEI0VoPeo1vyWjUnglLw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bye Bye Baby",
         "url": "https://open.spotify.com/album/7johZg5HaYBD0zl3b6fDMk"
       },
@@ -423,6 +423,22 @@
       "duration_ms": 179666,
       "name": "Bye Bye Baby",
       "url": "https://open.spotify.com/track/4KQishDlTPsAJtih2MeETB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Falling Out / Falling In",
+        "url": "https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "For the Both of Us",
+      "url": "https://open.spotify.com/track/0yOEI0VoPeo1vyWjUnglLw"
     },
     {
       "added_at": null,
@@ -459,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Falling Out / Falling In",
-        "url": "https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "Drunk with Your Exes",
-      "url": "https://open.spotify.com/track/2EyKyp1GPK6xhJSoVi4WRk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sappho",
         "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
       },
@@ -487,6 +487,22 @@
       "duration_ms": 227882,
       "name": "Like Heaven",
       "url": "https://open.spotify.com/track/2ZmZ536Je4LyhwfkmvjozR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Falling Out / Falling In",
+        "url": "https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Drunk with Your Exes",
+      "url": "https://open.spotify.com/track/2EyKyp1GPK6xhJSoVi4WRk"
     },
     {
       "added_at": null,

@@ -166,7 +166,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 204956,
       "name": "212",
       "url": "https://open.spotify.com/track/7mDKRYiqejoHzP7dQGxLys"
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 185412,
       "name": "Between The Sheets (feat. Ray Robinson)",
       "url": "https://open.spotify.com/track/06bKoCM4yHMUpu0E0eNGjg"
@@ -3922,7 +3922,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 110221,
       "name": "EVIDENT 2 ME",
       "url": "https://open.spotify.com/track/0B9QzxPp0lKpcyp95YIOOu"
@@ -4811,6 +4811,24 @@
     },
     {
       "album": {
+        "name": "Mastiff : Pink Tiles",
+        "url": "https://open.spotify.com/album/3IoCwcwQulzAmXCKhRIXG2"
+      },
+      "artists": [
+        {
+          "name": "Lelo",
+          "url": "https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177235,
+      "name": "Get Geeked",
+      "url": "https://open.spotify.com/track/4KOZ15fafxk8bLFgH5zJD4"
+    },
+    {
+      "album": {
         "name": "Get Geeked",
         "url": "https://open.spotify.com/album/6RFyFR5JY3H2gnRbulcNzD"
       },
@@ -4932,6 +4950,24 @@
       "duration_ms": 164571,
       "name": "Ghetto & Ratchet - Remy Ma Remix",
       "url": "https://open.spotify.com/track/2Dw5BoAmPzp23Yy8mLmuYh"
+    },
+    {
+      "album": {
+        "name": "Rise Against My Broken Odds",
+        "url": "https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Ghetto Love Story",
+      "url": "https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa"
     },
     {
       "album": {
@@ -9308,7 +9344,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 191719,
       "name": "passport picture",
       "url": "https://open.spotify.com/track/786J186GBhQ9z0jJvH18Vu"
@@ -11247,6 +11283,24 @@
     },
     {
       "album": {
+        "name": "Destined For Greatness",
+        "url": "https://open.spotify.com/album/6qaLQcxVwjY0S7daZ3Qm1B"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153709,
+      "name": "Ski World",
+      "url": "https://open.spotify.com/track/5gHt9FCpPixF1S6M5Y5uki"
+    },
+    {
+      "album": {
         "name": "Sky High (with Anycia)",
         "url": "https://open.spotify.com/album/4otjgHYMnYgva7Oh2JSDX2"
       },
@@ -11846,6 +11900,32 @@
       "duration_ms": 201933,
       "name": "Strength (R U Ready) [feat. Joy Crookes]",
       "url": "https://open.spotify.com/track/1sVWTkfmfSjcip9unXt1Wz"
+    },
+    {
+      "album": {
+        "name": "Strong Like Lion",
+        "url": "https://open.spotify.com/album/2Cs03yrg3fBzjMlw2YTv4x"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
+        },
+        {
+          "name": "Stylo G",
+          "url": "https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd"
+        },
+        {
+          "name": "Lady Leshurr",
+          "url": "https://open.spotify.com/artist/1Bk2KyFVMN5PeyVyDIiLqF"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Strong Like Lion",
+      "url": "https://open.spotify.com/track/16PLoogX8O3nOQh1NmKG7s"
     },
     {
       "album": {
@@ -12716,7 +12796,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 114867,
       "name": "Too Easy",
       "url": "https://open.spotify.com/track/1gDfAiHvXdPXlUlaWcfxNS"
@@ -13304,7 +13384,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 181991,
       "name": "Vir@l",
       "url": "https://open.spotify.com/track/13TU2ShSBhT6WBoNRCksUT"
@@ -13326,7 +13406,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 129706,
       "name": "VOU PRO BAILE",
       "url": "https://open.spotify.com/track/5vUVtAC7yRjDVSEFUZsrXH"
@@ -13934,6 +14014,24 @@
       "duration_ms": 267154,
       "name": "Wild Girl",
       "url": "https://open.spotify.com/track/6m4yPRmXymnFMbadppVtpb"
+    },
+    {
+      "album": {
+        "name": "PROJECT X",
+        "url": "https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130440,
+      "name": "WORK IT",
+      "url": "https://open.spotify.com/track/6YFu6zaT1qkFraG46ZICFM"
     },
     {
       "album": {

@@ -1009,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "A La Base",
+        "url": "https://open.spotify.com/album/2NMkjnOy51mypDJcdnSZU8"
+      },
+      "artists": [
+        {
+          "name": "Mk.official",
+          "url": "https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "A La Base",
+      "url": "https://open.spotify.com/track/5erzrQzrIwK95QElCVoAvB"
+    },
+    {
+      "album": {
         "name": "A Long",
         "url": "https://open.spotify.com/album/25Gs0I7nq3dmVnleVeTcDN"
       },
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 195722,
       "name": "A Win is a Win",
       "url": "https://open.spotify.com/track/0kW6XH3bll8WdZdtJZtL7b"
@@ -2316,6 +2334,24 @@
       "duration_ms": 110503,
       "name": "BAD JAZZ",
       "url": "https://open.spotify.com/track/7ittTYPZNiwNpoAOTHgbcr"
+    },
+    {
+      "album": {
+        "name": "BADBIHFORTEKOMMIKASA",
+        "url": "https://open.spotify.com/album/45n9mUWjqb9XIINadv7w7Z"
+      },
+      "artists": [
+        {
+          "name": "K!RA OJI",
+          "url": "https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116677,
+      "name": "BADBIHFORTEKOMMIKASA",
+      "url": "https://open.spotify.com/track/6TRatGrWsZtghDFaqgT56b"
     },
     {
       "album": {
@@ -5024,7 +5060,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 104866,
       "name": "Chilling - Pour la pi\u00e8ce 'Chilling!?!'",
       "url": "https://open.spotify.com/track/3h8Pmgm8jVtq5z2LgejacH"
@@ -6616,7 +6652,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 166814,
       "name": "Des inc et des comptables",
       "url": "https://open.spotify.com/track/18WRKLBWFffG38LWlZgJG3"
@@ -7134,7 +7170,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 211859,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/72zxhDtfzlU8hskSF2avzQ"
@@ -7797,6 +7833,24 @@
     },
     {
       "album": {
+        "name": "El mizan",
+        "url": "https://open.spotify.com/album/4JoHHlJmlpSks7EOPSOkel"
+      },
+      "artists": [
+        {
+          "name": "Salimo",
+          "url": "https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164583,
+      "name": "El mizan",
+      "url": "https://open.spotify.com/track/08S1bokIS2aFZ8DI7fNSpP"
+    },
+    {
+      "album": {
         "name": "Silence Complice",
         "url": "https://open.spotify.com/album/64UVL7qphiTIfq1hTCy9fB"
       },
@@ -8030,7 +8084,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 138556,
       "name": "ENT\u00caT\u00c9",
       "url": "https://open.spotify.com/track/7AoGwjvYuSyFugaxDDNoZ6"
@@ -8412,7 +8466,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 174933,
       "name": "FAIT TROP FROID",
       "url": "https://open.spotify.com/track/1bszsOPWN2uJJ7GgEmiQ3u"
@@ -13253,6 +13307,24 @@
     },
     {
       "album": {
+        "name": "LE MOI D'AVANT",
+        "url": "https://open.spotify.com/album/6RBUhCjanGrYUSuqRaIzFM"
+      },
+      "artists": [
+        {
+          "name": "\u00e9ther",
+          "url": "https://open.spotify.com/artist/4XT1Jfd6Hel58qViPrldXY"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104005,
+      "name": "LE MOI D'AVANT",
+      "url": "https://open.spotify.com/track/0xuoyZv2TmGxjgcThL0A0x"
+    },
+    {
+      "album": {
         "name": "Le pass\u00e9 nous le dira",
         "url": "https://open.spotify.com/album/5Qdzs8SPjcZBxMFTDsFXSt"
       },
@@ -14407,6 +14479,24 @@
     },
     {
       "album": {
+        "name": "MADURO",
+        "url": "https://open.spotify.com/album/35PNhr8jU5kNHpRog1zhXD"
+      },
+      "artists": [
+        {
+          "name": "Zinera",
+          "url": "https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171696,
+      "name": "MADURO",
+      "url": "https://open.spotify.com/track/35RHNKHvAkBM7ZTZfH6cgL"
+    },
+    {
+      "album": {
         "name": "CLUB Mixtape 2020",
         "url": "https://open.spotify.com/album/04UB35D8q6GcT8Sg82XpZ9"
       },
@@ -15406,7 +15496,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 208285,
       "name": "Mon bro est back",
       "url": "https://open.spotify.com/track/6DQW3b8k2vMR35rwTMh2RN"
@@ -15925,6 +16015,32 @@
     },
     {
       "album": {
+        "name": "MURDA",
+        "url": "https://open.spotify.com/album/4NYWFEH98bEma6JlTPgpww"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cena",
+          "url": "https://open.spotify.com/artist/3ersXzETV8IbKPBKjjQ5AX"
+        },
+        {
+          "name": "St-Saoul",
+          "url": "https://open.spotify.com/artist/3FiLC4bXGyrzdtdqDJPmZZ"
+        },
+        {
+          "name": "Buckshot",
+          "url": "https://open.spotify.com/artist/5Fc4E9FtAoP4UHXWh6oLpS"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230418,
+      "name": "MURDA",
+      "url": "https://open.spotify.com/track/0eZGhUhnRq73yTWM5se93o"
+    },
+    {
+      "album": {
         "name": "Musical Chair",
         "url": "https://open.spotify.com/album/2qBfFgzPsWBfge4uCXLewA"
       },
@@ -16134,6 +16250,28 @@
       "duration_ms": 174315,
       "name": "Ne t'inqui\u00e8te pas",
       "url": "https://open.spotify.com/track/0MaUB0lG4487FerRHdxYtR"
+    },
+    {
+      "album": {
+        "name": "NEBEL FREESTYLE",
+        "url": "https://open.spotify.com/album/3XtvUg2w9cC89j673j7OzV"
+      },
+      "artists": [
+        {
+          "name": "ET-N",
+          "url": "https://open.spotify.com/artist/2B34AUJhYzd9F7cxB8SUhX"
+        },
+        {
+          "name": "FILOU",
+          "url": "https://open.spotify.com/artist/7qZwDVuE0XDDAjWhfv9uv6"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106105,
+      "name": "NEBEL FREESTYLE",
+      "url": "https://open.spotify.com/track/4duWpYwyrG0xN1E9hrOLMz"
     },
     {
       "album": {
@@ -21833,6 +21971,28 @@
     },
     {
       "album": {
+        "name": "Step dans le darkroom",
+        "url": "https://open.spotify.com/album/4BwqbmQFhS6MMrfHTkEJks"
+      },
+      "artists": [
+        {
+          "name": "Stand By Take One",
+          "url": "https://open.spotify.com/artist/2PmMsGMWS2Tl6WQrjv8hBz"
+        },
+        {
+          "name": "SeinsSucrer",
+          "url": "https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199526,
+      "name": "Soul, food, alcool, pansements",
+      "url": "https://open.spotify.com/track/1xIgqvLZOEBPseCW2RWFOC"
+    },
+    {
+      "album": {
         "name": "Sourire Mesquin",
         "url": "https://open.spotify.com/album/2Gk4fnMesVjzS5TosvW466"
       },
@@ -25496,7 +25656,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 226250,
       "name": "\u20acL\u20acGANT$",
       "url": "https://open.spotify.com/track/6nSEbCPuqtRyrhYpmUximj"

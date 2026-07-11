@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Beach vibes and summer jams only.",
+  "description": "Beach vibes and summer jams only \ud83c\udf1e\u2728",
   "name": "Sunny Beats",
   "tracks": [
     {
@@ -590,7 +590,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 138070,
       "name": "aqua de vida",
       "url": "https://open.spotify.com/track/0Ne1LywAyuBFOHyExJrCZF"
@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 131250,
       "name": "Boss It Up",
       "url": "https://open.spotify.com/track/4eIueX3cCUCVLDIQxdbEVV"
@@ -3100,7 +3100,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 138981,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/5cQfqmLVX7UhOmSGg3SyYA"
@@ -6580,7 +6580,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 132413,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/7eaDPAIDo3HpKIJCoxF1FU"
@@ -7746,6 +7746,24 @@
       "duration_ms": 122727,
       "name": "No Problem Too Small",
       "url": "https://open.spotify.com/track/0Td7VHO3ojTr3VO8GJTqQh"
+    },
+    {
+      "album": {
+        "name": "Nossa Bossa",
+        "url": "https://open.spotify.com/album/05qMZ4kFBUaXknpFxKklqf"
+      },
+      "artists": [
+        {
+          "name": "Talented Mr Tipsy",
+          "url": "https://open.spotify.com/artist/3N4pp4r5dcwKJYzo01Izbc"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150304,
+      "name": "Nossa Bossa",
+      "url": "https://open.spotify.com/track/7e1G45oMsWtmj2sMJyW2PM"
     },
     {
       "album": {
@@ -10160,7 +10178,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 82285,
       "name": "Sorriso",
       "url": "https://open.spotify.com/track/4zmMz9unupHFD3ajR0aIpd"
@@ -11124,7 +11142,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 138054,
       "name": "Sunset Drive",
       "url": "https://open.spotify.com/track/7c3NG5R8SQgHpwVhm7w1kO"

@@ -1,13 +1,361 @@
 {
-  "description": "New releases for the kids. Cover: Laurie Berkner",
-  "num_followers": 98791,
+  "description": "New releases for the kids. Cover: Kamdenboy & Kyraboo",
+  "num_followers": 98808,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN9HZeIT6j7rnhXpf7vdjLGJR2Rn",
+  "snapshot_id": "AAAAALazv1kW4rDM9niQB8J46tJmI9V1",
   "tracks": [
+    {
+      "added_at": "2026-07-10 04:00:27",
+      "album": {
+        "name": "Popsicle",
+        "url": "https://open.spotify.com/album/3aRZtdIujhfMd4DebEh380"
+      },
+      "artists": [
+        {
+          "name": "Kamdenboy & Kyraboo",
+          "url": "https://open.spotify.com/artist/1LLiBhK15nZ9cG4X9hpfJx"
+        },
+        {
+          "name": "The KB Family",
+          "url": "https://open.spotify.com/artist/1KcvVk1JUYc6W0FVHpJlHk"
+        }
+      ],
+      "duration_ms": 181518,
+      "name": "Popsicle",
+      "url": "https://open.spotify.com/track/0OmRyYG8IcuMXRu0Zd4ST6"
+    },
+    {
+      "added_at": "2026-07-10 04:00:27",
+      "album": {
+        "name": "Magnificent",
+        "url": "https://open.spotify.com/album/783KS7U8mhnHItAi15v99s"
+      },
+      "artists": [
+        {
+          "name": "Lachi",
+          "url": "https://open.spotify.com/artist/07D2qGlJUOVf83OM5ujJZD"
+        },
+        {
+          "name": "123 Andr\u00e9s",
+          "url": "https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9"
+        },
+        {
+          "name": "Tangina Stone",
+          "url": "https://open.spotify.com/artist/4bfY46yOsnTqkW6FOzKSUZ"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Magnificent",
+      "url": "https://open.spotify.com/track/0JsyQMTwou58X6xBbwqex1"
+    },
+    {
+      "added_at": "2026-07-10 04:00:27",
+      "album": {
+        "name": "Paint Your Life (A Song About Frida Kahlo)",
+        "url": "https://open.spotify.com/album/0coQwtNLcfSe4ccbAbrguq"
+      },
+      "artists": [
+        {
+          "name": "Little People, BIG DREAMS",
+          "url": "https://open.spotify.com/artist/0yubK9huKbJvRu7YxlpoFX"
+        },
+        {
+          "name": "Dom James",
+          "url": "https://open.spotify.com/artist/1JY39k85BM1XtU5WnBN8WD"
+        },
+        {
+          "name": "Tommy Antonio",
+          "url": "https://open.spotify.com/artist/5ZSb3HseeIBllSbROydx4B"
+        }
+      ],
+      "duration_ms": 199238,
+      "name": "Paint Your Life - A Song About Frida Kahlo",
+      "url": "https://open.spotify.com/track/642WObgrBNJWjHGbIgZerc"
+    },
+    {
+      "added_at": "2026-07-10 04:00:27",
+      "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/1nOHuDof9xjZH3Hdl9Dr6F"
+      },
+      "artists": [
+        {
+          "name": "Vered",
+          "url": "https://open.spotify.com/artist/0u2bCRyS3Cnz9dRl2mnTEg"
+        },
+        {
+          "name": "Mega Ran",
+          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/1smnCc2EAljzNGaoqZ6x7q"
+    },
+    {
+      "added_at": "2026-07-10 04:00:27",
+      "album": {
+        "name": "Sesame Street (with Bounce Patrol)",
+        "url": "https://open.spotify.com/album/1g4VZrKl0Gg9gMHwrVJ061"
+      },
+      "artists": [
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        },
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Ball Pit Party (with Bounce Patrol)",
+      "url": "https://open.spotify.com/track/26JXItKm11HlVHFd1XbZGD"
+    },
+    {
+      "added_at": "2026-07-10 04:00:27",
+      "album": {
+        "name": "Colours of the Rainbow",
+        "url": "https://open.spotify.com/album/312MSqJuqH6VN16GDjkMAg"
+      },
+      "artists": [
+        {
+          "name": "Oh Clementine",
+          "url": "https://open.spotify.com/artist/5AN1Wjg0YhqPFqF2xE0TnV"
+        },
+        {
+          "name": "Elizabeth Mitchell",
+          "url": "https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM"
+        }
+      ],
+      "duration_ms": 210299,
+      "name": "Colours of the Rainbow",
+      "url": "https://open.spotify.com/track/4ARNKC0dakEO3b8W2f9Gsf"
+    },
+    {
+      "added_at": "2026-07-10 04:00:27",
+      "album": {
+        "name": "Step by Step",
+        "url": "https://open.spotify.com/album/79ic9FglKQupUlsQLcaWpr"
+      },
+      "artists": [
+        {
+          "name": "The Lightcatchers Band",
+          "url": "https://open.spotify.com/artist/56LaK1yeHlJOV1FP36rr7P"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Step by Step",
+      "url": "https://open.spotify.com/track/3XEuweAwrjXlbPupQbKp1R"
+    },
+    {
+      "added_at": "2026-07-10 04:00:27",
+      "album": {
+        "name": "Alma in Oz: The Musical",
+        "url": "https://open.spotify.com/album/06ZzYZAXyKphnitotSkFcD"
+      },
+      "artists": [
+        {
+          "name": "Alma's Way",
+          "url": "https://open.spotify.com/artist/67F6yiiA0nSOZM6iLIuJxY"
+        }
+      ],
+      "duration_ms": 179973,
+      "name": "You've Got It In You",
+      "url": "https://open.spotify.com/track/1SujgLCyeKnaIuP9lwl0S2"
+    },
+    {
+      "added_at": "2026-07-10 04:00:27",
+      "album": {
+        "name": "I'm Gonna Tap, Tap, Tap (Rhythm Stick Song)",
+        "url": "https://open.spotify.com/album/11h1h2l9KAix3fZgo5qaqo"
+      },
+      "artists": [
+        {
+          "name": "Miss Caitlin",
+          "url": "https://open.spotify.com/artist/1mxTDiZyelEP86sMqeRBBw"
+        }
+      ],
+      "duration_ms": 161119,
+      "name": "I'm Gonna Tap, Tap, Tap (Rhythm Stick Song)",
+      "url": "https://open.spotify.com/track/4Q4hej5Sv1jsBkhNp6G1bE"
+    },
+    {
+      "added_at": "2026-07-10 04:00:27",
+      "album": {
+        "name": "The Shaker Song",
+        "url": "https://open.spotify.com/album/1boEeAqkPGMWjzLRTUu0x4"
+      },
+      "artists": [
+        {
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+        },
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 209398,
+      "name": "The Shaker Song",
+      "url": "https://open.spotify.com/track/20OSwhwxSrvOLea7IZjdfm"
+    },
+    {
+      "added_at": "2026-07-10 04:00:27",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/5nIgD5ISbeiUEtyDNsuHUc"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 183180,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/3K2sq4GzFkLFA3u0lhYWeR"
+    },
+    {
+      "added_at": "2026-07-03 04:00:34",
+      "album": {
+        "name": "Little Miss Muffet / Peter Pumpkin Eater",
+        "url": "https://open.spotify.com/album/24JYYF7JmDtCaVgMYDCwH6"
+      },
+      "artists": [
+        {
+          "name": "Natalie Merchant",
+          "url": "https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        }
+      ],
+      "duration_ms": 105293,
+      "name": "Little Miss Muffet",
+      "url": "https://open.spotify.com/track/3CWyYDKPJ6sW11U5mrkHxi"
+    },
+    {
+      "added_at": "2026-07-10 04:00:27",
+      "album": {
+        "name": "Watch Out for That Rake (from \"PATRICK STAR SUPERSTAR\" / Remastered)",
+        "url": "https://open.spotify.com/album/2qeit1RWhlaWDkk7u3h0Xk"
+      },
+      "artists": [
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        },
+        {
+          "name": "Patrick Star",
+          "url": "https://open.spotify.com/artist/4M7bDPAyyd1rns4cbEy0yQ"
+        }
+      ],
+      "duration_ms": 49102,
+      "name": "Watch Out for That Rake",
+      "url": "https://open.spotify.com/track/6oKpLMgvQV4fNAAY4uXkKz"
+    },
+    {
+      "added_at": "2026-07-10 04:00:27",
+      "album": {
+        "name": "Manners",
+        "url": "https://open.spotify.com/album/3b3YXPrYLyR1NpH0Lrfx3R"
+      },
+      "artists": [
+        {
+          "name": "Electric Umbrella",
+          "url": "https://open.spotify.com/artist/3CQEvYasV0N5WrCOZjB6d6"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "Manners",
+      "url": "https://open.spotify.com/track/4gS0WDCFCaud48XFHlDJ2F"
+    },
+    {
+      "added_at": "2026-07-10 04:00:27",
+      "album": {
+        "name": "Rubber Duckie",
+        "url": "https://open.spotify.com/album/4IFionSfkKUh4iGiwuxNRp"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "duration_ms": 122475,
+      "name": "Rubber Duckie - from \"Sesame Street\"",
+      "url": "https://open.spotify.com/track/2SkDK4MACq0BFfIQkP4y0E"
+    },
+    {
+      "added_at": "2026-07-10 04:00:27",
+      "album": {
+        "name": "Pretty In Paris",
+        "url": "https://open.spotify.com/album/066RVFjWIhfDyExsbsRhXp"
+      },
+      "artists": [
+        {
+          "name": "Rainbow High",
+          "url": "https://open.spotify.com/artist/7cvp5x5lxRteAQnPklF4zD"
+        }
+      ],
+      "duration_ms": 144893,
+      "name": "Pretty In Paris",
+      "url": "https://open.spotify.com/track/4rmqg5G2ZD0AfBkzToB13i"
+    },
+    {
+      "added_at": "2026-07-10 04:00:27",
+      "album": {
+        "name": "Power Up",
+        "url": "https://open.spotify.com/album/6IQlOYhsE5wgv6Cz47X6zQ"
+      },
+      "artists": [
+        {
+          "name": "L.O.L. Surprise!",
+          "url": "https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7"
+        }
+      ],
+      "duration_ms": 142941,
+      "name": "Power Up",
+      "url": "https://open.spotify.com/track/2K1DI3D1BYZLQC65KaVp8b"
+    },
+    {
+      "added_at": "2026-07-10 04:00:27",
+      "album": {
+        "name": "One, Two, Buckle My Shoe Circle Time",
+        "url": "https://open.spotify.com/album/6aW5FQa2VoKYgkfj6lnUXk"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "duration_ms": 61200,
+      "name": "One, Two, Buckle My Shoe Circle Time",
+      "url": "https://open.spotify.com/track/5BtMLVYPY5vsMUlQQnZ4ae"
+    },
+    {
+      "added_at": "2026-07-10 04:00:27",
+      "album": {
+        "name": "Mission Theme Song",
+        "url": "https://open.spotify.com/album/1nOuOMNPwdD1Kd9Uh2Rpme"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "duration_ms": 48631,
+      "name": "Mission Theme Song",
+      "url": "https://open.spotify.com/track/033iQyDDeGssAIJeIZJ38Q"
+    },
     {
       "added_at": "2026-07-03 04:00:34",
       "album": {
@@ -55,26 +403,6 @@
       "duration_ms": 175820,
       "name": "Just Imagine",
       "url": "https://open.spotify.com/track/1Yxn3cTjlJi33Gz7N6t9w2"
-    },
-    {
-      "added_at": "2026-07-03 04:00:34",
-      "album": {
-        "name": "Little Miss Muffet / Peter Pumpkin Eater",
-        "url": "https://open.spotify.com/album/24JYYF7JmDtCaVgMYDCwH6"
-      },
-      "artists": [
-        {
-          "name": "Natalie Merchant",
-          "url": "https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD"
-        },
-        {
-          "name": "Chicago Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
-        }
-      ],
-      "duration_ms": 105293,
-      "name": "Little Miss Muffet",
-      "url": "https://open.spotify.com/track/3CWyYDKPJ6sW11U5mrkHxi"
     },
     {
       "added_at": "2026-07-03 04:00:34",
@@ -1483,326 +1811,6 @@
       "duration_ms": 85200,
       "name": "Find Shapes Everywhere",
       "url": "https://open.spotify.com/track/5dIczbNi43ayE5lyk0jEb1"
-    },
-    {
-      "added_at": "2026-04-24 04:00:49",
-      "album": {
-        "name": "Baby Shark's Toy Car Town",
-        "url": "https://open.spotify.com/album/4kuunkOH1a4poP4wUt2LS7"
-      },
-      "artists": [
-        {
-          "name": "Pinkfong",
-          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
-        }
-      ],
-      "duration_ms": 187068,
-      "name": "S-H-A-R-K Toy Car Family",
-      "url": "https://open.spotify.com/track/3yp9P1J045n6Ed4ZvycfNl"
-    },
-    {
-      "added_at": "2026-04-24 04:00:49",
-      "album": {
-        "name": "La Bamba",
-        "url": "https://open.spotify.com/album/69ZynQ1b1qHKQ8AKEUB4vo"
-      },
-      "artists": [
-        {
-          "name": "The Countdown Kids",
-          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
-        }
-      ],
-      "duration_ms": 119707,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/7M2Zl58TQyu4g99gjV0CV9"
-    },
-    {
-      "added_at": "2026-04-24 04:00:49",
-      "album": {
-        "name": "Evie's Ready For Nappy Pants!",
-        "url": "https://open.spotify.com/album/22EHdTgoccYSKrVq2ZM4a5"
-      },
-      "artists": [
-        {
-          "name": "Peppa Pig",
-          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
-        }
-      ],
-      "duration_ms": 148791,
-      "name": "Evie's Ready for Nappy Pants",
-      "url": "https://open.spotify.com/track/6s7kSOZ6QULJEzYuUszGu6"
-    },
-    {
-      "added_at": "2026-04-24 04:00:49",
-      "album": {
-        "name": "I'm a Baby Fish",
-        "url": "https://open.spotify.com/album/4XQl3gGcqztC8nSzonUqd4"
-      },
-      "artists": [
-        {
-          "name": "Super Simple Songs",
-          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
-        }
-      ],
-      "duration_ms": 211162,
-      "name": "I'm a Baby Fish",
-      "url": "https://open.spotify.com/track/1d0j6RlY6AeDctHwwG3ynb"
-    },
-    {
-      "added_at": "2026-04-24 04:00:49",
-      "album": {
-        "name": "Motor Go Boom",
-        "url": "https://open.spotify.com/album/0aOS19jNZzkDYMEZOracM0"
-      },
-      "artists": [
-        {
-          "name": "Rubble & Crew",
-          "url": "https://open.spotify.com/artist/5dTEmJBPdvOyfo7QjYsEai"
-        },
-        {
-          "name": "PAW Patrol",
-          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
-        }
-      ],
-      "duration_ms": 33950,
-      "name": "Motor Go Boom",
-      "url": "https://open.spotify.com/track/7MXVrsiV0rnXXOP8N4Nuu9"
-    },
-    {
-      "added_at": "2026-04-17 04:01:52",
-      "album": {
-        "name": "Be Kind To Animals (Aprende Peque Version)",
-        "url": "https://open.spotify.com/album/4azg6NSuU5WcwBzTsFvTAw"
-      },
-      "artists": [
-        {
-          "name": "Blippi",
-          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
-        },
-        {
-          "name": "Aprende Peque",
-          "url": "https://open.spotify.com/artist/4XlzIQZZT9mbPjZtIHGhXG"
-        }
-      ],
-      "duration_ms": 111000,
-      "name": "Be Kind To Animals - Aprende Peque Version",
-      "url": "https://open.spotify.com/track/4JAGzwXs8qcwEMzQewoICy"
-    },
-    {
-      "added_at": "2026-04-17 04:01:52",
-      "album": {
-        "name": "Wild Child for Kids",
-        "url": "https://open.spotify.com/album/1muHxLgh38gfmPCVLyg2LH"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        }
-      ],
-      "duration_ms": 156444,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/4aMTY2YU11Rkr32muQp37w"
-    },
-    {
-      "added_at": "2026-04-17 04:01:52",
-      "album": {
-        "name": "Pat-A-Cake",
-        "url": "https://open.spotify.com/album/3w93QTPfCih6xv2o7TT94j"
-      },
-      "artists": [
-        {
-          "name": "Super Simple Songs",
-          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
-        },
-        {
-          "name": "Noodle & Pals",
-          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
-        }
-      ],
-      "duration_ms": 161941,
-      "name": "Pat-A-Cake",
-      "url": "https://open.spotify.com/track/44Bqo6kzLXY2Kin1VIxzvg"
-    },
-    {
-      "added_at": "2026-04-17 04:01:52",
-      "album": {
-        "name": "Chill On The Plate",
-        "url": "https://open.spotify.com/album/3PlfiBnKlwJq1vmOEdeaCW"
-      },
-      "artists": [
-        {
-          "name": "The Laurie Berkner Band",
-          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
-        }
-      ],
-      "duration_ms": 114384,
-      "name": "Chill On The Plate",
-      "url": "https://open.spotify.com/track/2KL8J6xtwankfk3kCRZ5rZ"
-    },
-    {
-      "added_at": "2026-04-17 04:01:52",
-      "album": {
-        "name": "A Ram Sam Sam Dance Party",
-        "url": "https://open.spotify.com/album/2ScggyCd480ZAiwUiZBY8f"
-      },
-      "artists": [
-        {
-          "name": "LooLoo Kids",
-          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
-        }
-      ],
-      "duration_ms": 156006,
-      "name": "A Ram Sam Sam Dance Party",
-      "url": "https://open.spotify.com/track/6NKufqpbrlptNshwm7IkFG"
-    },
-    {
-      "added_at": "2026-04-10 04:00:48",
-      "album": {
-        "name": "Bedroom Posters (feat. Blippi)",
-        "url": "https://open.spotify.com/album/6ZqylFxqg9iX1LnwMFXw4n"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        },
-        {
-          "name": "Blippi",
-          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
-        }
-      ],
-      "duration_ms": 224571,
-      "name": "Bedroom Posters (feat. Blippi)",
-      "url": "https://open.spotify.com/track/29hWBaFS2d7cVDgCi3nbam"
-    },
-    {
-      "added_at": "2026-04-10 04:00:48",
-      "album": {
-        "name": "Purrfect Friend",
-        "url": "https://open.spotify.com/album/3hRrlS5hnWywtHEfzhgRzV"
-      },
-      "artists": [
-        {
-          "name": "PAW Patrol",
-          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
-        },
-        {
-          "name": "Nick Jr.",
-          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
-        }
-      ],
-      "duration_ms": 52510,
-      "name": "Purrfect Friend",
-      "url": "https://open.spotify.com/track/6eh0rQV7I3ylNTQiaHcPRh"
-    },
-    {
-      "added_at": "2026-04-10 04:00:48",
-      "album": {
-        "name": "Warming Up Our Voices",
-        "url": "https://open.spotify.com/album/0y40zS98E4fQB7RWg8oxKL"
-      },
-      "artists": [
-        {
-          "name": "Caitie's Classroom",
-          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
-        },
-        {
-          "name": "Super Simple Songs",
-          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
-        }
-      ],
-      "duration_ms": 201229,
-      "name": "Warming Up Our Voices",
-      "url": "https://open.spotify.com/track/5F7QAjG5Oil2J1MQwAPosm"
-    },
-    {
-      "added_at": "2026-04-10 04:00:48",
-      "album": {
-        "name": "There's an Animal That I See",
-        "url": "https://open.spotify.com/album/4suCqc4zOC8wafd5i9mzEp"
-      },
-      "artists": [
-        {
-          "name": "Super Simple Songs",
-          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
-        }
-      ],
-      "duration_ms": 175087,
-      "name": "There's an Animal That I See",
-      "url": "https://open.spotify.com/track/38SPer8dqQvGIPdSSMqNBy"
-    },
-    {
-      "added_at": "2026-04-03 04:01:35",
-      "album": {
-        "name": "Pinkfong Super Rescue Team 2",
-        "url": "https://open.spotify.com/album/5huH7iRyO1qp6EJhrYDGbX"
-      },
-      "artists": [
-        {
-          "name": "Pinkfong",
-          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
-        }
-      ],
-      "duration_ms": 159900,
-      "name": "Stop the Excavator!",
-      "url": "https://open.spotify.com/track/1zKTVLbYpXpWh6qcvCgwmz"
-    },
-    {
-      "added_at": "2026-04-03 04:01:35",
-      "album": {
-        "name": "What's Your Name?",
-        "url": "https://open.spotify.com/album/0C4jLJ3FLfbK59abI37D2M"
-      },
-      "artists": [
-        {
-          "name": "Super Simple Songs",
-          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 85490,
-      "name": "What's Your Name? (feat. Sesame Street)",
-      "url": "https://open.spotify.com/track/4TAzNSca3BotmhvnYVHO2r"
-    },
-    {
-      "added_at": "2026-04-03 04:01:35",
-      "album": {
-        "name": "Under The Chestnut Tree",
-        "url": "https://open.spotify.com/album/6sZeZuRGhvg0BGKh9CVhnk"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 173832,
-      "name": "Under The Chestnut Tree",
-      "url": "https://open.spotify.com/track/4R1iI2FjUVcyhffUg4S1wa"
-    },
-    {
-      "added_at": "2026-04-03 04:01:35",
-      "album": {
-        "name": "Colorful Crystal Rap",
-        "url": "https://open.spotify.com/album/2Xq8Ovp08u62ZP4yD97Qk2"
-      },
-      "artists": [
-        {
-          "name": "Rubble & Crew",
-          "url": "https://open.spotify.com/artist/5dTEmJBPdvOyfo7QjYsEai"
-        },
-        {
-          "name": "PAW Patrol",
-          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
-        }
-      ],
-      "duration_ms": 51041,
-      "name": "Colorful Crystal Rap",
-      "url": "https://open.spotify.com/track/4nFrZ8okq0UnP4bpdhXPNp"
     }
   ],
   "unique_name": "New Kids Music",

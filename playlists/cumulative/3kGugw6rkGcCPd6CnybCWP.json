@@ -5685,6 +5685,24 @@
     },
     {
       "album": {
+        "name": "S.A.D.",
+        "url": "https://open.spotify.com/album/3hGmdAkoso8AqAaxiLNgi0"
+      },
+      "artists": [
+        {
+          "name": "Patch Habits",
+          "url": "https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200470,
+      "name": "S.A.D.",
+      "url": "https://open.spotify.com/track/4qtr4X6SQU3KZcFN1E8y9e"
+    },
+    {
+      "album": {
         "name": "SALEM",
         "url": "https://open.spotify.com/album/2yxTaNnjFgwUVjEO3xNAUt"
       },

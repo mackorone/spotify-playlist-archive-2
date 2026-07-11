@@ -1359,6 +1359,24 @@
     },
     {
       "album": {
+        "name": "the wild, the innocent & the raging (Deluxe)",
+        "url": "https://open.spotify.com/album/7AQDqzHgibASY2Hwxzlzr1"
+      },
+      "artists": [
+        {
+          "name": "ILUKA",
+          "url": "https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188227,
+      "name": "Day You Die",
+      "url": "https://open.spotify.com/track/13oY1yqw2VxuAAuMWF94cs"
+    },
+    {
+      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
       },
@@ -6092,24 +6110,6 @@
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
-    },
-    {
-      "album": {
-        "name": "the wild, the innocent & the raging (Deluxe)",
-        "url": "https://open.spotify.com/album/7AQDqzHgibASY2Hwxzlzr1"
-      },
-      "artists": [
-        {
-          "name": "ILUKA",
-          "url": "https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO"
-        }
-      ],
-      "date_added": "2026-07-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/13oY1yqw2VxuAAuMWF94cs"
     },
     {
       "album": {

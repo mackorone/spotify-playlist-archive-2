@@ -4,7 +4,7 @@
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con BALTHVS en portada.
 
-296 songs - 16 hr 23 min
+297 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Sin Freno](https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Astra](https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx) | 5:13 | 2026-03-18 | 2026-03-27 |
 | [Sin Riesgo](https://open.spotify.com/track/2DdGAU31oTaGJkuLGHK9gp) | [laurél](https://open.spotify.com/artist/4hCJr1sLjhayxsPwwrtChF) | [Sin Riesgo](https://open.spotify.com/album/4bgmeuetXEk3czfOgkggcf) | 2:51 | 2024-03-01 | 2024-08-31 |
 | [So payaso](https://open.spotify.com/track/3OSIzpGBWIcygaZNcp099X) | [\_juno](https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP) | [So payaso](https://open.spotify.com/album/1SJJG2C7MHBWA3FQyHrLXZ) | 3:06 | 2024-02-09 | 2024-04-27 |
+| [Soda Con Tequila](https://open.spotify.com/track/1FzrBHvyxnjwbxUDhDdLH0) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50) | [Soda Con Tequila](https://open.spotify.com/album/76w533dlRiIkENYJpQfz8T) | 3:13 | 2026-07-10 |  |
 | [Sol](https://open.spotify.com/track/4ttboV1page1MW7tEq8tNt) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Sol](https://open.spotify.com/album/0cfK10ZyQ7zEPHSRBCjiwf) | 4:25 | 2025-11-21 | 2026-01-31 |
 | [Sola](https://open.spotify.com/track/2RJH45gf8JIMswhYCLcgHK) | [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv), [RI](https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU) | [Sola](https://open.spotify.com/album/1YxzQ8nW8hu2g0nvyx6yYA) | 2:17 | 2024-03-01 | 2024-08-03 |
 | [SOPHIA](https://open.spotify.com/track/24fwLB47pPPSnMTs9Q3jHj) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:04 | 2025-08-01 | 2025-11-22 |

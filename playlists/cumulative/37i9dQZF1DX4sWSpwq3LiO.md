@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,869 songs - 3 day 10 hr 49 min
+1,870 songs - 3 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [Brief Moments](https://open.spotify.com/track/2RMhNaRMKIoOlANHwfcaP1) | [Linn Hope](https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D) | [Brief Moments](https://open.spotify.com/album/10hj4ZZucFC7qZFFTcEHuZ) | 2:15 | 2021-10-20 | 2022-04-29 |
 | [Brig O' Balgownie](https://open.spotify.com/track/3wmraTkkrCmY1TFEPIzpFy) | [Kyran Martin](https://open.spotify.com/artist/64MFoNwcBdeE8R9hqpo6cH) | [Brig O' Balgownie](https://open.spotify.com/album/7A1bFqQu93fsbjriLraEOR) | 2:04 | 2020-03-11 | 2021-04-14 |
 | [Broparken](https://open.spotify.com/track/40BHeLV8ZIxT9rjVLdrfT5) | [Ruben Fjellner](https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG) | [Broparken](https://open.spotify.com/album/4rKuRtcWLOVWRxima5BTB1) | 3:00 | 2021-10-01 | 2022-09-13 |
-| [Brume Matinale](https://open.spotify.com/track/0jFnlaavbGTER2XNnUztEF) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Brume Matinale](https://open.spotify.com/album/3sMktb2iVDvqtL4UXVcJDA) | 2:46 | 2023-11-28 |  |
+| [Brume Matinale](https://open.spotify.com/track/0jFnlaavbGTER2XNnUztEF) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Brume Matinale](https://open.spotify.com/album/3sMktb2iVDvqtL4UXVcJDA) | 2:46 | 2023-11-28 | 2026-07-11 |
 | [Bubbles](https://open.spotify.com/track/0D634fov9hm0Yt2wTyAZ4M) | [Holly Jones](https://open.spotify.com/artist/6Ub8jxQatQvncgReWsJ5XC) | [Bubbles](https://open.spotify.com/album/2YzqIXyH4Z65yKHvMPVoCf) | 1:54 | 2022-07-28 | 2023-09-23 |
 | [Bud \(Rose\)](https://open.spotify.com/track/1gfzgfcrmkn2yTWuVGhCgh) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:20 | 2019-05-26\* | 2020-03-17 |
 | [Buffet De Joie](https://open.spotify.com/track/5UJtLkVsd0vcJuFdUNcpks) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Buffet De Joie](https://open.spotify.com/album/7IZua1FG2Ajgi3Chytc9Ru) | 2:54 | 2020-06-24 | 2021-09-01 |
@@ -1419,6 +1419,7 @@
 | [Sleep for Mama \(Icelandic Folk Song\)](https://open.spotify.com/track/2kH0QJEGGbAdcb0EbShEwG) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD), [Snorri Sigfús Birgisson](https://open.spotify.com/artist/69TbTWdCCyin22T8h1NUS6) | [Sleep for Mama \(Icelandic Folk Song\)](https://open.spotify.com/album/6eKNl7raPKD09nNhAbM2Am) | 2:39 | 2021-10-20 | 2022-07-07 |
 | [Sleeping at last](https://open.spotify.com/track/1ri9OTTCvGn1yMlDiqAdFS) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Sleeping at last](https://open.spotify.com/album/0nOyDcj7i5cEolSP2RZ2uW) | 2:14 | 2022-02-09 | 2023-12-06 |
 | [Sleeping Sunrise](https://open.spotify.com/track/5CN6iGSYvvIVb3trc1xXiu) | [Carissa Malone](https://open.spotify.com/artist/7aOpKgb0COw4pXIdVVIqTx) | [Visionaries](https://open.spotify.com/album/6rdpheLWbeRsI6aKoOWB7z) | 2:56 | 2020-08-04 | 2021-03-09 |
+| [Sleepy Spring](https://open.spotify.com/track/0i22zEswOb2srKXTnMoxI4) | [Axel Bennett](https://open.spotify.com/artist/3cbNP4ir2UsDvVi8kbd1qz) | [Sleepy Spring](https://open.spotify.com/album/1qgxj8f69UcV6eMcFD1DUi) | 2:23 | 2026-07-10 |  |
 | [Slow Air](https://open.spotify.com/track/4Dq9ymj8eDglqqNq9t1VMK) | [Carl Kaleo](https://open.spotify.com/artist/4mcRi26s1KUkHVFcD3opEY) | [Slow Air](https://open.spotify.com/album/05FHGsVQxmSsQmwXFUhYKO) | 2:25 | 2026-05-08 |  |
 | [Slow dancing](https://open.spotify.com/track/2evtV15tCbNjFDZRhd0CM9) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Slow dancing](https://open.spotify.com/album/6TiS6EC2yUEgjTFx9ZUE6L) | 1:50 | 2022-07-28 | 2023-09-23 |
 | [Slow Retrieve](https://open.spotify.com/track/2Fw8qNX783GsOjRGPF4Diq) | [Joseph Stanley](https://open.spotify.com/artist/1qW4m07516Q5lMSerc7mr9) | [Slow Retrieve](https://open.spotify.com/album/6YsrFsOvySKWa7ye5xyTGl) | 4:03 | 2021-06-10 | 2021-08-05 |

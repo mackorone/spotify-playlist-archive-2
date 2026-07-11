@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Lili Forest 木子
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,444 likes - 111 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,450 likes - 111 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 110 | [Martyr\#1](https://open.spotify.com/track/6cMAWahZmQfn57wmxGcxfM) | [David Boring](https://open.spotify.com/artist/3jlBKVMzOyLuwLWxkkiwKj) | [Martyr\#1](https://open.spotify.com/album/4x08OFLQ71g3UsVGpT3p0C) | 5:39 |
 | 111 | [冬的夢寐](https://open.spotify.com/track/1wD2Wl5F1xskWui8M0AcSt) | [before the night ends](https://open.spotify.com/artist/4AGHDyw984Ss54AzrGeTgU) | [冬的夢寐](https://open.spotify.com/album/4gbET4VtnjuFsJAoTMRal2) | 3:25 |
 
-Snapshot ID: `AAAAAGnQV1ewyzSRkLNGWv8T4N8p1eJP`
+Snapshot ID: `AAAAAPGQGxS/FN5a8T/oaVOzi2tZn+eH`

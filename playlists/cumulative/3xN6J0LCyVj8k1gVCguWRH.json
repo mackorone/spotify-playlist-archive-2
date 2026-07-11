@@ -4322,7 +4322,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 191668,
       "name": "All My Girls",
       "url": "https://open.spotify.com/track/0NZUz9JwXndeLqYzwlwoR1"
@@ -7914,7 +7914,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 192278,
       "name": "Ayakata",
       "url": "https://open.spotify.com/track/0eLi7ImxSjGGUx9PEo5AoN"
@@ -9248,6 +9248,24 @@
       "duration_ms": 163349,
       "name": "Balance",
       "url": "https://open.spotify.com/track/7kfMPbWIYwOFIqnX6yMO13"
+    },
+    {
+      "album": {
+        "name": "Ballerina",
+        "url": "https://open.spotify.com/album/30u8NJZLTUauTlCPPsxnYw"
+      },
+      "artists": [
+        {
+          "name": "Floral Couches",
+          "url": "https://open.spotify.com/artist/3HiT8riBEhEKIuP2fyUOr6"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214997,
+      "name": "Ballerina",
+      "url": "https://open.spotify.com/track/12jLtTH1b9LMQ0rgbNvZyp"
     },
     {
       "album": {
@@ -30494,7 +30512,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 266767,
       "name": "Eleanor",
       "url": "https://open.spotify.com/track/4x9RLHwtUvN2zchIJt7F3W"
@@ -34508,7 +34526,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 187094,
       "name": "Feels Like Summer",
       "url": "https://open.spotify.com/track/0ZERGmkfuDSrLaIzEGFdiH"
@@ -63626,7 +63644,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 179448,
       "name": "make it through june",
       "url": "https://open.spotify.com/track/08OJXjqdJMSqXUyGlU8X83"
@@ -66659,6 +66677,24 @@
     },
     {
       "album": {
+        "name": "Modern Times",
+        "url": "https://open.spotify.com/album/47yaHyKa4my4OBxDeQNDS6"
+      },
+      "artists": [
+        {
+          "name": "bOydestiNy",
+          "url": "https://open.spotify.com/artist/2WwaD83y5YfooczJPyOy8R"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261293,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/2zSMw5mjbVJ5qL37MGcEUf"
+    },
+    {
+      "album": {
         "name": "Matters of the Heart",
         "url": "https://open.spotify.com/album/2xkXORJAs8jSD3tP3nkHrE"
       },
@@ -68634,7 +68670,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 285230,
       "name": "My Angel",
       "url": "https://open.spotify.com/track/1XDADIAKvrnNvs5HhWXDpI"
@@ -81936,10 +81972,28 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 224078,
       "name": "Quiet",
       "url": "https://open.spotify.com/track/3gqo0Le5VAspUaQh4ZWych"
+    },
+    {
+      "album": {
+        "name": "Quiet Bruises",
+        "url": "https://open.spotify.com/album/6qZuZleoi5XdS5HTGaOlzk"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Circuit",
+          "url": "https://open.spotify.com/artist/29M8Ioc0iEn8dBJk8GlUEq"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244959,
+      "name": "Quiet Bruises",
+      "url": "https://open.spotify.com/track/6Tq4N2CRPTe9f1RNz7dw9R"
     },
     {
       "album": {
@@ -83382,6 +83436,24 @@
       "duration_ms": 249655,
       "name": "Refresh",
       "url": "https://open.spotify.com/track/3r1uZnqfCwUFK1KV3bjH42"
+    },
+    {
+      "album": {
+        "name": "Regretti",
+        "url": "https://open.spotify.com/album/0XQAGWc4XlnL5L27k6rqwj"
+      },
+      "artists": [
+        {
+          "name": "TAM",
+          "url": "https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168153,
+      "name": "Regretti",
+      "url": "https://open.spotify.com/track/7bDHYF7d3zC8IM6ASMZYzC"
     },
     {
       "album": {
@@ -92228,7 +92300,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 160053,
       "name": "some birds",
       "url": "https://open.spotify.com/track/0CAJcWUVpAc99LsLFRthAW"
@@ -102612,7 +102684,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 202972,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
@@ -113338,6 +113410,24 @@
       "duration_ms": 323809,
       "name": "When It's Over",
       "url": "https://open.spotify.com/track/5eFy5YJF9TC4PSRk4hDAlL"
+    },
+    {
+      "album": {
+        "name": "When Life Calls",
+        "url": "https://open.spotify.com/album/6WvfQvxR7PU49jgwmlCPNP"
+      },
+      "artists": [
+        {
+          "name": "JONES",
+          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181722,
+      "name": "When Life Calls",
+      "url": "https://open.spotify.com/track/6Tud6dqGiFqvBWXRP9NbQi"
     },
     {
       "album": {

@@ -9355,6 +9355,24 @@
     },
     {
       "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/7Ge6ApjDzOEtMX43mTaLeU"
+      },
+      "artists": [
+        {
+          "name": "Kkriegerz",
+          "url": "https://open.spotify.com/artist/5RKvtuppIH0e1Nc2Wt5EiW"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136655,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/3JG6IcoOqW2IFlWYLFlgBs"
+    },
+    {
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/3GvHKJ9sVH0WnYIfvFXW6q"
       },

@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 548232,
+  "num_followers": 548278,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Samsara",
-        "url": "https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C"
-      },
-      "artists": [
-        {
-          "name": "The Well",
-          "url": "https://open.spotify.com/artist/2an1GKmmTWuqY8N1GYBk1t"
-        }
-      ],
-      "duration_ms": 331468,
-      "name": "Mortal Bones",
-      "url": "https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "In the tail of a comet",
         "url": "https://open.spotify.com/album/2Osc8Xt9YkCcNWbURMtrNA"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 162866,
       "name": "Supersoul",
       "url": "https://open.spotify.com/track/1kqEeFbUyuaMSI27hzW6K4"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Samsara",
+        "url": "https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C"
+      },
+      "artists": [
+        {
+          "name": "The Well",
+          "url": "https://open.spotify.com/artist/2an1GKmmTWuqY8N1GYBk1t"
+        }
+      ],
+      "duration_ms": 331468,
+      "name": "Mortal Bones",
+      "url": "https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "The Great American Death Rattle",
-        "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
-      },
-      "artists": [
-        {
-          "name": "Youngblood Supercult",
-          "url": "https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7"
-        }
-      ],
-      "duration_ms": 244720,
-      "name": "The Great American Death Rattle",
-      "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Into Submission",
         "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 267493,
       "name": "Superhuman God",
       "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "The Great American Death Rattle",
+        "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
+      },
+      "artists": [
+        {
+          "name": "Youngblood Supercult",
+          "url": "https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7"
+        }
+      ],
+      "duration_ms": 244720,
+      "name": "The Great American Death Rattle",
+      "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "There is Nothing New Under the Sun",
-        "url": "https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts"
-      },
-      "artists": [
-        {
-          "name": "Slomosa",
-          "url": "https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd"
-        }
-      ],
-      "duration_ms": 237424,
-      "name": "There is Nothing New Under the Sun",
-      "url": "https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "High Volume: The Stoner Rock Collection",
         "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 371983,
       "name": "Too Stoned",
       "url": "https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "There is Nothing New Under the Sun",
+        "url": "https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts"
+      },
+      "artists": [
+        {
+          "name": "Slomosa",
+          "url": "https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd"
+        }
+      ],
+      "duration_ms": 237424,
+      "name": "There is Nothing New Under the Sun",
+      "url": "https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Groovy",
-        "url": "https://open.spotify.com/album/30arspiTdQmIXFL43YuiC1"
-      },
-      "artists": [
-        {
-          "name": "Geezer",
-          "url": "https://open.spotify.com/artist/7wEkdwpx7bSDhRexrs94er"
-        }
-      ],
-      "duration_ms": 257093,
-      "name": "Drowning on Empty",
-      "url": "https://open.spotify.com/track/3g6cNWmxjtHv3cq1v8V3Lg"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Diablerie",
         "url": "https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 320988,
       "name": "Diablerie",
       "url": "https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Groovy",
+        "url": "https://open.spotify.com/album/30arspiTdQmIXFL43YuiC1"
+      },
+      "artists": [
+        {
+          "name": "Geezer",
+          "url": "https://open.spotify.com/artist/7wEkdwpx7bSDhRexrs94er"
+        }
+      ],
+      "duration_ms": 257093,
+      "name": "Drowning on Empty",
+      "url": "https://open.spotify.com/track/3g6cNWmxjtHv3cq1v8V3Lg"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/3fLLE6oA9YHm1NsZwrKvpF"
-      },
-      "artists": [
-        {
-          "name": "All The Saints",
-          "url": "https://open.spotify.com/artist/1PZosGVPUJsUutzmjdWwSZ"
-        }
-      ],
-      "duration_ms": 311546,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/07BVvXzxEW7rVevyzMGoRY"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Tumuli Schroomaroom",
         "url": "https://open.spotify.com/album/12XvsurHh60DXJCz2heaLz"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 599683,
       "name": "Heavy Feather",
       "url": "https://open.spotify.com/track/2xNNlMrmDEYzrr09jTzjOb"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/3fLLE6oA9YHm1NsZwrKvpF"
+      },
+      "artists": [
+        {
+          "name": "All The Saints",
+          "url": "https://open.spotify.com/artist/1PZosGVPUJsUutzmjdWwSZ"
+        }
+      ],
+      "duration_ms": 311546,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/07BVvXzxEW7rVevyzMGoRY"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "The Chosen One",
-        "url": "https://open.spotify.com/album/47Tc6iYguZWmz4TcfNivUU"
-      },
-      "artists": [
-        {
-          "name": "Dopelord",
-          "url": "https://open.spotify.com/artist/1B1b2jSXksHwmmorhmQ8AF"
-        }
-      ],
-      "duration_ms": 416000,
-      "name": "The Chosen One",
-      "url": "https://open.spotify.com/track/2It4BlXp7uTl9xZPYLyqWy"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Emerald Liquid Odyssey",
         "url": "https://open.spotify.com/album/0oHLdnN5Wcpo4bBC3WUb5O"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 189946,
       "name": "Rockin' Course",
       "url": "https://open.spotify.com/track/6zpn0NmeEhm6n4qpmNtKFY"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "The Chosen One",
+        "url": "https://open.spotify.com/album/47Tc6iYguZWmz4TcfNivUU"
+      },
+      "artists": [
+        {
+          "name": "Dopelord",
+          "url": "https://open.spotify.com/artist/1B1b2jSXksHwmmorhmQ8AF"
+        }
+      ],
+      "duration_ms": 416000,
+      "name": "The Chosen One",
+      "url": "https://open.spotify.com/track/2It4BlXp7uTl9xZPYLyqWy"
     },
     {
       "added_at": "2026-03-13 04:00:13",

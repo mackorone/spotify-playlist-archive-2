@@ -2,7 +2,7 @@
 
 ### [Hot Hits Canada](https://open.spotify.com/playlist/37i9dQZF1DWXT8uSSn6PRy)
 
-> The hottest tracks in the North with Drake\. 🧊
+> The hottest tracks in the North with Ella Langley.
 
 1,019 songs - 2 day 5 hr 58 min
 

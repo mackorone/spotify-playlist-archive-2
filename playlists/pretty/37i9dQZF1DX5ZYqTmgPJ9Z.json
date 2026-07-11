@@ -1,6 +1,6 @@
 {
   "description": "Grab a drink and let us help you see off the evening.",
-  "num_followers": 134371,
+  "num_followers": 134373,
   "original_name": "Nightcap",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Groove Curse",
-        "url": "https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 275826,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/3fVoaJNF8ALQlL0MG5XpWa"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
         "name": "Influence EP",
         "url": "https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 207706,
       "name": "Mother May I Sleep With Danger?",
       "url": "https://open.spotify.com/track/6rZtlYru44l92npSBTbUN7"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
+        "name": "Groove Curse",
+        "url": "https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 275826,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3fVoaJNF8ALQlL0MG5XpWa"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Boo Boo",
-        "url": "https://open.spotify.com/album/1or1EVymKizDf9IovJURHD"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 241253,
-      "name": "Labyrinth",
-      "url": "https://open.spotify.com/track/4K24FedWyG2LXIXp6kXYyW"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
         "name": "Xover",
         "url": "https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 196586,
       "name": "Pineapple",
       "url": "https://open.spotify.com/track/0lwkL0G07NYtLrQCugi8lX"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
+        "name": "Boo Boo",
+        "url": "https://open.spotify.com/album/1or1EVymKizDf9IovJURHD"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 241253,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/4K24FedWyG2LXIXp6kXYyW"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "S3NS",
-        "url": "https://open.spotify.com/album/1XWCws077Z4B9SwwUzOAfo"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "S3NS",
-      "url": "https://open.spotify.com/track/67T58XZZvKtjfzUd8rvedH"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
         "name": "All on My Mind (Acoustic)",
         "url": "https://open.spotify.com/album/7tz2tP0MyzjpNg13tgRyx9"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 229613,
       "name": "All on My Mind - Acoustic",
       "url": "https://open.spotify.com/track/4piJ8pnoRvC5sqMEpbH0FA"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
+        "name": "S3NS",
+        "url": "https://open.spotify.com/album/1XWCws077Z4B9SwwUzOAfo"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "S3NS",
+      "url": "https://open.spotify.com/track/67T58XZZvKtjfzUd8rvedH"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/190nDHUMVR2vy6pqumS7kp"
-      },
-      "artists": [
-        {
-          "name": "Elsa",
-          "url": "https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv"
-        }
-      ],
-      "duration_ms": 172499,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/2AHW2ayyGYmoiYpJuHPEyC"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
         "name": "Stuck Wit U",
         "url": "https://open.spotify.com/album/29vqF5DQuNIzcYM0tept6C"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 213000,
       "name": "Stuck Wit U",
       "url": "https://open.spotify.com/track/5nDIBUarJMA7qlpuiryATA"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/190nDHUMVR2vy6pqumS7kp"
+      },
+      "artists": [
+        {
+          "name": "Elsa",
+          "url": "https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv"
+        }
+      ],
+      "duration_ms": 172499,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/2AHW2ayyGYmoiYpJuHPEyC"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -1371,38 +1371,6 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Statue",
-        "url": "https://open.spotify.com/album/4wFr0pQoS4kiBXugi8eaTF"
-      },
-      "artists": [
-        {
-          "name": "Tilly Valentine",
-          "url": "https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP"
-        }
-      ],
-      "duration_ms": 204254,
-      "name": "Statue",
-      "url": "https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/5CS5G0nDen8GZ2u2AFQRzN"
-      },
-      "artists": [
-        {
-          "name": "Loie",
-          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
-        }
-      ],
-      "duration_ms": 184864,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/6tjTExTprXoPTYH6I0pziB"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
         "name": "Clashing Colours",
         "url": "https://open.spotify.com/album/4mkPcQDRD7pWVgY2cy8hmp"
       },
@@ -1423,6 +1391,38 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/5CS5G0nDen8GZ2u2AFQRzN"
+      },
+      "artists": [
+        {
+          "name": "Loie",
+          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
+        }
+      ],
+      "duration_ms": 184864,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/6tjTExTprXoPTYH6I0pziB"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
+        "name": "Statue",
+        "url": "https://open.spotify.com/album/4wFr0pQoS4kiBXugi8eaTF"
+      },
+      "artists": [
+        {
+          "name": "Tilly Valentine",
+          "url": "https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP"
+        }
+      ],
+      "duration_ms": 204254,
+      "name": "Statue",
+      "url": "https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
         "name": "Just a Girl (stripped)",
         "url": "https://open.spotify.com/album/2tjb8brG7VnVrR3kW1QxYl"
       },
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Faded Nights",
-        "url": "https://open.spotify.com/album/5EDNcIcS5DW3AwlITTrqQ3"
+        "name": "To Memphis",
+        "url": "https://open.spotify.com/album/5DtQQgT9d9Ut0I5SoZYfPJ"
       },
       "artists": [
         {
-          "name": "elmss",
-          "url": "https://open.spotify.com/artist/61uT1cKcVF6GSdsbU99LBY"
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
         }
       ],
-      "duration_ms": 152259,
-      "name": "faded nights",
-      "url": "https://open.spotify.com/track/4EQBtJKfrG2HQq0wmtUp7f"
+      "duration_ms": 237418,
+      "name": "Alice From Dallas",
+      "url": "https://open.spotify.com/track/1gZxZLQsyn8GIMBVB3AgNR"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "To Memphis",
-        "url": "https://open.spotify.com/album/5DtQQgT9d9Ut0I5SoZYfPJ"
+        "name": "Faded Nights",
+        "url": "https://open.spotify.com/album/5EDNcIcS5DW3AwlITTrqQ3"
       },
       "artists": [
         {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+          "name": "elmss",
+          "url": "https://open.spotify.com/artist/61uT1cKcVF6GSdsbU99LBY"
         }
       ],
-      "duration_ms": 237418,
-      "name": "Alice From Dallas",
-      "url": "https://open.spotify.com/track/1gZxZLQsyn8GIMBVB3AgNR"
+      "duration_ms": 152259,
+      "name": "faded nights",
+      "url": "https://open.spotify.com/track/4EQBtJKfrG2HQq0wmtUp7f"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/7BmwUvHlY5PhqSJaV3kwLg"
-      },
-      "artists": [
-        {
-          "name": "Arjuna Oakes",
-          "url": "https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF"
-        }
-      ],
-      "duration_ms": 192592,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3tklDxHjsNDIMlPjHbUQ4R"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
         "name": "Room Thirteen",
         "url": "https://open.spotify.com/album/5s07NUjDpbDpl2BdupEfAC"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 286874,
       "name": "Sud Pour Toi",
       "url": "https://open.spotify.com/track/6qw2IQMLKCUEahcYwNo0rR"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7BmwUvHlY5PhqSJaV3kwLg"
+      },
+      "artists": [
+        {
+          "name": "Arjuna Oakes",
+          "url": "https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF"
+        }
+      ],
+      "duration_ms": 192592,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3tklDxHjsNDIMlPjHbUQ4R"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Try a Little Tenderness",
-        "url": "https://open.spotify.com/album/7pNPnsQmwf86kDUcUbJQH0"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 192912,
-      "name": "Try a Little Tenderness",
-      "url": "https://open.spotify.com/track/0JykQXWGNwVGjV2HleUPuo"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
         "name": "Big Fan of the Sesh, Vol. 1",
         "url": "https://open.spotify.com/album/7fdySfgM7DstRy1bCZB1w8"
       },
@@ -1747,18 +1731,34 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l"
+        "name": "Undone",
+        "url": "https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In"
       },
       "artists": [
         {
-          "name": "shiv",
-          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
         }
       ],
-      "duration_ms": 189426,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY"
+      "duration_ms": 200000,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
+        "name": "Try a Little Tenderness",
+        "url": "https://open.spotify.com/album/7pNPnsQmwf86kDUcUbJQH0"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "duration_ms": 192912,
+      "name": "Try a Little Tenderness",
+      "url": "https://open.spotify.com/track/0JykQXWGNwVGjV2HleUPuo"
     }
   ],
   "unique_name": "Nightcap",

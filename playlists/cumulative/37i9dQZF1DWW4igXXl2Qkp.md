@@ -4,7 +4,7 @@
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:2KZnFwKkzZwaTe74507ZLD">Whookilledkenny</a>
 
-2,375 songs - 4 day 4 hr 57 min
+2,376 songs - 4 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1810,6 +1810,7 @@
 | [sad girl](https://open.spotify.com/track/6O0QdYPEMhpoUWuKuswjIe) | [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H) | [Put Your Clothes On](https://open.spotify.com/album/0kFIyaMgZQkYy2cTklDfe1) | 2:02 | 2025-03-19 | 2025-06-05 |
 | [Sad to Say](https://open.spotify.com/track/4KC4uZYZGArgozGhchVDBS) | [ST 6IX7EVEN](https://open.spotify.com/artist/3wyLQtk1GI2PVL6aB7LdzM) | [Sad to Say](https://open.spotify.com/album/2dnOaO3TNWofZSH5bOmf6H) | 3:25 | 2023-10-04 | 2023-11-30 |
 | [Safe With Me](https://open.spotify.com/track/0skpk4dJ94wLabTpJ3mwl6) | [Kromow](https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA) | [Safe With Me](https://open.spotify.com/album/5y3iayHta7WSmaZJJAJOs1) | 2:08 | 2026-01-23 | 2026-02-05 |
+| [Said A Prayer](https://open.spotify.com/track/5mzXeERIAo9sk6uM56zZqi) | [nyan](https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr) | [Member?](https://open.spotify.com/album/7nPv63vnjbKDFYjCixAfVk) | 3:14 | 2026-07-10 |  |
 | [said what I said](https://open.spotify.com/track/67LiPWTp0RWqY14y0JAwe4) | [Jazzy J](https://open.spotify.com/artist/44cbR5Vlwxhrl0hekJyIXv) | [said what I said](https://open.spotify.com/album/4xalRWNm0nZXGy1v0s3Rqf) | 1:59 | 2025-09-10 | 2025-09-18 |
 | [Saint](https://open.spotify.com/track/7G9ONI7qXonWrsQCxiF3Ij) | [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Saint](https://open.spotify.com/album/3GfFsmvB3ZDsCIlIyStZx5) | 2:13 | 2024-11-06 | 2024-12-05 |
 | [SALAD](https://open.spotify.com/track/0JfFRBGlkXUQNk5td5hxRh) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [RETROVISION](https://open.spotify.com/album/4H3AHyICa5QmPUx7UEm8Bk) | 2:53 | 2024-08-28 | 2025-03-06 |

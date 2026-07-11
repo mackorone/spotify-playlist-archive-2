@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Tiffany Hudson",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: KB",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -4461,6 +4461,24 @@
     },
     {
       "album": {
+        "name": "Darken The Doorway",
+        "url": "https://open.spotify.com/album/2z69e6OBVlCzSnZXBwQ4K8"
+      },
+      "artists": [
+        {
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149994,
+      "name": "Darken The Doorway",
+      "url": "https://open.spotify.com/track/55jJqk7yaFYSTRZRqhUaqC"
+    },
+    {
+      "album": {
         "name": "DARKNESS BEFORE THE DAWN!",
         "url": "https://open.spotify.com/album/2ZwtqxX23LK900g6vu1p3H"
       },
@@ -6804,7 +6822,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 231504,
       "name": "Forty One",
       "url": "https://open.spotify.com/track/19ZQem15tyNYl8H4M40Th6"
@@ -7122,6 +7140,46 @@
       "duration_ms": 154970,
       "name": "Glory",
       "url": "https://open.spotify.com/track/4srODfoVNeEl1Djn2ZAvKc"
+    },
+    {
+      "album": {
+        "name": "GLORY ARISE",
+        "url": "https://open.spotify.com/album/0Ggj9Qaz10LMGYHPvaTf7L"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Grace Shuffitt",
+          "url": "https://open.spotify.com/artist/616bHpVJW9TVUjh58t4S68"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426008,
+      "name": "Glory Arise",
+      "url": "https://open.spotify.com/track/3cdUWBYEYJakyDOBN7707K"
+    },
+    {
+      "album": {
+        "name": "Everything I Thought Was Pleasure (Unplugged)",
+        "url": "https://open.spotify.com/album/4xDevxA8VQU30XbvnHc2fS"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199250,
+      "name": "Glory Glory - Unplugged",
+      "url": "https://open.spotify.com/track/1wIgOnrrx5a1GuaqD5OH90"
     },
     {
       "album": {
@@ -9092,7 +9150,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 169531,
       "name": "Havin'",
       "url": "https://open.spotify.com/track/1PwIBzaWVTzourrHRw6FTm"
@@ -12780,7 +12838,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 210403,
       "name": "Jesus All Along",
       "url": "https://open.spotify.com/track/72eLmmLLH2a10hiKb8xEss"
@@ -15583,6 +15641,28 @@
     },
     {
       "album": {
+        "name": "Stars (Blue Hour Deluxe)",
+        "url": "https://open.spotify.com/album/3OMBUTRjGHezf7PxuRsO6c"
+      },
+      "artists": [
+        {
+          "name": "Drew Baldridge",
+          "url": "https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5"
+        },
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217693,
+      "name": "Maker's Mark",
+      "url": "https://open.spotify.com/track/4kqqJb2dXFcZM7fy3SCzVM"
+    },
+    {
+      "album": {
         "name": "Making Room",
         "url": "https://open.spotify.com/album/2xmKVwLGNiDeVFXgUHqWXo"
       },
@@ -15892,7 +15972,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 165399,
       "name": "miracle",
       "url": "https://open.spotify.com/track/5mrRRmnUUuzSSIY0M0Nqew"
@@ -21156,7 +21236,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 205882,
       "name": "So Good",
       "url": "https://open.spotify.com/track/5PrEButzavdedQm4euqZFd"
@@ -22034,7 +22114,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 183486,
       "name": "Still Do (with Cole Swindell)",
       "url": "https://open.spotify.com/track/4EJFSgGTN73ExICMomPHZq"
@@ -22340,7 +22420,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 265381,
       "name": "Sublime Gracia",
       "url": "https://open.spotify.com/track/5cqKXjSnfj1TakGzvIzQiO"
@@ -23953,6 +24033,24 @@
     },
     {
       "album": {
+        "name": "The Waiting",
+        "url": "https://open.spotify.com/album/0Fr1J6gbNMkPYzfDcGO8G0"
+      },
+      "artists": [
+        {
+          "name": "Samantha Ebert",
+          "url": "https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "The Hallway",
+      "url": "https://open.spotify.com/track/7clIwUuQT6pKmx0GsulInQ"
+    },
+    {
+      "album": {
         "name": "The Hand That Keeps Holding Me",
         "url": "https://open.spotify.com/album/25qfoIDGA0TncdbRPgloqm"
       },
@@ -25441,6 +25539,24 @@
     },
     {
       "album": {
+        "name": "THIS CANNOT BE SOLD",
+        "url": "https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218018,
+      "name": "TOO UNFAZED",
+      "url": "https://open.spotify.com/track/6MPfLZFTmkhtRsEkPtrkWq"
+    },
+    {
+      "album": {
         "name": "Made In The South",
         "url": "https://open.spotify.com/album/3QHcxJF7Phwk45RQ4aJb4d"
       },
@@ -26086,7 +26202,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 175770,
       "name": "Walk With Me",
       "url": "https://open.spotify.com/track/1YWNQDbaTcCZxhC1GpkOQ1"
@@ -26869,6 +26985,24 @@
     },
     {
       "album": {
+        "name": "what if i told you?",
+        "url": "https://open.spotify.com/album/2dsICzIDzI5meqWD0sXVBx"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182816,
+      "name": "what if i told you?",
+      "url": "https://open.spotify.com/track/4iz2gpYykJizD8tyqnhZZw"
+    },
+    {
+      "album": {
         "name": "When A Cowboy Prays (with Cody Johnson)",
         "url": "https://open.spotify.com/album/0Zg3LS5rv9rbbK1uJwaBnn"
       },
@@ -27366,6 +27500,24 @@
       "duration_ms": 128910,
       "name": "Wild & Free",
       "url": "https://open.spotify.com/track/0afBbn5tybe8kP4VTRl8k0"
+    },
+    {
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/6RY1n4kT0MHI5nm6mqSDPa"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191682,
+      "name": "Wild Ones",
+      "url": "https://open.spotify.com/track/0Dq2eflllG1Dd2Iq669lWB"
     },
     {
       "album": {

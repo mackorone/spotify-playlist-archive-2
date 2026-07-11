@@ -6050,7 +6050,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 162461,
       "name": "CANADA BREEZE",
       "url": "https://open.spotify.com/track/5qWYxhd84Dj1uSR3GUtpJD"
@@ -6334,7 +6334,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
@@ -6590,7 +6590,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 192000,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/3TDytTZlC10HuaIRxRT2OR"
@@ -10847,6 +10847,28 @@
     },
     {
       "album": {
+        "name": "Force",
+        "url": "https://open.spotify.com/album/5cH02oII58OcyICVCsV2Kj"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        },
+        {
+          "name": "ProdByPanda",
+          "url": "https://open.spotify.com/artist/1T6qr1gEMrwWCflNaoxY0Y"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161640,
+      "name": "Force",
+      "url": "https://open.spotify.com/track/72g0jOWRGF2cpoNlRn3RDS"
+    },
+    {
+      "album": {
         "name": "Foreigner",
         "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
       },
@@ -11152,7 +11174,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 138000,
       "name": "FRE$H",
       "url": "https://open.spotify.com/track/5PU6gIDtiehjkK1iKWU4KR"
@@ -17354,7 +17376,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 147329,
       "name": "Let Me Go - Honeycomb Riddim",
       "url": "https://open.spotify.com/track/5LIWnma5CYXgDsxlfzjFLo"
@@ -17610,7 +17632,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 218000,
       "name": "Like That (bomboclatt) (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0zMMCk14o9OSRjTfanJUv6"
@@ -19652,6 +19674,24 @@
       "duration_ms": 181176,
       "name": "Miami",
       "url": "https://open.spotify.com/track/6dlChd6ypZaBb17vJAY9cW"
+    },
+    {
+      "album": {
+        "name": "JamPack",
+        "url": "https://open.spotify.com/album/1Q6F68AS8dqwHqc62cEaiD"
+      },
+      "artists": [
+        {
+          "name": "Ayetian",
+          "url": "https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182415,
+      "name": "Miami Vice",
+      "url": "https://open.spotify.com/track/4weo7UBnXLgp7RN9zqHoru"
     },
     {
       "album": {
@@ -24348,7 +24388,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 186429,
       "name": "PERFECT",
       "url": "https://open.spotify.com/track/2svxlCX3BqS2OuRWcxHhMJ"
@@ -27337,6 +27377,28 @@
     },
     {
       "album": {
+        "name": "Sea Body",
+        "url": "https://open.spotify.com/album/04CYneuNFb2XW3gLnUox0s"
+      },
+      "artists": [
+        {
+          "name": "Friyie",
+          "url": "https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08"
+        },
+        {
+          "name": "Sun Dej",
+          "url": "https://open.spotify.com/artist/6Cq3opPY47yml2iWeN9Tg7"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Sea Body",
+      "url": "https://open.spotify.com/track/0xvqzDpLDDNdAzEfARvsZc"
+    },
+    {
+      "album": {
         "name": "Section",
         "url": "https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K"
       },
@@ -28308,6 +28370,24 @@
       "duration_ms": 140944,
       "name": "Skin Out Di Red",
       "url": "https://open.spotify.com/track/7Mt9mLh72huTNBfLLU41ZL"
+    },
+    {
+      "album": {
+        "name": "SLICK",
+        "url": "https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106909,
+      "name": "SLICK",
+      "url": "https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u"
     },
     {
       "album": {
@@ -29695,6 +29775,32 @@
     },
     {
       "album": {
+        "name": "Strong Like Lion",
+        "url": "https://open.spotify.com/album/2Cs03yrg3fBzjMlw2YTv4x"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
+        },
+        {
+          "name": "Stylo G",
+          "url": "https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd"
+        },
+        {
+          "name": "Lady Leshurr",
+          "url": "https://open.spotify.com/artist/1Bk2KyFVMN5PeyVyDIiLqF"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Strong Like Lion",
+      "url": "https://open.spotify.com/track/16PLoogX8O3nOQh1NmKG7s"
+    },
+    {
+      "album": {
         "name": "Stubborn (with Asake)",
         "url": "https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b"
       },
@@ -30736,6 +30842,24 @@
       "duration_ms": 167497,
       "name": "Teknique (Bum Bum Bum)",
       "url": "https://open.spotify.com/track/3W9MGc2oEzk2EBP5v803SW"
+    },
+    {
+      "album": {
+        "name": "Tell em Again (Riddim)",
+        "url": "https://open.spotify.com/album/3gnUfloEGQateiC3JS5BXJ"
+      },
+      "artists": [
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138795,
+      "name": "Tell em Again (Riddim)",
+      "url": "https://open.spotify.com/track/52rslmJZ0RBnAHtvMvMVPg"
     },
     {
       "album": {
@@ -32457,6 +32581,28 @@
     },
     {
       "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/4YNfqUF8keHTgZuNpz7vPE"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173989,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/3kihf5wWzLdE0xwmVDtPSU"
+    },
+    {
+      "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
@@ -33264,7 +33410,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 142354,
       "name": "Wah Yo Deh Pan",
       "url": "https://open.spotify.com/track/4vLRSAGR6yNXVLaFmTS8jI"
@@ -34090,6 +34236,28 @@
       "duration_ms": 143692,
       "name": "WELCOME 2 MY STRIP (Feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya"
+    },
+    {
+      "album": {
+        "name": "Well Organised (feat. Lila Ik\u00e9)",
+        "url": "https://open.spotify.com/album/33tTOCJ1O1PJ8yVtmIDD5H"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212289,
+      "name": "Well Organised (feat. Lila Ik\u00e9)",
+      "url": "https://open.spotify.com/track/6bYQZWdJMKimn0VTXhMwd6"
     },
     {
       "album": {

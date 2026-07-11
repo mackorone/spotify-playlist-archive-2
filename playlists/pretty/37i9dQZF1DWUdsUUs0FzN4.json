@@ -1,6 +1,6 @@
 {
   "description": "bailando en el antro con Karlo hasta el amanecer ",
-  "num_followers": 24497,
+  "num_followers": 24500,
   "original_name": "ANTRO ",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
+        "name": "GANGTEL",
+        "url": "https://open.spotify.com/album/1i5UQggnBjvDCOzzmtqUOW"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 176645,
+      "name": "GANGTEL",
+      "url": "https://open.spotify.com/track/2XoH0IGikmWIRkCBBqvfp1"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
         "name": "FR\u00cdO",
         "url": "https://open.spotify.com/album/1TLTudCTEvRM8pnyGQT5qu"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 142173,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/56njQssbrZ77sYzmNWRE0e"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
-        "name": "GANGTEL",
-        "url": "https://open.spotify.com/album/1i5UQggnBjvDCOzzmtqUOW"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 176645,
-      "name": "GANGTEL",
-      "url": "https://open.spotify.com/track/2XoH0IGikmWIRkCBBqvfp1"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
+        "name": "C\u00d3MO QUIERES",
+        "url": "https://open.spotify.com/album/6xBAOaQTVa58kpSCyBDZ1r"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        }
+      ],
+      "duration_ms": 192990,
+      "name": "C\u00d3MO QUIERES",
+      "url": "https://open.spotify.com/track/7jcKEMVoEEpEmVFt4VyrFc"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
         "name": "ATP",
         "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 181200,
       "name": "BOBOMENSOTONTO",
       "url": "https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
-        "name": "C\u00d3MO QUIERES",
-        "url": "https://open.spotify.com/album/6xBAOaQTVa58kpSCyBDZ1r"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        }
-      ],
-      "duration_ms": 192990,
-      "name": "C\u00d3MO QUIERES",
-      "url": "https://open.spotify.com/track/7jcKEMVoEEpEmVFt4VyrFc"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -635,26 +635,6 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "Gaga",
-        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 188304,
-      "name": "Gaga",
-      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
         "name": "ma\u00f1ana, temprano",
         "url": "https://open.spotify.com/album/6Y2sfEJBZbqrHTKtRB0Bmi"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 211225,
       "name": "No veo bien",
       "url": "https://open.spotify.com/track/4ikQtfAnZn5SP3w2FjxQ4k"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
+        "name": "Gaga",
+        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 188304,
+      "name": "Gaga",
+      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
+        "name": "nos keremos tanto",
+        "url": "https://open.spotify.com/album/5LlYHGpfPOK8WN2TWUmXi1"
+      },
+      "artists": [
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        },
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "duration_ms": 213913,
+      "name": "nos keremos tanto",
+      "url": "https://open.spotify.com/track/51OIgUzAwtxOMhNUEifwMn"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
         "name": "Todav\u00eda No",
         "url": "https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq"
       },
@@ -1187,22 +1207,74 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "nos keremos tanto",
-        "url": "https://open.spotify.com/album/5LlYHGpfPOK8WN2TWUmXi1"
+        "name": "tqm <3",
+        "url": "https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ"
       },
       "artists": [
         {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        },
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+          "name": "ZTVZ",
+          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
         }
       ],
-      "duration_ms": 213913,
-      "name": "nos keremos tanto",
-      "url": "https://open.spotify.com/track/51OIgUzAwtxOMhNUEifwMn"
+      "duration_ms": 156426,
+      "name": "tqm <3",
+      "url": "https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
+        "name": "Shippeo",
+        "url": "https://open.spotify.com/album/4DhwrVu3V0UOIZKWCW10pp"
+      },
+      "artists": [
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Shippeo",
+      "url": "https://open.spotify.com/track/0Fpf1FiEbWfr8rPWmibpLE"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
+        "name": "LLORAR!",
+        "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
+      },
+      "artists": [
+        {
+          "name": "RIXXIA",
+          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
+        },
+        {
+          "name": "Fito Silva",
+          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
+        }
+      ],
+      "duration_ms": 107200,
+      "name": "LLORAR!",
+      "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
+        "name": "raxets",
+        "url": "https://open.spotify.com/album/7E2h45zRGDsMo3hFLNhX4Z"
+      },
+      "artists": [
+        {
+          "name": "Dinamarca",
+          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
+        },
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        }
+      ],
+      "duration_ms": 114893,
+      "name": "raxets",
+      "url": "https://open.spotify.com/track/2Qh4VZQvEuoR0rm6ZjKzar"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -1231,78 +1303,6 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "Shippeo",
-        "url": "https://open.spotify.com/album/4DhwrVu3V0UOIZKWCW10pp"
-      },
-      "artists": [
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Shippeo",
-      "url": "https://open.spotify.com/track/0Fpf1FiEbWfr8rPWmibpLE"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
-        "name": "raxets",
-        "url": "https://open.spotify.com/album/7E2h45zRGDsMo3hFLNhX4Z"
-      },
-      "artists": [
-        {
-          "name": "Dinamarca",
-          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
-        },
-        {
-          "name": "Mushkaa",
-          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
-        }
-      ],
-      "duration_ms": 114893,
-      "name": "raxets",
-      "url": "https://open.spotify.com/track/2Qh4VZQvEuoR0rm6ZjKzar"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
-        "name": "LLORAR!",
-        "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
-      },
-      "artists": [
-        {
-          "name": "RIXXIA",
-          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
-        },
-        {
-          "name": "Fito Silva",
-          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
-        }
-      ],
-      "duration_ms": 107200,
-      "name": "LLORAR!",
-      "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
-        "name": "tqm <3",
-        "url": "https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ"
-      },
-      "artists": [
-        {
-          "name": "ZTVZ",
-          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
-        }
-      ],
-      "duration_ms": 156426,
-      "name": "tqm <3",
-      "url": "https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
         "name": "DOGGYSTYLE",
         "url": "https://open.spotify.com/album/5ey1vcVV7IbskYGhA6cu0T"
       },
@@ -1323,30 +1323,6 @@
       "duration_ms": 160408,
       "name": "DOGGYSTYLE",
       "url": "https://open.spotify.com/track/1Z9x2cExo980DaCTMONpGL"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
-        "name": "ENTE VIRTUAL",
-        "url": "https://open.spotify.com/album/0b99jXx0r365IFJFdsaf6I"
-      },
-      "artists": [
-        {
-          "name": "Chzter",
-          "url": "https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj"
-        },
-        {
-          "name": "Tzunami",
-          "url": "https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8"
-        },
-        {
-          "name": "Doony Graff",
-          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "ENTE VIRTUAL",
-      "url": "https://open.spotify.com/track/3C03edn86LdGuAMO3bIDqr"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -1403,6 +1379,30 @@
       "duration_ms": 161657,
       "name": "cash cash",
       "url": "https://open.spotify.com/track/6EzomjCdOsOBJna2gFxJ6Q"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
+        "name": "ENTE VIRTUAL",
+        "url": "https://open.spotify.com/album/0b99jXx0r365IFJFdsaf6I"
+      },
+      "artists": [
+        {
+          "name": "Chzter",
+          "url": "https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj"
+        },
+        {
+          "name": "Tzunami",
+          "url": "https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8"
+        },
+        {
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "ENTE VIRTUAL",
+      "url": "https://open.spotify.com/track/3C03edn86LdGuAMO3bIDqr"
     },
     {
       "added_at": "2026-06-26 06:00:38",

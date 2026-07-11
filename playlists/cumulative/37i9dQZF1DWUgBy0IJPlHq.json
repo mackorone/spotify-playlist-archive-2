@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Willow Avalon",
+  "description": "A new shade of Country. Cover: Houndmouth",
   "name": "Indigo",
   "tracks": [
     {
@@ -524,7 +524,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 172426,
       "name": "Ain't Dead Yet",
       "url": "https://open.spotify.com/track/4Lx2gmkk1OO863VQDlFJMK"
@@ -2622,7 +2622,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 217003,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/0xy3JGKV6Csj7d1CtE6NsG"
@@ -4332,7 +4332,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 224568,
       "name": "Easy On The Eyes",
       "url": "https://open.spotify.com/track/0FKafClDhDTAjjNGr7wV5t"
@@ -6144,6 +6144,24 @@
       "duration_ms": 240800,
       "name": "Heaven Passing Through",
       "url": "https://open.spotify.com/track/66Mk4Rd6A08oa6bF27uQxj"
+    },
+    {
+      "album": {
+        "name": "Lordy",
+        "url": "https://open.spotify.com/album/2QF10yAKT8ra06lmdKLjNX"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156600,
+      "name": "Heavy Eyes",
+      "url": "https://open.spotify.com/track/2tFYiDDaGGmYLrzQbiKjdu"
     },
     {
       "album": {
@@ -8934,7 +8952,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 202613,
       "name": "Marco Polo I",
       "url": "https://open.spotify.com/track/2SvFRKLN7WvCfol6VkNcIM"
@@ -11777,6 +11795,24 @@
     },
     {
       "album": {
+        "name": "Silver Promise",
+        "url": "https://open.spotify.com/album/6wffYgHLDDT84sTowEcEPr"
+      },
+      "artists": [
+        {
+          "name": "Presley Haile",
+          "url": "https://open.spotify.com/artist/7ns8HLT4c0KMeGqbk24CiH"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206460,
+      "name": "Silver Promise",
+      "url": "https://open.spotify.com/track/1W38NU5gapVcdoYN4JIBzf"
+    },
+    {
+      "album": {
         "name": "Silver Valley",
         "url": "https://open.spotify.com/album/6N8JvTIcevgsOAcwwfmJWo"
       },
@@ -11966,6 +12002,24 @@
       "duration_ms": 225506,
       "name": "Smoke on the Breeze",
       "url": "https://open.spotify.com/track/5eeI35qxPyO741RtfRQErm"
+    },
+    {
+      "album": {
+        "name": "Sober Somewhere",
+        "url": "https://open.spotify.com/album/52omEMGJEM5s3cGZRdG2S4"
+      },
+      "artists": [
+        {
+          "name": "Futurebirds",
+          "url": "https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190053,
+      "name": "Sober Somewhere",
+      "url": "https://open.spotify.com/track/1Lq3od1BpSfzY99iDJd3oH"
     },
     {
       "album": {
@@ -12486,6 +12540,24 @@
       "duration_ms": 224906,
       "name": "Stranger In My Bed",
       "url": "https://open.spotify.com/track/2X1bOZ6nBgbfQgRhyxU9uc"
+    },
+    {
+      "album": {
+        "name": "Strawberry Rhinestone",
+        "url": "https://open.spotify.com/album/6pHHgfdtht4v9TAgDxE9WM"
+      },
+      "artists": [
+        {
+          "name": "Two Runner",
+          "url": "https://open.spotify.com/artist/4pMqJEcrPoNT1QZgIUKBWg"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259450,
+      "name": "Strawberry Rhinestone",
+      "url": "https://open.spotify.com/track/7BAcAmm4hyKhd2sgZjSjdS"
     },
     {
       "album": {

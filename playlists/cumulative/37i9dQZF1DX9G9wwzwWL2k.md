@@ -4,7 +4,7 @@
 
 > Lend a little drama to the occasion with this collection of truly epic classical music.
 
-154 songs - 20 hr 41 min
+155 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Fantasie in C, Op\. 17: I\. Durchaus fantastisch und leidenschaftlich vorzutragen \- Im Legendenton \- Erstes Tempo](https://open.spotify.com/track/7dmFJ4l96vnOtbbxuHXHOP) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Maurizio Pollini \- Schumann Complete Recordings](https://open.spotify.com/album/2hiQHYrCXb3s9jsMxcsKzf) | 12:07 | 2020-11-03 | 2022-02-15 |
 | [Finlandia, Op\. 26](https://open.spotify.com/track/3hHWhvw2hjwfngWcFjIzqr) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Lahti Symphony Orchestra](https://open.spotify.com/artist/5RFv0vIgbz020yHVboJQ0y), [Osmo Vänskä](https://open.spotify.com/artist/2GhXDeZqUWAqSpz7So8yUt) | [The Sound of Sibelius](https://open.spotify.com/album/3c4pFqVpXlGjUt9yGSaCQi) | 8:27 | 2020-11-03 |  |
 | [First Sight](https://open.spotify.com/track/4NtRkpweTUxkKHvl0odbgD) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [First Sight](https://open.spotify.com/album/52gS5j43amMiH4c3mzWoie) | 2:42 | 2024-10-18 | 2025-05-24 |
+| [Four Illustrations for the Legend of Rhiannon: I\. The Conflict](https://open.spotify.com/track/2Ve4T9aS0saRRzh7CyZXWE) | [Grace Williams](https://open.spotify.com/artist/347Nf0Q2ZHBMqMf5e1wNB5), [BBC Philharmonic](https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X), [John Andrews](https://open.spotify.com/artist/0f5UbEeb7kpkmGMEYNSEzJ), [BBC Philarmonic](https://open.spotify.com/artist/0Q5VW6mLO48PVacCWF56sw) | [Grace Williams: Orchestral Works](https://open.spotify.com/album/4ru5IvJXm79Ghg8VPQPg8R) | 3:22 | 2026-07-10 |  |
 | [Gayane: Sabre Dance \- Redbook Stereo](https://open.spotify.com/track/7dSZFzpjRkIs0VSgOAexfJ) | [Aram Khachaturian](https://open.spotify.com/artist/5WIoytpqi3VWoFSHnl49in), [Arthur Fiedler](https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8) | [Pops Caviar](https://open.spotify.com/album/1N5YwVPdjYvGUS3Gb2tFiF) | 2:28 | 2020-11-03 | 2022-02-15 |
 | [Glass \(Arr\. Knoth for Solo Violin, Piano & Strings\)](https://open.spotify.com/track/4VAtedBdWADNrXc40ETjpx) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR), [Scoring Berlin](https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke), [Jonathan Stockhammer](https://open.spotify.com/artist/2PIjtepywKZwGT0mZIumrW) | [LIFE](https://open.spotify.com/album/1QZB5pIZbQ4FyPSYSujKfE) | 4:11 | 2024-08-23 |  |
 | [Grandes Etudes de Paganini, S\. 141: No\. 3 in G\-Sharp Minor\. La campanella \(Arr\. Busoni\)](https://open.spotify.com/track/0uE5i0EPbIt2juGja5pA8p) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Andrey Gugnin](https://open.spotify.com/artist/4xhMm2D1MNNpLdXKGd7CYe) | [Homage to Godowsky: Piano Works Dedicated to Leopold Godowsky](https://open.spotify.com/album/5ABg26DxJ0aaMV5FczB0Nx) | 5:28 | 2025-09-19 |  |

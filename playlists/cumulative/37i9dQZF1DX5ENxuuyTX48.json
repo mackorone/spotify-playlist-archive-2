@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "After all, we are all siblings. Cover: Tulus",
+  "description": "After all, we are all siblings. Cover: Barasuara",
   "name": "mantap vibes",
   "tracks": [
     {
@@ -364,7 +364,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 198599,
       "name": "36.000",
       "url": "https://open.spotify.com/track/3Pk5BbdJlgfgJmI6XotN6B"
@@ -7093,6 +7093,28 @@
     },
     {
       "album": {
+        "name": "Bulir Darahku",
+        "url": "https://open.spotify.com/album/2FuyBLdxesK5yNvShgUeJq"
+      },
+      "artists": [
+        {
+          "name": "Amira Othman",
+          "url": "https://open.spotify.com/artist/31aRV0LJpJ88B7WX6PNspi"
+        },
+        {
+          "name": "Hazama",
+          "url": "https://open.spotify.com/artist/5jKjGIfQbctItoit4X95XI"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277500,
+      "name": "Bulir Darahku",
+      "url": "https://open.spotify.com/track/1tWbWg7ZEoTJt0JV0mawgs"
+    },
+    {
+      "album": {
         "name": "Bunga",
         "url": "https://open.spotify.com/album/1RuAxg8fyFYxkdWm8BaHKh"
       },
@@ -7318,7 +7340,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 236800,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/0hlEfG7xZ34vlGRn6nCQkn"
@@ -8498,7 +8520,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 200888,
       "name": "Cinta Pada Pencipta",
       "url": "https://open.spotify.com/track/3kIn8f0d0OBAOn6fIpv20z"
@@ -14451,6 +14473,24 @@
     },
     {
       "album": {
+        "name": "Harum",
+        "url": "https://open.spotify.com/album/6pRIKmURneesL2lmVYsTll"
+      },
+      "artists": [
+        {
+          "name": "Donne Maula",
+          "url": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Harum",
+      "url": "https://open.spotify.com/track/5bmWvesOxUby29FglJQV3V"
+    },
+    {
+      "album": {
         "name": "Hatchu!!",
         "url": "https://open.spotify.com/album/1BTnjmmBTK1QxlqwYPdQ5F"
       },
@@ -19454,7 +19494,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 244524,
       "name": "Kamu Bukan Kekasihku",
       "url": "https://open.spotify.com/track/7I20jfqXQo4F3VKUqF4luc"
@@ -19722,7 +19762,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 240984,
       "name": "Kata Pujangga",
       "url": "https://open.spotify.com/track/6LjIOQp1We9GAFd18CwxKB"
@@ -20888,7 +20928,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 207474,
       "name": "Kisah Terbaik",
       "url": "https://open.spotify.com/track/6nGRs77lCVJmOdMsSKqv1T"
@@ -21256,7 +21296,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 277700,
       "name": "kota ini tak sama tanpamu - Orchestra Version",
       "url": "https://open.spotify.com/track/1KuosMMOJ6Ow6snWbMdgl5"
@@ -23437,6 +23477,24 @@
     },
     {
       "album": {
+        "name": "Love Me Or Not",
+        "url": "https://open.spotify.com/album/17lzVc2Q0ZJr6LmpL8QvDu"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220937,
+      "name": "Love Me Or Not",
+      "url": "https://open.spotify.com/track/3rMzmgRpuwrylEtOXDdGZ0"
+    },
+    {
+      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/4rZ781Xbs9LN4ixOdwKePg"
       },
@@ -24040,6 +24098,28 @@
       "duration_ms": 199534,
       "name": "Make U Blush",
       "url": "https://open.spotify.com/track/037MAvYyO35gv4vODbE3nC"
+    },
+    {
+      "album": {
+        "name": "Makhluk Cahaya",
+        "url": "https://open.spotify.com/album/6eDhPGnr2CiNCzPIa2w3WN"
+      },
+      "artists": [
+        {
+          "name": "TheOvertunes",
+          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
+        },
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "Makhluk Cahaya",
+      "url": "https://open.spotify.com/track/3yqz6HASo0XJX3XRTTBzzL"
     },
     {
       "album": {
@@ -26081,6 +26161,24 @@
     },
     {
       "album": {
+        "name": "Menjauh",
+        "url": "https://open.spotify.com/album/22jxLMpdCp52jKX71rAZTk"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zee",
+          "url": "https://open.spotify.com/artist/6S7ej7e57rN4ZLvdsn8D7g"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Menjauh",
+      "url": "https://open.spotify.com/track/31s9c4onUYoRas5RDOnDoR"
+    },
+    {
+      "album": {
         "name": "Menuju Bahagia",
         "url": "https://open.spotify.com/album/1r2m0OFBSldutEdc5dwwj4"
       },
@@ -27558,7 +27656,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 259000,
       "name": "Nama Yang Tersimpan",
       "url": "https://open.spotify.com/track/0dYxzNxXYHKGMQarCg1IaM"
@@ -27898,7 +27996,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 282000,
       "name": "Ngamen 88",
       "url": "https://open.spotify.com/track/3Vqu1pxgd9ESbRO84PYi1X"
@@ -31669,6 +31767,24 @@
     },
     {
       "album": {
+        "name": "Pura-Pura Hidup Lagi",
+        "url": "https://open.spotify.com/album/215cM6ZcDght6io5oZflQZ"
+      },
+      "artists": [
+        {
+          "name": "Aruma",
+          "url": "https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200738,
+      "name": "Pura-Pura Hidup Lagi",
+      "url": "https://open.spotify.com/track/0ZMycZdRRy0k621iSxOJgC"
+    },
+    {
+      "album": {
         "name": "Berbunga",
         "url": "https://open.spotify.com/album/7GICddTJ6Lyrm8IPSGtyXg"
       },
@@ -32596,6 +32712,24 @@
       "duration_ms": 224000,
       "name": "Renjana",
       "url": "https://open.spotify.com/track/0tZpUDFFHFrxvu6qrgSyCE"
+    },
+    {
+      "album": {
+        "name": "Renjana Jiwa",
+        "url": "https://open.spotify.com/album/7D4OQQqfdbtpJVMza9evMY"
+      },
+      "artists": [
+        {
+          "name": "Hazami",
+          "url": "https://open.spotify.com/artist/3qSFUgmLNLhid8Orlf37Dy"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214857,
+      "name": "Renjana Jiwa",
+      "url": "https://open.spotify.com/track/6d9UcJE9zMQhxRnRdiA5LJ"
     },
     {
       "album": {
@@ -33758,7 +33892,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 275229,
       "name": "Salah",
       "url": "https://open.spotify.com/track/5oj2DS3SUBDN3rQNivVJML"
@@ -34494,7 +34628,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 206000,
       "name": "Sarapan Di Hari Minggu",
       "url": "https://open.spotify.com/track/6VZz2Bmd2B6DpoJ5uIT48s"
@@ -35781,6 +35915,24 @@
     },
     {
       "album": {
+        "name": "Sembunyi Dari Bumi",
+        "url": "https://open.spotify.com/album/0wyYka8WEPBBxwJ5wa5iGO"
+      },
+      "artists": [
+        {
+          "name": "Anneth",
+          "url": "https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263294,
+      "name": "Sembunyi Dari Bumi",
+      "url": "https://open.spotify.com/track/4h0IeocQltFWS31EAE9MBv"
+    },
+    {
+      "album": {
         "name": "Observasi Transisi",
         "url": "https://open.spotify.com/album/3Unye4dZgHfEcLN3foo8X0"
       },
@@ -35836,6 +35988,24 @@
       "duration_ms": 226956,
       "name": "Semenjak Ada Dirimu",
       "url": "https://open.spotify.com/track/5H4MSA6eIr6x1iBTn1vpMG"
+    },
+    {
+      "album": {
+        "name": "Sementara",
+        "url": "https://open.spotify.com/album/71dnlpECsS9WTULj5697Vq"
+      },
+      "artists": [
+        {
+          "name": "Barasuara",
+          "url": "https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302009,
+      "name": "Sementara",
+      "url": "https://open.spotify.com/track/6uDklm1hw7782VKQrLTZT3"
     },
     {
       "album": {
@@ -36434,6 +36604,32 @@
       "duration_ms": 235700,
       "name": "Seolah Mampu Bertahan",
       "url": "https://open.spotify.com/track/7g9VIL09lYJaWUSMhqLGon"
+    },
+    {
+      "album": {
+        "name": "Sepanjang Jalan (From \"Moana\"/Versi Bahasa Indonesia)",
+        "url": "https://open.spotify.com/album/5Sv3YsD84XXziqqLcExFaK"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        },
+        {
+          "name": "Amora Lemos",
+          "url": "https://open.spotify.com/artist/2LtaczRkheOlNY8hhoU0CY"
+        },
+        {
+          "name": "Silet Open Up",
+          "url": "https://open.spotify.com/artist/5naPJsWUJ6y22yKXA6dX36"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257213,
+      "name": "Sepanjang Jalan - From \"Moana\"/Versi Bahasa Indonesia",
+      "url": "https://open.spotify.com/track/20aDE7fbCZGTFVfYwDFrt1"
     },
     {
       "album": {
@@ -40493,6 +40689,24 @@
     },
     {
       "album": {
+        "name": "TANDEMAN (From \u201cOperasi Pesta Copet\u201d)",
+        "url": "https://open.spotify.com/album/3TSHLtu0ltT0sWMQTFf9YU"
+      },
+      "artists": [
+        {
+          "name": "Ipang Lazuardi",
+          "url": "https://open.spotify.com/artist/6j7d3OtOyA95ESoCHJIJEh"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231141,
+      "name": "TANDEMAN (From \u201cOperasi Pesta Copet\u201d)",
+      "url": "https://open.spotify.com/track/3dhCcXQiJHMp5Jg6TRh5hI"
+    },
+    {
+      "album": {
         "name": "Tandus (feat. Boy Clifford)",
         "url": "https://open.spotify.com/album/5zOTipa5zqlfXgC2C9Tikb"
       },
@@ -41072,6 +41286,24 @@
       "duration_ms": 330000,
       "name": "Temaram",
       "url": "https://open.spotify.com/track/6ipIwA3MYYuqIIYb2KZRH4"
+    },
+    {
+      "album": {
+        "name": "Tempuh",
+        "url": "https://open.spotify.com/album/3jqANC15vTxL6JpZsx3d2Y"
+      },
+      "artists": [
+        {
+          "name": "Hady Mirza",
+          "url": "https://open.spotify.com/artist/2PpD3uapjVwWbLJI2qbG27"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244851,
+      "name": "Tempuh",
+      "url": "https://open.spotify.com/track/7ly5OdpR9vLlNUPmbE6HWh"
     },
     {
       "album": {
@@ -42726,7 +42958,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 203814,
       "name": "Tinggal Bilang Sayang",
       "url": "https://open.spotify.com/track/4M9fBGK8NcOHswMClASQJ7"

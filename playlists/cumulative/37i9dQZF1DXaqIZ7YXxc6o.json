@@ -34757,6 +34757,28 @@
     },
     {
       "album": {
+        "name": "Hold My Breath",
+        "url": "https://open.spotify.com/album/540DKCihQemJiYBN9AFi4m"
+      },
+      "artists": [
+        {
+          "name": "Albi",
+          "url": "https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Hold My Breath",
+      "url": "https://open.spotify.com/track/4FOdgYVV5xaMjY0NCZoFEu"
+    },
+    {
+      "album": {
         "name": "hold my hand",
         "url": "https://open.spotify.com/album/0CgtiMzPmtvTM115elKHao"
       },

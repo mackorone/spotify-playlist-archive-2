@@ -1013,6 +1013,36 @@
     },
     {
       "album": {
+        "name": "Super Power",
+        "url": "https://open.spotify.com/album/3LzWjKiMnifcDGTjBXtJkJ"
+      },
+      "artists": [
+        {
+          "name": "Samuel Folabi",
+          "url": "https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM"
+        },
+        {
+          "name": "Chizie",
+          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
+        },
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        },
+        {
+          "name": "TMP Music",
+          "url": "https://open.spotify.com/artist/0FSWMqdRbmwGSlcOlquXgo"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321610,
+      "name": "Albarkun Allah",
+      "url": "https://open.spotify.com/track/51IYEc1ytqmqHoZqnX7avn"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/7hQTCJrXZTRFUqjSMndW67"
       },
@@ -6258,6 +6288,10 @@
         {
           "name": "S.O.N Music",
           "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        },
+        {
+          "name": "Mike Aremu",
+          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
         },
         {
           "name": "SERIOUS MORALE",
@@ -34790,24 +34824,6 @@
       "duration_ms": 169933,
       "name": "Tornado",
       "url": "https://open.spotify.com/track/3MrxgrJaHZU1sxysl0xU7J"
-    },
-    {
-      "album": {
-        "name": "Super Power",
-        "url": "https://open.spotify.com/album/3LzWjKiMnifcDGTjBXtJkJ"
-      },
-      "artists": [
-        {
-          "name": "Samuel Folabi",
-          "url": "https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM"
-        }
-      ],
-      "date_added": "2026-07-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/51IYEc1ytqmqHoZqnX7avn"
     },
     {
       "album": {

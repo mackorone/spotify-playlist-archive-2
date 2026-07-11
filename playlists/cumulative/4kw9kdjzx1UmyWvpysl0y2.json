@@ -6629,6 +6629,28 @@
     },
     {
       "album": {
+        "name": "DUMFUK",
+        "url": "https://open.spotify.com/album/3nY9oNjrm5Hvq4p9KDoLc1"
+      },
+      "artists": [
+        {
+          "name": "Clockvice",
+          "url": "https://open.spotify.com/artist/0KgVymhgHYfOMP13j78XsS"
+        },
+        {
+          "name": "Vorso",
+          "url": "https://open.spotify.com/artist/5Og6MsfuDPnFYd1asgHXdH"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250400,
+      "name": "DUMFUK",
+      "url": "https://open.spotify.com/track/6Rp4w9HGlQS8fkAR7p5VXJ"
+    },
+    {
+      "album": {
         "name": "Eagle Rock",
         "url": "https://open.spotify.com/album/6uvex7L4oOshBeTbgtlzQN"
       },

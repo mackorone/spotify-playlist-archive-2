@@ -4932,7 +4932,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 127492,
       "name": "PAC-MANISM",
       "url": "https://open.spotify.com/track/06OI5rkTs4hHrlUGjD1UUw"
@@ -8360,6 +8360,32 @@
       "duration_ms": 204863,
       "name": "\u30d3\u30ea\u30d3\u30ea",
       "url": "https://open.spotify.com/track/42SUu53IgJVMMA5Uux2NyK"
+    },
+    {
+      "album": {
+        "name": "\u30d3\u30ea\u30d3\u30ea (Remix)",
+        "url": "https://open.spotify.com/album/2QbBH6uHpsEFU5A5mVuvwL"
+      },
+      "artists": [
+        {
+          "name": "Novel Core",
+          "url": "https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD"
+        },
+        {
+          "name": "JESSE",
+          "url": "https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef"
+        },
+        {
+          "name": "JUBEE",
+          "url": "https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251572,
+      "name": "\u30d3\u30ea\u30d3\u30ea - Remix",
+      "url": "https://open.spotify.com/track/6UU7kRvHQMVvRDlaEQBo2O"
     },
     {
       "album": {

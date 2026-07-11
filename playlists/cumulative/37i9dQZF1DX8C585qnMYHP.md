@@ -4,7 +4,7 @@
 
 > The best new music by independent Experimental artists\. <a href="spotify:artist:4bt8JAxE4tksg2VBgMCvIe">NZIRIA</a> on cover\. Artwork by Thami Nabil.
 
-2,239 songs - 7 day 5 hr 9 min
+2,240 songs - 7 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Cosplayer \(export per Guido\)](https://open.spotify.com/track/0C0VnUtQ9OMDyp9pt1bZf3) | [Mofw](https://open.spotify.com/artist/0SEWdriPzbyDyT38BWWxiH) | [Cosplayer \(export per Guido\)](https://open.spotify.com/album/3vx7q5z7zSCyZt6ghyAYiO) | 3:58 | 2025-09-24 | 2026-03-21 |
 | [Couversets](https://open.spotify.com/track/406Z9mgMQDId0lMSUoPKxG) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Pt\. I](https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK) | 3:40 | 2023-08-23 | 2024-04-19 |
 | [Couversets](https://open.spotify.com/track/5EFssJc6Liga3EDx3ZKyt2) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Couversets](https://open.spotify.com/album/6pcASjKyhro68f8knhtocL) | 3:40 | 2023-08-16 | 2024-03-18 |
+| [Cow With Half Moon Parasol](https://open.spotify.com/track/2pUjVfqByVLqkgrKBrsdkw) | [HUG](https://open.spotify.com/artist/0fPTd29x2F2C4lHNVUwFEs), [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf), [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [Cow With Half Moon Parasol](https://open.spotify.com/album/3s5JFSNttXDbwCEvCIctLS) | 4:36 | 2026-07-10 |  |
 | [Creatures](https://open.spotify.com/track/7iyso5r0vIAZKtN5TgJagH) | [Senchai](https://open.spotify.com/artist/4We6N72dQVLiXWXyLLBDP0) | [Insomnia EP](https://open.spotify.com/album/65VEew3wzPdc7xJTO4Bxu6) | 3:46 | 2023-01-11 | 2024-01-11 |
 | [Cremated Pets](https://open.spotify.com/track/7x5J1gHY3meL2fU1qwEHd2) | [Better Corners](https://open.spotify.com/artist/3B4xlbQUvkOpgmASosPYvd), [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz), [Sarah Register](https://open.spotify.com/artist/6W881Kbgid7iFFQ6l0TKoW), [Matthew Simms](https://open.spotify.com/artist/1em9lgTXrmTwRmvivI0bpD) | [Cremated Pets](https://open.spotify.com/album/0Jt4yUMAr8tOJnJ5EoJQYo) | 2:54 | 2023-10-11 | 2023-11-30 |
 | [Crepuscolo Svolazzante](https://open.spotify.com/track/2KHn1NoiGmSCl3wJLTQrVq) | [Ceri](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [WAXTAPE](https://open.spotify.com/album/5El2CB6KwFpF11EJNV0LdB) | 5:57 | 2022-11-30 | 2023-02-16 |
@@ -506,7 +507,7 @@
 | [Detach](https://open.spotify.com/track/0Las26koi1XNMPme6fOxcD) | [Crosstalk](https://open.spotify.com/artist/6xS8ncgjhNBXYqKDgOLKBq), [DJ LUKINHAS](https://open.spotify.com/artist/1ftCFF307OmsAVDAHHpn07) | [CT\-2](https://open.spotify.com/album/7FZUFguAeYaADn8uJ5dLKW) | 2:52 | 2024-10-02 | 2024-12-05 |
 | [Detached](https://open.spotify.com/track/77HgouqzfPVG8yFiAON5ff) | [Moon Kyoo](https://open.spotify.com/artist/1AhVoVOXXDOP5pkhUvoSjH) | [Reflections 06](https://open.spotify.com/album/6PWyrdq1w6eZjQDrvCxBKX) | 2:55 | 2023-09-13 | 2023-11-30 |
 | [Deux Paradis](https://open.spotify.com/track/5rpm1ugQFOy1X76YvVFmEO) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Deux Paradis](https://open.spotify.com/album/4uwHuTOND0nzdivw2yuqtG) | 4:33 | 2024-11-13 | 2024-12-05 |
-| [Devil's Hour](https://open.spotify.com/track/6ETvI7qq9NXRLvAukPRMnn) | [Cate Kennan](https://open.spotify.com/artist/7EQwugjyMg6mNu2aNuHDqR) | [Devil's Hour](https://open.spotify.com/album/1U4daTigP4MUgaRseu2nMg) | 2:54 | 2026-05-03 |  |
+| [Devil's Hour](https://open.spotify.com/track/6ETvI7qq9NXRLvAukPRMnn) | [Cate Kennan](https://open.spotify.com/artist/7EQwugjyMg6mNu2aNuHDqR) | [Devil's Hour](https://open.spotify.com/album/1U4daTigP4MUgaRseu2nMg) | 2:54 | 2026-05-03 | 2026-07-11 |
 | [Diamond Beach](https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Paranormal Phenomena – The Icelandic Expedition](https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup) | 3:04 | 2022-03-30 | 2023-03-16 |
 | [Diamond Beach](https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Diamond Beach](https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE) | 3:04 | 2022-03-09 | 2022-04-14 |
 | [Diana](https://open.spotify.com/track/1nFcnMt30u5GrrrmQqEPmC) | [Simon Minó](https://open.spotify.com/artist/0pLD2W1LBiQEzqtmAGYDNg) | [Diana](https://open.spotify.com/album/2WJYH98kfB1dUvsr8YhLP2) | 4:06 | 2021-02-27 | 2021-03-11 |

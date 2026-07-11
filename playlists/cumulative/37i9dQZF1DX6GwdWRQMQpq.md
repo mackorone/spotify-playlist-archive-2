@@ -2,7 +2,7 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Trim & Monaleo
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Yung Miami
 
 845 songs - 1 day 13 hr 31 min
 

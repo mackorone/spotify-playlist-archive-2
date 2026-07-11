@@ -4,7 +4,7 @@
 
 > New pop releases from the UK & Ireland 🌟<br/>cover: piri
 
-1,296 songs - 2 day 18 hr 33 min
+1,297 songs - 2 day 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Body On Me](https://open.spotify.com/track/6MglZeuPDQwHzZTxrRZfCW) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [I Promise No One's Watching](https://open.spotify.com/album/5IVW9XdJ8w9MFB6VO66AXZ) | 2:33 | 2025-06-12 | 2025-07-25 |
 | [Bone Structure](https://open.spotify.com/track/42jkxiYg7D05HKmQNsRp8o) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [Bone Structure](https://open.spotify.com/album/5Nqd6iPF3I8dFnVw66cFNV) | 3:01 | 2026-04-10 | 2026-05-15 |
 | [borderline](https://open.spotify.com/track/3cfG7BZUKJuHjXZTpfsjNK) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [borderline](https://open.spotify.com/album/0G2chJn3DFh0FSjdDG9iyT) | 3:25 | 2025-03-28 | 2025-04-18 |
+| [both be happier](https://open.spotify.com/track/6CIbLErx7WosfLorB4JE1T) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [girl in stem](https://open.spotify.com/album/17Ro49BRz5Gveylng2A7Ri) | 2:52 | 2026-07-09 |  |
 | [Bottlemouth](https://open.spotify.com/track/7AtSJqgvCDWnARg2GkCalv) | [Abbie Gordon](https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy) | [Bottlemouth](https://open.spotify.com/album/1ag5hxHZmZCU5NaUPkIh5Z) | 2:48 | 2026-03-27 | 2026-05-01 |
 | [Boundaries](https://open.spotify.com/track/3Fv7SlnWvwZgVMyBdAPkGR) | [seegz](https://open.spotify.com/artist/7sgYueUDoDPfAyobvj9dzY), [Josie Beth](https://open.spotify.com/artist/0tx30QHS1hiavYhtFV2PQE) | [Boundaries](https://open.spotify.com/album/1x3nseG1qIkHG0TX7yuoKi) | 3:33 | 2025-11-07 | 2026-01-03 |
 | [Boy Clothes](https://open.spotify.com/track/7nuCxvFvVT5YEAjSDd6Glr) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Boy Clothes](https://open.spotify.com/album/6WGqWtYCHsA1St6RupTo4F) | 2:14 | 2025-02-07 | 2025-03-14 |
@@ -715,6 +716,7 @@
 | [Living My Best Life](https://open.spotify.com/track/4zSPRXPBgSRuNTrZT7Qdog) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Living My Best Life](https://open.spotify.com/album/6ZLHC89iebjZDtcMIXgRPn) | 2:57 | 2025-05-15 | 2025-06-06 |
 | [london](https://open.spotify.com/track/1d4qHRx9qXwWIW09AUiLIg) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [stardust](https://open.spotify.com/album/2tPMXmAmKZho6vhIv4vjVG) | 3:23 | 2026-05-28 | 2026-07-03 |
 | [London](https://open.spotify.com/track/6Og1pgacDVVAm2xC5N9yeb) | [Rachel Leo](https://open.spotify.com/artist/7nvGqdG2C213Fb4ItZyxuQ) | [London](https://open.spotify.com/album/3f0PVlrT754wlLh7RJ4zxc) | 3:23 | 2026-04-03 | 2026-05-08 |
+| [London Tonight](https://open.spotify.com/track/0e04OZxrOF4VrDPFRPfXcO) | [Mercer](https://open.spotify.com/artist/3SWER2Np3pHA03J0MDHnV7) | [London Tonight](https://open.spotify.com/album/47M0OMLQ5G5AFgwqkKXDUf) | 3:25 | 2026-07-09 |  |
 | [Long Time Coming](https://open.spotify.com/track/6xMggNvbtZg5eevkqB1l57) | [Jos Rivers](https://open.spotify.com/artist/1MYNyuOMAAwyEYFwieKOjC) | [Long Time Coming](https://open.spotify.com/album/5ystHj82LhMaGTYuLRp3Uu) | 2:07 | 2026-03-06 | 2026-04-10 |
 | [looking for you](https://open.spotify.com/track/3PuHNz5VJXwGoWisr7Fpvi) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [looking for you](https://open.spotify.com/album/66Gsdt1XXTPPsTWE0LSuMz) | 3:22 | 2025-07-24 | 2025-08-22 |
 | [Loose Change](https://open.spotify.com/track/0dlb8Y5hR9mKMco9TV5rTj) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Loose Change](https://open.spotify.com/album/5WeJmwblXi85RBcOH1OtJk) | 2:58 | 2025-05-22 | 2025-06-27 |
@@ -1209,8 +1211,6 @@
 | [Touch You](https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [What I made with Joe](https://open.spotify.com/album/2D1gXzXVm3wbcjf3sEQjwV) | 2:53 | 2025-05-22 | 2025-06-27 |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-02-07 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 | 2025-07-25 |
-| [Track 1](https://open.spotify.com/track/6CIbLErx7WosfLorB4JE1T) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [girl in stem](https://open.spotify.com/album/17Ro49BRz5Gveylng2A7Ri) | 0:00 | 2026-07-09 |  |
-| [Track 4](https://open.spotify.com/track/3RHtI2W6ZlAuM0r96nLhC9) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [On Your Side](https://open.spotify.com/album/5H8h2QQ48TwqBpi6jXNDyr) | 0:00 | 2026-07-09 |  |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-04 | 2024-08-31 |
 | [tried everything](https://open.spotify.com/track/2Rw7rfyamcD0pHfhuHTgZp) | [ISABELLA](https://open.spotify.com/artist/5A4DUMbVKNqflzW5Dpa43Q), [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [tried everything](https://open.spotify.com/album/5sHPvxkTibczgvQVMEqV57) | 2:42 | 2026-04-30 | 2026-06-19 |
 | [Trophy](https://open.spotify.com/track/54r9LQzaIxObTwYrD6u5pk) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Trophy](https://open.spotify.com/album/768Zf5FplAHg9Izsq1KB9Z) | 3:08 | 2026-01-02 | 2026-02-13 |
@@ -1231,6 +1231,7 @@
 | [Understand U](https://open.spotify.com/track/2CBJwJn2AlPGxQuN3QgTKT) | [Leila McKenzie](https://open.spotify.com/artist/0bCEQkLomEgAbRwJu2p9aF), [Happy Cat Jay](https://open.spotify.com/artist/01O6JMBezb5PN1Y1P5RTM6) | [Understand U](https://open.spotify.com/album/2dSAZJWjqx1a44v6Twypqh) | 2:58 | 2024-06-04 | 2024-10-05 |
 | [Undress Me](https://open.spotify.com/track/11ePT1PAZwOeiJAv9NTsaQ) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Undress Me](https://open.spotify.com/album/35h2GhZ1ZyrsS10RuXL9sa) | 3:22 | 2025-12-05 | 2026-01-30 |
 | [ur luv is see through!](https://open.spotify.com/track/0AAik5GZKfDVdXXNzKVTlG) | [Divine Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [ur luv is see through!](https://open.spotify.com/album/0mos8b8lEAkWyDd5b4Uwx8) | 2:43 | 2025-07-17 | 2025-08-22 |
+| [Us Against The World](https://open.spotify.com/track/3RHtI2W6ZlAuM0r96nLhC9) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [On Your Side](https://open.spotify.com/album/5H8h2QQ48TwqBpi6jXNDyr) | 2:43 | 2026-07-09 |  |
 | [Vertigo](https://open.spotify.com/track/3jowQzeDQU4dIAKQg7ahXh) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [Sadgirl](https://open.spotify.com/album/4zWfJm5YZnk7ML3mRRi0Xo) | 2:53 | 2025-04-24 | 2025-05-16 |
 | [Vespa](https://open.spotify.com/track/1O0LDELRqSQDp6fJ33IdY8) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [Vespa](https://open.spotify.com/album/57Bnn8VObqPexezSOXGAsM) | 3:44 | 2026-03-06 | 2026-04-17 |
 | [Vice](https://open.spotify.com/track/4ydj9EtjIYoNyYP9LTcWJd) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF) | [Vice](https://open.spotify.com/album/4jam1vX61Auhg70EP2E0OS) | 3:05 | 2025-01-17 | 2025-02-14 |

@@ -4,7 +4,7 @@
 
 > Playlist
 
-651 songs - 1 day 14 hr 30 min
+652 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -589,6 +589,7 @@
 | [The Weight](https://open.spotify.com/track/2WIoUX26d3pbK4hiO8PVNw) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [The Essential John Moods](https://open.spotify.com/album/6yluHZ4EXwXBrjecaBcgwP) | 3:12 | 2023-10-25 |  |
 | [These Days](https://open.spotify.com/track/6o7D1Uak91nKsXKypKznw0) | [Atomic Blue](https://open.spotify.com/artist/4rcAeGnWUBRTTLlh2DauQJ) | [These Days](https://open.spotify.com/album/2b4Zkl1LheUqTvx0YJMTvU) | 2:25 | 2023-10-25 |  |
 | [Things will be fine](https://open.spotify.com/track/5fDVGTBnAnB8K0Kcn3Lmf6) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:30 | 2023-10-25 |  |
+| [This is a Poem](https://open.spotify.com/track/5JLlk8QoH8jlzdUXRvYFPZ) | [Worries And Other Plants](https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc) | [This is a Poem](https://open.spotify.com/album/0AS4354AoY7EWpJIVxz8iv) | 3:31 | 2026-07-10 |  |
 | [This World Can Wait](https://open.spotify.com/track/0yFCbNI02sCBbSSr5O7mer) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [Reasonings](https://open.spotify.com/album/4KmHuc0BNk5nMlZVMaL1c4) | 3:08 | 2024-11-14 |  |
 | [Three Four](https://open.spotify.com/track/0qKGdje9mi0K1RH2qOK4Vm) | [Worries And Other Plants](https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc) | [Sweet Heart Sugar Love](https://open.spotify.com/album/29xXHSOnoCwEFbu5K6oaUR) | 2:53 | 2026-02-20 |  |
 | [through](https://open.spotify.com/track/28mPBhmQS6lY68NPqrlRS3) | [Love Seats](https://open.spotify.com/artist/5TpcFHcLdEiGjsiuj9hiD6) | [through](https://open.spotify.com/album/31KJIOyefMwvgpGCTxH4Q9) | 3:25 | 2024-11-15 |  |

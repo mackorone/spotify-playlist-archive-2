@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-976 songs - 1 day 22 hr 8 min
+977 songs - 1 day 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [2 Major](https://open.spotify.com/track/1OFAjnS59a3QKIZD7ovz5h) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [2 Major](https://open.spotify.com/album/7opILR5fivGIZoHoH8sROn) | 2:18 | 2025-04-04 | 2026-05-02 |
 | [2003](https://open.spotify.com/track/2kQhnUGXjDIpG6yCn5Rzll) | [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Ots J Huncho](https://open.spotify.com/artist/3t0reSevrtrvnbSccbMo7l) | [2003](https://open.spotify.com/album/47A2NYUmjD9qRnO48VgNxN) | 2:26 | 2025-11-07 |  |
 | [2BIG!](https://open.spotify.com/track/1b6aMjLdJG6zAytUggQHj1) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [2BIG!](https://open.spotify.com/album/3P5YjGhkXFyHHYxxR9IHPL) | 3:14 | 2024-02-02 | 2024-07-06 |
+| [400 Down](https://open.spotify.com/track/1g4IKIdKCx12iox1JPD6bR) | [LANELL GRANT](https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ) | [400 Down](https://open.spotify.com/album/6PXoM9qRW5BiS3WpEGKasf) | 3:15 | 2026-07-03 |  |
 | [Abacus](https://open.spotify.com/track/6NWHhbD4HG7IqLrks7aAju) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Abacus](https://open.spotify.com/album/3KyWbqtqq3MXd7QOQMS7D1) | 2:03 | 2025-05-09 | 2026-02-21 |
 | [ABOVE IT](https://open.spotify.com/track/6zlPHn6wW5yxffhUIs6Xio) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Wordsplayed](https://open.spotify.com/artist/0AKzJfX9rdEu8WOqeBLEaO), [Magic & Bird](https://open.spotify.com/artist/3Sv0RnybkUFxZfPJJlSV2x) | [GET THE TABLES](https://open.spotify.com/album/3q69IgBIYsu95OxhepUi40) | 1:45 | 2026-05-29 |  |
 | [ABOVE ME \(feat\. Parris Chariz\)](https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [ABOVE ME \(feat\. Parris Chariz\)](https://open.spotify.com/album/7a7gNlcfFqoq2tCQmz2RoG) | 2:47 | 2022-02-04 | 2023-08-12 |
@@ -112,7 +113,7 @@
 | [Boast](https://open.spotify.com/track/3m0ZlvZBVGCY92ekvvC52W) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Augustine's Legacy](https://open.spotify.com/album/5Fr8CO5IgNqD8LajlS4Y9f) | 3:01 | 2023-08-11 | 2024-02-03 |
 | [Body Bag \(feat\. Datin & Selah the Corner\)](https://open.spotify.com/track/2bJZWKHSEMH2dHNRoaPIf0) | [StefanOtto](https://open.spotify.com/artist/3nMvsvhZ9j3EAC6p0DKeSR), [Datin](https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4), [Selah the Corner](https://open.spotify.com/artist/5RGpSLDa24rgCKsKIiGuwn), [Soundnami](https://open.spotify.com/artist/32DKzUnquBNhHgAP4xWjOm) | [Til Heaven Comes](https://open.spotify.com/album/31wUS0lLaOmLGpZ1WUTKsw) | 4:11 | 2022-03-11 | 2022-03-24 |
 | [Bom Tempo \(Good Time\)](https://open.spotify.com/track/2N32YQOuBOocvuvQdtKK2k) | [Adriel Cruz](https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa), [Pregador Luo](https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r) | [Bom Tempo \(Good Time\)](https://open.spotify.com/album/7KOXaCUcUOCtl7RBUjaHt2) | 2:19 | 2022-02-04 | 2022-09-03 |
-| [BOOM!](https://open.spotify.com/track/7aip3a5tzvuRuS0MhdCOoF) | [Errol Allen](https://open.spotify.com/artist/0vPHZqFce2oHEMQfTL6Ohc) | [BOOM!](https://open.spotify.com/album/4t7qgQ1Q84zF9VILKYp017) | 2:18 | 2025-12-12 |  |
+| [BOOM!](https://open.spotify.com/track/7aip3a5tzvuRuS0MhdCOoF) | [Errol Allen](https://open.spotify.com/artist/0vPHZqFce2oHEMQfTL6Ohc) | [BOOM!](https://open.spotify.com/album/4t7qgQ1Q84zF9VILKYp017) | 2:18 | 2025-12-12 | 2026-07-11 |
 | [Boost It Up](https://open.spotify.com/track/1M4xXF3ysXJhy0oOXYn60J) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [EGR](https://open.spotify.com/artist/4EJIkbig1thbV3C3B68c56) | [Boost It Up](https://open.spotify.com/album/4WnfeGJ9QVzmyrUa9v38Uc) | 2:37 | 2024-03-20 | 2024-06-08 |
 | [BOSS](https://open.spotify.com/track/2YYMl0fsIdd0945tqeoruQ) | [NXTMIKE](https://open.spotify.com/artist/2yMOYu5UEVMeoZmBczRR5g), [Kip Wolfe](https://open.spotify.com/artist/2HIuIgSR9YhmXZCfv0SVhS), [TRAPSHIP COLLECTIVE](https://open.spotify.com/artist/7CsdYLl6ItJb7WK7Kak1Sz) | [BOSS](https://open.spotify.com/album/1VFRXgn1jNhvh76mJAA0aR) | 2:10 | 2022-02-04 | 2024-01-13 |
 | [BOTS \(freestyle\)](https://open.spotify.com/track/73csrPe5BOciEL8EQX6C0p) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Lite Pole](https://open.spotify.com/artist/4VcphREP0VLTCdji1JEUHl) | [BOTS \(freestyle\)](https://open.spotify.com/album/7yv9goNuPJecL9U7LD5lhe) | 1:48 | 2022-03-23 | 2022-04-30 |

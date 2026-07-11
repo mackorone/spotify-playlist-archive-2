@@ -1,13 +1,33 @@
 {
   "description": "The best Progressive House in the scene. <a href=\"https://ffm.link/9o81evb/\">Instagram</a>, <a href=\"https://ffm.link/xjgmb7\">Website, </a><a href=\"https://ffm.link/bknqm1j\">Merch</a>",
-  "num_followers": 108528,
+  "num_followers": 108564,
   "original_name": "Progressive House 2026",
   "owner": {
     "name": "Enhanced Music",
     "url": "https://open.spotify.com/user/enhanced_music"
   },
-  "snapshot_id": "AABAqZ8WZOKmUSQUctvouKe9aEpixl+f",
+  "snapshot_id": "AABAsOOlCe4yct1HFJsfX8PJt4wgKvOf",
   "tracks": [
+    {
+      "added_at": "2026-07-10 07:52:49",
+      "album": {
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/5MqJh7SqNjyPGgDAQ1l3gK"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "Shaun Farrugia",
+          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
+        }
+      ],
+      "duration_ms": 260307,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/6yVKpXTmnnj7hHdzCNqGfb"
+    },
     {
       "added_at": "2026-06-26 08:34:39",
       "album": {
@@ -47,6 +67,22 @@
       "duration_ms": 212125,
       "name": "The Otherside",
       "url": "https://open.spotify.com/track/24o75mzoNlcTtyiyqKVpBB"
+    },
+    {
+      "added_at": "2026-07-10 07:56:04",
+      "album": {
+        "name": "Walk Away / MoMa",
+        "url": "https://open.spotify.com/album/26q8oJiQ8N8tcgOjEi9Wcw"
+      },
+      "artists": [
+        {
+          "name": "John Grand",
+          "url": "https://open.spotify.com/artist/0aEdRQpkXFx1g2GwRfJgTy"
+        }
+      ],
+      "duration_ms": 244838,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/3DZSzV8HXsjJvryliMHmfp"
     },
     {
       "added_at": "2026-06-26 08:34:39",
@@ -423,6 +459,22 @@
       "duration_ms": 191612,
       "name": "Kinetic",
       "url": "https://open.spotify.com/track/2jktpTUmFD2Wm2FSsEPpsA"
+    },
+    {
+      "added_at": "2026-07-10 08:08:59",
+      "album": {
+        "name": "Carousel",
+        "url": "https://open.spotify.com/album/1T4QMuYevzoFiqwPuyfgtR"
+      },
+      "artists": [
+        {
+          "name": "WHAT EVA",
+          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
+        }
+      ],
+      "duration_ms": 195757,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/3tuB5Phqt4BDhPJw4kHU9F"
     },
     {
       "added_at": "2026-06-26 08:34:39",
@@ -2059,182 +2111,6 @@
       "duration_ms": 234375,
       "name": "States Of Flux",
       "url": "https://open.spotify.com/track/5OA1CKlkuzizhwDbhFmdCT"
-    },
-    {
-      "added_at": "2026-06-26 08:34:39",
-      "album": {
-        "name": "Comfort In Chaos",
-        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Paige Cavell",
-          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
-        }
-      ],
-      "duration_ms": 236270,
-      "name": "Tears (with Paige Cavell)",
-      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
-    },
-    {
-      "added_at": "2026-06-26 08:34:39",
-      "album": {
-        "name": "Fall Again",
-        "url": "https://open.spotify.com/album/4Lgy6GaK2eR2QwOyoDeDg0"
-      },
-      "artists": [
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 206794,
-      "name": "Fall Again",
-      "url": "https://open.spotify.com/track/3oOvEw1pgxMtrQMNgPWQHL"
-    },
-    {
-      "added_at": "2026-06-26 08:34:39",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78"
-      },
-      "artists": [
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        },
-        {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR"
-    },
-    {
-      "added_at": "2026-06-26 08:34:39",
-      "album": {
-        "name": "Human (feat. Echoes)",
-        "url": "https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Echoes",
-          "url": "https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Human (feat. Echoes)",
-      "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
-    },
-    {
-      "added_at": "2026-06-26 08:34:39",
-      "album": {
-        "name": "Hold Me Close",
-        "url": "https://open.spotify.com/album/0ZmQD2h7DSwmupbdDYtL5F"
-      },
-      "artists": [
-        {
-          "name": "Kasablanca",
-          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
-        }
-      ],
-      "duration_ms": 241236,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/3TeV1sADwT0CO1xSMXYDDw"
-    },
-    {
-      "added_at": "2026-06-26 08:34:39",
-      "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/7GcYlKoGthIVBMbeqrgSFP"
-      },
-      "artists": [
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
-        }
-      ],
-      "duration_ms": 185457,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/24yo0cq77Buu7pcaba93Ue"
-    },
-    {
-      "added_at": "2026-06-26 08:34:39",
-      "album": {
-        "name": "Where I'm From",
-        "url": "https://open.spotify.com/album/71N6oT6Vtqs5xjn9b1xxYK"
-      },
-      "artists": [
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        },
-        {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        },
-        {
-          "name": "Belladonna (ofc) ",
-          "url": "https://open.spotify.com/artist/1ECGFhfV6SJLbKnTvBFsaQ"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Where I'm From",
-      "url": "https://open.spotify.com/track/0JFNTfRWLqQ09z9ZHldX8d"
-    },
-    {
-      "added_at": "2026-06-26 08:34:39",
-      "album": {
-        "name": "Taking Me Higher",
-        "url": "https://open.spotify.com/album/3nKZqNHlPc7Vof0KMzIlVT"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        },
-        {
-          "name": "MRYN",
-          "url": "https://open.spotify.com/artist/6nvB3AlAAvRl4OGvPOPsMR"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "Taking Me Higher",
-      "url": "https://open.spotify.com/track/0UoiboSXdV8r2Yd40Oho08"
-    },
-    {
-      "added_at": "2026-06-26 08:34:39",
-      "album": {
-        "name": "Crash Landing",
-        "url": "https://open.spotify.com/album/33K82KXEzVkNyqCg8FzWUZ"
-      },
-      "artists": [
-        {
-          "name": "U-Jeen",
-          "url": "https://open.spotify.com/artist/0AFOtwiZNKRKPx7WlDXUWJ"
-        },
-        {
-          "name": "B_SAN",
-          "url": "https://open.spotify.com/artist/2r6UST0wWH7RdRqLqUvm8b"
-        }
-      ],
-      "duration_ms": 203876,
-      "name": "Crash Landing",
-      "url": "https://open.spotify.com/track/4jxy5teSqBWmOFqrPH1VPi"
     }
   ],
   "unique_name": "Progressive House 2026",

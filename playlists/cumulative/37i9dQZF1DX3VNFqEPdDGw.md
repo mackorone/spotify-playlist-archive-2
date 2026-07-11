@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Navaan Sandhu & Param
 
-423 songs - 21 hr 42 min
+424 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,11 +359,12 @@
 | [Sip Sip](https://open.spotify.com/track/3PKEWXIkFwSJnlGdhjivCP) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Intense](https://open.spotify.com/artist/1fiV2IiPFeUHHg6LGKHF9R) | [Sip Sip](https://open.spotify.com/album/5VZK2hiVQ86cVglMLXsIga) | 3:36 | 2025-01-28 |  |
 | [Sira E Hou](https://open.spotify.com/track/31RGhwIcmQg109TxWiHteQ) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Sira E Hou](https://open.spotify.com/album/2Uil84aGsZm6kd2j2FVClR) | 3:20 | 2021-12-18 | 2025-01-09 |
 | [Snake Charmer](https://open.spotify.com/track/6CSjET6CC7SRqFNyNvQcRw) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [Sukshinder Shinda](https://open.spotify.com/artist/6Mp7fezR1NJNc7tnybKo18) | [Snake Charmer](https://open.spotify.com/album/2ngFdTXwh9ehbsv2Xa8oAe) | 4:56 | 2023-02-21 | 2023-05-26 |
+| [Sohniye](https://open.spotify.com/track/4rL0ikdBsPgGF4QkOkX9YC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sohniye](https://open.spotify.com/album/0SQKVfRe9nUS9ULfGQ0fOo) | 2:34 | 2026-07-10 |  |
 | [Soohe Ve Cheere Waleya \- From "Soohe Ve Cheere Waleya"](https://open.spotify.com/track/3WawaDHSNhv7uv50HZkAeP) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Bir Singh](https://open.spotify.com/artist/6Su06O6MCxKJXOtxkM8iBi), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Soohe Ve Cheere Waleya \(From "Soohe Ve Cheere Waleya"\)](https://open.spotify.com/album/5591O5Zy1d8u9YKhrOpeFB) | 2:23 | 2025-10-08 | 2025-10-14 |
 | [Sorry](https://open.spotify.com/track/6vNwtyeEXQTLDnWFmEGlbG) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [Sorry](https://open.spotify.com/album/2VmNAyodPzVsndwScEShst) | 2:11 | 2021-12-18 | 2022-01-11 |
 | [Star](https://open.spotify.com/track/41i79wo8uVSA74MUD1CbVZ) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Munda Sidhua Da](https://open.spotify.com/album/4Q4oPqoWHnWuRPIqMb0ohS) | 4:05 | 2021-12-18 | 2022-01-11 |
 | [Step Bhull Gyi](https://open.spotify.com/track/2wJdq8jS5hKKQHbPBjynQx) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Bhadauria](https://open.spotify.com/album/2l2IZm9oxJEOnzQRONl3h0) | 3:16 | 2025-01-08 |  |
-| [Still Blessed](https://open.spotify.com/track/07HEIcwXVL3RE6fbttEeAp) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Still Blessed](https://open.spotify.com/album/1Tl4m3E5DZxWKnho6jmC2x) | 2:26 | 2025-03-10 |  |
+| [Still Blessed](https://open.spotify.com/track/07HEIcwXVL3RE6fbttEeAp) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Still Blessed](https://open.spotify.com/album/1Tl4m3E5DZxWKnho6jmC2x) | 2:26 | 2025-03-10 | 2026-07-11 |
 | [Still Standing](https://open.spotify.com/track/6qJwdPK0bMWyX2ys3lZ23y) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [Underrated](https://open.spotify.com/album/2k3QwEDSQHgQLclE3Cvcov) | 2:38 | 2021-12-18 | 2023-09-02 |
 | [Stoole](https://open.spotify.com/track/7LAlUMPRkSEdTCBAzPiSTQ) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [Stoole](https://open.spotify.com/album/5w95INvDMDcVJiH9NoWHRp) | 2:49 | 2025-07-16 | 2025-12-11 |
 | [Success Talks](https://open.spotify.com/track/7gmZMFm1iLDKefXdUMaI8y) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Success Talks](https://open.spotify.com/album/1CvVfkTzmA4rQXqPR2FsH2) | 2:08 | 2025-08-07 | 2025-10-09 |

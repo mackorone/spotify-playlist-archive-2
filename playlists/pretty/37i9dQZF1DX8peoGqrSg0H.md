@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: NANON
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,801 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,813 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 46 | [พระเอก \(Prince Charming\)](https://open.spotify.com/track/4LA05aGTan7ABeAYaLIL0l) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [พระเอก \(Prince Charming\)](https://open.spotify.com/album/5Fvwxjs1m22hV0qkgMmrY9) | 3:49 |
 | 47 | [What's going on](https://open.spotify.com/track/5dIYl0ERKVWLz6cKpfWwKp) | [PP KRIT](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [What's going on](https://open.spotify.com/album/1vTJWhwPxSs22314Mp8fYN) | 3:35 |
 | 48 | [เรียกว่ารักได้ไหม \(Is This Love?\)](https://open.spotify.com/track/0I4xF90oDZ1tOtZvai8Dtu) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei), [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [เรียกว่ารักได้ไหม \(Is This Love?\)](https://open.spotify.com/album/2EE5Az5ygqidTPBQQxBkbZ) | 3:06 |
-| 49 | [Take Our Time \(From "ด้วงกับเธอ"\)](https://open.spotify.com/track/6siqePsBfrF0SoHmWrPUEQ) | [JINWOOK](https://open.spotify.com/artist/0vLU3ZaBYwWPRoCpxuDKiL), [PHUTATCHAI](https://open.spotify.com/artist/6E6bDv5ZGjEX2lv1KWmzpZ) | [Take Our Time \(From "ด้วงกับเธอ"\)](https://open.spotify.com/album/4YUoymyzePtO2w5Eqqxu9F) | 3:10 |
+| 49 | [Take Our Time \(From "ด้วงกับเธอ"\)](https://open.spotify.com/track/6siqePsBfrF0SoHmWrPUEQ) | [JINWOOK OF BUS](https://open.spotify.com/artist/2Q0ZSkGIWSEhH8ZFMGzWRi), [PHUTATCHAI OF BUS](https://open.spotify.com/artist/2nJcJjyJdSshxl9R20ZV71) | [Take Our Time \(From "ด้วงกับเธอ"\)](https://open.spotify.com/album/4YUoymyzePtO2w5Eqqxu9F) | 3:10 |
 | 50 | [Pretty Girl](https://open.spotify.com/track/6tB3Own6faovgVetrvNCiZ) | [KimGun](https://open.spotify.com/artist/12mLwmGdGDI6nZxur0atkl) | [Pretty Girl](https://open.spotify.com/album/08H6tDS77MOL0eL5RT2qqE) | 2:47 |
 
 Snapshot ID: `AAAAAAwbHd4sDbPQW4whiHfM8u3KafgR`

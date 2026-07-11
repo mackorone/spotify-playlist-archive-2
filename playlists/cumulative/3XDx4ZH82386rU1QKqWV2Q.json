@@ -1129,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "Bad Decision",
+        "url": "https://open.spotify.com/album/0mm5EEKLKqxTGGVpIjhzR6"
+      },
+      "artists": [
+        {
+          "name": "Rapha Tex",
+          "url": "https://open.spotify.com/artist/5sD3m2vWgbYCANLWxCFhk5"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228923,
+      "name": "Bad Decision",
+      "url": "https://open.spotify.com/track/3FC99aaOq5vL3yg2Aqbwd0"
+    },
+    {
+      "album": {
         "name": "Bad Love",
         "url": "https://open.spotify.com/album/3I0quc3eR6vaxcrhZ0YCSi"
       },
@@ -1354,7 +1372,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 216734,
       "name": "Better Not",
       "url": "https://open.spotify.com/track/5Anx0gSH15CC6sUnvAf9fK"
@@ -1566,7 +1584,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 217186,
       "name": "Blind Drive",
       "url": "https://open.spotify.com/track/0nyGQbo1AeXDdLbVRTXeAf"
@@ -2470,7 +2488,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 128624,
       "name": "CEILINGS",
       "url": "https://open.spotify.com/track/3qyN4mCrH4sJJaKKFAqjRo"
@@ -3053,6 +3071,24 @@
     },
     {
       "album": {
+        "name": "Tale Building Sequence",
+        "url": "https://open.spotify.com/album/5mKJMZ3jrxuiRzcPx42ya0"
+      },
+      "artists": [
+        {
+          "name": "Irtiss",
+          "url": "https://open.spotify.com/artist/4HTSTutbpxdMZBQOApPkY1"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270129,
+      "name": "Curious Roar",
+      "url": "https://open.spotify.com/track/53RBp16Kd6mhAmjvX2wv6J"
+    },
+    {
+      "album": {
         "name": "CUTE DEPRESSED",
         "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
       },
@@ -3170,7 +3206,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 144000,
       "name": "DANGEL",
       "url": "https://open.spotify.com/track/06iHOxpiYLuTs12SwCtjs4"
@@ -3312,7 +3348,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 203870,
       "name": "DATAFALL",
       "url": "https://open.spotify.com/track/1txRhm6KSE98PpNnrxrxWY"
@@ -3901,6 +3937,24 @@
     },
     {
       "album": {
+        "name": "Domino Theory",
+        "url": "https://open.spotify.com/album/7Mem6FFfvBzY2XsK7UKxQR"
+      },
+      "artists": [
+        {
+          "name": "Protaxia",
+          "url": "https://open.spotify.com/artist/1PSn1WrDaIYYu2ZJrbOVAy"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207428,
+      "name": "Domino Theory",
+      "url": "https://open.spotify.com/track/3vvd8feCbV9b8C0DDJu7RE"
+    },
+    {
+      "album": {
         "name": "DON'T KNOW ME",
         "url": "https://open.spotify.com/album/02BiuMVMRZ93Rmcra4M240"
       },
@@ -4384,7 +4438,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 150857,
       "name": "ENGULFED",
       "url": "https://open.spotify.com/track/0HJ9alp6CCs8Sjw1v0ghur"
@@ -5808,7 +5862,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 167400,
       "name": "Ghosts In The Network",
       "url": "https://open.spotify.com/track/3rIMZ6GuubWPIf1eB5GGIS"
@@ -5880,7 +5934,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 283996,
       "name": "Glimpse of a Vision",
       "url": "https://open.spotify.com/track/5pUI6OXQbfcOkPmxxc70Z5"
@@ -6878,7 +6932,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 235448,
       "name": "Hollow Tipsy",
       "url": "https://open.spotify.com/track/68NgxnDua1Tu0fJWMXf4wT"
@@ -7216,7 +7270,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 178285,
       "name": "I Love The Way You Move",
       "url": "https://open.spotify.com/track/38JO0Fbh890NJlQPEfTDPm"
@@ -7714,7 +7768,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 137509,
       "name": "Izotope",
       "url": "https://open.spotify.com/track/1HscifWERrFBCDRgtlbeM7"
@@ -8396,6 +8450,24 @@
       "duration_ms": 212500,
       "name": "LED Poisoning",
       "url": "https://open.spotify.com/track/4WmCTMxkCHZYXpIiqds8pj"
+    },
+    {
+      "album": {
+        "name": "Left With Yesterday",
+        "url": "https://open.spotify.com/album/2RCR9MSrm5iYv2WNhkWfbd"
+      },
+      "artists": [
+        {
+          "name": "Don Sombra",
+          "url": "https://open.spotify.com/artist/2m8fSVToIn9XTxSDS1JZvL"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354324,
+      "name": "Left With Yesterday",
+      "url": "https://open.spotify.com/track/6RRaMDs7QA4wuKgO8tlPP1"
     },
     {
       "album": {
@@ -10346,7 +10418,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 229826,
       "name": "NEON DREAMS NIGHT DRIVE",
       "url": "https://open.spotify.com/track/2wF9pkziX4QfXdJBimwiYY"
@@ -10890,7 +10962,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 192000,
       "name": "OLAA",
       "url": "https://open.spotify.com/track/5l6nNJGuxrvmoOYbMqdAAf"
@@ -11802,7 +11874,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 300791,
       "name": "Question",
       "url": "https://open.spotify.com/track/2bdBAvrgXWVKl6ktp3lxOA"
@@ -15070,7 +15142,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 275200,
       "name": "Transcendent",
       "url": "https://open.spotify.com/track/2uFtSeFCgnaMAlSYDJJtDu"
@@ -15679,6 +15751,24 @@
     },
     {
       "album": {
+        "name": "Pay Attention to Me",
+        "url": "https://open.spotify.com/album/2JpkP5mLRbWr19HwaYKfqj"
+      },
+      "artists": [
+        {
+          "name": "Next To Blue",
+          "url": "https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214100,
+      "name": "Ventricle",
+      "url": "https://open.spotify.com/track/2BVWzdXDlOfh85Qsw2IXMQ"
+    },
+    {
+      "album": {
         "name": "VETEMENTS",
         "url": "https://open.spotify.com/album/3RzoYUYVjKMwtGme0QaUoz"
       },
@@ -15774,7 +15864,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 192000,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/3rh8MhyKSRrZJJy5G5ELdz"
@@ -16478,6 +16568,24 @@
       "duration_ms": 84705,
       "name": "yupyupyup!",
       "url": "https://open.spotify.com/track/36dyTYh7Yqr3mXLjwaXM76"
+    },
+    {
+      "album": {
+        "name": "Votum (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/0comwLdcW312dt5Z1ZjsxM"
+      },
+      "artists": [
+        {
+          "name": "\u041f\u043e\u043a\u043e\u0439 \u0438 \u0413\u0440\u0451\u0437\u044b",
+          "url": "https://open.spotify.com/artist/6YK1TGIVW4Hht4KLu9HT6t"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171656,
+      "name": "\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u043e (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/4dBkYu0YxOGGfCI714i8iM"
     },
     {
       "album": {

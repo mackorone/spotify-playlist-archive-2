@@ -9783,6 +9783,24 @@
     },
     {
       "album": {
+        "name": "what're we doing?",
+        "url": "https://open.spotify.com/album/2AtX3aO6bRDHtc1qO3W61D"
+      },
+      "artists": [
+        {
+          "name": "Ethan Jacobs",
+          "url": "https://open.spotify.com/artist/7rLn0S7IQ2UibUTclefgGA"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243750,
+      "name": "what're we doing?",
+      "url": "https://open.spotify.com/track/04bZCSivQeAQLCfVu6CTEQ"
+    },
+    {
+      "album": {
         "name": "Songs I Wrote Instead of Texting You",
         "url": "https://open.spotify.com/album/0ILbdAxdFBfNZXRexPMEYo"
       },

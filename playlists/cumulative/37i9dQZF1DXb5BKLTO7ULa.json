@@ -25869,6 +25869,32 @@
     },
     {
       "album": {
+        "name": "BamBam/4DW",
+        "url": "https://open.spotify.com/album/7mMQEouab5MrxnJ9M89VGP"
+      },
+      "artists": [
+        {
+          "name": "De Sluwe Vos",
+          "url": "https://open.spotify.com/artist/6NOaZCnZyowwJiTHbh5dLS"
+        },
+        {
+          "name": "Rico",
+          "url": "https://open.spotify.com/artist/6DwzHek5dCcuLoa9HGotoG"
+        },
+        {
+          "name": "Nelcon",
+          "url": "https://open.spotify.com/artist/61xqUrJF99VPEWL442d7R9"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171557,
+      "name": "BamBam/4DW",
+      "url": "https://open.spotify.com/track/7cghBhVHglyibXNXUsmXhh"
+    },
+    {
+      "album": {
         "name": "Bambi",
         "url": "https://open.spotify.com/album/48gDv65vyvEszJB79hJEwc"
       },
@@ -50913,7 +50939,7 @@
     },
     {
       "album": {
-        "name": "CHEERIO SUMMER REMIX",
+        "name": "Cheerio Summer Mix",
         "url": "https://open.spotify.com/album/7mkZQYGBJa1LMWFjnRrZrl"
       },
       "artists": [
@@ -50938,7 +50964,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 121512,
-      "name": "CHEERIO SUMMER REMIX",
+      "name": "Cheerio Summer Mix",
       "url": "https://open.spotify.com/track/1kpq0c9ErTJIaR3MPJz6sn"
     },
     {
@@ -128004,6 +128030,40 @@
       "duration_ms": 182925,
       "name": "HOTBOX",
       "url": "https://open.spotify.com/track/398rCeBrqZr360MpS6EXE9"
+    },
+    {
+      "album": {
+        "name": "GEM-Z II",
+        "url": "https://open.spotify.com/album/4uDJoGtxwEjbNaH8rsj7Zu"
+      },
+      "artists": [
+        {
+          "name": "GEM-Z",
+          "url": "https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp"
+        },
+        {
+          "name": "Highguest",
+          "url": "https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj"
+        },
+        {
+          "name": "Quina01",
+          "url": "https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw"
+        },
+        {
+          "name": "FJ",
+          "url": "https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49"
+        },
+        {
+          "name": "BFLClyde",
+          "url": "https://open.spotify.com/artist/5ybuFtnUioZDYS90bDO4GD"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154782,
+      "name": "HOTBOY",
+      "url": "https://open.spotify.com/track/6hbpMc9FxjYn62yrphSRVo"
     },
     {
       "album": {
@@ -253099,6 +253159,32 @@
     },
     {
       "album": {
+        "name": "Sneuvelnation VIP",
+        "url": "https://open.spotify.com/album/4JuIAqGpvlrkTrkw9HwYPc"
+      },
+      "artists": [
+        {
+          "name": "Mr. Polska",
+          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+        },
+        {
+          "name": "Vieze Asbak",
+          "url": "https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169875,
+      "name": "Sneuvelnation VIP",
+      "url": "https://open.spotify.com/track/2DnfgEo7y2KRCncVW2uKF5"
+    },
+    {
+      "album": {
         "name": "SNL",
         "url": "https://open.spotify.com/album/63BBbmGgghjnlOQs4SwoCn"
       },
@@ -289903,42 +289989,6 @@
     },
     {
       "album": {
-        "name": "BamBam/4DW",
-        "url": "https://open.spotify.com/album/7mMQEouab5MrxnJ9M89VGP"
-      },
-      "artists": [
-        {
-          "name": "De Sluwe Vos",
-          "url": "https://open.spotify.com/artist/6NOaZCnZyowwJiTHbh5dLS"
-        }
-      ],
-      "date_added": "2026-07-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/7cghBhVHglyibXNXUsmXhh"
-    },
-    {
-      "album": {
-        "name": "GEM-Z II",
-        "url": "https://open.spotify.com/album/4uDJoGtxwEjbNaH8rsj7Zu"
-      },
-      "artists": [
-        {
-          "name": "GEM-Z",
-          "url": "https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp"
-        }
-      ],
-      "date_added": "2026-07-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/6hbpMc9FxjYn62yrphSRVo"
-    },
-    {
-      "album": {
         "name": "Track Team",
         "url": "https://open.spotify.com/album/5OjS6NVhELa2DEJPenjsVL"
       },
@@ -300882,7 +300932,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 130340,
       "name": "Vliegveld",
       "url": "https://open.spotify.com/track/5DhcPYnVskpB7h3wGYqiYu"
@@ -309703,6 +309753,28 @@
     },
     {
       "album": {
+        "name": "Well Organised (feat. Lila Ik\u00e9)",
+        "url": "https://open.spotify.com/album/33tTOCJ1O1PJ8yVtmIDD5H"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212289,
+      "name": "Well Organised (feat. Lila Ik\u00e9)",
+      "url": "https://open.spotify.com/track/6bYQZWdJMKimn0VTXhMwd6"
+    },
+    {
+      "album": {
         "name": "Well, Actually",
         "url": "https://open.spotify.com/album/6Lt5cUgg82xW0dRnEHpaua"
       },
@@ -311376,6 +311448,24 @@
       "duration_ms": 225104,
       "name": "What U Doing For Christmas",
       "url": "https://open.spotify.com/track/282kkcTUC7GfK5iGEAy7VM"
+    },
+    {
+      "album": {
+        "name": "what u want",
+        "url": "https://open.spotify.com/album/1612UsrmvEmTZjKSYtJblo"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165652,
+      "name": "what u want",
+      "url": "https://open.spotify.com/track/68icwERFCZaV107eHjqt77"
     },
     {
       "album": {

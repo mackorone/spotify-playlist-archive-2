@@ -4,7 +4,7 @@
 
 > start your day right ☕️ wake up with some warm and slow Jazz
 
-768 songs - 1 day 21 hr 21 min
+769 songs - 1 day 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [A magical time](https://open.spotify.com/track/0Es2ZEoyPmCPy0MM1jzCRF) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [A magical time](https://open.spotify.com/album/5RjO67Cs64xgvOeU1vSjbt) | 3:08 | 2024-08-19 | 2025-01-21 |
 | [A Minor Thing](https://open.spotify.com/track/0zysTPrA9fFSX2JGiYIcZm) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [A Minor Thing](https://open.spotify.com/album/1R2Y6GnYt9LzwW4Rqo3mmv) | 3:37 | 2024-04-17 | 2025-07-02 |
 | [A moment to think](https://open.spotify.com/track/3RnDJS55Ir11kfFJVr7A3Q) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [A moment to think](https://open.spotify.com/album/4UJ5mlYzKrbTBZAGfnT1f8) | 3:15 | 2023-09-22 | 2025-07-16 |
+| [A new beginning](https://open.spotify.com/track/7IxyFOyqxTKYRBcfDp4v3A) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [A new beginning](https://open.spotify.com/album/0yqVSDxzaBGtyQ2G8eNcxj) | 2:59 | 2026-07-10 |  |
 | [A New Dawn](https://open.spotify.com/track/6vEKgxxqq6poH4n3bhKJe1) | [Sam Creese](https://open.spotify.com/artist/4clo4DnnChvymuKlxBeg7q) | [A New Dawn](https://open.spotify.com/album/77QWJ7qZDfLThQK3X3EFGe) | 4:12 | 2026-05-08 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/1sp7bA5S2pxf2mNsVLCjuU) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/7979k1NF3U9qJlbgl9yoAj) | 3:36 | 2022-08-10 | 2023-05-26 |
 | [A persuasive argument](https://open.spotify.com/track/5WwybHBAdhsJMNBbXymtS3) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [A persuasive argument](https://open.spotify.com/album/3OAJII4iToETQ0SPLK8b9z) | 3:54 | 2023-08-10 | 2024-08-27 |

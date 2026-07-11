@@ -250,7 +250,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 183721,
       "name": "Air",
       "url": "https://open.spotify.com/track/4k99jKmn6BNhTlrMc6Mkto"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 209600,
       "name": "Bad Medicine",
       "url": "https://open.spotify.com/track/1PQbJ1dzfFfN8tOYKj3KsO"
@@ -996,7 +996,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 201142,
       "name": "Better Off Dancing",
       "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
@@ -1486,7 +1486,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 205401,
       "name": "Bright Side",
       "url": "https://open.spotify.com/track/1iz0iPGl5wBK440W2ceXFe"
@@ -2030,6 +2030,24 @@
       "duration_ms": 193561,
       "name": "Clowning",
       "url": "https://open.spotify.com/track/55Av2tFcx9E7ke2lcfyO9v"
+    },
+    {
+      "album": {
+        "name": "Snakehouse",
+        "url": "https://open.spotify.com/album/6OI9XpMYaADDjf2Wd81eVM"
+      },
+      "artists": [
+        {
+          "name": "The Cliks",
+          "url": "https://open.spotify.com/artist/6a0bu1Ny5ju60p348R5jwc"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275306,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/08bgaYICwxNPb8gRyp08iX"
     },
     {
       "album": {
@@ -2984,7 +3002,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 202840,
       "name": "Fall Behind Me",
       "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
@@ -3406,7 +3424,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 218066,
       "name": "Friends Like Mine",
       "url": "https://open.spotify.com/track/2D79BAoGxFQUjz4h3RkslT"
@@ -3766,7 +3784,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 200399,
       "name": "Gone",
       "url": "https://open.spotify.com/track/4IcfWIj3GepoWT7pN62Rdy"
@@ -4072,7 +4090,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 174236,
       "name": "Here For The Party",
       "url": "https://open.spotify.com/track/25aLYsdkEkwRIKWGUE6q6w"
@@ -4710,7 +4728,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 243413,
       "name": "i think about you in the shower",
       "url": "https://open.spotify.com/track/0C09ONBxeLWyGsgbUdmHQR"
@@ -4952,7 +4970,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -5648,7 +5666,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 331855,
       "name": "LILITH",
       "url": "https://open.spotify.com/track/7a4m9QPqlIIToN6njdVwZd"
@@ -6074,7 +6092,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 107359,
       "name": "Maple Static, Eh",
       "url": "https://open.spotify.com/track/3n9oQozZPrGmRAvCX96Tmb"
@@ -6960,7 +6978,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 201434,
       "name": "Now & Always",
       "url": "https://open.spotify.com/track/3v8P91WmREhtM0gd624Wzp"
@@ -7180,7 +7198,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 156880,
       "name": "One Last Look",
       "url": "https://open.spotify.com/track/4U6TFI3BWvYy1REXC2EeTs"
@@ -7522,7 +7540,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 245296,
       "name": "Party in Hell",
       "url": "https://open.spotify.com/track/4TOVRQJy5GhBpDbXV6BR8t"
@@ -7706,7 +7724,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 191440,
       "name": "Psycho Bitch",
       "url": "https://open.spotify.com/track/14j5UBobMdPf068lJ5Xnv5"
@@ -8326,7 +8344,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 166240,
       "name": "She's Wild",
       "url": "https://open.spotify.com/track/5ZKhIs4HWm2yAajUxIbrga"
@@ -8546,7 +8564,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 181013,
       "name": "SO OBVIOUS",
       "url": "https://open.spotify.com/track/7v3WCAQhmL2G6TUlpeS4Tm"
@@ -8564,7 +8582,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 193899,
       "name": "So What",
       "url": "https://open.spotify.com/track/17mDkw99uAJnjFOXeDuLbE"
@@ -8726,7 +8744,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-08",
+      "date_removed": null,
       "duration_ms": 198778,
       "name": "Step Outside",
       "url": "https://open.spotify.com/track/3EbZm1kpZC2b0mwPMbGWL3"
@@ -9112,7 +9130,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 223654,
       "name": "The Black Hole In The Sky",
       "url": "https://open.spotify.com/track/1k6zaXUEyCFyNjqVVjrEWQ"
@@ -9166,7 +9184,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 164702,
       "name": "The Meteor",
       "url": "https://open.spotify.com/track/1UvRIZd8vJXvH9LqIG8c0G"
@@ -9714,7 +9732,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 234640,
       "name": "Upside Down Cross",
       "url": "https://open.spotify.com/track/0lM3X9CdTPbL5B7wnFsBs8"
@@ -10020,7 +10038,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 187271,
       "name": "What Do I Have To Do",
       "url": "https://open.spotify.com/track/73LC4CEYRAf8Mow3ttyaZ5"
@@ -10478,6 +10496,24 @@
       "duration_ms": 256127,
       "name": "Young Again",
       "url": "https://open.spotify.com/track/6aay2bABtqF1RhoV3xxUUS"
+    },
+    {
+      "album": {
+        "name": "shattered figures XII",
+        "url": "https://open.spotify.com/album/3BswqdDLQAP8Mt2QTpm7ZA"
+      },
+      "artists": [
+        {
+          "name": "shattered figures",
+          "url": "https://open.spotify.com/artist/0YfMaaL8UJBFPMgnziUchA"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224811,
+      "name": "Your Ex-Girlfriend",
+      "url": "https://open.spotify.com/track/3RPjiDsKLrzcNRAYUCnKPa"
     },
     {
       "album": {

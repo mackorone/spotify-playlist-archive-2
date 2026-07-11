@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-185 songs - 19 hr 34 min
+186 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Communion \(feat\. Steffany Gretzinger & Brandon Lake\)](https://open.spotify.com/track/0jPoy99PN9i9DNbwPZanCQ) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Maverick City, Vol\. 2](https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1) | 14:20 | 2024-06-11 |  |
 | [Darlin' \(Bonus Track\)](https://open.spotify.com/track/64SfsSiiusJg9UIDfunXkA) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 2:50 | 2024-06-11 |  |
 | [Demons](https://open.spotify.com/track/2a7FYpY6K2S1cMYFATnXNE) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Demons](https://open.spotify.com/album/2PoiGMBNovY8pHHv2CzGk4) | 3:09 | 2024-06-11 |  |
+| [Diamond \(I See the Glory\) feat\. Mara Justine](https://open.spotify.com/track/4T0Sx42omY10dq0eS0XFvO) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Mara Justine](https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw) | [Love Made A Way](https://open.spotify.com/album/3JiUEjyUFgfp4FR21Z9f7q) | 5:43 | 2026-07-10 |  |
 | [Don't Talk About It](https://open.spotify.com/track/6l0Ygty0TsJf0zmD9kdTXs) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Jesse Cline](https://open.spotify.com/artist/1FyU9raIv5d9zjJjUgHOW4) | [Don't Talk About It](https://open.spotify.com/album/3F0I5ooKpjhOJrAaRlPP7Q) | 3:37 | 2024-06-11 | 2024-07-14 |
 | [Don't Talk About It](https://open.spotify.com/track/7vJYLQayN6JRggpGDkFc4r) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Jesse Cline](https://open.spotify.com/artist/34dwOJpG3qpSQ9RfSsA6yF) | [Don't Talk About It](https://open.spotify.com/album/1kLt8paA5RdnQFrHocPPw7) | 3:38 | 2024-07-13 |  |
 | [Every Worship Song Ever](https://open.spotify.com/track/587PUyOpjizhIflg4G1nDH) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Worship Medleys](https://open.spotify.com/album/7N1ho46uf68qsA1yaGsP7M) | 3:38 | 2024-06-11 |  |

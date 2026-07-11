@@ -2,9 +2,9 @@
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Justė
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Joel Corry
 
-2,041 songs - 4 day 2 hr 22 min
+2,044 songs - 4 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Come With Me](https://open.spotify.com/track/1h1IERBZcsq6HVYbvLkmoT) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Come With Me](https://open.spotify.com/album/2zv3qPvu34uzmNJjSdjQ7E) | 3:50 | 2022-08-12 | 2022-08-27 |
 | [Coming Down](https://open.spotify.com/track/4CDn8zSzY7loktyALeKGpk) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [rrotik](https://open.spotify.com/artist/5SCkoSOpnE0detaaoPvOJd) | [Coming Down](https://open.spotify.com/album/5OrReIeEENSRv1yv1e8Otr) | 3:50 | 2022-11-03 | 2022-11-18 |
 | [Coming Down](https://open.spotify.com/track/6G9vK4N2yvvs5ZXz3dCPBx) | [Draeden](https://open.spotify.com/artist/7tZV4FXJNO8FzjgrAToCln), [Saysha](https://open.spotify.com/artist/03xxq7MRuIQclNkrwf2ZJD) | [Coming Down](https://open.spotify.com/album/3V18tHyBzSTzmOLLMsydeK) | 2:41 | 2024-02-16 | 2024-03-02 |
+| [Coming Home](https://open.spotify.com/track/7cNlP8j97DxWC6rG9ZCSCj) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [Coming Home](https://open.spotify.com/album/79BvQiisRxhMJd80E0KhbC) | 3:08 | 2026-07-10 |  |
 | [Compromise \(feat\. Adam Jaymes\)](https://open.spotify.com/track/3InAbQ6GdxU5stWC0elsKm) | [Thomas Nan](https://open.spotify.com/artist/0hxxNMb3Egp5oWzR0vcX8v), [Adam Jaymes](https://open.spotify.com/artist/3ENO8P63x6Nm5o6JgV7qKN) | [Compromise \(feat\. Adam Jaymes\)](https://open.spotify.com/album/6uJdwdGypR9qRV1twItlJd) | 2:34 | 2023-02-17 | 2023-02-25 |
 | [Confession](https://open.spotify.com/track/1Fdmd4daZbxfEh9aAXuDDK) | [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1) | [Confession](https://open.spotify.com/album/32t3XUIzAFAtfKuWbgv8au) | 3:46 | 2023-03-23 | 2023-04-07 |
 | [Confidence](https://open.spotify.com/track/0aA9YW5z1er3G0HQwhb4Ri) | [Joseph Jones](https://open.spotify.com/artist/43CUY8BlYXOzEmUsMwemfE) | [Confidence](https://open.spotify.com/album/3Sx0g9PG4PSHAGAqWJlgap) | 2:22 | 2024-01-26 | 2024-02-10 |
@@ -1308,6 +1309,7 @@
 | [No Sleep](https://open.spotify.com/track/6HKNYBGRBvofWjSHmfkVvE) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu) | [No Sleep](https://open.spotify.com/album/4PxjS1j0oU4kMgPTRTeSfy) | 2:25 | 2026-04-30 |  |
 | [Nobody Loves You](https://open.spotify.com/track/1bZKsTaRxMbJpz7QzhHeto) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [Nobody Loves You](https://open.spotify.com/album/37rBCzoFK0W67ZKRMaKKk4) | 2:44 | 2022-10-28 | 2022-11-11 |
 | [Nobody's Perfect \(feat\. Dana Williams\)](https://open.spotify.com/track/6YmGoncnyDLR0nTgCLihyE) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Nobody's Perfect \(feat\. Dana Williams\)](https://open.spotify.com/album/45MTITXwCkGEPiPWL9BtND) | 5:00 | 2024-04-19 | 2024-05-03 |
+| [Noches de Fuego](https://open.spotify.com/track/44GDet7znfTWXniOMZwU1A) | [Flukey](https://open.spotify.com/artist/7glj5RC8NxHA3gll167Qe2) | [Noches de Fuego](https://open.spotify.com/album/4mCx5qTL3M5Wz7NiOyoAjp) | 2:42 | 2026-07-10 |  |
 | [Nostalgia](https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Nostalgia](https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx) | 3:15 | 2023-06-30 | 2023-07-14 |
 | [Not A Place \(feat\. Oaks\)](https://open.spotify.com/track/0M4PMD5RpCgtCt7sWffJbh) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Not A Place \(feat\. Oaks\)](https://open.spotify.com/album/55sBLTngKmRxlB4giUYxw1) | 2:40 | 2026-03-26 |  |
 | [Not Coming Down \(feat\. Jae\-Mi\)](https://open.spotify.com/track/4m6AdzOGnAunl8VKNQjqfc) | [GUMMiBEAR](https://open.spotify.com/artist/5hMewFhywS8hP4kcpVYySW), [SAVI](https://open.spotify.com/artist/1H72fTOUAUl0WQ4kH5DPVW), [Jae\-Mi](https://open.spotify.com/artist/2WSnq9dHsoiPV5G90OuBxt) | [Not Coming Down \(feat\. Jae\-Mi\)](https://open.spotify.com/album/2wfLDPM5CpunSaAR9Ayppj) | 2:49 | 2023-07-07 | 2023-07-21 |
@@ -1989,6 +1991,7 @@
 | [Where I Belong](https://open.spotify.com/track/1N4oYn99JACDd6qZt6x1lp) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Where I Belong](https://open.spotify.com/album/0WnWW0THJOiyS8gV36oMcy) | 3:21 | 2022-11-03 | 2022-11-18 |
 | [Where's Your Head At \(Kill It With Fire Mix\)](https://open.spotify.com/track/0twhYzaZLrf4nWRnjgL2sb) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Where's Your Head At \(Kill It With Fire Mix\)](https://open.spotify.com/album/5gf686Ticu379hN8ryHU3S) | 2:05 | 2022-08-05 | 2022-08-20 |
 | [Whiplash!](https://open.spotify.com/track/6TxQkaH04LTk0J65AwXvqj) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Whiplash!](https://open.spotify.com/album/2CC1JkyCQMVcibtSiZ2GSo) | 3:04 | 2025-05-01 | 2025-05-31 |
+| [Whisper](https://open.spotify.com/track/6f6wEbx3wXsFx3aC6krC39) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Whisper](https://open.spotify.com/album/0jbAkBNqdBNOVBI7HVSwMu) | 2:34 | 2026-07-10 |  |
 | [Whistle](https://open.spotify.com/track/0DElhSwX8CocYF16W34qZj) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Whistle](https://open.spotify.com/album/74ewEdzLaaLzrLvQumG2bC) | 3:08 | 2023-07-13 | 2023-07-29 |
 | [Who Are You](https://open.spotify.com/track/3jMDNYL3ZhiBWIOIIVqbf1) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [IOVA](https://open.spotify.com/artist/6ywdLBfxLvrNw4l25x4Q0O) | [Who Are You](https://open.spotify.com/album/0be51mT6qzL6TYtXZMXVMe) | 4:03 | 2023-06-30 | 2023-07-14 |
 | [Who’s On Your Mind](https://open.spotify.com/track/2vw97EbxWv5kGVDDeMMKd1) | [Thomas Nan](https://open.spotify.com/artist/0hxxNMb3Egp5oWzR0vcX8v) | [Who’s On Your Mind](https://open.spotify.com/album/2eOD017dz9bA2KUsQRYHsi) | 2:22 | 2023-01-05 | 2023-01-20 |

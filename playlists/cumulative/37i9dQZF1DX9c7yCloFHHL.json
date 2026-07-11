@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The cutting edge in new, contemporary Ambient, Atmospheric & Neo-Classical \ud83e\ude90 Cover: Mansur Brown",
+  "description": "The cutting edge in new, contemporary Ambient, Atmospheric & Neo-Classical \ud83e\ude90 Cover: HUG",
   "name": "New Ambient",
   "tracks": [
     {
@@ -2578,7 +2578,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 47500,
       "name": "and breathe",
       "url": "https://open.spotify.com/track/52AOSZZjFjdG34mhctujUz"
@@ -4384,7 +4384,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 231517,
       "name": "Bells",
       "url": "https://open.spotify.com/track/13alm9cGdlu1rb4VkTmPvf"
@@ -5112,7 +5112,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 96000,
       "name": "BLUR",
       "url": "https://open.spotify.com/track/7sLkdm1CIDfTIFizosBODL"
@@ -5624,7 +5624,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 189826,
       "name": "Buttes Sunrise",
       "url": "https://open.spotify.com/track/0lfPRMoArsWTTKATwQhnui"
@@ -6362,6 +6362,24 @@
       "duration_ms": 259013,
       "name": "Cherry Blue",
       "url": "https://open.spotify.com/track/2AiwrzloLNqNNyyo9tddVK"
+    },
+    {
+      "album": {
+        "name": "Childhood",
+        "url": "https://open.spotify.com/album/7blGgKmeGMoW401hs2Y5UB"
+      },
+      "artists": [
+        {
+          "name": "Chill Grace",
+          "url": "https://open.spotify.com/artist/5HzUpENXNhG9l34HCwjwwJ"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/3R0gW0Gk4s2DUhYyGeJxtR"
     },
     {
       "album": {
@@ -7808,6 +7826,36 @@
       "duration_ms": 268163,
       "name": "Cosmic Drifter - Edit",
       "url": "https://open.spotify.com/track/3PrqXierQJ2hw20B4JIk3Q"
+    },
+    {
+      "album": {
+        "name": "Cow With Half Moon Parasol",
+        "url": "https://open.spotify.com/album/3s5JFSNttXDbwCEvCIctLS"
+      },
+      "artists": [
+        {
+          "name": "HUG",
+          "url": "https://open.spotify.com/artist/0fPTd29x2F2C4lHNVUwFEs"
+        },
+        {
+          "name": "Gyan Riley",
+          "url": "https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf"
+        },
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        },
+        {
+          "name": "Noah Georgeson",
+          "url": "https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276620,
+      "name": "Cow With Half Moon Parasol",
+      "url": "https://open.spotify.com/track/2pUjVfqByVLqkgrKBrsdkw"
     },
     {
       "album": {
@@ -10013,6 +10061,24 @@
     },
     {
       "album": {
+        "name": "The Lake (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4GXaamtNrgi6KZzlOFbGif"
+      },
+      "artists": [
+        {
+          "name": "Natalia Tsupryk",
+          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122991,
+      "name": "Earthbound",
+      "url": "https://open.spotify.com/track/0WBYKSoaXXeiJ4YvYkoh9X"
+    },
+    {
+      "album": {
         "name": "Sacred Honey",
         "url": "https://open.spotify.com/album/0RRhjbaDSbl0NHALsxiXmn"
       },
@@ -11434,7 +11500,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 130285,
       "name": "fade into light",
       "url": "https://open.spotify.com/track/3KyWZt5V5FIrkIFIzxHU8q"
@@ -12831,6 +12897,24 @@
     },
     {
       "album": {
+        "name": "FRAY",
+        "url": "https://open.spotify.com/album/4xTi5TepfTav3PbkX6Q7j0"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "FRAY",
+      "url": "https://open.spotify.com/track/46BiNMQYYuCXHa9oQ4APFT"
+    },
+    {
+      "album": {
         "name": "Blurred",
         "url": "https://open.spotify.com/album/232jtyDrZmcwUJEdeYt0JE"
       },
@@ -13012,6 +13096,24 @@
       "duration_ms": 168015,
       "name": "From Fes",
       "url": "https://open.spotify.com/track/5OOQUWlEyrpUnfiwiBZ5Nu"
+    },
+    {
+      "album": {
+        "name": "From Kinosaki",
+        "url": "https://open.spotify.com/album/3GvcRogqMuhKfeDxdfq9C8"
+      },
+      "artists": [
+        {
+          "name": "Passepartout Duo",
+          "url": "https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230350,
+      "name": "From Kinosaki",
+      "url": "https://open.spotify.com/track/20XVOGHynT49SuCdAQhGBH"
     },
     {
       "album": {
@@ -14698,7 +14800,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 246871,
       "name": "Havenstate",
       "url": "https://open.spotify.com/track/3NTfkPRP6giT3F7jMBHYKP"
@@ -18452,7 +18554,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 207333,
       "name": "Let It Pass",
       "url": "https://open.spotify.com/track/0DW5jdx0Jz0nV3K1PBSBiR"
@@ -19186,6 +19288,32 @@
       "duration_ms": 264485,
       "name": "Long Day?",
       "url": "https://open.spotify.com/track/1MfqvxG31pJfnyL6xaWHu9"
+    },
+    {
+      "album": {
+        "name": "Long Distance",
+        "url": "https://open.spotify.com/album/6diKsQDzw4zJTostDtw3TS"
+      },
+      "artists": [
+        {
+          "name": "Sorekara",
+          "url": "https://open.spotify.com/artist/1iKVCznm9JPkYn8x9xjQw7"
+        },
+        {
+          "name": "Tanarouge",
+          "url": "https://open.spotify.com/artist/565GKMj0rrNhGBPyNR4RUT"
+        },
+        {
+          "name": "Jasper van Dijk",
+          "url": "https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Long Distance",
+      "url": "https://open.spotify.com/track/4Wjx57dck9vpDlVw8rk8mJ"
     },
     {
       "album": {
@@ -21192,7 +21320,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 303878,
       "name": "Morning Glow",
       "url": "https://open.spotify.com/track/1H19HOj0gt4SuzyaMmLEDi"
@@ -22196,7 +22324,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 352680,
       "name": "nen",
       "url": "https://open.spotify.com/track/6ZnVWsglqpZtQUjVm9Q5X2"
@@ -24758,7 +24886,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 344026,
       "name": "Passage I (small, soft feet running across wooden floors in the morning)",
       "url": "https://open.spotify.com/track/1SstG0morVQ3XbUbuH12xI"
@@ -29708,6 +29836,24 @@
       "duration_ms": 362950,
       "name": "Simple Song #3",
       "url": "https://open.spotify.com/track/3LFOeWFs0DIMtM4Gfgc90y"
+    },
+    {
+      "album": {
+        "name": "Trumpet Meditations Vol. 4",
+        "url": "https://open.spotify.com/album/4vNDhdffeyAnyKhIe2wsOp"
+      },
+      "artists": [
+        {
+          "name": "Spencer Ludwig",
+          "url": "https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202785,
+      "name": "Simple Start",
+      "url": "https://open.spotify.com/track/1uShMCWWgig7zdIsVT4TcS"
     },
     {
       "album": {
@@ -36261,6 +36407,24 @@
     },
     {
       "album": {
+        "name": "Ventricle (Audio 00V Mix)",
+        "url": "https://open.spotify.com/album/0CmGQb66YAg8xEGIRclIHO"
+      },
+      "artists": [
+        {
+          "name": "Next To Blue",
+          "url": "https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106000,
+      "name": "Ventricle - Audio 00V Mix",
+      "url": "https://open.spotify.com/track/3pZvFPTVAPDvhpCV3v9cIp"
+    },
+    {
+      "album": {
         "name": "phases of the moon",
         "url": "https://open.spotify.com/album/5zImrTFUWontzflxnybrH8"
       },
@@ -36384,6 +36548,28 @@
       "duration_ms": 244000,
       "name": "View Theory",
       "url": "https://open.spotify.com/track/2wog4xiIr6jTDXYUWZjM1B"
+    },
+    {
+      "album": {
+        "name": "The Sky Was Out of Tune VIII",
+        "url": "https://open.spotify.com/album/6GyvR14ZLLiPI4XTTrl6wz"
+      },
+      "artists": [
+        {
+          "name": "Anushka Chkheidze",
+          "url": "https://open.spotify.com/artist/67m6HVMSpQbjioHGsdmXWs"
+        },
+        {
+          "name": "Robert Lippok",
+          "url": "https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166159,
+      "name": "VIII",
+      "url": "https://open.spotify.com/track/251hpvLqaASyMfT8pyRPYM"
     },
     {
       "album": {
@@ -38722,6 +38908,28 @@
       "duration_ms": 172577,
       "name": "you're not alone",
       "url": "https://open.spotify.com/track/3BDNaH01PE6gJ9LwNe97Ya"
+    },
+    {
+      "album": {
+        "name": "the younger world",
+        "url": "https://open.spotify.com/album/6nj82i0Pgv0sQE44LdLaDA"
+      },
+      "artists": [
+        {
+          "name": "illi mel",
+          "url": "https://open.spotify.com/artist/2cpa8rq1DM4WGuFdNHWUnP"
+        },
+        {
+          "name": "Chris Bartels",
+          "url": "https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190083,
+      "name": "your arms full",
+      "url": "https://open.spotify.com/track/5HOL7wVit887te2jzLHqET"
     },
     {
       "album": {

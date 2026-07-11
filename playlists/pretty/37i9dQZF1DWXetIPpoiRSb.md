@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > underscores \_\_\_\_\_\_\_ on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,562 likes - 74 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,549 likes - 74 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 13 | [Keep Talking](https://open.spotify.com/track/0PvFpfLpU9OSDMYk9WzBsC) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Keep Talking](https://open.spotify.com/album/5yqpJil1lvJyTdfslsN2dX) | 2:40 |
 | 14 | [Wheels Come Off](https://open.spotify.com/track/0iGsGiJ2NBiKr2lolzbznn) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Wheels Come Off](https://open.spotify.com/album/2Ug1wvfipYLc5ecbFGKowH) | 3:27 |
 | 15 | [Midnight Sun \- Girls Trip](https://open.spotify.com/track/2FHGYrQEmuWGX24QoQtQ13) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 2:51 |
-| 16 | [Track 1](https://open.spotify.com/track/6CIbLErx7WosfLorB4JE1T) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [girl in stem](https://open.spotify.com/album/17Ro49BRz5Gveylng2A7Ri) | 0:00 |
+| 16 | [both be happier](https://open.spotify.com/track/6CIbLErx7WosfLorB4JE1T) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [girl in stem](https://open.spotify.com/album/17Ro49BRz5Gveylng2A7Ri) | 2:52 |
 | 17 | [STAY IN UR LANE](https://open.spotify.com/track/3aDJwwV4q3GOmD5TZZOR6C) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl) | [STAY IN UR LANE](https://open.spotify.com/album/5re6ZtMHjwzaEhguA08fmN) | 2:38 |
 | 18 | [MILLION DOLLAR BABE](https://open.spotify.com/track/4uzXo3sUkY7xXelBvj1L7A) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [MILLION DOLLAR BABE](https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5) | 2:53 |
 | 19 | [Satellites](https://open.spotify.com/track/0w1z41tugZvJHNLUWUjXkD) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Satellites](https://open.spotify.com/album/1lwDEmZ3j69Wrh0AycrCCU) | 3:31 |

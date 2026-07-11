@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Nothing But Thieves
 
-1,005 songs - 2 day 9 hr 1 min
+1,005 songs - 2 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Candy Coated Heart](https://open.spotify.com/track/2nsYPF7QI3C1jLxSYKe9Qw) | [Attic Stories](https://open.spotify.com/artist/6WLBHcOEiXfOt5mrREFth2) | [Candy Coated Heart](https://open.spotify.com/album/5wyjBTrimlxlQwkB7EKvb4) | 3:22 | 2025-04-03 | 2025-04-11 |
 | [Cardinal In The Crossfire](https://open.spotify.com/track/0yWTRzYMR6QvS1LwW2WGEQ) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Cardinal In The Crossfire](https://open.spotify.com/album/6zWgy4sI3UGqFTp7t4dK2w) | 2:45 | 2025-10-30 | 2026-01-15 |
 | [carnage](https://open.spotify.com/track/1WzuEQ4Iwk1YdclU7KS7AI) | [Neumatic Parlo](https://open.spotify.com/artist/77osebGi21LV8GCNEzMYoO) | [carnage](https://open.spotify.com/album/3Mx4yeCppE8MhqT4SWxUui) | 3:39 | 2024-07-18 | 2024-07-27 |
+| [Carved](https://open.spotify.com/track/6UwSqLdmUrD0DGp0D21Lpq) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [The Plot In You](https://open.spotify.com/album/6PJzcqwj8n19g9cdDWRiTf) | 3:18 | 2026-07-09 |  |
 | [Casanova \- From Beyond The Abyss](https://open.spotify.com/track/6pvdo88IZIAQWfr5HafNRa) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Casanova \(From Beyond The Abyss\)](https://open.spotify.com/album/5ypY8X5KX7aGi2PuJVGz1G) | 3:44 | 2024-11-14 | 2024-11-22 |
 | [Caught In The Echo](https://open.spotify.com/track/0B6cG6HOupKy2GaWOgfeOH) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Caught In The Echo](https://open.spotify.com/album/6swKsHBLuNUekcQcW2SOYK) | 4:02 | 2026-03-19 | 2026-06-05 |
 | [Caught It](https://open.spotify.com/track/7qTc7bfYZYwFNWSDzNBmHr) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Caught It \(with Chrissy Costanza & Against The Current\)](https://open.spotify.com/album/1Z3anSUKuHtWWhasVAjNQW) | 2:57 | 2024-06-27 | 2024-09-28 |
@@ -264,7 +265,7 @@
 | [DON'T KILL ME](https://open.spotify.com/track/6JDsYqbQFdHb7xK0L5kvLG) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk), [Of Virtue](https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA) | [DON'T KILL ME](https://open.spotify.com/album/2lZ4vKKM3D9alxwFMcvKvS) | 3:29 | 2024-07-25 | 2024-08-09 |
 | [Don't Let Me Bring You Down](https://open.spotify.com/track/4k92mQm38pUHtfrFEkmZeI) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Overdriver](https://open.spotify.com/album/0shNp38H68PQgYidEQm1K7) | 3:15 | 2025-01-30 | 2025-02-28 |
 | [Don't Let Me Get Too Low](https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Don't Let Me Get Too Low](https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af) | 2:38 | 2025-01-10 | 2025-03-28 |
-| [Don't Play Nice](https://open.spotify.com/track/4ypwF2SzLJ0sf9IKoKt8V8) | [Unroyal](https://open.spotify.com/artist/6x83PgJ6DhWHY3ch90e5pY) | [Don't Play Nice](https://open.spotify.com/album/02keESBeIDZcNcfiK5fzWp) | 2:38 | 2026-06-11 | 2026-06-19 |
+| [Don't Play Nice](https://open.spotify.com/track/4ypwF2SzLJ0sf9IKoKt8V8) | [Unroyal](https://open.spotify.com/artist/6x83PgJ6DhWHY3ch90e5pY) | [Don't Play Nice](https://open.spotify.com/album/02keESBeIDZcNcfiK5fzWp) | 2:38 | 2026-06-11 |  |
 | [Don't Quit It](https://open.spotify.com/track/36GbhhClyQWVzlcdON7KlQ) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Don't Quit It](https://open.spotify.com/album/44Pic6IYn7RxHwugvse3OQ) | 3:28 | 2026-05-28 | 2026-06-05 |
 | [Don't Stop](https://open.spotify.com/track/0xViB5062UH9t8aJFYPp6O) | [Rooftop Sailors](https://open.spotify.com/artist/6mb1RaofmS4hb1JhSZ19PY) | [Don't Stop](https://open.spotify.com/album/7IYoCNrv8RXKCbVqphx8E9) | 2:37 | 2025-06-19 | 2025-06-27 |
 | [Don't Tell Me \(feat\. Ann Wilson\)](https://open.spotify.com/track/54gHtLZx6LzToQBuHmIQHc) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Ann Wilson](https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs) | [Divisive](https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9) | 4:31 | 2024-06-27 | 2025-12-05 |
@@ -343,7 +344,7 @@
 | [Friends In Low Places](https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Friends In Low Places](https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP) | 3:03 | 2024-07-04 | 2024-08-09 |
 | [FRIENDS LIKE YOU](https://open.spotify.com/track/6zFXGZbRHKk5AXOaqViPvD) | [SICK PUPPIES](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [FRIENDS LIKE YOU](https://open.spotify.com/album/78O3ZT5SZz5NI91sfzr4Wv) | 3:12 | 2025-02-13 | 2025-03-24 |
 | [FRONTROW](https://open.spotify.com/track/4LnuYEIU1fGiDmkWlhmI1q) | [Blackout Problems](https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM) | [FRONTROW](https://open.spotify.com/album/4sRpNarWu6ekrbq3caCbXF) | 3:30 | 2025-02-06 | 2025-02-14 |
-| [Frozen Lake](https://open.spotify.com/track/2SsltJQ4DNWVop7wF06oXQ) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Frozen Lake](https://open.spotify.com/album/0dVYKLEsYc7nHijyq0bSLB) | 3:29 | 2026-01-30 |  |
+| [Frozen Lake](https://open.spotify.com/track/2SsltJQ4DNWVop7wF06oXQ) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Frozen Lake](https://open.spotify.com/album/0dVYKLEsYc7nHijyq0bSLB) | 3:29 | 2026-01-30 | 2026-07-11 |
 | [Full Of Emptiness](https://open.spotify.com/track/3FXm6xBVfTY6LQHZQGImpo) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Full Of Emptiness](https://open.spotify.com/album/7BtiR6ixeY4NBQzhYu5Sxa) | 2:54 | 2024-08-08 | 2024-10-06 |
 | [Fuse](https://open.spotify.com/track/0UYOncanPfTJVemojPksIP) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [GALORE](https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP) | 3:11 | 2024-09-12 | 2025-01-24 |
 | [FYU](https://open.spotify.com/track/0eb2D8llW6yV9Z22DLPudP) | [Flash Forward](https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB), [Coast Down](https://open.spotify.com/artist/2OODxMCAw30kXzQzn5mprQ), [Wait of the World](https://open.spotify.com/artist/5RRkJbIFsWnUtsbVuRf7Si) | [FYU](https://open.spotify.com/album/6XVOFsFhItxzXWu6ZMEPHy) | 2:50 | 2025-12-11 | 2025-12-19 |
@@ -909,7 +910,6 @@
 | [too far gone](https://open.spotify.com/track/6hkp7TNulqDK5BruldgB6j) | [rosecoloredworld](https://open.spotify.com/artist/463Zbm3YPy7aKLqX1LBycF) | [too far gone](https://open.spotify.com/album/08mjFRr5oPWwWrlf4QR8Ro) | 3:04 | 2026-01-09 | 2026-01-16 |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-06-27 | 2025-12-05 |
 | [Total Annihilation](https://open.spotify.com/track/0bT8EJYpzZSH81N05sfpq3) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Total Annihilation](https://open.spotify.com/album/5yM0f4ArMFsiRXZC11hHGX) | 6:50 | 2025-09-25 | 2025-10-03 |
-| [Track 12](https://open.spotify.com/track/6UwSqLdmUrD0DGp0D21Lpq) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [The Plot In You](https://open.spotify.com/album/6PJzcqwj8n19g9cdDWRiTf) | 0:00 | 2026-07-09 |  |
 | [Trance](https://open.spotify.com/track/0brIn3pRJwzTriu6lU82Ld) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Trance](https://open.spotify.com/album/6NR8dovDk3ZlXCvcJjX1Y8) | 3:07 | 2024-12-19 | 2025-02-07 |
 | [Transcendental Dreaming](https://open.spotify.com/track/0m9RpKYRlU3JqCjVryK4dJ) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Transcendental Dreaming](https://open.spotify.com/album/77Hq632gLr2zvXDKSLhVbG) | 2:16 | 2024-08-01 | 2024-08-09 |
 | [Treat Yourself](https://open.spotify.com/track/1T9xUXnYocqM7QsoYxnNiC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Treat Yourself](https://open.spotify.com/album/4MgUkVqJ6ucvFT8hj6zeri) | 3:38 | 2025-11-06 | 2025-12-12 |

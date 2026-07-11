@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 988,555 likes - 175 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 988,637 likes - 175 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 174 | [Last Night](https://open.spotify.com/track/3iG7YJVQEU4atykwH25bBA) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Last Night](https://open.spotify.com/album/5zoNdGXxKK3w0xYCOqTDHm) | 3:03 |
 | 175 | [Jungle Serenity](https://open.spotify.com/track/68aaiPBPLnwWuF6bPTu43H) | [Mist & Maris](https://open.spotify.com/artist/1cvhDMISyzFWxdGzsrEiM8) | [Jungle Serenity](https://open.spotify.com/album/6l9UHwWeURw7g49ZI4M6aW) | 2:07 |
 
-Snapshot ID: `AAAAAOTwEyVwtJT2ysCQlktHvtzyizuB`
+Snapshot ID: `AAAAALBrJt9O5U3Hmmel91I0fkhOs4Tx`

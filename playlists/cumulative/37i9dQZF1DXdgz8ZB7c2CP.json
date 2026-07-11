@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83c\uddeb\ud83c\uddf7 featuring Jersey",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83d\udca8 featuring MPH",
   "name": "creamy",
   "tracks": [
     {
@@ -1853,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "be with me",
+        "url": "https://open.spotify.com/album/5Zu5Efho9jRbmiJzcUcZVE"
+      },
+      "artists": [
+        {
+          "name": "MAYV",
+          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155543,
+      "name": "be with me",
+      "url": "https://open.spotify.com/track/13iSspPHQg1cDyUl55ItRg"
+    },
+    {
+      "album": {
         "name": "HYPER HOUSE",
         "url": "https://open.spotify.com/album/2qrdKTn7a9aPNDPA0NGJVU"
       },
@@ -2843,6 +2861,24 @@
     },
     {
       "album": {
+        "name": "Body Step",
+        "url": "https://open.spotify.com/album/5URnN4y5b5KeKrmg5c3JGA"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307786,
+      "name": "Body Step",
+      "url": "https://open.spotify.com/track/23Kpkv7C3YRnFQTnjAeppb"
+    },
+    {
+      "album": {
         "name": "Bogeyman",
         "url": "https://open.spotify.com/album/7tSOUKrLrPRjmNWoGhNjJm"
       },
@@ -3160,7 +3196,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 241256,
       "name": "breathe",
       "url": "https://open.spotify.com/track/6ifoDLGesgTpLfrWzCyEZF"
@@ -5993,6 +6029,36 @@
     },
     {
       "album": {
+        "name": "DID IT AGAIN (MPH Remix)",
+        "url": "https://open.spotify.com/album/1wQ6r57Y4wfzFTJEFFKpTf"
+      },
+      "artists": [
+        {
+          "name": "Travy",
+          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
+        },
+        {
+          "name": "Elzzz",
+          "url": "https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186857,
+      "name": "DID IT AGAIN - MPH Remix",
+      "url": "https://open.spotify.com/track/3AX5uNN5flZ8fnNZlMXNpT"
+    },
+    {
+      "album": {
         "name": "DIE FOR YOU",
         "url": "https://open.spotify.com/album/31Wq7dRWHXQZT6kqzJBVTb"
       },
@@ -6452,7 +6518,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 133448,
       "name": "DON'T GET ME HIGH",
       "url": "https://open.spotify.com/track/2ji3qnCuq74HpvxT7H3BmQ"
@@ -6648,7 +6714,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 203230,
       "name": "don't you miss me",
       "url": "https://open.spotify.com/track/52zrmEuyescE1mlhBPtdkA"
@@ -9195,6 +9261,28 @@
     },
     {
       "album": {
+        "name": "For Me",
+        "url": "https://open.spotify.com/album/6pCthnB3Fdl539ZM628Rlc"
+      },
+      "artists": [
+        {
+          "name": "Dogs I Know",
+          "url": "https://open.spotify.com/artist/659NKYZdNCCOnkKwedxXcQ"
+        },
+        {
+          "name": "Polezsky",
+          "url": "https://open.spotify.com/artist/7qbUBlb8FSSWMqypKleqAL"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164885,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/3azLtBULAnMXVSR600y29n"
+    },
+    {
+      "album": {
         "name": "HEADPHONES",
         "url": "https://open.spotify.com/album/4PiLRLfwLOVH5Zf5zQx2TW"
       },
@@ -10768,7 +10856,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 184225,
       "name": "HANGOVER GIRL",
       "url": "https://open.spotify.com/track/4IRpoipsrAESkDp5fxW4b9"
@@ -15882,7 +15970,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 285314,
       "name": "LOVER MENTALITY",
       "url": "https://open.spotify.com/track/4wHOGBIC1PBH4UF0Aqmls4"
@@ -26569,6 +26657,28 @@
     },
     {
       "album": {
+        "name": "Time:never",
+        "url": "https://open.spotify.com/album/6iLIhOWokff8uIfsvRskGX"
+      },
+      "artists": [
+        {
+          "name": "Estremo",
+          "url": "https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM"
+        },
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/6c3y5GxfMe6dWgUtTLnnCE"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199636,
+      "name": "Time:never",
+      "url": "https://open.spotify.com/track/3c7kn1x8bIqMiTT8rTDcsM"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/3Bee6iyio3FUHeFSl063ba"
       },
@@ -27837,6 +27947,28 @@
     },
     {
       "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/2Xy8c3F4rfAhb2ZmkIuRN9"
+      },
+      "artists": [
+        {
+          "name": "ALIGN",
+          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
+        },
+        {
+          "name": "artemis orion",
+          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161363,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/7jMHu4cwTP8iCmmNvQnqOG"
+    },
+    {
+      "album": {
         "name": "Vital Signs (Tails Remix)",
         "url": "https://open.spotify.com/album/1OlqZkzau1II2G61gJPCqg"
       },
@@ -28352,7 +28484,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 195517,
       "name": "wakeup(crazy) [feat. Angst]",
       "url": "https://open.spotify.com/track/3IR1kOzcLjPbSipZyp1o30"

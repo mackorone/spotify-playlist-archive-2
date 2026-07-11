@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "100% rock brasileiro. Foto: Selvagens \u00e0 Procura da Lei",
+  "description": "100% rock brasileiro. Foto: Melton Sello",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -1501,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "OPA!",
+        "url": "https://open.spotify.com/album/5hqo6depXE0fVb1ivmnA7B"
+      },
+      "artists": [
+        {
+          "name": "Melton Sello",
+          "url": "https://open.spotify.com/artist/7AUp5xRntoLX5IjNuV7B1i"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204411,
+      "name": "Boto F\u00e9",
+      "url": "https://open.spotify.com/track/0pZ6YeNzwIvnAI8qog3Pby"
+    },
+    {
+      "album": {
         "name": "Brasil 2000",
         "url": "https://open.spotify.com/album/3dGSyLAl6yalKGOpHE0rg2"
       },
@@ -1770,7 +1788,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 273685,
       "name": "Can\u00e7\u00e3o da Despedida",
       "url": "https://open.spotify.com/track/6X4TqBLTfYj11DLzEmWOi6"
@@ -6516,7 +6534,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 370737,
       "name": "Musica Urbana",
       "url": "https://open.spotify.com/track/3IBGVjbsGYQxkpY9oNNpyG"
@@ -7378,7 +7396,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 195382,
       "name": "N\u00e3o V\u00e1",
       "url": "https://open.spotify.com/track/6hurdo0fzNhApT20XVDAoV"
@@ -7968,7 +7986,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 177978,
       "name": "O Ver\u00e3o Passou, Mas O Sol Continua Aqui",
       "url": "https://open.spotify.com/track/2wIwKAvMEcdA5oKYwX16ta"
@@ -8888,7 +8906,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 221687,
       "name": "Por que a gente \u00e9 assim?",
       "url": "https://open.spotify.com/track/6r5MJTD9mUworfbzTS1Riz"
@@ -8942,7 +8960,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 253584,
       "name": "Porta-Malas",
       "url": "https://open.spotify.com/track/23dCpE0mEQQ4s6IzX3rkdh"

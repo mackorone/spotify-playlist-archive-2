@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "A new beginning",
+        "url": "https://open.spotify.com/album/0yqVSDxzaBGtyQ2G8eNcxj"
+      },
+      "artists": [
+        {
+          "name": "Leeluck & Co",
+          "url": "https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179308,
+      "name": "A new beginning",
+      "url": "https://open.spotify.com/track/7IxyFOyqxTKYRBcfDp4v3A"
+    },
+    {
+      "album": {
         "name": "A Nightingale Sang In Berkeley Square",
         "url": "https://open.spotify.com/album/7979k1NF3U9qJlbgl9yoAj"
       },
@@ -5261,6 +5279,24 @@
     },
     {
       "album": {
+        "name": "Closer than before",
+        "url": "https://open.spotify.com/album/4SeYmOjD0W8ATBKa03uzc5"
+      },
+      "artists": [
+        {
+          "name": "Noel Hayes",
+          "url": "https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182262,
+      "name": "Closer than before",
+      "url": "https://open.spotify.com/track/4OETAC7tPolm6wY1BXVFGz"
+    },
+    {
+      "album": {
         "name": "Paris in the Rain",
         "url": "https://open.spotify.com/album/02n3H8PMcmrFzjgvG5cUc2"
       },
@@ -6201,6 +6237,24 @@
     },
     {
       "album": {
+        "name": "Debbys raise",
+        "url": "https://open.spotify.com/album/3lo7y3M1haLZQgHJR1PBrv"
+      },
+      "artists": [
+        {
+          "name": "Nighthawks Revisited",
+          "url": "https://open.spotify.com/artist/2sgwN8aKPOcrVSAdVil6R1"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172890,
+      "name": "Debbys raise",
+      "url": "https://open.spotify.com/track/5IeUaZ4ySZMlOPfvNJxHzv"
+    },
+    {
+      "album": {
         "name": "Debras Fall",
         "url": "https://open.spotify.com/album/06JsvpOoYrV6026WLJenPx"
       },
@@ -6468,6 +6522,24 @@
       "duration_ms": 199166,
       "name": "Dimness",
       "url": "https://open.spotify.com/track/5IVl86u3PwXeo73x3tFBEh"
+    },
+    {
+      "album": {
+        "name": "Dinner 4 2",
+        "url": "https://open.spotify.com/album/6FsKnfRVerMJ95hmqniyNi"
+      },
+      "artists": [
+        {
+          "name": "Cole Peers trio",
+          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199124,
+      "name": "Dinner 4 2",
+      "url": "https://open.spotify.com/track/4kohcY73tFCQTXVPf21tWM"
     },
     {
       "album": {
@@ -19532,7 +19604,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 238015,
       "name": "On A Road To Nowhere",
       "url": "https://open.spotify.com/track/5nDpC1oqtsVETQsgjMHr8H"
@@ -25002,6 +25074,24 @@
       "duration_ms": 200937,
       "name": "Swaying Shadows",
       "url": "https://open.spotify.com/track/53MQJJpDsIE0QV6y6Mv2mc"
+    },
+    {
+      "album": {
+        "name": "Sweet And Lonely",
+        "url": "https://open.spotify.com/album/4YEjAMG43uUDaAR3HCyQqE"
+      },
+      "artists": [
+        {
+          "name": "Bernina Quartet",
+          "url": "https://open.spotify.com/artist/2Svnw11NWIp2PHpPAgIqRo"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296193,
+      "name": "Sweet And Lonely",
+      "url": "https://open.spotify.com/track/5xjfiCZOJpUCV0VwOGXjGp"
     },
     {
       "album": {

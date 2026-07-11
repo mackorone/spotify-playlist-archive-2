@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "youngs soundss \ud83e\udd5e Klara Vibe p\u00e5 forsiden ",
+  "description": "youngs soundss \ud83e\udd5e USSEL p\u00e5 forsiden ",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -4227,6 +4227,28 @@
     },
     {
       "album": {
+        "name": "KOMMER DU HJEM",
+        "url": "https://open.spotify.com/album/5ohkGUAIM1Lwdx0MviysnB"
+      },
+      "artists": [
+        {
+          "name": "MARQ",
+          "url": "https://open.spotify.com/artist/4Cm5pvR59CgfEcAG5wen6x"
+        },
+        {
+          "name": "JOSVA",
+          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199093,
+      "name": "KOMMER DU HJEM",
+      "url": "https://open.spotify.com/track/00WiCCPX6cuonSNqNuu71y"
+    },
+    {
+      "album": {
         "name": "Kommet Videre",
         "url": "https://open.spotify.com/album/7hYNwd5AwQYI0MDM4Vp4hP"
       },
@@ -7330,7 +7352,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 154023,
       "name": "Uden T\u00f8j P\u00e5",
       "url": "https://open.spotify.com/track/2yJGqPpHkLEQJH1t1dKGyS"

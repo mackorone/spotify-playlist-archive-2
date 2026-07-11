@@ -1931,6 +1931,28 @@
     },
     {
       "album": {
+        "name": "Disfruto",
+        "url": "https://open.spotify.com/album/1R7ZT2lxSAqmuT9kHEOKWT"
+      },
+      "artists": [
+        {
+          "name": "French Fuse",
+          "url": "https://open.spotify.com/artist/3bZHlENvWWvWYYIsC7vLSi"
+        },
+        {
+          "name": "Blackrose",
+          "url": "https://open.spotify.com/artist/3GNXc7IwO6KhcPsUMwNRa8"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Disfruto",
+      "url": "https://open.spotify.com/track/4BjNBoAn17njYj6MjnHNuU"
+    },
+    {
+      "album": {
         "name": "hey",
         "url": "https://open.spotify.com/album/3HLrOVIjvjuFcaUikX5jWH"
       },
@@ -2048,7 +2070,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 131562,
       "name": "Elephant",
       "url": "https://open.spotify.com/track/25eziuXzuP0USgaLErpQOF"
@@ -3717,6 +3739,24 @@
     },
     {
       "album": {
+        "name": "Keep On Running",
+        "url": "https://open.spotify.com/album/10QiapYuLBeRhQWZCZuToE"
+      },
+      "artists": [
+        {
+          "name": "Mizmo",
+          "url": "https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148005,
+      "name": "Keep On Running",
+      "url": "https://open.spotify.com/track/0TrdlBrywTOuG4r8ZpIpJB"
+    },
+    {
+      "album": {
         "name": "Kids of the Sun",
         "url": "https://open.spotify.com/album/5Zc30hxnYShaLQ9FcDQEgA"
       },
@@ -4124,6 +4164,24 @@
       "duration_ms": 152784,
       "name": "lo que pase",
       "url": "https://open.spotify.com/track/06CoDtZi2S0mBJDrpCHi3p"
+    },
+    {
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/3P4hY9jnYl6hBml4seUFN6"
+      },
+      "artists": [
+        {
+          "name": "Aaron Decay",
+          "url": "https://open.spotify.com/artist/6kOwpxAcJPhBWLJhsjiVXi"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139384,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/0MW0x6OGEp4QEC9xTAdp1l"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Sibel Can, Eypio ve haftanın en iyi çıkışları!
 
-8,683 songs - 18 day 12 hr 47 min
+8,684 songs - 18 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4380,6 +4380,7 @@
 | [Kaygılar](https://open.spotify.com/track/0cGULlUJevAAjpDLVlpbI1) | [Feo Matif](https://open.spotify.com/artist/4H5LECILp2q6DyG4zvwxjQ) | [Kaygılar](https://open.spotify.com/album/1ScY6mUJlkYwEc5Spho3ZJ) | 2:48 | 2026-04-23 | 2026-05-01 |
 | [KAYIP](https://open.spotify.com/track/6qCWeG49RYw6HP0kcc8dFs) | [Olvi](https://open.spotify.com/artist/1WmiHI9F7KMAezHriq82sE) | [KAYIP](https://open.spotify.com/album/17lwbiz8OtYHCxGnnt2MXn) | 2:12 | 2026-07-02 | 2026-07-10 |
 | [KAYKAY](https://open.spotify.com/track/6rRlb4jHYWovtdI4PJnr5q) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [KAYKAY](https://open.spotify.com/album/29kZS6Qv2zGpM8j0FbUDw1) | 1:47 | 2025-10-16 | 2025-10-24 |
+| [KAYNANA](https://open.spotify.com/track/3KuPeSMlSr1MJ4BYb3vR3s) | [Bar B](https://open.spotify.com/artist/0psj0eABrCNIcYLIuDw21A) | [KAYNANA](https://open.spotify.com/album/73WIv4c5dVmAOd6mC0DRSd) | 2:07 | 2026-07-09 |  |
 | [Kayseri 2](https://open.spotify.com/track/6T9ETDLkAJGOaA8tqRsTOn) | [OMG](https://open.spotify.com/artist/2gSIgsQWEHbWvOiFvhvx3g) | [Kayseri 2](https://open.spotify.com/album/1PHBz7IXSjbst2pBawXNlR) | 1:44 | 2025-07-24 | 2025-08-01 |
 | [Kayıp](https://open.spotify.com/track/50UulFuKf16guKJrMq5F0c) | [Yahya](https://open.spotify.com/artist/6Hlp9DujTemu7A0SIIRyvS) | [Kayıp](https://open.spotify.com/album/0WdYpvzFz0ESpoAujkidj4) | 4:18 | 2026-05-07 | 2026-05-15 |
 | [Kayıp Bi' Gemi](https://open.spotify.com/track/26pVAhkkBPuhiraNMDpay6) | [Oradaki Elf](https://open.spotify.com/artist/0BqgbYjNgE1bCO5J4XazZw) | [Kayıp Bi' Gemi](https://open.spotify.com/album/02nztWGT4kdcZhhcN5fwCK) | 4:23 | 2026-04-23 | 2026-05-01 |
@@ -7243,7 +7244,6 @@
 | [Toydum](https://open.spotify.com/track/6kcwVqUax4S8GJ4FJy2t40) | [Seda Eylül Tansık](https://open.spotify.com/artist/3QoWho8rukGcCzeQEPuZud), [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Toydum](https://open.spotify.com/album/1Py2kc9VYdxVp7WmHodxzq) | 3:40 | 2025-06-12 | 2025-06-20 |
 | [Toz Pembe](https://open.spotify.com/track/24CSPGkF9QB1zW07dgtZhr) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Toz Pembe](https://open.spotify.com/album/5n0QmoUBEvSyIjDTwe4670) | 2:40 | 2026-07-02 | 2026-07-10 |
 | [TOZPEMBE](https://open.spotify.com/track/4OgyM015xx4c2NECTQlND2) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC) | [TOZPEMBE](https://open.spotify.com/album/6kUsjDLFky1XSIs2PefSyQ) | 2:18 | 2025-10-30 | 2025-11-07 |
-| [Track 4](https://open.spotify.com/track/3RHtI2W6ZlAuM0r96nLhC9) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [On Your Side](https://open.spotify.com/album/5H8h2QQ48TwqBpi6jXNDyr) | 0:00 | 2026-07-09 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |
 | [Trafo](https://open.spotify.com/track/1UqEriTZm9GOREm4lZUcTF) | [Kamufle](https://open.spotify.com/artist/0JnDkp29FlLpGwsnub400t), [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg), [Ali Ece](https://open.spotify.com/artist/2SzYIeKDEwpMoQzKH5InmK) | [Trafo](https://open.spotify.com/album/3fyKbclKoyHYRSGcknCy81) | 3:23 | 2026-06-11 | 2026-06-19 |
 | [Transcend](https://open.spotify.com/track/2cbyiv8mzoTCCzCAx2SdYW) | [Erdem Tunali](https://open.spotify.com/artist/0nKW0tidLmlNBpIhcRmwta), [İdil Meşe](https://open.spotify.com/artist/5HE29yygBDPWK6kePPr3I3) | [Transcend](https://open.spotify.com/album/00pjxxOfsIntUfRjFtmf1l) | 4:28 | 2025-11-27 | 2025-12-05 |
@@ -7411,6 +7411,7 @@
 | [Uranus](https://open.spotify.com/track/4nddHsK2GKEp1W3vLdkivn) | [Berkay Duman](https://open.spotify.com/artist/797U4xKy4p5Vi8vpWzJRD6) | [PRIMORDIAL CHAOS](https://open.spotify.com/album/0xgbKg4l3fQORqzgnLZcqg) | 2:18 | 2025-03-20 | 2025-03-28 |
 | [Uranyum ve Roket](https://open.spotify.com/track/3arSc5LaI2JVXGba5uOFTg) | [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m) | [Uranyum ve Roket](https://open.spotify.com/album/39XWlUIEXTjpd2xQX93uyK) | 2:34 | 2025-04-24 | 2025-05-02 |
 | [URUSAI FREESTYLE](https://open.spotify.com/track/7ynQh1bf3PDLWRZ7dBIyML) | [Metukan](https://open.spotify.com/artist/3SdGkpzAA98IJUf7dwd8TD), [Adeno](https://open.spotify.com/artist/0Hbp3wJ0fSELgpyk4V0Snc), [Palas](https://open.spotify.com/artist/0VEakNSOJBVkgfUs8ZPKsS), [Epasha](https://open.spotify.com/artist/1re71ud63EYozPuZ4LEDzx) | [URUSAI FREESTYLE](https://open.spotify.com/album/3j3NkwSQ2qUVgjIAJQ9vm0) | 1:47 | 2026-06-18 | 2026-06-26 |
+| [Us Against The World](https://open.spotify.com/track/3RHtI2W6ZlAuM0r96nLhC9) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [On Your Side](https://open.spotify.com/album/5H8h2QQ48TwqBpi6jXNDyr) | 2:43 | 2026-07-09 |  |
 | [Usandım](https://open.spotify.com/track/2XWBtxC4PRi8NZoUsSSgU7) | [Dilara Güntekin](https://open.spotify.com/artist/4H6YFOGMXklQmPYSzISocN), [Ertu](https://open.spotify.com/artist/7gJQoFazS3G5AiVwbOVVV5) | [Usandım](https://open.spotify.com/album/45lYatbFAE5Dc6l5PTBfgx) | 2:18 | 2026-05-28 | 2026-06-05 |
 | [Usandım](https://open.spotify.com/track/2zKDjv05t0siaOYnPUdlUN) | [NELLIE](https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3), [NEFS](https://open.spotify.com/artist/20lujQ6MsgtnXwZaReIzLx) | [Usandım](https://open.spotify.com/album/5lq5OJAXCYPqJ2TzgjRYvH) | 3:38 | 2025-09-04 | 2025-09-12 |
 | [Uslanmaz](https://open.spotify.com/track/2I52yL9yTpoxoeFFzKrXq2) | [Canay Doğan](https://open.spotify.com/artist/67neQRprEWkco2mIyKkXCb) | [Uslanmaz](https://open.spotify.com/album/1PpvbgMPm2axcYgT1NKVyY) | 3:18 | 2025-12-04 | 2025-12-12 |

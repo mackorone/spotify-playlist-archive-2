@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Gowry Lekshmi
 
-525 songs - 1 day 8 hr 18 min
+526 songs - 1 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Aspirin](https://open.spotify.com/track/2geoYQzjW2djgsh1Vd05b9) | [Christo Xavier](https://open.spotify.com/artist/3COuDGy2RmxZvq16WMZpSn) | [Aspirin](https://open.spotify.com/album/29R0i1expMxs3zHLj9vQq4) | 4:06 | 2025-05-30 | 2025-10-11 |
 | [Athe Nila \(From "I'm Original"\) by Job Kurian](https://open.spotify.com/track/1a2xwbwGVHUYGFcVGKyEtC) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Athe Nila \(From "I'm Original"\)](https://open.spotify.com/album/3uGz7Gre9ElmbvP5akT4G1) | 4:35 | 2024-01-15 | 2024-08-17 |
 | [Athe Nila \(From "I'm Original"\) by Job Kurian](https://open.spotify.com/track/6JBA5WfUCN5vyZ30SYdkmk) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Athe Nila \(From "I'm Original"\)](https://open.spotify.com/album/5phkYqqusaDalMGg6qsGcw) | 4:35 | 2023-01-16 | 2024-04-19 |
+| [Athirilla Mohangal](https://open.spotify.com/track/0wpuRk4VLhHL6KFF4rUJdV) | [Suroor Musthafa](https://open.spotify.com/artist/0LhTV2pJFN3cu1FCwabznV) | [Athirilla Mohangal](https://open.spotify.com/album/1WtSLZruzQtSEh5FEMT84g) | 2:34 | 2026-07-10 |  |
 | [Athiru Kaakkum](https://open.spotify.com/track/6kwkD4YCRU4pH1NeY1vqt6) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Athiru Kaakkum](https://open.spotify.com/album/4UCDnO9iM4ANbFUG4OV9LW) | 3:42 | 2022-12-22 | 2024-08-13 |
 | [Aval](https://open.spotify.com/track/0P1xetnWQcLgzdhRZsykkj) | [R Sivas](https://open.spotify.com/artist/5NH8lE0Vn5RNUrlEncZp7m), [Mehal Elsa](https://open.spotify.com/artist/351yzCkqbbnkPgGuFjvVKP), [Lison P Sunny](https://open.spotify.com/artist/22iAuZm6u3O8LVEDGkPKkq), [Abhinand Sinu](https://open.spotify.com/artist/5epb22NuWS5jdp6WwUT7iz), [Alpha Laps](https://open.spotify.com/artist/6ezdtGKvFcS1U9VKcWExk9) | [Aval](https://open.spotify.com/album/4SzPqFeFGwiPi0R14vqbrp) | 2:57 | 2025-06-16 | 2025-10-14 |
 | [Avasta](https://open.spotify.com/track/4hq1ICLUo1oNSx6H7MiLju) | [24 Karen Gold](https://open.spotify.com/artist/6pQ76dLHU9QoeWA05IFjSJ) | [Avasta](https://open.spotify.com/album/41z4rf8Lv78MKCKsS5b8Ny) | 4:57 | 2026-02-09 | 2026-03-14 |

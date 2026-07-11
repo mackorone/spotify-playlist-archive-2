@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: 1300\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,890 likes - 99 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,894 likes - 99 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 10 | [Do Better](https://open.spotify.com/track/4SsbrLDtqf3PgO0JkdYEqa) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul), [Goya Gumbani](https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx), [Franky Bones](https://open.spotify.com/artist/3MIe1raSr122f1BKuFsBZo) | [Do Better](https://open.spotify.com/album/3qMajHDwXzKxPuUqfHMwxa) | 3:42 |
 | 11 | [Gameboi](https://open.spotify.com/track/0zF18WMaq0TvSGvUcU6F0n) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Gameboi](https://open.spotify.com/album/5on9WThrgVpfVdxI4zDG9S) | 2:33 |
 | 12 | [That's That](https://open.spotify.com/track/42D4wXZjIdDtINUCYu8t7a) | [DB.Boutabag](https://open.spotify.com/artist/3xGQQ8pYMw09C0YDkVS4mr) | [That's That](https://open.spotify.com/album/46UuSEizvFsUec3uBDaXOR) | 2:01 |
-| 13 | [Lockdown](https://open.spotify.com/track/4qClEI84z9dXnssKQD3BC2) | [Marnz Malone](https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4), [Sus](https://open.spotify.com/artist/1tWZDk56cffZfgjmgHWuXD) | [Lockdown](https://open.spotify.com/album/1Lxf0aIki6lHkdRaHkMbX1) | 2:37 |
+| 13 | [Lockdown](https://open.spotify.com/track/4qClEI84z9dXnssKQD3BC2) | [Marnz Malone](https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4), [Sus](https://open.spotify.com/artist/1tWZDk56cffZfgjmgHWuXD) | [Lockdown](https://open.spotify.com/album/1Lxf0aIki6lHkdRaHkMbX1) | 2:38 |
 | 14 | [ADRENALINE](https://open.spotify.com/track/4EAOB7FD4YJ80kYU7b5kO0) | [REDZED](https://open.spotify.com/artist/3FCo1sUkVbwKnO2m0Z7Bp9) | [ADRENALINE](https://open.spotify.com/album/7eRcClQ3C2w7AIhPwYrHsN) | 2:19 |
 | 15 | [Geeked](https://open.spotify.com/track/7a0XF8buT2g3jUWOXEfDVh) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [Geeked](https://open.spotify.com/album/7oyvRP0xDmbvQt395CiwdY) | 2:24 |
 | 16 | [Legendary \(Feat\. Sik\-K\)](https://open.spotify.com/track/0YoWKyfjQshpjhYERUFKFG) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [CHOROK : MIXTAPE](https://open.spotify.com/album/6Jde4gre837syAeLxwAnm0) | 2:35 |

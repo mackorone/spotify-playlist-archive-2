@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. DANNA y El Malilla en portada ",
+  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Banda MS en portada ",
   "name": "Top M\u00e9xico",
   "tracks": [
     {
@@ -700,7 +700,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 204849,
       "name": "50/50",
       "url": "https://open.spotify.com/track/2uBRBvEuLx0i3B1cbJLXxp"
@@ -3440,7 +3440,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 162333,
       "name": "a\u00f1os, no meses",
       "url": "https://open.spotify.com/track/3eQjXNfkhr6bAr8sPvXJlr"
@@ -8627,6 +8627,36 @@
     },
     {
       "album": {
+        "name": "Soy Luna: Volver a rodar (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/6glYGr5mPdY0m1vt9mzNuO"
+      },
+      "artists": [
+        {
+          "name": "Elenco de Soy Luna",
+          "url": "https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l"
+        },
+        {
+          "name": "Karol Sevilla",
+          "url": "https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3"
+        },
+        {
+          "name": "Ruggero Pasquarelli",
+          "url": "https://open.spotify.com/artist/7uMsrJMSZWhL8IXO6YArQL"
+        },
+        {
+          "name": "Michael Ronda",
+          "url": "https://open.spotify.com/artist/0TRtXrrdp0uEmcdg5amrLt"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202426,
+      "name": "De ti me enamor\u00e9",
+      "url": "https://open.spotify.com/track/3FWD1jZwNuEk7SJOt1R8MV"
+    },
+    {
+      "album": {
         "name": "De todas las flores",
         "url": "https://open.spotify.com/album/17TJKlG2c4i8S7QJfRO0IP"
       },
@@ -8642,6 +8672,24 @@
       "duration_ms": 322013,
       "name": "De todas las flores",
       "url": "https://open.spotify.com/track/71ckXi5LTZowReRGRNA9SS"
+    },
+    {
+      "album": {
+        "name": "De Todos Modos",
+        "url": "https://open.spotify.com/album/1U9wMvJt0SDSLvlj7j6skD"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153428,
+      "name": "De Todos Modos",
+      "url": "https://open.spotify.com/track/6LMBX9i51zvjldytTBwv9c"
     },
     {
       "album": {
@@ -20031,6 +20079,24 @@
     },
     {
       "album": {
+        "name": "Me Doli\u00f3 (Electrosalsa)",
+        "url": "https://open.spotify.com/album/4i9dkqirhsjDtNSC4k1nKq"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190437,
+      "name": "Me Doli\u00f3 - Electrosalsa",
+      "url": "https://open.spotify.com/track/32bhj2cyv7EGFVjNqJB3zg"
+    },
+    {
+      "album": {
         "name": "Me Enamor\u00e9 Solo",
         "url": "https://open.spotify.com/album/4QuqWX0Gniy5l01FwZVxO1"
       },
@@ -21130,6 +21196,24 @@
       "duration_ms": 182750,
       "name": "Mi \u00danico Camino (En Vivo)",
       "url": "https://open.spotify.com/track/0VCu0JDkHoFpuRTvZ9Bbr3"
+    },
+    {
+      "album": {
+        "name": "MIAMI PENTHOUSE",
+        "url": "https://open.spotify.com/album/00roY55J2iEw56IBdWTCRe"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174137,
+      "name": "MIAMI PENTHOUSE",
+      "url": "https://open.spotify.com/track/1idSm0NlutOIBoedkPrKXe"
     },
     {
       "album": {
@@ -23612,7 +23696,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 194782,
       "name": "No Me Pidas Un Tiempo",
       "url": "https://open.spotify.com/track/7vV6vTQGEhdfYIF9ZfFnR7"
@@ -25248,7 +25332,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 124764,
       "name": "Pajuelazo",
       "url": "https://open.spotify.com/track/7v9L3VNQjmRKZ4DjGd7OLT"
@@ -28763,6 +28847,28 @@
     },
     {
       "album": {
+        "name": "Reminiscencia",
+        "url": "https://open.spotify.com/album/1iE4WOrDA6qhVTAYwgOrKK"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cuellar",
+          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
+        },
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158487,
+      "name": "Reminiscencia",
+      "url": "https://open.spotify.com/track/7f1G5yfj2mcGEwKCHks3lm"
+    },
+    {
+      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/014sL3c9p52nmazlOZYInd"
       },
@@ -30082,7 +30188,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 215273,
       "name": "Si No Te Vuelvo A Ver",
       "url": "https://open.spotify.com/track/1GiyfPeTzigYY1xz0sLO2x"
@@ -33643,6 +33749,24 @@
     },
     {
       "album": {
+        "name": "Tu Falta De Querer",
+        "url": "https://open.spotify.com/album/1LmPvZc8SPVeQRyiOcOdxW"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193684,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/6AKvMFodvPaTWlbLExloiO"
+    },
+    {
+      "album": {
         "name": "Tu H\u00e9roe",
         "url": "https://open.spotify.com/album/09zIV6A4I2sZJFJ6z3vAwn"
       },
@@ -35189,6 +35313,28 @@
     },
     {
       "album": {
+        "name": "VETIVER",
+        "url": "https://open.spotify.com/album/0aXJxuR6pi8125yq41O4MK"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Riosse",
+          "url": "https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183876,
+      "name": "VETIVER",
+      "url": "https://open.spotify.com/track/1QwwlPqhOH2R9lgtKZfbQG"
+    },
+    {
+      "album": {
         "name": "VETIVER Y AMARETTO",
         "url": "https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs"
       },
@@ -36373,6 +36519,28 @@
     },
     {
       "album": {
+        "name": "Ya No Me Duele Tanto",
+        "url": "https://open.spotify.com/album/0gWb3xqFfk27f5emLC111j"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169537,
+      "name": "Ya No Me Duele Tanto",
+      "url": "https://open.spotify.com/track/0iNIe5802Xv0U5S7yxKNA1"
+    },
+    {
+      "album": {
         "name": "Ya No Pienso en Ti (Spotify Singles)",
         "url": "https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA"
       },
@@ -36774,7 +36942,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 215243,
       "name": "Yo No Dije",
       "url": "https://open.spotify.com/track/20a8C1jCjzelRsDfJUstty"
@@ -37000,7 +37168,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 153043,
       "name": "ZAPATOS",
       "url": "https://open.spotify.com/track/05y0gZhdZPsOCwSUIv1nXb"

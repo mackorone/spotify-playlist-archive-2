@@ -4,7 +4,7 @@
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Pas Band
 
-181 songs - 12 hr 44 min
+183 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Perfect Colour](https://open.spotify.com/track/4jPqP3tWOtuvxTg7N1ul1P) | [Barefood](https://open.spotify.com/artist/6UZs7JW1FeeIoYIBAUsLfM) | [Sullen](https://open.spotify.com/album/41epQaOhVwcFtskbmpRqhk) | 4:04 | 2023-11-24 |  |
 | [Pergi Ke Bulan](https://open.spotify.com/track/5ucDkQKPniJlwTVMCQOvj1) | [Klarinet](https://open.spotify.com/artist/5W8Z7MYHJ3JML7lWVUHcY2) | [Klarinet](https://open.spotify.com/album/4ui8LbRdGOFtZu0T7NHbQM) | 2:52 | 2021-11-25 |  |
 | [Pergi Tanpa Pesan](https://open.spotify.com/track/524W6iOfPJX0g9uzjF4jQ1) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Sorealist](https://open.spotify.com/album/2Mp0Jvz37IpwQf4bNSiqwU) | 3:25 | 2024-03-22 | 2024-04-05 |
+| [Peri \- Remastered 2000](https://open.spotify.com/track/0WodIRoTnHLMsDU24fFxi1) | [PIKNIK](https://open.spotify.com/artist/0bNerVuOfEiGrb30KNmY2K) | [Peri \(Remastered 2000\)](https://open.spotify.com/album/1pvgBPKclO7lZm25QkD7hw) | 4:45 | 2026-07-10 |  |
 | [Pig Paranoia](https://open.spotify.com/track/4ynxHnSWd8VGoocpWpSvTT) | [Zeke Khaseli](https://open.spotify.com/artist/3XBY4eyiy1tI1SKwkvWokU) | [Salacca Zalacca \(10TH Anniversary Edition\)](https://open.spotify.com/album/37vmU4bxRfyjWokSMH5rWW) | 2:32 | 2021-11-25 |  |
 | [Please Say Yes](https://open.spotify.com/track/1qs68Q2hSHRfsAsGtwL94n) | [Santamonica](https://open.spotify.com/artist/2wFJwReSekCDUH8ncvHPou) | [Reminisce 189](https://open.spotify.com/album/7Aw6H2i0Ksex2n8Qb9LwJG) | 3:55 | 2023-09-29 |  |
 | [Polypanic Rooms](https://open.spotify.com/track/1KER62no0SGNgvsnnpAb7M) | [Polyester Embassy](https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4) | [Tragicomedy](https://open.spotify.com/album/3VGTuyIULOBTiDkcyB0sFN) | 4:44 | 2021-11-25 |  |
@@ -158,6 +159,7 @@
 | [She Burns the Disco](https://open.spotify.com/track/745CC7dQTxGJgTyZPpNjSs) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Garage of the Soul](https://open.spotify.com/album/4WNPu3Ook98eQCR5HB4HWW) | 3:43 | 2022-09-16 |  |
 | [She Pretends](https://open.spotify.com/track/7EBjzSq8dyhwZvNsDtdOjY) | [cscd](https://open.spotify.com/artist/7bKRgEFmYuAzF3xSbI5ftZ) | [Pieces Of The World](https://open.spotify.com/album/6tDKVE1hkmrXUD87JJe0F7) | 4:23 | 2021-11-25 |  |
 | [Sinar](https://open.spotify.com/track/3cMF1tldglDmE2udf39mDe) | [Piknik](https://open.spotify.com/artist/74AhmSuxlU6ydRZwlyr9we) | [Sinar](https://open.spotify.com/album/1MvTs8cmhLpF22hsYkUjqs) | 4:20 | 2022-05-12 |  |
+| [Sinar \- Remastered 2000](https://open.spotify.com/track/5c11ZBCq639GI2v6W0qDmV) | [PIKNIK](https://open.spotify.com/artist/0bNerVuOfEiGrb30KNmY2K) | [Sinar \(Remastered 2000\)](https://open.spotify.com/album/2D9PVO7Ny10DL21SoeytvL) | 4:20 | 2026-07-10 |  |
 | [Sisi Lemah](https://open.spotify.com/track/5KFt2k4qLHuN43qg9Tt435) | [Hoala & Koala](https://open.spotify.com/artist/2MN5VIC0HjfZnnOUDlXHNH), [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Hoala & Koala & Friends](https://open.spotify.com/album/75BhX30YRzdM0h10vnNggo) | 2:33 | 2024-03-22 | 2024-04-05 |
 | [Something Like Your Smile](https://open.spotify.com/track/2DX71CNkwE5WssGevAbbxZ) | [Blossom Diary](https://open.spotify.com/artist/4wHBQaI9R90O4bhl71Sppp) | [About The Poor Boy](https://open.spotify.com/album/3p3u7UdtVzii1F5HfX1q3w) | 4:39 | 2022-06-03 |  |
 | [Sought & Found](https://open.spotify.com/track/6krdciVFX7XxEHZhl8quai) | [Santamonica](https://open.spotify.com/artist/2wFJwReSekCDUH8ncvHPou) | [Reminisce 189](https://open.spotify.com/album/7Aw6H2i0Ksex2n8Qb9LwJG) | 4:58 | 2023-09-29 |  |

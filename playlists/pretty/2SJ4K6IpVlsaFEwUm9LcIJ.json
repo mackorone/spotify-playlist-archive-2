@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: july-august 2026 (previous playlists archived on my profile)",
-  "num_followers": 24357,
+  "num_followers": 24350,
   "original_name": "spacked out!!!",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAOiEH+DIG4fdbwQNrhdDjvNcFSGJaE",
+  "snapshot_id": "AAAOjHRVQwtUsbbowrm2WdRjWOzeZZgC",
   "tracks": [
     {
       "added_at": "2026-07-06 01:28:22",
@@ -239,6 +239,38 @@
       "duration_ms": 436200,
       "name": "Changeling",
       "url": "https://open.spotify.com/track/5DIaZd2T8XohPHN72PkxTq"
+    },
+    {
+      "added_at": "2026-07-10 02:25:50",
+      "album": {
+        "name": "High Society",
+        "url": "https://open.spotify.com/album/22xdBowvTHJ7kOkR3srCzx"
+      },
+      "artists": [
+        {
+          "name": "Enon",
+          "url": "https://open.spotify.com/artist/3jJxGc6wl7xvZHSg8tg61V"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Natural Disasters",
+      "url": "https://open.spotify.com/track/6F3TZeOG2uKDNDbUgoOE3S"
+    },
+    {
+      "added_at": "2026-07-10 15:22:35",
+      "album": {
+        "name": "Don't Challenge Me / You're Shy",
+        "url": "https://open.spotify.com/album/27yf7UUdGz4VlqiVdMBELz"
+      },
+      "artists": [
+        {
+          "name": "Makers",
+          "url": "https://open.spotify.com/artist/4o3UbCOZDjx8y4pORzt4wq"
+        }
+      ],
+      "duration_ms": 185098,
+      "name": "Don\u2019t Challenge Me",
+      "url": "https://open.spotify.com/track/7keyJb7V22AHhKEXFEbwkC"
     }
   ],
   "unique_name": "spacked out!!!",

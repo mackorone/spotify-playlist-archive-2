@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! Soaking worship music \| Jelly Roll gospel \. cinco de mayo , gospel songs jelly roll christian
 
-776 songs - 3 day 2 hr 25 min
+777 songs - 3 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [I Am The Lord's \- Live](https://open.spotify.com/track/7jnEMDQNmkcqz9nS1N33fA) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [All My Life \(Live\)](https://open.spotify.com/album/3UI9KcOc9eywcLWocreewd) | 11:51 | 2024-03-08 | 2024-04-19 |
 | [I Believe In Jesus](https://open.spotify.com/track/3TqsgsmGiio7F54HTzpx4J) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 4:00 | 2023-08-07 | 2024-04-19 |
 | [I Fear No Evil \- Live](https://open.spotify.com/track/4MOpbyLSlO3wAVE2fdgEni) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Megan Parker](https://open.spotify.com/artist/2gAY6ZJtCTFhRtkO5v0f8b), [Whitney Wood](https://open.spotify.com/artist/1eWi8ImuZLYpsxfG2iWXSl) | [I Fear No Evil \(Live\)](https://open.spotify.com/album/5EGU4gtXBUo1Fdsv3BFaqd) | 6:01 | 2025-02-21 | 2025-03-21 |
+| [I Know A Name](https://open.spotify.com/track/2e2vGUvAbGTpw5mvU1whWb) | [Canaan Baca](https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q), [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [Oh My Soul + I Know A Name](https://open.spotify.com/album/7oqCcj5CucrhmdGA3AuXbb) | 5:58 | 2026-07-10 |  |
 | [I Know That I Know \- Live](https://open.spotify.com/track/2StfK9QdCBoRcGzIDWIaQy) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [David Dennis](https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK) | [I Know That I Know \(Live\)](https://open.spotify.com/album/4H5BjT8TcWnUjHvppL3Fb5) | 5:13 | 2025-01-17 | 2026-04-15 |
 | [I Love You Jesus \- Live](https://open.spotify.com/track/6bcs9nejSe5nO8UQfS9vi9) | [Open Heaven](https://open.spotify.com/artist/5mCCAerun72aycTarMpOYw) | [I Love You Jesus \(Live\)](https://open.spotify.com/album/7qop3VTLJaMOQk2Z7wRlcY) | 6:37 | 2024-03-22 | 2024-04-19 |
 | [I See You](https://open.spotify.com/track/2SXrg51ciQMurVKgwTpatg) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [I See You](https://open.spotify.com/album/4ZLqUbhVPHmY5QD1gbYEij) | 3:48 | 2022-02-17 | 2022-09-30 |

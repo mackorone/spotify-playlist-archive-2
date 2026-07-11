@@ -220,7 +220,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 170134,
       "name": "Aadat",
       "url": "https://open.spotify.com/track/3XISGXEojJDsRy3X8hcGdJ"
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 158974,
       "name": "Depression",
       "url": "https://open.spotify.com/track/08DFVREMCppjk7W0LYJ1cz"
@@ -3905,6 +3905,28 @@
     },
     {
       "album": {
+        "name": "Mil Jaave",
+        "url": "https://open.spotify.com/album/0DLYtOTLSEQ55OsCfO99ZT"
+      },
+      "artists": [
+        {
+          "name": "Arunima Sharma",
+          "url": "https://open.spotify.com/artist/2zzJUB2acfwOKPhMnJkBMv"
+        },
+        {
+          "name": "Daddy Beats",
+          "url": "https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145119,
+      "name": "Mil Jaave",
+      "url": "https://open.spotify.com/track/1fA0pGAk8d2PH4PWIgQZDD"
+    },
+    {
+      "album": {
         "name": "Mil Mahiya",
         "url": "https://open.spotify.com/album/4Ornr7ayLqytC7uxcof214"
       },
@@ -3984,6 +4006,24 @@
       "duration_ms": 208699,
       "name": "Mohobbat - Love",
       "url": "https://open.spotify.com/track/1wcZ04tvDT5OMUgbnuWaHK"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1uJddPAIJfsuDeA8sSUbBo"
+      },
+      "artists": [
+        {
+          "name": "Harman Deogan",
+          "url": "https://open.spotify.com/artist/1XiMo6KRBPQt7mYX9FjZfs"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147931,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/1qOxAq9rCNyeCNIpdL7BY7"
     },
     {
       "album": {
@@ -4634,7 +4674,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 120923,
       "name": "Pols",
       "url": "https://open.spotify.com/track/4EpKRtkdwOQGmX1YCDsq1d"
@@ -5544,6 +5584,32 @@
       "duration_ms": 314482,
       "name": "Suhagan",
       "url": "https://open.spotify.com/track/2UN5ayAAWWfdHI6I33eehA"
+    },
+    {
+      "album": {
+        "name": "Sukkee Rooh",
+        "url": "https://open.spotify.com/album/42KPaPTpjVV390nB6hIBlU"
+      },
+      "artists": [
+        {
+          "name": "Shashaa Tirupati",
+          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
+        },
+        {
+          "name": "Sina Doring",
+          "url": "https://open.spotify.com/artist/2uoi1iBxEyh6cQ1Fy5zTHs"
+        },
+        {
+          "name": "Ginny Diwan",
+          "url": "https://open.spotify.com/artist/4EZ6GDVebknxx5Funcp0X2"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285418,
+      "name": "Sukkee Rooh",
+      "url": "https://open.spotify.com/track/0zcyV0DlMeT5TKkWWNb1JD"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Complex rhythms and mesmerizing loops. Cover: Elephant Gym",
-  "num_followers": 222425,
+  "num_followers": 222469,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-06-25 22:02:40",
       "album": {
-        "name": "First CD",
-        "url": "https://open.spotify.com/album/1PMqOoj1Z3A4F6bOvHU20L"
-      },
-      "artists": [
-        {
-          "name": "pennines",
-          "url": "https://open.spotify.com/artist/2ngVUQofGnl0VfpvM0uE0y"
-        }
-      ],
-      "duration_ms": 266344,
-      "name": "Open Closed Open",
-      "url": "https://open.spotify.com/track/6DTCPf9Etdq5tPnU58mzGK"
-    },
-    {
-      "added_at": "2026-06-25 22:02:40",
-      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/57bo48KRDqNLZv0Yycsjj1"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 217360,
       "name": "Raft Easily",
       "url": "https://open.spotify.com/track/31jGKJm3lNbQJgUx6mnt9r"
+    },
+    {
+      "added_at": "2026-06-25 22:02:40",
+      "album": {
+        "name": "First CD",
+        "url": "https://open.spotify.com/album/1PMqOoj1Z3A4F6bOvHU20L"
+      },
+      "artists": [
+        {
+          "name": "pennines",
+          "url": "https://open.spotify.com/artist/2ngVUQofGnl0VfpvM0uE0y"
+        }
+      ],
+      "duration_ms": 266344,
+      "name": "Open Closed Open",
+      "url": "https://open.spotify.com/track/6DTCPf9Etdq5tPnU58mzGK"
     },
     {
       "added_at": "2026-06-25 22:02:40",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-06-25 22:02:40",
       "album": {
-        "name": "Beow",
-        "url": "https://open.spotify.com/album/2Kxe4roMOtztT6Qn6fvNgl"
-      },
-      "artists": [
-        {
-          "name": "Suffer Like G Did",
-          "url": "https://open.spotify.com/artist/7mFJ8ikeW57cChHbHpYiUf"
-        }
-      ],
-      "duration_ms": 208892,
-      "name": "Beow",
-      "url": "https://open.spotify.com/track/69pFXap7G2AGMUXV0Njtab"
-    },
-    {
-      "added_at": "2026-06-25 22:02:40",
-      "album": {
         "name": "Ni Hablar",
         "url": "https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s"
       },
@@ -1255,34 +1239,18 @@
     {
       "added_at": "2026-06-25 22:02:40",
       "album": {
-        "name": "Nevermind The Tempo",
-        "url": "https://open.spotify.com/album/3vUSOJ2jK3wB3iqDuI6WSr"
+        "name": "Beow",
+        "url": "https://open.spotify.com/album/2Kxe4roMOtztT6Qn6fvNgl"
       },
       "artists": [
         {
-          "name": "I Hate My Village",
-          "url": "https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7"
+          "name": "Suffer Like G Did",
+          "url": "https://open.spotify.com/artist/7mFJ8ikeW57cChHbHpYiUf"
         }
       ],
-      "duration_ms": 148116,
-      "name": "Italiapaura",
-      "url": "https://open.spotify.com/track/7826YRWUOz9m7DZAY9jbFu"
-    },
-    {
-      "added_at": "2026-06-25 22:02:40",
-      "album": {
-        "name": "Floaty Boaty",
-        "url": "https://open.spotify.com/album/5R0x6BSokx2A1Y6xgPzQqF"
-      },
-      "artists": [
-        {
-          "name": "House Tours",
-          "url": "https://open.spotify.com/artist/0JJrpuxdhv0fmrMQR7PEC7"
-        }
-      ],
-      "duration_ms": 256532,
-      "name": "Floaty Boaty",
-      "url": "https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr"
+      "duration_ms": 208892,
+      "name": "Beow",
+      "url": "https://open.spotify.com/track/69pFXap7G2AGMUXV0Njtab"
     },
     {
       "added_at": "2026-06-25 22:02:40",
@@ -1303,18 +1271,34 @@
     {
       "added_at": "2026-06-25 22:02:40",
       "album": {
-        "name": "As Seen from Above",
-        "url": "https://open.spotify.com/album/4AcT3bvC9fETTGSk70doVX"
+        "name": "Floaty Boaty",
+        "url": "https://open.spotify.com/album/5R0x6BSokx2A1Y6xgPzQqF"
       },
       "artists": [
         {
-          "name": "Dianogah",
-          "url": "https://open.spotify.com/artist/1VgnczxN9UlQeFTrh1S8MB"
+          "name": "House Tours",
+          "url": "https://open.spotify.com/artist/0JJrpuxdhv0fmrMQR7PEC7"
         }
       ],
-      "duration_ms": 174381,
-      "name": "What Is Your Landmass",
-      "url": "https://open.spotify.com/track/1Xa7m0ox4oasvPBnXhD7ZY"
+      "duration_ms": 256532,
+      "name": "Floaty Boaty",
+      "url": "https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr"
+    },
+    {
+      "added_at": "2026-06-25 22:02:40",
+      "album": {
+        "name": "Nevermind The Tempo",
+        "url": "https://open.spotify.com/album/3vUSOJ2jK3wB3iqDuI6WSr"
+      },
+      "artists": [
+        {
+          "name": "I Hate My Village",
+          "url": "https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7"
+        }
+      ],
+      "duration_ms": 148116,
+      "name": "Italiapaura",
+      "url": "https://open.spotify.com/track/7826YRWUOz9m7DZAY9jbFu"
     },
     {
       "added_at": "2026-06-25 22:02:40",
@@ -1331,6 +1315,22 @@
       "duration_ms": 262666,
       "name": "El Capit\u00e1n",
       "url": "https://open.spotify.com/track/2qocldaWoDwzSPR4D1Dqpv"
+    },
+    {
+      "added_at": "2026-06-25 22:02:40",
+      "album": {
+        "name": "As Seen from Above",
+        "url": "https://open.spotify.com/album/4AcT3bvC9fETTGSk70doVX"
+      },
+      "artists": [
+        {
+          "name": "Dianogah",
+          "url": "https://open.spotify.com/artist/1VgnczxN9UlQeFTrh1S8MB"
+        }
+      ],
+      "duration_ms": 174381,
+      "name": "What Is Your Landmass",
+      "url": "https://open.spotify.com/track/1Xa7m0ox4oasvPBnXhD7ZY"
     },
     {
       "added_at": "2026-06-25 22:02:40",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-06-25 22:02:40",
       "album": {
-        "name": "Valerio y la \u00daltima Vuelta al Palejon\u00fa",
-        "url": "https://open.spotify.com/album/49x51YGTHDL8fbERpiuxyH"
-      },
-      "artists": [
-        {
-          "name": "Jean Loup",
-          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
-        }
-      ],
-      "duration_ms": 251373,
-      "name": "Torino",
-      "url": "https://open.spotify.com/track/3ph50wGap6ERq55TPRV89D"
-    },
-    {
-      "added_at": "2026-06-25 22:02:40",
-      "album": {
         "name": "Asbestos Weak Hood",
         "url": "https://open.spotify.com/album/4g3y6JrQ6Jr065jNCoWPo1"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 182750,
       "name": "Ruth Leslie (Cigregrets Pt. 1)",
       "url": "https://open.spotify.com/track/6W9yjiuIczOUQlp1jG3FwE"
+    },
+    {
+      "added_at": "2026-06-25 22:02:40",
+      "album": {
+        "name": "Valerio y la \u00daltima Vuelta al Palejon\u00fa",
+        "url": "https://open.spotify.com/album/49x51YGTHDL8fbERpiuxyH"
+      },
+      "artists": [
+        {
+          "name": "Jean Loup",
+          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
+        }
+      ],
+      "duration_ms": 251373,
+      "name": "Torino",
+      "url": "https://open.spotify.com/track/3ph50wGap6ERq55TPRV89D"
     },
     {
       "added_at": "2026-06-25 22:02:40",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-06-25 22:02:40",
       "album": {
+        "name": "Gamba Tesa",
+        "url": "https://open.spotify.com/album/33mx3VUpMKOqFEjSirUPcG"
+      },
+      "artists": [
+        {
+          "name": "Scumma do Mar",
+          "url": "https://open.spotify.com/artist/6ebpYhUiGhoc4cXeEHTpjH"
+        }
+      ],
+      "duration_ms": 112616,
+      "name": "x Maria Violenza",
+      "url": "https://open.spotify.com/track/3I2SPI12BIfal418Rz2NtB"
+    },
+    {
+      "added_at": "2026-06-25 22:02:40",
+      "album": {
         "name": "Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 234451,
       "name": "003: Haiyah!",
       "url": "https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3"
-    },
-    {
-      "added_at": "2026-06-25 22:02:40",
-      "album": {
-        "name": "Gamba Tesa",
-        "url": "https://open.spotify.com/album/33mx3VUpMKOqFEjSirUPcG"
-      },
-      "artists": [
-        {
-          "name": "Scumma do Mar",
-          "url": "https://open.spotify.com/artist/6ebpYhUiGhoc4cXeEHTpjH"
-        }
-      ],
-      "duration_ms": 112616,
-      "name": "x Maria Violenza",
-      "url": "https://open.spotify.com/track/3I2SPI12BIfal418Rz2NtB"
     },
     {
       "added_at": "2026-06-25 22:02:40",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2026-06-25 22:02:40",
       "album": {
+        "name": "Chunky Moisture",
+        "url": "https://open.spotify.com/album/1uy5vcfYaUcwgs0wubTiuv"
+      },
+      "artists": [
+        {
+          "name": "biscuit head",
+          "url": "https://open.spotify.com/artist/2kw2Y8E5KllNL4PY2MeoMX"
+        }
+      ],
+      "duration_ms": 211115,
+      "name": "At the corner of Squanch and Squanch",
+      "url": "https://open.spotify.com/track/12oLllpYyJOKWVIpURA3BR"
+    },
+    {
+      "added_at": "2026-06-25 22:02:40",
+      "album": {
         "name": "Badman (Ting) (feat. Flowdan)",
         "url": "https://open.spotify.com/album/6SdzI9JTSBYzZaIHxlwiwV"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 205120,
       "name": "Badman (Ting) (feat. Flowdan)",
       "url": "https://open.spotify.com/track/3diLbv7ChuSFm6nmhIqW0d"
-    },
-    {
-      "added_at": "2026-06-25 22:02:40",
-      "album": {
-        "name": "Chunky Moisture",
-        "url": "https://open.spotify.com/album/1uy5vcfYaUcwgs0wubTiuv"
-      },
-      "artists": [
-        {
-          "name": "biscuit head",
-          "url": "https://open.spotify.com/artist/2kw2Y8E5KllNL4PY2MeoMX"
-        }
-      ],
-      "duration_ms": 211115,
-      "name": "At the corner of Squanch and Squanch",
-      "url": "https://open.spotify.com/track/12oLllpYyJOKWVIpURA3BR"
     },
     {
       "added_at": "2026-06-25 22:02:40",

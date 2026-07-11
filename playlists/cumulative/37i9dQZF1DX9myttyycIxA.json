@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: Wishy",
+  "description": "Underground indie rock gems. Cover: Trophy Wife",
   "name": "undercurrents",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 168456,
       "name": "23",
       "url": "https://open.spotify.com/track/5cAyhQKcqRguYPryCL0rYj"
@@ -1138,6 +1138,24 @@
       "duration_ms": 184801,
       "name": "Almuatin",
       "url": "https://open.spotify.com/track/3q8NkyunIl3nVwv48deAv0"
+    },
+    {
+      "album": {
+        "name": "Pathetic",
+        "url": "https://open.spotify.com/album/2apjYDeBC8uYgIuwKmvdtr"
+      },
+      "artists": [
+        {
+          "name": "Trophy Wife",
+          "url": "https://open.spotify.com/artist/7HcbQJiChdkCTU40v2tsvc"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240401,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3pbS8Q9kl3KWI92Ii7cknE"
     },
     {
       "album": {
@@ -2742,7 +2760,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 240752,
       "name": "Beadie",
       "url": "https://open.spotify.com/track/2epCOFnQDllhDFAaxO3mx2"
@@ -3554,7 +3572,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 214133,
       "name": "BLINDERS",
       "url": "https://open.spotify.com/track/5yGRA06uJvK0KLgeZAAYb7"
@@ -4694,7 +4712,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 170451,
       "name": "Calcium",
       "url": "https://open.spotify.com/track/3zonc3ETbpfha6IsNbigeD"
@@ -15489,6 +15507,24 @@
     },
     {
       "album": {
+        "name": "Ugly Duckling Union",
+        "url": "https://open.spotify.com/album/6g8JRKz0Wx6shPLZoCFgLb"
+      },
+      "artists": [
+        {
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247773,
+      "name": "I Like You A Lot",
+      "url": "https://open.spotify.com/track/6AJIS7YWz8TreovnWuprpc"
+    },
+    {
+      "album": {
         "name": "The Loneliest Girl",
         "url": "https://open.spotify.com/album/37waqzLFCA6XQtWlODc1Zq"
       },
@@ -16986,7 +17022,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 261931,
       "name": "ITS FINE",
       "url": "https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV"
@@ -18024,7 +18060,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 157250,
       "name": "Knockout",
       "url": "https://open.spotify.com/track/6FZ1ZITQcnQmz4teEIHvgw"
@@ -19170,6 +19206,24 @@
       "duration_ms": 161973,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/6VVKpaJkY7dc4uGP0pE1KX"
+    },
+    {
+      "album": {
+        "name": "Long Drive",
+        "url": "https://open.spotify.com/album/4NUlCsGdijaZ2fKsErW63T"
+      },
+      "artists": [
+        {
+          "name": "Juice Webster",
+          "url": "https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219790,
+      "name": "Long Drive",
+      "url": "https://open.spotify.com/track/1FWAqD4YgsMabXlmzYgUPS"
     },
     {
       "album": {
@@ -22076,6 +22130,24 @@
       "duration_ms": 286383,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/2ElOjg63UnovNDm8vauTRo"
+    },
+    {
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/2OiED8uXfirhu1PCHdylRu"
+      },
+      "artists": [
+        {
+          "name": "Computerwife",
+          "url": "https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332490,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/5TP7SajMPHbKb7vG2erAFl"
     },
     {
       "album": {
@@ -25914,6 +25986,24 @@
       "duration_ms": 196264,
       "name": "Satan",
       "url": "https://open.spotify.com/track/42G1tGNkv09Oe4i30Xqxbx"
+    },
+    {
+      "album": {
+        "name": "Saturday Sun",
+        "url": "https://open.spotify.com/album/0Sjukr6AlTbsXNfdb7E8f7"
+      },
+      "artists": [
+        {
+          "name": "Sharp Pins",
+          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234600,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/3irsYddwo18WmLYSiUvc8J"
     },
     {
       "album": {

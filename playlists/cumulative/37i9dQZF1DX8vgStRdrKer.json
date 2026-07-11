@@ -3750,7 +3750,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 401000,
       "name": "El Gibbor",
       "url": "https://open.spotify.com/track/15basiVIAqFSSITtAiS1tQ"
@@ -6123,6 +6123,24 @@
     },
     {
       "album": {
+        "name": "Holy Holy Holy",
+        "url": "https://open.spotify.com/album/0pxjDuWhj4F6LZLpiKZOIA"
+      },
+      "artists": [
+        {
+          "name": "Daniel Aikhomu",
+          "url": "https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 728857,
+      "name": "Holy Holy Holy",
+      "url": "https://open.spotify.com/track/5WH2UuWLvRSoMqKvABTJm7"
+    },
+    {
+      "album": {
         "name": "Holy Lion",
         "url": "https://open.spotify.com/album/0iPF450yj9uArQB1dzYGwP"
       },
@@ -6178,7 +6196,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 150648,
       "name": "Holy Pressure",
       "url": "https://open.spotify.com/track/5y7Ok74m78xZLLkdgulUzb"
@@ -7668,7 +7686,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 176843,
       "name": "Iye re",
       "url": "https://open.spotify.com/track/6jsLwIpy0Ygel1E4Pb044R"
@@ -9118,7 +9136,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 158490,
       "name": "Love Bet",
       "url": "https://open.spotify.com/track/68OIGx3DQ9CEK6jNFPuGBe"
@@ -15750,6 +15768,28 @@
       "duration_ms": 154009,
       "name": "Without You",
       "url": "https://open.spotify.com/track/78AaRaIWFxNfcdIlVJZHwH"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/1Qu8w9dRIpI9JIxHRaSphR"
+      },
+      "artists": [
+        {
+          "name": "Giliane",
+          "url": "https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t"
+        },
+        {
+          "name": "Echow Clay",
+          "url": "https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147644,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/4leFpYPiDcf617jC0WXZXu"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 7co
 
-3,824 songs - 10 day 3 hr 23 min
+3,826 songs - 10 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Ambiguous](https://open.spotify.com/track/36Kj0vrp2MnYICExdK1lN9) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Ambiguous](https://open.spotify.com/album/3ny9YuGHA0QNn4F9zWC7Bz) | 3:40 | 2024-02-06 | 2024-04-10 |
 | [Ame Ame Za Za](https://open.spotify.com/track/4YIkf8XEIp7CuQFRd2rFi3) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [22](https://open.spotify.com/album/50rge1kVFFAutYociAWxuu) | 1:44 | 2023-07-11 | 2023-07-26 |
 | [AmeKazeSoraNiji](https://open.spotify.com/track/1M9TBUjYiUhtjJWAZtlddn) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [AmeKazeSoraNiji](https://open.spotify.com/album/5rUFLgJMOUzkfsR2uKavys) | 3:10 | 2025-01-07 | 2025-02-05 |
+| [Amore](https://open.spotify.com/track/5HMuyrjj7GrQPyDE7PGE9K) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Amore](https://open.spotify.com/album/5vBL2UwpiOUtBUEWD4RA5F) | 4:35 | 2026-07-07 |  |
 | [An Easy Girl](https://open.spotify.com/track/6YRKEs8N3LqUcNDbGoPMPZ) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [An Easy Girl](https://open.spotify.com/album/6J4VeS0MQVmhTJ4FLjdEqa) | 2:57 | 2023-02-14 | 2023-03-01 |
 | [Anata](https://open.spotify.com/track/7C4Xpo2kBI7PbzhHGiXw9w) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [My name](https://open.spotify.com/album/18mP1rLgpBLkTA2OKFdgHd) | 4:34 | 2024-10-01 | 2024-10-09 |
 | [Anata no Koibito ni Naritainodesu \- 2023 Acoustic Ver.](https://open.spotify.com/track/22w0lcJ8BONGcrXoa3Bvdn) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Acoustic \-Self Cover Album\-](https://open.spotify.com/album/47ZFoBWIddVjqRCAqd7DCz) | 5:34 | 2023-09-19 | 2023-11-16 |
@@ -2220,6 +2221,7 @@
 | [√\-1](https://open.spotify.com/track/7kBXeppBRSa8YVGCg6Uq3k) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [ミメーシス](https://open.spotify.com/album/6Hmg8fviJ3BmaYjHMIhOTY) | 3:22 | 2022-06-07 | 2022-07-25 |
 | [∞](https://open.spotify.com/track/6ZrX2IRdkDrYwLT2uwnllG) | [HACHI](https://open.spotify.com/artist/2ksMoRs5T9ErEe5H7gxv7C) | [∞](https://open.spotify.com/album/43tk1aJAbtbnlIPDtrKIJ9) | 3:57 | 2026-01-20 | 2026-04-01 |
 | [〇](https://open.spotify.com/track/2wcIrfQFcXHZ7GIKfP4rD9) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [〇](https://open.spotify.com/album/0SUDbLjaTOjHJFgzovopXr) | 5:14 | 2023-12-12 | 2024-01-10 |
+| [「いつかちゃんと。」](https://open.spotify.com/track/73lvSTyOiahOWWxjwtcyXI) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [「いつかちゃんと。」](https://open.spotify.com/album/2xVnBZ3RrltT44pum4lRmB) | 4:16 | 2026-07-07 |  |
 | [「僕は...」 \- Piano ver.](https://open.spotify.com/track/1qHqQChezOkLx6H9NVz05w) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [朝露は木漏れ日に溶けて](https://open.spotify.com/album/3LfOHhwP8Uh3t9rcdcb2Tr) | 4:28 | 2024-09-10 | 2024-09-18 |
 | [「君の幸せを」](https://open.spotify.com/track/4SPjBSASlsxQ440fY1Mnyl) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [「君の幸せを」](https://open.spotify.com/album/6Nadvjub3KIbZ6hgVdwXBj) | 4:51 | 2023-11-21 | 2024-03-01 |
 | [あいうぉん \(feat\. ゆーり, はしメロ\)](https://open.spotify.com/track/7rf2LuOzv2b11zdjskaH2m) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [ゆーり](https://open.spotify.com/artist/5qUT9YBghleRCXg0WifEzf), [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [あいうぉん \(feat\. ゆーり, はしメロ\)](https://open.spotify.com/album/301yhonqL3kuPhgSTQp36k) | 2:01 | 2024-10-08 | 2024-10-19 |
@@ -2249,7 +2251,7 @@
 | [ありがとうさよなら](https://open.spotify.com/track/6vTPnDeVmVmY2EtdLc8oVV) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [ありがとうさよなら](https://open.spotify.com/album/4xLbLXEWLW3uHwqOZTCbDw) | 2:45 | 2022-05-31 | 2022-07-05 |
 | [ありふれた夜に](https://open.spotify.com/track/15Et2idMfNVaDWRdfuaTO0) | [未完成ブレイブ](https://open.spotify.com/artist/04Ed81vmCD3qqU2AoBePXW) | [ありふれた夜に](https://open.spotify.com/album/13BzZ4SptC03puZvhOsFnk) | 5:11 | 2025-09-09 | 2025-09-17 |
 | [あれが恋だったのかな](https://open.spotify.com/track/23eX2EUwE7EhiLWoPl1Pdv) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp), [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [あれが恋だったのかな](https://open.spotify.com/album/7uFU9Y8c0jKNXuqjOLzMT3) | 2:32 | 2024-07-16 | 2024-10-21 |
-| [あわ](https://open.spotify.com/track/6O0LyEm9dwtPlG3KsNu6Ao) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [あわ](https://open.spotify.com/album/4dLGMFAdTKZTmdjhzViSLC) | 3:17 | 2026-04-14 |  |
+| [あわ](https://open.spotify.com/track/6O0LyEm9dwtPlG3KsNu6Ao) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [あわ](https://open.spotify.com/album/4dLGMFAdTKZTmdjhzViSLC) | 3:17 | 2026-04-14 | 2026-07-11 |
 | [あわいに](https://open.spotify.com/track/1frzEIThDJKzds4I7aPP95) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [あわいに](https://open.spotify.com/album/5SCavhtaz95mQ9mdaMDSRi) | 3:21 | 2024-04-16 | 2024-07-27 |
 | [あんたなんて。](https://open.spotify.com/track/51rMlcKYFXxO59shnOGkry) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [あんたなんて。](https://open.spotify.com/album/0cjnybDEENedpxhPFWvvo2) | 4:01 | 2024-10-15 | 2025-04-30 |
 | [あゝ無情](https://open.spotify.com/track/0WKL3HPjCBQYnJXCqPEV6M) | [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [なごり雪 / あゝ無情](https://open.spotify.com/album/72OOgv2wF8kPDEhcStM718) | 4:08 | 2023-10-10 | 2023-11-01 |
@@ -2604,7 +2606,7 @@
 | [キミへ](https://open.spotify.com/track/6bKMXURPMmHZdZw0AAUeXq) | [平原綾香](https://open.spotify.com/artist/2dG2McYlq4NOdcDSsDhzPQ) | [キミへ](https://open.spotify.com/album/2jfNipMv98pN6boHIUDrfm) | 3:16 | 2022-06-14 | 2022-07-22 |
 | [キャラクター](https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [キャラクター](https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c) | 4:09 | 2022-05-31 | 2023-02-22 |
 | [キャリーケースは重いままで](https://open.spotify.com/track/2ADl3dTfftKsYTVQjdY7iH) | [やましたりな](https://open.spotify.com/artist/1O235Li0262kkP7gfP6B5W) | [バイバイ、私 / キャリーケースは重いままで](https://open.spotify.com/album/6ywtlcRbSCR213Z70OZIgK) | 4:05 | 2022-06-07 | 2022-06-10 |
-| [キャリーバッグ](https://open.spotify.com/track/1h0H9Hp0jZvZh1MuRWBk9J) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [キャリーバッグ](https://open.spotify.com/album/3kQ4vUmfCaVfTx8DtRni7T) | 3:00 | 2026-03-10 |  |
+| [キャリーバッグ](https://open.spotify.com/track/1h0H9Hp0jZvZh1MuRWBk9J) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [キャリーバッグ](https://open.spotify.com/album/3kQ4vUmfCaVfTx8DtRni7T) | 3:00 | 2026-03-10 | 2026-07-11 |
 | [キライキライ](https://open.spotify.com/track/2bxeuMx4zkZwFMIBueowbY) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [キライキライ](https://open.spotify.com/album/0Thk7AwgYbKr7i8ZObpEj3) | 3:06 | 2023-05-16 | 2023-05-31 |
 | [キラボシ](https://open.spotify.com/track/6XTcLBGaDOafFwg39GBjv3) | [Momoka Kisaki](https://open.spotify.com/artist/1CP2ElxvOk08sIZn9xXfl4) | [キラボシ](https://open.spotify.com/album/4VdxIfLBEu7K9gZZwyIxwx) | 3:07 | 2022-10-25 | 2022-11-16 |
 | [キラーワード](https://open.spotify.com/track/6lOrtgsvN9QKtN4h7S1Y5j) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [キラーワード](https://open.spotify.com/album/0hTDFgya1BSBjCucfBfaTQ) | 4:01 | 2023-11-30 | 2023-12-02 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Your shortcut to the best new Hip Hop. Cover: Hooligan Hefs",
+  "description": "Your shortcut to the best new Hip Hop. Cover: Future",
   "name": "A1",
   "tracks": [
     {
@@ -2797,6 +2797,24 @@
     },
     {
       "album": {
+        "name": "The Real Me",
+        "url": "https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "California Girls",
+      "url": "https://open.spotify.com/track/5Rv0O0Bv90IqC97T68zesG"
+    },
+    {
+      "album": {
         "name": "Call Me Revenge (Call of Duty: Modern Warfare 3)",
         "url": "https://open.spotify.com/album/7ISArb5GeVeJ6O65wUyIux"
       },
@@ -3552,7 +3570,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 144000,
       "name": "Cold Heart Freestyle 1",
       "url": "https://open.spotify.com/track/2BFu7VSI7oJIJXhTbvbM8T"
@@ -6074,7 +6092,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 206166,
       "name": "Game Time",
       "url": "https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr"
@@ -8386,7 +8404,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 118500,
       "name": "Jezebel",
       "url": "https://open.spotify.com/track/2ww5S3KQ6d73WAVbPXgCPC"
@@ -12002,7 +12020,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 160000,
       "name": "passport stamps",
       "url": "https://open.spotify.com/track/7i8SxkobNnHzSYb7Hnc4VA"
@@ -13858,7 +13876,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 198791,
       "name": "Shake It (feat. Key Glock)",
       "url": "https://open.spotify.com/track/1rdsj0XHRALG1xGTQwQDZC"
@@ -17890,7 +17908,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 181671,
       "name": "WIPE ME DOWN",
       "url": "https://open.spotify.com/track/4gI4aQ188mTBYvYzmrdqD0"

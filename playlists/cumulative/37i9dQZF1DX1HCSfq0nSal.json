@@ -817,6 +817,24 @@
     },
     {
       "album": {
+        "name": "A Xon De Que",
+        "url": "https://open.spotify.com/album/1OzctavGYNKD9Tu5W0dOYP"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141465,
+      "name": "A Xon De Que",
+      "url": "https://open.spotify.com/track/7LehzyyXmCYjxw3DHX6vyZ"
+    },
+    {
+      "album": {
         "name": "Aborrecio",
         "url": "https://open.spotify.com/album/69jl774R0WfPrK5v3O21Yg"
       },
@@ -14624,7 +14642,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 222068,
       "name": "Perdona mi amor",
       "url": "https://open.spotify.com/track/2BV0Mk5ceP9oYbzuZqoawo"
@@ -16172,7 +16190,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 131575,
       "name": "QU\u00c9DIR\u00c1N",
       "url": "https://open.spotify.com/track/5aK262EIuTk9XnZC0ljHUI"
@@ -19730,6 +19748,24 @@
       "duration_ms": 199200,
       "name": "Tussi Channel",
       "url": "https://open.spotify.com/track/0Git0Ix0KhqSQO2bhTfMXO"
+    },
+    {
+      "album": {
+        "name": "TuuuuuUuu tu tu tu",
+        "url": "https://open.spotify.com/album/2zgK451W9nKsc0DenzMlud"
+      },
+      "artists": [
+        {
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "TuuuuuUuu tu tu tu",
+      "url": "https://open.spotify.com/track/6p2fQMh1CRJ6QKjbAbDEet"
     },
     {
       "album": {

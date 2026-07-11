@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Best Ex of Your Life",
+        "url": "https://open.spotify.com/album/7HRxfQtn1QyngtjAyFeUzi"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Best Ex of Your Life",
+      "url": "https://open.spotify.com/track/2RhLKRJJq29Tvecbk63X4K"
+    },
+    {
+      "album": {
         "name": "Evil Angel (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0n2eTEITSu0EwdkpjtNFBr"
       },

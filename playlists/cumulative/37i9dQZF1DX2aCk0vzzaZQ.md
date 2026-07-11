@@ -4,7 +4,7 @@
 
 > When you're a 19th century villain with excellent taste in music.
 
-90 songs - 11 hr 7 min
+91 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [24 Preludes, Op\. 28: No\. 4 in E Minor\. Largo](https://open.spotify.com/track/3maBF9jM0ICV3qSKmvNvIu) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jan Lisiecki](https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy) | [Chopin: 24 Preludes, Op\. 28: No\. 4 in E Minor\. Largo](https://open.spotify.com/album/0WZabZ5Xaqgsqod0xY7891) | 2:26 | 2024-11-15 |  |
 | [A Dante Symphony, S.109: 1\. Inferno](https://open.spotify.com/track/1dg09xDUvkYDSpxVivrA34) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Orchestre de la Suisse Romande](https://open.spotify.com/artist/4NzLn7UyhvBlgzhF7WwMM1), [Jesús López\-Cobos](https://open.spotify.com/artist/4hVO4GtoFDpYsXdgXOxssI) | [Liszt: Faust Symphony; Dante Symphony; Les Prélludes; Prometheus](https://open.spotify.com/album/1s1zj0erJyhfE6LhhTD0Nw) | 19:23 | 2022-06-21 |  |
 | [A Night On The Bare Mountain](https://open.spotify.com/track/7ziy9EUNCwYgXQsqxyW7pb) | [Modest Mussorgsky](https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl), [Orchestre Symphonique de Montréal](https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd), [Kent Nagano](https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x) | [Danse Macabre](https://open.spotify.com/album/2hRaFLIC2ge5ZDoThJZaMU) | 11:50 | 2023-10-13 |  |
+| [A Pagan Dance No.2 Live](https://open.spotify.com/track/2bMdP5b8Um7zHPg2B83vnl) | [Mark John McEncroe](https://open.spotify.com/artist/02ep1mxR5xAc2t9m0ZyGL6), [Budapest Symphony Orchestra](https://open.spotify.com/artist/4yrzlxPNm4ulLRpn5wmEAX), [Anthony Amore](https://open.spotify.com/artist/2I2M6cIgvlfSUSgOfIjjrp) | [A Pagan Dance No.2 Live](https://open.spotify.com/album/6naztOk0fDaFHBsfpGFn10) | 6:12 | 2026-07-10 |  |
 | [Abdelazer: Rondeau](https://open.spotify.com/track/2Pjkku2SZrbCTygKVBxUM3) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF), [Sir Neville Marriner](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) | [Essential Baroque](https://open.spotify.com/album/2ptb27zRmcc2Iu9NlG5URO) | 1:37 | 2022-06-21 |  |
 | [Beethoven: Symphony No\. 9 in D Minor, Op\. 125 "Choral": II\. Molto vivace \- Presto](https://open.spotify.com/track/6lnttZF0hDaVyVZBEgpJ3I) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Nikolaus Harnoncourt](https://open.spotify.com/artist/0AeOzXbHJu8q2xqILEOLEO), [Chamber Orchestra of Europe](https://open.spotify.com/artist/1VfDXOsmvKAtebAZ9KxQhC) | [Beethoven: Symphonies Nos\. 1 \- 9](https://open.spotify.com/album/1DgZ1qWpGuiNzd0a5ge7wn) | 13:42 | 2022-06-21 |  |
 | [Beginning to End: Act VII](https://open.spotify.com/track/7dIBMdZKjnoORPen0Bi1zF) | [Hendyamps Studios](https://open.spotify.com/artist/334aHOT3wVlxMcwUI3Xg1P), [Aimee Norris](https://open.spotify.com/artist/6C6AMnelJ5WX65HXLLwCFQ) | [Beginning to End: Act VII](https://open.spotify.com/album/1iglVw0ao77cXZ4k8hn5nL) | 2:14 | 2026-05-29 |  |

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 ### [Hip\-Hop Pulse](https://open.spotify.com/playlist/1xVV8WCtm9c6y0cGo4WrWG)
 
-> The newest and best Hip\-Hop tracks, updated weekly! Cover: Yung Miami
+> The newest and best Hip\-Hop tracks, updated weekly! Cover: GloRilla
 
 [uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,888 likes - 114 songs - 5 hr 42 min
 
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 | 113 | [cLOUDs](https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [cLOUDs](https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex) | 4:02 |
 | 114 | [LA Nights](https://open.spotify.com/track/62uzemerm9B0BFS9R0jApf) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [The Ville](https://open.spotify.com/album/4h19noQJ2iWAoyNW4zHYGQ) | 2:18 |
 
-Snapshot ID: `AAAknitW17FbFMzlvrjknPIgO9eIP47x`
+Snapshot ID: `AAAkn3JsQRRTWeOb+HvGU04oWEAFVWBH`

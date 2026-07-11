@@ -4,7 +4,7 @@
 
 > Your weekly dose of new dance\. Cover: Arky Waters
 
-4,103 songs - 9 day 8 hr 17 min
+4,104 songs - 9 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1656,6 +1656,7 @@
 | [Hold Me](https://open.spotify.com/track/5Tk8DFGco0BlC8XEtDQHBM) | [Husky](https://open.spotify.com/artist/1BQ5NhlyhxAO1CdRYGHmQe), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Hold Me](https://open.spotify.com/album/7aYMQBrftVJXq6GBIWJQqc) | 4:11 | 2024-09-12 | 2024-10-11 |
 | [Hold Me](https://open.spotify.com/track/6iEe1C3rLAB8CXfBH4rrlU) | [Race Banyon](https://open.spotify.com/artist/5btOKBbjh04dkX7iqFERLL) | [Hold Me](https://open.spotify.com/album/0u8UYcvGL3pKeT1FQw9SuA) | 5:19 | 2023-09-28 | 2023-10-20 |
 | [Hold Me Down](https://open.spotify.com/track/6hLIUDzLOZECZ5iEmTYld5) | [Mason Flint](https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5) | [Hold Me Down](https://open.spotify.com/album/57Bi07LfjHor3eOPsg7nBj) | 3:32 | 2026-02-05 | 2026-04-10 |
+| [Hold My Breath](https://open.spotify.com/track/4FOdgYVV5xaMjY0NCZoFEu) | [Albi](https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Hold My Breath](https://open.spotify.com/album/540DKCihQemJiYBN9AFi4m) | 2:20 | 2026-07-09 |  |
 | [hold my hand](https://open.spotify.com/track/3GPmn3HANnZTlEovc2J9nt) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Sophia Gripari](https://open.spotify.com/artist/4NIJrKs2BotOvJpb52RsAH) | [hold my hand](https://open.spotify.com/album/0CgtiMzPmtvTM115elKHao) | 4:26 | 2024-10-24 | 2024-11-29 |
 | [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 | 2025-07-31 | 2025-09-13 |
 | [Hold On](https://open.spotify.com/track/6eujN0FjgcrZXcWoLFhcOc) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Hold On](https://open.spotify.com/album/1MBwQPzP8W7DsZC8YRenYL) | 2:54 | 2025-10-30 | 2025-12-12 |

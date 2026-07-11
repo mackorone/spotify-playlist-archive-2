@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every week!
 
-567 songs - 1 day 3 hr 5 min
+569 songs - 1 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [IDGAF](https://open.spotify.com/track/4N90rKC3I3BQyROLHtXFIc) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [IDGAF](https://open.spotify.com/album/3wAV4RmAtuVVKUy7HWrK2i) | 3:21 | 2025-02-14 |  |
 | [Illusion](https://open.spotify.com/track/7Kqqg2agWjcT0nBVpzqA4B) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb) | [Illusion](https://open.spotify.com/album/159iw0k9cDQehxfOECRZgW) | 3:27 | 2022-10-27 | 2023-02-04 |
 | [Impeccable](https://open.spotify.com/track/5QLYGIPM6a5ZikKcn6hj48) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Impeccable](https://open.spotify.com/album/0ZBPGCXv01PeTM6kCMBjyi) | 2:21 | 2024-08-30 | 2025-04-27 |
+| [In Da Booth](https://open.spotify.com/track/6IuEVi1CUswoTeTe5dXGfB) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [In Da Booth](https://open.spotify.com/album/1a3UzxhZGc8tzNQPvEg8XY) | 2:29 | 2026-07-10 |  |
 | [In The Dark](https://open.spotify.com/track/1ikBG3dhSAhHarwUVW1CyQ) | [WAKE](https://open.spotify.com/artist/7Jk1Iang46XcykdfRYK1al), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [In The Dark](https://open.spotify.com/album/3e7zouZDtg0HxoB0t23EJb) | 3:45 | 2026-06-12 |  |
 | [In The Dark \(feat\. Maria Mathea\)](https://open.spotify.com/track/7xsbPoykY9CaBblguhsFDF) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Maria Mathea](https://open.spotify.com/artist/7nw3TslhIKWzoHZxpFYdPp) | [In The Dark \(feat\. Maria Mathea\)](https://open.spotify.com/album/5T6MkcNfbHXM0GqxBTtprV) | 2:53 | 2024-02-16 | 2025-04-27 |
 | [Incorrect](https://open.spotify.com/track/4ytbLcGPlrnniNHxKOCV5u) | [Otira](https://open.spotify.com/artist/0rEj1VGJGJIxCn3H9B3kWb) | [Pill EP](https://open.spotify.com/album/4kvK5arUig0hxgylXxdKR8) | 2:54 | 2022-05-06 | 2022-08-06 |
@@ -560,6 +561,7 @@
 | [We Came We Saw We Conquered](https://open.spotify.com/track/1PF39JDTtc63dDvJ1KwJUQ) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [We Came We Saw We Conquered](https://open.spotify.com/album/2fJyBezZ06FQxJaZEloN7F) | 2:24 | 2026-05-01 |  |
 | [Welcome to the Playhouse](https://open.spotify.com/track/1qXTtWP0sNcePb3tT2eHWL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Welcome to the Playhouse](https://open.spotify.com/album/6hhEQkw3cuI1HQ61Xma7Cy) | 3:08 | 2022-05-06 | 2023-04-09 |
 | [We’re Falling \(feat\. sapientdream\)](https://open.spotify.com/track/3kaVh7zUaVT87qnHngdnCF) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [sapientdream](https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP) | [We’re Falling \(feat\. sapientdream\)](https://open.spotify.com/album/1rrrcWXR4L1LPOaDgAg1ks) | 2:54 | 2022-08-19 | 2023-04-09 |
+| [What You Say \(feat\. Imogen Heap\)](https://open.spotify.com/track/4bzCdb8PI1hTnPj9KtWOXy) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [What You Say \(feat\. Imogen Heap\)](https://open.spotify.com/album/61qE3z7FlQZ7H1bvLpYLCt) | 2:30 | 2026-07-10 |  |
 | [Wild](https://open.spotify.com/track/6HziIqUKIzfSAHOpVtALrL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [Wild](https://open.spotify.com/album/2nYb1jBuzoEsHYIrh7ueL9) | 2:15 | 2023-03-24 | 2025-04-27 |
 | [Wild Nights](https://open.spotify.com/track/5ZUgzZBOQmi8ARjnJckxeP) | [Axsara](https://open.spotify.com/artist/7dAmxDhUmmH7sVxpsxQC53) | [Wild Nights](https://open.spotify.com/album/3eh0EMLQ9M42KHXZ6If1bw) | 2:15 | 2022-07-06 | 2022-11-09 |
 | [Wild Things](https://open.spotify.com/track/7KRW2oPclZY26GJCa8zYQG) | [SUNDRESS](https://open.spotify.com/artist/4QLFBPW2qkQiYUv9yL3wwn), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Wild Things](https://open.spotify.com/album/58IBI9deFJ3VDvZv6Z7CMT) | 4:00 | 2022-05-06 | 2022-09-25 |

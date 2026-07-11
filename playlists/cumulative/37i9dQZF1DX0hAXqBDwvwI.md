@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-863 songs - 2 day 7 hr 38 min
+864 songs - 2 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,6 +537,7 @@
 | [キミの隣](https://open.spotify.com/track/6r2b4eY23IX7ONftGlzPpM) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [キミの隣](https://open.spotify.com/album/6m56HhrFWKBFTTkAqyJaxm) | 4:39 | 2022-06-14 | 2022-06-18 |
 | [キミソラ](https://open.spotify.com/track/6dHmaWh5kYQIDwS4nkUWCP) | [レルエ](https://open.spotify.com/artist/1cIkRbWmiqwJa7czCF3Qdf) | [キミソラ](https://open.spotify.com/album/7Aw0wV6BibyuAjwooUibbG) | 3:31 | 2022-07-14 | 2022-07-26 |
 | [キミソラ](https://open.spotify.com/track/4S5DMn9TN0a4mijLWsuxHw) | [レルエ](https://open.spotify.com/artist/1cIkRbWmiqwJa7czCF3Qdf) | [Eureka](https://open.spotify.com/album/5joXdEBCHoZf6hCtvRZxwD) | 3:34 | 2022-06-24 | 2022-07-04 |
+| [キュートなキューたい](https://open.spotify.com/track/73rdU71fLEd0nW7HENRhKF) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [キュートなキューたい / ナイスだね](https://open.spotify.com/album/5QyLCkfnwgEYLaf2ji21or) | 3:56 | 2026-07-10 |  |
 | [キョリ感](https://open.spotify.com/track/3Dk2LSzebLiP4Al8AKcgbo) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [キョリ感](https://open.spotify.com/album/2NfyjfSfTz6L1X16qxT0hq) | 3:51 | 2022-07-07 | 2022-07-26 |
 | [キラキラの灰](https://open.spotify.com/track/0u0fZBgvRjNbzmiLyW6ITX) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [キラキラの灰](https://open.spotify.com/album/3k6e6pejyoAWZExzb2p8f2) | 4:07 | 2024-07-07 | 2024-08-21 |
 | [キリフダ](https://open.spotify.com/track/0E7t1CSCWQaSqLvJo0tNHE) | [PENGUIN RESEARCH](https://open.spotify.com/artist/4jiOvoNgxnEvdlBwrx6o28) | [キリフダ](https://open.spotify.com/album/7HqGIrY65zULGtgwDfTe9b) | 2:29 | 2022-06-14 | 2022-07-10 |
@@ -865,7 +866,7 @@
 | [風に吹かれて](https://open.spotify.com/track/4BQgbUodnb7th8UhjX8nuZ) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc) | [風に吹かれて](https://open.spotify.com/album/0APY6iqv5wrIhRvBPBzx5C) | 4:31 | 2022-07-07 | 2022-07-10 |
 | [風の音さえ聞こえない](https://open.spotify.com/track/32yZPsVMeF0KuuN07lWRKf) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [風の音さえ聞こえない](https://open.spotify.com/album/08bbBD2AhdlytDaIxH3seZ) | 3:40 | 2022-07-14 | 2022-07-25 |
 | [飛ぶ鳥は](https://open.spotify.com/track/0hEfgTwSeKBG9vI3IuH5xd) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [飛ぶ鳥は](https://open.spotify.com/album/7yFZRlYUvUq0UIo6wMzbjR) | 3:50 | 2022-07-14 | 2022-07-27 |
-| [飛ぼうよ](https://open.spotify.com/track/4Ael7H7pDC9VIHeA0CxU4U) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [飛ぶ時 / 飛ぼうよ](https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH) | 4:19 | 2026-07-08 |  |
+| [飛ぼうよ](https://open.spotify.com/track/4Ael7H7pDC9VIHeA0CxU4U) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [飛ぶ時 / 飛ぼうよ](https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH) | 4:19 | 2026-07-08 | 2026-07-11 |
 | [魔法](https://open.spotify.com/track/0LL0hFBywgFHO89WSp00xW) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [魔法](https://open.spotify.com/album/1KNgIgtKAK4kSwp7si23Mw) | 3:51 | 2022-06-03 | 2022-07-29 |
 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 | 2022-07-26 | 2022-07-28 |
 | [麻痺](https://open.spotify.com/track/1LwSnnsoKcAUv9TPFEZ7iQ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [麻痺](https://open.spotify.com/album/7lXwejcTgkCpmBlwQyMAAV) | 3:18 | 2022-06-03 | 2022-10-19 |

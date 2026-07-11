@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-1,042 songs - 2 day 21 hr 3 min
+1,042 songs - 2 day 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Ajogwu](https://open.spotify.com/track/6OTTyduTouZPxV71p1cwwc) | [Emon brill](https://open.spotify.com/artist/7h0bNvKAuQUJa1LhEMzjuO) | [Ajogwu](https://open.spotify.com/album/7uZ4evT5ZYBRBaYHJGzYe7) | 3:50 | 2026-05-01 | 2026-06-26 |
 | [AKA](https://open.spotify.com/track/4Gj954UJH9Gl7RSGgtEZ3A) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [AKA](https://open.spotify.com/album/7zQHyAymqrCvSfg26xlXxU) | 2:52 | 2025-02-02 | 2025-03-14 |
 | [Akuzike](https://open.spotify.com/track/6HvdB8sn4XF6VmpBxtxjmn) | [Mic Mash](https://open.spotify.com/artist/7hzFig3OAPKqQZQqwxpUEy), [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i), [Siggy Kim](https://open.spotify.com/artist/0StpXhIqIldjrDZvh6tted) | [Akuzike](https://open.spotify.com/album/5rApc4mQ4yHIJxSlkBPSuL) | 3:20 | 2023-09-29 | 2023-11-06 |
+| [Albarkun Allah](https://open.spotify.com/track/51IYEc1ytqmqHoZqnX7avn) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [TMP Music](https://open.spotify.com/artist/0FSWMqdRbmwGSlcOlquXgo) | [Super Power](https://open.spotify.com/album/3LzWjKiMnifcDGTjBXtJkJ) | 5:21 | 2026-07-10 |  |
 | [All Around Me](https://open.spotify.com/track/7xNFU5TAW1RYwAooRGP7Nu) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE), [OKCHUKU](https://open.spotify.com/artist/0XKkD1K7J5NvwgrEJPppVk) | [All Around Me](https://open.spotify.com/album/3ucbZvoWqIlBGFOJluv7Ti) | 7:55 | 2025-10-24 | 2026-02-06 |
 | [ALL GLORY](https://open.spotify.com/track/1Mn47EQ5DcXJNejuxyBBo3) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [ALL GLORY](https://open.spotify.com/album/6iD2jnGlZmKJBSMnUWULNR) | 2:51 | 2025-06-06 | 2025-07-18 |
 | [All I Need](https://open.spotify.com/track/44uTOBInSbS2ddsVvxpQFy) | [RORE](https://open.spotify.com/artist/4es2gLCEQiV2WeeIMCdn2j) | [All I Need](https://open.spotify.com/album/3MzHyW72TjYLnFLNIJD89a) | 3:34 | 2024-10-11 | 2025-02-28 |
@@ -922,7 +923,6 @@
 | [Too Good](https://open.spotify.com/track/01Sgqsj81Pkw2EyM5F2zg1) | [Johnyjune](https://open.spotify.com/artist/658iJcPBWp0q5DfPf1dzhy), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Too Good](https://open.spotify.com/album/54FYtDKHmb2VRlD7I5qcPy) | 3:37 | 2025-04-25 | 2025-11-14 |
 | [Tornado](https://open.spotify.com/track/3MrxgrJaHZU1sxysl0xU7J) | [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Tornado](https://open.spotify.com/album/6ZKtMQxxGlAbH9H2O9XMBo) | 2:49 | 2026-02-13 | 2026-03-13 |
 | [Tout nouveau tout beau](https://open.spotify.com/track/2JoIx8bmH2zSTddVgMRoVO) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Tout nouveau tout beau](https://open.spotify.com/album/2DwcOMNP63IZSXyRHmpxNv) | 2:47 | 2024-11-08 | 2025-02-28 |
-| [Track 2](https://open.spotify.com/track/51IYEc1ytqmqHoZqnX7avn) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM) | [Super Power](https://open.spotify.com/album/3LzWjKiMnifcDGTjBXtJkJ) | 0:00 | 2026-07-10 |  |
 | [Trust in you](https://open.spotify.com/track/5YVZxtAYdDmNlAzhjIBG8i) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Trust in you](https://open.spotify.com/album/2Zp9tuWF33iwX9o6stxu1w) | 2:21 | 2025-09-26 | 2025-10-17 |
 | [Tula](https://open.spotify.com/track/1ZMhq5I7bHDSPzpPU2BVmk) | [Tenacious Tj](https://open.spotify.com/artist/6DccTdAbcqIxBdN6VqVbS7), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv) | [Tula](https://open.spotify.com/album/12DT3SfaTFiUaaoUmcxjI0) | 3:21 | 2025-01-24 | 2025-02-28 |
 | [Turn Me Around](https://open.spotify.com/track/0pvx4EQPY5ag9KKQzTYTNu) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [On Top of the World](https://open.spotify.com/album/27L74fWY70e6BpJV85QPYn) | 4:49 | 2023-04-06 | 2025-02-28 |

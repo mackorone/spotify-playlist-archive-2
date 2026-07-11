@@ -1,6 +1,6 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Sung Si Kyung & Raisa)",
-  "num_followers": 396780,
+  "num_followers": 396778,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-07-03 06:32:48",
       "album": {
-        "name": "Good Person (2022)",
-        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
-      },
-      "artists": [
-        {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Good Person (2022)",
-      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
-    },
-    {
-      "added_at": "2026-07-03 06:32:48",
-      "album": {
         "name": "JONGHYUN The Collection \"Story Op.2\"",
         "url": "https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 244451,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5efB9wfc6dn3pzll9ElIrH"
+    },
+    {
+      "added_at": "2026-07-03 06:32:48",
+      "album": {
+        "name": "Good Person (2022)",
+        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Good Person (2022)",
+      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
     },
     {
       "added_at": "2026-07-03 06:32:48",
@@ -391,22 +391,22 @@
     {
       "added_at": "2026-07-03 06:32:48",
       "album": {
-        "name": "LOVE CATCHER",
-        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
+        "name": "Walk In The Night (Feat. Zion.T)",
+        "url": "https://open.spotify.com/album/49B53FD6M1eVPEGcEnk95g"
       },
       "artists": [
         {
-          "name": "YENA",
-          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
         },
         {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Question Marks (Feat. Paul Kim)",
-      "url": "https://open.spotify.com/track/1juxNlpwdGRJ2byuFW7RBC"
+      "duration_ms": 185601,
+      "name": "Walk In The Night (Feat. Zion.T)",
+      "url": "https://open.spotify.com/track/1LEac3XXwvRlOWkKDZjLeK"
     },
     {
       "added_at": "2026-07-03 06:32:48",
@@ -431,22 +431,42 @@
     {
       "added_at": "2026-07-03 06:32:48",
       "album": {
-        "name": "Walk In The Night (Feat. Zion.T)",
-        "url": "https://open.spotify.com/album/49B53FD6M1eVPEGcEnk95g"
+        "name": "LOVE CATCHER",
+        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
       },
       "artists": [
         {
-          "name": "Moon Sujin",
-          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
         },
         {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
         }
       ],
-      "duration_ms": 185601,
-      "name": "Walk In The Night (Feat. Zion.T)",
-      "url": "https://open.spotify.com/track/1LEac3XXwvRlOWkKDZjLeK"
+      "duration_ms": 166000,
+      "name": "Question Marks (Feat. Paul Kim)",
+      "url": "https://open.spotify.com/track/1juxNlpwdGRJ2byuFW7RBC"
+    },
+    {
+      "added_at": "2026-07-03 06:32:48",
+      "album": {
+        "name": "Teenieping: Legend of the Whale Heartstone Special, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/22zTuvEyfwSfaJjTddc9ur"
+      },
+      "artists": [
+        {
+          "name": "JAEHEE",
+          "url": "https://open.spotify.com/artist/1j0jr8bVdKMXcLsxwHZn1P"
+        },
+        {
+          "name": "YUHA",
+          "url": "https://open.spotify.com/artist/7me9iyo3I2a21n5N93Eoey"
+        }
+      ],
+      "duration_ms": 198034,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/1FIJa50mYmz220xeJi8YXy"
     },
     {
       "added_at": "2026-07-03 06:32:48",
@@ -487,26 +507,6 @@
       "duration_ms": 202173,
       "name": "Luv Luv Luv",
       "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
-    },
-    {
-      "added_at": "2026-07-03 06:32:48",
-      "album": {
-        "name": "Teenieping: Legend of the Whale Heartstone Special, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/22zTuvEyfwSfaJjTddc9ur"
-      },
-      "artists": [
-        {
-          "name": "JAEHEE",
-          "url": "https://open.spotify.com/artist/1j0jr8bVdKMXcLsxwHZn1P"
-        },
-        {
-          "name": "YUHA",
-          "url": "https://open.spotify.com/artist/7me9iyo3I2a21n5N93Eoey"
-        }
-      ],
-      "duration_ms": 198034,
-      "name": "Open Your Eyes",
-      "url": "https://open.spotify.com/track/1FIJa50mYmz220xeJi8YXy"
     },
     {
       "added_at": "2026-07-03 06:32:48",
@@ -635,6 +635,26 @@
     {
       "added_at": "2026-07-03 06:32:48",
       "album": {
+        "name": "Whats wrong with secretary kim OST Part.1",
+        "url": "https://open.spotify.com/album/1l8yWyu8JIf2GttsAVOWlR"
+      },
+      "artists": [
+        {
+          "name": "KIHYUN",
+          "url": "https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS"
+        },
+        {
+          "name": "SEOLA",
+          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
+        }
+      ],
+      "duration_ms": 207056,
+      "name": "Love Virus",
+      "url": "https://open.spotify.com/track/4JA2u5Grq0GCSSQfy5cLFG"
+    },
+    {
+      "added_at": "2026-07-03 06:32:48",
+      "album": {
         "name": "THIS NIGHT",
         "url": "https://open.spotify.com/album/4XPkeXge5bJLJsGCpJ1nVi"
       },
@@ -659,26 +679,6 @@
     {
       "added_at": "2026-07-03 06:32:48",
       "album": {
-        "name": "Whats wrong with secretary kim OST Part.1",
-        "url": "https://open.spotify.com/album/1l8yWyu8JIf2GttsAVOWlR"
-      },
-      "artists": [
-        {
-          "name": "KIHYUN",
-          "url": "https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS"
-        },
-        {
-          "name": "SEOLA",
-          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
-        }
-      ],
-      "duration_ms": 207056,
-      "name": "Love Virus",
-      "url": "https://open.spotify.com/track/4JA2u5Grq0GCSSQfy5cLFG"
-    },
-    {
-      "added_at": "2026-07-03 06:32:48",
-      "album": {
         "name": "Flower Language",
         "url": "https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX"
       },
@@ -699,26 +699,6 @@
     {
       "added_at": "2026-07-03 06:32:48",
       "album": {
-        "name": "\uae34 \ubc24 (feat. GIRIBOY)",
-        "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 210853,
-      "name": "\uae34 \ubc24 (feat. GIRIBOY)",
-      "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
-    },
-    {
-      "added_at": "2026-07-03 06:32:48",
-      "album": {
         "name": "Even for a moment",
         "url": "https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 293160,
       "name": "Even for a moment",
       "url": "https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD"
+    },
+    {
+      "added_at": "2026-07-03 06:32:48",
+      "album": {
+        "name": "\uae34 \ubc24 (feat. GIRIBOY)",
+        "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 210853,
+      "name": "\uae34 \ubc24 (feat. GIRIBOY)",
+      "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
     },
     {
       "added_at": "2026-07-03 06:32:48",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-07-03 06:32:48",
       "album": {
-        "name": "Lucky Me (feat. Wonstein)",
-        "url": "https://open.spotify.com/album/4saGlb83ieD2u1cpyTWKTV"
-      },
-      "artists": [
-        {
-          "name": "Olivia Marsh",
-          "url": "https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 154533,
-      "name": "Lucky Me (feat. Wonstein)",
-      "url": "https://open.spotify.com/track/1a26vkT9m6IVfZAbW1hq4Y"
-    },
-    {
-      "added_at": "2026-07-03 06:32:48",
-      "album": {
         "name": "Layin' Low (feat. Jooyoung)",
         "url": "https://open.spotify.com/album/6wPJh6aQa1SoplBJcDPlZW"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 188146,
       "name": "Layin' Low (feat. Jooyoung)",
       "url": "https://open.spotify.com/track/1B2vkECYhw0XEcyOexAq6e"
+    },
+    {
+      "added_at": "2026-07-03 06:32:48",
+      "album": {
+        "name": "Lucky Me (feat. Wonstein)",
+        "url": "https://open.spotify.com/album/4saGlb83ieD2u1cpyTWKTV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Marsh",
+          "url": "https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 154533,
+      "name": "Lucky Me (feat. Wonstein)",
+      "url": "https://open.spotify.com/track/1a26vkT9m6IVfZAbW1hq4Y"
     },
     {
       "added_at": "2026-07-03 06:32:48",

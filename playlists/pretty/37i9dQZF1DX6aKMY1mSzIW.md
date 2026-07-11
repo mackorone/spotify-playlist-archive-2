@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aKMY1mSzIW.md) - [plain]
 
 > Binge watch OPM music videos! only available for Spotify Premium Subscribers! Cover: BINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,671 likes - 41 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,747 likes - 41 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aKMY1mSzIW.md) - [plain]
 | 40 | [Kunan Mong Pic](https://open.spotify.com/track/6q07OiEEt6Tz2SkGuwCCGo) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [BRGR](https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Kunan Mong Pic](https://open.spotify.com/album/2yo2p2KkXVyYNV5Lo8XxwN) | 3:15 |
 | 41 | [Sugar n' Spice](https://open.spotify.com/track/68GGwBrzj5PEe4nbltGuda) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/26osN3pVqjyhGUedWZIueX) | 3:16 |
 
-Snapshot ID: `AAAAAOW+RAsQHwF66jFY4lV4qihFDPOj`
+Snapshot ID: `AAAAAPOWbkI3JUiqTRb7xmOv1fbVFSqX`

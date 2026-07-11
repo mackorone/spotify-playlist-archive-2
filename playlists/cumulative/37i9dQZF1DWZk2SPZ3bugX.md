@@ -4,7 +4,7 @@
 
 > 🍾
 
-295 songs - 16 hr 49 min
+296 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 | 2022-12-08 | 2023-12-02 |
 | [Down The Road](https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T) | [C2C](https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2) | [Tetra](https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt) | 3:27 | 2023-02-24 | 2025-07-11 |
 | [Dreams](https://open.spotify.com/track/7BwQTGuWP5SqdL2BqaKfgN) | [Little Animal](https://open.spotify.com/artist/6KPezj9yK8mv2pHkn7jftz) | [Dreams](https://open.spotify.com/album/6LpmVF3vAkW6uMHxNHGWxU) | 2:59 | 2022-12-08 | 2023-03-25 |
+| [Drunk on the Weather](https://open.spotify.com/track/0TfLsd29vQkTJqmzUSIEdY) | [Nico Besso](https://open.spotify.com/artist/7DgJhLJPueRl1erDbNvjl8) | [Drunk on the Weather](https://open.spotify.com/album/3b3H62gevsMUycB4XZI6Ap) | 3:30 | 2026-07-10 |  |
 | [DU BLEU, DES ÉTOILES](https://open.spotify.com/track/1S74OGHX0KAZQ57zEblJAV) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF), [Leita Butternut](https://open.spotify.com/artist/5UTy08ibUbhiqGhuFm1Gzo) | [DU BLEU, DES ÉTOILES](https://open.spotify.com/album/2YVUzDhAmCl9oeBG3s31Jy) | 4:04 | 2026-05-29 |  |
 | [Dunston \(Bellaire Remix\)](https://open.spotify.com/track/1un3tgix0qXdcAAT7VYiDx) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6), [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw) | [Dunston \(Bellaire Remix\)](https://open.spotify.com/album/6ZyTc9CIeuHsPSgg0ypxAI) | 3:33 | 2023-07-28 | 2026-04-17 |
 | [Découvre](https://open.spotify.com/track/6T3t3nP3PB6IwK7p0kx02m) | [Moi Je](https://open.spotify.com/artist/2lmGTNC0PsE7j5KDO9POvW) | [Découvre](https://open.spotify.com/album/23tsp9qwLR2EYq8utMUG3y) | 4:13 | 2024-12-06 | 2025-01-24 |
@@ -112,7 +113,7 @@
 | [Free Ride](https://open.spotify.com/track/4L67ZFASgypD9BTlb7VRpv) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [Free Ride](https://open.spotify.com/album/4fqMkar9XEPIL18zmrNxXc) | 3:34 | 2022-12-08 | 2023-06-10 |
 | [Freedom](https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Freedom](https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox) | 3:25 | 2023-01-27 | 2024-12-07 |
 | [Galaxie](https://open.spotify.com/track/4cE3YZpsggEkLKmZshbbk6) | [Valère](https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs) | [Miroirs](https://open.spotify.com/album/6IudBeRgkljRDt532xTYdN) | 2:59 | 2025-10-16 | 2025-11-29 |
-| [Get Away](https://open.spotify.com/track/5wozBVcDxpyTODUktYmhmq) | [Pony Pony Run Run](https://open.spotify.com/artist/6RXZaVIbZfdngXJOSGrVH3) | [Get Away](https://open.spotify.com/album/6R5y4IG0M1xiHJNBAwxO7n) | 3:05 | 2026-06-12 |  |
+| [Get Away](https://open.spotify.com/track/5wozBVcDxpyTODUktYmhmq) | [Pony Pony Run Run](https://open.spotify.com/artist/6RXZaVIbZfdngXJOSGrVH3) | [Get Away](https://open.spotify.com/album/6R5y4IG0M1xiHJNBAwxO7n) | 3:05 | 2026-06-12 | 2026-07-11 |
 | [Get Fly \(I Wanna\)](https://open.spotify.com/track/1VmbST2OSjglP9kbMk90dN) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Cristal Medium Blue](https://open.spotify.com/album/5wOsAojJKCvanW8gkgjVxC) | 4:46 | 2024-02-09 |  |
 | [Get It At Home](https://open.spotify.com/track/1PgQKktANGj96jDspXkZCq) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Saint Motel & the Symphony in the Sky](https://open.spotify.com/album/7gVcYqFmfM8s0zA8ND7JWa) | 3:30 | 2025-02-14 | 2025-07-26 |
 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:04 | 2025-03-27 |  |

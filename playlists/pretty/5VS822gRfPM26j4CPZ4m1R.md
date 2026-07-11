@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 18,079 likes - 650 songs - 1 day 14 hr 35 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 18,080 likes - 651 songs - 1 day 14 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -658,5 +658,6 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 648 | [Criaturas da Noite](https://open.spotify.com/track/52QOOeICT7uUg3EaET0Xr0) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R), [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Criaturas da Noite](https://open.spotify.com/album/6AxgdZrrtWJjYxRePiprqr) | 1:46 |
 | 649 | [Bye Dummy](https://open.spotify.com/track/13xRpimF9gtVsB5GM8Gyjz) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Bye Dummy](https://open.spotify.com/album/0BPaiZ5xFY692UPO6Hfw10) | 2:49 |
 | 650 | [Swallows](https://open.spotify.com/track/0WLnrsmhALslw59evSN1uB) | [BROTHER SUN SISTER MOON](https://open.spotify.com/artist/4jYamjqQ1wmOLS41qNiZ0i) | [Swallows](https://open.spotify.com/album/3dXc2gUqgr28Y5kZ93SYzI) | 2:57 |
+| 651 | [This is a Poem](https://open.spotify.com/track/5JLlk8QoH8jlzdUXRvYFPZ) | [Worries And Other Plants](https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc) | [This is a Poem](https://open.spotify.com/album/0AS4354AoY7EWpJIVxz8iv) | 3:31 |
 
-Snapshot ID: `AAAMhpixshgEB40WZ6vUfr0/K/amWI31`
+Snapshot ID: `AAAMh0mDZ1eaFVOye2lD8JaoE9R2v4wk`

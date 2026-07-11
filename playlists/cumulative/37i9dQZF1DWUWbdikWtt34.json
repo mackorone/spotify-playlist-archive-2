@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang dangdut ngetop Tanah Air. Cover: Mila DA7, Valen DA7",
+  "description": "Dendang dangdut ngetop Tanah Air. Cover: April DA7",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -3211,6 +3211,24 @@
     },
     {
       "album": {
+        "name": "Menyala",
+        "url": "https://open.spotify.com/album/1XTVVaJTxjZgDM9B02GW7c"
+      },
+      "artists": [
+        {
+          "name": "April DA7",
+          "url": "https://open.spotify.com/artist/5uQ1xq1w3lW2D7UcM6m3DX"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283423,
+      "name": "Menyala",
+      "url": "https://open.spotify.com/track/2HBxIqFFgXv94aCa8iGF48"
+    },
+    {
+      "album": {
         "name": "Menyerah",
         "url": "https://open.spotify.com/album/0zA93D842xuF7GCUitx0i6"
       },
@@ -4308,6 +4326,24 @@
       "duration_ms": 311008,
       "name": "Satru",
       "url": "https://open.spotify.com/track/0kiLz3NcF1LMbn97OCTlgJ"
+    },
+    {
+      "album": {
+        "name": "Satu Dalam Ikatan",
+        "url": "https://open.spotify.com/album/7qbFoe6MjBogw9GMFVxRxQ"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316363,
+      "name": "Satu Dalam Ikatan",
+      "url": "https://open.spotify.com/track/0HJhxXxnpIZ5yxupupD82D"
     },
     {
       "album": {

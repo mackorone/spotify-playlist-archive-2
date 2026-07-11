@@ -62127,6 +62127,24 @@
     },
     {
       "album": {
+        "name": "In A Nutshell",
+        "url": "https://open.spotify.com/album/79oZ6ksI5ByugbabcL0lYd"
+      },
+      "artists": [
+        {
+          "name": "Olsvang\u00e8r",
+          "url": "https://open.spotify.com/artist/3xlprdQ7Cjmqn9j8WqcZED"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382000,
+      "name": "In A Nutshell",
+      "url": "https://open.spotify.com/track/31dMBOR909sWoMW3YJlZHp"
+    },
+    {
+      "album": {
         "name": "In And Out Of Love (Innellea Remix)",
         "url": "https://open.spotify.com/album/0usEDxtDCBWHx3cfPceoYD"
       },
@@ -99144,6 +99162,24 @@
       "duration_ms": 228661,
       "name": "Psilocybin - Edit",
       "url": "https://open.spotify.com/track/2MuKdFxf6iSWEaiXPEG6vo"
+    },
+    {
+      "album": {
+        "name": "Psychedelic Disco Freak",
+        "url": "https://open.spotify.com/album/3EAC99ZYhAaVFGhXEQ3Om5"
+      },
+      "artists": [
+        {
+          "name": "Jody 6",
+          "url": "https://open.spotify.com/artist/0E8BC8YVaBgXflTlmNnH5Y"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176363,
+      "name": "Psychedelic Disco Freak",
+      "url": "https://open.spotify.com/track/1SfDsTCEBUc8HcDUQUslyR"
     },
     {
       "album": {
@@ -141510,24 +141546,6 @@
       "duration_ms": 291046,
       "name": "With Your Sleep",
       "url": "https://open.spotify.com/track/5q78sp1YZXPiUwE6nnw4qI"
-    },
-    {
-      "album": {
-        "name": "In A Nutshell",
-        "url": "https://open.spotify.com/album/79oZ6ksI5ByugbabcL0lYd"
-      },
-      "artists": [
-        {
-          "name": "Olsvang\u00e8r",
-          "url": "https://open.spotify.com/artist/3xlprdQ7Cjmqn9j8WqcZED"
-        }
-      ],
-      "date_added": "2026-07-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 382000,
-      "name": "Within The Nut",
-      "url": "https://open.spotify.com/track/31dMBOR909sWoMW3YJlZHp"
     },
     {
       "album": {

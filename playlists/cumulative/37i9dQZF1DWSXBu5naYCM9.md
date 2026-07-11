@@ -4,7 +4,7 @@
 
 > feel the breeze
 
-434 songs - 1 day 0 hr 55 min
+435 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [The Garden](https://open.spotify.com/track/5V6dYUrFOrRBH86n6OVtDF) | [Annabel Jones](https://open.spotify.com/artist/5koilOAvfuLq4O2yc9UWft) | [The Garden](https://open.spotify.com/album/4VapTMsZr8tsnmjpYir7tN) | 4:10 | 2025-04-17 |  |
 | [The Good](https://open.spotify.com/track/51lXsATkqtU3ScAuIvi94k) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Good](https://open.spotify.com/album/2UjjNucdVZNQtFOT5S54Hn) | 3:29 | 2021-12-17 | 2022-04-06 |
 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 | 2023-02-28 | 2023-05-10 |
+| [The Louvre](https://open.spotify.com/track/5q4BpnMrYEFzLO0dYODj6J) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:31 | 2026-07-10 |  |
 | [The Pain](https://open.spotify.com/track/5tvDKkm8Twhq6AzwVyAVvC) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [Beach Day](https://open.spotify.com/album/0C9xqtS8KKoFQVBrUZD8jz) | 3:41 | 2025-03-07 | 2025-07-09 |
 | [The Promise](https://open.spotify.com/track/2cbfCJFIX0RlIPNkLydHmj) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Ten \(Deluxe Edition\)](https://open.spotify.com/album/7nPNZ0M4qgVUTjlcCPzfSw) | 3:44 | 2023-11-28 | 2025-04-08 |
 | [The Question](https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [The Question](https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ) | 3:16 | 2026-03-20 |  |
@@ -431,7 +432,7 @@
 | [Whatever You Wanna](https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [Whatever You Wanna](https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs) | 3:31 | 2026-06-18 |  |
 | [When Someone Loves You](https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [When Someone Loves You](https://open.spotify.com/album/24WbV4OTp6wQ0BLA9BD8DP) | 4:15 | 2022-09-23 | 2023-11-29 |
 | [When You Were Mine](https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [When You Were Mine](https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk) | 3:23 | 2021-12-17 | 2023-11-29 |
-| [White Lies](https://open.spotify.com/track/2k8Mta149xjqqItkybzukx) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [White Lies \(Live From 1979\)](https://open.spotify.com/album/6khphJfO1yboCG478es21s) | 2:57 | 2025-04-17 |  |
+| [White Lies](https://open.spotify.com/track/2k8Mta149xjqqItkybzukx) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [White Lies \(Live From 1979\)](https://open.spotify.com/album/6khphJfO1yboCG478es21s) | 2:57 | 2025-04-17 | 2026-07-11 |
 | [Who's Gonna Love Me Now?](https://open.spotify.com/track/5DRv0BntPzRxCrIGtHvNOy) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Who's Gonna Love Me Now?](https://open.spotify.com/album/1qH5ZttG6QRV7BnCj2SgUW) | 4:05 | 2021-12-17 | 2022-01-19 |
 | [Who's Hurting Who \(feat\. Nile Rodgers\)](https://open.spotify.com/track/6a828NzyudrfpvTnsedI7Y) | [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Who's Hurting Who \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2wQXfx6cOlXrzUz3PYU987) | 3:12 | 2021-12-17 | 2022-12-03 |
 | [Whole](https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Whole](https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW) | 2:54 | 2021-12-17 | 2022-10-22 |

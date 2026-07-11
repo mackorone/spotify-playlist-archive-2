@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,588 songs - 10 day 5 hr 49 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,593 songs - 10 day 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4596,5 +4596,10 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4586 | [Chibo Da Paz](https://open.spotify.com/track/5QGSThpT3sVeE91IySPHBe) | [David Lisboa](https://open.spotify.com/artist/6C1HHrKkNoObr8bS8IrgGG) | [Super\-Heriós](https://open.spotify.com/album/5kVLd6P222EsnzQMNz54bP) | 3:19 |
 | 4587 | [Problem Attic](https://open.spotify.com/track/2WdhOSqLFJLIb6og648nWv) | [The Spent Priests](https://open.spotify.com/artist/2gl2xRe5bzXRRluzAT1CdV) | [Problem Attic](https://open.spotify.com/album/31ciiu7Y3I0bO7M3Rb4q9m) | 3:53 |
 | 4588 | [Jóvenes Para Siempre Version 1](https://open.spotify.com/track/7p7Ak5S2ebOoIAoo6Q4EJ9) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Jóvenes Para Siempre Version 1](https://open.spotify.com/album/5S1KESzGJLlu0q8UosidFO) | 2:08 |
+| 4589 | [Duele el corazón](https://open.spotify.com/track/2Duv17ntvAuSIPuA5FtBSC) | [Martino Stripoli](https://open.spotify.com/artist/5UdNN2pxDMK4USUqEqWUku) | [Duele el corazón](https://open.spotify.com/album/7xbYT0lkUICUnrNM1OHzzT) | 3:40 |
+| 4590 | [Can't Look Away](https://open.spotify.com/track/6ht9nXdja6vpqf8KNp4I7Y) | [Brother Venus](https://open.spotify.com/artist/45ZPkbeHuBIsgk4fzjmg3R) | [Can't Look Away](https://open.spotify.com/album/1b3XRpIuFCqgfuvBtYRHt8) | 4:47 |
+| 4591 | [PATOS CC](https://open.spotify.com/track/648C7TraL2tsvLeiCZSSOD) | [Mi novio dramático](https://open.spotify.com/artist/3VSmete7hOiLQadWOyyGf7) | [PATOS CC](https://open.spotify.com/album/1SvxwxVo127NT16QEji43F) | 2:52 |
+| 4592 | [I Fear Alone](https://open.spotify.com/track/5SA7OQX7g9dRQlmZfMYrzu) | [Kerem Berk](https://open.spotify.com/artist/54oQs8WbSCHvoqZ2mlVL0C) | [I Fear Alone](https://open.spotify.com/album/1hiUOjMAVXRkQv6EinfkT1) | 2:50 |
+| 4593 | [CHULERIA](https://open.spotify.com/track/4hwOCqPkTCHIuxfXLknt6r) | [Ares King](https://open.spotify.com/artist/3GkOybDIwGRVuBUT2P8SLf), [KID BOY](https://open.spotify.com/artist/1wjmPR7jrYn7AHipvh0EiA) | [CHULERIA](https://open.spotify.com/album/2OR28ltRsFU4HyFzQSAJl3) | 3:06 |
 
-Snapshot ID: `AAAJJVYSKQ+6azonqfHnzCuTJZi8vaWK`
+Snapshot ID: `AAAJKpF8eH/jfmRssSBHEvWaqJjwQ1BZ`

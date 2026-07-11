@@ -3466,7 +3466,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 170376,
       "name": "ITALIA STARTER PACK",
       "url": "https://open.spotify.com/track/4ZAjcfbt84O79SGc0jWqu7"
@@ -4436,6 +4436,24 @@
       "duration_ms": 129655,
       "name": "MI PIACCIONO LE ARMI",
       "url": "https://open.spotify.com/track/3yFgWoossjlaJ919XDCG4C"
+    },
+    {
+      "album": {
+        "name": "MILLION DOLLAR BABE",
+        "url": "https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173445,
+      "name": "MILLION DOLLAR BABE",
+      "url": "https://open.spotify.com/track/4uzXo3sUkY7xXelBvj1L7A"
     },
     {
       "album": {

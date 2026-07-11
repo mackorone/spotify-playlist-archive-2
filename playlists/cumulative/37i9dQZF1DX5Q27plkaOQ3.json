@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 featuring Zingara + Steller",
+  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 \ud83d\udcbb ft. NGHTMRE, Cyclops, + Computah",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 217714,
       "name": "Around The World (La La La)",
       "url": "https://open.spotify.com/track/1Ob2xtKYCrDW8DAdW31BDV"
@@ -3300,6 +3300,28 @@
       "duration_ms": 235285,
       "name": "Blood, Sweat & Fears",
       "url": "https://open.spotify.com/track/2NehwPxlC828pU6haiVlLw"
+    },
+    {
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/04uB1MsW2GHi3sHWV0q16z"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "Vo Williams",
+          "url": "https://open.spotify.com/artist/18KIg6ST1nUjVUvAlEB6ak"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/2xQ8gBWuFuZXyhXdkcOLHA"
     },
     {
       "album": {
@@ -5921,6 +5943,28 @@
     },
     {
       "album": {
+        "name": "Computah",
+        "url": "https://open.spotify.com/album/7M3gNOkxKn5ra9Kwxc9Cx1"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Computah",
+      "url": "https://open.spotify.com/track/3DP12C9X3cWK1TGDQ2L8GO"
+    },
+    {
+      "album": {
         "name": "Conquer",
         "url": "https://open.spotify.com/album/5Xm75RRp45CHs7F7kvrPoa"
       },
@@ -8192,7 +8236,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 185000,
       "name": "Don't Walk Away",
       "url": "https://open.spotify.com/track/44ETtUSY98l9lXHWAZK5Pu"
@@ -8588,7 +8632,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 169714,
       "name": "Drown",
       "url": "https://open.spotify.com/track/0Ssv0czChSaRZEuUkzmbP5"
@@ -14249,6 +14293,24 @@
     },
     {
       "album": {
+        "name": "BLOODBATH AND BEYOND",
+        "url": "https://open.spotify.com/album/4EcXb5zqg5cgQqzIBwD0D8"
+      },
+      "artists": [
+        {
+          "name": "MUST DIE!",
+          "url": "https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226551,
+      "name": "IMPACT",
+      "url": "https://open.spotify.com/track/4YLDVdlK5VNfHZJ7KxPjD9"
+    },
+    {
+      "album": {
         "name": "Impaired",
         "url": "https://open.spotify.com/album/375RdrGEbAJOnu6l2PLxIT"
       },
@@ -15362,7 +15424,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 181935,
       "name": "Keep On Tellin",
       "url": "https://open.spotify.com/track/3IQpyxkzyjJFupA0lXIFJQ"
@@ -16764,6 +16826,28 @@
     {
       "album": {
         "name": "LOUD",
+        "url": "https://open.spotify.com/album/5HuFYJyoBLi2vixJD5LS82"
+      },
+      "artists": [
+        {
+          "name": "Benda",
+          "url": "https://open.spotify.com/artist/0md3NIXueJZSFZ82HMu26M"
+        },
+        {
+          "name": "Vastive",
+          "url": "https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192800,
+      "name": "LOUD",
+      "url": "https://open.spotify.com/track/12MBHTjIa78Oel3ifITxfM"
+    },
+    {
+      "album": {
+        "name": "LOUD",
         "url": "https://open.spotify.com/album/5xXul2PWn3SYaEdcZ0xesB"
       },
       "artists": [
@@ -17939,6 +18023,32 @@
     },
     {
       "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/2h4HitkMjJBl62Nq8dHcdY"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205249,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/4N83wAazucqM5dhLMWEv0r"
+    },
+    {
+      "album": {
         "name": "Movement",
         "url": "https://open.spotify.com/album/0uwj7PaqVqPoY66QCo0i9n"
       },
@@ -18274,6 +18384,28 @@
       "duration_ms": 212571,
       "name": "Neon Soul",
       "url": "https://open.spotify.com/track/5ONOXYgmiuLZk8oxy2zr0X"
+    },
+    {
+      "album": {
+        "name": "Nevada (Anniversary Remixes)",
+        "url": "https://open.spotify.com/album/1huKUeG2EHRLtqgQ5HqUx2"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        },
+        {
+          "name": "Cozi Zuehlsdorff",
+          "url": "https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161333,
+      "name": "Nevada - Dubstep Mix",
+      "url": "https://open.spotify.com/track/1rYzYVcBW8IIWYZhZrbdeB"
     },
     {
       "album": {
@@ -20699,6 +20831,28 @@
     },
     {
       "album": {
+        "name": "PMO",
+        "url": "https://open.spotify.com/album/2wF4zjhrrtkS1j8LJZERGQ"
+      },
+      "artists": [
+        {
+          "name": "Emorfik",
+          "url": "https://open.spotify.com/artist/34bGTqa9HJUnf14IOHt6pc"
+        },
+        {
+          "name": "RZRKT",
+          "url": "https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "PMO",
+      "url": "https://open.spotify.com/track/05PDTRBb4bMDN87NhpDQfM"
+    },
+    {
+      "album": {
         "name": "Pocket Change",
         "url": "https://open.spotify.com/album/3gBf9Qk0FqcaDeRxxL1iYC"
       },
@@ -21238,6 +21392,28 @@
       "duration_ms": 200275,
       "name": "Pressure Points",
       "url": "https://open.spotify.com/track/5yaNtgMysqjPGQMoFjyRM4"
+    },
+    {
+      "album": {
+        "name": "PRETTY GIRLS",
+        "url": "https://open.spotify.com/album/4q9UYt2kIGO1VxxG3w1xOf"
+      },
+      "artists": [
+        {
+          "name": "HerShe",
+          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
+        },
+        {
+          "name": "SPORTMODE",
+          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200571,
+      "name": "PRETTY GIRLS",
+      "url": "https://open.spotify.com/track/5E64oUALBVwhnqpSrARgS0"
     },
     {
       "album": {
@@ -22364,7 +22540,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 215172,
       "name": "Retro",
       "url": "https://open.spotify.com/track/3XsE66HsdnPFrlvu2kMjnJ"
@@ -22649,6 +22825,28 @@
     },
     {
       "album": {
+        "name": "Riddim N Dabs",
+        "url": "https://open.spotify.com/album/2Q2cvqX8SCeMryabwgc9dr"
+      },
+      "artists": [
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        },
+        {
+          "name": "MAD DUBZ",
+          "url": "https://open.spotify.com/artist/4TQ72C7aaARXGuHB7qBPk7"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250285,
+      "name": "Riddim N Dabs",
+      "url": "https://open.spotify.com/track/7BkpjG6X40gATdlHbsMtxV"
+    },
+    {
+      "album": {
         "name": "Riddim Rats",
         "url": "https://open.spotify.com/album/0GZRwPDOFOJgqAJOYdOfOh"
       },
@@ -22784,7 +22982,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 239986,
       "name": "Right Time",
       "url": "https://open.spotify.com/track/48MoatAq65R3q5fRalsXq6"
@@ -25536,7 +25734,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 177310,
       "name": "Speed Of Light",
       "url": "https://open.spotify.com/track/6Gr4CPYjaP5969AACKDdfZ"
@@ -26144,7 +26342,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 182482,
       "name": "stilldelusional...",
       "url": "https://open.spotify.com/track/6UJhR39gncBSS8jR3Z5znD"
@@ -27688,6 +27886,24 @@
       "duration_ms": 260526,
       "name": "THE OG",
       "url": "https://open.spotify.com/track/0pUp5f9v9g8X4JpOw1QCzb"
+    },
+    {
+      "album": {
+        "name": "Midnight Snacks - Fun Size",
+        "url": "https://open.spotify.com/album/76gXtT0cULxoPF1jSG71QP"
+      },
+      "artists": [
+        {
+          "name": "Midnight Tyrannosaurus",
+          "url": "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329406,
+      "name": "The One From Dark",
+      "url": "https://open.spotify.com/track/6q6c7glmDkxGODaKadKUeP"
     },
     {
       "album": {
@@ -29296,7 +29512,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 123428,
       "name": "Ultra",
       "url": "https://open.spotify.com/track/7l2UdAzp8Xmmh4MJvVlgnT"
@@ -29582,7 +29798,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 267428,
       "name": "Ups and Downs",
       "url": "https://open.spotify.com/track/4H3lfEQqrv1Kh3CXVYmMwW"
@@ -30680,7 +30896,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 198446,
       "name": "What?",
       "url": "https://open.spotify.com/track/2FIeBJZytlV6hK19BVpFFQ"

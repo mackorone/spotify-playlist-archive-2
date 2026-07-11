@@ -36603,6 +36603,24 @@
     },
     {
       "album": {
+        "name": "THERAPY",
+        "url": "https://open.spotify.com/album/6AjkBSOVwXBWc2lXflY65D"
+      },
+      "artists": [
+        {
+          "name": "Kalipsxau",
+          "url": "https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166829,
+      "name": "Comment m'aimer",
+      "url": "https://open.spotify.com/track/6jHeDkT1nisjl2LE1qVzFb"
+    },
+    {
+      "album": {
         "name": "SOR4",
         "url": "https://open.spotify.com/album/4pcikVhgrWGgy7bQSyS6Us"
       },
@@ -153914,6 +153932,10 @@
         {
           "name": "Jok'air",
           "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        },
+        {
+          "name": "Gemtro",
+          "url": "https://open.spotify.com/artist/1oFFkY4UrGTXjFwzFndWB4"
         }
       ],
       "date_added": "2026-07-09",
@@ -182487,7 +182509,7 @@
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 167999,
+      "duration_ms": 164840,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/0PzKXHZLlax3utLHSAAsiF"
     },
@@ -182588,24 +182610,6 @@
       "duration_ms": 187500,
       "name": "traces (feat. Molina)",
       "url": "https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa"
-    },
-    {
-      "album": {
-        "name": "THERAPY",
-        "url": "https://open.spotify.com/album/6AjkBSOVwXBWc2lXflY65D"
-      },
-      "artists": [
-        {
-          "name": "Kalipsxau",
-          "url": "https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6"
-        }
-      ],
-      "date_added": "2026-07-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/6jHeDkT1nisjl2LE1qVzFb"
     },
     {
       "album": {

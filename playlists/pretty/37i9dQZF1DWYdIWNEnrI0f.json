@@ -1,6 +1,6 @@
 {
   "description": "Let Japanese beats guide you into a calm and blissful evening. / \u5fc3\u5730\u3088\u3044\u591c\u3092\u904e\u3054\u3059\u305f\u3081\u306e\u65e5\u672c\u88fd\u30d3\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9",
-  "num_followers": 30355,
+  "num_followers": 30402,
   "original_name": "Fujiyama Beats",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,18 @@
     {
       "added_at": "2026-06-26 00:25:19",
       "album": {
-        "name": "Tokiwa",
-        "url": "https://open.spotify.com/album/7FhyXUuEEwmRuy3hq8QMgZ"
+        "name": "Time goes by",
+        "url": "https://open.spotify.com/album/3BGcymZGetozixza8RWiAv"
       },
       "artists": [
         {
-          "name": "TOMC",
-          "url": "https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0"
-        },
-        {
-          "name": "Notation",
-          "url": "https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx"
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
         }
       ],
-      "duration_ms": 154949,
-      "name": "Tokiwa",
-      "url": "https://open.spotify.com/track/727VIiPaWSv4c1poz6RKBk"
+      "duration_ms": 115831,
+      "name": "Time goes by",
+      "url": "https://open.spotify.com/track/6H6pqFQ4cAybRvxkXaTihz"
     },
     {
       "added_at": "2026-06-26 00:25:19",
@@ -931,18 +927,22 @@
     {
       "added_at": "2026-06-26 00:25:19",
       "album": {
-        "name": "Time goes by",
-        "url": "https://open.spotify.com/album/3BGcymZGetozixza8RWiAv"
+        "name": "Tokiwa",
+        "url": "https://open.spotify.com/album/7FhyXUuEEwmRuy3hq8QMgZ"
       },
       "artists": [
         {
-          "name": "MIDICRONICA 181",
-          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
+          "name": "TOMC",
+          "url": "https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0"
+        },
+        {
+          "name": "Notation",
+          "url": "https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx"
         }
       ],
-      "duration_ms": 115831,
-      "name": "Time goes by",
-      "url": "https://open.spotify.com/track/6H6pqFQ4cAybRvxkXaTihz"
+      "duration_ms": 154949,
+      "name": "Tokiwa",
+      "url": "https://open.spotify.com/track/727VIiPaWSv4c1poz6RKBk"
     }
   ],
   "unique_name": "Fujiyama Beats",

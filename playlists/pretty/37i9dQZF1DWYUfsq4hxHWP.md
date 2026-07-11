@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Colin Lynch, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,423 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,438 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 74 | [Texas Soul](https://open.spotify.com/track/1vnEsJieBgwyNuAnuiGQe7) | [Micah Edwards](https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs) | [Texas Soul](https://open.spotify.com/album/3lORSQI9L3TGloKBPceTrK) | 4:00 |
 | 75 | [Why On Earth](https://open.spotify.com/track/4hprLONLP4nq3K7U09XslR) | [Shantaia](https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T) | [Why On Earth](https://open.spotify.com/album/6Qk7iW6zUycGSDoWCiVzV8) | 3:37 |
 
-Snapshot ID: `AAAAAHIo4O6dSQg6OlzDVH0SY33DsIc7`
+Snapshot ID: `AAAAABHVDSxTdfepeI39k1ESlwfZ1dZy`

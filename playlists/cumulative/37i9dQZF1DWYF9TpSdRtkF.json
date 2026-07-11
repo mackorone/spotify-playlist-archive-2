@@ -5858,7 +5858,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 245333,
       "name": "\u304d\u307e\u3050\u308c\u30e6\u30e2\u30ec\u30b9\u30af",
       "url": "https://open.spotify.com/track/6q9C9m0Smx1CaMf6hdoFfY"
@@ -6242,6 +6242,32 @@
       "duration_ms": 217880,
       "name": "\u30ad\u30e9\u30e1\u30ad\u9032\u884c\u5f62",
       "url": "https://open.spotify.com/track/0zUxcMSrVLfjuloZtMEBGD"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 17 STAR ELEMENTS",
+        "url": "https://open.spotify.com/album/5hcxMJUIeeZtHQSASinlO4"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5\u672a\u6765 (CV.\u5c71\u5d0e\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv"
+        },
+        {
+          "name": "\u77e2\u5439\u53ef\u5948 (CV.\u6728\u6238\u8863\u5439)",
+          "url": "https://open.spotify.com/artist/6yoMmG15xnhZrfYXL5sPUw"
+        },
+        {
+          "name": "Kotoha Tanaka (CV: Risa Taneda)",
+          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225066,
+      "name": "\u30ae\u30d6\u30df\u30fc\u30e1\u30bf\u30d5\u30a1\u30fc",
+      "url": "https://open.spotify.com/track/2dBk9WLrtWT2n6dFwvstrY"
     },
     {
       "album": {
@@ -7708,7 +7734,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 251280,
       "name": "\u30ed\u30fc\u30ea\u30f3\u30b0 \u3055\u3093\u304b\u304f",
       "url": "https://open.spotify.com/track/2dmvI4QJlcJXMcBywFpzDW"
@@ -8572,7 +8598,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 265600,
       "name": "\u6df1\u7d05\u306e\u30d1\u30b7\u30aa\u30f3",
       "url": "https://open.spotify.com/track/2cWMgAKxXnZajAfMJrb29N"

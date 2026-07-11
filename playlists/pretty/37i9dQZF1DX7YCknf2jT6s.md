@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 ### [State of Jazz](https://open.spotify.com/playlist/37i9dQZF1DX7YCknf2jT6s)
 
-> New jazz for open minds\. Cover: Jacob Collier
+> New jazz for open minds\. Cover: FATHERS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,049,906 likes - 100 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,049,924 likes - 100 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Shake Down](https://open.spotify.com/track/6jQ2AEAq0BKtaYgKNb5Gdz) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Shake Down](https://open.spotify.com/album/2PbQgPKGJ5clOcuQXHwoqK) | 4:22 |
-| 2 | [Sam on the Ganges](https://open.spotify.com/track/6ZIjXziCir2H7zzcWdAr4K) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Sangam & Friends](https://open.spotify.com/album/1Jm3KSmqeij3dcksUYwM1I) | 7:11 |
-| 3 | [But Not For Me \(2015\)](https://open.spotify.com/track/2Z9OxLAF2vu0AOGqlQ0niN) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [In My Room \(10 Year Anniversary Edition\)](https://open.spotify.com/album/07ECvLpnUHGLe2ntFJckIi) | 3:12 |
-| 4 | [Blue In Green](https://open.spotify.com/track/2xJFd2dextQWWPSFILZ18Z) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4), [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Blue In Green](https://open.spotify.com/album/5HknbILWT5jAGFaKTgf6SV) | 6:14 |
-| 5 | [WILD IS THE WIND](https://open.spotify.com/track/3yd3iyOAiQh8WTJo1Ls9IR) | [Tyreek McDole](https://open.spotify.com/artist/4CaP7lMH3pQeY7YboZJu7T) | [WILD IS THE WIND](https://open.spotify.com/album/2F2UnhrJWpfuBMk7jJvgms) | 4:58 |
-| 6 | [Ḽiṅwalo ḽa Mubebi](https://open.spotify.com/track/3svg2F1ZsOxF2CIL4AAngt) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [The Myth We Choose](https://open.spotify.com/album/0MLGCKPzliFC2fEkqhihYw) | 6:22 |
-| 7 | [Sometimes Love](https://open.spotify.com/track/20KOIyeSqCrfWnUJhGlfKl) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Sometimes Love](https://open.spotify.com/album/7B2wlFa4gonKkpXkWBYMXc) | 5:07 |
-| 8 | [PEARL](https://open.spotify.com/track/33E2bU4xRVvjuc6Y4dtk5k) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [PEARL](https://open.spotify.com/album/0gfmzQ2h5XslfUtAZKm4oj) | 3:51 |
+| 1 | [PATCHWORK](https://open.spotify.com/track/38HigDpo88ILLFU2zhzRT6) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [FATHERS](https://open.spotify.com/album/1EeNAliCb18UrU84kfqWmh) | 2:38 |
+| 2 | [Shake Down](https://open.spotify.com/track/6jQ2AEAq0BKtaYgKNb5Gdz) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Shake Down](https://open.spotify.com/album/2PbQgPKGJ5clOcuQXHwoqK) | 4:22 |
+| 3 | [Sam on the Ganges](https://open.spotify.com/track/6NN84SLP6Zccaya0CsU03l) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Sam on the Ganges](https://open.spotify.com/album/7F9x71oGaG8uy3SwVUcaPU) | 7:11 |
+| 4 | [But Not For Me \(2015\)](https://open.spotify.com/track/2Z9OxLAF2vu0AOGqlQ0niN) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [In My Room \(10 Year Anniversary Edition\)](https://open.spotify.com/album/07ECvLpnUHGLe2ntFJckIi) | 3:12 |
+| 5 | [Blue In Green](https://open.spotify.com/track/2xJFd2dextQWWPSFILZ18Z) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4), [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Blue In Green](https://open.spotify.com/album/5HknbILWT5jAGFaKTgf6SV) | 6:14 |
+| 6 | [WILD IS THE WIND](https://open.spotify.com/track/3yd3iyOAiQh8WTJo1Ls9IR) | [Tyreek McDole](https://open.spotify.com/artist/4CaP7lMH3pQeY7YboZJu7T) | [WILD IS THE WIND](https://open.spotify.com/album/2F2UnhrJWpfuBMk7jJvgms) | 4:58 |
+| 7 | [Ḽiṅwalo ḽa Mubebi](https://open.spotify.com/track/3svg2F1ZsOxF2CIL4AAngt) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [The Myth We Choose](https://open.spotify.com/album/0MLGCKPzliFC2fEkqhihYw) | 6:22 |
+| 8 | [Sometimes Love](https://open.spotify.com/track/20KOIyeSqCrfWnUJhGlfKl) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Sometimes Love](https://open.spotify.com/album/7B2wlFa4gonKkpXkWBYMXc) | 5:07 |
 | 9 | [SNEAKPEAK feat\. Shing02](https://open.spotify.com/track/38T3zfs1KtdNCbRPCRjC9H) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [SNEAKPEAK feat\. Shing02](https://open.spotify.com/album/4T8yFAKBzi7HfUCpaph1sC) | 3:39 |
 | 10 | [Hypnotic](https://open.spotify.com/track/4j95thWu0vNFOB1qWKkxV9) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Hypnotic](https://open.spotify.com/album/2J7s7Zo6TNPeKSYnAVz2KF) | 6:39 |
 | 11 | [BRING THE LIGHT](https://open.spotify.com/track/6ugeNh75lWjctHoK42oAF0) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Weedie Braimah](https://open.spotify.com/artist/0gNcTRfbjxxOdXxSCoXluo), [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j) | [BRING THE LIGHT](https://open.spotify.com/album/0yRhKkzF6PP50XGNsML1AR) | 4:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Scurry](https://open.spotify.com/track/2XkOOFZAeeytJh6roIuNce) | [Neil Cowley Trio](https://open.spotify.com/artist/1aHiF3ESIMQtH7PGzhi6fl) | [Scurry](https://open.spotify.com/album/0lbwmnDifdEc3rS7lCafYL) | 3:06 |
 | 100 | [The Law of Diminishing Returns \- Radio](https://open.spotify.com/track/2Z1xYH4Y4uDnaMRk2kMM7t) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80), [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH) | [San Michele \(Radio\)](https://open.spotify.com/album/0De82n8QaUod7sefVRbA3F) | 5:38 |
 
-Snapshot ID: `AAAAADBLxf7zsdHPpey3g5dcm6Wvs33y`
+Snapshot ID: `AAAAABGmKubxyhIldSylD340wzJb4ByN`

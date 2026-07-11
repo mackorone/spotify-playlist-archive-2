@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-313 songs - 17 hr 59 min
+314 songs - 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [KICK BACK \(Frost Children Remix\)](https://open.spotify.com/track/4FI5XZ9paE4Lliaacra77p) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [KICK BACK \(Frost Children Remix\)](https://open.spotify.com/album/3osCW6kofsU9dIlILmL46l) | 4:12 | 2025-09-05 |  |
 | [Kirie and Shuichi](https://open.spotify.com/track/2aTO74K3NrPd5Klvyv9LtB) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [Uzumaki \(Anime Series Original Soundtrack\)](https://open.spotify.com/album/7jSnAYdc0Aysd2ONzzVwLX) | 1:55 | 2024-09-27 |  |
 | [Know No Better \- Doobious Remix](https://open.spotify.com/track/0mz8ZwZ5KwnO122kS4N0IL) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Doobious](https://open.spotify.com/artist/4Si6bkuClXDbHbTTAH0xPC) | [Know No Better \(Remixes\)](https://open.spotify.com/album/30cBFG2VLjgEE2qJfZgy3P) | 3:15 | 2022-02-18 | 2022-12-10 |
+| [L A R A \(feat\. Tatiana Parra\)](https://open.spotify.com/track/58W2sab5a1jGUILhcdcb5a) | [yuma yamaguchi](https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8), [Tatiana Parra](https://open.spotify.com/artist/4UPAR5j8CLFlb68v9KFiZV) | [Goodbye, Lara \(Original Series Soundtrack EP\)](https://open.spotify.com/album/6apQ0e3kiN5pGo7l2TiiLc) | 3:08 | 2026-07-10 |  |
 | [Lalala](https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Lalala](https://open.spotify.com/album/4WlC4FXhonJhNTXCQPGP3r) | 2:40 | 2022-02-18 | 2022-12-10 |
 | [Lazarus](https://open.spotify.com/track/19dE30ZT2bz0yp2HAI57Yx) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/5gD3tPSWfnzu1XWpKwiB0o) | 5:17 | 2025-04-11 |  |
 | [Let You Down](https://open.spotify.com/track/1qpGMJi0ippCaMUOs7cz2q) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Let You Down](https://open.spotify.com/album/5lFDNl6WwhLIIl15kyWGxw) | 3:47 | 2022-10-13 | 2022-12-10 |

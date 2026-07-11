@@ -4,7 +4,7 @@
 
 > 
 
-2,422 songs - 5 day 10 hr 14 min
+2,423 songs - 5 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,6 +504,7 @@
 | [Cross My Heart And Hope To Die](https://open.spotify.com/track/28Htz40ff0WaT4gfc8CL7k) | [Harmful Logic](https://open.spotify.com/artist/2bJhXmBzIW5xTAL2LGc6iw) | [Cross My Heart And Hope To Die](https://open.spotify.com/album/4mxayRTM5hG34hcaIFWMxX) | 3:40 | 2022-02-04 |  |
 | [Crown](https://open.spotify.com/track/3U5JNUbwycdHKJniU0Drgw) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Crown](https://open.spotify.com/album/3PVqimvxXsyD50YeBVHghV) | 1:32 | 2021-08-05 |  |
 | [crush](https://open.spotify.com/track/2h7vLf7jv2KsRb7fV77w5H) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [boy](https://open.spotify.com/album/0JfgfkFvNYiZIt5mS3skmZ) | 2:26 | 2025-01-08 |  |
+| [Crushed](https://open.spotify.com/track/0vnh0D3xtxMMuG0VO8kr2p) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Hazyville](https://open.spotify.com/album/4kMTX5zW78Oj7c60qKzQaA) | 3:15 | 2026-07-11 |  |
 | [Cry Out](https://open.spotify.com/track/5Sbf1ONFdUHbb88m9VUqDN) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [35xxxv \(Deluxe Edition\)](https://open.spotify.com/album/5yyxuxoqWqmYIJcORvvnpL) | 3:47 | 2021-08-05 |  |
 | [Crybaby](https://open.spotify.com/track/2BLRn0W2QEbNUHHKDqZv8B) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Crybaby/Vixen](https://open.spotify.com/album/1rmsDH96u6Un1zcqIleNq8) | 3:10 | 2021-08-05 |  |
 | [Crystal Clear](https://open.spotify.com/track/06suFc0VLlAItrJx5qQ0Bp) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [haha](https://open.spotify.com/album/2tH1S9Q2RUcLrOizMy9I1K) | 2:19 | 2023-03-06 |  |

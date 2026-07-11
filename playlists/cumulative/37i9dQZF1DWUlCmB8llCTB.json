@@ -356,7 +356,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 195683,
       "name": "2x1",
       "url": "https://open.spotify.com/track/6xXLOe3aR1iN1UFj9J1Iln"
@@ -4034,7 +4034,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 232653,
       "name": "CHEROKEE RMX - Remix",
       "url": "https://open.spotify.com/track/3sADWXuKGeGcprocykh67J"
@@ -4682,7 +4682,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 172800,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/5JEbjp9bZj555BHIBR4NzN"
@@ -4774,7 +4774,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 157021,
       "name": "Con La Mini",
       "url": "https://open.spotify.com/track/0mo9HCsRSwDE2dMInlm8OJ"
@@ -14590,7 +14590,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 263030,
       "name": "Minnie 2",
       "url": "https://open.spotify.com/track/1tJWvlF0fawkIKrsiTGCUl"
@@ -16645,6 +16645,28 @@
     },
     {
       "album": {
+        "name": "PA QUE BAILE",
+        "url": "https://open.spotify.com/album/0fTpOkBa9jlsQmAw7GjfWx"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        },
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172198,
+      "name": "PA QUE BAILE",
+      "url": "https://open.spotify.com/track/3WrqWxl9Le6CsbWeu97WgE"
+    },
+    {
+      "album": {
         "name": "LCPUCR",
         "url": "https://open.spotify.com/album/1dMUoEEycgxB4s1ySFNab7"
       },
@@ -17450,6 +17472,28 @@
       "duration_ms": 127058,
       "name": "PATEK PHILIPPE",
       "url": "https://open.spotify.com/track/1jpSKAbos8TonoqKcTQ8Zh"
+    },
+    {
+      "album": {
+        "name": "LOS ANGELITOS",
+        "url": "https://open.spotify.com/album/3nlnOHjbXkkcXnMVeO4Hs5"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218372,
+      "name": "PaToLasGyales",
+      "url": "https://open.spotify.com/track/7AFCPBLMPF2SLHAPY5PMae"
     },
     {
       "album": {
@@ -19145,6 +19189,32 @@
     },
     {
       "album": {
+        "name": "EL PEOR HOMBRE DEL MUNDO",
+        "url": "https://open.spotify.com/album/5SRrJ19R5JyGcGHE3r8nnb"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "PROV\u00d3CATE",
+      "url": "https://open.spotify.com/track/0dpV9WOqhZJqoFQDD9d9Eu"
+    },
+    {
+      "album": {
         "name": "Pr\u00e9ndete",
         "url": "https://open.spotify.com/album/1FcBLtjVqFX4iD1nS0igjh"
       },
@@ -20255,6 +20325,32 @@
     },
     {
       "album": {
+        "name": "Reggaeton Cl\u00e1sico",
+        "url": "https://open.spotify.com/album/7MVRLo9vnv3iw65KrkQRyx"
+      },
+      "artists": [
+        {
+          "name": "Elniko Arias",
+          "url": "https://open.spotify.com/artist/4K4vr85RRWEyiAajgpeMrR"
+        },
+        {
+          "name": "El Osito Wito",
+          "url": "https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG"
+        },
+        {
+          "name": "2mileros",
+          "url": "https://open.spotify.com/artist/3OAj7vUyUxSDUO0vSzNNlI"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167010,
+      "name": "Reggaeton Cl\u00e1sico",
+      "url": "https://open.spotify.com/track/5blAUYxYtso8eSd67CD90I"
+    },
+    {
+      "album": {
         "name": "Regres\u00e9",
         "url": "https://open.spotify.com/album/1IvX6AN3z7OH8iXKRw3rXw"
       },
@@ -20646,6 +20742,28 @@
       "duration_ms": 393103,
       "name": "Romperte (feat. Brray, Juanka & Nio Garcia) - Remix",
       "url": "https://open.spotify.com/track/2zAjYhUMZ833CvbDeE6aSf"
+    },
+    {
+      "album": {
+        "name": "Ropa Cara",
+        "url": "https://open.spotify.com/album/6D81VwcWSpkivO69n7wmxB"
+      },
+      "artists": [
+        {
+          "name": "Yampi",
+          "url": "https://open.spotify.com/artist/3Ia6QnB1tPR9bcgnmbL5FO"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193721,
+      "name": "Ropa Cara",
+      "url": "https://open.spotify.com/track/076uJiAXPcni8CFjSfzMIV"
     },
     {
       "album": {
@@ -24018,6 +24136,32 @@
       "duration_ms": 186487,
       "name": "Ubi",
       "url": "https://open.spotify.com/track/0FwCxicKn0FYSDZ8c9gVG1"
+    },
+    {
+      "album": {
+        "name": "ULA U",
+        "url": "https://open.spotify.com/album/7zivrAN54dgpplrgDLkSrV"
+      },
+      "artists": [
+        {
+          "name": "RIVVAA",
+          "url": "https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5"
+        },
+        {
+          "name": "Jose Alatorre",
+          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
+        },
+        {
+          "name": "QueHicisteBella",
+          "url": "https://open.spotify.com/artist/7tZ9DkFKRbmnkqxjrUZRpv"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "ULA U",
+      "url": "https://open.spotify.com/track/58lUFyBGQyRbuy8SpVhRrI"
     },
     {
       "album": {

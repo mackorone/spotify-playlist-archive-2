@@ -364,7 +364,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 148043,
       "name": "Always",
       "url": "https://open.spotify.com/track/6XqmcXPzvILbJ4CmeyQE4A"
@@ -1994,6 +1994,24 @@
       "duration_ms": 135066,
       "name": "Glue Song",
       "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
+    },
+    {
+      "album": {
+        "name": "God Made Him",
+        "url": "https://open.spotify.com/album/6jaPkauQzuYdbSCWorAJk6"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222825,
+      "name": "God Made Him",
+      "url": "https://open.spotify.com/track/4GkoWb00TaR4QPQB7eoS2X"
     },
     {
       "album": {

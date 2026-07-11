@@ -4,7 +4,7 @@
 
 > 
 
-549 songs - 1 day 11 hr 26 min
+550 songs - 1 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [Notoriously Fast](https://open.spotify.com/track/0GBLXfE9GbUSH2jF4Pr3yR) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Circulus Vitiosus](https://open.spotify.com/album/5xFPu0JBe4Wxh7gcu9Idmd) | 1:52 | 2022-09-16 | 2023-02-22 |
 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 | 2023-07-07 | 2024-05-08 |
 | [Now You Know](https://open.spotify.com/track/29fZXIGMJHLlCnFZTRLj0o) | [Ebbb](https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW) | [Now You Know](https://open.spotify.com/album/5ZPb6pvREyBC5kowqU8Yi0) | 3:06 | 2026-05-06 |  |
+| [Now You Know](https://open.spotify.com/track/7HkBkfc3xK4rJ7y3MLaVce) | [Ebbb](https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW) | [Shallow Hits](https://open.spotify.com/album/2IxFB7LheYDBoJIoFA1dwE) | 3:06 | 2026-07-10 |  |
 | [Nyiego](https://open.spotify.com/track/3knchrfS2GkZfFhljRp3Cr) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW), [Labdi](https://open.spotify.com/artist/310NKKgwvfe3k3nf9ug5TZ) | [Vast Oceans, Empty Skies](https://open.spotify.com/album/5vBh6dcOCsHMs3o7NvbGMI) | 4:29 | 2023-12-11 | 2023-12-20 |
 | [Ocotillo](https://open.spotify.com/track/0VmJyEuoZ3nIzpHgahM05I) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Ocotillo](https://open.spotify.com/album/6nhojCNg9ggxmaEXrVxLCH) | 8:43 | 2024-08-22 | 2025-11-07 |
 | [Of Joy](https://open.spotify.com/track/3mcbuLRA6q4MO3KJZiARXQ) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM) | [Of Joy](https://open.spotify.com/album/54A3tApoB5vr52YinrOeV7) | 3:19 | 2026-02-17 | 2026-06-11 |

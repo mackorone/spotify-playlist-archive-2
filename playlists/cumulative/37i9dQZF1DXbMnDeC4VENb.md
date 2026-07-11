@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-422 songs - 23 hr 49 min
+425 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [CLIMA \(with Foreign Teck\)](https://open.spotify.com/track/6HWm8rj8kX5AXUZAyciF14) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [CLIMA \(with Foreign Teck\)](https://open.spotify.com/album/5DllpnHoUTYe6Wjd5trxJP) | 2:44 | 2025-02-13 | 2025-03-08 |
 | [Colibrí](https://open.spotify.com/track/3SB4BggLTilRbeqErh059h) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Colibrí](https://open.spotify.com/album/65f71lgoP71F7dN6ubyg9P) | 2:30 | 2023-07-21 |  |
 | [COME BACK \(feat\. Imagine\)](https://open.spotify.com/track/7sxzF8LKnnv7jChtSnOsct) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Imagine](https://open.spotify.com/artist/0ajeO3Uh8ffXQmkTRV64sM) | [ONDEADO$](https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK) | 2:58 | 2024-12-13 |  |
+| [Como Duele](https://open.spotify.com/track/2szYvymsoURMXkGUBe7QE7) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Como Duele](https://open.spotify.com/album/284hnu8tT7kwfR1Sglv8u7) | 3:10 | 2026-07-10 |  |
 | [Complicado](https://open.spotify.com/track/3eGpyKNSwZH2E738CjK9w1) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [No Teníamos Nada, Pero Éramos Felices](https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs) | 3:59 | 2022-10-17 | 2024-04-19 |
 | [Complicado](https://open.spotify.com/track/5LxtXRqA2i3LBWdJiqE91O) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Complicado](https://open.spotify.com/album/5JOuCtRnFr7hM271TWk3YC) | 4:00 | 2022-05-25 |  |
 | [Confianza](https://open.spotify.com/track/4chzKVwJz3Dt0ryO3Vd9ue) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Inefable](https://open.spotify.com/album/5AcfM2EiLTrnFxQjpo7mxp) | 3:27 | 2022-05-25 |  |
@@ -204,6 +205,7 @@
 | [mangiare](https://open.spotify.com/track/3EMI1WKqbLub1je7zG7CL2) | [Ruzzo Doblezz](https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D) | [mangiare](https://open.spotify.com/album/1RK1OfW6J5AM08ayIknjxW) | 2:52 | 2025-02-13 | 2025-03-08 |
 | [Maquiavélico](https://open.spotify.com/track/447r2keRxpkINmWYp83MlH) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 4:44 | 2024-06-07 | 2024-06-22 |
 | [Mar y Tierra](https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mar y Tierra](https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w) | 3:05 | 2022-05-25 |  |
+| [María](https://open.spotify.com/track/6GvLCyoaFhdyGdWycWNDI2) | [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [María](https://open.spotify.com/album/7DKdveqgK9duXti7Xjdp39) | 2:47 | 2026-07-10 |  |
 | [Me Arrastro Hacia el Mar](https://open.spotify.com/track/1XxIchMiW7hxWiplGLCA0f) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Me Arrastro Hacia el Mar](https://open.spotify.com/album/4i5bGetA9enYomBnSpAPiG) | 4:11 | 2022-05-25 | 2022-06-17 |
 | [Me Da Lo Mismo](https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Da Lo Mismo](https://open.spotify.com/album/3gyF757c6nzibRCWttR1nS) | 4:06 | 2022-05-25 |  |
 | [Me Dejaste Herido](https://open.spotify.com/track/2wkc5uIDq5u5eAdfQ8dX5V) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2) | [Me Dejaste Herido](https://open.spotify.com/album/4HiRBbNi8D0vlP01xAvpa7) | 3:07 | 2025-04-25 |  |
@@ -307,6 +309,7 @@
 | [Quédate](https://open.spotify.com/track/5RBSfEU71gXJ7jxfqSbYiR) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Quédate](https://open.spotify.com/album/5PQ6Wuj8cc5FLh9Lk7RZ4o) | 3:20 | 2022-06-16 |  |
 | [Química Orgánica](https://open.spotify.com/track/3DPm68zR6GdQK5t2cGB1LN) | [Santos Woge](https://open.spotify.com/artist/5lnra4ar7XaI27La68JLBC), [Canto Quetzal](https://open.spotify.com/artist/5q2JMx13gkrD62aHfBgoUa) | [Química Orgánica](https://open.spotify.com/album/5GWVt24X4rpkLmkEf5stb7) | 3:38 | 2023-07-21 | 2023-07-29 |
 | [REAL](https://open.spotify.com/track/0uRntQYQmiuUsbU53QB7i4) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 2:59 | 2025-02-13 | 2025-03-08 |
+| [Rosas y Espinas](https://open.spotify.com/track/43LePI1GAUgTnbYeCyumui) | [Mike Diaz](https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Elephonteasis Vol\. 3](https://open.spotify.com/album/6k6WYlJXB6I06XsSPgIB8J) | 3:26 | 2026-07-10 |  |
 | [Rosas y Serpientes](https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Rosas y Serpientes](https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39) | 4:30 | 2024-04-19 |  |
 | [Sabanas Blancas](https://open.spotify.com/track/0IBhXEEKXhv0bdpboaw5M3) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Frenia](https://open.spotify.com/album/6DtziobPePcdasV0uUycOn) | 4:14 | 2023-07-14 |  |
 | [Saori / “Hematomas”](https://open.spotify.com/track/0mdxg9ZZRQjbIzYV0cl27J) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [Saori / “Hematomas”](https://open.spotify.com/album/7wBj5k4VscRKGeHGgmKNSL) | 3:37 | 2024-10-18 |  |

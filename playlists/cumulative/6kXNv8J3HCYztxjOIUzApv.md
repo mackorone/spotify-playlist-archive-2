@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-328 songs - 20 hr 23 min
+331 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [FREEFALL \(feat\. Chris Daughtry\)](https://open.spotify.com/track/2gjgAWkkeM8u849gkTV9ow) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [CARNAL \(Deluxe\)](https://open.spotify.com/album/6bo0qsybdHj6lP2Hr0flUj) | 3:46 | 2025-03-28 |  |
 | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/track/5yLQ9epAVnt9Tx19izzDI5) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/album/3pSmwSKb6XLN4WtYI5knKB) | 3:14 | 2021-08-20 |  |
 | [Full Circle](https://open.spotify.com/track/11PKEBCjw8OCK5YUo9vm0H) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Full Circle](https://open.spotify.com/album/3NbMetTUDydMRSTJzAG7MU) | 3:22 | 2021-08-20 |  |
+| [Gasoline](https://open.spotify.com/track/28BrHsuOJiA3SKrlnlzaUc) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Villainous](https://open.spotify.com/album/4gae2cFWCoGhohWbZmXNvR) | 3:05 | 2026-07-10 |  |
 | [Gasoline](https://open.spotify.com/track/6Q1m1GyNxyOwZ2ud3p7XoS) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 2:33 | 2022-01-24 | 2024-04-10 |
 | [Generation Psycho](https://open.spotify.com/track/77UBXLVoE90TpVmUKsgjGx) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Generation Psycho](https://open.spotify.com/album/6env54gj95TlpdQEMDXRKk) | 3:49 | 2023-08-04 |  |
 | [Go To War](https://open.spotify.com/track/1mU8A0bKStnhYuS043o6Je) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Go To War](https://open.spotify.com/album/3iN7zyUi2NQuc2BSJLhbd4) | 4:05 | 2021-08-20 |  |
@@ -256,8 +257,10 @@
 | [STUCK \(feat\. Sinizter\)](https://open.spotify.com/track/6krmuuApbHM1tFhH8Cjhw8) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [CARNAL](https://open.spotify.com/album/0ivYaIK4SxXpiSiKXTNvtF) | 3:29 | 2024-06-28 |  |
 | [Stupify](https://open.spotify.com/track/54cWVWqgyFukgDKQYmaKM3) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness \(10th Anniversary Edition\)](https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y) | 4:34 | 2021-08-20 |  |
 | [Suffocate City \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/0BgznXTc2uhAWCNAkhyzi9) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Spencer Charnas](https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe) | [Suffocate City \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/7z3Kvn354BUVFPRjl7jnOB) | 3:33 | 2024-06-21 |  |
+| [Survive My Scars](https://open.spotify.com/track/6DAFZIDtgN8jEyvTRgCsNj) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Villainous](https://open.spotify.com/album/4gae2cFWCoGhohWbZmXNvR) | 3:26 | 2026-07-10 |  |
 | [Survivor](https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [Survivor](https://open.spotify.com/album/0wd0kpwyXuWwYoblV4oCDs) | 3:13 | 2023-02-22 | 2024-04-10 |
 | [Take What You Want](https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Take What You Want](https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw) | 2:26 | 2025-07-11 |  |
+| [Teeth](https://open.spotify.com/track/6AfO1z409Tf4xivfYUJnXD) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Villainous](https://open.spotify.com/album/4gae2cFWCoGhohWbZmXNvR) | 2:36 | 2026-07-10 |  |
 | [Templars](https://open.spotify.com/track/1OtLNenkGkCDsVLGCgMtpj) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Templars](https://open.spotify.com/album/3WnVO32cbBRfKynknZ5XcI) | 4:54 | 2025-05-21 |  |
 | [The American Nightmare](https://open.spotify.com/track/04K2bMi2vyOBwxr5EjDq5O) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Silver Scream](https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz) | 4:09 | 2022-01-24 |  |
 | [The Boom Went The Boom \(feat\. Phil Collen\)](https://open.spotify.com/track/5kC045Ohl32Sn4a2vOjsUt) | [Crossbone Skully](https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd), [Phil Collen](https://open.spotify.com/artist/5ZedcFUHfB6ejLwD668YpN) | [The Boom Went The Boom \(feat\. Phil Collen\)](https://open.spotify.com/album/5V36Ru7RN4gc8bAWEnKODF) | 3:39 | 2023-10-06 |  |

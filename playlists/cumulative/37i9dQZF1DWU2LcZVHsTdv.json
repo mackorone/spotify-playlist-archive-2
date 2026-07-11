@@ -3161,6 +3161,28 @@
     },
     {
       "album": {
+        "name": "Stars (Blue Hour Deluxe)",
+        "url": "https://open.spotify.com/album/3OMBUTRjGHezf7PxuRsO6c"
+      },
+      "artists": [
+        {
+          "name": "Drew Baldridge",
+          "url": "https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5"
+        },
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217693,
+      "name": "Maker's Mark",
+      "url": "https://open.spotify.com/track/4kqqJb2dXFcZM7fy3SCzVM"
+    },
+    {
+      "album": {
         "name": "My Jesus",
         "url": "https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q"
       },

@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Dynamo
 
-690 songs - 1 day 15 hr 41 min
+691 songs - 1 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [Na Mão de Deus](https://open.spotify.com/track/7peoL9wdbTDcxTvJVAujOQ) | [Ney Chiqui](https://open.spotify.com/artist/5GX4z0504g82P9Lvz8rcmx), [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD), [Smile Drama Beatz](https://open.spotify.com/artist/2VrG6aXJNPMwOt7nyOlHoz) | [Na Mão de Deus](https://open.spotify.com/album/5pby6fImgnFXdPsjsl7bRu) | 3:53 | 2025-11-21 | 2026-04-06 |
 | [Na tua Back \- Afro Love Remix](https://open.spotify.com/track/3WCKvFMwZvSlktfxRWyvq2) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Stephane Silva Dos Santos](https://open.spotify.com/artist/23jd0fVNwCP8zdInSnIvp9) | [Na tua Back \(Afro Love Remix\)](https://open.spotify.com/album/1IlGaHNPxLUvxzry42ojNS) | 2:31 | 2022-01-21 | 2022-02-04 |
 | [Na Via](https://open.spotify.com/track/0QUHa76fheJJ4dFetV2MhV) | [JP da Maika](https://open.spotify.com/artist/5SwwERvBGTyuz8UlXepZvr), [Sarissari](https://open.spotify.com/artist/3RxLhhb4DGlxpXnmSDqC8b) | [Na Via](https://open.spotify.com/album/5wp8n4cf3laS677a8a3MNZ) | 3:38 | 2021-12-10 | 2022-02-14 |
+| [Namora Com O Telefone](https://open.spotify.com/track/6cGcgAvBwT6EFukPAuRTBj) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Onde Está Meu Amor?](https://open.spotify.com/album/2vUcpGS0RvO6WzxuYD6OJf) | 3:01 | 2026-07-10 |  |
 | [Namorado](https://open.spotify.com/track/7zCeVehMXKAOiZ0YYl0wEG) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr) | [Namorado](https://open.spotify.com/album/39pBAZBtmSzLborWcGy8Pc) | 3:23 | 2025-10-23 | 2026-05-10 |
 | [Nao E Novidade](https://open.spotify.com/track/1P6rFn5OaGs2p3fAMoroJS) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Skuco](https://open.spotify.com/artist/4nLc6AQhRPQKGWc615P1B6), [Afroplug](https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK) | [Nao E Novidade](https://open.spotify.com/album/2n0wepikN8FdZILDc6lunj) | 4:28 | 2024-12-06 | 2024-12-21 |
 | [Nao Esquenta](https://open.spotify.com/track/4QVLxtwRgoTWVsV4Dzg7cB) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Tony Z](https://open.spotify.com/artist/1LQV4iAHmqsgD14kDSm3Pt) | [Nao Esquenta](https://open.spotify.com/album/2yjH1M4JGoIiaBKNbkfSIw) | 4:30 | 2025-09-11 | 2025-10-03 |
@@ -406,7 +407,7 @@
 | [Nice Life](https://open.spotify.com/track/1dz0JCJEABCDEteiusseLZ) | [J\. Winston7](https://open.spotify.com/artist/48fK11OLtwJ5swlV9oazwM), [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ) | [Nice Life](https://open.spotify.com/album/4xOnww5NikaipOVoxE0kNP) | 2:06 | 2024-10-17 | 2024-11-15 |
 | [No Bad Vibez](https://open.spotify.com/track/4Csfj1xoyB2e9KcbhRempz) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Mininu Di Oru](https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu) | 3:10 | 2021-12-10 | 2023-05-19 |
 | [NOSSA VIBE](https://open.spotify.com/track/0PG2mpoAD8kSYoXHThdxUN) | [Lupambo](https://open.spotify.com/artist/3VhkOgqrqw8bBm5PPJbHXA), [Emilly Quirino](https://open.spotify.com/artist/6Eke2i3EEqJksjVaiX40Sm) | [NOSSA VIBE](https://open.spotify.com/album/7rNbUICAdn0aX1R8ILvKqQ) | 3:38 | 2024-07-11 | 2024-08-24 |
-| [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/track/0ty1TRfXkmeQj8jIyYA1vE) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Ary](https://open.spotify.com/artist/3POxlshfzeJs7SiHhl24ST) | [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/album/3VRpKagyNwZ57LGI4otjpw) | 3:20 | 2021-12-10 |  |
+| [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/track/0ty1TRfXkmeQj8jIyYA1vE) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Ary](https://open.spotify.com/artist/3POxlshfzeJs7SiHhl24ST) | [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/album/3VRpKagyNwZ57LGI4otjpw) | 3:20 | 2021-12-10 | 2026-07-11 |
 | [Not An Angel](https://open.spotify.com/track/06mZxnffGe3vWuzXZv8W72) | [Dj Ademar](https://open.spotify.com/artist/1cvPuORQS4Mihsv28cWjpX), [Kelly Gomez](https://open.spotify.com/artist/3GL6wL382evWB4laoYuiJE) | [Not An Angel](https://open.spotify.com/album/6fLA8Gne6asnnTcyr4aYyA) | 2:51 | 2025-01-10 | 2025-01-25 |
 | [Novinha](https://open.spotify.com/track/2cmUALNtYgeliYg5SowpRf) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Novinha](https://open.spotify.com/album/1QON4WuMFqar4TTVjyWlEN) | 3:09 | 2022-11-04 | 2022-11-18 |
 | [Novinha](https://open.spotify.com/track/3YgyXiZE0E68EYvWDQ2RZd) | [Tamyris Moiane](https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g), [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ) | [Novinha](https://open.spotify.com/album/4RgA2js3fUyRfOX9No2Xrs) | 3:30 | 2022-12-09 | 2024-10-04 |

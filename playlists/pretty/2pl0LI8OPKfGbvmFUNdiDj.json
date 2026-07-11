@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 1000,
+  "num_followers": 1002,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAEH1bG/UET7hisUV9s50IZRx1uruQI",
+  "snapshot_id": "AAAEISw45rRa1trfFlWvXKph3qg46jt1",
   "tracks": [
     {
       "added_at": "2026-06-05 18:13:27",
@@ -1199,6 +1199,38 @@
       "duration_ms": 177293,
       "name": "Frequency",
       "url": "https://open.spotify.com/track/6fFANLe45lolpWyZJWy175"
+    },
+    {
+      "added_at": "2026-07-10 15:51:50",
+      "album": {
+        "name": "\u0412\u0440\u0435\u0434\u043d\u044b\u0435 \u043f\u0440\u0438\u0432\u044b\u0447\u043a\u0438",
+        "url": "https://open.spotify.com/album/4PZGbvYySz3OiyC5fH8ukp"
+      },
+      "artists": [
+        {
+          "name": "AVISHA",
+          "url": "https://open.spotify.com/artist/4UjgtBaKmWqr2hTnSZRvS5"
+        }
+      ],
+      "duration_ms": 143060,
+      "name": "\u0412\u0440\u0435\u0434\u043d\u044b\u0435 \u043f\u0440\u0438\u0432\u044b\u0447\u043a\u0438",
+      "url": "https://open.spotify.com/track/6IVb14z4hVAg6ZXys0OvYE"
+    },
+    {
+      "added_at": "2026-07-10 15:57:48",
+      "album": {
+        "name": "Silencio y v\u00e9rtigo",
+        "url": "https://open.spotify.com/album/4Q8VjxMQTSGXQ8UCEw2zHz"
+      },
+      "artists": [
+        {
+          "name": "Alicia Castillo",
+          "url": "https://open.spotify.com/artist/75DS5VXEOn1wHK8Y5PdTBM"
+        }
+      ],
+      "duration_ms": 182774,
+      "name": "La valiente",
+      "url": "https://open.spotify.com/track/7hojzEYFzsIFNcsoD8ElWD"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

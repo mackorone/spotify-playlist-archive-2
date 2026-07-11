@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 178433,
+  "num_followers": 178440,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -683,18 +683,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Music To Watch Girls By - The Classics",
-        "url": "https://open.spotify.com/album/02F3n1WpxDOwGNX6fLP6to"
+        "name": "The Best of Don Cherry",
+        "url": "https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4"
       },
       "artists": [
         {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+          "name": "Don Cherry",
+          "url": "https://open.spotify.com/artist/3uOUFs61rANc8dETV3OfID"
+        },
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
         }
       ],
-      "duration_ms": 150573,
-      "name": "Mambo Italiano",
-      "url": "https://open.spotify.com/track/5fTLxkGtPTcqgEY88AeB5r"
+      "duration_ms": 155066,
+      "name": "Band of Gold (with Ray Conniff & His Orchestra & Chorus)",
+      "url": "https://open.spotify.com/track/1cn68NZRQSnergWSf1o1hd"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -715,22 +719,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Best of Don Cherry",
-        "url": "https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4"
+        "name": "Music To Watch Girls By - The Classics",
+        "url": "https://open.spotify.com/album/02F3n1WpxDOwGNX6fLP6to"
       },
       "artists": [
         {
-          "name": "Don Cherry",
-          "url": "https://open.spotify.com/artist/3uOUFs61rANc8dETV3OfID"
-        },
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
         }
       ],
-      "duration_ms": 155066,
-      "name": "Band of Gold (with Ray Conniff & His Orchestra & Chorus)",
-      "url": "https://open.spotify.com/track/1cn68NZRQSnergWSf1o1hd"
+      "duration_ms": 150573,
+      "name": "Mambo Italiano",
+      "url": "https://open.spotify.com/track/5fTLxkGtPTcqgEY88AeB5r"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Single Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/1pmKZnDtUJACH85pfDAHDr"
-      },
-      "artists": [
-        {
-          "name": "The Four Preps",
-          "url": "https://open.spotify.com/artist/5MsnoFODDc5nxWrjm99Zew"
-        }
-      ],
-      "duration_ms": 143266,
-      "name": "Big Man",
-      "url": "https://open.spotify.com/track/0KayDFomB8iDyAdOpKfKTK"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Very Best Of",
         "url": "https://open.spotify.com/album/4KB7NVgy3aKibqM1VqHd84"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 118840,
       "name": "It's Late - Remastered 2001",
       "url": "https://open.spotify.com/track/4TAKO1uPQfnbioLdXUCUvY"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Single Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/1pmKZnDtUJACH85pfDAHDr"
+      },
+      "artists": [
+        {
+          "name": "The Four Preps",
+          "url": "https://open.spotify.com/artist/5MsnoFODDc5nxWrjm99Zew"
+        }
+      ],
+      "duration_ms": 143266,
+      "name": "Big Man",
+      "url": "https://open.spotify.com/track/0KayDFomB8iDyAdOpKfKTK"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Call The Midwife",
-        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
-      },
-      "artists": [
-        {
-          "name": "The Four Aces",
-          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Love Is A Many Splendoured Thing",
-      "url": "https://open.spotify.com/track/1p3Ae3lSSaJWCHHLrsFNKq"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Ruby Murray - Greatest Hits",
         "url": "https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 156373,
       "name": "I'll Come When You Call",
       "url": "https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Call The Midwife",
+        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
+      },
+      "artists": [
+        {
+          "name": "The Four Aces",
+          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Love Is A Many Splendoured Thing",
+      "url": "https://open.spotify.com/track/1p3Ae3lSSaJWCHHLrsFNKq"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Climb Every Mountain",
-        "url": "https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq"
-      },
-      "artists": [
-        {
-          "name": "Dickie Valentine",
-          "url": "https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev"
-        }
-      ],
-      "duration_ms": 169080,
-      "name": "Finger of Suspicion",
-      "url": "https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5W8G2sRRXvYTuuFu4Jinmc"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "All the Greatest Hits Ever Made, Vol. 2 (Remastered)",
-        "url": "https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR"
+        "name": "Climb Every Mountain",
+        "url": "https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq"
       },
       "artists": [
         {
-          "name": "Kay Starr",
-          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
+          "name": "Dickie Valentine",
+          "url": "https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev"
         }
       ],
-      "duration_ms": 170343,
-      "name": "Changing Partners - Remastered",
-      "url": "https://open.spotify.com/track/6xtJ7cccbNbmCiwk3NzIpB"
+      "duration_ms": 169080,
+      "name": "Finger of Suspicion",
+      "url": "https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1303,22 +1287,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/52dzyLWumJQhP25q0BCBRX"
+        "name": "All the Greatest Hits Ever Made, Vol. 2 (Remastered)",
+        "url": "https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR"
       },
       "artists": [
         {
-          "name": "Frankie Laine",
-          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
-        },
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+          "name": "Kay Starr",
+          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
         }
       ],
-      "duration_ms": 140253,
-      "name": "A Woman in Love (with Percy Faith & His Orchestra)",
-      "url": "https://open.spotify.com/track/51kNuqPnmllwTygxcMhC7P"
+      "duration_ms": 170343,
+      "name": "Changing Partners - Remastered",
+      "url": "https://open.spotify.com/track/6xtJ7cccbNbmCiwk3NzIpB"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1335,6 +1315,22 @@
       "duration_ms": 141520,
       "name": "He's Got the Whole World in His Hands",
       "url": "https://open.spotify.com/track/1P3ZqCqZVd2MTTTpM6GljU"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Best Of The 50's (Fifties)",
+        "url": "https://open.spotify.com/album/6IT0jEXEkvbJkgGQwFyOud"
+      },
+      "artists": [
+        {
+          "name": "Russ Hamilton",
+          "url": "https://open.spotify.com/artist/6ghW1DfBe5HLRybsxZrQHV"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "We Will Make Love",
+      "url": "https://open.spotify.com/track/2RwgGFFWJO0RzyM2VAOwWW"
     }
   ],
   "unique_name": "Easy 50s",

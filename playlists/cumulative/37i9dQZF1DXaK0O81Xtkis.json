@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop, soda featuring Ruel",
+  "description": "a little indie, a little pop, soda featuring Cody Simpson",
   "name": "soda",
   "tracks": [
     {
@@ -714,6 +714,24 @@
       "duration_ms": 210000,
       "name": "Adventure",
       "url": "https://open.spotify.com/track/3xgfy6l8SbBEOUtpAmcCQv"
+    },
+    {
+      "album": {
+        "name": "After The After Party",
+        "url": "https://open.spotify.com/album/5VEefYsBGDmyaHJzFfDrMj"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172135,
+      "name": "After The After Party",
+      "url": "https://open.spotify.com/track/0dYCy1JawuXIRXUuAkeFQj"
     },
     {
       "album": {
@@ -4632,7 +4650,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 149786,
       "name": "Charlotte",
       "url": "https://open.spotify.com/track/5UrxRPPKl5EiLy1RTbobZl"
@@ -5101,6 +5119,24 @@
     },
     {
       "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/1uoKxHMga3HiU4FSMiEnhO"
+      },
+      "artists": [
+        {
+          "name": "Oliver Cronin",
+          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169787,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/18JreoG6GFSHxQKM5ONngp"
+    },
+    {
+      "album": {
         "name": "Closure feat. Calica",
         "url": "https://open.spotify.com/album/1JoKaXrvdh5FbP2nB6VB5R"
       },
@@ -5156,7 +5192,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 208719,
       "name": "Clueless (feat. Aly & AJ)",
       "url": "https://open.spotify.com/track/2MPzUXWuyMkO8UwSRSIRsl"
@@ -7178,7 +7214,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 163246,
       "name": "DOES GOD HOLD GRUDGES?",
       "url": "https://open.spotify.com/track/2aQWVAmzgGljv8a7PJteXC"
@@ -9277,6 +9313,24 @@
     },
     {
       "album": {
+        "name": "Fluent",
+        "url": "https://open.spotify.com/album/4xVe4dRqYKxxzx4HmoV7WA"
+      },
+      "artists": [
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112353,
+      "name": "Fluent",
+      "url": "https://open.spotify.com/track/5RmvYROdCmvdUsO1AFNd3q"
+    },
+    {
+      "album": {
         "name": "Foolish",
         "url": "https://open.spotify.com/album/1MKF7YY7sSoNFqA5muU38C"
       },
@@ -10958,7 +11012,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 152508,
       "name": "Hate Myself",
       "url": "https://open.spotify.com/track/7DmTGp8xqD7TeuFKU7230f"
@@ -25054,6 +25108,24 @@
       "duration_ms": 164911,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/1Y9ewybegCoWaDE1wDcsxX"
+    },
+    {
+      "album": {
+        "name": "Take My Hand (And We Can Go Walking)",
+        "url": "https://open.spotify.com/album/3vEil7TM55Yn31U2z3T0eM"
+      },
+      "artists": [
+        {
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149453,
+      "name": "Take My Hand (And We Can Go Walking)",
+      "url": "https://open.spotify.com/track/5VlHLywMvMonk1xNz1Ok2H"
     },
     {
       "album": {

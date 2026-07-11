@@ -1541,6 +1541,24 @@
     },
     {
       "album": {
+        "name": "Hasta un ciego puede ver",
+        "url": "https://open.spotify.com/album/49LNdDhxC2MJ63s0viREq3"
+      },
+      "artists": [
+        {
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158804,
+      "name": "Hasta un ciego puede ver",
+      "url": "https://open.spotify.com/track/1tvLW0hM0pHKwL7LGG5oqD"
+    },
+    {
+      "album": {
         "name": "Headshot",
         "url": "https://open.spotify.com/album/2Pkx40wbmgdriBo3t199TV"
       },

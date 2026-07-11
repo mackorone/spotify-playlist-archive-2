@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯<br/>Photo : BINO\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,846 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,333 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [REALOVE](https://open.spotify.com/track/4YNiKGDWsWPzUS7XFnLqxo) | [Tieums](https://open.spotify.com/artist/09LApfSn8eH7xMWcpVV6c5) | [REALOVE](https://open.spotify.com/album/0Ve88ve7IGJNqgEGPxU9CI) | 2:32 |
 | 50 | [Oublier](https://open.spotify.com/track/3j72wtC2S5bZ8AKIEdT4hH) | [Mishaël](https://open.spotify.com/artist/7967X4fzzyLLDsw9kiJUPu) | [Oublier](https://open.spotify.com/album/339B0RklgGgH3oe6z1oFC2) | 2:25 |
 
-Snapshot ID: `AAAAAO6NHcSiFJe1f+1hs0pBIde2A5ed`
+Snapshot ID: `AAAAAPLK33H9mK8AOJ6VPtkG+uPrI7/V`

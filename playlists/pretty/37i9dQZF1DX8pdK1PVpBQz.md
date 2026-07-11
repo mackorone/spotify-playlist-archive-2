@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Ownlife
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,096 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,095 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 23 | [Punish](https://open.spotify.com/track/4o4QEtyFluglGxzRG114We) | [The Engine](https://open.spotify.com/artist/5i3cjWes0xYvWVPH6R2Fah) | [Punish / Years of Carnival](https://open.spotify.com/album/367LnvzdH5f3SXfq3EFBBF) | 4:00 |
 | 24 | [Sweet Boy](https://open.spotify.com/track/24UKgQDbtPkNseU4T0oejv) | [d.b\. longing](https://open.spotify.com/artist/3Q6vER5P17ZxRJqLZJSK8X) | [Sweet Boy](https://open.spotify.com/album/7GGo7ibPtVoc31llggZIgU) | 5:03 |
 | 25 | [Massive \(feat\. Uffie\)](https://open.spotify.com/track/53aykf6d6UVPFqpHeJxQIF) | [Gregor McMurray](https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Massive \(feat\. Uffie\)](https://open.spotify.com/album/7rI6WONDVZzfG1eWc19VMn) | 3:16 |
-| 26 | [It's All In My Head](https://open.spotify.com/track/1nDOj9RshykaZHUJT79QTU) | [Noah Hill](https://open.spotify.com/artist/5InLQMvQHRNks5rVkl56M8), [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [It's All In My Head](https://open.spotify.com/album/5YxfEVBhAcrNVkPdpxrASb) | 3:39 |
+| 26 | [It's All In My Head](https://open.spotify.com/track/1nDOj9RshykaZHUJT79QTU) | [Noah Hill](https://open.spotify.com/artist/5InLQMvQHRNks5rVkl56M8) | [It's All In My Head](https://open.spotify.com/album/5YxfEVBhAcrNVkPdpxrASb) | 3:39 |
 | 27 | [Spiders](https://open.spotify.com/track/5EoIK57x7sJBb88exsyc6R) | [Trophy Wyfe](https://open.spotify.com/artist/6wIZ4daFx49ebqoHMkYlfm) | [Spiders](https://open.spotify.com/album/1yCvyXDSSfx8l11wvfJDPn) | 4:16 |
 | 28 | [Push Through](https://open.spotify.com/track/1WcGvyxLZYr3TVxKgOLakR) | [Darcy Lane](https://open.spotify.com/artist/2Jp7AC0nIPSgOFOeX6N4Uh) | [Push Through](https://open.spotify.com/album/5qjCjTSrAtjzIvnOr7L7eZ) | 2:50 |
 | 29 | [Raincoat](https://open.spotify.com/track/4GsiP7CtrpFuq5KBcTBg4Y) | [David Grey](https://open.spotify.com/artist/06W41FIA9jGjGvEXonnrfC), [Sidney Phillips](https://open.spotify.com/artist/0S3fNZXYsaHufrQq3GsO2T), [lil ket](https://open.spotify.com/artist/4eRIX5JhG8gg3Hk5T9EqJ7) | [Raincoat](https://open.spotify.com/album/1e69rlMBqD7VkiQVrvbn5U) | 1:53 |

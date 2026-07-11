@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,516 songs - 10 day 2 hr 5 min
+4,521 songs - 10 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,6 +542,7 @@
 | [Can't get enough](https://open.spotify.com/track/5tSKv5MADPzOAkMMXjnyXp) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [M.I.A](https://open.spotify.com/album/5QhTvdYyeFXWGdgCCScKQu) | 1:43 | 2026-01-17 |  |
 | [Can't Get You Outta My Head Pop dance](https://open.spotify.com/track/4l4CfozPcSOSmHtR6THMG9) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop dance](https://open.spotify.com/album/33S1j3WtgTLGLj1UwJFgj9) | 3:04 | 2025-09-14 |  |
 | [Can't Get You Outta My WiFi Pop dance](https://open.spotify.com/track/0LtsXt3sHXuf5cwcr48NTq) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop dance](https://open.spotify.com/album/33S1j3WtgTLGLj1UwJFgj9) | 3:04 | 2025-09-14 |  |
+| [Can't Look Away](https://open.spotify.com/track/6ht9nXdja6vpqf8KNp4I7Y) | [Brother Venus](https://open.spotify.com/artist/45ZPkbeHuBIsgk4fzjmg3R) | [Can't Look Away](https://open.spotify.com/album/1b3XRpIuFCqgfuvBtYRHt8) | 4:47 | 2026-07-10 |  |
 | [Can't please everyone \- Instrumental Version](https://open.spotify.com/track/1oP15C9FCim2Y6VKFAjJbE) | [Bryte London](https://open.spotify.com/artist/65cvaHkkZKLwKf59Iek0Z2) | [Can't please everyone \(Instrumental Versions\)](https://open.spotify.com/album/7cmbPn2zMRLL1gJf3UlTle) | 2:07 | 2025-07-02 |  |
 | [Can't Stand Me Now](https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j) | 3:23 | 2025-11-05 |  |
 | [Candy](https://open.spotify.com/track/5DTaHNU3NuOWSt3ngYAlWM) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [New Old Friends xx](https://open.spotify.com/album/56h5V73ud9WeiTURv7u5sv) | 2:51 | 2025-07-01 |  |
@@ -629,6 +630,7 @@
 | [Choke](https://open.spotify.com/track/7jm63qwHLmemNcMzORjwfi) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 3:02 | 2025-04-09 |  |
 | [Choke On Shame](https://open.spotify.com/track/3Uj9MWSuSluWsAwvLB9r5H) | [Wildchains](https://open.spotify.com/artist/6LTDVLBOAZYAcrn459uQf8) | [Choke On Shame](https://open.spotify.com/album/1PwPl6Nf3pfmr4gVvVu5SM) | 5:15 | 2025-07-10 |  |
 | [Chronic Riddim](https://open.spotify.com/track/5wxJToqppsSE2WHiFQ5AXB) | [Nahlaff](https://open.spotify.com/artist/08VbtbeP8MuixVpC8UA2cb) | [Chronic Riddim](https://open.spotify.com/album/40TUjTQYpTPlKhBHaHImHb) | 2:58 | 2025-06-04 |  |
+| [CHULERIA](https://open.spotify.com/track/4hwOCqPkTCHIuxfXLknt6r) | [Ares King](https://open.spotify.com/artist/3GkOybDIwGRVuBUT2P8SLf), [KID BOY](https://open.spotify.com/artist/1wjmPR7jrYn7AHipvh0EiA) | [CHULERIA](https://open.spotify.com/album/2OR28ltRsFU4HyFzQSAJl3) | 3:06 | 2026-07-10 |  |
 | [Ci risiamo un'altra volta](https://open.spotify.com/track/2OtEmNDqfCcqwafYJ8moiq) | [DreamerWild](https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj) | [Ci risiamo un'altra volta](https://open.spotify.com/album/6m6CUnDG0Wi5BerxGjWKG8) | 3:10 | 2026-02-13 |  |
 | [Ci sarai](https://open.spotify.com/track/0s4cfzcv94P0SvRaDPpnlK) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Sfumature](https://open.spotify.com/album/7Fa4EGBXkuhP8OoyRCZKuP) | 3:20 | 2021-03-03 |  |
 | [Ci sta](https://open.spotify.com/track/6NiClK8naWXm3bri5iJ1Ek) | [Ipork](https://open.spotify.com/artist/59VRKsEybDMETmxpTA48pV) | [Ci sta](https://open.spotify.com/album/5FW6bOE25iwxbW60zLZrP4) | 2:39 | 2025-07-30 |  |
@@ -1124,6 +1126,7 @@
 | [Dudka \- Part 2](https://open.spotify.com/track/4mZNTOA6ynviWkAvVi0c49) | [murCATolog](https://open.spotify.com/artist/2KoZ9RKRH2ktVlVpDEUoYj) | [Dudka \(Part 2\)](https://open.spotify.com/album/2w5EAX7JPMrgoQzvonZ5vm) | 3:16 | 2025-06-04 |  |
 | [Due Innamorati](https://open.spotify.com/track/2rkSG0CGmcb3881Bh8szto) | [Dario Corso](https://open.spotify.com/artist/2UKPaa2TFpjhsquHhmT4wS) | [Refresh](https://open.spotify.com/album/21olQRhKm8So40Qyrs0A1t) | 3:40 | 2025-07-16 |  |
 | [Due Innamorati](https://open.spotify.com/track/2t7ebxHytEsf3fFv0nPCU9) | [Dario Corso](https://open.spotify.com/artist/2UKPaa2TFpjhsquHhmT4wS) | [Due Innamorati](https://open.spotify.com/album/2JspLoACF3k2o3QufjHrpg) | 3:40 | 2025-06-06 |  |
+| [Duele el corazón](https://open.spotify.com/track/2Duv17ntvAuSIPuA5FtBSC) | [Martino Stripoli](https://open.spotify.com/artist/5UdNN2pxDMK4USUqEqWUku) | [Duele el corazón](https://open.spotify.com/album/7xbYT0lkUICUnrNM1OHzzT) | 3:40 | 2026-07-10 |  |
 | [Dull Ache](https://open.spotify.com/track/7kpQipHFFvcd8QKV3sDAGZ) | [Baggio](https://open.spotify.com/artist/09BAtNGbVY28JVIMogdFEw) | [The Dreadful Human Tangle](https://open.spotify.com/album/1dLfUAhmwNeao05eZ09gAE) | 7:36 | 2025-11-04 |  |
 | [Dundee](https://open.spotify.com/track/5hrRn9yFLTXE21tFfVUBaG) | [Proudly Sure](https://open.spotify.com/artist/2lmsWZS9JJ97pMdbWChF0B) | [Dundee](https://open.spotify.com/album/5ENZEJ2chMfA5YxcGS070h) | 2:38 | 2025-06-04 |  |
 | [Dune Buggy](https://open.spotify.com/track/63dcLsFoDziUX6eggW5l0w) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1) | 2:44 | 2025-12-04 |  |
@@ -1876,6 +1879,7 @@
 | [I DID IT \(w/ Kanii & Anycia\)](https://open.spotify.com/track/4EjpTKFTO6MaCK0Lx5Y1hq) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [I DID IT \(w/ Kanii & Anycia\)](https://open.spotify.com/album/36C2ZuAPEWKfTps7yIG1oB) | 2:39 | 2025-07-28 |  |
 | [I Don't Belong Here](https://open.spotify.com/track/3yuhoF0xO4cxMyCjO0FHvs) | [Mr\. ES DE](https://open.spotify.com/artist/4Z5lr0Gnbgvi2k1knMvc7P) | [I Don't Belong Here](https://open.spotify.com/album/6HGpw7lAuWDwKWFjqYGW9p) | 2:22 | 2026-02-13 |  |
 | [I Enjoy](https://open.spotify.com/track/5dBI4K5goclLzsV7mu7mUw) | [Nyakstar](https://open.spotify.com/artist/4sIGvBMOHQSdtFKsE8JAIT) | [I Enjoy](https://open.spotify.com/album/7DEcbvAc0faCvQrM6n8bVD) | 2:30 | 2025-06-11 |  |
+| [I Fear Alone](https://open.spotify.com/track/5SA7OQX7g9dRQlmZfMYrzu) | [Kerem Berk](https://open.spotify.com/artist/54oQs8WbSCHvoqZ2mlVL0C) | [I Fear Alone](https://open.spotify.com/album/1hiUOjMAVXRkQv6EinfkT1) | 2:50 | 2026-07-10 |  |
 | [I Feel Good](https://open.spotify.com/track/7c4xH2X2ht6LN26G7TRa3S) | [Brian Grey](https://open.spotify.com/artist/3pPN42kSubPiCcWQfuCHF2) | [I Feel Good](https://open.spotify.com/album/4g9E1R8MCCsiisYAjQ7t4q) | 2:43 | 2026-01-08 |  |
 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 | 2025-11-05 |  |
 | [I Hate Monday](https://open.spotify.com/track/6oTd5bzWCSi9dfbn3HM4SF) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [I Hate Monday](https://open.spotify.com/album/7iXzV2gasEC3pzcyM3znCU) | 2:55 | 2025-06-22 |  |
@@ -2971,6 +2975,7 @@
 | [Passacaglia](https://open.spotify.com/track/6v8J04r5YMwizn1vDsZUeR) | [Mauro Tudino](https://open.spotify.com/artist/1oeoZXpqKTC8Y62yrALSC9) | [Passacaglia](https://open.spotify.com/album/2TkoialBdfIRVNP1tjWDsi) | 1:31 | 2025-06-04 |  |
 | [Passion for the past](https://open.spotify.com/track/6uax7VhWFGN2xzpWVH6i8k) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [80's music inspired](https://open.spotify.com/album/52EpTauHULa82DwbMx0Pdh) | 3:49 | 2025-08-28 |  |
 | [Patience](https://open.spotify.com/track/5j3ivBCTU5U4OBljFq8p9R) | [Wretched Things](https://open.spotify.com/artist/6bq9LPNfltcBgpvfdtTWwk) | [Patience](https://open.spotify.com/album/03FHkDM2h58AFvohS2S8pw) | 4:05 | 2026-06-23 |  |
+| [PATOS CC](https://open.spotify.com/track/648C7TraL2tsvLeiCZSSOD) | [Mi novio dramático](https://open.spotify.com/artist/3VSmete7hOiLQadWOyyGf7) | [PATOS CC](https://open.spotify.com/album/1SvxwxVo127NT16QEji43F) | 2:52 | 2026-07-10 |  |
 | [PCC](https://open.spotify.com/track/0pbJZFqKWVBmpqqeta8yCg) | [Osah](https://open.spotify.com/artist/1AeKlQFE3f4jMoiJyuhyM1), [ROM D\. ODSU](https://open.spotify.com/artist/3bHFJ6BT2BeXUSYq9Bqi2u) | [PCC](https://open.spotify.com/album/1rpolSpCnwHA214aX8RJGr) | 2:51 | 2025-06-05 |  |
 | [Peacemakers](https://open.spotify.com/track/7K8F1C4dcNao9gJOUiR8mc) | [Miguel De La Wiest](https://open.spotify.com/artist/26hbbPnAg9VCscmcsIGXY6) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/1k7DZX3OogiMcHFOjTOtFQ) | 4:38 | 2026-01-12 | 2026-01-26 |
 | [PEGGIOXTE](https://open.spotify.com/track/0bA7T5mSWQrpk9Pmml2UFD) | [Klaudia DG](https://open.spotify.com/artist/0WyWixivFk2XT2nn8WTJRZ) | [PEGGIOXTE](https://open.spotify.com/album/5sqbsO1hpRKfaTtpvS1ufc) | 3:18 | 2025-06-24 |  |

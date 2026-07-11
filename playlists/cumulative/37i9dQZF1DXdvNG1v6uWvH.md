@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Teddy Swim, Séra Bjössi, REA, Haski og mörgum fleiri!
 
-11,450 songs - 25 day 14 hr 44 min
+11,451 songs - 25 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4403,6 +4403,7 @@
 | [Hold Me Down](https://open.spotify.com/track/6GuUPu0gwoRmebyWhnPHXP) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hold Me Down](https://open.spotify.com/album/16MadKxDyuPRn8QUiWQFza) | 3:31 | 2025-05-09 | 2025-05-16 |
 | [Hold Me In The Dark](https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Hold Me In The Dark](https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg) | 3:17 | 2026-05-08 | 2026-05-15 |
 | [Hold Me Tight](https://open.spotify.com/track/1EZ3OFYIJrKNY5N2ZHw39l) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Hold Me Tight](https://open.spotify.com/album/4j4Wny0imbaZ6lEuJ0PQu8) | 2:58 | 2025-01-31 | 2025-02-07 |
+| [Hold My Breath](https://open.spotify.com/track/4FOdgYVV5xaMjY0NCZoFEu) | [Albi](https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Hold My Breath](https://open.spotify.com/album/540DKCihQemJiYBN9AFi4m) | 2:20 | 2026-07-10 |  |
 | [Hold My Hand](https://open.spotify.com/track/1GQJUqQcUVwGU8NgCPywvL) | [Parana](https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv) | [Hold My Hand](https://open.spotify.com/album/6wfUGdWF1qpvMtrANVj4TA) | 2:56 | 2026-02-20 | 2026-02-27 |
 | [Hold My Hand](https://open.spotify.com/track/3tTdrfAf26i1px0iRSvpKq) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Hold My Hand](https://open.spotify.com/album/0T0yrlXZzVERl5UPClQweD) | 3:44 | 2025-01-31 | 2025-02-07 |
 | [Hold On](https://open.spotify.com/track/5HEx0ZwJEmZhvjlrMYnSuf) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [Hold On](https://open.spotify.com/album/7d9whArUbh3cK93jfmS3Ui) | 2:18 | 2024-05-10 | 2024-05-17 |
@@ -8333,6 +8334,7 @@
 | [SAMA STAÐ](https://open.spotify.com/track/2OsoevMcTEnAteJoQ9awnF) | [Nóri](https://open.spotify.com/artist/5uZdS2OHWehz1L4ud3sQFv) | [SAMA STAÐ](https://open.spotify.com/album/7F7wsk4SlQvl1rwuJT7ZTz) | 4:05 | 2025-05-16 | 2025-05-23 |
 | [Samba Elétrico](https://open.spotify.com/track/4jxXxACzEGCglZI6neTIjZ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Samba Elétrico](https://open.spotify.com/album/0iL6qq5VydTtkNZfnOl1oM) | 2:30 | 2025-01-03 | 2025-01-10 |
 | [Same Kids](https://open.spotify.com/track/0THMUz0ygpsYVijF1DIkLm) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Same Kids](https://open.spotify.com/album/07s6cD5W72Kxf31gHu2hIE) | 3:31 | 2025-10-17 | 2025-10-25 |
+| [Same Old](https://open.spotify.com/track/1dgU0WemJ842gCJj7iyEoq) | [Freyr](https://open.spotify.com/artist/0XEC2bQgKvaq09BZFPDA9y) | [New Man](https://open.spotify.com/album/2JP7EIbTweYKgL3d2F9qEZ) | 2:24 | 2026-07-10 |  |
 | [Same Old Place](https://open.spotify.com/track/4QAtwGpI8jfw6Nt310amxZ) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [Same Old Place](https://open.spotify.com/album/4QVK662xvR1pinZlAMLHZh) | 3:31 | 2024-12-13 | 2024-12-20 |
 | [Same Old Song](https://open.spotify.com/track/7fgBaZMKj1KIftugsmBrkB) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic \(Preview\)](https://open.spotify.com/album/7jnh9Dv3ocxLzYmf8kAL4p) | 2:54 | 2025-01-10 | 2025-01-17 |
 | [Same Page](https://open.spotify.com/track/59urXGUpl1LIsSx4hyYDNO) | [Jillian Loux](https://open.spotify.com/artist/3OyRtqli8hDzJHaFXJPQcu), [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Same Page](https://open.spotify.com/album/6GrXXh5gBPTIVllOz7deVd) | 3:52 | 2024-05-10 | 2024-05-17 |
@@ -10269,7 +10271,6 @@
 | [TOYBOY](https://open.spotify.com/track/0pu0wYSfAss9bofagK1A5T) | [Angela](https://open.spotify.com/artist/7eT4IZXb7W1FCsWO7u4l65) | [TOYBOY](https://open.spotify.com/album/1R7baT8Vnn3OTP4yl2fJg9) | 2:39 | 2026-05-01 | 2026-05-08 |
 | [Toys](https://open.spotify.com/track/4lBLNOs6Mm5PRrg6cbsA5o) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Toys](https://open.spotify.com/album/63r0qTkNROkVH1pYnoMzFB) | 4:26 | 2025-03-28 | 2025-04-04 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-29 | 2026-06-05 |
-| [Track 4](https://open.spotify.com/track/1dgU0WemJ842gCJj7iyEoq) | [Freyr](https://open.spotify.com/artist/0XEC2bQgKvaq09BZFPDA9y) | [New Man](https://open.spotify.com/album/2JP7EIbTweYKgL3d2F9qEZ) | 0:00 | 2026-07-10 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 | 2026-04-03 |
 | [Trailer In The Sky](https://open.spotify.com/track/0L0JLgaFwuPhCs7W9CzwRb) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Trailer In The Sky](https://open.spotify.com/album/5qcgrJD0LkQ9UoRTlKljJ9) | 2:45 | 2024-05-17 | 2024-05-24 |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-11 | 2025-04-18 |

@@ -4,7 +4,7 @@
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-174 songs - 7 hr 57 min
+175 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Frozen Worlds \- From "Our Planet"](https://open.spotify.com/track/27WdJeDTbwA8Hrqzq9kiDP) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 3:26 | 2025-11-26 | 2026-06-06 |
 | [Fueled Up and Headed South](https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:11 | 2023-08-04 |  |
 | [Fury Drives Into Camp](https://open.spotify.com/track/2NXeTH7dHhHP1HaO8plidQ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 1:50 | 2023-08-04 | 2025-11-30 |
+| [Ghost in the Frame](https://open.spotify.com/track/2JqrmLQPpIrOTwY8WEiPI8) | [Jesse L\. Martin](https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I), [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ghost in the Frame](https://open.spotify.com/album/4WeKqfgARZQxuU33cpqjww) | 3:20 | 2026-07-11 |  |
 | [Glitching](https://open.spotify.com/track/7aFIki4tvfvdAO0Z3YaU3W) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Long Distance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G) | 1:42 | 2025-10-03 | 2025-10-29 |
 | [Gravity](https://open.spotify.com/track/2mFea4DOhY3iShay4BQ0se) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 4:35 | 2023-08-04 |  |
 | [Great Rolling Waves \- From "Our Planet"](https://open.spotify.com/track/4wy0e7gAn5lAlRu7PXoLqn) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 6:36 | 2025-12-01 |  |
@@ -89,7 +90,7 @@
 | [Keep Talking](https://open.spotify.com/track/4MZh8DuykJ5lH1cuk9w0wu) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Long Distance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G) | 1:44 | 2025-10-05 | 2026-02-16 |
 | [Life's Talent For Change](https://open.spotify.com/track/27Q2SjswXjzfZVWlBR5Z4e) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 5:03 | 2024-08-10 | 2026-06-02 |
 | [Lifeless Again](https://open.spotify.com/track/7dOrs9015T264sTjQj09E8) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 1:57 | 2023-08-04 | 2023-08-14 |
-| [Like the Sea Is Breathing](https://open.spotify.com/track/1RXuoOVAufKpauBFcLy8Bt) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 2:25 | 2023-08-04 |  |
+| [Like the Sea Is Breathing](https://open.spotify.com/track/1RXuoOVAufKpauBFcLy8Bt) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 2:25 | 2023-08-04 | 2026-07-11 |
 | [Machine](https://open.spotify.com/track/0do2y0LcH11sW4DECngxcv) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 3:21 | 2024-04-19 |  |
 | [Magdelana Bay](https://open.spotify.com/track/14EGEC0fZ9xFEXL3UG71cN) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Eternal Sky](https://open.spotify.com/album/12v7b7y08KYzVtrm9Xe697) | 3:17 | 2023-08-13 | 2026-03-03 |
 | [Majestic Submarine Forests \- From "Our Planet"](https://open.spotify.com/track/5MreM9BijX4ZHAuXXe8Yxz) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 2:28 | 2023-08-19 | 2023-08-31 |

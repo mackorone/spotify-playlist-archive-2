@@ -1,12 +1,12 @@
 {
   "description": "This is Intocable. The essential tracks, all in one playlist.",
-  "num_followers": 573025,
+  "num_followers": 573098,
   "original_name": "This Is Intocable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak2TAAAAAAChLrMmlL4snJwPGj3Sg92X",
+  "snapshot_id": "ak7kgAAAAABP2k2TH2sxLHVJqG9p7ysv",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es Para Ti",
-        "url": "https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 232693,
-      "name": "Est\u00e1s Que Te Pelas",
-      "url": "https://open.spotify.com/track/1rnjkfvu6h8aH1sYcXkjID"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuestro Destino Estaba Escrito",
         "url": "https://open.spotify.com/album/5XlC9twRLfKfmO0hMJAsmB"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 196213,
       "name": "Eso Duele",
       "url": "https://open.spotify.com/track/1iC61Hz52gDokQ8e4UBkwM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es Para Ti",
+        "url": "https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 232693,
+      "name": "Est\u00e1s Que Te Pelas",
+      "url": "https://open.spotify.com/track/1rnjkfvu6h8aH1sYcXkjID"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es Para Ti",
-        "url": "https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 210558,
-      "name": "D\u00e9jame Amarte",
-      "url": "https://open.spotify.com/track/5tzBmQr9EopzbPQjiMGFmK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Intocable",
         "url": "https://open.spotify.com/album/5Gr3x3xc7fYz6SALeFK7BH"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 204066,
       "name": "Amor Maldito",
       "url": "https://open.spotify.com/track/2awJPHamaNQY8a1davj5k4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es Para Ti",
+        "url": "https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 210558,
+      "name": "D\u00e9jame Amarte",
+      "url": "https://open.spotify.com/track/5tzBmQr9EopzbPQjiMGFmK"
     },
     {
       "added_at": null,

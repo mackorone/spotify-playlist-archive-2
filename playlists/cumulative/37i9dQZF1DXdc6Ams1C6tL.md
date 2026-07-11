@@ -2,7 +2,7 @@
 
 ### [Every UK Number One: 2026](https://open.spotify.com/playlist/37i9dQZF1DXdc6Ams1C6tL)
 
-> Sam Fender and Olivia Dean are back on top
+> "Rein Me In" is a record\-breaker 🏆
 
 50 songs - 2 hr 58 min
 

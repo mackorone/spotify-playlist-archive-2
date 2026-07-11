@@ -1,12 +1,12 @@
 {
   "description": "Electronic + Dance making waves, every month. Cover: TSHA, HoneyLuv & Ellie Maxwell",
-  "num_followers": 31928,
+  "num_followers": 31945,
   "original_name": "Electronic + Dance Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOXmOKXniTrsmR2ZjZ8PZg1JTSwM",
+  "snapshot_id": "AAAAAG7998SnTPWa3FOwfuI7ILJ081vM",
   "tracks": [
     {
       "added_at": "2026-06-26 04:01:13",
@@ -57,6 +57,26 @@
       "url": "https://open.spotify.com/track/30pPf3bjXSL07zF613iHLF"
     },
     {
+      "added_at": "2026-07-10 04:01:34",
+      "album": {
+        "name": "Get Me Down (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/7jtKstOvFpbqMAZzV5hDjC"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 194038,
+      "name": "Get Me Down (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/3b1YokXcQXYM5xH97Dp7UU"
+    },
+    {
       "added_at": "2026-06-26 04:01:13",
       "album": {
         "name": "Invisible",
@@ -75,6 +95,30 @@
       "duration_ms": 196622,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/2dt5AmiiAA7dOhE1xws9qY"
+    },
+    {
+      "added_at": "2026-07-10 04:01:34",
+      "album": {
+        "name": "PLZ HOLD (feat. Tkay Maidza)",
+        "url": "https://open.spotify.com/album/1R2M8bDvkMwoJ7hazDb8tD"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 145592,
+      "name": "PLZ HOLD (feat. Tkay Maidza)",
+      "url": "https://open.spotify.com/track/1vKQshIjVUhyg99UbCyeMp"
     },
     {
       "added_at": "2026-06-26 04:01:13",
@@ -129,6 +173,26 @@
       "url": "https://open.spotify.com/track/5o9ddwUhXw50hymQN26U90"
     },
     {
+      "added_at": "2026-07-10 04:01:34",
+      "album": {
+        "name": "the bridge",
+        "url": "https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "the bridge",
+      "url": "https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX"
+    },
+    {
       "added_at": "2026-06-26 04:01:13",
       "album": {
         "name": "Why Does It",
@@ -163,6 +227,26 @@
       "duration_ms": 182326,
       "name": "check check",
       "url": "https://open.spotify.com/track/287TkTdofAFvXB4EaT160W"
+    },
+    {
+      "added_at": "2026-07-10 04:01:34",
+      "album": {
+        "name": "Walter White",
+        "url": "https://open.spotify.com/album/19rcS3uaCIqEzFXfS94kTn"
+      },
+      "artists": [
+        {
+          "name": "Junior Simba",
+          "url": "https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn"
+        },
+        {
+          "name": "Manz",
+          "url": "https://open.spotify.com/artist/737If524ZtvW15VK4u5q1e"
+        }
+      ],
+      "duration_ms": 205227,
+      "name": "Walter White",
+      "url": "https://open.spotify.com/track/1htbje7tSIZTXgEKpqKr4Q"
     },
     {
       "added_at": "2026-06-26 04:01:13",
@@ -1255,34 +1339,6 @@
     {
       "added_at": "2026-06-26 04:01:13",
       "album": {
-        "name": "Afrika My Afrika",
-        "url": "https://open.spotify.com/album/1rUOxTpEkSvqRgqM1zsg9o"
-      },
-      "artists": [
-        {
-          "name": "Kenza",
-          "url": "https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi"
-        },
-        {
-          "name": "Atmos Blaq",
-          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
-        },
-        {
-          "name": "Citizen Deep",
-          "url": "https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM"
-        },
-        {
-          "name": "Mpho.Wav",
-          "url": "https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB"
-        }
-      ],
-      "duration_ms": 392547,
-      "name": "Afrika My Afrika",
-      "url": "https://open.spotify.com/track/63siScIvu0PyOOqSHPzcud"
-    },
-    {
-      "added_at": "2026-06-26 04:01:13",
-      "album": {
         "name": "e-Dancer",
         "url": "https://open.spotify.com/album/1DOxhcW2H1Hj1C9KIHKe6n"
       },
@@ -1427,22 +1483,6 @@
     {
       "added_at": "2026-06-26 04:01:13",
       "album": {
-        "name": "MR003",
-        "url": "https://open.spotify.com/album/1qPORCwEE3eMCEKO0YrZXl"
-      },
-      "artists": [
-        {
-          "name": "MoMa Ready",
-          "url": "https://open.spotify.com/artist/5X6LaznpXYDwhSt5eirvRV"
-        }
-      ],
-      "duration_ms": 250285,
-      "name": "GARDENS",
-      "url": "https://open.spotify.com/track/1yJcmlQon4EgznsSksQuGp"
-    },
-    {
-      "added_at": "2026-06-26 04:01:13",
-      "album": {
         "name": "Blue Sky (feat. LYZZA & SadBoi)",
         "url": "https://open.spotify.com/album/1gAXHK0ShArg1KBrOoKbwu"
       },
@@ -1483,42 +1523,6 @@
       "duration_ms": 234330,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/441ccqwRNDOt7MIKN2kAYh"
-    },
-    {
-      "added_at": "2026-06-26 04:01:13",
-      "album": {
-        "name": "DGTL ANML",
-        "url": "https://open.spotify.com/album/5NcVLMZkt5T1K0PdD2hyeQ"
-      },
-      "artists": [
-        {
-          "name": "LSDXOXO",
-          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
-        }
-      ],
-      "duration_ms": 226533,
-      "name": "PAPARAZZI",
-      "url": "https://open.spotify.com/track/1AdJ7n7C3R2CtiQjJfKHuH"
-    },
-    {
-      "added_at": "2026-06-26 04:01:13",
-      "album": {
-        "name": "Lift Off",
-        "url": "https://open.spotify.com/album/6yE8MgmmLOSmPWF2tNf2Xa"
-      },
-      "artists": [
-        {
-          "name": "Ron Trent",
-          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
-        },
-        {
-          "name": "Lars Bartkuhn",
-          "url": "https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW"
-        }
-      ],
-      "duration_ms": 767161,
-      "name": "Street Wave",
-      "url": "https://open.spotify.com/track/7wNSIsR4P9KocevzBFKoR8"
     }
   ],
   "unique_name": "Electronic + Dance Frequency",

@@ -4,7 +4,7 @@
 
 > 🌱 MARQ & JOSVA 🌱
 
-11,270 songs - 24 day 9 hr 24 min
+11,272 songs - 24 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4412,6 +4412,7 @@
 | [Hold Me Tight](https://open.spotify.com/track/1EZ3OFYIJrKNY5N2ZHw39l) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Hold Me Tight](https://open.spotify.com/album/4j4Wny0imbaZ6lEuJ0PQu8) | 2:58 | 2025-01-30 | 2025-02-07 |
 | [Hold Min Hånd \(feat\. Samantha Mercano\)](https://open.spotify.com/track/67Kp3OAGSki4Lwr5anakFm) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Samantha Mercano](https://open.spotify.com/artist/3u2H4dlFdANrLKQlnnL9iE) | [Hold Min Hånd \(feat\. Samantha Mercano\)](https://open.spotify.com/album/2R0CMpfP5zQTRZ6MyN7JFD) | 3:21 | 2025-05-29 | 2025-06-06 |
 | [Hold Mit Tempo](https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [WAVY](https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E) | 2:43 | 2026-06-18 | 2026-06-26 |
+| [Hold My Breath](https://open.spotify.com/track/4FOdgYVV5xaMjY0NCZoFEu) | [Albi](https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Hold My Breath](https://open.spotify.com/album/540DKCihQemJiYBN9AFi4m) | 2:20 | 2026-07-10 |  |
 | [Hold My Hand](https://open.spotify.com/track/1GQJUqQcUVwGU8NgCPywvL) | [Parana](https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv) | [Hold My Hand](https://open.spotify.com/album/6wfUGdWF1qpvMtrANVj4TA) | 2:56 | 2026-02-19 | 2026-02-27 |
 | [Hold My Hand](https://open.spotify.com/track/3tTdrfAf26i1px0iRSvpKq) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Hold My Hand](https://open.spotify.com/album/0T0yrlXZzVERl5UPClQweD) | 3:44 | 2025-01-30 | 2025-02-07 |
 | [HOLD OM MIT HOVED](https://open.spotify.com/track/5adsqP0aRmIqBUrE5kMc0L) | [HUGORM](https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2) | [HOLD OM MIT HOVED](https://open.spotify.com/album/3alO1KBQhFnkfKSb6v8BXX) | 3:12 | 2026-02-26 | 2026-03-06 |
@@ -6554,6 +6555,7 @@
 | [milk of the madonna](https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [milk of the madonna](https://open.spotify.com/album/3IZLumOOvTChaGYODcMuen) | 4:08 | 2025-08-07 | 2025-08-15 |
 | [Milkshakes](https://open.spotify.com/track/785wupFFLVza0ZjEJaH5Xy) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Milkshakes](https://open.spotify.com/album/1r2Tn585ZGylZPRXe02moV) | 2:27 | 2024-09-12 | 2024-09-20 |
 | [Milli in a Million](https://open.spotify.com/track/4QYlmPDPxa2S9uZjfEv7Pb) | [Most Likely Marlin](https://open.spotify.com/artist/3hvm1YoZ5efW61Whc5RuKy) | [Milli in a Million](https://open.spotify.com/album/7pmDkyJUGMnloFfZ3mbw0u) | 3:20 | 2024-06-20 | 2024-06-28 |
+| [MILLION DOLLAR BABE](https://open.spotify.com/track/4uzXo3sUkY7xXelBvj1L7A) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [MILLION DOLLAR BABE](https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5) | 2:53 | 2026-07-10 |  |
 | [Million Dollar Baby](https://open.spotify.com/track/72B6qv2BQsyM4Mds3iiIyU) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Million Dollar Baby](https://open.spotify.com/album/1KMsICBCmERIbb4GAc5X7C) | 3:21 | 2024-05-02 | 2024-05-10 |
 | [Million dollar man](https://open.spotify.com/track/2RQd5UI8j9NbOQWN2PVILN) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Million dollar man](https://open.spotify.com/album/3C2xeJQHzUBd8wgMBMgiGL) | 2:18 | 2026-04-30 | 2026-05-08 |
 | [Million Good Reasons](https://open.spotify.com/track/2dQZBkS0imJIezf1C7Dl73) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Million Good Reasons](https://open.spotify.com/album/3UpwS93J7Rcr18wwKzXYvT) | 2:37 | 2025-02-06 | 2025-02-14 |
@@ -8364,6 +8366,7 @@
 | [SAMBA](https://open.spotify.com/track/5zkrW8JXXveviqHU0u7wop) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR) | [SAMBA](https://open.spotify.com/album/7rTo9cQ8ht8qxp7eDCaRNU) | 2:22 | 2025-04-24 | 2025-05-02 |
 | [Same Kids](https://open.spotify.com/track/0THMUz0ygpsYVijF1DIkLm) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Same Kids](https://open.spotify.com/album/07s6cD5W72Kxf31gHu2hIE) | 3:31 | 2025-10-16 | 2025-10-24 |
 | [Same Mistake](https://open.spotify.com/track/6Fz21tyTTnxURQVxFn7u7R) | [Yasmin Hass](https://open.spotify.com/artist/1ngeTsUw6Wo2W4TTgTSCcC) | [Same Mistake](https://open.spotify.com/album/09qclbvqbh88NQFRIDOkVo) | 3:05 | 2025-02-13 | 2025-02-21 |
+| [Same Old](https://open.spotify.com/track/1dgU0WemJ842gCJj7iyEoq) | [Freyr](https://open.spotify.com/artist/0XEC2bQgKvaq09BZFPDA9y) | [New Man](https://open.spotify.com/album/2JP7EIbTweYKgL3d2F9qEZ) | 2:24 | 2026-07-09 |  |
 | [Same Old Song](https://open.spotify.com/track/7fgBaZMKj1KIftugsmBrkB) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic \(Preview\)](https://open.spotify.com/album/7jnh9Dv3ocxLzYmf8kAL4p) | 2:54 | 2025-01-09 | 2025-01-17 |
 | [Same Page](https://open.spotify.com/track/59urXGUpl1LIsSx4hyYDNO) | [Jillian Loux](https://open.spotify.com/artist/3OyRtqli8hDzJHaFXJPQcu), [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Same Page](https://open.spotify.com/album/6GrXXh5gBPTIVllOz7deVd) | 3:52 | 2024-05-09 | 2024-05-17 |
 | [Same Thing](https://open.spotify.com/track/3zVEaAiVKKqo6JC9bhhQMx) | [KOPS](https://open.spotify.com/artist/10GRqg0xzOzJI8yOgs5DbS) | [Same Thing](https://open.spotify.com/album/5qHDM4ltRazpBL3pdVcAMi) | 5:08 | 2025-10-30 | 2025-11-07 |
@@ -10138,7 +10141,6 @@
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2024-12-13 |
 | [TOYBOY](https://open.spotify.com/track/0pu0wYSfAss9bofagK1A5T) | [Angela](https://open.spotify.com/artist/7eT4IZXb7W1FCsWO7u4l65) | [TOYBOY](https://open.spotify.com/album/1R7baT8Vnn3OTP4yl2fJg9) | 2:39 | 2026-04-30 | 2026-05-08 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 | 2026-06-05 |
-| [Track 4](https://open.spotify.com/track/1dgU0WemJ842gCJj7iyEoq) | [Freyr](https://open.spotify.com/artist/0XEC2bQgKvaq09BZFPDA9y) | [New Man](https://open.spotify.com/album/2JP7EIbTweYKgL3d2F9qEZ) | 0:00 | 2026-07-09 |  |
 | [TRACK 9 \(sometimes\)](https://open.spotify.com/track/3QYY4AgNdhVboaiTpif9oo) | [Alice Ai](https://open.spotify.com/artist/3Pst9XlmCk0NKGGy3kVvvP) | [d.a.t.a.d.e.a.t.h.](https://open.spotify.com/album/4enVd9gDj0jRvGRZvyWjhd) | 2:35 | 2025-11-27 | 2025-12-05 |
 | [TRACKE DO](https://open.spotify.com/track/0udl3HksPNxCu097pHNKfP) | [EHSXN](https://open.spotify.com/artist/02fcfzLNggFMt98YunsnYU), [PAYDAR](https://open.spotify.com/artist/4QXhX7CbOMy8HKl8rZNYEt) | [T\-TOWN](https://open.spotify.com/album/57cDk7ZMeJuDIllI2uJ7IF) | 2:27 | 2024-09-05 | 2024-09-13 |
 | [TRACKSUIT](https://open.spotify.com/track/2GPVSfBMy7WD6AZc8I99KE) | [Oskar Witt](https://open.spotify.com/artist/7pgsrrUoGrlw9qNtJsk4c4) | [TRACKSUIT](https://open.spotify.com/album/0HxUpNDh9DhsxeMJyRCeZJ) | 2:15 | 2025-12-04 | 2025-12-12 |

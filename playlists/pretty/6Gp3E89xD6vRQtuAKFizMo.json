@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every week!",
-  "num_followers": 43369,
+  "num_followers": 43371,
   "original_name": "DIM MAK: IN ROTATION",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAavtuOa6qjV8NrSzHgpEZX+qKdUg9W",
+  "snapshot_id": "AAAawRwtWfo05r1+Zu1mbx0XCAn0Oe3Z",
   "tracks": [
+    {
+      "added_at": "2026-07-10 04:38:50",
+      "album": {
+        "name": "What You Say (feat. Imogen Heap)",
+        "url": "https://open.spotify.com/album/61qE3z7FlQZ7H1bvLpYLCt"
+      },
+      "artists": [
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 150800,
+      "name": "What You Say (feat. Imogen Heap)",
+      "url": "https://open.spotify.com/track/4bzCdb8PI1hTnPj9KtWOXy"
+    },
+    {
+      "added_at": "2026-07-10 04:39:12",
+      "album": {
+        "name": "In Da Booth",
+        "url": "https://open.spotify.com/album/1a3UzxhZGc8tzNQPvEg8XY"
+      },
+      "artists": [
+        {
+          "name": "Borgeous",
+          "url": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "In Da Booth",
+      "url": "https://open.spotify.com/track/6IuEVi1CUswoTeTe5dXGfB"
+    },
     {
       "added_at": "2026-07-03 04:00:45",
       "album": {

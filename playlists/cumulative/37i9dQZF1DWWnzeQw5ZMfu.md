@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Justin Bieber
 
-270 songs - 20 hr 26 min
+271 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Don't You Want Me](https://open.spotify.com/track/0AQ7KFLa7POKk4gBKKYyr0) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Live At the Dome](https://open.spotify.com/album/18exVZh0nUYU5n6K3v4K9c) | 3:59 | 2022-04-14 | 2022-07-28 |
 | [Easy \- Live In Paris](https://open.spotify.com/track/04ItQxnUp22G4cpXfsS269) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Live](https://open.spotify.com/album/0aQjIXOKa3n0iND6e782P9) | 7:24 | 2022-04-14 | 2022-07-29 |
 | [Ego Talking \- Live From Radio City Music Hall](https://open.spotify.com/track/2hooaeGwAv4SlQp4zBEwj3) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Ego Talking \(Live\)](https://open.spotify.com/album/1yxyNbrvRM0n7weCmW11Y0) | 2:55 | 2024-12-06 | 2025-01-18 |
-| [Emotions \- Live at MTV Unplugged, Kaufman Astoria Studios, New York \- March 1992](https://open.spotify.com/track/5a7ftvz1gh9lbxGmLCCzz1) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [MTV Unplugged EP](https://open.spotify.com/album/0jpGebANqbNNKbWHq2XhEM) | 3:59 | 2022-04-14 |  |
+| [Emotions \- Live at MTV Unplugged, Kaufman Astoria Studios, New York \- March 1992](https://open.spotify.com/track/5a7ftvz1gh9lbxGmLCCzz1) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [MTV Unplugged EP](https://open.spotify.com/album/0jpGebANqbNNKbWHq2XhEM) | 3:59 | 2022-04-14 | 2026-07-11 |
 | [Empire State of Mind \(Part II\) Broken Down \- Live at Metropolis Studios, New York, NY \- May 2013](https://open.spotify.com/track/63kqWV4uJovbh830PAwC1J) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Alicia Keys \- VH1 Storytellers](https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9) | 4:18 | 2022-04-14 |  |
 | [End Of An Era \(Live From Mexico\)](https://open.spotify.com/track/21WwqjoXTNa57p1rYiVO6P) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [End Of An Era \(Live From Mexico\)](https://open.spotify.com/album/7cvRtpO5con5KTI0lAZ8dB) | 3:25 | 2026-05-18 |  |
 | [Endless Love \- Live In Paris](https://open.spotify.com/track/44pRfHnmboXkuPfbzOGYS3) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Live](https://open.spotify.com/album/0aQjIXOKa3n0iND6e782P9) | 2:18 | 2022-04-14 | 2022-07-29 |
@@ -189,6 +189,7 @@
 | [Reflection \- Live \- Spotify Anniversaries Version](https://open.spotify.com/track/5xhjz2n0e7KYAb9sVdl9Pz) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [The 25th Anniversary of Christina Aguilera \| Spotify Anniversaries LIVE](https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo) | 2:39 | 2024-10-04 | 2025-01-18 |
 | [Rehab \- Live On Jools Holland](https://open.spotify.com/track/7E4dtl5gWROiMKibvedh0i) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 3:41 | 2022-04-14 | 2025-01-18 |
 | [Roman Holiday \- Live From Webster Hall](https://open.spotify.com/track/0r0yp1OGfO4VOgUY6u3eV0) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Live From Webster Hall\)](https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z) | 3:17 | 2022-04-29 | 2025-01-18 |
+| [Ruin \(Live From Boston\)](https://open.spotify.com/track/5p7LHl4Wl72aikHqNGPGC7) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Ruin \(Live From Boston\)](https://open.spotify.com/album/5fHNbPNnkSAgY84yEjrQkJ) | 5:22 | 2026-07-10 |  |
 | [Sacrifice \- Live](https://open.spotify.com/track/0fChKGukh7abSJjcpRStVb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [One Night Only](https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY) | 5:20 | 2022-04-14 | 2023-08-19 |
 | [Say What You Want \- Live at Live 8, Murrayfield Stadium, Edinburgh, 6th July 2004](https://open.spotify.com/track/7ADkVByaUB0j5xC9tC0HkZ) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Live 8 \(Live, July 2005\)](https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H) | 6:05 | 2022-04-14 | 2022-07-28 |
 | [Say You'll Be There \- Live From Abdi İpekçi Arena, Istanbul, Turkey/1997](https://open.spotify.com/track/05GA2KEnd9MysHPKJacrId) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Viva Forever](https://open.spotify.com/album/1opVmZV2FM8CTGpbTaepqJ) | 4:26 | 2022-04-14 | 2024-10-19 |

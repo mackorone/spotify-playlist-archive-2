@@ -2,9 +2,9 @@
 
 ### [ALT\_QC](https://open.spotify.com/playlist/37i9dQZF1DX03FBMYrWi0n)
 
-> L’alternatif québécois à plein volume\. Photo: Brothel in Belize
+> L’alternatif québécois à plein volume\. Photo: maudit vincent
 
-588 songs - 1 day 9 hr 15 min
+594 songs - 1 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Comme tu le souhaites \(Ding Dong\)](https://open.spotify.com/track/0jv4Qiw0H1OXb1FQ1Epirs) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [Comme tu le souhaites \(Ding Dong\)](https://open.spotify.com/album/7Fv4qj6cYO540OuEb8z9Ac) | 5:53 | 2024-04-19 | 2024-06-08 |
 | [Comme un refrain](https://open.spotify.com/track/2MkA4ZOZC3xrUVj3jiVQkX) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Orlanda](https://open.spotify.com/artist/23nY5K8uRicVSFQDOovHTe) | [Soleil mâché](https://open.spotify.com/album/05E8nV4jttlse9c9COMaCR) | 4:00 | 2026-01-16 | 2026-05-02 |
 | [Comment se perdre](https://open.spotify.com/track/0SPxnX6Zb5C8v85JgVoxbi) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Journée ordinaire / Comment se perdre](https://open.spotify.com/album/0mt908UFb2yiqgYyC5aG2t) | 4:16 | 2025-10-31 | 2026-03-14 |
+| [Compliqué](https://open.spotify.com/track/0wJLuYWM9kHFSMAxm0Igor) | [maudit vincent](https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ) | [Compliqué](https://open.spotify.com/album/13X5rlEMkvpm8Bdp0suojz) | 4:08 | 2026-07-10 |  |
 | [Conflagration Mindset](https://open.spotify.com/track/6iW3I5wTLxsTL2CVmfeIcH) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Conflagration Mindset](https://open.spotify.com/album/00iMqUkx8NtG052xwq3qar) | 4:02 | 2026-03-20 | 2026-05-09 |
 | [Cool et branchée](https://open.spotify.com/track/1yOQDjZTq4hrj6iemnUlzr) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Cool et branchée](https://open.spotify.com/album/5BmwnrAljljUUUmUoGifFz) | 2:57 | 2023-09-08 | 2023-11-21 |
 | [Correct](https://open.spotify.com/track/3rePvNyj1VwHKnlMngBrUk) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Correct](https://open.spotify.com/album/3FyxSOLf5zrWgC7Osw3peU) | 4:46 | 2026-04-10 |  |
@@ -213,6 +214,7 @@
 | [Glam](https://open.spotify.com/track/4eguSwduvRXYMcHuPf6zYO) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Glam](https://open.spotify.com/album/0limMkqQ5HILZa6E9zGMY2) | 4:28 | 2023-03-24 | 2023-05-18 |
 | [Glissade](https://open.spotify.com/track/1oQcZneuoL162DbxY4jzm6) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7) | [Glissade](https://open.spotify.com/album/0vEvbDlfN0kO4LT4LOny8J) | 3:28 | 2026-05-08 | 2026-06-06 |
 | [GODDAMN!](https://open.spotify.com/track/4LlIM1MXl0o0waT1ky2c11) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [GODDAMN!](https://open.spotify.com/album/49saxIwgOAHKizgWK5E8TD) | 4:07 | 2025-09-19 | 2025-12-13 |
+| [Going on the patch](https://open.spotify.com/track/2mpJjohnbHOi89Dv3OjKSW) | [Fruit Snack](https://open.spotify.com/artist/5VwvZoetf1hXSP6sAUVWY6) | [Going on the patch](https://open.spotify.com/album/4uDZ0p3j4hihHS5zpl10Pv) | 3:37 | 2026-07-10 |  |
 | [Gothique](https://open.spotify.com/track/6As4yZPXn7pg038yAP6lGe) | [Les Incendiaires](https://open.spotify.com/artist/64hnSX04Ots0QZ9c9s1KKR) | [Gothique](https://open.spotify.com/album/1MAJGbd0rm82LCGydaPTiN) | 4:17 | 2026-05-15 | 2026-05-30 |
 | [graduation](https://open.spotify.com/track/3xsEofcAiQgpYqDOoAMJpK) | [hooper](https://open.spotify.com/artist/6xEOM5GlVNZpX1Db8f4jVp) | [graduation](https://open.spotify.com/album/29nnIgIqOY8pb1jYu9pH7V) | 2:27 | 2026-04-10 | 2026-05-30 |
 | [Gros truck](https://open.spotify.com/track/1FJkK7vNFpLvZjCKKROECx) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [P'tit Belliveau](https://open.spotify.com/album/5SZCCO2cJiLbQ5vUopQxh2) | 3:19 | 2025-10-31 | 2025-11-29 |
@@ -221,10 +223,12 @@
 | [hana](https://open.spotify.com/track/13Ue2YJXcvl8Wm5iv0TlMo) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Astral 2000](https://open.spotify.com/album/2qsyEK8oIuQEIUryUqL3jp) | 2:35 | 2025-02-06 | 2025-11-15 |
 | [hana](https://open.spotify.com/track/2Qvvb2wC3wPiRP2C0xxsc6) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [hana](https://open.spotify.com/album/2TkxPbXf8lg0cgHZh823Tg) | 2:35 | 2024-04-19 | 2024-11-13 |
 | [Haveluck Country](https://open.spotify.com/track/71IaDBix6TTuOWnnTVk9Eu) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Haveluck Country](https://open.spotify.com/album/7LyPXWmWi6lfuT862UHQFb) | 4:50 | 2026-05-08 | 2026-05-30 |
+| [heart](https://open.spotify.com/track/0bdwem7sj4TeYcPslXwcSK) | [fyl](https://open.spotify.com/artist/40VJ0ejUdeu8sKeW6cR38T) | [heart](https://open.spotify.com/album/3ZyKNyzOfetlbsI4a31nXb) | 2:58 | 2026-07-10 |  |
 | [Hedgesitting](https://open.spotify.com/track/6qSL9W78L6viJxBA2eetYY) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Hedgesitting](https://open.spotify.com/album/2E0JTOwCfuhmk6JIcwy6cW) | 4:46 | 2026-02-20 | 2026-04-04 |
 | [Here Comes](https://open.spotify.com/track/5k8C9sXUZahKaK2qoykDqo) | [knitting](https://open.spotify.com/artist/2eRDm8pl8MFrZv1gsfqUtj) | [Here Comes](https://open.spotify.com/album/5VFTvUiz4KI5fVs8OKe9gz) | 3:40 | 2026-05-01 | 2026-06-20 |
 | [Here for you](https://open.spotify.com/track/4Tz7wP2iuP5LiomCRq3ugE) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [Here for you](https://open.spotify.com/album/5N8b9bW8ypuJ7RIPPYcuwc) | 2:41 | 2026-02-06 | 2026-04-04 |
 | [Hey Sophia](https://open.spotify.com/track/46PQokbJBAJB7Nz2sAPNw6) | [Kinkead](https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o) | [Hey Sophia](https://open.spotify.com/album/6l45hR6O8aeBETmpw1smw7) | 3:16 | 2024-05-17 | 2024-07-09 |
+| [higher! higher! \(for Paul\)](https://open.spotify.com/track/2lL1H5ZW8MxFYAylEKDHjg) | [nowhere else to be](https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw) | [higher! higher! \(for Paul\)](https://open.spotify.com/album/7sZvaGDXY06bTVO9gK5BkQ) | 2:48 | 2026-07-10 |  |
 | [Hit The Floor](https://open.spotify.com/track/0nYYKcz0S0NMynB7HlNR8x) | [whyhaze](https://open.spotify.com/artist/4QqnuHKfpTHncKt0om35AE), [Mzrabelle](https://open.spotify.com/artist/5cCHzHVIvCjEGTxbdhfbHD) | [Hit The Floor](https://open.spotify.com/album/0uUycXhaMn2BFTMsE5EQEJ) | 1:48 | 2026-05-22 | 2026-06-27 |
 | [holdsomeone](https://open.spotify.com/track/5SweYMC9M3L6LdV9N3IKEd) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [holdsomeone](https://open.spotify.com/album/7d0bPd9brl7VhMRKydXpvb) | 2:25 | 2025-12-12 | 2026-03-14 |
 | [Holiday Lights](https://open.spotify.com/track/2NHbN0nzXfdydrt7hxCDMD) | [Ctznshp](https://open.spotify.com/artist/5uBCRspN4binVeq2cdyy8G) | [Lost Loves \(A Collection of Rarities\)](https://open.spotify.com/album/1QEqprHAlnhYiFgLzYcSdk) | 4:18 | 2025-12-05 | 2025-12-19 |
@@ -318,6 +322,7 @@
 | [Les odyssées](https://open.spotify.com/track/28yNhjrvxTNYENdb77OjT7) | [Bernhari](https://open.spotify.com/artist/6AnoLNinpFaTOFNoorNstH) | [Les Odyssées](https://open.spotify.com/album/5JMDEB1mZ8THUkygewk0DU) | 2:53 | 2024-09-20 | 2024-10-23 |
 | [Les Olympiques](https://open.spotify.com/track/5GYmlTd1VsFSnWLPFliBQD) | [DVTR](https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF) | [Les Olympiques](https://open.spotify.com/album/3kf2lihdhdcljNcHdb9g15) | 2:20 | 2024-07-26 | 2024-10-19 |
 | [les vagues](https://open.spotify.com/track/07qRD1Eup9YxBBNIHXrZf7) | [hôte](https://open.spotify.com/artist/2TN2ejUvw00uSbRc6GV6ev) | [les vagues](https://open.spotify.com/album/2jMCtG1UOqq1O3pXQRDF8p) | 4:42 | 2026-06-19 |  |
+| [Let Me](https://open.spotify.com/track/6aM5Ie1O0zuwC4d26tPZK1) | [Cloned Apparition](https://open.spotify.com/artist/5z85YDvDTI4PpjZ8t2sBuN), [Mile End](https://open.spotify.com/artist/30B2hObTJx7fyPThwqluZQ) | [Let Me](https://open.spotify.com/album/61b7LJ0MuvE9c3WVP890Ke) | 3:10 | 2026-07-10 |  |
 | [Let's Go for a Walk](https://open.spotify.com/track/6OL4e8sO8U1olrKpl83F04) | [SAMWOY](https://open.spotify.com/artist/4khtCx57NpDeXO1miYSmvO) | [Even Sad Boys Like To Have Fun](https://open.spotify.com/album/0PDhTkKKxf1r7L88iBa6TQ) | 3:21 | 2025-12-19 | 2026-04-04 |
 | [Lex Julia](https://open.spotify.com/track/2Ku1oBIgXdWNiuAdMVEhJw) | [Fire in the City](https://open.spotify.com/artist/3hWaTH8hZ33N5SCFoju8u0) | [Lex Julia](https://open.spotify.com/album/7r0oVlT5VOtm4QJ2Q1e37k) | 3:40 | 2026-04-10 | 2026-06-06 |
 | [Lighter Fluid](https://open.spotify.com/track/2SdHjIcNVrrSMtxhoOskRW) | [Les Deuxluxes](https://open.spotify.com/artist/6k5PugZm3EOJkU08XUPzTg) | [Lighter Fluid](https://open.spotify.com/album/5qHZZ38krHocEYUbDpAWtQ) | 2:51 | 2023-02-10 | 2025-01-11 |
@@ -459,6 +464,7 @@
 | [Rock Band](https://open.spotify.com/track/7goO0mzvYZAukSS0aUnDc8) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Rock Band](https://open.spotify.com/album/6nk21frolh3HS7MlwISfbg) | 3:52 | 2023-02-10 | 2023-04-29 |
 | [Romance](https://open.spotify.com/track/0eP24Hnuk6HuQpmmLBlfNd) | [Yuki B](https://open.spotify.com/artist/1Ag1DdfWNtnGdm83G5iYXr) | [Romance](https://open.spotify.com/album/33aPRFEs63Un21kXFaJ6UW) | 2:34 | 2026-05-01 | 2026-05-30 |
 | [Romantisme](https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ) | [Élégie](https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0) | [Romantisme](https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4) | 3:53 | 2023-10-20 | 2025-02-07 |
+| [Rosegaze](https://open.spotify.com/track/3gc01mn0NUjh0E98DSZJRO) | [Rosegaze](https://open.spotify.com/artist/4XZLmMO2hnCa8dNGZAioyv) | [Rosegaze](https://open.spotify.com/album/7otmSPf1q0YxNUBLm2HJWx) | 8:15 | 2026-07-10 |  |
 | [Rotten](https://open.spotify.com/track/0typVO5PXN4GAgmTx5mHip) | [Grace of Arc](https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t) | [Rotten](https://open.spotify.com/album/35dIBCuPTe5tHzE03MVPTn) | 3:40 | 2026-06-19 |  |
 | [Rouge Blanc](https://open.spotify.com/track/3lgz1irr7pyERou6uA1g4i) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Rouge Blanc](https://open.spotify.com/album/6bfCe5L8ncyo5vbGat4o3Z) | 3:19 | 2025-03-21 | 2025-11-08 |
 | [Rouge à lèvres](https://open.spotify.com/track/0HgHk6fXRi0CuYnhahRtxH) | [Alix Fernz](https://open.spotify.com/artist/2X6rdYH1hHl3TXQCbEqOZQ) | [Rouge à lèvres](https://open.spotify.com/album/1kZoT8CcY3Yrva4uAwGN1R) | 3:26 | 2024-03-22 | 2024-06-01 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Luis Figueroa",
+  "description": "Lo nuevo del mundo tropical. Cover: J Salez",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -4476,7 +4476,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 205335,
       "name": "Dile",
       "url": "https://open.spotify.com/track/7p4gSq54UDd4miM4E6GHuw"
@@ -17828,6 +17828,28 @@
       "duration_ms": 197765,
       "name": "YA NO EST\u00c1S SOLA",
       "url": "https://open.spotify.com/track/7bTLME3Z0vRWAUuDeZYObf"
+    },
+    {
+      "album": {
+        "name": "Ya No Queda Nada",
+        "url": "https://open.spotify.com/album/7dTbYW1mLWMgnBM7QBdizE"
+      },
+      "artists": [
+        {
+          "name": "J Salez",
+          "url": "https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU"
+        },
+        {
+          "name": "DerekVinci",
+          "url": "https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194430,
+      "name": "Ya No Queda Nada",
+      "url": "https://open.spotify.com/track/3GuJ8gUo2a81wxCVHyUL0w"
     },
     {
       "album": {

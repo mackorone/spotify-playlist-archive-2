@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Jacob Collier",
+  "description": "New jazz for open minds. Cover: FATHERS",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -28569,6 +28569,36 @@
     },
     {
       "album": {
+        "name": "FATHERS",
+        "url": "https://open.spotify.com/album/1EeNAliCb18UrU84kfqWmh"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158106,
+      "name": "PATCHWORK",
+      "url": "https://open.spotify.com/track/38HigDpo88ILLFU2zhzRT6"
+    },
+    {
+      "album": {
         "name": "Pathways",
         "url": "https://open.spotify.com/album/6WQpxKjGFJQFnc2ODSG3y1"
       },
@@ -28690,7 +28720,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 231066,
       "name": "PEARL",
       "url": "https://open.spotify.com/track/33E2bU4xRVvjuc6Y4dtk5k"
@@ -31999,6 +32029,24 @@
     },
     {
       "album": {
+        "name": "Sam on the Ganges",
+        "url": "https://open.spotify.com/album/7F9x71oGaG8uy3SwVUcaPU"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431266,
+      "name": "Sam on the Ganges",
+      "url": "https://open.spotify.com/track/6NN84SLP6Zccaya0CsU03l"
+    },
+    {
+      "album": {
         "name": "Sangam & Friends",
         "url": "https://open.spotify.com/album/1Jm3KSmqeij3dcksUYwM1I"
       },
@@ -32010,7 +32058,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 431266,
       "name": "Sam on the Ganges",
       "url": "https://open.spotify.com/track/6ZIjXziCir2H7zzcWdAr4K"

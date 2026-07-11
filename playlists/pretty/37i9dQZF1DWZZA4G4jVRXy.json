@@ -1,6 +1,6 @@
 {
   "description": "Pour yourself a mai tai \ud83c\udf79 and festoon yourself with lei \ud83c\udf3a, welcome to the Hawaiian party! \ud83c\udf34\ud83e\udd6d\ud83c\udf89",
-  "num_followers": 137167,
+  "num_followers": 137174,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "Voodoo!",
-        "url": "https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892"
-      },
-      "artists": [
-        {
-          "name": "Robert Drasnin",
-          "url": "https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4"
-        }
-      ],
-      "duration_ms": 153493,
-      "name": "Chant Of The Moon",
-      "url": "https://open.spotify.com/track/6j46ude4neMZMiEagbYkie"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
         "name": "Swingin' sounds for the Jungle Jetset !",
         "url": "https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 220733,
       "name": "Sunset on the Kona Kai",
       "url": "https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Voodoo!",
+        "url": "https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892"
+      },
+      "artists": [
+        {
+          "name": "Robert Drasnin",
+          "url": "https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4"
+        }
+      ],
+      "duration_ms": 153493,
+      "name": "Chant Of The Moon",
+      "url": "https://open.spotify.com/track/6j46ude4neMZMiEagbYkie"
     },
     {
       "added_at": "2021-01-20 03:50:53",

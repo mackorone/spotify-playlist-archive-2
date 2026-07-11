@@ -466,7 +466,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 195535,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/0gtfOobHUV6nOcdXIEPbXl"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 163614,
       "name": "Complete",
       "url": "https://open.spotify.com/track/0TVVSh5z1gErm5tHqMII5A"
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 156625,
       "name": "How Things Blend",
       "url": "https://open.spotify.com/track/1C4NlMtgmBUOKzfW61sTYD"
@@ -1998,6 +1998,24 @@
       "duration_ms": 206250,
       "name": "In my arms",
       "url": "https://open.spotify.com/track/54y634vST5xlwpSMwKcXoK"
+    },
+    {
+      "album": {
+        "name": "In Stillness, Love Grows",
+        "url": "https://open.spotify.com/album/6GLkoAWGuMU8Ll5zOlDmbA"
+      },
+      "artists": [
+        {
+          "name": "melodious monk",
+          "url": "https://open.spotify.com/artist/41ROkiY5iBv0FueTcFeXHb"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "In Stillness, Love Grows",
+      "url": "https://open.spotify.com/track/5HWtHiGf6MueUW0OU1CzAn"
     },
     {
       "album": {
@@ -2552,7 +2570,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 137805,
       "name": "Lucence",
       "url": "https://open.spotify.com/track/6SY0nMP1iAmNNMwHnWrCgI"
@@ -3698,7 +3716,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-11",
       "duration_ms": 126841,
       "name": "Softly",
       "url": "https://open.spotify.com/track/6zJ2ZTSniD1AA9haATbYf7"
@@ -3940,6 +3958,24 @@
       "duration_ms": 143371,
       "name": "The Everglowing Sea",
       "url": "https://open.spotify.com/track/43bZxiDpp5FKPS2tvFxhZ5"
+    },
+    {
+      "album": {
+        "name": "The Eyes Of My Life",
+        "url": "https://open.spotify.com/album/6GfzH0YlagXpS95T5R4Xon"
+      },
+      "artists": [
+        {
+          "name": "James A. Caled",
+          "url": "https://open.spotify.com/artist/1hhSZdhbeXdXavwXMYxEc0"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163406,
+      "name": "The Eyes Of My Life",
+      "url": "https://open.spotify.com/track/1lC0WCUtC6uQVt4mGojHUT"
     },
     {
       "album": {

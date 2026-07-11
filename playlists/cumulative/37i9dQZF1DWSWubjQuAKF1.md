@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Qncicka
 
-907 songs - 1 day 20 hr 12 min
+908 songs - 1 day 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [LOVESONG](https://open.spotify.com/track/7496oBsqMZXTkKYK9nls14) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt), [Ghosty](https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2) | [LOVESONG](https://open.spotify.com/album/0J2VCffmw6ZWm2dP4cRO92) | 2:38 | 2025-02-13 | 2025-02-28 |
 | [lubię patrzeć na twą broń](https://open.spotify.com/track/1xgWsfJ8qmFhrvJ6NmP1UW) | [Patryk Krzysztof Molenda](https://open.spotify.com/artist/3pxfM6pz8d8dXGriLKGyvG) | [lubię patrzeć na twą broń](https://open.spotify.com/album/6Wn64bI8wMIB66Zy0ReTHP) | 3:01 | 2024-10-25 | 2025-01-17 |
 | [Lucy](https://open.spotify.com/track/2djMadJLhufUl397ravYvO) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Lucy](https://open.spotify.com/album/1ayJQYYEf8irFc5UVR82f8) | 2:41 | 2025-03-27 | 2025-07-04 |
+| [ludzik](https://open.spotify.com/track/1QEJVqRz6oYgTvGRa582jV) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [ludzik](https://open.spotify.com/album/3uu8fLQ38W8DXLWrF98LxU) | 3:11 | 2026-07-09 |  |
 | [Lusterka](https://open.spotify.com/track/1AikOHlzrelVDGPqyHG6FD) | [Sw@da](https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj), [Niczos](https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk) | [\#INDAWOODS](https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S) | 2:37 | 2025-01-23 | 2025-03-14 |
 | [Lustro](https://open.spotify.com/track/5oX4vOfPBdUu43mO8gtv8o) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Słoneczna strona ulicy](https://open.spotify.com/album/6WC2GVDGNhOPMyOPzSL31y) | 3:19 | 2026-04-09 | 2026-06-26 |
 | [Lustro](https://open.spotify.com/track/1juFCYbgxY2JQRXAmDoQey) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo) | [Lustro](https://open.spotify.com/album/3W91mDbnv8CLmX75f9RtO8) | 2:53 | 2026-04-30 |  |
@@ -535,7 +536,7 @@
 | [Nowa Era](https://open.spotify.com/track/4FdrZ3wiKbpIRoEKfRSDAB) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Nowa Era](https://open.spotify.com/album/1l4RC3SFVx7g4JCe91lLpg) | 2:56 | 2024-06-28 | 2024-07-27 |
 | [Nowe Serce](https://open.spotify.com/track/2d8j0ayjXQQ7lPXl1jPTnV) | [Joulie Fox](https://open.spotify.com/artist/5hE1IPeVSiRpzsHBBBpzy4) | [Nowe Serce](https://open.spotify.com/album/5rAtf1iuT80MuU0BgLKxG8) | 2:27 | 2026-04-23 | 2026-05-01 |
 | [nwcojestgrane](https://open.spotify.com/track/0rrUFLkf13Qx5XhUxDw6CK) | [sonia](https://open.spotify.com/artist/5tJewiRCbFJHbFzRWn2OS3) | [nwcojestgrane](https://open.spotify.com/album/3oYY4VqBeh8fORA6WczZBi) | 2:43 | 2025-05-22 | 2025-05-30 |
-| [O miłości, nie ten czas](https://open.spotify.com/track/2VhzXR9w6jnapPqoHDBwX3) | [Oliwia Johnson](https://open.spotify.com/artist/5heu38RNkoNKlzY8Au5wWW) | [O miłości, nie ten czas](https://open.spotify.com/album/0M2gGwhhvMpcqJB7wJWwMM) | 2:52 | 2026-05-29 |  |
+| [O miłości, nie ten czas](https://open.spotify.com/track/2VhzXR9w6jnapPqoHDBwX3) | [Oliwia Johnson](https://open.spotify.com/artist/5heu38RNkoNKlzY8Au5wWW) | [O miłości, nie ten czas](https://open.spotify.com/album/0M2gGwhhvMpcqJB7wJWwMM) | 2:52 | 2026-05-29 | 2026-07-11 |
 | [o tobie wers](https://open.spotify.com/track/4uN1jM22d2v3l2IRIJe1Af) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [o tobie wers](https://open.spotify.com/album/3nAZGqA6gK1p546TGFuL1E) | 2:45 | 2025-03-13 | 2025-06-20 |
 | [obiecuję](https://open.spotify.com/track/5agSZ8Jl4NHLslHfrTCm6F) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [obiecuję](https://open.spotify.com/album/74ErgwTtPEZI1spfbR4SxI) | 2:38 | 2026-01-30 | 2026-04-03 |
 | [Obudziłam się dla Ciebie](https://open.spotify.com/track/67I03tNjtJm0TNiK7tqD8R) | [Krzyk Mody](https://open.spotify.com/artist/1agF5GG699g32QKbI46t4X) | [Obudziłam się dla Ciebie](https://open.spotify.com/album/7CwaXoNf4wTnkTu6WslI3I) | 3:14 | 2025-07-03 | 2025-07-11 |

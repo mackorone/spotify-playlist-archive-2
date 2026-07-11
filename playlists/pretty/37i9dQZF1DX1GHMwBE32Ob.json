@@ -1,12 +1,12 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Chella",
-  "num_followers": 147028,
+  "num_followers": 147095,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL6cW3pMOYX3lpfmVP7Ro+qexMA3",
+  "snapshot_id": "AAAAAFS4sZ0Nr1V04IZza/85PjQEd7+1",
   "tracks": [
     {
       "added_at": "2026-06-26 00:01:56",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-06-26 00:01:56",
       "album": {
+        "name": "B4R&W TAPE",
+        "url": "https://open.spotify.com/album/0TGH8f0h2NaeqXv0oeC5GY"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 124878,
+      "name": "GO GO!",
+      "url": "https://open.spotify.com/track/3uvRLWxrExOSYk7kMiwzVd"
+    },
+    {
+      "added_at": "2026-06-26 00:01:56",
+      "album": {
         "name": "Shakur",
         "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
       },
@@ -587,18 +603,22 @@
     {
       "added_at": "2026-06-26 00:01:56",
       "album": {
-        "name": "B4R&W TAPE",
-        "url": "https://open.spotify.com/album/0TGH8f0h2NaeqXv0oeC5GY"
+        "name": "Baba",
+        "url": "https://open.spotify.com/album/63yPkpDRSUMDaUSPlXCTj2"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 124878,
-      "name": "GO GO!",
-      "url": "https://open.spotify.com/track/3uvRLWxrExOSYk7kMiwzVd"
+      "duration_ms": 162912,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/776t3kqoQTKHeFzdbnIfdc"
     },
     {
       "added_at": "2026-06-26 00:01:56",
@@ -643,26 +663,6 @@
     {
       "added_at": "2026-06-26 00:01:56",
       "album": {
-        "name": "AFRICAN GIRLS",
-        "url": "https://open.spotify.com/album/7F76UW4g4Mq8rRLznvAAuc"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 123582,
-      "name": "AFRICAN GIRLS",
-      "url": "https://open.spotify.com/track/1pDVWzY2lp3Y7Qi0WTY4Ad"
-    },
-    {
-      "added_at": "2026-06-26 00:01:56",
-      "album": {
         "name": "SpaceFuji",
         "url": "https://open.spotify.com/album/4RxCSlCAY89Xr8u3ad2OLP"
       },
@@ -683,6 +683,26 @@
       "duration_ms": 199384,
       "name": "SpaceFuji",
       "url": "https://open.spotify.com/track/4OFlrfut7bLLpxeUuGg37l"
+    },
+    {
+      "added_at": "2026-06-26 00:01:56",
+      "album": {
+        "name": "AFRICAN GIRLS",
+        "url": "https://open.spotify.com/album/7F76UW4g4Mq8rRLznvAAuc"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 123582,
+      "name": "AFRICAN GIRLS",
+      "url": "https://open.spotify.com/track/1pDVWzY2lp3Y7Qi0WTY4Ad"
     },
     {
       "added_at": "2026-06-26 00:01:56",
@@ -715,26 +735,6 @@
       "duration_ms": 136551,
       "name": "Sunny Ade",
       "url": "https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV"
-    },
-    {
-      "added_at": "2026-06-26 00:01:56",
-      "album": {
-        "name": "Baba",
-        "url": "https://open.spotify.com/album/63yPkpDRSUMDaUSPlXCTj2"
-      },
-      "artists": [
-        {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 162912,
-      "name": "Baba",
-      "url": "https://open.spotify.com/track/776t3kqoQTKHeFzdbnIfdc"
     },
     {
       "added_at": "2026-06-26 00:01:56",
@@ -775,26 +775,6 @@
     {
       "added_at": "2026-06-26 00:01:56",
       "album": {
-        "name": "No Wam",
-        "url": "https://open.spotify.com/album/4cNDitclT2Y3sKEQxDzbuR"
-      },
-      "artists": [
-        {
-          "name": "Skiibii",
-          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 149446,
-      "name": "No Wam",
-      "url": "https://open.spotify.com/track/75zPBCVt8sd2PzJfinv3Jl"
-    },
-    {
-      "added_at": "2026-06-26 00:01:56",
-      "album": {
         "name": "Dance for Jesus",
         "url": "https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 200948,
       "name": "Dance for Jesus",
       "url": "https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR"
+    },
+    {
+      "added_at": "2026-06-26 00:01:56",
+      "album": {
+        "name": "No Wam",
+        "url": "https://open.spotify.com/album/4cNDitclT2Y3sKEQxDzbuR"
+      },
+      "artists": [
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 149446,
+      "name": "No Wam",
+      "url": "https://open.spotify.com/track/75zPBCVt8sd2PzJfinv3Jl"
     },
     {
       "added_at": "2026-06-26 00:01:56",
@@ -933,6 +933,26 @@
       "url": "https://open.spotify.com/track/2uuGsYiBB32ZRMqL6SXvGm"
     },
     {
+      "added_at": "2026-07-10 11:02:03",
+      "album": {
+        "name": "Baby Thug",
+        "url": "https://open.spotify.com/album/1ZH9KYQn8yCLh4FBlkGNw1"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "Pami",
+      "url": "https://open.spotify.com/track/5HKje6lrhbvyyeVfZqWGlU"
+    },
+    {
       "added_at": "2026-06-26 00:01:56",
       "album": {
         "name": "Intergalactic Dreams",
@@ -955,22 +975,6 @@
     {
       "added_at": "2026-06-26 00:01:56",
       "album": {
-        "name": "CLARITY OF MIND",
-        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "CANADA BREEZE",
-      "url": "https://open.spotify.com/track/5qWYxhd84Dj1uSR3GUtpJD"
-    },
-    {
-      "added_at": "2026-06-26 00:01:56",
-      "album": {
         "name": "Back to Back",
         "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
       },
@@ -987,18 +991,18 @@
     {
       "added_at": "2026-06-26 00:01:56",
       "album": {
-        "name": "God is working",
-        "url": "https://open.spotify.com/album/1Be5vaUzPXYcPueojPjZoT"
+        "name": "CLARITY OF MIND",
+        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
       },
       "artists": [
         {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 134000,
-      "name": "God is working",
-      "url": "https://open.spotify.com/track/2HAl8ocFam6IHbIBiGQyvx"
+      "duration_ms": 162461,
+      "name": "CANADA BREEZE",
+      "url": "https://open.spotify.com/track/5qWYxhd84Dj1uSR3GUtpJD"
     },
     {
       "added_at": "2026-06-26 00:01:56",
@@ -1015,22 +1019,6 @@
       "duration_ms": 160824,
       "name": "JUNGLE",
       "url": "https://open.spotify.com/track/6hp8DmDElPmM53iOP5ZMq9"
-    },
-    {
-      "added_at": "2026-06-26 00:01:56",
-      "album": {
-        "name": "Kawasaki (Freestyle)",
-        "url": "https://open.spotify.com/album/29HAkvEAIcldJDZEkhkZuK"
-      },
-      "artists": [
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        }
-      ],
-      "duration_ms": 164464,
-      "name": "Kawasaki (Freestyle)",
-      "url": "https://open.spotify.com/track/0tLTVKOz3peNhL5Tm4wyYl"
     },
     {
       "added_at": "2026-06-26 00:01:56",
@@ -1059,6 +1047,22 @@
     {
       "added_at": "2026-06-26 00:01:56",
       "album": {
+        "name": "God is working",
+        "url": "https://open.spotify.com/album/1Be5vaUzPXYcPueojPjZoT"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "God is working",
+      "url": "https://open.spotify.com/track/2HAl8ocFam6IHbIBiGQyvx"
+    },
+    {
+      "added_at": "2026-06-26 00:01:56",
+      "album": {
         "name": "Labubu",
         "url": "https://open.spotify.com/album/49uKWSj6blfu0dE9YJRNM1"
       },
@@ -1079,22 +1083,18 @@
     {
       "added_at": "2026-06-26 00:01:56",
       "album": {
-        "name": "420",
-        "url": "https://open.spotify.com/album/2mUIIraqsiVonjQHS3R7JC"
+        "name": "Kawasaki (Freestyle)",
+        "url": "https://open.spotify.com/album/29HAkvEAIcldJDZEkhkZuK"
       },
       "artists": [
         {
-          "name": "Plutomania",
-          "url": "https://open.spotify.com/artist/018olXJmRtbs1Q0VTkspcH"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
         }
       ],
-      "duration_ms": 163768,
-      "name": "420",
-      "url": "https://open.spotify.com/track/6q8SsMtXvytOsP5CLDpxVU"
+      "duration_ms": 164464,
+      "name": "Kawasaki (Freestyle)",
+      "url": "https://open.spotify.com/track/0tLTVKOz3peNhL5Tm4wyYl"
     },
     {
       "added_at": "2026-06-26 00:01:56",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2026-06-26 00:01:56",
       "album": {
-        "name": "Loner",
-        "url": "https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH"
+        "name": "Moti High",
+        "url": "https://open.spotify.com/album/02PnfWjoM04XKcfkkUQb8g"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
         }
       ],
-      "duration_ms": 157333,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C"
+      "duration_ms": 153103,
+      "name": "Moti High",
+      "url": "https://open.spotify.com/track/1D1bWp401f4xkTm6JAZXZf"
     }
   ],
   "unique_name": "Street Energy ",

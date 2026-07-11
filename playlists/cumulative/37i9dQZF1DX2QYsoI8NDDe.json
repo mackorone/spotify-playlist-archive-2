@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Laraim \ud83d\udd25",
+  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Marian Oviedo y Laraim \ud83d\udd25",
   "name": "Women of M\u00fasica Mexicana",
   "tracks": [
     {
@@ -1038,6 +1038,24 @@
       "duration_ms": 197429,
       "name": "A\u00fan As\u00ed Te Vas",
       "url": "https://open.spotify.com/track/1brn629MQJ4GOKmUiIjFSv"
+    },
+    {
+      "album": {
+        "name": "Baby You Already Know",
+        "url": "https://open.spotify.com/album/7ffW9e0vWEcbobN2UYsIPq"
+      },
+      "artists": [
+        {
+          "name": "Jaime Carrasco Y Su 37",
+          "url": "https://open.spotify.com/artist/1luesZjrXUWCvqfkUF7RCf"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164315,
+      "name": "Baby You Already Know",
+      "url": "https://open.spotify.com/track/2KqhiKIOo47WRZMBY30vLy"
     },
     {
       "album": {
@@ -2662,6 +2680,28 @@
       "duration_ms": 227152,
       "name": "Decid\u00ed No Amarte M\u00e1s",
       "url": "https://open.spotify.com/track/59MvagSItdlMaZZrka4rfR"
+    },
+    {
+      "album": {
+        "name": "Dec\u00edas",
+        "url": "https://open.spotify.com/album/4qbGlRLvzWKjqrBHU1WPJ9"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        },
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174631,
+      "name": "Dec\u00edas",
+      "url": "https://open.spotify.com/track/4PfYbfUpKZMcS4yR83Ruuj"
     },
     {
       "album": {
@@ -12038,6 +12078,24 @@
       "duration_ms": 207307,
       "name": "T\u00fa Me Juraste",
       "url": "https://open.spotify.com/track/7H0UpwPK8u7KZZmztK4lyG"
+    },
+    {
+      "album": {
+        "name": "T\u00fa Ser\u00e1s Mi Baby",
+        "url": "https://open.spotify.com/album/5Bi4HNvi7RkD35jLJqqObs"
+      },
+      "artists": [
+        {
+          "name": "Susana Zabaleta",
+          "url": "https://open.spotify.com/artist/7JzK970uwxEKUzYUgMvC3Q"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172944,
+      "name": "T\u00fa Ser\u00e1s Mi Baby",
+      "url": "https://open.spotify.com/track/5AyIzkvWCgH7IY8qCoJbYo"
     },
     {
       "album": {

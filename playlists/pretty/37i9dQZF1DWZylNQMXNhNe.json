@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Katy da Voz e As Abusadas",
-  "num_followers": 249128,
+  "num_followers": 249135,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -531,26 +531,6 @@
     {
       "added_at": "2026-06-26 03:00:31",
       "album": {
-        "name": "VOZ AVELUDADA",
-        "url": "https://open.spotify.com/album/3pyoqiKli0w5kC67x6bbsa"
-      },
-      "artists": [
-        {
-          "name": "Mateus Carrilho",
-          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
-        },
-        {
-          "name": "Isma",
-          "url": "https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z"
-        }
-      ],
-      "duration_ms": 176402,
-      "name": "VOZ AVELUDADA",
-      "url": "https://open.spotify.com/track/7tsSYwczhdna2lzOEnc6rs"
-    },
-    {
-      "added_at": "2026-06-26 03:00:31",
-      "album": {
         "name": "MADE IN COHAB",
         "url": "https://open.spotify.com/album/66RYLrMIRZi4CgWC3fWM5S"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 192461,
       "name": "SOCIALISMO DA PUTARIA",
       "url": "https://open.spotify.com/track/6aLtcUHFthF2k5C4UoDxAb"
+    },
+    {
+      "added_at": "2026-06-26 03:00:31",
+      "album": {
+        "name": "VOZ AVELUDADA",
+        "url": "https://open.spotify.com/album/3pyoqiKli0w5kC67x6bbsa"
+      },
+      "artists": [
+        {
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
+        },
+        {
+          "name": "Isma",
+          "url": "https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z"
+        }
+      ],
+      "duration_ms": 176402,
+      "name": "VOZ AVELUDADA",
+      "url": "https://open.spotify.com/track/7tsSYwczhdna2lzOEnc6rs"
     },
     {
       "added_at": "2026-06-26 03:00:31",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-06-26 03:00:31",
       "album": {
-        "name": "MARQUINHA",
-        "url": "https://open.spotify.com/album/0jK64HhmQ9W4Z5q54zgCqz"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 146651,
-      "name": "MARQUINHA",
-      "url": "https://open.spotify.com/track/2kpH7eRW7kjkXIlJpde87R"
-    },
-    {
-      "added_at": "2026-06-26 03:00:31",
-      "album": {
         "name": "NAMORAR PELADO",
         "url": "https://open.spotify.com/album/2FHyinjQkyFkP10QI3wfMQ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 190499,
       "name": "NAMORAR PELADO",
       "url": "https://open.spotify.com/track/1YrwCp6p69CuwiY2JTIZ3e"
+    },
+    {
+      "added_at": "2026-06-26 03:00:31",
+      "album": {
+        "name": "MARQUINHA",
+        "url": "https://open.spotify.com/album/0jK64HhmQ9W4Z5q54zgCqz"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 146651,
+      "name": "MARQUINHA",
+      "url": "https://open.spotify.com/track/2kpH7eRW7kjkXIlJpde87R"
     },
     {
       "added_at": "2026-06-26 03:00:31",
@@ -871,6 +871,46 @@
     {
       "added_at": "2026-06-26 03:00:31",
       "album": {
+        "name": "Deixa a Gira Girar",
+        "url": "https://open.spotify.com/album/7ufhsTfziKNTbMmSyu8LAS"
+      },
+      "artists": [
+        {
+          "name": "Sambaiana",
+          "url": "https://open.spotify.com/artist/5gGjpgad4tcVWMv4mlOw7a"
+        },
+        {
+          "name": "Ju Moraes",
+          "url": "https://open.spotify.com/artist/19P3N1zEBTIeW3I0cyVthZ"
+        },
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        }
+      ],
+      "duration_ms": 228542,
+      "name": "Deixa a Gira Girar",
+      "url": "https://open.spotify.com/track/4Qpj3YJynrgKwrZhNQqoOp"
+    },
+    {
+      "added_at": "2026-06-26 03:00:31",
+      "album": {
+        "name": "Dilema",
+        "url": "https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b"
+      },
+      "artists": [
+        {
+          "name": "Rico Dalasam",
+          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Dilema",
+      "url": "https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A"
+    },
+    {
+      "added_at": "2026-06-26 03:00:31",
+      "album": {
         "name": "Gambiarra Chic, Pt. 1",
         "url": "https://open.spotify.com/album/2wlQIZh68jjdSizM2CReLz"
       },
@@ -895,22 +935,6 @@
     {
       "added_at": "2026-06-26 03:00:31",
       "album": {
-        "name": "Dilema",
-        "url": "https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b"
-      },
-      "artists": [
-        {
-          "name": "Rico Dalasam",
-          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "Dilema",
-      "url": "https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A"
-    },
-    {
-      "added_at": "2026-06-26 03:00:31",
-      "album": {
         "name": "VADIAS IN LOVE",
         "url": "https://open.spotify.com/album/2EEAD31nCgaqX1jfjuXT2p"
       },
@@ -927,30 +951,6 @@
       "duration_ms": 167183,
       "name": "MANIA (oi amor, bom dia)",
       "url": "https://open.spotify.com/track/1xjEboXOvVV1nkhdzueDfd"
-    },
-    {
-      "added_at": "2026-06-26 03:00:31",
-      "album": {
-        "name": "Deixa a Gira Girar",
-        "url": "https://open.spotify.com/album/7ufhsTfziKNTbMmSyu8LAS"
-      },
-      "artists": [
-        {
-          "name": "Sambaiana",
-          "url": "https://open.spotify.com/artist/5gGjpgad4tcVWMv4mlOw7a"
-        },
-        {
-          "name": "Ju Moraes",
-          "url": "https://open.spotify.com/artist/19P3N1zEBTIeW3I0cyVthZ"
-        },
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        }
-      ],
-      "duration_ms": 228542,
-      "name": "Deixa a Gira Girar",
-      "url": "https://open.spotify.com/track/4Qpj3YJynrgKwrZhNQqoOp"
     },
     {
       "added_at": "2026-06-26 03:00:31",

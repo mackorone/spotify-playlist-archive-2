@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Em e Rhove in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,928 likes - 75 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,960 likes - 75 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 19 | [RAGAZZI NORMALI](https://open.spotify.com/track/5zorq1ENka0BYjvrmXIrpb) | [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj), [Cripo](https://open.spotify.com/artist/4gStQ4qUXS6NLN8N7GThb0), [Swan](https://open.spotify.com/artist/6c3y5GxfMe6dWgUtTLnnCE) | [RAGAZZI NORMALI](https://open.spotify.com/album/59hnopWRNX7w6EJDwt4jyA) | 2:28 |
 | 20 | [PUTT\*\*A \(From the Netflix Rap Show "Nuova Scena"\)](https://open.spotify.com/track/4Z7KWzHtc9rpS9wCiYTuLT) | [THYNA](https://open.spotify.com/artist/7yah06bwmQDOwfp80ddBci), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [PUTT\*\*A \(From the Netflix Rap Show "Nuova Scena"\)](https://open.spotify.com/album/6QNUbZTI9mq1izRydhQawh) | 2:38 |
 | 21 | [punto a capo \(feat\. Low\-Red\)](https://open.spotify.com/track/3kZRvhg9rrM7AFRMO8zAcb) | [Quest](https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [quore](https://open.spotify.com/album/3jTdiZNoaP6aVyCavTS2to) | 2:43 |
-| 22 | [CHE CASINO](https://open.spotify.com/track/30QLnThExGJ7GNPF46Uiat) | [KLIMA](https://open.spotify.com/artist/6NHTkpBxWi4lWRZnpwPYm8), [kasp](https://open.spotify.com/artist/048NuaV1oQuPYY6sgEcsDG), [polemica](https://open.spotify.com/artist/43hzLhwtbiqp35sdVTMpqE), [Sandro](https://open.spotify.com/artist/70ZD9O67UZeHtFna5vAfzo) | [CHE CASINO](https://open.spotify.com/album/3iPzPbRN85Fpd7EBXko2wX) | 2:15 |
+| 22 | [CHE CASINO](https://open.spotify.com/track/30QLnThExGJ7GNPF46Uiat) | [KLIMA](https://open.spotify.com/artist/6NHTkpBxWi4lWRZnpwPYm8), [kasp](https://open.spotify.com/artist/048NuaV1oQuPYY6sgEcsDG), [polemica](https://open.spotify.com/artist/43hzLhwtbiqp35sdVTMpqE), [Sandro](https://open.spotify.com/artist/23llbnsZIwzYe82gAGVpaI) | [CHE CASINO](https://open.spotify.com/album/3iPzPbRN85Fpd7EBXko2wX) | 2:15 |
 | 23 | [Binario Morto](https://open.spotify.com/track/49o7KtRwgmsBBkFHHbdTeR) | [AyEm](https://open.spotify.com/artist/6EmlTOLU2nKoltjhXC1oqS) | [Binario Morto](https://open.spotify.com/album/5Dx7QVdwK1a6sZagYlDMVp) | 2:45 |
 | 24 | [THERAPY](https://open.spotify.com/track/3Ks9XqXoWVkgbjvZmEE0am) | [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE) | [THERAPY](https://open.spotify.com/album/4OFBRgr0wo0IfA2X3Lz43C) | 2:38 |
 | 25 | [LEGGENDA DEL SUD](https://open.spotify.com/track/43dVkgtT9UFzcxviP0sLwb) | [sir prodige](https://open.spotify.com/artist/5wXOwi8XUn74iwMInSldYp) | [LEGGENDA DEL SUD](https://open.spotify.com/album/6kSBNNGvmc3tG0EAf1H3Yi) | 2:40 |

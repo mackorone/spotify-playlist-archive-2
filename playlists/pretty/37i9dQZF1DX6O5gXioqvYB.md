@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > tutte le migliori novità indie 🇮🇹  SANO in cover tutto allucinato 🌀
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,886 likes - 101 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,887 likes - 101 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 17 | [MUSICA VELOCE](https://open.spotify.com/track/6X8tOMUlOOOAeI3AOyxKng) | [TELLMEWISE](https://open.spotify.com/artist/2YeePXfhr0Be7X84n7ot3U), [prxddom](https://open.spotify.com/artist/0HH1FNMGbKb7botxWTTDSe) | [MUSICA VELOCE](https://open.spotify.com/album/1QXJNpTQO8doVPIdmTKQn8) | 2:38 |
 | 18 | [Dia Apos Dia](https://open.spotify.com/track/2BlI8HlAds71wCi3ZL8xJp) | [TYTO](https://open.spotify.com/artist/0S59moEnRYKPvI5g5EvihU), [Giovanni Truppi](https://open.spotify.com/artist/6qSYb2AiQlXlAoa50vLx5m) | [Ora è Ora](https://open.spotify.com/album/3kJIQNs36pjPB5aFbaWEWr) | 4:42 |
 | 19 | [Bulloncino](https://open.spotify.com/track/0UsFaxyzJ0lsNQ6n1vcDkV) | [Cavalli Mongoli](https://open.spotify.com/artist/3Osv689JytmJgtQNBb16Mk) | [Bulloncino](https://open.spotify.com/album/4EnOWPgUvJjHgPdHzuNgFa) | 3:26 |
-| 20 | [Niente di Speciale \- Marlene](https://open.spotify.com/track/51weS1IC207v8J6KZlEZkk) | [Evandro](https://open.spotify.com/artist/1iSp6fP7gO2Z459KZ9shFJ) | [Niente di Speciale \(Marlene\)](https://open.spotify.com/album/5vFjB4pusnn4ecey5MLlrG) | 3:50 |
+| 20 | [Niente di Speciale \- Marlene](https://open.spotify.com/track/51weS1IC207v8J6KZlEZkk) | [Evandro](https://open.spotify.com/artist/1iSp6fP7gO2Z459KZ9shFJ) | [Niente di Speciale \(Marlene\)](https://open.spotify.com/album/5vFjB4pusnn4ecey5MLlrG) | 3:45 |
 | 21 | [Desperado](https://open.spotify.com/track/2zOOLLdH86Q6ciUBR0FRib) | [Pablo America](https://open.spotify.com/artist/3VxU0EXOZcuAEVsi0dhKWV) | [Canzoni d’amore per Luigi Mangione](https://open.spotify.com/album/2nfMK7OoMeQqIlcitrR78y) | 2:46 |
 | 22 | [Non ci si ama solo in primavera](https://open.spotify.com/track/6P0Bmiv2zEEroMtD3cBrAk) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Non ci si ama solo in primavera](https://open.spotify.com/album/4O4w4WbUZvNxPZ2ijhHCdw) | 3:20 |
 | 23 | [People of the Moon](https://open.spotify.com/track/0hnet7s0hzoSWozISu4TQ8) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [People of the Moon](https://open.spotify.com/album/7b2loBX3KU66zmHk4UI30K) | 3:10 |

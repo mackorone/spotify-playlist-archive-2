@@ -4,7 +4,7 @@
 
 > Sweet sounds and welcoming vibes—come on in and stay for a while
 
-266 songs - 16 hr 39 min
+267 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [American Dream](https://open.spotify.com/track/0OOIFL8VNFHXRSsci9F2m4) | [Rainbow Girls](https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7) | [American Dream](https://open.spotify.com/album/14MQkr5UdHfFY4IvpMv08p) | 4:52 | 2021-11-19 | 2023-07-29 |
 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 | 2021-11-19 |  |
 | [Avalon, My Hometown](https://open.spotify.com/track/0JIRGF8Q3qjw73kCQ83FN6) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Avalon, My Hometown](https://open.spotify.com/album/3V65aoyRCvsL5rv0JoO8IZ) | 4:20 | 2022-10-28 | 2026-02-21 |
-| [Aw Jeez](https://open.spotify.com/track/0iBCiqgiu2afgvBhPBBuQv) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Aw Jeez](https://open.spotify.com/album/1C5HxdwvGIMuEgOFDccqYb) | 4:20 | 2022-05-16 |  |
+| [Aw Jeez](https://open.spotify.com/track/0iBCiqgiu2afgvBhPBBuQv) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Aw Jeez](https://open.spotify.com/album/1C5HxdwvGIMuEgOFDccqYb) | 4:20 | 2022-05-16 | 2026-07-11 |
 | [Bees](https://open.spotify.com/track/13otFWMHR8dlJ73XnSEW8y) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Deadeye](https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V) | 3:10 | 2022-05-16 | 2024-04-19 |
 | [Bees](https://open.spotify.com/track/3Iju4sprTb8as0be1A41q6) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Deadeye](https://open.spotify.com/album/0lzI1rQiTkkWyse0qv4y7C) | 3:10 | 2021-11-19 | 2026-02-21 |
 | [Belly of the Beast](https://open.spotify.com/track/0wVW9re949n7qz4wSahxef) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/4I0MTtE0olpLIVMzoN8KJN) | 4:11 | 2021-11-19 | 2026-02-21 |
@@ -179,12 +179,13 @@
 | [Peace In The Valley](https://open.spotify.com/track/3dY21TGWCgJWjInJyIVf10) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Boots No\. 2: The Lost Songs, Vol\. 3](https://open.spotify.com/album/2A3zdBNByKeHyD5ivtwuOV) | 2:49 | 2022-05-16 | 2024-04-19 |
 | [Perfect Imperfections](https://open.spotify.com/track/7g5xq6q4oQBE6P3NjD0jRB) | [Marla Cannon\-Goodman](https://open.spotify.com/artist/74uAZmRdVsXyRNOPAS2Zxj) | [Perfect Imperfections](https://open.spotify.com/album/2JOhuGsvdV1Xkwpv4yWuxp) | 4:02 | 2021-11-19 | 2026-02-21 |
 | [Picasso](https://open.spotify.com/track/1Ctf9libwEW2H4Xorc625L) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Boots No\. 2: The Lost Songs, Vol\. 2](https://open.spotify.com/album/6yhpvD3T1rlfsGUAoYcIeL) | 3:41 | 2022-05-16 | 2024-04-19 |
-| [Picasso](https://open.spotify.com/track/61lEtBJFRuC8Ssf007KI7A) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Boots No\. 2: The Lost Songs, Vol\. 2](https://open.spotify.com/album/2eTVwNCb5MD6rESetU4t4M) | 3:41 | 2021-11-19 |  |
+| [Picasso](https://open.spotify.com/track/61lEtBJFRuC8Ssf007KI7A) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Boots No\. 2: The Lost Songs, Vol\. 2](https://open.spotify.com/album/2eTVwNCb5MD6rESetU4t4M) | 3:41 | 2021-11-19 | 2026-07-11 |
 | [Picture](https://open.spotify.com/track/3gM04ju6IpdlcAOFhHYYdJ) | [Eddie Flint](https://open.spotify.com/artist/1OiaW9PZCUJlkINotRihrA) | [Picture](https://open.spotify.com/album/5WNZrufN9IiYYtaI7JExmu) | 3:07 | 2023-07-07 |  |
 | [Poor Lost Souls](https://open.spotify.com/track/3wG5ynGTSJy7JtWzCIMDFR) | [Jimbo Mathus](https://open.spotify.com/artist/4KGeE0Un8kmgFiF2cxZ0xR), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Poor Lost Souls](https://open.spotify.com/album/4rRGLoOo2DIwGg8szXLsrK) | 4:16 | 2021-11-19 | 2026-02-21 |
 | [Poor Lost Souls](https://open.spotify.com/track/4E7j3KHM7hCLrgEa1UF6MW) | [Jimbo Mathus](https://open.spotify.com/artist/4KGeE0Un8kmgFiF2cxZ0xR), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Poor Lost Souls](https://open.spotify.com/album/3ZFe34ht2OPadmjKbAVT1v) | 4:16 | 2022-05-16 | 2022-11-13 |
 | [Poor Lost Souls](https://open.spotify.com/track/5saHD81HEsU6vCO07JJyVB) | [Jimbo Mathus](https://open.spotify.com/artist/4KGeE0Un8kmgFiF2cxZ0xR), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [These 13](https://open.spotify.com/album/5e7me68eSPsVkbQoGdpEkh) | 4:16 | 2022-05-16 | 2024-04-19 |
 | [Reason To Live](https://open.spotify.com/track/2uMnzAOQM1lujLa1k1yUoX) | [Fruition](https://open.spotify.com/artist/4dDqxbEKfPN3RZYrGr36y8) | [Reason To Live](https://open.spotify.com/album/04vOxQOY2dr5OmvgRSjPby) | 3:15 | 2026-06-19 |  |
+| [Reasons](https://open.spotify.com/track/6qp7oXl2E2DDwDMJPhb1xX) | [Luke Tyler Shelton](https://open.spotify.com/artist/403x11RUETcMwsBZlbneLC) | [Reasons](https://open.spotify.com/album/5VLjMfC2GGKl98RElwNnhv) | 3:03 | 2026-07-10 |  |
 | [Red Bird Morning](https://open.spotify.com/track/6dZueQyPiXXlvhSZuOQ0IY) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 3:13 | 2021-11-19 |  |
 | [Rhododendron \- Alt Version](https://open.spotify.com/track/3BztjA6CxeX7vAAzQ92uLL) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron \(Alt Version\)](https://open.spotify.com/album/59EGA2TGxXHE6lVXFnybKp) | 5:22 | 2023-12-08 |  |
 | [Rhododendron \[Feat\. Ye Vagabonds\] \- Rocky Mount](https://open.spotify.com/track/1lw30X1dHXZ1Z5cPLFHYzw) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Ye Vagabonds](https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO) | [Ain't That Fine \(Davis\)](https://open.spotify.com/album/4jepCP20tlZ6oG8AKUuTdM) | 5:35 | 2026-03-13 |  |
