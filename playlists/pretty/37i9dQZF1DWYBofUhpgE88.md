@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 
 > per spingere come veri gym bro e gym sis
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,271 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,285 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 | 99 | [Felpa Nera \(feat\. ANNA\)](https://open.spotify.com/track/168t3ud7jZIslO0P5ZDKnj) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [RYAN TED](https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7) | 2:04 |
 | 100 | [Danielle \(smile on my face\)](https://open.spotify.com/track/09Rv6ctDE0t9z8zk5FINg8) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop) | 3:21 |
 
-Snapshot ID: `AAAAAMke9oAjNNp/rRKAUtrN11rgYTBB`
+Snapshot ID: `AAAAAIheQZYhZq6mI1kSLG+wOEv3g4RV`

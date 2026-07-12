@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Kris Kross Amsterdam, Luisa Sonza & Willy William
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,621 likes - 102 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,618 likes - 102 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 25 | [JANICE \(with Conor Maynard\)](https://open.spotify.com/track/1Sjfu70rBNYkXF2KzMUfrW) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [JANICE \(with Conor Maynard\)](https://open.spotify.com/album/5bkhJZxXuEK1mqGZHwpUjP) | 1:44 |
 | 26 | [Can I Ride](https://open.spotify.com/track/3gXGtYT41b4FXYctdxMwCI) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [95 South](https://open.spotify.com/artist/3vjd6YHdWCqO3MWaYbxDf0) | [Can I Ride](https://open.spotify.com/album/4N2frseoAuec502jnHYCb8) | 2:43 |
 | 27 | [We Rave \- Part Two](https://open.spotify.com/track/4CObYsJjb5YStYPcfOI5Nt) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [We Rave \(Part One & Part Two\)](https://open.spotify.com/album/5UOVBJYCvmVM6XmZib15Iz) | 1:31 |
-| 28 | [Say Say Say](https://open.spotify.com/track/7Lzpe5Tc2L88q1JEflWWPD) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A) | [Say Say Say](https://open.spotify.com/album/2EEXTl5RoS0pOzJhnYWRJe) | 3:05 |
+| 28 | [Say Say Say](https://open.spotify.com/track/7Lzpe5Tc2L88q1JEflWWPD) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A) | [Say Say Say](https://open.spotify.com/album/2EEXTl5RoS0pOzJhnYWRJe) | 2:50 |
 | 29 | [Before You Go \(Feat\. Luxtides\)](https://open.spotify.com/track/4kQX42ed8SzaydbFOVObVv) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Luxtides](https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe) | [Before You Go \(Feat\. Luxtides\)](https://open.spotify.com/album/0bIYLxgKqGbkXLJsBGGRbp) | 3:36 |
 | 30 | [Better With You](https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF) | [Better With You](https://open.spotify.com/album/3Uuy2TmXMScAV6Mzy9CZiO) | 3:31 |
 | 31 | [Hold My Breath](https://open.spotify.com/track/4FOdgYVV5xaMjY0NCZoFEu) | [Albi](https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Hold My Breath](https://open.spotify.com/album/540DKCihQemJiYBN9AFi4m) | 2:20 |

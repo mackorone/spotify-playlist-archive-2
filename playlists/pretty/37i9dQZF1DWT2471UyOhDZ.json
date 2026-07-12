@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Julia Jacklin",
-  "num_followers": 93609,
+  "num_followers": 93608,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,18 @@
     {
       "added_at": "2026-06-25 23:00:39",
       "album": {
-        "name": "This Mirror Weighs a Ton/See Out Loud",
-        "url": "https://open.spotify.com/album/53ZH0bU5CZ1QVfz92eImpl"
+        "name": "The Swell",
+        "url": "https://open.spotify.com/album/5B3s2wHvYBUrZIzo5J5C8y"
       },
       "artists": [
         {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
         }
       ],
-      "duration_ms": 296746,
-      "name": "See Out Loud",
-      "url": "https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj"
+      "duration_ms": 207959,
+      "name": "The Swell",
+      "url": "https://open.spotify.com/track/6QUuLk63S1azIQbmDEvpfS"
     },
     {
       "added_at": "2026-06-25 23:00:39",
@@ -187,18 +187,18 @@
     {
       "added_at": "2026-06-25 23:00:39",
       "album": {
-        "name": "The Swell",
-        "url": "https://open.spotify.com/album/5B3s2wHvYBUrZIzo5J5C8y"
+        "name": "This Mirror Weighs a Ton/See Out Loud",
+        "url": "https://open.spotify.com/album/53ZH0bU5CZ1QVfz92eImpl"
       },
       "artists": [
         {
-          "name": "Amble",
-          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
         }
       ],
-      "duration_ms": 207959,
-      "name": "The Swell",
-      "url": "https://open.spotify.com/track/6QUuLk63S1azIQbmDEvpfS"
+      "duration_ms": 296746,
+      "name": "See Out Loud",
+      "url": "https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj"
     },
     {
       "added_at": "2026-06-25 23:00:39",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-06-25 23:00:39",
       "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/0aP1rf4Xix1A4oG6q2SfWy"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "duration_ms": 247166,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/4YZ7rGwFbbbOTJZECr4T8W"
+    },
+    {
+      "added_at": "2026-06-25 23:00:39",
+      "album": {
         "name": "Puppet - Taken From Peaky Blinders: The Immortal Man (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/6Ear3FNXxaxeTUqTinbPRD"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 266759,
       "name": "Puppet - Taken From Peaky Blinders: The Immortal Man (Soundtrack from the Netflix Film)",
       "url": "https://open.spotify.com/track/7dtX124bngqv8RPPccWYUC"
-    },
-    {
-      "added_at": "2026-06-25 23:00:39",
-      "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/0aP1rf4Xix1A4oG6q2SfWy"
-      },
-      "artists": [
-        {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
-        }
-      ],
-      "duration_ms": 247166,
-      "name": "Voyager",
-      "url": "https://open.spotify.com/track/4YZ7rGwFbbbOTJZECr4T8W"
     },
     {
       "added_at": "2026-06-25 23:00:39",
@@ -491,6 +491,22 @@
       "duration_ms": 339424,
       "name": "Nosedive",
       "url": "https://open.spotify.com/track/0TbUriU2INQ0wqNubRpFTX"
+    },
+    {
+      "added_at": "2026-06-25 23:00:39",
+      "album": {
+        "name": "New Beginnings",
+        "url": "https://open.spotify.com/album/1nxl2vB89z0kQIWvh7LZWA"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "duration_ms": 207166,
+      "name": "New Beginnings",
+      "url": "https://open.spotify.com/track/26KwVbIh7uWnHBfEVfVar8"
     },
     {
       "added_at": "2026-06-25 23:00:39",
@@ -551,22 +567,6 @@
     {
       "added_at": "2026-06-25 23:00:39",
       "album": {
-        "name": "New Beginnings",
-        "url": "https://open.spotify.com/album/1nxl2vB89z0kQIWvh7LZWA"
-      },
-      "artists": [
-        {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
-        }
-      ],
-      "duration_ms": 207166,
-      "name": "New Beginnings",
-      "url": "https://open.spotify.com/track/26KwVbIh7uWnHBfEVfVar8"
-    },
-    {
-      "added_at": "2026-06-25 23:00:39",
-      "album": {
         "name": "Double Infinity",
         "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
       },
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-06-25 23:00:39",
       "album": {
+        "name": "Blue Morpho",
+        "url": "https://open.spotify.com/album/6U0M6Tp6DMGduBdp5rVzqe"
+      },
+      "artists": [
+        {
+          "name": "Ed O'Brien",
+          "url": "https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE"
+        }
+      ],
+      "duration_ms": 318546,
+      "name": "Teachers",
+      "url": "https://open.spotify.com/track/0XFPAjBsHwYeMnMfYeTGr4"
+    },
+    {
+      "added_at": "2026-06-25 23:00:39",
+      "album": {
         "name": "i'm not joking",
         "url": "https://open.spotify.com/album/6kn0sKYNf2rnfk0Gr9lxUP"
       },
@@ -615,18 +631,18 @@
     {
       "added_at": "2026-06-25 23:00:39",
       "album": {
-        "name": "Blue Morpho",
-        "url": "https://open.spotify.com/album/6U0M6Tp6DMGduBdp5rVzqe"
+        "name": "Cap In Hand",
+        "url": "https://open.spotify.com/album/1zy5MTDu9hdJJZFFJocUV5"
       },
       "artists": [
         {
-          "name": "Ed O'Brien",
-          "url": "https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE"
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
         }
       ],
-      "duration_ms": 318546,
-      "name": "Teachers",
-      "url": "https://open.spotify.com/track/0XFPAjBsHwYeMnMfYeTGr4"
+      "duration_ms": 212760,
+      "name": "Cap In Hand",
+      "url": "https://open.spotify.com/track/7FZQ2rD9dTDt8GY3zJostK"
     },
     {
       "added_at": "2026-06-25 23:00:39",
@@ -663,18 +679,18 @@
     {
       "added_at": "2026-06-25 23:00:39",
       "album": {
-        "name": "Cap In Hand",
-        "url": "https://open.spotify.com/album/1zy5MTDu9hdJJZFFJocUV5"
+        "name": "Spin",
+        "url": "https://open.spotify.com/album/5KX0Uj86kvTpEOMyEFgw8d"
       },
       "artists": [
         {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+          "name": "Johnny Marr",
+          "url": "https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS"
         }
       ],
-      "duration_ms": 212760,
-      "name": "Cap In Hand",
-      "url": "https://open.spotify.com/track/7FZQ2rD9dTDt8GY3zJostK"
+      "duration_ms": 230866,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/7u4ifZOfedfYY0LQABsXzx"
     },
     {
       "added_at": "2026-06-25 23:00:39",
@@ -695,18 +711,18 @@
     {
       "added_at": "2026-06-25 23:00:39",
       "album": {
-        "name": "Spin",
-        "url": "https://open.spotify.com/album/5KX0Uj86kvTpEOMyEFgw8d"
+        "name": "Illinois Again",
+        "url": "https://open.spotify.com/album/46ogyvsglHfzceKTtzcbNN"
       },
       "artists": [
         {
-          "name": "Johnny Marr",
-          "url": "https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS"
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
         }
       ],
-      "duration_ms": 230866,
-      "name": "Spin",
-      "url": "https://open.spotify.com/track/7u4ifZOfedfYY0LQABsXzx"
+      "duration_ms": 236223,
+      "name": "Illinois Again",
+      "url": "https://open.spotify.com/track/2VjZpK6FAhMxfJwBDMBeij"
     },
     {
       "added_at": "2026-06-25 23:00:39",
@@ -723,22 +739,6 @@
       "duration_ms": 392098,
       "name": "One of the Greats",
       "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
-    },
-    {
-      "added_at": "2026-06-25 23:00:39",
-      "album": {
-        "name": "Illinois Again",
-        "url": "https://open.spotify.com/album/46ogyvsglHfzceKTtzcbNN"
-      },
-      "artists": [
-        {
-          "name": "Sorcha Richardson",
-          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
-        }
-      ],
-      "duration_ms": 236223,
-      "name": "Illinois Again",
-      "url": "https://open.spotify.com/track/2VjZpK6FAhMxfJwBDMBeij"
     },
     {
       "added_at": "2026-06-25 23:00:39",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-06-25 23:00:39",
       "album": {
+        "name": "This is the Killer Speaking",
+        "url": "https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 294773,
+      "name": "This is the Killer Speaking",
+      "url": "https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX"
+    },
+    {
+      "added_at": "2026-06-25 23:00:39",
+      "album": {
         "name": "HELP(2)",
         "url": "https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa"
       },
@@ -827,34 +843,18 @@
     {
       "added_at": "2026-06-25 23:00:39",
       "album": {
-        "name": "This is the Killer Speaking",
-        "url": "https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn"
+        "name": "Creature of Habit",
+        "url": "https://open.spotify.com/album/2fmY3KwKCrlwhmlb308sI2"
       },
       "artists": [
         {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
         }
       ],
-      "duration_ms": 294773,
-      "name": "This is the Killer Speaking",
-      "url": "https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX"
-    },
-    {
-      "added_at": "2026-06-25 23:00:39",
-      "album": {
-        "name": "Crash Landing",
-        "url": "https://open.spotify.com/album/16yiIpsUTGRqStqX4tcc6y"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 334216,
-      "name": "Crash Landing",
-      "url": "https://open.spotify.com/track/38UijG8bkv7lBoo3xoSbgA"
+      "duration_ms": 282062,
+      "name": "One Thing At A Time",
+      "url": "https://open.spotify.com/track/2o2s7sFRf9XByKXoV0Qw6e"
     },
     {
       "added_at": "2026-06-25 23:00:39",
@@ -875,18 +875,18 @@
     {
       "added_at": "2026-06-25 23:00:39",
       "album": {
-        "name": "Creature of Habit",
-        "url": "https://open.spotify.com/album/2fmY3KwKCrlwhmlb308sI2"
+        "name": "Crash Landing",
+        "url": "https://open.spotify.com/album/16yiIpsUTGRqStqX4tcc6y"
       },
       "artists": [
         {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
         }
       ],
-      "duration_ms": 282062,
-      "name": "One Thing At A Time",
-      "url": "https://open.spotify.com/track/2o2s7sFRf9XByKXoV0Qw6e"
+      "duration_ms": 334216,
+      "name": "Crash Landing",
+      "url": "https://open.spotify.com/track/38UijG8bkv7lBoo3xoSbgA"
     },
     {
       "added_at": "2026-06-25 23:00:39",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-06-25 23:00:39",
       "album": {
-        "name": "5words",
-        "url": "https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl"
-      },
-      "artists": [
-        {
-          "name": "RIP Magic",
-          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
-        }
-      ],
-      "duration_ms": 317613,
-      "name": "5words",
-      "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
-    },
-    {
-      "added_at": "2026-06-25 23:00:39",
-      "album": {
         "name": "I quit",
         "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 202626,
       "name": "All over me",
       "url": "https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m"
+    },
+    {
+      "added_at": "2026-06-25 23:00:39",
+      "album": {
+        "name": "5words",
+        "url": "https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl"
+      },
+      "artists": [
+        {
+          "name": "RIP Magic",
+          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
+        }
+      ],
+      "duration_ms": 317613,
+      "name": "5words",
+      "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
     },
     {
       "added_at": "2026-06-25 23:00:39",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2026-06-25 23:00:39",
       "album": {
-        "name": "Grenadine",
-        "url": "https://open.spotify.com/album/3MBqDqbQylcQWNGVkFcQvU"
+        "name": "Just Can't Wait",
+        "url": "https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah"
       },
       "artists": [
         {
-          "name": "Sorcha Richardson",
-          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
         }
       ],
-      "duration_ms": 188777,
-      "name": "Grenadine",
-      "url": "https://open.spotify.com/track/2mmRj1egR3rhLwfpUZazfv"
+      "duration_ms": 382508,
+      "name": "Just Can't Wait",
+      "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
     },
     {
       "added_at": "2026-06-25 23:00:39",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2026-06-25 23:00:39",
       "album": {
-        "name": "Just Can't Wait",
-        "url": "https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah"
+        "name": "Grenadine",
+        "url": "https://open.spotify.com/album/3MBqDqbQylcQWNGVkFcQvU"
       },
       "artists": [
         {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
         }
       ],
-      "duration_ms": 382508,
-      "name": "Just Can't Wait",
-      "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
+      "duration_ms": 188777,
+      "name": "Grenadine",
+      "url": "https://open.spotify.com/track/2mmRj1egR3rhLwfpUZazfv"
     },
     {
       "added_at": "2026-06-25 23:00:39",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-06-25 23:00:39",
       "album": {
-        "name": "Third Side of the Moon",
-        "url": "https://open.spotify.com/album/311t5nnuS4Fo6citMUuXMB"
-      },
-      "artists": [
-        {
-          "name": "Modest Mouse",
-          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
-        }
-      ],
-      "duration_ms": 276095,
-      "name": "Picking Dragons' Pockets",
-      "url": "https://open.spotify.com/track/1j5eedtT8HcViWk0f702gT"
-    },
-    {
-      "added_at": "2026-06-25 23:00:39",
-      "album": {
         "name": "Dialing In",
         "url": "https://open.spotify.com/album/3TCiNEzwse1s2hArQotFMK"
       },
@@ -1587,22 +1571,6 @@
     {
       "added_at": "2026-06-25 23:00:39",
       "album": {
-        "name": "Golden Chain",
-        "url": "https://open.spotify.com/album/5dHNcyLX9WwAcHm2lQtp53"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 169480,
-      "name": "Golden Chain",
-      "url": "https://open.spotify.com/track/7gwDV78DGbiCzEuA5foUgU"
-    },
-    {
-      "added_at": "2026-06-25 23:00:39",
-      "album": {
         "name": "Drug Dealer",
         "url": "https://open.spotify.com/album/3HMDYUcXTyjloGkANiPxP5"
       },
@@ -1615,6 +1583,38 @@
       "duration_ms": 238986,
       "name": "Drug Dealer",
       "url": "https://open.spotify.com/track/29DPlF67ReoJrdJCP6r0pL"
+    },
+    {
+      "added_at": "2026-06-25 23:00:39",
+      "album": {
+        "name": "Third Side of the Moon",
+        "url": "https://open.spotify.com/album/311t5nnuS4Fo6citMUuXMB"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 276095,
+      "name": "Picking Dragons' Pockets",
+      "url": "https://open.spotify.com/track/1j5eedtT8HcViWk0f702gT"
+    },
+    {
+      "added_at": "2026-06-25 23:00:39",
+      "album": {
+        "name": "Golden Chain",
+        "url": "https://open.spotify.com/album/5dHNcyLX9WwAcHm2lQtp53"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 169480,
+      "name": "Golden Chain",
+      "url": "https://open.spotify.com/track/7gwDV78DGbiCzEuA5foUgU"
     },
     {
       "added_at": "2026-06-25 23:00:39",

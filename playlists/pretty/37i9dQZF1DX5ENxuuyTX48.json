@@ -1,6 +1,6 @@
 {
   "description": "After all, we are all siblings. Cover: Barasuara",
-  "num_followers": 37089,
+  "num_followers": 37090,
   "original_name": "mantap vibes",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-07-10 08:19:51",
       "album": {
-        "name": "MARKERS AND SUCH PENS FLASHDISKS",
-        "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
-      },
-      "artists": [
-        {
-          "name": "Sal Priadi",
-          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
-        }
-      ],
-      "duration_ms": 305357,
-      "name": "Ada titik-titik di ujung doa",
-      "url": "https://open.spotify.com/track/1E7zLPDdqo0OvzVmGj5aoV"
-    },
-    {
-      "added_at": "2026-07-10 08:19:51",
-      "album": {
         "name": "Bahagia Lagi",
         "url": "https://open.spotify.com/album/5Dwl7DzGeKt0iSXXwefCIX"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 227415,
       "name": "Bahagia Lagi",
       "url": "https://open.spotify.com/track/5tZaKZPJtiHh6teQfVEHB5"
+    },
+    {
+      "added_at": "2026-07-10 08:19:51",
+      "album": {
+        "name": "MARKERS AND SUCH PENS FLASHDISKS",
+        "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
+      },
+      "artists": [
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "duration_ms": 305357,
+      "name": "Ada titik-titik di ujung doa",
+      "url": "https://open.spotify.com/track/1E7zLPDdqo0OvzVmGj5aoV"
     },
     {
       "added_at": "2026-07-10 08:19:51",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-07-10 08:19:51",
       "album": {
-        "name": "Teganya Kau",
-        "url": "https://open.spotify.com/album/2MNxWXky396sx7AEf71fsE"
-      },
-      "artists": [
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "Teganya Kau",
-      "url": "https://open.spotify.com/track/7BVtNEGHh8O2kLyciokFyl"
-    },
-    {
-      "added_at": "2026-07-10 08:19:51",
-      "album": {
         "name": "Alamak",
         "url": "https://open.spotify.com/album/5oUWkx2j4lVO8u7kM3XnJT"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 209040,
       "name": "Alamak",
       "url": "https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe"
+    },
+    {
+      "added_at": "2026-07-10 08:19:51",
+      "album": {
+        "name": "Teganya Kau",
+        "url": "https://open.spotify.com/album/2MNxWXky396sx7AEf71fsE"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Teganya Kau",
+      "url": "https://open.spotify.com/track/7BVtNEGHh8O2kLyciokFyl"
     },
     {
       "added_at": "2026-07-10 08:19:51",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-07-10 08:19:51",
       "album": {
-        "name": "ambiVert",
-        "url": "https://open.spotify.com/album/4SVd1APxtjPLbghqMzqmBq"
-      },
-      "artists": [
-        {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
-        },
-        {
-          "name": "Rony Parulian",
-          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
-        }
-      ],
-      "duration_ms": 256156,
-      "name": "Tetap Bukan Kamu (feat. Rony Parulian)",
-      "url": "https://open.spotify.com/track/0taGkMseEIkIZ3noyFFfZA"
-    },
-    {
-      "added_at": "2026-07-10 08:19:51",
-      "album": {
         "name": "Astaga Bercanda",
         "url": "https://open.spotify.com/album/03NBHdtrGXlm3VHkjFAiSY"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 166850,
       "name": "Astaga Bercanda",
       "url": "https://open.spotify.com/track/03fkIoNyruY4N2Pa5CqTvv"
+    },
+    {
+      "added_at": "2026-07-10 08:19:51",
+      "album": {
+        "name": "ambiVert",
+        "url": "https://open.spotify.com/album/4SVd1APxtjPLbghqMzqmBq"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        },
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "duration_ms": 256156,
+      "name": "Tetap Bukan Kamu (feat. Rony Parulian)",
+      "url": "https://open.spotify.com/track/0taGkMseEIkIZ3noyFFfZA"
     },
     {
       "added_at": "2026-07-10 08:19:51",
@@ -895,18 +895,18 @@
     {
       "added_at": "2026-07-10 08:19:51",
       "album": {
-        "name": "SUPER EKSIS",
-        "url": "https://open.spotify.com/album/7q6KTNDz0hFOyCe6IUTJrO"
+        "name": "Wals Akhir Zaman",
+        "url": "https://open.spotify.com/album/1irM7toJ5iqS1vY82rGhTK"
       },
       "artists": [
         {
-          "name": "Naufal Syachreza",
-          "url": "https://open.spotify.com/artist/3x1vHC0kthfGxbY5w8AiRE"
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
         }
       ],
-      "duration_ms": 146250,
-      "name": "NACKAL (Mama Papa Larang)",
-      "url": "https://open.spotify.com/track/1OJgIOexFa1aIp33EH8BF6"
+      "duration_ms": 192857,
+      "name": "Wals Akhir Zaman",
+      "url": "https://open.spotify.com/track/1LwnJ36kvYmZVQ0Ol6ULn4"
     },
     {
       "added_at": "2026-07-10 08:19:51",
@@ -927,18 +927,18 @@
     {
       "added_at": "2026-07-10 08:19:51",
       "album": {
-        "name": "Wals Akhir Zaman",
-        "url": "https://open.spotify.com/album/1irM7toJ5iqS1vY82rGhTK"
+        "name": "SUPER EKSIS",
+        "url": "https://open.spotify.com/album/7q6KTNDz0hFOyCe6IUTJrO"
       },
       "artists": [
         {
-          "name": "Rony Parulian",
-          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+          "name": "Naufal Syachreza",
+          "url": "https://open.spotify.com/artist/3x1vHC0kthfGxbY5w8AiRE"
         }
       ],
-      "duration_ms": 192857,
-      "name": "Wals Akhir Zaman",
-      "url": "https://open.spotify.com/track/1LwnJ36kvYmZVQ0Ol6ULn4"
+      "duration_ms": 146250,
+      "name": "NACKAL (Mama Papa Larang)",
+      "url": "https://open.spotify.com/track/1OJgIOexFa1aIp33EH8BF6"
     },
     {
       "added_at": "2026-07-10 08:19:51",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-07-10 08:19:51",
       "album": {
+        "name": "Rahasia Pertama",
+        "url": "https://open.spotify.com/album/46Vu60ForvCqH8L7l9X6BP"
+      },
+      "artists": [
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "duration_ms": 255034,
+      "name": "Pesona Sederhana",
+      "url": "https://open.spotify.com/track/3k78Q9tWIFvJd6PNGtTofC"
+    },
+    {
+      "added_at": "2026-07-10 08:19:51",
+      "album": {
         "name": "Sumpah Mati",
         "url": "https://open.spotify.com/album/123f6H1A6X8scJKFvt1Zy8"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 240034,
       "name": "Sumpah Mati",
       "url": "https://open.spotify.com/track/1JPKV0sdQihvEIzXoZxIB6"
-    },
-    {
-      "added_at": "2026-07-10 08:19:51",
-      "album": {
-        "name": "Rahasia Pertama",
-        "url": "https://open.spotify.com/album/46Vu60ForvCqH8L7l9X6BP"
-      },
-      "artists": [
-        {
-          "name": "Rony Parulian",
-          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
-        }
-      ],
-      "duration_ms": 255034,
-      "name": "Pesona Sederhana",
-      "url": "https://open.spotify.com/track/3k78Q9tWIFvJd6PNGtTofC"
     },
     {
       "added_at": "2026-07-10 08:19:51",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-07-10 08:19:51",
       "album": {
-        "name": "SUPER EKSIS",
-        "url": "https://open.spotify.com/album/3qvLTnSkUrKbPNHVgiu4BG"
-      },
-      "artists": [
-        {
-          "name": "Naufal Syachreza",
-          "url": "https://open.spotify.com/artist/3x1vHC0kthfGxbY5w8AiRE"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "SUPER EKSIS",
-      "url": "https://open.spotify.com/track/0bJYrzP1g2tIheeK5u87KG"
-    },
-    {
-      "added_at": "2026-07-10 08:19:51",
-      "album": {
         "name": "Semusim",
         "url": "https://open.spotify.com/album/2SwklQLPnXVIJIS0ZqIlrL"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 254900,
       "name": "Semusim",
       "url": "https://open.spotify.com/track/0F0usCZL8B4ichHqUWAAI2"
+    },
+    {
+      "added_at": "2026-07-10 08:19:51",
+      "album": {
+        "name": "SUPER EKSIS",
+        "url": "https://open.spotify.com/album/3qvLTnSkUrKbPNHVgiu4BG"
+      },
+      "artists": [
+        {
+          "name": "Naufal Syachreza",
+          "url": "https://open.spotify.com/artist/3x1vHC0kthfGxbY5w8AiRE"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "SUPER EKSIS",
+      "url": "https://open.spotify.com/track/0bJYrzP1g2tIheeK5u87KG"
     },
     {
       "added_at": "2026-07-10 08:19:51",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-07-10 08:19:51",
       "album": {
-        "name": "Menerima Luka",
-        "url": "https://open.spotify.com/album/7vXq8kRSMngRUfSTUty19Q"
-      },
-      "artists": [
-        {
-          "name": "Natasya Sabella",
-          "url": "https://open.spotify.com/artist/2w2xKlumnOzCf5eVTkmNXn"
-        }
-      ],
-      "duration_ms": 228073,
-      "name": "Menerima Luka",
-      "url": "https://open.spotify.com/track/6Twf2B2IGXAN0YDJeTxkt2"
-    },
-    {
-      "added_at": "2026-07-10 08:19:51",
-      "album": {
         "name": "Sementara, Selamanya",
         "url": "https://open.spotify.com/album/47wF2oUGXvb44j1Wo1aLfD"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 227908,
       "name": "Salah Apa Aku",
       "url": "https://open.spotify.com/track/7vokkLgTYkd15cWSZ0lTp5"
+    },
+    {
+      "added_at": "2026-07-10 08:19:51",
+      "album": {
+        "name": "Menerima Luka",
+        "url": "https://open.spotify.com/album/7vXq8kRSMngRUfSTUty19Q"
+      },
+      "artists": [
+        {
+          "name": "Natasya Sabella",
+          "url": "https://open.spotify.com/artist/2w2xKlumnOzCf5eVTkmNXn"
+        }
+      ],
+      "duration_ms": 228073,
+      "name": "Menerima Luka",
+      "url": "https://open.spotify.com/track/6Twf2B2IGXAN0YDJeTxkt2"
     },
     {
       "added_at": "2026-07-10 08:19:51",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-07-10 08:19:51",
       "album": {
-        "name": "Ancika (Original Soundtrack Dilan ITB 1997)",
-        "url": "https://open.spotify.com/album/2FAe6WqwK377VOzUXO9ug8"
-      },
-      "artists": [
-        {
-          "name": "Ariel NOAH",
-          "url": "https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF"
-        }
-      ],
-      "duration_ms": 198618,
-      "name": "Ancika - Original Soundtrack Dilan ITB 1997",
-      "url": "https://open.spotify.com/track/1ap7BXSR0cpWezixdAzfT9"
-    },
-    {
-      "added_at": "2026-07-10 08:19:51",
-      "album": {
         "name": "Obrolan Jam 3 Pagi",
         "url": "https://open.spotify.com/album/0jDClrox8tW0f2g82gVc3D"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 237746,
       "name": "Andai Saja",
       "url": "https://open.spotify.com/track/2hb8n44vpefszgLwkEVXhU"
+    },
+    {
+      "added_at": "2026-07-10 08:19:51",
+      "album": {
+        "name": "Ancika (Original Soundtrack Dilan ITB 1997)",
+        "url": "https://open.spotify.com/album/2FAe6WqwK377VOzUXO9ug8"
+      },
+      "artists": [
+        {
+          "name": "Ariel NOAH",
+          "url": "https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF"
+        }
+      ],
+      "duration_ms": 198618,
+      "name": "Ancika - Original Soundtrack Dilan ITB 1997",
+      "url": "https://open.spotify.com/track/1ap7BXSR0cpWezixdAzfT9"
     },
     {
       "added_at": "2026-07-10 08:19:51",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2026-07-10 08:19:51",
       "album": {
+        "name": "Ceritanya Jatuh Cinta",
+        "url": "https://open.spotify.com/album/11Qt4sKWAfJBfQQwtbDox0"
+      },
+      "artists": [
+        {
+          "name": "Aku Jeje",
+          "url": "https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f"
+        }
+      ],
+      "duration_ms": 186570,
+      "name": "Ceritanya Jatuh Cinta",
+      "url": "https://open.spotify.com/track/0f9J5rMcMhCQiPGSJHvr7G"
+    },
+    {
+      "added_at": "2026-07-10 08:19:51",
+      "album": {
         "name": "Menjaga Hati",
         "url": "https://open.spotify.com/album/5zAZDy6OPD6u04TCIAo0Ou"
       },
@@ -1511,22 +1527,6 @@
     {
       "added_at": "2026-07-10 08:19:51",
       "album": {
-        "name": "Dulu Kita Masih Remaja (Original Soundtrack Dilan ITB 1997)",
-        "url": "https://open.spotify.com/album/6JptcIbyDVqXg6ulVCnRz2"
-      },
-      "artists": [
-        {
-          "name": "Ariel NOAH",
-          "url": "https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Dulu Kita Masih Remaja - Original Soundtrack Dilan ITB 1997",
-      "url": "https://open.spotify.com/track/6WzOu0UnyfFSxOLw2Rs5nY"
-    },
-    {
-      "added_at": "2026-07-10 08:19:51",
-      "album": {
         "name": "Elu-elukan",
         "url": "https://open.spotify.com/album/4TOeWC89ZQcQDLfUvqKaVm"
       },
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2026-07-10 08:19:51",
       "album": {
-        "name": "Babak Terakhir",
-        "url": "https://open.spotify.com/album/7oms6zH06xEyReTsPsuzWi"
+        "name": "Dulu Kita Masih Remaja (Original Soundtrack Dilan ITB 1997)",
+        "url": "https://open.spotify.com/album/6JptcIbyDVqXg6ulVCnRz2"
       },
       "artists": [
         {
-          "name": "Raim Laode",
-          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+          "name": "Ariel NOAH",
+          "url": "https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF"
         }
       ],
-      "duration_ms": 195540,
-      "name": "Babak Terakhir",
-      "url": "https://open.spotify.com/track/4mFnbnRA97Kp0Kbkvi2fL3"
+      "duration_ms": 181000,
+      "name": "Dulu Kita Masih Remaja - Original Soundtrack Dilan ITB 1997",
+      "url": "https://open.spotify.com/track/6WzOu0UnyfFSxOLw2Rs5nY"
     },
     {
       "added_at": "2026-07-10 08:19:51",
@@ -1571,46 +1571,6 @@
       "duration_ms": 251298,
       "name": "Menunggumu Sampai Akhir Hidup",
       "url": "https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu"
-    },
-    {
-      "added_at": "2026-07-10 08:19:51",
-      "album": {
-        "name": "Sebatas Mimpi",
-        "url": "https://open.spotify.com/album/7i0hFkyqprLGxZu5uVGEnY"
-      },
-      "artists": [
-        {
-          "name": "Angie Carvalho",
-          "url": "https://open.spotify.com/artist/6nUQOIpgG7Sf0DqSJODNmK"
-        },
-        {
-          "name": "Yovie Widianto",
-          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
-        }
-      ],
-      "duration_ms": 218240,
-      "name": "Sebatas Mimpi",
-      "url": "https://open.spotify.com/track/66bAuBggOmZ4YDgqlWk8Fo"
-    },
-    {
-      "added_at": "2026-07-10 08:19:51",
-      "album": {
-        "name": "senang dengar suaramu lagi (Original Soundtrack Dilan ITB 1997)",
-        "url": "https://open.spotify.com/album/4MsJMhOJAJMWqa6z7RseUK"
-      },
-      "artists": [
-        {
-          "name": "Ariel NOAH",
-          "url": "https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF"
-        },
-        {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
-        }
-      ],
-      "duration_ms": 257627,
-      "name": "senang dengar suaramu lagi - Original Soundtrack Dilan ITB 1997",
-      "url": "https://open.spotify.com/track/6WtShjwKjMasfkb6SyjRY4"
     },
     {
       "added_at": "2026-07-10 08:19:51",
@@ -1635,34 +1595,58 @@
     {
       "added_at": "2026-07-10 08:19:51",
       "album": {
-        "name": "Ceritanya Jatuh Cinta",
-        "url": "https://open.spotify.com/album/11Qt4sKWAfJBfQQwtbDox0"
+        "name": "Sebatas Mimpi",
+        "url": "https://open.spotify.com/album/7i0hFkyqprLGxZu5uVGEnY"
       },
       "artists": [
         {
-          "name": "Aku Jeje",
-          "url": "https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f"
+          "name": "Angie Carvalho",
+          "url": "https://open.spotify.com/artist/6nUQOIpgG7Sf0DqSJODNmK"
+        },
+        {
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
         }
       ],
-      "duration_ms": 186570,
-      "name": "Ceritanya Jatuh Cinta",
-      "url": "https://open.spotify.com/track/0f9J5rMcMhCQiPGSJHvr7G"
+      "duration_ms": 218240,
+      "name": "Sebatas Mimpi",
+      "url": "https://open.spotify.com/track/66bAuBggOmZ4YDgqlWk8Fo"
     },
     {
       "added_at": "2026-07-10 08:19:51",
       "album": {
-        "name": "Sembuh Tanpaku",
-        "url": "https://open.spotify.com/album/6AmdOHPpZxhdo4ob7Ehkf6"
+        "name": "Babak Terakhir",
+        "url": "https://open.spotify.com/album/7oms6zH06xEyReTsPsuzWi"
       },
       "artists": [
         {
-          "name": "Fajar Noor",
-          "url": "https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc"
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
         }
       ],
-      "duration_ms": 277300,
-      "name": "Sembuh Tanpaku",
-      "url": "https://open.spotify.com/track/77cyLF8OxRJxbdQ5Pb9lST"
+      "duration_ms": 195540,
+      "name": "Babak Terakhir",
+      "url": "https://open.spotify.com/track/4mFnbnRA97Kp0Kbkvi2fL3"
+    },
+    {
+      "added_at": "2026-07-10 08:19:51",
+      "album": {
+        "name": "senang dengar suaramu lagi (Original Soundtrack Dilan ITB 1997)",
+        "url": "https://open.spotify.com/album/4MsJMhOJAJMWqa6z7RseUK"
+      },
+      "artists": [
+        {
+          "name": "Ariel NOAH",
+          "url": "https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF"
+        },
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "duration_ms": 257627,
+      "name": "senang dengar suaramu lagi - Original Soundtrack Dilan ITB 1997",
+      "url": "https://open.spotify.com/track/6WtShjwKjMasfkb6SyjRY4"
     },
     {
       "added_at": "2026-07-10 08:19:51",
@@ -1687,6 +1671,22 @@
     {
       "added_at": "2026-07-10 08:19:51",
       "album": {
+        "name": "Jagat Rasa",
+        "url": "https://open.spotify.com/album/7hlS6Qo6pkJJhTj4hlOa5G"
+      },
+      "artists": [
+        {
+          "name": "Samuel Cipta",
+          "url": "https://open.spotify.com/artist/7zJZ3KU0oAP3yxu0HzYnOc"
+        }
+      ],
+      "duration_ms": 217464,
+      "name": "Jagat Rasa",
+      "url": "https://open.spotify.com/track/7hdbQm5MDOGozVSmrHm8Mw"
+    },
+    {
+      "added_at": "2026-07-10 08:19:51",
+      "album": {
         "name": "Menamakanmu Cinta",
         "url": "https://open.spotify.com/album/6bIOflYBZHvfWTG1niLv44"
       },
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2026-07-10 08:19:51",
       "album": {
-        "name": "Jagat Rasa",
-        "url": "https://open.spotify.com/album/7hlS6Qo6pkJJhTj4hlOa5G"
+        "name": "Sembuh Tanpaku",
+        "url": "https://open.spotify.com/album/6AmdOHPpZxhdo4ob7Ehkf6"
       },
       "artists": [
         {
-          "name": "Samuel Cipta",
-          "url": "https://open.spotify.com/artist/7zJZ3KU0oAP3yxu0HzYnOc"
+          "name": "Fajar Noor",
+          "url": "https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc"
         }
       ],
-      "duration_ms": 217464,
-      "name": "Jagat Rasa",
-      "url": "https://open.spotify.com/track/7hdbQm5MDOGozVSmrHm8Mw"
+      "duration_ms": 277300,
+      "name": "Sembuh Tanpaku",
+      "url": "https://open.spotify.com/track/77cyLF8OxRJxbdQ5Pb9lST"
     },
     {
       "added_at": "2026-07-10 08:19:51",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2026-07-10 08:19:51",
       "album": {
-        "name": "lucky",
-        "url": "https://open.spotify.com/album/0Gz9Mtftc90Yke3ydIZsPY"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 217846,
-      "name": "lucky",
-      "url": "https://open.spotify.com/track/09Xku6uFYDi5AhhLfkPQtV"
-    },
-    {
-      "added_at": "2026-07-10 08:19:51",
-      "album": {
         "name": "Break",
         "url": "https://open.spotify.com/album/4vyh6vlmj9iZwRHYwT00l8"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 256500,
       "name": "Break",
       "url": "https://open.spotify.com/track/7fr4AUYWGcrzxJZJc7My4U"
+    },
+    {
+      "added_at": "2026-07-10 08:19:51",
+      "album": {
+        "name": "lucky",
+        "url": "https://open.spotify.com/album/0Gz9Mtftc90Yke3ydIZsPY"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 217846,
+      "name": "lucky",
+      "url": "https://open.spotify.com/track/09Xku6uFYDi5AhhLfkPQtV"
     }
   ],
   "unique_name": "mantap vibes",

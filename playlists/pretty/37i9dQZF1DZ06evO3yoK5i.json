@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 253218,
+  "num_followers": 253248,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAACWVsrN4/gLurqUt+9fjPb4",
+  "snapshot_id": "alA2AAAAAAAHfDptLy7alJHyPB+rfqJH",
   "tracks": [
     {
       "added_at": null,
@@ -343,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musica Es",
-        "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
+        "name": "Donde Hay M\u00fasica (Spanish Version)",
+        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 305400,
-      "name": "Nada Sin Ti",
-      "url": "https://open.spotify.com/track/1SqNm3h3tjXYqAZUYOcX5L"
+      "duration_ms": 335533,
+      "name": "La Aurora",
+      "url": "https://open.spotify.com/track/7lJ7Sv7lWJQ5KmhZa5nITJ"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donde Hay M\u00fasica (Spanish Version)",
-        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
+        "name": "Musica Es",
+        "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 335533,
-      "name": "La Aurora",
-      "url": "https://open.spotify.com/track/7lJ7Sv7lWJQ5KmhZa5nITJ"
+      "duration_ms": 305400,
+      "name": "Nada Sin Ti",
+      "url": "https://open.spotify.com/track/1SqNm3h3tjXYqAZUYOcX5L"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estilolibre",
-        "url": "https://open.spotify.com/album/6czZYpDVUWanP8jHDNkdRb"
+        "name": "9 (Spanish Version)",
+        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 278693,
-      "name": "Un Angel No Es",
-      "url": "https://open.spotify.com/track/11hEETjPqHR7Izl88OgKr0"
+      "duration_ms": 276920,
+      "name": "Un Segundo de Paz",
+      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 (Spanish Version)",
-        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
+        "name": "Estilolibre",
+        "url": "https://open.spotify.com/album/6czZYpDVUWanP8jHDNkdRb"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 276920,
-      "name": "Un Segundo de Paz",
-      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
+      "duration_ms": 278693,
+      "name": "Un Angel No Es",
+      "url": "https://open.spotify.com/track/11hEETjPqHR7Izl88OgKr0"
     },
     {
       "added_at": null,

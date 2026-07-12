@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 40423,
+  "num_followers": 40434,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAACbj89VBzeMfNkwkVbMT/Ce",
+  "snapshot_id": "alA2AAAAAAC66XCaSWsMuM9eO80yR0di",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 222820,
-      "name": "Dulce Veneno",
-      "url": "https://open.spotify.com/track/1rBVDXcKRhbk6LF1ymr9bE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mundo Gira",
         "url": "https://open.spotify.com/album/1vimqXrW4MdMYpPeliSFF9"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 182920,
       "name": "Hambriento Como Lobo",
       "url": "https://open.spotify.com/track/07aDuwUcm8pP66ebJxnDoU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 222820,
+      "name": "Dulce Veneno",
+      "url": "https://open.spotify.com/track/1rBVDXcKRhbk6LF1ymr9bE"
     },
     {
       "added_at": null,

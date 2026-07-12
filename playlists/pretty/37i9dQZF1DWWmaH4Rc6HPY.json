@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Azul de Viena en portada.",
-  "num_followers": 38974,
+  "num_followers": 38988,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-07-03 06:00:12",
       "album": {
-        "name": "Mentiras Arriesgadas",
-        "url": "https://open.spotify.com/album/7CY5pnkyNQT1T5uR2TaF80"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        }
-      ],
-      "duration_ms": 212960,
-      "name": "Mentiras Arriesgadas",
-      "url": "https://open.spotify.com/track/30fg5jzLCAPTrCbBurBA41"
-    },
-    {
-      "added_at": "2026-07-03 06:00:12",
-      "album": {
         "name": "Pel\u00edculas De Acci\u00f3n",
         "url": "https://open.spotify.com/album/0jXVUEzaxq6gCoBaqZZpZk"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 213306,
       "name": "Pel\u00edculas De Acci\u00f3n",
       "url": "https://open.spotify.com/track/5ReNrZRqNxwL7mQzPu1mKh"
+    },
+    {
+      "added_at": "2026-07-03 06:00:12",
+      "album": {
+        "name": "Mentiras Arriesgadas",
+        "url": "https://open.spotify.com/album/7CY5pnkyNQT1T5uR2TaF80"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        }
+      ],
+      "duration_ms": 212960,
+      "name": "Mentiras Arriesgadas",
+      "url": "https://open.spotify.com/track/30fg5jzLCAPTrCbBurBA41"
     },
     {
       "added_at": "2026-07-03 06:00:12",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-07-03 06:00:12",
       "album": {
-        "name": "Coraz\u00f3n hinchado",
-        "url": "https://open.spotify.com/album/2wZHlVJw1HAXlPZtnOMHl5"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 179040,
-      "name": "Coraz\u00f3n hinchado",
-      "url": "https://open.spotify.com/track/51hwVUxXajijH8QarFV6Q7"
-    },
-    {
-      "added_at": "2026-07-03 06:00:12",
-      "album": {
         "name": "No Volver\u00e9 </3",
         "url": "https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 171636,
       "name": "No Volver\u00e9 </3",
       "url": "https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU"
+    },
+    {
+      "added_at": "2026-07-03 06:00:12",
+      "album": {
+        "name": "Coraz\u00f3n hinchado",
+        "url": "https://open.spotify.com/album/2wZHlVJw1HAXlPZtnOMHl5"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "Coraz\u00f3n hinchado",
+      "url": "https://open.spotify.com/track/51hwVUxXajijH8QarFV6Q7"
     },
     {
       "added_at": "2026-07-03 06:00:12",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2026-07-03 06:00:12",
       "album": {
-        "name": "M\u00daSICAM\u00c1GICA",
-        "url": "https://open.spotify.com/album/3cePFmC807BFNNOpkAzMp3"
-      },
-      "artists": [
-        {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 193376,
-      "name": "Vacaciones en el Manicomio",
-      "url": "https://open.spotify.com/track/4sVsmYAwNoA2mAYStKZU6H"
-    },
-    {
-      "added_at": "2026-07-03 06:00:12",
-      "album": {
         "name": "Aeropuerto",
         "url": "https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 212313,
       "name": "Aeropuerto",
       "url": "https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP"
+    },
+    {
+      "added_at": "2026-07-03 06:00:12",
+      "album": {
+        "name": "M\u00daSICAM\u00c1GICA",
+        "url": "https://open.spotify.com/album/3cePFmC807BFNNOpkAzMp3"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 193376,
+      "name": "Vacaciones en el Manicomio",
+      "url": "https://open.spotify.com/track/4sVsmYAwNoA2mAYStKZU6H"
     }
   ],
   "unique_name": "Pop Rock Latino",

@@ -1,12 +1,12 @@
 {
   "description": "This is Murda Beatz. The essential tracks, all in one playlist.",
-  "num_followers": 3314,
+  "num_followers": 3313,
   "original_name": "This Is Murda Beatz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAADKqW/HgUWUlWRE96g7L53d",
+  "snapshot_id": "alA2AAAAAADszOAusziGczzI8wh2l87t",
   "tracks": [
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banana Split (with YNW Melly feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/3QWBKAttGO0ONYIcsDHBW4"
+        "name": "Wake Em Up",
+        "url": "https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK"
       },
       "artists": [
         {
@@ -472,17 +472,13 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         },
         {
-          "name": "YNW Melly",
-          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
         }
       ],
-      "duration_ms": 192968,
-      "name": "Banana Split (with YNW Melly feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/57Lw4YmOvpighLOnwqiuKr"
+      "duration_ms": 129729,
+      "name": "Wake Em Up",
+      "url": "https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd"
     },
     {
       "added_at": null,
@@ -507,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake Em Up",
-        "url": "https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK"
+        "name": "Banana Split (with YNW Melly feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/3QWBKAttGO0ONYIcsDHBW4"
       },
       "artists": [
         {
@@ -516,13 +512,17 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         },
         {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 129729,
-      "name": "Wake Em Up",
-      "url": "https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd"
+      "duration_ms": 192968,
+      "name": "Banana Split (with YNW Melly feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/57Lw4YmOvpighLOnwqiuKr"
     },
     {
       "added_at": null,
@@ -887,28 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eat It Uh",
-        "url": "https://open.spotify.com/album/4uTwrDdiUyyYR8fNtp3jnr"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Zukenee",
-          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
-        }
-      ],
-      "duration_ms": 99428,
-      "name": "Eat It Uh",
-      "url": "https://open.spotify.com/track/61lsu3ZWd1JIoE4vUmusLa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yeah Yeah (feat. 50 Cent and Murda Beatz)",
-        "url": "https://open.spotify.com/album/2hiGavzPxodvstp41CauLv"
+        "name": "Don Season 2",
+        "url": "https://open.spotify.com/album/1mWXVCy3lYeeMADCjUgVto"
       },
       "artists": [
         {
@@ -928,9 +908,29 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 179084,
+      "duration_ms": 180104,
       "name": "Yeah Yeah (feat. 50 Cent and Murda Beatz)",
-      "url": "https://open.spotify.com/track/6g2P7z0NPbiVF1orkYVtFr"
+      "url": "https://open.spotify.com/track/3OvNXm7fnRtTAwi1mYiotJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eat It Uh",
+        "url": "https://open.spotify.com/album/4uTwrDdiUyyYR8fNtp3jnr"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Zukenee",
+          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
+        }
+      ],
+      "duration_ms": 99428,
+      "name": "Eat It Uh",
+      "url": "https://open.spotify.com/track/61lsu3ZWd1JIoE4vUmusLa"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 180471,
+  "num_followers": 180492,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAAC+XXCUF64/kpCJbOB+hp4x",
+  "snapshot_id": "alA2AAAAAAAsItoxe8PnSGLsS1Yowxru",
   "tracks": [
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quien Contra Mi",
-        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 136026,
-      "name": "Te Suelto el Pelo",
-      "url": "https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Goldstar Music La Familia Reggaeton Hits",
         "url": "https://open.spotify.com/album/5tHf8pFmh1ewfFhCag6fWn"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 293010,
       "name": "S\u00e1cala",
       "url": "https://open.spotify.com/track/5LEpqNpuCe6IOo1APu7khJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quien Contra Mi",
+        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 136026,
+      "name": "Te Suelto el Pelo",
+      "url": "https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4"
     },
     {
       "added_at": null,
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 105491,
-      "name": "Bailame - Sinf\u00f3nico En Vivo",
-      "url": "https://open.spotify.com/track/6ucP1DGFUijHO2MEsKAP8D"
+      "duration_ms": 150123,
+      "name": "Te Siento - Sinf\u00f3nico En Vivo",
+      "url": "https://open.spotify.com/track/1gUqfeb1jyfpRKJnOLbWBl"
     },
     {
       "added_at": null,
@@ -1052,9 +1052,9 @@
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 150123,
-      "name": "Te Siento - Sinf\u00f3nico En Vivo",
-      "url": "https://open.spotify.com/track/1gUqfeb1jyfpRKJnOLbWBl"
+      "duration_ms": 105491,
+      "name": "Bailame - Sinf\u00f3nico En Vivo",
+      "url": "https://open.spotify.com/track/6ucP1DGFUijHO2MEsKAP8D"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Music for enjoying your space
 
-605 songs - 1 day 11 hr 1 min
+607 songs - 1 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Joe](https://open.spotify.com/track/3s5wyiMCUfnLDYVX4xSRUX) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:07 | 2023-01-10 | 2024-02-24 |
 | [John Wayne](https://open.spotify.com/track/4kXCN5ZhRSPTm1DZOhfZyf) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [John Wayne](https://open.spotify.com/album/3Lj7kvwaqdVKIKQMAOW5NX) | 2:40 | 2024-05-17 | 2025-03-01 |
 | [JOY \(Get Over Me\)](https://open.spotify.com/track/5kMjxOz3asOQeizvtnbs8g) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Get Over Me\)](https://open.spotify.com/album/27JjJs6GwQXKlGEGSyt0tA) | 3:57 | 2022-02-14 | 2022-07-29 |
+| [juliet](https://open.spotify.com/track/20QpnulmuflvwCjXnDW8I2) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK), [Emilio Piano](https://open.spotify.com/artist/73mpJzShg7QOejB76dAHZT) | [juliet](https://open.spotify.com/album/5xDgBZvS8EFi4kh4jKcpP9) | 3:07 | 2026-07-10 |  |
 | [Jungle](https://open.spotify.com/track/614QOxGBDRK2qx8fCWnQxE) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Jungle](https://open.spotify.com/album/2LahAsMCOCcPOs3Xj6NDiS) | 2:40 | 2025-03-28 | 2025-09-11 |
 | [Just a Dance](https://open.spotify.com/track/2iulJlc0L0rbcvowdlib7J) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Just a Dance](https://open.spotify.com/album/39ZiNIvTOozeE4EcV0Ax5e) | 2:40 | 2024-06-21 | 2024-08-21 |
 | [Katata](https://open.spotify.com/track/38e0QxmoRqsBQr6Y4TwMHp) | [Bamily](https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy) | [Katata](https://open.spotify.com/album/6NArqG0EGzKBknB2x88YlL) | 3:36 | 2023-01-10 | 2024-06-22 |
@@ -466,6 +467,7 @@
 | [Slippery People](https://open.spotify.com/track/2dB0ZG7kQDgeQNGQk2Wdxa) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Turning Point \(Expanded\)](https://open.spotify.com/album/0Bu3AVcmSWpD4SVcqdVIDt) | 4:15 | 2022-12-28 | 2023-01-11 |
 | [Small Talk](https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Small Talk](https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0) | 3:08 | 2025-12-05 |  |
 | [Smokin Out The Window](https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:17 | 2022-12-28 | 2023-01-11 |
+| [SO GOOD \(ft\. Simone Ashley\)](https://open.spotify.com/track/0aEvKe7Am20nBkT6MzcNRR) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De), [Simone Ashley](https://open.spotify.com/artist/4pPJVe0DnEat9EC8L0mzZ0) | [SO GOOD \(ft\. Simone Ashley\)](https://open.spotify.com/album/3k5pLFKcTX8VbxuC4YTNB6) | 2:16 | 2026-07-10 |  |
 | [So Sick Of Dreaming](https://open.spotify.com/track/0JIdzqE6KollCBswa5HpIP) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/2NzJnMiQdUlxjNP4lxOMEk) | 3:52 | 2024-04-11 | 2024-05-18 |
 | [So Sick Of Dreaming](https://open.spotify.com/track/2VWU98gL9ePoBWzjttq3iC) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 3:52 | 2024-04-11 | 2024-04-19 |
 | [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 | 2024-03-22 | 2024-04-15 |
@@ -482,7 +484,7 @@
 | [Spooky \(Single Version\)](https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Love Songs](https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA) | 2:44 | 2023-01-10 | 2024-03-09 |
 | [Standing Right Here](https://open.spotify.com/track/6KsCG32cHSGr8HWott2Lwo) | [Melba Moore](https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq) | [A Portrait of Melba \(Bonus Track Version\)](https://open.spotify.com/album/1KFx9O9z4BeUemnlveIzqm) | 6:57 | 2022-12-28 | 2023-01-11 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-05-10 | 2025-03-01 |
-| [Stick Fight](https://open.spotify.com/track/1ASiGhAE5VkYHBGYDKxVkQ) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Stick Fight](https://open.spotify.com/album/6W6TbVxDoqdETkx3zvHbzU) | 3:22 | 2025-12-05 |  |
+| [Stick Fight](https://open.spotify.com/track/1ASiGhAE5VkYHBGYDKxVkQ) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Stick Fight](https://open.spotify.com/album/6W6TbVxDoqdETkx3zvHbzU) | 3:22 | 2025-12-05 | 2026-07-12 |
 | [Still The Same](https://open.spotify.com/track/1ALggh912tizrjndhRLY63) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Still The Same](https://open.spotify.com/album/3bGZJDlp1lBNJYrcdGR1F4) | 3:14 | 2024-10-08 | 2025-03-01 |
 | [Stop This Flame](https://open.spotify.com/track/1bObrsJGW0UCIGZkvnDqbe) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Stop This Flame](https://open.spotify.com/album/2dgxfbASZ7HDFEGFRNwbTr) | 3:29 | 2022-02-14 | 2023-06-17 |
 | [Stormy Weather](https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:07 | 2023-03-24 | 2024-10-26 |
@@ -494,7 +496,7 @@
 | [Subside](https://open.spotify.com/track/3peNITOhEMw0roXqF6yFMx) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [This Thing Called Living](https://open.spotify.com/album/0IBIPDGBV3UdrwVjDTU8oE) | 3:08 | 2022-02-14 | 2022-10-13 |
 | [summer of love](https://open.spotify.com/track/5ttv8rhr5AxHSqAN5xg7zT) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [SOPHOMORE](https://open.spotify.com/album/1eN6QlgyGlf1hHkr04rLS8) | 2:46 | 2024-06-21 | 2024-06-30 |
 | [Sunday Best](https://open.spotify.com/track/53KK2aIb7sqFWABjhqzy4g) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Vicious Creature](https://open.spotify.com/album/628Rp8jeGrMjWIexMY83Ip) | 4:18 | 2024-12-20 | 2025-03-02 |
-| [Sunday Morning](https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU) | [MALIKAA](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Phases EP](https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG) | 3:20 | 2022-02-14 |  |
+| [Sunday Morning](https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU) | [MALIKAA](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Phases EP](https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG) | 3:20 | 2022-02-14 | 2026-07-12 |
 | [Sunny](https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 2:45 | 2023-01-10 | 2024-03-23 |
 | [SUNRISE](https://open.spotify.com/track/0C3sscH57PNeQ8dmY6xTIR) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SUNRISE](https://open.spotify.com/album/6m24WJWs47zUE3d3VhOdK3) | 2:56 | 2022-02-14 | 2022-11-13 |
 | [SUNSET BLVD](https://open.spotify.com/track/3rW0QUNJRgzXLVCvML6uZM) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [SUNSET BLVD](https://open.spotify.com/album/7KHNgbzkWGvK13wzjvUCig) | 2:39 | 2024-07-26 | 2024-10-13 |

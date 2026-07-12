@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-708 songs - 2 day 9 hr 57 min
+709 songs - 2 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Bedside](https://open.spotify.com/track/5d9OZu7Px4mitpFamQiV7l) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Bedside](https://open.spotify.com/album/3c3gdH1fP9xnJKTYIff6U1) | 7:30 | 2021-12-08 | 2025-01-11 |
 | [been here before](https://open.spotify.com/track/5LwAKCJlEo30A3DcObcRgW) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Dylan Yem](https://open.spotify.com/artist/40a0aZCzsqU7fIi6nmoZrs) | [been here before](https://open.spotify.com/album/67vURYRTpK2n6hKtcq31nG) | 3:19 | 2024-04-12 |  |
 | [Berlin](https://open.spotify.com/track/7417sWBafxcD9NxZ7DbSMW) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Berlin](https://open.spotify.com/album/0Ec1kkdXl9Sxc5XB7SDt1W) | 3:22 | 2025-10-10 | 2026-06-06 |
-| [Between Us](https://open.spotify.com/track/4gha3RdrDG21s30NF3PTeT) | [Beraber](https://open.spotify.com/artist/1cD9tbKLNxATeTNNBpDDAx) | [Between Us / Afterthought](https://open.spotify.com/album/4CwX824ZzaFrfjSPFrGUpS) | 6:34 | 2026-05-15 |  |
+| [Between Us](https://open.spotify.com/track/4gha3RdrDG21s30NF3PTeT) | [Beraber](https://open.spotify.com/artist/1cD9tbKLNxATeTNNBpDDAx) | [Between Us / Afterthought](https://open.spotify.com/album/4CwX824ZzaFrfjSPFrGUpS) | 6:34 | 2026-05-15 | 2026-07-12 |
 | [Big Trip Believing](https://open.spotify.com/track/3xe8P71ZbZ7fc6UQbb8lfh) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp), [Matador](https://open.spotify.com/artist/1UcYY5JDPe05nqjODiVkx1) | [Big Trip Believing](https://open.spotify.com/album/78eOlGIDGq0f0ZiAUzWN22) | 3:42 | 2024-11-22 |  |
 | [Birdsong](https://open.spotify.com/track/15M45gEcIKFSLJqdEHrL6R) | [Calcou](https://open.spotify.com/artist/7ddylNYaeb9AurS9NqllUc) | [Murmuration](https://open.spotify.com/album/7adyZcz9U5o44Q7sn1umNl) | 3:42 | 2024-07-12 | 2026-01-25 |
 | [Blasphemy](https://open.spotify.com/track/1VFP7rkQB2dkEqWj9hBZym) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3), [MXGPU](https://open.spotify.com/artist/7LHpDayfzUPdd5DGAJIrko) | [Blasphemy](https://open.spotify.com/album/7cfkhtRdWjxknBT7Khj1HW) | 3:09 | 2023-10-28 | 2025-09-06 |
@@ -323,6 +323,7 @@
 | [Letzter](https://open.spotify.com/track/7A75UBKiDVmzvaFkYpnYz4) | [Edraw](https://open.spotify.com/artist/5GBLlXRHRfbIItI9WozeAG), [Keller Flavour](https://open.spotify.com/artist/1B4wdhAgnihovev7JTc8fJ) | [The Files](https://open.spotify.com/album/5r7cdO0ac5Rb8SvXgGAYIf) | 2:27 | 2021-12-08 | 2022-11-20 |
 | [Levitate](https://open.spotify.com/track/3pA6bEb7Y0lGeyysqDlzDm) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Levitate](https://open.spotify.com/album/7DnifJAeP8n2eMj1vG89Hs) | 3:26 | 2024-03-01 | 2024-04-19 |
 | [Levitate](https://open.spotify.com/track/3w0nFtVBa75tPHsSNZxWr6) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Levitate](https://open.spotify.com/album/4Ihs3D52rXV5uNlQfsgkqh) | 3:26 | 2023-07-21 | 2024-08-10 |
+| [Levitate](https://open.spotify.com/track/1XB6AWAoUB9FMr4i0Vguum) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Levitate](https://open.spotify.com/album/5byMF5vrBgoVTqopv6kq1y) | 3:34 | 2026-07-10 |  |
 | [Liana](https://open.spotify.com/track/4m1BbY9mE352gfAVNa9Idz) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Sunblind](https://open.spotify.com/album/4EN8YMJK0uaD5yfkhg6aNS) | 4:24 | 2023-09-22 | 2026-02-07 |
 | [Life](https://open.spotify.com/track/6shlrqMyqGLIfXLt6eeR0I) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [200% GALCHER](https://open.spotify.com/album/5tlLnGJdn7m5qucplsZqB1) | 5:01 | 2022-05-03 | 2022-12-28 |
 | [Lifeline](https://open.spotify.com/track/4Z9wBDz2fePPt4vGzi79bY) | [Iskarelyn](https://open.spotify.com/artist/6EYhZnGfuQEGRjxjfOx9Hd) | [Lifeline EP](https://open.spotify.com/album/085NjzrML1quaQ75ZAPt95) | 3:26 | 2025-08-29 |  |

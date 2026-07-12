@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring rusowsky.",
-  "num_followers": 168232,
+  "num_followers": 168235,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-04-03 04:02:10",
       "album": {
+        "name": "Te Fuiste",
+        "url": "https://open.spotify.com/album/3mdFbNYsiqHuP3iJNsLErq"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "Te Fuiste",
+      "url": "https://open.spotify.com/track/4jBn233LyLyeAs7uOlRF9N"
+    },
+    {
+      "added_at": "2026-04-03 04:02:10",
+      "album": {
         "name": "LE CHILL 2",
         "url": "https://open.spotify.com/album/1AUiYrTUnKXZHwFgTK6Xr9"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 172335,
       "name": "NO SALES DE MI CABEZA",
       "url": "https://open.spotify.com/track/0ZsuvAQXU2SaBWjzMUPp1c"
-    },
-    {
-      "added_at": "2026-04-03 04:02:10",
-      "album": {
-        "name": "Te Fuiste",
-        "url": "https://open.spotify.com/album/3mdFbNYsiqHuP3iJNsLErq"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Te Fuiste",
-      "url": "https://open.spotify.com/track/4jBn233LyLyeAs7uOlRF9N"
     },
     {
       "added_at": "2026-04-03 04:02:10",

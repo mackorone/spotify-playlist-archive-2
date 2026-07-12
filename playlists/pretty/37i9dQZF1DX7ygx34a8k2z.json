@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 317652,
+  "num_followers": 317704,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Brighten the Corners: Nicene Creedence Ed.",
-        "url": "https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7"
-      },
-      "artists": [
-        {
-          "name": "Pavement",
-          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "Harness Your Hopes - B-side",
-      "url": "https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "The Stone Roses",
         "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 292800,
       "name": "I Wanna Be Adored - Remastered 2009",
       "url": "https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Brighten the Corners: Nicene Creedence Ed.",
+        "url": "https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7"
+      },
+      "artists": [
+        {
+          "name": "Pavement",
+          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "Harness Your Hopes - B-side",
+      "url": "https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Heaven or Las Vegas",
-        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Iceblink Luck",
-      "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Transmissions From the Satellite Heart",
         "url": "https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 222278,
       "name": "She Don't Use Jelly",
       "url": "https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "Iceblink Luck",
+      "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "When You Sleep",
-      "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/2b5r3YRZYwSAeXd7aWZjWp"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 209000,
       "name": "Feed the Tree",
       "url": "https://open.spotify.com/track/3L19vBWH4jTHNXbuBaHbUN"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "When You Sleep",
+      "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A"
+      },
+      "artists": [
+        {
+          "name": "Smog",
+          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
+        }
+      ],
+      "duration_ms": 254160,
+      "name": "Cold Blooded Old Times",
+      "url": "https://open.spotify.com/track/5PvqFnDaO9L2BTOY8HLVk8"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
         "name": "Return Of The Rentals",
         "url": "https://open.spotify.com/album/41IJ0wgo3DWza5gIlJarRg"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 205666,
       "name": "Is This Desire?",
       "url": "https://open.spotify.com/track/3bHnxT5KHWPOb7Pl34jmzG"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
-        "name": "Knock Knock",
-        "url": "https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A"
-      },
-      "artists": [
-        {
-          "name": "Smog",
-          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
-        }
-      ],
-      "duration_ms": 254160,
-      "name": "Cold Blooded Old Times",
-      "url": "https://open.spotify.com/track/5PvqFnDaO9L2BTOY8HLVk8"
     },
     {
       "added_at": "2025-01-15 04:11:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,287,047 likes - 219 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,287,696 likes - 219 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 218 | [Mellow](https://open.spotify.com/track/1Hr9BpiwzenH9ud7CCRMWc) | [The Inner Room](https://open.spotify.com/artist/6WmBCblpdv77KDcPD0e8KP) | [Mellow](https://open.spotify.com/album/04XaMNX4xsrae0P2s2s0Lh) | 2:25 |
 | 219 | [Anechoic](https://open.spotify.com/track/2KA8vxzX8AtYbXD1wcgsnv) | [Stillgarden](https://open.spotify.com/artist/6NKUqC8TcyhtHenPgTRTvt) | [Anechoic](https://open.spotify.com/album/6QM3d861qJquRheT1flU2o) | 2:56 |
 
-Snapshot ID: `AAAAABb16in2cAYyUUJfvyEQhImRbaGw`
+Snapshot ID: `AAAAAIhGX/1R8WJYtjiHkN7VH9DVmV05`

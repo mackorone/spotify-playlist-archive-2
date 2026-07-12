@@ -1,12 +1,12 @@
 {
   "description": "This is Evanescence. The essential tracks, all in one playlist.",
-  "num_followers": 461887,
+  "num_followers": 461956,
   "original_name": "This Is Evanescence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAACoSVO+66wIjMquyGC94Zhd",
+  "snapshot_id": "alA2AAAAAAC/kkFPvXrB4IYWnOSPhp5c",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 251385,
-      "name": "Beautiful Lie",
-      "url": "https://open.spotify.com/track/7vxoZbIPYZop17dCuxcGBY"
+      "duration_ms": 234224,
+      "name": "Self Destruct",
+      "url": "https://open.spotify.com/track/3vHRBiWEvuWWs5BQzUwSXh"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 234224,
-      "name": "Self Destruct",
-      "url": "https://open.spotify.com/track/3vHRBiWEvuWWs5BQzUwSXh"
+      "duration_ms": 251385,
+      "name": "Beautiful Lie",
+      "url": "https://open.spotify.com/track/7vxoZbIPYZop17dCuxcGBY"
     },
     {
       "added_at": null,

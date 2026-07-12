@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: Hearts2Hearts
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,388 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,032,293 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 44 | [I Wish You Well](https://open.spotify.com/track/62MQQhu3ljO21zGvjWEJYV) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [I Wish You Well](https://open.spotify.com/album/3LvKwWsV65kw0zBuNaChoA) | 3:20 |
 | 45 | [Deedar De \(Nikhil Mix\)](https://open.spotify.com/track/19uybTRF0AmvCe1VpnbIv6) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Dus](https://open.spotify.com/album/2ZMv24PkdTVTdFBCtSMJiX) | 4:56 |
 | 46 | [Rai pe Pământ](https://open.spotify.com/track/5Qhn3eTnypeKtXehB8bY0I) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [Rai pe Pământ](https://open.spotify.com/album/0Lu94fr5u1EVUMkHFfgmB4) | 3:35 |
-| 47 | [VERTICAL WORLDS](https://open.spotify.com/track/4BixLPsuhd4pJw4DC1lt0z) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [VERTICAL WORLDS](https://open.spotify.com/album/7J5sYFuxDRzYGrSNqv9H1G) | 3:15 |
-| 48 | [藍染](https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [Unveilings](https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5) | 3:28 |
+| 47 | [藍染](https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [Unveilings](https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5) | 3:28 |
+| 48 | [VERTICAL WORLDS](https://open.spotify.com/track/4BixLPsuhd4pJw4DC1lt0z) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [VERTICAL WORLDS](https://open.spotify.com/album/7J5sYFuxDRzYGrSNqv9H1G) | 3:15 |
 | 49 | [cry jar](https://open.spotify.com/track/2jFbCjRBcwxpV6shKMujVp) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [cry jar](https://open.spotify.com/album/03pyvh1jEA8y8d9zgHtrko) | 2:59 |
-| 50 | [Dwa słońca](https://open.spotify.com/track/5Ax2sqg4Yx4SJrPyKzG4ru) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg), [BELA](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Dwa słońca](https://open.spotify.com/album/4PDs9jOvqkvUjMo3ByG5Tp) | 3:17 |
+| 50 | [Rabszolga](https://open.spotify.com/track/51IUF2k7kR8AtY3dPyg4jU) | [Sofi](https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK) | [Rabszolga](https://open.spotify.com/album/1DoyH26hV9YfqSDTCSeqPT) | 2:19 |
 
 Snapshot ID: `AAAAAC/AVxcBTFC/iJ5erGLVyYhYLpZo`

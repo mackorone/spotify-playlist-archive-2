@@ -4,7 +4,7 @@
 
 > This is Prof\. The essential tracks, all in one playlist.
 
-71 songs - 3 hr 47 min
+72 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Dirty Work](https://open.spotify.com/track/3CDaT41CYRfgn1t8pYMiJo) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Dirty Work](https://open.spotify.com/album/4stJxEqPXyiXGHIQNyS9D9) | 2:14 | 2025-08-17 | 2026-07-03 |
 | [Dirty Work](https://open.spotify.com/track/5WNCxVaO9JctrWnHyQAxYN) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 2:14 | 2026-07-03 | 2026-07-11 |
 | [Dodo Birds](https://open.spotify.com/track/4ZitKfCGxhOcqrfQU6STgq) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Dodo Birds](https://open.spotify.com/album/6nM5ZjZp85PxVjbyszoOft) | 2:13 | 2025-04-19 |  |
-| [Dynamite](https://open.spotify.com/track/76N39WgN4xENapS5tnw7Of) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Ghosttown](https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf) | [Dynamite](https://open.spotify.com/album/7BYzMlE0anzovqdMe5bNSJ) | 2:40 | 2025-04-19 |  |
+| [Dynamite](https://open.spotify.com/track/3ici5bVyYe4hidBW2enSUt) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Ghosttown](https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 2:40 | 2026-07-12 |  |
+| [Dynamite](https://open.spotify.com/track/76N39WgN4xENapS5tnw7Of) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Ghosttown](https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf) | [Dynamite](https://open.spotify.com/album/7BYzMlE0anzovqdMe5bNSJ) | 2:40 | 2025-04-19 | 2026-07-12 |
 | [Farout](https://open.spotify.com/track/11yDV9YCkT5hyKVc0L5Vfp) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 2:56 | 2025-04-19 | 2025-09-28 |
 | [Feed the Dogs](https://open.spotify.com/track/21Nuz8C7Ou8B7U7RUxhTR1) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Feed the Dogs](https://open.spotify.com/album/6MIpSgb65ovU5136ui8udW) | 3:23 | 2025-04-19 |  |
 | [Fighter](https://open.spotify.com/track/0rdthoG3YvgkghJObltH8h) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 2:28 | 2026-06-28 |  |
@@ -43,7 +44,7 @@
 | [Horse](https://open.spotify.com/track/3N6ikRnRr3XYlzBv9iRgEN) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:02 | 2025-04-19 |  |
 | [I Dry Heave](https://open.spotify.com/track/12bZrnYJpqXNCN8545LDIz) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Project Gampo](https://open.spotify.com/album/6cyh4kHkJVOlLGx6LFElwJ) | 3:43 | 2025-04-19 |  |
 | [Imposter](https://open.spotify.com/track/0TSLL6ziM6ArpN0uV7wwxY) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 4:09 | 2026-06-29 | 2026-07-03 |
-| [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/track/39D9e2Kx9f7ligiEgB0WD8) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 3:07 | 2026-07-10 |  |
+| [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/track/39D9e2Kx9f7ligiEgB0WD8) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 3:07 | 2026-07-10 | 2026-07-12 |
 | [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/track/7DSqGWatwo13yjAIgKx8g8) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/album/2fBT3VgUrM7S3HVfZiqjbJ) | 3:07 | 2026-03-29 | 2026-07-10 |
 | [Judy](https://open.spotify.com/track/0KijC5ByPD43qXLkxEmf7o) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 2:56 | 2025-04-19 |  |
 | [Kia Boy](https://open.spotify.com/track/4W0ovOeWSWoOVp7LFVTYYE) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Kia Boy](https://open.spotify.com/album/4HJohcUsonTrzPCyaaN1KP) | 3:05 | 2026-05-31 | 2026-06-28 |

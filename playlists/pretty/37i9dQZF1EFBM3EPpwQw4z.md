@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBM3EPpwQw4z.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37 likes - 108 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 37 likes - 109 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,16 +105,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBM3EPpwQw4z.md) - [plain]
 | 95 | [Sad Spaghetti](https://open.spotify.com/track/7tnUjTzsMaKqGWJM5G9xt9) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 2:35 |
 | 96 | [Medicine](https://open.spotify.com/track/6X7yev8AOYCxhRIWXSLjS4) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Medicine](https://open.spotify.com/album/0Kfkm4MFAZhMKjveL3wXDK) | 3:02 |
 | 97 | [Get So Close](https://open.spotify.com/track/2NkC2GxIq0hhluqflg8AhW) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:32 |
-| 98 | [Avalanche](https://open.spotify.com/track/4GavDWsnBIP0Q9GfQkhvyD) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:08 |
-| 99 | [Ghost](https://open.spotify.com/track/20gc52nPIfr9tuvTe2RukI) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:45 |
-| 100 | [Stranded](https://open.spotify.com/track/7dGc9PVajCX7ZEWt8Tu6qv) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 4:48 |
-| 101 | [Safe And Sound](https://open.spotify.com/track/6UHGXZ9uMBMCdUrbZuj591) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 5:00 |
-| 102 | [Vision of Love](https://open.spotify.com/track/4Vq21syz7y2dTZYW2PVab9) | [Husky](https://open.spotify.com/artist/1BQ5NhlyhxAO1CdRYGHmQe) | [Break Free](https://open.spotify.com/album/0OOa1ua526wFSIdcVZz8X9) | 6:00 |
-| 103 | [What I Got](https://open.spotify.com/track/2dSwYx6yx7wBuQcQMyXFTQ) | [Paluma](https://open.spotify.com/artist/7vIAu0l7icbujUGaOK8HT4), [ATHANASIA](https://open.spotify.com/artist/56sUrWqaCdTyKmSs4glQ7N) | [Waiting \- EP](https://open.spotify.com/album/3amD749bBCslLZkXzOb9Ji) | 3:12 |
-| 104 | [I Know](https://open.spotify.com/track/5OdmwBCqwtOXfYpLXocxxP) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Alter EP](https://open.spotify.com/album/1cNtoofX8TnCb3ExzRg86J) | 3:18 |
-| 105 | [Before Goodbyes](https://open.spotify.com/track/6pUAlW0yIC8ySMNSaPpJZp) | [Dainty](https://open.spotify.com/artist/7qz5GofoKgs2V3bSP5quAr) | [Before Goodbyes](https://open.spotify.com/album/2STzRQPDd5oukOCsvy11jP) | 3:21 |
-| 106 | [For Myself](https://open.spotify.com/track/7pZVOPDehm7pTj9LFsOH9s) | [Jjoska](https://open.spotify.com/artist/30jtQ4tZS8uBg285avUmBb) | [For Myself](https://open.spotify.com/album/1UA45mIsnhI4y021tUbhnw) | 4:50 |
-| 107 | [People Happy \- Ferreck Dawn Extended Mix](https://open.spotify.com/track/2pGgl37Wmb2RgjQnlXfawM) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [People Happy \(Ferreck Dawn Remix\)](https://open.spotify.com/album/7wKOwtN0oTkqt1LzoKKgd6) | 5:52 |
-| 108 | [Bye from Diver City](https://open.spotify.com/track/6Xcqc0mPY3hTysRngiyMd1) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 0:13 |
+| 98 | [My Way](https://open.spotify.com/track/3bstaL7RoXaTTRsT53OdVn) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [My Way](https://open.spotify.com/album/6zLvmGu1VnBkCZr6GmaXqD) | 3:24 |
+| 99 | [Avalanche](https://open.spotify.com/track/4GavDWsnBIP0Q9GfQkhvyD) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:08 |
+| 100 | [Ghost](https://open.spotify.com/track/20gc52nPIfr9tuvTe2RukI) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:45 |
+| 101 | [Stranded](https://open.spotify.com/track/7dGc9PVajCX7ZEWt8Tu6qv) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 4:48 |
+| 102 | [Safe And Sound](https://open.spotify.com/track/6UHGXZ9uMBMCdUrbZuj591) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 5:00 |
+| 103 | [Vision of Love](https://open.spotify.com/track/4Vq21syz7y2dTZYW2PVab9) | [Husky](https://open.spotify.com/artist/1BQ5NhlyhxAO1CdRYGHmQe) | [Break Free](https://open.spotify.com/album/0OOa1ua526wFSIdcVZz8X9) | 6:00 |
+| 104 | [What I Got](https://open.spotify.com/track/2dSwYx6yx7wBuQcQMyXFTQ) | [Paluma](https://open.spotify.com/artist/7vIAu0l7icbujUGaOK8HT4), [ATHANASIA](https://open.spotify.com/artist/56sUrWqaCdTyKmSs4glQ7N) | [Waiting \- EP](https://open.spotify.com/album/3amD749bBCslLZkXzOb9Ji) | 3:12 |
+| 105 | [I Know](https://open.spotify.com/track/5OdmwBCqwtOXfYpLXocxxP) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Alter EP](https://open.spotify.com/album/1cNtoofX8TnCb3ExzRg86J) | 3:18 |
+| 106 | [Before Goodbyes](https://open.spotify.com/track/6pUAlW0yIC8ySMNSaPpJZp) | [Dainty](https://open.spotify.com/artist/7qz5GofoKgs2V3bSP5quAr) | [Before Goodbyes](https://open.spotify.com/album/2STzRQPDd5oukOCsvy11jP) | 3:21 |
+| 107 | [For Myself](https://open.spotify.com/track/7pZVOPDehm7pTj9LFsOH9s) | [Jjoska](https://open.spotify.com/artist/30jtQ4tZS8uBg285avUmBb) | [For Myself](https://open.spotify.com/album/1UA45mIsnhI4y021tUbhnw) | 4:50 |
+| 108 | [People Happy \- Ferreck Dawn Extended Mix](https://open.spotify.com/track/2pGgl37Wmb2RgjQnlXfawM) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [People Happy \(Ferreck Dawn Remix\)](https://open.spotify.com/album/7wKOwtN0oTkqt1LzoKKgd6) | 5:52 |
+| 109 | [Bye from Diver City](https://open.spotify.com/track/6Xcqc0mPY3hTysRngiyMd1) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 0:13 |
 
-Snapshot ID: `AcWgwAAAAABQ0HpF4ganlyNtFhubO2FH`
+Snapshot ID: `AcWmnAAAAADTc2a2VIwQK/guoiEsMv7J`

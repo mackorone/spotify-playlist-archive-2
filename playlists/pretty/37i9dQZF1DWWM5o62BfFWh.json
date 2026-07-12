@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica que representa a Cuba! Cover: Dany Ome & Kevincito El 13",
-  "num_followers": 166865,
+  "num_followers": 166899,
   "original_name": "Hecho en Cuba",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,34 @@
     {
       "added_at": "2026-06-30 15:56:51",
       "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/1BWYew8QB2zdGHXdCt7bXu"
+      },
+      "artists": [
+        {
+          "name": "Akoy",
+          "url": "https://open.spotify.com/artist/4Q2X9b6vlgRq04Lp3Leykw"
+        },
+        {
+          "name": "Dale Pututi & Nesty",
+          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
+        },
+        {
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        },
+        {
+          "name": "Nesty",
+          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+        }
+      ],
+      "duration_ms": 194036,
+      "name": "Vibras",
+      "url": "https://open.spotify.com/track/6KCvGJbPW4stj6p2PFt5aj"
+    },
+    {
+      "added_at": "2026-06-30 15:56:51",
+      "album": {
         "name": "Mi Lugar Favorito (Prod. by Ernesto Losa, Roberto Ferrante)",
         "url": "https://open.spotify.com/album/7DV49wDTaPb2EQHV7Vtc0d"
       },
@@ -339,34 +367,6 @@
       "duration_ms": 218971,
       "name": "Fantasia - Prod. by Dave Produce x Michel Boutic",
       "url": "https://open.spotify.com/track/1fm0VuzsnXbS1ovFLYol67"
-    },
-    {
-      "added_at": "2026-06-30 15:56:51",
-      "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/1BWYew8QB2zdGHXdCt7bXu"
-      },
-      "artists": [
-        {
-          "name": "Akoy",
-          "url": "https://open.spotify.com/artist/4Q2X9b6vlgRq04Lp3Leykw"
-        },
-        {
-          "name": "Dale Pututi & Nesty",
-          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
-        },
-        {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
-        },
-        {
-          "name": "Nesty",
-          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
-        }
-      ],
-      "duration_ms": 194036,
-      "name": "Vibras",
-      "url": "https://open.spotify.com/track/6KCvGJbPW4stj6p2PFt5aj"
     },
     {
       "added_at": "2026-06-30 15:56:51",
@@ -659,26 +659,6 @@
     {
       "added_at": "2026-06-30 15:56:51",
       "album": {
-        "name": "De Ping4",
-        "url": "https://open.spotify.com/album/75LHeZMkEZP1Nkwbum0kKg"
-      },
-      "artists": [
-        {
-          "name": "Wow Popy",
-          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
-        },
-        {
-          "name": "Charaway",
-          "url": "https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy"
-        }
-      ],
-      "duration_ms": 177762,
-      "name": "De Ping4",
-      "url": "https://open.spotify.com/track/0TZx2Nlsrgrsv9Dm88pmn0"
-    },
-    {
-      "added_at": "2026-06-30 15:56:51",
-      "album": {
         "name": "UN TIEMPO",
         "url": "https://open.spotify.com/album/629OQNREnZdJKsPtbvp0CI"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 178909,
       "name": "UN TIEMPO",
       "url": "https://open.spotify.com/track/6RhoTSeKVDKan32JCh80fV"
+    },
+    {
+      "added_at": "2026-06-30 15:56:51",
+      "album": {
+        "name": "De Ping4",
+        "url": "https://open.spotify.com/album/75LHeZMkEZP1Nkwbum0kKg"
+      },
+      "artists": [
+        {
+          "name": "Wow Popy",
+          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
+        },
+        {
+          "name": "Charaway",
+          "url": "https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy"
+        }
+      ],
+      "duration_ms": 177762,
+      "name": "De Ping4",
+      "url": "https://open.spotify.com/track/0TZx2Nlsrgrsv9Dm88pmn0"
     },
     {
       "added_at": "2026-06-30 15:56:51",
@@ -747,6 +747,26 @@
     {
       "added_at": "2026-06-30 15:56:51",
       "album": {
+        "name": "LA LA LA",
+        "url": "https://open.spotify.com/album/0Ebtd1t4tY0CdyMbM4STzP"
+      },
+      "artists": [
+        {
+          "name": "Anyelazo",
+          "url": "https://open.spotify.com/artist/5AcUj97EYhmrk469QRbBRy"
+        },
+        {
+          "name": "Gallery Music",
+          "url": "https://open.spotify.com/artist/1qzFvKHuaRKKDUPrHlSGgV"
+        }
+      ],
+      "duration_ms": 132927,
+      "name": "LA LA LA",
+      "url": "https://open.spotify.com/track/3yu9nhgkR87xcxoSbI2c3I"
+    },
+    {
+      "added_at": "2026-06-30 15:56:51",
+      "album": {
         "name": "POQUITICO",
         "url": "https://open.spotify.com/album/6qHvjG50ACS7ELdCLBmOFT"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 198000,
       "name": "POQUITICO",
       "url": "https://open.spotify.com/track/1WOwgd7rhOlidOhkn2rcp7"
-    },
-    {
-      "added_at": "2026-06-30 15:56:51",
-      "album": {
-        "name": "LA LA LA",
-        "url": "https://open.spotify.com/album/0Ebtd1t4tY0CdyMbM4STzP"
-      },
-      "artists": [
-        {
-          "name": "Anyelazo",
-          "url": "https://open.spotify.com/artist/5AcUj97EYhmrk469QRbBRy"
-        },
-        {
-          "name": "Gallery Music",
-          "url": "https://open.spotify.com/artist/1qzFvKHuaRKKDUPrHlSGgV"
-        }
-      ],
-      "duration_ms": 132927,
-      "name": "LA LA LA",
-      "url": "https://open.spotify.com/track/3yu9nhgkR87xcxoSbI2c3I"
     },
     {
       "added_at": "2026-06-30 15:56:51",
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-06-30 15:56:51",
       "album": {
-        "name": "#Round2",
-        "url": "https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr"
-      },
-      "artists": [
-        {
-          "name": "Divan",
-          "url": "https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP"
-        },
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 178055,
-      "name": "Pobre Coraz\u00f3n - with Lenier",
-      "url": "https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1"
-    },
-    {
-      "added_at": "2026-06-30 15:56:51",
-      "album": {
         "name": "A Veces",
         "url": "https://open.spotify.com/album/4GKknALrtPPXtF31vd0uWT"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 181521,
       "name": "A Veces",
       "url": "https://open.spotify.com/track/6cXQX7pRILTVVamY7CJIVi"
+    },
+    {
+      "added_at": "2026-06-30 15:56:51",
+      "album": {
+        "name": "#Round2",
+        "url": "https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr"
+      },
+      "artists": [
+        {
+          "name": "Divan",
+          "url": "https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "duration_ms": 178055,
+      "name": "Pobre Coraz\u00f3n - with Lenier",
+      "url": "https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1"
     },
     {
       "added_at": "2026-06-30 15:56:51",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2026-06-30 15:56:51",
       "album": {
+        "name": "#Round2",
+        "url": "https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr"
+      },
+      "artists": [
+        {
+          "name": "Divan",
+          "url": "https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP"
+        },
+        {
+          "name": "Roberto Ferrante",
+          "url": "https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1"
+        }
+      ],
+      "duration_ms": 219220,
+      "name": "Te Amo (Versos Gastados) - Prod. by Cuban Deejay$",
+      "url": "https://open.spotify.com/track/44IPKz8KN6H0wieHvTQH4w"
+    },
+    {
+      "added_at": "2026-06-30 15:56:51",
+      "album": {
         "name": "CUBATON PAL REPARTO",
         "url": "https://open.spotify.com/album/4qf82iLojkj09mwtxlUV3p"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 240000,
       "name": "BORRACHO",
       "url": "https://open.spotify.com/track/4eHxfgW4GUzrpDEU8mvQw3"
-    },
-    {
-      "added_at": "2026-06-30 15:56:51",
-      "album": {
-        "name": "#Round2",
-        "url": "https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr"
-      },
-      "artists": [
-        {
-          "name": "Divan",
-          "url": "https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP"
-        },
-        {
-          "name": "Roberto Ferrante",
-          "url": "https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1"
-        }
-      ],
-      "duration_ms": 219220,
-      "name": "Te Amo (Versos Gastados) - Prod. by Cuban Deejay$",
-      "url": "https://open.spotify.com/track/44IPKz8KN6H0wieHvTQH4w"
     },
     {
       "added_at": "2026-06-30 15:56:51",

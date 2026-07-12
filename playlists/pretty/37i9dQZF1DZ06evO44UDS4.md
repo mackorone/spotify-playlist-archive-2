@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44UDS4.md) - [plain]
 
 > This is Oliver Tree\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,443 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,769 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44UDS4.md) - [plain]
 | 49 | [Life Goes On \(feat\. Trippie Redd & Ski Mask The Slump God\)](https://open.spotify.com/track/07ShpyCaAqfCseA3fWFFMY) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Life Goes On \(feat\. Trippie Redd & Ski Mask The Slump God\)](https://open.spotify.com/album/1ucf98ip08W4dY41QZrXeq) | 3:02 |
 | 50 | [Out of Ordinary](https://open.spotify.com/track/7cXgeethsda8KnjsfT8kGE) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 3:00 |
 
-Snapshot ID: `ak7kgAAAAADkfWgt7w1wKKTbLbDNB6iX`
+Snapshot ID: `alA2AAAAAAAfFd5y8OWo/sU33j1frm7k`

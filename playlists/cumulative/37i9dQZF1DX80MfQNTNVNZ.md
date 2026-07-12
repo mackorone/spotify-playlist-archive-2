@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-659 songs - 1 day 14 hr 43 min
+660 songs - 1 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 | 2023-01-19 | 2023-04-13 |
 | [Dundee](https://open.spotify.com/track/64fF8kyyZ0i55dgNuslZZM) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Dundee](https://open.spotify.com/album/3BAlFd5A5cniOXQ3jX99dR) | 2:42 | 2024-06-15 | 2024-08-17 |
 | [Déjà Vu](https://open.spotify.com/track/29Hg1jaX5ZY5miqr3ScQSn) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Déjà Vu](https://open.spotify.com/album/6lk6qAKg7sIIXdXejLDWuz) | 2:42 | 2022-03-31 | 2022-07-29 |
-| [Easier Done Than Said](https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Easier Done Than Said](https://open.spotify.com/album/08P5vVNLqPNiCyle8kRssE) | 3:35 | 2025-05-16 |  |
+| [Easier Done Than Said](https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Easier Done Than Said](https://open.spotify.com/album/08P5vVNLqPNiCyle8kRssE) | 3:35 | 2025-05-16 | 2026-07-12 |
 | [Easy To Love](https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Tom McFarland](https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7) | [Easy To Love](https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S) | 3:19 | 2026-02-25 |  |
 | [Eden \(feat\. Cordae, DJ Jazzy Jeff\)](https://open.spotify.com/track/2ICVrUIyL20gOkhbx6umcB) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [Gen](https://open.spotify.com/album/1s9TxbeBWAbz939OHhl3ch) | 3:41 | 2025-05-28 | 2026-02-10 |
 | [Eden \(feat\. Cordae, DJ Jazzy Jeff\)](https://open.spotify.com/track/3arj9wUIRzmKpJ1HHXkyXZ) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [Gen](https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs) | 3:41 | 2025-05-16 | 2025-05-26 |
@@ -245,6 +245,7 @@
 | [Hoodie Back](https://open.spotify.com/track/03oqpVl7nXBipKG8k20Qex) | [Frex](https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr) | [Hoodie Back](https://open.spotify.com/album/31tGG12rA9duMwf5zEHyEF) | 2:46 | 2023-08-10 | 2023-08-18 |
 | [HORN](https://open.spotify.com/track/30uDewhBRShVDP56oNvvuM) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [HORN](https://open.spotify.com/album/2MVZ63eokhX0Fccr4kbqBx) | 3:29 | 2022-03-24 | 2022-04-16 |
 | [How You Feel](https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [How You Feel](https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX) | 3:03 | 2023-02-09 | 2023-10-06 |
+| [Hurry Hurry](https://open.spotify.com/track/4BGA7VW330Eu1kaFNi98cG) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Offering](https://open.spotify.com/album/2KrpEIIVUU7AMtTsCOzkAj) | 3:06 | 2026-06-26 |  |
 | [I Believe I'm Ready](https://open.spotify.com/track/6O9s5kC3IYPYfaxXhJPHt9) | [City Park](https://open.spotify.com/artist/6sBplUXsbsTyUAgWo0xHzQ) | [I Believe I'm Ready](https://open.spotify.com/album/2vzVlBZvLROeRtKLbQtiQ2) | 3:45 | 2022-03-24 | 2022-04-17 |
 | [I Choose U \(feat\. RINI\)](https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [I Choose U \(feat\. RINI\)](https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh) | 3:22 | 2024-04-12 | 2025-02-21 |
 | [I Don't Have a Pen](https://open.spotify.com/track/0hOjpzwQDkUcPP3V2pbPDb) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [ビアリストックス](https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ) | 3:21 | 2022-02-24 | 2022-11-11 |

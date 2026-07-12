@@ -1,6 +1,6 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 230842,
+  "num_followers": 230877,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Aquamosh",
+        "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 262613,
+      "name": "Mr. P-Mosh",
+      "url": "https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Hijo de la Noche",
         "url": "https://open.spotify.com/album/4w1tpW0oR0CrHEUODdeNh4"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 206884,
       "name": "Hijo de la Noche",
       "url": "https://open.spotify.com/track/46xx1V1UK5085ekWgIntp8"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Aquamosh",
-        "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
-      },
-      "artists": [
-        {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
-        }
-      ],
-      "duration_ms": 262613,
-      "name": "Mr. P-Mosh",
-      "url": "https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
+        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "Dr. Dedoverde (Dr. Greenthumb) - Spanish Version",
+      "url": "https://open.spotify.com/track/27ccZxdrx3VbCTUXI433OO"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "995",
         "url": "https://open.spotify.com/album/2Uxj0MZLjKgQQBrRzNtPM5"
       },
@@ -887,22 +903,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
-        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 178533,
-      "name": "Dr. Dedoverde (Dr. Greenthumb) - Spanish Version",
-      "url": "https://open.spotify.com/track/27ccZxdrx3VbCTUXI433OO"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "C\u00edrculo Vicioso",
         "url": "https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1"
       },
@@ -919,18 +919,26 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Lujo Ib\u00e9rico",
-        "url": "https://open.spotify.com/album/52zw3rWRaKV94g7KSjlbrx"
+        "name": "Pantone",
+        "url": "https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX"
       },
       "artists": [
         {
-          "name": "Mala Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+          "name": "No Rules Clan",
+          "url": "https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv"
+        },
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "El Arkeologo",
+          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
         }
       ],
-      "duration_ms": 167506,
-      "name": "Tengo Un Trato",
-      "url": "https://open.spotify.com/track/3sg4RFemnrzSDr0LpaxqCy"
+      "duration_ms": 265488,
+      "name": "Quien Va",
+      "url": "https://open.spotify.com/track/21WsQHnPcE2nGM7RUyuEay"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -963,46 +971,18 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Pantone",
-        "url": "https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX"
+        "name": "Lujo Ib\u00e9rico",
+        "url": "https://open.spotify.com/album/52zw3rWRaKV94g7KSjlbrx"
       },
       "artists": [
         {
-          "name": "No Rules Clan",
-          "url": "https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv"
-        },
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "El Arkeologo",
-          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
         }
       ],
-      "duration_ms": 265488,
-      "name": "Quien Va",
-      "url": "https://open.spotify.com/track/21WsQHnPcE2nGM7RUyuEay"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Faruz Vs. Proof",
-        "url": "https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        },
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        }
-      ],
-      "duration_ms": 218154,
-      "name": "Invierno",
-      "url": "https://open.spotify.com/track/5zntHJg9JeFCOgD0yskuq3"
+      "duration_ms": 167506,
+      "name": "Tengo Un Trato",
+      "url": "https://open.spotify.com/track/3sg4RFemnrzSDr0LpaxqCy"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1023,6 +1003,26 @@
       "duration_ms": 208564,
       "name": "El Tiempo Cura",
       "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Faruz Vs. Proof",
+        "url": "https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        },
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "duration_ms": 218154,
+      "name": "Invierno",
+      "url": "https://open.spotify.com/track/5zntHJg9JeFCOgD0yskuq3"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Alma Coraz\u00f3n Y Vida",
-        "url": "https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE"
-      },
-      "artists": [
-        {
-          "name": "Norick",
-          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Me\u00f1iques",
-      "url": "https://open.spotify.com/track/1WL1tQMLFYL1abzN5U3Bl2"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "ANIMAL",
         "url": "https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 170981,
       "name": "ANIMAL",
       "url": "https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Alma Coraz\u00f3n Y Vida",
+        "url": "https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE"
+      },
+      "artists": [
+        {
+          "name": "Norick",
+          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Me\u00f1iques",
+      "url": "https://open.spotify.com/track/1WL1tQMLFYL1abzN5U3Bl2"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Muerte",
-        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 284708,
-      "name": "Maquiav\u00e9lico",
-      "url": "https://open.spotify.com/track/447r2keRxpkINmWYp83MlH"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Verdugo",
         "url": "https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 224651,
       "name": "Tratos Con el Diablo",
       "url": "https://open.spotify.com/track/3dtbEL58G2yATa9GlVD2Th"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 284708,
+      "name": "Maquiav\u00e9lico",
+      "url": "https://open.spotify.com/track/447r2keRxpkINmWYp83MlH"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Inksanidad",
-        "url": "https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ"
-      },
-      "artists": [
-        {
-          "name": "T-Killa",
-          "url": "https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl"
-        }
-      ],
-      "duration_ms": 219158,
-      "name": "Suena",
-      "url": "https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Nunca Vemos Nada",
         "url": "https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 195000,
       "name": "El Mito de la Caverna",
       "url": "https://open.spotify.com/track/0NiWrLr9wR2VkGXKKzhgQL"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Inksanidad",
+        "url": "https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ"
+      },
+      "artists": [
+        {
+          "name": "T-Killa",
+          "url": "https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl"
+        }
+      ],
+      "duration_ms": 219158,
+      "name": "Suena",
+      "url": "https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Verdugo",
+        "url": "https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "Verdugo",
+      "url": "https://open.spotify.com/track/1zmPtZKrIxWRsdfk2yhH0k"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Residente o Visitante",
         "url": "https://open.spotify.com/album/1Tng1uGqDjFgs6n4Ud25fH"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 270493,
       "name": "Mala Suerta con el 13 (feat. La Mala Rodr\u00edguez)",
       "url": "https://open.spotify.com/track/6TB7BAFTmpkFNPpmhvqIxC"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Verdugo",
-        "url": "https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        }
-      ],
-      "duration_ms": 176842,
-      "name": "Verdugo",
-      "url": "https://open.spotify.com/track/1zmPtZKrIxWRsdfk2yhH0k"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Muerte",
-        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 361978,
-      "name": "Es \u00c9pico",
-      "url": "https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Dale Gas",
         "url": "https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 212495,
       "name": "Dale Gas",
       "url": "https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 361978,
+      "name": "Es \u00c9pico",
+      "url": "https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Muerte",
-        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 318328,
-      "name": "Jerem\u00edas 17-5",
-      "url": "https://open.spotify.com/track/1nSPlJY53DG3avK6UfpDpZ"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Frenesi",
         "url": "https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 235280,
       "name": "Raza Es Raza",
       "url": "https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 318328,
+      "name": "Jerem\u00edas 17-5",
+      "url": "https://open.spotify.com/track/1nSPlJY53DG3avK6UfpDpZ"
     },
     {
       "added_at": "2024-07-12 18:46:41",

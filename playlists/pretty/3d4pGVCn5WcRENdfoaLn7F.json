@@ -6,7 +6,7 @@
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADywTV4sb4CubrTzlCW1FgqEbAXtYd",
+  "snapshot_id": "AAADzKgbbOueWG5JLIBXwb8nL0jsVg1g",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1327,6 +1327,26 @@
       "duration_ms": 243750,
       "name": "what're we doing?",
       "url": "https://open.spotify.com/track/04bZCSivQeAQLCfVu6CTEQ"
+    },
+    {
+      "added_at": "2026-07-11 15:43:05",
+      "album": {
+        "name": "Run (Cover)",
+        "url": "https://open.spotify.com/album/4PSIjA7XCryTRa4ynqt0vL"
+      },
+      "artists": [
+        {
+          "name": "Sol Marineris",
+          "url": "https://open.spotify.com/artist/6fLLkzsoaz9ceyLoGYmUIP"
+        },
+        {
+          "name": "Enlia",
+          "url": "https://open.spotify.com/artist/4pGE3dPAL7rlSvoBgTw91S"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Run - Cover",
+      "url": "https://open.spotify.com/track/7qCzuCpMsiQqPqyjsURAQZ"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

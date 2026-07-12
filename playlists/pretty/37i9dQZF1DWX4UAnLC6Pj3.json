@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! To\u00f1o Lizarraga \ud83d\udcf8",
-  "num_followers": 1302630,
+  "num_followers": 1302629,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Con La Misma Piedra",
-        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 175496,
-      "name": "Con La Misma Piedra",
-      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
         "name": "Del Cielo Nada Cae",
         "url": "https://open.spotify.com/album/5Anng3X7vWCQ98sY8aMQvf"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 114181,
       "name": "Del Cielo Nada Cae",
       "url": "https://open.spotify.com/track/3iMRQ1Xm9ZQ00xmoTP43IP"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "Con La Misma Piedra",
+        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 175496,
+      "name": "Con La Misma Piedra",
+      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
+        "name": "En Vivo Desde La Oficina",
+        "url": "https://open.spotify.com/album/2WjjoqOuPMIbmZcJkqrrMc"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        }
+      ],
+      "duration_ms": 144370,
+      "name": "Copa de Vino",
+      "url": "https://open.spotify.com/track/0LflEWaUaypzR08kLtgrd0"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
         "name": "Mary Es Mi Amor",
         "url": "https://open.spotify.com/album/6obM8NwXf7JiCO4F7nRy3n"
       },
@@ -879,22 +895,6 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "No Tiene Precio",
-        "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 183640,
-      "name": "Si Se Trata De Ti",
-      "url": "https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
         "name": "Lo Pasado Pisado",
         "url": "https://open.spotify.com/album/2bWKVxM0V9o4XvTKCfK9ei"
       },
@@ -911,18 +911,18 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "En Vivo Desde La Oficina",
-        "url": "https://open.spotify.com/album/2WjjoqOuPMIbmZcJkqrrMc"
+        "name": "No Tiene Precio",
+        "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
       },
       "artists": [
         {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 144370,
-      "name": "Copa de Vino",
-      "url": "https://open.spotify.com/track/0LflEWaUaypzR08kLtgrd0"
+      "duration_ms": 183640,
+      "name": "Si Se Trata De Ti",
+      "url": "https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Parece Chiste",
-        "url": "https://open.spotify.com/album/438NTdxSGoEV48r3UFxw0E"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 175337,
-      "name": "Parece Chiste",
-      "url": "https://open.spotify.com/track/4CiFqbhxUiZqy9t936ESVG"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
         "name": "Si Por Casualidad",
         "url": "https://open.spotify.com/album/1AK4Hi6OQjoDM1Z649XueB"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 156990,
       "name": "Si Por Casualidad",
       "url": "https://open.spotify.com/track/3WPl6I9rzbNN1nFExjylcK"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "Parece Chiste",
+        "url": "https://open.spotify.com/album/438NTdxSGoEV48r3UFxw0E"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 175337,
+      "name": "Parece Chiste",
+      "url": "https://open.spotify.com/track/4CiFqbhxUiZqy9t936ESVG"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
+        "name": "Mujeres Livianas",
+        "url": "https://open.spotify.com/album/4RCDJkYqQZqpth1PQh0iBd"
+      },
+      "artists": [
+        {
+          "name": "Banda Arkangel R-15",
+          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "A La Luz Del Dia",
+      "url": "https://open.spotify.com/track/0GCbv2fYRTV4eCtNswjD8f"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/0FcQ8qNCjTOba9EVl2mANA"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 213250,
       "name": "Vete",
       "url": "https://open.spotify.com/track/7mt1OIVVExwWPg3SBBmef4"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
-        "name": "Mujeres Livianas",
-        "url": "https://open.spotify.com/album/4RCDJkYqQZqpth1PQh0iBd"
-      },
-      "artists": [
-        {
-          "name": "Banda Arkangel R-15",
-          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "A La Luz Del Dia",
-      "url": "https://open.spotify.com/track/0GCbv2fYRTV4eCtNswjD8f"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Si No Me Querias",
-        "url": "https://open.spotify.com/album/3PIGs2QPKmfv7VkbXru5pH"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
-        }
-      ],
-      "duration_ms": 231780,
-      "name": "Si No Me Querias",
-      "url": "https://open.spotify.com/track/3QXqVWy2GJOiReEOQ4ue1p"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
         "name": "Cari\u00f1ito (Live)",
         "url": "https://open.spotify.com/album/46b7zuMfKU4LyLxfGK7pxw"
       },
@@ -1539,6 +1523,38 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
+        "name": "Si No Me Querias",
+        "url": "https://open.spotify.com/album/3PIGs2QPKmfv7VkbXru5pH"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "duration_ms": 231780,
+      "name": "Si No Me Querias",
+      "url": "https://open.spotify.com/track/3QXqVWy2GJOiReEOQ4ue1p"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "Reproches Al Viento",
+        "url": "https://open.spotify.com/album/1ZJaz7EeISE7WMfdHPUqTj"
+      },
+      "artists": [
+        {
+          "name": "Los Ex de la Banda",
+          "url": "https://open.spotify.com/artist/6CHQA1uMG9PkxUOK9jj5ND"
+        }
+      ],
+      "duration_ms": 213777,
+      "name": "Reproches Al Viento",
+      "url": "https://open.spotify.com/track/4yo2Hyue6bhdVarIIwTeno"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
         "name": "Alergico Al Amor",
         "url": "https://open.spotify.com/album/0rlEwhpcGnjahpxICbC5Oj"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 190767,
       "name": "Alergico Al Amor",
       "url": "https://open.spotify.com/track/0eiIL1JkWd2EiWFdX2kV4n"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
-        "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
-        "url": "https://open.spotify.com/album/69aBc1bLsXjyqxdEWRecch"
-      },
-      "artists": [
-        {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
-        }
-      ],
-      "duration_ms": 340016,
-      "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
-      "url": "https://open.spotify.com/track/627sSkkT9txWL0SB6CNdOr"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
+        "name": "No Tiene Precio",
+        "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 146524,
+      "name": "Por Aqu\u00ed Pas\u00f3 Mar\u00eda",
+      "url": "https://open.spotify.com/track/5pYeQU77YuKzscy8YJvFx7"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
         "name": "Tu Ex Amigo",
         "url": "https://open.spotify.com/album/3AqKfeVIb9lMVxbdw4QSYb"
       },
@@ -1607,34 +1623,18 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Reproches Al Viento",
-        "url": "https://open.spotify.com/album/1ZJaz7EeISE7WMfdHPUqTj"
+        "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
+        "url": "https://open.spotify.com/album/69aBc1bLsXjyqxdEWRecch"
       },
       "artists": [
         {
-          "name": "Los Ex de la Banda",
-          "url": "https://open.spotify.com/artist/6CHQA1uMG9PkxUOK9jj5ND"
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
         }
       ],
-      "duration_ms": 213777,
-      "name": "Reproches Al Viento",
-      "url": "https://open.spotify.com/track/4yo2Hyue6bhdVarIIwTeno"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
-        "name": "No Tiene Precio",
-        "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 146524,
-      "name": "Por Aqu\u00ed Pas\u00f3 Mar\u00eda",
-      "url": "https://open.spotify.com/track/5pYeQU77YuKzscy8YJvFx7"
+      "duration_ms": 340016,
+      "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
+      "url": "https://open.spotify.com/track/627sSkkT9txWL0SB6CNdOr"
     },
     {
       "added_at": "2026-07-10 06:00:44",

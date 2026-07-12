@@ -5048,6 +5048,24 @@
     {
       "album": {
         "name": "All I Need",
+        "url": "https://open.spotify.com/album/3MzHyW72TjYLnFLNIJD89a"
+      },
+      "artists": [
+        {
+          "name": "RORE",
+          "url": "https://open.spotify.com/artist/4es2gLCEQiV2WeeIMCdn2j"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-10-18",
+      "duration_ms": 214444,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/44uTOBInSbS2ddsVvxpQFy"
+    },
+    {
+      "album": {
+        "name": "All I Need (Live)",
         "url": "https://open.spotify.com/album/4JjuxXhHE62lfnfTbBUMUP"
       },
       "artists": [
@@ -5064,26 +5082,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 945600,
-      "name": "All I Need",
+      "name": "All I Need - Live",
       "url": "https://open.spotify.com/track/6Ktak4jgWzsJ865fu4aqc8"
-    },
-    {
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/3MzHyW72TjYLnFLNIJD89a"
-      },
-      "artists": [
-        {
-          "name": "RORE",
-          "url": "https://open.spotify.com/artist/4es2gLCEQiV2WeeIMCdn2j"
-        }
-      ],
-      "date_added": "2024-10-04",
-      "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
-      "duration_ms": 214444,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/44uTOBInSbS2ddsVvxpQFy"
     },
     {
       "album": {
@@ -169528,6 +169528,24 @@
       "duration_ms": 268000,
       "name": "You Jah - Acoustic",
       "url": "https://open.spotify.com/track/3A6f0li9nIbypDiTKYGWYq"
+    },
+    {
+      "album": {
+        "name": "You Keep Doing Wonders",
+        "url": "https://open.spotify.com/album/51DDb61RN6wzwhcngtD2D0"
+      },
+      "artists": [
+        {
+          "name": "Aity Dennis",
+          "url": "https://open.spotify.com/artist/1l0qOoaa2mNBXFPJCEPDZa"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274076,
+      "name": "You Keep Doing Wonders",
+      "url": "https://open.spotify.com/track/294AGxsK9yTvXBWJODeFuj"
     },
     {
       "album": {

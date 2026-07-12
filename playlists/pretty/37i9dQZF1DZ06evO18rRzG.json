@@ -1,12 +1,12 @@
 {
   "description": "This is Daniel Caesar. The essential tracks, all in one playlist.",
-  "num_followers": 439822,
+  "num_followers": 439879,
   "original_name": "This Is Daniel Caesar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAAAzLFE1caBZMggZujyrSqDF",
+  "snapshot_id": "alA2AAAAAACaSdf9cojtilZbWhkSAWWc",
   "tracks": [
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Sign Of The Times",
-      "url": "https://open.spotify.com/track/4idq70ESkXPCPhCCnzBK1y"
+      "duration_ms": 265000,
+      "name": "Root of all Evil",
+      "url": "https://open.spotify.com/track/2SeynaXh3RsTyun1DitBgd"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 265000,
-      "name": "Root of all Evil",
-      "url": "https://open.spotify.com/track/2SeynaXh3RsTyun1DitBgd"
+      "duration_ms": 231800,
+      "name": "Sign Of The Times",
+      "url": "https://open.spotify.com/track/4idq70ESkXPCPhCCnzBK1y"
     },
     {
       "added_at": null,

@@ -2302,7 +2302,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 249666,
       "name": "Morning Song",
       "url": "https://open.spotify.com/track/7HL4OAOuAdjgnfvaLy7iYJ"
@@ -3482,6 +3482,28 @@
       "duration_ms": 303163,
       "name": "Thedia",
       "url": "https://open.spotify.com/track/1BOH3GRgTRZz7NITH4oEIG"
+    },
+    {
+      "album": {
+        "name": "There Arno Answers",
+        "url": "https://open.spotify.com/album/5DCd9EdELNB0JofPKGnN2p"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        },
+        {
+          "name": "Chris Hazelton",
+          "url": "https://open.spotify.com/artist/4Uv6hrIClSOvSx1lEXQ2eB"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307586,
+      "name": "There Arno Answers",
+      "url": "https://open.spotify.com/track/6PP2GqKolbQr2b6k7Rsd8X"
     },
     {
       "album": {

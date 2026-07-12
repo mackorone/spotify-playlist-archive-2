@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Rhineland, The Wild Wind, VICTORS and more
+> With Rhineland, The Wild Wind, Laureline and more
 
 1,441 songs - 3 day 20 hr 23 min
 
@@ -330,7 +330,7 @@
 | [Don't Forget Me](https://open.spotify.com/track/1ldzBCZ5Wjg2wdhJDIcSXy) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Night Traveler, Vol\. 1](https://open.spotify.com/album/3vUaX4cWihJEy1WxjLMQL6) | 4:50 | 2021-12-02 | 2024-04-23 |
 | [Don't Forget Me](https://open.spotify.com/track/7uJfbmRGalU7tIu96GtFc7) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Night Traveler, Vol\. 1](https://open.spotify.com/album/1PqJtKKARY9XSoR9527Teu) | 4:50 | 2024-05-09 | 2026-05-06 |
 | [don't give up on me](https://open.spotify.com/track/0UreG2A8t2D4s0DycjmAbS) | [pink roses](https://open.spotify.com/artist/4KPrvW0HmBDFKs8PsXRwyp) | [bedroom](https://open.spotify.com/album/3YMkIPHsxWPcGDFjzY9r3D) | 4:32 | 2022-03-10 | 2022-09-12 |
-| [Don't Go Dark](https://open.spotify.com/track/1f4CgPlQUVrhXphghXUU3O) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Hotspot](https://open.spotify.com/album/1FsDnLmWzOKywQlZv45GPX) | 4:52 | 2024-12-05 | 2026-07-11 |
+| [Don't Go Dark](https://open.spotify.com/track/1f4CgPlQUVrhXphghXUU3O) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Hotspot](https://open.spotify.com/album/1FsDnLmWzOKywQlZv45GPX) | 4:52 | 2024-12-05 |  |
 | [Don't Keep Driving](https://open.spotify.com/track/04JhvPreqxWlAV5SdK4mNo) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Corner Where You Live](https://open.spotify.com/album/4iiL0cdvbQoPNEbvyDTkOU) | 5:20 | 2024-04-19 | 2024-10-25 |
 | [Don't Keep Driving](https://open.spotify.com/track/2EMpUhxVk9FYQ0Ce8TxVgQ) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Corner Where You Live](https://open.spotify.com/album/02g8cOPykp2ZbBFDfScCTE) | 5:20 | 2022-03-31 | 2023-02-18 |
 | [Don't Keep Driving](https://open.spotify.com/track/2OGNTfSz24V7R4QfJzg6pb) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Corner Where You Live](https://open.spotify.com/album/2vUmvAnrPvFWN1dz34nC1O) | 5:20 | 2022-03-17 | 2022-03-27 |
@@ -486,7 +486,7 @@
 | [Get You Out](https://open.spotify.com/track/3fdSUF8i5E6rWIqBjNqJ6F) | [Antigon](https://open.spotify.com/artist/3YPPVZi2rGfFGvd0YS5nwA) | [Get You Out](https://open.spotify.com/album/4pCLAH44OAcqoMC0Pq26N4) | 3:12 | 2022-04-13 | 2022-04-14 |
 | [Ghost](https://open.spotify.com/track/1VYXQ5Zi9M9bhDOi91hcAu) | [By The Coast](https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm) | [Ghost](https://open.spotify.com/album/3d8K4PoodSlqGcQxq21s2x) | 4:10 | 2022-05-03 | 2022-05-04 |
 | [Ghost Hotel](https://open.spotify.com/track/2K3GO3EUiNtMEgvbBlU9MU) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Night Traveler, Vol\. 1](https://open.spotify.com/album/3vUaX4cWihJEy1WxjLMQL6) | 3:39 | 2021-12-01\* | 2024-04-26 |
-| [Ghost Hotel](https://open.spotify.com/track/6Bgy71MzE99kjyqWRKWpKh) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Night Traveler, Vol\. 1](https://open.spotify.com/album/1PqJtKKARY9XSoR9527Teu) | 3:39 | 2024-04-27 |  |
+| [Ghost Hotel](https://open.spotify.com/track/6Bgy71MzE99kjyqWRKWpKh) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Night Traveler, Vol\. 1](https://open.spotify.com/album/1PqJtKKARY9XSoR9527Teu) | 3:39 | 2024-04-27 | 2026-07-12 |
 | [Ghosts of my Hometown](https://open.spotify.com/track/0pKYQ2U4RnhIKS2gz2KFi3) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [Faint of Heart](https://open.spotify.com/album/3Sm362TyQy9CmZ1DVhmlYF) | 3:33 | 2021-12-07 | 2022-03-02 |
 | [Girl, Say](https://open.spotify.com/track/2YMVlnf2RsgVrQpi2g6KWI) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Girl, Say](https://open.spotify.com/album/56xuqlRm2ssGeFIwrsHCJY) | 4:02 | 2022-04-30 | 2024-04-15 |
 | [Girl, Say](https://open.spotify.com/track/4inpAv8q2lf5PNyUcGEgxf) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Girl, Say](https://open.spotify.com/album/6OULq1kw253Md9qTBy2f4W) | 4:02 | 2022-04-16 | 2022-04-17 |
@@ -852,7 +852,7 @@
 | [Missing Out](https://open.spotify.com/track/1Mzhc2GRyKO4gT7H0ri2yD) | [The Ivy](https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn) | [Missing Out](https://open.spotify.com/album/4I3lMEIAGDp9yv8o8RdazN) | 3:22 | 2023-04-13 | 2023-04-28 |
 | [Missing Out \- The Midnight Remix](https://open.spotify.com/track/0vhaMhozCr9SKpqRvEltsX) | [The Ivy](https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn), [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Missing Out \(The Midnight Remix\)](https://open.spotify.com/album/6IFWZUq3vxaI3uHpcGmbvW) | 3:29 | 2022-03-22 | 2022-10-14 |
 | [Missing You](https://open.spotify.com/track/4YPCHlbc0Qxs8t5XVsSJz1) | [At 1980](https://open.spotify.com/artist/5CI6pBIR5RCmvIAUEFi1CN), [Josh Dally](https://open.spotify.com/artist/1rTWoB7Gxm4YbWfrDc4EBt) | [A Thousand Lives](https://open.spotify.com/album/3KnywnwhdmRLlry94hnFE8) | 3:14 | 2022-07-24 | 2024-02-07 |
-| [Missing You](https://open.spotify.com/track/4L1OHPKmNkkZ7AhBDfsU3H) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Night Traveler, Vol\. 1](https://open.spotify.com/album/1PqJtKKARY9XSoR9527Teu) | 4:35 | 2024-04-27 | 2026-07-11 |
+| [Missing You](https://open.spotify.com/track/4L1OHPKmNkkZ7AhBDfsU3H) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Night Traveler, Vol\. 1](https://open.spotify.com/album/1PqJtKKARY9XSoR9527Teu) | 4:35 | 2024-04-27 |  |
 | [Missing You](https://open.spotify.com/track/7zh456XsP582pVEoq6Nf6m) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Night Traveler, Vol\. 1](https://open.spotify.com/album/3vUaX4cWihJEy1WxjLMQL6) | 4:35 | 2021-12-02 | 2024-04-26 |
 | [Missing You Now](https://open.spotify.com/track/7fCFTmHDm2Nl3oEurUiVlo) | [Drew Elliott](https://open.spotify.com/artist/4crZpyFIXx2nvOABqhj4LX) | [Slow Devotion](https://open.spotify.com/album/3JyuPJ2bsfEX2yvJihwhTI) | 4:20 | 2024-03-15 | 2024-03-28 |
 | [Monsters](https://open.spotify.com/track/3PEFIZR2rbENyadO5n690Z) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Monsters](https://open.spotify.com/album/6T3USLBDKSe0UWytow3x0i) | 4:36 | 2021-12-04 | 2022-03-09 |
@@ -1307,7 +1307,7 @@
 | [Uncommon Love](https://open.spotify.com/track/203GfPnkBXR52H5WDgfkpI) | [The Wild Wind](https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y) | [Cutting Edge Stuff](https://open.spotify.com/album/1CwW0jNyO2eLdu7Udf6M8D) | 3:00 | 2022-04-02 | 2022-08-28 |
 | [Under Dusk](https://open.spotify.com/track/3TbH823KFCLfwo8elqPtpj) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx), [Enna Blake](https://open.spotify.com/artist/3qIZ7QSE210xVDfAHDpXmb) | [Under Dusk](https://open.spotify.com/album/6P2il2hKvAhUel4zPM0Dpp) | 3:39 | 2024-01-04 | 2024-04-03 |
 | [Under Your Spell](https://open.spotify.com/track/20AblkE0QAqm3vdJ5ocYfF) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Under Your Spell](https://open.spotify.com/album/6wASK0gMyfQKHzMOKdCEYW) | 5:13 | 2024-08-14 | 2024-11-04 |
-| [Under Your Spell](https://open.spotify.com/track/7D5V8XA1vFvk5ZVUbE1R6M) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Hotspot](https://open.spotify.com/album/1FsDnLmWzOKywQlZv45GPX) | 5:13 | 2024-11-04 |  |
+| [Under Your Spell](https://open.spotify.com/track/7D5V8XA1vFvk5ZVUbE1R6M) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Hotspot](https://open.spotify.com/album/1FsDnLmWzOKywQlZv45GPX) | 5:13 | 2024-11-04 | 2026-07-12 |
 | [Unfolding](https://open.spotify.com/track/6sfMts9NazfxiphwUel89H) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Nothing is Lost](https://open.spotify.com/album/0DtpBbI7QACD3pt5vNPGfc) | 3:43 | 2022-03-01 | 2022-03-08 |
 | [Unfortunate Love](https://open.spotify.com/track/5Syb5fDjejlzXhwHhEFVzq) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx), [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Unfortunate Love](https://open.spotify.com/album/67aV8hBRcZ0irSncujuXA6) | 3:46 | 2022-06-29 | 2024-04-19 |
 | [unsaid](https://open.spotify.com/track/2RLTrDptf94QdHvAWPTutK) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [reimagined](https://open.spotify.com/album/2h1ywXX8GL0dHQW1yzU8Mf) | 3:06 | 2023-06-03 | 2023-06-09 |

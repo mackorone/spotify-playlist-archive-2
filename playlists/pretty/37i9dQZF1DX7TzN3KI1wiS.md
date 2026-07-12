@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 
 > <a href="spotify:artist:34iHrE61AX1yx8uAqNOCyU">Cosmicat</a>'s favorite tracks\. Updated regularly\. Curated by Cosmicat\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,225 likes - 141 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,239 likes - 141 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,7 +140,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 | 130 | [Half Life \- Green Ring Remix](https://open.spotify.com/track/3ueYMTQJpfC1L3TpqPrcPv) | [Rosalie](https://open.spotify.com/artist/1A5StMge4I3k1GCmFD1Wh6), [Green Ring](https://open.spotify.com/artist/6oRoO5VGKy4x4lr9Ws2rb7) | [Half Life \(Green Ring Remix\)](https://open.spotify.com/album/0OxJHXjHx5NjUFDQkOE0Z8) | 2:51 |
 | 131 | [Home](https://open.spotify.com/track/3q80kvOm7Q0WueY6gCwhbD) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Spiritual Milk](https://open.spotify.com/album/4sonMTh4GV9Y1rvJTfdZ8R) | 3:56 |
 | 132 | [Through And Through \- Mixed](https://open.spotify.com/track/5fXGKjkv3R5fbBixGdbWni) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [Anjunadeep 11](https://open.spotify.com/album/2uHQPZyOyrGjqaNR1V9FQE) | 4:30 |
-| 133 | [Black Rain \- Âme Remix](https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Black Rain \(Âme Remix\)](https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF) | 5:52 |
+| 133 | [Black Rain \(Âme Remix\)](https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Black Rain \(Âme Remix\)](https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF) | 5:52 |
 | 134 | [All I Ever Wanted](https://open.spotify.com/track/73RyhUtQnXgHB0Ko51EniR) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [All I Ever Wanted](https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT) | 6:32 |
 | 135 | [Lençóis \(Love Me\) \- Notre Dame Remix](https://open.spotify.com/track/5eqCFsvNDpNqlRnaq7yYLw) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Lençóis \(Love Me\) \[Notre Dame Remix\]](https://open.spotify.com/album/1PcJTDyhWQ0zIvl5gbFPfZ) | 5:04 |
 | 136 | [Life Is Not The Same](https://open.spotify.com/track/5LriwAnVbywAjj9oGi1Dno) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 3:19 |

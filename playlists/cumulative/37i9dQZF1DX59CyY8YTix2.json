@@ -19851,6 +19851,24 @@
     },
     {
       "album": {
+        "name": "\u305f\u308a\u306a\u3044",
+        "url": "https://open.spotify.com/album/3lLEAOFcIpzCTZn2ZaGaJk"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207544,
+      "name": "\u305f\u308a\u306a\u3044",
+      "url": "https://open.spotify.com/track/7vVkzs4nqxCsF2SY1JLbuQ"
+    },
+    {
+      "album": {
         "name": "\u3060\u3063\u305f\u4eba",
         "url": "https://open.spotify.com/album/2wkWg7n0lcz8jP2RNImoFW"
       },
@@ -26730,7 +26748,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 185000,
       "name": "\u30e9\u30a4\u30a2\u30fc",
       "url": "https://open.spotify.com/track/64ULo8RGzy9EEbd7F8FwGq"

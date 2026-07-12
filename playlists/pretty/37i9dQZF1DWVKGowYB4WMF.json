@@ -1,6 +1,6 @@
 {
   "description": "Jelly, arcades and a man on the moon, this one's for you!",
-  "num_followers": 98549,
+  "num_followers": 98567,
   "original_name": "Born in the 60s",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "Killer Queen - Remastered 2011",
-      "url": "https://open.spotify.com/track/4cIPLtg1avt2Jm3ne9S1zy"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "L.A. Woman",
         "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 434720,
       "name": "Riders on the Storm",
       "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Killer Queen - Remastered 2011",
+      "url": "https://open.spotify.com/track/4cIPLtg1avt2Jm3ne9S1zy"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Living In America",
-        "url": "https://open.spotify.com/album/0kY1Tg931A8dkaLmJve8ec"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 248533,
-      "name": "Living in America",
-      "url": "https://open.spotify.com/track/0T1OrvV6bOQVL2vSQiDn6W"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Good Times: The Very Best Of Chic & Sister Sledge",
         "url": "https://open.spotify.com/album/5kPejohrlhJVzEBxMObjDU"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 227173,
       "name": "Listen to the Music",
       "url": "https://open.spotify.com/track/2fja4gHzPsIXiK4bMeU0hN"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Living In America",
+        "url": "https://open.spotify.com/album/0kY1Tg931A8dkaLmJve8ec"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 248533,
+      "name": "Living in America",
+      "url": "https://open.spotify.com/track/0T1OrvV6bOQVL2vSQiDn6W"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg"
-      },
-      "artists": [
-        {
-          "name": "Deniece Williams",
-          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
-        }
-      ],
-      "duration_ms": 356560,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "The Stars We Are",
         "url": "https://open.spotify.com/album/3HIPNQXH9gtsvrlt74dUXR"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 280488,
       "name": "Something's Gotten Hold of My Heart",
       "url": "https://open.spotify.com/track/68O1r5xQADu0JjvBibg9zN"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "duration_ms": 356560,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5"
     },
     {
       "added_at": "2024-03-26 13:49:34",

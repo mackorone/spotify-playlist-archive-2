@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-169 songs - 9 hr 58 min
+170 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Melt](https://open.spotify.com/track/6aVYTDaMDECUES9XJDHwQx) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Melt](https://open.spotify.com/album/6Koo4jCXN821I8hMjwjaey) | 3:22 | 2023-12-30 |  |
 | [Mindset \(Took A Little While\)](https://open.spotify.com/track/50cAt6TDwjlGDnsuxI3tBk) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Ember EP](https://open.spotify.com/album/2leC9bFdVDkE4feqKf7xOX) | 4:04 | 2023-12-30 | 2025-07-24 |
 | [Move Forward](https://open.spotify.com/track/5sYM7ittI8pqJApwdlj7An) | [Nad](https://open.spotify.com/artist/02OlLtopHgwp33mqE8Xgkc) | [ADE Sampler 2013](https://open.spotify.com/album/32Yd71u9mjBRDaIHCCi5yc) | 6:19 | 2023-12-30 | 2025-07-24 |
+| [My Way](https://open.spotify.com/track/3bstaL7RoXaTTRsT53OdVn) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [My Way](https://open.spotify.com/album/6zLvmGu1VnBkCZr6GmaXqD) | 3:24 | 2026-07-11 |  |
 | [Never Be the Same](https://open.spotify.com/track/1ZvykrNUPMZ4cNwGTcK5NB) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Never Be the Same](https://open.spotify.com/album/0Qoilkt1L6Do1In2oVOpDO) | 3:13 | 2023-12-30 |  |
 | [Never Let Me Down](https://open.spotify.com/track/6yiqwnBBP2BSznRy8XGRVx) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Never Let Me Down](https://open.spotify.com/album/2l36ZsYlp4vtxCFGEqWLdT) | 3:10 | 2024-06-30 |  |
 | [Orbit](https://open.spotify.com/track/4fhf9sVGx2dWj1BE1lCfJ1) | [Rosie Kate](https://open.spotify.com/artist/0xrLQlrBpNDgPr0DrBmpxg) | [Orbit](https://open.spotify.com/album/2bRfwK4p6vXu04r3hMVFd5) | 3:38 | 2023-12-30 |  |

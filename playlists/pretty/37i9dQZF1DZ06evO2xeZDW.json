@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Giacchino. The essential tracks, all in one playlist.",
-  "num_followers": 18380,
+  "num_followers": 18385,
   "original_name": "This Is Michael Giacchino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAACfQAoso/a2x6C6V8FVx8a5",
+  "snapshot_id": "alA2AAAAAABhoqcX4ZsqZ21Bp13rIYbC",
   "tracks": [
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Up (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 458933,
+      "name": "Up With End Credits",
+      "url": "https://open.spotify.com/track/5X0kkx0LFKtRyXYPSRjdc8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 112600,
       "name": "The Old Zoo Review",
       "url": "https://open.spotify.com/track/76HDMYEE9m0Y4eGt5LMVQf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Up (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 458933,
-      "name": "Up With End Credits",
-      "url": "https://open.spotify.com/track/5X0kkx0LFKtRyXYPSRjdc8"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 183733,
-      "name": "Catwoman",
-      "url": "https://open.spotify.com/track/3Bd12fCAzf7NQHCtb3p2Si"
+      "duration_ms": 105746,
+      "name": "Funeral and Far Between",
+      "url": "https://open.spotify.com/track/2jVjwsysanjVbkuqu0LN6w"
     },
     {
       "added_at": null,
@@ -555,6 +555,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Up (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 43493,
+      "name": "We're In the Club Now",
+      "url": "https://open.spotify.com/track/5HQiu07zg3KIFMGvbAiW5t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Batman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 244573,
+      "name": "Can't Fight City Halloween",
+      "url": "https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
       },
@@ -571,38 +603,6 @@
       "duration_ms": 56400,
       "name": "A Commuted Relationship",
       "url": "https://open.spotify.com/track/3wjNabi8OaDNKoyXkl7fS2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Batman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 105746,
-      "name": "Funeral and Far Between",
-      "url": "https://open.spotify.com/track/2jVjwsysanjVbkuqu0LN6w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Up (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 43493,
-      "name": "We're In the Club Now",
-      "url": "https://open.spotify.com/track/5HQiu07zg3KIFMGvbAiW5t"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 244573,
-      "name": "Can't Fight City Halloween",
-      "url": "https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K"
+      "duration_ms": 183733,
+      "name": "Catwoman",
+      "url": "https://open.spotify.com/track/3Bd12fCAzf7NQHCtb3p2Si"
     },
     {
       "added_at": null,

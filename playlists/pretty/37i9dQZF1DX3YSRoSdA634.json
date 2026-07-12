@@ -1,6 +1,6 @@
 {
   "description": "for when you're leaning into that bad day feeling",
-  "num_followers": 3934786,
+  "num_followers": 3934618,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "The Visitor",
-        "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 228908,
-      "name": "The Visitor",
-      "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "The Diary Of Alicia Keys",
         "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
+        "name": "The Visitor",
+        "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 228908,
+      "name": "The Visitor",
+      "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 285935,
-      "name": "Love In The Dark",
-      "url": "https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 196077,
       "name": "when the party's over",
       "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 285935,
+      "name": "Love In The Dark",
+      "url": "https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 203569,
+      "name": "idontwannabeyouanymore",
+      "url": "https://open.spotify.com/track/41zXlQxzTi6cGAjpOXyLYH"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 285634,
       "name": "exile (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
-        "name": "dont smile at me",
-        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 203569,
-      "name": "idontwannabeyouanymore",
-      "url": "https://open.spotify.com/track/41zXlQxzTi6cGAjpOXyLYH"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -991,18 +991,18 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/4w177LbRYa3z07NifGptFp"
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
       "artists": [
         {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 230880,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
+      "duration_ms": 456026,
+      "name": "Sun Bleached Flies",
+      "url": "https://open.spotify.com/track/6fKIyDJHZ9m84jRhSmpuwS"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+        "name": "Control",
+        "url": "https://open.spotify.com/album/4w177LbRYa3z07NifGptFp"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
         }
       ],
-      "duration_ms": 456026,
-      "name": "Sun Bleached Flies",
-      "url": "https://open.spotify.com/track/6fKIyDJHZ9m84jRhSmpuwS"
+      "duration_ms": 230880,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
+        "name": "Willoughby Tucker, I'll Always Love You",
+        "url": "https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 483692,
+      "name": "Nettles",
+      "url": "https://open.spotify.com/track/02kTd6gB8IsBwPygDTHE4c"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
         "name": "Mansion",
         "url": "https://open.spotify.com/album/3Qq4kVfHPrs8xPKIYKmctl"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 185863,
       "name": "Leave a Light On",
       "url": "https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
-        "name": "Willoughby Tucker, I'll Always Love You",
-        "url": "https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 483692,
-      "name": "Nettles",
-      "url": "https://open.spotify.com/track/02kTd6gB8IsBwPygDTHE4c"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "Empty Of You",
-        "url": "https://open.spotify.com/album/0eUjjndcDx6aGnoMFGvjn2"
-      },
-      "artists": [
-        {
-          "name": "Dirty Blond",
-          "url": "https://open.spotify.com/artist/3ztI1lGY2ZwrmOJ5Kr6wsM"
-        }
-      ],
-      "duration_ms": 181181,
-      "name": "Empty Of You",
-      "url": "https://open.spotify.com/track/4mtvX2WPw0Z92zwjx4KFsO"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 236360,
       "name": "Something's Gotta Give",
       "url": "https://open.spotify.com/track/7IL3UOlcJ6nmcCMwpnlfcA"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
+        "name": "Empty Of You",
+        "url": "https://open.spotify.com/album/0eUjjndcDx6aGnoMFGvjn2"
+      },
+      "artists": [
+        {
+          "name": "Dirty Blond",
+          "url": "https://open.spotify.com/artist/3ztI1lGY2ZwrmOJ5Kr6wsM"
+        }
+      ],
+      "duration_ms": 181181,
+      "name": "Empty Of You",
+      "url": "https://open.spotify.com/track/4mtvX2WPw0Z92zwjx4KFsO"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -1819,6 +1819,26 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/0cHs4eStEKsSiDNxzu9ut5"
+      },
+      "artists": [
+        {
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/78TKtlSLWK8pZAKKW3MyQL"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
         "name": "Everything Is About You",
         "url": "https://open.spotify.com/album/4W7Hd3QDV9RmuM7Td0GOfI"
       },
@@ -1839,26 +1859,6 @@
       "duration_ms": 157746,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/0mWmLVtSUrAqpbueDcDJ3U"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
-        "name": "Say Something",
-        "url": "https://open.spotify.com/album/0cHs4eStEKsSiDNxzu9ut5"
-      },
-      "artists": [
-        {
-          "name": "A Great Big World",
-          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/78TKtlSLWK8pZAKKW3MyQL"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "Black Hole (Acoustic Version)",
-        "url": "https://open.spotify.com/album/009oQ3UChouWgXe3XWU2gD"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 175979,
-      "name": "Black Hole - Acoustic Version",
-      "url": "https://open.spotify.com/track/1cpVLszZnKUHUjsJDTEi3D"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "Please Don't Hate Me",
         "url": "https://open.spotify.com/album/14EBLrQbRhhzyCMQBSlhmn"
       },
@@ -2091,18 +2075,18 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "The Rain Isn't Over",
-        "url": "https://open.spotify.com/album/2gRUZi7aXJUVt7COu8CMtB"
+        "name": "Black Hole (Acoustic Version)",
+        "url": "https://open.spotify.com/album/009oQ3UChouWgXe3XWU2gD"
       },
       "artists": [
         {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 182348,
-      "name": "The Rain Isn't Over",
-      "url": "https://open.spotify.com/track/63r4GdzKCnwc0sq6l79mp0"
+      "duration_ms": 175979,
+      "name": "Black Hole - Acoustic Version",
+      "url": "https://open.spotify.com/track/1cpVLszZnKUHUjsJDTEi3D"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -2119,6 +2103,22 @@
       "duration_ms": 216186,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/7Cia4WzapwjMr0NUQF8vf3"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
+        "name": "The Rain Isn't Over",
+        "url": "https://open.spotify.com/album/2gRUZi7aXJUVt7COu8CMtB"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "duration_ms": 182348,
+      "name": "The Rain Isn't Over",
+      "url": "https://open.spotify.com/track/63r4GdzKCnwc0sq6l79mp0"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -2155,6 +2155,22 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
+      },
+      "artists": [
+        {
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+        }
+      ],
+      "duration_ms": 198897,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
         "name": "Miss Michigan",
         "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
       },
@@ -2171,22 +2187,6 @@
       "duration_ms": 204374,
       "name": "Cold Hands",
       "url": "https://open.spotify.com/track/2ZaTomBYLVmHjC3SCfjfl6"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
-      },
-      "artists": [
-        {
-          "name": "Parson James",
-          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
-        }
-      ],
-      "duration_ms": 198897,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
     },
     {
       "added_at": "2026-05-01 14:14:17",

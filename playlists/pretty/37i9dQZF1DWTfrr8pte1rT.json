@@ -1,6 +1,6 @@
 {
   "description": "Rock with a drop. Cover: Madeon \\m/",
-  "num_followers": 356422,
+  "num_followers": 356448,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2026-07-08 02:58:15",
       "album": {
-        "name": "AUTOPSY BUFFET",
-        "url": "https://open.spotify.com/album/5fXmvaPbkQbfM1o8YxSC9P"
-      },
-      "artists": [
-        {
-          "name": "GHENGAR",
-          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
-        },
-        {
-          "name": "Chassi",
-          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "AUTOPSY BUFFET",
-      "url": "https://open.spotify.com/track/2UI0f5V7VjkNZ9XyyZzI8Q"
-    },
-    {
-      "added_at": "2026-07-08 02:58:15",
-      "album": {
         "name": "Steps On You (Peep My Style)",
         "url": "https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt"
       },
@@ -1775,18 +1755,22 @@
     {
       "added_at": "2026-07-08 02:58:15",
       "album": {
-        "name": "Hi!",
-        "url": "https://open.spotify.com/album/5Vl2rwR7D2tV2Mtvl5Wm8n"
+        "name": "AUTOPSY BUFFET",
+        "url": "https://open.spotify.com/album/5fXmvaPbkQbfM1o8YxSC9P"
       },
       "artists": [
         {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+          "name": "GHENGAR",
+          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+        },
+        {
+          "name": "Chassi",
+          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
         }
       ],
-      "duration_ms": 142250,
-      "name": "Hi!",
-      "url": "https://open.spotify.com/track/7pAKQnpPIFHvnw72ssCZXg"
+      "duration_ms": 134400,
+      "name": "AUTOPSY BUFFET",
+      "url": "https://open.spotify.com/track/2UI0f5V7VjkNZ9XyyZzI8Q"
     },
     {
       "added_at": "2026-07-08 02:58:15",
@@ -1831,6 +1815,22 @@
       "duration_ms": 230400,
       "name": "You Can't Break Me (feat. Brandon Saller of Atreyu)",
       "url": "https://open.spotify.com/track/61lywMXKiITBED8Do8LQHQ"
+    },
+    {
+      "added_at": "2026-07-08 02:58:15",
+      "album": {
+        "name": "Hi!",
+        "url": "https://open.spotify.com/album/5Vl2rwR7D2tV2Mtvl5Wm8n"
+      },
+      "artists": [
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        }
+      ],
+      "duration_ms": 142250,
+      "name": "Hi!",
+      "url": "https://open.spotify.com/track/7pAKQnpPIFHvnw72ssCZXg"
     },
     {
       "added_at": "2026-07-08 02:58:15",
@@ -2339,8 +2339,8 @@
     {
       "added_at": "2026-07-08 02:58:15",
       "album": {
-        "name": "Kore",
-        "url": "https://open.spotify.com/album/2bMyuXi95xRhO7zh1LQp0h"
+        "name": "Forget My Name",
+        "url": "https://open.spotify.com/album/5kBtdhkSqQf6aXSNYtBumd"
       },
       "artists": [
         {
@@ -2348,13 +2348,17 @@
           "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
         },
         {
-          "name": "Nimda",
-          "url": "https://open.spotify.com/artist/3Au3D8Hsiy5B8z4C2uH02h"
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "CRYBLOOD",
+          "url": "https://open.spotify.com/artist/3VH53ktYPXwo7b9cigHjGe"
         }
       ],
-      "duration_ms": 156863,
-      "name": "Kore",
-      "url": "https://open.spotify.com/track/7hkl3e3ltu3sE3UYNxKrlc"
+      "duration_ms": 254896,
+      "name": "Forget My Name",
+      "url": "https://open.spotify.com/track/2MHuZf6dkhvAMa5UbKZvZT"
     },
     {
       "added_at": "2026-07-08 02:58:15",

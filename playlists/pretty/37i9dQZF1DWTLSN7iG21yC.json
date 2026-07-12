@@ -1,6 +1,6 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 827769,
+  "num_followers": 827690,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "Combust",
-        "url": "https://open.spotify.com/album/7MCaVHM9Od0utS2fcJdMh3"
-      },
-      "artists": [
-        {
-          "name": "LAUV",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 138161,
-      "name": "Combust",
-      "url": "https://open.spotify.com/track/0ovcYLTYKuN7cwOdDtnUCP"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 193621,
       "name": "Joy",
       "url": "https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Combust",
+        "url": "https://open.spotify.com/album/7MCaVHM9Od0utS2fcJdMh3"
+      },
+      "artists": [
+        {
+          "name": "LAUV",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 138161,
+      "name": "Combust",
+      "url": "https://open.spotify.com/track/0ovcYLTYKuN7cwOdDtnUCP"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/7Hz2GKXQniSyGHdNjRs7PP"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 164396,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/4qeHV9T5N3S7KAKryZQp8s"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/1I3BqSode2tMfk4IbbTQnK"
       },
@@ -1999,22 +2015,6 @@
       "duration_ms": 165133,
       "name": "Move",
       "url": "https://open.spotify.com/track/46UPxQScuRtw2jvE23vuYJ"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/7Hz2GKXQniSyGHdNjRs7PP"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 164396,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/4qeHV9T5N3S7KAKryZQp8s"
     },
     {
       "added_at": "2025-08-08 04:00:40",

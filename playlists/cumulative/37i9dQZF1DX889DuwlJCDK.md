@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: Mega Shinnosuke
 
-1,859 songs - 4 day 16 hr 21 min
+1,860 songs - 4 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -884,7 +884,7 @@
 | [きらめきだった](https://open.spotify.com/track/2Y3n8cbfyRJoRiNT0Jcgcp) | [omeme tenten](https://open.spotify.com/artist/0uwxPKyoIIT8WIQLYpXSFC) | [きらめきだった](https://open.spotify.com/album/4hrD4p9UPL6Uf9rCT19kEq) | 3:55 | 2026-03-03 | 2026-06-16 |
 | [きらめくきもち](https://open.spotify.com/track/1il4JWtRPTqenADdwd1nxw) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [きらめくきもち](https://open.spotify.com/album/3T3gQxuV6JwbF7aBfyjnIv) | 3:47 | 2023-09-12 | 2024-01-10 |
 | [ぎゅっとして、](https://open.spotify.com/track/7EgrXPzuIqfr4a3soz8Dwk) | [YUTORI\-SEDAI](https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G) | [ぎゅっとして、](https://open.spotify.com/album/4LzD5Xdc0hq088OeuA0JCH) | 3:21 | 2023-07-27 | 2024-12-18 |
-| [くじらの歌](https://open.spotify.com/track/2V9auhhX0APHUfha9fBePK) | [帰りの会](https://open.spotify.com/artist/5YXzV93qLK8xNqNy5OKVkJ) | [くじらの歌が聴こえる](https://open.spotify.com/album/28WyTeIGpCldcZwqUKO4Ny) | 6:15 | 2026-06-16 | 2026-07-09 |
+| [くじらの歌](https://open.spotify.com/track/2V9auhhX0APHUfha9fBePK) | [帰りの会](https://open.spotify.com/artist/5YXzV93qLK8xNqNy5OKVkJ) | [くじらの歌が聴こえる](https://open.spotify.com/album/28WyTeIGpCldcZwqUKO4Ny) | 6:15 | 2026-06-16 |  |
 | [くるくる](https://open.spotify.com/track/3EALix0agClnyHbuqyIMWk) | [Set Free](https://open.spotify.com/artist/36vcyceqhQLnHVZgchCasA) | [くるくる](https://open.spotify.com/album/2IIFKW947pqijY5q6J21Lq) | 3:42 | 2023-07-27 | 2023-08-09 |
 | [こがれ](https://open.spotify.com/track/1UpRK1N1DGTYSLaLmpdZw2) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [音生 \-onsei\-](https://open.spotify.com/album/684jExc4XxRfjR7na7l7sr) | 3:49 | 2024-01-30 | 2024-02-01 |
 | [ここにいた才能](https://open.spotify.com/track/4GBBbMpBEz4isZYAvJk3Qr) | [ルサンチマン](https://open.spotify.com/artist/5LvaknCVL7R16LCiSktKEm) | [ここにいた才能](https://open.spotify.com/album/0kPcDIfAmEr9FNhCfuketW) | 2:15 | 2024-03-12 | 2024-04-24 |
@@ -1162,7 +1162,7 @@
 | [トーチソング](https://open.spotify.com/track/47YaLww0WbWQrmden7QzMe) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [はごろも](https://open.spotify.com/album/3J10gNaEDDi4BFXf7UYQhb) | 4:50 | 2024-10-10 | 2024-11-06 |
 | [ドキドキする](https://open.spotify.com/track/2PHZVtdPCqi7oTIw7jsyM1) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [ドキドキする](https://open.spotify.com/album/76fKJdmm2j4KGKtKgiMYW1) | 3:01 | 2023-11-02 | 2024-04-19 |
 | [ドーナツ](https://open.spotify.com/track/3HdQatZgKmCFLQkvIxrvsh) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [ドーナツ](https://open.spotify.com/album/4lCsMscCzgNHfiOVfpGtrg) | 4:08 | 2024-09-24 | 2025-01-04 |
-| [ドール](https://open.spotify.com/track/6w0aqok05y3cdCYQ6uJ8lX) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [GIRLS BAND NEVER DIE](https://open.spotify.com/album/3HZsA618AiDsSClnQYGVsu) | 2:39 | 2026-06-16 |  |
+| [ドール](https://open.spotify.com/track/6w0aqok05y3cdCYQ6uJ8lX) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [GIRLS BAND NEVER DIE](https://open.spotify.com/album/3HZsA618AiDsSClnQYGVsu) | 2:39 | 2026-06-16 | 2026-07-12 |
 | [ナインティーン](https://open.spotify.com/track/5JmJMom0ElZ0AzhUQHkSlP) | [ma℃ister](https://open.spotify.com/artist/2AodfbbcwbloGcm5yjnrLT) | [ナインティーン](https://open.spotify.com/album/1j0Ph5MWwrRhecCzGlrfdi) | 3:51 | 2025-02-18 | 2025-03-05 |
 | [ナツメグ](https://open.spotify.com/track/5xDCfxc1ze0ECUDuCnzu50) | [PURPLE BUBBLE](https://open.spotify.com/artist/7ucP21XEjkdgwydBjpbaQI) | [ナツメグ](https://open.spotify.com/album/1gAxx7JgGph2JOxJ9SvU2s) | 3:19 | 2025-04-17 | 2026-02-12 |
 | [ネガティヴジャンキー](https://open.spotify.com/track/69PYbtikdbkhqX8f6mFAyr) | [Dannie May](https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7) | [ネガティヴジャンキー](https://open.spotify.com/album/78okFz7cNBKu7FcfFVEWqY) | 3:34 | 2026-05-13 |  |
@@ -1205,6 +1205,7 @@
 | [パノラマ](https://open.spotify.com/track/5hUFrzR6tHsaOohWNAxzhl) | [AMUSEMENT LAGER](https://open.spotify.com/artist/1HhWYpsvHlktNlxfrngNR1) | [パノラマ](https://open.spotify.com/album/6wU9KFryDdpcedIowkqmzE) | 3:24 | 2026-02-11 | 2026-02-23 |
 | [パメラ](https://open.spotify.com/track/6HEGbxwJYMtWItvjzeFAxt) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [Fall Apart](https://open.spotify.com/album/3lIOBUtWhcp2urQAyErTpg) | 3:18 | 2025-04-15 | 2025-12-03 |
 | [パラソムニア](https://open.spotify.com/track/5BnMjmHTJgmIOhUvfE2q9B) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [パラソムニア](https://open.spotify.com/album/2psksUsB4o9xBS9mArvYD0) | 2:07 | 2026-02-17 |  |
+| [パラレルナイト](https://open.spotify.com/track/3sUupr1kIWVUtNOgjIAFhg) | [BILLY BOO](https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey) | [パラレルナイト](https://open.spotify.com/album/7eLUFaFni4wNgQTnOSmU3I) | 4:21 | 2026-07-08 |  |
 | [パンザマスト](https://open.spotify.com/track/1ObqbQDyABhBhhofOITc58) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [SINGER'S HIGH](https://open.spotify.com/album/0uqbdmdAkwobS4msDI68DG) | 2:52 | 2023-11-21 | 2023-11-23 |
 | [パーフェクトブルー](https://open.spotify.com/track/4mRtTroNrEvMoB5iluPPjQ) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [パーフェクトブルー](https://open.spotify.com/album/19b2N3s4Q3HuxPPMp2tx7b) | 3:04 | 2024-07-30 | 2024-09-18 |
 | [ヒカリアウ](https://open.spotify.com/track/6AODTKAEuNgTfMpLTWEYXa) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [ヒカリアウ](https://open.spotify.com/album/5puuEZbC0OZ5LJ5w3dVLms) | 4:00 | 2024-07-16 | 2024-09-11 |
@@ -1488,7 +1489,7 @@
 | [大脱走計画](https://open.spotify.com/track/4fP51Klo0ZAnnszEskcMGD) | [Luov](https://open.spotify.com/artist/65qX1IKOU3lXJsZ327lCww) | [LUOV](https://open.spotify.com/album/31ICdhFGDDicIofTM5MZGi) | 3:01 | 2025-04-01 | 2025-05-22 |
 | [大阪](https://open.spotify.com/track/56AJFaOE4SxZ1mIPYmLBJt) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [大阪](https://open.spotify.com/album/51zLtj731wDasku92w5W4z) | 3:50 | 2026-06-16 | 2026-06-24 |
 | [天使の詩](https://open.spotify.com/track/5Ae81nvpm1CzaY7dzP5dc1) | [北風と太陽](https://open.spotify.com/artist/76Jg7MhUsWrzGqfAW4qZK3) | [天使の詩](https://open.spotify.com/album/31bci2KnsZuVuyMS6IlpK6) | 4:02 | 2025-06-03 | 2025-06-12 |
-| [天国](https://open.spotify.com/track/7gI06qAAF8KR3mFscGwcmg) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [天国](https://open.spotify.com/album/4zspLhlSQzXOX6ru4LV5kd) | 4:17 | 2026-03-24 |  |
+| [天国](https://open.spotify.com/track/7gI06qAAF8KR3mFscGwcmg) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [天国](https://open.spotify.com/album/4zspLhlSQzXOX6ru4LV5kd) | 4:17 | 2026-03-24 | 2026-07-12 |
 | [天国行き](https://open.spotify.com/track/5sagBuYTndZLaKkuTXaOZP) | [cadode](https://open.spotify.com/artist/67zlAHPEzkbMQrkdC8QwPr) | [天国行き](https://open.spotify.com/album/2Tr2J9inTkIKuQJb9Uy9hU) | 4:19 | 2025-04-22 | 2025-04-30 |
 | [天国街道](https://open.spotify.com/track/6svY2OYpwFRP7UJwfzlaof) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [天国街道](https://open.spotify.com/album/0HHHwZbYgXRYx31UKTkiPN) | 3:42 | 2024-01-09 | 2024-01-11 |
 | [天泣](https://open.spotify.com/track/74oNRt29tO9K9D05F8LI5n) | [YOURNESS](https://open.spotify.com/artist/1u1NJZJgYCF6BVsjSYf2BM) | [天泣](https://open.spotify.com/album/2AopA91xOSaudKYE11M1at) | 3:38 | 2025-03-25 | 2025-04-02 |

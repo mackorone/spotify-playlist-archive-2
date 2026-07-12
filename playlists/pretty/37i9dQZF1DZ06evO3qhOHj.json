@@ -1,12 +1,12 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 30928,
+  "num_followers": 30934,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAAAu6YGMvNDSD4Dm+fvtk9ub",
+  "snapshot_id": "alA2AAAAAAAktsoxuSFDAvHf3yTRTmMt",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From The Living Room",
-        "url": "https://open.spotify.com/album/59xrZMtRGj46AFad07qjLS"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 303960,
-      "name": "Stranger In My Life",
-      "url": "https://open.spotify.com/track/25Ft3uRiRsbvnsrF9vOJXv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7uV3SQQ8UOlvZOnEh1E8xi"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 222506,
       "name": "Strike Like Lightning",
       "url": "https://open.spotify.com/track/58LtaOiGBPEeVbJUUxXFRE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From The Living Room",
+        "url": "https://open.spotify.com/album/59xrZMtRGj46AFad07qjLS"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 303960,
+      "name": "Stranger In My Life",
+      "url": "https://open.spotify.com/track/25Ft3uRiRsbvnsrF9vOJXv"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 230120,
-      "name": "Rock & Roll Over - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/6iPitq8OYncx3RKB8e6cFu"
+      "duration_ms": 289266,
+      "name": "Big Love - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/3HrCCxsNoBBYBoNhcjivPg"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 289266,
-      "name": "Big Love - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/3HrCCxsNoBBYBoNhcjivPg"
+      "duration_ms": 230120,
+      "name": "Rock & Roll Over - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/6iPitq8OYncx3RKB8e6cFu"
     },
     {
       "added_at": null,

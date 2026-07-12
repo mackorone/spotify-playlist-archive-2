@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: JBABE",
-  "num_followers": 86241,
+  "num_followers": 86249,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -69,22 +69,6 @@
       "url": "https://open.spotify.com/track/0wx08CQnNntQhnkhEq9h2r"
     },
     {
-      "added_at": "2026-06-19 13:00:36",
-      "album": {
-        "name": "SANTISSIMO",
-        "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
-      },
-      "artists": [
-        {
-          "name": "Sayf",
-          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
-        }
-      ],
-      "duration_ms": 131209,
-      "name": "SALSA MAGHREB",
-      "url": "https://open.spotify.com/track/7rkSSdqz6pjhYRIXLuOXHp"
-    },
-    {
       "added_at": "2026-06-20 16:52:25",
       "album": {
         "name": "can't be blue",
@@ -103,6 +87,22 @@
       "duration_ms": 195000,
       "name": "can't love (feat. HAN (Stray Kids))",
       "url": "https://open.spotify.com/track/3KQbhkqIGm1W577i5iw0gB"
+    },
+    {
+      "added_at": "2026-06-19 13:00:36",
+      "album": {
+        "name": "SANTISSIMO",
+        "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        }
+      ],
+      "duration_ms": 131209,
+      "name": "SALSA MAGHREB",
+      "url": "https://open.spotify.com/track/7rkSSdqz6pjhYRIXLuOXHp"
     },
     {
       "added_at": "2026-06-19 13:00:36",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-06-19 13:00:36",
       "album": {
-        "name": "tu non vuoi nessuno",
-        "url": "https://open.spotify.com/album/7nI3aZbxTT2xcDzvbMTp9Z"
-      },
-      "artists": [
-        {
-          "name": "prima stanza a destra",
-          "url": "https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5"
-        }
-      ],
-      "duration_ms": 202539,
-      "name": "tu non vuoi nessuno",
-      "url": "https://open.spotify.com/track/5BIjciSrUoa2sPirUFZsgr"
-    },
-    {
-      "added_at": "2026-06-19 13:00:36",
-      "album": {
         "name": "The First Wave",
         "url": "https://open.spotify.com/album/41tF99cHFAvyf11JSwWtYU"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 185753,
       "name": "Haru Biru",
       "url": "https://open.spotify.com/track/053AJQ01i1w3luw0QRGzUy"
+    },
+    {
+      "added_at": "2026-06-19 13:00:36",
+      "album": {
+        "name": "tu non vuoi nessuno",
+        "url": "https://open.spotify.com/album/7nI3aZbxTT2xcDzvbMTp9Z"
+      },
+      "artists": [
+        {
+          "name": "prima stanza a destra",
+          "url": "https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5"
+        }
+      ],
+      "duration_ms": 202539,
+      "name": "tu non vuoi nessuno",
+      "url": "https://open.spotify.com/track/5BIjciSrUoa2sPirUFZsgr"
     },
     {
       "added_at": "2026-06-19 13:00:36",

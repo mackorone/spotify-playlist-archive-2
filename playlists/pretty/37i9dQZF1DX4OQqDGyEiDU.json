@@ -1,12 +1,12 @@
 {
   "description": "Explore the current wave of VOCALOID culture. Cover: Hiiragi Magnetite",
-  "num_followers": 120849,
+  "num_followers": 120882,
   "original_name": "VOCALOID now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOdKp5R0EaYwHV6Q7Lg8AiWcWTsk",
+  "snapshot_id": "AAAAAARveLm/TEn7lMLZ7/LXhN9yWC2j",
   "tracks": [
     {
       "added_at": "2026-07-02 02:39:57",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-07-02 02:39:57",
       "album": {
+        "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx"
+      },
+      "artists": [
+        {
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+        }
+      ],
+      "duration_ms": 205155,
+      "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml"
+    },
+    {
+      "added_at": "2026-07-02 02:39:57",
+      "album": {
         "name": "\u8d85\u304b\u3050\u3084\u59eb\uff01",
         "url": "https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 226734,
       "name": "\u30ef\u30fc\u30eb\u30c9\u30a4\u30ba\u30de\u30a4\u30f3 - \u304b\u3050\u3084&\u6708\u898b\u30e4\u30c1\u30e8 ver. - CPK! Remix",
       "url": "https://open.spotify.com/track/4L1Zv5dzq06DuTzKucmYSR"
-    },
-    {
-      "added_at": "2026-07-02 02:39:57",
-      "album": {
-        "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx"
-      },
-      "artists": [
-        {
-          "name": "hachi",
-          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
-        }
-      ],
-      "duration_ms": 205155,
-      "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml"
     },
     {
       "added_at": "2026-07-02 02:39:57",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-07-02 02:39:57",
       "album": {
+        "name": "\u53a8\u75c5\u6fc0\u767a\u30dc\u30fc\u30a4",
+        "url": "https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs"
+      },
+      "artists": [
+        {
+          "name": "rerulili",
+          "url": "https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "\u8133\u6f3f\u70b8\u88c2\u30ac\u30fc\u30eb 2015ver.",
+      "url": "https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906"
+    },
+    {
+      "added_at": "2026-07-02 02:39:57",
+      "album": {
         "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
         "url": "https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 163682,
       "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
       "url": "https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw"
-    },
-    {
-      "added_at": "2026-07-02 02:39:57",
-      "album": {
-        "name": "\u53a8\u75c5\u6fc0\u767a\u30dc\u30fc\u30a4",
-        "url": "https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs"
-      },
-      "artists": [
-        {
-          "name": "rerulili",
-          "url": "https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "\u8133\u6f3f\u70b8\u88c2\u30ac\u30fc\u30eb 2015ver.",
-      "url": "https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906"
     },
     {
       "added_at": "2026-07-02 02:39:57",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-07-02 02:39:57",
       "album": {
-        "name": "\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044",
-        "url": "https://open.spotify.com/album/0VT7LIPGfvANx4jh5s11Ui"
-      },
-      "artists": [
-        {
-          "name": "\u306a\u308b\u307f\u3084",
-          "url": "https://open.spotify.com/artist/7DkhW1MaKKLwJTSC5TtVW3"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044",
-      "url": "https://open.spotify.com/track/2cljEZhP1PZcYHsitlCyW5"
-    },
-    {
-      "added_at": "2026-07-02 02:39:57",
-      "album": {
         "name": "\u3044\u307e\u3059\u3050\u8f2a\u5efb",
         "url": "https://open.spotify.com/album/7INI4kXA59Vti239hZ9gwe"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 122482,
       "name": "\u3044\u307e\u3059\u3050\u8f2a\u5efb",
       "url": "https://open.spotify.com/track/2YZa7FpeKe423Wvme0yKNf"
+    },
+    {
+      "added_at": "2026-07-02 02:39:57",
+      "album": {
+        "name": "\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044",
+        "url": "https://open.spotify.com/album/0VT7LIPGfvANx4jh5s11Ui"
+      },
+      "artists": [
+        {
+          "name": "\u306a\u308b\u307f\u3084",
+          "url": "https://open.spotify.com/artist/7DkhW1MaKKLwJTSC5TtVW3"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044",
+      "url": "https://open.spotify.com/track/2cljEZhP1PZcYHsitlCyW5"
     },
     {
       "added_at": "2026-07-02 02:39:57",

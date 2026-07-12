@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 461 likes - 482 songs - 1 day 0 hr 24 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 461 likes - 487 songs - 1 day 0 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -490,5 +490,10 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 480 | [HAVOC](https://open.spotify.com/track/3nVQgLOmWDLsiBHeHYdcHg) | [N.B.S](https://open.spotify.com/artist/2QyhdoBls8dMJBtWq7AGhY) | [HAVOC](https://open.spotify.com/album/7pQ3etfXXMlWhYiPWS4RXr) | 3:46 |
 | 481 | [Build to Burn](https://open.spotify.com/track/2ea1wQNqIyMghvoHbJHdqJ) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Build to Burn](https://open.spotify.com/album/3gwdzUm6fwWglItpbtwYEW) | 4:56 |
 | 482 | [Heavier Than Heaven](https://open.spotify.com/track/6loN76fdvbdRRyVmKpo83e) | [thidebrito](https://open.spotify.com/artist/38nFnSRQtd7Nslr5PSlCBq) | [Boundless Dominion Continuum](https://open.spotify.com/album/1xdSH7i5PbgeVUThYf8WZC) | 6:30 |
+| 483 | [Falling into the Void](https://open.spotify.com/track/78cIrudzqU1eQGHoKG1ELh) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 3:56 |
+| 484 | [I Love the NiteTime \- Instrumental](https://open.spotify.com/track/71EtEiC81m2XGqTtbIho9t) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [I Love the NiteTime \(Instrumental\)](https://open.spotify.com/album/3l4SxjWPTqCkfk3do9lvPC) | 2:30 |
+| 485 | [\_ARM & A LEG](https://open.spotify.com/track/3AyyxV3e5MbaXKgDzCHlyR) | [Jazzy lion man](https://open.spotify.com/artist/1KJAn0NCqonuwuPiUfsUqW), [GOMMi J](https://open.spotify.com/artist/3YuyyzIzXAfLWvlND0OJfs) | [\_WHAT'S NEXT?](https://open.spotify.com/album/1WfnZUUw73RA1PjTLHaTgd) | 2:13 |
+| 486 | [Help me be your anything](https://open.spotify.com/track/1MmUIJePVh8Ja3tWfWRR0e) | [New Age 32](https://open.spotify.com/artist/7nk3NbedVtRrXzCWnDr5OZ) | [Help me be your anything](https://open.spotify.com/album/2bSNUkso6RQuxZz6pP2Xad) | 3:09 |
+| 487 | [Deep Resting](https://open.spotify.com/track/0Zij1R4P4KiAYudjcEQCbS) | [Granon](https://open.spotify.com/artist/3B1OyCfxHoOoWAgRPhDQH3) | [Deep Resting](https://open.spotify.com/album/1KCwSffzFHka4E7aF1yFve) | 3:21 |
 
-Snapshot ID: `AAAciu97nKDkV+unpG1dDQDJTJAKPnMg`
+Snapshot ID: `AAAcj1tGLZ4jDwhvwNGZtnJ9T2qPubrV`

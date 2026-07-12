@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 299276,
+  "num_followers": 299274,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2026-07-10 15:28:19",
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/1XXUdRkbwKWm8hCcHLwdGl"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 214534,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/4WOsZ7Rq8NmEiLpXM8Zvd5"
+    },
+    {
+      "added_at": "2026-07-10 15:28:19",
+      "album": {
         "name": "Miyazaki",
         "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
       },
@@ -351,22 +367,6 @@
     {
       "added_at": "2026-07-10 15:28:19",
       "album": {
-        "name": "stay with the ocean, i'll find you",
-        "url": "https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 201766,
-      "name": "how do you dance?",
-      "url": "https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP"
-    },
-    {
-      "added_at": "2026-07-10 15:28:19",
-      "album": {
         "name": "Meet Me In Love",
         "url": "https://open.spotify.com/album/1dG3C2nPstMJcrrtvZGJyM"
       },
@@ -379,6 +379,22 @@
       "duration_ms": 242248,
       "name": "Meet Me In Love",
       "url": "https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q"
+    },
+    {
+      "added_at": "2026-07-10 15:28:19",
+      "album": {
+        "name": "stay with the ocean, i'll find you",
+        "url": "https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 201766,
+      "name": "how do you dance?",
+      "url": "https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP"
     },
     {
       "added_at": "2026-07-10 15:28:19",
@@ -427,6 +443,26 @@
       "duration_ms": 253350,
       "name": "Let It All Out",
       "url": "https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F"
+    },
+    {
+      "added_at": "2026-07-10 15:28:19",
+      "album": {
+        "name": "Joven y Salvaje (with Bb trickz)",
+        "url": "https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk"
+      },
+      "artists": [
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "duration_ms": 122703,
+      "name": "Joven y Salvaje (with Bb trickz)",
+      "url": "https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ"
     },
     {
       "added_at": "2026-07-10 15:28:19",
@@ -555,22 +591,6 @@
     {
       "added_at": "2026-07-10 15:28:19",
       "album": {
-        "name": "Yellow Eyes",
-        "url": "https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 162096,
-      "name": "Yellow Eyes",
-      "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
-    },
-    {
-      "added_at": "2026-07-10 15:28:19",
-      "album": {
         "name": "Feel Alive",
         "url": "https://open.spotify.com/album/4MfK4qyG0xxWjQtrb0fwvI"
       },
@@ -587,6 +607,22 @@
     {
       "added_at": "2026-07-10 15:28:19",
       "album": {
+        "name": "Yellow Eyes",
+        "url": "https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 162096,
+      "name": "Yellow Eyes",
+      "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
+    },
+    {
+      "added_at": "2026-07-10 15:28:19",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN"
       },
@@ -599,6 +635,22 @@
       "duration_ms": 191133,
       "name": "Home",
       "url": "https://open.spotify.com/track/28LN7UaMESB80svwZttTYF"
+    },
+    {
+      "added_at": "2026-07-10 15:28:19",
+      "album": {
+        "name": "FEEL THE NIGHT",
+        "url": "https://open.spotify.com/album/5oCyQWYNOeNB6jM8EY2vyo"
+      },
+      "artists": [
+        {
+          "name": "Sara Costa",
+          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "FEEL THE NIGHT",
+      "url": "https://open.spotify.com/track/7EzQ54GP7TtEfd9QMbWZzV"
     },
     {
       "added_at": "2026-07-10 15:28:19",
@@ -639,22 +691,6 @@
       "duration_ms": 218453,
       "name": "Dive Into The Ocean (Prod. By Alok)",
       "url": "https://open.spotify.com/track/1QUE9sIUcCA2uvcieOQ2uJ"
-    },
-    {
-      "added_at": "2026-07-10 15:28:19",
-      "album": {
-        "name": "FEEL THE NIGHT",
-        "url": "https://open.spotify.com/album/5oCyQWYNOeNB6jM8EY2vyo"
-      },
-      "artists": [
-        {
-          "name": "Sara Costa",
-          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "FEEL THE NIGHT",
-      "url": "https://open.spotify.com/track/7EzQ54GP7TtEfd9QMbWZzV"
     },
     {
       "added_at": "2026-07-10 15:28:19",
@@ -879,22 +915,6 @@
     {
       "added_at": "2026-07-10 15:28:19",
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/1XXUdRkbwKWm8hCcHLwdGl"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 214534,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/4WOsZ7Rq8NmEiLpXM8Zvd5"
-    },
-    {
-      "added_at": "2026-07-10 15:28:19",
-      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/5p7wQPXWtiOBVUb6X8BwBA"
       },
@@ -907,6 +927,26 @@
       "duration_ms": 196360,
       "name": "Promises",
       "url": "https://open.spotify.com/track/3rMpx4dIw5OeouWZsc2Ql5"
+    },
+    {
+      "added_at": "2026-07-10 15:28:19",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/1qnAHpyTVSkXo8Oh57Appo"
+      },
+      "artists": [
+        {
+          "name": "MONTMARTRE",
+          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+        },
+        {
+          "name": "Side One",
+          "url": "https://open.spotify.com/artist/02Ni6QKLqoq8wfx846M2GZ"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/4PzjQpUlb2uPlsB6U1MgHr"
     },
     {
       "added_at": "2026-07-10 15:28:19",
@@ -943,26 +983,6 @@
       "duration_ms": 173172,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/367jZlkmOpSqMGwjlRvQrp"
-    },
-    {
-      "added_at": "2026-07-10 15:28:19",
-      "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/1qnAHpyTVSkXo8Oh57Appo"
-      },
-      "artists": [
-        {
-          "name": "MONTMARTRE",
-          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
-        },
-        {
-          "name": "Side One",
-          "url": "https://open.spotify.com/artist/02Ni6QKLqoq8wfx846M2GZ"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/4PzjQpUlb2uPlsB6U1MgHr"
     },
     {
       "added_at": "2026-07-10 15:28:19",
@@ -1107,26 +1127,6 @@
       "duration_ms": 192495,
       "name": "Slow Tonight",
       "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
-    },
-    {
-      "added_at": "2026-07-10 15:28:19",
-      "album": {
-        "name": "Joven y Salvaje (with Bb trickz)",
-        "url": "https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk"
-      },
-      "artists": [
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
-        }
-      ],
-      "duration_ms": 122703,
-      "name": "Joven y Salvaje (with Bb trickz)",
-      "url": "https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ"
     },
     {
       "added_at": "2026-07-10 15:28:19",

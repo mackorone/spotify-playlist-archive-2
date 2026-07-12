@@ -1,12 +1,12 @@
 {
   "description": "Diese Beats machen garantiert gute Laune!",
-  "num_followers": 1342675,
+  "num_followers": 1342632,
   "original_name": "Happy Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKYAu4MRLtcFNhYqE0FaCuue2gwr",
+  "snapshot_id": "AAAAAMpGcw+vzGpGpM7HPL0OhyzA7QkG",
   "tracks": [
     {
       "added_at": "2026-07-02 22:00:53",
@@ -283,30 +283,6 @@
     {
       "added_at": "2026-07-02 22:00:53",
       "album": {
-        "name": "Headlights (feat. KIDDO)",
-        "url": "https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Headlights (feat. KIDDO)",
-      "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
-    },
-    {
-      "added_at": "2026-07-02 22:00:53",
-      "album": {
         "name": "It Feels So Good",
         "url": "https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO"
       },
@@ -327,6 +303,30 @@
       "duration_ms": 160973,
       "name": "It Feels So Good",
       "url": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
+    },
+    {
+      "added_at": "2026-07-02 22:00:53",
+      "album": {
+        "name": "Headlights (feat. KIDDO)",
+        "url": "https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Headlights (feat. KIDDO)",
+      "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
     },
     {
       "added_at": "2026-07-02 22:00:53",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-07-02 22:00:53",
       "album": {
+        "name": "Seratonin",
+        "url": "https://open.spotify.com/album/2tfGijTAeg0sZ7v6CUwOpj"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 115652,
+      "name": "Seratonin",
+      "url": "https://open.spotify.com/track/0SZKacJ8DMFQjmdUfSJX2C"
+    },
+    {
+      "added_at": "2026-07-02 22:00:53",
+      "album": {
         "name": "There She Goes",
         "url": "https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 121874,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7"
-    },
-    {
-      "added_at": "2026-07-02 22:00:53",
-      "album": {
-        "name": "Seratonin",
-        "url": "https://open.spotify.com/album/2tfGijTAeg0sZ7v6CUwOpj"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 115652,
-      "name": "Seratonin",
-      "url": "https://open.spotify.com/track/0SZKacJ8DMFQjmdUfSJX2C"
     },
     {
       "added_at": "2026-07-02 22:00:53",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-07-02 22:00:53",
       "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/7gTfixsGtCkHxwzd82rsaE"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 113702,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/3BENVzgDdwCiTGVtJbZGJd"
-    },
-    {
-      "added_at": "2026-07-02 22:00:53",
-      "album": {
         "name": "New Religion",
         "url": "https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 174400,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ"
+    },
+    {
+      "added_at": "2026-07-02 22:00:53",
+      "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/7gTfixsGtCkHxwzd82rsaE"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 113702,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/3BENVzgDdwCiTGVtJbZGJd"
     },
     {
       "added_at": "2026-07-02 22:00:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Feid, De La Rose & Ryan Castro, Benny Blanco & Bb trickz, Luis R Conriquez, & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,092 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,138 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

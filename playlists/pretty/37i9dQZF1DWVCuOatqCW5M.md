@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Neeti Mohan, Banjaare, Papon and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,319 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,371 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jooti Kasoori](https://open.spotify.com/track/20F3X1hXZNmJ46CuTSudJm) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [REHAT](https://open.spotify.com/artist/4Zg2ou2uzzlXFhudJt7qpo), [Agaazz](https://open.spotify.com/artist/1jHc7ramBygplLEh3assYX) | [Jooti Kasoori](https://open.spotify.com/album/5eTujHModUEeNQ7kDLPT5T) | 2:43 |
 | 2 | [Tumhe Baarish Bada Yaad Karti Hai](https://open.spotify.com/track/4trUKO2P9iAxU9ZkORg9oO) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Tum Bhi Baarish Ban Jana](https://open.spotify.com/album/6iMbKbDwj0995mL55Cdj0R) | 3:39 |
-| 3 | [O Piya](https://open.spotify.com/track/2VBz6QJFqhi497KuKvWgHl) | [Khan](https://open.spotify.com/artist/6Pw5uJLhqmspnTuHchPnmS), [Noor](https://open.spotify.com/artist/7F5LO6TFFBGkRhsQdCcLVm), [Raqib](https://open.spotify.com/artist/5BNykrCy3QFc1iHFsoTqqv) | [O Piya](https://open.spotify.com/album/4Xr1KqCvDm2KcS9i6bVIwL) | 2:46 |
+| 3 | [O Piya](https://open.spotify.com/track/2VBz6QJFqhi497KuKvWgHl) | [Khan](https://open.spotify.com/artist/6Pw5uJLhqmspnTuHchPnmS), [Noor](https://open.spotify.com/artist/7F5LO6TFFBGkRhsQdCcLVm), [Raqib](https://open.spotify.com/artist/59zGJREnuFBI2XxO7OXqIV) | [O Piya](https://open.spotify.com/album/4Xr1KqCvDm2KcS9i6bVIwL) | 2:46 |
 | 4 | [Barsaat](https://open.spotify.com/track/0DpUQ3mpAGy3bYsEKVy6t5) | [Banjaare](https://open.spotify.com/artist/7IbxsPdlYelceWNyHAor55), [Roni](https://open.spotify.com/artist/53hYeM4GxYLvaGHMvNK2F9) | [Barsaat](https://open.spotify.com/album/3wm8qhMYXqteXNc8PgOiCo) | 3:05 |
 | 5 | [Teri Adaa \(Sar\-e\-Shaam \- Mehfilz with Papon\) \(From The Living Room\)](https://open.spotify.com/track/3yp8vscdlRw20aCTMHEUO2) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Teri Adaa \(Sar\-e\-Shaam \- Mehfilz with Papon\) \(From The Living Room\)](https://open.spotify.com/album/2CCbwzWqZpawKUadLYNk4J) | 4:47 |
 | 6 | [Breathe](https://open.spotify.com/track/6gEokWAxetyVwWUTKKp20g) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs) | [Breathe](https://open.spotify.com/album/4w1vYgM0xnqnLClzqpWwpv) | 3:46 |

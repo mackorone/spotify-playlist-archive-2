@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-793 songs - 3 day 1 hr 46 min
+794 songs - 3 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [333](https://open.spotify.com/track/6By1QudqrImFqh0wB4ODD0) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [333](https://open.spotify.com/album/1eVSAAQe8SO6WimGu9cZ9A) | 7:05 | 2020-11-03 | 2021-01-15 |
 | [4 Lovers](https://open.spotify.com/track/7CLbEQkvE0y64muJ7gXZrL) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Lia Paris](https://open.spotify.com/artist/666RdmjetOG6FaFpsCHLnZ) | [4 Lovers](https://open.spotify.com/album/5GgmtwqzcDMMyE7xt6eun3) | 5:48 | 2021-12-17 | 2023-10-24 |
 | [A Declaration of Love](https://open.spotify.com/track/65bMFgIYR9rxMR9GeYraIh) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Unity Pt\. 2](https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6) | 5:34 | 2021-02-13 | 2021-03-23 |
+| [A New World, Pt\. 3](https://open.spotify.com/track/0iq7U2A3aN5dUqBTItZoxJ) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [A New World, Pt\. 3](https://open.spotify.com/album/3N77CNBCSRKBj53m0tnKE6) | 3:33 | 2026-07-10 |  |
 | [About U](https://open.spotify.com/track/2gKO4QzaDBhpprwD4XXZFW) | [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R) | [About U](https://open.spotify.com/album/1w0c45yUou9pVM7qe2pvti) | 2:37 | 2025-10-24 |  |
 | [ABOUT YOU](https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [ABOUT YOU](https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE) | 3:31 | 2025-10-10 |  |
 | [Accent](https://open.spotify.com/track/5G1gJ0G25yOg3Gbk8apuzX) | [Sandhog](https://open.spotify.com/artist/4Bg70gCux7vzM1w08aUF37) | [Accent](https://open.spotify.com/album/74iykQlrIiej6W5m1l1WfO) | 6:00 | 2023-04-28 | 2023-05-06 |
@@ -40,7 +41,7 @@
 | [Animus \- Shorter](https://open.spotify.com/track/24rpWUub8ylST1yoHJ9p7Y) | [Polynation](https://open.spotify.com/artist/4Rcol4u0q89lypqKI83GDz) | [Animus](https://open.spotify.com/album/60aRhWwK8oAVRzpLKugTHs) | 4:11 | 2020-01-01 | 2021-02-27 |
 | [Anna Painting](https://open.spotify.com/track/4Q8LnVINko045PEZ9pul8v) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Anna Painting](https://open.spotify.com/album/0CTMk3XKsfG1LfmKu1KCCA) | 7:41 | 2019-09-19 | 2019-09-27 |
 | [Annihilation](https://open.spotify.com/track/42qH7RSRQBvrMiKfKNkUto) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Annihilation](https://open.spotify.com/album/6y9alfpegbSRAG98P91Nk0) | 3:07 | 2026-05-22 |  |
-| [Another Life](https://open.spotify.com/track/5HZbrOgpctobRrFdksmlWc) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Another Life](https://open.spotify.com/album/3II7Hydkx3F4yOXdUGntwJ) | 3:52 | 2026-05-01 |  |
+| [Another Life](https://open.spotify.com/track/5HZbrOgpctobRrFdksmlWc) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Another Life](https://open.spotify.com/album/3II7Hydkx3F4yOXdUGntwJ) | 3:52 | 2026-05-01 | 2026-07-12 |
 | [Another Life](https://open.spotify.com/track/1Ikxe4XFu0B5zW3FJX7PUO) | [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Another Life](https://open.spotify.com/album/7658gfBxb1ZihgN0BA1CDg) | 6:24 | 2022-07-01 | 2023-09-30 |
 | [Answers](https://open.spotify.com/track/3O9u7F1dv9WVskCVlcLWmv) | [Paradoks](https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf) | [Answers](https://open.spotify.com/album/6aLGXRE7kVWMS3zVjnfF2X) | 3:19 | 2025-07-18 |  |
 | [Anxiety](https://open.spotify.com/track/6LyVI2CQj6cI0DKkzGeAKD) | [Hidden Face](https://open.spotify.com/artist/1Itil4naIwgkm48BNTjZ2A) | [Anxiety EP](https://open.spotify.com/album/3kvPvCplHNzVnilOWNdGTy) | 3:35 | 2020-08-08 | 2021-09-11 |

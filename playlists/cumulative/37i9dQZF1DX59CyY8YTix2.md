@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 礼賛
 
-2,059 songs - 5 day 7 hr 28 min
+2,060 songs - 5 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1099,6 +1099,7 @@
 | [たからもの](https://open.spotify.com/track/5rhugwJUWlQ3pRgeTcQfCq) | [Hammer Head Shark](https://open.spotify.com/artist/4ReYBtwk8GTvuIklAiCqHI) | [たからもの](https://open.spotify.com/album/6lRCTW7hlGw7pN0WC8Hjpc) | 5:33 | 2023-08-29 | 2023-08-31 |
 | [たそがれは空](https://open.spotify.com/track/6M3nhBKOnP3bCFQCXWQNZn) | [地球から2ミリ浮いてる人たち](https://open.spotify.com/artist/4KjgDrlQ5okGyYFrDe0xWn) | [たそがれは空](https://open.spotify.com/album/5e6g2ad5EcMVQB4weArTbC) | 4:03 | 2022-05-26 | 2022-07-13 |
 | [たたかわないらいおん](https://open.spotify.com/track/6kXeKTkCXwI30TZSWZ7vJv) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [たたかわないらいおん](https://open.spotify.com/album/0oUhCjuj0OzdwR5xmGZ09D) | 2:38 | 2022-05-26 | 2022-07-28 |
+| [たりない](https://open.spotify.com/track/7vVkzs4nqxCsF2SY1JLbuQ) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [たりない](https://open.spotify.com/album/3lLEAOFcIpzCTZn2ZaGaJk) | 3:27 | 2026-07-07 |  |
 | [だった人](https://open.spotify.com/track/7BwCfvszj0b3WFkDqBPaXl) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [だった人](https://open.spotify.com/album/2wkWg7n0lcz8jP2RNImoFW) | 3:19 | 2023-12-26 | 2024-01-19 |
 | [だって眩しくて](https://open.spotify.com/track/7facN99tw4e96msXrdPRcm) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [なみなみならぬ](https://open.spotify.com/album/2VvUBERRms5ZubnGCd3G2r) | 2:54 | 2026-04-21 |  |
 | [だれかとぼくら](https://open.spotify.com/track/32rUUAJsELuwpkWm7udFhs) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [MEMORIES2](https://open.spotify.com/album/0ILBvw7Y5Q5Ubu5riIbHTn) | 3:02 | 2022-06-14 | 2022-06-22 |
@@ -1479,7 +1480,7 @@
 | [ヤマネ](https://open.spotify.com/track/1rOeAbMixBf1cALHZH6k6C) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [ヤマネ](https://open.spotify.com/album/37YAzLaSYo8TxAJ90WmELH) | 3:35 | 2023-12-05 | 2023-12-13 |
 | [ユーフォーを見にいこう](https://open.spotify.com/track/3M4zaCSxhUx6Ru3fvdOY1n) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [ユーフォーを見にいこう](https://open.spotify.com/album/06F3cSHA1gV6zjeA9PUaxB) | 3:35 | 2025-11-25 | 2026-01-24 |
 | [ヨリ戻シチュー](https://open.spotify.com/track/7nitAbcizp1L5AMjPLVj39) | [TsuShiMaMiRe](https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd) | [バンドは水物](https://open.spotify.com/album/10ioJ03IBSjiMjxApvX2kd) | 5:17 | 2024-03-12 | 2024-03-27 |
-| [ライアー](https://open.spotify.com/track/64ULo8RGzy9EEbd7F8FwGq) | [Kucci](https://open.spotify.com/artist/5VuxkEbe8SLvEL6ZM8lxs5) | [ライアー](https://open.spotify.com/album/1sjLQ2qSQZKVF9FOFri3wf) | 3:05 | 2025-10-21 |  |
+| [ライアー](https://open.spotify.com/track/64ULo8RGzy9EEbd7F8FwGq) | [Kucci](https://open.spotify.com/artist/5VuxkEbe8SLvEL6ZM8lxs5) | [ライアー](https://open.spotify.com/album/1sjLQ2qSQZKVF9FOFri3wf) | 3:05 | 2025-10-21 | 2026-07-12 |
 | [ライナー](https://open.spotify.com/track/4cg4axRQFCLY7cxEQ8r0xe) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [where?](https://open.spotify.com/album/4meJFweZ1aga9P067NAKSK) | 3:41 | 2023-05-23 | 2023-07-12 |
 | [ライブハウス！](https://open.spotify.com/track/5aBMy3QHysvS3upFUDQPIh) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ライブハウス！](https://open.spotify.com/album/0FXvPW2SG9RAaE4LTZ7waS) | 3:28 | 2025-04-29 | 2025-06-04 |
 | [ライブ終わりに](https://open.spotify.com/track/25CT9v6urtrTRZjr1WOV0G) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [ライブ終わりに](https://open.spotify.com/album/2pywOWndfGqeFy7zYBdhO6) | 4:31 | 2023-08-08 | 2023-08-10 |

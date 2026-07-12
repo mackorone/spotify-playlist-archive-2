@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 234968,
+  "num_followers": 234953,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAAAd8buhukAjDlHEsVCDxoHo",
+  "snapshot_id": "alA2AAAAAADI6Y2sMibI9ERPLnBP2mPR",
   "tracks": [
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mientras Me Enamoras",
-        "url": "https://open.spotify.com/album/1dM6TuQuv0TRWLHbooLxTn"
-      },
-      "artists": [
-        {
-          "name": "Lalo Brito",
-          "url": "https://open.spotify.com/artist/4OZ9NCfN5GczACLIYvDCz7"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 209824,
-      "name": "Mientras Me Enamoras",
-      "url": "https://open.spotify.com/track/3PzZNV9AANQ1VFs80IHOEx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atrevete A So\u00f1ar (Original Sountrack)",
         "url": "https://open.spotify.com/album/2xxdR4FrSukKWJ18NuKfgu"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 184906,
       "name": "Es Mejor",
       "url": "https://open.spotify.com/track/6qkkJK72CeO1SQ17WnHNdk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mientras Me Enamoras",
+        "url": "https://open.spotify.com/album/1dM6TuQuv0TRWLHbooLxTn"
+      },
+      "artists": [
+        {
+          "name": "Lalo Brito",
+          "url": "https://open.spotify.com/artist/4OZ9NCfN5GczACLIYvDCz7"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 209824,
+      "name": "Mientras Me Enamoras",
+      "url": "https://open.spotify.com/track/3PzZNV9AANQ1VFs80IHOEx"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cena Musical Latina",
+        "url": "https://open.spotify.com/album/1aLDb3B09PoafsgPxy6sNb"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+      "url": "https://open.spotify.com/track/6v3FguYgfdASLOemDk8xaY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atr\u00e9vete A So\u00f1ar",
         "url": "https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 205733,
       "name": "Dame Corazon",
       "url": "https://open.spotify.com/track/3XcowngSbS2cfi1FUMs3xr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cena Musical Latina",
-        "url": "https://open.spotify.com/album/1aLDb3B09PoafsgPxy6sNb"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-      "url": "https://open.spotify.com/track/6v3FguYgfdASLOemDk8xaY"
     },
     {
       "added_at": null,
@@ -723,26 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La M\u00fasica y las Mujeres",
-        "url": "https://open.spotify.com/album/74SChGBL5GpfKvYggjW7I5"
+        "name": "Los D\u00fao - Colecci\u00f3n Completa",
+        "url": "https://open.spotify.com/album/3dVLM0RBBR4pVLkl0Dh6Dr"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 149589,
-      "name": "tqum - Remix",
-      "url": "https://open.spotify.com/track/3bZkRGbE7hvtfnlXpsxQLz"
+      "duration_ms": 299066,
+      "name": "De M\u00ed Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/6y4LoOGFtztZhLHZm2KgjF"
     },
     {
       "added_at": null,
@@ -779,22 +775,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los D\u00fao - Colecci\u00f3n Completa",
-        "url": "https://open.spotify.com/album/3dVLM0RBBR4pVLkl0Dh6Dr"
+        "name": "La M\u00fasica y las Mujeres",
+        "url": "https://open.spotify.com/album/74SChGBL5GpfKvYggjW7I5"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 299066,
-      "name": "De M\u00ed Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/6y4LoOGFtztZhLHZm2KgjF"
+      "duration_ms": 149589,
+      "name": "tqum - Remix",
+      "url": "https://open.spotify.com/track/3bZkRGbE7hvtfnlXpsxQLz"
     },
     {
       "added_at": null,
@@ -906,19 +906,11 @@
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Lilibeth Lilibeth",
-          "url": "https://open.spotify.com/artist/07UPbQXEAp4kUeJ27mmfI3"
-        },
-        {
-          "name": "Luis Fernando Madriz",
-          "url": "https://open.spotify.com/artist/6xBIGCZWv0dIYUubdTpVNC"
         }
       ],
-      "duration_ms": 120146,
-      "name": "La Fogata",
-      "url": "https://open.spotify.com/track/5oFMxXRAwhoqZXAXTOjWwU"
+      "duration_ms": 177786,
+      "name": "\u00bfQue Se Sentir\u00e1 Tener Mam\u00e1?",
+      "url": "https://open.spotify.com/track/4ecnJhOVl6PTm351CJmSrZ"
     },
     {
       "added_at": null,
@@ -982,11 +974,19 @@
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Lilibeth Lilibeth",
+          "url": "https://open.spotify.com/artist/07UPbQXEAp4kUeJ27mmfI3"
+        },
+        {
+          "name": "Luis Fernando Madriz",
+          "url": "https://open.spotify.com/artist/6xBIGCZWv0dIYUubdTpVNC"
         }
       ],
-      "duration_ms": 177786,
-      "name": "\u00bfQue Se Sentir\u00e1 Tener Mam\u00e1?",
-      "url": "https://open.spotify.com/track/4ecnJhOVl6PTm351CJmSrZ"
+      "duration_ms": 120146,
+      "name": "La Fogata",
+      "url": "https://open.spotify.com/track/5oFMxXRAwhoqZXAXTOjWwU"
     },
     {
       "added_at": null,

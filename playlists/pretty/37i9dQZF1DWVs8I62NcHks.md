@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs8I62NcHks.md) - [plain]
 
 > Enjoy your favorite Disney tunes, including "You're Welcome" from Moana! Disney's Moana, only in theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,079,305 likes - 127 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,079,441 likes - 127 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

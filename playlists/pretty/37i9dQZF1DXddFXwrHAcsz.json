@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 80's! Cover: Andr\u00e9 Hazes",
-  "num_followers": 74817,
+  "num_followers": 74849,
   "original_name": "80's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-10-11 07:08:55",
       "album": {
-        "name": "Comment \u00c7a Va",
-        "url": "https://open.spotify.com/album/7e2V4dXoFunyYJvYsoNU09"
-      },
-      "artists": [
-        {
-          "name": "The Shorts",
-          "url": "https://open.spotify.com/artist/40MX6ONfpMJwrWdTajaRUf"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "Comment \u00e7a va",
-      "url": "https://open.spotify.com/track/7evg9DnEL9xmlZmv7qZ6QK"
-    },
-    {
-      "added_at": "2022-10-11 07:08:55",
-      "album": {
         "name": "Deurdonderen",
         "url": "https://open.spotify.com/album/4X6Xy8SQjKimezEkq9aaGx"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 233693,
       "name": "Deurdonderen",
       "url": "https://open.spotify.com/track/6U7rlAukeYVphgDWLc1yk6"
+    },
+    {
+      "added_at": "2022-10-11 07:08:55",
+      "album": {
+        "name": "Comment \u00c7a Va",
+        "url": "https://open.spotify.com/album/7e2V4dXoFunyYJvYsoNU09"
+      },
+      "artists": [
+        {
+          "name": "The Shorts",
+          "url": "https://open.spotify.com/artist/40MX6ONfpMJwrWdTajaRUf"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "Comment \u00e7a va",
+      "url": "https://open.spotify.com/track/7evg9DnEL9xmlZmv7qZ6QK"
     },
     {
       "added_at": "2022-10-11 07:08:55",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-10-11 07:08:55",
       "album": {
+        "name": "Het Beste Van Peter Koelewijn",
+        "url": "https://open.spotify.com/album/5wJr8xACqUiUhBQafHkGB2"
+      },
+      "artists": [
+        {
+          "name": "Peter Koelewijn",
+          "url": "https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR"
+        }
+      ],
+      "duration_ms": 309000,
+      "name": "Klap Maar In Je Handen",
+      "url": "https://open.spotify.com/track/6qjS0AfAhbVpW122MWHvaR"
+    },
+    {
+      "added_at": "2022-10-11 07:08:55",
+      "album": {
         "name": "Smartlappen Top 100 - Deel 2",
         "url": "https://open.spotify.com/album/2vmDDtUfBv1HUS1RxeHgtv"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 208026,
       "name": "Oude Maasweg",
       "url": "https://open.spotify.com/track/02utYejOAb0Pw7r4tkbfOu"
-    },
-    {
-      "added_at": "2022-10-11 07:08:55",
-      "album": {
-        "name": "Het Beste Van Peter Koelewijn",
-        "url": "https://open.spotify.com/album/5wJr8xACqUiUhBQafHkGB2"
-      },
-      "artists": [
-        {
-          "name": "Peter Koelewijn",
-          "url": "https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR"
-        }
-      ],
-      "duration_ms": 309000,
-      "name": "Klap Maar In Je Handen",
-      "url": "https://open.spotify.com/track/6qjS0AfAhbVpW122MWHvaR"
     },
     {
       "added_at": "2022-10-11 07:08:55",

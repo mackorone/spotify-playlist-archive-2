@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 259154,
+  "num_followers": 259175,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAAAtBUX6d5bhY3R9g2SNGdgc",
+  "snapshot_id": "alA2AAAAAAAwogSWdtncU6zmAToMVIIh",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 213560,
+      "name": "Si Nunca Va a Amanecer",
+      "url": "https://open.spotify.com/track/1WhJWRZt4yHGtICCRZaJsb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canela",
         "url": "https://open.spotify.com/album/3Xc3k048w8xcsJLnTx4DY6"
       },
@@ -51,22 +67,6 @@
       "duration_ms": 204629,
       "name": "Canela",
       "url": "https://open.spotify.com/track/592R1yDJZI1NUKHpjyLCua"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 213560,
-      "name": "Si Nunca Va a Amanecer",
-      "url": "https://open.spotify.com/track/1WhJWRZt4yHGtICCRZaJsb"
     },
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 192680,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/5vS3tfCF9cEnK32q7YrVNs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Letras Chiquitas",
         "url": "https://open.spotify.com/album/7cdkN6vQDrlnZMGJjvg3gT"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 262961,
       "name": "Letras Chiquitas",
       "url": "https://open.spotify.com/track/2xX22Q4snEaWfqUVooJp9b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 192680,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/5vS3tfCF9cEnK32q7YrVNs"
     },
     {
       "added_at": null,
@@ -219,6 +219,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Nico Male\u00f3n",
+          "url": "https://open.spotify.com/artist/5nkeWWcavidnHXuvRmP8lW"
+        }
+      ],
+      "duration_ms": 241640,
+      "name": "Aqu\u00ed Todo Esta Bien",
+      "url": "https://open.spotify.com/track/0siuaTYrqZ0XebPmL0B8ZN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Indecisa",
         "url": "https://open.spotify.com/album/4WmmIG2ztaEwn6th4z7xR8"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 212045,
       "name": "Indecisa",
       "url": "https://open.spotify.com/track/6kvIndExSuKqaPuZmA9z4K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Nico Male\u00f3n",
-          "url": "https://open.spotify.com/artist/5nkeWWcavidnHXuvRmP8lW"
-        }
-      ],
-      "duration_ms": 241640,
-      "name": "Aqu\u00ed Todo Esta Bien",
-      "url": "https://open.spotify.com/track/0siuaTYrqZ0XebPmL0B8ZN"
     },
     {
       "added_at": null,

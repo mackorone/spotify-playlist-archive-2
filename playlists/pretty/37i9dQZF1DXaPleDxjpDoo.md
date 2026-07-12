@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,934 likes - 130 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,961 likes - 130 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 129 | [Morning Birds](https://open.spotify.com/track/4MBvcwYaIfUY3Hf662LtzG) | [Ørlund](https://open.spotify.com/artist/04GfF0rgqx1W3w7yaKsE6y) | [Morning Birds](https://open.spotify.com/album/1sxlE0lCbIN8n7ssEcgvZV) | 2:48 |
 | 130 | [Kalon](https://open.spotify.com/track/4lTYfckXObPwG01RVckXUT) | [Delayed Dreams](https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ) | [Kalon](https://open.spotify.com/album/6GXbNBCi9K7sGEyOPSUgUb) | 3:12 |
 
-Snapshot ID: `AAAAAAvwdkgnNGVhJ8GOqQN4EJ0fffFY`
+Snapshot ID: `AAAAACHGF5sS8SsFJXXnC0f3HCuFsnVT`

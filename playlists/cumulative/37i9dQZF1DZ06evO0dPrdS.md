@@ -4,7 +4,7 @@
 
 > This is Spice Girls\. The essential tracks, all in one playlist.
 
-40 songs - 2 hr 51 min
+41 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Voodoo](https://open.spotify.com/track/6rYVBkMNqLBH5kw7AcBz77) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Greatest Hits](https://open.spotify.com/album/2XLpqfYjGTecYQJQU9wFxG) | 3:11 | 2025-10-28 |  |
 | [Walk Of Life](https://open.spotify.com/track/4zlUwX3UTWZe6CthxuMpSM) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld \(25th Anniversary\)](https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK) | 4:16 | 2025-10-28 |  |
 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 | 2025-10-28 |  |
+| [Wannabe \- Junior Vasquez 7” Single Edit](https://open.spotify.com/track/1IP7MLQg59OX39xk8ouSua) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF), [Junior Vasquez](https://open.spotify.com/artist/6X4LvL2xVwf3B6WuQ0YAhm) | [Wannabe](https://open.spotify.com/album/6K7wWAptt1WpVpgzGqC3j3) | 2:53 | 2026-07-12 |  |
 | [We Are Family \- Live From Wembley Stadium, UK /1998](https://open.spotify.com/track/0SnF7B4aTiEg1xRsWeqcWe) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Goodbye](https://open.spotify.com/album/2lm2EzzckeiF3TJAZ9czOG) | 3:34 | 2025-10-28 |  |
 | [Who Do You Think You Are](https://open.spotify.com/track/1jI1aLmm5HTwiMtvsbwDJw) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:00 | 2025-10-28 |  |
 

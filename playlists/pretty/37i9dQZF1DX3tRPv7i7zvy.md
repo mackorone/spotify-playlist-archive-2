@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 
 > We Outsideeeee!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,113 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,131 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 | 43 | [Favourite Story](https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Favourite Story](https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC) | 3:56 |
 | 44 | [Akosua Broni](https://open.spotify.com/track/5lVoi1WVhCUHJuerWt6Kyf) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Sexy Highlife](https://open.spotify.com/album/1rAaxsX5aLqoay5bIQIXvi) | 2:07 |
 | 45 | [Ruwa](https://open.spotify.com/track/54y06gXWPYQHxrgJU5CsYb) | [Jubed](https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC) | [Ruwa](https://open.spotify.com/album/6IMUdJjnOEELJxX7bir1CA) | 2:46 |
-| 46 | [Zormizor \(Asabone\)](https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Zormizor \(Asabone\)](https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz) | 3:04 |
-| 47 | [Odo](https://open.spotify.com/track/08nMjhiq9eafvysZ4P5LU4) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Odo](https://open.spotify.com/album/6qqytYEiJ6cQMhXNG1oV3G) | 3:02 |
-| 48 | [Green Light](https://open.spotify.com/track/0SMhYPT7oVW5zLWuOA1emb) | [Yartti](https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Green Light](https://open.spotify.com/album/32400KtvwwhQ6Ez8YqRCSn) | 2:48 |
+| 46 | [Green Light](https://open.spotify.com/track/0SMhYPT7oVW5zLWuOA1emb) | [Yartti](https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Green Light](https://open.spotify.com/album/32400KtvwwhQ6Ez8YqRCSn) | 2:48 |
+| 47 | [Zormizor \(Asabone\)](https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Zormizor \(Asabone\)](https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz) | 3:04 |
+| 48 | [Odo](https://open.spotify.com/track/08nMjhiq9eafvysZ4P5LU4) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Odo](https://open.spotify.com/album/6qqytYEiJ6cQMhXNG1oV3G) | 3:02 |
 | 49 | [Koto Na Gye \(Bend & Take\)](https://open.spotify.com/track/16iHMC9kNIyMG5n1rYRNam) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Koto Na Gye \(Bend & Take\)](https://open.spotify.com/album/1V8YoEmXIlGmgXa1r4CTPY) | 2:03 |
 | 50 | [Praise](https://open.spotify.com/track/6vuItm60bi4U9UOgvYanSp) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Praise](https://open.spotify.com/album/6Q59aB1v3sjwKWddsaLt9K) | 3:22 |
 | 51 | [Keep It Sexy](https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Keep It Sexy](https://open.spotify.com/album/0N6D5nYseW1trtfnsgNan0) | 2:39 |

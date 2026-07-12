@@ -4253,6 +4253,32 @@
     },
     {
       "album": {
+        "name": "Distant Lover",
+        "url": "https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "FANDOM",
+          "url": "https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217696,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF"
+    },
+    {
+      "album": {
         "name": "Ditto",
         "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
       },
@@ -8116,7 +8142,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 170149,
       "name": "I DON'T BARGAIN",
       "url": "https://open.spotify.com/track/0auFYte8i9KPYvcsOUFk9Y"
@@ -8394,6 +8420,24 @@
       "duration_ms": 173306,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/3MQBMVAJpXat2VQwTHA8tX"
+    },
+    {
+      "album": {
+        "name": "NO LABELS: PART 02",
+        "url": "https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg"
+      },
+      "artists": [
+        {
+          "name": "YEONJUN",
+          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124896,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp"
     },
     {
       "album": {
@@ -15864,7 +15908,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 124736,
       "name": "swipe_feat_lou_garcia_v1.mp3",
       "url": "https://open.spotify.com/track/4zsxh0FkRntWV1vA7ckhHQ"

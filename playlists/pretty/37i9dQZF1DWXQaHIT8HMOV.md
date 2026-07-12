@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Joshua Baraka
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,142 likes - 65 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,157 likes - 65 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 64 | [Onina](https://open.spotify.com/track/5QvxlKXDj7yaYU5gUkXbWM) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Onina](https://open.spotify.com/album/5FAG9hafjiW7PQhAAzK4rR) | 2:47 |
 | 65 | [Mangadalena](https://open.spotify.com/track/641jmL3qvN9LopncAeNjBs) | [Echoled](https://open.spotify.com/artist/0tVbW89Gmk8xqxAuc06c3k) | [Mangadalena](https://open.spotify.com/album/6URFM6zBF9JSk6LUPjFCvv) | 3:14 |
 
-Snapshot ID: `AAAAADp2PvFHwqTJikLw7/81tPvUVlhw`
+Snapshot ID: `AAAAAGBfQZkpUvr5JARL2grEba71MFSM`

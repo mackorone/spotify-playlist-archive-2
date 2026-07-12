@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 > Best of Hindi Hip\-Hop! Cover: Nazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,725 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,751 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PHOBIA](https://open.spotify.com/track/5pkuTzKR0NL3PWJXSB2GrC) | [Nazz](https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB), [Audiocrackerr](https://open.spotify.com/artist/6R3w3WdJRJqEMRc0qy1z5i) | [PHOBIA](https://open.spotify.com/album/2RVT3rbXCR4zJSwOmRdfYf) | 2:40 |
 | 2 | [Boom Shaka](https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Boom Shaka](https://open.spotify.com/album/30WCmigi6kMczGUKjmtqxb) | 3:38 |
 | 3 | [Raat Ki Rani](https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [SHAKTI](https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3) | 3:31 |
-| 4 | [4.1](https://open.spotify.com/track/1AcoISAQZgYBflkE9JgOl4) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [4.1](https://open.spotify.com/album/0B4QhB4Acp4Ct9F8dkllWN) | 2:49 |
+| 4 | [4.10](https://open.spotify.com/track/1AcoISAQZgYBflkE9JgOl4) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [4.10](https://open.spotify.com/album/0B4QhB4Acp4Ct9F8dkllWN) | 2:49 |
 | 5 | [BAAWE](https://open.spotify.com/track/6AhYiJyXQTOjuytJ0khZBD) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [HARD DRIVE Vol\. 2](https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9) | 2:39 |
 | 6 | [Ring A Rose](https://open.spotify.com/track/2TwzMCeWCH3B66jvwMtEem) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [Ring A Rose](https://open.spotify.com/album/3vnQUiE4n9mzvcSEC5kK33) | 2:19 |
 | 7 | [Tantrums](https://open.spotify.com/track/5eXDRkSaTVIAhKplQUmYJf) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [ISHH](https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8) | [Tantrums](https://open.spotify.com/album/379jp5oYITtA8JhdSouHQN) | 2:22 |

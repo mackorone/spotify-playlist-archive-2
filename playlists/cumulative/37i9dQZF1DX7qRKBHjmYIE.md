@@ -4,12 +4,13 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Cultura Profética.
 
-1,013 songs - 2 day 6 hr 35 min
+1,014 songs - 2 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(ecco\)](https://open.spotify.com/track/6MNpKQBu98xOz5LpPQjyrU) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:26 | 2025-09-26 |  |
 | [\(sola\)](https://open.spotify.com/track/3SdwgzRoY5ZnDt3tsiva5F) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [\(sola\)](https://open.spotify.com/album/0CpJqtfZSaryVvqYx794z4) | 2:28 | 2024-07-05 | 2025-08-09 |
+| [1\-800](https://open.spotify.com/track/0AkmDhmbHBkKcw4Upq1NqQ) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [1\-800](https://open.spotify.com/album/1n1XDhzFAGyjMva7QArIv7) | 2:31 | 2026-07-10 |  |
 | [1000 cartas](https://open.spotify.com/track/7Hw9wfTO1svTy8yjpV9sL7) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [1000 cartas / dsps de un faje](https://open.spotify.com/album/7LOo3kTsO24pNoLDzo7DWG) | 2:25 | 2024-09-27 | 2025-08-14 |
 | [1000 Millones](https://open.spotify.com/track/3VJx2G4tmT8RhHVtAqUkXS) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [nostalgia EP](https://open.spotify.com/album/1fhc3XX8W5Z4fMZrEW4DzO) | 3:12 | 2024-12-13 | 2025-11-22 |
 | [11:11](https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [11:11](https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO) | 3:28 | 2024-06-28 | 2025-03-08 |
@@ -290,7 +291,7 @@
 | [ECHO](https://open.spotify.com/track/2aXtezQFExcQnXIFmxUnMk) | [Sara Ángel](https://open.spotify.com/artist/40tZQwPyGofl3rJLQKMmna) | [ECHO](https://open.spotify.com/album/0FBYi7MVUOMn8pwaHGfyuF) | 3:36 | 2025-01-31 | 2025-02-25 |
 | [Ecos](https://open.spotify.com/track/6OcofGGF5dzeql46GJbG3k) | [Soultade](https://open.spotify.com/artist/6W7QkdmLk3AtXkfrKH5ZDV) | [Nítido](https://open.spotify.com/album/4jvLDuUoWJRUWcMc6VZk41) | 2:45 | 2025-10-10 |  |
 | [egodeath](https://open.spotify.com/track/6NL6uKfXQRx4FlY7DCBPJn) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [egodeath](https://open.spotify.com/album/4ryLP6ODKCP7I0uG9gjnjU) | 3:14 | 2023-10-13 | 2024-02-24 |
-| [El Caminante](https://open.spotify.com/track/3kl6pVlGGl3F0glYUFAS0a) | [Matt Louis](https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX) | [El Caminante](https://open.spotify.com/album/05iFY1rqqlIgLJ2VxufJA8) | 3:22 | 2026-03-06 |  |
+| [El Caminante](https://open.spotify.com/track/3kl6pVlGGl3F0glYUFAS0a) | [Matt Louis](https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX) | [El Caminante](https://open.spotify.com/album/05iFY1rqqlIgLJ2VxufJA8) | 3:22 | 2026-03-06 | 2026-07-12 |
 | [EL CIELO](https://open.spotify.com/track/60QgNWmJnxSRqz9vbj6pWI) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [love love FLAKK](https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be) | 2:35 | 2026-05-29 |  |
 | [El diablo](https://open.spotify.com/track/1XXlQWDJNOXPocWP8EpSz5) | [Gabriel Rios](https://open.spotify.com/artist/0pF1TxZmwCJ3gGpkBQwdtT) | [Flore](https://open.spotify.com/album/4AUGw6j268jiJ5Tm8ULPSl) | 3:42 | 2021-12-02 | 2022-01-25 |
 | [El Diablo](https://open.spotify.com/track/3xmTFxgTHo9XmNGCyz3Wuc) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [El Diablo](https://open.spotify.com/album/11XDFJBi3v8KwRRadjEGwS) | 3:23 | 2024-02-23 | 2024-04-19 |

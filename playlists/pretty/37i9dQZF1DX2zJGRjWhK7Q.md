@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,964 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,022 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 35 | [Mi Gente](https://open.spotify.com/track/5K9yjxT0XGQbmD5GzjmqYz) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/2Y2Kj57DPjmxAVgDRhLxrx) | 5:28 |
 | 36 | [Yerberito Moderno](https://open.spotify.com/track/3IguFq76qBArN1TUBmA8dV) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Cuba](https://open.spotify.com/album/7C4Ju0QXdGSv9zquXxCktP) | 2:41 |
 | 37 | [Anacaona](https://open.spotify.com/track/7wYjQQeClyDQAug88iyMco) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Ponte Duro The Fania All Stars Story](https://open.spotify.com/album/4934XFQ9ZYdoK3R42MEwcv) | 7:17 |
-| 38 | [Juliana](https://open.spotify.com/track/4HORNZa8fdeg2pjJBm51Zz) | [Cuco Valoy](https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE) | [Salsas Grandes Éxitos](https://open.spotify.com/album/5TZ0b6WVre1uW94NxmI4WP) | 4:20 |
-| 39 | [La Murga](https://open.spotify.com/track/54xmNCGfRurgboyVUkdyPa) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Asalto Navideño](https://open.spotify.com/album/6s2mOYixTdw49iz5CAObaI) | 5:34 |
+| 38 | [La Murga](https://open.spotify.com/track/54xmNCGfRurgboyVUkdyPa) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Asalto Navideño](https://open.spotify.com/album/6s2mOYixTdw49iz5CAObaI) | 5:34 |
+| 39 | [Juliana](https://open.spotify.com/track/4HORNZa8fdeg2pjJBm51Zz) | [Cuco Valoy](https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE) | [Salsas Grandes Éxitos](https://open.spotify.com/album/5TZ0b6WVre1uW94NxmI4WP) | 4:20 |
 | 40 | [Aguanile](https://open.spotify.com/track/3EVhVW2ixQuzt92qmFWGD6) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Hector Lavoe El Cantante \-The Originals](https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4) | 6:09 |
 | 41 | [Traigo De Todo](https://open.spotify.com/track/4YJY8jFr8QKWKJaJVHqBAH) | [Ismael Rivera Y Sus Cachimbos](https://open.spotify.com/artist/0Hwc5FADPWA6QkkQuUYV93) | [Traigo De Todo](https://open.spotify.com/album/2LcTqOXdADXCBBQd6gcYkJ) | 4:22 |
 | 42 | [Agua De Clavelito](https://open.spotify.com/track/7I9d2fIkGK7r4Wjv4p2EJW) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4) | [Los Amigos](https://open.spotify.com/album/79pbn3RdGDpThPwyZ6PB7g) | 6:22 |

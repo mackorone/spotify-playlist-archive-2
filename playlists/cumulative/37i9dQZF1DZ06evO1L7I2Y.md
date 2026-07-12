@@ -4,7 +4,7 @@
 
 > This is N.I.N.A\. The essential tracks, all in one playlist.
 
-70 songs - 4 hr 1 min
+71 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Culpa](https://open.spotify.com/track/1FmcDuK4BmnUZ0rXDFsJbX) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 2:56 | 2023-12-30 | 2024-04-28 |
 | [Culpa](https://open.spotify.com/track/3WPVobAUiAMiX6nS1UUMvl) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [PELE](https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh) | 2:56 | 2024-04-28 |  |
 | [Despedidas](https://open.spotify.com/track/6N8ivSFir4QlSkp8ixqH9w) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 3:12 | 2023-12-30 |  |
+| [Duas Vezes](https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz) | [UCHA](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c), [Niina](https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Sonora Sessions](https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb) | [Duas Vezes](https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3) | 2:40 | 2026-07-12 |  |
 | [Efeito Mandela](https://open.spotify.com/track/72bgfihRCD9wIAQggaWP4Y) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Tudo Que Eu Sinto Faz Barulho](https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5) | 2:58 | 2025-11-28 |  |
 | [Fases](https://open.spotify.com/track/1oq5Gk7m0r3kRzOoh6GUOA) | [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [DRESSA](https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al) | [Fases](https://open.spotify.com/album/36R1fAVyOsz8ockmiJVv1o) | 3:19 | 2025-03-23 |  |
 | [Faz Assim](https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Faz Assim](https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf) | 3:37 | 2024-01-02 | 2024-01-11 |

@@ -4,7 +4,7 @@
 
 > Wekelijkse update! Cover: Kris Kross Amsterdam, Luisa Sonza & Willy William
 
-1,302 songs - 2 day 18 hr 25 min
+1,302 songs - 2 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -996,7 +996,7 @@
 | [Save Me](https://open.spotify.com/track/1GaDH1dJfouYubhkaS2gy5) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Save Me](https://open.spotify.com/album/4Bq9sY0d1IogWKXnR9JUte) | 3:32 | 2025-09-25 | 2025-11-01 |
 | [Save My Love](https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Save My Love](https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh) | 3:30 | 2026-02-19 | 2026-03-27 |
 | [Say No Prayer](https://open.spotify.com/track/3k9EAHWqEmKgPqsHUKNKOV) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Say No Prayer](https://open.spotify.com/album/6GyxOBOOGtlJMZzbyJ6vEc) | 2:29 | 2026-02-26 | 2026-04-10 |
-| [Say Say Say](https://open.spotify.com/track/7Lzpe5Tc2L88q1JEflWWPD) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A) | [Say Say Say](https://open.spotify.com/album/2EEXTl5RoS0pOzJhnYWRJe) | 3:05 | 2026-07-09 |  |
+| [Say Say Say](https://open.spotify.com/track/7Lzpe5Tc2L88q1JEflWWPD) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A) | [Say Say Say](https://open.spotify.com/album/2EEXTl5RoS0pOzJhnYWRJe) | 2:50 | 2026-07-09 |  |
 | [Say What You Mean](https://open.spotify.com/track/4fktnXpOKzNnuQh23A4D6o) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Say What You Mean](https://open.spotify.com/album/0OkY2orPsYX6SqmVq8gt6g) | 2:32 | 2026-05-07 | 2026-06-12 |
 | [Say What You Mean](https://open.spotify.com/track/1ezVoFTcUtD08tVtgATbhY) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Say What You Mean](https://open.spotify.com/album/6CHcJTOtSY9Wz4aja0y2F3) | 3:28 | 2026-04-09 | 2026-05-22 |
 | [Say You'll Stay \- ERIICE Remix](https://open.spotify.com/track/4YSFy8kCk4YLq5ZnAaZgaP) | [Koa Rae](https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw), [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC) | [Say You'll Stay \(ERIICE Remix\)](https://open.spotify.com/album/4mPJTjfFfZGZIVqotnSNko) | 2:47 | 2025-10-09 | 2025-10-24 |

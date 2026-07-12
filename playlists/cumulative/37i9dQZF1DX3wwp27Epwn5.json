@@ -677,6 +677,40 @@
     },
     {
       "album": {
+        "name": "Alpha",
+        "url": "https://open.spotify.com/album/5IoNBfhKWaH7YGhvxAPFpJ"
+      },
+      "artists": [
+        {
+          "name": "Rohansh & Abeer",
+          "url": "https://open.spotify.com/artist/29chcgLzEwBHYK7Jtuol4q"
+        },
+        {
+          "name": "AKASA",
+          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
+        },
+        {
+          "name": "Rohansh Pandit",
+          "url": "https://open.spotify.com/artist/6iNqU9VWAjoLk2TjLzJ8Uy"
+        },
+        {
+          "name": "Abeer Pandit",
+          "url": "https://open.spotify.com/artist/1ozk9HrVfLsGEyTdyOohaz"
+        },
+        {
+          "name": "Anvita Dutt",
+          "url": "https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160026,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/2JBnAP4CJoG3XQTMor1qoP"
+    },
+    {
+      "album": {
         "name": "Character Dheela 2.0 (From \"Shehzada\")",
         "url": "https://open.spotify.com/album/4e4MkpVHb3EZKjBVxNoFQj"
       },
@@ -2802,7 +2836,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 222738,
       "name": "Nain Matakka - From \"Baby John\"",
       "url": "https://open.spotify.com/track/2We0kZg7AZaIMsrBkqp2SI"

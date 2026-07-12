@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2013. Cover: HAIM ",
-  "num_followers": 96749,
+  "num_followers": 96759,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
         }
       ],
-      "duration_ms": 292546,
-      "name": "Inhaler",
-      "url": "https://open.spotify.com/track/4Wics9qaNdLtzfZOwl2mdw"
+      "duration_ms": 327680,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/2m32wOGkiV8ltxXvwwVeao"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
         }
       ],
-      "duration_ms": 327680,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/2m32wOGkiV8ltxXvwwVeao"
+      "duration_ms": 292546,
+      "name": "Inhaler",
+      "url": "https://open.spotify.com/track/4Wics9qaNdLtzfZOwl2mdw"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -983,18 +983,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "All This Bad Blood",
-        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
+        "name": "Days Are Gone (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX"
       },
       "artists": [
         {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 212613,
-      "name": "Bad Blood",
-      "url": "https://open.spotify.com/track/04D2wKcN9ju5IY06nwV24m"
+      "duration_ms": 230453,
+      "name": "If I Could Change Your Mind",
+      "url": "https://open.spotify.com/track/38tpcZDofjtDNunMm5w1EU"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Days Are Gone (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX"
+        "name": "All This Bad Blood",
+        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
       },
       "artists": [
         {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 230453,
-      "name": "If I Could Change Your Mind",
-      "url": "https://open.spotify.com/track/38tpcZDofjtDNunMm5w1EU"
+      "duration_ms": 212613,
+      "name": "Bad Blood",
+      "url": "https://open.spotify.com/track/04D2wKcN9ju5IY06nwV24m"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
+        "name": "Days Are Gone (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 257813,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1vSEwZtoQA0sJxkOgF7MtG"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
         "name": "Modern Vampires of the City",
         "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 217120,
       "name": "Life Round Here",
       "url": "https://open.spotify.com/track/2746pcTPaE9FBHkvUivCsg"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "Days Are Gone (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 257813,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/1vSEwZtoQA0sJxkOgF7MtG"
     },
     {
       "added_at": "2025-03-14 13:17:39",

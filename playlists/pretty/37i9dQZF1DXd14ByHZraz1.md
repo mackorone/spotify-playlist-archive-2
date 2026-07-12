@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Illusionize, DJ Glen, Nana Torres
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,822 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,757 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Feel Good](https://open.spotify.com/track/6JY6jXuAuTEH8VMgmkW87Y) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Zaark](https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r) | [Feel Good](https://open.spotify.com/album/5XuKcuWfhlgvNSwylIQu0e) | 2:44 |
 | 50 | [All Night Long](https://open.spotify.com/track/7nboixHsDQbJkHHjz72pIY) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Picture: Volkoder Part 1](https://open.spotify.com/album/5AA55B0S08IQx9qp4BPVq1) | 3:01 |
 
-Snapshot ID: `AAAAAMRQaI4ou1Y3XBqUgCUcxfGGDkiK`
+Snapshot ID: `AAAAAAazSyPLmw4rzz66jBMkd7y2+oTS`

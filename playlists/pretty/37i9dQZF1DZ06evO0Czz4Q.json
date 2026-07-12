@@ -1,12 +1,12 @@
 {
   "description": "This is Luther Vandross. The essential tracks, all in one playlist.",
-  "num_followers": 139868,
+  "num_followers": 139897,
   "original_name": "This Is Luther Vandross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAABZTJYZh8wWaWa5jIBqJtZA",
+  "snapshot_id": "alA2AAAAAADdns4kMU6+R/1C1UppXBCg",
   "tracks": [
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 242916,
-      "name": "Don't You Know That?",
-      "url": "https://open.spotify.com/track/5RooV1JApOOviPiQcho9xx"
+      "duration_ms": 427407,
+      "name": "A House Is Not a Home",
+      "url": "https://open.spotify.com/track/4gFVTfg1EFuuXJguJe1Z7W"
     },
     {
       "added_at": null,
@@ -291,38 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Night I Fell In Love",
-        "url": "https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 317726,
-      "name": "Wait for Love",
-      "url": "https://open.spotify.com/track/0y2O8TW10Pj3fel0Upqa54"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never Too Much",
-        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 427407,
-      "name": "A House Is Not a Home",
-      "url": "https://open.spotify.com/track/4gFVTfg1EFuuXJguJe1Z7W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT"
       },
@@ -339,6 +307,38 @@
       "duration_ms": 322226,
       "name": "I Know",
       "url": "https://open.spotify.com/track/6PzHZ2el11aX8u3vMqH73J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 242916,
+      "name": "Don't You Know That?",
+      "url": "https://open.spotify.com/track/5RooV1JApOOviPiQcho9xx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Night I Fell In Love",
+        "url": "https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 317726,
+      "name": "Wait for Love",
+      "url": "https://open.spotify.com/track/0y2O8TW10Pj3fel0Upqa54"
     },
     {
       "added_at": null,
@@ -395,22 +395,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best of Luther Vandross The Best of Love",
-        "url": "https://open.spotify.com/album/5rrSO0mgkVmZF1qjPn0TKD"
+        "name": "Dance With My Father",
+        "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
       },
       "artists": [
         {
           "name": "Luther Vandross",
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        },
-        {
-          "name": "Cheryl Lynn",
-          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
         }
       ],
-      "duration_ms": 323960,
-      "name": "If This World Were Mine (with Luther Vandross)",
-      "url": "https://open.spotify.com/track/4fTPWK0B2Mg5Gulq8rarbb"
+      "duration_ms": 304666,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/0sIkUPLns02tRPM7pjQEj4"
     },
     {
       "added_at": null,
@@ -431,18 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance With My Father",
-        "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
+        "name": "The Best of Luther Vandross The Best of Love",
+        "url": "https://open.spotify.com/album/5rrSO0mgkVmZF1qjPn0TKD"
       },
       "artists": [
         {
           "name": "Luther Vandross",
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        },
+        {
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
         }
       ],
-      "duration_ms": 304666,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/0sIkUPLns02tRPM7pjQEj4"
+      "duration_ms": 323960,
+      "name": "If This World Were Mine (with Luther Vandross)",
+      "url": "https://open.spotify.com/track/4fTPWK0B2Mg5Gulq8rarbb"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Night With You: The Best Of Love, Volume 2",
-        "url": "https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 327920,
-      "name": "It's All About You",
-      "url": "https://open.spotify.com/track/18IZbwBwZwZIcuq9jR0Bmn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duets (20th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 204186,
       "name": "The Lady Is A Tramp",
       "url": "https://open.spotify.com/track/0JjVhWJGDKHADulJ8EjVAL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Night With You: The Best Of Love, Volume 2",
+        "url": "https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 327920,
+      "name": "It's All About You",
+      "url": "https://open.spotify.com/track/18IZbwBwZwZIcuq9jR0Bmn"
     }
   ],
   "unique_name": "This Is Luther Vandross",

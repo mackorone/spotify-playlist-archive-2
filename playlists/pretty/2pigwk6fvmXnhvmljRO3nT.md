@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,498 songs - 21 day 15 hr 22 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,502 songs - 21 day 15 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8506,5 +8506,9 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8496 | [destiny \- inst.](https://open.spotify.com/track/6PGEBF1J8sArr5HdTxkM6n) | [TEAM B・A・K・A](https://open.spotify.com/artist/2SCVh3n48D3OBBYLor3HKZ) | [ギブミー・シークレット](https://open.spotify.com/album/3YFO3niisQcza038bWIUUl) | 4:51 |
 | 8497 | [Gold\-Triumph](https://open.spotify.com/track/7zy3isyZnCFhJaN5hSQEDX) | [ゴールドシップ \(CV\. 上田 瞳\)](https://open.spotify.com/artist/1tODxzD6whVt82RO4FgkFE), [ナカヤマフェスタ \(CV\. 下地紫野\)](https://open.spotify.com/artist/5ElmbJJz5azpUCGshekl0P), [オルフェーヴル \(CV\. 日笠陽子\)](https://open.spotify.com/artist/2YiY6vEoIiyVW3WyDnQNIM), [ドリームジャーニー \(CV\. 吉岡茉祐\)](https://open.spotify.com/artist/19YA4Q32cgKV9x8KNb1TmN), [フェノーメノ \(CV\. 日比優理香\)](https://open.spotify.com/artist/7LTAH878GVLq890fi9i9sS), [ステイゴールド \(CV\. 松田颯水\)](https://open.spotify.com/artist/1Sxd0rOFUWr9bXtiBNFEVe), [ウマ娘 プリティーダービー](https://open.spotify.com/artist/5pTLke5Yq8nN4yaPxLPzGd) | [Gold\-Triumph](https://open.spotify.com/album/7wxuClDXOnz5Nj1JDntHNb) | 3:36 |
 | 8498 | [メジロ讃歌](https://open.spotify.com/track/5LrciDXFMw3nH79w32NDIE) | [メジロマックイーン \(CV\. 大西沙織\)](https://open.spotify.com/artist/2l6FCoCzlD0uQgtSkXBZi2), [メジロライアン \(CV\. 土師亜文\)](https://open.spotify.com/artist/1OQUYszJKFHB1F9KzqWBBz), [メジロドーベル \(CV\. 久保田ひかり\)](https://open.spotify.com/artist/24noUo4DlVnbOHdAOg7eXc), [メジロパーマー \(CV\. のぐちゆり\)](https://open.spotify.com/artist/0kgyKBVMw61tab5SiTXUMY), [メジロアルダン \(CV\. 会沢紗弥\)](https://open.spotify.com/artist/4SVqi1dsrUfUBfanBcF1rd), [メジロブライト \(CV\. 大西綺華\)](https://open.spotify.com/artist/5jaEbbJbDumYz5sgQrk2WE) | [『ウマ娘 プリティーダービー』WINNING LIVE 07](https://open.spotify.com/album/7kcDsGpTrUIxUQBb43T9X6) | 2:01 |
+| 8499 | [Hacking to the Gate](https://open.spotify.com/track/6lpkzNkXnPgSkEOANO7nsD) | [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN) | [TVアニメ『シュタインズ・ゲート』OPテーママキシシングル「Hacking to the Gate」](https://open.spotify.com/album/5DBbdxEw8J6p9fth6fbZer) | 4:16 |
+| 8500 | [Hawaii](https://open.spotify.com/track/3uJnPlOypv1S8ySPML4S8H) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 0:57 |
+| 8501 | [Reach Out To The Truth \-First Battle\-](https://open.spotify.com/track/29OHAngqPMvOrDPfl3s9x7) | [平田志穂子](https://open.spotify.com/artist/4PYEhkeRZkSSGCrurjzDrX) | [ペルソナ4 オリジナル・サウンドトラック](https://open.spotify.com/album/78LGjDUuu5dQZRfbrFQ2Ys) | 2:57 |
+| 8502 | [Time to Shine](https://open.spotify.com/track/1cxTovnLTwYuQEex52KuYl) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- The Stellar Moments, Vol\. 3 \(Original Game Soundtrack\)](https://open.spotify.com/album/4alm7dlAhGRBMb21F49YC8) | 2:28 |
 
-Snapshot ID: `AAAMRY/6qzISBfzbIu5KXMhbNQA+Mffx`
+Snapshot ID: `AAAMSc83sgEvuzELRAmlr6xnEhhkQSUN`

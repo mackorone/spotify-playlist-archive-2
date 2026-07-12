@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-425 songs - 1 day 14 hr 39 min
+426 songs - 1 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,7 @@
 | [Nainan Mein Chhabi](https://open.spotify.com/track/1hLwCJhyg7CsqavvDKfWkH) | [Shruti Bujarbaruah](https://open.spotify.com/artist/6VqinjdkW7wPrf94a982RC) | [Nainan Mein Chhabi](https://open.spotify.com/album/77rpMPXAoQzSEOvjDFg4Dk) | 3:38 | 2026-03-24 | 2026-06-30 |
 | [Naino Ke Ishaare](https://open.spotify.com/track/64lm0UUw3NLTWUBYogM27P) | [Nilotpal Sinha](https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV), [Shruti Dhasmana](https://open.spotify.com/artist/6IWgkz5oMp5pJwM7T3drvr) | [Naino Ke Ishaare](https://open.spotify.com/album/418atTbf5RwSqpLNpMVTBB) | 4:37 | 2022-05-17 | 2023-07-06 |
 | [Najariya LoFi Cake Mix](https://open.spotify.com/track/19lu7zlaFr7EmrlS1OaKPB) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Article 370 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ZyTpDwvVbYT5QHm1hPRCO) | 2:36 | 2024-02-20 | 2024-04-19 |
-| [Najariya LoFi Cake Mix](https://open.spotify.com/track/3PRXDT8kUntYccU3L3y0ji) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Article 370](https://open.spotify.com/album/3aPH5BvO8bxZCTJjVMXWwY) | 2:36 | 2024-02-19 |  |
+| [Najariya LoFi Cake Mix](https://open.spotify.com/track/3PRXDT8kUntYccU3L3y0ji) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Article 370](https://open.spotify.com/album/3aPH5BvO8bxZCTJjVMXWwY) | 2:36 | 2024-02-19 | 2026-07-12 |
 | [Naked](https://open.spotify.com/track/7KoXzM3IboDJxRl7DXIT7y) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Rise](https://open.spotify.com/album/5v2AgCxdfQlVcoXQ0QQEoP) | 4:16 | 2022-05-17 | 2023-05-24 |
 | [Naseeba](https://open.spotify.com/track/6jXyBwoXbm7SAbr4xRR7av) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Kavya Singh](https://open.spotify.com/artist/3wfNDxeCBMNpbxBhKOk6rm), [Saptak Chatterjee](https://open.spotify.com/artist/7rcHjaw38oHqxTjwQUnlRc), [Amar Syali](https://open.spotify.com/artist/1eSsfRSewoUsIVKGRQf6NA) | [Naseeba](https://open.spotify.com/album/1WythwesX07YVuysbvHF9l) | 7:13 | 2025-01-17 | 2025-04-12 |
 | [Nayanwa](https://open.spotify.com/track/10HB2JI0mlzXgKmbLsXzZj) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Nayanwa](https://open.spotify.com/album/6p1zL5oFJhgfjALKfeCJXb) | 3:30 | 2022-05-17 | 2024-02-01 |
@@ -298,6 +298,7 @@
 | [Payaliya](https://open.spotify.com/track/01PrstkiG8yl6Za84sYkmA) | [Vijay Ganesan](https://open.spotify.com/artist/5j0FEHM0QFwUTpLhFxFLbI), [Ramya MB](https://open.spotify.com/artist/6TxossJrr0qFTIhiPtaMcw) | [Payaliya](https://open.spotify.com/album/2pZbrfjNSECl6oTaYC8eZ3) | 4:10 | 2023-12-15 | 2024-04-06 |
 | [Payaliya](https://open.spotify.com/track/2qTil4mK99qmmVhH7bIFW1) | [Vijay Ganesan](https://open.spotify.com/artist/5j0FEHM0QFwUTpLhFxFLbI), [Ramya MB](https://open.spotify.com/artist/6TxossJrr0qFTIhiPtaMcw) | [Payaliya](https://open.spotify.com/album/1zwPjsEUnYZTPzz7C5OOSs) | 4:10 | 2023-09-04 | 2024-01-06 |
 | [Pieces of Her \(Mose Nahi Bole\)](https://open.spotify.com/track/2BPAW6Vm4KnLTvpSr9yObU) | [Naad](https://open.spotify.com/artist/0vk6S4KUi6MkvCr9npFoud), [Kinkini Deb](https://open.spotify.com/artist/6WzLl8UzNBhYyJ9Fg9Ng3y) | [Pieces of Her \(Mose Nahi Bole\)](https://open.spotify.com/album/5dO80nUkg2E7niJTqlJLEO) | 3:49 | 2025-07-25 | 2025-08-08 |
+| [Piritiya](https://open.spotify.com/track/1RLISDma35bouaTcZaqOyl) | [Arrjun pandey](https://open.spotify.com/artist/4cXHd2VBtClRi3H4tmSDpd) | [Piritiya](https://open.spotify.com/album/5gCD9HspfoFy4uAw6IIMtb) | 4:11 | 2026-07-09 |  |
 | [Piya](https://open.spotify.com/track/19G893hquKvFZNBQLkkagN) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Sneha Shankar](https://open.spotify.com/artist/2K89AHztkLmFRfoKC6ySoT), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Piya](https://open.spotify.com/album/14Uo1N2RTUkcdAiRXE7woa) | 3:04 | 2025-06-19 |  |
 | [Piya Ki Najariya](https://open.spotify.com/track/7ru5x9KkEvj2OJ6EQUzKbl) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Piya Ki Najariya](https://open.spotify.com/album/2JXX1LP63cd0b8Nkkkngz0) | 3:14 | 2023-06-21 | 2024-01-20 |
 | [Piya Ki Nazariya \- Raag Yaman](https://open.spotify.com/track/2y07A0vDh1waCZirOiodB5) | [DEW](https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s), [Sanchari Nag](https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE) | [Piya Ki Nazariya \(Raag Yaman\)](https://open.spotify.com/album/0uGYras6Hlp06K8nK0Sgd3) | 3:11 | 2024-01-19 |  |

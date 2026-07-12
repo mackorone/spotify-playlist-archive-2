@@ -1,29 +1,13 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 68417,
+  "num_followers": 68462,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAACNhHlUPQ9OM1vrMDtrZGKL",
+  "snapshot_id": "alA2AAAAAAAQMPEYEDgqQMOh+qwk+e+q",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Bar Song (Tipsy)",
-        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 176065,
       "name": "Cowgirl",
       "url": "https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
       "added_at": null,
@@ -375,22 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Sign Of Weakness",
-        "url": "https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL"
+        "name": "Cowboys Live Forever, Outlaws Never Die",
+        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
       },
       "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 148705,
-      "name": "Change Your Mind (feat. Shaboozey)",
-      "url": "https://open.spotify.com/track/6FXCkgH4PR9T15gx8osL5w"
+      "duration_ms": 138318,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/1eVpgP96bdSfpXGIpz7uZR"
     },
     {
       "added_at": null,
@@ -415,18 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboys Live Forever, Outlaws Never Die",
-        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
+        "name": "No Sign of Weakness",
+        "url": "https://open.spotify.com/album/0K9DQYNFGj1po76L6KgG2g"
       },
       "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 138318,
-      "name": "Beverly Hills",
-      "url": "https://open.spotify.com/track/1eVpgP96bdSfpXGIpz7uZR"
+      "duration_ms": 148705,
+      "name": "Change Your Mind (feat. Shaboozey)",
+      "url": "https://open.spotify.com/track/2FyrMwr4s13OYlhAFApwJW"
     },
     {
       "added_at": null,
@@ -455,22 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fire and Gasoline - A COLORS ENCORE",
-        "url": "https://open.spotify.com/album/2QasLXrreblFvRUsgYhj6v"
+        "name": "Cowboys Live Forever, Outlaws Never Die",
+        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
       },
       "artists": [
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
-      "duration_ms": 191162,
-      "name": "Fire and Gasoline - A COLORS ENCORE",
-      "url": "https://open.spotify.com/track/1xcpUNL3PDeoiELg1G9xWX"
+      "duration_ms": 154897,
+      "name": "Sticks and Stones",
+      "url": "https://open.spotify.com/track/6Xg6qGLWmZf4nkGPzEuwU8"
     },
     {
       "added_at": null,
@@ -491,18 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboys Live Forever, Outlaws Never Die",
-        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
+        "name": "Fire and Gasoline - A COLORS ENCORE",
+        "url": "https://open.spotify.com/album/2QasLXrreblFvRUsgYhj6v"
       },
       "artists": [
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
-      "duration_ms": 154897,
-      "name": "Sticks and Stones",
-      "url": "https://open.spotify.com/track/6Xg6qGLWmZf4nkGPzEuwU8"
+      "duration_ms": 191162,
+      "name": "Fire and Gasoline - A COLORS ENCORE",
+      "url": "https://open.spotify.com/track/1xcpUNL3PDeoiELg1G9xWX"
     },
     {
       "added_at": null,
@@ -519,6 +519,26 @@
       "duration_ms": 145321,
       "name": "Chrome - Bonus",
       "url": "https://open.spotify.com/track/2buTmoOVsN9Sc5tzOFD1um"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowboys Live Forever, Outlaws Never Die",
+        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Garzon",
+          "url": "https://open.spotify.com/artist/0Yf4uJcivvNFZD2casW6lf"
+        }
+      ],
+      "duration_ms": 189159,
+      "name": "Why Can't Love Be The Reason (feat. Garzon)",
+      "url": "https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9"
     },
     {
       "added_at": null,
@@ -559,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboys Live Forever, Outlaws Never Die",
-        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Garzon",
-          "url": "https://open.spotify.com/artist/0Yf4uJcivvNFZD2casW6lf"
-        }
-      ],
-      "duration_ms": 189159,
-      "name": "Why Can't Love Be The Reason (feat. Garzon)",
-      "url": "https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
         "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
       },
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lady Wrangler",
-        "url": "https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 219693,
-      "name": "Faithfully",
-      "url": "https://open.spotify.com/track/3HD3JJPE7iWKLV0zf86ShQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Another Me",
         "url": "https://open.spotify.com/album/5wK7WdNdAqiAqYPNrc1v2f"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 208421,
       "name": "Another Me",
       "url": "https://open.spotify.com/track/2r1nHvs8nYieO2BFbvrTU4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lady Wrangler",
+        "url": "https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 219693,
+      "name": "Faithfully",
+      "url": "https://open.spotify.com/track/3HD3JJPE7iWKLV0zf86ShQ"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lady Wrangler",
-        "url": "https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "Winning Streak",
-      "url": "https://open.spotify.com/track/3qpGsZHqMN56A2mNgOioQC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prosperity",
         "url": "https://open.spotify.com/album/25Ucx9hKJeVhaIfArtXSzE"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 197877,
       "name": "Prosperity",
       "url": "https://open.spotify.com/track/52kH4nX8l9DTAJquoINEEy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lady Wrangler",
+        "url": "https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "Winning Streak",
+      "url": "https://open.spotify.com/track/3qpGsZHqMN56A2mNgOioQC"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lady Wrangler",
-        "url": "https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 175840,
-      "name": "Warped Tour",
-      "url": "https://open.spotify.com/track/7BBMWa0psr0uKZVyl4j3wp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Break The Band (How Could She?)",
         "url": "https://open.spotify.com/album/2aCy1LOLEJB5snKIuSb16p"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 153946,
       "name": "Break The Band (How Could She?)",
       "url": "https://open.spotify.com/track/75cZzuektUsBvLW18rHGjx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lady Wrangler",
+        "url": "https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 175840,
+      "name": "Warped Tour",
+      "url": "https://open.spotify.com/track/7BBMWa0psr0uKZVyl4j3wp"
     },
     {
       "added_at": null,

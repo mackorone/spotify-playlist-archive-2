@@ -701,6 +701,28 @@
     },
     {
       "album": {
+        "name": "Wannabe",
+        "url": "https://open.spotify.com/album/6K7wWAptt1WpVpgzGqC3j3"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        },
+        {
+          "name": "Junior Vasquez",
+          "url": "https://open.spotify.com/artist/6X4LvL2xVwf3B6WuQ0YAhm"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173533,
+      "name": "Wannabe - Junior Vasquez 7\u201d Single Edit",
+      "url": "https://open.spotify.com/track/1IP7MLQg59OX39xk8ouSua"
+    },
+    {
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/2lm2EzzckeiF3TJAZ9czOG"
       },

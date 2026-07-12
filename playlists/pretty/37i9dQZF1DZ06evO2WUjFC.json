@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Felix. The essential tracks, all in one playlist.",
-  "num_followers": 1241,
+  "num_followers": 1245,
   "original_name": "This Is Danny Felix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAABwPMT4KER2rGn9gS2Py+Fl",
+  "snapshot_id": "alA2AAAAAACdUzlDAbZ//y4MYkKjb9tq",
   "tracks": [
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El 0-10",
-        "url": "https://open.spotify.com/album/7xKrS83b5Yy9JBvWlYo7aJ"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 162318,
-      "name": "El 0-10",
-      "url": "https://open.spotify.com/track/6NovnVrwsY1OVoOuXDj6VF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EN VIVO DESDE EL VALLE",
         "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 220970,
       "name": "EL REY DE MIL CORONAS - En Vivo",
       "url": "https://open.spotify.com/track/4pCa8V4EFQxJiJg7NYwWHf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El 0-10",
+        "url": "https://open.spotify.com/album/7xKrS83b5Yy9JBvWlYo7aJ"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 162318,
+      "name": "El 0-10",
+      "url": "https://open.spotify.com/track/6NovnVrwsY1OVoOuXDj6VF"
     },
     {
       "added_at": null,
@@ -531,6 +531,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHULA ELLA 59",
+        "url": "https://open.spotify.com/album/2hG9jA3GrO9myvWUmVfdty"
+      },
+      "artists": [
+        {
+          "name": "Reynaldos de la Sierra",
+          "url": "https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 195485,
+      "name": "SEGUIR",
+      "url": "https://open.spotify.com/track/15DYQlZ64lyccv5561p4Jv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LVR",
         "url": "https://open.spotify.com/album/55eQK3OCkiOuEWyKczz1xQ"
       },
@@ -555,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live, Rancho Style",
-        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 286032,
-      "name": "El Caballero (Live)",
-      "url": "https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CON LA COCHI [VOL II (EN VIVO)]",
         "url": "https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx"
       },
@@ -583,6 +587,22 @@
       "duration_ms": 304553,
       "name": "Fiesta En La Sierra - En Vivo",
       "url": "https://open.spotify.com/track/0c3DUDq57IkEAx39hxbzul"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live, Rancho Style",
+        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 286032,
+      "name": "El Caballero (Live)",
+      "url": "https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT"
     },
     {
       "added_at": null,
@@ -623,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CON LA COCHI [VOL II (EN VIVO)]",
+        "url": "https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 185391,
+      "name": "Mami - En Vivo",
+      "url": "https://open.spotify.com/track/59Ck1Q48tcUw0yCeDbZio8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ah\u00ed Viene la Subida",
         "url": "https://open.spotify.com/album/00I04FlbiupCLlwbK7jELJ"
       },
@@ -639,22 +675,6 @@
       "duration_ms": 255923,
       "name": "Hora de Abordar",
       "url": "https://open.spotify.com/track/1obCocrWe79DkbP4LRvHoa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CON LA COCHI [VOL II (EN VIVO)]",
-        "url": "https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 185391,
-      "name": "Mami - En Vivo",
-      "url": "https://open.spotify.com/track/59Ck1Q48tcUw0yCeDbZio8"
     },
     {
       "added_at": null,
@@ -684,9 +704,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 226943,
-      "name": "Anillo Grabado (Live)",
-      "url": "https://open.spotify.com/track/7B8A9CscEBKyJJ4wbhkEbT"
+      "duration_ms": 258340,
+      "name": "Mujer Mujer (Live)",
+      "url": "https://open.spotify.com/track/2L7sRBdAp6d2W9rViQzZIg"
     },
     {
       "added_at": null,
@@ -760,9 +780,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 258340,
-      "name": "Mujer Mujer (Live)",
-      "url": "https://open.spotify.com/track/2L7sRBdAp6d2W9rViQzZIg"
+      "duration_ms": 226943,
+      "name": "Anillo Grabado (Live)",
+      "url": "https://open.spotify.com/track/7B8A9CscEBKyJJ4wbhkEbT"
     },
     {
       "added_at": null,
@@ -783,6 +803,22 @@
       "duration_ms": 200946,
       "name": "El Sue\u00f1o De Un Marihuano",
       "url": "https://open.spotify.com/track/7ww8HjlWZSG4vwkFSYJwGP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y.T.L.S.V.",
+        "url": "https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 175586,
+      "name": "LOS CHISMES",
+      "url": "https://open.spotify.com/track/3VgC4wYJBteNN6wmNcssK8"
     },
     {
       "added_at": null,
@@ -815,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y.T.L.S.V.",
-        "url": "https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "LOS CHISMES",
-      "url": "https://open.spotify.com/track/3VgC4wYJBteNN6wmNcssK8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live, Rancho Style",
         "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
       },
@@ -843,30 +863,6 @@
       "duration_ms": 362306,
       "name": "Ya Est\u00e1n Cantando Los Gallos (Live)",
       "url": "https://open.spotify.com/track/7M0ai5eJ5f301qH51XZcjp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/0X3P4KYmCXt1EQaQe6CXIu"
-      },
-      "artists": [
-        {
-          "name": "Linea Activada",
-          "url": "https://open.spotify.com/artist/6SNv0DeLTRtRzaJ5c5uy4O"
-        },
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Los De Finix",
-          "url": "https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "Somos Hombres O Payasos",
-      "url": "https://open.spotify.com/track/6GWuEWQvVfTDIcJqbp4Jm8"
     },
     {
       "added_at": null,
@@ -891,6 +887,30 @@
       "duration_ms": 133309,
       "name": "Cupido Loco",
       "url": "https://open.spotify.com/track/4a1J8YDX879u2KNNvXT7HW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/0X3P4KYmCXt1EQaQe6CXIu"
+      },
+      "artists": [
+        {
+          "name": "Linea Activada",
+          "url": "https://open.spotify.com/artist/6SNv0DeLTRtRzaJ5c5uy4O"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Los De Finix",
+          "url": "https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "Somos Hombres O Payasos",
+      "url": "https://open.spotify.com/track/6GWuEWQvVfTDIcJqbp4Jm8"
     },
     {
       "added_at": null,
@@ -943,30 +963,6 @@
       "duration_ms": 242061,
       "name": "Culiacan Se Estremecia",
       "url": "https://open.spotify.com/track/5e3qwCkgUwpxsw70k5N2Xt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Velas Encendidas",
-        "url": "https://open.spotify.com/album/49E2apylgdz013orZ7Og0o"
-      },
-      "artists": [
-        {
-          "name": "Gerencia AGC",
-          "url": "https://open.spotify.com/artist/2noO9VOPzhyY4cUMFv6vYs"
-        },
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Jul Diez",
-          "url": "https://open.spotify.com/artist/1Yu84HbHhGHeS7aorDMqA5"
-        }
-      ],
-      "duration_ms": 190042,
-      "name": "Velas Encendidas",
-      "url": "https://open.spotify.com/track/0znVaRjI56esCo5I9YZs23"
     }
   ],
   "unique_name": "This Is Danny Felix",

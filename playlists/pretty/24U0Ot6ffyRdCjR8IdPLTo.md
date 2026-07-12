@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 
 > 🎧 Pop Study Zone 📚\. Dive into deep focus &amp; elevate your study sessions for ADHD, exams, or deep work\. Calming pop that sparks productivity &amp; curbs anxiety\. Feat\. Holly Humberstone, Gracie Abrams, Noah Kahan &amp; rising indie stars\. Updated regularly\. Save &amp; share this essential study mix!
 
-[Topsify](https://open.spotify.com/user/topsify) - 9,647 likes - 100 songs - 5 hr 28 min
+[Topsify](https://open.spotify.com/user/topsify) - 9,648 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

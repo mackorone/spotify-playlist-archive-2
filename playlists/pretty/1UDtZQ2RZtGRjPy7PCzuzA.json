@@ -6,7 +6,7 @@
     "name": "julia",
     "url": "https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu"
   },
-  "snapshot_id": "AAALH8zLFJR4979luguM/GRFzc+xviUW",
+  "snapshot_id": "AAALI1F5jEszkyNdFRC3pEL/VQkNOhTS",
   "tracks": [
     {
       "added_at": "2026-05-01 09:44:50",
@@ -19627,6 +19627,70 @@
       "duration_ms": 254614,
       "name": "Lost Boys",
       "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
+    },
+    {
+      "added_at": "2026-07-11 09:07:20",
+      "album": {
+        "name": "Loveland",
+        "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 148146,
+      "name": "Puppy Dog Eyes",
+      "url": "https://open.spotify.com/track/1410mOVD43lzivpQlpW1JE"
+    },
+    {
+      "added_at": "2026-07-11 09:17:01",
+      "album": {
+        "name": "say how you feel",
+        "url": "https://open.spotify.com/album/1HNWNslIPnl9veeggEcuZv"
+      },
+      "artists": [
+        {
+          "name": "Leyla Ebrahimi",
+          "url": "https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "say how you feel",
+      "url": "https://open.spotify.com/track/0L5P8oK2kAuIRWrgk6fyM8"
+    },
+    {
+      "added_at": "2026-07-11 09:18:21",
+      "album": {
+        "name": "Loveland",
+        "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 185120,
+      "name": "Almost",
+      "url": "https://open.spotify.com/track/1F60jn1Y6P7ShpqRc4wQMw"
+    },
+    {
+      "added_at": "2026-07-11 09:23:21",
+      "album": {
+        "name": "Loveland",
+        "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 166386,
+      "name": "Any Man",
+      "url": "https://open.spotify.com/track/0FeHSfzNeNbLtfii09pC5i"
     }
   ],
   "unique_name": "\ud806\udcf2\ud835\udcf3",

@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 58080,
+  "num_followers": 58082,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAADEGaJ/pmzeUKoAucvBSdIY",
+  "snapshot_id": "alA2AAAAAADU1yGGTlh2vl6+aSKNuiqL",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fobia",
-        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Mas Vale Cholo",
-      "url": "https://open.spotify.com/track/5ikxVvxiartCefvERWxFNX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Aqu\u00ed Estuvieras",
         "url": "https://open.spotify.com/album/2BpP4gT2GjPzHNHwlZqlmU"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 321000,
       "name": "Si Aqu\u00ed Estuvieras",
       "url": "https://open.spotify.com/track/2uH7BbKKG9bzVBuHdL5TB2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fobia",
+        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Mas Vale Cholo",
+      "url": "https://open.spotify.com/track/5ikxVvxiartCefvERWxFNX"
     },
     {
       "added_at": null,

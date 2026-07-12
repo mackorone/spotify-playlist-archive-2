@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "1-800",
+        "url": "https://open.spotify.com/album/1n1XDhzFAGyjMva7QArIv7"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Isabel",
+          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151808,
+      "name": "1-800",
+      "url": "https://open.spotify.com/track/0AkmDhmbHBkKcw4Upq1NqQ"
+    },
+    {
+      "album": {
         "name": "1000 cartas / dsps de un faje",
         "url": "https://open.spotify.com/album/7LOo3kTsO24pNoLDzo7DWG"
       },
@@ -5512,7 +5530,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 202281,
       "name": "El Caminante",
       "url": "https://open.spotify.com/track/3kl6pVlGGl3F0glYUFAS0a"
@@ -11693,7 +11711,7 @@
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 350488,
+      "duration_ms": 350919,
       "name": "Morfina",
       "url": "https://open.spotify.com/track/7lYKq59aOgRnRlrjuTIvJv"
     },

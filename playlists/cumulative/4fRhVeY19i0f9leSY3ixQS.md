@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-1,844 songs - 4 day 7 hr 7 min
+1,846 songs - 4 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [BEAST](https://open.spotify.com/track/3765c454FgYSfcfZJ5yy0p) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt), [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [BEAST](https://open.spotify.com/album/3USL1gNsYsAQhkjPIXEMTG) | 2:42 | 2026-05-20 | 2026-06-11 |
 | [Beater](https://open.spotify.com/track/4JRbph5ENF0fPkrMd9jioO) | [Audio Pulleys](https://open.spotify.com/artist/6R1MH58VI4crgVPxnlxK7t) | [Basic Beater Beast](https://open.spotify.com/album/69EEhh1xWPvqJQ0QRYoGkr) | 1:14 | 2025-08-03 |  |
 | [BEAVER CREAM](https://open.spotify.com/track/294bk3KsT4gWATUjSKBnKM) | [Gunnar Gill](https://open.spotify.com/artist/0c1Bw1PiVMLuH06XwPKzep) | [BEAVER CREAM](https://open.spotify.com/album/4Apcv9FIdOYf98cTBOjX3t) | 0:44 | 2026-03-09 |  |
-| [Beer Inside](https://open.spotify.com/track/4d3t1JrapBN6NvZCYXnmGW) | [Calima Fox](https://open.spotify.com/artist/4QWak6ur6HXYTHgfgdSDbn) | [Motor Sands](https://open.spotify.com/album/2bocN5xWCkwFF7zOIxgRoO) | 3:17 | 2026-06-10 |  |
+| [Beer Inside](https://open.spotify.com/track/4d3t1JrapBN6NvZCYXnmGW) | [Calima Fox](https://open.spotify.com/artist/4QWak6ur6HXYTHgfgdSDbn) | [Motor Sands](https://open.spotify.com/album/2bocN5xWCkwFF7zOIxgRoO) | 3:17 | 2026-06-10 | 2026-07-12 |
 | [Before It's Too Late](https://open.spotify.com/track/6IdxAzlM1h5wkM6JRztFUh) | [Melexo](https://open.spotify.com/artist/5rOtSodS6Uf2sAWsjhjHXM), [JET](https://open.spotify.com/artist/6mIbZws8iW0fnafaUnlNJz) | [Before It's Too Late](https://open.spotify.com/album/5IMxv9leayaxEaPw3swLWr) | 2:57 | 2026-04-03 | 2026-04-24 |
 | [Before The Dawn Of Blades](https://open.spotify.com/track/3T0nMHkufK7ahjA8QLqorJ) | [Arpegiah](https://open.spotify.com/artist/0ZihJ2XzTIi1kNypZT7Sfd) | [Before The Dawn Of Blades](https://open.spotify.com/album/5nk2DZWSPqL3I5Av7YVNPu) | 5:05 | 2026-04-15 | 2026-05-08 |
 | [Behind The Eleven](https://open.spotify.com/track/1uEgFdzgTM6szgHtsto5N1) | [Eren Ayintap](https://open.spotify.com/artist/0K18HE2KC6yov0rrfwjF1D) | [The Codes In The Stones](https://open.spotify.com/album/2fLJyG7Tm4sETaSLdkZFkL) | 5:14 | 2026-01-12 | 2026-02-03 |
@@ -374,6 +374,7 @@
 | [Deathblow](https://open.spotify.com/track/2jrFC8QpHbVofLFSTYijqI) | [June Turns Black](https://open.spotify.com/artist/2AhiwEIcBkP96DzxRj9MDu) | [Deathblow](https://open.spotify.com/album/6UCRIbpPeNFso8zTPhOEfz) | 2:53 | 2026-03-30 | 2026-05-01 |
 | [Deathwave](https://open.spotify.com/track/4q22Pi1GK9VedwsETMftd1) | [NecroEvolution](https://open.spotify.com/artist/0FSw0vw6oIudDJgJ2Pasw2) | [Deathwave](https://open.spotify.com/album/0jFcC0hgWtil2bw9GwAQJW) | 3:00 | 2026-01-06 | 2026-02-07 |
 | [Dec 31st](https://open.spotify.com/track/5TejL2F3Cntqsd6gr6LoEa) | [420 Vision](https://open.spotify.com/artist/0Jfa0ovGl8yKOxqRCzXmcr) | [Dec 31st](https://open.spotify.com/album/1LL05t05ellb7nYuJqqaFi) | 2:33 | 2026-02-02 | 2026-02-27 |
+| [deceived](https://open.spotify.com/track/5wYc5u1J7qUjmwLiHJRGZG) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [deceived](https://open.spotify.com/album/4RntmhyWWyLjAWdfOI3Fth) | 2:24 | 2026-07-11 |  |
 | [December](https://open.spotify.com/track/2z3ty0IrM6KnbztAgn5Uj7) | [Burning Out](https://open.spotify.com/artist/20U7tEPNxM9lfRbv3uqDy0) | [December](https://open.spotify.com/album/0bVbVG4LaKqPfwmZ2zgEm9) | 3:31 | 2025-12-17 | 2026-01-06 |
 | [Deeds Define](https://open.spotify.com/track/71y2WGLjFpyu7MaXFpFAHy) | [Boneripper](https://open.spotify.com/artist/6N5IU9LkU4ogtq88WIwDYe) | [Deeds Define](https://open.spotify.com/album/1ui4TWeFHKpLweywk7EZjv) | 3:26 | 2026-06-19 |  |
 | [Deja De Decir Lo Que No Sientes](https://open.spotify.com/track/4mKcjRQulihMGHcwelFhr5) | [Glass Mirage](https://open.spotify.com/artist/0ADBjmnPmjHdgD8GEuv5an) | [Deja De Decir Lo Que No Sientes](https://open.spotify.com/album/45Lmki6ohBTKbSTluiDByg) | 2:25 | 2025-11-30 | 2025-12-24 |
@@ -1490,6 +1491,7 @@
 | [Super Secret Boy Band](https://open.spotify.com/track/4wo4rY8UaYFBqs1Gvmlsw8) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 3:53 | 2025-08-03 | 2026-05-30 |
 | [Superglue](https://open.spotify.com/track/2ne8j9xhGW38Jhg8ZX9PFY) | [Ranting](https://open.spotify.com/artist/1pWSptJLJjULPx5XmGid7n) | [Superglue](https://open.spotify.com/album/5v3K2ajEtpXB9NCKzHqmNE) | 2:05 | 2026-03-09 | 2026-04-10 |
 | [Superslut \- Skate Park Mix](https://open.spotify.com/track/5ZGVc0Zloei57HKuu2DdjP) | [Elliott Ernst](https://open.spotify.com/artist/4kJrmsUZM6buhYJbxkdiPu) | [Superslut \(Skate Park Mix\)](https://open.spotify.com/album/27WndnPmRHLb4SVc3kTDEG) | 2:00 | 2026-03-02 | 2026-04-03 |
+| [Superstar](https://open.spotify.com/track/70HeeHIbisMrzyRgU4keeU) | [Violet Fox](https://open.spotify.com/artist/5JjEGMlCzQo4Iqmw6Dij1r), [Elvie Frances](https://open.spotify.com/artist/55QwWJ6B1kMo8n0TT3f0TO) | [Superstar](https://open.spotify.com/album/5AzIGnmcpxAvmoKZBrqgiy) | 3:04 | 2026-07-11 |  |
 | [Surf & Serotonin](https://open.spotify.com/track/0ul1KuEwnx2mLSys4eMVPs) | [Dane & Em.](https://open.spotify.com/artist/4A3nD66XVcMtub6fNuNoea) | [Surf & Serotonin](https://open.spotify.com/album/1JT3szhOm5x29AqSfjBDCF) | 2:26 | 2026-06-27 |  |
 | [Surface Tension](https://open.spotify.com/track/14lIWSDdW8kO9GZVF6Cov3) | [Bailout](https://open.spotify.com/artist/0zMC0Fju9Z3pdVfssAjpNa) | [Surface Tension](https://open.spotify.com/album/5OwVt7UNBROLRM51st1mzl) | 2:09 | 2026-02-10 | 2026-03-14 |
 | [Surge](https://open.spotify.com/track/4tQsM9IalKTHhkhHVQiltP) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Surge](https://open.spotify.com/album/7N230KyMTKvE3eGFjov7ew) | 3:22 | 2026-01-12 | 2026-02-03 |
@@ -1567,7 +1569,7 @@
 | [The Great Awakening](https://open.spotify.com/track/3Y9xIktddWyyDGLTCxPmco) | [Depths To Survive](https://open.spotify.com/artist/6McJfcuAmUFKizTUrYCWlO) | [Mental Cure](https://open.spotify.com/album/2gObuMey27FAMfVmoBvqxo) | 3:36 | 2026-05-26 | 2026-07-04 |
 | [The Great Mistake](https://open.spotify.com/track/0lZuhiK4QZJcuf6gGMSTyi) | [Victories](https://open.spotify.com/artist/3xz80Fjc2rPTVwxJEILllA) | [The Great Mistake](https://open.spotify.com/album/4y0Eaazuth5SRSAWSdDcQi) | 2:37 | 2026-04-04 | 2026-05-06 |
 | [The Gutter](https://open.spotify.com/track/4XMFBPsFBxSgVuXo9oTvqT) | [Misery Channel](https://open.spotify.com/artist/0km1fYeCjrTJF5VOJShTsc) | [The Gutter](https://open.spotify.com/album/6EmcFf2Gqkpby9vZ71Bb1D) | 3:03 | 2026-02-27 | 2026-03-31 |
-| [The Hidden Cove](https://open.spotify.com/track/3Xe8hb9NETJ5Iw4fjj9N9x) | [Frog Fortress](https://open.spotify.com/artist/1hCyCHuTSzpTuOURKNzYCb) | [The Hidden Cove](https://open.spotify.com/album/1Opb9UFDvzaENrKmFqPfcm) | 3:40 | 2026-06-10 |  |
+| [The Hidden Cove](https://open.spotify.com/track/3Xe8hb9NETJ5Iw4fjj9N9x) | [Frog Fortress](https://open.spotify.com/artist/1hCyCHuTSzpTuOURKNzYCb) | [The Hidden Cove](https://open.spotify.com/album/1Opb9UFDvzaENrKmFqPfcm) | 3:40 | 2026-06-10 | 2026-07-12 |
 | [The Hunger](https://open.spotify.com/track/7f7mRP26GQ6cxVeLcOsQE7) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [The Hunger](https://open.spotify.com/album/5uq35jfSKO9nuz0BBl8WGZ) | 4:45 | 2026-04-07 | 2026-05-08 |
 | [The Knife](https://open.spotify.com/track/1cbB3p9Z3Dhch9PDtReYyu) | [Barren Sea](https://open.spotify.com/artist/52YaDNTA2VWMofP95FkTSi) | [The War on Cars](https://open.spotify.com/album/1tkfcVGm3ZxwKRq51SWTcV) | 4:14 | 2026-02-12 | 2026-03-16 |
 | [The Last Frequency](https://open.spotify.com/track/1vPf1NmZiKXBUMWhfc9fCL) | [FACEVOLT](https://open.spotify.com/artist/6pIqGqpnJZlIGDzwTsv9WH) | [LONG WAY](https://open.spotify.com/album/7uzLn5WRyAa5Ac5qhJgEKC) | 4:26 | 2026-05-29 | 2026-07-04 |

@@ -11,11 +11,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 1 | [Wait For Dark](https://open.spotify.com/track/5LCYfYYsJN96vzy9a8SqIY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Wait For Dark](https://open.spotify.com/album/2madKsttGJIXf3yTMIS5oE) | 4:18 |
 | 2 | [Still There](https://open.spotify.com/track/7Dux06ZgwiPe0LHb4WAkGP) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc) | 3:09 |
 | 3 | [Undone](https://open.spotify.com/track/2FYYzRt1ucC50W6uqjS5Ha) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:38 |
-| 4 | [Archives](https://open.spotify.com/track/0q4wHE2zStn68DoAifJchG) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 3:17 |
+| 4 | [Journey of the Prairie King](https://open.spotify.com/track/4iNY9h9jOd0lEhXHfYY4Cv) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 3:28 |
 | 5 | [Know](https://open.spotify.com/track/5Gc6MRG6vn9KqptMzqc2tQ) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Know](https://open.spotify.com/album/56XcNdwP2WxffdAqcadDtr) | 3:53 |
 | 6 | [Daydreaming](https://open.spotify.com/track/6nH7HTesM0q7KFtFISslhC) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc) | 3:35 |
 | 7 | [I got Punched in the Face, What's your Excuse](https://open.spotify.com/track/0KDFtrVZ3Wv4Tw3YQKkgBe) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:31 |
-| 8 | [Journey of the Prairie King](https://open.spotify.com/track/4iNY9h9jOd0lEhXHfYY4Cv) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 3:28 |
+| 8 | [Archives](https://open.spotify.com/track/0q4wHE2zStn68DoAifJchG) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 3:17 |
 | 9 | [Boy](https://open.spotify.com/track/3LZJ9sQuqQxYXK7xr7a26z) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Boy](https://open.spotify.com/album/66JcnvXctFOhPeNeYH6gTh) | 3:21 |
 | 10 | [Amanita](https://open.spotify.com/track/22MOx6iBZP7vE2jXx8l8tF) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc) | 3:01 |
 | 11 | [Semi Finalists](https://open.spotify.com/track/6Qu0iz1FNYPaCMaR8iBPTO) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:43 |
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 22 | [ShaqFu](https://open.spotify.com/track/5jJ2Lsh5vBNASoKtzE9Rtp) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:25 |
 | 23 | [412](https://open.spotify.com/track/1nx2dR3JFSU89eCXITguU5) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 3:54 |
 
-Snapshot ID: `ak7kgAAAAADBCPSoBkKVDdlzwV0TCHfd`
+Snapshot ID: `alA2AAAAAADUJ2r78buv+JHvhn9xjJE4`

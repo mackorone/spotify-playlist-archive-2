@@ -1,6 +1,6 @@
 {
   "description": "The IDs that got us here. #Spotify20",
-  "num_followers": 5938,
+  "num_followers": 5944,
   "original_name": "Our Favorite IDs from the Last 20 Years",
   "owner": {
     "name": "Spotify",
@@ -51,26 +51,6 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
-        "name": "Actual Life (April 14 - December 17 2020)",
-        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        }
-      ],
-      "duration_ms": 285375,
-      "name": "Marea (we\u2019ve lost dancing)",
-      "url": "https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
         "name": "Cola",
         "url": "https://open.spotify.com/album/50mIxTR0ErViEATyLXRyni"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 223869,
       "name": "Cola",
       "url": "https://open.spotify.com/track/0aL5jEWqfIwNDB3tdzyzH4"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
+        "name": "Actual Life (April 14 - December 17 2020)",
+        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        }
+      ],
+      "duration_ms": 285375,
+      "name": "Marea (we\u2019ve lost dancing)",
+      "url": "https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 232806,
-      "name": "Immaterial",
-      "url": "https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
         "name": "Godspeed",
         "url": "https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 287440,
       "name": "Serotonin Moonbeams",
       "url": "https://open.spotify.com/track/5W9KXaUHasNgdram95MDLN"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 232806,
+      "name": "Immaterial",
+      "url": "https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/06oVyAYXBM2bz6eJsB3Llb"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 398150,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/7dFvYtokT2xQH1HvaQgbgY"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
         "name": "The Rawkers (I <3 U SO Edition)",
         "url": "https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 296975,
       "name": "Yahyuppiyah (feat. Justin99, Pcee, EeQue, & Chley)",
       "url": "https://open.spotify.com/track/0c5uvxHB8Fhy9YmnO4KOHk"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
-        "name": "Knock Knock",
-        "url": "https://open.spotify.com/album/06oVyAYXBM2bz6eJsB3Llb"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 398150,
-      "name": "Pick Up",
-      "url": "https://open.spotify.com/track/7dFvYtokT2xQH1HvaQgbgY"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1udCeAJjxGO8BuhDbpvVJv"
-      },
-      "artists": [
-        {
-          "name": "Moderat",
-          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "Bad Kingdom",
-      "url": "https://open.spotify.com/track/52XjrfqvrxaMtjCDYEKkXN"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
         "name": "Final Credits",
         "url": "https://open.spotify.com/album/6sGZ51P1PpHUlApJzb4dWa"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 439994,
       "name": "Final Credits",
       "url": "https://open.spotify.com/track/6b5IJEVYFEZ1YkgZ0oXaJK"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1udCeAJjxGO8BuhDbpvVJv"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "Bad Kingdom",
+      "url": "https://open.spotify.com/track/52XjrfqvrxaMtjCDYEKkXN"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
+        "name": "Paradise Garage: Inspirations",
+        "url": "https://open.spotify.com/album/7dTbTFJlJ1xzjnoXKxIKeC"
+      },
+      "artists": [
+        {
+          "name": "Rolando",
+          "url": "https://open.spotify.com/artist/0s1ELavwiZMFYDL31VDJpx"
+        }
+      ],
+      "duration_ms": 397000,
+      "name": "Knights of the Jaguar",
+      "url": "https://open.spotify.com/track/3xxARypr8NdEMesYUHSsGK"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
         "name": "Lucent",
         "url": "https://open.spotify.com/album/0zJPWuHZWvGyw8urFFcxxx"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 391888,
       "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
       "url": "https://open.spotify.com/track/4bojrlaIBAWtOntcIH29Kt"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
-        "name": "Paradise Garage: Inspirations",
-        "url": "https://open.spotify.com/album/7dTbTFJlJ1xzjnoXKxIKeC"
-      },
-      "artists": [
-        {
-          "name": "Rolando",
-          "url": "https://open.spotify.com/artist/0s1ELavwiZMFYDL31VDJpx"
-        }
-      ],
-      "duration_ms": 397000,
-      "name": "Knights of the Jaguar",
-      "url": "https://open.spotify.com/track/3xxARypr8NdEMesYUHSsGK"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
+        "name": "Fading Love",
+        "url": "https://open.spotify.com/album/1v6BipCE7YBMOBcAN0j0EH"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        },
+        {
+          "name": "Boxed In",
+          "url": "https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh"
+        }
+      ],
+      "duration_ms": 292971,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/4XK1a9vdsiDmhvdkFzGCQh"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
         "name": "TNGHT",
         "url": "https://open.spotify.com/album/3YryuS3uTm7wogdtqaAb6A"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 199343,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/3PRPiS8XO5BDwtBePgAlVM"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
-        "name": "Fading Love",
-        "url": "https://open.spotify.com/album/1v6BipCE7YBMOBcAN0j0EH"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        },
-        {
-          "name": "Boxed In",
-          "url": "https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh"
-        }
-      ],
-      "duration_ms": 292971,
-      "name": "Full Circle",
-      "url": "https://open.spotify.com/track/4XK1a9vdsiDmhvdkFzGCQh"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
+        "name": "The Chapters of Green Velvet",
+        "url": "https://open.spotify.com/album/1hn0CRNZw1u16Jd2Vvopt4"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        }
+      ],
+      "duration_ms": 394124,
+      "name": "Bigger Than Prince - Hot Since 82 Remix",
+      "url": "https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
         "name": "Thank You for Letting Me Be Myself",
         "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 413315,
       "name": "The Shit Baby",
       "url": "https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
-        "name": "The Chapters of Green Velvet",
-        "url": "https://open.spotify.com/album/1hn0CRNZw1u16Jd2Vvopt4"
-      },
-      "artists": [
-        {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        }
-      ],
-      "duration_ms": 394124,
-      "name": "Bigger Than Prince - Hot Since 82 Remix",
-      "url": "https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
-        "name": "Settle",
-        "url": "https://open.spotify.com/album/1ZFGRj11NnZHos8DUbbpF1"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 283705,
-      "name": "When A Fire Starts To Burn",
-      "url": "https://open.spotify.com/track/7cyUppcNj7ojpzPlB0CPW9"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
         "name": "Let It Go (with Marc E. Bassy)",
         "url": "https://open.spotify.com/album/3yAuFFA0zd9J0sJi3JGpvt"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 204226,
       "name": "Let It Go (with Marc E. Bassy)",
       "url": "https://open.spotify.com/track/3TvNcBtucVO8flCgst1ESc"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
+        "name": "Settle",
+        "url": "https://open.spotify.com/album/1ZFGRj11NnZHos8DUbbpF1"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 283705,
+      "name": "When A Fire Starts To Burn",
+      "url": "https://open.spotify.com/track/7cyUppcNj7ojpzPlB0CPW9"
     },
     {
       "added_at": "2026-05-12 12:00:20",

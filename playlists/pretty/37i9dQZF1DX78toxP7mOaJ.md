@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: Clutter
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,467 likes - 76 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,483 likes - 76 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

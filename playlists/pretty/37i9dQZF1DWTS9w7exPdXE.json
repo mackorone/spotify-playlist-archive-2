@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers. Cover: Samuel Welten (<a href=\"spotify:artist:37i9dQZF1DXaxwXKCsImRe\">RADAR BNLX</a>-artiest)",
-  "num_followers": 167439,
+  "num_followers": 167549,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Ken Je Dat Gevoel",
-        "url": "https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Ken Je Dat Gevoel",
-      "url": "https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Vanavond (Uit M'n Bol)",
         "url": "https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 166560,
       "name": "Vanavond (Uit M'n Bol)",
       "url": "https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Ken Je Dat Gevoel",
+        "url": "https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Ken Je Dat Gevoel",
+      "url": "https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Gewoon Andre",
-        "url": "https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "Een Beetje Verliefd",
-      "url": "https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Vannacht Slaap Jij Bij Mij",
         "url": "https://open.spotify.com/album/72aiMSxFyKAiY4mrolRPgj"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 148704,
       "name": "Vannacht Slaap Jij Bij Mij",
       "url": "https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Gewoon Andre",
+        "url": "https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 254266,
+      "name": "Een Beetje Verliefd",
+      "url": "https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -419,26 +419,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Van Goes Tot Purmerend",
-        "url": "https://open.spotify.com/album/4Kc9vHk2XB9tGNcyikgNpm"
-      },
-      "artists": [
-        {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
-        },
-        {
-          "name": "Marco Schuitmaker",
-          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
-        }
-      ],
-      "duration_ms": 201363,
-      "name": "Van Goes Tot Purmerend",
-      "url": "https://open.spotify.com/track/6dgkHkbtXg4mGwRPJiE1LV"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Nooit Meer Voorbij",
         "url": "https://open.spotify.com/album/3xA8HtZ3rmd8hnETY8YWDx"
       },
@@ -463,6 +443,26 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
+        "name": "Van Goes Tot Purmerend",
+        "url": "https://open.spotify.com/album/4Kc9vHk2XB9tGNcyikgNpm"
+      },
+      "artists": [
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        },
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "duration_ms": 201363,
+      "name": "Van Goes Tot Purmerend",
+      "url": "https://open.spotify.com/track/6dgkHkbtXg4mGwRPJiE1LV"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
         "name": "Met Heel Mijn Hart",
         "url": "https://open.spotify.com/album/1O66zmJwQw98cKjVzdRAiD"
       },
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Live In Het Philips Stadion",
-        "url": "https://open.spotify.com/album/1BegCmidDeh43ntUxDGODt"
-      },
-      "artists": [
-        {
-          "name": "Guus Meeuwis",
-          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Geef Mij Je Angst",
-      "url": "https://open.spotify.com/track/1dHkLKpYhYiJ7tPThULrbK"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/6vVNkqg0uf9HTt966hqReK"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 163125,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/1pegjs65Iwuk2IrGGieOYx"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Live In Het Philips Stadion",
+        "url": "https://open.spotify.com/album/1BegCmidDeh43ntUxDGODt"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Geef Mij Je Angst",
+      "url": "https://open.spotify.com/track/1dHkLKpYhYiJ7tPThULrbK"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Ik Spaar Geen Centen",
-        "url": "https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS"
-      },
-      "artists": [
-        {
-          "name": "Mart Hoogkamer",
-          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
-        }
-      ],
-      "duration_ms": 166923,
-      "name": "Ik Spaar Geen Centen",
-      "url": "https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Maak Me Gek",
         "url": "https://open.spotify.com/album/0i45L4c4qL4M4TJtASfPiT"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 182000,
       "name": "Maak Me Gek",
       "url": "https://open.spotify.com/track/2NRM0hWzeQkkiY2qMKBkPg"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Ik Spaar Geen Centen",
+        "url": "https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS"
+      },
+      "artists": [
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        }
+      ],
+      "duration_ms": 166923,
+      "name": "Ik Spaar Geen Centen",
+      "url": "https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Drink Rode Wijn",
-        "url": "https://open.spotify.com/album/2eUCtZLQrk8l2Js1bBQm3R"
-      },
-      "artists": [
-        {
-          "name": "Donny Ponsen",
-          "url": "https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N"
-        }
-      ],
-      "duration_ms": 210530,
-      "name": "Drink Rode Wijn",
-      "url": "https://open.spotify.com/track/4dfcAShEiezY5K2IP33iOn"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Jij Liet Me Vallen",
         "url": "https://open.spotify.com/album/01rLwvJx2VUjcsppCnWNDd"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 218040,
       "name": "Jij Liet Me Vallen",
       "url": "https://open.spotify.com/track/2Q01M0X7yJeLfGg4ebLORO"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Drink Rode Wijn",
+        "url": "https://open.spotify.com/album/2eUCtZLQrk8l2Js1bBQm3R"
+      },
+      "artists": [
+        {
+          "name": "Donny Ponsen",
+          "url": "https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N"
+        }
+      ],
+      "duration_ms": 210530,
+      "name": "Drink Rode Wijn",
+      "url": "https://open.spotify.com/track/4dfcAShEiezY5K2IP33iOn"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "De Jonge Jaren van Toontje Lager - 50 Jaar Nederpop",
-        "url": "https://open.spotify.com/album/2aTTEiGgwrBkwXbJmlZYTr"
-      },
-      "artists": [
-        {
-          "name": "Toontje Lager",
-          "url": "https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai"
-        }
-      ],
-      "duration_ms": 214975,
-      "name": "Stiekem Gedanst",
-      "url": "https://open.spotify.com/track/1tU5J8aMqCQe7WtqTkFLQL"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Beste Zangers Seizoen 12 (Aflevering 8 - Duetten)",
         "url": "https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi"
       },
@@ -927,6 +911,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
+        "name": "De Jonge Jaren van Toontje Lager - 50 Jaar Nederpop",
+        "url": "https://open.spotify.com/album/2aTTEiGgwrBkwXbJmlZYTr"
+      },
+      "artists": [
+        {
+          "name": "Toontje Lager",
+          "url": "https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai"
+        }
+      ],
+      "duration_ms": 214975,
+      "name": "Stiekem Gedanst",
+      "url": "https://open.spotify.com/track/1tU5J8aMqCQe7WtqTkFLQL"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
         "name": "Zij Weet Het (Studio Versie)",
         "url": "https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs"
       },
@@ -939,6 +939,22 @@
       "duration_ms": 241583,
       "name": "Zij Weet Het - Studio Versie",
       "url": "https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Gewoon Jannes",
+        "url": "https://open.spotify.com/album/0PzS61l1kAX6RF8nxNGPrV"
+      },
+      "artists": [
+        {
+          "name": "Jannes",
+          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "Adio Amore Adio",
+      "url": "https://open.spotify.com/track/53AddGhMgfIE85Az2Ipovu"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -959,22 +975,6 @@
       "duration_ms": 238000,
       "name": "Liever Te Dik In De Kist",
       "url": "https://open.spotify.com/track/67xy7fhM9hKO6SxyHh7vrE"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
-        "name": "Gewoon Jannes",
-        "url": "https://open.spotify.com/album/0PzS61l1kAX6RF8nxNGPrV"
-      },
-      "artists": [
-        {
-          "name": "Jannes",
-          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "Adio Amore Adio",
-      "url": "https://open.spotify.com/track/53AddGhMgfIE85Az2Ipovu"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Mij Niet Bellen",
-        "url": "https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q"
-      },
-      "artists": [
-        {
-          "name": "RAYMON HERMANS",
-          "url": "https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G"
-        }
-      ],
-      "duration_ms": 161484,
-      "name": "Mij Niet Bellen",
-      "url": "https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "De nieuwe van....",
         "url": "https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 308053,
       "name": "Jannes hitmedley",
       "url": "https://open.spotify.com/track/5ytN4bv3YOAPtYr6WJFFea"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Mij Niet Bellen",
+        "url": "https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q"
+      },
+      "artists": [
+        {
+          "name": "RAYMON HERMANS",
+          "url": "https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G"
+        }
+      ],
+      "duration_ms": 161484,
+      "name": "Mij Niet Bellen",
+      "url": "https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
+        "name": "We Dansen Op De Mambo",
+        "url": "https://open.spotify.com/album/3rJ62KNdaZ5iozmVKVN2R3"
+      },
+      "artists": [
+        {
+          "name": "Django Wagner",
+          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
+        }
+      ],
+      "duration_ms": 166543,
+      "name": "We Dansen Op De Mambo",
+      "url": "https://open.spotify.com/track/3guMKFst9U0pYgBClN4nGK"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
         "name": "Pretty Belinda",
         "url": "https://open.spotify.com/album/5Or2VYn33rCB7gB3SvR4Fm"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 174533,
       "name": "Pretty Belinda",
       "url": "https://open.spotify.com/track/5r1xffqGgmoqdk5PMylTGA"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
-        "name": "We Dansen Op De Mambo",
-        "url": "https://open.spotify.com/album/3rJ62KNdaZ5iozmVKVN2R3"
-      },
-      "artists": [
-        {
-          "name": "Django Wagner",
-          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
-        }
-      ],
-      "duration_ms": 166543,
-      "name": "We Dansen Op De Mambo",
-      "url": "https://open.spotify.com/track/3guMKFst9U0pYgBClN4nGK"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Drink Rode Wijn (Feestmix)",
-        "url": "https://open.spotify.com/album/4pfIIjVebfNdLW5aRjmfK9"
-      },
-      "artists": [
-        {
-          "name": "Donny Ponsen",
-          "url": "https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "Drink Rode Wijn - Feestmix",
-      "url": "https://open.spotify.com/track/261a70JNUYCzOt9ndXWcEg"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "'n Rondje van mij",
         "url": "https://open.spotify.com/album/0xFsAJ0Z79d1rfEXu6mmvD"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 189352,
       "name": "Mijn Loterij",
       "url": "https://open.spotify.com/track/6XSanjhhXXpnsEI3O6zQqC"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Drink Rode Wijn (Feestmix)",
+        "url": "https://open.spotify.com/album/4pfIIjVebfNdLW5aRjmfK9"
+      },
+      "artists": [
+        {
+          "name": "Donny Ponsen",
+          "url": "https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "Drink Rode Wijn - Feestmix",
+      "url": "https://open.spotify.com/track/261a70JNUYCzOt9ndXWcEg"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Leef",
-        "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Hazes Jr.",
-          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
-        }
-      ],
-      "duration_ms": 217902,
-      "name": "Leef",
-      "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Automatisch",
         "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 165768,
       "name": "Automatisch",
       "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Leef",
+        "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
+        }
+      ],
+      "duration_ms": 217902,
+      "name": "Leef",
+      "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
     },
     {
       "added_at": "2026-06-17 07:46:41",

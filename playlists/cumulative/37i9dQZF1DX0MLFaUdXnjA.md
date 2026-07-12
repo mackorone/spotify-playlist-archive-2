@@ -4,7 +4,7 @@
 
 > Sit back and relax to the chillest pop\.  Cover: Ryan Beatty
 
-2,681 songs - 6 day 0 hr 30 min
+2,682 songs - 6 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2427,6 +2427,7 @@
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-19 | 2024-03-09 |
 | [Trampoline](https://open.spotify.com/track/1xMOdQOD7bDhkRHG04FHDX) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Trampoline](https://open.spotify.com/album/3zydVUwHpv30kPKdJd4SfK) | 4:34 | 2025-05-23 | 2025-07-26 |
 | [Treehouse \(feat\. Brandy Clark\)](https://open.spotify.com/track/1YhfDSpXJ61IHRF5IymP3S) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Treehouse](https://open.spotify.com/album/5fXOvCcWEgxK4x0qgY35U0) | 3:34 | 2024-05-17 | 2024-06-01 |
+| [trees for the woods](https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [trees for the woods](https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a) | 4:07 | 2026-07-11 |  |
 | [Trust Myself](https://open.spotify.com/track/0P8hP2O5hEVdAvnr0q2c8q) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Tell Me How You Really Feel](https://open.spotify.com/album/68VnJqtwbk7vmAuyYYsiZa) | 3:03 | 2026-03-06 |  |
 | [Trustfall](https://open.spotify.com/track/1xeDnOaPmfVZsMYSsDLyhF) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Trustfall](https://open.spotify.com/album/2whIOqiGvtYyy2SA67pElo) | 3:02 | 2023-12-01 | 2024-01-13 |
 | [Try Again](https://open.spotify.com/track/2deosh9uwwwECK6Z20YOCK) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Try Again](https://open.spotify.com/album/4vacitZKKjz1PBOtTwWkp2) | 2:55 | 2026-02-13 | 2026-04-04 |

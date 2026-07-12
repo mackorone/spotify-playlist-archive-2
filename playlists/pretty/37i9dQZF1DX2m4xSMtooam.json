@@ -1,6 +1,6 @@
 {
   "description": "Relax to the sweet and soothing sound of bossa nova.",
-  "num_followers": 377064,
+  "num_followers": 377369,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-07-08 16:15:58",
       "album": {
+        "name": "Meu Tempo",
+        "url": "https://open.spotify.com/album/3g1loM31EWoeFhHmx1i10a"
+      },
+      "artists": [
+        {
+          "name": "Tom Rogers Band",
+          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+        }
+      ],
+      "duration_ms": 189394,
+      "name": "Meu Tempo",
+      "url": "https://open.spotify.com/track/0ikmGotXZiA8O3VQHNj0zw"
+    },
+    {
+      "added_at": "2026-07-08 16:15:58",
+      "album": {
         "name": "Call on me softly",
         "url": "https://open.spotify.com/album/6yswi7kz4lWCyIevxBgF9J"
       },
@@ -379,18 +395,22 @@
     {
       "added_at": "2026-07-08 16:15:58",
       "album": {
-        "name": "Meu Tempo",
-        "url": "https://open.spotify.com/album/3g1loM31EWoeFhHmx1i10a"
+        "name": "Chambre avec vue",
+        "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
       },
       "artists": [
         {
-          "name": "Tom Rogers Band",
-          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        },
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
         }
       ],
-      "duration_ms": 189394,
-      "name": "Meu Tempo",
-      "url": "https://open.spotify.com/track/0ikmGotXZiA8O3VQHNj0zw"
+      "duration_ms": 248306,
+      "name": "All I Really Want Is Love",
+      "url": "https://open.spotify.com/track/4EtULbS8K8zZ3apaEX36oI"
     },
     {
       "added_at": "2026-07-08 16:15:58",
@@ -427,26 +447,6 @@
       "duration_ms": 183746,
       "name": "One Note Samba",
       "url": "https://open.spotify.com/track/3P9ykpmg0veqHJ0gJ6zG1i"
-    },
-    {
-      "added_at": "2026-07-08 16:15:58",
-      "album": {
-        "name": "Chambre avec vue",
-        "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
-      },
-      "artists": [
-        {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
-        },
-        {
-          "name": "Lisa Ekdahl",
-          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
-        }
-      ],
-      "duration_ms": 248306,
-      "name": "All I Really Want Is Love",
-      "url": "https://open.spotify.com/track/4EtULbS8K8zZ3apaEX36oI"
     },
     {
       "added_at": "2026-07-08 16:15:58",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-07-08 16:15:58",
       "album": {
+        "name": "Sobre o oceano",
+        "url": "https://open.spotify.com/album/6u92erX7J21BjD75dEGuHx"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Lima",
+          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
+        }
+      ],
+      "duration_ms": 170259,
+      "name": "Sobre o oceano",
+      "url": "https://open.spotify.com/track/1hfWhiIqyNu3Qr5jGMNif9"
+    },
+    {
+      "added_at": "2026-07-08 16:15:58",
+      "album": {
         "name": "Liljeholmsviken",
         "url": "https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe"
       },
@@ -571,18 +587,18 @@
     {
       "added_at": "2026-07-08 16:15:58",
       "album": {
-        "name": "Sobre o oceano",
-        "url": "https://open.spotify.com/album/6u92erX7J21BjD75dEGuHx"
+        "name": "Sinal Vermelho",
+        "url": "https://open.spotify.com/album/7qESWTcIuiswvipqVknDEF"
       },
       "artists": [
         {
-          "name": "Mart\u00edn Lima",
-          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
+          "name": "Bossa Players",
+          "url": "https://open.spotify.com/artist/5apIRYZ7s0gTvCb4qSpGHm"
         }
       ],
-      "duration_ms": 170259,
-      "name": "Sobre o oceano",
-      "url": "https://open.spotify.com/track/1hfWhiIqyNu3Qr5jGMNif9"
+      "duration_ms": 267374,
+      "name": "Sinal Vermelho",
+      "url": "https://open.spotify.com/track/3jy9B0kZMpIuTCU8wIn5dC"
     },
     {
       "added_at": "2026-07-08 16:15:58",
@@ -615,22 +631,6 @@
       "duration_ms": 224187,
       "name": "Woodblock Print",
       "url": "https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN"
-    },
-    {
-      "added_at": "2026-07-08 16:15:58",
-      "album": {
-        "name": "Sinal Vermelho",
-        "url": "https://open.spotify.com/album/7qESWTcIuiswvipqVknDEF"
-      },
-      "artists": [
-        {
-          "name": "Bossa Players",
-          "url": "https://open.spotify.com/artist/5apIRYZ7s0gTvCb4qSpGHm"
-        }
-      ],
-      "duration_ms": 267374,
-      "name": "Sinal Vermelho",
-      "url": "https://open.spotify.com/track/3jy9B0kZMpIuTCU8wIn5dC"
     },
     {
       "added_at": "2026-07-08 16:15:58",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-07-08 16:15:58",
       "album": {
-        "name": "Cheek to cheek",
-        "url": "https://open.spotify.com/album/712te0ZI1fyrkkI6k8ui6b"
-      },
-      "artists": [
-        {
-          "name": "Cole Peers trio",
-          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "Cheek to cheek",
-      "url": "https://open.spotify.com/track/0XnleUxgreIMS02KY2ld7F"
-    },
-    {
-      "added_at": "2026-07-08 16:15:58",
-      "album": {
         "name": "The Look Of Love",
         "url": "https://open.spotify.com/album/3a7bqpNydrqKIXM9ViTxoH"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 133193,
       "name": "The Look Of Love",
       "url": "https://open.spotify.com/track/1DGRTR2cE0Sr9eTCeCztZY"
+    },
+    {
+      "added_at": "2026-07-08 16:15:58",
+      "album": {
+        "name": "Cheek to cheek",
+        "url": "https://open.spotify.com/album/712te0ZI1fyrkkI6k8ui6b"
+      },
+      "artists": [
+        {
+          "name": "Cole Peers trio",
+          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "Cheek to cheek",
+      "url": "https://open.spotify.com/track/0XnleUxgreIMS02KY2ld7F"
     },
     {
       "added_at": "2026-07-08 16:15:58",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-07-08 16:15:58",
       "album": {
-        "name": "Black Orpheus",
-        "url": "https://open.spotify.com/album/1uIZcgp7yorDXZFTY7Eh53"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 254533,
-      "name": "Black Orpheus",
-      "url": "https://open.spotify.com/track/2gURzEbMFhxw1ujKV3v1HY"
-    },
-    {
-      "added_at": "2026-07-08 16:15:58",
-      "album": {
         "name": "Double Rainbow",
         "url": "https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 284133,
       "name": "Felicidade",
       "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
+    },
+    {
+      "added_at": "2026-07-08 16:15:58",
+      "album": {
+        "name": "Black Orpheus",
+        "url": "https://open.spotify.com/album/1uIZcgp7yorDXZFTY7Eh53"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 254533,
+      "name": "Black Orpheus",
+      "url": "https://open.spotify.com/track/2gURzEbMFhxw1ujKV3v1HY"
     },
     {
       "added_at": "2026-07-08 16:15:58",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-07-08 16:15:58",
       "album": {
-        "name": "Floripa",
-        "url": "https://open.spotify.com/album/3Z7vrabrKS7jf4arzq0m3t"
-      },
-      "artists": [
-        {
-          "name": "Las Almas Nuevas",
-          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
-        }
-      ],
-      "duration_ms": 238163,
-      "name": "Floripa",
-      "url": "https://open.spotify.com/track/3rIYiMtqjyHj8P12mPi4pI"
-    },
-    {
-      "added_at": "2026-07-08 16:15:58",
-      "album": {
         "name": "Telecoteco",
         "url": "https://open.spotify.com/album/3vo7Rw9T48cuSkQWHMLnSb"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 218346,
       "name": "Teleco-Teco",
       "url": "https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa"
+    },
+    {
+      "added_at": "2026-07-08 16:15:58",
+      "album": {
+        "name": "Floripa",
+        "url": "https://open.spotify.com/album/3Z7vrabrKS7jf4arzq0m3t"
+      },
+      "artists": [
+        {
+          "name": "Las Almas Nuevas",
+          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
+        }
+      ],
+      "duration_ms": 238163,
+      "name": "Floripa",
+      "url": "https://open.spotify.com/track/3rIYiMtqjyHj8P12mPi4pI"
     },
     {
       "added_at": "2026-07-08 16:15:58",
@@ -1447,22 +1447,22 @@
     {
       "added_at": "2026-07-08 16:15:58",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq"
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/1Ky9OOOReMN8OfFwohWK32"
       },
       "artists": [
         {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
         },
         {
-          "name": "Toots Thielemans",
-          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
+          "name": "Joshua Crumbly",
+          "url": "https://open.spotify.com/artist/4SSEcx8fIWKSSYSmvHJSC4"
         }
       ],
-      "duration_ms": 298280,
-      "name": "Caminhos Cruzados",
-      "url": "https://open.spotify.com/track/1u4Xal8izsdfmuNpmUTNo1"
+      "duration_ms": 262869,
+      "name": "\u00c9 Preciso Perdoar",
+      "url": "https://open.spotify.com/track/4wauUZpotzqJuZBULcI8vt"
     },
     {
       "added_at": "2026-07-08 16:15:58",
@@ -1483,22 +1483,22 @@
     {
       "added_at": "2026-07-08 16:15:58",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/1Ky9OOOReMN8OfFwohWK32"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq"
       },
       "artists": [
         {
-          "name": "Martina DaSilva",
-          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
         },
         {
-          "name": "Joshua Crumbly",
-          "url": "https://open.spotify.com/artist/4SSEcx8fIWKSSYSmvHJSC4"
+          "name": "Toots Thielemans",
+          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
         }
       ],
-      "duration_ms": 262869,
-      "name": "\u00c9 Preciso Perdoar",
-      "url": "https://open.spotify.com/track/4wauUZpotzqJuZBULcI8vt"
+      "duration_ms": 298280,
+      "name": "Caminhos Cruzados",
+      "url": "https://open.spotify.com/track/1u4Xal8izsdfmuNpmUTNo1"
     },
     {
       "added_at": "2026-07-08 16:15:58",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-07-08 16:15:58",
       "album": {
-        "name": "The Milky Way",
-        "url": "https://open.spotify.com/album/4eASKrdPU29nUHbgzLsphQ"
-      },
-      "artists": [
-        {
-          "name": "Tom Rogers Band",
-          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
-        }
-      ],
-      "duration_ms": 211037,
-      "name": "The Milky Way",
-      "url": "https://open.spotify.com/track/5VCbcyUzLIBvQqJPR1dTNs"
-    },
-    {
-      "added_at": "2026-07-08 16:15:58",
-      "album": {
         "name": "Vanguarda",
         "url": "https://open.spotify.com/album/2ZPNkYuaywFWEW4ccOcB9i"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 251267,
       "name": "Vanguarda",
       "url": "https://open.spotify.com/track/513avTZFJnIDwjFIughYK4"
+    },
+    {
+      "added_at": "2026-07-08 16:15:58",
+      "album": {
+        "name": "The Milky Way",
+        "url": "https://open.spotify.com/album/4eASKrdPU29nUHbgzLsphQ"
+      },
+      "artists": [
+        {
+          "name": "Tom Rogers Band",
+          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+        }
+      ],
+      "duration_ms": 211037,
+      "name": "The Milky Way",
+      "url": "https://open.spotify.com/track/5VCbcyUzLIBvQqJPR1dTNs"
     },
     {
       "added_at": "2026-07-08 16:15:58",

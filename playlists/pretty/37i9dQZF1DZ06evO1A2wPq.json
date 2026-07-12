@@ -1,12 +1,12 @@
 {
   "description": "This is kwn. The essential tracks, all in one playlist.",
-  "num_followers": 21796,
+  "num_followers": 21810,
   "original_name": "This Is kwn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAABquJD1aNQmve0IOYOZoClR",
+  "snapshot_id": "alA2AAAAAADc35Hi5t34yx75+Uwky3+E",
   "tracks": [
     {
       "added_at": null,
@@ -246,11 +246,15 @@
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 326341,
-      "name": "rather never love again",
-      "url": "https://open.spotify.com/track/06eYospB1uVxwSty0QCdhq"
+      "duration_ms": 150447,
+      "name": "'til the room stinks (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1ILFNxCVhJT2viKziURC3U"
     },
     {
       "added_at": null,
@@ -310,15 +314,11 @@
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 150447,
-      "name": "'til the room stinks (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/1ILFNxCVhJT2viKziURC3U"
+      "duration_ms": 326341,
+      "name": "rather never love again",
+      "url": "https://open.spotify.com/track/06eYospB1uVxwSty0QCdhq"
     },
     {
       "added_at": null,

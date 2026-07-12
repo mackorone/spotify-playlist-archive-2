@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,284 songs - 3 day 2 hr 38 min
+1,286 songs - 3 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [How Lucky](https://open.spotify.com/track/4SVVS4cFwX4k2a35Y27eaH) | [Jill Baldassari](https://open.spotify.com/artist/1kv1SoMj9osbG1MeUzRp12) | [How Lucky](https://open.spotify.com/album/2MiQlo3MZvLUz9YQjkgIaE) | 2:37 | 2026-05-11 | 2026-07-03 |
 | [How'd You Get Here](https://open.spotify.com/track/06YPAAkCdIDHTs3rA1oPjZ) | [Bruce Sudano](https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ) | [Talkin' Ugly Truth, Tellin' Pretty Lies](https://open.spotify.com/album/30hSDxBhr4JnFry1yPCHZm) | 3:20 | 2025-12-15 | 2026-01-15 |
 | [Hoy \(A Tu Lado\) \[En Vivo\]](https://open.spotify.com/track/6zQelbgxGQjsPbn6eaPRNG) | [JUAN HUMO](https://open.spotify.com/artist/3WXP65ZKIX6dfhOhrFOHsS), [maui](https://open.spotify.com/artist/00dQ9WiJc29XUzvWXvCXlG) | [Hoy \(A Tu Lado\) \[En Vivo\]](https://open.spotify.com/album/18YVHuUzk7MftUfUX3LCcB) | 4:33 | 2025-12-15 | 2026-01-15 |
+| [Hurricane](https://open.spotify.com/track/1masz2eX4eOLypH3rlfurg) | [OLVRE](https://open.spotify.com/artist/60wwsbAaj20bZGrn4yLXy7) | [Hurricane](https://open.spotify.com/album/1Qq6cOb9vaA51t52qaeLoA) | 3:59 | 2026-07-11 |  |
 | [Hängematte](https://open.spotify.com/track/5w8apl86z4vmd1wkSRJr4G) | [Mia Hermann](https://open.spotify.com/artist/6JfCDV2SyMKZfemIViLw9K) | [Hängematte](https://open.spotify.com/album/3RY4slE0DaXLZNsMBEg3GB) | 3:51 | 2026-01-16 | 2026-02-20 |
 | [I Believe In A Thing Called Love](https://open.spotify.com/track/4MIfPxadLGN52O6PZmGWsg) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [I Believe In A Thing Called Love](https://open.spotify.com/album/0J2tyt22Agtt6i4IgZnkTC) | 3:25 | 2026-05-11 | 2026-07-03 |
 | [I came like water, like wind I go](https://open.spotify.com/track/2QfSa214f8Mvij3TyEQn8p) | [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK) | [I came like water, like wind I go](https://open.spotify.com/album/3jQo8nHd9lyBQ5J510ASy2) | 2:59 | 2025-07-11 | 2026-01-05 |
@@ -635,6 +636,7 @@
 | [Love You](https://open.spotify.com/track/1MDeUp8t9xf0OhccBDXY2d) | [Jane Marie](https://open.spotify.com/artist/4RjRKI0bYrhNIiUX0qzKf3), [Jessica Mia](https://open.spotify.com/artist/1EEnRNZ0QEgzpSGRj957B5) | [Love You](https://open.spotify.com/album/3xFo7WpJPBsFKI9JxAhAF0) | 3:38 | 2026-06-09 |  |
 | [LoveFool](https://open.spotify.com/track/7bUmp4xom3geI8bSPuK0tX) | [Delilah Earnshaw](https://open.spotify.com/artist/4GgoJ6xVN57Qb2STzpdgj2) | [LoveFool](https://open.spotify.com/album/0vxN32E176x1p4ayKQcCqI) | 4:29 | 2025-12-18 | 2026-01-15 |
 | [Lovekomotive](https://open.spotify.com/track/5ca7KsClrlVTDjnximVi7Z) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Lovekomotive](https://open.spotify.com/album/7oi4Z60udYyTT4UnREzG9L) | 3:33 | 2025-12-15 | 2026-01-15 |
+| [Loverboy](https://open.spotify.com/track/0tWLQ2YmQ3MoCaZkckzXkY) | [The Falls](https://open.spotify.com/artist/64VoUwM0Ui5gXHMrzOPOgA) | [Loverboy](https://open.spotify.com/album/5mmkHXR5YMkbdNbJ6EXRQF) | 2:53 | 2026-07-11 |  |
 | [Loyalty \- Official Instrumental](https://open.spotify.com/track/4uSEpNSqv2GxEChNDydMxD) | [Young Bleed](https://open.spotify.com/artist/5GQgxUq4MOuXXV99WrRuev), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Loyalty \(Official Instrumental\)](https://open.spotify.com/album/0M5TSATqPAncC0iVtvSsi6) | 2:54 | 2025-09-11 | 2025-11-29 |
 | [Lucky](https://open.spotify.com/track/2lMn6SCGmnDfZNs9KaaO6a) | [Adrian Wang](https://open.spotify.com/artist/3ppXRwJyEfcCNHLVplAIty) | [Wrote You in My Heart](https://open.spotify.com/album/0KZL4Ft4BeL8A5ynO5ql3d) | 3:14 | 2026-05-21 | 2026-07-03 |
 | [Lueg mi a \- Dänk was wotsch](https://open.spotify.com/track/5k03obY555MhUQAQwxq7OF) | [Manou](https://open.spotify.com/artist/7l1lEpbeMCACME9YwfFBz6) | [Lueg mi a \- Dänk was wotsch](https://open.spotify.com/album/5dvntdIVcCo5gjG7ocPYfK) | 3:24 | 2026-01-30 | 2026-02-28 |

@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,454 songs - 3 day 7 hr 8 min
+1,455 songs - 3 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Anywhere With You](https://open.spotify.com/track/5MxKAr6Ui5hQ9TtjdnlmrR) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Anywhere With You](https://open.spotify.com/album/0JaOI27aTExNAnLHpKi2wl) | 2:38 | 2021-10-05 | 2022-03-12 |
 | [Apaga la luz](https://open.spotify.com/track/45ewyxF625HzqLCKgZU0tp) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Apaga la luz](https://open.spotify.com/album/2lG9UbKlWrurlbT6GDZJCf) | 3:23 | 2025-05-23 | 2026-05-09 |
 | [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 | 2024-01-05 | 2024-03-19 |
-| [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 | 2023-10-02 |  |
+| [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 | 2023-10-02 | 2026-07-12 |
 | [Aria](https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:56 | 2024-03-22 | 2024-04-19 |
 | [Arp12](https://open.spotify.com/track/1uAqEwBLKdJw8N5T7qAWMX) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa), [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Arp12](https://open.spotify.com/album/7Co7HPNp3CaE10oPWCGth4) | 4:20 | 2026-05-15 |  |
 | [Arrival](https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Arrival](https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww) | 3:24 | 2026-03-13 |  |
@@ -487,6 +487,7 @@
 | [Go Head](https://open.spotify.com/track/1XUM16N9IFPKb5RA0bRHmf) | [Ryden](https://open.spotify.com/artist/1Y5qZuVu8BdlAcTRInoT4B) | [Go Head](https://open.spotify.com/album/5Ryo4aP0ruj6kONX3bsVcB) | 3:07 | 2021-10-23 | 2022-03-12 |
 | [God is A DJ](https://open.spotify.com/track/4exGSaz6lVTxxZVF1xVD4k) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [God Is a DJ](https://open.spotify.com/album/5hoygc74uvTK3cNAK7DAkE) | 2:35 | 2022-04-01 | 2023-02-16 |
 | [God On The Weekend](https://open.spotify.com/track/2x5nPvRLL92jXFvpfkIBLh) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [God On The Weekend](https://open.spotify.com/album/6DvTyfqkhpuCdKKMSPFVnb) | 3:00 | 2023-01-06 | 2023-10-05 |
+| [Goddess](https://open.spotify.com/track/3VdkjUOiLFiUOPyKK03F19) | [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [What U Like EP](https://open.spotify.com/album/2M4V0ZkJQocpTyjyOh6FuX) | 3:13 | 2026-07-10 |  |
 | [Going Dumb](https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z) | [Going Dumb](https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l) | 2:48 | 2021-03-27 | 2021-09-18 |
 | [Going Existential In The Rave](https://open.spotify.com/track/1yCN4pcSC5YZ4rvB9ucwQ0) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Going Existential In The Rave](https://open.spotify.com/album/4fN5W1gXamaYZADNgEdw5v) | 3:07 | 2026-06-08 |  |
 | [Gold \- DubVision Remix](https://open.spotify.com/track/6cZk2cg2H9XgWUcRaeRStT) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Chris Howard](https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Gold \(Remixes\)](https://open.spotify.com/album/7Ind88GGJrY1KtDu07D06v) | 3:29 | 2021-07-07 | 2021-09-18 |

@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Jefe De Jefes",
+        "url": "https://open.spotify.com/album/5C507x88aYeTv00Ydv0maH"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186986,
+      "name": "El Rengo Del Gallo Giro",
+      "url": "https://open.spotify.com/track/1OyprjzxOmzRQ7YbsCOgPJ"
+    },
+    {
+      "album": {
         "name": "El Tahur",
         "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
       },
@@ -618,7 +636,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 155920,
       "name": "Infiel Por Amor",
       "url": "https://open.spotify.com/track/5X4TbZ0Gs0AAX042xAkejg"

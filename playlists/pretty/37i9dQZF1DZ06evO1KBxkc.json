@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 204312,
+  "num_followers": 204319,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAACrQ6IubDUrUB3U0ZLzQ9Lw",
+  "snapshot_id": "alA2AAAAAAC/Z6U6bhmgQj24sUO2DFnR",
   "tracks": [
     {
       "added_at": null,
@@ -871,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "24 Hours (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/3nyQMczxyW20jgN3f8Qe9N"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 205702,
+      "name": "24 Hours (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/0YH1xT3Z7wR6dZyaCwSziK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PGD (feat. Kyle Richh & ZEDDY WILL)",
         "url": "https://open.spotify.com/album/55PVyRV3IhOpKAzLcPxFs3"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 217013,
       "name": "PGD (feat. Kyle Richh & ZEDDY WILL)",
       "url": "https://open.spotify.com/track/2qxaBUnihi6tbLnAUE2pye"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "24 Hours (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/3nyQMczxyW20jgN3f8Qe9N"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 205702,
-      "name": "24 Hours (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/0YH1xT3Z7wR6dZyaCwSziK"
     },
     {
       "added_at": null,
@@ -963,18 +963,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Drink",
-        "url": "https://open.spotify.com/album/4RAAZcbae57tp6h2joUZuu"
+        "name": "Right Back (feat. A Boogie Wit Da Hoodie)",
+        "url": "https://open.spotify.com/album/36Mq31otog86NGRflpMmkg"
       },
       "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 156734,
-      "name": "Last Drink",
-      "url": "https://open.spotify.com/track/6HNxPQ3Atlfq5yQa5LGMIj"
+      "duration_ms": 254999,
+      "name": "Right Back (feat. A Boogie Wit Da Hoodie)",
+      "url": "https://open.spotify.com/track/6PYnUsNEpYC7A4BS2sjw3L"
     },
     {
       "added_at": null,

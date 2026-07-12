@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Kamdenboy & Kyraboo
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,808 likes - 99 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,838 likes - 99 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 10 | [The Shaker Song](https://open.spotify.com/track/20OSwhwxSrvOLea7IZjdfm) | [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo), [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [The Shaker Song](https://open.spotify.com/album/1boEeAqkPGMWjzLRTUu0x4) | 3:29 |
 | 11 | [Midnight Sun](https://open.spotify.com/track/3K2sq4GzFkLFA3u0lhYWeR) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Midnight Sun](https://open.spotify.com/album/5nIgD5ISbeiUEtyDNsuHUc) | 3:03 |
 | 12 | [Little Miss Muffet](https://open.spotify.com/track/3CWyYDKPJ6sW11U5mrkHxi) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD), [Chicago Symphony Orchestra](https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E) | [Little Miss Muffet / Peter Pumpkin Eater](https://open.spotify.com/album/24JYYF7JmDtCaVgMYDCwH6) | 1:45 |
-| 13 | [Watch Out for That Rake](https://open.spotify.com/track/6oKpLMgvQV4fNAAY4uXkKz) | [Nickelodeon](https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65), [Patrick Star](https://open.spotify.com/artist/4M7bDPAyyd1rns4cbEy0yQ) | [Watch Out for That Rake \(from "PATRICK STAR SUPERSTAR" / Remastered\)](https://open.spotify.com/album/2qeit1RWhlaWDkk7u3h0Xk) | 0:49 |
+| 13 | [Watch Out for That Rake](https://open.spotify.com/track/6oKpLMgvQV4fNAAY4uXkKz) | [Patrick Star](https://open.spotify.com/artist/4M7bDPAyyd1rns4cbEy0yQ), [Nickelodeon](https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65) | [Watch Out for That Rake \(from "PATRICK STAR SUPERSTAR" / Remastered\)](https://open.spotify.com/album/2qeit1RWhlaWDkk7u3h0Xk) | 0:49 |
 | 14 | [Manners](https://open.spotify.com/track/4gS0WDCFCaud48XFHlDJ2F) | [Electric Umbrella](https://open.spotify.com/artist/3CQEvYasV0N5WrCOZjB6d6) | [Manners](https://open.spotify.com/album/3b3YXPrYLyR1NpH0Lrfx3R) | 3:13 |
 | 15 | [Rubber Duckie \- from "Sesame Street"](https://open.spotify.com/track/2SkDK4MACq0BFfIQkP4y0E) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Rubber Duckie](https://open.spotify.com/album/4IFionSfkKUh4iGiwuxNRp) | 2:02 |
 | 16 | [Pretty In Paris](https://open.spotify.com/track/4rmqg5G2ZD0AfBkzToB13i) | [Rainbow High](https://open.spotify.com/artist/7cvp5x5lxRteAQnPklF4zD) | [Pretty In Paris](https://open.spotify.com/album/066RVFjWIhfDyExsbsRhXp) | 2:24 |

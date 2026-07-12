@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Sublime on cover ",
-  "num_followers": 412604,
+  "num_followers": 412632,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
         }
       ],
-      "duration_ms": 185088,
-      "name": "Enjoy Yourself",
-      "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
+      "duration_ms": 165168,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -820,25 +820,9 @@
           "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
         }
       ],
-      "duration_ms": 165168,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
-        "name": "Bersinar",
-        "url": "https://open.spotify.com/album/2w2npr2WhYpan47byFPmVn"
-      },
-      "artists": [
-        {
-          "name": "Shaggydog",
-          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
-        }
-      ],
-      "duration_ms": 225047,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY"
+      "duration_ms": 185088,
+      "name": "Enjoy Yourself",
+      "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -855,6 +839,22 @@
       "duration_ms": 130373,
       "name": "180 Degrees",
       "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "Bersinar",
+        "url": "https://open.spotify.com/album/2w2npr2WhYpan47byFPmVn"
+      },
+      "artists": [
+        {
+          "name": "Shaggydog",
+          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
+        }
+      ],
+      "duration_ms": 225047,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "The Essential Fishbone",
-        "url": "https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H"
-      },
-      "artists": [
-        {
-          "name": "Fishbone",
-          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "Ma and Pa",
-      "url": "https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
         "name": "Blinding!",
         "url": "https://open.spotify.com/album/3621jwzaKGcZ80N9d0hBWQ"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 181786,
       "name": "Blinding!",
       "url": "https://open.spotify.com/track/3pWFWCDZyeHln3ct9Wdv28"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "The Essential Fishbone",
+        "url": "https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H"
+      },
+      "artists": [
+        {
+          "name": "Fishbone",
+          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "Ma and Pa",
+      "url": "https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
+      },
+      "artists": [
+        {
+          "name": "Hepcat",
+          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
         "name": "You've Got A Friend",
         "url": "https://open.spotify.com/album/0oCrAr6VXADGTvcHTBhywJ"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 263905,
       "name": "You've Got A Friend",
       "url": "https://open.spotify.com/track/5YmqNKWDpbGZKCPapGHDrN"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
-      },
-      "artists": [
-        {
-          "name": "Hepcat",
-          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
-        }
-      ],
-      "duration_ms": 219706,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
+        "name": "Stomp",
+        "url": "https://open.spotify.com/album/6smpibJ3RlcnBDdHi7dINI"
+      },
+      "artists": [
+        {
+          "name": "Big D and the Kids Table",
+          "url": "https://open.spotify.com/artist/7rCVe3W6E37VMHBHJXB6xD"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Stepping Out",
+      "url": "https://open.spotify.com/track/3TjsikWPyMLvnjQiUATci6"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
         "name": "With A Little Help From My Friends",
         "url": "https://open.spotify.com/album/5V0eMMudOT8AQaCjn56KST"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 200108,
       "name": "With A Little Help From My Friends",
       "url": "https://open.spotify.com/track/1McQFJXLoVfP7jJAjI79kb"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
-        "name": "Stomp",
-        "url": "https://open.spotify.com/album/6smpibJ3RlcnBDdHi7dINI"
-      },
-      "artists": [
-        {
-          "name": "Big D and the Kids Table",
-          "url": "https://open.spotify.com/artist/7rCVe3W6E37VMHBHJXB6xD"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Stepping Out",
-      "url": "https://open.spotify.com/track/3TjsikWPyMLvnjQiUATci6"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "No One is Illegal",
-        "url": "https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO"
-      },
-      "artists": [
-        {
-          "name": "Russkaja",
-          "url": "https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr"
-        }
-      ],
-      "duration_ms": 226413,
-      "name": "Here is the News (Papa\u00b4s Got a Brand New Pigbag)",
-      "url": "https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
         "name": "Nice Things",
         "url": "https://open.spotify.com/album/5tNQBbbRsvoCDgJA8WA91T"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 141057,
       "name": "The Sweat",
       "url": "https://open.spotify.com/track/577X4F4HAZZUVzvT7wml4E"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "No One is Illegal",
+        "url": "https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO"
+      },
+      "artists": [
+        {
+          "name": "Russkaja",
+          "url": "https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr"
+        }
+      ],
+      "duration_ms": 226413,
+      "name": "Here is the News (Papa\u00b4s Got a Brand New Pigbag)",
+      "url": "https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Musical Muse",
-        "url": "https://open.spotify.com/album/20MQWcJHt7tvu847fSMvpH"
-      },
-      "artists": [
-        {
-          "name": "The Aggrolites",
-          "url": "https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM"
-        }
-      ],
-      "duration_ms": 230594,
-      "name": "Musical Muse",
-      "url": "https://open.spotify.com/track/6IuwQyCQ0MlwVKWmf4Z8bb"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
         "name": "A Flat City",
         "url": "https://open.spotify.com/album/1vw3z3xkEY2cqDqCi5ndwQ"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 122266,
       "name": "A Flat City",
       "url": "https://open.spotify.com/track/590BnlG9y6C0f9UivPq4qt"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "Musical Muse",
+        "url": "https://open.spotify.com/album/20MQWcJHt7tvu847fSMvpH"
+      },
+      "artists": [
+        {
+          "name": "The Aggrolites",
+          "url": "https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM"
+        }
+      ],
+      "duration_ms": 230594,
+      "name": "Musical Muse",
+      "url": "https://open.spotify.com/track/6IuwQyCQ0MlwVKWmf4Z8bb"
     },
     {
       "added_at": "2026-06-12 06:00:36",

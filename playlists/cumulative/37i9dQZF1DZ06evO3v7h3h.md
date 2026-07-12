@@ -4,7 +4,7 @@
 
 > This is Rashid\. The essential tracks, all in one playlist.
 
-121 songs - 8 hr 29 min
+122 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [E Se](https://open.spotify.com/track/3QTZCqej24Zyd5WGRXWJuJ) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Hora de Acordar](https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS) | 4:33 | 2023-09-18 |  |
 | [Estereótipo](https://open.spotify.com/track/4LlPG12E6JJLbV9SmyDS1E) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 4:46 | 2023-09-18 | 2025-01-31 |
 | [Eu](https://open.spotify.com/track/540hxebLj7w5EHhVx0lUUv) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Srta\. Paola](https://open.spotify.com/artist/63ibOFnRUQhYy6s7xypyHe) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 4:57 | 2023-09-18 | 2025-06-30 |
-| [Eu Te Avisei](https://open.spotify.com/track/3dPygQx0ohogo6TwFCiJR3) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 4:00 | 2024-03-05 |  |
+| [Eu Te Avisei](https://open.spotify.com/track/3dPygQx0ohogo6TwFCiJR3) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 4:00 | 2024-03-05 | 2026-07-12 |
 | [Fiquei assim](https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Fiquei assim](https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN) | 3:38 | 2026-03-03 |  |
 | [Frustração](https://open.spotify.com/track/1xKDCXGgQvox1Kv4ez7hs4) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Portal](https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf) | 3:07 | 2024-08-11 | 2024-09-08 |
 | [Futuros Ancestrais](https://open.spotify.com/track/1NGm9FsyN9yzJ6kMUQUtav) | [Thiago Elniño](https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Daúde](https://open.spotify.com/artist/2k8L3UVACU2peplfnHAFb0), [ZucaBeatz](https://open.spotify.com/artist/62Lt5eSVlvLLuRM12qBTIV) | [Canjerê](https://open.spotify.com/album/2usxZrlp6sPvWjp3qGNSOC) | 3:07 | 2026-04-18 |  |
@@ -127,6 +127,7 @@
 | [Virando a Mesa](https://open.spotify.com/track/2utZpgJA3ajxmGpJ8TOSUR) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Daniel Cohen](https://open.spotify.com/artist/3iJIROwAPLVwQIjZN8minH) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 4:21 | 2023-09-18 |  |
 | [Vão](https://open.spotify.com/track/4Jwt9IFBRD3vE0BxosMUB8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Jota Guetto](https://open.spotify.com/artist/5ivBmxg3ntlqNqWkIuv6P2) | [Seis Sons](https://open.spotify.com/album/5TuZ4UVa6g5ZtGBe9YOPKY) | 3:31 | 2024-06-27 | 2024-07-01 |
 | [Vício](https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:55 | 2023-09-18 |  |
+| [YOWA](https://open.spotify.com/track/6Gug8fojZkrU0IkeMBaPwS) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Pai David Dias](https://open.spotify.com/artist/7oGqRZT9SalCTee9GqD3KG) | [YOWA](https://open.spotify.com/album/4o7X9zjerNUyY0MXKHSLQd) | 4:19 | 2026-07-12 |  |
 | [¿Te Quedas Conmigo?](https://open.spotify.com/track/623XPwxBQuqKe7YPwYrQl0) | [Canal RCN](https://open.spotify.com/artist/1H4lcG48Xmqp5SmFwgwuYL), [Ailén](https://open.spotify.com/artist/6EBltB8KhOI3eluJ5pR8kM), [Rashid](https://open.spotify.com/artist/6ZtcElc1qZ9LXYEA1aTpiu) | [ROJO CARMESÍ](https://open.spotify.com/album/5Vga0Q1mohQ81WLTaWTHQj) | 2:29 | 2024-06-25 | 2025-05-07 |
 | [Éramos Iguais \(feat\. Daniela Araújo & Rashid\)](https://open.spotify.com/track/27YVyh5IDUSnjC23NlUfOw) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Boaz Novaz](https://open.spotify.com/album/1POssn3x8pJZztmDsUFXUM) | 4:27 | 2023-09-18 | 2023-11-11 |
 

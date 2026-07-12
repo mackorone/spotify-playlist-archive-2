@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Quiet Houses
 
-2,466 songs - 5 day 11 hr 26 min
+2,467 songs - 5 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1227,6 +1227,7 @@
 | [Kinko's field trip 2006](https://open.spotify.com/track/0HPNtkVFdg7vB5fKXSABfn) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Kinko's field trip 2006](https://open.spotify.com/album/7nnmPQgX7VcKpCA0M5cMD8) | 2:31 | 2021-03-07 | 2021-05-27 |
 | [kiss goodbye](https://open.spotify.com/track/2fv6il8oAlsoOP7sKohscF) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [kiss goodbye / brb](https://open.spotify.com/album/45omOM9b7ujbjudttnasFa) | 2:43 | 2026-04-10 | 2026-05-16 |
 | [Kiss Me When I'm Dead](https://open.spotify.com/track/1xc9R2MMnU9KtTWIPFoiJ0) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Kiss Me When I'm Dead](https://open.spotify.com/album/2gishbSfxJCY21C7hUEwyv) | 2:30 | 2021-09-28 | 2021-10-16 |
+| [kiss of life\. \(you’re kinda magical\)](https://open.spotify.com/track/4cW17k9yriRkF6j2hz4LPY) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [kiss of life\. \(you’re kinda magical\)](https://open.spotify.com/album/44FQgX6FgSOEQSvdm0WG9M) | 3:18 | 2026-07-03 |  |
 | [Kiss&Tell](https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9) | [GUINEVERE](https://open.spotify.com/artist/1aLFv51RG1QPZfYtlF8ood) | [Kiss&Tell](https://open.spotify.com/album/5CgOkBTj7cHrqC6r5O3SzR) | 3:45 | 2026-03-27 | 2026-06-18 |
 | [kissy kissy](https://open.spotify.com/track/4jhcEBwfAl4n6nAG1F4QT3) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [evil twin](https://open.spotify.com/album/0veq4sEuFjopH21yI3u7QH) | 2:26 | 2021-02-19 | 2022-05-21 |
 | [know that you're not alone](https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [know that you're not alone](https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl) | 2:56 | 2023-11-06 | 2024-07-18 |
@@ -2061,7 +2062,7 @@
 | [Stuck in the Middle](https://open.spotify.com/track/0kJkiYAvGPwxcMgVznuS8T) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [When I Close My Eyes](https://open.spotify.com/album/2Hlkq5I3ntvKGPJq130yzF) | 2:21 | 2022-05-06 | 2022-06-20 |
 | [stuck on us](https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [stuck on us](https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN) | 2:55 | 2022-03-18 | 2022-12-02 |
 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2023-06-02 | 2024-04-27 |
-| [Stupid Bitches](https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Stupid Bitches](https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP) | 3:31 | 2026-02-20 |  |
+| [Stupid Bitches](https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Stupid Bitches](https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP) | 3:31 | 2026-02-20 | 2026-07-12 |
 | [Stupid Boys](https://open.spotify.com/track/3VVTR5byzYX15kSLhENnVN) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Stupid Boys](https://open.spotify.com/album/0njsUW4yb3wviV0Ulopvfk) | 2:13 | 2020-10-13\* | 2021-02-27 |
 | [Subject](https://open.spotify.com/track/2jI4keyUwCmnn6kqA4GlAc) | [Fran Vasilić](https://open.spotify.com/artist/08xR1XU2SWgC2K0yx6lEYm) | [The Very Last Thoughts on Earth](https://open.spotify.com/album/0dDAfkBPnOP70LE5IhqoPY) | 3:35 | 2022-07-22 | 2022-08-06 |
 | [Suburbia](https://open.spotify.com/track/5zYpWznknMJkx7ovNZLbuk) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Suburbia](https://open.spotify.com/album/4KxbjJWoj2GruaXllzGApE) | 3:34 | 2026-06-26 |  |

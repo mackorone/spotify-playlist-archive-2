@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > We're born naked and the rest is drag\. Cover: The Vivienne
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,012 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,015 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,12 +80,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 70 | [Gratify](https://open.spotify.com/track/3oAa776TeEtmmbvJ7fH4Bt) | [Divina De Campo](https://open.spotify.com/artist/2aQPlCSNFXtHbem9TfV8Y9) | [GRATIFY](https://open.spotify.com/album/4p8gkNRIpOy9OkbxDXhUwx) | 3:35 |
 | 71 | [Stars](https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m) | [Veronica Green](https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl) | [Stars](https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G) | 4:11 |
 | 72 | [I Got You](https://open.spotify.com/track/2rSE4Hl1vnWQhRbbUH0bhb) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva), [Billy Cullum](https://open.spotify.com/artist/4io2LV6Cv46tjHIMSDie5k) | [Part 1: The Damage](https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL) | 2:53 |
-| 73 | [It's Chocolate](https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89) | [LaLa Ri](https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz) | [It's Chocolate](https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF) | 2:39 |
-| 74 | [Ornacia](https://open.spotify.com/track/3P7De9YTBIt5jfrZepoWVA) | [Vivacious](https://open.spotify.com/artist/17f5kPkp5H8UHtz31e9MAp) | [Ornacia](https://open.spotify.com/album/69LWtOGlMSCXJest9Zzmv7) | 4:46 |
+| 73 | [Ornacia](https://open.spotify.com/track/3P7De9YTBIt5jfrZepoWVA) | [Vivacious](https://open.spotify.com/artist/17f5kPkp5H8UHtz31e9MAp) | [Ornacia](https://open.spotify.com/album/69LWtOGlMSCXJest9Zzmv7) | 4:46 |
+| 74 | [It's Chocolate](https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89) | [LaLa Ri](https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz) | [It's Chocolate](https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF) | 2:39 |
 | 75 | [Here For It](https://open.spotify.com/track/0WMcCCWggt6q9pCBVLBmwN) | [Peppermint](https://open.spotify.com/artist/4Cy4hqXIcD2Gz4NGgbNSw6) | [Here For It](https://open.spotify.com/album/0vLZFcJpMsjOsublHTFjIk) | 2:59 |
 | 76 | [Stars \- Disco Mix](https://open.spotify.com/track/0NUqxqzbiABToJega47uSY) | [Veronica Green](https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl) | [Stars \(Disco Mix\)](https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY) | 4:12 |
-| 77 | [Sissy That Walk](https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Born Naked](https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7) | 3:32 |
-| 78 | [Come Together](https://open.spotify.com/track/7j9IL3tollUsa8Bkm5W32s) | [Sherry Vine](https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s) | [Come Together](https://open.spotify.com/album/2a64YiIwjhOm2XrphHlPYc) | 2:41 |
+| 77 | [Come Together](https://open.spotify.com/track/7j9IL3tollUsa8Bkm5W32s) | [Sherry Vine](https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s) | [Come Together](https://open.spotify.com/album/2a64YiIwjhOm2XrphHlPYc) | 2:41 |
+| 78 | [Sissy That Walk](https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Born Naked](https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7) | 3:32 |
 | 79 | [Low](https://open.spotify.com/track/2TqWayWYGNjqfTpapyveyu) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Straight Outta Oz \(Deluxe Edition\)](https://open.spotify.com/album/3UeUYonBAGu7lZi0706Vdb) | 3:21 |
 | 80 | [I Adore U](https://open.spotify.com/track/3OJ34PxLlQZX8l6Ku0tyTF) | [Adore Delano](https://open.spotify.com/artist/3tdsh4B7GuigHI4vPtUs87) | [Till Death Do Us Party](https://open.spotify.com/album/1fjGYWLyDPItMHLbu2QMeQ) | 3:42 |
 

@@ -1,6 +1,6 @@
 {
   "description": "focus modus is aan en leren maar",
-  "num_followers": 43506,
+  "num_followers": 43500,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-07-02 22:01:20",
       "album": {
-        "name": "Electric Light",
-        "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 181360,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY"
-    },
-    {
-      "added_at": "2026-07-02 22:01:20",
-      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+    },
+    {
+      "added_at": "2026-07-02 22:01:20",
+      "album": {
+        "name": "Electric Light",
+        "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 181360,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY"
     },
     {
       "added_at": "2026-07-02 22:01:20",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-07-02 22:01:20",
       "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        }
-      ],
-      "duration_ms": 224743,
-      "name": "You Said You'd Grow Old With Me",
-      "url": "https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL"
-    },
-    {
-      "added_at": "2026-07-02 22:01:20",
-      "album": {
         "name": "Our Song",
         "url": "https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 163733,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn"
+    },
+    {
+      "added_at": "2026-07-02 22:01:20",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 224743,
+      "name": "You Said You'd Grow Old With Me",
+      "url": "https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL"
     },
     {
       "added_at": "2026-07-02 22:01:20",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-07-02 22:01:20",
       "album": {
-        "name": "Woman I Am",
-        "url": "https://open.spotify.com/album/2sgEblpbAegLtRuCpHJl70"
-      },
-      "artists": [
-        {
-          "name": "Skye Newman",
-          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
-        }
-      ],
-      "duration_ms": 211078,
-      "name": "Woman I Am",
-      "url": "https://open.spotify.com/track/7JDJimCnfNpiReuMNPXIVJ"
-    },
-    {
-      "added_at": "2026-07-02 22:01:20",
-      "album": {
         "name": "Biblical",
         "url": "https://open.spotify.com/album/4GWFMj7p4nXeRkHs3k8vSH"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 229673,
       "name": "Biblical",
       "url": "https://open.spotify.com/track/1rPiAgK5DD2ve9aPujSJB7"
+    },
+    {
+      "added_at": "2026-07-02 22:01:20",
+      "album": {
+        "name": "Woman I Am",
+        "url": "https://open.spotify.com/album/2sgEblpbAegLtRuCpHJl70"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "duration_ms": 211078,
+      "name": "Woman I Am",
+      "url": "https://open.spotify.com/track/7JDJimCnfNpiReuMNPXIVJ"
     },
     {
       "added_at": "2026-07-02 22:01:20",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2026-07-02 22:01:20",
       "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/3O566wiW97oPoP3QzSYF7P"
-      },
-      "artists": [
-        {
-          "name": "HAEVN",
-          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
-        }
-      ],
-      "duration_ms": 213546,
-      "name": "Fortitude",
-      "url": "https://open.spotify.com/track/7DVDhXLWkxtUVNHqXtJEpb"
-    },
-    {
-      "added_at": "2026-07-02 22:01:20",
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/0PKJ1GtB1639K7P0hbjvfM"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 247842,
       "name": "Always",
       "url": "https://open.spotify.com/track/3MQMBm2m3UqpT23doEOZc2"
+    },
+    {
+      "added_at": "2026-07-02 22:01:20",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/3O566wiW97oPoP3QzSYF7P"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        }
+      ],
+      "duration_ms": 213546,
+      "name": "Fortitude",
+      "url": "https://open.spotify.com/track/7DVDhXLWkxtUVNHqXtJEpb"
     },
     {
       "added_at": "2026-07-02 22:01:20",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2026-07-02 22:01:20",
       "album": {
-        "name": "Freya Ridings",
-        "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
-      },
-      "artists": [
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        }
-      ],
-      "duration_ms": 225853,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
-    },
-    {
-      "added_at": "2026-07-02 22:01:20",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 285040,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB"
+    },
+    {
+      "added_at": "2026-07-02 22:01:20",
+      "album": {
+        "name": "Freya Ridings",
+        "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "duration_ms": 225853,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
     },
     {
       "added_at": "2026-07-02 22:01:20",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2026-07-02 22:01:20",
       "album": {
-        "name": "hopeless fountain kingdom (Deluxe)",
-        "url": "https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 220540,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/44n97yHySt0Z9rqPaXgjCK"
-    },
-    {
-      "added_at": "2026-07-02 22:01:20",
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 290900,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl"
+    },
+    {
+      "added_at": "2026-07-02 22:01:20",
+      "album": {
+        "name": "hopeless fountain kingdom (Deluxe)",
+        "url": "https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 220540,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/44n97yHySt0Z9rqPaXgjCK"
     },
     {
       "added_at": "2026-07-02 22:01:20",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2026-07-02 22:01:20",
       "album": {
-        "name": "Dancing On My Own",
-        "url": "https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 260004,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ"
-    },
-    {
-      "added_at": "2026-07-02 22:01:20",
-      "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 189000,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf"
+    },
+    {
+      "added_at": "2026-07-02 22:01:20",
+      "album": {
+        "name": "Dancing On My Own",
+        "url": "https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 260004,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ"
     },
     {
       "added_at": "2026-07-02 22:01:20",
@@ -2619,38 +2619,6 @@
     {
       "added_at": "2026-07-02 22:01:20",
       "album": {
-        "name": "All In Good Time",
-        "url": "https://open.spotify.com/album/6buecvSq8FY2bRYSpBj4YE"
-      },
-      "artists": [
-        {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
-        }
-      ],
-      "duration_ms": 225065,
-      "name": "Brick By Brick",
-      "url": "https://open.spotify.com/track/1et21CEjWh8BO5nrdV4CNQ"
-    },
-    {
-      "added_at": "2026-07-02 22:01:20",
-      "album": {
-        "name": "7 Layers",
-        "url": "https://open.spotify.com/album/6j7rolGd1DxrUDzo2XfC8z"
-      },
-      "artists": [
-        {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
-        }
-      ],
-      "duration_ms": 209687,
-      "name": "Hungry",
-      "url": "https://open.spotify.com/track/5Va4EmNp4g8lniR5MiR4oT"
-    },
-    {
-      "added_at": "2026-07-02 22:01:20",
-      "album": {
         "name": "Feline (Deluxe)",
         "url": "https://open.spotify.com/album/0AbUYFSGVNegJoajijrRvM"
       },
@@ -2683,6 +2651,54 @@
       "duration_ms": 271813,
       "name": "Beneath Your Beautiful (feat. Emeli Sand\u00e9)",
       "url": "https://open.spotify.com/track/1wVcLKdJ4AFKPhKucNvEpy"
+    },
+    {
+      "added_at": "2026-07-02 22:01:20",
+      "album": {
+        "name": "All In Good Time",
+        "url": "https://open.spotify.com/album/6buecvSq8FY2bRYSpBj4YE"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "duration_ms": 225065,
+      "name": "Brick By Brick",
+      "url": "https://open.spotify.com/track/1et21CEjWh8BO5nrdV4CNQ"
+    },
+    {
+      "added_at": "2026-07-02 22:01:20",
+      "album": {
+        "name": "You Let Me Walk Alone",
+        "url": "https://open.spotify.com/album/2zxvzQeDY4lmXsJnS6Hxun"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 177886,
+      "name": "You Let Me Walk Alone",
+      "url": "https://open.spotify.com/track/2VE2Ys42iJr9q9rVucRJT4"
+    },
+    {
+      "added_at": "2026-07-02 22:01:20",
+      "album": {
+        "name": "7 Layers",
+        "url": "https://open.spotify.com/album/6j7rolGd1DxrUDzo2XfC8z"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "duration_ms": 209687,
+      "name": "Hungry",
+      "url": "https://open.spotify.com/track/5Va4EmNp4g8lniR5MiR4oT"
     },
     {
       "added_at": "2026-07-02 22:01:20",
@@ -2747,22 +2763,6 @@
       "duration_ms": 214285,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/58GufL5ouunj41e6QV65bw"
-    },
-    {
-      "added_at": "2026-07-02 22:01:20",
-      "album": {
-        "name": "You Let Me Walk Alone",
-        "url": "https://open.spotify.com/album/2zxvzQeDY4lmXsJnS6Hxun"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        }
-      ],
-      "duration_ms": 177886,
-      "name": "You Let Me Walk Alone",
-      "url": "https://open.spotify.com/track/2VE2Ys42iJr9q9rVucRJT4"
     },
     {
       "added_at": "2026-07-02 22:01:20",

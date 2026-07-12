@@ -1,18 +1,18 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 509335,
+  "num_followers": 509367,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAAChuiKABUbnxsOgwuzhijTr",
+  "snapshot_id": "alA2AAAAAAD8r/AU5YRoGGub26U82/7M",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "That's All I Ask (HAAi Remix)",
-        "url": "https://open.spotify.com/album/1n539cmpnAuEu6v9WS0gxX"
+        "name": "Tell Me More And More And Then Some (dublon Remix)",
+        "url": "https://open.spotify.com/album/4mX3k5E8iVScFeD6ghkalz"
       },
       "artists": [
         {
@@ -20,13 +20,13 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         },
         {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
         }
       ],
-      "duration_ms": 257741,
-      "name": "That's All I Ask - HAAi Remix / Edit",
-      "url": "https://open.spotify.com/track/40qN3XgBBaq3AtD4a6ArJc"
+      "duration_ms": 151260,
+      "name": "Tell Me More And More And Then Some - dublon Remix",
+      "url": "https://open.spotify.com/track/3MRACcCmiYbeNkFiF3sNu1"
     },
     {
       "added_at": null,
@@ -207,6 +207,22 @@
       "duration_ms": 158200,
       "name": "Nobody Knows You When You're Down And Out",
       "url": "https://open.spotify.com/track/5yMRZqh2HCo5NFbLNt6sD1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 147906,
+      "name": "That's All I Ask",
+      "url": "https://open.spotify.com/track/5uI8omnLtzW4xTqJ5AoQtT"
     },
     {
       "added_at": null,
@@ -555,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Is The Wind",
-        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
+        "name": "Here Comes The Sun (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
       },
       "artists": [
         {
@@ -564,9 +580,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 253800,
-      "name": "Lilac Wine",
-      "url": "https://open.spotify.com/track/3Hi4KlRtdgJbyIUpeFBckY"
+      "duration_ms": 231346,
+      "name": "Tell It Like It Is",
+      "url": "https://open.spotify.com/track/30N5YD1KEtQM2dajFWb0TH"
     },
     {
       "added_at": null,
@@ -587,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Comes The Sun (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
       },
       "artists": [
         {
@@ -596,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 231346,
-      "name": "Tell It Like It Is",
-      "url": "https://open.spotify.com/track/30N5YD1KEtQM2dajFWb0TH"
+      "duration_ms": 253800,
+      "name": "Lilac Wine",
+      "url": "https://open.spotify.com/track/3Hi4KlRtdgJbyIUpeFBckY"
     },
     {
       "added_at": null,
@@ -615,6 +631,22 @@
       "duration_ms": 257624,
       "name": "Little Girl Blue (2013 - Remaster)",
       "url": "https://open.spotify.com/track/0fpohcklLKNLo3FyjVjEsE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here Comes The Sun (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 314840,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/2Yg4GGGKqGwoqM5OgdhpAj"
     },
     {
       "added_at": null,
@@ -651,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Comes The Sun (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 314840,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/2Yg4GGGKqGwoqM5OgdhpAj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Put A Spell On You",
         "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
@@ -679,6 +695,22 @@
       "duration_ms": 160933,
       "name": "You've Got To Learn",
       "url": "https://open.spotify.com/track/5mUuJ9ho28WRUv03odBCBb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here Comes The Sun (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 290080,
+      "name": "Just Like a Woman",
+      "url": "https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p"
     },
     {
       "added_at": null,
@@ -711,22 +743,6 @@
       "duration_ms": 416693,
       "name": "Wild Is The Wind",
       "url": "https://open.spotify.com/track/3muwYfpLZGYsvrrssEzrxF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here Comes The Sun (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 290080,
-      "name": "Just Like a Woman",
-      "url": "https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p"
     },
     {
       "added_at": null,
@@ -799,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pastel Blues",
-        "url": "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z"
+        "name": "Nina Simone & Piano (Expanded Edition)",
+        "url": "https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM"
       },
       "artists": [
         {
@@ -808,25 +824,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 187973,
-      "name": "Tell Me More And More And Then Some",
-      "url": "https://open.spotify.com/track/1BvVRBs78RsBbZE59i6zjH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Silk & Soul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 168240,
-      "name": "Go to Hell",
-      "url": "https://open.spotify.com/track/0xJIP7dF3yRrL2FUKQF4IO"
+      "duration_ms": 200040,
+      "name": "I Think It's Going to Rain Today",
+      "url": "https://open.spotify.com/track/6GWLNfRviT4S82inkxvXV8"
     }
   ],
   "unique_name": "This Is Nina Simone",

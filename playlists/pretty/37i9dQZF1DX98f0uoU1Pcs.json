@@ -1,6 +1,6 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: YHWH Nailgun",
-  "num_followers": 295525,
+  "num_followers": 295521,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-07-10 04:01:08",
       "album": {
-        "name": "The Radiator",
-        "url": "https://open.spotify.com/album/7ualbLUCW7009ZpbnOgNCW"
-      },
-      "artists": [
-        {
-          "name": "Getdown Services",
-          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
-        }
-      ],
-      "duration_ms": 218073,
-      "name": "The Radiator",
-      "url": "https://open.spotify.com/track/10K97XTdPbgqXeQT8Lptzw"
-    },
-    {
-      "added_at": "2026-07-10 04:01:08",
-      "album": {
         "name": "Voyager",
         "url": "https://open.spotify.com/album/0aP1rf4Xix1A4oG6q2SfWy"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 247166,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/4YZ7rGwFbbbOTJZECr4T8W"
+    },
+    {
+      "added_at": "2026-07-10 04:01:08",
+      "album": {
+        "name": "The Radiator",
+        "url": "https://open.spotify.com/album/7ualbLUCW7009ZpbnOgNCW"
+      },
+      "artists": [
+        {
+          "name": "Getdown Services",
+          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
+        }
+      ],
+      "duration_ms": 218073,
+      "name": "The Radiator",
+      "url": "https://open.spotify.com/track/10K97XTdPbgqXeQT8Lptzw"
     },
     {
       "added_at": "2026-07-10 04:01:08",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-07-10 04:01:08",
       "album": {
-        "name": "No One Was Driving The Car",
-        "url": "https://open.spotify.com/album/5OUlsu7mgYMtKykXbbwvnN"
-      },
-      "artists": [
-        {
-          "name": "La Dispute",
-          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
-        }
-      ],
-      "duration_ms": 198541,
-      "name": "Man with Hands and Ankles Bound",
-      "url": "https://open.spotify.com/track/2JoqNFdzlNjkLryxXDii1b"
-    },
-    {
-      "added_at": "2026-07-10 04:01:08",
-      "album": {
         "name": "Crystalpunk",
         "url": "https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 148072,
       "name": "Tongue",
       "url": "https://open.spotify.com/track/6s3L8c2gax4hCWZx5a7IqD"
+    },
+    {
+      "added_at": "2026-07-10 04:01:08",
+      "album": {
+        "name": "No One Was Driving The Car",
+        "url": "https://open.spotify.com/album/5OUlsu7mgYMtKykXbbwvnN"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "duration_ms": 198541,
+      "name": "Man with Hands and Ankles Bound",
+      "url": "https://open.spotify.com/track/2JoqNFdzlNjkLryxXDii1b"
     },
     {
       "added_at": "2026-07-10 04:01:08",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-07-10 04:01:08",
       "album": {
-        "name": "Hymns From The Hills",
-        "url": "https://open.spotify.com/album/4dZNUFOxYuI95VGMIMZ90Q"
-      },
-      "artists": [
-        {
-          "name": "Poison Ru\u00efn",
-          "url": "https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB"
-        }
-      ],
-      "duration_ms": 214186,
-      "name": "Lily Of The Valley",
-      "url": "https://open.spotify.com/track/569PU1VDhtz4dngaUwvUaC"
-    },
-    {
-      "added_at": "2026-07-10 04:01:08",
-      "album": {
         "name": "On the Intricate Inner Workings of the System",
         "url": "https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 266986,
       "name": "We Don't Care About That",
       "url": "https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL"
+    },
+    {
+      "added_at": "2026-07-10 04:01:08",
+      "album": {
+        "name": "Hymns From The Hills",
+        "url": "https://open.spotify.com/album/4dZNUFOxYuI95VGMIMZ90Q"
+      },
+      "artists": [
+        {
+          "name": "Poison Ru\u00efn",
+          "url": "https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Lily Of The Valley",
+      "url": "https://open.spotify.com/track/569PU1VDhtz4dngaUwvUaC"
     },
     {
       "added_at": "2026-07-10 04:01:08",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-07-10 04:01:08",
       "album": {
+        "name": "Poetry",
+        "url": "https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 189418,
+      "name": "Dog Days",
+      "url": "https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1"
+    },
+    {
+      "added_at": "2026-07-10 04:01:08",
+      "album": {
         "name": "EELS",
         "url": "https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 213904,
       "name": "Van Goes",
       "url": "https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP"
-    },
-    {
-      "added_at": "2026-07-10 04:01:08",
-      "album": {
-        "name": "Ember",
-        "url": "https://open.spotify.com/album/7v39mio0wBEBfW44yf39bE"
-      },
-      "artists": [
-        {
-          "name": "Iceage",
-          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
-        }
-      ],
-      "duration_ms": 205812,
-      "name": "Ember",
-      "url": "https://open.spotify.com/track/7jdLVBEhoDxGKdhfBEulzY"
     },
     {
       "added_at": "2026-07-10 04:01:08",
@@ -987,18 +987,18 @@
     {
       "added_at": "2026-07-10 04:01:08",
       "album": {
-        "name": "Poetry",
-        "url": "https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR"
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/7v39mio0wBEBfW44yf39bE"
       },
       "artists": [
         {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
         }
       ],
-      "duration_ms": 189418,
-      "name": "Dog Days",
-      "url": "https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1"
+      "duration_ms": 205812,
+      "name": "Ember",
+      "url": "https://open.spotify.com/track/7jdLVBEhoDxGKdhfBEulzY"
     },
     {
       "added_at": "2026-07-10 04:01:08",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-07-10 04:01:08",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
-      },
-      "artists": [
-        {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
-        }
-      ],
-      "duration_ms": 177975,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH"
-    },
-    {
-      "added_at": "2026-07-10 04:01:08",
-      "album": {
         "name": "This Could Be Texas",
         "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2026-07-10 04:01:08",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt"
+        "name": "Special",
+        "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
       },
       "artists": [
         {
-          "name": "Sorry",
-          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
         }
       ],
-      "duration_ms": 221412,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi"
+      "duration_ms": 177975,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH"
     },
     {
       "added_at": "2026-07-10 04:01:08",
@@ -1303,6 +1287,22 @@
       "duration_ms": 210968,
       "name": "Chevy",
       "url": "https://open.spotify.com/track/5JPlMByDvtriNCFh1JfXax"
+    },
+    {
+      "added_at": "2026-07-10 04:01:08",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "duration_ms": 221412,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi"
     },
     {
       "added_at": "2026-07-10 04:01:08",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2026-07-10 04:01:08",
       "album": {
-        "name": "Cutthroat",
-        "url": "https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE"
+        "name": "Cherry Picker",
+        "url": "https://open.spotify.com/album/3Rf4fvEkIrthJoknt3RjFF"
       },
       "artists": [
         {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+          "name": "Girl Tones",
+          "url": "https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6"
         }
       ],
-      "duration_ms": 189609,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z"
+      "duration_ms": 180469,
+      "name": "Cherry Picker",
+      "url": "https://open.spotify.com/track/1as1UY6mD5pM7W6dAGADNe"
     },
     {
       "added_at": "2026-07-10 04:01:08",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2026-07-10 04:01:08",
       "album": {
-        "name": "Cherry Picker",
-        "url": "https://open.spotify.com/album/3Rf4fvEkIrthJoknt3RjFF"
+        "name": "Cutthroat",
+        "url": "https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE"
       },
       "artists": [
         {
-          "name": "Girl Tones",
-          "url": "https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6"
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
         }
       ],
-      "duration_ms": 180469,
-      "name": "Cherry Picker",
-      "url": "https://open.spotify.com/track/1as1UY6mD5pM7W6dAGADNe"
+      "duration_ms": 189609,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z"
     },
     {
       "added_at": "2026-07-10 04:01:08",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-07-10 04:01:08",
       "album": {
-        "name": "Cutthroat",
-        "url": "https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 141240,
-      "name": "Cowards Around",
-      "url": "https://open.spotify.com/track/046dPCw2ZcqmD5oBcpOdBO"
-    },
-    {
-      "added_at": "2026-07-10 04:01:08",
-      "album": {
         "name": "Unbloom",
         "url": "https://open.spotify.com/album/5PgwGQCUIn7zXwoujJRjis"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2026-07-10 04:01:08",
       "album": {
-        "name": "Glass and Bones",
-        "url": "https://open.spotify.com/album/2TBOgMEKprOm6aJ8sKKp0O"
+        "name": "Cutthroat",
+        "url": "https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE"
       },
       "artists": [
         {
-          "name": "Makthaverskan",
-          "url": "https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E"
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
         }
       ],
-      "duration_ms": 227129,
-      "name": "Won't Wait",
-      "url": "https://open.spotify.com/track/3Z2Lc5LcPEd0tLisckRUxl"
+      "duration_ms": 141240,
+      "name": "Cowards Around",
+      "url": "https://open.spotify.com/track/046dPCw2ZcqmD5oBcpOdBO"
     },
     {
       "added_at": "2026-07-10 04:01:08",
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2026-07-10 04:01:08",
       "album": {
+        "name": "Glass and Bones",
+        "url": "https://open.spotify.com/album/2TBOgMEKprOm6aJ8sKKp0O"
+      },
+      "artists": [
+        {
+          "name": "Makthaverskan",
+          "url": "https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E"
+        }
+      ],
+      "duration_ms": 227129,
+      "name": "Won't Wait",
+      "url": "https://open.spotify.com/track/3Z2Lc5LcPEd0tLisckRUxl"
+    },
+    {
+      "added_at": "2026-07-10 04:01:08",
+      "album": {
         "name": "Ultra Violence / Appetite",
         "url": "https://open.spotify.com/album/1knLB4NojYvAH1vULgDuNz"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-07-10 04:01:08",
       "album": {
-        "name": "The Clip",
-        "url": "https://open.spotify.com/album/2kRRNohOweKVTXaRz0F87i"
-      },
-      "artists": [
-        {
-          "name": "Hockey Dad",
-          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
-        }
-      ],
-      "duration_ms": 165346,
-      "name": "Barn Boiler",
-      "url": "https://open.spotify.com/track/1woE6z4opFQcHAZALxuCxc"
-    },
-    {
-      "added_at": "2026-07-10 04:01:08",
-      "album": {
         "name": "Brown Paper Bag",
         "url": "https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 265000,
       "name": "Brown Paper Bag",
       "url": "https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu"
+    },
+    {
+      "added_at": "2026-07-10 04:01:08",
+      "album": {
+        "name": "The Clip",
+        "url": "https://open.spotify.com/album/2kRRNohOweKVTXaRz0F87i"
+      },
+      "artists": [
+        {
+          "name": "Hockey Dad",
+          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
+        }
+      ],
+      "duration_ms": 165346,
+      "name": "Barn Boiler",
+      "url": "https://open.spotify.com/track/1woE6z4opFQcHAZALxuCxc"
     },
     {
       "added_at": "2026-07-10 04:01:08",

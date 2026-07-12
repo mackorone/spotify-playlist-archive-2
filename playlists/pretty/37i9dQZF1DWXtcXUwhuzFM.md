@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Käärijä ja SANNI, Costi.\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,817 likes - 74 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,825 likes - 74 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 31 | [still time](https://open.spotify.com/track/5Vi64cAzZRH3ltG5BgtcZZ) | [june blue](https://open.spotify.com/artist/3MoaKoSe6ahht1SwcSp9GW) | [still time](https://open.spotify.com/album/783LSZDJRfWdtsgQURDIWg) | 3:14 |
 | 32 | [Kaikki menee](https://open.spotify.com/track/0dsybj7nzJELE93q9L03dI) | [Makea](https://open.spotify.com/artist/4mi6EIiP1h23Sa8MmE7gnN) | [Kaikki menee](https://open.spotify.com/album/4lw9NefnOHVyKJDrwWnYhy) | 2:50 |
 | 33 | [Kaikki tekee räppii](https://open.spotify.com/track/7BuMG1KYcXB5WtKQCeuUpN) | [Suoralinja](https://open.spotify.com/artist/5ezmOFEyBYnlpF0tpFA9rH), [Mvsno](https://open.spotify.com/artist/14t6WnmsiBMzvxqXdkH4Ca) | [Kaikki tekee räppii](https://open.spotify.com/album/5plQNuNyTwXFVvfzkKVEh6) | 3:13 |
-| 34 | [Making Edward](https://open.spotify.com/track/0TvGyJBkzp8l8vwtjcFqUO) | [Tursas](https://open.spotify.com/artist/1gaiUznTioZVqNkyNh89WY), [M\. Avelat](https://open.spotify.com/artist/4dQ9YodupEp21AqVHweukF) | [Edward EP](https://open.spotify.com/album/5KC6AcGJZEf9oQuXGSgEti) | 3:14 |
+| 34 | [Making Edward](https://open.spotify.com/track/0TvGyJBkzp8l8vwtjcFqUO) | [Tursas](https://open.spotify.com/artist/1gaiUznTioZVqNkyNh89WY), [M\. Avelat](https://open.spotify.com/artist/4dQ9YodupEp21AqVHweukF) | [Tursas & M\. Avelat esittää: Edward EP](https://open.spotify.com/album/5KC6AcGJZEf9oQuXGSgEti) | 3:14 |
 | 35 | [YÄK!](https://open.spotify.com/track/3J5WXlMHVyUdnbm1cqdNn0) | [Principle](https://open.spotify.com/artist/2nor5Qsz1UMEBYwBVRCDUf), [Massali](https://open.spotify.com/artist/18oBPoSwvQDy3M7mOGDAbi), [M.A.K.O.](https://open.spotify.com/artist/6ckWtkRYKKBAirn51pkR3C) | [YÄK!](https://open.spotify.com/album/7hmvOEq6PzJ7UXjkVoFLOV) | 3:47 |
 | 36 | [Get Me Down \(feat\. Jorja Smith\)](https://open.spotify.com/track/3b1YokXcQXYM5xH97Dp7UU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Get Me Down \(feat\. Jorja Smith\)](https://open.spotify.com/album/7jtKstOvFpbqMAZzV5hDjC) | 3:14 |
 | 37 | [TOKA](https://open.spotify.com/track/04GZbXYzX8Qiu3EpMtDBl5) | [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [TOKA](https://open.spotify.com/album/2nOFbs0Q59D6M1Swr1MbTk) | 2:39 |

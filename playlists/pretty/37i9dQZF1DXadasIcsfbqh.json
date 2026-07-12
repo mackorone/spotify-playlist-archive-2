@@ -1,6 +1,6 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Ne-Yo",
-  "num_followers": 253899,
+  "num_followers": 253926,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-07-10 04:01:47",
       "album": {
-        "name": "Bigger Houses",
-        "url": "https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 200346,
-      "name": "Save Me The Trouble",
-      "url": "https://open.spotify.com/track/1mbGClliIFnN06tuMdnkZn"
-    },
-    {
-      "added_at": "2026-07-10 04:01:47",
-      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 147866,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7"
+    },
+    {
+      "added_at": "2026-07-10 04:01:47",
+      "album": {
+        "name": "Bigger Houses",
+        "url": "https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 200346,
+      "name": "Save Me The Trouble",
+      "url": "https://open.spotify.com/track/1mbGClliIFnN06tuMdnkZn"
     },
     {
       "added_at": "2026-07-10 04:01:47",
@@ -1775,22 +1775,22 @@
     {
       "added_at": "2026-07-10 04:01:47",
       "album": {
-        "name": "All I Forgot",
-        "url": "https://open.spotify.com/album/439gP9SIn0l4lOAeK9i7YV"
+        "name": "GO HOME W U (WITH LAINEY WILSON)",
+        "url": "https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P"
       },
       "artists": [
         {
-          "name": "Ashley Cooke",
-          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         },
         {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 178326,
-      "name": "All I Forgot (feat. Joe Jonas)",
-      "url": "https://open.spotify.com/track/4fuLKB0OQsrvsPh9lQWepR"
+      "duration_ms": 227400,
+      "name": "GO HOME W U (WITH LAINEY WILSON)",
+      "url": "https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ"
     }
   ],
   "unique_name": "Pop Country",

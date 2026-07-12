@@ -1,29 +1,13 @@
 {
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
-  "num_followers": 70202,
+  "num_followers": 70214,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAACSb6zxvD5GqeECLjmHZAOx",
+  "snapshot_id": "alA2AAAAAADe/x4iRbR+XoCbZkPAh9Yq",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mandil",
-        "url": "https://open.spotify.com/album/1jbdYNmAejdY9VhWC1VQ9C"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 171025,
-      "name": "El Mandil",
-      "url": "https://open.spotify.com/track/3AlRtwYO85qQROISP5u18A"
-    },
     {
       "added_at": null,
       "album": {
@@ -603,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Volviera A Nacer",
-        "url": "https://open.spotify.com/album/5JC9KW4SpPmvzWbjIxCbKR"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 215527,
-      "name": "Dime Ven",
-      "url": "https://open.spotify.com/track/0fTpH1N9wxyc3GiUTYxhi2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gracias Mujer",
         "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
       },
@@ -631,6 +599,22 @@
       "duration_ms": 178506,
       "name": "Mu\u00e9vete morena",
       "url": "https://open.spotify.com/track/7c4YD4Gr5vmemSYgsujpDN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/5JC9KW4SpPmvzWbjIxCbKR"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 215527,
+      "name": "Dime Ven",
+      "url": "https://open.spotify.com/track/0fTpH1N9wxyc3GiUTYxhi2"
     },
     {
       "added_at": null,
@@ -671,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las movidas de los machos",
-        "url": "https://open.spotify.com/album/2bYblCuXUCy0wxCIA4jAIu"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 158293,
-      "name": "El puchoncito",
-      "url": "https://open.spotify.com/track/34QLjltck9rUXp6XQKkRw4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gracias Mujer",
         "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
       },
@@ -699,6 +667,22 @@
       "duration_ms": 174866,
       "name": "Gracias mujer",
       "url": "https://open.spotify.com/track/6ky62QbRkQK6zYNuHexica"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las movidas de los machos",
+        "url": "https://open.spotify.com/album/2bYblCuXUCy0wxCIA4jAIu"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 158293,
+      "name": "El puchoncito",
+      "url": "https://open.spotify.com/track/34QLjltck9rUXp6XQKkRw4"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 176093,
       "name": "Te Lavaste la Cara y el Mono No (El Mono de Marciana)",
       "url": "https://open.spotify.com/track/6oJBFXFuovJM9bYyIWf9QH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A prueba de balas",
+        "url": "https://open.spotify.com/album/0dXYdDDNYFOdR0fLzMnlVx"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "A prueba de balas",
+      "url": "https://open.spotify.com/track/2KoqK3sE07EAA8OfC9NvsI"
     }
   ],
   "unique_name": "This Is Banda Machos",

@@ -1,12 +1,12 @@
 {
   "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 517269,
+  "num_followers": 517355,
   "original_name": "This Is Bring Me The Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAAAmsC46pa1uQ7acUAfucD3L",
+  "snapshot_id": "alA2AAAAAABQPuCuBV8L2LMGAw45ovbp",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 268181,
       "name": "Dehumanized",
       "url": "https://open.spotify.com/track/51dD8Lkie7e2ITDsB1y4Ui"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Count Your Blessings | Repented",
+        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 365774,
+      "name": "(I Used to Make Out With) Medusa - 2026 Repented",
+      "url": "https://open.spotify.com/track/0EaCnpPMhiGMLkGcaQfgv0"
     },
     {
       "added_at": null,
@@ -363,22 +379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "POST HUMAN: SURVIVAL HORROR",
-        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
+        "name": "Count Your Blessings | Repented",
+        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
       },
       "artists": [
         {
           "name": "Bring Me The Horizon",
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 220538,
-      "name": "Obey (with YUNGBLUD)",
-      "url": "https://open.spotify.com/track/6MD6xpFK4cfquxRqXxqwjq"
+      "duration_ms": 131940,
+      "name": "A Lot Like Vegas - 2026 Repented",
+      "url": "https://open.spotify.com/track/2eVe1iElkSZB34FmsiHT9V"
     },
     {
       "added_at": null,
@@ -415,6 +427,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "POST HUMAN: SURVIVAL HORROR",
+        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 220538,
+      "name": "Obey (with YUNGBLUD)",
+      "url": "https://open.spotify.com/track/6MD6xpFK4cfquxRqXxqwjq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Count Your Blessings | Repented",
+        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 268740,
+      "name": "For Stevie Wonder's Eyes Only (Braille) - 2026 Repented",
+      "url": "https://open.spotify.com/track/3puxwm52DQKx5MP5GIO3eP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "amo",
         "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
       },
@@ -427,6 +475,22 @@
       "duration_ms": 271186,
       "name": "in the dark",
       "url": "https://open.spotify.com/track/4swVflM7KtMxzfHBWqPv9S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 195829,
+      "name": "sTraNgeRs",
+      "url": "https://open.spotify.com/track/7ojQB63aoM7jk5JsF4CRkj"
     },
     {
       "added_at": null,
@@ -467,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "POST HUMAN: NeX GEn",
-        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+        "name": "Count Your Blessings | Repented",
+        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
       },
       "artists": [
         {
@@ -476,9 +540,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 195829,
-      "name": "sTraNgeRs",
-      "url": "https://open.spotify.com/track/7ojQB63aoM7jk5JsF4CRkj"
+      "duration_ms": 219783,
+      "name": "Tell Slater Not to Wash His Dick - 2026 Repented",
+      "url": "https://open.spotify.com/track/64JZAC5iYe4eymrII98Fwg"
     },
     {
       "added_at": null,
@@ -515,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 240151,
-      "name": "Wonderwall - Spotify Singles",
-      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "There is a Hell Believe Me I've Seen It. There is a Heaven Let's Keep it a Secret",
         "url": "https://open.spotify.com/album/6JTBo69T5tEByZEEb4KZYl"
       },
@@ -543,6 +591,38 @@
       "duration_ms": 274133,
       "name": "It Never Ends",
       "url": "https://open.spotify.com/track/1ubPOjDpZ5GtGOW8dR4NOh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Count Your Blessings | Repented",
+        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 160627,
+      "name": "Dragon Slaying - 2026 Repented",
+      "url": "https://open.spotify.com/track/1h9wiXPEX1ZR2Jb60nFrqM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 240151,
+      "name": "Wonderwall - Spotify Singles",
+      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
     },
     {
       "added_at": null,
@@ -587,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Count Your Blessings",
-        "url": "https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS"
+        "name": "Count Your Blessings | Repented",
+        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
       },
       "artists": [
         {
@@ -596,9 +676,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 261733,
-      "name": "Pray for Plagues",
-      "url": "https://open.spotify.com/track/4hTn5kvaI6mTDckWU7gm91"
+      "duration_ms": 97839,
+      "name": "Slow Dance - 2026 Repented",
+      "url": "https://open.spotify.com/track/41Xk5FPVSwFQTeAmUKZ7jQ"
     },
     {
       "added_at": null,
@@ -635,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Count Your Blessings",
+        "url": "https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 261733,
+      "name": "Pray for Plagues",
+      "url": "https://open.spotify.com/track/4hTn5kvaI6mTDckWU7gm91"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Habits (feat. Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
       },
@@ -655,28 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo-files",
-        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Drxnk",
-          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
-        }
-      ],
-      "duration_ms": 206815,
-      "name": "1DayTheOnlyButterfliesLeftWillBInurChestAsuMarchTowards UrDeath.finx",
-      "url": "https://open.spotify.com/track/7KcdOYD9TFhDCuB60Tif7g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Count Your Blessings",
-        "url": "https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS"
+        "name": "Count Your Blessings | Repented",
+        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
       },
       "artists": [
         {
@@ -684,9 +760,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 269626,
-      "name": "For Stevie Wonder's Eyes Only (Braille)",
-      "url": "https://open.spotify.com/track/7EIVI3qWBiGDB6G2Wx5Bl3"
+      "duration_ms": 365535,
+      "name": "Off the Heezay - 2026 Repented",
+      "url": "https://open.spotify.com/track/4DfraA1wlMsbDLVvI5JwnA"
     },
     {
       "added_at": null,
@@ -703,98 +779,6 @@
       "duration_ms": 217424,
       "name": "mother tongue",
       "url": "https://open.spotify.com/track/5IwUFTiNkarb5HEtNRtRtc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suicide Season",
-        "url": "https://open.spotify.com/album/5gLPHzNPjPb2wfZRx7pwj6"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "Diamonds Aren't Forever",
-      "url": "https://open.spotify.com/track/60mHJRv2QF3mK8lgtYSGiF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo-files",
-        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Dimension 32",
-          "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
-        }
-      ],
-      "duration_ms": 209611,
-      "name": "followU.bnd",
-      "url": "https://open.spotify.com/track/2Bl0nrQIxBiL8q7PPfogkR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Count Your Blessings",
-        "url": "https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Tell Slater Not to Wash His Dick",
-      "url": "https://open.spotify.com/track/2AxduArp543ijR4B2I9ZPF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "amo",
-        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Rahzel",
-          "url": "https://open.spotify.com/artist/6vunRaBya0Sx6CMJZAlHTZ"
-        }
-      ],
-      "duration_ms": 240586,
-      "name": "heavy metal (feat. Rahzel)",
-      "url": "https://open.spotify.com/track/6baGTtDakSNvUfW3FJd8yX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ODYSSEY",
-        "url": "https://open.spotify.com/album/4nPyFynQj3tGWz1xNUiL5t"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 269220,
-      "name": "Slave to the Rithm",
-      "url": "https://open.spotify.com/track/0goDqcyuBPHdknwxaCkjcG"
     },
     {
       "added_at": null,
@@ -819,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Count Your Blessings",
-        "url": "https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS"
+        "name": "Suicide Season",
+        "url": "https://open.spotify.com/album/5gLPHzNPjPb2wfZRx7pwj6"
       },
       "artists": [
         {
@@ -828,29 +812,29 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 129866,
-      "name": "A Lot Like Vegas",
-      "url": "https://open.spotify.com/track/0n1HOrTBNb87Ozqqs5ZiZD"
+      "duration_ms": 228066,
+      "name": "Diamonds Aren't Forever",
+      "url": "https://open.spotify.com/track/60mHJRv2QF3mK8lgtYSGiF"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Bad Life",
-        "url": "https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6"
+        "name": "amo",
+        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
       },
       "artists": [
         {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        },
-        {
           "name": "Bring Me The Horizon",
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Rahzel",
+          "url": "https://open.spotify.com/artist/6vunRaBya0Sx6CMJZAlHTZ"
         }
       ],
-      "duration_ms": 226867,
-      "name": "Bad Life",
-      "url": "https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq"
+      "duration_ms": 240586,
+      "name": "heavy metal (feat. Rahzel)",
+      "url": "https://open.spotify.com/track/6baGTtDakSNvUfW3FJd8yX"
     },
     {
       "added_at": null,
@@ -864,13 +848,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Drxnk",
-          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+          "name": "Dimension 32",
+          "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
         }
       ],
-      "duration_ms": 218993,
-      "name": "DOOMED.errX",
-      "url": "https://open.spotify.com/track/6veSof7cuSd7lh43upiltK"
+      "duration_ms": 209611,
+      "name": "followU.bnd",
+      "url": "https://open.spotify.com/track/2Bl0nrQIxBiL8q7PPfogkR"
     }
   ],
   "unique_name": "This Is Bring Me The Horizon",

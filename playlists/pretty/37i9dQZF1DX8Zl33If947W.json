@@ -1,6 +1,6 @@
 {
   "description": "Deutschsprachige Liebeslieder, die mitten ins Herz gehen \u2665\ufe0f",
-  "num_followers": 208702,
+  "num_followers": 208752,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Du bist toll",
-        "url": "https://open.spotify.com/album/3BYma6wGIv3gyBSqnTsclv"
-      },
-      "artists": [
-        {
-          "name": "ENKAY",
-          "url": "https://open.spotify.com/artist/3ZR4DKb6szzEmIavtFES5j"
-        }
-      ],
-      "duration_ms": 164186,
-      "name": "Du bist toll",
-      "url": "https://open.spotify.com/track/6qdnFE7DmhNyXOuDKhtA0X"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Dein ist mein ganzes Herz",
         "url": "https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 213666,
       "name": "Dein ist mein ganzes Herz",
       "url": "https://open.spotify.com/track/030dULvYNT5n8vYpIak51w"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Du bist toll",
+        "url": "https://open.spotify.com/album/3BYma6wGIv3gyBSqnTsclv"
+      },
+      "artists": [
+        {
+          "name": "ENKAY",
+          "url": "https://open.spotify.com/artist/3ZR4DKb6szzEmIavtFES5j"
+        }
+      ],
+      "duration_ms": 164186,
+      "name": "Du bist toll",
+      "url": "https://open.spotify.com/track/6qdnFE7DmhNyXOuDKhtA0X"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "LIEBE IN GEFAHR",
-        "url": "https://open.spotify.com/album/1BDhpkMlQdbi4AAQlXKpHe"
-      },
-      "artists": [
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 164936,
-      "name": "Jeden Tag mehr",
-      "url": "https://open.spotify.com/track/2EOJi8TfW5kQ3NM2pk0y7p"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Schwarzes Herz",
         "url": "https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 168146,
       "name": "Wei\u00dfes Haus",
       "url": "https://open.spotify.com/track/2EbO8k2jAHVRMVvUB77nNt"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "LIEBE IN GEFAHR",
+        "url": "https://open.spotify.com/album/1BDhpkMlQdbi4AAQlXKpHe"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 164936,
+      "name": "Jeden Tag mehr",
+      "url": "https://open.spotify.com/track/2EOJi8TfW5kQ3NM2pk0y7p"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Diese Eine",
-        "url": "https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW"
-      },
-      "artists": [
-        {
-          "name": "Ivo Martin",
-          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
-        }
-      ],
-      "duration_ms": 138924,
-      "name": "Diese Eine",
-      "url": "https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Es ist Abend und wir sitzen bei mir",
         "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 180186,
       "name": "Katharina",
       "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Diese Eine",
+        "url": "https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "duration_ms": 138924,
+      "name": "Diese Eine",
+      "url": "https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Wei\u00dfe Haare",
-        "url": "https://open.spotify.com/album/0yE1tu84Ie5SjfpOmvoa2j"
-      },
-      "artists": [
-        {
-          "name": "Florian K\u00fcnstler",
-          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
-        }
-      ],
-      "duration_ms": 169775,
-      "name": "Wei\u00dfe Haare",
-      "url": "https://open.spotify.com/track/1MUMsiZAZ4qAEVKb51uKst"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Bambule",
         "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 254080,
       "name": "Liebes Lied",
       "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Wei\u00dfe Haare",
+        "url": "https://open.spotify.com/album/0yE1tu84Ie5SjfpOmvoa2j"
+      },
+      "artists": [
+        {
+          "name": "Florian K\u00fcnstler",
+          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
+        }
+      ],
+      "duration_ms": 169775,
+      "name": "Wei\u00dfe Haare",
+      "url": "https://open.spotify.com/track/1MUMsiZAZ4qAEVKb51uKst"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "June",
-        "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
-      },
-      "artists": [
-        {
-          "name": "becks",
-          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
-        }
-      ],
-      "duration_ms": 164840,
-      "name": "June",
-      "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Es ist Juli",
         "url": "https://open.spotify.com/album/4TSdsloInMbjQjj1Zf5KOD"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 215786,
       "name": "Regen und Meer",
       "url": "https://open.spotify.com/track/6fIGXxeU3C230sAm07WJxY"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
+      },
+      "artists": [
+        {
+          "name": "becks",
+          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
+        }
+      ],
+      "duration_ms": 164840,
+      "name": "June",
+      "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Wenn Worte meine Sprache w\u00e4ren",
-        "url": "https://open.spotify.com/album/2ai3kNWda8ZBpeL9Shfxbc"
-      },
-      "artists": [
-        {
-          "name": "Tim Bendzko",
-          "url": "https://open.spotify.com/artist/3xDVmZmDpaF1uuez2N7mKl"
-        }
-      ],
-      "duration_ms": 209480,
-      "name": "Wenn Worte meine Sprache w\u00e4ren",
-      "url": "https://open.spotify.com/track/3tIN1SDHpOb0vmnLHjL0IH"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "LIEBE",
         "url": "https://open.spotify.com/album/4N5wA71510rh5zJlRpgXAU"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 197218,
       "name": "Einmal",
       "url": "https://open.spotify.com/track/4MshU1BZjRZjXtoSpaOJlL"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Wenn Worte meine Sprache w\u00e4ren",
+        "url": "https://open.spotify.com/album/2ai3kNWda8ZBpeL9Shfxbc"
+      },
+      "artists": [
+        {
+          "name": "Tim Bendzko",
+          "url": "https://open.spotify.com/artist/3xDVmZmDpaF1uuez2N7mKl"
+        }
+      ],
+      "duration_ms": 209480,
+      "name": "Wenn Worte meine Sprache w\u00e4ren",
+      "url": "https://open.spotify.com/track/3tIN1SDHpOb0vmnLHjL0IH"
     },
     {
       "added_at": "2026-03-26 08:28:03",

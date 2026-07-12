@@ -4,12 +4,13 @@
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-122 songs - 6 hr 14 min
+123 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2POPS](https://open.spotify.com/track/6iXEuLEMkFhOjPTHdtJwOm) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [2POPS](https://open.spotify.com/album/3m6ZI3ziZdXZJKwJVZKghw) | 2:02 | 2026-05-24 |  |
 | [Adrenaline](https://open.spotify.com/track/0KCeHr5HbTyj3GQ4mzCXgW) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [NSFW](https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw) | 2:12 | 2025-02-11 | 2025-05-24 |
+| [AFFECTION](https://open.spotify.com/track/4Rvy8GeJtCFNBOB88fdmbU) | [$TARFACE](https://open.spotify.com/artist/1aAFxL6yILr1przXto9eyl), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [AFFECTION](https://open.spotify.com/album/5oD1LPc040XUltS10pavAM) | 2:48 | 2026-07-12 |  |
 | [AT THA PARTY](https://open.spotify.com/track/377dVGvTzyYem2eKZI08a0) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [FinallyFed](https://open.spotify.com/album/6qMYWYrxOA5EDNqRtyyG7C) | 2:11 | 2025-07-31 | 2025-09-19 |
 | [Ayo](https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 3:45 | 2023-06-07 |  |
 | [Ayy Ladies \(feat\. Tyga\)](https://open.spotify.com/track/4P6BuLsqtg5uISdE77ypI9) | [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [From Day 1](https://open.spotify.com/album/7co2UrRxl2TBgj3BCXIvnC) | 3:31 | 2023-06-07 |  |
@@ -109,7 +110,7 @@
 | [Spooky](https://open.spotify.com/track/2A84lw9cQnuW1BD4EWIjrs) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Spooky](https://open.spotify.com/album/6Vr1Oka5UO0OoUaI1uS9mP) | 2:18 | 2024-11-08 | 2024-12-11 |
 | [Startender \(feat\. Offset and Tyga\)](https://open.spotify.com/track/0jAfdqv18goRTUxm3ilRjb) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:12 | 2023-06-07 |  |
 | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY) | 3:33 | 2023-06-07 |  |
-| [Still Got It](https://open.spotify.com/track/51B1RzOwX8ybRMb66Rhsmu) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Careless World: Rise Of The Last King](https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva) | 3:44 | 2026-05-26 |  |
+| [Still Got It](https://open.spotify.com/track/51B1RzOwX8ybRMb66Rhsmu) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Careless World: Rise Of The Last King](https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva) | 3:44 | 2026-05-26 | 2026-07-12 |
 | [Sunshine](https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Sunshine](https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r) | 3:08 | 2023-06-07 |  |
 | [Sweet & Sour \(feat\. Lauv & Tyga\)](https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sweet & Sour \(feat\. Lauv & Tyga\)](https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL) | 2:43 | 2023-06-07 | 2026-01-30 |
 | [SWISH](https://open.spotify.com/track/0aJ2hFC6e9Z00Lx9RIRNcT) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Legendary \(Deluxe Edition\)](https://open.spotify.com/album/1dDfjR6KqXwa6I8XmPXnxr) | 3:14 | 2024-08-12 |  |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,100 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,104 likes - 90 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Testament](https://open.spotify.com/track/0iqLx1WpZdKT3E2oqLLO3f) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Voor De Overlevenden](https://open.spotify.com/album/1YMJs20ztVXARUtRGkRb0y) | 3:15 |
 | 2 | [Ben Ik Te Min](https://open.spotify.com/track/5s6yU2Gfs9oCTxiX2LNbHC) | [Armand](https://open.spotify.com/artist/2TjgWhGv4T3pGRalEQmiwV) | [Het Beste van Armand](https://open.spotify.com/album/3v789DbvAeqXKPoSwOC4q6) | 3:27 |
-| 3 | [Liefde Van Later](https://open.spotify.com/track/06IedMIA8r8jSgWzGcW6o5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 4:12 |
-| 4 | [Pastorale](https://open.spotify.com/track/50a6StrR0wfLLYKqBl1mvg) | [Liesbeth List](https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If), [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Ramses Shaffy \- Laat Me](https://open.spotify.com/album/68G1Wx6lZkRrw4Tn8W8Y73) | 4:16 |
+| 3 | [Pastorale](https://open.spotify.com/track/50a6StrR0wfLLYKqBl1mvg) | [Liesbeth List](https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If), [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Ramses Shaffy \- Laat Me](https://open.spotify.com/album/68G1Wx6lZkRrw4Tn8W8Y73) | 4:16 |
+| 4 | [Liefde Van Later](https://open.spotify.com/track/06IedMIA8r8jSgWzGcW6o5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 4:12 |
 | 5 | [De Glimlach Van Een Kind](https://open.spotify.com/track/0MGZGTjmBQGPuu0zFHQgkM) | [Willy Alberti](https://open.spotify.com/artist/4V3RSGZYyjAoaDrZqPmzUM) | [De Glimlach Van Een Kind](https://open.spotify.com/album/3WrB41PCSnKDQRj95rGpIq) | 2:40 |
 | 6 | [Welterusten Mijnheer De President](https://open.spotify.com/track/75MBgR1T83zzuYVyuW6B4q) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Boudewijn De Groot](https://open.spotify.com/album/6RWqHflqY4Y5AFmSfvVOiG) | 2:32 |
 | 7 | [Mama](https://open.spotify.com/track/27WUGJFJngruacvu2JmHAF) | [Heintje](https://open.spotify.com/artist/2V4AS8qG0fOsXkH1AgLlB8) | [Dit is Heintje](https://open.spotify.com/album/38abCgAMAs8vbbrhNkqvtN) | 2:31 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 43 | [Batje Vier](https://open.spotify.com/track/6wHgik0QnlKy02Nw4Xt4YP) | [Het Cocktail Trio](https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w) | [Hollands Glorie](https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8) | 2:46 |
 | 44 | [Hou Je Echt Nog Van Mij Rockin Billy !](https://open.spotify.com/track/32MfolngBWl0RVIOfWDIIu) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [De Mooiste Liedjes, Vol.1](https://open.spotify.com/album/5oZZQ6gRnhBlBDrrvVDPQA) | 3:17 |
 | 45 | [Mooier Dan Rode Rozen](https://open.spotify.com/track/4FV84ccMAe9cpTkMyiGGfx) | [De Heikrekels](https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR) | [Het Beste van De Heikrekels \- Instrumentaal](https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG) | 3:04 |
-| 46 | [Harlekino](https://open.spotify.com/track/3hWAY20gL1X8kKEeJ3khmT) | [Imca Marina](https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:21 |
-| 47 | [Tearoom\-Tango](https://open.spotify.com/track/3vJRgNNPQlhFzD4PWhIY45) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:15 |
+| 46 | [Tearoom\-Tango](https://open.spotify.com/track/3vJRgNNPQlhFzD4PWhIY45) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:15 |
+| 47 | [Harlekino](https://open.spotify.com/track/3hWAY20gL1X8kKEeJ3khmT) | [Imca Marina](https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:21 |
 | 48 | [Het vlooiencircus](https://open.spotify.com/track/4bB4yc7JEprJ4GEV19NRJl) | [Het Cocktail Trio](https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w) | [Hollands Glorie](https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8) | 2:52 |
 | 49 | [Swiebertje](https://open.spotify.com/track/6ffETXUkqnGug5hev2G765) | [Joop Doderer](https://open.spotify.com/artist/0mhSQKh1eYKzS0c92nyAYW), [De Damrakkertjes](https://open.spotify.com/artist/46LhiP5SPeewnIAcb4pTkg) | [Televisie\-Vriendjes](https://open.spotify.com/album/69LtdnsqRSOnHM8ZQdzfnV) | 2:39 |
 | 50 | [Tachtig Rode Rozen](https://open.spotify.com/track/7loJOA8d0eXsIsKr2xXBWX) | [Wilma](https://open.spotify.com/artist/5qfQ89hvnImhLth6VTewEi) | [Hollands Glorie](https://open.spotify.com/album/3XDzNzyKKI4VnFt1HmU81F) | 2:26 |

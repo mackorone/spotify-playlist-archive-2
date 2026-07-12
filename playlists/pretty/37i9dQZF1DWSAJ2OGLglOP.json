@@ -1,6 +1,6 @@
 {
   "description": "\u30c9\u30e9\u30a4\u30d6\u7528\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u6e0b\u6ede\u3082\u6c17\u306b\u305b\u305a\u3001\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u697d\u66f2\u3092\u30bb\u30ec\u30af\u30c8\u3002",
-  "num_followers": 112723,
+  "num_followers": 112726,
   "original_name": "Drive Loud!: \u30c9\u30e9\u30a4\u30d6\u30fb\u30e9\u30a6\u30c9",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-06-25 15:55:52",
       "album": {
-        "name": "Jealous Lover",
-        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 229994,
-      "name": "Jealous Lover",
-      "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
-    },
-    {
-      "added_at": "2026-06-25 15:55:52",
-      "album": {
         "name": "Take Off Your Pants And Jacket (25 Year Anniversary Edition)",
         "url": "https://open.spotify.com/album/5otlnw7SmrdBwk2Uywc7Bu"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 152375,
       "name": "Don't Tell Me It's Over",
       "url": "https://open.spotify.com/track/0mG6f89Na8qlcO9bcwEtWi"
+    },
+    {
+      "added_at": "2026-06-25 15:55:52",
+      "album": {
+        "name": "Jealous Lover",
+        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 229994,
+      "name": "Jealous Lover",
+      "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
     },
     {
       "added_at": "2026-06-25 15:55:52",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo"
     },
     {
-      "added_at": "2026-05-21 15:00:22",
-      "album": {
-        "name": "everyone for ten minutes",
-        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "we should talk",
-      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
-    },
-    {
       "added_at": "2026-04-27 06:02:35",
       "album": {
         "name": "\u3072\u307f\u3064\u30b9\u30bf\u30b8\u30aa",
@@ -895,6 +879,22 @@
       "duration_ms": 211920,
       "name": "\u7f8e\u3057\u3044\u9c2d",
       "url": "https://open.spotify.com/track/1H3qOzheTPhE7aVvJOWfvA"
+    },
+    {
+      "added_at": "2026-05-21 15:00:22",
+      "album": {
+        "name": "everyone for ten minutes",
+        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "we should talk",
+      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
     },
     {
       "added_at": "2026-04-27 06:02:35",
@@ -1013,6 +1013,38 @@
       "url": "https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj"
     },
     {
+      "added_at": "2026-07-09 15:00:39",
+      "album": {
+        "name": "Street Of Dreams",
+        "url": "https://open.spotify.com/album/1ivlBe4lilutfAmOoQWxxS"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 234657,
+      "name": "Street Of Dreams",
+      "url": "https://open.spotify.com/track/70X6SFkjCUZ0nRBUGXddTn"
+    },
+    {
+      "added_at": "2026-07-09 15:00:39",
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/1XXUdRkbwKWm8hCcHLwdGl"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 214534,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/4WOsZ7Rq8NmEiLpXM8Zvd5"
+    },
+    {
       "added_at": "2026-06-25 15:55:52",
       "album": {
         "name": "Kicking My Feet & Screaming",
@@ -1081,22 +1113,6 @@
       "url": "https://open.spotify.com/track/072A4O5qlR3zgf8hVQtssX"
     },
     {
-      "added_at": "2026-06-25 15:55:52",
-      "album": {
-        "name": "Puberty 2 (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1HgxS3QtHoYbHvmjtHnsci"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 109431,
-      "name": "Fireproof",
-      "url": "https://open.spotify.com/track/5zIK1hBFlopgt6hZHfuTon"
-    },
-    {
       "added_at": "2026-04-27 06:02:35",
       "album": {
         "name": "\u307e\u306a\u3056\u3057\u306f\u5149",
@@ -1113,20 +1129,20 @@
       "url": "https://open.spotify.com/track/0HI4lUmOWpFzxPB5NMlAXW"
     },
     {
-      "added_at": "2026-04-27 06:02:35",
+      "added_at": "2026-06-25 15:55:52",
       "album": {
-        "name": "Cold Night",
-        "url": "https://open.spotify.com/album/63WdFxvJi1f4U71Q4FsrpI"
+        "name": "Puberty 2 (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1HgxS3QtHoYbHvmjtHnsci"
       },
       "artists": [
         {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 192994,
-      "name": "Cold Night",
-      "url": "https://open.spotify.com/track/48Y23GvNKpVeXrMapKcPLP"
+      "duration_ms": 109431,
+      "name": "Fireproof",
+      "url": "https://open.spotify.com/track/5zIK1hBFlopgt6hZHfuTon"
     },
     {
       "added_at": "2026-04-27 06:02:35",
@@ -1147,6 +1163,22 @@
     {
       "added_at": "2026-04-27 06:02:35",
       "album": {
+        "name": "Cold Night",
+        "url": "https://open.spotify.com/album/63WdFxvJi1f4U71Q4FsrpI"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "duration_ms": 192994,
+      "name": "Cold Night",
+      "url": "https://open.spotify.com/track/48Y23GvNKpVeXrMapKcPLP"
+    },
+    {
+      "added_at": "2026-04-27 06:02:35",
+      "album": {
         "name": "Break My Heart",
         "url": "https://open.spotify.com/album/368tzVdeju4vLSY8PHnQUs"
       },
@@ -1159,38 +1191,6 @@
       "duration_ms": 221820,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA"
-    },
-    {
-      "added_at": "2026-04-27 06:02:35",
-      "album": {
-        "name": "\u821e\u53f0\u306b\u7acb\u3063\u3066",
-        "url": "https://open.spotify.com/album/3OId6Q1stp8y4QOnQUZ9ku"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 207958,
-      "name": "\u821e\u53f0\u306b\u7acb\u3063\u3066",
-      "url": "https://open.spotify.com/track/42lDvdAmBr7H5hLzvr882L"
-    },
-    {
-      "added_at": "2026-04-27 06:02:35",
-      "album": {
-        "name": "MAGIC",
-        "url": "https://open.spotify.com/album/5VbMiMMnFcLAI64OY6kxJC"
-      },
-      "artists": [
-        {
-          "name": "B'z",
-          "url": "https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc"
-        }
-      ],
-      "duration_ms": 249796,
-      "name": "\u30a4\u30c1\u30d6\u30c8\u30bc\u30f3\u30d6",
-      "url": "https://open.spotify.com/track/3IYcbagYZ9z1Svaw8B33Pd"
     }
   ],
   "unique_name": "Drive Loud!: \u30c9\u30e9\u30a4\u30d6\u30fb\u30e9\u30a6\u30c9",

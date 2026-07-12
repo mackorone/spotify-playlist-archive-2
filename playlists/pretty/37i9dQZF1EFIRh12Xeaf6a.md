@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,370 likes - 288 songs - 14 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,371 likes - 288 songs - 14 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,8 +160,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 150 | [I Won't Be the Same without Her \- 2006 Remaster](https://open.spotify.com/track/3LwfqUrcgPiZ5Bu7G0uZqm) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/1q1LuLo92N5cl5e0GKRq7h) | 2:41 |
 | 151 | [Avenue P](https://open.spotify.com/track/3rxuCpVMtDyzCPz6wJF4os) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 3:03 |
 | 152 | [Where Do I Go](https://open.spotify.com/track/3nMQI2dUZKh7VtBZZTeGLv) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Llllloco\-Motion](https://open.spotify.com/album/1e6fzvmRJi8r6TInJhimdj) | 2:12 |
-| 153 | [Yours Until Tomorrow \- Demo](https://open.spotify.com/track/1BoJQKxoIm4cU8nhCtEsv2) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [The Legendary Demos](https://open.spotify.com/album/2DitJu0CqkrvARSR02RmqX) | 3:16 |
-| 154 | [You Bet I Would](https://open.spotify.com/track/3zf7h56EgKQsJTGPFdKXaJ) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [What's So Sweet About Sweet Sixteen](https://open.spotify.com/album/70DWBXTHhuVDYYU3pXvFKZ) | 2:12 |
+| 153 | [You Bet I Would](https://open.spotify.com/track/3zf7h56EgKQsJTGPFdKXaJ) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [What's So Sweet About Sweet Sixteen](https://open.spotify.com/album/70DWBXTHhuVDYYU3pXvFKZ) | 2:12 |
+| 154 | [Yours Until Tomorrow \- Demo](https://open.spotify.com/track/1BoJQKxoIm4cU8nhCtEsv2) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [The Legendary Demos](https://open.spotify.com/album/2DitJu0CqkrvARSR02RmqX) | 3:16 |
 | 155 | [Like Little Children \- Demo](https://open.spotify.com/track/6lnEZVZbgjIF2ZZ3bsSGak) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [The Legendary Demos](https://open.spotify.com/album/2DitJu0CqkrvARSR02RmqX) | 3:12 |
 | 156 | [He's a Bad Boy](https://open.spotify.com/track/16rPqhuTKqG41N4tHUGzZN) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Breaking up Is Hard to Do](https://open.spotify.com/album/2Ea6BUGbGQL8tmPmhNN1gY) | 2:22 |
 | 157 | [My Simple Humble Neighborhood](https://open.spotify.com/track/2oVm7hqwMCrmYTnDHNpwSg) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 3:08 |
@@ -236,8 +236,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 226 | [Good Mountain People](https://open.spotify.com/track/7oFn8J65n3wwrALSVXpDEE) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:38 |
 | 227 | [Victim Of Circumstance](https://open.spotify.com/track/7jEQx0Bfy3aQF98m1PISHS) | [The City](https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O) | [Now That Everything's Been Said](https://open.spotify.com/album/1dhhTa6Pe8q3zd9zuuK5op) | 2:36 |
 | 228 | [Why Are You Leaving](https://open.spotify.com/track/4P9rAdHYFnYNbrISPudQx3) | [The City](https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O) | [Now That Everything's Been Said](https://open.spotify.com/album/1dhhTa6Pe8q3zd9zuuK5op) | 3:38 |
-| 229 | [Alabaster Lady](https://open.spotify.com/track/4we4nCRG5FpRxntNscoQIs) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Speeding Time](https://open.spotify.com/album/6lKblzPniPSFL5LetqvyhZ) | 5:38 |
-| 230 | [Three Minutes to Hey Girl](https://open.spotify.com/track/0ylOY1vQHu1g3JgS2aZK4d) | [George Kerr](https://open.spotify.com/artist/4E8q8KOAvuzuVSFKnfYAAk) | [Rhythm and Soul \- Sweet Love Songs](https://open.spotify.com/album/3z4kJ9G5YvC0UIpTqJxYvw) | 5:54 |
+| 229 | [Three Minutes to Hey Girl](https://open.spotify.com/track/0ylOY1vQHu1g3JgS2aZK4d) | [George Kerr](https://open.spotify.com/artist/4E8q8KOAvuzuVSFKnfYAAk) | [Rhythm and Soul \- Sweet Love Songs](https://open.spotify.com/album/3z4kJ9G5YvC0UIpTqJxYvw) | 5:54 |
+| 230 | [Alabaster Lady](https://open.spotify.com/track/4we4nCRG5FpRxntNscoQIs) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Speeding Time](https://open.spotify.com/album/6lKblzPniPSFL5LetqvyhZ) | 5:38 |
 | 231 | [Sunbird](https://open.spotify.com/track/45AGoSEHgUrxaAU0RMFVYS) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 4:05 |
 | 232 | [I Don't Believe It](https://open.spotify.com/track/4frZ34NLaDBpJe0UQzxNKa) | [The City](https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O) | [Now That Everything's Been Said](https://open.spotify.com/album/1dhhTa6Pe8q3zd9zuuK5op) | 2:43 |
 | 233 | [You Still Want Her](https://open.spotify.com/track/440S7nWdyhnm8aFq3v7k1t) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 4:39 |
@@ -297,4 +297,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 287 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 288 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcWg8gAAAADqFhHcK75vWKgMiNXdoRMj`
+Snapshot ID: `AcWmiAAAAACI+t3zTqn9u7qJHVvIBMOd`

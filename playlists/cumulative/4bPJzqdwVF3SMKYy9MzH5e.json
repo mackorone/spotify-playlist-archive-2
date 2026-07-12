@@ -10779,6 +10779,24 @@
     },
     {
       "album": {
+        "name": "CINNA",
+        "url": "https://open.spotify.com/album/4zPfDnzz6TWxxhITxpoYBf"
+      },
+      "artists": [
+        {
+          "name": "Cannelle",
+          "url": "https://open.spotify.com/artist/0wBhtCF5VHSgXPGm7xfDtg"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147600,
+      "name": "Dis-Moi",
+      "url": "https://open.spotify.com/track/5GgRZOMxH4Uly3nZa3BPWA"
+    },
+    {
+      "album": {
         "name": "Disaster",
         "url": "https://open.spotify.com/album/7CkXrZnfmghdA4n2YLTgag"
       },

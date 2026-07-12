@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,074 likes - 76 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,079 likes - 76 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 26 | [Learning the Blues \- En Vivo](https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf) | [Inés Estévez](https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq) | [Nude \(En Vivo\)](https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH) | 5:05 |
 | 27 | [Arenales Blues](https://open.spotify.com/track/5OoRI3CMMFFJOz619NVzXI) | [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Lua](https://open.spotify.com/album/593aZvfhvWuTuAtHrlOhbs) | 4:11 |
 | 28 | [El Regreso \(feat\. Martin Bejerano\)](https://open.spotify.com/track/35YdBVFv2Oij9ve8P6FP5F) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Martin Bejerano](https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb) | [ONTOLOGY](https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS) | 5:45 |
-| 29 | [Equinox](https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ) | [Nestor Astarita](https://open.spotify.com/artist/45y1rWlUfzQmyR3RLCHF3x), [Gato Barbieri](https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm) | [80 Años \- Jazztaríaenbaterita](https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo) | 6:53 |
-| 30 | [Sol La, Al Sol](https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb) | [Emilio Solla Tango Jazz Orchestra](https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE) | [Puertos: Music from International Waters](https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV) | 7:48 |
+| 29 | [Sol La, Al Sol](https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb) | [Emilio Solla Tango Jazz Orchestra](https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE) | [Puertos: Music from International Waters](https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV) | 7:48 |
+| 30 | [Equinox](https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ) | [Nestor Astarita](https://open.spotify.com/artist/45y1rWlUfzQmyR3RLCHF3x), [Gato Barbieri](https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm) | [80 Años \- Jazztaríaenbaterita](https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo) | 6:53 |
 | 31 | [Pop](https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Danza](https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN) | 4:40 |
 | 32 | [Full House \- Live](https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc) | [Valentino Jazz Bazar](https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm) | [Essence of Wes Montgomery \(Live in Thelonious Club, Buenos Aires, Argentina\)](https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH) | 4:46 |
 | 33 | [Last Happy Hour \(feat\. Martin Bejerano\)](https://open.spotify.com/track/4Vv73WKOQzQ9LxgpWyJ6nx) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Martin Bejerano](https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb) | [ONTOLOGY](https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS) | 5:50 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 43 | [Blue in Green \(Sky and Sea\)](https://open.spotify.com/track/2qpOQEkbIqbgYeO8TqmQPf) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n) | [ONTOLOGY](https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS) | 5:49 |
 | 44 | [Billie's Bounce](https://open.spotify.com/track/6DF9qquWlMN2bJGeXYOBDc) | [Alfredo Remus](https://open.spotify.com/artist/61rgv0cssjbKKpkESSnup3), [Manuel Fraga](https://open.spotify.com/artist/1AR4weKRSJg1NswV2HUjm8), [Oscar Giunta](https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P) | [Querido Bill : Tributo a Bill Evans](https://open.spotify.com/album/7hi7JxW5BDVbINzu79QVjQ) | 8:10 |
 | 45 | [Ausencias](https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT) | [Dino Saluzzi](https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz) | [Ausencias](https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM) | 4:58 |
-| 46 | [Estate](https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N) | [Marta Bellomo](https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm), [Alejandro Moro](https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8) | [Algo Bueno \- Something Good](https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5) | 9:32 |
-| 47 | [Cero](https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ) | [Commodore](https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN) | [Enero](https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b) | 6:52 |
+| 46 | [Cero](https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ) | [Commodore](https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN) | [Enero](https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b) | 6:52 |
+| 47 | [Estate](https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N) | [Marta Bellomo](https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm), [Alejandro Moro](https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8) | [Algo Bueno \- Something Good](https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5) | 9:32 |
 | 48 | [La Novena](https://open.spotify.com/track/0M8qsjYdr5qu2Z7TKGzTon) | [Emilio Solla Tango Jazz Orchestra](https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE) | [Puertos: Music from International Waters](https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV) | 6:45 |
 | 49 | [Cosa Panicosa](https://open.spotify.com/track/4Deax610yhq44o4ZMf3EB1) | [La Mujer Barbuda](https://open.spotify.com/artist/3HvB2sc3apk5kSg8dWQfaM) | [Cosa Panicosa](https://open.spotify.com/album/1ZrljHX2ziICBpnbADlIYm) | 6:28 |
 | 50 | [Comrade Conrad](https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p) | [Hernán Merlo](https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c) | [Solo](https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs) | 5:42 |

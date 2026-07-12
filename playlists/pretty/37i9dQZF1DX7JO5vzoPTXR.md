@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by Women! Co\-Curated this month by:  Carrie K
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,908 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,944 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 59 | [WWE](https://open.spotify.com/track/4oe7YRTpx8in784w0Ggxn1) | [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz) | [WWE](https://open.spotify.com/album/3tHsc212qluTxRO58PxzII) | 3:20 |
 | 60 | [Like My Mother](https://open.spotify.com/track/2zNuLLWvkMehRLKL1N3CTw) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l), [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Triple Shooting Star](https://open.spotify.com/album/1aKpJBuspv01k8rfpD4wqR) | 2:51 |
 
-Snapshot ID: `AAAAAEGQn6bIiz7SC0s1e0qjv++lYmog`
+Snapshot ID: `AAAAANsqMykcoQrSPBCT6p6OJIQy1XqK`

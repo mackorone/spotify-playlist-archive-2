@@ -1,6 +1,6 @@
 {
   "description": "Level up your gaming with these afro tracks. Cover: Asake",
-  "num_followers": 29705,
+  "num_followers": 29745,
   "original_name": "Afro Gaming ",
   "owner": {
     "name": "Spotify",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-06-08 13:47:37",
       "album": {
+        "name": "adedamola",
+        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 161086,
+      "name": "hell and back",
+      "url": "https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8"
+    },
+    {
+      "added_at": "2026-06-08 13:47:37",
+      "album": {
         "name": "PITY THIS BOY",
         "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 121061,
       "name": "Mortal Kombat",
       "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
-    },
-    {
-      "added_at": "2026-06-08 13:47:37",
-      "album": {
-        "name": "adedamola",
-        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 161086,
-      "name": "hell and back",
-      "url": "https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8"
     },
     {
       "added_at": "2026-06-08 13:47:37",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2026-06-08 13:47:37",
       "album": {
-        "name": "I knoww",
-        "url": "https://open.spotify.com/album/7fXaUu3blBnTT1VPi6OhLq"
-      },
-      "artists": [
-        {
-          "name": "EF Moon",
-          "url": "https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9"
-        },
-        {
-          "name": "Star Jay",
-          "url": "https://open.spotify.com/artist/1fuHb5TQ1r9wqAPx4jgx8D"
-        }
-      ],
-      "duration_ms": 82758,
-      "name": "I knoww",
-      "url": "https://open.spotify.com/track/04tEKZxYzpYbPfIA0fJlOF"
-    },
-    {
-      "added_at": "2026-06-08 13:47:37",
-      "album": {
         "name": "Girl On Fya",
         "url": "https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 124354,
       "name": "Girl on Fya",
       "url": "https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo"
+    },
+    {
+      "added_at": "2026-06-08 13:47:37",
+      "album": {
+        "name": "I knoww",
+        "url": "https://open.spotify.com/album/7fXaUu3blBnTT1VPi6OhLq"
+      },
+      "artists": [
+        {
+          "name": "EF Moon",
+          "url": "https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9"
+        },
+        {
+          "name": "Star Jay",
+          "url": "https://open.spotify.com/artist/1fuHb5TQ1r9wqAPx4jgx8D"
+        }
+      ],
+      "duration_ms": 82758,
+      "name": "I knoww",
+      "url": "https://open.spotify.com/track/04tEKZxYzpYbPfIA0fJlOF"
     },
     {
       "added_at": "2026-06-08 13:47:37",

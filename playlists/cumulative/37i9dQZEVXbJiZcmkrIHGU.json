@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "$$$",
+        "url": "https://open.spotify.com/album/6tEFA8qGTI2o3SkIKzn9YX"
+      },
+      "artists": [
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        },
+        {
+          "name": "JR.",
+          "url": "https://open.spotify.com/artist/2y3sB31NuEkpgtL8AO6xpU"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134637,
+      "name": "$$$",
+      "url": "https://open.spotify.com/track/6wh8piaD6QJ4EBoHiWP9AK"
+    },
+    {
+      "album": {
         "name": "$HORTY",
         "url": "https://open.spotify.com/album/0bV50H2gBUnOhztqHLEIZd"
       },
@@ -8304,7 +8326,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -28237,6 +28259,28 @@
     },
     {
       "album": {
+        "name": "FREAKED OUT",
+        "url": "https://open.spotify.com/album/7rlCLUxXi7iAxL1kmiOHxm"
+      },
+      "artists": [
+        {
+          "name": "Fat Papi",
+          "url": "https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov"
+        },
+        {
+          "name": "prodshushy",
+          "url": "https://open.spotify.com/artist/6aQnbm7k0VsmUqfU9cfwoA"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "FREAKED OUT",
+      "url": "https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN"
+    },
+    {
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -31443,6 +31487,28 @@
     },
     {
       "album": {
+        "name": "gimme luv <3",
+        "url": "https://open.spotify.com/album/53ihPT5MZWX8CX317eTSNe"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180383,
+      "name": "gimme luv <3",
+      "url": "https://open.spotify.com/track/1UeTyrfK5QChYU0kOJqv1z"
+    },
+    {
+      "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
@@ -32321,6 +32387,24 @@
     },
     {
       "album": {
+        "name": "Goldrichtig",
+        "url": "https://open.spotify.com/album/4RaijoRP9vs55dNh4LVQn5"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "Goldrichtig",
+      "url": "https://open.spotify.com/track/6m30ibqUxVeV3BblhchtEG"
+    },
+    {
+      "album": {
         "name": "GOLF R FREESTYLE",
         "url": "https://open.spotify.com/album/0muYATiSO8VD8aNbUqGXdF"
       },
@@ -32766,6 +32850,24 @@
       "duration_ms": 153585,
       "name": "Grossstadtdschungel",
       "url": "https://open.spotify.com/track/750Rxx17cQheqUiSwmhAEA"
+    },
+    {
+      "album": {
+        "name": "GT",
+        "url": "https://open.spotify.com/album/2WlOoIJ2VrLTM6bf1EWWWr"
+      },
+      "artists": [
+        {
+          "name": "Yc",
+          "url": "https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111533,
+      "name": "GT",
+      "url": "https://open.spotify.com/track/21zXAg7G125fwqWfU2YnXC"
     },
     {
       "album": {
@@ -34140,7 +34242,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
@@ -47618,7 +47720,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -54815,6 +54917,28 @@
     },
     {
       "album": {
+        "name": "MYKONOS",
+        "url": "https://open.spotify.com/album/4D1KYK1v6E0PJSDPRNoZ2E"
+      },
+      "artists": [
+        {
+          "name": "KALIM",
+          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
+        },
+        {
+          "name": "CANEY030",
+          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145835,
+      "name": "MYKONOS",
+      "url": "https://open.spotify.com/track/3IDXQYfNtVatyDQuGj0rvj"
+    },
+    {
+      "album": {
         "name": "MYLOOOVE",
         "url": "https://open.spotify.com/album/1tjUSYlDhuYFV4EUWhQWMb"
       },
@@ -57554,7 +57678,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 187520,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
@@ -63066,6 +63190,28 @@
       "duration_ms": 163515,
       "name": "Praise The Lord (Da Shine) (feat. Skepta) - Durdenhauer Edit",
       "url": "https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo"
+    },
+    {
+      "album": {
+        "name": "BLAQ",
+        "url": "https://open.spotify.com/album/1eqRWYvPyNslmKEvf8NZME"
+      },
+      "artists": [
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201915,
+      "name": "PRESSER & SCHIEBER",
+      "url": "https://open.spotify.com/track/2X0o6LmKHEL9ZdQxnmJiVg"
     },
     {
       "album": {
@@ -73772,7 +73918,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
@@ -74776,7 +74922,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -76656,7 +76802,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -78392,6 +78538,28 @@
       "duration_ms": 130909,
       "name": "Tommy Lee",
       "url": "https://open.spotify.com/track/5oCzIfNGgmtRHwVKnjgDNO"
+    },
+    {
+      "album": {
+        "name": "Toni M",
+        "url": "https://open.spotify.com/album/6p9kFnj8gEjQUJdaxNTT21"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121132,
+      "name": "Toni M",
+      "url": "https://open.spotify.com/track/6lkHpm4FOaZSE9Hd11Dy3a"
     },
     {
       "album": {
@@ -81024,7 +81192,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"

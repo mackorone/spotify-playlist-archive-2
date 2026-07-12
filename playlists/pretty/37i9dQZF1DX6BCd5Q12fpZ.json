@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Loreen",
-  "num_followers": 64305,
+  "num_followers": 64301,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-03-14 16:58:53",
       "album": {
-        "name": "Dance You Off",
-        "url": "https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 182134,
-      "name": "Dance You Off",
-      "url": "https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D"
-    },
-    {
-      "added_at": "2025-03-14 16:58:53",
-      "album": {
         "name": "Essential",
         "url": "https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": "2025-03-14 16:58:53",
       "album": {
+        "name": "Dance You Off",
+        "url": "https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 182134,
+      "name": "Dance You Off",
+      "url": "https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D"
+    },
+    {
+      "added_at": "2025-03-14 16:58:53",
+      "album": {
         "name": "Sahara Euro Edition",
         "url": "https://open.spotify.com/album/6UcCRtBatKSwIjPX9Xqcqk"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 180386,
       "name": "Yassou Maria",
       "url": "https://open.spotify.com/track/1t2zJs2ukKjrVNGQgot9bk"
-    },
-    {
-      "added_at": "2025-03-14 16:58:53",
-      "album": {
-        "name": "On ne change pas",
-        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Ne partez pas sans moi (Grand prix de L'Eurovision 1988)",
-      "url": "https://open.spotify.com/track/0Kv4i96E41jbULmUajBYOe"
     },
     {
       "added_at": "2025-03-14 16:58:53",
@@ -759,6 +743,22 @@
       "duration_ms": 175000,
       "name": "Lipstick - Radio Edit",
       "url": "https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4"
+    },
+    {
+      "added_at": "2025-03-14 16:58:53",
+      "album": {
+        "name": "On ne change pas",
+        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Ne partez pas sans moi (Grand prix de L'Eurovision 1988)",
+      "url": "https://open.spotify.com/track/0Kv4i96E41jbULmUajBYOe"
     },
     {
       "added_at": "2025-03-14 16:58:53",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2025-03-14 16:58:53",
       "album": {
-        "name": "Waterloo",
-        "url": "https://open.spotify.com/album/5JGTMU2ovYCxC6nfJbft8W"
+        "name": "You are the only one",
+        "url": "https://open.spotify.com/album/5QN3qCVLPiedrjb6EOO9LO"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Sergey Lazarev",
+          "url": "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
         }
       ],
-      "duration_ms": 168960,
-      "name": "Waterloo",
-      "url": "https://open.spotify.com/track/10fRfvMo6WCO9Gaawxy2U9"
+      "duration_ms": 186891,
+      "name": "You are the only one",
+      "url": "https://open.spotify.com/track/7cVXtwDpck4Kne4Ce8Ge6q"
     }
   ],
   "unique_name": "Eurovision Party",

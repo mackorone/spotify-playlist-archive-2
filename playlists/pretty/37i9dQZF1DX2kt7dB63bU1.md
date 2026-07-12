@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Gabrielle Cavassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,716 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,746 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Um Vento Passou \(para Paul Simon\) \[Feat\. Paul Simon\]](https://open.spotify.com/track/7aFU5mdJcsyhP6UAteoDiH) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Um Vento Passou \(para Paul Simon\)](https://open.spotify.com/album/33UAU0Ydepj6ohDfiUFPPp) | 4:36 |
 | 100 | [Inner City Blues](https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [Sweet Whispers: Celebrating Sarah Vaughan](https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO) | 4:39 |
 
-Snapshot ID: `AAAAANidIPgcBQMRHHja+dP33+QyPsGB`
+Snapshot ID: `AAAAAJtTkbe/0C9qTgRplJ67OGjyZNrL`

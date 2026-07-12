@@ -1,6 +1,6 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Camilo & Evaluna Montaner",
-  "num_followers": 272616,
+  "num_followers": 272567,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/6zo0N2JbFT7dfaHpY5ShpX"
-      },
-      "artists": [
-        {
-          "name": "selines",
-          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
-        }
-      ],
-      "duration_ms": 143745,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/6bCrvUh7PWvHn1Wnbu4Vsi"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "Diciembre",
         "url": "https://open.spotify.com/album/5CD8YKCvtjjIvdCkpDIUP4"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "triste navidad",
-        "url": "https://open.spotify.com/album/1MarJFeivJhtymWJdzQs6z"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6zo0N2JbFT7dfaHpY5ShpX"
       },
       "artists": [
         {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+          "name": "selines",
+          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
         }
       ],
-      "duration_ms": 195882,
-      "name": "triste navidad",
-      "url": "https://open.spotify.com/track/4jqg6EpmCWFrBMxlamseYv"
+      "duration_ms": 143745,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/6bCrvUh7PWvHn1Wnbu4Vsi"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -995,6 +979,22 @@
       "duration_ms": 171535,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "triste navidad",
+        "url": "https://open.spotify.com/album/1MarJFeivJhtymWJdzQs6z"
+      },
+      "artists": [
+        {
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+        }
+      ],
+      "duration_ms": 195882,
+      "name": "triste navidad",
+      "url": "https://open.spotify.com/track/4jqg6EpmCWFrBMxlamseYv"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
+        "name": "Ya Es Navidad",
+        "url": "https://open.spotify.com/album/1gY6CARb37ApCi8RohVmrf"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 138426,
+      "name": "A La Nanita Nana",
+      "url": "https://open.spotify.com/track/2yQFbnF3c4ttqx5G02ub49"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
         "name": "Nuestra Navidad",
         "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
       },
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "st. Pedro's Christmas Special",
-        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
-      },
-      "artists": [
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
-        }
-      ],
-      "duration_ms": 195842,
-      "name": "Last Christmas (Spanish Version)",
-      "url": "https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "Navidad Contigo",
         "url": "https://open.spotify.com/album/5Vdnt5rT8LC0UYUCTpgFL1"
       },
@@ -1247,34 +1247,18 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Love & Christmas",
-        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+        "name": "st. Pedro's Christmas Special",
+        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
         }
       ],
-      "duration_ms": 217024,
-      "name": "Viva La Navidad",
-      "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
-        "name": "Ya Es Navidad",
-        "url": "https://open.spotify.com/album/1gY6CARb37ApCi8RohVmrf"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 138426,
-      "name": "A La Nanita Nana",
-      "url": "https://open.spotify.com/track/2yQFbnF3c4ttqx5G02ub49"
+      "duration_ms": 195842,
+      "name": "Last Christmas (Spanish Version)",
+      "url": "https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1291,6 +1275,22 @@
       "duration_ms": 182000,
       "name": "este diciembre.",
       "url": "https://open.spotify.com/track/1QWNbaeJ7tjSCfF0OQ1852"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Love & Christmas",
+        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 217024,
+      "name": "Viva La Navidad",
+      "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1327,34 +1327,38 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Love & Christmas",
-        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+        "name": "st. Pedro's Christmas Special",
+        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
         }
       ],
-      "duration_ms": 255125,
-      "name": "Human Nature - En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB"
+      "duration_ms": 187668,
+      "name": "Otra Navidad :(",
+      "url": "https://open.spotify.com/track/0stGjckaqF832pf74QJT0l"
     },
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Recalentado navide\u00f1o",
-        "url": "https://open.spotify.com/album/4JQPKQd3HaDKmacMzeuMej"
+        "name": "Villancicos",
+        "url": "https://open.spotify.com/album/0plHwd26dot1EiYNqE1imb"
       },
       "artists": [
         {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        },
+        {
+          "name": "MON SIERRA",
+          "url": "https://open.spotify.com/artist/07AkiNkIfcD9XqqmqakiCK"
         }
       ],
-      "duration_ms": 206814,
-      "name": "Ven a cantar - Pau Laggies Versi\u00f3n",
-      "url": "https://open.spotify.com/track/7LQFFafk4nPehWWn93TxTK"
+      "duration_ms": 260143,
+      "name": "El Tamborilero",
+      "url": "https://open.spotify.com/track/5MfxwmRXFzGsvn2yR0HI9v"
     }
   ],
   "unique_name": "Feliz Navidad",

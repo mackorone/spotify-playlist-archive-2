@@ -4082,7 +4082,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -5082,7 +5082,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 171692,
       "name": "BOSZORK\u00c1NY",
       "url": "https://open.spotify.com/track/6QDyDA2a5ZhjTEZ61XQics"
@@ -13132,6 +13132,24 @@
       "duration_ms": 185333,
       "name": "G\u00c1Z",
       "url": "https://open.spotify.com/track/07L9KepMsQ4mG9BLE04mXc"
+    },
+    {
+      "album": {
+        "name": "Ha bukok",
+        "url": "https://open.spotify.com/album/3FzfbbJxJfabT3WiKmE2Fd"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139700,
+      "name": "Ha bukok",
+      "url": "https://open.spotify.com/track/1jqthYE9Qyki3574xA7ZPL"
     },
     {
       "album": {
@@ -31944,7 +31962,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 144203,
       "name": "S\u00d6T\u00c9T",
       "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"

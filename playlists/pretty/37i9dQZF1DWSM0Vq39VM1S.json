@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388542,
+  "num_followers": 388533,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2026-07-02 22:01:46",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 197116,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
+    },
+    {
+      "added_at": "2026-07-02 22:01:46",
+      "album": {
         "name": "Hen's Teeth",
         "url": "https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 225231,
       "name": "Wait Up (feat. I'm With Her)",
       "url": "https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p"
-    },
-    {
-      "added_at": "2026-07-02 22:01:46",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 197116,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
     },
     {
       "added_at": "2026-07-02 22:01:46",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-07-02 22:01:46",
       "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
-    },
-    {
-      "added_at": "2026-07-02 22:01:46",
-      "album": {
         "name": "Ridin'",
         "url": "https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 191244,
       "name": "Walk The Way",
       "url": "https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2"
+    },
+    {
+      "added_at": "2026-07-02 22:01:46",
+      "album": {
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
       "added_at": "2026-07-02 22:01:46",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-07-02 22:01:46",
       "album": {
-        "name": "Your Woman",
-        "url": "https://open.spotify.com/album/63f4ACjDE8ucRFZgnglWOm"
-      },
-      "artists": [
-        {
-          "name": "Annie Lalalove",
-          "url": "https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "Your Woman",
-      "url": "https://open.spotify.com/track/1PJEzOSG67yPOarjKAlvg6"
-    },
-    {
-      "added_at": "2026-07-02 22:01:46",
-      "album": {
         "name": "Una lunghissima ombra",
         "url": "https://open.spotify.com/album/53VuM2XxkSpzalMQqmM7Jb"
       },
@@ -867,18 +851,18 @@
     {
       "added_at": "2026-07-02 22:01:46",
       "album": {
-        "name": "Not a Love Song",
-        "url": "https://open.spotify.com/album/0YsO6z3DZm5cVdb6biwWdO"
+        "name": "Your Woman",
+        "url": "https://open.spotify.com/album/63f4ACjDE8ucRFZgnglWOm"
       },
       "artists": [
         {
-          "name": "MALIA",
-          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
+          "name": "Annie Lalalove",
+          "url": "https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL"
         }
       ],
-      "duration_ms": 184399,
-      "name": "Not a Love Song",
-      "url": "https://open.spotify.com/track/5g7dV04Sns9CoT0yoOef2z"
+      "duration_ms": 228586,
+      "name": "Your Woman",
+      "url": "https://open.spotify.com/track/1PJEzOSG67yPOarjKAlvg6"
     },
     {
       "added_at": "2026-07-02 22:01:46",
@@ -895,6 +879,22 @@
       "duration_ms": 285026,
       "name": "Forever",
       "url": "https://open.spotify.com/track/6F67iZ1PGel8iMkLipvTIY"
+    },
+    {
+      "added_at": "2026-07-02 22:01:46",
+      "album": {
+        "name": "Not a Love Song",
+        "url": "https://open.spotify.com/album/0YsO6z3DZm5cVdb6biwWdO"
+      },
+      "artists": [
+        {
+          "name": "MALIA",
+          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
+        }
+      ],
+      "duration_ms": 184399,
+      "name": "Not a Love Song",
+      "url": "https://open.spotify.com/track/5g7dV04Sns9CoT0yoOef2z"
     },
     {
       "added_at": "2026-07-02 22:01:46",

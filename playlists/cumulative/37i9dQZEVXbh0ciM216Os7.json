@@ -18070,7 +18070,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 105432,
       "name": "DONT WORRY",
       "url": "https://open.spotify.com/track/3ORJwq7bnMCPRBDx4CrrF2"
@@ -37414,7 +37414,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 232365,
       "name": "Knock Knock",
       "url": "https://open.spotify.com/track/5HjVfkfMw0ns0TlBFAM4Kd"
@@ -45154,10 +45154,28 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 274061,
       "name": "Mr Charm",
       "url": "https://open.spotify.com/track/1YfhdcCmNm4EiFnyz7DNiT"
+    },
+    {
+      "album": {
+        "name": "Foreign Tongues",
+        "url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274061,
+      "name": "Mr Charm",
+      "url": "https://open.spotify.com/track/7FNkY47xx3oKTjr5tk5m8k"
     },
     {
       "album": {
@@ -51546,7 +51564,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 351280,
       "name": "Passing The Time - Alternate Long Stereo Mix / Remastered 2026",
       "url": "https://open.spotify.com/track/0E55kn1JNIH25uRZgqIJS6"
@@ -57650,6 +57668,28 @@
       "duration_ms": 132413,
       "name": "Runnin Outta Time",
       "url": "https://open.spotify.com/track/2Tj60Mq0IJSFtc2KmPHWza"
+    },
+    {
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/0HD8t8PeAwfX017sf2TRFf"
+      },
+      "artists": [
+        {
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252680,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/7Au27LIvJ36ESI79bobPWu"
     },
     {
       "album": {
@@ -66008,7 +66048,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 280922,
       "name": "Take Me to Church (In the style of Sleep Token)",
       "url": "https://open.spotify.com/track/6vXIMeOYHe0Jbi5MujSdDk"
@@ -66248,7 +66288,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 286970,
       "name": "Tango",
       "url": "https://open.spotify.com/track/10dYKxVHLNnOABnkuHKTKa"
@@ -73406,7 +73446,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 198234,
       "name": "Up In Texas",
       "url": "https://open.spotify.com/track/3PLyczCBL8yy6p5aDzCPQl"
@@ -77750,6 +77790,32 @@
       "duration_ms": 135201,
       "name": "Wingz (feat. Cardo Got Wings)",
       "url": "https://open.spotify.com/track/1jFOUeZoR9YCAiirsxnB3y"
+    },
+    {
+      "album": {
+        "name": "winning",
+        "url": "https://open.spotify.com/album/3jzFyINlPivDTfXI5yr9F4"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Adamson",
+          "url": "https://open.spotify.com/artist/4qpCwiMgToVn4hUe6hMkZF"
+        },
+        {
+          "name": "Brandon Coleman",
+          "url": "https://open.spotify.com/artist/1bCEhVC3192xS5WteIaXOs"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364329,
+      "name": "winning",
+      "url": "https://open.spotify.com/track/1k3BC3LI6bG3UftkERdeD3"
     },
     {
       "album": {

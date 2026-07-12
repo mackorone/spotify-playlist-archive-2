@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 330013,
+  "num_followers": 330000,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "Dead!",
+      "url": "https://open.spotify.com/track/0uukw2CgEIApv4IWAjXrBC"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
         "name": "Wake Up, Sunshine",
         "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 231840,
       "name": "I'm Not A Vampire",
       "url": "https://open.spotify.com/track/7l0Lr7Tl4Gt8hQj4v3rwtf"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "Dead!",
-      "url": "https://open.spotify.com/track/0uukw2CgEIApv4IWAjXrBC"
     },
     {
       "added_at": "2025-10-27 20:26:25",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 140816,
-      "name": "superdeadfriends",
-      "url": "https://open.spotify.com/track/1mgvj05QVQdO7dPgHTooXF"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
         "name": "ROCKISDEAD",
         "url": "https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 157380,
       "name": "Whiskey Fever",
       "url": "https://open.spotify.com/track/5c4X3PrLDtzAqXOWDtfX2t"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 140816,
+      "name": "superdeadfriends",
+      "url": "https://open.spotify.com/track/1mgvj05QVQdO7dPgHTooXF"
     },
     {
       "added_at": "2025-10-27 20:26:25",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "they\u2019re all around us",
-        "url": "https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 204540,
-      "name": "they\u2019re all around us",
-      "url": "https://open.spotify.com/track/27g7prKPpfUtaPOBjO1hQ1"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
         "name": "What's Coming To Me",
         "url": "https://open.spotify.com/album/1Y4UGqQjoSr2lSs8ACyHTs"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 214048,
       "name": "What's Coming To Me",
       "url": "https://open.spotify.com/track/22M7aCQ5lhKlkQ3Yabj0Va"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
+        "name": "they\u2019re all around us",
+        "url": "https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 204540,
+      "name": "they\u2019re all around us",
+      "url": "https://open.spotify.com/track/27g7prKPpfUtaPOBjO1hQ1"
     },
     {
       "added_at": "2025-10-27 20:26:25",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 169186,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
         "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
         "url": "https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 247040,
       "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
       "url": "https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 169186,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
     },
     {
       "added_at": "2025-10-27 20:26:25",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-639 songs - 1 day 12 hr 8 min
+640 songs - 1 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Labels](https://open.spotify.com/track/65kmIUkajl0F8hjsxmkyHN) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Waves](https://open.spotify.com/album/1mH4ntQRUk1akxx6WNST8q) | 2:59 | 2024-01-29 |  |
 | [Last Holiday](https://open.spotify.com/track/4yPFng4xWVdrP4xVxdK7wY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 3:16 | 2024-08-16 |  |
 | [Let Go](https://open.spotify.com/track/1x3Sxgpq3MIyZUi9v2W1ZT) | [Brother Phelps](https://open.spotify.com/artist/4B1XcPipnpGOpuNZeAA1eQ) | [Let Go](https://open.spotify.com/album/5kkOQ9122GxlXlORmJSpzX) | 3:39 | 2024-01-29 |  |
+| [Let You Go](https://open.spotify.com/track/6WgXypwtQ8izqsbT6kvmke) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Let You Go](https://open.spotify.com/album/5U86PG3few1zCDGqiQK2Xx) | 1:37 | 2026-07-11 |  |
 | [Let's Hurt Tonight](https://open.spotify.com/track/05sCp83gcMm1iecYydKJS3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:14 | 2024-01-29 |  |
 | [Libera a Pressão](https://open.spotify.com/track/1XbEcV9RjfGy3nUoya9yvA) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [Libera a Pressão](https://open.spotify.com/album/3gMEKirJ3O9aHoZCxUSkeK) | 2:00 | 2025-11-05 |  |
 | [Life In Color](https://open.spotify.com/track/0lKsG4FoO1mfnkUR3SdKj4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native \(Deluxe\)](https://open.spotify.com/album/7bWzSwx1PRiZjfjhaB8BjZ) | 3:22 | 2024-01-29 |  |
@@ -586,7 +587,7 @@
 | [Turning Tables](https://open.spotify.com/track/6myjRCWhMVgwgJEYNIGah3) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 4:10 | 2024-01-29 |  |
 | [Tyrant](https://open.spotify.com/track/2NQBsh7D6bDS5tv5VcvdoN) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 5:02 | 2024-01-29 |  |
 | [Tócame \(feat\. Arcangel & De La Ghetto\)](https://open.spotify.com/track/4cno0k9jDEFpLAQyHNjqVx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Tócame \(feat\. Arcangel & De La Ghetto\)](https://open.spotify.com/album/6OW0sjGhqQJKxjcBzyvpcq) | 2:46 | 2024-01-29 |  |
-| [Unbroken](https://open.spotify.com/track/1PDmepvxFGC6jP1GTs7rne) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [From The Inside Out](https://open.spotify.com/album/5ZvaQq8cnyHgYzPOkgMLR7) | 4:33 | 2024-01-29 |  |
+| [Unbroken](https://open.spotify.com/track/1PDmepvxFGC6jP1GTs7rne) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [From The Inside Out](https://open.spotify.com/album/5ZvaQq8cnyHgYzPOkgMLR7) | 4:33 | 2024-01-29 | 2026-07-12 |
 | [Unbroken \- Israel Remix](https://open.spotify.com/track/4fijxCLZxkask6LJH51Hzg) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Israel](https://open.spotify.com/artist/6ZIjO7ivv7IxVuyD4HqrAD) | [From The Inside Out](https://open.spotify.com/album/1AlBB0rTOKDXK2k7lf9tUT) | 3:46 | 2024-07-31 |  |
 | [Undone](https://open.spotify.com/track/4toeIDt20W3pA6hoce1P8W) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is Us](https://open.spotify.com/album/08wSk6XJ7365lO47E1278L) | 4:14 | 2024-01-29 |  |
 | [Unpretty](https://open.spotify.com/track/6eyFfSsaYDSGYWOHXTuJsZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:44 | 2024-11-14 |  |

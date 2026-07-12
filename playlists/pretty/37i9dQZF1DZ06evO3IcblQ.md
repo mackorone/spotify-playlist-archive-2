@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 
 > This is Pennywise\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,843 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,840 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 | 35 | [LAST ONE STANDING \(feat\. Jim from Pennywise\)](https://open.spotify.com/track/3F9z5GtlvMuaAtiwLeTfB0) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM), [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [NINE LIVES](https://open.spotify.com/album/4UEpTKPsOwn4OVroUZa7Sq) | 2:52 |
 | 36 | [Get A Life \- 2005 Remaster](https://open.spotify.com/track/120GSrWDt7efZA4SU3ZM2u) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Full Circle \(2005 Remaster\)](https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU) | 2:56 |
 | 37 | [Time Marches On](https://open.spotify.com/track/7I44d8wbsWdByMs5fxymfQ) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 2:57 |
-| 38 | [Searching \- 2005 Remaster](https://open.spotify.com/track/1hpWskveq87EPrdQ1Rk1UZ) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [About Time \(2005 Remaster\)](https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE) | 2:55 |
-| 39 | [Can't Believe It](https://open.spotify.com/track/1BPFNUHoHNBGI09Ii5qj61) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Straight Ahead](https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1) | 1:57 |
+| 38 | [Can't Believe It](https://open.spotify.com/track/1BPFNUHoHNBGI09Ii5qj61) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Straight Ahead](https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1) | 1:57 |
+| 39 | [Searching \- 2005 Remaster](https://open.spotify.com/track/1hpWskveq87EPrdQ1Rk1UZ) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [About Time \(2005 Remaster\)](https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE) | 2:55 |
 | 40 | [We Have It All](https://open.spotify.com/track/7KLoR0gUpBO0UFespQwXh7) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [All Or Nothing \(Deluxe Edition\)](https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa) | 2:59 |
 | 41 | [My God](https://open.spotify.com/track/4dJfBTMmCIfHmzqaj8Or7L) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 2:48 |
 | 42 | [As Long As We Can \(Intro\)](https://open.spotify.com/track/7ml60qKvVgLpEf0uZ5EQBI) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Reason To Believe](https://open.spotify.com/album/6qWDJK2ECvWqb7Yuov8LZc) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 | 49 | [Rules \- 2005 Remaster](https://open.spotify.com/track/767rObQPgUNryNEu7HBnqq) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 1:25 |
 | 50 | [Ace of Spades](https://open.spotify.com/track/1K7OdZNMaEqButgV6D28UX) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks), [Killed By Deaf](https://open.spotify.com/artist/6wGlLIhHRd6ipikm5x3EnB) | [Ace of Spades](https://open.spotify.com/album/3xyncfiFgU49RupI5wfvP3) | 2:31 |
 
-Snapshot ID: `ak7kgAAAAAAE3r74XD250pn5uloBBw9P`
+Snapshot ID: `alA2AAAAAAD3JjU3DnS8WImklCWjM/ev`

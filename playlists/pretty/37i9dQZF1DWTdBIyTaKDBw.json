@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 29087,
+  "num_followers": 29114,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
+        "name": "Around the World",
+        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Shanghai Nights",
+      "url": "https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
         "name": "New Beginnings",
         "url": "https://open.spotify.com/album/31VMZGfuUcn72p2Phw9reC"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 135575,
       "name": "New Beginnings",
       "url": "https://open.spotify.com/track/4vxItbZpDtTmH5ZRNPq63m"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
-        "name": "Around the World",
-        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Shanghai Nights",
-      "url": "https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/3YSKRZj2fgC56dEaUkSeMV"
-      },
-      "artists": [
-        {
-          "name": "Kerusu",
-          "url": "https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8"
-        }
-      ],
-      "duration_ms": 228857,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/6T2O4OFeCTr8BwHrWwugLr"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Tokyo Rooftop",
         "url": "https://open.spotify.com/album/01WPd7sKlLqLGaJFsiVlr8"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 132942,
       "name": "Tokyo Rooftop",
       "url": "https://open.spotify.com/track/0rJHr0Z3uMRGKNK2jg05Tx"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/3YSKRZj2fgC56dEaUkSeMV"
+      },
+      "artists": [
+        {
+          "name": "Kerusu",
+          "url": "https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8"
+        }
+      ],
+      "duration_ms": 228857,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/6T2O4OFeCTr8BwHrWwugLr"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
+        "name": "Vanishing Journey",
+        "url": "https://open.spotify.com/album/3oGLMzJCwhyBqy50CHoMwP"
+      },
+      "artists": [
+        {
+          "name": "Elijah Lee",
+          "url": "https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu"
+        }
+      ],
+      "duration_ms": 146925,
+      "name": "Night Drive",
+      "url": "https://open.spotify.com/track/33kQJiqhOOSkfs7dz3SQ1O"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
         "name": "Stories From Japan II",
         "url": "https://open.spotify.com/album/2z39Ia2ATOWwjVns0G7jjF"
       },
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Vanishing Journey",
-        "url": "https://open.spotify.com/album/3oGLMzJCwhyBqy50CHoMwP"
-      },
-      "artists": [
-        {
-          "name": "Elijah Lee",
-          "url": "https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu"
-        }
-      ],
-      "duration_ms": 146925,
-      "name": "Night Drive",
-      "url": "https://open.spotify.com/track/33kQJiqhOOSkfs7dz3SQ1O"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Kodama",
         "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
       },
@@ -1243,22 +1243,6 @@
       "duration_ms": 186268,
       "name": "Kodama",
       "url": "https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
-        "name": "Yamete",
-        "url": "https://open.spotify.com/album/5RUEyH0Wj84oBzjEvjuDKi"
-      },
-      "artists": [
-        {
-          "name": "Tosama Beats",
-          "url": "https://open.spotify.com/artist/0cqZ61vhObf3KJ2UgaveZg"
-        }
-      ],
-      "duration_ms": 195829,
-      "name": "Yamete",
-      "url": "https://open.spotify.com/track/42xuMGQNL4hCTQHBzkZVU1"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
+        "name": "Yamete",
+        "url": "https://open.spotify.com/album/5RUEyH0Wj84oBzjEvjuDKi"
+      },
+      "artists": [
+        {
+          "name": "Tosama Beats",
+          "url": "https://open.spotify.com/artist/0cqZ61vhObf3KJ2UgaveZg"
+        }
+      ],
+      "duration_ms": 195829,
+      "name": "Yamete",
+      "url": "https://open.spotify.com/track/42xuMGQNL4hCTQHBzkZVU1"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
         "name": "Oldschool Memories",
         "url": "https://open.spotify.com/album/4KVVvtVBpXWvKCeRAtP1Bq"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Flying Petals",
-        "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
-      },
-      "artists": [
-        {
-          "name": "Tido Kang",
-          "url": "https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE"
-        }
-      ],
-      "duration_ms": 184600,
-      "name": "Inevitability",
-      "url": "https://open.spotify.com/track/53wi2Eu0aciGfOftKUCi4R"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Sunday Vibes",
         "url": "https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 133668,
       "name": "Birds",
       "url": "https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Flying Petals",
+        "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
+      },
+      "artists": [
+        {
+          "name": "Tido Kang",
+          "url": "https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE"
+        }
+      ],
+      "duration_ms": 184600,
+      "name": "Inevitability",
+      "url": "https://open.spotify.com/track/53wi2Eu0aciGfOftKUCi4R"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
+        "name": "Hanagasumi",
+        "url": "https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8"
+      },
+      "artists": [
+        {
+          "name": "DaniSogen",
+          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Arisa",
+      "url": "https://open.spotify.com/track/3yGVIzliF0fcy6pcjO02hS"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
         "name": "Kintsukuroi",
         "url": "https://open.spotify.com/album/4fkpxS01a1c2dozXwKiv6i"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Hanagasumi",
-        "url": "https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8"
-      },
-      "artists": [
-        {
-          "name": "DaniSogen",
-          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Arisa",
-      "url": "https://open.spotify.com/track/3yGVIzliF0fcy6pcjO02hS"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Answer Love",
         "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
       },
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Flying Petals",
-        "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
-      },
-      "artists": [
-        {
-          "name": "Tido Kang",
-          "url": "https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE"
-        }
-      ],
-      "duration_ms": 167102,
-      "name": "Miss Each Other Because of Love",
-      "url": "https://open.spotify.com/track/0J2YOcFgqGHQawWpwvOhdR"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Torimichi",
         "url": "https://open.spotify.com/album/5quOu1BA0FTj6KgtcoYltV"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 281739,
       "name": "Torimichi",
       "url": "https://open.spotify.com/track/1kD08WYSwIYlA586nKbPgs"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Flying Petals",
+        "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
+      },
+      "artists": [
+        {
+          "name": "Tido Kang",
+          "url": "https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE"
+        }
+      ],
+      "duration_ms": 167102,
+      "name": "Miss Each Other Because of Love",
+      "url": "https://open.spotify.com/track/0J2YOcFgqGHQawWpwvOhdR"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
+        "name": "Lost in Japan II",
+        "url": "https://open.spotify.com/album/4ouEJG6RaGAKTB6CwhnBtT"
+      },
+      "artists": [
+        {
+          "name": "Elijah Nang",
+          "url": "https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU"
+        }
+      ],
+      "duration_ms": 211304,
+      "name": "Song of the Samurai",
+      "url": "https://open.spotify.com/track/5nG6besfk5Aoa24OBSdREv"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
         "name": "Shinra",
         "url": "https://open.spotify.com/album/4nf6qaran8NGdZn7AuSWyR"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 137142,
       "name": "Shinra",
       "url": "https://open.spotify.com/track/1gz1uyqrIvrUXLIE8CG4jY"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
-        "name": "Lost in Japan II",
-        "url": "https://open.spotify.com/album/4ouEJG6RaGAKTB6CwhnBtT"
-      },
-      "artists": [
-        {
-          "name": "Elijah Nang",
-          "url": "https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU"
-        }
-      ],
-      "duration_ms": 211304,
-      "name": "Song of the Samurai",
-      "url": "https://open.spotify.com/track/5nG6besfk5Aoa24OBSdREv"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Mountain Trail",
-        "url": "https://open.spotify.com/album/7MKhgHTNGbgMlLXBxmQDKv"
-      },
-      "artists": [
-        {
-          "name": "DaniSogen",
-          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Mountain Trail",
-      "url": "https://open.spotify.com/track/6V74ZQYUqoyePb0OWNu8hW"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/6f3P0xSo1l6jqFpA31u05X"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 131240,
       "name": "Death Curse",
       "url": "https://open.spotify.com/track/3G6p8lXQ1qjQOzvZA1KB6A"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Mountain Trail",
+        "url": "https://open.spotify.com/album/7MKhgHTNGbgMlLXBxmQDKv"
+      },
+      "artists": [
+        {
+          "name": "DaniSogen",
+          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Mountain Trail",
+      "url": "https://open.spotify.com/track/6V74ZQYUqoyePb0OWNu8hW"
     },
     {
       "added_at": "2026-06-29 08:21:08",

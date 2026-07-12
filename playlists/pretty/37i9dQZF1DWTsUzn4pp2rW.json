@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 200646,
+  "num_followers": 200685,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "With Love",
-        "url": "https://open.spotify.com/album/1W5yRvByffHkApV5a1TtSM"
-      },
-      "artists": [
-        {
-          "name": "Greta Panettieri",
-          "url": "https://open.spotify.com/artist/7ttqjMzl0AobitVVBpX9pw"
-        }
-      ],
-      "duration_ms": 368551,
-      "name": "Goodbye Stranger",
-      "url": "https://open.spotify.com/track/65bvlsX5wqVzhRfQkV2i5w"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 198935,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/4ebAsaLYZZBzADj1Vfmcc4"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/1W5yRvByffHkApV5a1TtSM"
+      },
+      "artists": [
+        {
+          "name": "Greta Panettieri",
+          "url": "https://open.spotify.com/artist/7ttqjMzl0AobitVVBpX9pw"
+        }
+      ],
+      "duration_ms": 368551,
+      "name": "Goodbye Stranger",
+      "url": "https://open.spotify.com/track/65bvlsX5wqVzhRfQkV2i5w"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -387,22 +387,18 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Moon River",
-        "url": "https://open.spotify.com/album/32hzZm0bpsYCmhhcH24hLX"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg"
       },
       "artists": [
         {
-          "name": "Cindy Zhang",
-          "url": "https://open.spotify.com/artist/7jcxdl5JqHWfuq00QC6egz"
-        },
-        {
-          "name": "Josh Berkeley",
-          "url": "https://open.spotify.com/artist/7MpeVbVrg6arHele8tcgSl"
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         }
       ],
-      "duration_ms": 192854,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/1bPnJ6Xq4Usc9rwCPzNTUP"
+      "duration_ms": 267279,
+      "name": "Blackbird - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -423,18 +419,38 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg"
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/32hzZm0bpsYCmhhcH24hLX"
       },
       "artists": [
         {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Cindy Zhang",
+          "url": "https://open.spotify.com/artist/7jcxdl5JqHWfuq00QC6egz"
+        },
+        {
+          "name": "Josh Berkeley",
+          "url": "https://open.spotify.com/artist/7MpeVbVrg6arHele8tcgSl"
         }
       ],
-      "duration_ms": 267279,
-      "name": "Blackbird - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7"
+      "duration_ms": 192854,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/1bPnJ6Xq4Usc9rwCPzNTUP"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        }
+      ],
+      "duration_ms": 283893,
+      "name": "Seems I\u2019m Never Tired Lovin\u2019 You",
+      "url": "https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -455,22 +471,6 @@
       "duration_ms": 282702,
       "name": "Make Someone Happy",
       "url": "https://open.spotify.com/track/1NwlQ1rL7MkuJppWF7lnHb"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        }
-      ],
-      "duration_ms": 283893,
-      "name": "Seems I\u2019m Never Tired Lovin\u2019 You",
-      "url": "https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -987,26 +987,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Softer Than You Know",
-        "url": "https://open.spotify.com/album/7gIixEPeXj189Kzw4PHCXu"
-      },
-      "artists": [
-        {
-          "name": "Frans Bak",
-          "url": "https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG"
-        },
-        {
-          "name": "Sinne Eeg",
-          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
-        }
-      ],
-      "duration_ms": 208013,
-      "name": "Softer Than You Know",
-      "url": "https://open.spotify.com/track/24zUpGZ4tPI7gdkHiiv2xS"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "All About You",
         "url": "https://open.spotify.com/album/2v2NobYKPTp4h3rjMDPYFA"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 260852,
       "name": "All About You",
       "url": "https://open.spotify.com/track/2fvF0PARRaYZcc2TguAekK"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "Softer Than You Know",
+        "url": "https://open.spotify.com/album/7gIixEPeXj189Kzw4PHCXu"
+      },
+      "artists": [
+        {
+          "name": "Frans Bak",
+          "url": "https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG"
+        },
+        {
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
+        }
+      ],
+      "duration_ms": 208013,
+      "name": "Softer Than You Know",
+      "url": "https://open.spotify.com/track/24zUpGZ4tPI7gdkHiiv2xS"
     },
     {
       "added_at": "2026-03-14 19:25:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:3hr95JCfCIlFRK9EmDFJ3R">Jackie Evans</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,443 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,476 likes - 40 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 39 | [Yours Forever \(feat\. Matt Maeson\)](https://open.spotify.com/track/4vGKLADQksmUcPAVHu7oab) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e), [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Yours Forever \(feat\. Matt Maeson\)](https://open.spotify.com/album/4sEziCufNGPrMcA6qyJ6yx) | 2:52 |
 | 40 | [Burn the Other End](https://open.spotify.com/track/7urOsD8qQUQdCsG85XTo7f) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Burn the Other End](https://open.spotify.com/album/79zAUIumzYPW7LQJLpbubq) | 4:39 |
 
-Snapshot ID: `AAAAAJnnVd0HLIlUJTQb4pwyJ9kmI+i5`
+Snapshot ID: `AAAAAGBZNCQ4AWW4BNUWbMQRLzLchiML`

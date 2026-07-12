@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,631 likes - 95 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,619 likes - 95 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 25 | [Pelechian 2](https://open.spotify.com/track/7E73l0yJ9RfdOpA6f2WBMM) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Pelechian 2](https://open.spotify.com/album/1wqHTMQeJSGWDvGNwVF2Yd) | 5:07 |
 | 26 | [Gown](https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 3:15 |
 | 27 | [Vacuum](https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU) | [Bobbi Lu](https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4) | [Arrow, Four](https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz) | 3:35 |
-| 28 | [Make It Rain \- 27 Tapes](https://open.spotify.com/track/6BnGlmkbv9khP6ET0F2eAn) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [Make It Rain \(27 Tapes\)](https://open.spotify.com/album/25G0keXjFqywZnbHu8LA8G) | 6:35 |
+| 28 | [All That We Are](https://open.spotify.com/track/2oXRZaEegYDvZxozbDtgcW) | [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [All That We Are](https://open.spotify.com/album/60B3oN31JFl2u2r6ryGg9i) | 3:24 |
 | 29 | [Wallflower \- Acoustic](https://open.spotify.com/track/3Lq8hjZ7XOpqbtcVROOpTi) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [Wallflower \(Acoustic\)](https://open.spotify.com/album/0JgBb2VFLW9zldC5LLlsrh) | 2:37 |
 | 30 | [Martyr](https://open.spotify.com/track/4EybC36DQmK8gbrUsPit3T) | [Ozark Henry](https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ) | [Martyr](https://open.spotify.com/album/1MzFcyK6GVCXGXKhu8vBlI) | 3:23 |
-| 31 | [Nowhere](https://open.spotify.com/track/3qhupcUlxypKHUWujBzJ81) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Nowhere](https://open.spotify.com/album/3Yl6iLaSNTi4E0yilc1YHk) | 3:19 |
-| 32 | [All That We Are](https://open.spotify.com/track/2oXRZaEegYDvZxozbDtgcW) | [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [All That We Are](https://open.spotify.com/album/60B3oN31JFl2u2r6ryGg9i) | 3:24 |
+| 31 | [Make It Rain \- 27 Tapes](https://open.spotify.com/track/6BnGlmkbv9khP6ET0F2eAn) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [Make It Rain \(27 Tapes\)](https://open.spotify.com/album/25G0keXjFqywZnbHu8LA8G) | 6:35 |
+| 32 | [Nowhere](https://open.spotify.com/track/3qhupcUlxypKHUWujBzJ81) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Nowhere](https://open.spotify.com/album/3Yl6iLaSNTi4E0yilc1YHk) | 3:19 |
 | 33 | [Bright Belief](https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Bright Belief](https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD) | 4:42 |
 | 34 | [Dissolve](https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Dissolve](https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw) | 6:43 |
 | 35 | [sunflower boy](https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP) | [FLORA](https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W) | [sunflower boy](https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM) | 2:26 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 44 | [Pride](https://open.spotify.com/track/4cU0Giacvg9jQfrWGPNspL) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Pride](https://open.spotify.com/album/4Os3IsGK41LllegCFKZhkb) | 4:04 |
 | 45 | [Strange Rooms](https://open.spotify.com/track/2I5r34P8jfleAwAGOLaHbY) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ) | [The Joy of Coincidences](https://open.spotify.com/album/4c2E4n34cBqGr2kVzSmDD6) | 3:20 |
 | 46 | [love so blind \- night tapes](https://open.spotify.com/track/2Y1WTJudhihzTMydbK49jF) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [love so blind \(night tapes\)](https://open.spotify.com/album/5Y6nFYEEHfToj1cXpCd5VT) | 4:05 |
-| 47 | [Far Away](https://open.spotify.com/track/2a99fzynGMfoImtCGn6j1E) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [Far Away](https://open.spotify.com/album/68nMPJ3cMbDq2597lVgQjV) | 4:00 |
-| 48 | [Getting Up](https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra) | [Noa Lee](https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM) | [Getting Up](https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI) | 4:34 |
+| 47 | [Getting Up](https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra) | [Noa Lee](https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM) | [Getting Up](https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI) | 4:34 |
+| 48 | [Far Away](https://open.spotify.com/track/2a99fzynGMfoImtCGn6j1E) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [Far Away](https://open.spotify.com/album/68nMPJ3cMbDq2597lVgQjV) | 4:00 |
 | 49 | [Angel](https://open.spotify.com/track/4U7pnAXHXvMiiS6OPppAWf) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Angel](https://open.spotify.com/album/0hbVt302avAUnb1AER2uf6) | 3:24 |
 | 50 | [Morning Star](https://open.spotify.com/track/0qsxV8lNQcWc3idC2sk9d2) | [Pitou](https://open.spotify.com/artist/27aUOc2h4pz72oZen497Va) | [Morning Star](https://open.spotify.com/album/089sojnCen4IGYJvT6GEQT) | 4:54 |
 | 51 | [Baby Blue \- Acoustic](https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [Baby Blue \(Acoustic\)](https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c) | 3:05 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 59 | [Something Ain't Right \- Acoustic](https://open.spotify.com/track/2K5t7RDYD1C11XZmmT3KtT) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [Something Ain't Right \(Acoustic\)](https://open.spotify.com/album/1d0d9udPhXSTJEyWD0A3Cx) | 2:40 |
 | 60 | [U&I](https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [U&I](https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB) | 2:33 |
 | 61 | [My Child, My Friend](https://open.spotify.com/track/4fJ1qHYvlGZVtCWkIbO7hQ) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [My Child, My Friend \- Anchor](https://open.spotify.com/album/63nOrTo9E93yU00AZvnCLD) | 2:32 |
-| 62 | [Dragon's Eyes](https://open.spotify.com/track/1ymd7EMb8l88I9JJGo3CfH) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dragon's Eyes](https://open.spotify.com/album/3E0PArr2h7f5858XtadMCs) | 3:48 |
-| 63 | [Sunflower Sunset](https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq) | [Future Husband](https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI) | [Sunflower Sunset](https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2) | 5:08 |
+| 62 | [Sunflower Sunset](https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq) | [Future Husband](https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI) | [Sunflower Sunset](https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2) | 5:08 |
+| 63 | [Dragon's Eyes](https://open.spotify.com/track/1ymd7EMb8l88I9JJGo3CfH) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dragon's Eyes](https://open.spotify.com/album/3E0PArr2h7f5858XtadMCs) | 3:48 |
 | 64 | [I do](https://open.spotify.com/track/0QlMBEVCrI1fwarVSG2mO1) | [RAMAN.](https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86) | [I do](https://open.spotify.com/album/2NgybCTiLpld17LTGcDymR) | 3:41 |
 | 65 | [Holes](https://open.spotify.com/track/2uJr0wiHkkMYUkesFLkHFT) | [FEMI](https://open.spotify.com/artist/0d4PHPVdZaJylLDOJUd2Yw) | [Holes](https://open.spotify.com/album/0MzBPDnz6TRkL6TqmD68QS) | 3:51 |
 | 66 | [An Hour Per Day](https://open.spotify.com/track/7rBwAUy2w1CPrrIan7r2Rd) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [An Hour Per Day](https://open.spotify.com/album/32QlWfeGQTrlE5JFR3Teav) | 3:37 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 68 | [Embers](https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [Time Drifts](https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61) | 3:57 |
 | 69 | [Mr\. Beckett](https://open.spotify.com/track/2PuT4rCzGU7CXGVNAEihTe) | [Agnès Botty](https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC) | [Mr\. Beckett](https://open.spotify.com/album/5GmgDdcsrcwxePMDYTebeh) | 3:43 |
 | 70 | [You](https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Bleeding Colours](https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6) | 3:40 |
-| 71 | [More than a warning](https://open.spotify.com/track/2WyoxWAgDvsGzqKOWIhxPv) | [Amongster](https://open.spotify.com/artist/6YIKMlerK7c5j109TgfjnK) | [More than a warning](https://open.spotify.com/album/6mDTQhx9rC4e7fnRv9qgOW) | 5:01 |
-| 72 | [Boat](https://open.spotify.com/track/2nWj5r88reOB7RXxZc3DvE) | [RAMAN.](https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86) | [Boat](https://open.spotify.com/album/27Df3AJdoQ94z0CD6XmKqA) | 5:08 |
+| 71 | [Boat](https://open.spotify.com/track/2nWj5r88reOB7RXxZc3DvE) | [RAMAN.](https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86) | [Boat](https://open.spotify.com/album/27Df3AJdoQ94z0CD6XmKqA) | 5:08 |
+| 72 | [More than a warning](https://open.spotify.com/track/2WyoxWAgDvsGzqKOWIhxPv) | [Amongster](https://open.spotify.com/artist/6YIKMlerK7c5j109TgfjnK) | [More than a warning](https://open.spotify.com/album/6mDTQhx9rC4e7fnRv9qgOW) | 5:01 |
 | 73 | [EMBERS](https://open.spotify.com/track/5F1sWEiHVBYUbVQ178MZ5d) | [Cero Ismael](https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo) | [AT LEAST SOMETHING IS PROTECTING YOU](https://open.spotify.com/album/4gSBN4HJksGUFxXVsdcAX0) | 3:37 |
 | 74 | [Exit Wounds](https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Sincerely, Sevens](https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn) | 4:10 |
 | 75 | [Lucy](https://open.spotify.com/track/72RALfAJBuXc939MfC0Gl7) | [Lisette](https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO) | [Lucy](https://open.spotify.com/album/7pYx7rQtcVhaLEKlf0QQ4Y) | 3:45 |

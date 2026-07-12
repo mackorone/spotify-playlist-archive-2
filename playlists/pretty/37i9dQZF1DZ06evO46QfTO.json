@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAAAFTo9AQFfg6xgxO1SXVvui",
+  "snapshot_id": "alA2AAAAAACDIMQGWJDCLQa2cdPRzlDC",
   "tracks": [
     {
       "added_at": null,
@@ -491,18 +491,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parachute",
-        "url": "https://open.spotify.com/album/4stLFHAPs5H3vnd9iU5l11"
+        "name": "Live at The Gorge 2023",
+        "url": "https://open.spotify.com/album/4q1ps5m2IFKCdlKrCxhcuz"
       },
       "artists": [
         {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
         }
       ],
-      "duration_ms": 172903,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/4w2tZUs63YQeIFhKSCScJ7"
+      "duration_ms": 240804,
+      "name": "Always On My Mind - Live at The Gorge 2023",
+      "url": "https://open.spotify.com/track/6RiuvtanF3taMviufzjsRN"
     },
     {
       "added_at": null,
@@ -555,34 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at The Gorge 2023",
-        "url": "https://open.spotify.com/album/4q1ps5m2IFKCdlKrCxhcuz"
+        "name": "Restoration: The Songs Of Elton John And Bernie Taupin",
+        "url": "https://open.spotify.com/album/25I3CO8X3zQvoEySDD2UIP"
       },
       "artists": [
         {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        },
-        {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
         }
       ],
-      "duration_ms": 240804,
-      "name": "Always On My Mind - Live at The Gorge 2023",
-      "url": "https://open.spotify.com/track/6RiuvtanF3taMviufzjsRN"
+      "duration_ms": 304026,
+      "name": "Mona Lisas And Mad Hatters",
+      "url": "https://open.spotify.com/track/3sZpfLcumDW0henSU6wbie"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Restoration: The Songs Of Elton John And Bernie Taupin",
-        "url": "https://open.spotify.com/album/25I3CO8X3zQvoEySDD2UIP"
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/4stLFHAPs5H3vnd9iU5l11"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 304026,
-      "name": "Mona Lisas And Mad Hatters",
-      "url": "https://open.spotify.com/track/3sZpfLcumDW0henSU6wbie"
+      "duration_ms": 172903,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/4w2tZUs63YQeIFhKSCScJ7"
     },
     {
       "added_at": null,

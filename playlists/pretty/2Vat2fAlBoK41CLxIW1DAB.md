@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,587 likes - 1,075 songs - 2 day 19 hr 44 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,587 likes - 1,078 songs - 2 day 19 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1083,5 +1083,8 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1073 | [Void Side](https://open.spotify.com/track/5h2qXbZScJHi1TDqdPfeCR) | [Rubber Block](https://open.spotify.com/artist/45JwohjuGbElTpuk8Kqjuk) | [Void Side](https://open.spotify.com/album/27qTc6V8t9S61yKKXk6les) | 4:23 |
 | 1074 | [Spark Mandrill Mega Man X \- Vocal Version](https://open.spotify.com/track/61GCtHUH83JJazDKrnSLFa) | [Vocal Game Orchestra](https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK) | [Spark Mandrill Mega Man X \(Vocal Version\)](https://open.spotify.com/album/7d1TDCvSIGNkYlR7Husnyp) | 3:42 |
 | 1075 | [Ocho de Oros](https://open.spotify.com/track/6h3Vdl2vHTmqeXPTvPEa9M) | [MENENDEZ](https://open.spotify.com/artist/4ufs2hcQ5G3tGnLiCsrXxz) | [Ocho de Oros](https://open.spotify.com/album/4MTSkVcrOe5QjGfHOsZN2X) | 2:37 |
+| 1076 | [Don't Trust Anyone Over 21](https://open.spotify.com/track/0fztYRNQGiV3W57FU5syMl) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [Don't Trust Anyone Over 21](https://open.spotify.com/album/7yIX3meztExaI6ViFxAxg5) | 1:44 |
+| 1077 | [Petali](https://open.spotify.com/track/7edv8TCszqSqjkOxJEd2AC) | [Piede Sinistro](https://open.spotify.com/artist/4Hhfi2Z1ix6ZilrrwBDwZC) | [Petali](https://open.spotify.com/album/4piBiaskMrcGbkiWvpp0jL) | 6:40 |
+| 1078 | [Ni una más](https://open.spotify.com/track/3lglnKcrFajSfLjOnuN0nI) | [Astter](https://open.spotify.com/artist/2Ch4GYMv1onUucKUYI8xOC) | [Ni una más](https://open.spotify.com/album/5ryt9yB666ApOwxjJtuj2J) | 4:11 |
 
-Snapshot ID: `AAAEXFvNbuDTeaoXIGTrAM19BS65LDze`
+Snapshot ID: `AAAEX1pz1vQwmvLEbmGFXvHAYPRq5IdW`

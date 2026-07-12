@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,289 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,280 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 46 | [Reinará el Caos](https://open.spotify.com/track/1XDlBd1YCUkQOsoNhA3C5z) | [Serpentor](https://open.spotify.com/artist/09Z8ZKx0g9HCsO9BiaYMwM) | [Legiones](https://open.spotify.com/album/5Ytr8u4scs1gTzPdZ2ABOf) | 6:14 |
 | 47 | [Poseido Por Mezcal](https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp) | [Gore and Carnage](https://open.spotify.com/artist/17iNOJcVt7aZW0XhoIfHON) | [Carnage Drinking Party](https://open.spotify.com/album/7aepstukqCVA5U97ZbaEYR) | 2:50 |
 | 48 | [Exoplanets](https://open.spotify.com/track/0XGjcnZsOeAcNILNBlo27t) | [SYRACUSÆ](https://open.spotify.com/artist/3s5NSrjy5sXASsWsm55iPy) | [Radix Nebulæ](https://open.spotify.com/album/5mIVWC2ZAcehl7Gv02jXzX) | 4:01 |
-| 49 | [Deceitful Idols](https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz) | [Anima Tempo](https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5) | [Deceitful Idols](https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw) | 5:31 |
-| 50 | [Outsider God Creation \(O.G.C\)](https://open.spotify.com/track/5TbhsLhD3xjvjp2uzpfkNJ) | [Tulkas](https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD) | [The Beginning of the End](https://open.spotify.com/album/2K9YBzwC1T2aSiF3Gh7pBM) | 3:43 |
+| 49 | [Outsider God Creation \(O.G.C\)](https://open.spotify.com/track/5TbhsLhD3xjvjp2uzpfkNJ) | [Tulkas](https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD) | [The Beginning of the End](https://open.spotify.com/album/2K9YBzwC1T2aSiF3Gh7pBM) | 3:43 |
+| 50 | [Deceitful Idols](https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz) | [Anima Tempo](https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5) | [Deceitful Idols](https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw) | 5:31 |
 
 Snapshot ID: `AAAAAP2OW3hy7Ps67JOGKAv3PD8rQsW5`

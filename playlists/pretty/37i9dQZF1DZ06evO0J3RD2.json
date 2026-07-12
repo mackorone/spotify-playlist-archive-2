@@ -1,18 +1,18 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 10194,
+  "num_followers": 10197,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAACDmex5IY7zC5z9csfamtRc",
+  "snapshot_id": "alA2AAAAAACgUj/crbvof03fannkxbfS",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Everything Is Fine",
-        "url": "https://open.spotify.com/album/6YxbIqTn8jp6dT0gumt95i"
+        "name": "Separate",
+        "url": "https://open.spotify.com/album/0g7GoM0FyngljVs9mBSKKx"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 207324,
-      "name": "Everything Is Fine",
-      "url": "https://open.spotify.com/track/37eDPMu6oa0qW4r8EWniqg"
+      "duration_ms": 236692,
+      "name": "Separate",
+      "url": "https://open.spotify.com/track/61ebglogYwWK4aBLr7AHi3"
     },
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everything Is Fine",
+        "url": "https://open.spotify.com/album/6YxbIqTn8jp6dT0gumt95i"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 207324,
+      "name": "Everything Is Fine",
+      "url": "https://open.spotify.com/track/37eDPMu6oa0qW4r8EWniqg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back in My Ways",
         "url": "https://open.spotify.com/album/7HYOkNQbfd5qadZaJ2S3Ec"
       },
@@ -75,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Good Left To Give",
-        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 240906,
-      "name": "Skin To Skin",
-      "url": "https://open.spotify.com/track/1leOJnHs7HFXF4B5Nsgkmk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
       },
@@ -103,6 +103,22 @@
       "duration_ms": 204786,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/4pdPJQqQNWuDQ6Swl2mW2u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Good Left To Give",
+        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "Skin To Skin",
+      "url": "https://open.spotify.com/track/1leOJnHs7HFXF4B5Nsgkmk"
     },
     {
       "added_at": null,
@@ -139,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outgrown Things",
-        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 147788,
-      "name": "Kept",
-      "url": "https://open.spotify.com/track/4mW87rC2y8oJWYCglzBuO1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
       },
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where I Lay",
-        "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
+        "name": "Outgrown Things",
+        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 216741,
-      "name": "Where I Lay",
-      "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
+      "duration_ms": 147788,
+      "name": "Kept",
+      "url": "https://open.spotify.com/track/4mW87rC2y8oJWYCglzBuO1"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outgrown Things",
-        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
+        "name": "Where I Lay",
+        "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 241034,
-      "name": "Nineteen",
-      "url": "https://open.spotify.com/track/5b3p0Lc2Kc1gwZnECZ1kmg"
+      "duration_ms": 216741,
+      "name": "Where I Lay",
+      "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
     },
     {
       "added_at": null,
@@ -231,6 +231,22 @@
       "duration_ms": 226360,
       "name": "Third Degree",
       "url": "https://open.spotify.com/track/31ziLyxm1ZIy8vEXM6EzkF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outgrown Things",
+        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 241034,
+      "name": "Nineteen",
+      "url": "https://open.spotify.com/track/5b3p0Lc2Kc1gwZnECZ1kmg"
     },
     {
       "added_at": null,
@@ -267,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outgrown Things",
-        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 237541,
-      "name": "Losing Fight",
-      "url": "https://open.spotify.com/track/5wwUo18ajQFtZnIsmZlblL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
       },
@@ -295,6 +295,22 @@
       "duration_ms": 284626,
       "name": "Suffer Through",
       "url": "https://open.spotify.com/track/3tNScF4XZyN4vVwuvgxOlR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outgrown Things",
+        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 237541,
+      "name": "Losing Fight",
+      "url": "https://open.spotify.com/track/5wwUo18ajQFtZnIsmZlblL"
     },
     {
       "added_at": null,
@@ -331,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Good Left To Give",
-        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 277146,
-      "name": "Love Took The Last Of It",
-      "url": "https://open.spotify.com/track/1IlAPVYbBIffKz29syKvBb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
       },
@@ -359,6 +359,22 @@
       "duration_ms": 227840,
       "name": "Deadly Dull",
       "url": "https://open.spotify.com/track/4qod43EImMolOovemD03is"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Good Left To Give",
+        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 277146,
+      "name": "Love Took The Last Of It",
+      "url": "https://open.spotify.com/track/1IlAPVYbBIffKz29syKvBb"
     },
     {
       "added_at": null,
@@ -395,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Good Left To Give",
-        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 203653,
-      "name": "Garden Eyes",
-      "url": "https://open.spotify.com/track/0llSSP7u2IRZ3ShjIu4PVZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barbed Wire Body",
         "url": "https://open.spotify.com/album/6Re5QwReJ9IUWdd1H8PCtm"
       },
@@ -423,6 +423,22 @@
       "duration_ms": 208023,
       "name": "Barbed Wire Body",
       "url": "https://open.spotify.com/track/1uOXmY4sYHLpaad4ejJLIZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Good Left To Give",
+        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 203653,
+      "name": "Garden Eyes",
+      "url": "https://open.spotify.com/track/0llSSP7u2IRZ3ShjIu4PVZ"
     },
     {
       "added_at": null,
@@ -459,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live At Studio 4",
+        "url": "https://open.spotify.com/album/1XmQ6wmZUnP6uNb4MWIYHV"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 185841,
+      "name": "Banquet - Live at Studio 4",
+      "url": "https://open.spotify.com/track/3RDTegTI8uKrYjkz8S7obS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Good Left To Give",
         "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
       },
@@ -471,22 +503,6 @@
       "duration_ms": 213186,
       "name": "In My Blood",
       "url": "https://open.spotify.com/track/4urLThnwcBZ3hnHSIsbhCN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Protection (Demo)",
-        "url": "https://open.spotify.com/album/11kPmcZX8Bwy0Rr3ZSe5hl"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 209967,
-      "name": "Protection - Demo",
-      "url": "https://open.spotify.com/track/0zGmEOISsMzpD0LvRVcJuO"
     },
     {
       "added_at": null,
@@ -523,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Protection (Demo)",
+        "url": "https://open.spotify.com/album/11kPmcZX8Bwy0Rr3ZSe5hl"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 209967,
+      "name": "Protection - Demo",
+      "url": "https://open.spotify.com/track/0zGmEOISsMzpD0LvRVcJuO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Good Left To Give",
         "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
       },
@@ -535,22 +567,6 @@
       "duration_ms": 216826,
       "name": "Moonlight Lines",
       "url": "https://open.spotify.com/track/0MsVyaHNAYDVPjoRUqlLYU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live At Studio 4",
-        "url": "https://open.spotify.com/album/1XmQ6wmZUnP6uNb4MWIYHV"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 185841,
-      "name": "Banquet - Live at Studio 4",
-      "url": "https://open.spotify.com/track/3RDTegTI8uKrYjkz8S7obS"
     },
     {
       "added_at": null,

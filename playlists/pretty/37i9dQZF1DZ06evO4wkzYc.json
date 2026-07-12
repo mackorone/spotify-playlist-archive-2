@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 195373,
+  "num_followers": 195404,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAAAmLq2TAwQZ3U8/CLWhMKZg",
+  "snapshot_id": "alA2AAAAAAC6465mLOH9O5hxLab4oVnw",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buena Suerte",
-        "url": "https://open.spotify.com/album/6q7qOFkHzyucZQVIcCJOYo"
+        "name": "Fotograf\u00eda",
+        "url": "https://open.spotify.com/album/21uioYBhTjhGisiKunbldo"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 234591,
-      "name": "Buena Suerte",
-      "url": "https://open.spotify.com/track/7bl6zLYsNqpNQnI2bT8bR6"
+      "duration_ms": 212532,
+      "name": "Fotograf\u00eda",
+      "url": "https://open.spotify.com/track/1gOaDmYSzt75cZeAR7YRcl"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fotograf\u00eda",
-        "url": "https://open.spotify.com/album/21uioYBhTjhGisiKunbldo"
+        "name": "Buena Suerte",
+        "url": "https://open.spotify.com/album/6q7qOFkHzyucZQVIcCJOYo"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 212532,
-      "name": "Fotograf\u00eda",
-      "url": "https://open.spotify.com/track/1gOaDmYSzt75cZeAR7YRcl"
+      "duration_ms": 234591,
+      "name": "Buena Suerte",
+      "url": "https://open.spotify.com/track/7bl6zLYsNqpNQnI2bT8bR6"
     },
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Cuadros (Live)",
+        "url": "https://open.spotify.com/album/4KupvBAM1H8vyTn8jDnBlg"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "El Cuadros (Live)",
+      "url": "https://open.spotify.com/track/53dI1nKPKxtMmS7jwQe3Z2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
@@ -399,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cuadros (Live)",
-        "url": "https://open.spotify.com/album/4KupvBAM1H8vyTn8jDnBlg"
+        "name": "Primer Tiempo",
+        "url": "https://open.spotify.com/album/0A4OediUQq2lXiFq0OB7gX"
       },
       "artists": [
         {
@@ -408,9 +424,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 247000,
-      "name": "El Cuadros (Live)",
-      "url": "https://open.spotify.com/track/53dI1nKPKxtMmS7jwQe3Z2"
+      "duration_ms": 212074,
+      "name": "Primer Tiempo",
+      "url": "https://open.spotify.com/track/0FEniDA74LuWEScdiQRmpI"
     },
     {
       "added_at": null,
@@ -427,22 +443,6 @@
       "duration_ms": 252821,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/2XoKzEPIDorxowyezrPPyv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Primer Tiempo",
-        "url": "https://open.spotify.com/album/0A4OediUQq2lXiFq0OB7gX"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 212074,
-      "name": "Primer Tiempo",
-      "url": "https://open.spotify.com/track/0FEniDA74LuWEScdiQRmpI"
     },
     {
       "added_at": null,

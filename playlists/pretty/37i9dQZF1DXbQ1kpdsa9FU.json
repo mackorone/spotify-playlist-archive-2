@@ -1,6 +1,6 @@
 {
   "description": "Classic Contemporary Christian songs you can always count on! Cover: Lauren Daigle",
-  "num_followers": 674405,
+  "num_followers": 674452,
   "original_name": "Christian Classics",
   "owner": {
     "name": "Spotify",
@@ -427,18 +427,18 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "The Very Next Thing",
-        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
       "artists": [
         {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 256186,
-      "name": "Oh My Soul",
-      "url": "https://open.spotify.com/track/3s0h3pyKFrS3XX6ZLBPx6s"
+      "duration_ms": 327000,
+      "name": "Living Hope",
+      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -459,18 +459,18 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+        "name": "The Very Next Thing",
+        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 327000,
-      "name": "Living Hope",
-      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
+      "duration_ms": 256186,
+      "name": "Oh My Soul",
+      "url": "https://open.spotify.com/track/3s0h3pyKFrS3XX6ZLBPx6s"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "Casting Crowns",
-        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 323866,
-      "name": "Voice of Truth",
-      "url": "https://open.spotify.com/track/4G29gmjS7Z2nEFeM7FA6wx"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
         "name": "RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)",
         "url": "https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 318693,
       "name": "How He Loves",
       "url": "https://open.spotify.com/track/6WSFMa721PvfnspCRsGOMh"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
+        "name": "Casting Crowns",
+        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 323866,
+      "name": "Voice of Truth",
+      "url": "https://open.spotify.com/track/4G29gmjS7Z2nEFeM7FA6wx"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "Only Jesus",
-        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 223906,
-      "name": "Only Jesus",
-      "url": "https://open.spotify.com/track/5SVARIypUactzhS79rk6x8"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
         "name": "Bright Faith Bold Future",
         "url": "https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 306253,
       "name": "The Lion and the Lamb",
       "url": "https://open.spotify.com/track/2FJYXPlTmFPAjTwPS1bMnw"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 223906,
+      "name": "Only Jesus",
+      "url": "https://open.spotify.com/track/5SVARIypUactzhS79rk6x8"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "Love Remains",
-        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
-      },
-      "artists": [
-        {
-          "name": "Hillary Scott & The Scott Family",
-          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Thy Will",
-      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
         "name": "Love Come To Life",
         "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 276186,
       "name": "Redeemed",
       "url": "https://open.spotify.com/track/7zuwaenG5AF0vG7o7kMduX"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
+        "name": "Love Remains",
+        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
+      },
+      "artists": [
+        {
+          "name": "Hillary Scott & The Scott Family",
+          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Thy Will",
+      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
+        "name": "Saved",
+        "url": "https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi"
+      },
+      "artists": [
+        {
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+        }
+      ],
+      "duration_ms": 174285,
+      "name": "Saved",
+      "url": "https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
         "name": "Keep Me In The Moment (Radio Version)",
         "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 242160,
       "name": "Way Maker",
       "url": "https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
-        "name": "Saved",
-        "url": "https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi"
-      },
-      "artists": [
-        {
-          "name": "Joseph O'Brien",
-          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
-        }
-      ],
-      "duration_ms": 174285,
-      "name": "Saved",
-      "url": "https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "God's Not Dead",
-        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "God's Not Dead (Like A Lion)",
-      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
         "name": "The Glorious Unfolding",
         "url": "https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 286826,
       "name": "Glorious Unfolding",
       "url": "https://open.spotify.com/track/5AyWEKs3d9PXpPkUuf5vup"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
+        "name": "God's Not Dead",
+        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "God's Not Dead (Like A Lion)",
+      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "Rescuer (Good News)",
-        "url": "https://open.spotify.com/album/5mati4th5xS4GWys74MiR2"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 208146,
-      "name": "Rescuer (Good News)",
-      "url": "https://open.spotify.com/track/32f24TdkpHx8L0EZX2HbP4"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
         "name": "One On One",
         "url": "https://open.spotify.com/album/5uYffu8aERkexDcLKouRIK"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 287266,
       "name": "He Covers Me",
       "url": "https://open.spotify.com/track/61IVYRbXr7bxHl0aiGe1eH"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
+        "name": "Rescuer (Good News)",
+        "url": "https://open.spotify.com/album/5mati4th5xS4GWys74MiR2"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 208146,
+      "name": "Rescuer (Good News)",
+      "url": "https://open.spotify.com/track/32f24TdkpHx8L0EZX2HbP4"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -2111,6 +2111,22 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
+        "name": "Goodness of God (Radio Version)",
+        "url": "https://open.spotify.com/album/6PSBzgkRIDZaILu4gdYTOE"
+      },
+      "artists": [
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 236213,
+      "name": "Goodness of God - Radio Version",
+      "url": "https://open.spotify.com/track/665Ki3oftw2evstCgtmiSw"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
         "name": "Spoken For",
         "url": "https://open.spotify.com/album/1tPtm5JRDC1kYZgb9WretN"
       },
@@ -2151,22 +2167,6 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "Goodness of God (Radio Version)",
-        "url": "https://open.spotify.com/album/6PSBzgkRIDZaILu4gdYTOE"
-      },
-      "artists": [
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 236213,
-      "name": "Goodness of God - Radio Version",
-      "url": "https://open.spotify.com/track/665Ki3oftw2evstCgtmiSw"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
         "name": "Beloved",
         "url": "https://open.spotify.com/album/37b7Y7ow9J8eHcRyEtqaWY"
       },
@@ -2179,6 +2179,22 @@
       "duration_ms": 195506,
       "name": "The River",
       "url": "https://open.spotify.com/track/1mSMwIW4ZK6DVl499FvDPv"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
+        "name": "The Ascension",
+        "url": "https://open.spotify.com/album/4n00c0RLzY8dZiDnsNwHQf"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 279786,
+      "name": "This Is Amazing Grace",
+      "url": "https://open.spotify.com/track/5C64H6dEsQ15bS9gp0D3Xr"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -2207,18 +2223,50 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "The Ascension",
-        "url": "https://open.spotify.com/album/4n00c0RLzY8dZiDnsNwHQf"
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 279786,
-      "name": "This Is Amazing Grace",
-      "url": "https://open.spotify.com/track/5C64H6dEsQ15bS9gp0D3Xr"
+      "duration_ms": 259293,
+      "name": "How Can It Be",
+      "url": "https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS"
+      },
+      "artists": [
+        {
+          "name": "Citizen Way",
+          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
+        }
+      ],
+      "duration_ms": 244786,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
+        "name": "The Father's House",
+        "url": "https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 253640,
+      "name": "The Father's House - Studio",
+      "url": "https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -2243,22 +2291,6 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "2.0",
-        "url": "https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS"
-      },
-      "artists": [
-        {
-          "name": "Citizen Way",
-          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
-        }
-      ],
-      "duration_ms": 244786,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
         "name": "We Will Not Be Shaken (Live)",
         "url": "https://open.spotify.com/album/6Es2No0kYBzVAQlSmsEaZm"
       },
@@ -2279,38 +2311,6 @@
       "duration_ms": 373691,
       "name": "No Longer Slaves (Live)",
       "url": "https://open.spotify.com/track/63SF10lPoWA71bDYYzxfUs"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 259293,
-      "name": "How Can It Be",
-      "url": "https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
-        "name": "The Father's House",
-        "url": "https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 253640,
-      "name": "The Father's House - Studio",
-      "url": "https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -2347,26 +2347,6 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "Stand In Your Love (Radio Version)",
-        "url": "https://open.spotify.com/album/1ZID8iDyFaevr7kBna3Y9d"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Stand In Your Love - Radio Version",
-      "url": "https://open.spotify.com/track/6HRU0CPcG0q3Dq8XVBWacL"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
         "name": "How Can It Be",
         "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
       },
@@ -2379,38 +2359,6 @@
       "duration_ms": 211600,
       "name": "Trust In You",
       "url": "https://open.spotify.com/track/4908mwb34dqgcaxHeFjitw"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
-        "name": "In Jesus Name (God Of Possible)",
-        "url": "https://open.spotify.com/album/6O6M9RO7S8AztEGAYKvD5T"
-      },
-      "artists": [
-        {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
-        }
-      ],
-      "duration_ms": 222039,
-      "name": "In Jesus Name (God Of Possible)",
-      "url": "https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 265377,
-      "name": "Endless Alleluia",
-      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -2431,6 +2379,74 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
+        "name": "Stand In Your Love (Radio Version)",
+        "url": "https://open.spotify.com/album/1ZID8iDyFaevr7kBna3Y9d"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Stand In Your Love - Radio Version",
+      "url": "https://open.spotify.com/track/6HRU0CPcG0q3Dq8XVBWacL"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
+        "name": "In Jesus Name (God Of Possible)",
+        "url": "https://open.spotify.com/album/6O6M9RO7S8AztEGAYKvD5T"
+      },
+      "artists": [
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        }
+      ],
+      "duration_ms": 222039,
+      "name": "In Jesus Name (God Of Possible)",
+      "url": "https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
+        "name": "Welcome to the New",
+        "url": "https://open.spotify.com/album/4xBIDYQZtXRghjFPwqDLsP"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Flawless",
+      "url": "https://open.spotify.com/track/6wa4KnRz7LjGeMkpIa1mAI"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 265377,
+      "name": "Endless Alleluia",
+      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/5AJl777j0hpNnNGWSrMLSW"
       },
@@ -2443,22 +2459,6 @@
       "duration_ms": 218146,
       "name": "You've Always Been",
       "url": "https://open.spotify.com/track/3WJu00SBajX0tuNfg53yKU"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 215133,
-      "name": "Grace Got You",
-      "url": "https://open.spotify.com/track/72Hr8XLZckFo1Gie68XoMf"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "Ever Be",
-        "url": "https://open.spotify.com/album/09ErTYDLaRj9MgTr8oEUuj"
-      },
-      "artists": [
-        {
-          "name": "Aaron Shust",
-          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
-        }
-      ],
-      "duration_ms": 230093,
-      "name": "Ever Be",
-      "url": "https://open.spotify.com/track/0P8ANiSwsjYPx3zrmgN2Pv"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
         "name": "Hope In Front of Me",
         "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
       },
@@ -2511,22 +2495,34 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "God Is In This Story",
-        "url": "https://open.spotify.com/album/4EsF6LpMu2xAxL0tGooqs3"
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H"
       },
       "artists": [
         {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
-        },
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 207893,
-      "name": "God Is In This Story",
-      "url": "https://open.spotify.com/track/7m0BMNyTpSnsJYfsRiHw2T"
+      "duration_ms": 215133,
+      "name": "Grace Got You",
+      "url": "https://open.spotify.com/track/72Hr8XLZckFo1Gie68XoMf"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
+        "name": "Ever Be",
+        "url": "https://open.spotify.com/album/09ErTYDLaRj9MgTr8oEUuj"
+      },
+      "artists": [
+        {
+          "name": "Aaron Shust",
+          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
+        }
+      ],
+      "duration_ms": 230093,
+      "name": "Ever Be",
+      "url": "https://open.spotify.com/track/0P8ANiSwsjYPx3zrmgN2Pv"
     }
   ],
   "unique_name": "Christian Classics",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,376 likes - 127 songs - 7 hr 29 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,393 likes - 153 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,5 +135,31 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 125 | [Fish & Chips](https://open.spotify.com/track/3FlfuOFyNwXyjSv8udcKQA) | [Eton Mess](https://open.spotify.com/artist/5Oy0lVKo8ShUaIH7EgXytd) | [Fish & Chips](https://open.spotify.com/album/6sGInEiyXDwzTwz5r4lSwx) | 3:44 |
 | 126 | [A Message From Your CEO](https://open.spotify.com/track/3lKx37ScGCP5bmFRbXYnHU) | [TIRED](https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO) | [A Message From Your CEO](https://open.spotify.com/album/0fmz9MTlaq5jnQOaDrDP7N) | 2:59 |
 | 127 | [My Second City](https://open.spotify.com/track/6JQWtSGeYlM3Op0AxmlWrl) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Firefly](https://open.spotify.com/album/1bMDCSdzHHfO9z0qkHZKpw) | 4:10 |
+| 128 | [Broken Wing](https://open.spotify.com/track/2gFYI8Ax3ISP7MtpFdB7OE) | [Tom Burton](https://open.spotify.com/artist/4gHMj05Ks2ZFf4vQZHIFrX) | [United States Of Consciousness](https://open.spotify.com/album/61KLmSmumSPGpmxDit7qQA) | 2:54 |
+| 129 | [No pierdas la fe](https://open.spotify.com/track/21khIKflv727TWXrdzMDTR) | [Mentes Extrañas](https://open.spotify.com/artist/5zs9HS2LJT78BM3fk60mCM) | [No pierdas la fe](https://open.spotify.com/album/59KTNRoVmONWQzzMAt1ndm) | 4:52 |
+| 130 | [Cricket Coyote](https://open.spotify.com/track/6m8SoDsRXRtCTCIiu4lb9k) | [Springworks](https://open.spotify.com/artist/351ok85APWNYv1RcU0UMcn) | [Cricket Coyote](https://open.spotify.com/album/0lgQkHMixqlSfNYuejukwp) | 4:00 |
+| 131 | [Merula](https://open.spotify.com/track/6Zk3cIezRFEyI8699OUGpN) | [Alucuo](https://open.spotify.com/artist/6Prfi240kavl9FH0KZb0VE) | [Merula](https://open.spotify.com/album/4wCfPKK8IHafnFdJzOlU4M) | 5:05 |
+| 132 | [Morgenstunden](https://open.spotify.com/track/1BLJeUBDUcBRke4GoUBHmC) | [Pro\|Contra](https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0) | [Morgenstunden](https://open.spotify.com/album/64Yf9GQOvTOg29UazBTOJV) | 3:14 |
+| 133 | [United](https://open.spotify.com/track/5jatJhTrrKfJRZZCHMM6tT) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [United](https://open.spotify.com/album/7walbgh9oEj9ZEzp6BY48s) | 4:02 |
+| 134 | [LITTLE FIRE](https://open.spotify.com/track/17viPu9V17mTHtM9GveWNr) | [Looperian](https://open.spotify.com/artist/6Z5SR6G9SpWPpp42YqNkkl) | [LITTLE FIRE](https://open.spotify.com/album/4gA5EyN0nyvVeKMYb0dlQX) | 2:36 |
+| 135 | [Wanna Be Enough](https://open.spotify.com/track/5KlXGcFG9ZaZgHC3gh9pmS) | [Painted Vein](https://open.spotify.com/artist/1Yz4iQXuDT8WRluhIxYHLa) | [Wanna Be Enough](https://open.spotify.com/album/4lKFZ6qfOa4Qe6YT823IZY) | 3:48 |
+| 136 | [Have You Heard Your Muse Today?](https://open.spotify.com/track/5dBXLIn9THvF7UDV6Y6Z49) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Have You Heard Your Muse Today?](https://open.spotify.com/album/5pTt9dounJvnstZN3XHNao) | 3:16 |
+| 137 | [Yeshua](https://open.spotify.com/track/62oGDvbFl7NO5wgzIirIJF) | [Lily Suarez](https://open.spotify.com/artist/4n5pyBbmvQPxXYhWzOhobk) | [Yeshua](https://open.spotify.com/album/5ll3BZ9woxXfKMsBggfBVG) | 4:13 |
+| 138 | [All Is Forgotten](https://open.spotify.com/track/4Xaq7bgiBr7YK6k1O4gERG) | [Valeska Rautenberg](https://open.spotify.com/artist/2lz2rj9yfHH2eKyaGavPmG) | [All Is Forgotten](https://open.spotify.com/album/0Jfq5rGvMJVW3aWvmxBv3U) | 3:40 |
+| 139 | [The End Of The World](https://open.spotify.com/track/6LKjncAFK8GrMrURG7neon) | [Valeska Rautenberg](https://open.spotify.com/artist/2lz2rj9yfHH2eKyaGavPmG) | [The End Of The World](https://open.spotify.com/album/3DOtuqQNpIHnsICIHQK2An) | 4:33 |
+| 140 | [The Ghost Of You \- Epic Rock Version](https://open.spotify.com/track/1A6zCKYRn7QlIkMh0izWjW) | [Jordi Martijnse](https://open.spotify.com/artist/5Z0G3YfqBlb7LaqJDhKv5p) | [Ascend](https://open.spotify.com/album/7HBJCsmEoPOBmV043hkXCr) | 2:41 |
+| 141 | [Starting to Remember How Much I Forgot](https://open.spotify.com/track/4DPRKTginZ5orODg84OVyd) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [Starting to Remember How Much I Forgot](https://open.spotify.com/album/5A9Ct6ApsEwbNlcobRXSvC) | 3:53 |
+| 142 | [Blue tune](https://open.spotify.com/track/0RNQne6RylKVUVhDqYwutN) | [Jonas Magnus](https://open.spotify.com/artist/3oEJRI3vBzmOaqUVC8lnPf) | [Blue tune](https://open.spotify.com/album/37EchHk4bAJOhrEUMN7NAN) | 5:22 |
+| 143 | [The Best of Me](https://open.spotify.com/track/3n7ZVxio1kVh19S8F8nqxZ) | [Carve A Path](https://open.spotify.com/artist/0u2Z1IEHUa7W6Elk5raydq) | [The Best of Me](https://open.spotify.com/album/1Q8TLja8NDsJb5uKZb6GkD) | 2:34 |
+| 144 | [Shortest Road Home](https://open.spotify.com/track/0YhOC9ETJGVe72Lyjha8gt) | [Static Echoes](https://open.spotify.com/artist/4qx5CnX8jGV49bqPKbatO7) | [Shortest Road Home](https://open.spotify.com/album/61kd7rxYDkqyWK6UnLPxZJ) | 4:03 |
+| 145 | [Alone](https://open.spotify.com/track/3Z4v94f97kZae71m3BP61t) | [Adaon](https://open.spotify.com/artist/6XlOoosLaDRzdbVuZQrodR) | [Alone](https://open.spotify.com/album/0VPhlG383qYQbHWHcDSfnL) | 3:08 |
+| 146 | [Diamond and the Missing Son](https://open.spotify.com/track/293qXS4YFA9eFcb8Plx4u9) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons In Exile](https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9) | 3:16 |
+| 147 | [Future Paranoia](https://open.spotify.com/track/0JkVP9dN0djsS4j1aKMwZO) | [Philip Morgan Lewis](https://open.spotify.com/artist/6dttJ9KPpPk9qoo8mEWkR5) | [Future Paranoia](https://open.spotify.com/album/1X5EWN85z3URtBr5A0Msyd) | 2:22 |
+| 148 | [WILD & FREE](https://open.spotify.com/track/02zBGk2Q0JwkMfcmuoQJp5) | [Chicka Tikka Masala](https://open.spotify.com/artist/1itNEUHvXnRTI9iCL5KGCt) | [WILD & FREE](https://open.spotify.com/album/4RaF3tyOXEI6EoRR596xbQ) | 3:18 |
+| 149 | [...for now \- Into Space](https://open.spotify.com/track/6XM0h8X2tSTNdE3qw5i944) | [luccien](https://open.spotify.com/artist/3pbzfaY1jr9lPPQR9SEMv6) | [\(A Winter\) Afternoon's Dream](https://open.spotify.com/album/0CjI50Ten6aUKHQhsWgiTE) | 3:38 |
+| 150 | [Il dj non suona](https://open.spotify.com/track/1kMGWzUHyNqdSKahkVFH15) | [Maurizio Ferrandini](https://open.spotify.com/artist/0LjzyJKPxYpkh3qMKwVI82) | [Il dj non suona](https://open.spotify.com/album/0CqCj564cbyme7Xr6LmQ8B) | 3:33 |
+| 151 | [Musig](https://open.spotify.com/track/26atbqJ6T5e7LKfjCfrtl9) | [Stürmechopf](https://open.spotify.com/artist/3ShY5j2uqPvxNfXrq9iekD) | [Entscheidig](https://open.spotify.com/album/6GDRSsTunDwFQUayu0VYtd) | 3:46 |
+| 152 | [Ardiendo](https://open.spotify.com/track/43R4CBW7vMDdNZN3DNTNAM) | [Lily Suarez](https://open.spotify.com/artist/4n5pyBbmvQPxXYhWzOhobk) | [Ardiendo](https://open.spotify.com/album/6Vw8vEcr8V7mWYS2xOpkc0) | 4:11 |
+| 153 | [Heroes](https://open.spotify.com/track/596u2SUCqdCMgkvHSMHzsi) | [La Nuit Américaine](https://open.spotify.com/artist/5WJizH3K1fRjTS2dYtpVCf) | [Heroes](https://open.spotify.com/album/74FBbLrQfVb69foIIgCT35) | 6:43 |
 
-Snapshot ID: `AAB8U6xX651Aj+Yas1Z+k9Botm7+GgyK`
+Snapshot ID: `AAB8bqRRQ0iEReUBpdhOvmrSKkdEKd9V`

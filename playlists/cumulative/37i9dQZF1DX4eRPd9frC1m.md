@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>
 
-485 songs - 1 day 1 hr 50 min
+486 songs - 1 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Gawdam](https://open.spotify.com/track/35LfVddGN6zR5gE78o0EdU) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8) | [Gawdam](https://open.spotify.com/album/0qSMwW0ZBiZJUuFsxmr3Oj) | 2:36 | 2021-11-19 | 2022-01-08 |
 | [Get Right](https://open.spotify.com/track/53Xsyg5W3LkxOJglyq1l5o) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [Get Right](https://open.spotify.com/album/0xejpMLCWbCVEHPivvoQGH) | 2:38 | 2021-11-19 | 2022-01-08 |
 | [GET SMACKED](https://open.spotify.com/track/4d9PS5dlzlRd3oGhNLxPCb) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Vastive](https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH) | [GET SMACKED](https://open.spotify.com/album/4fxtTnPxoJpfL2z9FgFZ2j) | 3:40 | 2025-03-14 | 2026-02-15 |
-| [Get Started](https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Get Started](https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI) | 2:56 | 2025-04-25 |  |
+| [Get Started](https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Get Started](https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI) | 2:56 | 2025-04-25 | 2026-07-12 |
 | [GO OFF!](https://open.spotify.com/track/7vSqoQEAHPeRESwGgaZwGO) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Harvey](https://open.spotify.com/artist/137IOw31ZNn88coEW3Ypt5) | [GO OFF!](https://open.spotify.com/album/7y9Mkw8lpYZ6NolcbEL1oI) | 2:53 | 2024-12-03 | 2025-01-15 |
 | [Gravity](https://open.spotify.com/track/5qCpcgqwL1Hum85sAQz3W7) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Gravity](https://open.spotify.com/album/6HIUMoRw3A8XEFakdfOTsD) | 6:04 | 2021-11-19 | 2022-12-03 |
 | [Grenade](https://open.spotify.com/track/4tRDqT9CZtUGnjGAJNVqaQ) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Grenade](https://open.spotify.com/album/5ByIux1mE8VfB072JtjUWL) | 4:08 | 2023-04-28 | 2023-09-20 |
@@ -266,6 +266,7 @@
 | [MOP](https://open.spotify.com/track/7LCe5qMTozrYJIizGmR4Vj) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [THIRTY RACK](https://open.spotify.com/artist/0FDL37gY8GetvvoQhd8HYU) | [The Firest](https://open.spotify.com/album/7fV66uq0GKn6bEVIyII5SV) | 2:52 | 2021-11-19 | 2022-01-08 |
 | [Moshpit](https://open.spotify.com/track/6EgTYGPIKWgKUf4QnJ3dr7) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u) | [Moshpit / Comin For Ya Neck](https://open.spotify.com/album/0W1fVHmZ0s1E5l8EOWI5T6) | 2:57 | 2021-11-19 | 2024-11-24 |
 | [Mother Africa](https://open.spotify.com/track/02uwXnLbfT68JKAShQ0VTS) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Mother Africa](https://open.spotify.com/album/7lVloMmdbAd9VpZ3pXkVvh) | 3:58 | 2021-11-19 | 2022-01-08 |
+| [Move Your Body](https://open.spotify.com/track/4N83wAazucqM5dhLMWEv0r) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Move Your Body](https://open.spotify.com/album/2h4HitkMjJBl62Nq8dHcdY) | 3:25 | 2026-07-10 |  |
 | [move! \(that body\)](https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [CHARIOT](https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA) | 2:24 | 2026-02-13 |  |
 | [Movement](https://open.spotify.com/track/629lfbX9FnjfRDHoIOgNao) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Movement](https://open.spotify.com/album/0uwj7PaqVqPoY66QCo0i9n) | 3:07 | 2026-01-16 |  |
 | [Movement \- Wooli & Kompany Remix](https://open.spotify.com/track/4nUr676TfZJbZ8Fva7LIU9) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Movement \(Wooli & Kompany Remix\)](https://open.spotify.com/album/0cPBiyrMXCOssOWkiETUuw) | 2:37 | 2026-04-03 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19363,
+  "num_followers": 19364,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-07-09 14:00:36",
       "album": {
-        "name": "BITE BACK",
-        "url": "https://open.spotify.com/album/44u8w5fzJ8lVizD4t1T0pr"
-      },
-      "artists": [
-        {
-          "name": "Vana",
-          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
-        }
-      ],
-      "duration_ms": 225682,
-      "name": "BITE BACK",
-      "url": "https://open.spotify.com/track/3oRLktPykF4J9KqAHRlFrx"
-    },
-    {
-      "added_at": "2026-07-09 14:00:36",
-      "album": {
         "name": "M\u0101ori Ki Te Ao",
         "url": "https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 200734,
       "name": "M\u0101ori Ki Te Ao",
       "url": "https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz"
+    },
+    {
+      "added_at": "2026-07-09 14:00:36",
+      "album": {
+        "name": "BITE BACK",
+        "url": "https://open.spotify.com/album/44u8w5fzJ8lVizD4t1T0pr"
+      },
+      "artists": [
+        {
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+        }
+      ],
+      "duration_ms": 225682,
+      "name": "BITE BACK",
+      "url": "https://open.spotify.com/track/3oRLktPykF4J9KqAHRlFrx"
     },
     {
       "added_at": "2026-07-09 14:00:36",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-07-09 14:00:36",
       "album": {
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 162266,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3"
+    },
+    {
+      "added_at": "2026-07-09 14:00:36",
+      "album": {
         "name": "Have You Ever Seen the Rain",
         "url": "https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9"
       },
@@ -339,18 +355,18 @@
     {
       "added_at": "2026-07-09 14:00:36",
       "album": {
-        "name": "Cinnamon",
-        "url": "https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3"
+        "name": "PRETTY GYAL",
+        "url": "https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO"
       },
       "artists": [
         {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
         }
       ],
-      "duration_ms": 162266,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3"
+      "duration_ms": 218134,
+      "name": "PRETTY GYAL",
+      "url": "https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt"
     },
     {
       "added_at": "2026-07-09 14:00:36",
@@ -371,22 +387,6 @@
       "duration_ms": 197122,
       "name": "It Never Ends",
       "url": "https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd"
-    },
-    {
-      "added_at": "2026-07-09 14:00:36",
-      "album": {
-        "name": "PRETTY GYAL",
-        "url": "https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO"
-      },
-      "artists": [
-        {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
-        }
-      ],
-      "duration_ms": 218134,
-      "name": "PRETTY GYAL",
-      "url": "https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt"
     },
     {
       "added_at": "2026-07-09 14:00:36",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-07-09 14:00:36",
       "album": {
-        "name": "pretend",
-        "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
-      },
-      "artists": [
-        {
-          "name": "Teo Glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
-        }
-      ],
-      "duration_ms": 170676,
-      "name": "pretend",
-      "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
-    },
-    {
-      "added_at": "2026-07-09 14:00:36",
-      "album": {
         "name": "Harmless",
         "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 145445,
       "name": "Harmless",
       "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
+    },
+    {
+      "added_at": "2026-07-09 14:00:36",
+      "album": {
+        "name": "pretend",
+        "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
+      },
+      "artists": [
+        {
+          "name": "Teo Glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "duration_ms": 170676,
+      "name": "pretend",
+      "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
     },
     {
       "added_at": "2026-07-09 14:00:36",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-07-09 14:00:36",
       "album": {
-        "name": "call me yours",
-        "url": "https://open.spotify.com/album/3G59mbte7ztS4KeNPZ19Gz"
-      },
-      "artists": [
-        {
-          "name": "hanbee",
-          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
-        }
-      ],
-      "duration_ms": 204622,
-      "name": "call me yours",
-      "url": "https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm"
-    },
-    {
-      "added_at": "2026-07-09 14:00:36",
-      "album": {
         "name": "Bless the Broken Road",
         "url": "https://open.spotify.com/album/5i90JXIcuT8DjYnyh13I0D"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 190153,
       "name": "Bless the Broken Road",
       "url": "https://open.spotify.com/track/2M4KSVZ6hcCPljuCkXQCFQ"
+    },
+    {
+      "added_at": "2026-07-09 14:00:36",
+      "album": {
+        "name": "call me yours",
+        "url": "https://open.spotify.com/album/3G59mbte7ztS4KeNPZ19Gz"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "duration_ms": 204622,
+      "name": "call me yours",
+      "url": "https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm"
     },
     {
       "added_at": "2026-07-09 14:00:36",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-07-09 14:00:36",
       "album": {
-        "name": "drag",
-        "url": "https://open.spotify.com/album/2nTAc6jYcRAHf7C7gf0tFu"
-      },
-      "artists": [
-        {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 229683,
-      "name": "drag",
-      "url": "https://open.spotify.com/track/5VTEwE0fYvTNxwmIelS6XF"
-    },
-    {
-      "added_at": "2026-07-09 14:00:36",
-      "album": {
         "name": "Hell Of A Night",
         "url": "https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 232615,
       "name": "Hell Of A Night",
       "url": "https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8"
+    },
+    {
+      "added_at": "2026-07-09 14:00:36",
+      "album": {
+        "name": "drag",
+        "url": "https://open.spotify.com/album/2nTAc6jYcRAHf7C7gf0tFu"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 229683,
+      "name": "drag",
+      "url": "https://open.spotify.com/track/5VTEwE0fYvTNxwmIelS6XF"
     },
     {
       "added_at": "2026-07-09 14:00:36",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-07-09 14:00:36",
       "album": {
+        "name": "Everything Is Going To Be Alright",
+        "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
+      },
+      "artists": [
+        {
+          "name": "Princess Chelsea",
+          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
+        }
+      ],
+      "duration_ms": 191812,
+      "name": "Forever Is A Charm",
+      "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
+    },
+    {
+      "added_at": "2026-07-09 14:00:36",
+      "album": {
         "name": "Even In The Quiet",
         "url": "https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM"
       },
@@ -759,18 +775,18 @@
     {
       "added_at": "2026-07-09 14:00:36",
       "album": {
-        "name": "Everything Is Going To Be Alright",
-        "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
+        "name": "Off The Rails",
+        "url": "https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw"
       },
       "artists": [
         {
-          "name": "Princess Chelsea",
-          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
         }
       ],
-      "duration_ms": 191812,
-      "name": "Forever Is A Charm",
-      "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
+      "duration_ms": 107266,
+      "name": "Off The Rails",
+      "url": "https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv"
     },
     {
       "added_at": "2026-07-09 14:00:36",
@@ -787,22 +803,6 @@
       "duration_ms": 168582,
       "name": "tomato baby",
       "url": "https://open.spotify.com/track/126hNkonJst3ARf4I2ACqW"
-    },
-    {
-      "added_at": "2026-07-09 14:00:36",
-      "album": {
-        "name": "Off The Rails",
-        "url": "https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 107266,
-      "name": "Off The Rails",
-      "url": "https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv"
     },
     {
       "added_at": "2026-07-09 14:00:36",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-07-09 14:00:36",
       "album": {
-        "name": "me > you",
-        "url": "https://open.spotify.com/album/1kZzG0qQSy63IoyUhR8t9u"
-      },
-      "artists": [
-        {
-          "name": "Imani-J",
-          "url": "https://open.spotify.com/artist/0v4Xz06LDEOS0VRzkSbUAk"
-        }
-      ],
-      "duration_ms": 160946,
-      "name": "me > you",
-      "url": "https://open.spotify.com/track/0aZJvezapQq2aKdIA8T9fG"
-    },
-    {
-      "added_at": "2026-07-09 14:00:36",
-      "album": {
         "name": "Handyman.",
         "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
       },
@@ -911,6 +895,22 @@
     {
       "added_at": "2026-07-09 14:00:36",
       "album": {
+        "name": "me > you",
+        "url": "https://open.spotify.com/album/1kZzG0qQSy63IoyUhR8t9u"
+      },
+      "artists": [
+        {
+          "name": "Imani-J",
+          "url": "https://open.spotify.com/artist/0v4Xz06LDEOS0VRzkSbUAk"
+        }
+      ],
+      "duration_ms": 160946,
+      "name": "me > you",
+      "url": "https://open.spotify.com/track/0aZJvezapQq2aKdIA8T9fG"
+    },
+    {
+      "added_at": "2026-07-09 14:00:36",
+      "album": {
         "name": "I Want More",
         "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 177989,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
-    },
-    {
-      "added_at": "2026-07-09 14:00:36",
-      "album": {
-        "name": "BLEED",
-        "url": "https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 215783,
-      "name": "BLEED",
-      "url": "https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py"
     },
     {
       "added_at": "2026-07-09 14:00:36",
@@ -971,6 +955,22 @@
     {
       "added_at": "2026-07-09 14:00:36",
       "album": {
+        "name": "BLEED",
+        "url": "https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 215783,
+      "name": "BLEED",
+      "url": "https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py"
+    },
+    {
+      "added_at": "2026-07-09 14:00:36",
+      "album": {
         "name": "Letting Love Die",
         "url": "https://open.spotify.com/album/61a4JwnOCbXaA2hUwuEynG"
       },
@@ -983,38 +983,6 @@
       "duration_ms": 179000,
       "name": "Letting Love Die",
       "url": "https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g"
-    },
-    {
-      "added_at": "2026-07-09 14:00:36",
-      "album": {
-        "name": "Coats",
-        "url": "https://open.spotify.com/album/2MhzYUysgTkEC01pE2Sfjv"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 208875,
-      "name": "Coats",
-      "url": "https://open.spotify.com/track/3Ms4gyZoCG0e63Guz3gkBM"
-    },
-    {
-      "added_at": "2026-07-09 14:00:36",
-      "album": {
-        "name": "You Already Know",
-        "url": "https://open.spotify.com/album/3K1gJcHNypQmW7qCkiplSh"
-      },
-      "artists": [
-        {
-          "name": "Sons of Zion",
-          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
-        }
-      ],
-      "duration_ms": 186747,
-      "name": "You Already Know",
-      "url": "https://open.spotify.com/track/7c8NGyFaX9Too4WKDLGnft"
     },
     {
       "added_at": "2026-07-09 14:00:36",
@@ -1035,6 +1003,38 @@
       "duration_ms": 254281,
       "name": "Under One Roof",
       "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
+    },
+    {
+      "added_at": "2026-07-09 14:00:36",
+      "album": {
+        "name": "You Already Know",
+        "url": "https://open.spotify.com/album/3K1gJcHNypQmW7qCkiplSh"
+      },
+      "artists": [
+        {
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+        }
+      ],
+      "duration_ms": 186747,
+      "name": "You Already Know",
+      "url": "https://open.spotify.com/track/7c8NGyFaX9Too4WKDLGnft"
+    },
+    {
+      "added_at": "2026-07-09 14:00:36",
+      "album": {
+        "name": "Coats",
+        "url": "https://open.spotify.com/album/2MhzYUysgTkEC01pE2Sfjv"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 208875,
+      "name": "Coats",
+      "url": "https://open.spotify.com/track/3Ms4gyZoCG0e63Guz3gkBM"
     },
     {
       "added_at": "2026-07-09 14:00:36",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2026-07-09 14:00:36",
       "album": {
-        "name": "talk is cheap",
-        "url": "https://open.spotify.com/album/7HbcPi920iYLcrKwJNfZGR"
-      },
-      "artists": [
-        {
-          "name": "Imani-J",
-          "url": "https://open.spotify.com/artist/0v4Xz06LDEOS0VRzkSbUAk"
-        },
-        {
-          "name": "Bam Marley",
-          "url": "https://open.spotify.com/artist/7fXBLt1KPnFD1c1KBDDTB9"
-        }
-      ],
-      "duration_ms": 175666,
-      "name": "talk is cheap",
-      "url": "https://open.spotify.com/track/75eXKchH6bxhksS7G5rFUf"
-    },
-    {
-      "added_at": "2026-07-09 14:00:36",
-      "album": {
         "name": "Under The Surface",
         "url": "https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 189473,
       "name": "Brown Sugar",
       "url": "https://open.spotify.com/track/6L2Wi1vXE5jAzFOm2iOGqn"
+    },
+    {
+      "added_at": "2026-07-09 14:00:36",
+      "album": {
+        "name": "talk is cheap",
+        "url": "https://open.spotify.com/album/7HbcPi920iYLcrKwJNfZGR"
+      },
+      "artists": [
+        {
+          "name": "Imani-J",
+          "url": "https://open.spotify.com/artist/0v4Xz06LDEOS0VRzkSbUAk"
+        },
+        {
+          "name": "Bam Marley",
+          "url": "https://open.spotify.com/artist/7fXBLt1KPnFD1c1KBDDTB9"
+        }
+      ],
+      "duration_ms": 175666,
+      "name": "talk is cheap",
+      "url": "https://open.spotify.com/track/75eXKchH6bxhksS7G5rFUf"
     },
     {
       "added_at": "2026-07-09 14:00:36",

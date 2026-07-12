@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 319500,
       "name": "changed it all",
       "url": "https://open.spotify.com/track/2BvqkFHPPQ3s1lUD9Y8Lyj"
@@ -3704,6 +3704,24 @@
       "duration_ms": 193429,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+    },
+    {
+      "album": {
+        "name": "pretty ruthless",
+        "url": "https://open.spotify.com/album/6qijNpc6Vt4lxkrRHoPL26"
+      },
+      "artists": [
+        {
+          "name": "Macy Todd",
+          "url": "https://open.spotify.com/artist/36LLquZpLrRaGaMRivV2CD"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200029,
+      "name": "mean!",
+      "url": "https://open.spotify.com/track/3Wbq0xfJFzYE74WBMiqJOH"
     },
     {
       "album": {

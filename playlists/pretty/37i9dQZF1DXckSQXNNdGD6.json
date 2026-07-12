@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Guitarricadelafuente.",
-  "num_followers": 22320,
+  "num_followers": 22323,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-06-08 07:44:23",
       "album": {
+        "name": "Pantal\u00f3n",
+        "url": "https://open.spotify.com/album/1kkCB6Bojsi2NWWToffYSU"
+      },
+      "artists": [
+        {
+          "name": "BAJOCERO X",
+          "url": "https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq"
+        }
+      ],
+      "duration_ms": 125753,
+      "name": "Pantal\u00f3n",
+      "url": "https://open.spotify.com/track/0A7IGl98y4xBSZaSV5UVjD"
+    },
+    {
+      "added_at": "2026-06-08 07:44:23",
+      "album": {
         "name": "Chocolate",
         "url": "https://open.spotify.com/album/2bOKpU3274kwjedorfpBzw"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 172650,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/3ysMSpZgAwhZgaisVXSaz4"
-    },
-    {
-      "added_at": "2026-06-08 07:44:23",
-      "album": {
-        "name": "Pantal\u00f3n",
-        "url": "https://open.spotify.com/album/1kkCB6Bojsi2NWWToffYSU"
-      },
-      "artists": [
-        {
-          "name": "BAJOCERO X",
-          "url": "https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq"
-        }
-      ],
-      "duration_ms": 125753,
-      "name": "Pantal\u00f3n",
-      "url": "https://open.spotify.com/track/0A7IGl98y4xBSZaSV5UVjD"
     },
     {
       "added_at": "2026-06-08 07:44:23",

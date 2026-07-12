@@ -1,12 +1,12 @@
 {
   "description": "tuuudo conspirando a favor  \ud83c\udf13//  Amanda Sarmento",
-  "num_followers": 102080,
+  "num_followers": 102095,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJBcbhUnct292U4vTER5e0tMYhaY",
+  "snapshot_id": "AAAAAL0RdCHFK4W58q7Zxkf3VzdsWygv",
   "tracks": [
     {
       "added_at": "2026-07-03 20:55:51",
@@ -535,26 +535,6 @@
     {
       "added_at": "2026-07-03 20:55:51",
       "album": {
-        "name": "Subestimada",
-        "url": "https://open.spotify.com/album/6vE1WHyTRdcvJx1IOUGXS9"
-      },
-      "artists": [
-        {
-          "name": "Cashley",
-          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
-        },
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        }
-      ],
-      "duration_ms": 224415,
-      "name": "Lace",
-      "url": "https://open.spotify.com/track/0GX4NMzSBnseCSEqwPzrJu"
-    },
-    {
-      "added_at": "2026-07-03 20:55:51",
-      "album": {
         "name": "LONGE DE B.O",
         "url": "https://open.spotify.com/album/1OZsNxFLBwmw5EJdh4rOaT"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 136421,
       "name": "LONGE DE B.O",
       "url": "https://open.spotify.com/track/6YYKv2SiW6FCXXxGx9Upez"
+    },
+    {
+      "added_at": "2026-07-03 20:55:51",
+      "album": {
+        "name": "Subestimada",
+        "url": "https://open.spotify.com/album/6vE1WHyTRdcvJx1IOUGXS9"
+      },
+      "artists": [
+        {
+          "name": "Cashley",
+          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "duration_ms": 224415,
+      "name": "Lace",
+      "url": "https://open.spotify.com/track/0GX4NMzSBnseCSEqwPzrJu"
     },
     {
       "added_at": "2026-07-03 20:55:51",
@@ -859,26 +859,6 @@
     {
       "added_at": "2026-07-03 20:55:51",
       "album": {
-        "name": "O Jogo Virou",
-        "url": "https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Setor Norte",
-      "url": "https://open.spotify.com/track/0zdTPSdNRsIHL7eYzGtek1"
-    },
-    {
-      "added_at": "2026-07-03 20:55:51",
-      "album": {
         "name": "Milimetricamente",
         "url": "https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 122834,
       "name": "Milimetricamente",
       "url": "https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH"
+    },
+    {
+      "added_at": "2026-07-03 20:55:51",
+      "album": {
+        "name": "O Jogo Virou",
+        "url": "https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Setor Norte",
+      "url": "https://open.spotify.com/track/0zdTPSdNRsIHL7eYzGtek1"
     },
     {
       "added_at": "2026-07-03 20:55:51",

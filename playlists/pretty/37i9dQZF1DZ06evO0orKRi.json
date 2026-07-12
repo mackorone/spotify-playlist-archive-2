@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 25685,
+  "num_followers": 25689,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAACPYLJGijwOMWzPy7Y6nyH8",
+  "snapshot_id": "alA2AAAAAABOctelKVZA7/06eN8bXkdM",
   "tracks": [
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trucks On The Track",
+        "url": "https://open.spotify.com/album/2R1izUaVNUSMbNYS2S2vit"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 201573,
+      "name": "I'm Married To My Bulldog Mack",
+      "url": "https://open.spotify.com/track/4ReZWCRHUhkuWCoeU7z4Sq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lights On The Hill (Remastered)",
         "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
       },
@@ -515,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trucks On The Track",
-        "url": "https://open.spotify.com/album/2R1izUaVNUSMbNYS2S2vit"
+        "name": "Makin' A Mile",
+        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
       },
       "artists": [
         {
@@ -524,25 +540,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 201573,
-      "name": "I'm Married To My Bulldog Mack",
-      "url": "https://open.spotify.com/track/4ReZWCRHUhkuWCoeU7z4Sq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Give Me The Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ih1aK9XXImHlI8Zyr4bX5"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Kelly's Offsider",
-      "url": "https://open.spotify.com/track/1xWdSpL2zvuafjX6mFPe5Y"
+      "duration_ms": 213573,
+      "name": "Boomaroo Flyer",
+      "url": "https://open.spotify.com/track/4pZVl6zksJR8i2aZZHPPHr"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Makin' A Mile",
-        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
+        "name": "Give Me The Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ih1aK9XXImHlI8Zyr4bX5"
       },
       "artists": [
         {
@@ -572,25 +572,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 213573,
-      "name": "Boomaroo Flyer",
-      "url": "https://open.spotify.com/track/4pZVl6zksJR8i2aZZHPPHr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Mechanised Swaggie",
-      "url": "https://open.spotify.com/track/0TJ7R2m1d0bs0H4EZT79Fe"
+      "duration_ms": 205000,
+      "name": "Kelly's Offsider",
+      "url": "https://open.spotify.com/track/1xWdSpL2zvuafjX6mFPe5Y"
     },
     {
       "added_at": null,
@@ -607,6 +591,22 @@
       "duration_ms": 191693,
       "name": "Gotta Keep Moving",
       "url": "https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Mechanised Swaggie",
+      "url": "https://open.spotify.com/track/0TJ7R2m1d0bs0H4EZT79Fe"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "Give Me Room",
-      "url": "https://open.spotify.com/track/2yiMsEVRfPfs9olrhFmi0E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/4tAfpE4IepSl8JL7Jyv54z"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 193493,
       "name": "The Biggest Disappointment",
       "url": "https://open.spotify.com/track/4CzNjmXvCS9v9EqyeQ8lGd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "Give Me Room",
+      "url": "https://open.spotify.com/track/2yiMsEVRfPfs9olrhFmi0E"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 162026,
-      "name": "Haulin' For The Double 'T'",
-      "url": "https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lights On The Hill (Remastered)",
         "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 165826,
       "name": "Bent-Axle Bob",
       "url": "https://open.spotify.com/track/42t66blDEyqv6M6EDt9FWb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 162026,
+      "name": "Haulin' For The Double 'T'",
+      "url": "https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu"
     },
     {
       "added_at": null,

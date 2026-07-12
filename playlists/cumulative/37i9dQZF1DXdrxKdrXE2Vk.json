@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the best of live worship here. Cover: Housefires, Dante Bowe, Kendrick Williams, Ariel Campbell, & Lily Hooten",
+  "description": "Experience the best of live worship here. Cover: Tauren Wells",
   "name": "Best of Live Worship",
   "tracks": [
     {
@@ -1458,6 +1458,24 @@
       "duration_ms": 246307,
       "name": "Breathe Life - Live",
       "url": "https://open.spotify.com/track/3zln0D4LfKnM8DwVXwsMai"
+    },
+    {
+      "album": {
+        "name": "Breathe On It (From Austin)",
+        "url": "https://open.spotify.com/album/4YsvGZa7ngt3MESImncyrk"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290981,
+      "name": "Breathe On It - From Austin",
+      "url": "https://open.spotify.com/track/5SZ4sp87ADIPrXorEZvHLx"
     },
     {
       "album": {
@@ -3919,6 +3937,24 @@
     },
     {
       "album": {
+        "name": "Holding On (Praise God) [Live]",
+        "url": "https://open.spotify.com/album/5NSQBfyz2ZqQxkIY6Py57H"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226910,
+      "name": "Holding On (Praise God) - Live",
+      "url": "https://open.spotify.com/track/3tODkxR6h1QRyEgABbpHev"
+    },
+    {
+      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/4ocg1C1hfz5nmZV3Wg8XUQ"
       },
@@ -5259,6 +5295,24 @@
     },
     {
       "album": {
+        "name": "JOY (Remix Vol. 1)",
+        "url": "https://open.spotify.com/album/27S9VzTPZmSZNfrrpBp8Ua"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260653,
+      "name": "JOY - BCF Radio Version",
+      "url": "https://open.spotify.com/track/3IspFkXXABI8zzzlmHjlnN"
+    },
+    {
+      "album": {
         "name": "Joy In The Morning",
         "url": "https://open.spotify.com/album/170FUziX94zYLzcV7arINC"
       },
@@ -5920,7 +5974,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 271331,
       "name": "Living in Freedom - Live",
       "url": "https://open.spotify.com/track/5ziyw3RKK177iARqLyTqc5"
@@ -6914,7 +6968,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 687436,
       "name": "Nothing But The Blood (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/2G32QQ7rqfgECwC7L97UR0"
@@ -8188,7 +8242,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 589184,
       "name": "Shalom + It Is Well - Live",
       "url": "https://open.spotify.com/track/2i4y3GgJBkthTztzafTU4W"

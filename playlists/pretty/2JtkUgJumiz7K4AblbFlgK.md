@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2JtkUgJumiz7K4AblbFlgK.md) - [plain]
 
 > Chilled out, mellow pop from your favourite artists right now\. Cover: Dylan Gossett
 
-[HITS](https://open.spotify.com/user/digster.co.uk) - 350,341 likes - 117 songs - 6 hr 39 min
+[HITS](https://open.spotify.com/user/digster.co.uk) - 350,319 likes - 117 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

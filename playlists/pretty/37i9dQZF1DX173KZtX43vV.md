@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Nippa, Blxst
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,215 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,224 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 18 | [Body So Tea](https://open.spotify.com/track/2V1ne5a2MBngWduIph5pqg) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Body So Tea](https://open.spotify.com/album/2mG7Jq4OnkQdpmemAmtXAQ) | 2:31 |
 | 19 | [Stuck In Sixteen](https://open.spotify.com/track/0K77y1Qbihu4hK54zAFxVV) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Twenty Something](https://open.spotify.com/album/3zIuPy0xhAOMg9veibhAwy) | 2:51 |
 | 20 | [Bittersweet Escape](https://open.spotify.com/track/7m048jBthqhBF62d67E1kM) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Bittersweet Escape](https://open.spotify.com/album/5FzOA3oAxjHzoLxo4SC6Ed) | 2:47 |
-| 21 | [Don't Cry](https://open.spotify.com/track/626Qnan90KdrGqYTIDc8d0) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lady Luck](https://open.spotify.com/album/5B0m3PiMxCq1TjF7wxLM6I) | 3:15 |
+| 21 | [Don't Cry \(feat\. Maverick Sabre\)](https://open.spotify.com/track/626Qnan90KdrGqYTIDc8d0) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lady Luck](https://open.spotify.com/album/5B0m3PiMxCq1TjF7wxLM6I) | 3:15 |
 | 22 | [Heaven On Earth](https://open.spotify.com/track/7r9qkWxCONSuZ3tDYrIBFi) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Heaven On Earth](https://open.spotify.com/album/3EZETRmlze91iyz6HoyHfX) | 3:55 |
 | 23 | [Feel It!](https://open.spotify.com/track/5fcORwPCsbWOuucHazmRjR) | [Eleazar](https://open.spotify.com/artist/0sWHUR9l8PmvJ7rkAYie5L) | [Feel It!](https://open.spotify.com/album/5qCh0Tp9jPq6UoFj3VnalT) | 3:08 |
 | 24 | [Reaching](https://open.spotify.com/track/6Kjgp8Fcmyvqn2sfZcs0nN) | [IMVN](https://open.spotify.com/artist/0zvjAHqFkgoiQb5y5EBF6w) | [Reaching](https://open.spotify.com/album/1QbU6iDI8cC2RNJyMUqPXj) | 2:37 |

@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158454,
+  "num_followers": 158450,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -271,46 +271,6 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
-        "name": "A Casa \u00c9 Tua",
-        "url": "https://open.spotify.com/album/5CcBTXf82yYrTeBhPPZfLG"
-      },
-      "artists": [
-        {
-          "name": "Pedro Qualy",
-          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
-        },
-        {
-          "name": "CJota",
-          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
-        },
-        {
-          "name": "Blood Beatz",
-          "url": "https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc"
-        }
-      ],
-      "duration_ms": 198667,
-      "name": "A Casa \u00c9 Tua",
-      "url": "https://open.spotify.com/track/1Tbw36Nl3NzY0xVsokaV1Q"
-    },
-    {
-      "added_at": "2026-06-17 15:55:31",
-      "album": {
-        "name": "Matchola - Spotify Sessions",
-        "url": "https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL"
-      },
-      "artists": [
-        {
-          "name": "Matchola",
-          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
-        }
-      ],
-      "duration_ms": 172779,
-      "name": "BARRIL DOBRADO - Spotify Sessions",
-      "url": "https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy"
-    },
-    {
-      "added_at": "2026-06-17 15:55:31",
-      "album": {
         "name": "Pedras no Caminho",
         "url": "https://open.spotify.com/album/4kuJH4uki3ayfHC9SYRNJB"
       },
@@ -331,6 +291,46 @@
       "duration_ms": 159374,
       "name": "Pedras no Caminho",
       "url": "https://open.spotify.com/track/71b7yoPiWC5fYss6x1fWx7"
+    },
+    {
+      "added_at": "2026-06-17 15:55:31",
+      "album": {
+        "name": "Matchola - Spotify Sessions",
+        "url": "https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL"
+      },
+      "artists": [
+        {
+          "name": "Matchola",
+          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
+        }
+      ],
+      "duration_ms": 172779,
+      "name": "BARRIL DOBRADO - Spotify Sessions",
+      "url": "https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy"
+    },
+    {
+      "added_at": "2026-06-17 15:55:31",
+      "album": {
+        "name": "A Casa \u00c9 Tua",
+        "url": "https://open.spotify.com/album/5CcBTXf82yYrTeBhPPZfLG"
+      },
+      "artists": [
+        {
+          "name": "Pedro Qualy",
+          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
+        },
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Blood Beatz",
+          "url": "https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc"
+        }
+      ],
+      "duration_ms": 198667,
+      "name": "A Casa \u00c9 Tua",
+      "url": "https://open.spotify.com/track/1Tbw36Nl3NzY0xVsokaV1Q"
     },
     {
       "added_at": "2026-06-17 15:55:31",
@@ -479,34 +479,6 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
-        "name": "Drogas e Sanfona",
-        "url": "https://open.spotify.com/album/7sdSlxyUNrYIGnr7Gjtd7r"
-      },
-      "artists": [
-        {
-          "name": "Mago de Tarso",
-          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
-        },
-        {
-          "name": "DUP\u00ca",
-          "url": "https://open.spotify.com/artist/33Ol2AOgNFyAlhIZXQmPEm"
-        },
-        {
-          "name": "Drake D.N",
-          "url": "https://open.spotify.com/artist/1vzDo7jFkbW3beWrNYDB27"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
-        }
-      ],
-      "duration_ms": 148944,
-      "name": "Drogas e Sanfona",
-      "url": "https://open.spotify.com/track/5OVfyWUnDUmCCoNvz0wYN9"
-    },
-    {
-      "added_at": "2026-06-17 15:55:31",
-      "album": {
         "name": "cinco noites em sp",
         "url": "https://open.spotify.com/album/0sZO7iuUguHSdaPrGYmKAm"
       },
@@ -535,6 +507,34 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
+        "name": "Drogas e Sanfona",
+        "url": "https://open.spotify.com/album/7sdSlxyUNrYIGnr7Gjtd7r"
+      },
+      "artists": [
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        },
+        {
+          "name": "DUP\u00ca",
+          "url": "https://open.spotify.com/artist/33Ol2AOgNFyAlhIZXQmPEm"
+        },
+        {
+          "name": "Drake D.N",
+          "url": "https://open.spotify.com/artist/1vzDo7jFkbW3beWrNYDB27"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        }
+      ],
+      "duration_ms": 148944,
+      "name": "Drogas e Sanfona",
+      "url": "https://open.spotify.com/track/5OVfyWUnDUmCCoNvz0wYN9"
+    },
+    {
+      "added_at": "2026-06-17 15:55:31",
+      "album": {
         "name": "OCANV",
         "url": "https://open.spotify.com/album/4Bikfxcrqxu8mVuGPkkJ0D"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
-        "name": "QUENTE",
-        "url": "https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE"
-      },
-      "artists": [
-        {
-          "name": "Amanda Sarmento",
-          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
-        }
-      ],
-      "duration_ms": 123128,
-      "name": "QUENTE",
-      "url": "https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR"
-    },
-    {
-      "added_at": "2026-06-17 15:55:31",
-      "album": {
         "name": "UM44K Ac\u00fastico",
         "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 163492,
       "name": "Pode falar - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
+    },
+    {
+      "added_at": "2026-06-17 15:55:31",
+      "album": {
+        "name": "QUENTE",
+        "url": "https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE"
+      },
+      "artists": [
+        {
+          "name": "Amanda Sarmento",
+          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
+        }
+      ],
+      "duration_ms": 123128,
+      "name": "QUENTE",
+      "url": "https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR"
     },
     {
       "added_at": "2026-06-17 15:55:31",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
-        "name": "OBRA PRIMA",
-        "url": "https://open.spotify.com/album/059jQeL3t3lHZqzcTcs39N"
-      },
-      "artists": [
-        {
-          "name": "MC Gustavinho",
-          "url": "https://open.spotify.com/artist/77yd8ef29EG05232JEQzXu"
-        }
-      ],
-      "duration_ms": 169855,
-      "name": "OBRA PRIMA",
-      "url": "https://open.spotify.com/track/0IEHquF8iEgFBtTntygFcv"
-    },
-    {
-      "added_at": "2026-06-17 15:55:31",
-      "album": {
         "name": "BAHAMAS & Solteira N\u00e3o Sente",
         "url": "https://open.spotify.com/album/7BGvfYK3JA7LDGHapHtBv9"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 137952,
       "name": "BAHAMAS",
       "url": "https://open.spotify.com/track/6lraraCxXGQL6tlczq9ulj"
+    },
+    {
+      "added_at": "2026-06-17 15:55:31",
+      "album": {
+        "name": "OBRA PRIMA",
+        "url": "https://open.spotify.com/album/059jQeL3t3lHZqzcTcs39N"
+      },
+      "artists": [
+        {
+          "name": "MC Gustavinho",
+          "url": "https://open.spotify.com/artist/77yd8ef29EG05232JEQzXu"
+        }
+      ],
+      "duration_ms": 169855,
+      "name": "OBRA PRIMA",
+      "url": "https://open.spotify.com/track/0IEHquF8iEgFBtTntygFcv"
     },
     {
       "added_at": "2026-06-17 15:55:31",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
+        "name": "Dias de Luta Dias de Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Dias de Luta Dias de Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
+    },
+    {
+      "added_at": "2026-06-17 15:55:31",
+      "album": {
         "name": "Moz\u00e3o",
         "url": "https://open.spotify.com/album/3ewfkr96B8kr94Eh5LLZnb"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 160500,
       "name": "Moz\u00e3o",
       "url": "https://open.spotify.com/track/1nzoCEBiN09B6TJ82mC8TG"
-    },
-    {
-      "added_at": "2026-06-17 15:55:31",
-      "album": {
-        "name": "Dias de Luta Dias de Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Dias de Luta Dias de Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
     },
     {
       "added_at": "2026-06-17 15:55:31",
@@ -1327,22 +1327,26 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
-        "name": "Passa a Bola (Ao Vivo em Noronha)",
-        "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
+        "name": "Ato 3: TODAMANH\u00c3",
+        "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
       },
       "artists": [
         {
-          "name": "Planta E Raiz",
-          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
         },
         {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
         }
       ],
-      "duration_ms": 188319,
-      "name": "Passa a Bola (Ao Vivo em Noronha)",
-      "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
+      "duration_ms": 168448,
+      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
+      "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
     }
   ],
   "unique_name": "Resenha na Praia",

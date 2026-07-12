@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 20246,
+  "num_followers": 20248,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAABnArSTjVPVHuGX8PUx+h1G",
+  "snapshot_id": "alA2AAAAAADwc4DkCefqud5PsPGqUz0d",
   "tracks": [
     {
       "added_at": null,
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOT WHEELS (feat. Rico Nasty)",
-        "url": "https://open.spotify.com/album/39vJGX31o5xywlSVV5HPj3"
-      },
-      "artists": [
-        {
-          "name": "chase usa",
-          "url": "https://open.spotify.com/artist/3thDBmUSpn79NNnN8P1fzo"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 189900,
-      "name": "HOT WHEELS (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/5CkNM9mYFcVXy8gUmNgN2I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anger Management",
         "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 172240,
       "name": "Big Titties (feat. Baauer and EarthGang)",
       "url": "https://open.spotify.com/track/77lHSh6eoMiKWRxczAPQ1k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOT WHEELS (feat. Rico Nasty)",
+        "url": "https://open.spotify.com/album/39vJGX31o5xywlSVV5HPj3"
+      },
+      "artists": [
+        {
+          "name": "chase usa",
+          "url": "https://open.spotify.com/artist/3thDBmUSpn79NNnN8P1fzo"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 189900,
+      "name": "HOT WHEELS (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/5CkNM9mYFcVXy8gUmNgN2I"
     },
     {
       "added_at": null,
@@ -959,22 +959,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "+/-",
-        "url": "https://open.spotify.com/album/76360gDUYhTAsphjiXM9gA"
+        "name": "Sugar Trap 2",
+        "url": "https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt"
       },
       "artists": [
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        },
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 228005,
-      "name": "Girl Crush (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/6Z81mZN4nLr179FrIl37dq"
+      "duration_ms": 181796,
+      "name": "Key Lime OG",
+      "url": "https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n"
     }
   ],
   "unique_name": "This Is Rico Nasty",

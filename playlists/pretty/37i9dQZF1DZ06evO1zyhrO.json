@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 104363,
+  "num_followers": 104372,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAACQ5D1ATKg+JyUGuNDYQ+py",
+  "snapshot_id": "alA2AAAAAAA3dmzD5caZDj77Vp0QLeBW",
   "tracks": [
     {
       "added_at": null,
@@ -855,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 214884,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/4aTIJmX2tfsw2Lcxo8LwBg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "22 (Deluxe)",
         "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 204800,
       "name": "My Heart's Been Waiting for You - feat. Duvall",
       "url": "https://open.spotify.com/track/1zh91AMU0KmMqEqMVJ31vs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Commitment",
-        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 214884,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/4aTIJmX2tfsw2Lcxo8LwBg"
     },
     {
       "added_at": null,

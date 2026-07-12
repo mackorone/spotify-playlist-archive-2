@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [So Scandalous](https://open.spotify.com/track/0Stuc5s9TH32u5IqQyNokc) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [So Scandalous](https://open.spotify.com/album/7zx3zzLxKuz7YfuZOmFUzB) | 2:16 |
 | 50 | [Shadows of My Trauma](https://open.spotify.com/track/671m9jOM4sxoNoz5K0Odr6) | [Puma June](https://open.spotify.com/artist/2kZHI8c2WK0bi6EaNAWg2I) | [Shadows of My Trauma](https://open.spotify.com/album/4FLG5tZ5ZwKE9C05ude5GP) | 3:16 |
 
-Snapshot ID: `AAAAAMO8XHXsft0FL6OHTFokpgTqBGPo`
+Snapshot ID: `AAAAAFY1GPoRrFpSe6gA04j6t90EyjXx`

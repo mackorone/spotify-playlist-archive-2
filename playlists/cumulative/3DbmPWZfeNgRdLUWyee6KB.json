@@ -8611,6 +8611,24 @@
     },
     {
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/1Qq6cOb9vaA51t52qaeLoA"
+      },
+      "artists": [
+        {
+          "name": "OLVRE",
+          "url": "https://open.spotify.com/artist/60wwsbAaj20bZGrn4yLXy7"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239240,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/1masz2eX4eOLypH3rlfurg"
+    },
+    {
+      "album": {
         "name": "H\u00e4ngematte",
         "url": "https://open.spotify.com/album/3RY4slE0DaXLZNsMBEg3GB"
       },
@@ -11936,6 +11954,24 @@
       "duration_ms": 213174,
       "name": "Lovekomotive",
       "url": "https://open.spotify.com/track/5ca7KsClrlVTDjnximVi7Z"
+    },
+    {
+      "album": {
+        "name": "Loverboy",
+        "url": "https://open.spotify.com/album/5mmkHXR5YMkbdNbJ6EXRQF"
+      },
+      "artists": [
+        {
+          "name": "The Falls",
+          "url": "https://open.spotify.com/artist/64VoUwM0Ui5gXHMrzOPOgA"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173017,
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/0tWLQ2YmQ3MoCaZkckzXkY"
     },
     {
       "album": {

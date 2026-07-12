@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,643 likes - 150 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,777 likes - 150 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 60 | [Lumiére](https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U) | [Emily Sage](https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL) | [Lumiére](https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82) | 3:16 |
 | 61 | [Lips Can Lie](https://open.spotify.com/track/0fhfZFkNjIlCgpQSoazP2M) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Lips Can Lie](https://open.spotify.com/album/6LvGAaHEC2H8zl4K5DOtBM) | 3:49 |
 | 62 | [Coming Back To You](https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Coming Back To You](https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31) | 3:40 |
-| 63 | [I'll Tell You Something](https://open.spotify.com/track/1q6sKjFBoTyZ15Vwf5IuGa) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Always Seem to Get Things Wrong](https://open.spotify.com/album/0jxF7dbDnO5mQ5PHlgLlJ6) | 4:11 |
-| 64 | [Be Still My Heart](https://open.spotify.com/track/4KAUdFfxYtrerQEw4fwAKq) | [Silje Nergaard](https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc) | [At First Light](https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A) | 4:59 |
+| 63 | [Be Still My Heart](https://open.spotify.com/track/4KAUdFfxYtrerQEw4fwAKq) | [Silje Nergaard](https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc) | [At First Light](https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A) | 4:59 |
+| 64 | [I'll Tell You Something](https://open.spotify.com/track/1q6sKjFBoTyZ15Vwf5IuGa) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Always Seem to Get Things Wrong](https://open.spotify.com/album/0jxF7dbDnO5mQ5PHlgLlJ6) | 4:11 |
 | 65 | [A Man and a Woman](https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj) | [Simone Kopmajer](https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB) | [My Wonderland](https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A) | 4:15 |
 | 66 | [Castles in the Air](https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo) | [Laura & Anton](https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy) | [Castles in the Air](https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S) | 3:53 |
 | 67 | [Suzanne \(feat\. Gregory Porter\)](https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Suzanne](https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ) | 4:33 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 109 | [I Need Your Love](https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf) | [I Need Your Love](https://open.spotify.com/album/7FiZVylKJmgNbDXsz5VBav) | 4:20 |
 | 110 | [Anyone](https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8) | [Cosma Joy](https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ) | [Boy Boredom](https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN) | 3:41 |
 | 111 | [It's the Talk of the Town](https://open.spotify.com/track/5vXDA2Sqm05uQaoayLGKQJ) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [It's the Talk of the Town](https://open.spotify.com/album/7Gq2fHvO6W7MF4H5H1wdub) | 7:04 |
-| 112 | [I Only Have Eyes For You](https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo) | [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [I Only Have Eyes For You](https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF) | 4:10 |
-| 113 | [Tell Him I Said Hello](https://open.spotify.com/track/62xrkSU9yyiDXFoxjbAbSZ) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [Tell Him I Said Hello](https://open.spotify.com/album/2YCGhSo9rks5UBzmI0stmy) | 5:04 |
+| 112 | [Tell Him I Said Hello](https://open.spotify.com/track/62xrkSU9yyiDXFoxjbAbSZ) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [Tell Him I Said Hello](https://open.spotify.com/album/2YCGhSo9rks5UBzmI0stmy) | 5:04 |
+| 113 | [I Only Have Eyes For You](https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo) | [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [I Only Have Eyes For You](https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF) | 4:10 |
 | 114 | [Everything Must Change](https://open.spotify.com/track/3Vtde7QUf90QcCLyZs6aYc) | [Isabella Lundgren](https://open.spotify.com/artist/58Ftd7Tzkeve7Ht36LYL2j), [Mats Halling](https://open.spotify.com/artist/6WJLX5rhMDP1iC5VXK3BmS), [Nordic Chamber Orchestra](https://open.spotify.com/artist/0Y9TuFJT8im2HJvybDmX3V), [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Daniel Fredriksson](https://open.spotify.com/artist/7hKJYQtmuy2g7QAp5dmTle) | [Somehow Life Got in the Way](https://open.spotify.com/album/7eYV6gKGKsNlmdfVrRPwVo) | 5:36 |
 | 115 | [My Ideal](https://open.spotify.com/track/62SIDT5kuZ7whlVegVGkrT) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [My Ideal](https://open.spotify.com/album/0n9t4yvnjeYmTEbLamdn36) | 4:39 |
 | 116 | [Blue in Green](https://open.spotify.com/track/1091lAjkbu1GrbdsxICeWI) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [Still Life](https://open.spotify.com/album/0Yly6QXR76EpiQtG51yenm) | 3:46 |

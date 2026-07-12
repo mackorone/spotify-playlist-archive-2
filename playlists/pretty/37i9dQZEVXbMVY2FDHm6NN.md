@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,686 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,691 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [愛我別走](https://open.spotify.com/track/2fc2vUA5H3mTAr9rQoBDKt) | [Zhang Zhen Yue](https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt) | [祕密基地](https://open.spotify.com/album/1QzeKMGHBfMKye9WSKokwS) | 4:44 |
 | 50 | [如果我很平庸](https://open.spotify.com/track/0o0yzV24yRsgFE1xstBeeV) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [如果我很平庸](https://open.spotify.com/album/2nvAnh0zMCPbV8Rm4tJsLi) | 4:05 |
 
-Snapshot ID: `MeRgIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MeWxoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

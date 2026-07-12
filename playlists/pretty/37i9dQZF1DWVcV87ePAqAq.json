@@ -1,6 +1,6 @@
 {
   "description": "R\u00e4nta p\u00e5 r\u00e4nta... \ud83d\udcb8",
-  "num_followers": 350892,
+  "num_followers": 350862,
   "original_name": "Grisch",
   "owner": {
     "name": "Spotify",
@@ -399,26 +399,6 @@
     {
       "added_at": "2025-10-21 12:38:57",
       "album": {
-        "name": "World Hold On (Children of the Sky) [Radio Edit]",
-        "url": "https://open.spotify.com/album/4nJFwHTd4JySzd5vRehPQG"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
-        }
-      ],
-      "duration_ms": 199194,
-      "name": "World Hold On (Children of the Sky) - Radio Edit",
-      "url": "https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti"
-    },
-    {
-      "added_at": "2025-10-21 12:38:57",
-      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 212560,
       "name": "Sweet Nothing (feat. Florence Welch)",
       "url": "https://open.spotify.com/track/24LS4lQShWyixJ0ZrJXfJ5"
+    },
+    {
+      "added_at": "2025-10-21 12:38:57",
+      "album": {
+        "name": "World Hold On (Children of the Sky) [Radio Edit]",
+        "url": "https://open.spotify.com/album/4nJFwHTd4JySzd5vRehPQG"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        }
+      ],
+      "duration_ms": 199194,
+      "name": "World Hold On (Children of the Sky) - Radio Edit",
+      "url": "https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti"
     },
     {
       "added_at": "2025-10-21 12:38:57",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-10-21 12:38:57",
       "album": {
+        "name": "Viva La Vida",
+        "url": "https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX"
+      },
+      "artists": [
+        {
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2"
+    },
+    {
+      "added_at": "2025-10-21 12:38:57",
+      "album": {
         "name": "The Wrong Kind of War",
         "url": "https://open.spotify.com/album/12ViHXhXTAxPEDM1TYCxvF"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 191360,
       "name": "Don't Be so Shy - Filatov & Karas Remix",
       "url": "https://open.spotify.com/track/4bNqSJ92afDvDZiYgpckVf"
-    },
-    {
-      "added_at": "2025-10-21 12:38:57",
-      "album": {
-        "name": "Viva La Vida",
-        "url": "https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX"
-      },
-      "artists": [
-        {
-          "name": "Soppgirobygget",
-          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "Viva La Vida",
-      "url": "https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2"
     },
     {
       "added_at": "2025-10-21 12:38:57",

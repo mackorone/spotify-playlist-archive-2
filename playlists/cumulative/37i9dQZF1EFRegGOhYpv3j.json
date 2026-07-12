@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "Meaning of Life",
+        "url": "https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218760,
+      "name": "Didn't I",
+      "url": "https://open.spotify.com/track/7jhCqJlmx37u8o0xo2bjaj"
+    },
+    {
+      "album": {
         "name": "What Happens Now? (Deluxe)",
         "url": "https://open.spotify.com/album/1zK6DiSD46bOoBoXyG6Jzp"
       },

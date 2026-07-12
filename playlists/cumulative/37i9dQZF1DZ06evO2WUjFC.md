@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-167 songs - 9 hr 12 min
+168 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Rosones \- En Vivo](https://open.spotify.com/track/6TVycsgDIVIEaQZORMnA4G) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CON LA COCHI \[VOL II \(EN VIVO\)\]](https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx) | 2:56 | 2025-01-12 |  |
 | [SALUDOS A MI VIEJÓN](https://open.spotify.com/track/4knDhZzmW9BGEZ9WkbUuYR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Alberto H](https://open.spotify.com/artist/5aOm6iaKxo35g41zaju8kd) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 3:14 | 2024-01-29 | 2025-04-03 |
 | [Se Mamó El Becerro \- Live](https://open.spotify.com/track/0Tub36OHl0gXQ4SfTkWDip) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Así Nomás Live](https://open.spotify.com/album/3DjJVXAcfVMOixi8slv9gT) | 4:57 | 2024-03-02 | 2024-12-01 |
+| [SEGUIR](https://open.spotify.com/track/15DYQlZ64lyccv5561p4Jv) | [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CHULA ELLA 59](https://open.spotify.com/album/2hG9jA3GrO9myvWUmVfdty) | 3:15 | 2026-07-12 |  |
 | [Siempre Pendientes \- En Vivo](https://open.spotify.com/track/2MO2sTiLH06FAcbUp9hlBg) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 3:03 | 2024-06-17 | 2025-09-09 |
 | [Somos Hombres O Payasos](https://open.spotify.com/track/05Tt6ZvFojXH2tggyKAzbv) | [Linea Activada](https://open.spotify.com/artist/6SNv0DeLTRtRzaJ5c5uy4O), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los De Finix](https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz) | [Somos Hombres O Payasos](https://open.spotify.com/album/5BToanreAoj2wvKJh8nWyn) | 2:35 | 2024-02-11 | 2024-07-17 |
 | [Somos Hombres O Payasos](https://open.spotify.com/track/6GWuEWQvVfTDIcJqbp4Jm8) | [Linea Activada](https://open.spotify.com/artist/6SNv0DeLTRtRzaJ5c5uy4O), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los De Finix](https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz) | [Y Ahí Vamos](https://open.spotify.com/album/0X3P4KYmCXt1EQaQe6CXIu) | 2:35 | 2024-07-08 |  |
@@ -163,7 +164,7 @@
 | [TÍO LITO](https://open.spotify.com/track/1kl8WWxQ2chrpQQ97CF1jR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 2:57 | 2024-12-02 | 2024-12-20 |
 | [TÍO LITO](https://open.spotify.com/track/2ciwbD1E3lk13o1zODnJjL) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Tío Lito](https://open.spotify.com/album/4jNExfI0rnr7LOtTbUYAzM) | 2:57 | 2024-01-29 | 2024-07-14 |
 | [Un Pase De Lavada \(En Vivo\)](https://open.spotify.com/track/2a9Yj20bS6Np0SF3KKnP7l) | [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Un Pase De Lavada \(En Vivo\)](https://open.spotify.com/album/7pFb4OH3XCpQoIhWOgzOE7) | 3:18 | 2024-01-29 | 2025-01-18 |
-| [Velas Encendidas](https://open.spotify.com/track/0znVaRjI56esCo5I9YZs23) | [Gerencia AGC](https://open.spotify.com/artist/2noO9VOPzhyY4cUMFv6vYs), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Jul Diez](https://open.spotify.com/artist/1Yu84HbHhGHeS7aorDMqA5) | [Velas Encendidas](https://open.spotify.com/album/49E2apylgdz013orZ7Og0o) | 3:10 | 2026-01-25 |  |
+| [Velas Encendidas](https://open.spotify.com/track/0znVaRjI56esCo5I9YZs23) | [Gerencia AGC](https://open.spotify.com/artist/2noO9VOPzhyY4cUMFv6vYs), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Jul Diez](https://open.spotify.com/artist/1Yu84HbHhGHeS7aorDMqA5) | [Velas Encendidas](https://open.spotify.com/album/49E2apylgdz013orZ7Og0o) | 3:10 | 2026-01-25 | 2026-07-12 |
 | [VENGO A VER UNOS OJOS \- En Vivo](https://open.spotify.com/track/6IoSW6YT3ZUuO1H9ofvoVU) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Lilo Bermudez](https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 3:38 | 2025-10-30 |  |
 | [VENGO A VER UNOS OJOS \- En Vivo](https://open.spotify.com/track/6i7VnbQMZh8PceE6pxb3xo) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Lilo Bermudez](https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/0NzRPrgHKt6Av8Pap9H5hW) | 3:38 | 2025-03-06 | 2025-03-10 |
 | [Volar Contigo](https://open.spotify.com/track/0zieToB8rxTmoIya3OArDI) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Musica Romantica](https://open.spotify.com/album/6mJe3rqxZVaYauD5NxYAki) | 1:51 | 2024-03-04 | 2024-03-11 |

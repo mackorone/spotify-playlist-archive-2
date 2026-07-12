@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The Ultimate EA SPORTS FC Spain Playlist: bringing together the sounds of Spain in celebration of The World's Game\. Curated specially for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,583 likes - 27 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,519 likes - 27 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 4 | [YO LO SOÑÉ](https://open.spotify.com/track/1NTluDanyn4ET8RTYi0H1I) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [YO LO SOÑÉ](https://open.spotify.com/album/1Ou15E6Sw869LfoFGBZMBx) | 2:55 |
 | 5 | [Moving](https://open.spotify.com/track/2wvmkXG4foIJ2xUiwLhBjA) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Puerto Presente](https://open.spotify.com/album/0NfmXeIvmXywovqG2uGVpr) | 3:19 |
 | 6 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 |
-| 7 | [Seguimos](https://open.spotify.com/track/1MrRrD8A0aUdRcuAhCh1Ui) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Seguimos](https://open.spotify.com/album/40X3bp854vux6RGS2BEQtU) | 4:48 |
-| 8 | [Aloha](https://open.spotify.com/track/0GARcbxLIOmzrs0lHpuvmi) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aloha](https://open.spotify.com/album/23T1akaF3cPN6Pp27JQ8vi) | 3:07 |
+| 7 | [Aloha](https://open.spotify.com/track/0GARcbxLIOmzrs0lHpuvmi) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aloha](https://open.spotify.com/album/23T1akaF3cPN6Pp27JQ8vi) | 3:07 |
+| 8 | [Seguimos](https://open.spotify.com/track/1MrRrD8A0aUdRcuAhCh1Ui) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Seguimos](https://open.spotify.com/album/40X3bp854vux6RGS2BEQtU) | 4:48 |
 | 9 | [Nací Orishas](https://open.spotify.com/track/4wdbtgDHBcCk6jDNavvnLw) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [El Kilo](https://open.spotify.com/album/1FrqlQVSibjEyPChfwXmaK) | 4:56 |
 | 10 | [Love Natural](https://open.spotify.com/track/6wpx4u1PeQlXEvZMPQ49sU) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Cave Rave](https://open.spotify.com/album/68K5LJ1pOR3KcuVP8hw3RP) | 3:19 |
 | 11 | [Vive la vida](https://open.spotify.com/track/7lHeWCRwTmwe1Pzro8sJFk) | [Gusanito](https://open.spotify.com/artist/7cHey6Cgv29faMEHfEQu5j) | [Grandes éxitos](https://open.spotify.com/album/30pc2z0Xew0HDN6Xm6SGvP) | 3:13 |

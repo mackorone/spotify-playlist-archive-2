@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Roosevelt Stewart & Naomi Raine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,070,244 likes - 80 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,070,417 likes - 80 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What A God](https://open.spotify.com/track/4eTLdVkDPeJRwvS5T5YrVd) | [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [What A God](https://open.spotify.com/album/6pD1fqZb2FRZmpgbOmtgen) | 6:18 |
 | 2 | [All Authority](https://open.spotify.com/track/3jj38E2krZgQWNmnP587Ux) | [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Reason That I Sing](https://open.spotify.com/album/1RnhRvL2UWDZg7LUyifCiH) | 3:52 |
 | 3 | [The Lord Is Here](https://open.spotify.com/track/43pTyhLJ4zWIsdAO9tHtbz) | [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [When You're In The Room](https://open.spotify.com/album/5QrP58DRf8eY6EbwlAfD53) | 4:56 |
-| 4 | [Glory Arise](https://open.spotify.com/track/3cdUWBYEYJakyDOBN7707K) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Grace Shuffitt](https://open.spotify.com/artist/616bHpVJW9TVUjh58t4S68) | [GLORY ARISE](https://open.spotify.com/album/0Ggj9Qaz10LMGYHPvaTf7L) | 7:06 |
+| 4 | [GLORY ARISE](https://open.spotify.com/track/3cdUWBYEYJakyDOBN7707K) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Grace Shuffitt](https://open.spotify.com/artist/616bHpVJW9TVUjh58t4S68) | [GLORY ARISE](https://open.spotify.com/album/0Ggj9Qaz10LMGYHPvaTf7L) | 7:06 |
 | 5 | [To You](https://open.spotify.com/track/7FNgOiBfotP5tjfu7kf9KD) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [To You](https://open.spotify.com/album/1bzajEjhpNpvxqcFZVzbzD) | 5:21 |
 | 6 | [Hallowed Be Your Name](https://open.spotify.com/track/1KacGbIerk18ESTtdCniF9) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8), [Leeland Mooring](https://open.spotify.com/artist/2ylW0JAtYmQpymRkrvWnJb) | [The Chorus](https://open.spotify.com/album/6JThXMOkqvJ8BkF9kOLwbz) | 6:33 |
 | 7 | [WORD OF GOD](https://open.spotify.com/track/3lDzo0tVeR6nvS44hnhThS) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Steph Wong](https://open.spotify.com/artist/3L1PkIj3jbF7jmRbKztyvd) | [IT NEEDS TO BE SAID SOME MORE](https://open.spotify.com/album/1fLp14hxMusqbqM9eAwncl) | 4:46 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 8230,
+  "num_followers": 8232,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAABlnivyHjY4NdjFGcNXZXNF",
+  "snapshot_id": "alA2AAAAAABgrlMUKcjt0T5cjFeuXEDo",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 204081,
-      "name": "Vida Truncada",
-      "url": "https://open.spotify.com/track/2CU8NCuaegfybJQZco8YBU"
+      "duration_ms": 184052,
+      "name": "Por El Amor A Mi Madre",
+      "url": "https://open.spotify.com/track/2tNH25WlzOdld1e1060LQO"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 184052,
-      "name": "Por El Amor A Mi Madre",
-      "url": "https://open.spotify.com/track/2tNH25WlzOdld1e1060LQO"
+      "duration_ms": 204081,
+      "name": "Vida Truncada",
+      "url": "https://open.spotify.com/track/2CU8NCuaegfybJQZco8YBU"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Disco de Oro",
-        "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 175358,
-      "name": "Llorar por Amor",
-      "url": "https://open.spotify.com/track/3csxQ4oZ6IxhAoNm1TroSp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puras Cantineras, Vol. 1",
         "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 167146,
       "name": "Ay Chatita",
       "url": "https://open.spotify.com/track/2lVmMy1vCsXYarAEmwJQRD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Disco de Oro",
+        "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 175358,
+      "name": "Llorar por Amor",
+      "url": "https://open.spotify.com/track/3csxQ4oZ6IxhAoNm1TroSp"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Disco de Oro",
-        "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 127649,
-      "name": "Vagando Voy",
-      "url": "https://open.spotify.com/track/5TV0CzAeiTbKY2mcsdDmkJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "22 Superexitos (Idolos Norte\u00f1os y Texanos)",
         "url": "https://open.spotify.com/album/4F9UMuKXMXOd6Ypw0yCiRi"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 125176,
       "name": "Ya No Llores",
       "url": "https://open.spotify.com/track/1liDNsueC6v18Ixk2dPrE8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Disco de Oro",
+        "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 127649,
+      "name": "Vagando Voy",
+      "url": "https://open.spotify.com/track/5TV0CzAeiTbKY2mcsdDmkJ"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Disco de Oro",
-        "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 134699,
-      "name": "All\u00e1 en el Baile Grande",
-      "url": "https://open.spotify.com/track/1KPRfGMjsgNIHns4IBqOlm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Exitos de los Rel\u00e1mpagos del Norte",
         "url": "https://open.spotify.com/album/0nIs6UOzLblEot6U3JhkYF"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 168413,
       "name": "Quiero besarte a la noche",
       "url": "https://open.spotify.com/track/5peQlcnDpOFw2INz1lYA82"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Disco de Oro",
+        "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 134699,
+      "name": "All\u00e1 en el Baile Grande",
+      "url": "https://open.spotify.com/track/1KPRfGMjsgNIHns4IBqOlm"
     },
     {
       "added_at": null,

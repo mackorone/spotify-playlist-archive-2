@@ -4,12 +4,13 @@
 
 > This is Stephen Hough\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 1 min
+53 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [13 Preludes, Op\. 32: No\. 12 in G\-Sharp Minor\. Allegro](https://open.spotify.com/track/0RigajCOtzHPuRGPtno63n) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | [Stephen Hough's Piano Postcards](https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA) | 2:39 | 2026-07-08 |  |
-| [7 Fantasien, Op\. 116: No\. 1, Capriccio in D Minor](https://open.spotify.com/track/26HFQLmqu4IlHXd93fcKe9) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | ["Classics for Summer: Bach, Mozart & more"](https://open.spotify.com/album/0ZYWUohwqnJJbUcm296O3D) | 2:04 | 2026-07-08 |  |
+| [7 Fantasien, Op\. 116: No\. 1, Capriccio in D Minor](https://open.spotify.com/track/26HFQLmqu4IlHXd93fcKe9) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | ["Classics for Summer: Bach, Mozart & more"](https://open.spotify.com/album/0ZYWUohwqnJJbUcm296O3D) | 2:04 | 2026-07-08 | 2026-07-12 |
+| [8 Nocturnes, FP 56: No\. 4 in C Minor\. Bal fantôme](https://open.spotify.com/track/52e5fRSrboFXatVhXT8An7) | [Francis Poulenc](https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY), [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | ["Ancient Forests: Classical Masterpieces"](https://open.spotify.com/album/3QR4pllYVjEsqnWYX64n7X) | 1:35 | 2026-07-12 |  |
 | [Archangel's Lullaby](https://open.spotify.com/track/5II1xXrWYwoVtpcSVG0ypk) | [Howard Blake](https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei), [Steven Isserlis](https://open.spotify.com/artist/3lqUltCfNNgeU38vDVBbI1), [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | [Children's Cello](https://open.spotify.com/album/4mQAMbLF1myizjbSMUr01o) | 1:39 | 2026-07-08 |  |
 | [Arirang \(Arr\. Hough\)](https://open.spotify.com/track/51nZbFahK4ooT7rRGUA93u) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | [Vida breve: Bach, Busoni, Chopin, Liszt, Hough, Gounod](https://open.spotify.com/album/1YjF7cLTit7g5gDR8XZndk) | 1:49 | 2026-07-08 |  |
 | [Berceuse \(Version for cello and piano\)](https://open.spotify.com/track/5BUtgHIjkYXZFQ4Wt6FJqn) | [Amy Beach](https://open.spotify.com/artist/1QeC5GwDENQv78O3PCLeZB), [Steven Isserlis](https://open.spotify.com/artist/3lqUltCfNNgeU38vDVBbI1), [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | [Children's Cello](https://open.spotify.com/album/4mQAMbLF1myizjbSMUr01o) | 3:15 | 2026-07-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Nosowska
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,449 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,592 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 81 | [ZERAJEDYNKI](https://open.spotify.com/track/2TLHFRKjGVCjX91b7CfFIH) | [Motorboats](https://open.spotify.com/artist/2z22TuCBjDnymI8mAv30W4) | [ZERAJEDYNKI](https://open.spotify.com/album/7upAeiHDbtqaLXfAq3ZWlj) | 2:49 |
 | 82 | [Nie muszę mieć nic](https://open.spotify.com/track/2315J0BhNqSKWcqGcPHkvf) | [Mlecze](https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo) | [Nie muszę mieć nic](https://open.spotify.com/album/0rEFc0qa71FGOadyRubBLU) | 2:58 |
 | 83 | [Filmowy Kadr](https://open.spotify.com/track/08SFWe978MMnPSZhTBSqup) | [oysterboy](https://open.spotify.com/artist/0zHt0gWj0hDUgKOrUkeiYk) | [Filmowy Kadr](https://open.spotify.com/album/5vqkECvMmefa4GF01sJ6Vu) | 2:44 |
-| 84 | [Esmeralda](https://open.spotify.com/track/1zlYK4S2HHhQWntlXq2t6P) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Esmeralda](https://open.spotify.com/album/7rRxYzy6yDNhY7KWQ0NSCl) | 2:51 |
+| 84 | [Esmeralda \- we współpracy z PZU](https://open.spotify.com/track/1zlYK4S2HHhQWntlXq2t6P) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Esmeralda](https://open.spotify.com/album/7rRxYzy6yDNhY7KWQ0NSCl) | 2:51 |
 | 85 | [Innocence](https://open.spotify.com/track/0dF8u8c3LSOFlbrxP22Bb9) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8), [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt) | [Innocence](https://open.spotify.com/album/44RrkKcBbJetWB9tLxQWIi) | 2:45 |
 | 86 | [Lawenda](https://open.spotify.com/track/0drGhZGTBdkiqzRpMjyM9b) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H) | [Kąpałam się wczoraj w snach](https://open.spotify.com/album/3DhqZFXewd6BvLsKa5bIzZ) | 3:16 |
 | 87 | [Dreszcze](https://open.spotify.com/track/4sXAOQVBABdN75iM7DijDL) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Dreszcze](https://open.spotify.com/album/6BlYxjMh6IOceHZcWYp4ZN) | 2:39 |

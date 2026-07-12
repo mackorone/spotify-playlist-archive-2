@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Manisha Eerabathini
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,503 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,511 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Take It Light](https://open.spotify.com/track/0q5FSsFKykzoYMPZQtjU59) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC), [Shashank Alamuru](https://open.spotify.com/artist/1FRUQL3SPnXlce6Hqfk2eh) | [Take It Light](https://open.spotify.com/album/0wz0WHPKIKu4a8jl7TWXj5) | 3:08 |
-| 2 | [Meghama](https://open.spotify.com/track/4Rp5TNwBc5dMP05gT2vmPH) | [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue), [Surya Venkat](https://open.spotify.com/artist/0oS6cE82qxeBJ46rWAfFtR), [Charu Hariharan](https://open.spotify.com/artist/4E9HVb4iW6DkBRQv1UVmnf), [Sravani Amarapu](https://open.spotify.com/artist/3imN1dakgEq1dRoImW7cfm) | [Meghama](https://open.spotify.com/album/5YYIZFWRWQOsCZNgDnNaZt) | 3:45 |
-| 3 | [Neeve Neeve](https://open.spotify.com/track/2ZphKloOHELMlyj38FnwhN) | [Ankith Kandlakunta](https://open.spotify.com/artist/2TE58y2ZZhuTo220HvhWz2), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Abhigna Yanaganti](https://open.spotify.com/artist/6GTDFzAp0ZDdhZeFkTFhTN) | [Neeve Neeve](https://open.spotify.com/album/7mQ9R3nKzPJ9T9uBS8QHXc) | 3:36 |
+| 1 | [Neeve Neeve](https://open.spotify.com/track/2ZphKloOHELMlyj38FnwhN) | [Ankith Kandlakunta](https://open.spotify.com/artist/2TE58y2ZZhuTo220HvhWz2), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Abhigna Yanaganti](https://open.spotify.com/artist/6GTDFzAp0ZDdhZeFkTFhTN) | [Neeve Neeve](https://open.spotify.com/album/7mQ9R3nKzPJ9T9uBS8QHXc) | 3:36 |
+| 2 | [Take It Light](https://open.spotify.com/track/0q5FSsFKykzoYMPZQtjU59) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC), [Shashank Alamuru](https://open.spotify.com/artist/1FRUQL3SPnXlce6Hqfk2eh) | [Take It Light](https://open.spotify.com/album/0wz0WHPKIKu4a8jl7TWXj5) | 3:08 |
+| 3 | [Meghama](https://open.spotify.com/track/4Rp5TNwBc5dMP05gT2vmPH) | [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue), [Surya Venkat](https://open.spotify.com/artist/0oS6cE82qxeBJ46rWAfFtR), [Charu Hariharan](https://open.spotify.com/artist/4E9HVb4iW6DkBRQv1UVmnf), [Sravani Amarapu](https://open.spotify.com/artist/3imN1dakgEq1dRoImW7cfm) | [Meghama](https://open.spotify.com/album/5YYIZFWRWQOsCZNgDnNaZt) | 3:45 |
 | 4 | [Ramba Urvasi Menaka](https://open.spotify.com/track/63D9vDB9RFoteyS2AgM0Jw) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC), [pho](https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC) | [Ramba Urvasi Menaka](https://open.spotify.com/album/03ffSb9i9zvjszyeobq0wJ) | 3:24 |
 | 5 | [Gamyam](https://open.spotify.com/track/7ky2gxFArFc5ymYwCRKpk5) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU), [Balavardhan](https://open.spotify.com/artist/0S6O8iZc26eN5fnqtXJe2A) | [Gamyam](https://open.spotify.com/album/1D7F3UghWe2hd6nORZPghx) | 4:20 |
 | 6 | [Aravindh \(Telugu\)](https://open.spotify.com/track/47EyHixke4M8597pX7aBWi) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Srinivasa Mouli](https://open.spotify.com/artist/2y2DSOmE3xKWW4Wia2ucCi) | [Aravindh \(Telugu\)](https://open.spotify.com/album/6S74tGtUi00gmHXS8UuC69) | 4:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 99 | [Rahasyam](https://open.spotify.com/track/7vMbkplpdFYxOUSmIQtdQL) | [Kavin Lavari](https://open.spotify.com/artist/3Y4K8LCLMtBS9lxM46EpMe), [ozzie](https://open.spotify.com/artist/2yuhstU6oVkeKw9dyVcNwO), [sathvik](https://open.spotify.com/artist/1FZJc8yEHsOJDCFIevVahk) | [It's Nice To Meet You](https://open.spotify.com/album/1KlHnPfucRK6pK7jHNjIfN) | 2:42 |
 | 100 | [Evvare Evvare](https://open.spotify.com/track/6PO9tnh3wD1aONPiEnklKe) | [Priyadarshan Balasubramanian](https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Aishwarya Ravichandran](https://open.spotify.com/artist/0Mbxm07Hiahy2xSMtesff8) | [Evvare Evvare](https://open.spotify.com/album/7aADKIlahFtMNGHlOCAzUu) | 4:02 |
 
-Snapshot ID: `AAAAAJqXrOFDHfFGPGkm24/KO+5Q6L3q`
+Snapshot ID: `AAAAACQI6XQXhJIZi8+QPPcc3KdAoQbj`

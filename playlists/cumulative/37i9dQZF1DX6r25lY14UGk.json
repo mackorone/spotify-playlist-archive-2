@@ -21352,12 +21352,12 @@
       },
       "artists": [
         {
-          "name": "Nickelodeon",
-          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
-        },
-        {
           "name": "Patrick Star",
           "url": "https://open.spotify.com/artist/4M7bDPAyyd1rns4cbEy0yQ"
+        },
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
         }
       ],
       "date_added": "2026-07-10",

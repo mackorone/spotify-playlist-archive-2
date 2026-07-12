@@ -12958,7 +12958,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 173975,
       "name": "Great Expectation",
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
@@ -20409,6 +20409,24 @@
     },
     {
       "album": {
+        "name": "Visitor (Deluxe)",
+        "url": "https://open.spotify.com/album/2EAbXVmQUrylFiXVSQp6TJ"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178016,
+      "name": "Material Lover - from The Devil Wears Prada 2 Original Motion Picture",
+      "url": "https://open.spotify.com/track/2aQcGu5C6qFcicPsaywTEK"
+    },
+    {
+      "album": {
         "name": "MATHEMATICAL DISRESPECT",
         "url": "https://open.spotify.com/album/2na9riat7uwn9pax75cJue"
       },
@@ -25678,7 +25696,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 360000,
       "name": "Rain Sounds for Sleeping, Pt. 06 (Continuous No Gaps)",
       "url": "https://open.spotify.com/track/7gF2mPcjipv2hLGHY7bi17"
@@ -35654,7 +35672,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 193666,
       "name": "weren't for the wind",
       "url": "https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM"

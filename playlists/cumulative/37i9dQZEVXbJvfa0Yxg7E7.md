@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-2,748 songs - 6 day 0 hr 40 min
+2,749 songs - 6 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2364,6 +2364,7 @@
 | [TADA](https://open.spotify.com/track/4UclS2WokoJhnIaT3SCfRL) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [TADA](https://open.spotify.com/album/5bcYtBBHD1JCyA0917pMyq) | 2:45 | 2025-02-01 | 2025-02-16 |
 | [TADA](https://open.spotify.com/track/5FFQPufJgluZoY0M5XziuZ) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Fredag](https://open.spotify.com/album/079erPos4o37SKrV4UM1HV) | 2:45 | 2025-02-15 | 2025-02-23 |
 | [TADA](https://open.spotify.com/track/0bpZr2GJ1wTYN9RL7gjuUX) | [Kjartan Lauritzen](https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf) | [TADA](https://open.spotify.com/album/3DPkAAWAHGsfHzXLjXIbjm) | 3:10 | 2021-08-08 | 2021-08-17 |
+| [Take Me Back](https://open.spotify.com/track/1ydTfAU0AXrRnbPpfyWYQm) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Take Me Back](https://open.spotify.com/album/0V3YKC3QI5P1sAjM4csXju) | 3:21 | 2026-07-11 |  |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-10-19 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-08 | 2021-08-18 |
 | [Take Your Mask Off \(feat\. Daniel Caesar & LaToiya Williams\)](https://open.spotify.com/track/4BSR9I4ExlCJdXJo2GpBD5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [LaToiya Williams](https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 | 2024-10-29 | 2024-10-31 |
@@ -2600,7 +2601,7 @@
 | [Vi Lever](https://open.spotify.com/track/44Sh6sBYjwRQKRV9AbxNHm) | [Wenche Myhre](https://open.spotify.com/artist/4C3ZoiafZ1vOv09kAKHLSf) | [Vi Lever](https://open.spotify.com/album/7cRY1586pwz7xQmwnJ4zjk) | 4:10 | 2023-05-18 | 2023-05-20 |
 | [vi mot verden](https://open.spotify.com/track/64MSh2kgPWrW1mBCtUQU8j) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [postkort alicante](https://open.spotify.com/album/2lfr1tJAGLtJVuWPFhzVcq) | 2:05 | 2023-05-27 | 2023-06-11 |
 | [VI SKAL ALDRI GÅ HJEM FØR SOLOPPGANG](https://open.spotify.com/track/0gAJiu6fAe7j2PxYEz9f7a) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [VI SKAL ALDRI GÅ HJEM FØR SOLOPPGANG](https://open.spotify.com/album/3ACL65kXWrm0pFQkxJfIkT) | 2:19 | 2026-04-11 | 2026-05-07 |
-| [VI SKAL ALDRI GÅ HJEM FØR SOLOPPGANG](https://open.spotify.com/track/24lr0kqxMnxNf4CZMC2Mf2) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [RAMUELO](https://open.spotify.com/album/2eVzxquNqAcHdXv82Syc5K) | 2:19 | 2026-06-08 |  |
+| [VI SKAL ALDRI GÅ HJEM FØR SOLOPPGANG](https://open.spotify.com/track/24lr0kqxMnxNf4CZMC2Mf2) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [RAMUELO](https://open.spotify.com/album/2eVzxquNqAcHdXv82Syc5K) | 2:19 | 2026-06-08 | 2026-07-12 |
 | [VI SKAL ALDRI GÅ HJEM FØR SOLOPPGANG](https://open.spotify.com/track/5TFucAmMIMW8x1JD6Fq780) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [RAMUELO](https://open.spotify.com/album/22LvP1YFY3pOZuXWVwmndL) | 2:19 | 2026-05-06 | 2026-06-09 |
 | [Vi Tenner Våre Lykter](https://open.spotify.com/track/6t7WeT8D2Mos1x5qY8VG7g) | [Hanne Krogh](https://open.spotify.com/artist/3uVksNHrN6QwS2m0wzqkWY) | [Julestjerner](https://open.spotify.com/album/1M1Uysx0OAS9QeIkrcVUcW) | 2:53 | 2022-12-25 | 2023-12-30 |
 | [Vi Tenner Våre Lykter](https://open.spotify.com/track/7D4C0tB0unuSzCguxyHp0r) | [Hanne Krogh](https://open.spotify.com/artist/3uVksNHrN6QwS2m0wzqkWY) | [God Jul: Hannes Beste Julesanger](https://open.spotify.com/album/4xt7xlADnEvT070WxKbPuE) | 2:56 | 2021-12-25 | 2021-12-27 |

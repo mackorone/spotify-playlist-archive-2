@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-575 songs - 1 day 11 hr 36 min
+576 songs - 1 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Lullaby](https://open.spotify.com/track/6Y6rNeW1Efcl7Jq0MT9TOV) | [Svetlana Bakushina](https://open.spotify.com/artist/1fGAIRdys4yhkkIJqz2bXL), [Carlos Rufo Martins](https://open.spotify.com/artist/0WDrIGBxrkxVF632AoVCdJ) | [Lullaby](https://open.spotify.com/album/01nMm9B1zVmQlGW1EmAlIb) | 3:37 | 2026-04-15 | 2026-06-13 |
 | [Maelstrom](https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 6:21 | 2026-05-28 |  |
 | [Make It Alright](https://open.spotify.com/track/7gWWilzekZ5Y3vyuTCNspq) | [Lost Velvet](https://open.spotify.com/artist/43VZcpziN2RTPNRbrdMgAT) | [Make It Alright](https://open.spotify.com/album/62BRuVUHTImfiziKzuXKH3) | 3:07 | 2026-04-06 | 2026-06-13 |
+| [Make That Sound](https://open.spotify.com/track/2eQuZXpai00NEJbzrDuFP6) | [Cordelia Harding](https://open.spotify.com/artist/1yKmcWiEDJPW3Cb45W5qmR) | [Make That Sound](https://open.spotify.com/album/2LZYZLPdE2EuZyVVKSBfLy) | 3:41 | 2026-07-11 |  |
 | [Maldita](https://open.spotify.com/track/2eTvToQcswkSYtFlopW35L) | [Voodoo Zombie](https://open.spotify.com/artist/7vgH1SZNi1o8NCn0hKn29X) | [Maldita](https://open.spotify.com/album/1rYProq1DseWQyV6kavpkZ) | 2:33 | 2026-01-29 | 2026-04-20 |
 | [Maldito cobarde](https://open.spotify.com/track/1hc8sKJdvP6GfUv6dzwjN3) | [mediopelo](https://open.spotify.com/artist/0mbImR0KgeaYtvPoc7z6CU) | [Maldito cobarde](https://open.spotify.com/album/2pUYGwXDJtwaytUQhLJlUt) | 2:59 | 2026-06-06 |  |
 | [March](https://open.spotify.com/track/6aVkk0kVHBRFgL4SzhiycG) | [Crafty McVillain](https://open.spotify.com/artist/47wtKyzMEByReL7R3RJ4eP) | [March](https://open.spotify.com/album/0mf6WhdV3ZlgvVLhKAMJoP) | 4:43 | 2026-02-14 | 2026-03-22 |

@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: Glenn Lewis
 
-969 songs - 2 day 9 hr 38 min
+970 songs - 2 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,7 @@
 | [HiYA](https://open.spotify.com/track/0EszgYPRpVpz4pVaXttpiJ) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [HiYA](https://open.spotify.com/album/35dPX13gN6H8CLNXL6viq1) | 2:58 | 2024-11-08 | 2025-05-31 |
 | [Hold Me Up](https://open.spotify.com/track/2OjQHB8BoADlEToXt2HeDb) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Give It More Time](https://open.spotify.com/album/11EHl3HcQlvBlTniWjt6Ld) | 3:24 | 2025-01-31 | 2025-08-28 |
 | [Hold My Hand](https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [Hold My Hand](https://open.spotify.com/album/3517UY5CoDP3OQBa5QmsyP) | 3:32 | 2023-06-09 | 2024-01-21 |
-| [Hollywood \(feat\. Earth, Wind & Fire + Hazel Monét\)](https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Hazel Monét](https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:37 | 2023-08-25 |  |
+| [Hollywood \(feat\. Earth, Wind & Fire + Hazel Monét\)](https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Hazel Monét](https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:37 | 2023-08-25 | 2026-07-12 |
 | [Holy Father](https://open.spotify.com/track/33w29FnS86hDdKZrDN3Cmc) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Holy Father](https://open.spotify.com/album/4huLEgyn0VIOpuZs1k3pJ1) | 2:16 | 2025-08-15 |  |
 | [Honour](https://open.spotify.com/track/6slVYLrJprL3ayBNhSgd5r) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Honour / I Want In](https://open.spotify.com/album/4YryyvA3CCq7uNESscvIli) | 4:10 | 2026-02-27 |  |
 | [Hope & Love](https://open.spotify.com/track/0sv8Os7FyqzVDNVrxcgRuq) | [The Pocket Queen](https://open.spotify.com/artist/4VjLpSXI7zOBMj8jsFAP9w), [The Royal Flush](https://open.spotify.com/artist/40WNjE5OE1DuK5JvSlsrAb), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Hope & Love](https://open.spotify.com/album/51tnMbvrCU8Wnjt0TAxCfk) | 5:07 | 2025-02-28 | 2025-05-10 |
@@ -930,6 +930,7 @@
 | [What A Difference She Made](https://open.spotify.com/track/2CF6WekP8rVrRJfQWZDRgf) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/6otBSSEkPMOwKCtNaibxHB) | 2:55 | 2022-10-14 | 2023-09-11 |
 | [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 | 2022-10-14 | 2023-04-30 |
 | [What a Fool Believes \(with Michael McDonald\) \- Live](https://open.spotify.com/track/7yukGUDEOcjug514T4qgvQ) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Outside: From The Redwoods](https://open.spotify.com/album/0k7LQvKvFfbxZvqFwZ0Dtz) | 4:12 | 2022-03-11 | 2022-09-26 |
+| [What About Me?](https://open.spotify.com/track/6Oro2FQdBJd8BOtGEFbyel) | [Taylor Williams](https://open.spotify.com/artist/4ND8mF5vf3F615yQfWyQ1F) | [Dreaming / What About Me?](https://open.spotify.com/album/2vgae29PUqVE30peZS7IK2) | 3:15 | 2025-11-14 |  |
 | [What Do You Do](https://open.spotify.com/track/76To8vko0V30a8PT3q312Z) | [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [What Do You Do](https://open.spotify.com/album/2kgnbjCeCHMHOsPwxay0ue) | 3:08 | 2023-09-08 | 2023-10-12 |
 | [What It Is](https://open.spotify.com/track/2CJfHjywgcczXQi6Dosw8Q) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [What It Is](https://open.spotify.com/album/3v6186rgsWFvZxf0Sj7DHS) | 5:25 | 2021-12-03 | 2023-05-21 |
 | [What Love Can Do \[Feat\. Emily King\]](https://open.spotify.com/track/6U0xzYsrXAyWYA6CmkFSJb) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [What Love Can Do \[Feat\. Emily King\]](https://open.spotify.com/album/2jAju7615SAS3Lag8ckUTs) | 3:50 | 2023-06-30 | 2023-08-26 |

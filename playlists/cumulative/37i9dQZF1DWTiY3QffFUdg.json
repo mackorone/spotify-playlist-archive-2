@@ -611,6 +611,28 @@
     },
     {
       "album": {
+        "name": "Bang On The Drums",
+        "url": "https://open.spotify.com/album/4HgdfeH2IwTfwnIhQrReXN"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152368,
+      "name": "Bang On The Drums",
+      "url": "https://open.spotify.com/track/6FnmKuDTiiM8GxZx0KiiFT"
+    },
+    {
+      "album": {
         "name": "Bar Song (Tipsy Techno)",
         "url": "https://open.spotify.com/album/6eAhvsBUMtub3ha90qexgI"
       },
@@ -740,6 +762,28 @@
       "duration_ms": 154954,
       "name": "Berghain - Remix",
       "url": "https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw"
+    },
+    {
+      "album": {
+        "name": "Better With You",
+        "url": "https://open.spotify.com/album/3Uuy2TmXMScAV6Mzy9CZiO"
+      },
+      "artists": [
+        {
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        },
+        {
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211928,
+      "name": "Better With You",
+      "url": "https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8"
     },
     {
       "album": {
@@ -2604,7 +2648,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 271968,
       "name": "Havana Bounce",
       "url": "https://open.spotify.com/track/3yDlsbUiSWvViojyF0244u"
@@ -7388,7 +7432,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 164800,
       "name": "Where Did Alice Go?",
       "url": "https://open.spotify.com/track/55cvtMsaFHVORb25QW9QN8"

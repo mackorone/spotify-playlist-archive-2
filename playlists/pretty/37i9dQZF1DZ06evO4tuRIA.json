@@ -1,13 +1,29 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 105819,
+  "num_followers": 105855,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAAAT7Ya0uIUcwnsYOSXxOJkH",
+  "snapshot_id": "alA2AAAAAABJa6ZYrAl6iDNJaskhdS6r",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "UN CAFECITO",
+        "url": "https://open.spotify.com/album/6t3ZfvNZP1dEMd45nmmfFN"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 157250,
+      "name": "UN CAFECITO",
+      "url": "https://open.spotify.com/track/2Wrmn4iCuxTFytg2AXuZaZ"
+    },
     {
       "added_at": null,
       "album": {
@@ -343,22 +359,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Manzanita Vol. 3",
-        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
+        "name": "Intuici\u00f3n",
+        "url": "https://open.spotify.com/album/28bPKJ84oK7VV8xZz4yUPm"
       },
       "artists": [
         {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+          "name": "Jimmy Guzman",
+          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
         },
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Estevan Plazola",
+          "url": "https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ"
         }
       ],
-      "duration_ms": 200682,
-      "name": "Seguimos M\u00e1s Fuertes",
-      "url": "https://open.spotify.com/track/6NxRSjUHkxYsSRpZP6lWMf"
+      "duration_ms": 180657,
+      "name": "Lokera",
+      "url": "https://open.spotify.com/track/7K23Te3utCfxBPwqzq8g7U"
     },
     {
       "added_at": null,
@@ -379,6 +399,26 @@
       "duration_ms": 194929,
       "name": "Chevrolet 4X4",
       "url": "https://open.spotify.com/track/6kZs6GbMlGVkMpf6jWPGnq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Manzanita Vol. 3",
+        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 200682,
+      "name": "Seguimos M\u00e1s Fuertes",
+      "url": "https://open.spotify.com/track/6NxRSjUHkxYsSRpZP6lWMf"
     },
     {
       "added_at": null,
@@ -407,26 +447,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Intuici\u00f3n",
-        "url": "https://open.spotify.com/album/28bPKJ84oK7VV8xZz4yUPm"
+        "name": "Cupcake Quemando",
+        "url": "https://open.spotify.com/album/4jRTPn5owoTaIbmrIgxLjp"
       },
       "artists": [
         {
-          "name": "Jimmy Guzman",
-          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         },
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Estevan Plazola",
-          "url": "https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ"
         }
       ],
-      "duration_ms": 180657,
-      "name": "Lokera",
-      "url": "https://open.spotify.com/track/7K23Te3utCfxBPwqzq8g7U"
+      "duration_ms": 197750,
+      "name": "Cupcake Quemando",
+      "url": "https://open.spotify.com/track/2AEIwBU42xkLwkCj7i7USv"
     },
     {
       "added_at": null,
@@ -447,26 +483,6 @@
       "duration_ms": 169877,
       "name": "Barba Negra (feat. Tito Torbellino Jr.)",
       "url": "https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cupcake Quemando",
-        "url": "https://open.spotify.com/album/4jRTPn5owoTaIbmrIgxLjp"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 197750,
-      "name": "Cupcake Quemando",
-      "url": "https://open.spotify.com/track/2AEIwBU42xkLwkCj7i7USv"
     },
     {
       "added_at": null,
@@ -695,22 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MALA FAMA",
-        "url": "https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7"
+        "name": "The Magic, Vol.1",
+        "url": "https://open.spotify.com/album/4MEuvVVOvDnERcJKrZxct2"
       },
       "artists": [
         {
-          "name": "Los Chavalos De La Perla",
-          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         },
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Bravo 57",
-      "url": "https://open.spotify.com/track/3DB3UnoTiVpV18ZTb8VgzL"
+      "duration_ms": 191843,
+      "name": "Pateando Latas",
+      "url": "https://open.spotify.com/track/2z7N2urXPNsYHSA4kks2Dv"
     },
     {
       "added_at": null,
@@ -739,22 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Magic, Vol.1",
-        "url": "https://open.spotify.com/album/4MEuvVVOvDnERcJKrZxct2"
+        "name": "MALA FAMA",
+        "url": "https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
         },
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 191843,
-      "name": "Pateando Latas",
-      "url": "https://open.spotify.com/track/2z7N2urXPNsYHSA4kks2Dv"
+      "duration_ms": 172800,
+      "name": "Bravo 57",
+      "url": "https://open.spotify.com/track/3DB3UnoTiVpV18ZTb8VgzL"
     },
     {
       "added_at": null,
@@ -795,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa Que Se Motiven",
+        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 235711,
+      "name": "El Ranchero",
+      "url": "https://open.spotify.com/track/4UxemidpNmPXjC7CaycnFs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "L7X",
         "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
       },
@@ -811,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Se Motiven",
-        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
+        "name": "El 7 De La Suerte",
+        "url": "https://open.spotify.com/album/5p6nXo6us9G1aTqaHLDJV1"
       },
       "artists": [
         {
@@ -820,9 +852,9 @@
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 235711,
-      "name": "El Ranchero",
-      "url": "https://open.spotify.com/track/4UxemidpNmPXjC7CaycnFs"
+      "duration_ms": 217250,
+      "name": "El Chili Willy",
+      "url": "https://open.spotify.com/track/4TBinkhZWTRdjio4DCHtCm"
     },
     {
       "added_at": null,
@@ -847,18 +879,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El 7 De La Suerte",
-        "url": "https://open.spotify.com/album/5p6nXo6us9G1aTqaHLDJV1"
+        "name": "Pa Que Se Motiven",
+        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
       "artists": [
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 217250,
-      "name": "El Chili Willy",
-      "url": "https://open.spotify.com/track/4TBinkhZWTRdjio4DCHtCm"
+      "duration_ms": 145375,
+      "name": "Seguimos Dando Lata",
+      "url": "https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt"
     },
     {
       "added_at": null,
@@ -879,26 +915,6 @@
       "duration_ms": 178368,
       "name": "HASHERO",
       "url": "https://open.spotify.com/track/2itgCntKyhMM31SnQnUg2G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa Que Se Motiven",
-        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 145375,
-      "name": "Seguimos Dando Lata",
-      "url": "https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt"
     },
     {
       "added_at": null,
@@ -935,22 +951,6 @@
       "duration_ms": 134173,
       "name": "BARBAS",
       "url": "https://open.spotify.com/track/4pr58HZduqoPXqe04ILjOr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L7X",
-        "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 168298,
-      "name": "MIKE TYSON",
-      "url": "https://open.spotify.com/track/1iMecXQc0ajPS2by6Bzp5B"
     }
   ],
   "unique_name": "This Is LEGADO 7",

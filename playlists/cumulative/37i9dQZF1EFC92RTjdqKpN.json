@@ -1075,6 +1075,32 @@
     },
     {
       "album": {
+        "name": "Official FIFA World Cup 2026\u2122 Album",
+        "url": "https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181241,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/6pBkDdHNn7xujkpXYxqE2f"
+    },
+    {
+      "album": {
         "name": "The Return (Deadly Deluxe)",
         "url": "https://open.spotify.com/album/4pAQW3M2Fe7jNTBe64CtKX"
       },

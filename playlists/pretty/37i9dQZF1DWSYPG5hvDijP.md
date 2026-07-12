@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Panther
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,516 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,527 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 16 | [THE WISH](https://open.spotify.com/track/1HXFtm8kbuoOC2taa8vTNf) | [Sdotz Malik](https://open.spotify.com/artist/4b9KMiCPKdRfub32zeQVEP) | [FALLEN PARADISE](https://open.spotify.com/album/5W4XG3rste0tPnQT7wP9kx) | 2:32 |
 | 17 | [DHAID PAID](https://open.spotify.com/track/6CzMgDslsKX6roqPC2PGZD) | [Rage](https://open.spotify.com/artist/1t7dRcKOWQ5sxxEu7FGdiW), [GHILDIYAL](https://open.spotify.com/artist/19oE1SHCKszlQciGXQGtbW), [TVZ & iiEE](https://open.spotify.com/artist/4oKZmnKPmdfDAAo3NbN68g) | [DHAID PAID](https://open.spotify.com/album/6wN2tN1U0vFmW63lgtK5lO) | 3:56 |
 | 18 | [Chetak](https://open.spotify.com/track/7cATLlXG21d9Z667EjyPKR) | [KRasR Officials](https://open.spotify.com/artist/46yJlVJ9mExCBF1GGoUoh8), [Max Musix](https://open.spotify.com/artist/19tc3xCdRUclKlYa8aNsqp) | [Chetak](https://open.spotify.com/album/7AU2SLnp0XovzVCAKkG5VG) | 2:02 |
-| 19 | [Delhi Se Bombay](https://open.spotify.com/track/7zb3vGiOsDwNVyCb74YaoO) | [Sharma G](https://open.spotify.com/artist/6ZVQzwaFFJZDe9243S1JIR), [Sledge](https://open.spotify.com/artist/3dGrwo7RwaXjGfwhbbEkff), [Kaira](https://open.spotify.com/artist/2ITQxeQIzZ6qTKsvdq423f) | [Delhi Se Bombay](https://open.spotify.com/album/5HG8OGs1cXeD0MtIwhnsN5) | 3:04 |
+| 19 | [Delhi Se Bombay](https://open.spotify.com/track/7zb3vGiOsDwNVyCb74YaoO) | [Sharma G](https://open.spotify.com/artist/6ZVQzwaFFJZDe9243S1JIR), [Sledge](https://open.spotify.com/artist/3dGrwo7RwaXjGfwhbbEkff) | [Delhi Se Bombay](https://open.spotify.com/album/5HG8OGs1cXeD0MtIwhnsN5) | 3:04 |
 | 20 | [Gul E Be Khaar](https://open.spotify.com/track/1nvQDmOVXGaGuCfaRq4Dqr) | [MUSAIB](https://open.spotify.com/artist/5TRm0HG6IT1R5iIg0xxg9m) | [Kamzarf](https://open.spotify.com/album/6pi3IHqfogWHNowbT8oTe2) | 3:17 |
 | 21 | [PRODIGY](https://open.spotify.com/track/48mTM08janhY47aTaDrfAw) | [KRSH](https://open.spotify.com/artist/5Sw1jdj9f6fYxbDwW8s0Qp), [Earghzm](https://open.spotify.com/artist/6Ff49O39e3hCrSafKhNUN1) | [PRODIGY](https://open.spotify.com/album/2cu6lpYizXHcEHxYXkd72Y) | 2:25 |
 | 22 | [DON FREESTYLE](https://open.spotify.com/track/3eGVsLjaugMhrV3C0v9bsS) | [DON YG](https://open.spotify.com/artist/7jkW3pdM5vCB833oDKBfHf), [70YU3K](https://open.spotify.com/artist/2JQFDcM3kesKCQXji5dWab) | [DON FREESTYLE](https://open.spotify.com/album/7oaIxMRhT17fWKGojhaLbz) | 2:36 |

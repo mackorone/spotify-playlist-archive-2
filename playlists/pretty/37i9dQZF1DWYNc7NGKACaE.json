@@ -427,6 +427,26 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Virgulado",
+        "url": "https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk"
+      },
+      "artists": [
+        {
+          "name": "Nino Leone",
+          "url": "https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx"
+        },
+        {
+          "name": "Goodboysut",
+          "url": "https://open.spotify.com/artist/7mGIf59rGrAZEv55wcSXvW"
+        }
+      ],
+      "duration_ms": 127011,
+      "name": "Virgulado - Speed",
+      "url": "https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Mas Existe um Lugar (speed)",
         "url": "https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 141615,
       "name": "Mas Existe um Lugar - speed",
       "url": "https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Virgulado",
-        "url": "https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk"
-      },
-      "artists": [
-        {
-          "name": "Nino Leone",
-          "url": "https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx"
-        },
-        {
-          "name": "Goodboysut",
-          "url": "https://open.spotify.com/artist/7mGIf59rGrAZEv55wcSXvW"
-        }
-      ],
-      "duration_ms": 127011,
-      "name": "Virgulado - Speed",
-      "url": "https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -679,6 +679,26 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Sou Eu (Speed)",
+        "url": "https://open.spotify.com/album/0ImQiX9qXLJPxNm70WS0F6"
+      },
+      "artists": [
+        {
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+        },
+        {
+          "name": "Lezin",
+          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
+        }
+      ],
+      "duration_ms": 125270,
+      "name": "Sou Eu - Speed",
+      "url": "https://open.spotify.com/track/7oJz4UAl1txNYgzbJGIE3H"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Ela T\u00e1 Querendo (Remix)",
         "url": "https://open.spotify.com/album/205zkN1K6TB8WPFwXxVq3O"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 75971,
       "name": "Ela T\u00e1 Querendo - Remix",
       "url": "https://open.spotify.com/track/3AB3etyCs8orfDXKB7OVez"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Sou Eu (Speed)",
-        "url": "https://open.spotify.com/album/0ImQiX9qXLJPxNm70WS0F6"
-      },
-      "artists": [
-        {
-          "name": "Kaio Viana",
-          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
-        },
-        {
-          "name": "Lezin",
-          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
-        }
-      ],
-      "duration_ms": 125270,
-      "name": "Sou Eu - Speed",
-      "url": "https://open.spotify.com/track/7oJz4UAl1txNYgzbJGIE3H"
     },
     {
       "added_at": "2024-07-08 19:10:57",

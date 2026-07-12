@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 506803,
+  "num_followers": 506822,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -811,26 +811,6 @@
     {
       "added_at": "2026-06-19 03:03:08",
       "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
-        }
-      ],
-      "duration_ms": 193747,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
-    },
-    {
-      "added_at": "2026-06-19 03:03:08",
-      "album": {
         "name": "T\u00f4 de F\u00e9rias",
         "url": "https://open.spotify.com/album/1QtWRDY6HCYBveBzjAlfec"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 168449,
       "name": "T\u00f4 de F\u00e9rias",
       "url": "https://open.spotify.com/track/1xHcw1xHylSNbOZQenjrBn"
+    },
+    {
+      "added_at": "2026-06-19 03:03:08",
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
+        }
+      ],
+      "duration_ms": 193747,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
     },
     {
       "added_at": "2026-06-19 03:03:08",
@@ -1503,6 +1503,30 @@
     {
       "added_at": "2026-06-19 03:03:08",
       "album": {
+        "name": "Se Voc\u00ea Quiser",
+        "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+        },
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+        }
+      ],
+      "duration_ms": 174219,
+      "name": "Se Voc\u00ea Quiser",
+      "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
+    },
+    {
+      "added_at": "2026-06-19 03:03:08",
+      "album": {
         "name": "Falling Like The Stars (Madism Remix)",
         "url": "https://open.spotify.com/album/5NWay7oRQhrtMiLNgEOBTz"
       },
@@ -1519,30 +1543,6 @@
       "duration_ms": 181826,
       "name": "Falling Like The Stars - Madism Remix",
       "url": "https://open.spotify.com/track/0iHO8dmXhSYCgfow7ckt9W"
-    },
-    {
-      "added_at": "2026-06-19 03:03:08",
-      "album": {
-        "name": "Hoje Caminhei (Remix)",
-        "url": "https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap"
-      },
-      "artists": [
-        {
-          "name": "Cazt",
-          "url": "https://open.spotify.com/artist/66KMR938PcmbSkHzZzW6Gg"
-        },
-        {
-          "name": "Nicolas Candido",
-          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
-        },
-        {
-          "name": "\u00d8NEhead",
-          "url": "https://open.spotify.com/artist/0PGwcXveTYchEcTzdQHchT"
-        }
-      ],
-      "duration_ms": 140826,
-      "name": "Hoje Caminhei - Remix",
-      "url": "https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO"
     }
   ],
   "unique_name": "Festa na Praia",

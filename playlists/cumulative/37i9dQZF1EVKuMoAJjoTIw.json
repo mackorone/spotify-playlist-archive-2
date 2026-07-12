@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIUGhY4EVrFX5>The Goo Goo Dolls</a>, <a href=spotify:playlist:37i9dQZF1EIZcvMozXBk3l>Creed</a>, <a href=spotify:playlist:37i9dQZF1EIYnCz0KRbdlN>Fuerza Regida</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIV1hAnuH1ilI>Justin Bieber</a>, <a href=spotify:playlist:37i9dQZF1EIVo4rgqc9CZa>ABBA</a>, <a href=spotify:playlist:37i9dQZF1EIUnslPhwwdfa>Zach Bryan</a> and more",
   "name": "Sad Mix",
   "tracks": [
     {
@@ -92,6 +92,32 @@
       "duration_ms": 163586,
       "name": "1 step forward, 3 steps back",
       "url": "https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg"
+    },
+    {
+      "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250173,
+      "name": "1-800-273-8255",
+      "url": "https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV"
     },
     {
       "album": {
@@ -2884,7 +2910,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 179317,
       "name": "caperuza",
       "url": "https://open.spotify.com/track/6272S5nkbOvQDazRYq6muV"
@@ -3998,7 +4024,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 225459,
       "name": "Davide e Golia",
       "url": "https://open.spotify.com/track/0qGIqm3xGuugqoXzpnP6sX"
@@ -6612,7 +6638,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 108034,
       "name": "Guardian angel",
       "url": "https://open.spotify.com/track/7uqcLJFlSYjVPLUz1vPxkY"
@@ -7072,7 +7098,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 136357,
       "name": "HEARTEATER",
       "url": "https://open.spotify.com/track/0MW5zwGXciXyVdFwQbvBq8"
@@ -7668,7 +7694,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 223346,
       "name": "I Fall Apart",
       "url": "https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh"
@@ -7762,7 +7788,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "I Know You'll Forget Me",
       "url": "https://open.spotify.com/track/6yEAQZq2Cl9QxnbwBOJsUD"
@@ -8366,7 +8392,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 176584,
       "name": "IL GIOCO DEL SILENZIO",
       "url": "https://open.spotify.com/track/4d2d57V0NYORXRGylmLY7R"
@@ -8626,7 +8652,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -10766,7 +10792,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 179670,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5fX1B90cPSFyyjORcHW8aC"
@@ -11176,7 +11202,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 205266,
       "name": "LUNEDI'",
       "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
@@ -12922,7 +12948,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 108120,
       "name": "Not Enough",
       "url": "https://open.spotify.com/track/4Vmrpb9ppPq1ACLZyqxPVe"
@@ -13208,7 +13234,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 238240,
       "name": "One Last Breath",
       "url": "https://open.spotify.com/track/42T2QQv3xgBlpQxaSP7lnK"
@@ -13428,7 +13454,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 163404,
       "name": "Paranoie",
       "url": "https://open.spotify.com/track/5dvs1LY4pqUhUsVOQXtx2M"
@@ -13724,7 +13750,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 208212,
       "name": "PIET\u00c0 (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/0IkOUXIMztRh6yBAPD1OzF"
@@ -14638,7 +14664,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Roto",
       "url": "https://open.spotify.com/track/3YIU0OFB9ejJxu3eWgb7sU"
@@ -16238,7 +16264,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
@@ -16978,7 +17004,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 176404,
       "name": "Take It All",
       "url": "https://open.spotify.com/track/7aqhFo8oXyOCDZlOF41Fcd"
@@ -17372,6 +17398,24 @@
       "duration_ms": 237863,
       "name": "Tertawan Hati",
       "url": "https://open.spotify.com/track/0DVCvSb8PhHchIP23JOP9q"
+    },
+    {
+      "album": {
+        "name": "My World 2.0",
+        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232720,
+      "name": "That Should Be Me",
+      "url": "https://open.spotify.com/track/0aPZbnkMoWJaJ5CNVLCj8S"
     },
     {
       "album": {
@@ -17926,7 +17970,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 294720,
       "name": "The Winner Takes It All",
       "url": "https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV"
@@ -17962,7 +18006,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 90231,
       "name": "they'll post it online",
       "url": "https://open.spotify.com/track/6yZzK6O3NRSv5TxcQMFmX3"
@@ -18106,7 +18150,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 124437,
       "name": "TI SENTI FRAGILE",
       "url": "https://open.spotify.com/track/5JTpxCtoBfS21t2qPUt2cW"
@@ -18545,6 +18589,36 @@
     },
     {
       "album": {
+        "name": "M\u0100Y\u0100",
+        "url": "https://open.spotify.com/album/5wByaEbAmxIlQCDdicFJry"
+      },
+      "artists": [
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200729,
+      "name": "TUTTO FUORI CONTROLLO \u0d75 (con Franco 126, Kid Yugi, Izi)",
+      "url": "https://open.spotify.com/track/56aNXzJAZbI1j6jJeEampd"
+    },
+    {
+      "album": {
         "name": "The Illest, Vol. 2",
         "url": "https://open.spotify.com/album/5bBmBTQgEZiu3FS4TWeq1e"
       },
@@ -18654,7 +18728,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 186666,
       "name": "Una cotta per te",
       "url": "https://open.spotify.com/track/4VQiyfLMWzryiGAE2FpqTh"
@@ -18960,7 +19034,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 198163,
       "name": "Vuela",
       "url": "https://open.spotify.com/track/4LgW7QYjhd3nqXcU4cfHRK"
@@ -19304,7 +19378,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 188541,
       "name": "We Did Not Make Sense",
       "url": "https://open.spotify.com/track/5WPbkilyXspX1yiKAiR1oO"

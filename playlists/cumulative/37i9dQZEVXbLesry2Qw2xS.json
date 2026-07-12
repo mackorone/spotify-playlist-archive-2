@@ -1904,7 +1904,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 270853,
       "name": "Ainult unustamiseks",
       "url": "https://open.spotify.com/track/7KLuj2JJaEnnO6ldrwPSw2"
@@ -3550,7 +3550,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 187178,
       "name": "armastan, ei armasta",
       "url": "https://open.spotify.com/track/7gy6n6xauco1dttxquR39d"
@@ -13726,7 +13726,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -23618,7 +23618,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 34596,
       "name": "ilmast eile",
       "url": "https://open.spotify.com/track/55q3Cu4uLVA4rRwH21fjBf"
@@ -27550,6 +27550,24 @@
       "duration_ms": 261278,
       "name": "K\u00e4ime katuseid m\u00f6\u00f6da",
       "url": "https://open.spotify.com/track/3mUnNCnlxennpXN88LoQv3"
+    },
+    {
+      "album": {
+        "name": "K\u00e4sipagasis",
+        "url": "https://open.spotify.com/album/6kk13s6l3i3hgg5ij8vXrH"
+      },
+      "artists": [
+        {
+          "name": "Clicherik & M\u00e4x",
+          "url": "https://open.spotify.com/artist/2K5ujJoG9L4INBflflfxtk"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179486,
+      "name": "K\u00e4sipagasis",
+      "url": "https://open.spotify.com/track/4X2oUX2NP6cTNXr2nZplQx"
     },
     {
       "album": {
@@ -62786,7 +62804,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 168941,
       "name": "\u0428\u0430\u0434\u044d",
       "url": "https://open.spotify.com/track/6GiiGC1f90eZdYwyg0NEJl"

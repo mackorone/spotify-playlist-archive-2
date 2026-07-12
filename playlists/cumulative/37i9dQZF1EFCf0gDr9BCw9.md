@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-247 songs - 18 hr 23 min
+248 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [Orson](https://open.spotify.com/track/2oKMb55RKeEfMqUnL7sMsZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 2:52 | 2022-09-08 |  |
 | [Paradise](https://open.spotify.com/track/42sWDtFKf9tWByohvmKokH) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Very Thought Of You \(Expanded Edition\)](https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB) | 3:13 | 2022-09-08 |  |
 | [Paris Blues](https://open.spotify.com/track/37oXUGR543Dt5z8DW2W0lB) | [Milt Jackson Quartet](https://open.spotify.com/artist/0OkXd29wRAUpYRin6jbXMQ) | [A Thrill from the Blues](https://open.spotify.com/album/0yNscfZjhm8kQO6MikxrVU) | 2:57 | 2022-09-08 |  |
-| [Passion Flower](https://open.spotify.com/track/5j5zeHWqdXWybCCIowBM6G) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke Plays Ellington](https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG) | 3:06 | 2026-06-19 |  |
+| [Passion Flower](https://open.spotify.com/track/5j5zeHWqdXWybCCIowBM6G) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke Plays Ellington](https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG) | 3:06 | 2026-06-19 | 2026-07-12 |
+| [Passion Flower](https://open.spotify.com/track/2mfpGIGrScpKgWrhxPnn5E) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [Meet Oliver Nelson](https://open.spotify.com/album/27wtPwpJTg1cU1Arz98D4o) | 6:50 | 2026-07-11 |  |
 | [Passion Flower \- Instrumental](https://open.spotify.com/track/0O727spQJQDjTLEBnnchAG) | [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Roy Haynes](https://open.spotify.com/artist/1tGINpEJVUsQXssRC28ugo) | [Wanton Spirit With Charlie Haden And Roy Haynes](https://open.spotify.com/album/014Yi62dTNyZsmXlTsU4zj) | 7:36 | 2022-09-08 |  |
 | [Pentonsilic](https://open.spotify.com/track/4z6uEbBkt5mV4YXqykCrSV) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 11:56 | 2022-09-08 |  |
 | [Pomegranate](https://open.spotify.com/track/3lLtXQWEAsiohpXyVl9o36) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:56 | 2022-09-08 |  |

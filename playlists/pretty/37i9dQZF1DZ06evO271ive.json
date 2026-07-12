@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 30815,
+  "num_followers": 30822,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAAAH4vt9vZtKrxLxzF6DFV/L",
+  "snapshot_id": "alA2AAAAAACPWo0CH8WVrT6ezJL5j+nj",
   "tracks": [
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
-        "url": "https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 129170,
-      "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
-      "url": "https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hood Hottest Princess (Deluxe)",
         "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 157523,
       "name": "I Don't Wanna Be Saved (feat. Tay Keith)",
       "url": "https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
+        "url": "https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 129170,
+      "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
+      "url": "https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Sexyy We Trust",
-        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 139632,
-      "name": "Fake Jammin",
-      "url": "https://open.spotify.com/track/2feXtMaA1fQd7Wy7fgImtP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hood Hottest Princess (Deluxe)",
         "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 175125,
       "name": "Hood Rats (with Sukihana)",
       "url": "https://open.spotify.com/track/7iSPXk5AFvZGhfOSQpisSQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 139632,
+      "name": "Fake Jammin",
+      "url": "https://open.spotify.com/track/2feXtMaA1fQd7Wy7fgImtP"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOTH WAYS",
-        "url": "https://open.spotify.com/album/5takDjdhFUtCaKOX8w1McN"
-      },
-      "artists": [
-        {
-          "name": "PLUTO",
-          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "WHIM WHAMIEE (feat. Sexyy Red) [Remix]",
-      "url": "https://open.spotify.com/track/7hh2C7xVRXOCiljojwYITf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Sexyy We Trust",
         "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 164002,
       "name": "Sexyy Love Money",
       "url": "https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BOTH WAYS",
+        "url": "https://open.spotify.com/album/5takDjdhFUtCaKOX8w1McN"
+      },
+      "artists": [
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "WHIM WHAMIEE (feat. Sexyy Red) [Remix]",
+      "url": "https://open.spotify.com/track/7hh2C7xVRXOCiljojwYITf"
     },
     {
       "added_at": null,
@@ -915,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Favorite Trappa Favorite Rappa (Hosted by DJ Holiday)",
-        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 169811,
-      "name": "It Bitches",
-      "url": "https://open.spotify.com/track/1QmTZzRri0uhYtXhUiAz06"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Is Like (Deluxe)",
         "url": "https://open.spotify.com/album/4hnzOo44FfNzkAjtywCvBL"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 152157,
       "name": "I Like It (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/0pwd9beBkEIBrMbkRMlO35"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Favorite Trappa Favorite Rappa (Hosted by DJ Holiday)",
+        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "It Bitches",
+      "url": "https://open.spotify.com/track/1QmTZzRri0uhYtXhUiAz06"
     },
     {
       "added_at": null,
@@ -1011,8 +1011,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hood Hottest Princess (Deluxe)",
-        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
       },
       "artists": [
         {
@@ -1020,9 +1020,9 @@
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 177902,
-      "name": "Shake Yo Dreads",
-      "url": "https://open.spotify.com/track/3CPu3e1CVKItYWdoCgSXzm"
+      "duration_ms": 149958,
+      "name": "Female Gucci Mane",
+      "url": "https://open.spotify.com/track/5jMCvfuGCvNXrUqr8FRgb8"
     }
   ],
   "unique_name": "This Is Sexyy Red",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAACByqh4stvBtFIuvPy/oXFb",
+  "snapshot_id": "alA2AAAAAAAV/RqCSGlMnzaEX8yJ92dY",
   "tracks": [
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 261053,
-      "name": "Downfall",
-      "url": "https://open.spotify.com/track/6eR2jeiMILXRto4lxZzzEf"
+      "duration_ms": 229280,
+      "name": "You Love Me 'Cause I Hate You",
+      "url": "https://open.spotify.com/track/0j2QDNeAmt2WxrmAEQJUe0"
     },
     {
       "added_at": null,
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 229280,
-      "name": "You Love Me 'Cause I Hate You",
-      "url": "https://open.spotify.com/track/0j2QDNeAmt2WxrmAEQJUe0"
+      "duration_ms": 261053,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/6eR2jeiMILXRto4lxZzzEf"
     }
   ],
   "unique_name": "This Is Lacuna Coil",

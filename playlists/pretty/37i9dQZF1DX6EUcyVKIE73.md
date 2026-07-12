@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,835 likes - 50 songs - 13 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,844 likes - 50 songs - 13 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 34 | [Raga Sampurna Malkaus](https://open.spotify.com/track/7mvf24bJZ4cw4dM4uxAWgd) | [Kishori Amonkar](https://open.spotify.com/artist/0tLjWOxzh42O8gr0nFzv45) | [Maestro's Choice: Kishori Amonkar](https://open.spotify.com/album/6cKWaE4V3zAnDOzE4wwemT) | 28:30 |
 | 35 | [Raga Bhairavii: Baju Band Khul Khul Jani](https://open.spotify.com/track/6JyggcRCT6CEw7JVDJfODF) | [Shruti Sadolikar](https://open.spotify.com/artist/6caUPzMY65rQ7qk9yw2xDq) | [Raga Miyan\-Ki\-Todi, Raga Bibhas & Raga Bhairavi](https://open.spotify.com/album/02Utu7DnngYqwgcHr2rN4H) | 13:43 |
 | 36 | [Raga Kalavati \- Khayal](https://open.spotify.com/track/5jc5Dn3oIigJIOHKFGBRde) | [Parveen Sultana](https://open.spotify.com/artist/6icHDJ25LIt9b8hyW6Zm6e) | [Le Chant \- Khayal](https://open.spotify.com/album/4u4qaZ6CcnBKfpsmEdfugX) | 14:56 |
-| 37 | [Rag Gurjari Todi](https://open.spotify.com/track/0KWUBMhTeC5SObkrJPACZS) | [Ustad Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Saptrang](https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ) | 31:36 |
+| 37 | [Jhama Jham \- Thumri](https://open.spotify.com/track/2pxyb3CvMfCyvYZcnojMZW) | [Girija Devi, Kishan Maharaj, Ramesh Mishra](https://open.spotify.com/artist/2x2lBeqwikK3oXYxtyDlmF) | [The Best Of Girija Deva](https://open.spotify.com/album/1oe93SNJ9tdqrTpkrkz5dH) | 9:02 |
 | 38 | [Sur Sukh Khani, Natyageet](https://open.spotify.com/track/1GSYhLtmtU1hKqfk0GYf1U) | [Pandit Bhimsen Joshi](https://open.spotify.com/artist/5MHTQcUQIhxhZdB6Glwmmk), [Purushottam Walawalkar](https://open.spotify.com/artist/7C5NA726B5bcUP5N4NHtZQ) | [Natyasangeet](https://open.spotify.com/album/6XI48xvEXJZ4djjqhmKWnj) | 13:33 |
 | 39 | [Raga Basant Bahar \- Raga Basant Bahar \- Ektaal \- Teentaal](https://open.spotify.com/track/5EmNsq9at10HMawWfhM2K6) | [Kishori Amonkar](https://open.spotify.com/artist/0tLjWOxzh42O8gr0nFzv45) | [Sangeet Sartaj, Vol\. 1 & 2](https://open.spotify.com/album/0KyNZodk1oplO3iJhy5GHk) | 29:27 |
-| 40 | [Jhama Jham \- Thumri](https://open.spotify.com/track/2pxyb3CvMfCyvYZcnojMZW) | [Girija Devi, Kishan Maharaj, Ramesh Mishra](https://open.spotify.com/artist/2x2lBeqwikK3oXYxtyDlmF) | [The Best Of Girija Deva](https://open.spotify.com/album/1oe93SNJ9tdqrTpkrkz5dH) | 9:02 |
+| 40 | [Rag Gurjari Todi](https://open.spotify.com/track/0KWUBMhTeC5SObkrJPACZS) | [Ustad Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Saptrang](https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ) | 31:36 |
 | 41 | [Thumri in Raga Misra Mand 'Morey Saiyan Bedardi' in Keherva \(8 beats\)](https://open.spotify.com/track/7sPDjmoQ9GmERO4BQvpM8x) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI) | [Pure](https://open.spotify.com/album/0xqFR4roHbYLOtB3rvMnOl) | 17:25 |
 | 42 | [Raga Shree](https://open.spotify.com/track/7hrScFzMLbCqqMjRVhVGui) | [Kumar Gandharva](https://open.spotify.com/artist/4nZmnoNMkDwdutbWCJhL22) | [Sangeet Sataj Vol\. 1 & 2](https://open.spotify.com/album/3w15CmWb0Wj4HneKR4YAFP) | 31:48 |
 | 43 | [Raga Jog](https://open.spotify.com/track/3NPx1Llm6Ys8lK77BzcLeI) | [Pandit Bhimsen Joshi](https://open.spotify.com/artist/5MHTQcUQIhxhZdB6Glwmmk) | [Lifestory of a Legend](https://open.spotify.com/album/4Fk777rcuGlOspuSEdGkSh) | 32:17 |

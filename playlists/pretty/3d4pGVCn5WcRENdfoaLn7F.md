@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 775 likes - 82 songs - 4 hr 50 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 775 likes - 83 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,5 +90,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 80 | [Space and Time](https://open.spotify.com/track/64BHgShtqVoY2OUoKBy13L) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [Space and Time](https://open.spotify.com/album/4KQzRcZuLBQxYPdVnz0eNc) | 3:19 |
 | 81 | [Trouble](https://open.spotify.com/track/6z9MnDXCKOfD7Bh1RU0odl) | [Tidal Rave](https://open.spotify.com/artist/1cLwEvonj7L34lEucivmLv) | [Trouble](https://open.spotify.com/album/6MfJwwwL5PuAQTnKmOK3RE) | 3:15 |
 | 82 | [what're we doing?](https://open.spotify.com/track/04bZCSivQeAQLCfVu6CTEQ) | [Ethan Jacobs](https://open.spotify.com/artist/7rLn0S7IQ2UibUTclefgGA) | [what're we doing?](https://open.spotify.com/album/2AtX3aO6bRDHtc1qO3W61D) | 4:03 |
+| 83 | [Run \- Cover](https://open.spotify.com/track/7qCzuCpMsiQqPqyjsURAQZ) | [Sol Marineris](https://open.spotify.com/artist/6fLLkzsoaz9ceyLoGYmUIP), [Enlia](https://open.spotify.com/artist/4pGE3dPAL7rlSvoBgTw91S) | [Run \(Cover\)](https://open.spotify.com/album/4PSIjA7XCryTRa4ynqt0vL) | 2:38 |
 
-Snapshot ID: `AAADywTV4sb4CubrTzlCW1FgqEbAXtYd`
+Snapshot ID: `AAADzKgbbOueWG5JLIBXwb8nL0jsVg1g`

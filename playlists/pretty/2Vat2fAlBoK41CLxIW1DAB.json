@@ -6,7 +6,7 @@
     "name": "Nitro Square",
     "url": "https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a"
   },
-  "snapshot_id": "AAAEXFvNbuDTeaoXIGTrAM19BS65LDze",
+  "snapshot_id": "AAAEX1pz1vQwmvLEbmGFXvHAYPRq5IdW",
   "tracks": [
     {
       "added_at": "2024-11-02 09:43:21",
@@ -17751,6 +17751,54 @@
       "duration_ms": 157297,
       "name": "Ocho de Oros",
       "url": "https://open.spotify.com/track/6h3Vdl2vHTmqeXPTvPEa9M"
+    },
+    {
+      "added_at": "2026-07-11 11:32:08",
+      "album": {
+        "name": "Don't Trust Anyone Over 21",
+        "url": "https://open.spotify.com/album/7yIX3meztExaI6ViFxAxg5"
+      },
+      "artists": [
+        {
+          "name": "S/ash66",
+          "url": "https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68"
+        }
+      ],
+      "duration_ms": 104759,
+      "name": "Don't Trust Anyone Over 21",
+      "url": "https://open.spotify.com/track/0fztYRNQGiV3W57FU5syMl"
+    },
+    {
+      "added_at": "2026-07-11 11:32:11",
+      "album": {
+        "name": "Petali",
+        "url": "https://open.spotify.com/album/4piBiaskMrcGbkiWvpp0jL"
+      },
+      "artists": [
+        {
+          "name": "Piede Sinistro",
+          "url": "https://open.spotify.com/artist/4Hhfi2Z1ix6ZilrrwBDwZC"
+        }
+      ],
+      "duration_ms": 400714,
+      "name": "Petali",
+      "url": "https://open.spotify.com/track/7edv8TCszqSqjkOxJEd2AC"
+    },
+    {
+      "added_at": "2026-07-11 11:32:14",
+      "album": {
+        "name": "Ni una m\u00e1s",
+        "url": "https://open.spotify.com/album/5ryt9yB666ApOwxjJtuj2J"
+      },
+      "artists": [
+        {
+          "name": "Astter",
+          "url": "https://open.spotify.com/artist/2Ch4GYMv1onUucKUYI8xOC"
+        }
+      ],
+      "duration_ms": 251200,
+      "name": "Ni una m\u00e1s",
+      "url": "https://open.spotify.com/track/3lglnKcrFajSfLjOnuN0nI"
     }
   ],
   "unique_name": "Rock Square",

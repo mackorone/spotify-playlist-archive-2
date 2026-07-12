@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alta Consigna\ud83d\udcf8",
-  "num_followers": 368187,
+  "num_followers": 368215,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABp59+s0Wn2gK4dfEktdwNZ1lxqX",
+  "snapshot_id": "AAAAAGPe/E+ER2gYi9Xemu1vuzYaOY8d",
   "tracks": [
     {
       "added_at": "2026-07-03 06:00:19",
@@ -151,18 +151,18 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "La Depre",
-        "url": "https://open.spotify.com/album/1zliC8iWgvCw8gfk6LyIrs"
+        "name": "Disculpe Usted",
+        "url": "https://open.spotify.com/album/4Sj3RVZse1XYxZnyGdK7f7"
       },
       "artists": [
         {
-          "name": "Jhonny Rivera",
-          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
         }
       ],
-      "duration_ms": 143834,
-      "name": "La Depre",
-      "url": "https://open.spotify.com/track/1I9c5rB7LhXkxGX06leVyE"
+      "duration_ms": 185798,
+      "name": "Disculpe Usted",
+      "url": "https://open.spotify.com/track/79Fchr207sdYoIarAaJX7v"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -203,18 +203,18 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Disculpe Usted",
-        "url": "https://open.spotify.com/album/4Sj3RVZse1XYxZnyGdK7f7"
+        "name": "La Depre",
+        "url": "https://open.spotify.com/album/1zliC8iWgvCw8gfk6LyIrs"
       },
       "artists": [
         {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
         }
       ],
-      "duration_ms": 185798,
-      "name": "Disculpe Usted",
-      "url": "https://open.spotify.com/track/79Fchr207sdYoIarAaJX7v"
+      "duration_ms": 143834,
+      "name": "La Depre",
+      "url": "https://open.spotify.com/track/1I9c5rB7LhXkxGX06leVyE"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -255,22 +255,18 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Y a ti, \u00bfQu\u00e9 tal te va?",
-        "url": "https://open.spotify.com/album/3SrmR3w0a5hEE7QydHFkjX"
+        "name": "Segunda Opci\u00f3n",
+        "url": "https://open.spotify.com/album/3Y5wuyGo040iGF41w8Az6t"
       },
       "artists": [
         {
-          "name": "Kakalo",
-          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
-        },
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
         }
       ],
-      "duration_ms": 159466,
-      "name": "Y a ti, \u00bfQu\u00e9 tal te va?",
-      "url": "https://open.spotify.com/track/7eaCDVH7jAc7pFp64radbq"
+      "duration_ms": 209942,
+      "name": "Segunda Opci\u00f3n",
+      "url": "https://open.spotify.com/track/0x4XZXxwOmAsbMCuAnIqpN"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -291,18 +287,22 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Segunda Opci\u00f3n",
-        "url": "https://open.spotify.com/album/3Y5wuyGo040iGF41w8Az6t"
+        "name": "Y a ti, \u00bfQu\u00e9 tal te va?",
+        "url": "https://open.spotify.com/album/3SrmR3w0a5hEE7QydHFkjX"
       },
       "artists": [
         {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+          "name": "Kakalo",
+          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
         }
       ],
-      "duration_ms": 209942,
-      "name": "Segunda Opci\u00f3n",
-      "url": "https://open.spotify.com/track/0x4XZXxwOmAsbMCuAnIqpN"
+      "duration_ms": 159466,
+      "name": "Y a ti, \u00bfQu\u00e9 tal te va?",
+      "url": "https://open.spotify.com/track/7eaCDVH7jAc7pFp64radbq"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -671,6 +671,26 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
+        "name": "Cuando Llegue el D\u00eda",
+        "url": "https://open.spotify.com/album/2J5YCv5iMrMXc9R47o92HC"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "Cuando Llegue el D\u00eda",
+      "url": "https://open.spotify.com/track/5O60WjoCD5egvktd0FK283"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
         "name": "Me Enloqueces",
         "url": "https://open.spotify.com/album/1Vf2WGDh6Igd14bK28zBGd"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 201066,
       "name": "Me Enloqueces",
       "url": "https://open.spotify.com/track/4Y8rJousZ5XtxyzJsJrvV2"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
-        "name": "Cuando Llegue el D\u00eda",
-        "url": "https://open.spotify.com/album/2J5YCv5iMrMXc9R47o92HC"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "Cuando Llegue el D\u00eda",
-      "url": "https://open.spotify.com/track/5O60WjoCD5egvktd0FK283"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/3WdLKbUHPxNbHmJXe2BVeu"
-      },
-      "artists": [
-        {
-          "name": "ANDYVERE",
-          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
-        }
-      ],
-      "duration_ms": 212309,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/2xyOmSHmjWQN1JrIIcZdpz"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "El Conejo De La Luna",
         "url": "https://open.spotify.com/album/2YAGDIX4XNr301XxeHDJS4"
       },
@@ -799,18 +783,18 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Un Abrazo (Versi\u00f3n Regional)",
-        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/3WdLKbUHPxNbHmJXe2BVeu"
       },
       "artists": [
         {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
         }
       ],
-      "duration_ms": 238500,
-      "name": "Un Abrazo - Versi\u00f3n Regional",
-      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
+      "duration_ms": 212309,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/2xyOmSHmjWQN1JrIIcZdpz"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -827,6 +811,22 @@
       "duration_ms": 205750,
       "name": "MI \u00daLTIMA DESPEDIDA",
       "url": "https://open.spotify.com/track/7rCGOjnuWBRA3iuhK60wTc"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
+        "name": "Un Abrazo (Versi\u00f3n Regional)",
+        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "Un Abrazo - Versi\u00f3n Regional",
+      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
+        "name": "Una Limosna",
+        "url": "https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 172422,
+      "name": "Una Limosna",
+      "url": "https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
         "name": "Monarca",
         "url": "https://open.spotify.com/album/4M5aDPki2nzsQvjmqRvxkX"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 217735,
       "name": "Monarca",
       "url": "https://open.spotify.com/track/21EIwkVeaWPgqlyk7Af2CV"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
-        "name": "Una Limosna",
-        "url": "https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 172422,
-      "name": "Una Limosna",
-      "url": "https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Mam\u00e1",
-        "url": "https://open.spotify.com/album/2k1hKIkmF8vR6t8jkYY1BA"
-      },
-      "artists": [
-        {
-          "name": "Arturo Vargas",
-          "url": "https://open.spotify.com/artist/41k2bKYXNI4V7S69ArLvId"
-        }
-      ],
-      "duration_ms": 258894,
-      "name": "Mam\u00e1",
-      "url": "https://open.spotify.com/track/7LmtJqK1YDkHRsafCnVmCR"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "Pagar\u00e9 Condena",
         "url": "https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 164960,
       "name": "Pagar\u00e9 Condena",
       "url": "https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
+        "name": "Mam\u00e1",
+        "url": "https://open.spotify.com/album/2k1hKIkmF8vR6t8jkYY1BA"
+      },
+      "artists": [
+        {
+          "name": "Arturo Vargas",
+          "url": "https://open.spotify.com/artist/41k2bKYXNI4V7S69ArLvId"
+        }
+      ],
+      "duration_ms": 258894,
+      "name": "Mam\u00e1",
+      "url": "https://open.spotify.com/track/7LmtJqK1YDkHRsafCnVmCR"
     },
     {
       "added_at": "2026-07-03 06:00:19",

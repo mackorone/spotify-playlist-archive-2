@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 115422,
+  "num_followers": 115459,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-07-09 23:01:23",
       "album": {
+        "name": "Northside Melodies",
+        "url": "https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX"
+      },
+      "artists": [
+        {
+          "name": "Glocky",
+          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
+        }
+      ],
+      "duration_ms": 150349,
+      "name": "Problem Solver",
+      "url": "https://open.spotify.com/track/3X5Zw8zkIGULZEnJUwwJwj"
+    },
+    {
+      "added_at": "2026-07-09 23:01:23",
+      "album": {
         "name": "RYAN TED",
         "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 124464,
       "name": "Felpa Nera (feat. ANNA)",
       "url": "https://open.spotify.com/track/168t3ud7jZIslO0P5ZDKnj"
-    },
-    {
-      "added_at": "2026-07-09 23:01:23",
-      "album": {
-        "name": "Northside Melodies",
-        "url": "https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX"
-      },
-      "artists": [
-        {
-          "name": "Glocky",
-          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
-        }
-      ],
-      "duration_ms": 150349,
-      "name": "Problem Solver",
-      "url": "https://open.spotify.com/track/3X5Zw8zkIGULZEnJUwwJwj"
     },
     {
       "added_at": "2026-07-09 23:01:23",
@@ -579,26 +579,6 @@
     {
       "added_at": "2026-07-09 23:01:23",
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/6mpTzL80F11TaeU79loRyJ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 191702,
-      "name": "FE!N (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/3KEMjT3QVfKIl4E9DIcrmF"
-    },
-    {
-      "added_at": "2026-07-09 23:01:23",
-      "album": {
         "name": "ASPETTANDO LA BELLA VITA",
         "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 189015,
       "name": "ANELLI E COLLANE (feat. ANNA)",
       "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
+    },
+    {
+      "added_at": "2026-07-09 23:01:23",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/6mpTzL80F11TaeU79loRyJ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 191702,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/3KEMjT3QVfKIl4E9DIcrmF"
     },
     {
       "added_at": "2026-07-09 23:01:23",
@@ -723,26 +723,6 @@
     {
       "added_at": "2026-07-09 23:01:23",
       "album": {
-        "name": "Reinsertado 2.0",
-        "url": "https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Sentir",
-      "url": "https://open.spotify.com/track/4HCdoZN1uawnzc3QKCRT4X"
-    },
-    {
-      "added_at": "2026-07-09 23:01:23",
-      "album": {
         "name": "Bossoli",
         "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
       },
@@ -755,6 +735,30 @@
       "duration_ms": 178758,
       "name": "Bossoli",
       "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
+    },
+    {
+      "added_at": "2026-07-09 23:01:23",
+      "album": {
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 201845,
+      "name": "Cookies N' Cream (feat. ANNA & Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/1xUnvxp9DFrpwXnO0RHKUp"
     },
     {
       "added_at": "2026-07-09 23:01:23",
@@ -791,26 +795,22 @@
     {
       "added_at": "2026-07-09 23:01:23",
       "album": {
-        "name": "Madreperla",
-        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+        "name": "Reinsertado 2.0",
+        "url": "https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii"
       },
       "artists": [
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         },
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
         }
       ],
-      "duration_ms": 201845,
-      "name": "Cookies N' Cream (feat. ANNA & Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/1xUnvxp9DFrpwXnO0RHKUp"
+      "duration_ms": 201600,
+      "name": "Sentir",
+      "url": "https://open.spotify.com/track/4HCdoZN1uawnzc3QKCRT4X"
     },
     {
       "added_at": "2026-07-09 23:01:23",
@@ -835,26 +835,6 @@
     {
       "added_at": "2026-07-09 23:01:23",
       "album": {
-        "name": "TaTaTa (feat. Travis Scott)",
-        "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 150651,
-      "name": "TaTaTa (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9"
-    },
-    {
-      "added_at": "2026-07-09 23:01:23",
-      "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 155862,
       "name": "PIOVE (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou"
+    },
+    {
+      "added_at": "2026-07-09 23:01:23",
+      "album": {
+        "name": "TaTaTa (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 150651,
+      "name": "TaTaTa (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9"
     },
     {
       "added_at": "2026-07-09 23:01:23",
@@ -1215,30 +1215,6 @@
     {
       "added_at": "2026-07-09 23:01:23",
       "album": {
-        "name": "Containers",
-        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
-      },
-      "artists": [
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        },
-        {
-          "name": "Nerissima Serpe",
-          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
-        },
-        {
-          "name": "Papa V",
-          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
-        }
-      ],
-      "duration_ms": 204668,
-      "name": "Tessera sanitaria (feat. Nerissima Serpe & Papa V)",
-      "url": "https://open.spotify.com/track/5JgTIfS7FfSE9tuebzX8HC"
-    },
-    {
-      "added_at": "2026-07-09 23:01:23",
-      "album": {
         "name": "MACHETE MIXTAPE 4",
         "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
       },
@@ -1259,6 +1235,30 @@
       "duration_ms": 177036,
       "name": "HO PAURA DI USCIRE 2 - prod. Mace",
       "url": "https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM"
+    },
+    {
+      "added_at": "2026-07-09 23:01:23",
+      "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        }
+      ],
+      "duration_ms": 204668,
+      "name": "Tessera sanitaria (feat. Nerissima Serpe & Papa V)",
+      "url": "https://open.spotify.com/track/5JgTIfS7FfSE9tuebzX8HC"
     },
     {
       "added_at": "2026-07-09 23:01:23",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2026-07-09 23:01:23",
       "album": {
+        "name": "X2VR",
+        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 217538,
+      "name": "Gol",
+      "url": "https://open.spotify.com/track/1F4ARcz5U9kgtcjpcYNzTH"
+    },
+    {
+      "added_at": "2026-07-09 23:01:23",
+      "album": {
         "name": "La zone (feat. Shiva)",
         "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
       },
@@ -1323,50 +1343,6 @@
       "duration_ms": 158769,
       "name": "La zone (feat. Shiva)",
       "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
-    },
-    {
-      "added_at": "2026-07-09 23:01:23",
-      "album": {
-        "name": "XDVR Reloaded",
-        "url": "https://open.spotify.com/album/45rG8pfk8nga2wfRcAqC9l"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Mercedes Nero",
-      "url": "https://open.spotify.com/track/7kck8Amf3NpSGASoFuKIcl"
-    },
-    {
-      "added_at": "2026-07-09 23:01:23",
-      "album": {
-        "name": "Pookie (feat. Capo Plaza) [Remix]",
-        "url": "https://open.spotify.com/album/75Y58W3tVyLOv1gOMXoNdq"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Pookie (feat. Capo Plaza) - Remix",
-      "url": "https://open.spotify.com/track/1MtmXPxXP4ntSjfF5xnOyM"
     },
     {
       "added_at": "2026-07-09 23:01:23",
@@ -1391,6 +1367,54 @@
       "duration_ms": 129795,
       "name": "Tip Tap",
       "url": "https://open.spotify.com/track/2O8jjjtyEfXliQ6vdtdPvH"
+    },
+    {
+      "added_at": "2026-07-09 23:01:23",
+      "album": {
+        "name": "Pookie (feat. Capo Plaza) [Remix]",
+        "url": "https://open.spotify.com/album/75Y58W3tVyLOv1gOMXoNdq"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Pookie (feat. Capo Plaza) - Remix",
+      "url": "https://open.spotify.com/track/1MtmXPxXP4ntSjfF5xnOyM"
+    },
+    {
+      "added_at": "2026-07-09 23:01:23",
+      "album": {
+        "name": "PLC tape 1",
+        "url": "https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF"
+      },
+      "artists": [
+        {
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "duration_ms": 178721,
+      "name": "MALA (feat. Lazza, Tony Effe, Juli)",
+      "url": "https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E"
     },
     {
       "added_at": "2026-07-09 23:01:23",
@@ -1435,34 +1459,6 @@
       "duration_ms": 174545,
       "name": "Cancelo",
       "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
-    },
-    {
-      "added_at": "2026-07-09 23:01:23",
-      "album": {
-        "name": "PLC tape 1",
-        "url": "https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF"
-      },
-      "artists": [
-        {
-          "name": "Fred De Palma",
-          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        },
-        {
-          "name": "Juli",
-          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
-        }
-      ],
-      "duration_ms": 178721,
-      "name": "MALA (feat. Lazza, Tony Effe, Juli)",
-      "url": "https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E"
     },
     {
       "added_at": "2026-07-09 23:01:23",
@@ -1567,26 +1563,6 @@
     {
       "added_at": "2026-07-09 23:01:23",
       "album": {
-        "name": "Ma Jolie (feat. ANNA)",
-        "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
-      },
-      "artists": [
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Ma Jolie (feat. ANNA)",
-      "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
-    },
-    {
-      "added_at": "2026-07-09 23:01:23",
-      "album": {
         "name": "Apparecchiato (feat. Nerissima Serpe)",
         "url": "https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv"
       },
@@ -1607,6 +1583,26 @@
       "duration_ms": 158624,
       "name": "Apparecchiato (feat. Nerissima Serpe)",
       "url": "https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz"
+    },
+    {
+      "added_at": "2026-07-09 23:01:23",
+      "album": {
+        "name": "Ma Jolie (feat. ANNA)",
+        "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Ma Jolie (feat. ANNA)",
+      "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
     },
     {
       "added_at": "2026-07-09 23:01:23",
@@ -1691,22 +1687,6 @@
     {
       "added_at": "2026-07-09 23:01:23",
       "album": {
-        "name": "Haribo",
-        "url": "https://open.spotify.com/album/033qgPue0caWczYCMdcfFa"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 136633,
-      "name": "Haribo",
-      "url": "https://open.spotify.com/track/1DiQcyWAklUoTLmBVVvTU6"
-    },
-    {
-      "added_at": "2026-07-09 23:01:23",
-      "album": {
         "name": "Trap Fatta Bene",
         "url": "https://open.spotify.com/album/6zOYd3ULQWAauhgVyCL143"
       },
@@ -1731,6 +1711,22 @@
       "duration_ms": 142000,
       "name": "Mattone (feat. Kuremino, Nerissima Serpe)",
       "url": "https://open.spotify.com/track/3TE8sw3fWmWficRYKRKkqx"
+    },
+    {
+      "added_at": "2026-07-09 23:01:23",
+      "album": {
+        "name": "Haribo",
+        "url": "https://open.spotify.com/album/033qgPue0caWczYCMdcfFa"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "duration_ms": 136633,
+      "name": "Haribo",
+      "url": "https://open.spotify.com/track/1DiQcyWAklUoTLmBVVvTU6"
     },
     {
       "added_at": "2026-07-09 23:01:23",
@@ -1787,22 +1783,6 @@
     {
       "added_at": "2026-07-09 23:01:23",
       "album": {
-        "name": "Papaya",
-        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Papaya",
-      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
-    },
-    {
-      "added_at": "2026-07-09 23:01:23",
-      "album": {
         "name": "HARDER (feat. Low-Red)",
         "url": "https://open.spotify.com/album/14FuU4isEL7dte8A4GQNNc"
       },
@@ -1819,6 +1799,22 @@
       "duration_ms": 176000,
       "name": "HARDER (feat. Low-Red)",
       "url": "https://open.spotify.com/track/5qLvcq1BMgwj5jMKuIYRGQ"
+    },
+    {
+      "added_at": "2026-07-09 23:01:23",
+      "album": {
+        "name": "Papaya",
+        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Papaya",
+      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
     },
     {
       "added_at": "2026-07-09 23:01:23",
@@ -1903,22 +1899,6 @@
     {
       "added_at": "2026-07-09 23:01:23",
       "album": {
-        "name": "QUE VIDA",
-        "url": "https://open.spotify.com/album/2D7Q9GWyjMhMVq4IUiCVPb"
-      },
-      "artists": [
-        {
-          "name": "Kaio",
-          "url": "https://open.spotify.com/artist/2BzZXUAluD524rcOBbVnG1"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "SAUDADE",
-      "url": "https://open.spotify.com/track/0iZiYlVmMy4JqokUYBShIi"
-    },
-    {
-      "added_at": "2026-07-09 23:01:23",
-      "album": {
         "name": "Supercar",
         "url": "https://open.spotify.com/album/0NP8M8kOGShVj1YQrvN2sf"
       },
@@ -1935,6 +1915,22 @@
       "duration_ms": 124800,
       "name": "Supercar",
       "url": "https://open.spotify.com/track/45Z5FthR22V4kAe49KLke1"
+    },
+    {
+      "added_at": "2026-07-09 23:01:23",
+      "album": {
+        "name": "QUE VIDA",
+        "url": "https://open.spotify.com/album/2D7Q9GWyjMhMVq4IUiCVPb"
+      },
+      "artists": [
+        {
+          "name": "Kaio",
+          "url": "https://open.spotify.com/artist/2BzZXUAluD524rcOBbVnG1"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "SAUDADE",
+      "url": "https://open.spotify.com/track/0iZiYlVmMy4JqokUYBShIi"
     },
     {
       "added_at": "2026-07-09 23:01:23",

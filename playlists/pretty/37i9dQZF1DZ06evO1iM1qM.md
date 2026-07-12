@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 
 > This is John Coltrane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,780 likes - 50 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,800 likes - 50 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 | 24 | [All Blues \(feat\. John Coltrane, Cannonball Adderley & Bill Evans\)](https://open.spotify.com/track/5o3DSHw1ORhM3lWxqGRvEf) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 11:32 |
 | 25 | [Giant Steps \- 2020 Remaster](https://open.spotify.com/track/1ZXu0ib26kWfQQngREMcU2) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(60th Anniversary Super Deluxe Edition\) \[2020 Remaster\]](https://open.spotify.com/album/4jTDjHLMFCHWrjuP1qmCf4) | 4:47 |
 | 26 | [All of You \(feat\. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | ['Round About Midnight](https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K) | 7:00 |
-| 27 | [Lush Life](https://open.spotify.com/track/0Srs2sPdZTfFvvfLP4DGa0) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:29 |
-| 28 | [Everytime We Say Goodbye](https://open.spotify.com/track/6yuhA5jlK7gEAIVoJ5WK1f) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [My Favorite Things \(Deluxe Edition\)](https://open.spotify.com/album/3i7sNgNRwyGQmNP0CPuOM0) | 5:45 |
+| 27 | [Everytime We Say Goodbye](https://open.spotify.com/track/6yuhA5jlK7gEAIVoJ5WK1f) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [My Favorite Things \(Deluxe Edition\)](https://open.spotify.com/album/3i7sNgNRwyGQmNP0CPuOM0) | 5:45 |
+| 28 | [Lush Life](https://open.spotify.com/track/0Srs2sPdZTfFvvfLP4DGa0) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:29 |
 | 29 | [Theme For Ernie](https://open.spotify.com/track/0H2iAE7Y1ivCZ5YzEf3NMT) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Soultrane](https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg) | 4:53 |
 | 30 | [Violets For Your Furs \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane \[Rudy Van Gelder Remaster\]](https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg) | 6:15 |
 | 31 | [Why Was I Born? \- Rudy Van Gelder Remaster 1958](https://open.spotify.com/track/5LnChMpPDKhkyE6wJjVGn1) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Kenny Burrell & John Coltrane](https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 | 49 | [A Love Supreme, Pt\. II \- Resolution](https://open.spotify.com/track/7unF2ARDGldwWxZWCmlwDM) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [A Love Supreme](https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA) | 7:17 |
 | 50 | [Lazy Bird](https://open.spotify.com/track/3HNhdvVw92awlT3gfqXIxW) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 7:07 |
 
-Snapshot ID: `ak7kgAAAAAB8hI6iOcmQPJGfg4PE4YUE`
+Snapshot ID: `alA2AAAAAACUpiF6QxqTXRhBFcV2HRvo`

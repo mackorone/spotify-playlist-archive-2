@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 327686,
+  "num_followers": 327697,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAAAV1Q/Vh/wU8geJE8h1LH91",
+  "snapshot_id": "alA2AAAAAABvYcbA/bwmZa44kMS+B66D",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smaxk Or Die (feat. Playboi Carti)",
-        "url": "https://open.spotify.com/album/0X1jRt7ic4faNgXBHPD7L7"
+        "name": "Playboi Carti",
+        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
       },
       "artists": [
-        {
-          "name": "Fatt Smaxk",
-          "url": "https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX"
-        },
         {
           "name": "Playboi Carti",
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 125360,
-      "name": "Smaxk Or Die (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/37PWu4Av27EVfKwx2UVJA1"
+      "duration_ms": 165642,
+      "name": "Yah Mean",
+      "url": "https://open.spotify.com/track/5MUxrNd7Gr2HksLcAlB0IO"
     },
     {
       "added_at": null,
@@ -507,22 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playboi Carti",
-        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
+        "name": "Smaxk Or Die (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/0X1jRt7ic4faNgXBHPD7L7"
       },
       "artists": [
         {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+          "name": "Fatt Smaxk",
+          "url": "https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX"
         },
         {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 240459,
-      "name": "Flex",
-      "url": "https://open.spotify.com/track/2xyBvir9n474qfsOkxXMgx"
+      "duration_ms": 125360,
+      "name": "Smaxk Or Die (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/37PWu4Av27EVfKwx2UVJA1"
     },
     {
       "added_at": null,
@@ -539,6 +535,26 @@
       "duration_ms": 124093,
       "name": "Vamp Anthem",
       "url": "https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playboi Carti",
+        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 240459,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/2xyBvir9n474qfsOkxXMgx"
     },
     {
       "added_at": null,
@@ -575,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playboi Carti",
-        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 165642,
-      "name": "Yah Mean",
-      "url": "https://open.spotify.com/track/5MUxrNd7Gr2HksLcAlB0IO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whole Lotta Red",
         "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 117239,
       "name": "Place",
       "url": "https://open.spotify.com/track/1Bg2CNZw6S4e9cGWPmi0uI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playboi Carti",
+        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 150409,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/23QyE9GQpXsX9WgEDADMa6"
     },
     {
       "added_at": null,
@@ -639,22 +655,6 @@
       "duration_ms": 200253,
       "name": "FOMDJ",
       "url": "https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Playboi Carti",
-        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 150409,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/23QyE9GQpXsX9WgEDADMa6"
     },
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beef",
-        "url": "https://open.spotify.com/album/54MESn0PMUBsvg5Z3uf4iR"
-      },
-      "artists": [
-        {
-          "name": "Ethereal",
-          "url": "https://open.spotify.com/artist/7e7nmtA3OQEUdVjn5rG3Tz"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "Beef",
-      "url": "https://open.spotify.com/track/7dGzHvGAlJYK0U3I5RGxBH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 2",
         "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 157645,
       "name": "100 Racks (Offset feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/4T2dHb8XBYHlVj7Dyo1cW9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beef",
+        "url": "https://open.spotify.com/album/54MESn0PMUBsvg5Z3uf4iR"
+      },
+      "artists": [
+        {
+          "name": "Ethereal",
+          "url": "https://open.spotify.com/artist/7e7nmtA3OQEUdVjn5rG3Tz"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "Beef",
+      "url": "https://open.spotify.com/track/7dGzHvGAlJYK0U3I5RGxBH"
     },
     {
       "added_at": null,

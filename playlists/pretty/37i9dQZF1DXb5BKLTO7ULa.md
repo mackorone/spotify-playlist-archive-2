@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Jonna Fraser & Tiwa Savage, Beyoncé, Kris Kross Amsterdam, Emma Heesters en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,560 likes - 110 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,576 likes - 110 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 9 | [SOORT](https://open.spotify.com/track/0zVpWODG7CH9skI22fR146) | [Mula](https://open.spotify.com/artist/0fzMb7AJnLMfYElJvYd8N4), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [SOORT](https://open.spotify.com/album/7yd9QC2t3BXH241IczbsKB) | 2:35 |
 | 10 | [Ik Wou Dat Ik Jou Was](https://open.spotify.com/track/1zsJSTm6wlqdRMRl4dbvGg) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Ik Wou Dat Ik Jou Was](https://open.spotify.com/album/75uyPFs1xFcE11CviRMV7S) | 2:47 |
 | 11 | [Niet Naar Huis](https://open.spotify.com/track/2VHZrsSSLNvnfqUO2qt6sC) | [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Niet Naar Huis](https://open.spotify.com/album/5dnGno5uQ18Y1StP7oCMWT) | 2:41 |
-| 12 | [Cheerio Summer Mix](https://open.spotify.com/track/1kpq0c9ErTJIaR3MPJz6sn) | [DJ LARITA](https://open.spotify.com/artist/73BcfubAabKdfcR0WpxbAg), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Cheerio Summer Mix](https://open.spotify.com/album/7mkZQYGBJa1LMWFjnRrZrl) | 2:01 |
+| 12 | [Cheerio Summer Mix](https://open.spotify.com/track/1kpq0c9ErTJIaR3MPJz6sn) | [DJ Larita](https://open.spotify.com/artist/73BcfubAabKdfcR0WpxbAg), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Cheerio Summer Mix](https://open.spotify.com/album/7mkZQYGBJa1LMWFjnRrZrl) | 2:01 |
 | 13 | [California Girls](https://open.spotify.com/track/5Rv0O0Bv90IqC97T68zesG) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:29 |
 | 14 | [Take Me Back](https://open.spotify.com/track/1ydTfAU0AXrRnbPpfyWYQm) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Take Me Back](https://open.spotify.com/album/0V3YKC3QI5P1sAjM4csXju) | 3:21 |
 | 15 | [Street Of Dreams](https://open.spotify.com/track/70X6SFkjCUZ0nRBUGXddTn) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Street Of Dreams](https://open.spotify.com/album/1ivlBe4lilutfAmOoQWxxS) | 3:54 |

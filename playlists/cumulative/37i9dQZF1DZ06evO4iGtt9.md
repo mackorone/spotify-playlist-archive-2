@@ -4,7 +4,7 @@
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-130 songs - 7 hr 9 min
+131 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Bang Bang](https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Bang Bang](https://open.spotify.com/album/34Ve0t594zURQel4Ob1bGi) | 3:07 | 2021-12-28 |  |
 | [Better Than Them](https://open.spotify.com/track/2ISEd8diW26TrrX3S7k3Jl) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Better Than Them](https://open.spotify.com/album/6H2aBp4vE8SklHfreSHSuk) | 3:33 | 2021-12-28 | 2025-05-17 |
 | [Better Than Them](https://open.spotify.com/track/3D1F34SW7EHoSPbcQAxlUA) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Better Than Them](https://open.spotify.com/album/4QCjmhboNpSAyzkVwniGkl) | 3:33 | 2025-05-17 | 2026-06-01 |
-| [BIG MAN TING](https://open.spotify.com/track/6SUXIQBFePIsKoz7HMFGX4) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Skibii](https://open.spotify.com/artist/5PJqLNoDatxzRgKaOxFjRn), [Teni Makanaki](https://open.spotify.com/artist/1G96gJZtl9UQbu7wmKeBqT) | [BIG MAN TING](https://open.spotify.com/album/7kxJkB0VVzWJDWPTHpQerA) | 2:57 | 2025-12-12 |  |
+| [BIG MAN TING](https://open.spotify.com/track/6SUXIQBFePIsKoz7HMFGX4) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Skibii](https://open.spotify.com/artist/5PJqLNoDatxzRgKaOxFjRn), [Teni Makanaki](https://open.spotify.com/artist/1G96gJZtl9UQbu7wmKeBqT) | [BIG MAN TING](https://open.spotify.com/album/7kxJkB0VVzWJDWPTHpQerA) | 2:57 | 2025-12-12 | 2026-07-12 |
 | [BLESSINGS \(feat\. Eugy Official\)](https://open.spotify.com/track/6p5R7T8haqjv3F8cYFRSEl) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 2:54 | 2024-08-18 | 2025-10-12 |
 | [Bom Bom](https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Upgrade](https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE) | 3:38 | 2021-12-28 |  |
 | [Born to Win](https://open.spotify.com/track/0rYHjZeIaXmMm8D9ujvgeI) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 2:53 | 2022-03-23 |  |
@@ -83,6 +83,7 @@
 | [Joko \(feat\. Shaggy\)](https://open.spotify.com/track/5737I1FaRZMhBbLs4evJ5p) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Joko \(feat\. Shaggy\)](https://open.spotify.com/album/0MG5NOSUH4Zj3r2zxeU8py) | 3:05 | 2023-12-13 | 2024-06-30 |
 | [Kolapiano Vol\. 2 \(Isakaba\) \[Remix\]](https://open.spotify.com/track/52ElzQdgioD0OfBYqFe9RM) | [Kolaboy](https://open.spotify.com/artist/6RY4M12pquQEV6wgI6yAeR), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Kolapiano Vol\. 2 \(Isakaba\) \[Remix\]](https://open.spotify.com/album/4TWNyfcpzx6KpslXS6tbsa) | 3:14 | 2024-03-09 |  |
 | [Kom Kom](https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Kom Kom](https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c) | 3:08 | 2021-12-28 |  |
+| [Kontrol](https://open.spotify.com/track/47sSLxvk49OmJf1TYzwAPq) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Kontrol](https://open.spotify.com/album/1ryXvaEgZBJEkmV6b7SW9U) | 2:58 | 2026-07-12 |  |
 | [Lai Lai](https://open.spotify.com/track/7Iibw3MdViIx13i5gLHD4U) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Terry G](https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 3:43 | 2021-12-28 | 2022-10-13 |
 | [Let Me Love You](https://open.spotify.com/track/3qRm4AxGiDz8IUR8ciXpt6) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [King](https://open.spotify.com/album/2NurBGrvfdiNz5GnzvYh1u) | 3:14 | 2023-09-25 | 2023-11-11 |
 | [LIVE\- STYLE](https://open.spotify.com/track/7Ju9pGHiC9pAmDVwzYzmk2) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 2:40 | 2024-08-17 | 2025-05-16 |

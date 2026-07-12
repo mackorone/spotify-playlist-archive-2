@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Nico Moreno, Novah",
-  "num_followers": 514667,
+  "num_followers": 515002,
   "original_name": "Hard Techno",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
+        "name": "Rave Kid EP",
+        "url": "https://open.spotify.com/album/62kW3kk96aliqD1B9bpWJ1"
+      },
+      "artists": [
+        {
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "LaLaLo",
+      "url": "https://open.spotify.com/track/1bZNXnAUa5lhXrh1cGnR9F"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
         "name": "Crowd Operator",
         "url": "https://open.spotify.com/album/4bZgI0aJv7TCz0nMpX0Tbo"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 210580,
       "name": "Stomp Your Feet",
       "url": "https://open.spotify.com/track/494lD6w8j07gDMub1UFd07"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
-        "name": "Rave Kid EP",
-        "url": "https://open.spotify.com/album/62kW3kk96aliqD1B9bpWJ1"
-      },
-      "artists": [
-        {
-          "name": "Novah",
-          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "LaLaLo",
-      "url": "https://open.spotify.com/track/1bZNXnAUa5lhXrh1cGnR9F"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "10.000 Flores",
-        "url": "https://open.spotify.com/album/3ELIXvH1tbobCKO3skL9sV"
-      },
-      "artists": [
-        {
-          "name": "AEREA",
-          "url": "https://open.spotify.com/artist/34ut5kAp6DfnW79Dp3P4CA"
-        }
-      ],
-      "duration_ms": 263874,
-      "name": "10.000 Flores",
-      "url": "https://open.spotify.com/track/543rnl651yHWLNP41A5D1t"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
         "name": "Dopamin",
         "url": "https://open.spotify.com/album/3cf02iCcXJRAZDLk7kkR8b"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 208874,
       "name": "Dopamin",
       "url": "https://open.spotify.com/track/1SXKHT4MP8OjHqBjb1vDZS"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
+        "name": "10.000 Flores",
+        "url": "https://open.spotify.com/album/3ELIXvH1tbobCKO3skL9sV"
+      },
+      "artists": [
+        {
+          "name": "AEREA",
+          "url": "https://open.spotify.com/artist/34ut5kAp6DfnW79Dp3P4CA"
+        }
+      ],
+      "duration_ms": 263874,
+      "name": "10.000 Flores",
+      "url": "https://open.spotify.com/track/543rnl651yHWLNP41A5D1t"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "NEVER SAY",
-        "url": "https://open.spotify.com/album/3jLuTS96m3kSKxXoXmH4yN"
+        "name": "DIE TONIGHT EP",
+        "url": "https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg"
       },
       "artists": [
         {
-          "name": "Samuel Moriero",
-          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
         }
       ],
-      "duration_ms": 187507,
-      "name": "NEVER SAY",
-      "url": "https://open.spotify.com/track/2PEk8dGYY3VFfZzGkBEzh8"
+      "duration_ms": 194509,
+      "name": "Kummer",
+      "url": "https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "DIE TONIGHT EP",
-        "url": "https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg"
+        "name": "NEVER SAY",
+        "url": "https://open.spotify.com/album/3jLuTS96m3kSKxXoXmH4yN"
       },
       "artists": [
         {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
         }
       ],
-      "duration_ms": 194509,
-      "name": "Kummer",
-      "url": "https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM"
+      "duration_ms": 187507,
+      "name": "NEVER SAY",
+      "url": "https://open.spotify.com/track/2PEk8dGYY3VFfZzGkBEzh8"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "Weisse Nase",
-        "url": "https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Weisse Nase",
-      "url": "https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
         "name": "Data Corrupted",
         "url": "https://open.spotify.com/album/2yyPlGLHjaWi5Dv1JO9G4H"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 147000,
       "name": "Data Corrupted",
       "url": "https://open.spotify.com/track/4jA66zbGyEIOO7axqn4kSM"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
+        "name": "Weisse Nase",
+        "url": "https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Weisse Nase",
+      "url": "https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "The Ultimate Acid Track",
-        "url": "https://open.spotify.com/album/3lAw4H1pzLOCCDBfkNqOXu"
-      },
-      "artists": [
-        {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
-        },
-        {
-          "name": "Mha Iri",
-          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
-        }
-      ],
-      "duration_ms": 240532,
-      "name": "The Ultimate Acid Track",
-      "url": "https://open.spotify.com/track/14Lh8Rpav17MCMSd1yOazU"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
         "name": "It's A Fine Day (Hard Techno Remix)",
         "url": "https://open.spotify.com/album/2PyTSZ0M98vDF3bwnBKcDM"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 153222,
       "name": "It's A Fine Day - Hard Techno Remix",
       "url": "https://open.spotify.com/track/1uQOD5XGbPMBVRFcwJ12RY"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
+        "name": "The Ultimate Acid Track",
+        "url": "https://open.spotify.com/album/3lAw4H1pzLOCCDBfkNqOXu"
+      },
+      "artists": [
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        },
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "duration_ms": 240532,
+      "name": "The Ultimate Acid Track",
+      "url": "https://open.spotify.com/track/14Lh8Rpav17MCMSd1yOazU"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
+        "name": "H\u00d6LLE IM HERZ",
+        "url": "https://open.spotify.com/album/7cig8YOq7vbKOK0nj6avi6"
+      },
+      "artists": [
+        {
+          "name": "Michael Klotz",
+          "url": "https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh"
+        }
+      ],
+      "duration_ms": 150193,
+      "name": "H\u00d6LLE IM HERZ",
+      "url": "https://open.spotify.com/track/1HN3FURbRaojGtKpIt9kSN"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
         "name": "GOD_MODE",
         "url": "https://open.spotify.com/album/5Kb2yX0CH8oLDLnfZRtunT"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 207508,
       "name": "Duality",
       "url": "https://open.spotify.com/track/3f6LpfaDNDy7gtYZFHg5Km"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
-        "name": "Mystical Energy EP",
-        "url": "https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi"
-      },
-      "artists": [
-        {
-          "name": "Alignment",
-          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
-        }
-      ],
-      "duration_ms": 320093,
-      "name": "Mystical Energy",
-      "url": "https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu"
     }
   ],
   "unique_name": "Hard Techno",

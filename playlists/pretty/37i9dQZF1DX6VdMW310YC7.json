@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3902766,
+  "num_followers": 3902659,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-07-10 04:01:24",
       "album": {
-        "name": "Into The Night",
-        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 423006,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
-    },
-    {
-      "added_at": "2026-07-10 04:01:24",
-      "album": {
         "name": "Slow Motion",
         "url": "https://open.spotify.com/album/7b2xbeiyfj5UsT4G06ac8G"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 166666,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/1wF9Iw4lkksoUg55kCsiPm"
+    },
+    {
+      "added_at": "2026-07-10 04:01:24",
+      "album": {
+        "name": "Into The Night",
+        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 423006,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
     },
     {
       "added_at": "2026-07-10 04:01:24",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-07-10 04:01:24",
       "album": {
-        "name": "Have It All",
-        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
-      },
-      "artists": [
-        {
-          "name": "ANDREA CALABRIA",
-          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Have It All",
-      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
-    },
-    {
-      "added_at": "2026-07-10 04:01:24",
-      "album": {
         "name": "KYGO",
         "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
       },
@@ -1019,22 +1003,18 @@
     {
       "added_at": "2026-07-10 04:01:24",
       "album": {
-        "name": "More To Life",
-        "url": "https://open.spotify.com/album/2OD0VlUQDHb6QklUhyJjZm"
+        "name": "Have It All",
+        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
       },
       "artists": [
         {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        },
-        {
-          "name": "Carston",
-          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
+          "name": "ANDREA CALABRIA",
+          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
         }
       ],
-      "duration_ms": 204374,
-      "name": "More To Life",
-      "url": "https://open.spotify.com/track/6VzJzNoNJGY2K2tqzbkkBZ"
+      "duration_ms": 213750,
+      "name": "Have It All",
+      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
     },
     {
       "added_at": "2026-07-10 04:01:24",
@@ -1059,22 +1039,22 @@
     {
       "added_at": "2026-07-10 04:01:24",
       "album": {
-        "name": "A Life",
-        "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
+        "name": "More To Life",
+        "url": "https://open.spotify.com/album/2OD0VlUQDHb6QklUhyJjZm"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
         },
         {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+          "name": "Carston",
+          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
         }
       ],
-      "duration_ms": 199160,
-      "name": "Felt (feat. Henry Green)",
-      "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
+      "duration_ms": 204374,
+      "name": "More To Life",
+      "url": "https://open.spotify.com/track/6VzJzNoNJGY2K2tqzbkkBZ"
     },
     {
       "added_at": "2026-07-10 04:01:24",
@@ -1099,6 +1079,26 @@
       "duration_ms": 270476,
       "name": "I Cared For You",
       "url": "https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC"
+    },
+    {
+      "added_at": "2026-07-10 04:01:24",
+      "album": {
+        "name": "A Life",
+        "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+        }
+      ],
+      "duration_ms": 199160,
+      "name": "Felt (feat. Henry Green)",
+      "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
     },
     {
       "added_at": "2026-07-10 04:01:24",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2026-07-10 04:01:24",
       "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/6TH6mDJgdPL1cp6q5oJou4"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 359040,
-      "name": "Twilight",
-      "url": "https://open.spotify.com/track/2Lkbzbxnyu25NVlV1uiaYb"
-    },
-    {
-      "added_at": "2026-07-10 04:01:24",
-      "album": {
         "name": "Flow Free",
         "url": "https://open.spotify.com/album/1lSb4HADfBQ422Z89G0Ovg"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 239523,
       "name": "Flow Free",
       "url": "https://open.spotify.com/track/1AK271I7M3ZQmSulRg5EQ4"
+    },
+    {
+      "added_at": "2026-07-10 04:01:24",
+      "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/6TH6mDJgdPL1cp6q5oJou4"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 359040,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/2Lkbzbxnyu25NVlV1uiaYb"
     },
     {
       "added_at": "2026-07-10 04:01:24",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-07-10 04:01:24",
       "album": {
-        "name": "Call You Mine",
-        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
-      },
-      "artists": [
-        {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
-        }
-      ],
-      "duration_ms": 209696,
-      "name": "Call You Mine",
-      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
-    },
-    {
-      "added_at": "2026-07-10 04:01:24",
-      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
       },
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2026-07-10 04:01:24",
       "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
+        "name": "Call You Mine",
+        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
         }
       ],
-      "duration_ms": 209899,
-      "name": "Melancholia",
-      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
+      "duration_ms": 209696,
+      "name": "Call You Mine",
+      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
     },
     {
       "added_at": "2026-07-10 04:01:24",
@@ -1655,6 +1639,22 @@
       "duration_ms": 251303,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
+    },
+    {
+      "added_at": "2026-07-10 04:01:24",
+      "album": {
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 209899,
+      "name": "Melancholia",
+      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
     },
     {
       "added_at": "2026-07-10 04:01:24",
@@ -1687,6 +1687,22 @@
       "duration_ms": 210500,
       "name": "All Is Right",
       "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
+    },
+    {
+      "added_at": "2026-07-10 04:01:24",
+      "album": {
+        "name": "One Love (Nobody Else)",
+        "url": "https://open.spotify.com/album/1jhsm4hCvQR4S6L1lMdCrV"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        }
+      ],
+      "duration_ms": 217487,
+      "name": "One Love (Nobody Else)",
+      "url": "https://open.spotify.com/track/1plh94yAIkbjOAH3cGXc7B"
     },
     {
       "added_at": "2026-07-10 04:01:24",
@@ -1727,18 +1743,22 @@
     {
       "added_at": "2026-07-10 04:01:24",
       "album": {
-        "name": "One Love (Nobody Else)",
-        "url": "https://open.spotify.com/album/1jhsm4hCvQR4S6L1lMdCrV"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/59lU1VSU9h5dLOXnOQX9zJ"
       },
       "artists": [
         {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
         }
       ],
-      "duration_ms": 217487,
-      "name": "One Love (Nobody Else)",
-      "url": "https://open.spotify.com/track/1plh94yAIkbjOAH3cGXc7B"
+      "duration_ms": 361080,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI"
     },
     {
       "added_at": "2026-07-10 04:01:24",
@@ -1763,26 +1783,6 @@
       "duration_ms": 274000,
       "name": "the art of letting go",
       "url": "https://open.spotify.com/track/30qrn4P5XelUYPsDWSa6yB"
-    },
-    {
-      "added_at": "2026-07-10 04:01:24",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/59lU1VSU9h5dLOXnOQX9zJ"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "The Kite String Tangle",
-          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
-        }
-      ],
-      "duration_ms": 361080,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI"
     },
     {
       "added_at": "2026-07-10 04:01:24",
@@ -1819,6 +1819,22 @@
       "duration_ms": 273442,
       "name": "Heal",
       "url": "https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS"
+    },
+    {
+      "added_at": "2026-07-10 04:01:24",
+      "album": {
+        "name": "White Lies",
+        "url": "https://open.spotify.com/album/1aAjXZ9y33UvjrDBVXaVXX"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "White Lies",
+      "url": "https://open.spotify.com/track/43B2IaiA1jE8oPIVbUfJYU"
     },
     {
       "added_at": "2026-07-10 04:01:24",
@@ -1883,22 +1899,6 @@
     {
       "added_at": "2026-07-10 04:01:24",
       "album": {
-        "name": "White Lies",
-        "url": "https://open.spotify.com/album/1aAjXZ9y33UvjrDBVXaVXX"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 205161,
-      "name": "White Lies",
-      "url": "https://open.spotify.com/track/43B2IaiA1jE8oPIVbUfJYU"
-    },
-    {
-      "added_at": "2026-07-10 04:01:24",
-      "album": {
         "name": "Love Pains",
         "url": "https://open.spotify.com/album/1ZvlhFHnqn8ktyV1UzGNx9"
       },
@@ -1923,26 +1923,6 @@
     {
       "added_at": "2026-07-10 04:01:24",
       "album": {
-        "name": "Fall Apart",
-        "url": "https://open.spotify.com/album/5sNIvva0OBx8BPyb9OPfq2"
-      },
-      "artists": [
-        {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
-        },
-        {
-          "name": "Benji Lewis",
-          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
-        }
-      ],
-      "duration_ms": 188454,
-      "name": "Fall Apart",
-      "url": "https://open.spotify.com/track/1A0yCVsRU1fqI2azbaoGSV"
-    },
-    {
-      "added_at": "2026-07-10 04:01:24",
-      "album": {
         "name": "Hours",
         "url": "https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN"
       },
@@ -1959,6 +1939,26 @@
       "duration_ms": 248000,
       "name": "Hours",
       "url": "https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52"
+    },
+    {
+      "added_at": "2026-07-10 04:01:24",
+      "album": {
+        "name": "Fall Apart",
+        "url": "https://open.spotify.com/album/5sNIvva0OBx8BPyb9OPfq2"
+      },
+      "artists": [
+        {
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+        },
+        {
+          "name": "Benji Lewis",
+          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
+        }
+      ],
+      "duration_ms": 188454,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/1A0yCVsRU1fqI2azbaoGSV"
     }
   ],
   "unique_name": "Chill Tracks",

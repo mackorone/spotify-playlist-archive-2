@@ -1,6 +1,6 @@
 {
   "description": "Certified hits. Cover: Ceebo",
-  "num_followers": 296609,
+  "num_followers": 296616,
   "original_name": "Certi",
   "owner": {
     "name": "Spotify",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
-        "name": "No Comment",
-        "url": "https://open.spotify.com/album/7lJucfUoSX4vCCDAa0Nyss"
-      },
-      "artists": [
-        {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "No Comment",
-      "url": "https://open.spotify.com/track/16YfvpZgzzdxzrulTpIwvB"
-    },
-    {
-      "added_at": "2025-11-14 00:00:23",
-      "album": {
         "name": "Deep in the Water",
         "url": "https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 170453,
       "name": "DEEP IN THE WATER",
       "url": "https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj"
+    },
+    {
+      "added_at": "2025-11-14 00:00:23",
+      "album": {
+        "name": "No Comment",
+        "url": "https://open.spotify.com/album/7lJucfUoSX4vCCDAa0Nyss"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "No Comment",
+      "url": "https://open.spotify.com/track/16YfvpZgzzdxzrulTpIwvB"
     },
     {
       "added_at": "2025-11-14 00:00:23",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
-        "name": "Rock Bottom",
-        "url": "https://open.spotify.com/album/3zMteQdj1SgctkfEoFKPKN"
-      },
-      "artists": [
-        {
-          "name": "Kidwild",
-          "url": "https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9"
-        }
-      ],
-      "duration_ms": 100273,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/6zJi62orFGAdxyqiYIt2L7"
-    },
-    {
-      "added_at": "2025-11-14 00:00:23",
-      "album": {
         "name": "Suns Out",
         "url": "https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 151788,
       "name": "Suns Out",
       "url": "https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW"
+    },
+    {
+      "added_at": "2025-11-14 00:00:23",
+      "album": {
+        "name": "Rock Bottom",
+        "url": "https://open.spotify.com/album/3zMteQdj1SgctkfEoFKPKN"
+      },
+      "artists": [
+        {
+          "name": "Kidwild",
+          "url": "https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9"
+        }
+      ],
+      "duration_ms": 100273,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/6zJi62orFGAdxyqiYIt2L7"
     },
     {
       "added_at": "2025-11-14 00:00:23",
@@ -1507,18 +1507,22 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
-        "name": "Galahad",
-        "url": "https://open.spotify.com/album/721nvr0OG4VoFIm7TBHLVC"
+        "name": "Grey (feat. Aitch)",
+        "url": "https://open.spotify.com/album/7cNzYOvsIKo8wSpwubBwJK"
       },
       "artists": [
         {
-          "name": "French The Kid",
-          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+          "name": "Yung Filly",
+          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
         }
       ],
-      "duration_ms": 186428,
-      "name": "Galahad",
-      "url": "https://open.spotify.com/track/2EafSuRnstn5xtJXO9adat"
+      "duration_ms": 169109,
+      "name": "Grey (feat. Aitch)",
+      "url": "https://open.spotify.com/track/5XtIcFaG7MjXyjSAiIWH5e"
     }
   ],
   "unique_name": "Certi",

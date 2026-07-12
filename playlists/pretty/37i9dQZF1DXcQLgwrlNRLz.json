@@ -1,6 +1,6 @@
 {
   "description": "Le plus chauds d'Afrique Francophone. Cover: Aya Nakamura",
-  "num_followers": 16812,
+  "num_followers": 16859,
   "original_name": "Francophone.wav",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-06-26 00:01:48",
       "album": {
+        "name": "DM",
+        "url": "https://open.spotify.com/album/0HIfBTjs8M1Lr13flE5XFe"
+      },
+      "artists": [
+        {
+          "name": "VJ",
+          "url": "https://open.spotify.com/artist/5MDNhC2R2lHAGrUg0ztgao"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Kaay Waay",
+      "url": "https://open.spotify.com/track/6dmL9EuLQB6tHsn9IAVg6b"
+    },
+    {
+      "added_at": "2026-06-26 00:01:48",
+      "album": {
         "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 137390,
       "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
-    },
-    {
-      "added_at": "2026-06-26 00:01:48",
-      "album": {
-        "name": "DM",
-        "url": "https://open.spotify.com/album/0HIfBTjs8M1Lr13flE5XFe"
-      },
-      "artists": [
-        {
-          "name": "VJ",
-          "url": "https://open.spotify.com/artist/5MDNhC2R2lHAGrUg0ztgao"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Kaay Waay",
-      "url": "https://open.spotify.com/track/6dmL9EuLQB6tHsn9IAVg6b"
     },
     {
       "added_at": "2026-06-26 00:01:48",

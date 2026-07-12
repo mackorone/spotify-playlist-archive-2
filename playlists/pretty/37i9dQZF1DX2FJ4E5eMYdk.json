@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 196099,
+  "num_followers": 196114,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,38 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Sneaker Waves",
+        "url": "https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2"
+      },
+      "artists": [
+        {
+          "name": "Tristen",
+          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+        }
+      ],
+      "duration_ms": 245880,
+      "name": "Glass Jar",
+      "url": "https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Brain Cycles",
+        "url": "https://open.spotify.com/album/7BpKrz38kMmgSTLrRU17ZO"
+      },
+      "artists": [
+        {
+          "name": "Radio Moscow",
+          "url": "https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "250 Miles",
+      "url": "https://open.spotify.com/track/3drJvEvfMS5mnJ4JtmkM5S"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "L.W.",
         "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
       },
@@ -795,22 +827,6 @@
       "duration_ms": 311280,
       "name": "Some Sunsick Day",
       "url": "https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Brain Cycles",
-        "url": "https://open.spotify.com/album/7BpKrz38kMmgSTLrRU17ZO"
-      },
-      "artists": [
-        {
-          "name": "Radio Moscow",
-          "url": "https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "250 Miles",
-      "url": "https://open.spotify.com/track/3drJvEvfMS5mnJ4JtmkM5S"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -971,22 +987,6 @@
       "duration_ms": 310360,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/69RVRzm0NGlg1qi7GgA5J5"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Sneaker Waves",
-        "url": "https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2"
-      },
-      "artists": [
-        {
-          "name": "Tristen",
-          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
-        }
-      ],
-      "duration_ms": 245880,
-      "name": "Glass Jar",
-      "url": "https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N"
     }
   ],
   "unique_name": "Psych & Groove",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Kanine
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,019 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,034 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 34 | [Goose Chase](https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby) | [Goose Chase](https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX) | 3:00 |
 | 35 | [Outlaw](https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Outlaw](https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ) | 2:57 |
 | 36 | [Raving In The Studio \(SOTA Remix\)](https://open.spotify.com/track/2imZwMeS2WLiPcgAbjo15T) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Raving In The Studio \(SOTA Remix\)](https://open.spotify.com/album/52JIuqcABYS0gq7DBUiWeH) | 2:15 |
-| 37 | [RUN](https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2) | [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [RUN](https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN) | 3:00 |
-| 38 | [Good Times \(feat\. ellen lynch\)](https://open.spotify.com/track/5YrrUGwh8YgQCnj2sMRMEf) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Sub Zero](https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR), [ellen lynch](https://open.spotify.com/artist/4l2D4sguBSSAKbLk68ACGi) | [Good Times \(feat\. ellen lynch\)](https://open.spotify.com/album/53fbG8wV8ADsa1iIc2ZeAu) | 3:21 |
+| 37 | [Good Times \(feat\. ellen lynch\)](https://open.spotify.com/track/5YrrUGwh8YgQCnj2sMRMEf) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Sub Zero](https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR), [ellen lynch](https://open.spotify.com/artist/4l2D4sguBSSAKbLk68ACGi) | [Good Times \(feat\. ellen lynch\)](https://open.spotify.com/album/53fbG8wV8ADsa1iIc2ZeAu) | 3:21 |
+| 38 | [RUN](https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2) | [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [RUN](https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN) | 3:00 |
 | 39 | [Left 2 Right](https://open.spotify.com/track/3dbCZLMW3xuBry6L8pBlkE) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Left 2 Right](https://open.spotify.com/album/5Geg97JMNRNsSh1kgw7yY6) | 3:22 |
 | 40 | [Vandal](https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Vandal](https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml) | 2:41 |
 | 41 | [Rhythm & Gash VIP](https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Rhythm & Gash VIP](https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg) | 2:44 |

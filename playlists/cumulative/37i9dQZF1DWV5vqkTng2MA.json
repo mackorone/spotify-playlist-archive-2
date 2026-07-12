@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "All That It Is",
+        "url": "https://open.spotify.com/album/5XaCaoQjxJPz5a3NhZxjNZ"
+      },
+      "artists": [
+        {
+          "name": "Whitney Whitney",
+          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230960,
+      "name": "All That It Is",
+      "url": "https://open.spotify.com/track/7aEfNs8cRi0YRbiIwwrmP9"
+    },
+    {
+      "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
       },
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 207613,
       "name": "Don't Please Yourself",
       "url": "https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt"
@@ -4557,6 +4575,28 @@
     },
     {
       "album": {
+        "name": "In the Hour of Chaos",
+        "url": "https://open.spotify.com/album/3kscpGV3VPWFFX7lPf0DuL"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
+        {
+          "name": "Kashus Culpepper",
+          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250520,
+      "name": "Searchlight (ft. Kashus Culpepper)",
+      "url": "https://open.spotify.com/track/0cEwQVCHALAXWAHqIiqudp"
+    },
+    {
+      "album": {
         "name": "Wait Til I Get Over",
         "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
       },
@@ -6052,7 +6092,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 219920,
       "name": "Who's Gonna Love You When I'm Gone",
       "url": "https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw"

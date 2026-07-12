@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 188288,
       "name": "Available",
       "url": "https://open.spotify.com/track/7IB7VmuWJV0IsMy9pQfcdm"
@@ -2398,6 +2398,24 @@
       "duration_ms": 253442,
       "name": "Calm In The Storm",
       "url": "https://open.spotify.com/track/3XdwGutGxh8RLhXaNTUGtV"
+    },
+    {
+      "album": {
+        "name": "Can't Live Without You",
+        "url": "https://open.spotify.com/album/5fnZH4QL5lDe2r8IBzgeDA"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255452,
+      "name": "Can't Live Without You",
+      "url": "https://open.spotify.com/track/1JsxDZyYow7kVn7i4aP7O3"
     },
     {
       "album": {
@@ -3750,7 +3768,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 401000,
       "name": "El Gibbor",
       "url": "https://open.spotify.com/track/15basiVIAqFSSITtAiS1tQ"
@@ -6428,6 +6446,28 @@
       "duration_ms": 679436,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/76QxXnjKzq7E1B4PoLpPFf"
+    },
+    {
+      "album": {
+        "name": "I Accelerate",
+        "url": "https://open.spotify.com/album/35AeTUZTOtmLMv8KT4fIdm"
+      },
+      "artists": [
+        {
+          "name": "Pastor Shola Okodugha",
+          "url": "https://open.spotify.com/artist/2CcSi56yoYs8faHU3hceZw"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510750,
+      "name": "I Accelerate",
+      "url": "https://open.spotify.com/track/7lLr3Efp2y6NgBMSR81wh4"
     },
     {
       "album": {

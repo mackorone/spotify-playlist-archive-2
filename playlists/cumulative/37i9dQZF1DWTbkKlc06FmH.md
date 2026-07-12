@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,269 songs - 3 day 2 hr 42 min
+1,270 songs - 3 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/album/4eXihWYidaaT9dIA25HxqN) | 3:08 | 2026-01-28 | 2026-03-19 |
 | [DOCUMENT \- 2023](https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [DOCUMENT \(2023\)](https://open.spotify.com/album/6VbZ7Sm3BLIRfPeAwr5X69) | 4:38 | 2023-04-06 | 2023-04-19 |
 | [Dodged A Bullet](https://open.spotify.com/track/4RQ5rPSO5B0PDoV4hrz7Cw) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Dodged A Bullet](https://open.spotify.com/album/6kLLJQFrfLqvl71WdqQLz9) | 2:38 | 2025-07-16 | 2025-08-21 |
+| [Does She Know](https://open.spotify.com/track/5HqmlB253b8HXDJUnueBTd) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong](https://open.spotify.com/album/38b9zu39HSUPDsEzELcvyi) | 3:14 | 2026-07-10 |  |
 | [Dogfish](https://open.spotify.com/track/0TVMOi7iwDYpgJexAlNtm9) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Mika's Laundry](https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq) | 1:54 | 2024-03-26 | 2024-04-20 |
 | [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-30 | 2023-07-28 |
 | [DOGTOOTH](https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 2:41 | 2023-07-27 | 2024-02-23 |
@@ -1194,7 +1195,7 @@
 | [パノラマ \(feat\. 北里彰久\)](https://open.spotify.com/track/3V5WQGwq4PuaNHetIhTDbp) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [北里彰久](https://open.spotify.com/artist/6XwlOVm6zIIx9ZdSHnLOHu), [Alfred Beach Sandal](https://open.spotify.com/artist/1H2KvPR75UUpoQpRcnvn1I) | [パノラマ \(feat\. 北里彰久\)](https://open.spotify.com/album/5DX3feFVO0hzjPE0Bzj3Wh) | 4:24 | 2023-11-21 | 2023-12-15 |
 | [ピンクの髪](https://open.spotify.com/track/56V7casJFyKngwOksqwWD0) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [ピンクの髪](https://open.spotify.com/album/2aBOY6hwasvx0aUj1OI28b) | 2:57 | 2023-02-14 | 2023-02-16 |
 | [ファンデーションの前に](https://open.spotify.com/track/490KCtGnjNDhOJw3Tmn8Sy) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [ファンデーションの前に](https://open.spotify.com/album/0vfStzXN4XJeTmvnITS5wS) | 2:49 | 2024-03-19 | 2024-06-05 |
-| [ファーストキス](https://open.spotify.com/track/4VI45tdu3hZw5eugs9c6AX) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [ファーストキス](https://open.spotify.com/album/5BAI5YNxwWN8HgIy3iN6f6) | 4:11 | 2025-10-24 |  |
+| [ファーストキス](https://open.spotify.com/track/4VI45tdu3hZw5eugs9c6AX) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [ファーストキス](https://open.spotify.com/album/5BAI5YNxwWN8HgIy3iN6f6) | 4:11 | 2025-10-24 | 2026-07-12 |
 | [フライデーズハイ （Shingo Suzuki Remix）](https://open.spotify.com/track/0sDraPadU0qyZVxjcueikm) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L), [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf) | [フライデーズハイ （Shingo Suzuki Remix）](https://open.spotify.com/album/1ZeDQDG0lR2cspXgTVP818) | 3:16 | 2024-03-12 | 2024-05-15 |
 | [フライデー・ナイト](https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [フライデー・ナイト](https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ) | 2:55 | 2023-04-04 | 2023-04-19 |
 | [プラスティック・ラブ](https://open.spotify.com/track/4wGxmG5XLeSs4EiUzhbOcY) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [プラスティック・ラブ](https://open.spotify.com/album/2sbbdJ8TzA6zdXySG4jpDD) | 5:00 | 2022-11-08 | 2022-11-30 |

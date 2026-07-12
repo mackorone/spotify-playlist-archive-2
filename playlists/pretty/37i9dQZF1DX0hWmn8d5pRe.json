@@ -1,6 +1,6 @@
 {
   "description": "Run to this collection of rock jams.",
-  "num_followers": 988447,
+  "num_followers": 988482,
   "original_name": "Born To Run",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-06-26 10:10:24",
       "album": {
-        "name": "The Essential Journey",
-        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 248906,
-      "name": "Don't Stop Believin'",
-      "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
-    },
-    {
-      "added_at": "2025-06-26 10:10:24",
-      "album": {
         "name": "All Killer, No Filler",
         "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 207093,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
+    },
+    {
+      "added_at": "2025-06-26 10:10:24",
+      "album": {
+        "name": "The Essential Journey",
+        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 248906,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
     },
     {
       "added_at": "2025-06-26 10:10:24",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-06-26 10:10:24",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/0qj6LhMLgU1ferLbZ8Rbnw"
-      },
-      "artists": [
-        {
-          "name": "Men Without Hats",
-          "url": "https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq"
-        }
-      ],
-      "duration_ms": 164866,
-      "name": "The Safety Dance",
-      "url": "https://open.spotify.com/track/5O4NFbDqJ8SOfbjnIhdPDt"
-    },
-    {
-      "added_at": "2025-06-26 10:10:24",
-      "album": {
         "name": "Flesh & Blood",
         "url": "https://open.spotify.com/album/7alngtync76VqYWSKxcBhB"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 228066,
       "name": "Unskinny Bop",
       "url": "https://open.spotify.com/track/1Z6lKdYhwp8WYoBqGCKxlM"
+    },
+    {
+      "added_at": "2025-06-26 10:10:24",
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/0qj6LhMLgU1ferLbZ8Rbnw"
+      },
+      "artists": [
+        {
+          "name": "Men Without Hats",
+          "url": "https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq"
+        }
+      ],
+      "duration_ms": 164866,
+      "name": "The Safety Dance",
+      "url": "https://open.spotify.com/track/5O4NFbDqJ8SOfbjnIhdPDt"
     },
     {
       "added_at": "2025-06-26 10:10:24",

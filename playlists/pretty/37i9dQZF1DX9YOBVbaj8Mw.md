@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,493 likes - 79 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,490 likes - 79 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 47 | [Dubbrat](https://open.spotify.com/track/07tSNivehfYJ52SPt1ta2Q) | [Vavamuffin](https://open.spotify.com/artist/2Lm3vSenofPiawS8U58tMD) | [Fly High\-Fi!](https://open.spotify.com/album/1PDdmD6r7XGmMHos1YZeTF) | 3:50 |
 | 48 | [Memento Amoris](https://open.spotify.com/track/6BRe9FeshYY6KedQk6Af08) | [Kury](https://open.spotify.com/artist/24HKrPZTxj9oSaXv2gf0D9) | [Uno Lovis Party](https://open.spotify.com/album/1tp2IPGbxwnOVnVcO5x1Q4) | 3:22 |
 | 49 | [YUMI](https://open.spotify.com/track/7oIBVngEmtARJZFPmVh0CI) | [hoshii](https://open.spotify.com/artist/1PzdsUKu27uO3dCnpnXxWJ), [Kuba Więcek](https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L) | [HER NAME WAS YUMI](https://open.spotify.com/album/70tZRCqPItOdy3vornYcAi) | 2:39 |
-| 50 | [Amor sin esperanza](https://open.spotify.com/track/2zK3jWZ37xCZFQRS2x07r9) | [Marcin Masecki](https://open.spotify.com/artist/5q3lPRiypUmNNLhmoz8WFg) | [Boleros y Masecki](https://open.spotify.com/album/2eOsPHztjx0TGTTATCwWpx) | 4:51 |
-| 51 | [TEMPO](https://open.spotify.com/track/2OsEoEDUiIskiYAWUl3YW8) | [Chrust](https://open.spotify.com/artist/2di34XAaoL0ppBWIVcmtrA), [Krzysztof Falkowski](https://open.spotify.com/artist/2VJHyS9wj5qYaUyRtae5RN) | [Przed Zmierzchem](https://open.spotify.com/album/1JfOqy8sGzn71x6WAeitCD) | 2:39 |
+| 50 | [TEMPO](https://open.spotify.com/track/2OsEoEDUiIskiYAWUl3YW8) | [Chrust](https://open.spotify.com/artist/2di34XAaoL0ppBWIVcmtrA), [Krzysztof Falkowski](https://open.spotify.com/artist/2VJHyS9wj5qYaUyRtae5RN) | [Przed Zmierzchem](https://open.spotify.com/album/1JfOqy8sGzn71x6WAeitCD) | 2:39 |
+| 51 | [Amor sin esperanza](https://open.spotify.com/track/2zK3jWZ37xCZFQRS2x07r9) | [Marcin Masecki](https://open.spotify.com/artist/5q3lPRiypUmNNLhmoz8WFg) | [Boleros y Masecki](https://open.spotify.com/album/2eOsPHztjx0TGTTATCwWpx) | 4:51 |
 | 52 | [Aport](https://open.spotify.com/track/7akEAUYosmzkXTpYvmfahf) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo) | [BUNT](https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I) | 5:26 |
 | 53 | [Tokyo](https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T) | [Nene Heroine](https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR) | [4](https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V) | 7:24 |
 | 54 | [Wolny jak Liść](https://open.spotify.com/track/6QBNU5ZuYlfBNgmC9K4xRZ) | [Miro Kepinski](https://open.spotify.com/artist/4zM4iShKy7fOtcBQCJf3wG) | [Druga Furioza \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/1r1T3xlUtnE4hrpJdwFOjT) | 1:45 |

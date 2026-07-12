@@ -1,6 +1,6 @@
 {
   "description": "The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today. Cover: Amy Taylor (Amyl and The Sniffers)",
-  "num_followers": 21329,
+  "num_followers": 21450,
   "original_name": "Women of Punk",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "Sorry, Mom",
-        "url": "https://open.spotify.com/album/2S2SJWfVZ7KWjz8tfrYSvh"
-      },
-      "artists": [
-        {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "I Threw Glass at My Friend's Eyes and Now I'm on Probation",
-      "url": "https://open.spotify.com/track/5ot500QigZaa1tH5tQoR1C"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "Fight the Good Fight",
         "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 170453,
       "name": "She's Kerosene",
       "url": "https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "Sorry, Mom",
+        "url": "https://open.spotify.com/album/2S2SJWfVZ7KWjz8tfrYSvh"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "I Threw Glass at My Friend's Eyes and Now I'm on Probation",
+      "url": "https://open.spotify.com/track/5ot500QigZaa1tH5tQoR1C"
     },
     {
       "added_at": "2026-07-01 16:22:16",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "The Woods",
-        "url": "https://open.spotify.com/album/73ctstwnbNifu5U902X2zL"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 181453,
-      "name": "Modern Girl",
-      "url": "https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "Germ Free Adolescents",
         "url": "https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 145506,
       "name": "Identity",
       "url": "https://open.spotify.com/track/7oMsD1x3pV1nLm26p8Q914"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "The Woods",
+        "url": "https://open.spotify.com/album/73ctstwnbNifu5U902X2zL"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 181453,
+      "name": "Modern Girl",
+      "url": "https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk"
     },
     {
       "added_at": "2026-07-01 16:22:16",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/54ThBfBsIYq8IjvMKEFxWc"
-      },
-      "artists": [
-        {
-          "name": "Bad Cop Bad Cop",
-          "url": "https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "Womanarchist",
-      "url": "https://open.spotify.com/track/3Viq6H7Yuo5S9dZDi76CNJ"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "Nina Hagen Band",
         "url": "https://open.spotify.com/album/0xhbRH15usL0err9cL56Dx"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 210051,
       "name": "Unbeschreiblich Weiblich",
       "url": "https://open.spotify.com/track/4dzQVQl0NKLseUq5arIw0W"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/54ThBfBsIYq8IjvMKEFxWc"
+      },
+      "artists": [
+        {
+          "name": "Bad Cop Bad Cop",
+          "url": "https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Womanarchist",
+      "url": "https://open.spotify.com/track/3Viq6H7Yuo5S9dZDi76CNJ"
     },
     {
       "added_at": "2026-07-01 16:22:16",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 169186,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "Woman Driver",
         "url": "https://open.spotify.com/album/6SxfRfXTWGh20SiGGunINs"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 124294,
       "name": "Woman Driver",
       "url": "https://open.spotify.com/track/28Zo6zxUvjalBnftQpC8Qe"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 169186,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
     },
     {
       "added_at": "2026-07-01 16:22:16",

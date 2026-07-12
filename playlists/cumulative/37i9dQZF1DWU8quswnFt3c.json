@@ -13232,7 +13232,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 197793,
       "name": "Dwa s\u0142o\u0144ca",
       "url": "https://open.spotify.com/track/5Ax2sqg4Yx4SJrPyKzG4ru"
@@ -39146,6 +39146,24 @@
       "duration_ms": 313311,
       "name": "Raat Ki Rani",
       "url": "https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE"
+    },
+    {
+      "album": {
+        "name": "Rabszolga",
+        "url": "https://open.spotify.com/album/1DoyH26hV9YfqSDTCSeqPT"
+      },
+      "artists": [
+        {
+          "name": "Sofi",
+          "url": "https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139345,
+      "name": "Rabszolga",
+      "url": "https://open.spotify.com/track/51IUF2k7kR8AtY3dPyg4jU"
     },
     {
       "album": {

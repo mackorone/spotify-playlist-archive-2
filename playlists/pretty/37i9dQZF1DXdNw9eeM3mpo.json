@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Los Calzones en portada.",
-  "num_followers": 490092,
+  "num_followers": 490110,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-07-03 06:00:08",
       "album": {
-        "name": "Zorro",
-        "url": "https://open.spotify.com/album/0safdYHz6zOlYLpBJwMlKs"
-      },
-      "artists": [
-        {
-          "name": "Nasa Histoires",
-          "url": "https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu"
-        }
-      ],
-      "duration_ms": 134609,
-      "name": "Zorro",
-      "url": "https://open.spotify.com/track/3wpwKI50UA6D2kMSd6gOzT"
-    },
-    {
-      "added_at": "2026-07-03 06:00:08",
-      "album": {
         "name": "Salon Victoria",
         "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 189480,
       "name": "Maldita Soledad",
       "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
+    },
+    {
+      "added_at": "2026-07-03 06:00:08",
+      "album": {
+        "name": "Zorro",
+        "url": "https://open.spotify.com/album/0safdYHz6zOlYLpBJwMlKs"
+      },
+      "artists": [
+        {
+          "name": "Nasa Histoires",
+          "url": "https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu"
+        }
+      ],
+      "duration_ms": 134609,
+      "name": "Zorro",
+      "url": "https://open.spotify.com/track/3wpwKI50UA6D2kMSd6gOzT"
     },
     {
       "added_at": "2026-07-03 06:00:08",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2026-07-03 06:00:08",
       "album": {
+        "name": "Nunca Nos Compusimos",
+        "url": "https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up"
+      },
+      "artists": [
+        {
+          "name": "La Parranda Magna",
+          "url": "https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH"
+        }
+      ],
+      "duration_ms": 230573,
+      "name": "Envenenen a Mis Labios",
+      "url": "https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6"
+    },
+    {
+      "added_at": "2026-07-03 06:00:08",
+      "album": {
         "name": "Qui\u00e9n Devuelve El Tiempo?",
         "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 210164,
       "name": "Qui\u00e9n devuelve el tiempo?",
       "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
-    },
-    {
-      "added_at": "2026-07-03 06:00:08",
-      "album": {
-        "name": "Nunca Nos Compusimos",
-        "url": "https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up"
-      },
-      "artists": [
-        {
-          "name": "La Parranda Magna",
-          "url": "https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH"
-        }
-      ],
-      "duration_ms": 230573,
-      "name": "Envenenen a Mis Labios",
-      "url": "https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6"
     },
     {
       "added_at": "2026-07-03 06:00:08",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2026-07-03 06:00:08",
       "album": {
-        "name": "No Eres Para Mi",
-        "url": "https://open.spotify.com/album/1mIAzoKLHHfGCfkpknVX2A"
-      },
-      "artists": [
-        {
-          "name": "Vicente Cifuentes",
-          "url": "https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG"
-        },
-        {
-          "name": "Joselo Osses",
-          "url": "https://open.spotify.com/artist/61vEn9mndXCZpborSO45uP"
-        }
-      ],
-      "duration_ms": 192949,
-      "name": "No Eres Para Mi",
-      "url": "https://open.spotify.com/track/6eCfZFbIMzhSbCgllrr0xa"
-    },
-    {
-      "added_at": "2026-07-03 06:00:08",
-      "album": {
         "name": "Batuco",
         "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 328680,
       "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
       "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
+    },
+    {
+      "added_at": "2026-07-03 06:00:08",
+      "album": {
+        "name": "No Eres Para Mi",
+        "url": "https://open.spotify.com/album/1mIAzoKLHHfGCfkpknVX2A"
+      },
+      "artists": [
+        {
+          "name": "Vicente Cifuentes",
+          "url": "https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG"
+        },
+        {
+          "name": "Joselo Osses",
+          "url": "https://open.spotify.com/artist/61vEn9mndXCZpborSO45uP"
+        }
+      ],
+      "duration_ms": 192949,
+      "name": "No Eres Para Mi",
+      "url": "https://open.spotify.com/track/6eCfZFbIMzhSbCgllrr0xa"
     },
     {
       "added_at": "2026-07-03 06:00:08",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-07-03 06:00:08",
       "album": {
-        "name": "Voy a curarme de ti",
-        "url": "https://open.spotify.com/album/3XriISqGqSjHuNsXLlm6gH"
-      },
-      "artists": [
-        {
-          "name": "Timo Pacheco",
-          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
-        }
-      ],
-      "duration_ms": 253285,
-      "name": "Voy a curarme de ti",
-      "url": "https://open.spotify.com/track/34qV1rb1zaufUFmqalIokP"
-    },
-    {
-      "added_at": "2026-07-03 06:00:08",
-      "album": {
         "name": "La Ranchera",
         "url": "https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 187744,
       "name": "La Ranchera",
       "url": "https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt"
+    },
+    {
+      "added_at": "2026-07-03 06:00:08",
+      "album": {
+        "name": "Voy a curarme de ti",
+        "url": "https://open.spotify.com/album/3XriISqGqSjHuNsXLlm6gH"
+      },
+      "artists": [
+        {
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        }
+      ],
+      "duration_ms": 253285,
+      "name": "Voy a curarme de ti",
+      "url": "https://open.spotify.com/track/34qV1rb1zaufUFmqalIokP"
     },
     {
       "added_at": "2026-07-03 06:00:08",

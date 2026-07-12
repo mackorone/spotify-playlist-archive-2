@@ -2228,7 +2228,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-08",
+      "date_removed": null,
       "duration_ms": 308268,
       "name": "Aldrei f\u00f3r \u00e9g su\u00f0ur",
       "url": "https://open.spotify.com/track/3kfDamWWa5tQXdS3Kgu0xi"
@@ -5595,6 +5595,28 @@
     },
     {
       "album": {
+        "name": "Barnsfa\u00f0ir",
+        "url": "https://open.spotify.com/album/6xkNGVQ0RlYtSCslHYVY6F"
+      },
+      "artists": [
+        {
+          "name": "UB",
+          "url": "https://open.spotify.com/artist/6etuSg79YgQ6Gvd8kIdMFP"
+        },
+        {
+          "name": "Dan\u00edel Dagur",
+          "url": "https://open.spotify.com/artist/4SNdnbYs3PJkvpJvI3wJ3p"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144728,
+      "name": "Barnsfa\u00f0ir",
+      "url": "https://open.spotify.com/track/6HqnOqevEhQvUOuqxyiEVL"
+    },
+    {
+      "album": {
         "name": "Bassi Maraj",
         "url": "https://open.spotify.com/album/2J9T2cIXGQKn7NgaUBdfuh"
       },
@@ -7494,7 +7516,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 261626,
       "name": "Bl\u00e1gr\u00e6n",
       "url": "https://open.spotify.com/track/36iyDbsjcidH1AnpFaXOHV"
@@ -8986,6 +9008,24 @@
       "duration_ms": 177789,
       "name": "California Breeze",
       "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+    },
+    {
+      "album": {
+        "name": "The Real Me",
+        "url": "https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "California Girls",
+      "url": "https://open.spotify.com/track/5Rv0O0Bv90IqC97T68zesG"
     },
     {
       "album": {
@@ -14416,7 +14456,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -15088,7 +15128,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -20754,6 +20794,24 @@
       "duration_ms": 209577,
       "name": "FUK SUMN",
       "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
+    },
+    {
+      "album": {
+        "name": "The Real Me",
+        "url": "https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157640,
+      "name": "Fukk A Interview",
+      "url": "https://open.spotify.com/track/7EOgQuWYzWIgCfe5zEe1dl"
     },
     {
       "album": {
@@ -26840,7 +26898,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 245837,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
@@ -32183,6 +32241,36 @@
     },
     {
       "album": {
+        "name": "Kygo Jo (feat. Lyng) [Kygo Remix]",
+        "url": "https://open.spotify.com/album/6AQiRXJ2i48Lu7CFUrKUER"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Flow Kingz",
+          "url": "https://open.spotify.com/artist/1811qTctCVNYGH09k7sfyY"
+        },
+        {
+          "name": "JMK",
+          "url": "https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN"
+        },
+        {
+          "name": "Lyng",
+          "url": "https://open.spotify.com/artist/5ducg8qTQPfJJSSsO3D8hB"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153272,
+      "name": "Kygo Jo (feat. Lyng) - Kygo Remix",
+      "url": "https://open.spotify.com/track/3ExrDwHbhBZYurE2AOC1rL"
+    },
+    {
+      "album": {
         "name": "Skemmilagt til framb\u00fa\u00f0ar",
         "url": "https://open.spotify.com/album/11UmfesAxjSN30AjVY6dO4"
       },
@@ -37356,7 +37444,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 144775,
       "name": "Miklu betri einn",
       "url": "https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4"
@@ -39486,7 +39574,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 161133,
       "name": "Naggar",
       "url": "https://open.spotify.com/track/0yHR1QnAjAsSC8WAJIWXSS"
@@ -41112,7 +41200,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 157386,
       "name": "N\u00c1GRANNAR",
       "url": "https://open.spotify.com/track/4WLqmr7WxWCK3fM2bZC9fv"
@@ -50228,7 +50316,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 240465,
       "name": "Sk\u00fdjaborgin",
       "url": "https://open.spotify.com/track/04t3bx34ayLVkx2eQn0kGw"
@@ -54164,7 +54252,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 107050,
       "name": "Superman",
       "url": "https://open.spotify.com/track/3mQsB2BR4o4kASOsN3LhuX"
@@ -58550,7 +58638,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 267360,
       "name": "Total Eclipse of the Heart",
       "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
@@ -61646,7 +61734,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 292199,
       "name": "Vi\u00f0 Gr\u00f3ttu",
       "url": "https://open.spotify.com/track/51DYh8jb6FCioarSwgnbiJ"

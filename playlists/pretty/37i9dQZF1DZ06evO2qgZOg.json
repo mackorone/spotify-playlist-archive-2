@@ -1,13 +1,29 @@
 {
   "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 330264,
+  "num_followers": 330320,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAAAJeJa/pjpyeoE6a6bOJFR9",
+  "snapshot_id": "alA2AAAAAADtqRICJEsq9SK7ToKy2AEU",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scream",
+        "url": "https://open.spotify.com/album/6fONg6IKy2vvl1oapOPrbj"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/7vYOEQfVkPtZ3JUKAhPVqU"
+    },
     {
       "added_at": null,
       "album": {
@@ -811,22 +827,6 @@
       "duration_ms": 198750,
       "name": "Wolf (feat. John Cooper of Skillet)",
       "url": "https://open.spotify.com/track/2TotmUJiZqzDh7OMjD7zGr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dominion",
-        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 231492,
-      "name": "Dominion",
-      "url": "https://open.spotify.com/track/08y95NOBjAM41gJfSqTogE"
     }
   ],
   "unique_name": "This Is Skillet",

@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Quiet Houses",
-  "num_followers": 1666794,
+  "num_followers": 1666775,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/35mvYlF92JzRqB2PYA9DIU"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "The Clearing",
-        "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "Just Two Girls",
-      "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
-    },
-    {
       "added_at": "2026-06-26 04:55:44",
       "album": {
         "name": "Water The Flowers",
@@ -811,18 +795,18 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Bleeding Gold",
-        "url": "https://open.spotify.com/album/35xsdh210MQASoGiWVpzyd"
+        "name": "The Clearing",
+        "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
       },
       "artists": [
         {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
         }
       ],
-      "duration_ms": 242820,
-      "name": "Bleeding Gold",
-      "url": "https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1"
+      "duration_ms": 229880,
+      "name": "Just Two Girls",
+      "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
     },
     {
       "added_at": "2026-07-03 04:20:13",
@@ -839,6 +823,22 @@
       "duration_ms": 193319,
       "name": "Come On",
       "url": "https://open.spotify.com/track/6ZD1BmXJAUKR301UGCor5e"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Bleeding Gold",
+        "url": "https://open.spotify.com/album/35xsdh210MQASoGiWVpzyd"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 242820,
+      "name": "Bleeding Gold",
+      "url": "https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1"
     },
     {
       "added_at": "2026-06-19 04:01:13",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "you and forever",
-        "url": "https://open.spotify.com/album/32spb4QXcrqJxAgumWb6up"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 234971,
-      "name": "you and forever",
-      "url": "https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "In Twos",
         "url": "https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 166897,
       "name": "In Twos",
       "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "you and forever",
+        "url": "https://open.spotify.com/album/32spb4QXcrqJxAgumWb6up"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 234971,
+      "name": "you and forever",
+      "url": "https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -911,6 +911,26 @@
       "duration_ms": 116000,
       "name": "Messy Hair",
       "url": "https://open.spotify.com/track/5TBvQZLNHpCvYLiO98FjEg"
+    },
+    {
+      "added_at": "2026-07-03 04:20:13",
+      "album": {
+        "name": "of everyone in the world\u2026",
+        "url": "https://open.spotify.com/album/3S2aWBkpy7MbV14L9yqB21"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        },
+        {
+          "name": "love interest",
+          "url": "https://open.spotify.com/artist/4kMil85uTMGXwotoyZhdBX"
+        }
+      ],
+      "duration_ms": 187445,
+      "name": "of everyone in the world\u2026",
+      "url": "https://open.spotify.com/track/40hiSrEnjRq1JyMeDf0Npo"
     },
     {
       "added_at": "2026-06-12 04:02:00",
@@ -943,26 +963,6 @@
       "duration_ms": 156041,
       "name": "Vertical",
       "url": "https://open.spotify.com/track/0ecQazzKkndVD8Ry9Orp9Q"
-    },
-    {
-      "added_at": "2026-07-03 04:20:13",
-      "album": {
-        "name": "of everyone in the world\u2026",
-        "url": "https://open.spotify.com/album/3S2aWBkpy7MbV14L9yqB21"
-      },
-      "artists": [
-        {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
-        },
-        {
-          "name": "love interest",
-          "url": "https://open.spotify.com/artist/4kMil85uTMGXwotoyZhdBX"
-        }
-      ],
-      "duration_ms": 187445,
-      "name": "of everyone in the world\u2026",
-      "url": "https://open.spotify.com/track/40hiSrEnjRq1JyMeDf0Npo"
     },
     {
       "added_at": "2026-06-05 04:02:01",
@@ -1029,6 +1029,22 @@
       "url": "https://open.spotify.com/track/30ewsn0jSF9Jme7Altrz9X"
     },
     {
+      "added_at": "2026-06-26 04:55:44",
+      "album": {
+        "name": "Suburbia",
+        "url": "https://open.spotify.com/album/4KxbjJWoj2GruaXllzGApE"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "duration_ms": 214597,
+      "name": "Suburbia",
+      "url": "https://open.spotify.com/track/5zYpWznknMJkx7ovNZLbuk"
+    },
+    {
       "added_at": "2026-06-12 04:02:00",
       "album": {
         "name": "Thunder",
@@ -1065,22 +1081,6 @@
       "url": "https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS"
     },
     {
-      "added_at": "2026-06-26 04:55:44",
-      "album": {
-        "name": "Suburbia",
-        "url": "https://open.spotify.com/album/4KxbjJWoj2GruaXllzGApE"
-      },
-      "artists": [
-        {
-          "name": "Moody Joody",
-          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
-        }
-      ],
-      "duration_ms": 214597,
-      "name": "Suburbia",
-      "url": "https://open.spotify.com/track/5zYpWznknMJkx7ovNZLbuk"
-    },
-    {
       "added_at": "2026-05-15 16:17:55",
       "album": {
         "name": "Promise (When You Go)",
@@ -1097,22 +1097,6 @@
       "url": "https://open.spotify.com/track/4FNptC8qbW6cAJBsymtHMI"
     },
     {
-      "added_at": "2026-06-12 04:02:00",
-      "album": {
-        "name": "glitter in the night",
-        "url": "https://open.spotify.com/album/561e1X8Xgfwm4RYct6abQ6"
-      },
-      "artists": [
-        {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
-        }
-      ],
-      "duration_ms": 159974,
-      "name": "glitter in the night",
-      "url": "https://open.spotify.com/track/4JLB0VDIuNsOrZrAIlNri2"
-    },
-    {
       "added_at": "2026-05-15 16:17:55",
       "album": {
         "name": "Paradise Now & Forever",
@@ -1127,6 +1111,22 @@
       "duration_ms": 215531,
       "name": "Lipdance",
       "url": "https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S"
+    },
+    {
+      "added_at": "2026-06-12 04:02:00",
+      "album": {
+        "name": "glitter in the night",
+        "url": "https://open.spotify.com/album/561e1X8Xgfwm4RYct6abQ6"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "duration_ms": 159974,
+      "name": "glitter in the night",
+      "url": "https://open.spotify.com/track/4JLB0VDIuNsOrZrAIlNri2"
     },
     {
       "added_at": "2026-06-12 04:02:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Sick Of Love",
-        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Sick Of Love",
-      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Sick of Staying",
         "url": "https://open.spotify.com/album/65a1oTXKKKPfOCyy2V7jFU"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 206470,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Sick Of Love",
+        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Sick Of Love",
+      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1429,6 +1429,22 @@
       "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
     },
     {
+      "added_at": "2026-06-26 04:55:44",
+      "album": {
+        "name": "Eternal BAM Nation",
+        "url": "https://open.spotify.com/album/5V3JWWxA9uorTR3T5rcSfJ"
+      },
+      "artists": [
+        {
+          "name": "Born At Midnite",
+          "url": "https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa"
+        }
+      ],
+      "duration_ms": 144680,
+      "name": "I Haven\u2019t Forgotten You",
+      "url": "https://open.spotify.com/track/10dei2pRZz9USduNqb2BsY"
+    },
+    {
       "added_at": "2026-06-12 04:02:00",
       "album": {
         "name": "SICK",
@@ -1445,20 +1461,20 @@
       "url": "https://open.spotify.com/track/2F6YUXi48PHfXEXfP8LSnO"
     },
     {
-      "added_at": "2026-06-26 04:55:44",
+      "added_at": "2026-07-03 04:20:13",
       "album": {
-        "name": "Eternal BAM Nation",
-        "url": "https://open.spotify.com/album/5V3JWWxA9uorTR3T5rcSfJ"
+        "name": "Slush Puppy",
+        "url": "https://open.spotify.com/album/6lik4v0FwZyEZ0VPKui5z0"
       },
       "artists": [
         {
-          "name": "Born At Midnite",
-          "url": "https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa"
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
         }
       ],
-      "duration_ms": 144680,
-      "name": "I Haven\u2019t Forgotten You",
-      "url": "https://open.spotify.com/track/10dei2pRZz9USduNqb2BsY"
+      "duration_ms": 166221,
+      "name": "Slush Puppy",
+      "url": "https://open.spotify.com/track/5esPnS3J0c0x94yZuCxukj"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1533,22 +1549,6 @@
       "url": "https://open.spotify.com/track/1PWh0ypifsoAUUN2HtZMpq"
     },
     {
-      "added_at": "2026-07-03 04:20:13",
-      "album": {
-        "name": "Slush Puppy",
-        "url": "https://open.spotify.com/album/6lik4v0FwZyEZ0VPKui5z0"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 166221,
-      "name": "Slush Puppy",
-      "url": "https://open.spotify.com/track/5esPnS3J0c0x94yZuCxukj"
-    },
-    {
       "added_at": "2026-05-15 16:17:55",
       "album": {
         "name": "Never Let Go",
@@ -1581,20 +1581,20 @@
       "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
+      "added_at": "2026-07-03 04:20:13",
       "album": {
-        "name": "Don't Kill the Vibe",
-        "url": "https://open.spotify.com/album/4tYBaS0xN0eYmFSGHJ1C7N"
+        "name": "kiss of life. (you\u2019re kinda magical)",
+        "url": "https://open.spotify.com/album/44FQgX6FgSOEQSvdm0WG9M"
       },
       "artists": [
         {
-          "name": "Jordan Joy",
-          "url": "https://open.spotify.com/artist/4SpTLCaS4bSWUFgN7AapHv"
+          "name": "Sebastian Schub",
+          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
         }
       ],
-      "duration_ms": 262459,
-      "name": "Don't Kill the Vibe",
-      "url": "https://open.spotify.com/track/3ZiHHaMuZ2cQXLtjxgiGUd"
+      "duration_ms": 198091,
+      "name": "kiss of life. (you\u2019re kinda magical)",
+      "url": "https://open.spotify.com/track/4cW17k9yriRkF6j2hz4LPY"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1611,6 +1611,38 @@
       "duration_ms": 256481,
       "name": "leave it all behind, Mike",
       "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
+    },
+    {
+      "added_at": "2026-06-26 04:55:44",
+      "album": {
+        "name": "EAVESDROPPING",
+        "url": "https://open.spotify.com/album/7cUIDKRSyezrS3oZtywQwh"
+      },
+      "artists": [
+        {
+          "name": "ill peach",
+          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
+        }
+      ],
+      "duration_ms": 182887,
+      "name": "RODEO",
+      "url": "https://open.spotify.com/track/0bfVAtGxRGmqtaLxjezNJG"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Don't Kill the Vibe",
+        "url": "https://open.spotify.com/album/4tYBaS0xN0eYmFSGHJ1C7N"
+      },
+      "artists": [
+        {
+          "name": "Jordan Joy",
+          "url": "https://open.spotify.com/artist/4SpTLCaS4bSWUFgN7AapHv"
+        }
+      ],
+      "duration_ms": 262459,
+      "name": "Don't Kill the Vibe",
+      "url": "https://open.spotify.com/track/3ZiHHaMuZ2cQXLtjxgiGUd"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1643,38 +1675,6 @@
       "duration_ms": 172586,
       "name": "Lost and Found",
       "url": "https://open.spotify.com/track/0SYktSP2XOX3OipKS9W5vJ"
-    },
-    {
-      "added_at": "2026-06-26 04:55:44",
-      "album": {
-        "name": "EAVESDROPPING",
-        "url": "https://open.spotify.com/album/7cUIDKRSyezrS3oZtywQwh"
-      },
-      "artists": [
-        {
-          "name": "ill peach",
-          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
-        }
-      ],
-      "duration_ms": 182887,
-      "name": "RODEO",
-      "url": "https://open.spotify.com/track/0bfVAtGxRGmqtaLxjezNJG"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Stupid Bitches",
-        "url": "https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP"
-      },
-      "artists": [
-        {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "Stupid Bitches",
-      "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
     }
   ],
   "unique_name": "Indie Pop",

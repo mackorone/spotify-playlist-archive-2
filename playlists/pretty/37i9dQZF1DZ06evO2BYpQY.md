@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 
 > This is Sinéad O'Connor\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,532 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,540 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 49 | [A New Born Child](https://open.spotify.com/track/4gH669pWOPQMVlTnUV0PnA) | [Armand Amar](https://open.spotify.com/artist/2fJb06JRcuBWypwj46TQZj), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Le premier cri](https://open.spotify.com/album/7w6VcRLFzLLmlLUQrol4OF) | 3:29 |
 | 50 | [Sweet Soul Dream](https://open.spotify.com/track/1IQYwIAj7XMrL5ilfyprkd) | [World Party](https://open.spotify.com/artist/0THUMJMWUd5L8os9K6O4FE), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Goodbye Jumbo](https://open.spotify.com/album/0NHOAAAuzEglpm88igZi1a) | 4:39 |
 
-Snapshot ID: `ak7kgAAAAABHDo9XwDN6gBM1gODBXCx0`
+Snapshot ID: `alA2AAAAAAA01sjxl6CF4fhu/br0zyv4`

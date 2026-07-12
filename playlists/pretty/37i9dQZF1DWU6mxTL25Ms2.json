@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"\nUmamusume: Pretty Derby! \u00a9 Cygames, Inc.",
-  "num_followers": 63468,
+  "num_followers": 63486,
   "original_name": "Umamusume: Pretty Derby",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 01",
-        "url": "https://open.spotify.com/album/4JMtKXFI7ExDM6gzYxdwxH"
-      },
-      "artists": [
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 291106,
-      "name": "GIRLS' LEGEND U",
-      "url": "https://open.spotify.com/track/33iH7zq5RFLiBPDWnVo0ID"
-    },
-    {
-      "added_at": "2026-01-13 16:30:52",
-      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 02",
         "url": "https://open.spotify.com/album/7vuyl4G8HAAul1jzeKfUNs"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 250493,
       "name": "\u5f69 Phantasia",
       "url": "https://open.spotify.com/track/5jQe1D7i1LeuQrswdHJGSG"
+    },
+    {
+      "added_at": "2026-01-13 16:30:52",
+      "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 01",
+        "url": "https://open.spotify.com/album/4JMtKXFI7ExDM6gzYxdwxH"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 291106,
+      "name": "GIRLS' LEGEND U",
+      "url": "https://open.spotify.com/track/33iH7zq5RFLiBPDWnVo0ID"
     },
     {
       "added_at": "2026-01-13 16:30:52",
@@ -967,6 +967,30 @@
       "duration_ms": 230106,
       "name": "\u611f\u60c5\u30ce\u9ece\u660e - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/2RZAaf7nleKmiRp1PFspVc"
+    },
+    {
+      "added_at": "2026-01-13 16:30:52",
+      "album": {
+        "name": "\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc ROAD TO THE TOP\u300f\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/2UDTzB8zpCddqHna9Gn9sY"
+      },
+      "artists": [
+        {
+          "name": "\u30ca\u30ea\u30bf\u30c8\u30c3\u30d7\u30ed\u30fc\u30c9 (CV. \u4e2d\u6751\u30ab\u30f3\u30ca)",
+          "url": "https://open.spotify.com/artist/4qARhZ8LYPvzrBeqpvref3"
+        },
+        {
+          "name": "\u30a2\u30c9\u30de\u30a4\u30e4\u30d9\u30ac (CV. \u54b2\u3005\u6728\u77b3)",
+          "url": "https://open.spotify.com/artist/77jJBS7kai3P7IpnhczBTU"
+        },
+        {
+          "name": "\u30c6\u30a4\u30a8\u30e0\u30aa\u30da\u30e9\u30aa\u30fc (CV. \u5fb3\u4e95\u9752\u7a7a)",
+          "url": "https://open.spotify.com/artist/0HmlG1tmStQxv3UhMNUpXP"
+        }
+      ],
+      "duration_ms": 255360,
+      "name": "Glorious Moment\uff01",
+      "url": "https://open.spotify.com/track/2RsZ4qG6GT7DzW4OIZtcxe"
     },
     {
       "added_at": "2026-01-13 16:30:52",
@@ -1835,30 +1859,6 @@
       "duration_ms": 256840,
       "name": "Never Looking Back",
       "url": "https://open.spotify.com/track/55SrcD8ihPqf5Ml6QdpczU"
-    },
-    {
-      "added_at": "2026-01-13 16:30:52",
-      "album": {
-        "name": "\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc ROAD TO THE TOP\u300f\u30a2\u30eb\u30d0\u30e0",
-        "url": "https://open.spotify.com/album/2UDTzB8zpCddqHna9Gn9sY"
-      },
-      "artists": [
-        {
-          "name": "\u30ca\u30ea\u30bf\u30c8\u30c3\u30d7\u30ed\u30fc\u30c9 (CV. \u4e2d\u6751\u30ab\u30f3\u30ca)",
-          "url": "https://open.spotify.com/artist/4qARhZ8LYPvzrBeqpvref3"
-        },
-        {
-          "name": "\u30a2\u30c9\u30de\u30a4\u30e4\u30d9\u30ac (CV. \u54b2\u3005\u6728\u77b3)",
-          "url": "https://open.spotify.com/artist/77jJBS7kai3P7IpnhczBTU"
-        },
-        {
-          "name": "\u30c6\u30a4\u30a8\u30e0\u30aa\u30da\u30e9\u30aa\u30fc (CV. \u5fb3\u4e95\u9752\u7a7a)",
-          "url": "https://open.spotify.com/artist/0HmlG1tmStQxv3UhMNUpXP"
-        }
-      ],
-      "duration_ms": 255360,
-      "name": "Glorious Moment\uff01",
-      "url": "https://open.spotify.com/track/2RsZ4qG6GT7DzW4OIZtcxe"
     },
     {
       "added_at": "2026-01-13 16:30:52",

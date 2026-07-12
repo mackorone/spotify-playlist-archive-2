@@ -1,6 +1,6 @@
 {
   "description": "Listen hot and new Korean classical & new age  music in here! (Cover: \uc870\uc218\ubbf8(Sumi Jo)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 5768,
+  "num_followers": 5765,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "Black Mamba (Orchestra Version)",
+        "url": "https://open.spotify.com/album/7raxRqTuTKeGvd4faGxkFO"
+      },
+      "artists": [
+        {
+          "name": "Seoul Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7"
+        }
+      ],
+      "duration_ms": 290120,
+      "name": "Black Mamba - Orchestra Version",
+      "url": "https://open.spotify.com/track/7y4hxkpH5y72ajZW6aei1x"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "A Christmas Symphony",
         "url": "https://open.spotify.com/album/6XkOhydeYpbV2rRGOyUdQ9"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 280687,
       "name": "It's okay - Orchestra Version",
       "url": "https://open.spotify.com/track/6YLTwDwqYnHrAK5h8PMbSL"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Black Mamba (Orchestra Version)",
-        "url": "https://open.spotify.com/album/7raxRqTuTKeGvd4faGxkFO"
-      },
-      "artists": [
-        {
-          "name": "Seoul Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7"
-        }
-      ],
-      "duration_ms": 290120,
-      "name": "Black Mamba - Orchestra Version",
-      "url": "https://open.spotify.com/track/7y4hxkpH5y72ajZW6aei1x"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "Growl (Orchestra Version)",
+        "url": "https://open.spotify.com/album/65qB92gNunjYGnLsfJ6cXR"
+      },
+      "artists": [
+        {
+          "name": "Seoul Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7"
+        }
+      ],
+      "duration_ms": 244918,
+      "name": "Growl - Orchestra Version",
+      "url": "https://open.spotify.com/track/11xLAKc6AdEsSbosVOpRUk"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/5qPEipNj8HRvGayK7rePRl"
       },
@@ -1307,38 +1323,18 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Growl (Orchestra Version)",
-        "url": "https://open.spotify.com/album/65qB92gNunjYGnLsfJ6cXR"
+        "name": "Anchor",
+        "url": "https://open.spotify.com/album/6r6Hp8DvgSe72YiOCjTsUN"
       },
       "artists": [
         {
-          "name": "Seoul Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7"
+          "name": "LA POEM",
+          "url": "https://open.spotify.com/artist/0FnUIVrcXuabu4ec2Wu1tG"
         }
       ],
-      "duration_ms": 244918,
-      "name": "Growl - Orchestra Version",
-      "url": "https://open.spotify.com/track/11xLAKc6AdEsSbosVOpRUk"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "The Handel Project: Handel-Suites & Brahms-Variations",
-        "url": "https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Seong-Jin Cho",
-          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
-        }
-      ],
-      "duration_ms": 56613,
-      "name": "Variations and Fugue on a Theme by Handel, Op. 24: Var. 5 (Espressivo)",
-      "url": "https://open.spotify.com/track/7ru3gpbiiHILS48ABqBLDe"
+      "duration_ms": 235160,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/0MMBIESr9bIUSq18evg5Sh"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1359,18 +1355,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Anchor",
-        "url": "https://open.spotify.com/album/6r6Hp8DvgSe72YiOCjTsUN"
+        "name": "The Handel Project: Handel-Suites & Brahms-Variations",
+        "url": "https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE"
       },
       "artists": [
         {
-          "name": "LA POEM",
-          "url": "https://open.spotify.com/artist/0FnUIVrcXuabu4ec2Wu1tG"
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
         }
       ],
-      "duration_ms": 235160,
-      "name": "Anchor",
-      "url": "https://open.spotify.com/track/0MMBIESr9bIUSq18evg5Sh"
+      "duration_ms": 56613,
+      "name": "Variations and Fugue on a Theme by Handel, Op. 24: Var. 5 (Espressivo)",
+      "url": "https://open.spotify.com/track/7ru3gpbiiHILS48ABqBLDe"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1951,6 +1951,26 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "Timepass",
+        "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Kim Dami",
+          "url": "https://open.spotify.com/artist/2qd87b0u1binbbeQPFh7eT"
+        }
+      ],
+      "duration_ms": 862200,
+      "name": "Concert Fantasy on Themes from Gershwin's Porgy and Bess, Op. 19",
+      "url": "https://open.spotify.com/track/0wxEjB5smW1Y62T7nh8DMD"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "psalms",
         "url": "https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX"
       },
@@ -1971,26 +1991,6 @@
       "duration_ms": 254226,
       "name": "his days are like a passing shadow I",
       "url": "https://open.spotify.com/track/5AVrdzGQuarou1dHpnqJqQ"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Timepass",
-        "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Kim Dami",
-          "url": "https://open.spotify.com/artist/2qd87b0u1binbbeQPFh7eT"
-        }
-      ],
-      "duration_ms": 862200,
-      "name": "Concert Fantasy on Themes from Gershwin's Porgy and Bess, Op. 19",
-      "url": "https://open.spotify.com/track/0wxEjB5smW1Y62T7nh8DMD"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -2031,22 +2031,18 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Deep Sleep Deep",
-        "url": "https://open.spotify.com/album/7xThw8RSsjAKgCvB1UXNcH"
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/4mkOMlak3QAKhv78p7t676"
       },
       "artists": [
         {
-          "name": "Uaieo",
-          "url": "https://open.spotify.com/artist/1l7VfnSmASgvPvDKbDPXFf"
-        },
-        {
-          "name": "Yeongene",
-          "url": "https://open.spotify.com/artist/6EIodgHkqbx8zdgFCE06CL"
+          "name": "Fort\u00e9na",
+          "url": "https://open.spotify.com/artist/3k1X3vt1Oa9c0zqMzYXpF5"
         }
       ],
-      "duration_ms": 198375,
-      "name": "iMessage (feat. Yeongene)",
-      "url": "https://open.spotify.com/track/3vV0xQyt7FMYxDQxYBJfHJ"
+      "duration_ms": 246546,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/5FFk7FVrVS0hNs2vCooaiz"
     }
   ],
   "unique_name": "Classics Korea",

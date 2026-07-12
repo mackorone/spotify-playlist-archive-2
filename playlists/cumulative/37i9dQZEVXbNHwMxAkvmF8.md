@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,944 songs - 4 day 6 hr 7 min
+1,945 songs - 4 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Beat It](https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:18 | 2026-05-01 | 2026-07-08 |
 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-04-06 | 2025-04-29 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-01-20 | 2024-04-07 |
-| [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 | 2026-04-15 |  |
+| [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 | 2026-04-15 | 2026-07-12 |
 | [Beb\*sztam](https://open.spotify.com/track/2zALUC201V0RwAAL2FzrLP) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Sex, Love, Rock & Roll](https://open.spotify.com/album/4GNuuLaPJMC3KPPn5laNva) | 2:38 | 2022-11-23 | 2022-11-28 |
 | [Beb\*sztam](https://open.spotify.com/track/4kHnC6jF3AG4P0K8WllpQr) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Beb\*sztam](https://open.spotify.com/album/3uh6yLcgSxTaELqzlRXbba) | 3:13 | 2022-09-02 | 2022-09-10 |
 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 | 2021-04-29 | 2021-09-22 |
@@ -261,7 +261,7 @@
 | [BORZASZTÓ](https://open.spotify.com/track/0jtygYPqEW74NnNWlxMYwr) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Misshmusic](https://open.spotify.com/artist/6PD6eSZM8ulCg5PRU6mEII) | [Nitro](https://open.spotify.com/album/58zbBHgXAqP06UBBjwOSs5) | 2:50 | 2023-06-23 | 2023-06-25 |
 | [BOSS](https://open.spotify.com/track/64uKsZN6fjZa5kpEmzC6dG) | [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [Kolg8eight](https://open.spotify.com/artist/4aXeIRAbV0aEn0NZVImnqO) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 2:19 | 2023-04-08 | 2023-04-17 |
 | [BOSSZÚVÁGY](https://open.spotify.com/track/6WCesxLglGQE3aRYZSTfBQ) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ SZÁLLODA \(1\. RÉSZ\)](https://open.spotify.com/album/7FnnqrwibMHb5j59gifRhF) | 4:12 | 2025-03-14 | 2025-03-27 |
-| [BOSZORKÁNY](https://open.spotify.com/track/6QDyDA2a5ZhjTEZ61XQics) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1) | [SZABADSÁG, SZERELEM](https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq) | 2:51 | 2026-05-30 | 2026-07-11 |
+| [BOSZORKÁNY](https://open.spotify.com/track/6QDyDA2a5ZhjTEZ61XQics) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1) | [SZABADSÁG, SZERELEM](https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq) | 2:51 | 2026-05-30 |  |
 | [BOTRÁNY](https://open.spotify.com/track/1Y4yr3lzCoV0I4m21W5LWB) | [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV) | [VINNER](https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc) | 2:26 | 2026-02-07 |  |
 | [BOTRÁNY](https://open.spotify.com/track/4sNX1xMPVtgYrrPWFKoOhF) | [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV) | [BOTRÁNY](https://open.spotify.com/album/68lXuKf6ADPkHX8nqAtUyU) | 2:26 | 2025-12-10 | 2026-02-08 |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-23 | 2023-02-25 |
@@ -667,6 +667,7 @@
 | [GYŰLÖLJ](https://open.spotify.com/track/2LS9XwjaS59AXnKX3FSZXF) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [KINCUGI](https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk) | 4:31 | 2023-09-13 | 2023-09-24 |
 | [gát](https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 3:09 | 2023-05-02 | 2024-08-03 |
 | [GÁZ](https://open.spotify.com/track/07L9KepMsQ4mG9BLE04mXc) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Jaber](https://open.spotify.com/artist/6T2yephqss2R5uK7CmfLgo) | [GÁZ](https://open.spotify.com/album/3AChlpJwQJBBiGrL1wsizp) | 3:05 | 2024-05-01 | 2024-06-02 |
+| [Ha bukok](https://open.spotify.com/track/1jqthYE9Qyki3574xA7ZPL) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Ha bukok](https://open.spotify.com/album/3FzfbbJxJfabT3WiKmE2Fd) | 2:19 | 2026-07-11 |  |
 | [Ha eddig nem kellettem](https://open.spotify.com/track/0WiQVffKlsnClBBKZ1K3Zj) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Ha eddig nem kellettem](https://open.spotify.com/album/0I4eY1zWo3VxDU15WPIkG2) | 3:35 | 2022-08-31 | 2022-10-23 |
 | [Ha Elmegyek](https://open.spotify.com/track/2cHRseVmn2cfCChNmizemK) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [Ha Elmegyek](https://open.spotify.com/album/0sOK2IcTaW8a5BctjWughl) | 3:27 | 2022-01-02 | 2022-03-04 |
 | [Ha meghalok](https://open.spotify.com/track/5o5F8K2f2J258y3ZpfU5Ii) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Ha meghalok](https://open.spotify.com/album/1xtToPt8kaJzsQFApViuJx) | 3:21 | 2022-04-20 | 2022-10-13 |
@@ -1606,7 +1607,7 @@
 | [São Paulo](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-11-01 | 2025-02-02 |
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:01 | 2025-02-01 | 2025-03-04 |
 | [SÍRTÁNC](https://open.spotify.com/track/1Shm7PuL3u4Oe6eT8ZBxez) | [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [SÍRTÁNC](https://open.spotify.com/album/2Yweo5AlLbmz7w46TYUz7L) | 2:30 | 2024-11-23 | 2024-11-29 |
-| [SÖTÉT](https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [SÖTÉT](https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z) | 2:24 | 2025-05-16 |  |
+| [SÖTÉT](https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [SÖTÉT](https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z) | 2:24 | 2025-05-16 | 2026-07-12 |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-11-07 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-08 | 2021-08-18 |
 | [Take My Breath](https://open.spotify.com/track/0XvDZGVqGYM7P4rgzRnWhq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 5:39 | 2022-01-08 | 2022-01-10 |

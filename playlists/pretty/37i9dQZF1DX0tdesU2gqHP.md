@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tdesU2gqHP.md) - [plain]
 
 > The best videos from the world of pop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,857 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,864 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tdesU2gqHP.md) - [plain]
 | 99 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 |
 | 100 | [Man I Need \(Live\) \| Spotify Best New Artist](https://open.spotify.com/track/2UaHy96emBz85rYljZTs8S) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need \(Live\) \| Spotify Best New Artist](https://open.spotify.com/album/5Bt2zqIvQ5BtgoLrKjcyI6) | 3:03 |
 
-Snapshot ID: `AAAAAM4cDYp/LFnNU9wHOm1We/RTu3Yv`
+Snapshot ID: `AAAAAHBiuKCKFQ1U8A7FUWAKX9SZ4WQl`

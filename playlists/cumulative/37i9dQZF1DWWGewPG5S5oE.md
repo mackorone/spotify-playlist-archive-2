@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 民謡クルセイダーズ
 
-530 songs - 1 day 19 hr 9 min
+531 songs - 1 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Drummer is Dreamer](https://open.spotify.com/track/4iNDk2CwA2L3ngXJ04efNz) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Drummer is Dreamer](https://open.spotify.com/album/45V0cmDFwq3DcelffosNVs) | 2:30 | 2024-12-03 | 2025-02-01 |
 | [Dynamics](https://open.spotify.com/track/7wi3S0J8v5uA12cXZI4xug) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Dynamics](https://open.spotify.com/album/2j45BDfC3FVhEbiExfU1oS) | 2:48 | 2023-11-29 | 2024-02-01 |
 | [Dynamics \(Piano Play\-Along\)](https://open.spotify.com/track/081owSLclSGfb3ehGeqGiJ) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Dynamics](https://open.spotify.com/album/5Rrca8XULMLFX69dhgL0eX) | 2:48 | 2024-06-11 | 2024-11-11 |
-| [Eclypso](https://open.spotify.com/track/7IB1N0jwIj4CPOflC6kgfc) | [Ryo Fukui](https://open.spotify.com/artist/4V7Ate3UISn8cy06xnAprh) | [Ryo Fukui Trio at the Slowboat 2004](https://open.spotify.com/album/3Y93b7juDmc0Amg3UKOwXw) | 12:55 | 2025-09-24 |  |
+| [Eclypso](https://open.spotify.com/track/7IB1N0jwIj4CPOflC6kgfc) | [Ryo Fukui](https://open.spotify.com/artist/4V7Ate3UISn8cy06xnAprh) | [Ryo Fukui Trio at the Slowboat 2004](https://open.spotify.com/album/3Y93b7juDmc0Amg3UKOwXw) | 12:55 | 2025-09-24 | 2026-07-12 |
 | [eden](https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB) | [ひかりとだいち love SOIL&"PIMP"SESSIONS](https://open.spotify.com/artist/5kEUSsToZBCBfFr68aT7f9), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [eden](https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD) | 3:57 | 2023-02-28 |  |
 | [Elephant Ride](https://open.spotify.com/track/5PTNddC1kWbHxNTXLR0cH7) | [melodies](https://open.spotify.com/artist/43wNMkQDh4h3lSKc0YP7S4), [市野元彦](https://open.spotify.com/artist/48TBc7P43abz7TzVyPULhr), [津上研太](https://open.spotify.com/artist/6WhvBq2pCwvpCQqbtGfaxu), [Minyen Hsieh](https://open.spotify.com/artist/6AcI6agoeBhaaVo0GbjSFp), [外山明](https://open.spotify.com/artist/5VylIfkuBTg7EYq98afofV) | [Elephant Ride](https://open.spotify.com/album/2g1S2HLTWJneH3bwd9LJcS) | 8:07 | 2025-01-07 | 2025-01-15 |
 | [Emotional](https://open.spotify.com/track/4JM7jsWkatRB6gldrDwdfi) | [Yucco Miller](https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO), [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [LINK](https://open.spotify.com/album/52rc3MKvBNZ4QeK2fkWCFA) | 3:02 | 2024-12-10 | 2025-01-18 |
@@ -296,6 +296,7 @@
 | [Piece of cake](https://open.spotify.com/track/07PAaMh4UAcoSTR9OU7fUa) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [PEACE St\. The REVIVAL](https://open.spotify.com/album/6PTUezIZhjE5fj9HiqJOFi) | 2:50 | 2023-01-31 | 2023-03-08 |
 | [Piece of cake](https://open.spotify.com/track/14vYoxigOkrEKcobVsKSvg) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [Piece of cake](https://open.spotify.com/album/38Wranl2WGyCw2pfYnSGEi) | 2:50 | 2023-01-03 | 2023-01-05 |
 | [Piece of cake](https://open.spotify.com/track/4kpdFbe0J0iYgRS245VDmd) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [Piece of cake](https://open.spotify.com/album/3CRmlpT10DW8lsQ10gZzAA) | 2:50 | 2023-01-03 | 2023-02-05 |
+| [planted](https://open.spotify.com/track/6esnClfCbyWOI5PcDEgpxf) | [midori jaeger](https://open.spotify.com/artist/5k8Fqu43UFNxwDjHoeFcrp) | [hunted](https://open.spotify.com/album/5DKrm6Ilqx5hQe50J7zCPt) | 2:56 | 2026-06-09 |  |
 | [Plasma](https://open.spotify.com/track/0yh918TKzldNo6MK4RwHFF) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Plasma](https://open.spotify.com/album/6QiIL3Qn2uFYvJvUB2h4Zh) | 2:59 | 2024-04-02 | 2024-04-24 |
 | [Power](https://open.spotify.com/track/7x4HFmjNjvh4NNyEKealJz) | [Kyoto Jazz Massive](https://open.spotify.com/artist/10Mz09DRdfsBvUVTUWiqIv), [Vanessa Freeman](https://open.spotify.com/artist/5C4gaWnEwsHzn34UhjVV8c), [Echoes Of A New Dawn Orchestra](https://open.spotify.com/artist/0Ybi9gkQMCI91gq8Ykje1r) | [KJM EOANDO \- Kyoto Jazz Massive 30th Anniversary Edition](https://open.spotify.com/album/1VCZd9NNz9IAmi0fTHiKQS) | 7:22 | 2024-06-11 | 2024-09-18 |
 | [Praying Mantis](https://open.spotify.com/track/0GkRRk1lsoXOSfb3veSbNu) | [Alter Ego](https://open.spotify.com/artist/3fh440O6YUksZVM7BfS1jj), [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [庸蔵](https://open.spotify.com/artist/55k1fTNHRJcW8oCDUTETjx) | [Praying Mantis](https://open.spotify.com/album/3Eej3clX6pUi5TvKfSvhWr) | 4:51 | 2024-05-23 | 2024-09-18 |

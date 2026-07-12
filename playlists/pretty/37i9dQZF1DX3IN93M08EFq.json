@@ -1,6 +1,6 @@
 {
   "description": "De b\u00e4sta indiel\u00e5tarna - klassiker som Dansa Fast\u00e4n, Shoreline och Helgen v. 48! ",
-  "num_followers": 74614,
+  "num_followers": 74615,
   "original_name": "Indieklassiker",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Yours Truly, Angry Mob",
-        "url": "https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU"
-      },
-      "artists": [
-        {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
         "name": "The Coral",
         "url": "https://open.spotify.com/album/6Fhnezpt7TKojq1ufkZ5qA"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 141000,
       "name": "Dreaming of You",
       "url": "https://open.spotify.com/track/6ebxt3Iylxe0GcEuUGlIvb"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
+        "name": "Yours Truly, Angry Mob",
+        "url": "https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -521,6 +521,22 @@
       "url": "https://open.spotify.com/track/3DsDDXmMtucnf7Etgr0n7x"
     },
     {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
+        "name": "Living in America (US version)",
+        "url": "https://open.spotify.com/album/4Rg5Rh0uFB2v0uURm7S0d5"
+      },
+      "artists": [
+        {
+          "name": "The Sounds",
+          "url": "https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Living in America",
+      "url": "https://open.spotify.com/track/5FQ2oC15Omm9sdBZVQTPjw"
+    },
+    {
       "added_at": "2025-08-07 09:58:34",
       "album": {
         "name": "Verkligen",
@@ -535,22 +551,6 @@
       "duration_ms": 161666,
       "name": "Kr\u00e4m (s\u00e5 n\u00e4ra f\u00e5r ingen g\u00e5)",
       "url": "https://open.spotify.com/track/6mwzXxkU8SLbIcOCqCVuOg"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
-        "name": "Music Machine",
-        "url": "https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW"
-      },
-      "artists": [
-        {
-          "name": "Melody Club",
-          "url": "https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "Electric",
-      "url": "https://open.spotify.com/track/2AvS4Rk5G6jPAhZwytyF20"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Living in America (US version)",
-        "url": "https://open.spotify.com/album/4Rg5Rh0uFB2v0uURm7S0d5"
+        "name": "Music Machine",
+        "url": "https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW"
       },
       "artists": [
         {
-          "name": "The Sounds",
-          "url": "https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU"
+          "name": "Melody Club",
+          "url": "https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS"
         }
       ],
-      "duration_ms": 208573,
-      "name": "Living in America",
-      "url": "https://open.spotify.com/track/5FQ2oC15Omm9sdBZVQTPjw"
+      "duration_ms": 238826,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/2AvS4Rk5G6jPAhZwytyF20"
     },
     {
       "added_at": "2024-06-24 11:47:22",

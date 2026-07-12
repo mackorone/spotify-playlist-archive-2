@@ -392,7 +392,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 231492,
       "name": "Dominion",
       "url": "https://open.spotify.com/track/08y95NOBjAM41gJfSqTogE"
@@ -940,6 +940,24 @@
       "duration_ms": 273626,
       "name": "Savior",
       "url": "https://open.spotify.com/track/3PwUxOBMBkwILa7Y0s6h8S"
+    },
+    {
+      "album": {
+        "name": "Scream",
+        "url": "https://open.spotify.com/album/6fONg6IKy2vvl1oapOPrbj"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/7vYOEQfVkPtZ3JUKAhPVqU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,817 likes - 73 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,844 likes - 73 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 22 | [Globes](https://open.spotify.com/track/0oT5AOdk4IUqVDOaIN86ng) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [Globes](https://open.spotify.com/album/3fMs5z9oLrJ2unce2K05Xt) | 2:34 |
 | 23 | [Deux arabesques, L\. 66: Arabesque No\. 1](https://open.spotify.com/track/1eRJRTr2tIZLkJ3gqq6a7w) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Tiffany Poon](https://open.spotify.com/artist/6GoYLHh7cVvUyGjXbFKlDS) | [Debussy: Deux arabesques: Arabesque No\. 1](https://open.spotify.com/album/5Btir3Nai2A2d3SMbHLOFI) | 3:52 |
 | 24 | [Until The End](https://open.spotify.com/track/1uFPp4HMTVrZoKbpx1ngie) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 5:15 |
-| 25 | [Budapest \- Solo Piano Version](https://open.spotify.com/track/5aGyYJrAeDYgRYz5IrhWS0) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Pianissimo II](https://open.spotify.com/album/380lKpj6YYZwdS0hghzPaE) | 4:28 |
-| 26 | [Autumn](https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Autumn](https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q) | 2:33 |
-| 27 | [You Will Never Walk Alone \- Glowworm Rework](https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG) | [Maciej Sadowski](https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J), [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [You Will Never Walk Alone \(Glowworm Rework\)](https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM) | 3:53 |
+| 25 | [You Will Never Walk Alone \- Glowworm Rework](https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG) | [Maciej Sadowski](https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J), [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [You Will Never Walk Alone \(Glowworm Rework\)](https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM) | 3:53 |
+| 26 | [Budapest \- Solo Piano Version](https://open.spotify.com/track/5aGyYJrAeDYgRYz5IrhWS0) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Pianissimo II](https://open.spotify.com/album/380lKpj6YYZwdS0hghzPaE) | 4:28 |
+| 27 | [Autumn](https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Autumn](https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q) | 2:33 |
 | 28 | [Adagio in G Minor "Albinoni's Adagio" \(Arr\. Awadis for Piano\)](https://open.spotify.com/track/3au3krB3QurowkgSfxM4fx) | [Tomaso Albinoni](https://open.spotify.com/artist/17OArJzEhRR3OmhtGcnfBq), [Remo Giazotto](https://open.spotify.com/artist/2XVw29JYdo8C5MfteMnCqL), [Marie Awadis](https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN) | [Giazotto: Adagio in G Minor "Albinoni's Adagio" \(Arr\. Awadis for Piano\)](https://open.spotify.com/album/3khpEqL8Qj5DcOFIKMFQKh) | 3:26 |
 | 29 | [Ash](https://open.spotify.com/track/6SHUHXfhBf2q8UrmSrTvGH) | [Tommy Heap](https://open.spotify.com/artist/2XWf0wicjSVj8j3a9roU0Y) | [Ash](https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9) | 3:23 |
 | 30 | [The House with a View](https://open.spotify.com/track/5NgZtc9b3TFDtdtKYT5YAV) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [The House with a View](https://open.spotify.com/album/36G6cLrEniO07qHgkLflTX) | 2:21 |

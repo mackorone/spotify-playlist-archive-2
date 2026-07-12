@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Silly Silky (\uc2e4\ub9ac\uc2e4\ud0a4))",
-  "num_followers": 37464,
+  "num_followers": 37468,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2026-07-03 06:13:58",
       "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 237231,
+      "name": "Raingurl",
+      "url": "https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC"
+    },
+    {
+      "added_at": "2026-07-03 06:13:58",
+      "album": {
         "name": "LOOP",
         "url": "https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 163480,
       "name": "LOOP (feat. Lil Cherry)",
       "url": "https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo"
-    },
-    {
-      "added_at": "2026-07-03 06:13:58",
-      "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 237231,
-      "name": "Raingurl",
-      "url": "https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC"
     },
     {
       "added_at": "2026-07-03 06:13:58",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-07-03 06:13:58",
       "album": {
+        "name": "Chaotic & Confused",
+        "url": "https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 158917,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/5XsrVitCrmP41A6pq827Yq"
+    },
+    {
+      "added_at": "2026-07-03 06:13:58",
+      "album": {
         "name": "NAIL",
         "url": "https://open.spotify.com/album/6wXgjwwY1YLZhAQupPi3m4"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 162853,
       "name": "NAIL (feat. Lolo Zoua\u00ef)",
       "url": "https://open.spotify.com/track/2VdbARHQxe2Oo0PRlXpg4I"
-    },
-    {
-      "added_at": "2026-07-03 06:13:58",
-      "album": {
-        "name": "Chaotic & Confused",
-        "url": "https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 158917,
-      "name": "CLOSER",
-      "url": "https://open.spotify.com/track/5XsrVitCrmP41A6pq827Yq"
     },
     {
       "added_at": "2026-07-03 06:13:58",
@@ -327,26 +327,6 @@
     {
       "added_at": "2026-07-03 06:13:58",
       "album": {
-        "name": "NAIL",
-        "url": "https://open.spotify.com/album/6wXgjwwY1YLZhAQupPi3m4"
-      },
-      "artists": [
-        {
-          "name": "Yves",
-          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
-        },
-        {
-          "name": "Lexie Liu",
-          "url": "https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX"
-        }
-      ],
-      "duration_ms": 184868,
-      "name": "Break it (feat. Lexie Liu)",
-      "url": "https://open.spotify.com/track/5tL3rwferxGQRpe1Huquht"
-    },
-    {
-      "added_at": "2026-07-03 06:13:58",
-      "album": {
         "name": "Seven (Weekend Ver.)",
         "url": "https://open.spotify.com/album/6fJthISWarQBICiU2wncp6"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 180520,
       "name": "Seven (feat. Latto) (Festival Mix)",
       "url": "https://open.spotify.com/track/79DU9AWxpMpKsGS5yps6sp"
+    },
+    {
+      "added_at": "2026-07-03 06:13:58",
+      "album": {
+        "name": "NAIL",
+        "url": "https://open.spotify.com/album/6wXgjwwY1YLZhAQupPi3m4"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        },
+        {
+          "name": "Lexie Liu",
+          "url": "https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX"
+        }
+      ],
+      "duration_ms": 184868,
+      "name": "Break it (feat. Lexie Liu)",
+      "url": "https://open.spotify.com/track/5tL3rwferxGQRpe1Huquht"
     },
     {
       "added_at": "2026-07-03 06:13:58",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2026-07-03 06:13:58",
       "album": {
-        "name": "AREA X",
-        "url": "https://open.spotify.com/album/3y7wrIeJ0o7OvlQLLPOYTJ"
-      },
-      "artists": [
-        {
-          "name": "I\u00d6N",
-          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
-        },
-        {
-          "name": "DJ co.kr",
-          "url": "https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk"
-        }
-      ],
-      "duration_ms": 220555,
-      "name": "Baya",
-      "url": "https://open.spotify.com/track/7KCrASlXt3VnQ90LTOGWEK"
-    },
-    {
-      "added_at": "2026-07-03 06:13:58",
-      "album": {
         "name": "1-1=0 (NOTHING WITHOUT YOU)",
         "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 154712,
       "name": "Felony",
       "url": "https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz"
+    },
+    {
+      "added_at": "2026-07-03 06:13:58",
+      "album": {
+        "name": "AREA X",
+        "url": "https://open.spotify.com/album/3y7wrIeJ0o7OvlQLLPOYTJ"
+      },
+      "artists": [
+        {
+          "name": "I\u00d6N",
+          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
+        },
+        {
+          "name": "DJ co.kr",
+          "url": "https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk"
+        }
+      ],
+      "duration_ms": 220555,
+      "name": "Baya",
+      "url": "https://open.spotify.com/track/7KCrASlXt3VnQ90LTOGWEK"
     },
     {
       "added_at": "2026-07-03 06:13:58",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-07-03 06:13:58",
       "album": {
+        "name": "silkysmooth 01",
+        "url": "https://open.spotify.com/album/0ozNLYHixaeddRLPLL9o8S"
+      },
+      "artists": [
+        {
+          "name": "Silly Silky",
+          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
+        }
+      ],
+      "duration_ms": 242014,
+      "name": "murmur",
+      "url": "https://open.spotify.com/track/6KqF60TpACu4mtCCvqkNoN"
+    },
+    {
+      "added_at": "2026-07-03 06:13:58",
+      "album": {
         "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
         "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 224640,
       "name": "Armageddon (Mount XLR Remix)",
       "url": "https://open.spotify.com/track/5flRqe1GBBRSyKVbh7GSJy"
-    },
-    {
-      "added_at": "2026-07-03 06:13:58",
-      "album": {
-        "name": "silkysmooth 01",
-        "url": "https://open.spotify.com/album/0ozNLYHixaeddRLPLL9o8S"
-      },
-      "artists": [
-        {
-          "name": "Silly Silky",
-          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
-        }
-      ],
-      "duration_ms": 242014,
-      "name": "murmur",
-      "url": "https://open.spotify.com/track/6KqF60TpACu4mtCCvqkNoN"
     },
     {
       "added_at": "2026-07-03 06:13:58",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-07-03 06:13:58",
       "album": {
-        "name": "latency",
-        "url": "https://open.spotify.com/album/2rjA4rO2TtcWuyj3Wuk30N"
-      },
-      "artists": [
-        {
-          "name": "HYPNOSIS THERAPY",
-          "url": "https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP"
-        }
-      ],
-      "duration_ms": 199255,
-      "name": "subsonic\u20a9",
-      "url": "https://open.spotify.com/track/2LfAyjRZZdW3ZZ0AVTLMyP"
-    },
-    {
-      "added_at": "2026-07-03 06:13:58",
-      "album": {
         "name": "LOTTO - The 3rd Album Repackage",
         "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 245189,
       "name": "Monster - LDN Noise Creeper Bass Remix",
       "url": "https://open.spotify.com/track/1U1wrOyV4SotwDmFxKXqpN"
+    },
+    {
+      "added_at": "2026-07-03 06:13:58",
+      "album": {
+        "name": "latency",
+        "url": "https://open.spotify.com/album/2rjA4rO2TtcWuyj3Wuk30N"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSIS THERAPY",
+          "url": "https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP"
+        }
+      ],
+      "duration_ms": 199255,
+      "name": "subsonic\u20a9",
+      "url": "https://open.spotify.com/track/2LfAyjRZZdW3ZZ0AVTLMyP"
     },
     {
       "added_at": "2026-07-03 06:13:58",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2026-07-03 06:13:58",
       "album": {
-        "name": "MOLLAK",
-        "url": "https://open.spotify.com/album/6BaXK4Dmqq7gXoOpKVl1zX"
-      },
-      "artists": [
-        {
-          "name": "Jvcki Wai",
-          "url": "https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN"
-        },
-        {
-          "name": "vangdale",
-          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Narak",
-      "url": "https://open.spotify.com/track/4inxQrdnjvlyphqdkRNufm"
-    },
-    {
-      "added_at": "2026-07-03 06:13:58",
-      "album": {
         "name": "silkysmooth 05",
         "url": "https://open.spotify.com/album/02B7XrNEuKS2aIXf9OaJVp"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 191654,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/3s6oEjTTcjdCResRda90Hx"
+    },
+    {
+      "added_at": "2026-07-03 06:13:58",
+      "album": {
+        "name": "MOLLAK",
+        "url": "https://open.spotify.com/album/6BaXK4Dmqq7gXoOpKVl1zX"
+      },
+      "artists": [
+        {
+          "name": "Jvcki Wai",
+          "url": "https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN"
+        },
+        {
+          "name": "vangdale",
+          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Narak",
+      "url": "https://open.spotify.com/track/4inxQrdnjvlyphqdkRNufm"
     },
     {
       "added_at": "2026-07-03 06:13:58",

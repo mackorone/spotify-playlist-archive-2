@@ -4,7 +4,7 @@
 
 > This is The Delfonics\. The essential tracks, all in one playlist.
 
-114 songs - 6 hr 7 min
+115 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Loving Him \(aka You Can't Be Loving Him\)](https://open.spotify.com/track/1kzRVJJTAkCoNUOF8HGdKo) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Very Best Of](https://open.spotify.com/album/1wpMIDLFtpz8xrm37qY5MG) | 2:03 | 2026-07-05 |  |
 | [Lying To Myself](https://open.spotify.com/track/4oTR05VVXSgVEFmN374D61) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Alive & Kicking](https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc) | 4:01 | 2025-05-10 |  |
 | [Lying To Myself \- Digitally Remastered 1997](https://open.spotify.com/track/1wNKxbMVz1l1TLoZclQxKV) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La\-La Means I Love You](https://open.spotify.com/album/661re5NCCdkxHaCG3xv8k5) | 4:01 | 2022-05-25 | 2025-05-10 |
+| [Men Of Action](https://open.spotify.com/track/7irDIJGt9WOoqubDFPmmtf) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Delfonics Return \(45th Anniversary\)](https://open.spotify.com/album/42RVUn3rRhr3H2T3XvVzXH) | 4:40 | 2026-07-12 |  |
 | [My Girl \- Live](https://open.spotify.com/track/4dQALx6SrbgW8kJVYPysBu) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Ray, Goodman & Brown](https://open.spotify.com/artist/58U0OwuIViimy39WEbRbXh) | [The Delfonics vs Ray, Goodman & Brown Live In Concert](https://open.spotify.com/album/4VOJpxfPuOTxCxYBKe1QQ5) | 3:22 | 2022-11-05 | 2026-03-22 |
 | [My New Love](https://open.spotify.com/track/0GvFz5xC9ksgz44l7RrCK3) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 2:48 | 2022-05-25 |  |
 | [My World Revolves Around You](https://open.spotify.com/track/1Bb8niOtFuv0M07uCEDpvb) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Forever New](https://open.spotify.com/album/05OozttCHVJ9OdTRN07dFn) | 4:38 | 2022-05-25 | 2024-10-11 |
@@ -86,7 +87,7 @@
 | [She Said Don't Love Me \- Re\-Recorded In Stereo](https://open.spotify.com/track/7DStyvLev0PltiDhNFv8PN) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Best Of Delfonics](https://open.spotify.com/album/1kiAzVH4ZE4d1xlYnruP8i) | 4:12 | 2024-05-12 | 2025-09-26 |
 | [She's The Kinda Girl](https://open.spotify.com/track/3QXJsJ9R31nSo6uierSCeE) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Forever New](https://open.spotify.com/album/05OozttCHVJ9OdTRN07dFn) | 4:13 | 2022-05-25 | 2022-12-20 |
 | [Silently](https://open.spotify.com/track/5AaOh9npHduIYXum5x4JwJ) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/0ZZ5Hj5Ic5V21qpE84MV2M) | 2:37 | 2022-05-25 | 2024-04-12 |
-| [Silently](https://open.spotify.com/track/5C9qWjHTa94hQC1oy9gCu7) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy) | 2:37 | 2024-04-16 |  |
+| [Silently](https://open.spotify.com/track/5C9qWjHTa94hQC1oy9gCu7) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy) | 2:37 | 2024-04-16 | 2026-07-12 |
 | [So In Love With You](https://open.spotify.com/track/1MQpiyaJyWSdR9uQtXgdgq) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy) | 1:34 | 2024-04-14 | 2024-04-15 |
 | [So In Love With You](https://open.spotify.com/track/4EDAMQnjx5NqtdSMEhD8u9) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/0ZZ5Hj5Ic5V21qpE84MV2M) | 1:34 | 2024-04-08 | 2024-04-10 |
 | [Somebody Loves You \- Remastered](https://open.spotify.com/track/7LQlozny7nxRh3ZbtyCKlU) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 3:18 | 2022-05-25 |  |

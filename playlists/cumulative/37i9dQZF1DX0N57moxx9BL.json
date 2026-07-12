@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to the recent hits of Christian Rock.  Cover:  Stryper",
+  "description": "Listen to the recent hits of Christian Rock.  Cover:  Skillet",
   "name": "Top Christian Rock",
   "tracks": [
     {
@@ -2124,7 +2124,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 225617,
       "name": "FREE! - Live",
       "url": "https://open.spotify.com/track/6TK9UE4eODGbyimh0qEYoq"
@@ -3824,7 +3824,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 230064,
       "name": "Promise",
       "url": "https://open.spotify.com/track/6Q5YYS4lXSO77pnepu4Tte"
@@ -4203,6 +4203,24 @@
     },
     {
       "album": {
+        "name": "Sanctified",
+        "url": "https://open.spotify.com/album/6Rkffs1geVgsP47QDwbLAd"
+      },
+      "artists": [
+        {
+          "name": "Peyton Parrish",
+          "url": "https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178908,
+      "name": "Sanctified",
+      "url": "https://open.spotify.com/track/4Zz2zHzUEs0fZpx6BqzvLc"
+    },
+    {
+      "album": {
         "name": "Victorious",
         "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
       },
@@ -4236,6 +4254,24 @@
       "duration_ms": 179283,
       "name": "Scarlet",
       "url": "https://open.spotify.com/track/226x3SnfqKmWipiwilLE2G"
+    },
+    {
+      "album": {
+        "name": "Scream",
+        "url": "https://open.spotify.com/album/6fONg6IKy2vvl1oapOPrbj"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/7vYOEQfVkPtZ3JUKAhPVqU"
     },
     {
       "album": {
@@ -4873,6 +4909,24 @@
     },
     {
       "album": {
+        "name": "The Fool (Mayday)",
+        "url": "https://open.spotify.com/album/4dsTDV3MDxxl7QwiCpBmEW"
+      },
+      "artists": [
+        {
+          "name": "Nine Lashes",
+          "url": "https://open.spotify.com/artist/6L5kgEyFIlckHbMdRM2KXQ"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198925,
+      "name": "The Fool (Mayday)",
+      "url": "https://open.spotify.com/track/50ABhKqdsNqB9hLVnpCo5K"
+    },
+    {
+      "album": {
         "name": "The Light",
         "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
       },
@@ -5354,7 +5408,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 181990,
       "name": "Walking Into Fire",
       "url": "https://open.spotify.com/track/1KQXKOSfTYKsDNBVL4gXXo"

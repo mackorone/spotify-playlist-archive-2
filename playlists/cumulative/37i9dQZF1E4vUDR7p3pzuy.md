@@ -2,7 +2,7 @@
 
 ### [DePitcha Radio](https://open.spotify.com/playlist/37i9dQZF1E4vUDR7p3pzuy)
 
-> With MIK's Reaction, David Von Beahm, Shane Embury and more
+> With Hrafnsson, David Von Beahm, MIK's Reaction and more
 
 990 songs - 2 day 15 hr 5 min
 

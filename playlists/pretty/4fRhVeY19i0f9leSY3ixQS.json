@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1467,
+  "num_followers": 1472,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAARhV68Wed8Fn3V/Mi0Rq32PSgs3v1B",
+  "snapshot_id": "AAARiR41UGy7PcVfgP1PrY1rWStJHgC3",
   "tracks": [
     {
       "added_at": "2026-07-09 06:34:34",
@@ -1275,38 +1275,6 @@
       "duration_ms": 101043,
       "name": "Sullen Freak",
       "url": "https://open.spotify.com/track/1X1XPu1wrVyeDv1sGqK0bL"
-    },
-    {
-      "added_at": "2026-06-10 15:10:08",
-      "album": {
-        "name": "The Hidden Cove",
-        "url": "https://open.spotify.com/album/1Opb9UFDvzaENrKmFqPfcm"
-      },
-      "artists": [
-        {
-          "name": "Frog Fortress",
-          "url": "https://open.spotify.com/artist/1hCyCHuTSzpTuOURKNzYCb"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "The Hidden Cove",
-      "url": "https://open.spotify.com/track/3Xe8hb9NETJ5Iw4fjj9N9x"
-    },
-    {
-      "added_at": "2026-06-10 15:04:15",
-      "album": {
-        "name": "Motor Sands",
-        "url": "https://open.spotify.com/album/2bocN5xWCkwFF7zOIxgRoO"
-      },
-      "artists": [
-        {
-          "name": "Calima Fox",
-          "url": "https://open.spotify.com/artist/4QWak6ur6HXYTHgfgdSDbn"
-        }
-      ],
-      "duration_ms": 197086,
-      "name": "Beer Inside",
-      "url": "https://open.spotify.com/track/4d3t1JrapBN6NvZCYXnmGW"
     },
     {
       "added_at": "2026-04-28 11:28:21",
@@ -4707,6 +4675,42 @@
       "duration_ms": 186319,
       "name": "Fuzz Queen",
       "url": "https://open.spotify.com/track/74YY8wgwfoU4JC2Z0PaF7Y"
+    },
+    {
+      "added_at": "2026-07-11 07:00:51",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/5AzIGnmcpxAvmoKZBrqgiy"
+      },
+      "artists": [
+        {
+          "name": "Violet Fox",
+          "url": "https://open.spotify.com/artist/5JjEGMlCzQo4Iqmw6Dij1r"
+        },
+        {
+          "name": "Elvie Frances",
+          "url": "https://open.spotify.com/artist/55QwWJ6B1kMo8n0TT3f0TO"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/70HeeHIbisMrzyRgU4keeU"
+    },
+    {
+      "added_at": "2026-07-11 07:04:41",
+      "album": {
+        "name": "deceived",
+        "url": "https://open.spotify.com/album/4RntmhyWWyLjAWdfOI3Fth"
+      },
+      "artists": [
+        {
+          "name": "PUNKFICTION",
+          "url": "https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC"
+        }
+      ],
+      "duration_ms": 144705,
+      "name": "deceived",
+      "url": "https://open.spotify.com/track/5wYc5u1J7qUjmwLiHJRGZG"
     }
   ],
   "unique_name": "Spotify Radio",

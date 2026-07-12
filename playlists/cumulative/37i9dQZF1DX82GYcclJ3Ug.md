@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Cage The Elephant
 
-3,798 songs - 8 day 17 hr 28 min
+3,799 songs - 8 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2969,6 +2969,7 @@
 | [Somebody Like You](https://open.spotify.com/track/7jLAYW3N25Piy6lEI4WczE) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Somebody Like You](https://open.spotify.com/album/09LPF57on4STv8JhBAI6cd) | 3:20 | 2023-08-04 | 2023-09-23 |
 | [Somebody New](https://open.spotify.com/track/2LiviAFInHPHk1JRA1lp72) | [Tunde Adebimpe](https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9) | [Somebody New](https://open.spotify.com/album/4NPBqCu2MQ2ZRs1Qe2h8Sr) | 2:58 | 2025-04-18 | 2025-05-31 |
 | [Somebody's Son \(feat\. Lindsey Buckingham\)](https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Ask That God \(Deluxe\)](https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e) | 3:25 | 2025-01-24 | 2025-03-15 |
+| [Someday, Somewhere](https://open.spotify.com/track/20FqWsyuUaQTU5tk4nP6eN) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Someday, Somewhere](https://open.spotify.com/album/4FlY87oGWuZ49lYMVdofEj) | 2:31 | 2026-07-11 |  |
 | [Someone Who Can](https://open.spotify.com/track/4I67eSiBu1uekf8yYnJi7K) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Someone Who Can](https://open.spotify.com/album/7t914q200AnbbeomCdJU9L) | 3:45 | 2025-01-17 | 2025-03-22 |
 | [Something Drive](https://open.spotify.com/track/7FKjd4xCN6Im9tB7gqQz49) | [Post Animal](https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE) | [Iron \(Expansion Pack\)](https://open.spotify.com/album/187tru6tNXdhJH7wAT5d2t) | 4:09 | 2025-11-21 | 2026-01-17 |
 | [Something In The Air](https://open.spotify.com/track/7rvhBrHKRK7G4SJFgclkr7) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Something In The Air](https://open.spotify.com/album/2RoSPQyzfjJl6ADhGFUnhr) | 3:47 | 2024-10-04 | 2024-11-16 |

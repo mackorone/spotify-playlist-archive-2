@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Bowers. The essential tracks, all in one playlist.",
-  "num_followers": 2676,
+  "num_followers": 2677,
   "original_name": "This Is Kris Bowers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAAA7hM/2zl8s2etXivugDGDJ",
+  "snapshot_id": "alA2AAAAAAAxM3ZT2iG53LuM3DVDDJyR",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
       },
       "artists": [
         {
           "name": "Kris Bowers",
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        },
-        {
-          "name": "Tayla Parx",
-          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
         }
       ],
-      "duration_ms": 224500,
-      "name": "A Feeling I've Never Been",
-      "url": "https://open.spotify.com/track/6GheQyWRdAQAtXa4PMNNNG"
+      "duration_ms": 65078,
+      "name": "Main Title - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/79tCf5okCzsoZh8bhXXrJ7"
     },
     {
       "added_at": null,
@@ -156,9 +152,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 82002,
-      "name": "Hearts and Flowers Ball - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/60tThvmnpVzWnYkPNYMJzV"
+      "duration_ms": 98622,
+      "name": "Happy Endings Don't Exist - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/398ed7LmIlpfvgaNQMcd8D"
     },
     {
       "added_at": null,
@@ -195,18 +191,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
       },
       "artists": [
         {
           "name": "Kris Bowers",
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        },
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
         }
       ],
-      "duration_ms": 65078,
-      "name": "Main Title - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/79tCf5okCzsoZh8bhXXrJ7"
+      "duration_ms": 224500,
+      "name": "A Feeling I've Never Been",
+      "url": "https://open.spotify.com/track/6GheQyWRdAQAtXa4PMNNNG"
     },
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 98622,
-      "name": "Happy Endings Don't Exist - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/398ed7LmIlpfvgaNQMcd8D"
+      "duration_ms": 82002,
+      "name": "Hearts and Flowers Ball - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/60tThvmnpVzWnYkPNYMJzV"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 166746,
-      "name": "When You Are Alone",
-      "url": "https://open.spotify.com/track/2c44MBYwfnRj7WvSVlcM48"
+      "duration_ms": 147960,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/4I2MrWkzR21FzzciyCEPKF"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 83301,
-      "name": "Almost Kiss - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL"
+      "duration_ms": 152429,
+      "name": "Thank You - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/7DLgRYCtEARiOuZPYoWYfJ"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 152429,
-      "name": "Thank You - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/7DLgRYCtEARiOuZPYoWYfJ"
+      "duration_ms": 83301,
+      "name": "Almost Kiss - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL"
     }
   ],
   "unique_name": "This Is Kris Bowers",

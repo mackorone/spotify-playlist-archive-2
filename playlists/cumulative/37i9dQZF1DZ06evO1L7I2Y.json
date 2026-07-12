@@ -371,6 +371,36 @@
     },
     {
       "album": {
+        "name": "Duas Vezes",
+        "url": "https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3"
+      },
+      "artists": [
+        {
+          "name": "UCHA",
+          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
+        },
+        {
+          "name": "Niina",
+          "url": "https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Sonora Sessions",
+          "url": "https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160784,
+      "name": "Duas Vezes",
+      "url": "https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz"
+    },
+    {
+      "album": {
         "name": "Tudo Que Eu Sinto Faz Barulho",
         "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > youngs soundss 🥞 USSEL på forsiden
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,205 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,209 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 23 | [Udsving](https://open.spotify.com/track/5mali68oFTzZtYlDAR4cHX) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Udsving](https://open.spotify.com/album/6DBNLC079WFCQ6tH40cV08) | 3:08 |
 | 24 | [Var det dig, der var derinde?](https://open.spotify.com/track/4TxZbbcL8jAqjuonT6CUnJ) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw), [Sarah Wichmann](https://open.spotify.com/artist/51MYcyx50QTCOVGXeX3cfx) | [Var det dig, der var derinde?](https://open.spotify.com/album/4oQX9QIAhLMpqUEBEwomWb) | 4:15 |
 | 25 | [Gav Det Et Skud](https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Gav Det Et Skud](https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ) | 2:56 |
-| 26 | [Uendelighed](https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Uendelighed](https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX) | 2:53 |
-| 27 | [du forstår det, jeg forstår det ik](https://open.spotify.com/track/7DbJqU0Tj5Ti0kuUYuAJPp) | [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF) | [du forstår det, jeg forstår det ik](https://open.spotify.com/album/4TOYrvfkdwuEBAeK0KHv0y) | 2:59 |
+| 26 | [du forstår det, jeg forstår det ik](https://open.spotify.com/track/7DbJqU0Tj5Ti0kuUYuAJPp) | [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF) | [du forstår det, jeg forstår det ik](https://open.spotify.com/album/4TOYrvfkdwuEBAeK0KHv0y) | 2:59 |
+| 27 | [Uendelighed](https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Uendelighed](https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX) | 2:53 |
 | 28 | [Dødvande](https://open.spotify.com/track/4xmR81dksRzRinebqUDKb9) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Dødvande](https://open.spotify.com/album/0PjEG7TBeZ3o3pPEDwxFKL) | 2:10 |
 | 29 | [En Stor Lykkelig Familie](https://open.spotify.com/track/4djG0CzBPUSugXvokqz3mr) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [En Stor Lykkelig Familie](https://open.spotify.com/album/2EwuPoBKkcHDwIx6xTH4Vh) | 3:15 |
 | 30 | [Synger Bare](https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Synger Bare](https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO) | 1:47 |
-| 31 | [eeelluminagee](https://open.spotify.com/track/3CNH1O6Yxyw9Hx9ewlSRdy) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [eeelluminagee](https://open.spotify.com/album/5z0tTAvea9bCu1yO6g6VXM) | 3:28 |
-| 32 | [Bider Det I Mig](https://open.spotify.com/track/1Dq0FH27wkPeddOo3N57Pc) | [Lea Romea](https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb) | [Sweetheart](https://open.spotify.com/album/4WxyYrADTCr2OOuzX9AURz) | 2:48 |
+| 31 | [Bider Det I Mig](https://open.spotify.com/track/1Dq0FH27wkPeddOo3N57Pc) | [Lea Romea](https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb) | [Sweetheart](https://open.spotify.com/album/4WxyYrADTCr2OOuzX9AURz) | 2:48 |
+| 32 | [eeelluminagee](https://open.spotify.com/track/3CNH1O6Yxyw9Hx9ewlSRdy) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [eeelluminagee](https://open.spotify.com/album/5z0tTAvea9bCu1yO6g6VXM) | 3:28 |
 | 33 | [Sætter Sig Fast](https://open.spotify.com/track/0ueHqqPHinLsblBWQ0cjmW) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Sætter Sig Fast](https://open.spotify.com/album/6kPWRAW8tNgqcCyHMK6pM4) | 2:56 |
 | 34 | [Blue Flame](https://open.spotify.com/track/5R9utrfWW0T6GqAe3koh3o) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Play](https://open.spotify.com/album/4mveLQ3t7GKHwuKDShwgzx) | 3:03 |
 | 35 | [Mandag Til Fredag](https://open.spotify.com/track/2LA30t2wNFyjgvbyms415y) | [Asger](https://open.spotify.com/artist/63ROoz2PyporZ9RAkffc1d) | [Mandag Til Fredag](https://open.spotify.com/album/4RXOrQQ1XUGZkn4klKcIem) | 3:17 |
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 59 | [Før du siger farvel](https://open.spotify.com/track/4jiTmYrDMu2B8DH2Np3o2e) | [Loui Henderson](https://open.spotify.com/artist/6rkkXp7EUJhyE9K4jDFuc0) | [Før du siger farvel](https://open.spotify.com/album/0fdDLy5cZ6jo4Tznlibbby) | 3:05 |
 | 60 | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc) | [Cyd](https://open.spotify.com/artist/6JYcDUfoOtgxTCnAJU9O3A), [Ungklang](https://open.spotify.com/artist/4g6UJfNBiSyqnvK3sJOSnD) | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu) | 3:09 |
 | 61 | [Bitter](https://open.spotify.com/track/7jbGdPdS1cZmnGmJgIxsUK) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV), [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Bitter](https://open.spotify.com/album/5J6zC2NlbGa1tzjxwBCNPs) | 2:42 |
-| 62 | [Spring summer](https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Spring summer](https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4) | 2:08 |
-| 63 | [Ekkoer](https://open.spotify.com/track/48JWAZ5llPwoW51EdYKrYO) | [Laura Vejlby](https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ) | [Ekkoer](https://open.spotify.com/album/0iVMwoK9qjCMMFDariqDVa) | 2:41 |
-| 64 | [Ind I Solen](https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz) | [Kayak](https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz) | [Ind I Solen](https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b) | 3:47 |
+| 62 | [Ekkoer](https://open.spotify.com/track/48JWAZ5llPwoW51EdYKrYO) | [Laura Vejlby](https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ) | [Ekkoer](https://open.spotify.com/album/0iVMwoK9qjCMMFDariqDVa) | 2:41 |
+| 63 | [Ind I Solen](https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz) | [Kayak](https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz) | [Ind I Solen](https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b) | 3:47 |
+| 64 | [Spring summer](https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Spring summer](https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4) | 2:08 |
 | 65 | [sad song](https://open.spotify.com/track/550U3xKjOwcHU36I47JX5P) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [sad song](https://open.spotify.com/album/3M4kVE1218U6n9Qh6JQ03I) | 3:03 |
 | 66 | [Marianne og Henrik](https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Marianne og Henrik](https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr) | 3:00 |
-| 67 | [Starsound](https://open.spotify.com/track/6upj4Ru7egNLAHExBhdgYp) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8) | [Starsound](https://open.spotify.com/album/5LAbuBRSMKL4SvvCpRfvfd) | 4:45 |
-| 68 | [Klubben \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Pisk](https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1) | 3:50 |
+| 67 | [Klubben \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Pisk](https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1) | 3:50 |
+| 68 | [Starsound](https://open.spotify.com/track/6upj4Ru7egNLAHExBhdgYp) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8) | [Starsound](https://open.spotify.com/album/5LAbuBRSMKL4SvvCpRfvfd) | 4:45 |
 | 69 | [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 |
 | 70 | [Uden At Tænke På Dig](https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Bænkevarmer](https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd) | 3:54 |
 

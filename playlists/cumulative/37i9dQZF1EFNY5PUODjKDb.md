@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Qs9QUukNfAmA58YskIxQE">Andrew Lloyd Webber</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-1,176 songs - 3 day 0 hr 22 min
+1,177 songs - 3 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Arrival of the Trio / Are You Ready to Begin?](https://open.spotify.com/track/69JsqA0UXVD1ubbLCtFFM2) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) | [Love Never Dies \(Deluxe Version\)](https://open.spotify.com/album/6RBcfW2vYvHmu3VIXM1W0D) | 1:49 | 2025-11-02 |  |
 | [Artie Green's Apartment](https://open.spotify.com/track/6o4SbfsIW5XEjonr7hfk1k) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Kevin Anderson](https://open.spotify.com/artist/5RSJN1bL0BLhKKKCanj4Ym) | [Sunset Boulevard](https://open.spotify.com/album/5z6lAdhyx7jTBczvkn3sDq) | 0:29 | 2024-09-12 | 2025-11-03 |
 | [Artie Green's Apartment \- 2007 Remaster](https://open.spotify.com/track/2IcsIz06x6oAIsh0NwlRfq) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Kevin Anderson](https://open.spotify.com/artist/5RSJN1bL0BLhKKKCanj4Ym) | [Sunset Boulevard \(2007 Remaster\)](https://open.spotify.com/album/1dvNp1cKn1SLsj4IIQ6QTH) | 0:29 | 2025-11-02 |  |
-| [As If We Never Said Goodbye](https://open.spotify.com/track/3xJQNJIsIfQDNQxXJrvs5p) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee Season 2](https://open.spotify.com/album/0eRoA9qeSkxVcdznzbL1kB) | 4:54 | 2025-10-14 |  |
+| [As If We Never Said Goodbye](https://open.spotify.com/track/56iaNP2rfebKJjyr9uRkH7) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Back To Broadway](https://open.spotify.com/album/3SQ2Wb2xEwIYtqzqW43uif) | 4:45 | 2026-07-11 |  |
+| [As If We Never Said Goodbye](https://open.spotify.com/track/3xJQNJIsIfQDNQxXJrvs5p) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee Season 2](https://open.spotify.com/album/0eRoA9qeSkxVcdznzbL1kB) | 4:54 | 2025-10-14 | 2026-07-12 |
 | [As If We Never Said Goodbye](https://open.spotify.com/track/7BmY7k9iiOp7tILNYKBv6A) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 6](https://open.spotify.com/album/5nvqVolAZnL9C1i5j6qDKS) | 4:54 | 2024-07-24 | 2025-10-15 |
 | [Aspects of Aspects](https://open.spotify.com/track/18TnjGvzN9DlN3XUXJ4tSJ) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Orchester Der Vereinigten Buehnen Wien](https://open.spotify.com/artist/6sWxOGm8RZftjjFXY750WQ) | [Unmasked: The Platinum Collection \(Deluxe Version\)](https://open.spotify.com/album/6LtGgXUsMGZpEdAzUg70fD) | 3:32 | 2025-11-02 |  |
 | [Aspects Of Aspects \- From "Aspects Of Love"](https://open.spotify.com/track/48SAkxaNa1W5lih5haliY1) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Orchester Der Vereinigten Buehnen Wien](https://open.spotify.com/artist/6sWxOGm8RZftjjFXY750WQ) | [Unmasked: The Platinum Collection](https://open.spotify.com/album/3lrUcOtI2j4zSFUW4IIMI3) | 3:32 | 2024-07-24 | 2025-11-03 |

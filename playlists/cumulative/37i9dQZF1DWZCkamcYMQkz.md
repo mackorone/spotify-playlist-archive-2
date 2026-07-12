@@ -4,7 +4,7 @@
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-205 songs - 13 hr 55 min
+206 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Mack the Knife](https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great American Songbook](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) | 3:21 | 2021-12-16 | 2023-01-12 |
 | [Markham Sunrise](https://open.spotify.com/track/7u9obPhFU5UqeWBksk56lP) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [Markham Sunrise](https://open.spotify.com/album/0rgY5ot2AlZrAwXJhVyChZ) | 3:13 | 2026-01-16 |  |
 | [Morning Song](https://open.spotify.com/track/3J1nV9wNN9yPwU9Lqdu1bP) | [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj) | [Score](https://open.spotify.com/album/7yVEbFI27UQkjfYPzUueo3) | 4:09 | 2022-10-11 | 2022-10-26 |
-| [Morning Song](https://open.spotify.com/track/7HL4OAOuAdjgnfvaLy7iYJ) | [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj) | [Score](https://open.spotify.com/album/331gr9fv5S0JTKxVkMFQ16) | 4:09 | 2021-12-16 |  |
+| [Morning Song](https://open.spotify.com/track/7HL4OAOuAdjgnfvaLy7iYJ) | [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj) | [Score](https://open.spotify.com/album/331gr9fv5S0JTKxVkMFQ16) | 4:09 | 2021-12-16 | 2026-07-12 |
 | [Mountain Greenery \(From "Cafe Society" Soundtrack\)](https://open.spotify.com/track/1fLjpMWjiB9WavCBrPX1eH) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds), [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO), [Vince Giordano](https://open.spotify.com/artist/7vP4zvpQXJgKVcFeGNAxxI), [Nighthawks Orchestra](https://open.spotify.com/artist/1m12PvAi6HuXaSp9vPizwS) | [Cafe Society \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A) | 2:32 | 2021-12-16 |  |
 | [Moving Up](https://open.spotify.com/track/2TYYqUZF8AnpjlJhCLHXIQ) | [Wynton Kelly Trio](https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr) | [It's All Right!](https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad) | 3:52 | 2021-12-16 | 2022-03-05 |
 | [Mumbles](https://open.spotify.com/track/0sguFXNUDV7rZ9GYB9v1r2) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB), [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [Oscar Peterson's Finest Hour](https://open.spotify.com/album/7MvfuK2EXdoRXKpXtQqANP) | 2:01 | 2022-05-25 |  |
@@ -188,6 +188,7 @@
 | [The Way You Look Tonight](https://open.spotify.com/track/4jCoxXaEKeTWkQ7HL1d5de) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Two Of A Mind](https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn) | 7:21 | 2022-06-28 | 2022-11-09 |
 | [The Way You Look Tonight \- 2003 Remastered](https://open.spotify.com/track/7yYgBAj3yaMdTgq7fIvDlQ) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 7:19 | 2021-12-16 | 2022-07-29 |
 | [Thedia](https://open.spotify.com/track/1BOH3GRgTRZz7NITH4oEIG) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Thedia](https://open.spotify.com/album/5ccRhv2mXCgIgHY8RLWxQo) | 5:03 | 2023-10-25 |  |
+| [There Arno Answers](https://open.spotify.com/track/6PP2GqKolbQr2b6k7Rsd8X) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy), [Chris Hazelton](https://open.spotify.com/artist/4Uv6hrIClSOvSx1lEXQ2eB) | [There Arno Answers](https://open.spotify.com/album/5DCd9EdELNB0JofPKGnN2p) | 5:07 | 2026-07-10 |  |
 | [These Are The Days](https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:21 | 2021-12-16 | 2022-11-24 |
 | [They Can't Take That Away From Me](https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Past Midnight](https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr) | 2:52 | 2022-05-25 |  |
 | [They Say It's Spring](https://open.spotify.com/track/26HrzzmXbYEK6ImWVAd11A) | [Naama](https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg) | [They Say It's Spring](https://open.spotify.com/album/26t0RAPIJ1p8bq7l0IbSnQ) | 3:20 | 2026-05-22 |  |

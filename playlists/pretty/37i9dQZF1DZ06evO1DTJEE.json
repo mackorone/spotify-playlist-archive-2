@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 75642,
+  "num_followers": 75711,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAADw+vk3ALlWqUuQCPDzWq3Q",
+  "snapshot_id": "alA2AAAAAABGY7MEQUr0+DT2cGaqUJmt",
   "tracks": [
     {
       "added_at": null,
@@ -87,22 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlaws Like Us",
-        "url": "https://open.spotify.com/album/6PorC2h1FBX9xatc7ChceS"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "When She Comes Home Tonight",
-      "url": "https://open.spotify.com/track/3QE9qyQrIgefznSchAYJPB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Think As You Drunk",
         "url": "https://open.spotify.com/album/10I3RS2Ijy9GCVZZAVG7Al"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 228837,
       "name": "Think As You Drunk",
       "url": "https://open.spotify.com/track/20FhqUEadmPYCrJYzeyPSx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlaws Like Us",
+        "url": "https://open.spotify.com/album/6PorC2h1FBX9xatc7ChceS"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "When She Comes Home Tonight",
+      "url": "https://open.spotify.com/track/3QE9qyQrIgefznSchAYJPB"
     },
     {
       "added_at": null,
@@ -367,6 +367,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Go Again",
+        "url": "https://open.spotify.com/album/1DqoGBZHjDONQkSs5p1q2g"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Hannah McFarland",
+          "url": "https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp"
+        }
+      ],
+      "duration_ms": 240166,
+      "name": "Go Again",
+      "url": "https://open.spotify.com/track/6TLJax0EYimCJxCF1Zg69e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Hope She\u2019s Drinkin' Tonight / Get Back Home",
         "url": "https://open.spotify.com/album/4Q1aVUAcdCKiEUW5uTpYVl"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 202226,
       "name": "Get That Man A Beer",
       "url": "https://open.spotify.com/track/5xYI4ZcyAHq3ruRnFazHnN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Go Again",
-        "url": "https://open.spotify.com/album/1DqoGBZHjDONQkSs5p1q2g"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Hannah McFarland",
-          "url": "https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp"
-        }
-      ],
-      "duration_ms": 240166,
-      "name": "Go Again",
-      "url": "https://open.spotify.com/track/6TLJax0EYimCJxCF1Zg69e"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Behind The Bar",
-        "url": "https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "I Let A Damn Good Woman Leave",
-      "url": "https://open.spotify.com/track/43ooMII6qHAgHEiFNSrtYa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different 'Round Here",
         "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 203426,
       "name": "Break Up More Often",
       "url": "https://open.spotify.com/track/6FpSqJRS0786oDMKIDqISd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Behind The Bar",
+        "url": "https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "I Let A Damn Good Woman Leave",
+      "url": "https://open.spotify.com/track/43ooMII6qHAgHEiFNSrtYa"
     },
     {
       "added_at": null,

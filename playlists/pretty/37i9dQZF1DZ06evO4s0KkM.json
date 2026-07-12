@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 126921,
+  "num_followers": 126931,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAADtFPgI0TBNr9FrlsdqWDUR",
+  "snapshot_id": "alA2AAAAAAA0ZtRRM5D84KVuzcI5apBC",
   "tracks": [
     {
       "added_at": null,
@@ -203,18 +203,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Warrior's Code",
-        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+        "name": "The Body of an American",
+        "url": "https://open.spotify.com/album/0iaPQBQimR1fOSV9RajVnK"
       },
       "artists": [
         {
           "name": "Dropkick Murphys",
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "Shane MacGowan",
+          "url": "https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv"
         }
       ],
-      "duration_ms": 285640,
-      "name": "The Green Fields Of France (No Man's Land)",
-      "url": "https://open.spotify.com/track/2PNjn68WCzvsJwAc37eFki"
+      "duration_ms": 258393,
+      "name": "The Body of an American",
+      "url": "https://open.spotify.com/track/0ssRHJddqgoCbkzUIp7wUx"
     },
     {
       "added_at": null,
@@ -235,22 +239,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Body of an American",
-        "url": "https://open.spotify.com/album/0iaPQBQimR1fOSV9RajVnK"
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
       },
       "artists": [
         {
           "name": "Dropkick Murphys",
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        },
-        {
-          "name": "Shane MacGowan",
-          "url": "https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv"
         }
       ],
-      "duration_ms": 258393,
-      "name": "The Body of an American",
-      "url": "https://open.spotify.com/track/0ssRHJddqgoCbkzUIp7wUx"
+      "duration_ms": 285640,
+      "name": "The Green Fields Of France (No Man's Land)",
+      "url": "https://open.spotify.com/track/2PNjn68WCzvsJwAc37eFki"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The People (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
+        "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 173897,
-      "name": "The Big Man",
-      "url": "https://open.spotify.com/track/5hIsGzPEQzRHFvqdwtSAaS"
+      "duration_ms": 140693,
+      "name": "Peg O' My Heart",
+      "url": "https://open.spotify.com/track/46zP5b35ipdZE4dj619sAY"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going Out In Style",
-        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 140693,
-      "name": "Peg O' My Heart",
-      "url": "https://open.spotify.com/track/46zP5b35ipdZE4dj619sAY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For The People (Expanded Edition)",
         "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
       },
@@ -626,15 +610,11 @@
         {
           "name": "Dropkick Murphys",
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        },
-        {
-          "name": "The Mary Wallopers",
-          "url": "https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2"
         }
       ],
-      "duration_ms": 207017,
-      "name": "Bury the Bones",
-      "url": "https://open.spotify.com/track/5wdLUPPInvXkpWKGpgqjry"
+      "duration_ms": 173897,
+      "name": "The Big Man",
+      "url": "https://open.spotify.com/track/5hIsGzPEQzRHFvqdwtSAaS"
     },
     {
       "added_at": null,
@@ -687,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "For The People (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "The Mary Wallopers",
+          "url": "https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2"
+        }
+      ],
+      "duration_ms": 207017,
+      "name": "Bury the Bones",
+      "url": "https://open.spotify.com/track/5wdLUPPInvXkpWKGpgqjry"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Turn Up That Dial (Expanded Version)",
         "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
       },
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going Out In Style",
-        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
+        "name": "The Meanest of Times (Limited Edition)",
+        "url": "https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 303333,
-      "name": "Broken Hymns",
-      "url": "https://open.spotify.com/track/2OMqDQENvS5CF7UN0wQJT4"
+      "duration_ms": 166973,
+      "name": "Famous For Nothing",
+      "url": "https://open.spotify.com/track/01EUW7oVCUNwnBV1yRb3dE"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "Broken Hymns",
+      "url": "https://open.spotify.com/track/2OMqDQENvS5CF7UN0wQJT4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For The People (Expanded Edition)",
         "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 181843,
       "name": "Kids Games",
       "url": "https://open.spotify.com/track/5UnLR6CQCp7036oqYP5MVo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Meanest of Times (Limited Edition)",
-        "url": "https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 166973,
-      "name": "Famous For Nothing",
-      "url": "https://open.spotify.com/track/01EUW7oVCUNwnBV1yRb3dE"
     },
     {
       "added_at": null,

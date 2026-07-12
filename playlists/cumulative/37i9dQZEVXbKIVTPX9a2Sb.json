@@ -228,7 +228,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-08",
+      "date_removed": null,
       "duration_ms": 331849,
       "name": "10 Min\u00fat",
       "url": "https://open.spotify.com/track/3GAD4OTfUu4k5Y3euOFYat"
@@ -2308,6 +2308,36 @@
       "duration_ms": 163636,
       "name": "Amsterdam (feat. Calin)",
       "url": "https://open.spotify.com/track/3Nw0MqRDVlJVuT7XGqObkZ"
+    },
+    {
+      "album": {
+        "name": "ANAN\u00c1S",
+        "url": "https://open.spotify.com/album/2oBHmGTAETdFzSSi84he5N"
+      },
+      "artists": [
+        {
+          "name": "Irit",
+          "url": "https://open.spotify.com/artist/5yMu1Ef5lm19VGBlXKuZs5"
+        },
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        },
+        {
+          "name": "SMART",
+          "url": "https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf"
+        },
+        {
+          "name": "Minimo",
+          "url": "https://open.spotify.com/artist/2heB59bkrxgDiVO9CcRqOd"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "ANAN\u00c1S",
+      "url": "https://open.spotify.com/track/4nQ1cUU8PBRp2ubIpmsgCG"
     },
     {
       "album": {
@@ -4844,7 +4874,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 258296,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
@@ -33726,7 +33756,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 149538,
       "name": "nikto ako my",
       "url": "https://open.spotify.com/track/2M9vtafpahKq5FxGAFwAzy"
@@ -41880,7 +41910,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-09",
+      "date_removed": null,
       "duration_ms": 243600,
       "name": "S&M",
       "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
@@ -55446,7 +55476,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 139000,
       "name": "WTF",
       "url": "https://open.spotify.com/track/69E0EPZES6ALHdDkBAVu6z"

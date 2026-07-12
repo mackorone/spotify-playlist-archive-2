@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Tristeza latina
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,026 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,035 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,23 +34,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 24 | [Aniversários São Difíceis](https://open.spotify.com/track/0RgZbsnGWKQ0sgfImPl5WY) | [El Toro Fuerte](https://open.spotify.com/artist/2YElQs97LTX6gn5Td89FaQ) | [Nossos Amigos e os Lugares Que Visitamos](https://open.spotify.com/album/24YfO3Xo7TaMG8yKVOdtvL) | 6:21 |
 | 25 | [Orquídeas](https://open.spotify.com/track/0uNYFj02U52kOYTJAhzJNN) | [Hummm](https://open.spotify.com/artist/5Nd5eFtrvfMLHmA78iGmT7) | [Orquídeas](https://open.spotify.com/album/6BvXv0f2qbNI9aC1iKAs62) | 3:01 |
 | 26 | [Mata a Tus Ídolos](https://open.spotify.com/track/4dDCXjTjgKkCVOjjl3ii3D) | [recuerdo acariciar con miedo las alas de un ave herida](https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu) | [S / T](https://open.spotify.com/album/6S6Q0edwnbjdImKoXgkoVB) | 1:48 |
-| 27 | [Otro Verano Campeón](https://open.spotify.com/track/7A1SZwl3Mu3bHsLZS8TAKX) | [Mantarrayas](https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1) | [Otro Verano Campeón](https://open.spotify.com/album/4bKaJz4t3GkWjC6s2fOpBt) | 3:06 |
-| 28 | [El Club Internacional de Astronautas Fracasados](https://open.spotify.com/track/2bsHVINiqIvuj0kIsP3yHT) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [Y Si un Día Explota el Planeta Quiero Tenerte Cerca](https://open.spotify.com/album/2QMRKiGFJXe93CzuQaxvZy) | 3:54 |
+| 27 | [El Club Internacional de Astronautas Fracasados](https://open.spotify.com/track/2bsHVINiqIvuj0kIsP3yHT) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [Y Si un Día Explota el Planeta Quiero Tenerte Cerca](https://open.spotify.com/album/2QMRKiGFJXe93CzuQaxvZy) | 3:54 |
+| 28 | [Otro Verano Campeón](https://open.spotify.com/track/7A1SZwl3Mu3bHsLZS8TAKX) | [Mantarrayas](https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1) | [Otro Verano Campeón](https://open.spotify.com/album/4bKaJz4t3GkWjC6s2fOpBt) | 3:06 |
 | 29 | [Parálisis del Sueño](https://open.spotify.com/track/3OgIhXydbvv8KV6lpyT3gx) | [Corriendo](https://open.spotify.com/artist/1PL7VVHo2DOSgg3Ak6S29w) | [Omelette Du Fromage](https://open.spotify.com/album/2PbgzSvLi7z46n6WKiL4kK) | 2:30 |
 | 30 | [Ave](https://open.spotify.com/track/1C0JTISdpWiw1rGLNIs5UU) | [Dejaré que me apuñales](https://open.spotify.com/artist/4QbKlV4BEvPWy1ivGBRdPJ) | [Jardines Próximos](https://open.spotify.com/album/0MEUick8L0S9ZXZrVcdmsa) | 2:52 |
 | 31 | [pasan los días](https://open.spotify.com/track/0gndtLhT5ExWIKmRJo6TUx) | [Gol Olímpico](https://open.spotify.com/artist/6bLnqm1VnANrrGcZPfou2C) | [pasan los días](https://open.spotify.com/album/4JEbDeeXUEQ97zkDFGcQLK) | 2:44 |
-| 32 | [Fantasmas en Casa](https://open.spotify.com/track/43ghfQUS2whU1tTyyPL9H4) | [Películas como Juno](https://open.spotify.com/artist/4xb8uZ6aiaVBeypI8rGal8) | [Fantasmas en Casa](https://open.spotify.com/album/36BLAYZliGj9SE4bOtlenX) | 3:00 |
-| 33 | [Está Nublado y Tengo Calor](https://open.spotify.com/track/788chCGIQr4PgMByHndKyH) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [Está Nublado y Tengo Calor](https://open.spotify.com/album/01hmWHaiegbjJAYcEXnmEQ) | 3:05 |
+| 32 | [Está Nublado y Tengo Calor](https://open.spotify.com/track/788chCGIQr4PgMByHndKyH) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [Está Nublado y Tengo Calor](https://open.spotify.com/album/01hmWHaiegbjJAYcEXnmEQ) | 3:05 |
+| 33 | [Fantasmas en Casa](https://open.spotify.com/track/43ghfQUS2whU1tTyyPL9H4) | [Películas como Juno](https://open.spotify.com/artist/4xb8uZ6aiaVBeypI8rGal8) | [Fantasmas en Casa](https://open.spotify.com/album/36BLAYZliGj9SE4bOtlenX) | 3:00 |
 | 34 | [Míráme](https://open.spotify.com/track/59vdxakMPGSDidajykh9sa) | [Buh](https://open.spotify.com/artist/6QWJGmTjhSkRhtOcNWJJat) | [El Split de Buh & Millones de Colores](https://open.spotify.com/album/7KNtgrH3CJojbrDzBtePCR) | 0:54 |
 | 35 | [fluya +](https://open.spotify.com/track/29RMIfhBVpZ05aPaR1oGVc) | [prado norte](https://open.spotify.com/artist/401yTJ8VYSgtLSeVfr3AjB) | [fluya +](https://open.spotify.com/album/5CXiG2ciD1cWf2pgfL00nX) | 4:02 |
 | 36 | [Estallar](https://open.spotify.com/track/76lfQ80UnsyvJDxRbKOs3w) | [Inválido](https://open.spotify.com/artist/7xVdVY75NJnzJ2OLmV22Sq) | [Todo el Silencio](https://open.spotify.com/album/0DFXz6haQbrLCMD1kYMHnL) | 5:50 |
-| 37 | [Principio de Siglo](https://open.spotify.com/track/5yC06ptF9OlI2krZRj0B8U) | [Las Armas](https://open.spotify.com/artist/2c8uad9zaUCSYzh2K2QPi7) | [Principio de Siglo](https://open.spotify.com/album/2JpjjKhUGPEG0rmYNvAIGu) | 3:00 |
-| 38 | [Harakiri Shogun Pt.2](https://open.spotify.com/track/0Gv2BKKQDks4D0OWCptU53) | [Entrelobos](https://open.spotify.com/artist/48DFXshrt8ll6PfYaOcoCJ) | [Golden Boy](https://open.spotify.com/album/4eqQmv2QmIfFjqG7c3mAts) | 3:11 |
+| 37 | [Harakiri Shogun Pt.2](https://open.spotify.com/track/0Gv2BKKQDks4D0OWCptU53) | [Entrelobos](https://open.spotify.com/artist/48DFXshrt8ll6PfYaOcoCJ) | [Golden Boy](https://open.spotify.com/album/4eqQmv2QmIfFjqG7c3mAts) | 3:11 |
+| 38 | [Principio de Siglo](https://open.spotify.com/track/5yC06ptF9OlI2krZRj0B8U) | [Las Armas](https://open.spotify.com/artist/2c8uad9zaUCSYzh2K2QPi7) | [Principio de Siglo](https://open.spotify.com/album/2JpjjKhUGPEG0rmYNvAIGu) | 3:00 |
 | 39 | [Comenzar De Cero](https://open.spotify.com/track/6nzIedKdHdAiz8iZa5fHU5) | [Congelador](https://open.spotify.com/artist/3OggS6Lzuzojyvd8t8ZAat) | [Panorama Neutral](https://open.spotify.com/album/4TMvWBmWr1WTTBIPzsLGul) | 3:22 |
 | 40 | [No nos van a callar](https://open.spotify.com/track/3Y56kpqQAS7BflTNUG6mLA) | [Veritas](https://open.spotify.com/artist/43Nm1V8WR2FRJXkKC7KEYP) | [Marinero](https://open.spotify.com/album/1drhNMm9fWNwt94H5o0c6n) | 5:23 |
 | 41 | [No Vi Mas Allá](https://open.spotify.com/track/5GZwj712P5AjwwsBGNdoa4) | [no somos lo que fuimos](https://open.spotify.com/artist/0DGmPI6KNfMZHJFf6ePM8A) | [Para Bien / Para Mal, Vol\. 1](https://open.spotify.com/album/0ph7JhSEApz6gCwbeT0eXS) | 4:21 |
-| 42 | [Doctrina](https://open.spotify.com/track/4c28N3w0jxzuYoqk6faW8X) | [Las Armas](https://open.spotify.com/artist/2c8uad9zaUCSYzh2K2QPi7) | [De Lo Espiritual en la Música](https://open.spotify.com/album/4h8oNmAVeEnsXroRRc2ki1) | 2:24 |
-| 43 | [Tornado de Acuña](https://open.spotify.com/track/7bITaqPtYc9kRKkK0Krziy) | [Mantarrayas](https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1) | [Tornado de Acuña](https://open.spotify.com/album/39byPs7qMGRNyepDn9E1JK) | 2:42 |
+| 42 | [Tornado de Acuña](https://open.spotify.com/track/7bITaqPtYc9kRKkK0Krziy) | [Mantarrayas](https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1) | [Tornado de Acuña](https://open.spotify.com/album/39byPs7qMGRNyepDn9E1JK) | 2:42 |
+| 43 | [Doctrina](https://open.spotify.com/track/4c28N3w0jxzuYoqk6faW8X) | [Las Armas](https://open.spotify.com/artist/2c8uad9zaUCSYzh2K2QPi7) | [De Lo Espiritual en la Música](https://open.spotify.com/album/4h8oNmAVeEnsXroRRc2ki1) | 2:24 |
 | 44 | [3k](https://open.spotify.com/track/1B9QARNqTkzIUosalq7d7g) | [Kumatora](https://open.spotify.com/artist/22c7RZg1HnmhTs96YEJLYs) | [lo único incómodo \(es\) que nos vamos a encontrar](https://open.spotify.com/album/5QKRBZ05aG8NOQIqsz0oPx) | 1:44 |
 | 45 | [Kabuki](https://open.spotify.com/track/4Sf7foZWDZXcsiFCFKIsTC) | [Fiesta Bizarra](https://open.spotify.com/artist/4LJsadS7NTK4pjcXkNu5Zu) | [LaFlor Records Vol\. 1](https://open.spotify.com/album/6BV2gv6qZ37d4gD4eWRygX) | 1:05 |
 | 46 | [Todo es igual](https://open.spotify.com/track/6nzCwtaxALVq9ttc2hHwYT) | [Dan Taylor MX](https://open.spotify.com/artist/3XMLtLBrACQZcPO846w2Ri) | [IV](https://open.spotify.com/album/5vEJgoBOUoxPGyIFQN71k6) | 2:12 |

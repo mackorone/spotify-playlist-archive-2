@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-219 songs - 12 hr 17 min
+220 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Criminal](https://open.spotify.com/track/1E7DCfac2ez9Lr9vwzFmH0) | [Dales](https://open.spotify.com/artist/102trktxAbjTJFnGszYTpU) | [Lovember](https://open.spotify.com/album/0AwjoK6YsCLevNRGxWAdAk) | 3:28 | 2026-05-19 |  |
 | [Dead Man Walking](https://open.spotify.com/track/1z5YtEopKg5pyjCM3BEsr5) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [The Story's Not Over](https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3) | 3:07 | 2026-05-19 |  |
 | [Diamonds](https://open.spotify.com/track/1Tpz82z8hXuFKlAxHVCuA1) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:23 | 2026-05-19 |  |
+| [Didn't I](https://open.spotify.com/track/7jhCqJlmx37u8o0xo2bjaj) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:38 | 2026-07-11 |  |
 | [Didn't I?](https://open.spotify.com/track/6McgYCZQifHoKNw9twZKw0) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/1zK6DiSD46bOoBoXyG6Jzp) | 2:50 | 2026-05-19 |  |
 | [Do For Love](https://open.spotify.com/track/0Oas9Rbqxv0FD7HZvSYgIH) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Jesus People](https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5) | 3:37 | 2026-05-19 |  |
 | [Don't](https://open.spotify.com/track/1tW6HQBe1a13zPkrmTBD0t) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [When Was The Last Time](https://open.spotify.com/album/6SVzzB0SnMlBXcHsmhNxzC) | 3:54 | 2026-05-19 |  |

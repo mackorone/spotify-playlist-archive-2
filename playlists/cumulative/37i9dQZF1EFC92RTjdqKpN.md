@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-246 songs - 13 hr 17 min
+247 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Don't Look Down \(feat\. Usher\)](https://open.spotify.com/track/5M9jOReAKGZ2AttVefFjTY) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Don't Look Down \(feat\. Usher\)](https://open.spotify.com/album/7e4eCJT5ON1FpJD5Si341e) | 3:43 | 2024-02-27 |  |
 | [Dopamine](https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Dopamine](https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX) | 2:59 | 2024-02-27 |  |
 | [Drop Top Sleigh Ride \(with Tyga\)](https://open.spotify.com/track/2qVCRYKDLRWpMXhpLR09O3) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:20 | 2024-02-27 |  |
+| [Energy](https://open.spotify.com/track/6pBkDdHNn7xujkpXYxqE2f) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Official FIFA World Cup 2026™ Album](https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT) | 3:01 | 2026-07-11 |  |
 | [Every Night](https://open.spotify.com/track/4pIhySEQSAc1u8Aa3edT3M) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ), [Sarah Hudson](https://open.spotify.com/artist/11S3x86ILlsuCBil6EmDo2) | [The Return \(Deadly Deluxe\)](https://open.spotify.com/album/4pAQW3M2Fe7jNTBe64CtKX) | 3:19 | 2024-07-21 |  |
 | [Evolve](https://open.spotify.com/track/1GYD0A2nWDmEB0lZp1GvSM) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:22 | 2025-11-16 |  |
 | [Father's Son](https://open.spotify.com/track/3kr37obFLPyn8bX9CHSCnP) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Father's Son](https://open.spotify.com/album/0Ti3d4vzU1JZd0kPhhRh4G) | 3:54 | 2024-02-27 |  |

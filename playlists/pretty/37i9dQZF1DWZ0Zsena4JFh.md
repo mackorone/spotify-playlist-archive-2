@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > Kelela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,184 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,171 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 45 | [Talk On The Hill](https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Talk On The Hill](https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y) | 3:27 |
 | 46 | [The Waves \(feat\. Solann\)](https://open.spotify.com/track/0Hcr3kdSB9NVQmFckRsgSD) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb), [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [The Waves \(feat\. Solann\)](https://open.spotify.com/album/2xhsIO7LVY0B6ELCQgiupH) | 5:29 |
 | 47 | [Sweet Hallelujah](https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sweet Hallelujah](https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0) | 3:02 |
-| 48 | [rain in the sunset](https://open.spotify.com/track/1jXk0WkZ70LqDFJ4MRTtom) | [Stevie Daniels](https://open.spotify.com/artist/4TgARZl7cImJgmnnz6dPDK), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [rain in the sunset](https://open.spotify.com/album/6dfHxqfLgCsbOP2ea1zrAn) | 2:56 |
-| 49 | [Fade Into You](https://open.spotify.com/track/37kGpZDrqQekpIQswHYHw6) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt), [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Fade Into You](https://open.spotify.com/album/1hBXcVtSiaYkflIiqjQfAV) | 4:29 |
-| 50 | [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 |
+| 48 | [delicate](https://open.spotify.com/track/6YBLmU3kjppbQx3GjP2Q5y) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [delicate](https://open.spotify.com/album/1QMIHpWtsRn6ajIqBoChA0) | 3:02 |
+| 49 | [rain in the sunset](https://open.spotify.com/track/1jXk0WkZ70LqDFJ4MRTtom) | [Stevie Daniels](https://open.spotify.com/artist/4TgARZl7cImJgmnnz6dPDK), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [rain in the sunset](https://open.spotify.com/album/6dfHxqfLgCsbOP2ea1zrAn) | 2:56 |
+| 50 | [Fade Into You](https://open.spotify.com/track/37kGpZDrqQekpIQswHYHw6) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt), [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Fade Into You](https://open.spotify.com/album/1hBXcVtSiaYkflIiqjQfAV) | 4:29 |
 
 Snapshot ID: `AAAAALx9HB3xGyjjGV4fp7yYJT7T4WcI`

@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 325712,
+  "num_followers": 325711,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-07-10 10:27:04",
       "album": {
+        "name": "Seratonin",
+        "url": "https://open.spotify.com/album/2tfGijTAeg0sZ7v6CUwOpj"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 115652,
+      "name": "Seratonin",
+      "url": "https://open.spotify.com/track/0SZKacJ8DMFQjmdUfSJX2C"
+    },
+    {
+      "added_at": "2026-07-10 10:27:04",
+      "album": {
         "name": "Somedays",
         "url": "https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 207168,
       "name": "Somedays",
       "url": "https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB"
-    },
-    {
-      "added_at": "2026-07-10 10:27:04",
-      "album": {
-        "name": "Seratonin",
-        "url": "https://open.spotify.com/album/2tfGijTAeg0sZ7v6CUwOpj"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 115652,
-      "name": "Seratonin",
-      "url": "https://open.spotify.com/track/0SZKacJ8DMFQjmdUfSJX2C"
     },
     {
       "added_at": "2026-07-10 10:27:04",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-07-10 10:27:04",
       "album": {
+        "name": "Pretty Green Eyes (Remixes)",
+        "url": "https://open.spotify.com/album/58OdGlUwUexxHJP8lp6QWk"
+      },
+      "artists": [
+        {
+          "name": "Ultrabeat",
+          "url": "https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Pretty Green Eyes - Radio Edit",
+      "url": "https://open.spotify.com/track/71NJqORRmwlcZSLk0VsFjU"
+    },
+    {
+      "added_at": "2026-07-10 10:27:04",
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 197549,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8"
-    },
-    {
-      "added_at": "2026-07-10 10:27:04",
-      "album": {
-        "name": "Pretty Green Eyes (Remixes)",
-        "url": "https://open.spotify.com/album/58OdGlUwUexxHJP8lp6QWk"
-      },
-      "artists": [
-        {
-          "name": "Ultrabeat",
-          "url": "https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Pretty Green Eyes - Radio Edit",
-      "url": "https://open.spotify.com/track/71NJqORRmwlcZSLk0VsFjU"
     },
     {
       "added_at": "2026-07-10 10:27:04",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2026-07-10 10:27:04",
       "album": {
-        "name": "My Loving",
-        "url": "https://open.spotify.com/album/2HBmhLOs1tpnr1KGvJd6B3"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Chrystal",
-          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
-        }
-      ],
-      "duration_ms": 170213,
-      "name": "My Loving",
-      "url": "https://open.spotify.com/track/49sL5BeNMirG6Fy4mBd8Fg"
-    },
-    {
-      "added_at": "2026-07-10 10:27:04",
-      "album": {
         "name": "Favour",
         "url": "https://open.spotify.com/album/7EuOzXLRWg4G575PupWcPs"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 194890,
       "name": "Favour",
       "url": "https://open.spotify.com/track/7oNqFOek4W2px8jzrK4BxF"
+    },
+    {
+      "added_at": "2026-07-10 10:27:04",
+      "album": {
+        "name": "My Loving",
+        "url": "https://open.spotify.com/album/2HBmhLOs1tpnr1KGvJd6B3"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        }
+      ],
+      "duration_ms": 170213,
+      "name": "My Loving",
+      "url": "https://open.spotify.com/track/49sL5BeNMirG6Fy4mBd8Fg"
     },
     {
       "added_at": "2026-07-10 10:27:04",

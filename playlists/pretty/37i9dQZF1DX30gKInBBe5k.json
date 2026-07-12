@@ -1,6 +1,6 @@
 {
   "description": "a hardcore home for slowcore fans.",
-  "num_followers": 212113,
+  "num_followers": 212110,
   "original_name": "slowcore",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "talking to flowers",
-        "url": "https://open.spotify.com/album/3hvoe7LxHmqZ2TlTvMxObi"
-      },
-      "artists": [
-        {
-          "name": "porch kiss",
-          "url": "https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT"
-        }
-      ],
-      "duration_ms": 123047,
-      "name": "talking to flowers",
-      "url": "https://open.spotify.com/track/4iSLT1H9AP6UHAXuPnQPMN"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Things We Lost in the Fire",
         "url": "https://open.spotify.com/album/3YWmAFuOtr9YIDdqJ2Gius"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 279066,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/5MLBottNJ4s4yL6t9sIryD"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "talking to flowers",
+        "url": "https://open.spotify.com/album/3hvoe7LxHmqZ2TlTvMxObi"
+      },
+      "artists": [
+        {
+          "name": "porch kiss",
+          "url": "https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT"
+        }
+      ],
+      "duration_ms": 123047,
+      "name": "talking to flowers",
+      "url": "https://open.spotify.com/track/4iSLT1H9AP6UHAXuPnQPMN"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 344160,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/10dTTsgL5hPujRahg22tan"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 274475,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 344160,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/10dTTsgL5hPujRahg22tan"
     },
     {
       "added_at": "2025-08-07 23:00:59",

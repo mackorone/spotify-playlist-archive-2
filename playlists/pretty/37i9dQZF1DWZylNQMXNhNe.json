@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Katy da Voz e As Abusadas",
-  "num_followers": 249135,
+  "num_followers": 249134,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-06-26 03:00:31",
       "album": {
+        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
+        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 159886,
+      "name": "Amor Pilantra - Ao Vivo",
+      "url": "https://open.spotify.com/track/3L2nBtkcFL5lzu2U6ipBnG"
+    },
+    {
+      "added_at": "2026-06-26 03:00:31",
+      "album": {
         "name": "VITA'S HOUSE",
         "url": "https://open.spotify.com/album/5D6uIJOGZdsBvlbejGbdFr"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 153824,
       "name": "20K",
       "url": "https://open.spotify.com/track/2Fh08SKc6XQIFSX0JC7DLr"
-    },
-    {
-      "added_at": "2026-06-26 03:00:31",
-      "album": {
-        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
-        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 159886,
-      "name": "Amor Pilantra - Ao Vivo",
-      "url": "https://open.spotify.com/track/3L2nBtkcFL5lzu2U6ipBnG"
     },
     {
       "added_at": "2026-06-26 03:00:31",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-06-26 03:00:31",
       "album": {
+        "name": "Party Everyday",
+        "url": "https://open.spotify.com/album/2EXPXnfrcczGcIMTxOMx2L"
+      },
+      "artists": [
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "duration_ms": 137681,
+      "name": "Party Everyday",
+      "url": "https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR"
+    },
+    {
+      "added_at": "2026-06-26 03:00:31",
+      "album": {
         "name": "MARIA BOA",
         "url": "https://open.spotify.com/album/0vhlv7mf7AhnRsnjzgj4Db"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 218035,
       "name": "Acaso",
       "url": "https://open.spotify.com/track/3QEvHxPziDqOeCYLAzOeCA"
-    },
-    {
-      "added_at": "2026-06-26 03:00:31",
-      "album": {
-        "name": "Party Everyday",
-        "url": "https://open.spotify.com/album/2EXPXnfrcczGcIMTxOMx2L"
-      },
-      "artists": [
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
-        }
-      ],
-      "duration_ms": 137681,
-      "name": "Party Everyday",
-      "url": "https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR"
     },
     {
       "added_at": "2026-06-26 03:00:31",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-06-26 03:00:31",
       "album": {
-        "name": "Volta",
-        "url": "https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk"
-      },
-      "artists": [
-        {
-          "name": "J\u00e1der",
-          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
-        },
-        {
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
-        }
-      ],
-      "duration_ms": 127600,
-      "name": "Volta",
-      "url": "https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G"
-    },
-    {
-      "added_at": "2026-06-26 03:00:31",
-      "album": {
         "name": "Deixa a Gira Girar",
         "url": "https://open.spotify.com/album/7ufhsTfziKNTbMmSyu8LAS"
       },
@@ -895,18 +875,22 @@
     {
       "added_at": "2026-06-26 03:00:31",
       "album": {
-        "name": "Dilema",
-        "url": "https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b"
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk"
       },
       "artists": [
         {
-          "name": "Rico Dalasam",
-          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
+          "name": "J\u00e1der",
+          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
+        },
+        {
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
         }
       ],
-      "duration_ms": 186461,
-      "name": "Dilema",
-      "url": "https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A"
+      "duration_ms": 127600,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G"
     },
     {
       "added_at": "2026-06-26 03:00:31",
@@ -931,6 +915,22 @@
       "duration_ms": 180004,
       "name": "CUSSY",
       "url": "https://open.spotify.com/track/4Hoc1S0s6cZtni6ghIytDX"
+    },
+    {
+      "added_at": "2026-06-26 03:00:31",
+      "album": {
+        "name": "Dilema",
+        "url": "https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b"
+      },
+      "artists": [
+        {
+          "name": "Rico Dalasam",
+          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Dilema",
+      "url": "https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A"
     },
     {
       "added_at": "2026-06-26 03:00:31",

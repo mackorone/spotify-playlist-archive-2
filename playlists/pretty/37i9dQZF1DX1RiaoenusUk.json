@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 35158,
+  "num_followers": 35166,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
+        "name": "Combustication",
+        "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
+      },
+      "artists": [
+        {
+          "name": "Medeski, Martin & Wood",
+          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "Coconut Boogaloo",
+      "url": "https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
         "name": "Baba",
         "url": "https://open.spotify.com/album/3fyQsRwHWt4G4Tx8VTa3SN"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 235836,
       "name": "Baba",
       "url": "https://open.spotify.com/track/3pvpIE1dcLrYhYex0CUKxA"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
-        "name": "Combustication",
-        "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
-      },
-      "artists": [
-        {
-          "name": "Medeski, Martin & Wood",
-          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "Coconut Boogaloo",
-      "url": "https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
-      },
-      "artists": [
-        {
-          "name": "De La Rivera",
-          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
-        }
-      ],
-      "duration_ms": 210796,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "Jose Molina in Session",
         "url": "https://open.spotify.com/album/761hQFQrsf4sNdJULRpHLM"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 466409,
       "name": "No Me Lo Digas (In Session)",
       "url": "https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
+      },
+      "artists": [
+        {
+          "name": "De La Rivera",
+          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
+        }
+      ],
+      "duration_ms": 210796,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1651,18 +1651,22 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Fiestas en las Nubes",
-        "url": "https://open.spotify.com/album/0Tiz6OfXDDjzRoGxvjKa9A"
+        "name": "Polvo C\u00f3smico (Remix)",
+        "url": "https://open.spotify.com/album/6mGtBcrNrRiMMH8LIWqINx"
       },
       "artists": [
         {
-          "name": "INTI GARCIA",
-          "url": "https://open.spotify.com/artist/6xfsqkwKslZM1Ygk9HfKZL"
+          "name": "Cevlade",
+          "url": "https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY"
+        },
+        {
+          "name": "C-Funk",
+          "url": "https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO"
         }
       ],
-      "duration_ms": 162624,
-      "name": "Fiestas en las Nubes",
-      "url": "https://open.spotify.com/track/0so8JhqmYKVsUufgewIASn"
+      "duration_ms": 207888,
+      "name": "Polvo C\u00f3smico - Remix",
+      "url": "https://open.spotify.com/track/70a8kMxbPGDkGk0yNXnU5B"
     }
   ],
   "unique_name": "Nota Funk",

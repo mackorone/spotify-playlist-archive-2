@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 136434,
+  "num_followers": 136435,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -567,18 +567,22 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u98a8\u306b\u4e57\u308b",
-        "url": "https://open.spotify.com/album/756umARKInXvcyVNY1fq4p"
+        "name": "\u5287\u5834\u30a2\u30cb\u30e1 \u30eb\u30c3\u30af\u30d0\u30c3\u30af \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3fPBJ0HC62DBciQuUYoXAz"
       },
       "artists": [
         {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+        },
+        {
+          "name": "urara",
+          "url": "https://open.spotify.com/artist/2IcHTv2r6NWEc3eq5DEjhs"
         }
       ],
-      "duration_ms": 206066,
-      "name": "\u00e9toile",
-      "url": "https://open.spotify.com/track/4tNJEcWkXQQDes9P7cdNwA"
+      "duration_ms": 249533,
+      "name": "Light song",
+      "url": "https://open.spotify.com/track/4KXZ4MJKT0RYGhijfQ08Jw"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -603,22 +607,18 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u5287\u5834\u30a2\u30cb\u30e1 \u30eb\u30c3\u30af\u30d0\u30c3\u30af \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/3fPBJ0HC62DBciQuUYoXAz"
+        "name": "\u98a8\u306b\u4e57\u308b",
+        "url": "https://open.spotify.com/album/756umARKInXvcyVNY1fq4p"
       },
       "artists": [
         {
-          "name": "haruka nakamura",
-          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
-        },
-        {
-          "name": "urara",
-          "url": "https://open.spotify.com/artist/2IcHTv2r6NWEc3eq5DEjhs"
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
         }
       ],
-      "duration_ms": 249533,
-      "name": "Light song",
-      "url": "https://open.spotify.com/track/4KXZ4MJKT0RYGhijfQ08Jw"
+      "duration_ms": 206066,
+      "name": "\u00e9toile",
+      "url": "https://open.spotify.com/track/4tNJEcWkXQQDes9P7cdNwA"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
+        "name": "tradition",
+        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "duration_ms": 167885,
+      "name": "Moon Dance",
+      "url": "https://open.spotify.com/track/2mMZ6RsGVCUJwNuJekjlAx"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
         "name": "Beautiful World",
         "url": "https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 220575,
       "name": "\u30d0\u30a4\u30af\u3092\u98db\u3070\u3057\u3066",
       "url": "https://open.spotify.com/track/7CJGXnESvFMH9bKXVhwwP7"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
-        "name": "tradition",
-        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
-      },
-      "artists": [
-        {
-          "name": "CHO CO PA CO CHO CO QUIN QUIN",
-          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
-        }
-      ],
-      "duration_ms": 167885,
-      "name": "Moon Dance",
-      "url": "https://open.spotify.com/track/2mMZ6RsGVCUJwNuJekjlAx"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
-        "url": "https://open.spotify.com/album/6ipSFR7aTdNLtDR1TnJS86"
-      },
-      "artists": [
-        {
-          "name": "goethe",
-          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
-        }
-      ],
-      "duration_ms": 259713,
-      "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
-      "url": "https://open.spotify.com/track/4CeWDJ0CS4OwQnm3Az0CLN"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "\u30b9\u30bf\u30b8\u30aa\u30b8\u30d6\u30ea\u30c8\u30ea\u30d3\u30e5\u30fc\u30c8\u30a2\u30eb\u30d0\u30e0\u300c\u30b8\u30d6\u30ea\u3092\u3046\u305f\u3046 \u305d\u306e2\u300d",
         "url": "https://open.spotify.com/album/4aSh6EozLaP8nPrgvSpazt"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 277333,
       "name": "\u5730\u7403\u5100",
       "url": "https://open.spotify.com/track/3opfLrqhytII0hIKhipfnQ"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
+        "url": "https://open.spotify.com/album/6ipSFR7aTdNLtDR1TnJS86"
+      },
+      "artists": [
+        {
+          "name": "goethe",
+          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
+        }
+      ],
+      "duration_ms": 259713,
+      "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
+      "url": "https://open.spotify.com/track/4CeWDJ0CS4OwQnm3Az0CLN"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "Trio & Charm",
-        "url": "https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        },
-        {
-          "name": "THE CHARM PARK",
-          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
-        }
-      ],
-      "duration_ms": 226585,
-      "name": "\u30ad\u30e3\u30f3\u30c7\u30a3",
-      "url": "https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "UTAU",
         "url": "https://open.spotify.com/album/6mSXKYAQh59mF11BjUDVI0"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 305213,
       "name": "\u7f8e\u8c8c\u306e\u9752\u7a7a\uff08Bibo no Aozora\uff09 - Geimori - Medley",
       "url": "https://open.spotify.com/track/0TfFwWDeuphsK3Cx6MAcJL"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "Trio & Charm",
+        "url": "https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        },
+        {
+          "name": "THE CHARM PARK",
+          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
+        }
+      ],
+      "duration_ms": 226585,
+      "name": "\u30ad\u30e3\u30f3\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "good life, good people",
-        "url": "https://open.spotify.com/album/4EsbxeEeLAAr5EOymJIZnB"
-      },
-      "artists": [
-        {
-          "name": "Soushi Sakiyama",
-          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
-        }
-      ],
-      "duration_ms": 234840,
-      "name": "\u60aa\u9b54",
-      "url": "https://open.spotify.com/track/5yACHWDsUsC5n1QJuVTqMp"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "\u30cf\u30df\u30f3\u30b0\u30d0\u30fc\u30c9",
         "url": "https://open.spotify.com/album/42RtIuwRaKZXMhVGi2O5PY"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 275266,
       "name": "Life Is Beautiful",
       "url": "https://open.spotify.com/track/7L4VgQR2mhH8GBJV19FEoR"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "good life, good people",
+        "url": "https://open.spotify.com/album/4EsbxeEeLAAr5EOymJIZnB"
+      },
+      "artists": [
+        {
+          "name": "Soushi Sakiyama",
+          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
+        }
+      ],
+      "duration_ms": 234840,
+      "name": "\u60aa\u9b54",
+      "url": "https://open.spotify.com/track/5yACHWDsUsC5n1QJuVTqMp"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "Wild Flowers",
-        "url": "https://open.spotify.com/album/1aemhVhHw2fphYPNZy8SY3"
-      },
-      "artists": [
-        {
-          "name": "Sugar Me",
-          "url": "https://open.spotify.com/artist/0RUM5RTI0FAykSNS9FdDjr"
-        }
-      ],
-      "duration_ms": 212484,
-      "name": "\u591c\u306f\u3084\u3055\u3057",
-      "url": "https://open.spotify.com/track/26VxGKT6FoKO4YFQz1WLwk"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
         "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 270413,
       "name": "\u8a18\u61b6",
       "url": "https://open.spotify.com/track/5FVS7nLGnbYPm5fUAPmO1D"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "Wild Flowers",
+        "url": "https://open.spotify.com/album/1aemhVhHw2fphYPNZy8SY3"
+      },
+      "artists": [
+        {
+          "name": "Sugar Me",
+          "url": "https://open.spotify.com/artist/0RUM5RTI0FAykSNS9FdDjr"
+        }
+      ],
+      "duration_ms": 212484,
+      "name": "\u591c\u306f\u3084\u3055\u3057",
+      "url": "https://open.spotify.com/track/26VxGKT6FoKO4YFQz1WLwk"
     },
     {
       "added_at": "2026-04-17 03:28:41",

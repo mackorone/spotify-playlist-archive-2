@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,559 likes - 99 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,534 likes - 99 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

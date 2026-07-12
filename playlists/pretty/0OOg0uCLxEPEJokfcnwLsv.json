@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1145,
+  "num_followers": 1147,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGnIyvMCMeR+D5320iaUn+sghJrDqF",
+  "snapshot_id": "AAAGnu0m8haM2OUTt8DyVuAA1iByvck2",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -71,6 +71,22 @@
       "duration_ms": 403803,
       "name": "Too Good To Ignore",
       "url": "https://open.spotify.com/track/1oTPNzxF7XROhYe6AEvTfz"
+    },
+    {
+      "added_at": "2026-07-11 16:09:24",
+      "album": {
+        "name": "Make That Sound",
+        "url": "https://open.spotify.com/album/2LZYZLPdE2EuZyVVKSBfLy"
+      },
+      "artists": [
+        {
+          "name": "Cordelia Harding",
+          "url": "https://open.spotify.com/artist/1yKmcWiEDJPW3Cb45W5qmR"
+        }
+      ],
+      "duration_ms": 221500,
+      "name": "Make That Sound",
+      "url": "https://open.spotify.com/track/2eQuZXpai00NEJbzrDuFP6"
     },
     {
       "added_at": "2026-03-03 02:29:48",

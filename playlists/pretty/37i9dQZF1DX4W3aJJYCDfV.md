@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Beyoncé, Future, The Rolling Stones and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,817 likes - 99 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,032,838 likes - 99 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 75 | [Tides](https://open.spotify.com/track/7k7LWZrsCic16PiZJidKdL) | [Shafkkat](https://open.spotify.com/artist/4wt5o5QeGiPuMhOlCldmWd), [Jess Young](https://open.spotify.com/artist/7mt5zMJCyOKmxPyDT0ihZK) | [Tides](https://open.spotify.com/album/57dp3wTJO7GspD9EqGXQPF) | 3:32 |
 | 76 | [Dickhead](https://open.spotify.com/track/6CwH3WJJPxchCOYPIewPOl) | [Tadhg Nolan](https://open.spotify.com/artist/4yUZ8bF7Zu3tkUoUmLiI6B) | [Dickhead](https://open.spotify.com/album/1KvXYsdmne1A2YP3Szatfz) | 3:03 |
 | 77 | [CRAWLING OUT MY SKIN](https://open.spotify.com/track/5QRdC0sH4GR7BCrvLUgadP) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [CRAWLING OUT MY SKIN](https://open.spotify.com/album/7j9Oes4f4ejjqLZ7QcT0af) | 3:32 |
-| 78 | [Don't Cry](https://open.spotify.com/track/626Qnan90KdrGqYTIDc8d0) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lady Luck](https://open.spotify.com/album/5B0m3PiMxCq1TjF7wxLM6I) | 3:15 |
+| 78 | [Don't Cry \(feat\. Maverick Sabre\)](https://open.spotify.com/track/626Qnan90KdrGqYTIDc8d0) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lady Luck](https://open.spotify.com/album/5B0m3PiMxCq1TjF7wxLM6I) | 3:15 |
 | 79 | [Wasting Time \(feat\. Anderson .Paak\)](https://open.spotify.com/track/2G4y316Kk8FNcH0pf3mjBY) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Dem Goats](https://open.spotify.com/album/2M0IQZnARm6zbyvYxtkQBh) | 3:10 |
 | 80 | [SQZME](https://open.spotify.com/track/4bCVm1YfSMPysLN7axPAtW) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Addison Groove](https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr) | [BAGS INC](https://open.spotify.com/album/4QFuexUmfDhl8WL34Rnda8) | 3:27 |
 | 81 | [SO GOOD \(ft\. Simone Ashley\)](https://open.spotify.com/track/0aEvKe7Am20nBkT6MzcNRR) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De), [Simone Ashley](https://open.spotify.com/artist/4pPJVe0DnEat9EC8L0mzZ0) | [SO GOOD \(ft\. Simone Ashley\)](https://open.spotify.com/album/3k5pLFKcTX8VbxuC4YTNB6) | 2:16 |

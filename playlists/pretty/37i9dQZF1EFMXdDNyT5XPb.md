@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 81 | [Song I Can't Forget](https://open.spotify.com/track/3LNV9RmV3zxKuLN6D0G1aZ) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [The Place We Used to Meet](https://open.spotify.com/album/4uuofFLpxeB321PaVpW6GY) | 3:14 |
 | 82 | [Avenoir](https://open.spotify.com/track/1nMplJAQWqee9xNj8qvlfl) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 1:26 |
 | 83 | [Lay With Me](https://open.spotify.com/track/5E3IZVtPnAMKJ5jC177L2M) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Lay With Me](https://open.spotify.com/album/4MfKhq3j9MqPdicPW31B6o) | 2:51 |
-| 84 | [Take on the World](https://open.spotify.com/track/2X9W0RM92EE7IJCj8u6mZD) | [Luke Friend](https://open.spotify.com/artist/0fN6T4AfuRK8fWrENakh5U) | [Take on the World](https://open.spotify.com/album/2fTi0wYA5Ne7mk9puy2br6) | 3:07 |
-| 85 | [All Messed Up](https://open.spotify.com/track/17MvtU22u8MjAGstuVoPAQ) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [All Messed Up](https://open.spotify.com/album/498AhbVDnIUcGxg0FJ3YuR) | 2:16 |
+| 84 | [All Messed Up](https://open.spotify.com/track/17MvtU22u8MjAGstuVoPAQ) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [All Messed Up](https://open.spotify.com/album/498AhbVDnIUcGxg0FJ3YuR) | 2:16 |
+| 85 | [Take on the World](https://open.spotify.com/track/2X9W0RM92EE7IJCj8u6mZD) | [Luke Friend](https://open.spotify.com/artist/0fN6T4AfuRK8fWrENakh5U) | [Take on the World](https://open.spotify.com/album/2fTi0wYA5Ne7mk9puy2br6) | 3:07 |
 | 86 | [Hologram](https://open.spotify.com/track/6mg2Fd0xxlHTJRNk4sv2Y7) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [In Limbo \- EP](https://open.spotify.com/album/35J8iowYlwbt5IcA7UZKPy) | 3:22 |
 | 87 | [Bodystop](https://open.spotify.com/track/3p3N646rTTbyp6SE59Ezxz) | [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [Bodystop](https://open.spotify.com/album/66rZeSSkClPAobtRPt9E0m) | 2:50 |
 | 88 | [Don't Play This on the Radio](https://open.spotify.com/track/0dEnmyAPUam3ysF3DNkQAp) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Today Was a Good Day](https://open.spotify.com/album/6Q39VR0QICiUg0qzojJ4aZ) | 3:13 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 112 | [Breaking My Back](https://open.spotify.com/track/2BMzyOMgpmVRF9vqzYXGvA) | [Sons of William](https://open.spotify.com/artist/7JLB199dcJqEozdoTndjQo) | [Sons Of William](https://open.spotify.com/album/5tN9cixqUntcylVZ2T4f6K) | 2:25 |
 | 113 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 |
 
-Snapshot ID: `AcWg1AAAAACIeGwB3PtJX6Gn0MsH7pny`
+Snapshot ID: `AcWmdAAAAAB80ojjy+68zKaiY2nPXOaq`

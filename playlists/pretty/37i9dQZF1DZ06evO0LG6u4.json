@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAABAGXhIUMbODNQ61mazTjds",
+  "snapshot_id": "alA2AAAAAABqZ/wnjHXnr5MSuhP+1VZL",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 96557,
-      "name": "La note",
-      "url": "https://open.spotify.com/track/2ZpGWu0myOzQevbBpjcA8P"
+      "duration_ms": 80745,
+      "name": "Commande musicale",
+      "url": "https://open.spotify.com/track/2eQYadzPjRQ44OjjY6wvtW"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 162216,
-      "name": "Musique par ordinateur",
-      "url": "https://open.spotify.com/track/5XNeXptZyursyUSpbcn1C1"
+      "duration_ms": 96557,
+      "name": "La note",
+      "url": "https://open.spotify.com/track/2ZpGWu0myOzQevbBpjcA8P"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 80745,
-      "name": "Commande musicale",
-      "url": "https://open.spotify.com/track/2eQYadzPjRQ44OjjY6wvtW"
+      "duration_ms": 162216,
+      "name": "Musique par ordinateur",
+      "url": "https://open.spotify.com/track/5XNeXptZyursyUSpbcn1C1"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 48993,
-      "name": "Musique pour l'image",
-      "url": "https://open.spotify.com/track/32Cql4hQZxiHAvyuLwk703"
+      "duration_ms": 105400,
+      "name": "Mutation de l'oeuvre",
+      "url": "https://open.spotify.com/track/1nedFmpJF1Cnqu1QsOqbzu"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 87608,
-      "name": "Le temps",
-      "url": "https://open.spotify.com/track/1dzVjOWPeEwUrjBrcoIWpZ"
+      "duration_ms": 48993,
+      "name": "Musique pour l'image",
+      "url": "https://open.spotify.com/track/32Cql4hQZxiHAvyuLwk703"
     }
   ],
   "unique_name": "This Is \u00c9liane Radigue",

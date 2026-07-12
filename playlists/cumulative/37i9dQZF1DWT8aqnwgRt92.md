@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,728 songs - 7 day 0 hr 15 min
+2,733 songs - 7 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Dawn](https://open.spotify.com/track/2NmEYIZ24bLuxQGFKXfkPP) | [Sir Vanity](https://open.spotify.com/artist/7HAVj2cCdBRXq6BYf1C6qA) | [midnight sun](https://open.spotify.com/album/5XYyr4HDb5s7f6lGrtooI4) | 3:38 | 2023-03-07 | 2023-03-15 |
 | [dawn of infinity](https://open.spotify.com/track/6XGW8WSZ2ZFmvR2rUg2aAZ) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [dawn of infinity](https://open.spotify.com/album/5uhmrzAYZGmiIxXSClQ9Mk) | 4:53 | 2022-05-28 | 2022-06-10 |
 | [Day Off](https://open.spotify.com/track/51qR61A8e4sBvNBSnMI9QO) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [Day Off](https://open.spotify.com/album/4PGkGGLBfmgOJ7E1m46Vga) | 3:28 | 2024-01-09 | 2024-03-27 |
+| [DAYS!](https://open.spotify.com/track/7pe9l8kQ5phIuHZZRpDH8v) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [DAYS!](https://open.spotify.com/album/3wJykt0FK6CmFZjaQyJaKa) | 3:53 | 2026-07-10 |  |
 | [Dazzle the Destiny](https://open.spotify.com/track/36qqkkLRFAGZmaqR7C86du) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Dazzle the Destiny](https://open.spotify.com/album/5dizFHt1eoeW1ilnRmyikc) | 4:01 | 2025-05-06 | 2025-05-21 |
 | [Dead or Love](https://open.spotify.com/track/0TcE0pSt40HlHGpqS3UkBw) | [Soala](https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer) | [Dead or Love](https://open.spotify.com/album/4ck8tWsebkqNWfDO9F2rDr) | 2:55 | 2025-04-24 | 2025-04-30 |
 | [DEAD OR LOVE](https://open.spotify.com/track/1s55Cx9EYgmsjRCMvzx5pt) | [吉乃](https://open.spotify.com/artist/4jxGzNzN68CsE1SnKixpiF) | [DEAD OR LOVE](https://open.spotify.com/album/5EqTRwkiHlO62N7kksQylT) | 3:32 | 2026-04-12 | 2026-07-08 |
@@ -1280,6 +1281,7 @@
 | [Sun Is Coming Up](https://open.spotify.com/track/3QF909rQu5LgpXxrPL81Nz) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sun Is Coming Up](https://open.spotify.com/album/69f1AKnu2Lr4CwbmWjfbQp) | 4:15 | 2022-07-05 | 2022-07-29 |
 | [Sun Is Coming Up](https://open.spotify.com/track/4Tzy19BN954GdgSiUH62jD) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sun Is Coming Up](https://open.spotify.com/album/6idCwCmUoXnX8ITg8PfHEj) | 4:15 | 2022-07-28 | 2022-08-17 |
 | [Sunday Morning](https://open.spotify.com/track/6rjpIfWNWwzg7hd1KxDK5f) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Sunday Morning](https://open.spotify.com/album/68VH68e8EI3jXMF151Trf3) | 2:52 | 2026-01-15 | 2026-04-13 |
+| [Sunny](https://open.spotify.com/track/6nmRFTaSwwoZ2e2Q45Pa9l) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Sunny](https://open.spotify.com/album/6dKA5LfNGimTv9IAyHhVPp) | 3:34 | 2026-07-10 |  |
 | [Super Adorable Gal](https://open.spotify.com/track/5wFngmXD2qULEdr4NZwJ97) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Super Adorable Gal](https://open.spotify.com/album/3UDkQMJC8sry16Q3phhPeN) | 3:28 | 2024-01-09 | 2024-02-10 |
 | [Super Adorable Gal](https://open.spotify.com/track/1UNZ7PdVOeOSYgQGtOxQUm) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Universe](https://open.spotify.com/album/1B3lid4l1KnRSu8FUXKqWs) | 3:30 | 2024-02-08 | 2024-04-05 |
 | [Super moon](https://open.spotify.com/track/67kIO6t0RAXrtDnOpfYkQj) | [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [Super moon](https://open.spotify.com/album/0V9mhL26kn9cHji8KBcAjE) | 3:13 | 2023-11-07 | 2023-12-13 |
@@ -1984,6 +1986,7 @@
 | [ネバネバ \- TVサイズ](https://open.spotify.com/track/0LSfxbherG2kih7hxjgJgw) | [MORISAKI WIN](https://open.spotify.com/artist/289Ot2yPeAD9g1epQ6NBwi) | [ネバネバ \- TVサイズ](https://open.spotify.com/album/01jFv1RxJxmAlCyQVmrwEb) | 1:34 | 2024-10-08 | 2024-10-16 |
 | [ノミック](https://open.spotify.com/track/0gxbwxvxTBW1Z3ihlJbq6H) | [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [ノミック](https://open.spotify.com/album/0Y6dEaa80Jfq6GTQ04fLnK) | 3:00 | 2022-10-06 | 2022-10-08 |
 | [ノンシナリオ・エチュード](https://open.spotify.com/track/4z8UjDGbRRz2Tt7PyeF4Ty) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [ノンシナリオ・エチュード](https://open.spotify.com/album/3OCAE8TelpEZHbO76FzPGe) | 3:54 | 2026-04-12 | 2026-05-06 |
+| [ハイメンテナンスガール](https://open.spotify.com/track/08wiYF42f2wVoEW0xZfzAl) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [ハイメンテナンスガール](https://open.spotify.com/album/3T0JjpxWBEzCQ2Qv8KzzcQ) | 3:29 | 2026-07-10 |  |
 | [ハイライト・ハイライト](https://open.spotify.com/track/4n9ZDnOKEFlOUvQvLZqUJ3) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [ハイライト・ハイライト](https://open.spotify.com/album/6lD4x7WoKuq5qgupcHqEP0) | 3:56 | 2022-05-28 | 2022-06-14 |
 | [ハク](https://open.spotify.com/track/6rcu3zzJEHEZaiCnGHI1pR) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [ハク](https://open.spotify.com/album/6qzDuc2mTw5idG6g6vT5QL) | 3:40 | 2026-01-15 | 2026-04-13 |
 | [ハザードシンボル](https://open.spotify.com/track/6LDFRabeTnirLaMTtkcvJ6) | [遊遊](https://open.spotify.com/artist/0xcDdlgQye7CQJa1fdJrPj) | [ハザードシンボル](https://open.spotify.com/album/5jGBOSamaOfCPJ2R7Dfr4l) | 3:57 | 2024-04-18 | 2024-07-03 |
@@ -2049,6 +2052,7 @@
 | [プランA](https://open.spotify.com/track/6uotAIXMVlxBnZITXs5dmm) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [プランA](https://open.spotify.com/album/0xw4GL428TN0eAioPvBIFo) | 3:36 | 2024-07-16 | 2024-10-09 |
 | [プリンとマフィンのポムポムビート☆](https://open.spotify.com/track/5JzW5UnfWJQKQxdh18YNos) | [ポムポムプリン](https://open.spotify.com/artist/7LGKtFZf6Mm5AoZWl68uGL) | [プリンとマフィンのポムポムビート☆](https://open.spotify.com/album/0Hk1E0ew6MrTuFMb7e0uIg) | 3:32 | 2026-03-24 | 2026-04-01 |
 | [プレイメーカー feat.大野雄大\(from Da\-iCE\)](https://open.spotify.com/track/1nzPt6k4X0jyNutJ0F8LCy) | [all at once](https://open.spotify.com/artist/48BElNPYehUg03qOO3puCo), [大野雄大 \(from Da\-iCE\)](https://open.spotify.com/artist/4YX4877oTbkuhiKnanhWux) | [プレイメーカー feat.大野雄大\(from Da\-iCE\)](https://open.spotify.com/album/08AYBn8vne85ZsuZpydVIB) | 2:49 | 2022-10-01 | 2022-11-09 |
+| [ベリーグッド・エンカウント](https://open.spotify.com/track/6sJyuQY2ZfwG2ZGIMA7ne5) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [ベリーグッド・エンカウント](https://open.spotify.com/album/3LHFdddGD64wdhuSsMB67h) | 3:34 | 2026-07-10 |  |
 | [ホップステップ笑顔爆発!](https://open.spotify.com/track/3J13l8EZrKVKsDMRMm6xfA) | [駿河朱々\(CV:日野まり\)](https://open.spotify.com/artist/7w4hqifDLfUDWdegQ8sLwf) | [ホップステップ笑顔爆発!](https://open.spotify.com/album/7xDjE58yilJT5SvqqMUmcs) | 3:56 | 2024-01-11 | 2024-01-13 |
 | [ホムンクルス](https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ホムンクルス](https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes) | 3:50 | 2024-07-05 | 2024-10-16 |
 | [ホロウ](https://open.spotify.com/track/68h5GA0fhtfMy3elaTKJBP) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ホロウ](https://open.spotify.com/album/716VqzwOdkvB6Sy38ItzDK) | 2:46 | 2024-10-25 | 2025-01-12 |
@@ -2325,6 +2329,7 @@
 | [学級日誌](https://open.spotify.com/track/7ea6ouVJBX1qNlF4Bsbr14) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [学級日誌](https://open.spotify.com/album/7JeY33oaNNWi7PJJHQtUfq) | 3:57 | 2024-01-16 | 2024-04-11 |
 | [守りたいもの](https://open.spotify.com/track/0QpwFmdAK6mXvXTqlDgva4) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [守りたいもの](https://open.spotify.com/album/2qsxXjpEqtc87WWJAQt8fj) | 4:26 | 2024-04-10 | 2024-04-19 |
 | [守りたいもの](https://open.spotify.com/track/7vAU6aQc2m83C2cH5QUxce) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [守りたいもの](https://open.spotify.com/album/5UmKd3GrcBOjSjmzNO4QTV) | 4:26 | 2024-04-18 | 2024-07-03 |
+| [完璧じゃないわたし](https://open.spotify.com/track/2guDoM8CAJKx1cQwNFSPW5) | [前島亜美](https://open.spotify.com/artist/61aT3A72eeItBBYdH9kIUP) | [完璧じゃないわたし](https://open.spotify.com/album/4hMcVgLvOxzxy0sLeDYdYh) | 3:32 | 2026-07-10 |  |
 | [宝石の日々](https://open.spotify.com/track/0N4AHb6WKIBr4LWH127Lm0) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [宝石の日々](https://open.spotify.com/album/7wgUbItIynxcEMvpWvPZNQ) | 5:08 | 2023-07-02 | 2023-08-09 |
 | [宿縁](https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [宿縁](https://open.spotify.com/album/6dT6HAU5koeNRTQBKywvbA) | 3:33 | 2023-01-17 | 2023-04-12 |
 | [寄花\-Yosuga\-](https://open.spotify.com/track/4AK1qzjvhxUtUujZoZ22Z1) | [\#kzn](https://open.spotify.com/artist/6PPyZ24emAZuxz2OK9DDCq), [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [寄花\-Yosuga\-](https://open.spotify.com/album/6RT1XoXFGcW33smcuJY0yk) | 3:30 | 2023-04-25 | 2023-06-14 |

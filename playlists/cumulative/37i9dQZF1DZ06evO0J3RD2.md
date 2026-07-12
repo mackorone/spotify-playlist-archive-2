@@ -4,7 +4,7 @@
 
 > This is Movements\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 58 min
+51 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Panic](https://open.spotify.com/track/0qwoBdMnysN7dDT6tK3fcE) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give \(B\-Sides\)](https://open.spotify.com/album/5hHi9UqkmVQ1kDJO2ufgs8) | 3:08 | 2022-09-16 |  |
 | [Protection \- Demo](https://open.spotify.com/track/0zGmEOISsMzpD0LvRVcJuO) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Protection \(Demo\)](https://open.spotify.com/album/11kPmcZX8Bwy0Rr3ZSe5hl) | 3:29 | 2022-09-16 |  |
 | [Seneca](https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:09 | 2022-09-16 |  |
+| [Separate](https://open.spotify.com/track/61ebglogYwWK4aBLr7AHi3) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Separate](https://open.spotify.com/album/0g7GoM0FyngljVs9mBSKKx) | 3:56 | 2026-07-12 |  |
 | [Skin To Skin](https://open.spotify.com/track/1leOJnHs7HFXF4B5Nsgkmk) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 4:00 | 2022-09-16 |  |
 | [Suffer Through](https://open.spotify.com/track/3tNScF4XZyN4vVwuvgxOlR) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 4:44 | 2023-09-15 |  |
 | [The Grey](https://open.spotify.com/track/5Y6anXM0uQ6P5OIonxdsBe) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:49 | 2022-09-16 | 2023-09-16 |

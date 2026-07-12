@@ -1,6 +1,6 @@
 {
   "description": "We Outsideeeee!",
-  "num_followers": 21113,
+  "num_followers": 21131,
   "original_name": "Abonten ",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,26 @@
     {
       "added_at": "2026-06-25 22:36:55",
       "album": {
+        "name": "Green Light",
+        "url": "https://open.spotify.com/album/32400KtvwwhQ6Ez8YqRCSn"
+      },
+      "artists": [
+        {
+          "name": "Yartti",
+          "url": "https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "duration_ms": 168421,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/0SMhYPT7oVW5zLWuOA1emb"
+    },
+    {
+      "added_at": "2026-06-25 22:36:55",
+      "album": {
         "name": "Zormizor (Asabone)",
         "url": "https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 182783,
       "name": "Odo",
       "url": "https://open.spotify.com/track/08nMjhiq9eafvysZ4P5LU4"
-    },
-    {
-      "added_at": "2026-06-25 22:36:55",
-      "album": {
-        "name": "Green Light",
-        "url": "https://open.spotify.com/album/32400KtvwwhQ6Ez8YqRCSn"
-      },
-      "artists": [
-        {
-          "name": "Yartti",
-          "url": "https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1"
-        },
-        {
-          "name": "Kwaku DMC",
-          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
-        }
-      ],
-      "duration_ms": 168421,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/0SMhYPT7oVW5zLWuOA1emb"
     },
     {
       "added_at": "2026-06-25 22:36:55",

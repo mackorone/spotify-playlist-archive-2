@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 101804,
+  "num_followers": 101802,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAACYnbXzdsmy2Ghlb3sYLK6o",
+  "snapshot_id": "alA2AAAAAACJYRm1VhjQ0ISijO4m1DeM",
   "tracks": [
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "kelsea",
-        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
+        "name": "PATTERNS",
+        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 191811,
-      "name": "needy",
-      "url": "https://open.spotify.com/track/1pF52VPPTgPeBzOjg3PyjH"
+      "duration_ms": 172146,
+      "name": "I Would, Would You",
+      "url": "https://open.spotify.com/track/06Db3gqF8HfzbiYxyFaGBx"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PATTERNS",
-        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
+        "name": "kelsea",
+        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 172146,
-      "name": "I Would, Would You",
-      "url": "https://open.spotify.com/track/06Db3gqF8HfzbiYxyFaGBx"
+      "duration_ms": 191811,
+      "name": "needy",
+      "url": "https://open.spotify.com/track/1pF52VPPTgPeBzOjg3PyjH"
     },
     {
       "added_at": null,

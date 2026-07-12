@@ -1,6 +1,6 @@
 {
   "description": "Jean Sibelius: Finnish hero, notorious lobster enthusiast, and composer of truly monumental music. Discover his famous works in this essential playlist.",
-  "num_followers": 32174,
+  "num_followers": 32181,
   "original_name": "This Is Sibelius",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,26 @@
     {
       "added_at": "2025-12-15 12:16:59",
       "album": {
+        "name": "Sibelius/Grieg: String Quartets",
+        "url": "https://open.spotify.com/album/0Fy1swlKcvYXleEEXLy0js"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Guarneri Quartet",
+          "url": "https://open.spotify.com/artist/20w7d77cK8uJbgV8SDdaIS"
+        }
+      ],
+      "duration_ms": 374000,
+      "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 4. Allegretto (ma pesante)",
+      "url": "https://open.spotify.com/track/0CnnEtrX6RbMcnOqhtlpWQ"
+    },
+    {
+      "added_at": "2025-12-15 12:16:59",
+      "album": {
         "name": "Sibelius: Lemmink\u00e4inen Suite - Pell\u00e9as & M\u00e9lisande",
         "url": "https://open.spotify.com/album/1USC0LhGxODq3ozgZtfHrx"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 879960,
       "name": "Sibelius: Night Ride and Sunrise, Op. 55",
       "url": "https://open.spotify.com/track/4Dfc82tm87LrXao1kTryrc"
-    },
-    {
-      "added_at": "2025-12-15 12:16:59",
-      "album": {
-        "name": "Sibelius/Grieg: String Quartets",
-        "url": "https://open.spotify.com/album/0Fy1swlKcvYXleEEXLy0js"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Guarneri Quartet",
-          "url": "https://open.spotify.com/artist/20w7d77cK8uJbgV8SDdaIS"
-        }
-      ],
-      "duration_ms": 374000,
-      "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 4. Allegretto (ma pesante)",
-      "url": "https://open.spotify.com/track/0CnnEtrX6RbMcnOqhtlpWQ"
     },
     {
       "added_at": "2025-12-15 12:16:59",
@@ -623,26 +623,6 @@
     {
       "added_at": "2025-12-15 12:16:59",
       "album": {
-        "name": "Colin Davis conducts Sibelius",
-        "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
-        }
-      ],
-      "duration_ms": 134093,
-      "name": "Rakastava, Op. 14: The Path of his Beloved",
-      "url": "https://open.spotify.com/track/4XjmOjgHta5EJ8gltegaav"
-    },
-    {
-      "added_at": "2025-12-15 12:16:59",
-      "album": {
         "name": "Intimate Voices: Grieg, Nielsen, Sibelius",
         "url": "https://open.spotify.com/album/7c0bdLGF2HeDHobb6xahAU"
       },
@@ -663,8 +643,8 @@
     {
       "added_at": "2025-12-15 12:16:59",
       "album": {
-        "name": "Sibelius Piano Works",
-        "url": "https://open.spotify.com/album/7azglOe1PUdjuomHyXH2DO"
+        "name": "Colin Davis conducts Sibelius",
+        "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
       },
       "artists": [
         {
@@ -672,13 +652,13 @@
           "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
         },
         {
-          "name": "Janne Mertanen",
-          "url": "https://open.spotify.com/artist/2qYhukUeIDcRRtE7CsqA8V"
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
         }
       ],
-      "duration_ms": 209893,
-      "name": "Ten Pieces, Op. 24: Nocturno Op. 24: No. 8",
-      "url": "https://open.spotify.com/track/1eGxfn4HNrxee4x1uY0yfv"
+      "duration_ms": 134093,
+      "name": "Rakastava, Op. 14: The Path of his Beloved",
+      "url": "https://open.spotify.com/track/4XjmOjgHta5EJ8gltegaav"
     },
     {
       "added_at": "2025-12-15 12:16:59",
@@ -707,6 +687,26 @@
       "duration_ms": 314800,
       "name": "Sibelius: 5 Songs, Op. 38: No. 1, H\u00f6stkv\u00e4ll (Orchestral Version)",
       "url": "https://open.spotify.com/track/4yaGabbDEJ1f6i8qnyzoi0"
+    },
+    {
+      "added_at": "2025-12-15 12:16:59",
+      "album": {
+        "name": "Sibelius Piano Works",
+        "url": "https://open.spotify.com/album/7azglOe1PUdjuomHyXH2DO"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Janne Mertanen",
+          "url": "https://open.spotify.com/artist/2qYhukUeIDcRRtE7CsqA8V"
+        }
+      ],
+      "duration_ms": 209893,
+      "name": "Ten Pieces, Op. 24: Nocturno Op. 24: No. 8",
+      "url": "https://open.spotify.com/track/1eGxfn4HNrxee4x1uY0yfv"
     },
     {
       "added_at": "2025-12-15 12:16:59",

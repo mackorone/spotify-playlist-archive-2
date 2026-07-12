@@ -1,12 +1,12 @@
 {
   "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
-  "num_followers": 41203,
+  "num_followers": 41202,
   "original_name": "This Is Taking Back Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAADiu3mr0+HEdabwozVtZ7NQ",
+  "snapshot_id": "alA2AAAAAABa+UyR2N2nlQ+9zhFRmfma",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happiness Is",
-        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 234142,
-      "name": "Better Homes And Gardens",
-      "url": "https://open.spotify.com/track/4GENwH9HjfqB6n1jiNR56D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Again",
         "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 206106,
       "name": "Swing",
       "url": "https://open.spotify.com/track/66tVNSi55Hh2J4mfa3Dvuj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Happiness Is",
+        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 234142,
+      "name": "Better Homes And Gardens",
+      "url": "https://open.spotify.com/track/4GENwH9HjfqB6n1jiNR56D"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happiness Is",
-        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 219963,
-      "name": "Stood A Chance",
-      "url": "https://open.spotify.com/track/0ZUrzmpZOdHGyUwHVu9USO"
+      "duration_ms": 213533,
+      "name": "New Again",
+      "url": "https://open.spotify.com/track/5ZB0YmZ4e9TEuPa2ghD3XI"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Happiness Is",
+        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 219963,
+      "name": "Stood A Chance",
+      "url": "https://open.spotify.com/track/0ZUrzmpZOdHGyUwHVu9USO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "New Again",
         "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
       },
@@ -572,25 +588,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 213533,
-      "name": "New Again",
-      "url": "https://open.spotify.com/track/5ZB0YmZ4e9TEuPa2ghD3XI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bullet With Butterfly Wings",
-        "url": "https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 272093,
-      "name": "Bullet With Butterfly Wings",
-      "url": "https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE"
+      "duration_ms": 231173,
+      "name": "Summer, Man",
+      "url": "https://open.spotify.com/track/0liXar8GQi3nwKrbe6Ooi2"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bullet With Butterfly Wings",
+        "url": "https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 272093,
+      "name": "Bullet With Butterfly Wings",
+      "url": "https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "New Again",
         "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
       },
@@ -636,25 +652,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 231173,
-      "name": "Summer, Man",
-      "url": "https://open.spotify.com/track/0liXar8GQi3nwKrbe6Ooi2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Happiness Is",
-        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 191583,
-      "name": "Beat Up Car",
-      "url": "https://open.spotify.com/track/6VCnQfitwjZnCACwCRjPOn"
+      "duration_ms": 284360,
+      "name": "Everything Must Go",
+      "url": "https://open.spotify.com/track/3BT2yJJNZ8cfk57TGHdWiF"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Again",
-        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+        "name": "Happiness Is",
+        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 284360,
-      "name": "Everything Must Go",
-      "url": "https://open.spotify.com/track/3BT2yJJNZ8cfk57TGHdWiF"
+      "duration_ms": 191583,
+      "name": "Beat Up Car",
+      "url": "https://open.spotify.com/track/6VCnQfitwjZnCACwCRjPOn"
     },
     {
       "added_at": null,

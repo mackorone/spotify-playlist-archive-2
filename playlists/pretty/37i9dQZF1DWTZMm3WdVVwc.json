@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27247,
+  "num_followers": 27246,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-10-23 13:55:51",
       "album": {
-        "name": "\u6708\u5149\u6d74",
-        "url": "https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 248130,
-      "name": "\u6708\u5149\u6d74",
-      "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
         "name": "POP LIFE",
         "url": "https://open.spotify.com/album/2jb27PDgg002Gnfo357dwv"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 361080,
       "name": "LOVER SOUL",
       "url": "https://open.spotify.com/track/2i0GSXJfOgIMYmncn5S9Yx"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u6708\u5149\u6d74",
+        "url": "https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 248130,
+      "name": "\u6708\u5149\u6d74",
+      "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -717,6 +717,22 @@
       "url": "https://open.spotify.com/track/5KqIUmgtUmFGlylW0cRiwc"
     },
     {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u7a32\u57a3\u6f64\u4e0025\u5468\u5e74\u30d9\u30b9\u30c8 Rainy Voice",
+        "url": "https://open.spotify.com/album/0dcJjG6zEoEJsaj90vM9Of"
+      },
+      "artists": [
+        {
+          "name": "Junichi Inagaki",
+          "url": "https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy"
+        }
+      ],
+      "duration_ms": 269626,
+      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f",
+      "url": "https://open.spotify.com/track/41d7uC7xV3u82wMN0TOoGy"
+    },
+    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "\u30db\u30c3\u30c8\u30ec\u30e2\u30f3 (feat. SKRYU) [Remix]",
@@ -741,38 +757,6 @@
       "url": "https://open.spotify.com/track/21Bu6arnjs8MqLqn3jcuzc"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "\u7a32\u57a3\u6f64\u4e0025\u5468\u5e74\u30d9\u30b9\u30c8 Rainy Voice",
-        "url": "https://open.spotify.com/album/0dcJjG6zEoEJsaj90vM9Of"
-      },
-      "artists": [
-        {
-          "name": "Junichi Inagaki",
-          "url": "https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy"
-        }
-      ],
-      "duration_ms": 269626,
-      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f",
-      "url": "https://open.spotify.com/track/41d7uC7xV3u82wMN0TOoGy"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "NO SIDE",
-        "url": "https://open.spotify.com/album/3z6QdFABuvxLLcijOYtdEK"
-      },
-      "artists": [
-        {
-          "name": "Yumi Matsutoya",
-          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
-        }
-      ],
-      "duration_ms": 273661,
-      "name": "BLIZZARD",
-      "url": "https://open.spotify.com/track/4LenGg9GdYwfXSKOfTkin6"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "Shout Out to Jesus",
@@ -791,18 +775,18 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "\u30e6\u30b0\u30c9\u30e9\u30b7\u30eb",
-        "url": "https://open.spotify.com/album/6nAhyJYpMCLzRGeVLJrico"
+        "name": "NO SIDE",
+        "url": "https://open.spotify.com/album/3z6QdFABuvxLLcijOYtdEK"
       },
       "artists": [
         {
-          "name": "BUMP OF CHICKEN",
-          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
         }
       ],
-      "duration_ms": 307013,
-      "name": "\u30b9\u30ce\u30fc\u30b9\u30de\u30a4\u30eb",
-      "url": "https://open.spotify.com/track/2l02YNthg1e2dyXrv8gacQ"
+      "duration_ms": 273661,
+      "name": "BLIZZARD",
+      "url": "https://open.spotify.com/track/4LenGg9GdYwfXSKOfTkin6"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -819,6 +803,22 @@
       "duration_ms": 283333,
       "name": "orion",
       "url": "https://open.spotify.com/track/6FHEL65apB44ucTqTfbhtG"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "\u30e6\u30b0\u30c9\u30e9\u30b7\u30eb",
+        "url": "https://open.spotify.com/album/6nAhyJYpMCLzRGeVLJrico"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "duration_ms": 307013,
+      "name": "\u30b9\u30ce\u30fc\u30b9\u30de\u30a4\u30eb",
+      "url": "https://open.spotify.com/track/2l02YNthg1e2dyXrv8gacQ"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1137,22 +1137,6 @@
       "url": "https://open.spotify.com/track/7gRwEA36B5Oq7oUlCcWLKb"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "\u6cab\u96ea",
-        "url": "https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 184266,
-      "name": "\u6cab\u96ea",
-      "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
-    },
-    {
       "added_at": "2025-12-24 00:34:11",
       "album": {
         "name": "bestie",
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "SNOW SOUND / \u4eca\u307e\u3067\u541b\u304c\u6ce3\u3044\u305f\u5206\u53d6\u308a\u623b\u305d\u3046",
-        "url": "https://open.spotify.com/album/4JnLPlsSyrE4pD9TV6WLTj"
+        "name": "\u6cab\u96ea",
+        "url": "https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q"
       },
       "artists": [
         {
-          "name": "[Alexandros]",
-          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 286000,
-      "name": "SNOW SOUND",
-      "url": "https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM"
+      "duration_ms": 184266,
+      "name": "\u6cab\u96ea",
+      "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1199,6 +1183,22 @@
       "duration_ms": 311946,
       "name": "\u60b2\u3057\u307f\u306f\u96ea\u306e\u3088\u3046\u306b (single / 1992)",
       "url": "https://open.spotify.com/track/10HHmKRsZmQLXQ3kiAEef1"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "SNOW SOUND / \u4eca\u307e\u3067\u541b\u304c\u6ce3\u3044\u305f\u5206\u53d6\u308a\u623b\u305d\u3046",
+        "url": "https://open.spotify.com/album/4JnLPlsSyrE4pD9TV6WLTj"
+      },
+      "artists": [
+        {
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "SNOW SOUND",
+      "url": "https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1237,22 +1237,6 @@
       "url": "https://open.spotify.com/track/3fNnXZJUEZU0QUvUgdMVeI"
     },
     {
-      "added_at": "2025-12-16 15:00:32",
-      "album": {
-        "name": "\u84bc\u304d\u6625",
-        "url": "https://open.spotify.com/album/372dnGN7uf0xXWQkHOWI6C"
-      },
-      "artists": [
-        {
-          "name": "\u79d8\u3081\u3054\u3068",
-          "url": "https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT"
-        }
-      ],
-      "duration_ms": 240197,
-      "name": "\u84bc\u304d\u6625",
-      "url": "https://open.spotify.com/track/2e9fua8pHpkK6Wso8Cq97c"
-    },
-    {
       "added_at": "2025-12-24 00:34:11",
       "album": {
         "name": "You Got This",
@@ -1267,6 +1251,22 @@
       "duration_ms": 255603,
       "name": "You Got This",
       "url": "https://open.spotify.com/track/4ZQtHM0XoIJuuyy2Njg2Pw"
+    },
+    {
+      "added_at": "2025-12-16 15:00:32",
+      "album": {
+        "name": "\u84bc\u304d\u6625",
+        "url": "https://open.spotify.com/album/372dnGN7uf0xXWQkHOWI6C"
+      },
+      "artists": [
+        {
+          "name": "\u79d8\u3081\u3054\u3068",
+          "url": "https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT"
+        }
+      ],
+      "duration_ms": 240197,
+      "name": "\u84bc\u304d\u6625",
+      "url": "https://open.spotify.com/track/2e9fua8pHpkK6Wso8Cq97c"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1301,22 +1301,6 @@
       "url": "https://open.spotify.com/track/2OnBkllxuR4IdUyvxfPAk6"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "imagination",
-        "url": "https://open.spotify.com/album/5MVA7qhcvMPhY7sK0Opw65"
-      },
-      "artists": [
-        {
-          "name": "clammbon",
-          "url": "https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Folklore",
-      "url": "https://open.spotify.com/track/0VVYgGflTZEUbz8vr04Awo"
-    },
-    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "NIGHT DANCER (Yaffle Holiday Remix - Spotify Singles)",
@@ -1335,6 +1319,22 @@
       "duration_ms": 231638,
       "name": "NIGHT DANCER - Yaffle Holiday Remix - Spotify Singles",
       "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "imagination",
+        "url": "https://open.spotify.com/album/5MVA7qhcvMPhY7sK0Opw65"
+      },
+      "artists": [
+        {
+          "name": "clammbon",
+          "url": "https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Folklore",
+      "url": "https://open.spotify.com/track/0VVYgGflTZEUbz8vr04Awo"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1433,22 +1433,6 @@
       "url": "https://open.spotify.com/track/6rKel5kmQN62IKewLUPBze"
     },
     {
-      "added_at": "2025-12-05 00:27:18",
-      "album": {
-        "name": "shiro",
-        "url": "https://open.spotify.com/album/6hrv5WgeX3p6ZAOibTowfS"
-      },
-      "artists": [
-        {
-          "name": "Offo tokyo",
-          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
-        }
-      ],
-      "duration_ms": 221900,
-      "name": "shiro",
-      "url": "https://open.spotify.com/track/13B7xIMV9eLj9xWO4EJF6r"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "\u30b1\u30e2\u30ce\u3068\u9b54\u6cd5",
@@ -1463,6 +1447,22 @@
       "duration_ms": 241626,
       "name": "\u3082\u3046\u3059\u3050\u591c\u304c\u3042\u3051\u308b",
       "url": "https://open.spotify.com/track/5pwNKKm5rN04L5boM59llf"
+    },
+    {
+      "added_at": "2025-12-05 00:27:18",
+      "album": {
+        "name": "shiro",
+        "url": "https://open.spotify.com/album/6hrv5WgeX3p6ZAOibTowfS"
+      },
+      "artists": [
+        {
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+        }
+      ],
+      "duration_ms": 221900,
+      "name": "shiro",
+      "url": "https://open.spotify.com/track/13B7xIMV9eLj9xWO4EJF6r"
     },
     {
       "added_at": "2025-12-11 02:28:39",

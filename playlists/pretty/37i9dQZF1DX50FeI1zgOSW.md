@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Joshua Aaron
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,954 likes - 77 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,955 likes - 77 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

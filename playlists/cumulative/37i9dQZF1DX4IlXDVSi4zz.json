@@ -4239,6 +4239,28 @@
     },
     {
       "album": {
+        "name": "Music Is The Answer (Dancin' And Prancin')",
+        "url": "https://open.spotify.com/album/72IyE66hhtbsWt0Lmxc0tK"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
+        },
+        {
+          "name": "Karl8 & Andrea Monta",
+          "url": "https://open.spotify.com/artist/4fMsgTeKWUFIthLdhpNEjC"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219939,
+      "name": "Music Is The Answer (Dancin' And Prancin') - Edit",
+      "url": "https://open.spotify.com/track/6YR1D5tsjAZE1Zn0lnEdEd"
+    },
+    {
+      "album": {
         "name": "You Are Safe",
         "url": "https://open.spotify.com/album/7lg5i5BW3Fhmay7kEpyORQ"
       },
@@ -6190,7 +6212,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 150660,
       "name": "Tambora",
       "url": "https://open.spotify.com/track/5Lm6Vl5RjOF77si7Tv5Usz"

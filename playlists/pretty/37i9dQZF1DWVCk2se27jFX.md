@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 
 > ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Paula Pera y el fin de los Tiempos
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,818 likes - 97 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,817 likes - 97 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

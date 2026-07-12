@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 14940,
+  "num_followers": 14938,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAAAz6mgl07q9PD9/kZnRdZfs",
+  "snapshot_id": "alA2AAAAAAAN+JtsXFSRuIicOcax8OdW",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Promise Keeper",
+        "url": "https://open.spotify.com/album/0AXYZMk19oDLs0iHZBCCHb"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 953130,
+      "name": "Promise Keeper",
+      "url": "https://open.spotify.com/track/7v7F2NAs359SCkFk5YBZEK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Doing of the Lord",
         "url": "https://open.spotify.com/album/0UMzdsiWTh6HOPeQ0m3Twe"
       },
@@ -311,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Overwhelming Victory",
-        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Pastor Jerry Eze",
-          "url": "https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn"
-        }
-      ],
-      "duration_ms": 641940,
-      "name": "Amaram Onyewem - Live",
-      "url": "https://open.spotify.com/track/0YHLt8lYD1xY2JpQW2wdRp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SATISFIED",
         "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Promise Keeper",
-        "url": "https://open.spotify.com/album/0AXYZMk19oDLs0iHZBCCHb"
+        "name": "Overwhelming Victory",
+        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
       },
       "artists": [
         {
@@ -356,13 +356,13 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         },
         {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+          "name": "Pastor Jerry Eze",
+          "url": "https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn"
         }
       ],
-      "duration_ms": 953130,
-      "name": "Promise Keeper",
-      "url": "https://open.spotify.com/track/7v7F2NAs359SCkFk5YBZEK"
+      "duration_ms": 641940,
+      "name": "Amaram Onyewem - Live",
+      "url": "https://open.spotify.com/track/0YHLt8lYD1xY2JpQW2wdRp"
     },
     {
       "added_at": null,

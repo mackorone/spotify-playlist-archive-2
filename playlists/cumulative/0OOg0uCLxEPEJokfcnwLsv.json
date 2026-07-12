@@ -5175,6 +5175,24 @@
     },
     {
       "album": {
+        "name": "Make That Sound",
+        "url": "https://open.spotify.com/album/2LZYZLPdE2EuZyVVKSBfLy"
+      },
+      "artists": [
+        {
+          "name": "Cordelia Harding",
+          "url": "https://open.spotify.com/artist/1yKmcWiEDJPW3Cb45W5qmR"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221500,
+      "name": "Make That Sound",
+      "url": "https://open.spotify.com/track/2eQuZXpai00NEJbzrDuFP6"
+    },
+    {
+      "album": {
         "name": "Maldita",
         "url": "https://open.spotify.com/album/1rYProq1DseWQyV6kavpkZ"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > life too short love the one you got
 
-[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,039 songs - 2 day 11 hr 17 min
+[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,043 songs - 2 day 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1047,5 +1047,9 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1037 | [Seasons](https://open.spotify.com/track/4FsR3Qwxnnrmi8bzqBQqup) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:00 |
 | 1038 | [Teardrops](https://open.spotify.com/track/3es94VG64imX0Z3RZOR9Gy) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:44 |
 | 1039 | [Lost Boys](https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP) | 4:14 |
+| 1040 | [Puppy Dog Eyes](https://open.spotify.com/track/1410mOVD43lzivpQlpW1JE) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 2:28 |
+| 1041 | [say how you feel](https://open.spotify.com/track/0L5P8oK2kAuIRWrgk6fyM8) | [Leyla Ebrahimi](https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR) | [say how you feel](https://open.spotify.com/album/1HNWNslIPnl9veeggEcuZv) | 2:56 |
+| 1042 | [Almost](https://open.spotify.com/track/1F60jn1Y6P7ShpqRc4wQMw) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:05 |
+| 1043 | [Any Man](https://open.spotify.com/track/0FeHSfzNeNbLtfii09pC5i) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 2:46 |
 
-Snapshot ID: `AAALH8zLFJR4979luguM/GRFzc+xviUW`
+Snapshot ID: `AAALI1F5jEszkyNdFRC3pEL/VQkNOhTS`

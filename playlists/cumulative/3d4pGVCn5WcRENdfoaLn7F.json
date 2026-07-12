@@ -5001,6 +5001,28 @@
     },
     {
       "album": {
+        "name": "Run (Cover)",
+        "url": "https://open.spotify.com/album/4PSIjA7XCryTRa4ynqt0vL"
+      },
+      "artists": [
+        {
+          "name": "Sol Marineris",
+          "url": "https://open.spotify.com/artist/6fLLkzsoaz9ceyLoGYmUIP"
+        },
+        {
+          "name": "Enlia",
+          "url": "https://open.spotify.com/artist/4pGE3dPAL7rlSvoBgTw91S"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Run - Cover",
+      "url": "https://open.spotify.com/track/7qCzuCpMsiQqPqyjsURAQZ"
+    },
+    {
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/7loqwEQe6W5HYObon40D0H"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Pagode do Adame
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,642 likes - 75 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,291 likes - 75 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Sentimento de Posse / Perfume de Champanhe \- Ao Vivo](https://open.spotify.com/track/79CcS2TbSW4Cbk4mcEF2u3) | [PDJ \- Pagode do Jorgin](https://open.spotify.com/artist/26HJknX5ijhtFMFniLSmvM), [Renan Oliveira](https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm), [Indomável Records](https://open.spotify.com/artist/4tDitU6x0VypxAcm1ykq2Y) | [PDJ & Renan Oliveira \(Ao Vivo\)](https://open.spotify.com/album/26UzGtKIKYIrlNXJUzfKzC) | 3:45 |
 | 75 | [Dom do Amor / Só Te Querer \- Ao Vivo](https://open.spotify.com/track/354aI47hLpA4WaWh9LQLiF) | [Caju Pra Baixo](https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp), [Maguzinho](https://open.spotify.com/artist/5vTInqPT32rNVz8KW6Qp6v), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Feijoada do Caju, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/34b2xk5hlVe2KvU4LPtvM4) | 3:59 |
 
-Snapshot ID: `AAAAAMDVx8hNmCbZPOVMX5zE5EHnPb1+`
+Snapshot ID: `AAAAAB4dqlM35D6BMjSLFQRLnrQlzVsg`

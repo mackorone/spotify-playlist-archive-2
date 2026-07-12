@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,593 songs - 10 day 6 hr 7 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,594 songs - 10 day 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3845,14 +3845,14 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3835 | [Una Luce dentro Me](https://open.spotify.com/track/3bACK6FuhWg4suuJWRNoH6) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI](https://open.spotify.com/album/5AOBcj2GRF9pJrZw44Vodc) | 2:52 |
 | 3836 | [Raise the Jolly Roger](https://open.spotify.com/track/24LE4OczzhrtQeicROhu5y) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Raise the Jolly Roger](https://open.spotify.com/album/2fes4SUDmlPJYWtiQqCMMu) | 3:07 |
 | 3837 | [PARA SIEMPRE](https://open.spotify.com/track/3kwAFSdi5Qzy1fzdhZqirn) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [DJ MIKY](https://open.spotify.com/artist/6PicgxyeAhjzXUeLiZ1mfb) | [PARA SIEMPRE](https://open.spotify.com/album/0IL9V903lZLvtzsfTKT2K3) | 3:22 |
-| 3838 | [GIALLO NERI FOREVER SUMMER 2025 \- REMIX](https://open.spotify.com/track/4UJd2xAGXXPlNJQIqsFbZp) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 2:42 |
+| 3838 | [GIALLO NERI FOREVER SUMMER \- REMIX](https://open.spotify.com/track/4UJd2xAGXXPlNJQIqsFbZp) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 2:42 |
 | 3839 | [URBAN BARBER](https://open.spotify.com/track/05gph1k0nTaz8hfZNmJWqn) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [URBAN BARBER](https://open.spotify.com/album/3tp1YNuzYnM6i5iVZwBNpQ) | 3:50 |
 | 3840 | [START](https://open.spotify.com/track/3ZKgRHXnJJq1T3I3YGglaY) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [DJ MIKY](https://open.spotify.com/artist/6PicgxyeAhjzXUeLiZ1mfb) | [START](https://open.spotify.com/album/5FPr8q6EARqyVtEwVoMAES) | 2:56 |
-| 3841 | [Ballando sulla piattaforma](https://open.spotify.com/track/5hYPx7ZGUfboTrcaowGrvD) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 3:23 |
+| 3841 | [Ballando sulla Piattaforma](https://open.spotify.com/track/5hYPx7ZGUfboTrcaowGrvD) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 3:23 |
 | 3842 | [Ale Ale Alè](https://open.spotify.com/track/6s4bQqTgXLvJPuK65DiHfl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI](https://open.spotify.com/album/5AOBcj2GRF9pJrZw44Vodc) | 2:18 |
 | 3843 | [TIGER JACK](https://open.spotify.com/track/3ApnSYtFjH8w7F84JBNuNZ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [TIGER JACK](https://open.spotify.com/album/55m9dQFjOKGHwNPccvPwSj) | 3:26 |
 | 3844 | [Frontier Snow](https://open.spotify.com/track/6qW4799c2YhHshgwyVgXOl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Frontier Snow](https://open.spotify.com/album/3S8GuBbOqtyIN5EqF5KiC2) | 3:19 |
-| 3845 | [In the great stories](https://open.spotify.com/track/3LDTyBYEExmyYYLBcSjYaa) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 2:32 |
+| 3845 | [In the Great Stories](https://open.spotify.com/track/3LDTyBYEExmyYYLBcSjYaa) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 2:32 |
 | 3846 | [VAMOS](https://open.spotify.com/track/23yd0tixP0NzMFdEGSdsKz) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [VAMOS](https://open.spotify.com/album/2ZGsr50sVh5wUciaoTbVrz) | 2:15 |
 | 3847 | [La Marcia del Fantasmino](https://open.spotify.com/track/29yemI2khtRXYbsuKWpDP5) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [La Marcia del Fantasmino](https://open.spotify.com/album/57t9Tw0sCVAQh46CmrQ3qs) | 2:03 |
 | 3848 | [Bachata Para Siempre](https://open.spotify.com/track/5XHwzpjx99lnukIWy2XZTT) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [DJ MIKY](https://open.spotify.com/artist/6PicgxyeAhjzXUeLiZ1mfb) | [Bachata Para Siempre](https://open.spotify.com/album/6V9fNgZqqkZlWvHJzncgKk) | 2:47 |
@@ -4601,5 +4601,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4591 | [PATOS CC](https://open.spotify.com/track/648C7TraL2tsvLeiCZSSOD) | [Mi novio dramático](https://open.spotify.com/artist/3VSmete7hOiLQadWOyyGf7) | [PATOS CC](https://open.spotify.com/album/1SvxwxVo127NT16QEji43F) | 2:52 |
 | 4592 | [I Fear Alone](https://open.spotify.com/track/5SA7OQX7g9dRQlmZfMYrzu) | [Kerem Berk](https://open.spotify.com/artist/54oQs8WbSCHvoqZ2mlVL0C) | [I Fear Alone](https://open.spotify.com/album/1hiUOjMAVXRkQv6EinfkT1) | 2:50 |
 | 4593 | [CHULERIA](https://open.spotify.com/track/4hwOCqPkTCHIuxfXLknt6r) | [Ares King](https://open.spotify.com/artist/3GkOybDIwGRVuBUT2P8SLf), [KID BOY](https://open.spotify.com/artist/1wjmPR7jrYn7AHipvh0EiA) | [CHULERIA](https://open.spotify.com/album/2OR28ltRsFU4HyFzQSAJl3) | 3:06 |
+| 4594 | [Ke quiere hacer](https://open.spotify.com/track/5G2lTc0aqQDDRlnEUkPWBS) | [octa](https://open.spotify.com/artist/35AmfyA3wiyeGfwX84QwVy), [Dearriba](https://open.spotify.com/artist/38VgmuXdTEYy63tcL1E5oV) | [Ke quiere hacer](https://open.spotify.com/album/1rLRlbJS1LvRdbwDHdrDYB) | 2:33 |
 
-Snapshot ID: `AAAJKpF8eH/jfmRssSBHEvWaqJjwQ1BZ`
+Snapshot ID: `AAAJK0QPluhH7MEIDwJUO/QspENwnteu`

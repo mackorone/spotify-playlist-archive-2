@@ -2,9 +2,9 @@
 
 ### [Top Christian Rock](https://open.spotify.com/playlist/37i9dQZF1DX0N57moxx9BL)
 
-> Listen to the recent hits of Christian Rock\.  Cover:  Stryper
+> Listen to the recent hits of Christian Rock\.  Cover:  Skillet
 
-309 songs - 19 hr 43 min
+312 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Fly](https://open.spotify.com/track/5lzec28JNA1x8Rjnz3zr1a) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Fly](https://open.spotify.com/album/55bAheFPgMQHbMR8WNs97r) | 3:04 | 2026-02-14 |  |
 | [Forever & Ever \(feat\. Lindsey Stirling\)](https://open.spotify.com/track/6mc2rHTCtXcLSSG0b7W6wy) | [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Kenotic Metanoia \(Deluxe Edition\)](https://open.spotify.com/album/7tlOspCNKpF5qRIyFPcxTG) | 3:34 | 2024-06-28 |  |
 | [Found Again](https://open.spotify.com/track/6GBlqgArnysPVm2dxsGY6T) | [Ryan Tobin](https://open.spotify.com/artist/3fa1pOq8hmczAGWfYtxDPi) | [Found Again](https://open.spotify.com/album/3RRncCTfbBp4ZWBxigLYT6) | 2:36 | 2025-03-14 | 2026-01-24 |
-| [FREE! \- Live](https://open.spotify.com/track/6TK9UE4eODGbyimh0qEYoq) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [FREE! \(Live\)](https://open.spotify.com/album/68M9x2mqytP80fXEXmdEOy) | 3:45 | 2024-06-28 |  |
+| [FREE! \- Live](https://open.spotify.com/track/6TK9UE4eODGbyimh0qEYoq) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [FREE! \(Live\)](https://open.spotify.com/album/68M9x2mqytP80fXEXmdEOy) | 3:45 | 2024-06-28 | 2026-07-12 |
 | [Fullness](https://open.spotify.com/track/2aDBcIhjP66jyquAtFypKX) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [Alpha](https://open.spotify.com/album/5PseGPt9BlRUIwjZCCmt1W) | 4:09 | 2021-05-28 | 2022-03-12 |
 | [Garden of Shadows](https://open.spotify.com/track/2ydy3Yb4sG4bGc6MGIP2jU) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5), [12 Stones](https://open.spotify.com/artist/0DrXhci3WAyo0WJv1RBOG6), [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj) | [Garden of Shadows](https://open.spotify.com/album/1WFCULlicIkBThTerLzGMW) | 3:28 | 2025-05-09 | 2025-06-01 |
 | [Get Behind Me](https://open.spotify.com/track/1YB5yZSciFB2PNoML0ZOhr) | [Emerson Day](https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ) | [Get Behind Me](https://open.spotify.com/album/2dztwnANbx13xfrRC6vDe8) | 3:45 | 2026-01-23 |  |
@@ -210,7 +210,7 @@
 | [Praise](https://open.spotify.com/track/0Gvf5ZI9U0sLdUR8pe97Yv) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Praise](https://open.spotify.com/album/3hzXl64gTaHZPKkm3gpiAU) | 3:38 | 2026-02-14 |  |
 | [Praise With Everything \- Live](https://open.spotify.com/track/1O3NkK3h81fmNyW40GpUof) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Praise With Everything \(Live\)](https://open.spotify.com/album/38QL3vikchBG5Kl8fT7xvF) | 2:34 | 2025-07-11 |  |
 | [Pressure](https://open.spotify.com/track/4MwDtHxtQw3IW1luonVIs0) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [Everything You Ever Wanted](https://open.spotify.com/album/4PL5z2EnY7YY93IP64v1zf) | 3:37 | 2025-10-24 |  |
-| [Promise](https://open.spotify.com/track/6Q5YYS4lXSO77pnepu4Tte) | [Living Again](https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6) | [Promise](https://open.spotify.com/album/4OK9yH5JyZttlWxvzgRg0G) | 3:50 | 2025-05-09 |  |
+| [Promise](https://open.spotify.com/track/6Q5YYS4lXSO77pnepu4Tte) | [Living Again](https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6) | [Promise](https://open.spotify.com/album/4OK9yH5JyZttlWxvzgRg0G) | 3:50 | 2025-05-09 | 2026-07-12 |
 | [Promise to Live](https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Promise to Live](https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h) | 4:53 | 2023-02-17 | 2024-06-29 |
 | [Promise You're Coming Home](https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF) | [Zahna](https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F) | [Stronger Than Death](https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh) | 3:42 | 2023-02-17 | 2026-05-12 |
 | [Psycho In My Head](https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:17 | 2023-02-17 | 2024-04-19 |
@@ -231,8 +231,10 @@
 | [Run \- Twenty Version](https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Twenty](https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ) | 4:22 | 2022-10-29 | 2025-03-01 |
 | [Salvation For 100%](https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm) | [Pennell](https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R), [Jacob Coyne](https://open.spotify.com/artist/7K73VB30xtMVN68b30wzfR) | [Salvation For 100%](https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF) | 6:09 | 2022-01-14 | 2024-06-29 |
 | [Same Old Story](https://open.spotify.com/track/4moj8PfVwwJwbcLKcYfywa) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [Same Old Story](https://open.spotify.com/album/3gIleQFuXMBgc8hPoAzZMc) | 4:09 | 2022-10-29 | 2024-06-29 |
+| [Sanctified](https://open.spotify.com/track/4Zz2zHzUEs0fZpx6BqzvLc) | [Peyton Parrish](https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc) | [Sanctified](https://open.spotify.com/album/6Rkffs1geVgsP47QDwbLAd) | 2:58 | 2026-07-11 |  |
 | [Save Me](https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:43 | 2021-05-28 | 2022-01-15 |
 | [Scarlet](https://open.spotify.com/track/226x3SnfqKmWipiwilLE2G) | [Living Again](https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6) | [Scarlet](https://open.spotify.com/album/5Co6yLI3KGvUphFbkt4nRM) | 2:59 | 2024-11-01 | 2024-11-14 |
+| [Scream](https://open.spotify.com/track/7vYOEQfVkPtZ3JUKAhPVqU) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Scream](https://open.spotify.com/album/6fONg6IKy2vvl1oapOPrbj) | 3:26 | 2026-07-11 |  |
 | [See No Evil, Hear No Evil](https://open.spotify.com/track/7A61G3HRgUWZJEgcuS05n6) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [See No Evil, Hear No Evil](https://open.spotify.com/album/1h0WWO7QEbyIztxbalxp23) | 4:54 | 2022-10-29 | 2024-06-29 |
 | [Send Forth Laborers](https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb) | [Pennell](https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R) | [Pennell](https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D) | 5:33 | 2022-01-14 | 2024-08-31 |
 | [SEVENS](https://open.spotify.com/track/2sglTkwKcBpufhmTX2X9YZ) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [SEVENS](https://open.spotify.com/album/5e5OdQvdEb6hzOvTwMbjM6) | 4:21 | 2025-05-31 |  |
@@ -266,6 +268,7 @@
 | [The Executioner](https://open.spotify.com/track/4PzA54JwZaMH9aptDuAlAL) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [The Executioner](https://open.spotify.com/album/1NEpP36Ofk1GwaLZVD44xT) | 4:07 | 2023-02-17 | 2024-06-29 |
 | [The Fire Itself](https://open.spotify.com/track/0qrjqzcP1kbhtKD2HfODmy) | [Phinehas](https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0) | [The Fire Itself](https://open.spotify.com/album/5Oo7UOjikKgfz36UDS1RAW) | 3:39 | 2022-01-14 | 2024-05-11 |
 | [The First & the Last](https://open.spotify.com/track/4MJoEFLiEMkDZch8l3J63z) | [Collision of Innocence](https://open.spotify.com/artist/35wkX6HAVNXCsDF79SnoGc) | [The First & the Last](https://open.spotify.com/album/2BQlQnftog5PKWO4mCvR5m) | 3:39 | 2021-05-28 | 2025-11-22 |
+| [The Fool \(Mayday\)](https://open.spotify.com/track/50ABhKqdsNqB9hLVnpCo5K) | [Nine Lashes](https://open.spotify.com/artist/6L5kgEyFIlckHbMdRM2KXQ) | [The Fool \(Mayday\)](https://open.spotify.com/album/4dsTDV3MDxxl7QwiCpBmEW) | 3:18 | 2026-07-11 |  |
 | [The Light](https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [The Light](https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C) | 3:21 | 2023-02-17 | 2025-03-15 |
 | [The Lord Is My Shepherd \(Psalm 23\)](https://open.spotify.com/track/4GprQ46Y7PBtiTkequEhM3) | [All Glory Worshipcore](https://open.spotify.com/artist/0d5MpnZbQrQMXvmzV4nDfE) | [The Lord Is My Shepherd \(Psalm 23\)](https://open.spotify.com/album/6d18gh9wTjemh3HeoeDlhk) | 4:47 | 2026-03-29 | 2026-05-16 |
 | [The Memory](https://open.spotify.com/track/0wCbt2OooGJIWAccsP2MpL) | [Caleb Hyles](https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU), [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [The Darkness Before The Dawn](https://open.spotify.com/album/2HK9jU69MsXP78rfv4Sj4T) | 3:12 | 2025-02-28 |  |
@@ -291,7 +294,7 @@
 | [Wake Me Up](https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y) | [Living Scars](https://open.spotify.com/artist/5XIE35eMDOvXmZPHyE0mGE) | [Wake Me Up](https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY) | 4:13 | 2023-07-28 |  |
 | [Wake Up, Mr\. Crow](https://open.spotify.com/track/0grUF97drgnU62EI7jpN4x) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Wake Up, Mr\. Crow](https://open.spotify.com/album/41Q8Mjdp8pXFoYmJItNgFb) | 4:05 | 2026-03-29 |  |
 | [WALK AWAY](https://open.spotify.com/track/69rNXkGYtjZEV8VJNjAekb) | [Coquí](https://open.spotify.com/artist/1uCjP7p7EWy5ZfH2jszK06) | [WALK AWAY](https://open.spotify.com/album/04KMCAoDxsJEevw2OXDduZ) | 3:28 | 2026-06-12 |  |
-| [Walking Into Fire](https://open.spotify.com/track/1KQXKOSfTYKsDNBVL4gXXo) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Walking Into Fire](https://open.spotify.com/album/3ZHPDFdLiHctzZhdYEwlyB) | 3:01 | 2025-09-26 |  |
+| [Walking Into Fire](https://open.spotify.com/track/1KQXKOSfTYKsDNBVL4gXXo) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Walking Into Fire](https://open.spotify.com/album/3ZHPDFdLiHctzZhdYEwlyB) | 3:01 | 2025-09-26 | 2026-07-12 |
 | [War of Change \- Reignited](https://open.spotify.com/track/1ZEozdTpkYk0FYJ24YWj7t) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr), [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [War of Change](https://open.spotify.com/album/7Jl5wUb5M6nQ8Fmyee3czI) | 3:18 | 2023-07-28 | 2024-06-29 |
 | [Way You Love Me](https://open.spotify.com/track/1CFV6jDeM0HDY0wqvbhNCW) | [XXI](https://open.spotify.com/artist/7dPci6f1wSaMR2McjBdb4C) | [Inside Out](https://open.spotify.com/album/53d2Js7Xbyw8MlCq2EcXvW) | 3:53 | 2022-03-11 | 2024-04-19 |
 | [Way You Love Me](https://open.spotify.com/track/7hJtAHrevoIBIJFKvs23gn) | [XXI](https://open.spotify.com/artist/7dPci6f1wSaMR2McjBdb4C) | [Inside Out](https://open.spotify.com/album/5uWqsBukvP6JMHqeI7F0ME) | 3:53 | 2021-05-28 | 2024-08-31 |

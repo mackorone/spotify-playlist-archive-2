@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: CoCo Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,269 likes - 269 songs - 14 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,266 likes - 269 songs - 14 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 37 | [DOOM](https://open.spotify.com/track/6LDQJ8UkVZ0yFLTlKx97nO) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [DOOM](https://open.spotify.com/album/15nhKIauvPO7H84gOgL4WP) | 1:37 |
 | 38 | [borderline](https://open.spotify.com/track/55sxV91ONwaNz31R3HESnV) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [borderline](https://open.spotify.com/album/4RuzjsaUT6UbmPRITLM54U) | 4:24 |
 | 39 | [Date Night](https://open.spotify.com/track/79DMm9LTaaPvBh5p3sIjWx) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx), [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr), [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l) | [Lucky Me](https://open.spotify.com/album/7iWh8pkPqZknJm7F7uAQdo) | 2:23 |
-| 40 | [Don't Cry](https://open.spotify.com/track/626Qnan90KdrGqYTIDc8d0) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lady Luck](https://open.spotify.com/album/5B0m3PiMxCq1TjF7wxLM6I) | 3:15 |
+| 40 | [Don't Cry \(feat\. Maverick Sabre\)](https://open.spotify.com/track/626Qnan90KdrGqYTIDc8d0) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lady Luck](https://open.spotify.com/album/5B0m3PiMxCq1TjF7wxLM6I) | 3:15 |
 | 41 | [On Your Time \(Hold You Like It's Ice Cold\)](https://open.spotify.com/track/4ZNfNWylpQtGsq3ALDUlnm) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [On Your Time \(Hold You Like It's Ice Cold\)](https://open.spotify.com/album/3xD5u6AttDKey4PXrfKm9i) | 4:30 |
 | 42 | [Second Second Chances](https://open.spotify.com/track/6trXX4JeO8tQh0dFO3Hg7t) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2), [millkzy](https://open.spotify.com/artist/7sxM2gRejxUDw7fKtCISzR) | [Second Second Chances](https://open.spotify.com/album/1cgNMFzvnQ8FQZPYe4FIE8) | 3:06 |
 | 43 | [All 2 Myself](https://open.spotify.com/track/1ATosP7EtfDwYpGnyFCPLp) | [Miiles44](https://open.spotify.com/artist/0qMcSjYZVHwlz9c8llOKvZ) | [All 2 Myself](https://open.spotify.com/album/56YPvP5zhC3xkrfA3tyUQ0) | 1:38 |

@@ -4902,7 +4902,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 185721,
       "name": "Puss Puss - Girls Trip",
       "url": "https://open.spotify.com/track/2nYpEIZbqk9Pj3UCXbwtpM"
@@ -5924,6 +5924,28 @@
       "duration_ms": 150733,
       "name": "Tennis",
       "url": "https://open.spotify.com/track/6WQsY2YMdIQWoOm9MyZMWR"
+    },
+    {
+      "album": {
+        "name": "the bridge",
+        "url": "https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233533,
+      "name": "the bridge",
+      "url": "https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX"
     },
     {
       "album": {

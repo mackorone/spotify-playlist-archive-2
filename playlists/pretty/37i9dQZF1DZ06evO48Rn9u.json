@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 155829,
+  "num_followers": 155857,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAABA+NGiW5jZ2dAS/cu/pVhl",
+  "snapshot_id": "alA2AAAAAACsO7hUICBcoypsKgKy1yQN",
   "tracks": [
     {
       "added_at": null,
@@ -322,11 +322,15 @@
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 231253,
-      "name": "I Believe In Ghosts",
-      "url": "https://open.spotify.com/track/7grbib2M3CyUJUf4dcm7uQ"
+      "duration_ms": 213382,
+      "name": "Uncertain, TX (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/5TiQigVz1QEdGp7blCbYLQ"
     },
     {
       "added_at": null,
@@ -386,15 +390,11 @@
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 213382,
-      "name": "Uncertain, TX (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/5TiQigVz1QEdGp7blCbYLQ"
+      "duration_ms": 231253,
+      "name": "I Believe In Ghosts",
+      "url": "https://open.spotify.com/track/7grbib2M3CyUJUf4dcm7uQ"
     },
     {
       "added_at": null,

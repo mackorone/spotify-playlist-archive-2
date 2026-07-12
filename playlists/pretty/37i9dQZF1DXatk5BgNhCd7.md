@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo de música tropical 📸  Luciano Pereyra & Sebastián Mendoza
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,971 likes - 99 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,989 likes - 99 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 98 | [Casada Con La Cumbia](https://open.spotify.com/track/1Gt5wUUSWcByGeVcfXeZft) | [La Nueva Ola de Cumbia](https://open.spotify.com/artist/1i8V0JVW4GJxg5mgcocreK) | [Llegó La Nueva Ola](https://open.spotify.com/album/169e0X6KwNT8mBrTaldcTr) | 3:23 |
 | 99 | [Candela](https://open.spotify.com/track/0dBGFhfl6Hv9MyQxN7puFP) | [Busy Twist](https://open.spotify.com/artist/0jPcvO2Jz1kkvANItu53jI), [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [Busy Life Vol 1](https://open.spotify.com/album/5TJMMTNtnILNXw3CfxoyNF) | 2:32 |
 
-Snapshot ID: `AAAAAGpgyFFBnoeUnAg1CWvE0VrWG5h/`
+Snapshot ID: `AAAAAIa4Q0iNfDvoCej+a/dIFMsX92Nk`

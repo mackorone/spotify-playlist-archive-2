@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 27009,
+  "num_followers": 27037,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAAAj7+9VII6KfCeGrc+bm7RY",
+  "snapshot_id": "alA2AAAAAADSlirZdvDqhVDbZNaR3vqe",
   "tracks": [
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Karma",
-        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
+        "name": "Blackbird Rising & Blackbird Returns",
+        "url": "https://open.spotify.com/album/33uiWiMlb1R43RQXCg6NLp"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 191445,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m"
+      "duration_ms": 134436,
+      "name": "Blackbird Returning",
+      "url": "https://open.spotify.com/track/57u22n34Gm8r3KIyiRPsXK"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackbird Rising & Blackbird Returns",
-        "url": "https://open.spotify.com/album/33uiWiMlb1R43RQXCg6NLp"
+        "name": "Piano Karma",
+        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 134436,
-      "name": "Blackbird Returning",
-      "url": "https://open.spotify.com/track/57u22n34Gm8r3KIyiRPsXK"
+      "duration_ms": 191445,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paper Hearts",
-        "url": "https://open.spotify.com/album/4Qqrbs0aM85WekFlyqnCHR"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 214855,
-      "name": "Paper Hearts",
-      "url": "https://open.spotify.com/track/0KFKTwfybfg4Y2A28rA00I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
       },
@@ -779,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
+        "name": "Paper Hearts",
+        "url": "https://open.spotify.com/album/4Qqrbs0aM85WekFlyqnCHR"
       },
       "artists": [
         {
@@ -788,9 +772,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 76923,
-      "name": "Midnight Reverie",
-      "url": "https://open.spotify.com/track/0dVL9nYiBF9ioCpq2oWR67"
+      "duration_ms": 214855,
+      "name": "Paper Hearts",
+      "url": "https://open.spotify.com/track/0KFKTwfybfg4Y2A28rA00I"
     },
     {
       "added_at": null,
@@ -831,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paper Hearts",
-        "url": "https://open.spotify.com/album/4Qqrbs0aM85WekFlyqnCHR"
+        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
       },
       "artists": [
         {
@@ -840,9 +824,25 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 225103,
-      "name": "Closer to Forever",
-      "url": "https://open.spotify.com/track/5rcFpNVeoaVBlPVqgLRsQY"
+      "duration_ms": 76923,
+      "name": "Midnight Reverie",
+      "url": "https://open.spotify.com/track/0dVL9nYiBF9ioCpq2oWR67"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 202069,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/5Zo96jw2gqhA6JpUsmPrSu"
     }
   ],
   "unique_name": "This Is Alexis Ffrench",

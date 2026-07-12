@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 21873,
+  "num_followers": 21889,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAAD3bWApc3tbPDX09JdFm1h9",
+  "snapshot_id": "alA2AAAAAAATxvPSKOPBGH924W10ZYla",
   "tracks": [
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KM2 (De Luxo)",
-        "url": "https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 129577,
-      "name": "KM2",
-      "url": "https://open.spotify.com/track/5ZBkP9AbjM2JN7n0WKqpYp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vis\u00e3o Perif\u00e9rica",
         "url": "https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 178964,
       "name": "Flashes",
       "url": "https://open.spotify.com/track/2bqzfsvVkg7OXxop76r2Pf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KM2 (De Luxo)",
+        "url": "https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 129577,
+      "name": "KM2",
+      "url": "https://open.spotify.com/track/5ZBkP9AbjM2JN7n0WKqpYp"
     },
     {
       "added_at": null,
@@ -691,30 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PADRIM",
-        "url": "https://open.spotify.com/album/2nVbPjjv5bDVVbetaBBVZC"
-      },
-      "artists": [
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "CONFIO",
-      "url": "https://open.spotify.com/track/2fHTORsrb3R6bc3LeNVynN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vis\u00e3o Perif\u00e9rica",
         "url": "https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 164941,
       "name": "P\u00f3dio",
       "url": "https://open.spotify.com/track/53fwzkmkU2NR8pyNB8qYCj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PADRIM",
+        "url": "https://open.spotify.com/album/2nVbPjjv5bDVVbetaBBVZC"
+      },
+      "artists": [
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "CONFIO",
+      "url": "https://open.spotify.com/track/2fHTORsrb3R6bc3LeNVynN"
     },
     {
       "added_at": null,
@@ -795,30 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Condessa",
-        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Celo1st",
-          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
-        }
-      ],
-      "duration_ms": 134569,
-      "name": "Disco",
-      "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vis\u00e3o Perif\u00e9rica",
         "url": "https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF"
       },
@@ -867,6 +843,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        }
+      ],
+      "duration_ms": 134569,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Facetime",
         "url": "https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr"
       },
@@ -879,26 +879,6 @@
       "duration_ms": 163970,
       "name": "Facetime",
       "url": "https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tanto Faz",
-        "url": "https://open.spotify.com/album/5KpJdmvfZhyew4cg0GLqHS"
-      },
-      "artists": [
-        {
-          "name": "Black Queen",
-          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Tanto Faz",
-      "url": "https://open.spotify.com/track/7s6Raq8Yvdhjsa38Bnpp8t"
     },
     {
       "added_at": null,
@@ -919,6 +899,26 @@
       "duration_ms": 132213,
       "name": "After",
       "url": "https://open.spotify.com/track/6WODGYSGiq0aUNqYlOYNhA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tanto Faz",
+        "url": "https://open.spotify.com/album/5KpJdmvfZhyew4cg0GLqHS"
+      },
+      "artists": [
+        {
+          "name": "Black Queen",
+          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Tanto Faz",
+      "url": "https://open.spotify.com/track/7s6Raq8Yvdhjsa38Bnpp8t"
     },
     {
       "added_at": null,
@@ -991,6 +991,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vis\u00e3o Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "BENO",
+          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 188581,
+      "name": "Caneta",
+      "url": "https://open.spotify.com/track/2WxgnVuE9zJPWqqQacGHE0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetisas No Topo 2",
         "url": "https://open.spotify.com/album/16uPlD73yxyVijz6qPdYVu"
       },
@@ -1031,30 +1055,6 @@
       "duration_ms": 556662,
       "name": "Poetisas No Topo 2",
       "url": "https://open.spotify.com/track/00LRPoVKWNm7OxeX4TvC8y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vis\u00e3o Perif\u00e9rica",
-        "url": "https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "BENO",
-          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 188581,
-      "name": "Caneta",
-      "url": "https://open.spotify.com/track/2WxgnVuE9zJPWqqQacGHE0"
     },
     {
       "added_at": null,

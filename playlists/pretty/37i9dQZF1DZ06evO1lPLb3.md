@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 
 > This is Peggy Gou\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,693 likes - 36 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,715 likes - 36 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 | 31 | [Hundres Times](https://open.spotify.com/track/26oSDKypk0yTVUlCHi5B73) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Once](https://open.spotify.com/album/6iPrb23tXiLrKCCmiAqVTA) | 6:56 |
 | 32 | [Troop](https://open.spotify.com/track/7GbhZNoIASAeUjwekiT0sa) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art of War EP](https://open.spotify.com/album/2GSiOe0Olm5qoWM6jLtxKo) | 5:53 |
 | 33 | [Seoulsi Peggygou \(서울시페기구\)](https://open.spotify.com/track/2MQWxF9FTFBHBkU3NcvODv) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 2:37 |
-| 34 | [When Round, They Go \- Terekke Remix](https://open.spotify.com/track/2jcLXice4V8TNsvwE76498) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Terekke](https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu) | [Art of War \(Pt\. II\) EP](https://open.spotify.com/album/5wKpkXfZE8R4jQzlszOplp) | 6:27 |
-| 35 | [Travelling Without Arriving](https://open.spotify.com/track/4FiadIuhjYbjq5jkEwCOFF) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Travelling Without Arriving](https://open.spotify.com/album/6deWiLAKj3Zpb85JrFbvlO) | 5:57 |
+| 34 | [Travelling Without Arriving](https://open.spotify.com/track/4FiadIuhjYbjq5jkEwCOFF) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Travelling Without Arriving](https://open.spotify.com/album/6deWiLAKj3Zpb85JrFbvlO) | 5:57 |
+| 35 | [When Round, They Go \- Terekke Remix](https://open.spotify.com/track/2jcLXice4V8TNsvwE76498) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Terekke](https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu) | [Art of War \(Pt\. II\) EP](https://open.spotify.com/album/5wKpkXfZE8R4jQzlszOplp) | 6:27 |
 | 36 | [In Sum](https://open.spotify.com/track/03lJOQU2pvvNVTppJ3VvIs) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art of War EP](https://open.spotify.com/album/2GSiOe0Olm5qoWM6jLtxKo) | 6:36 |
 
-Snapshot ID: `ak7kgAAAAACa9/gnOJbYaCsbBkvAx4Y3`
+Snapshot ID: `alA2AAAAAABrRwwRJSOO5yKmWpqNcStI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: KB
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,644,723 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,644,918 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 20 | [Living Room Floor](https://open.spotify.com/track/3AP4jRZHwh2mmFJvSz9riQ) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Living Room Floor](https://open.spotify.com/album/2TnsBQiuT5RJe7W4jmsScO) | 4:19 |
 | 21 | [Glory Glory \- Unplugged](https://open.spotify.com/track/1wIgOnrrx5a1GuaqD5OH90) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Everything I Thought Was Pleasure \(Unplugged\)](https://open.spotify.com/album/4xDevxA8VQU30XbvnHc2fS) | 3:19 |
 | 22 | [listening](https://open.spotify.com/track/10Lr9lK7wQGRyaCdb2kspj) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Just Us](https://open.spotify.com/album/08oXopCW2RCdYqNdHiTrit) | 3:53 |
-| 23 | [Glory Arise](https://open.spotify.com/track/3cdUWBYEYJakyDOBN7707K) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Grace Shuffitt](https://open.spotify.com/artist/616bHpVJW9TVUjh58t4S68) | [GLORY ARISE](https://open.spotify.com/album/0Ggj9Qaz10LMGYHPvaTf7L) | 7:06 |
+| 23 | [GLORY ARISE](https://open.spotify.com/track/3cdUWBYEYJakyDOBN7707K) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Grace Shuffitt](https://open.spotify.com/artist/616bHpVJW9TVUjh58t4S68) | [GLORY ARISE](https://open.spotify.com/album/0Ggj9Qaz10LMGYHPvaTf7L) | 7:06 |
 | 24 | [Amazing Grace](https://open.spotify.com/track/64MrCcCsHkXim9Fdi7P6CY) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [The Hymns \(Spotify Version\)](https://open.spotify.com/album/3hsmfn4WeVjTgH7A6xx3Lp) | 4:13 |
 | 25 | [Yahweh](https://open.spotify.com/track/3P3BpjuFi9R9wCg1cUoaUl) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Happy To Be Here](https://open.spotify.com/album/548SBeYbBBay8CuJSGgbfu) | 5:17 |
 | 26 | [No One Like The Lord](https://open.spotify.com/track/63PS63EkeqYJMTN7AFh65j) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Lily Hooten](https://open.spotify.com/artist/5pgwHZ02bNDJPgPw6neVim) | [House Church Vol\. 001](https://open.spotify.com/album/2wsjghItFIaMTy5mR0LfvJ) | 5:30 |

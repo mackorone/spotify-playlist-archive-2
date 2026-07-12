@@ -4,7 +4,7 @@
 
 > This is Black Sabbath\. The essential tracks, all in one playlist.
 
-63 songs - 5 hr 34 min
+64 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [N.I.B\. \- 2009 Remaster](https://open.spotify.com/track/3XclwoQxz4p6Dl7VUf90KW) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 6:06 | 2025-07-23 |  |
 | [Neon Knights](https://open.spotify.com/track/7r2QK941qra9MDQIllJdZs) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven & Hell](https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T) | 3:51 | 2025-07-23 |  |
 | [Never Say Die \- 2009 Remaster](https://open.spotify.com/track/42aY1pEcjp3GWENE6LUPnx) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Never Say Die!](https://open.spotify.com/album/3L6ss776rbc4BlupPEDOLw) | 3:47 | 2025-07-23 |  |
-| [No Stranger to Love \- 2009 Remaster](https://open.spotify.com/track/2ygXPctQz2DlDqKONcPGDE) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Seventh Star](https://open.spotify.com/album/16uFPGPWCJWvuiGwMVtYRw) | 4:29 | 2025-07-23 |  |
+| [No Stranger to Love \(feat\. Tony Iommi\) \[Remix\] \- 2026 Remaster](https://open.spotify.com/track/17GFObxfODhOKjhjatNwcQ) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Seventh Star \(feat\. Tony Iommi\) \[2026 Remaster\]](https://open.spotify.com/album/5ga0U58Tu6ki8ymq1gPZ1T) | 4:02 | 2026-07-12 |  |
+| [No Stranger to Love \- 2009 Remaster](https://open.spotify.com/track/2ygXPctQz2DlDqKONcPGDE) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Seventh Star](https://open.spotify.com/album/16uFPGPWCJWvuiGwMVtYRw) | 4:29 | 2025-07-23 | 2026-07-12 |
 | [Orchid \- 2009 Remaster](https://open.spotify.com/track/42HN6p1xRxAn439UH1MJ6G) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality](https://open.spotify.com/album/24fNwoIq4NLDf4ARJYAFN9) | 1:31 | 2025-07-23 |  |
 | [Paranoid \- 2009 Remaster](https://open.spotify.com/track/3Jnxngdff0lVu2rza1GVx6) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid](https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI) | 2:47 | 2025-07-23 |  |
 | [Planet Caravan \- 2009 Remaster](https://open.spotify.com/track/4zgHtuasZkiZu1caZwxF5P) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid](https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI) | 4:29 | 2025-07-23 |  |

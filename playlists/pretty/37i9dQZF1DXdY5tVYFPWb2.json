@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 182269,
+  "num_followers": 182288,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-06-30 15:00:19",
       "album": {
-        "name": "\u30d0\u30b0\u3063\u305f\u5973\u795e",
-        "url": "https://open.spotify.com/album/3zZR5S5dbKN1h0vp6g5QAJ"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        }
-      ],
-      "duration_ms": 187896,
-      "name": "\u30d0\u30b0\u3063\u305f\u5973\u795e",
-      "url": "https://open.spotify.com/track/3eqLFoEeE09019Chfmhlrq"
-    },
-    {
-      "added_at": "2026-06-30 15:00:19",
-      "album": {
         "name": "\u5fae\u70ad\u9178",
         "url": "https://open.spotify.com/album/2yvUedNwMr1aq1bFXvUXFA"
       },
@@ -735,18 +719,34 @@
     {
       "added_at": "2026-06-30 15:00:19",
       "album": {
-        "name": "\u96e2\u5a5a\u4f1d\u8aac",
-        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
+        "name": "\u30d0\u30b0\u3063\u305f\u5973\u795e",
+        "url": "https://open.spotify.com/album/3zZR5S5dbKN1h0vp6g5QAJ"
       },
       "artists": [
         {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
         }
       ],
-      "duration_ms": 162960,
-      "name": "\u307e\u305f\u65c5\u306b\u8a98\u308f\u308c\u3066",
-      "url": "https://open.spotify.com/track/5l0SzsTg6IBI3LwfLvq4f2"
+      "duration_ms": 187896,
+      "name": "\u30d0\u30b0\u3063\u305f\u5973\u795e",
+      "url": "https://open.spotify.com/track/3eqLFoEeE09019Chfmhlrq"
+    },
+    {
+      "added_at": "2026-06-30 15:00:19",
+      "album": {
+        "name": "\u66d6\u6627\u306aBEACH",
+        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
+      },
+      "artists": [
+        {
+          "name": "\u793c\u8cdb",
+          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "\u66d6\u6627\u306aBEACH",
+      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
     },
     {
       "added_at": "2026-06-30 15:00:19",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-06-30 15:00:19",
       "album": {
-        "name": "\u66d6\u6627\u306aBEACH",
-        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
+        "name": "\u96e2\u5a5a\u4f1d\u8aac",
+        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
       },
       "artists": [
         {
-          "name": "\u793c\u8cdb",
-          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
         }
       ],
-      "duration_ms": 159000,
-      "name": "\u66d6\u6627\u306aBEACH",
-      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
+      "duration_ms": 162960,
+      "name": "\u307e\u305f\u65c5\u306b\u8a98\u308f\u308c\u3066",
+      "url": "https://open.spotify.com/track/5l0SzsTg6IBI3LwfLvq4f2"
     },
     {
       "added_at": "2026-06-30 15:00:19",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-06-30 15:00:19",
       "album": {
+        "name": "kiri\u304c\u306a\u3044\u3067\u3059\u308f",
+        "url": "https://open.spotify.com/album/5OZdzA65lHi0E53GT57XZf"
+      },
+      "artists": [
+        {
+          "name": "I Don't Like Mondays.",
+          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
+        }
+      ],
+      "duration_ms": 168353,
+      "name": "kiri\u304c\u306a\u3044\u3067\u3059\u308f",
+      "url": "https://open.spotify.com/track/6eArsdpADo1RTt7zX2Ys1K"
+    },
+    {
+      "added_at": "2026-06-30 15:00:19",
+      "album": {
         "name": "\u304a\u306f\u3088\u3046",
         "url": "https://open.spotify.com/album/10XtjZqcqjXxRdUf0zH5tU"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 228865,
       "name": "\u304a\u306f\u3088\u3046",
       "url": "https://open.spotify.com/track/4CumCsapxGMoFpw9EZS7M0"
-    },
-    {
-      "added_at": "2026-06-30 15:00:19",
-      "album": {
-        "name": "kiri\u304c\u306a\u3044\u3067\u3059\u308f",
-        "url": "https://open.spotify.com/album/5OZdzA65lHi0E53GT57XZf"
-      },
-      "artists": [
-        {
-          "name": "I Don't Like Mondays.",
-          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
-        }
-      ],
-      "duration_ms": 168353,
-      "name": "kiri\u304c\u306a\u3044\u3067\u3059\u308f",
-      "url": "https://open.spotify.com/track/6eArsdpADo1RTt7zX2Ys1K"
     },
     {
       "added_at": "2026-06-30 15:00:19",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-06-30 15:00:19",
       "album": {
+        "name": "\u30ed\u30de\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf"
+      },
+      "artists": [
+        {
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "\u30ed\u30de\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC"
+    },
+    {
+      "added_at": "2026-06-30 15:00:19",
+      "album": {
         "name": "TIME MACHINE",
         "url": "https://open.spotify.com/album/2XWYh2by9h93BMGIbaf9H2"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 197000,
       "name": "FRIENDS",
       "url": "https://open.spotify.com/track/6CBtFrVBLFIBqg5j4EhAVt"
-    },
-    {
-      "added_at": "2026-06-30 15:00:19",
-      "album": {
-        "name": "\u30ed\u30de\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf"
-      },
-      "artists": [
-        {
-          "name": "kiki vivi lily",
-          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
-        }
-      ],
-      "duration_ms": 224600,
-      "name": "\u30ed\u30de\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC"
     },
     {
       "added_at": "2026-06-30 15:00:19",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-06-30 15:00:19",
       "album": {
+        "name": "SEPTEMBER",
+        "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
+      },
+      "artists": [
+        {
+          "name": "Hiroji Miyamoto",
+          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
+        }
+      ],
+      "duration_ms": 275560,
+      "name": "SEPTEMBER",
+      "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
+    },
+    {
+      "added_at": "2026-06-30 15:00:19",
+      "album": {
         "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
         "url": "https://open.spotify.com/album/0kZ3rzCgH0skz6SR3CvG5P"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 228733,
       "name": "ASH feat. Vaundy",
       "url": "https://open.spotify.com/track/00lGrbFYsAmvWUktnujaKO"
-    },
-    {
-      "added_at": "2026-06-30 15:00:19",
-      "album": {
-        "name": "SEPTEMBER",
-        "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
-      },
-      "artists": [
-        {
-          "name": "Hiroji Miyamoto",
-          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
-        }
-      ],
-      "duration_ms": 275560,
-      "name": "SEPTEMBER",
-      "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
     },
     {
       "added_at": "2026-06-30 15:00:19",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-06-30 15:00:19",
       "album": {
+        "name": "Favorite!",
+        "url": "https://open.spotify.com/album/7o8VbUK3GOTgkzz94fT8BK"
+      },
+      "artists": [
+        {
+          "name": "GOOD BYE APRIL",
+          "url": "https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38"
+        }
+      ],
+      "duration_ms": 206990,
+      "name": "Favorite!",
+      "url": "https://open.spotify.com/track/5PTEJUik5L4MphS8iOngPt"
+    },
+    {
+      "added_at": "2026-06-30 15:00:19",
+      "album": {
         "name": "Living Room",
         "url": "https://open.spotify.com/album/17wsj6ok978OcBQhmNexce"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 251600,
       "name": "\u3042\u306a\u305f\u3086\u305a\u308a",
       "url": "https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3"
-    },
-    {
-      "added_at": "2026-06-30 15:00:19",
-      "album": {
-        "name": "TYT",
-        "url": "https://open.spotify.com/album/27fwOpwm1gAJ6z76Wgz0PI"
-      },
-      "artists": [
-        {
-          "name": "Offo tokyo",
-          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "TYT",
-      "url": "https://open.spotify.com/track/4oY7S5fKfIxMW6aCfRtJYl"
     },
     {
       "added_at": "2026-06-30 15:00:19",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2026-06-30 15:00:19",
       "album": {
-        "name": "Favorite!",
-        "url": "https://open.spotify.com/album/7o8VbUK3GOTgkzz94fT8BK"
+        "name": "TYT",
+        "url": "https://open.spotify.com/album/27fwOpwm1gAJ6z76Wgz0PI"
       },
       "artists": [
         {
-          "name": "GOOD BYE APRIL",
-          "url": "https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38"
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
         }
       ],
-      "duration_ms": 206990,
-      "name": "Favorite!",
-      "url": "https://open.spotify.com/track/5PTEJUik5L4MphS8iOngPt"
+      "duration_ms": 186400,
+      "name": "TYT",
+      "url": "https://open.spotify.com/track/4oY7S5fKfIxMW6aCfRtJYl"
     },
     {
       "added_at": "2026-06-30 15:00:19",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-06-30 15:00:19",
       "album": {
-        "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
-        "url": "https://open.spotify.com/album/08V4DnfoV2GJEhipLhUyrD"
-      },
-      "artists": [
-        {
-          "name": "Offo tokyo",
-          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
-        }
-      ],
-      "duration_ms": 195900,
-      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
-      "url": "https://open.spotify.com/track/4u9vXoi6e2SRaCQNicDg3B"
-    },
-    {
-      "added_at": "2026-06-30 15:00:19",
-      "album": {
         "name": "\u3061\u304c\u3046",
         "url": "https://open.spotify.com/album/5dUP4yDeeOuClON4hiqVCO"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 220960,
       "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4 - 2022 mix",
       "url": "https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2"
+    },
+    {
+      "added_at": "2026-06-30 15:00:19",
+      "album": {
+        "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
+        "url": "https://open.spotify.com/album/08V4DnfoV2GJEhipLhUyrD"
+      },
+      "artists": [
+        {
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+        }
+      ],
+      "duration_ms": 195900,
+      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
+      "url": "https://open.spotify.com/track/4u9vXoi6e2SRaCQNicDg3B"
     },
     {
       "added_at": "2026-06-30 15:00:19",

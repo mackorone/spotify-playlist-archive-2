@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak\. Cover:  mittelkin
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,446 likes - 61 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,443 likes - 61 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

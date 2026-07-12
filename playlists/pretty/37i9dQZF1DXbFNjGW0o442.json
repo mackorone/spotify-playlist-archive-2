@@ -531,22 +531,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Lucy Patan\u00e9",
-        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
-      },
-      "artists": [
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
-        }
-      ],
-      "duration_ms": 246594,
-      "name": "En Toneles",
-      "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "De Facto",
         "url": "https://open.spotify.com/album/1hRlJMZZEZNu0ObbyL53k9"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 209106,
       "name": "L\u00edneas En Hojas",
       "url": "https://open.spotify.com/track/0aQducLdlpix3u5yL6MfYT"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Lucy Patan\u00e9",
+        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
+      },
+      "artists": [
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        }
+      ],
+      "duration_ms": 246594,
+      "name": "En Toneles",
+      "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -743,18 +743,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "beso despedida",
-        "url": "https://open.spotify.com/album/1APUF9YYr1YSNN5smPXyj5"
+        "name": "Such A Witch",
+        "url": "https://open.spotify.com/album/74yDqvcfl1uFBbVolTReFr"
       },
       "artists": [
         {
-          "name": "Ernestina",
-          "url": "https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU"
+          "name": "Dum Chica",
+          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
         }
       ],
-      "duration_ms": 136364,
-      "name": "beso despedida",
-      "url": "https://open.spotify.com/track/01xEQ8jOzp5KccGOoMSofG"
+      "duration_ms": 242186,
+      "name": "Such A Witch",
+      "url": "https://open.spotify.com/track/33BD4qBJIAxOIeneCcvo2O"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -779,18 +779,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Such A Witch",
-        "url": "https://open.spotify.com/album/74yDqvcfl1uFBbVolTReFr"
+        "name": "beso despedida",
+        "url": "https://open.spotify.com/album/1APUF9YYr1YSNN5smPXyj5"
       },
       "artists": [
         {
-          "name": "Dum Chica",
-          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
+          "name": "Ernestina",
+          "url": "https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU"
         }
       ],
-      "duration_ms": 242186,
-      "name": "Such A Witch",
-      "url": "https://open.spotify.com/track/33BD4qBJIAxOIeneCcvo2O"
+      "duration_ms": 136364,
+      "name": "beso despedida",
+      "url": "https://open.spotify.com/track/01xEQ8jOzp5KccGOoMSofG"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -975,6 +975,26 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "Celesteac\u00fastica (Veinteaniversario)",
+        "url": "https://open.spotify.com/album/6tQ0Kj4WjIJDobEpCxlRIy"
+      },
+      "artists": [
+        {
+          "name": "Celeste Carballo",
+          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
+        },
+        {
+          "name": "Guillermo Bonetto",
+          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
+        }
+      ],
+      "duration_ms": 267091,
+      "name": "Mi Elemento",
+      "url": "https://open.spotify.com/track/1LlMcgHwbls4Q2YCBWzcl1"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Agitar",
         "url": "https://open.spotify.com/album/2rdYalIkT3ijzl7zs69NGZ"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 229750,
       "name": "Cronos",
       "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Celesteac\u00fastica (Veinteaniversario)",
-        "url": "https://open.spotify.com/album/6tQ0Kj4WjIJDobEpCxlRIy"
-      },
-      "artists": [
-        {
-          "name": "Celeste Carballo",
-          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
-        },
-        {
-          "name": "Guillermo Bonetto",
-          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
-        }
-      ],
-      "duration_ms": 267091,
-      "name": "Mi Elemento",
-      "url": "https://open.spotify.com/track/1LlMcgHwbls4Q2YCBWzcl1"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "EGO",
-        "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
+        "name": "Juego",
+        "url": "https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU"
       },
       "artists": [
         {
-          "name": "Daniela Milagros",
-          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
         }
       ],
-      "duration_ms": 190165,
-      "name": "EGO",
-      "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
+      "duration_ms": 189230,
+      "name": "Juego",
+      "url": "https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Juego",
-        "url": "https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU"
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
       },
       "artists": [
         {
-          "name": "Ana Sanz",
-          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+          "name": "Daniela Milagros",
+          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
         }
       ],
-      "duration_ms": 189230,
-      "name": "Juego",
-      "url": "https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl"
+      "duration_ms": 190165,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "On\u00edrica",
-        "url": "https://open.spotify.com/album/5Y3evPWiT3AnTrj4yYivef"
-      },
-      "artists": [
-        {
-          "name": "Eva Ryjlen",
-          "url": "https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w"
-        }
-      ],
-      "duration_ms": 223205,
-      "name": "Shangri-La",
-      "url": "https://open.spotify.com/track/1GGiCy39wduNwku8L34nWJ"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Mi Voz",
         "url": "https://open.spotify.com/album/7yJRR7UVedkmHG1pzIrkeG"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 192286,
       "name": "Mi Voz",
       "url": "https://open.spotify.com/track/7hP4By4y7vioCgRVZxuBuE"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "On\u00edrica",
+        "url": "https://open.spotify.com/album/5Y3evPWiT3AnTrj4yYivef"
+      },
+      "artists": [
+        {
+          "name": "Eva Ryjlen",
+          "url": "https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w"
+        }
+      ],
+      "duration_ms": 223205,
+      "name": "Shangri-La",
+      "url": "https://open.spotify.com/track/1GGiCy39wduNwku8L34nWJ"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "El lado sur de mi coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2Ds1yMcaZxlqq5qh3Uun8o"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Toussaint",
+          "url": "https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb"
+        }
+      ],
+      "duration_ms": 175235,
+      "name": "Te agradezco el amor",
+      "url": "https://open.spotify.com/track/46BaZ59np0gv09H31naITO"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Dime Si (remix)",
         "url": "https://open.spotify.com/album/6dhowGbbDriIPxZLZuisVO"
       },
@@ -1511,22 +1527,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "El lado sur de mi coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2Ds1yMcaZxlqq5qh3Uun8o"
-      },
-      "artists": [
-        {
-          "name": "Cecilia Toussaint",
-          "url": "https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb"
-        }
-      ],
-      "duration_ms": 175235,
-      "name": "Te agradezco el amor",
-      "url": "https://open.spotify.com/track/46BaZ59np0gv09H31naITO"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Mama, Deja Que Entren por la Ventana los Siete Mares (Remasterizado)",
         "url": "https://open.spotify.com/album/3El1SCHwY7SExY3q5LdmT7"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 182400,
       "name": "Perro",
       "url": "https://open.spotify.com/track/3klpuNXDpi8PyuOZ95hn8P"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "El arte de lo eterno",
+        "url": "https://open.spotify.com/album/3wjBlp1r8OWyV7ZjGSIczU"
+      },
+      "artists": [
+        {
+          "name": "Nana Arguen",
+          "url": "https://open.spotify.com/artist/65g0Mj39OLPShrFO0QYZNt"
+        }
+      ],
+      "duration_ms": 286675,
+      "name": "Un suspiro",
+      "url": "https://open.spotify.com/track/4b46wM6eJC0W7iCnFOqWMl"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1603,22 +1619,6 @@
       "duration_ms": 176490,
       "name": "El Oscuro",
       "url": "https://open.spotify.com/track/33IAWGGxxBmmVq6Raa2uoW"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "El arte de lo eterno",
-        "url": "https://open.spotify.com/album/3wjBlp1r8OWyV7ZjGSIczU"
-      },
-      "artists": [
-        {
-          "name": "Nana Arguen",
-          "url": "https://open.spotify.com/artist/65g0Mj39OLPShrFO0QYZNt"
-        }
-      ],
-      "duration_ms": 286675,
-      "name": "Un suspiro",
-      "url": "https://open.spotify.com/track/4b46wM6eJC0W7iCnFOqWMl"
     },
     {
       "added_at": "2025-06-26 15:52:01",

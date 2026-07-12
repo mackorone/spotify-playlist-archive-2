@@ -1,6 +1,6 @@
 {
   "description": "Black, death and beyond. Recent tracks only. Cover: Witch Club Satan",
-  "num_followers": 463604,
+  "num_followers": 463573,
   "original_name": "Extreme Metal",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Grand Serpent Rising",
-        "url": "https://open.spotify.com/album/5vO7AYAWlgTAKVMoHs0Bpt"
-      },
-      "artists": [
-        {
-          "name": "Dimmu Borgir",
-          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
-        }
-      ],
-      "duration_ms": 321887,
-      "name": "Ascent",
-      "url": "https://open.spotify.com/track/6n3KjHVEKh6JI2PtasyAz5"
-    },
-    {
-      "added_at": "2026-06-30 10:45:27",
-      "album": {
         "name": "Too Fast to Die",
         "url": "https://open.spotify.com/album/5N6SLQBIYy6dfWFp0r96yt"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 263655,
       "name": "Carrion Ladder",
       "url": "https://open.spotify.com/track/6TFKQYabhyPb7jRA5HNDbS"
+    },
+    {
+      "added_at": "2026-06-30 10:45:27",
+      "album": {
+        "name": "Grand Serpent Rising",
+        "url": "https://open.spotify.com/album/5vO7AYAWlgTAKVMoHs0Bpt"
+      },
+      "artists": [
+        {
+          "name": "Dimmu Borgir",
+          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
+        }
+      ],
+      "duration_ms": 321887,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/6n3KjHVEKh6JI2PtasyAz5"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Necropalace",
-        "url": "https://open.spotify.com/album/4zI7O4eE92cRjGLwXc3Y1c"
+        "name": "Amphibians",
+        "url": "https://open.spotify.com/album/1w0yh993AM5YKhc6IyOk9D"
       },
       "artists": [
         {
-          "name": "Worm",
-          "url": "https://open.spotify.com/artist/5KGJFenkLeQ77WEgKFPnTZ"
+          "name": "Septicflesh",
+          "url": "https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b"
         }
       ],
-      "duration_ms": 604860,
-      "name": "Necropalace",
-      "url": "https://open.spotify.com/track/0CoAHjsQzbDdg2eSy36lw3"
+      "duration_ms": 260853,
+      "name": "Amphibians",
+      "url": "https://open.spotify.com/track/6hZMH8mu42J9KGtSfOHVPm"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Amphibians",
-        "url": "https://open.spotify.com/album/1w0yh993AM5YKhc6IyOk9D"
+        "name": "Necropalace",
+        "url": "https://open.spotify.com/album/4zI7O4eE92cRjGLwXc3Y1c"
       },
       "artists": [
         {
-          "name": "Septicflesh",
-          "url": "https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b"
+          "name": "Worm",
+          "url": "https://open.spotify.com/artist/5KGJFenkLeQ77WEgKFPnTZ"
         }
       ],
-      "duration_ms": 260853,
-      "name": "Amphibians",
-      "url": "https://open.spotify.com/track/6hZMH8mu42J9KGtSfOHVPm"
+      "duration_ms": 604860,
+      "name": "Necropalace",
+      "url": "https://open.spotify.com/track/0CoAHjsQzbDdg2eSy36lw3"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Eradication Protocol",
-        "url": "https://open.spotify.com/album/5w1pK88N0mSVghqZNDCYOp"
-      },
-      "artists": [
-        {
-          "name": "I Am Mook",
-          "url": "https://open.spotify.com/artist/7x45BsPZ55whpyDuFTwm6C"
-        }
-      ],
-      "duration_ms": 159191,
-      "name": "Teufel",
-      "url": "https://open.spotify.com/track/6uv8g96iFQbMavH6akBMoF"
-    },
-    {
-      "added_at": "2026-06-30 10:45:27",
-      "album": {
         "name": "Cruel Face Of War",
         "url": "https://open.spotify.com/album/29bmSJgxkO0WtgPQIuSRf5"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 221653,
       "name": "Apocalyptic Dawn",
       "url": "https://open.spotify.com/track/6ra0kJwQYrgLMKMGDaOWAm"
+    },
+    {
+      "added_at": "2026-06-30 10:45:27",
+      "album": {
+        "name": "Eradication Protocol",
+        "url": "https://open.spotify.com/album/5w1pK88N0mSVghqZNDCYOp"
+      },
+      "artists": [
+        {
+          "name": "I Am Mook",
+          "url": "https://open.spotify.com/artist/7x45BsPZ55whpyDuFTwm6C"
+        }
+      ],
+      "duration_ms": 159191,
+      "name": "Teufel",
+      "url": "https://open.spotify.com/track/6uv8g96iFQbMavH6akBMoF"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Vertebrae After Vertebrae",
-        "url": "https://open.spotify.com/album/2gUDXhSe3cNKJGJqTMo4B5"
+        "name": "The Land East Of Eden",
+        "url": "https://open.spotify.com/album/2FUx7p9pSqFWwyFAX6XKoo"
       },
       "artists": [
         {
-          "name": "Pharmacist",
-          "url": "https://open.spotify.com/artist/6kVUxvk1wk0ZgmJ5VekpG1"
+          "name": "Genus Ordinis Dei",
+          "url": "https://open.spotify.com/artist/4PorUDN5C5JRpJtinoVyTD"
         }
       ],
-      "duration_ms": 276626,
-      "name": "Propelling Inwards",
-      "url": "https://open.spotify.com/track/6TSFrW0ZMz3RMuT1oo03ve"
+      "duration_ms": 320640,
+      "name": "East Of Eden",
+      "url": "https://open.spotify.com/track/2KOqsIOOxMTUoPwWw5lKPN"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "The Land East Of Eden",
-        "url": "https://open.spotify.com/album/2FUx7p9pSqFWwyFAX6XKoo"
+        "name": "Vertebrae After Vertebrae",
+        "url": "https://open.spotify.com/album/2gUDXhSe3cNKJGJqTMo4B5"
       },
       "artists": [
         {
-          "name": "Genus Ordinis Dei",
-          "url": "https://open.spotify.com/artist/4PorUDN5C5JRpJtinoVyTD"
+          "name": "Pharmacist",
+          "url": "https://open.spotify.com/artist/6kVUxvk1wk0ZgmJ5VekpG1"
         }
       ],
-      "duration_ms": 320640,
-      "name": "East Of Eden",
-      "url": "https://open.spotify.com/track/2KOqsIOOxMTUoPwWw5lKPN"
+      "duration_ms": 276626,
+      "name": "Propelling Inwards",
+      "url": "https://open.spotify.com/track/6TSFrW0ZMz3RMuT1oo03ve"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "A Proper Death",
-        "url": "https://open.spotify.com/album/3BbiYYu7FdpyuCm49SJR54"
-      },
-      "artists": [
-        {
-          "name": "Wretched Tongues",
-          "url": "https://open.spotify.com/artist/4x0FG84m1lKUYZf343WSVH"
-        }
-      ],
-      "duration_ms": 169384,
-      "name": "Night Of",
-      "url": "https://open.spotify.com/track/3mjdSjyiLULoeFyYmytp3t"
-    },
-    {
-      "added_at": "2026-06-30 10:45:27",
-      "album": {
         "name": "Entities",
         "url": "https://open.spotify.com/album/26PFvrHcsd4CfPTgsuykfV"
       },
@@ -1175,18 +1159,34 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Washington State Charm",
-        "url": "https://open.spotify.com/album/4Qn7bUMOQTBuOgdAbwzEvx"
+        "name": "A Proper Death",
+        "url": "https://open.spotify.com/album/3BbiYYu7FdpyuCm49SJR54"
       },
       "artists": [
         {
-          "name": "Monument Of Misanthropy",
-          "url": "https://open.spotify.com/artist/3V8oZE9ZWM6L0CPWry9CCv"
+          "name": "Wretched Tongues",
+          "url": "https://open.spotify.com/artist/4x0FG84m1lKUYZf343WSVH"
         }
       ],
-      "duration_ms": 234187,
-      "name": "Washington State Charm",
-      "url": "https://open.spotify.com/track/7DAWuSHyfFBEVuStLlcdBK"
+      "duration_ms": 169384,
+      "name": "Night Of",
+      "url": "https://open.spotify.com/track/3mjdSjyiLULoeFyYmytp3t"
+    },
+    {
+      "added_at": "2026-06-30 10:45:27",
+      "album": {
+        "name": "Death Comes To All",
+        "url": "https://open.spotify.com/album/1vVphGTpY9ikQdWuyH6DKx"
+      },
+      "artists": [
+        {
+          "name": "Gates to Hell",
+          "url": "https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw"
+        }
+      ],
+      "duration_ms": 117189,
+      "name": "21 Sacraments",
+      "url": "https://open.spotify.com/track/64H1QSSjWSfOa4GE1ZUfrv"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Death Comes To All",
-        "url": "https://open.spotify.com/album/1vVphGTpY9ikQdWuyH6DKx"
+        "name": "Washington State Charm",
+        "url": "https://open.spotify.com/album/4Qn7bUMOQTBuOgdAbwzEvx"
       },
       "artists": [
         {
-          "name": "Gates to Hell",
-          "url": "https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw"
+          "name": "Monument Of Misanthropy",
+          "url": "https://open.spotify.com/artist/3V8oZE9ZWM6L0CPWry9CCv"
         }
       ],
-      "duration_ms": 117189,
-      "name": "21 Sacraments",
-      "url": "https://open.spotify.com/track/64H1QSSjWSfOa4GE1ZUfrv"
+      "duration_ms": 234187,
+      "name": "Washington State Charm",
+      "url": "https://open.spotify.com/track/7DAWuSHyfFBEVuStLlcdBK"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "To Become The Endless Static",
-        "url": "https://open.spotify.com/album/4C8zRfDM3aEsRwgt2JyHnR"
-      },
-      "artists": [
-        {
-          "name": "Aversio Humanitatis",
-          "url": "https://open.spotify.com/artist/75MXBdjWUPCjWcWJjq9NS9"
-        }
-      ],
-      "duration_ms": 340294,
-      "name": "Long Stretch the Shadows",
-      "url": "https://open.spotify.com/track/5TCDdQ05itXno1mUJR0214"
-    },
-    {
-      "added_at": "2026-06-30 10:45:27",
-      "album": {
         "name": "The Land East Of Eden",
         "url": "https://open.spotify.com/album/2FUx7p9pSqFWwyFAX6XKoo"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 349040,
       "name": "Sweet Magick",
       "url": "https://open.spotify.com/track/6erM59CRhkqC52TUzbHZ3g"
+    },
+    {
+      "added_at": "2026-06-30 10:45:27",
+      "album": {
+        "name": "To Become The Endless Static",
+        "url": "https://open.spotify.com/album/4C8zRfDM3aEsRwgt2JyHnR"
+      },
+      "artists": [
+        {
+          "name": "Aversio Humanitatis",
+          "url": "https://open.spotify.com/artist/75MXBdjWUPCjWcWJjq9NS9"
+        }
+      ],
+      "duration_ms": 340294,
+      "name": "Long Stretch the Shadows",
+      "url": "https://open.spotify.com/track/5TCDdQ05itXno1mUJR0214"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Under The Under",
-        "url": "https://open.spotify.com/album/4PDgYRrTjQfc50lsX5fmve"
-      },
-      "artists": [
-        {
-          "name": "Growth",
-          "url": "https://open.spotify.com/artist/0vwmNSLfig7M1c8XE9NOJd"
-        }
-      ],
-      "duration_ms": 340680,
-      "name": "Remember Me As Fire",
-      "url": "https://open.spotify.com/track/3TNHQtRf8yl9WcDbZdC30v"
-    },
-    {
-      "added_at": "2026-06-30 10:45:27",
-      "album": {
         "name": "Saturn Coming Down",
         "url": "https://open.spotify.com/album/5VgKnBiputFStCvTUPlYge"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 358546,
       "name": "Saturn Coming Down",
       "url": "https://open.spotify.com/track/31ZTKhrSPeufd3L1Wd12kc"
+    },
+    {
+      "added_at": "2026-06-30 10:45:27",
+      "album": {
+        "name": "Under The Under",
+        "url": "https://open.spotify.com/album/4PDgYRrTjQfc50lsX5fmve"
+      },
+      "artists": [
+        {
+          "name": "Growth",
+          "url": "https://open.spotify.com/artist/0vwmNSLfig7M1c8XE9NOJd"
+        }
+      ],
+      "duration_ms": 340680,
+      "name": "Remember Me As Fire",
+      "url": "https://open.spotify.com/track/3TNHQtRf8yl9WcDbZdC30v"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Meritoriousness of Equanimity",
-        "url": "https://open.spotify.com/album/3bk4w8z0zhMzA3RWh4XB81"
+        "name": "Divided You'll Stand & United You'll Fall",
+        "url": "https://open.spotify.com/album/0ygHMxnxuQmY8ob8WnWf7P"
       },
       "artists": [
         {
-          "name": "Eximperitus",
-          "url": "https://open.spotify.com/artist/5C8EzNUQzCf9Wnb9g3IZzB"
+          "name": "Shining",
+          "url": "https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya"
         }
       ],
-      "duration_ms": 312602,
-      "name": "Finding Consistency in the Fourth Quadrant of Eternity",
-      "url": "https://open.spotify.com/track/36x7lyd05CuaUdgkYBcfyz"
+      "duration_ms": 261320,
+      "name": "Chief Rebel Angel",
+      "url": "https://open.spotify.com/track/4szPYZmj6OIASA80fLsK57"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Divided You'll Stand & United You'll Fall",
-        "url": "https://open.spotify.com/album/0ygHMxnxuQmY8ob8WnWf7P"
+        "name": "Meritoriousness of Equanimity",
+        "url": "https://open.spotify.com/album/3bk4w8z0zhMzA3RWh4XB81"
       },
       "artists": [
         {
-          "name": "Shining",
-          "url": "https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya"
+          "name": "Eximperitus",
+          "url": "https://open.spotify.com/artist/5C8EzNUQzCf9Wnb9g3IZzB"
         }
       ],
-      "duration_ms": 261320,
-      "name": "Chief Rebel Angel",
-      "url": "https://open.spotify.com/track/4szPYZmj6OIASA80fLsK57"
+      "duration_ms": 312602,
+      "name": "Finding Consistency in the Fourth Quadrant of Eternity",
+      "url": "https://open.spotify.com/track/36x7lyd05CuaUdgkYBcfyz"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Fugue Gnawed from the Scabbed God Cerebrum",
-        "url": "https://open.spotify.com/album/6juaUBUyGgQnfDLYJBKpgf"
-      },
-      "artists": [
-        {
-          "name": "Onchocerciasis Esophagogastroduodenoscopy",
-          "url": "https://open.spotify.com/artist/0Gqxb76GoORyYDzPTY4v3S"
-        }
-      ],
-      "duration_ms": 81500,
-      "name": "The Fallen Lament, Paralytikus Ascends",
-      "url": "https://open.spotify.com/track/6J43i45mcCni085e5crkil"
-    },
-    {
-      "added_at": "2026-06-30 10:45:27",
-      "album": {
         "name": "Emerald Fires Atop The Farewell Mountains",
         "url": "https://open.spotify.com/album/7IaiGxv40f0gEd9Y1BCgS1"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 356000,
       "name": "(Entering the Vortex Temporum) - Pre-mortem Phosphenes",
       "url": "https://open.spotify.com/track/6a1d2AgSm04VFlXaH0aviH"
+    },
+    {
+      "added_at": "2026-06-30 10:45:27",
+      "album": {
+        "name": "Fugue Gnawed from the Scabbed God Cerebrum",
+        "url": "https://open.spotify.com/album/6juaUBUyGgQnfDLYJBKpgf"
+      },
+      "artists": [
+        {
+          "name": "Onchocerciasis Esophagogastroduodenoscopy",
+          "url": "https://open.spotify.com/artist/0Gqxb76GoORyYDzPTY4v3S"
+        }
+      ],
+      "duration_ms": 81500,
+      "name": "The Fallen Lament, Paralytikus Ascends",
+      "url": "https://open.spotify.com/track/6J43i45mcCni085e5crkil"
     },
     {
       "added_at": "2026-06-30 10:45:27",

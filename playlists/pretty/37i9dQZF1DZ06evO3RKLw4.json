@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 50796,
+  "num_followers": 50795,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAAD4VkxrBXeEdswfY40x+dn3",
+  "snapshot_id": "alA2AAAAAAB82hOU1ZgfgrLgmOQSMzoI",
   "tracks": [
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 160360,
-      "name": "Up To No Good",
-      "url": "https://open.spotify.com/track/1Ple8GjeW9SQDao6azBsHi"
+      "duration_ms": 143600,
+      "name": "Last One To Die",
+      "url": "https://open.spotify.com/track/7Aulng5j4bWyRJ0emPhNGE"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 143600,
-      "name": "Last One To Die",
-      "url": "https://open.spotify.com/track/7Aulng5j4bWyRJ0emPhNGE"
+      "duration_ms": 160360,
+      "name": "Up To No Good",
+      "url": "https://open.spotify.com/track/1Ple8GjeW9SQDao6azBsHi"
     },
     {
       "added_at": null,

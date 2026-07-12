@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 21650,
+  "num_followers": 21654,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -773,26 +773,6 @@
       "url": "https://open.spotify.com/track/6sQq98ykctwIpq79syEt5x"
     },
     {
-      "added_at": "2026-05-29 00:01:36",
-      "album": {
-        "name": "Subscribed (Live)",
-        "url": "https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 198518,
-      "name": "Subscribed - Live",
-      "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
-    },
-    {
       "added_at": "2026-05-08 00:01:38",
       "album": {
         "name": "Count",
@@ -829,20 +809,24 @@
       "url": "https://open.spotify.com/track/3Vh0hKMCEOip7tfy64Mg2z"
     },
     {
-      "added_at": "2025-12-19 00:01:10",
+      "added_at": "2026-05-29 00:01:36",
       "album": {
-        "name": "\u00d3 D\u00e1ra",
-        "url": "https://open.spotify.com/album/5sxgXCn36fH43SxVlLVM5S"
+        "name": "Subscribed (Live)",
+        "url": "https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE"
       },
       "artists": [
         {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
         }
       ],
-      "duration_ms": 507645,
-      "name": "\u00d3 D\u00e1ra",
-      "url": "https://open.spotify.com/track/7FzPrWUZ5WCBPYICSTZmmr"
+      "duration_ms": 198518,
+      "name": "Subscribed - Live",
+      "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
     },
     {
       "added_at": "2026-02-27 00:01:20",
@@ -867,6 +851,22 @@
       "duration_ms": 170500,
       "name": "Holy Love",
       "url": "https://open.spotify.com/track/07cr2u369CWTuGefo4dygx"
+    },
+    {
+      "added_at": "2025-12-19 00:01:10",
+      "album": {
+        "name": "\u00d3 D\u00e1ra",
+        "url": "https://open.spotify.com/album/5sxgXCn36fH43SxVlLVM5S"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 507645,
+      "name": "\u00d3 D\u00e1ra",
+      "url": "https://open.spotify.com/track/7FzPrWUZ5WCBPYICSTZmmr"
     },
     {
       "added_at": "2025-10-17 00:01:26",
@@ -1053,6 +1053,22 @@
       "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"
     },
     {
+      "added_at": "2026-05-22 00:01:37",
+      "album": {
+        "name": "ABBA FATHER (raw)",
+        "url": "https://open.spotify.com/album/68RAoLRRu8sKyakgEIDYia"
+      },
+      "artists": [
+        {
+          "name": "De Stanley Brothers",
+          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
+        }
+      ],
+      "duration_ms": 68869,
+      "name": "ABBA FATHER - raw",
+      "url": "https://open.spotify.com/track/6fgmNr07tGMB2plXEuGf2k"
+    },
+    {
       "added_at": "2026-05-15 00:01:23",
       "album": {
         "name": "Ifunanya",
@@ -1071,22 +1087,6 @@
       "duration_ms": 314013,
       "name": "Ifunanya",
       "url": "https://open.spotify.com/track/1uxP53jaD8jAtzlPEoLzaM"
-    },
-    {
-      "added_at": "2026-05-22 00:01:37",
-      "album": {
-        "name": "ABBA FATHER (raw)",
-        "url": "https://open.spotify.com/album/68RAoLRRu8sKyakgEIDYia"
-      },
-      "artists": [
-        {
-          "name": "De Stanley Brothers",
-          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
-        }
-      ],
-      "duration_ms": 68869,
-      "name": "ABBA FATHER - raw",
-      "url": "https://open.spotify.com/track/6fgmNr07tGMB2plXEuGf2k"
     },
     {
       "added_at": "2025-02-14 00:01:09",
@@ -1217,38 +1217,6 @@
       "url": "https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P"
     },
     {
-      "added_at": "2026-06-19 00:01:33",
-      "album": {
-        "name": "My Thank You",
-        "url": "https://open.spotify.com/album/4wsf5yxLcfZFjLrvkij6qI"
-      },
-      "artists": [
-        {
-          "name": "Esther Oji",
-          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
-        }
-      ],
-      "duration_ms": 213430,
-      "name": "My Thank You",
-      "url": "https://open.spotify.com/track/2ZhFqLe4RLezTAfR8idwzX"
-    },
-    {
-      "added_at": "2026-03-13 00:01:18",
-      "album": {
-        "name": "Sonship",
-        "url": "https://open.spotify.com/album/50ErJvkakjjq0y6sVhIslo"
-      },
-      "artists": [
-        {
-          "name": "Neon Adejo",
-          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
-        }
-      ],
-      "duration_ms": 154039,
-      "name": "Love Assurance",
-      "url": "https://open.spotify.com/track/4jRaM74PxaKqtnjfT8Ba01"
-    },
-    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "If E No Be You Jesus",
@@ -1275,6 +1243,22 @@
     {
       "added_at": "2026-03-13 00:01:18",
       "album": {
+        "name": "Sonship",
+        "url": "https://open.spotify.com/album/50ErJvkakjjq0y6sVhIslo"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "duration_ms": 154039,
+      "name": "Love Assurance",
+      "url": "https://open.spotify.com/track/4jRaM74PxaKqtnjfT8Ba01"
+    },
+    {
+      "added_at": "2026-03-13 00:01:18",
+      "album": {
         "name": "Miracle Walking (Radio Edit)",
         "url": "https://open.spotify.com/album/0nLp271aFrYDf0EM9997ih"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 217333,
       "name": "Miracle Walking - Radio Edit",
       "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
+    },
+    {
+      "added_at": "2026-06-19 00:01:33",
+      "album": {
+        "name": "My Thank You",
+        "url": "https://open.spotify.com/album/4wsf5yxLcfZFjLrvkij6qI"
+      },
+      "artists": [
+        {
+          "name": "Esther Oji",
+          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+        }
+      ],
+      "duration_ms": 213430,
+      "name": "My Thank You",
+      "url": "https://open.spotify.com/track/2ZhFqLe4RLezTAfR8idwzX"
     },
     {
       "added_at": "2026-04-17 00:01:26",
@@ -1309,22 +1309,6 @@
       "url": "https://open.spotify.com/track/7yErAxvmSIVzWb0BFH0U4n"
     },
     {
-      "added_at": "2026-04-24 00:01:08",
-      "album": {
-        "name": "Happy Song",
-        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
-      },
-      "artists": [
-        {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        }
-      ],
-      "duration_ms": 147452,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
-    },
-    {
       "added_at": "2026-05-15 00:01:23",
       "album": {
         "name": "OFFDAYS",
@@ -1339,6 +1323,22 @@
       "duration_ms": 175968,
       "name": "Satisfy",
       "url": "https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6"
+    },
+    {
+      "added_at": "2026-04-24 00:01:08",
+      "album": {
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "duration_ms": 147452,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
     },
     {
       "added_at": "2025-12-05 00:01:10",
@@ -1437,26 +1437,6 @@
       "url": "https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI"
     },
     {
-      "added_at": "2026-03-13 00:01:18",
-      "album": {
-        "name": "Amen Amen, Blessing and Glory",
-        "url": "https://open.spotify.com/album/4mZQkyocbZKfwjLAhTo1zK"
-      },
-      "artists": [
-        {
-          "name": "S.O.N Music",
-          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
-        },
-        {
-          "name": "Beulah Land Music",
-          "url": "https://open.spotify.com/artist/3EcGsz8ULgfWoJl8D60bBh"
-        }
-      ],
-      "duration_ms": 154325,
-      "name": "Amen Amen, Blessing and Glory",
-      "url": "https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y"
-    },
-    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "O\u2019ZA",
@@ -1475,6 +1455,26 @@
       "duration_ms": 155789,
       "name": "O\u2019ZA",
       "url": "https://open.spotify.com/track/2zFo8f4kW4TrLE7HzpY4yk"
+    },
+    {
+      "added_at": "2026-03-13 00:01:18",
+      "album": {
+        "name": "Amen Amen, Blessing and Glory",
+        "url": "https://open.spotify.com/album/4mZQkyocbZKfwjLAhTo1zK"
+      },
+      "artists": [
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        },
+        {
+          "name": "Beulah Land Music",
+          "url": "https://open.spotify.com/artist/3EcGsz8ULgfWoJl8D60bBh"
+        }
+      ],
+      "duration_ms": 154325,
+      "name": "Amen Amen, Blessing and Glory",
+      "url": "https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y"
     },
     {
       "added_at": "2026-05-22 00:01:37",
@@ -1541,22 +1541,6 @@
       "url": "https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r"
     },
     {
-      "added_at": "2026-06-12 08:46:43",
-      "album": {
-        "name": "Kaunar Allah",
-        "url": "https://open.spotify.com/album/7cRvo8ih8ElRx3psSHbk2Y"
-      },
-      "artists": [
-        {
-          "name": "Pastor Courage",
-          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Kaunar Allah",
-      "url": "https://open.spotify.com/track/6Yu4gwqfUEIwHhK5JRIG5P"
-    },
-    {
       "added_at": "2026-05-29 00:01:36",
       "album": {
         "name": "Thank You Lord",
@@ -1579,6 +1563,22 @@
       "duration_ms": 150750,
       "name": "Thank You Lord",
       "url": "https://open.spotify.com/track/6O79hOkKBJqmcq2dzFJsdD"
+    },
+    {
+      "added_at": "2026-06-19 00:01:33",
+      "album": {
+        "name": "Sweet Jesus",
+        "url": "https://open.spotify.com/album/1v9gDAJXFl3UqF4NZVqe5Q"
+      },
+      "artists": [
+        {
+          "name": "Jordan Bangoji",
+          "url": "https://open.spotify.com/artist/702zIZlmgDwWKAqWW4WX5d"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Sweet Jesus",
+      "url": "https://open.spotify.com/track/7H1AhuPUekQcBnin0ScOxR"
     }
   ],
   "unique_name": "Blessed",

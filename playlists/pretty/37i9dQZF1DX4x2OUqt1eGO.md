@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,652 likes - 75 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,651 likes - 75 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 57 | [Kavadi Chindu](https://open.spotify.com/track/7zmtHg5CDTu9k4TixF7FbE) | [Flute J A Jayant](https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP) | [PARAMPARA](https://open.spotify.com/album/2x8LOTXSqQ9FL5nHFOkMYP) | 2:29 |
 | 58 | [Silence Is Bliss \(feat\. Pandit Vishwa Mohan Bhatt\)](https://open.spotify.com/track/1EsiOtldv6cwty7wzjb21G) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl) | [Silence Is Bliss](https://open.spotify.com/album/4tINT5MiPsX1SSECjIHfzw) | 7:07 |
 | 59 | [Monsoon Moon](https://open.spotify.com/track/53l3hRGFDvakOGlZNmOEJO) | [Sonic Xaman](https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c) | [Monsoon Moon](https://open.spotify.com/album/5vkFkrsacJzdO1JuW0mLB1) | 4:04 |
-| 60 | [Sukoon](https://open.spotify.com/track/6j6fiOB0h2VQPgq865WrbG) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Naveen Kumar](https://open.spotify.com/artist/1NdUN7aApnb6qOLzGY7EA1) | [Sukoon](https://open.spotify.com/album/7Hsk3m0X0kqyOJtmpEUPdA) | 2:30 |
-| 61 | [Venu](https://open.spotify.com/track/4iNkY671G1WKiFAzEvsT07) | [Martín Asaro](https://open.spotify.com/artist/0V3EGDQyGZgqEOBbWoK5Tk) | [Viajando Con El Viento](https://open.spotify.com/album/4Z2cYIf67ZZUJUTfkl2RpR) | 9:36 |
+| 60 | [Venu](https://open.spotify.com/track/4iNkY671G1WKiFAzEvsT07) | [Martín Asaro](https://open.spotify.com/artist/0V3EGDQyGZgqEOBbWoK5Tk) | [Viajando Con El Viento](https://open.spotify.com/album/4Z2cYIf67ZZUJUTfkl2RpR) | 9:36 |
+| 61 | [Sukoon](https://open.spotify.com/track/6j6fiOB0h2VQPgq865WrbG) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Naveen Kumar](https://open.spotify.com/artist/1NdUN7aApnb6qOLzGY7EA1) | [Sukoon](https://open.spotify.com/album/7Hsk3m0X0kqyOJtmpEUPdA) | 2:30 |
 | 62 | [Ninuvina Namadendhu](https://open.spotify.com/track/3cEJRKdCWYnFqM0DHuFZs8) | [Flute J A Jayant](https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP) | [PARAMPARA](https://open.spotify.com/album/2x8LOTXSqQ9FL5nHFOkMYP) | 6:43 |
 | 63 | [Mohana](https://open.spotify.com/track/63QIf46bybNGLt5sKIfljg) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Fluid \(Flute Grooves by Naveen Kumar\)](https://open.spotify.com/album/0FznvOl4NZqN1J9X2xuFEC) | 6:40 |
 | 64 | [Bliss](https://open.spotify.com/track/5ZfQjYCKtLZZR7e5PAFTgM) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Breathing Space](https://open.spotify.com/album/6YyNx799ExMH8D18jFkpbI) | 7:25 |

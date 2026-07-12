@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Simiran Kaur Dhadli
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,726 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,727 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 8 | [Mehandi \- From "Rabb Da Radio 3"](https://open.spotify.com/track/0vX3WyCXkKLehW6dniuh6q) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt) | [Mehandi \(From "Rabb Da Radio"\)](https://open.spotify.com/album/2gN2iwmeDhlPBw6KFBAzlJ) | 3:18 |
 | 9 | [Mil Jaave](https://open.spotify.com/track/1fA0pGAk8d2PH4PWIgQZDD) | [Arunima Sharma](https://open.spotify.com/artist/2zzJUB2acfwOKPhMnJkBMv), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs) | [Mil Jaave](https://open.spotify.com/album/0DLYtOTLSEQ55OsCfO99ZT) | 2:25 |
 | 10 | [Taur](https://open.spotify.com/track/7wk74Tjsm5TrWfiL2FMIWZ) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Life Mere Wargi](https://open.spotify.com/album/0dvqdE6NfoZB7FTFOpXReJ) | 2:23 |
-| 11 | [Sun Wanjli Di Mithri Tan We](https://open.spotify.com/track/6i6xcGCMktQaGgbDPMc6vQ) | [Ruby Khan](https://open.spotify.com/artist/3dIZHHPQuk8sdhTBzcoBzO), [Manna Singh](https://open.spotify.com/artist/0CX5hMhHINo4YbvFEZmp5L) | [Sun Wanjli Di Mithri Tan We](https://open.spotify.com/album/7oKv1S0qPDs4lw0aNlAnGH) | 2:39 |
+| 11 | [Sun Wanjli Di Mithri Tan We](https://open.spotify.com/track/6i6xcGCMktQaGgbDPMc6vQ) | [Ruby Khan](https://open.spotify.com/artist/3dIZHHPQuk8sdhTBzcoBzO), [Manna Singh](https://open.spotify.com/artist/0WaxzwIZydEYr0Q6sUmJED) | [Sun Wanjli Di Mithri Tan We](https://open.spotify.com/album/7oKv1S0qPDs4lw0aNlAnGH) | 2:39 |
 | 12 | [Putt Jatt Da](https://open.spotify.com/track/0xffKEAFkJB8ZWt0w38YAn) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Putt Jatt Da](https://open.spotify.com/album/5RuqCvnNgBn5VUzm05EtlD) | 2:35 |
 | 13 | [Rishte](https://open.spotify.com/track/2Og7HnP69yJUsCuRIi5wVW) | [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc) | [Rishte](https://open.spotify.com/album/4N037qErbXKbbWVOFrvASw) | 4:03 |
 | 14 | [Jogi](https://open.spotify.com/track/22OYPLWN8ADWaWJgt6VNh8) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Jogi](https://open.spotify.com/album/3MTAv5z2xPjEJCEqMGIrf3) | 2:24 |

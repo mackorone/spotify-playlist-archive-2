@@ -52833,6 +52833,24 @@
     },
     {
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30b7\u30e5\u30bf\u30a4\u30f3\u30ba\u30fb\u30b2\u30fc\u30c8\u300fOP\u30c6\u30fc\u30de\u30de\u30ad\u30b7\u30b7\u30f3\u30b0\u30eb\u300cHacking to the Gate\u300d",
+        "url": "https://open.spotify.com/album/5DBbdxEw8J6p9fth6fbZer"
+      },
+      "artists": [
+        {
+          "name": "\u3044\u3068\u3046\u304b\u306a\u3053",
+          "url": "https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256466,
+      "name": "Hacking to the Gate",
+      "url": "https://open.spotify.com/track/6lpkzNkXnPgSkEOANO7nsD"
+    },
+    {
+      "album": {
         "name": "Heaven Or Hell",
         "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
       },
@@ -54112,6 +54130,28 @@
       "duration_ms": 238146,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/4zjrdI0IuLwjvdYM4TUlxe"
+    },
+    {
+      "album": {
+        "name": "PERSONA5 ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30c8\u30e9\u30b9\u30b5\u30a6\u30f3\u30c9\u30c1\u30fc\u30e0",
+          "url": "https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN"
+        },
+        {
+          "name": "ATLUS GAME MUSIC",
+          "url": "https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57946,
+      "name": "Hawaii",
+      "url": "https://open.spotify.com/track/3uJnPlOypv1S8ySPML4S8H"
     },
     {
       "album": {
@@ -104770,7 +104810,7 @@
       ],
       "date_added": "2025-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-05",
+      "date_removed": null,
       "duration_ms": 177386,
       "name": "Reach Out To The Truth -First Battle-",
       "url": "https://open.spotify.com/track/29OHAngqPMvOrDPfl3s9x7"
@@ -133394,6 +133434,24 @@
       "duration_ms": 204258,
       "name": "Time to Say Goodbye",
       "url": "https://open.spotify.com/track/6odR6jtxYIgNAcaOtgxlfN"
+    },
+    {
+      "album": {
+        "name": "Genshin Impact - The Stellar Moments, Vol. 3 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/4alm7dlAhGRBMb21F49YC8"
+      },
+      "artists": [
+        {
+          "name": "HOYO-MiX",
+          "url": "https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Time to Shine",
+      "url": "https://open.spotify.com/track/1cxTovnLTwYuQEex52KuYl"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 86931,
+  "num_followers": 86950,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,22 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "HAUSAPIANO (Remix)",
-        "url": "https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ"
+        "name": "Carry Me Go",
+        "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
       },
       "artists": [
         {
-          "name": "Kvng Vinci",
-          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         },
         {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
         }
       ],
-      "duration_ms": 137844,
-      "name": "HAUSAPIANO - Remix",
-      "url": "https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp"
+      "duration_ms": 136464,
+      "name": "Carry Me Go",
+      "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -291,22 +291,22 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "Carry Me Go",
-        "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
+        "name": "HAUSAPIANO (Remix)",
+        "url": "https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
         },
         {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
         }
       ],
-      "duration_ms": 136464,
-      "name": "Carry Me Go",
-      "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
+      "duration_ms": 137844,
+      "name": "HAUSAPIANO - Remix",
+      "url": "https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -407,18 +407,26 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "Mmmn",
-        "url": "https://open.spotify.com/album/6KHUZ6Kw6qohMw6aalUcsb"
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
       },
       "artists": [
         {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 140160,
-      "name": "Mmmn",
-      "url": "https://open.spotify.com/track/0QiUFqWBC5Qzho0Oh0c8U9"
+      "duration_ms": 166956,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -455,26 +463,18 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
+        "name": "Mmmn",
+        "url": "https://open.spotify.com/album/6KHUZ6Kw6qohMw6aalUcsb"
       },
       "artists": [
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
         }
       ],
-      "duration_ms": 166956,
-      "name": "Stamina",
-      "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
+      "duration_ms": 140160,
+      "name": "Mmmn",
+      "url": "https://open.spotify.com/track/0QiUFqWBC5Qzho0Oh0c8U9"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -627,34 +627,6 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "Feel D Mood",
-        "url": "https://open.spotify.com/album/0t6AQDnfc459I7m4NebGiv"
-      },
-      "artists": [
-        {
-          "name": "Outsyd DJ",
-          "url": "https://open.spotify.com/artist/0sc02G8bEK5K2jNeevd8II"
-        },
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Outsyd Eddie",
-          "url": "https://open.spotify.com/artist/34GVjsEo3lNh6lBfcg6cV8"
-        },
-        {
-          "name": "Tega Boi Dc",
-          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
-        }
-      ],
-      "duration_ms": 133172,
-      "name": "Feel D Mood",
-      "url": "https://open.spotify.com/track/5V24zNpUfkiMx5eWYXXCHN"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
         "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
         "url": "https://open.spotify.com/album/3FFhGEtxLrk7T6sAadIoUg"
       },
@@ -691,6 +663,34 @@
       "duration_ms": 443556,
       "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
       "url": "https://open.spotify.com/track/4GxZKOak4mz6VmMJUmO4Is"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
+        "name": "Feel D Mood",
+        "url": "https://open.spotify.com/album/0t6AQDnfc459I7m4NebGiv"
+      },
+      "artists": [
+        {
+          "name": "Outsyd DJ",
+          "url": "https://open.spotify.com/artist/0sc02G8bEK5K2jNeevd8II"
+        },
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Outsyd Eddie",
+          "url": "https://open.spotify.com/artist/34GVjsEo3lNh6lBfcg6cV8"
+        },
+        {
+          "name": "Tega Boi Dc",
+          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
+        }
+      ],
+      "duration_ms": 133172,
+      "name": "Feel D Mood",
+      "url": "https://open.spotify.com/track/5V24zNpUfkiMx5eWYXXCHN"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "Double",
-        "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 168779,
-      "name": "Double",
-      "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
         "name": "Awuke",
         "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 172628,
       "name": "Awuke",
       "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
+        "name": "Double",
+        "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 168779,
+      "name": "Double",
+      "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -971,26 +971,6 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "Trump",
-        "url": "https://open.spotify.com/album/4ae3iKzKGE1kPWigSBARMS"
-      },
-      "artists": [
-        {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
-        },
-        {
-          "name": "Zhus Jdo",
-          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
-        }
-      ],
-      "duration_ms": 160074,
-      "name": "Trump",
-      "url": "https://open.spotify.com/track/6N5ZV6koxWGLSyO4YfmSP3"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
         "name": "Girl On Fya",
         "url": "https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 124354,
       "name": "Girl on Fya",
       "url": "https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
+        "name": "Trump",
+        "url": "https://open.spotify.com/album/4ae3iKzKGE1kPWigSBARMS"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+        }
+      ],
+      "duration_ms": 160074,
+      "name": "Trump",
+      "url": "https://open.spotify.com/track/6N5ZV6koxWGLSyO4YfmSP3"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "Hi Hi",
-        "url": "https://open.spotify.com/album/6gmqGq8zHgE0ym1OImsxqt"
-      },
-      "artists": [
-        {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
-        },
-        {
-          "name": "Berri-Tiga",
-          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
-        }
-      ],
-      "duration_ms": 135941,
-      "name": "Hi Hi",
-      "url": "https://open.spotify.com/track/7udshzJFOOChc3pUehXDbf"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
         "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
         "url": "https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 217718,
       "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
       "url": "https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
+        "name": "Hi Hi",
+        "url": "https://open.spotify.com/album/6gmqGq8zHgE0ym1OImsxqt"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        }
+      ],
+      "duration_ms": 135941,
+      "name": "Hi Hi",
+      "url": "https://open.spotify.com/track/7udshzJFOOChc3pUehXDbf"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+        "name": "Marhaba X We Must",
+        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         }
       ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
+      "duration_ms": 143187,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
     }
   ],
   "unique_name": "Keep Fit Club ",

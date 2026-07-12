@@ -4,7 +4,7 @@
 
 > 
 
-1,075 songs - 2 day 19 hr 44 min
+1,078 songs - 2 day 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Don't Let Me Go](https://open.spotify.com/track/02h0GTr7iO4JUUu5Vy2cfZ) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Don't Let Me Go](https://open.spotify.com/album/3Kg1v6AGrwbxB1D8MqPZTF) | 2:13 | 2025-10-09 |  |
 | [Don't Quit](https://open.spotify.com/track/0wNDCelSWPNcCEdZUbSEJT) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Don't Quit](https://open.spotify.com/album/2NUIXDspmP39m3JnH5qmaA) | 2:54 | 2025-11-27 |  |
 | [Don't Runaway](https://open.spotify.com/track/0rjScu5Syoh8c0uDx2Gk7I) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Steel II](https://open.spotify.com/album/5CelAdbDkCINozP22sFgEd) | 3:10 | 2025-05-15 |  |
+| [Don't Trust Anyone Over 21](https://open.spotify.com/track/0fztYRNQGiV3W57FU5syMl) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [Don't Trust Anyone Over 21](https://open.spotify.com/album/7yIX3meztExaI6ViFxAxg5) | 1:44 | 2026-07-11 |  |
 | [Don't Walk Away](https://open.spotify.com/track/3D1liNWq6LpoQeyRVwbAMk) | [Shady Fat Kats](https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD) | [Don't Walk Away](https://open.spotify.com/album/2HG6l34yFT2pZPWTVhwnpC) | 3:00 | 2026-04-26 |  |
 | [Dopamine](https://open.spotify.com/track/0vo9ZfkCh8S4w4uHPi7Jde) | [Dead Gardens](https://open.spotify.com/artist/7oEhQM7iTnYtyCLOZ470lH) | [Artificial Love](https://open.spotify.com/album/1iDblALNVCqRDvbrC8NjAp) | 4:01 | 2025-06-17 |  |
 | [Down to the Keys](https://open.spotify.com/track/04VgpxcdK008dUaM6oVKSo) | [Drew Barrett](https://open.spotify.com/artist/30zxZ045HNbHxWXE77djbX) | [Down to the Keys](https://open.spotify.com/album/0kPVr4YFStfBKvg5BieNT6) | 4:11 | 2025-03-18 |  |
@@ -577,6 +578,7 @@
 | [New Shit Has Come To Light](https://open.spotify.com/track/7pxNCg2vwJ9FLxXqaJliQl) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [New Shit Has Come To Light](https://open.spotify.com/album/2vsnu0bdEfC2zgOmk1vFsl) | 2:50 | 2026-06-13 |  |
 | [New World Disorder](https://open.spotify.com/track/6wVSfiqid6s1ylZ7jqHTAR) | [Intruder X](https://open.spotify.com/artist/2E8VDadqw9XWUxyggxNUch), [Within Shadows](https://open.spotify.com/artist/0h6y5s8dNwgfvGFrAXzD13) | [New World Disorder](https://open.spotify.com/album/5VQCZ6Isa1vU2713QOiZiZ) | 3:26 | 2026-06-06 |  |
 | [News of the World](https://open.spotify.com/track/6NQwRzOdGRoqMyxDOgKbhG) | [Eton Mess](https://open.spotify.com/artist/5Oy0lVKo8ShUaIH7EgXytd) | [News of the World](https://open.spotify.com/album/7i8KJljrvYlwARYWKKKKH1) | 2:31 | 2025-03-18 |  |
+| [Ni una más](https://open.spotify.com/track/3lglnKcrFajSfLjOnuN0nI) | [Astter](https://open.spotify.com/artist/2Ch4GYMv1onUucKUYI8xOC) | [Ni una más](https://open.spotify.com/album/5ryt9yB666ApOwxjJtuj2J) | 4:11 | 2026-07-11 |  |
 | [Nieżal](https://open.spotify.com/track/0RpjWRB8Xk1ONCXIiUMkYp) | [Noce](https://open.spotify.com/artist/4gU7fs6TaVyus1G97RZsbz) | [Nieżal](https://open.spotify.com/album/4PZVm4cCpbqwv20ZNJJ1gO) | 6:01 | 2025-07-22 |  |
 | [Night Ghost](https://open.spotify.com/track/5AYqW0EqJXTNnVk6kGkkRc) | [Deemotrii](https://open.spotify.com/artist/4CjH6JAMZ8wArnQKzhMPpm), [SPYDAWEB](https://open.spotify.com/artist/44gOcQIkfbxnubyMC4gSOe) | [Night Ghost](https://open.spotify.com/album/5eNCSaRKOGCV95ygMKl6ab) | 2:42 | 2024-12-04 |  |
 | [Nightmare \- Oblivion](https://open.spotify.com/track/7uDwF4ay0m4LGzwTLK270h) | [VortekLabel](https://open.spotify.com/artist/1gaOb7Zu3CL7o1goGPZPRh), [Hard Labs](https://open.spotify.com/artist/2ncvWngOisyimNgRkb11oj), [Hype Music](https://open.spotify.com/artist/4avpw1MN3Ub5BZV3xDCjUr), [eeymwnn](https://open.spotify.com/artist/6NeuQp2ZsVwSoNHujaup4u) | [Nightmare \- Oblivion](https://open.spotify.com/album/2pA1dvbjFaqEmTAzKnrdzQ) | 2:40 | 2025-12-03 |  |
@@ -667,6 +669,7 @@
 | [Permission to Share](https://open.spotify.com/track/2enSMsqNJHquTOqqVrfc8d) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [Permission to Share](https://open.spotify.com/album/1tIUy85SwGzWMe3kc5RTVZ) | 3:26 | 2025-08-21 |  |
 | [Perspectives](https://open.spotify.com/track/4E5vUYWAQPmRHDbVZriqt1) | [Slackrr](https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu) | [A Light On The Horizon](https://open.spotify.com/album/6zRSgRECoeWvyG6UQq2Fdw) | 3:19 | 2026-03-27 |  |
 | [Peste Bianca](https://open.spotify.com/track/1YAIgtzDQoLtoJuvUVdbDV) | [Varego](https://open.spotify.com/artist/3QMKSumENf5jmrMkLo15zy) | [Peste Bianca](https://open.spotify.com/album/06UlSvxNI2yllFnRWijkPC) | 4:51 | 2025-02-07 |  |
+| [Petali](https://open.spotify.com/track/7edv8TCszqSqjkOxJEd2AC) | [Piede Sinistro](https://open.spotify.com/artist/4Hhfi2Z1ix6ZilrrwBDwZC) | [Petali](https://open.spotify.com/album/4piBiaskMrcGbkiWvpp0jL) | 6:40 | 2026-07-11 |  |
 | [Phantom Pain](https://open.spotify.com/track/4NxNryJCCTgM1qH1yperrc) | [FUFZ](https://open.spotify.com/artist/6KNFJrJCNntGvNIJO64G41) | [Phantom Pain](https://open.spotify.com/album/2LlwJ8hXUQjgjNpeJ2ZgDb) | 4:12 | 2026-06-13 |  |
 | [Phoenix](https://open.spotify.com/track/6L2ruJKIRq0OfmH37zW3to) | [Th Macrini](https://open.spotify.com/artist/4kNlOEwSyR8MGyxOiN4UGq) | [Phoenix](https://open.spotify.com/album/2W7OCef1y0cJYq7ceBEcEs) | 3:03 | 2025-05-06 |  |
 | [Phrenetic](https://open.spotify.com/track/4bIxuRlGvNrJEtCTRgMAN7) | [Echo Viridian](https://open.spotify.com/artist/6K7KHtjsy0JMDbeWULw0pF), [d\_scent](https://open.spotify.com/artist/6dOYplTs22r4F7GlanxEMn) | [Phrenetic](https://open.spotify.com/album/62x9cGGqSoKBv3Nvs5w8r2) | 6:23 | 2025-04-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > Beware laser beams 💞
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,451 likes - 108 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,559 likes - 108 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

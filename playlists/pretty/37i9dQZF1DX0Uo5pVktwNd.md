@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 
 > Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,620 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,721 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 40 | [Gori](https://open.spotify.com/track/1wqw75urLC2sLsE7gLGAAE) | [A Band Of Boys](https://open.spotify.com/artist/7fxBPUc2bTUgl7GLuqjajk) | [Ye Bhi Woh Bhi](https://open.spotify.com/album/38Xw5OWbtsvXFlSFG6rGyG) | 4:12 |
 | 41 | [Tu](https://open.spotify.com/track/5LwIiYNIlFOt4lUiRitq3V) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Kismat](https://open.spotify.com/album/6NwJDSDCIDYN50RUQR6euY) | 4:26 |
 | 42 | [Bhool Ja](https://open.spotify.com/track/7pCE1BHlNVbvIuqUEOGAj5) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 3:34 |
-| 43 | [Let the Music Play](https://open.spotify.com/track/4jkXawep434f2T2Zt7Gzm5) | [Shamur](https://open.spotify.com/artist/7z6EDRgmCrEItxgbJmTTL9) | [Shardana](https://open.spotify.com/album/52Ipw9FNpnNTJOjbuPaQBg) | 3:41 |
-| 44 | [Paree](https://open.spotify.com/track/6tY5QQhqKXRd8qCDaTlAmg) | [Suneeta Rao](https://open.spotify.com/artist/5BzzAgWSH6Q4yPQOAKeWRd) | [Dhuan](https://open.spotify.com/album/4ybpUVEq9QLSe6UncFUAZW) | 6:01 |
+| 43 | [Paree](https://open.spotify.com/track/6tY5QQhqKXRd8qCDaTlAmg) | [Suneeta Rao](https://open.spotify.com/artist/5BzzAgWSH6Q4yPQOAKeWRd) | [Dhuan](https://open.spotify.com/album/4ybpUVEq9QLSe6UncFUAZW) | 6:01 |
+| 44 | [Let the Music Play](https://open.spotify.com/track/4jkXawep434f2T2Zt7Gzm5) | [Shamur](https://open.spotify.com/artist/7z6EDRgmCrEItxgbJmTTL9) | [Shardana](https://open.spotify.com/album/52Ipw9FNpnNTJOjbuPaQBg) | 3:41 |
 | 45 | [Saawan Mein Lag Gayee Aag](https://open.spotify.com/track/3LZYmdTuRWMgajd91up13j) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13) | [Saawan Mein Lag Gayee Aag](https://open.spotify.com/album/1ZOAdeDl57AM0k8Em2X7Mv) | 4:08 |
 | 46 | [Bijuria \- Old Version](https://open.spotify.com/track/0N5aIboDkYJ2iZuPfTk64u) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Mausam](https://open.spotify.com/album/3TgsiJzGTGn5JWY9VjGaXj) | 4:49 |
 | 47 | [Lover Girl](https://open.spotify.com/track/44NcO3sv7gVBH03tNRmwDR) | [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc) | [Made in India](https://open.spotify.com/album/6RU0wl99jN8GaFtD0BXCZ3) | 4:46 |

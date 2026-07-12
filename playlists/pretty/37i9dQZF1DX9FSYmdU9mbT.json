@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1474252,
+  "num_followers": 1474287,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -151,8 +151,8 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Djavan \"Ao Vivo\"",
-        "url": "https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7"
+        "name": "Mal\u00e1sia",
+        "url": "https://open.spotify.com/album/53VgQJU6DoF3Y1mkmTONNa"
       },
       "artists": [
         {
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
         }
       ],
-      "duration_ms": 287266,
-      "name": "Se... (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5ZnmWmQB74hJ9geBL9bY3R"
+      "duration_ms": 346266,
+      "name": "Nem um Dia",
+      "url": "https://open.spotify.com/track/3jFxkWQ1i4ephuKK56T9ta"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -231,8 +231,8 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Mal\u00e1sia",
-        "url": "https://open.spotify.com/album/53VgQJU6DoF3Y1mkmTONNa"
+        "name": "Djavan \"Ao Vivo\"",
+        "url": "https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
         }
       ],
-      "duration_ms": 346266,
-      "name": "Nem um Dia",
-      "url": "https://open.spotify.com/track/3jFxkWQ1i4ephuKK56T9ta"
+      "duration_ms": 287266,
+      "name": "Se... (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5ZnmWmQB74hJ9geBL9bY3R"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Outra Vez",
-        "url": "https://open.spotify.com/album/2NylFxVu73peifK68z2fuc"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 254795,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/33dHjdJ014lYbaQ0DXfzKw"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "Top Hits",
         "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 249706,
       "name": "Lenha",
       "url": "https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/2NylFxVu73peifK68z2fuc"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 254795,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/33dHjdJ014lYbaQ0DXfzKw"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Carnav\u00e1lia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/205INdvEuLF2IfLOA3yTOl"
+        "name": "Elis Regina Em Falso Brilhante",
+        "url": "https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ"
       },
       "artists": [
         {
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
         }
       ],
-      "duration_ms": 270029,
-      "name": "Carnav\u00e1lia - Ao Vivo",
-      "url": "https://open.spotify.com/track/5YpDmhY73LENoh0JMEvEZV"
+      "duration_ms": 260493,
+      "name": "Como Nossos Pais",
+      "url": "https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Elis Regina Em Falso Brilhante",
-        "url": "https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ"
+        "name": "Carnav\u00e1lia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/205INdvEuLF2IfLOA3yTOl"
       },
       "artists": [
         {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
         }
       ],
-      "duration_ms": 260493,
-      "name": "Como Nossos Pais",
-      "url": "https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk"
+      "duration_ms": 270029,
+      "name": "Carnav\u00e1lia - Ao Vivo",
+      "url": "https://open.spotify.com/track/5YpDmhY73LENoh0JMEvEZV"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1407,6 +1407,22 @@
       "duration_ms": 214866,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/1CFpxBiLtcnBVIbnmAJCBk"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Em Casa Com os Gil",
+        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 234570,
+      "name": "Barato Total",
+      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1475,22 +1491,6 @@
       "duration_ms": 275906,
       "name": "Olhos Nos Olhos",
       "url": "https://open.spotify.com/track/30F630HDvFOckjhqBZfl9L"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
-        "name": "Em Casa Com os Gil",
-        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 234570,
-      "name": "Barato Total",
-      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
     },
     {
       "added_at": "2026-05-22 11:20:59",

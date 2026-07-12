@@ -442,7 +442,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 177297,
       "name": "BIG MAN TING",
       "url": "https://open.spotify.com/track/6SUXIQBFePIsKoz7HMFGX4"
@@ -1584,6 +1584,28 @@
       "duration_ms": 188571,
       "name": "Kom Kom",
       "url": "https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj"
+    },
+    {
+      "album": {
+        "name": "Kontrol",
+        "url": "https://open.spotify.com/album/1ryXvaEgZBJEkmV6b7SW9U"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Duncan Mighty",
+          "url": "https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Kontrol",
+      "url": "https://open.spotify.com/track/47sSLxvk49OmJf1TYzwAPq"
     },
     {
       "album": {

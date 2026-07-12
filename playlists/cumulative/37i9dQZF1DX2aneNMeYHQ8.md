@@ -4,7 +4,7 @@
 
 > alt, indie rock, and folk sprinkled into this sonic melting pot\. Cover: Noah Kahan
 
-643 songs - 1 day 15 hr 7 min
+644 songs - 1 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,7 @@
 | [Much Ado About Nothing](https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Much Ado About Nothing](https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN) | 3:49 | 2024-10-14 | 2026-01-15 |
 | [My Anxiety](https://open.spotify.com/track/0q0Jgj7gvnMLSoCvZjpdSm) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [The Sun Wakes Up Earlier Now](https://open.spotify.com/album/4dbOSFoJRz1Gl4hFhcvVir) | 2:42 | 2021-09-03 | 2022-01-22 |
 | [My Babe](https://open.spotify.com/track/2KoQiXDyIz2pnd33oukKEw) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:47 | 2022-11-11 | 2023-08-27 |
-| [My Heart is Drowning](https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [My Heart is Drowning](https://open.spotify.com/album/27MkfKfFf4AONvPedCeBrX) | 2:43 | 2024-10-04 |  |
+| [My Heart is Drowning](https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [My Heart is Drowning](https://open.spotify.com/album/27MkfKfFf4AONvPedCeBrX) | 2:43 | 2024-10-04 | 2026-07-12 |
 | [My Honest Face](https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 4:32 | 2023-04-04 | 2024-10-05 |
 | [My Maker](https://open.spotify.com/track/0CytapqefuNILUq2YdFw78) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [My Maker](https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4) | 4:19 | 2026-03-27 |  |
 | [My Unveiling feat\. Caroline Kingsbury](https://open.spotify.com/track/5yevccpakm9zoN8Q1qVq1v) | [Big Mother Gig](https://open.spotify.com/artist/0idrDw8R9ZRWdLZxMN1YlE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [My Unveiling feat\. Caroline Kingsbury](https://open.spotify.com/album/0dfK1X3BU4YXlbOD06NQ5O) | 3:01 | 2021-09-17 | 2022-02-12 |
@@ -485,6 +485,7 @@
 | [So Caught Up](https://open.spotify.com/track/4hXyXsww7q7ETKeVKD034T) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [So Caught Up](https://open.spotify.com/album/4kZ4Zf5TpRzNQf79ijFdws) | 3:48 | 2021-01-29 | 2022-10-03 |
 | [So Happy It Hurts](https://open.spotify.com/track/3uUgytODjrj5CzRl01ALdk) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Kick Ass](https://open.spotify.com/album/2ZXbHxfZBohaSObTJPAYTh) | 3:35 | 2021-12-09 | 2022-07-27 |
 | [So Happy It Hurts](https://open.spotify.com/track/6RZNw4khjjd6mehiLQ6Ztz) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/5tccDKivQOkZJSlAbVwWHI) | 3:35 | 2022-07-01 | 2022-10-22 |
+| [So Long](https://open.spotify.com/track/5KI9tNpndVD7U83Nugjl9X) | [Solon Holt](https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz) | [So Long](https://open.spotify.com/album/5bjrfLnlXq7JvqtCWWrold) | 3:55 | 2026-07-10 |  |
 | [So Sick Of Dreaming](https://open.spotify.com/track/0JIdzqE6KollCBswa5HpIP) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/2NzJnMiQdUlxjNP4lxOMEk) | 3:52 | 2024-04-05 | 2024-07-14 |
 | [So Sick Of Dreaming](https://open.spotify.com/track/2VWU98gL9ePoBWzjttq3iC) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 3:52 | 2024-04-05 | 2024-04-19 |
 | [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 | 2024-04-05 | 2024-04-15 |

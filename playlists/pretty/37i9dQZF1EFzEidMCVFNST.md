@@ -262,8 +262,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 252 | [Não Passo Vontade](https://open.spotify.com/track/5c7LsNU70OcQEWZZQtlgg0) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Tudo Passa](https://open.spotify.com/album/4DE7S8vof8z7N6ObufyE5O) | 2:26 |
 | 253 | [Por Que Foi Embora](https://open.spotify.com/track/38eR4krvao8M74gRZjffkc) | [Rick Rocha](https://open.spotify.com/artist/4feibzRriTTJaeEgsGs7v0) | [Tudo Eu](https://open.spotify.com/album/1CiyVAVMnOwztEPhOgiU8G) | 2:55 |
 | 254 | [Superadinha](https://open.spotify.com/track/60TDqLdAB6FhNFUoql9ZLa) | [MC Matheuzim](https://open.spotify.com/artist/1oXymTbsxIYd9cP8u9yfGo), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [DJ Braga Oficial](https://open.spotify.com/artist/5icwIVKIEdJwzeHjQ6XYJG), [Vitor & Henrique](https://open.spotify.com/artist/3KQCrR8IwOqqYxAV3jWQ4c) | [Superadinha](https://open.spotify.com/album/0Y9Dt8RauYDVygx4stPlZL) | 2:37 |
-| 255 | [Bumbum Terremoto](https://open.spotify.com/track/5EH7d2Z1FumF5XhflCZwrG) | [Wallas Arrais](https://open.spotify.com/artist/33GsYMJgWMgIt4vbhUwTEe) | [Vibrations](https://open.spotify.com/album/73q2GIJ0bC6zb3AjobpNUX) | 2:12 |
-| 256 | [Deve Haver](https://open.spotify.com/track/2tx7zGElPkD2ylC9zvyVkR) | [Sampa Crew](https://open.spotify.com/artist/1sPTOnMc3tEimHIT9xZX4G) | [Todo Coração Tem Jeito](https://open.spotify.com/album/7p7dGYVjbc9g5eebHDAxuq) | 3:29 |
+| 255 | [Deve Haver](https://open.spotify.com/track/2tx7zGElPkD2ylC9zvyVkR) | [Sampa Crew](https://open.spotify.com/artist/1sPTOnMc3tEimHIT9xZX4G) | [Todo Coração Tem Jeito](https://open.spotify.com/album/7p7dGYVjbc9g5eebHDAxuq) | 3:29 |
+| 256 | [Bumbum Terremoto](https://open.spotify.com/track/5EH7d2Z1FumF5XhflCZwrG) | [Wallas Arrais](https://open.spotify.com/artist/33GsYMJgWMgIt4vbhUwTEe) | [Vibrations](https://open.spotify.com/album/73q2GIJ0bC6zb3AjobpNUX) | 2:12 |
 | 257 | [Alvo de Batom](https://open.spotify.com/track/0ZetJcVVBSgaQltYFJDdK4) | [João Lucas & Marcelo](https://open.spotify.com/artist/07qXCavgZGcwnfNHSvSPtG) | [Agora É pra Valer](https://open.spotify.com/album/5KFXmJbd4Pi3f6rsvARQPT) | 2:53 |
 | 258 | [Melhor Rolê do Mundo](https://open.spotify.com/track/0B9VPrWWiwhKUSEN0yIpO2) | [Beto & Breno](https://open.spotify.com/artist/7iFKA14MpJ9bhPhZIUqDOS) | [Rolê dos Meninos](https://open.spotify.com/album/1JPcP5OHhKaej7WDpgMTp4) | 2:42 |
 | 259 | [Todo Mundo Menos Eu](https://open.spotify.com/track/17LerpHwW0neGAJtrnnYDK) | [Cris Santos](https://open.spotify.com/artist/6MqwXyyC7csKctXpXuNlQO) | [Todo Mundo Menos Eu](https://open.spotify.com/album/2rF19PsAhFyv0GfnlF5ahG) | 2:31 |
@@ -318,4 +318,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 308 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 | 309 | [De Boa na Lagoa](https://open.spotify.com/track/2JyEtXPdofr92XjnEEI4NH) | [Adriel Salim](https://open.spotify.com/artist/4xwzb6gEDDp5IpAnoASRuy) | [Aumenta o Paredão \(Verão 2023\)](https://open.spotify.com/album/6quXWSGETr7nugA7XM4vf8) | 2:48 |
 
-Snapshot ID: `AcWg1AAAAAD2hEtpCykJF4i65UEttsWM`
+Snapshot ID: `AcWmdAAAAAAjz6qmET1sKtNVTk42YwDd`

@@ -1,6 +1,6 @@
 {
   "description": "\u534a\u6e05\u9192\u7684\u6642\u523b\u6700\u8ff7\u4eba\uff0c\u8b93\u6700\u8ff7\u4eba\u7684\u97f3\u6a02\u548c\u4f60\u4e00\u8d77\u96a8\u8208...",
-  "num_followers": 168025,
+  "num_followers": 168014,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "Baggy$$",
+        "url": "https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 184253,
+      "name": "I Don\u2019t Wanna",
+      "url": "https://open.spotify.com/track/7qkScg9F6NUKFxfX16qtWb"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "Walk Long",
         "url": "https://open.spotify.com/album/0zR3grZpgad6nqfPauPdnJ"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 248877,
       "name": "Walk Long",
       "url": "https://open.spotify.com/track/1ibtSIWTF1Ti00WMocGGir"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "Baggy$$",
-        "url": "https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 184253,
-      "name": "I Don\u2019t Wanna",
-      "url": "https://open.spotify.com/track/7qkScg9F6NUKFxfX16qtWb"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "Underground Vibes",
+        "url": "https://open.spotify.com/album/3KbEXCBCtDk1gUIJrQirIA"
+      },
+      "artists": [
+        {
+          "name": "DJ Cam",
+          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
+        }
+      ],
+      "duration_ms": 312413,
+      "name": "Mad Blunted Jazz",
+      "url": "https://open.spotify.com/track/11mUt9hPLDxt7EsoYB2Ujc"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "Firebabe",
         "url": "https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 220346,
       "name": "Firebabe",
       "url": "https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "Underground Vibes",
-        "url": "https://open.spotify.com/album/3KbEXCBCtDk1gUIJrQirIA"
-      },
-      "artists": [
-        {
-          "name": "DJ Cam",
-          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
-        }
-      ],
-      "duration_ms": 312413,
-      "name": "Mad Blunted Jazz",
-      "url": "https://open.spotify.com/track/11mUt9hPLDxt7EsoYB2Ujc"
     },
     {
       "added_at": "2026-02-09 02:11:35",

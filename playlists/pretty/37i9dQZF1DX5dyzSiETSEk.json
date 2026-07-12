@@ -1,6 +1,6 @@
 {
   "description": "The whole family will enjoy popular hits from yesterday and today!",
-  "num_followers": 574137,
+  "num_followers": 574121,
   "original_name": "Pop for Kids",
   "owner": {
     "name": "Spotify",
@@ -1365,38 +1365,6 @@
       "url": "https://open.spotify.com/track/6d3edMXJpns1A0zGKkmlGw"
     },
     {
-      "added_at": "2026-01-05 20:12:51",
-      "album": {
-        "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 176078,
-      "name": "Just a Cloud Away",
-      "url": "https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY"
-    },
-    {
-      "added_at": "2026-01-05 20:12:51",
-      "album": {
-        "name": "Kung Fu Panda 4 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6n2FMmygekI4wcwaRf0LGj"
-      },
-      "artists": [
-        {
-          "name": "Tenacious D",
-          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "...Baby One More Time (from Kung Fu Panda 4)",
-      "url": "https://open.spotify.com/track/5wViaajeHHPZlEjBY9nhU3"
-    },
-    {
       "added_at": "2026-07-07 18:06:35",
       "album": {
         "name": "Mad - Wicked Wonderland (From \"Descendants: Wicked Wonderland\")",
@@ -1427,6 +1395,38 @@
       "duration_ms": 93916,
       "name": "Mad - Wicked Wonderland - From \"Descendants: Wicked Wonderland\"",
       "url": "https://open.spotify.com/track/1GzbaOHvaMnsMO2dhUMb45"
+    },
+    {
+      "added_at": "2026-01-05 20:12:51",
+      "album": {
+        "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 176078,
+      "name": "Just a Cloud Away",
+      "url": "https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY"
+    },
+    {
+      "added_at": "2026-01-05 20:12:51",
+      "album": {
+        "name": "Kung Fu Panda 4 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6n2FMmygekI4wcwaRf0LGj"
+      },
+      "artists": [
+        {
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "...Baby One More Time (from Kung Fu Panda 4)",
+      "url": "https://open.spotify.com/track/5wViaajeHHPZlEjBY9nhU3"
     }
   ],
   "unique_name": "Pop for Kids",

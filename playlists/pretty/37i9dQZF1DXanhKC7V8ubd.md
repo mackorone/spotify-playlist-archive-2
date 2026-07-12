@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanhKC7V8ubd.md) - [plain]
 
 > Noventa minutos de pasión, desamor y gloria\. La combinación perfecta entre himnos de Harry Styles y Juan Gabriel para vivir el México vs\. Inglaterra
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,298 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,288 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanhKC7V8ubd.md) - [plain]
 | 49 | [Querida](https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos II](https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt) | 5:28 |
 | 50 | [Sunflower, Vol\. 6](https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:41 |
 
-Snapshot ID: `AAAAAP4kRvkuQlNzPP/CKS1QNIGzlse1`
+Snapshot ID: `AAAAAClPwhg8jzoL6fhUZWyCMshHfreb`

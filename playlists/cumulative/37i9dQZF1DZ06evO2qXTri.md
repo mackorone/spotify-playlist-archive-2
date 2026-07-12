@@ -4,7 +4,7 @@
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-117 songs - 9 hr 42 min
+118 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,10 +92,11 @@
 | [Revolution](https://open.spotify.com/track/48LZC1RDcSX3qwSUkmqLbz) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Boycott](https://open.spotify.com/album/3MQ28EyvwEflLB5q93AAkf) | 5:39 | 2024-07-04 |  |
 | [Revolution](https://open.spotify.com/track/4xm2HjtDAdCobewPoaImT7) | [Kirk Franklin & The Family](https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 5:37 | 2022-09-15 | 2024-03-05 |
 | [SBTN \(feat\. Kirk Franklin\)](https://open.spotify.com/track/5MsaHCrNAwmD0tmkMukqJk) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [SORRY, I CHANGED](https://open.spotify.com/album/2Sc59LMto9B7P3gGRzqTkv) | 3:14 | 2024-05-02 | 2024-10-28 |
+| [September](https://open.spotify.com/track/7uida3SdfnH2HDCX1Jj99N) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Interpretations: Celebrating The Music Of Earth, Wind & Fire](https://open.spotify.com/album/5c96R9wpmvdBGfOzRRb5Qx) | 3:56 | 2026-07-12 |  |
 | [Show Me the Way \(feat\. Kirk Franklin\)](https://open.spotify.com/track/7n92HF4Kw6Bs0Hmm3FM7xC) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Faith Of A Mustard Seed](https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R) | 1:43 | 2024-07-27 | 2024-09-23 |
 | [Silver and Gold \- Live](https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kirk Franklin and the Family](https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107) | 4:52 | 2022-09-14 |  |
 | [Something About the Name Jesus](https://open.spotify.com/track/0bGyh9iwb37ElctPNsxdwX) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 6:08 | 2022-09-14 |  |
-| [Something About The Name Jesus \(feat\. Kirk Franklin\) \- Producer's Remix](https://open.spotify.com/track/6H687qoB0Jw97cIQ3vM8Yf) | [The Rance Allen Group](https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Celebrate](https://open.spotify.com/album/55dqkiYJ5qPBBPQkTQD5MO) | 7:29 | 2026-03-31 |  |
+| [Something About The Name Jesus \(feat\. Kirk Franklin\) \- Producer's Remix](https://open.spotify.com/track/6H687qoB0Jw97cIQ3vM8Yf) | [The Rance Allen Group](https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Celebrate](https://open.spotify.com/album/55dqkiYJ5qPBBPQkTQD5MO) | 7:29 | 2026-03-31 | 2026-07-12 |
 | [Something About The Name Jesus Pt\. 2 \(feat\. Rance Allen, Marvin Winans, John P\. Kee & Isaac Carree\)](https://open.spotify.com/track/3JELE0SCT2f9Wfg31OkhOG) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Rance Allen](https://open.spotify.com/artist/6kSjbNXcS3bNyP3WSli67X), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl), [Isaac Carree](https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH) | [Hello Fear](https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N) | 5:36 | 2022-09-14 |  |
 | [Stomp \(Remix\)](https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Essential Kirk Franklin](https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt) | 5:05 | 2022-09-14 |  |
 | [Strong God](https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:05 | 2022-09-14 |  |

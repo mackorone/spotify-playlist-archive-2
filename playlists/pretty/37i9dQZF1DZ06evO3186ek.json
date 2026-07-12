@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 165961,
+  "num_followers": 165960,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAACO526Gi0Sw6vRHLl3D+pQK",
+  "snapshot_id": "alA2AAAAAADU5y4FUs56HrxmO1f7CRvO",
   "tracks": [
     {
       "added_at": null,
@@ -875,6 +875,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Maverick Way Reimagined",
+        "url": "https://open.spotify.com/album/3Y96T1nmhgU2e4SfkL1el0"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        }
+      ],
+      "duration_ms": 177345,
+      "name": "God Problems (Not By Power) [feat. Miles Minnick]",
+      "url": "https://open.spotify.com/track/2GGhJzqZG04f99FnOoIdyL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Instrumental Worship Collection",
         "url": "https://open.spotify.com/album/7oW8IhvJpVd4efpomMxptQ"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 249152,
       "name": "What A Beautiful Name - Instrumental Worship",
       "url": "https://open.spotify.com/track/2C9IZBwpqLlexhvBx2HG7d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Maverick Way Reimagined",
-        "url": "https://open.spotify.com/album/3Y96T1nmhgU2e4SfkL1el0"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        }
-      ],
-      "duration_ms": 177345,
-      "name": "God Problems (Not By Power) [feat. Miles Minnick]",
-      "url": "https://open.spotify.com/track/2GGhJzqZG04f99FnOoIdyL"
     },
     {
       "added_at": null,
@@ -1035,8 +1035,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond (I See The Glory) feat. Mara Justine",
-        "url": "https://open.spotify.com/album/15kWLR6iLsBbWv2RpsKSgy"
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
       "artists": [
         {
@@ -1044,21 +1044,13 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        },
-        {
-          "name": "Mara Justine",
-          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 343953,
-      "name": "Diamond (I See the Glory) feat. Mara Justine",
-      "url": "https://open.spotify.com/track/6l3QeX7dM6swS3ZuMsgPs5"
+      "duration_ms": 565833,
+      "name": "Kingdom(feat. Chandler Moore, Naomi Raine)",
+      "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
     },
     {
       "added_at": null,
@@ -1083,26 +1075,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingdom Book One",
-        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 565833,
-      "name": "Kingdom(feat. Chandler Moore, Naomi Raine)",
-      "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jubilee: Juneteenth Edition",
         "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
       },
@@ -1123,6 +1095,34 @@
       "duration_ms": 299509,
       "name": "Sufficient for Today (feat. Maryanne J. George & Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/5aobFxGYo2lOVfwrRxIGwv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamond (I See The Glory) feat. Mara Justine",
+        "url": "https://open.spotify.com/album/15kWLR6iLsBbWv2RpsKSgy"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        },
+        {
+          "name": "Mara Justine",
+          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
+        }
+      ],
+      "duration_ms": 343953,
+      "name": "Diamond (I See the Glory) feat. Mara Justine",
+      "url": "https://open.spotify.com/track/6l3QeX7dM6swS3ZuMsgPs5"
     },
     {
       "added_at": null,

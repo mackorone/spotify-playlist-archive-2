@@ -1,6 +1,6 @@
 {
   "description": "Classic cuts from the alternative country music scene. Cover: Uncle Tupelo",
-  "num_followers": 116461,
+  "num_followers": 116474,
   "original_name": "Alt Country Classics",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Tomorrow The Green Grass",
-        "url": "https://open.spotify.com/album/2tNdnAUaaomEEQIsc3Y7TC"
-      },
-      "artists": [
-        {
-          "name": "The Jayhawks",
-          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/5cDfI3KOa64zbuUgD6a4hG"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "O' Be Joyful",
         "url": "https://open.spotify.com/album/4nuJVavarQXSOd2MP7892J"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 240535,
       "name": "Birmingham",
       "url": "https://open.spotify.com/track/5ciSr1SyZUQrxySlxZhdhg"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Tomorrow The Green Grass",
+        "url": "https://open.spotify.com/album/2tNdnAUaaomEEQIsc3Y7TC"
+      },
+      "artists": [
+        {
+          "name": "The Jayhawks",
+          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/5cDfI3KOa64zbuUgD6a4hG"
     },
     {
       "added_at": "2026-06-19 04:01:42",

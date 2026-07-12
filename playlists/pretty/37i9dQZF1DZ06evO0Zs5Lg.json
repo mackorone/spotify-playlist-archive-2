@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 30377,
+  "num_followers": 30398,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAADYCqsEDLnNG+0zzJxWEdtT",
+  "snapshot_id": "alA2AAAAAACLvx4nLHZiiuEX5Bv7dIts",
   "tracks": [
     {
       "added_at": null,
@@ -230,11 +230,15 @@
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Ghosttown",
+          "url": "https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf"
         }
       ],
-      "duration_ms": 177159,
-      "name": "Big Wheels",
-      "url": "https://open.spotify.com/track/510UGYN1NSibhXkYvXmEBN"
+      "duration_ms": 160729,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/3ici5bVyYe4hidBW2enSUt"
     },
     {
       "added_at": null,
@@ -255,26 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/7BYzMlE0anzovqdMe5bNSJ"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Ghosttown",
-          "url": "https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf"
-        }
-      ],
-      "duration_ms": 160729,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/76N39WgN4xENapS5tnw7Of"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Powderhorn Suites",
         "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
       },
@@ -287,22 +271,6 @@
       "duration_ms": 155146,
       "name": "Dead Man Shuffle",
       "url": "https://open.spotify.com/track/0QlyrKrDwglwGmHih4Dj6F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Time Boy",
-        "url": "https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 148928,
-      "name": "Fighter",
-      "url": "https://open.spotify.com/track/0rdthoG3YvgkghJObltH8h"
     },
     {
       "added_at": null,
@@ -323,6 +291,22 @@
       "duration_ms": 215800,
       "name": "Devils Gate (with Kevin Gates)",
       "url": "https://open.spotify.com/track/334BlFXoVUhroNjxfzATJp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Time Boy",
+        "url": "https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 177159,
+      "name": "Big Wheels",
+      "url": "https://open.spotify.com/track/510UGYN1NSibhXkYvXmEBN"
     },
     {
       "added_at": null,
@@ -359,30 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Time Boy",
-        "url": "https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 180519,
-      "name": "Big Dog (with That Mexican OT & 2 Chainz)",
-      "url": "https://open.spotify.com/track/6AC9uuZ5BsNBoiz2aapeOq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Horse",
         "url": "https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm"
       },
@@ -399,6 +359,22 @@
       "duration_ms": 206720,
       "name": "Soupy (with Cozz)",
       "url": "https://open.spotify.com/track/1nmZkBjLJr1fK3CiNjkNUS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Time Boy",
+        "url": "https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 148928,
+      "name": "Fighter",
+      "url": "https://open.spotify.com/track/0rdthoG3YvgkghJObltH8h"
     },
     {
       "added_at": null,
@@ -439,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Time Boy",
-        "url": "https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 187129,
-      "name": "Jewelry Duty (with T-Pain)",
-      "url": "https://open.spotify.com/track/39D9e2Kx9f7ligiEgB0WD8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feed the Dogs",
         "url": "https://open.spotify.com/album/6MIpSgb65ovU5136ui8udW"
       },
@@ -471,6 +427,30 @@
       "duration_ms": 203334,
       "name": "Feed the Dogs",
       "url": "https://open.spotify.com/track/21Nuz8C7Ou8B7U7RUxhTR1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Time Boy",
+        "url": "https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 180519,
+      "name": "Big Dog (with That Mexican OT & 2 Chainz)",
+      "url": "https://open.spotify.com/track/6AC9uuZ5BsNBoiz2aapeOq"
     },
     {
       "added_at": null,
@@ -719,6 +699,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gone Fishin",
+        "url": "https://open.spotify.com/album/7DYNAxMmjgVBxigzClZMEM"
+      },
+      "artists": [
+        {
+          "name": "Grieves",
+          "url": "https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE"
+        },
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 117894,
+      "name": "Gone Fishin",
+      "url": "https://open.spotify.com/track/0MIIWaPAMSK4N0i26d1lqj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pookie Baby",
         "url": "https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A"
       },
@@ -759,26 +759,6 @@
       "duration_ms": 227555,
       "name": "Butter (with Baby Tate)",
       "url": "https://open.spotify.com/track/7s8nNvuxQyAobdOcaJNJVv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gone Fishin",
-        "url": "https://open.spotify.com/album/7DYNAxMmjgVBxigzClZMEM"
-      },
-      "artists": [
-        {
-          "name": "Grieves",
-          "url": "https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE"
-        },
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 117894,
-      "name": "Gone Fishin",
-      "url": "https://open.spotify.com/track/0MIIWaPAMSK4N0i26d1lqj"
     },
     {
       "added_at": null,

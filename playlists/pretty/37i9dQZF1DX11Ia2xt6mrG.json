@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
-  "num_followers": 73038,
+  "num_followers": 73055,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI8iJDlBfg+h2+Kk9n3nt4DOxV80",
+  "snapshot_id": "AAAAAP9kTFskmADNYghRuYGBg55/K2ek",
   "tracks": [
     {
       "added_at": "2026-07-03 06:00:25",
@@ -535,30 +535,6 @@
     {
       "added_at": "2026-07-03 06:00:25",
       "album": {
-        "name": "LA PERLA (V. ELECTRO-CORRIDO)",
-        "url": "https://open.spotify.com/album/4dYtSX7swBIrNsBSWWLpVa"
-      },
-      "artists": [
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Yay",
-          "url": "https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l"
-        }
-      ],
-      "duration_ms": 182584,
-      "name": "LA PERLA (V. ELECTRO-CORRIDO)",
-      "url": "https://open.spotify.com/track/6uyiI0rLWiYc2DkG0USL4s"
-    },
-    {
-      "added_at": "2026-07-03 06:00:25",
-      "album": {
         "name": "Quemando Papel",
         "url": "https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9"
       },
@@ -583,6 +559,30 @@
     {
       "added_at": "2026-07-03 06:00:25",
       "album": {
+        "name": "LA PERLA (V. ELECTRO-CORRIDO)",
+        "url": "https://open.spotify.com/album/4dYtSX7swBIrNsBSWWLpVa"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Yay",
+          "url": "https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l"
+        }
+      ],
+      "duration_ms": 182584,
+      "name": "LA PERLA (V. ELECTRO-CORRIDO)",
+      "url": "https://open.spotify.com/track/6uyiI0rLWiYc2DkG0USL4s"
+    },
+    {
+      "added_at": "2026-07-03 06:00:25",
+      "album": {
         "name": "Coqueta",
         "url": "https://open.spotify.com/album/3wwumf5M071TZgngk70ZPa"
       },
@@ -595,6 +595,22 @@
       "duration_ms": 182857,
       "name": "Coqueta",
       "url": "https://open.spotify.com/track/2Woc5FpMWlLZUBGVZBY1Hn"
+    },
+    {
+      "added_at": "2026-07-03 06:00:25",
+      "album": {
+        "name": "Runaways",
+        "url": "https://open.spotify.com/album/2XujCWDs7X273KosEKxzIo"
+      },
+      "artists": [
+        {
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+        }
+      ],
+      "duration_ms": 269880,
+      "name": "Runaways",
+      "url": "https://open.spotify.com/track/2q0t6NVVxNPWXAxjZ5qIXX"
     },
     {
       "added_at": "2026-07-03 06:00:25",
@@ -619,18 +635,26 @@
     {
       "added_at": "2026-07-03 06:00:25",
       "album": {
-        "name": "Runaways",
-        "url": "https://open.spotify.com/album/2XujCWDs7X273KosEKxzIo"
+        "name": "PPP",
+        "url": "https://open.spotify.com/album/75iFgRPgqvNwqm6kgqsBtr"
       },
       "artists": [
         {
-          "name": "Midnight Generation",
-          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Skrapy",
+          "url": "https://open.spotify.com/artist/3exJEpEoygFnfUyVen7QSP"
         }
       ],
-      "duration_ms": 269880,
-      "name": "Runaways",
-      "url": "https://open.spotify.com/track/2q0t6NVVxNPWXAxjZ5qIXX"
+      "duration_ms": 188225,
+      "name": "PPP",
+      "url": "https://open.spotify.com/track/1zNobOaHvQIFzYpGb3VBR9"
     },
     {
       "added_at": "2026-07-03 06:00:25",
@@ -679,30 +703,6 @@
       "duration_ms": 196800,
       "name": "SONI23BALL",
       "url": "https://open.spotify.com/track/6FAAoH80QaTzWOUTCa8oTZ"
-    },
-    {
-      "added_at": "2026-07-03 06:00:25",
-      "album": {
-        "name": "PPP",
-        "url": "https://open.spotify.com/album/75iFgRPgqvNwqm6kgqsBtr"
-      },
-      "artists": [
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Skrapy",
-          "url": "https://open.spotify.com/artist/3exJEpEoygFnfUyVen7QSP"
-        }
-      ],
-      "duration_ms": 188225,
-      "name": "PPP",
-      "url": "https://open.spotify.com/track/1zNobOaHvQIFzYpGb3VBR9"
     },
     {
       "added_at": "2026-07-03 06:00:25",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-07-03 06:00:25",
       "album": {
-        "name": "pOCHO",
-        "url": "https://open.spotify.com/album/7Htas2Bl8ae7bCTie70CAQ"
-      },
-      "artists": [
-        {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "teksi",
-      "url": "https://open.spotify.com/track/2GZZZxaN4jwXFfAaZVaKhd"
-    },
-    {
-      "added_at": "2026-07-03 06:00:25",
-      "album": {
         "name": "Busc\u00e1ndome",
         "url": "https://open.spotify.com/album/7pHZZSTcBjvvDlSQbgQQit"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 256086,
       "name": "Busc\u00e1ndome",
       "url": "https://open.spotify.com/track/3TT6iiwXxxo1RaERWyeeqK"
+    },
+    {
+      "added_at": "2026-07-03 06:00:25",
+      "album": {
+        "name": "pOCHO",
+        "url": "https://open.spotify.com/album/7Htas2Bl8ae7bCTie70CAQ"
+      },
+      "artists": [
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "teksi",
+      "url": "https://open.spotify.com/track/2GZZZxaN4jwXFfAaZVaKhd"
     },
     {
       "added_at": "2026-07-03 06:00:25",
@@ -1451,30 +1451,6 @@
     {
       "added_at": "2026-07-03 06:00:25",
       "album": {
-        "name": "Porque La Demora",
-        "url": "https://open.spotify.com/album/6zUt368NvVDSN4UCMvGlv7"
-      },
-      "artists": [
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
-        }
-      ],
-      "duration_ms": 169761,
-      "name": "Porque La Demora",
-      "url": "https://open.spotify.com/track/35NLjcLkYA5UZUaPKkhTnC"
-    },
-    {
-      "added_at": "2026-07-03 06:00:25",
-      "album": {
         "name": "Media Noche",
         "url": "https://open.spotify.com/album/74f9HcviH7UX3l7S1o914T"
       },
@@ -1499,6 +1475,30 @@
       "duration_ms": 180545,
       "name": "Media Noche",
       "url": "https://open.spotify.com/track/0CIh0LjgagV5JCAQSM1tT3"
+    },
+    {
+      "added_at": "2026-07-03 06:00:25",
+      "album": {
+        "name": "Porque La Demora",
+        "url": "https://open.spotify.com/album/6zUt368NvVDSN4UCMvGlv7"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+        }
+      ],
+      "duration_ms": 169761,
+      "name": "Porque La Demora",
+      "url": "https://open.spotify.com/track/35NLjcLkYA5UZUaPKkhTnC"
     },
     {
       "added_at": "2026-07-03 06:00:25",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-07-03 06:00:25",
       "album": {
-        "name": "999 (Goer)",
-        "url": "https://open.spotify.com/album/1OVXU74d1lygEMbdTxEuBb"
-      },
-      "artists": [
-        {
-          "name": "Remp",
-          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
-        }
-      ],
-      "duration_ms": 160857,
-      "name": "999 (Goer)",
-      "url": "https://open.spotify.com/track/17naw7wiDD3bL2ePAIrIVk"
-    },
-    {
-      "added_at": "2026-07-03 06:00:25",
-      "album": {
         "name": "Bandidas",
         "url": "https://open.spotify.com/album/2ADVnJXAX6V7NQoerdXPmD"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 142714,
       "name": "Bandidas",
       "url": "https://open.spotify.com/track/7nOe5YtRc78d1vFGt1zi1V"
+    },
+    {
+      "added_at": "2026-07-03 06:00:25",
+      "album": {
+        "name": "999 (Goer)",
+        "url": "https://open.spotify.com/album/1OVXU74d1lygEMbdTxEuBb"
+      },
+      "artists": [
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        }
+      ],
+      "duration_ms": 160857,
+      "name": "999 (Goer)",
+      "url": "https://open.spotify.com/track/17naw7wiDD3bL2ePAIrIVk"
     },
     {
       "added_at": "2026-07-03 06:00:25",

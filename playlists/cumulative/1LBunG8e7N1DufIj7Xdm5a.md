@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,521 songs - 10 day 2 hr 22 min
+4,522 songs - 10 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [Balla Senza Limiti \(another\)](https://open.spotify.com/track/20AWsu6pWaOzVWomnK9r8w) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Musica italiana](https://open.spotify.com/album/7Kt5fi9PB4z2n4Rs7khv4K) | 2:45 | 2025-09-13 |  |
 | [Balla Sul Mio Nome](https://open.spotify.com/track/7AP6F4fJ2r7nH72HnMFcQ8) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Musica italiana](https://open.spotify.com/album/7Kt5fi9PB4z2n4Rs7khv4K) | 2:08 | 2025-09-13 |  |
 | [Balla Sul Mio Nome \(another\)](https://open.spotify.com/track/1aGFWA5a4H2PaPa4uVfwsv) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Musica italiana](https://open.spotify.com/album/7Kt5fi9PB4z2n4Rs7khv4K) | 2:43 | 2025-09-13 |  |
-| [Ballando sulla piattaforma](https://open.spotify.com/track/5hYPx7ZGUfboTrcaowGrvD) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 3:23 | 2025-12-10 |  |
+| [Ballando sulla Piattaforma](https://open.spotify.com/track/5hYPx7ZGUfboTrcaowGrvD) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 3:23 | 2025-12-10 |  |
 | [Balliamo Stanotte](https://open.spotify.com/track/336O7jpXtuHbQSfduiWXiX) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Playlist Italia 2025](https://open.spotify.com/album/6DUX6UOq97rQeTwOKXGzKM) | 2:33 | 2025-09-12 |  |
 | [Balliamo Sul Tetto](https://open.spotify.com/track/21uG4mQZXMEeTcHUUTB8lA) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Musica italiana](https://open.spotify.com/album/7Kt5fi9PB4z2n4Rs7khv4K) | 2:34 | 2025-09-13 |  |
 | [Balliamo Sul Tetto \(another\)](https://open.spotify.com/track/66qwzGgrPhYshNkzLB0qdA) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Musica italiana](https://open.spotify.com/album/7Kt5fi9PB4z2n4Rs7khv4K) | 2:46 | 2025-09-13 |  |
@@ -1620,7 +1620,7 @@
 | [Ghosts aren't scary](https://open.spotify.com/track/1TGxl2VuaKpJeGBmaxuo80) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Machine Yearning EP](https://open.spotify.com/album/7HBzPwXdizTOmjuEGCF9Bx) | 0:45 | 2025-12-04 |  |
 | [Ghosts of Desire](https://open.spotify.com/track/4rC3NvlrjKGT1RXuvJcU7P) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Neon Apocalypse](https://open.spotify.com/album/0CjDkfwPy9Iw8wYV8GKLRG) | 2:41 | 2025-09-16 |  |
 | [Ghunghat Mein Chhupa Hai Chehra](https://open.spotify.com/track/3EpjVf2yHa1UBe5KgWXKtc) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Ghunghat Mein Chhupa Hai Chehra](https://open.spotify.com/album/362wVpruWIxJjqC6Pekp40) | 3:49 | 2025-05-20 |  |
-| [GIALLO NERI FOREVER SUMMER 2025 \- REMIX](https://open.spotify.com/track/4UJd2xAGXXPlNJQIqsFbZp) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 2:42 | 2025-12-10 |  |
+| [GIALLO NERI FOREVER SUMMER \- REMIX](https://open.spotify.com/track/4UJd2xAGXXPlNJQIqsFbZp) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 2:42 | 2025-12-10 |  |
 | [Gigantes Caerán](https://open.spotify.com/track/1WOiMDM8mM1kOUte8Z4MYy) | [Pulso Divino](https://open.spotify.com/artist/2XK1i9oymQY7yT0CsaVALI) | [Tu Palabra](https://open.spotify.com/album/404H6EidSC1PmqDFfgr8Q8) | 3:07 | 2026-06-21 |  |
 | [Gin tonic sulla neve](https://open.spotify.com/track/5iiW1CMlN1jFGE7348D142) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt), [Luca Berga](https://open.spotify.com/artist/2lQTeZR7h9sPvnZexNQSFr) | [Gin tonic sulla neve](https://open.spotify.com/album/4YwMJVkYTmDr9EPjr3v6u3) | 2:33 | 2026-01-31 |  |
 | [Ginger Red \(Oh, So Bad\)](https://open.spotify.com/track/19t6cnKhQsDLuZzyeRKcaU) | [Blackened Rose](https://open.spotify.com/artist/0LGlGxDSHcyyLK0xOWfSVL) | [Ginger Red \(Oh, So Bad\)](https://open.spotify.com/album/0GBfTTT1ml0FrVMaAi1AzF) | 3:39 | 2025-05-18 |  |
@@ -1958,7 +1958,7 @@
 | [In the Air](https://open.spotify.com/track/0o51SFZkj5CAdCNg4qfFs3) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for peace](https://open.spotify.com/album/7iiVG6H66iXwiG3rT0qZLD) | 4:03 | 2025-09-17 |  |
 | [In the Air \(another\)](https://open.spotify.com/track/1Tsoup85qct2BxEM8cNg5X) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for peace](https://open.spotify.com/album/7iiVG6H66iXwiG3rT0qZLD) | 4:44 | 2025-09-17 |  |
 | [In the grain](https://open.spotify.com/track/7GXy6iC4hzJuLa9G7HGUF3) | [The Sunday Static](https://open.spotify.com/artist/36ru1AAdGSsjN5Uzr3CrHd) | [Under the hiss](https://open.spotify.com/album/3ei3vWOjhGdACXB5GBFfh9) | 4:14 | 2026-07-07 |  |
-| [In the great stories](https://open.spotify.com/track/3LDTyBYEExmyYYLBcSjYaa) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 2:32 | 2025-12-10 |  |
+| [In the Great Stories](https://open.spotify.com/track/3LDTyBYEExmyYYLBcSjYaa) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 2:32 | 2025-12-10 |  |
 | [In the rain](https://open.spotify.com/track/6wEdQ3tq7D7VbAX8qjc1yw) | [Flint Gun](https://open.spotify.com/artist/0nFSX6ZMek8s4Adewf1B3F) | [In the rain](https://open.spotify.com/album/0kMllBMTHHKlLa6AvswTwm) | 4:10 | 2025-10-15 |  |
 | [In un mondo dopo il mondo](https://open.spotify.com/track/0T3v3wLYR85rDTWWI8GhOG) | [Massimo Volume](https://open.spotify.com/artist/24GE8PrrmxG6XocV1UQPmP) | [Cattive abitudini](https://open.spotify.com/album/24wUrxEOINZfcfJF2eJ6O2) | 5:09 | 2025-11-12 |  |
 | [Inaffondabile](https://open.spotify.com/track/0xFqxzQpAqfR8aptswwEbg) | [Kronberg](https://open.spotify.com/artist/5E8bDmNrytK8smJiycYFxC), [Ian](https://open.spotify.com/artist/67jmOUMmXY6qY19JcTpBoO), [Antonio Scarola](https://open.spotify.com/artist/5rJ3KiQdDHdC9zY665qvvt) | [Inaffondabile](https://open.spotify.com/album/6QLf25RnPCKBMGwv4wT5wi) | 4:05 | 2025-09-26 |  |
@@ -2088,6 +2088,7 @@
 | [Karpa Koi](https://open.spotify.com/track/5wNaTEXJt42mrir0krH5Z6) | [Ksv Sirius](https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF) | [Karpa Koi](https://open.spotify.com/album/4G1JLl7b1jjnjAlNyu9Tzb) | 1:57 | 2025-12-25 |  |
 | [Karst](https://open.spotify.com/track/2kRsYGQkSzB6xRu6W8DJvb) | [OSSIFER](https://open.spotify.com/artist/7hpGCrRqtmaoDuQ98GKWdx) | [Karst](https://open.spotify.com/album/7doOzUTBMSiODNOZ4sF9wm) | 4:41 | 2025-04-26 |  |
 | [Kashmir \- Cover](https://open.spotify.com/track/6fcdXw2LyBCyump8JRCGfo) | [JaNNus](https://open.spotify.com/artist/6UzFYM28tp9IjqbjVdnmTb), [Cristian Argonz](https://open.spotify.com/artist/1tvPKCfCxBoYEpbd0VjCVR) | [Nueva Era](https://open.spotify.com/album/6aBPq0mvfWPYuSv1OzPhL5) | 8:39 | 2025-08-27 |  |
+| [Ke quiere hacer](https://open.spotify.com/track/5G2lTc0aqQDDRlnEUkPWBS) | [octa](https://open.spotify.com/artist/35AmfyA3wiyeGfwX84QwVy), [Dearriba](https://open.spotify.com/artist/38VgmuXdTEYy63tcL1E5oV) | [Ke quiere hacer](https://open.spotify.com/album/1rLRlbJS1LvRdbwDHdrDYB) | 2:33 | 2026-07-12 |  |
 | [Keep It Up](https://open.spotify.com/track/0X8HKkjRUdBqIuSkP3hy1J) | [Prince MSK](https://open.spotify.com/artist/2uBjCmm2Y4L5UeYwe4JvL8), [Yungcrxss](https://open.spotify.com/artist/3fdZ6VcAI1XkiPnOUXeMdC), [Asaboy DaSupreme](https://open.spotify.com/artist/422fRoBCOIIxMMPW7rPy57) | [For Us By Us](https://open.spotify.com/album/4dV17FfYyYFFm9raWRvtR6) | 3:03 | 2025-06-04 |  |
 | [Keep Running](https://open.spotify.com/track/0l2EatGlh3Sk7IsAQnhvjd) | [The Vegas Pigeon's](https://open.spotify.com/artist/1j3fgTPoallIrXgGDdGNCY) | [Keep Running](https://open.spotify.com/album/25W4m4L0TVRuX12aWKobca) | 3:55 | 2026-03-20 |  |
 | [Keep Trying](https://open.spotify.com/track/4BfznS05suAGg6UwGqIcb6) | [Amortem](https://open.spotify.com/artist/2DnesP0vlm2v43MGARajda) | [Keep Trying](https://open.spotify.com/album/2rN4oEf6ZE7mKrIQKN8xZn) | 3:11 | 2025-12-23 |  |

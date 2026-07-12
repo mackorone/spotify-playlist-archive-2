@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Nico Moreno, Novah
 
-389 songs - 1 day 2 hr 10 min
+390 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Hype Boy](https://open.spotify.com/track/4I4LIjM7gHmIFQ210Ycx2j) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hype Boy](https://open.spotify.com/album/1SPxEjHts5HlArNh5saCm2) | 3:16 | 2024-10-14 |  |
 | [Hyper Runner](https://open.spotify.com/track/3kZVKXB24lQARYyZ83WMWT) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9) | [Hyper Runner](https://open.spotify.com/album/7BZDljcUP3xVkt8G4STmhv) | 4:39 | 2024-04-09 | 2024-05-16 |
 | [Hypnotise](https://open.spotify.com/track/6EZz5l9orMw7FJdLzw73to) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Enveak](https://open.spotify.com/artist/3CzQUOQ8Adb258xxKHHngS), [SURAYA](https://open.spotify.com/artist/19IffvUJTt3a7c1vPXENF3), [SHOWTEKNO](https://open.spotify.com/artist/6nKoiURdxdyE4ZKICS69GD) | [Hypnotise](https://open.spotify.com/album/05eqUNKxERcApF85qG9BkZ) | 2:53 | 2026-03-06 | 2026-05-05 |
+| [HÖLLE IM HERZ](https://open.spotify.com/track/1HN3FURbRaojGtKpIt9kSN) | [Michael Klotz](https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh) | [HÖLLE IM HERZ](https://open.spotify.com/album/7cig8YOq7vbKOK0nj6avi6) | 2:30 | 2026-07-10 |  |
 | [I Am Cool](https://open.spotify.com/track/3MpyqUat9C6YkEVsmahdX6) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [I Am Cool](https://open.spotify.com/album/0KuvnomtqHox9SDhs4CFDm) | 2:43 | 2024-10-04 | 2024-11-16 |
 | [I Got Acid](https://open.spotify.com/track/482SNF4FRJ5Ik8j2krjMEE) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [I Got Acid](https://open.spotify.com/album/7DqeTZTW7W1MSewzTKjnwR) | 2:07 | 2026-06-25 |  |
 | [I Gotta Come In](https://open.spotify.com/track/5Zvm7MJIqbJNPUilBp4VsF) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O) | [I Gotta Come In](https://open.spotify.com/album/6U4Zykb93hkwR0mE4pj7lS) | 2:42 | 2025-02-14 | 2025-02-21 |
@@ -248,7 +249,7 @@
 | [Murdock](https://open.spotify.com/track/7nN21YXSaGR5mygpLIk76a) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9), [AXL](https://open.spotify.com/artist/3HvGktIqgqALPusQhtRtno), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Murdock](https://open.spotify.com/album/399a0712lFkePRqeJUANNY) | 5:15 | 2024-04-09 | 2024-05-23 |
 | [My Gasoline \- Hard Edit](https://open.spotify.com/track/2pmk8xGNKwmKrmQBK9Vwgf) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline \(Hard Edit\)](https://open.spotify.com/album/4spbKALzJWO1dHSz9k7P7P) | 4:03 | 2024-04-09 | 2026-02-27 |
 | [Mystic Blast](https://open.spotify.com/track/6X24jDDs8Hx1PuuGounCth) | [Køzløv](https://open.spotify.com/artist/6lmg9kOOeuhhgThuBOE4bX), [CARV](https://open.spotify.com/artist/6xenmpQHeDugzwDn9H2pSI) | [TM002](https://open.spotify.com/album/27d7ZMLhcyuaALVrjYK6rF) | 5:34 | 2024-06-14 | 2024-08-09 |
-| [Mystical Energy](https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Mystical Energy EP](https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi) | 5:20 | 2025-04-25 |  |
+| [Mystical Energy](https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Mystical Energy EP](https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi) | 5:20 | 2025-04-25 | 2026-07-12 |
 | [Naked Light \- Sara Landry Remix](https://open.spotify.com/track/0nVoVGIJd5EXGxy45MymFS) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU), [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Naked Light RMX](https://open.spotify.com/album/3ioBPxlY7vGOzgIOA3yjPu) | 5:18 | 2024-12-13 | 2025-02-10 |
 | [Never Enough](https://open.spotify.com/track/0g1UEsa2bqif2D0hlmxUfI) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR) | [Never Enough](https://open.spotify.com/album/301BTyjA0xlkTu8gDm3ToF) | 5:27 | 2024-04-09 | 2025-04-22 |
 | [Never Let Me Down](https://open.spotify.com/track/38MD66rssmeYXu3xwB36k5) | [Vlinder Vos](https://open.spotify.com/artist/0dTdgnb11wkxjzXv9JdXdi), [∏EVER](https://open.spotify.com/artist/7hxEgJocKQ6HDMlpDYXPYf) | [Never Let Me Down](https://open.spotify.com/album/4OE2XbdrJb9q9cUflbOSv2) | 3:01 | 2024-05-03 | 2024-06-22 |

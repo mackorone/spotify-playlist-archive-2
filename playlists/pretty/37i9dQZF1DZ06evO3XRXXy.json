@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 153401,
+  "num_followers": 153409,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAACtpM7EkGclJ0fu2jXQKdtU",
+  "snapshot_id": "alA2AAAAAAA/QbP4dLhjwMPsY3bu/WBx",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 242266,
-      "name": "Theme from \"Dying Young\"",
-      "url": "https://open.spotify.com/track/6RLqhvZlpOxGHsf7EKoa25"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rhythm & Romance",
         "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 262533,
       "name": "Sabor A Mi",
       "url": "https://open.spotify.com/track/4Pu9FoZv0FPYD1aDE1lmJ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "Theme from \"Dying Young\"",
+      "url": "https://open.spotify.com/track/6RLqhvZlpOxGHsf7EKoa25"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rhythm & Romance",
+        "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 431893,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/7DnNhtCHZlhbXaLSebOFso"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Moment",
         "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 298066,
       "name": "Everytime I Close My Eyes (with Babyface)",
       "url": "https://open.spotify.com/track/3QAWgoXqVTJ77tmy4ctoyB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rhythm & Romance",
-        "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 431893,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/7DnNhtCHZlhbXaLSebOFso"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Classics In The Key Of G",
+        "url": "https://open.spotify.com/album/6z3utjo3iGofLUnxWL9zXh"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "Stranger On The Shore",
+      "url": "https://open.spotify.com/track/56YAQYJltZevVwJUNAlLxw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JESUS IS KING",
         "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 213877,
       "name": "Use This Gospel",
       "url": "https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Classics In The Key Of G",
-        "url": "https://open.spotify.com/album/6z3utjo3iGofLUnxWL9zXh"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Stranger On The Shore",
-      "url": "https://open.spotify.com/track/56YAQYJltZevVwJUNAlLxw"
     },
     {
       "added_at": null,

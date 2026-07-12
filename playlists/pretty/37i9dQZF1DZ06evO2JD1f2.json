@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 13591,
+  "num_followers": 13590,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAAADSbmCncK1xrY6kSYWy1KJ",
+  "snapshot_id": "alA2AAAAAAAatXDpRd4K+TvhLSRKq1Nn",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
       "duration_ms": 226362,
       "name": "Thump Shit",
       "url": "https://open.spotify.com/track/4XAQVDjEXZriZR9pe2tdQQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CALL SPITTA",
+        "url": "https://open.spotify.com/album/2OyxR9rPNGIXMHhq0L0i3a"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 145116,
+      "name": "CALL SPITTA",
+      "url": "https://open.spotify.com/track/0PpZgdIh1NFUkxHBROLS5n"
     },
     {
       "added_at": null,
@@ -587,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 128826,
+      "name": "Sky Dweller",
+      "url": "https://open.spotify.com/track/4nBsccyzGPbIIXmHNCN4ij"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -603,22 +635,6 @@
       "duration_ms": 195266,
       "name": "CHICKENS (feat. EST Gee)",
       "url": "https://open.spotify.com/track/53wBhj706wDMNuBj4FJ0RI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 128826,
-      "name": "Sky Dweller",
-      "url": "https://open.spotify.com/track/4nBsccyzGPbIIXmHNCN4ij"
     },
     {
       "added_at": null,
@@ -659,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ion Feel Nun",
+        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 106904,
+      "name": "Morals",
+      "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOT A CHANCE IN HELL",
         "url": "https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS"
       },
@@ -675,22 +707,6 @@
       "duration_ms": 179887,
       "name": "TURNT",
       "url": "https://open.spotify.com/track/0uBT90enmD0wDGH7bZWKoK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ion Feel Nun",
-        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 106904,
-      "name": "Morals",
-      "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
     },
     {
       "added_at": null,
@@ -780,9 +796,9 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 168000,
-      "name": "ROUNDS",
-      "url": "https://open.spotify.com/track/3QmJTLrr5VC2HWIPNckGX8"
+      "duration_ms": 176842,
+      "name": "NUN LIKE MINE",
+      "url": "https://open.spotify.com/track/3tGXypM4uCqwXpgBjSy4hp"
     },
     {
       "added_at": null,
@@ -860,9 +876,9 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 176842,
-      "name": "NUN LIKE MINE",
-      "url": "https://open.spotify.com/track/3tGXypM4uCqwXpgBjSy4hp"
+      "duration_ms": 168000,
+      "name": "ROUNDS",
+      "url": "https://open.spotify.com/track/3QmJTLrr5VC2HWIPNckGX8"
     },
     {
       "added_at": null,
@@ -979,22 +995,6 @@
       "duration_ms": 116363,
       "name": "STILL AIN'T PUT MY PISTOL DOWN",
       "url": "https://open.spotify.com/track/09KefauMAYSo6uwJq4ezTx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ion Feel Nun",
-        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 165878,
-      "name": "Break Check",
-      "url": "https://open.spotify.com/track/0QCiSgw7uR6D9Xq0N2pIMb"
     }
   ],
   "unique_name": "This Is EST Gee",

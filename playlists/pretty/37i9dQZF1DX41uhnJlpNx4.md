@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41uhnJlpNx4.md) - [plain]
 
 > rumba, calor y trago con Gente de Zona 🌴🍹🍾💃🏽🕺🏽
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,620 likes - 62 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,641 likes - 62 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

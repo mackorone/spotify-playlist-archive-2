@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Druhh  e Drehh
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,902 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,895 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [BBS](https://open.spotify.com/track/0c0TzxScH4B2vxO6LqCNGC) | [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [Yrpedro](https://open.spotify.com/artist/339yVlPjJYiFe211UDs01q), [vvallace](https://open.spotify.com/artist/6rxl5k2VobxbepP3fNRVuO), [TR3VAS](https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO), [JOTA](https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk) | [BBS](https://open.spotify.com/album/1n7cu43pOVA1AS6yVvv3eI) | 4:01 |
 | 75 | [SABOR TRAP](https://open.spotify.com/track/37p3zjEaoKlmoMPHdIwPYP) | [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [DESSIIIK](https://open.spotify.com/artist/3ZLfLpRggl7ncrWSQy9WTV) | [SABOR TRAP](https://open.spotify.com/album/7HymlkDKnqKG3acOpY9zz4) | 2:49 |
 
-Snapshot ID: `AAAAAGVp1GgeYoLWBTf/8iu6M6/OpQXw`
+Snapshot ID: `AAAAAOXDK0GyfnqL+E0WaIdV+7jSPuay`

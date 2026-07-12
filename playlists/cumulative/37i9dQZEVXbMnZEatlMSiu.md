@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-1,699 songs - 4 day 2 hr 49 min
+1,701 songs - 4 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,6 +503,7 @@
 | [I'll Be There](https://open.spotify.com/track/2Qcbspnftnon37jibwyvMU) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [I'll Be There](https://open.spotify.com/album/6OdmwetSmFXZhBrNJFKvay) | 3:01 | 2024-10-26 | 2024-11-21 |
 | [I'm Alive](https://open.spotify.com/track/0FfNFvy5KRRyB2snvK39zL) | [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [I'm Alive](https://open.spotify.com/album/494KRb9whsEPJ0IjKS4Dji) | 2:52 | 2022-02-16 | 2023-05-14 |
 | [IBELONGIIU](https://open.spotify.com/track/4C2KCXzqC0kwNyTilyRLUx) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 3:13 | 2025-02-26 | 2025-03-08 |
+| [Ice Cream](https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [NO LABELS: PART 02](https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg) | 2:04 | 2026-07-11 |  |
 | [ICONIC BY MISTAKE](https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam) | 2:57 | 2026-06-13 |  |
 | [IDESERVEIT](https://open.spotify.com/track/2OjpCNosImtUYL3MysvPyN) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Heavy Serenade](https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg) | 2:44 | 2026-05-12 | 2026-05-16 |
 | [IF I SAY, I LOVE YOU](https://open.spotify.com/track/2NtidJuimmXzUsExfMYcvk) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [No Genre](https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL) | 2:41 | 2025-05-15 | 2025-05-17 |
@@ -1122,7 +1123,7 @@
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-04-13 | 2023-10-06 |
 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 | 2024-04-13 | 2024-05-19 |
 | [一二三](https://open.spotify.com/track/7oYw4SLP6EFU05zPRRlzFa) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [一二三](https://open.spotify.com/album/2mbgcQG0D14An1Ibu5ykgO) | 3:55 | 2025-04-19 | 2025-04-27 |
-| [一個人](https://open.spotify.com/track/5Vxi8yyujUP3tw8hfR6abp) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [一個人](https://open.spotify.com/album/3GuEwEqnG9TilL1MDYmxlb) | 4:58 | 2026-06-13 |  |
+| [一個人](https://open.spotify.com/track/5Vxi8yyujUP3tw8hfR6abp) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [一個人](https://open.spotify.com/album/3GuEwEqnG9TilL1MDYmxlb) | 4:58 | 2026-06-13 | 2026-07-12 |
 | [一個人想著一個人](https://open.spotify.com/track/3n3zzFH7zzO0gJNaw4RKSm) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [終極一班2 \(電視原聲帶\)](https://open.spotify.com/album/0TB9rXuSN99QhTnI5lYwvM) | 4:03 | 2025-09-01 |  |
 | [一千萬次的淚水](https://open.spotify.com/track/4gQLLI4oii6Dt4IpBwIxn6) | [Miu Chu](https://open.spotify.com/artist/06KOetaeFEz0gabCnqvCxz) | [女神Miu朱俐靜 存在的力量](https://open.spotify.com/album/2JhPdMVOASpHZ6ODdszwZy) | 4:08 | 2022-07-05 | 2022-07-09 |
 | [一半一半](https://open.spotify.com/track/21x0N6lu6D9kO8rVtTU3mH) | [Top Barry](https://open.spotify.com/artist/3CSQfCUHVB3sZBfUfdWuph), [INDEcompany](https://open.spotify.com/artist/3bFdBTYErmHlLmdRZZxffh) | [一半一半](https://open.spotify.com/album/1Cr1Wuyr8H1Kh3vx4w9y8x) | 3:55 | 2026-02-05 |  |
@@ -1253,7 +1254,7 @@
 | [單程票](https://open.spotify.com/track/1Y75eWEIVy1Efa1p1fySRC) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [單程票](https://open.spotify.com/album/2TIY4oIgIOHWPSgFGvP95v) | 3:41 | 2026-02-13 | 2026-03-17 |
 | [單程票](https://open.spotify.com/track/3woBOD3Ldh81fAwpsnD8yC) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [單程票](https://open.spotify.com/album/2SotDVVlfqOy4gdA0F7wSj) | 3:41 | 2026-02-14 | 2026-04-15 |
 | [嘉宾](https://open.spotify.com/track/1IVj6CsBbTgOEpo0W6hgwN) | [张远](https://open.spotify.com/artist/3PutidTQajzWO1gTetJReW) | [嘉宾](https://open.spotify.com/album/1orkuJNHCx51s1B0lWh3Ta) | 5:33 | 2021-10-02 | 2023-08-28 |
-| [嘉賓](https://open.spotify.com/track/5jAmIkIpskwu2hRz2YaEHi) | [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [嘉賓](https://open.spotify.com/album/0HaCElSmKQ9J4Ty06CYwvC) | 5:33 | 2025-12-28 |  |
+| [嘉賓](https://open.spotify.com/track/5jAmIkIpskwu2hRz2YaEHi) | [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [嘉賓](https://open.spotify.com/album/0HaCElSmKQ9J4Ty06CYwvC) | 5:33 | 2025-12-28 | 2026-07-12 |
 | [嚣张](https://open.spotify.com/track/1vfUASvUGt3gxQ1x3T3u1C) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [嚣张](https://open.spotify.com/album/09KIrKBU3kamLtHV5IkHSp) | 4:13 | 2024-01-20 | 2025-11-23 |
 | [嚣张](https://open.spotify.com/track/3t8M86tiO0aKMMTXzRrFn8) | [En](https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET) | [嚣张](https://open.spotify.com/album/7HBIfL5J50gkUIjSWMRWqw) | 4:13 | 2021-03-27\* | 2021-08-24 |
 | [四季予你](https://open.spotify.com/track/0upiMcFbQHH51etgz4xK0l) | [程響](https://open.spotify.com/artist/7nKA1c1Qn6nI0XA8yburf3) | [四季予你](https://open.spotify.com/album/4csJfkLKIaltiP8ALv7H0S) | 4:08 | 2021-03-27\* | 2021-12-24 |
@@ -1595,7 +1596,8 @@
 | [脫胎換骨](https://open.spotify.com/track/3KMozKCYJDSNJ53paNEIXk) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [脫胎換骨](https://open.spotify.com/album/0nkgECpB80bkATzGsvvFI7) | 4:30 | 2022-03-18 | 2022-04-06 |
 | [與我無關](https://open.spotify.com/track/2qlUhwv6Hqx5ZZHCucRlGF) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [與我無關](https://open.spotify.com/album/2nVfpyVu94tgwFT9XX7ufJ) | 4:00 | 2021-07-22 | 2022-07-02 |
 | [若月亮没来（若是月亮还没来）](https://open.spotify.com/track/414Mr8wR2m7fs2K0n8Bx3I) | [王宇宙Leto](https://open.spotify.com/artist/1llNL6f36GgpMrKnRCx0uK), [乔浚丞](https://open.spotify.com/artist/3JhHdQILs3D6Te4gSdyaA3) | [若月亮没来（若是月亮还没来）](https://open.spotify.com/album/2ouP14yNLuS1WWTVeQ1muW) | 2:53 | 2024-07-04 | 2024-07-27 |
-| [若無你我欲去佗位](https://open.spotify.com/track/76EfpqmO6JUL2TTR1SIGwz) | [黃奇斌](https://open.spotify.com/artist/7td0pZH6CpEX2f36bU1H2D) | [若無你我欲去佗位](https://open.spotify.com/album/62aFcrZppdH6tQqYX5ncIQ) | 3:39 | 2025-07-14 |  |
+| [若無你我欲去佗位](https://open.spotify.com/track/63uBr7KrsE4dUHCjFTzn3W) | [黃奇斌](https://open.spotify.com/artist/7td0pZH6CpEX2f36bU1H2D) | [虛華的夢想是一支刀](https://open.spotify.com/album/7MHsN476ET6hCo5gtdrZcT) | 3:39 | 2026-07-11 |  |
+| [若無你我欲去佗位](https://open.spotify.com/track/76EfpqmO6JUL2TTR1SIGwz) | [黃奇斌](https://open.spotify.com/artist/7td0pZH6CpEX2f36bU1H2D) | [若無你我欲去佗位](https://open.spotify.com/album/62aFcrZppdH6tQqYX5ncIQ) | 3:39 | 2025-07-14 | 2026-07-12 |
 | [苦難精算師](https://open.spotify.com/track/6eGUJXdHOrlprCeqohtlW3) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 4:05 | 2023-05-22 | 2023-05-30 |
 | [英雄 \(Heroes\) \- 動畫電影《諸葛四郎\-英雄的英雄》主題曲 Acoustic Ver.](https://open.spotify.com/track/6k9i8zbLhbGRmlK5hqfkjy) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [英雄 \(Heroes\)](https://open.spotify.com/album/6Qd5JEwZU3m5STH0ovsLiz) | 3:16 | 2021-07-01 | 2021-07-14 |
 | [萬千花蕊慈母悲哀](https://open.spotify.com/track/5Wyq70ysHQp0jaMhPKrza4) | [珂拉琪](https://open.spotify.com/artist/1YtYHaWLV0IU7SwhvG6Luk) | [MEmento·MORI](https://open.spotify.com/album/4RVhGD6w71DjGdXJDifFGn) | 3:56 | 2021-12-24 | 2022-08-11 |
@@ -1645,7 +1647,7 @@
 | [這世界那麼多人 \- 電影《我要我們在一起》主題曲](https://open.spotify.com/track/7uupMVckq9ta7ei9ghX8q0) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [這世界那麼多人 \(電影《我要我們在一起》主題曲\)](https://open.spotify.com/album/5FnNKdAIdmlLIabRoAuL90) | 4:45 | 2021-05-14 | 2021-05-21 |
 | [這麼多年](https://open.spotify.com/track/4kmr3vOJq52QS7WUh3aRyc) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [在極度愛你的日子裡](https://open.spotify.com/album/1O4zPDiUzt2SkDCWueiiBt) | 4:12 | 2024-11-09 | 2025-02-15 |
 | [這麼多年 \- 電影《我想和你在一起》插曲](https://open.spotify.com/track/5NykvdFrH8mejmohWZvIWo) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [這麼多年 \- 電影《我想和你在一起》插曲](https://open.spotify.com/album/2FNcaYMCTEtkEOugvt8PtG) | 4:12 | 2024-06-13 | 2024-11-10 |
-| [連名帶姓](https://open.spotify.com/track/3LlQoKvVnkVvq3KC8anUn8) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [偷故事的人](https://open.spotify.com/album/2e9kAjiQbDokDSgPMJW2j8) | 5:33 | 2025-11-14 | 2026-07-09 |
+| [連名帶姓](https://open.spotify.com/track/3LlQoKvVnkVvq3KC8anUn8) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [偷故事的人](https://open.spotify.com/album/2e9kAjiQbDokDSgPMJW2j8) | 5:33 | 2025-11-14 |  |
 | [連名帶姓](https://open.spotify.com/track/4a5FvWpFaCs3YOzEnnpgR0) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [偷故事的人](https://open.spotify.com/album/181c4IPOvcJphA0ZKAZIeW) | 5:33 | 2024-12-30 | 2025-01-04 |
 | [遇見](https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [The Moment](https://open.spotify.com/album/6CGJuQoWMkq1rmStrYbRzr) | 3:29 | 2023-01-17 |  |
 | [運轉人生 \- 影集《華麗計程車行》插曲](https://open.spotify.com/track/30slz6D2PtbwDimGJaEVsH) | [邱軍](https://open.spotify.com/artist/5LKh6CH11tVjyXpxz2NjFW) | [情歌手](https://open.spotify.com/album/2Oqw9GtKcsHbjbL7OXNpO5) | 3:28 | 2024-05-22 | 2025-02-26 |

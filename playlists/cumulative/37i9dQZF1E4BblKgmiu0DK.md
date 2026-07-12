@@ -2,7 +2,7 @@
 
 ### [Renee Cassar Radio](https://open.spotify.com/playlist/37i9dQZF1E4BblKgmiu0DK)
 
-> With Tssara, Die Mannequin, The Donnas and more
+> With Tssara, Die Mannequin, The Soap Girls and more
 
 580 songs - 1 day 7 hr 2 min
 

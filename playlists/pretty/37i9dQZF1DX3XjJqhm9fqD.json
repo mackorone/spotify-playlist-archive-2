@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 102176,
+  "num_followers": 102205,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "K\u00e8 m Nan Men w",
+        "url": "https://open.spotify.com/album/0MZfhWvePxkfAXl1JmlC76"
+      },
+      "artists": [
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        }
+      ],
+      "duration_ms": 275797,
+      "name": "K\u00e8 m Nan Men w",
+      "url": "https://open.spotify.com/track/1tPhjL2a68EuAchJiG7zwJ"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Bwa Kale",
         "url": "https://open.spotify.com/album/6b19TYPqXNs3f4tKCSs6iU"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 185965,
       "name": "Bwa Kale",
       "url": "https://open.spotify.com/track/6ITGK0FRfpKpjn3XjdUUs1"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "K\u00e8 m Nan Men w",
-        "url": "https://open.spotify.com/album/0MZfhWvePxkfAXl1JmlC76"
-      },
-      "artists": [
-        {
-          "name": "Rutshelle Guillaume",
-          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
-        }
-      ],
-      "duration_ms": 275797,
-      "name": "K\u00e8 m Nan Men w",
-      "url": "https://open.spotify.com/track/1tPhjL2a68EuAchJiG7zwJ"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -831,38 +831,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "2 Gouden",
-        "url": "https://open.spotify.com/album/2tpKEaCwrm618xsJngj0Og"
-      },
-      "artists": [
-        {
-          "name": "T-ANSYTO",
-          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
-        }
-      ],
-      "duration_ms": 229489,
-      "name": "2 Gouden",
-      "url": "https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "PWOTEJE M",
-        "url": "https://open.spotify.com/album/39aT6K4C2FjfDOOAHj6UMa"
-      },
-      "artists": [
-        {
-          "name": "Fatima Altieri",
-          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
-        }
-      ],
-      "duration_ms": 174216,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3fjdmSy0BjSLRsg0j5BM8Z"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "HoneyComb",
         "url": "https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM"
       },
@@ -883,6 +851,38 @@
       "duration_ms": 139752,
       "name": "HoneyComb",
       "url": "https://open.spotify.com/track/79cOrbvS7AQTKda6v0MZFP"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "PWOTEJE M",
+        "url": "https://open.spotify.com/album/39aT6K4C2FjfDOOAHj6UMa"
+      },
+      "artists": [
+        {
+          "name": "Fatima Altieri",
+          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
+        }
+      ],
+      "duration_ms": 174216,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3fjdmSy0BjSLRsg0j5BM8Z"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "2 Gouden",
+        "url": "https://open.spotify.com/album/2tpKEaCwrm618xsJngj0Og"
+      },
+      "artists": [
+        {
+          "name": "T-ANSYTO",
+          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
+        }
+      ],
+      "duration_ms": 229489,
+      "name": "2 Gouden",
+      "url": "https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1123,22 +1123,30 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Ogou (Pran Ka Mwen)",
-        "url": "https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y"
+        "name": "Manyen'l",
+        "url": "https://open.spotify.com/album/43hG4RyRcCWC9JTY0teMzu"
       },
       "artists": [
         {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+          "name": "HERO G",
+          "url": "https://open.spotify.com/artist/4i23JCNNX6DisR9iSzElt4"
         },
         {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+          "name": "PIMAN",
+          "url": "https://open.spotify.com/artist/231EJOfkBTV3ysoaryuiaX"
+        },
+        {
+          "name": "TOUPIKE",
+          "url": "https://open.spotify.com/artist/4yiTJT9ThymYFkZPPXuGCB"
+        },
+        {
+          "name": "T-ANSYTO",
+          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
         }
       ],
-      "duration_ms": 296666,
-      "name": "Ogou (Pran Ka Mwen)",
-      "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
+      "duration_ms": 209777,
+      "name": "Manyen'l",
+      "url": "https://open.spotify.com/track/2avp7IL8rkllPcyRcnCJPY"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1175,30 +1183,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Manyen'l",
-        "url": "https://open.spotify.com/album/43hG4RyRcCWC9JTY0teMzu"
+        "name": "Ogou (Pran Ka Mwen)",
+        "url": "https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y"
       },
       "artists": [
         {
-          "name": "HERO G",
-          "url": "https://open.spotify.com/artist/4i23JCNNX6DisR9iSzElt4"
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
         },
         {
-          "name": "PIMAN",
-          "url": "https://open.spotify.com/artist/231EJOfkBTV3ysoaryuiaX"
-        },
-        {
-          "name": "TOUPIKE",
-          "url": "https://open.spotify.com/artist/4yiTJT9ThymYFkZPPXuGCB"
-        },
-        {
-          "name": "T-ANSYTO",
-          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
         }
       ],
-      "duration_ms": 209777,
-      "name": "Manyen'l",
-      "url": "https://open.spotify.com/track/2avp7IL8rkllPcyRcnCJPY"
+      "duration_ms": 296666,
+      "name": "Ogou (Pran Ka Mwen)",
+      "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Fete Nap Fete Ti Babas (Live)",
+        "url": "https://open.spotify.com/album/4NxnJQPNAXRHl72HFIyNml"
+      },
+      "artists": [
+        {
+          "name": "Haitian sky",
+          "url": "https://open.spotify.com/artist/6GWK0aG3Hq8YSopy1milwv"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "Fete Nap Fete Ti Babas - Live",
+      "url": "https://open.spotify.com/track/3uz0KBWrclYlVgSgfC2tue"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Flavors",
         "url": "https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 166008,
       "name": "Wine Pon Me - Remix",
       "url": "https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Fete Nap Fete Ti Babas (Live)",
-        "url": "https://open.spotify.com/album/4NxnJQPNAXRHl72HFIyNml"
-      },
-      "artists": [
-        {
-          "name": "Haitian sky",
-          "url": "https://open.spotify.com/artist/6GWK0aG3Hq8YSopy1milwv"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "Fete Nap Fete Ti Babas - Live",
-      "url": "https://open.spotify.com/track/3uz0KBWrclYlVgSgfC2tue"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Stupid Love",
-        "url": "https://open.spotify.com/album/2aoXCzIhcDxTqIOLMsAry0"
-      },
-      "artists": [
-        {
-          "name": "J. Sevad",
-          "url": "https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3"
-        },
-        {
-          "name": "BlecksFlex",
-          "url": "https://open.spotify.com/artist/1SNw0zDkQlw3cqLdRJIzal"
-        }
-      ],
-      "duration_ms": 164607,
-      "name": "Stupid Love",
-      "url": "https://open.spotify.com/track/117rvx2RMaHQLolRRI5gex"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/7CJwyU2x5ZD5EvAkDPe8K7"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 197999,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2W4Nb6RIJrpE8PEpX9POZD"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Stupid Love",
+        "url": "https://open.spotify.com/album/2aoXCzIhcDxTqIOLMsAry0"
+      },
+      "artists": [
+        {
+          "name": "J. Sevad",
+          "url": "https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3"
+        },
+        {
+          "name": "BlecksFlex",
+          "url": "https://open.spotify.com/artist/1SNw0zDkQlw3cqLdRJIzal"
+        }
+      ],
+      "duration_ms": 164607,
+      "name": "Stupid Love",
+      "url": "https://open.spotify.com/track/117rvx2RMaHQLolRRI5gex"
     }
   ],
   "unique_name": "Haitian Heat",

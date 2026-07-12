@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 
 > Grab a drink and let us help you see off the evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,373 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,378 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,19 +89,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 79 | [Perfect](https://open.spotify.com/track/6tjTExTprXoPTYH6I0pziB) | [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [Perfect](https://open.spotify.com/album/5CS5G0nDen8GZ2u2AFQRzN) | 3:04 |
 | 80 | [Statue](https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f) | [Tilly Valentine](https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP) | [Statue](https://open.spotify.com/album/4wFr0pQoS4kiBXugi8eaTF) | 3:24 |
 | 81 | [meanie](https://open.spotify.com/track/48Feq4hOZdIMhVkIGkzNQI) | [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH) | [Just a Girl \(stripped\)](https://open.spotify.com/album/2tjb8brG7VnVrR3kW1QxYl) | 4:08 |
-| 82 | [Alice From Dallas](https://open.spotify.com/track/1gZxZLQsyn8GIMBVB3AgNR) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [To Memphis](https://open.spotify.com/album/5DtQQgT9d9Ut0I5SoZYfPJ) | 3:57 |
-| 83 | [Secrets](https://open.spotify.com/track/5LOeNu6xrB63aba54GSTmc) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Secrets](https://open.spotify.com/album/0hUK9ar148INK0u4OdIJxp) | 4:23 |
+| 82 | [Secrets](https://open.spotify.com/track/5LOeNu6xrB63aba54GSTmc) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Secrets](https://open.spotify.com/album/0hUK9ar148INK0u4OdIJxp) | 4:23 |
+| 83 | [Alice From Dallas](https://open.spotify.com/track/1gZxZLQsyn8GIMBVB3AgNR) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [To Memphis](https://open.spotify.com/album/5DtQQgT9d9Ut0I5SoZYfPJ) | 3:57 |
 | 84 | [faded nights](https://open.spotify.com/track/4EQBtJKfrG2HQq0wmtUp7f) | [elmss](https://open.spotify.com/artist/61uT1cKcVF6GSdsbU99LBY) | [Faded Nights](https://open.spotify.com/album/5EDNcIcS5DW3AwlITTrqQ3) | 2:32 |
 | 85 | [Blume](https://open.spotify.com/track/3y1cSOZebGaS2IbEYLOiZ4) | [Nérija](https://open.spotify.com/artist/3alosBIW8nGb6TXqfM8wbI) | [Blume](https://open.spotify.com/album/7JmSCHwa1C3EpuODQlVl8Z) | 2:46 |
 | 86 | [Found You](https://open.spotify.com/track/7ym383h5MQfBNVLG92d5fh) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa) | [Found You](https://open.spotify.com/album/6GCdFbDYs475UfiHP4rnKX) | 3:20 |
 | 87 | [Pigeon Park](https://open.spotify.com/track/0knziThQwlD4Q4qL4zmZTx) | [parthenope](https://open.spotify.com/artist/6GjXQmzl9dSNUpYpyFJKY0) | [Go Somewhere Alone](https://open.spotify.com/album/4yZseWXhqhU4n2G9kgnnwQ) | 2:40 |
 | 88 | [Sud Pour Toi](https://open.spotify.com/track/6qw2IQMLKCUEahcYwNo0rR) | [Thin Blue Collective](https://open.spotify.com/artist/1fTkQhPBZEiSI2sli8T8hG) | [Room Thirteen](https://open.spotify.com/album/5s07NUjDpbDpl2BdupEfAC) | 4:46 |
-| 89 | [Lost](https://open.spotify.com/track/3tklDxHjsNDIMlPjHbUQ4R) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF) | [Lost](https://open.spotify.com/album/7BmwUvHlY5PhqSJaV3kwLg) | 3:12 |
-| 90 | [Inward](https://open.spotify.com/track/6Xt50HBqLpImH1NkwlxsHr) | [Russell Stewart](https://open.spotify.com/artist/6lOIi6aXlHGa49oROgxVY1) | [Inward](https://open.spotify.com/album/7KImaY2ikHc9JvhvBrO1Yx) | 3:02 |
+| 89 | [Inward](https://open.spotify.com/track/6Xt50HBqLpImH1NkwlxsHr) | [Russell Stewart](https://open.spotify.com/artist/6lOIi6aXlHGa49oROgxVY1) | [Inward](https://open.spotify.com/album/7KImaY2ikHc9JvhvBrO1Yx) | 3:02 |
+| 90 | [Lost](https://open.spotify.com/track/3tklDxHjsNDIMlPjHbUQ4R) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF) | [Lost](https://open.spotify.com/album/7BmwUvHlY5PhqSJaV3kwLg) | 3:12 |
 | 91 | [Deception](https://open.spotify.com/track/5sw2ThXRRmV7GzP2Lq87Ho) | [NADIAH](https://open.spotify.com/artist/1xMTtv502Ls5oN1xMEJele) | [Deception](https://open.spotify.com/album/58LxxzRjLOZ86pSFZw2tz0) | 3:17 |
 | 92 | [December](https://open.spotify.com/track/7b6myg3Pc5DGgEXxXCyl3w) | [RUVIMBO](https://open.spotify.com/artist/28SGmh3qpGyRak7x8WhDG2), [TINYMAN](https://open.spotify.com/artist/7HK3S4sk4NgXTFqvmbHlM9) | [Ivy's Kid](https://open.spotify.com/album/6q4o0YQHMCXQj6gQ0YZOd4) | 3:14 |
-| 93 | [YOUR TIME](https://open.spotify.com/track/5CL1TTzZgQOmoQYsqATA69) | [Willow Newman](https://open.spotify.com/artist/4fehG12QmJ1wBVh9fW9Y3O), [Hana](https://open.spotify.com/artist/4xSqqiE4WmenAA3PHgfdlS) | [YOUR TIME](https://open.spotify.com/album/7IjOcqKt8gwd8A2QzJIgIB) | 2:54 |
-| 94 | [Honey Love](https://open.spotify.com/track/2wWXZGkYZwjzW84fstJdyC) | [Producerboibrad.](https://open.spotify.com/artist/7vicJmnVJ4aW8yKB4AEEAB), [Amalie Bryde](https://open.spotify.com/artist/6ZRXf3EvRlQul3Uq06WnYN) | [Honey Love](https://open.spotify.com/album/0YiDuhb3BweEUXzrDORQfp) | 3:02 |
+| 93 | [Honey Love](https://open.spotify.com/track/2wWXZGkYZwjzW84fstJdyC) | [Producerboibrad.](https://open.spotify.com/artist/7vicJmnVJ4aW8yKB4AEEAB), [Amalie Bryde](https://open.spotify.com/artist/6ZRXf3EvRlQul3Uq06WnYN) | [Honey Love](https://open.spotify.com/album/0YiDuhb3BweEUXzrDORQfp) | 3:02 |
+| 94 | [YOUR TIME](https://open.spotify.com/track/5CL1TTzZgQOmoQYsqATA69) | [Willow Newman](https://open.spotify.com/artist/4fehG12QmJ1wBVh9fW9Y3O), [Hana](https://open.spotify.com/artist/4xSqqiE4WmenAA3PHgfdlS) | [YOUR TIME](https://open.spotify.com/album/7IjOcqKt8gwd8A2QzJIgIB) | 2:54 |
 | 95 | [No One's Watching Me \- feat\. Olivia Dean](https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 4:22 |
 | 96 | [Midnight Mischief \- Tom Misch Remix](https://open.spotify.com/track/3O5JIwSON3KBaoyMUsjLjn) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Midnight Mischief \(Tom Misch Remix\)](https://open.spotify.com/album/3ssz8pi55szsiCBRpJr4xV) | 4:26 |
 | 97 | [Too Much to Ask](https://open.spotify.com/track/3HZdXuLPyLlSYLImD4z7V8) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Little Ghost](https://open.spotify.com/album/0qsZRpvWYP6fkuosOaGo0D) | 3:47 |

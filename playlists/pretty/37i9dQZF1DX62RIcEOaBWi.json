@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 572794,
+  "num_followers": 572756,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Escapology",
-        "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 263866,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "pa ti toa <3",
         "url": "https://open.spotify.com/album/2QVvlMjlbV445e9a5y2obD"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 213001,
       "name": "pa ti toa <3",
       "url": "https://open.spotify.com/track/54NQtnCL950bGIHlZUMMDH"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "Escapology",
+        "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
         "name": "Lady Soul (With Bonus Selections)",
         "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 254373,
       "name": "Soldadito marinero",
       "url": "https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
+        "name": "Lunas rotas",
+        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
+      },
+      "artists": [
+        {
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "A fuego lento",
+      "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
         "name": "\u00daltimo Baile",
         "url": "https://open.spotify.com/album/6EcmyTvFKn67LbVXq24ieq"
       },
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Lunas rotas",
-        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
-      },
-      "artists": [
-        {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "A fuego lento",
-      "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -1203,22 +1203,6 @@
       "duration_ms": 221749,
       "name": "Millones",
       "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 185486,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1239,22 +1223,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "The Very Best Of \"The Archies\"",
-        "url": "https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi"
-      },
-      "artists": [
-        {
-          "name": "The Archies",
-          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "Sugar, Sugar",
-      "url": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Tengo",
         "url": "https://open.spotify.com/album/36p7j71sxtF196iOkkAeM0"
       },
@@ -1267,6 +1235,38 @@
       "duration_ms": 166231,
       "name": "Tengo",
       "url": "https://open.spotify.com/track/71zDsjmPR5XyMcjsl9JpWV"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 185486,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "The Very Best Of \"The Archies\"",
+        "url": "https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi"
+      },
+      "artists": [
+        {
+          "name": "The Archies",
+          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "Sugar, Sugar",
+      "url": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 139733,
-      "name": "Think",
-      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Tattoo (Remix with Camilo)",
         "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 222680,
       "name": "Tattoo - Remix with Camilo",
       "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "Think",
+      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Bailar El Viento",
-        "url": "https://open.spotify.com/album/62lZaizcM3SNQqs6rZG8kS"
-      },
-      "artists": [
-        {
-          "name": "Manuel Carrasco",
-          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
-        }
-      ],
-      "duration_ms": 229720,
-      "name": "Uno X Uno",
-      "url": "https://open.spotify.com/track/75K7Mczlt0zxANo8MEOaAu"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Nochentera",
         "url": "https://open.spotify.com/album/4uCz8u5i2bIYVUOSRdtr6v"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 202184,
       "name": "Nochentera",
       "url": "https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "Bailar El Viento",
+        "url": "https://open.spotify.com/album/62lZaizcM3SNQqs6rZG8kS"
+      },
+      "artists": [
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "duration_ms": 229720,
+      "name": "Uno X Uno",
+      "url": "https://open.spotify.com/track/75K7Mczlt0zxANo8MEOaAu"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 202446,
-      "name": "Con La Miel En Los Labios",
-      "url": "https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "LAS 12",
         "url": "https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 165230,
       "name": "LAS 12",
       "url": "https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 202446,
+      "name": "Con La Miel En Los Labios",
+      "url": "https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Canciones para el tiempo y la distancia",
-        "url": "https://open.spotify.com/album/6684lqRy7QCfQCNVc4Ohxp"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ferreiro",
-          "url": "https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP"
-        }
-      ],
-      "duration_ms": 278333,
-      "name": "Turnedo",
-      "url": "https://open.spotify.com/track/541hgOF71B92Jpg4IU6kyx"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Ateo",
         "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 239925,
       "name": "Ateo",
       "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "Canciones para el tiempo y la distancia",
+        "url": "https://open.spotify.com/album/6684lqRy7QCfQCNVc4Ohxp"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ferreiro",
+          "url": "https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP"
+        }
+      ],
+      "duration_ms": 278333,
+      "name": "Turnedo",
+      "url": "https://open.spotify.com/track/541hgOF71B92Jpg4IU6kyx"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2339,30 +2339,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "La flor de la Vida",
-        "url": "https://open.spotify.com/album/5fbuCzhbAVE6xLxR5xagtQ"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        },
-        {
-          "name": "Salistre",
-          "url": "https://open.spotify.com/artist/7cwETpw63qjveV8UjEHds0"
-        },
-        {
-          "name": "Pikeras",
-          "url": "https://open.spotify.com/artist/3Rk6ZWHH97W7zdoehmzt5G"
-        }
-      ],
-      "duration_ms": 164444,
-      "name": "La flor de la Vida",
-      "url": "https://open.spotify.com/track/4266j8xOKPHvR6WzajBl6f"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Dharma",
         "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
@@ -2383,6 +2359,30 @@
       "duration_ms": 195760,
       "name": "Dharma",
       "url": "https://open.spotify.com/track/5tpAcJ47UgF4udM5YXcDd2"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "La flor de la Vida",
+        "url": "https://open.spotify.com/album/5fbuCzhbAVE6xLxR5xagtQ"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        },
+        {
+          "name": "Salistre",
+          "url": "https://open.spotify.com/artist/7cwETpw63qjveV8UjEHds0"
+        },
+        {
+          "name": "Pikeras",
+          "url": "https://open.spotify.com/artist/3Rk6ZWHH97W7zdoehmzt5G"
+        }
+      ],
+      "duration_ms": 164444,
+      "name": "La flor de la Vida",
+      "url": "https://open.spotify.com/track/4266j8xOKPHvR6WzajBl6f"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Energ\u00eda Bacana",
-        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 147720,
-      "name": "Energ\u00eda Bacana",
-      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Vestidos De Domingo",
         "url": "https://open.spotify.com/album/3ASW0wki9GC0PB5CTyOaLA"
       },
@@ -2523,6 +2507,22 @@
       "duration_ms": 221373,
       "name": "La lista de la compra (feat. Mar\u00eda Jim\u00e9nez)",
       "url": "https://open.spotify.com/track/6htAV9HKCmoDdyyvDNX9DQ"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "Energ\u00eda Bacana",
+        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 147720,
+      "name": "Energ\u00eda Bacana",
+      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2591,22 +2591,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Todos Estamos Bailando La Misma Canci\u00f3n",
-        "url": "https://open.spotify.com/album/6XpGSdXg89IDyFZS1pWsir"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 248127,
-      "name": "Todos Estamos Bailando La Misma Canci\u00f3n",
-      "url": "https://open.spotify.com/track/6j23hE057HmBxUErUjoEt9"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "El Bien",
         "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
       },
@@ -2635,6 +2619,22 @@
       "duration_ms": 202948,
       "name": "La mitad de la mitad",
       "url": "https://open.spotify.com/track/7LdAPBuFJlLRB79YuMWXjX"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "Todos Estamos Bailando La Misma Canci\u00f3n",
+        "url": "https://open.spotify.com/album/6XpGSdXg89IDyFZS1pWsir"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 248127,
+      "name": "Todos Estamos Bailando La Misma Canci\u00f3n",
+      "url": "https://open.spotify.com/track/6j23hE057HmBxUErUjoEt9"
     },
     {
       "added_at": "2026-06-29 14:06:42",

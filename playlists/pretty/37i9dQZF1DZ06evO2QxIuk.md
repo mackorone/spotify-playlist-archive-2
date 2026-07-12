@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 
 > This is Earth, Wind & Fire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,592 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,610 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 | 32 | [And Love Goes On](https://open.spotify.com/track/4fLyo0TfSm6eZuYpK33Wye) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Faces](https://open.spotify.com/album/6LapfqQYqVWO1kDb6GDXr6) | 4:05 |
 | 33 | [Fall in Love with Me](https://open.spotify.com/track/5qugKP8gPqN91O7KBMkW6P) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Powerlight](https://open.spotify.com/album/3hZjcwZDDQOYB9PiGzEKSa) | 5:52 |
 | 34 | [Jupiter](https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 3:11 |
-| 35 | [Saturday Nite](https://open.spotify.com/track/1XCt27nKEY66dBkvBWBmnV) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Spirit](https://open.spotify.com/album/4p7Fp1dbgVOT4WVxKPpKHM) | 4:02 |
-| 36 | [Would You Mind](https://open.spotify.com/track/5wnRvlX2POTq4K8p3ssP7Y) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Constellations: The Universe of Earth, Wind & Fire](https://open.spotify.com/album/3aw9cxZ6RY9OscIP7rXalf) | 2:21 |
+| 35 | [Would You Mind](https://open.spotify.com/track/5wnRvlX2POTq4K8p3ssP7Y) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Constellations: The Universe of Earth, Wind & Fire](https://open.spotify.com/album/3aw9cxZ6RY9OscIP7rXalf) | 2:21 |
+| 36 | [Saturday Nite](https://open.spotify.com/track/1XCt27nKEY66dBkvBWBmnV) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Spirit](https://open.spotify.com/album/4p7Fp1dbgVOT4WVxKPpKHM) | 4:02 |
 | 37 | [Mighty Mighty](https://open.spotify.com/track/3HFGDi2zGIgdXTocV5k2cs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Open Our Eyes](https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0) | 3:03 |
 | 38 | [I'll Write a Song for You](https://open.spotify.com/track/5RMTMx6CQ5g8ZoYTnh9dkB) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 5:24 |
 | 39 | [Sun Goddess \(feat\. Ramsey Lewis\)](https://open.spotify.com/track/6NzOdf2JKluJVXEKjGDAMA) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Ramsey Lewis](https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc) | [Sun Goddess](https://open.spotify.com/album/7F4lzjaoC7ghF162g0iGh5) | 8:29 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 | 45 | [Turn It into Something Good](https://open.spotify.com/track/1u5W2MmLUUZ4olQ9kVs9KI) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Faces](https://open.spotify.com/album/6LapfqQYqVWO1kDb6GDXr6) | 4:10 |
 | 46 | [I've Had Enough](https://open.spotify.com/track/157By8hFx0KvNuSKtjubDo) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 4:37 |
 | 47 | [Show Me the Way \(feat\. Raphael Saadiq\)](https://open.spotify.com/track/0wMW42Ho6PLXPNjRy9HMqg) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Illumination](https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY) | 7:47 |
-| 48 | [September/The Joker](https://open.spotify.com/track/1yW6zNGmBCP95LLy2w1p1O) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Babel \- Music From And Inspired By The Motion Picture](https://open.spotify.com/album/3oHysLqzr30LVkciv5idom) | 6:29 |
-| 49 | [All About Love \(First Impression\)](https://open.spotify.com/track/0G00ZDkQ8a80JOhQHtWPOs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [That's The Way Of The World](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) | 6:35 |
+| 48 | [All About Love \(First Impression\)](https://open.spotify.com/track/0G00ZDkQ8a80JOhQHtWPOs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [That's The Way Of The World](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) | 6:35 |
+| 49 | [September/The Joker](https://open.spotify.com/track/1yW6zNGmBCP95LLy2w1p1O) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Babel \- Music From And Inspired By The Motion Picture](https://open.spotify.com/album/3oHysLqzr30LVkciv5idom) | 6:29 |
 | 50 | [Hollywood \(feat\. Earth, Wind & Fire + Hazel Monét\)](https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Hazel Monét](https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:37 |
 
-Snapshot ID: `ak7kgAAAAAAeF6WxTHEJcVxxiZxvE+Ra`
+Snapshot ID: `alA2AAAAAAC0qEDe4GLeoy4Iz9t+kVUQ`

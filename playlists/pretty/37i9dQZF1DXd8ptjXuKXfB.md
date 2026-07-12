@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > A legmenőbb és legtrendibb dalok egy helyen 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,629 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,635 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 66 | [PLETYKA](https://open.spotify.com/track/3PFA6nDgFmw51XBaB3kGMR) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [PLETYKA](https://open.spotify.com/album/7rUD24pfDqIb2ovCzeFXkj) | 2:35 |
 | 67 | [STRESSZ](https://open.spotify.com/track/0HQbcGdDDXz6YN1rH7SAQe) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [STRESSZ](https://open.spotify.com/album/33kQNgChvr8USSJ5lER3hJ) | 2:48 |
 | 68 | [Nesztek!](https://open.spotify.com/track/1dAke6f5iFbycgLmX4Uv9o) | [Irie Maffia](https://open.spotify.com/artist/1Wd1nIQmdmG3BV27KjoMZ6), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [Nesztek!](https://open.spotify.com/album/0m26JdOSr7CXT37JQp3wkF) | 2:07 |
-| 69 | [TAKE YOUR TIME](https://open.spotify.com/track/1CcSopy8wvVOyKexbS0gyU) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [TAKE YOUR TIME](https://open.spotify.com/album/6o33CmUr6BfidP0VL59yot) | 2:21 |
+| 69 | [Estelente](https://open.spotify.com/track/3vATKG0ju6znf3IchoY3aQ) | [imago mundi](https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO) | [SZÉTHULLIKAVILÁG](https://open.spotify.com/album/61j7GEdlMGrqUluP2G6oi8) | 3:17 |
 | 70 | [Bad Boyz](https://open.spotify.com/track/1hu77lKSi2nViKzWsAJJzY) | [Burai](https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO), [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP), [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Goore](https://open.spotify.com/artist/2yQrzABV9ELMOmxTkOWKqp), [Kretz](https://open.spotify.com/artist/3ntgx2xQPmbD4cj0YFGTxd) | [Bad Boyz](https://open.spotify.com/album/2mmhWbYDMbtr24xzCO5Z0U) | 3:03 |
-| 71 | [Estelente](https://open.spotify.com/track/3vATKG0ju6znf3IchoY3aQ) | [imago mundi](https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO) | [SZÉTHULLIKAVILÁG](https://open.spotify.com/album/61j7GEdlMGrqUluP2G6oi8) | 3:17 |
+| 71 | [TAKE YOUR TIME](https://open.spotify.com/track/1CcSopy8wvVOyKexbS0gyU) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [TAKE YOUR TIME](https://open.spotify.com/album/6o33CmUr6BfidP0VL59yot) | 2:21 |
 | 72 | [BE VAGYOK ZÁRVA](https://open.spotify.com/track/7ovp4mzdzQJHTrRiTyaaAY) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [BE VAGYOK ZÁRVA](https://open.spotify.com/album/7EUW3MZBp2wgcUQYuPnHb5) | 2:11 |
 | 73 | [ICE SPICE](https://open.spotify.com/track/1TWN7SgqSXiaHuH8LoIXZN) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [ICE SPICE](https://open.spotify.com/album/36MUGLrW6MAdW31yiUqlEy) | 2:01 |
 | 74 | [Brazil Fánk](https://open.spotify.com/track/5rkw0Vg3RkYsAERJj1ivsr) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Felszálló Ág](https://open.spotify.com/album/6GxZdN8ocso7KmrDhVsD0c) | 2:43 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 76 | [BOTRÁNY](https://open.spotify.com/track/4sNX1xMPVtgYrrPWFKoOhF) | [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV) | [BOTRÁNY](https://open.spotify.com/album/68lXuKf6ADPkHX8nqAtUyU) | 2:26 |
 | 77 | [Passenger Princess](https://open.spotify.com/track/030Ndm2tv9gonGnjXz8CFl) | [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP) | [Playboy](https://open.spotify.com/album/0PZftC8lqjmTANjYRfGW9R) | 2:17 |
 | 78 | [hamupipőke](https://open.spotify.com/track/1T8FpKsW8aH6wiV8SjNXQx) | [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9), [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [gyógyító frekvenciák \(deluxe\)](https://open.spotify.com/album/2G71qimkwmmv7ZYQ1szWOQ) | 4:08 |
-| 79 | [xXx](https://open.spotify.com/track/2TakLZRzWUxCPWpoXlVvj5) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [xXx](https://open.spotify.com/album/7rV0GBVUtPdsLHSpcmnvuX) | 3:49 |
+| 79 | [Demo](https://open.spotify.com/track/3huWs5M8a0MXTgc477aORn) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Demo](https://open.spotify.com/album/4eddCF6C4oHNORXbMSKHvZ) | 2:51 |
 | 80 | [COLD](https://open.spotify.com/track/17AsJZ1jvgJtfYqVd7xPua) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [COLD](https://open.spotify.com/album/08o9icfk6CXtYrfJ39W2im) | 2:12 |
 
 Snapshot ID: `AAAAAAHplk78GnuzGs0/Q4UIhgtPLiN0`

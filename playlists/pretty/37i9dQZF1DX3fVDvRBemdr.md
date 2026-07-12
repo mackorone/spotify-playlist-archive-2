@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Monique Smit
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,336 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,342 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Niet Naar Huis](https://open.spotify.com/track/2VHZrsSSLNvnfqUO2qt6sC) | [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Niet Naar Huis](https://open.spotify.com/album/5dnGno5uQ18Y1StP7oCMWT) | 2:41 |
 | 2 | [Veel Te Lange Nacht](https://open.spotify.com/track/11l2BSBXsThmuEAKwt0dBu) | [Jeffrey Kuipers](https://open.spotify.com/artist/3VW8sZ0BxGjRtexeVDGQXH) | [Veel Te Lange Nacht](https://open.spotify.com/album/4qCHdpZC8hX3uMOxtT5wQ7) | 2:30 |
-| 3 | [Cheerio Summer Mix](https://open.spotify.com/track/1kpq0c9ErTJIaR3MPJz6sn) | [DJ LARITA](https://open.spotify.com/artist/73BcfubAabKdfcR0WpxbAg), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Cheerio Summer Mix](https://open.spotify.com/album/7mkZQYGBJa1LMWFjnRrZrl) | 2:01 |
+| 3 | [Cheerio Summer Mix](https://open.spotify.com/track/1kpq0c9ErTJIaR3MPJz6sn) | [DJ Larita](https://open.spotify.com/artist/73BcfubAabKdfcR0WpxbAg), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Cheerio Summer Mix](https://open.spotify.com/album/7mkZQYGBJa1LMWFjnRrZrl) | 2:01 |
 | 4 | [Jij Bent Alles](https://open.spotify.com/track/1zZjvCZIq6ed9BDyRcuIc6) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [Jij Bent Alles](https://open.spotify.com/album/2MxrSpr0y98d8Yo1W696SR) | 2:29 |
 | 5 | [Momento](https://open.spotify.com/track/792tpHgVii7ghdL2WkaccO) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx) | [Momento](https://open.spotify.com/album/4zoULj0Q4u4FIAzUuvSpHs) | 2:47 |
 | 6 | [Tinto de Verano](https://open.spotify.com/track/6jG5fEJ1UEznTOpbV2y6ZP) | [Joey Nicolay](https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG) | [Tinto de Verano](https://open.spotify.com/album/4nRx85n55feU3DcUj6rJ0p) | 2:26 |

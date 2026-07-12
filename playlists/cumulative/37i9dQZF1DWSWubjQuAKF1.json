@@ -543,6 +543,24 @@
     },
     {
       "album": {
+        "name": "Angel(s)",
+        "url": "https://open.spotify.com/album/71W6HyKdt6FDhVYChmamZ4"
+      },
+      "artists": [
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183373,
+      "name": "Angel(s)",
+      "url": "https://open.spotify.com/track/6SwLUJjEIhQfDBPJNexA2y"
+    },
+    {
+      "album": {
         "name": "Mi\u0119dzy s\u0142owami",
         "url": "https://open.spotify.com/album/7H594gTYomUcEtTL08ZRtr"
       },
@@ -4256,7 +4274,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171516,
-      "name": "Esmeralda",
+      "name": "Esmeralda - we wsp\u00f3\u0142pracy z PZU",
       "url": "https://open.spotify.com/track/1zlYK4S2HHhQWntlXq2t6P"
     },
     {
@@ -7482,7 +7500,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 173100,
       "name": "Lustro",
       "url": "https://open.spotify.com/track/1juFCYbgxY2JQRXAmDoQey"
@@ -10136,7 +10154,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 172806,
       "name": "O mi\u0142o\u015bci, nie ten czas",
       "url": "https://open.spotify.com/track/2VhzXR9w6jnapPqoHDBwX3"
@@ -10320,7 +10338,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 173400,
-      "name": "OdFiltruj Rzeczywisto\u015b\u0107",
+      "name": "OdFiltruj Rzeczywisto\u015b\u0107 - we wsp\u00f3\u0142pracy z PZU",
       "url": "https://open.spotify.com/track/0zXXpAKmNuHbxsuJVMGnAM"
     },
     {
@@ -11074,7 +11092,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 224295,
       "name": "Per\u0142y za Kredensem",
       "url": "https://open.spotify.com/track/6dJnEeG7fhkGwfngdgQ45u"

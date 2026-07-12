@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2018. Cover: The 1975",
-  "num_followers": 94929,
+  "num_followers": 94935,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
@@ -371,18 +371,18 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW"
+        "name": "For Ever",
+        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
       },
       "artists": [
         {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 230625,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/467t3218y3yihFcyDGWjr0"
+      "duration_ms": 191529,
+      "name": "Happy Man",
+      "url": "https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -407,18 +407,18 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "For Ever",
-        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
         }
       ],
-      "duration_ms": 191529,
-      "name": "Happy Man",
-      "url": "https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2"
+      "duration_ms": 230625,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/467t3218y3yihFcyDGWjr0"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Historian",
+        "url": "https://open.spotify.com/album/01GO03odsNlNLtvNETukWT"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 391829,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/2AF5Kzxb4pz7j79Ity84pP"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "The Reason",
         "url": "https://open.spotify.com/album/56r44kX6LHgHQgHJoCaUiY"
       },
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "All I Want To Hear You Say",
-        "url": "https://open.spotify.com/album/3iJnbOet5ZH5zNxlAXeuG6"
-      },
-      "artists": [
-        {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
-        }
-      ],
-      "duration_ms": 189774,
-      "name": "All I Want To Hear You Say",
-      "url": "https://open.spotify.com/track/3X5PSHyFEfkkbIncpslasP"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Chiquito",
         "url": "https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy"
       },
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Historian",
-        "url": "https://open.spotify.com/album/01GO03odsNlNLtvNETukWT"
+        "name": "All I Want To Hear You Say",
+        "url": "https://open.spotify.com/album/3iJnbOet5ZH5zNxlAXeuG6"
       },
       "artists": [
         {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
         }
       ],
-      "duration_ms": 391829,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/2AF5Kzxb4pz7j79Ity84pP"
+      "duration_ms": 189774,
+      "name": "All I Want To Hear You Say",
+      "url": "https://open.spotify.com/track/3X5PSHyFEfkkbIncpslasP"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/2e48GqjEwCi87gQJanb1bf"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Pristine",
-      "url": "https://open.spotify.com/track/4UADR6fNQfx4fxkiRQvSy2"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "summer depression",
         "url": "https://open.spotify.com/album/3jlug1mMFqnp2rTBRV020r"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 151693,
       "name": "summer depression",
       "url": "https://open.spotify.com/track/2zPcVDSpYNVKQ5c7jR7MXj"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/2e48GqjEwCi87gQJanb1bf"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Pristine",
+      "url": "https://open.spotify.com/track/4UADR6fNQfx4fxkiRQvSy2"
     },
     {
       "added_at": "2024-03-18 13:22:22",

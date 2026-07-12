@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass \ud83d\udef8 featuring k?d",
-  "num_followers": 474542,
+  "num_followers": 474543,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-06-21 20:37:56",
       "album": {
+        "name": "DOPAMINE++",
+        "url": "https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "DOPAMINE++",
+      "url": "https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw"
+    },
+    {
+      "added_at": "2026-06-21 20:37:56",
+      "album": {
         "name": "Beautiful & Broken",
         "url": "https://open.spotify.com/album/7n0aDdVT9sd9h1ZlgJbyyV"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 178827,
       "name": "Beautiful & Broken",
       "url": "https://open.spotify.com/track/24jbvwyod0Go1SyLQw2NeH"
-    },
-    {
-      "added_at": "2026-06-21 20:37:56",
-      "album": {
-        "name": "DOPAMINE++",
-        "url": "https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "DOPAMINE++",
-      "url": "https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw"
     },
     {
       "added_at": "2026-06-21 20:37:56",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2026-06-21 20:37:56",
       "album": {
-        "name": "Turn The Lights Off",
-        "url": "https://open.spotify.com/album/5sgzDjAUca6mA0x8m58aqd"
-      },
-      "artists": [
-        {
-          "name": "Abandoned",
-          "url": "https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x"
-        },
-        {
-          "name": "Kaley",
-          "url": "https://open.spotify.com/artist/5ioRU3OGYb8O0rPw0PNxiN"
-        }
-      ],
-      "duration_ms": 170704,
-      "name": "Turn The Lights Off",
-      "url": "https://open.spotify.com/track/5oqFx5dZD22rmr6wtE5fUK"
-    },
-    {
-      "added_at": "2026-06-21 20:37:56",
-      "album": {
         "name": "How To Say Goodbye",
         "url": "https://open.spotify.com/album/2h4nay97Z8MU7NYnllHMsB"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 219195,
       "name": "How To Say Goodbye",
       "url": "https://open.spotify.com/track/1RT0Je4Df24UXmPMCh7JTy"
+    },
+    {
+      "added_at": "2026-06-21 20:37:56",
+      "album": {
+        "name": "Turn The Lights Off",
+        "url": "https://open.spotify.com/album/5sgzDjAUca6mA0x8m58aqd"
+      },
+      "artists": [
+        {
+          "name": "Abandoned",
+          "url": "https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x"
+        },
+        {
+          "name": "Kaley",
+          "url": "https://open.spotify.com/artist/5ioRU3OGYb8O0rPw0PNxiN"
+        }
+      ],
+      "duration_ms": 170704,
+      "name": "Turn The Lights Off",
+      "url": "https://open.spotify.com/track/5oqFx5dZD22rmr6wtE5fUK"
     },
     {
       "added_at": "2026-06-21 20:37:56",
@@ -3091,8 +3091,24 @@
     {
       "added_at": "2026-06-21 20:37:56",
       "album": {
-        "name": "I Miss You",
-        "url": "https://open.spotify.com/album/4oArT2bJZlrdvoqMh5Q4bK"
+        "name": "Always You",
+        "url": "https://open.spotify.com/album/0eNJ0Tga1dRDWuq1W8hiZx"
+      },
+      "artists": [
+        {
+          "name": "Monika Santucci",
+          "url": "https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Always You",
+      "url": "https://open.spotify.com/track/4iQbxMbipWaFiATBZOwH0H"
+    },
+    {
+      "added_at": "2026-06-21 20:37:56",
+      "album": {
+        "name": "Waking up in a Dream",
+        "url": "https://open.spotify.com/album/5E6R0f8jsjOd1oj6bAdjtj"
       },
       "artists": [
         {
@@ -3100,41 +3116,17 @@
           "url": "https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP"
         },
         {
-          "name": "ANDY KAUTZ",
-          "url": "https://open.spotify.com/artist/3LOMW9qqOdqeimIDQNmMIh"
+          "name": "9 Worlds",
+          "url": "https://open.spotify.com/artist/0IJ1W6ttg75kPsNGeVgkaV"
         },
         {
-          "name": "Elle Vee",
-          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
+          "name": "Donna Tella",
+          "url": "https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm"
         }
       ],
-      "duration_ms": 269333,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/1dfkSVQn5Pwct72NkmKZMG"
-    },
-    {
-      "added_at": "2026-06-21 20:37:56",
-      "album": {
-        "name": "Southern Skies",
-        "url": "https://open.spotify.com/album/6ZhWtq4KVqC7UIPPOy6Yc4"
-      },
-      "artists": [
-        {
-          "name": "UNDEFYND",
-          "url": "https://open.spotify.com/artist/71RXcyQVb3RTCvESEn4Rmy"
-        },
-        {
-          "name": "Second Road",
-          "url": "https://open.spotify.com/artist/20FPD14qFlRzMeqyF8mlJE"
-        },
-        {
-          "name": "Casey Cook",
-          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
-        }
-      ],
-      "duration_ms": 293538,
-      "name": "Southern Skies",
-      "url": "https://open.spotify.com/track/0O0RDDBxt18mZxDu43waB8"
+      "duration_ms": 290910,
+      "name": "Waking up in a Dream",
+      "url": "https://open.spotify.com/track/2kDzRYSeJpr7fOqRklgiYd"
     }
   ],
   "unique_name": "Bass Lounge",

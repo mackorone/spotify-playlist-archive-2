@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 399902,
+  "num_followers": 399937,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -399,18 +399,18 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/4Pr78CKZWWqGq6GAEo83QX"
+        "name": "one step",
+        "url": "https://open.spotify.com/album/4opmUne3YMplksSGfP2y5f"
       },
       "artists": [
         {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+          "name": "Cross Gray",
+          "url": "https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP"
         }
       ],
-      "duration_ms": 233708,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/1shkGViIKA1j6afZNF6jwN"
+      "duration_ms": 216800,
+      "name": "one step",
+      "url": "https://open.spotify.com/track/535zZ7cD7PF4zKi8YZJx81"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -431,18 +431,18 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "one step",
-        "url": "https://open.spotify.com/album/4opmUne3YMplksSGfP2y5f"
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/4Pr78CKZWWqGq6GAEo83QX"
       },
       "artists": [
         {
-          "name": "Cross Gray",
-          "url": "https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP"
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
         }
       ],
-      "duration_ms": 216800,
-      "name": "one step",
-      "url": "https://open.spotify.com/track/535zZ7cD7PF4zKi8YZJx81"
+      "duration_ms": 233708,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/1shkGViIKA1j6afZNF6jwN"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Can\u2019t Keep A Secret",
-        "url": "https://open.spotify.com/album/1aKlGxC90P7YDKJfYAat5Y"
-      },
-      "artists": [
-        {
-          "name": "Amanda Nolan",
-          "url": "https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8"
-        }
-      ],
-      "duration_ms": 150987,
-      "name": "Can\u2019t Keep A Secret",
-      "url": "https://open.spotify.com/track/6YiUHNjJDJaAJCBaBG0lBZ"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "The Sacrifice",
         "url": "https://open.spotify.com/album/1Axo3TBWbcL604Jup2pYUB"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 228215,
       "name": "The Sacrifice",
       "url": "https://open.spotify.com/track/35Bkyy0sIJ2HB2fEJXlV43"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Can\u2019t Keep A Secret",
+        "url": "https://open.spotify.com/album/1aKlGxC90P7YDKJfYAat5Y"
+      },
+      "artists": [
+        {
+          "name": "Amanda Nolan",
+          "url": "https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8"
+        }
+      ],
+      "duration_ms": 150987,
+      "name": "Can\u2019t Keep A Secret",
+      "url": "https://open.spotify.com/track/6YiUHNjJDJaAJCBaBG0lBZ"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Shine Jesus Shine",
-        "url": "https://open.spotify.com/album/2WbsfSnt69eK3wTPDDBCY0"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 120874,
-      "name": "Shine Jesus Shine",
-      "url": "https://open.spotify.com/track/5c8exuiri7IgOo0HuK48oE"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "I Remind Myself (Live)",
         "url": "https://open.spotify.com/album/3YQj4UXmkPQ6d46bfXa0ob"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 245989,
       "name": "I Remind Myself - Live",
       "url": "https://open.spotify.com/track/1u0bArttdfyhYH29gR23Zu"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Shine Jesus Shine",
+        "url": "https://open.spotify.com/album/2WbsfSnt69eK3wTPDDBCY0"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 120874,
+      "name": "Shine Jesus Shine",
+      "url": "https://open.spotify.com/track/5c8exuiri7IgOo0HuK48oE"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Cloud",
-        "url": "https://open.spotify.com/album/4DbQACQLLMvxUF9ooleJOT"
-      },
-      "artists": [
-        {
-          "name": "Megan Tibbits",
-          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
-        }
-      ],
-      "duration_ms": 243645,
-      "name": "Cloud",
-      "url": "https://open.spotify.com/track/1OWwOQxvXElGhT7PX5acpn"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "Standing Tall",
         "url": "https://open.spotify.com/album/2zvfb567grDEsVSfO5R9Iw"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 169756,
       "name": "Standing Tall",
       "url": "https://open.spotify.com/track/5gdW2FJUYLBeWv8mtOIp3m"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Cloud",
+        "url": "https://open.spotify.com/album/4DbQACQLLMvxUF9ooleJOT"
+      },
+      "artists": [
+        {
+          "name": "Megan Tibbits",
+          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
+        }
+      ],
+      "duration_ms": 243645,
+      "name": "Cloud",
+      "url": "https://open.spotify.com/track/1OWwOQxvXElGhT7PX5acpn"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "best thing",
-        "url": "https://open.spotify.com/album/3cReeK55hE5LnvhpLA8kh9"
-      },
-      "artists": [
-        {
-          "name": "Megan Tibbits",
-          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
-        }
-      ],
-      "duration_ms": 233583,
-      "name": "best thing",
-      "url": "https://open.spotify.com/track/5GFxzXTom2S4ZhC7JSOBEh"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "For Your Glory",
         "url": "https://open.spotify.com/album/5LrzsfRZtiVwxAqgusUd76"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 202853,
       "name": "Fortress",
       "url": "https://open.spotify.com/track/6zcdG0NJ6uCc9rnKo4bZqB"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "best thing",
+        "url": "https://open.spotify.com/album/3cReeK55hE5LnvhpLA8kh9"
+      },
+      "artists": [
+        {
+          "name": "Megan Tibbits",
+          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
+        }
+      ],
+      "duration_ms": 233583,
+      "name": "best thing",
+      "url": "https://open.spotify.com/track/5GFxzXTom2S4ZhC7JSOBEh"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -987,6 +987,30 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
+        "name": "STRENGTH AND SONG",
+        "url": "https://open.spotify.com/album/3WmE8D5PxWXfMBVzX3fTPw"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        },
+        {
+          "name": "Kato On The Track",
+          "url": "https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB"
+        },
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+        }
+      ],
+      "duration_ms": 213995,
+      "name": "STRENGTH AND SONG",
+      "url": "https://open.spotify.com/track/0MpVmc8oPQswuIwt1hMPYW"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
         "name": "Happily Hidden",
         "url": "https://open.spotify.com/album/5fCirlLG6ch2MFWyOA5B9b"
       },
@@ -1019,30 +1043,6 @@
       "duration_ms": 243433,
       "name": "Boundary Lines",
       "url": "https://open.spotify.com/track/27vnMIb0AssMDUiNWexbz9"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "STRENGTH AND SONG",
-        "url": "https://open.spotify.com/album/3WmE8D5PxWXfMBVzX3fTPw"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        },
-        {
-          "name": "Kato On The Track",
-          "url": "https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB"
-        },
-        {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
-        }
-      ],
-      "duration_ms": 213995,
-      "name": "STRENGTH AND SONG",
-      "url": "https://open.spotify.com/track/0MpVmc8oPQswuIwt1hMPYW"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "You Hold It All",
-        "url": "https://open.spotify.com/album/59Fwf6YU9AdpzQmnAbRIEJ"
-      },
-      "artists": [
-        {
-          "name": "Land of Color",
-          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "Skin And Bone",
-      "url": "https://open.spotify.com/track/49jNWNrotJdUObt2fRpiI1"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "Es\u00e9",
         "url": "https://open.spotify.com/album/6t44fZYo3wngPz0MX7vOqH"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 194602,
       "name": "Es\u00e9",
       "url": "https://open.spotify.com/track/27kSeZe95U7n14Jfv0jnb7"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "You Hold It All",
+        "url": "https://open.spotify.com/album/59Fwf6YU9AdpzQmnAbRIEJ"
+      },
+      "artists": [
+        {
+          "name": "Land of Color",
+          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "Skin And Bone",
+      "url": "https://open.spotify.com/track/49jNWNrotJdUObt2fRpiI1"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Reach Out",
-        "url": "https://open.spotify.com/album/0CWgKwjftxN11Fay8KOjmB"
+        "name": "Far Far",
+        "url": "https://open.spotify.com/album/334ovjV48rjW7uZAv395fV"
       },
       "artists": [
         {
-          "name": "D\u00e2mares Gomes",
-          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
         }
       ],
-      "duration_ms": 199666,
-      "name": "Reach Out",
-      "url": "https://open.spotify.com/track/5RnGsbzXKi1zAoI35mQqAz"
+      "duration_ms": 155463,
+      "name": "Far Far",
+      "url": "https://open.spotify.com/track/3HJv7EgAFZQJrNGAZQemi4"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1867,18 +1867,18 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Far Far",
-        "url": "https://open.spotify.com/album/334ovjV48rjW7uZAv395fV"
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/0CWgKwjftxN11Fay8KOjmB"
       },
       "artists": [
         {
-          "name": "K3ndrick",
-          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
         }
       ],
-      "duration_ms": 155463,
-      "name": "Far Far",
-      "url": "https://open.spotify.com/track/3HJv7EgAFZQJrNGAZQemi4"
+      "duration_ms": 199666,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/5RnGsbzXKi1zAoI35mQqAz"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "NO SKIPS (DELUXE)",
-        "url": "https://open.spotify.com/album/6EXlsYJl67Xd08HQg1mBrS"
-      },
-      "artists": [
-        {
-          "name": "bodie",
-          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
-        }
-      ],
-      "duration_ms": 189921,
-      "name": "heaven knows i tried - acoustic",
-      "url": "https://open.spotify.com/track/1Kcu9DxL9pd8tkoTPtEk71"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "KNOWN",
         "url": "https://open.spotify.com/album/1rhLqLdT3MO4dQGRgmaqiS"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 228279,
       "name": "KNOWN",
       "url": "https://open.spotify.com/track/1h58D20BA2O5WIXmpRGGvH"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "NO SKIPS (DELUXE)",
+        "url": "https://open.spotify.com/album/6EXlsYJl67Xd08HQg1mBrS"
+      },
+      "artists": [
+        {
+          "name": "bodie",
+          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
+        }
+      ],
+      "duration_ms": 189921,
+      "name": "heaven knows i tried - acoustic",
+      "url": "https://open.spotify.com/track/1Kcu9DxL9pd8tkoTPtEk71"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2263,6 +2263,26 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/6LN3NNAUTMT2s0fIzcGuu0"
+      },
+      "artists": [
+        {
+          "name": "Olivia Stern",
+          "url": "https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu"
+        },
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        }
+      ],
+      "duration_ms": 293475,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/3eRawQl6CXLQY13nq98Pzb"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
         "name": "interlude ellipsis",
         "url": "https://open.spotify.com/album/2zJPJQt07jXEneZWIEJfNl"
       },
@@ -2291,26 +2311,6 @@
       "duration_ms": 204161,
       "name": "Don't Count Me Out",
       "url": "https://open.spotify.com/track/0zuJsIOYKAir5r0ZcjtTLf"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/6LN3NNAUTMT2s0fIzcGuu0"
-      },
-      "artists": [
-        {
-          "name": "Olivia Stern",
-          "url": "https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu"
-        },
-        {
-          "name": "Circuit Rider Music",
-          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
-        }
-      ],
-      "duration_ms": 293475,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/3eRawQl6CXLQY13nq98Pzb"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2347,6 +2347,26 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
+        "name": "Up With The Birds",
+        "url": "https://open.spotify.com/album/7FH29UTUol8xqMRl1wrAOm"
+      },
+      "artists": [
+        {
+          "name": "Olivia Stern",
+          "url": "https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu"
+        },
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        }
+      ],
+      "duration_ms": 164094,
+      "name": "Up With The Birds",
+      "url": "https://open.spotify.com/track/30EPNX0HMflT7w6IBGV0sA"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
         "name": "i love You",
         "url": "https://open.spotify.com/album/67GpvgOPbnO9MA0emsa4RI"
       },
@@ -2379,26 +2399,6 @@
       "duration_ms": 237123,
       "name": "Reckoner (An Axe Laid at the Root)",
       "url": "https://open.spotify.com/track/3EtEM53wzZkunSZiRXEik8"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "Up With The Birds",
-        "url": "https://open.spotify.com/album/7FH29UTUol8xqMRl1wrAOm"
-      },
-      "artists": [
-        {
-          "name": "Olivia Stern",
-          "url": "https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu"
-        },
-        {
-          "name": "Circuit Rider Music",
-          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
-        }
-      ],
-      "duration_ms": 164094,
-      "name": "Up With The Birds",
-      "url": "https://open.spotify.com/track/30EPNX0HMflT7w6IBGV0sA"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2647,6 +2647,26 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
+        "name": "This Holy Moment",
+        "url": "https://open.spotify.com/album/3topP3w3C25at3bUbkvglb"
+      },
+      "artists": [
+        {
+          "name": "Neal Carpenter",
+          "url": "https://open.spotify.com/artist/2hdb7np5QuW5y5fPG7Dnp8"
+        },
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 212192,
+      "name": "This Holy Moment",
+      "url": "https://open.spotify.com/track/09V8Qp51fzuGHX5SSHfAQi"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
         "name": "More Than Enough (Stripped Down)",
         "url": "https://open.spotify.com/album/7wPGyBG4GKS2YfRZd6yMsT"
       },
@@ -2659,26 +2679,6 @@
       "duration_ms": 172031,
       "name": "More Than Enough - Stripped Down",
       "url": "https://open.spotify.com/track/72eWVAzxNLrduXEThcHS9r"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "FREE",
-        "url": "https://open.spotify.com/album/3fMgYbhM34UYr1MtXUoJYv"
-      },
-      "artists": [
-        {
-          "name": "Spencer Kane",
-          "url": "https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb"
-        },
-        {
-          "name": "brooke",
-          "url": "https://open.spotify.com/artist/7FUnhnuowTICdtK0KzH7Ng"
-        }
-      ],
-      "duration_ms": 183535,
-      "name": "FREE",
-      "url": "https://open.spotify.com/track/1Zpr3vfsaNmZhO8YcN14pd"
     }
   ],
   "unique_name": "Christian Coffeehouse",

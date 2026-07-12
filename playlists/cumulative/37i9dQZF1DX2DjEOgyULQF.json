@@ -5288,7 +5288,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 148750,
       "name": "Orlithan",
       "url": "https://open.spotify.com/track/29phtIWzxNHi76o4bH3qeq"
@@ -5706,6 +5706,24 @@
       "duration_ms": 148000,
       "name": "Radiant Recovery",
       "url": "https://open.spotify.com/track/6vrIfscwRw6648jkgY5JUO"
+    },
+    {
+      "album": {
+        "name": "Radura",
+        "url": "https://open.spotify.com/album/5aYpBEovuAH7MSZ5te2yCj"
+      },
+      "artists": [
+        {
+          "name": "Silentia Natura",
+          "url": "https://open.spotify.com/artist/66451HoublFc32cocZpJjd"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162475,
+      "name": "Radura",
+      "url": "https://open.spotify.com/track/1fZ2qoDTQB9VoMhNdb3wsh"
     },
     {
       "album": {

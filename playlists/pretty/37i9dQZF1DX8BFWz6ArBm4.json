@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Nikos Oikonomopoulos",
-  "num_followers": 39392,
+  "num_followers": 39399,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -271,18 +271,22 @@
     {
       "added_at": "2026-07-09 21:00:27",
       "album": {
-        "name": "KABANES",
-        "url": "https://open.spotify.com/album/0g2UZJiNLO78UIby2ZJzVf"
+        "name": "Nero",
+        "url": "https://open.spotify.com/album/1TzT3q0Z7rRE7jwjyXdg8y"
       },
       "artists": [
         {
           "name": "Konstantinos Argiros",
           "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+        },
+        {
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
         }
       ],
-      "duration_ms": 165328,
-      "name": "KABANES",
-      "url": "https://open.spotify.com/track/369kX7fbtHY20flzXt0m37"
+      "duration_ms": 188000,
+      "name": "Nero",
+      "url": "https://open.spotify.com/track/2ubEbpEKlROchIqMYQSC9f"
     },
     {
       "added_at": "2026-07-09 21:00:27",
@@ -363,22 +367,18 @@
     {
       "added_at": "2026-07-09 21:00:27",
       "album": {
-        "name": "Nero",
-        "url": "https://open.spotify.com/album/1TzT3q0Z7rRE7jwjyXdg8y"
+        "name": "KABANES",
+        "url": "https://open.spotify.com/album/0g2UZJiNLO78UIby2ZJzVf"
       },
       "artists": [
         {
           "name": "Konstantinos Argiros",
           "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
-        },
-        {
-          "name": "Noizy",
-          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Nero",
-      "url": "https://open.spotify.com/track/2ubEbpEKlROchIqMYQSC9f"
+      "duration_ms": 165328,
+      "name": "KABANES",
+      "url": "https://open.spotify.com/track/369kX7fbtHY20flzXt0m37"
     },
     {
       "added_at": "2026-07-09 21:00:27",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-07-09 21:00:27",
       "album": {
-        "name": "Sou Eleipsa H Oxi?",
-        "url": "https://open.spotify.com/album/3Y3vGleylpZtWMQUySRcvI"
-      },
-      "artists": [
-        {
-          "name": "Katerina Lioliou",
-          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
-        }
-      ],
-      "duration_ms": 239482,
-      "name": "Sou Eleipsa H Oxi?",
-      "url": "https://open.spotify.com/track/3DjRWr61uRKkd6pe0DkO3e"
-    },
-    {
-      "added_at": "2026-07-09 21:00:27",
-      "album": {
         "name": "Ta Parapona mou",
         "url": "https://open.spotify.com/album/3HtI7dLnszDt9CuKvB7MfM"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 175147,
       "name": "Ta Parapona Mou",
       "url": "https://open.spotify.com/track/3RXBikhe617jBGLu7Rj8zL"
+    },
+    {
+      "added_at": "2026-07-09 21:00:27",
+      "album": {
+        "name": "Sou Eleipsa H Oxi?",
+        "url": "https://open.spotify.com/album/3Y3vGleylpZtWMQUySRcvI"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "duration_ms": 239482,
+      "name": "Sou Eleipsa H Oxi?",
+      "url": "https://open.spotify.com/track/3DjRWr61uRKkd6pe0DkO3e"
     },
     {
       "added_at": "2026-07-09 21:00:27",

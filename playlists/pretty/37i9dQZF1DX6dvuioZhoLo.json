@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Lily Meola",
-  "num_followers": 315293,
+  "num_followers": 315288,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF3+phmIoXzZL6OSIiUP5u2WQ7g/",
+  "snapshot_id": "AAAAAFInd+tl3MHBNhrgfxEQY+OYgV6l",
   "tracks": [
     {
       "added_at": "2026-07-03 04:01:05",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
-        "name": "Under You",
-        "url": "https://open.spotify.com/album/0fOqE6VqVqhnUBT0Ebkk86"
-      },
-      "artists": [
-        {
-          "name": "Andrew Sa",
-          "url": "https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07"
-        }
-      ],
-      "duration_ms": 228781,
-      "name": "Under You",
-      "url": "https://open.spotify.com/track/6tXqo7GYIZKkRw1FYYChk9"
-    },
-    {
-      "added_at": "2026-07-03 04:01:05",
-      "album": {
         "name": "Jeremiah / Why\u2019d Ya Do It",
         "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 184558,
       "name": "Jeremiah",
       "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
+    },
+    {
+      "added_at": "2026-07-03 04:01:05",
+      "album": {
+        "name": "Under You",
+        "url": "https://open.spotify.com/album/0fOqE6VqVqhnUBT0Ebkk86"
+      },
+      "artists": [
+        {
+          "name": "Andrew Sa",
+          "url": "https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07"
+        }
+      ],
+      "duration_ms": 228781,
+      "name": "Under You",
+      "url": "https://open.spotify.com/track/6tXqo7GYIZKkRw1FYYChk9"
     },
     {
       "added_at": "2026-07-03 04:01:05",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
-        "name": "Good While It Lasted",
-        "url": "https://open.spotify.com/album/6wTPSpth7LiJ0mIETQYuiq"
-      },
-      "artists": [
-        {
-          "name": "Coleman Jennings",
-          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
-        }
-      ],
-      "duration_ms": 176335,
-      "name": "Good While It Lasted",
-      "url": "https://open.spotify.com/track/18EMtin4khvod6yJScz2CD"
-    },
-    {
-      "added_at": "2026-07-03 04:01:05",
-      "album": {
         "name": "Burial Ground",
         "url": "https://open.spotify.com/album/5jodqSew9785i4tEIRLase"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 244773,
       "name": "Burial Ground",
       "url": "https://open.spotify.com/track/1Xzyo31tkXB53PaRnPziLR"
+    },
+    {
+      "added_at": "2026-07-03 04:01:05",
+      "album": {
+        "name": "Good While It Lasted",
+        "url": "https://open.spotify.com/album/6wTPSpth7LiJ0mIETQYuiq"
+      },
+      "artists": [
+        {
+          "name": "Coleman Jennings",
+          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
+        }
+      ],
+      "duration_ms": 176335,
+      "name": "Good While It Lasted",
+      "url": "https://open.spotify.com/track/18EMtin4khvod6yJScz2CD"
     },
     {
       "added_at": "2026-07-03 04:01:05",
@@ -859,18 +859,18 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
-        "name": "Honest Life",
-        "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
+        "name": "The Lost Outlaw Album",
+        "url": "https://open.spotify.com/album/1L7I8uL1xroYdwUp2jxqGB"
       },
       "artists": [
         {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+          "name": "Hoover",
+          "url": "https://open.spotify.com/artist/4RXI4V3ta2nRbDoB5jvMED"
         }
       ],
-      "duration_ms": 239600,
-      "name": "Table for One",
-      "url": "https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4"
+      "duration_ms": 165088,
+      "name": "I'm the Loneliest Man I Ever Met",
+      "url": "https://open.spotify.com/track/3e7nvPSyIxNSlJ3icrKVfT"
     },
     {
       "added_at": "2026-07-03 04:01:05",
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
-        "name": "The Lost Outlaw Album",
-        "url": "https://open.spotify.com/album/1L7I8uL1xroYdwUp2jxqGB"
+        "name": "Honest Life",
+        "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
       },
       "artists": [
         {
-          "name": "Hoover",
-          "url": "https://open.spotify.com/artist/4RXI4V3ta2nRbDoB5jvMED"
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
         }
       ],
-      "duration_ms": 165088,
-      "name": "I'm the Loneliest Man I Ever Met",
-      "url": "https://open.spotify.com/track/3e7nvPSyIxNSlJ3icrKVfT"
+      "duration_ms": 239600,
+      "name": "Table for One",
+      "url": "https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4"
     },
     {
       "added_at": "2026-07-03 04:01:05",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
-        "name": "It\u2019s Been Too Long",
-        "url": "https://open.spotify.com/album/2ILBE0Bx1t9FmUUqctFE9A"
-      },
-      "artists": [
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        }
-      ],
-      "duration_ms": 162384,
-      "name": "It\u2019s Been Too Long",
-      "url": "https://open.spotify.com/track/6LHqwTM5LpkeBh1C8bSLcT"
-    },
-    {
-      "added_at": "2026-07-03 04:01:05",
-      "album": {
         "name": "Movin\u2019 Shoes",
         "url": "https://open.spotify.com/album/2sHS3YECiWION4TfBHmkTI"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 249734,
       "name": "Home With My Dog",
       "url": "https://open.spotify.com/track/53taqmWyUH21RoJmglUoyG"
+    },
+    {
+      "added_at": "2026-07-03 04:01:05",
+      "album": {
+        "name": "It\u2019s Been Too Long",
+        "url": "https://open.spotify.com/album/2ILBE0Bx1t9FmUUqctFE9A"
+      },
+      "artists": [
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "duration_ms": 162384,
+      "name": "It\u2019s Been Too Long",
+      "url": "https://open.spotify.com/track/6LHqwTM5LpkeBh1C8bSLcT"
     },
     {
       "added_at": "2026-07-03 04:01:05",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
+        "name": "Family Reunion",
+        "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "duration_ms": 162697,
+      "name": "Dry Town",
+      "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
+    },
+    {
+      "added_at": "2026-07-03 04:01:05",
+      "album": {
         "name": "All My Exes Live in L.A.",
         "url": "https://open.spotify.com/album/0YDQ6x3Lf2bfReLsZfOLYw"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 198062,
       "name": "All My Exes Live in L.A.",
       "url": "https://open.spotify.com/track/3ixSiGWX59GYPNf8gnXU0c"
-    },
-    {
-      "added_at": "2026-07-03 04:01:05",
-      "album": {
-        "name": "Family Reunion",
-        "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
-      },
-      "artists": [
-        {
-          "name": "Della Mae",
-          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
-        }
-      ],
-      "duration_ms": 162697,
-      "name": "Dry Town",
-      "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
     },
     {
       "added_at": "2026-07-03 04:01:05",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
-        "name": "Fuck With Sad Girls",
-        "url": "https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Whitmore",
-          "url": "https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Fuck With Sad Girls",
-      "url": "https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV"
-    },
-    {
-      "added_at": "2026-07-03 04:01:05",
-      "album": {
         "name": "Cherie Vico",
         "url": "https://open.spotify.com/album/0LqNcJ3PKmf7oReNRLJ22I"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 316440,
       "name": "Cherie Vico",
       "url": "https://open.spotify.com/track/44QY6TpNOFnUEm6mrIxOuY"
+    },
+    {
+      "added_at": "2026-07-03 04:01:05",
+      "album": {
+        "name": "Fuck With Sad Girls",
+        "url": "https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Whitmore",
+          "url": "https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Fuck With Sad Girls",
+      "url": "https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV"
     },
     {
       "added_at": "2026-07-03 04:01:05",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
-        "name": "En Los Shadows de San Antone",
-        "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
-      },
-      "artists": [
-        {
-          "name": "Garrett T. Capps",
-          "url": "https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv"
-        }
-      ],
-      "duration_ms": 185216,
-      "name": "Goodbye San Antonio, Hello Amsterdam",
-      "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
-    },
-    {
-      "added_at": "2026-07-03 04:01:05",
-      "album": {
         "name": "Love All Night (Work All Day)",
         "url": "https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 213204,
       "name": "Love All Night (Work All Day)",
       "url": "https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT"
+    },
+    {
+      "added_at": "2026-07-03 04:01:05",
+      "album": {
+        "name": "En Los Shadows de San Antone",
+        "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
+      },
+      "artists": [
+        {
+          "name": "Garrett T. Capps",
+          "url": "https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv"
+        }
+      ],
+      "duration_ms": 185216,
+      "name": "Goodbye San Antonio, Hello Amsterdam",
+      "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
     },
     {
       "added_at": "2026-07-03 04:01:05",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4"
-      },
-      "artists": [
-        {
-          "name": "Gold Child",
-          "url": "https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc"
-        }
-      ],
-      "duration_ms": 220571,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6"
-    },
-    {
-      "added_at": "2026-07-03 04:01:05",
-      "album": {
         "name": "Havin' A Talk",
         "url": "https://open.spotify.com/album/2x4IrX8bcXcwZvj4BVQXUP"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 206480,
       "name": "The Last To Know",
       "url": "https://open.spotify.com/track/65965vBWT1mhOGat6GodGa"
+    },
+    {
+      "added_at": "2026-07-03 04:01:05",
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4"
+      },
+      "artists": [
+        {
+          "name": "Gold Child",
+          "url": "https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc"
+        }
+      ],
+      "duration_ms": 220571,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6"
     },
     {
       "added_at": "2026-07-03 04:01:05",

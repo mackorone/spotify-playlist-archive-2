@@ -1,12 +1,12 @@
 {
   "description": "This is ClariS. The essential tracks, all in one playlist.",
-  "num_followers": 20313,
+  "num_followers": 20318,
   "original_name": "This Is ClariS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAAAunJrAfW0mR5XAUKcFCxPa",
+  "snapshot_id": "alA2AAAAAAC8uTk6wVBp84+W4C7Ws1r2",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30a2\u30f3\u30c0\u30f3\u30c6",
-        "url": "https://open.spotify.com/album/54Vev99HeDdE8Yaw33Ov0p"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 216413,
-      "name": "\u30a2\u30f3\u30c0\u30f3\u30c6",
-      "url": "https://open.spotify.com/track/2XyWnA5OFJvlwaR4DuIR0P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30d2\u30c8\u30b3\u30c8",
         "url": "https://open.spotify.com/album/1oWqBdPvnWGa8wfivCO2yd"
       },
@@ -203,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30a2\u30f3\u30c0\u30f3\u30c6",
+        "url": "https://open.spotify.com/album/54Vev99HeDdE8Yaw33Ov0p"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 216413,
+      "name": "\u30a2\u30f3\u30c0\u30f3\u30c6",
+      "url": "https://open.spotify.com/track/2XyWnA5OFJvlwaR4DuIR0P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PARTY TIME",
         "url": "https://open.spotify.com/album/66y4Wxg2FCFTr6g67NXfYY"
       },
@@ -215,6 +215,22 @@
       "duration_ms": 255706,
       "name": "STEP",
       "url": "https://open.spotify.com/track/5DvdcadbAkXdpITIKLycqx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30bf\u30ab\u30e9\u30e2\u30ce",
+        "url": "https://open.spotify.com/album/0W3AclLgNjnLeoDdhWqupw"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 235642,
+      "name": "\u30bf\u30ab\u30e9\u30e2\u30ce",
+      "url": "https://open.spotify.com/track/6DtBcSjSFtfjYssshcR9CT"
     },
     {
       "added_at": null,
@@ -247,22 +263,6 @@
       "duration_ms": 235802,
       "name": "Radiant",
       "url": "https://open.spotify.com/track/0cL9uGErBy8InkcxkihEWi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30bf\u30ab\u30e9\u30e2\u30ce",
-        "url": "https://open.spotify.com/album/0W3AclLgNjnLeoDdhWqupw"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 235642,
-      "name": "\u30bf\u30ab\u30e9\u30e2\u30ce",
-      "url": "https://open.spotify.com/track/6DtBcSjSFtfjYssshcR9CT"
     },
     {
       "added_at": null,
@@ -395,54 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALIVE -season 03-",
-        "url": "https://open.spotify.com/album/3dgLQWzjYuMUnCZplwXMir"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 217383,
-      "name": "ALIVE -season 03-",
-      "url": "https://open.spotify.com/track/7jXP5zbMmeiIJ6JTkA1dff"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30ab\u30e9\u30d5\u30eb -season 03-",
-        "url": "https://open.spotify.com/album/5u3sH1cZ6yjr2evDZp2obu"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 273428,
-      "name": "\u30ab\u30e9\u30d5\u30eb -season 03-",
-      "url": "https://open.spotify.com/track/2ehBBSipfyoIe1D1EUqzLh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fairy Party",
-        "url": "https://open.spotify.com/album/34cOizYrnROPXji1gfR38k"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 248146,
-      "name": "SHIORI",
-      "url": "https://open.spotify.com/track/3OBGuiLR37GJP0H8csaE3n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fairy Castle(Deluxe Edition\uff09",
         "url": "https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4"
       },
@@ -463,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHIORI",
-        "url": "https://open.spotify.com/album/00paTaIXU1wa5JRcpZE21q"
+        "name": "ALIVE -season 03-",
+        "url": "https://open.spotify.com/album/3dgLQWzjYuMUnCZplwXMir"
       },
       "artists": [
         {
@@ -472,9 +424,41 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 341746,
-      "name": "\u541b\u306e\u77e5\u3089\u306a\u3044\u7269\u8a9e",
-      "url": "https://open.spotify.com/track/4LggOGijGZuwoiYBXKoPM0"
+      "duration_ms": 217383,
+      "name": "ALIVE -season 03-",
+      "url": "https://open.spotify.com/track/7jXP5zbMmeiIJ6JTkA1dff"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fairy Party",
+        "url": "https://open.spotify.com/album/34cOizYrnROPXji1gfR38k"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 248146,
+      "name": "SHIORI",
+      "url": "https://open.spotify.com/track/3OBGuiLR37GJP0H8csaE3n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30ab\u30e9\u30d5\u30eb -season 03-",
+        "url": "https://open.spotify.com/album/5u3sH1cZ6yjr2evDZp2obu"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 273428,
+      "name": "\u30ab\u30e9\u30d5\u30eb -season 03-",
+      "url": "https://open.spotify.com/track/2ehBBSipfyoIe1D1EUqzLh"
     },
     {
       "added_at": null,
@@ -495,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30b3\u30cd\u30af\u30c8 -season 03-",
-        "url": "https://open.spotify.com/album/1vhAjY5a8RKFlSoaxXRiGg"
+        "name": "SHIORI",
+        "url": "https://open.spotify.com/album/00paTaIXU1wa5JRcpZE21q"
       },
       "artists": [
         {
@@ -504,9 +488,9 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 270030,
-      "name": "\u30b3\u30cd\u30af\u30c8 -season 03-",
-      "url": "https://open.spotify.com/track/7vV436E11To5C1zrrXOo2U"
+      "duration_ms": 341746,
+      "name": "\u541b\u306e\u77e5\u3089\u306a\u3044\u7269\u8a9e",
+      "url": "https://open.spotify.com/track/4LggOGijGZuwoiYBXKoPM0"
     },
     {
       "added_at": null,
@@ -523,6 +507,22 @@
       "duration_ms": 313453,
       "name": "\u3072\u3089\u3072\u3089\u3000\u3072\u3089\u3089",
       "url": "https://open.spotify.com/track/5WCOCRgRtn8OfkDJfoyYYv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30b3\u30cd\u30af\u30c8 -season 03-",
+        "url": "https://open.spotify.com/album/1vhAjY5a8RKFlSoaxXRiGg"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 270030,
+      "name": "\u30b3\u30cd\u30af\u30c8 -season 03-",
+      "url": "https://open.spotify.com/track/7vV436E11To5C1zrrXOo2U"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIRTHDAY",
-        "url": "https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 291706,
-      "name": "nexus",
-      "url": "https://open.spotify.com/track/1j6UfYcCYnSJa1FpdFBMEr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fairy Castle(Deluxe Edition\uff09",
         "url": "https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4"
       },
@@ -591,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ClariS \u301cSINGLE BEST 1st\u301c",
-        "url": "https://open.spotify.com/album/4QRz46oz5smqLdihwyl2bX"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 267866,
-      "name": "border",
-      "url": "https://open.spotify.com/track/1ZVZKOmy9RS4GhJ5Epj5MN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Umitsuki",
         "url": "https://open.spotify.com/album/2hziPKjGL5A5KEti1z7QxQ"
       },
@@ -619,6 +587,38 @@
       "duration_ms": 235678,
       "name": "\u904b\u547d",
       "url": "https://open.spotify.com/track/0gJjTxeKA5856MhOUfqZBU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 291706,
+      "name": "nexus",
+      "url": "https://open.spotify.com/track/1j6UfYcCYnSJa1FpdFBMEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ClariS \u301cSINGLE BEST 1st\u301c",
+        "url": "https://open.spotify.com/album/4QRz46oz5smqLdihwyl2bX"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 267866,
+      "name": "border",
+      "url": "https://open.spotify.com/track/1ZVZKOmy9RS4GhJ5Epj5MN"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30eb\u30df\u30ca\u30b9 -season 03-",
+        "url": "https://open.spotify.com/album/2YBB4TemX9Dbfpy4EDFCoj"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 249839,
+      "name": "\u30eb\u30df\u30ca\u30b9 -season 03-",
+      "url": "https://open.spotify.com/track/44ahmi0meqTXkzmvp2Ngxd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/5EoIMhQciDeHOfHhGSNq4T"
       },
@@ -703,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30eb\u30df\u30ca\u30b9 -season 03-",
-        "url": "https://open.spotify.com/album/2YBB4TemX9Dbfpy4EDFCoj"
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7"
       },
       "artists": [
         {
@@ -712,9 +728,9 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 249839,
-      "name": "\u30eb\u30df\u30ca\u30b9 -season 03-",
-      "url": "https://open.spotify.com/track/44ahmi0meqTXkzmvp2Ngxd"
+      "duration_ms": 260812,
+      "name": "treasure",
+      "url": "https://open.spotify.com/track/0a6dL9FS3oWoGlAtR3yxQr"
     },
     {
       "added_at": null,
@@ -735,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIRTHDAY",
-        "url": "https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7"
+        "name": "SECOND STORY",
+        "url": "https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx"
       },
       "artists": [
         {
@@ -744,9 +760,9 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 260812,
-      "name": "treasure",
-      "url": "https://open.spotify.com/track/0a6dL9FS3oWoGlAtR3yxQr"
+      "duration_ms": 234533,
+      "name": "with you",
+      "url": "https://open.spotify.com/track/0q7cr2AmsvucswUwfX1FoL"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 270440,
       "name": "\u30b3\u30cd\u30af\u30c8 -2017-",
       "url": "https://open.spotify.com/track/13gcdbzfAArRm6RDhijxM7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SECOND STORY",
-        "url": "https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 234533,
-      "name": "with you",
-      "url": "https://open.spotify.com/track/0q7cr2AmsvucswUwfX1FoL"
     },
     {
       "added_at": null,

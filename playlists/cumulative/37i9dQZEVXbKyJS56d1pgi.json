@@ -18554,7 +18554,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -23002,7 +23002,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
@@ -25982,7 +25982,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-08",
+      "date_removed": null,
       "duration_ms": 209859,
       "name": "NHA TERRA",
       "url": "https://open.spotify.com/track/4CGRP8FSHRzcuHA1hDkQk7"
@@ -26000,7 +26000,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 209859,
       "name": "Nha Terra",
       "url": "https://open.spotify.com/track/7vtV7ejdWpEXE9AZbhoCJT"
@@ -29244,6 +29244,28 @@
       "duration_ms": 164170,
       "name": "pessoa certa hora errada",
       "url": "https://open.spotify.com/track/0Rq7EzwIvsVqPPUNM3M4as"
+    },
+    {
+      "album": {
+        "name": "Pe\u00e3o Todo Tatuado",
+        "url": "https://open.spotify.com/album/1K4G4HwbkRTxwhlEOy9HWL"
+      },
+      "artists": [
+        {
+          "name": "Jeninho",
+          "url": "https://open.spotify.com/artist/6MV2UXdX8Pqy25rI7dl6os"
+        },
+        {
+          "name": "Mariana Fagundes",
+          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133563,
+      "name": "Pe\u00e3o Todo Tatuado",
+      "url": "https://open.spotify.com/track/1wrA9K1P177mkPNt9BB2OZ"
     },
     {
       "album": {
@@ -38336,7 +38358,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"

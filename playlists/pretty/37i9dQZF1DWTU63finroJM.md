@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: JBABE
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,241 likes - 29 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,249 likes - 29 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Brassen](https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde \(Deluxe\)](https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta) | 2:23 |
 | 2 | [VOY A DISPARARME](https://open.spotify.com/track/1Xv6fhX3Dg12XdP92Xb9jA) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio) | 3:14 |
 | 3 | [YENİ BİRİ](https://open.spotify.com/track/0wx08CQnNntQhnkhEq9h2r) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [YENİ BİRİ](https://open.spotify.com/album/14ZzDyIYf5mBua5zRnIldK) | 2:33 |
-| 4 | [SALSA MAGHREB](https://open.spotify.com/track/7rkSSdqz6pjhYRIXLuOXHp) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 2:11 |
-| 5 | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/track/3KQbhkqIGm1W577i5iw0gB) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [can't be blue](https://open.spotify.com/album/61f7Qz1pcOV9CmpDiWZIam) | 3:15 |
+| 4 | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/track/3KQbhkqIGm1W577i5iw0gB) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [can't be blue](https://open.spotify.com/album/61f7Qz1pcOV9CmpDiWZIam) | 3:15 |
+| 5 | [SALSA MAGHREB](https://open.spotify.com/track/7rkSSdqz6pjhYRIXLuOXHp) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 2:11 |
 | 6 | [201](https://open.spotify.com/track/4rmbkWnmeotS7o3Lgx7b8Q) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Kamm](https://open.spotify.com/artist/2Hwm56KbsXBLJWZF88kqBg), [Nav Prince](https://open.spotify.com/artist/43hVKGJyBP3vWbbMZKLQfF) | [201](https://open.spotify.com/album/0k6DgqXoQCEdsjKE7oAwsU) | 2:28 |
 | 7 | [jAGUAR](https://open.spotify.com/track/7r1xF1bYg6BMs8u5V4sAeT) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [jAGUAR](https://open.spotify.com/album/0l9CUduPknG2IUpQuSozq7) | 3:42 |
 | 8 | [Himalaya](https://open.spotify.com/track/6mRdQVSDsKkMm9qGPRstyR) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Himalaya](https://open.spotify.com/album/3F1BzuzhZ5tfPCJuR4O15K) | 3:15 |
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 11 | [Whatever It Takes \(Break Your Heart\)](https://open.spotify.com/track/5zmo0fUtVQfixc7by6G5NZ) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Whatever It Takes \(Break Your Heart\)](https://open.spotify.com/album/56CtdMCjb4yQVBXSNXsFIM) | 2:55 |
 | 12 | [under my skin](https://open.spotify.com/track/2PWyhubh6VvSTlrw5w3m6t) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [under my skin](https://open.spotify.com/album/1OVLexXEgHSqEyJCfMsSLS) | 2:46 |
 | 13 | [DIOR$AVAGE](https://open.spotify.com/track/6hJZntir08iWIAVRx8YAEh) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [DIOR$AVAGE](https://open.spotify.com/album/5NtMHvTP6K9N6xwtQ9q7R5) | 2:30 |
-| 14 | [tu non vuoi nessuno](https://open.spotify.com/track/5BIjciSrUoa2sPirUFZsgr) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [tu non vuoi nessuno](https://open.spotify.com/album/7nI3aZbxTT2xcDzvbMTp9Z) | 3:22 |
-| 15 | [Haru Biru](https://open.spotify.com/track/053AJQ01i1w3luw0QRGzUy) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t), [Daiyan Trisha](https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta) | [The First Wave](https://open.spotify.com/album/41tF99cHFAvyf11JSwWtYU) | 3:05 |
+| 14 | [Haru Biru](https://open.spotify.com/track/053AJQ01i1w3luw0QRGzUy) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t), [Daiyan Trisha](https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta) | [The First Wave](https://open.spotify.com/album/41tF99cHFAvyf11JSwWtYU) | 3:05 |
+| 15 | [tu non vuoi nessuno](https://open.spotify.com/track/5BIjciSrUoa2sPirUFZsgr) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [tu non vuoi nessuno](https://open.spotify.com/album/7nI3aZbxTT2xcDzvbMTp9Z) | 3:22 |
 | 16 | [Could've Been](https://open.spotify.com/track/5yy1SxsJf6OY3lbbR7h4ww) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Could've Been](https://open.spotify.com/album/3mYUUcwsOOzZjGvGonUukT) | 2:45 |
 | 17 | [藍染](https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [Unveilings](https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5) | 3:28 |
 | 18 | [Cries in Crocodile](https://open.spotify.com/track/2FAsIE5rXnHFxLbVgQbxYa) | [JBABE](https://open.spotify.com/artist/3c31TRttHfPOdHHVfijaby) | [A Little Larger Than The Entire Universe](https://open.spotify.com/album/6l66NGkulOLFL5HIwdnqZ2) | 3:01 |

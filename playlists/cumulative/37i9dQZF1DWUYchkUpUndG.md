@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Samuel Folabi
 
-8,461 songs - 26 day 6 hr 41 min
+8,462 songs - 26 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,8 +255,8 @@
 | [All I need](https://open.spotify.com/track/3Orl4aazpoS2d4ysPEkOsa) | [Dalimark](https://open.spotify.com/artist/0GbOuh2PSFEDTEHtEtpaIX), [Ab Central](https://open.spotify.com/artist/7e2fCmADEC45SvMhYJgEe0) | [All I need](https://open.spotify.com/album/6xFc9zbvCaAIFwYrACPKEL) | 3:49 | 2024-03-15 | 2024-03-29 |
 | [All I Need](https://open.spotify.com/track/4vmV6mDATpb0b2EWBVxoaT) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0), [Charlotte Adelle](https://open.spotify.com/artist/0vcKygkWT9xuezIG3mSUTy) | [All I Need](https://open.spotify.com/album/7K0EeJpsv14BmQvW3uizuD) | 3:06 | 2024-02-23 | 2024-03-01 |
 | [All I Need](https://open.spotify.com/track/3POO6wDiNOISVDiPFsiY0l) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [All I Need](https://open.spotify.com/album/5nUlpUbBsbb2mhc71xLMWL) | 2:58 | 2023-10-20 | 2023-11-03 |
-| [All I Need](https://open.spotify.com/track/6Ktak4jgWzsJ865fu4aqc8) | [Paul Kachala](https://open.spotify.com/artist/0awM3FLpcdgGDTT3gO2FaM), [Shyreen](https://open.spotify.com/artist/5wVL2XGolZAwVmaKs4MnGP) | [All I Need](https://open.spotify.com/album/4JjuxXhHE62lfnfTbBUMUP) | 15:45 | 2026-07-10 |  |
 | [All I Need](https://open.spotify.com/track/44uTOBInSbS2ddsVvxpQFy) | [RORE](https://open.spotify.com/artist/4es2gLCEQiV2WeeIMCdn2j) | [All I Need](https://open.spotify.com/album/3MzHyW72TjYLnFLNIJD89a) | 3:34 | 2024-10-04 | 2024-10-18 |
+| [All I Need \- Live](https://open.spotify.com/track/6Ktak4jgWzsJ865fu4aqc8) | [Paul Kachala](https://open.spotify.com/artist/0awM3FLpcdgGDTT3gO2FaM), [Shyreen](https://open.spotify.com/artist/5wVL2XGolZAwVmaKs4MnGP) | [All I Need \(Live\)](https://open.spotify.com/album/4JjuxXhHE62lfnfTbBUMUP) | 15:45 | 2026-07-10 |  |
 | [All I Want](https://open.spotify.com/track/1Hf5jfUTV7MdA3o0jVid3M) | [Dannie Spenxer](https://open.spotify.com/artist/1kgjn3JjwRu83asREa1PzP) | [All I Want](https://open.spotify.com/album/0CVI1LiPBQlY0t7iCDcUVu) | 2:50 | 2024-01-12 | 2024-01-26 |
 | [All I Want](https://open.spotify.com/track/4y8CtOVNQPenZK2ArhZE02) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [Destination!](https://open.spotify.com/album/5oMsAkJPogSjaruQA9O8OK) | 3:36 | 2023-05-19 | 2023-06-02 |
 | [ALL I WANT](https://open.spotify.com/track/5H4XvFQKWdHGtUNBf282kz) | [Macjosh](https://open.spotify.com/artist/4BqqI6vV1XdB5UbH2qhXak) | [ALL I WANT](https://open.spotify.com/album/1ZdTVup0DzP4t5rrPmzERY) | 3:06 | 2025-06-27 | 2025-07-11 |
@@ -8305,6 +8305,7 @@
 | [You Hold It All \(Live\)](https://open.spotify.com/track/4zEVvXVbb3YnawfVzCns2V) | [Rivers Worship](https://open.spotify.com/artist/57XcYA50Fcakr6lTthQkaQ) | [You Hold It All \(Live\)](https://open.spotify.com/album/7sDNjVebOl2NSCqguNzxiV) | 6:59 | 2024-03-29 | 2024-04-05 |
 | [You Hold My Hand](https://open.spotify.com/track/2PgS6xqCCMwskRXngkqzoX) | [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj), [Stonelo](https://open.spotify.com/artist/6gj2OYv2QQsyICck6amPRL) | [You Hold My Hand](https://open.spotify.com/album/7wnlAbSh8n1KPtEiFprhnP) | 3:04 | 2025-03-07 | 2025-03-14 |
 | [You Jah \- Acoustic](https://open.spotify.com/track/3A6f0li9nIbypDiTKYGWYq) | [KEDI](https://open.spotify.com/artist/3MHFc62uVV1SoSxWEyMG0c) | [You Jah \(Acoustic\)](https://open.spotify.com/album/7B7LkFORbdB36dflmfULQA) | 4:28 | 2023-08-25 | 2023-09-01 |
+| [You Keep Doing Wonders](https://open.spotify.com/track/294AGxsK9yTvXBWJODeFuj) | [Aity Dennis](https://open.spotify.com/artist/1l0qOoaa2mNBXFPJCEPDZa) | [You Keep Doing Wonders](https://open.spotify.com/album/51DDb61RN6wzwhcngtD2D0) | 4:34 | 2026-07-10 |  |
 | [You Know](https://open.spotify.com/track/6US0rhvD5zq5U9EZE7tvmW) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [Aeno](https://open.spotify.com/artist/4uUqQm31KnYXSZ1bjNmMlh), [Cee Emtee](https://open.spotify.com/artist/12mhfZhybTbrNzyxpZmDjE) | [You Know](https://open.spotify.com/album/3O1maNVb2DhRZLDjsQpEQp) | 2:31 | 2024-01-05 | 2024-01-19 |
 | [You Know My Name](https://open.spotify.com/track/1vGuyMT2UdK074offX8moP) | [Brenton Brown](https://open.spotify.com/artist/3oZR0tAkfIn1YmLe1faQST) | [You Know My Name](https://open.spotify.com/album/3stuzgIuujxby5vyjzin6b) | 4:49 | 2026-03-06 | 2026-03-20 |
 | [You Light up My World](https://open.spotify.com/track/3tOpvUIflyoYJOGF8XgnfL) | [Rayen Drapper](https://open.spotify.com/artist/5q4vaBtxc1QBQADgAw8Idw), [The Excentric](https://open.spotify.com/artist/3XrrUDnJSH7bX0DEbSUCu3) | [You Light up My World](https://open.spotify.com/album/3o8LzmiJVGc8Hv800JhMIa) | 2:17 | 2025-06-20 | 2025-06-27 |

@@ -1,6 +1,6 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 140492,
+  "num_followers": 140532,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "The Magic Of Manuel",
-        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
-      },
-      "artists": [
-        {
-          "name": "Manuel & The Music Of The Mountains",
-          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Moonglow and Theme from Picnic",
-      "url": "https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
         "name": "Wonderland By Night",
         "url": "https://open.spotify.com/album/4NJgRrbHDkPMBMkup98HpB"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 195226,
       "name": "Wonderland By Night (Wunderland bei Nacht)",
       "url": "https://open.spotify.com/track/5Ik1BD4gKzxofvNgSRQbCF"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
+        "name": "The Magic Of Manuel",
+        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
+      },
+      "artists": [
+        {
+          "name": "Manuel & The Music Of The Mountains",
+          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Moonglow and Theme from Picnic",
+      "url": "https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -391,34 +391,18 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "Till",
-        "url": "https://open.spotify.com/album/6oEP9qsYfOmRH6BK0TEQ6P"
+        "name": "Games That Lovers Play",
+        "url": "https://open.spotify.com/album/2H5ZaikJttXkNHJEgA5n8i"
       },
       "artists": [
         {
-          "name": "Roger Williams",
-          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
+          "name": "James Last",
+          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
         }
       ],
-      "duration_ms": 161626,
-      "name": "The High And The Mighty",
-      "url": "https://open.spotify.com/track/0BBOVCgaSdgGs9ClgM6men"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
-        "name": "The Magic Of Manuel",
-        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
-      },
-      "artists": [
-        {
-          "name": "Manuel & The Music Of The Mountains",
-          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "Fools Rush In (Where Angels Fear to Tread)",
-      "url": "https://open.spotify.com/track/4WYZuhsa8idA4kPDPsNY6B"
+      "duration_ms": 151973,
+      "name": "Games That Lovers Play",
+      "url": "https://open.spotify.com/track/1DIhGrVGZamMWrsV0U3maT"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -439,6 +423,22 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
+        "name": "The Magic Of Manuel",
+        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
+      },
+      "artists": [
+        {
+          "name": "Manuel & The Music Of The Mountains",
+          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "Fools Rush In (Where Angels Fear to Tread)",
+      "url": "https://open.spotify.com/track/4WYZuhsa8idA4kPDPsNY6B"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
         "name": "Music, Martinis And Memories",
         "url": "https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA"
       },
@@ -455,18 +455,18 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "Games That Lovers Play",
-        "url": "https://open.spotify.com/album/2H5ZaikJttXkNHJEgA5n8i"
+        "name": "Till",
+        "url": "https://open.spotify.com/album/6oEP9qsYfOmRH6BK0TEQ6P"
       },
       "artists": [
         {
-          "name": "James Last",
-          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
+          "name": "Roger Williams",
+          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
         }
       ],
-      "duration_ms": 151973,
-      "name": "Games That Lovers Play",
-      "url": "https://open.spotify.com/track/1DIhGrVGZamMWrsV0U3maT"
+      "duration_ms": 161626,
+      "name": "The High And The Mighty",
+      "url": "https://open.spotify.com/track/0BBOVCgaSdgGs9ClgM6men"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
+        "name": "Charade",
+        "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 183460,
+      "name": "Megeve",
+      "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
         "name": "Music For Lovers Only",
         "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "Charade",
-        "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 183460,
-      "name": "Megeve",
-      "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
         "name": "American Serenade",
         "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
       },
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "And Awaaay We Go! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3K0zalfzD0tX4s2t4fT6EP"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Melancholy Serenade",
-      "url": "https://open.spotify.com/track/7c60uLULZWjeju80wHtxGw"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
         "name": "Beyond The Sea",
         "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 191066,
       "name": "Stranger On The Shore",
       "url": "https://open.spotify.com/track/2pV4gOJ8bzwuz5zGbF1yRb"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
+        "name": "And Awaaay We Go! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3K0zalfzD0tX4s2t4fT6EP"
+      },
+      "artists": [
+        {
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Melancholy Serenade",
+      "url": "https://open.spotify.com/track/7c60uLULZWjeju80wHtxGw"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "Around the World, Vol. 2",
-        "url": "https://open.spotify.com/album/6NIUBR0tGunCCzgtGg6i8e"
-      },
-      "artists": [
-        {
-          "name": "Frank Chacksfield Orchestra",
-          "url": "https://open.spotify.com/artist/4p9uMiH2i6QPYGXx3WmpVi"
-        }
-      ],
-      "duration_ms": 148053,
-      "name": "Majorcan Holiday",
-      "url": "https://open.spotify.com/track/4Tf26KSoemitC17Ik00ViE"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
         "name": "My Parade of Golden Favorites",
         "url": "https://open.spotify.com/album/7tE485LJM6J9FgJgxBpfVs"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 172973,
       "name": "Over the Rainbow",
       "url": "https://open.spotify.com/track/1Ddu0OlbuSq2DEXQWUHbpE"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
+        "name": "Around the World, Vol. 2",
+        "url": "https://open.spotify.com/album/6NIUBR0tGunCCzgtGg6i8e"
+      },
+      "artists": [
+        {
+          "name": "Frank Chacksfield Orchestra",
+          "url": "https://open.spotify.com/artist/4p9uMiH2i6QPYGXx3WmpVi"
+        }
+      ],
+      "duration_ms": 148053,
+      "name": "Majorcan Holiday",
+      "url": "https://open.spotify.com/track/4Tf26KSoemitC17Ik00ViE"
     },
     {
       "added_at": "2026-07-03 07:47:02",

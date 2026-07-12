@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Hearts2Hearts
 
-3,022 songs - 6 day 23 hr 21 min
+3,023 songs - 6 day 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -702,7 +702,7 @@
 | [Drôle d'idée](https://open.spotify.com/track/6i1UsvMjIi1oH7UAkrUilN) | [Alexia Gredy](https://open.spotify.com/artist/2LZ44MLhhXG2SlHhWUOGXg) | [Drôle d'idée](https://open.spotify.com/album/75yNAaG0mniCfzOOqL6e9h) | 2:37 | 2022-01-05 | 2022-02-03 |
 | [Dua Sejoli](https://open.spotify.com/track/1olV4sMH1nQ9GPXTyJYTlQ) | [Titiek Puspa](https://open.spotify.com/artist/3xNnuifrhhASrcBsxQb5G1) | [69 Tahun Perjalanan Karir Titiek Puspa](https://open.spotify.com/album/78CUB4rZiAFctJvtaLBeRf) | 3:34 | 2023-05-03 | 2023-06-08 |
 | [Dude](https://open.spotify.com/track/1BGu0LjKQfC63QBaRMYc66) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [Dude](https://open.spotify.com/album/2NfRYje8N8j6nwTbAVxp9B) | 2:40 | 2022-02-02 | 2022-03-09 |
-| [Dwa słońca](https://open.spotify.com/track/5Ax2sqg4Yx4SJrPyKzG4ru) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg), [BELA](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Dwa słońca](https://open.spotify.com/album/4PDs9jOvqkvUjMo3ByG5Tp) | 3:17 | 2026-05-06 |  |
+| [Dwa słońca](https://open.spotify.com/track/5Ax2sqg4Yx4SJrPyKzG4ru) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg), [BELA](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Dwa słońca](https://open.spotify.com/album/4PDs9jOvqkvUjMo3ByG5Tp) | 3:17 | 2026-05-06 | 2026-07-12 |
 | [DYNAMITE](https://open.spotify.com/track/7MOXP0ZdRqWUTYz44BpsHY) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk) | [DYNAMITE](https://open.spotify.com/album/34PiZyEGOyoXAe0HE1N2al) | 2:53 | 2022-05-04 | 2022-06-01 |
 | [Dziewczyna z tatuażem](https://open.spotify.com/track/2Vj7I6BgiUEsCOI2gZiY5Q) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Dziewczyna z tatuażem](https://open.spotify.com/album/4lk4BJI6KHPfgVW1Mb28Re) | 5:04 | 2022-10-04 | 2022-11-03 |
 | [Dzisiaj przychodzi on](https://open.spotify.com/track/6oxRENLxHBG8wjObGx3YIk) | [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM) | [Dzisiaj przychodzi on](https://open.spotify.com/album/62UFJKU6L8intdjOf1BFG7) | 5:29 | 2025-11-06 | 2025-12-04 |
@@ -2076,6 +2076,7 @@
 | [Raanjha \- Spotify Singles](https://open.spotify.com/track/2Xi2rN0Awghch9seTfDmge) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Raanjha \- Spotify Singles](https://open.spotify.com/album/644jvb8ZYS8ySgtUrXM8T0) | 2:23 | 2023-04-05 | 2023-05-04 |
 | [Raat Ki Rani](https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 5:13 | 2024-12-04 | 2025-01-09 |
 | [Raat Ki Rani](https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Raat Ki Rani](https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx) | 5:13 | 2024-05-02 | 2024-05-16 |
+| [Rabszolga](https://open.spotify.com/track/51IUF2k7kR8AtY3dPyg4jU) | [Sofi](https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK) | [Rabszolga](https://open.spotify.com/album/1DoyH26hV9YfqSDTCSeqPT) | 2:19 | 2026-07-01 |  |
 | [Racing Horse](https://open.spotify.com/track/30sOALtzI887FK0MWUeo2y) | [Kimmese](https://open.spotify.com/artist/4w5vfLTFKwpd16ZzmYwcXA), [Pain A.K.A Dai Ca P](https://open.spotify.com/artist/4b6YJa43oNQEoGWqilql4m) | [FTOK](https://open.spotify.com/album/0SPyp6rOaeAbWQQAHJPMTU) | 4:02 | 2024-01-10 | 2024-02-08 |
 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 | 2023-07-05 | 2023-08-03 |
 | [Raga](https://open.spotify.com/track/0P3YLLto0LmRo7z6o0Cyz9) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [centyl](https://open.spotify.com/album/0Pr2kArP3CrD7P32rZ9JMF) | 2:36 | 2025-11-06 | 2025-12-04 |

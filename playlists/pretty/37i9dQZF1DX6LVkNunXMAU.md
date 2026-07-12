@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Folk latino de estación\. Foto: Yorka & Feli Colina
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,249 likes - 90 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,251 likes - 90 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 89 | [Si Llega el Desastre](https://open.spotify.com/track/3671YCKEwXXgQJ6q67OFlm) | [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM) | [Si Llega el Desastre](https://open.spotify.com/album/0qiEOnpVrGHEoV9MpC9AGz) | 3:18 |
 | 90 | [Niño Bosque](https://open.spotify.com/track/3NgFZGH2w9BqkNVyxsBP1X) | [María Morgade](https://open.spotify.com/artist/5916I1sGtfQ3ugjsbS3NjF) | [Niño Bosque](https://open.spotify.com/album/0X7lBPRO37oNovgx6tdPN5) | 2:56 |
 
-Snapshot ID: `AAAAAPSmsDJQxSSCybbZZSqIpt5w2uu9`
+Snapshot ID: `AAAAAP5jWOMuF/rtt0Hek12g9GksfKmL`

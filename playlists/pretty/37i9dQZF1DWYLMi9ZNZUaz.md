@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RPT MCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,922 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,932 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 38 | [Hồng không gai](https://open.spotify.com/track/3PJbFJImi0QMxDCUKFBfbU) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [SpideyBoy](https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF) | [TO LOVE AND BE LOVED](https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ) | 3:44 |
 | 39 | [Berlin](https://open.spotify.com/track/32K6zBYFUUxKrdsoZd7k3v) | [Khoi Vu](https://open.spotify.com/artist/71Cy7nzbfpuGJAS5FGxm93) | [Berlin](https://open.spotify.com/album/5mIp41bAjfCpYSCompU7cE) | 2:18 |
 | 40 | [TETVOVEN](https://open.spotify.com/track/72ictTz6o0dusD2QpCn4bn) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Machiot](https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh) | [TETVOVEN](https://open.spotify.com/album/3jwSlUKUdfxcIuy3b2SCxc) | 3:17 |
-| 41 | [HOP ON DA SHOW](https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [HOP ON DA SHOW](https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb) | 2:55 |
-| 42 | [ABG](https://open.spotify.com/track/4oHNffwl7J3lMBNjvcYue2) | [nhan.](https://open.spotify.com/artist/6Ju8OqJkXqr9lRIGx9Vs6t), [Xuanpac](https://open.spotify.com/artist/53aQsVsBVoFXO0FAhgVCPM) | [ABG](https://open.spotify.com/album/5wSNbLGJ4o9HcBuwfAf84l) | 3:00 |
+| 41 | [ABG](https://open.spotify.com/track/4oHNffwl7J3lMBNjvcYue2) | [nhan.](https://open.spotify.com/artist/6Ju8OqJkXqr9lRIGx9Vs6t), [Xuanpac](https://open.spotify.com/artist/53aQsVsBVoFXO0FAhgVCPM) | [ABG](https://open.spotify.com/album/5wSNbLGJ4o9HcBuwfAf84l) | 3:00 |
+| 42 | [HOP ON DA SHOW](https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [HOP ON DA SHOW](https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb) | 2:55 |
 | 43 | [Mắt Bão](https://open.spotify.com/track/2aoGg3figtbrChUCZIopCK) | [Tọi](https://open.spotify.com/artist/1aVkG16ZfTc5XJ9qP7ti7i), [Long Nón Lá](https://open.spotify.com/artist/4XPmkusoYLS1cvgpHgQjiB), [Phương Nghiêm](https://open.spotify.com/artist/28GaoT4pqYOP6yiYsIlzay) | [Mắt Bão](https://open.spotify.com/album/0xZX8yjyrkRAVPdasLWNF7) | 4:19 |
 | 44 | [Còn Ai Ngoài Anh Với Em](https://open.spotify.com/track/0BR4Hdge19djSuyrU0kT9F) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Cho Bảo](https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9) | 4:04 |
-| 45 | [Panorama](https://open.spotify.com/track/6gmvd9Lld9MiNR9r6I9eFE) | [Richie D\. ICY](https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [Panorama](https://open.spotify.com/album/3Qsp8mywrgRP9hZ9cHe0xH) | 3:25 |
-| 46 | [Nợ \(feat\. Hà Lê\)](https://open.spotify.com/track/63IS4xfPdOKsajtMi4U0FP) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Hà Lê](https://open.spotify.com/artist/0hWPa5etsuzHraxEq4xt6U) | [Gặp Lại](https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4) | 3:53 |
-| 47 | [Sắp Nổi Tiếng 2](https://open.spotify.com/track/5UUNrCgGtC6JOrATM3y3ZT) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Mắt Nhắm Mắt Mở](https://open.spotify.com/album/0f0fmMVSSKpTeKOHXrP9El) | 3:24 |
-| 48 | [Em Bé](https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve), [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F) | [Em Bé](https://open.spotify.com/album/4h6b472LS8MBZuNZzKQQDN) | 3:12 |
+| 45 | [Em Bé](https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve), [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F) | [Em Bé](https://open.spotify.com/album/4h6b472LS8MBZuNZzKQQDN) | 3:12 |
+| 46 | [Panorama](https://open.spotify.com/track/6gmvd9Lld9MiNR9r6I9eFE) | [Richie D\. ICY](https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [Panorama](https://open.spotify.com/album/3Qsp8mywrgRP9hZ9cHe0xH) | 3:25 |
+| 47 | [Muốn anh đau](https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [Hustlang Robber](https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv) | [TO LOVE AND BE LOVED](https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ) | 5:40 |
+| 48 | [Sắp Nổi Tiếng 2](https://open.spotify.com/track/5UUNrCgGtC6JOrATM3y3ZT) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Mắt Nhắm Mắt Mở](https://open.spotify.com/album/0f0fmMVSSKpTeKOHXrP9El) | 3:24 |
 | 49 | [Anh Luôn Như Vậy](https://open.spotify.com/track/3CyGK8BeJ5iCunpzvHyINs) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Anh Luôn Như Vậy](https://open.spotify.com/album/7ev0TaSrDUDTgSeEVmYi2F) | 3:32 |
-| 50 | [Muốn anh đau](https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [Hustlang Robber](https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv) | [TO LOVE AND BE LOVED](https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ) | 5:40 |
+| 50 | [Nợ \(feat\. Hà Lê\)](https://open.spotify.com/track/63IS4xfPdOKsajtMi4U0FP) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Hà Lê](https://open.spotify.com/artist/0hWPa5etsuzHraxEq4xt6U) | [Gặp Lại](https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4) | 3:53 |
 
-Snapshot ID: `AAAAABNgnS7klVORxeN3eq7Ta/OAqfFw`
+Snapshot ID: `AAAAAJ78iNdsyqljI9U5APCaBQEgnKFO`

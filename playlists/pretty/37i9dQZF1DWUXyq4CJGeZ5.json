@@ -1,12 +1,12 @@
 {
   "description": "Piano music for fall vibes and autumnal moods.",
-  "num_followers": 82437,
+  "num_followers": 82440,
   "original_name": "Autumn Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGBChHhvCvqmTGTefXUUsxy+vWkC",
+  "snapshot_id": "AAAAAEGhmVPpp0o2sj62k3awYzkCIBTM",
   "tracks": [
     {
       "added_at": "2026-07-03 04:00:38",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-07-03 04:00:38",
       "album": {
-        "name": "Warm Embrace",
-        "url": "https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY"
-      },
-      "artists": [
-        {
-          "name": "Ann Hildering",
-          "url": "https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx"
-        }
-      ],
-      "duration_ms": 163072,
-      "name": "Warm Embrace",
-      "url": "https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp"
-    },
-    {
-      "added_at": "2026-07-03 04:00:38",
-      "album": {
         "name": "Elegie",
         "url": "https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 169349,
       "name": "Elegie",
       "url": "https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs"
+    },
+    {
+      "added_at": "2026-07-03 04:00:38",
+      "album": {
+        "name": "Warm Embrace",
+        "url": "https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY"
+      },
+      "artists": [
+        {
+          "name": "Ann Hildering",
+          "url": "https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx"
+        }
+      ],
+      "duration_ms": 163072,
+      "name": "Warm Embrace",
+      "url": "https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp"
     },
     {
       "added_at": "2026-07-03 04:00:38",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-07-03 04:00:38",
       "album": {
-        "name": "Hat full of candles",
-        "url": "https://open.spotify.com/album/6egJetQktX1XDBVLpAcvOe"
-      },
-      "artists": [
-        {
-          "name": "Lupe Sinsonte",
-          "url": "https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Hat full of candles",
-      "url": "https://open.spotify.com/track/3Ap6yfaMLSbcHsTcx5Y967"
-    },
-    {
-      "added_at": "2026-07-03 04:00:38",
-      "album": {
         "name": "Irreversible",
         "url": "https://open.spotify.com/album/0MQWtPXU0Rxr4PAf5k1hmh"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 146000,
       "name": "Purity",
       "url": "https://open.spotify.com/track/3iyNoFOyMTZU1SdGbnmdy6"
+    },
+    {
+      "added_at": "2026-07-03 04:00:38",
+      "album": {
+        "name": "Hat full of candles",
+        "url": "https://open.spotify.com/album/6egJetQktX1XDBVLpAcvOe"
+      },
+      "artists": [
+        {
+          "name": "Lupe Sinsonte",
+          "url": "https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Hat full of candles",
+      "url": "https://open.spotify.com/track/3Ap6yfaMLSbcHsTcx5Y967"
     },
     {
       "added_at": "2026-07-03 04:00:38",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-07-03 04:00:38",
       "album": {
-        "name": "Lightly",
-        "url": "https://open.spotify.com/album/1oCJH1dhSedRzZJUnWs4l2"
-      },
-      "artists": [
-        {
-          "name": "Mika Chastain",
-          "url": "https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN"
-        }
-      ],
-      "duration_ms": 127099,
-      "name": "Lightly",
-      "url": "https://open.spotify.com/track/3azv8GfmcsSNoqYQPed4wN"
-    },
-    {
-      "added_at": "2026-07-03 04:00:38",
-      "album": {
         "name": "Answer With Light",
         "url": "https://open.spotify.com/album/73ONbpwmVtKFKWFPkPq2dE"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 141500,
       "name": "Answer With Light",
       "url": "https://open.spotify.com/track/51bCmUlVILY4qBFkm2t0Km"
+    },
+    {
+      "added_at": "2026-07-03 04:00:38",
+      "album": {
+        "name": "Lightly",
+        "url": "https://open.spotify.com/album/1oCJH1dhSedRzZJUnWs4l2"
+      },
+      "artists": [
+        {
+          "name": "Mika Chastain",
+          "url": "https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN"
+        }
+      ],
+      "duration_ms": 127099,
+      "name": "Lightly",
+      "url": "https://open.spotify.com/track/3azv8GfmcsSNoqYQPed4wN"
     },
     {
       "added_at": "2026-07-03 04:00:38",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2026-07-03 04:00:38",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/05ivnxOIaNNAj3zBFFNnpO"
+        "name": "Gentle Rain",
+        "url": "https://open.spotify.com/album/6fJWGy6aB5DgyaanfVcCOn"
       },
       "artists": [
         {
-          "name": "Eric de Jot\u00e9",
-          "url": "https://open.spotify.com/artist/0JEX9uWA6GolbCcaqfD6rL"
+          "name": "Antoine Faur\u00e9",
+          "url": "https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL"
         }
       ],
-      "duration_ms": 145876,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0NVVI7x68BZqFXWsNkfNMv"
+      "duration_ms": 113134,
+      "name": "Gentle Rain",
+      "url": "https://open.spotify.com/track/4i752Jsn4oHtKWgeynuhBJ"
     },
     {
       "added_at": "2026-07-03 04:00:38",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2026-07-03 04:00:38",
       "album": {
-        "name": "Gentle Rain",
-        "url": "https://open.spotify.com/album/6fJWGy6aB5DgyaanfVcCOn"
+        "name": "You",
+        "url": "https://open.spotify.com/album/05ivnxOIaNNAj3zBFFNnpO"
       },
       "artists": [
         {
-          "name": "Antoine Faur\u00e9",
-          "url": "https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL"
+          "name": "Eric de Jot\u00e9",
+          "url": "https://open.spotify.com/artist/0JEX9uWA6GolbCcaqfD6rL"
         }
       ],
-      "duration_ms": 113134,
-      "name": "Gentle Rain",
-      "url": "https://open.spotify.com/track/4i752Jsn4oHtKWgeynuhBJ"
+      "duration_ms": 145876,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0NVVI7x68BZqFXWsNkfNMv"
     },
     {
       "added_at": "2026-07-03 04:00:38",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2026-07-03 04:00:38",
       "album": {
+        "name": "feels like home",
+        "url": "https://open.spotify.com/album/6pN0ppTy0rliZ8OkoPBKmL"
+      },
+      "artists": [
+        {
+          "name": "Ash Forrest",
+          "url": "https://open.spotify.com/artist/6hoYRcfEHX7qRbBvQpoGCV"
+        }
+      ],
+      "duration_ms": 141252,
+      "name": "feels like home",
+      "url": "https://open.spotify.com/track/3v1M7kq2L1wgRKXgWuY3N3"
+    },
+    {
+      "added_at": "2026-07-03 04:00:38",
+      "album": {
         "name": "The Beginning",
         "url": "https://open.spotify.com/album/4Y5btjkWzLtRnCvZZxxaDA"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 137519,
       "name": "For Kate",
       "url": "https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou"
-    },
-    {
-      "added_at": "2026-07-03 04:00:38",
-      "album": {
-        "name": "feels like home",
-        "url": "https://open.spotify.com/album/6pN0ppTy0rliZ8OkoPBKmL"
-      },
-      "artists": [
-        {
-          "name": "Ash Forrest",
-          "url": "https://open.spotify.com/artist/6hoYRcfEHX7qRbBvQpoGCV"
-        }
-      ],
-      "duration_ms": 141252,
-      "name": "feels like home",
-      "url": "https://open.spotify.com/track/3v1M7kq2L1wgRKXgWuY3N3"
     },
     {
       "added_at": "2026-07-03 04:00:38",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-07-03 04:00:38",
       "album": {
-        "name": "November Afternoon",
-        "url": "https://open.spotify.com/album/3gnz8xSMPlA2lJxoPhb4oe"
-      },
-      "artists": [
-        {
-          "name": "Rudy Bloom",
-          "url": "https://open.spotify.com/artist/6kw1TTFYSs8rMUKWOm7kTI"
-        }
-      ],
-      "duration_ms": 148549,
-      "name": "November Afternoon",
-      "url": "https://open.spotify.com/track/0lMNLswdGdZh92jglAl7iY"
-    },
-    {
-      "added_at": "2026-07-03 04:00:38",
-      "album": {
         "name": "Orpheus",
         "url": "https://open.spotify.com/album/5u6J1xnvJzVgBaSDhMIABv"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 207253,
       "name": "Orpheus",
       "url": "https://open.spotify.com/track/7AWRvkdNrKwbOtAdwrala2"
+    },
+    {
+      "added_at": "2026-07-03 04:00:38",
+      "album": {
+        "name": "November Afternoon",
+        "url": "https://open.spotify.com/album/3gnz8xSMPlA2lJxoPhb4oe"
+      },
+      "artists": [
+        {
+          "name": "Rudy Bloom",
+          "url": "https://open.spotify.com/artist/6kw1TTFYSs8rMUKWOm7kTI"
+        }
+      ],
+      "duration_ms": 148549,
+      "name": "November Afternoon",
+      "url": "https://open.spotify.com/track/0lMNLswdGdZh92jglAl7iY"
     },
     {
       "added_at": "2026-07-03 04:00:38",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-07-03 04:00:38",
       "album": {
-        "name": "Oktobervals",
-        "url": "https://open.spotify.com/album/40mVqyNnl4FDZyl6Fc1EDS"
-      },
-      "artists": [
-        {
-          "name": "Christian Peterson-Bergling",
-          "url": "https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Oktobervals",
-      "url": "https://open.spotify.com/track/4icmGX5PB2GEVBzE6dDdZD"
-    },
-    {
-      "added_at": "2026-07-03 04:00:38",
-      "album": {
         "name": "Porcelain Hands",
         "url": "https://open.spotify.com/album/2r70QxdddM0IU6gy6zJHOC"
       },
@@ -1711,18 +1695,18 @@
     {
       "added_at": "2026-07-03 04:00:38",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/0C83mcs8JuXEmndmauE2YJ"
+        "name": "Oktobervals",
+        "url": "https://open.spotify.com/album/40mVqyNnl4FDZyl6Fc1EDS"
       },
       "artists": [
         {
-          "name": "Rudy Bloom",
-          "url": "https://open.spotify.com/artist/6kw1TTFYSs8rMUKWOm7kTI"
+          "name": "Christian Peterson-Bergling",
+          "url": "https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH"
         }
       ],
-      "duration_ms": 132259,
-      "name": "Embrace",
-      "url": "https://open.spotify.com/track/0yuTiErpeB1DsVR1mzKzGI"
+      "duration_ms": 148000,
+      "name": "Oktobervals",
+      "url": "https://open.spotify.com/track/4icmGX5PB2GEVBzE6dDdZD"
     },
     {
       "added_at": "2026-07-03 04:00:38",
@@ -1743,6 +1727,22 @@
     {
       "added_at": "2026-07-03 04:00:38",
       "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/0C83mcs8JuXEmndmauE2YJ"
+      },
+      "artists": [
+        {
+          "name": "Rudy Bloom",
+          "url": "https://open.spotify.com/artist/6kw1TTFYSs8rMUKWOm7kTI"
+        }
+      ],
+      "duration_ms": 132259,
+      "name": "Embrace",
+      "url": "https://open.spotify.com/track/0yuTiErpeB1DsVR1mzKzGI"
+    },
+    {
+      "added_at": "2026-07-03 04:00:38",
+      "album": {
         "name": "Le cr\u00e9puscule",
         "url": "https://open.spotify.com/album/1cAX6wAWRCGmWOez2FkJkK"
       },
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2026-07-03 04:00:38",
       "album": {
-        "name": "For Annemieke",
-        "url": "https://open.spotify.com/album/5WZbdzE2PigFpUn4IpwEe1"
+        "name": "Helligvaer",
+        "url": "https://open.spotify.com/album/29Xn4EC2TtRXPn9RYp58Ao"
       },
       "artists": [
         {
-          "name": "Ron Adelaar",
-          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+          "name": "Dwight Rivera",
+          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
         }
       ],
-      "duration_ms": 132750,
-      "name": "For Annemieke",
-      "url": "https://open.spotify.com/track/6d8UCO1LCZUsDRUcN2hBUs"
+      "duration_ms": 154819,
+      "name": "The Shadow Of The Wind",
+      "url": "https://open.spotify.com/track/6FTgfZZTT8Z60nMoI5efst"
     },
     {
       "added_at": "2026-07-03 04:00:38",
@@ -1791,18 +1791,18 @@
     {
       "added_at": "2026-07-03 04:00:38",
       "album": {
-        "name": "Helligvaer",
-        "url": "https://open.spotify.com/album/29Xn4EC2TtRXPn9RYp58Ao"
+        "name": "For Annemieke",
+        "url": "https://open.spotify.com/album/5WZbdzE2PigFpUn4IpwEe1"
       },
       "artists": [
         {
-          "name": "Dwight Rivera",
-          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
         }
       ],
-      "duration_ms": 154819,
-      "name": "The Shadow Of The Wind",
-      "url": "https://open.spotify.com/track/6FTgfZZTT8Z60nMoI5efst"
+      "duration_ms": 132750,
+      "name": "For Annemieke",
+      "url": "https://open.spotify.com/track/6d8UCO1LCZUsDRUcN2hBUs"
     },
     {
       "added_at": "2026-07-03 04:00:38",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2026-07-03 04:00:38",
       "album": {
+        "name": "Charleston",
+        "url": "https://open.spotify.com/album/3B4D8NQMO3e4ab4obAX5UG"
+      },
+      "artists": [
+        {
+          "name": "Tiny Rhino",
+          "url": "https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4"
+        }
+      ],
+      "duration_ms": 142634,
+      "name": "Girandel",
+      "url": "https://open.spotify.com/track/4MMelETKhj2Da5bw2jgGe8"
+    },
+    {
+      "added_at": "2026-07-03 04:00:38",
+      "album": {
         "name": "The Shades of Autumn",
         "url": "https://open.spotify.com/album/2W2E8WP1OYmuRQwGMvYZkh"
       },
@@ -1967,22 +1983,6 @@
     {
       "added_at": "2026-07-03 04:00:38",
       "album": {
-        "name": "Charleston",
-        "url": "https://open.spotify.com/album/3B4D8NQMO3e4ab4obAX5UG"
-      },
-      "artists": [
-        {
-          "name": "Tiny Rhino",
-          "url": "https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4"
-        }
-      ],
-      "duration_ms": 142634,
-      "name": "Girandel",
-      "url": "https://open.spotify.com/track/4MMelETKhj2Da5bw2jgGe8"
-    },
-    {
-      "added_at": "2026-07-03 04:00:38",
-      "album": {
         "name": "Endurance",
         "url": "https://open.spotify.com/album/5wRG9WG9KDbZUQksAdD42N"
       },
@@ -2011,6 +2011,22 @@
       "duration_ms": 159650,
       "name": "We Persist",
       "url": "https://open.spotify.com/track/5cWCVoVOHjhUNm0I3JE06l"
+    },
+    {
+      "added_at": "2026-07-03 04:00:38",
+      "album": {
+        "name": "Mullaghmore",
+        "url": "https://open.spotify.com/album/1u70tWIRZIlF133Z83IXfr"
+      },
+      "artists": [
+        {
+          "name": "Calan McIntyre",
+          "url": "https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz"
+        }
+      ],
+      "duration_ms": 122766,
+      "name": "Mullaghmore",
+      "url": "https://open.spotify.com/track/0uFGCfcqs595Q0ptklBeUt"
     },
     {
       "added_at": "2026-07-03 04:00:38",
@@ -2063,22 +2079,6 @@
     {
       "added_at": "2026-07-03 04:00:38",
       "album": {
-        "name": "Mullaghmore",
-        "url": "https://open.spotify.com/album/1u70tWIRZIlF133Z83IXfr"
-      },
-      "artists": [
-        {
-          "name": "Calan McIntyre",
-          "url": "https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz"
-        }
-      ],
-      "duration_ms": 122766,
-      "name": "Mullaghmore",
-      "url": "https://open.spotify.com/track/0uFGCfcqs595Q0ptklBeUt"
-    },
-    {
-      "added_at": "2026-07-03 04:00:38",
-      "album": {
         "name": "Orangel",
         "url": "https://open.spotify.com/album/4aoMGEzd9l0J16LZcd7pdb"
       },
@@ -2091,6 +2091,22 @@
       "duration_ms": 147529,
       "name": "Orangel",
       "url": "https://open.spotify.com/track/6fAmI7T6PjgiMcandgJ6ab"
+    },
+    {
+      "added_at": "2026-07-03 04:00:38",
+      "album": {
+        "name": "Before Dawn",
+        "url": "https://open.spotify.com/album/4v89u5szEzd1HZbltZ8KPq"
+      },
+      "artists": [
+        {
+          "name": "Shaunta Coburn",
+          "url": "https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX"
+        }
+      ],
+      "duration_ms": 137124,
+      "name": "Before Dawn",
+      "url": "https://open.spotify.com/track/42mnMZ6db1BFIzrW89JpoU"
     },
     {
       "added_at": "2026-07-03 04:00:38",
@@ -2123,22 +2139,6 @@
       "duration_ms": 123892,
       "name": "Fjardsdal",
       "url": "https://open.spotify.com/track/1ccLHt0aEkckZKgysxn134"
-    },
-    {
-      "added_at": "2026-07-03 04:00:38",
-      "album": {
-        "name": "Before Dawn",
-        "url": "https://open.spotify.com/album/4v89u5szEzd1HZbltZ8KPq"
-      },
-      "artists": [
-        {
-          "name": "Shaunta Coburn",
-          "url": "https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX"
-        }
-      ],
-      "duration_ms": 137124,
-      "name": "Before Dawn",
-      "url": "https://open.spotify.com/track/42mnMZ6db1BFIzrW89JpoU"
     },
     {
       "added_at": "2026-07-03 04:00:38",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2026-07-03 04:00:38",
       "album": {
-        "name": "Nachtvogel",
-        "url": "https://open.spotify.com/album/1ZBeC4dVVod4hgdXU4aij2"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Schulmann",
-          "url": "https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "Watzmann",
-      "url": "https://open.spotify.com/track/0LTym92HfbaGJLCqYlmK9O"
-    },
-    {
-      "added_at": "2026-07-03 04:00:38",
-      "album": {
         "name": "L'autunno",
         "url": "https://open.spotify.com/album/5RgG1uA2oFXVdPjFeOqlS2"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 146054,
       "name": "L'autunno",
       "url": "https://open.spotify.com/track/34XblyhjvYRFtfaQQn0AnF"
+    },
+    {
+      "added_at": "2026-07-03 04:00:38",
+      "album": {
+        "name": "Nachtvogel",
+        "url": "https://open.spotify.com/album/1ZBeC4dVVod4hgdXU4aij2"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Schulmann",
+          "url": "https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Watzmann",
+      "url": "https://open.spotify.com/track/0LTym92HfbaGJLCqYlmK9O"
     },
     {
       "added_at": "2026-07-03 04:00:38",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2026-07-03 04:00:38",
       "album": {
-        "name": "Abstractions",
-        "url": "https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2"
-      },
-      "artists": [
-        {
-          "name": "Richard Mahees",
-          "url": "https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5"
-        }
-      ],
-      "duration_ms": 133176,
-      "name": "In Motion",
-      "url": "https://open.spotify.com/track/2mUnKFrk4ar3L5Ad8t5T1u"
-    },
-    {
-      "added_at": "2026-07-03 04:00:38",
-      "album": {
         "name": "The Other Place",
         "url": "https://open.spotify.com/album/1HKXs6ACrqDbWb7RjE6rE8"
       },
@@ -2463,6 +2447,22 @@
       "duration_ms": 166124,
       "name": "The Other Place",
       "url": "https://open.spotify.com/track/6RXyFqmnqRyVR7hAHSDCnD"
+    },
+    {
+      "added_at": "2026-07-03 04:00:38",
+      "album": {
+        "name": "Abstractions",
+        "url": "https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2"
+      },
+      "artists": [
+        {
+          "name": "Richard Mahees",
+          "url": "https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5"
+        }
+      ],
+      "duration_ms": 133176,
+      "name": "In Motion",
+      "url": "https://open.spotify.com/track/2mUnKFrk4ar3L5Ad8t5T1u"
     },
     {
       "added_at": "2026-07-03 04:00:38",

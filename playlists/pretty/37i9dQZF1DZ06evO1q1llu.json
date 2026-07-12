@@ -1,12 +1,12 @@
 {
   "description": "This is The Kid LAROI. The essential tracks, all in one playlist.",
-  "num_followers": 252908,
+  "num_followers": 252926,
   "original_name": "This Is The Kid LAROI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAABTQ57sMw3sudPaCKAgioT+",
+  "snapshot_id": "alA2AAAAAACEeSu2uBmti8RV2AKpoiCu",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE FIRST TIME (DELUXE VERSION)",
-        "url": "https://open.spotify.com/album/5FYre0OdHLE1MnJ1bHTx1f"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 171243,
-      "name": "BABY I'M BACK",
-      "url": "https://open.spotify.com/track/1KZfsdxhCqX3SJnRjRPJiD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NOBLE (with The Kid LAROI)",
         "url": "https://open.spotify.com/album/2a7B8ngsOQDg0G5ejax0z2"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 185806,
       "name": "NOBLE (with The Kid LAROI)",
       "url": "https://open.spotify.com/track/00meonIF1VYLe1eTcx3w9e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE FIRST TIME (DELUXE VERSION)",
+        "url": "https://open.spotify.com/album/5FYre0OdHLE1MnJ1bHTx1f"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 171243,
+      "name": "BABY I'M BACK",
+      "url": "https://open.spotify.com/track/1KZfsdxhCqX3SJnRjRPJiD"
     },
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEFORE I FORGET (DELUXE)",
-        "url": "https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "HOLD STILL",
-      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F*CK LOVE 3+: OVER YOU",
         "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 181688,
       "name": "GO (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BEFORE I FORGET (DELUXE)",
+        "url": "https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "HOLD STILL",
+      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEFORE I FORGET (DELUXE)",
-        "url": "https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "QUIT YOU",
-      "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F*CK LOVE 3+: OVER YOU",
         "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
@@ -295,22 +279,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEFORE I FORGET",
-        "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
+        "name": "BEFORE I FORGET (DELUXE)",
+        "url": "https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3"
       },
       "artists": [
         {
           "name": "The Kid LAROI",
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
         }
       ],
-      "duration_ms": 264226,
-      "name": "RATHER BE (feat. Lithe)",
-      "url": "https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE"
+      "duration_ms": 203266,
+      "name": "QUIT YOU",
+      "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U"
     },
     {
       "added_at": null,
@@ -331,18 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEFORE I FORGET (DELUXE)",
-        "url": "https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3"
+        "name": "BEFORE I FORGET",
+        "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
       },
       "artists": [
         {
           "name": "The Kid LAROI",
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
         }
       ],
-      "duration_ms": 205306,
-      "name": "PIECES",
-      "url": "https://open.spotify.com/track/0LSnGEfj4T8vJyi7lVU3Gn"
+      "duration_ms": 264226,
+      "name": "RATHER BE (feat. Lithe)",
+      "url": "https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE"
     },
     {
       "added_at": null,
@@ -371,6 +355,42 @@
       "duration_ms": 160212,
       "name": "Hate The Other Side (with Marshmello & The Kid Laroi)",
       "url": "https://open.spotify.com/track/0ada5XsQGLPUVbmTCkAP49"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BEFORE I FORGET (DELUXE)",
+        "url": "https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "PIECES",
+      "url": "https://open.spotify.com/track/0LSnGEfj4T8vJyi7lVU3Gn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SWAG LIVE FROM COACHELLA (Weekend I)",
+        "url": "https://open.spotify.com/album/3oPUIxsRBq2riLShD6V2m8"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 151760,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/0BgOAuclkKvafDSqcTBov2"
     },
     {
       "added_at": null,
@@ -467,22 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SWAG LIVE FROM COACHELLA (Weekend I)",
-        "url": "https://open.spotify.com/album/3oPUIxsRBq2riLShD6V2m8"
+        "name": "Reminds Me Of You",
+        "url": "https://open.spotify.com/album/16ilcI6xOgSh3Jd3bxF6MI"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         },
         {
           "name": "The Kid LAROI",
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 151760,
-      "name": "STAY",
-      "url": "https://open.spotify.com/track/0BgOAuclkKvafDSqcTBov2"
+      "duration_ms": 158032,
+      "name": "Reminds Me Of You",
+      "url": "https://open.spotify.com/track/5YSHygGN9D0mID1NsVd5my"
     },
     {
       "added_at": null,
@@ -503,22 +523,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reminds Me Of You",
-        "url": "https://open.spotify.com/album/16ilcI6xOgSh3Jd3bxF6MI"
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
       "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
         {
           "name": "The Kid LAROI",
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 158032,
-      "name": "Reminds Me Of You",
-      "url": "https://open.spotify.com/track/5YSHygGN9D0mID1NsVd5my"
+      "duration_ms": 151704,
+      "name": "ALWAYS DO",
+      "url": "https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo"
     },
     {
       "added_at": null,
@@ -543,38 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F*CK LOVE 3+: OVER YOU",
-        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 151704,
-      "name": "ALWAYS DO",
-      "url": "https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BEFORE I FORGET (DELUXE)",
-        "url": "https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 215520,
-      "name": "BACK 2 LOVE",
-      "url": "https://open.spotify.com/track/0ul0bjXRaO5YxLuSnHX1Qe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diva (feat. Lil Tecca)",
         "url": "https://open.spotify.com/album/6baGSG5U130x5ttGIIRIwR"
       },
@@ -595,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEFORE I FORGET",
-        "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
+        "name": "BEFORE I FORGET (DELUXE)",
+        "url": "https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3"
       },
       "artists": [
         {
@@ -604,9 +588,9 @@
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 177746,
-      "name": "NEVER CAME BACK",
-      "url": "https://open.spotify.com/track/1y8Cn036pPqrbkNJQVywuz"
+      "duration_ms": 215520,
+      "name": "BACK 2 LOVE",
+      "url": "https://open.spotify.com/track/0ul0bjXRaO5YxLuSnHX1Qe"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
       "duration_ms": 126521,
       "name": "SO DONE",
       "url": "https://open.spotify.com/track/5YnxnTS89l3FElIwfIAeSs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BEFORE I FORGET",
+        "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 177746,
+      "name": "NEVER CAME BACK",
+      "url": "https://open.spotify.com/track/1y8Cn036pPqrbkNJQVywuz"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEFORE I FORGET",
-        "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "MAYBE I'M WRONG",
-      "url": "https://open.spotify.com/track/2GYP2rpIFWiwUX8iQbQ59H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HOW DOES IT FEEL?",
         "url": "https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 137689,
       "name": "HOW DOES IT FEEL?",
       "url": "https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BEFORE I FORGET",
+        "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "MAYBE I'M WRONG",
+      "url": "https://open.spotify.com/track/2GYP2rpIFWiwUX8iQbQ59H"
     },
     {
       "added_at": null,

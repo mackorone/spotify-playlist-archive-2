@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-400 songs - 1 day 0 hr 7 min
+401 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Revo](https://open.spotify.com/track/3a4bk480VWQSzK4zC1rnuj) | [City Flowers](https://open.spotify.com/artist/5mbkwHChoXJjyposTKZEGS) | [The City Flowers](https://open.spotify.com/album/3ZcTTuyUCv6cdcOv0OSkcT) | 3:44 | 2026-01-24 | 2026-02-25 |
 | [right here](https://open.spotify.com/track/7bmKxJAlunqOEFpcPLpzP1) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw) | [right here](https://open.spotify.com/album/27Izr5KOpRmTUpSoMrhZju) | 4:10 | 2026-02-16 | 2026-03-27 |
 | [Round and Round](https://open.spotify.com/track/4efOj8t1493yAYtG38Zcfh) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Round and Round](https://open.spotify.com/album/7o46ngv8ldoGr7IJr73ZWk) | 3:13 | 2025-08-31 | 2026-01-05 |
+| [Run \- Cover](https://open.spotify.com/track/7qCzuCpMsiQqPqyjsURAQZ) | [Sol Marineris](https://open.spotify.com/artist/6fLLkzsoaz9ceyLoGYmUIP), [Enlia](https://open.spotify.com/artist/4pGE3dPAL7rlSvoBgTw91S) | [Run \(Cover\)](https://open.spotify.com/album/4PSIjA7XCryTRa4ynqt0vL) | 2:38 | 2026-07-11 |  |
 | [Runaway](https://open.spotify.com/track/6fVrdZhPQDPFX78HqcUu24) | [Nate the Great](https://open.spotify.com/artist/4EHovbr428q6Tnj15gQWu8) | [Runaway](https://open.spotify.com/album/7loqwEQe6W5HYObon40D0H) | 2:40 | 2025-11-27 | 2025-12-28 |
 | [SAVE THE GIRL](https://open.spotify.com/track/1h4pDaq8fYOkhfuiBvQRkS) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [SOREN'S HOME](https://open.spotify.com/album/71Pr7vqBqubSjMDaP4DYG3) | 2:59 | 2025-11-01 | 2025-12-06 |
 | [Savour the Moment](https://open.spotify.com/track/17UGHhObyxa60YWJ2orxpc) | [Attic Theory](https://open.spotify.com/artist/0oOXpZTNdHDl8M1S3xQhhN) | [Savour the Moment](https://open.spotify.com/album/1fqJuxBHmwMD5EyEtmouKH) | 4:06 | 2025-12-13 | 2026-01-05 |

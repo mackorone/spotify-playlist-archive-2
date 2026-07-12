@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Shammai
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,000 likes - 100 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,023 likes - 100 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 4 | [El Nombre De Jesús](https://open.spotify.com/track/28pE86orYXvAU9z0cRX888) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Intimidad Worship](https://open.spotify.com/artist/4kTG6PgHuvq7bsSjJ2ZPhL) | [El Nombre De Jesús](https://open.spotify.com/album/5Ejbagf6LcCm95RV1mJMth) | 6:24 |
 | 5 | [Ágape, Te Amo](https://open.spotify.com/track/3loVeAdDfWNZCuzUwiF5DE) | [S1 AFTER](https://open.spotify.com/artist/6Z9dBS0QmfD5fep8lh17VF), [Somos Uno Worship](https://open.spotify.com/artist/68oB2vsT9Oy2gSZmIg7b7q), [Josué Suárez](https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL), [Dahiana Lizcano](https://open.spotify.com/artist/4Qe3kleCswQSoSijkoL0qu) | [Ágape, Te Amo](https://open.spotify.com/album/0zFkR2TfttpPmzBj2oZCCS) | 4:13 |
 | 6 | [Todo Es Tuyo](https://open.spotify.com/track/0NTLfJpoK217J40IFWIgsn) | [Felipe S\. Santos](https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ) | [Todo Es Tuyo](https://open.spotify.com/album/6PgTGEACb0aw53fBvymWkh) | 8:46 |
-| 7 | [Onerpm Sessions: Jay Kalyl \- Live Onerpm](https://open.spotify.com/track/6q3jA3uVKMt6f8bzpZgG6l) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Onerpm Sessions: Jay Kalyl \(Live Onerpm\)](https://open.spotify.com/album/1qYoHDMLU1dKtHWkm8oznC) | 4:20 |
+| 7 | [ONErpm Sessions: Jay Kalyl \- Mi Religión \- Live ONErpm](https://open.spotify.com/track/6q3jA3uVKMt6f8bzpZgG6l) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [ONErpm Sessions: Jay Kalyl \- Mi Religión \(Live ONErpm\)](https://open.spotify.com/album/1qYoHDMLU1dKtHWkm8oznC) | 4:20 |
 | 8 | [Todo Lo Puedo](https://open.spotify.com/track/7DkW5Sc9y3p309mszD3zQd) | [Sion Nación Santa](https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db) | [Todo Lo Puedo](https://open.spotify.com/album/1M7AqQfNENuAOHoLQjeC0L) | 2:49 |
 | 9 | [Viene Alegría](https://open.spotify.com/track/3UOh60UqUq4HLlJ5WbNlwS) | [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0) | [Viene Alegría](https://open.spotify.com/album/7fEMiyVusEo7lbKoh101ow) | 2:45 |
 | 10 | [Perfume A Tus Pies \- Remix](https://open.spotify.com/track/07BEDJmCz0BiaZcR7piNoU) | [Seeiji](https://open.spotify.com/artist/6kZ59v4EmNg1kBpwNdpxaN) | [Perfume A Tus Pies \(Remix\)](https://open.spotify.com/album/5ISpC3PMVyK3distvQwu47) | 3:00 |

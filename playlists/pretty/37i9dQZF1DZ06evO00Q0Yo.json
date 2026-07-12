@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 20532,
+  "num_followers": 20527,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAACX+yoN3E2+1qZN594yWg07",
+  "snapshot_id": "alA2AAAAAAD0r50GLymTkV2rNvOBmNYy",
   "tracks": [
     {
       "added_at": null,
@@ -239,26 +239,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bundles 2 (feat. Flo Milli, Taylor Girlz)",
-        "url": "https://open.spotify.com/album/5nsV6k7g6rZVLW3Xhru07O"
+        "name": "Why Lie?",
+        "url": "https://open.spotify.com/album/3RD3gsfCLTxbDN4fsrQJDh"
       },
       "artists": [
         {
-          "name": "Kayla Nicole",
-          "url": "https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT"
-        },
-        {
-          "name": "Taylor Girlz",
-          "url": "https://open.spotify.com/artist/2CCqizWr7RQhtABnxW9epA"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         },
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 200769,
-      "name": "Bundles 2 (feat. Flo Milli, Taylor Girlz)",
-      "url": "https://open.spotify.com/track/4HwFQ5AndYR51q9ru81JtQ"
+      "duration_ms": 226000,
+      "name": "Why Lie?",
+      "url": "https://open.spotify.com/track/6NpWosxIza4XEiGk190FAy"
     },
     {
       "added_at": null,
@@ -279,22 +275,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Why Lie?",
-        "url": "https://open.spotify.com/album/3RD3gsfCLTxbDN4fsrQJDh"
+        "name": "Bundles 2 (feat. Flo Milli, Taylor Girlz)",
+        "url": "https://open.spotify.com/album/5nsV6k7g6rZVLW3Xhru07O"
       },
       "artists": [
         {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          "name": "Kayla Nicole",
+          "url": "https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT"
+        },
+        {
+          "name": "Taylor Girlz",
+          "url": "https://open.spotify.com/artist/2CCqizWr7RQhtABnxW9epA"
         },
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Why Lie?",
-      "url": "https://open.spotify.com/track/6NpWosxIza4XEiGk190FAy"
+      "duration_ms": 200769,
+      "name": "Bundles 2 (feat. Flo Milli, Taylor Girlz)",
+      "url": "https://open.spotify.com/track/4HwFQ5AndYR51q9ru81JtQ"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 150293,
-      "name": "Toast",
-      "url": "https://open.spotify.com/track/5djffOhSkIRnKAtZ2bMoqv"
+      "duration_ms": 122790,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/0g1im1B9PnwuSexz7BogHb"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 122790,
-      "name": "Understand",
-      "url": "https://open.spotify.com/track/0g1im1B9PnwuSexz7BogHb"
+      "duration_ms": 150293,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/5djffOhSkIRnKAtZ2bMoqv"
     },
     {
       "added_at": null,

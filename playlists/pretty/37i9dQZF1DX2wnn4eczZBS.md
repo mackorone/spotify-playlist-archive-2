@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > Indiepop in het Nederlands\. Cover: Igor
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,442 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,439 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,17 +27,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 17 | [Jongen van de Zon](https://open.spotify.com/track/2emT6WDa4faZ9h2OzVSKZe) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds), [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Jongen van de Zon](https://open.spotify.com/album/6iXdp3hl547alkC5foGDF2) | 3:29 |
 | 18 | [Ze Wil](https://open.spotify.com/track/1bFZsGUtQZvYgEKzFmBRpB) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [YAYO HARTJE JIMMY](https://open.spotify.com/album/4KQi6IZPWkdWJs6QD32I3v) | 3:09 |
 | 19 | [Offline](https://open.spotify.com/track/7BG9Fh8c3swsY2auGk0Q9E) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Frok en Stien](https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ) | 2:29 |
-| 20 | [HOE?](https://open.spotify.com/track/6Qbn3rvKVwqPMquEHJhuG6) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [HOE?](https://open.spotify.com/album/6H8MORZSED2NcjGs4j4wv3) | 3:41 |
-| 21 | [Ik Weet Hoe Het Werkt](https://open.spotify.com/track/16fQhhumwwRVJjQydsxP9W) | [Kaat Van Stralen](https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF) | [Ik Weet Hoe Het Werkt](https://open.spotify.com/album/0nv3Dbn34pGSHXHCqS2mJV) | 2:21 |
+| 20 | [Ik Weet Hoe Het Werkt](https://open.spotify.com/track/16fQhhumwwRVJjQydsxP9W) | [Kaat Van Stralen](https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF) | [Ik Weet Hoe Het Werkt](https://open.spotify.com/album/0nv3Dbn34pGSHXHCqS2mJV) | 2:21 |
+| 21 | [HOE?](https://open.spotify.com/track/6Qbn3rvKVwqPMquEHJhuG6) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [HOE?](https://open.spotify.com/album/6H8MORZSED2NcjGs4j4wv3) | 3:41 |
 | 22 | [slecht idee \(let’s do it\)](https://open.spotify.com/track/1wn2yb8Bw8OGclpBSPFGGu) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [slecht idee \(let’s do it\)](https://open.spotify.com/album/5Yd2L868mazpTakzdThS4t) | 3:11 |
 | 23 | [Vlijmscherp](https://open.spotify.com/track/2z8ic05oQ1YZgV3nWE6f2a) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Vlijmscherp](https://open.spotify.com/album/1RTQqQrsiaNvJdCdTMBfhb) | 4:31 |
-| 24 | [Als Hij dan echt bestaat](https://open.spotify.com/track/0SjMOL8eZxHwzy463e8nbe) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Wie de fak is Sophie Straat](https://open.spotify.com/album/2ZOvFH4sVhpFstklFMQUGk) | 3:09 |
-| 25 | [Kan Je Niet Blijven?](https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Kan Je Niet Blijven?](https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI) | 3:35 |
+| 24 | [Kan Je Niet Blijven?](https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Kan Je Niet Blijven?](https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI) | 3:35 |
+| 25 | [Als Hij dan echt bestaat](https://open.spotify.com/track/0SjMOL8eZxHwzy463e8nbe) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Wie de fak is Sophie Straat](https://open.spotify.com/album/2ZOvFH4sVhpFstklFMQUGk) | 3:09 |
 | 26 | [Winterkind](https://open.spotify.com/track/3EAK7oSLalIonAaeiLAYGm) | [Lindi](https://open.spotify.com/artist/5Hvge2fZ3VfkwUhXaXCnpR) | [Winterkind](https://open.spotify.com/album/2zwHRzS6FnqAuMR4NKyE0P) | 2:45 |
 | 27 | [Boterham](https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [Boterham](https://open.spotify.com/album/2gs4DAtbdobe6Zc0WEYXoO) | 2:07 |
 | 28 | [Komt Goed](https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [Kubus In Een Ballenbak](https://open.spotify.com/album/2qCMxawxzGP2g3dJ8q0eNR) | 2:33 |
-| 29 | [Hou Me Vast](https://open.spotify.com/track/4NWbfobiaeNThKKKMJvSWw) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Vrijplaats II](https://open.spotify.com/album/3SFpV9JpcDmKoWEJYnH8Ts) | 3:01 |
-| 30 | [Was Het Nou Maar Zo](https://open.spotify.com/track/16109XiqzxPp5UrwFTB285) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Was Het Nou Maar Zo \(EP\)](https://open.spotify.com/album/4Qu9jV13GeXFLgSr7Voada) | 3:14 |
+| 29 | [Was Het Nou Maar Zo](https://open.spotify.com/track/16109XiqzxPp5UrwFTB285) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Was Het Nou Maar Zo \(EP\)](https://open.spotify.com/album/4Qu9jV13GeXFLgSr7Voada) | 3:14 |
+| 30 | [Hou Me Vast](https://open.spotify.com/track/4NWbfobiaeNThKKKMJvSWw) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Vrijplaats II](https://open.spotify.com/album/3SFpV9JpcDmKoWEJYnH8Ts) | 3:01 |
 | 31 | [Behang](https://open.spotify.com/track/2OLkJvUzbNZNTft8kfEri3) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [AH!](https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX) | 2:33 |
 | 32 | [Opscheer](https://open.spotify.com/track/0UHJ1EeeObYXPkO1Dscxtz) | [Het Algoritme](https://open.spotify.com/artist/0Iivrm0lwA0QXN0C4AlO8i), [Klangstof](https://open.spotify.com/artist/25lIYhqIj0R1AnnmqsTrtO), [Freez](https://open.spotify.com/artist/3Wg7xRNLUhziX8sgdRKEyg) | [Opscheer](https://open.spotify.com/album/4G7LZsI57TjTz8epjLN2Wz) | 2:48 |
 | 33 | [Niks is zeker](https://open.spotify.com/track/6ojaqvQB3ai8gTORhpoGTQ) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niks Is zeker](https://open.spotify.com/album/2mdXMY6Jgqtmf8Vlmv7gNb) | 3:01 |

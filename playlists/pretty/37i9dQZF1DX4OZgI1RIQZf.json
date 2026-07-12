@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 141084,
+  "num_followers": 141077,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Season of Freaks",
-        "url": "https://open.spotify.com/album/4WGqGwUleATixVRxGRvKKd"
-      },
-      "artists": [
-        {
-          "name": "Eli",
-          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
-        }
-      ],
-      "duration_ms": 230501,
-      "name": "Season of Freaks",
-      "url": "https://open.spotify.com/track/2zXMvhx7FN3KMumYFxkXaE"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
         "name": "Made of Bricks",
         "url": "https://open.spotify.com/album/2gDCBa5P6SnAaY0cadefQS"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 307400,
       "name": "Skeleton Song",
       "url": "https://open.spotify.com/track/6r2PtKqXYf0MfAG74uLvsL"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
+        "name": "Season of Freaks",
+        "url": "https://open.spotify.com/album/4WGqGwUleATixVRxGRvKKd"
+      },
+      "artists": [
+        {
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
+        }
+      ],
+      "duration_ms": 230501,
+      "name": "Season of Freaks",
+      "url": "https://open.spotify.com/track/2zXMvhx7FN3KMumYFxkXaE"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
+        "name": "Screen Violence: Director's Cut",
+        "url": "https://open.spotify.com/album/1Ztn9SjQ0R5UqOIQybtS1A"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 269640,
+      "name": "Final Girl",
+      "url": "https://open.spotify.com/track/75JviMkDB9vyGc3q2RtXB0"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
         "name": "Halloween",
         "url": "https://open.spotify.com/album/54FyAqa3iLISVu717hD05y"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 165000,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/7kdX6LUc9JZDoa1yfoDsTA"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
-        "name": "Screen Violence: Director's Cut",
-        "url": "https://open.spotify.com/album/1Ztn9SjQ0R5UqOIQybtS1A"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 269640,
-      "name": "Final Girl",
-      "url": "https://open.spotify.com/track/75JviMkDB9vyGc3q2RtXB0"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Samhain",
-        "url": "https://open.spotify.com/album/486TNLvAmoExeXdB9Iiu4n"
-      },
-      "artists": [
-        {
-          "name": "The Crush",
-          "url": "https://open.spotify.com/artist/75Tzs2XdfSZUvMZZrivNDb"
-        }
-      ],
-      "duration_ms": 211626,
-      "name": "House of Cards",
-      "url": "https://open.spotify.com/track/7lsXE4f6JvbQC2bVUsEQHI"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
         "name": "Final Girl",
         "url": "https://open.spotify.com/album/0iuT0lgZ7hzwIENcggBOj4"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 154960,
       "name": "Final Girl",
       "url": "https://open.spotify.com/track/3fok9plswB5ajvSFNZYQX1"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
+        "name": "Samhain",
+        "url": "https://open.spotify.com/album/486TNLvAmoExeXdB9Iiu4n"
+      },
+      "artists": [
+        {
+          "name": "The Crush",
+          "url": "https://open.spotify.com/artist/75Tzs2XdfSZUvMZZrivNDb"
+        }
+      ],
+      "duration_ms": 211626,
+      "name": "House of Cards",
+      "url": "https://open.spotify.com/track/7lsXE4f6JvbQC2bVUsEQHI"
     },
     {
       "added_at": "2026-04-24 13:27:34",

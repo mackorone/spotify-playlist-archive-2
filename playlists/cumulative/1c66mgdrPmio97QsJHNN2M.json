@@ -4003,6 +4003,24 @@
     },
     {
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/5xFiVMvSBUWMScLPDX0EzL"
+      },
+      "artists": [
+        {
+          "name": "SASS",
+          "url": "https://open.spotify.com/artist/3HKCvaNgdKpPbnku7mYk3A"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168088,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/5P02O0VaKb6CAjh62G6Rl5"
+    },
+    {
+      "album": {
         "name": "The Shift, Part Two",
         "url": "https://open.spotify.com/album/0gb7aSvVXvysZ1cjBwlZR9"
       },
@@ -5492,7 +5510,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 185666,
       "name": "Buried Crown",
       "url": "https://open.spotify.com/track/1NGoi9MJ1DmQ6CVRGwMWvc"
@@ -5962,7 +5980,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 161423,
       "name": "Can you find me, you, us?",
       "url": "https://open.spotify.com/track/4Vy43mZwMGaZYauuhozOuN"
@@ -6726,7 +6744,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 176448,
       "name": "close to you",
       "url": "https://open.spotify.com/track/3XczO5hMAOLn2nuwSnXXEP"
@@ -7458,6 +7476,24 @@
       "duration_ms": 179734,
       "name": "Cosmic Rays",
       "url": "https://open.spotify.com/track/5q65o7RTiq8KG13jt4HdFm"
+    },
+    {
+      "album": {
+        "name": "Counting My Days",
+        "url": "https://open.spotify.com/album/11lIaFAzL3tDADVxuPWC3O"
+      },
+      "artists": [
+        {
+          "name": "BENNETT ELIOTT",
+          "url": "https://open.spotify.com/artist/7DDGv5whaMsRIrdrlzMKLf"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177624,
+      "name": "Counting My Days",
+      "url": "https://open.spotify.com/track/3LqXf0QG4odHO7RHxx5oOV"
     },
     {
       "album": {
@@ -8222,7 +8258,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 150244,
       "name": "Dangerous Game",
       "url": "https://open.spotify.com/track/5pWtbDJqsk1eIh3liX7rhF"
@@ -10950,7 +10986,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 172444,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/4I9xmZk16UtBCbKKbahKzt"
@@ -13614,6 +13650,24 @@
       "duration_ms": 237680,
       "name": "Free To Be Me",
       "url": "https://open.spotify.com/track/2BR7K14jzGCa03JwknWE4o"
+    },
+    {
+      "album": {
+        "name": "SOMETHING PINK 2 TALES FROM A LOVER BOY",
+        "url": "https://open.spotify.com/album/6LlFIEwfGCZy6eE7VivDSL"
+      },
+      "artists": [
+        {
+          "name": "Marley Angel",
+          "url": "https://open.spotify.com/artist/3cpd6XFLnAniWkOu74xZxA"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167648,
+      "name": "FREE WHEELING",
+      "url": "https://open.spotify.com/track/4UjxvfIX3TshU2lMyB914B"
     },
     {
       "album": {
@@ -17361,6 +17415,24 @@
     },
     {
       "album": {
+        "name": "I Don't Know How To Rest",
+        "url": "https://open.spotify.com/album/7gGogvXhz8DqIfNfm23rnw"
+      },
+      "artists": [
+        {
+          "name": "Selah Stone",
+          "url": "https://open.spotify.com/artist/4KvdzrzAv4feGFhFMulhuX"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "I Don't Know How To Rest",
+      "url": "https://open.spotify.com/track/5pbwM03L3giFMzdIS4fYkW"
+    },
+    {
+      "album": {
         "name": "I don't wanna be myself anymore",
         "url": "https://open.spotify.com/album/2s0WK9elJQoPDk5OqmUA4l"
       },
@@ -18994,7 +19066,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 209984,
       "name": "In The Snow",
       "url": "https://open.spotify.com/track/7lUM5HOPzaMYZLv7Rr3KuP"
@@ -29694,7 +29766,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 162854,
       "name": "Plot Plan Marry",
       "url": "https://open.spotify.com/track/1tZfwg6NbnAYIPPJaJ9ZEl"
@@ -32315,6 +32387,28 @@
     },
     {
       "album": {
+        "name": "Sad Song",
+        "url": "https://open.spotify.com/album/1s5tdq4L8q8EvE0MfZ0ph6"
+      },
+      "artists": [
+        {
+          "name": "LKF",
+          "url": "https://open.spotify.com/artist/60xRkVUDT48U8am6MXBjuz"
+        },
+        {
+          "name": "Amiri",
+          "url": "https://open.spotify.com/artist/2Ll5uRPghBt8yLaI44FJU7"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197848,
+      "name": "Sad Song - Single Version",
+      "url": "https://open.spotify.com/track/0sM1yXhut3nUjtaXxfbLUQ"
+    },
+    {
+      "album": {
         "name": "Salt Sand and You",
         "url": "https://open.spotify.com/album/7cw8DjTKGcOI3o2I3l7TKV"
       },
@@ -33056,6 +33150,28 @@
       "duration_ms": 155076,
       "name": "SENESCENCE",
       "url": "https://open.spotify.com/track/00eZp1ec7JEvUFa8fm7erS"
+    },
+    {
+      "album": {
+        "name": "Senescence",
+        "url": "https://open.spotify.com/album/6QtciNI2kObVgNjlOcqy9Q"
+      },
+      "artists": [
+        {
+          "name": "Yenn",
+          "url": "https://open.spotify.com/artist/6QRKylVfrExn0cIOQzpAIp"
+        },
+        {
+          "name": "Breakestine",
+          "url": "https://open.spotify.com/artist/2rCvh2rrpCxd8mVD9seDNX"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133090,
+      "name": "Senescence",
+      "url": "https://open.spotify.com/track/64Zz7p1BrUH9hlsHfJK3qi"
     },
     {
       "album": {
@@ -39517,6 +39633,24 @@
     },
     {
       "album": {
+        "name": "Spanglish",
+        "url": "https://open.spotify.com/album/1VsSCPQ8mNcwXUTd76nRaJ"
+      },
+      "artists": [
+        {
+          "name": "JsSenor",
+          "url": "https://open.spotify.com/artist/5yVsxZ7i7YcnR5k7mBtzX9"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70480,
+      "name": "to heal",
+      "url": "https://open.spotify.com/track/1mP2FPvYkA4ZfmccPl2Hft"
+    },
+    {
+      "album": {
         "name": "Together Forever",
         "url": "https://open.spotify.com/album/6rRWrGfD2j9MsJIIYwlRCR"
       },
@@ -43533,6 +43667,24 @@
     },
     {
       "album": {
+        "name": "worldcup 2026",
+        "url": "https://open.spotify.com/album/1qijOWh4mtdVtrntAXZc1F"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Jadla",
+          "url": "https://open.spotify.com/artist/47gXrpjRlyANmoveUwF5bM"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191040,
+      "name": "worldcup 2026",
+      "url": "https://open.spotify.com/track/1zWGLazX0FmmJgAEMvXSyR"
+    },
+    {
+      "album": {
         "name": "Worn-Out Shoes",
         "url": "https://open.spotify.com/album/3NSDX1EXC9HdTlSWAmUHSH"
       },
@@ -43934,7 +44086,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 193119,
       "name": "You & I Bright Our Day",
       "url": "https://open.spotify.com/track/3aUdQKTQJ20EKpqkv2aDuO"
@@ -44114,7 +44266,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 203835,
       "name": "You fill my life",
       "url": "https://open.spotify.com/track/3mfd2t6gCPVT4EPTshodMW"

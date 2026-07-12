@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover:  Young Miko",
-  "num_followers": 65372,
+  "num_followers": 65370,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
-      },
-      "artists": [
-        {
-          "name": "Not For Radio",
-          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
-        }
-      ],
-      "duration_ms": 265606,
-      "name": "Ache",
-      "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
         "name": "Nobody (feat. Monaleo) [Remix]",
         "url": "https://open.spotify.com/album/6tT8zJ9w55GkEcy4eFbnA9"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 149963,
       "name": "Nobody (feat. Monaleo) - Remix",
       "url": "https://open.spotify.com/track/06D4xKbpIT0tXXE2JEysBp"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
+      },
+      "artists": [
+        {
+          "name": "Not For Radio",
+          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
+        }
+      ],
+      "duration_ms": 265606,
+      "name": "Ache",
+      "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
+        "name": "sweet talk",
+        "url": "https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "duration_ms": 146315,
+      "name": "sweet talk",
+      "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
         "name": "I GO PUNK",
         "url": "https://open.spotify.com/album/40kLk6FTJoOegUy5Jv2YXW"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 128918,
       "name": "I GO PUNK",
       "url": "https://open.spotify.com/track/0kQ73pOA7ljlHkWYu3a52F"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
-        "name": "sweet talk",
-        "url": "https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY"
-      },
-      "artists": [
-        {
-          "name": "nomi.",
-          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
-        }
-      ],
-      "duration_ms": 146315,
-      "name": "sweet talk",
-      "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "Ethereal Redneck Shit",
-        "url": "https://open.spotify.com/album/6NNAqxMqcVvsw7L7PwTV1D"
-      },
-      "artists": [
-        {
-          "name": "Laci Kaye Booth",
-          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
-        }
-      ],
-      "duration_ms": 233357,
-      "name": "Ethereal Redneck Shit",
-      "url": "https://open.spotify.com/track/26hb88vHXkt8QapTw2HTF3"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
         "name": "Ain't Over Me Yet",
         "url": "https://open.spotify.com/album/4No1KqKyXV5EzFJ1IV4G9p"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 204897,
       "name": "Ain't Over Me Yet",
       "url": "https://open.spotify.com/track/3XqQ0wdVTielXOde7wYXiL"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
+        "name": "Ethereal Redneck Shit",
+        "url": "https://open.spotify.com/album/6NNAqxMqcVvsw7L7PwTV1D"
+      },
+      "artists": [
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        }
+      ],
+      "duration_ms": 233357,
+      "name": "Ethereal Redneck Shit",
+      "url": "https://open.spotify.com/track/26hb88vHXkt8QapTw2HTF3"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
+        "name": "Living Room Floor",
+        "url": "https://open.spotify.com/album/2TnsBQiuT5RJe7W4jmsScO"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "duration_ms": 259435,
+      "name": "Living Room Floor",
+      "url": "https://open.spotify.com/track/3AP4jRZHwh2mmFJvSz9riQ"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
         "name": "High Pony",
         "url": "https://open.spotify.com/album/2AfwyV0pnRmPb55yNXlgfO"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 208559,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/3mqC2nzHECZP4GLmdKOw2p"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
-        "name": "Living Room Floor",
-        "url": "https://open.spotify.com/album/2TnsBQiuT5RJe7W4jmsScO"
-      },
-      "artists": [
-        {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
-        }
-      ],
-      "duration_ms": 259435,
-      "name": "Living Room Floor",
-      "url": "https://open.spotify.com/track/3AP4jRZHwh2mmFJvSz9riQ"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "MOSH\u2605PIT",
-        "url": "https://open.spotify.com/album/1jSJILLPsnuiUod858Mmzj"
-      },
-      "artists": [
-        {
-          "name": "MARIS",
-          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
-        }
-      ],
-      "duration_ms": 164736,
-      "name": "MOSH\u2605PIT",
-      "url": "https://open.spotify.com/track/6FLKhl5TbJSfNGRo3ryUi3"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
         "name": "Miss Michigan",
         "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 146738,
       "name": "Oops",
       "url": "https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
+        "name": "MOSH\u2605PIT",
+        "url": "https://open.spotify.com/album/1jSJILLPsnuiUod858Mmzj"
+      },
+      "artists": [
+        {
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
+        }
+      ],
+      "duration_ms": 164736,
+      "name": "MOSH\u2605PIT",
+      "url": "https://open.spotify.com/track/6FLKhl5TbJSfNGRo3ryUi3"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "Papercut",
-        "url": "https://open.spotify.com/album/5q3xwmFq7Hgfyq6UUCgwpf"
-      },
-      "artists": [
-        {
-          "name": "Imani Imani",
-          "url": "https://open.spotify.com/artist/6xVhh5b5hrrFjSjBcSuQRQ"
-        }
-      ],
-      "duration_ms": 161843,
-      "name": "On Demand",
-      "url": "https://open.spotify.com/track/2AvfSSr0Wazcs643jYBzoO"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
         "name": "I Just Wanna Be Loved",
         "url": "https://open.spotify.com/album/6fJ8HGPgv0iwvcBQpC6Emg"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 204360,
       "name": "Scoreboard",
       "url": "https://open.spotify.com/track/6bthdJs4t81bctwvzIKbBA"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
+        "name": "Papercut",
+        "url": "https://open.spotify.com/album/5q3xwmFq7Hgfyq6UUCgwpf"
+      },
+      "artists": [
+        {
+          "name": "Imani Imani",
+          "url": "https://open.spotify.com/artist/6xVhh5b5hrrFjSjBcSuQRQ"
+        }
+      ],
+      "duration_ms": 161843,
+      "name": "On Demand",
+      "url": "https://open.spotify.com/track/2AvfSSr0Wazcs643jYBzoO"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "Delicately",
-        "url": "https://open.spotify.com/album/4kIpWgP7FfaTQEjMKlavQD"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 200710,
-      "name": "Delicately",
-      "url": "https://open.spotify.com/track/7mkOcvOoftO2BvSzvto7ID"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
         "name": "Diary Of A Young Lit B*tch",
         "url": "https://open.spotify.com/album/5fmJLK908UzunIOHhZE5Au"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "Tattoos",
-        "url": "https://open.spotify.com/album/0ooC997k9ey9EMOIBCfLyt"
+        "name": "Delicately",
+        "url": "https://open.spotify.com/album/4kIpWgP7FfaTQEjMKlavQD"
       },
       "artists": [
         {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
         }
       ],
-      "duration_ms": 198813,
-      "name": "Tattoos",
-      "url": "https://open.spotify.com/track/4kgygJE5PCRORk4iBYChSY"
+      "duration_ms": 200710,
+      "name": "Delicately",
+      "url": "https://open.spotify.com/track/7mkOcvOoftO2BvSzvto7ID"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -891,6 +875,22 @@
       "duration_ms": 199333,
       "name": "Nothing's Accidental",
       "url": "https://open.spotify.com/track/3kY3wfC4Z6hzYxLS3mb0EH"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
+        "name": "Tattoos",
+        "url": "https://open.spotify.com/album/0ooC997k9ey9EMOIBCfLyt"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 198813,
+      "name": "Tattoos",
+      "url": "https://open.spotify.com/track/4kgygJE5PCRORk4iBYChSY"
     },
     {
       "added_at": "2026-07-01 04:00:23",

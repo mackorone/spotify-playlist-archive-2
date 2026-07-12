@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Karla Blum
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,252 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,249 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 5 | [Zofi](https://open.spotify.com/track/1Up7k2x4Zv6EloF4eRG7AO) | [YOZÉ](https://open.spotify.com/artist/5XBh3fpITlhkBrId3sCiN6) | [Zofi](https://open.spotify.com/album/1JIV5E3TAN01y8qgkkruV8) | 3:33 |
 | 6 | [That Acid](https://open.spotify.com/track/5qYT2yz53B2yb5wK7f4goK) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [That Acid](https://open.spotify.com/album/1fh6gxJ1fnPhfOosqj20yL) | 2:25 |
 | 7 | [Problema](https://open.spotify.com/track/0vxoQhXYBcTtvk9XZRkyDz) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Problema](https://open.spotify.com/album/6FvF6G3r7GPDXY77RfRopF) | 3:01 |
-| 8 | [HAUS AM SEE](https://open.spotify.com/track/6sRK4yi2tLstoer3aBj6OH) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [LOVE & DRAMA EP](https://open.spotify.com/album/5gt210h6ghl9bNDdiOfqxt) | 2:50 |
-| 9 | [erst recht](https://open.spotify.com/track/0ZKIhZ5jljuJLbRCK5H9Ky) | [Maiva](https://open.spotify.com/artist/5DluYS6gq7pRws9o6EgVd5) | [erst recht](https://open.spotify.com/album/2y0yqDdEMm3TcX4CGODbTC) | 2:43 |
+| 8 | [erst recht](https://open.spotify.com/track/0ZKIhZ5jljuJLbRCK5H9Ky) | [Maiva](https://open.spotify.com/artist/5DluYS6gq7pRws9o6EgVd5) | [erst recht](https://open.spotify.com/album/2y0yqDdEMm3TcX4CGODbTC) | 2:43 |
+| 9 | [HAUS AM SEE](https://open.spotify.com/track/6sRK4yi2tLstoer3aBj6OH) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [LOVE & DRAMA EP](https://open.spotify.com/album/5gt210h6ghl9bNDdiOfqxt) | 2:50 |
 | 10 | [hausverbot](https://open.spotify.com/track/35d7jd7wWS3GstJwVNZy3b) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [wofür es sich zu leben lohnt](https://open.spotify.com/album/4S7PyRhfDKCJZR5cwfun5E) | 2:16 |
 | 11 | [liebesbriefe](https://open.spotify.com/track/69MCaMdyBZdEbQ8Cmm4KR8) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [liebesbriefe](https://open.spotify.com/album/7cVKmiIAgdECyVNcLp6DNI) | 2:36 |
 | 12 | [jAGUAR](https://open.spotify.com/track/7r1xF1bYg6BMs8u5V4sAeT) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [jAGUAR](https://open.spotify.com/album/0l9CUduPknG2IUpQuSozq7) | 3:42 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 46 | [Everybody Knows](https://open.spotify.com/track/4VRfMVqeTN6CGCWkobs7Nu) | [Filiah](https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl) | [A Deep Breath Out](https://open.spotify.com/album/3VaMQq9rS8aGIALKEeJ0qL) | 3:15 |
 | 47 | [2k16//capriKid](https://open.spotify.com/track/7m40TgwNJ8MkeHGFdbQfA7) | [Naomi Westlake](https://open.spotify.com/artist/6VmEzQSpeEOCSvUdCp8tml) | [2k16//capriKid](https://open.spotify.com/album/5covX8DwctSAofDqDheVJ3) | 2:16 |
 | 48 | [Live](https://open.spotify.com/track/1gsotXTOgjdbReDxNpXDqE) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Live](https://open.spotify.com/album/7EfBBLRVpkw9nDgTPviap7) | 2:13 |
-| 49 | [daddy issues](https://open.spotify.com/track/4aktSA7vtw9vLvxOcIIrAN) | [Miyu Hansen](https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L) | [daddy issues](https://open.spotify.com/album/6HiZg3loJpBoct2oIDs2Cy) | 2:07 |
-| 50 | [sonnenmond](https://open.spotify.com/track/1124okt8bynAcxo4O4QtC8) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [klein sein](https://open.spotify.com/album/25avQp1HWKPYlMAiBUgNxG) | 2:40 |
+| 49 | [sonnenmond](https://open.spotify.com/track/1124okt8bynAcxo4O4QtC8) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [klein sein](https://open.spotify.com/album/25avQp1HWKPYlMAiBUgNxG) | 2:40 |
+| 50 | [daddy issues](https://open.spotify.com/track/4aktSA7vtw9vLvxOcIIrAN) | [Miyu Hansen](https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L) | [daddy issues](https://open.spotify.com/album/6HiZg3loJpBoct2oIDs2Cy) | 2:07 |
 
 Snapshot ID: `AAAAALgnPE1SUmmkdTD2vHR3MWzpmokr`

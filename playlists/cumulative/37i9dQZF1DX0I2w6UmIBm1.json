@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-14",
-  "description": "Uplift your spirit with these faith-filled folk melodies. Cover: Jordan St. Cyr",
+  "description": "Uplift your spirit with these faith-filled folk melodies. Cover: Seph Schlueter",
   "name": "Faith & Folk",
   "tracks": [
     {
@@ -378,7 +378,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 230360,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/2lfYCvXb6c8xeHGyVh75cP"
@@ -523,6 +523,24 @@
     },
     {
       "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/5XJ9YAEZsQxl0yRLNx1EBX"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214872,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/115KAd9VbsmqjrGVRbsIVC"
+    },
+    {
+      "album": {
         "name": "Calls on Mute",
         "url": "https://open.spotify.com/album/4xQTvfi4QZYWkgpxKm2Whn"
       },
@@ -578,6 +596,24 @@
       "duration_ms": 165382,
       "name": "Cascade View",
       "url": "https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR"
+    },
+    {
+      "album": {
+        "name": "Changing",
+        "url": "https://open.spotify.com/album/6rrQswbIXq8hsl5EhY0urV"
+      },
+      "artists": [
+        {
+          "name": "Rachel Morley",
+          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264983,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/6aUq2ImOnHlFQUjMqtzKRX"
     },
     {
       "album": {
@@ -860,7 +896,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 307430,
       "name": "Difference Maker",
       "url": "https://open.spotify.com/track/7yWunlBSRiy8Flcq6OjWw1"
@@ -1008,7 +1044,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 198649,
       "name": "Every Reason To Believe",
       "url": "https://open.spotify.com/track/79RFG7vkG7oV5Vnakb2wsw"
@@ -1026,10 +1062,28 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 155463,
       "name": "Far Far",
       "url": "https://open.spotify.com/track/3HJv7EgAFZQJrNGAZQemi4"
+    },
+    {
+      "album": {
+        "name": "far too small a word",
+        "url": "https://open.spotify.com/album/2QrzUEcgypzGH3i7HToMEK"
+      },
+      "artists": [
+        {
+          "name": "Reagan James Broome",
+          "url": "https://open.spotify.com/artist/7kkQ22G3EbGp4814OpVEyx"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153428,
+      "name": "far too small a word",
+      "url": "https://open.spotify.com/track/2m16HDxnfZNyjlFsYox5qJ"
     },
     {
       "album": {
@@ -1084,6 +1138,24 @@
       "duration_ms": 178369,
       "name": "Fight Of My Life",
       "url": "https://open.spotify.com/track/6lifMzePK6K5c5AnfvGMVt"
+    },
+    {
+      "album": {
+        "name": "Find Me Again",
+        "url": "https://open.spotify.com/album/59JHAbtknKluqMHIMSUrYU"
+      },
+      "artists": [
+        {
+          "name": "Megan Kerr",
+          "url": "https://open.spotify.com/artist/0g6AH8bqlfFMqSqnMXScjG"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187466,
+      "name": "Find Me Again",
+      "url": "https://open.spotify.com/track/4noTTkNvCu1r8gktv8l0kh"
     },
     {
       "album": {
@@ -1170,7 +1242,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 227238,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/6aTpxJdbj3pvt7oGyLwpK0"
@@ -1242,7 +1314,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 91600,
       "name": "Get Your Hopes Up",
       "url": "https://open.spotify.com/track/2pGhdjiwzN93tMYLgbk1eo"
@@ -1260,10 +1332,28 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 252000,
       "name": "getting somewhere",
       "url": "https://open.spotify.com/track/3zlH1V1AgpsbqANEgWUz6k"
+    },
+    {
+      "album": {
+        "name": "Everything I Thought Was Pleasure (Unplugged)",
+        "url": "https://open.spotify.com/album/4xDevxA8VQU30XbvnHc2fS"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199250,
+      "name": "Glory Glory - Unplugged",
+      "url": "https://open.spotify.com/track/1wIgOnrrx5a1GuaqD5OH90"
     },
     {
       "album": {
@@ -1448,6 +1538,24 @@
       "duration_ms": 260178,
       "name": "hands & feet",
       "url": "https://open.spotify.com/track/0NM25OBA2ornk7a4pRCPCd"
+    },
+    {
+      "album": {
+        "name": "Hands To The Sky",
+        "url": "https://open.spotify.com/album/7GwhxjMIst4GqsunHYgOD3"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193533,
+      "name": "Hands To The Sky",
+      "url": "https://open.spotify.com/track/6SQPn39jz1neqPQq0ZaS3t"
     },
     {
       "album": {
@@ -1666,6 +1774,32 @@
       "duration_ms": 152481,
       "name": "Hold Me Up",
       "url": "https://open.spotify.com/track/5hfOwP6REbZckEZjMhxDAA"
+    },
+    {
+      "album": {
+        "name": "Holding Nothing Back",
+        "url": "https://open.spotify.com/album/5yivNogMzviZRsyVcNfMWt"
+      },
+      "artists": [
+        {
+          "name": "Little Chapel",
+          "url": "https://open.spotify.com/artist/4qeIkgbuSQ2H0exyTbr1WE"
+        },
+        {
+          "name": "Rob Kaple",
+          "url": "https://open.spotify.com/artist/0ej92V1w9N2qfkSB9vwI4x"
+        },
+        {
+          "name": "Kirby Kaple",
+          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303081,
+      "name": "Holding Nothing Back",
+      "url": "https://open.spotify.com/track/3x1VAYJSff9lFOrY77xzVE"
     },
     {
       "album": {
@@ -2205,6 +2339,32 @@
     },
     {
       "album": {
+        "name": "Jesus, I Still Believe",
+        "url": "https://open.spotify.com/album/2sMnaSw9JkrSMBYaoJHKVq"
+      },
+      "artists": [
+        {
+          "name": "Allan Scott",
+          "url": "https://open.spotify.com/artist/5bTp94uRj4N6iSyVo4sigW"
+        },
+        {
+          "name": "John Waller",
+          "url": "https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL"
+        },
+        {
+          "name": "Waller Co",
+          "url": "https://open.spotify.com/artist/4YIMv7RrMSHBx7udEr5576"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229928,
+      "name": "Jesus, I Still Believe",
+      "url": "https://open.spotify.com/track/426TgbHHyEBI3kcu5qBEgY"
+    },
+    {
+      "album": {
         "name": "Jonah",
         "url": "https://open.spotify.com/album/79WrsdlEUCe04zmCuqZK4G"
       },
@@ -2220,7 +2380,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 146850,
       "name": "Jonah",
       "url": "https://open.spotify.com/track/15ACEF2HaVn74e2cnWZX0I"
@@ -2314,7 +2474,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 177300,
       "name": "Leave It All Behind",
       "url": "https://open.spotify.com/track/7KagD6cLmLFrzHZIxLnJis"
@@ -2567,6 +2727,24 @@
     },
     {
       "album": {
+        "name": "Make It Holy",
+        "url": "https://open.spotify.com/album/09BpeTjgRtwKUAykoGmp3b"
+      },
+      "artists": [
+        {
+          "name": "Ben Laine",
+          "url": "https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202865,
+      "name": "Make It Holy",
+      "url": "https://open.spotify.com/track/7rmyycZ9vsqGUC27JIaNlf"
+    },
+    {
+      "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/7v6PaOPYXSkXcencPZAJyB"
       },
@@ -2600,6 +2778,24 @@
       "duration_ms": 209523,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/4MeX3f2lEmUtKjr282jXIU"
+    },
+    {
+      "album": {
+        "name": "Uncharted",
+        "url": "https://open.spotify.com/album/30MQEIZYa80QfqigFff3B6"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154750,
+      "name": "Met a Girl in Arizona",
+      "url": "https://open.spotify.com/track/2JwJ4IK2NSPf4mdJTopdqJ"
     },
     {
       "album": {
@@ -2758,7 +2954,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 221120,
       "name": "Not Giving Up",
       "url": "https://open.spotify.com/track/3OQs3SzAncJLETlqePdLAt"
@@ -2961,6 +3157,24 @@
     },
     {
       "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/571AhobBqvp9atelYipeoa"
+      },
+      "artists": [
+        {
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190280,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/6XK57F1bH8p1zDDhU6v0kK"
+    },
+    {
+      "album": {
         "name": "Restore To Me",
         "url": "https://open.spotify.com/album/1jED6aHS0QvnVw1kzNnQWv"
       },
@@ -3145,6 +3359,24 @@
     },
     {
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/0lAxK1mmikltWJRhNrUDJk"
+      },
+      "artists": [
+        {
+          "name": "Haddon",
+          "url": "https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207804,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/6v1eo6y9205SGHWxbrtafa"
+    },
+    {
+      "album": {
         "name": "Silver Lining",
         "url": "https://open.spotify.com/album/7u2dLhFzahRs0nQmqEP905"
       },
@@ -3160,6 +3392,32 @@
       "duration_ms": 218064,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/3zN7IBCLAdtDU9SuRB6RjK"
+    },
+    {
+      "album": {
+        "name": "Since When (feat. Drew Holcomb & Ellie Holcomb)",
+        "url": "https://open.spotify.com/album/4MzxP8d61VAJQMRHXV5E7h"
+      },
+      "artists": [
+        {
+          "name": "Neal Carpenter",
+          "url": "https://open.spotify.com/artist/2hdb7np5QuW5y5fPG7Dnp8"
+        },
+        {
+          "name": "Drew Holcomb",
+          "url": "https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198271,
+      "name": "Since When (feat. Drew Holcomb & Ellie Holcomb)",
+      "url": "https://open.spotify.com/track/6ISFlA8hu3k0EYO0tCjm7D"
     },
     {
       "album": {
@@ -3457,6 +3715,24 @@
     },
     {
       "album": {
+        "name": "Talking It Out",
+        "url": "https://open.spotify.com/album/1PIKriTr8koCh62viEDL6S"
+      },
+      "artists": [
+        {
+          "name": "SUNS",
+          "url": "https://open.spotify.com/artist/13Vnt5pLnf1DOOBBVDOVfi"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Talking It Out",
+      "url": "https://open.spotify.com/track/79wMJAQU9k7IwYT6AkxwKb"
+    },
+    {
+      "album": {
         "name": "Thank God For Jesus",
         "url": "https://open.spotify.com/album/1uTSFuaCri64RHJKzYgxx7"
       },
@@ -3634,7 +3910,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 234600,
       "name": "The Narrow Road",
       "url": "https://open.spotify.com/track/3tUFaWqhUrtn5ST7xUCJvY"
@@ -3854,7 +4130,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 158260,
       "name": "True Love",
       "url": "https://open.spotify.com/track/15sUz7bGOhdxcHa81JPgDf"
@@ -4005,6 +4281,24 @@
     },
     {
       "album": {
+        "name": "Wait For It",
+        "url": "https://open.spotify.com/album/64Ytw8mJGVZYh7WU9LbzSb"
+      },
+      "artists": [
+        {
+          "name": "Todd Mendez",
+          "url": "https://open.spotify.com/artist/5IhNGJe6UhMRDJtqllQC3q"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228785,
+      "name": "Wait For It",
+      "url": "https://open.spotify.com/track/3B7OmkShFTSR913YvDmuP2"
+    },
+    {
+      "album": {
         "name": "Just Like Jesus",
         "url": "https://open.spotify.com/album/1JpAKQDmxRSIM2QpMnITfL"
       },
@@ -4128,6 +4422,24 @@
       "duration_ms": 106901,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/56bXpId99F737gwsIAIQWz"
+    },
+    {
+      "album": {
+        "name": "Where The Flowers Grow",
+        "url": "https://open.spotify.com/album/3hfWZC1ttLUqFphczA2DX3"
+      },
+      "artists": [
+        {
+          "name": "Heather Suzanne",
+          "url": "https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245800,
+      "name": "Where The Flowers Grow",
+      "url": "https://open.spotify.com/track/43iFXwD446eOadwGWu6LAf"
     },
     {
       "album": {
@@ -4344,6 +4656,24 @@
       "duration_ms": 241750,
       "name": "You're the Hope",
       "url": "https://open.spotify.com/track/5rAsBleTCIf6Ago6XZoc13"
+    },
+    {
+      "album": {
+        "name": "\u2018Till I Choke",
+        "url": "https://open.spotify.com/album/7ny5oyI0DuH8JkTtYDyMbp"
+      },
+      "artists": [
+        {
+          "name": "Madalyn Rae",
+          "url": "https://open.spotify.com/artist/29ZmYR2TwSfAjdosOQmIpG"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221203,
+      "name": "\u2018Till I Choke",
+      "url": "https://open.spotify.com/track/6Lj6TKYDEgQYMWtynNf9Za"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0I2w6UmIBm1"

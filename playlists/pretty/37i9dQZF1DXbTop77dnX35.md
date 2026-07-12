@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Victony, Runtown, FAVE, Sarkodie, Beyoncé, Kelela, Kojo Blak, Nasty C & Tellaman and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,944 likes - 59 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,080 likes - 59 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

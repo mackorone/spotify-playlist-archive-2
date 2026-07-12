@@ -1,29 +1,13 @@
 {
   "description": "This is Stephen Hough. The essential tracks, all in one playlist.",
-  "num_followers": 311,
+  "num_followers": 315,
   "original_name": "This Is Stephen Hough",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAADd5xXIyMnT9Uw7Nn8gA6p6",
+  "snapshot_id": "alA2AAAAAABqlzgqO/Gi15DhE80nY60F",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reflection (Arr. Hough for Piano) [From \"Mulan\"]",
-        "url": "https://open.spotify.com/album/6v2uCx9zVpGxPv5H7DYENJ"
-      },
-      "artists": [
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Reflection (Arr. Hough for Piano) - From \"Mulan\"",
-      "url": "https://open.spotify.com/track/5SBUp8syebN6SgKcbFTCOw"
-    },
     {
       "added_at": null,
       "album": {
@@ -319,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reflection (Arr. Hough for Piano) [From \"Mulan\"]",
+        "url": "https://open.spotify.com/album/6v2uCx9zVpGxPv5H7DYENJ"
+      },
+      "artists": [
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Reflection (Arr. Hough for Piano) - From \"Mulan\"",
+      "url": "https://open.spotify.com/track/5SBUp8syebN6SgKcbFTCOw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stephen Hough's Spanish Album",
         "url": "https://open.spotify.com/album/2hUxiz4J02RVcQ60yu3vbv"
       },
@@ -451,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\"A Classical Sunday: Bach, Mozart & more \"",
+        "url": "https://open.spotify.com/album/5XPiwSLTERy1r27UtuV07S"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 69346,
+      "name": "Piano Sonata in E Minor, D. 769a",
+      "url": "https://open.spotify.com/track/1n5wCoGlmhrtuHfmazR2f6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stephen Hough's Piano Postcards",
         "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
       },
@@ -511,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"A Classical Sunday: Bach, Mozart & more \"",
-        "url": "https://open.spotify.com/album/5XPiwSLTERy1r27UtuV07S"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 69346,
-      "name": "Piano Sonata in E Minor, D. 769a",
-      "url": "https://open.spotify.com/track/1n5wCoGlmhrtuHfmazR2f6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stephen Hough's Dream Album: Piano Bonbons",
         "url": "https://open.spotify.com/album/6pYHXV0JjfTZbBz7xWUPdm"
       },
@@ -547,26 +547,6 @@
       "duration_ms": 121853,
       "name": "Gypsy Melodies, B. 104: IV. Songs My Mother Taught Me (Arr. Hough)",
       "url": "https://open.spotify.com/track/04ikXqr1xGdSyRo3kCBr93"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Piano Album 1: Music by Paderewski, Godowsky, Dohn\u00e1nyi...",
-        "url": "https://open.spotify.com/album/7EpprRSNyrDC5Mgh4CRk6a"
-      },
-      "artists": [
-        {
-          "name": "Ignacy Jan Paderewski",
-          "url": "https://open.spotify.com/artist/7Im00DCJCJrFrC1Ho6vjD6"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 257066,
-      "name": "Paderewski: Miscellanea, Op. 16: No. 4, Nocturne in B-Flat Major",
-      "url": "https://open.spotify.com/track/4QP6MmA7nrBItjVk4RxlUn"
     },
     {
       "added_at": null,
@@ -591,6 +571,26 @@
       "duration_ms": 525173,
       "name": "II. Larghetto",
       "url": "https://open.spotify.com/track/4LwBt2pAOdVIv541oeEeOU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Piano Album 1: Music by Paderewski, Godowsky, Dohn\u00e1nyi...",
+        "url": "https://open.spotify.com/album/7EpprRSNyrDC5Mgh4CRk6a"
+      },
+      "artists": [
+        {
+          "name": "Ignacy Jan Paderewski",
+          "url": "https://open.spotify.com/artist/7Im00DCJCJrFrC1Ho6vjD6"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 257066,
+      "name": "Paderewski: Miscellanea, Op. 16: No. 4, Nocturne in B-Flat Major",
+      "url": "https://open.spotify.com/track/4QP6MmA7nrBItjVk4RxlUn"
     },
     {
       "added_at": null,
@@ -796,17 +796,17 @@
       },
       "artists": [
         {
-          "name": "L\u00e9o Delibes",
-          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
+          "name": "C\u00e9cile Chaminade",
+          "url": "https://open.spotify.com/artist/6yb2PUxafSVe2441W50jbk"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 99666,
-      "name": "Le roi s'amuse, Sc\u00e8ne du bal: VI. Passepied (Version for Piano)",
-      "url": "https://open.spotify.com/track/55DfBgmxUPgsM1tKQMA0Cr"
+      "duration_ms": 210333,
+      "name": "Toccata, Op. 39",
+      "url": "https://open.spotify.com/track/0AWxOGnFkZ4dpAXVVPYKYY"
     },
     {
       "added_at": null,
@@ -892,17 +892,17 @@
       },
       "artists": [
         {
-          "name": "C\u00e9cile Chaminade",
-          "url": "https://open.spotify.com/artist/6yb2PUxafSVe2441W50jbk"
+          "name": "L\u00e9o Delibes",
+          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Toccata, Op. 39",
-      "url": "https://open.spotify.com/track/0AWxOGnFkZ4dpAXVVPYKYY"
+      "duration_ms": 99666,
+      "name": "Le roi s'amuse, Sc\u00e8ne du bal: VI. Passepied (Version for Piano)",
+      "url": "https://open.spotify.com/track/55DfBgmxUPgsM1tKQMA0Cr"
     },
     {
       "added_at": null,
@@ -951,22 +951,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Winter Adagios",
-        "url": "https://open.spotify.com/album/3Phjf597zfyPvLrIvEsaeF"
+        "name": "All We Need Is Love (& Classical Music) - A Valentine's Day Collection",
+        "url": "https://open.spotify.com/album/5H7X20hgMbAgCTX4RUZulN"
       },
       "artists": [
         {
-          "name": "Lowell Liebermann",
-          "url": "https://open.spotify.com/artist/5O7LlX7WMkaqp4NfLzbbn7"
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        },
+        {
+          "name": "Bryden Thomson",
+          "url": "https://open.spotify.com/artist/7q7RpicjbjUik3RCrjSKuz"
+        },
+        {
+          "name": "Hall\u00e9",
+          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
         }
       ],
-      "duration_ms": 165533,
-      "name": "Liebermann: Gargoyles, Op. 29: II. Adagio semplice, ma con molto rubato",
-      "url": "https://open.spotify.com/track/4nNfYOqD9p3ac6GpRRVMp0"
+      "duration_ms": 40293,
+      "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: II. Andante, Pt. 2",
+      "url": "https://open.spotify.com/track/3unzX3gaGLz6YJUnTbaTpU"
     },
     {
       "added_at": null,
@@ -1035,50 +1043,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "All We Need Is Love (& Classical Music) - A Valentine's Day Collection",
-        "url": "https://open.spotify.com/album/5H7X20hgMbAgCTX4RUZulN"
+        "name": "Winter Adagios",
+        "url": "https://open.spotify.com/album/3Phjf597zfyPvLrIvEsaeF"
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          "name": "Lowell Liebermann",
+          "url": "https://open.spotify.com/artist/5O7LlX7WMkaqp4NfLzbbn7"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        },
-        {
-          "name": "Bryden Thomson",
-          "url": "https://open.spotify.com/artist/7q7RpicjbjUik3RCrjSKuz"
-        },
-        {
-          "name": "Hall\u00e9",
-          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
         }
       ],
-      "duration_ms": 40293,
-      "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: II. Andante, Pt. 2",
-      "url": "https://open.spotify.com/track/3unzX3gaGLz6YJUnTbaTpU"
+      "duration_ms": 165533,
+      "name": "Liebermann: Gargoyles, Op. 29: II. Adagio semplice, ma con molto rubato",
+      "url": "https://open.spotify.com/track/4nNfYOqD9p3ac6GpRRVMp0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "\"Classics for Summer: Bach, Mozart & more\"",
-        "url": "https://open.spotify.com/album/0ZYWUohwqnJJbUcm296O3D"
+        "name": "\"Ancient Forests: Classical Masterpieces\"",
+        "url": "https://open.spotify.com/album/3QR4pllYVjEsqnWYX64n7X"
       },
       "artists": [
         {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+          "name": "Francis Poulenc",
+          "url": "https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 124720,
-      "name": "7 Fantasien, Op. 116: No. 1, Capriccio in D Minor",
-      "url": "https://open.spotify.com/track/26HFQLmqu4IlHXd93fcKe9"
+      "duration_ms": 95146,
+      "name": "8 Nocturnes, FP 56: No. 4 in C Minor. Bal fant\u00f4me",
+      "url": "https://open.spotify.com/track/52e5fRSrboFXatVhXT8An7"
     }
   ],
   "unique_name": "This Is Stephen Hough",

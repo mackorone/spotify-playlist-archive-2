@@ -4,7 +4,7 @@
 
 > This is Jae Stephens\. The essential tracks, all in one playlist.
 
-30 songs - 1 hr 34 min
+31 songs - 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Boyfriend Forever](https://open.spotify.com/track/6o4tdluxrx4gDOyuweL866) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 2:58 | 2026-06-25 |  |
 | [emergency](https://open.spotify.com/track/2kt4lHZMN1BTHl3rSKltRw) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [f\*\*k it i'll do it myself](https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG) | 2:48 | 2026-06-25 |  |
 | [Every Time](https://open.spotify.com/track/6NbQqHnfEcAHBPur9IckVL) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Every Time](https://open.spotify.com/album/0kqpfZCDG8NhePJQMhbiFd) | 3:36 | 2026-06-25 |  |
+| [Freakie](https://open.spotify.com/track/7utXDVIK25xRRT6FeXO4b3) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 2:46 | 2026-07-12 |  |
 | [girl no more](https://open.spotify.com/track/0TcFc4AVY00ZkVpZJhPTYb) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [f\*\*k it i'll do it myself](https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG) | 3:41 | 2026-06-25 |  |
 | [Give It To](https://open.spotify.com/track/2XpitGhV7RNORaO2x07e2s) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [High My Name Is](https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV) | 2:50 | 2026-06-25 |  |
 | [Gold \(feat\. Parisalexa\)](https://open.spotify.com/track/5K7UdrgyWZPjmiAXLen783) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT), [Parisalexa](https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV) | [And Friends](https://open.spotify.com/album/7FArNYvyeMXYTECCmHoqUe) | 2:43 | 2026-06-25 |  |
@@ -33,7 +34,7 @@
 | [Please Don't Talk to Me](https://open.spotify.com/track/5VMM25GeSk123NAhOFdcpu) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [High My Name Is](https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV) | 2:47 | 2026-06-25 |  |
 | [Precious](https://open.spotify.com/track/4PpurS5c7TgFOSAbw0Z6X2) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 3:20 | 2026-06-25 | 2026-07-06 |
 | [Someone Else](https://open.spotify.com/track/6eXwjspkJrSnddEOlSOZj1) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Someone Else](https://open.spotify.com/album/5l2DbtOZqazxbx3w2p8sBw) | 3:34 | 2026-06-25 |  |
-| [WET](https://open.spotify.com/track/1Wb8kMQTcZmoMo9faO7oyA) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 3:09 | 2026-07-06 |  |
+| [WET](https://open.spotify.com/track/1Wb8kMQTcZmoMo9faO7oyA) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 3:09 | 2026-07-06 | 2026-07-12 |
 | [what are you doing tonight?](https://open.spotify.com/track/0QmSIJ8eUs7vry56VHiiTc) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [f\*\*k it i'll do it myself](https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG) | 2:56 | 2026-06-25 |  |
 | [What You Need \(feat THEY.\)](https://open.spotify.com/track/0fHbxdDnol6ZeRtKrGCBrU) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT), [The They](https://open.spotify.com/artist/1sPdKjeLQGW8g9kY4GAM9G) | [What You Need \(feat THEY.\)](https://open.spotify.com/album/6PNzYWPwECYWRzxCQb5snv) | 3:14 | 2026-06-25 |  |
 | [What's A Monday](https://open.spotify.com/track/3r3TNewGNpl7zKgzk9nYTJ) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [What's A Monday](https://open.spotify.com/album/6HfUGBPpQSsqAFDOAIzct1) | 2:33 | 2026-06-25 |  |

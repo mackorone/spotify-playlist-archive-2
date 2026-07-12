@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 173494,
+  "num_followers": 173573,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "C\u00f3mo Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Se Quitan El Sombrero",
         "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 206733,
       "name": "Compr\u00e9ndala",
       "url": "https://open.spotify.com/track/1hoWZj7mw3khkTYobkDgcM"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "C\u00f3mo Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Artilleria Pesada, Presenta:",
-        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 253880,
-      "name": "Si Se\u00f1or",
-      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Fuego Contra Fuego",
         "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 156320,
       "name": "Soy Lo Peor",
       "url": "https://open.spotify.com/track/5bdgoOTegXYsGdEjoIZDSL"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Artilleria Pesada, Presenta:",
+        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 253880,
+      "name": "Si Se\u00f1or",
+      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Celoso",
-        "url": "https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Toppaz De Reynaldo Flores",
-          "url": "https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY"
-        }
-      ],
-      "duration_ms": 168720,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Orgullo De Mujer",
         "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 243933,
       "name": "Insensible A Ti (Me Pone A Mil)",
       "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Celoso",
+        "url": "https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Toppaz De Reynaldo Flores",
+          "url": "https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY"
+        }
+      ],
+      "duration_ms": 168720,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -967,26 +967,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/3Rn8SoV3fGLgTF8h2vfuPi"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III",
-          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
-        },
-        {
-          "name": "Kumbia All Starz",
-          "url": "https://open.spotify.com/artist/6m3l8oNDOGE3vo66Agi9M4"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Insomnio",
-      "url": "https://open.spotify.com/track/179kBZK7Vil0uCDJDewswz"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "ATP",
         "url": "https://open.spotify.com/album/5YAMa7LhSMdWOs1dF93g4V"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 180000,
       "name": "MIATA \u1559(\u21c0\u2038\u21bc\u2036)\u1557",
       "url": "https://open.spotify.com/track/1k15ZgRhn8OxFalYbeaZ1h"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/3Rn8SoV3fGLgTF8h2vfuPi"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III",
+          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
+        },
+        {
+          "name": "Kumbia All Starz",
+          "url": "https://open.spotify.com/artist/6m3l8oNDOGE3vo66Agi9M4"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Insomnio",
+      "url": "https://open.spotify.com/track/179kBZK7Vil0uCDJDewswz"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Fuego Eterno",
-        "url": "https://open.spotify.com/album/4WrhrIl5r8G26F9Woj3W1J"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 163906,
-      "name": "Vete Ya",
-      "url": "https://open.spotify.com/track/6EZsucUbKS1mmWohoHXtJW"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Hola Chicuelos",
         "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "La Historia De Los Exitos Pop A La Mexicana (Version Mexico)",
-        "url": "https://open.spotify.com/album/7MKVC6X35HgOEhE2Pp61oK"
+        "name": "Fuego Eterno",
+        "url": "https://open.spotify.com/album/4WrhrIl5r8G26F9Woj3W1J"
       },
       "artists": [
         {
-          "name": "Pilar Montenegro",
-          "url": "https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 240480,
-      "name": "Qu\u00edtame Ese Hombre Del Coraz\u00f3n - Norte\u00f1a Version",
-      "url": "https://open.spotify.com/track/1JffhRkcjxOEN2fDDVWCHA"
+      "duration_ms": 163906,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/6EZsucUbKS1mmWohoHXtJW"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1179,6 +1163,22 @@
       "duration_ms": 206400,
       "name": "\u00c1rbol De Manzanas",
       "url": "https://open.spotify.com/track/6H5UMkAnweqb4cKIsAzUh9"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "La Historia De Los Exitos Pop A La Mexicana (Version Mexico)",
+        "url": "https://open.spotify.com/album/7MKVC6X35HgOEhE2Pp61oK"
+      },
+      "artists": [
+        {
+          "name": "Pilar Montenegro",
+          "url": "https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF"
+        }
+      ],
+      "duration_ms": 240480,
+      "name": "Qu\u00edtame Ese Hombre Del Coraz\u00f3n - Norte\u00f1a Version",
+      "url": "https://open.spotify.com/track/1JffhRkcjxOEN2fDDVWCHA"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "En Manos Del Tiempo",
-        "url": "https://open.spotify.com/album/0XPM5J7QGgCUpmvRxrrL3c"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/61dUrdx6PLjQX3Ve6gnpD0"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "ROY",
         "url": "https://open.spotify.com/album/5Y3U9m4IX1RYja8CpUibj8"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 275226,
       "name": "Coraz\u00f3n : Classics",
       "url": "https://open.spotify.com/track/6V0NuH6KjxjR1GPHPtro53"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "En Manos Del Tiempo",
+        "url": "https://open.spotify.com/album/0XPM5J7QGgCUpmvRxrrL3c"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/61dUrdx6PLjQX3Ve6gnpD0"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Contrabando Y Traici\u00f3n (From \"Camelia La Texana\")",
-        "url": "https://open.spotify.com/album/2JAWdBuZ6XQzM6gC8e9Fza"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "Contrabando Y Traici\u00f3n",
-      "url": "https://open.spotify.com/track/4ywFED25vV4cgi3cqPSNFg"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "ROY",
         "url": "https://open.spotify.com/album/5Y3U9m4IX1RYja8CpUibj8"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 186769,
       "name": "El Tiempo Que Necesites",
       "url": "https://open.spotify.com/track/3BqIGyhQL2wMCm7ySVc633"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Contrabando Y Traici\u00f3n (From \"Camelia La Texana\")",
+        "url": "https://open.spotify.com/album/2JAWdBuZ6XQzM6gC8e9Fza"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "Contrabando Y Traici\u00f3n",
+      "url": "https://open.spotify.com/track/4ywFED25vV4cgi3cqPSNFg"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Mil Historias",
-        "url": "https://open.spotify.com/album/4XjfK4bzkOr37JS2H3XB65"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 216840,
-      "name": "C\u00f3mo le hago",
-      "url": "https://open.spotify.com/track/1SPWCyvl2ooPPw4iAv9S07"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Rigo Tovar '81",
         "url": "https://open.spotify.com/album/6g5zpIsB6jo8QkIz5wLXdd"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 218440,
       "name": "Vuelve A Encender Mi Fuego",
       "url": "https://open.spotify.com/track/6xsGdPEjDFBd5QTuugaA5P"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Mil Historias",
+        "url": "https://open.spotify.com/album/4XjfK4bzkOr37JS2H3XB65"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 216840,
+      "name": "C\u00f3mo le hago",
+      "url": "https://open.spotify.com/track/1SPWCyvl2ooPPw4iAv9S07"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/50uNNuDhDgqELZa3mPkR9y"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes Locos",
-          "url": "https://open.spotify.com/artist/2Z7Kkkd0KGcx6cblKWVdUG"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Coqueteando",
-      "url": "https://open.spotify.com/track/4Yhw1FNM4yLjsm2BsjOhKc"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Recordando Monterrey",
         "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
       },
@@ -1667,18 +1651,18 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/50uNNuDhDgqELZa3mPkR9y"
       },
       "artists": [
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "Los Reyes Locos",
+          "url": "https://open.spotify.com/artist/2Z7Kkkd0KGcx6cblKWVdUG"
         }
       ],
-      "duration_ms": 243253,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
+      "duration_ms": 168333,
+      "name": "Coqueteando",
+      "url": "https://open.spotify.com/track/4Yhw1FNM4yLjsm2BsjOhKc"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1699,6 +1683,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "D.D. Y Ponle Play",
         "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
       },
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Llegando a ti",
-        "url": "https://open.spotify.com/album/57eTNIfpwExlKvp6w8pfQi"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
-        }
-      ],
-      "duration_ms": 164306,
-      "name": "Tres Vueltas",
-      "url": "https://open.spotify.com/track/4AidyOWtaZ2PrHwyX4Hrh6"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "El M\u00fasico Chiflado",
         "url": "https://open.spotify.com/album/4SXJ0wQipresGFmEsQDy0v"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 193266,
       "name": "El M\u00fasico Chiflado",
       "url": "https://open.spotify.com/track/0taP3xZzS7do4KjaGx1kRG"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Llegando a ti",
+        "url": "https://open.spotify.com/album/57eTNIfpwExlKvp6w8pfQi"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+        }
+      ],
+      "duration_ms": 164306,
+      "name": "Tres Vueltas",
+      "url": "https://open.spotify.com/track/4AidyOWtaZ2PrHwyX4Hrh6"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Hoy Vi A Santa Claus Besar A Mama",
-      "url": "https://open.spotify.com/track/20xpEy5KeTKAvaDU3csbTD"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Southern Exposure",
         "url": "https://open.spotify.com/album/4IcHdJ6RUEIWvMjRZok2O8"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 231584,
       "name": "Suficiente Amor",
       "url": "https://open.spotify.com/track/44qOkD4nnJ5gazQTBQOYID"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Hoy Vi A Santa Claus Besar A Mama",
+      "url": "https://open.spotify.com/track/20xpEy5KeTKAvaDU3csbTD"
     },
     {
       "added_at": "2026-06-08 18:17:51",

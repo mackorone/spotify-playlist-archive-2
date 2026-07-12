@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 21167,
+  "num_followers": 21169,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ak7kgAAAAACEYUPHDPEhNr5Lecbz+ADl",
+  "snapshot_id": "alA2AAAAAABenqeDWI50H4elKpNrJLSv",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Walk Thru (feat. Problem)",
+      "url": "https://open.spotify.com/track/5259GVdvIOBkcqo6L2i9qw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DAYS BEFORE RODEO",
         "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 272772,
       "name": "Mamacita (feat. Rich Homie Quan & Young Thug)",
       "url": "https://open.spotify.com/track/0uFz9q2SvuKyWB6Ur1YCfI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Walk Thru (feat. Problem)",
-      "url": "https://open.spotify.com/track/5259GVdvIOBkcqo6L2i9qw"
     },
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rich Homie Cartel Vol 1",
-        "url": "https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 243983,
-      "name": "Tell Em",
-      "url": "https://open.spotify.com/track/1EqTGC1pfGHm4zCxgxPmL3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 192102,
       "name": "Blah Blah Blah",
       "url": "https://open.spotify.com/track/2NR2i4RnPZNKs85Anpyqel"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rich Homie Cartel Vol 1",
+        "url": "https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 243983,
+      "name": "Tell Em",
+      "url": "https://open.spotify.com/track/1EqTGC1pfGHm4zCxgxPmL3"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Dead",
-        "url": "https://open.spotify.com/album/5Aqj31jPQAuQmsgiIyJ78V"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 128837,
-      "name": "Still Dead",
-      "url": "https://open.spotify.com/track/137EDAXjvEQSjMFDDQ3SfZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Label Vol. 2",
         "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 214935,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6DBEM7SPgNvLTDowgmxvwN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Dead",
+        "url": "https://open.spotify.com/album/5Aqj31jPQAuQmsgiIyJ78V"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 128837,
+      "name": "Still Dead",
+      "url": "https://open.spotify.com/track/137EDAXjvEQSjMFDDQ3SfZ"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 253452,
-      "name": "RedBone",
-      "url": "https://open.spotify.com/track/2tEvKwNUradPTkXpGnbDyv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Label Vol. 2",
         "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 231346,
       "name": "Heart Cold",
       "url": "https://open.spotify.com/track/67Mrs5q8uAL5WQyYPPYIEZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 253452,
+      "name": "RedBone",
+      "url": "https://open.spotify.com/track/2tEvKwNUradPTkXpGnbDyv"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 210409,
-      "name": "Stressed",
-      "url": "https://open.spotify.com/track/3XO41ZKnULP1KIhoLgnBzG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back To The Basics",
         "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 162246,
       "name": "Gamble",
       "url": "https://open.spotify.com/track/6LZLx6B97FDjUg89RIT44U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 210409,
+      "name": "Stressed",
+      "url": "https://open.spotify.com/track/3XO41ZKnULP1KIhoLgnBzG"
     },
     {
       "added_at": null,
@@ -935,22 +935,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby On Baby",
-        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
+        "name": "The Young OG Project",
+        "url": "https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
         },
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 192773,
-      "name": "Celebrate (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/7uxbabRF4omY1MhmIgaZ6Y"
+      "duration_ms": 256506,
+      "name": "We Good",
+      "url": "https://open.spotify.com/track/11B2LpmjMH4BH1XwynLT9R"
     }
   ],
   "unique_name": "This Is Rich Homie Quan",

@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: Karla Blum",
-  "num_followers": 50252,
+  "num_followers": 50249,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-06-30 22:00:31",
       "album": {
-        "name": "LOVE & DRAMA EP",
-        "url": "https://open.spotify.com/album/5gt210h6ghl9bNDdiOfqxt"
-      },
-      "artists": [
-        {
-          "name": "Loredana",
-          "url": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
-        }
-      ],
-      "duration_ms": 170973,
-      "name": "HAUS AM SEE",
-      "url": "https://open.spotify.com/track/6sRK4yi2tLstoer3aBj6OH"
-    },
-    {
-      "added_at": "2026-06-30 22:00:31",
-      "album": {
         "name": "erst recht",
         "url": "https://open.spotify.com/album/2y0yqDdEMm3TcX4CGODbTC"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 163995,
       "name": "erst recht",
       "url": "https://open.spotify.com/track/0ZKIhZ5jljuJLbRCK5H9Ky"
+    },
+    {
+      "added_at": "2026-06-30 22:00:31",
+      "album": {
+        "name": "LOVE & DRAMA EP",
+        "url": "https://open.spotify.com/album/5gt210h6ghl9bNDdiOfqxt"
+      },
+      "artists": [
+        {
+          "name": "Loredana",
+          "url": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
+        }
+      ],
+      "duration_ms": 170973,
+      "name": "HAUS AM SEE",
+      "url": "https://open.spotify.com/track/6sRK4yi2tLstoer3aBj6OH"
     },
     {
       "added_at": "2026-06-30 22:00:31",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-06-30 22:00:31",
       "album": {
-        "name": "daddy issues",
-        "url": "https://open.spotify.com/album/6HiZg3loJpBoct2oIDs2Cy"
-      },
-      "artists": [
-        {
-          "name": "Miyu Hansen",
-          "url": "https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L"
-        }
-      ],
-      "duration_ms": 127011,
-      "name": "daddy issues",
-      "url": "https://open.spotify.com/track/4aktSA7vtw9vLvxOcIIrAN"
-    },
-    {
-      "added_at": "2026-06-30 22:00:31",
-      "album": {
         "name": "klein sein",
         "url": "https://open.spotify.com/album/25avQp1HWKPYlMAiBUgNxG"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 160773,
       "name": "sonnenmond",
       "url": "https://open.spotify.com/track/1124okt8bynAcxo4O4QtC8"
+    },
+    {
+      "added_at": "2026-06-30 22:00:31",
+      "album": {
+        "name": "daddy issues",
+        "url": "https://open.spotify.com/album/6HiZg3loJpBoct2oIDs2Cy"
+      },
+      "artists": [
+        {
+          "name": "Miyu Hansen",
+          "url": "https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L"
+        }
+      ],
+      "duration_ms": 127011,
+      "name": "daddy issues",
+      "url": "https://open.spotify.com/track/4aktSA7vtw9vLvxOcIIrAN"
     }
   ],
   "unique_name": "EQUAL GSA",

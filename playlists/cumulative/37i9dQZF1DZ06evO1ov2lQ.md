@@ -4,7 +4,7 @@
 
 > This is Biosphere\. The essential tracks, all in one playlist.
 
-206 songs - 17 hr 22 min
+207 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Alteret](https://open.spotify.com/track/0PDeLl4GJv7BSRv8xMMYuP) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Senja Recordings](https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9) | 2:54 | 2023-04-02 | 2023-12-15 |
 | [Altostratus](https://open.spotify.com/track/76wf55JNNHVdAb14TVwyw9) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 5:11 | 2026-03-23 | 2026-03-24 |
 | [Ancient Campfire](https://open.spotify.com/track/0s5EmEIfm5BGHSfVL76TfM) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 7:42 | 2022-06-16 | 2022-09-22 |
-| [Ancient Campfire](https://open.spotify.com/track/0ms5MzrJBudHOw5PpsphpI) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou](https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS) | 7:45 | 2026-06-17 |  |
+| [Ancient Campfire](https://open.spotify.com/track/0ms5MzrJBudHOw5PpsphpI) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou](https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS) | 7:45 | 2026-06-17 | 2026-07-12 |
 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 | 2022-05-29 | 2026-06-10 |
 | [Angel's Flight](https://open.spotify.com/track/5xoXNRaW1JQZMdLWQrpIh3) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/10VIuwTOJBJy22e4INZbE0) | 5:52 | 2026-06-10 |  |
 | [Antennaria](https://open.spotify.com/track/5ypp9xJW7yp3f2yC10gHEh) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 5:04 | 2022-05-29 |  |
@@ -65,7 +65,7 @@
 | [Faith and Reverence](https://open.spotify.com/track/5iPqoLslN6d14t7ZEeYHqu) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 3:18 | 2022-08-06 | 2022-10-07 |
 | [Fall In Fall Out](https://open.spotify.com/track/6R785CWKXgNE9e2hO5KaSg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 7:10 | 2022-08-13 | 2022-09-22 |
 | [Fast Atoms Escape](https://open.spotify.com/track/2OK97NvMcKPhSqs1JvDNgO) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 3:26 | 2022-06-05 | 2022-10-06 |
-| [Fast Atoms Escape](https://open.spotify.com/track/1djb4GHevlF1eTVkv92SHb) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou](https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS) | 3:29 | 2023-02-24 | 2026-07-08 |
+| [Fast Atoms Escape](https://open.spotify.com/track/1djb4GHevlF1eTVkv92SHb) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou](https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS) | 3:29 | 2023-02-24 |  |
 | [Florian´s Flute](https://open.spotify.com/track/2J0O7r3f6THs06qJwjgVyj) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Inland Delta](https://open.spotify.com/album/2JjR9KTuYLUDLctLpcAYiq) | 2:49 | 2023-12-13 | 2024-11-10 |
 | [Formanta](https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 4:09 | 2022-05-29 | 2025-03-28 |
 | [Forum](https://open.spotify.com/track/79gXdMFvcGA6k415JpMs8A) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Insomnia](https://open.spotify.com/album/1VL4JpgnHsA8Q9Vqp5wNlF) | 4:15 | 2022-08-30 | 2026-01-15 |
@@ -89,7 +89,7 @@
 | [Heights of the Depths](https://open.spotify.com/track/3B9oLKhef3KJnzoGU9QYte) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr), [Jony Easterby](https://open.spotify.com/artist/5n941pBjjRc0Binlhj3pYB) | [Compilation 1991\-2004](https://open.spotify.com/album/3O1xREyGJreUViSlNijDsZ) | 10:48 | 2024-08-06 | 2024-08-19 |
 | [Hilsondis](https://open.spotify.com/track/0UvJBrmxR8w99nLN6RCxvo) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Hilvarenbeek Recordings](https://open.spotify.com/album/28VBLIMroxoxDWx84oegfx) | 5:12 | 2022-09-14 | 2024-05-28 |
 | [Houses on the Hill](https://open.spotify.com/track/4tvFYcymXNBbi3qpYGtjOu) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 5:39 | 2022-09-21 | 2022-09-23 |
-| [Hyperborea](https://open.spotify.com/track/1Sw8rWRv7yASSHcGgOPKR0) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 5:45 | 2022-05-30 | 2026-07-04 |
+| [Hyperborea](https://open.spotify.com/track/1Sw8rWRv7yASSHcGgOPKR0) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 5:45 | 2022-05-30 |  |
 | [Iberia Eterea](https://open.spotify.com/track/64O74NcCUUafwf3wmoVisX) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 6:38 | 2022-05-31 | 2025-08-23 |
 | [Icoon](https://open.spotify.com/track/6LkFunQWp3tkmSNEnMQ1rt) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Hilvarenbeek Recordings](https://open.spotify.com/album/28VBLIMroxoxDWx84oegfx) | 4:55 | 2026-03-26 | 2026-03-27 |
 | [Ikata \- 1](https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 5:04 | 2023-01-28 | 2026-03-25 |
@@ -191,8 +191,9 @@
 | [The Way Of Time](https://open.spotify.com/track/6Gmnl1YWIX2g6XYZCxDY1J) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Way Of Time](https://open.spotify.com/album/1cNQwur61lzMiVdZyYoTA0) | 7:45 | 2025-06-22 | 2026-07-11 |
 | [The White Cliffs of Dover](https://open.spotify.com/track/74OAjOwkLkyTyabLXTvTnA) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 3:55 | 2025-11-15 | 2026-03-19 |
 | [Thermal Motion](https://open.spotify.com/track/6tJCshbkPm6CrzwDK8EdLt) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou](https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS) | 4:27 | 2026-04-21 | 2026-04-22 |
-| [Time Of Man](https://open.spotify.com/track/6QgE0BHCc2h8b6h4sDXdkb) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Way Of Time](https://open.spotify.com/album/1cNQwur61lzMiVdZyYoTA0) | 5:27 | 2025-06-22 |  |
-| [Times When I Know You'll Be Sad](https://open.spotify.com/track/1WgRcGb2uxmRvCcbPsz4kw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 3:44 | 2022-10-24 |  |
+| [Time Of Man](https://open.spotify.com/track/4O503tMZ2yqRCgE3KqFcii) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Way Of Time](https://open.spotify.com/album/5bvnzjJhvJShhiX4ooaDgN) | 5:27 | 2026-07-12 |  |
+| [Time Of Man](https://open.spotify.com/track/6QgE0BHCc2h8b6h4sDXdkb) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Way Of Time](https://open.spotify.com/album/1cNQwur61lzMiVdZyYoTA0) | 5:27 | 2025-06-22 | 2026-07-12 |
+| [Times When I Know You'll Be Sad](https://open.spotify.com/track/1WgRcGb2uxmRvCcbPsz4kw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 3:44 | 2022-10-24 | 2026-07-12 |
 | [Tokai](https://open.spotify.com/track/6s6lInlOoW9bDpuG0j1tMf) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 5:00 | 2023-04-19 | 2023-04-22 |
 | [Too Fragile to Walk On](https://open.spotify.com/track/7K7DeIN0qZvNVrc2Skyoks) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 4:51 | 2022-05-30 |  |
 | [Tornerai? II](https://open.spotify.com/track/0cxrDTGxIv2kj5ZaVqkUeW) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [L'incoronazione Di Poppea](https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA) | 1:31 | 2023-08-10 | 2025-04-10 |

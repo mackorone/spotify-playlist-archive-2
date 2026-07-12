@@ -1807,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/6zLvmGu1VnBkCZr6GmaXqD"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204966,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3bstaL7RoXaTTRsT53OdVn"
+    },
+    {
+      "album": {
         "name": "Never Be the Same",
         "url": "https://open.spotify.com/album/0Qoilkt1L6Do1In2oVOpDO"
       },

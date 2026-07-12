@@ -15836,7 +15836,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-09",
+      "date_removed": null,
       "duration_ms": 375836,
       "name": "\u304f\u3058\u3089\u306e\u6b4c",
       "url": "https://open.spotify.com/track/2V9auhhX0APHUfha9fBePK"
@@ -20872,7 +20872,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 159433,
       "name": "\u30c9\u30fc\u30eb",
       "url": "https://open.spotify.com/track/6w0aqok05y3cdCYQ6uJ8lX"
@@ -21652,6 +21652,24 @@
       "duration_ms": 127966,
       "name": "\u30d1\u30e9\u30bd\u30e0\u30cb\u30a2",
       "url": "https://open.spotify.com/track/5BnMjmHTJgmIOhUvfE2q9B"
+    },
+    {
+      "album": {
+        "name": "\u30d1\u30e9\u30ec\u30eb\u30ca\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/7eLUFaFni4wNgQTnOSmU3I"
+      },
+      "artists": [
+        {
+          "name": "BILLY BOO",
+          "url": "https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261145,
+      "name": "\u30d1\u30e9\u30ec\u30eb\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/3sUupr1kIWVUtNOgjIAFhg"
     },
     {
       "album": {
@@ -26784,7 +26802,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-12",
       "duration_ms": 257791,
       "name": "\u5929\u56fd",
       "url": "https://open.spotify.com/track/7gI06qAAF8KR3mFscGwcmg"

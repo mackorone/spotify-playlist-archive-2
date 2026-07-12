@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la d\u00e9cada. En portada: Joe Arroyo",
-  "num_followers": 806185,
+  "num_followers": 806280,
   "original_name": "Salsa: Los 90s",
   "owner": {
     "name": "Spotify",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Otra Nota",
-        "url": "https://open.spotify.com/album/4NiUxGgt2iSsbRa6Nf2ocq"
+        "name": "Una Aventura...La Historia",
+        "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 305066,
-      "name": "Hasta Que Te Conoc\u00ed",
-      "url": "https://open.spotify.com/track/7GwIVVxHiE6uyJrYSdCNMH"
+      "duration_ms": 294280,
+      "name": "Sin Sentimientos",
+      "url": "https://open.spotify.com/track/0oHX2BlLsnbu3nnTeEUIuL"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -303,24 +303,8 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Una Aventura...La Historia",
-        "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 294280,
-      "name": "Sin Sentimientos",
-      "url": "https://open.spotify.com/track/0oHX2BlLsnbu3nnTeEUIuL"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
-        "name": "Todo A Su Tiempo",
-        "url": "https://open.spotify.com/album/69lnF2K07sZMRbyGSuggFk"
+        "name": "Otra Nota",
+        "url": "https://open.spotify.com/album/4NiUxGgt2iSsbRa6Nf2ocq"
       },
       "artists": [
         {
@@ -328,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 293560,
-      "name": "Se Me Sigue Olvidando",
-      "url": "https://open.spotify.com/track/2wHtuxkW4dFAlwGkbnwa7l"
+      "duration_ms": 305066,
+      "name": "Hasta Que Te Conoc\u00ed",
+      "url": "https://open.spotify.com/track/7GwIVVxHiE6uyJrYSdCNMH"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -367,6 +351,22 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 287266,
+      "name": "Si Te Preguntan",
+      "url": "https://open.spotify.com/track/3Bg1xF0RPxbFN4eIen8PSG"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
         "name": "Un poquito de' to (Salsa - Merengue - Bachata & Reggaeton)",
         "url": "https://open.spotify.com/album/2b4nbJCVka7rbb5B7D4QON"
       },
@@ -383,18 +383,34 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+        "name": "Todo A Su Tiempo",
+        "url": "https://open.spotify.com/album/69lnF2K07sZMRbyGSuggFk"
       },
       "artists": [
         {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 287266,
-      "name": "Si Te Preguntan",
-      "url": "https://open.spotify.com/track/3Bg1xF0RPxbFN4eIen8PSG"
+      "duration_ms": 293560,
+      "name": "Se Me Sigue Olvidando",
+      "url": "https://open.spotify.com/track/2wHtuxkW4dFAlwGkbnwa7l"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Exitos y Mas",
+        "url": "https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 324466,
+      "name": "Siempre Ser\u00e9",
+      "url": "https://open.spotify.com/track/1FcUm2UbruVWMqQxzDhRWH"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -415,18 +431,18 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Exitos y Mas",
-        "url": "https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
       },
       "artists": [
         {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
         }
       ],
-      "duration_ms": 324466,
-      "name": "Siempre Ser\u00e9",
-      "url": "https://open.spotify.com/track/1FcUm2UbruVWMqQxzDhRWH"
+      "duration_ms": 284053,
+      "name": "Luna Negra",
+      "url": "https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -467,18 +483,18 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+        "name": "Pal Pueblo",
+        "url": "https://open.spotify.com/album/07JdIFh18naO244frEGUqi"
       },
       "artists": [
         {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
         }
       ],
-      "duration_ms": 284053,
-      "name": "Luna Negra",
-      "url": "https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm"
+      "duration_ms": 303306,
+      "name": "Es Mi Mujer",
+      "url": "https://open.spotify.com/track/1A77GFUHMnQW1U6Z9pejg1"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -499,22 +515,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Pal Pueblo",
-        "url": "https://open.spotify.com/album/07JdIFh18naO244frEGUqi"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 303306,
-      "name": "Es Mi Mujer",
-      "url": "https://open.spotify.com/track/1A77GFUHMnQW1U6Z9pejg1"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Serie Millennium 21: Paquito Guzman",
         "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
       },
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Cuando Parar\u00e1 La Lluvia",
-        "url": "https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Rivera",
-          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
-        }
-      ],
-      "duration_ms": 286693,
-      "name": "Cuando Parar\u00e1 La Lluvia",
-      "url": "https://open.spotify.com/track/6eQUjx96Gob2WwetawPBMQ"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "El Sonero Quel El Pueblo Prefiere",
         "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 300106,
       "name": "Lady Laura",
       "url": "https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Cuando Parar\u00e1 La Lluvia",
+        "url": "https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rivera",
+          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
+        }
+      ],
+      "duration_ms": 286693,
+      "name": "Cuando Parar\u00e1 La Lluvia",
+      "url": "https://open.spotify.com/track/6eQUjx96Gob2WwetawPBMQ"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Otra Nota",
-        "url": "https://open.spotify.com/album/4NiUxGgt2iSsbRa6Nf2ocq"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 293266,
-      "name": "Necesito Amarte",
-      "url": "https://open.spotify.com/track/6k7mfR2JMnfyLb2t3mcTJo"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 296720,
       "name": "Juliana",
       "url": "https://open.spotify.com/track/1Lm4aFolaeESmsGSzgpCuK"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Otra Nota",
+        "url": "https://open.spotify.com/album/4NiUxGgt2iSsbRa6Nf2ocq"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 293266,
+      "name": "Necesito Amarte",
+      "url": "https://open.spotify.com/track/6k7mfR2JMnfyLb2t3mcTJo"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Nacimiento Y Recuerdos",
-        "url": "https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 259360,
-      "name": "Vuelvo A Nacer",
-      "url": "https://open.spotify.com/track/2TBq7TNK5LaNcwUNAhP90E"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 257920,
       "name": "Magdalena, Mi Amor (Quimbara)",
       "url": "https://open.spotify.com/track/0ZmsWQm6rhz1VGUEbHZQfd"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Nacimiento Y Recuerdos",
+        "url": "https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 259360,
+      "name": "Vuelvo A Nacer",
+      "url": "https://open.spotify.com/track/2TBq7TNK5LaNcwUNAhP90E"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Frankie Ruiz La Leyenda",
-        "url": "https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 268493,
-      "name": "Mi Libertad",
-      "url": "https://open.spotify.com/track/5aoiZpjbWrDkWAaGDARn2q"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Con Amor Se Gana",
         "url": "https://open.spotify.com/album/3MaqSrmpWmDkg3kFo7nhbV"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 257933,
       "name": "Hoy Me He Vuelto a Enamorar",
       "url": "https://open.spotify.com/track/49TAVpzyEtdSQBYH71Uhed"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Frankie Ruiz La Leyenda",
+        "url": "https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 268493,
+      "name": "Mi Libertad",
+      "url": "https://open.spotify.com/track/5aoiZpjbWrDkWAaGDARn2q"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Exitos Eternos",
-        "url": "https://open.spotify.com/album/4dY4pdEIlP4XX9Vdj915Qg"
-      },
-      "artists": [
-        {
-          "name": "Johnny Ray",
-          "url": "https://open.spotify.com/artist/0pC0pFLfdKMboJmKgYgmuw"
-        }
-      ],
-      "duration_ms": 277506,
-      "name": "Mascarada",
-      "url": "https://open.spotify.com/track/7DKmBQ6INFuFRNSQsnwqeX"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Lo Que Llevo Por Dentro",
         "url": "https://open.spotify.com/album/1QTe8NivESo3klvIIhk2Bs"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 293240,
       "name": "Remolino",
       "url": "https://open.spotify.com/track/00bGrgNvhYh3zt5PC0co3K"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Exitos Eternos",
+        "url": "https://open.spotify.com/album/4dY4pdEIlP4XX9Vdj915Qg"
+      },
+      "artists": [
+        {
+          "name": "Johnny Ray",
+          "url": "https://open.spotify.com/artist/0pC0pFLfdKMboJmKgYgmuw"
+        }
+      ],
+      "duration_ms": 277506,
+      "name": "Mascarada",
+      "url": "https://open.spotify.com/track/7DKmBQ6INFuFRNSQsnwqeX"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Serie Cinco Estrellas",
-        "url": "https://open.spotify.com/album/0ks7E1ySIVQfx0Gle8zqqb"
-      },
-      "artists": [
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        }
-      ],
-      "duration_ms": 288226,
-      "name": "O Ella O Yo",
-      "url": "https://open.spotify.com/track/0jysCamDBv9EeAlfwj2Lla"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Lo Que Llevo Por Dentro",
         "url": "https://open.spotify.com/album/1QTe8NivESo3klvIIhk2Bs"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 292573,
       "name": "Enamorado De Ti - Salsa Version",
       "url": "https://open.spotify.com/track/5EOiyV8PrLDXBuvS1NdVu3"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Serie Cinco Estrellas",
+        "url": "https://open.spotify.com/album/0ks7E1ySIVQfx0Gle8zqqb"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "duration_ms": 288226,
+      "name": "O Ella O Yo",
+      "url": "https://open.spotify.com/track/0jysCamDBv9EeAlfwj2Lla"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Edici\u00f3n Limitada",
-        "url": "https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 306373,
-      "name": "Penas Penas",
-      "url": "https://open.spotify.com/track/1rBFZSviyShjZuF27YDsbn"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "No Me Compares",
         "url": "https://open.spotify.com/album/7b6xEvGDEPsUEtT9VfPaFj"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 297666,
       "name": "Agua Pasada",
       "url": "https://open.spotify.com/track/046WevUCvKfJC6FrowsePK"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Edici\u00f3n Limitada",
+        "url": "https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 306373,
+      "name": "Penas Penas",
+      "url": "https://open.spotify.com/track/1rBFZSviyShjZuF27YDsbn"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1611,8 +1611,8 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "B\u00fascame",
-        "url": "https://open.spotify.com/album/2NCLhGDYACSCs0UHT9jLAL"
+        "name": "Ahora Mas Que Nunca",
+        "url": "https://open.spotify.com/album/1r7GpzIQ7EHHsYrTRey2lV"
       },
       "artists": [
         {
@@ -1620,9 +1620,9 @@
           "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
         }
       ],
-      "duration_ms": 233325,
-      "name": "Aquel Lugar",
-      "url": "https://open.spotify.com/track/2vHNqDJe1qvt1sroQfNHSI"
+      "duration_ms": 271726,
+      "name": "Virgen",
+      "url": "https://open.spotify.com/track/5SIoLK4aqXc2UzNrhVHwtp"
     },
     {
       "added_at": "2024-07-12 19:20:44",

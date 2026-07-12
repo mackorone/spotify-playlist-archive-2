@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Parineet Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,539 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,549 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 30 | [Let Me Go](https://open.spotify.com/track/27Dme4bufvtzLZklVhAxLS) | [EAGLE BEATZ](https://open.spotify.com/artist/1z3q1N6XSG06XXvknr5iU2), [Aniket](https://open.spotify.com/artist/6rDjrU2KLibztNixyM3Kia) | [Let Me Go](https://open.spotify.com/album/2psXgAp4DOpkcqWAObQq9p) | 2:23 |
 | 31 | [Nishaniya](https://open.spotify.com/track/6UdOP4t2XH6ZXaMzoc6l6W) | [Lafz](https://open.spotify.com/artist/1gCzeV7qzOqYL1qQ1a8ukz), [Pradyuman singh](https://open.spotify.com/artist/21KdIAZ0Xu6PFgKGQiotJa), [Vinay Sharma](https://open.spotify.com/artist/1EJ9fKxGfcBUG45YCgTATu) | [Nishaniya](https://open.spotify.com/album/68JQsbiheLt1UqlH5Y6PyK) | 2:53 |
 | 32 | [Kinne Dil](https://open.spotify.com/track/78fNphdurCXZ50qObQbi7J) | [Preet Guree](https://open.spotify.com/artist/2YOq6u1oHUoGNvd5t4x7Ah), [Bugzy](https://open.spotify.com/artist/6YNHmTLaBKTLszcuUsaXCz) | [Kinne Dil](https://open.spotify.com/album/2npa2IfojPFP66VKvPd4xa) | 2:09 |
-| 33 | [Sun Wanjli Di Mithri Tan We](https://open.spotify.com/track/6i6xcGCMktQaGgbDPMc6vQ) | [Ruby Khan](https://open.spotify.com/artist/3dIZHHPQuk8sdhTBzcoBzO), [Manna Singh](https://open.spotify.com/artist/0CX5hMhHINo4YbvFEZmp5L) | [Sun Wanjli Di Mithri Tan We](https://open.spotify.com/album/7oKv1S0qPDs4lw0aNlAnGH) | 2:39 |
+| 33 | [Sun Wanjli Di Mithri Tan We](https://open.spotify.com/track/6i6xcGCMktQaGgbDPMc6vQ) | [Ruby Khan](https://open.spotify.com/artist/3dIZHHPQuk8sdhTBzcoBzO), [Manna Singh](https://open.spotify.com/artist/0WaxzwIZydEYr0Q6sUmJED) | [Sun Wanjli Di Mithri Tan We](https://open.spotify.com/album/7oKv1S0qPDs4lw0aNlAnGH) | 2:39 |
 | 34 | [Zoned Out](https://open.spotify.com/track/1zTN8OyoUBTXkAema6qYwx) | [NAGRA](https://open.spotify.com/artist/6WsC98HpaI7DwYbY2d74A5), [MishrAyush](https://open.spotify.com/artist/0hbD4EauwECKxPSO2XyrDo) | [Zoned Out](https://open.spotify.com/album/79akuX2PrHMexwtPjLEVqv) | 3:23 |
 | 35 | [Likh Likh Naam Tera](https://open.spotify.com/track/2CUrkLUDnX5nmQF4dybitd) | [Kirdaar](https://open.spotify.com/artist/338jXhNnM7wFYvYEX9kjOI), [Firoze](https://open.spotify.com/artist/1mJI4U1m2KZXvGFT9pt875), [Saffyy music](https://open.spotify.com/artist/0J6Vq7b7rNMvz2Gr27gAbJ) | [Likh Likh Naam Tera](https://open.spotify.com/album/3eZa7Jq1fpYMOFkTSSkgrb) | 3:21 |
 | 36 | [OBSESSED](https://open.spotify.com/track/70XANAcOM6M5ngT87Bbraf) | [DrillX](https://open.spotify.com/artist/1E3KBRJqOtjcFrizqPXLLf), [Drroch](https://open.spotify.com/artist/2DM5I5FulW4hnpQgSLHOJt) | [OBSESSED](https://open.spotify.com/album/43J7hbjCam0AV4rLkwgmv8) | 2:36 |
