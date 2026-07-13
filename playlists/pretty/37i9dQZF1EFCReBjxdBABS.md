@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 65 | [Light at the End of the Tunnel](https://open.spotify.com/track/2vTihEWfgxyAa1rSL2PJF9) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Light at the End of the Tunnel](https://open.spotify.com/album/1CCwL8psqVBcnMHOZU8G4H) | 3:28 |
 | 66 | [Phones And Radios](https://open.spotify.com/track/22R9NMqZeOjb3AvOhRgaDZ) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Things You Didn't See](https://open.spotify.com/album/1trtLENMUHUZrgKKNKjgty) | 2:46 |
 | 67 | [Greatest Show On Dirt](https://open.spotify.com/track/6FWY4E5i2nK96uenNx0yfV) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Greatest Show On Dirt](https://open.spotify.com/album/1QILqfKPa0NhK08YD6a79q) | 3:14 |
-| 68 | [Don't Say Goodnight](https://open.spotify.com/track/77Z79JhMPYNlHZaap9mm5W) | [CB30](https://open.spotify.com/artist/2PYT3wdKG3zn2sjztkf611) | [Don't Say Goodnight](https://open.spotify.com/album/6X1TomjwJtCv8uWMMKixRD) | 3:23 |
-| 69 | [Right Things Right](https://open.spotify.com/track/0KZaJHCvCIQahrENs4Wyaj) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Into The Neon](https://open.spotify.com/album/4x2LrG46EWrM6jkCie0YuU) | 3:39 |
+| 68 | [Right Things Right](https://open.spotify.com/track/0KZaJHCvCIQahrENs4Wyaj) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Into The Neon](https://open.spotify.com/album/4x2LrG46EWrM6jkCie0YuU) | 3:39 |
+| 69 | [Don't Say Goodnight](https://open.spotify.com/track/77Z79JhMPYNlHZaap9mm5W) | [CB30](https://open.spotify.com/artist/2PYT3wdKG3zn2sjztkf611) | [Don't Say Goodnight](https://open.spotify.com/album/6X1TomjwJtCv8uWMMKixRD) | 3:23 |
 | 70 | [Granted](https://open.spotify.com/track/3SoRJ8T5ttium7FSUfrBF8) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Granted](https://open.spotify.com/album/0aqiLiJHhzqbLZispCNATc) | 3:09 |
 | 71 | [Shovel](https://open.spotify.com/track/5ao3rMEaYM0I6GjhNe7ZX5) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg) | [Shovel](https://open.spotify.com/album/2KbjBBp1XuxhY5UZUke66S) | 2:47 |
 | 72 | [Don't Know Myself](https://open.spotify.com/track/55rRGt3xJzmYMYbQMQ4Roo) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Country With Heart \(Part One\)](https://open.spotify.com/album/5JMJALe7t4VoWpnXL4FdUY) | 2:57 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 129 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 130 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcWmkgAAAADwXR74SP2JvkQMDIFF73iV`
+Snapshot ID: `AcWsMgAAAACGGgecx1CB/ZL5PQzNvbhS`

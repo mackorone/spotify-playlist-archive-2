@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 259613,
+  "num_followers": 259659,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2026-06-25 23:00:32",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE"
-      },
-      "artists": [
-        {
-          "name": "Nosi",
-          "url": "https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R"
-        }
-      ],
-      "duration_ms": 219556,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4"
-    },
-    {
-      "added_at": "2026-06-25 23:00:32",
-      "album": {
         "name": "Could Have Been So Good",
         "url": "https://open.spotify.com/album/0TSPTOLyYN00EZ74iQelK8"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 206060,
       "name": "Could Have Been So Good",
       "url": "https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro"
+    },
+    {
+      "added_at": "2026-06-25 23:00:32",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE"
+      },
+      "artists": [
+        {
+          "name": "Nosi",
+          "url": "https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R"
+        }
+      ],
+      "duration_ms": 219556,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4"
     },
     {
       "added_at": "2026-06-25 23:00:32",
@@ -547,6 +547,26 @@
     {
       "added_at": "2026-06-25 23:00:32",
       "album": {
+        "name": "State Of Mind",
+        "url": "https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        }
+      ],
+      "duration_ms": 279120,
+      "name": "State Of Mind",
+      "url": "https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y"
+    },
+    {
+      "added_at": "2026-06-25 23:00:32",
+      "album": {
         "name": "Feel This Way",
         "url": "https://open.spotify.com/album/7CVPXNero5fCaq9l14Wdwo"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 237931,
       "name": "Feel This Way",
       "url": "https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv"
-    },
-    {
-      "added_at": "2026-06-25 23:00:32",
-      "album": {
-        "name": "State Of Mind",
-        "url": "https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        }
-      ],
-      "duration_ms": 279120,
-      "name": "State Of Mind",
-      "url": "https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y"
     },
     {
       "added_at": "2026-06-25 23:00:32",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-06-25 23:00:32",
       "album": {
-        "name": "Strange",
-        "url": "https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 224731,
-      "name": "Strange",
-      "url": "https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6"
-    },
-    {
-      "added_at": "2026-06-25 23:00:32",
-      "album": {
         "name": "Bigger Than All Of Us",
         "url": "https://open.spotify.com/album/0EovqHtUM3sLB0IqlS3Xkm"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 229733,
       "name": "Start A Fire",
       "url": "https://open.spotify.com/track/1gZKuzj9GsuFl0IshqPPom"
+    },
+    {
+      "added_at": "2026-06-25 23:00:32",
+      "album": {
+        "name": "Strange",
+        "url": "https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 224731,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6"
     },
     {
       "added_at": "2026-06-25 23:00:32",
@@ -843,26 +843,6 @@
     {
       "added_at": "2026-06-25 23:00:32",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 258409,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19"
-    },
-    {
-      "added_at": "2026-06-25 23:00:32",
-      "album": {
         "name": "Eusexua (Anyma Remix)",
         "url": "https://open.spotify.com/album/3XNLi9xalekB3v4swIj7zN"
       },
@@ -883,18 +863,22 @@
     {
       "added_at": "2026-06-25 23:00:32",
       "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA"
       },
       "artists": [
         {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 305235,
-      "name": "Make Believe",
-      "url": "https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo"
+      "duration_ms": 258409,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19"
     },
     {
       "added_at": "2026-06-25 23:00:32",
@@ -919,6 +903,22 @@
     {
       "added_at": "2026-06-25 23:00:32",
       "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 305235,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo"
+    },
+    {
+      "added_at": "2026-06-25 23:00:32",
+      "album": {
         "name": "If You're Here With Me",
         "url": "https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M"
       },
@@ -931,22 +931,6 @@
       "duration_ms": 208000,
       "name": "If You're Here With Me",
       "url": "https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc"
-    },
-    {
-      "added_at": "2026-06-25 23:00:32",
-      "album": {
-        "name": "Beside You",
-        "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 281826,
-      "name": "Beside You",
-      "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
     },
     {
       "added_at": "2026-06-25 23:00:32",
@@ -967,6 +951,42 @@
       "duration_ms": 252935,
       "name": "Chasing Ghosts",
       "url": "https://open.spotify.com/track/4uzqcDlCOl0et4pGtfkka5"
+    },
+    {
+      "added_at": "2026-06-25 23:00:32",
+      "album": {
+        "name": "Beside You",
+        "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 281826,
+      "name": "Beside You",
+      "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
+    },
+    {
+      "added_at": "2026-06-25 23:00:32",
+      "album": {
+        "name": "Ride At Dawn",
+        "url": "https://open.spotify.com/album/7DiasgKMXc817JWAUi1org"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Zo\u00eb Johnston",
+          "url": "https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL"
+        }
+      ],
+      "duration_ms": 173554,
+      "name": "Ride At Dawn",
+      "url": "https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d"
     },
     {
       "added_at": "2026-06-25 23:00:32",
@@ -995,22 +1015,18 @@
     {
       "added_at": "2026-06-25 23:00:32",
       "album": {
-        "name": "Ride At Dawn",
-        "url": "https://open.spotify.com/album/7DiasgKMXc817JWAUi1org"
+        "name": "Only Human",
+        "url": "https://open.spotify.com/album/0yRBPG7n4gLI1ZZ1OrH1vp"
       },
       "artists": [
         {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Zo\u00eb Johnston",
-          "url": "https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL"
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
         }
       ],
-      "duration_ms": 173554,
-      "name": "Ride At Dawn",
-      "url": "https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d"
+      "duration_ms": 205833,
+      "name": "Only Human",
+      "url": "https://open.spotify.com/track/22uFagCnhvRwZ0zM1OtYbO"
     },
     {
       "added_at": "2026-06-25 23:00:32",
@@ -1027,22 +1043,6 @@
       "duration_ms": 265215,
       "name": "i'm broken",
       "url": "https://open.spotify.com/track/00W5ReluVmupt8D4mMon1n"
-    },
-    {
-      "added_at": "2026-06-25 23:00:32",
-      "album": {
-        "name": "Only Human",
-        "url": "https://open.spotify.com/album/0yRBPG7n4gLI1ZZ1OrH1vp"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 205833,
-      "name": "Only Human",
-      "url": "https://open.spotify.com/track/22uFagCnhvRwZ0zM1OtYbO"
     },
     {
       "added_at": "2026-06-25 23:00:32",

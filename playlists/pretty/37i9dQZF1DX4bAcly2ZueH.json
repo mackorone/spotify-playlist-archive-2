@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 55135,
+  "num_followers": 55142,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2026-07-10 12:09:13",
       "album": {
-        "name": "Emi",
-        "url": "https://open.spotify.com/album/5oVfx9FpogQzFa3UKJsMMM"
-      },
-      "artists": [
-        {
-          "name": "Daigo Hanada",
-          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Emi",
-      "url": "https://open.spotify.com/track/13kpVy1mmtoxyGs7TSQS1F"
-    },
-    {
-      "added_at": "2026-07-10 12:09:13",
-      "album": {
         "name": "when i think of you",
         "url": "https://open.spotify.com/album/7L2pJQGdQH14JCACTRaf0x"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 169714,
       "name": "when i think of you",
       "url": "https://open.spotify.com/track/68hcUgRL0STb26FmTyRSP9"
+    },
+    {
+      "added_at": "2026-07-10 12:09:13",
+      "album": {
+        "name": "Emi",
+        "url": "https://open.spotify.com/album/5oVfx9FpogQzFa3UKJsMMM"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Emi",
+      "url": "https://open.spotify.com/track/13kpVy1mmtoxyGs7TSQS1F"
     },
     {
       "added_at": "2026-07-10 12:09:13",
@@ -403,26 +403,6 @@
     {
       "added_at": "2026-07-10 12:09:13",
       "album": {
-        "name": "Namikimichi",
-        "url": "https://open.spotify.com/album/6GCOhJ4u43m3tJaNKkhErs"
-      },
-      "artists": [
-        {
-          "name": "Komachi",
-          "url": "https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr"
-        },
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 119230,
-      "name": "Namikimichi",
-      "url": "https://open.spotify.com/track/6QgKDOxmx5ZRLHHrjSoacw"
-    },
-    {
-      "added_at": "2026-07-10 12:09:13",
-      "album": {
         "name": "This is Our First EP",
         "url": "https://open.spotify.com/album/7MTcyli1F7LlD4EwPDbFR9"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 212690,
       "name": "School",
       "url": "https://open.spotify.com/track/6gluPYzqFaJyaCziD4kNUu"
+    },
+    {
+      "added_at": "2026-07-10 12:09:13",
+      "album": {
+        "name": "Namikimichi",
+        "url": "https://open.spotify.com/album/6GCOhJ4u43m3tJaNKkhErs"
+      },
+      "artists": [
+        {
+          "name": "Komachi",
+          "url": "https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr"
+        },
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 119230,
+      "name": "Namikimichi",
+      "url": "https://open.spotify.com/track/6QgKDOxmx5ZRLHHrjSoacw"
     },
     {
       "added_at": "2026-07-10 12:09:13",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-07-10 12:09:13",
       "album": {
+        "name": "\u5c71\u6708",
+        "url": "https://open.spotify.com/album/6Z0UjFVXkFckcns2oHcOJT"
+      },
+      "artists": [
+        {
+          "name": "\u7e54\u7530\u7950\u4eae",
+          "url": "https://open.spotify.com/artist/2oSlBHEUTRW3jqfbI6l5cD"
+        }
+      ],
+      "duration_ms": 193384,
+      "name": "\u5c71\u6708",
+      "url": "https://open.spotify.com/track/7dO2wvBbkZtX2mKVbP2DcX"
+    },
+    {
+      "added_at": "2026-07-10 12:09:13",
+      "album": {
         "name": "bed (rework)",
         "url": "https://open.spotify.com/album/55TlZbTAmCgXIS1aGdQgRS"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": "2026-07-10 12:09:13",
       "album": {
-        "name": "\u5c71\u6708",
-        "url": "https://open.spotify.com/album/6Z0UjFVXkFckcns2oHcOJT"
-      },
-      "artists": [
-        {
-          "name": "\u7e54\u7530\u7950\u4eae",
-          "url": "https://open.spotify.com/artist/2oSlBHEUTRW3jqfbI6l5cD"
-        }
-      ],
-      "duration_ms": 193384,
-      "name": "\u5c71\u6708",
-      "url": "https://open.spotify.com/track/7dO2wvBbkZtX2mKVbP2DcX"
-    },
-    {
-      "added_at": "2026-07-10 12:09:13",
-      "album": {
         "name": "UP AND DOWN Original Soundtrack",
         "url": "https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6"
       },
@@ -699,22 +699,6 @@
       "duration_ms": 189696,
       "name": "\u304a\u306f\u306a\u3057\u306e\u306f\u3058\u307e\u308a",
       "url": "https://open.spotify.com/track/5xLpCD2QT3rOsmNpwcwjaI"
-    },
-    {
-      "added_at": "2026-07-10 12:09:13",
-      "album": {
-        "name": "Day of the Moon",
-        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 156363,
-      "name": "Day of the Moon",
-      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
     },
     {
       "added_at": "2026-07-10 12:09:13",
@@ -735,18 +719,18 @@
     {
       "added_at": "2026-07-10 12:09:13",
       "album": {
-        "name": "Scenery",
-        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
+        "name": "Day of the Moon",
+        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
       },
       "artists": [
         {
-          "name": "Snail's House",
-          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
         }
       ],
-      "duration_ms": 167543,
-      "name": "Walk (Interlude)",
-      "url": "https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU"
+      "duration_ms": 156363,
+      "name": "Day of the Moon",
+      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
     },
     {
       "added_at": "2026-07-10 12:09:13",
@@ -787,6 +771,22 @@
       "duration_ms": 133953,
       "name": "When We Were Small",
       "url": "https://open.spotify.com/track/3aYsApItrWLtRbk7YA42m8"
+    },
+    {
+      "added_at": "2026-07-10 12:09:13",
+      "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
+      },
+      "artists": [
+        {
+          "name": "Snail's House",
+          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
+        }
+      ],
+      "duration_ms": 167543,
+      "name": "Walk (Interlude)",
+      "url": "https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU"
     },
     {
       "added_at": "2026-07-10 12:09:13",
@@ -847,22 +847,18 @@
     {
       "added_at": "2026-07-10 12:09:13",
       "album": {
-        "name": "Abbot Kinney",
-        "url": "https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F"
+        "name": "Reminisce",
+        "url": "https://open.spotify.com/album/4uC5dQp9iXETYGVKaa6pso"
       },
       "artists": [
         {
-          "name": "Netsky",
-          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
-        },
-        {
-          "name": "Jozzy",
-          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+          "name": "\u6cd5\u658eBeats",
+          "url": "https://open.spotify.com/artist/48gniwDxLdyYvSK1faa6ia"
         }
       ],
-      "duration_ms": 191040,
-      "name": "Thank You (feat. Jozzy)",
-      "url": "https://open.spotify.com/track/5xN7LpsBhJb277t1lsfpLR"
+      "duration_ms": 172833,
+      "name": "Reminisce",
+      "url": "https://open.spotify.com/track/7LVs0f78kMJHBlIDrmE7u2"
     },
     {
       "added_at": "2026-07-10 12:09:13",
@@ -887,18 +883,22 @@
     {
       "added_at": "2026-07-10 12:09:13",
       "album": {
-        "name": "Reminisce",
-        "url": "https://open.spotify.com/album/4uC5dQp9iXETYGVKaa6pso"
+        "name": "Abbot Kinney",
+        "url": "https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F"
       },
       "artists": [
         {
-          "name": "\u6cd5\u658eBeats",
-          "url": "https://open.spotify.com/artist/48gniwDxLdyYvSK1faa6ia"
+          "name": "Netsky",
+          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
         }
       ],
-      "duration_ms": 172833,
-      "name": "Reminisce",
-      "url": "https://open.spotify.com/track/7LVs0f78kMJHBlIDrmE7u2"
+      "duration_ms": 191040,
+      "name": "Thank You (feat. Jozzy)",
+      "url": "https://open.spotify.com/track/5xN7LpsBhJb277t1lsfpLR"
     },
     {
       "added_at": "2026-07-10 12:09:13",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-07-10 12:09:13",
       "album": {
+        "name": "dear surfers",
+        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 129332,
+      "name": "surf minimalism",
+      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
+    },
+    {
+      "added_at": "2026-07-10 12:09:13",
+      "album": {
         "name": "It Hurts to Love You (it meant a lot)",
         "url": "https://open.spotify.com/album/5Y4c4Kw0d200NV2xrSRf9T"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 117600,
       "name": "It Hurts to Love You (it meant a lot)",
       "url": "https://open.spotify.com/track/0ZnhEBFsiW2JuyED8OmV7m"
-    },
-    {
-      "added_at": "2026-07-10 12:09:13",
-      "album": {
-        "name": "dear surfers",
-        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 129332,
-      "name": "surf minimalism",
-      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
     },
     {
       "added_at": "2026-07-10 12:09:13",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-07-10 12:09:13",
       "album": {
+        "name": "Fantastic",
+        "url": "https://open.spotify.com/album/0wbQoBc4b2zu8dCHnl9ou0"
+      },
+      "artists": [
+        {
+          "name": "Oowets",
+          "url": "https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo"
+        }
+      ],
+      "duration_ms": 195164,
+      "name": "Fantastic",
+      "url": "https://open.spotify.com/track/28tdrDdSAkaQdf0EP7UAX6"
+    },
+    {
+      "added_at": "2026-07-10 12:09:13",
+      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/6hI75GsBZzJ5MaMXgdgFeB"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 168750,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/4tZu0tRlNf8ZVsHUJd8vfy"
-    },
-    {
-      "added_at": "2026-07-10 12:09:13",
-      "album": {
-        "name": "Fantastic",
-        "url": "https://open.spotify.com/album/0wbQoBc4b2zu8dCHnl9ou0"
-      },
-      "artists": [
-        {
-          "name": "Oowets",
-          "url": "https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo"
-        }
-      ],
-      "duration_ms": 195164,
-      "name": "Fantastic",
-      "url": "https://open.spotify.com/track/28tdrDdSAkaQdf0EP7UAX6"
     },
     {
       "added_at": "2026-07-10 12:09:13",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2026-07-10 12:09:13",
       "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB"
+    },
+    {
+      "added_at": "2026-07-10 12:09:13",
+      "album": {
         "name": "Eshajori",
         "url": "https://open.spotify.com/album/2rK9glZuJk3rtDgADQ02ZI"
       },
@@ -1315,26 +1335,6 @@
     {
       "added_at": "2026-07-10 12:09:13",
       "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB"
-    },
-    {
-      "added_at": "2026-07-10 12:09:13",
-      "album": {
         "name": "Meditation Loop",
         "url": "https://open.spotify.com/album/7u0RdGp0lZfmZGmU4bx1pc"
       },
@@ -1351,6 +1351,22 @@
       "duration_ms": 256551,
       "name": "Meditation Loop",
       "url": "https://open.spotify.com/track/3O3x1XjurQCpCH6ATdF6AR"
+    },
+    {
+      "added_at": "2026-07-10 12:09:13",
+      "album": {
+        "name": "Night Owl Dream",
+        "url": "https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV"
+      },
+      "artists": [
+        {
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+        }
+      ],
+      "duration_ms": 156279,
+      "name": "Night Owl Dream",
+      "url": "https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3"
     },
     {
       "added_at": "2026-07-10 12:09:13",
@@ -1387,22 +1403,6 @@
       "duration_ms": 69720,
       "name": "Boardwalk",
       "url": "https://open.spotify.com/track/1zmVh7dWFDF5SLgRhGEzzI"
-    },
-    {
-      "added_at": "2026-07-10 12:09:13",
-      "album": {
-        "name": "Night Owl Dream",
-        "url": "https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV"
-      },
-      "artists": [
-        {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
-        }
-      ],
-      "duration_ms": 156279,
-      "name": "Night Owl Dream",
-      "url": "https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3"
     },
     {
       "added_at": "2026-07-10 12:09:13",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2026-07-10 12:09:13",
       "album": {
+        "name": "The Sea",
+        "url": "https://open.spotify.com/album/1UsGJY24SYBJDXRDJe73VP"
+      },
+      "artists": [
+        {
+          "name": "Joey Pecoraro",
+          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
+        }
+      ],
+      "duration_ms": 165449,
+      "name": "The Sea",
+      "url": "https://open.spotify.com/track/4kPPj8k1gBxVeC5KxzZvta"
+    },
+    {
+      "added_at": "2026-07-10 12:09:13",
+      "album": {
         "name": "Sign",
         "url": "https://open.spotify.com/album/0kAC2pYik4U4CQpG8q04RM"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 213098,
       "name": "Fade",
       "url": "https://open.spotify.com/track/523JhlyXKv5nUyRUFbYSlS"
-    },
-    {
-      "added_at": "2026-07-10 12:09:13",
-      "album": {
-        "name": "Just Piano",
-        "url": "https://open.spotify.com/album/5SE9QAP8pab2Ke1Tce1EeJ"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 212158,
-      "name": "Sundays - Just Piano Version",
-      "url": "https://open.spotify.com/track/2iNjjoEw6W0Y05ykgQWBCK"
     }
   ],
   "unique_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",

@@ -1,6 +1,6 @@
 {
   "description": "Tangueros - Rockeros, Rockeros - Tangueros.",
-  "num_followers": 32716,
+  "num_followers": 32719,
   "original_name": "Tango Rock",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-05-05 14:11:37",
       "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/2TzE5fyGKtTkci8iFNf6zW"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 247821,
+      "name": "Tango del Diablo",
+      "url": "https://open.spotify.com/track/7ecBAjx1GU25gkqgFkpIGA"
+    },
+    {
+      "added_at": "2023-05-05 14:11:37",
+      "album": {
         "name": "Chac Tu Chac",
         "url": "https://open.spotify.com/album/40WRsRybH7Qnm4WAC3wmBJ"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 181266,
       "name": "Yira Yira",
       "url": "https://open.spotify.com/track/4H4UcF9pCpX3vAImo2dBam"
-    },
-    {
-      "added_at": "2023-05-05 14:11:37",
-      "album": {
-        "name": "Martingala",
-        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        }
-      ],
-      "duration_ms": 225771,
-      "name": "Las Tribus",
-      "url": "https://open.spotify.com/track/0Hnne5lFK5ppt6UO4BzYjc"
     }
   ],
   "unique_name": "Tango Rock",

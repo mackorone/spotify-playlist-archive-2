@@ -1,6 +1,6 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 95356,
+  "num_followers": 95362,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
@@ -383,30 +383,6 @@
     {
       "added_at": "2025-12-15 11:57:31",
       "album": {
-        "name": "Gershwin: An American in Paris - Porgy and Bess Suite",
-        "url": "https://open.spotify.com/album/1w0tXMlnaJvGPElqwhgxkx"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "New Zealand Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
-        },
-        {
-          "name": "James Judd",
-          "url": "https://open.spotify.com/artist/3bRgHXc5F81fdXrdh5jpz5"
-        }
-      ],
-      "duration_ms": 642240,
-      "name": "Cuban Overture",
-      "url": "https://open.spotify.com/track/3RNmP7uugYhKZGzCEmXt8E"
-    },
-    {
-      "added_at": "2025-12-15 11:57:31",
-      "album": {
         "name": "Gershwin for Trumpet",
         "url": "https://open.spotify.com/album/0pdegcimOFi10jS49gi458"
       },
@@ -427,6 +403,30 @@
       "duration_ms": 510600,
       "name": "A Damsel in Distress: A Foggy Day (Arr. P. Breiner)",
       "url": "https://open.spotify.com/track/60Ivc8tpIsZhPgeP9CJhqt"
+    },
+    {
+      "added_at": "2025-12-15 11:57:31",
+      "album": {
+        "name": "Gershwin: An American in Paris - Porgy and Bess Suite",
+        "url": "https://open.spotify.com/album/1w0tXMlnaJvGPElqwhgxkx"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "New Zealand Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
+        },
+        {
+          "name": "James Judd",
+          "url": "https://open.spotify.com/artist/3bRgHXc5F81fdXrdh5jpz5"
+        }
+      ],
+      "duration_ms": 642240,
+      "name": "Cuban Overture",
+      "url": "https://open.spotify.com/track/3RNmP7uugYhKZGzCEmXt8E"
     },
     {
       "added_at": "2025-12-15 11:57:31",
@@ -507,30 +507,6 @@
     {
       "added_at": "2025-12-15 11:57:31",
       "album": {
-        "name": "Michael Tilson Thomas Conducts Gershwin",
-        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Michael Tilson Thomas",
-          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        }
-      ],
-      "duration_ms": 498373,
-      "name": "Let 'Em Eat Cake: Overture",
-      "url": "https://open.spotify.com/track/1AkIFKsdsYe8es9Bruub5G"
-    },
-    {
-      "added_at": "2025-12-15 11:57:31",
-      "album": {
         "name": "Gershwin Fantasy",
         "url": "https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR"
       },
@@ -555,6 +531,30 @@
       "duration_ms": 231053,
       "name": "Liza (All the Clouds'll Roll Away)",
       "url": "https://open.spotify.com/track/2pnu2daFVs2wgasI1BGdU8"
+    },
+    {
+      "added_at": "2025-12-15 11:57:31",
+      "album": {
+        "name": "Michael Tilson Thomas Conducts Gershwin",
+        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        }
+      ],
+      "duration_ms": 498373,
+      "name": "Let 'Em Eat Cake: Overture",
+      "url": "https://open.spotify.com/track/1AkIFKsdsYe8es9Bruub5G"
     },
     {
       "added_at": "2025-12-15 11:57:31",

@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 36014,
+  "num_followers": 36012,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "MATADORA",
-        "url": "https://open.spotify.com/album/3quyIGy1dBWUoEVK7BWY9c"
-      },
-      "artists": [
-        {
-          "name": "DJ Asul",
-          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
-        }
-      ],
-      "duration_ms": 88615,
-      "name": "MATADORA",
-      "url": "https://open.spotify.com/track/7jqxHXlu3Ya7WF7lD7tIXj"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Makina Time",
         "url": "https://open.spotify.com/album/2GglSuNrhoPfB0lFSoho5G"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 130090,
       "name": "Makina Time",
       "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "MATADORA",
+        "url": "https://open.spotify.com/album/3quyIGy1dBWUoEVK7BWY9c"
+      },
+      "artists": [
+        {
+          "name": "DJ Asul",
+          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
+        }
+      ],
+      "duration_ms": 88615,
+      "name": "MATADORA",
+      "url": "https://open.spotify.com/track/7jqxHXlu3Ya7WF7lD7tIXj"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -803,26 +803,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "SPOOKY",
-        "url": "https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9"
-      },
-      "artists": [
-        {
-          "name": "fennecxx",
-          "url": "https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2"
-        },
-        {
-          "name": "DJ ALEX",
-          "url": "https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL"
-        }
-      ],
-      "duration_ms": 96923,
-      "name": "SPOOKY",
-      "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Step Back!",
         "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 150674,
       "name": "Step Back!",
       "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "SPOOKY",
+        "url": "https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9"
+      },
+      "artists": [
+        {
+          "name": "fennecxx",
+          "url": "https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2"
+        },
+        {
+          "name": "DJ ALEX",
+          "url": "https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL"
+        }
+      ],
+      "duration_ms": 96923,
+      "name": "SPOOKY",
+      "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Weekend Rockstar",
-        "url": "https://open.spotify.com/album/6Y6XreGMhHRm3FIqHYjGXF"
-      },
-      "artists": [
-        {
-          "name": "Feng",
-          "url": "https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh"
-        }
-      ],
-      "duration_ms": 111725,
-      "name": "XOXO",
-      "url": "https://open.spotify.com/track/0LIEtliIARSvMc5niYy0OX"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "vendetta!",
         "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Weekend Rockstar",
+        "url": "https://open.spotify.com/album/6Y6XreGMhHRm3FIqHYjGXF"
+      },
+      "artists": [
+        {
+          "name": "Feng",
+          "url": "https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh"
+        }
+      ],
+      "duration_ms": 111725,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/0LIEtliIARSvMc5niYy0OX"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1095,30 +1095,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "He's A Pirate (Save Me)",
-        "url": "https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "KEL",
-          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
-        }
-      ],
-      "duration_ms": 153125,
-      "name": "He's A Pirate (Save Me)",
-      "url": "https://open.spotify.com/track/1Vj7ZZgVpNIKqkC2bA9mpx"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Craving 4 U (feat. bbyclose)",
         "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
       },
@@ -1143,6 +1119,30 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "He's A Pirate (Save Me)",
+        "url": "https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "KEL",
+          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
+        }
+      ],
+      "duration_ms": 153125,
+      "name": "He's A Pirate (Save Me)",
+      "url": "https://open.spotify.com/track/1Vj7ZZgVpNIKqkC2bA9mpx"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Crystals",
         "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
       },
@@ -1155,50 +1155,6 @@
       "duration_ms": 139200,
       "name": "Crystals",
       "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "MONTAGEM - PR FUNK",
-        "url": "https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB"
-      },
-      "artists": [
-        {
-          "name": "S3BZS",
-          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Mc Menor Do Alvorada",
-          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
-        }
-      ],
-      "duration_ms": 61634,
-      "name": "MONTAGEM - PR FUNK",
-      "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "DEMONS IN MY SOUL",
-        "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
-      },
-      "artists": [
-        {
-          "name": "SCXR SOUL",
-          "url": "https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC"
-        },
-        {
-          "name": "Sx1nxwy",
-          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
-        }
-      ],
-      "duration_ms": 117637,
-      "name": "DEMONS IN MY SOUL",
-      "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1227,6 +1183,50 @@
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "DEMONS IN MY SOUL",
+        "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
+      },
+      "artists": [
+        {
+          "name": "SCXR SOUL",
+          "url": "https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC"
+        },
+        {
+          "name": "Sx1nxwy",
+          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
+        }
+      ],
+      "duration_ms": 117637,
+      "name": "DEMONS IN MY SOUL",
+      "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "MONTAGEM - PR FUNK",
+        "url": "https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
+        }
+      ],
+      "duration_ms": 61634,
+      "name": "MONTAGEM - PR FUNK",
+      "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "duration_ms": 226831,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 185600,
       "name": "Duro",
       "url": "https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4"
-      },
-      "artists": [
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
-        }
-      ],
-      "duration_ms": 226831,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1875,26 +1875,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "SATA",
-        "url": "https://open.spotify.com/album/12Z3iZ8cEE8nNJbzR59Fdr"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Rohaan",
-          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
-        }
-      ],
-      "duration_ms": 182678,
-      "name": "SATA",
-      "url": "https://open.spotify.com/track/5RDVoCdb0LtcSiYnUG0R4d"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "FREE",
         "url": "https://open.spotify.com/album/1zVywztGQJXkOlWgmLNrsl"
       },
@@ -1915,6 +1895,26 @@
       "duration_ms": 236291,
       "name": "FREE",
       "url": "https://open.spotify.com/track/1eGJxyyyQn4s8NVLLtkNkm"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "SATA",
+        "url": "https://open.spotify.com/album/12Z3iZ8cEE8nNJbzR59Fdr"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Rohaan",
+          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+        }
+      ],
+      "duration_ms": 182678,
+      "name": "SATA",
+      "url": "https://open.spotify.com/track/5RDVoCdb0LtcSiYnUG0R4d"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "SICK FUCK",
-        "url": "https://open.spotify.com/album/6lAZHBlWEvprlhgX4pMKWN"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 153818,
-      "name": "SICK FUCK",
-      "url": "https://open.spotify.com/track/77A94wc7fOY0vuMffWELYJ"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Echo Chamber",
         "url": "https://open.spotify.com/album/2TjelVZVTDssWHvROGDyC4"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 253714,
       "name": "Echo Chamber",
       "url": "https://open.spotify.com/track/7sJ4ue5uhSaXnNlmBWOyuv"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "SICK FUCK",
+        "url": "https://open.spotify.com/album/6lAZHBlWEvprlhgX4pMKWN"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "duration_ms": 153818,
+      "name": "SICK FUCK",
+      "url": "https://open.spotify.com/track/77A94wc7fOY0vuMffWELYJ"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2175,6 +2175,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Jump In",
+        "url": "https://open.spotify.com/album/2JifGzJQPmV1rF22CyYW4H"
+      },
+      "artists": [
+        {
+          "name": "Noah Baine",
+          "url": "https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Jump In",
+      "url": "https://open.spotify.com/track/7aDl834jw3OD93b4gWEYXx"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "As The Pendulum Swings",
         "url": "https://open.spotify.com/album/6lWtjIwHMyJdZlRaiGwVnd"
       },
@@ -2195,22 +2211,6 @@
       "duration_ms": 148300,
       "name": "HOW I DO IT",
       "url": "https://open.spotify.com/track/0Y1ZeaRs0gAEwb1rYxdbjq"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Jump In",
-        "url": "https://open.spotify.com/album/2JifGzJQPmV1rF22CyYW4H"
-      },
-      "artists": [
-        {
-          "name": "Noah Baine",
-          "url": "https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Jump In",
-      "url": "https://open.spotify.com/track/7aDl834jw3OD93b4gWEYXx"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2371,38 +2371,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Welcome To My Crib",
-        "url": "https://open.spotify.com/album/3NAuKs5dqQH4sKwFTh71zq"
-      },
-      "artists": [
-        {
-          "name": "FUCK!LACR\u00c8ME",
-          "url": "https://open.spotify.com/artist/6ORtqnmzscfjstI402S8tc"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Slam It",
-      "url": "https://open.spotify.com/track/1r2lP8B7tBmK1zATKzXO3g"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "oknottobeok",
-        "url": "https://open.spotify.com/album/7Dt32PFY41gLe16zWQFFPh"
-      },
-      "artists": [
-        {
-          "name": "okgiorgio",
-          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
-        }
-      ],
-      "duration_ms": 204788,
-      "name": "oknottobeok",
-      "url": "https://open.spotify.com/track/5JAtlL8M4CyF9gbgd9jUab"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Wall-To-Wall",
         "url": "https://open.spotify.com/album/0B9Olm8ITkG2zl7vMyI1ga"
       },
@@ -2423,6 +2391,38 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "oknottobeok",
+        "url": "https://open.spotify.com/album/7Dt32PFY41gLe16zWQFFPh"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "duration_ms": 204788,
+      "name": "oknottobeok",
+      "url": "https://open.spotify.com/track/5JAtlL8M4CyF9gbgd9jUab"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Welcome To My Crib",
+        "url": "https://open.spotify.com/album/3NAuKs5dqQH4sKwFTh71zq"
+      },
+      "artists": [
+        {
+          "name": "FUCK!LACR\u00c8ME",
+          "url": "https://open.spotify.com/artist/6ORtqnmzscfjstI402S8tc"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Slam It",
+      "url": "https://open.spotify.com/track/1r2lP8B7tBmK1zATKzXO3g"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "club maki",
         "url": "https://open.spotify.com/album/0TL0aAXpuy64QIJKMv4bhb"
       },
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/0nYNEtTraLb8gQDf7uOVIg"
-      },
-      "artists": [
-        {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
-        }
-      ],
-      "duration_ms": 216338,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/4vNtM0pqzltQXaSAd4Dj61"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "issa vibe",
         "url": "https://open.spotify.com/album/0d6Pj4XcVEMjtM7MODtLjI"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 171428,
       "name": "issa vibe",
       "url": "https://open.spotify.com/track/0cKICIfbu0qOndy9I3rInG"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/0nYNEtTraLb8gQDf7uOVIg"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "duration_ms": 216338,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/4vNtM0pqzltQXaSAd4Dj61"
     },
     {
       "added_at": "2026-04-13 15:38:24",

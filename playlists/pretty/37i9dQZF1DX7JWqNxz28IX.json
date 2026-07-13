@@ -1,6 +1,6 @@
 {
   "description": "\ud835\udd8b\ud835\udd9a\ud835\udd88\ud835\udd90 \ud835\udd91\ud835\udd94\ud835\udd9b\ud835\udd8a",
-  "num_followers": 47186,
+  "num_followers": 47184,
   "original_name": "rimedi per cuori spezzati",
   "owner": {
     "name": "Spotify",
@@ -1127,18 +1127,22 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "Campi Elisi",
-        "url": "https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT"
+        "name": "Letto grande",
+        "url": "https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC"
       },
       "artists": [
         {
-          "name": "FRERO",
-          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
+          "name": "Matteo Guccini",
+          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
+        },
+        {
+          "name": "Fedesse",
+          "url": "https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC"
         }
       ],
-      "duration_ms": 177931,
-      "name": "Campi Elisi",
-      "url": "https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK"
+      "duration_ms": 211500,
+      "name": "Letto grande",
+      "url": "https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -1159,22 +1163,18 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "Letto grande",
-        "url": "https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC"
+        "name": "Campi Elisi",
+        "url": "https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT"
       },
       "artists": [
         {
-          "name": "Matteo Guccini",
-          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
-        },
-        {
-          "name": "Fedesse",
-          "url": "https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC"
+          "name": "FRERO",
+          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
         }
       ],
-      "duration_ms": 211500,
-      "name": "Letto grande",
-      "url": "https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn"
+      "duration_ms": 177931,
+      "name": "Campi Elisi",
+      "url": "https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "Volevo dirti",
-        "url": "https://open.spotify.com/album/2uHvJYoHJbcC4rwcdqSgZM"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        }
-      ],
-      "duration_ms": 181953,
-      "name": "Volevo dirti",
-      "url": "https://open.spotify.com/track/4DGL38YHhXeoZehaVdoICU"
-    },
-    {
-      "added_at": "2026-05-21 22:02:55",
-      "album": {
         "name": "ERA L\u2019INIZIO",
         "url": "https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 229279,
       "name": ":RRaGNaTELa",
       "url": "https://open.spotify.com/track/5kI5Dm8y6dV3Aqx9fPJqhN"
+    },
+    {
+      "added_at": "2026-05-21 22:02:55",
+      "album": {
+        "name": "Volevo dirti",
+        "url": "https://open.spotify.com/album/2uHvJYoHJbcC4rwcdqSgZM"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 181953,
+      "name": "Volevo dirti",
+      "url": "https://open.spotify.com/track/4DGL38YHhXeoZehaVdoICU"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -1363,6 +1363,30 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
+        "name": "MUSICA ALTA E STRESS",
+        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
+      },
+      "artists": [
+        {
+          "name": "UkuLele",
+          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
+        },
+        {
+          "name": "Delta",
+          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
+        },
+        {
+          "name": "Close Listen",
+          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "SEMBREREMO DISTANTI",
+      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
+    },
+    {
+      "added_at": "2026-05-21 22:02:55",
+      "album": {
         "name": "Sotto lo zero",
         "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
       },
@@ -1395,22 +1419,6 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "QUARTA DIMENSIONE",
-        "url": "https://open.spotify.com/album/3SIcscGSZtXx88OlAVborN"
-      },
-      "artists": [
-        {
-          "name": "Carla Hero",
-          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "CAMBIARE VITA",
-      "url": "https://open.spotify.com/track/2Y4Ty4zx57GxoGsDY3ERiD"
-    },
-    {
-      "added_at": "2026-05-21 22:02:55",
-      "album": {
         "name": "L'effetto che mi fai",
         "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
       },
@@ -1427,42 +1435,18 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "MUSICA ALTA E STRESS",
-        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
+        "name": "QUARTA DIMENSIONE",
+        "url": "https://open.spotify.com/album/3SIcscGSZtXx88OlAVborN"
       },
       "artists": [
         {
-          "name": "UkuLele",
-          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
-        },
-        {
-          "name": "Delta",
-          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
-        },
-        {
-          "name": "Close Listen",
-          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
+          "name": "Carla Hero",
+          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
         }
       ],
-      "duration_ms": 165714,
-      "name": "SEMBREREMO DISTANTI",
-      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
-    },
-    {
-      "added_at": "2026-05-21 22:02:55",
-      "album": {
-        "name": "Semprerosa",
-        "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        }
-      ],
-      "duration_ms": 200153,
-      "name": "Semprerosa",
-      "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
+      "duration_ms": 121000,
+      "name": "CAMBIARE VITA",
+      "url": "https://open.spotify.com/track/2Y4Ty4zx57GxoGsDY3ERiD"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -1479,6 +1463,22 @@
       "duration_ms": 180454,
       "name": "la Mia paura",
       "url": "https://open.spotify.com/track/51jCHYRmZDj9ZPi2Fw55Xl"
+    },
+    {
+      "added_at": "2026-05-21 22:02:55",
+      "album": {
+        "name": "Semprerosa",
+        "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 200153,
+      "name": "Semprerosa",
+      "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 180763,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
+    },
+    {
+      "added_at": "2026-05-21 22:02:55",
+      "album": {
         "name": "Ceramica",
         "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 193000,
       "name": "Ceramica",
       "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
-    },
-    {
-      "added_at": "2026-05-21 22:02:55",
-      "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 180763,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "Atlantico",
-        "url": "https://open.spotify.com/album/6p0QSYcbHPZ26dbKVAGqEb"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        }
-      ],
-      "duration_ms": 196726,
-      "name": "Atlantico",
-      "url": "https://open.spotify.com/track/5iCAVJsoCu15BJSVsUZJ47"
-    },
-    {
-      "added_at": "2026-05-21 22:02:55",
-      "album": {
         "name": "Piano e Forte",
         "url": "https://open.spotify.com/album/2u8d07uzF2uLgwCnxioRv2"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 158400,
       "name": "Piano e Forte",
       "url": "https://open.spotify.com/track/74NKUib7jQciADIreMyNJZ"
+    },
+    {
+      "added_at": "2026-05-21 22:02:55",
+      "album": {
+        "name": "Atlantico",
+        "url": "https://open.spotify.com/album/6p0QSYcbHPZ26dbKVAGqEb"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 196726,
+      "name": "Atlantico",
+      "url": "https://open.spotify.com/track/5iCAVJsoCu15BJSVsUZJ47"
     },
     {
       "added_at": "2026-05-21 22:02:55",

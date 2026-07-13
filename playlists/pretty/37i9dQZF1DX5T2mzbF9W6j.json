@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112794,
+  "num_followers": 112787,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-06-26 08:33:43",
       "album": {
-        "name": "The Great Divide",
-        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 317961,
-      "name": "The Great Divide",
-      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
-    },
-    {
-      "added_at": "2026-06-26 08:33:43",
-      "album": {
         "name": "Nareszcie",
         "url": "https://open.spotify.com/album/70G6XGkSM2CWedDGAS22Dm"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 182339,
       "name": "Nareszcie",
       "url": "https://open.spotify.com/track/1p4M9If0oTyeUsGsmAfmAI"
+    },
+    {
+      "added_at": "2026-06-26 08:33:43",
+      "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 317961,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
     },
     {
       "added_at": "2026-06-26 08:33:43",
@@ -375,26 +375,6 @@
     {
       "added_at": "2026-06-26 08:33:43",
       "album": {
-        "name": "WSZYSCY JESTE\u015aMY KACPERCZYK",
-        "url": "https://open.spotify.com/album/0oGbjczLy7pO71s7lwLz8Q"
-      },
-      "artists": [
-        {
-          "name": "Kacperczyk",
-          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
-        },
-        {
-          "name": "Vito Bambino",
-          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
-        }
-      ],
-      "duration_ms": 208413,
-      "name": "MAM TALENT",
-      "url": "https://open.spotify.com/track/5YfLne4OCkpYA2VWQ4w65P"
-    },
-    {
-      "added_at": "2026-06-26 08:33:43",
-      "album": {
         "name": "Ta\u0144cz\u0119",
         "url": "https://open.spotify.com/album/1YzaYcqieg8UA13VvY7r3S"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 194408,
       "name": "Ta\u0144cz\u0119",
       "url": "https://open.spotify.com/track/5Rh4ZnhmhUj0LshCJZE6Jb"
+    },
+    {
+      "added_at": "2026-06-26 08:33:43",
+      "album": {
+        "name": "WSZYSCY JESTE\u015aMY KACPERCZYK",
+        "url": "https://open.spotify.com/album/0oGbjczLy7pO71s7lwLz8Q"
+      },
+      "artists": [
+        {
+          "name": "Kacperczyk",
+          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
+        },
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        }
+      ],
+      "duration_ms": 208413,
+      "name": "MAM TALENT",
+      "url": "https://open.spotify.com/track/5YfLne4OCkpYA2VWQ4w65P"
     },
     {
       "added_at": "2026-06-26 08:33:43",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-06-26 08:33:43",
       "album": {
-        "name": "W to mi graj",
-        "url": "https://open.spotify.com/album/24fRidH4T3GIwjfFiS6VEc"
-      },
-      "artists": [
-        {
-          "name": "Ania Karwan",
-          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
-        }
-      ],
-      "duration_ms": 189520,
-      "name": "W to mi graj",
-      "url": "https://open.spotify.com/track/3s2tBiOaWfZnd97WEoL7ID"
-    },
-    {
-      "added_at": "2026-06-26 08:33:43",
-      "album": {
         "name": "Stygnie lato",
         "url": "https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 181846,
       "name": "Stygnie lato",
       "url": "https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0"
+    },
+    {
+      "added_at": "2026-06-26 08:33:43",
+      "album": {
+        "name": "W to mi graj",
+        "url": "https://open.spotify.com/album/24fRidH4T3GIwjfFiS6VEc"
+      },
+      "artists": [
+        {
+          "name": "Ania Karwan",
+          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
+        }
+      ],
+      "duration_ms": 189520,
+      "name": "W to mi graj",
+      "url": "https://open.spotify.com/track/3s2tBiOaWfZnd97WEoL7ID"
     },
     {
       "added_at": "2026-06-26 08:33:43",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-06-26 08:33:43",
       "album": {
-        "name": "DZI\u015a SOBIE DAM",
-        "url": "https://open.spotify.com/album/2pqlWiXuaQM6gD05K2e3EP"
-      },
-      "artists": [
-        {
-          "name": "Julia Wieniawa",
-          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
-        }
-      ],
-      "duration_ms": 167920,
-      "name": "DZI\u015a SOBIE DAM",
-      "url": "https://open.spotify.com/track/5xLyZIFsmew0xUhEJQYNJj"
-    },
-    {
-      "added_at": "2026-06-26 08:33:43",
-      "album": {
         "name": "Co mi tam",
         "url": "https://open.spotify.com/album/2B44SfjmdJklKXG53xbaz1"
       },
@@ -851,6 +835,22 @@
     {
       "added_at": "2026-06-26 08:33:43",
       "album": {
+        "name": "DZI\u015a SOBIE DAM",
+        "url": "https://open.spotify.com/album/2pqlWiXuaQM6gD05K2e3EP"
+      },
+      "artists": [
+        {
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "DZI\u015a SOBIE DAM",
+      "url": "https://open.spotify.com/track/5xLyZIFsmew0xUhEJQYNJj"
+    },
+    {
+      "added_at": "2026-06-26 08:33:43",
+      "album": {
         "name": "Fairy Pop",
         "url": "https://open.spotify.com/album/3cPdL4VimfdCUNqkfvdArO"
       },
@@ -867,18 +867,18 @@
     {
       "added_at": "2026-06-26 08:33:43",
       "album": {
-        "name": "Dotknij",
-        "url": "https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh"
+        "name": "prosz\u0119 pana",
+        "url": "https://open.spotify.com/album/4Atcfix3A3u1PefLTIW0j7"
       },
       "artists": [
         {
-          "name": "Daria Marx",
-          "url": "https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u"
+          "name": "Lanberry",
+          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
         }
       ],
-      "duration_ms": 154736,
-      "name": "Dotknij",
-      "url": "https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx"
+      "duration_ms": 130342,
+      "name": "prosz\u0119 pana",
+      "url": "https://open.spotify.com/track/3S3ayOhVEJSZZP1tgeKEOB"
     },
     {
       "added_at": "2026-06-26 08:33:43",
@@ -899,18 +899,18 @@
     {
       "added_at": "2026-06-26 08:33:43",
       "album": {
-        "name": "prosz\u0119 pana",
-        "url": "https://open.spotify.com/album/4Atcfix3A3u1PefLTIW0j7"
+        "name": "Dotknij",
+        "url": "https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh"
       },
       "artists": [
         {
-          "name": "Lanberry",
-          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
+          "name": "Daria Marx",
+          "url": "https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u"
         }
       ],
-      "duration_ms": 130342,
-      "name": "prosz\u0119 pana",
-      "url": "https://open.spotify.com/track/3S3ayOhVEJSZZP1tgeKEOB"
+      "duration_ms": 154736,
+      "name": "Dotknij",
+      "url": "https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx"
     },
     {
       "added_at": "2026-06-26 08:33:43",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-06-26 08:33:43",
       "album": {
+        "name": "PARANOJA",
+        "url": "https://open.spotify.com/album/3QtM4vAwBExJsuWJSnx7dz"
+      },
+      "artists": [
+        {
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
+        }
+      ],
+      "duration_ms": 116885,
+      "name": "PARANOJA",
+      "url": "https://open.spotify.com/track/7o42yfJFnEldFhMN7bAT4D"
+    },
+    {
+      "added_at": "2026-06-26 08:33:43",
+      "album": {
         "name": "Znajd\u017a mnie w tym",
         "url": "https://open.spotify.com/album/3ejpPh0fWw2YEzyd2Rl17R"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 169375,
       "name": "Pierwszy raz",
       "url": "https://open.spotify.com/track/2ihiNri1NnpPqce4TbC9xE"
-    },
-    {
-      "added_at": "2026-06-26 08:33:43",
-      "album": {
-        "name": "PARANOJA",
-        "url": "https://open.spotify.com/album/3QtM4vAwBExJsuWJSnx7dz"
-      },
-      "artists": [
-        {
-          "name": "Hugo Tarres",
-          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
-        }
-      ],
-      "duration_ms": 116885,
-      "name": "PARANOJA",
-      "url": "https://open.spotify.com/track/7o42yfJFnEldFhMN7bAT4D"
     },
     {
       "added_at": "2026-06-26 08:33:43",

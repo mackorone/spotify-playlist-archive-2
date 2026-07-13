@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: \ud654\uc0b0\uadc0\ud658 (Return of the Blossoming Blade)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 118889,
+  "num_followers": 118884,
   "original_name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-07-03 07:00:10",
       "album": {
+        "name": "Wishcat Magic Card - Wishing Star (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6oL6m23xp8e1s2i9nKOoZn"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "duration_ms": 153268,
+      "name": "Wishing Star",
+      "url": "https://open.spotify.com/track/2xaKTH848s5yBeECxbmTNR"
+    },
+    {
+      "added_at": "2026-07-03 07:00:10",
+      "album": {
         "name": "Lost in Starlight (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/6q4sOzWDO7LuVIm3UkraRn"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 295013,
       "name": "Bonvoyage",
       "url": "https://open.spotify.com/track/7qreGECwKa5YDEFbeFh1UV"
-    },
-    {
-      "added_at": "2026-07-03 07:00:10",
-      "album": {
-        "name": "Wishcat Magic Card - Wishing Star (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6oL6m23xp8e1s2i9nKOoZn"
-      },
-      "artists": [
-        {
-          "name": "NCT WISH",
-          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
-        }
-      ],
-      "duration_ms": 153268,
-      "name": "Wishing Star",
-      "url": "https://open.spotify.com/track/2xaKTH848s5yBeECxbmTNR"
     },
     {
       "added_at": "2026-07-03 07:00:10",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-07-03 07:00:10",
       "album": {
-        "name": "Love Revolution (Original Webcomic Soundtrack)",
-        "url": "https://open.spotify.com/album/4GvkPWqaEcl1WZNrkCophN"
-      },
-      "artists": [
-        {
-          "name": "Sin Ye Young",
-          "url": "https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF"
-        }
-      ],
-      "duration_ms": 306499,
-      "name": "I Don't Want To Say Goodbye",
-      "url": "https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj"
-    },
-    {
-      "added_at": "2026-07-03 07:00:10",
-      "album": {
         "name": "Did you wake up? (one and only romance X Hello Ga-Young, WONPIL(DAY6))",
         "url": "https://open.spotify.com/album/3LKDYgN60NINDo6HBynrq0"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 199146,
       "name": "Did you wake up? (one and only romance X Hello Ga-Young, WONPIL(DAY6))",
       "url": "https://open.spotify.com/track/3pw62nzuActNxaMDhxoQVS"
+    },
+    {
+      "added_at": "2026-07-03 07:00:10",
+      "album": {
+        "name": "Love Revolution (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/4GvkPWqaEcl1WZNrkCophN"
+      },
+      "artists": [
+        {
+          "name": "Sin Ye Young",
+          "url": "https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF"
+        }
+      ],
+      "duration_ms": 306499,
+      "name": "I Don't Want To Say Goodbye",
+      "url": "https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj"
     },
     {
       "added_at": "2026-07-03 07:00:10",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-07-03 07:00:10",
       "album": {
-        "name": "Why isn't love always easy? (Romance 101 X JOY)",
-        "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
-      },
-      "artists": [
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
-        }
-      ],
-      "duration_ms": 221040,
-      "name": "Why isn't love always easy? (Romance 101 X JOY)",
-      "url": "https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8"
-    },
-    {
-      "added_at": "2026-07-03 07:00:10",
-      "album": {
         "name": "STAY THE NIGHT (She is My Type\u2661 X GRAY)",
         "url": "https://open.spotify.com/album/1QlyNYwz5B7KAKElSrMm2v"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 175000,
       "name": "STAY THE NIGHT (Feat. DeVita)",
       "url": "https://open.spotify.com/track/3mTYmxNyeKiZuYHdOw5W0j"
+    },
+    {
+      "added_at": "2026-07-03 07:00:10",
+      "album": {
+        "name": "Why isn't love always easy? (Romance 101 X JOY)",
+        "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "duration_ms": 221040,
+      "name": "Why isn't love always easy? (Romance 101 X JOY)",
+      "url": "https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8"
     },
     {
       "added_at": "2026-07-03 07:00:10",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-07-03 07:00:10",
       "album": {
-        "name": "Love Story (Youth of Revelation X SONG HA YOUNG (fromis_9)) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/1e9AWqyJ8IP8DO40Easnd9"
-      },
-      "artists": [
-        {
-          "name": "SONG HA YOUNG (fromis_9)",
-          "url": "https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Love Story",
-      "url": "https://open.spotify.com/track/5PLxRSp7FmTsh963PdnTTi"
-    },
-    {
-      "added_at": "2026-07-03 07:00:10",
-      "album": {
         "name": "Dear. My Fool (WEBTOON 'Discovery of Love' X Lee Seok Hoon)",
         "url": "https://open.spotify.com/album/5S7p6IEM04HzSyOVjl3kuu"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 228720,
       "name": "Dear. My Fool (WEBTOON 'Discovery of Love' X Lee Seok Hoon)",
       "url": "https://open.spotify.com/track/2nWmHvBuS5ukeu3ozEy9WC"
+    },
+    {
+      "added_at": "2026-07-03 07:00:10",
+      "album": {
+        "name": "Love Story (Youth of Revelation X SONG HA YOUNG (fromis_9)) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/1e9AWqyJ8IP8DO40Easnd9"
+      },
+      "artists": [
+        {
+          "name": "SONG HA YOUNG (fromis_9)",
+          "url": "https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/5PLxRSp7FmTsh963PdnTTi"
     },
     {
       "added_at": "2026-07-03 07:00:10",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-07-03 07:00:10",
       "album": {
-        "name": "True Love (Secret Relationships X LEECHANGSUB)",
-        "url": "https://open.spotify.com/album/1AAfbPieDQPdaVRN42qumJ"
-      },
-      "artists": [
-        {
-          "name": "LEECHANGSUB",
-          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
-        }
-      ],
-      "duration_ms": 229013,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/0jmR8cd6Ro14pAQY1M5cIe"
-    },
-    {
-      "added_at": "2026-07-03 07:00:10",
-      "album": {
         "name": "Webtoon <Myst, Might, Mayhem> OST Part. 1 Red Moon",
         "url": "https://open.spotify.com/album/1sTTIJ1vHRhyphKkixoaEB"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 200026,
       "name": "Red Moon",
       "url": "https://open.spotify.com/track/4JIqOCjC3U6VXIc8Ckr7wo"
+    },
+    {
+      "added_at": "2026-07-03 07:00:10",
+      "album": {
+        "name": "True Love (Secret Relationships X LEECHANGSUB)",
+        "url": "https://open.spotify.com/album/1AAfbPieDQPdaVRN42qumJ"
+      },
+      "artists": [
+        {
+          "name": "LEECHANGSUB",
+          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+        }
+      ],
+      "duration_ms": 229013,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/0jmR8cd6Ro14pAQY1M5cIe"
     },
     {
       "added_at": "2026-07-03 07:00:10",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-07-03 07:00:10",
       "album": {
+        "name": "With You (No Office Romance! X Young K (DAY6)) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/0JYfYKPZdxjwJRl6Fwngjv"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "duration_ms": 237253,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6PdMx183cnLH6iqar2XzJv"
+    },
+    {
+      "added_at": "2026-07-03 07:00:10",
+      "album": {
         "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
         "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
       },
@@ -1463,18 +1479,18 @@
     {
       "added_at": "2026-07-03 07:00:10",
       "album": {
-        "name": "With You (No Office Romance! X Young K (DAY6)) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/0JYfYKPZdxjwJRl6Fwngjv"
+        "name": "Love no more (Romance 101 X XIA)",
+        "url": "https://open.spotify.com/album/3f6CUnM9OowXKXKTdhImCd"
       },
       "artists": [
         {
-          "name": "Young K",
-          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+          "name": "XIA",
+          "url": "https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi"
         }
       ],
-      "duration_ms": 237253,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/6PdMx183cnLH6iqar2XzJv"
+      "duration_ms": 251720,
+      "name": "Love no more (Romance 101 X XIA)",
+      "url": "https://open.spotify.com/track/3lYGiEnZ9FI9q1iqTal147"
     },
     {
       "added_at": "2026-07-03 07:00:10",
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2026-07-03 07:00:10",
       "album": {
-        "name": "Love no more (Romance 101 X XIA)",
-        "url": "https://open.spotify.com/album/3f6CUnM9OowXKXKTdhImCd"
-      },
-      "artists": [
-        {
-          "name": "XIA",
-          "url": "https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi"
-        }
-      ],
-      "duration_ms": 251720,
-      "name": "Love no more (Romance 101 X XIA)",
-      "url": "https://open.spotify.com/track/3lYGiEnZ9FI9q1iqTal147"
-    },
-    {
-      "added_at": "2026-07-03 07:00:10",
-      "album": {
         "name": "Better for Me (Nth Romance X MeloMance)",
         "url": "https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey"
       },
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-07-03 07:00:10",
       "album": {
-        "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
-        "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
-      },
-      "artists": [
-        {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "Dive into you",
-      "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
-    },
-    {
-      "added_at": "2026-07-03 07:00:10",
-      "album": {
         "name": "Webtoon \u2018The Remarried Empress\u2019 Part. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2cuObUnEFIJR8pEWrKDEux"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 214000,
       "name": "I Rise (Webtoon \u2018The Remarried Empress\u2019)",
       "url": "https://open.spotify.com/track/1zDVQYhoxBKlXkpUntu0Cr"
+    },
+    {
+      "added_at": "2026-07-03 07:00:10",
+      "album": {
+        "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
+        "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "Dive into you",
+      "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
     },
     {
       "added_at": "2026-07-03 07:00:10",
@@ -1719,22 +1719,18 @@
     {
       "added_at": "2026-07-03 07:00:10",
       "album": {
-        "name": "Webtoon <Myst, Might, Mayhem> OST Part. 2 Draw the Moon",
-        "url": "https://open.spotify.com/album/2dD84O2WUFNCjs963yWsbh"
+        "name": "With me (Electrifying Confession X LUCY)",
+        "url": "https://open.spotify.com/album/4jb6RsjGnqX6rm8ii8v6mi"
       },
       "artists": [
         {
-          "name": "MINNIE",
-          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
-        },
-        {
-          "name": "MIYAVI",
-          "url": "https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN"
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
         }
       ],
-      "duration_ms": 210146,
-      "name": "Draw the Moon (feat. MIYAVI)",
-      "url": "https://open.spotify.com/track/4B3JCEcAeTofpsfsEianeS"
+      "duration_ms": 234400,
+      "name": "With me (Electrifying Confession X LUCY)",
+      "url": "https://open.spotify.com/track/3jYSRhZxA4NnOxqwaC5HP9"
     },
     {
       "added_at": "2026-07-03 07:00:10",
@@ -1755,18 +1751,22 @@
     {
       "added_at": "2026-07-03 07:00:10",
       "album": {
-        "name": "With me (Electrifying Confession X LUCY)",
-        "url": "https://open.spotify.com/album/4jb6RsjGnqX6rm8ii8v6mi"
+        "name": "Webtoon <Myst, Might, Mayhem> OST Part. 2 Draw the Moon",
+        "url": "https://open.spotify.com/album/2dD84O2WUFNCjs963yWsbh"
       },
       "artists": [
         {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        },
+        {
+          "name": "MIYAVI",
+          "url": "https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN"
         }
       ],
-      "duration_ms": 234400,
-      "name": "With me (Electrifying Confession X LUCY)",
-      "url": "https://open.spotify.com/track/3jYSRhZxA4NnOxqwaC5HP9"
+      "duration_ms": 210146,
+      "name": "Draw the Moon (feat. MIYAVI)",
+      "url": "https://open.spotify.com/track/4B3JCEcAeTofpsfsEianeS"
     }
   ],
   "unique_name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OSTs)",

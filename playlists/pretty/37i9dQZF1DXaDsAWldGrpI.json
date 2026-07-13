@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Eric Church",
-  "num_followers": 143397,
+  "num_followers": 143398,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Live at the Ryman",
-        "url": "https://open.spotify.com/album/2EXHkWVZwZyGJOISXsEnX4"
+        "name": "HIGH AND A(LIVE)",
+        "url": "https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL"
       },
       "artists": [
         {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 223032,
-      "name": "Heavens To Betsy - Live at the Ryman",
-      "url": "https://open.spotify.com/track/7Barn6lupetMnaVO13eSA1"
+      "duration_ms": 188200,
+      "name": "You Get What You Give - Live from the HIGH AND ALIVE WORLD TOUR",
+      "url": "https://open.spotify.com/track/3G5OWChi7RlexYHqzWsn9I"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -451,18 +451,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "HIGH AND A(LIVE)",
-        "url": "https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL"
+        "name": "Live at the Ryman",
+        "url": "https://open.spotify.com/album/2EXHkWVZwZyGJOISXsEnX4"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
         }
       ],
-      "duration_ms": 188200,
-      "name": "You Get What You Give - Live from the HIGH AND ALIVE WORLD TOUR",
-      "url": "https://open.spotify.com/track/3G5OWChi7RlexYHqzWsn9I"
+      "duration_ms": 223032,
+      "name": "Heavens To Betsy - Live at the Ryman",
+      "url": "https://open.spotify.com/track/7Barn6lupetMnaVO13eSA1"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -847,6 +847,42 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
+        "name": "Sounds Like The Radio (Live)",
+        "url": "https://open.spotify.com/album/25nHEVlMBs3eRknLJw6laD"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "duration_ms": 214561,
+      "name": "Sounds Like the Radio - Live",
+      "url": "https://open.spotify.com/track/11XAdc6wTAZLetxTkG6FKO"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
+        "name": "Live From Nashville",
+        "url": "https://open.spotify.com/album/2WaRFVSRoYF4sW35doUmdF"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        },
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 281323,
+      "name": "Rockstar (with Bailey Zimmerman) - Live From Nashville",
+      "url": "https://open.spotify.com/track/2uQfe8bd43MRHIjHwaAgC8"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -875,42 +911,6 @@
       "duration_ms": 262586,
       "name": "A Boy Named Sue - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/4qhtY6ld2B5lAl9jmAMg1d"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
-        "name": "Live From Nashville",
-        "url": "https://open.spotify.com/album/2WaRFVSRoYF4sW35doUmdF"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        },
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 281323,
-      "name": "Rockstar (with Bailey Zimmerman) - Live From Nashville",
-      "url": "https://open.spotify.com/track/2uQfe8bd43MRHIjHwaAgC8"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
-        "name": "Sounds Like The Radio (Live)",
-        "url": "https://open.spotify.com/album/25nHEVlMBs3eRknLJw6laD"
-      },
-      "artists": [
-        {
-          "name": "Zach Top",
-          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
-        }
-      ],
-      "duration_ms": 214561,
-      "name": "Sounds Like the Radio - Live",
-      "url": "https://open.spotify.com/track/11XAdc6wTAZLetxTkG6FKO"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -951,38 +951,6 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Live - American Outlaws",
-        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 199106,
-      "name": "Luckenbach, Texas (Back to the Basics of Love) - Live at Nassau Coliseum, Uniondale, NY - March 1990",
-      "url": "https://open.spotify.com/track/2wkfdRXeYncUBraBBjeMoI"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
         "name": "Unapologetically (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
@@ -1011,6 +979,38 @@
       "duration_ms": 163040,
       "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
       "url": "https://open.spotify.com/track/55vr0rSNotM3KY1OB7H4zf"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
+        "name": "Live - American Outlaws",
+        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 199106,
+      "name": "Luckenbach, Texas (Back to the Basics of Love) - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "url": "https://open.spotify.com/track/2wkfdRXeYncUBraBBjeMoI"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
+        "name": "Wings (Live at the Ryman)",
+        "url": "https://open.spotify.com/album/2gg3gSnirMHzSdZLvS1Fvs"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "duration_ms": 363528,
+      "name": "Wings - Live at the Ryman",
+      "url": "https://open.spotify.com/track/0vaCkZTsFBiWvjVHLFxuG2"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
         "name": "At the Ryman (Live)",
         "url": "https://open.spotify.com/album/6QU3H8XFMeYIylEhEFmIIy"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 205186,
       "name": "Hard Times - Live",
       "url": "https://open.spotify.com/track/3WSOOKrJmKEG4TY34Mg1yb"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
-        "name": "Me and My Kind (Live)",
-        "url": "https://open.spotify.com/album/4mi8LU8Z2rUQcsQ4vKXswc"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 163013,
-      "name": "Me and My Kind - Live",
-      "url": "https://open.spotify.com/track/01pn2Jr3H7j8VOKGTh4Ptf"
     }
   ],
   "unique_name": "Country Live",

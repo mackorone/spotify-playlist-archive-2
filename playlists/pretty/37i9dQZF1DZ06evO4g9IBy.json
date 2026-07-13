@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 173670,
+  "num_followers": 173689,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAAOFqwPnjqNlugRVpsHKXKK",
+  "snapshot_id": "alGHgAAAAAC/NAU45+b+gPhx8xZtAtHb",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Other Side of the Mirror",
+        "url": "https://open.spotify.com/album/520iW3fXcWW5mbQToP0hs0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 274520,
+      "name": "Rooms on Fire",
+      "url": "https://open.spotify.com/track/0QVlQTzp10Tj4Xql9ZRJzo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 230141,
       "name": "Oil (feat. Stevie Nicks)",
       "url": "https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Other Side of the Mirror",
-        "url": "https://open.spotify.com/album/520iW3fXcWW5mbQToP0hs0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 274520,
-      "name": "Rooms on Fire",
-      "url": "https://open.spotify.com/track/0QVlQTzp10Tj4Xql9ZRJzo"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
+        "name": "Rock a Little",
+        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 292040,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
+      "duration_ms": 279413,
+      "name": "Has Anyone Ever Written Anything for You",
+      "url": "https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock a Little",
-        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 279413,
-      "name": "Has Anyone Ever Written Anything for You",
-      "url": "https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6"
+      "duration_ms": 292040,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bella Donna (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 280626,
-      "name": "Sleeping Angel (From Fast Times at Ridgemont High) - 2016 Remaster",
-      "url": "https://open.spotify.com/track/35I5lX6yE00YSu7PEgES54"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Your Dreams",
         "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 195560,
       "name": "Secret Love",
       "url": "https://open.spotify.com/track/4ztowwWgYZtq0OOUxerZrv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bella Donna (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 280626,
+      "name": "Sleeping Angel (From Fast Times at Ridgemont High) - 2016 Remaster",
+      "url": "https://open.spotify.com/track/35I5lX6yE00YSu7PEgES54"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Street Angel",
-        "url": "https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS"
+        "name": "24 Karat Gold: Songs from the Vault",
+        "url": "https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 259066,
-      "name": "Maybe Love Will Change Your Mind",
-      "url": "https://open.spotify.com/track/3FmNXP5tWfjZAImUxzns74"
+      "duration_ms": 278138,
+      "name": "The Dealer",
+      "url": "https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1"
     },
     {
       "added_at": null,
@@ -891,8 +891,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "24 Karat Gold: Songs from the Vault",
-        "url": "https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R"
+        "name": "Street Angel",
+        "url": "https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS"
       },
       "artists": [
         {
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 278138,
-      "name": "The Dealer",
-      "url": "https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1"
+      "duration_ms": 259066,
+      "name": "Maybe Love Will Change Your Mind",
+      "url": "https://open.spotify.com/track/3FmNXP5tWfjZAImUxzns74"
     }
   ],
   "unique_name": "This Is Stevie Nicks",

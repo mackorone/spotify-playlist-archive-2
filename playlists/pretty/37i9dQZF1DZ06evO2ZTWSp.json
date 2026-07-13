@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 476063,
+  "num_followers": 476044,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAADQPueXJvJ6fhGTbVJ3nVXD",
+  "snapshot_id": "alGHgAAAAAAFShS5aS/YD6ieZ1SuNsWg",
   "tracks": [
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 165689,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe"
+      "duration_ms": 121112,
+      "name": "Grrrls",
+      "url": "https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 121112,
-      "name": "Grrrls",
-      "url": "https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI"
+      "duration_ms": 165689,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe"
     },
     {
       "added_at": null,
@@ -695,22 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "3rd Ward Bounce",
-        "url": "https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj"
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
       },
       "artists": [
-        {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
-        },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 185890,
-      "name": "Karaoke (feat. Lizzo)",
-      "url": "https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP"
+      "duration_ms": 133058,
+      "name": "Better in Color",
+      "url": "https://open.spotify.com/track/0bt3YJTupDqdTKpnFFgs7f"
     },
     {
       "added_at": null,
@@ -751,18 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuz I Love You (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
+        "name": "3rd Ward Bounce",
+        "url": "https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj"
       },
       "artists": [
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 133058,
-      "name": "Better in Color",
-      "url": "https://open.spotify.com/track/0bt3YJTupDqdTKpnFFgs7f"
+      "duration_ms": 185890,
+      "name": "Karaoke (feat. Lizzo)",
+      "url": "https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP"
     },
     {
       "added_at": null,
@@ -823,22 +823,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Is Bankroll?",
-        "url": "https://open.spotify.com/album/5I6AcuO3zFir65GHWY6pap"
+        "name": "Phone",
+        "url": "https://open.spotify.com/album/2MiUqzCCfWD0hLJvQXfBG2"
       },
       "artists": [
-        {
-          "name": "Bankroll Ni",
-          "url": "https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD"
-        },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 131592,
-      "name": "From The Back",
-      "url": "https://open.spotify.com/track/5f5BVvemMmLZrnOgHaysJG"
+      "duration_ms": 169042,
+      "name": "Phone",
+      "url": "https://open.spotify.com/track/61yntOSHzW2kTeEsLhOH9c"
     },
     {
       "added_at": null,
@@ -859,18 +855,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phone",
-        "url": "https://open.spotify.com/album/2MiUqzCCfWD0hLJvQXfBG2"
+        "name": "Who Is Bankroll?",
+        "url": "https://open.spotify.com/album/5I6AcuO3zFir65GHWY6pap"
       },
       "artists": [
+        {
+          "name": "Bankroll Ni",
+          "url": "https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD"
+        },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 169042,
-      "name": "Phone",
-      "url": "https://open.spotify.com/track/61yntOSHzW2kTeEsLhOH9c"
+      "duration_ms": 131592,
+      "name": "From The Back",
+      "url": "https://open.spotify.com/track/5f5BVvemMmLZrnOgHaysJG"
     }
   ],
   "unique_name": "This Is Lizzo",

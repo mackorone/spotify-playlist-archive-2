@@ -1,6 +1,6 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 234197,
+  "num_followers": 234193,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb"
-      },
-      "artists": [
-        {
-          "name": "Swapmeet",
-          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
-        }
-      ],
-      "duration_ms": 204202,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Love Hate Music Box",
         "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 181390,
       "name": "Meticulous",
       "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb"
+      },
+      "artists": [
+        {
+          "name": "Swapmeet",
+          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+        }
+      ],
+      "duration_ms": 204202,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Tractor Beam",
-        "url": "https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 214381,
-      "name": "Tractor Beam",
-      "url": "https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/6FrjprlGLkS4u8x6Y5uTPG"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 290840,
       "name": "Honey Water",
       "url": "https://open.spotify.com/track/5JVEWVNVv8OYILCkHZkwvK"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Tractor Beam",
+        "url": "https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 214381,
+      "name": "Tractor Beam",
+      "url": "https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/39Nt75yWLYPHOma4OdNwZr"
-      },
-      "artists": [
-        {
-          "name": "Betty",
-          "url": "https://open.spotify.com/artist/4dzpD5GedidkVBhvGGEpGs"
-        }
-      ],
-      "duration_ms": 248981,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/5S1BO9BS02VIBBDjh2ybEA"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Lover (Don\u2019t Let Me Down)",
         "url": "https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 250794,
       "name": "Lover (Don't Let Me Down)",
       "url": "https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/39Nt75yWLYPHOma4OdNwZr"
+      },
+      "artists": [
+        {
+          "name": "Betty",
+          "url": "https://open.spotify.com/artist/4dzpD5GedidkVBhvGGEpGs"
+        }
+      ],
+      "duration_ms": 248981,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/5S1BO9BS02VIBBDjh2ybEA"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Prime Corner",
-        "url": "https://open.spotify.com/album/3A8uXIiJbiHupbZsJicvRn"
-      },
-      "artists": [
-        {
-          "name": "Office Dog",
-          "url": "https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5"
-        }
-      ],
-      "duration_ms": 236866,
-      "name": "Futures",
-      "url": "https://open.spotify.com/track/79G3uzyNnNUXKW5u5GUWjA"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Mechanical Bull",
         "url": "https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn"
       },
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
+        "name": "Prime Corner",
+        "url": "https://open.spotify.com/album/3A8uXIiJbiHupbZsJicvRn"
       },
       "artists": [
         {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+          "name": "Office Dog",
+          "url": "https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5"
         }
       ],
-      "duration_ms": 234546,
-      "name": "Minnie",
-      "url": "https://open.spotify.com/track/37ZUVt5gLoiywE6Uzpwyf1"
+      "duration_ms": 236866,
+      "name": "Futures",
+      "url": "https://open.spotify.com/track/79G3uzyNnNUXKW5u5GUWjA"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1311,6 +1295,22 @@
       "duration_ms": 206233,
       "name": "Guts",
       "url": "https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 234546,
+      "name": "Minnie",
+      "url": "https://open.spotify.com/track/37ZUVt5gLoiywE6Uzpwyf1"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Virgin Lake",
-        "url": "https://open.spotify.com/album/5hjXrxckG7e4f8IDw8Czcs"
-      },
-      "artists": [
-        {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
-        }
-      ],
-      "duration_ms": 265906,
-      "name": "Dog Bite",
-      "url": "https://open.spotify.com/track/4oMfYG01Heyeqkdxfq9Z3D"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "2much2soon",
         "url": "https://open.spotify.com/album/6lelFbCH0ZJ80em8wganZo"
       },
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Virgin Lake",
+        "url": "https://open.spotify.com/album/5hjXrxckG7e4f8IDw8Czcs"
+      },
+      "artists": [
+        {
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+        }
+      ],
+      "duration_ms": 265906,
+      "name": "Dog Bite",
+      "url": "https://open.spotify.com/track/4oMfYG01Heyeqkdxfq9Z3D"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "Lost In A Rush Of Emptiness",
         "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
       },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Take you away",
-        "url": "https://open.spotify.com/album/1f1gfHqgadMCWp7tGXYtbR"
-      },
-      "artists": [
-        {
-          "name": "Julia Takada",
-          "url": "https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi"
-        }
-      ],
-      "duration_ms": 234784,
-      "name": "Take you away",
-      "url": "https://open.spotify.com/track/6fsj3YQXCwlXbAgNgGeg6C"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Walking Like We Do",
         "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
       },
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Pushing Away",
-        "url": "https://open.spotify.com/album/7fRtWwMStVuMJxAi0BbkP1"
+        "name": "Take you away",
+        "url": "https://open.spotify.com/album/1f1gfHqgadMCWp7tGXYtbR"
       },
       "artists": [
         {
-          "name": "Ellur",
-          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
+          "name": "Julia Takada",
+          "url": "https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi"
         }
       ],
-      "duration_ms": 250921,
-      "name": "Pushing Away",
-      "url": "https://open.spotify.com/track/0Ki52CntVcVTfR9XU9E5cA"
+      "duration_ms": 234784,
+      "name": "Take you away",
+      "url": "https://open.spotify.com/track/6fsj3YQXCwlXbAgNgGeg6C"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Pushing Away",
+        "url": "https://open.spotify.com/album/7fRtWwMStVuMJxAi0BbkP1"
+      },
+      "artists": [
+        {
+          "name": "Ellur",
+          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
+        }
+      ],
+      "duration_ms": 250921,
+      "name": "Pushing Away",
+      "url": "https://open.spotify.com/track/0Ki52CntVcVTfR9XU9E5cA"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "RAT RACE",
         "url": "https://open.spotify.com/album/7JbNE6aX9qS1cAJ36L9Rjo"
       },
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Please, Don't Wake Me",
-        "url": "https://open.spotify.com/album/15m3V8167ASqP1zZM5PlRA"
-      },
-      "artists": [
-        {
-          "name": "Essence Martins",
-          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
-        }
-      ],
-      "duration_ms": 219406,
-      "name": "Please, Don't Wake Me",
-      "url": "https://open.spotify.com/track/5klM0moZLMUCaAgLDO0jJ7"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "You Are The Morning",
         "url": "https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 253200,
       "name": "You Are The Morning",
       "url": "https://open.spotify.com/track/6nOPbOoujiGPWI8HUDaNq1"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Please, Don't Wake Me",
+        "url": "https://open.spotify.com/album/15m3V8167ASqP1zZM5PlRA"
+      },
+      "artists": [
+        {
+          "name": "Essence Martins",
+          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
+        }
+      ],
+      "duration_ms": 219406,
+      "name": "Please, Don't Wake Me",
+      "url": "https://open.spotify.com/track/5klM0moZLMUCaAgLDO0jJ7"
     },
     {
       "added_at": "2026-06-18 23:01:00",

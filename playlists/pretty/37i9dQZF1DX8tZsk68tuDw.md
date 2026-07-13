@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n">dance hits</a>, with Eli Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,826,907 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,826,735 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 32 | [On 2nite](https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [On 2nite](https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N) | 2:38 |
 | 33 | [The Wave](https://open.spotify.com/track/4bqLhWkEv7csb51jN98YeT) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [The Wave](https://open.spotify.com/album/1Hlt6ok7aP4iHmQKIgrh3W) | 2:45 |
 | 34 | [Ultramoon](https://open.spotify.com/track/5qbjYuBa1o7uHwMhl779jV) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Ultramoon](https://open.spotify.com/album/6O8GMEXbeYI10TNpsTVvKW) | 4:16 |
-| 35 | [Obsessed](https://open.spotify.com/track/0zlkI2TtbVQf3gGMDTZYWs) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Limerence EP](https://open.spotify.com/album/75ryCp9ayoj6rMVrT3ecQe) | 2:42 |
+| 35 | [Obsessed](https://open.spotify.com/track/0zlkI2TtbVQf3gGMDTZYWs) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Limerence](https://open.spotify.com/album/75ryCp9ayoj6rMVrT3ecQe) | 2:42 |
 | 36 | [without U](https://open.spotify.com/track/3ywCS8EmyPkMYsnOs1wy7s) | [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei), [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X) | [without U](https://open.spotify.com/album/23xWg5U5c6kZZcqqbBKTp2) | 2:56 |
 | 37 | [that's my beach!](https://open.spotify.com/track/1MtlL1N2wTI08qiMjcwEu7) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [that's my beach!](https://open.spotify.com/album/5k7qkM1p2MhUi4ES3uTtd6) | 3:18 |
 | 38 | [Calling Out For U](https://open.spotify.com/track/7yal3wkT7U1BEDdKW9dZ9V) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [U](https://open.spotify.com/album/7q301yxHP0Ct6EmfRO88FK) | 3:03 |

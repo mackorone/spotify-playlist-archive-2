@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAADWD1utmgLqqcEQMKysYK7Y",
+  "snapshot_id": "alGHgAAAAAA2zM6sjwR1aj4Y3qA1pyQ/",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 148713,
-      "name": "Hanohano Haiku",
-      "url": "https://open.spotify.com/track/7vhH5BJgH5Cr9jlWwfXtXJ"
+      "duration_ms": 138000,
+      "name": "Eleu Mikimiki",
+      "url": "https://open.spotify.com/track/2rJ22DZjY656aEpQ9OlD5h"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Eleu Mikimiki",
-      "url": "https://open.spotify.com/track/2rJ22DZjY656aEpQ9OlD5h"
+      "duration_ms": 148713,
+      "name": "Hanohano Haiku",
+      "url": "https://open.spotify.com/track/7vhH5BJgH5Cr9jlWwfXtXJ"
     },
     {
       "added_at": null,
@@ -347,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Le\u02bba",
-        "url": "https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb"
+        "name": "Na Pono Hawaii",
+        "url": "https://open.spotify.com/album/2a0Q1Fp7UmDBM6sIb3H7Qa"
       },
       "artists": [
+        {
+          "name": "Kamehameha Schools Children's Chorus",
+          "url": "https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS"
+        },
         {
           "name": "Keauhou",
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 214366,
-      "name": "Ulup\u014d Nui",
-      "url": "https://open.spotify.com/track/3hP50hIbqKdScxY4DKKLKW"
+      "duration_ms": 176013,
+      "name": "N\u0101 Pono Hawai\u2018i",
+      "url": "https://open.spotify.com/track/4VUxv1fLgA0EFKyOlLRiaq"
     },
     {
       "added_at": null,
@@ -395,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Na Pono Hawaii",
-        "url": "https://open.spotify.com/album/2a0Q1Fp7UmDBM6sIb3H7Qa"
-      },
-      "artists": [
-        {
-          "name": "Kamehameha Schools Children's Chorus",
-          "url": "https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS"
-        },
-        {
-          "name": "Keauhou",
-          "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
-        }
-      ],
-      "duration_ms": 176013,
-      "name": "N\u0101 Pono Hawai\u2018i",
-      "url": "https://open.spotify.com/track/4VUxv1fLgA0EFKyOlLRiaq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Le\u02bba",
         "url": "https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb"
       },
@@ -424,9 +408,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 150819,
-      "name": "Koni Au i ka Wai / Ka Ipo Laua\u02bbe",
-      "url": "https://open.spotify.com/track/3NIoUqAtDrrLT8nFpndYmT"
+      "duration_ms": 214366,
+      "name": "Ulup\u014d Nui",
+      "url": "https://open.spotify.com/track/3hP50hIbqKdScxY4DKKLKW"
     },
     {
       "added_at": null,
@@ -459,6 +443,22 @@
       "duration_ms": 150467,
       "name": "Ho\u02bboheno Moloka\u02bbi",
       "url": "https://open.spotify.com/track/1bQZDoRz5z1xv3WO9GtFWc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Le\u02bba",
+        "url": "https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb"
+      },
+      "artists": [
+        {
+          "name": "Keauhou",
+          "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
+        }
+      ],
+      "duration_ms": 150819,
+      "name": "Koni Au i ka Wai / Ka Ipo Laua\u02bbe",
+      "url": "https://open.spotify.com/track/3NIoUqAtDrrLT8nFpndYmT"
     }
   ],
   "unique_name": "This Is Keauhou",

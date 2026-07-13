@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 21039,
+  "num_followers": 21048,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,26 @@
     {
       "added_at": "2026-06-25 22:23:48",
       "album": {
+        "name": "No Issues",
+        "url": "https://open.spotify.com/album/67InfoNsNPlkHNQcB2FUEn"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 201369,
+      "name": "No Issues",
+      "url": "https://open.spotify.com/track/4epMA12G6SPOTJryCZ4ouF"
+    },
+    {
+      "added_at": "2026-06-25 22:23:48",
+      "album": {
         "name": "Aso II",
         "url": "https://open.spotify.com/album/4b5WPLK3aUss1Thmu6v6HQ"
       },
@@ -943,26 +963,6 @@
     {
       "added_at": "2026-06-25 22:23:48",
       "album": {
-        "name": "No Issues",
-        "url": "https://open.spotify.com/album/67InfoNsNPlkHNQcB2FUEn"
-      },
-      "artists": [
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 201369,
-      "name": "No Issues",
-      "url": "https://open.spotify.com/track/4epMA12G6SPOTJryCZ4ouF"
-    },
-    {
-      "added_at": "2026-06-25 22:23:48",
-      "album": {
         "name": "Habit",
         "url": "https://open.spotify.com/album/6c98Q6htS2zxyjaPT8vrJS"
       },
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2026-06-25 22:23:48",
       "album": {
+        "name": "Sweet Songs 4 You",
+        "url": "https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 170840,
+      "name": "meet 4 corner",
+      "url": "https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8"
+    },
+    {
+      "added_at": "2026-06-25 22:23:48",
+      "album": {
         "name": "Give Up and See",
         "url": "https://open.spotify.com/album/3pv7jABm0LT7rfYMcZ5BFf"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 185719,
       "name": "See What We've Done",
       "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"
-    },
-    {
-      "added_at": "2026-06-25 22:23:48",
-      "album": {
-        "name": "Sweet Songs 4 You",
-        "url": "https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg"
-      },
-      "artists": [
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 170840,
-      "name": "meet 4 corner",
-      "url": "https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8"
     },
     {
       "added_at": "2026-06-25 22:23:48",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-06-25 22:23:48",
       "album": {
+        "name": "Olivia",
+        "url": "https://open.spotify.com/album/71LNcbKRpuxYZ3rfG8zZhm"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 185660,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk"
+    },
+    {
+      "added_at": "2026-06-25 22:23:48",
+      "album": {
         "name": "Perfect Combi & Naana",
         "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 181063,
       "name": "Perfect Combi",
       "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
-    },
-    {
-      "added_at": "2026-06-25 22:23:48",
-      "album": {
-        "name": "Olivia",
-        "url": "https://open.spotify.com/album/71LNcbKRpuxYZ3rfG8zZhm"
-      },
-      "artists": [
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 185660,
-      "name": "Olivia",
-      "url": "https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk"
     },
     {
       "added_at": "2026-06-25 22:23:48",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-06-25 22:23:48",
       "album": {
-        "name": "Mon B\u00e9b\u00e9 (with King Promise)",
-        "url": "https://open.spotify.com/album/5lQrNveZHKVrsG16jYOVzc"
-      },
-      "artists": [
-        {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 168791,
-      "name": "Mon B\u00e9b\u00e9 (with King Promise)",
-      "url": "https://open.spotify.com/track/6WDxmvyUaZpxS9vCtfA5iC"
-    },
-    {
-      "added_at": "2026-06-25 22:23:48",
-      "album": {
         "name": "Akua Broni",
         "url": "https://open.spotify.com/album/0DL4sDESnkZXriFwYpvjVb"
       },
@@ -1363,22 +1343,22 @@
     {
       "added_at": "2026-06-25 22:23:48",
       "album": {
-        "name": "See What We've Done",
-        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
+        "name": "Mon B\u00e9b\u00e9 (with King Promise)",
+        "url": "https://open.spotify.com/album/5lQrNveZHKVrsG16jYOVzc"
       },
       "artists": [
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
         },
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         }
       ],
-      "duration_ms": 117389,
-      "name": "No. 1 Fan",
-      "url": "https://open.spotify.com/track/08Nq5kTcYSrrHm19bAD0UJ"
+      "duration_ms": 168791,
+      "name": "Mon B\u00e9b\u00e9 (with King Promise)",
+      "url": "https://open.spotify.com/track/6WDxmvyUaZpxS9vCtfA5iC"
     },
     {
       "added_at": "2026-06-25 22:23:48",
@@ -1403,18 +1383,38 @@
     {
       "added_at": "2026-06-25 22:23:48",
       "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/55CLjgXBq4zuAnGYeGM8VB"
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
       },
       "artists": [
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 160800,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw"
+      "duration_ms": 117389,
+      "name": "No. 1 Fan",
+      "url": "https://open.spotify.com/track/08Nq5kTcYSrrHm19bAD0UJ"
+    },
+    {
+      "added_at": "2026-06-25 22:23:48",
+      "album": {
+        "name": "Aketesia",
+        "url": "https://open.spotify.com/album/41RLbSayOHr6zH617y2SNB"
+      },
+      "artists": [
+        {
+          "name": "Cojo Rae",
+          "url": "https://open.spotify.com/artist/2cyI5iIzdXOeUWRWBzfNlC"
+        }
+      ],
+      "duration_ms": 193562,
+      "name": "Aketesia",
+      "url": "https://open.spotify.com/track/1OBLsg0ms0mNlZsvXOd4hm"
     },
     {
       "added_at": "2026-06-25 22:23:48",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2026-06-25 22:23:48",
       "album": {
-        "name": "Aketesia",
-        "url": "https://open.spotify.com/album/41RLbSayOHr6zH617y2SNB"
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/55CLjgXBq4zuAnGYeGM8VB"
       },
       "artists": [
         {
-          "name": "Cojo Rae",
-          "url": "https://open.spotify.com/artist/2cyI5iIzdXOeUWRWBzfNlC"
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
         }
       ],
-      "duration_ms": 193562,
-      "name": "Aketesia",
-      "url": "https://open.spotify.com/track/1OBLsg0ms0mNlZsvXOd4hm"
+      "duration_ms": 160800,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw"
     },
     {
       "added_at": "2026-06-25 22:23:48",

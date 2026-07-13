@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 253248,
+  "num_followers": 253273,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAAHfDptLy7alJHyPB+rfqJH",
+  "snapshot_id": "alGHgAAAAAAR7XUbNc88m4meJB89uEie",
   "tracks": [
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 237880,
-      "name": "Un'emozione per sempre",
-      "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eros",
         "url": "https://open.spotify.com/album/5MDsDepmrXoKkYwY8ZyS3r"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 323866,
       "name": "Se bastasse una canzone",
       "url": "https://open.spotify.com/track/7dp45uA0Ws4TadWaMwdIRw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 237880,
+      "name": "Un'emozione per sempre",
+      "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
     },
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ali E Radici",
-        "url": "https://open.spotify.com/album/2L2i5rfV3tWOUTrJhXXp6R"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Parla con me",
-      "url": "https://open.spotify.com/track/7ItTMytYO4hyglSAn2C9xE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eros (Spanish Version)",
         "url": "https://open.spotify.com/album/66PLBQY9K6Ehb6QYAqjYYA"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 257000,
       "name": "Cuanto Amor Me Das",
       "url": "https://open.spotify.com/track/4gmrjSmunlRmIOWq9JtzSe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ali E Radici",
+        "url": "https://open.spotify.com/album/2L2i5rfV3tWOUTrJhXXp6R"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Parla con me",
+      "url": "https://open.spotify.com/track/7ItTMytYO4hyglSAn2C9xE"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musica Es",
-        "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 305400,
-      "name": "Nada Sin Ti",
-      "url": "https://open.spotify.com/track/1SqNm3h3tjXYqAZUYOcX5L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eros",
         "url": "https://open.spotify.com/album/2XkwMzF1gAdfHI4sk6QArW"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 258480,
       "name": "Quanto amore sei",
       "url": "https://open.spotify.com/track/3gRMbDA0VfPqymyAYLXSv4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Musica Es",
+        "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 305400,
+      "name": "Nada Sin Ti",
+      "url": "https://open.spotify.com/track/1SqNm3h3tjXYqAZUYOcX5L"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Ogni Senso",
-        "url": "https://open.spotify.com/album/23jtBhTUUUj9LvFlbl3tyD"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Antonella Bucci",
-          "url": "https://open.spotify.com/artist/0nT6YKCtGrfEDXYVpbonQL"
-        }
-      ],
-      "duration_ms": 265973,
-      "name": "Amarti \u00e8 l'immenso per me",
-      "url": "https://open.spotify.com/track/6QIri6TN34y7YSvcsnT4Ln"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e9xico & Amigos",
         "url": "https://open.spotify.com/album/5wRH13btzRy0O7c5RWcpEo"
       },
@@ -663,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNA STORIA IMPORTANTE",
-        "url": "https://open.spotify.com/album/5TjpjQjp7xKgEJRrzXSijO"
+        "name": "In Ogni Senso",
+        "url": "https://open.spotify.com/album/23jtBhTUUUj9LvFlbl3tyD"
       },
       "artists": [
         {
@@ -672,13 +652,13 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         },
         {
-          "name": "Max Pezzali",
-          "url": "https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9"
+          "name": "Antonella Bucci",
+          "url": "https://open.spotify.com/artist/0nT6YKCtGrfEDXYVpbonQL"
         }
       ],
-      "duration_ms": 182522,
-      "name": "Come nei film (feat. Max Pezzali)",
-      "url": "https://open.spotify.com/track/0Ssh4cYMdhuwYhfDjz1uAS"
+      "duration_ms": 265973,
+      "name": "Amarti \u00e8 l'immenso per me",
+      "url": "https://open.spotify.com/track/6QIri6TN34y7YSvcsnT4Ln"
     },
     {
       "added_at": null,
@@ -695,6 +675,26 @@
       "duration_ms": 279666,
       "name": "Estrella Gemela",
       "url": "https://open.spotify.com/track/2w5KTTp4DLF5vJ4Xk6Y7bb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNA STORIA IMPORTANTE",
+        "url": "https://open.spotify.com/album/5TjpjQjp7xKgEJRrzXSijO"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Max Pezzali",
+          "url": "https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9"
+        }
+      ],
+      "duration_ms": 182522,
+      "name": "Come nei film (feat. Max Pezzali)",
+      "url": "https://open.spotify.com/track/0Ssh4cYMdhuwYhfDjz1uAS"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Certi Momenti",
+        "url": "https://open.spotify.com/album/2tDqY2Aw9iCJtM9rtafPdd"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 253746,
+      "name": "Ma che bello questo amore",
+      "url": "https://open.spotify.com/track/12s8fpxTKhQl4HmKUKEYZv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UNA HISTORIA IMPORTANTE",
         "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 250853,
       "name": "Esta Pasando Noviembre",
       "url": "https://open.spotify.com/track/305WmAWejd1NAIPQc9hV6p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Certi Momenti",
-        "url": "https://open.spotify.com/album/2tDqY2Aw9iCJtM9rtafPdd"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 253746,
-      "name": "Ma che bello questo amore",
-      "url": "https://open.spotify.com/track/12s8fpxTKhQl4HmKUKEYZv"
     },
     {
       "added_at": null,

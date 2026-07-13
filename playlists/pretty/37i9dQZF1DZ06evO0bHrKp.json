@@ -1,12 +1,12 @@
 {
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 214707,
+  "num_followers": 214723,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAAw3Z3BBwL3GphgaXLpfVA4",
+  "snapshot_id": "alGHgAAAAABJefbFtIevwXG9Yj2SIdOA",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 218946,
-      "name": "We're All To Blame",
-      "url": "https://open.spotify.com/track/2cYoayTRed9m3scuQzKq8Z"
+      "duration_ms": 231000,
+      "name": "Noots",
+      "url": "https://open.spotify.com/track/6wXNqGJ5eHfAaz8WcBN4Sp"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 231000,
-      "name": "Noots",
-      "url": "https://open.spotify.com/track/6wXNqGJ5eHfAaz8WcBN4Sp"
+      "duration_ms": 218946,
+      "name": "We're All To Blame",
+      "url": "https://open.spotify.com/track/2cYoayTRed9m3scuQzKq8Z"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underclass Hero",
-        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 181613,
-      "name": "So Long Goodbye",
-      "url": "https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Order In Decline B-Sides",
         "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 240019,
       "name": "Catching Fire (Acoustic)",
       "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Underclass Hero",
+        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 181613,
+      "name": "So Long Goodbye",
+      "url": "https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u"
     },
     {
       "added_at": null,
@@ -667,22 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Day On Earth",
-        "url": "https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1"
+        "name": "Skull Ring",
+        "url": "https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu"
       },
       "artists": [
         {
-          "name": "SK8",
-          "url": "https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish"
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         },
         {
           "name": "Sum 41",
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 138086,
-      "name": "Shooting Star (feat. Sum 41)",
-      "url": "https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X"
+      "duration_ms": 213373,
+      "name": "Little Know It All",
+      "url": "https://open.spotify.com/track/27BATZe36zHNAKfr7by2ob"
     },
     {
       "added_at": null,
@@ -703,22 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skull Ring",
-        "url": "https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu"
+        "name": "Last Day On Earth",
+        "url": "https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1"
       },
       "artists": [
         {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+          "name": "SK8",
+          "url": "https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish"
         },
         {
           "name": "Sum 41",
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 213373,
-      "name": "Little Know It All",
-      "url": "https://open.spotify.com/track/27BATZe36zHNAKfr7by2ob"
+      "duration_ms": 138086,
+      "name": "Shooting Star (feat. Sum 41)",
+      "url": "https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X"
     },
     {
       "added_at": null,

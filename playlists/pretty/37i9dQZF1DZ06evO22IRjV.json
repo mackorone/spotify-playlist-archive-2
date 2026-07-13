@@ -1,12 +1,12 @@
 {
   "description": "This is FLOW. The essential tracks, all in one playlist.",
-  "num_followers": 31175,
+  "num_followers": 31182,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAACVxvoiR3b95jtnu9dOzmIJ",
+  "snapshot_id": "alGHgAAAAABE5NsAyzxHY2OiyoxLZQOd",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOW ANIME BEST",
-        "url": "https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 233053,
-      "name": "1/3\u306e\u7d14\u60c5\u306a\u611f\u60c5",
-      "url": "https://open.spotify.com/track/3TCMnZY6XV6xNBDRzl7fdm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FLOW THE BEST \u301c\u30a2\u30cb\u30e1\u7e1b\u308a\u301c",
         "url": "https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 246920,
       "name": "\u8679\u306e\u7a7a",
       "url": "https://open.spotify.com/track/0KV8TzuV6OGspByLVpyYPS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FLOW ANIME BEST",
+        "url": "https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 233053,
+      "name": "1/3\u306e\u7d14\u60c5\u306a\u611f\u60c5",
+      "url": "https://open.spotify.com/track/3TCMnZY6XV6xNBDRzl7fdm"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GET BACK",
-        "url": "https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo"
+        "name": "SPLASH!!!\u3000\u301c\u9065\u304b\u306a\u308b\u81ea\u4e3b\u5236\u4f5cBEST\u301c",
+        "url": "https://open.spotify.com/album/59g7wpzEHm6dyxE9HJfUZp"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 195750,
-      "name": "GET BACK",
-      "url": "https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR"
+      "duration_ms": 245693,
+      "name": "\u30e1\u30ed\u30b9",
+      "url": "https://open.spotify.com/track/0alUfU5ZaXKF8IbDykGikb"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPLASH!!!\u3000\u301c\u9065\u304b\u306a\u308b\u81ea\u4e3b\u5236\u4f5cBEST\u301c",
-        "url": "https://open.spotify.com/album/59g7wpzEHm6dyxE9HJfUZp"
+        "name": "GET BACK",
+        "url": "https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 245693,
-      "name": "\u30e1\u30ed\u30b9",
-      "url": "https://open.spotify.com/track/0alUfU5ZaXKF8IbDykGikb"
+      "duration_ms": 195750,
+      "name": "GET BACK",
+      "url": "https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DAYS",
+        "url": "https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 91786,
+      "name": "DAYS \u301cEUREKA OPENING MIX\u301c",
+      "url": "https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LIVING DEAD",
         "url": "https://open.spotify.com/album/1CiISbUXSpFx4B4lRYC43P"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 230080,
       "name": "LIVING DEAD",
       "url": "https://open.spotify.com/track/2KeciA7fNyj5ia3nMznhMQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TRIBALYTHM",
-        "url": "https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 252120,
-      "name": "PENDULUM",
-      "url": "https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAYS",
-        "url": "https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY"
+        "name": "TRIBALYTHM",
+        "url": "https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar"
       },
       "artists": [
         {
@@ -812,9 +812,25 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 91786,
-      "name": "DAYS \u301cEUREKA OPENING MIX\u301c",
-      "url": "https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD"
+      "duration_ms": 252120,
+      "name": "PENDULUM",
+      "url": "https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30e2\u30e1\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/4RTmbNBIQKliym9xSlGLlT"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 238906,
+      "name": "\u30e2\u30e1\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/5wjYZIKLKUge6lFO89gUAU"
     },
     {
       "added_at": null,
@@ -835,22 +851,6 @@
       "duration_ms": 91906,
       "name": "Howling -TV Size-",
       "url": "https://open.spotify.com/track/3KAXKgP9pqOozsACcuFUsb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30e2\u30e1\u30f3\u30c8",
-        "url": "https://open.spotify.com/album/4RTmbNBIQKliym9xSlGLlT"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 238906,
-      "name": "\u30e2\u30e1\u30f3\u30c8",
-      "url": "https://open.spotify.com/track/5wjYZIKLKUge6lFO89gUAU"
     }
   ],
   "unique_name": "This Is FLOW",

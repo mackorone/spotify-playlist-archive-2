@@ -554,7 +554,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 256953,
       "name": "Cavalo de Tr\u00f3ia #2",
       "url": "https://open.spotify.com/track/2gWVj5Z6idt0mDRIE1Jyya"
@@ -3548,7 +3548,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 173539,
       "name": "P\u00e1ssaros",
       "url": "https://open.spotify.com/track/4KepgbjpsslJihJWsGDd3W"
@@ -3702,6 +3702,28 @@
       "duration_ms": 143135,
       "name": "Saudade (Interl\u00fadio)",
       "url": "https://open.spotify.com/track/0Z7T6CbtpNSjbnLsscbTf9"
+    },
+    {
+      "album": {
+        "name": "Al\u00e9m",
+        "url": "https://open.spotify.com/album/02n79C2iL6eWFTmeFzEeqn"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Rizzi Get Busy",
+          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143135,
+      "name": "Saudade (Interl\u00fadio)",
+      "url": "https://open.spotify.com/track/4L05zQNY3HJdXrP5NhtHj3"
     },
     {
       "album": {
@@ -4034,7 +4056,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 193043,
       "name": "S\u00f3 por uma Noite",
       "url": "https://open.spotify.com/track/6p7L4142HdxEcZAwaWYivJ"

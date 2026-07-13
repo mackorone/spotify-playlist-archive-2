@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Panther
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,527 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,543 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 7 | [Qayamat](https://open.spotify.com/track/0HmIGDPgb93jkakAeKUdyh) | [Rashid](https://open.spotify.com/artist/5PpULtbweygwzEKcrGkhE1), [Saniya MQ](https://open.spotify.com/artist/2ZJ6QEC7kWvQBVd1SZaxAY) | [Qayamat](https://open.spotify.com/album/2LriTpfGFUeV45SSR0Nznd) | 3:17 |
 | 8 | [NA DETE FCK](https://open.spotify.com/track/57CsTdD9tVj70x0nhQj7pd) | [Hellac](https://open.spotify.com/artist/2VMayBYkzi84MFU7SAUBwH) | [RANDOM](https://open.spotify.com/album/7y0o8UOsr0FNjPuLRPlteU) | 2:38 |
 | 9 | [Restless](https://open.spotify.com/track/2O5ookewUqM3RCcdiz1OS3) | [Faizals](https://open.spotify.com/artist/3ueUiTSG95o59wuP2Y8iTP), [arslan.](https://open.spotify.com/artist/0RQQX1we0Nurx4WOpvCHa8), [Arif Mir](https://open.spotify.com/artist/6U0ILIjvQqqumKYlW0Jwsx) | [Restless](https://open.spotify.com/album/1HzKNtsgPNqIjodvPZ2hjj) | 3:59 |
-| 10 | [Masquerade](https://open.spotify.com/track/0HtPhNRTOdVwNMxXPW09pR) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [Siyaahi](https://open.spotify.com/artist/3psXqmICFFh7nmcmaj5KPb) | [Masquerade](https://open.spotify.com/album/4MSTEfGI1kxGpBhJJG9tGe) | 2:44 |
+| 10 | [Masquerade](https://open.spotify.com/track/0HtPhNRTOdVwNMxXPW09pR) | [Dhruv Rajpal](https://open.spotify.com/artist/2R6KWsaQBgogznY9SEWrkx), [Siyaahi](https://open.spotify.com/artist/3psXqmICFFh7nmcmaj5KPb) | [Masquerade](https://open.spotify.com/album/4MSTEfGI1kxGpBhJJG9tGe) | 2:44 |
 | 11 | [Harkat Please](https://open.spotify.com/track/4QjrQ4rUrqwatNdrSQ8wWc) | [Reuel Canday](https://open.spotify.com/artist/2wgFHRxt5oc5MILDjObG53), [Teesra](https://open.spotify.com/artist/3PpbwJ2bgcNxPaa7SptD3N) | [Harkat Please](https://open.spotify.com/album/5hzKe8gdIvWNqaIWqxY6LQ) | 2:29 |
 | 12 | [Dhundli Yaad](https://open.spotify.com/track/2RuMGTG1FfHgMWuiHOD4r3) | [BEAT0X](https://open.spotify.com/artist/1sI2Y9j3q886VVmQ2Xvoop) | [Dhundli Yaad](https://open.spotify.com/album/0F3brZzzluveSdGxXKxxkI) | 3:54 |
 | 13 | [Sapne](https://open.spotify.com/track/55qAaElr6e2PqjqDGgMWUq) | [OG Lucifer](https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g), [RiJ](https://open.spotify.com/artist/5zAGfUsWeJgswvM18wXx2y) | [Sapne](https://open.spotify.com/album/7xGHfrR466puZJNk5XtRUS) | 3:06 |

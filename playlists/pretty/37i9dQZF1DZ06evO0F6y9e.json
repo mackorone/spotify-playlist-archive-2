@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1133683,
+  "num_followers": 1133951,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAABc4ctFeTayoegyYiGe7ZbS",
+  "snapshot_id": "alGHgAAAAAD+9ULjlJvvIxWZnVU6XPxB",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Sup\u00e9rame (En Vivo)",
-        "url": "https://open.spotify.com/album/5r9uHTRrLBLtLNTL6AH669"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 189050,
-      "name": "Ya Sup\u00e9rame (En Vivo)",
-      "url": "https://open.spotify.com/track/230KSxk14541umr44W2vCM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arriba La Moyombiza (En Vivo)",
         "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 176000,
       "name": "Coraz\u00f3n (En Vivo)",
       "url": "https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya Sup\u00e9rame (En Vivo)",
+        "url": "https://open.spotify.com/album/5r9uHTRrLBLtLNTL6AH669"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 189050,
+      "name": "Ya Sup\u00e9rame (En Vivo)",
+      "url": "https://open.spotify.com/track/230KSxk14541umr44W2vCM"
     },
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
-        "url": "https://open.spotify.com/album/4mdoJ7m4r9bd6nzr28ooCG"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Hernan Sepulveda",
-          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
-        }
-      ],
-      "duration_ms": 167433,
-      "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
-      "url": "https://open.spotify.com/track/78qgcRHfy0y0e39nz34m64"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Modo Dif\u00edcil",
         "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 201461,
       "name": "Modo Dif\u00edcil",
       "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
+        "url": "https://open.spotify.com/album/4mdoJ7m4r9bd6nzr28ooCG"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+        }
+      ],
+      "duration_ms": 167433,
+      "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
+      "url": "https://open.spotify.com/track/78qgcRHfy0y0e39nz34m64"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta la Miel Amarga (En Vivo)",
-        "url": "https://open.spotify.com/album/6zvOKXWumgNxqeTgIhlMDE"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 258393,
-      "name": "Hasta la Miel Amarga - En Vivo",
-      "url": "https://open.spotify.com/track/2Jkd9fXio63N7nnUboiFg1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T\u00fa (En Vivo)",
         "url": "https://open.spotify.com/album/6Mwro5bwXUMFUKVNjEwgPy"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 263100,
       "name": "T\u00fa (En Vivo)",
       "url": "https://open.spotify.com/track/3nT2AC1cXNCFYL2FDIzwGp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta la Miel Amarga (En Vivo)",
+        "url": "https://open.spotify.com/album/6zvOKXWumgNxqeTgIhlMDE"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 258393,
+      "name": "Hasta la Miel Amarga - En Vivo",
+      "url": "https://open.spotify.com/track/2Jkd9fXio63N7nnUboiFg1"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ctrl + Z (En Vivo)",
-        "url": "https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 161480,
-      "name": "Ctrl + Z (En Vivo)",
-      "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
         "url": "https://open.spotify.com/album/2EPeCWh8O4lxM4OGT3NTIH"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 250686,
       "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/0oEv4Hy4kWmKUqdWHleOua"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ctrl + Z (En Vivo)",
+        "url": "https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 161480,
+      "name": "Ctrl + Z (En Vivo)",
+      "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Anaheim, CA",
-        "url": "https://open.spotify.com/album/4D44ytY7f3XZaOrZ1cAmi1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 264832,
-      "name": "Pideme (En Vivo)",
-      "url": "https://open.spotify.com/track/77XkGdcroOIcaekrKJUwvq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Roto (En Vivo)",
         "url": "https://open.spotify.com/album/3wVwuq9AQvjM2duYyhQrCJ"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 193237,
       "name": "El Roto (En Vivo)",
       "url": "https://open.spotify.com/track/7yPTuRbi0UUUmiT04Jshhc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde Anaheim, CA",
+        "url": "https://open.spotify.com/album/4D44ytY7f3XZaOrZ1cAmi1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 264832,
+      "name": "Pideme (En Vivo)",
+      "url": "https://open.spotify.com/track/77XkGdcroOIcaekrKJUwvq"
     }
   ],
   "unique_name": "This Is Grupo Firme",

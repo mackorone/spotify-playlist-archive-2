@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: 엔플라잉 \(N.Flying\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,964 likes - 239 songs - 15 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,955 likes - 239 songs - 15 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 30 | [I\`m Firefly](https://open.spotify.com/track/27QLNrvWbFcwOYr8RpOpxg) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [I\`m Firefly](https://open.spotify.com/album/1GJArSrDSNTyWeTvGeenAT) | 3:35 |
 | 31 | [FAMOUS](https://open.spotify.com/track/598bDTl82CSTSDnZG0XhGK) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7qt0DzSQqJOPliOA7Wkb5x) | 3:00 |
 | 32 | [Destiny \(2025\)](https://open.spotify.com/track/0LLd9oghk9adWYmou7YQnV) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD), [Lee Yi Kyung](https://open.spotify.com/artist/3VNRGqfUpv4TSkcJjnt9qd) | [Monday Kiz's Footprints Vol.1 With Lee Yi Kyung](https://open.spotify.com/album/6tdMpoiWbTxx6otgWj2bmF) | 4:18 |
-| 33 | [다시 사랑한다면 \(니글니글 버터플라이\)](https://open.spotify.com/track/3UGHBnuq4cFToHy3JfbFcB) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [Mask Singer 47th \(Live Version\)](https://open.spotify.com/album/1bgMYNZHBOxr8iFd3IQPIK) | 4:02 |
+| 33 | [다시 사랑한다면 \(니글니글 버터플라이\)](https://open.spotify.com/track/3UGHBnuq4cFToHy3JfbFcB) | [김필](https://open.spotify.com/artist/72n9i25wJmGTdLjMpkwR6k) | [Mask Singer 47th \(Live Version\)](https://open.spotify.com/album/1bgMYNZHBOxr8iFd3IQPIK) | 4:02 |
 | 34 | [Soda Pop](https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f) | [Saja Boys](https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Danny Chung](https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33), [KEVIN WOO](https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN), [samUIL Lee](https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 2:30 |
 | 35 | [Never Ending Story](https://open.spotify.com/track/0yamqkAFAmpdLNVcmJLSo8) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [새벽](https://open.spotify.com/album/4nc43iXhWaylkGhKdVsKyH) | 4:13 |
 | 36 | [You Were Beautiful](https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 4:43 |

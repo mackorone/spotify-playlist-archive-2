@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 63501,
+  "num_followers": 63504,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAC7ScVN6cvrRje6wDJiq2w1",
+  "snapshot_id": "alGHgAAAAADsDwB1Q378Xakya7LagVmw",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amoroso",
-        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 281706,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/3JbZ8W2aFTIEP6EidBlN38"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chega de saudade de Jo\u00e3o Gilberto",
         "url": "https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 77346,
       "name": "Bim Bom",
       "url": "https://open.spotify.com/track/0ePXjhPFey6c0Fp2XQXaeO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amoroso",
+        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 281706,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/3JbZ8W2aFTIEP6EidBlN38"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amoroso",
-        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 249960,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/3lSpczrXGWy6Bzc28KGHhE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Getz/Gilberto #2",
         "url": "https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 188280,
       "name": "Samba Da Minha Terra - Live At Carnegie Hall/1964",
       "url": "https://open.spotify.com/track/2AtI5ezg87Wk5FTVuFjAfE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amoroso",
+        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 249960,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/3lSpczrXGWy6Bzc28KGHhE"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joao",
-        "url": "https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK"
+        "name": "Relic\u00e1rio: Jo\u00e3o Gilberto (Ao Vivo no Sesc 1998)",
+        "url": "https://open.spotify.com/album/1R7yz8QjyklFlMcbJtqldt"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Eu Sambo Mesmo",
-      "url": "https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk"
+      "duration_ms": 166479,
+      "name": "Rei sem coroa (ao vivo no Sesc)",
+      "url": "https://open.spotify.com/track/5CD3QaGXZElKiGUIVwMxo6"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relic\u00e1rio: Jo\u00e3o Gilberto (Ao Vivo no Sesc 1998)",
-        "url": "https://open.spotify.com/album/1R7yz8QjyklFlMcbJtqldt"
+        "name": "Joao",
+        "url": "https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 166479,
-      "name": "Rei sem coroa (ao vivo no Sesc)",
-      "url": "https://open.spotify.com/track/5CD3QaGXZElKiGUIVwMxo6"
+      "duration_ms": 248000,
+      "name": "Eu Sambo Mesmo",
+      "url": "https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jo\u00e3o Gilberto: A Summer Night",
-        "url": "https://open.spotify.com/album/0kuIRsKvYj2GUTufyn5LUc"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "Meditation",
-      "url": "https://open.spotify.com/track/5Hgljjx1vP5nwpoXlV5yvj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jo\u00e3o Gilberto",
         "url": "https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 225071,
       "name": "Falsa Baiana",
       "url": "https://open.spotify.com/track/7nis0pALSkz4Tai1hJilet"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jo\u00e3o Gilberto: A Summer Night",
+        "url": "https://open.spotify.com/album/0kuIRsKvYj2GUTufyn5LUc"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 243266,
+      "name": "Meditation",
+      "url": "https://open.spotify.com/track/5Hgljjx1vP5nwpoXlV5yvj"
     },
     {
       "added_at": null,
@@ -691,34 +691,6 @@
       "duration_ms": 258733,
       "name": "Deve Ser Amor (It Must Be Love)",
       "url": "https://open.spotify.com/track/69QK0UBbAX20uVhjXMX5t4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brasil",
-        "url": "https://open.spotify.com/album/0pdWsGdNle9mGuE8KsEyWQ"
-      },
-      "artists": [
-        {
-          "name": "Mateus E. Dadinho",
-          "url": "https://open.spotify.com/artist/0igVZtU2s9UKcYA3lH7Or5"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 76946,
-      "name": "Cordeiro De Nana",
-      "url": "https://open.spotify.com/track/5kt5alVboZoGHzyYbqEE3Z"
     },
     {
       "added_at": null,
@@ -751,6 +723,34 @@
       "duration_ms": 328097,
       "name": "Izaura",
       "url": "https://open.spotify.com/track/4im3cvYs2A3dIjBDlXJU3C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brasil",
+        "url": "https://open.spotify.com/album/0pdWsGdNle9mGuE8KsEyWQ"
+      },
+      "artists": [
+        {
+          "name": "Mateus E. Dadinho",
+          "url": "https://open.spotify.com/artist/0igVZtU2s9UKcYA3lH7Or5"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 76946,
+      "name": "Cordeiro De Nana",
+      "url": "https://open.spotify.com/track/5kt5alVboZoGHzyYbqEE3Z"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chega de saudade de Jo\u00e3o Gilberto",
-        "url": "https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 107560,
-      "name": "Saudade F\u00eaz Um Samba",
-      "url": "https://open.spotify.com/track/269N6ZDAVJeDuiEDQfswpR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jo\u00e3o Gilberto",
         "url": "https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 308166,
       "name": "\u00c9 preciso Perdoar",
       "url": "https://open.spotify.com/track/2O6G533UXYJmbkrhzmt7OC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chega de saudade de Jo\u00e3o Gilberto",
+        "url": "https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 107560,
+      "name": "Saudade F\u00eaz Um Samba",
+      "url": "https://open.spotify.com/track/269N6ZDAVJeDuiEDQfswpR"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chega de saudade de Jo\u00e3o Gilberto",
-        "url": "https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 143453,
-      "name": "Mar\u00eda Ningu\u00e9m",
-      "url": "https://open.spotify.com/track/20edSKFWj9zQEEbMeJDW6E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corcovado",
         "url": "https://open.spotify.com/album/3VaF3JOXtiv2nGFTMydLza"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 118661,
       "name": "Corcovado",
       "url": "https://open.spotify.com/track/3fYeqensiAoHgs645ttWnK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chega de saudade de Jo\u00e3o Gilberto",
+        "url": "https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 143453,
+      "name": "Mar\u00eda Ningu\u00e9m",
+      "url": "https://open.spotify.com/track/20edSKFWj9zQEEbMeJDW6E"
     },
     {
       "added_at": null,
@@ -927,8 +927,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chega de saudade de Jo\u00e3o Gilberto",
-        "url": "https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu"
+        "name": "Chega de Saudade",
+        "url": "https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7"
       },
       "artists": [
         {
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 137186,
-      "name": "H\u00f3-B\u00e1-L\u00e1-L\u00e1",
-      "url": "https://open.spotify.com/track/2Ls8gLpf0ulxFTisaVczmK"
+      "duration_ms": 126520,
+      "name": "Brigas, Nunca Mais - Ultimate Mix",
+      "url": "https://open.spotify.com/track/0V8PQaUAS4Q8Rud4663dqZ"
     }
   ],
   "unique_name": "This Is Jo\u00e3o Gilberto",

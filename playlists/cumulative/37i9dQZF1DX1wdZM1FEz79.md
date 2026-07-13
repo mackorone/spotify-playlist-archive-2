@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 10CM\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-684 songs - 1 day 16 hr 10 min
+685 songs - 1 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [Hide And Seek](https://open.spotify.com/track/6kgbXxqe6gDKMYrjNL3zqD) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Jumpin'](https://open.spotify.com/album/5zIcY1Rd64xth4HmCwmYwu) | 2:57 | 2022-03-31 | 2022-04-16 |
 | [Hide and Seek \(feat\. kimminseong\)](https://open.spotify.com/track/7ylQ2APCeCGzmD3H0bgTwP) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp), [kimminseong](https://open.spotify.com/artist/6kEcqDj4yNNQtE3hNjWjgq) | [Hide and Seek \(feat\. kimminseong\)](https://open.spotify.com/album/18soFYAFOWDmjUpL4R09bG) | 3:44 | 2026-03-06 | 2026-04-02 |
 | [Hide And Seek \(with Cho Jung Chi\)](https://open.spotify.com/track/40YR1sAECqtYHaiN4wzQ9e) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Hide And Seek \(with Cho Jung Chi\)](https://open.spotify.com/album/7ttphjk6H0f6fQ95WyOp5b) | 1:28 | 2022-03-31 | 2022-04-18 |
-| [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 | 2022-03-07 |  |
+| [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 | 2022-03-07 | 2026-07-13 |
 | [HOME](https://open.spotify.com/track/5TgEh8iGP5sfusUa1R5Z0H) | [HANUM](https://open.spotify.com/artist/6VniDsTqx9dE63GYUWM5AH) | [HOME](https://open.spotify.com/album/4iXVWGwbnDMI78HAx5WRT0) | 2:53 | 2022-12-20 | 2023-01-11 |
 | [home town](https://open.spotify.com/track/0UM7QmLlgoMOgwohLPtXbB) | [iseo](https://open.spotify.com/artist/1sJcgK5qmEdJzFtw7EGKHy) | [hometown](https://open.spotify.com/album/251GBeMnMBt09acRMBsOKb) | 3:01 | 2025-06-09 | 2025-06-25 |
 | [hometown](https://open.spotify.com/track/7MOMJntlnsDH95Q9KBbpGh) | [HAEBIN](https://open.spotify.com/artist/79e9aBzsPX9kSAqUxMNKQL) | [hometown](https://open.spotify.com/album/2OQOLKNqzQJAaRgEsQC3z3) | 3:13 | 2022-03-31 | 2022-04-20 |
@@ -288,6 +288,7 @@
 | [it's you](https://open.spotify.com/track/19VPsz9u0PnHoIJoTPnIZz) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [colin](https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty) | [it's you](https://open.spotify.com/album/5Vz21Tl66jUraTeMUT5vH5) | 3:02 | 2025-02-18 | 2026-03-25 |
 | [It’s Okay To Cry](https://open.spotify.com/track/5JxWTxU8trBOfLmeHReKHZ) | [LIM HEON IL](https://open.spotify.com/artist/1NaPFRqmf4eMTGfIR3eXwR), [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [It’s Okay To Cry](https://open.spotify.com/album/3fcD3HSeakYnWjFc1wNoXy) | 4:26 | 2022-03-31 | 2022-04-09 |
 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 | 2021-12-10 | 2025-09-08 |
+| [I’m No Astronomer, But](https://open.spotify.com/track/5SKfC9wAd7elQ6z2QI6gbg) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Album 0](https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW) | 2:53 | 2026-07-08 |  |
 | [I′m Coming Home](https://open.spotify.com/track/0dfK89MvMnBQcpdbW5f9tx) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Jirisan \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/77YNd9Ym3wycCakmOaKfAp) | 4:06 | 2022-04-12 | 2022-06-12 |
 | [Jealousy on the Rocks](https://open.spotify.com/track/2WujsWis0VgMAVuvP9GX8i) | [본하](https://open.spotify.com/artist/26oPZPY5H08ViuL52JDqKS) | [Half jokes, Half Truth](https://open.spotify.com/album/3pCIwwk2QQiIWc8LVYHhVz) | 3:24 | 2026-01-15 | 2026-01-27 |
 | [Jellyfish](https://open.spotify.com/track/4Jp9U1LmOOAFMDbHp0Yjj9) | [Son Hyeeun](https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ) | [Jellyfish](https://open.spotify.com/album/7lApor8Z92h8yzTE5SgvLu) | 3:43 | 2025-11-14 | 2025-12-19 |

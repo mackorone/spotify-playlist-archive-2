@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-190 songs - 9 hr 51 min
+191 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/7oXm7PC7jYNopNuvxZlC8W) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/2FGOxwdP7MMd4GfVl2Uf7f) | 3:06 | 2025-08-08 |  |
 | [I'm Sorry](https://open.spotify.com/track/3TOIDYFbn2NJYZhUHW4Q6j) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:43 | 2022-05-29 |  |
 | [I'm Still Breathing](https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [I'm Still Breathing](https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb) | 3:30 | 2022-05-29 |  |
-| [If We Want To](https://open.spotify.com/track/7qgCPiaB0hffA8UVeJN0WM) | [Chevy Beaulieu](https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC) | [If We Want To](https://open.spotify.com/album/3DIBtAWlzmki8v1cDZf7QJ) | 3:13 | 2025-03-02 |  |
+| [If We Want To](https://open.spotify.com/track/6J6pnmSeFzHupGJpIUy03A) | [Chevy Beaulieu](https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC) | [Chevy Beaulieu](https://open.spotify.com/album/0FQiGrFyiSDAWo0XEjHXDu) | 3:13 | 2026-07-12 |  |
+| [If We Want To](https://open.spotify.com/track/7qgCPiaB0hffA8UVeJN0WM) | [Chevy Beaulieu](https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC) | [If We Want To](https://open.spotify.com/album/3DIBtAWlzmki8v1cDZf7QJ) | 3:13 | 2025-03-02 | 2026-07-13 |
 | [If You Only Knew](https://open.spotify.com/track/1Sa8stvZa1DDMXWirp34XB) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [If You Only Knew](https://open.spotify.com/album/0QYjygDiIDvVRdicdoTrvk) | 3:32 | 2022-10-08 |  |
 | [In The Middle](https://open.spotify.com/track/6qnvjsMmlxf4TPfbD53ybj) | [The Mamas](https://open.spotify.com/artist/5HUGPIHRwh79LbffYIUJeJ) | [In The Middle](https://open.spotify.com/album/0AndLLhclP9WoLEsXVWipw) | 3:03 | 2022-05-29 |  |
 | [Jesus, My Mama, My Therapist](https://open.spotify.com/track/2aIYyC8gSLw0H3CNLhGajr) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Jesus, My Mama, My Therapist](https://open.spotify.com/album/5q6jZfZ06KkTYYMwfpWVxi) | 3:04 | 2023-07-21 |  |

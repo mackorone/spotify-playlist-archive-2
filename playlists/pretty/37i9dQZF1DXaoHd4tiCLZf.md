@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Ready to chic things up\. Listen to the music from Emily in Paris, streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,911 likes - 200 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,940 likes - 200 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 36 | [L'Amour Incertain](https://open.spotify.com/track/6mjxiKf49ojdbGcWyF3he9) | [Dorothee Rascle](https://open.spotify.com/artist/3D0TeyJ2sDFU4g04FqL3ZC), [Marie Morales Lopez de Lerena](https://open.spotify.com/artist/3zeFXPaREZwnzc8fLKerhd) | [Rétro à la Française](https://open.spotify.com/album/4rOT5eUffQUvLdxHkHKNsS) | 2:33 |
 | 37 | [Je te pardonne](https://open.spotify.com/track/6J4u0UBxnz4vRs20kDonIz) | [Marvin Marchand](https://open.spotify.com/artist/7IfQiessl7KB5sLHKz8Ihl) | [Je te pardonne](https://open.spotify.com/album/2lRXVjo00LaVaUgvzDinUt) | 3:09 |
 | 38 | [White Flag](https://open.spotify.com/track/201pkQifPuyDzWuV3HuLNn) | [UTO](https://open.spotify.com/artist/1qLSzTLKNBRu1byHN1eXoD) | [More heat to the fire part of fire](https://open.spotify.com/album/4Cc96Jq23WBposXUSK3EiF) | 2:55 |
-| 39 | [I don’t want to be friends](https://open.spotify.com/track/2IeKkx791KjMtKJeqVZxOy) | [Rosemary Fairweather](https://open.spotify.com/artist/4I4taY0pRzBIGmIgsBqcrE) | [I don’t want to be friends](https://open.spotify.com/album/49cjBeLhVEsUzDnhwgdKtZ) | 5:16 |
+| 39 | [I Don’t Want To Be Friends](https://open.spotify.com/track/2IeKkx791KjMtKJeqVZxOy) | [Rosemary Fairweather](https://open.spotify.com/artist/4I4taY0pRzBIGmIgsBqcrE) | [I Don’t Want To Be Friends](https://open.spotify.com/album/49cjBeLhVEsUzDnhwgdKtZ) | 5:16 |
 | 40 | [Nara, Sayonara](https://open.spotify.com/track/2U5dE3I2K8mCDrSiajZkbT) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [Nara, Sayonara](https://open.spotify.com/album/38jJPlFlw9TlMWc9DauNp5) | 1:36 |
 | 41 | [Stay as You Are](https://open.spotify.com/track/0dJG5SnjjS9maTUZaxHUJV) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Synthetic Hearts](https://open.spotify.com/album/6FXpqniKCmEFhn4eYSgvWy) | 3:22 |
 | 42 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 |

@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11738,
+  "num_followers": 11737,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -1271,30 +1271,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Wytrych",
-        "url": "https://open.spotify.com/album/34nYNHsFR8qVWAEzHSBP1a"
-      },
-      "artists": [
-        {
-          "name": "W.E.N.A.",
-          "url": "https://open.spotify.com/artist/183C4P5B8pmW1zmI4himpF"
-        },
-        {
-          "name": "Amatowsky",
-          "url": "https://open.spotify.com/artist/4RTruGcOVuIPiDVxOJbG7q"
-        },
-        {
-          "name": "Dj Qmak",
-          "url": "https://open.spotify.com/artist/2LUyULm4hu6KViQeXRUAkJ"
-        }
-      ],
-      "duration_ms": 175413,
-      "name": "K-R-\u00d3-L",
-      "url": "https://open.spotify.com/track/2JyhAYl6cwkUwsLJkAo52a"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "Reszty Nie Trzeba",
         "url": "https://open.spotify.com/album/6wwmbJkCTg8PabC4BtmqX5"
       },
@@ -1331,6 +1307,30 @@
       "duration_ms": 282188,
       "name": "Szko\u0142a \u017bycia",
       "url": "https://open.spotify.com/track/5UQ4wo1cpnTloANWlQuAnM"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "Wytrych",
+        "url": "https://open.spotify.com/album/34nYNHsFR8qVWAEzHSBP1a"
+      },
+      "artists": [
+        {
+          "name": "W.E.N.A.",
+          "url": "https://open.spotify.com/artist/183C4P5B8pmW1zmI4himpF"
+        },
+        {
+          "name": "Amatowsky",
+          "url": "https://open.spotify.com/artist/4RTruGcOVuIPiDVxOJbG7q"
+        },
+        {
+          "name": "Dj Qmak",
+          "url": "https://open.spotify.com/artist/2LUyULm4hu6KViQeXRUAkJ"
+        }
+      ],
+      "duration_ms": 175413,
+      "name": "K-R-\u00d3-L",
+      "url": "https://open.spotify.com/track/2JyhAYl6cwkUwsLJkAo52a"
     },
     {
       "added_at": "2026-04-09 22:12:46",

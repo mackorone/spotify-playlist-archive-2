@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Elias
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,929 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,894 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Frieden](https://open.spotify.com/track/5KuUGv7LppjS2XfEemohEh) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Frieden](https://open.spotify.com/album/2k9DOSaatqXZQa3l19qhUi) | 2:10 |
-| 2 | [Kamera Blitzlicht](https://open.spotify.com/track/1iqw9RC7HckP1b75DkO2es) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Kamera Blitzlicht](https://open.spotify.com/album/646xIOsDbv5KQq09Vgt3eg) | 3:58 |
-| 3 | [Last Man Standing](https://open.spotify.com/track/08kPU1nRw2TFkqxmFFh0IL) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Last Man Standing](https://open.spotify.com/album/4KT2BedID3WG8MZXobCRAU) | 2:53 |
-| 4 | [bikini body](https://open.spotify.com/track/2twXnIDIRD4XIx4OEMx80z) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp), [zuender](https://open.spotify.com/artist/4lCQMLf3GIOuDzrhVsd2FW) | [bikini body](https://open.spotify.com/album/7KvCv2HwQyAuV8xqPtkcGc) | 2:17 |
-| 5 | [einmal um die Welt mit dir](https://open.spotify.com/track/0CLQTEJgtzvT5wkDUwSkW5) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [einmal um die Welt mit dir](https://open.spotify.com/album/4F3nq1TgWq80H0tuKQsWIB) | 2:30 |
-| 6 | [Ich hab mich neu sortiert](https://open.spotify.com/track/4xPpCwyQJfocmevWIfLRSn) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [Ich hab mich neu sortiert](https://open.spotify.com/album/3V0JDcNqrbtkJKAFRgdPkB) | 3:13 |
+| 1 | [einmal um die Welt mit dir](https://open.spotify.com/track/0CLQTEJgtzvT5wkDUwSkW5) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [einmal um die Welt mit dir](https://open.spotify.com/album/4F3nq1TgWq80H0tuKQsWIB) | 2:30 |
+| 2 | [marie](https://open.spotify.com/track/5Qzigqughy9Wi40tdMATo5) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [marie](https://open.spotify.com/album/6FhxvQfSYvQn1pQVExw0i4) | 3:08 |
+| 3 | [Frieden](https://open.spotify.com/track/5KuUGv7LppjS2XfEemohEh) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Frieden](https://open.spotify.com/album/2k9DOSaatqXZQa3l19qhUi) | 2:10 |
+| 4 | [Last Man Standing](https://open.spotify.com/track/08kPU1nRw2TFkqxmFFh0IL) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Last Man Standing](https://open.spotify.com/album/4KT2BedID3WG8MZXobCRAU) | 2:53 |
+| 5 | [Kamera Blitzlicht](https://open.spotify.com/track/1iqw9RC7HckP1b75DkO2es) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Kamera Blitzlicht](https://open.spotify.com/album/646xIOsDbv5KQq09Vgt3eg) | 3:58 |
+| 6 | [bikini body](https://open.spotify.com/track/2twXnIDIRD4XIx4OEMx80z) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp), [zuender](https://open.spotify.com/artist/4lCQMLf3GIOuDzrhVsd2FW) | [bikini body](https://open.spotify.com/album/7KvCv2HwQyAuV8xqPtkcGc) | 2:17 |
 | 7 | [Golden Retriever Mindset](https://open.spotify.com/track/0r6udkRvwSYlLyUWjz6202) | [yara](https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C) | [Golden Retriever Mindset](https://open.spotify.com/album/0iAsErY6YYBIokykTbSAZy) | 2:53 |
-| 8 | [Alles Wird Gut](https://open.spotify.com/track/5rPhHTLPYfD7PLhI3Q2o85) | [Jugo Ürdens](https://open.spotify.com/artist/05ygKFPjfiChHhQSx5Y9Y2), [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Für Mich](https://open.spotify.com/album/1uMd8qtuDIvM4Jl2yM8qSr) | 2:52 |
-| 9 | [Schön sein \(ist fun\)](https://open.spotify.com/track/6MWNjVkitGbptqNPrXt3Y5) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Schön sein \(ist fun\)](https://open.spotify.com/album/3bTXklMs8lwDmdqMhmKQnH) | 2:25 |
-| 10 | [marie](https://open.spotify.com/track/5Qzigqughy9Wi40tdMATo5) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [marie](https://open.spotify.com/album/6FhxvQfSYvQn1pQVExw0i4) | 3:08 |
+| 8 | [Ich hab mich neu sortiert](https://open.spotify.com/track/4xPpCwyQJfocmevWIfLRSn) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [Ich hab mich neu sortiert](https://open.spotify.com/album/3V0JDcNqrbtkJKAFRgdPkB) | 3:13 |
+| 9 | [Alles Wird Gut](https://open.spotify.com/track/5rPhHTLPYfD7PLhI3Q2o85) | [Jugo Ürdens](https://open.spotify.com/artist/05ygKFPjfiChHhQSx5Y9Y2), [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Für Mich](https://open.spotify.com/album/1uMd8qtuDIvM4Jl2yM8qSr) | 2:52 |
+| 10 | [Schön sein \(ist fun\)](https://open.spotify.com/track/6MWNjVkitGbptqNPrXt3Y5) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Schön sein \(ist fun\)](https://open.spotify.com/album/3bTXklMs8lwDmdqMhmKQnH) | 2:25 |
 | 11 | [Macht über mich](https://open.spotify.com/track/0PlSX6FQzGlFBWOrvsAqmi) | [herbst](https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T) | [Macht über mich](https://open.spotify.com/album/1IopN0lretjngDlHxslT4R) | 4:22 |
 | 12 | [klippen](https://open.spotify.com/track/5YvQbwSkXnBk5vL8n8kRjy) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [klippen](https://open.spotify.com/album/1KjwjtFZhCHSt6Djb9uxPl) | 2:03 |
 | 13 | [Keine Sorgen](https://open.spotify.com/track/2pQVXKRtNAdRzk2jukS1jH) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Keine Sorgen](https://open.spotify.com/album/1zd16dHnUau3ceAcg55M6L) | 3:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [OBSESSED](https://open.spotify.com/track/4yZc4VjXu43T2wsxQ7tjvF) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [OBSESSED](https://open.spotify.com/album/67OvUTrUOEhzujquhBm1pQ) | 2:08 |
 | 75 | [beijing](https://open.spotify.com/track/4TXXiugsx7XUPLT4qVJvd9) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [beijing](https://open.spotify.com/album/3e0JxopFuRzQkHUOUZ2vI2) | 1:58 |
 
-Snapshot ID: `AAAAAKaBNGLE0YaCL5yj0oT1ogGUTDX9`
+Snapshot ID: `AAAAAMSwBCUANrrq3pPF6onuqfpg0BAg`

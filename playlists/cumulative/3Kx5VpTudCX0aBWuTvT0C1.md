@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-185 songs - 10 hr 44 min
+186 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Why did I let you go](https://open.spotify.com/track/3B7xM5DqfNlIOym2uGUqUD) | [Slackers](https://open.spotify.com/artist/5NgRFqeU6NagIzRChIVNbD), [Chelsea](https://open.spotify.com/artist/6dwC8rZSP2lrdEprBcZfdH) | [Why did I let you go](https://open.spotify.com/album/4ATipqGp3uvMv6TFJzQDYd) | 3:49 | 2025-11-19 | 2026-03-15 |
 | [Wicked Wicked Ways](https://open.spotify.com/track/4kBbTTOEJYymlnLIFMAAxf) | [DELREI](https://open.spotify.com/artist/77Xku7f5rq7hfoooTiv5jW), [Collin Hegna](https://open.spotify.com/artist/0cZ4bVVf2bWEON39U2kPab), [Federale](https://open.spotify.com/artist/6KdkzNXhRBjPQxCSYgRxpH) | [Wicked Wicked Ways](https://open.spotify.com/album/1te5ThMkLbxy4Vht0rSOlm) | 3:44 | 2026-05-27 |  |
 | [wild](https://open.spotify.com/track/0qfls25AHT70kdvoKc4zyq) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:43 | 2026-01-04 |  |
+| [WishaBich Woods \- Full Band Version](https://open.spotify.com/track/3sW1sOM2N6XI2TCvnZN0JK) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [WishaBich Woods \(Full Band Version\)](https://open.spotify.com/album/57O0Tb7laMbm0lPz9lAEy0) | 4:03 | 2026-07-12 |  |
 | [Working For The Man](https://open.spotify.com/track/13cFPU8k6jUOjckQL7EV4V) | [Big Peon](https://open.spotify.com/artist/1xK2Hek0OpY5J4NW5zwfNY) | [Working For The Man](https://open.spotify.com/album/5FUbgxqaocAOPbAxYinDmc) | 2:53 | 2025-11-07 | 2025-12-09 |
 | [Working Nights and Weekends](https://open.spotify.com/track/3BBs9GYT85irXh1iaaM02o) | [Feyer](https://open.spotify.com/artist/7Eu9QyMHf0nXat8KuTJJX4) | [Working Nights and Weekends](https://open.spotify.com/album/3j87mSrNLlK02e3fUTgiXi) | 3:23 | 2026-06-21 |  |
 | [World is Equal](https://open.spotify.com/track/05YK7hsS859ziFGqqyPvol) | [3syk](https://open.spotify.com/artist/6nLWTo3BGompYwZMi5MbnZ), [ugazin](https://open.spotify.com/artist/1LoZxacnWxCypwVYdkNKIS) | [World is Equal](https://open.spotify.com/album/2YDjHFunY5aJUsXrZijyUS) | 3:33 | 2025-10-29 | 2025-12-09 |

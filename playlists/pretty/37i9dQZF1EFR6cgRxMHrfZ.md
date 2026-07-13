@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 27 | [Catch My Breath](https://open.spotify.com/track/4aha3sFO6kTx0Jq4Fp5b3y) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:12 |
 | 28 | [The Outside](https://open.spotify.com/track/0uaomEw1vvehttoRNBngKd) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:03 |
 | 29 | [Stuck With Me](https://open.spotify.com/track/6Ej6WtjqLbro72mF4Y1Xdb) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 2:52 |
-| 30 | [Never Be Far](https://open.spotify.com/track/73ktcMfFRcoXlednsDvH3X) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:17 |
-| 31 | [FINE PLACE TO DIE](https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FINE PLACE TO DIE](https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r) | 3:07 |
+| 30 | [FINE PLACE TO DIE](https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FINE PLACE TO DIE](https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r) | 3:07 |
+| 31 | [Never Be Far](https://open.spotify.com/track/73ktcMfFRcoXlednsDvH3X) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:17 |
 | 32 | [Last Call](https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Last Call](https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l) | 2:31 |
 | 33 | [I Choose U](https://open.spotify.com/track/75NpB97pPgk2OcVF8d7zgV) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours](https://open.spotify.com/album/4xltDDKkCArA03HKOZnuQD) | 3:47 |
 | 34 | [The Hard Way](https://open.spotify.com/track/6jTKmVRVOLrlKrrziwkOal) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 2:42 |
@@ -161,8 +161,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 151 | [The Chase](https://open.spotify.com/track/7dC5kRk8SGKk9zjuDLJQFf) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Chase](https://open.spotify.com/album/6Xarwi5eTFjSPMUIUUHoIr) | 4:55 |
 | 152 | [1999](https://open.spotify.com/track/1lg6UeR6Y1575awdNzQxJ2) | [dwilly](https://open.spotify.com/artist/3XyvBNwsPBVhCXoYLNNQ84) | [CRAYOLA](https://open.spotify.com/album/26XpI9rAvpr02jCCJpZUIJ) | 3:07 |
 | 153 | [Pipe Dreams](https://open.spotify.com/track/37t9jRXgVdG9sMZkARkCYo) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Pipe Dreams](https://open.spotify.com/album/19ELZjBFt6REPNO5hprMXM) | 4:23 |
-| 154 | [Silver Lining](https://open.spotify.com/track/1rokgLrCwVL5GqjdKHVCs3) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/25wOAGrwmxfXdI7lRVHCB4) | 1:27 |
-| 155 | [Time Zones](https://open.spotify.com/track/0Hrap5brfaGFTmGGmuh3lc) | [Jordi](https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3) | [Jordi](https://open.spotify.com/album/6uX3C53HnidBg2qwSZvE9W) | 2:54 |
+| 154 | [Time Zones](https://open.spotify.com/track/0Hrap5brfaGFTmGGmuh3lc) | [Jordi](https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3) | [Jordi](https://open.spotify.com/album/6uX3C53HnidBg2qwSZvE9W) | 2:54 |
+| 155 | [Silver Lining](https://open.spotify.com/track/1rokgLrCwVL5GqjdKHVCs3) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/25wOAGrwmxfXdI7lRVHCB4) | 1:27 |
 | 156 | [Christmas Isn't Christmas Without You](https://open.spotify.com/track/0uayTjcJemZSpl83vpLbYt) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [a heartfelt holiday part 2](https://open.spotify.com/album/7jxFPptXltgsOe2faw82JA) | 3:20 |
 | 157 | [Sun Goes Down](https://open.spotify.com/track/1owtUJFiAoNQ7FpJj5x2Ni) | [Boon](https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7) | [Sun Goes Down](https://open.spotify.com/album/2AL2B57umU9ZrQqRJDl6XF) | 2:03 |
 | 158 | [Goodbye, Me](https://open.spotify.com/track/2UmMqjf7JNC7cezNPos4sg) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Gas Station Sunglasses](https://open.spotify.com/album/1qgkaI8sVGplzQA4eLDdMj) | 2:37 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 170 | [Drink Us Back Together](https://open.spotify.com/track/5dANkvVBO2q1vqty0jNp4i) | [17 Memphis](https://open.spotify.com/artist/4vqV8IpWyagD7V8RjMO63g) | [17 MEMPHIS FOREVER](https://open.spotify.com/album/2XYynyaDxQk1h2d6vWv4iI) | 3:12 |
 | 171 | [Give You Love](https://open.spotify.com/track/2UO5W95ydfVo5AmCQNzVxJ) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Give You Love](https://open.spotify.com/album/4AhCVQ2AZkSQD7N3Mp3ksC) | 3:04 |
 
-Snapshot ID: `AcWmkgAAAABO1Dh2KBvLg/qbmpna9gT8`
+Snapshot ID: `AcWsMgAAAAA0xUuZKZ9QYyY9hoGs+l1B`

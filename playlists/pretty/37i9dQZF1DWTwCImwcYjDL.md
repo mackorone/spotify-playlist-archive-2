@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 
 > De beste dance hits! Cover: Diplo
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,965 likes - 63 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,943 likes - 63 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

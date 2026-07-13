@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-469 songs - 23 hr 25 min
+470 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Echoes](https://open.spotify.com/track/4sG208ZylYAV8cgz1xhcB5) | [Teddy Randazzo](https://open.spotify.com/artist/7IAvIH8JtrxdwsydRKwh24) | [Melodies for Young Lovers](https://open.spotify.com/album/5FxoAaAW1ML9DcNHSY8FaW) | 2:48 | 2026-03-13 | 2026-06-05 |
 | [Echoes](https://open.spotify.com/track/7hofpPzQVwSWXfjaiBGXB9) | [Teddy Randazzo](https://open.spotify.com/artist/7IAvIH8JtrxdwsydRKwh24) | [The Echoes Around Me](https://open.spotify.com/album/7mb7Aq4erbhDY41tHpjDec) | 2:48 | 2026-02-04 | 2026-03-09 |
 | [Echoes](https://open.spotify.com/track/4H4HjQzUdn4KXqO1mDxqVh) | [Teddy Randazzo](https://open.spotify.com/artist/7IAvIH8JtrxdwsydRKwh24) | [Anthology](https://open.spotify.com/album/3cv3KYemlKiULGa8DPJnDj) | 2:48 | 2024-12-11 | 2024-12-16 |
-| [Eventually \- Live](https://open.spotify.com/track/49PUEUPk6GqeTYHyslrRhx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King The Carnegie Hall Concert June 18, 1971](https://open.spotify.com/album/1zpek5hOaIualxw0Gmev0z) | 4:38 | 2023-12-30 |  |
+| [Eventually](https://open.spotify.com/track/6m1zAo4TJs7RqJfqzR7qYq) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 4:57 | 2026-07-12 |  |
+| [Eventually \- Live](https://open.spotify.com/track/49PUEUPk6GqeTYHyslrRhx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King The Carnegie Hall Concert June 18, 1971](https://open.spotify.com/album/1zpek5hOaIualxw0Gmev0z) | 4:38 | 2023-12-30 | 2026-07-13 |
 | [Every Breath I Take](https://open.spotify.com/track/5mqJuf5U7M3eLNsaKZ0mUH) | [Gene Pitney](https://open.spotify.com/artist/3ap1NzHNV9QA1x1V6z3gSe) | [This is Gene Pitney](https://open.spotify.com/album/6K5awP05EBmAwBUIqdxURx) | 2:45 | 2026-04-21 |  |
 | [Everybody Go Home](https://open.spotify.com/track/6LqAZzYb3mY0rqotiIeJTS) | [Alison Lewis](https://open.spotify.com/artist/3zsi1T1OHInajubA5nldu9) | [Everybody Go Home](https://open.spotify.com/album/6zNQI5woCX6uRlJtAK3CuF) | 3:25 | 2023-12-30 |  |
 | [Everybody's Got the Spirit](https://open.spotify.com/track/3onIUSoy6dz7G21ERbu89u) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:45 | 2023-12-30 |  |

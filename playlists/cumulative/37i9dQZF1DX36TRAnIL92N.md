@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-313 songs - 1 day 1 hr 28 min
+314 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Bells of Notre Dame](https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Bells of Notre Dame](https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz) | 4:11 | 2023-02-01 | 2024-08-17 |
 | [Berghain \- Remix](https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw) | [Conrad Taylor](https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain \(Remix\)](https://open.spotify.com/album/5tY5Hafl8siFkPnxyllYVR) | 2:34 | 2026-03-22 |  |
 | [Better Than U Thought](https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Better Than U Thought](https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG) | 3:09 | 2024-08-30 | 2026-02-05 |
-| [Bigger Than Techno](https://open.spotify.com/track/65pMj3fAa6GEg5kB2dJLy3) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Bigger Than Techno](https://open.spotify.com/album/38gzifiSgb7tpOzpSt9OOf) | 2:48 | 2026-03-06 |  |
+| [Better With You](https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF) | [Better With You](https://open.spotify.com/album/3Uuy2TmXMScAV6Mzy9CZiO) | 3:31 | 2026-07-10 |  |
+| [Bigger Than Techno](https://open.spotify.com/track/65pMj3fAa6GEg5kB2dJLy3) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Bigger Than Techno](https://open.spotify.com/album/38gzifiSgb7tpOzpSt9OOf) | 2:48 | 2026-03-06 | 2026-07-13 |
 | [Black Unicorn](https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 05](https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf) | 8:05 | 2023-03-29 | 2024-08-12 |
 | [Bombacid](https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Roberto Molinaro](https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9) | [Bombacid](https://open.spotify.com/album/2wuhp5q5agJgqllJdBpJdN) | 3:24 | 2024-12-09 |  |
 | [BORE/ALIS](https://open.spotify.com/track/2XjiQGuiVWAfLmpt5JCNMK) | [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv), [Vision 20/20](https://open.spotify.com/artist/2H3YaPmQxrV9eHZ9lcmvoM) | [DEVIN/ITION](https://open.spotify.com/album/7JPLAj9HtVO1l1eOhQN5Nc) | 4:07 | 2022-12-16 | 2023-02-01 |

@@ -1,6 +1,6 @@
 {
   "description": "An all-Australian soundtrack to snags, bread and tomato sauce!",
-  "num_followers": 571900,
+  "num_followers": 571884,
   "original_name": "Aussie BBQ",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-02-12 13:00:20",
       "album": {
-        "name": "hickey",
-        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "who\u2019s your boyfriend",
-      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
-    },
-    {
-      "added_at": "2026-02-12 13:00:20",
-      "album": {
         "name": "Diesel And Dust",
         "url": "https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 255680,
       "name": "Beds Are Burning - Remastered",
       "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
+    },
+    {
+      "added_at": "2026-02-12 13:00:20",
+      "album": {
+        "name": "hickey",
+        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "who\u2019s your boyfriend",
+      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
     },
     {
       "added_at": "2026-02-12 13:00:20",
@@ -535,8 +535,8 @@
     {
       "added_at": "2026-02-12 13:00:20",
       "album": {
-        "name": "The Very Very Best Of Crowded House (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3XLP6DCTfz8eQkORPdfvvy"
+        "name": "Temple Of Low Men",
+        "url": "https://open.spotify.com/album/7t38G4SGphJox2lCAAZo2m"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
         }
       ],
-      "duration_ms": 238362,
-      "name": "Don't Dream It's Over",
-      "url": "https://open.spotify.com/track/1fiDe8sb2DMEU4JGPOIEB1"
+      "duration_ms": 187666,
+      "name": "Better Be Home Soon",
+      "url": "https://open.spotify.com/track/4ZYCwq1EMPY5zZt195ARWg"
     },
     {
       "added_at": "2026-02-12 13:00:20",
@@ -615,8 +615,8 @@
     {
       "added_at": "2026-02-12 13:00:20",
       "album": {
-        "name": "Temple Of Low Men",
-        "url": "https://open.spotify.com/album/7t38G4SGphJox2lCAAZo2m"
+        "name": "The Very Very Best Of Crowded House (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3XLP6DCTfz8eQkORPdfvvy"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
         }
       ],
-      "duration_ms": 187666,
-      "name": "Better Be Home Soon",
-      "url": "https://open.spotify.com/track/4ZYCwq1EMPY5zZt195ARWg"
+      "duration_ms": 238362,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/1fiDe8sb2DMEU4JGPOIEB1"
     },
     {
       "added_at": "2026-02-12 13:00:20",

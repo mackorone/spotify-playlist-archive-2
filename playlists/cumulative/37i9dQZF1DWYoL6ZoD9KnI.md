@@ -4,7 +4,7 @@
 
 > The essential tracks from Kenshi Yonezu/ hachi\. 米津玄師/ ハチの代表曲を1つのプレイリストで。
 
-137 songs - 8 hr 56 min
+138 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [優しい人](https://open.spotify.com/track/7EoBmpSFygVuCCGkXA3wei) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 3:28 | 2022-11-22 | 2024-04-19 |
 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 | 2023-07-16 | 2024-08-21 |
 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/0Sopkmelun82PFzupvSrrA) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LOST CORNER](https://open.spotify.com/album/2HfY1kPSmmYfR13OSKYH5T) | 4:34 | 2024-08-20 |  |
+| [夜鷹 \- Yodaka](https://open.spotify.com/track/4Qa2LME2vWWPXMLnFCGgxU) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [夜鷹 \- Yodaka](https://open.spotify.com/album/0xbgE5GJtzcQbYwkGNu01T) | 3:18 | 2026-07-12 |  |
 | [恋と病熱](https://open.spotify.com/track/05fuWARtOqZgc1mzjf5l0C) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [diorama](https://open.spotify.com/album/75VDsskmdLJZWqbHYpKcKK) | 4:22 | 2022-11-22 |  |
 | [恥ずかしくってしょうがねえ](https://open.spotify.com/track/64DQr4CorFeWFZMRiKswZv) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/1T6osuQ4vFziPrA10uXOfs) | 3:41 | 2022-11-22 |  |
 | [愛麗絲（正式表記はAliceの中国語簡体字表記となります。）](https://open.spotify.com/track/23XoXNpisXtArBDkZH0S7I) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1cgHX5XjiIVyZWuDRU7x3T) | 3:09 | 2024-04-08 |  |

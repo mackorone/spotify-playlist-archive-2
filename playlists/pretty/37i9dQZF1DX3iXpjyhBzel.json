@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Get Worship",
-  "num_followers": 1218421,
+  "num_followers": 1218443,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
+        "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 303346,
+      "name": "O Medo N\u00e3o Vai Me Parar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
         "name": "Buscar-Me-Eis e Me Achareis (Ao Vivo)",
         "url": "https://open.spotify.com/album/7g8LWP9eQyiS9YIbziDPV8"
       },
@@ -463,18 +479,18 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
-        "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
+        "name": "Se eu Somente Te Tocar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4InzdfPhGCrhPEmgFPLvL9"
       },
       "artists": [
         {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+          "name": "Nilson Junior",
+          "url": "https://open.spotify.com/artist/3iVKvSnoBIfdGNiLYrLIny"
         }
       ],
-      "duration_ms": 303346,
-      "name": "O Medo N\u00e3o Vai Me Parar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh"
+      "duration_ms": 295882,
+      "name": "Se eu Somente Te Tocar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3FZSOrmZmuUGZ9zxdfsVr1"
     },
     {
       "added_at": "2026-06-12 03:01:53",
@@ -499,22 +515,6 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
-        "name": "Se eu Somente Te Tocar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4InzdfPhGCrhPEmgFPLvL9"
-      },
-      "artists": [
-        {
-          "name": "Nilson Junior",
-          "url": "https://open.spotify.com/artist/3iVKvSnoBIfdGNiLYrLIny"
-        }
-      ],
-      "duration_ms": 295882,
-      "name": "Se eu Somente Te Tocar - Ao Vivo",
-      "url": "https://open.spotify.com/track/3FZSOrmZmuUGZ9zxdfsVr1"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
         "name": "N\u00e3o Me Deixe Esquecer (Ao Vivo)",
         "url": "https://open.spotify.com/album/1bpa2Hycu9w4xWU6QRKi1r"
       },
@@ -531,30 +531,6 @@
       "duration_ms": 380477,
       "name": "N\u00e3o Me Deixe Esquecer - Ao Vivo",
       "url": "https://open.spotify.com/track/5l8vkQjZJz8EXmo28YoaPr"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
-        "name": "Meu Mestre",
-        "url": "https://open.spotify.com/album/0pgRI4TKSJmgYA8TMkM0fn"
-      },
-      "artists": [
-        {
-          "name": "Get Worship",
-          "url": "https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp"
-        },
-        {
-          "name": "Get Records",
-          "url": "https://open.spotify.com/artist/1CYUWfGfCUbH4AfbK6NG67"
-        },
-        {
-          "name": "Vinicius Cruz",
-          "url": "https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V"
-        }
-      ],
-      "duration_ms": 364104,
-      "name": "Meu Mestre",
-      "url": "https://open.spotify.com/track/04bK600xontKmxPDo5HYRb"
     },
     {
       "added_at": "2026-06-12 03:01:53",
@@ -579,6 +555,30 @@
       "duration_ms": 503584,
       "name": "Fiel \u00e9 Deus",
       "url": "https://open.spotify.com/track/1EzlXvFPrQ8d7Ar4L9kOSx"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
+        "name": "Meu Mestre",
+        "url": "https://open.spotify.com/album/0pgRI4TKSJmgYA8TMkM0fn"
+      },
+      "artists": [
+        {
+          "name": "Get Worship",
+          "url": "https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp"
+        },
+        {
+          "name": "Get Records",
+          "url": "https://open.spotify.com/artist/1CYUWfGfCUbH4AfbK6NG67"
+        },
+        {
+          "name": "Vinicius Cruz",
+          "url": "https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V"
+        }
+      ],
+      "duration_ms": 364104,
+      "name": "Meu Mestre",
+      "url": "https://open.spotify.com/track/04bK600xontKmxPDo5HYRb"
     },
     {
       "added_at": "2026-06-12 03:01:53",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
-        "name": "F\u00e9 Para O Imposs\u00edvel",
-        "url": "https://open.spotify.com/album/4vmCARn8Gmc9Uodx8aaJGE"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 260506,
-      "name": "F\u00e9 Para O Imposs\u00edvel",
-      "url": "https://open.spotify.com/track/0OSnHMH7SVZT9CgA2DMu4x"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
         "name": "Cristo + Tudo \u00c9 Teu (Ao Vivo no Jesus Vida Ver\u00e3o)",
         "url": "https://open.spotify.com/album/7AVVWCuSmShe5MeFw6R6lf"
       },
@@ -779,22 +763,18 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
-        "name": "Deus Coloca O Ch\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ntpRjk2x5nSwb7eEaX2mN"
+        "name": "F\u00e9 Para O Imposs\u00edvel",
+        "url": "https://open.spotify.com/album/4vmCARn8Gmc9Uodx8aaJGE"
       },
       "artists": [
         {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
-        },
-        {
-          "name": "Deive Leonardo",
-          "url": "https://open.spotify.com/artist/2yXSYL4govoGkKNqq6BJQW"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 341540,
-      "name": "Deus Coloca O Ch\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/5S0FRi4n38dDHrDl3C5MSR"
+      "duration_ms": 260506,
+      "name": "F\u00e9 Para O Imposs\u00edvel",
+      "url": "https://open.spotify.com/track/0OSnHMH7SVZT9CgA2DMu4x"
     },
     {
       "added_at": "2026-06-12 03:01:53",
@@ -815,6 +795,26 @@
       "duration_ms": 489442,
       "name": "Messias - Ao Vivo",
       "url": "https://open.spotify.com/track/4mIyeVe11htVAzz2gVNmJk"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
+        "name": "Deus Coloca O Ch\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ntpRjk2x5nSwb7eEaX2mN"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        },
+        {
+          "name": "Deive Leonardo",
+          "url": "https://open.spotify.com/artist/2yXSYL4govoGkKNqq6BJQW"
+        }
+      ],
+      "duration_ms": 341540,
+      "name": "Deus Coloca O Ch\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5S0FRi4n38dDHrDl3C5MSR"
     },
     {
       "added_at": "2026-06-12 03:01:53",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
-        "name": "Poderoso Deus (Medley)",
-        "url": "https://open.spotify.com/album/6inDdpqWMqmciGgui8JUnl"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 455597,
-      "name": "Poderoso Deus (Medley)",
-      "url": "https://open.spotify.com/track/3ruNAACfSrIgiZddm3zlmt"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
         "name": "Avenida do Arrependimento",
         "url": "https://open.spotify.com/album/20gaQaN1H4v5Y4PSvES6fM"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 323000,
       "name": "Esp\u00edrito Santo (Inhabit)",
       "url": "https://open.spotify.com/track/0X3vkwKZwCBP2XCLSvPf1b"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
+        "name": "Poderoso Deus (Medley)",
+        "url": "https://open.spotify.com/album/6inDdpqWMqmciGgui8JUnl"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 455597,
+      "name": "Poderoso Deus (Medley)",
+      "url": "https://open.spotify.com/track/3ruNAACfSrIgiZddm3zlmt"
     },
     {
       "added_at": "2026-06-12 03:01:53",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
-        "name": "Palavras",
-        "url": "https://open.spotify.com/album/6ItUOVRPgGEJYGNinSw625"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 317043,
-      "name": "Palavras",
-      "url": "https://open.spotify.com/track/690ypxquSmzDvvVB9eqhPc"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
         "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
         "url": "https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 431470,
       "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
       "url": "https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
+        "name": "Palavras",
+        "url": "https://open.spotify.com/album/6ItUOVRPgGEJYGNinSw625"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 317043,
+      "name": "Palavras",
+      "url": "https://open.spotify.com/track/690ypxquSmzDvvVB9eqhPc"
     },
     {
       "added_at": "2026-06-12 03:01:53",

@@ -4,7 +4,7 @@
 
 > 
 
-1,078 songs - 2 day 19 hr 57 min
+1,083 songs - 2 day 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [7 De Octubre](https://open.spotify.com/track/3heoNXvu0MvJHVXYX4YVHs) | [Protocolo Snob](https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE) | [7 De Octubre](https://open.spotify.com/album/7bpLNnIZpr6w0CKGCzPJi7) | 2:50 | 2025-12-12 |  |
 | [8](https://open.spotify.com/track/6PcqddmUxn7poehZezZGiC) | [MASSA](https://open.spotify.com/artist/5T9XzZfDTS0Md8zGDQx7ZF) | [Walls](https://open.spotify.com/album/5K5dZbunzeo7fJOGe8nymX) | 6:24 | 2026-01-06 |  |
 | [A bird of passage](https://open.spotify.com/track/7jKTfChau2O81uF7ao7iVf) | [Echoes](https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd) | [Impartments](https://open.spotify.com/album/4WVCTDY3bZDiTnK5246kRT) | 7:06 | 2025-04-29 |  |
+| [A Long Way](https://open.spotify.com/track/3iLdRoMegIcfZNR2YyURno) | [Friends With Boats](https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc) | [A Long Way](https://open.spotify.com/album/3Z3sEUoHPdl5BUsiccgFuO) | 3:16 | 2026-07-12 |  |
 | [A Memory To Discard](https://open.spotify.com/track/1iEmE9AcekIhVpkYH5ey8h) | [Fat Drive Factory](https://open.spotify.com/artist/6JL7xnHim56hmMNyUDelFE) | [Buzzing Gently](https://open.spotify.com/album/5XNrh4o48GVluuIJOzRs7m) | 3:08 | 2025-06-12 |  |
 | [A Million Voices](https://open.spotify.com/track/26oIvwYJVkb2zAt1h7WIcy) | [Nekoticat](https://open.spotify.com/artist/3gpf34quiyNgkZgUrIrzJV) | [A Million Voices](https://open.spotify.com/album/1F8UPluQ7WFQa0zIAghAeX) | 3:21 | 2025-02-07 |  |
 | [A World Of Little Worlds](https://open.spotify.com/track/5sz9ipRxEIWqE27sufQwRs) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Zero Hour: Genesis](https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r) | 4:59 | 2026-04-19 |  |
@@ -143,6 +144,7 @@
 | [Burning the Tracks](https://open.spotify.com/track/2a3jnhvcOvkodg0qVzrRJN) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [21st Century Redemption Songs](https://open.spotify.com/album/3RvT4g3HJJ1VGBKJqQa28Y) | 3:48 | 2025-06-26 |  |
 | [Burnout and Fadeaway](https://open.spotify.com/track/7hZLdFCeEXC0LppYYoh2M7) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 3:27 | 2026-05-30 |  |
 | [Burnt Cherry 7s](https://open.spotify.com/track/4Ec5WsqcoTG22BDT8jn850) | [Chris Thomas & The Merrymakers](https://open.spotify.com/artist/5RLeiUJAXGtm9Ag6LxnJdr) | [Burnt Cherry 7s](https://open.spotify.com/album/3yd3OotF20pIemShamo3Xk) | 2:48 | 2025-07-17 |  |
+| [Busca Soluciones](https://open.spotify.com/track/2PRtmCnP8N1gpNJO8sgrEa) | [David Send](https://open.spotify.com/artist/31MXafStikNQHwXXa2h61m) | [Como Superman](https://open.spotify.com/album/02FyTy7so3qKytEzvm2hoE) | 3:58 | 2026-07-12 |  |
 | [Butterfly](https://open.spotify.com/track/6PeePM62VCME64vXtK9feK) | [Morwëna](https://open.spotify.com/artist/2vG7p8ihVMYrJibA9rhs6U) | [Morwëna](https://open.spotify.com/album/4yCcplnApHoEBASJXFOEbm) | 3:30 | 2026-05-24 |  |
 | [Cada Vez](https://open.spotify.com/track/2axTZQ926dsORfvICTdWCu) | [Protocolo Snob](https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE) | [El Manual del Perfecto Gilipollas](https://open.spotify.com/album/3SjOf8nbU7ijEGgvf1jfzN) | 4:22 | 2025-11-27 |  |
 | [Cadeado na Cabeça](https://open.spotify.com/track/2cRuFyGzf3dqC7VvWGu97Q) | [Trilogia Urbana](https://open.spotify.com/artist/7JEEQ1GSiNLKy8RNgEFlOM) | [Cadeado na Cabeça](https://open.spotify.com/album/37gI2wJQTpRB5TUdWNpSSD) | 2:48 | 2026-05-30 |  |
@@ -493,6 +495,7 @@
 | [Lost In Between](https://open.spotify.com/track/2oXcoO9wRg7DCF7fP4Sq3o) | [New Hate](https://open.spotify.com/artist/6vFDDIr4wUXmdnSpDRLETD) | [Lost In Between](https://open.spotify.com/album/17XSjMJlOqbgUexwM5BbR0) | 4:59 | 2025-05-15 |  |
 | [Love is](https://open.spotify.com/track/47fnHzZbyVzoun68XD6ZV0) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [Love is](https://open.spotify.com/album/7xboQruZ4Wj5ypbkTR3ZQT) | 2:24 | 2025-10-23 |  |
 | [Love Is a Driving Force](https://open.spotify.com/track/6oO558KUx3y53ftckwkKHZ) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Love Is a Driving Force](https://open.spotify.com/album/7G0YtjrO3zD7cGMoeOpJR4) | 2:35 | 2025-10-16 |  |
+| [Love is Blind](https://open.spotify.com/track/30qfoBmakKoejDlouFQVIn) | [ColourMind](https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO) | [Love is Blind](https://open.spotify.com/album/0QNs2g3amfHkqcZYfmk8t8) | 3:24 | 2026-07-12 |  |
 | [LOVE ME HATE ME](https://open.spotify.com/track/014eBnpDs1AP6oT4iJdiig) | [BOT41](https://open.spotify.com/artist/4WI9St4UDgfcbmol7lO49V) | [LOVE ME HATE ME](https://open.spotify.com/album/7aBZAuT80VvU83aKSTLfac) | 3:26 | 2026-03-06 |  |
 | [Love Playing with Fire](https://open.spotify.com/track/4SQVdmIE9F29Gg7G0JJXGf) | [Gla Lys](https://open.spotify.com/artist/4WiQ9z5ykjy7BQqfuiq0V7) | [Love Playing with Fire](https://open.spotify.com/album/10aMWFrldxhuv6khM13KQu) | 2:29 | 2024-12-12 |  |
 | [loverboy](https://open.spotify.com/track/1G4FozsbZDsYacSHn6lugp) | [Baylee Price](https://open.spotify.com/artist/2o0cXnmAk44UXsqTi4a9o7) | [loverboy](https://open.spotify.com/album/57l9u9L9mvATYjKy9fAsvC) | 2:54 | 2025-02-05 |  |
@@ -704,6 +707,7 @@
 | [Public Memory \#1](https://open.spotify.com/track/3mkjcKOsD7hzLMmTiyKbyK) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Public Memory \#1](https://open.spotify.com/album/7I88oAjzXkX8DqRl23Dq4l) | 3:31 | 2026-04-12 |  |
 | [Puppets Know](https://open.spotify.com/track/0VwH13oGDjk5biSprNZHZH) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Puppets Know](https://open.spotify.com/album/5wmSnx6DHERdTs3YBS1gFy) | 5:12 | 2025-11-04 |  |
 | [Pyre](https://open.spotify.com/track/7KlKcKA3fNRVJ2shW9gckm) | [Skulk Of Foxes](https://open.spotify.com/artist/3gRo1Is8D77xiHcLs1j56R) | [Pyre](https://open.spotify.com/album/0yrSAQLRyAiMzXRR6Zzv8m) | 3:58 | 2025-02-17 |  |
+| [Quarter Life Crisis](https://open.spotify.com/track/4nLYmzFA9lvM1aRK8IK55a) | [ColourMind](https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO) | [Quarter Life Crisis](https://open.spotify.com/album/24BmRsoMmzUsAww33mUSaF) | 3:43 | 2026-07-12 |  |
 | [Que pasará](https://open.spotify.com/track/5JA1sAlf6P24JkFjc2AeD2) | [Forte](https://open.spotify.com/artist/0KGiPwvoreglthW7aq0R3V) | [Que pasará](https://open.spotify.com/album/33inM3I3bjR9HWwshVyqEz) | 5:05 | 2025-11-04 |  |
 | [Qui vive](https://open.spotify.com/track/7jrLTf9EhoOXOVKEDDObov) | [Bertier](https://open.spotify.com/artist/6b4wj5meS7Z78cPKyBv8kF) | [Machine ronde](https://open.spotify.com/album/6H1yqP9CrcjXnLYHR8kNW4) | 3:13 | 2024-11-30 |  |
 | [Quickness](https://open.spotify.com/track/4ductAkMxO5AEij8HFqFGm) | [Moonstorm](https://open.spotify.com/artist/6ZQziUeyWpDhRpHrzbWKTF) | [Voyager](https://open.spotify.com/album/3XHTlZ95MaSTeIIBXXxQzX) | 2:55 | 2024-11-30 |  |
@@ -984,6 +988,7 @@
 | [Unconditionally](https://open.spotify.com/track/009ImBOrIUlWgla8U05RAC) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:48 | 2024-11-12 |  |
 | [Under](https://open.spotify.com/track/29ARgymaf5UXBHhq7TzFSE) | [Ghost Arcadia](https://open.spotify.com/artist/55YehgF2R9UfOxYBU3xdbO) | [Under](https://open.spotify.com/album/4B7Tl2H3baKnkrZdaahluV) | 3:59 | 2024-12-04 |  |
 | [Underwater](https://open.spotify.com/track/4rYnsfr04evuvN72gSXO8T) | [Elliott Jones](https://open.spotify.com/artist/7MWQM2kFM8HyN61ef30q0a) | [Underwater](https://open.spotify.com/album/6yfgdoWKvaA7GIejEcC4ew) | 2:37 | 2025-07-25 |  |
+| [Undying Torment](https://open.spotify.com/track/1TSBeYKb8Q6rX4U49xpZyq) | [Simulation Defect](https://open.spotify.com/artist/4qfVotME69mQnnQC6yrnYK) | [Undying Torment](https://open.spotify.com/album/5ZVBZ0FaenanDCUOqTTD0P) | 3:10 | 2026-07-12 |  |
 | [Unholy Snowman](https://open.spotify.com/track/58FbatbBHhm5kUqolARtAr) | [Lupus Sanctus](https://open.spotify.com/artist/2bqjY9v0cMxIpRswyulebX) | [The Yuletide Storm](https://open.spotify.com/album/6kro5WdGfhVoOG5U5BCiO8) | 2:20 | 2025-02-05 |  |
 | [Unmovable Fires](https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Unmovable Fires](https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv) | 4:17 | 2024-12-20 |  |
 | [Utopia](https://open.spotify.com/track/0TcbSLu67eUHawIfcDbgQH) | [Dead Gardens](https://open.spotify.com/artist/7oEhQM7iTnYtyCLOZ470lH) | [Artificial Love](https://open.spotify.com/album/1iDblALNVCqRDvbrC8NjAp) | 4:04 | 2025-06-17 |  |

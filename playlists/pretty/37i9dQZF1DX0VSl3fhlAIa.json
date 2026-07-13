@@ -1,6 +1,6 @@
 {
   "description": "Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.",
-  "num_followers": 8367,
+  "num_followers": 8402,
   "original_name": "Kimono R&B",
   "owner": {
     "name": "Spotify",
@@ -327,18 +327,18 @@
     {
       "added_at": "2026-06-26 00:37:16",
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/54Xk8agoEmBJtxl0qMwixB"
+        "name": "Terminal 3",
+        "url": "https://open.spotify.com/album/1VWD7epWmb4cR4gHCI2fQC"
       },
       "artists": [
         {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+          "name": "3House",
+          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
         }
       ],
-      "duration_ms": 224786,
-      "name": "Wonderland",
-      "url": "https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i"
+      "duration_ms": 175346,
+      "name": "After Rain",
+      "url": "https://open.spotify.com/track/6aZgxJOcQCacpBSSwQt9Dx"
     },
     {
       "added_at": "2026-06-26 00:37:16",
@@ -391,18 +391,18 @@
     {
       "added_at": "2026-06-26 00:37:16",
       "album": {
-        "name": "Terminal 3",
-        "url": "https://open.spotify.com/album/1VWD7epWmb4cR4gHCI2fQC"
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/54Xk8agoEmBJtxl0qMwixB"
       },
       "artists": [
         {
-          "name": "3House",
-          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
         }
       ],
-      "duration_ms": 175346,
-      "name": "After Rain",
-      "url": "https://open.spotify.com/track/6aZgxJOcQCacpBSSwQt9Dx"
+      "duration_ms": 224786,
+      "name": "Wonderland",
+      "url": "https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i"
     },
     {
       "added_at": "2026-06-26 00:37:16",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-06-26 00:37:16",
       "album": {
-        "name": "Colorado",
-        "url": "https://open.spotify.com/album/7D3tX9U9qzmr0HOiU3GlB7"
-      },
-      "artists": [
-        {
-          "name": "Tina",
-          "url": "https://open.spotify.com/artist/72HxMCdKQmPgS3r5OtC01L"
-        }
-      ],
-      "duration_ms": 346426,
-      "name": "I'll be there",
-      "url": "https://open.spotify.com/track/45wOY8aMv3FgERrGaFxWOd"
-    },
-    {
-      "added_at": "2026-06-26 00:37:16",
-      "album": {
         "name": "When was that",
         "url": "https://open.spotify.com/album/3ZQiUTHlL1t3v4tPoQ52PB"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 166426,
       "name": "no pride",
       "url": "https://open.spotify.com/track/1Wy8HDBwISAY6l97Pm1I9X"
+    },
+    {
+      "added_at": "2026-06-26 00:37:16",
+      "album": {
+        "name": "Colorado",
+        "url": "https://open.spotify.com/album/7D3tX9U9qzmr0HOiU3GlB7"
+      },
+      "artists": [
+        {
+          "name": "Tina",
+          "url": "https://open.spotify.com/artist/72HxMCdKQmPgS3r5OtC01L"
+        }
+      ],
+      "duration_ms": 346426,
+      "name": "I'll be there",
+      "url": "https://open.spotify.com/track/45wOY8aMv3FgERrGaFxWOd"
     },
     {
       "added_at": "2026-06-26 00:37:16",

@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Igor",
-  "num_followers": 11439,
+  "num_followers": 11440,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Vlammen!",
-        "url": "https://open.spotify.com/album/5ttJNiwtPhkCMzLz9YlGOE"
-      },
-      "artists": [
-        {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "Vlammen!",
-      "url": "https://open.spotify.com/track/2GXZ1LZ1Br2cUyMudL6vBa"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Bang Dat Ik Spring",
         "url": "https://open.spotify.com/album/0Cpxp6XmrxJjmTsb1MJwn2"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 186093,
       "name": "Bang Dat Ik Spring",
       "url": "https://open.spotify.com/track/7mGEyicqCXj4lvtIq71I8R"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Vlammen!",
+        "url": "https://open.spotify.com/album/5ttJNiwtPhkCMzLz9YlGOE"
+      },
+      "artists": [
+        {
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "Vlammen!",
+      "url": "https://open.spotify.com/track/2GXZ1LZ1Br2cUyMudL6vBa"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "In NL Mag Je Een Vrouw Slaan",
-        "url": "https://open.spotify.com/album/3q5dNlndDVXzfvulgjpbRe"
-      },
-      "artists": [
-        {
-          "name": "Alice Olsthoorn",
-          "url": "https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA"
-        }
-      ],
-      "duration_ms": 150344,
-      "name": "In NL Mag Je Een Vrouw Slaan",
-      "url": "https://open.spotify.com/track/7FxAlqztuui1tcixeLCq0n"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Nederland",
         "url": "https://open.spotify.com/album/45DRLkQnQCjxiPDLrK0x63"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
+        "name": "In NL Mag Je Een Vrouw Slaan",
+        "url": "https://open.spotify.com/album/3q5dNlndDVXzfvulgjpbRe"
+      },
+      "artists": [
+        {
+          "name": "Alice Olsthoorn",
+          "url": "https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA"
+        }
+      ],
+      "duration_ms": 150344,
+      "name": "In NL Mag Je Een Vrouw Slaan",
+      "url": "https://open.spotify.com/track/7FxAlqztuui1tcixeLCq0n"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
         "name": "Normaal Toen",
         "url": "https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10"
       },
@@ -759,6 +759,42 @@
       "duration_ms": 194454,
       "name": "Normaal Toen",
       "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Mommy",
+        "url": "https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "duration_ms": 174352,
+      "name": "Mommy",
+      "url": "https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Niemandsland",
+        "url": "https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll"
+      },
+      "artists": [
+        {
+          "name": "Ploegendienst",
+          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
+        },
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        }
+      ],
+      "duration_ms": 165210,
+      "name": "Niemandsland",
+      "url": "https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -787,42 +823,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Niemandsland",
-        "url": "https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll"
-      },
-      "artists": [
-        {
-          "name": "Ploegendienst",
-          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
-        },
-        {
-          "name": "Willem",
-          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
-        }
-      ],
-      "duration_ms": 165210,
-      "name": "Niemandsland",
-      "url": "https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "Mommy",
-        "url": "https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU"
-      },
-      "artists": [
-        {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
-        }
-      ],
-      "duration_ms": 174352,
-      "name": "Mommy",
-      "url": "https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Sneeuw In De Zomer",
         "url": "https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32"
       },
@@ -835,6 +835,22 @@
       "duration_ms": 164794,
       "name": "Sneeuw In De Zomer",
       "url": "https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Maskers",
+        "url": "https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO"
+      },
+      "artists": [
+        {
+          "name": "Elias Mazian",
+          "url": "https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU"
+        }
+      ],
+      "duration_ms": 201627,
+      "name": "Maskers",
+      "url": "https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -859,38 +875,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Maskers",
-        "url": "https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO"
+        "name": "7 Dagen Maandag",
+        "url": "https://open.spotify.com/album/25xGhiCK7p8gDwUl7eLSfQ"
       },
       "artists": [
         {
-          "name": "Elias Mazian",
-          "url": "https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU"
-        }
-      ],
-      "duration_ms": 201627,
-      "name": "Maskers",
-      "url": "https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "Ook De Miezer",
-        "url": "https://open.spotify.com/album/40xY7z7fbX1drEWKz5y5CQ"
-      },
-      "artists": [
-        {
-          "name": "Vic Willems",
-          "url": "https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX"
+          "name": "Ricky Bekstok",
+          "url": "https://open.spotify.com/artist/3XJeemwFhfopLJNzBlNZaT"
         },
         {
-          "name": "Denise Breevaart",
-          "url": "https://open.spotify.com/artist/7a7QUAAZArOW20p34t9nhS"
+          "name": "Prins S. en De Geit",
+          "url": "https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi"
         }
       ],
-      "duration_ms": 240949,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/0Q7FWCLgqatwSWma0K3afr"
+      "duration_ms": 166753,
+      "name": "7 Dagen Maandag",
+      "url": "https://open.spotify.com/track/72BvsmAkQSLUtov2ThX1hb"
     }
   ],
   "unique_name": "indie.nl",

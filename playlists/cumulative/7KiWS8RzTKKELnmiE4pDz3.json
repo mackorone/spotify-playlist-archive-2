@@ -6711,6 +6711,24 @@
     },
     {
       "album": {
+        "name": "Sink with Kalifornija",
+        "url": "https://open.spotify.com/album/0NrzBaSYHqhpToKWYB0m4z"
+      },
+      "artists": [
+        {
+          "name": "Youth Brigade",
+          "url": "https://open.spotify.com/artist/5drRnXQdotVEC2QnVd0hFP"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159333,
+      "name": "Did You Wanna Die",
+      "url": "https://open.spotify.com/track/2RNxyDfw5X0Uad1jbQv9fe"
+    },
+    {
+      "album": {
         "name": "The Saga Continues...",
         "url": "https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv"
       },

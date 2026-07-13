@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 
 > This is Barry White\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,486 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,492 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 49 | [Girl It's True, Yes I'll Always Love You](https://open.spotify.com/track/6CweI3ZfhtzvrSza0dOH1r) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Stone Gon'](https://open.spotify.com/album/6fPii3RUZhVIX3qINgHPzR) | 8:40 |
 | 50 | [If You Know, Won't You Tell Me](https://open.spotify.com/track/1fzqq8eW08K2ETnt0AvHCe) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Let The Music Play \(Expanded Edition\)](https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it) | 5:05 |
 
-Snapshot ID: `alA2AAAAAABZpGDui1QTSlLGfD9/2fNE`
+Snapshot ID: `alGHgAAAAADjczB1Zbg8bfoNqRQJt82c`

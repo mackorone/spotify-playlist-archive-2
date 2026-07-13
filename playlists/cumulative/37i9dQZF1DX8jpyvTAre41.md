@@ -4,7 +4,7 @@
 
 > The best rock songs of the moment\. Cover: Jack White
 
-1,946 songs - 4 day 13 hr 42 min
+1,947 songs - 4 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Black Boys on Mopeds](https://open.spotify.com/track/0R9R2fD4C8yGHN2BdBA6hm) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 3:34 | 2026-03-06 | 2026-04-25 |
 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 | 2024-05-10 | 2024-06-08 |
 | [BLACK HONEY](https://open.spotify.com/track/4k7xlAymPBgxqJSdMgHfJX) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [SONIC TRASH](https://open.spotify.com/album/65DiMasUEEVfLXwNgeoYok) | 4:28 | 2025-11-14 | 2026-02-21 |
+| [Black Paint](https://open.spotify.com/track/3atKtIReYaoILCR6uSLyl7) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Running to Nowhere](https://open.spotify.com/album/6aDyXg2wXvrcTejfAQ6tP3) | 1:59 | 2026-06-12 |  |
 | [Black Punk](https://open.spotify.com/track/00mQ7YTqP92vZU4jW4Zdxh) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Black Punk](https://open.spotify.com/album/2Uu7ur5jyDonV9tHvy4ILX) | 2:30 | 2022-06-17 | 2022-06-25 |
 | [Black Summer](https://open.spotify.com/track/2a5cbTg2UIi784t9E2wT35) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Unlimited Love](https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6) | 3:52 | 2022-04-01 | 2022-08-20 |
 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 | 2022-02-04 | 2022-04-02 |

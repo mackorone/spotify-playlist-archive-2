@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Tristeza latina
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,035 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,034 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 17 | [Jardín de Plastilina](https://open.spotify.com/track/5TlBGBCObj3AGtuwUIcJE9) | [recuerdo acariciar con miedo las alas de un ave herida](https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu) | [Muchas Formas de Decir Casa](https://open.spotify.com/album/6w90GXtYSucNXlwo19qk0u) | 3:52 |
 | 18 | [Destello](https://open.spotify.com/track/1M0QiIMZ7hR7Am3hK9Y5Vz) | [Distimia Agorafóbica](https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR) | [Todo Ocaso Resplandece y Acaba](https://open.spotify.com/album/7Mpv4BsHC0sM20F4RXXMYJ) | 5:00 |
 | 19 | [respirar en cuadro](https://open.spotify.com/track/5FH5wUNZEMJQRyYL4Fc6fg) | [Gol Olímpico](https://open.spotify.com/artist/6bLnqm1VnANrrGcZPfou2C), [Accidents](https://open.spotify.com/artist/0f2zT6pFZKYyFnFZQuZuS5) | [respirar en cuadro](https://open.spotify.com/album/3W7FUcuUTFobQkH3T8Dl5j) | 6:13 |
-| 20 | [Monty murió por mi culpa y ahora su fantasma no deja de molestarme](https://open.spotify.com/track/1Css9p0LMeZ8v84E7tig4j) | [Angelo Con Baja Autoestima](https://open.spotify.com/artist/15eh6gwszLI2pu628n0nRx) | [Verde Color Universo](https://open.spotify.com/album/7hIp2B3nKf6iERwUkWk9IS) | 3:02 |
-| 21 | [Mera Telos & Letpig Adventure](https://open.spotify.com/track/3eUYUFu7PhhxWSIV8c3uX6) | [Incendios Forestales Del Viejo Continente](https://open.spotify.com/artist/2mwdGkikTTeufyEPUFRijJ) | [Principios Y Fundamentos De La Fauna Moderna](https://open.spotify.com/album/2QEPAzajwc62HOtrtEghxK) | 5:25 |
+| 20 | [Mera Telos & Letpig Adventure](https://open.spotify.com/track/3eUYUFu7PhhxWSIV8c3uX6) | [Incendios Forestales Del Viejo Continente](https://open.spotify.com/artist/2mwdGkikTTeufyEPUFRijJ) | [Principios Y Fundamentos De La Fauna Moderna](https://open.spotify.com/album/2QEPAzajwc62HOtrtEghxK) | 5:25 |
+| 21 | [Monty murió por mi culpa y ahora su fantasma no deja de molestarme](https://open.spotify.com/track/1Css9p0LMeZ8v84E7tig4j) | [Angelo Con Baja Autoestima](https://open.spotify.com/artist/15eh6gwszLI2pu628n0nRx) | [Verde Color Universo](https://open.spotify.com/album/7hIp2B3nKf6iERwUkWk9IS) | 3:02 |
 | 22 | [lo que no tiene forma](https://open.spotify.com/track/5tcYqt8wdni44SB6vijp02) | [miraflores](https://open.spotify.com/artist/2gNsyO8EaIN8NcBekODo7g) | [lo que no tiene forma](https://open.spotify.com/album/3avJy5qJtoSHjiCndzhtGx) | 4:11 |
 | 23 | [Emo Mid Windows](https://open.spotify.com/track/6PomEc2OZ5FArC6NGAcZOs) | [El mejor verano de mi vida](https://open.spotify.com/artist/0eeLx3Q4FwreAyuPZLxR3n) | [El mejor verano de mi vida](https://open.spotify.com/album/5atwna2DVeRTYaSpfY3gi2) | 2:26 |
 | 24 | [Aniversários São Difíceis](https://open.spotify.com/track/0RgZbsnGWKQ0sgfImPl5WY) | [El Toro Fuerte](https://open.spotify.com/artist/2YElQs97LTX6gn5Td89FaQ) | [Nossos Amigos e os Lugares Que Visitamos](https://open.spotify.com/album/24YfO3Xo7TaMG8yKVOdtvL) | 6:21 |

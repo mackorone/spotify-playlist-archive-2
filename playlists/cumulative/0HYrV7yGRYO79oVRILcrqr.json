@@ -4047,6 +4047,24 @@
     },
     {
       "album": {
+        "name": "Hag of the Mist",
+        "url": "https://open.spotify.com/album/3fETRZrElTcfZzsCAP4tS7"
+      },
+      "artists": [
+        {
+          "name": "KK Verkefni",
+          "url": "https://open.spotify.com/artist/1FVghWQaVyzv3bkCU6K26e"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235923,
+      "name": "Hag of the Mist",
+      "url": "https://open.spotify.com/track/6jxNSVpJl3uNvJhLZngFrd"
+    },
+    {
+      "album": {
         "name": "Ink and Amber",
         "url": "https://open.spotify.com/album/7FvBEOcjFPjcma46YjY8XL"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Grab a drink and let us help you see off the evening.",
-  "num_followers": 134378,
+  "num_followers": 134389,
   "original_name": "Nightcap",
   "owner": {
     "name": "Spotify",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Just Come Home With Me Tonight (Live at 45)",
-        "url": "https://open.spotify.com/album/6xLZX3BctRo9ETHG0uQh5f"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 280322,
-      "name": "Just Come Home With Me Tonight - Live at 45",
-      "url": "https://open.spotify.com/track/4m9dFksHdnXQ0UR77VCyeb"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
         "name": "So Far",
         "url": "https://open.spotify.com/album/5LEB36Hao9h6bdTzTB5g1F"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 172608,
       "name": "So Far",
       "url": "https://open.spotify.com/track/7hADXOuwRKNu7U2SCd9Hct"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
+        "name": "Just Come Home With Me Tonight (Live at 45)",
+        "url": "https://open.spotify.com/album/6xLZX3BctRo9ETHG0uQh5f"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 280322,
+      "name": "Just Come Home With Me Tonight - Live at 45",
+      "url": "https://open.spotify.com/track/4m9dFksHdnXQ0UR77VCyeb"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/190nDHUMVR2vy6pqumS7kp"
-      },
-      "artists": [
-        {
-          "name": "Elsa",
-          "url": "https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv"
-        }
-      ],
-      "duration_ms": 172499,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/2AHW2ayyGYmoiYpJuHPEyC"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
         "name": "Love Theme For Leisure Trip",
         "url": "https://open.spotify.com/album/4mtqjAKgZTaqenC7XcI6TT"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 209020,
       "name": "Love Theme For Leisure Trip",
       "url": "https://open.spotify.com/track/1v0gfS8rwkD3Vgnm12NslK"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/190nDHUMVR2vy6pqumS7kp"
+      },
+      "artists": [
+        {
+          "name": "Elsa",
+          "url": "https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv"
+        }
+      ],
+      "duration_ms": 172499,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/2AHW2ayyGYmoiYpJuHPEyC"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/7BmwUvHlY5PhqSJaV3kwLg"
-      },
-      "artists": [
-        {
-          "name": "Arjuna Oakes",
-          "url": "https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF"
-        }
-      ],
-      "duration_ms": 192592,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3tklDxHjsNDIMlPjHbUQ4R"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
         "name": "Deception",
         "url": "https://open.spotify.com/album/58LxxzRjLOZ86pSFZw2tz0"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 197426,
       "name": "Deception",
       "url": "https://open.spotify.com/track/5sw2ThXRRmV7GzP2Lq87Ho"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7BmwUvHlY5PhqSJaV3kwLg"
+      },
+      "artists": [
+        {
+          "name": "Arjuna Oakes",
+          "url": "https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF"
+        }
+      ],
+      "duration_ms": 192592,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3tklDxHjsNDIMlPjHbUQ4R"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -1731,6 +1731,26 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
+        "name": "Texas Sun",
+        "url": "https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 314683,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/6Gh6lzW6QeiXkFSfsvNS0b"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
         "name": "Undone",
         "url": "https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In"
       },
@@ -1743,22 +1763,6 @@
       "duration_ms": 200000,
       "name": "Undone",
       "url": "https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
-        "name": "Try a Little Tenderness",
-        "url": "https://open.spotify.com/album/7pNPnsQmwf86kDUcUbJQH0"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 192912,
-      "name": "Try a Little Tenderness",
-      "url": "https://open.spotify.com/track/0JykQXWGNwVGjV2HleUPuo"
     }
   ],
   "unique_name": "Nightcap",

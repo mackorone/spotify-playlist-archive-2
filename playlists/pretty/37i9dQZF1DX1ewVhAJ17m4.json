@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Lina-Mariah",
-  "num_followers": 604407,
+  "num_followers": 604402,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALhShtdXYqw1woQcxGD02PcJPv3u",
+  "snapshot_id": "AAAAAEtODSjEs11lBLpprKI6u/NlVQIZ",
   "tracks": [
     {
       "added_at": "2026-07-03 12:33:21",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-07-03 12:33:21",
       "album": {
-        "name": "Big Blind",
-        "url": "https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 144986,
-      "name": "Big Blind",
-      "url": "https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98"
-    },
-    {
-      "added_at": "2026-07-03 12:33:21",
-      "album": {
         "name": "X\u2019s For Eyes",
         "url": "https://open.spotify.com/album/2W4xgzMCme2M6yGeLFTCTi"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 198977,
       "name": "Perfection",
       "url": "https://open.spotify.com/track/1WbMj3nxjiPgx2UFsijV5r"
+    },
+    {
+      "added_at": "2026-07-03 12:33:21",
+      "album": {
+        "name": "Big Blind",
+        "url": "https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 144986,
+      "name": "Big Blind",
+      "url": "https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98"
     },
     {
       "added_at": "2026-07-03 12:33:21",
@@ -983,18 +983,22 @@
     {
       "added_at": "2026-07-03 12:33:21",
       "album": {
-        "name": "Moments Before The Wind",
-        "url": "https://open.spotify.com/album/3PFZyu1ND2jxImmSSonOng"
+        "name": "77 (feat. Avril Lavigne)",
+        "url": "https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt"
       },
       "artists": [
         {
-          "name": "Free Throw",
-          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 189915,
-      "name": "MissingNo.",
-      "url": "https://open.spotify.com/track/2jJkqTRSJ9EHIGQXckDW20"
+      "duration_ms": 173842,
+      "name": "77 - feat. Avril Lavigne",
+      "url": "https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j"
     },
     {
       "added_at": "2026-07-03 12:33:21",
@@ -1015,22 +1019,18 @@
     {
       "added_at": "2026-07-03 12:33:21",
       "album": {
-        "name": "77 (feat. Avril Lavigne)",
-        "url": "https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt"
+        "name": "Moments Before The Wind",
+        "url": "https://open.spotify.com/album/3PFZyu1ND2jxImmSSonOng"
       },
       "artists": [
         {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
         }
       ],
-      "duration_ms": 173842,
-      "name": "77 - feat. Avril Lavigne",
-      "url": "https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j"
+      "duration_ms": 189915,
+      "name": "MissingNo.",
+      "url": "https://open.spotify.com/track/2jJkqTRSJ9EHIGQXckDW20"
     },
     {
       "added_at": "2026-07-03 12:33:21",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-07-03 12:33:21",
       "album": {
-        "name": "Whatever",
-        "url": "https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt"
-      },
-      "artists": [
-        {
-          "name": "Lina-Mariah",
-          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
-        }
-      ],
-      "duration_ms": 168552,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi"
-    },
-    {
-      "added_at": "2026-07-03 12:33:21",
-      "album": {
         "name": "Straight Up to Space",
         "url": "https://open.spotify.com/album/4O1oiHIUMvxzLW7TEO7DPQ"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 151000,
       "name": "Straight Up to Space",
       "url": "https://open.spotify.com/track/2Fu0ymVqrFGgFWYeah705d"
+    },
+    {
+      "added_at": "2026-07-03 12:33:21",
+      "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt"
+      },
+      "artists": [
+        {
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+        }
+      ],
+      "duration_ms": 168552,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

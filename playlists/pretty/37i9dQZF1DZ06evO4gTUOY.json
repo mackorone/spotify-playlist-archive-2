@@ -1,12 +1,12 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 4133355,
+  "num_followers": 4133513,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAD3ybdQ6JbWL26NMoEB/NJ2",
+  "snapshot_id": "alGHgAAAAACmbM86HvTIRLV0uc73SBNC",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
       },
       "artists": [
         {
@@ -404,13 +404,13 @@
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         },
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 230199,
-      "name": "Somebody Save Me",
-      "url": "https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj"
+      "duration_ms": 299506,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/7bHT9osSq1rwT2yaImzqCi"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recovery",
-        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
       },
       "artists": [
         {
@@ -440,13 +440,13 @@
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         },
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 299506,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/7bHT9osSq1rwT2yaImzqCi"
+      "duration_ms": 230199,
+      "name": "Somebody Save Me",
+      "url": "https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj"
     },
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Mercy",
-        "url": "https://open.spotify.com/album/6LGR2plk2Yk4A33CAktJN3"
-      },
-      "artists": [
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 318360,
-      "name": "That's All She Wrote",
-      "url": "https://open.spotify.com/track/6XAA7T9VHcqKQSzjmXAJ8o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/4Z4vthIzd6pIKC396R5vSN"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 357920,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3qjKqmA2YeH0a8DRoKj8iy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Mercy",
+        "url": "https://open.spotify.com/album/6LGR2plk2Yk4A33CAktJN3"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 318360,
+      "name": "That's All She Wrote",
+      "url": "https://open.spotify.com/track/6XAA7T9VHcqKQSzjmXAJ8o"
     },
     {
       "added_at": null,
@@ -867,30 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BODIES (feat. Eminem)",
-        "url": "https://open.spotify.com/album/3BMZfaRLxJMfXmibewW1nx"
-      },
-      "artists": [
-        {
-          "name": "Upstates",
-          "url": "https://open.spotify.com/artist/3vFCgxYcaQ5iBPavzd6bqH"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Lydia Miles",
-          "url": "https://open.spotify.com/artist/5icU0KWuevjGFn4IE7tDc6"
-        }
-      ],
-      "duration_ms": 233314,
-      "name": "BODIES - feat. Eminem",
-      "url": "https://open.spotify.com/track/10IUNvL4OPg3xCARlRAUJw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Slim Shady LP",
         "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
       },
@@ -919,6 +895,30 @@
       "duration_ms": 283520,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/0FDjc7fIiK29BWH45Ka7Vp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BODIES (feat. Eminem)",
+        "url": "https://open.spotify.com/album/3BMZfaRLxJMfXmibewW1nx"
+      },
+      "artists": [
+        {
+          "name": "Upstates",
+          "url": "https://open.spotify.com/artist/3vFCgxYcaQ5iBPavzd6bqH"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Lydia Miles",
+          "url": "https://open.spotify.com/artist/5icU0KWuevjGFn4IE7tDc6"
+        }
+      ],
+      "duration_ms": 233314,
+      "name": "BODIES - feat. Eminem",
+      "url": "https://open.spotify.com/track/10IUNvL4OPg3xCARlRAUJw"
     },
     {
       "added_at": null,

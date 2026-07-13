@@ -4,7 +4,7 @@
 
 > Sun's out...and so are you!  Let these inspirational and faith\-filled songs soundtrack your summer fun!
 
-485 songs - 1 day 3 hr 22 min
+486 songs - 1 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Anchor](https://open.spotify.com/track/2gCATN5nBgcwOGG2BE19u7) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [BRKNHRT.](https://open.spotify.com/album/53rq2pHU4MZCWYKGfbLola) | 3:33 | 2020-08-13 | 2024-06-08 |
 | [Ancient of Days \(reimagined\)](https://open.spotify.com/track/3RXZmXBwAuIZOBNIwkQvzO) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE), [Matias Ruiz](https://open.spotify.com/artist/5WNzw88slVRQWQmnZTImUm) | [Ancient of Days \(reimagined\)](https://open.spotify.com/album/6n5HgfPa0riif5Lex5n7nm) | 4:01 | 2024-06-07 | 2026-07-12 |
 | [and when you look at the stars](https://open.spotify.com/track/27vDk9u9ayaGS1S2mMW4eQ) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [I The Ai](https://open.spotify.com/artist/6VmRC70MH7DjZdbYGoNCCc) | [and when you look at the stars](https://open.spotify.com/album/1wq9Bn9K8RCYftBDDb2Wya) | 3:15 | 2025-03-20 | 2026-05-27 |
+| [Arizona](https://open.spotify.com/track/6O6s8Ozp1qHdbAJvlEirMN) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Arizona](https://open.spotify.com/album/5oYnJgSK8BTQR1AwUzgF6z) | 2:22 | 2026-07-11 |  |
 | [At The Altar \(acoustic\)](https://open.spotify.com/track/4pD3LcBiP1HaINhC4j5QDi) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [At The Altar \(acoustic\)](https://open.spotify.com/album/1FpQnlVxG5htZuiX3QtTiz) | 3:37 | 2024-12-11 | 2026-03-21 |
 | [Autumn Fires](https://open.spotify.com/track/1HQ1ywGXL08RE0cwRcrII8) | [RIVER RIVER](https://open.spotify.com/artist/5qXb6u9r0giXGi1awbuzi1) | [Autumn Fires](https://open.spotify.com/album/2sYPnUUk5RFoT53FM2NW3r) | 3:00 | 2025-10-24 | 2026-01-03 |
 | [Awesome](https://open.spotify.com/track/1CCi2rldOo75tHL5kau6WA) | [Melissa Bethea](https://open.spotify.com/artist/0HrZSxo9sPqIdXZISIqg7R) | [Awesome](https://open.spotify.com/album/0uWIKYtMsCNMlYMNyCcvBt) | 3:38 | 2024-06-07 | 2026-07-12 |
@@ -87,7 +88,7 @@
 | [Do it Afraid](https://open.spotify.com/track/0StcAP13GuQxuhkC8JNTzd) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Sparrøw](https://open.spotify.com/artist/3ffS9GLH3Amh8S5UHFnpwn) | [Do it Afraid](https://open.spotify.com/album/6GavSFP4o2UDFcNqK6LNAR) | 2:44 | 2025-03-20 | 2026-05-27 |
 | [Do Or Die](https://open.spotify.com/track/71oPcxo65sV4MjI4gZoTHx) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Kinn](https://open.spotify.com/artist/09qJ9dcanr8ZWQpnWdkViV) | [Do Or Die](https://open.spotify.com/album/0yoRzyhmzzKGhSvgJjRORF) | 3:54 | 2020-08-13 | 2022-07-29 |
 | [Do or Die \(feat\. Kinn\)](https://open.spotify.com/track/3Mqp9pFEaLqMdR3zouGWOJ) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Kinn](https://open.spotify.com/artist/09qJ9dcanr8ZWQpnWdkViV) | [Do or Die \(feat\. Kinn\)](https://open.spotify.com/album/0QDZHhQvQ9JmvPPm2vampA) | 3:54 | 2020-08-13 | 2023-10-01 |
-| [Don't do Molly](https://open.spotify.com/track/2eIxhnxXBPcFawLvjZyhzy) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Don't do Molly](https://open.spotify.com/album/09FwcYyetbIIkjFTBTmRtJ) | 2:32 | 2024-06-07 |  |
+| [Don't do Molly](https://open.spotify.com/track/2eIxhnxXBPcFawLvjZyhzy) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Don't do Molly](https://open.spotify.com/album/09FwcYyetbIIkjFTBTmRtJ) | 2:32 | 2024-06-07 | 2026-07-13 |
 | [Don't Feel Like Fighting](https://open.spotify.com/track/6NRGJserD825yXhwnnZ6ql) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Don't Feel Like Fighting](https://open.spotify.com/album/2HKxfWkS6Yxk7RjcLWIHgx) | 3:03 | 2020-08-13 | 2024-06-08 |
 | [Don't Let The Darkness](https://open.spotify.com/track/2KtroNFk42zBcvHjmAMZQF) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Don't Let The Darkness](https://open.spotify.com/album/7q9FrrEjg9wGyrspaY8i6s) | 3:16 | 2025-10-24 | 2026-01-03 |
 | [Don't Runaway](https://open.spotify.com/track/5YkTu7GZrtSNfKfTLDCyJO) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz), [Gloria Kim](https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx) | [Don't Runaway](https://open.spotify.com/album/3LlsY3HphvGLJ5OIAygyrn) | 3:25 | 2026-07-11 |  |

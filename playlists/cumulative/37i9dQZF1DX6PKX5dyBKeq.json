@@ -31281,6 +31281,28 @@
     },
     {
       "album": {
+        "name": "Ol\u00e9",
+        "url": "https://open.spotify.com/album/22jU9KLuhNeFILX99WNwrw"
+      },
+      "artists": [
+        {
+          "name": "Kwengface",
+          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
+        },
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207659,
+      "name": "Ol\u00e9",
+      "url": "https://open.spotify.com/track/2YCjQTGpQvYDLDWfw45mtD"
+    },
+    {
+      "album": {
         "name": "Omens",
         "url": "https://open.spotify.com/album/3AC7a4tzY2m86AIDyGFkFP"
       },

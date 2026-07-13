@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-622 songs - 1 day 14 hr 46 min
+623 songs - 1 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Grinder Minder](https://open.spotify.com/track/7nmyUuAJDJ0O9VRF7Lv8NR) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Grinder Minder](https://open.spotify.com/album/1SperF6SKGWOeLHv3kG5gl) | 3:06 | 2026-01-29 | 2026-03-18 |
 | [Groove of the Soul](https://open.spotify.com/track/661nbgxeFKG1G90ZZ6blQR) | [Carlito Home](https://open.spotify.com/artist/0txTwV2vs7SBaepqBjalf0) | [Groove of the Soul](https://open.spotify.com/album/2wbyS7AgWdskZAJmkJiQFB) | 4:31 | 2026-05-25 |  |
 | [Guerrero](https://open.spotify.com/track/4WcNVDm7F46de4XaCZiO5B) | [Wilson Ramírez](https://open.spotify.com/artist/7lPZcZVYj28uttO8cLsJ3Z) | [Guerrero](https://open.spotify.com/album/025nIW94c2Tsf5xx1Fbhp7) | 4:34 | 2025-09-21 | 2026-07-03 |
+| [Hag of the Mist](https://open.spotify.com/track/6jxNSVpJl3uNvJhLZngFrd) | [KK Verkefni](https://open.spotify.com/artist/1FVghWQaVyzv3bkCU6K26e) | [Hag of the Mist](https://open.spotify.com/album/3fETRZrElTcfZzsCAP4tS7) | 3:55 | 2026-07-12 |  |
 | [Half\-Life of a Heartbeat](https://open.spotify.com/track/2P9XNblTIpL9ioNcCbQymA) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Ink and Amber](https://open.spotify.com/album/7FvBEOcjFPjcma46YjY8XL) | 3:48 | 2026-04-28 | 2026-05-26 |
 | [Halfway Down The Road](https://open.spotify.com/track/5lkJZmsHA2dTQLNUB4Otka) | [Lark](https://open.spotify.com/artist/7IkbUEUIzEVuwxLo42da5n) | [Halfway Down The Road](https://open.spotify.com/album/6ZIyRpkF61BJtdLSSP7nIq) | 4:39 | 2026-02-22 |  |
 | [Halle klebt](https://open.spotify.com/track/3mL5eUXyowIDKW6hOTzgrf) | [NAPOCK](https://open.spotify.com/artist/77ED2nkxoyZuvzbrFqbjqG) | [Halle klebt](https://open.spotify.com/album/0FQX4LCBCuGwbVENoCEPz2) | 2:37 | 2026-04-27 | 2026-05-26 |

@@ -4,7 +4,7 @@
 
 > The gentle sound of some of the greatest voices and instrumentalists in Jazz\. Your Jazz dinner soundtrack.
 
-136 songs - 9 hr 20 min
+137 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/0oeUGF5YJJrH8I8dNKTLvl) | [Ari Hoenig](https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Or Bareket](https://open.spotify.com/artist/7hRyRSyX5ki2vDzjfedv3j) | [Conner's Days](https://open.spotify.com/album/6oVWqfFOSjt1W0tlMmLudj) | 4:22 | 2025-02-04 |  |
 | [Intoit](https://open.spotify.com/track/1zrYb4Y8KowyXmbzoHGh7L) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Conception](https://open.spotify.com/album/6Y0n5LeEbECbMcPxS1fyJe) | 3:19 | 2025-02-04 |  |
 | [Journeying](https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Journeying](https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp) | 3:51 | 2025-02-04 |  |
+| [Just In Time](https://open.spotify.com/track/4dNKUXGfUMsMSkmytyQY7T) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [What Is There To Say?](https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW) | 4:10 | 2026-05-25 |  |
 | [Kid's Know \- Rudy Van Gelder Remaster](https://open.spotify.com/track/7r9IzVSqmcXukLSy8xun9j) | [Sonny Rollins Quintet](https://open.spotify.com/artist/5dJDadRqAmqc06tD2KRSDO), [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Plays For Bird \(RVG Remaster\)](https://open.spotify.com/album/3DYmLyJmnC9Rk3xFzQsd8C) | 11:35 | 2026-05-25 |  |
 | [Last Call](https://open.spotify.com/track/2RabGFYvECBmNrp31WxPVu) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Last Call](https://open.spotify.com/album/5tpS8Goe4jAsu0MXji3tx3) | 4:19 | 2026-05-25 |  |
 | [Late Date](https://open.spotify.com/track/4uPSrtreVDAqWGUk0lxJMu) | [Buddy Rich And His Sextet](https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK) | [Blues Caravan](https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9) | 5:08 | 2025-02-04 |  |
@@ -110,7 +111,7 @@
 | [Refuge](https://open.spotify.com/track/0pH6I6QkzMteLP5hN4jBNW) | [Bruce Barth](https://open.spotify.com/artist/5gncn8f4S1TH6B25s2Scq7), [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [Mark Hodgson](https://open.spotify.com/artist/4ToDmqGzmiL8Jh4sNyBGjt), [Stephen Keogh](https://open.spotify.com/artist/4QKgrUdq1rBVXYojWp7qAR) | [Sunday](https://open.spotify.com/album/0KFZ6Ao2cF2fAoOdD0hEsf) | 6:41 | 2026-05-25 |  |
 | [Remembering Oscar](https://open.spotify.com/track/0DOhuUBCVvemIubPWQMh3p) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [My Heart Is A Prism](https://open.spotify.com/album/3qakmpWIbDJHI8zXNN3Fkc) | 4:38 | 2026-05-25 |  |
 | [Right Now Right Here](https://open.spotify.com/track/0ruQME0dBzzcbdYCqD6x0j) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Your Laugh](https://open.spotify.com/album/1zdhx2ty0QErwb2BvtFqTL) | 3:27 | 2025-02-04 |  |
-| [Serendipity](https://open.spotify.com/track/3KonwJcO3xhHuNq49osUSD) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Serendipity](https://open.spotify.com/album/5TvTwOMVlaOmHcHvInGlXg) | 3:25 | 2025-02-04 |  |
+| [Serendipity](https://open.spotify.com/track/3KonwJcO3xhHuNq49osUSD) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Serendipity](https://open.spotify.com/album/5TvTwOMVlaOmHcHvInGlXg) | 3:25 | 2025-02-04 | 2026-07-13 |
 | [Silky Smooth](https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc) | [Eira Eld](https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn) | [Silky Smooth](https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C) | 2:44 | 2025-02-04 | 2026-05-26 |
 | [Smarter Than Advertised](https://open.spotify.com/track/0vq11xwVzMfkHhhECA1YJq) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [Smarter Than Advertised](https://open.spotify.com/album/1Oo6tU4FjDATGNkqdGGqQR) | 3:20 | 2025-02-04 |  |
 | [Soliloquy](https://open.spotify.com/track/0te1ho7v4bPASest2eI0q3) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [Soliloquy](https://open.spotify.com/album/1VFMQG2BAGIE3xBp1ejr34) | 2:23 | 2025-02-04 | 2026-05-26 |

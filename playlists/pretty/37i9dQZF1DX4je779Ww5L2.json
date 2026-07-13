@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 190619,
+  "num_followers": 190623,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "What Takes You Back",
-        "url": "https://open.spotify.com/album/3SSuQuEaXRiOs6Mw8Yka8T"
-      },
-      "artists": [
-        {
-          "name": "Zachary Bloemperk",
-          "url": "https://open.spotify.com/artist/4vgD2JQibsbjAHwsAyRsVi"
-        }
-      ],
-      "duration_ms": 275166,
-      "name": "What Takes You Back",
-      "url": "https://open.spotify.com/track/1ga3dk6EdsAfGFNWr4QiAJ"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
         "name": "Old Shadows",
         "url": "https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK"
       },
@@ -367,18 +351,18 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Can You Swim?",
-        "url": "https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc"
+        "name": "What Takes You Back",
+        "url": "https://open.spotify.com/album/3SSuQuEaXRiOs6Mw8Yka8T"
       },
       "artists": [
         {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+          "name": "Zachary Bloemperk",
+          "url": "https://open.spotify.com/artist/4vgD2JQibsbjAHwsAyRsVi"
         }
       ],
-      "duration_ms": 295378,
-      "name": "Can You Swim?",
-      "url": "https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH"
+      "duration_ms": 275166,
+      "name": "What Takes You Back",
+      "url": "https://open.spotify.com/track/1ga3dk6EdsAfGFNWr4QiAJ"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -395,6 +379,22 @@
       "duration_ms": 232258,
       "name": "22 Weeks",
       "url": "https://open.spotify.com/track/7rtOkjhCGYXpneBhU9x2YC"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
+        "name": "Can You Swim?",
+        "url": "https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 295378,
+      "name": "Can You Swim?",
+      "url": "https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -435,6 +435,22 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
+        "name": "Wallflower (Acoustic)",
+        "url": "https://open.spotify.com/album/0JgBb2VFLW9zldC5LLlsrh"
+      },
+      "artists": [
+        {
+          "name": "Leah Rye",
+          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
+        }
+      ],
+      "duration_ms": 157248,
+      "name": "Wallflower - Acoustic",
+      "url": "https://open.spotify.com/track/3Lq8hjZ7XOpqbtcVROOpTi"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
         "name": "Arrow, Four",
         "url": "https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz"
       },
@@ -467,22 +483,6 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Wallflower (Acoustic)",
-        "url": "https://open.spotify.com/album/0JgBb2VFLW9zldC5LLlsrh"
-      },
-      "artists": [
-        {
-          "name": "Leah Rye",
-          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
-        }
-      ],
-      "duration_ms": 157248,
-      "name": "Wallflower - Acoustic",
-      "url": "https://open.spotify.com/track/3Lq8hjZ7XOpqbtcVROOpTi"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
         "name": "Martyr",
         "url": "https://open.spotify.com/album/1MzFcyK6GVCXGXKhu8vBlI"
       },
@@ -495,22 +495,6 @@
       "duration_ms": 203000,
       "name": "Martyr",
       "url": "https://open.spotify.com/track/4EybC36DQmK8gbrUsPit3T"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
-        "name": "Make It Rain (27 Tapes)",
-        "url": "https://open.spotify.com/album/25G0keXjFqywZnbHu8LA8G"
-      },
-      "artists": [
-        {
-          "name": "Michael Prins",
-          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
-        }
-      ],
-      "duration_ms": 395370,
-      "name": "Make It Rain - 27 Tapes",
-      "url": "https://open.spotify.com/track/6BnGlmkbv9khP6ET0F2eAn"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -531,6 +515,22 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
+        "name": "Make It Rain (27 Tapes)",
+        "url": "https://open.spotify.com/album/25G0keXjFqywZnbHu8LA8G"
+      },
+      "artists": [
+        {
+          "name": "Michael Prins",
+          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
+        }
+      ],
+      "duration_ms": 395370,
+      "name": "Make It Rain - 27 Tapes",
+      "url": "https://open.spotify.com/track/6BnGlmkbv9khP6ET0F2eAn"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
         "name": "Bright Belief",
         "url": "https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD"
       },
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Dissolve",
-        "url": "https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw"
-      },
-      "artists": [
-        {
-          "name": "Tamino",
-          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
-        }
-      ],
-      "duration_ms": 403787,
-      "name": "Dissolve",
-      "url": "https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
         "name": "sunflower boy",
         "url": "https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 146605,
       "name": "sunflower boy",
       "url": "https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
+        "name": "Dissolve",
+        "url": "https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw"
+      },
+      "artists": [
+        {
+          "name": "Tamino",
+          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
+        }
+      ],
+      "duration_ms": 403787,
+      "name": "Dissolve",
+      "url": "https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -755,18 +755,18 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "love so blind (night tapes)",
-        "url": "https://open.spotify.com/album/5Y6nFYEEHfToj1cXpCd5VT"
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/68nMPJ3cMbDq2597lVgQjV"
       },
       "artists": [
         {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+          "name": "Michael Prins",
+          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
         }
       ],
-      "duration_ms": 245714,
-      "name": "love so blind - night tapes",
-      "url": "https://open.spotify.com/track/2Y1WTJudhihzTMydbK49jF"
+      "duration_ms": 240822,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/2a99fzynGMfoImtCGn6j1E"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -787,18 +787,18 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/68nMPJ3cMbDq2597lVgQjV"
+        "name": "love so blind (night tapes)",
+        "url": "https://open.spotify.com/album/5Y6nFYEEHfToj1cXpCd5VT"
       },
       "artists": [
         {
-          "name": "Michael Prins",
-          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
         }
       ],
-      "duration_ms": 240822,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/2a99fzynGMfoImtCGn6j1E"
+      "duration_ms": 245714,
+      "name": "love so blind - night tapes",
+      "url": "https://open.spotify.com/track/2Y1WTJudhihzTMydbK49jF"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Sunflower Sunset",
-        "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
-      },
-      "artists": [
-        {
-          "name": "Future Husband",
-          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
-        }
-      ],
-      "duration_ms": 308963,
-      "name": "Sunflower Sunset",
-      "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
         "name": "Dragon's Eyes",
         "url": "https://open.spotify.com/album/3E0PArr2h7f5858XtadMCs"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 228897,
       "name": "Dragon's Eyes",
       "url": "https://open.spotify.com/track/1ymd7EMb8l88I9JJGo3CfH"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
+        "name": "Sunflower Sunset",
+        "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
+      },
+      "artists": [
+        {
+          "name": "Future Husband",
+          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
+        }
+      ],
+      "duration_ms": 308963,
+      "name": "Sunflower Sunset",
+      "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Mr. Beckett",
-        "url": "https://open.spotify.com/album/5GmgDdcsrcwxePMDYTebeh"
-      },
-      "artists": [
-        {
-          "name": "Agn\u00e8s Botty",
-          "url": "https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC"
-        }
-      ],
-      "duration_ms": 223973,
-      "name": "Mr. Beckett",
-      "url": "https://open.spotify.com/track/2PuT4rCzGU7CXGVNAEihTe"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
         "name": "Bleeding Colours",
         "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Boat",
-        "url": "https://open.spotify.com/album/27Df3AJdoQ94z0CD6XmKqA"
+        "name": "Mr. Beckett",
+        "url": "https://open.spotify.com/album/5GmgDdcsrcwxePMDYTebeh"
       },
       "artists": [
         {
-          "name": "RAMAN.",
-          "url": "https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86"
+          "name": "Agn\u00e8s Botty",
+          "url": "https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC"
         }
       ],
-      "duration_ms": 308293,
-      "name": "Boat",
-      "url": "https://open.spotify.com/track/2nWj5r88reOB7RXxZc3DvE"
+      "duration_ms": 223973,
+      "name": "Mr. Beckett",
+      "url": "https://open.spotify.com/track/2PuT4rCzGU7CXGVNAEihTe"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -1195,6 +1179,22 @@
       "duration_ms": 301417,
       "name": "More than a warning",
       "url": "https://open.spotify.com/track/2WyoxWAgDvsGzqKOWIhxPv"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
+        "name": "Boat",
+        "url": "https://open.spotify.com/album/27Df3AJdoQ94z0CD6XmKqA"
+      },
+      "artists": [
+        {
+          "name": "RAMAN.",
+          "url": "https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86"
+        }
+      ],
+      "duration_ms": 308293,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/2nWj5r88reOB7RXxZc3DvE"
     },
     {
       "added_at": "2026-06-25 22:00:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128 likes - 89 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 129 likes - 89 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 20 | [Regarde toi](https://open.spotify.com/track/3fd1m0WrUUkntWM2EnLS2Y) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 3:25 |
 | 21 | [Poursuite](https://open.spotify.com/track/1NNAd8UmD0qmWwykyRxNGC) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [The Last Race](https://open.spotify.com/album/7BhTEZolYdvJoxWB6ykCf8) | 3:27 |
 | 22 | [AMF \- NOUVELLE ÉCOLE](https://open.spotify.com/track/21OiWAHVk1rIjDMzlWpdSS) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [LE SOLEIL NE S'ÉTEINT JAMAIS](https://open.spotify.com/album/3NUhwHq408l2Vm5quZyp06) | 3:00 |
-| 23 | [La musique est bonne](https://open.spotify.com/track/1mkfypfSeJflYlTloYN1s1) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [La musique est bonne](https://open.spotify.com/album/5IA5n3Vdofj8itY4hJHk2E) | 2:42 |
-| 24 | [A toi](https://open.spotify.com/track/6gCtEY1GPfxR6KVctYZT10) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Love Therapy](https://open.spotify.com/album/0DiFDp3MRVxcECcJFPWXU3) | 3:19 |
+| 23 | [A toi](https://open.spotify.com/track/6gCtEY1GPfxR6KVctYZT10) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Love Therapy](https://open.spotify.com/album/0DiFDp3MRVxcECcJFPWXU3) | 3:19 |
+| 24 | [La musique est bonne](https://open.spotify.com/track/1mkfypfSeJflYlTloYN1s1) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [La musique est bonne](https://open.spotify.com/album/5IA5n3Vdofj8itY4hJHk2E) | 2:42 |
 | 25 | [Verre de trop](https://open.spotify.com/track/3xWrtnQ5KF0PCf477iLpoz) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Cullinan : La Gelée Royale](https://open.spotify.com/album/192Df1MyinzzC8CfiIy1Dt) | 2:39 |
 | 26 | [Royal cheese](https://open.spotify.com/track/6R2ZPGhBifm1i793PMnXws) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 3:09 |
 | 27 | [Mek du binks](https://open.spotify.com/track/2nSHzaUCVw94Uxy2yhV5mE) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Les mains faites pour l'or](https://open.spotify.com/album/3mLAiqAlaOd5KaVOLJLtYM) | 2:52 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 88 | [Par hasard](https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Jukaï : Tome 1](https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7) | 2:15 |
 | 89 | [fade up](https://open.spotify.com/track/6VhmOw8lERbTRs1Al7iy2z) | [Eliias](https://open.spotify.com/artist/36hWlixqFk1ZWlJQYaB5To) | [march 29](https://open.spotify.com/album/1DpoTfAnZAEEIqJ4zqcpJG) | 6:32 |
 
-Snapshot ID: `AcWmnAAAAABFN3T1H/UWN6z1VDpLAF1c`
+Snapshot ID: `AcWsPAAAAACA5hlBF+ytLYaljN0mm9pZ`

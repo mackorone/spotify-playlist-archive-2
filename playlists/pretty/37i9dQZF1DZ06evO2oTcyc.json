@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 231895,
+  "num_followers": 231912,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAB1RO0H1nLooTUpGWpLCuh2",
+  "snapshot_id": "alGHgAAAAACcyMwBrEaf0d7LqU2iE3yS",
   "tracks": [
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kodak The Blessing",
-        "url": "https://open.spotify.com/album/1vTp9rFFqRm9N8UHtiLz2M"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 107837,
-      "name": "Blessing",
-      "url": "https://open.spotify.com/track/6ZsMj2uWZg9FE5sfWTtep0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOVE FOR GUALA",
         "url": "https://open.spotify.com/album/3zMEkZNzS5yJDcnqPhIk10"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 226068,
       "name": "Till im Gone (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/6I0Jucv2KfH32lNp1Acana"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kodak The Blessing",
+        "url": "https://open.spotify.com/album/1vTp9rFFqRm9N8UHtiLz2M"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 107837,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/6ZsMj2uWZg9FE5sfWTtep0"
     },
     {
       "added_at": null,

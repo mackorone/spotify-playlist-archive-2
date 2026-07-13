@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > All of your recent Worship hits in one place!  Cover: Elevation Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,824 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,240 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 49 | [A Great Awakening](https://open.spotify.com/track/11CVrv9H4laDRS8aAjT887) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [A Great Awakening](https://open.spotify.com/album/21NrdGWPVjX1SxCpjEGbRG) | 4:01 |
 | 50 | [Fearless \- Live](https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Fearless / Fill Up The Sky \(Live\)](https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A) | 4:40 |
 
-Snapshot ID: `AAAAAEQcLvHd8GGYGUhOIEZE70mgMivv`
+Snapshot ID: `AAAAAAvwqflC2c+j2zy2Ghp2/RDpq820`

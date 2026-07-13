@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-468 songs - 22 hr 5 min
+469 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Blue River Hills](https://open.spotify.com/track/1Qp4ZHQYLCH3PjVvmKGuaS) | [Nolan West](https://open.spotify.com/artist/25DKElOUj8NYekti1LTyzS) | [Blue River Hills](https://open.spotify.com/album/5HJiGeDUsdAuouuEOVPZH9) | 2:37 | 2026-04-03 |  |
 | [Blurred Valley](https://open.spotify.com/track/57f9MmWo5Vy8nUT4Hhwd4O) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Blurred Valley](https://open.spotify.com/album/6X2xsKywJbeV3Y2EWIUOIZ) | 2:31 | 2025-09-10 | 2026-07-11 |
 | [Breath Of The Mountain \- Birdsong Mix](https://open.spotify.com/track/5MIHW6CVUX6Tk0fKV7Fz3I) | [Yakushima Dove](https://open.spotify.com/artist/5pOo0TJogDJFi9af6Takg5) | [Breath Of The Mountain \(Birdsong Mix\)](https://open.spotify.com/album/1nQVOIrtSwvlN2ncpY5VFX) | 2:50 | 2026-05-27 | 2026-06-27 |
+| [Breath of the Starlit Earth](https://open.spotify.com/track/17kmLfGd09fhG7oyGV5mqN) | [Pillow Dalliance](https://open.spotify.com/artist/6DM6WLvwOHMENEbAd4jbFN) | [Breath of the Starlit Earth](https://open.spotify.com/album/7k5GUo489LXhNLz3YQ5Iuv) | 2:39 | 2026-07-03 |  |
 | [Breath Of The Wilderness](https://open.spotify.com/track/7lVRii95o1sRkanRZTNVOk) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Breath Of The Wilderness](https://open.spotify.com/album/4WiJ4NAttKpGAYkdT2TnTK) | 3:15 | 2023-04-28 | 2025-05-22 |
 | [Breathing Slowly](https://open.spotify.com/track/3vdAXA3yfAGyjp8PwYkBsl) | [Emma Hill](https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1) | [My Small River](https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph) | 3:05 | 2023-06-09 | 2025-10-16 |
 | [Brought](https://open.spotify.com/track/5soHcUXgM7E34kLB56XnhI) | [Wanyes](https://open.spotify.com/artist/7FiGGXixwRFNO4UHQ5GTlC) | [Brought](https://open.spotify.com/album/7DcDtC9kfNv2cIIweoteUF) | 2:32 | 2025-10-15 | 2026-02-24 |
@@ -221,7 +222,7 @@
 | [Infinity](https://open.spotify.com/track/6U1eeDHeGzT9KHKwWfrHqF) | [Ælan](https://open.spotify.com/artist/6hoxrMfUz7hWkm7b7XxsDU) | [Infinity](https://open.spotify.com/album/5hufE2CA1jvRgxD765b8km) | 2:58 | 2025-10-24 | 2026-03-03 |
 | [Inner Stream](https://open.spotify.com/track/1zIevefvM7u2XZzEbHkSKA) | [I thought about time](https://open.spotify.com/artist/6wzgGTV6WrSvWxzNIpvSd8) | [Inner Stream](https://open.spotify.com/album/6WlNdLtXenVk8jrphSEL50) | 2:21 | 2026-02-23 | 2026-04-04 |
 | [Inside the Heart](https://open.spotify.com/track/57zWmPhfZleSqpv59pzraX) | [Büdi Siebert](https://open.spotify.com/artist/6Wiy9Dr9ZTdgfoVoXwZ0da) | [Wave Hands Like Clouds](https://open.spotify.com/album/4nf94iBRiWVGlOqMZgip9S) | 4:47 | 2024-02-15 | 2024-04-02 |
-| [Introspective Thoughts Gamma \(88\-176hz\)](https://open.spotify.com/track/4Kd0E840XEJnAPxl1tktZY) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Introspective Thoughts Gamma](https://open.spotify.com/album/6cEWrmi0Zw37PcVVRaOtS3) | 2:48 | 2024-07-19 |  |
+| [Introspective Thoughts Gamma \(88\-176hz\)](https://open.spotify.com/track/4Kd0E840XEJnAPxl1tktZY) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Introspective Thoughts Gamma](https://open.spotify.com/album/6cEWrmi0Zw37PcVVRaOtS3) | 2:48 | 2024-07-19 | 2026-07-13 |
 | [Invitado De La Naturaleza](https://open.spotify.com/track/4BsGi3xKuLzJ5rIOnOPwYN) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Invitado De La Naturaleza](https://open.spotify.com/album/5p2lBL3zw0Ga9L9WskiXJk) | 3:33 | 2023-04-28 | 2024-04-02 |
 | [Island of Gods](https://open.spotify.com/track/5y8I7klZFSvtjWA71ZawZG) | [Infinite Sphere](https://open.spotify.com/artist/2FVBeKa5tcAuDKo60SwyHV) | [Island of Gods](https://open.spotify.com/album/2bW1GAF3JZwIVJlG5rrmDR) | 3:03 | 2025-05-21 | 2026-04-04 |
 | [It's Time For Silence](https://open.spotify.com/track/0CgPoPYmgMl071DZjJV6Ti) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [It's Time For Silence](https://open.spotify.com/album/0m9fylfQgmg2CZ0Fd4EdBN) | 2:56 | 2024-12-12 | 2026-04-04 |

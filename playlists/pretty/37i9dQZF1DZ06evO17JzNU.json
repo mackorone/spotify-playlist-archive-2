@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 32264,
+  "num_followers": 32268,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAD3/mUvDF5ovEPP5gKbf4wu",
+  "snapshot_id": "alGHgAAAAAAa1P595ayPQg9ppf+lShiQ",
   "tracks": [
     {
       "added_at": null,
@@ -167,22 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "y no te miento",
-        "url": "https://open.spotify.com/album/0P0v8BqncsRNHX18MhxoEE"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "y no te miento",
-      "url": "https://open.spotify.com/track/0w0xbENXslPfLz28ihe1fV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VPPMHDSPPM",
         "url": "https://open.spotify.com/album/6DBsROTJOvlSRbKNOoqEMs"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 115946,
       "name": "VPPMHDSPPM",
       "url": "https://open.spotify.com/track/1p1wnpmPz3oGnZrscI0ayu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "y no te miento",
+        "url": "https://open.spotify.com/album/0P0v8BqncsRNHX18MhxoEE"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "y no te miento",
+      "url": "https://open.spotify.com/track/0w0xbENXslPfLz28ihe1fV"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloody Steps",
-        "url": "https://open.spotify.com/album/2sTR0JzsyiJ8vKRDZ4C3JY"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 195250,
-      "name": "Bloody Steps",
-      "url": "https://open.spotify.com/track/2GyX56BdtI4RVtqel2GSYY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Muchachon",
         "url": "https://open.spotify.com/album/16oNWUo02F6vehFx1VVfLN"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 201935,
       "name": "El Muchachon",
       "url": "https://open.spotify.com/track/5AJ76ymr2po9eU3z9Kks1O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bloody Steps",
+        "url": "https://open.spotify.com/album/2sTR0JzsyiJ8vKRDZ4C3JY"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 195250,
+      "name": "Bloody Steps",
+      "url": "https://open.spotify.com/track/2GyX56BdtI4RVtqel2GSYY"
     },
     {
       "added_at": null,

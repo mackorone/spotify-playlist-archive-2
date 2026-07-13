@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/1FgfzdKSVABQraFrb3JDOW"
+      },
+      "artists": [
+        {
+          "name": "John Adams",
+          "url": "https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171874,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/5r4o18aWByCrfTVVnSzJtO"
+    },
+    {
+      "album": {
         "name": "Are You Lonesome Tonight (Acoustic)",
         "url": "https://open.spotify.com/album/2TcO9xgFjQFpuxIHpLazvO"
       },
@@ -2396,7 +2414,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 173050,
       "name": "I'm a Believer - Acoustic",
       "url": "https://open.spotify.com/track/3YZxfxxOyaneUFobNYlVlA"

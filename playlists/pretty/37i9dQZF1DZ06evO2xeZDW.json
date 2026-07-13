@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Giacchino. The essential tracks, all in one playlist.",
-  "num_followers": 18385,
+  "num_followers": 18389,
   "original_name": "This Is Michael Giacchino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAABhoqcX4ZsqZ21Bp13rIYbC",
+  "snapshot_id": "alGHgAAAAAAxOFVzRAX8wJBQHEFR8UkB",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Batman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 407533,
-      "name": "The Batman",
-      "url": "https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 213240,
       "name": "Carl Goes Up",
       "url": "https://open.spotify.com/track/42ZSOGIZ8AuQBFgyyicone"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Batman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 407533,
+      "name": "The Batman",
+      "url": "https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
+        "name": "Inside Out (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 255296,
-      "name": "Exit Through the Lobby - from \"Spider-Man: No Way Home\" Soundtrack",
-      "url": "https://open.spotify.com/track/5CIOy79Y5MmXeInEiVikRC"
+      "duration_ms": 260360,
+      "name": "Nomanisone Island/National Movers",
+      "url": "https://open.spotify.com/track/2R3R3dayan27EEINL55jNd"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 255296,
+      "name": "Exit Through the Lobby - from \"Spider-Man: No Way Home\" Soundtrack",
+      "url": "https://open.spotify.com/track/5CIOy79Y5MmXeInEiVikRC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
       },
@@ -760,15 +776,15 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 176066,
-      "name": "Rebellions Are Built on Hope",
-      "url": "https://open.spotify.com/track/2y0ujQbyIKpfmGnex4VJZU"
+      "duration_ms": 97773,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/2x5aboMwAwEIucjDwZsBEv"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Inside Out (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
+        "name": "The Fantastic Four: First Steps Main Theme (From \"The Fantastic Four: First Steps\")",
+        "url": "https://open.spotify.com/album/7cAwr7nhlYNRCm9vCOC9Hj"
       },
       "artists": [
         {
@@ -776,25 +792,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 260360,
-      "name": "Nomanisone Island/National Movers",
-      "url": "https://open.spotify.com/track/2R3R3dayan27EEINL55jNd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let Him Go (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4fgejrAeBYWdSaYRLXYyis"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 109466,
-      "name": "The Break Of Dawn",
-      "url": "https://open.spotify.com/track/4Fvf3Ch1obEN4GiYacWa5N"
+      "duration_ms": 202560,
+      "name": "The Fantastic Four: First Steps Main Theme - From \"The Fantastic Four: First Steps\"",
+      "url": "https://open.spotify.com/track/11fFILIDzuHakpgGoawXZw"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
+        "name": "Incredibles 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1kbdqZFxL3fuOmetdZ1VWO"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 97773,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/2x5aboMwAwEIucjDwZsBEv"
+      "duration_ms": 50706,
+      "name": "Episode 2",
+      "url": "https://open.spotify.com/track/2EmihuJbmXOcfN3QafNIkJ"
     }
   ],
   "unique_name": "This Is Michael Giacchino",

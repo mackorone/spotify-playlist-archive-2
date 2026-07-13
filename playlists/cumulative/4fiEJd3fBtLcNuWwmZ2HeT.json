@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "Because the red crows chirped",
+        "url": "https://open.spotify.com/album/6XlcJFpM9YQjNmacm3xeJH"
+      },
+      "artists": [
+        {
+          "name": "NY channel",
+          "url": "https://open.spotify.com/artist/2Fy1pKQurNXDSG9kYzXS32"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129743,
+      "name": "Because the red crows chirped",
+      "url": "https://open.spotify.com/track/3t5EtarT9l3Lh8PNJCOduC"
+    },
+    {
+      "album": {
         "name": "Binomi",
         "url": "https://open.spotify.com/album/6MiRWDh9PBab6Mow3hwtDu"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: Ziggy4x",
-  "num_followers": 3503,
+  "num_followers": 3505,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -149,6 +149,26 @@
       "url": "https://open.spotify.com/track/4AfQGFZ2zYdIHYwqBhYx37"
     },
     {
+      "added_at": "2025-07-03 22:00:44",
+      "album": {
+        "name": "Hoeveel",
+        "url": "https://open.spotify.com/album/6TGu2sBpURyrECiHLLnWpD"
+      },
+      "artists": [
+        {
+          "name": "Priddy Prince",
+          "url": "https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh"
+        },
+        {
+          "name": "Luda G",
+          "url": "https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z"
+        }
+      ],
+      "duration_ms": 123025,
+      "name": "Hoeveel",
+      "url": "https://open.spotify.com/track/2b9IabFTXdpwBaF7Q9hmzC"
+    },
+    {
       "added_at": "2025-06-27 09:27:23",
       "album": {
         "name": "Kyk Uit",
@@ -171,26 +191,6 @@
       "duration_ms": 160826,
       "name": "Kyk Uit",
       "url": "https://open.spotify.com/track/2te0KzJO51uuzWqmXiUv3N"
-    },
-    {
-      "added_at": "2025-07-03 22:00:44",
-      "album": {
-        "name": "Hoeveel",
-        "url": "https://open.spotify.com/album/6TGu2sBpURyrECiHLLnWpD"
-      },
-      "artists": [
-        {
-          "name": "Priddy Prince",
-          "url": "https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh"
-        },
-        {
-          "name": "Luda G",
-          "url": "https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z"
-        }
-      ],
-      "duration_ms": 123025,
-      "name": "Hoeveel",
-      "url": "https://open.spotify.com/track/2b9IabFTXdpwBaF7Q9hmzC"
     },
     {
       "added_at": "2025-09-25 22:00:28",
@@ -867,22 +867,18 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Stalaza Gedrik",
-        "url": "https://open.spotify.com/album/5i4wNu9pjANht2ln7xBkh7"
+        "name": "Hie Kom Ons",
+        "url": "https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me"
       },
       "artists": [
         {
-          "name": "KYLEO FROM THE WEST",
-          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
-        },
-        {
-          "name": "ceiling on tha deck",
-          "url": "https://open.spotify.com/artist/6KNNk3hqbEktQfIRBGHpbC"
+          "name": "Benjamen",
+          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
         }
       ],
-      "duration_ms": 149942,
-      "name": "Stalaza Gedrik",
-      "url": "https://open.spotify.com/track/6TnLVVsoFFcN1lPYbLAp9s"
+      "duration_ms": 164927,
+      "name": "Hie Kom Ons",
+      "url": "https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd"
     },
     {
       "added_at": "2025-06-27 09:27:23",
@@ -901,6 +897,26 @@
       "url": "https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47"
     },
     {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
+        "name": "Stalaza Gedrik",
+        "url": "https://open.spotify.com/album/5i4wNu9pjANht2ln7xBkh7"
+      },
+      "artists": [
+        {
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        },
+        {
+          "name": "ceiling on tha deck",
+          "url": "https://open.spotify.com/artist/6KNNk3hqbEktQfIRBGHpbC"
+        }
+      ],
+      "duration_ms": 149942,
+      "name": "Stalaza Gedrik",
+      "url": "https://open.spotify.com/track/6TnLVVsoFFcN1lPYbLAp9s"
+    },
+    {
       "added_at": "2025-08-07 22:00:54",
       "album": {
         "name": "Hulle Weet Nog Niks",
@@ -915,22 +931,6 @@
       "duration_ms": 139070,
       "name": "Hulle Weet Nog Niks",
       "url": "https://open.spotify.com/track/5RwDOcL1wdXxjguzSpBgj9"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "Hie Kom Ons",
-        "url": "https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me"
-      },
-      "artists": [
-        {
-          "name": "Benjamen",
-          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
-        }
-      ],
-      "duration_ms": 164927,
-      "name": "Hie Kom Ons",
-      "url": "https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd"
     },
     {
       "added_at": "2025-06-27 09:27:23",
@@ -955,22 +955,18 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Sundphazamisa",
-        "url": "https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn"
+        "name": "Exs Die Ou",
+        "url": "https://open.spotify.com/album/6QJR1nAn1kQzI0s8uc85J4"
       },
       "artists": [
         {
-          "name": "Umlungu The Rapper",
-          "url": "https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0"
-        },
-        {
-          "name": "Big Xhosa",
-          "url": "https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy"
+          "name": "Mr Heinz",
+          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
         }
       ],
-      "duration_ms": 192296,
-      "name": "Sundphazamisa",
-      "url": "https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0"
+      "duration_ms": 186723,
+      "name": "Exs Die Ou",
+      "url": "https://open.spotify.com/track/3ka1g6KZDn50XNLVDatqcP"
     },
     {
       "added_at": "2025-06-27 09:27:23",

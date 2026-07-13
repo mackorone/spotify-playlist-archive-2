@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:13BgU01okousPOFvmiwecU">AZIEDOESNTEXIST<br/></a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,344 likes - 70 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,375 likes - 70 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 38 | [TAKE YOUR SWEET TIME](https://open.spotify.com/track/5VrPsFCxaWL2wMIhdFuOUc) | [Carter Benjamin](https://open.spotify.com/artist/2mN6M9Kde408WNk0YrHnQn) | [TAKE YOUR SWEET TIME](https://open.spotify.com/album/3jkAsaKzm7Ac7T28q40vll) | 3:29 |
 | 39 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
 | 40 | [Separated](https://open.spotify.com/track/5bFtbt0LsDJf3VvRFIrBW4) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) | [Me My Songs & I](https://open.spotify.com/album/2GziuyAce7KXng6HquCtJu) | 3:23 |
-| 41 | [Arch Ya Back](https://open.spotify.com/track/1IRvXWVnYuWTvs3oDTkwAi) | [Prod Jay48](https://open.spotify.com/artist/6x5eCJvjLLSJmsGzpa0ihp), [Obvdiah](https://open.spotify.com/artist/2W8iTgaeW7GSMP7GWeSeiM), [MvnnyMusik](https://open.spotify.com/artist/1cIi2cw0EgmYbzQyQmsQHp) | [Arch Ya Back](https://open.spotify.com/album/1m2zDjLlKHbCLpX7d3lk58) | 1:49 |
+| 41 | [Arch Ya Back](https://open.spotify.com/track/1IRvXWVnYuWTvs3oDTkwAi) | [Prod Jay48](https://open.spotify.com/artist/6x5eCJvjLLSJmsGzpa0ihp), [Vybez Music Group](https://open.spotify.com/artist/2zEODMVYbwqkhNgYSmfkuI), [Obvdiah](https://open.spotify.com/artist/2W8iTgaeW7GSMP7GWeSeiM), [MvnnyMusik](https://open.spotify.com/artist/1cIi2cw0EgmYbzQyQmsQHp) | [Arch Ya Back](https://open.spotify.com/album/1m2zDjLlKHbCLpX7d3lk58) | 1:49 |
 | 42 | [D.W.U](https://open.spotify.com/track/32buoNCy1O0p5DuzinySGT) | [RM47](https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL), [MAAD](https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd), [Raleigh](https://open.spotify.com/artist/4wj7NpN3vew4FXcbYF7m2C) | [CYBER](https://open.spotify.com/album/38YdHNIzl4zIjoLHs03LRG) | 2:39 |
 | 43 | [FREE SMURK OFNG](https://open.spotify.com/track/2x2W9oXb3aEKh0Ey0TaVOz) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [FREE SMURK OFNG](https://open.spotify.com/album/45x6Ld9RHaICXBk34MbTtY) | 3:19 |
 | 44 | [Tree On The Hill \(Lunch Break Freestyle\)](https://open.spotify.com/track/6FPZlhHqrtCi3C4IBCHAy6) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Tree On The Hill \(Lunch Break Freestyle\)](https://open.spotify.com/album/52xvSVWdjkBlJbctNBiH5q) | 1:40 |

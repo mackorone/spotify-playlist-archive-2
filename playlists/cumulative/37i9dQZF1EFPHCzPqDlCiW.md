@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-204 songs - 10 hr 46 min
+206 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Out of This World](https://open.spotify.com/track/47mWCYAYOuLlQULZ5CxgmY) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [New Skin](https://open.spotify.com/album/7kssLuW4quDDfOA4Krm2Rx) | 3:29 | 2024-01-29 |  |
 | [PAPER PLANE](https://open.spotify.com/track/0bvQXr2UBC7XvWKhBESl8b) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [PAPER PLANE](https://open.spotify.com/album/6cHX3SG9HQKd3UIzETvQiP) | 2:49 | 2026-01-21 |  |
 | [Paradise](https://open.spotify.com/track/02QcMeK6YrwvOWQ9XWpyYp) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Cautionary Tales of Youth](https://open.spotify.com/album/7oZTFBcPmwuv0L2AQI1yO9) | 3:05 | 2024-01-29 |  |
+| [Party Dress](https://open.spotify.com/track/3SerU0y1IgIxpniCYMSxlQ) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Party Dress](https://open.spotify.com/album/1kq2F2GMGZnw9p5Q7Ch4jN) | 3:09 | 2026-07-12 |  |
 | [Past Life](https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Past Life](https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL) | 3:16 | 2024-01-29 | 2025-10-13 |
 | [Past Life](https://open.spotify.com/track/6YOkAimrhx6nsLEwqfJoJv) | [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [NAGTTB+](https://open.spotify.com/album/6lte94zyWde7fR0o8XKQPZ) | 3:16 | 2025-10-12 |  |
 | [Problems](https://open.spotify.com/track/5CUOsDruna0oPEw5Q2axyy) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [What Ifs & Maybes](https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F) | 3:27 | 2024-01-29 |  |
@@ -194,6 +195,7 @@
 | [strangers](https://open.spotify.com/track/6ErwR2KyOsB0xc4oYFMPkW) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:21 | 2024-05-12 |  |
 | [strangers](https://open.spotify.com/track/6NrRwZOXIvYgEOnofnEE9V) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Bleeding Heart \(with Track\-by\-Track Commentary\)](https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub) | 2:21 | 2024-05-15 | 2024-06-08 |
 | [Taboo](https://open.spotify.com/track/0LKALGlOvOau898oFGfEMu) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Red](https://open.spotify.com/album/5hmhIJQOtTfAncnrg6lZv3) | 3:44 | 2024-01-29 |  |
+| [Take Me Back](https://open.spotify.com/track/1ydTfAU0AXrRnbPpfyWYQm) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Take Me Back](https://open.spotify.com/album/0V3YKC3QI5P1sAjM4csXju) | 3:21 | 2026-07-12 |  |
 | [Temporary](https://open.spotify.com/track/350Y0f1QT40SQPyolTu0hH) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Temporary](https://open.spotify.com/album/5ut9OrzYisjyf7bIFbKCF4) | 3:10 | 2024-01-29 |  |
 | [The Answer](https://open.spotify.com/track/4FNs5xchSa49YAzHh8QG09) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [The Years in Between](https://open.spotify.com/album/54vQHuNLb2W5K8e9vU6a8y) | 2:51 | 2024-01-29 |  |
 | [THE REASON \(feat\. John Newman\)](https://open.spotify.com/track/1H7izUQD8BKZgcUTIG0t6o) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [PULSE](https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt) | 3:17 | 2024-09-26 |  |

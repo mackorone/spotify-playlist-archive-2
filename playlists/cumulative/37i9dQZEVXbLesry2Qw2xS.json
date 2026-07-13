@@ -3524,7 +3524,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 232200,
       "name": "Armastan ma luuserit",
       "url": "https://open.spotify.com/track/5rjbaNNIAMTulWMipobmHh"
@@ -3550,7 +3550,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 187178,
       "name": "armastan, ei armasta",
       "url": "https://open.spotify.com/track/7gy6n6xauco1dttxquR39d"
@@ -4332,7 +4332,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -21760,7 +21760,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-06",
+      "date_removed": null,
       "duration_ms": 214400,
       "name": "hugo toom",
       "url": "https://open.spotify.com/track/47GAYk6gq9ZE6Ij9WWYdGP"
@@ -27510,6 +27510,36 @@
       "duration_ms": 229499,
       "name": "Kuut\u00f5bine",
       "url": "https://open.spotify.com/track/58vQFuBhIktiBzXVgOu9Ue"
+    },
+    {
+      "album": {
+        "name": "Kygo Jo (feat. Lyng) [Kygo Remix]",
+        "url": "https://open.spotify.com/album/6AQiRXJ2i48Lu7CFUrKUER"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Flow Kingz",
+          "url": "https://open.spotify.com/artist/1811qTctCVNYGH09k7sfyY"
+        },
+        {
+          "name": "JMK",
+          "url": "https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN"
+        },
+        {
+          "name": "Lyng",
+          "url": "https://open.spotify.com/artist/5ducg8qTQPfJJSSsO3D8hB"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153272,
+      "name": "Kygo Jo (feat. Lyng) - Kygo Remix",
+      "url": "https://open.spotify.com/track/3ExrDwHbhBZYurE2AOC1rL"
     },
     {
       "album": {
@@ -51152,7 +51182,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 190400,
       "name": "tabuuu",
       "url": "https://open.spotify.com/track/1MyTCLYyJ547w6FLSjb3om"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,894 likes - 80 songs - 4 hr 48 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,896 likes - 81 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,5 +88,6 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 78 | [Blodwyn](https://open.spotify.com/track/5UFmMdHSFqbWXQJoAbppSm) | [Moss Meredith](https://open.spotify.com/artist/3DL8xk1UlC6kPkrlbTHA56) | [Blodwyn](https://open.spotify.com/album/6UUxFXo46hihB0aOxV5kPq) | 3:20 |
 | 79 | [Over It](https://open.spotify.com/track/2kj6TZScNoIT7XkmHaNzf5) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE) | [Over It](https://open.spotify.com/album/2QMH3GnAnZDiHobPxWdlYI) | 3:11 |
 | 80 | [Backseat Polaroids](https://open.spotify.com/track/1JriHYTjpwdbG5UAH0RKHU) | [The Nightfall](https://open.spotify.com/artist/1SImrCTeQXeP3b7ZQ5ODKo) | [Backseat Polaroids](https://open.spotify.com/album/245ZhCG2h6slLxHhvgniyh) | 3:31 |
+| 81 | [WishaBich Woods \- Full Band Version](https://open.spotify.com/track/3sW1sOM2N6XI2TCvnZN0JK) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [WishaBich Woods \(Full Band Version\)](https://open.spotify.com/album/57O0Tb7laMbm0lPz9lAEy0) | 4:03 |
 
-Snapshot ID: `AAACxBK3lbs0AAzoeF8U08ipPwqZyF3P`
+Snapshot ID: `AAACxX3ctG42Mbndt3omsMuUpbO9jnQp`

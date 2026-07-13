@@ -1,6 +1,6 @@
 {
   "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: The Last Dinner Party",
-  "num_followers": 261180,
+  "num_followers": 261170,
   "original_name": "Rock The World",
   "owner": {
     "name": "Spotify",
@@ -831,26 +831,6 @@
     {
       "added_at": "2026-07-09 17:30:28",
       "album": {
-        "name": "Twisting The Knife (feat. Mckenna Grace)",
-        "url": "https://open.spotify.com/album/5dvN1KoTSr93iYDPvr5ZL4"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        },
-        {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
-        }
-      ],
-      "duration_ms": 201477,
-      "name": "Twisting The Knife (feat. Mckenna Grace)",
-      "url": "https://open.spotify.com/track/2DaR6GuQKi78Lq32oRv38C"
-    },
-    {
-      "added_at": "2026-07-09 17:30:28",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/4ixCpPB7DbIoThOljd0xHo"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 197093,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/0tbAUZAHXDemjIRZoKtWiD"
+    },
+    {
+      "added_at": "2026-07-09 17:30:28",
+      "album": {
+        "name": "Twisting The Knife (feat. Mckenna Grace)",
+        "url": "https://open.spotify.com/album/5dvN1KoTSr93iYDPvr5ZL4"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "duration_ms": 201477,
+      "name": "Twisting The Knife (feat. Mckenna Grace)",
+      "url": "https://open.spotify.com/track/2DaR6GuQKi78Lq32oRv38C"
     },
     {
       "added_at": "2026-07-09 17:30:28",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-07-09 17:30:28",
       "album": {
+        "name": "Bye Bye Bye",
+        "url": "https://open.spotify.com/album/5rspuinAci5QQYJpyy8JyU"
+      },
+      "artists": [
+        {
+          "name": "Sleep Theory",
+          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/2pCM15dfMDkbOup7jTHZxB"
+    },
+    {
+      "added_at": "2026-07-09 17:30:28",
+      "album": {
         "name": "Jealous Lover",
         "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
       },
@@ -983,18 +999,18 @@
     {
       "added_at": "2026-07-09 17:30:28",
       "album": {
-        "name": "Bye Bye Bye",
-        "url": "https://open.spotify.com/album/5rspuinAci5QQYJpyy8JyU"
+        "name": "De Oppresso Liber",
+        "url": "https://open.spotify.com/album/5WC3J1FQMd4vrA3xuWPUwQ"
       },
       "artists": [
         {
-          "name": "Sleep Theory",
-          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 201266,
-      "name": "Bye Bye Bye",
-      "url": "https://open.spotify.com/track/2pCM15dfMDkbOup7jTHZxB"
+      "duration_ms": 240208,
+      "name": "De Oppresso Liber",
+      "url": "https://open.spotify.com/track/1va9iYk8Kq9BYqlBTopxRK"
     },
     {
       "added_at": "2026-07-09 17:30:28",
@@ -1011,22 +1027,6 @@
       "duration_ms": 215455,
       "name": "Reward the Scars",
       "url": "https://open.spotify.com/track/4oZFqhv200v5rOCPHfwIec"
-    },
-    {
-      "added_at": "2026-07-09 17:30:28",
-      "album": {
-        "name": "De Oppresso Liber",
-        "url": "https://open.spotify.com/album/5WC3J1FQMd4vrA3xuWPUwQ"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 240208,
-      "name": "De Oppresso Liber",
-      "url": "https://open.spotify.com/track/1va9iYk8Kq9BYqlBTopxRK"
     },
     {
       "added_at": "2026-07-09 17:30:28",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-07-09 17:30:28",
       "album": {
-        "name": "everyone for ten minutes",
-        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "we should talk",
-      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
-    },
-    {
-      "added_at": "2026-07-09 17:30:28",
-      "album": {
         "name": "Fangs",
         "url": "https://open.spotify.com/album/3OgRSLmGbLqG8WtiaLgAhb"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 249293,
       "name": "Fangs",
       "url": "https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC"
+    },
+    {
+      "added_at": "2026-07-09 17:30:28",
+      "album": {
+        "name": "everyone for ten minutes",
+        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "we should talk",
+      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
     },
     {
       "added_at": "2026-07-09 17:30:28",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-07-09 17:30:28",
       "album": {
-        "name": "EI8HT",
-        "url": "https://open.spotify.com/album/2YfHoHOnfIc2ilp8YLEDyB"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 216670,
-      "name": "Young Again",
-      "url": "https://open.spotify.com/track/4bW61owcCI5jP9gcr65pTb"
-    },
-    {
-      "added_at": "2026-07-09 17:30:28",
-      "album": {
         "name": "My Heart",
         "url": "https://open.spotify.com/album/2Uvy40XpQFFxfgC9uT4yy7"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 210000,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/3dYn7vEq6MkqM7t8djNwID"
+    },
+    {
+      "added_at": "2026-07-09 17:30:28",
+      "album": {
+        "name": "EI8HT",
+        "url": "https://open.spotify.com/album/2YfHoHOnfIc2ilp8YLEDyB"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 216670,
+      "name": "Young Again",
+      "url": "https://open.spotify.com/track/4bW61owcCI5jP9gcr65pTb"
     },
     {
       "added_at": "2026-07-09 17:30:28",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-07-09 17:30:28",
       "album": {
+        "name": "I'm Never Gonna R.I.P.",
+        "url": "https://open.spotify.com/album/3pN3jdL5rj6mf6AqkjR3aD"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 124554,
+      "name": "I'm Never Gonna R.I.P.",
+      "url": "https://open.spotify.com/track/30A5B0l4yBknR1UPYZIEU0"
+    },
+    {
+      "added_at": "2026-07-09 17:30:28",
+      "album": {
         "name": "Better Man",
         "url": "https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc"
       },
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2026-07-09 17:30:28",
       "album": {
-        "name": "Sweet Hallelujah",
-        "url": "https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 182156,
-      "name": "Sweet Hallelujah",
-      "url": "https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5"
-    },
-    {
-      "added_at": "2026-07-09 17:30:28",
-      "album": {
         "name": "Get Away From Me (I Think I'll Love You Soon)",
         "url": "https://open.spotify.com/album/0YbnCJi3H6yOl1Rrltlo2W"
       },
@@ -1467,6 +1467,22 @@
       "duration_ms": 168693,
       "name": "Bug In The Cake",
       "url": "https://open.spotify.com/track/0eqW8uWYZD19N46werkSTF"
+    },
+    {
+      "added_at": "2026-07-09 17:30:28",
+      "album": {
+        "name": "Sweet Hallelujah",
+        "url": "https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 182156,
+      "name": "Sweet Hallelujah",
+      "url": "https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5"
     },
     {
       "added_at": "2026-07-09 17:30:28",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2026-07-09 17:30:28",
       "album": {
-        "name": "Who Will You Follow",
-        "url": "https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 235504,
-      "name": "Who Will You Follow",
-      "url": "https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2"
-    },
-    {
-      "added_at": "2026-07-09 17:30:28",
-      "album": {
         "name": "Dream On",
         "url": "https://open.spotify.com/album/3S6frb3H1t4O1dE2roKbWD"
       },
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2026-07-09 17:30:28",
       "album": {
-        "name": "I'm Never Gonna R.I.P.",
-        "url": "https://open.spotify.com/album/3pN3jdL5rj6mf6AqkjR3aD"
+        "name": "Who Will You Follow",
+        "url": "https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 124554,
-      "name": "I'm Never Gonna R.I.P.",
-      "url": "https://open.spotify.com/track/30A5B0l4yBknR1UPYZIEU0"
+      "duration_ms": 235504,
+      "name": "Who Will You Follow",
+      "url": "https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2"
     },
     {
       "added_at": "2026-07-09 17:30:28",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-07-09 17:30:28",
       "album": {
-        "name": "The Great Impersonator (Deluxe)",
-        "url": "https://open.spotify.com/album/6ehD64XkegXwfsA2hYhkKr"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 189461,
-      "name": "Carry the Weight",
-      "url": "https://open.spotify.com/track/7p3oJMceNz5skGLw52ZOjY"
-    },
-    {
-      "added_at": "2026-07-09 17:30:28",
-      "album": {
         "name": "split",
         "url": "https://open.spotify.com/album/2qpK5gD7V8q1GPtfSWWM8m"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2026-07-09 17:30:28",
       "album": {
-        "name": "The Boys of Dungeon Lane",
-        "url": "https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM"
+        "name": "The Great Impersonator (Deluxe)",
+        "url": "https://open.spotify.com/album/6ehD64XkegXwfsA2hYhkKr"
       },
       "artists": [
         {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 193270,
-      "name": "Come Inside",
-      "url": "https://open.spotify.com/track/07GA2evqdJjhYOdyPgLXE3"
+      "duration_ms": 189461,
+      "name": "Carry the Weight",
+      "url": "https://open.spotify.com/track/7p3oJMceNz5skGLw52ZOjY"
     },
     {
       "added_at": "2026-07-09 17:30:28",
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2026-07-09 17:30:28",
       "album": {
+        "name": "The Boys of Dungeon Lane",
+        "url": "https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 193270,
+      "name": "Come Inside",
+      "url": "https://open.spotify.com/track/07GA2evqdJjhYOdyPgLXE3"
+    },
+    {
+      "added_at": "2026-07-09 17:30:28",
+      "album": {
         "name": "Dead Man Walking",
         "url": "https://open.spotify.com/album/6ikKNy64oat903y40BvADC"
       },
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2026-07-09 17:30:28",
       "album": {
-        "name": "Should've Known Better",
-        "url": "https://open.spotify.com/album/5YejHoJ2w4gXBsdhwQ2wQt"
+        "name": "Something To Consume",
+        "url": "https://open.spotify.com/album/0FdOJumn3KGRDwCoLTt8CY"
       },
       "artists": [
         {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+          "name": "Die Spitz",
+          "url": "https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE"
         }
       ],
-      "duration_ms": 196227,
-      "name": "Should've Known Better",
-      "url": "https://open.spotify.com/track/5W5d518pSKjB8JtscaU3ZL"
+      "duration_ms": 160163,
+      "name": "Throw Yourself to the Sword",
+      "url": "https://open.spotify.com/track/1T4TSL2UaYjauerxFyPal0"
     }
   ],
   "unique_name": "Rock The World",

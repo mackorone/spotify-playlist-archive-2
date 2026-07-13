@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-291 songs - 17 hr 12 min
+293 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Anyone](https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:10 | 2025-04-10 |  |
 | [Anywhere](https://open.spotify.com/track/6Xy72HZ9nf2jx48dQuF1mA) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Phoenix \(Deluxe Edition\)](https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN) | 3:35 | 2025-04-10 | 2025-04-12 |
 | [As You Lie There](https://open.spotify.com/track/1Qhqhecc2uxqpswTMr6nQS) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [The Boys of Dungeon Lane](https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM) | 4:45 | 2026-05-28 |  |
+| [Back In Your Life](https://open.spotify.com/track/590rDHWNgViHdsFjXShHlP) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues](https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc) | 6:12 | 2026-07-12 |  |
 | [Beam On](https://open.spotify.com/track/467qndiTw6EHdEVgS5GlZ7) | [Khari Mateen](https://open.spotify.com/artist/62KfmfXCMVP2kOsZi4j39u) | [Wait for Sunrise](https://open.spotify.com/album/1bROyL2oDz8tVUcWNbeZSX) | 4:16 | 2025-11-13 |  |
 | [Beat the Sunrise \(feat\. Andrew Watt\)](https://open.spotify.com/track/7th2B8tA26On1RAt2WmnMI) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [Beat the Sunrise \(feat\. Andrew Watt\)](https://open.spotify.com/album/3mbKHN2AW2cpo6nmYkMKoj) | 2:52 | 2025-04-10 | 2025-04-12 |
 | [Best Friend \(with Fall Out Boy\)](https://open.spotify.com/track/1zKuSINcb2QSE7m6mk6J36) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 2:36 | 2025-05-27 |  |
@@ -232,6 +233,7 @@
 | [Shameless](https://open.spotify.com/track/2ogKhhoMClkFXek7ZgxAhN) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:39 | 2025-04-10 | 2025-04-12 |
 | [Shape of a Woman](https://open.spotify.com/track/6aFsbhzye4yfT25ohmhOQY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 3:29 | 2026-05-08 |  |
 | [Should've Said It](https://open.spotify.com/track/0sHc1EEeOnmgjP6QmsR7px) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:20 | 2025-04-10 |  |
+| [Side Effects](https://open.spotify.com/track/463PiN9LTK31VIjID2h9iL) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues](https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc) | 4:34 | 2026-07-12 |  |
 | [Simple Things](https://open.spotify.com/track/7IIM5wzOr8EQ3I14xHyziq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 4:11 | 2025-04-10 |  |
 | [Sinkin' In](https://open.spotify.com/track/5xiRvuO2vgFNDwd6FmSoTd) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Surfers Paradise](https://open.spotify.com/album/0Nt9OVNsmAcsEYXULP0ZBD) | 3:38 | 2025-04-10 |  |
 | [Slow Motion](https://open.spotify.com/track/30I7kdtPa1Nmun5I5bns7Q) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Charlotte](https://open.spotify.com/album/0UkABhrJ1PM3iQ1NxAxDsq) | 3:03 | 2025-04-10 |  |

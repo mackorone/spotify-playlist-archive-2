@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Nothing But Thieves",
-  "num_followers": 338097,
+  "num_followers": 338089,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -291,26 +291,6 @@
     {
       "added_at": "2026-07-09 22:00:54",
       "album": {
-        "name": "Crash First (with mgk)",
-        "url": "https://open.spotify.com/album/4KDBHNs6XR1OqZETv8QXPi"
-      },
-      "artists": [
-        {
-          "name": "honestav",
-          "url": "https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF"
-        },
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "Crash First (with mgk)",
-      "url": "https://open.spotify.com/track/5KoNZJsXDXoQrgCMoHY6FO"
-    },
-    {
-      "added_at": "2026-07-09 22:00:54",
-      "album": {
         "name": "The Wow! Signal",
         "url": "https://open.spotify.com/album/6TObgE5QDLYzA3Exu5vGhS"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 235743,
       "name": "Hush",
       "url": "https://open.spotify.com/track/0OcCTvv3tpZBSZxP889Ijs"
+    },
+    {
+      "added_at": "2026-07-09 22:00:54",
+      "album": {
+        "name": "Crash First (with mgk)",
+        "url": "https://open.spotify.com/album/4KDBHNs6XR1OqZETv8QXPi"
+      },
+      "artists": [
+        {
+          "name": "honestav",
+          "url": "https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF"
+        },
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "Crash First (with mgk)",
+      "url": "https://open.spotify.com/track/5KoNZJsXDXoQrgCMoHY6FO"
     },
     {
       "added_at": "2026-07-09 22:00:54",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-07-09 22:00:54",
       "album": {
+        "name": "De Oppresso Liber",
+        "url": "https://open.spotify.com/album/5WC3J1FQMd4vrA3xuWPUwQ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 240208,
+      "name": "De Oppresso Liber",
+      "url": "https://open.spotify.com/track/1va9iYk8Kq9BYqlBTopxRK"
+    },
+    {
+      "added_at": "2026-07-09 22:00:54",
+      "album": {
         "name": "Nightshift Superstar",
         "url": "https://open.spotify.com/album/2mtNOqNWDFaMUfgL6L6oGm"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 247144,
       "name": "Nightshift Superstar",
       "url": "https://open.spotify.com/track/0ysOBzp8xSrbDenht9mQ9C"
-    },
-    {
-      "added_at": "2026-07-09 22:00:54",
-      "album": {
-        "name": "Something Wicked",
-        "url": "https://open.spotify.com/album/4EKw9Gf8OIFl04bGM8VZJb"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 208947,
-      "name": "Something Wicked",
-      "url": "https://open.spotify.com/track/7qf6pX0T9CsTLs4kcqSNes"
     },
     {
       "added_at": "2026-07-09 22:00:54",
@@ -623,18 +623,18 @@
     {
       "added_at": "2026-07-09 22:00:54",
       "album": {
-        "name": "De Oppresso Liber",
-        "url": "https://open.spotify.com/album/5WC3J1FQMd4vrA3xuWPUwQ"
+        "name": "Something Wicked",
+        "url": "https://open.spotify.com/album/4EKw9Gf8OIFl04bGM8VZJb"
       },
       "artists": [
         {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
         }
       ],
-      "duration_ms": 240208,
-      "name": "De Oppresso Liber",
-      "url": "https://open.spotify.com/track/1va9iYk8Kq9BYqlBTopxRK"
+      "duration_ms": 208947,
+      "name": "Something Wicked",
+      "url": "https://open.spotify.com/track/7qf6pX0T9CsTLs4kcqSNes"
     },
     {
       "added_at": "2026-07-09 22:00:54",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-07-09 22:00:54",
       "album": {
-        "name": "Cryogen",
-        "url": "https://open.spotify.com/album/4uW6onE6t6FUwLV9yr2E9f"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 301825,
-      "name": "Cryogen",
-      "url": "https://open.spotify.com/track/5ITICFtTKxzcbR43ehRvsI"
-    },
-    {
-      "added_at": "2026-07-09 22:00:54",
-      "album": {
         "name": "Emergence",
         "url": "https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 386253,
       "name": "Emergence",
       "url": "https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6"
+    },
+    {
+      "added_at": "2026-07-09 22:00:54",
+      "album": {
+        "name": "Cryogen",
+        "url": "https://open.spotify.com/album/4uW6onE6t6FUwLV9yr2E9f"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 301825,
+      "name": "Cryogen",
+      "url": "https://open.spotify.com/track/5ITICFtTKxzcbR43ehRvsI"
     },
     {
       "added_at": "2026-07-09 22:00:54",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-07-09 22:00:54",
       "album": {
-        "name": "False Reaction",
-        "url": "https://open.spotify.com/album/1799QCS7eeX8JKJn0Fp7X3"
-      },
-      "artists": [
-        {
-          "name": "VIOLENT VIRA",
-          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
-        }
-      ],
-      "duration_ms": 166132,
-      "name": "False Reaction",
-      "url": "https://open.spotify.com/track/3TG5mHXETb6JyWzysmZ5RN"
-    },
-    {
-      "added_at": "2026-07-09 22:00:54",
-      "album": {
         "name": "Alienation",
         "url": "https://open.spotify.com/album/3qNCqYQyWvvgTapGWLTQsk"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 211262,
       "name": "Don't Wanna Go Home Tonight",
       "url": "https://open.spotify.com/track/3I3FSs3C05QUs3r8fSdSeQ"
+    },
+    {
+      "added_at": "2026-07-09 22:00:54",
+      "album": {
+        "name": "False Reaction",
+        "url": "https://open.spotify.com/album/1799QCS7eeX8JKJn0Fp7X3"
+      },
+      "artists": [
+        {
+          "name": "VIOLENT VIRA",
+          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
+        }
+      ],
+      "duration_ms": 166132,
+      "name": "False Reaction",
+      "url": "https://open.spotify.com/track/3TG5mHXETb6JyWzysmZ5RN"
     },
     {
       "added_at": "2026-07-09 22:00:54",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-07-09 22:00:54",
       "album": {
+        "name": "Dissolve Me",
+        "url": "https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 207514,
+      "name": "Dissolve Me",
+      "url": "https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6"
+    },
+    {
+      "added_at": "2026-07-09 22:00:54",
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
       },
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2026-07-09 22:00:54",
       "album": {
-        "name": "Dissolve Me",
-        "url": "https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO"
+        "name": "\u2060Lucid Love",
+        "url": "https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH"
       },
       "artists": [
         {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
         }
       ],
-      "duration_ms": 207514,
-      "name": "Dissolve Me",
-      "url": "https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6"
+      "duration_ms": 210555,
+      "name": "Lucid Love",
+      "url": "https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6"
     },
     {
       "added_at": "2026-07-09 22:00:54",
@@ -1187,22 +1203,6 @@
       "duration_ms": 181666,
       "name": "Everything Burns (feat. Beartooth)",
       "url": "https://open.spotify.com/track/4m4MMljoJx4illTnaWRHbG"
-    },
-    {
-      "added_at": "2026-07-09 22:00:54",
-      "album": {
-        "name": "\u2060Lucid Love",
-        "url": "https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 210555,
-      "name": "Lucid Love",
-      "url": "https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6"
     },
     {
       "added_at": "2026-07-09 22:00:54",
@@ -1243,8 +1243,8 @@
     {
       "added_at": "2026-07-09 22:00:54",
       "album": {
-        "name": "For I Am Death",
-        "url": "https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM"
+        "name": "Dear God",
+        "url": "https://open.spotify.com/album/3sE3S6k6OA1UXWMKQEiaDY"
       },
       "artists": [
         {
@@ -1252,9 +1252,9 @@
           "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
         }
       ],
-      "duration_ms": 219395,
-      "name": "For I Am Death",
-      "url": "https://open.spotify.com/track/3K85nEutdOPbJuAJgoe2O4"
+      "duration_ms": 276096,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/3m4YAWyI7QypBz2qBUQCOO"
     },
     {
       "added_at": "2026-07-09 22:00:54",
@@ -1327,8 +1327,8 @@
     {
       "added_at": "2026-07-09 22:00:54",
       "album": {
-        "name": "Dear God",
-        "url": "https://open.spotify.com/album/3sE3S6k6OA1UXWMKQEiaDY"
+        "name": "For I Am Death",
+        "url": "https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM"
       },
       "artists": [
         {
@@ -1336,9 +1336,9 @@
           "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
         }
       ],
-      "duration_ms": 276096,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/3m4YAWyI7QypBz2qBUQCOO"
+      "duration_ms": 219395,
+      "name": "For I Am Death",
+      "url": "https://open.spotify.com/track/3K85nEutdOPbJuAJgoe2O4"
     },
     {
       "added_at": "2026-07-09 22:00:54",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-07-09 22:00:54",
       "album": {
-        "name": "When I Wake Up",
-        "url": "https://open.spotify.com/album/48pyXUDMERM1AaSI0gUi5n"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 214290,
-      "name": "When I Wake Up",
-      "url": "https://open.spotify.com/track/3O3fI1Z3myBXTCmUWT29zO"
-    },
-    {
-      "added_at": "2026-07-09 22:00:54",
-      "album": {
         "name": "Idols (Complete)",
         "url": "https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 235413,
       "name": "Song Of The Future",
       "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
+    },
+    {
+      "added_at": "2026-07-09 22:00:54",
+      "album": {
+        "name": "When I Wake Up",
+        "url": "https://open.spotify.com/album/48pyXUDMERM1AaSI0gUi5n"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 214290,
+      "name": "When I Wake Up",
+      "url": "https://open.spotify.com/track/3O3fI1Z3myBXTCmUWT29zO"
     },
     {
       "added_at": "2026-07-09 22:00:54",
@@ -1519,6 +1519,38 @@
     {
       "added_at": "2026-07-09 22:00:54",
       "album": {
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 273906,
+      "name": "In A Life",
+      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
+    },
+    {
+      "added_at": "2026-07-09 22:00:54",
+      "album": {
+        "name": "Don't Play Nice",
+        "url": "https://open.spotify.com/album/02keESBeIDZcNcfiK5fzWp"
+      },
+      "artists": [
+        {
+          "name": "Unroyal",
+          "url": "https://open.spotify.com/artist/6x83PgJ6DhWHY3ch90e5pY"
+        }
+      ],
+      "duration_ms": 158347,
+      "name": "Don't Play Nice",
+      "url": "https://open.spotify.com/track/4ypwF2SzLJ0sf9IKoKt8V8"
+    },
+    {
+      "added_at": "2026-07-09 22:00:54",
+      "album": {
         "name": "Villainous (feat. Maria Brink of In This Moment)",
         "url": "https://open.spotify.com/album/2C6hSIWrn02t1nznm0LDbv"
       },
@@ -1539,22 +1571,6 @@
       "duration_ms": 176700,
       "name": "Villainous (feat. Maria Brink of In This Moment)",
       "url": "https://open.spotify.com/track/4K3A9ENMtrBvugyyyYMC7X"
-    },
-    {
-      "added_at": "2026-07-09 22:00:54",
-      "album": {
-        "name": "Easter Lily EP",
-        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 273906,
-      "name": "In A Life",
-      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
     },
     {
       "added_at": "2026-07-09 22:00:54",
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2026-07-09 22:00:54",
       "album": {
-        "name": "Don't Play Nice",
-        "url": "https://open.spotify.com/album/02keESBeIDZcNcfiK5fzWp"
-      },
-      "artists": [
-        {
-          "name": "Unroyal",
-          "url": "https://open.spotify.com/artist/6x83PgJ6DhWHY3ch90e5pY"
-        }
-      ],
-      "duration_ms": 158347,
-      "name": "Don't Play Nice",
-      "url": "https://open.spotify.com/track/4ypwF2SzLJ0sf9IKoKt8V8"
-    },
-    {
-      "added_at": "2026-07-09 22:00:54",
-      "album": {
         "name": "WE ARE EMPIRE",
         "url": "https://open.spotify.com/album/4GtAnZ58WCp80acUpwM50P"
       },
@@ -1623,22 +1623,6 @@
       "duration_ms": 360216,
       "name": "WE ARE EMPIRE",
       "url": "https://open.spotify.com/track/6ose7JySKEZszL4eisoFhM"
-    },
-    {
-      "added_at": "2026-07-09 22:00:54",
-      "album": {
-        "name": "Your Favorite Toy",
-        "url": "https://open.spotify.com/album/1GlbwU0fG3s91TwcuTh4ea"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "Your Favorite Toy",
-      "url": "https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL"
     },
     {
       "added_at": "2026-07-09 22:00:54",
@@ -1659,18 +1643,18 @@
     {
       "added_at": "2026-07-09 22:00:54",
       "album": {
-        "name": "Everything Is Fine",
-        "url": "https://open.spotify.com/album/1nXFy9tqZLTLsKLBK9cWtT"
+        "name": "Your Favorite Toy",
+        "url": "https://open.spotify.com/album/1GlbwU0fG3s91TwcuTh4ea"
       },
       "artists": [
         {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 217189,
-      "name": "Everything Is Fine",
-      "url": "https://open.spotify.com/track/6BerQ9av2hnOFNAYJnl704"
+      "duration_ms": 176453,
+      "name": "Your Favorite Toy",
+      "url": "https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL"
     },
     {
       "added_at": "2026-07-09 22:00:54",
@@ -1687,6 +1671,22 @@
       "duration_ms": 236720,
       "name": "The Rider",
       "url": "https://open.spotify.com/track/0By1Ubg8IXu0JaMUZyDIWB"
+    },
+    {
+      "added_at": "2026-07-09 22:00:54",
+      "album": {
+        "name": "Everything Is Fine",
+        "url": "https://open.spotify.com/album/1nXFy9tqZLTLsKLBK9cWtT"
+      },
+      "artists": [
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        }
+      ],
+      "duration_ms": 217189,
+      "name": "Everything Is Fine",
+      "url": "https://open.spotify.com/track/6BerQ9av2hnOFNAYJnl704"
     }
   ],
   "unique_name": "Rock Rotation",

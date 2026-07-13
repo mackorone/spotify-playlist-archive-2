@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 
 > Psyched\-out bands from the four corners of the world\. Boards Of Canada on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,355 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,398 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,25 +50,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 40 | [Egypt](https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy) | [KYANOS](https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD) | [Egypt](https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc) | 4:21 |
 | 41 | [Imaginary Girl](https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:21 |
 | 42 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 |
-| 43 | [Solar \(Alchemized\)](https://open.spotify.com/track/1brrFg5NPT8i7pvccAbxsN) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Transmutations: Encore](https://open.spotify.com/album/23SMXQIkiQyceJr1cAcR3D) | 2:24 |
-| 44 | [Kundela Mawedi](https://open.spotify.com/track/3lGcSLtbK1vBbm7CbXWULD) | [Atabasca](https://open.spotify.com/artist/2vIpX7cPlF9qmWNac8TbKi) | [Kundela Mawedi](https://open.spotify.com/album/5AHhPN1GiSsxdlbBZmlThN) | 5:37 |
+| 43 | [Kundela Mawedi](https://open.spotify.com/track/3lGcSLtbK1vBbm7CbXWULD) | [Atabasca](https://open.spotify.com/artist/2vIpX7cPlF9qmWNac8TbKi) | [Kundela Mawedi](https://open.spotify.com/album/5AHhPN1GiSsxdlbBZmlThN) | 5:37 |
+| 44 | [Solar \(Alchemized\)](https://open.spotify.com/track/1brrFg5NPT8i7pvccAbxsN) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Transmutations: Encore](https://open.spotify.com/album/23SMXQIkiQyceJr1cAcR3D) | 2:24 |
 | 45 | [Joe Frazier](https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Joe Frazier](https://open.spotify.com/album/76AK76pEsL7gMB65cBNFR6) | 5:38 |
 | 46 | [Un cerchio](https://open.spotify.com/track/79Ug46sAlyAIhMmptxe2zA) | [ONDAKEIKI](https://open.spotify.com/artist/2sb3erMdYBN1W2jGtL14BG) | [Canti, Vol\. 2](https://open.spotify.com/album/0bKmrls3Qe9G6WyrBJeV4Q) | 4:38 |
 | 47 | [S.N.C](https://open.spotify.com/track/335vJ5AwekBqjaj1XjmRnd) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [S.N.C](https://open.spotify.com/album/0oaI0qO5yCMuaQ7hcczrmj) | 5:55 |
 | 48 | [It's You](https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Fase Luna](https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd) | 4:45 |
 | 49 | [We Were We Still Are](https://open.spotify.com/track/1t7KPfFCA5fVTV1FR9kSuJ) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [We Were We Still Are](https://open.spotify.com/album/01DzJZ1Ir8CkDfVDZdxsW9) | 2:57 |
 | 50 | [Funeral for Justice \- Injustice Version](https://open.spotify.com/track/7MXFGo3Eelb8RegCAC5WQX) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Funeral for Justice \(Injustice Version\)](https://open.spotify.com/album/3fYga5PA5HrnbPFH4pWc8F) | 5:45 |
-| 51 | [Ilion](https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [ILION](https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3) | 11:08 |
-| 52 | [The Rat Catcher](https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ) | [Wucan](https://open.spotify.com/artist/7FsZ5HKdtDFJ1xmK6NICBO) | [Reap the Storm](https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS) | 5:25 |
+| 51 | [The Rat Catcher](https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ) | [Wucan](https://open.spotify.com/artist/7FsZ5HKdtDFJ1xmK6NICBO) | [Reap the Storm](https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS) | 5:25 |
+| 52 | [Ilion](https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [ILION](https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3) | 11:08 |
 | 53 | [I'm Not Ready for the Change](https://open.spotify.com/track/5ORQX1wOPqCP031V1CxjUq) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [I'm Not Ready for the Change](https://open.spotify.com/album/1UNlSzZJmtRbmnYUjDOjGA) | 4:47 |
 | 54 | [Black Acid](https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE) | [Death Hawks](https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1) | [Death Hawks](https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv) | 9:06 |
 | 55 | [Eyes Closed](https://open.spotify.com/track/7dTZ0dEnpFed6ohli3g5NE) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Eyes Closed](https://open.spotify.com/album/6GTw2AKd5RhtzkMQ9utnGJ) | 2:57 |
 | 56 | [A Shaman's Hand is Infinite](https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i) | [Al Lover](https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A) | [Sacred Drugs](https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST) | 3:06 |
-| 57 | [Weird World Awoke](https://open.spotify.com/track/1AviZe8149mRq0hGrJk33F) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Weird World Awoke](https://open.spotify.com/album/7gDYaJfIILcMR2607YmuSM) | 3:20 |
-| 58 | [Hit It and Quit It](https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Fudge Sandwich](https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw) | 4:00 |
+| 57 | [Hit It and Quit It](https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Fudge Sandwich](https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw) | 4:00 |
+| 58 | [Weird World Awoke](https://open.spotify.com/track/1AviZe8149mRq0hGrJk33F) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Weird World Awoke](https://open.spotify.com/album/7gDYaJfIILcMR2607YmuSM) | 3:20 |
 | 59 | [Cinnamon Temple](https://open.spotify.com/track/423nHTxJ1p5nopxYRNywqD) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Cinnamon Temple](https://open.spotify.com/album/1P85aR5iylgBaVh7plJAxJ) | 3:20 |
-| 60 | [Right or Wrong](https://open.spotify.com/track/3iblchfWSkursOZywc1MyH) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Right or Wrong](https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK) | 3:27 |
-| 61 | [Ring Tail](https://open.spotify.com/track/1wVNi51JyuLkBa1Q7JeUTN) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43) | [Ring Tail](https://open.spotify.com/album/1jB0X1Ch7IChY79vv1gZMe) | 1:58 |
+| 60 | [Ring Tail](https://open.spotify.com/track/1wVNi51JyuLkBa1Q7JeUTN) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43) | [Ring Tail](https://open.spotify.com/album/1jB0X1Ch7IChY79vv1gZMe) | 1:58 |
+| 61 | [Right or Wrong](https://open.spotify.com/track/3iblchfWSkursOZywc1MyH) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Right or Wrong](https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK) | 3:27 |
 | 62 | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5) | 3:07 |
 | 63 | [Ends Meet](https://open.spotify.com/track/394Ic5GQysxdvt9RpSO2ng) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Ends Meet](https://open.spotify.com/album/3GziivhJQCGZU7FlQWPT4Y) | 3:21 |
 | 64 | [Camina](https://open.spotify.com/track/4HT8vpwMPNpgZq6TcxColK) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Camina](https://open.spotify.com/album/3IrD7IpDBy3psoDWWpIubo) | 3:24 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 96 | [Don't Blow Experiment](https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Panther Rotate](https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR) | 5:09 |
 | 97 | [It's Alright, But I Admit It Could Be Better \- Remastered](https://open.spotify.com/track/6vclsNdC6KDOlygH4NAAuT) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [On The Double \(Remastered & Expanded\)](https://open.spotify.com/album/4do5fIXEU2wKuiBJ0qBZJQ) | 3:39 |
 | 98 | [Yellowblack](https://open.spotify.com/track/0hjXaVJKUYxVaVpi4smXZA) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Yellowblack](https://open.spotify.com/album/4NG2JJPI4Fwjrx6IrtGEhx) | 2:34 |
-| 99 | [Fliiim](https://open.spotify.com/track/1aAsUzTj2bIH6cAHLsacKw) | [Upupayāma](https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD) | [Fliiim](https://open.spotify.com/album/3FoCvSpo76YEUAt98FSKAq) | 5:29 |
-| 100 | [Disciplina](https://open.spotify.com/track/4gAis55fKTKLt0vYZxR8Lt) | [Oruã](https://open.spotify.com/artist/2Wya1Moi5k4EX1dRpCf4Dm) | [Sem Bênção / Sem Crença](https://open.spotify.com/album/5NZuJ1fOS528eMhwRIHEUg) | 5:28 |
+| 99 | [Disciplina](https://open.spotify.com/track/4gAis55fKTKLt0vYZxR8Lt) | [Oruã](https://open.spotify.com/artist/2Wya1Moi5k4EX1dRpCf4Dm) | [Sem Bênção / Sem Crença](https://open.spotify.com/album/5NZuJ1fOS528eMhwRIHEUg) | 5:28 |
+| 100 | [No Way In](https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [No Way In](https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2) | 4:06 |
 
 Snapshot ID: `AAAAAPZQ9aaSjqeuePVz/nM0LBYsOvKv`

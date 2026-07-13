@@ -639,6 +639,22 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4qCoYvrG6wy0Fv4BUyBOZo"
+      },
+      "artists": [
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        }
+      ],
+      "duration_ms": 216585,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1Ybm8GRBrseE3n8qszEcjB"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
         "name": "Wait No More",
         "url": "https://open.spotify.com/album/2pN0NBFLGJdHGKcRl2ccTg"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 142956,
       "name": "Wait No More",
       "url": "https://open.spotify.com/track/0BNQCaSPM57wT2UsaoiyCC"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4qCoYvrG6wy0Fv4BUyBOZo"
-      },
-      "artists": [
-        {
-          "name": "Drove",
-          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
-        }
-      ],
-      "duration_ms": 216585,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/1Ybm8GRBrseE3n8qszEcjB"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/1xH1qluXzXDhZFeaIUx5ud"
-      },
-      "artists": [
-        {
-          "name": "Mondingo",
-          "url": "https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV"
-        }
-      ],
-      "duration_ms": 213558,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/1PwlrZradTFeRQg23BUZyv"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
         "name": "Locked In Paradise",
         "url": "https://open.spotify.com/album/3ruNkQX7OX7lXxhkiFiGzd"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 153442,
       "name": "Locked In Paradise",
       "url": "https://open.spotify.com/track/6z6Wyf1By6TZEXs5aBiU9U"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/1xH1qluXzXDhZFeaIUx5ud"
+      },
+      "artists": [
+        {
+          "name": "Mondingo",
+          "url": "https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV"
+        }
+      ],
+      "duration_ms": 213558,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/1PwlrZradTFeRQg23BUZyv"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
+        "name": "You Have To Have A Goal",
+        "url": "https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Lintz",
+          "url": "https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z"
+        }
+      ],
+      "duration_ms": 133924,
+      "name": "You Have To Have A Goal",
+      "url": "https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
         "name": "Rest Of My Life",
         "url": "https://open.spotify.com/album/4LD7R2xePKw9LGjjIe8Urq"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 154500,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/4dq1p7vkO0hSUpcdfspqrK"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
-        "name": "You Have To Have A Goal",
-        "url": "https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9bastien Lintz",
-          "url": "https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z"
-        }
-      ],
-      "duration_ms": 133924,
-      "name": "You Have To Have A Goal",
-      "url": "https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -995,26 +995,6 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Electric",
-        "url": "https://open.spotify.com/album/2UNpZByJYcRTCNRSeUqst0"
-      },
-      "artists": [
-        {
-          "name": "Dela Utca",
-          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
-        },
-        {
-          "name": "chameleon",
-          "url": "https://open.spotify.com/artist/5H61giTnrSTMQd1Pl0tKNB"
-        }
-      ],
-      "duration_ms": 133565,
-      "name": "Electric",
-      "url": "https://open.spotify.com/track/51FFmeDLNlJUkueFkjtzxY"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
         "name": "Eyes All Over Mine",
         "url": "https://open.spotify.com/album/2sin8txJflst7fhouxDKy6"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 152943,
       "name": "Eyes All Over Mine",
       "url": "https://open.spotify.com/track/2IWHXB8dwvZR8cfdOx172B"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/2UNpZByJYcRTCNRSeUqst0"
+      },
+      "artists": [
+        {
+          "name": "Dela Utca",
+          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
+        },
+        {
+          "name": "chameleon",
+          "url": "https://open.spotify.com/artist/5H61giTnrSTMQd1Pl0tKNB"
+        }
+      ],
+      "duration_ms": 133565,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/51FFmeDLNlJUkueFkjtzxY"
     },
     {
       "added_at": "2026-06-08 07:23:44",

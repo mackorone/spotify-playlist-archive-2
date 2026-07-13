@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 122934,
+  "num_followers": 122964,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAAS4pGBqnMNFzPwNVREUJF5",
+  "snapshot_id": "alGHgAAAAAD9TOQTHQuIRUGdaJiRlimv",
   "tracks": [
     {
       "added_at": null,
@@ -244,25 +244,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 211746,
-      "name": "El Jefe De Las Plazas",
-      "url": "https://open.spotify.com/track/1pJMMnem25kCij6sF62hut"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Necesito Due\u00f1a",
-        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 209333,
-      "name": "Te Quiero Enamorar - Balada Version",
-      "url": "https://open.spotify.com/track/0tlYDlWKenqL5u78jZKh0z"
+      "duration_ms": 182946,
+      "name": "El Bitachero",
+      "url": "https://open.spotify.com/track/3uGo2w4vTh6iktL20sEYb0"
     },
     {
       "added_at": null,
@@ -279,6 +263,22 @@
       "duration_ms": 162986,
       "name": "Coraz\u00f3n de Oropel",
       "url": "https://open.spotify.com/track/38vsB0FOAILEKHDwXgERIT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Necesito Due\u00f1a",
+        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "Te Quiero Enamorar - Balada Version",
+      "url": "https://open.spotify.com/track/0tlYDlWKenqL5u78jZKh0z"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 182946,
-      "name": "El Bitachero",
-      "url": "https://open.spotify.com/track/3uGo2w4vTh6iktL20sEYb0"
+      "duration_ms": 211746,
+      "name": "El Jefe De Las Plazas",
+      "url": "https://open.spotify.com/track/1pJMMnem25kCij6sF62hut"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Millonario De Amor",
-        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 242613,
-      "name": "Quince Minutos De Ti",
-      "url": "https://open.spotify.com/track/2fczBn1fEYW5vJASRovoln"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Necesito Due\u00f1a",
         "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 205333,
       "name": "Mu\u00f1equita - Balada Version",
       "url": "https://open.spotify.com/track/2CHAuszySE0bVoNGhA3xD6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 242613,
+      "name": "Quince Minutos De Ti",
+      "url": "https://open.spotify.com/track/2fczBn1fEYW5vJASRovoln"
     },
     {
       "added_at": null,

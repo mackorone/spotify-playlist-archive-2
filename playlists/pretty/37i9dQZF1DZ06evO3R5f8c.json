@@ -1,12 +1,12 @@
 {
   "description": "This is Black Coffee. The essential tracks, all in one playlist.",
-  "num_followers": 198343,
+  "num_followers": 198413,
   "original_name": "This Is Black Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAARmdtU0Ur0AEV8hBTH+GT7",
+  "snapshot_id": "alGHgAAAAACwD8lOpTLZxDqHR+9wQGbd",
   "tracks": [
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Have Faith (feat. Mondli Ngcobo)",
-        "url": "https://open.spotify.com/album/0fDot2YoFm5ugns4PetfyS"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Mondli Ngcobo",
-          "url": "https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2"
-        }
-      ],
-      "duration_ms": 494594,
-      "name": "I Have Faith (feat. Mondli Ngcobo)",
-      "url": "https://open.spotify.com/track/5J4iGuswrxrUVx8THhbDnI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Traveller (Extended Mix)",
         "url": "https://open.spotify.com/album/1CnnR1LNyGFzpcNkrbljoB"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 439308,
       "name": "Traveller - Extended Mix",
       "url": "https://open.spotify.com/track/3QF8Xtfvgnyk0tRUnDxTFU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Have Faith (feat. Mondli Ngcobo)",
+        "url": "https://open.spotify.com/album/0fDot2YoFm5ugns4PetfyS"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Mondli Ngcobo",
+          "url": "https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2"
+        }
+      ],
+      "duration_ms": 494594,
+      "name": "I Have Faith (feat. Mondli Ngcobo)",
+      "url": "https://open.spotify.com/track/5J4iGuswrxrUVx8THhbDnI"
     },
     {
       "added_at": null,

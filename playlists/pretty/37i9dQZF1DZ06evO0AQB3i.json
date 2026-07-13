@@ -1,12 +1,12 @@
 {
   "description": "This is Alabama Shakes. The essential tracks, all in one playlist.",
-  "num_followers": 64336,
+  "num_followers": 64369,
   "original_name": "This Is Alabama Shakes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAAuXloV0gQnXDcFIwJElDGM",
+  "snapshot_id": "alGHgAAAAABpXI1mHBz56lsq7VOmArBu",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always Alright",
-        "url": "https://open.spotify.com/album/5bnSQEjcDV0GXzxTtvI4xz"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 249169,
-      "name": "Always Alright",
-      "url": "https://open.spotify.com/track/6ckUX8cgcqjoNGTd2A2Pvd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boys & Girls",
         "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Always Alright",
+        "url": "https://open.spotify.com/album/5bnSQEjcDV0GXzxTtvI4xz"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 249169,
+      "name": "Always Alright",
+      "url": "https://open.spotify.com/track/6ckUX8cgcqjoNGTd2A2Pvd"
     },
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Dream",
-        "url": "https://open.spotify.com/album/45NVjCLXsyk3X8gxD5d18s"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 267693,
-      "name": "American Dream",
-      "url": "https://open.spotify.com/track/2hEtEN8dt6Hj2djG33DT6e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boys & Girls",
         "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 144200,
       "name": "Hang Loose",
       "url": "https://open.spotify.com/track/5cDHV67TxLrdz4ITUVQswH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Dream",
+        "url": "https://open.spotify.com/album/45NVjCLXsyk3X8gxD5d18s"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 267693,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/2hEtEN8dt6Hj2djG33DT6e"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killer Diller Blues (Music from The American Epic Sessions)",
-        "url": "https://open.spotify.com/album/3fTgCsGWNSoJ9uJG191vHN"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 132133,
-      "name": "Killer Diller Blues - Music from The American Epic Sessions",
-      "url": "https://open.spotify.com/track/3dVQcur9BPd2yrDEx6wMRH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boys & Girls",
         "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 179653,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/1N3c3dDtbx1OodfkIcxBmy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killer Diller Blues (Music from The American Epic Sessions)",
+        "url": "https://open.spotify.com/album/3fTgCsGWNSoJ9uJG191vHN"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 132133,
+      "name": "Killer Diller Blues - Music from The American Epic Sessions",
+      "url": "https://open.spotify.com/track/3dVQcur9BPd2yrDEx6wMRH"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boys & Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55ye5wDWdOgEQ1FuA09I3T"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 92320,
-      "name": "Mama - Live at KCRW",
-      "url": "https://open.spotify.com/track/3Jbfdg4JnDXQagzgvsl4L3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boys & Girls",
         "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 175800,
       "name": "I Ain't The Same",
       "url": "https://open.spotify.com/track/3KovbvpV7cqIw4gg2CihPu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boys & Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55ye5wDWdOgEQ1FuA09I3T"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 92320,
+      "name": "Mama - Live at KCRW",
+      "url": "https://open.spotify.com/track/3Jbfdg4JnDXQagzgvsl4L3"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heavy Chevy",
-        "url": "https://open.spotify.com/album/0ZNuNVOpsdhcHZlgVWwqHp"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 146120,
-      "name": "Heavy Chevy",
-      "url": "https://open.spotify.com/track/4QpoJRn7I1YZ20yo0ngnJ9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boys & Girls",
         "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 188613,
       "name": "Rise To The Sun",
       "url": "https://open.spotify.com/track/4jdBFqrhH2ed69JnR1H27e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heavy Chevy",
+        "url": "https://open.spotify.com/album/0ZNuNVOpsdhcHZlgVWwqHp"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 146120,
+      "name": "Heavy Chevy",
+      "url": "https://open.spotify.com/track/4QpoJRn7I1YZ20yo0ngnJ9"
     },
     {
       "added_at": null,

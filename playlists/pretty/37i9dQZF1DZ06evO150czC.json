@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 23286,
+  "num_followers": 23287,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAA/wXPSj8K9X6zf4GcDkmFx",
+  "snapshot_id": "alGHgAAAAAB3lyVwtd3fWy5iPLIQgWtI",
   "tracks": [
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reescreve a Minha Hist\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/58XvmnEv0FeuIPOm9J24It"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 289598,
-      "name": "Reescreve a Minha Hist\u00f3ria (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5ASFmAqQWs1vLMkfHBeNPN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Creio (Ao Vivo)",
         "url": "https://open.spotify.com/album/3sl8u53yQIpRQ5mj26brdI"
       },
@@ -763,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+        "name": "Reescreve a Minha Hist\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/58XvmnEv0FeuIPOm9J24It"
       },
       "artists": [
         {
@@ -772,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 300234,
-      "name": "Um Novo Tempo",
-      "url": "https://open.spotify.com/track/1olnFjuP51k8W4xgGZYfjs"
+      "duration_ms": 289598,
+      "name": "Reescreve a Minha Hist\u00f3ria (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5ASFmAqQWs1vLMkfHBeNPN"
     },
     {
       "added_at": null,
@@ -788,9 +772,25 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 314026,
-      "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
-      "url": "https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx"
+      "duration_ms": 274274,
+      "name": "Lugar Seguro (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 300234,
+      "name": "Um Novo Tempo",
+      "url": "https://open.spotify.com/track/1olnFjuP51k8W4xgGZYfjs"
     },
     {
       "added_at": null,
@@ -811,34 +811,6 @@
       "duration_ms": 314542,
       "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
       "url": "https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Escolhidas",
-        "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "Hellen Miranda",
-          "url": "https://open.spotify.com/artist/7psKiyrH4yV89bgVhAxD9r"
-        }
-      ],
-      "duration_ms": 247756,
-      "name": "Escolhidas",
-      "url": "https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET"
     },
     {
       "added_at": null,
@@ -880,9 +852,37 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 274274,
-      "name": "Lugar Seguro (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh"
+      "duration_ms": 314026,
+      "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
+      "url": "https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Escolhidas",
+        "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Hellen Miranda",
+          "url": "https://open.spotify.com/artist/7psKiyrH4yV89bgVhAxD9r"
+        }
+      ],
+      "duration_ms": 247756,
+      "name": "Escolhidas",
+      "url": "https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET"
     },
     {
       "added_at": null,

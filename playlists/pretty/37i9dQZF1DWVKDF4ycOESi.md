@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di ANNA, ANOTR, Beyoncé, HUGEL, Nia Archives e Jorja Smith, Jungle e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,996 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,993 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

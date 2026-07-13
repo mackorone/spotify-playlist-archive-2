@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 
 > Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,367 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,402 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 | 17 | [The Joker](https://open.spotify.com/track/7gJ3QOh4SVrGXaVL5lFh3w) | [SAKURA](https://open.spotify.com/artist/4CEz4WJQ9VkNsa5JdXRE8q) | [daylight](https://open.spotify.com/album/1ns1zXYtubxZhrV5xAjC9I) | 4:11 |
 | 18 | [Romance](https://open.spotify.com/track/75OqiU9QFLNeLTLvOCudWr) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [Romance](https://open.spotify.com/album/6SUTDYK3cMr9mFR82UU5vG) | 2:38 |
 | 19 | [Magic](https://open.spotify.com/track/4Cab8axKMPvZbxpwgGQhUJ) | [Tina](https://open.spotify.com/artist/72HxMCdKQmPgS3r5OtC01L) | [Colorado](https://open.spotify.com/album/7D3tX9U9qzmr0HOiU3GlB7) | 5:31 |
-| 20 | [Wonderland](https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Shade](https://open.spotify.com/album/54Xk8agoEmBJtxl0qMwixB) | 3:44 |
+| 20 | [After Rain](https://open.spotify.com/track/6aZgxJOcQCacpBSSwQt9Dx) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [Terminal 3](https://open.spotify.com/album/1VWD7epWmb4cR4gHCI2fQC) | 2:55 |
 | 21 | [baby baby,Service \- Tastes Like Champagne Mix](https://open.spotify.com/track/6V54jaqja7pxUA6GL4Pgxq) | [Momoe Shimano](https://open.spotify.com/artist/0rMvBGE18xMbehJueZqQUJ) | [5 3 1](https://open.spotify.com/album/2o0eW6zX5c1EnC2Ww73YNk) | 4:59 |
 | 22 | [手紙](https://open.spotify.com/track/3VOrB7FMHUrDH4TI9DjIvs) | [BENNIE K](https://open.spotify.com/artist/198kwzJsDRvjEEroTJKzKu) | [essence](https://open.spotify.com/album/5oWRkFcQ2ru6jEeqIChVWB) | 4:21 |
 | 23 | [Eternal Memories](https://open.spotify.com/track/6pCpIYbnrWOkx7YBuGkCsl) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Eternal Memories](https://open.spotify.com/album/03nmKyFKIKgETpwn5TCRek) | 5:09 |
-| 24 | [After Rain](https://open.spotify.com/track/6aZgxJOcQCacpBSSwQt9Dx) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [Terminal 3](https://open.spotify.com/album/1VWD7epWmb4cR4gHCI2fQC) | 2:55 |
+| 24 | [Wonderland](https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Shade](https://open.spotify.com/album/54Xk8agoEmBJtxl0qMwixB) | 3:44 |
 | 25 | [Lady Soul \(Day\-lite Version\)](https://open.spotify.com/track/2LvTZDycD0ZzlwXuCedIY3) | [ACO](https://open.spotify.com/artist/1G29J8b3UnUFUilGCbUlXf) | [Lady Soul](https://open.spotify.com/album/1wHCBE51BOkm2B54mAxzTg) | 6:34 |
 | 26 | [Moonlight](https://open.spotify.com/track/7gMxXLjM6RvQuNeMxTFf8H) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Sea of Love](https://open.spotify.com/album/6X7MO86uhjtTrUI4HbwYHA) | 3:29 |
 | 27 | [Buddies](https://open.spotify.com/track/5MUtNMkyc3wG8k4Zwzdvmv) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Buddies](https://open.spotify.com/album/6vDY8mPP5fAjhbk5T2reay) | 3:59 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 | 40 | [Changes](https://open.spotify.com/track/7FkCColdGXYdkLZf7HbjK5) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Changes](https://open.spotify.com/album/5qHPDhMOkATOEzV2JSG20B) | 4:24 |
 | 41 | [Slow brew morning](https://open.spotify.com/track/3cTHSRJq34IYP3uadM3UGb) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [Slow brew morning](https://open.spotify.com/album/6HfItavipVgNp1zCSbpBrv) | 2:42 |
 | 42 | [B & C](https://open.spotify.com/track/7zzJVfJqdB2mjNCXRyNCvT) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Movin' on without you](https://open.spotify.com/album/5WjRwt4fHDlU9EzxhowFkS) | 4:19 |
-| 43 | [I'll be there](https://open.spotify.com/track/45wOY8aMv3FgERrGaFxWOd) | [Tina](https://open.spotify.com/artist/72HxMCdKQmPgS3r5OtC01L) | [Colorado](https://open.spotify.com/album/7D3tX9U9qzmr0HOiU3GlB7) | 5:46 |
-| 44 | [no pride](https://open.spotify.com/track/1Wy8HDBwISAY6l97Pm1I9X) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [When was that](https://open.spotify.com/album/3ZQiUTHlL1t3v4tPoQ52PB) | 2:46 |
+| 43 | [no pride](https://open.spotify.com/track/1Wy8HDBwISAY6l97Pm1I9X) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [When was that](https://open.spotify.com/album/3ZQiUTHlL1t3v4tPoQ52PB) | 2:46 |
+| 44 | [I'll be there](https://open.spotify.com/track/45wOY8aMv3FgERrGaFxWOd) | [Tina](https://open.spotify.com/artist/72HxMCdKQmPgS3r5OtC01L) | [Colorado](https://open.spotify.com/album/7D3tX9U9qzmr0HOiU3GlB7) | 5:46 |
 | 45 | [Anytime](https://open.spotify.com/track/4Yplq7B18jCFSyIHGDnbEq) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [ALL YOURS](https://open.spotify.com/album/5caA9xJnnyArusGKB0GsbP) | 4:40 |
 | 46 | [Chosen One](https://open.spotify.com/track/4VZJyx96dNBeRAZnUyNfrB) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7) | [Chosen One](https://open.spotify.com/album/1zamcgFy1aMew8FQBVUS31) | 2:31 |
 | 47 | [GET UP!](https://open.spotify.com/track/6BNAZp8Q2EcAQioytug0mg) | [SOULHEAD](https://open.spotify.com/artist/23XPnlp8nAIDjGf7S9ap3I) | [BRAIDED](https://open.spotify.com/album/1JybQHCd0xADI7rG8QlqgH) | 4:14 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 66303,
+  "num_followers": 66308,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAADW7JLWW0ns6vW3O/zhU2OQ",
+  "snapshot_id": "alGHgAAAAAAWK5tnwAQZ9QzOwOBfij3A",
   "tracks": [
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mediocre",
+        "url": "https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 256640,
+      "name": "Mediocre",
+      "url": "https://open.spotify.com/track/5076rB7ftd19k0jFNhWr7f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EV+",
         "url": "https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 231163,
       "name": "Tus Viejas Cartas",
       "url": "https://open.spotify.com/track/73Tu5nfVKGDMbElhy3uCRt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mediocre",
-        "url": "https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 256640,
-      "name": "Mediocre",
-      "url": "https://open.spotify.com/track/5076rB7ftd19k0jFNhWr7f"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Adolescente",
-        "url": "https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Sophia Perusquia",
-          "url": "https://open.spotify.com/artist/3YmlPJYhKl7hmmOynT0DrX"
-        }
-      ],
-      "duration_ms": 49081,
-      "name": "Sophia",
-      "url": "https://open.spotify.com/track/0MQJCeRaKenhuEN1r6rO2A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Que Se Va",
         "url": "https://open.spotify.com/album/5D7TVjx5cphnUYDw6FZpbW"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 208803,
       "name": "Lo Que Se Va",
       "url": "https://open.spotify.com/track/4PogjAS9lDLn8L5KmqOrft"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Adolescente",
+        "url": "https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Sophia Perusquia",
+          "url": "https://open.spotify.com/artist/3YmlPJYhKl7hmmOynT0DrX"
+        }
+      ],
+      "duration_ms": 49081,
+      "name": "Sophia",
+      "url": "https://open.spotify.com/track/0MQJCeRaKenhuEN1r6rO2A"
     },
     {
       "added_at": null,

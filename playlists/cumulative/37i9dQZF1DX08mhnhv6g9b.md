@@ -2,7 +2,7 @@
 
 ### [This Is BTS](https://open.spotify.com/playlist/37i9dQZF1DX08mhnhv6g9b)
 
-> What track is BTS's Spotify\-exclusive music video coming out on the 19th? Vote now to guess!
+> Did you know that the <a href="https://open.spotify.com/genre/section0JQ5IMCbQBLsvaMndZN0To">BTS NORMAL DAY voting </a> is currently underway? Check out the playlists for each member and vote right now! Your votes will shape the official BTS NORMAL playlist\. Also, something huge will be revealed on the 17th!
 
 561 songs - 1 day 8 hr 51 min
 

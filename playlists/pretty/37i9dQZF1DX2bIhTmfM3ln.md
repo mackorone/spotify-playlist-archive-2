@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > love is in the air...breathe in
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,819 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,826 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 47 | [Yori yori](https://open.spotify.com/track/3J7tMLaRYC6J8b2lBKEalx) | [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl) | [Yori yori](https://open.spotify.com/album/50wmIHgKLfTkZowFcxlKaF) | 2:43 |
 | 48 | [ON YOU \- ii](https://open.spotify.com/track/1L7mx2rrY4CZEN7v7HsJna) | [Timi Dre](https://open.spotify.com/artist/32pQwaIjQrF9MjT4YeoF9Q), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [ON YOU \(ii\)](https://open.spotify.com/album/0pUPU8nToAwF09iTcUNGxH) | 3:25 |
 | 49 | [Luvaluvah](https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:50 |
-| 50 | [Come Slide](https://open.spotify.com/track/75uppmIvjtxiutMdmA8C9c) | [KFMD](https://open.spotify.com/artist/1OjbMcNg4moIhv8nnflAAa), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Come Slide](https://open.spotify.com/album/1w5cLDjyPVMfV1tYbziBk4) | 3:03 |
-| 51 | [Rhythm](https://open.spotify.com/track/33a1uLQRtgOGJDU7DqNsFt) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Kohsea](https://open.spotify.com/artist/14iYghNFfyq3pVyoG3Nb8C), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Rhythm](https://open.spotify.com/album/1VClpB03Mt37rl0ShE07Zf) | 3:16 |
-| 52 | [Romeo and juliet](https://open.spotify.com/track/5qtqBs37uoil2KurOjGGni) | [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl) | [Romeo and juliet](https://open.spotify.com/album/0wMbgIjbepQQTZelXX9v2S) | 2:31 |
+| 50 | [Rhythm](https://open.spotify.com/track/33a1uLQRtgOGJDU7DqNsFt) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Kohsea](https://open.spotify.com/artist/14iYghNFfyq3pVyoG3Nb8C), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Rhythm](https://open.spotify.com/album/1VClpB03Mt37rl0ShE07Zf) | 3:16 |
+| 51 | [Come Slide](https://open.spotify.com/track/75uppmIvjtxiutMdmA8C9c) | [KFMD](https://open.spotify.com/artist/1OjbMcNg4moIhv8nnflAAa), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Come Slide](https://open.spotify.com/album/1w5cLDjyPVMfV1tYbziBk4) | 3:03 |
+| 52 | [Only God Can Save Me](https://open.spotify.com/track/3S3i0KI1QrbRbmdqS5zr9a) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Fuji](https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J) | 2:43 |
 | 53 | [DEARLY](https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [DEARLY](https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w) | 3:01 |
-| 54 | [Only God Can Save Me](https://open.spotify.com/track/3S3i0KI1QrbRbmdqS5zr9a) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Fuji](https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J) | 2:43 |
+| 54 | [Romeo and juliet](https://open.spotify.com/track/5qtqBs37uoil2KurOjGGni) | [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl) | [Romeo and juliet](https://open.spotify.com/album/0wMbgIjbepQQTZelXX9v2S) | 2:31 |
 | 55 | [Pity My Soul](https://open.spotify.com/track/1NOw3SULPNXOPxbacxXlUJ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [SYEMCA](https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa) | [Pity My Soul](https://open.spotify.com/album/7KH2FKeF3Py5WuZ93qf3Hz) | 2:21 |
 | 56 | [Angelina](https://open.spotify.com/track/4HclkElcH5XYdWZNxeuIvn) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Angelina](https://open.spotify.com/album/792yssMtxw2ho4UZl23L4X) | 3:03 |
 | 57 | [Eden](https://open.spotify.com/track/5SQh95sFBi36dAhTGUV5m6) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Love Is a Machinery](https://open.spotify.com/album/2K4Ewhj1JxNbT4WIBStAwC) | 2:43 |

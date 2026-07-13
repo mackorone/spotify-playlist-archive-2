@@ -1,12 +1,12 @@
 {
   "description": "This is Ventino. The essential tracks, all in one playlist.",
-  "num_followers": 29011,
+  "num_followers": 29012,
   "original_name": "This Is Ventino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAB4Y8v45E580XAi1gRYnES1",
+  "snapshot_id": "alGHgAAAAADDmsG+ywdLys3cdrjLw3wM",
   "tracks": [
     {
       "added_at": null,
@@ -211,42 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/6pK8dM0NsFG6TFAtulkSPT"
-      },
-      "artists": [
-        {
-          "name": "Gemeliers",
-          "url": "https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw"
-        },
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 219643,
-      "name": "Duele (feat. Ventino)",
-      "url": "https://open.spotify.com/track/52AClUAz3QrSZA43YB6lTj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ventino",
-        "url": "https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 222480,
-      "name": "Volverte a O\u00edr",
-      "url": "https://open.spotify.com/track/5B1FPJUxjv4e8Juik5ELCd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Pueblo Natal",
         "url": "https://open.spotify.com/album/5oxAkfE2d840jRBDCJxsQ5"
       },
@@ -335,6 +299,42 @@
       "duration_ms": 230662,
       "name": "Mi Pueblo Natal",
       "url": "https://open.spotify.com/track/7JF9ljGd6rn323v4GNt2Mo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ventino",
+        "url": "https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 222480,
+      "name": "Volverte a O\u00edr",
+      "url": "https://open.spotify.com/track/5B1FPJUxjv4e8Juik5ELCd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/6pK8dM0NsFG6TFAtulkSPT"
+      },
+      "artists": [
+        {
+          "name": "Gemeliers",
+          "url": "https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw"
+        },
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 219643,
+      "name": "Duele (feat. Ventino)",
+      "url": "https://open.spotify.com/track/52AClUAz3QrSZA43YB6lTj"
     },
     {
       "added_at": null,
@@ -499,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Noche",
-        "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
       },
       "artists": [
         {
           "name": "Ventino",
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        },
-        {
-          "name": "Rom\u00e1n Torres",
-          "url": "https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg"
         }
       ],
-      "duration_ms": 195488,
-      "name": "Soltar Tu Mano (feat. Rom\u00e1n Torres)",
-      "url": "https://open.spotify.com/track/0PFPvBVuzKoQTVu9jkePzj"
+      "duration_ms": 156027,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc"
     },
     {
       "added_at": null,
@@ -535,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
       },
       "artists": [
         {
           "name": "Ventino",
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Rom\u00e1n Torres",
+          "url": "https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg"
         }
       ],
-      "duration_ms": 156027,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc"
+      "duration_ms": 195488,
+      "name": "Soltar Tu Mano (feat. Rom\u00e1n Torres)",
+      "url": "https://open.spotify.com/track/0PFPvBVuzKoQTVu9jkePzj"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
       "duration_ms": 150650,
       "name": "Bueno Para Mi - Banda Sonora Original De La Serie De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/3GvCjdrQeL1bYb32FelX1F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 179084,
+      "name": "Para Variar",
+      "url": "https://open.spotify.com/track/0YwTlwZc4IcxQW3HqavRwl"
     },
     {
       "added_at": null,
@@ -603,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 179084,
-      "name": "Para Variar",
-      "url": "https://open.spotify.com/track/0YwTlwZc4IcxQW3HqavRwl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
         "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
       },
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para No Esperarte M\u00e1s",
-        "url": "https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6"
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 178295,
-      "name": "Para No Esperarte M\u00e1s",
-      "url": "https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83"
+      "duration_ms": 175887,
+      "name": "Besos De Bar",
+      "url": "https://open.spotify.com/track/18YogXh8QbFtu5p0xCdA5p"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+        "name": "Para No Esperarte M\u00e1s",
+        "url": "https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 171808,
-      "name": "Inevitables",
-      "url": "https://open.spotify.com/track/4JMUQ3AAgymNlyhHkmnpXj"
+      "duration_ms": 178295,
+      "name": "Para No Esperarte M\u00e1s",
+      "url": "https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
       "duration_ms": 158613,
       "name": "Entre Mis Planes - Banda Sonora Original De La Serie De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/4u1nJinarCNYXhbyE9LIb3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 171808,
+      "name": "Inevitables",
+      "url": "https://open.spotify.com/track/4JMUQ3AAgymNlyhHkmnpXj"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 175887,
-      "name": "Besos De Bar",
-      "url": "https://open.spotify.com/track/18YogXh8QbFtu5p0xCdA5p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
         "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
       },
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De 0 a 100",
-        "url": "https://open.spotify.com/album/1LGhGflurGnPJAINGAS7nW"
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 168645,
-      "name": "De 0 a 100",
-      "url": "https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F"
+      "duration_ms": 150356,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0k7bgW9dTHoQTuR3YfJ5h0"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+        "name": "De 0 a 100",
+        "url": "https://open.spotify.com/album/1LGhGflurGnPJAINGAS7nW"
       },
       "artists": [
         {
@@ -824,25 +824,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 150356,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0k7bgW9dTHoQTuR3YfJ5h0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mariposas",
-        "url": "https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 150424,
-      "name": "Mariposas",
-      "url": "https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb"
+      "duration_ms": 168645,
+      "name": "De 0 a 100",
+      "url": "https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F"
     },
     {
       "added_at": null,
@@ -867,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Dejo Entrar",
-        "url": "https://open.spotify.com/album/7Il8qjMFGj4QT1XLih4Qcp"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 192845,
-      "name": "Te Dejo Entrar",
-      "url": "https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inevitables",
         "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
       },
@@ -895,6 +863,38 @@
       "duration_ms": 179311,
       "name": "Dos Tequilas",
       "url": "https://open.spotify.com/track/0orovNGEQw3Uufl1aLV62j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 150424,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Dejo Entrar",
+        "url": "https://open.spotify.com/album/7Il8qjMFGj4QT1XLih4Qcp"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 192845,
+      "name": "Te Dejo Entrar",
+      "url": "https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh"
     },
     {
       "added_at": null,

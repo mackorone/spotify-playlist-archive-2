@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 81191,
+  "num_followers": 81187,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
+        "name": "FBI",
+        "url": "https://open.spotify.com/album/7eAcnI9pwFDR85Q0uxuWdL"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "duration_ms": 152773,
+      "name": "FBI",
+      "url": "https://open.spotify.com/track/5QwJzRYztpLYguELCKWcvV"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
         "name": "Mi Fanatica",
         "url": "https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 223283,
       "name": "Mi Fanatica",
       "url": "https://open.spotify.com/track/4M3UPGNere257tK0Qguga2"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
-        "name": "FBI",
-        "url": "https://open.spotify.com/album/7eAcnI9pwFDR85Q0uxuWdL"
-      },
-      "artists": [
-        {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        }
-      ],
-      "duration_ms": 152773,
-      "name": "FBI",
-      "url": "https://open.spotify.com/track/5QwJzRYztpLYguELCKWcvV"
     },
     {
       "added_at": "2025-09-18 23:00:14",

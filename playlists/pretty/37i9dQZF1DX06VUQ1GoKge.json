@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 552592,
+  "num_followers": 552590,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "on the verge",
-        "url": "https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "on the verge",
-      "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "Nightmare Logic",
         "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 225245,
       "name": "Executioner's Tax (Swing of the Axe)",
       "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "on the verge",
+        "url": "https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "on the verge",
+      "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "Gift (Explicit Version)",
-        "url": "https://open.spotify.com/album/6vPDxNI1I3FFSMmc7MLoDT"
-      },
-      "artists": [
-        {
-          "name": "Taproot",
-          "url": "https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA"
-        }
-      ],
-      "duration_ms": 238213,
-      "name": "Again & Again",
-      "url": "https://open.spotify.com/track/7aHluiddcgODmeZ2rW6dju"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "Persistence Of Time (30th Anniversary Remaster)",
         "url": "https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 428946,
       "name": "Keep It In The Family",
       "url": "https://open.spotify.com/track/6S3oeZ5RKR8Tl9DTPAjGLt"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "Gift (Explicit Version)",
+        "url": "https://open.spotify.com/album/6vPDxNI1I3FFSMmc7MLoDT"
+      },
+      "artists": [
+        {
+          "name": "Taproot",
+          "url": "https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA"
+        }
+      ],
+      "duration_ms": 238213,
+      "name": "Again & Again",
+      "url": "https://open.spotify.com/track/7aHluiddcgODmeZ2rW6dju"
     },
     {
       "added_at": "2025-11-05 11:45:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:0EyWwpunTSY8VHFDCFTkU1">Dossiê de Orí</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,061 likes - 12 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,063 likes - 12 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

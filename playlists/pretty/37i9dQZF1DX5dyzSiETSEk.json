@@ -1,6 +1,6 @@
 {
   "description": "The whole family will enjoy popular hits from yesterday and today!",
-  "num_followers": 574121,
+  "num_followers": 574078,
   "original_name": "Pop for Kids",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-01-05 20:12:51",
       "album": {
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+    },
+    {
+      "added_at": "2026-01-05 20:12:51",
+      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 158040,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
-    },
-    {
-      "added_at": "2026-01-05 20:12:51",
-      "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
     },
     {
       "added_at": "2026-01-05 20:12:51",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-01-05 20:12:51",
       "album": {
-        "name": "More Than Just a Dream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK"
-      },
-      "artists": [
-        {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
-        }
-      ],
-      "duration_ms": 209386,
-      "name": "Out of My League",
-      "url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
-    },
-    {
-      "added_at": "2026-01-05 20:12:51",
-      "album": {
         "name": "Youngblood (Deluxe)",
         "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 203417,
       "name": "Youngblood",
       "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
+    },
+    {
+      "added_at": "2026-01-05 20:12:51",
+      "album": {
+        "name": "More Than Just a Dream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "duration_ms": 209386,
+      "name": "Out of My League",
+      "url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
     },
     {
       "added_at": "2026-01-05 20:12:51",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-01-05 20:12:51",
       "album": {
-        "name": "Mystical Magical",
-        "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 165746,
-      "name": "Mystical Magical",
-      "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
-    },
-    {
-      "added_at": "2026-01-05 20:12:51",
-      "album": {
         "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 163893,
       "name": "You're Welcome",
       "url": "https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24"
+    },
+    {
+      "added_at": "2026-01-05 20:12:51",
+      "album": {
+        "name": "Mystical Magical",
+        "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "Mystical Magical",
+      "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
     },
     {
       "added_at": "2026-01-05 20:12:51",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-01-05 20:12:51",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez & The Scene",
-          "url": "https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO"
-        }
-      ],
-      "duration_ms": 195613,
-      "name": "Who Says",
-      "url": "https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI"
-    },
-    {
-      "added_at": "2026-01-05 20:12:51",
-      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 219200,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
+    },
+    {
+      "added_at": "2026-01-05 20:12:51",
+      "album": {
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez & The Scene",
+          "url": "https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO"
+        }
+      ],
+      "duration_ms": 195613,
+      "name": "Who Says",
+      "url": "https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI"
     },
     {
       "added_at": "2026-01-05 20:12:51",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-01-05 20:12:51",
       "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 274693,
-      "name": "You Say",
-      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
-    },
-    {
-      "added_at": "2026-01-05 20:12:51",
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 113000,
       "name": "Old Town Road",
       "url": "https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH"
+    },
+    {
+      "added_at": "2026-01-05 20:12:51",
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 274693,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
     },
     {
       "added_at": "2026-01-05 20:12:51",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-01-05 20:12:51",
       "album": {
-        "name": "Don't You Worry 'Bout A Thing (From \"Sing\" Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25walIhXLHe6MyWFCT6vNL"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 241386,
-      "name": "Don't You Worry 'Bout A Thing",
-      "url": "https://open.spotify.com/track/3PLyl3Ir75VkGgX0KEehqh"
-    },
-    {
-      "added_at": "2026-01-05 20:12:51",
-      "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 237400,
       "name": "CAN'T STOP THE FEELING! - Film Version",
       "url": "https://open.spotify.com/track/4sQmCQUZcnBPaVm4dEUKv7"
+    },
+    {
+      "added_at": "2026-01-05 20:12:51",
+      "album": {
+        "name": "Don't You Worry 'Bout A Thing (From \"Sing\" Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25walIhXLHe6MyWFCT6vNL"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 241386,
+      "name": "Don't You Worry 'Bout A Thing",
+      "url": "https://open.spotify.com/track/3PLyl3Ir75VkGgX0KEehqh"
     },
     {
       "added_at": "2026-01-05 20:12:51",
@@ -1321,6 +1321,38 @@
       "url": "https://open.spotify.com/track/0mBL2JwjNYKtdFacHxvtJt"
     },
     {
+      "added_at": "2026-07-07 18:06:35",
+      "album": {
+        "name": "Mad - Wicked Wonderland (From \"Descendants: Wicked Wonderland\")",
+        "url": "https://open.spotify.com/album/5Z1aeFFvNtbf7P7CbzGCam"
+      },
+      "artists": [
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        },
+        {
+          "name": "Malia Baker",
+          "url": "https://open.spotify.com/artist/4ALl3aeHX63UVQheaHFdPq"
+        },
+        {
+          "name": "Liamani",
+          "url": "https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v"
+        },
+        {
+          "name": "Descendants \u2013 Cast",
+          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 93916,
+      "name": "Mad - Wicked Wonderland - From \"Descendants: Wicked Wonderland\"",
+      "url": "https://open.spotify.com/track/1GzbaOHvaMnsMO2dhUMb45"
+    },
+    {
       "added_at": "2026-01-05 20:12:51",
       "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
@@ -1363,38 +1395,6 @@
       "duration_ms": 156493,
       "name": "Move Your Feet / D.A.N.C.E. / It's A Sunshine Day",
       "url": "https://open.spotify.com/track/6d3edMXJpns1A0zGKkmlGw"
-    },
-    {
-      "added_at": "2026-07-07 18:06:35",
-      "album": {
-        "name": "Mad - Wicked Wonderland (From \"Descendants: Wicked Wonderland\")",
-        "url": "https://open.spotify.com/album/5Z1aeFFvNtbf7P7CbzGCam"
-      },
-      "artists": [
-        {
-          "name": "Kylie Cantrall",
-          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
-        },
-        {
-          "name": "Malia Baker",
-          "url": "https://open.spotify.com/artist/4ALl3aeHX63UVQheaHFdPq"
-        },
-        {
-          "name": "Liamani",
-          "url": "https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v"
-        },
-        {
-          "name": "Descendants \u2013 Cast",
-          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 93916,
-      "name": "Mad - Wicked Wonderland - From \"Descendants: Wicked Wonderland\"",
-      "url": "https://open.spotify.com/track/1GzbaOHvaMnsMO2dhUMb45"
     },
     {
       "added_at": "2026-01-05 20:12:51",

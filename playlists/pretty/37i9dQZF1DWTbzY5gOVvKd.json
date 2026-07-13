@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1298779,
+  "num_followers": 1298783,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH+OF3Iu/wOpLxk7SSs2EPbZenF0",
+  "snapshot_id": "AAAAAJQ8S3ZsVKoqmkwrMxnUQrpTZxZX",
   "tracks": [
     {
       "added_at": "2026-07-03 08:18:20",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "True Love: A Celebration Of Cole Porter",
-        "url": "https://open.spotify.com/album/0irC2WRtxeSoJ33XpeDwyR"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Mind If I Make Love To You",
-      "url": "https://open.spotify.com/track/40DjEEXkrujfsOjeOwwis0"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
         "name": "First Conversation",
         "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 271773,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
+        "name": "True Love: A Celebration Of Cole Porter",
+        "url": "https://open.spotify.com/album/0irC2WRtxeSoJ33XpeDwyR"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Mind If I Make Love To You",
+      "url": "https://open.spotify.com/track/40DjEEXkrujfsOjeOwwis0"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -879,38 +879,6 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "Here's To You - Songs For Shirley Horn",
-        "url": "https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9rez Montcalm",
-          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
-        }
-      ],
-      "duration_ms": 301533,
-      "name": "A Song For You",
-      "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
-        "name": "On Holiday",
-        "url": "https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8s Fenger",
-          "url": "https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S"
-        }
-      ],
-      "duration_ms": 285866,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
         "name": "The Richard Rodgers Songbook",
         "url": "https://open.spotify.com/album/2nsWi2RA4XDmgOuuMKW87h"
       },
@@ -939,6 +907,38 @@
       "duration_ms": 207409,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/5qwcaOKZbXMze0ChEL4MsX"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
+        "name": "Here's To You - Songs For Shirley Horn",
+        "url": "https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9rez Montcalm",
+          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
+        }
+      ],
+      "duration_ms": 301533,
+      "name": "A Song For You",
+      "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
+        "name": "On Holiday",
+        "url": "https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8s Fenger",
+          "url": "https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S"
+        }
+      ],
+      "duration_ms": 285866,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
+        "name": "That Doesn't Matter",
+        "url": "https://open.spotify.com/album/4k50CU7lgJN6aIAZqjOreg"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "That Doesn't Matter",
+      "url": "https://open.spotify.com/track/451vo0g9vAHXx6tZsWrZ8b"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/2gVd0QcZkUBmJJSD6AL9do"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 185600,
       "name": "Day by Day",
       "url": "https://open.spotify.com/track/7nCLWAwlLfJgg4xDm4qjyA"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
-        "name": "That Doesn't Matter",
-        "url": "https://open.spotify.com/album/4k50CU7lgJN6aIAZqjOreg"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 169386,
-      "name": "That Doesn't Matter",
-      "url": "https://open.spotify.com/track/451vo0g9vAHXx6tZsWrZ8b"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "Laura Benanti",
-        "url": "https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81"
-      },
-      "artists": [
-        {
-          "name": "Laura Benanti",
-          "url": "https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V"
-        }
-      ],
-      "duration_ms": 264653,
-      "name": "Go Slow",
-      "url": "https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
         "name": "I've Been Kicking Myself",
         "url": "https://open.spotify.com/album/0qZYvYJsrTrGUz4XxgMBsq"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 194933,
       "name": "I've Been Kicking Myself",
       "url": "https://open.spotify.com/track/0yllbeI1EJEx9kFn5jVgN2"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
+        "name": "Laura Benanti",
+        "url": "https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81"
+      },
+      "artists": [
+        {
+          "name": "Laura Benanti",
+          "url": "https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V"
+        }
+      ],
+      "duration_ms": 264653,
+      "name": "Go Slow",
+      "url": "https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
+        "name": "Li'l Darlin",
+        "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
+      },
+      "artists": [
+        {
+          "name": "Neal Hefti",
+          "url": "https://open.spotify.com/artist/3IjVHk8Mo8GBMKyHnwmth8"
+        },
+        {
+          "name": "Monica Borrfors",
+          "url": "https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "Li'l Darlin",
+      "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 376085,
       "name": "You Go to My Head",
       "url": "https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
-        "name": "Li'l Darlin",
-        "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
-      },
-      "artists": [
-        {
-          "name": "Neal Hefti",
-          "url": "https://open.spotify.com/artist/3IjVHk8Mo8GBMKyHnwmth8"
-        },
-        {
-          "name": "Monica Borrfors",
-          "url": "https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "Li'l Darlin",
-      "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
     },
     {
       "added_at": "2026-07-03 08:18:20",

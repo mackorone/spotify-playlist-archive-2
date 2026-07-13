@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Carly Rae Jepsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,994 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,000 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,20 +24,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 14 | [If This Is It](https://open.spotify.com/track/2hLx0WFXsTDlts2AX4MPwS) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Concrete](https://open.spotify.com/album/12WmSlyAWcmNEyxz2SyBr0) | 3:18 |
 | 15 | [Otis](https://open.spotify.com/track/15UBUtrFnpS9fcPbil0xzv) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Heart So Open](https://open.spotify.com/album/1r0AuBhbjA8ax7mKTIh1zu) | 2:47 |
 | 16 | [Wish Upon A Sun](https://open.spotify.com/track/74P1WBAgAaY2UgOieoFtkn) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [I understand you sometimes](https://open.spotify.com/album/7zZ19yOpQtttHW3EbP5j6R) | 3:01 |
-| 17 | [Black Lavender \(ft\. Brittney Spencer\)](https://open.spotify.com/track/3AXNE72mnKIkaT3kigz7q9) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Black Lavender \(ft\. Brittney Spencer\)](https://open.spotify.com/album/3Z7VohZSNBdMa3qk67PQ0a) | 3:01 |
-| 18 | [I Haven’t Forgotten You](https://open.spotify.com/track/10dei2pRZz9USduNqb2BsY) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Eternal BAM Nation](https://open.spotify.com/album/5V3JWWxA9uorTR3T5rcSfJ) | 2:24 |
-| 19 | [figure it out](https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [figure it out](https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl) | 2:51 |
-| 20 | [across the line](https://open.spotify.com/track/1HAcWxQUHS5iKhAjW41XH6) | [nowhere else to be](https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw) | [across the line](https://open.spotify.com/album/5BYIa7vnIZKaBPeP63VyDH) | 3:33 |
+| 17 | [I Haven’t Forgotten You](https://open.spotify.com/track/10dei2pRZz9USduNqb2BsY) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Eternal BAM Nation](https://open.spotify.com/album/5V3JWWxA9uorTR3T5rcSfJ) | 2:24 |
+| 18 | [Black Lavender \(ft\. Brittney Spencer\)](https://open.spotify.com/track/3AXNE72mnKIkaT3kigz7q9) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Black Lavender \(ft\. Brittney Spencer\)](https://open.spotify.com/album/3Z7VohZSNBdMa3qk67PQ0a) | 3:01 |
+| 19 | [across the line](https://open.spotify.com/track/1HAcWxQUHS5iKhAjW41XH6) | [nowhere else to be](https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw) | [across the line](https://open.spotify.com/album/5BYIa7vnIZKaBPeP63VyDH) | 3:33 |
+| 20 | [figure it out](https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [figure it out](https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl) | 2:51 |
 | 21 | [Waiting](https://open.spotify.com/track/4ZuWgH2xw0T3vbkHDGchXv) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Overture](https://open.spotify.com/album/173YEGDpbqDZ6FFd5N9oiy) | 2:46 |
-| 22 | [Centerfold](https://open.spotify.com/track/1DZExFaytfOj1iFJW6XbvT) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Centerfold](https://open.spotify.com/album/1tXMKm3r18f0712G4sQKFK) | 3:08 |
+| 22 | [Dancing Nonstop](https://open.spotify.com/track/4T3FFjfzTvVtP7vXHl9CmY) | [SHEBAD](https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK) | [Dancing Nonstop](https://open.spotify.com/album/73oBCUqIN9iqsXdsfEQefi) | 4:33 |
 | 23 | [Another Heartbreak](https://open.spotify.com/track/29CQnZlg4xzTqdaZaYnGZ7) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Another Heartbreak](https://open.spotify.com/album/0PY6nhGDYTVIQdf2XmRFhj) | 3:37 |
-| 24 | [Dancing Nonstop](https://open.spotify.com/track/4T3FFjfzTvVtP7vXHl9CmY) | [SHEBAD](https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK) | [Dancing Nonstop](https://open.spotify.com/album/73oBCUqIN9iqsXdsfEQefi) | 4:33 |
+| 24 | [Centerfold](https://open.spotify.com/track/1DZExFaytfOj1iFJW6XbvT) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Centerfold](https://open.spotify.com/album/1tXMKm3r18f0712G4sQKFK) | 3:08 |
 | 25 | [Schala](https://open.spotify.com/track/0JXEShek5xlpkhJlxSkKOz) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Seda](https://open.spotify.com/artist/0c6JTU2XbJoy79ECLuYw1Q), [ewik\_42](https://open.spotify.com/artist/70gsrdszTQUBnZYoMpk5Hi) | [Schala](https://open.spotify.com/album/53QlNgkCPfFSwyKfBgz0oi) | 3:38 |
 | 26 | [Something Out Of Nothing](https://open.spotify.com/track/1SpUMOyvEtvjWa4xWqFlAv) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [Something Out Of Nothing](https://open.spotify.com/album/5DzYearmFZj5MF36mNJpl2) | 3:26 |
 | 27 | [Summer Breeze](https://open.spotify.com/track/1B5nJYVSGFcD4R1uQOCMPq) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Summer Breeze](https://open.spotify.com/album/0R3REA67N2ODvAdL5REyZy) | 3:15 |
 | 28 | [Where There's Smoke](https://open.spotify.com/track/3XmOtJlidyOhoyzFeifX3s) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Where There's Smoke](https://open.spotify.com/album/15QTGtc7kfICZkfHgw0fYd) | 3:10 |
-| 29 | [Aaliyah](https://open.spotify.com/track/4yH2qoFWpypuS8RE4yubMa) | [The Bankes Brothers](https://open.spotify.com/artist/3O4NBsokz0M9tv0vGzpv4o) | [Aaliyah](https://open.spotify.com/album/6EHIfJvbNSzyWmmYay5zPN) | 2:54 |
-| 30 | [memory hoarder](https://open.spotify.com/track/2NAjsYLwxG8niDkdSwLTnU) | [l i l a](https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi) | [memory hoarder](https://open.spotify.com/album/5M30piph0aBjlKzOBEY2JS) | 3:47 |
+| 29 | [memory hoarder](https://open.spotify.com/track/2NAjsYLwxG8niDkdSwLTnU) | [l i l a](https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi) | [memory hoarder](https://open.spotify.com/album/5M30piph0aBjlKzOBEY2JS) | 3:47 |
+| 30 | [Aaliyah](https://open.spotify.com/track/4yH2qoFWpypuS8RE4yubMa) | [The Bankes Brothers](https://open.spotify.com/artist/3O4NBsokz0M9tv0vGzpv4o) | [Aaliyah](https://open.spotify.com/album/6EHIfJvbNSzyWmmYay5zPN) | 2:54 |
 | 31 | [Making Sense](https://open.spotify.com/track/6lDnwp05Nuth6Ps84DScVn) | [John Shambles](https://open.spotify.com/artist/06I4xBSxNsS6WHTINcKEwl) | [Stragglers I](https://open.spotify.com/album/2epHxmm0GBPyeZ7KFiAdo4) | 4:02 |
 | 32 | [Gold in California](https://open.spotify.com/track/6A8iDAtKZddFTIZjATOCqp) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Gold in California](https://open.spotify.com/album/0OMEpNlaFqVOepQFBzHRAm) | 3:34 |
 | 33 | [two crows](https://open.spotify.com/track/0c9LZHh6EBmE8JZdy2nd1q) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [two crows](https://open.spotify.com/album/1WMsTboGCN24oLXoyYIH2u) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 49 | [222](https://open.spotify.com/track/1JffGbCr4wlGDPf0WPistB) | [Beaux Léon](https://open.spotify.com/artist/18L8wzQmX9vmU7wxW2Bpde) | [Beaux Léon](https://open.spotify.com/album/60yrLtaDquVD28nqR2GLB6) | 3:00 |
 | 50 | [big dog](https://open.spotify.com/track/1KeSvI6TNMd4VUS0FdsFyR) | [bombe](https://open.spotify.com/artist/2nIB3sr0BUuzxwzT0mPzkJ) | [big dog](https://open.spotify.com/album/0YWX331XqcoGeiPjvK9on1) | 2:31 |
 
-Snapshot ID: `AAAAAEWAjE3GwdRzih4yGVF6pk4MucI8`
+Snapshot ID: `AAAAAD/gRP+gTvjzUAsxAl6BLW6sFry1`

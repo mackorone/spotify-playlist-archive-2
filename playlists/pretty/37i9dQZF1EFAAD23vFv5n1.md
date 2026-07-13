@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 87 | [MOSTRO v1](https://open.spotify.com/track/0ZdUODyFd2KvPe1kt9sW7Q) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/1N415WHcfPHdYbqDGh711H) | 3:11 |
 | 88 | [Sad Love](https://open.spotify.com/track/3dln34GJ0WsCKixaM1ZoDV) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [UN\-POPULAR](https://open.spotify.com/album/47GZGkmfz5Ex4NA9Xbr68y) | 2:24 |
 | 89 | [Leave Me!](https://open.spotify.com/track/0UDielSIu8r36UEsKLvSDt) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 2:54 |
-| 90 | [SAMSARA](https://open.spotify.com/track/60BZStD07ZEa4vLNKtRJIW) | [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [SAMSARA](https://open.spotify.com/album/3TWGCXKoSVP8MO8KkwCBd2) | 2:28 |
-| 91 | [Serial Killer](https://open.spotify.com/track/3xqC5Ya3UmVOM4eC6lZA2a) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Serial Killer](https://open.spotify.com/album/2RgVZmru4TcFFq5hyGLGti) | 2:52 |
+| 90 | [Serial Killer](https://open.spotify.com/track/3xqC5Ya3UmVOM4eC6lZA2a) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Serial Killer](https://open.spotify.com/album/2RgVZmru4TcFFq5hyGLGti) | 2:52 |
+| 91 | [SAMSARA](https://open.spotify.com/track/60BZStD07ZEa4vLNKtRJIW) | [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [SAMSARA](https://open.spotify.com/album/3TWGCXKoSVP8MO8KkwCBd2) | 2:28 |
 | 92 | [Sberla](https://open.spotify.com/track/0XPw6ytd9PxgCh1wUWNzqR) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 2:51 |
 | 93 | [PAZZIA v1](https://open.spotify.com/track/2Frf3hOEjo3PpbKtH5ige5) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:51 |
 | 94 | [chissenefrega](https://open.spotify.com/track/3KD0W1cTkKp7L9obShsOSJ) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [11 case](https://open.spotify.com/album/6qOC7izy6HXMCyGF9N29YA) | 2:33 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 159 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 | 160 | [Lo So](https://open.spotify.com/track/1bDgDSlaiBty5VenRsoSPP) | [Valentina](https://open.spotify.com/artist/7hgZDU5UtpRoaWEjfHsliw) | [Io So](https://open.spotify.com/album/57px9qcd6jgsymMSkJ0Rjx) | 3:39 |
 
-Snapshot ID: `AcWmnAAAAABY+4hWPDsjBeFsLSb1Zy6D`
+Snapshot ID: `AcWsPAAAAABTBZn5GqGFoLdlGJ6vemZO`

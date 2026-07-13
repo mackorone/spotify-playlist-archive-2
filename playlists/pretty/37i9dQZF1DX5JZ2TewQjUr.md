@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Lili Forest 木子
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,450 likes - 111 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,451 likes - 111 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Robe y Leiva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,120 likes - 120 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,168 likes - 120 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 39 | [Me has invitado a bailar](https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Me has invitado a bailar](https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp) | 3:12 |
 | 40 | [Eso Que Tú Me Das](https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Tragas o Escupes](https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7) | 3:34 |
 | 41 | [Buscando en la basura](https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Negociando gasolina](https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR) | 3:28 |
-| 42 | [Instrucciones](https://open.spotify.com/track/4eAz4bfY3RjxmOoVXKzIBR) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Instrucciones](https://open.spotify.com/album/7ePSlsRUOUcIUyEP8qla04) | 3:26 |
-| 43 | [TU PROBLEMA](https://open.spotify.com/track/6nvfYRoa8TFba7G4T8wRFg) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [TU PROBLEMA](https://open.spotify.com/album/3fFQHVyV7xs6GiusyTRavq) | 3:44 |
+| 42 | [TU PROBLEMA](https://open.spotify.com/track/6nvfYRoa8TFba7G4T8wRFg) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [TU PROBLEMA](https://open.spotify.com/album/3fFQHVyV7xs6GiusyTRavq) | 3:44 |
+| 43 | [Instrucciones](https://open.spotify.com/track/4eAz4bfY3RjxmOoVXKzIBR) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Instrucciones](https://open.spotify.com/album/7ePSlsRUOUcIUyEP8qla04) | 3:26 |
 | 44 | [El roce de tu cuerpo](https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Muy Deficiente](https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1) | 4:10 |
 | 45 | [Mar adentro](https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:01 |
 | 46 | [Mala Vida](https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX) | [Mano Negra](https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2) | [Patchanka](https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ) | 2:54 |
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 59 | [Vulnerable \(feat\. Dani Fernández\)](https://open.spotify.com/track/2bN4zr5UMnLhdByPFxMwl6) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Vulnerable \(feat\. Dani Fernández\)](https://open.spotify.com/album/6uipZskshJV6txPUJrTFu2) | 3:13 |
 | 60 | [Escuela de Calor](https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [La Ley Del Desierto](https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu) | 3:30 |
 | 61 | [Calle Melancolía](https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Calle Melancolía](https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD) | 6:20 |
-| 62 | [Veinticinco](https://open.spotify.com/track/5ZmVXMkruEitcEJYYL5m0V) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Veinticinco](https://open.spotify.com/album/68gJ7HIyXTJbj1dX9rJwHh) | 2:44 |
-| 63 | [Cigarrito](https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Correos](https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY) | 3:56 |
-| 64 | [Fuimos Felices Aquí](https://open.spotify.com/track/3OPLIc4ivg0ccEV8KXLSE7) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [Hecho En Tiempos De Paz](https://open.spotify.com/album/4exNBd0XUQ8bgkRf8G4awo) | 2:43 |
-| 65 | [Necesito Respirar](https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl), [Francisco Ventura](https://open.spotify.com/artist/6LggnRCQyNaL0zqKnEMsDe), [Manuel Martínez](https://open.spotify.com/artist/6hHsPFPs8O0jq2HpudqjSR) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:29 |
+| 62 | [Cigarrito](https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Correos](https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY) | 3:56 |
+| 63 | [Veinticinco](https://open.spotify.com/track/5ZmVXMkruEitcEJYYL5m0V) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Veinticinco](https://open.spotify.com/album/68gJ7HIyXTJbj1dX9rJwHh) | 2:44 |
+| 64 | [Necesito Respirar](https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl), [Francisco Ventura](https://open.spotify.com/artist/6LggnRCQyNaL0zqKnEMsDe), [Manuel Martínez](https://open.spotify.com/artist/6hHsPFPs8O0jq2HpudqjSR) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:29 |
+| 65 | [Fuimos Felices Aquí](https://open.spotify.com/track/3OPLIc4ivg0ccEV8KXLSE7) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [Hecho En Tiempos De Paz](https://open.spotify.com/album/4exNBd0XUQ8bgkRf8G4awo) | 2:43 |
 | 66 | [Hasta que me quede sin voz](https://open.spotify.com/track/6kQQ1rfAoHNPPi5TAwxZ1v) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Hasta que me quede sin voz](https://open.spotify.com/album/1a9zBNjuot6DwC0KElxQQx) | 5:06 |
 | 67 | [El Limite](https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu) | [La Frontera](https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3) | [La Rosa De Los Vientos](https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT) | 4:35 |
 | 68 | [Veneno en la Piel](https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [Veneno En La Piel](https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O) | 3:45 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 115 | [Abrázame](https://open.spotify.com/track/0rEZBTkZP2Q3c8upkx2WPf) | [Doctor Deseo](https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA) | [Metamorfosis\. En Directo Desde El Teatro Arriaga](https://open.spotify.com/album/5qIHOPv1Ot90WPGIRmsfMr) | 5:29 |
 | 116 | [Salta!!!](https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:10 |
 | 117 | [Pienso en Aquella Tarde](https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 2:53 |
-| 118 | [Quiero tener tu presencia](https://open.spotify.com/track/4oTpt5F428jN5vlCs4o5Yr) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [Las 101 canciones \- Cinco décadas de Pop Español](https://open.spotify.com/album/3v3s1YhnnWUkQnZMotDz5U) | 3:40 |
-| 119 | [Cuando Brille el Sol](https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj) | [La Guardia](https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:43 |
-| 120 | [Llorar y bailar](https://open.spotify.com/track/16ILDUny5QSrCoRmuZ3vaq) | [Lucas Colman](https://open.spotify.com/artist/5fRFBYxLHk3yKoLS59obIq), [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Llorar y bailar](https://open.spotify.com/album/6tVZ8pZHYwtiHTCUdUxCQm) | 3:25 |
+| 118 | [Cuando Brille el Sol](https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj) | [La Guardia](https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:43 |
+| 119 | [Quiero tener tu presencia](https://open.spotify.com/track/4oTpt5F428jN5vlCs4o5Yr) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [Las 101 canciones \- Cinco décadas de Pop Español](https://open.spotify.com/album/3v3s1YhnnWUkQnZMotDz5U) | 3:40 |
+| 120 | [Mundo imperfecto](https://open.spotify.com/track/7hlytak131AgmPYe8JsYws) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Mundo imperfecto](https://open.spotify.com/album/3TLiYmIWEXBfGyLBRd9cud) | 3:08 |
 
 Snapshot ID: `AAAAAEV2xyXpG9dIYxf8JNEGcNIXi+hS`

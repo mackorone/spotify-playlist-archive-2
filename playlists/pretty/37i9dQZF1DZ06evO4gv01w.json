@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 30513,
+  "num_followers": 30514,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAAKHuLlLFUmW/QsPcz3+ayG",
+  "snapshot_id": "alGHgAAAAAA49xpti2EBcTtcxhYud9RV",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Co-Starring",
+        "url": "https://open.spotify.com/album/4vRwOE5KE82xb6n9uQi8ET"
+      },
+      "artists": [
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+        },
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 271678,
+      "name": "Rattlesnake Shakin\u2019 Woman",
+      "url": "https://open.spotify.com/track/4dfRbmnFnT5yjjqHJ4mcdM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Gray House (Original Soundtrack From the Amazon Series)",
         "url": "https://open.spotify.com/album/1AdKCZKrCgn4IALU4grzqO"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 312824,
       "name": "Mad As A Hatter - Live In Concert",
       "url": "https://open.spotify.com/track/26Lb6Egw6V4oXeytVtXhK1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        },
-        {
-          "name": "Tyler Bryant",
-          "url": "https://open.spotify.com/artist/0bTTcuusNCpoWFLnKdNZwC"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "Back Down South (feat. Tyler Bryant)",
-      "url": "https://open.spotify.com/track/5C2mhGbVEmeqFQvenp7z04"
     },
     {
       "added_at": null,
@@ -403,22 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Airline Highway",
-        "url": "https://open.spotify.com/album/4wojnxJ20xjQqZ0Bji3O6F"
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
       "artists": [
         {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        },
-        {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        },
+        {
+          "name": "Tyler Bryant",
+          "url": "https://open.spotify.com/artist/0bTTcuusNCpoWFLnKdNZwC"
         }
       ],
-      "duration_ms": 185844,
-      "name": "Louisiana Sunshine Feeling Okay",
-      "url": "https://open.spotify.com/track/0EPUo3osivqu12WoH2m9IT"
+      "duration_ms": 234866,
+      "name": "Back Down South (feat. Tyler Bryant)",
+      "url": "https://open.spotify.com/track/5C2mhGbVEmeqFQvenp7z04"
     },
     {
       "added_at": null,
@@ -440,7 +440,7 @@
       "added_at": null,
       "album": {
         "name": "Bloom",
-        "url": "https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2"
+        "url": "https://open.spotify.com/album/7G0BrdROBgIMcEbYyelQ71"
       },
       "artists": [
         {
@@ -450,7 +450,27 @@
       ],
       "duration_ms": 240469,
       "name": "Nowhere Fast",
-      "url": "https://open.spotify.com/track/5bYQcKdOXJNYmOS0F08CdM"
+      "url": "https://open.spotify.com/track/0nJR5oxBrPR8XpxIPWMSYy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Airline Highway",
+        "url": "https://open.spotify.com/album/4wojnxJ20xjQqZ0Bji3O6F"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        },
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 185844,
+      "name": "Louisiana Sunshine Feeling Okay",
+      "url": "https://open.spotify.com/track/0EPUo3osivqu12WoH2m9IT"
     },
     {
       "added_at": null,
@@ -475,22 +495,6 @@
       "duration_ms": 232901,
       "name": "God's Gonna Cut You Down (From 'Queen of the Ring - Music From The Motion Picture')",
       "url": "https://open.spotify.com/track/2POvvcjEVwCmxb6cVrRUfs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 131052,
-      "name": "Come on in My Kitchen",
-      "url": "https://open.spotify.com/track/039FJyfiM5h39kpz6VfVAD"
     },
     {
       "added_at": null,
@@ -527,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
       },
       "artists": [
         {
@@ -536,9 +540,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 172282,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/42NhtRt3m866eCGfMVg5BF"
+      "duration_ms": 131052,
+      "name": "Come on in My Kitchen",
+      "url": "https://open.spotify.com/track/039FJyfiM5h39kpz6VfVAD"
     },
     {
       "added_at": null,
@@ -555,6 +559,22 @@
       "duration_ms": 228360,
       "name": "Jailbreak",
       "url": "https://open.spotify.com/track/1AHc7OT7yz3BY9IDDAVD4i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 172282,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/42NhtRt3m866eCGfMVg5BF"
     },
     {
       "added_at": null,
@@ -591,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 193389,
-      "name": "Keep Diggin'",
-      "url": "https://open.spotify.com/track/25unV5ocnBz4kZyhd554PT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kindred Spirits",
         "url": "https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3"
       },
@@ -619,6 +623,22 @@
       "duration_ms": 201526,
       "name": "In The Air Tonight",
       "url": "https://open.spotify.com/track/4LuyzoR1ssL2qFnBaJCZDq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 193389,
+      "name": "Keep Diggin'",
+      "url": "https://open.spotify.com/track/25unV5ocnBz4kZyhd554PT"
     },
     {
       "added_at": null,
@@ -703,18 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
+        "name": "Live From Telluride",
+        "url": "https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z"
       },
       "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 164340,
-      "name": "God Moves On The Water",
-      "url": "https://open.spotify.com/track/6WO209fUKXVhYhUwlJxp9w"
+      "duration_ms": 198040,
+      "name": "Travelin' Light - Live",
+      "url": "https://open.spotify.com/track/5TXhMT91DxzUbOvPQXJOex"
     },
     {
       "added_at": null,
@@ -751,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 164340,
+      "name": "God Moves On The Water",
+      "url": "https://open.spotify.com/track/6WO209fUKXVhYhUwlJxp9w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Venom & Faith",
         "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
       },
@@ -763,26 +803,6 @@
       "duration_ms": 171256,
       "name": "Blue Ridge Mountains",
       "url": "https://open.spotify.com/track/2xRzrAkhWvJJqPKoEJFzSa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live From Telluride",
-        "url": "https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        },
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Travelin' Light - Live",
-      "url": "https://open.spotify.com/track/5TXhMT91DxzUbOvPQXJOex"
     },
     {
       "added_at": null,
@@ -803,22 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Co-Starring",
-        "url": "https://open.spotify.com/album/4vRwOE5KE82xb6n9uQi8ET"
+        "name": "Dirt Does Dylan",
+        "url": "https://open.spotify.com/album/4F0CjdewrCbNZ5k13SOs3T"
       },
       "artists": [
         {
-          "name": "Ray Wylie Hubbard",
-          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
         },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 271678,
-      "name": "Rattlesnake Shakin\u2019 Woman",
-      "url": "https://open.spotify.com/track/4dfRbmnFnT5yjjqHJ4mcdM"
+      "duration_ms": 287643,
+      "name": "I Shall Be Released (feat. Larkin Poe)",
+      "url": "https://open.spotify.com/track/6lmtoNV7S2U8ETrDgjWZaq"
     },
     {
       "added_at": null,
@@ -835,30 +855,6 @@
       "duration_ms": 220796,
       "name": "Every Bird That Flies",
       "url": "https://open.spotify.com/track/2uFyp8aqJyxbtnyYb0ZB8Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Look Up",
-        "url": "https://open.spotify.com/album/0MdReiUZQM3xFZ1RvBKgrt"
-      },
-      "artists": [
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "String Theory",
-      "url": "https://open.spotify.com/track/2ZtOqWd72Bt9hOlSvkiKjI"
     }
   ],
   "unique_name": "This Is Larkin Poe",

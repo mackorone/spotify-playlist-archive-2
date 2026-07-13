@@ -1589,6 +1589,28 @@
     },
     {
       "album": {
+        "name": "Tente Outra Vez",
+        "url": "https://open.spotify.com/album/6MQpLTMlTHjTCatVNIkpoq"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Sebrae Nosso Canto",
+          "url": "https://open.spotify.com/artist/5g96lcZahWMG2d1yrzhQaA"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114196,
+      "name": "Tente Outra Vez",
+      "url": "https://open.spotify.com/track/4kHh90uSeHcEuPfKi3sDxR"
+    },
+    {
+      "album": {
         "name": "THE BOX MEDLEY 12",
         "url": "https://open.spotify.com/album/1UAvKSK9Mc7Euv0HwVej1C"
       },

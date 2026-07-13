@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,502 songs - 21 day 15 hr 32 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,514 songs - 21 day 16 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3024,7 +3024,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 3014 | [Druken Truth](https://open.spotify.com/track/3gdoNzCfHlXZZjlvONGT6D) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Love in Memory](https://open.spotify.com/album/0zVDfnEjSLeIzjk79Fkoih) | 5:20 |
 | 3015 | [감사](https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [기억속의 멜로디](https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi) | 4:45 |
 | 3016 | [기억의 습작](https://open.spotify.com/track/5KxpYTuYK7vGN0cUzAVsZk) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [기억속의 멜로디](https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi) | 5:08 |
-| 3017 | [다시 사랑한다면 \(니글니글 버터플라이\)](https://open.spotify.com/track/3UGHBnuq4cFToHy3JfbFcB) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [Mask Singer 47th \(Live Version\)](https://open.spotify.com/album/1bgMYNZHBOxr8iFd3IQPIK) | 4:02 |
+| 3017 | [다시 사랑한다면 \(니글니글 버터플라이\)](https://open.spotify.com/track/3UGHBnuq4cFToHy3JfbFcB) | [김필](https://open.spotify.com/artist/72n9i25wJmGTdLjMpkwR6k) | [Mask Singer 47th \(Live Version\)](https://open.spotify.com/album/1bgMYNZHBOxr8iFd3IQPIK) | 4:02 |
 | 3018 | [그대안의 블루](https://open.spotify.com/track/45uhaYGq4fOa9xwfLUBkyp) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb), [Lee Sora](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [그대안의 블루 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5r3Z5rLqrPuEDn4Fr92Rz1) | 3:35 |
 | 3019 | [I Think I Did](https://open.spotify.com/track/1WdY5akVTSQ4BgCkOweKwI) | [Kim Hyung Joong](https://open.spotify.com/artist/1jradFWIr4pb2BP15kl3a5) | [Kim Hyung Joong 1](https://open.spotify.com/album/0I71NUDgeVf413S51VmcPN) | 4:30 |
 | 3020 | [비처럼 음악처럼](https://open.spotify.com/track/6zMH0UAFuLt4JXVuEUIygG) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 3집](https://open.spotify.com/album/3Eggr8LCQGMCitwZzzaSbY) | 4:37 |
@@ -8510,5 +8510,17 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8500 | [Hawaii](https://open.spotify.com/track/3uJnPlOypv1S8ySPML4S8H) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 0:57 |
 | 8501 | [Reach Out To The Truth \-First Battle\-](https://open.spotify.com/track/29OHAngqPMvOrDPfl3s9x7) | [平田志穂子](https://open.spotify.com/artist/4PYEhkeRZkSSGCrurjzDrX) | [ペルソナ4 オリジナル・サウンドトラック](https://open.spotify.com/album/78LGjDUuu5dQZRfbrFQ2Ys) | 2:57 |
 | 8502 | [Time to Shine](https://open.spotify.com/track/1cxTovnLTwYuQEex52KuYl) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- The Stellar Moments, Vol\. 3 \(Original Game Soundtrack\)](https://open.spotify.com/album/4alm7dlAhGRBMb21F49YC8) | 2:28 |
+| 8503 | [JUST A DREAM](https://open.spotify.com/track/2e6soczRbcYbU4gzPN3xwk) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15) | [JUST A DREAM](https://open.spotify.com/album/6DJHxnUw0stWUtjKUg9xpy) | 3:09 |
+| 8504 | [Radio](https://open.spotify.com/track/5qvl2kV7sn1Y2wRJlJWjSO) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:40 |
+| 8505 | [Foggy Scenes of a Town Passing By](https://open.spotify.com/track/1x82mzGHG8gDGOknyd9z6S) | [Minuano](https://open.spotify.com/artist/4gBAA2nKYYBUsr01k0EVY4) | [Spring Lovers](https://open.spotify.com/album/5B10Jy0L9Lbks24hqhRC8D) | 4:06 |
+| 8506 | [オープニングテーマ](https://open.spotify.com/track/5XL7vk1qo1oUfmjeqJR45I) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [All About McGuffin](https://open.spotify.com/album/2G5FsWdPfY3zQKRUncRIa4) | 2:41 |
+| 8507 | [散歩](https://open.spotify.com/track/0nSyJPOQCM0g3bCIMoyJmI) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Bakemonogatari Gekihanongakushu \(Original Soundtrack\)](https://open.spotify.com/album/2sEpN2bNZaS8xgpaPDNJej) | 2:24 |
+| 8508 | [デート](https://open.spotify.com/track/3VYBXZHyTcHxCRPMTeQG9j) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Bakemonogatari Gekihanongakushu \(Original Soundtrack\)](https://open.spotify.com/album/2sEpN2bNZaS8xgpaPDNJej) | 1:29 |
+| 8509 | [Camping Night](https://open.spotify.com/track/6gDgCobYBpqjPdwzRTSjo8) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [Persona 5 Strikers: Original Soundtrack](https://open.spotify.com/album/2WZEYrTuMBIo2rYVcm4WHc) | 3:15 |
+| 8510 | [Alleycat](https://open.spotify.com/track/3nodmn9VnmojWWebVUpwff) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 4:10 |
+| 8511 | [Hanging With the Boys](https://open.spotify.com/track/63csh2NELMlx5jn0YVecIM) | [Omori](https://open.spotify.com/artist/6V5j8RQJOFYiD6Pp1SFx85) | [Omori \(Original Game Soundtrack\), Pt\. 2](https://open.spotify.com/album/7pmuSRFBvY0D0tce5dpqdY) | 2:19 |
+| 8512 | [Out of Orbit](https://open.spotify.com/track/3tFDLd2VmLtyFKTsLyac4O) | [Garoad](https://open.spotify.com/artist/1oMOdABcJgXgiplesecR1U) | [VA\-11 Hall\-A: Prologue \(Orignal Soundtrack: Sounds from the Future\)](https://open.spotify.com/album/3m4tfKRhqB9e4Lz5nBDxPh) | 3:16 |
+| 8513 | [雨のち青天](https://open.spotify.com/track/10zauRjTKtpR363FAKz2ea) | [ShibayanRecords](https://open.spotify.com/artist/0h8tSYXnFjmrLdUSGOKNSX) | [TOHO BOSSA NOVA 3](https://open.spotify.com/album/6fwWmCRqBuFXl03lga3yyK) | 3:45 |
+| 8514 | [Desecrated Cathedral](https://open.spotify.com/track/3IXcM1MovXneZmFIPBTjWh) | [グローリー・コーラス・トウキョウ](https://open.spotify.com/artist/2fm3Vj9l9hVd2FQEURGvVV), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Metaphor: ReFantazio Special Soundtrack](https://open.spotify.com/album/4t0OSUQj2rwY3vQnWRYXVm) | 2:12 |
 
-Snapshot ID: `AAAMSc83sgEvuzELRAmlr6xnEhhkQSUN`
+Snapshot ID: `AAAMVydH2VWldHBJz7XgOBISuUFPi7wi`

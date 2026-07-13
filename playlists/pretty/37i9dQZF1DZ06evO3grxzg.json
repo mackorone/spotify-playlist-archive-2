@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 234953,
+  "num_followers": 234931,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAADI6Y2sMibI9ERPLnBP2mPR",
+  "snapshot_id": "alGHgAAAAACBwqNY2yFoFEe2iJCc9UVi",
   "tracks": [
     {
       "added_at": null,
@@ -915,18 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Despu\u00e9s de mucho de no hablar",
-        "url": "https://open.spotify.com/album/7uyEeszHdWmBA7G6EhHaGF"
+        "name": "Energ\u00eda Chimbita",
+        "url": "https://open.spotify.com/album/0xve7Ca19TNkPVwoCXyZQ0"
       },
       "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 157666,
-      "name": "Esa Es Mi Mamita Linda",
-      "url": "https://open.spotify.com/track/11n0fDc4ju3oxVLlYqgTtL"
+      "duration_ms": 167741,
+      "name": "Vuelve, Vuelve",
+      "url": "https://open.spotify.com/track/7F4lqx96eJZvG7fNzv2pKt"
     },
     {
       "added_at": null,
@@ -947,22 +951,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Energ\u00eda Chimbita",
-        "url": "https://open.spotify.com/album/0xve7Ca19TNkPVwoCXyZQ0"
+        "name": "Despu\u00e9s de mucho de no hablar",
+        "url": "https://open.spotify.com/album/7uyEeszHdWmBA7G6EhHaGF"
       },
       "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 167741,
-      "name": "Vuelve, Vuelve",
-      "url": "https://open.spotify.com/track/7F4lqx96eJZvG7fNzv2pKt"
+      "duration_ms": 157666,
+      "name": "Esa Es Mi Mamita Linda",
+      "url": "https://open.spotify.com/track/11n0fDc4ju3oxVLlYqgTtL"
     },
     {
       "added_at": null,

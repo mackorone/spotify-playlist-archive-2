@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,389 songs - 5 day 20 hr 51 min
+2,392 songs - 5 day 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Art Deco Bullet](https://open.spotify.com/track/5342WwQ7HSCwVK9UvrDQjN) | [Aural Nouveau](https://open.spotify.com/artist/0su1VTrnP1IEDCdcsn7C8i) | [Art Deco Bullet](https://open.spotify.com/album/26btOM9uyz0yxGImcstoBO) | 3:32 | 2025-08-08 |  |
 | [Art of Waves](https://open.spotify.com/track/1K6jYliyZPelIN3VMFeADT) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/2eOOYgcPCi9T0lseYWXddj) | [ART of WAVES](https://open.spotify.com/album/2gMOtsag4f3smuL3wb5NJ3) | 3:42 | 2026-03-03 |  |
 | [Art School Dropout](https://open.spotify.com/track/4GOnSEpWwueDwVHDhYzGpN) | [BlessJerz](https://open.spotify.com/artist/4Pony5OsF8zpETNbNqCbLD) | [Montana](https://open.spotify.com/album/0Jzh1BajLYz2xWehUZlvxo) | 1:54 | 2025-11-28 |  |
+| [As Long As You're By My Side](https://open.spotify.com/track/6SlEZck3pbUXIl3vVnX4Ia) | [Thee Phoniques](https://open.spotify.com/artist/4aOlREicgEGbc226Uo05yN) | [Afterglow & Heartbreak](https://open.spotify.com/album/5vw6BIcRFggUB0cpT2kiTf) | 2:46 | 2026-07-12 |  |
 | [Ash Queens Arise](https://open.spotify.com/track/2poe4hybs20gwvtbbMak3V) | [ASH QUEENS](https://open.spotify.com/artist/5gxrqah9KzW1xHCbfK9wCz) | [Ash Queens](https://open.spotify.com/album/3PJt5RtP5WKqKPkWUa3MRa) | 4:09 | 2026-01-04 |  |
 | [Asi Te Quiero](https://open.spotify.com/track/1ovtRibd9A7snHsGZTyrne) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Asi Te Quiero](https://open.spotify.com/album/54bz5FiwFx168Dy9FYw0Es) | 2:19 | 2026-03-12 |  |
 | [ASIDERAL SPACE](https://open.spotify.com/track/24Hwi2MkkwBRg4riBVSEfY) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [YOGYETY & AI](https://open.spotify.com/album/4iXiqES3b6P7toYWq2ZCpd) | 3:28 | 2026-01-07 |  |
@@ -1191,7 +1192,7 @@
 | [LimeTrees](https://open.spotify.com/track/2yCIeEFZXN6US1Z7bUhU2B) | [Corporate Jacket](https://open.spotify.com/artist/3cKSHEN4fLm5jJcKRwGXLo) | [Artifacts](https://open.spotify.com/album/0qvolRFZLkH2f6DvogQEYF) | 3:52 | 2026-05-26 |  |
 | [Lions](https://open.spotify.com/track/40z0lEmiXHyO1Q5RdBxOZa) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Melana](https://open.spotify.com/artist/5Wm3mlWwE7B8OrfjORsAz7) | [From Genesis To Revelation](https://open.spotify.com/album/7CxtjOUUSEPlLgGqFMDqGU) | 3:55 | 2024-05-04 |  |
 | [Lions \- Dub](https://open.spotify.com/track/1Sj0PCApBLd0kPxHxGtJd9) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Melana](https://open.spotify.com/artist/5Wm3mlWwE7B8OrfjORsAz7) | [From Genesis To Revelation](https://open.spotify.com/album/7CxtjOUUSEPlLgGqFMDqGU) | 3:55 | 2024-05-04 |  |
-| [Liquid Bass Conspiracy](https://open.spotify.com/track/4hjhmFMTnWZOChjvRv7Lpj) | [Harmon](https://open.spotify.com/artist/5tBAhHbRM5eqxs963VJ4rC), [Kongo](https://open.spotify.com/artist/5BZIja2U8chUx5Txh1SJZD), [Travis](https://open.spotify.com/artist/7kZvC6IAN4NPYhGqoQd95K) | [Analog Dreams in Digital Times](https://open.spotify.com/album/5F1OlXndPmFIKrt4Y9K44m) | 3:47 | 2025-11-15 |  |
+| [Liquid Bass Conspiracy](https://open.spotify.com/track/4hjhmFMTnWZOChjvRv7Lpj) | [Harmon](https://open.spotify.com/artist/5tBAhHbRM5eqxs963VJ4rC), [Kongo](https://open.spotify.com/artist/5BZIja2U8chUx5Txh1SJZD), [Travis](https://open.spotify.com/artist/7kZvC6IAN4NPYhGqoQd95K) | [Analog Dreams in Digital Times](https://open.spotify.com/album/5F1OlXndPmFIKrt4Y9K44m) | 3:47 | 2025-11-15 | 2026-07-13 |
 | [Listen](https://open.spotify.com/track/77kzqKHULo3dpcAWyOLwOy) | [Elevator Operator](https://open.spotify.com/artist/146hY314HEGttVHczyZf8T) | [Future Self](https://open.spotify.com/album/3gN3dfsigjmVngomnGnXLO) | 3:25 | 2026-04-09 |  |
 | [Listening to the Dawn](https://open.spotify.com/track/1qTcmDLgy2ecIdTRGxI1St) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Listening to the Dawn](https://open.spotify.com/album/0mtQyB7Ki0yKflEUeJDsdN) | 3:01 | 2023-03-15 |  |
 | [Little Breaths of Earth](https://open.spotify.com/track/5zs4FeblB1ADXD1fFqsFeQ) | [Wren West](https://open.spotify.com/artist/74pbT2LPDxbREIa12eMfxU) | [Little Breaths of Earth](https://open.spotify.com/album/5atEREgUaJnYKMWBAtwYFX) | 5:09 | 2026-03-25 |  |
@@ -1674,6 +1675,7 @@
 | [Referencias](https://open.spotify.com/track/0VUrkDJWG8YaANeyrQvLQn) | [Bboy MX](https://open.spotify.com/artist/6jGqdb4tE99BHxntHMCGIT) | [Good Day, Bad Day](https://open.spotify.com/album/0HIAVhH5AlySeZKrD1OGLS) | 3:37 | 2025-06-03 |  |
 | [Reflections](https://open.spotify.com/track/16v0l0g3xNdAnISVz1LUaa) | [Agharahim Gouliyev](https://open.spotify.com/artist/2jVSQXQ6uAfc5JlMIfqZHK) | [Reflections](https://open.spotify.com/album/2MdN0T2s0NyupyAR0H3EuT) | 3:25 | 2025-09-30 |  |
 | [Reflex](https://open.spotify.com/track/0SUo8m7OrzKq1FT4Lp1jeg) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Reflex](https://open.spotify.com/album/6AinmeMcd8GOjhvOpwEKAo) | 3:09 | 2023-03-15 |  |
+| [Reine des Dossiers](https://open.spotify.com/track/1c9fWUHP0cj6ijrzoIpQbZ) | [Sophie Larelle](https://open.spotify.com/artist/2hBLl6JuQNf0UiCbwGVNDF) | [Reine des Dossiers](https://open.spotify.com/album/5CwlhwzuOT5Rp2HdetPWjx) | 3:02 | 2026-07-12 |  |
 | [Relato de tu piel](https://open.spotify.com/track/0nSVNJKx1PWhK6MxAsjXxE) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Líricamente Amor](https://open.spotify.com/album/3ZNUy4vxDoNvswR7IGj78z) | 2:54 | 2026-03-15 |  |
 | [Remember](https://open.spotify.com/track/4DJ063UgLvkGZ8nNLqoFlZ) | [Tony Mack](https://open.spotify.com/artist/72b9qeMiYMI8Lah4zKCkgn) | [Remember](https://open.spotify.com/album/0yvjSuJ4S17zy0sE79Z08g) | 4:52 | 2025-06-02 |  |
 | [Rendezvous](https://open.spotify.com/track/3fNPSzjmkHrgFi5vZoms2f) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Rendezvous](https://open.spotify.com/album/6ePhJl6q6Awru3dpCov0NB) | 2:28 | 2025-08-26 |  |
@@ -1838,6 +1840,7 @@
 | [Silent Reflection](https://open.spotify.com/track/2qMxLBcSgoWXSLpJ8Jcws9) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Silent Reflection](https://open.spotify.com/album/5N9SsUFysyqH3LBtphkl5g) | 2:58 | 2026-02-05 |  |
 | [silhouette](https://open.spotify.com/track/09NzL0ub22tTmCzFdy1XtS) | [LadyBoy](https://open.spotify.com/artist/3EyEQIrSwLWmL5WikGao8Q) | [silhouette](https://open.spotify.com/album/6fPCeSZ7FEeCckpd2h0bqZ) | 3:54 | 2026-01-23 |  |
 | [Silhouettes](https://open.spotify.com/track/7MphGJC5h8kl34V4Nj4aKs) | [Oscat!](https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA) | [Nordic Roots \- Chapter III: Main Character](https://open.spotify.com/album/0LqRGf6Pyb898gHQ8TIQcx) | 4:38 | 2026-04-12 |  |
+| [Silver Mask Tonight](https://open.spotify.com/track/45qm3ABEcnvbb7SnRe6Vw3) | [The Blossom](https://open.spotify.com/artist/44tJA03Gm4xOKdO8FQI9az) | [Silver Mask Tonight](https://open.spotify.com/album/5aR10nMe9P8QSHCWxWNyu0) | 3:08 | 2026-07-12 |  |
 | [Silvera](https://open.spotify.com/track/5uunXHE4kIW6uS4HWAXaOQ) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 3:32 | 2024-03-04 |  |
 | [Simbiosi](https://open.spotify.com/track/2E7Niwt0ctX2UFFFkOHSJy) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Simbiosi](https://open.spotify.com/album/3m9bpUA8SKQlad2VpZM0k4) | 3:09 | 2023-05-21 |  |
 | [Simon](https://open.spotify.com/track/2YkxXQwRIyCO8s0gbFNHVp) | [Christian Hilo](https://open.spotify.com/artist/0FSEh0hzHpwxOOJhGO3QB3) | [Simon](https://open.spotify.com/album/1Yezyrl1mfS7bxvgXARgIs) | 4:02 | 2025-06-24 |  |

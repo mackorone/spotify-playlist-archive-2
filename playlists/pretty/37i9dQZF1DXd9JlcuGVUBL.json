@@ -1,6 +1,6 @@
 {
   "description": "Die beste country musiek. Omslag: Cordelia",
-  "num_followers": 44048,
+  "num_followers": 44064,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,22 @@
     {
       "added_at": "2026-04-17 10:59:38",
       "album": {
-        "name": "Ashes",
-        "url": "https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg"
+        "name": "You Had To Be There (feat. Kenny Chesney)",
+        "url": "https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         },
         {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 183815,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ"
+      "duration_ms": 220157,
+      "name": "You Had To Be There (feat. Kenny Chesney)",
+      "url": "https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb"
     },
     {
       "added_at": "2026-04-17 10:59:38",
@@ -847,22 +847,22 @@
     {
       "added_at": "2026-04-17 10:59:38",
       "album": {
-        "name": "You Had To Be There (feat. Kenny Chesney)",
-        "url": "https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk"
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg"
       },
       "artists": [
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 220157,
-      "name": "You Had To Be There (feat. Kenny Chesney)",
-      "url": "https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb"
+      "duration_ms": 183815,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ"
     }
   ],
   "unique_name": "Country Musiek",

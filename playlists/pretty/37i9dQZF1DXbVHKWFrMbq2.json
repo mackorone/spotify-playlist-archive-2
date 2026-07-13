@@ -1,6 +1,6 @@
 {
   "description": "canciones para chillear con Mon Laferte",
-  "num_followers": 29027,
+  "num_followers": 29025,
   "original_name": "pop tranqui",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
+        "name": "Un Mont\u00f3n de Estrellas",
+        "url": "https://open.spotify.com/album/6GktQHOWaYrgv2ksUaeUx7"
+      },
+      "artists": [
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "Un Mont\u00f3n de Estrellas",
+      "url": "https://open.spotify.com/track/654WSeeGc6ktF9iNcepapj"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
         "name": "mil veces mas",
         "url": "https://open.spotify.com/album/2HfOkfxmNSbTFG0huGbTR9"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 141250,
       "name": "mil veces mas",
       "url": "https://open.spotify.com/track/0Cs5I3C3Ob7ig7voahUUzO"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
-        "name": "Un Mont\u00f3n de Estrellas",
-        "url": "https://open.spotify.com/album/6GktQHOWaYrgv2ksUaeUx7"
-      },
-      "artists": [
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        }
-      ],
-      "duration_ms": 212333,
-      "name": "Un Mont\u00f3n de Estrellas",
-      "url": "https://open.spotify.com/track/654WSeeGc6ktF9iNcepapj"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -971,26 +971,6 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "El Verdadero",
-        "url": "https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt"
-      },
-      "artists": [
-        {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        },
-        {
-          "name": "Julian Kartun",
-          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
-        }
-      ],
-      "duration_ms": 163682,
-      "name": "Antiguo y moderno",
-      "url": "https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
         "name": "SUPERSTICIONES: Remixes",
         "url": "https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 204782,
       "name": "Amores Callejeros - Bolero Remix",
       "url": "https://open.spotify.com/track/4TiuSDziSZ8QClZZYWfOqJ"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
+        "name": "El Verdadero",
+        "url": "https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        },
+        {
+          "name": "Julian Kartun",
+          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
+        }
+      ],
+      "duration_ms": 163682,
+      "name": "Antiguo y moderno",
+      "url": "https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
+        "name": "Superpoder",
+        "url": "https://open.spotify.com/album/1Sr0dAAJgZweMOgrGG2Ui2"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 144272,
+      "name": "Superpoder",
+      "url": "https://open.spotify.com/track/5sMTYHv3AW1aPQGglAEYnL"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
         "name": "Intacto",
         "url": "https://open.spotify.com/album/63hPjuYD7R7DJrZx7Ic4Q8"
       },
@@ -1395,18 +1411,18 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "Superpoder",
-        "url": "https://open.spotify.com/album/1Sr0dAAJgZweMOgrGG2Ui2"
+        "name": "Estrella",
+        "url": "https://open.spotify.com/album/7h1JPC24EIvqeglKgKm8dP"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Ambik",
+          "url": "https://open.spotify.com/artist/4QIM495B5wWD9B24Fsi4aR"
         }
       ],
-      "duration_ms": 144272,
-      "name": "Superpoder",
-      "url": "https://open.spotify.com/track/5sMTYHv3AW1aPQGglAEYnL"
+      "duration_ms": 147500,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/5arlUnESk69UOTh80g3rMZ"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1427,22 +1443,6 @@
       "duration_ms": 159285,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/2vfd6L6TH2H5VHIMV1rBSH"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
-        "name": "Estrella",
-        "url": "https://open.spotify.com/album/7h1JPC24EIvqeglKgKm8dP"
-      },
-      "artists": [
-        {
-          "name": "Ambik",
-          "url": "https://open.spotify.com/artist/4QIM495B5wWD9B24Fsi4aR"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "Estrella",
-      "url": "https://open.spotify.com/track/5arlUnESk69UOTh80g3rMZ"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "al menos esta vez",
-        "url": "https://open.spotify.com/album/04kcMaGoeUfsql1U9IHnI1"
-      },
-      "artists": [
-        {
-          "name": "Mica Sotera",
-          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
-        }
-      ],
-      "duration_ms": 243128,
-      "name": "al menos esta vez",
-      "url": "https://open.spotify.com/track/66gBvl6lnycugddmfIs4dL"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
         "name": "No te apartes de m\u00ed",
         "url": "https://open.spotify.com/album/7mxDP92GMMgat8DyUSHND4"
       },
@@ -1579,6 +1563,22 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
+        "name": "al menos esta vez",
+        "url": "https://open.spotify.com/album/04kcMaGoeUfsql1U9IHnI1"
+      },
+      "artists": [
+        {
+          "name": "Mica Sotera",
+          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
+        }
+      ],
+      "duration_ms": 243128,
+      "name": "al menos esta vez",
+      "url": "https://open.spotify.com/track/66gBvl6lnycugddmfIs4dL"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
         "name": "Guardar",
         "url": "https://open.spotify.com/album/51bFySJK14qeoQc6NBECBj"
       },
@@ -1591,6 +1591,22 @@
       "duration_ms": 179121,
       "name": "Chimenea",
       "url": "https://open.spotify.com/track/7HiJ4XNyZyE6fyRnXzDXLP"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
+        "name": "a todo el mundo le pasa",
+        "url": "https://open.spotify.com/album/5WrnLgPUnxsbfbMHv8Nh5X"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "a todo el mundo le pasa",
+      "url": "https://open.spotify.com/track/5jIZnV4PdKZzA4RoEdrje3"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1615,18 +1631,18 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "a todo el mundo le pasa",
-        "url": "https://open.spotify.com/album/5WrnLgPUnxsbfbMHv8Nh5X"
+        "name": "Entr\u00e9gate",
+        "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
       },
       "artists": [
         {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 211000,
-      "name": "a todo el mundo le pasa",
-      "url": "https://open.spotify.com/track/5jIZnV4PdKZzA4RoEdrje3"
+      "duration_ms": 191232,
+      "name": "Entr\u00e9gate",
+      "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1643,22 +1659,6 @@
       "duration_ms": 178678,
       "name": "Lejos De Todo",
       "url": "https://open.spotify.com/track/09STQVdUiyjoR4b90fqBhU"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
-        "name": "Entr\u00e9gate",
-        "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 191232,
-      "name": "Entr\u00e9gate",
-      "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
     },
     {
       "added_at": "2026-07-03 03:00:43",

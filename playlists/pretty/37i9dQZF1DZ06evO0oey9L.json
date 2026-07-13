@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 100838,
+  "num_followers": 100844,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAADAU8IdIgphE/BCY7Y+PmBw",
+  "snapshot_id": "alGHgAAAAACzQWW5AV7SZF9bKz+xpMbr",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jolly Rancher \u201cLos de la Casa\u201d (En Vivo)",
+        "url": "https://open.spotify.com/album/0JaJMJHnxPKVHVzNiZDICH"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 171743,
+      "name": "Jolly Rancher \u201cLos de la Casa\u201d (En Vivo)",
+      "url": "https://open.spotify.com/track/66cxP4XwyVS4KjPVLFc5UH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Prometido Es Deuda Vol.1",
         "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
       },
@@ -291,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jolly Rancher \u201cLos de la Casa\u201d (En Vivo)",
-        "url": "https://open.spotify.com/album/0JaJMJHnxPKVHVzNiZDICH"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 171743,
-      "name": "Jolly Rancher \u201cLos de la Casa\u201d (En Vivo)",
-      "url": "https://open.spotify.com/track/66cxP4XwyVS4KjPVLFc5UH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Va Por Todos",
         "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
       },
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda Vol.1",
-        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 149350,
-      "name": "La Gente Del Toro",
-      "url": "https://open.spotify.com/track/6ZLaLbmUGycFj1aNjlx2Ul"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Prometido Es Deuda (Vol.3)",
         "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 241424,
       "name": "Cr\u00f3nicas De Mi Guitarra",
       "url": "https://open.spotify.com/track/76ZaecbpNsMJdhoB0LkhJG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.1",
+        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 149350,
+      "name": "La Gente Del Toro",
+      "url": "https://open.spotify.com/track/6ZLaLbmUGycFj1aNjlx2Ul"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda Vol.1",
-        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 228879,
-      "name": "El Dios Del Trueno",
-      "url": "https://open.spotify.com/track/1SCdueIbk9GhV2PVMVKY32"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Prometido Es Deuda (Vol.3)",
         "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 185000,
       "name": "Que Me Va Mal",
       "url": "https://open.spotify.com/track/0fvu7lFdHrY4JTENYgSeoK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.1",
+        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 228879,
+      "name": "El Dios Del Trueno",
+      "url": "https://open.spotify.com/track/1SCdueIbk9GhV2PVMVKY32"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
-        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 184751,
-      "name": "Cuartitos De Libra",
-      "url": "https://open.spotify.com/track/0rewTyKwnWKLcHKbt1XM42"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Prometido Es Deuda (Vol.3)",
         "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 186301,
       "name": "Barrio Xolo",
       "url": "https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 184751,
+      "name": "Cuartitos De Libra",
+      "url": "https://open.spotify.com/track/0rewTyKwnWKLcHKbt1XM42"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
-        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Miran La Apariencia",
-      "url": "https://open.spotify.com/track/3FhARguQQiWEunemrkl3Yh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Prometido Es Deuda (Vol.3)",
         "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 183409,
       "name": "Botas Ariat",
       "url": "https://open.spotify.com/track/5LIs1XTlzRRtHYjKsA9WIx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Miran La Apariencia",
+      "url": "https://open.spotify.com/track/3FhARguQQiWEunemrkl3Yh"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
-        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 197247,
-      "name": "WAX",
-      "url": "https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Prometido Es Deuda (Vol.3)",
         "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 225226,
       "name": "Ya Lo Decid\u00ed",
       "url": "https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 197247,
+      "name": "WAX",
+      "url": "https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Guero",
+        "url": "https://open.spotify.com/album/1KeF2YyOYQz9VSfrJtRXuq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 124331,
+      "name": "El Guero",
+      "url": "https://open.spotify.com/track/56xZRR6LDp1KpIb28RdEwO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Buena Suerte",
         "url": "https://open.spotify.com/album/0pjmst5C79OuNfHXy5rhtH"
       },
@@ -767,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Guero",
-        "url": "https://open.spotify.com/album/1KeF2YyOYQz9VSfrJtRXuq"
+        "name": "Sky Blue",
+        "url": "https://open.spotify.com/album/4QMS2FycPQcit8utfXj1pB"
       },
       "artists": [
         {
@@ -776,9 +792,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 124331,
-      "name": "El Guero",
-      "url": "https://open.spotify.com/track/56xZRR6LDp1KpIb28RdEwO"
+      "duration_ms": 162358,
+      "name": "Sky Blue",
+      "url": "https://open.spotify.com/track/1WV4xGKK8nspiCXhJRxTAK"
     },
     {
       "added_at": null,
@@ -795,22 +811,6 @@
       "duration_ms": 147480,
       "name": "Ni\u00f1as De Revista",
       "url": "https://open.spotify.com/track/36cIzzlI5ZA9MJUnH7vVG7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sky Blue",
-        "url": "https://open.spotify.com/album/4QMS2FycPQcit8utfXj1pB"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 162358,
-      "name": "Sky Blue",
-      "url": "https://open.spotify.com/track/1WV4xGKK8nspiCXhJRxTAK"
     },
     {
       "added_at": null,

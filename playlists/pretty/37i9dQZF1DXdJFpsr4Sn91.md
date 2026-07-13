@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. 🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,960 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,954 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 36 | [Mun vuoro luovuttaa](https://open.spotify.com/track/7rQi8Vc7X68hNyvrNkt1Po) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Mun vuoro luovuttaa](https://open.spotify.com/album/6V6cqP9X5yHqX4r2xea1Wc) | 2:40 |
 | 37 | [Hullu nainen](https://open.spotify.com/track/2G5KUqFFdIQKq0bXsxt4p4) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Hullu nainen](https://open.spotify.com/album/1WBwJFbYM4G9EqEOvBrt8n) | 2:57 |
 | 38 | [Eläköön elämä](https://open.spotify.com/track/5UmUoihlRQHchy2bt59YsL) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv), [Sonja Lumme](https://open.spotify.com/artist/0crt6CiHJXQXnL4zdHmwrS) | [Eläköön elämä](https://open.spotify.com/album/6e01m6cB2ym4pYjW6eRx89) | 3:19 |
-| 39 | [Mustat sunnuntait](https://open.spotify.com/track/1LmOOpRQCtYuCubwh2PoE3) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA), [Aatulove](https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm) | [Mustat sunnuntait](https://open.spotify.com/album/6ImfgFNiEsPVp2ALClyCPt) | 3:03 |
-| 40 | [Stand Back](https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi) | [Jukka Poika](https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn) | [Stand Back](https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe) | 2:45 |
+| 39 | [Stand Back](https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi) | [Jukka Poika](https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn) | [Stand Back](https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe) | 2:45 |
+| 40 | [Mustat sunnuntait](https://open.spotify.com/track/1LmOOpRQCtYuCubwh2PoE3) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA), [Aatulove](https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm) | [Mustat sunnuntait](https://open.spotify.com/album/6ImfgFNiEsPVp2ALClyCPt) | 3:03 |
 | 41 | [Pokaali](https://open.spotify.com/track/2OYNF3qYJmr2LBLTvPCCvR) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Pokaali](https://open.spotify.com/album/2jGLJVeqQ46IhSvb3Ilw40) | 3:07 |
 | 42 | [Viimeiseen tanssiin \(feat\. Juno\)](https://open.spotify.com/track/5edp2II9DgyvE4V9N86PoW) | [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab), [Juno](https://open.spotify.com/artist/5iFuIxdmHNEiGJaR49TLL9) | [Viimeiseen tanssiin \(feat\. Juno\)](https://open.spotify.com/album/1blRhJC5hmsaHEcZ5ux29h) | 3:15 |
 | 43 | [Hei Supermario \(feat\. Samuell\)](https://open.spotify.com/track/3QWM72gaz0yoRobb9A014a) | [DOG HUSTLERS](https://open.spotify.com/artist/3BH7RY390iBJjKx696bIpb), [Samuell](https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV) | [Hei Supermario \(feat\. Samuell\)](https://open.spotify.com/album/3fyr79gc97RFsMlZnefk6Z) | 1:54 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 51 | [en tunne](https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt) | [Ella Herold](https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM) | [en tunne](https://open.spotify.com/album/6cDfwvDCGoGFCPRb5A4FHb) | 3:01 |
 | 52 | [Jussi \(feat\. Jaakko Kulta\)](https://open.spotify.com/track/0QVaSbyIo8jPzrkU5exmE0) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO), [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [2000](https://open.spotify.com/album/5lzkzJ8wSkUqUFSpiTgEDc) | 2:52 |
 | 53 | [Sulhanen](https://open.spotify.com/track/0xbCCH7Gw9AmPBd1deLoDT) | [Aleksanteri Hakaniemi](https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi) | [Sulhanen](https://open.spotify.com/album/5FzkvrMQ05Q46wHqCYZz30) | 2:42 |
-| 54 | [Takas sun luo](https://open.spotify.com/track/24AvVcuQHJg5EkTwOGqkHk) | [JAMIE](https://open.spotify.com/artist/3dnCKPxNARblPEoOW0Qn6a) | [Takas sun luo](https://open.spotify.com/album/4c2OE3BKnHjXIbLv5Ovf7E) | 2:48 |
-| 55 | [Jengi tekee sen virheen](https://open.spotify.com/track/7792JXlYkHSXvk8bPUFUOa) | [Pilven Piirtäjät](https://open.spotify.com/artist/2TXeAvWZHD0hW66yk5SZ2t) | [Jengi tekee sen virheen](https://open.spotify.com/album/5dDfkrgcQ6nkqDiOhVCH96) | 3:00 |
+| 54 | [Jengi tekee sen virheen](https://open.spotify.com/track/7792JXlYkHSXvk8bPUFUOa) | [Pilven Piirtäjät](https://open.spotify.com/artist/2TXeAvWZHD0hW66yk5SZ2t) | [Jengi tekee sen virheen](https://open.spotify.com/album/5dDfkrgcQ6nkqDiOhVCH96) | 3:00 |
+| 55 | [Takas sun luo](https://open.spotify.com/track/24AvVcuQHJg5EkTwOGqkHk) | [JAMIE](https://open.spotify.com/artist/3dnCKPxNARblPEoOW0Qn6a) | [Takas sun luo](https://open.spotify.com/album/4c2OE3BKnHjXIbLv5Ovf7E) | 2:48 |
 | 56 | [Ennen sua](https://open.spotify.com/track/0xb7htv9v9ylxcYI1fOLDR) | [Ollie](https://open.spotify.com/artist/4e9ntSageEujJboJQBXtCd) | [Ennen sua](https://open.spotify.com/album/5pBEiUE07GNnHV5dl4mHdz) | 2:48 |
 | 57 | [Bailarina](https://open.spotify.com/track/6PtNkBOcmmM4Pkn14U2cDk) | [Nenerchy](https://open.spotify.com/artist/1qQ61UfUcWzv32i0XfTfZy) | [Prima bailarina](https://open.spotify.com/album/40TSNJJdAQ5n5m7MvEiedF) | 2:16 |
 | 58 | [Paina play paina stop](https://open.spotify.com/track/6qduNg6PErS5nVtOmL0sVb) | [AB](https://open.spotify.com/artist/76sQrG5TTCfEKDqFhc2zWm) | [Paina play paina stop](https://open.spotify.com/album/3wmjt0zXt7Dy48qPIXElDH) | 2:33 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 71 | [Ketjupoltetaan sillat](https://open.spotify.com/track/004ABECfTtivFJoK2JByoX) | [Lilja Lundén](https://open.spotify.com/artist/0wNcJZGfhunx6ws14pNya1) | [Ketjupoltetaan sillat](https://open.spotify.com/album/4XXjxAEjXD3EmT6ilxQXsb) | 2:40 |
 | 72 | [Se ei ollu minä](https://open.spotify.com/track/6pcFppgbBG2eXOGdRn46kH) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Se ei ollu minä](https://open.spotify.com/album/6lGv5jZ04AmTbHdkv6rEjQ) | 2:10 |
 | 73 | [Rautaa](https://open.spotify.com/track/79D4icNYZNeZ6i53WUN0Qu) | [Petra Gargano](https://open.spotify.com/artist/4TkCzUif7TdJyGpvqyRvQ4) | [Rautaa](https://open.spotify.com/album/4sFlXW6P8GXgZ8oAckX1HO) | 2:40 |
-| 74 | [Rakastan teitä kaikkia](https://open.spotify.com/track/6HVdu7bH9m4IYcxnEY8Htk) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Rakastan teitä kaikkia](https://open.spotify.com/album/07zrgkpshBt5YmV10Hwl9o) | 4:02 |
-| 75 | [Stiigerihai](https://open.spotify.com/track/6MPPUuAmlrMYfotZZmGbcC) | [STIG](https://open.spotify.com/artist/6TKvvwslcx2bKwiX2aBxbd) | [Stiigerihai](https://open.spotify.com/album/0C27iYyPp8qoy9W7dgmCC8) | 2:35 |
-| 76 | [Tee Mulle Mitä Vaan](https://open.spotify.com/track/225v95FOaSABtxkvndBTzk) | [Aston Kalmari](https://open.spotify.com/artist/69vemTfPojDRaDODOJHxAZ), [Johanna von Hertzen](https://open.spotify.com/artist/1vXWdiJwy9Lk0I4MKpRISB) | [Tee Mulle Mitä Vaan](https://open.spotify.com/album/5J5jLCfdxzp2fqbDUzW3Dj) | 3:48 |
-| 77 | [Amarantti](https://open.spotify.com/track/5VylE5YOSWST1VuTpPplEo) | [Coevisto](https://open.spotify.com/artist/6ntNjeOd8U1y1cFSdp6isr) | [Amarantti](https://open.spotify.com/album/5yo5CURDiY0HDFpzQW7skw) | 3:32 |
+| 74 | [Stiigerihai](https://open.spotify.com/track/6MPPUuAmlrMYfotZZmGbcC) | [STIG](https://open.spotify.com/artist/6TKvvwslcx2bKwiX2aBxbd) | [Stiigerihai](https://open.spotify.com/album/0C27iYyPp8qoy9W7dgmCC8) | 2:35 |
+| 75 | [Rakastan teitä kaikkia](https://open.spotify.com/track/6HVdu7bH9m4IYcxnEY8Htk) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Rakastan teitä kaikkia](https://open.spotify.com/album/07zrgkpshBt5YmV10Hwl9o) | 4:02 |
+| 76 | [Amarantti](https://open.spotify.com/track/5VylE5YOSWST1VuTpPplEo) | [Coevisto](https://open.spotify.com/artist/6ntNjeOd8U1y1cFSdp6isr) | [Amarantti](https://open.spotify.com/album/5yo5CURDiY0HDFpzQW7skw) | 3:32 |
+| 77 | [Tee Mulle Mitä Vaan](https://open.spotify.com/track/225v95FOaSABtxkvndBTzk) | [Aston Kalmari](https://open.spotify.com/artist/69vemTfPojDRaDODOJHxAZ), [Johanna von Hertzen](https://open.spotify.com/artist/1vXWdiJwy9Lk0I4MKpRISB) | [Tee Mulle Mitä Vaan](https://open.spotify.com/album/5J5jLCfdxzp2fqbDUzW3Dj) | 3:48 |
 | 78 | [Aerobikki](https://open.spotify.com/track/4iwe9PNipEfC47IgXIwxj9) | [Antti Paalanen](https://open.spotify.com/artist/04v74MPedb2oLX2pUbcC4V) | [Aerobikki](https://open.spotify.com/album/2gtjwgVXc1X5PWDZmmFCQC) | 2:48 |
 | 79 | [Rush](https://open.spotify.com/track/6e8lFyfQyQuA79TuZaHzjv) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Rush](https://open.spotify.com/album/0gJ6JWcDUymLgGvkH5R2Ps) | 3:03 |
-| 80 | [Elämä jatkuu](https://open.spotify.com/track/3Usdxqf4vyIg48MMQXacYt) | [Roosa](https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg) | [Elämä jatkuu](https://open.spotify.com/album/2cEf74hah2exKSN5CL0E5u) | 3:00 |
+| 80 | [Sukupuu](https://open.spotify.com/track/4WeLx4T2Q0CfmzjjhFu2ba) | [TINA](https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm) | [Sukupuu](https://open.spotify.com/album/7DZEDJ2EFQlTDQeJAXhBem) | 3:05 |
 
 Snapshot ID: `AAAAANu59O/T23dol07K4hjDAXS5/U07`

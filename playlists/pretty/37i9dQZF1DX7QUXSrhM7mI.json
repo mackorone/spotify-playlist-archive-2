@@ -1,6 +1,6 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 97048,
+  "num_followers": 97063,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
@@ -137,22 +137,6 @@
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
     },
     {
-      "added_at": "2026-05-12 22:07:33",
-      "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
-    },
-    {
       "added_at": "2026-05-15 19:32:26",
       "album": {
         "name": "Middle of Nowhere",
@@ -167,6 +151,22 @@
       "duration_ms": 223332,
       "name": "Mexico Honey",
       "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
+    },
+    {
+      "added_at": "2026-05-12 22:07:33",
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
     },
     {
       "added_at": "2026-05-12 22:07:33",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
-        "name": "picky choosy",
-        "url": "https://open.spotify.com/album/6TD2tnPDc1FltOgEHw0Hpe"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Jordan",
-          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
-        }
-      ],
-      "duration_ms": 173988,
-      "name": "picky choosy",
-      "url": "https://open.spotify.com/track/3AcYk3jezQA6jc6A64mKw2"
-    },
-    {
-      "added_at": "2026-05-12 22:07:33",
-      "album": {
         "name": "Skippin' Down the Sidewalk",
         "url": "https://open.spotify.com/album/5EJXG3SWsqSvILfDEwuB97"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 200113,
       "name": "Skippin' Down the Sidewalk",
       "url": "https://open.spotify.com/track/730VuZCmpQ0TJCDuRHnqmq"
+    },
+    {
+      "added_at": "2026-05-12 22:07:33",
+      "album": {
+        "name": "picky choosy",
+        "url": "https://open.spotify.com/album/6TD2tnPDc1FltOgEHw0Hpe"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Jordan",
+          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
+        }
+      ],
+      "duration_ms": 173988,
+      "name": "picky choosy",
+      "url": "https://open.spotify.com/track/3AcYk3jezQA6jc6A64mKw2"
     },
     {
       "added_at": "2026-05-12 22:07:33",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
-        "name": "Big Crown Vaults Vol. 2",
-        "url": "https://open.spotify.com/album/6aVMpJwZmdNp7b0eV0rCIZ"
-      },
-      "artists": [
-        {
-          "name": "The Shacks",
-          "url": "https://open.spotify.com/artist/6vqxTQz5ZOfRSQZWfes7mR"
-        }
-      ],
-      "duration_ms": 222670,
-      "name": "Crimson & Clover",
-      "url": "https://open.spotify.com/track/7KHn6MgAIRPozclZCvJ3e2"
-    },
-    {
-      "added_at": "2026-05-12 22:07:33",
-      "album": {
         "name": "Don't Remind Me (with Anderson .Paak)",
         "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 218472,
       "name": "Don't Remind Me (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
+    },
+    {
+      "added_at": "2026-05-12 22:07:33",
+      "album": {
+        "name": "Big Crown Vaults Vol. 2",
+        "url": "https://open.spotify.com/album/6aVMpJwZmdNp7b0eV0rCIZ"
+      },
+      "artists": [
+        {
+          "name": "The Shacks",
+          "url": "https://open.spotify.com/artist/6vqxTQz5ZOfRSQZWfes7mR"
+        }
+      ],
+      "duration_ms": 222670,
+      "name": "Crimson & Clover",
+      "url": "https://open.spotify.com/track/7KHn6MgAIRPozclZCvJ3e2"
     },
     {
       "added_at": "2026-05-12 22:07:33",
@@ -1005,6 +1005,22 @@
       "url": "https://open.spotify.com/track/6JWYMfs0pJdNrf3b6aP5Xu"
     },
     {
+      "added_at": "2026-07-10 04:01:41",
+      "album": {
+        "name": "pretty ruthless",
+        "url": "https://open.spotify.com/album/6qijNpc6Vt4lxkrRHoPL26"
+      },
+      "artists": [
+        {
+          "name": "Macy Todd",
+          "url": "https://open.spotify.com/artist/36LLquZpLrRaGaMRivV2CD"
+        }
+      ],
+      "duration_ms": 200029,
+      "name": "mean!",
+      "url": "https://open.spotify.com/track/3Wbq0xfJFzYE74WBMiqJOH"
+    },
+    {
       "added_at": "2026-05-12 22:07:33",
       "album": {
         "name": "Thank You For A Lovely Time (Raphael Saadiq Version)",
@@ -1035,22 +1051,6 @@
       "duration_ms": 191454,
       "name": "My Kind of Freak",
       "url": "https://open.spotify.com/track/2ObIu129zXkIbMtGdZode0"
-    },
-    {
-      "added_at": "2026-07-10 04:01:41",
-      "album": {
-        "name": "pretty ruthless",
-        "url": "https://open.spotify.com/album/6qijNpc6Vt4lxkrRHoPL26"
-      },
-      "artists": [
-        {
-          "name": "Macy Todd",
-          "url": "https://open.spotify.com/artist/36LLquZpLrRaGaMRivV2CD"
-        }
-      ],
-      "duration_ms": 200029,
-      "name": "mean!",
-      "url": "https://open.spotify.com/track/3Wbq0xfJFzYE74WBMiqJOH"
     },
     {
       "added_at": "2026-05-12 22:07:33",

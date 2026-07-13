@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: L\u00f4 Borges",
-  "num_followers": 355215,
+  "num_followers": 355194,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-07-03 13:11:42",
       "album": {
-        "name": "Eu Venho de Longe",
-        "url": "https://open.spotify.com/album/6TXoief9M9RhmIPA3Qt2iG"
-      },
-      "artists": [
-        {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
-        }
-      ],
-      "duration_ms": 223009,
-      "name": "Eu Venho de Longe",
-      "url": "https://open.spotify.com/track/0xSEIEoggoRmfS2A6GPQDV"
-    },
-    {
-      "added_at": "2026-07-03 13:11:42",
-      "album": {
         "name": "Joyce Alane Ao Vivo no SALA",
         "url": "https://open.spotify.com/album/2uzda75zVsNRfwXi4jAweS"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 190250,
       "name": "Bel\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/6hasWlKd0tNBlGoRFfV3CP"
+    },
+    {
+      "added_at": "2026-07-03 13:11:42",
+      "album": {
+        "name": "Eu Venho de Longe",
+        "url": "https://open.spotify.com/album/6TXoief9M9RhmIPA3Qt2iG"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "duration_ms": 223009,
+      "name": "Eu Venho de Longe",
+      "url": "https://open.spotify.com/track/0xSEIEoggoRmfS2A6GPQDV"
     },
     {
       "added_at": "2026-07-03 13:11:42",
@@ -711,26 +711,6 @@
     {
       "added_at": "2026-07-03 13:11:42",
       "album": {
-        "name": "Sembal",
-        "url": "https://open.spotify.com/album/3jb0i7cPqumhnn9vSJRLiy"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Vicente Barreto",
-          "url": "https://open.spotify.com/artist/5xo48wf1KbbuihtprJtOhb"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "Sembal",
-      "url": "https://open.spotify.com/track/5pJfwJZBwzJDhBP8pKeORU"
-    },
-    {
-      "added_at": "2026-07-03 13:11:42",
-      "album": {
         "name": "dois brilhantes",
         "url": "https://open.spotify.com/album/1jpHvCEDg2UnrNbn3AElPc"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 203311,
       "name": "dois brilhantes",
       "url": "https://open.spotify.com/track/0xWu1OB0Enu0ijsQevX9FF"
+    },
+    {
+      "added_at": "2026-07-03 13:11:42",
+      "album": {
+        "name": "Sembal",
+        "url": "https://open.spotify.com/album/3jb0i7cPqumhnn9vSJRLiy"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Vicente Barreto",
+          "url": "https://open.spotify.com/artist/5xo48wf1KbbuihtprJtOhb"
+        }
+      ],
+      "duration_ms": 212853,
+      "name": "Sembal",
+      "url": "https://open.spotify.com/track/5pJfwJZBwzJDhBP8pKeORU"
     },
     {
       "added_at": "2026-07-03 13:11:42",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-07-03 13:11:42",
       "album": {
-        "name": "Agudo Grave",
-        "url": "https://open.spotify.com/album/1gAuuKvvJk52MwUD5VMcIv"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
-        }
-      ],
-      "duration_ms": 190873,
-      "name": "Agudo Grave",
-      "url": "https://open.spotify.com/track/4TCgBRQyeMEpG7nM7uuk5v"
-    },
-    {
-      "added_at": "2026-07-03 13:11:42",
-      "album": {
         "name": "Abre Alas",
         "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
       },
@@ -1195,22 +1179,18 @@
     {
       "added_at": "2026-07-03 13:11:42",
       "album": {
-        "name": "25 Anos de M\u00fasica",
-        "url": "https://open.spotify.com/album/0VrtUkuZbAvaoL8t6A1NTI"
+        "name": "Agudo Grave",
+        "url": "https://open.spotify.com/album/1gAuuKvvJk52MwUD5VMcIv"
       },
       "artists": [
         {
-          "name": "Gabriel Sater",
-          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
-        },
-        {
-          "name": "Ivan Lins",
-          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
         }
       ],
-      "duration_ms": 220826,
-      "name": "Me Ajuda",
-      "url": "https://open.spotify.com/track/1blOHgDdBpI1BLCqgvZgz0"
+      "duration_ms": 190873,
+      "name": "Agudo Grave",
+      "url": "https://open.spotify.com/track/4TCgBRQyeMEpG7nM7uuk5v"
     },
     {
       "added_at": "2026-07-03 13:11:42",
@@ -1227,6 +1207,26 @@
       "duration_ms": 176235,
       "name": "Contato",
       "url": "https://open.spotify.com/track/1OwwYDOjA2npNkIJjOEGZN"
+    },
+    {
+      "added_at": "2026-07-03 13:11:42",
+      "album": {
+        "name": "25 Anos de M\u00fasica",
+        "url": "https://open.spotify.com/album/0VrtUkuZbAvaoL8t6A1NTI"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Sater",
+          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
+        },
+        {
+          "name": "Ivan Lins",
+          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+        }
+      ],
+      "duration_ms": 220826,
+      "name": "Me Ajuda",
+      "url": "https://open.spotify.com/track/1blOHgDdBpI1BLCqgvZgz0"
     },
     {
       "added_at": "2026-07-03 13:11:42",
@@ -1283,6 +1283,30 @@
     {
       "added_at": "2026-07-03 13:11:42",
       "album": {
+        "name": "F\u00faria",
+        "url": "https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx"
+      },
+      "artists": [
+        {
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        },
+        {
+          "name": "Coral",
+          "url": "https://open.spotify.com/artist/6SzRzynHLo6kgimRw5k3cs"
+        },
+        {
+          "name": "Fervo Unboxing",
+          "url": "https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia"
+        }
+      ],
+      "duration_ms": 193610,
+      "name": "F\u00faria",
+      "url": "https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN"
+    },
+    {
+      "added_at": "2026-07-03 13:11:42",
+      "album": {
         "name": "Pra Saudade (Ao Vivo)",
         "url": "https://open.spotify.com/album/5QbY2a6b6lz0FWKC1PgGHF"
       },
@@ -1323,30 +1347,6 @@
       "duration_ms": 189019,
       "name": "Fealh\u00e1",
       "url": "https://open.spotify.com/track/3sb1yYFxHuPNWDBH499Ut4"
-    },
-    {
-      "added_at": "2026-07-03 13:11:42",
-      "album": {
-        "name": "F\u00faria",
-        "url": "https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx"
-      },
-      "artists": [
-        {
-          "name": "Mari Merenda",
-          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
-        },
-        {
-          "name": "Coral",
-          "url": "https://open.spotify.com/artist/6SzRzynHLo6kgimRw5k3cs"
-        },
-        {
-          "name": "Fervo Unboxing",
-          "url": "https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia"
-        }
-      ],
-      "duration_ms": 193610,
-      "name": "F\u00faria",
-      "url": "https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN"
     },
     {
       "added_at": "2026-07-03 13:11:42",

@@ -1,12 +1,12 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Carly Rae Jepsen",
-  "num_followers": 1994,
+  "num_followers": 2000,
   "original_name": "Editors' Picks: Best Canadian Songs of June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEWAjE3GwdRzih4yGVF6pk4MucI8",
+  "snapshot_id": "AAAAAD/gRP+gTvjzUAsxAl6BLW6sFry1",
   "tracks": [
     {
       "added_at": "2026-07-03 03:21:47",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-07-03 03:21:47",
       "album": {
+        "name": "Eternal BAM Nation",
+        "url": "https://open.spotify.com/album/5V3JWWxA9uorTR3T5rcSfJ"
+      },
+      "artists": [
+        {
+          "name": "Born At Midnite",
+          "url": "https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa"
+        }
+      ],
+      "duration_ms": 144680,
+      "name": "I Haven\u2019t Forgotten You",
+      "url": "https://open.spotify.com/track/10dei2pRZz9USduNqb2BsY"
+    },
+    {
+      "added_at": "2026-07-03 03:21:47",
+      "album": {
         "name": "Black Lavender (ft. Brittney Spencer)",
         "url": "https://open.spotify.com/album/3Z7VohZSNBdMa3qk67PQ0a"
       },
@@ -299,18 +315,18 @@
     {
       "added_at": "2026-07-03 03:21:47",
       "album": {
-        "name": "Eternal BAM Nation",
-        "url": "https://open.spotify.com/album/5V3JWWxA9uorTR3T5rcSfJ"
+        "name": "across the line",
+        "url": "https://open.spotify.com/album/5BYIa7vnIZKaBPeP63VyDH"
       },
       "artists": [
         {
-          "name": "Born At Midnite",
-          "url": "https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa"
+          "name": "nowhere else to be",
+          "url": "https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw"
         }
       ],
-      "duration_ms": 144680,
-      "name": "I Haven\u2019t Forgotten You",
-      "url": "https://open.spotify.com/track/10dei2pRZz9USduNqb2BsY"
+      "duration_ms": 213740,
+      "name": "across the line",
+      "url": "https://open.spotify.com/track/1HAcWxQUHS5iKhAjW41XH6"
     },
     {
       "added_at": "2026-07-03 03:21:47",
@@ -331,22 +347,6 @@
     {
       "added_at": "2026-07-03 03:21:47",
       "album": {
-        "name": "across the line",
-        "url": "https://open.spotify.com/album/5BYIa7vnIZKaBPeP63VyDH"
-      },
-      "artists": [
-        {
-          "name": "nowhere else to be",
-          "url": "https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw"
-        }
-      ],
-      "duration_ms": 213740,
-      "name": "across the line",
-      "url": "https://open.spotify.com/track/1HAcWxQUHS5iKhAjW41XH6"
-    },
-    {
-      "added_at": "2026-07-03 03:21:47",
-      "album": {
         "name": "Overture",
         "url": "https://open.spotify.com/album/173YEGDpbqDZ6FFd5N9oiy"
       },
@@ -363,18 +363,18 @@
     {
       "added_at": "2026-07-03 03:21:47",
       "album": {
-        "name": "Centerfold",
-        "url": "https://open.spotify.com/album/1tXMKm3r18f0712G4sQKFK"
+        "name": "Dancing Nonstop",
+        "url": "https://open.spotify.com/album/73oBCUqIN9iqsXdsfEQefi"
       },
       "artists": [
         {
-          "name": "Andye",
-          "url": "https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj"
+          "name": "SHEBAD",
+          "url": "https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK"
         }
       ],
-      "duration_ms": 188571,
-      "name": "Centerfold",
-      "url": "https://open.spotify.com/track/1DZExFaytfOj1iFJW6XbvT"
+      "duration_ms": 273333,
+      "name": "Dancing Nonstop",
+      "url": "https://open.spotify.com/track/4T3FFjfzTvVtP7vXHl9CmY"
     },
     {
       "added_at": "2026-07-03 03:21:47",
@@ -395,18 +395,18 @@
     {
       "added_at": "2026-07-03 03:21:47",
       "album": {
-        "name": "Dancing Nonstop",
-        "url": "https://open.spotify.com/album/73oBCUqIN9iqsXdsfEQefi"
+        "name": "Centerfold",
+        "url": "https://open.spotify.com/album/1tXMKm3r18f0712G4sQKFK"
       },
       "artists": [
         {
-          "name": "SHEBAD",
-          "url": "https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK"
+          "name": "Andye",
+          "url": "https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj"
         }
       ],
-      "duration_ms": 273333,
-      "name": "Dancing Nonstop",
-      "url": "https://open.spotify.com/track/4T3FFjfzTvVtP7vXHl9CmY"
+      "duration_ms": 188571,
+      "name": "Centerfold",
+      "url": "https://open.spotify.com/track/1DZExFaytfOj1iFJW6XbvT"
     },
     {
       "added_at": "2026-07-03 03:21:47",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-07-03 03:21:47",
       "album": {
-        "name": "Aaliyah",
-        "url": "https://open.spotify.com/album/6EHIfJvbNSzyWmmYay5zPN"
-      },
-      "artists": [
-        {
-          "name": "The Bankes Brothers",
-          "url": "https://open.spotify.com/artist/3O4NBsokz0M9tv0vGzpv4o"
-        }
-      ],
-      "duration_ms": 174147,
-      "name": "Aaliyah",
-      "url": "https://open.spotify.com/track/4yH2qoFWpypuS8RE4yubMa"
-    },
-    {
-      "added_at": "2026-07-03 03:21:47",
-      "album": {
         "name": "memory hoarder",
         "url": "https://open.spotify.com/album/5M30piph0aBjlKzOBEY2JS"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 227352,
       "name": "memory hoarder",
       "url": "https://open.spotify.com/track/2NAjsYLwxG8niDkdSwLTnU"
+    },
+    {
+      "added_at": "2026-07-03 03:21:47",
+      "album": {
+        "name": "Aaliyah",
+        "url": "https://open.spotify.com/album/6EHIfJvbNSzyWmmYay5zPN"
+      },
+      "artists": [
+        {
+          "name": "The Bankes Brothers",
+          "url": "https://open.spotify.com/artist/3O4NBsokz0M9tv0vGzpv4o"
+        }
+      ],
+      "duration_ms": 174147,
+      "name": "Aaliyah",
+      "url": "https://open.spotify.com/track/4yH2qoFWpypuS8RE4yubMa"
     },
     {
       "added_at": "2026-07-03 03:21:47",

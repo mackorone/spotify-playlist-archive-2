@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 
 > Tangueros \- Rockeros, Rockeros \- Tangueros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,716 likes - 45 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,719 likes - 45 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 41 | [Yendo a la Casa de Damián](https://open.spotify.com/track/27JpiXdW4QmLwYQaQYymY2) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Raro](https://open.spotify.com/album/6ZLNLqqFwnoyqrzRxtHEzt) | 4:16 |
 | 42 | [Milonga de la Anunciación](https://open.spotify.com/track/36h5l8FAbtSkVodxPOA8Qt) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Fernando Ruíz Díaz](https://open.spotify.com/artist/4DqWhVhkmy4QC5d32i591c) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:51 |
 | 43 | [Ciudad de los Tangos Sarpados](https://open.spotify.com/track/42aMjiZ6vLYCe7yD8RM0H9) | [Guillermo Fernández](https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J), [Federico Mizrahi](https://open.spotify.com/artist/2L2vj05sMjVY6kh1UEHhjg), [Luis Longhi](https://open.spotify.com/artist/4Cgo07ZCIZW8VnYn2sjflH), [Walter Chino Laborde](https://open.spotify.com/artist/16dxgUOiCDItNawZjRwgOI), [Omar Mollo](https://open.spotify.com/artist/1mgAJTJwXEJYkRdePQ5nEW) | [El Tango Es Puro Cuento](https://open.spotify.com/album/4wee0rFwBNvKpKIWHmhm6c) | 3:16 |
-| 44 | [Yira Yira](https://open.spotify.com/track/4H4UcF9pCpX3vAImo2dBam) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/40WRsRybH7Qnm4WAC3wmBJ) | 3:01 |
-| 45 | [Las Tribus](https://open.spotify.com/track/0Hnne5lFK5ppt6UO4BzYjc) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Martingala](https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc) | 3:45 |
+| 44 | [Tango del Diablo](https://open.spotify.com/track/7ecBAjx1GU25gkqgFkpIGA) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/2TzE5fyGKtTkci8iFNf6zW) | 4:07 |
+| 45 | [Yira Yira](https://open.spotify.com/track/4H4UcF9pCpX3vAImo2dBam) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/40WRsRybH7Qnm4WAC3wmBJ) | 3:01 |
 
 Snapshot ID: `AAAAAC4EaD1ZsgRYufq5fd7W5VYQ+p3J`

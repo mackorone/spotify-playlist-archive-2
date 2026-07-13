@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158450,
+  "num_followers": 158439,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
-        "name": "Favorita",
-        "url": "https://open.spotify.com/album/20rjum05KirLwgB42dOHei"
-      },
-      "artists": [
-        {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Favorita",
-      "url": "https://open.spotify.com/track/3c2ymV9wzu8hN250I8R7EJ"
-    },
-    {
-      "added_at": "2026-06-17 15:55:31",
-      "album": {
         "name": "RASTAFARI",
         "url": "https://open.spotify.com/album/63qxJ2WUYGI97N0litTHEG"
       },
@@ -631,26 +615,18 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
-        "name": "FIM DO NADA",
-        "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
+        "name": "Favorita",
+        "url": "https://open.spotify.com/album/20rjum05KirLwgB42dOHei"
       },
       "artists": [
         {
-          "name": "Mizzy Miles",
-          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
-        },
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
         }
       ],
-      "duration_ms": 196276,
-      "name": "T\u00f3xico (feat. Ivandro & WIU)",
-      "url": "https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh"
+      "duration_ms": 151000,
+      "name": "Favorita",
+      "url": "https://open.spotify.com/track/3c2ymV9wzu8hN250I8R7EJ"
     },
     {
       "added_at": "2026-06-17 15:55:31",
@@ -675,6 +651,30 @@
       "duration_ms": 130285,
       "name": "Jangada",
       "url": "https://open.spotify.com/track/04s5nBXVzrFSmpQYsU1AvH"
+    },
+    {
+      "added_at": "2026-06-17 15:55:31",
+      "album": {
+        "name": "FIM DO NADA",
+        "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 196276,
+      "name": "T\u00f3xico (feat. Ivandro & WIU)",
+      "url": "https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh"
     },
     {
       "added_at": "2026-06-17 15:55:31",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
-        "name": "Ac\u00fastico: Sem Perceber + 4 da Manh\u00e3",
-        "url": "https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR"
-      },
-      "artists": [
-        {
-          "name": "Vitinho",
-          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
-        }
-      ],
-      "duration_ms": 208485,
-      "name": "4 da Manh\u00e3 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
-    },
-    {
-      "added_at": "2026-06-17 15:55:31",
-      "album": {
         "name": "Garotas s\u00e3o Confusas (Deluxe)",
         "url": "https://open.spotify.com/album/5aQcD7w6t6fWkwgbSvU1A7"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 139780,
       "name": "A Festa",
       "url": "https://open.spotify.com/track/77bOpmfngV5UKOWBtKluRf"
+    },
+    {
+      "added_at": "2026-06-17 15:55:31",
+      "album": {
+        "name": "Ac\u00fastico: Sem Perceber + 4 da Manh\u00e3",
+        "url": "https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR"
+      },
+      "artists": [
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        }
+      ],
+      "duration_ms": 208485,
+      "name": "4 da Manh\u00e3 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
     },
     {
       "added_at": "2026-06-17 15:55:31",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
+        "name": "Dias de Luta Dias de Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Dias de Luta Dias de Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
+    },
+    {
+      "added_at": "2026-06-17 15:55:31",
+      "album": {
         "name": "VIRADA DE CHAVE",
         "url": "https://open.spotify.com/album/4UEBroaikJEkW1tGDqGVGL"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 188470,
       "name": "QUARTAS DE CINZA",
       "url": "https://open.spotify.com/track/6469XGbPcTiCKuZxOuvTYP"
-    },
-    {
-      "added_at": "2026-06-17 15:55:31",
-      "album": {
-        "name": "Dias de Luta Dias de Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Dias de Luta Dias de Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
     },
     {
       "added_at": "2026-06-17 15:55:31",

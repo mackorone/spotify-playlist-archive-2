@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 80's! Cover: André Hazes
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,849 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,885 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 36 | [Zwart Wit](https://open.spotify.com/track/2NjUjtsJ7rs40IiQk48j3J) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Het Mooiste & Het Beste](https://open.spotify.com/album/3XiJiFN96NyaWs728epe59) | 3:05 |
 | 37 | [Een Tip Van De Sluier](https://open.spotify.com/track/2akTFtrsRuzFtdpDt4ItJz) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Collected \(1964 \- 2016\)](https://open.spotify.com/album/5bPH5FC8gRqCsVSgoUm5lD) | 4:55 |
 | 38 | [Stiekem Gedanst](https://open.spotify.com/track/3EWjSWS4t4VKsOn6ASlmZx) | [Toontje Lager](https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai) | [Het Allerbeste Van Toontje Lager \(Top 20\)](https://open.spotify.com/album/2QCZ4pO343CgpVyvUNgYNf) | 3:37 |
-| 39 | [Foto Van Vroeger](https://open.spotify.com/track/0uFuy26Esw0CBMAsFya8Im) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Het Beste Van Rob de Nijs](https://open.spotify.com/album/58vsFzEznEkpo2aHRKRzZa) | 4:39 |
-| 40 | [Als Je Wint](https://open.spotify.com/track/2MISpsFh9ThVYR8rYyLcAm) | [Henny Vrienten](https://open.spotify.com/artist/3W6yvJOtMHLNQViXsXAqcH), [Herman Brood](https://open.spotify.com/artist/2wFgBXIgWwnxTU1UsgtGSq) | [Nederpop Hits uit de 80's \- deel 2](https://open.spotify.com/album/17mzba0JG0RAEw821PUTtT) | 3:39 |
+| 39 | [Als Je Wint](https://open.spotify.com/track/2MISpsFh9ThVYR8rYyLcAm) | [Henny Vrienten](https://open.spotify.com/artist/3W6yvJOtMHLNQViXsXAqcH), [Herman Brood](https://open.spotify.com/artist/2wFgBXIgWwnxTU1UsgtGSq) | [Nederpop Hits uit de 80's \- deel 2](https://open.spotify.com/album/17mzba0JG0RAEw821PUTtT) | 3:39 |
+| 40 | [Foto Van Vroeger](https://open.spotify.com/track/0uFuy26Esw0CBMAsFya8Im) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Het Beste Van Rob de Nijs](https://open.spotify.com/album/58vsFzEznEkpo2aHRKRzZa) | 4:39 |
 | 41 | [Dansen Op De Vulkaan](https://open.spotify.com/track/3ME8xqtIl1nHWJIUGP39l9) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Alle 40 Goed](https://open.spotify.com/album/1mUYDIiCsQwg6B7HgxRoIR) | 4:28 |
 | 42 | [Geef Mij Je Angst](https://open.spotify.com/track/77Z1rV0BsUjd3hWNrO80B6) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 4:20 |
 | 43 | [Klap Maar In Je Handen](https://open.spotify.com/track/6qjS0AfAhbVpW122MWHvaR) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [Het Beste Van Peter Koelewijn](https://open.spotify.com/album/5wJr8xACqUiUhBQafHkGB2) | 5:09 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 56 | [Mijn Stad](https://open.spotify.com/track/3NytgJzTuo28YJXP82ys1y) | [Danny De Munk](https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn) | [Mijn Levenslied](https://open.spotify.com/album/1ZsiKqXJH3U7qN6pX3nHme) | 3:11 |
 | 57 | [De Verzonken Stad](https://open.spotify.com/track/67ic5KKc4Q8zPyfuu11VYn) | [Frank](https://open.spotify.com/artist/6FZRvArR9oNmZWraG4rXyI), [Mirella](https://open.spotify.com/artist/35iXe0ysO9vDK2vCESHAbz) | [De Verzonken Stad & Andere Hits](https://open.spotify.com/album/2KDci5Jcw5iP7UEVud2nLV) | 3:49 |
 | 58 | [Pierrot](https://open.spotify.com/track/3vgw77I33tT8m2T0MYbsM2) | [Bonnie St\. Claire](https://open.spotify.com/artist/4241gEqmLtq8iCZybFquzK) | [Favorieten Expres](https://open.spotify.com/album/0tozdNweUVwfbGuQwywE2Q) | 3:14 |
-| 59 | [Ontmoeting](https://open.spotify.com/track/2EK4CN6zYeHuZh8HqHwB4E) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Alle 40 Goed](https://open.spotify.com/album/4EuC8OYvXJPgjFBPM1yZG3) | 4:31 |
-| 60 | [Alles Kan Een Mens Gelukkig Maken \(2007\)](https://open.spotify.com/track/3etYmuPZnHkNoXXP1h8Jd4) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Liefde voor Muziek](https://open.spotify.com/album/6qNtFuFTyYCVEA1a3J3EpI) | 3:29 |
+| 59 | [Alles Kan Een Mens Gelukkig Maken \(2007\)](https://open.spotify.com/track/3etYmuPZnHkNoXXP1h8Jd4) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Liefde voor Muziek](https://open.spotify.com/album/6qNtFuFTyYCVEA1a3J3EpI) | 3:29 |
+| 60 | [Ontmoeting](https://open.spotify.com/track/2EK4CN6zYeHuZh8HqHwB4E) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Alle 40 Goed](https://open.spotify.com/album/4EuC8OYvXJPgjFBPM1yZG3) | 4:31 |
 
 Snapshot ID: `AAAAAKvtRVDVCqDN7Q8lXyY9yARvBWjD`

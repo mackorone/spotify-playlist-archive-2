@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni per un'estate non proprio felice 🥀 TELLMEWISE in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,474 likes - 126 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,468 likes - 126 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

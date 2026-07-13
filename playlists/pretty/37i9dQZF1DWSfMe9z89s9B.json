@@ -1,6 +1,6 @@
 {
   "description": "The new school - Alternative R&B. Cover: Khal!l",
-  "num_followers": 1315964,
+  "num_followers": 1315893,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/76vnbFYXLxoaJq6ee2Q5VM"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "hopeless romantic",
-        "url": "https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 183692,
-      "name": "hopeless romantic",
-      "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
-    },
-    {
       "added_at": "2024-08-23 05:28:40",
       "album": {
         "name": "Lonely Fight",
@@ -1111,6 +1095,22 @@
       "duration_ms": 229169,
       "name": "Lonely Fight",
       "url": "https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD"
+    },
+    {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "hopeless romantic",
+        "url": "https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "hopeless romantic",
+      "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
     },
     {
       "added_at": "2026-04-03 07:16:37",
@@ -1205,22 +1205,6 @@
       "url": "https://open.spotify.com/track/3PXhooQtCnYZXLaWr7KSmG"
     },
     {
-      "added_at": "2025-08-22 10:33:51",
-      "album": {
-        "name": "To Dry a Tear",
-        "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 209589,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq"
-    },
-    {
       "added_at": "2025-07-18 05:45:52",
       "album": {
         "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
@@ -1249,28 +1233,20 @@
       "url": "https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC"
     },
     {
-      "added_at": "2026-06-21 21:45:09",
+      "added_at": "2025-08-22 10:33:51",
       "album": {
-        "name": "Still Be Mine",
-        "url": "https://open.spotify.com/album/1OaQukEK28zS45MdIzuP9g"
+        "name": "To Dry a Tear",
+        "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
       },
       "artists": [
         {
-          "name": "Rory",
-          "url": "https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9"
-        },
-        {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
         }
       ],
-      "duration_ms": 156666,
-      "name": "Still Be Mine",
-      "url": "https://open.spotify.com/track/5NKy0rXZGsuHnVCpuomcul"
+      "duration_ms": 209589,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq"
     },
     {
       "added_at": "2025-06-13 04:00:56",
@@ -1295,18 +1271,26 @@
     {
       "added_at": "2026-06-21 21:45:09",
       "album": {
-        "name": "Go To Hell",
-        "url": "https://open.spotify.com/album/1WtrlQC3TsKAOTlWjxVdkt"
+        "name": "Still Be Mine",
+        "url": "https://open.spotify.com/album/1OaQukEK28zS45MdIzuP9g"
       },
       "artists": [
         {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+          "name": "Rory",
+          "url": "https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9"
+        },
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Go To Hell",
-      "url": "https://open.spotify.com/track/55oEeRm8eGPqQODbj4iE6q"
+      "duration_ms": 156666,
+      "name": "Still Be Mine",
+      "url": "https://open.spotify.com/track/5NKy0rXZGsuHnVCpuomcul"
     },
     {
       "added_at": "2025-09-07 01:24:20",
@@ -1323,6 +1307,22 @@
       "duration_ms": 179342,
       "name": "maple brown",
       "url": "https://open.spotify.com/track/7qJRRPkLoOfjD3vYRrF4T4"
+    },
+    {
+      "added_at": "2026-06-21 21:45:09",
+      "album": {
+        "name": "Go To Hell",
+        "url": "https://open.spotify.com/album/1WtrlQC3TsKAOTlWjxVdkt"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Go To Hell",
+      "url": "https://open.spotify.com/track/55oEeRm8eGPqQODbj4iE6q"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1605,6 +1605,22 @@
       "url": "https://open.spotify.com/track/5Oq6iKIWE3Q1i3G2fES5Oc"
     },
     {
+      "added_at": "2025-08-15 06:41:00",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 103743,
+      "name": "(Freak It)",
+      "url": "https://open.spotify.com/track/0s2C8FeHf0OBmphIk8jXsE"
+    },
+    {
       "added_at": "2026-03-06 06:14:13",
       "album": {
         "name": "Flood / Glow",
@@ -1623,22 +1639,6 @@
       "duration_ms": 179586,
       "name": "Flood (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2L8V5ufkP4ZzBBqjVBE2SW"
-    },
-    {
-      "added_at": "2025-08-15 06:41:00",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 103743,
-      "name": "(Freak It)",
-      "url": "https://open.spotify.com/track/0s2C8FeHf0OBmphIk8jXsE"
     },
     {
       "added_at": "2024-09-27 23:55:30",
@@ -1705,22 +1705,6 @@
       "url": "https://open.spotify.com/track/2aqq3bVljZMbwGuzYaf4om"
     },
     {
-      "added_at": "2026-06-21 21:45:09",
-      "album": {
-        "name": "Recognize",
-        "url": "https://open.spotify.com/album/4OftHn7uy80P3yWxjjq4zp"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 125278,
-      "name": "Recognize",
-      "url": "https://open.spotify.com/track/2p9s2lLeEwanBH1L5iDiA0"
-    },
-    {
       "added_at": "2024-10-26 03:32:36",
       "album": {
         "name": "The Drive Home",
@@ -1735,6 +1719,22 @@
       "duration_ms": 143102,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/0nmIWoirK2cbSD9duTDQJa"
+    },
+    {
+      "added_at": "2026-06-21 21:45:09",
+      "album": {
+        "name": "Recognize",
+        "url": "https://open.spotify.com/album/4OftHn7uy80P3yWxjjq4zp"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 125278,
+      "name": "Recognize",
+      "url": "https://open.spotify.com/track/2p9s2lLeEwanBH1L5iDiA0"
     },
     {
       "added_at": "2025-10-25 02:54:19",
@@ -1889,6 +1889,26 @@
       "url": "https://open.spotify.com/track/7B0q3mDuGbjOz8J6DtFQOG"
     },
     {
+      "added_at": "2025-02-07 08:30:49",
+      "album": {
+        "name": "WONDERLOVE",
+        "url": "https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 184227,
+      "name": "LUV IN DA 6 (with Smino)",
+      "url": "https://open.spotify.com/track/5rt9HY56cN2Ke1vLCLQEpz"
+    },
+    {
       "added_at": "2025-03-28 04:00:52",
       "album": {
         "name": "10 songs",
@@ -1925,58 +1945,6 @@
       "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
     },
     {
-      "added_at": "2025-02-07 08:30:49",
-      "album": {
-        "name": "WONDERLOVE",
-        "url": "https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 184227,
-      "name": "LUV IN DA 6 (with Smino)",
-      "url": "https://open.spotify.com/track/5rt9HY56cN2Ke1vLCLQEpz"
-    },
-    {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "Y PREE",
-        "url": "https://open.spotify.com/album/1ljEpxoPi9HmA2ci7U13kv"
-      },
-      "artists": [
-        {
-          "name": "H.LLS",
-          "url": "https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD"
-        }
-      ],
-      "duration_ms": 140870,
-      "name": "Y PREE",
-      "url": "https://open.spotify.com/track/3vmeYOaZkDAun6Vcri9Yeu"
-    },
-    {
-      "added_at": "2024-06-28 18:42:06",
-      "album": {
-        "name": "ACCELERATOR",
-        "url": "https://open.spotify.com/album/3h1UIz988QtS6gjJciFVSu"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 228003,
-      "name": "STRANGER",
-      "url": "https://open.spotify.com/track/7yuWa5XIv2HqqZsbigXZOZ"
-    },
-    {
       "added_at": "2024-10-20 00:14:41",
       "album": {
         "name": "Wildflowers",
@@ -2007,6 +1975,38 @@
       "duration_ms": 218918,
       "name": "raindance",
       "url": "https://open.spotify.com/track/127BebV29M41FmJqcl8k20"
+    },
+    {
+      "added_at": "2024-06-28 18:42:06",
+      "album": {
+        "name": "ACCELERATOR",
+        "url": "https://open.spotify.com/album/3h1UIz988QtS6gjJciFVSu"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 228003,
+      "name": "STRANGER",
+      "url": "https://open.spotify.com/track/7yuWa5XIv2HqqZsbigXZOZ"
+    },
+    {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "Y PREE",
+        "url": "https://open.spotify.com/album/1ljEpxoPi9HmA2ci7U13kv"
+      },
+      "artists": [
+        {
+          "name": "H.LLS",
+          "url": "https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD"
+        }
+      ],
+      "duration_ms": 140870,
+      "name": "Y PREE",
+      "url": "https://open.spotify.com/track/3vmeYOaZkDAun6Vcri9Yeu"
     },
     {
       "added_at": "2025-09-07 01:24:20",
@@ -2043,6 +2043,22 @@
       "duration_ms": 220562,
       "name": "Ken Doll",
       "url": "https://open.spotify.com/track/5cecqx5yqGOrtBADz9YNza"
+    },
+    {
+      "added_at": "2026-05-08 06:11:38",
+      "album": {
+        "name": "Rest of Your Life",
+        "url": "https://open.spotify.com/album/1kqqUsAXIPd4gHNQnus7AY"
+      },
+      "artists": [
+        {
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "Rest of Your Life",
+      "url": "https://open.spotify.com/track/6aXp5uzptSa56dRBZDp7gG"
     },
     {
       "added_at": "2024-06-07 12:28:44",
@@ -2099,22 +2115,6 @@
       "duration_ms": 407765,
       "name": "Cumulus / Memory",
       "url": "https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb"
-    },
-    {
-      "added_at": "2026-05-08 06:11:38",
-      "album": {
-        "name": "Rest of Your Life",
-        "url": "https://open.spotify.com/album/1kqqUsAXIPd4gHNQnus7AY"
-      },
-      "artists": [
-        {
-          "name": "Dahi",
-          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "Rest of Your Life",
-      "url": "https://open.spotify.com/track/6aXp5uzptSa56dRBZDp7gG"
     },
     {
       "added_at": "2025-04-11 05:53:52",
@@ -2265,22 +2265,6 @@
       "url": "https://open.spotify.com/track/02ugxIQUj0KZpugZqPzq67"
     },
     {
-      "added_at": "2026-04-03 07:16:37",
-      "album": {
-        "name": "THE DANGER",
-        "url": "https://open.spotify.com/album/457TT3OqecApiXp4S5MdUY"
-      },
-      "artists": [
-        {
-          "name": "Khal!l",
-          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
-        }
-      ],
-      "duration_ms": 119500,
-      "name": "THE DANGER",
-      "url": "https://open.spotify.com/track/2tuUWtr4zhmkFy2C8vViv0"
-    },
-    {
       "added_at": "2025-10-17 06:22:08",
       "album": {
         "name": "Closer Than Close",
@@ -2331,6 +2315,22 @@
       "duration_ms": 240912,
       "name": "intention 4 u",
       "url": "https://open.spotify.com/track/4Xn4gMIwy5bpgbE7HAOKTq"
+    },
+    {
+      "added_at": "2026-04-03 07:16:37",
+      "album": {
+        "name": "THE DANGER",
+        "url": "https://open.spotify.com/album/457TT3OqecApiXp4S5MdUY"
+      },
+      "artists": [
+        {
+          "name": "Khal!l",
+          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
+        }
+      ],
+      "duration_ms": 119500,
+      "name": "THE DANGER",
+      "url": "https://open.spotify.com/track/2tuUWtr4zhmkFy2C8vViv0"
     },
     {
       "added_at": "2025-04-04 04:43:43",
@@ -2385,22 +2385,6 @@
       "url": "https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL"
     },
     {
-      "added_at": "2025-10-25 02:54:19",
-      "album": {
-        "name": "THAT'S MY...",
-        "url": "https://open.spotify.com/album/53tdq4fgJdOvP0FWV98Qom"
-      },
-      "artists": [
-        {
-          "name": "Noah Guy",
-          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
-        }
-      ],
-      "duration_ms": 182325,
-      "name": "THAT'S MY...",
-      "url": "https://open.spotify.com/track/1MAKhZHljHK1Rz25RHrwVP"
-    },
-    {
       "added_at": "2024-09-13 09:09:19",
       "album": {
         "name": "Pointy Heights",
@@ -2415,6 +2399,22 @@
       "duration_ms": 123466,
       "name": "do you have a soul?",
       "url": "https://open.spotify.com/track/06nHXSt8RPzvdiXNrz3Ocv"
+    },
+    {
+      "added_at": "2025-10-25 02:54:19",
+      "album": {
+        "name": "THAT'S MY...",
+        "url": "https://open.spotify.com/album/53tdq4fgJdOvP0FWV98Qom"
+      },
+      "artists": [
+        {
+          "name": "Noah Guy",
+          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
+        }
+      ],
+      "duration_ms": 182325,
+      "name": "THAT'S MY...",
+      "url": "https://open.spotify.com/track/1MAKhZHljHK1Rz25RHrwVP"
     },
     {
       "added_at": "2025-05-02 04:00:39",
@@ -2529,22 +2529,6 @@
       "url": "https://open.spotify.com/track/2fnncxuCtOF4I2ym9lmvuK"
     },
     {
-      "added_at": "2026-04-17 06:06:32",
-      "album": {
-        "name": "Fidelity",
-        "url": "https://open.spotify.com/album/4gT5itNBVYzC9jcgMvvOUa"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 206907,
-      "name": "Forty Days",
-      "url": "https://open.spotify.com/track/12fSlzhqUDqnrZnA50Y617"
-    },
-    {
       "added_at": "2024-06-14 07:30:32",
       "album": {
         "name": "DOPAMINE",
@@ -2563,6 +2547,22 @@
       "duration_ms": 190412,
       "name": "Tantrums (feat. James Blake)",
       "url": "https://open.spotify.com/track/13emOZj9lqqVJg4JJ7ABBi"
+    },
+    {
+      "added_at": "2026-04-17 06:06:32",
+      "album": {
+        "name": "Fidelity",
+        "url": "https://open.spotify.com/album/4gT5itNBVYzC9jcgMvvOUa"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 206907,
+      "name": "Forty Days",
+      "url": "https://open.spotify.com/track/12fSlzhqUDqnrZnA50Y617"
     },
     {
       "added_at": "2024-09-13 09:09:19",

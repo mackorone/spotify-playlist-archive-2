@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,610 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,611 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 22 | [misery.](https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY) | [pupsies](https://open.spotify.com/artist/0Uo0W0Vfq9ZOLCFngwxOLm) | [misery.](https://open.spotify.com/album/6QJfoSZuiyqoKXXIXMyYO2) | 2:46 |
 | 23 | [they don’t know ’bout us](https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:44 |
 | 24 | [распять](https://open.spotify.com/track/3pUbDaO5cBfRCZHxSCVMh8) | [greyrock](https://open.spotify.com/artist/3Z2TLso4pM7QrgMgkKVPZB), [tewiq](https://open.spotify.com/artist/48nrvNpJ4gcgWyvheEGg0L), [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt) | [распять](https://open.spotify.com/album/3hzcccGZBceumBuBtCNP6P) | 1:59 |
-| 25 | [Нон стоп](https://open.spotify.com/track/2nmRH8nkluAFr3qI1ryavs) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/68cjRurvUJS5KYJdZL9ckS) | 3:33 |
-| 26 | [Супермаркет](https://open.spotify.com/track/0e7fQFxNi91TGwf0ezB8qj) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/68cjRurvUJS5KYJdZL9ckS) | 3:34 |
+| 25 | [Нон стоп](https://open.spotify.com/track/3uMUdlo47oEes3kgL4T4EC) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:33 |
+| 26 | [Супермаркет](https://open.spotify.com/track/5UW6yvwo3nVA609NgprdhK) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:34 |
 | 27 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 28 | [ток](https://open.spotify.com/track/7hcbP4H4irpWZzIm5IYr9w) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [новый альбом про любовь](https://open.spotify.com/album/0x7xXGfXiAEpbOwzRFNBuo) | 2:53 |
 | 29 | [sleep mode](https://open.spotify.com/track/2kPuQ8BYGdJglM9aFX9pA0) | [ONDA ANDAR](https://open.spotify.com/artist/2gGvBjb55mnnbQO2gNQSLo) | [KIDSCRY2DAY](https://open.spotify.com/album/17VXPSQGscJVeoCKpWqNW6) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Sometimes](https://open.spotify.com/track/5PigCfYuaTai3cDdVZU4nL) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Mirages](https://open.spotify.com/album/40AfbK7kPIClq6ixLA3Zpe) | 3:29 |
 | 50 | [Каждый раз](https://open.spotify.com/track/4IjiY0sShCYUEEoOSEwsgY) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Раскраски для взрослых](https://open.spotify.com/album/5dyKK0BGb0LrmIQVdB0ssA) | 3:28 |
 
-Snapshot ID: `MeWxoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MecDIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

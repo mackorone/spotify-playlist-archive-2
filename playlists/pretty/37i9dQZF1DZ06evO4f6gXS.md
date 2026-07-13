@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 
 > This is The Jones Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,627 likes - 45 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,626 likes - 45 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 | 13 | [Knockin'](https://open.spotify.com/track/4DGWf5ehVZquFQmU3KfWl4) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 5:04 |
 | 14 | [I'm At Your Mercy](https://open.spotify.com/track/7BhOkKfnWoMoisAN6bQIuR) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 4:48 |
 | 15 | [\(I Found\) That Man of Mine](https://open.spotify.com/track/4ykwkuk4VAGCCF82pMadSE) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:09 |
-| 16 | [At Peace with Woman](https://open.spotify.com/track/1tPi18dFRENazurH44N1AT) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 4:31 |
+| 16 | [I Just Love the Man](https://open.spotify.com/track/75kdiW5wYlxgIDTtIOTcvt) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 4:41 |
 | 17 | [On Target](https://open.spotify.com/track/4ZjJ0nO84GTgDXvRVUICiS) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 4:52 |
 | 18 | [Life Goes On](https://open.spotify.com/track/5o89I5aJYHe4QgleBC7bNu) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 4:28 |
 | 19 | [Love Don't Ever Say Goodbye](https://open.spotify.com/track/4bAEG1ZYfkMCT3SdDRqTzw) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:35 |
-| 20 | [I Just Love the Man](https://open.spotify.com/track/75kdiW5wYlxgIDTtIOTcvt) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 4:41 |
+| 20 | [At Peace with Woman](https://open.spotify.com/track/1tPi18dFRENazurH44N1AT) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 4:31 |
 | 21 | [When a Woman's in Love](https://open.spotify.com/track/7yNoOvTRXMiXEFqkdKdoQR) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 4:52 |
 | 22 | [We're a Melody](https://open.spotify.com/track/58mUkmczSd5xLffvElZTF3) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 5:23 |
 | 23 | [ASAP \(As Soon as Possible\)](https://open.spotify.com/track/3fU5oXtdBs8QqpBvMQDWQl) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:18 |
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 | 25 | [Won't Let You Take It Back](https://open.spotify.com/track/7AfXda0tSyLrhlN3vkbkpo) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Keep It Comin'](https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ) | 4:40 |
 | 26 | [2 Win U Back](https://open.spotify.com/track/5MSBptBOsXevqa0YltKt5b) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 4:56 |
 | 27 | [Get as Much Love as You Can](https://open.spotify.com/track/528wN82D9KEA7xY59Go0Ls) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:21 |
-| 28 | [Getting on with My Own Life](https://open.spotify.com/track/12c8DOnkjclmBMFSj1yMnS) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 5:37 |
+| 28 | [All I Want](https://open.spotify.com/track/0mDzUWzBdFU2qiALsa2JpM) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 4:20 |
 | 29 | [Ah, Ah, Ah, Ah](https://open.spotify.com/track/2NVBR55sc6DUEBXJdPErFK) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Keep It Comin'](https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ) | 4:36 |
 | 30 | [Your Love Controls Me](https://open.spotify.com/track/1vue6N2kcKmIkNAEKysBo1) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant A\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC) | 2:43 |
 | 31 | [Baby Don't Go Yet](https://open.spotify.com/track/6NKNogU1zrD9jNj4aPNdQV) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Reflections: In Loving Memory](https://open.spotify.com/album/7dhvs5QbajnXYUY5NETIGY) | 5:24 |
-| 32 | [All I Want](https://open.spotify.com/track/0mDzUWzBdFU2qiALsa2JpM) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 4:20 |
+| 32 | [Getting on with My Own Life](https://open.spotify.com/track/12c8DOnkjclmBMFSj1yMnS) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 5:37 |
 | 33 | [Better Things to Do](https://open.spotify.com/track/74PH2myT1Q271X9ygKce2I) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Keep It Comin'](https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ) | 4:12 |
 | 34 | [Baby I'm Yours](https://open.spotify.com/track/2WZH1nBAsdKIcaN73w1e4v) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 4:14 |
 | 35 | [You're the Only Bargain I've Got](https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant B\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu) | 3:51 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 | 44 | [Merry Go Round](https://open.spotify.com/track/74rQiIDK5mNhowNZ4UXiWT) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 4:25 |
 | 45 | [My Own Special Way](https://open.spotify.com/track/4zJuEUFZG2gkiHtuOKhPc8) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Black Soul Explosion](https://open.spotify.com/album/5bR86gp44joAmGDZzb4qqx) | 3:09 |
 
-Snapshot ID: `alA2AAAAAABr68/z9OlYIted+q+1rH3D`
+Snapshot ID: `alGHgAAAAAC8OzM2MJj4nmZOFOeRKZ/a`

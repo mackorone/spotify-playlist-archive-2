@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-794 songs - 3 day 1 hr 50 min
+795 songs - 3 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,7 +452,7 @@
 | [Naif](https://open.spotify.com/track/1ouVOHVm1FGkEch0sinTTE) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Naif](https://open.spotify.com/album/72lhRktJCMEHHZ5lTaEzeA) | 3:44 | 2022-02-18 | 2022-07-18 |
 | [Nairobi](https://open.spotify.com/track/6xJJXhgcVuv2fSQXSNbXHE) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Blisss](https://open.spotify.com/album/5w8DpxxciSGS2spn6NCeM0) | 5:38 | 2020-05-10 | 2022-05-08 |
 | [Natural Blues](https://open.spotify.com/track/0YMP9iIN0kPO3kp7pnxZpB) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2) | [Natural Blues](https://open.spotify.com/album/1Il6vUKaKu9dwdxWSvtoSC) | 2:35 | 2025-05-30 |  |
-| [Never Alone](https://open.spotify.com/track/4J1QJwbFiinUpUvsXdagBh) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Yubik](https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7), [Vincent Vossen](https://open.spotify.com/artist/50SCzzclPLasHTR2YuLJA7) | [Never Alone](https://open.spotify.com/album/1JFKwBhIzMth2fmrq5qwSW) | 3:39 | 2025-12-12 |  |
+| [Never Alone](https://open.spotify.com/track/4J1QJwbFiinUpUvsXdagBh) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Yubik](https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7), [Vincent Vossen](https://open.spotify.com/artist/50SCzzclPLasHTR2YuLJA7) | [Never Alone](https://open.spotify.com/album/1JFKwBhIzMth2fmrq5qwSW) | 3:39 | 2025-12-12 | 2026-07-13 |
 | [Never Ending](https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Never Ending](https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo) | 4:02 | 2022-04-04 | 2024-06-01 |
 | [Never Enough](https://open.spotify.com/track/63oLL7nhjCx3hqNQWfwYVM) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Never Enough](https://open.spotify.com/album/66YANI4iTibEQOQ1zHjbbO) | 3:32 | 2023-11-27 | 2025-04-05 |
 | [Never Give Up \- Diplo Remix](https://open.spotify.com/track/0wg87AgRmF2wdrheB5JAPE) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Never Give Up \(Diplo Remix\)](https://open.spotify.com/album/6Li4q1edOIieNeysAsdSdH) | 4:18 | 2020-07-25 | 2022-04-21 |
@@ -615,6 +615,7 @@
 | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o) | 4:12 | 2023-11-11 | 2025-04-14 |
 | [Slow Motion](https://open.spotify.com/track/1wF9Iw4lkksoUg55kCsiPm) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lilly](https://open.spotify.com/artist/4d6vYcZhMIvOLuCHA7Y6Wb) | [Slow Motion](https://open.spotify.com/album/7b2xbeiyfj5UsT4G06ac8G) | 2:46 | 2026-06-26 |  |
 | [SLOWLY](https://open.spotify.com/track/4R4ZU6XOQTNqNlADVcRLxp) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [SLOWLY](https://open.spotify.com/album/3VmoOOqgRIipO0Qy2k9jE2) | 2:48 | 2025-08-15 | 2026-02-05 |
+| [Smalltown Boy](https://open.spotify.com/track/5za6XRkJQSrVipzabuf6cV) | [Kotiēr](https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu) | [Smalltown Boy](https://open.spotify.com/album/1hwUID1QuiH75DSxJJhnwW) | 3:24 | 2026-07-10 |  |
 | [Smiling Birds](https://open.spotify.com/track/222a7UeWbEtafZgtG5Jk8L) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Smiling Birds](https://open.spotify.com/album/17ikFw6pP5z3wNHP0uLEnZ) | 7:01 | 2021-11-23 | 2022-03-21 |
 | [So Good \(feat\. Kuuda\)](https://open.spotify.com/track/6CR63qhTJnek9DDejDemiY) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH), [Kuuda](https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh) | [So Good \(feat\. Kuuda\)](https://open.spotify.com/album/5bbz0vL4jSp7q9qpKo7UU8) | 3:03 | 2026-05-22 |  |
 | [Solar](https://open.spotify.com/track/2GBRDBk7T7S9HH2qnb7hGz) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Solar](https://open.spotify.com/album/1XuAu9y2hafCD9euPlTjd2) | 5:03 | 2022-04-04 | 2022-04-17 |

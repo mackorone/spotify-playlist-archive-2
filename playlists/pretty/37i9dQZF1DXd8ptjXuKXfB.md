@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > A legmenőbb és legtrendibb dalok egy helyen 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,635 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,643 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,14 +53,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 43 | [WAKE N BAKE](https://open.spotify.com/track/1bnRSZisq4IX2DIvteVP9M) | [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [VINNER](https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc) | 2:18 |
 | 44 | [EMELEM A TÉTET](https://open.spotify.com/track/7IpQfpX3nNGfxlTBjB2CLl) | [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [Co Lee](https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0) | [EMELEM A TÉTET](https://open.spotify.com/album/0v7us2KpvvfQV6IP1zwUDp) | 2:33 |
 | 45 | [Talpra cigányok](https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Talpra cigányok](https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU) | 2:26 |
-| 46 | [RENDŐR BÁCSI, KÉREM](https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [RENDŐR BÁCSI, KÉREM](https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b) | 2:54 |
-| 47 | [PANASONIC](https://open.spotify.com/track/7gdHcrgGNeQSXD3cwOvMRR) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [INTERREGNUM](https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD) | 3:08 |
+| 46 | [PANASONIC](https://open.spotify.com/track/7gdHcrgGNeQSXD3cwOvMRR) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [INTERREGNUM](https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD) | 3:08 |
+| 47 | [RENDŐR BÁCSI, KÉREM](https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [RENDŐR BÁCSI, KÉREM](https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b) | 2:54 |
 | 48 | [DUMDUM](https://open.spotify.com/track/7ppCZOGHW33FT9d9NWh1kY) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [DUMDUM](https://open.spotify.com/album/74DQzDPzD0euWtsnBClgYH) | 2:35 |
 | 49 | [DADDY](https://open.spotify.com/track/4MQmgboYHKTI8Nfxd0nDjA) | [Mirror Glimpse](https://open.spotify.com/artist/6ugNgaIlOKz7Sy8wlEQDif) | [HATALMASABB, MINT GONDOLNÁD](https://open.spotify.com/album/4hV5BVV3paYc0R019cwl3O) | 2:17 |
 | 50 | [Vinnipu](https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Vinnipu](https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J) | 1:48 |
 | 51 | [erotika](https://open.spotify.com/track/6WsEsdHsrvxCW47qLE25fG) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [elterelés](https://open.spotify.com/album/3qmORfcKkMXuIEqm3b7BMc) | 2:48 |
-| 52 | [Diagram](https://open.spotify.com/track/5ZnlGNTGFOjOQ17TJzPnE0) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Diagram](https://open.spotify.com/album/0H4p2cpNeUeKL4Zn5BddfM) | 3:23 |
-| 53 | [TITANIK](https://open.spotify.com/track/6SxtaMa9JVSPdItvtyobqG) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [GHO$TY](https://open.spotify.com/artist/0Tx80XEW9rizsKS5GkVwrX) | [TITANIK](https://open.spotify.com/album/6a6wXMsFMObqPzuVsA1FMP) | 2:43 |
+| 52 | [TITANIK](https://open.spotify.com/track/6SxtaMa9JVSPdItvtyobqG) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [GHO$TY](https://open.spotify.com/artist/0Tx80XEW9rizsKS5GkVwrX) | [TITANIK](https://open.spotify.com/album/6a6wXMsFMObqPzuVsA1FMP) | 2:43 |
+| 53 | [Diagram](https://open.spotify.com/track/5ZnlGNTGFOjOQ17TJzPnE0) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Diagram](https://open.spotify.com/album/0H4p2cpNeUeKL4Zn5BddfM) | 3:23 |
 | 54 | [Csurran, cseppen](https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T) | [Majka](https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB) | [Csurran, cseppen](https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM) | 4:10 |
 | 55 | [WAY TOO HIGH](https://open.spotify.com/track/17WIFL0Bicx4Eo3133nu4S) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [SAVAGE](https://open.spotify.com/album/1vKMG0YR60YQc6L3pQ6Gaj) | 2:37 |
 | 56 | [BULLSHIT](https://open.spotify.com/track/2nE0BjX390DT47ni4HRkuT) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA), [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [BULLSHIT](https://open.spotify.com/album/5wI6CDu9oxHKQnSarrDiVW) | 2:18 |

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,522 songs - 10 day 2 hr 25 min
+4,525 songs - 10 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -594,7 +594,7 @@
 | [celia](https://open.spotify.com/track/1UwryC7tpFqS0123wqPPfI) | [shacrà](https://open.spotify.com/artist/02SdYXLpU3vPyGmqQ0F2Lx) | [shacrà](https://open.spotify.com/album/3QoEHAgT7Ph50CgCgl46G5) | 3:21 | 2026-02-01 |  |
 | [Cenere ormai](https://open.spotify.com/track/3Qv2mEQ2nsadAG9iYhW7hI) | [Bumbart Dj](https://open.spotify.com/artist/2Ft53dnGW9FNcHT5rsR2L9) | [Cenere ormai](https://open.spotify.com/album/3ykakX4apAEqOSUShEPQxZ) | 3:01 | 2025-03-18 |  |
 | [CENTRE](https://open.spotify.com/track/6hzY0IpnrnSWiU4mpA3Yas) | [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH) | [METANOIA](https://open.spotify.com/album/0UR1koun1iaDcGzfAbCets) | 3:07 | 2025-05-16 |  |
-| [Cerco il Nirvana](https://open.spotify.com/track/56A2pT45d2gKQpDrk7B2yH) | [DreamerWild](https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj) | [Cerco il Nirvana](https://open.spotify.com/album/44ToiI91J1uUmLefDmSh6T) | 3:20 | 2026-01-04 |  |
+| [Cerco il Nirvana](https://open.spotify.com/track/56A2pT45d2gKQpDrk7B2yH) | [DreamerWild](https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj) | [Cerco il Nirvana](https://open.spotify.com/album/44ToiI91J1uUmLefDmSh6T) | 3:20 | 2026-01-04 | 2026-07-13 |
 | [CERRITOS](https://open.spotify.com/track/18Puv3c1PJYe9i3z17dnEZ) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Trap del Vampiro](https://open.spotify.com/album/4JZtmell5UxBdsXHO3VjiH) | 1:44 | 2025-12-18 |  |
 | [CERRITOS](https://open.spotify.com/track/2hgPXKnEZsQ1EAQhnYxhjM) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [CERRITOS](https://open.spotify.com/album/57iJ7fIflY0Z2ej8ucnY0Q) | 1:44 | 2025-08-09 |  |
 | [Chains](https://open.spotify.com/track/2SNzI8vM6mBMPqduEEpMG2) | [Valley Souls](https://open.spotify.com/artist/26ph4Q3k8XDUvaUf2uAmo3) | [Chains](https://open.spotify.com/album/6b9mctTUwAivrfZKEuF5Nv) | 2:07 | 2025-11-03 |  |
@@ -951,6 +951,7 @@
 | [deep down](https://open.spotify.com/track/5I5vatsJd4PPZRNgEMyonX) | [APRIL](https://open.spotify.com/artist/23cdrivHH2nRJCNn0zuSSc) | [deep down](https://open.spotify.com/album/7sdPbYbpSjyz5vZGI2mIfe) | 1:13 | 2025-05-16 |  |
 | [Deep Down](https://open.spotify.com/track/1T38O6C6ZoZ6vjDSrDy6Eo) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Overdrive](https://open.spotify.com/album/2enRTMrOe25fNz0EtZ3rBp) | 3:25 | 2025-09-26 |  |
 | [Deeper Love \- Remix Extended Mix](https://open.spotify.com/track/6W22t218rsOMTImDKaKUN1) | [Roni Sadgan](https://open.spotify.com/artist/6P2EMT02pMK8xCpPamli1p), [Mou5ZyZZ](https://open.spotify.com/artist/6H2LGB5CAdk0wlV0ehb0B2) | [Trance Party Electric 2026](https://open.spotify.com/album/0hwkXUMMBvv71AnV2YKKqU) | 6:14 | 2026-07-03 |  |
+| [Dekhte Dekhte](https://open.spotify.com/track/7fB2A7mklrSf7lGTOwmQTK) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dekhte Dekhte](https://open.spotify.com/album/4gsOeNkHUnvfzzxB1uBiPQ) | 2:57 | 2026-07-12 |  |
 | [Del amor](https://open.spotify.com/track/3sF7J0py0ME0auMHyW4kzi) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 1:54 | 2026-03-15 |  |
 | [Del Odio Al Amor](https://open.spotify.com/track/1kmpfz6ZPnXrPMS8EQetzX) | [Jumpen Daniel](https://open.spotify.com/artist/1cRpMLp1aO4V7HvOBAJfk0) | [Del Odio Al Amor](https://open.spotify.com/album/39UPCNkZSt9B8AdrvDCQqd) | 2:03 | 2026-05-03 |  |
 | [Del Otro Lado](https://open.spotify.com/track/1sXtzJyluZo3Gu9Tf9YbxI) | [VKT´s](https://open.spotify.com/artist/1qOiDXpZ89u1u9GqenW4Tf) | [Del Otro Lado](https://open.spotify.com/album/3rVlNTxDyv4VgSFbiRe6kw) | 4:03 | 2025-07-03 |  |
@@ -2503,6 +2504,7 @@
 | [MIRACOLO \(RIP\)](https://open.spotify.com/track/39I8mcs3nMG7ctWyk3GM70) | [Maximilian](https://open.spotify.com/artist/2ysBLiVHbTXWPcYXNE9U4m) | [RAGIONE e SENTIMENTO](https://open.spotify.com/album/70wL7Os7BJR41xUZtpKbWv) | 3:10 | 2026-02-13 |  |
 | [Mirror Souls](https://open.spotify.com/track/1SZdPi4H7lo09CfU7E6YzY) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:36 | 2026-04-13 |  |
 | [Mirror Souls \(fomo mode\)](https://open.spotify.com/track/5Hr2bIswIe1jshBzLEU6wv) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:49 | 2026-04-13 |  |
+| [Mirrors](https://open.spotify.com/track/67HXK7DBWmoPCPzpusFe68) | [Fickle Hill](https://open.spotify.com/artist/7K7Uyq9xCc8uxlHQgQnUHx) | [Mirrors](https://open.spotify.com/album/5CRcVRdJ4eBr2v1dwaJDpx) | 4:57 | 2026-07-12 |  |
 | [Mirrors](https://open.spotify.com/track/7v5DOwsOWG6cf8hk9Mw8KH) | [First Fifty Feet](https://open.spotify.com/artist/4AADJVMfOR93MzDAy5hQC8) | [Mirrors](https://open.spotify.com/album/3Oq2PLLDnEFGIwzkMW43w2) | 4:47 | 2026-06-28 |  |
 | [Misonzi Mbwee](https://open.spotify.com/track/6ag6oI8gvsRRLnjts6U43R) | [Kay Krush](https://open.spotify.com/artist/1NTEEE22b4tOhZQvMctIlT) | [Misonzi Mbwee](https://open.spotify.com/album/5bZtNoEOO7q73ellDvr6VG) | 2:20 | 2025-06-05 |  |
 | [Miss & Mister](https://open.spotify.com/track/5olQqq0SKbmBwnYtm1ULwx) | [David Lenoc](https://open.spotify.com/artist/0bwgixs0srFeTkbOEA7CvJ) | [Miss & Mister](https://open.spotify.com/album/7KksWeTZuUnkUtZtgtjOSG) | 2:40 | 2025-05-26 |  |
@@ -2771,7 +2773,7 @@
 | [Northolt Bandit](https://open.spotify.com/track/3gZxf4CUHWn8QmbfDwNtN0) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff) | [Northolt Bandit](https://open.spotify.com/album/5ULII2WnPkgsAMs5A9khYA) | 3:19 | 2025-04-10 |  |
 | [Northwest Cold Front](https://open.spotify.com/track/68wLXJHCHHJDQFvaz80M2V) | [Bones In The Museum](https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT) | [Northwest Cold Front](https://open.spotify.com/album/2WG2iFsEYOA97j8aVikg6c) | 3:07 | 2026-06-16 |  |
 | [nostalgia](https://open.spotify.com/track/5T2nMWyQbEuN7EhyDiT01N) | [bryblawg](https://open.spotify.com/artist/0d3u7gFWM08yvGYfU1jFqC) | [nostalgia](https://open.spotify.com/album/48U7OAPJIY8OdKT6S3qUG2) | 2:22 | 2025-05-19 |  |
-| [Not Broken](https://open.spotify.com/track/597eaMrnVGAGPUsZgABP0D) | [ELIXA LUXEN](https://open.spotify.com/artist/02gE7hsAW6Uvgl7HjtQXro) | [Not Broken](https://open.spotify.com/album/45Mz9xWbP6XVujDZndZoje) | 3:41 | 2026-02-22 |  |
+| [Not Broken](https://open.spotify.com/track/597eaMrnVGAGPUsZgABP0D) | [ELIXA LUXEN](https://open.spotify.com/artist/02gE7hsAW6Uvgl7HjtQXro) | [Not Broken](https://open.spotify.com/album/45Mz9xWbP6XVujDZndZoje) | 3:41 | 2026-02-22 | 2026-07-13 |
 | [Not Yr Dog](https://open.spotify.com/track/5eMWZCOvV8g5jFt0q2vWr2) | [Shboy](https://open.spotify.com/artist/6QMcbLLh1xzlS5mXC9Uq7x) | [Not Yr Dog](https://open.spotify.com/album/4l58sVDx8Pnqt30aIkD0Sb) | 3:14 | 2025-10-13 |  |
 | [Nothing Strange](https://open.spotify.com/track/37cfY853GW459mBgklkpX3) | [Sluttony](https://open.spotify.com/artist/4Or5TJd1ARPZxlGswzOMKQ) | [Another Something Nice](https://open.spotify.com/album/4FGexftI9GHFv46tTXTc5B) | 2:42 | 2025-11-04 |  |
 | [Nothing to Say](https://open.spotify.com/track/22hIAIpE6aUDuUweK01aJx) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [Alco\-Pop](https://open.spotify.com/album/4PMlLGxFM68fEBMRqNKqG5) | 4:00 | 2025-11-05 |  |
@@ -3282,6 +3284,7 @@
 | [Salt](https://open.spotify.com/track/0ZUAmIkF31jwKSwI1nPv1I) | [murCATolog](https://open.spotify.com/artist/2KoZ9RKRH2ktVlVpDEUoYj) | [Salt](https://open.spotify.com/album/5d6BqeYGg9WcPDdzFtLglo) | 2:09 | 2025-06-05 |  |
 | [Saludo al alba](https://open.spotify.com/track/0jXuy9gEWRfT15k8mPckHz) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Distancias](https://open.spotify.com/album/0f6YPVRdJql2lBmpkqxxRz) | 2:37 | 2026-04-12 |  |
 | [Sandy](https://open.spotify.com/track/3U4pqslEJOfkJ7Tz35LooQ) | [EUR](https://open.spotify.com/artist/1XJzQKMr8MnjvkkS5979DP) | [EUR](https://open.spotify.com/album/2MrIeolzwAYuGanGeb1YAH) | 2:49 | 2025-06-05 |  |
+| [Sangre y Limón](https://open.spotify.com/track/2ks7mu8WPoZtrYvry7vFAt) | [Mi novio dramático](https://open.spotify.com/artist/3VSmete7hOiLQadWOyyGf7) | [Sangre y Limón](https://open.spotify.com/album/3AYYSU1Jsbe4uTWMwUfcee) | 3:50 | 2026-07-12 |  |
 | [Sangue di Lavanda](https://open.spotify.com/track/5WHsTtA3qaazbwqAdpHERe) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 2:29 | 2025-05-29 |  |
 | [Sangue di Lavanda \(another\)](https://open.spotify.com/track/62NSB05EcrUyJZm8TACg6W) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 2:51 | 2025-09-18 |  |
 | [Santa Maria](https://open.spotify.com/track/1mCyRKfaBIXqamEbc0OM7F) | [Chuck Spadina](https://open.spotify.com/artist/3JGftPKgc3DsRWALOswF6N) | [Santa Maria](https://open.spotify.com/album/64GzPGbfHOXpZ9ElTWCknL) | 2:30 | 2025-06-28 |  |

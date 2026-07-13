@@ -1,12 +1,12 @@
 {
   "description": "This is Daniel Caesar. The essential tracks, all in one playlist.",
-  "num_followers": 439879,
+  "num_followers": 439976,
   "original_name": "This Is Daniel Caesar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAACaSdf9cojtilZbWhkSAWWc",
+  "snapshot_id": "alGHgAAAAACJGgf0GW/gqEl5qXGc/rDA",
   "tracks": [
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 231267,
-      "name": "Hold Me Down",
-      "url": "https://open.spotify.com/track/4s76r7AbquJcTccqJiqdVu"
+      "duration_ms": 185522,
+      "name": "Loose",
+      "url": "https://open.spotify.com/track/3xqWiKFFYF9Pv7H1nNoZFd"
     },
     {
       "added_at": null,
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 185522,
-      "name": "Loose",
-      "url": "https://open.spotify.com/track/3xqWiKFFYF9Pv7H1nNoZFd"
+      "duration_ms": 231267,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/4s76r7AbquJcTccqJiqdVu"
     },
     {
       "added_at": null,

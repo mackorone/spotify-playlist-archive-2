@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 64425,
+  "num_followers": 64434,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAADdXdVv3/AskkzYSUJnZvZ1",
+  "snapshot_id": "alGHgAAAAACLZYcUvOnG0IbMk+Uzh96u",
   "tracks": [
     {
       "added_at": null,
@@ -711,18 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tras las Rejas",
-        "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
+        "name": "En la Ciudad",
+        "url": "https://open.spotify.com/album/6fK7NyDOCaORkcEV6ravOd"
       },
       "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Problemas Mentales",
-      "url": "https://open.spotify.com/track/5eEESdRtqJYTt5flYYg3jE"
+      "duration_ms": 186589,
+      "name": "En la Ciudad",
+      "url": "https://open.spotify.com/track/0iDBiUWfjxXi3BAiAuxaeH"
     },
     {
       "added_at": null,
@@ -743,22 +747,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "En la Ciudad",
-        "url": "https://open.spotify.com/album/6fK7NyDOCaORkcEV6ravOd"
+        "name": "Tras las Rejas",
+        "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
       },
       "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 186589,
-      "name": "En la Ciudad",
-      "url": "https://open.spotify.com/track/0iDBiUWfjxXi3BAiAuxaeH"
+      "duration_ms": 171000,
+      "name": "Problemas Mentales",
+      "url": "https://open.spotify.com/track/5eEESdRtqJYTt5flYYg3jE"
     },
     {
       "added_at": null,

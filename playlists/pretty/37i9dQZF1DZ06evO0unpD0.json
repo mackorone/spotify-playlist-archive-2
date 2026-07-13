@@ -1,12 +1,12 @@
 {
   "description": "This is Salif Keita. The essential tracks, all in one playlist.",
-  "num_followers": 13923,
+  "num_followers": 13926,
   "original_name": "This Is Salif Keita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAADAf0OpGEYlfeJdQW7TKDj8",
+  "snapshot_id": "alGHgAAAAADU0E6DSibyhCqlUWEqF8Ny",
   "tracks": [
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 223415,
-      "name": "Tonton",
-      "url": "https://open.spotify.com/track/1Ci6xr5uTiao375hGTtqRS"
+      "duration_ms": 294620,
+      "name": "Were Were",
+      "url": "https://open.spotify.com/track/38AJOtjMA9DgnWsTmnAAMf"
     },
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 258279,
-      "name": "Calculer",
-      "url": "https://open.spotify.com/track/6JOHho02kKHH0r6wnTGXse"
+      "duration_ms": 448960,
+      "name": "Laban",
+      "url": "https://open.spotify.com/track/0LOjFlkfiht3rCSM3lwjih"
     },
     {
       "added_at": null,
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 294620,
-      "name": "Were Were",
-      "url": "https://open.spotify.com/track/38AJOtjMA9DgnWsTmnAAMf"
+      "duration_ms": 223415,
+      "name": "Tonton",
+      "url": "https://open.spotify.com/track/1Ci6xr5uTiao375hGTtqRS"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 448960,
-      "name": "Laban",
-      "url": "https://open.spotify.com/track/0LOjFlkfiht3rCSM3lwjih"
+      "duration_ms": 258279,
+      "name": "Calculer",
+      "url": "https://open.spotify.com/track/6JOHho02kKHH0r6wnTGXse"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un autre blanc",
+        "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 300482,
+      "name": "Lerou Lerou",
+      "url": "https://open.spotify.com/track/1VoXMjBDi4O1Z32zD69jUn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hello Revenge",
         "url": "https://open.spotify.com/album/7p0bwadyv161k3YvYnJ5Eb"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 249941,
       "name": "Hello Revenge",
       "url": "https://open.spotify.com/track/6ewqXnUFLxYfuUJPiWS2Bj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un autre blanc",
-        "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 300482,
-      "name": "Lerou Lerou",
-      "url": "https://open.spotify.com/track/1VoXMjBDi4O1Z32zD69jUn"
     },
     {
       "added_at": null,
@@ -763,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
+        "name": "Betece - All Stars",
+        "url": "https://open.spotify.com/album/5RKQ7g6iYe2l6tlUfAwXsf"
       },
       "artists": [
+        {
+          "name": "Africando",
+          "url": "https://open.spotify.com/artist/0ffXAvDlWnqwiciaBFek6V"
+        },
         {
           "name": "Salif Keita",
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 309400,
-      "name": "N B'I Fe",
-      "url": "https://open.spotify.com/track/6ojW6ng5nTr5Q0Bspdga5B"
+      "duration_ms": 303773,
+      "name": "Ntoman",
+      "url": "https://open.spotify.com/track/6AOlffSmJ6QNAzPV4SnmKQ"
     },
     {
       "added_at": null,
@@ -815,22 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Betece - All Stars",
-        "url": "https://open.spotify.com/album/5RKQ7g6iYe2l6tlUfAwXsf"
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
       },
       "artists": [
-        {
-          "name": "Africando",
-          "url": "https://open.spotify.com/artist/0ffXAvDlWnqwiciaBFek6V"
-        },
         {
           "name": "Salif Keita",
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 303773,
-      "name": "Ntoman",
-      "url": "https://open.spotify.com/track/6AOlffSmJ6QNAzPV4SnmKQ"
+      "duration_ms": 309400,
+      "name": "N B'I Fe",
+      "url": "https://open.spotify.com/track/6ojW6ng5nTr5Q0Bspdga5B"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "Yele n Na",
-      "url": "https://open.spotify.com/track/0e4Nz847n4DHLxEFQJWEpY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mandekalou - Les voix mandingues",
         "url": "https://open.spotify.com/album/2bTxC4rVfNIhHZLjFCkCrP"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 488733,
       "name": "Djigui",
       "url": "https://open.spotify.com/track/6I5R8Zy3dAXyt6CqtpYCsv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Yele n Na",
+      "url": "https://open.spotify.com/track/0e4Nz847n4DHLxEFQJWEpY"
     }
   ],
   "unique_name": "This Is Salif Keita",

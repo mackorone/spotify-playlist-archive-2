@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Q´Lokura, Lauta & Amigo de Artistas
 
-[Spotify](https://open.spotify.com/user/spotify) - 821,898 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 821,930 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 55 | [Ya Me Cansé](https://open.spotify.com/track/6vg8SLZ5q5RFfle2bbtk4c) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Ya Me Cansé](https://open.spotify.com/album/71Kki8oS4g9fZ7ZTX6129X) | 2:36 |
 | 56 | [Luna](https://open.spotify.com/track/0FKCceXl1539dva0c7cNVJ) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Luna](https://open.spotify.com/album/7CY3qNCVgYSMgL0Wwjrdq3) | 3:05 |
 | 57 | [Beso a beso](https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Hugh Padgham](https://open.spotify.com/artist/2tFojFgpu9xoQ04HsTZMDl), [Sergio Oliva](https://open.spotify.com/artist/7sgBCRIyPmIsvElpnK4QMM) | [Beso a Beso \(con La Mona\)](https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok) | 5:03 |
-| 58 | [Dejame Intentar](https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Dejame Intentar](https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC) | 2:01 |
-| 59 | [Piensa en Mí \(En Vivo\)](https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Tu Amante En Secreto](https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ) | 3:44 |
+| 58 | [Piensa en Mí \(En Vivo\)](https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Tu Amante En Secreto](https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ) | 3:44 |
+| 59 | [Dejame Intentar](https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Dejame Intentar](https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC) | 2:01 |
 | 60 | [Ay Amor](https://open.spotify.com/track/4pMpoj9TNQg9ZlfG3fE7W2) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Ay Amor](https://open.spotify.com/album/3pP8sHt6ddUHJ4CHPcGmnh) | 3:19 |
 | 61 | [La Cita \(La Carta\)](https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Fiesta Inolvidable Con La Barra](https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW) | 4:05 |
 | 62 | [Paloma loca](https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Sergio Oliva and Freddy Zavaley](https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC) | [Bien Ahí !](https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B) | 3:13 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 81 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz) | [Banda Registrada](https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA) | [Ni Lo Pienses](https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y) | 4:14 |
 | 82 | [Baby Nueva](https://open.spotify.com/track/4YTEBvMH7uuUhwcRpiLNVW) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Baby Nueva](https://open.spotify.com/album/2PIFBB0XSEQnP5k3Cg97JB) | 2:47 |
 | 83 | [Amor de Papel / Enamorado de Ti / En Libertad](https://open.spotify.com/track/2PeSqn7fiq4e5dWNGMw7Cw) | [Cachumba](https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R) | [Somos Todos](https://open.spotify.com/album/78ZNNRr6kp0tJ40YKwwVMt) | 4:31 |
-| 84 | [Ladrón](https://open.spotify.com/track/5gyT1xYFWyDWzEGDjicz5C) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Ladrón](https://open.spotify.com/album/77q0gHxilBoRNnlAAyllDW) | 2:39 |
-| 85 | [Un Millón de Rosas](https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 3:14 |
+| 84 | [Un Millón de Rosas](https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 3:14 |
+| 85 | [Ladrón](https://open.spotify.com/track/5gyT1xYFWyDWzEGDjicz5C) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Ladrón](https://open.spotify.com/album/77q0gHxilBoRNnlAAyllDW) | 2:39 |
 | 86 | [No Cambié](https://open.spotify.com/track/7aXdVp1XeibjbKj679y9pX) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [No Cambié](https://open.spotify.com/album/5WSf0tR685VljhMi3uJGux) | 3:04 |
 | 87 | [Esto se Acabó](https://open.spotify.com/track/35nkugOAny7dEuL3b3bNOf) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Esto Se Acabó](https://open.spotify.com/album/1usW30QraosvadgKpteABF) | 3:19 |
 | 88 | [Que Te Vuelva Amor](https://open.spotify.com/track/5Y2hlEF263cIINL3UItXCi) | [Bauti Mascia](https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG), [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Que Te Vuelva Amor](https://open.spotify.com/album/2TiQN4ZPday9QtHELjhqtB) | 2:30 |

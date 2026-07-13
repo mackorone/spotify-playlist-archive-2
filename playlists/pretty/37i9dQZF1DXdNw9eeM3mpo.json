@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. Los Calzones en portada.",
-  "num_followers": 490110,
+  "num_followers": 490131,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAipos/FiblEIrNDG+14MJaFDcG7",
+  "snapshot_id": "AAAAAD4npx2rvcf7sUayntozqTBPBRpE",
   "tracks": [
     {
       "added_at": "2026-07-03 06:00:08",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-07-03 06:00:08",
       "album": {
+        "name": "Sonora Skandalera",
+        "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
+      },
+      "artists": [
+        {
+          "name": "Sonora Skandalera",
+          "url": "https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac"
+        }
+      ],
+      "duration_ms": 254589,
+      "name": "Algo De Suerte",
+      "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
+    },
+    {
+      "added_at": "2026-07-03 06:00:08",
+      "album": {
         "name": "Estoy aqu\u00ed (feat. La Pegatina)",
         "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 176747,
       "name": "Estoy aqu\u00ed (feat. La Pegatina)",
       "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
-    },
-    {
-      "added_at": "2026-07-03 06:00:08",
-      "album": {
-        "name": "Sonora Skandalera",
-        "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
-      },
-      "artists": [
-        {
-          "name": "Sonora Skandalera",
-          "url": "https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac"
-        }
-      ],
-      "duration_ms": 254589,
-      "name": "Algo De Suerte",
-      "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
     },
     {
       "added_at": "2026-07-03 06:00:08",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-07-03 06:00:08",
       "album": {
-        "name": "Sound System",
-        "url": "https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N"
-      },
-      "artists": [
-        {
-          "name": "Maskatesta",
-          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
-        }
-      ],
-      "duration_ms": 187385,
-      "name": "Sue\u00f1os",
-      "url": "https://open.spotify.com/track/6btqDJJrlwzfv9YNRH9Gj1"
-    },
-    {
-      "added_at": "2026-07-03 06:00:08",
-      "album": {
         "name": "Justo Cuando Cre\u00edas Que No - The Romaphonic Sessions",
         "url": "https://open.spotify.com/album/79OkM0EpZBiAWt5DMeXnYR"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 214081,
       "name": "La Ultima Carta - The Romaphonic Session",
       "url": "https://open.spotify.com/track/2JYxaBRpjSJ0WRUHYOKc5n"
+    },
+    {
+      "added_at": "2026-07-03 06:00:08",
+      "album": {
+        "name": "Sound System",
+        "url": "https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N"
+      },
+      "artists": [
+        {
+          "name": "Maskatesta",
+          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+        }
+      ],
+      "duration_ms": 187385,
+      "name": "Sue\u00f1os",
+      "url": "https://open.spotify.com/track/6btqDJJrlwzfv9YNRH9Gj1"
     },
     {
       "added_at": "2026-07-03 06:00:08",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-07-03 06:00:08",
       "album": {
-        "name": "Con este fuego",
-        "url": "https://open.spotify.com/album/5oCetYb611zC4UyfzpdZ5g"
-      },
-      "artists": [
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        }
-      ],
-      "duration_ms": 189845,
-      "name": "Con este fuego",
-      "url": "https://open.spotify.com/track/5Z2zDXfObJAd0vucnS30dR"
-    },
-    {
-      "added_at": "2026-07-03 06:00:08",
-      "album": {
         "name": "Supersonico",
         "url": "https://open.spotify.com/album/6pvDF6APwhBWRkuEc3gCqz"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 206933,
       "name": "Qu\u00e9 Vas a Hacer Conmigo",
       "url": "https://open.spotify.com/track/4J0phvYcKa1Hr1EBwH0pu3"
+    },
+    {
+      "added_at": "2026-07-03 06:00:08",
+      "album": {
+        "name": "Con este fuego",
+        "url": "https://open.spotify.com/album/5oCetYb611zC4UyfzpdZ5g"
+      },
+      "artists": [
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "duration_ms": 189845,
+      "name": "Con este fuego",
+      "url": "https://open.spotify.com/track/5Z2zDXfObJAd0vucnS30dR"
     },
     {
       "added_at": "2026-07-03 06:00:08",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-07-03 06:00:08",
       "album": {
-        "name": "Voy a curarme de ti",
-        "url": "https://open.spotify.com/album/3XriISqGqSjHuNsXLlm6gH"
-      },
-      "artists": [
-        {
-          "name": "Timo Pacheco",
-          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
-        }
-      ],
-      "duration_ms": 253285,
-      "name": "Voy a curarme de ti",
-      "url": "https://open.spotify.com/track/34qV1rb1zaufUFmqalIokP"
-    },
-    {
-      "added_at": "2026-07-03 06:00:08",
-      "album": {
         "name": "Siempre nos tienes aqu\u00ed",
         "url": "https://open.spotify.com/album/77nsHh74zcicF9tdrXt7hN"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 199106,
       "name": "Criminales Sudamericanos",
       "url": "https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4"
+    },
+    {
+      "added_at": "2026-07-03 06:00:08",
+      "album": {
+        "name": "Voy a curarme de ti",
+        "url": "https://open.spotify.com/album/3XriISqGqSjHuNsXLlm6gH"
+      },
+      "artists": [
+        {
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        }
+      ],
+      "duration_ms": 253285,
+      "name": "Voy a curarme de ti",
+      "url": "https://open.spotify.com/track/34qV1rb1zaufUFmqalIokP"
     },
     {
       "added_at": "2026-07-03 06:00:08",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2026-07-03 06:00:08",
       "album": {
+        "name": "Este Ritmo",
+        "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
+      },
+      "artists": [
+        {
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+        }
+      ],
+      "duration_ms": 167128,
+      "name": "Este Ritmo",
+      "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
+    },
+    {
+      "added_at": "2026-07-03 06:00:08",
+      "album": {
         "name": "Fiesta (Liechtenteiner Polka)",
         "url": "https://open.spotify.com/album/6gABWxKUA5ZRU1xFdJqczp"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 126233,
       "name": "Fiesta (Liechtenteiner Polka)",
       "url": "https://open.spotify.com/track/21BA0AWh7v9DXtZC8VOEW2"
-    },
-    {
-      "added_at": "2026-07-03 06:00:08",
-      "album": {
-        "name": "Este Ritmo",
-        "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
-      },
-      "artists": [
-        {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
-        }
-      ],
-      "duration_ms": 167128,
-      "name": "Este Ritmo",
-      "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
     },
     {
       "added_at": "2026-07-03 06:00:08",

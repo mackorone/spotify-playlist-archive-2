@@ -1,12 +1,12 @@
 {
   "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
-  "num_followers": 41202,
+  "num_followers": 41205,
   "original_name": "This Is Taking Back Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAABa+UyR2N2nlQ+9zhFRmfma",
+  "snapshot_id": "alGHgAAAAACQm9TnqigtOj6hjKH/MR3S",
   "tracks": [
     {
       "added_at": null,
@@ -723,22 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Gabba Gabba! Hey!",
-        "url": "https://open.spotify.com/album/3LbmwW3awdE7P4wJillCEA"
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
       },
       "artists": [
-        {
-          "name": "Yo Gabba Gabba",
-          "url": "https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF"
-        },
         {
           "name": "Taking Back Sunday",
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 101493,
-      "name": "We All Love Our Pets",
-      "url": "https://open.spotify.com/track/5LIYbUs41ceW73JBLdPbVv"
+      "duration_ms": 232026,
+      "name": "Cut Me Up Jenny",
+      "url": "https://open.spotify.com/track/6ILY2moQH3YmTeQNjMudNN"
     },
     {
       "added_at": null,
@@ -759,18 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Again",
-        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+        "name": "Yo Gabba Gabba! Hey!",
+        "url": "https://open.spotify.com/album/3LbmwW3awdE7P4wJillCEA"
       },
       "artists": [
+        {
+          "name": "Yo Gabba Gabba",
+          "url": "https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF"
+        },
         {
           "name": "Taking Back Sunday",
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 232026,
-      "name": "Cut Me Up Jenny",
-      "url": "https://open.spotify.com/track/6ILY2moQH3YmTeQNjMudNN"
+      "duration_ms": 101493,
+      "name": "We All Love Our Pets",
+      "url": "https://open.spotify.com/track/5LIYbUs41ceW73JBLdPbVv"
     },
     {
       "added_at": null,

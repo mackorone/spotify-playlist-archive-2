@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 64 | [Don't Wake Me Up](https://open.spotify.com/track/1CqdtosAf3DaK6HWbee2JX) | [NLSN](https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk), [JEMKA](https://open.spotify.com/artist/5eeQYpsEkVTJCXPZnp5gTt), [RED](https://open.spotify.com/artist/6UZK9xlpTAM8dUAiB2Y42b) | [Don't Wake Me Up](https://open.spotify.com/album/2DOtUcaMZeiUkQ1qB5nDBb) | 2:14 |
 | 65 | [Don't Leave Because I Love You](https://open.spotify.com/track/6loNQhnowrsiqMFyIaGUIs) | [Jim Gardner](https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun) | [Don't Leave Because I Love You](https://open.spotify.com/album/5xnYK3kE1cOCetnHljNwm1) | 2:51 |
 | 66 | [Dancing To Sad Songs](https://open.spotify.com/track/6MGPuQnPbVHL14l3up0nUn) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Boy Made Out Of Stars](https://open.spotify.com/album/61u3bJdUYO6zizGTPxK7zZ) | 2:44 |
-| 67 | [Shine](https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Circles](https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd) | 2:56 |
-| 68 | [Hardwired](https://open.spotify.com/track/7q2XPiBRzdyqfkpvvgF0hy) | [Jim Gardner](https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun) | [Hardwired](https://open.spotify.com/album/3E2NA2Gv5Ycu6iwj3I5JYH) | 2:43 |
+| 67 | [Hardwired](https://open.spotify.com/track/7q2XPiBRzdyqfkpvvgF0hy) | [Jim Gardner](https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun) | [Hardwired](https://open.spotify.com/album/3E2NA2Gv5Ycu6iwj3I5JYH) | 2:43 |
+| 68 | [Shine](https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Circles](https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd) | 2:56 |
 | 69 | [Wrong Side of Love](https://open.spotify.com/track/6uShcdguw0MhXGHlUpLz2L) | [Kastra](https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [Wrong Side of Love](https://open.spotify.com/album/0FxreyHyZihHMyvcnM97bi) | 3:05 |
 | 70 | [Myself](https://open.spotify.com/track/1Qm7cfRHqVuyclKIOPfeKO) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Circles](https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd) | 2:20 |
 | 71 | [miss you](https://open.spotify.com/track/2p5PjL2TLhongka8qsHTco) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [this is iggy](https://open.spotify.com/album/0kyjMpCVzimrmEspVwx8TX) | 2:31 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 73 | [My Almost Forever](https://open.spotify.com/track/57VDBMxzvYq9jhuD2ISTrR) | [Jonathan Fischer](https://open.spotify.com/artist/7CVRHQND8mur2yRUG8st4m) | [My Almost Forever](https://open.spotify.com/album/41tFrGMv7y47SiR6VvxBmU) | 2:52 |
 | 74 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
 
-Snapshot ID: `AcWmdAAAAAACgjMy4A3pwUxtc/nIOlBW`
+Snapshot ID: `AcWsFAAAAACpgGBvDwx6EKvSEtCdsvdY`

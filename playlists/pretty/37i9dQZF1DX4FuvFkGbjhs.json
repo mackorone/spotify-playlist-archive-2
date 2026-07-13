@@ -1,6 +1,6 @@
 {
   "description": "Beyond titles, beyond genre. Cover: Kelela",
-  "num_followers": 198553,
+  "num_followers": 198547,
   "original_name": "UNTITLED",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-07-09 23:00:46",
       "album": {
-        "name": "Keep It To Yourself",
-        "url": "https://open.spotify.com/album/3FQ8bzLV3poKkW6thJ04Tw"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 257644,
-      "name": "Keep It To Yourself",
-      "url": "https://open.spotify.com/track/0UUnMVRHGJKFq4mlsld8GV"
-    },
-    {
-      "added_at": "2026-07-09 23:00:46",
-      "album": {
         "name": "Turnaround / I'm Hooked",
         "url": "https://open.spotify.com/album/3Nt7AounpxUPNRkMJErdtw"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 194227,
       "name": "Turnaround",
       "url": "https://open.spotify.com/track/3CaslR7DULHhYM6OXhxFL5"
+    },
+    {
+      "added_at": "2026-07-09 23:00:46",
+      "album": {
+        "name": "Keep It To Yourself",
+        "url": "https://open.spotify.com/album/3FQ8bzLV3poKkW6thJ04Tw"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 257644,
+      "name": "Keep It To Yourself",
+      "url": "https://open.spotify.com/track/0UUnMVRHGJKFq4mlsld8GV"
     },
     {
       "added_at": "2026-07-09 23:00:46",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-07-09 23:00:46",
       "album": {
-        "name": "SHUT YOUR DAMN 95.7892",
-        "url": "https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 184034,
-      "name": "SHUT YOUR DAMN 95.7892",
-      "url": "https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l"
-    },
-    {
-      "added_at": "2026-07-09 23:00:46",
-      "album": {
         "name": "Trying Times",
         "url": "https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 273805,
       "name": "Trying Times",
       "url": "https://open.spotify.com/track/52T8TTMESX21406wvTdQDY"
+    },
+    {
+      "added_at": "2026-07-09 23:00:46",
+      "album": {
+        "name": "SHUT YOUR DAMN 95.7892",
+        "url": "https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 184034,
+      "name": "SHUT YOUR DAMN 95.7892",
+      "url": "https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l"
     },
     {
       "added_at": "2026-07-09 23:00:46",
@@ -747,38 +747,6 @@
     {
       "added_at": "2026-07-09 23:00:46",
       "album": {
-        "name": "Dust in the Wind",
-        "url": "https://open.spotify.com/album/2jNfiECR8FRr7SsnLiZ7dJ"
-      },
-      "artists": [
-        {
-          "name": "Chanel Beads",
-          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
-        }
-      ],
-      "duration_ms": 170213,
-      "name": "Dust in the Wind",
-      "url": "https://open.spotify.com/track/4C7SX5p5loKNDddDoI1Ce0"
-    },
-    {
-      "added_at": "2026-07-09 23:00:46",
-      "album": {
-        "name": "Boys In Blue",
-        "url": "https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 153045,
-      "name": "Boys In Blue",
-      "url": "https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw"
-    },
-    {
-      "added_at": "2026-07-09 23:00:46",
-      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/1SdzUAaeUy54xHAgWo2Gcg"
       },
@@ -799,18 +767,34 @@
     {
       "added_at": "2026-07-09 23:00:46",
       "album": {
-        "name": "REDSTAR WU & THE WORLDWIDE SCOURGE",
-        "url": "https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V"
+        "name": "Boys In Blue",
+        "url": "https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH"
       },
       "artists": [
         {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
         }
       ],
-      "duration_ms": 216311,
-      "name": "BIG DOG",
-      "url": "https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ"
+      "duration_ms": 153045,
+      "name": "Boys In Blue",
+      "url": "https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw"
+    },
+    {
+      "added_at": "2026-07-09 23:00:46",
+      "album": {
+        "name": "Dust in the Wind",
+        "url": "https://open.spotify.com/album/2jNfiECR8FRr7SsnLiZ7dJ"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "duration_ms": 170213,
+      "name": "Dust in the Wind",
+      "url": "https://open.spotify.com/track/4C7SX5p5loKNDddDoI1Ce0"
     },
     {
       "added_at": "2026-07-09 23:00:46",
@@ -831,6 +815,22 @@
     {
       "added_at": "2026-07-09 23:00:46",
       "album": {
+        "name": "REDSTAR WU & THE WORLDWIDE SCOURGE",
+        "url": "https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 216311,
+      "name": "BIG DOG",
+      "url": "https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ"
+    },
+    {
+      "added_at": "2026-07-09 23:00:46",
+      "album": {
         "name": "So it goes",
         "url": "https://open.spotify.com/album/3DezGjyrh1Hwa6mdiqSPNb"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-07-09 23:00:46",
       "album": {
-        "name": "Song for the Messenger",
-        "url": "https://open.spotify.com/album/5qp010KtWhsUNURCNH8o1c"
-      },
-      "artists": [
-        {
-          "name": "Chanel Beads",
-          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "Song for the Messenger",
-      "url": "https://open.spotify.com/track/1Ap75Wv20tVqTA8cAJXqq3"
-    },
-    {
-      "added_at": "2026-07-09 23:00:46",
-      "album": {
         "name": "Wall of Sound",
         "url": "https://open.spotify.com/album/5xQarRykqfONyHrL792y8z"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 144426,
       "name": "Wall of Sound",
       "url": "https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD"
+    },
+    {
+      "added_at": "2026-07-09 23:00:46",
+      "album": {
+        "name": "Song for the Messenger",
+        "url": "https://open.spotify.com/album/5qp010KtWhsUNURCNH8o1c"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "Song for the Messenger",
+      "url": "https://open.spotify.com/track/1Ap75Wv20tVqTA8cAJXqq3"
     },
     {
       "added_at": "2026-07-09 23:00:46",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-07-09 23:00:46",
       "album": {
+        "name": "Get The Time Back",
+        "url": "https://open.spotify.com/album/4IJb5i6JGjn1O4cap79t8R"
+      },
+      "artists": [
+        {
+          "name": "mustbejohn",
+          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+        }
+      ],
+      "duration_ms": 199184,
+      "name": "Get The Time Back",
+      "url": "https://open.spotify.com/track/3Ic2K44CMzlcJT7NKSCV3M"
+    },
+    {
+      "added_at": "2026-07-09 23:00:46",
+      "album": {
         "name": "Like Heaven",
         "url": "https://open.spotify.com/album/2f4vxEOlp1k8ZSffiROoHE"
       },
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2026-07-09 23:00:46",
       "album": {
-        "name": "Get The Time Back",
-        "url": "https://open.spotify.com/album/4IJb5i6JGjn1O4cap79t8R"
-      },
-      "artists": [
-        {
-          "name": "mustbejohn",
-          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
-        }
-      ],
-      "duration_ms": 199184,
-      "name": "Get The Time Back",
-      "url": "https://open.spotify.com/track/3Ic2K44CMzlcJT7NKSCV3M"
-    },
-    {
-      "added_at": "2026-07-09 23:00:46",
-      "album": {
         "name": "Between Us",
         "url": "https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 197122,
       "name": "It Never Ends",
       "url": "https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd"
+    },
+    {
+      "added_at": "2026-07-09 23:00:46",
+      "album": {
+        "name": "Tell Me (U Want It)",
+        "url": "https://open.spotify.com/album/3JedLQJK34WnW9thqc8BAo"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 213250,
+      "name": "Tell Me (U Want It)",
+      "url": "https://open.spotify.com/track/1dsKLYqHpiIkgTK4TdMUzy"
     },
     {
       "added_at": "2026-07-09 23:00:46",
@@ -1155,42 +1171,6 @@
     {
       "added_at": "2026-07-09 23:00:46",
       "album": {
-        "name": "Tell Me (U Want It)",
-        "url": "https://open.spotify.com/album/3JedLQJK34WnW9thqc8BAo"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 213250,
-      "name": "Tell Me (U Want It)",
-      "url": "https://open.spotify.com/track/1dsKLYqHpiIkgTK4TdMUzy"
-    },
-    {
-      "added_at": "2026-07-09 23:00:46",
-      "album": {
-        "name": "Hardy (feat. Clairo)",
-        "url": "https://open.spotify.com/album/0IDSYykjW6dOkY2SziKUFE"
-      },
-      "artists": [
-        {
-          "name": "Rostam",
-          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Hardy (feat. Clairo)",
-      "url": "https://open.spotify.com/track/3XvjG8c27vgui1KDzeMejy"
-    },
-    {
-      "added_at": "2026-07-09 23:00:46",
-      "album": {
         "name": "Helicopters",
         "url": "https://open.spotify.com/album/53IVWLHnBwJ6KwpOAc5NRX"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 238086,
       "name": "Helicopters",
       "url": "https://open.spotify.com/track/2ofMsovltZ6Nn6wQz1ZphY"
+    },
+    {
+      "added_at": "2026-07-09 23:00:46",
+      "album": {
+        "name": "Hardy (feat. Clairo)",
+        "url": "https://open.spotify.com/album/0IDSYykjW6dOkY2SziKUFE"
+      },
+      "artists": [
+        {
+          "name": "Rostam",
+          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Hardy (feat. Clairo)",
+      "url": "https://open.spotify.com/track/3XvjG8c27vgui1KDzeMejy"
     },
     {
       "added_at": "2026-07-09 23:00:46",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-07-09 23:00:46",
       "album": {
-        "name": "Where The Waves Break",
-        "url": "https://open.spotify.com/album/6R1xCzolR17w5pJWFKHHeu"
-      },
-      "artists": [
-        {
-          "name": "TENDER",
-          "url": "https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm"
-        }
-      ],
-      "duration_ms": 266767,
-      "name": "Eleanor",
-      "url": "https://open.spotify.com/track/4x9RLHwtUvN2zchIJt7F3W"
-    },
-    {
-      "added_at": "2026-07-09 23:00:46",
-      "album": {
         "name": "Crown Jewel",
         "url": "https://open.spotify.com/album/4pNYHMMs5C1lQwyCA4COEH"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 241373,
       "name": "Crown Jewel",
       "url": "https://open.spotify.com/track/2RxCAkAfunFJbrImtXMcTR"
+    },
+    {
+      "added_at": "2026-07-09 23:00:46",
+      "album": {
+        "name": "Where The Waves Break",
+        "url": "https://open.spotify.com/album/6R1xCzolR17w5pJWFKHHeu"
+      },
+      "artists": [
+        {
+          "name": "TENDER",
+          "url": "https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm"
+        }
+      ],
+      "duration_ms": 266767,
+      "name": "Eleanor",
+      "url": "https://open.spotify.com/track/4x9RLHwtUvN2zchIJt7F3W"
     }
   ],
   "unique_name": "UNTITLED",

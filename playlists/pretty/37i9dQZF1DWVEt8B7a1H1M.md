@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 
 > Bird sounds in the background
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,727 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,766 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 | 13 | [Natural Forest Quiet](https://open.spotify.com/track/7pY9vYk2s9VTggqqPQ9kI2) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Natural Forest Quiet](https://open.spotify.com/album/4vGRrXTak44ULC7tS2v25Q) | 2:28 |
 | 14 | [Songbirds at Dawn](https://open.spotify.com/track/6fdR2xhj9S7xZ46U8cw9H1) | [Brontology](https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp) | [Songbirds at Dawn](https://open.spotify.com/album/6Lx76KJ6upyFHgFGgumCgq) | 2:49 |
 | 15 | [Rain in the Andorran Forest](https://open.spotify.com/track/7BOmtKLiQX5yqk2Qji1X03) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Soothing Rain Songs](https://open.spotify.com/album/15CC9woREqBQPmVNOIfoQg) | 3:07 |
-| 16 | [Tropic Rain](https://open.spotify.com/track/5gIOLEi9WsMudy3tfGfJNH) | [Sea Bow](https://open.spotify.com/artist/5BuaJPqFbFn7g4sLocFcyo) | [It's Raining Everywhere](https://open.spotify.com/album/4EZAPSadNgbhz6akdhN5vA) | 2:38 |
-| 17 | [Flying South \(Nature\)](https://open.spotify.com/track/5j49xdRfVVXfrH0oi6UkKv) | [Nature Neighbors](https://open.spotify.com/artist/4rIFzNdfjbxs0PB2XWda3z) | [Flying South \(Nature\)](https://open.spotify.com/album/1vhivmFoFcs1WRHLwWA70R) | 3:00 |
+| 16 | [Flying South \(Nature\)](https://open.spotify.com/track/5j49xdRfVVXfrH0oi6UkKv) | [Nature Neighbors](https://open.spotify.com/artist/4rIFzNdfjbxs0PB2XWda3z) | [Flying South \(Nature\)](https://open.spotify.com/album/1vhivmFoFcs1WRHLwWA70R) | 3:00 |
+| 17 | [Tropic Rain](https://open.spotify.com/track/5gIOLEi9WsMudy3tfGfJNH) | [Sea Bow](https://open.spotify.com/artist/5BuaJPqFbFn7g4sLocFcyo) | [It's Raining Everywhere](https://open.spotify.com/album/4EZAPSadNgbhz6akdhN5vA) | 2:38 |
 | 18 | [Relaxing Morning in the Woods](https://open.spotify.com/track/1f8quOyC5GgsdYzYem5ipJ) | [101 Noise](https://open.spotify.com/artist/4DFZxJir9eDvJM7Tbr4HYI), [Forest Sounds](https://open.spotify.com/artist/3DCUYm4ife62EAKya2fULx), [Nature Therapy](https://open.spotify.com/artist/4BYnmj6jjKDIcEM7a1EoBh) | [Birds in Nature, Whistling Birds, Nature Sounds for Deep Sleep](https://open.spotify.com/album/762pFiHP51wPNr8b7IgPUw) | 2:04 |
 | 19 | [Small River Stream in the Jungle](https://open.spotify.com/track/48iKn7tBRTh1iE0HSd9kSJ) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Small River Stream in the Jungle](https://open.spotify.com/album/0S5qW479HpIwdekAYTFbcj) | 4:41 |
 | 20 | [Steady Rain](https://open.spotify.com/track/07sMMvZeZ0AExRWF2UX8Wf) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Nature Rain Relaxation](https://open.spotify.com/album/6l6y3ned8RViGuo8Jy07gq) | 2:32 |
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 | 29 | [Moment Of Peace \(Forest Birds\)](https://open.spotify.com/track/1jkmpUX6l6X2irM8oADsYk) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 1](https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q) | 2:34 |
 | 30 | [Birds at the River Mouth](https://open.spotify.com/track/6OgaXzdlt8fOkiXUpytRCc) | [Solmer](https://open.spotify.com/artist/7eqdkq0HQG1Q53nCfjCIE4) | [Birds at the River Mouth](https://open.spotify.com/album/7LCP7Q9dZSJdgRBagA5tfj) | 2:02 |
 | 31 | [Bird\-watching](https://open.spotify.com/track/3dxPEV0XTNkhvAqx790nmo) | [Swedish Forest Birds](https://open.spotify.com/artist/0aW02sXtwKH8TEaJDPvg9N) | [Morning Forest Birds](https://open.spotify.com/album/1g53d39LNzKfa8p1aJhN5B) | 2:58 |
-| 32 | [Spring Birds In The Forest](https://open.spotify.com/track/3DkJyqUOfk9eFg2f6Maqgw) | [Birds 3AM](https://open.spotify.com/artist/3zLSiXVBvq7O77m2aarmYq) | [Calming Bird Sounds](https://open.spotify.com/album/5ac2sp1AcWHGzhwrqHpZzJ) | 3:00 |
-| 33 | [Tropical Forest \- Rain and Birds](https://open.spotify.com/track/5MtCZdGKspLCFrnh0Gp2oB) | [Epic Nature Sounds](https://open.spotify.com/artist/3KCBnJE0Ww7kT7Z7CXlS7h) | [Rain Forest Birds](https://open.spotify.com/album/5JXFMCZS0auQFVWOrM1RIu) | 2:39 |
-| 34 | [Nature Sounds](https://open.spotify.com/track/0aiIxhhNwCZcUF4foUSpNa) | [When Doves Cry \(FX\)](https://open.spotify.com/artist/3lPRLDLxH0H7EhjakuDNgP) | [Bird Sounds Vol\. 1](https://open.spotify.com/album/7e7U3d9Ip6aMKP2PFTlOej) | 2:08 |
-| 35 | [Green Until Morning](https://open.spotify.com/track/1ITX87YFb7grS21U6fmLRt) | [The Long Nap](https://open.spotify.com/artist/2fTkJnbdhe9vfUyUbo7kaU) | [Green Until Morning](https://open.spotify.com/album/3vNdLwCQ5Eo6sjyTqjsnhn) | 2:04 |
+| 32 | [Tropical Forest \- Rain and Birds](https://open.spotify.com/track/5MtCZdGKspLCFrnh0Gp2oB) | [Epic Nature Sounds](https://open.spotify.com/artist/3KCBnJE0Ww7kT7Z7CXlS7h) | [Rain Forest Birds](https://open.spotify.com/album/5JXFMCZS0auQFVWOrM1RIu) | 2:39 |
+| 33 | [Spring Birds In The Forest](https://open.spotify.com/track/3DkJyqUOfk9eFg2f6Maqgw) | [Birds 3AM](https://open.spotify.com/artist/3zLSiXVBvq7O77m2aarmYq) | [Calming Bird Sounds](https://open.spotify.com/album/5ac2sp1AcWHGzhwrqHpZzJ) | 3:00 |
+| 34 | [Green Until Morning](https://open.spotify.com/track/1ITX87YFb7grS21U6fmLRt) | [The Long Nap](https://open.spotify.com/artist/2fTkJnbdhe9vfUyUbo7kaU) | [Green Until Morning](https://open.spotify.com/album/3vNdLwCQ5Eo6sjyTqjsnhn) | 2:04 |
+| 35 | [Nature Sounds](https://open.spotify.com/track/0aiIxhhNwCZcUF4foUSpNa) | [When Doves Cry \(FX\)](https://open.spotify.com/artist/3lPRLDLxH0H7EhjakuDNgP) | [Bird Sounds Vol\. 1](https://open.spotify.com/album/7e7U3d9Ip6aMKP2PFTlOej) | 2:08 |
 | 36 | [Tweeting in the Rain](https://open.spotify.com/track/5qGTFA3qALSfVvmtVUSvcO) | [Tura Cos](https://open.spotify.com/artist/1HH2hoJuJUgwfa5VTMVGsE) | [Tweeting in the Rain](https://open.spotify.com/album/5e2C4xdF6t8RpsFFLXMrqX) | 2:30 |
 | 37 | [Cuckoo & Other Birds](https://open.spotify.com/track/2oU9jD1FRGW1ocaKLcLeW9) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Cuckoo & Other Birds](https://open.spotify.com/album/4c5T7nnoDGFjy4eptvyysb) | 3:28 |
 | 38 | [Early Summer Birds](https://open.spotify.com/track/3tvAaXiUZAyMPae7NZFGGI) | [S\. Key](https://open.spotify.com/artist/4qtNIq9FnFG0UYLN8eMIp3) | [Rain Forest Bird Sounds](https://open.spotify.com/album/08DMQ9qH0U7vef2xE48l4c) | 2:10 |

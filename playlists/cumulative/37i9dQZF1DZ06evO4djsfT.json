@@ -659,6 +659,54 @@
     },
     {
       "album": {
+        "name": "THIS CANNOT BE SOLD",
+        "url": "https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178863,
+      "name": "FATHER",
+      "url": "https://open.spotify.com/track/7AoMr9VMS9Fs5fu5VjtbNx"
+    },
+    {
+      "album": {
+        "name": "THIS CANNOT BE SOLD",
+        "url": "https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        },
+        {
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208624,
+      "name": "FLEX",
+      "url": "https://open.spotify.com/track/1wmJZpCns6dHVDd4TGzXoD"
+    },
+    {
+      "album": {
         "name": "Thanks For Hating",
         "url": "https://open.spotify.com/album/5s9JCGTwH7cWs8Kt1tANZ7"
       },
@@ -978,7 +1026,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 236353,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
@@ -1106,7 +1154,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 177664,
       "name": "It Ain't Safe",
       "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
@@ -2009,6 +2057,24 @@
     },
     {
       "album": {
+        "name": "THIS CANNOT BE SOLD",
+        "url": "https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199904,
+      "name": "THIS CANNOT BE SOLD",
+      "url": "https://open.spotify.com/track/7xahuiQehSo1bzfWxOTD8y"
+    },
+    {
+      "album": {
         "name": "His Glory Alone",
         "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
       },
@@ -2096,7 +2162,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 237496,
       "name": "Undefeated (feat. KB)",
       "url": "https://open.spotify.com/track/3MU0cqyxgy3jc3Z4mu766m"

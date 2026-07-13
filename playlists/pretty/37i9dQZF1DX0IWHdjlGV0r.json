@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover: Tony Boy",
-  "num_followers": 129532,
+  "num_followers": 129533,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -135,18 +135,18 @@
     {
       "added_at": "2026-07-09 23:01:21",
       "album": {
-        "name": "Labirinto",
-        "url": "https://open.spotify.com/album/0vrr3P8BXPhM3eXtsBptuq"
+        "name": "Sfera Ebbasta",
+        "url": "https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc"
       },
       "artists": [
         {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 227321,
-      "name": "Labirinto",
-      "url": "https://open.spotify.com/track/11C1h0tuCW9qRa1QGPV9Vj"
+      "duration_ms": 149893,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/7kktKNHgINrBczPUGoG38p"
     },
     {
       "added_at": "2026-07-09 23:01:21",
@@ -171,18 +171,18 @@
     {
       "added_at": "2026-07-09 23:01:21",
       "album": {
-        "name": "Sfera Ebbasta",
-        "url": "https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc"
+        "name": "Labirinto",
+        "url": "https://open.spotify.com/album/0vrr3P8BXPhM3eXtsBptuq"
       },
       "artists": [
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         }
       ],
-      "duration_ms": 149893,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/7kktKNHgINrBczPUGoG38p"
+      "duration_ms": 227321,
+      "name": "Labirinto",
+      "url": "https://open.spotify.com/track/11C1h0tuCW9qRa1QGPV9Vj"
     },
     {
       "added_at": "2026-07-09 23:01:21",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-07-09 23:01:21",
       "album": {
-        "name": "TRAUMA",
-        "url": "https://open.spotify.com/album/09xCJhx72yNShO44mjQgF9"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "Chicchi di caff\u00e8",
-      "url": "https://open.spotify.com/track/4fW3I4ROMQShlXGxdSQN42"
-    },
-    {
-      "added_at": "2026-07-09 23:01:21",
-      "album": {
         "name": "Emanuele",
         "url": "https://open.spotify.com/album/0ezPP4vUJkMXitFq8oWxyl"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 185426,
       "name": "Vogl Sul A Te",
       "url": "https://open.spotify.com/track/4JajIgqHJAV0Neboj76fqG"
+    },
+    {
+      "added_at": "2026-07-09 23:01:21",
+      "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/09xCJhx72yNShO44mjQgF9"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "Chicchi di caff\u00e8",
+      "url": "https://open.spotify.com/track/4fW3I4ROMQShlXGxdSQN42"
     },
     {
       "added_at": "2026-07-09 23:01:21",
@@ -771,26 +771,6 @@
     {
       "added_at": "2026-07-09 23:01:21",
       "album": {
-        "name": "GLORIA",
-        "url": "https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf"
-      },
-      "artists": [
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 153429,
-      "name": "Tardi (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/4HOKazI3kyLZQWbT5AItaY"
-    },
-    {
-      "added_at": "2026-07-09 23:01:21",
-      "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
@@ -815,6 +795,26 @@
     {
       "added_at": "2026-07-09 23:01:21",
       "album": {
+        "name": "GLORIA",
+        "url": "https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 153429,
+      "name": "Tardi (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/4HOKazI3kyLZQWbT5AItaY"
+    },
+    {
+      "added_at": "2026-07-09 23:01:21",
+      "album": {
         "name": "Fenomeno",
         "url": "https://open.spotify.com/album/4ADdQgtvkvsnxYlg850nGA"
       },
@@ -831,18 +831,18 @@
     {
       "added_at": "2026-07-09 23:01:21",
       "album": {
-        "name": "RYAN TED",
-        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
+        "name": "Malammore",
+        "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
       },
       "artists": [
         {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         }
       ],
-      "duration_ms": 137999,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/1uT82ueY3VgRkN30shACCj"
+      "duration_ms": 265454,
+      "name": "Ti Amo",
+      "url": "https://open.spotify.com/track/1pq4fzp7UvGPLGzueOKaEf"
     },
     {
       "added_at": "2026-07-09 23:01:21",
@@ -863,18 +863,18 @@
     {
       "added_at": "2026-07-09 23:01:21",
       "album": {
-        "name": "Malammore",
-        "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
+        "name": "RYAN TED",
+        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
       },
       "artists": [
         {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
         }
       ],
-      "duration_ms": 265454,
-      "name": "Ti Amo",
-      "url": "https://open.spotify.com/track/1pq4fzp7UvGPLGzueOKaEf"
+      "duration_ms": 137999,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/1uT82ueY3VgRkN30shACCj"
     },
     {
       "added_at": "2026-07-09 23:01:21",
@@ -907,6 +907,22 @@
       "duration_ms": 194106,
       "name": "Veleno",
       "url": "https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi"
+    },
+    {
+      "added_at": "2026-07-09 23:01:21",
+      "album": {
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 180009,
+      "name": "Torna Da Me",
+      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
     },
     {
       "added_at": "2026-07-09 23:01:21",
@@ -951,22 +967,6 @@
       "duration_ms": 179072,
       "name": "Donna",
       "url": "https://open.spotify.com/track/5EeDZPNPIjEtEZsHMkX1m7"
-    },
-    {
-      "added_at": "2026-07-09 23:01:21",
-      "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 180009,
-      "name": "Torna Da Me",
-      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
     },
     {
       "added_at": "2026-07-09 23:01:21",

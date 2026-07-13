@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,146 likes - 154 songs - 8 hr 28 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,147 likes - 154 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 12 | [Party Time \(feat\. Aatig\)](https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Party Time \(feat\. Aatig\)](https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl) | 3:19 |
 | 13 | [Sunrise](https://open.spotify.com/track/0pBQeW67FSH0renLPFJA4t) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [PART III \- AWAKENING](https://open.spotify.com/album/2AFcx4PkJV4GVlAUObRuBQ) | 3:03 |
 | 14 | [Sunset](https://open.spotify.com/track/5XmEceDuVQqzR9kINPTBvP) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [Sunset](https://open.spotify.com/album/6HFWbYaXiwvKFewZ5D2Cik) | 3:16 |
-| 15 | [Obsessed](https://open.spotify.com/track/0zlkI2TtbVQf3gGMDTZYWs) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Limerence EP](https://open.spotify.com/album/75ryCp9ayoj6rMVrT3ecQe) | 2:42 |
+| 15 | [Obsessed](https://open.spotify.com/track/0zlkI2TtbVQf3gGMDTZYWs) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Limerence](https://open.spotify.com/album/75ryCp9ayoj6rMVrT3ecQe) | 2:42 |
 | 16 | [Can I Ride](https://open.spotify.com/track/3gXGtYT41b4FXYctdxMwCI) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [95 South](https://open.spotify.com/artist/3vjd6YHdWCqO3MWaYbxDf0) | [Can I Ride](https://open.spotify.com/album/4N2frseoAuec502jnHYCb8) | 2:43 |
 | 17 | [One Night in Berlin](https://open.spotify.com/track/3GVVg0MWllRsWTQ8zjNQkK) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Winter Forever](https://open.spotify.com/album/1FUFzxsvK09N0hFg0dkPyd) | 3:00 |
 | 18 | [Dancefloor](https://open.spotify.com/track/5E4iGfSEkq4PzVsH0mc0lp) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [Dancefloor](https://open.spotify.com/album/2twJlNx1PTH1onIa0MkS7X) | 3:43 |

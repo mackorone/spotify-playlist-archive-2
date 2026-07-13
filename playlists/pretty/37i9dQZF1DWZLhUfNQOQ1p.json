@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano \ud83e\udd43",
-  "num_followers": 251700,
+  "num_followers": 251695,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-05-21 22:02:59",
       "album": {
-        "name": "Falling for You",
-        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
-    },
-    {
-      "added_at": "2026-05-21 22:02:59",
-      "album": {
         "name": "Ordinary Drugs",
         "url": "https://open.spotify.com/album/3na24PKpM5Bh0xwvIcpPms"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 421700,
       "name": "These Are Just Places To Me Now",
       "url": "https://open.spotify.com/track/5kAwEqCAJ4yHdHmlAMSczs"
+    },
+    {
+      "added_at": "2026-05-21 22:02:59",
+      "album": {
+        "name": "Falling for You",
+        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
     },
     {
       "added_at": "2026-05-21 22:02:59",
@@ -947,22 +947,18 @@
     {
       "added_at": "2026-05-21 22:02:59",
       "album": {
-        "name": "Baxter (these are my friends)",
-        "url": "https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz"
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Baxter Dury",
-          "url": "https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 244034,
-      "name": "Baxter (these are my friends)",
-      "url": "https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg"
+      "duration_ms": 138951,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
     },
     {
       "added_at": "2026-05-21 22:02:59",
@@ -983,18 +979,22 @@
     {
       "added_at": "2026-05-21 22:02:59",
       "album": {
-        "name": "How It Feels",
-        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
+        "name": "Baxter (these are my friends)",
+        "url": "https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baxter Dury",
+          "url": "https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O"
         }
       ],
-      "duration_ms": 138951,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
+      "duration_ms": 244034,
+      "name": "Baxter (these are my friends)",
+      "url": "https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg"
     },
     {
       "added_at": "2026-05-21 22:02:59",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-05-21 22:02:59",
       "album": {
-        "name": "I Did You Wrong",
-        "url": "https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi"
-      },
-      "artists": [
-        {
-          "name": "Harry Hayes",
-          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
-        }
-      ],
-      "duration_ms": 172965,
-      "name": "I Did You Wrong",
-      "url": "https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX"
-    },
-    {
-      "added_at": "2026-05-21 22:02:59",
-      "album": {
         "name": "Nothing Better Than Music",
         "url": "https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3"
       },
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2026-05-21 22:02:59",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq"
+        "name": "I Did You Wrong",
+        "url": "https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi"
       },
       "artists": [
         {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
         }
       ],
-      "duration_ms": 303130,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN"
+      "duration_ms": 172965,
+      "name": "I Did You Wrong",
+      "url": "https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX"
     },
     {
       "added_at": "2026-05-21 22:02:59",
@@ -1611,22 +1595,18 @@
     {
       "added_at": "2026-05-21 22:02:59",
       "album": {
-        "name": "People of the Moon",
-        "url": "https://open.spotify.com/album/7b2loBX3KU66zmHk4UI30K"
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        },
-        {
-          "name": "Celinatique",
-          "url": "https://open.spotify.com/artist/1KcayMdMfOmdGF1Lq11F3T"
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
         }
       ],
-      "duration_ms": 213674,
-      "name": "Shway Shway",
-      "url": "https://open.spotify.com/track/13S2diRuXwgWCnJrPkot6D"
+      "duration_ms": 303130,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN"
     },
     {
       "added_at": "2026-05-21 22:02:59",
@@ -1647,6 +1627,26 @@
       "duration_ms": 136088,
       "name": "Coroa",
       "url": "https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3"
+    },
+    {
+      "added_at": "2026-05-21 22:02:59",
+      "album": {
+        "name": "People of the Moon",
+        "url": "https://open.spotify.com/album/7b2loBX3KU66zmHk4UI30K"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        },
+        {
+          "name": "Celinatique",
+          "url": "https://open.spotify.com/artist/1KcayMdMfOmdGF1Lq11F3T"
+        }
+      ],
+      "duration_ms": 213674,
+      "name": "Shway Shway",
+      "url": "https://open.spotify.com/track/13S2diRuXwgWCnJrPkot6D"
     },
     {
       "added_at": "2026-05-21 22:02:59",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2026-05-21 22:02:59",
       "album": {
+        "name": "Yatta!",
+        "url": "https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W"
+      },
+      "artists": [
+        {
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+        }
+      ],
+      "duration_ms": 271247,
+      "name": "In Search of Yang",
+      "url": "https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr"
+    },
+    {
+      "added_at": "2026-05-21 22:02:59",
+      "album": {
         "name": "Chica",
         "url": "https://open.spotify.com/album/3gAmDlq88VR7wOramBaeZi"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 130393,
       "name": "Chica",
       "url": "https://open.spotify.com/track/2ZgaR05AXBq8UvE7yx6nDi"
-    },
-    {
-      "added_at": "2026-05-21 22:02:59",
-      "album": {
-        "name": "Yatta!",
-        "url": "https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W"
-      },
-      "artists": [
-        {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
-        }
-      ],
-      "duration_ms": 271247,
-      "name": "In Search of Yang",
-      "url": "https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr"
     },
     {
       "added_at": "2026-05-21 22:02:59",

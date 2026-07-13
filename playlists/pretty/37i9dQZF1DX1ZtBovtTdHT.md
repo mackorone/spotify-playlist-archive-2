@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,147 likes - 82 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,185 likes - 82 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 64 | [Out of the Blue \- Radio Edit](https://open.spotify.com/track/0t8fgj3EHfChyTeCT2th22) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue Remastered](https://open.spotify.com/album/6Opf5LVPBWGOhCSYY5yTQZ) | 3:54 |
 | 65 | [You](https://open.spotify.com/track/2x7eD4StqS1n9XTBJDOn7A) | [La Cream](https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc) | [La Cream](https://open.spotify.com/album/6QfZW2wYR43ZpVVXruPbpQ) | 3:07 |
 | 66 | [Protect Your Mind \(Braveheart\) \- Vocal Mix](https://open.spotify.com/track/2BrQKigNLErWheTt6nXYXZ) | [DJ Sakin & Friends](https://open.spotify.com/artist/7rz2w4y86wgga7Z6nrJKty) | [Protect Your Mind \(Braveheart\)](https://open.spotify.com/album/2IHaZr494ZaU2M4mYmIqaq) | 3:39 |
-| 67 | [Believe \- Radio Version](https://open.spotify.com/track/5YoPqsi7hkinkyrdQSgrkK) | [Antiloop](https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK) | [At The Rebels Room](https://open.spotify.com/album/10kMItbeNNucdGw3RiKgci) | 3:26 |
-| 68 | [Saltwater](https://open.spotify.com/track/4cI6ONQUJyGtLXzOYaM2P0) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Best Of Chicane](https://open.spotify.com/album/3t2sS4OnOQDLZ1oqYBlTen) | 3:22 |
+| 67 | [Saltwater](https://open.spotify.com/track/4cI6ONQUJyGtLXzOYaM2P0) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Best Of Chicane](https://open.spotify.com/album/3t2sS4OnOQDLZ1oqYBlTen) | 3:22 |
+| 68 | [Believe \- Radio Version](https://open.spotify.com/track/5YoPqsi7hkinkyrdQSgrkK) | [Antiloop](https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK) | [At The Rebels Room](https://open.spotify.com/album/10kMItbeNNucdGw3RiKgci) | 3:26 |
 | 69 | [Lift Me Up \- Barthezz Uplifting Remix](https://open.spotify.com/track/2wT7K2yIR1Tlf116qUc02C) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [Lift Me Up](https://open.spotify.com/album/69hzCLwyNDH2m7m2YV6FAH) | 8:42 |
 | 70 | [Played\-A\-Live \(The Bongo Song\)](https://open.spotify.com/track/3GNluLmWNf2QaK1KWTSBsp) | [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl) | [The Remix Edition \- Episode ll](https://open.spotify.com/album/1nrbP2ZpwFZjiOzU4LCh8c) | 6:45 |
 | 71 | [Carte Blanche \- Original Mix](https://open.spotify.com/track/2YmQ5jhgV7EX7yWR1IEP9c) | [Veracocha](https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd) | [30 Best Trance Anthems Best Ever](https://open.spotify.com/album/0rIzXOKFdnHhZ4Qmqtd9Ax) | 7:04 |

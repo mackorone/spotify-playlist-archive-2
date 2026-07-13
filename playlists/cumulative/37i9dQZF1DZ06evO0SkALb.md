@@ -4,7 +4,7 @@
 
 > This is Lou Rawls\. The essential tracks, all in one playlist.
 
-122 songs - 7 hr 38 min
+123 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Dead End Street](https://open.spotify.com/track/6lE3fTHyZgGtT2adZSLYxW) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Legendary Lou Rawls](https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2) | 4:00 | 2022-05-25 |  |
 | [Early Morning Love](https://open.spotify.com/track/77SdpzxMVJIjpYkrObUHdP) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 5:39 | 2022-05-25 |  |
 | [Early Morning Love](https://open.spotify.com/track/4sy7qMHNQCBGJGLjwmnPt7) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Unmistakably Lou](https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r) | 5:41 | 2023-03-29 | 2024-03-30 |
-| [Evil Woman](https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [I Can't Make It Alone: The Axelrod Years](https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU) | 2:36 | 2022-05-25 |  |
+| [Evil Woman](https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [I Can't Make It Alone: The Axelrod Years](https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU) | 2:36 | 2022-05-25 | 2026-07-13 |
 | [Fine Brown Frame](https://open.spotify.com/track/529bZN7XbpbDog5xQqC3wA) | [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [At Last](https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb) | 3:05 | 2022-05-25 |  |
 | [For What It's Worth](https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Brotherman!: Lou Rawls Sings His Hits](https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI) | 2:56 | 2022-05-25 |  |
 | [From Now On](https://open.spotify.com/track/4ZhTHLapD13w79NiWrHHBX) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 4:54 | 2022-05-26 |  |
@@ -71,6 +71,7 @@
 | [Mama Told Me Not To Come](https://open.spotify.com/track/17ArYcblk6XbugVhEgNp65) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Brotherman!: Lou Rawls Sings His Hits](https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI) | 2:28 | 2022-05-25 | 2023-05-12 |
 | [Medley: Nearer My God to Thee / Touch the Hem of His Garment / Were You There](https://open.spotify.com/track/6JrftCZWM4SpeVJKFBDYGb) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [I'm Blessed](https://open.spotify.com/album/3QzhFMsQAECe4fEeoRmVXD) | 3:26 | 2023-05-16 | 2023-06-13 |
 | [Memory Lane \- Digitally Remastered 00](https://open.spotify.com/track/3KGEE8xTPq9Af0NYDGpYwL) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 2:19 | 2023-02-27 | 2024-03-10 |
+| [Motherless Child \- 2006 Remaster](https://open.spotify.com/track/3D0bPVUYWhOIzLREJh7LXU) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Best Of Lou Rawls \- The Capitol Jazz & Blues Sessions](https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp) | 3:16 | 2026-07-13 |  |
 | [Need You Forever](https://open.spotify.com/track/1eKsrQNO0oFGXn7xQxQYmd) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 4:37 | 2022-05-28 | 2025-12-08 |
 | [Nine Pound Hammer](https://open.spotify.com/track/1gbdDazbGiV83TxannfdyL) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Hit After Hit](https://open.spotify.com/album/6trCrDq7j7Uku5GIiYE7qA) | 2:14 | 2023-01-07 | 2023-04-11 |
 | [Nobody But Me](https://open.spotify.com/track/1TKnomDQTCtUQEKdGwaE5S) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Nobody But Lou](https://open.spotify.com/album/40USXRMkbizt4we2w2QQaM) | 2:44 | 2022-05-25 |  |

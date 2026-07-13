@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-384 songs - 22 hr 37 min
+385 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [My Day Is Full Of You](https://open.spotify.com/track/0E09yC5CNtv2TAQ0rafPPU) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/02Rqv4sMAds4LTlyWtojjz) | 3:40 | 2022-05-11 | 2022-07-28 |
 | [My Day Is Full Of You](https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King : Eternal Monarch, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5) | 3:40 | 2022-07-08 | 2024-04-19 |
 | [My Everything](https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:53 | 2022-05-11 | 2026-03-04 |
+| [My Everything](https://open.spotify.com/track/30OyUSm3KRcjZQ3Nb1kbXR) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [My Everything](https://open.spotify.com/album/06A6Z2M5V6JFVAXEAg4LAg) | 3:54 | 2026-06-25 |  |
 | [My Gravity](https://open.spotify.com/track/1NzfMg7CDnsW3V5nwsTwaL) | [Rehyun](https://open.spotify.com/artist/5ne2UEVwxysqc7mdjlLxE2) | [My Gravity](https://open.spotify.com/album/2YBE0Yasc9s7ij0mfaQ71f) | 3:33 | 2022-07-08 | 2022-07-10 |
 | [My Home](https://open.spotify.com/track/4d3y4RHBHrQGZcoTAHsfcT) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [My Home](https://open.spotify.com/album/0HozvH2bWEQSkUXVZ0yuKL) | 3:36 | 2025-04-30 | 2025-07-01 |
 | [my lover \(feat\. 은민\)](https://open.spotify.com/track/201PUPfhf0z90GtofD31Xj) | [K\. Flower](https://open.spotify.com/artist/4fl5iU2GyOJDqtIOVgch5l), [은민](https://open.spotify.com/artist/3GsFLow1FEq1uQffS9BTsL) | [my lover](https://open.spotify.com/album/2BjLpq4YMjocXjx0jvWZpL) | 3:09 | 2025-07-29 | 2025-09-18 |
@@ -324,7 +325,7 @@
 | [Thinkin’ Bout U](https://open.spotify.com/track/1LXJv1gk92JZ0LJ8I7glo2) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ELSE](https://open.spotify.com/album/3Xf88Z2tDQeLdzBxa7naSL) | 2:52 | 2025-12-04 |  |
 | [This night](https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh) | [Sujin Park](https://open.spotify.com/artist/2gkonIWljjR6P00qwvv1eq) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.14](https://open.spotify.com/album/4lpNUxhIWHe91XS8evCBXF) | 4:03 | 2022-07-08 | 2022-08-02 |
 | [Thought Of You](https://open.spotify.com/track/71D25BGzsq5OxlENZnq9N0) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Thought Of You](https://open.spotify.com/album/0K90xZWqXh0XyozCkQXu13) | 3:50 | 2025-04-15 |  |
-| [To Our Youth](https://open.spotify.com/track/2PFKUY9Fdqwo8GhLGlIB7G) | [KIM TAE RAE](https://open.spotify.com/artist/4Ac3PLCD4z5zPENWsmFKNJ) | [My Youth \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/7eZPYsBNDVcH4krQsj0w2H) | 3:49 | 2025-09-30 |  |
+| [To Our Youth](https://open.spotify.com/track/2PFKUY9Fdqwo8GhLGlIB7G) | [KIM TAE RAE](https://open.spotify.com/artist/4Ac3PLCD4z5zPENWsmFKNJ) | [My Youth \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/7eZPYsBNDVcH4krQsj0w2H) | 3:49 | 2025-09-30 | 2026-07-13 |
 | [To you, dear](https://open.spotify.com/track/4T64VKmcDdr6a6idK97103) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [To you, dear](https://open.spotify.com/album/6UXcVnWn5mY8eHrfTIkEXZ) | 3:25 | 2022-05-11 | 2022-07-28 |
 | [To\. 나의 너에게](https://open.spotify.com/track/2jOQeGOsILKKYMXa4HLeAz) | [Grynia](https://open.spotify.com/artist/2g7hSTAqrLrPg7WrftlckL) | [To\. 나의 너에게](https://open.spotify.com/album/40Fa1grxvhVaL2ikEBc6Ua) | 3:33 | 2022-07-04 | 2022-07-09 |
 | [Today](https://open.spotify.com/track/4X45vj2AcrqfXWfvmVQQF2) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Ocean like me \(Original Web Drama Soundtrack, Pt\. 3\)](https://open.spotify.com/album/0xLr70Id543bJ27W9hOmSM) | 3:39 | 2022-06-09 | 2022-07-28 |

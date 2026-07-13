@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,641 likes - 186 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,639 likes - 186 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 97 | [Time](https://open.spotify.com/track/1fX5QlNmnqd8mqDGpaNihh) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [More Issues Than Vogue](https://open.spotify.com/album/307Vo39bAFM833KEs9Op54) | 4:37 |
 | 98 | [Nekkid](https://open.spotify.com/track/1OSyK54acJ96t1sUYuGFj6) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [Nekkid](https://open.spotify.com/album/6YWtCMOc0zrWCsFziTcK8k) | 3:01 |
 | 99 | [Fade Away](https://open.spotify.com/track/3haG6HgBpcfEZ6UyiGJRsa) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Selah Sue](https://open.spotify.com/album/4QodEuQxjtrNR9htVuaUYr) | 3:27 |
-| 100 | [Black Like This](https://open.spotify.com/track/5psEg4QfGu8BfMrJnKmDWe) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Black Like This](https://open.spotify.com/album/1FRq94WhiBSXL1wBr6Nlfk) | 3:15 |
-| 101 | [Useless \(Without You\) \- Begging Remix](https://open.spotify.com/track/7fiTUtc8p2LhK6RdA4o3CH) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Useless \(Without You\) \[Begging Remix\]](https://open.spotify.com/album/0bqXDEj0z7zFICu38GyvEt) | 3:07 |
+| 100 | [Useless \(Without You\) \- Begging Remix](https://open.spotify.com/track/7fiTUtc8p2LhK6RdA4o3CH) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Useless \(Without You\) \[Begging Remix\]](https://open.spotify.com/album/0bqXDEj0z7zFICu38GyvEt) | 3:07 |
+| 101 | [Black Like This](https://open.spotify.com/track/5psEg4QfGu8BfMrJnKmDWe) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Black Like This](https://open.spotify.com/album/1FRq94WhiBSXL1wBr6Nlfk) | 3:15 |
 | 102 | [IMU](https://open.spotify.com/track/2IoafSDStF6NzyHGeCaFSe) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:08 |
 | 103 | [Wax](https://open.spotify.com/track/4sJxHl826ztgX6POnBFNW8) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Black Like This](https://open.spotify.com/album/1FRq94WhiBSXL1wBr6Nlfk) | 3:06 |
 | 104 | [Extra \(Like O.M.G.\)](https://open.spotify.com/track/6PderaWMhMJYFvcoJfvn4I) | [L.O.L\. Surprise!](https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7) | [Remix](https://open.spotify.com/album/0NSAoiqAnyws6UzcYaCbV2) | 2:34 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 136 | [Lemons](https://open.spotify.com/track/7fP47F2aXBjZbDEmgXy8GM) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 4:03 |
 | 137 | [Played Yourself](https://open.spotify.com/track/6OQsm0MFwDmxbg4XHat3xN) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:46 |
 | 138 | [Waste No Time](https://open.spotify.com/track/3seKCddphT37p1CwflkMjq) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:53 |
-| 139 | [Brain on Love](https://open.spotify.com/track/72tEaxWcOKqryAVMatWYFs) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [KIMBERLY: The People I Used to Know](https://open.spotify.com/album/2nIA5nr4NS4aYi5VWaUn5o) | 3:27 |
-| 140 | [Richest](https://open.spotify.com/track/6JUObwBY69Zi8k5tOcUsch) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Richest](https://open.spotify.com/album/58IJMjXWxHRcE4p1HHTieI) | 3:39 |
+| 139 | [Richest](https://open.spotify.com/track/6JUObwBY69Zi8k5tOcUsch) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Richest](https://open.spotify.com/album/58IJMjXWxHRcE4p1HHTieI) | 3:39 |
+| 140 | [Brain on Love](https://open.spotify.com/track/72tEaxWcOKqryAVMatWYFs) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [KIMBERLY: The People I Used to Know](https://open.spotify.com/album/2nIA5nr4NS4aYi5VWaUn5o) | 3:27 |
 | 141 | [Things I Never Said](https://open.spotify.com/track/4NkSEQ9ykv5lxptj7vXzH4) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:49 |
 | 142 | [Waffle House](https://open.spotify.com/track/7rTbf1HtSdaS92YgPWWyND) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Black Like This](https://open.spotify.com/album/1FRq94WhiBSXL1wBr6Nlfk) | 3:24 |
 | 143 | [Rainbow](https://open.spotify.com/track/1B1cX30isYsLUv70hvzeHP) | [Russ Hamilton](https://open.spotify.com/artist/6ghW1DfBe5HLRybsxZrQHV) | [Sunny Echoes](https://open.spotify.com/album/1nhwj80NecfB2HPmazLzTn) | 2:43 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 185 | [Baby Boo \- Workout Remix 134 BPM](https://open.spotify.com/track/3tZEV74gCQZIt0yVuWPX1c) | [Power Music Workout](https://open.spotify.com/artist/3GghVvugpv9nXQ2YFzZNzN) | [Songs of Fall 2022](https://open.spotify.com/album/48HC6047249VkSzqDxG5uA) | 4:32 |
 | 186 | [In Love](https://open.spotify.com/track/3kgxoIxhSa1BA1GxPUAG7J) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Anthology](https://open.spotify.com/album/4xVzLBLJcAn5gwFeeFsk9c) | 2:21 |
 
-Snapshot ID: `AcWmiAAAAAB9IPIXnXYZbYRXXwZp4V26`
+Snapshot ID: `AcWsKAAAAACxfKf5tFDYtpLNAkkQQm5T`

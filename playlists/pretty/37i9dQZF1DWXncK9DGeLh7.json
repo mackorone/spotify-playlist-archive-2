@@ -1,6 +1,6 @@
 {
   "description": "100% soul et funk !",
-  "num_followers": 355099,
+  "num_followers": 355116,
   "original_name": "Flashback",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-11-06 14:22:20",
       "album": {
+        "name": "Fantastic",
+        "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 265600,
+      "name": "Club Tropicana",
+      "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
+    },
+    {
+      "added_at": "2025-11-06 14:22:20",
+      "album": {
         "name": "Don't Look Any Further (Expanded Edition)",
         "url": "https://open.spotify.com/album/4OUaPGTJDxhHCSyZxdWvXk"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 242213,
       "name": "Don't Look Any Further",
       "url": "https://open.spotify.com/track/3GiSgsFwPp8zY7yTGsRlyR"
-    },
-    {
-      "added_at": "2025-11-06 14:22:20",
-      "album": {
-        "name": "Fantastic",
-        "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 265600,
-      "name": "Club Tropicana",
-      "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
     },
     {
       "added_at": "2025-11-06 14:22:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 > This is Saweetie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,772 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,773 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 44 | [High Maintenance](https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [High Maintenance](https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW) | 0:49 |
 | 45 | [SHOT O' CLOCK](https://open.spotify.com/track/1c99LA5Cf1agM5NMMAzVwc) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [SHOT O' CLOCK](https://open.spotify.com/album/0FGFaLjqjVkavZbKtFTWXJ) | 2:30 |
 | 46 | [Do It For The Bay](https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [P\-Lo](https://open.spotify.com/artist/5E2Y3HJBvm4P5GK1kBRMtG) | [Do It For The Bay](https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60) | 1:58 |
-| 47 | [Richtivities](https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Richtivities](https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB) | 2:56 |
-| 48 | [pressure](https://open.spotify.com/track/3hlJXtUKYF4AZUoKtLZeve) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [HELLA PRESSURE](https://open.spotify.com/album/1dG31Tcl0pmtn9vtFWw13d) | 2:42 |
+| 47 | [pressure](https://open.spotify.com/track/3hlJXtUKYF4AZUoKtLZeve) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [HELLA PRESSURE](https://open.spotify.com/album/1dG31Tcl0pmtn9vtFWw13d) | 2:42 |
+| 48 | [Richtivities](https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Richtivities](https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB) | 2:56 |
 | 49 | [In My Face \(with 2 Chainz, Saweetie feat\. YG\)](https://open.spotify.com/track/19fuLoVyOa6Ok2xWbMpXxH) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Survivor's Guilt](https://open.spotify.com/album/6URnbR6SZsQmhopg3x68ea) | 3:21 |
 | 50 | [Shake It Fast \(Prod\. THE HUB\)](https://open.spotify.com/track/5KzwhUeX1NLn3xJdT2ixxI) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Shake It Fast \(WSWF Original Vol.3\)](https://open.spotify.com/album/1TrbxBfTQ0ggFneHjgT0Dh) | 2:11 |
 
-Snapshot ID: `alA2AAAAAAB/gm/tqXCpo6HIzbXcXo1R`
+Snapshot ID: `alGHgAAAAACYWest6qYvrsEiZg7xv4Nf`

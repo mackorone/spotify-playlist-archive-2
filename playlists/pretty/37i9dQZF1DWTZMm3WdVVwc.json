@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27246,
+  "num_followers": 27244,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -137,20 +137,20 @@
       "url": "https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
+      "added_at": "2025-10-23 13:55:51",
       "album": {
-        "name": "\u51ac\u3068\u6625",
-        "url": "https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN"
+        "name": "\u30ab\u30d6\u30c8\u30e0\u30b7",
+        "url": "https://open.spotify.com/album/435g2ph49cnQXxyUbFbYTJ"
       },
       "artists": [
         {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
         }
       ],
-      "duration_ms": 256786,
-      "name": "\u51ac\u3068\u6625",
-      "url": "https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC"
+      "duration_ms": 313066,
+      "name": "\u30ab\u30d6\u30c8\u30e0\u30b7",
+      "url": "https://open.spotify.com/track/2Os0vzke5CakbU3dkSHckx"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -201,20 +201,20 @@
       "url": "https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
+      "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "\u30ab\u30d6\u30c8\u30e0\u30b7",
-        "url": "https://open.spotify.com/album/435g2ph49cnQXxyUbFbYTJ"
+        "name": "\u51ac\u3068\u6625",
+        "url": "https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN"
       },
       "artists": [
         {
-          "name": "aiko",
-          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
         }
       ],
-      "duration_ms": 313066,
-      "name": "\u30ab\u30d6\u30c8\u30e0\u30b7",
-      "url": "https://open.spotify.com/track/2Os0vzke5CakbU3dkSHckx"
+      "duration_ms": 256786,
+      "name": "\u51ac\u3068\u6625",
+      "url": "https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-10-23 13:55:51",
       "album": {
-        "name": "\u732b\u3068\u30a2\u30ec\u30eb\u30ae\u30fc",
-        "url": "https://open.spotify.com/album/42G6RaP6sG7YOPYSyOFkkK"
-      },
-      "artists": [
-        {
-          "name": "Kinokoteikoku",
-          "url": "https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ"
-        }
-      ],
-      "duration_ms": 224480,
-      "name": "\u602a\u7363\u306e\u8155\u306e\u306a\u304b",
-      "url": "https://open.spotify.com/track/6MqrpdDa19FOxnhWfPsCgo"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
         "name": "POP LIFE",
         "url": "https://open.spotify.com/album/2jb27PDgg002Gnfo357dwv"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 361080,
       "name": "LOVER SOUL",
       "url": "https://open.spotify.com/track/2i0GSXJfOgIMYmncn5S9Yx"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u732b\u3068\u30a2\u30ec\u30eb\u30ae\u30fc",
+        "url": "https://open.spotify.com/album/42G6RaP6sG7YOPYSyOFkkK"
+      },
+      "artists": [
+        {
+          "name": "Kinokoteikoku",
+          "url": "https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ"
+        }
+      ],
+      "duration_ms": 224480,
+      "name": "\u602a\u7363\u306e\u8155\u306e\u306a\u304b",
+      "url": "https://open.spotify.com/track/6MqrpdDa19FOxnhWfPsCgo"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/3LlShzvjsM4nem8uADXWvn"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "\u6cab\u96ea",
-        "url": "https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 184266,
-      "name": "\u6cab\u96ea",
-      "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "The History of Shogo Hamada\u201cSince 1975\u201d",
@@ -1183,6 +1167,22 @@
       "duration_ms": 311946,
       "name": "\u60b2\u3057\u307f\u306f\u96ea\u306e\u3088\u3046\u306b (single / 1992)",
       "url": "https://open.spotify.com/track/10HHmKRsZmQLXQ3kiAEef1"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "\u6cab\u96ea",
+        "url": "https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 184266,
+      "name": "\u6cab\u96ea",
+      "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
     },
     {
       "added_at": "2025-03-11 22:40:18",

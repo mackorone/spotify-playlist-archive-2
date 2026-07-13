@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37784,
+  "num_followers": 37788,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAACTRJlvozDOx28AxCDEd9uZ",
+  "snapshot_id": "alGHgAAAAABs7Vl65LyykoCCQgt6xcEb",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Angel Miners & The Lightning Riders",
+        "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 223320,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/6RSVgjjYRtKg4FDyx2Lj1u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Carry On",
         "url": "https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 169171,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/58hzFlHm1gKIJzRMSt0vWV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Angel Miners & The Lightning Riders",
-        "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 223320,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/6RSVgjjYRtKg4FDyx2Lj1u"
     },
     {
       "added_at": null,
@@ -643,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRAINDEAD",
-        "url": "https://open.spotify.com/album/0ljZRCAuKCLVEhqfnw6Ygv"
+        "name": "Here Come the Runts",
+        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
       },
       "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        },
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 215849,
-      "name": "flagpole sitta",
-      "url": "https://open.spotify.com/track/2IIeiY0ZtqrJLnKZxuLGf1"
+      "duration_ms": 189861,
+      "name": "Jealous Buffoon",
+      "url": "https://open.spotify.com/track/6RwLKfndAAn4vr1AjN3UYd"
     },
     {
       "added_at": null,
@@ -683,18 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Come the Runts",
-        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
+        "name": "BRAINDEAD",
+        "url": "https://open.spotify.com/album/0ljZRCAuKCLVEhqfnw6Ygv"
       },
       "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        },
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 189861,
-      "name": "Jealous Buffoon",
-      "url": "https://open.spotify.com/track/6RwLKfndAAn4vr1AjN3UYd"
+      "duration_ms": 215849,
+      "name": "flagpole sitta",
+      "url": "https://open.spotify.com/track/2IIeiY0ZtqrJLnKZxuLGf1"
     },
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Echo, My Shadow, My Covers & Me",
-        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 249212,
-      "name": "Flagpole Sitta (feat. Elohim)",
-      "url": "https://open.spotify.com/track/5KcdcUuL8YI3PqeQIvJj2H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Table for One (feat. Elohim)",
         "url": "https://open.spotify.com/album/6Vh3fdmfzij1qT1KVHapZQ"
       },
@@ -823,18 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Come the Runts",
-        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
+        "name": "My Echo, My Shadow, My Covers & Me",
+        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
       "artists": [
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
         }
       ],
-      "duration_ms": 199307,
-      "name": "Here Come the Runts",
-      "url": "https://open.spotify.com/track/5HWpx5Pjj9wFROhreH612d"
+      "duration_ms": 249212,
+      "name": "Flagpole Sitta (feat. Elohim)",
+      "url": "https://open.spotify.com/track/5KcdcUuL8YI3PqeQIvJj2H"
     },
     {
       "added_at": null,
@@ -851,6 +835,42 @@
       "duration_ms": 191200,
       "name": "Shoestrings",
       "url": "https://open.spotify.com/track/0QvqrTGC7FSolbg8rQbHGa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here Come the Runts",
+        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 199307,
+      "name": "Here Come the Runts",
+      "url": "https://open.spotify.com/track/5HWpx5Pjj9wFROhreH612d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/02JHHLFl8FLvBU1QwQCeod"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 155040,
+      "name": "Dark Matter",
+      "url": "https://open.spotify.com/track/34Urb4ACJPDLOkpGBgli2P"
     },
     {
       "added_at": null,
@@ -875,26 +895,6 @@
       "duration_ms": 241609,
       "name": "Maniac (feat. Conor Mason of Nothing But Thieves)",
       "url": "https://open.spotify.com/track/2Qc4hOAjwrmqCtsZRhjzU3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/02JHHLFl8FLvBU1QwQCeod"
-      },
-      "artists": [
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        },
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 155040,
-      "name": "Dark Matter",
-      "url": "https://open.spotify.com/track/34Urb4ACJPDLOkpGBgli2P"
     }
   ],
   "unique_name": "This Is AWOLNATION",

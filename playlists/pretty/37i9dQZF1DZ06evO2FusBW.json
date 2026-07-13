@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 11237,
+  "num_followers": 11238,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAD1PiII7jSaln/2gA8ihDre",
+  "snapshot_id": "alGHgAAAAABZ/303fIxtztjGoz6KXKra",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 137213,
-      "name": "Memory of Water",
-      "url": "https://open.spotify.com/track/6VUXskL75b1kqK3hIHegWW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tree of Light",
         "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 209293,
       "name": "Theme Music for a Dream",
       "url": "https://open.spotify.com/track/1k3ZB5BjdvFTsryiCjbVkd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 137213,
+      "name": "Memory of Water",
+      "url": "https://open.spotify.com/track/6VUXskL75b1kqK3hIHegWW"
     },
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 205760,
-      "name": "Essence of Light",
-      "url": "https://open.spotify.com/track/2dpATRXkRpyuIrnZalU1x7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tree of Light",
         "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 235106,
       "name": "Ukiyo",
       "url": "https://open.spotify.com/track/1w1vmGM5nzNsQviR9dC4Sc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 205760,
+      "name": "Essence of Light",
+      "url": "https://open.spotify.com/track/2dpATRXkRpyuIrnZalU1x7"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Way of Light",
-        "url": "https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 196906,
-      "name": "My Way of Light",
-      "url": "https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tree of Light",
         "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 154000,
       "name": "Tree of Light - A Call to Arms",
       "url": "https://open.spotify.com/track/6gE9ia6ayDUkHwoUzZVYVQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Way of Light",
+        "url": "https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 196906,
+      "name": "My Way of Light",
+      "url": "https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz"
     },
     {
       "added_at": null,

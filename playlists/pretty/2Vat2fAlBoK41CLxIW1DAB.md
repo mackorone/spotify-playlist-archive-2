@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,587 likes - 1,078 songs - 2 day 19 hr 57 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,587 likes - 1,083 songs - 2 day 20 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1086,5 +1086,10 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1076 | [Don't Trust Anyone Over 21](https://open.spotify.com/track/0fztYRNQGiV3W57FU5syMl) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [Don't Trust Anyone Over 21](https://open.spotify.com/album/7yIX3meztExaI6ViFxAxg5) | 1:44 |
 | 1077 | [Petali](https://open.spotify.com/track/7edv8TCszqSqjkOxJEd2AC) | [Piede Sinistro](https://open.spotify.com/artist/4Hhfi2Z1ix6ZilrrwBDwZC) | [Petali](https://open.spotify.com/album/4piBiaskMrcGbkiWvpp0jL) | 6:40 |
 | 1078 | [Ni una más](https://open.spotify.com/track/3lglnKcrFajSfLjOnuN0nI) | [Astter](https://open.spotify.com/artist/2Ch4GYMv1onUucKUYI8xOC) | [Ni una más](https://open.spotify.com/album/5ryt9yB666ApOwxjJtuj2J) | 4:11 |
+| 1079 | [Undying Torment](https://open.spotify.com/track/1TSBeYKb8Q6rX4U49xpZyq) | [Simulation Defect](https://open.spotify.com/artist/4qfVotME69mQnnQC6yrnYK) | [Undying Torment](https://open.spotify.com/album/5ZVBZ0FaenanDCUOqTTD0P) | 3:10 |
+| 1080 | [Quarter Life Crisis](https://open.spotify.com/track/4nLYmzFA9lvM1aRK8IK55a) | [ColourMind](https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO) | [Quarter Life Crisis](https://open.spotify.com/album/24BmRsoMmzUsAww33mUSaF) | 3:43 |
+| 1081 | [Love is Blind](https://open.spotify.com/track/30qfoBmakKoejDlouFQVIn) | [ColourMind](https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO) | [Love is Blind](https://open.spotify.com/album/0QNs2g3amfHkqcZYfmk8t8) | 3:24 |
+| 1082 | [A Long Way](https://open.spotify.com/track/3iLdRoMegIcfZNR2YyURno) | [Friends With Boats](https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc) | [A Long Way](https://open.spotify.com/album/3Z3sEUoHPdl5BUsiccgFuO) | 3:16 |
+| 1083 | [Busca Soluciones](https://open.spotify.com/track/2PRtmCnP8N1gpNJO8sgrEa) | [David Send](https://open.spotify.com/artist/31MXafStikNQHwXXa2h61m) | [Como Superman](https://open.spotify.com/album/02FyTy7so3qKytEzvm2hoE) | 3:58 |
 
-Snapshot ID: `AAAEX1pz1vQwmvLEbmGFXvHAYPRq5IdW`
+Snapshot ID: `AAAEZCmiikfxxie5oPrNRdH6wGXi4ujw`

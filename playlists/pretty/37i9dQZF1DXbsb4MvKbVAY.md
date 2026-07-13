@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa Charli xcx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,720 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,718 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 55 | [Se ei mennyt niin](https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Vesala](https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:50 |
 | 56 | [ALICE](https://open.spotify.com/track/62lIi3Mb3jR018YFjESFl7) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [ALICE](https://open.spotify.com/album/1JmyKpeyt4cHkYlfKBU6Dv) | 4:39 |
 | 57 | [SHOTIT](https://open.spotify.com/track/72S4WLsyHM9dj4eIZd3zPc) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [SHOTIT](https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ) | 2:34 |
-| 58 | [MMG](https://open.spotify.com/track/78F5qg3GeuvulXePGIL3vJ) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [MMG](https://open.spotify.com/album/2TbFAQtfMExiXwaQqksQvW) | 3:06 |
-| 59 | [Kuudes aisti](https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Kuudes aisti](https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y) | 3:13 |
+| 58 | [Kuudes aisti](https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Kuudes aisti](https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y) | 3:13 |
+| 59 | [MMG](https://open.spotify.com/track/78F5qg3GeuvulXePGIL3vJ) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [MMG](https://open.spotify.com/album/2TbFAQtfMExiXwaQqksQvW) | 3:06 |
 | 60 | [FATHER \(I Will Never Confess\)](https://open.spotify.com/track/0TBOHLelyVGkuEWgWdyB3L) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [FATHER \(I Will Never Confess\)](https://open.spotify.com/album/787MQtQSxspIiK7b06vwzk) | 3:18 |
 | 61 | [Viaton](https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Viaton](https://open.spotify.com/album/1xfPQZO0kkyMQXaEwlC6l1) | 3:20 |
 | 62 | [Ihan kohta ohi](https://open.spotify.com/track/77FxknEqTRfHKO27zirjFO) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Ihan kohta ohi](https://open.spotify.com/album/6U6Q04ZNy889fOio6lHgME) | 3:05 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 91 | [Karhupuisto](https://open.spotify.com/track/67CEHyZn7yRkgC7A1mkUAo) | [Vepu](https://open.spotify.com/artist/2qwH6XfqxzOUiVTC3IXOom) | [Karhupuisto](https://open.spotify.com/album/2F20BwMJMsizfRTbd5dxOe) | 3:15 |
 | 92 | [Tuolta se nyt kävelee](https://open.spotify.com/track/18gjoFK9e8hbFIsFlMCvpx) | [Pekka Nisu](https://open.spotify.com/artist/5pK0f3WYGPjuZ5aviic5fS) | [Tuolta se nyt kävelee](https://open.spotify.com/album/1h9rpGnIWQ7OZXGGWUazJu) | 3:23 |
 | 93 | [Uudestaan](https://open.spotify.com/track/7l85jewWzD4AV6J4tYsJJJ) | [kukkatalo](https://open.spotify.com/artist/2PGMdEZQ77cq8niDgHe1X1) | [Ristiriita](https://open.spotify.com/album/6Dk1S6dzPOrHjAHYFNYWWb) | 2:57 |
-| 94 | [Terveisii kotii](https://open.spotify.com/track/3lGmAr9GzYz09D0ObCbJcH) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Papin tytär](https://open.spotify.com/album/4BGEa2u0jTKeIc3chGvl9X) | 3:17 |
-| 95 | [Hyvin meni](https://open.spotify.com/track/0vBtY2dgHbgnBYDPZBqIje) | [JAVE](https://open.spotify.com/artist/5BXvw2wIkNt8vf4PH4SsrS) | [Hyvin meni](https://open.spotify.com/album/4sa101U8rFLSltkdatqxD5) | 2:01 |
+| 94 | [Hyvin meni](https://open.spotify.com/track/0vBtY2dgHbgnBYDPZBqIje) | [JAVE](https://open.spotify.com/artist/5BXvw2wIkNt8vf4PH4SsrS) | [Hyvin meni](https://open.spotify.com/album/4sa101U8rFLSltkdatqxD5) | 2:01 |
+| 95 | [Terveisii kotii](https://open.spotify.com/track/3lGmAr9GzYz09D0ObCbJcH) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Papin tytär](https://open.spotify.com/album/4BGEa2u0jTKeIc3chGvl9X) | 3:17 |
 | 96 | [Kamikaze](https://open.spotify.com/track/7yf2KZIKYUB9XABxpk3IcF) | [Molly Mae](https://open.spotify.com/artist/1id88vQlxSueQIddQeiKTl) | [Kamikaze](https://open.spotify.com/album/1cuRIt0mlB7vaUrYcBIpSj) | 2:02 |
 | 97 | [Come Back](https://open.spotify.com/track/0ELSvcZ3EKntkBHqARS0Vw) | [Killer](https://open.spotify.com/artist/2Ce4WjRfZtYR4Z8Z6fDkOQ) | [Come Back](https://open.spotify.com/album/7lol51cvjCqEr587nLcY6t) | 2:50 |
 | 98 | [Kangastus](https://open.spotify.com/track/3MEeDEiuTUOIeY8euj6Mwf) | [Otto](https://open.spotify.com/artist/3A8s2MMhh7HmdromfKDCBp) | [Kangastus](https://open.spotify.com/album/4tqjrdVVDFkNy0nF2cL9Mg) | 2:29 |
-| 99 | [Iltatähti](https://open.spotify.com/track/5eMtpURpS5BeiZzuB5CCTq) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Papin tytär](https://open.spotify.com/album/4BGEa2u0jTKeIc3chGvl9X) | 2:40 |
-| 100 | [Voitonpäivä](https://open.spotify.com/track/3gnmP08f5NywnLks1Myb1A) | [Purplape](https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V) | [Voitonpäivä](https://open.spotify.com/album/5fT88RUsc4oSMtBSsecAaE) | 2:26 |
+| 99 | [Voitonpäivä](https://open.spotify.com/track/3gnmP08f5NywnLks1Myb1A) | [Purplape](https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V) | [Voitonpäivä](https://open.spotify.com/album/5fT88RUsc4oSMtBSsecAaE) | 2:26 |
+| 100 | [Iltatähti](https://open.spotify.com/track/5eMtpURpS5BeiZzuB5CCTq) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Papin tytär](https://open.spotify.com/album/4BGEa2u0jTKeIc3chGvl9X) | 2:40 |
 
 Snapshot ID: `AAAAACawOWy7Vc5CwM5PO2TDaYgkAnb2`

@@ -1,12 +1,12 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1483005,
+  "num_followers": 1483023,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJJUXOc4qXQqncgff5+iGItd76T7",
+  "snapshot_id": "AAAAAG0ysaAt9yY9CqVbA7nY6nm6bs7H",
   "tracks": [
     {
       "added_at": "2026-07-03 04:02:10",
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-07-03 04:02:10",
       "album": {
-        "name": "SOMA",
-        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 203571,
-      "name": "Noche Without You",
-      "url": "https://open.spotify.com/track/00FMfKay6lHHQpFLTSaCZe"
-    },
-    {
-      "added_at": "2026-07-03 04:02:10",
-      "album": {
         "name": "Up Down",
         "url": "https://open.spotify.com/album/3rClZY3iOdiE4bwY6P25hY"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 172733,
       "name": "Up Down",
       "url": "https://open.spotify.com/track/5jqEybi7fIl2BpT0njbfhO"
+    },
+    {
+      "added_at": "2026-07-03 04:02:10",
+      "album": {
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 203571,
+      "name": "Noche Without You",
+      "url": "https://open.spotify.com/track/00FMfKay6lHHQpFLTSaCZe"
     },
     {
       "added_at": "2026-07-03 04:02:10",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2026-07-03 04:02:10",
       "album": {
-        "name": "Duro",
-        "url": "https://open.spotify.com/album/6qVJg6v3zLf9tEm7cQiRch"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Duro",
-      "url": "https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS"
-    },
-    {
-      "added_at": "2026-07-03 04:02:10",
-      "album": {
         "name": "Stomp Your Feet",
         "url": "https://open.spotify.com/album/45vmjBcHoZfCrChrHFdCoT"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 210580,
       "name": "Stomp Your Feet",
       "url": "https://open.spotify.com/track/494lD6w8j07gDMub1UFd07"
+    },
+    {
+      "added_at": "2026-07-03 04:02:10",
+      "album": {
+        "name": "Duro",
+        "url": "https://open.spotify.com/album/6qVJg6v3zLf9tEm7cQiRch"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Duro",
+      "url": "https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS"
     },
     {
       "added_at": "2026-07-03 04:02:10",
@@ -1499,6 +1499,34 @@
     {
       "added_at": "2026-07-03 04:02:10",
       "album": {
+        "name": "The Way I Are (Max Dean Remix)",
+        "url": "https://open.spotify.com/album/2PGg01PDpfS5pJqUj7iaEj"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Keri Hilson",
+          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
+        },
+        {
+          "name": "D.O.E.",
+          "url": "https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww"
+        },
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        }
+      ],
+      "duration_ms": 183953,
+      "name": "The Way I Are - Max Dean Remix",
+      "url": "https://open.spotify.com/track/1hl81ThWpsoVYylBPaWedn"
+    },
+    {
+      "added_at": "2026-07-03 04:02:10",
+      "album": {
         "name": "Fight Machine (feat. NAIIM)",
         "url": "https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS"
       },
@@ -1531,30 +1559,18 @@
     {
       "added_at": "2026-07-03 04:02:10",
       "album": {
-        "name": "The Way I Are (Max Dean Remix)",
-        "url": "https://open.spotify.com/album/2PGg01PDpfS5pJqUj7iaEj"
+        "name": "BOBA",
+        "url": "https://open.spotify.com/album/22aPi3QZtDAXY5EbHdLLmY"
       },
       "artists": [
         {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        },
-        {
-          "name": "Keri Hilson",
-          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
-        },
-        {
-          "name": "D.O.E.",
-          "url": "https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww"
-        },
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         }
       ],
-      "duration_ms": 183953,
-      "name": "The Way I Are - Max Dean Remix",
-      "url": "https://open.spotify.com/track/1hl81ThWpsoVYylBPaWedn"
+      "duration_ms": 180987,
+      "name": "BOBA",
+      "url": "https://open.spotify.com/track/2GohKE1tNrKUsZPF4ZzrRT"
     },
     {
       "added_at": "2026-07-03 04:02:10",
@@ -1575,22 +1591,6 @@
       "duration_ms": 201379,
       "name": "Once In A Lifetime",
       "url": "https://open.spotify.com/track/4NZRpnuP4EZl6yohxQofP2"
-    },
-    {
-      "added_at": "2026-07-03 04:02:10",
-      "album": {
-        "name": "BOBA",
-        "url": "https://open.spotify.com/album/22aPi3QZtDAXY5EbHdLLmY"
-      },
-      "artists": [
-        {
-          "name": "SOFI TUKKER",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 180987,
-      "name": "BOBA",
-      "url": "https://open.spotify.com/track/2GohKE1tNrKUsZPF4ZzrRT"
     },
     {
       "added_at": "2026-07-03 04:02:10",
@@ -2031,22 +2031,26 @@
     {
       "added_at": "2026-07-03 04:02:10",
       "album": {
-        "name": "CELEBRATION (Sara Landry Remix)",
-        "url": "https://open.spotify.com/album/0wti1ZxzH9QwP4J4DJaYMq"
+        "name": "Bass Down Low (feat. DEV) [Trap Version]",
+        "url": "https://open.spotify.com/album/3bi9DlUjl64Rcd6gMddtek"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
         },
         {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        },
+        {
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
         }
       ],
-      "duration_ms": 261538,
-      "name": "CELEBRATION (Sara Landry Remix)",
-      "url": "https://open.spotify.com/track/6wU5RtdPK5Gp3qwUa987Ty"
+      "duration_ms": 166400,
+      "name": "Bass Down Low (feat. DEV) [Trap Version]",
+      "url": "https://open.spotify.com/track/6ww3QtV3wV0qBfgYCfFu3C"
     }
   ],
   "unique_name": "Beast Mode Dance",

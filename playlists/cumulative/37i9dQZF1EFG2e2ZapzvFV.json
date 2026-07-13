@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Loveland",
+        "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166386,
+      "name": "Any Man",
+      "url": "https://open.spotify.com/track/0FeHSfzNeNbLtfii09pC5i"
+    },
+    {
+      "album": {
         "name": "Sugarpills",
         "url": "https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg"
       },
@@ -3882,6 +3900,24 @@
       "duration_ms": 203106,
       "name": "We Had Everything",
       "url": "https://open.spotify.com/track/2YtGWoI8YM9yT41bPoyqWy"
+    },
+    {
+      "album": {
+        "name": "Loveland",
+        "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211280,
+      "name": "Weirdo",
+      "url": "https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtGv6v7v6B.md) - [plain]
 
 > Your music taste decides the character on the playlist cover\. Find out if you're Miranda, Andy, Emily, or Nigel\. That's all.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,737 likes - 27 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,749 likes - 27 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

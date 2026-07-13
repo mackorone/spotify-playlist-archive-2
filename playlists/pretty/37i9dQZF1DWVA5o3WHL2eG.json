@@ -479,6 +479,22 @@
     {
       "added_at": "2026-06-30 22:00:31",
       "album": {
+        "name": "Easy Peeler",
+        "url": "https://open.spotify.com/album/1I6NzZT45mQt6LSfNjavwR"
+      },
+      "artists": [
+        {
+          "name": "BROCKHOFF",
+          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Blue Star",
+      "url": "https://open.spotify.com/track/5wUIVxxBLO9Q63lpT9Rxff"
+    },
+    {
+      "added_at": "2026-06-30 22:00:31",
+      "album": {
         "name": "heute hier und morgen weiter",
         "url": "https://open.spotify.com/album/5oyvovlaa9gpf12yKwP0nY"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 180186,
       "name": "heute hier und morgen weiter",
       "url": "https://open.spotify.com/track/1sjgXKcaGspuQIjPhBKfRD"
-    },
-    {
-      "added_at": "2026-06-30 22:00:31",
-      "album": {
-        "name": "Mein Herz",
-        "url": "https://open.spotify.com/album/0QXtXkHK3zhTY0WT2L1ruw"
-      },
-      "artists": [
-        {
-          "name": "Ellen Allien",
-          "url": "https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up"
-        }
-      ],
-      "duration_ms": 203835,
-      "name": "Mein Herz",
-      "url": "https://open.spotify.com/track/71w6hm2v7SHtmeks41gRzH"
     },
     {
       "added_at": "2026-06-30 22:00:31",
@@ -527,18 +527,18 @@
     {
       "added_at": "2026-06-30 22:00:31",
       "album": {
-        "name": "Easy Peeler",
-        "url": "https://open.spotify.com/album/1I6NzZT45mQt6LSfNjavwR"
+        "name": "Mein Herz",
+        "url": "https://open.spotify.com/album/0QXtXkHK3zhTY0WT2L1ruw"
       },
       "artists": [
         {
-          "name": "BROCKHOFF",
-          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
+          "name": "Ellen Allien",
+          "url": "https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up"
         }
       ],
-      "duration_ms": 186500,
-      "name": "Blue Star",
-      "url": "https://open.spotify.com/track/5wUIVxxBLO9Q63lpT9Rxff"
+      "duration_ms": 203835,
+      "name": "Mein Herz",
+      "url": "https://open.spotify.com/track/71w6hm2v7SHtmeks41gRzH"
     },
     {
       "added_at": "2026-06-30 22:00:31",

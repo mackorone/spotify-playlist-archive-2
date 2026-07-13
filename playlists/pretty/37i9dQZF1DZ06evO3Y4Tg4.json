@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 272485,
+  "num_followers": 272521,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAAkZ1yvwbGX/jSCyXsPIftL",
+  "snapshot_id": "alGHgAAAAAAE1HyEJ0ysD7USMoWWWTWE",
   "tracks": [
     {
       "added_at": null,
@@ -263,18 +263,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Titanium & Mercury",
-        "url": "https://open.spotify.com/album/1JFnSZYrevjvTv4lXpddpr"
+        "name": "Meridian & Special",
+        "url": "https://open.spotify.com/album/24q33NVA8s2wYs3BKdA7jT"
       },
       "artists": [
         {
           "name": "Dave",
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 127750,
-      "name": "Titanium",
-      "url": "https://open.spotify.com/track/52eK8eMaxpJuGaLwE8QAjh"
+      "duration_ms": 255160,
+      "name": "Meridian",
+      "url": "https://open.spotify.com/track/7uilb01TiHfrsk1HGCB98V"
     },
     {
       "added_at": null,
@@ -299,22 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meridian & Special",
-        "url": "https://open.spotify.com/album/24q33NVA8s2wYs3BKdA7jT"
+        "name": "Titanium & Mercury",
+        "url": "https://open.spotify.com/album/1JFnSZYrevjvTv4lXpddpr"
       },
       "artists": [
         {
           "name": "Dave",
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 255160,
-      "name": "Meridian",
-      "url": "https://open.spotify.com/track/7uilb01TiHfrsk1HGCB98V"
+      "duration_ms": 127750,
+      "name": "Titanium",
+      "url": "https://open.spotify.com/track/52eK8eMaxpJuGaLwE8QAjh"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 336935,
+  "num_followers": 336968,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAC7qwNkJql5V9gNUwVSV/r8",
+  "snapshot_id": "alGHgAAAAACAse1PpMXfAD6TmbiqS1X4",
   "tracks": [
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 122813,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/4ot7u8Ij91aHKohSV2QYZi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SLIDER II",
         "url": "https://open.spotify.com/album/3jwPo6mAL7jtRXRWHLkSD0"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 142768,
       "name": "go",
       "url": "https://open.spotify.com/track/7aV29KhhOFLawanslvY7Mg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 122813,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4ot7u8Ij91aHKohSV2QYZi"
     },
     {
       "added_at": null,

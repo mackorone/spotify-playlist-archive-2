@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Fimi",
-  "num_followers": 84043,
+  "num_followers": 84065,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -351,26 +351,18 @@
     {
       "added_at": "2026-07-10 00:01:30",
       "album": {
-        "name": "SORRY I'M BAD",
-        "url": "https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI"
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
       },
       "artists": [
         {
-          "name": "Himra",
-          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
-        },
-        {
-          "name": "BabyDaiz",
-          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 195692,
-      "name": "BITCH & MONEY",
-      "url": "https://open.spotify.com/track/1vgbtv1D6xMGIbC7fN1plw"
+      "duration_ms": 137684,
+      "name": "OZEBA",
+      "url": "https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2"
     },
     {
       "added_at": "2026-07-10 00:01:30",
@@ -395,18 +387,26 @@
     {
       "added_at": "2026-07-10 00:01:30",
       "album": {
-        "name": "HEIS",
-        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
+        "name": "SORRY I'M BAD",
+        "url": "https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        },
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 137684,
-      "name": "OZEBA",
-      "url": "https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2"
+      "duration_ms": 195692,
+      "name": "BITCH & MONEY",
+      "url": "https://open.spotify.com/track/1vgbtv1D6xMGIbC7fN1plw"
     },
     {
       "added_at": "2026-07-10 00:01:30",
@@ -535,6 +535,26 @@
     {
       "added_at": "2026-07-10 00:01:30",
       "album": {
+        "name": "Baba",
+        "url": "https://open.spotify.com/album/63yPkpDRSUMDaUSPlXCTj2"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 162912,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/776t3kqoQTKHeFzdbnIfdc"
+    },
+    {
+      "added_at": "2026-07-10 00:01:30",
+      "album": {
         "name": "Letter To My Guys (LTMG)",
         "url": "https://open.spotify.com/album/54efy29szB8cdafO7Yi9ce"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 132413,
       "name": "Go Again",
       "url": "https://open.spotify.com/track/6zoLCHH5mKApNOmTsmVYhN"
-    },
-    {
-      "added_at": "2026-07-10 00:01:30",
-      "album": {
-        "name": "Baba",
-        "url": "https://open.spotify.com/album/63yPkpDRSUMDaUSPlXCTj2"
-      },
-      "artists": [
-        {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 162912,
-      "name": "Baba",
-      "url": "https://open.spotify.com/track/776t3kqoQTKHeFzdbnIfdc"
     },
     {
       "added_at": "2026-07-10 00:01:30",
@@ -623,6 +623,26 @@
     {
       "added_at": "2026-07-10 00:01:30",
       "album": {
+        "name": "BlownBoy RU",
+        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Giveaway",
+      "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
+    },
+    {
+      "added_at": "2026-07-10 00:01:30",
+      "album": {
         "name": "Many People",
         "url": "https://open.spotify.com/album/70JkP23kQm8ufn4XS6Bv0q"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 147692,
       "name": "Wuse Tu",
       "url": "https://open.spotify.com/track/7ntMsrnoWAyqGBsNvNBEoo"
-    },
-    {
-      "added_at": "2026-07-10 00:01:30",
-      "album": {
-        "name": "BlownBoy RU",
-        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Giveaway",
-      "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
     },
     {
       "added_at": "2026-07-10 00:01:30",
@@ -831,18 +831,18 @@
     {
       "added_at": "2026-07-10 00:01:30",
       "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+        "name": "Never Fold",
+        "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
         }
       ],
-      "duration_ms": 140527,
-      "name": "SHAOLIN",
-      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
+      "duration_ms": 170475,
+      "name": "Rules Of Life",
+      "url": "https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD"
     },
     {
       "added_at": "2026-07-10 00:01:30",
@@ -867,18 +867,18 @@
     {
       "added_at": "2026-07-10 00:01:30",
       "album": {
-        "name": "Never Fold",
-        "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
       },
       "artists": [
         {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 170475,
-      "name": "Rules Of Life",
-      "url": "https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD"
+      "duration_ms": 140527,
+      "name": "SHAOLIN",
+      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
     },
     {
       "added_at": "2026-07-10 00:01:30",
@@ -1015,6 +1015,22 @@
       "duration_ms": 123185,
       "name": "Kilogram",
       "url": "https://open.spotify.com/track/0viaQlHq5KHyywH6rQyNjB"
+    },
+    {
+      "added_at": "2026-07-10 00:01:30",
+      "album": {
+        "name": "Abefe (Begged To Be Loved)",
+        "url": "https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ"
+      },
+      "artists": [
+        {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        }
+      ],
+      "duration_ms": 168896,
+      "name": "Yaweh",
+      "url": "https://open.spotify.com/track/77YhqPRTDbynXrMdyHzdRH"
     },
     {
       "added_at": "2026-07-10 00:01:30",
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2026-07-10 00:01:30",
       "album": {
-        "name": "Abefe (Begged To Be Loved)",
-        "url": "https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ"
-      },
-      "artists": [
-        {
-          "name": "Abefe",
-          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
-        }
-      ],
-      "duration_ms": 168896,
-      "name": "Yaweh",
-      "url": "https://open.spotify.com/track/77YhqPRTDbynXrMdyHzdRH"
-    },
-    {
-      "added_at": "2026-07-10 00:01:30",
-      "album": {
         "name": "+BORN 2 BE FLY\u00b0",
         "url": "https://open.spotify.com/album/4Zz1jqzzIN15tsGWaN52oU"
       },
@@ -1207,6 +1207,22 @@
       "duration_ms": 113089,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/3bmC1rv9EFucw3pNxVCa2z"
+    },
+    {
+      "added_at": "2026-07-10 00:01:30",
+      "album": {
+        "name": "Nkemakonam",
+        "url": "https://open.spotify.com/album/6tM7bFxHXIZutthoWSzILr"
+      },
+      "artists": [
+        {
+          "name": "TUFF KING",
+          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
+        }
+      ],
+      "duration_ms": 239673,
+      "name": "Nkemakonam",
+      "url": "https://open.spotify.com/track/1khlKmZCPvi0chULb23vWU"
     },
     {
       "added_at": "2026-07-10 00:01:30",
@@ -1227,22 +1243,6 @@
       "duration_ms": 202547,
       "name": "HIM (feat. Gunna)",
       "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
-    },
-    {
-      "added_at": "2026-07-10 00:01:30",
-      "album": {
-        "name": "Nkemakonam",
-        "url": "https://open.spotify.com/album/6tM7bFxHXIZutthoWSzILr"
-      },
-      "artists": [
-        {
-          "name": "TUFF KING",
-          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
-        }
-      ],
-      "duration_ms": 239673,
-      "name": "Nkemakonam",
-      "url": "https://open.spotify.com/track/1khlKmZCPvi0chULb23vWU"
     },
     {
       "added_at": "2026-07-10 00:01:30",

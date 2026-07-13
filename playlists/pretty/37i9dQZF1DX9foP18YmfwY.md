@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Comunidade Católica Shalom
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,580 likes - 70 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,611 likes - 70 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 58 | [Seremos o Amor](https://open.spotify.com/track/7gbzb7eTvjIdI6uqI663TA) | [Ministério Reacender](https://open.spotify.com/artist/69I9OunTsBjEkPjKzuwHlX), [Paróquia Santa Terezinha](https://open.spotify.com/artist/2z82CXTLel1putelzeXQv8) | [Seremos o Amor](https://open.spotify.com/album/11269KCRvrv5jBX520lIDb) | 6:45 |
 | 59 | [Dias Melhores Virão](https://open.spotify.com/track/7t0v5FlY2xsSbLsjLuORkA) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481) | [Dias Melhores Virão](https://open.spotify.com/album/2iQCM13h3O2KOlyoLQxl2O) | 4:21 |
 | 60 | [Essencial \- Ao Vivo](https://open.spotify.com/track/4GOPtH8a3VAgmtIPc5lzcQ) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [Maninho](https://open.spotify.com/artist/14MVRoPX1LC6cm5su44CrM) | [Essencial \(Ao Vivo\)](https://open.spotify.com/album/5MPstyeFYs1xk8mI2PPErW) | 3:40 |
-| 61 | [A tua ternura](https://open.spotify.com/track/407jM0l4pJwZBbvzFXTw4o) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [A tua ternura](https://open.spotify.com/album/1V5hxJk8n6AgrB7oHJdVwt) | 3:21 |
-| 62 | [Não Há Mais Vendaval \(Ao Vivo\)](https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk) | [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Não Há Mais Vendaval \(Ao Vivo\)](https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv) | 7:09 |
+| 61 | [Não Há Mais Vendaval \(Ao Vivo\)](https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk) | [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Não Há Mais Vendaval \(Ao Vivo\)](https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv) | 7:09 |
+| 62 | [A tua ternura](https://open.spotify.com/track/407jM0l4pJwZBbvzFXTw4o) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [A tua ternura](https://open.spotify.com/album/1V5hxJk8n6AgrB7oHJdVwt) | 3:21 |
 | 63 | [Alma de Cristo](https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Alma de Cristo](https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA) | 3:52 |
 | 64 | [Minha Vocação](https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Pitter](https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2), [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi) | [Minha Vocação](https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi) | 4:14 |
 | 65 | [Compromisso/ Jesus](https://open.spotify.com/track/0XUjM9MGZp8Zbw9vA0LAm8) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Adoração na Nossa Casa É Assim \(Ad10\), Pt\. 2](https://open.spotify.com/album/60zIWipYRCsNWqWCBplUUj) | 7:35 |
 | 66 | [Não Vou Desisitir](https://open.spotify.com/track/5GF5wmkOro0Ldjlkmk5ofu) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Não Vou Desistir](https://open.spotify.com/album/3lIFxKUC9Ipe7pT1b3Ril0) | 4:27 |
-| 67 | [Coração de Mãe](https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 5](https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd) | 2:57 |
+| 67 | [Deixa Deus Sonhar em Ti](https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Gba Stage, Vol\. 13](https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l) | 4:54 |
 | 68 | [Sim É Teu Meu Coração](https://open.spotify.com/track/5Z2CtDh4chrWbpBDhgPRoG) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Danúbia M.J](https://open.spotify.com/artist/762pk5Ca7DqG7Nf8IRaVYR) | [Sim É Teu Meu Coração](https://open.spotify.com/album/15RU1iiVt9YqZnCPz8Z3Hv) | 4:06 |
-| 69 | [Deixa Deus Sonhar em Ti](https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Gba Stage, Vol\. 13](https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l) | 4:54 |
+| 69 | [Coração de Mãe](https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 5](https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd) | 2:57 |
 | 70 | [Ser Mais do Que Ter \- Ao Vivo](https://open.spotify.com/track/1ErMDwBrxnTTCePbbWaP35) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1), [Fátima Souza](https://open.spotify.com/artist/5TU9L0iVP8fFMA9QbN0F7m) | [Ser Mais do Que Ter \(Ao Vivo\)](https://open.spotify.com/album/7EDXi5EpI5wOWRmcsrYXOY) | 7:26 |
 
 Snapshot ID: `AAAAAF+ZytW6Segcfd4lP6uPk4Zro0O9`

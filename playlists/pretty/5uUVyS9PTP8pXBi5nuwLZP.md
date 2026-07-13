@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 583,862 likes - 83 songs - 4 hr 34 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 584,028 likes - 83 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 49 | [Dime Ke Si](https://open.spotify.com/track/0XI74JGCxm6br1lXFP2dvi) | [Kory Padron](https://open.spotify.com/artist/64Q3vSrBYCtGgbxvuOEbJP) | [Dime Ke Si](https://open.spotify.com/album/2x6Z1Fx2e5FcJJ92IPEftX) | 2:47 |
 | 50 | [괜히 리듬을 타](https://open.spotify.com/track/3LhoqLbgWbuzzzhyzJyyF8) | [찰옥수수](https://open.spotify.com/artist/5wxP0JDcCYQXDd8jgcbJ2W) | [괜히 리듬을 타](https://open.spotify.com/album/2tczWXIngA92tLrRyLIoip) | 2:37 |
 | 51 | [Solente](https://open.spotify.com/track/1ytDyJQw97Krd8owfiMXrC) | [Lian](https://open.spotify.com/artist/1uoW72aFfgq4cogUlpWqdB) | [Solente](https://open.spotify.com/album/5MOECZP0Y2ZYH0GyREUN4H) | 3:19 |
-| 52 | [ANXIETY](https://open.spotify.com/track/6iQY9ntJeoRYgLMZ41PLYn) | [Go hard](https://open.spotify.com/artist/0o0K33d8MBKMRGanePAMmK) | [GO HARD](https://open.spotify.com/album/5XsXtqATsNErnMppcAvXPP) | 1:58 |
+| 52 | [ANXIETY](https://open.spotify.com/track/6iQY9ntJeoRYgLMZ41PLYn) | [Go hard](https://open.spotify.com/artist/0o0K33d8MBKMRGanePAMmK) | [GO HARD THE EP](https://open.spotify.com/album/5XsXtqATsNErnMppcAvXPP) | 1:58 |
 | 53 | [Phire](https://open.spotify.com/track/7zCH6B8ghPqGbKJb2M7GnT) | [N&AI](https://open.spotify.com/artist/3ytsD7CGD37rknlelgyRXc) | [Phire](https://open.spotify.com/album/63kpZrjbQanPXr17xI4uv1) | 4:32 |
 | 54 | [Battlefield 3 Main Theme \- Epic Version](https://open.spotify.com/track/4BBvdAdhLasH9ECU8ZOgZK) | [Chill Lofi Hours](https://open.spotify.com/artist/2kroUQaEUn4baxE0HTTnBJ) | [Battlefield 3 Main Theme \(Epic Version\)](https://open.spotify.com/album/5GXUzW6YAPF9tmvaYspCRo) | 3:15 |
 | 55 | [Shut Your Eyes \(There's Nothing In The Skies\)](https://open.spotify.com/track/7MyeOXqscKs1xdUBkb8P7i) | [Joshua Castro](https://open.spotify.com/artist/1j0oKMoz6k7v2rrryJlNpK) | [UAPs of '26: World UFO Day](https://open.spotify.com/album/5ew0fqQi5WZFgNq0f2XZSK) | 4:12 |

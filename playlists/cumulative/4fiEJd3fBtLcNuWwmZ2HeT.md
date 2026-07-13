@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-533 songs - 1 day 7 hr 4 min
+534 songs - 1 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Bad ∞ End ∞ Night](https://open.spotify.com/track/6NOVN6EGoqaKqqa3EwHa09) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [After the partY](https://open.spotify.com/album/0b6bP73xLMUe33k8xkPzRw) | 4:08 | 2021-01-13 |  |
 | [BAKENOHANA](https://open.spotify.com/track/3Nyt0xoTlordHqvBR1EvzG) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [BAKENOHANA](https://open.spotify.com/album/0vzjed4BlSLHz6vua0u3OE) | 1:56 | 2025-10-22 |  |
 | [Battle Hymn of the Soul \- P3R ver.](https://open.spotify.com/track/3R8U6Yjmo1tJxKcNyiiOWH) | [小宮知子](https://open.spotify.com/artist/7nbTS6y1ly9AhcLMejJTcf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 5:49 | 2024-09-11 |  |
+| [Because the red crows chirped](https://open.spotify.com/track/3t5EtarT9l3Lh8PNJCOduC) | [NY channel](https://open.spotify.com/artist/2Fy1pKQurNXDSG9kYzXS32) | [Because the red crows chirped](https://open.spotify.com/album/6XlcJFpM9YQjNmacm3xeJH) | 2:09 | 2026-07-12 |  |
 | [Binomi](https://open.spotify.com/track/31sTYZVT7fyt82zq6tWYxC) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Binomi](https://open.spotify.com/album/6MiRWDh9PBab6Mow3hwtDu) | 3:03 | 2026-03-24 |  |
 | [Bitter Loss](https://open.spotify.com/track/1CFy1BShZQuiMCnAGja8la) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Bitter Loss](https://open.spotify.com/album/0UqpMx3SgvGR0swT0yyeAv) | 3:23 | 2025-08-12 |  |
 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 | 2024-09-22 |  |

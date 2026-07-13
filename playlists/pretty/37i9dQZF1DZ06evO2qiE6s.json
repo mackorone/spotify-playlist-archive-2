@@ -1,12 +1,12 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 128843,
+  "num_followers": 128857,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAACa5sayx6umd4ip8V/5Fvad",
+  "snapshot_id": "alGHgAAAAAAQVkXzwDKHb+8F8X1kYrme",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 149560,
-      "name": "Heaven Can Wait - Remastered 1998",
-      "url": "https://open.spotify.com/track/291IQsv9uraExolqtoRczv"
+      "duration_ms": 135253,
+      "name": "Just In Time - Remastered 1998",
+      "url": "https://open.spotify.com/track/5MHAl3WVEOYgEmA7RXIrSv"
     },
     {
       "added_at": null,
@@ -235,38 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "(Remember Me) I'm the One That Loves You",
-        "url": "https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 145640,
-      "name": "King of the Road",
-      "url": "https://open.spotify.com/track/1swJ3f1M4HL4qLOp2phhcq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 135253,
-      "name": "Just In Time - Remastered 1998",
-      "url": "https://open.spotify.com/track/5MHAl3WVEOYgEmA7RXIrSv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
       },
@@ -283,6 +251,38 @@
       "duration_ms": 130333,
       "name": "My Rifle, My Pony And Me - Remastered",
       "url": "https://open.spotify.com/track/73VWTEHnoZyULD840kEX49"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 149560,
+      "name": "Heaven Can Wait - Remastered 1998",
+      "url": "https://open.spotify.com/track/291IQsv9uraExolqtoRczv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "(Remember Me) I'm the One That Loves You",
+        "url": "https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 145640,
+      "name": "King of the Road",
+      "url": "https://open.spotify.com/track/1swJ3f1M4HL4qLOp2phhcq"
     },
     {
       "added_at": null,
@@ -664,25 +664,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 142129,
-      "name": "Welcome to My World",
-      "url": "https://open.spotify.com/track/66Gt2H63ctSt3968rvbGJe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 5 (1954)",
-        "url": "https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 176866,
-      "name": "The Naughty Lady Of Shady Lane",
-      "url": "https://open.spotify.com/track/4i6YRfiLsCW30cPAbwMV40"
+      "duration_ms": 129660,
+      "name": "The Birds and the Bees",
+      "url": "https://open.spotify.com/track/2PNBLcmRZn83z6MjhYynQC"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
       "duration_ms": 136493,
       "name": "Good Mornin' Life",
       "url": "https://open.spotify.com/track/3AnTfM2O5kUtlZfZ5O3hyB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 5 (1954)",
+        "url": "https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 176866,
+      "name": "The Naughty Lady Of Shady Lane",
+      "url": "https://open.spotify.com/track/4i6YRfiLsCW30cPAbwMV40"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 129660,
-      "name": "The Birds and the Bees",
-      "url": "https://open.spotify.com/track/2PNBLcmRZn83z6MjhYynQC"
+      "duration_ms": 142129,
+      "name": "Welcome to My World",
+      "url": "https://open.spotify.com/track/66Gt2H63ctSt3968rvbGJe"
     },
     {
       "added_at": null,

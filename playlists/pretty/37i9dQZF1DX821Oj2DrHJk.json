@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1970s.",
-  "num_followers": 32441,
+  "num_followers": 32443,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
+        "name": "Chronicles 1968-1984",
+        "url": "https://open.spotify.com/album/1tfEee9DdUwUbddcYasTVL"
+      },
+      "artists": [
+        {
+          "name": "Dave Edmunds",
+          "url": "https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA"
+        }
+      ],
+      "duration_ms": 209400,
+      "name": "Girls Talk",
+      "url": "https://open.spotify.com/track/15jo3oNS5gqlJ3RFp97giQ"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
         "name": "Back and Fourth",
         "url": "https://open.spotify.com/album/4k1bBW9n9T1kkByxHFWokQ"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 260733,
       "name": "Run for Home",
       "url": "https://open.spotify.com/track/6JoQg3P42ngcpyBNoTFWPC"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
-        "name": "Sladest (Expanded)",
-        "url": "https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW"
-      },
-      "artists": [
-        {
-          "name": "Slade",
-          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
-        }
-      ],
-      "duration_ms": 230173,
-      "name": "Get Down and Get With It",
-      "url": "https://open.spotify.com/track/3rEUXKfkeb6kPH6NCxkgCo"
     }
   ],
   "unique_name": "70s Summer Rock",

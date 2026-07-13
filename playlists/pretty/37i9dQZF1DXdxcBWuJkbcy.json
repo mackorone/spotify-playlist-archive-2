@@ -1,6 +1,6 @@
 {
   "description": "Pumping tracks for pumping iron!",
-  "num_followers": 7846656,
+  "num_followers": 7846285,
   "original_name": "Gym Hits",
   "owner": {
     "name": "Spotify",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2026-07-09 22:00:12",
       "album": {
-        "name": "NOW IT'S GONE (ELY OAKS REMIX)",
-        "url": "https://open.spotify.com/album/1CoyFBEkDoXjjdy7W1XzSB"
-      },
-      "artists": [
-        {
-          "name": "IN PARALLEL",
-          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
-        },
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 114609,
-      "name": "NOW IT'S GONE - ELY OAKS REMIX",
-      "url": "https://open.spotify.com/track/52J5G1z4DN0EWeAVsW7Uob"
-    },
-    {
-      "added_at": "2026-07-09 22:00:12",
-      "album": {
         "name": "Desire (with Sam Smith)",
         "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "added_at": "2026-07-09 22:00:12",
+      "album": {
+        "name": "NOW IT'S GONE (ELY OAKS REMIX)",
+        "url": "https://open.spotify.com/album/1CoyFBEkDoXjjdy7W1XzSB"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 114609,
+      "name": "NOW IT'S GONE - ELY OAKS REMIX",
+      "url": "https://open.spotify.com/track/52J5G1z4DN0EWeAVsW7Uob"
     },
     {
       "added_at": "2026-07-09 22:00:12",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2026-07-09 22:00:12",
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 187394,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
+    },
+    {
+      "added_at": "2026-07-09 22:00:12",
+      "album": {
         "name": "Hollow (feat. Bonn)",
         "url": "https://open.spotify.com/album/62cNVQX5G5tM6n302goHbL"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 200859,
       "name": "Hollow (feat. Bonn)",
       "url": "https://open.spotify.com/track/7EdPWyTm6EtO5httz2Dcoa"
-    },
-    {
-      "added_at": "2026-07-09 22:00:12",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 187394,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
     },
     {
       "added_at": "2026-07-09 22:00:12",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2026-07-09 22:00:12",
       "album": {
-        "name": "Addicted To Bass (Dom Dolla Relapse)",
-        "url": "https://open.spotify.com/album/659fi13MrTySSxJqmatMMu"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Puretone",
-          "url": "https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8"
-        }
-      ],
-      "duration_ms": 189179,
-      "name": "Addicted To Bass (Dom Dolla Relapse)",
-      "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
-    },
-    {
-      "added_at": "2026-07-09 22:00:12",
-      "album": {
         "name": "FATE",
         "url": "https://open.spotify.com/album/5uDffHt21NhV6YavkmAp9p"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 188873,
       "name": "FATE",
       "url": "https://open.spotify.com/track/3kUVRvpDGq2PhKHGZBa7iE"
+    },
+    {
+      "added_at": "2026-07-09 22:00:12",
+      "album": {
+        "name": "Addicted To Bass (Dom Dolla Relapse)",
+        "url": "https://open.spotify.com/album/659fi13MrTySSxJqmatMMu"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Puretone",
+          "url": "https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8"
+        }
+      ],
+      "duration_ms": 189179,
+      "name": "Addicted To Bass (Dom Dolla Relapse)",
+      "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
     },
     {
       "added_at": "2026-07-09 22:00:12",

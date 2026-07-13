@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaK46sFeMCJ.md) - [plain]
 
 > 승객 여러분, 현지와 함께 일상에서 이륙해 음악과 함께 여행을 떠날 시간입니다\. ✈️ \(Take off from the everyday with Hyunji and embark on a musical journey.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124 likes - 36 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,134 likes - 36 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

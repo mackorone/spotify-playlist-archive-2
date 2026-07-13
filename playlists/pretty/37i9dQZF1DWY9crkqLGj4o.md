@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,332 likes - 75 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,351 likes - 75 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 60 | [Deus Vai Chegar Primeiro \- Ao Vivo](https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [A Igreja Canta \(Ao Vivo\)](https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq) | 5:47 |
 | 61 | [Derrama o Teu Poder \- Ao Vivo](https://open.spotify.com/track/4LkEw1iHqCF6Ol1LdjM2zd) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Derrama o Teu Poder \(Ao Vivo\)](https://open.spotify.com/album/6oC2r7pNp735hePioQ88Vm) | 4:51 |
 | 62 | [Louvemos Ao Senhor](https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memórias Deluxe](https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y) | 4:31 |
-| 63 | [Não Tem Como Dar Errado \- Ao Vivo em Salvador](https://open.spotify.com/track/15DX1TCnLzCXMcjWnsUkMe) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Não Tem Como Dar Errado](https://open.spotify.com/album/5NMVWJzQs8ZRk5ablWbYW0) | 3:22 |
-| 64 | [Pai Presente](https://open.spotify.com/track/17A6kCom591jICydbChxCk) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Pai Presente](https://open.spotify.com/album/682eYG75UszY1zmE0yHhys) | 4:53 |
+| 63 | [Pai Presente](https://open.spotify.com/track/17A6kCom591jICydbChxCk) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Pai Presente](https://open.spotify.com/album/682eYG75UszY1zmE0yHhys) | 4:53 |
+| 64 | [Não Tem Como Dar Errado \- Ao Vivo em Salvador](https://open.spotify.com/track/15DX1TCnLzCXMcjWnsUkMe) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Não Tem Como Dar Errado](https://open.spotify.com/album/5NMVWJzQs8ZRk5ablWbYW0) | 3:22 |
 | 65 | [Tu És Santo](https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tu És Santo](https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO) | 3:40 |
 | 66 | [Vem Dando Glória \- Ao Vivo](https://open.spotify.com/track/13cRpWPJjyC6aFqNKNX9aO) | [Néia Do Surdo](https://open.spotify.com/artist/52yjuIfCOxTgugRDIxZvCw), [Pagodah](https://open.spotify.com/artist/47a5fNlYub0UA5ZEbjA11c) | [Vem Dando Glória \(Ao Vivo\)](https://open.spotify.com/album/5S7hBEDl08T6ekDrqg5N4H) | 4:19 |
 | 67 | [No Caminho do Milagre](https://open.spotify.com/track/2PA760uz4zfHLhmbwpcArL) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [No Caminho do Milagre \- Ao Vivo](https://open.spotify.com/album/4b76pdbnjJ6Ur7x7VDOxmZ) | 6:05 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Hrafnsson, David Von Beahm, MIK's Reaction and more",
+  "description": "With MIK's Reaction, Hrafnsson, JUST LIZZY and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 272000,
       "name": "187",
       "url": "https://open.spotify.com/track/3QBj7U2RZxOhSNlSCZXxxB"
+    },
+    {
+      "album": {
+        "name": "The 1985 Collection",
+        "url": "https://open.spotify.com/album/1UX9AV63AxrOnLpnf50Jwg"
+      },
+      "artists": [
+        {
+          "name": "Captain Margaret",
+          "url": "https://open.spotify.com/artist/0fDmBETTgWMuKjqQSjpqGi"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446625,
+      "name": "1985",
+      "url": "https://open.spotify.com/track/1XUxsV1zC9hcpcu7irLyUr"
     },
     {
       "album": {
@@ -258,6 +276,24 @@
       "duration_ms": 205500,
       "name": "A Heart Cries",
       "url": "https://open.spotify.com/track/5RsvOuAAaoEzABnhi2dLcl"
+    },
+    {
+      "album": {
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/3NP5vSAhnYpwYlzZvXJuyV"
+      },
+      "artists": [
+        {
+          "name": "David Von Beahm",
+          "url": "https://open.spotify.com/artist/2h4kMB513n1Tkk7ww91p1E"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329733,
+      "name": "A Lament",
+      "url": "https://open.spotify.com/track/1bgsZP9slBoncGw0Sh5VNg"
     },
     {
       "album": {
@@ -800,7 +836,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 313549,
       "name": "Ambrosia",
       "url": "https://open.spotify.com/track/6UCBjjduLh0jqKr1PjkRG2"
@@ -898,7 +934,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 219789,
       "name": "Angels Have No Wings",
       "url": "https://open.spotify.com/track/4T1IDZ1Mh8idHzzdv10zX0"
@@ -934,7 +970,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 278108,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/1XkFICmCusitYkiiAFREeG"
@@ -1556,7 +1592,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 192269,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/5i8CS0PDiM4F1TLwvMA6Ki"
@@ -1628,7 +1664,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 262736,
       "name": "BEWARE THE PROMISE",
       "url": "https://open.spotify.com/track/1HP6lE1hvZf147vnHepMa4"
@@ -2470,7 +2506,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 310000,
       "name": "Can You See",
       "url": "https://open.spotify.com/track/0821u62C5YiW4Z2beHjvGf"
@@ -2878,7 +2914,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 451422,
       "name": "Cities of the Interior",
       "url": "https://open.spotify.com/track/3tkITGy7zB69m235HMTrW3"
@@ -3813,6 +3849,24 @@
     },
     {
       "album": {
+        "name": "Dark Allies",
+        "url": "https://open.spotify.com/album/2UOy3a5zL9MlGHOLp7FCd8"
+      },
+      "artists": [
+        {
+          "name": "Le\u00e6ther Strip",
+          "url": "https://open.spotify.com/artist/0klcoRwPQF1GMv8FrA7F8V"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291464,
+      "name": "Dark Allies",
+      "url": "https://open.spotify.com/track/0b7AEjVaW9qZmwmMWMP2zd"
+    },
+    {
+      "album": {
         "name": "Dark Charm",
         "url": "https://open.spotify.com/album/74JyTvjFZvFtWgA1zWEEZg"
       },
@@ -4640,7 +4694,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 200000,
       "name": "Drive the Stick",
       "url": "https://open.spotify.com/track/44qnUiMgs6mOzfRWeoBsv7"
@@ -7848,7 +7902,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 194899,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/02qJe1c4VBtmRXt1UUaKRI"
@@ -8324,7 +8378,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 323500,
       "name": "It's No Good",
       "url": "https://open.spotify.com/track/2Dc6DRMr5fKhcLn57iwnjz"
@@ -8898,7 +8952,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 172500,
       "name": "Layers",
       "url": "https://open.spotify.com/track/2w68LiCEisB0exE4UxEer2"
@@ -8916,7 +8970,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 173792,
       "name": "LBS",
       "url": "https://open.spotify.com/track/4Ml081k9JSdOfSPfzcwyS1"
@@ -10598,7 +10652,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 244800,
       "name": "Necromantic",
       "url": "https://open.spotify.com/track/0uzlH0yNyjdmmBCyrGUqvf"
@@ -10638,7 +10692,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 226285,
       "name": "Never",
       "url": "https://open.spotify.com/track/7H2XExC1KVgaixnhP0T7yE"
@@ -12353,6 +12407,24 @@
     },
     {
       "album": {
+        "name": "Images in Mode : Heart Like a Frisbee",
+        "url": "https://open.spotify.com/album/0JP8KYxM87qaSQCA3dqJjh"
+      },
+      "artists": [
+        {
+          "name": "In This Mode",
+          "url": "https://open.spotify.com/artist/6HrG3Hh12RNDA5mPRM6G8g"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Rubyshine",
+      "url": "https://open.spotify.com/track/7fhcrNzuryRRDMdKtzEUvv"
+    },
+    {
+      "album": {
         "name": "Ruin",
         "url": "https://open.spotify.com/album/2HSPgBaslfWbCsdKfckKDx"
       },
@@ -12938,7 +13010,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 276000,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1yDtngy0nJMQ7oBEPloWjY"
@@ -14104,7 +14176,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 202135,
       "name": "Steel Butterflies",
       "url": "https://open.spotify.com/track/48bvLtjiWAWwaKSHrC5NF2"
@@ -14400,7 +14472,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 246000,
       "name": "Suffocating",
       "url": "https://open.spotify.com/track/7gVga4Zuq8jjuNTcLqbC6d"
@@ -16946,7 +17018,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 240744,
       "name": "Velvet Black",
       "url": "https://open.spotify.com/track/5Qw3Xscsima9Mecp2uVDjN"
@@ -17326,7 +17398,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 142419,
       "name": "War in My Heart",
       "url": "https://open.spotify.com/track/2JFArST7SWmFM57tHJzIM9"
@@ -18376,7 +18448,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 202997,
       "name": "\u0414\u0438\u0432\u043d\u043e",
       "url": "https://open.spotify.com/track/29VeWHQLy2PrfkhrJ91VKs"

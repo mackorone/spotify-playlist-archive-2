@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 57429,
+  "num_followers": 57440,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAADe0Zt/BOvV3GKDdACF5jdt",
+  "snapshot_id": "alGHgAAAAACqq9v5QDAD9UZAgkEAHxHa",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jordan Davis",
-        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
+        "name": "Learn The Hard Way",
+        "url": "https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 223448,
-      "name": "Church In A Chevy",
-      "url": "https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF"
+      "duration_ms": 172946,
+      "name": "Her Way Or The Highway",
+      "url": "https://open.spotify.com/track/59SCat3LTL5d1SBOBRB43D"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Learn The Hard Way",
-        "url": "https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp"
+        "name": "Jordan Davis",
+        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 172946,
-      "name": "Her Way Or The Highway",
-      "url": "https://open.spotify.com/track/59SCat3LTL5d1SBOBRB43D"
+      "duration_ms": 223448,
+      "name": "Church In A Chevy",
+      "url": "https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF"
     },
     {
       "added_at": null,

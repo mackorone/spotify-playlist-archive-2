@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,087,421 likes - 40 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,087,236 likes - 40 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 36 | [Para Sa Sarili](https://open.spotify.com/track/1YTJW80Jn9Yo1QKKBqEu0e) | [Jrldm](https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB) | [Mood Swing](https://open.spotify.com/album/6QAw4b5KeyFCCLOaATGkGU) | 4:22 |
 | 37 | [Pwede Ka Ba?](https://open.spotify.com/track/1RNCibCOmM49zenUyBXSLy) | [Frank Ely](https://open.spotify.com/artist/4wKXUX1hMeAmlAVOi7cfG0) | [Pwede Ka Ba?](https://open.spotify.com/album/2YyfEjYnbwlUttZNBlZ5Pf) | 4:58 |
 | 38 | [Randomantic](https://open.spotify.com/track/3lOpUMMUskknPD3dJR2MkT) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Reid Alert](https://open.spotify.com/album/2H4wJMAmm6r9WxMFwmXpj9) | 4:04 |
-| 39 | [habangbuhay pansamantala](https://open.spotify.com/track/2IEHmtpKz5NtKJpVG9lvn2) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [habangbuhay pansamantala](https://open.spotify.com/album/1x2upE4s9Yf7eYK1EYccx9) | 4:09 |
-| 40 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 |
+| 39 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 |
+| 40 | [habangbuhay pansamantala](https://open.spotify.com/track/2IEHmtpKz5NtKJpVG9lvn2) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [habangbuhay pansamantala](https://open.spotify.com/album/1x2upE4s9Yf7eYK1EYccx9) | 4:09 |
 
 Snapshot ID: `AAAAAFva4HnNn2xDFauDgoLIDaDSgoo5`

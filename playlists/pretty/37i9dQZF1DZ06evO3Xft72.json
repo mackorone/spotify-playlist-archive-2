@@ -1,12 +1,12 @@
 {
   "description": "This is Def Leppard. The essential tracks, all in one playlist.",
-  "num_followers": 292086,
+  "num_followers": 292101,
   "original_name": "This Is Def Leppard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAC9+TYubpoIE9w7427nHYp6",
+  "snapshot_id": "alGHgAAAAADgoHYxFQgmv+BwhPcF4BPs",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "High 'N' Dry",
-        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 183200,
-      "name": "Switch 625",
-      "url": "https://open.spotify.com/track/1lwW3ovgmnRIfqHnX1ghgU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -487,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenalize",
-        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
+        "name": "High 'N' Dry",
+        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
       },
       "artists": [
         {
@@ -496,9 +480,25 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 423016,
-      "name": "White Lightning",
-      "url": "https://open.spotify.com/track/4tcYRfRxsgo7yMEAmSAoB6"
+      "duration_ms": 183200,
+      "name": "Switch 625",
+      "url": "https://open.spotify.com/track/1lwW3ovgmnRIfqHnX1ghgU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 375866,
+      "name": "Die Hard The Hunter",
+      "url": "https://open.spotify.com/track/7KLg11Zw7jmxRC7CpGKEAR"
     },
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adrenalize",
+        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 423016,
+      "name": "White Lightning",
+      "url": "https://open.spotify.com/track/4tcYRfRxsgo7yMEAmSAoB6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "High 'N' Dry",
         "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
       },
@@ -528,25 +544,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 206550,
-      "name": "High 'N' Dry (Saturday Night)",
-      "url": "https://open.spotify.com/track/7CZYW6EnHdzOjZROlXeWyi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pyromania",
-        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 375866,
-      "name": "Die Hard The Hunter",
-      "url": "https://open.spotify.com/track/7KLg11Zw7jmxRC7CpGKEAR"
+      "duration_ms": 298663,
+      "name": "Another Hit And Run",
+      "url": "https://open.spotify.com/track/1XMIfgwtEm6Bd2mahFPaqb"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "High 'N' Dry",
-        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 298663,
-      "name": "Another Hit And Run",
-      "url": "https://open.spotify.com/track/1XMIfgwtEm6Bd2mahFPaqb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamond Star Halos",
         "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 254906,
       "name": "Take What You Want",
       "url": "https://open.spotify.com/track/0frtdZ0KWaYQJGvPvsS6YO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High 'N' Dry",
+        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 206550,
+      "name": "High 'N' Dry (Saturday Night)",
+      "url": "https://open.spotify.com/track/7CZYW6EnHdzOjZROlXeWyi"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/3if8cfZD6MuAc5UmwBd6By"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 240920,
-      "name": "Now",
-      "url": "https://open.spotify.com/track/71sHC5AHCow7uIka7RWztY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 217799,
       "name": "Tear It Down",
       "url": "https://open.spotify.com/track/3pH9Vu1LNBXMUptZbmipFF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/3if8cfZD6MuAc5UmwBd6By"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 240920,
+      "name": "Now",
+      "url": "https://open.spotify.com/track/71sHC5AHCow7uIka7RWztY"
     },
     {
       "added_at": null,

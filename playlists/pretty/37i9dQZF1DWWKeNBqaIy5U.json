@@ -1,6 +1,6 @@
 {
   "description": "The gentle sound of some of the greatest voices and instrumentalists in Jazz. Your Jazz dinner soundtrack. ",
-  "num_followers": 87508,
+  "num_followers": 87528,
   "original_name": "Dinner Jazz",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,26 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
+        "name": "The President Plays With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "On The Sunny Side Of The Street",
+      "url": "https://open.spotify.com/track/42glcnGSZYpv5kg9izfAuP"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
         "name": "Ella Sings Gershwin",
         "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 189134,
       "name": "Blue Midnight",
       "url": "https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
-        "name": "The President Plays With The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "On The Sunny Side Of The Street",
-      "url": "https://open.spotify.com/track/42glcnGSZYpv5kg9izfAuP"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Alexandria The Great",
-        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
-      },
-      "artists": [
-        {
-          "name": "Lorez Alexandria",
-          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
-        }
-      ],
-      "duration_ms": 325493,
-      "name": "I'm Through With Love",
-      "url": "https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
         "name": "Soulville",
         "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 271893,
       "name": "Makin' Whoopee",
       "url": "https://open.spotify.com/track/6tL1ZlPRSihc6gyWhVfA8X"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
+        "name": "Alexandria The Great",
+        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
+      },
+      "artists": [
+        {
+          "name": "Lorez Alexandria",
+          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
+        }
+      ],
+      "duration_ms": 325493,
+      "name": "I'm Through With Love",
+      "url": "https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "The Amazing Bud Powell, Vol. 2 (1989 Version)",
-        "url": "https://open.spotify.com/album/49urA9QFIqnlG3XufhHhfH"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 243773,
-      "name": "Polka Dots And Moonbeams - Remastered 1994",
-      "url": "https://open.spotify.com/track/3Wadbk42UtsJOT5mCx9Bb0"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
         "name": "Sings... Me And The Blues",
         "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
       },
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Blues-A-Plenty",
-        "url": "https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps"
+        "name": "The Amazing Bud Powell, Vol. 2 (1989 Version)",
+        "url": "https://open.spotify.com/album/49urA9QFIqnlG3XufhHhfH"
       },
       "artists": [
         {
-          "name": "Johnny Hodges & His Orchestra",
-          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
         }
       ],
-      "duration_ms": 219680,
-      "name": "Don't Take Your Love From Me",
-      "url": "https://open.spotify.com/track/0yMntBQvB8hIcsrt5YSVIE"
+      "duration_ms": 243773,
+      "name": "Polka Dots And Moonbeams - Remastered 1994",
+      "url": "https://open.spotify.com/track/3Wadbk42UtsJOT5mCx9Bb0"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -1167,6 +1151,22 @@
       "duration_ms": 263906,
       "name": "When I Fall In Love - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/7EwtqSo6cs173LRg7paAfK"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
+        "name": "Blues-A-Plenty",
+        "url": "https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges & His Orchestra",
+          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
+        }
+      ],
+      "duration_ms": 219680,
+      "name": "Don't Take Your Love From Me",
+      "url": "https://open.spotify.com/track/0yMntBQvB8hIcsrt5YSVIE"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 264533,
-      "name": "For Heaven's Sake",
-      "url": "https://open.spotify.com/track/3AoSr3DDqb78fQVeE41e1V"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
         "name": "Your Laugh",
         "url": "https://open.spotify.com/album/1zdhx2ty0QErwb2BvtFqTL"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 207931,
       "name": "Right Now Right Here",
       "url": "https://open.spotify.com/track/0ruQME0dBzzcbdYCqD6x0j"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 264533,
+      "name": "For Heaven's Sake",
+      "url": "https://open.spotify.com/track/3AoSr3DDqb78fQVeE41e1V"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "My Ideal",
-        "url": "https://open.spotify.com/album/24UkLtCJQy7LB4BMYpmszg"
-      },
-      "artists": [
-        {
-          "name": "Mandevilla",
-          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
-        }
-      ],
-      "duration_ms": 192750,
-      "name": "My Ideal",
-      "url": "https://open.spotify.com/track/74JcbkYE5pCo2aDwfvSZK0"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
         "name": "Bathtub Bourbon",
         "url": "https://open.spotify.com/album/3QPvb7pwKL9PdIqhOpmm1G"
       },
@@ -1827,6 +1811,22 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
+        "name": "My Ideal",
+        "url": "https://open.spotify.com/album/24UkLtCJQy7LB4BMYpmszg"
+      },
+      "artists": [
+        {
+          "name": "Mandevilla",
+          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
+        }
+      ],
+      "duration_ms": 192750,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/74JcbkYE5pCo2aDwfvSZK0"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
         "name": "The Impulse Story",
         "url": "https://open.spotify.com/album/4lxBGNMymHqIidoIdNmMT5"
       },
@@ -1839,22 +1839,6 @@
       "duration_ms": 328506,
       "name": "Groove Waltz",
       "url": "https://open.spotify.com/track/4JI1z2ExhzqYbnTyG5bNX6"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
-        "name": "Each Fall To Spring",
-        "url": "https://open.spotify.com/album/4pZHRclLtA56ij2xPa4obi"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Edmonstone Trio",
-          "url": "https://open.spotify.com/artist/1zLUuGQGwGHs9hTDz4hR1H"
-        }
-      ],
-      "duration_ms": 231610,
-      "name": "Each Fall To Spring",
-      "url": "https://open.spotify.com/track/0jPV9bDPhYqsMQP0rIDGms"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -1895,6 +1879,22 @@
       "duration_ms": 695640,
       "name": "Kid's Know - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/7r9IzVSqmcXukLSy8xun9j"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
+        "name": "Each Fall To Spring",
+        "url": "https://open.spotify.com/album/4pZHRclLtA56ij2xPa4obi"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Edmonstone Trio",
+          "url": "https://open.spotify.com/artist/1zLUuGQGwGHs9hTDz4hR1H"
+        }
+      ],
+      "duration_ms": 231610,
+      "name": "Each Fall To Spring",
+      "url": "https://open.spotify.com/track/0jPV9bDPhYqsMQP0rIDGms"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Third Season",
-        "url": "https://open.spotify.com/album/5I0pKphkhgnP2wG4eRyMIu"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 414360,
-      "name": "Don't Cry, Just Sigh",
-      "url": "https://open.spotify.com/track/0Q9ueLELd8chcwhOT1moRp"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 202228,
       "name": "Can't Get out of This Mood",
       "url": "https://open.spotify.com/track/3ddbXEt3W1UZUd2AOi2HhF"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
+        "name": "Third Season",
+        "url": "https://open.spotify.com/album/5I0pKphkhgnP2wG4eRyMIu"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 414360,
+      "name": "Don't Cry, Just Sigh",
+      "url": "https://open.spotify.com/track/0Q9ueLELd8chcwhOT1moRp"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -2119,18 +2119,18 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Serendipity",
-        "url": "https://open.spotify.com/album/5TvTwOMVlaOmHcHvInGlXg"
+        "name": "What Is There To Say?",
+        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
       },
       "artists": [
         {
-          "name": "Arthur Taylor Trio",
-          "url": "https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n"
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
         }
       ],
-      "duration_ms": 205750,
-      "name": "Serendipity",
-      "url": "https://open.spotify.com/track/3KonwJcO3xhHuNq49osUSD"
+      "duration_ms": 250426,
+      "name": "Just In Time",
+      "url": "https://open.spotify.com/track/4dNKUXGfUMsMSkmytyQY7T"
     }
   ],
   "unique_name": "Dinner Jazz",

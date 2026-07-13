@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 70421,
+  "num_followers": 70427,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAAzVinHrqeEURrn6UR/kjRF",
+  "snapshot_id": "alGHgAAAAAAB7j1sbpG/fhkdXqdfVXVF",
   "tracks": [
     {
       "added_at": null,
@@ -535,18 +535,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bajo Mil Llaves",
-        "url": "https://open.spotify.com/album/0n7mcqBvdYnnSRhGaRKzSe"
+        "name": "La Borrachera Perfecta (En Vivo)",
+        "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
       },
       "artists": [
+        {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
+          "name": "Rosendo Cant\u00fa",
+          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
+        },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 149560,
-      "name": "Bajo Mil Llaves",
-      "url": "https://open.spotify.com/track/7ym2izAqC0e5dQZolSVCLa"
+      "duration_ms": 174290,
+      "name": "El Rog\u00f3n (En Vivo)",
+      "url": "https://open.spotify.com/track/7t1X9xoDduvrcaoOVallpV"
     },
     {
       "added_at": null,
@@ -575,26 +583,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Borrachera Perfecta (En Vivo)",
-        "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
+        "name": "Bajo Mil Llaves",
+        "url": "https://open.spotify.com/album/0n7mcqBvdYnnSRhGaRKzSe"
       },
       "artists": [
-        {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
-        {
-          "name": "Rosendo Cant\u00fa",
-          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
-        },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 174290,
-      "name": "El Rog\u00f3n (En Vivo)",
-      "url": "https://open.spotify.com/track/7t1X9xoDduvrcaoOVallpV"
+      "duration_ms": 149560,
+      "name": "Bajo Mil Llaves",
+      "url": "https://open.spotify.com/track/7ym2izAqC0e5dQZolSVCLa"
     },
     {
       "added_at": null,

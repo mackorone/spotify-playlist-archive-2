@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 30079,
+  "num_followers": 30110,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-06-26 00:29:08",
       "album": {
-        "name": "yo,",
-        "url": "https://open.spotify.com/album/2rRdfUZtXxNdY2Qlc2pBgB"
-      },
-      "artists": [
-        {
-          "name": "Peterparker69",
-          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
-        }
-      ],
-      "duration_ms": 157611,
-      "name": "Omatcha",
-      "url": "https://open.spotify.com/track/4I8KfeqnrXYeHNm7w1IaQ2"
-    },
-    {
-      "added_at": "2026-06-26 00:29:08",
-      "album": {
         "name": "BERLIN TRAX",
         "url": "https://open.spotify.com/album/3ktsz9CUSzxZBVUbLsaYx4"
       },
@@ -259,34 +243,18 @@
     {
       "added_at": "2026-06-26 00:29:08",
       "album": {
-        "name": "higher",
-        "url": "https://open.spotify.com/album/6GdriEV8mveuABwOOiVERK"
+        "name": "yo,",
+        "url": "https://open.spotify.com/album/2rRdfUZtXxNdY2Qlc2pBgB"
       },
       "artists": [
         {
-          "name": "LAUSBUB",
-          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
+          "name": "Peterparker69",
+          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
         }
       ],
-      "duration_ms": 214733,
-      "name": "higher",
-      "url": "https://open.spotify.com/track/1w7bubiEhXQJXzlK3luqnh"
-    },
-    {
-      "added_at": "2026-06-26 00:29:08",
-      "album": {
-        "name": "IN THE RAIN",
-        "url": "https://open.spotify.com/album/6ny2h77H2ss1kMCsxtY22L"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 194452,
-      "name": "IN THE RAIN x XDM",
-      "url": "https://open.spotify.com/track/1V33peoBd9zVqKX5xUIjuh"
+      "duration_ms": 157611,
+      "name": "Omatcha",
+      "url": "https://open.spotify.com/track/4I8KfeqnrXYeHNm7w1IaQ2"
     },
     {
       "added_at": "2026-06-26 00:29:08",
@@ -315,6 +283,38 @@
       "duration_ms": 165000,
       "name": "BAMBOO",
       "url": "https://open.spotify.com/track/2q2XA70NRreC33odqvghf9"
+    },
+    {
+      "added_at": "2026-06-26 00:29:08",
+      "album": {
+        "name": "IN THE RAIN",
+        "url": "https://open.spotify.com/album/6ny2h77H2ss1kMCsxtY22L"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 194452,
+      "name": "IN THE RAIN x XDM",
+      "url": "https://open.spotify.com/track/1V33peoBd9zVqKX5xUIjuh"
+    },
+    {
+      "added_at": "2026-06-26 00:29:08",
+      "album": {
+        "name": "higher",
+        "url": "https://open.spotify.com/album/6GdriEV8mveuABwOOiVERK"
+      },
+      "artists": [
+        {
+          "name": "LAUSBUB",
+          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "higher",
+      "url": "https://open.spotify.com/track/1w7bubiEhXQJXzlK3luqnh"
     },
     {
       "added_at": "2026-06-26 00:29:08",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-06-26 00:29:08",
       "album": {
-        "name": "ROMP",
-        "url": "https://open.spotify.com/album/1aVH41SAin716xpep2O53d"
-      },
-      "artists": [
-        {
-          "name": "LAUSBUB",
-          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "I SYNC",
-      "url": "https://open.spotify.com/track/51aSWkFg6MHg2ciLjcnFRw"
-    },
-    {
-      "added_at": "2026-06-26 00:29:08",
-      "album": {
         "name": "XDM Unidentified Waves",
         "url": "https://open.spotify.com/album/1z3VCBUJBHkpDHtzOZP205"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 189440,
       "name": "WOKE UP x XDM",
       "url": "https://open.spotify.com/track/1a5Dhd82KaUqmz3sQEDNbs"
+    },
+    {
+      "added_at": "2026-06-26 00:29:08",
+      "album": {
+        "name": "ROMP",
+        "url": "https://open.spotify.com/album/1aVH41SAin716xpep2O53d"
+      },
+      "artists": [
+        {
+          "name": "LAUSBUB",
+          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "I SYNC",
+      "url": "https://open.spotify.com/track/51aSWkFg6MHg2ciLjcnFRw"
     },
     {
       "added_at": "2026-06-26 00:29:08",
@@ -439,26 +439,6 @@
     {
       "added_at": "2026-06-26 00:29:08",
       "album": {
-        "name": "Iramante (feat. towa ainutoronica)",
-        "url": "https://open.spotify.com/album/4zVuJhOxMVnkKNvItySD7Y"
-      },
-      "artists": [
-        {
-          "name": "Snowk",
-          "url": "https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r"
-        },
-        {
-          "name": "towa ainutoronica",
-          "url": "https://open.spotify.com/artist/7yFnJKqApbDa5j8YQbUkvK"
-        }
-      ],
-      "duration_ms": 303000,
-      "name": "Iramante (feat. towa ainutoronica)",
-      "url": "https://open.spotify.com/track/35Enz9josqTO3TAssK9i5k"
-    },
-    {
-      "added_at": "2026-06-26 00:29:08",
-      "album": {
         "name": "Attracted to you",
         "url": "https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z"
       },
@@ -483,22 +463,22 @@
     {
       "added_at": "2026-06-26 00:29:08",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/1j5koOWuY2kIoCX3hsPayx"
+        "name": "Iramante (feat. towa ainutoronica)",
+        "url": "https://open.spotify.com/album/4zVuJhOxMVnkKNvItySD7Y"
       },
       "artists": [
         {
-          "name": "Shingo Nakamura",
-          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+          "name": "Snowk",
+          "url": "https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r"
         },
         {
-          "name": "Warung",
-          "url": "https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz"
+          "name": "towa ainutoronica",
+          "url": "https://open.spotify.com/artist/7yFnJKqApbDa5j8YQbUkvK"
         }
       ],
-      "duration_ms": 200655,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/16vnGjVUbGeniz8aXAxUxk"
+      "duration_ms": 303000,
+      "name": "Iramante (feat. towa ainutoronica)",
+      "url": "https://open.spotify.com/track/35Enz9josqTO3TAssK9i5k"
     },
     {
       "added_at": "2026-06-26 00:29:08",
@@ -515,6 +495,26 @@
       "duration_ms": 259200,
       "name": "sign",
       "url": "https://open.spotify.com/track/0mWPg9Zdp9lw6dNxb6F4Nf"
+    },
+    {
+      "added_at": "2026-06-26 00:29:08",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/1j5koOWuY2kIoCX3hsPayx"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        },
+        {
+          "name": "Warung",
+          "url": "https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz"
+        }
+      ],
+      "duration_ms": 200655,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/16vnGjVUbGeniz8aXAxUxk"
     },
     {
       "added_at": "2026-06-26 00:29:08",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-06-26 00:29:08",
       "album": {
-        "name": "Magnetic EP",
-        "url": "https://open.spotify.com/album/1JOg0FuXrV095Lrl7ias2M"
-      },
-      "artists": [
-        {
-          "name": "Risa Taniguchi",
-          "url": "https://open.spotify.com/artist/44HyyC4bGo2Z30zoaaeTxy"
-        }
-      ],
-      "duration_ms": 336347,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/6MVeoJkx0PuobbEe2jlTJb"
-    },
-    {
-      "added_at": "2026-06-26 00:29:08",
-      "album": {
         "name": "\u4e0d\u591c\u57ce - FUYAJO feat. Tyler Carter",
         "url": "https://open.spotify.com/album/2HMM8JWRjH5ElRHJJ2pGoO"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 232558,
       "name": "Life, Dream, Love",
       "url": "https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r"
+    },
+    {
+      "added_at": "2026-06-26 00:29:08",
+      "album": {
+        "name": "Magnetic EP",
+        "url": "https://open.spotify.com/album/1JOg0FuXrV095Lrl7ias2M"
+      },
+      "artists": [
+        {
+          "name": "Risa Taniguchi",
+          "url": "https://open.spotify.com/artist/44HyyC4bGo2Z30zoaaeTxy"
+        }
+      ],
+      "duration_ms": 336347,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/6MVeoJkx0PuobbEe2jlTJb"
     },
     {
       "added_at": "2026-06-26 00:29:08",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-06-26 00:29:08",
       "album": {
-        "name": "Disappear | Between Thoughts",
-        "url": "https://open.spotify.com/album/20nwso1U6ydpaVXCPCvlZo"
-      },
-      "artists": [
-        {
-          "name": "Shinichi Atobe",
-          "url": "https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv"
-        }
-      ],
-      "duration_ms": 397964,
-      "name": "Disappear",
-      "url": "https://open.spotify.com/track/0wS2lHu920Nm9G5Ee24mjW"
-    },
-    {
-      "added_at": "2026-06-26 00:29:08",
-      "album": {
         "name": "Say Less",
         "url": "https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2026-06-26 00:29:08",
       "album": {
-        "name": "Nulife",
-        "url": "https://open.spotify.com/album/6wzmYBtzA90cXIUvTuD5I3"
+        "name": "Disappear | Between Thoughts",
+        "url": "https://open.spotify.com/album/20nwso1U6ydpaVXCPCvlZo"
       },
       "artists": [
         {
-          "name": "DE DE MOUSE",
-          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+          "name": "Shinichi Atobe",
+          "url": "https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv"
         }
       ],
-      "duration_ms": 236675,
-      "name": "Nulife",
-      "url": "https://open.spotify.com/track/58YPHNk3iFesdE22u5giwN"
+      "duration_ms": 397964,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/0wS2lHu920Nm9G5Ee24mjW"
     },
     {
       "added_at": "2026-06-26 00:29:08",
@@ -919,6 +903,22 @@
       "duration_ms": 235312,
       "name": "OB PKWY",
       "url": "https://open.spotify.com/track/1Gqe0o6Fy8qPMRdqiwQDTo"
+    },
+    {
+      "added_at": "2026-06-26 00:29:08",
+      "album": {
+        "name": "Nulife",
+        "url": "https://open.spotify.com/album/6wzmYBtzA90cXIUvTuD5I3"
+      },
+      "artists": [
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        }
+      ],
+      "duration_ms": 236675,
+      "name": "Nulife",
+      "url": "https://open.spotify.com/track/58YPHNk3iFesdE22u5giwN"
     }
   ],
   "unique_name": "Tokyo Club Beat",

@@ -677,6 +677,24 @@
     },
     {
       "album": {
+        "name": "Yours Until the War is Over",
+        "url": "https://open.spotify.com/album/3Uf2ioZXjv71usXs8NZZ7M"
+      },
+      "artists": [
+        {
+          "name": "Amigo the Devil",
+          "url": "https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253185,
+      "name": "Once Upon a Time at Texaco pt. 1",
+      "url": "https://open.spotify.com/track/0MP9GFdd98d41oEorwCqyo"
+    },
+    {
+      "album": {
         "name": "One by One",
         "url": "https://open.spotify.com/album/6Rac9Az8RQyXqodgu2ispe"
       },

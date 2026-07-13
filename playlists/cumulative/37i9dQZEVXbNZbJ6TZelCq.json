@@ -3925,6 +3925,28 @@
     },
     {
       "album": {
+        "name": "ADL",
+        "url": "https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193684,
+      "name": "Back Home",
+      "url": "https://open.spotify.com/track/40oYjPdjvFBCZH1Smsk46H"
+    },
+    {
+      "album": {
         "name": "Speak Now (Taylor's Version)",
         "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
       },
@@ -5498,7 +5520,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 156750,
       "name": "BETO DANCE",
       "url": "https://open.spotify.com/track/3U2UZLISDB6TjZyOQbASIg"
@@ -17011,6 +17033,28 @@
     },
     {
       "album": {
+        "name": "Focu'",
+        "url": "https://open.spotify.com/album/24QCD0wwucHVZhHMPoYLfH"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        },
+        {
+          "name": "Azteca",
+          "url": "https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Focu'",
+      "url": "https://open.spotify.com/track/7sZRAEPaQHH8A9tbxrHWme"
+    },
+    {
+      "album": {
         "name": "Folclor",
         "url": "https://open.spotify.com/album/1d2BX744M8Lg0c12Pbe1EX"
       },
@@ -17954,7 +17998,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 186293,
       "name": "Gagicuta body show",
       "url": "https://open.spotify.com/track/0vJMLsjPvDTiryvIS7dIss"
@@ -22376,7 +22420,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 120000,
       "name": "IN MINTEA TA",
       "url": "https://open.spotify.com/track/1Kkhr9ga7twQHj6fMmccrt"
@@ -29362,7 +29406,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 233281,
       "name": "MODEL",
       "url": "https://open.spotify.com/track/0g0CvffYlfUznjEGe86Fpd"
@@ -31000,7 +31044,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "Nefiu",
       "url": "https://open.spotify.com/track/7cqBCPSg3gGx5WLcThHq0c"
@@ -40804,7 +40848,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 182775,
       "name": "Sigur Dar Incet",
       "url": "https://open.spotify.com/track/1GvAEveXYX53btltb0QCxm"

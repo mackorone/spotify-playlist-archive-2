@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 30822,
+  "num_followers": 30835,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAACPWo0CH8WVrT6ezJL5j+nj",
+  "snapshot_id": "alGHgAAAAACTBA+JMmUwDFMYvhvXFVH4",
   "tracks": [
     {
       "added_at": null,
@@ -79,26 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAID OF HONOUR",
-        "url": "https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Cheetah Print (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/1AFW3QBDjBmb4EL9gyiYhe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
@@ -115,6 +95,26 @@
       "duration_ms": 149461,
       "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAID OF HONOUR",
+        "url": "https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Cheetah Print (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/1AFW3QBDjBmb4EL9gyiYhe"
     },
     {
       "added_at": null,
@@ -391,6 +391,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Strips (Remix) (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/6ILm92QdF5a6w58j7xb7so"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 133659,
+      "name": "Blue Strips (feat. Sexyy Red) - Remix",
+      "url": "https://open.spotify.com/track/1GLJ9AZrhDpU32WQirWBzV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Embrace It (Remix) (feat. Sexyy Red, Flo Milli, RJ Pasin)",
         "url": "https://open.spotify.com/album/566dEBWNKAa9yh16I1GtrT"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 202434,
       "name": "Embrace It (feat. Sexyy Red, Flo Milli) - Remix",
       "url": "https://open.spotify.com/track/1KkeD458LJuw0KkU9AIfqo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Strips (Remix) (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/6ILm92QdF5a6w58j7xb7so"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 133659,
-      "name": "Blue Strips (feat. Sexyy Red) - Remix",
-      "url": "https://open.spotify.com/track/1GLJ9AZrhDpU32WQirWBzV"
     },
     {
       "added_at": null,
@@ -935,22 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Favorite Trappa Favorite Rappa (Hosted by DJ Holiday)",
-        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 169811,
-      "name": "It Bitches",
-      "url": "https://open.spotify.com/track/1QmTZzRri0uhYtXhUiAz06"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yonce Freestyle (feat. Sexyy Red & B.G.)",
         "url": "https://open.spotify.com/album/0BbrF9bl7IIQGJNQfw7kbm"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 224415,
       "name": "Yonce Freestyle (feat. Sexyy Red & B.G.)",
       "url": "https://open.spotify.com/track/1fo2w2ikXyQjnmH1AVVyJ8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Favorite Trappa Favorite Rappa (Hosted by DJ Holiday)",
+        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "It Bitches",
+      "url": "https://open.spotify.com/track/1QmTZzRri0uhYtXhUiAz06"
     },
     {
       "added_at": null,
@@ -1011,8 +1011,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
       },
       "artists": [
         {
@@ -1020,9 +1020,9 @@
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 149958,
-      "name": "Female Gucci Mane",
-      "url": "https://open.spotify.com/track/5jMCvfuGCvNXrUqr8FRgb8"
+      "duration_ms": 177902,
+      "name": "Shake Yo Dreads",
+      "url": "https://open.spotify.com/track/3CPu3e1CVKItYWdoCgSXzm"
     }
   ],
   "unique_name": "This Is Sexyy Red",

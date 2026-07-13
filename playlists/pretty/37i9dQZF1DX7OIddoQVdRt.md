@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of recent hits in Gospel music\.  Cover: Jonathan McReynolds
 
-[Spotify](https://open.spotify.com/user/spotify) - 658,964 likes - 75 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,973 likes - 75 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 74 | [He Can Handle It \(Radio Edit\) \- Live](https://open.spotify.com/track/68tLwIOp5nOnrHWmVzyr5C) | [Crystal Aikin](https://open.spotify.com/artist/5AfDeAE9DebBuxecThmRsf) | [He Can Handle It \(Live\)](https://open.spotify.com/album/7GNErp8ltR2S4yb7I0fmvp) | 4:09 |
 | 75 | [Transitions](https://open.spotify.com/track/1nboBaRhaDHuJ29ULkLQwH) | [Todd Curry](https://open.spotify.com/artist/55oZhVe2j6uTnRxJavVpNY), [B.Slade](https://open.spotify.com/artist/03lJ2xTQTFzBknVjb0FJUt) | [Transitions](https://open.spotify.com/album/40ueWGytYUNXbZ0HBjRKFE) | 3:44 |
 
-Snapshot ID: `AAAAAK+Gg2GRHpN+stOH0MWFqTue7GKg`
+Snapshot ID: `AAAAAO//1Ce8jezyhFZYEHuhH+wjyhGM`

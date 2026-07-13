@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 603435,
+  "num_followers": 603639,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAABO/aXjxzO8k3eShen7IpBT",
+  "snapshot_id": "alGHgAAAAABN0UFR5cratF/FVeX6BuFq",
   "tracks": [
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con dolor",
-        "url": "https://open.spotify.com/album/5NPLmlTys2atPbydfgLKke"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 172218,
-      "name": "Pary",
-      "url": "https://open.spotify.com/track/1vuv2tN0AWun2LYnJIkCe0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 160752,
       "name": "Quedate Conmigo",
       "url": "https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con dolor",
+        "url": "https://open.spotify.com/album/5NPLmlTys2atPbydfgLKke"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 172218,
+      "name": "Pary",
+      "url": "https://open.spotify.com/track/1vuv2tN0AWun2LYnJIkCe0"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con dolor",
-        "url": "https://open.spotify.com/album/5NPLmlTys2atPbydfgLKke"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 203732,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/64sCDUnbNVjhWyfYmVrTOD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pienso En Ella",
         "url": "https://open.spotify.com/album/7cHJ27ODl19jWx14kWMPMT"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 159552,
       "name": "Pienso En Ella",
       "url": "https://open.spotify.com/track/1JLN3lX1fFAJoFPjUhp4ZR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con dolor",
+        "url": "https://open.spotify.com/album/5NPLmlTys2atPbydfgLKke"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 203732,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/64sCDUnbNVjhWyfYmVrTOD"
     },
     {
       "added_at": null,

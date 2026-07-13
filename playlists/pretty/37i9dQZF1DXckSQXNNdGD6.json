@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Guitarricadelafuente.",
-  "num_followers": 22323,
+  "num_followers": 22327,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-06-08 07:44:23",
       "album": {
-        "name": "Hoy ya no",
-        "url": "https://open.spotify.com/album/0nP5xUA3mhn8T56eB6ZpfA"
-      },
-      "artists": [
-        {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
-        }
-      ],
-      "duration_ms": 160064,
-      "name": "Hoy ya no",
-      "url": "https://open.spotify.com/track/0rtC4k3M8DkZdiNeoO37bz"
-    },
-    {
-      "added_at": "2026-06-08 07:44:23",
-      "album": {
         "name": "Algo me falta",
         "url": "https://open.spotify.com/album/1suJSeK6upGYxxD1iMqIEE"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 181500,
       "name": "Algo me falta",
       "url": "https://open.spotify.com/track/1B6zVmn6jdStD6ZFRhn4rU"
+    },
+    {
+      "added_at": "2026-06-08 07:44:23",
+      "album": {
+        "name": "Hoy ya no",
+        "url": "https://open.spotify.com/album/0nP5xUA3mhn8T56eB6ZpfA"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "duration_ms": 160064,
+      "name": "Hoy ya no",
+      "url": "https://open.spotify.com/track/0rtC4k3M8DkZdiNeoO37bz"
     },
     {
       "added_at": "2026-06-08 07:44:23",

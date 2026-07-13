@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 78397,
+  "num_followers": 78410,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,26 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "Roll the Dice (Konstantin Sibold Remix)",
+        "url": "https://open.spotify.com/album/3WOPS1tdtkUaZ9fU9Rm1J0"
+      },
+      "artists": [
+        {
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+        },
+        {
+          "name": "Konstantin Sibold",
+          "url": "https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW"
+        }
+      ],
+      "duration_ms": 285235,
+      "name": "Roll the Dice - Konstantin Sibold Remix",
+      "url": "https://open.spotify.com/track/6Sut2jMsmtx3ZFeJQP6jV4"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 384007,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "Roll the Dice (Konstantin Sibold Remix)",
-        "url": "https://open.spotify.com/album/3WOPS1tdtkUaZ9fU9Rm1J0"
-      },
-      "artists": [
-        {
-          "name": "Bart Skils",
-          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
-        },
-        {
-          "name": "Konstantin Sibold",
-          "url": "https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW"
-        }
-      ],
-      "duration_ms": 285235,
-      "name": "Roll the Dice - Konstantin Sibold Remix",
-      "url": "https://open.spotify.com/track/6Sut2jMsmtx3ZFeJQP6jV4"
     },
     {
       "added_at": "2025-12-03 12:15:55",

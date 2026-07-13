@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: Jovonta Patton
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,351 likes - 100 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,371 likes - 100 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 99 | [HOLY PLACE](https://open.spotify.com/track/5jkD22xzTiwTLp90CBpTmr) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [HOLY PLACE](https://open.spotify.com/album/2opgoS8ibTjPJCU55jgkt4) | 4:17 |
 | 100 | [With God \- Live](https://open.spotify.com/track/5t3Y3f6dXnuznrjA5Q9f2C) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Restore: Live in London](https://open.spotify.com/album/7LzEcOSf8GOcO0lH0qD3Im) | 3:03 |
 
-Snapshot ID: `AAAAAOgi15PYTokSkVF84GMIqA+1u1M7`
+Snapshot ID: `AAAAAEcsd+gmHT3fwcA80TZargGwQCj+`

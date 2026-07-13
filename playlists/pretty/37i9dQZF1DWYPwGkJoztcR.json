@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 397618,
+  "num_followers": 397630,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Thorns",
-        "url": "https://open.spotify.com/album/089kuVmI5JOve2aj6euTSA"
-      },
-      "artists": [
-        {
-          "name": "Jack and the Weatherman",
-          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
-        }
-      ],
-      "duration_ms": 200441,
-      "name": "Thorns",
-      "url": "https://open.spotify.com/track/4qbKtcNmcPx91f7IZK0647"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Guy From Outer Space",
         "url": "https://open.spotify.com/album/0SmDKRm8ipUPFzf9PtrUzk"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 163176,
       "name": "Guy From Outer Space",
       "url": "https://open.spotify.com/track/15i3dsbI648yXalkC7tlpK"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Thorns",
+        "url": "https://open.spotify.com/album/089kuVmI5JOve2aj6euTSA"
+      },
+      "artists": [
+        {
+          "name": "Jack and the Weatherman",
+          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
+        }
+      ],
+      "duration_ms": 200441,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/4qbKtcNmcPx91f7IZK0647"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 186438,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "I'm In Heaven",
         "url": "https://open.spotify.com/album/4g68SKo4DiuPYlpRdblVme"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 205671,
       "name": "I'm In Heaven",
       "url": "https://open.spotify.com/track/5Ycw4NgU1nxx2aFZbX1ULW"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 186438,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Happy, Pt. 2",
-        "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
-      },
-      "artists": [
-        {
-          "name": "Douglas Firs",
-          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
-        }
-      ],
-      "duration_ms": 230715,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Muscle Shoals",
         "url": "https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 182106,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/6kttTC4qm7W8CTfOLcMrMG"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Happy, Pt. 2",
+        "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
+      },
+      "artists": [
+        {
+          "name": "Douglas Firs",
+          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
+        }
+      ],
+      "duration_ms": 230715,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Bigger Picture",
-        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 185753,
-      "name": "Bigger Picture",
-      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Here's To Forever",
         "url": "https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 184883,
       "name": "Here's To Forever",
       "url": "https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Bigger Picture",
+        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 185753,
+      "name": "Bigger Picture",
+      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Brotherhood",
-        "url": "https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT"
-      },
-      "artists": [
-        {
-          "name": "Isaac Roux",
-          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
-        }
-      ],
-      "duration_ms": 236394,
-      "name": "Brotherhood",
-      "url": "https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Better Tomorrow",
         "url": "https://open.spotify.com/album/68mtiOTPbUs6FhNhPyGefj"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 211111,
       "name": "Better Tomorrow",
       "url": "https://open.spotify.com/track/0DXMmLSftFOYvAB84xcWzA"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Brotherhood",
+        "url": "https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT"
+      },
+      "artists": [
+        {
+          "name": "Isaac Roux",
+          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
+        }
+      ],
+      "duration_ms": 236394,
+      "name": "Brotherhood",
+      "url": "https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Apple Tree",
-        "url": "https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx"
-      },
-      "artists": [
-        {
-          "name": "Niels Geusebroek",
-          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
-        }
-      ],
-      "duration_ms": 178336,
-      "name": "Apple Tree",
-      "url": "https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Roller Coaster",
         "url": "https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 155947,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Apple Tree",
+        "url": "https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx"
+      },
+      "artists": [
+        {
+          "name": "Niels Geusebroek",
+          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
+        }
+      ],
+      "duration_ms": 178336,
+      "name": "Apple Tree",
+      "url": "https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/3rd9u0gRWSDMCkO7UcF0jV"
+        "name": "Always Lost",
+        "url": "https://open.spotify.com/album/2JnYn3rCK1aGomksow3WtA"
       },
       "artists": [
         {
-          "name": "Celine Cairo",
-          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
+          "name": "Emma Hessels",
+          "url": "https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g"
         }
       ],
-      "duration_ms": 248019,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/5q5bSQnrPsdxvmb17kAIxU"
+      "duration_ms": 199000,
+      "name": "Always Lost",
+      "url": "https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Always Lost",
-        "url": "https://open.spotify.com/album/2JnYn3rCK1aGomksow3WtA"
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/3rd9u0gRWSDMCkO7UcF0jV"
       },
       "artists": [
         {
-          "name": "Emma Hessels",
-          "url": "https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g"
+          "name": "Celine Cairo",
+          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Always Lost",
-      "url": "https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf"
+      "duration_ms": 248019,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/5q5bSQnrPsdxvmb17kAIxU"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Dark Harvest, Pt. 1",
-        "url": "https://open.spotify.com/album/49amBSRQBO1RRPfMsDuKwW"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 292148,
-      "name": "Solastalgia",
-      "url": "https://open.spotify.com/track/132Dk6XKefIL9Ngja1xuya"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Distant Rain",
         "url": "https://open.spotify.com/album/4GegVIiIB3iMfigkKB0M1k"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 141720,
       "name": "Distant Rain",
       "url": "https://open.spotify.com/track/5SqalOpRVN36tQSYKmA4n2"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Dark Harvest, Pt. 1",
+        "url": "https://open.spotify.com/album/49amBSRQBO1RRPfMsDuKwW"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 292148,
+      "name": "Solastalgia",
+      "url": "https://open.spotify.com/track/132Dk6XKefIL9Ngja1xuya"
     },
     {
       "added_at": "2026-05-26 22:00:49",

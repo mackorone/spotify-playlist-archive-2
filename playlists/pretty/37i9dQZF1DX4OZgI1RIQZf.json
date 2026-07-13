@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 141077,
+  "num_followers": 141067,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Vampire at the Beach",
-        "url": "https://open.spotify.com/album/2oiYk3sjV14nv6vukULSv5"
-      },
-      "artists": [
-        {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Vampire at the Beach",
-      "url": "https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
         "name": "Antics",
         "url": "https://open.spotify.com/album/5NUna7cH8t5yLMgBxmW4NL"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 215826,
       "name": "Evil",
       "url": "https://open.spotify.com/track/6zPOdhLim2vbcLo0rfjDjq"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
+        "name": "Vampire at the Beach",
+        "url": "https://open.spotify.com/album/2oiYk3sjV14nv6vukULSv5"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Vampire at the Beach",
+      "url": "https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Screen Violence: Director's Cut",
-        "url": "https://open.spotify.com/album/1Ztn9SjQ0R5UqOIQybtS1A"
+        "name": "No Regerts",
+        "url": "https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS"
       },
       "artists": [
         {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+          "name": "Chastity Belt",
+          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
         }
       ],
-      "duration_ms": 269640,
-      "name": "Final Girl",
-      "url": "https://open.spotify.com/track/75JviMkDB9vyGc3q2RtXB0"
+      "duration_ms": 159883,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "No Regerts",
-        "url": "https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS"
+        "name": "Screen Violence: Director's Cut",
+        "url": "https://open.spotify.com/album/1Ztn9SjQ0R5UqOIQybtS1A"
       },
       "artists": [
         {
-          "name": "Chastity Belt",
-          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
         }
       ],
-      "duration_ms": 159883,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi"
+      "duration_ms": 269640,
+      "name": "Final Girl",
+      "url": "https://open.spotify.com/track/75JviMkDB9vyGc3q2RtXB0"
     },
     {
       "added_at": "2026-04-24 13:27:34",

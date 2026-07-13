@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,953 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,931 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 43 | [Chiquita Pero Picosa \- Versión Pop](https://open.spotify.com/track/1Y6p6wf7CSisJGw4ijUNTF) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [A Romper La Piñata](https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf) | 3:28 |
 | 44 | [Fiesta \- En Vivo](https://open.spotify.com/track/7emn83W4E8qn6JSxzaIiuo) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Las Populares](https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX) | [Atrévete A Soñar El Concierto \(En Vivo\)](https://open.spotify.com/album/4d5Xe8H0v3QQuYhjZNEno1) | 3:30 |
 | 45 | [¿Que Se Sentirá Tener Mamá?](https://open.spotify.com/track/4ecnJhOVl6PTm351CJmSrZ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [AmyLla Niña De La Mochila Azul Vol.2](https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW) | 2:57 |
-| 46 | [Esa Es Mi Mamita Linda](https://open.spotify.com/track/11n0fDc4ju3oxVLlYqgTtL) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Después de mucho de no hablar](https://open.spotify.com/album/7uyEeszHdWmBA7G6EhHaGF) | 2:37 |
+| 46 | [Vuelve, Vuelve](https://open.spotify.com/track/7F4lqx96eJZvG7fNzv2pKt) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Energía Chimbita](https://open.spotify.com/album/0xve7Ca19TNkPVwoCXyZQ0) | 2:47 |
 | 47 | [Pablo Y Andrea](https://open.spotify.com/track/7q0iEiiHZgofj5gzkXmHkG) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [A Romper La Piñata](https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf) | 2:45 |
-| 48 | [Vuelve, Vuelve](https://open.spotify.com/track/7F4lqx96eJZvG7fNzv2pKt) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Energía Chimbita](https://open.spotify.com/album/0xve7Ca19TNkPVwoCXyZQ0) | 2:47 |
+| 48 | [Esa Es Mi Mamita Linda](https://open.spotify.com/track/11n0fDc4ju3oxVLlYqgTtL) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Después de mucho de no hablar](https://open.spotify.com/album/7uyEeszHdWmBA7G6EhHaGF) | 2:37 |
 | 49 | [La Fogata](https://open.spotify.com/track/5oFMxXRAwhoqZXAXTOjWwU) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Lilibeth Lilibeth](https://open.spotify.com/artist/07UPbQXEAp4kUeJ27mmfI3), [Luis Fernando Madriz](https://open.spotify.com/artist/6xBIGCZWv0dIYUubdTpVNC) | [AmyLla Niña De La Mochila Azul Vol.2](https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW) | 2:00 |
 | 50 | [Ilarie](https://open.spotify.com/track/1KngeaJmXTycyZbrQLHeVI) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Pop para los peques](https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb) | 3:49 |
 
-Snapshot ID: `alA2AAAAAADI6Y2sMibI9ERPLnBP2mPR`
+Snapshot ID: `alGHgAAAAACBwqNY2yFoFEe2iJCc9UVi`

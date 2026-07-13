@@ -1,6 +1,6 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 177408,
+  "num_followers": 177426,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Un Gato En La Oscuridad",
-        "url": "https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 308133,
-      "name": "Detalles (Detalhes)",
-      "url": "https://open.spotify.com/track/4tAwP9QKeLEQJ2fgd1RWcY"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
         "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 180866,
       "name": "Mi gran noche",
       "url": "https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Un Gato En La Oscuridad",
+        "url": "https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 308133,
+      "name": "Detalles (Detalhes)",
+      "url": "https://open.spotify.com/track/4tAwP9QKeLEQJ2fgd1RWcY"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Serie Doble: Los Brios y Los Angeles De Chile",
-        "url": "https://open.spotify.com/album/1zCU3S1HxqxOwOC5sj8Hj6"
-      },
-      "artists": [
-        {
-          "name": "Los Brios",
-          "url": "https://open.spotify.com/artist/7sTzOfwrd0viYUuUu26a2N"
-        }
-      ],
-      "duration_ms": 207480,
-      "name": "Yo Se Que Te Acordaras",
-      "url": "https://open.spotify.com/track/2X6e9lJJJMccGEAefCj85t"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Peerless 80 Aniversario - 24 Exitos Vol. 2",
         "url": "https://open.spotify.com/album/4r7lKZlexihhW6tGY89UoO"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 190613,
       "name": "Fue en un caf\u00e9 - Under the Boardwalk",
       "url": "https://open.spotify.com/track/6xzsOx1wiwlzFMbBSHPndb"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Serie Doble: Los Brios y Los Angeles De Chile",
+        "url": "https://open.spotify.com/album/1zCU3S1HxqxOwOC5sj8Hj6"
+      },
+      "artists": [
+        {
+          "name": "Los Brios",
+          "url": "https://open.spotify.com/artist/7sTzOfwrd0viYUuUu26a2N"
+        }
+      ],
+      "duration_ms": 207480,
+      "name": "Yo Se Que Te Acordaras",
+      "url": "https://open.spotify.com/track/2X6e9lJJJMccGEAefCj85t"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "No soy de aqu\u00ed",
-        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
-      },
-      "artists": [
-        {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "No soy de aqu\u00ed",
-      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Cara de Gitana",
         "url": "https://open.spotify.com/album/6pqKRx4O9p4Y4pAZMSF5qc"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 183320,
       "name": "Cara de Gitana",
       "url": "https://open.spotify.com/track/6ZcL1hCAnEgz3MxP3xdFYe"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "No soy de aqu\u00ed",
+        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
+      },
+      "artists": [
+        {
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "No soy de aqu\u00ed",
+      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
+        "name": "Los Tres Caballeros",
+        "url": "https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Caballeros",
+          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
+        }
+      ],
+      "duration_ms": 197149,
+      "name": "La Barca",
+      "url": "https://open.spotify.com/track/1GHTx9EyR44pgtGLotj2nH"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
         "name": "Serie De Coleccion 15 Autenticos Exitos - Enrique Guzman",
         "url": "https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 274533,
       "name": "Donde Est\u00e9s, Con Quien Est\u00e9s",
       "url": "https://open.spotify.com/track/6kAM3ltjQyditY5GhZytJP"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "Los Tres Caballeros",
-        "url": "https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Caballeros",
-          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
-        }
-      ],
-      "duration_ms": 197149,
-      "name": "La Barca",
-      "url": "https://open.spotify.com/track/1GHTx9EyR44pgtGLotj2nH"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Las Estrellas Del Fonografo RCA Victor",
-        "url": "https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Ases",
-          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Estoy Perdido",
-      "url": "https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "El Ultimo Beso",
         "url": "https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 175266,
       "name": "Te regalo mis ojos",
       "url": "https://open.spotify.com/track/1ytZAKRIBtkSIre6FbBGnu"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Las Estrellas Del Fonografo RCA Victor",
+        "url": "https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Estoy Perdido",
+      "url": "https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Recuerdos Y Algo M\u00e1s (De Colecci\u00f3n)",
-        "url": "https://open.spotify.com/album/3FE9HECgHCfBxIvKb77GCz"
-      },
-      "artists": [
-        {
-          "name": "Los Brios",
-          "url": "https://open.spotify.com/artist/7sTzOfwrd0viYUuUu26a2N"
-        }
-      ],
-      "duration_ms": 221840,
-      "name": "Silueta De Cristal",
-      "url": "https://open.spotify.com/track/6Aimve3yqbs53npo902VvE"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Lo Mejor de Leo Dan Ahora con Mariachi",
         "url": "https://open.spotify.com/album/4fDFnEA8wMJ4gekOh3HC1b"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 192546,
       "name": "Mary Es Mi Amor",
       "url": "https://open.spotify.com/track/4nSFJLuvWnrsUd12ylpj2m"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Recuerdos Y Algo M\u00e1s (De Colecci\u00f3n)",
+        "url": "https://open.spotify.com/album/3FE9HECgHCfBxIvKb77GCz"
+      },
+      "artists": [
+        {
+          "name": "Los Brios",
+          "url": "https://open.spotify.com/artist/7sTzOfwrd0viYUuUu26a2N"
+        }
+      ],
+      "duration_ms": 221840,
+      "name": "Silueta De Cristal",
+      "url": "https://open.spotify.com/track/6Aimve3yqbs53npo902VvE"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Una Vida De Cine",
-        "url": "https://open.spotify.com/album/6FkZm0HYNuPm4eEhLKVZ6r"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 135520,
-      "name": "Amor En El Aire",
-      "url": "https://open.spotify.com/track/4SpymdQGOUzDEsOGSlwDR0"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Coleccion Original",
         "url": "https://open.spotify.com/album/28wthJnyrnWWG8UkwJ2LiK"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 186346,
       "name": "Flor de Azalea",
       "url": "https://open.spotify.com/track/7EccAiD4tFrEx5gEmKGS55"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Una Vida De Cine",
+        "url": "https://open.spotify.com/album/6FkZm0HYNuPm4eEhLKVZ6r"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 135520,
+      "name": "Amor En El Aire",
+      "url": "https://open.spotify.com/track/4SpymdQGOUzDEsOGSlwDR0"
     },
     {
       "added_at": "2024-07-11 01:42:53",

@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Grupo Primer Grado en portada.",
-  "num_followers": 530858,
+  "num_followers": 530866,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
+        "name": "VACAS FLACAS",
+        "url": "https://open.spotify.com/album/112Y8wuHDub7svC4bdwkrQ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 216288,
+      "name": "VACAS FLACAS",
+      "url": "https://open.spotify.com/track/4KdSWdSz7Un3JIEWkOXPQ2"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
         "name": "Todo a Su Tiempo",
         "url": "https://open.spotify.com/album/7fa8NmCDRgIP5BRkdYWG5i"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 140945,
       "name": "EN HOT",
       "url": "https://open.spotify.com/track/7MfrxxkPMYfVnvFpNYIkqh"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
-        "name": "VACAS FLACAS",
-        "url": "https://open.spotify.com/album/112Y8wuHDub7svC4bdwkrQ"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 216288,
-      "name": "VACAS FLACAS",
-      "url": "https://open.spotify.com/track/4KdSWdSz7Un3JIEWkOXPQ2"
     },
     {
       "added_at": "2026-07-10 04:02:27",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
+        "name": "A Tiempo",
+        "url": "https://open.spotify.com/album/53gH6vH1Cth1DHjhN9uiDA"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 202860,
+      "name": "Explicaci\u00f3n real",
+      "url": "https://open.spotify.com/track/25ii85fRBVhn1fQd3PJD2x"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
         "name": "Cheyenne",
         "url": "https://open.spotify.com/album/25A9GkAVwo5T9aT6oY5f4E"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 149457,
       "name": "Cheyenne",
       "url": "https://open.spotify.com/track/2p1dEFTP7tnan18oxyXOI7"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
-        "name": "A Tiempo",
-        "url": "https://open.spotify.com/album/53gH6vH1Cth1DHjhN9uiDA"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 202860,
-      "name": "Explicaci\u00f3n real",
-      "url": "https://open.spotify.com/track/25ii85fRBVhn1fQd3PJD2x"
     },
     {
       "added_at": "2026-07-10 04:02:27",
@@ -587,6 +587,26 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
+        "name": "TMS",
+        "url": "https://open.spotify.com/album/6oqZJRc2yor8igHIayg5sq"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Villegas",
+          "url": "https://open.spotify.com/artist/6q8Pg7R3cevAcZjiVsawPn"
+        }
+      ],
+      "duration_ms": 161824,
+      "name": "TMS",
+      "url": "https://open.spotify.com/track/5VzwO9WrXtlcOgdMxCsT44"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
         "name": "El Scrappy",
         "url": "https://open.spotify.com/album/2G32KZDrfUv4cpf4BJD959"
       },
@@ -611,74 +631,6 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
-        "name": "TMS",
-        "url": "https://open.spotify.com/album/6oqZJRc2yor8igHIayg5sq"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Villegas",
-          "url": "https://open.spotify.com/artist/6q8Pg7R3cevAcZjiVsawPn"
-        }
-      ],
-      "duration_ms": 161824,
-      "name": "TMS",
-      "url": "https://open.spotify.com/track/5VzwO9WrXtlcOgdMxCsT44"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
-        "name": "A Ver Como Le Hago",
-        "url": "https://open.spotify.com/album/5Ekh1tHT0fNxAgtxy5raMa"
-      },
-      "artists": [
-        {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
-        }
-      ],
-      "duration_ms": 161875,
-      "name": "A Ver Como Le Hago",
-      "url": "https://open.spotify.com/track/2F0lok1o6mQ539XqGlqrmC"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
-        "name": "Canelovers 2.0",
-        "url": "https://open.spotify.com/album/7ysPBuRHs6mYXZY894J5nv"
-      },
-      "artists": [
-        {
-          "name": "Canelos Jrs",
-          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
-        }
-      ],
-      "duration_ms": 138166,
-      "name": "Como Te Va Mi Amor",
-      "url": "https://open.spotify.com/track/2JkGiQjBDAocjhJdlzqKUc"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
-        "name": "Covers De Mi Gusto, Vol. 3 (En Vivo)",
-        "url": "https://open.spotify.com/album/6Eb7L6i4a2S0YsALJiY3Be"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 173621,
-      "name": "Eres - En Vivo",
-      "url": "https://open.spotify.com/track/4TYp9OgXHDdF75R8Ratby1"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
         "name": "Cuando Casi Te Olvidaba",
         "url": "https://open.spotify.com/album/4PGMyJQt1WogvqSqFC7MkU"
       },
@@ -699,6 +651,54 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
+        "name": "A Ver Como Le Hago",
+        "url": "https://open.spotify.com/album/5Ekh1tHT0fNxAgtxy5raMa"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "duration_ms": 161875,
+      "name": "A Ver Como Le Hago",
+      "url": "https://open.spotify.com/track/2F0lok1o6mQ539XqGlqrmC"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
+        "name": "Covers De Mi Gusto, Vol. 3 (En Vivo)",
+        "url": "https://open.spotify.com/album/6Eb7L6i4a2S0YsALJiY3Be"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 173621,
+      "name": "Eres - En Vivo",
+      "url": "https://open.spotify.com/track/4TYp9OgXHDdF75R8Ratby1"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
+        "name": "Canelovers 2.0",
+        "url": "https://open.spotify.com/album/7ysPBuRHs6mYXZY894J5nv"
+      },
+      "artists": [
+        {
+          "name": "Canelos Jrs",
+          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
+        }
+      ],
+      "duration_ms": 138166,
+      "name": "Como Te Va Mi Amor",
+      "url": "https://open.spotify.com/track/2JkGiQjBDAocjhJdlzqKUc"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
         "name": "Pero Me Da\u00f1aste",
         "url": "https://open.spotify.com/album/6QBAPBBqfkK02HsaQEhskQ"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
-        "name": "Bajo El Agua",
-        "url": "https://open.spotify.com/album/04n7T8SpSQ39iTL684QDFI"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 183051,
-      "name": "Bajo El Agua",
-      "url": "https://open.spotify.com/track/45yLFtWtPQitwIQj7OYhpb"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
         "name": "Las Filtradas",
         "url": "https://open.spotify.com/album/5ranG1MkGTB5mHdFLXBIez"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 147799,
       "name": "El Rubio",
       "url": "https://open.spotify.com/track/3BlTS0Qs6N2jfyAGFBdWai"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
+        "name": "Bajo El Agua",
+        "url": "https://open.spotify.com/album/04n7T8SpSQ39iTL684QDFI"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 183051,
+      "name": "Bajo El Agua",
+      "url": "https://open.spotify.com/track/45yLFtWtPQitwIQj7OYhpb"
     },
     {
       "added_at": "2026-07-10 04:02:27",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
-        "name": "Nomas Pa Que Sepan",
-        "url": "https://open.spotify.com/album/5d4Z3mg8EZCx5jwOSQJWpY"
-      },
-      "artists": [
-        {
-          "name": "Plan de Escape",
-          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
-        },
-        {
-          "name": "Grupo Selectivo",
-          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
-        }
-      ],
-      "duration_ms": 169830,
-      "name": "Nomas Pa Que Sepan",
-      "url": "https://open.spotify.com/track/3Ge1XTAn1P33DaAaw4sjGu"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
         "name": "Amor x Dosis",
         "url": "https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 198598,
       "name": "A Dios Le Ped\u00eda",
       "url": "https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
+        "name": "Nomas Pa Que Sepan",
+        "url": "https://open.spotify.com/album/5d4Z3mg8EZCx5jwOSQJWpY"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        },
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        }
+      ],
+      "duration_ms": 169830,
+      "name": "Nomas Pa Que Sepan",
+      "url": "https://open.spotify.com/track/3Ge1XTAn1P33DaAaw4sjGu"
     },
     {
       "added_at": "2026-07-10 04:02:27",
@@ -927,6 +927,26 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
+        "name": "Se Rindi\u00f3 El Amor",
+        "url": "https://open.spotify.com/album/4SGyPxe8BQMyVVnaysr39p"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Amanecer",
+          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
+        },
+        {
+          "name": "Conjunto Rio Grande",
+          "url": "https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG"
+        }
+      ],
+      "duration_ms": 153885,
+      "name": "Se Rindi\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/4ZJs70EwkQqgEHUFq4vjtM"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
         "name": "HOME RUN",
         "url": "https://open.spotify.com/album/2Jd7QeAp7XUPr2dgJqplpV"
       },
@@ -963,30 +983,6 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
-        "name": "Andamos Ready",
-        "url": "https://open.spotify.com/album/5eZtNyhRU4LWBV6RZoMeIt"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        },
-        {
-          "name": "Izaak G",
-          "url": "https://open.spotify.com/artist/34bxjoSYslVQ2qQvgd1ibJ"
-        }
-      ],
-      "duration_ms": 190612,
-      "name": "Andamos Ready",
-      "url": "https://open.spotify.com/track/1OG7aTOFOhGRlHD3BA7Y6M"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
         "name": "Vida y Libertad",
         "url": "https://open.spotify.com/album/02Dlbr18vUlPLRJdTKzADJ"
       },
@@ -1007,22 +1003,26 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
-        "name": "Se Rindi\u00f3 El Amor",
-        "url": "https://open.spotify.com/album/4SGyPxe8BQMyVVnaysr39p"
+        "name": "Andamos Ready",
+        "url": "https://open.spotify.com/album/5eZtNyhRU4LWBV6RZoMeIt"
       },
       "artists": [
         {
-          "name": "Conjunto Amanecer",
-          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         },
         {
-          "name": "Conjunto Rio Grande",
-          "url": "https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG"
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        },
+        {
+          "name": "Izaak G",
+          "url": "https://open.spotify.com/artist/34bxjoSYslVQ2qQvgd1ibJ"
         }
       ],
-      "duration_ms": 153885,
-      "name": "Se Rindi\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/4ZJs70EwkQqgEHUFq4vjtM"
+      "duration_ms": 190612,
+      "name": "Andamos Ready",
+      "url": "https://open.spotify.com/track/1OG7aTOFOhGRlHD3BA7Y6M"
     },
     {
       "added_at": "2026-07-10 04:02:27",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
-        "name": "Obvio No",
-        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 196166,
-      "name": "Obvio No",
-      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
         "name": "Directo Al Coraz\u00f3n",
         "url": "https://open.spotify.com/album/29xqfiJEpdsEbsuuyH1Tde"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 166338,
       "name": "Directo Al Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4K0te6vi1ugbtcURotuLeU"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
+        "name": "Obvio No",
+        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        }
+      ],
+      "duration_ms": 196166,
+      "name": "Obvio No",
+      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
     },
     {
       "added_at": "2026-07-10 04:02:27",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
-        "name": "Desde El Charco (En Vivo)",
-        "url": "https://open.spotify.com/album/35yF2G3lDUoDpBoYaA8Upe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Aktitud",
-          "url": "https://open.spotify.com/artist/66mY8ZqJGTJfcdqC6jeOEX"
-        }
-      ],
-      "duration_ms": 227314,
-      "name": "Como Poder Olvidarte - En Vivo",
-      "url": "https://open.spotify.com/track/5Z0evnieeQdtG9SnIKw8Xn"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
         "name": "Las Prestadas",
         "url": "https://open.spotify.com/album/55a9d4kowVoIQSKtGNqMXA"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 226346,
       "name": "Te Amar\u00e9 M\u00e1s",
       "url": "https://open.spotify.com/track/3u1UKlvuMdCr5TexrT6RTH"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
+        "name": "Desde El Charco (En Vivo)",
+        "url": "https://open.spotify.com/album/35yF2G3lDUoDpBoYaA8Upe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aktitud",
+          "url": "https://open.spotify.com/artist/66mY8ZqJGTJfcdqC6jeOEX"
+        }
+      ],
+      "duration_ms": 227314,
+      "name": "Como Poder Olvidarte - En Vivo",
+      "url": "https://open.spotify.com/track/5Z0evnieeQdtG9SnIKw8Xn"
     },
     {
       "added_at": "2026-07-10 04:02:27",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
-        "name": "Flor De Capomo",
-        "url": "https://open.spotify.com/album/10M4VCHai7mAOcjUtgypBM"
-      },
-      "artists": [
-        {
-          "name": "Los Rabiosos del norte",
-          "url": "https://open.spotify.com/artist/6IKMTKOYzisBPjgTtKPw4k"
-        }
-      ],
-      "duration_ms": 179433,
-      "name": "Flor De Capomo",
-      "url": "https://open.spotify.com/track/2Lg3Mytou7RnwZbYrFXlAz"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
         "name": "La Troca Del Mo\u00f1o Negro",
         "url": "https://open.spotify.com/album/713u3gA9Tbki9Ym7ma50JT"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 180617,
       "name": "La Troca Del Mo\u00f1o Negro",
       "url": "https://open.spotify.com/track/2SoDzw6EJ1rA8WZwe6zwwH"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
+        "name": "Flor De Capomo",
+        "url": "https://open.spotify.com/album/10M4VCHai7mAOcjUtgypBM"
+      },
+      "artists": [
+        {
+          "name": "Los Rabiosos del norte",
+          "url": "https://open.spotify.com/artist/6IKMTKOYzisBPjgTtKPw4k"
+        }
+      ],
+      "duration_ms": 179433,
+      "name": "Flor De Capomo",
+      "url": "https://open.spotify.com/track/2Lg3Mytou7RnwZbYrFXlAz"
     },
     {
       "added_at": "2026-07-10 04:02:27",

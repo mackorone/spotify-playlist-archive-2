@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Joe James
 
-2,351 songs - 4 day 19 hr 53 min
+2,352 songs - 4 day 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1518,6 +1518,7 @@
 | [Old Friends](https://open.spotify.com/track/7nXLZ598IP6i7YN0YjMBsW) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Old Friends](https://open.spotify.com/album/2CPqxoxAKNPFkfVQd6Uz46) | 3:38 | 2021-03-26 | 2021-06-05 |
 | [Old School Era](https://open.spotify.com/track/7izCltWKxb23ujmjnH4eBB) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Old School Era](https://open.spotify.com/album/47NnC3P5UnJ9TFNs2iwArH) | 2:15 | 2024-04-19 | 2024-06-01 |
 | [Oliver Twist](https://open.spotify.com/track/6mSzsSdu0CWIV70jEjWMhI) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Oliver Twist](https://open.spotify.com/album/6d8MlD2NJyzLtnRSprliO5) | 2:54 | 2021-06-05 | 2021-10-22 |
+| [Olé](https://open.spotify.com/track/2YCjQTGpQvYDLDWfw45mtD) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Olé](https://open.spotify.com/album/22jU9KLuhNeFILX99WNwrw) | 3:27 | 2026-07-09 |  |
 | [Omens](https://open.spotify.com/track/28NKduvWszfoQSU3k5p7vg) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Omens](https://open.spotify.com/album/3AC7a4tzY2m86AIDyGFkFP) | 2:00 | 2026-02-06 |  |
 | [On Deck](https://open.spotify.com/track/34YkG2pMNOldalZtevHztN) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [On Deck](https://open.spotify.com/album/1nr8LxzUvc6iQsG2bFK8Rd) | 2:59 | 2020-07-18 | 2020-10-24 |
 | [On Deck \(Remix\) \[feat\. Rv, Kush, Double Lz, Bandokay, Lowkey OFB & Dezzie\]](https://open.spotify.com/track/1NOyhp2FTTRQ3kEyaPANRO) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Dezzie](https://open.spotify.com/artist/24Ws1EeobHSyqDxQKfie7Q), [Kush](https://open.spotify.com/artist/0P1CKlruhcbhbq7yA5oh83), [Lowkey OFB](https://open.spotify.com/artist/3JShg3WRiDTNoQe9Soeay9), [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o) | [On Deck \(Remix\) \[feat\. Rv, Kush, Double Lz, Bandokay, Lowkey OFB & Dezzie\]](https://open.spotify.com/album/5KqCe87k0Ts599esQfDbE7) | 4:29 | 2020-08-21 | 2020-11-06 |

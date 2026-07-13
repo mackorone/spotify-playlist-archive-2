@@ -3623,6 +3623,24 @@
     },
     {
       "album": {
+        "name": "Running to Nowhere",
+        "url": "https://open.spotify.com/album/6aDyXg2wXvrcTejfAQ6tP3"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119280,
+      "name": "Black Paint",
+      "url": "https://open.spotify.com/track/3atKtIReYaoILCR6uSLyl7"
+    },
+    {
+      "album": {
         "name": "Black Punk",
         "url": "https://open.spotify.com/album/2Uu7ur5jyDonV9tHvy4ILX"
       },

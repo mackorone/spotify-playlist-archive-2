@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 29114,
+  "num_followers": 29140,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -163,18 +163,18 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Cold Thoughts",
-        "url": "https://open.spotify.com/album/3ZBkNWJe9esw2UmDK3klR3"
+        "name": "Necessary Changes",
+        "url": "https://open.spotify.com/album/2zEF0X8nekddJLdChd8lkh"
       },
       "artists": [
         {
-          "name": "Nothingtosay",
-          "url": "https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA"
+          "name": "eugenio izzi",
+          "url": "https://open.spotify.com/artist/0vpi2tMaHCn6YHS6L7qgoe"
         }
       ],
-      "duration_ms": 146675,
-      "name": "The Dawn",
-      "url": "https://open.spotify.com/track/0aZ00bASQBIz6MmnH9rjdt"
+      "duration_ms": 158630,
+      "name": "Never be prey to the winds",
+      "url": "https://open.spotify.com/track/4MAVbFiNnuVFlj1YNOL15k"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -195,18 +195,18 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Necessary Changes",
-        "url": "https://open.spotify.com/album/2zEF0X8nekddJLdChd8lkh"
+        "name": "Cold Thoughts",
+        "url": "https://open.spotify.com/album/3ZBkNWJe9esw2UmDK3klR3"
       },
       "artists": [
         {
-          "name": "eugenio izzi",
-          "url": "https://open.spotify.com/artist/0vpi2tMaHCn6YHS6L7qgoe"
+          "name": "Nothingtosay",
+          "url": "https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA"
         }
       ],
-      "duration_ms": 158630,
-      "name": "Never be prey to the winds",
-      "url": "https://open.spotify.com/track/4MAVbFiNnuVFlj1YNOL15k"
+      "duration_ms": 146675,
+      "name": "The Dawn",
+      "url": "https://open.spotify.com/track/0aZ00bASQBIz6MmnH9rjdt"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Moonlit Tales",
-        "url": "https://open.spotify.com/album/6Meo6NJgk9I5t4SwKJ0r0h"
-      },
-      "artists": [
-        {
-          "name": "Kalaido",
-          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
-        }
-      ],
-      "duration_ms": 198254,
-      "name": "In the Roses",
-      "url": "https://open.spotify.com/track/45xP2REQXM1uz8HhuPxJmO"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Koto Memories",
         "url": "https://open.spotify.com/album/4j8gPwwY6gBdMgky70xHTU"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 139107,
       "name": "Koto Memories",
       "url": "https://open.spotify.com/track/7D4x4iimJWUwWplPdrQndB"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Moonlit Tales",
+        "url": "https://open.spotify.com/album/6Meo6NJgk9I5t4SwKJ0r0h"
+      },
+      "artists": [
+        {
+          "name": "Kalaido",
+          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
+        }
+      ],
+      "duration_ms": 198254,
+      "name": "In the Roses",
+      "url": "https://open.spotify.com/track/45xP2REQXM1uz8HhuPxJmO"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Sunday Vibes",
-        "url": "https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf"
-      },
-      "artists": [
-        {
-          "name": "W\u00fcnsche",
-          "url": "https://open.spotify.com/artist/6la2xjnhxnRYP3iZ3suP9H"
-        }
-      ],
-      "duration_ms": 133668,
-      "name": "Birds",
-      "url": "https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Flying Petals",
         "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
       },
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
+        "name": "Sunday Vibes",
+        "url": "https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf"
+      },
+      "artists": [
+        {
+          "name": "W\u00fcnsche",
+          "url": "https://open.spotify.com/artist/6la2xjnhxnRYP3iZ3suP9H"
+        }
+      ],
+      "duration_ms": 133668,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
         "name": "Mt Fuji",
         "url": "https://open.spotify.com/album/6lNtz6uNR6f2szHla7qJiA"
       },
@@ -1339,6 +1339,22 @@
       "duration_ms": 116841,
       "name": "Mt Fuji",
       "url": "https://open.spotify.com/track/3lAqbZuoUooBSSbsSJvyOb"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Dozing",
+        "url": "https://open.spotify.com/album/06xj5eksSF8gpAggo7Upfg"
+      },
+      "artists": [
+        {
+          "name": "Chris Mazuera",
+          "url": "https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE"
+        }
+      ],
+      "duration_ms": 146090,
+      "name": "Dozing",
+      "url": "https://open.spotify.com/track/0uonkgrfmCAsKYSKiwXMZX"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Dozing",
-        "url": "https://open.spotify.com/album/06xj5eksSF8gpAggo7Upfg"
-      },
-      "artists": [
-        {
-          "name": "Chris Mazuera",
-          "url": "https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE"
-        }
-      ],
-      "duration_ms": 146090,
-      "name": "Dozing",
-      "url": "https://open.spotify.com/track/0uonkgrfmCAsKYSKiwXMZX"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Tokyo Skyline",
         "url": "https://open.spotify.com/album/27XjDTqr7TNHKFazcl1WKO"
       },
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
-      },
-      "artists": [
-        {
-          "name": "aekasora",
-          "url": "https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa"
-        }
-      ],
-      "duration_ms": 221832,
-      "name": "rainy day",
-      "url": "https://open.spotify.com/track/4qYZhVhOrj1SeuHbVAZJqj"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Hanagasumi",
         "url": "https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 160000,
       "name": "Arisa",
       "url": "https://open.spotify.com/track/3yGVIzliF0fcy6pcjO02hS"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
+      },
+      "artists": [
+        {
+          "name": "aekasora",
+          "url": "https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa"
+        }
+      ],
+      "duration_ms": 221832,
+      "name": "rainy day",
+      "url": "https://open.spotify.com/track/4qYZhVhOrj1SeuHbVAZJqj"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Torimichi",
-        "url": "https://open.spotify.com/album/5quOu1BA0FTj6KgtcoYltV"
-      },
-      "artists": [
-        {
-          "name": "Coddneck",
-          "url": "https://open.spotify.com/artist/0xqoVrZyl43jmN4B0dwKaw"
-        }
-      ],
-      "duration_ms": 281739,
-      "name": "Torimichi",
-      "url": "https://open.spotify.com/track/1kD08WYSwIYlA586nKbPgs"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Flying Petals",
         "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Autumn in Osaka",
-        "url": "https://open.spotify.com/album/3HaMbxX4Ywec6NLXexpMuw"
+        "name": "Torimichi",
+        "url": "https://open.spotify.com/album/5quOu1BA0FTj6KgtcoYltV"
       },
       "artists": [
         {
-          "name": "Vens Adams",
-          "url": "https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ"
+          "name": "Coddneck",
+          "url": "https://open.spotify.com/artist/0xqoVrZyl43jmN4B0dwKaw"
         }
       ],
-      "duration_ms": 160800,
-      "name": "Autumn in Osaka",
-      "url": "https://open.spotify.com/track/1XsgXYvkeYaKquLQY9m8dO"
+      "duration_ms": 281739,
+      "name": "Torimichi",
+      "url": "https://open.spotify.com/track/1kD08WYSwIYlA586nKbPgs"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
+        "name": "Autumn in Osaka",
+        "url": "https://open.spotify.com/album/3HaMbxX4Ywec6NLXexpMuw"
+      },
+      "artists": [
+        {
+          "name": "Vens Adams",
+          "url": "https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Autumn in Osaka",
+      "url": "https://open.spotify.com/track/1XsgXYvkeYaKquLQY9m8dO"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
         "name": "Lost in Japan II",
         "url": "https://open.spotify.com/album/4ouEJG6RaGAKTB6CwhnBtT"
       },
@@ -1543,26 +1543,6 @@
       "duration_ms": 211304,
       "name": "Song of the Samurai",
       "url": "https://open.spotify.com/track/5nG6besfk5Aoa24OBSdREv"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
-        "name": "Shinra",
-        "url": "https://open.spotify.com/album/4nf6qaran8NGdZn7AuSWyR"
-      },
-      "artists": [
-        {
-          "name": "oxinym",
-          "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
-        },
-        {
-          "name": "Picture Talk",
-          "url": "https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Shinra",
-      "url": "https://open.spotify.com/track/1gz1uyqrIvrUXLIE8CG4jY"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1583,6 +1563,26 @@
       "duration_ms": 163092,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/58heKhVoYe0mXW4PB3CfLF"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Shinra",
+        "url": "https://open.spotify.com/album/4nf6qaran8NGdZn7AuSWyR"
+      },
+      "artists": [
+        {
+          "name": "oxinym",
+          "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
+        },
+        {
+          "name": "Picture Talk",
+          "url": "https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Shinra",
+      "url": "https://open.spotify.com/track/1gz1uyqrIvrUXLIE8CG4jY"
     },
     {
       "added_at": "2026-06-29 08:21:08",

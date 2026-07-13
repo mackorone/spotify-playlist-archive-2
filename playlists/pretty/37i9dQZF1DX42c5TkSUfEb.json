@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 895945,
+  "num_followers": 895908,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-07-10 15:29:29",
       "album": {
-        "name": "WALLS",
-        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 329649,
-      "name": "WALLS",
-      "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
-    },
-    {
-      "added_at": "2026-07-10 15:29:29",
-      "album": {
         "name": "Bathing Beach",
         "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 273106,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
+    },
+    {
+      "added_at": "2026-07-10 15:29:29",
+      "album": {
+        "name": "WALLS",
+        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 329649,
+      "name": "WALLS",
+      "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
     },
     {
       "added_at": "2026-07-10 15:29:29",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-07-10 15:29:29",
       "album": {
-        "name": "Take Care Of You",
-        "url": "https://open.spotify.com/album/6nofnKggUnLzUKT5pTRv9s"
-      },
-      "artists": [
-        {
-          "name": "Alina Baraz",
-          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
-        }
-      ],
-      "duration_ms": 231236,
-      "name": "Take Care Of You",
-      "url": "https://open.spotify.com/track/3D8lrJ07m1xymKXya8jI05"
-    },
-    {
-      "added_at": "2026-07-10 15:29:29",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 204467,
       "name": "Karaoke Bar",
       "url": "https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN"
+    },
+    {
+      "added_at": "2026-07-10 15:29:29",
+      "album": {
+        "name": "Take Care Of You",
+        "url": "https://open.spotify.com/album/6nofnKggUnLzUKT5pTRv9s"
+      },
+      "artists": [
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "duration_ms": 231236,
+      "name": "Take Care Of You",
+      "url": "https://open.spotify.com/track/3D8lrJ07m1xymKXya8jI05"
     },
     {
       "added_at": "2026-07-10 15:29:29",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-07-10 15:29:29",
       "album": {
-        "name": "I Had a Dream She Took My Hand",
-        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 220291,
-      "name": "I Had a Dream She Took My Hand",
-      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
-    },
-    {
-      "added_at": "2026-07-10 15:29:29",
-      "album": {
         "name": "Sahar",
         "url": "https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 263653,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/6g7cJdDNjCDgqcpVGLzYhh"
+    },
+    {
+      "added_at": "2026-07-10 15:29:29",
+      "album": {
+        "name": "I Had a Dream She Took My Hand",
+        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 220291,
+      "name": "I Had a Dream She Took My Hand",
+      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
     },
     {
       "added_at": "2026-07-10 15:29:29",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-07-10 15:29:29",
       "album": {
-        "name": "With You Around",
-        "url": "https://open.spotify.com/album/7fhO709Na7oHVFGtcXEuY6"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 233218,
-      "name": "With You Around",
-      "url": "https://open.spotify.com/track/3KCCWIuxFn3ghegQfX2YaL"
-    },
-    {
-      "added_at": "2026-07-10 15:29:29",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 234240,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
+    },
+    {
+      "added_at": "2026-07-10 15:29:29",
+      "album": {
+        "name": "With You Around",
+        "url": "https://open.spotify.com/album/7fhO709Na7oHVFGtcXEuY6"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 233218,
+      "name": "With You Around",
+      "url": "https://open.spotify.com/track/3KCCWIuxFn3ghegQfX2YaL"
     },
     {
       "added_at": "2026-07-10 15:29:29",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-07-10 15:29:29",
       "album": {
-        "name": "rose ave.",
-        "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
-      },
-      "artists": [
-        {
-          "name": "You+Me",
-          "url": "https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm"
-        }
-      ],
-      "duration_ms": 192597,
-      "name": "You and Me",
-      "url": "https://open.spotify.com/track/3DKYv4paFYB1p4H6qKaiKi"
-    },
-    {
-      "added_at": "2026-07-10 15:29:29",
-      "album": {
         "name": "Earthstar Mountain",
         "url": "https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 239895,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6"
+    },
+    {
+      "added_at": "2026-07-10 15:29:29",
+      "album": {
+        "name": "rose ave.",
+        "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
+      },
+      "artists": [
+        {
+          "name": "You+Me",
+          "url": "https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm"
+        }
+      ],
+      "duration_ms": 192597,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/3DKYv4paFYB1p4H6qKaiKi"
     },
     {
       "added_at": "2026-07-10 15:29:29",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-07-10 15:29:29",
       "album": {
-        "name": "only human",
-        "url": "https://open.spotify.com/album/5qCvxLDPjQ7IPZz9IIhZgm"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 214032,
-      "name": "only human",
-      "url": "https://open.spotify.com/track/4EPemjVgAz4YbDgaRYUdta"
-    },
-    {
-      "added_at": "2026-07-10 15:29:29",
-      "album": {
         "name": "Joli monde",
         "url": "https://open.spotify.com/album/0ue1oWkvCPf8gAGnJ6m9t6"
       },
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2026-07-10 15:29:29",
       "album": {
-        "name": "Singing",
-        "url": "https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf"
+        "name": "only human",
+        "url": "https://open.spotify.com/album/5qCvxLDPjQ7IPZz9IIhZgm"
       },
       "artists": [
         {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
         }
       ],
-      "duration_ms": 217264,
-      "name": "Moon Not Mine",
-      "url": "https://open.spotify.com/track/1r8plFPk6rUylJmclniQAM"
+      "duration_ms": 214032,
+      "name": "only human",
+      "url": "https://open.spotify.com/track/4EPemjVgAz4YbDgaRYUdta"
     },
     {
       "added_at": "2026-07-10 15:29:29",
@@ -1415,6 +1399,22 @@
       "duration_ms": 205808,
       "name": "\u00e0 deux",
       "url": "https://open.spotify.com/track/4o9qAFSKQCZHM6tYoKrxGq"
+    },
+    {
+      "added_at": "2026-07-10 15:29:29",
+      "album": {
+        "name": "Singing",
+        "url": "https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 217264,
+      "name": "Moon Not Mine",
+      "url": "https://open.spotify.com/track/1r8plFPk6rUylJmclniQAM"
     },
     {
       "added_at": "2026-07-10 15:29:29",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-07-10 15:29:29",
       "album": {
-        "name": "Elle laisse (Radio Edit)",
-        "url": "https://open.spotify.com/album/2iFptJp3EGJagpx0KdWlcr"
-      },
-      "artists": [
-        {
-          "name": "Coline Rio",
-          "url": "https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA"
-        }
-      ],
-      "duration_ms": 208493,
-      "name": "Elle laisse - Radio Edit",
-      "url": "https://open.spotify.com/track/01gFlEXnkRNkgtN7jPjByI"
-    },
-    {
-      "added_at": "2026-07-10 15:29:29",
-      "album": {
         "name": "Les bruits de la ville",
         "url": "https://open.spotify.com/album/5ycDoKjwKilmVDuCb3ezEI"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2026-07-10 15:29:29",
       "album": {
-        "name": "Qu'en restera-t-il ?",
-        "url": "https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55"
+        "name": "Elle laisse (Radio Edit)",
+        "url": "https://open.spotify.com/album/2iFptJp3EGJagpx0KdWlcr"
       },
       "artists": [
         {
-          "name": "Tim Dup",
-          "url": "https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE"
+          "name": "Coline Rio",
+          "url": "https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA"
         }
       ],
-      "duration_ms": 253584,
-      "name": "Une autre histoire d'amour",
-      "url": "https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ"
+      "duration_ms": 208493,
+      "name": "Elle laisse - Radio Edit",
+      "url": "https://open.spotify.com/track/01gFlEXnkRNkgtN7jPjByI"
     },
     {
       "added_at": "2026-07-10 15:29:29",
@@ -1511,6 +1495,22 @@
       "duration_ms": 150896,
       "name": "Rupture - Version acoustique",
       "url": "https://open.spotify.com/track/2leECNnP3di7pzp8BIzdIh"
+    },
+    {
+      "added_at": "2026-07-10 15:29:29",
+      "album": {
+        "name": "Qu'en restera-t-il ?",
+        "url": "https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55"
+      },
+      "artists": [
+        {
+          "name": "Tim Dup",
+          "url": "https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE"
+        }
+      ],
+      "duration_ms": 253584,
+      "name": "Une autre histoire d'amour",
+      "url": "https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ"
     },
     {
       "added_at": "2026-07-10 15:29:29",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-07-10 15:29:29",
       "album": {
+        "name": "Never Give Up (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5C7vifEyUfX7zUYtu1Qhng"
+      },
+      "artists": [
+        {
+          "name": "Puggy",
+          "url": "https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6"
+        }
+      ],
+      "duration_ms": 187863,
+      "name": "Never Give Up (Acoustic Version)",
+      "url": "https://open.spotify.com/track/5KVhdxJkh4hABMvaJHLz5y"
+    },
+    {
+      "added_at": "2026-07-10 15:29:29",
+      "album": {
         "name": "Paris-Madrid",
         "url": "https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 199833,
       "name": "Paris-Madrid",
       "url": "https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR"
-    },
-    {
-      "added_at": "2026-07-10 15:29:29",
-      "album": {
-        "name": "Never Give Up (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5C7vifEyUfX7zUYtu1Qhng"
-      },
-      "artists": [
-        {
-          "name": "Puggy",
-          "url": "https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6"
-        }
-      ],
-      "duration_ms": 187863,
-      "name": "Never Give Up (Acoustic Version)",
-      "url": "https://open.spotify.com/track/5KVhdxJkh4hABMvaJHLz5y"
     }
   ],
   "unique_name": "Au calme",

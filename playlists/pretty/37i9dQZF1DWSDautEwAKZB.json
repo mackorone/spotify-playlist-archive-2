@@ -583,6 +583,22 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
+        "name": "Imagina A Sentada \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 184053,
+      "name": "Imagina A Sentada \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2iJGrGll9mGg9pJCezwP85"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
         "name": "Bichota \u2013 Spotify Singles",
         "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 157666,
       "name": "Bichota - Spotify Singles",
       "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Imagina A Sentada \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 184053,
-      "name": "Imagina A Sentada \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2iJGrGll9mGg9pJCezwP85"
     },
     {
       "added_at": "2024-11-07 00:01:00",

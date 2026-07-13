@@ -3767,6 +3767,24 @@
     },
     {
       "album": {
+        "name": "My Everything",
+        "url": "https://open.spotify.com/album/06A6Z2M5V6JFVAXEAg4LAg"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234320,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/30OyUSm3KRcjZQ3Nb1kbXR"
+    },
+    {
+      "album": {
         "name": "My Gravity",
         "url": "https://open.spotify.com/album/2YBE0Yasc9s7ij0mfaQ71f"
       },
@@ -5984,7 +6002,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 229275,
       "name": "To Our Youth",
       "url": "https://open.spotify.com/track/2PFKUY9Fdqwo8GhLGlIB7G"

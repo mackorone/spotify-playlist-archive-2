@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 28915,
+  "num_followers": 28921,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAADM2HoXjIpYpo7gNJXXBtUz",
+  "snapshot_id": "alGHgAAAAAB7z5raq6s+pqFUEk6/MUlP",
   "tracks": [
     {
       "added_at": null,
@@ -151,6 +151,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 212110,
+      "name": "Armies",
+      "url": "https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GOT A REASON",
         "url": "https://open.spotify.com/album/4AUioy59lGdmS1mPufTdfC"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 169792,
       "name": "GOT A REASON",
       "url": "https://open.spotify.com/track/5MTPmRNRnblPndt4JJaL02"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone",
-        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 212110,
-      "name": "Armies",
-      "url": "https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CAMPAIGN",
-        "url": "https://open.spotify.com/album/0fya4AYyhkXQPbxcWuudyy"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 169528,
-      "name": "CAMPAIGN",
-      "url": "https://open.spotify.com/track/3ybMOE4jaJ9xLkoDpze1OM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heroes for Sale",
         "url": "https://open.spotify.com/album/4Ok6ziWADtgdRcy4nixjtL"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 238146,
       "name": "The Saints",
       "url": "https://open.spotify.com/track/6OJgPdiryjvefJC3fsDAuA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CAMPAIGN",
+        "url": "https://open.spotify.com/album/0fya4AYyhkXQPbxcWuudyy"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 169528,
+      "name": "CAMPAIGN",
+      "url": "https://open.spotify.com/track/3ybMOE4jaJ9xLkoDpze1OM"
     },
     {
       "added_at": null,
@@ -691,6 +691,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "THIS CANNOT BE SOLD",
+        "url": "https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Kaden Jordan",
+          "url": "https://open.spotify.com/artist/0mbpzxELAS9luV27PUDEZH"
+        },
+        {
+          "name": "WHATUPRG",
+          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
+        }
+      ],
+      "duration_ms": 232291,
+      "name": "SPEAK THRU ME!",
+      "url": "https://open.spotify.com/track/7kq6LVfrXMTGXQvzZtDFn2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tomorrow We Live",
         "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
       },
@@ -723,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sheep II",
-        "url": "https://open.spotify.com/album/66xoIShSZw4gxHOIfetpa2"
-      },
-      "artists": [
-        {
-          "name": "Ben Fuller",
-          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 154169,
-      "name": "Black Sheep II",
-      "url": "https://open.spotify.com/track/0spY4QN3gI12ohsr4TdqXu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Glory Alone",
         "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
       },
@@ -759,26 +763,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Go Let God: The EP",
-        "url": "https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY"
+        "name": "THIS CANNOT BE SOLD",
+        "url": "https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC"
       },
       "artists": [
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         },
         {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        },
+        {
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
         }
       ],
-      "duration_ms": 185441,
-      "name": "Let Go Let God (The Anthem)",
-      "url": "https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY"
+      "duration_ms": 208624,
+      "name": "FLEX",
+      "url": "https://open.spotify.com/track/1wmJZpCns6dHVDd4TGzXoD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Sheep II",
+        "url": "https://open.spotify.com/album/66xoIShSZw4gxHOIfetpa2"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 154169,
+      "name": "Black Sheep II",
+      "url": "https://open.spotify.com/track/0spY4QN3gI12ohsr4TdqXu"
     },
     {
       "added_at": null,
@@ -807,6 +831,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let Go Let God: The EP",
+        "url": "https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "duration_ms": 185441,
+      "name": "Let Go Let God (The Anthem)",
+      "url": "https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THIS CANNOT BE SOLD",
+        "url": "https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "duration_ms": 178863,
+      "name": "FATHER",
+      "url": "https://open.spotify.com/track/7AoMr9VMS9Fs5fu5VjtbNx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Just That Good",
         "url": "https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA"
       },
@@ -831,6 +899,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 260048,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "100",
         "url": "https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv"
       },
@@ -851,6 +939,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THIS CANNOT BE SOLD",
+        "url": "https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 199904,
+      "name": "THIS CANNOT BE SOLD",
+      "url": "https://open.spotify.com/track/7xahuiQehSo1bzfWxOTD8y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
       },
@@ -867,26 +971,6 @@
       "duration_ms": 170118,
       "name": "One Day",
       "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 260048,
-      "name": "Graves",
-      "url": "https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t"
     },
     {
       "added_at": null,
@@ -927,86 +1011,6 @@
       "duration_ms": 210507,
       "name": "Eagle",
       "url": "https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tomorrow We Live",
-        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Mattie of For Today",
-          "url": "https://open.spotify.com/artist/7BjHKoCoguN4piT5nr7F5z"
-        }
-      ],
-      "duration_ms": 236353,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THIS CANNOT BE SOLD",
-        "url": "https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Kaden Jordan",
-          "url": "https://open.spotify.com/artist/0mbpzxELAS9luV27PUDEZH"
-        },
-        {
-          "name": "WHATUPRG",
-          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
-        }
-      ],
-      "duration_ms": 232291,
-      "name": "SPEAK THRU ME!",
-      "url": "https://open.spotify.com/track/7kq6LVfrXMTGXQvzZtDFn2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone II (Deluxe)",
-        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 177664,
-      "name": "It Ain't Safe",
-      "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hills and Valleys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 237496,
-      "name": "Undefeated (feat. KB)",
-      "url": "https://open.spotify.com/track/3MU0cqyxgy3jc3Z4mu766m"
     }
   ],
   "unique_name": "This Is KB",

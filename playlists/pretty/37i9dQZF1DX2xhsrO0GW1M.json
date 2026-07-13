@@ -1,6 +1,6 @@
 {
   "description": "Tu dosis de \u00e9xitos indie para quedar a salvo. En portada: Alabama Shakes",
-  "num_followers": 1042195,
+  "num_followers": 1042059,
   "original_name": "Indiespensables",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Only By The Night",
-        "url": "https://open.spotify.com/album/3DxR2xJJfAGJlbArx7wAgm"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "Sex on Fire",
-      "url": "https://open.spotify.com/track/5A1FmxbYVRZKy4nc16MAue"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Blur: The Best Of",
         "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 259385,
       "name": "Girls & Boys",
       "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Only By The Night",
+        "url": "https://open.spotify.com/album/3DxR2xJJfAGJlbArx7wAgm"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 203346,
+      "name": "Sex on Fire",
+      "url": "https://open.spotify.com/track/5A1FmxbYVRZKy4nc16MAue"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/2TVvPbLNPTCZS8lPHs1rZW"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 241546,
+      "name": "Lisztomania",
+      "url": "https://open.spotify.com/track/7zkDEBSxkcBVsStS4qBFpK"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
         "name": "Lost In The Dream",
         "url": "https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 298920,
       "name": "Red Eyes",
       "url": "https://open.spotify.com/track/71jGGLe5VtEHjIk5dU2W3S"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
-        "name": "Holy Fire",
-        "url": "https://open.spotify.com/album/0PIR7PK8DMB4pgoxq7F9Ad"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 240533,
-      "name": "My Number",
-      "url": "https://open.spotify.com/track/4c9WmjVlQMr0s1IjbYO52Z"
     }
   ],
   "unique_name": "Indiespensables",

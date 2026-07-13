@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "Foreign Tongues",
+        "url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372617,
+      "name": "Back In Your Life",
+      "url": "https://open.spotify.com/track/590rDHWNgViHdsFjXShHlP"
+    },
+    {
+      "album": {
         "name": "Wait for Sunrise",
         "url": "https://open.spotify.com/album/1bROyL2oDz8tVUcWNbeZSX"
       },
@@ -4402,6 +4420,24 @@
       "duration_ms": 200671,
       "name": "Should've Said It",
       "url": "https://open.spotify.com/track/0sHc1EEeOnmgjP6QmsR7px"
+    },
+    {
+      "album": {
+        "name": "Foreign Tongues",
+        "url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274549,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/463PiN9LTK31VIjID2h9iL"
     },
     {
       "album": {

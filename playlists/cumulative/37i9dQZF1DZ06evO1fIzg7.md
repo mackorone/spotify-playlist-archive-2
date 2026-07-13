@@ -4,7 +4,7 @@
 
 > This is Sophie Ellis\-Bextor\. The essential tracks, all in one playlist.
 
-73 songs - 4 hr 30 min
+74 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Hypnotized](https://open.spotify.com/track/5Ika1wiAaVETLx29jvWTTb) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Wuh Oh](https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8) | [Hypnotized](https://open.spotify.com/album/2XQSL4TRLtFvJhEKoLnY5U) | 3:02 | 2025-10-28 | 2026-06-12 |
 | [I Won't Change You](https://open.spotify.com/track/08T5Bx6CoJS45Q5qDXmM9M) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Shoot From The Hip](https://open.spotify.com/album/75XTG3xz1tGYh2nAiNcs1P) | 3:39 | 2025-10-28 |  |
 | [If I Can't Dance](https://open.spotify.com/track/1FBPdXaWvaAOsoZxAkzDEz) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:23 | 2025-10-28 |  |
-| [If You Go](https://open.spotify.com/track/3mEDGZg2CrS748sYTeha6N) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:25 | 2025-10-28 |  |
+| [If You Go](https://open.spotify.com/track/3mEDGZg2CrS748sYTeha6N) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:25 | 2025-10-28 | 2026-07-13 |
 | [Immortal](https://open.spotify.com/track/0nzVN0Ln1nnN5eSSUSmztb) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Visions, Vol\. 1](https://open.spotify.com/album/4u118aJAyUdQmQAmyTdSyb) | 3:30 | 2025-10-28 |  |
 | [Is It Any Wonder](https://open.spotify.com/track/1gbDVb8GzhAL7TOZ5HeLeU) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Marco Rakascan](https://open.spotify.com/artist/3qEzJpZr4UYRdW9fVMbNDD) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 4:25 | 2025-10-28 |  |
 | [Layers](https://open.spotify.com/track/5D3gVhO3DZDZbvAZ2F9Mnl) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 3:23 | 2025-10-28 |  |
@@ -46,6 +46,7 @@
 | [Lost in the Sunshine](https://open.spotify.com/track/3RaNrjfoe9NADcR7MgG6NQ) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [HANA](https://open.spotify.com/album/2oypv23kc2pJaykM2VCcZb) | 4:03 | 2026-06-11 |  |
 | [Love Is a Camera](https://open.spotify.com/track/5Lbt7w60bPFzouE6bEWFyL) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Wanderlust](https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO) | 4:13 | 2026-03-19 | 2026-06-27 |
 | [Love is You \- Bonus Track](https://open.spotify.com/track/2rZCEshgpUSYaNYb8JbBj1) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [The Song Diaries](https://open.spotify.com/album/7J5Nw52aulA1Db3x5SfP7V) | 3:15 | 2026-04-02 | 2026-04-17 |
+| [Love Is You \- Bonus Track](https://open.spotify.com/track/6YDgYJqyeCWZMdypwphwxz) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [The Song Diaries](https://open.spotify.com/album/6DfOfZ7pIKpRMEzPK6HD8I) | 3:15 | 2026-07-13 |  |
 | [Lover](https://open.spotify.com/track/4pritr0818VLaaJTvTCjfj) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:23 | 2025-10-28 |  |
 | [Magic](https://open.spotify.com/track/4LNRBwnx53haxMj2rF0BWr) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0) | 4:33 | 2025-10-28 |  |
 | [Me And My Imagination](https://open.spotify.com/track/10RfzowOof7q87hZki17Xu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:25 | 2025-10-28 |  |

@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 158106,
       "name": "Basic Being Basic",
       "url": "https://open.spotify.com/track/2jjwQENSoGnYbQEK4acuC6"
@@ -1923,6 +1923,24 @@
     },
     {
       "album": {
+        "name": "Elemental",
+        "url": "https://open.spotify.com/album/3yYeYX26WNepcjOFY34ki4"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271533,
+      "name": "Break It Down Again",
+      "url": "https://open.spotify.com/track/15kc3DJyYixeEEq5kRRrOm"
+    },
+    {
+      "album": {
         "name": "2Pacalypse Now",
         "url": "https://open.spotify.com/album/5Ijk8JGsEkwCZd5i0Iy09a"
       },
@@ -1988,7 +2006,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 179386,
       "name": "Broke My Own",
       "url": "https://open.spotify.com/track/6fuupgBJ6V8t8zRFLJgIV2"
@@ -2250,6 +2268,24 @@
       "duration_ms": 115200,
       "name": "Can't Get Enough Of You, Baby",
       "url": "https://open.spotify.com/track/78WAUYG6MhoZxSARsK7mXy"
+    },
+    {
+      "album": {
+        "name": "The Archer",
+        "url": "https://open.spotify.com/album/6LbyR5pthd2ao8QwxzLtV8"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Savior",
+          "url": "https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162944,
+      "name": "Can't Help Myself",
+      "url": "https://open.spotify.com/track/5Qh2q9g7iP4WXZofuX0WXZ"
     },
     {
       "album": {
@@ -2949,6 +2985,42 @@
     },
     {
       "album": {
+        "name": "Is This Real?",
+        "url": "https://open.spotify.com/album/531Pc0lZ2aJIHJfyO7q0Ny"
+      },
+      "artists": [
+        {
+          "name": "Wipers",
+          "url": "https://open.spotify.com/artist/0sTTw3dw3EA0c7NaZnrJd2"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245066,
+      "name": "D-7",
+      "url": "https://open.spotify.com/track/4Av6uLF5s1A1mvSCP8fLR6"
+    },
+    {
+      "album": {
+        "name": "Aquemini",
+        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222655,
+      "name": "Da Art of Storytellin' (Pt. 1)",
+      "url": "https://open.spotify.com/track/1KQymTxNJfWk6vCD5ywKW2"
+    },
+    {
+      "album": {
         "name": "Erotic Probiotic 2",
         "url": "https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI"
       },
@@ -3302,6 +3374,24 @@
       "duration_ms": 243226,
       "name": "Didn't Know What I Was In For",
       "url": "https://open.spotify.com/track/31nH2FO5og83YmI3K845Jn"
+    },
+    {
+      "album": {
+        "name": "Beware of the Dogs",
+        "url": "https://open.spotify.com/album/0E1M8jS13CQ4MibjrIqtpW"
+      },
+      "artists": [
+        {
+          "name": "Stella Donnelly",
+          "url": "https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174395,
+      "name": "Die",
+      "url": "https://open.spotify.com/track/0Ysr0TWPvuV0g5eKRe5qJk"
     },
     {
       "album": {
@@ -3854,7 +3944,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 171226,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/60jQTAr2OkFcV4SWSRz3st"
@@ -4526,7 +4616,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 215266,
       "name": "Get A Hold",
       "url": "https://open.spotify.com/track/1LuvccUiy1j9y8hpPBzQNh"
@@ -5567,6 +5657,24 @@
     },
     {
       "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
+    },
+    {
+      "album": {
         "name": "Broom",
         "url": "https://open.spotify.com/album/3ZXNnZ17fD6rcoabtjoyGk"
       },
@@ -5614,7 +5722,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 173680,
       "name": "I Bet You Look Good On The Dancefloor",
       "url": "https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i"
@@ -5827,6 +5935,24 @@
     },
     {
       "album": {
+        "name": "Nathaniel Rateliff & The Night Sweats",
+        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253733,
+      "name": "I Need Never Get Old",
+      "url": "https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw"
+    },
+    {
+      "album": {
         "name": "Second Helping (Expanded Edition)",
         "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
       },
@@ -6036,7 +6162,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 232375,
       "name": "i wish i knew how to quit you",
       "url": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
@@ -7126,7 +7252,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 201693,
       "name": "Let Me Touch You For Awhile",
       "url": "https://open.spotify.com/track/0VotjdI6ufLgQUi3MUAhAn"
@@ -7220,7 +7346,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 273235,
       "name": "Life According To Raechel",
       "url": "https://open.spotify.com/track/35sEqwW23uB0PqZATuQVjW"
@@ -7658,6 +7784,24 @@
       "duration_ms": 188198,
       "name": "Love Me Not (feat. Rex Orange County)",
       "url": "https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq"
+    },
+    {
+      "album": {
+        "name": "Mountain Music",
+        "url": "https://open.spotify.com/album/1DegGDbKzEP9xthtOV9ldL"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180294,
+      "name": "Lovin' You Is Killin' Me",
+      "url": "https://open.spotify.com/track/62GC0zI1PGLBhEEG0ZY0vE"
     },
     {
       "album": {
@@ -8756,7 +8900,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 168733,
       "name": "Night Owl",
       "url": "https://open.spotify.com/track/3XS9NHZDLFYxeKz2WhBYJh"
@@ -9586,7 +9730,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 244600,
       "name": "Part II",
       "url": "https://open.spotify.com/track/2n7h09QrGitVul66b2D8Re"
@@ -11563,6 +11707,24 @@
     },
     {
       "album": {
+        "name": "Dah Shinin'",
+        "url": "https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM"
+      },
+      "artists": [
+        {
+          "name": "Smif-N-Wessun",
+          "url": "https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259453,
+      "name": "Sound Bwoy Bureill",
+      "url": "https://open.spotify.com/track/3enjxX3aOAsFyaKeH1O9jO"
+    },
+    {
+      "album": {
         "name": "Lianne La Havas",
         "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
       },
@@ -11936,6 +12098,32 @@
       "duration_ms": 210525,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI"
+    },
+    {
+      "album": {
+        "name": "Foxwarren",
+        "url": "https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa"
+      },
+      "artists": [
+        {
+          "name": "Foxwarren",
+          "url": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
+        },
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        },
+        {
+          "name": "Darryl Kissick",
+          "url": "https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260090,
+      "name": "Sunset Canyon",
+      "url": "https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr"
     },
     {
       "album": {
@@ -12928,7 +13116,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 230026,
       "name": "Then I Met You",
       "url": "https://open.spotify.com/track/6qcCyYolb7SH21nWfJqONT"
@@ -14458,6 +14646,24 @@
       "duration_ms": 169549,
       "name": "you were right",
       "url": "https://open.spotify.com/track/1z3y0dcgWonv5eZJmkN05r"
+    },
+    {
+      "album": {
+        "name": "Leaves in the River",
+        "url": "https://open.spotify.com/album/6WC3AqZcdJkfRxYRo2iXSL"
+      },
+      "artists": [
+        {
+          "name": "Sea Wolf",
+          "url": "https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215560,
+      "name": "You're a Wolf",
+      "url": "https://open.spotify.com/track/4cFMT3DwTYChrjBT71hqGy"
     },
     {
       "album": {

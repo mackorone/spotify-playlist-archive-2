@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 21654,
+  "num_followers": 21659,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -1137,26 +1137,6 @@
       "url": "https://open.spotify.com/track/2AUFfb517wmHQoDxxGg3TU"
     },
     {
-      "added_at": "2026-05-29 00:01:36",
-      "album": {
-        "name": "I See The Lord (Live)",
-        "url": "https://open.spotify.com/album/3EbJqKDeDsAX4wv1RZ5Za3"
-      },
-      "artists": [
-        {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        },
-        {
-          "name": "Ibquake",
-          "url": "https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u"
-        }
-      ],
-      "duration_ms": 610039,
-      "name": "I See The Lord - Live",
-      "url": "https://open.spotify.com/track/38kUGVC4ZLfg6ekJ08IcUh"
-    },
-    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "DO",
@@ -1195,6 +1175,26 @@
       "duration_ms": 220235,
       "name": "Your Love II",
       "url": "https://open.spotify.com/track/1sc1pQKdOvTJfNAcqci9Xv"
+    },
+    {
+      "added_at": "2026-05-29 00:01:36",
+      "album": {
+        "name": "I See The Lord (Live)",
+        "url": "https://open.spotify.com/album/3EbJqKDeDsAX4wv1RZ5Za3"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        },
+        {
+          "name": "Ibquake",
+          "url": "https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u"
+        }
+      ],
+      "duration_ms": 610039,
+      "name": "I See The Lord - Live",
+      "url": "https://open.spotify.com/track/38kUGVC4ZLfg6ekJ08IcUh"
     },
     {
       "added_at": "2026-03-27 00:01:13",
@@ -1405,38 +1405,6 @@
       "url": "https://open.spotify.com/track/0ARQW1x7VJE3OyqckAOtD9"
     },
     {
-      "added_at": "2026-06-12 08:46:43",
-      "album": {
-        "name": "Yoyo",
-        "url": "https://open.spotify.com/album/03VvutM1txcETp75KZwHE8"
-      },
-      "artists": [
-        {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Yoyo",
-      "url": "https://open.spotify.com/track/2avVNhJHTUYcAuqSiJCWH9"
-    },
-    {
-      "added_at": "2026-03-06 00:01:07",
-      "album": {
-        "name": "Lovin On Me",
-        "url": "https://open.spotify.com/album/6dnvtuqs7QEd0mf5vdwNgt"
-      },
-      "artists": [
-        {
-          "name": "Neon Adejo",
-          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
-        }
-      ],
-      "duration_ms": 248054,
-      "name": "Lovin On Me",
-      "url": "https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI"
-    },
-    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "O\u2019ZA",
@@ -1457,6 +1425,22 @@
       "url": "https://open.spotify.com/track/2zFo8f4kW4TrLE7HzpY4yk"
     },
     {
+      "added_at": "2026-06-12 08:46:43",
+      "album": {
+        "name": "Yoyo",
+        "url": "https://open.spotify.com/album/03VvutM1txcETp75KZwHE8"
+      },
+      "artists": [
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Yoyo",
+      "url": "https://open.spotify.com/track/2avVNhJHTUYcAuqSiJCWH9"
+    },
+    {
       "added_at": "2026-03-13 00:01:18",
       "album": {
         "name": "Amen Amen, Blessing and Glory",
@@ -1475,6 +1459,22 @@
       "duration_ms": 154325,
       "name": "Amen Amen, Blessing and Glory",
       "url": "https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y"
+    },
+    {
+      "added_at": "2026-03-06 00:01:07",
+      "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6dnvtuqs7QEd0mf5vdwNgt"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "duration_ms": 248054,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI"
     },
     {
       "added_at": "2026-05-22 00:01:37",
@@ -1541,6 +1541,22 @@
       "url": "https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r"
     },
     {
+      "added_at": "2026-06-19 00:01:33",
+      "album": {
+        "name": "Sweet Jesus",
+        "url": "https://open.spotify.com/album/1v9gDAJXFl3UqF4NZVqe5Q"
+      },
+      "artists": [
+        {
+          "name": "Jordan Bangoji",
+          "url": "https://open.spotify.com/artist/702zIZlmgDwWKAqWW4WX5d"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Sweet Jesus",
+      "url": "https://open.spotify.com/track/7H1AhuPUekQcBnin0ScOxR"
+    },
+    {
       "added_at": "2026-05-29 00:01:36",
       "album": {
         "name": "Thank You Lord",
@@ -1563,22 +1579,6 @@
       "duration_ms": 150750,
       "name": "Thank You Lord",
       "url": "https://open.spotify.com/track/6O79hOkKBJqmcq2dzFJsdD"
-    },
-    {
-      "added_at": "2026-06-19 00:01:33",
-      "album": {
-        "name": "Sweet Jesus",
-        "url": "https://open.spotify.com/album/1v9gDAJXFl3UqF4NZVqe5Q"
-      },
-      "artists": [
-        {
-          "name": "Jordan Bangoji",
-          "url": "https://open.spotify.com/artist/702zIZlmgDwWKAqWW4WX5d"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Sweet Jesus",
-      "url": "https://open.spotify.com/track/7H1AhuPUekQcBnin0ScOxR"
     }
   ],
   "unique_name": "Blessed",

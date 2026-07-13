@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Tigers Jaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,844 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,804 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 58 | [We Need More Bricks](https://open.spotify.com/track/3HT0SJA32BW7c83sxpq3SF) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 3:48 |
 | 59 | [Better Days](https://open.spotify.com/track/4mjo9U4xfSAtTkLpvQ6QDN) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Better Days](https://open.spotify.com/album/3e7vBHspnYuDZsgxkyPsEA) | 2:53 |
 | 60 | [Pick Your Poison](https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Pick Your Poison](https://open.spotify.com/album/0UUc2qq43lHwDaRIy4y4zA) | 2:39 |
-| 61 | [Common Sense](https://open.spotify.com/track/6I9nwHabyomUdktg1UdRB6) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Common Sense](https://open.spotify.com/album/5F8QDHfvbt0AeI1CcYcim6) | 3:11 |
-| 62 | [Stuck](https://open.spotify.com/track/0pZQgBw5kzzVFmNlY1oGA2) | [Like Roses](https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI) | [Stuck](https://open.spotify.com/album/2ztpreZhc7wJd1c5MKorZv) | 3:11 |
+| 61 | [Stuck](https://open.spotify.com/track/0pZQgBw5kzzVFmNlY1oGA2) | [Like Roses](https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI) | [Stuck](https://open.spotify.com/album/2ztpreZhc7wJd1c5MKorZv) | 3:11 |
+| 62 | [Common Sense](https://open.spotify.com/track/6I9nwHabyomUdktg1UdRB6) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Common Sense](https://open.spotify.com/album/5F8QDHfvbt0AeI1CcYcim6) | 3:11 |
 | 63 | [maybe it's me](https://open.spotify.com/track/3IQ6lvRicxZpI3AhQaGPI5) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [analysis paralysis](https://open.spotify.com/album/2jzXbszHtup7moVaOEbjU4) | 3:38 |
 | 64 | [Goodbye, Good Riddance](https://open.spotify.com/track/1a3oI1RM3moGA6LKN4D6fo) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Goodbye, Good Riddance](https://open.spotify.com/album/7kNeCQU1M0MfMgzmMzUHSG) | 2:39 |
 | 65 | [Oh No!](https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Oh No!](https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi) | 3:13 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 79 | [only overnight](https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [only overnight](https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R) | 3:02 |
 | 80 | [Beg For More](https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Beg For More](https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I) | 2:54 |
 | 81 | [don't light the match \(dyed black 2010\)](https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [dyed \(2008 \- 2023\)](https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI) | 3:00 |
-| 82 | [I See How It Is](https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Eternal Youth](https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX) | 2:32 |
-| 83 | [DOUBT](https://open.spotify.com/track/24KYmcYFdSIzKJbKYpyOPO) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [HELLMODE](https://open.spotify.com/album/7Gw4NIOgnylpbryrOJksn9) | 4:28 |
+| 82 | [DOUBT](https://open.spotify.com/track/24KYmcYFdSIzKJbKYpyOPO) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [HELLMODE](https://open.spotify.com/album/7Gw4NIOgnylpbryrOJksn9) | 4:28 |
+| 83 | [I See How It Is](https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Eternal Youth](https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX) | 2:32 |
 | 84 | [Bedroom Posters](https://open.spotify.com/track/2epFaQtIT84fbkV6gUACOC) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Bedroom Posters](https://open.spotify.com/album/1mju3IkbVw0xDVMyfJj90U) | 3:38 |
 | 85 | [Never Said](https://open.spotify.com/track/544eBBEk91c9mskOEO2Axw) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Bambi](https://open.spotify.com/album/0BeIgFzQGCKVqyJ60HusXH) | 3:15 |
 | 86 | [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 90 | [SLEEP TALKING](https://open.spotify.com/track/1PoW3zFUUN8vGwXo7ihYPj) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [GARAGE](https://open.spotify.com/album/5d1CpByfQ3zqbOSmbIPafo) | 3:05 |
 | 91 | [When in Love](https://open.spotify.com/track/5tjKNBax9WFNbrpruOumHS) | [A Lot Like Birds](https://open.spotify.com/artist/4tGd3HHlV4RVOdlBc5LAW3), [Geoff Rickly](https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX) | [When in Love](https://open.spotify.com/album/1JnrM00cVPFBxrZc8EgdYw) | 4:25 |
 | 92 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 |
-| 93 | [Something About You](https://open.spotify.com/track/352rVkzjhMmzhivUPghajg) | [Brooklane](https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW) | [Something About You](https://open.spotify.com/album/60IGbp8jEh7hiknYc9cCdu) | 2:37 |
-| 94 | [american zombie](https://open.spotify.com/track/3TD708Vmf3uVPVFkDa5Ayc) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [american zombie](https://open.spotify.com/album/4BjJWRGXLh0Gq4JoX8wavh) | 2:33 |
+| 93 | [american zombie](https://open.spotify.com/track/3TD708Vmf3uVPVFkDa5Ayc) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [american zombie](https://open.spotify.com/album/4BjJWRGXLh0Gq4JoX8wavh) | 2:33 |
+| 94 | [Something About You](https://open.spotify.com/track/352rVkzjhMmzhivUPghajg) | [Brooklane](https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW) | [Something About You](https://open.spotify.com/album/60IGbp8jEh7hiknYc9cCdu) | 2:37 |
 | 95 | [Lay Down and Die](https://open.spotify.com/track/6SB6jP1Ua8LG3RrGW3NsZg) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Joyride The Pale Horse](https://open.spotify.com/album/2fnVa51C8t5osOJXc9DkWT) | 2:35 |
-| 96 | [HEART AWAY](https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA) | [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [WHERE DID ALL THE BUTTERFLIES GO?](https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM) | 3:01 |
-| 97 | [Fragile](https://open.spotify.com/track/5CScrQFOzzcBDC9TZtFdqw) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Fragile](https://open.spotify.com/album/6cYU1n2LShBOR22pfxDqbF) | 3:21 |
-| 98 | [PIN\-EYE](https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [PIN\-EYE](https://open.spotify.com/album/0L83uKz3F4cZO6D8Y85qzp) | 4:32 |
-| 99 | [Don't Let Me Get Too Low](https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Don't Let Me Get Too Low](https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af) | 2:38 |
-| 100 | [Day By Day](https://open.spotify.com/track/6qMrFgWAV9zpSyhdTM0tBl) | [Belmont](https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp) | [Liminal](https://open.spotify.com/album/0WrtmOTnb3dLugmxuXWIrk) | 3:44 |
+| 96 | [Fragile](https://open.spotify.com/track/5CScrQFOzzcBDC9TZtFdqw) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Fragile](https://open.spotify.com/album/6cYU1n2LShBOR22pfxDqbF) | 3:21 |
+| 97 | [PIN\-EYE](https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [PIN\-EYE](https://open.spotify.com/album/0L83uKz3F4cZO6D8Y85qzp) | 4:32 |
+| 98 | [Don't Let Me Get Too Low](https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Don't Let Me Get Too Low](https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af) | 2:38 |
+| 99 | [Day By Day](https://open.spotify.com/track/6qMrFgWAV9zpSyhdTM0tBl) | [Belmont](https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp) | [Liminal](https://open.spotify.com/album/0WrtmOTnb3dLugmxuXWIrk) | 3:44 |
+| 100 | [HEART AWAY](https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA) | [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [WHERE DID ALL THE BUTTERFLIES GO?](https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM) | 3:01 |
 
 Snapshot ID: `AAAAANFXyK0dsMxJchalo7GdYGuAUbvA`

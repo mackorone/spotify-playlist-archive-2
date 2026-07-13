@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 443193,
+  "num_followers": 443225,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-06-26 09:24:05",
       "album": {
-        "name": "We Were Here",
-        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 149013,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
-    },
-    {
-      "added_at": "2026-06-26 09:24:05",
-      "album": {
         "name": "Leaveyourlove (with MARO)",
         "url": "https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 214446,
       "name": "Leaveyourlove (with MARO)",
       "url": "https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc"
+    },
+    {
+      "added_at": "2026-06-26 09:24:05",
+      "album": {
+        "name": "We Were Here",
+        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 149013,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
     },
     {
       "added_at": "2026-06-26 09:24:05",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-06-26 09:24:05",
       "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Memory Be a Blade",
+      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
+    },
+    {
+      "added_at": "2026-06-26 09:24:05",
+      "album": {
         "name": "Era de Aqu\u00e1rio/Deixa o Sol Entrar",
         "url": "https://open.spotify.com/album/6lOynBCQr4s3GKTpGlOZ07"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 245118,
       "name": "Era de Aqu\u00e1rio/Deixa o Sol Entrar",
       "url": "https://open.spotify.com/track/76tplKafy6kBbFKi7vGBhb"
-    },
-    {
-      "added_at": "2026-06-26 09:24:05",
-      "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Memory Be a Blade",
-      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
     },
     {
       "added_at": "2026-06-26 09:24:05",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2026-06-26 09:24:05",
       "album": {
-        "name": "girlhood",
-        "url": "https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH"
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
       },
       "artists": [
         {
-          "name": "NEW LORE",
-          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+          "name": "Mighty Oaks",
+          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
         }
       ],
-      "duration_ms": 231910,
-      "name": "girlhood",
-      "url": "https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD"
+      "duration_ms": 252293,
+      "name": "The Great Unknown",
+      "url": "https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV"
     },
     {
       "added_at": "2026-06-26 09:24:05",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2026-06-26 09:24:05",
       "album": {
-        "name": "Dreamers",
-        "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
+        "name": "girlhood",
+        "url": "https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH"
       },
       "artists": [
         {
-          "name": "Mighty Oaks",
-          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
         }
       ],
-      "duration_ms": 252293,
-      "name": "The Great Unknown",
-      "url": "https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV"
+      "duration_ms": 231910,
+      "name": "girlhood",
+      "url": "https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD"
     },
     {
       "added_at": "2026-06-26 09:24:05",
@@ -1119,22 +1119,6 @@
       "duration_ms": 217360,
       "name": "Hold Your Head Up High",
       "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
-    },
-    {
-      "added_at": "2026-06-26 09:24:05",
-      "album": {
-        "name": "Endlings",
-        "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
-      },
-      "artists": [
-        {
-          "name": "The Well Pennies",
-          "url": "https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "The Echo & The Shadow",
-      "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
     },
     {
       "added_at": "2026-06-26 09:24:05",
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2026-06-26 09:24:05",
       "album": {
+        "name": "Endlings",
+        "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
+      },
+      "artists": [
+        {
+          "name": "The Well Pennies",
+          "url": "https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "The Echo & The Shadow",
+      "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
+    },
+    {
+      "added_at": "2026-06-26 09:24:05",
+      "album": {
         "name": "Cat Fun",
         "url": "https://open.spotify.com/album/4ZDmo9qQxFWdJYr5VExeZm"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-06-26 09:24:05",
       "album": {
-        "name": "Even In The Quiet",
-        "url": "https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM"
-      },
-      "artists": [
-        {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        }
-      ],
-      "duration_ms": 212861,
-      "name": "Even In The Quiet",
-      "url": "https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq"
-    },
-    {
-      "added_at": "2026-06-26 09:24:05",
-      "album": {
         "name": "No tenemos tiempo",
         "url": "https://open.spotify.com/album/72dfrCR0XLcPuRgV2G5oKu"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 212571,
       "name": "No tenemos tiempo",
       "url": "https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE"
+    },
+    {
+      "added_at": "2026-06-26 09:24:05",
+      "album": {
+        "name": "Even In The Quiet",
+        "url": "https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "duration_ms": 212861,
+      "name": "Even In The Quiet",
+      "url": "https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq"
     },
     {
       "added_at": "2026-06-26 09:24:05",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-06-26 09:24:05",
       "album": {
-        "name": "Consid\u00e9rame",
-        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Consid\u00e9rame",
-      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
-    },
-    {
-      "added_at": "2026-06-26 09:24:05",
-      "album": {
         "name": "El Vac\u00edo",
         "url": "https://open.spotify.com/album/6skDBDXe2ZXw7m5TLbOyux"
       },
@@ -1495,26 +1479,18 @@
     {
       "added_at": "2026-06-26 09:24:05",
       "album": {
-        "name": "Pictures",
-        "url": "https://open.spotify.com/album/7eg0DlP83tIeeF2VAjwthu"
+        "name": "Consid\u00e9rame",
+        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
       },
       "artists": [
         {
-          "name": "Gnarls Barkley",
-          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
-        },
-        {
-          "name": "CeeLo Green",
-          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
-        },
-        {
-          "name": "Danger Mouse",
-          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Pictures",
-      "url": "https://open.spotify.com/track/1JsNiBwzxX6Zad6W5GP88l"
+      "duration_ms": 154500,
+      "name": "Consid\u00e9rame",
+      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
     },
     {
       "added_at": "2026-06-26 09:24:05",
@@ -1555,6 +1531,30 @@
       "duration_ms": 163402,
       "name": "Tu",
       "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"
+    },
+    {
+      "added_at": "2026-06-26 09:24:05",
+      "album": {
+        "name": "Pictures",
+        "url": "https://open.spotify.com/album/7eg0DlP83tIeeF2VAjwthu"
+      },
+      "artists": [
+        {
+          "name": "Gnarls Barkley",
+          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        },
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/1JsNiBwzxX6Zad6W5GP88l"
     },
     {
       "added_at": "2026-06-26 09:24:05",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2026-06-26 09:24:05",
       "album": {
-        "name": "El Acabose/Ah! Ah! Ah!",
-        "url": "https://open.spotify.com/album/5NGL9X3A5pkuTqezrMoatB"
-      },
-      "artists": [
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        }
-      ],
-      "duration_ms": 211272,
-      "name": "El Acabose",
-      "url": "https://open.spotify.com/track/1mAkDhcYUHRv9eNVKDCiPe"
-    },
-    {
-      "added_at": "2026-06-26 09:24:05",
-      "album": {
         "name": "Me Tienes Aqu\u00ed",
         "url": "https://open.spotify.com/album/2QOyRlNU81eSsC3hbFhduc"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 161250,
       "name": "Me Tienes Aqu\u00ed",
       "url": "https://open.spotify.com/track/6cfbA0Hd5uaX0qk9HC6tES"
+    },
+    {
+      "added_at": "2026-06-26 09:24:05",
+      "album": {
+        "name": "El Acabose/Ah! Ah! Ah!",
+        "url": "https://open.spotify.com/album/5NGL9X3A5pkuTqezrMoatB"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "duration_ms": 211272,
+      "name": "El Acabose",
+      "url": "https://open.spotify.com/track/1mAkDhcYUHRv9eNVKDCiPe"
     },
     {
       "added_at": "2026-06-26 09:24:05",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2026-06-26 09:24:05",
       "album": {
-        "name": "Tan brillant",
-        "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
-      },
-      "artists": [
-        {
-          "name": "Renaldo & Clara",
-          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "Tan brillant",
-      "url": "https://open.spotify.com/track/2OTuWGelABOCooV0bT4WL5"
-    },
-    {
-      "added_at": "2026-06-26 09:24:05",
-      "album": {
         "name": "Misma Liga",
         "url": "https://open.spotify.com/album/44Wotv6bcdehfOEZjWXvQs"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 167750,
       "name": "Misma Liga",
       "url": "https://open.spotify.com/track/6pnKysbThfUJQgJQot20iv"
+    },
+    {
+      "added_at": "2026-06-26 09:24:05",
+      "album": {
+        "name": "Tan brillant",
+        "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
+      },
+      "artists": [
+        {
+          "name": "Renaldo & Clara",
+          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "Tan brillant",
+      "url": "https://open.spotify.com/track/2OTuWGelABOCooV0bT4WL5"
     },
     {
       "added_at": "2026-06-26 09:24:05",

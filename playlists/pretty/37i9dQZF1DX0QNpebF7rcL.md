@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Ruthie Foster
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,328 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,398 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Condition Blue](https://open.spotify.com/track/7HQshuPqE8A8OA0bdH9xYb) | [Dennis Jones](https://open.spotify.com/artist/5R9JVPbmqPkb1VENlbdeHy) | [About Time](https://open.spotify.com/album/4klGlW97CAHiSCW6OagWmC) | 4:06 |
 | 100 | [A Flat City](https://open.spotify.com/track/590BnlG9y6C0f9UivPq4qt) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [A Flat City](https://open.spotify.com/album/1vw3z3xkEY2cqDqCi5ndwQ) | 2:02 |
 
-Snapshot ID: `AAAAAJ+u6W0xtfPUJT5AqywscL6UV5V1`
+Snapshot ID: `AAAAANJNzA7KOrCP2b9zMJVKnoMlSzbc`

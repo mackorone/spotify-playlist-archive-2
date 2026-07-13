@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 15035,
+  "num_followers": 15043,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -335,26 +335,6 @@
     {
       "added_at": "2026-06-29 07:53:23",
       "album": {
-        "name": "Bucket List",
-        "url": "https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
-        }
-      ],
-      "duration_ms": 199506,
-      "name": "Joker (Feat. JAMIE)",
-      "url": "https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip"
-    },
-    {
-      "added_at": "2026-06-29 07:53:23",
-      "album": {
         "name": "Welcome to the Kicako House",
         "url": "https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 195375,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/4QL7JQXCrWoCGsRKnGkga1"
+    },
+    {
+      "added_at": "2026-06-29 07:53:23",
+      "album": {
+        "name": "Bucket List",
+        "url": "https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "duration_ms": 199506,
+      "name": "Joker (Feat. JAMIE)",
+      "url": "https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip"
     },
     {
       "added_at": "2026-06-29 07:53:23",
@@ -439,26 +439,6 @@
     {
       "added_at": "2026-06-29 07:53:23",
       "album": {
-        "name": "Lovey Dovey",
-        "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Lovey Dovey (Feat. meenoi)",
-      "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
-    },
-    {
-      "added_at": "2026-06-29 07:53:23",
-      "album": {
         "name": "Show Me The Money 9 Episode 3",
         "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 276152,
       "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
       "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
+    },
+    {
+      "added_at": "2026-06-29 07:53:23",
+      "album": {
+        "name": "Lovey Dovey",
+        "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Lovey Dovey (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
     },
     {
       "added_at": "2026-06-29 07:53:23",
@@ -543,6 +543,26 @@
     {
       "added_at": "2026-06-29 07:53:23",
       "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Right Now (Feat. Crush)",
+      "url": "https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11"
+    },
+    {
+      "added_at": "2026-06-29 07:53:23",
+      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 240840,
       "name": "Romance Symphony (Feat. CHANGMO, Jay Park)",
       "url": "https://open.spotify.com/track/3bUD1FmJClHcD0U7rIN0TR"
-    },
-    {
-      "added_at": "2026-06-29 07:53:23",
-      "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN"
-      },
-      "artists": [
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Right Now (Feat. Crush)",
-      "url": "https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11"
     },
     {
       "added_at": "2026-06-29 07:53:23",
@@ -831,26 +831,6 @@
     {
       "added_at": "2026-06-29 07:53:23",
       "album": {
-        "name": "Show Me the Money 4 Episode 5",
-        "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
-      },
-      "artists": [
-        {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
-        },
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 249317,
-      "name": "Fear",
-      "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
-    },
-    {
-      "added_at": "2026-06-29 07:53:23",
-      "album": {
         "name": "The Movie Star",
         "url": "https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 220266,
       "name": "Transcend (Feat. C JAMM)",
       "url": "https://open.spotify.com/track/7tG3irYkVZ1nkSCFXA6vQN"
+    },
+    {
+      "added_at": "2026-06-29 07:53:23",
+      "album": {
+        "name": "Show Me the Money 4 Episode 5",
+        "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 249317,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
     },
     {
       "added_at": "2026-06-29 07:53:23",
@@ -955,6 +955,26 @@
     {
       "added_at": "2026-06-29 07:53:23",
       "album": {
+        "name": "2 Little Bites From [Fatal Album \u2162]",
+        "url": "https://open.spotify.com/album/2m22wz5HacfJyFWM4Y5p0S"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "Eul (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/3MEcq4JRbQImU04hBtyM0w"
+    },
+    {
+      "added_at": "2026-06-29 07:53:23",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 236524,
       "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
-    },
-    {
-      "added_at": "2026-06-29 07:53:23",
-      "album": {
-        "name": "2 Little Bites From [Fatal Album \u2162]",
-        "url": "https://open.spotify.com/album/2m22wz5HacfJyFWM4Y5p0S"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "Eul (Feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/3MEcq4JRbQImU04hBtyM0w"
     },
     {
       "added_at": "2026-06-29 07:53:23",

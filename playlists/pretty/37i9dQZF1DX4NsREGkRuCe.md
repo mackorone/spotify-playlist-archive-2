@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 
 > Turn traffic stops into jam sessions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,293 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,341 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 | 2 | [I Know Who I Be](https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh) | [I Know Who I Be](https://open.spotify.com/album/7dR22XlVbfSAhTSltPiU7g) | 3:53 |
 | 3 | [Big Bum Bum](https://open.spotify.com/track/1heVYYJgIbEmeEQ8ye0YFX) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Big Bum Bum](https://open.spotify.com/album/3sb9wp0YtrNwfHajHmWF8S) | 2:39 |
 | 4 | [Chanel \(feat\. Asake\)](https://open.spotify.com/track/6JVQBlA628faJmvQbeyBHT) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Chanel \(feat\. Asake\)](https://open.spotify.com/album/3ctssLn3Uq8WPudSkMrzWT) | 2:30 |
-| 5 | [Amen](https://open.spotify.com/track/5xFnqGLySijRJ2q6som381) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 3:25 |
+| 5 | [Tornado](https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Tornado](https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U) | 2:54 |
 | 6 | [JIGGLE](https://open.spotify.com/track/6kSNvau2G1L3qxsyMB3LaT) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [JIGGLE](https://open.spotify.com/album/0MlvZhXLMS6Q0gZlVeY11R) | 2:08 |
-| 7 | [Tornado](https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Tornado](https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U) | 2:54 |
+| 7 | [Amen](https://open.spotify.com/track/5xFnqGLySijRJ2q6som381) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 3:25 |
 | 8 | [Elumelu](https://open.spotify.com/track/7aCW8Q337ACIFUmziqKGQd) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Elumelu](https://open.spotify.com/album/3cR2qRqYSeOiLIPPEokaXg) | 2:13 |
 | 9 | [Tumo Weto](https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Ukanigbe](https://open.spotify.com/album/5XaW0jZyPkJg3A85nxX0dA) | 2:49 |
 | 10 | [Uche Jumbo](https://open.spotify.com/track/7bRUMiDGOuaVamLrq52rSW) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Uche Jumbo](https://open.spotify.com/album/6HWoNUfkHlTokQFzGtZk5Y) | 2:28 |
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 | 21 | [Already](https://open.spotify.com/track/4c0l2xJLaY8PBS7yi37Ry3) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [The Game Needs Us](https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be) | 2:35 |
 | 22 | [Motide](https://open.spotify.com/track/3FVclanhZBo5V9d5mO8mke) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar, Vol\. 2](https://open.spotify.com/album/2sRMHoYk2tlpv0Dq9DtWcj) | 2:30 |
 | 23 | [BODY \(danz\)](https://open.spotify.com/track/51WcemyU0PlssXhhsspBYh) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [BODY \(danz\)](https://open.spotify.com/album/1xnMv2ReoYX0A9qiOukR0i) | 2:27 |
-| 24 | [STATE OF MIND](https://open.spotify.com/track/6jHxHUv9jF1ss5NAkG6JPo) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [STATE OF MIND](https://open.spotify.com/album/5qTP3Akjr05OV0ZdSH7Mcx) | 3:12 |
+| 24 | [Hot Body](https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hot Body](https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z) | 2:40 |
 | 25 | [Happiness](https://open.spotify.com/track/0ASno3zrAbwRe4cVfH1c7K) | [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs), [DJ YK](https://open.spotify.com/artist/2VLe3q3Vp7R9aQQGip5oMe) | [Built Different](https://open.spotify.com/album/0eZrosDFkbClhRzEnoJD63) | 2:41 |
-| 26 | [Hot Body](https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hot Body](https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z) | 2:40 |
+| 26 | [STATE OF MIND](https://open.spotify.com/track/6jHxHUv9jF1ss5NAkG6JPo) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [STATE OF MIND](https://open.spotify.com/album/5qTP3Akjr05OV0ZdSH7Mcx) | 3:12 |
 | 27 | [Stars Misaligned II](https://open.spotify.com/track/0awbfWjQjaoogyh2VzUw9u) | [Shiloh Yodellé](https://open.spotify.com/artist/3jVOOhEKCtuDzhB8w1iLkH), [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA), [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl) | [Stars Misaligned II](https://open.spotify.com/album/25PT7y0EZbv1qdfctSmvzc) | 2:50 |
 | 28 | [fine ting \(fine $hit\)](https://open.spotify.com/track/06fhryffT3VPtv8v8r8EPK) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [fine ting \(fine $hit\)](https://open.spotify.com/album/2OF9E4AIW98RK4yuybtaRa) | 3:15 |
 | 29 | [100 Meters](https://open.spotify.com/track/15swTFghLxUCfHKAeq9jMz) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Agaba Romantic](https://open.spotify.com/album/6XQ9hR7ECS9yJnq3kv7q4P) | 2:08 |

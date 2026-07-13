@@ -1,6 +1,6 @@
 {
   "description": "Top country hits you know and love! Cover: Morgan Wallen",
-  "num_followers": 690766,
+  "num_followers": 690898,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-07-10 04:01:30",
       "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 160901,
-      "name": "20 Cigarettes",
-      "url": "https://open.spotify.com/track/0YsIYFRoxkmEvbKCwTp0Tg"
-    },
-    {
-      "added_at": "2026-07-10 04:01:30",
-      "album": {
         "name": "Human The Double Album",
         "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 224213,
       "name": "'Til You Can't",
       "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
+    },
+    {
+      "added_at": "2026-07-10 04:01:30",
+      "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 160901,
+      "name": "20 Cigarettes",
+      "url": "https://open.spotify.com/track/0YsIYFRoxkmEvbKCwTp0Tg"
     },
     {
       "added_at": "2026-07-10 04:01:30",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-07-10 04:01:30",
       "album": {
-        "name": "Porch Light",
-        "url": "https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA"
-      },
-      "artists": [
-        {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
-        }
-      ],
-      "duration_ms": 184949,
-      "name": "Porch Light",
-      "url": "https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU"
-    },
-    {
-      "added_at": "2026-07-10 04:01:30",
-      "album": {
         "name": "Stereotype",
         "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 206106,
       "name": "She Had Me At Heads Carolina",
       "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
+    },
+    {
+      "added_at": "2026-07-10 04:01:30",
+      "album": {
+        "name": "Porch Light",
+        "url": "https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "duration_ms": 184949,
+      "name": "Porch Light",
+      "url": "https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU"
     },
     {
       "added_at": "2026-07-10 04:01:30",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-07-10 04:01:30",
       "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/5jcUel1E0hvk7kay5f3eh1"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 207878,
-      "name": "Traitor (Roles Reversed)",
-      "url": "https://open.spotify.com/track/69gC4UlxaDlNopZ0uBCuIj"
-    },
-    {
-      "added_at": "2026-07-10 04:01:30",
-      "album": {
         "name": "Backup Plan (feat. Luke Combs)",
         "url": "https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2026-07-10 04:01:30",
       "album": {
-        "name": "Mr. Saturday Night",
-        "url": "https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa"
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/5jcUel1E0hvk7kay5f3eh1"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 161200,
-      "name": "Your Heart Or Mine",
-      "url": "https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9"
+      "duration_ms": 207878,
+      "name": "Traitor (Roles Reversed)",
+      "url": "https://open.spotify.com/track/69gC4UlxaDlNopZ0uBCuIj"
     },
     {
       "added_at": "2026-07-10 04:01:30",
@@ -1327,6 +1311,22 @@
       "duration_ms": 222800,
       "name": "Think I'm In Love With You",
       "url": "https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa"
+    },
+    {
+      "added_at": "2026-07-10 04:01:30",
+      "album": {
+        "name": "Mr. Saturday Night",
+        "url": "https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 161200,
+      "name": "Your Heart Or Mine",
+      "url": "https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9"
     },
     {
       "added_at": "2026-07-10 04:01:30",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-07-10 04:01:30",
       "album": {
-        "name": "Rollin' Stone",
-        "url": "https://open.spotify.com/album/5ENChAFhgnJ4kpnLpIt3wB"
-      },
-      "artists": [
-        {
-          "name": "Blake Whiten",
-          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
-        }
-      ],
-      "duration_ms": 151943,
-      "name": "Rollin' Stone",
-      "url": "https://open.spotify.com/track/1CxoluXWMslZp5T89ravj3"
-    },
-    {
-      "added_at": "2026-07-10 04:01:30",
-      "album": {
         "name": "Bottle Rockets (feat. Hootie & The Blowfish)",
         "url": "https://open.spotify.com/album/5gXncoYdko6hXM08RQKgsB"
       },
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2026-07-10 04:01:30",
       "album": {
+        "name": "Rollin' Stone",
+        "url": "https://open.spotify.com/album/5ENChAFhgnJ4kpnLpIt3wB"
+      },
+      "artists": [
+        {
+          "name": "Blake Whiten",
+          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
+        }
+      ],
+      "duration_ms": 151943,
+      "name": "Rollin' Stone",
+      "url": "https://open.spotify.com/track/1CxoluXWMslZp5T89ravj3"
+    },
+    {
+      "added_at": "2026-07-10 04:01:30",
+      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 175026,
       "name": "Hell Of A View",
       "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
+    },
+    {
+      "added_at": "2026-07-10 04:01:30",
+      "album": {
+        "name": "White Horse",
+        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 267893,
+      "name": "White Horse",
+      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
     },
     {
       "added_at": "2026-07-10 04:01:30",
@@ -1523,22 +1539,6 @@
       "duration_ms": 171696,
       "name": "Misery",
       "url": "https://open.spotify.com/track/67kE1VBtwdcy2KughONFhY"
-    },
-    {
-      "added_at": "2026-07-10 04:01:30",
-      "album": {
-        "name": "White Horse",
-        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "White Horse",
-      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
     },
     {
       "added_at": "2026-07-10 04:01:30",

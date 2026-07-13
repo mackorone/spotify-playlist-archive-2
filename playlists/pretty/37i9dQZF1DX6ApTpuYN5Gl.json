@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 242707,
+  "num_followers": 242699,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -83,30 +83,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/5OeAiEg5TsF2tKhwewL951"
-      },
-      "artists": [
-        {
-          "name": "Nu Aspect",
-          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
-        },
-        {
-          "name": "Jamis",
-          "url": "https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 194107,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/3oVQAqfrzIg4S5pF74au4x"
       },
@@ -127,6 +103,30 @@
       "duration_ms": 134400,
       "name": "Echo",
       "url": "https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/5OeAiEg5TsF2tKhwewL951"
+      },
+      "artists": [
+        {
+          "name": "Nu Aspect",
+          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
+        },
+        {
+          "name": "Jamis",
+          "url": "https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 194107,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
+        "name": "Original Sin",
+        "url": "https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW"
+      },
+      "artists": [
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 171598,
+      "name": "Original Sin",
+      "url": "https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
         "name": "Fragments",
         "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 285093,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
-        "name": "Original Sin",
-        "url": "https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW"
-      },
-      "artists": [
-        {
-          "name": "SOFI TUKKER",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 171598,
-      "name": "Original Sin",
-      "url": "https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6"
     },
     {
       "added_at": "2024-08-01 10:59:15",

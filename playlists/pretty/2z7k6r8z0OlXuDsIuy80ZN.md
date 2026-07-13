@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 
 > ¡Los 40 principales éxitos de la radio musical en la única e inimitable lista de LOS40! Actualizamos cada sábado, tras el repaso a la nueva lista en Del 40 al 1 con Tony Aguilar\. Escucha a Taylor Swift, Rosalía, Rels B, HUNTR/X, y muchos más
 
-[LOS40](https://open.spotify.com/user/los40_spain) - 153,957 likes - 40 songs - 2 hr 7 min
+[LOS40](https://open.spotify.com/user/los40_spain) - 153,964 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 | 37 | [⁠LUCIÉRNAGAS](https://open.spotify.com/track/7wUntegNzggkzQ0hAI4RAk) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [TUTTO PASSA](https://open.spotify.com/album/7I5m6lJa5Erzjeh6LIgEL9) | 2:40 |
 | 38 | [Vulnerable \(feat\. Dani Fernández\)](https://open.spotify.com/track/2bN4zr5UMnLhdByPFxMwl6) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Vulnerable \(feat\. Dani Fernández\)](https://open.spotify.com/album/6uipZskshJV6txPUJrTFu2) | 3:13 |
 | 39 | [Algo de mí](https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Algo de mí](https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm) | 3:01 |
-| 40 | [Mentira](https://open.spotify.com/track/0i4sWDxoPeQBiSySgL5cnd) | [Daniela Blasco](https://open.spotify.com/artist/18Vhlc8r07wfrblTyfHEcg) | [Mentira](https://open.spotify.com/album/32e8CUDjoRpOjQ2pGHF0nF) | 2:38 |
+| 40 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 
-Snapshot ID: `AAAs6IXnkVVmzU3csa/oEz3bvRfnZxt+`
+Snapshot ID: `AAAs64EkaZG3ZactpurAr8Z6qGDsReIf`

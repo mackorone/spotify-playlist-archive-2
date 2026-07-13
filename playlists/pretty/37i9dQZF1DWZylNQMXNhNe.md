@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Katy da Voz e As Abusadas
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,134 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,135 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 43 | [como foi pra vc?](https://open.spotify.com/track/2ytDhsNAq1koytijhuTaO4) | [Totô de Babalong](https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x) | [como foi pra vc?](https://open.spotify.com/album/4LNAl7KuM6AOQkn6qFZmsJ) | 4:03 |
 | 44 | [quanto tempo tem o tempo?](https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [quanto tempo tem o tempo?](https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI) | 3:26 |
 | 45 | [Deixa a Gira Girar](https://open.spotify.com/track/4Qpj3YJynrgKwrZhNQqoOp) | [Sambaiana](https://open.spotify.com/artist/5gGjpgad4tcVWMv4mlOw7a), [Ju Moraes](https://open.spotify.com/artist/19P3N1zEBTIeW3I0cyVthZ), [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Deixa a Gira Girar](https://open.spotify.com/album/7ufhsTfziKNTbMmSyu8LAS) | 3:48 |
-| 46 | [Volta](https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G) | [Jáder](https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa), [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93) | [Volta](https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk) | 2:07 |
-| 47 | [CUSSY](https://open.spotify.com/track/4Hoc1S0s6cZtni6ghIytDX) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Gambiarra Chic, Pt\. 1](https://open.spotify.com/album/2wlQIZh68jjdSizM2CReLz) | 3:00 |
+| 46 | [CUSSY](https://open.spotify.com/track/4Hoc1S0s6cZtni6ghIytDX) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Gambiarra Chic, Pt\. 1](https://open.spotify.com/album/2wlQIZh68jjdSizM2CReLz) | 3:00 |
+| 47 | [Volta](https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G) | [Jáder](https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa), [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93) | [Volta](https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk) | 2:07 |
 | 48 | [Dilema](https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A) | [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97) | [Dilema](https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b) | 3:06 |
 | 49 | [MANIA \(oi amor, bom dia\)](https://open.spotify.com/track/1xjEboXOvVV1nkhdzueDfd) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [VADIAS IN LOVE](https://open.spotify.com/album/2EEAD31nCgaqX1jfjuXT2p) | 2:47 |
 | 50 | [Malícia](https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [NOVA ERA Part\. I](https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr) | 3:08 |

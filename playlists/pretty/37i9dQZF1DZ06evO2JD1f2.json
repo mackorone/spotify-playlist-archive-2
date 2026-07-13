@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 13590,
+  "num_followers": 13589,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAAatXDpRd4K+TvhLSRKq1Nn",
+  "snapshot_id": "alGHgAAAAAD+gl2sNcPXFjHp/nrps5Qm",
   "tracks": [
     {
       "added_at": null,
@@ -115,26 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 121479,
-      "name": "Back and Forth (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/2zeP2m00YmZFr36mOQCBuK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Real As It Gets (feat. EST Gee)",
         "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 192804,
       "name": "Real As It Gets (feat. EST Gee)",
       "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 121479,
+      "name": "Back and Forth (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/2zeP2m00YmZFr36mOQCBuK"
     },
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOT A CHANCE IN HELL",
-        "url": "https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS"
-      },
-      "artists": [
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 176842,
-      "name": "NUN LIKE MINE",
-      "url": "https://open.spotify.com/track/3tGXypM4uCqwXpgBjSy4hp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shiesty Season: Certified",
         "url": "https://open.spotify.com/album/2lTh3MtdESaC4jg5E82JEE"
       },
@@ -827,42 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 132501,
-      "name": "All I Know (feat. Pooh Shiesty)",
-      "url": "https://open.spotify.com/track/2z24gKxpLTBgi0CNuvwgyd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Toro",
-        "url": "https://open.spotify.com/album/5Toh6bfdNUnxAZHlTbe1b3"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 131187,
-      "name": "The King",
-      "url": "https://open.spotify.com/track/5L4xGFT1D0F9Pp2rL5oXos"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NOT A CHANCE IN HELL",
         "url": "https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS"
       },
@@ -876,9 +820,9 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 168000,
-      "name": "ROUNDS",
-      "url": "https://open.spotify.com/track/3QmJTLrr5VC2HWIPNckGX8"
+      "duration_ms": 176842,
+      "name": "NUN LIKE MINE",
+      "url": "https://open.spotify.com/track/3tGXypM4uCqwXpgBjSy4hp"
     },
     {
       "added_at": null,
@@ -923,6 +867,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Toro",
+        "url": "https://open.spotify.com/album/5Toh6bfdNUnxAZHlTbe1b3"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 131187,
+      "name": "The King",
+      "url": "https://open.spotify.com/track/5L4xGFT1D0F9Pp2rL5oXos"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 132501,
+      "name": "All I Know (feat. Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/2z24gKxpLTBgi0CNuvwgyd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOT A CHANCE IN HELL",
+        "url": "https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "ROUNDS",
+      "url": "https://open.spotify.com/track/3QmJTLrr5VC2HWIPNckGX8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAD",
         "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
       },
@@ -935,26 +935,6 @@
       "duration_ms": 139681,
       "name": "THE ONE & ONLY",
       "url": "https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breezy",
-        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 204533,
-      "name": "Hmhmm (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/0Tnw0FXl9CYNec5VsPN0y8"
     },
     {
       "added_at": null,
@@ -975,6 +955,26 @@
       "duration_ms": 141457,
       "name": "Spin",
       "url": "https://open.spotify.com/track/04ZrEsPyVGsahWXTegcO33"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breezy",
+        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 204533,
+      "name": "Hmhmm (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/0Tnw0FXl9CYNec5VsPN0y8"
     },
     {
       "added_at": null,

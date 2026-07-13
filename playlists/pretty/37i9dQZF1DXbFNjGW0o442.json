@@ -1,6 +1,6 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Marilina Bertoldi.",
-  "num_followers": 43920,
+  "num_followers": 43923,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "NOVIOS IMAGINARIOS",
-        "url": "https://open.spotify.com/album/5wODKDJLbCcI79XTka4k00"
-      },
-      "artists": [
-        {
-          "name": "BLAIR",
-          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
-        }
-      ],
-      "duration_ms": 284347,
-      "name": "NOVIOS IMAGINARIOS",
-      "url": "https://open.spotify.com/track/3cJZrt65UKu0QUK0k6P0mb"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Andrea Echeverri",
         "url": "https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 193000,
       "name": "Quedate",
       "url": "https://open.spotify.com/track/2GjwCmMjikAagFxYFITnMF"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "NOVIOS IMAGINARIOS",
+        "url": "https://open.spotify.com/album/5wODKDJLbCcI79XTka4k00"
+      },
+      "artists": [
+        {
+          "name": "BLAIR",
+          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
+        }
+      ],
+      "duration_ms": 284347,
+      "name": "NOVIOS IMAGINARIOS",
+      "url": "https://open.spotify.com/track/3cJZrt65UKu0QUK0k6P0mb"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "De Facto",
-        "url": "https://open.spotify.com/album/1hRlJMZZEZNu0ObbyL53k9"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "L\u00edneas En Hojas",
-      "url": "https://open.spotify.com/track/0aQducLdlpix3u5yL6MfYT"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Lucy Patan\u00e9",
         "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 246594,
       "name": "En Toneles",
       "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "De Facto",
+        "url": "https://open.spotify.com/album/1hRlJMZZEZNu0ObbyL53k9"
+      },
+      "artists": [
+        {
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "L\u00edneas En Hojas",
+      "url": "https://open.spotify.com/track/0aQducLdlpix3u5yL6MfYT"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Fin del Mundo",
-        "url": "https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 319743,
-      "name": "Fin del Mundo",
-      "url": "https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "general paz",
         "url": "https://open.spotify.com/album/4IA2B09XZkxSovqVhonkUR"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 169581,
       "name": "General Paz",
       "url": "https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Fin del Mundo",
+        "url": "https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 319743,
+      "name": "Fin del Mundo",
+      "url": "https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Arder",
-        "url": "https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1s Que Uno",
-          "url": "https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er"
-        }
-      ],
-      "duration_ms": 220249,
-      "name": "Tu Caminar",
-      "url": "https://open.spotify.com/track/0AikKCO53aUEgxvpjkNK9b"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Una Temporada en el Invierno",
         "url": "https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Hasta Abajo - Ep",
-        "url": "https://open.spotify.com/album/29alHfZaRhQyIYWv2Ug8mg"
+        "name": "Arder",
+        "url": "https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG"
       },
       "artists": [
         {
-          "name": "Violeta Castillo",
-          "url": "https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe"
+          "name": "M\u00e1s Que Uno",
+          "url": "https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er"
         }
       ],
-      "duration_ms": 345723,
-      "name": "Las Se\u00f1ales",
-      "url": "https://open.spotify.com/track/0SGP9BI4GBOCISPNlE51sJ"
+      "duration_ms": 220249,
+      "name": "Tu Caminar",
+      "url": "https://open.spotify.com/track/0AikKCO53aUEgxvpjkNK9b"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1135,6 +1119,22 @@
       "duration_ms": 245246,
       "name": "Piedra Marea Fuego",
       "url": "https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Hasta Abajo - Ep",
+        "url": "https://open.spotify.com/album/29alHfZaRhQyIYWv2Ug8mg"
+      },
+      "artists": [
+        {
+          "name": "Violeta Castillo",
+          "url": "https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe"
+        }
+      ],
+      "duration_ms": 345723,
+      "name": "Las Se\u00f1ales",
+      "url": "https://open.spotify.com/track/0SGP9BI4GBOCISPNlE51sJ"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Hoy No",
-        "url": "https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1"
-      },
-      "artists": [
-        {
-          "name": "Bala",
-          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
-        }
-      ],
-      "duration_ms": 127799,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Sola y Feliz",
         "url": "https://open.spotify.com/album/0LBHjan8S8zDznTrooHNgP"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 188861,
       "name": "Sola y Feliz",
       "url": "https://open.spotify.com/track/2VYFaG8DLK5YBVlqQouWgo"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Hoy No",
+        "url": "https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1"
+      },
+      "artists": [
+        {
+          "name": "Bala",
+          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
+        }
+      ],
+      "duration_ms": 127799,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "El lado sur de mi coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2Ds1yMcaZxlqq5qh3Uun8o"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Toussaint",
+          "url": "https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb"
+        }
+      ],
+      "duration_ms": 175235,
+      "name": "Te agradezco el amor",
+      "url": "https://open.spotify.com/track/46BaZ59np0gv09H31naITO"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Se Trata de Ti",
         "url": "https://open.spotify.com/album/6Gy7IKAAksUzkBcN6WrPTc"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 340856,
       "name": "Drowned",
       "url": "https://open.spotify.com/track/64Rh9igTKGRUMuCspuDvbi"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "El lado sur de mi coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2Ds1yMcaZxlqq5qh3Uun8o"
-      },
-      "artists": [
-        {
-          "name": "Cecilia Toussaint",
-          "url": "https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb"
-        }
-      ],
-      "duration_ms": 175235,
-      "name": "Te agradezco el amor",
-      "url": "https://open.spotify.com/track/46BaZ59np0gv09H31naITO"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Miedo, Amor y Vida - EP",
-        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
+        "name": "Mil Gritos Tiene la Noche, Vol. 1",
+        "url": "https://open.spotify.com/album/6JkIhyOobANHUF235OWntk"
       },
       "artists": [
         {
-          "name": "Ati Lane",
-          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
+          "name": "Afterlife",
+          "url": "https://open.spotify.com/artist/6AMwoQMEIgEiMDB006ERCm"
         }
       ],
-      "duration_ms": 216857,
-      "name": "La Oscuridad",
-      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
+      "duration_ms": 269305,
+      "name": "Infierno",
+      "url": "https://open.spotify.com/track/0Udd3k3sSgDtldeGzYt9YN"
     }
   ],
   "unique_name": "Rockeras",

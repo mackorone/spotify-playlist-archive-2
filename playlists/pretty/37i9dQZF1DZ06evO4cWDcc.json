@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 328176,
+  "num_followers": 328185,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAADWYeSQtppDD6XqwZbl9iJ1",
+  "snapshot_id": "alGHgAAAAADtN4uNFNsEyJCPD/lGD6MA",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "West Coast Seattle Boy: The Jimi Hendrix Anthology",
-        "url": "https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i"
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 35906,
-      "name": "Play That Riff - Anthology Version",
-      "url": "https://open.spotify.com/track/3tnvuCPlnWJ1g2gtzwB1y4"
+      "duration_ms": 130039,
+      "name": "Have You Ever Been (To Electric Ladyland)",
+      "url": "https://open.spotify.com/track/3Yh64aiu2ANBwDFztyPDkT"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 130039,
-      "name": "Have You Ever Been (To Electric Ladyland)",
-      "url": "https://open.spotify.com/track/3Yh64aiu2ANBwDFztyPDkT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "West Coast Seattle Boy: The Jimi Hendrix Anthology",
         "url": "https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 145146,
       "name": "Mercy, Mercy - Single/LP Version",
       "url": "https://open.spotify.com/track/0R8ftvBCBw2d9DylZKFJ1P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 249373,
+      "name": "Come On (Let the Good Times Roll)",
+      "url": "https://open.spotify.com/track/0KqHJXm4Z42fELkW83ZW0r"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+        "name": "West Coast Seattle Boy: The Jimi Hendrix Anthology",
+        "url": "https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 249373,
-      "name": "Come On (Let the Good Times Roll)",
-      "url": "https://open.spotify.com/track/0KqHJXm4Z42fELkW83ZW0r"
+      "duration_ms": 35906,
+      "name": "Play That Riff - Anthology Version",
+      "url": "https://open.spotify.com/track/3tnvuCPlnWJ1g2gtzwB1y4"
     },
     {
       "added_at": null,

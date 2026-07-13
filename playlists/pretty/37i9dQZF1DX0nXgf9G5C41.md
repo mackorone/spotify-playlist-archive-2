@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXgf9G5C41.md) - [plain]
 
 > A dive into Jersey Club's rise from regional to mainstream heights
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,055 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,070 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXgf9G5C41.md) - [plain]
 | 9 | [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 |
 | 10 | [Bus Stop \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/5X3dOilXRTEVqyRbZhM49U) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:56 |
 | 11 | [True Bestie \(feat\. Iconic Savvy\)](https://open.spotify.com/track/5njYiWKlMfU1HkOyetTRg8) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Iconic Savvy](https://open.spotify.com/artist/2rs4EKIuoLOqrH89wLZ2mC) | [MAID OF HONOUR](https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk) | 2:28 |
-| 12 | [Arch Ya Back](https://open.spotify.com/track/1IRvXWVnYuWTvs3oDTkwAi) | [Prod Jay48](https://open.spotify.com/artist/6x5eCJvjLLSJmsGzpa0ihp), [Obvdiah](https://open.spotify.com/artist/2W8iTgaeW7GSMP7GWeSeiM), [MvnnyMusik](https://open.spotify.com/artist/1cIi2cw0EgmYbzQyQmsQHp) | [Arch Ya Back](https://open.spotify.com/album/1m2zDjLlKHbCLpX7d3lk58) | 1:49 |
+| 12 | [Arch Ya Back](https://open.spotify.com/track/1IRvXWVnYuWTvs3oDTkwAi) | [Prod Jay48](https://open.spotify.com/artist/6x5eCJvjLLSJmsGzpa0ihp), [Vybez Music Group](https://open.spotify.com/artist/2zEODMVYbwqkhNgYSmfkuI), [Obvdiah](https://open.spotify.com/artist/2W8iTgaeW7GSMP7GWeSeiM), [MvnnyMusik](https://open.spotify.com/artist/1cIi2cw0EgmYbzQyQmsQHp) | [Arch Ya Back](https://open.spotify.com/album/1m2zDjLlKHbCLpX7d3lk58) | 1:49 |
 | 13 | [DO IT AGAIN \(feat\. 2Rare\)](https://open.spotify.com/track/5DBD1TTl06dvp3WqPEY5Pj) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Cottonwood 2](https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP) | 3:33 |
 | 14 | [Strut](https://open.spotify.com/track/0KpIXnC0uUnlGZDhwISGzc) | [Ayanna Ife](https://open.spotify.com/artist/06RpzoM1Ww2pvhWLMeRRe1), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [Strut](https://open.spotify.com/album/6gOk1NGn6qk3ONCSO42fRL) | 2:53 |
 | 15 | [Don’t hide](https://open.spotify.com/track/6yJIO8264hq1hCbBLU0C0X) | [So Supa](https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP) | [Supa vs Sligga](https://open.spotify.com/album/3GdWSIpfD42ZQMiNVg6Eu7) | 1:50 |

@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Kold AF & ODUMODUBLVCK",
-  "num_followers": 112181,
+  "num_followers": 112196,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -359,26 +359,6 @@
     {
       "added_at": "2026-07-10 00:01:33",
       "album": {
-        "name": "Ei voi (feat. Luwa.Mp4)",
-        "url": "https://open.spotify.com/album/2hdZSRF3c42AzLGRrCuvDG"
-      },
-      "artists": [
-        {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
-        },
-        {
-          "name": "Luwa.Mp4",
-          "url": "https://open.spotify.com/artist/6CS6NjMmo93ligNiiZ97LZ"
-        }
-      ],
-      "duration_ms": 190971,
-      "name": "Ei voi (feat. Luwa.Mp4)",
-      "url": "https://open.spotify.com/track/6xpZg3sfg49gNihQZGLsl1"
-    },
-    {
-      "added_at": "2026-07-10 00:01:33",
-      "album": {
         "name": "Out The Mud",
         "url": "https://open.spotify.com/album/2zUbYr0EsC9FcatnR2AT3A"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 194307,
       "name": "Out The Mud",
       "url": "https://open.spotify.com/track/0ew3fsc3ljIZlb46OeTKJs"
+    },
+    {
+      "added_at": "2026-07-10 00:01:33",
+      "album": {
+        "name": "Ei voi (feat. Luwa.Mp4)",
+        "url": "https://open.spotify.com/album/2hdZSRF3c42AzLGRrCuvDG"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        },
+        {
+          "name": "Luwa.Mp4",
+          "url": "https://open.spotify.com/artist/6CS6NjMmo93ligNiiZ97LZ"
+        }
+      ],
+      "duration_ms": 190971,
+      "name": "Ei voi (feat. Luwa.Mp4)",
+      "url": "https://open.spotify.com/track/6xpZg3sfg49gNihQZGLsl1"
     },
     {
       "added_at": "2026-07-10 00:01:33",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-07-10 00:01:33",
       "album": {
-        "name": "Blas\u00e9",
-        "url": "https://open.spotify.com/album/7B7V3zfuIULU6nXWmvgf6N"
-      },
-      "artists": [
-        {
-          "name": "Anabel Rose",
-          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
-        }
-      ],
-      "duration_ms": 175422,
-      "name": "Blas\u00e9",
-      "url": "https://open.spotify.com/track/59wNMcbn0WWsQj5TnGEyrj"
-    },
-    {
-      "added_at": "2026-07-10 00:01:33",
-      "album": {
         "name": "PRETTY WOMAN (WICKED)",
         "url": "https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 199487,
       "name": "PRETTY WOMAN (WICKED)",
       "url": "https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd"
+    },
+    {
+      "added_at": "2026-07-10 00:01:33",
+      "album": {
+        "name": "Blas\u00e9",
+        "url": "https://open.spotify.com/album/7B7V3zfuIULU6nXWmvgf6N"
+      },
+      "artists": [
+        {
+          "name": "Anabel Rose",
+          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
+        }
+      ],
+      "duration_ms": 175422,
+      "name": "Blas\u00e9",
+      "url": "https://open.spotify.com/track/59wNMcbn0WWsQj5TnGEyrj"
     },
     {
       "added_at": "2026-07-10 00:01:33",
@@ -1067,22 +1067,18 @@
     {
       "added_at": "2026-07-10 00:01:33",
       "album": {
-        "name": "Para Para",
-        "url": "https://open.spotify.com/album/4GfU2WhBitkhYa0MaDG93q"
+        "name": "Little Us",
+        "url": "https://open.spotify.com/album/2LV09CJsc3g7pf5IiODyB4"
       },
       "artists": [
         {
-          "name": "Somadina",
-          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
-        },
-        {
-          "name": "Le Mav",
-          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
+          "name": "EKENE",
+          "url": "https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP"
         }
       ],
-      "duration_ms": 147744,
-      "name": "Para Para",
-      "url": "https://open.spotify.com/track/2hsEI2Au5dxV6xIi2fDZbu"
+      "duration_ms": 184299,
+      "name": "Feedback",
+      "url": "https://open.spotify.com/track/5LpR9m05PvJreI3Ze70Rqf"
     },
     {
       "added_at": "2026-07-10 00:01:33",
@@ -1099,6 +1095,26 @@
       "duration_ms": 211428,
       "name": "Bad Decision",
       "url": "https://open.spotify.com/track/7BkG45C1yI14XPRkGQckqo"
+    },
+    {
+      "added_at": "2026-07-10 00:01:33",
+      "album": {
+        "name": "Para Para",
+        "url": "https://open.spotify.com/album/4GfU2WhBitkhYa0MaDG93q"
+      },
+      "artists": [
+        {
+          "name": "Somadina",
+          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
+        },
+        {
+          "name": "Le Mav",
+          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
+        }
+      ],
+      "duration_ms": 147744,
+      "name": "Para Para",
+      "url": "https://open.spotify.com/track/2hsEI2Au5dxV6xIi2fDZbu"
     },
     {
       "added_at": "2026-07-10 00:01:33",
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2026-07-10 00:01:33",
       "album": {
-        "name": "Sisi Eko",
-        "url": "https://open.spotify.com/album/3wDRYY88P1rIqM2iTKDTEa"
-      },
-      "artists": [
-        {
-          "name": "DETO BLACK",
-          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
-        }
-      ],
-      "duration_ms": 159416,
-      "name": "Sisi Eko",
-      "url": "https://open.spotify.com/track/0iPX2MzMxXjQxT3Bcu3W5J"
-    },
-    {
-      "added_at": "2026-07-10 00:01:33",
-      "album": {
         "name": "Popstar Party",
         "url": "https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG"
       },
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2026-07-10 00:01:33",
       "album": {
-        "name": "Little Us",
-        "url": "https://open.spotify.com/album/2LV09CJsc3g7pf5IiODyB4"
+        "name": "Sisi Eko",
+        "url": "https://open.spotify.com/album/3wDRYY88P1rIqM2iTKDTEa"
       },
       "artists": [
         {
-          "name": "EKENE",
-          "url": "https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP"
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
         }
       ],
-      "duration_ms": 184299,
-      "name": "Feedback",
-      "url": "https://open.spotify.com/track/5LpR9m05PvJreI3Ze70Rqf"
+      "duration_ms": 159416,
+      "name": "Sisi Eko",
+      "url": "https://open.spotify.com/track/0iPX2MzMxXjQxT3Bcu3W5J"
     },
     {
       "added_at": "2026-07-10 00:01:33",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-07-10 00:01:33",
       "album": {
-        "name": "Sex on the Beach",
-        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 171205,
-      "name": "Sex on the Beach",
-      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
-    },
-    {
-      "added_at": "2026-07-10 00:01:33",
-      "album": {
         "name": "LUCKY UU",
         "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 186818,
       "name": "The Midnight Wanderer",
       "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
+    },
+    {
+      "added_at": "2026-07-10 00:01:33",
+      "album": {
+        "name": "Sex on the Beach",
+        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 171205,
+      "name": "Sex on the Beach",
+      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
     },
     {
       "added_at": "2026-07-10 00:01:33",
@@ -1343,26 +1343,6 @@
       "duration_ms": 192285,
       "name": "Running",
       "url": "https://open.spotify.com/track/2qWaoTUBcVXXA1QgM5ODLc"
-    },
-    {
-      "added_at": "2026-07-10 00:01:33",
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/25sxivXOQ0WZadZneVC0Vm"
-      },
-      "artists": [
-        {
-          "name": "Iver Rivers",
-          "url": "https://open.spotify.com/artist/2wlIW5379OPhXjPVdEl061"
-        },
-        {
-          "name": "PD",
-          "url": "https://open.spotify.com/artist/5ul0sPH3QadTyY5V3EYYbS"
-        }
-      ],
-      "duration_ms": 122033,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/4lWhQA6X4KNTRSQmhpwIN5"
     },
     {
       "added_at": "2026-07-10 00:01:33",
@@ -1395,6 +1375,26 @@
       "duration_ms": 176326,
       "name": "Whine Am",
       "url": "https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx"
+    },
+    {
+      "added_at": "2026-07-10 00:01:33",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/25sxivXOQ0WZadZneVC0Vm"
+      },
+      "artists": [
+        {
+          "name": "Iver Rivers",
+          "url": "https://open.spotify.com/artist/2wlIW5379OPhXjPVdEl061"
+        },
+        {
+          "name": "PD",
+          "url": "https://open.spotify.com/artist/5ul0sPH3QadTyY5V3EYYbS"
+        }
+      ],
+      "duration_ms": 122033,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4lWhQA6X4KNTRSQmhpwIN5"
     },
     {
       "added_at": "2026-07-10 00:01:33",

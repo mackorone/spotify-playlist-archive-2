@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,153 songs - 3 day 21 hr 51 min
+1,154 songs - 3 day 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -783,7 +783,7 @@
 | [Pamparis](https://open.spotify.com/track/7irDOF7IcDhfoQ14kFdpOu) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Pampa EP](https://open.spotify.com/album/10LQNgzRkFqvJwFhKOxTjB) | 8:11 | 2022-02-25 | 2022-07-27 |
 | [Pangea \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/1w80DqxaVfyjXaIo4nL3wr) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Pangea](https://open.spotify.com/album/4xc2sZ2CFUKNLdhuivcP0o) | 4:01 | 2024-03-22 | 2024-09-12 |
 | [Pans Of Death](https://open.spotify.com/track/7xcyrOG8Hx9qHbf7JRx31T) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [AD02: Pans Of Death / Rounds](https://open.spotify.com/album/4d74veTXh1r6jtpLaH1fNL) | 5:20 | 2025-08-15 |  |
-| [Papele](https://open.spotify.com/track/1KgnEtrsijfpDhGO7Sl63M) | [Lanns](https://open.spotify.com/artist/2alKnU6Zf9XMBnqbMRSY10) | [Papele](https://open.spotify.com/album/1svm8nghOHjB2b2sBQTtmA) | 3:31 | 2026-07-10 |  |
+| [Papele](https://open.spotify.com/track/1KgnEtrsijfpDhGO7Sl63M) | [Lanns](https://open.spotify.com/artist/2alKnU6Zf9XMBnqbMRSY10) | [Papele](https://open.spotify.com/album/1svm8nghOHjB2b2sBQTtmA) | 3:31 | 2026-07-10 | 2026-07-13 |
 | [Paradise \- Chambord Remix](https://open.spotify.com/track/5RzQkSgX1TjGUtnzgFOkzY) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ) | [Paradise \(Chambord Remix\)](https://open.spotify.com/album/4rHpK2TRa26iJnqVDgc9Q5) | 4:17 | 2024-04-26 | 2024-06-29 |
 | [PARTYGYAL](https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [PARTYGYAL](https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty) | 2:47 | 2026-02-27 |  |
 | [Pastel](https://open.spotify.com/track/0QWG9OtA0oHnpQH0iCxicr) | [Theo Gramal](https://open.spotify.com/artist/2cUMjbWPmVjM6hHs18dYbc) | [Pastel](https://open.spotify.com/album/7GORODzuiM1sFSosuxQL5v) | 6:11 | 2024-01-19 | 2024-01-27 |
@@ -1027,6 +1027,7 @@
 | [Tijuana \- Vintage Culture Remix](https://open.spotify.com/track/2WJhtbWwlKny2SOzT58JRD) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Temple Of Dreams \(Remixes Part 1\)](https://open.spotify.com/album/7GBwLnpUMuXeQe1phHikWC) | 3:51 | 2023-08-25 | 2023-09-15 |
 | [Tijuana \- Vintage Culture Remix](https://open.spotify.com/track/6XzYPtLcf1pVmjZ1y2k5T0) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Temple Of Dreams \(Remixes Part 1\)](https://open.spotify.com/album/50foag5P06HSWOkVrnZg33) | 3:51 | 2023-09-15 | 2024-04-19 |
 | [Tik Tak](https://open.spotify.com/track/08Tj1ZcFC7UgmXmTf00iov) | [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Gkat](https://open.spotify.com/artist/4CX46ZO686NvuigcYb3UVD) | [Tik Tak](https://open.spotify.com/album/5NoroFqrKDMCxdjpdN4N38) | 2:55 | 2026-04-13 | 2026-06-21 |
+| [Tiki Tiki 2.0](https://open.spotify.com/track/0abYF61EsGbxEOuO57OvxF) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw), [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ) | [Tiki Tiki](https://open.spotify.com/album/0iGop2RKLCPDQ8Ts3cIHD9) | 3:10 | 2026-07-10 |  |
 | [Time](https://open.spotify.com/track/4jXxLFK9tQ800pJUIZmqLM) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl) | [Time](https://open.spotify.com/album/11UtFfgwaQZOF9weJbgTyr) | 4:18 | 2023-03-24 | 2023-05-09 |
 | [Time \- Edit](https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Time](https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp) | 2:04 | 2024-04-26 | 2025-01-11 |
 | [Timeless](https://open.spotify.com/track/3sdKayfObt6VePZL7AhiU5) | [Ajna](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Chelsea Como](https://open.spotify.com/artist/5LjlABsYnzlQCHIqAgK2Ac) | [Timeless](https://open.spotify.com/album/3LOuosVLxpQ5k5Fs6TDj3z) | 6:16 | 2026-01-30 |  |

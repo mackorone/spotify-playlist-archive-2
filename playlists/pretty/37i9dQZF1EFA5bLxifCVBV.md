@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172 likes - 157 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 173 likes - 157 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 90 | [Come Back Little Genie](https://open.spotify.com/track/35w06UlqiwoB3oKGQiYTz5) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 1:48 |
 | 91 | [Monkey in the Mango Tree \(From "Jamaica"\)](https://open.spotify.com/track/2e2fDXDJp5VzDKgPCQXLcV) | [Cy Coleman](https://open.spotify.com/artist/0RRSSYRHmBxQXRGj2KBO8L), [Skeeter Best](https://open.spotify.com/artist/3AyFUxfuZMSclzNPUXOFYh), [Aaron Bell](https://open.spotify.com/artist/2C4GwKBbDeAiRsvObIeWJS), [Romeo Penque](https://open.spotify.com/artist/29U83154MYdAnCmh6VJp1n), [Osie Johnson](https://open.spotify.com/artist/2CYAlie3PicoM8mtJ5PekE), [Ray Mosca](https://open.spotify.com/artist/41zU5oECx5IdTMVWOrzC7u) | [A Jazzman's Broadway](https://open.spotify.com/album/4Mgs8tPCQyNVfxvpTDx7Zs) | 2:15 |
 | 92 | [Prologue](https://open.spotify.com/track/3oQNtgqaAHBs8AFrfJRErL) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:35 |
-| 93 | [Incompatibility](https://open.spotify.com/track/5fb44pZicDEcOhdlCkWjQ9) | [Ricardo Montalban](https://open.spotify.com/artist/1I7f2VtT0KjfvYhZCz1vG1), [Augustine Rios](https://open.spotify.com/artist/5GSp5Dj19TpeH6ajec03bC), [Jamaica Ensemble](https://open.spotify.com/artist/2PrILzqFQnPyVpy19oWBXm) | [Jamaica \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aNrKWJGmEJyFld2QleeI7) | 2:51 |
-| 94 | [Never Be\-Devil the Devil](https://open.spotify.com/track/3aiAhR8kQMlHNJlJIDOWof) | [Cyril Ritchard](https://open.spotify.com/artist/3TtlRsQFFJ7EA3fEKURspr) | [The Happiest Girl in the World \(Original Broadway Cast Recording\)](https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C) | 1:51 |
+| 93 | [Never Be\-Devil the Devil](https://open.spotify.com/track/3aiAhR8kQMlHNJlJIDOWof) | [Cyril Ritchard](https://open.spotify.com/artist/3TtlRsQFFJ7EA3fEKURspr) | [The Happiest Girl in the World \(Original Broadway Cast Recording\)](https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C) | 1:51 |
+| 94 | [Incompatibility](https://open.spotify.com/track/5fb44pZicDEcOhdlCkWjQ9) | [Ricardo Montalban](https://open.spotify.com/artist/1I7f2VtT0KjfvYhZCz1vG1), [Augustine Rios](https://open.spotify.com/artist/5GSp5Dj19TpeH6ajec03bC), [Jamaica Ensemble](https://open.spotify.com/artist/2PrILzqFQnPyVpy19oWBXm) | [Jamaica \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aNrKWJGmEJyFld2QleeI7) | 2:51 |
 | 95 | [Wild Red Cherry River](https://open.spotify.com/track/1W4DIn3g2fWCQrv5o1eXd3) | [Philip Springer](https://open.spotify.com/artist/0lgHB1AXXpT8hVY6WUDJcQ) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 3:08 |
 | 96 | [The Lullaby League](https://open.spotify.com/track/7zhfCPO28DolprDzfFNw26) | [Lorraine Bridges](https://open.spotify.com/artist/11dQ5fkYEEb5L29ZWUSgZQ), [Betty Rome](https://open.spotify.com/artist/0Ba3mNylLdK0plFIjMzdUY), [Carol Tevis](https://open.spotify.com/artist/0g8MHpGh8R1zF95HCoyECj) | [The Wizard of Oz \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KzyelryS6nT7x2vDOxPlF) | 0:23 |
 | 97 | [In Your Own Quiet Way](https://open.spotify.com/track/2SnR0Rq9PHrV8abh7Cgand) | [Dick Hyman](https://open.spotify.com/artist/5RRGjsMRTbm0kqvZcFplZT) | [Hollywood Songbook](https://open.spotify.com/album/5kyzmyNGPGm8yw3Hw3xJFY) | 2:26 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 156 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
 | 157 | [Inner\-Office Scene](https://open.spotify.com/track/1Gfn9iSf9bsNqUlAUbfeOT) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:26 |
 
-Snapshot ID: `AcWmnAAAAABFz7z9LJU0ULS5J2gtWDMf`
+Snapshot ID: `AcWsPAAAAADhuQamwGmSKwIytupgZG10`

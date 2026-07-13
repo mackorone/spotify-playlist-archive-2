@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 597856,
+  "num_followers": 597876,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAABSzEDcCaxLkNsYfmCAZ3xk",
+  "snapshot_id": "alGHgAAAAAA/Cb+rgAKWsKmKyD75XXfN",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits III",
-        "url": "https://open.spotify.com/album/2BY5L3fpnj4pEduW3T1qN7"
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
       },
       "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
         {
           "name": "George Michael",
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 307360,
-      "name": "Somebody To Love - Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992",
-      "url": "https://open.spotify.com/track/3g8OM1tEhwNQqsXDHhVbQQ"
+      "duration_ms": 310906,
+      "name": "Miss Sarajevo",
+      "url": "https://open.spotify.com/track/6x5pI6n5feaWcP8jCdTk3E"
     },
     {
       "added_at": null,
@@ -371,18 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs From The Last Century",
-        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+        "name": "Greatest Hits III",
+        "url": "https://open.spotify.com/album/2BY5L3fpnj4pEduW3T1qN7"
       },
       "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
         {
           "name": "George Michael",
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 310906,
-      "name": "Miss Sarajevo",
-      "url": "https://open.spotify.com/track/6x5pI6n5feaWcP8jCdTk3E"
+      "duration_ms": 307360,
+      "name": "Somebody To Love - Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992",
+      "url": "https://open.spotify.com/track/3g8OM1tEhwNQqsXDHhVbQQ"
     },
     {
       "added_at": null,
@@ -667,18 +667,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+        "name": "Always",
+        "url": "https://open.spotify.com/album/1QiwBjsjHlnfFSKumhozCu"
       },
       "artists": [
         {
+          "name": "Waze & Odyssey",
+          "url": "https://open.spotify.com/artist/0D9AnJzAnYyu1kfJFQDY5d"
+        },
+        {
           "name": "George Michael",
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Tommy Theo",
+          "url": "https://open.spotify.com/artist/3FIKR274tI6Xk3uw9Dqu5B"
         }
       ],
-      "duration_ms": 306120,
-      "name": "Monkey - Remastered",
-      "url": "https://open.spotify.com/track/2nzPzkGP9QSZ1lqvXTfyzT"
+      "duration_ms": 186300,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4"
     },
     {
       "added_at": null,
@@ -715,30 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/1QiwBjsjHlnfFSKumhozCu"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
       "artists": [
         {
-          "name": "Waze & Odyssey",
-          "url": "https://open.spotify.com/artist/0D9AnJzAnYyu1kfJFQDY5d"
-        },
-        {
           "name": "George Michael",
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        },
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "Tommy Theo",
-          "url": "https://open.spotify.com/artist/3FIKR274tI6Xk3uw9Dqu5B"
         }
       ],
-      "duration_ms": 186300,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4"
+      "duration_ms": 306120,
+      "name": "Monkey - Remastered",
+      "url": "https://open.spotify.com/track/2nzPzkGP9QSZ1lqvXTfyzT"
     },
     {
       "added_at": null,

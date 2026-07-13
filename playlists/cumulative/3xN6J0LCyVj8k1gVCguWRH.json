@@ -73719,6 +73719,24 @@
     },
     {
       "album": {
+        "name": "Alquimia",
+        "url": "https://open.spotify.com/album/0rb1qG6DI5JisDMULKdwH8"
+      },
+      "artists": [
+        {
+          "name": "Gus Ormo",
+          "url": "https://open.spotify.com/artist/1UwYKOt6E0pj3bzIhbTqFh"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201342,
+      "name": "Obra Maestra",
+      "url": "https://open.spotify.com/track/10xc0lox0r7D3OrEhZT4Vr"
+    },
+    {
+      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/3I2dpWdCd38ArJ7xbpT0x8"
       },

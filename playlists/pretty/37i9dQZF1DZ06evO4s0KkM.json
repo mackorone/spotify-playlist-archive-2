@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 126931,
+  "num_followers": 126943,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAA0ZtRRM5D84KVuzcI5apBC",
+  "snapshot_id": "alGHgAAAAAAWm8SkacJjcYPjYj9I+s1r",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 231655,
-      "name": "Queen Of Suffolk County",
-      "url": "https://open.spotify.com/track/2QkLpiSHHSwxIedR20IYIW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
       },
@@ -539,6 +523,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 231655,
+      "name": "Queen Of Suffolk County",
+      "url": "https://open.spotify.com/track/2QkLpiSHHSwxIedR20IYIW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The People (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 173897,
+      "name": "The Big Man",
+      "url": "https://open.spotify.com/track/5hIsGzPEQzRHFvqdwtSAaS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Meanest of Times (Limited Edition)",
         "url": "https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX"
       },
@@ -551,6 +567,22 @@
       "duration_ms": 196693,
       "name": "God Willing",
       "url": "https://open.spotify.com/track/6amL7Sov9asiwtCWN3gj8p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 139152,
+      "name": "Finnegan's Wake",
+      "url": "https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE"
     },
     {
       "added_at": null,
@@ -587,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Or Die",
-        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 139152,
-      "name": "Finnegan's Wake",
-      "url": "https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For The People (Expanded Edition)",
         "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
       },
@@ -610,11 +626,15 @@
         {
           "name": "Dropkick Murphys",
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "The Mary Wallopers",
+          "url": "https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2"
         }
       ],
-      "duration_ms": 173897,
-      "name": "The Big Man",
-      "url": "https://open.spotify.com/track/5hIsGzPEQzRHFvqdwtSAaS"
+      "duration_ms": 207017,
+      "name": "Bury the Bones",
+      "url": "https://open.spotify.com/track/5wdLUPPInvXkpWKGpgqjry"
     },
     {
       "added_at": null,
@@ -667,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The People (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        },
-        {
-          "name": "The Mary Wallopers",
-          "url": "https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2"
-        }
-      ],
-      "duration_ms": 207017,
-      "name": "Bury the Bones",
-      "url": "https://open.spotify.com/track/5wdLUPPInvXkpWKGpgqjry"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn Up That Dial (Expanded Version)",
         "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
       },
@@ -719,6 +719,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "Broken Hymns",
+      "url": "https://open.spotify.com/track/2OMqDQENvS5CF7UN0wQJT4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "11 Short Stories of Pain & Glory",
+        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 202080,
+      "name": "You'll Never Walk Alone",
+      "url": "https://open.spotify.com/track/6CGlNIDb7YCC9wA2L5I9NT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
       },
@@ -747,38 +779,6 @@
       "duration_ms": 166973,
       "name": "Famous For Nothing",
       "url": "https://open.spotify.com/track/01EUW7oVCUNwnBV1yRb3dE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "11 Short Stories of Pain & Glory",
-        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 202080,
-      "name": "You'll Never Walk Alone",
-      "url": "https://open.spotify.com/track/6CGlNIDb7YCC9wA2L5I9NT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Going Out In Style",
-        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 303333,
-      "name": "Broken Hymns",
-      "url": "https://open.spotify.com/track/2OMqDQENvS5CF7UN0wQJT4"
     },
     {
       "added_at": null,

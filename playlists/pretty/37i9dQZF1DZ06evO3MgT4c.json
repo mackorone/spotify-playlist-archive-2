@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 440685,
+  "num_followers": 440702,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAABFkPOII1L5yNu6vPDzATMI",
+  "snapshot_id": "alGHgAAAAADENVsnR8P0uZV2qi9+0U9h",
   "tracks": [
     {
       "added_at": null,
@@ -554,11 +554,15 @@
         {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 241790,
-      "name": "Modern Day",
-      "url": "https://open.spotify.com/track/2Igem6Q4sfvXGJ3JkG7Baw"
+      "duration_ms": 212520,
+      "name": "Picasso (feat. Future)",
+      "url": "https://open.spotify.com/track/2kPlWEOm2tQlaZRE01IbBQ"
     },
     {
       "added_at": null,
@@ -619,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Label II",
+        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 207682,
+      "name": "Freak No More",
+      "url": "https://open.spotify.com/track/4iv2W97CTO48UlM22dZeC8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peek A Boo",
         "url": "https://open.spotify.com/album/4lPh818nqtqiPwqOGEGA1b"
       },
@@ -635,22 +655,6 @@
       "duration_ms": 247612,
       "name": "Peek A Boo",
       "url": "https://open.spotify.com/track/1iTWoKAdilGEmit6xhQZje"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Label II",
-        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 207682,
-      "name": "Freak No More",
-      "url": "https://open.spotify.com/track/4iv2W97CTO48UlM22dZeC8"
     },
     {
       "added_at": null,

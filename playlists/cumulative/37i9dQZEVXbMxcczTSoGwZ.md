@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-3,360 songs - 7 day 7 hr 58 min
+3,361 songs - 7 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,6 +415,7 @@
 | [Cry Your Heart Out](https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 4:15 | 2021-11-21 | 2021-11-27 |
 | [Curtains](https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:44 | 2023-05-06 | 2023-05-08 |
 | [CV](https://open.spotify.com/track/1mSn919G9lGy6kVHDcYoWo) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq) | [LIMBO](https://open.spotify.com/album/35eRCbiaVPNOpSvleCo6JZ) | 3:39 | 2022-12-10 | 2023-01-01 |
+| [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 | 2026-07-12 |  |
 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-12 | 2025-07-14 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-27 | 2024-01-03 |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-14 | 2024-09-22 |
@@ -649,7 +650,7 @@
 | [Eurosummer \- Girls Trip](https://open.spotify.com/track/53fyIvbeN7rfLK1GIZNLDL) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 2:50 | 2026-05-02 | 2026-05-04 |
 | [Even In Arcadia](https://open.spotify.com/track/4IixOTCzviJgIigKleiVbo) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:28 | 2025-05-10 | 2025-05-12 |
 | [Everest](https://open.spotify.com/track/4QEbyFnMJDt2HSmvbCmfQH) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Everest](https://open.spotify.com/album/6ZEHrJ9v2eGA2MCpxkwwXx) | 3:04 | 2026-01-03 | 2026-05-24 |
-| [Everest](https://open.spotify.com/track/1LF1fGMaubONQUGWKFlP5v) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Maailma on mun](https://open.spotify.com/album/6fZNN1JBw3ZgZtHElXmdtX) | 3:05 | 2026-05-23 | 2026-07-12 |
+| [Everest](https://open.spotify.com/track/1LF1fGMaubONQUGWKFlP5v) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Maailma on mun](https://open.spotify.com/album/6fZNN1JBw3ZgZtHElXmdtX) | 3:05 | 2026-05-23 |  |
 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2026-01-02 | 2026-01-15 |
 | [Everyday](https://open.spotify.com/track/0ywzYbY0bayTTwL8Ldg7WD) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Traveller](https://open.spotify.com/album/0YmXsxNobUAYohMk3qFSea) | 2:49 | 2023-07-01 | 2023-07-09 |
 | [Everything Beautiful](https://open.spotify.com/track/4J8fwjBs0k3KGHVMRJXgOV) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Everything Beautiful](https://open.spotify.com/album/45QLNSxcsMm59D8KHDjj00) | 2:20 | 2022-07-02 | 2022-07-10 |
@@ -836,7 +837,7 @@
 | [Heavy](https://open.spotify.com/track/1hNq0VwF1aVJbp4YqJKVm7) | [Krissemane](https://open.spotify.com/artist/4iECab0POmzwLrf28xg7cb) | [Heavy](https://open.spotify.com/album/4OXISxSjwftsvWsEWpZuBW) | 3:24 | 2023-08-07 | 2023-09-03 |
 | [Heavy Is the Crown](https://open.spotify.com/track/2HBBM75Xv3o2Mqdyh1NcM0) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 2:47 | 2024-11-16 | 2024-11-19 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 | 2024-10-06 |
-| [Hei me pärjätään](https://open.spotify.com/track/1i91kD4peUNpgayZKEpNiA) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [SANNI](https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze) | [Vitun hyvää joulua](https://open.spotify.com/album/7nCIdIs3qaSAu0MA6nP4q7) | 2:54 | 2026-07-11 |  |
+| [Hei me pärjätään](https://open.spotify.com/track/1i91kD4peUNpgayZKEpNiA) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [SANNI](https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze) | [Vitun hyvää joulua](https://open.spotify.com/album/7nCIdIs3qaSAu0MA6nP4q7) | 2:54 | 2026-07-11 | 2026-07-13 |
 | [Hei mummo](https://open.spotify.com/track/1gWJ4zaBSkyICr7wTEygS9) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Tulkoon joulu](https://open.spotify.com/album/0VDkoo0kc2g5TuTDSxDffP) | 3:18 | 2021-12-07 | 2025-12-28 |
 | [Hei rakas](https://open.spotify.com/track/2XaewhXngZd2Zi4ijFIkK0) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Draaman kaari viehättää](https://open.spotify.com/album/2y7VeG13zC99aXEDF60IgJ) | 3:31 | 2021-03-27\* | 2023-09-27 |
 | [Hei Supermario](https://open.spotify.com/track/7mibsbnXQyI4HuWEBYXuqB) | [Samuell](https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV) | [Hei Supermario/Huudan taas](https://open.spotify.com/album/4ps7AmlwOCpvYL6Mi9jVSl) | 2:18 | 2026-03-28 |  |
@@ -1094,7 +1095,7 @@
 | [Joku jonka tunsin](https://open.spotify.com/track/1241eeAveOKQYMW94FMNrx) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [\#ULTRA](https://open.spotify.com/album/1A588xJ5eLYTYa1emn00iG) | 2:59 | 2024-06-08 | 2024-06-16 |
 | [Joku jota oisin voinut rakastaa](https://open.spotify.com/track/0Gq3kMXV32MgtKGYp0xmFK) | [Vilma Alina](https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19) | [True Crime](https://open.spotify.com/album/1vBXMk1BcLIdFd2LrWGJQM) | 3:35 | 2021-08-29 | 2021-09-12 |
 | [Joku muu \- boi95 Remix](https://open.spotify.com/track/0UpJKWq0Of1qjyjW8v9yb9) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV), [boi95](https://open.spotify.com/artist/0JS5L4qzcTlBgE26Xsk2SN) | [Joku muu \(Remix\)](https://open.spotify.com/album/1ykEh7OaHRsB2XJmPUsnH0) | 3:08 | 2023-11-25 | 2023-12-31 |
-| [joku päivä mä vielä flippaan](https://open.spotify.com/track/0fp9N3n5g4jmNW7Ax0C9ic) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [joku päivä mä vielä flippaan](https://open.spotify.com/album/7pYAjyxKyf6wHzaNL1xcSe) | 3:05 | 2026-07-11 |  |
+| [joku päivä mä vielä flippaan](https://open.spotify.com/track/0fp9N3n5g4jmNW7Ax0C9ic) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [joku päivä mä vielä flippaan](https://open.spotify.com/album/7pYAjyxKyf6wHzaNL1xcSe) | 3:05 | 2026-07-11 | 2026-07-13 |
 | [Joku raja](https://open.spotify.com/track/6fz0TsXHzc9TQUDqnavSTT) | [PMMP](https://open.spotify.com/artist/6LUnsRyqOZdHGTZqMlWVV2) | [Leskiäidin Tyttäret](https://open.spotify.com/album/3Dg34pXyk5kxqPwRsAr6mE) | 4:55 | 2024-08-27 | 2024-08-29 |
 | [Joku raja](https://open.spotify.com/track/7meQV8OcOf9ZWYpK01JOqk) | [PMMP](https://open.spotify.com/artist/6LUnsRyqOZdHGTZqMlWVV2) | [Leskiäidin Tyttäret](https://open.spotify.com/album/7l1F0i4LbAJue0fFcg9m0x) | 4:55 | 2024-08-25 | 2024-08-31 |
 | [joku toinen](https://open.spotify.com/track/4dZIiWYJQCyu9EDt4NzDTZ) | [kia](https://open.spotify.com/artist/5QZXagvKfzU8FznFvIQEOW) | [joku toinen](https://open.spotify.com/album/2A6rbMqQY2nxKZ1gOrbQzQ) | 2:32 | 2025-11-29 | 2025-12-01 |

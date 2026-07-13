@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Amaria
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,401 likes - 160 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,409 likes - 160 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

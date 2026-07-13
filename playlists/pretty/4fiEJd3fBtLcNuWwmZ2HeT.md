@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 504 songs - 1 day 4 hr 55 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 505 songs - 1 day 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -512,5 +512,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 502 | [HANAMEKANAI](https://open.spotify.com/track/3y0K4W3uepBpDVtNJPZShN) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [HANAMEKANAI](https://open.spotify.com/album/4Ce42WQtBY8X2CJsNNCBkh) | 3:36 |
 | 503 | [フレンドカウンセリング](https://open.spotify.com/track/4S44ACf8p1wvSSi3gyxow9) | [句るり](https://open.spotify.com/artist/1X70BUiqwYlEkmF2bkMv72), [初音ミク](https://open.spotify.com/artist/2jlojUTQutTQMWWnvtcNmB), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [フレンドカウンセリング](https://open.spotify.com/album/3XCw3vYJZeDxyc3Z8hITMq) | 2:46 |
 | 504 | [ぜいたくランドリー](https://open.spotify.com/track/6COdEzPxjCaaQqOH4KA24c) | [句るり](https://open.spotify.com/artist/1X70BUiqwYlEkmF2bkMv72), [塩瀬ろぴ](https://open.spotify.com/artist/0XM0u3UELmLJD8EKSvYUlU) | [ぜいたくランドリー](https://open.spotify.com/album/4nj3xQCgIszFESdNvb4jKc) | 2:39 |
+| 505 | [Because the red crows chirped](https://open.spotify.com/track/3t5EtarT9l3Lh8PNJCOduC) | [NY channel](https://open.spotify.com/artist/2Fy1pKQurNXDSG9kYzXS32) | [Because the red crows chirped](https://open.spotify.com/album/6XlcJFpM9YQjNmacm3xeJH) | 2:09 |
 
-Snapshot ID: `AAAKTt3IvH3AMiQ8ZeH92OPCX6fKaUOV`
+Snapshot ID: `AAAKT8T5Zph/MZH5wCD7pZVwIpvqC7Uk`

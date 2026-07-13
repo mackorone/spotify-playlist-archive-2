@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-819 songs - 2 day 22 hr 36 min
+820 songs - 2 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Good God](https://open.spotify.com/track/4IQWAPHjNX1ovrpFvlT3YZ) | [Ogocity](https://open.spotify.com/artist/0VktwMXyMvh0csIXgC62h4) | [Good God](https://open.spotify.com/album/6JHh4CujygAfP8O0KaMPic) | 3:39 | 2024-03-01 | 2024-04-14 |
 | [Good God II](https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Good God II](https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm) | 3:01 | 2024-03-08 | 2025-06-20 |
 | [Goodness And Mercy](https://open.spotify.com/track/1lgzLzh6dZabFvdJAD1CaG) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [No Label](https://open.spotify.com/album/0ghyhpA9XBMUK7d7D8IniC) | 3:38 | 2025-10-31 | 2026-04-16 |
+| [Goodness of God](https://open.spotify.com/track/3A434QaqSNSGjeM3ZlKx5d) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Goodness of God](https://open.spotify.com/album/4G6n5BYtsWWzo4v7W6EgEa) | 4:15 | 2026-07-03 |  |
 | [Gospel Gyration Praise](https://open.spotify.com/track/5Xlvp9uxsGS05pUoFyqIHF) | [Sini Dagana](https://open.spotify.com/artist/4Qe3zkPW4YTQrde2Ef0dJb) | [Gospel Gyration Praise](https://open.spotify.com/album/6a86EokSQpzN3wluTEnBFB) | 5:55 | 2025-05-23 | 2025-06-13 |
 | [Grace](https://open.spotify.com/track/2Trt7SvMhr5vfGSjRGkT9v) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Grace](https://open.spotify.com/album/2sRMJ2FzogTgiyXkLmjO24) | 4:23 | 2026-01-02 | 2026-03-29 |
 | [Grace found me](https://open.spotify.com/track/4FlUY7iLdtfyHbbGVvpqM5) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av), [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU), [Ronald Campbell](https://open.spotify.com/artist/3YJjBDq3oTqdYUBGGzGHrM) | [Grace found me](https://open.spotify.com/album/1I4ijFE5XwsOzAqRbGQT5x) | 9:06 | 2025-07-18 | 2025-10-09 |
@@ -784,7 +785,7 @@
 | [WONDERFUL](https://open.spotify.com/track/1gU3Uiu6yX6B0GQu32a9TX) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Julia McMillan](https://open.spotify.com/artist/5ektyaMN6ejyyiSdkDUArQ), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [WONDERFUL](https://open.spotify.com/album/5axh27WducjLFbcRUyKHxe) | 3:43 | 2024-07-26 | 2024-09-13 |
 | [Wonderful Merciful Saviour](https://open.spotify.com/track/7MQS6PLjtkz8BLWZw0HucY) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Retro Worship](https://open.spotify.com/album/6BCCYStZ2GjzRAOwJUPWQm) | 2:52 | 2024-06-14 | 2025-03-10 |
 | [Worry About Nothing](https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Worry About Nothing](https://open.spotify.com/album/1VKHWGZru3AKfEzA9zn15s) | 3:24 | 2024-01-12 | 2024-05-24 |
-| [Worship Chant](https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Chant](https://open.spotify.com/album/6hg5OCeiiEkuyXBxFn8paI) | 4:32 | 2025-08-01 |  |
+| [Worship Chant](https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Chant](https://open.spotify.com/album/6hg5OCeiiEkuyXBxFn8paI) | 4:32 | 2025-08-01 | 2026-07-13 |
 | [Worship Him](https://open.spotify.com/track/4Ev3u4Uyy03eTn1JS5sdfk) | [Adegrace](https://open.spotify.com/artist/3ycO6fT2nSoiIiXuo2Omoe) | [Worship Him](https://open.spotify.com/album/1ymg70A7GMt3FwTJVf6rbO) | 10:49 | 2025-11-14 | 2026-01-15 |
 | [Worship Medley](https://open.spotify.com/track/33WHn1LRXdtLZfMN04rwRb) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Medley](https://open.spotify.com/album/4oXBqPiUw56WoVhh6aZKz0) | 4:26 | 2025-09-12 | 2025-10-11 |
 | [Worship Medley 16](https://open.spotify.com/track/6Is2r2y548dqfMxcVcwlUr) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Worship Medley 16](https://open.spotify.com/album/6wkRwNf3cbMXLnKxEV746g) | 6:45 | 2025-07-11 | 2026-03-10 |

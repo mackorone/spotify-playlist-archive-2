@@ -1,12 +1,12 @@
 {
   "description": "This is Oliver Tree. The essential tracks, all in one playlist.",
-  "num_followers": 171769,
+  "num_followers": 172080,
   "original_name": "This Is Oliver Tree",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAAfFd5y8OWo/sU33j1frm7k",
+  "snapshot_id": "alGHgAAAAAAEmjM/6bcQPvazwWQ8GH5j",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You Madly Hate You Badly",
-        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 178492,
-      "name": "Glow On",
-      "url": "https://open.spotify.com/track/1iGx5ExhCxY0mgTaLqWyhn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alone In A Crowd",
         "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 163392,
       "name": "With You",
       "url": "https://open.spotify.com/track/44KmuZ16Pj6t9vCenzwxxa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love You Madly Hate You Badly",
+        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 178492,
+      "name": "Glow On",
+      "url": "https://open.spotify.com/track/1iGx5ExhCxY0mgTaLqWyhn"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboy Tears Drown the World in a Swimming Pool of Sorrow (Deluxe)",
-        "url": "https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 120194,
-      "name": "Mind Control",
-      "url": "https://open.spotify.com/track/70Hi6JJq98794TMe1IeIAH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alone In A Crowd",
         "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 94857,
       "name": "Fairweather Friends",
       "url": "https://open.spotify.com/track/05tQzyLaod9RqjabafQYKv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowboy Tears Drown the World in a Swimming Pool of Sorrow (Deluxe)",
+        "url": "https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 120194,
+      "name": "Mind Control",
+      "url": "https://open.spotify.com/track/70Hi6JJq98794TMe1IeIAH"
     },
     {
       "added_at": null,

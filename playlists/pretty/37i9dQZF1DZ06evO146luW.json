@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 52334,
+  "num_followers": 52350,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAAMM+ZIHJgQ+V7FS2KbWet6",
+  "snapshot_id": "alGHgAAAAADUvPkFPDOzYYxTB1u8gm1+",
   "tracks": [
     {
       "added_at": null,
@@ -508,7 +508,7 @@
       "added_at": null,
       "album": {
         "name": "The Night Champion",
-        "url": "https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe"
+        "url": "https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 251473,
-      "name": "I'll Lock Up",
-      "url": "https://open.spotify.com/track/0mEY70sk2taYPkzjhHNkUb"
+      "duration_ms": 228941,
+      "name": "Magnet",
+      "url": "https://open.spotify.com/track/69OPLIDGGlpDyykXN6pVNu"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out on Parole",
-        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 272674,
-      "name": "Wine Glass",
-      "url": "https://open.spotify.com/track/142j2y0wEDHuofNFBggRDb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hell Paso",
         "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 306057,
       "name": "YellaBush Road",
       "url": "https://open.spotify.com/track/31gBArPt7AgI5zNzCbX1DW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out on Parole",
+        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 272674,
+      "name": "Wine Glass",
+      "url": "https://open.spotify.com/track/142j2y0wEDHuofNFBggRDb"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out on Parole",
-        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 240068,
-      "name": "Gravedigger",
-      "url": "https://open.spotify.com/track/0qu4MZi0L4sXBcvvxjqDkW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Werewolf",
         "url": "https://open.spotify.com/album/4we9ShOxtvFbb9qGTrSP8u"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 222578,
       "name": "Werewolf",
       "url": "https://open.spotify.com/track/0CRd1nB5QpxEf4n9YWNr4w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out on Parole",
+        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 240068,
+      "name": "Gravedigger",
+      "url": "https://open.spotify.com/track/0qu4MZi0L4sXBcvvxjqDkW"
     },
     {
       "added_at": null,

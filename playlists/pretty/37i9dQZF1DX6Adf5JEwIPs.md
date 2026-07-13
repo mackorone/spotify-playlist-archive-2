@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Luis R Conriquez y Tito Double P 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,212 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,303 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 72 | [Baby You Already Know](https://open.spotify.com/track/2KqhiKIOo47WRZMBY30vLy) | [Jaime Carrasco Y Su 37](https://open.spotify.com/artist/1luesZjrXUWCvqfkUF7RCf) | [Baby You Already Know](https://open.spotify.com/album/7ffW9e0vWEcbobN2UYsIPq) | 2:44 |
 | 73 | [EL SHOW DEBE CONTINUAR](https://open.spotify.com/track/0LiyQ22QG2Owxl4AQv33fT) | [Los Del Arroyo](https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4) | [EL SHOW DEBE CONTINUAR](https://open.spotify.com/album/3xTl7U8yAgfPgBBSl5eAP4) | 2:55 |
 | 74 | [Desvelado](https://open.spotify.com/track/77TgsM9aMY3mfkNHSH6Xq1) | [Bocca Myers](https://open.spotify.com/artist/1cogPMvLxnNKOqjegSz53s) | [Desvelado](https://open.spotify.com/album/19C9G3OHrDdnB6Al6OK2yS) | 3:42 |
-| 75 | [Compa Lupe](https://open.spotify.com/track/3HI5JK7BLTtbFWltI1H9Z9) | [LEGADO MICHOACANO](https://open.spotify.com/artist/4Q51ZdLJ6kjEHvOlVOIasa) | [Compa Lupe](https://open.spotify.com/album/6BiBS5OMrTSVRAp3RhPSNa) | 4:29 |
+| 75 | [Compa Lupe](https://open.spotify.com/track/3HI5JK7BLTtbFWltI1H9Z9) | [LEGADO MICHOACANO](https://open.spotify.com/artist/4Q51ZdLJ6kjEHvOlVOIasa) | [Compa Lupe](https://open.spotify.com/album/6BiBS5OMrTSVRAp3RhPSNa) | 4:28 |
 | 76 | [Mal Amor](https://open.spotify.com/track/3WQwllWX4kgynrhsCBl2gk) | [Alex Ortuño](https://open.spotify.com/artist/51Hy9TkaR4cBeX2uF2sDz2) | [Mal Amor](https://open.spotify.com/album/2R96LnFdd3qAGszJW1ynxn) | 3:24 |
 | 77 | [Antes De Que Te Vayas](https://open.spotify.com/track/3FcSJrq6ZJi3oGX7RvrjIX) | [Firma De Oro](https://open.spotify.com/artist/0MLobE5P8KqiVdo3y47d50) | [Tributo a Marco Antonio Solís \(En Vivo\)](https://open.spotify.com/album/16nxg1uEWb9DYAENClbrnm) | 3:57 |
 | 78 | [Japan](https://open.spotify.com/track/5diddGNJH2svqZnsVfAwKk) | [Grupo La Revo](https://open.spotify.com/artist/2CCm63X8y210EdLf541qBr) | [Japan](https://open.spotify.com/album/33ktm9mqdTd8sbR3IW707f) | 3:44 |

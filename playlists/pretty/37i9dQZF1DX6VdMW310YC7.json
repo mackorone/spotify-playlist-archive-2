@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3902659,
+  "num_followers": 3902499,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,26 @@
     {
       "added_at": "2026-07-10 04:01:24",
       "album": {
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 358983,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "added_at": "2026-07-10 04:01:24",
+      "album": {
         "name": "EVERYTHING IN ITS RIGHT PLACE",
         "url": "https://open.spotify.com/album/3fQHrYU8bgPG5Gci6y6sjV"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 302044,
       "name": "EVERYTHING IN ITS RIGHT PLACE",
       "url": "https://open.spotify.com/track/03p9MCjq5ld1kRmqCGNXgs"
-    },
-    {
-      "added_at": "2026-07-10 04:01:24",
-      "album": {
-        "name": "The Last Goodbye",
-        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 358983,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
       "added_at": "2026-07-10 04:01:24",
@@ -947,18 +947,22 @@
     {
       "added_at": "2026-07-10 04:01:24",
       "album": {
-        "name": "YOUR EYES",
-        "url": "https://open.spotify.com/album/6EH22I1ThZ1bBlbg5KlOmc"
+        "name": "Human",
+        "url": "https://open.spotify.com/album/7vavYaLLnp7BSEVt66XBGl"
       },
       "artists": [
         {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+          "name": "Ashibah",
+          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+        },
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         }
       ],
-      "duration_ms": 176470,
-      "name": "YOUR EYES",
-      "url": "https://open.spotify.com/track/5uxwxuFRvmwYr3rLn81k8G"
+      "duration_ms": 203000,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/7wE3go8w9wqqvWpN5aDpXR"
     },
     {
       "added_at": "2026-07-10 04:01:24",
@@ -1019,26 +1023,6 @@
     {
       "added_at": "2026-07-10 04:01:24",
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/7vavYaLLnp7BSEVt66XBGl"
-      },
-      "artists": [
-        {
-          "name": "Ashibah",
-          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
-        },
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/7wE3go8w9wqqvWpN5aDpXR"
-    },
-    {
-      "added_at": "2026-07-10 04:01:24",
-      "album": {
         "name": "More To Life",
         "url": "https://open.spotify.com/album/2OD0VlUQDHb6QklUhyJjZm"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 204374,
       "name": "More To Life",
       "url": "https://open.spotify.com/track/6VzJzNoNJGY2K2tqzbkkBZ"
+    },
+    {
+      "added_at": "2026-07-10 04:01:24",
+      "album": {
+        "name": "YOUR EYES",
+        "url": "https://open.spotify.com/album/6EH22I1ThZ1bBlbg5KlOmc"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "YOUR EYES",
+      "url": "https://open.spotify.com/track/5uxwxuFRvmwYr3rLn81k8G"
     },
     {
       "added_at": "2026-07-10 04:01:24",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2026-07-10 04:01:24",
       "album": {
-        "name": "Something Right",
-        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
-      },
-      "artists": [
-        {
-          "name": "Eric Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        },
-        {
-          "name": "Molly Moonwater",
-          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Something Right",
-      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
-    },
-    {
-      "added_at": "2026-07-10 04:01:24",
-      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/3TWWMgB3Jro6ei4vSBFwEa"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 204761,
       "name": "Body",
       "url": "https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB"
+    },
+    {
+      "added_at": "2026-07-10 04:01:24",
+      "album": {
+        "name": "Something Right",
+        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
+      },
+      "artists": [
+        {
+          "name": "Eric Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        },
+        {
+          "name": "Molly Moonwater",
+          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Something Right",
+      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
     },
     {
       "added_at": "2026-07-10 04:01:24",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2026-07-10 04:01:24",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 258409,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19"
-    },
-    {
-      "added_at": "2026-07-10 04:01:24",
-      "album": {
         "name": "This Is Our Life",
         "url": "https://open.spotify.com/album/5c2ObU6rZacorATcxejYZL"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 268560,
       "name": "This Is Our Life",
       "url": "https://open.spotify.com/track/65XobPwmYWts99hE2UFSA3"
+    },
+    {
+      "added_at": "2026-07-10 04:01:24",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 258409,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19"
     },
     {
       "added_at": "2026-07-10 04:01:24",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-07-10 04:01:24",
       "album": {
+        "name": "One Love (Nobody Else)",
+        "url": "https://open.spotify.com/album/1jhsm4hCvQR4S6L1lMdCrV"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        }
+      ],
+      "duration_ms": 217487,
+      "name": "One Love (Nobody Else)",
+      "url": "https://open.spotify.com/track/1plh94yAIkbjOAH3cGXc7B"
+    },
+    {
+      "added_at": "2026-07-10 04:01:24",
+      "album": {
         "name": "Rabbit Hole",
         "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
       },
@@ -1643,22 +1659,6 @@
     {
       "added_at": "2026-07-10 04:01:24",
       "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 209899,
-      "name": "Melancholia",
-      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
-    },
-    {
-      "added_at": "2026-07-10 04:01:24",
-      "album": {
         "name": "LOVE",
         "url": "https://open.spotify.com/album/3XzF1AVLmTtSA9exleQY0V"
       },
@@ -1671,6 +1671,22 @@
       "duration_ms": 201600,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/2Ci8fAS7bgl1RMHiWzJvcD"
+    },
+    {
+      "added_at": "2026-07-10 04:01:24",
+      "album": {
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 209899,
+      "name": "Melancholia",
+      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
     },
     {
       "added_at": "2026-07-10 04:01:24",
@@ -1691,18 +1707,18 @@
     {
       "added_at": "2026-07-10 04:01:24",
       "album": {
-        "name": "One Love (Nobody Else)",
-        "url": "https://open.spotify.com/album/1jhsm4hCvQR4S6L1lMdCrV"
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST"
       },
       "artists": [
         {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
         }
       ],
-      "duration_ms": 217487,
-      "name": "One Love (Nobody Else)",
-      "url": "https://open.spotify.com/track/1plh94yAIkbjOAH3cGXc7B"
+      "duration_ms": 244285,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
     },
     {
       "added_at": "2026-07-10 04:01:24",
@@ -1723,22 +1739,6 @@
       "duration_ms": 219923,
       "name": "Let You Know",
       "url": "https://open.spotify.com/track/609FRLY8f3c7CXqsloE09P"
-    },
-    {
-      "added_at": "2026-07-10 04:01:24",
-      "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 244285,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
     },
     {
       "added_at": "2026-07-10 04:01:24",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2026-07-10 04:01:24",
       "album": {
+        "name": "White Lies",
+        "url": "https://open.spotify.com/album/1aAjXZ9y33UvjrDBVXaVXX"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "White Lies",
+      "url": "https://open.spotify.com/track/43B2IaiA1jE8oPIVbUfJYU"
+    },
+    {
+      "added_at": "2026-07-10 04:01:24",
+      "album": {
         "name": "Heal",
         "url": "https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB"
       },
@@ -1823,18 +1839,22 @@
     {
       "added_at": "2026-07-10 04:01:24",
       "album": {
-        "name": "White Lies",
-        "url": "https://open.spotify.com/album/1aAjXZ9y33UvjrDBVXaVXX"
+        "name": "The Thought of You",
+        "url": "https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          "name": "Blonde Maze",
+          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
+        },
+        {
+          "name": "James French",
+          "url": "https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues"
         }
       ],
-      "duration_ms": 205161,
-      "name": "White Lies",
-      "url": "https://open.spotify.com/track/43B2IaiA1jE8oPIVbUfJYU"
+      "duration_ms": 262008,
+      "name": "The Thought of You",
+      "url": "https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka"
     },
     {
       "added_at": "2026-07-10 04:01:24",
@@ -1859,26 +1879,6 @@
       "duration_ms": 265408,
       "name": "alone",
       "url": "https://open.spotify.com/track/53xTITGQAR4vklxEoP6qwZ"
-    },
-    {
-      "added_at": "2026-07-10 04:01:24",
-      "album": {
-        "name": "The Thought of You",
-        "url": "https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD"
-      },
-      "artists": [
-        {
-          "name": "Blonde Maze",
-          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
-        },
-        {
-          "name": "James French",
-          "url": "https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues"
-        }
-      ],
-      "duration_ms": 262008,
-      "name": "The Thought of You",
-      "url": "https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka"
     },
     {
       "added_at": "2026-07-10 04:01:24",

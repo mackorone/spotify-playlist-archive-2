@@ -3626,7 +3626,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 207296,
       "name": "Borro Cassette",
       "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
@@ -4872,7 +4872,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "COCO",
       "url": "https://open.spotify.com/track/6sVYLusfHTaanRp8a9exZj"
@@ -8228,7 +8228,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-12",
+      "date_removed": null,
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
@@ -8250,7 +8250,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 235760,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/6viC2tfK0mf86pcqxIoUOG"
@@ -11051,6 +11051,24 @@
     },
     {
       "album": {
+        "name": "Hava Nagila",
+        "url": "https://open.spotify.com/album/3P3JxJeonJCosD5E3ok4pj"
+      },
+      "artists": [
+        {
+          "name": "Sunrise Deep",
+          "url": "https://open.spotify.com/artist/4j4GOqWeg637YGWAczZCIy"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206360,
+      "name": "Hava Nagila",
+      "url": "https://open.spotify.com/track/0FRwqcOhrijgeT4yJHyoVC"
+    },
+    {
+      "album": {
         "name": "PAPI JUANCHO",
         "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
       },
@@ -11320,7 +11338,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 284864,
       "name": "HOLLYWOOD",
       "url": "https://open.spotify.com/track/5GTBdEjZe7zEDp1N0eCZE4"
@@ -21447,6 +21465,24 @@
     },
     {
       "album": {
+        "name": "Puesta Pa\u00b4mi",
+        "url": "https://open.spotify.com/album/6fPtgvsXHRjn8PGfHKHBhB"
+      },
+      "artists": [
+        {
+          "name": "DRIANDA",
+          "url": "https://open.spotify.com/artist/1kJTGGBSHzbo2fkUvWaEFG"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187050,
+      "name": "Puesta Pa\u00b4mi",
+      "url": "https://open.spotify.com/track/6EHvEROdFawaCBYVq4gAB0"
+    },
+    {
+      "album": {
         "name": "PUNTO 40",
         "url": "https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs"
       },
@@ -29262,7 +29298,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 375381,
       "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
       "url": "https://open.spotify.com/track/3jqk4fue7CILssCv8UpJe0"

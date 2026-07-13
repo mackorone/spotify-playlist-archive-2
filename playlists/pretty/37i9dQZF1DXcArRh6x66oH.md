@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > roots run deep with Carter Faith and Wyatt Flores
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,391 likes - 187 songs - 11 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,425 likes - 187 songs - 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

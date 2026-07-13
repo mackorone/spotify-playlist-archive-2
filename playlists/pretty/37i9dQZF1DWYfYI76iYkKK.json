@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 131376,
+  "num_followers": 131381,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
+        "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
+        "url": "https://open.spotify.com/album/705xmvtHgzHVcHADtEdICs"
+      },
+      "artists": [
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "duration_ms": 236020,
+      "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
+      "url": "https://open.spotify.com/track/3vTnGxlxui3i9mWrAepise"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
         "name": "\u505a\u6211\u7684\u521d\u6200\uff08\u7d14\u611b\u4e0d\u63d2\u96fb\uff09",
         "url": "https://open.spotify.com/album/6c7wFSp80wogFSImEgRSK5"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 197954,
       "name": "\u505a\u6211\u7684\u521d\u6200 (\u7d14\u611b\u4e0d\u63d2\u96fb)",
       "url": "https://open.spotify.com/track/0QTVDDZFhLRyFKqgmphkms"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
-        "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
-        "url": "https://open.spotify.com/album/705xmvtHgzHVcHADtEdICs"
-      },
-      "artists": [
-        {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
-        }
-      ],
-      "duration_ms": 236020,
-      "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
-      "url": "https://open.spotify.com/track/3vTnGxlxui3i9mWrAepise"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u7fd2\u6163\u5f8c\u5c31\u5225\u8aaa\u75db\u4e86",
-        "url": "https://open.spotify.com/album/1MIKDnwDgu4B74rZkF7nrl"
-      },
-      "artists": [
-        {
-          "name": "\u674e\u82b7\u5a77",
-          "url": "https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs"
-        }
-      ],
-      "duration_ms": 232984,
-      "name": "\u7fd2\u6163\u5f8c\u5c31\u5225\u8aaa\u75db\u4e86",
-      "url": "https://open.spotify.com/track/43U1WsvhsRjldPfFgWfj5e"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "\u8327Jian",
         "url": "https://open.spotify.com/album/7w8cW1IqQCo8xKhXmG6313"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
-        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
+        "name": "\u7fd2\u6163\u5f8c\u5c31\u5225\u8aaa\u75db\u4e86",
+        "url": "https://open.spotify.com/album/1MIKDnwDgu4B74rZkF7nrl"
       },
       "artists": [
         {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+          "name": "\u674e\u82b7\u5a77",
+          "url": "https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs"
         }
       ],
-      "duration_ms": 222266,
-      "name": "\u7aca\u7b11",
-      "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
+      "duration_ms": 232984,
+      "name": "\u7fd2\u6163\u5f8c\u5c31\u5225\u8aaa\u75db\u4e86",
+      "url": "https://open.spotify.com/track/43U1WsvhsRjldPfFgWfj5e"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -727,6 +711,22 @@
       "duration_ms": 233949,
       "name": "\u5074\u81c9",
       "url": "https://open.spotify.com/track/37bdVVPemdUmN8FTqQXWYz"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
+        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
+      },
+      "artists": [
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "duration_ms": 222266,
+      "name": "\u7aca\u7b11",
+      "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
     },
     {
       "added_at": "2026-02-12 16:00:30",

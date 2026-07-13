@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,364 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,362 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,21 +39,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 29 | [Nadja](https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 4:06 |
 | 30 | [24/7](https://open.spotify.com/track/4SQIvGBo1nkD5P1M3eb3Np) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [24/7](https://open.spotify.com/album/38k8b1MCCGb1zv7dFnlbOY) | 3:18 |
 | 31 | [We Belong \(feat\. Corrella & L.A.B\)](https://open.spotify.com/track/0lbtD3G02sIgY1QABgGlvn) | [Te Matatini](https://open.spotify.com/artist/0VmdsKXBJCrRyszIw40tv7), [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX), [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [We Belong \(feat\. Corrella & L.A.B\)](https://open.spotify.com/album/1sFjvQK6wmmRgMVAxVFVDA) | 3:35 |
-| 32 | [Harmless](https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Harmless](https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q) | 2:25 |
-| 33 | [pretend](https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [pretend](https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj) | 2:50 |
-| 34 | [Breakdown](https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto) | [Borderline](https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ) | [Chrysalis](https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB) | 3:29 |
-| 35 | [Bless the Broken Road](https://open.spotify.com/track/2M4KSVZ6hcCPljuCkXQCFQ) | [Myshaan](https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN) | [Bless the Broken Road](https://open.spotify.com/album/5i90JXIcuT8DjYnyh13I0D) | 3:10 |
+| 32 | [Bless the Broken Road](https://open.spotify.com/track/2M4KSVZ6hcCPljuCkXQCFQ) | [Myshaan](https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN) | [Bless the Broken Road](https://open.spotify.com/album/5i90JXIcuT8DjYnyh13I0D) | 3:10 |
+| 33 | [Harmless](https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Harmless](https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q) | 2:25 |
+| 34 | [pretend](https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [pretend](https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj) | 2:50 |
+| 35 | [Breakdown](https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto) | [Borderline](https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ) | [Chrysalis](https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB) | 3:29 |
 | 36 | [call me yours](https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [call me yours](https://open.spotify.com/album/3G59mbte7ztS4KeNPZ19Gz) | 3:24 |
 | 37 | [Searching For](https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [The//Glow](https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz) | 3:54 |
-| 38 | [Light Up](https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Sean Rii](https://open.spotify.com/artist/32R0YwtKLXPq4R7VohCY7k) | [Light Up](https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6) | 2:52 |
-| 39 | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Robinson and The Romantics](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc) | 2:45 |
+| 38 | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Robinson and The Romantics](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc) | 2:45 |
+| 39 | [Light Up](https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Sean Rii](https://open.spotify.com/artist/32R0YwtKLXPq4R7VohCY7k) | [Light Up](https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6) | 2:52 |
 | 40 | [Hell Of A Night](https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Hell Of A Night](https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2) | 3:52 |
 | 41 | [drag](https://open.spotify.com/track/5VTEwE0fYvTNxwmIelS6XF) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [drag](https://open.spotify.com/album/2nTAc6jYcRAHf7C7gf0tFu) | 3:49 |
 | 42 | [We Made It](https://open.spotify.com/track/1ljnuLllU6fI3aGFUPG6TJ) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [We Made It](https://open.spotify.com/album/3Ij9b0skXn9qYoKweWJPqG) | 2:44 |
 | 43 | [State of Mind](https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 5:37 |
 | 44 | [Forever Is A Charm](https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Everything Is Going To Be Alright](https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU) | 3:11 |
-| 45 | [Even In The Quiet](https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Even In The Quiet](https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM) | 3:32 |
-| 46 | [So Good](https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [So Good](https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM) | 3:21 |
+| 45 | [So Good](https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [So Good](https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM) | 3:21 |
+| 46 | [Even In The Quiet](https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Even In The Quiet](https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM) | 3:32 |
 | 47 | [Off The Rails](https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Off The Rails](https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw) | 1:47 |
 | 48 | [tomato baby](https://open.spotify.com/track/126hNkonJst3ARf4I2ACqW) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [tomato baby](https://open.spotify.com/album/7J8vbSM16wFVxHnXfiLGIV) | 2:48 |
 | 49 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 |

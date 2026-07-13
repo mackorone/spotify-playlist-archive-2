@@ -1,6 +1,6 @@
 {
   "description": "All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Mary Mary",
-  "num_followers": 60019,
+  "num_followers": 60141,
   "original_name": "Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "Live: One Last Time",
-        "url": "https://open.spotify.com/album/4q02ycz7FsngzsYDtjaIMc"
-      },
-      "artists": [
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
-        }
-      ],
-      "duration_ms": 319480,
-      "name": "Blessed & Highly Favored - Live",
-      "url": "https://open.spotify.com/track/2BiCH1atqXX1OXOtL0PKHS"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
         "name": "Triumphant",
         "url": "https://open.spotify.com/album/2WV2VbUUUSVRbjONFfWz1Y"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 369160,
       "name": "Nobody Greater",
       "url": "https://open.spotify.com/track/0njT9NV9xsV4hLkgZ8yOUD"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
+        "name": "Live: One Last Time",
+        "url": "https://open.spotify.com/album/4q02ycz7FsngzsYDtjaIMc"
+      },
+      "artists": [
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "duration_ms": 319480,
+      "name": "Blessed & Highly Favored - Live",
+      "url": "https://open.spotify.com/track/2BiCH1atqXX1OXOtL0PKHS"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -1063,8 +1063,8 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "Mountain High Valley Low",
-        "url": "https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M"
+        "name": "Save The World",
+        "url": "https://open.spotify.com/album/2id38Vd87tLJiKOHfWRqLH"
       },
       "artists": [
         {
@@ -1072,9 +1072,9 @@
           "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
         }
       ],
-      "duration_ms": 417706,
-      "name": "In the Midst of It All",
-      "url": "https://open.spotify.com/track/1Pd0T4S4Ey5BChcU5rEAfn"
+      "duration_ms": 264693,
+      "name": "The Battle Is the Lord's",
+      "url": "https://open.spotify.com/track/2XVRlYilsT0FEMetvDI0UA"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -1151,8 +1151,8 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "Save The World",
-        "url": "https://open.spotify.com/album/2id38Vd87tLJiKOHfWRqLH"
+        "name": "Mountain High Valley Low",
+        "url": "https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M"
       },
       "artists": [
         {
@@ -1160,9 +1160,9 @@
           "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
         }
       ],
-      "duration_ms": 264693,
-      "name": "The Battle Is the Lord's",
-      "url": "https://open.spotify.com/track/2XVRlYilsT0FEMetvDI0UA"
+      "duration_ms": 417706,
+      "name": "In the Midst of It All",
+      "url": "https://open.spotify.com/track/1Pd0T4S4Ey5BChcU5rEAfn"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
+        "name": "Victory Live",
+        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 249880,
+      "name": "Victory - Live",
+      "url": "https://open.spotify.com/track/7olcSsRz6L8Tl4TmjOwxTu"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
         "name": "Revealed",
         "url": "https://open.spotify.com/album/1WBCOU7em7eF48hAk3i5FD"
       },
@@ -1479,38 +1495,6 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "I Won\u2019t Complain",
-        "url": "https://open.spotify.com/album/5rxkuBLC0JKcdJhdQsV0Ed"
-      },
-      "artists": [
-        {
-          "name": "Rev. Paul Jones",
-          "url": "https://open.spotify.com/artist/0Wu5bgr1RccU9UMgoLbXaT"
-        }
-      ],
-      "duration_ms": 292800,
-      "name": "I Won\u2019t Complain",
-      "url": "https://open.spotify.com/track/3rGlvhGguVckWnkFiaslsB"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
-        "name": "Victory Live",
-        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 249880,
-      "name": "Victory - Live",
-      "url": "https://open.spotify.com/track/7olcSsRz6L8Tl4TmjOwxTu"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
         "name": "Let The Church Say Amen (Radio Edit)",
         "url": "https://open.spotify.com/album/7in33XBpTwwyVMMHGJKZT3"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 294813,
       "name": "Let The Church Say Amen - Radio Edit",
       "url": "https://open.spotify.com/track/66mi3OKkrYHZkV9T62Ytyy"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
+        "name": "I Won\u2019t Complain",
+        "url": "https://open.spotify.com/album/5rxkuBLC0JKcdJhdQsV0Ed"
+      },
+      "artists": [
+        {
+          "name": "Rev. Paul Jones",
+          "url": "https://open.spotify.com/artist/0Wu5bgr1RccU9UMgoLbXaT"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "I Won\u2019t Complain",
+      "url": "https://open.spotify.com/track/3rGlvhGguVckWnkFiaslsB"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "Way Maker",
-        "url": "https://open.spotify.com/album/5eu45onKTIAP1MUGyDwmvq"
-      },
-      "artists": [
-        {
-          "name": "SINACH",
-          "url": "https://open.spotify.com/artist/0BMNHIlCIvN2eiHLGnEfTV"
-        }
-      ],
-      "duration_ms": 286742,
-      "name": "Way Maker",
-      "url": "https://open.spotify.com/track/4jJ0CynHMdzrgK5IOVMX08"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
         "name": "Pray On!",
         "url": "https://open.spotify.com/album/4cpt2Y5t9lTh4MmPgiq2Gr"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 155866,
       "name": "I Decided To Make Jesus My Choice",
       "url": "https://open.spotify.com/track/1PvXbf0Be0gJyO3vT520mL"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/5eu45onKTIAP1MUGyDwmvq"
+      },
+      "artists": [
+        {
+          "name": "SINACH",
+          "url": "https://open.spotify.com/artist/0BMNHIlCIvN2eiHLGnEfTV"
+        }
+      ],
+      "duration_ms": 286742,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/4jJ0CynHMdzrgK5IOVMX08"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "The Dolly Express",
-        "url": "https://open.spotify.com/album/3W32276wtqwXOjcWYVfNr1"
-      },
-      "artists": [
-        {
-          "name": "Jermaine Dolly",
-          "url": "https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530"
-        }
-      ],
-      "duration_ms": 345625,
-      "name": "You",
-      "url": "https://open.spotify.com/track/07l6dBNEcArYKT1huIzCmV"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
         "name": "Cindy's Messiah",
         "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
       },
@@ -2319,22 +2303,6 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "Alive In South Africa",
-        "url": "https://open.spotify.com/album/01m3EzPehzCnh4CKgxJKVn"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 413266,
-      "name": "To Worship You I Live - Live",
-      "url": "https://open.spotify.com/track/5uIRfBq9GiUY7TRE3E2GNJ"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
         "name": "I See Miracles",
         "url": "https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM"
       },
@@ -2347,6 +2315,22 @@
       "duration_ms": 260431,
       "name": "I See Miracles",
       "url": "https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
+        "name": "Alive In South Africa",
+        "url": "https://open.spotify.com/album/01m3EzPehzCnh4CKgxJKVn"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 413266,
+      "name": "To Worship You I Live - Live",
+      "url": "https://open.spotify.com/track/5uIRfBq9GiUY7TRE3E2GNJ"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -2399,22 +2383,6 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "Decade",
-        "url": "https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 357306,
-      "name": "Not Forgotten - Live",
-      "url": "https://open.spotify.com/track/6Vkzf0DotL1ICs9noLC16Q"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
         "name": "The Message",
         "url": "https://open.spotify.com/album/3riCApH5rikK2q1GXHxpss"
       },
@@ -2427,6 +2395,22 @@
       "duration_ms": 370131,
       "name": "All That Matters",
       "url": "https://open.spotify.com/track/0Igo8NSSF6IS6GyZNSmx0F"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 357306,
+      "name": "Not Forgotten - Live",
+      "url": "https://open.spotify.com/track/6Vkzf0DotL1ICs9noLC16Q"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -2551,6 +2535,26 @@
       "duration_ms": 387573,
       "name": "The Battle Is the Lord's",
       "url": "https://open.spotify.com/track/3Xg7RAV68Y0l8xyqQsuKJe"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
+        "name": "One Place Live",
+        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 376666,
+      "name": "Put A Praise On It - Live",
+      "url": "https://open.spotify.com/track/3yhpA3U2Ki3W6UFSVfMYPS"
     }
   ],
   "unique_name": "Gospel Classics",

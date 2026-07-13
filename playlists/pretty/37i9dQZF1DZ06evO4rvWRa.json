@@ -1,33 +1,13 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1638791,
+  "num_followers": 1638771,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAABYuG7/HU1Ks3PfnMMCj1JI",
+  "snapshot_id": "alGHgAAAAAA8gT++lCGmaKkCv5/On58p",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Sting Within Me",
-        "url": "https://open.spotify.com/album/1ipKnIuLzj5nVhRxgBVeZV"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "DREAMDNVR",
-          "url": "https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb"
-        }
-      ],
-      "duration_ms": 152328,
-      "name": "The Sting Within Me",
-      "url": "https://open.spotify.com/track/1ORAf04NWqfo4yZv07yJLg"
-    },
     {
       "added_at": null,
       "album": {
@@ -655,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerworld 2.0",
-        "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
-        }
-      ],
-      "duration_ms": 153207,
-      "name": "Last Song (feat. Faouzia)",
-      "url": "https://open.spotify.com/track/0wOfbpwLdSLoWAkUYLH8ur"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walker Racing League",
         "url": "https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV"
       },
@@ -691,6 +651,26 @@
       "duration_ms": 136563,
       "name": "Running Out Of Roses",
       "url": "https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walkerworld 2.0",
+        "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "duration_ms": 153207,
+      "name": "Last Song (feat. Faouzia)",
+      "url": "https://open.spotify.com/track/0wOfbpwLdSLoWAkUYLH8ur"
     },
     {
       "added_at": null,
@@ -739,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerworld 2.0",
-        "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "MEEK",
-          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
-        }
-      ],
-      "duration_ms": 156937,
-      "name": "Dancing in love",
-      "url": "https://open.spotify.com/track/5KMVvlczBJnxDJJe3U4Tbn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Habits (From Delta Force Game)",
         "url": "https://open.spotify.com/album/6JC5LFS1ZhuNjN31EMfWWX"
       },
@@ -783,6 +743,26 @@
       "duration_ms": 190926,
       "name": "Old Habits (From Delta Force Game)",
       "url": "https://open.spotify.com/track/5tKCXGkAsVCQW2Wce51Gs3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walkerworld 2.0",
+        "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+        }
+      ],
+      "duration_ms": 156937,
+      "name": "Dancing in love",
+      "url": "https://open.spotify.com/track/5KMVvlczBJnxDJJe3U4Tbn"
     },
     {
       "added_at": null,
@@ -835,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slowed",
-        "url": "https://open.spotify.com/album/61ZZ2XHEGHwl9gHov01GUs"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "Faded - Slowed Remix",
-      "url": "https://open.spotify.com/track/2zK1krCIeewkY2v0RNPcBu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World of Walker, Season One: Rise of the Drones",
         "url": "https://open.spotify.com/album/4ZPFShjjY5bGsyvn9aiqrd"
       },
@@ -867,6 +831,22 @@
       "duration_ms": 202210,
       "name": "Eroina",
       "url": "https://open.spotify.com/track/4CZa02xgeNmic0Leii4kzA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slowed",
+        "url": "https://open.spotify.com/album/61ZZ2XHEGHwl9gHov01GUs"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Faded - Slowed Remix",
+      "url": "https://open.spotify.com/track/2zK1krCIeewkY2v0RNPcBu"
     },
     {
       "added_at": null,
@@ -1071,6 +1051,22 @@
       "duration_ms": 173000,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/1TEWG0GEdHI97khSkcj7rX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/42Ea8EqPulXUcaO9tFPyyT"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 264048,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/5ELU5WP9GpuMQ78RAivBjx"
     }
   ],
   "unique_name": "This Is Alan Walker",

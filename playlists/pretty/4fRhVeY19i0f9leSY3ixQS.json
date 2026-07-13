@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1472,
+  "num_followers": 1481,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAARiR41UGy7PcVfgP1PrY1rWStJHgC3",
+  "snapshot_id": "AAARkqnH9gt/DYwhrVUkfgh+oPXebgej",
   "tracks": [
     {
       "added_at": "2026-07-09 06:34:34",
@@ -1243,38 +1243,6 @@
       "duration_ms": 234000,
       "name": "Ticket to Paradise",
       "url": "https://open.spotify.com/track/5EOsMXYmJ12xCncnMQd9MA"
-    },
-    {
-      "added_at": "2026-06-11 15:32:29",
-      "album": {
-        "name": "Nero",
-        "url": "https://open.spotify.com/album/15dZWWJkvTO6O5xqwCzcZl"
-      },
-      "artists": [
-        {
-          "name": "Dead Hand",
-          "url": "https://open.spotify.com/artist/0yacjrFvJqylCSuaEsOPct"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "In Good Faith",
-      "url": "https://open.spotify.com/track/68YFWj8trbwWZJPQMLRFO6"
-    },
-    {
-      "added_at": "2026-06-11 15:22:40",
-      "album": {
-        "name": "Sullen Freak",
-        "url": "https://open.spotify.com/album/1WRommDffbgERpjcR73nIS"
-      },
-      "artists": [
-        {
-          "name": "Certain Things",
-          "url": "https://open.spotify.com/artist/4H0knsbOya73QdC4lzxv7p"
-        }
-      ],
-      "duration_ms": 101043,
-      "name": "Sullen Freak",
-      "url": "https://open.spotify.com/track/1X1XPu1wrVyeDv1sGqK0bL"
     },
     {
       "added_at": "2026-04-28 11:28:21",
@@ -4711,6 +4679,122 @@
       "duration_ms": 144705,
       "name": "deceived",
       "url": "https://open.spotify.com/track/5wYc5u1J7qUjmwLiHJRGZG"
+    },
+    {
+      "added_at": "2026-07-12 12:53:03",
+      "album": {
+        "name": "COMEBACK",
+        "url": "https://open.spotify.com/album/0ZmkyAWkROPIOimaeECyjH"
+      },
+      "artists": [
+        {
+          "name": "Alex Sandra",
+          "url": "https://open.spotify.com/artist/6M0BEwom1GzPfvDXbhb2qi"
+        },
+        {
+          "name": "Silos",
+          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
+        }
+      ],
+      "duration_ms": 220389,
+      "name": "COMEBACK",
+      "url": "https://open.spotify.com/track/1WueuwIcvtCOC3uLhPK815"
+    },
+    {
+      "added_at": "2026-07-12 12:52:51",
+      "album": {
+        "name": "Backstabbing Aside",
+        "url": "https://open.spotify.com/album/1cx8aMWD7C78NH8LUwzmsV"
+      },
+      "artists": [
+        {
+          "name": "Apache Rose",
+          "url": "https://open.spotify.com/artist/6UiyXCbm8nWQB3ODDyDkA7"
+        }
+      ],
+      "duration_ms": 260761,
+      "name": "Backstabbing Aside",
+      "url": "https://open.spotify.com/track/5xz9coyceFfawPzjoeuarl"
+    },
+    {
+      "added_at": "2026-07-12 12:52:40",
+      "album": {
+        "name": "Lightspeed",
+        "url": "https://open.spotify.com/album/2I4w8HcHeeejYMgmwfaPNg"
+      },
+      "artists": [
+        {
+          "name": "Lyra Ash",
+          "url": "https://open.spotify.com/artist/1ifx4vYdESbELp6kikeprp"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Lightspeed",
+      "url": "https://open.spotify.com/track/0Yu2piUOhLiwCQo8EFWvU3"
+    },
+    {
+      "added_at": "2026-07-12 12:56:40",
+      "album": {
+        "name": "Just My Style",
+        "url": "https://open.spotify.com/album/0l7iIFtaRYX64L86PGfBbp"
+      },
+      "artists": [
+        {
+          "name": "Echo Boulevard",
+          "url": "https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4"
+        }
+      ],
+      "duration_ms": 188873,
+      "name": "Just My Style",
+      "url": "https://open.spotify.com/track/0usJsw64exL53A5maMb5V2"
+    },
+    {
+      "added_at": "2026-07-12 12:57:55",
+      "album": {
+        "name": "Early for Tomorrow",
+        "url": "https://open.spotify.com/album/0b6kBuipC2TA5ZuvHe4kv1"
+      },
+      "artists": [
+        {
+          "name": "bradleynotbrad",
+          "url": "https://open.spotify.com/artist/722BstvnwTMR8HeofZ3FsS"
+        }
+      ],
+      "duration_ms": 194674,
+      "name": "All Our Garden",
+      "url": "https://open.spotify.com/track/2XcH0LhEdc5JqxCxbycOfA"
+    },
+    {
+      "added_at": "2026-07-12 12:59:21",
+      "album": {
+        "name": "Vanity",
+        "url": "https://open.spotify.com/album/2IhwgZkqWixLb13jSpeVu3"
+      },
+      "artists": [
+        {
+          "name": "RESENTLESS.",
+          "url": "https://open.spotify.com/artist/55vgJME2WgJi6eq7bMsi6J"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Vanity",
+      "url": "https://open.spotify.com/track/7y4Nk2fKgkRXsSjNG5CFYg"
+    },
+    {
+      "added_at": "2026-07-12 13:00:04",
+      "album": {
+        "name": "Guardians of the Phallicy",
+        "url": "https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU"
+      },
+      "artists": [
+        {
+          "name": "AG Session",
+          "url": "https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Joe and Serena",
+      "url": "https://open.spotify.com/track/1P6C2xeRMI7RcFKl3HMYwE"
     }
   ],
   "unique_name": "Spotify Radio",

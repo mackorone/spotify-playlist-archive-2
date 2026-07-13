@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Joshua Aaron
 
-812 songs - 1 day 22 hr 1 min
+813 songs - 1 day 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -668,6 +668,7 @@
 | [The Gym](https://open.spotify.com/track/4JqF7JsvHJsYp9YpxiJnhe) | [Hustler Bhai](https://open.spotify.com/artist/6nTrUONhTLf2LgPZ8iukC2), [Hyde Karty](https://open.spotify.com/artist/5diOq1Qfzspw7pN99vd8bH), [Azim Ousman](https://open.spotify.com/artist/6Yu7WrUqltHbkBXZekd58r), [J Mic](https://open.spotify.com/artist/5uCiefzBc4ZLTVr0x1J1nj) | [The Gym](https://open.spotify.com/album/2ie6Opxa86GV3gXjONECb6) | 6:16 | 2023-09-26 | 2024-02-23 |
 | [The Last Light](https://open.spotify.com/track/1FR72yGnPnKwyV1QdKJPDm) | [Simeon Telfer](https://open.spotify.com/artist/4vkn9dybP20UlSOEXxO0ak), [Roja Aditya](https://open.spotify.com/artist/6g551keqGM5TQ6KOrvfSNQ) | [The Last Light](https://open.spotify.com/album/0nS93d4a3vB4Sn2klAP5Jt) | 2:38 | 2025-05-09 | 2025-09-09 |
 | [The Olu Song \- From "Think Uncut"](https://open.spotify.com/track/7eetxPcFZh36XQq4s00Mz5) | [Sivakumar](https://open.spotify.com/artist/02ZswAWCbZKdJrVp4GlFOU), [Sultan](https://open.spotify.com/artist/6CxPhwJegxh1fe2reQVgGD), [VishnuRam](https://open.spotify.com/artist/6nn1eFpW3VbPzdolibrVrW), [G Rajeshkumar](https://open.spotify.com/artist/4xj6ketxsODe1TDGzXgz3l), [Gaanaa Kamaraj](https://open.spotify.com/artist/0XyxErk3DPnFvyUS5fSlin) | [The Olu Song \(From "Think Uncut"\)](https://open.spotify.com/album/6LMa1yPl2nNwsVOLjjOgTh) | 2:55 | 2023-04-05 | 2023-07-28 |
+| [The Vex Song](https://open.spotify.com/track/2zqCudaM6gfePaJRR9Uz33) | [Valluvan](https://open.spotify.com/artist/5KMPMUPGGsLolQrX5iIiNF) | [The Vex Song](https://open.spotify.com/album/1ltmSbinJ37Wd888zsz0lJ) | 4:25 | 2026-07-13 |  |
 | [The Woahhh Song](https://open.spotify.com/track/5ns1dASf7sRmTAPeMluUfi) | [Jaison Siva](https://open.spotify.com/artist/20en5q74NI07Cj4nqYcREN) | [The Woahhh Song](https://open.spotify.com/album/6kz9WebGEgaqWSCjQ76y18) | 3:12 | 2024-09-13 | 2024-12-26 |
 | [Thean Aruvi](https://open.spotify.com/track/6ImKfKnGadzcmOrgoYNy9u) | [Vishakh Chandran](https://open.spotify.com/artist/66xZT319U6s2rmmu8rq6YL) | [Thean Aruvi](https://open.spotify.com/album/7rnC5gYOoFWddvbE99fmat) | 3:52 | 2025-04-25 | 2025-07-12 |
 | [Thedal](https://open.spotify.com/track/6DF5ghhV4ColVi92w2qFsD) | [PRI](https://open.spotify.com/artist/3SdB1D3HlBKxhy5kOOQvit), [Bak n 4th](https://open.spotify.com/artist/0XZDSZnm55oXsRvKSsnPyv) | [Aarohanam](https://open.spotify.com/album/5Da0j8ZDRVATizTR7c2gTU) | 3:37 | 2025-09-18 | 2026-01-31 |

@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music. Cover: HAAi",
-  "num_followers": 129423,
+  "num_followers": 129418,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,26 @@
     {
       "added_at": "2026-05-06 00:22:41",
       "album": {
+        "name": "still slipping vol. 1",
+        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "L\u00e9a Sen",
+          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
+        }
+      ],
+      "duration_ms": 301933,
+      "name": "better",
+      "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
+    },
+    {
+      "added_at": "2026-05-06 00:22:41",
+      "album": {
         "name": "What You Like (feat. yun\u00e8 pinku)",
         "url": "https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 234753,
       "name": "The Right",
       "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
-        "name": "still slipping vol. 1",
-        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        },
-        {
-          "name": "L\u00e9a Sen",
-          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
-        }
-      ],
-      "duration_ms": 301933,
-      "name": "better",
-      "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -769,26 +769,6 @@
       "url": "https://open.spotify.com/track/2DCAWhnusZQoxC7BffLjGY"
     },
     {
-      "added_at": "2026-06-11 14:00:37",
-      "album": {
-        "name": "Patang",
-        "url": "https://open.spotify.com/album/33VlFHJP6rf5Q9a4JoLdLz"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        },
-        {
-          "name": "Marlon Lopez",
-          "url": "https://open.spotify.com/artist/1D0mmSLwDys50XLi6A5b5m"
-        }
-      ],
-      "duration_ms": 416165,
-      "name": "Patang",
-      "url": "https://open.spotify.com/track/6Ie7HJ977fl1svbQIqiqFY"
-    },
-    {
       "added_at": "2026-05-06 00:22:41",
       "album": {
         "name": "I Want You To Know",
@@ -807,6 +787,26 @@
       "duration_ms": 190302,
       "name": "I Want You To Know",
       "url": "https://open.spotify.com/track/3lXC7mTOd15oE6nmrG0HLW"
+    },
+    {
+      "added_at": "2026-06-11 14:00:37",
+      "album": {
+        "name": "Patang",
+        "url": "https://open.spotify.com/album/33VlFHJP6rf5Q9a4JoLdLz"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        },
+        {
+          "name": "Marlon Lopez",
+          "url": "https://open.spotify.com/artist/1D0mmSLwDys50XLi6A5b5m"
+        }
+      ],
+      "duration_ms": 416165,
+      "name": "Patang",
+      "url": "https://open.spotify.com/track/6Ie7HJ977fl1svbQIqiqFY"
     },
     {
       "added_at": "2026-05-06 00:22:41",

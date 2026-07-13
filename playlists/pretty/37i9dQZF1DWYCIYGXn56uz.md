@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > 6 🤷 7 \- Madame in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,292 likes - 95 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,271 likes - 95 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

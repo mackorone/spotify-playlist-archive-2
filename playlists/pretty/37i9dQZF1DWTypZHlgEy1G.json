@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 533157,
+  "num_followers": 533154,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "20 chansons d'or",
+        "url": "https://open.spotify.com/album/0sLW7R4AIb8Zr0TX8Voe0b"
+      },
+      "artists": [
+        {
+          "name": "Gilbert B\u00e9caud",
+          "url": "https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0"
+        }
+      ],
+      "duration_ms": 247560,
+      "name": "Nathalie",
+      "url": "https://open.spotify.com/track/4xyCkwlgvdrULd6kzSIs0I"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Les Plus Belles Chansons De Claude Fran\u00e7ois",
         "url": "https://open.spotify.com/album/6ee87DJAkjCghFeSVSCnx5"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 239933,
       "name": "Le t\u00e9l\u00e9phone pleure",
       "url": "https://open.spotify.com/track/2Wd4Yu2RtYZjSmzLLaghNZ"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "20 chansons d'or",
-        "url": "https://open.spotify.com/album/0sLW7R4AIb8Zr0TX8Voe0b"
-      },
-      "artists": [
-        {
-          "name": "Gilbert B\u00e9caud",
-          "url": "https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0"
-        }
-      ],
-      "duration_ms": 247560,
-      "name": "Nathalie",
-      "url": "https://open.spotify.com/track/4xyCkwlgvdrULd6kzSIs0I"
     },
     {
       "added_at": "2024-07-25 13:22:22",

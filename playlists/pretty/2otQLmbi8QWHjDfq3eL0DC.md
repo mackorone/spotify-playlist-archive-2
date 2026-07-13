@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > Dive into the best House Music &amp; Electronic Dance hits\. Featuring energetic beats from David Guetta, Calvin Harris, &amp; Fisher\. Perfect for parties, workouts, or feel\-good vibes\. Updated Weekly! Like &amp; Save for your next groove.
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,312,415 likes - 100 songs - 5 hr 10 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,312,362 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

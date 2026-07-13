@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-228 songs - 12 hr 54 min
+230 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [All Hail The Serpent Queen Pt\. 3 of 3 \(Trilogy\) \(Holy Hell!\)](https://open.spotify.com/track/3LNTphUmLhEtnvd5d4uzs5) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [All Hail The Serpent Queen Pt\. 3 of 3 \(Trilogy\) \(Holy Hell!\)](https://open.spotify.com/album/7EnC5HAbfYA3ArvhS3OkvF) | 5:13 | 2024-01-29 | 2024-11-11 |
 | [All Hail the Serpent Queen Pt\. 3 of 3 \(Trilogy\) \[Holy Hell!\]](https://open.spotify.com/track/7MICU4JkM1QzBDlt7gjv78) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [All Hail the Serpent Queen Pt\. 3 of 3 \(Trilogy\) \[Holy Hell!\]](https://open.spotify.com/album/04jVIJ1KtHZzr8oNZa1go5) | 5:13 | 2024-11-10 |  |
 | [All Natural](https://open.spotify.com/track/57qr5kFDt871A0TTrBBlX7) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [All Natural](https://open.spotify.com/album/0nwnZW95L9dJpMrugSne3n) | 3:02 | 2025-10-01 |  |
+| [Any Man](https://open.spotify.com/track/0FeHSfzNeNbLtfii09pC5i) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 2:46 | 2026-07-12 |  |
 | [Apart Of You](https://open.spotify.com/track/1DWDQ3oTtgVbvxwcnnATDP) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:19 | 2024-01-29 |  |
 | [Apartment Song](https://open.spotify.com/track/0h6ymtVt32j6qKZzzMs8aV) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:41 | 2024-01-29 |  |
 | [Awake](https://open.spotify.com/track/67ooRicNWzjRLBw3ddW9iy) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 3:43 | 2024-01-29 |  |
@@ -220,6 +221,7 @@
 | [Warm Hands](https://open.spotify.com/track/26zeBswxGL0oYmaQoY66Bb) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/4WEXLPtiftj1O4Sx03wPHb) | 3:48 | 2024-01-29 | 2026-04-13 |
 | [Warm Hands](https://open.spotify.com/track/2oo231nFXaBANCMEIqTW1p) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/7lrC5VrR0O2PXl8EWbRztk) | 3:48 | 2026-04-12 |  |
 | [We Had Everything](https://open.spotify.com/track/2YtGWoI8YM9yT41bPoyqWy) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:23 | 2024-01-29 |  |
+| [Weirdo](https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:31 | 2026-07-12 |  |
 | [Welcome to Hell \(Intro\)](https://open.spotify.com/track/2SeaJ3G6v4VeF9n4P7PgEq) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 0:48 | 2024-11-10 |  |
 | [Welcome to Hell \(Intro\)](https://open.spotify.com/track/6dX1aXRztvGlL5OziqQEEG) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always And Never](https://open.spotify.com/album/0WMrKEAvHgKZAVz1LEZgwF) | 0:48 | 2024-01-29 | 2024-11-11 |
 | [Whatever It Takes](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:21 | 2024-01-29 |  |

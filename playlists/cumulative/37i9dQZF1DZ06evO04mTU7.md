@@ -4,7 +4,7 @@
 
 > This is AJULLIACOSTA\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 42 min
+70 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Sob a luz do seu olhar](https://open.spotify.com/track/68SClB1WYtJnapn6I7Spmk) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [Cheek](https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 2:36 | 2025-09-18 |  |
 | [SUA FAVORITA](https://open.spotify.com/track/4M4gvIsQmAZTRyfrFwnkIA) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU) | [SUA FAVORITA](https://open.spotify.com/album/1307xU8fubUQzLFHRnlJ3e) | 2:33 | 2026-05-24 | 2026-06-05 |
 | [SUA FAVORITA](https://open.spotify.com/track/7AnpPfdkT6b3Cy6fN8NdkE) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU) | [FREQUÊNCIA LUNAR](https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR) | 2:33 | 2026-06-05 |  |
+| [Tente Outra Vez](https://open.spotify.com/track/4kHh90uSeHcEuPfKi3sDxR) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Sebrae Nosso Canto](https://open.spotify.com/artist/5g96lcZahWMG2d1yrzhQaA) | [Tente Outra Vez](https://open.spotify.com/album/6MQpLTMlTHjTCatVNIkpoq) | 1:54 | 2026-07-13 |  |
 | [THE BOX MEDLEY 12](https://open.spotify.com/track/6TmtNB90rBnhIiJeJuEyWu) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q), [ProdbyFp](https://open.spotify.com/artist/3ZvLD1r68ljiKAmPP399fK) | [THE BOX MEDLEY 12](https://open.spotify.com/album/1UAvKSK9Mc7Euv0HwVej1C) | 5:52 | 2026-02-01 |  |
 | [Toc Toc Toc](https://open.spotify.com/track/2Oq3YDQMK6oFqOuuIzeeXO) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 2:10 | 2025-09-18 | 2025-11-26 |
 | [Tão Gostoso](https://open.spotify.com/track/0bgy7v2lKWmvaegE7JKF7m) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 4:22 | 2023-12-30 |  |

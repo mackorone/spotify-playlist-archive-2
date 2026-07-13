@@ -14609,6 +14609,24 @@
     },
     {
       "album": {
+        "name": "The Vex Song",
+        "url": "https://open.spotify.com/album/1ltmSbinJ37Wd888zsz0lJ"
+      },
+      "artists": [
+        {
+          "name": "Valluvan",
+          "url": "https://open.spotify.com/artist/5KMPMUPGGsLolQrX5iIiNF"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265473,
+      "name": "The Vex Song",
+      "url": "https://open.spotify.com/track/2zqCudaM6gfePaJRR9Uz33"
+    },
+    {
+      "album": {
         "name": "The Woahhh Song",
         "url": "https://open.spotify.com/album/6kz9WebGEgaqWSCjQ76y18"
       },

@@ -4,7 +4,7 @@
 
 > This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 5 min
+77 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Corrido Del Gallito](https://open.spotify.com/track/3iOVKQR6StoaMH7kOvVYWr) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [Chalino Sánchez y Cornelio Reyna, Vol\. 2](https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8) | 3:22 | 2025-10-13 |  |
 | [Dinastía De Los Ochoa](https://open.spotify.com/track/6GgeIf39nDpOnyQg8MNUue) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas](https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw) | 3:09 | 2024-01-29 | 2025-10-03 |
 | [Dinastía De Los Ochoa](https://open.spotify.com/track/7fogb68Ma2b3qzjiQyeBY8) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Colección De Oro: Mis Mejores Corridos, Vol\. 3](https://open.spotify.com/album/60Ct5U4wMdKjuW7AtwpkyU) | 3:09 | 2025-11-25 | 2026-03-02 |
+| [Dinastía de los Ochoa \- Remastered 2025](https://open.spotify.com/track/72lurftDROYvnKSIzgQPwn) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas \(Remastered 2025\)](https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV) | 3:11 | 2026-07-13 |  |
 | [El Branco Fajiado](https://open.spotify.com/track/7wcumrISUbC0j0QWFOlTvy) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Puros Éxitos de Colección!](https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3) | 2:41 | 2024-04-22 |  |
 | [El Crimen De Culiacán](https://open.spotify.com/track/5pkr9BmnShPMoo5QLnpmnA) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Nieves de Enero](https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV) | 3:10 | 2024-01-29 |  |
 | [El Dos Dedos](https://open.spotify.com/track/3oBmCyq6ABjudJWo5qYO6V) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Colección De Oro De Chalino Sánchez, Vol\. 2: Corridos](https://open.spotify.com/album/6LxSZiUs4esgDajqF1hs2Y) | 3:25 | 2025-10-12 | 2026-03-14 |
@@ -49,7 +50,7 @@
 | [La Ametralladora](https://open.spotify.com/track/27YCBynZy6VINFpa09QlCi) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Mano A Mano Norteno](https://open.spotify.com/album/16MrsMDG0RKyQIeFJ1H6WM) | 2:34 | 2024-01-29 | 2024-04-06 |
 | [La Ametralladora](https://open.spotify.com/track/2xTyJxQf3jS7jSWndCt2Zx) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Exitos de Colección, Vol.1](https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX) | 2:36 | 2024-12-22 |  |
 | [La Ametralladora](https://open.spotify.com/track/6HU6CPW530Rx4mQJShfviL) | [Saul Viera El Gavilancillo](https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69), [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Los Mejores Duetos del Año](https://open.spotify.com/album/7terMn7qIuU20lfQidPPQY) | 2:36 | 2024-04-08 | 2024-11-05 |
-| [La Loba Del Mal](https://open.spotify.com/track/6chFGW4L9I0YQX6Es2Jkd9) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [La Flor Del Campo: El Pávido Návido](https://open.spotify.com/album/26jewTq5DzesUy9vfG83nw) | 2:36 | 2024-01-29 |  |
+| [La Loba Del Mal](https://open.spotify.com/track/6chFGW4L9I0YQX6Es2Jkd9) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [La Flor Del Campo: El Pávido Návido](https://open.spotify.com/album/26jewTq5DzesUy9vfG83nw) | 2:36 | 2024-01-29 | 2026-07-13 |
 | [La Muerte Del Pela Vacas](https://open.spotify.com/track/3hPONUfgInu27vGEezmcWR) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas](https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw) | 3:11 | 2024-01-29 | 2025-10-12 |
 | [La Muerte Del Pela Vacas](https://open.spotify.com/track/4tJ5aqztNU0FczpVWOQNu6) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Mi Mexico Querido](https://open.spotify.com/album/1HjUAVVEwOBdj2UOgxiVIz) | 3:11 | 2026-03-11 |  |
 | [La Muerte Del Pela Vacas](https://open.spotify.com/track/7runa07mWUPQiou4sIWBsx) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Colección De Oro De Chalino Sánchez, Vol\. 2: Corridos](https://open.spotify.com/album/6LxSZiUs4esgDajqF1hs2Y) | 3:11 | 2025-10-12 | 2026-03-11 |

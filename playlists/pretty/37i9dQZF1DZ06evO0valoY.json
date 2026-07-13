@@ -1,12 +1,12 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 216626,
+  "num_followers": 216664,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAB/OJKewKMvOdW7/mB3ub6i",
+  "snapshot_id": "alGHgAAAAAAbFPeALVpqdfm/ZzzN/aub",
   "tracks": [
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+        "name": "NOCTURNO",
+        "url": "https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 226821,
-      "name": "Con Tus Besos",
-      "url": "https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT"
+      "duration_ms": 222281,
+      "name": "K",
+      "url": "https://open.spotify.com/track/5Qsmx0ffKXwbLTUgeFC2Ce"
     },
     {
       "added_at": null,
@@ -163,8 +163,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOCTURNO",
-        "url": "https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk"
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
       },
       "artists": [
         {
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 222281,
-      "name": "K",
-      "url": "https://open.spotify.com/track/5Qsmx0ffKXwbLTUgeFC2Ce"
+      "duration_ms": 226821,
+      "name": "Con Tus Besos",
+      "url": "https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT"
     },
     {
       "added_at": null,
@@ -191,6 +191,26 @@
       "duration_ms": 214626,
       "name": "Regresa Mami",
       "url": "https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOCTURNO",
+        "url": "https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 210499,
+      "name": "B\u00c9SAME",
+      "url": "https://open.spotify.com/track/3KlTDGWYHS5usD0EYYDeDo"
     },
     {
       "added_at": null,
@@ -231,26 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOCTURNO",
-        "url": "https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 210499,
-      "name": "B\u00c9SAME",
-      "url": "https://open.spotify.com/track/3KlTDGWYHS5usD0EYYDeDo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vibras De Noche II",
         "url": "https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 222117,
       "name": "OTRAS 24 HORAS",
       "url": "https://open.spotify.com/track/0pDnaflKbJcMj1TVbDDcH0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOCTURNO",
+        "url": "https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 191155,
+      "name": "OJOS DE DIABLA",
+      "url": "https://open.spotify.com/track/57NeURKAnB5THfudz92bpT"
     },
     {
       "added_at": null,
@@ -303,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOCTURNO",
-        "url": "https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 191155,
-      "name": "OJOS DE DIABLA",
-      "url": "https://open.spotify.com/track/57NeURKAnB5THfudz92bpT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -339,6 +339,22 @@
       "duration_ms": 262883,
       "name": "LA DURANGO",
       "url": "https://open.spotify.com/track/5jVExEArvISIYu8mamVgfV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOCTURNO",
+        "url": "https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 205561,
+      "name": "SIEMPRE SIEMPRE",
+      "url": "https://open.spotify.com/track/59xUvgpZ3C4bSLJjwFFC1e"
     },
     {
       "added_at": null,
@@ -379,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOCTURNO",
-        "url": "https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 205561,
-      "name": "SIEMPRE SIEMPRE",
-      "url": "https://open.spotify.com/track/59xUvgpZ3C4bSLJjwFFC1e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vibras De Noche II",
         "url": "https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0"
       },
@@ -407,6 +407,26 @@
       "duration_ms": 183566,
       "name": "Dime",
       "url": "https://open.spotify.com/track/4oSFRdQOUmIx5y7lSN8UU2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOCTURNO",
+        "url": "https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 208843,
+      "name": "MORIR TRES VECES",
+      "url": "https://open.spotify.com/track/0HzL42pnpYPa0xAmBJ2F5r"
     },
     {
       "added_at": null,
@@ -443,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOCTURNO",
-        "url": "https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 208843,
-      "name": "MORIR TRES VECES",
-      "url": "https://open.spotify.com/track/0HzL42pnpYPa0xAmBJ2F5r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vibras De Noche II",
         "url": "https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0"
       },
@@ -475,6 +475,22 @@
       "duration_ms": 161891,
       "name": "KE DIABLOS HICE II",
       "url": "https://open.spotify.com/track/60EWFAUY7exPBybSny44JW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOCTURNO",
+        "url": "https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 275374,
+      "name": "CORTA VENAS",
+      "url": "https://open.spotify.com/track/46aQyr7ndPi9DMcsjztOzA"
     },
     {
       "added_at": null,
@@ -495,38 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corta Venas",
-        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+        "name": "Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/7nI6sntFE1dXyo5UPGRevX"
       },
       "artists": [
         {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 398466,
-      "name": "Mi Historia Entre Tus Dedos",
-      "url": "https://open.spotify.com/track/4cNOvC1mAjWEABZTxx2psa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NOCTURNO",
-        "url": "https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         },
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 194021,
-      "name": "X TI",
-      "url": "https://open.spotify.com/track/65zEkNLbIn9Idf2NmcYSVt"
+      "duration_ms": 197107,
+      "name": "Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe"
     },
     {
       "added_at": null,
@@ -563,22 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/7nI6sntFE1dXyo5UPGRevX"
+        "name": "Corta Venas",
+        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
       },
       "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 197107,
-      "name": "Te Encontr\u00e9",
-      "url": "https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe"
+      "duration_ms": 398466,
+      "name": "Mi Historia Entre Tus Dedos",
+      "url": "https://open.spotify.com/track/4cNOvC1mAjWEABZTxx2psa"
     },
     {
       "added_at": null,
@@ -663,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vibras de Noche",
+        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 292052,
+      "name": "\u00bfDonde Has Estado?",
+      "url": "https://open.spotify.com/track/6hklGK8K5sqP4IK2PZHGkV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Vida En Un Cigarro 2",
         "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
@@ -679,22 +691,6 @@
       "duration_ms": 233096,
       "name": "Pa Que Te Duela",
       "url": "https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vibras de Noche",
-        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 292052,
-      "name": "\u00bfDonde Has Estado?",
-      "url": "https://open.spotify.com/track/6hklGK8K5sqP4IK2PZHGkV"
     },
     {
       "added_at": null,

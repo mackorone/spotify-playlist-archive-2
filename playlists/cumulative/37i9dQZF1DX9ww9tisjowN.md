@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: ZUTOMAYO ずっと真夜中でいいのに。
 
-1,164 songs - 2 day 18 hr 39 min
+1,165 songs - 2 day 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [FOREVER](https://open.spotify.com/track/4YXAXnmmqGgzxR2qyg3702) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FOREVER](https://open.spotify.com/album/19Yn54AlytsVPjLKGeWsQy) | 3:09 | 2024-10-17 | 2024-11-15 |
 | [Free Yourself feat\. ATARASHII GAKKO!](https://open.spotify.com/track/1oholojJEuNCauGl8jcf3J) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Free Yourself feat\. ATARASHII GAKKO!](https://open.spotify.com/album/0C7iWuQIhgo3PmxpjQXNbr) | 3:33 | 2025-04-10 | 2025-05-02 |
 | [FREEDOM](https://open.spotify.com/track/3MBNF3aevdp5vmfepYahNu) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz), [t.komuro](https://open.spotify.com/artist/2bE0EJMa2PapJUQZYlyE6P) | [FREEDOM](https://open.spotify.com/album/2rIbUpPhcphEF4ykNX5j41) | 5:18 | 2024-02-15 | 2024-03-01 |
-| [Fright](https://open.spotify.com/track/0KOwIxuylidjOSllJAINxO) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Fright](https://open.spotify.com/album/3UVYg0VPKbfbrB60W26fGI) | 2:25 | 2026-04-09 |  |
+| [Fright](https://open.spotify.com/track/0KOwIxuylidjOSllJAINxO) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Fright](https://open.spotify.com/album/3UVYg0VPKbfbrB60W26fGI) | 2:25 | 2026-04-09 | 2026-07-13 |
 | [from me to u \(feat\. Poppy\)](https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [from me to u \(feat\. Poppy\)](https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn) | 3:24 | 2025-04-03 | 2025-05-23 |
 | [From Now!](https://open.spotify.com/track/0toZ2nIg2UPB7lnUBUC5cy) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [From Now!](https://open.spotify.com/album/0ZQ92Ej8z7S5K65dmOIoB9) | 2:55 | 2024-09-05 | 2024-10-18 |
 | [Frontiers](https://open.spotify.com/track/5wDeR4q2dm5UAOFSWDEiaR) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Frontiers](https://open.spotify.com/album/0LLsacEXZ39HCzTcXzg81C) | 2:36 | 2025-01-16 | 2025-02-21 |
@@ -901,6 +901,7 @@
 | [モニタリング](https://open.spotify.com/track/03xt11xuwiqUQBMYKwEWKz) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [TRANSFORM](https://open.spotify.com/album/0hOIEdxWNyYEUrAjDNsphA) | 2:56 | 2025-01-23 | 2026-01-15 |
 | [モニタリング \(Best Friend Remix\)](https://open.spotify.com/track/5an1RVI4IDE9xP7iBRVssg) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [モニタリング \(Best Friend Remix\)](https://open.spotify.com/album/7LeSWBUQBEBUp0mguX4fQs) | 2:58 | 2025-10-02 | 2026-02-20 |
 | [モノトーン](https://open.spotify.com/track/42XeicjBjdyu7boDDtHkvu) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [モノトーン](https://open.spotify.com/album/5xCgHRLy9eo3VJIssNPOUJ) | 3:30 | 2024-10-03 | 2024-12-05 |
+| [ユラリユレル](https://open.spotify.com/track/3ZMapuoR0hubjGNd8JUBKe) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [ユラリユレル](https://open.spotify.com/album/4g3ojiN2E74O7yYCr55wvg) | 3:28 | 2026-07-13 |  |
 | [ユリイカ](https://open.spotify.com/track/24yjeET9kkN8mQMHLBdSoV) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ユリイカ](https://open.spotify.com/album/2wCxkWZ2zxjUoBNgMZr8U0) | 3:45 | 2024-04-18 | 2024-09-06 |
 | [ユートピア](https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ユートピア](https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V) | 4:32 | 2023-07-06 | 2023-12-08 |
 | [ユートピア](https://open.spotify.com/track/0BNRPhGI1A8MHZqyDaJEEq) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BACK](https://open.spotify.com/album/7Ej2LUL0yWgp3eHjLROaNd) | 2:39 | 2023-10-03 | 2023-10-20 |

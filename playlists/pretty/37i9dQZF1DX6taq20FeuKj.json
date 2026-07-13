@@ -1,6 +1,6 @@
 {
   "description": "Get your gaming session going with this epic rap mix.",
-  "num_followers": 2116146,
+  "num_followers": 2116102,
   "original_name": "Power Gaming",
   "owner": {
     "name": "Spotify",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 119133,
-      "name": "Jocelyn Flores",
-      "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 119133,
+      "name": "Jocelyn Flores",
+      "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 302760,
+      "name": "Juicy - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
         "name": "SAVAGE MODE II",
         "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 195906,
       "name": "Runnin",
       "url": "https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 302760,
-      "name": "Juicy - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "Dark Sky Paradise",
-        "url": "https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE"
-      },
-      "artists": [
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        }
-      ],
-      "duration_ms": 284386,
-      "name": "I Don't Fuck With You",
-      "url": "https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
         "name": "Culture",
         "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 343150,
       "name": "Bad and Boujee (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
+        "name": "Dark Sky Paradise",
+        "url": "https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        }
+      ],
+      "duration_ms": 284386,
+      "name": "I Don't Fuck With You",
+      "url": "https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "The Perfect LUV Tape",
-        "url": "https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 199993,
-      "name": "Erase Your Social",
-      "url": "https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
         "name": "MUDBOY",
         "url": "https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp"
       },
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
+        "name": "The Perfect LUV Tape",
+        "url": "https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 199993,
+      "name": "Erase Your Social",
+      "url": "https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
         "name": "KIRK",
         "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
       },
@@ -1535,22 +1535,6 @@
       "duration_ms": 159714,
       "name": "BOP",
       "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
-        "name": "Life of a Dark Rose",
-        "url": "https://open.spotify.com/album/0CuYNS755Ow710G2E7aLDE"
-      },
-      "artists": [
-        {
-          "name": "Lil Skies",
-          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Lust",
-      "url": "https://open.spotify.com/track/7oJrVhiTPZGBXWPwhxjy9S"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1579,26 +1563,18 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "AT.LONG.LAST.A$AP",
-        "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
+        "name": "Life of a Dark Rose",
+        "url": "https://open.spotify.com/album/0CuYNS755Ow710G2E7aLDE"
       },
       "artists": [
         {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Joe Fox",
-          "url": "https://open.spotify.com/artist/2Dbnk0YRTPpKu46XzMf9nu"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Lil Skies",
+          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
         }
       ],
-      "duration_ms": 323962,
-      "name": "Jukebox Joints (feat. Joe Fox & Kanye West)",
-      "url": "https://open.spotify.com/track/2gAGWaK4wvt2xrFUlR4mK8"
+      "duration_ms": 156000,
+      "name": "Lust",
+      "url": "https://open.spotify.com/track/7oJrVhiTPZGBXWPwhxjy9S"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1623,6 +1599,30 @@
       "duration_ms": 190331,
       "name": "Rich Nigga Shit (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3ruoIF2UnoXdzK8mR61ebq"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
+        "name": "AT.LONG.LAST.A$AP",
+        "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Joe Fox",
+          "url": "https://open.spotify.com/artist/2Dbnk0YRTPpKu46XzMf9nu"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 323962,
+      "name": "Jukebox Joints (feat. Joe Fox & Kanye West)",
+      "url": "https://open.spotify.com/track/2gAGWaK4wvt2xrFUlR4mK8"
     },
     {
       "added_at": "2024-05-02 15:06:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Jimmy Guzman is bringing the heat this week\. Tap in every Thursday for a fresh Fuego mixtape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,915,306 likes - 45 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,915,232 likes - 45 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

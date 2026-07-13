@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIV1hAnuH1ilI>Justin Bieber</a>, <a href=spotify:playlist:37i9dQZF1EIVo4rgqc9CZa>ABBA</a>, <a href=spotify:playlist:37i9dQZF1EIUnslPhwwdfa>Zach Bryan</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a>, <a href=spotify:playlist:37i9dQZF1EIUY5V9mnUM6w>Junior H</a>, <a href=spotify:playlist:37i9dQZF1EIX11fykfK86c>R.E.M.</a> and more",
   "name": "Sad Mix",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 250173,
       "name": "1-800-273-8255",
       "url": "https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 244906,
       "name": "16 Lines",
       "url": "https://open.spotify.com/track/6akBF8JWM8lrpqejdwIfYI"
@@ -10781,6 +10781,24 @@
     },
     {
       "album": {
+        "name": "Out Of Time (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268426,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/1HU8wilK9weNitbp7Pfesw"
       },
@@ -11704,7 +11722,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 147950,
       "name": "mental health.",
       "url": "https://open.spotify.com/track/1wrWCi6F7S9ky8bvwgmCD8"
@@ -13454,7 +13472,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-12",
+      "date_removed": null,
       "duration_ms": 163404,
       "name": "Paranoie",
       "url": "https://open.spotify.com/track/5dvs1LY4pqUhUsVOQXtx2M"
@@ -13880,7 +13898,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 240669,
       "name": "PI\u00c9NSALO",
       "url": "https://open.spotify.com/track/4ZOkfHC38nxSeSqzGE5HFr"
@@ -14664,7 +14682,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 192000,
       "name": "Roto",
       "url": "https://open.spotify.com/track/3YIU0OFB9ejJxu3eWgb7sU"
@@ -14718,7 +14736,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 192760,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1FBi1YWCAxlRmfuUbMINqO"
@@ -15820,7 +15838,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 92539,
       "name": "Siempre",
       "url": "https://open.spotify.com/track/7d0L1QvUelTW66QsPLPiN0"
@@ -16264,7 +16282,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
@@ -16726,7 +16744,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 286466,
       "name": "Stupid Love Story",
       "url": "https://open.spotify.com/track/1r5mgtowxhqse44YVzCk6x"
@@ -17412,7 +17430,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 232720,
       "name": "That Should Be Me",
       "url": "https://open.spotify.com/track/0aPZbnkMoWJaJ5CNVLCj8S"
@@ -17970,7 +17988,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 294720,
       "name": "The Winner Takes It All",
       "url": "https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV"
@@ -18612,7 +18630,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 200729,
       "name": "TUTTO FUORI CONTROLLO \u0d75 (con Franco 126, Kid Yugi, Izi)",
       "url": "https://open.spotify.com/track/56aNXzJAZbI1j6jJeEampd"
@@ -18728,7 +18746,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-12",
+      "date_removed": null,
       "duration_ms": 186666,
       "name": "Una cotta per te",
       "url": "https://open.spotify.com/track/4VQiyfLMWzryiGAE2FpqTh"
@@ -18890,7 +18908,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"

@@ -19806,7 +19806,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-12",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -25012,7 +25012,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 180383,
       "name": "gimme luv <3",
       "url": "https://open.spotify.com/track/1UeTyrfK5QChYU0kOJqv1z"
@@ -25734,7 +25734,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 138666,
       "name": "Goldrichtig",
       "url": "https://open.spotify.com/track/6m30ibqUxVeV3BblhchtEG"
@@ -27864,7 +27864,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 158206,
       "name": "Hin und Her",
       "url": "https://open.spotify.com/track/5PcZTsUAo5ZH9JcTmBNy5t"
@@ -30220,7 +30220,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 192964,
       "name": "Ich hass dich",
       "url": "https://open.spotify.com/track/2toCf2FDbTIdWriPI6kcsY"
@@ -31382,7 +31382,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 199306,
       "name": "Irgendwann bleib i dann dort",
       "url": "https://open.spotify.com/track/3uAB9VrFdnL33PnJDpcNWq"
@@ -34396,6 +34396,36 @@
       "duration_ms": 157800,
       "name": "KUSURA BAKMA",
       "url": "https://open.spotify.com/track/1mgoLJV5W6JSWanT5bgf3o"
+    },
+    {
+      "album": {
+        "name": "Kygo Jo (feat. Lyng) [Kygo Remix]",
+        "url": "https://open.spotify.com/album/6AQiRXJ2i48Lu7CFUrKUER"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Flow Kingz",
+          "url": "https://open.spotify.com/artist/1811qTctCVNYGH09k7sfyY"
+        },
+        {
+          "name": "JMK",
+          "url": "https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN"
+        },
+        {
+          "name": "Lyng",
+          "url": "https://open.spotify.com/artist/5ducg8qTQPfJJSSsO3D8hB"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153272,
+      "name": "Kygo Jo (feat. Lyng) - Kygo Remix",
+      "url": "https://open.spotify.com/track/3ExrDwHbhBZYurE2AOC1rL"
     },
     {
       "album": {
@@ -44878,7 +44908,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -53536,7 +53566,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 184546,
       "name": "Sar\u00e0 perch\u00e9 ti amo",
       "url": "https://open.spotify.com/track/6lK2xptPzLPmvpE29U4mDH"
@@ -58246,7 +58276,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
@@ -58536,7 +58566,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 216053,
       "name": "Summer Of '69",
       "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
@@ -64452,7 +64482,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 138032,
       "name": "Unsicher",
       "url": "https://open.spotify.com/track/77q6HZcDoydfvCAJt7Ufgv"
@@ -64576,7 +64606,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -67658,7 +67688,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 164991,
       "name": "Wenn das Liebe ist",
       "url": "https://open.spotify.com/track/12xgF9juNdUd1TpkFD3a8I"
@@ -69982,7 +70012,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
@@ -70000,7 +70030,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"

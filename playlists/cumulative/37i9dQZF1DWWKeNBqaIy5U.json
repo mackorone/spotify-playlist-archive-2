@@ -1355,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "What Is There To Say?",
+        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250426,
+      "name": "Just In Time",
+      "url": "https://open.spotify.com/track/4dNKUXGfUMsMSkmytyQY7T"
+    },
+    {
+      "album": {
         "name": "Plays For Bird (RVG Remaster)",
         "url": "https://open.spotify.com/album/3DYmLyJmnC9Rk3xFzQsd8C"
       },
@@ -1956,7 +1974,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 205750,
       "name": "Serendipity",
       "url": "https://open.spotify.com/track/3KonwJcO3xhHuNq49osUSD"

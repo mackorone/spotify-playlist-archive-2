@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uacc4\ub97c \ub6f0\uc5b4\ub118\ub294 \ub2f9\uc2e0\uc744 \uc6b4\ub3d9\uc744 \uc704\ud558\uc5ec.",
-  "num_followers": 21342,
+  "num_followers": 21351,
   "original_name": "3\ub300 1000",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 198292,
+      "name": "all of me",
+      "url": "https://open.spotify.com/track/2FoahzOSxJnalPA8aBUme3"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
         "name": "Show Me The Money 12 Episode 1",
         "url": "https://open.spotify.com/album/67ieVVFQxypYAvx3FirGoG"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 270304,
       "name": "SSAK (Feat. Loco) (Prod. By GRAY)",
       "url": "https://open.spotify.com/track/0FOReGSXypVBP1q3CLEbfN"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 198292,
-      "name": "all of me",
-      "url": "https://open.spotify.com/track/2FoahzOSxJnalPA8aBUme3"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -959,22 +959,22 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "\u30a2\u30cb\u30e7\u30cf\u30bb\u30e8",
-        "url": "https://open.spotify.com/album/2Vxwq1HTQ54jYHyinyIgWl"
+        "name": "Featuring Ty Dolla $ign",
+        "url": "https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8"
       },
       "artists": [
         {
-          "name": "\u5343\u8449\u96c4\u559c",
-          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         },
         {
-          "name": "Lil Moshpit",
-          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 116800,
-      "name": "\u30a2\u30cb\u30e7\u30cf\u30bb\u30e8",
-      "url": "https://open.spotify.com/track/79o6CP5pgfHARPPXRHOcBN"
+      "duration_ms": 143375,
+      "name": "Spicy (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/5IUtvfNvOyVYZUa6AJFrnP"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -999,22 +999,22 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "Featuring Ty Dolla $ign",
-        "url": "https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8"
+        "name": "\u30a2\u30cb\u30e7\u30cf\u30bb\u30e8",
+        "url": "https://open.spotify.com/album/2Vxwq1HTQ54jYHyinyIgWl"
       },
       "artists": [
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
         },
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
         }
       ],
-      "duration_ms": 143375,
-      "name": "Spicy (feat. Post Malone)",
-      "url": "https://open.spotify.com/track/5IUtvfNvOyVYZUa6AJFrnP"
+      "duration_ms": 116800,
+      "name": "\u30a2\u30cb\u30e7\u30cf\u30bb\u30e8",
+      "url": "https://open.spotify.com/track/79o6CP5pgfHARPPXRHOcBN"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -1591,30 +1591,6 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "My Feelings For You (Mark Knight Remix)",
-        "url": "https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sebastien Drums",
-          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
-        },
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        }
-      ],
-      "duration_ms": 224515,
-      "name": "My Feelings For You - Mark Knight Remix",
-      "url": "https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
@@ -1683,18 +1659,26 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "Hands up, Yo!",
-        "url": "https://open.spotify.com/album/47ImUBAiFpTzsD7hHHsucf"
+        "name": "My Feelings For You (Mark Knight Remix)",
+        "url": "https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF"
       },
       "artists": [
         {
-          "name": "NEXZ",
-          "url": "https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW"
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sebastien Drums",
+          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Hands up, Yo!",
-      "url": "https://open.spotify.com/track/46AUBRiFRIkbbKvEwqyDbO"
+      "duration_ms": 224515,
+      "name": "My Feelings For You - Mark Knight Remix",
+      "url": "https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -1715,6 +1699,22 @@
       "duration_ms": 221197,
       "name": "EMERGENCY (Feat. J-Tong) (Prod. by Hukky Shibaseki)",
       "url": "https://open.spotify.com/track/4sKfiEkA7eCO0aztGv7kY7"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
+        "name": "Hands up, Yo!",
+        "url": "https://open.spotify.com/album/47ImUBAiFpTzsD7hHHsucf"
+      },
+      "artists": [
+        {
+          "name": "NEXZ",
+          "url": "https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Hands up, Yo!",
+      "url": "https://open.spotify.com/track/46AUBRiFRIkbbKvEwqyDbO"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -1791,6 +1791,34 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
+        "name": "K-FLIP",
+        "url": "https://open.spotify.com/album/2TJE6Xv4CZ5560So8iC48N"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        },
+        {
+          "name": "Roh Yun Ha",
+          "url": "https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy"
+        },
+        {
+          "name": "Wuuslime",
+          "url": "https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm"
+        }
+      ],
+      "duration_ms": 189016,
+      "name": "PUBLIC ENEMY (Feat. Roh Yun Ha, Wuuslime)",
+      "url": "https://open.spotify.com/track/0k4IMjv3mF9LlphfeG8ZjA"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
         "name": "Show Me The Money 12 Semi Final",
         "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
       },
@@ -1807,42 +1835,6 @@
       "duration_ms": 258000,
       "name": "PAJAMA (Feat. WOODZ) (Prod. by ZICO, Crush)",
       "url": "https://open.spotify.com/track/3DNvKQeuZNaLxcStAhMasl"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
-        "name": "PUBLIC ENEMIES (Feat. OSUN, Iyaan, Jeffrey White, Raf Sandou)",
-        "url": "https://open.spotify.com/album/55znXAoQQTnD48knM4A5BU"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Lil Moshpit",
-          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
-        },
-        {
-          "name": "OSUN",
-          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
-        },
-        {
-          "name": "Iyaan",
-          "url": "https://open.spotify.com/artist/01XMTLO2jCbABW5w0Cvp7d"
-        },
-        {
-          "name": "Jeffrey White",
-          "url": "https://open.spotify.com/artist/2CzJxatdtHWmZzJf1iZZBi"
-        },
-        {
-          "name": "Raf Sandou",
-          "url": "https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "PUBLIC ENEMIES (Feat. OSUN, Iyaan, Jeffrey White, Raf Sandou)",
-      "url": "https://open.spotify.com/track/6TUuxnabfrlNbFi0FJSz5G"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -1887,30 +1879,6 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "LLLM",
-        "url": "https://open.spotify.com/album/1sBJdYVwKXuD7xlKmcNkZm"
-      },
-      "artists": [
-        {
-          "name": "Tray B",
-          "url": "https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        },
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 225610,
-      "name": "LLLM (feat. Gaeko, ZICO) [prod. Tray B]",
-      "url": "https://open.spotify.com/track/1RjqIbA7XR1ISRWXpIUpng"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 1",
         "url": "https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy"
       },
@@ -1951,8 +1919,8 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "K-FLIP",
-        "url": "https://open.spotify.com/album/2TJE6Xv4CZ5560So8iC48N"
+        "name": "PUBLIC ENEMIES (Feat. OSUN, Iyaan, Jeffrey White, Raf Sandou)",
+        "url": "https://open.spotify.com/album/55znXAoQQTnD48knM4A5BU"
       },
       "artists": [
         {
@@ -1964,17 +1932,49 @@
           "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
         },
         {
-          "name": "Roh Yun Ha",
-          "url": "https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy"
+          "name": "OSUN",
+          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
         },
         {
-          "name": "Wuuslime",
-          "url": "https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm"
+          "name": "Iyaan",
+          "url": "https://open.spotify.com/artist/01XMTLO2jCbABW5w0Cvp7d"
+        },
+        {
+          "name": "Jeffrey White",
+          "url": "https://open.spotify.com/artist/2CzJxatdtHWmZzJf1iZZBi"
+        },
+        {
+          "name": "Raf Sandou",
+          "url": "https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8"
         }
       ],
-      "duration_ms": 189016,
-      "name": "PUBLIC ENEMY (Feat. Roh Yun Ha, Wuuslime)",
-      "url": "https://open.spotify.com/track/0k4IMjv3mF9LlphfeG8ZjA"
+      "duration_ms": 243000,
+      "name": "PUBLIC ENEMIES (Feat. OSUN, Iyaan, Jeffrey White, Raf Sandou)",
+      "url": "https://open.spotify.com/track/6TUuxnabfrlNbFi0FJSz5G"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
+        "name": "LLLM",
+        "url": "https://open.spotify.com/album/1sBJdYVwKXuD7xlKmcNkZm"
+      },
+      "artists": [
+        {
+          "name": "Tray B",
+          "url": "https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 225610,
+      "name": "LLLM (feat. Gaeko, ZICO) [prod. Tray B]",
+      "url": "https://open.spotify.com/track/1RjqIbA7XR1ISRWXpIUpng"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "McNasty",
-        "url": "https://open.spotify.com/album/0Yz3zZhK6e0B5zUTqM5hZV"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 192378,
-      "name": "McNasty",
-      "url": "https://open.spotify.com/track/0nMwj215nyfEOER5AJWLDF"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
         "name": "Way Out (feat. Big Sean)",
         "url": "https://open.spotify.com/album/4TEJbgC8t4vVyIhDyxA6DU"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 168906,
       "name": "Way Out (feat. Big Sean)",
       "url": "https://open.spotify.com/track/6rLi6PyWXu1rPlShuIZpj6"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
+        "name": "McNasty",
+        "url": "https://open.spotify.com/album/0Yz3zZhK6e0B5zUTqM5hZV"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 192378,
+      "name": "McNasty",
+      "url": "https://open.spotify.com/track/0nMwj215nyfEOER5AJWLDF"
     }
   ],
   "unique_name": "3\ub300 1000",

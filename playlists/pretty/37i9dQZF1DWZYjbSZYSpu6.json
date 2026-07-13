@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFR7VEb3T81N7fv9fI+moiVv5KYQ",
+  "snapshot_id": "AAAAAFseM4X9RhNin09TpsUMKlBM+sYB",
   "tracks": [
     {
       "added_at": "2026-07-03 06:32:48",
@@ -271,26 +271,6 @@
     {
       "added_at": "2026-07-03 06:32:48",
       "album": {
-        "name": "Like Spring",
-        "url": "https://open.spotify.com/album/2YcxpSvWg2MFfXeI50bE5V"
-      },
-      "artists": [
-        {
-          "name": "GUMMY",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        },
-        {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Like Spring",
-      "url": "https://open.spotify.com/track/67YLguFMT7wbJl2dSXeNGE"
-    },
-    {
-      "added_at": "2026-07-03 06:32:48",
-      "album": {
         "name": "Couple - Special Single",
         "url": "https://open.spotify.com/album/5w9TtiYrHhiJsfVDrE5vWx"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 216094,
       "name": "Couple",
       "url": "https://open.spotify.com/track/5qlHFVgVy3WBFw7vBZPjaL"
+    },
+    {
+      "added_at": "2026-07-03 06:32:48",
+      "album": {
+        "name": "Like Spring",
+        "url": "https://open.spotify.com/album/2YcxpSvWg2MFfXeI50bE5V"
+      },
+      "artists": [
+        {
+          "name": "GUMMY",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        },
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Like Spring",
+      "url": "https://open.spotify.com/track/67YLguFMT7wbJl2dSXeNGE"
     },
     {
       "added_at": "2026-07-03 06:32:48",
@@ -351,26 +351,6 @@
     {
       "added_at": "2026-07-03 06:32:48",
       "album": {
-        "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
-        "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        },
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 198749,
-      "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
-      "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
-    },
-    {
-      "added_at": "2026-07-03 06:32:48",
-      "album": {
         "name": "Teenieping: Legend of the Whale Heartstone Special, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/22zTuvEyfwSfaJjTddc9ur"
       },
@@ -391,22 +371,42 @@
     {
       "added_at": "2026-07-03 06:32:48",
       "album": {
-        "name": "Another Miss Oh, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0gRxdS2kPjtmxoXgFWjJms"
+        "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
+        "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
       },
       "artists": [
         {
-          "name": "Seo Hyun Jin",
-          "url": "https://open.spotify.com/artist/5mVia8ijuiXexx5tUSROzs"
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
         },
         {
-          "name": "Yu Seung Woo",
-          "url": "https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 213000,
-      "name": "What Is Love",
-      "url": "https://open.spotify.com/track/7DvK5WiY7UjwOnDg69XMEn"
+      "duration_ms": 198749,
+      "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
+      "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
+    },
+    {
+      "added_at": "2026-07-03 06:32:48",
+      "album": {
+        "name": "Walk In The Night (Feat. Zion.T)",
+        "url": "https://open.spotify.com/album/49B53FD6M1eVPEGcEnk95g"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 185601,
+      "name": "Walk In The Night (Feat. Zion.T)",
+      "url": "https://open.spotify.com/track/1LEac3XXwvRlOWkKDZjLeK"
     },
     {
       "added_at": "2026-07-03 06:32:48",
@@ -431,22 +431,22 @@
     {
       "added_at": "2026-07-03 06:32:48",
       "album": {
-        "name": "Walk In The Night (Feat. Zion.T)",
-        "url": "https://open.spotify.com/album/49B53FD6M1eVPEGcEnk95g"
+        "name": "Another Miss Oh, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0gRxdS2kPjtmxoXgFWjJms"
       },
       "artists": [
         {
-          "name": "Moon Sujin",
-          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+          "name": "Seo Hyun Jin",
+          "url": "https://open.spotify.com/artist/5mVia8ijuiXexx5tUSROzs"
         },
         {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+          "name": "Yu Seung Woo",
+          "url": "https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf"
         }
       ],
-      "duration_ms": 185601,
-      "name": "Walk In The Night (Feat. Zion.T)",
-      "url": "https://open.spotify.com/track/1LEac3XXwvRlOWkKDZjLeK"
+      "duration_ms": 213000,
+      "name": "What Is Love",
+      "url": "https://open.spotify.com/track/7DvK5WiY7UjwOnDg69XMEn"
     },
     {
       "added_at": "2026-07-03 06:32:48",
@@ -699,26 +699,6 @@
     {
       "added_at": "2026-07-03 06:32:48",
       "album": {
-        "name": "Flower Language",
-        "url": "https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "Layone",
-          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
-        }
-      ],
-      "duration_ms": 232720,
-      "name": "Anemone",
-      "url": "https://open.spotify.com/track/6KJB9aBaZhTLTNH59WCxvg"
-    },
-    {
-      "added_at": "2026-07-03 06:32:48",
-      "album": {
         "name": "\uae34 \ubc24 (feat. GIRIBOY)",
         "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 210853,
       "name": "\uae34 \ubc24 (feat. GIRIBOY)",
       "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
+    },
+    {
+      "added_at": "2026-07-03 06:32:48",
+      "album": {
+        "name": "Flower Language",
+        "url": "https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+        }
+      ],
+      "duration_ms": 232720,
+      "name": "Anemone",
+      "url": "https://open.spotify.com/track/6KJB9aBaZhTLTNH59WCxvg"
     },
     {
       "added_at": "2026-07-03 06:32:48",
@@ -799,6 +799,26 @@
     {
       "added_at": "2026-07-03 06:32:48",
       "album": {
+        "name": "Because we loved",
+        "url": "https://open.spotify.com/album/2qarSzZiUyIe8RCdsilL7s"
+      },
+      "artists": [
+        {
+          "name": "KANG MINKYUNG",
+          "url": "https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4"
+        },
+        {
+          "name": "CHOI JUNG HOON of JANNABI",
+          "url": "https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4"
+        }
+      ],
+      "duration_ms": 221906,
+      "name": "Because we loved",
+      "url": "https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA"
+    },
+    {
+      "added_at": "2026-07-03 06:32:48",
+      "album": {
         "name": "You & Me",
         "url": "https://open.spotify.com/album/6EI3flCxdtzr5oMIxdHWJe"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 193263,
       "name": "I Wanna Be",
       "url": "https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i"
-    },
-    {
-      "added_at": "2026-07-03 06:32:48",
-      "album": {
-        "name": "Because we loved",
-        "url": "https://open.spotify.com/album/2qarSzZiUyIe8RCdsilL7s"
-      },
-      "artists": [
-        {
-          "name": "KANG MINKYUNG",
-          "url": "https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4"
-        },
-        {
-          "name": "CHOI JUNG HOON of JANNABI",
-          "url": "https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4"
-        }
-      ],
-      "duration_ms": 221906,
-      "name": "Because we loved",
-      "url": "https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA"
     },
     {
       "added_at": "2026-07-03 06:32:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63fzxvjWR0V.md) - [plain]
 
 > Log drums y perreo mexa 🔥 la combinación que no sabías que necesitabas\. Al Xapo & Benzoo 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,541 likes - 40 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,559 likes - 40 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63fzxvjWR0V.md) - [plain]
 | 2 | [Te Amo y Me Amas](https://open.spotify.com/track/1zcpINZGUYXn2dzO1QSlUo) | [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh) | [Linda Mujer](https://open.spotify.com/album/5T8dK0xt8rYynYjnKbPFAO) | 3:31 |
 | 3 | [Cuando No Era Cantante RMX \- Remix](https://open.spotify.com/track/5sX4UiPdOdndSEWA6asUgh) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [Eso Si Es De Gangster](https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL) | 5:27 |
 | 4 | [Te Quería Ver](https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Te Quería Ver](https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF) | 2:56 |
-| 5 | [Asambe](https://open.spotify.com/track/7IdIC4r7QsT1waUt6Ysb9z) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 3:32 |
-| 6 | [amor, cómo ESTÁS???](https://open.spotify.com/track/5DdWTn9Snp801vg4bm0EXP) | [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L) | [amor, cómo ESTÁS???](https://open.spotify.com/album/7EU7v0sM0po4foAIGPXwWY) | 3:33 |
+| 5 | [amor, cómo ESTÁS???](https://open.spotify.com/track/5DdWTn9Snp801vg4bm0EXP) | [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L) | [amor, cómo ESTÁS???](https://open.spotify.com/album/7EU7v0sM0po4foAIGPXwWY) | 3:33 |
+| 6 | [Asambe](https://open.spotify.com/track/7IdIC4r7QsT1waUt6Ysb9z) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 3:32 |
 | 7 | [MONEY CONSTANT](https://open.spotify.com/track/12jMMRyPNMTNp3CRmdWMve) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [SOUTH GIDI](https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ) | 6:15 |
 | 8 | [Blancanieves](https://open.spotify.com/track/1CDo1ZxKO7LxGIZNYZ4nFL) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Blancanieves](https://open.spotify.com/album/2zGdZxzpRLp4erY3nyaI3P) | 2:31 |
 | 9 | [Chaparrita \(Remix\)](https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Chaparrita \(Remix\)](https://open.spotify.com/album/6PrdKGA2ZSkdjEQBqWzxeV) | 4:26 |

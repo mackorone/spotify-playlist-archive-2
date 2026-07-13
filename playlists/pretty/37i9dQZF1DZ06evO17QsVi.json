@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1235883,
+  "num_followers": 1235903,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAABNNIZjl9EdVsCNI4K6Y8Fn",
+  "snapshot_id": "alGHgAAAAADMbrEsBAYNOvbrFT5p8ScB",
   "tracks": [
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gang Related (The Soundtrack)",
-        "url": "https://open.spotify.com/album/5iqST54O6TuS2703794jwj"
+        "name": "Until The End Of Time",
+        "url": "https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         }
       ],
-      "duration_ms": 313506,
-      "name": "Starin' Through My Rear View",
-      "url": "https://open.spotify.com/track/0hSpXZZzZakniKCgAFQjLi"
+      "duration_ms": 255626,
+      "name": "Ballad Of A Dead Soulja",
+      "url": "https://open.spotify.com/track/7tUw8Zf8a0OcCzU1MwZHOY"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Until The End Of Time",
-        "url": "https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV"
+        "name": "Gang Related (The Soundtrack)",
+        "url": "https://open.spotify.com/album/5iqST54O6TuS2703794jwj"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         }
       ],
-      "duration_ms": 255626,
-      "name": "Ballad Of A Dead Soulja",
-      "url": "https://open.spotify.com/track/7tUw8Zf8a0OcCzU1MwZHOY"
+      "duration_ms": 313506,
+      "name": "Starin' Through My Rear View",
+      "url": "https://open.spotify.com/track/0hSpXZZzZakniKCgAFQjLi"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Different Me",
-        "url": "https://open.spotify.com/album/33e65SDeu5HhT5Iq7Gt2f4"
-      },
-      "artists": [
-        {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
-        },
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 291240,
-      "name": "Playa Cardz Right",
-      "url": "https://open.spotify.com/track/0nJZDtAaqO7o9mb6YoBfqO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Untouchable",
         "url": "https://open.spotify.com/album/1VGaIPb6Cy7dLVC2fMbaLx"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 300693,
       "name": "Smile",
       "url": "https://open.spotify.com/track/4vROonGbqcc0F6XC3rHH3f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Different Me",
+        "url": "https://open.spotify.com/album/33e65SDeu5HhT5Iq7Gt2f4"
+      },
+      "artists": [
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        },
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 291240,
+      "name": "Playa Cardz Right",
+      "url": "https://open.spotify.com/track/0nJZDtAaqO7o9mb6YoBfqO"
     },
     {
       "added_at": null,

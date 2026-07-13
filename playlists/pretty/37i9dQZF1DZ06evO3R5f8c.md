@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,343 likes - 50 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,413 likes - 50 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 40 | [Crazy \- Quentin Harris Remix](https://open.spotify.com/track/3Rfki9RUi1LpONeXvH1o5v) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Thiwe](https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve) | [Crazy](https://open.spotify.com/album/08sFjhTbcwCDDCiU9KdnKH) | 7:46 |
 | 41 | [Extra Time On You \(feat\. Portia Monique\)](https://open.spotify.com/track/61ZwhDqqQCMoK29InoEdKD) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Portia Monique](https://open.spotify.com/artist/4Gfgfu8VYfDlejKCKU9mpc) | [Pieces Of Me](https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR) | 7:22 |
 | 42 | [Even Though](https://open.spotify.com/track/26qQM5sqNWTedLxlWwMqXL) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 6:44 |
-| 43 | [I Have Faith \(feat\. Mondli Ngcobo\)](https://open.spotify.com/track/5J4iGuswrxrUVx8THhbDnI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [I Have Faith \(feat\. Mondli Ngcobo\)](https://open.spotify.com/album/0fDot2YoFm5ugns4PetfyS) | 8:14 |
-| 44 | [Traveller \- Extended Mix](https://open.spotify.com/track/3QF8Xtfvgnyk0tRUnDxTFU) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nomsa Mazwai](https://open.spotify.com/artist/4oX9xchwhV2UzF7Wsxoyg5), [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7) | [Traveller \(Extended Mix\)](https://open.spotify.com/album/1CnnR1LNyGFzpcNkrbljoB) | 7:19 |
+| 43 | [Traveller \- Extended Mix](https://open.spotify.com/track/3QF8Xtfvgnyk0tRUnDxTFU) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nomsa Mazwai](https://open.spotify.com/artist/4oX9xchwhV2UzF7Wsxoyg5), [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7) | [Traveller \(Extended Mix\)](https://open.spotify.com/album/1CnnR1LNyGFzpcNkrbljoB) | 7:19 |
+| 44 | [I Have Faith \(feat\. Mondli Ngcobo\)](https://open.spotify.com/track/5J4iGuswrxrUVx8THhbDnI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [I Have Faith \(feat\. Mondli Ngcobo\)](https://open.spotify.com/album/0fDot2YoFm5ugns4PetfyS) | 8:14 |
 | 45 | [I'll Find You \(feat\. Cara Frew\)](https://open.spotify.com/track/1gqlRiladdiWHmQU8GwtwE) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Cara Frew](https://open.spotify.com/artist/72YhLvw3aIVCUSjL6G8qSf) | [I'll Find You \(feat\. Cara Frew\)](https://open.spotify.com/album/31CJ5vMMpstJibWF6ESDUD) | 9:48 |
 | 46 | [Izizwe](https://open.spotify.com/track/0TOScmuHq8iS1GblTVqQMq) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Busi Mhlongo](https://open.spotify.com/artist/4QlgeNz8Uf8xF0f0LNjCbf) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 7:00 |
 | 47 | [Uthando Lwam](https://open.spotify.com/track/7lp3w0kR7m6o3mrKLSXGkI) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Platinumb Heart Beating](https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS) | 5:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 49 | [Gratitude](https://open.spotify.com/track/6qpJYkBdxdkIOYI3oSeJok) | [Marie Joly](https://open.spotify.com/artist/6dYPZNt3MHNq6XMgmIUQjr), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Rebecca Murray](https://open.spotify.com/artist/2jzgFkQaQsMQ0AdAfdpF0T) | [Best of 2016](https://open.spotify.com/album/3vuX1ArMyftfYG6l9GiuXN) | 6:31 |
 | 50 | [There's Music in the Air](https://open.spotify.com/track/2Eg5ArHjWEzUMnjishGZQK) | [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [There's Music in the Air](https://open.spotify.com/album/3y0xLQNdKdxlrKzVmmvbYS) | 3:54 |
 
-Snapshot ID: `alA2AAAAAAARmdtU0Ur0AEV8hBTH+GT7`
+Snapshot ID: `alGHgAAAAACwD8lOpTLZxDqHR+9wQGbd`

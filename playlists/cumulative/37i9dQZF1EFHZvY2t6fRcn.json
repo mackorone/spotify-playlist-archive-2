@@ -701,6 +701,24 @@
     },
     {
       "album": {
+        "name": "ADAM",
+        "url": "https://open.spotify.com/album/7trR3fOUnxqBvVlAb5L370"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188617,
+      "name": "CLOUD 9",
+      "url": "https://open.spotify.com/track/5shBGzsBhmOZVUxR2nVOFY"
+    },
+    {
+      "album": {
         "name": "THIS IS NOT AN EXIT",
         "url": "https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh"
       },
@@ -3654,10 +3672,28 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 170083,
       "name": "UNDER THE RHYTHM",
       "url": "https://open.spotify.com/track/1XgTPwIdU5LawlT6IQOLsa"
+    },
+    {
+      "album": {
+        "name": "ADAM",
+        "url": "https://open.spotify.com/album/7trR3fOUnxqBvVlAb5L370"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170083,
+      "name": "UNDER THE RHYTHM",
+      "url": "https://open.spotify.com/track/3mrdcNlgn5CRc0nUgKvrYd"
     },
     {
       "album": {

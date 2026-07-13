@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Chezka
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,813 likes - 104 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,824 likes - 104 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

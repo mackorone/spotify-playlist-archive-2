@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 87259,
+  "num_followers": 87281,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 280186,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Hard Believer",
         "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 310693,
       "name": "Looking Too Closely",
       "url": "https://open.spotify.com/track/7bhI6rnvaVw8qgZPn32qE0"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 280186,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "I Speak Because I Can",
-        "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 247123,
-      "name": "What He Wrote",
-      "url": "https://open.spotify.com/track/2CTOa3CEBts3p1NyTVLTXU"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "The Rip Tide",
         "url": "https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Free Yourself Up",
-        "url": "https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD"
+        "name": "I Speak Because I Can",
+        "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
       },
       "artists": [
         {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
         }
       ],
-      "duration_ms": 191693,
-      "name": "I Can Change",
-      "url": "https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q"
+      "duration_ms": 247123,
+      "name": "What He Wrote",
+      "url": "https://open.spotify.com/track/2CTOa3CEBts3p1NyTVLTXU"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -663,6 +647,22 @@
       "duration_ms": 204506,
       "name": "Mi Negrita",
       "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Free Yourself Up",
+        "url": "https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "I Can Change",
+      "url": "https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "29 #Strafford APTS",
-      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "The King Is Dead",
         "url": "https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 256560,
       "name": "Don't Carry It All",
       "url": "https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "29 #Strafford APTS",
+      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 222294,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Cusp",
         "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 201146,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/4UjZKgbOBEwb6i6zHupD1B"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 222294,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "The Weather Station",
-        "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Thirty",
-      "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "The Carpenter",
         "url": "https://open.spotify.com/album/3zvxtXSdWY2JHkKmoIG3OG"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 271186,
       "name": "Live And Die",
       "url": "https://open.spotify.com/track/1HOjry8kvObcLsyOVMVCml"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "The Weather Station",
+        "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Thirty",
+      "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "No Witch",
-        "url": "https://open.spotify.com/album/0oxIRAe6kVERSR8DaNUyUC"
-      },
-      "artists": [
-        {
-          "name": "The Cave Singers",
-          "url": "https://open.spotify.com/artist/4SjCvf9Ctuz369ZKAnjkZP"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "Distant Sures",
-      "url": "https://open.spotify.com/track/7vLWnCf4KEbde9pG4mHqd8"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Mint Condition",
         "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
       },
@@ -1663,18 +1647,18 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Burst Apart",
-        "url": "https://open.spotify.com/album/1VQq6vAHE5jKzvrRpizdx2"
+        "name": "No Witch",
+        "url": "https://open.spotify.com/album/0oxIRAe6kVERSR8DaNUyUC"
       },
       "artists": [
         {
-          "name": "The Antlers",
-          "url": "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
+          "name": "The Cave Singers",
+          "url": "https://open.spotify.com/artist/4SjCvf9Ctuz369ZKAnjkZP"
         }
       ],
-      "duration_ms": 199865,
-      "name": "I Don't Want Love",
-      "url": "https://open.spotify.com/track/371oFaGHOqCmqRwx0XxEpo"
+      "duration_ms": 191266,
+      "name": "Distant Sures",
+      "url": "https://open.spotify.com/track/7vLWnCf4KEbde9pG4mHqd8"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1691,6 +1675,22 @@
       "duration_ms": 293880,
       "name": "Leaf Off / The Cave",
       "url": "https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Burst Apart",
+        "url": "https://open.spotify.com/album/1VQq6vAHE5jKzvrRpizdx2"
+      },
+      "artists": [
+        {
+          "name": "The Antlers",
+          "url": "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
+        }
+      ],
+      "duration_ms": 199865,
+      "name": "I Don't Want Love",
+      "url": "https://open.spotify.com/track/371oFaGHOqCmqRwx0XxEpo"
     },
     {
       "added_at": "2024-08-28 14:05:36",

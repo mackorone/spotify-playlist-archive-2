@@ -4,7 +4,7 @@
 
 > 
 
-1,530 songs - 3 day 10 hr 34 min
+1,531 songs - 3 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Diamond Stitching](https://open.spotify.com/track/1cVDuG58Cj3RGe8ySKwY6i) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Diamond Stitching](https://open.spotify.com/album/1SLHvtzblS30JZW9anryTE) | 2:29 | 2025-06-09 | 2026-03-08 |
 | [Diamonds \(feat\. Gunna\)](https://open.spotify.com/track/2HIjQZsmscClqRGbfzwAgK) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [So Much Fun \(Deluxe\)](https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK) | 3:30 | 2023-11-29 | 2024-04-24 |
 | [Did It Again](https://open.spotify.com/track/07z3x7UhAHhuBNzAlZ4olU) | [Lunchbox](https://open.spotify.com/artist/4yBk76oymBKTd7fs3XpbId) | [New Jazz](https://open.spotify.com/album/4KIdIkyXLJ73H0ddKVJSl2) | 1:52 | 2023-06-02 | 2023-07-17 |
+| [Did You Wanna Die](https://open.spotify.com/track/2RNxyDfw5X0Uad1jbQv9fe) | [Youth Brigade](https://open.spotify.com/artist/5drRnXQdotVEC2QnVd0hFP) | [Sink with Kalifornija](https://open.spotify.com/album/0NrzBaSYHqhpToKWYB0m4z) | 2:39 | 2026-07-12 |  |
 | [Diddy \(feat\. The Neptunes\)](https://open.spotify.com/track/3829CDK1kzOgjRU3nNXqFQ) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [The Saga Continues...](https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv) | 3:54 | 2025-08-14 | 2026-03-08 |
 | [Die Hard](https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:59 | 2023-07-10 | 2023-12-14 |
 | [Die Trying](https://open.spotify.com/track/4qNYl4NkngYRqf6DtTyD9I) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PRE5L](https://open.spotify.com/album/50DbtjQmnPnB92Mf7yxQt4) | 2:33 | 2023-07-31 | 2024-04-24 |

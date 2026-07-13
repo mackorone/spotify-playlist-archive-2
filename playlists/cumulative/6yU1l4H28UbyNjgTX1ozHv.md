@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-330 songs - 16 hr 53 min
+331 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [All the Small Things \- Acoustic](https://open.spotify.com/track/6k0ypm2d1pK54eO4QmpwPv) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [All the Small Things \(Acoustic\)](https://open.spotify.com/album/61Ksn6jZJhZvhDktHwSYFW) | 2:25 | 2024-10-04 |  |
 | [All the Small Things \- Acoustic](https://open.spotify.com/track/3l4bwhzSFGV2WSE475EOnh) | [Jay Filson](https://open.spotify.com/artist/7uRzmsDR6QQL4zYgHv2O6p) | [All the Small Things \(Acoustic\)](https://open.spotify.com/album/7aoAhLDhaeBR1dTK7Z5Tgx) | 2:46 | 2024-01-19 |  |
 | [Alone \- Acoustic](https://open.spotify.com/track/1B9WxRqdKbP0gAAL3q9Ohe) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Alone \(Acoustic\)](https://open.spotify.com/album/420N4bPQPoz5sYIhCfF0Z7) | 2:59 | 2023-01-20 | 2023-05-10 |
+| [Always](https://open.spotify.com/track/5r4o18aWByCrfTVVnSzJtO) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Always](https://open.spotify.com/album/1FgfzdKSVABQraFrb3JDOW) | 2:51 | 2026-07-12 |  |
 | [Are You Lonesome Tonight \- Acoustic](https://open.spotify.com/track/66YElTd7MwaseFmQrl7fml) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Are You Lonesome Tonight \(Acoustic\)](https://open.spotify.com/album/2TcO9xgFjQFpuxIHpLazvO) | 2:45 | 2022-07-19 | 2023-02-02 |
 | [Are You Ready For Love \- Acoustic](https://open.spotify.com/track/1gSYByMOpWmlDoZbDWkoCY) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Are You Ready For Love \(Acoustic\)](https://open.spotify.com/album/7y3h4tQvfsi20zAYLvHZlu) | 3:37 | 2023-09-01 | 2024-01-13 |
 | [Arthur's Theme \(Best That You Can Do\)](https://open.spotify.com/track/1SF2bj3uabmtHL3l6kpUjY) | [Plamina](https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp) | [Arthur's Theme \(Best That You Can Do\)](https://open.spotify.com/album/5DlRpjorDGkHQPmWJYceGq) | 3:36 | 2025-08-25 |  |
@@ -136,7 +137,7 @@
 | [I Want You Back \- Acoustic](https://open.spotify.com/track/1k26xiw242De5t5AgWjC5o) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [I Want You Back \(Acoustic\)](https://open.spotify.com/album/5c7gMpATd9TRWI9SRzslXD) | 2:25 | 2021-05-21 | 2022-07-16 |
 | [I'd Do Anything for Love \(But I Won't Do That\) \- Acoustic](https://open.spotify.com/track/7n4gOElu13vwVqhmvTXgZR) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [I'd Do Anything for Love \(But I Won't Do That\) \[Acoustic\]](https://open.spotify.com/album/3DQV1dLirs2pkNxp9brWjY) | 2:58 | 2024-02-09 | 2024-05-28 |
 | [I'll Be There For You \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Spotify Singles](https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz) | 2:48 | 2019-10-13 |  |
-| [I'm a Believer \- Acoustic](https://open.spotify.com/track/3YZxfxxOyaneUFobNYlVlA) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [I'm a Believer \(Acoustic\)](https://open.spotify.com/album/21sYbjhRnRJMmSI60vUP9F) | 2:53 | 2024-02-19 |  |
+| [I'm a Believer \- Acoustic](https://open.spotify.com/track/3YZxfxxOyaneUFobNYlVlA) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [I'm a Believer \(Acoustic\)](https://open.spotify.com/album/21sYbjhRnRJMmSI60vUP9F) | 2:53 | 2024-02-19 | 2026-07-13 |
 | [I'm A Believer \- Acoustic](https://open.spotify.com/track/0arOYnavWumToLwoHTKUtV) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [I'm A Believer \(Acoustic\)](https://open.spotify.com/album/5bef8Aq3CMZvfwR2kcb6ce) | 2:38 | 2024-03-22 | 2024-05-11 |
 | [I'm Gonna Be \(500 Miles\) \- Acoustic](https://open.spotify.com/track/0mDRImiyeBWKQf34pfrYJY) | [Lizzie Haynes](https://open.spotify.com/artist/5ktwL8uLtQzLeGwJzqE0wE) | [I'm Gonna Be \(500 Miles\) \[Acoustic\]](https://open.spotify.com/album/7xpPMA88SFHaj9KOq4QzI8) | 3:17 | 2024-07-05 |  |
 | [I'm Like a Bird \- Acoustic](https://open.spotify.com/track/3c8tm69G8hZTs8gJI99Pbe) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [I'm Like a Bird \(Acoustic\)](https://open.spotify.com/album/6k4uP5KtblJ7MNJKkQY54c) | 2:41 | 2023-01-03 | 2023-01-19 |

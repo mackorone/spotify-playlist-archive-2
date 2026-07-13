@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > We're born naked and the rest is drag\. Cover: The Vivienne
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,015 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,022 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 37 | [Excuse the Beauty](https://open.spotify.com/track/6BiFUGb6TQSOtTNkZhXVhI) | [Latrice Royale](https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC), [Epiphany Mattel](https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy) | [Excuse the Beauty](https://open.spotify.com/album/6KgyGjGDF73gae1gkQZ9KS) | 3:09 |
 | 38 | [Crème Brûlée](https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG) | [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6) | [Crème Brûlée](https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu) | 2:52 |
 | 39 | [Rodeo](https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Rodeo](https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp) | 3:30 |
-| 40 | [Arrogant](https://open.spotify.com/track/6MmI4fwcClbnQJeIvtmJPm) | [DJ Mitch Ferrino](https://open.spotify.com/artist/2nkkdrHs13Onop9WadmkUK), [Tamisha Iman](https://open.spotify.com/artist/6hrrcYYzghli8qayZzHzoy) | [Arrogant](https://open.spotify.com/album/00pmG07qlKUF2GB28EwLrc) | 3:42 |
-| 41 | [Know\-It\-All](https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h) | [Jinkx Monsoon](https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR) | [Know\-It\-All](https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW) | 4:28 |
+| 40 | [Know\-It\-All](https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h) | [Jinkx Monsoon](https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR) | [Know\-It\-All](https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW) | 4:28 |
+| 41 | [Arrogant](https://open.spotify.com/track/6MmI4fwcClbnQJeIvtmJPm) | [DJ Mitch Ferrino](https://open.spotify.com/artist/2nkkdrHs13Onop9WadmkUK), [Tamisha Iman](https://open.spotify.com/artist/6hrrcYYzghli8qayZzHzoy) | [Arrogant](https://open.spotify.com/album/00pmG07qlKUF2GB28EwLrc) | 3:42 |
 | 42 | [Gimme What I Want](https://open.spotify.com/track/2s1HaxivaRNYacIAYZLRym) | [Rosé](https://open.spotify.com/artist/1xghNLbXhJmc9CG6jv5aDD) | [Gimme What I Want](https://open.spotify.com/album/5pmbZHU0Jm4r6VeVqez2P4) | 2:30 |
 | 43 | [AAA \(feat\. Alaska Thunderfuck, Courtney Act & Willam \)](https://open.spotify.com/track/4aCczCIMedqUdGUcUqVb1N) | [The AAA Girls](https://open.spotify.com/artist/0DwQVJX7NGrRcPnfn2zUvL), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy), [Courtney Act](https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq), [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8) | [Access All Areas](https://open.spotify.com/album/4K8CUDdTzgmhtlVPTpGIS9) | 3:13 |
 | 44 | [Bring Back My Girls](https://open.spotify.com/track/654VREoXsBfEUXM0XUdluX) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [The Shady Bunch / Bring Back My Girls](https://open.spotify.com/album/39gClsR9cdIbOFcQx0NhN6) | 2:43 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 49 | [My Pussy Is Like a Peach](https://open.spotify.com/track/1skWa3UtU951daIZVQtIEd) | [Choriza May](https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j) | [My Pussy Is Like a Peach](https://open.spotify.com/album/2UF5W1roL28m982inA5g3w) | 3:52 |
 | 50 | [Outside In](https://open.spotify.com/track/5Yi2qzDQ2HPv9k2J6ZCKso) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Outside In](https://open.spotify.com/album/6VT6gpzqEWSk5r0IulfDyR) | 3:14 |
 | 51 | [Champion \(Ru X Blu\)](https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [Blu Hydrangea](https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0) | [Champion \(Ru X Blu\)](https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ) | 2:58 |
-| 52 | [Flamin' Hot](https://open.spotify.com/track/7C32ylxyLfkmlVcJVSuJYb) | [Sharon Needles](https://open.spotify.com/artist/7yPRmfUuRcpGwOsHVqQgae) | [Absolute Zero](https://open.spotify.com/album/0torKYUkz3VBlHVxu0vsli) | 3:18 |
+| 52 | [Drag Den](https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Drag Den](https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b) | 3:15 |
 | 53 | [Boys Like Me](https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h) | [Courtney Act](https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq) | [Kaleidoscope](https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9) | 3:22 |
-| 54 | [Drag Den](https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Drag Den](https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b) | 3:15 |
+| 54 | [Flamin' Hot](https://open.spotify.com/track/7C32ylxyLfkmlVcJVSuJYb) | [Sharon Needles](https://open.spotify.com/artist/7yPRmfUuRcpGwOsHVqQgae) | [Absolute Zero](https://open.spotify.com/album/0torKYUkz3VBlHVxu0vsli) | 3:18 |
 | 55 | [Satellite](https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Satellite](https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW) | 2:48 |
 | 56 | [Finish Her!](https://open.spotify.com/track/6hhf4WZLcRuM66DKKfzPCw) | [Aja](https://open.spotify.com/artist/0fWt4FY87imqsBJpt2QVL0), [WNNR](https://open.spotify.com/artist/1QQDgJqgSf4OCy7zM2tgyf), [DJ Accident Report](https://open.spotify.com/artist/2sIY8jk1jkuxNsy1A9s7Pk) | [In My Feelings](https://open.spotify.com/album/0PO3NILLdCxgYYpGzHs76F) | 3:45 |
 | 57 | [Zubi Zubi Zubi](https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY) | [Raja](https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC) | [Zubi Zubi Zubi](https://open.spotify.com/album/51E6rNk6uEdo7Xt0AryxXF) | 3:29 |

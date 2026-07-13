@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Waze",
-  "num_followers": 55381,
+  "num_followers": 55383,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,18 @@
     {
       "added_at": "2026-07-09 23:00:42",
       "album": {
-        "name": "ID",
-        "url": "https://open.spotify.com/album/235O2OncTKPS2XsUUT28XY"
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr"
       },
       "artists": [
         {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
-        },
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+          "name": "Domingues",
+          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
         }
       ],
-      "duration_ms": 268075,
-      "name": "N\u00e3o Me Fales (feat. Wet Bed Gang)",
-      "url": "https://open.spotify.com/track/0cyZxCagQAFRtykDcbsjqS"
+      "duration_ms": 260571,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3"
     },
     {
       "added_at": "2026-07-09 23:00:42",
@@ -427,18 +423,22 @@
     {
       "added_at": "2026-07-09 23:00:42",
       "album": {
-        "name": "Fica",
-        "url": "https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr"
+        "name": "ID",
+        "url": "https://open.spotify.com/album/235O2OncTKPS2XsUUT28XY"
       },
       "artists": [
         {
-          "name": "Domingues",
-          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        },
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
         }
       ],
-      "duration_ms": 260571,
-      "name": "Fica",
-      "url": "https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3"
+      "duration_ms": 268075,
+      "name": "N\u00e3o Me Fales (feat. Wet Bed Gang)",
+      "url": "https://open.spotify.com/track/0cyZxCagQAFRtykDcbsjqS"
     },
     {
       "added_at": "2026-07-09 23:00:42",
@@ -495,26 +495,6 @@
     {
       "added_at": "2026-07-09 23:00:42",
       "album": {
-        "name": "Reservado",
-        "url": "https://open.spotify.com/album/1fv3j4QZFpWTljyn1Ay6sM"
-      },
-      "artists": [
-        {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
-        },
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 158326,
-      "name": "Cacau",
-      "url": "https://open.spotify.com/track/4jq69Jq3ZxYXTeXu9JhmIO"
-    },
-    {
-      "added_at": "2026-07-09 23:00:42",
-      "album": {
         "name": "Amor de Agosto",
         "url": "https://open.spotify.com/album/43OLhOCAzmBiNuoNS856NS"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 169230,
       "name": "Amor de Agosto",
       "url": "https://open.spotify.com/track/6wVVIGFQdgQkYYEaYcGC2M"
+    },
+    {
+      "added_at": "2026-07-09 23:00:42",
+      "album": {
+        "name": "Reservado",
+        "url": "https://open.spotify.com/album/1fv3j4QZFpWTljyn1Ay6sM"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 158326,
+      "name": "Cacau",
+      "url": "https://open.spotify.com/track/4jq69Jq3ZxYXTeXu9JhmIO"
     },
     {
       "added_at": "2026-07-09 23:00:42",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-07-09 23:00:42",
       "album": {
+        "name": "Camisa 10 (Primavera)",
+        "url": "https://open.spotify.com/album/5GkTbaYqQBYY1XSW6GWLxe"
+      },
+      "artists": [
+        {
+          "name": "Edgar Domingos",
+          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Camisa 10 (Primavera)",
+      "url": "https://open.spotify.com/track/35ikW2zACF8ksDyMxDhgzX"
+    },
+    {
+      "added_at": "2026-07-09 23:00:42",
+      "album": {
         "name": "+ Reservado",
         "url": "https://open.spotify.com/album/65EamwZnZsgVnompZedhm4"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 175500,
       "name": "Bem Zen",
       "url": "https://open.spotify.com/track/0EheRsG3tZgIYAVP3m9b0u"
-    },
-    {
-      "added_at": "2026-07-09 23:00:42",
-      "album": {
-        "name": "Camisa 10 (Primavera)",
-        "url": "https://open.spotify.com/album/5GkTbaYqQBYY1XSW6GWLxe"
-      },
-      "artists": [
-        {
-          "name": "Edgar Domingos",
-          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Camisa 10 (Primavera)",
-      "url": "https://open.spotify.com/track/35ikW2zACF8ksDyMxDhgzX"
     },
     {
       "added_at": "2026-07-09 23:00:42",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-07-09 23:00:42",
       "album": {
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 314009,
+      "name": "Conversas",
+      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+    },
+    {
+      "added_at": "2026-07-09 23:00:42",
+      "album": {
         "name": "do.mar",
         "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 201962,
       "name": "S\u00f3 D\u00e1",
       "url": "https://open.spotify.com/track/3LcKyZ2ks4uoiap6wo0LPc"
-    },
-    {
-      "added_at": "2026-07-09 23:00:42",
-      "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 314009,
-      "name": "Conversas",
-      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
     },
     {
       "added_at": "2026-07-09 23:00:42",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-07-09 23:00:42",
       "album": {
+        "name": "Gota D'Espa\u00e7o",
+        "url": "https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 236571,
+      "name": "Ar",
+      "url": "https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn"
+    },
+    {
+      "added_at": "2026-07-09 23:00:42",
+      "album": {
         "name": "ALTA COSTURA",
         "url": "https://open.spotify.com/album/1W9sthlkh5jxTd0NloMCnJ"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 183092,
       "name": "Como Seria? / Amor S\u00f3brio",
       "url": "https://open.spotify.com/track/7uekYsGKTZM2LfyjB87x0Y"
-    },
-    {
-      "added_at": "2026-07-09 23:00:42",
-      "album": {
-        "name": "Gota D'Espa\u00e7o",
-        "url": "https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "Ar",
-      "url": "https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn"
     },
     {
       "added_at": "2026-07-09 23:00:42",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-07-09 23:00:42",
       "album": {
-        "name": "Bon Vivan",
-        "url": "https://open.spotify.com/album/7J2ZbDOKBqeBGwtSKLcT7p"
-      },
-      "artists": [
-        {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
-        }
-      ],
-      "duration_ms": 137910,
-      "name": "Bon Vivan",
-      "url": "https://open.spotify.com/track/4AJCfH6VKefdRWsEyrhufE"
-    },
-    {
-      "added_at": "2026-07-09 23:00:42",
-      "album": {
         "name": "XVIII",
         "url": "https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 181276,
       "name": "J\u00e1 N\u00e3o Aguento",
       "url": "https://open.spotify.com/track/4EKGPKSAzzwjoLYPD9xyWL"
+    },
+    {
+      "added_at": "2026-07-09 23:00:42",
+      "album": {
+        "name": "Bon Vivan",
+        "url": "https://open.spotify.com/album/7J2ZbDOKBqeBGwtSKLcT7p"
+      },
+      "artists": [
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        }
+      ],
+      "duration_ms": 137910,
+      "name": "Bon Vivan",
+      "url": "https://open.spotify.com/track/4AJCfH6VKefdRWsEyrhufE"
     },
     {
       "added_at": "2026-07-09 23:00:42",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-07-09 23:00:42",
       "album": {
-        "name": "Chama",
-        "url": "https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7"
-      },
-      "artists": [
-        {
-          "name": "CADU",
-          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
-        }
-      ],
-      "duration_ms": 153029,
-      "name": "Chama",
-      "url": "https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ"
-    },
-    {
-      "added_at": "2026-07-09 23:00:42",
-      "album": {
         "name": "Nossa Hist\u00f3ria",
         "url": "https://open.spotify.com/album/4ly1joTaalQ5wAP0rbwmPT"
       },
@@ -1299,22 +1283,34 @@
     {
       "added_at": "2026-07-09 23:00:42",
       "album": {
-        "name": "Flexin On U",
-        "url": "https://open.spotify.com/album/483ljN85NtrrdrvsNSXF8u"
+        "name": "Chama",
+        "url": "https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7"
       },
       "artists": [
         {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        },
-        {
-          "name": "Tatiana Duarte",
-          "url": "https://open.spotify.com/artist/78o0thKbUQAtuBKIy9FwdT"
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
         }
       ],
-      "duration_ms": 271500,
-      "name": "Flexin On U",
-      "url": "https://open.spotify.com/track/21WFD8glO3k4hYmOiprEFF"
+      "duration_ms": 153029,
+      "name": "Chama",
+      "url": "https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ"
+    },
+    {
+      "added_at": "2026-07-09 23:00:42",
+      "album": {
+        "name": "Violetta",
+        "url": "https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58"
+      },
+      "artists": [
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "\u00c0 Procura",
+      "url": "https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa"
     },
     {
       "added_at": "2026-07-09 23:00:42",
@@ -1339,18 +1335,22 @@
     {
       "added_at": "2026-07-09 23:00:42",
       "album": {
-        "name": "Violetta",
-        "url": "https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58"
+        "name": "Flexin On U",
+        "url": "https://open.spotify.com/album/483ljN85NtrrdrvsNSXF8u"
       },
       "artists": [
         {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        },
+        {
+          "name": "Tatiana Duarte",
+          "url": "https://open.spotify.com/artist/78o0thKbUQAtuBKIy9FwdT"
         }
       ],
-      "duration_ms": 152470,
-      "name": "\u00c0 Procura",
-      "url": "https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa"
+      "duration_ms": 271500,
+      "name": "Flexin On U",
+      "url": "https://open.spotify.com/track/21WFD8glO3k4hYmOiprEFF"
     },
     {
       "added_at": "2026-07-09 23:00:42",
@@ -1383,22 +1383,18 @@
     {
       "added_at": "2026-07-09 23:00:42",
       "album": {
-        "name": "WONDER",
-        "url": "https://open.spotify.com/album/4euL5ozDT7eXHQuZ7EU6Tb"
+        "name": "Real",
+        "url": "https://open.spotify.com/album/3LcLs0Q8zzqDD1yJzeceET"
       },
       "artists": [
         {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        },
-        {
-          "name": "Carla Prata",
-          "url": "https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS"
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
         }
       ],
-      "duration_ms": 193601,
-      "name": "\u00a1 S\u00d3 N\u00d3S ! (feat. Carla Prata)",
-      "url": "https://open.spotify.com/track/6gJF4kTu4cQDklJMnd0ZkQ"
+      "duration_ms": 154666,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/3WKpREE7SdGvn6oT1W076C"
     }
   ],
   "unique_name": "Seda",

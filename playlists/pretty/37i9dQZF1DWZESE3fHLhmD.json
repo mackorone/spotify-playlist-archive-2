@@ -1,6 +1,6 @@
 {
   "description": "sonnige songs weil sommer und so \ud83e\udd1d \ud83d\ude42\u200d\u2194\ufe0f",
-  "num_followers": 1311534,
+  "num_followers": 1311473,
   "original_name": "Sommergef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-07-07 15:19:20",
       "album": {
-        "name": "Hanging Out To Dry",
-        "url": "https://open.spotify.com/album/1JE6lLEIEkdpzBkWeY0Qrz"
-      },
-      "artists": [
-        {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
-        }
-      ],
-      "duration_ms": 212538,
-      "name": "Hanging Out To Dry",
-      "url": "https://open.spotify.com/track/6fDEL7s2jZ8jbNqxATbmOX"
-    },
-    {
-      "added_at": "2026-07-07 15:19:20",
-      "album": {
         "name": "nie wieder normal",
         "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 177818,
       "name": "Zimmer",
       "url": "https://open.spotify.com/track/05jxlV1d75GkrMEZCP9qHQ"
+    },
+    {
+      "added_at": "2026-07-07 15:19:20",
+      "album": {
+        "name": "Hanging Out To Dry",
+        "url": "https://open.spotify.com/album/1JE6lLEIEkdpzBkWeY0Qrz"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "duration_ms": 212538,
+      "name": "Hanging Out To Dry",
+      "url": "https://open.spotify.com/track/6fDEL7s2jZ8jbNqxATbmOX"
     },
     {
       "added_at": "2026-07-07 15:19:20",

@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 25689,
+  "num_followers": 25692,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAABOctelKVZA7/06eN8bXkdM",
+  "snapshot_id": "alGHgAAAAABjtEC67X1fkvyxo71P/3d/",
   "tracks": [
     {
       "added_at": null,
@@ -31,22 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ringer From The Top End",
-        "url": "https://open.spotify.com/album/6Y8gUOGxki5VZFSb2hbanX"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 153266,
-      "name": "Ringer From The Top End",
-      "url": "https://open.spotify.com/track/4MFQc7u01Kpy4GB48SUsDV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Looking Forward Looking Back",
         "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 192533,
       "name": "Looking Forward Looking Back",
       "url": "https://open.spotify.com/track/3yW1XsTXzSorz1AuMwKFUC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ringer From The Top End",
+        "url": "https://open.spotify.com/album/6Y8gUOGxki5VZFSb2hbanX"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 153266,
+      "name": "Ringer From The Top End",
+      "url": "https://open.spotify.com/track/4MFQc7u01Kpy4GB48SUsDV"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Whom It May Concern",
-        "url": "https://open.spotify.com/album/6XZBEOEisv8tyv0Hq5YWto"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 169666,
-      "name": "Highway Fever - 1992 Digital Remaster",
-      "url": "https://open.spotify.com/track/3nSNkGNsZtI7CrVKxK5GCg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Makin' A Mile",
         "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 245613,
       "name": "Something In The Pilliga",
       "url": "https://open.spotify.com/track/0LAF0bcPsvdtrwYTARzDzA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "To Whom It May Concern",
+        "url": "https://open.spotify.com/album/6XZBEOEisv8tyv0Hq5YWto"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 169666,
+      "name": "Highway Fever - 1992 Digital Remaster",
+      "url": "https://open.spotify.com/track/3nSNkGNsZtI7CrVKxK5GCg"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natural High",
-        "url": "https://open.spotify.com/album/1F4XU3rfCw5mozAU7JZAlf"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Under The Spell Of Highway One",
-      "url": "https://open.spotify.com/track/1mYEgQl8LaIaQQRVp339sL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lights On The Hill (Remastered)",
         "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 174466,
       "name": "Pushin' Time",
       "url": "https://open.spotify.com/track/3H9nKLdJjaJLcOj4ChOcVQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Natural High",
+        "url": "https://open.spotify.com/album/1F4XU3rfCw5mozAU7JZAlf"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Under The Spell Of Highway One",
+      "url": "https://open.spotify.com/track/1mYEgQl8LaIaQQRVp339sL"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Slim Dusty Heritage Album",
-        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
+        "name": "'99",
+        "url": "https://open.spotify.com/album/6PQ7WiRt56ugNzUiqVG7kr"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 463800,
-      "name": "The Man From Snowy River",
-      "url": "https://open.spotify.com/track/2xv0IvUYv7vkhKstp46RXg"
+      "duration_ms": 183760,
+      "name": "Abalinga Mail",
+      "url": "https://open.spotify.com/track/24FVM4cb3qAIiCzblZqjQA"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "'99",
-        "url": "https://open.spotify.com/album/6PQ7WiRt56ugNzUiqVG7kr"
+        "name": "The Slim Dusty Heritage Album",
+        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 183760,
-      "name": "Abalinga Mail",
-      "url": "https://open.spotify.com/track/24FVM4cb3qAIiCzblZqjQA"
+      "duration_ms": 463800,
+      "name": "The Man From Snowy River",
+      "url": "https://open.spotify.com/track/2xv0IvUYv7vkhKstp46RXg"
     },
     {
       "added_at": null,

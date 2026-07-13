@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de julio 2026\. Cover: AKRIILA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,557,746 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,557,572 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 12 | [PAÑUELITO DE SEDA](https://open.spotify.com/track/2EobCyeDCcozA1qD1iFjDO) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [love love FLAKK](https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be) | 2:11 |
 | 13 | [WhyWhyWhy](https://open.spotify.com/track/4MALb9gMN1MekUShLQZQFM) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [WhyWhyWhy](https://open.spotify.com/album/7fDHcWiIEOJuljTNta0UhS) | 2:39 |
 | 14 | [amoureux](https://open.spotify.com/track/172YRaBrecw8yp15qJhnzd) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [amoureux](https://open.spotify.com/album/5T9DEFeLiWDNvlY9saIoVh) | 2:13 |
-| 15 | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC) | 2:20 |
-| 16 | [Puñaladas \- Remix](https://open.spotify.com/track/37A4xk6GFrKZY1X71NYwMR) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Puñaladas \(Remix\)](https://open.spotify.com/album/4PoBGDfAuUZXpWBj1cc8Tz) | 3:26 |
+| 15 | [Puñaladas \- Remix](https://open.spotify.com/track/37A4xk6GFrKZY1X71NYwMR) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Puñaladas \(Remix\)](https://open.spotify.com/album/4PoBGDfAuUZXpWBj1cc8Tz) | 3:26 |
+| 16 | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC) | 2:20 |
 | 17 | [LLEVA AL SOL](https://open.spotify.com/track/47zVKSB29KsEjcBPBrFSTB) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [love love FLAKK](https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be) | 1:59 |
 | 18 | [Besos Chiquitos](https://open.spotify.com/track/4HJjTChqM6i1WdP4Wa6NXw) | [Fabio Duque](https://open.spotify.com/artist/12N3OoV3Av52c6anEEf1ab) | [Besos Chiquitos](https://open.spotify.com/album/3MidSY1JxMiMoaDk24pCuq) | 2:22 |
 | 19 | [PUES YA NI PEDO](https://open.spotify.com/track/6TBrjMIQOcT02JWSGTR0vR) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PUES YA NI PEDO](https://open.spotify.com/album/6wnTjCPl6OGSmpp5qf3zPq) | 3:21 |

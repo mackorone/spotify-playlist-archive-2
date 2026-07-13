@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 306 songs - 19 hr 30 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 307 songs - 19 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -314,5 +314,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 304 | [Who Did You Think I Was \- Live at the House of Blues, Chicago, Illinois, September 22, 2005](https://open.spotify.com/track/00gvX9sFwh19OH88f4v4jW) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [TRY! \- Live In Concert](https://open.spotify.com/album/0X9bvQYYtrAYdkO4OKtYwz) | 3:09 |
 | 305 | [Comfort Me](https://open.spotify.com/track/3dAk7Z16rv38qRM3MIhCIX) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Comfort Me](https://open.spotify.com/album/2TBDKykLi4elMrJAfU2qhT) | 2:51 |
 | 306 | [Big S\*\*t Poppin' \[Do It\]](https://open.spotify.com/track/5tEbnKMOMK8LLoOIsEkWRr) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [T.I\. VS T.I.P.](https://open.spotify.com/album/1TrOr46SzyI7z9C6YnMRnM) | 4:47 |
+| 307 | [Did You Wanna Die](https://open.spotify.com/track/2RNxyDfw5X0Uad1jbQv9fe) | [Youth Brigade](https://open.spotify.com/artist/5drRnXQdotVEC2QnVd0hFP) | [Sink with Kalifornija](https://open.spotify.com/album/0NrzBaSYHqhpToKWYB0m4z) | 2:39 |
 
-Snapshot ID: `AAAglk0l7F0JJw+C9gvl4YMH0kVEqYxg`
+Snapshot ID: `AAAgl00S7Z+BDxgBfbYFb6XMVt5KVU45`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Jonna Fraser & Tiwa Savage, Beyoncé, Kris Kross Amsterdam, Emma Heesters en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,576 likes - 110 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,574 likes - 110 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

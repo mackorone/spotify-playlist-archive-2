@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211116,
+  "num_followers": 211111,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alA2AAAAAAAiENzV3gXVX0clwNjYW/1B",
+  "snapshot_id": "alGHgAAAAADl7UBhY8wgFq8NWVE+16hm",
   "tracks": [
     {
       "added_at": null,
@@ -63,26 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barbie Doll",
-        "url": "https://open.spotify.com/album/147rc4OmHtzzTxLObTAx15"
-      },
-      "artists": [
-        {
-          "name": "Hurricane Wisdom",
-          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "Barbie Doll",
-      "url": "https://open.spotify.com/track/21fyLmQranpgyoYHMMCIuq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 212093,
       "name": "Holy (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barbie Doll",
+        "url": "https://open.spotify.com/album/147rc4OmHtzzTxLObTAx15"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Barbie Doll",
+      "url": "https://open.spotify.com/track/21fyLmQranpgyoYHMMCIuq"
     },
     {
       "added_at": null,
@@ -375,22 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "May I Have This Dance (Remix) [feat. Chance the Rapper]",
-        "url": "https://open.spotify.com/album/25KYUrojMfQ12t7IRan2Vx"
+        "name": "Acid Rap (10th Anniversary - Complete Edition)",
+        "url": "https://open.spotify.com/album/3rYMmOfNQlWXYrbd8yXqJ1"
       },
       "artists": [
-        {
-          "name": "Francis and the Lights",
-          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
-        },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 195356,
-      "name": "May I Have This Dance (Remix) [feat. Chance the Rapper]",
-      "url": "https://open.spotify.com/track/0VaIsQoIQY10uxBrOyZ5cQ"
+      "duration_ms": 215062,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/4J2s7nWDdA7i92sojYX8RJ"
     },
     {
       "added_at": null,
@@ -419,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acid Rap (10th Anniversary - Complete Edition)",
-        "url": "https://open.spotify.com/album/3rYMmOfNQlWXYrbd8yXqJ1"
+        "name": "May I Have This Dance (Remix) [feat. Chance the Rapper]",
+        "url": "https://open.spotify.com/album/25KYUrojMfQ12t7IRan2Vx"
       },
       "artists": [
+        {
+          "name": "Francis and the Lights",
+          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+        },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 215062,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/4J2s7nWDdA7i92sojYX8RJ"
+      "duration_ms": 195356,
+      "name": "May I Have This Dance (Remix) [feat. Chance the Rapper]",
+      "url": "https://open.spotify.com/track/0VaIsQoIQY10uxBrOyZ5cQ"
     },
     {
       "added_at": null,
@@ -943,6 +943,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 284855,
+      "name": "Best Life (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/00B7TZ0Xawar6NZ00JFomN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wraith",
         "url": "https://open.spotify.com/album/1hXe7FuboEW7ZfbCxX9g6M"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 147692,
       "name": "Wraith",
       "url": "https://open.spotify.com/track/73mjPiWQcaOQdfzXvNt1IT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 284855,
-      "name": "Best Life (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/00B7TZ0Xawar6NZ00JFomN"
     },
     {
       "added_at": null,
@@ -1051,22 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man Who Has Everything",
-        "url": "https://open.spotify.com/album/3oa90TbTT5bJwCUJ5fDmvu"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 218624,
-      "name": "The Man Who Has Everything",
-      "url": "https://open.spotify.com/track/3woRy7uxzl1lO2XO99oHsN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Love Letter To You 4 (Deluxe)",
         "url": "https://open.spotify.com/album/6Qb3toNhi0XwcZG43ksJX9"
       },
@@ -1083,6 +1067,26 @@
       "duration_ms": 229244,
       "name": "I Love You (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/6qEbKsvhAQjV3GfSGn1A8K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Boys 2",
+        "url": "https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
+        }
+      ],
+      "duration_ms": 133670,
+      "name": "Bad Boys 2",
+      "url": "https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA"
     }
   ],
   "unique_name": "This Is Chance the Rapper",

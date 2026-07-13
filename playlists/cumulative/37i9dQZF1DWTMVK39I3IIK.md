@@ -4,7 +4,7 @@
 
 > youngs soundss 🥞 USSEL på forsiden
 
-451 songs - 23 hr 10 min
+452 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Gi' Mig](https://open.spotify.com/track/6TuyzcroVkiqQZUXlJE3LC) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO) | [FORLADMIGEJ](https://open.spotify.com/album/1YgMrux0tYh6IXpwdHPVio) | 2:28 | 2026-05-28 | 2026-06-12 |
 | [Gi' Mig Lige](https://open.spotify.com/track/6cgvpCN5EDQOGQdYyK8e3a) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Gi' Mig Lige](https://open.spotify.com/album/1RbqPsFleMMtKhkvwufqjA) | 2:41 | 2024-07-11 | 2025-01-24 |
 | [Go Fast Go Slow](https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Go Fast Go Slow](https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG) | 3:39 | 2024-06-27 | 2024-08-23 |
+| [Go Wild](https://open.spotify.com/track/7neEbVYXg6S55GZXfNUeis) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Go Wild](https://open.spotify.com/album/6KwafSxK1XJwonGnLbNrTj) | 3:26 | 2026-07-10 |  |
 | [Gode Dage Venter](https://open.spotify.com/track/6qRcNR61C16q4sSplRwe24) | [Malte August](https://open.spotify.com/artist/0jXOczqKCZPeNfF0vtEvm6) | [Gode Dage Venter](https://open.spotify.com/album/331nvnmllDG5iYUsEvbsS6) | 3:25 | 2025-10-23 | 2025-10-31 |
 | [Going about my day](https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14) | [Lola Hammerich](https://open.spotify.com/artist/2wQsqVsADuAKMfEbg3ey40) | [Going about my day](https://open.spotify.com/album/1vXJSMCiSd14fGi6rIJQMV) | 5:57 | 2026-06-26 | 2026-06-28 |
 | [Grå Skyer](https://open.spotify.com/track/0sdW0LZgcaY5KGPzLrq55A) | [hun\_sagde](https://open.spotify.com/artist/0zMmcG54r60Jk7aiLb4DlB) | [Grå Skyer](https://open.spotify.com/album/6pikXZAx9cyLdYSisP5gBE) | 2:51 | 2025-03-07 | 2025-03-14 |
@@ -401,7 +402,7 @@
 | [Tænker Du Mon Nogensinde På Os](https://open.spotify.com/track/58HZHUAFH29Ujc3033yIw1) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [Tænker Du Mon Nogensinde På Os](https://open.spotify.com/album/70S07sIasspR3twjbfN6BZ) | 3:07 | 2025-02-27 | 2025-06-21 |
 | [Tæt På Paradis](https://open.spotify.com/track/7dUd1GZ3DEbL2wyhzjpvoM) | [Zar Paulo](https://open.spotify.com/artist/5Org3M2mFFEFd8A57h9Yv2) | [Elendig Software](https://open.spotify.com/album/63y6pPYBqIlVWzA0xj796o) | 4:03 | 2024-06-27 | 2025-09-05 |
 | [Ude Af Mig Selv](https://open.spotify.com/track/2lELpgEBDOtEaHmPSLZMPd) | [YUMA](https://open.spotify.com/artist/6hnXmNZ0vIfuzEL8xERJ5R) | [Ude Af Mig Selv](https://open.spotify.com/album/0Iaw3BN8KTidkWVVoL7Sct) | 2:36 | 2025-06-12 | 2025-06-20 |
-| [Uden At Tænke På Dig](https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Bænkevarmer](https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd) | 3:54 | 2024-06-27 |  |
+| [Uden At Tænke På Dig](https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Bænkevarmer](https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd) | 3:54 | 2024-06-27 | 2026-07-13 |
 | [Uden Tøj På](https://open.spotify.com/track/2yJGqPpHkLEQJH1t1dKGyS) | [Karla Korsbak](https://open.spotify.com/artist/64TCK9hFlXeyqmeC5JLxyC) | [Uden Tøj På](https://open.spotify.com/album/2Wulhz0KDC8b9ZHIAwL2gW) | 2:34 | 2026-04-16 | 2026-07-11 |
 | [Udsving](https://open.spotify.com/track/5mali68oFTzZtYlDAR4cHX) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Udsving](https://open.spotify.com/album/6DBNLC079WFCQ6tH40cV08) | 3:08 | 2026-02-19 |  |
 | [Uendelighed](https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Uendelighed](https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX) | 2:53 | 2025-06-19 |  |

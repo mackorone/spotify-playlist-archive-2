@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Sinan Akçıl, Enes Yolcu, KERRO
 
-653 songs - 1 day 9 hr 8 min
+654 songs - 1 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,7 @@
 | [Max](https://open.spotify.com/track/7lRMajzI2xa34EQg2SKecS) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Max](https://open.spotify.com/album/30xEU4sNXkYHvtSIiM8uUV) | 3:49 | 2025-05-27 | 2025-09-06 |
 | [Mağlup](https://open.spotify.com/track/2YZdLhFIIODNxeVtVy4qLC) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Mağlup](https://open.spotify.com/album/19JJCx7HlJEhhW3oVwphxI) | 2:40 | 2024-11-07 | 2025-01-20 |
 | [MAŞALLAH](https://open.spotify.com/track/2qzQNdEUKc9ntvASZgsAo3) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [MAŞALLAH](https://open.spotify.com/album/40PaLTeBPPMSHQszHIt6ON) | 2:17 | 2025-06-26 | 2026-06-27 |
-| [Mecburi İstikamet](https://open.spotify.com/track/4JEprDdXZFgeQE65LYkFHa) | [Burcu Güneş](https://open.spotify.com/artist/7EJB9F3fv0x2ezht730D7F) | [Mecburi İstikamet](https://open.spotify.com/album/6r5IgaWLedwtUYVmTqyrcZ) | 3:33 | 2026-07-02 |  |
+| [Mecburi İstikamet](https://open.spotify.com/track/4JEprDdXZFgeQE65LYkFHa) | [Burcu Güneş](https://open.spotify.com/artist/7EJB9F3fv0x2ezht730D7F) | [Mecburi İstikamet](https://open.spotify.com/album/6r5IgaWLedwtUYVmTqyrcZ) | 3:33 | 2026-07-02 | 2026-07-13 |
 | [Mecnun](https://open.spotify.com/track/7pvJS491DvAF634AxRGUZG) | [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Mecnun](https://open.spotify.com/album/2zwLL93kAc8TwamDzSocET) | 2:28 | 2024-11-21 | 2025-03-05 |
 | [Meleğim](https://open.spotify.com/track/6qjpvoOyxCl2DoLalk1DBV) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Meleğim](https://open.spotify.com/album/444lQ55RAdFaSf4CQLb0i7) | 2:45 | 2024-07-25 | 2024-08-28 |
 | [Mesafeler](https://open.spotify.com/track/0g1yZORNiAs4BjQiPFwQdO) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [O](https://open.spotify.com/album/3JhaX44hysxWDeLtyqxBpq) | 2:46 | 2025-07-17 | 2025-09-26 |
@@ -488,6 +488,7 @@
 | [Seni Seven Kimdi](https://open.spotify.com/track/5M6QrHGDWdWhyq7hVz3zR8) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Seni Seven Kimdi](https://open.spotify.com/album/6x0U8MXvacaNyr070qwfML) | 4:00 | 2024-11-14 | 2025-07-18 |
 | [seni zor sevdim](https://open.spotify.com/track/5haRxZn3Xb1opRmOWWLbyi) | [Bedo](https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si) | [Seninle Vedalaşıyoruz](https://open.spotify.com/album/592cDpFbqC6bccBbXv5p7H) | 3:38 | 2026-07-09 |  |
 | [Senin Olsun](https://open.spotify.com/track/6IRuWQvn6p0ite4H4s7J2n) | [Ceylin Arslan](https://open.spotify.com/artist/1WQSj0aNrCPWRw7zf1PYcw) | [Senin Olsun](https://open.spotify.com/album/25erIZ2spmY3cH5TgwMJUp) | 2:18 | 2025-10-23 | 2026-03-20 |
+| [Seninle Başlar](https://open.spotify.com/track/5lJtI1uJPDrv2x6vhCmml0) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Seninle Başlar](https://open.spotify.com/album/0ZsZilQ9p3sThUWyZiMLZl) | 2:31 | 2026-07-09 |  |
 | [SENİ GÖRDÜĞÜM AN](https://open.spotify.com/track/5hyYCEaC704WXeb4saAim4) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [SENİ GÖRDÜĞÜM AN](https://open.spotify.com/album/4b91E9t6JFljmPckcteTLi) | 3:14 | 2024-07-25 | 2025-06-27 |
 | [Sensiz](https://open.spotify.com/track/4XPLP02fM1sAAVkntJ8Huf) | [Berkay](https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar) | [Sensiz](https://open.spotify.com/album/2f8TlkD3FzqdTlsP1vJh0t) | 3:32 | 2025-07-31 | 2025-10-01 |
 | [Sersem](https://open.spotify.com/track/0ryZM7pn8qOvUxudgYSHwf) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Sersem](https://open.spotify.com/album/4VvzbhojIXrULSGsbdJeSR) | 2:52 | 2025-08-21 | 2025-09-02 |

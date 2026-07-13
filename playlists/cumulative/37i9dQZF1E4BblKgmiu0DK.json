@@ -1817,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "CEO OF MY FACE",
+        "url": "https://open.spotify.com/album/04xzLBJr2WXCWFBIF4TLA6"
+      },
+      "artists": [
+        {
+          "name": "Rebel Rebel Barbie",
+          "url": "https://open.spotify.com/artist/6anwMddDj3544VdjDgWovv"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158720,
+      "name": "CEO OF MY FACE",
+      "url": "https://open.spotify.com/track/4lx9KQP9qnHYarlnFp6Rqo"
+    },
+    {
+      "album": {
         "name": "So Painful",
         "url": "https://open.spotify.com/album/4bpBUqNaD2Er6tAKbzvZwZ"
       },
@@ -2044,7 +2062,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 275306,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/08bgaYICwxNPb8gRyp08iX"
@@ -2592,6 +2610,24 @@
       "duration_ms": 224568,
       "name": "Don't eat Chinese Cabbage",
       "url": "https://open.spotify.com/track/73BWaSLtgS9WhlEnjPbsc1"
+    },
+    {
+      "album": {
+        "name": "Don't Stop The Music",
+        "url": "https://open.spotify.com/album/5ubhfH1mSZf8iawUCUtbP3"
+      },
+      "artists": [
+        {
+          "name": "missthatmisery",
+          "url": "https://open.spotify.com/artist/3QNOWx51ws5IgYfZbmFUey"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49089,
+      "name": "Don't Stop The Music",
+      "url": "https://open.spotify.com/track/5xRsZFUcjjegLWrk3r9Gom"
     },
     {
       "album": {
@@ -4728,7 +4764,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 243413,
       "name": "i think about you in the shower",
       "url": "https://open.spotify.com/track/0C09ONBxeLWyGsgbUdmHQR"
@@ -5900,7 +5936,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 233770,
       "name": "Loose Cannon",
       "url": "https://open.spotify.com/track/3DzJNhJuTUrnu8Hdo8jfEw"
@@ -6092,7 +6128,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 107359,
       "name": "Maple Static, Eh",
       "url": "https://open.spotify.com/track/3n9oQozZPrGmRAvCX96Tmb"
@@ -6748,6 +6784,24 @@
       "duration_ms": 157718,
       "name": "Neon Thrash",
       "url": "https://open.spotify.com/track/4HwI7j6Bo9Hqwy5wvdsnav"
+    },
+    {
+      "album": {
+        "name": "New Fixation",
+        "url": "https://open.spotify.com/album/7MW8j7UdsqKfnz5s4XnAGI"
+      },
+      "artists": [
+        {
+          "name": "Hooked Like Helen",
+          "url": "https://open.spotify.com/artist/4cZ0bm1KGhpaYNQ61oST96"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212553,
+      "name": "New Fixation",
+      "url": "https://open.spotify.com/track/0MkGJZzeDHMH654JEfM6bO"
     },
     {
       "album": {
@@ -7421,6 +7475,24 @@
     },
     {
       "album": {
+        "name": "Outta Nowhere",
+        "url": "https://open.spotify.com/album/3U5SNvkAHSH74vdJwn0MSs"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227453,
+      "name": "Outta Nowhere",
+      "url": "https://open.spotify.com/track/6BKh4T3IFUq139xk3dWbCL"
+    },
+    {
+      "album": {
         "name": "Overstay",
         "url": "https://open.spotify.com/album/7c3VbVY62XutgkojVSfNoe"
       },
@@ -7540,7 +7612,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 245296,
       "name": "Party in Hell",
       "url": "https://open.spotify.com/track/4TOVRQJy5GhBpDbXV6BR8t"
@@ -8582,7 +8654,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 193899,
       "name": "So What",
       "url": "https://open.spotify.com/track/17mDkw99uAJnjFOXeDuLbE"
@@ -10081,6 +10153,24 @@
     },
     {
       "album": {
+        "name": "What You Didn't Say",
+        "url": "https://open.spotify.com/album/33eKceFDNkgMyn3xcqyiw5"
+      },
+      "artists": [
+        {
+          "name": "Erinn Alissa",
+          "url": "https://open.spotify.com/artist/5ku7735Hs8kKhwcPIKHu0i"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "What You Didn't Say",
+      "url": "https://open.spotify.com/track/7CdYknSFuBgv4JDUazaaq6"
+    },
+    {
+      "album": {
         "name": "What You See",
         "url": "https://open.spotify.com/album/2ljsiQHvV53KeOEctQM85U"
       },
@@ -10510,7 +10600,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-13",
       "duration_ms": 224811,
       "name": "Your Ex-Girlfriend",
       "url": "https://open.spotify.com/track/3RPjiDsKLrzcNRAYUCnKPa"

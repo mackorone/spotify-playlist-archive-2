@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: JBABE
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,249 likes - 29 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,251 likes - 29 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 10 | [FOMO](https://open.spotify.com/track/4Gaw3deCZcLHkai4OIjY4w) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Map Of Her Shadow](https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW) | 3:01 |
 | 11 | [Whatever It Takes \(Break Your Heart\)](https://open.spotify.com/track/5zmo0fUtVQfixc7by6G5NZ) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Whatever It Takes \(Break Your Heart\)](https://open.spotify.com/album/56CtdMCjb4yQVBXSNXsFIM) | 2:55 |
 | 12 | [under my skin](https://open.spotify.com/track/2PWyhubh6VvSTlrw5w3m6t) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [under my skin](https://open.spotify.com/album/1OVLexXEgHSqEyJCfMsSLS) | 2:46 |
-| 13 | [DIOR$AVAGE](https://open.spotify.com/track/6hJZntir08iWIAVRx8YAEh) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [DIOR$AVAGE](https://open.spotify.com/album/5NtMHvTP6K9N6xwtQ9q7R5) | 2:30 |
-| 14 | [Haru Biru](https://open.spotify.com/track/053AJQ01i1w3luw0QRGzUy) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t), [Daiyan Trisha](https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta) | [The First Wave](https://open.spotify.com/album/41tF99cHFAvyf11JSwWtYU) | 3:05 |
+| 13 | [Haru Biru](https://open.spotify.com/track/053AJQ01i1w3luw0QRGzUy) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t), [Daiyan Trisha](https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta) | [The First Wave](https://open.spotify.com/album/41tF99cHFAvyf11JSwWtYU) | 3:05 |
+| 14 | [DIOR$AVAGE](https://open.spotify.com/track/6hJZntir08iWIAVRx8YAEh) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [DIOR$AVAGE](https://open.spotify.com/album/5NtMHvTP6K9N6xwtQ9q7R5) | 2:30 |
 | 15 | [tu non vuoi nessuno](https://open.spotify.com/track/5BIjciSrUoa2sPirUFZsgr) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [tu non vuoi nessuno](https://open.spotify.com/album/7nI3aZbxTT2xcDzvbMTp9Z) | 3:22 |
 | 16 | [Could've Been](https://open.spotify.com/track/5yy1SxsJf6OY3lbbR7h4ww) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Could've Been](https://open.spotify.com/album/3mYUUcwsOOzZjGvGonUukT) | 2:45 |
 | 17 | [藍染](https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [Unveilings](https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5) | 3:28 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 23 | [Sesquicentennial](https://open.spotify.com/track/2mL6kQBqh3uy8RqYftposl) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Sesquicentennial](https://open.spotify.com/album/6oA7RFLJEdoJBlRWrsIb0a) | 3:12 |
 | 24 | [IOIO](https://open.spotify.com/track/0ye9i27scMk0GBlbGJEVjJ) | [Harsha Vardhan](https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [IOIO](https://open.spotify.com/album/1tkadsy7lB3zNA5xkWbM30) | 2:49 |
 | 25 | [MR\. SMILE](https://open.spotify.com/track/3ez7xQy4UKDqnCPz0q6cxc) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [MR\. SMILE](https://open.spotify.com/album/66P2RDdsOcRXDrDLVW5rhR) | 3:48 |
-| 26 | [girlhood](https://open.spotify.com/track/4Fx0LtLzhMvxSGSyfPIQeK) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [GOOD GOOD JUJU](https://open.spotify.com/album/41dS4BOeE4FevIShpb2dEf) | 3:51 |
-| 27 | [Argentina Is Daing](https://open.spotify.com/track/1J9ZUpfmloiO4cKPJqhak3) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48) | [Argentina Is Daing](https://open.spotify.com/album/4BHZFzDdF6HLHWrrKILekF) | 2:28 |
+| 26 | [Argentina Is Daing](https://open.spotify.com/track/1J9ZUpfmloiO4cKPJqhak3) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48) | [Argentina Is Daing](https://open.spotify.com/album/4BHZFzDdF6HLHWrrKILekF) | 2:28 |
+| 27 | [girlhood](https://open.spotify.com/track/4Fx0LtLzhMvxSGSyfPIQeK) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [GOOD GOOD JUJU](https://open.spotify.com/album/41dS4BOeE4FevIShpb2dEf) | 3:51 |
 | 28 | [i wish im alright（抒情 版）](https://open.spotify.com/track/5KGCSZJi0J7aDnScGWshwD) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [no time for sober](https://open.spotify.com/album/2eDbJ5LcvvwjnNQtUzdjjF) | 3:37 |
 | 29 | [RUDE BOYS](https://open.spotify.com/track/3LBGbIsWxbjj7ujeigCD14) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [METAMORFOSI](https://open.spotify.com/album/1SPhCDB44Mgx1lEbdMnIKm) | 2:21 |
 

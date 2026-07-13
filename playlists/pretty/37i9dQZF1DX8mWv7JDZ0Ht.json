@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Mari Froes",
-  "num_followers": 434307,
+  "num_followers": 434295,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-07-10 03:00:05",
       "album": {
+        "name": "Am\u00e9frica",
+        "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
+      },
+      "artists": [
+        {
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+        }
+      ],
+      "duration_ms": 207378,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
+    },
+    {
+      "added_at": "2026-07-10 03:00:05",
+      "album": {
         "name": "BASEADO EM FATOS REAIS (deluxe)",
         "url": "https://open.spotify.com/album/1VNgTtRJ1zbNbBCc9mmTr1"
       },
@@ -287,18 +303,22 @@
     {
       "added_at": "2026-07-10 03:00:05",
       "album": {
-        "name": "Am\u00e9frica",
-        "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
+        "name": "Enquanto os Distra\u00eddos Amam",
+        "url": "https://open.spotify.com/album/3N4OoUAXeAcFFib8lcxll9"
       },
       "artists": [
         {
-          "name": "Bia Ferreira",
-          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+          "name": "Pedro Em\u00edlio",
+          "url": "https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N"
+        },
+        {
+          "name": "Paulo Novaes",
+          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
         }
       ],
-      "duration_ms": 207378,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
+      "duration_ms": 168097,
+      "name": "Amor Inteiro",
+      "url": "https://open.spotify.com/track/7mD5TzCDcGgm2yDbfECu7t"
     },
     {
       "added_at": "2026-07-10 03:00:05",
@@ -319,26 +339,6 @@
       "duration_ms": 171692,
       "name": "Emaranhei",
       "url": "https://open.spotify.com/track/4cN88WMuH5CAVg6YhnBCIP"
-    },
-    {
-      "added_at": "2026-07-10 03:00:05",
-      "album": {
-        "name": "Enquanto os Distra\u00eddos Amam",
-        "url": "https://open.spotify.com/album/3N4OoUAXeAcFFib8lcxll9"
-      },
-      "artists": [
-        {
-          "name": "Pedro Em\u00edlio",
-          "url": "https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N"
-        },
-        {
-          "name": "Paulo Novaes",
-          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
-        }
-      ],
-      "duration_ms": 168097,
-      "name": "Amor Inteiro",
-      "url": "https://open.spotify.com/track/7mD5TzCDcGgm2yDbfECu7t"
     },
     {
       "added_at": "2026-07-10 03:00:05",
@@ -447,6 +447,22 @@
       "duration_ms": 173994,
       "name": "Cheirinho - Feat. YO\u00d9N",
       "url": "https://open.spotify.com/track/3q1mkSy6UIR0IQejy70sNZ"
+    },
+    {
+      "added_at": "2026-07-10 03:00:05",
+      "album": {
+        "name": "Disco Tropical",
+        "url": "https://open.spotify.com/album/5I88FHndtPxjZndN8EovDR"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 187589,
+      "name": "Disco Tropical",
+      "url": "https://open.spotify.com/track/38laFU5ZV92YufR2eIGxJU"
     },
     {
       "added_at": "2026-07-10 03:00:05",
@@ -627,22 +643,6 @@
     {
       "added_at": "2026-07-10 03:00:05",
       "album": {
-        "name": "Disco Tropical",
-        "url": "https://open.spotify.com/album/5I88FHndtPxjZndN8EovDR"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 187589,
-      "name": "Disco Tropical",
-      "url": "https://open.spotify.com/track/38laFU5ZV92YufR2eIGxJU"
-    },
-    {
-      "added_at": "2026-07-10 03:00:05",
-      "album": {
         "name": "Eu s\u00f3 quero um xod\u00f3",
         "url": "https://open.spotify.com/album/2s6qsazRApew3tJUkjoyps"
       },
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-07-10 03:00:05",
       "album": {
+        "name": "sofrer por voc\u00ea",
+        "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 174139,
+      "name": "sofrer por voc\u00ea",
+      "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
+    },
+    {
+      "added_at": "2026-07-10 03:00:05",
+      "album": {
         "name": "Quero Descobrir",
         "url": "https://open.spotify.com/album/5wzKrU0eUxhcdf6nNxtBze"
       },
@@ -687,18 +703,18 @@
     {
       "added_at": "2026-07-10 03:00:05",
       "album": {
-        "name": "sofrer por voc\u00ea",
-        "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
+        "name": "paix\u00e3o ou vaidade?",
+        "url": "https://open.spotify.com/album/2Cf2A7ADZeuqHeF96I9GpY"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
         }
       ],
-      "duration_ms": 174139,
-      "name": "sofrer por voc\u00ea",
-      "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
+      "duration_ms": 183374,
+      "name": "paix\u00e3o ou vaidade?",
+      "url": "https://open.spotify.com/track/4jBzNfcYZTbvh5STIoGi4L"
     },
     {
       "added_at": "2026-07-10 03:00:05",
@@ -723,38 +739,6 @@
     {
       "added_at": "2026-07-10 03:00:05",
       "album": {
-        "name": "paix\u00e3o ou vaidade?",
-        "url": "https://open.spotify.com/album/2Cf2A7ADZeuqHeF96I9GpY"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Tofani",
-          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "paix\u00e3o ou vaidade?",
-      "url": "https://open.spotify.com/track/4jBzNfcYZTbvh5STIoGi4L"
-    },
-    {
-      "added_at": "2026-07-10 03:00:05",
-      "album": {
-        "name": "Muita Sede",
-        "url": "https://open.spotify.com/album/6KPdqbAdr9hFFzOxfd9SmT"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        }
-      ],
-      "duration_ms": 185166,
-      "name": "Outro \u00c1udio Meu",
-      "url": "https://open.spotify.com/track/45eC4p277r4CJukj5RZiHN"
-    },
-    {
-      "added_at": "2026-07-10 03:00:05",
-      "album": {
         "name": "Improv\u00e1vel",
         "url": "https://open.spotify.com/album/6kkj8J3XRedTgUw3c02AVp"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 176862,
       "name": "Improv\u00e1vel",
       "url": "https://open.spotify.com/track/0XwEszywPr2yHuJB0pTxnY"
+    },
+    {
+      "added_at": "2026-07-10 03:00:05",
+      "album": {
+        "name": "Muita Sede",
+        "url": "https://open.spotify.com/album/6KPdqbAdr9hFFzOxfd9SmT"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        }
+      ],
+      "duration_ms": 185166,
+      "name": "Outro \u00c1udio Meu",
+      "url": "https://open.spotify.com/track/45eC4p277r4CJukj5RZiHN"
     },
     {
       "added_at": "2026-07-10 03:00:05",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-07-10 03:00:05",
       "album": {
-        "name": "N\u00e3o H\u00e1 Nada Mais Honesto Que Um Sonho",
-        "url": "https://open.spotify.com/album/26qyuO801t5LJ8ApwgpB58"
-      },
-      "artists": [
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 211295,
-      "name": "Doente",
-      "url": "https://open.spotify.com/track/2oXtA7nfgRgwZOMt3RCu7L"
-    },
-    {
-      "added_at": "2026-07-10 03:00:05",
-      "album": {
         "name": "Passageiro",
         "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 219574,
       "name": "Passageiro",
       "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
+    },
+    {
+      "added_at": "2026-07-10 03:00:05",
+      "album": {
+        "name": "N\u00e3o H\u00e1 Nada Mais Honesto Que Um Sonho",
+        "url": "https://open.spotify.com/album/26qyuO801t5LJ8ApwgpB58"
+      },
+      "artists": [
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 211295,
+      "name": "Doente",
+      "url": "https://open.spotify.com/track/2oXtA7nfgRgwZOMt3RCu7L"
     },
     {
       "added_at": "2026-07-10 03:00:05",

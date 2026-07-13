@@ -1,6 +1,6 @@
 {
   "description": "\u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0433\u043e \u0430\u043d\u0434\u0435\u0440\u0491\u0440\u0430\u0443\u043d\u0434\u0443. \u043e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: \u0442\u0435\u043e\u0440\u0456\u044f \u0440\u043e\u0437\u0431\u0438\u0442\u0438\u0445 \u0432\u0456\u043a\u043e\u043d",
-  "num_followers": 39870,
+  "num_followers": 39869,
   "original_name": "\u0456\u043d\u0434\u0456",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-07-09 21:00:16",
       "album": {
-        "name": "\u0422\u0438\u0433\u0440\u043e\u043b\u043e\u0432\u0438",
-        "url": "https://open.spotify.com/album/0YPhuzPuIdNC1k8xI4L1UD"
-      },
-      "artists": [
-        {
-          "name": "Aircraft",
-          "url": "https://open.spotify.com/artist/6lXlMyoAYN845deOonN7Q0"
-        }
-      ],
-      "duration_ms": 224451,
-      "name": "\u0413\u0430\u044e \u0427\u0430\u0441",
-      "url": "https://open.spotify.com/track/1xKHKVB63j2t6qdnU1o6la"
-    },
-    {
-      "added_at": "2026-07-09 21:00:16",
-      "album": {
         "name": "EROTIC INFERNO",
         "url": "https://open.spotify.com/album/1MLJCcSvIk6jjjfbGTZhPi"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 163053,
       "name": "EROTIC INFERNO",
       "url": "https://open.spotify.com/track/4C4omgpgeTV8RUE91TtZu8"
+    },
+    {
+      "added_at": "2026-07-09 21:00:16",
+      "album": {
+        "name": "\u0422\u0438\u0433\u0440\u043e\u043b\u043e\u0432\u0438",
+        "url": "https://open.spotify.com/album/0YPhuzPuIdNC1k8xI4L1UD"
+      },
+      "artists": [
+        {
+          "name": "Aircraft",
+          "url": "https://open.spotify.com/artist/6lXlMyoAYN845deOonN7Q0"
+        }
+      ],
+      "duration_ms": 224451,
+      "name": "\u0413\u0430\u044e \u0427\u0430\u0441",
+      "url": "https://open.spotify.com/track/1xKHKVB63j2t6qdnU1o6la"
     },
     {
       "added_at": "2026-07-09 21:00:16",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-07-09 21:00:16",
       "album": {
-        "name": "\u041d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u043d\u0456",
-        "url": "https://open.spotify.com/album/5YrD0RTHJT0IZYvvitROkB"
-      },
-      "artists": [
-        {
-          "name": "\u0410\u043f\u0430\u0442\u0456\u044f",
-          "url": "https://open.spotify.com/artist/2bkZ1uaI06UpTuDchPk8bE"
-        }
-      ],
-      "duration_ms": 182769,
-      "name": "\u041d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u043d\u0456",
-      "url": "https://open.spotify.com/track/0wnjSFnsGiJmXoNIG88gLI"
-    },
-    {
-      "added_at": "2026-07-09 21:00:16",
-      "album": {
         "name": "\u041b\u044e\u043c\u0435\u043d\u0438",
         "url": "https://open.spotify.com/album/1zogCq3gjVftrmmlad8v6i"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 128222,
       "name": "\u041b\u044e\u043c\u0435\u043d\u0438",
       "url": "https://open.spotify.com/track/6l1YfMI0d8ODrftaUJEP25"
+    },
+    {
+      "added_at": "2026-07-09 21:00:16",
+      "album": {
+        "name": "\u041d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u043d\u0456",
+        "url": "https://open.spotify.com/album/5YrD0RTHJT0IZYvvitROkB"
+      },
+      "artists": [
+        {
+          "name": "\u0410\u043f\u0430\u0442\u0456\u044f",
+          "url": "https://open.spotify.com/artist/2bkZ1uaI06UpTuDchPk8bE"
+        }
+      ],
+      "duration_ms": 182769,
+      "name": "\u041d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u043d\u0456",
+      "url": "https://open.spotify.com/track/0wnjSFnsGiJmXoNIG88gLI"
     },
     {
       "added_at": "2026-07-09 21:00:16",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-07-09 21:00:16",
       "album": {
-        "name": "\u0431\u0443\u0442\u0438 \u043e\u043f\u0442\u0438\u043c\u0456\u0441\u0442\u043e\u043c",
-        "url": "https://open.spotify.com/album/4kHNdGMPIu00fBtXV5m9es"
-      },
-      "artists": [
-        {
-          "name": "Liza Bibikova",
-          "url": "https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz"
-        }
-      ],
-      "duration_ms": 180988,
-      "name": "\u0431\u0443\u0442\u0438 \u043e\u043f\u0442\u0438\u043c\u0456\u0441\u0442\u043e\u043c",
-      "url": "https://open.spotify.com/track/3VwyqCE0bV1t4bY1rp5w5p"
-    },
-    {
-      "added_at": "2026-07-09 21:00:16",
-      "album": {
         "name": "\u0412 \u043a\u0456\u043d\u0446\u0456 \u043a\u0456\u043d\u0446\u0456\u0432 \u043d\u0435\u043f\u043e\u0433\u0430\u043d\u043e \u0437\u0430\u043a\u043e\u0445\u0430\u0442\u0438\u0441\u044c \u0443 \u043a\u043e\u0433\u043e\u0441\u044c \u043a\u0440\u0430\u0441\u0438\u0432\u043e\u0433\u043e",
         "url": "https://open.spotify.com/album/0Nxm7DYMg1dhcYIW8gC1gy"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2026-07-09 21:00:16",
       "album": {
+        "name": "\u0431\u0443\u0442\u0438 \u043e\u043f\u0442\u0438\u043c\u0456\u0441\u0442\u043e\u043c",
+        "url": "https://open.spotify.com/album/4kHNdGMPIu00fBtXV5m9es"
+      },
+      "artists": [
+        {
+          "name": "Liza Bibikova",
+          "url": "https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz"
+        }
+      ],
+      "duration_ms": 180988,
+      "name": "\u0431\u0443\u0442\u0438 \u043e\u043f\u0442\u0438\u043c\u0456\u0441\u0442\u043e\u043c",
+      "url": "https://open.spotify.com/track/3VwyqCE0bV1t4bY1rp5w5p"
+    },
+    {
+      "added_at": "2026-07-09 21:00:16",
+      "album": {
         "name": "\u041d\u0443 \u0456 \u043f\u043e\u0445\u0443\u0439",
         "url": "https://open.spotify.com/album/5q2LIRXY34TZa0Fq0Tr0if"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 165000,
       "name": "\u041d\u0443 \u0456 \u043f\u043e\u0445\u0443\u0439",
       "url": "https://open.spotify.com/track/0sdBEGb1tVCleo2CzJWwQM"
+    },
+    {
+      "added_at": "2026-07-09 21:00:16",
+      "album": {
+        "name": "SENSORIUM",
+        "url": "https://open.spotify.com/album/0dZLqaYcZTsfYCZyTbOsQy"
+      },
+      "artists": [
+        {
+          "name": "Marie Hellstein",
+          "url": "https://open.spotify.com/artist/5mP5e9ZxmR6c3NUQTI5PIA"
+        }
+      ],
+      "duration_ms": 142831,
+      "name": "\u041f\u0456\u0441\u043d\u044f \u043a\u043e\u0441\u0430\u0442\u043e\u043a",
+      "url": "https://open.spotify.com/track/1FlOyDKQZtp62SOpQqYHlk"
     },
     {
       "added_at": "2026-07-09 21:00:16",
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2026-07-09 21:00:16",
       "album": {
-        "name": "\u0413\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0438",
-        "url": "https://open.spotify.com/album/1RTG1Wd25HLBfpOq8GSS7s"
-      },
-      "artists": [
-        {
-          "name": "The Soul Delusion",
-          "url": "https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi"
-        }
-      ],
-      "duration_ms": 185699,
-      "name": "\u0413\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0438",
-      "url": "https://open.spotify.com/track/0BbaskApTiUcztNGLmv2zJ"
-    },
-    {
-      "added_at": "2026-07-09 21:00:16",
-      "album": {
         "name": "\u0420\u0456\u0436",
         "url": "https://open.spotify.com/album/0w7uNoSzzDAmCjcU1StzW5"
       },
@@ -1119,6 +1119,58 @@
     {
       "added_at": "2026-07-09 21:00:16",
       "album": {
+        "name": "\u041b\u044e",
+        "url": "https://open.spotify.com/album/5zO62pdFxLMA0XBIB6ntQa"
+      },
+      "artists": [
+        {
+          "name": "Nadeen",
+          "url": "https://open.spotify.com/artist/5I9DCiCIPlBl87jmdKtUBG"
+        }
+      ],
+      "duration_ms": 123974,
+      "name": "\u041b\u044e",
+      "url": "https://open.spotify.com/track/2JYssUgcMqmlZO5VMkQNdq"
+    },
+    {
+      "added_at": "2026-07-09 21:00:16",
+      "album": {
+        "name": "\u0421\u0410\u041c\u041e\u0421\u0410\u0411\u041e\u0422\u0410\u0416",
+        "url": "https://open.spotify.com/album/5PlxD3kOt6ycK09HLSVTFe"
+      },
+      "artists": [
+        {
+          "name": "Nesamovyta",
+          "url": "https://open.spotify.com/artist/2QDQwTdMmYzoJ4N0taK2Bn"
+        },
+        {
+          "name": "Ortea",
+          "url": "https://open.spotify.com/artist/1HCPxmb0WFMbUWUHNoumjy"
+        }
+      ],
+      "duration_ms": 145263,
+      "name": "\u0414\u0430\u043b\u0435\u0431\u0456",
+      "url": "https://open.spotify.com/track/5sBliUW1aC8xLDSriNmzDb"
+    },
+    {
+      "added_at": "2026-07-09 21:00:16",
+      "album": {
+        "name": "\u0413\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0438",
+        "url": "https://open.spotify.com/album/1RTG1Wd25HLBfpOq8GSS7s"
+      },
+      "artists": [
+        {
+          "name": "The Soul Delusion",
+          "url": "https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi"
+        }
+      ],
+      "duration_ms": 185699,
+      "name": "\u0413\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0438",
+      "url": "https://open.spotify.com/track/0BbaskApTiUcztNGLmv2zJ"
+    },
+    {
+      "added_at": "2026-07-09 21:00:16",
+      "album": {
         "name": "\u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u043e",
         "url": "https://open.spotify.com/album/0atUuqgwCu81K99Fs4qw2W"
       },
@@ -1131,6 +1183,26 @@
       "duration_ms": 164869,
       "name": "\u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u043e",
       "url": "https://open.spotify.com/track/4LPs99XhJ7Udumkzbz20rU"
+    },
+    {
+      "added_at": "2026-07-09 21:00:16",
+      "album": {
+        "name": "\u0448\u0432\u0438\u0434\u043a\u043e\u043f\u043b\u0438\u043d",
+        "url": "https://open.spotify.com/album/6MfXA94mtSyCDAdGjfwfuC"
+      },
+      "artists": [
+        {
+          "name": "adm:t",
+          "url": "https://open.spotify.com/artist/2twME3jNUXdJCcaJ7dqHsJ"
+        },
+        {
+          "name": "REMEZ",
+          "url": "https://open.spotify.com/artist/2RYEF0ZXH0pV9WoS64XJ6n"
+        }
+      ],
+      "duration_ms": 180610,
+      "name": "\u0448\u0432\u0438\u0434\u043a\u043e\u043f\u043b\u0438\u043d",
+      "url": "https://open.spotify.com/track/3aALO6hby9d1cZiBeWFIdU"
     },
     {
       "added_at": "2026-07-09 21:00:16",
@@ -1167,38 +1239,6 @@
     {
       "added_at": "2026-07-09 21:00:16",
       "album": {
-        "name": "SENSORIUM",
-        "url": "https://open.spotify.com/album/0dZLqaYcZTsfYCZyTbOsQy"
-      },
-      "artists": [
-        {
-          "name": "Marie Hellstein",
-          "url": "https://open.spotify.com/artist/5mP5e9ZxmR6c3NUQTI5PIA"
-        }
-      ],
-      "duration_ms": 142831,
-      "name": "\u041f\u0456\u0441\u043d\u044f \u043a\u043e\u0441\u0430\u0442\u043e\u043a",
-      "url": "https://open.spotify.com/track/1FlOyDKQZtp62SOpQqYHlk"
-    },
-    {
-      "added_at": "2026-07-09 21:00:16",
-      "album": {
-        "name": "\u041b\u044e",
-        "url": "https://open.spotify.com/album/5zO62pdFxLMA0XBIB6ntQa"
-      },
-      "artists": [
-        {
-          "name": "Nadeen",
-          "url": "https://open.spotify.com/artist/5I9DCiCIPlBl87jmdKtUBG"
-        }
-      ],
-      "duration_ms": 123974,
-      "name": "\u041b\u044e",
-      "url": "https://open.spotify.com/track/2JYssUgcMqmlZO5VMkQNdq"
-    },
-    {
-      "added_at": "2026-07-09 21:00:16",
-      "album": {
         "name": "\u0413\u0435\u043d\u0456\u0439-\u0441\u0443\u043f\u0435\u0440\u0437\u0456\u0440\u043a\u0430",
         "url": "https://open.spotify.com/album/0Vx9Ogw9i485UO8CuH1Jcj"
       },
@@ -1211,26 +1251,6 @@
       "duration_ms": 183857,
       "name": "\u0413\u0435\u043d\u0456\u0439-\u0441\u0443\u043f\u0435\u0440\u0437\u0456\u0440\u043a\u0430",
       "url": "https://open.spotify.com/track/5zmNHIRolmYbebMrB6Ipi6"
-    },
-    {
-      "added_at": "2026-07-09 21:00:16",
-      "album": {
-        "name": "\u0448\u0432\u0438\u0434\u043a\u043e\u043f\u043b\u0438\u043d",
-        "url": "https://open.spotify.com/album/6MfXA94mtSyCDAdGjfwfuC"
-      },
-      "artists": [
-        {
-          "name": "adm:t",
-          "url": "https://open.spotify.com/artist/2twME3jNUXdJCcaJ7dqHsJ"
-        },
-        {
-          "name": "REMEZ",
-          "url": "https://open.spotify.com/artist/2RYEF0ZXH0pV9WoS64XJ6n"
-        }
-      ],
-      "duration_ms": 180610,
-      "name": "\u0448\u0432\u0438\u0434\u043a\u043e\u043f\u043b\u0438\u043d",
-      "url": "https://open.spotify.com/track/3aALO6hby9d1cZiBeWFIdU"
     },
     {
       "added_at": "2026-07-09 21:00:16",
@@ -1251,26 +1271,6 @@
     {
       "added_at": "2026-07-09 21:00:16",
       "album": {
-        "name": "\u0421\u0410\u041c\u041e\u0421\u0410\u0411\u041e\u0422\u0410\u0416",
-        "url": "https://open.spotify.com/album/5PlxD3kOt6ycK09HLSVTFe"
-      },
-      "artists": [
-        {
-          "name": "Nesamovyta",
-          "url": "https://open.spotify.com/artist/2QDQwTdMmYzoJ4N0taK2Bn"
-        },
-        {
-          "name": "Ortea",
-          "url": "https://open.spotify.com/artist/1HCPxmb0WFMbUWUHNoumjy"
-        }
-      ],
-      "duration_ms": 145263,
-      "name": "\u0414\u0430\u043b\u0435\u0431\u0456",
-      "url": "https://open.spotify.com/track/5sBliUW1aC8xLDSriNmzDb"
-    },
-    {
-      "added_at": "2026-07-09 21:00:16",
-      "album": {
         "name": "RATATAT",
         "url": "https://open.spotify.com/album/15hiWsIieNB9AAXAWz645i"
       },
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2026-07-09 21:00:16",
       "album": {
-        "name": "\u0414\u043e\u043b\u043e\u043d\u0456 \u0442\u0432\u043e\u0457",
-        "url": "https://open.spotify.com/album/1fgC2wGsGXRJqTPTsmIyOi"
+        "name": "#2",
+        "url": "https://open.spotify.com/album/1a3B9lMPWT8zChxZDuOocu"
       },
       "artists": [
         {
-          "name": "\u0421\u0442\u0440\u0430\u0445\u0438",
-          "url": "https://open.spotify.com/artist/6A039k1F7V7oXxKAoUO1o7"
+          "name": "kedrova",
+          "url": "https://open.spotify.com/artist/5HnrXbE5dYA9wdMS6eerh0"
         }
       ],
-      "duration_ms": 204000,
-      "name": "\u0414\u043e\u043b\u043e\u043d\u0456 \u0442\u0432\u043e\u0457",
-      "url": "https://open.spotify.com/track/4sBOfVEDrZTiH3WDmWdbSo"
+      "duration_ms": 218579,
+      "name": "\u043b\u0438\u0448\u0435 \u0434\u043b\u044f \u043d\u0430\u0441",
+      "url": "https://open.spotify.com/track/3RhyRbKIZ612WLI2OXrzEp"
     },
     {
       "added_at": "2026-07-09 21:00:16",
@@ -1319,50 +1319,50 @@
     {
       "added_at": "2026-07-09 21:00:16",
       "album": {
-        "name": "Viskra",
-        "url": "https://open.spotify.com/album/6tKb5eqYdO6scLOYgzEov5"
+        "name": "\u042f \u0440\u0430\u0445\u0443\u0432\u0430\u043b\u0430",
+        "url": "https://open.spotify.com/album/5DWyfdtVtBWcJxtmLxqYWx"
       },
       "artists": [
         {
-          "name": "YUVI",
-          "url": "https://open.spotify.com/artist/6l6Oqj9SmzFR81eaVmyhB9"
+          "name": "bulovinova",
+          "url": "https://open.spotify.com/artist/3hGfs6Hess99rJjiCjpd3P"
         }
       ],
-      "duration_ms": 160004,
-      "name": "\u0430\u0439",
-      "url": "https://open.spotify.com/track/4zdhmTiQe7PmFa9xigWDKb"
+      "duration_ms": 216428,
+      "name": "\u042f \u0440\u0430\u0445\u0443\u0432\u0430\u043b\u0430",
+      "url": "https://open.spotify.com/track/1MwquwVPy1EXDlR4ttkrQy"
     },
     {
       "added_at": "2026-07-09 21:00:16",
       "album": {
-        "name": "\u0441\u043e\u0443 \u0445\u0430\u0440\u0434",
-        "url": "https://open.spotify.com/album/5688l4cRpxYTiwighTs0gR"
+        "name": "\u0414\u043e\u043b\u043e\u043d\u0456 \u0442\u0432\u043e\u0457",
+        "url": "https://open.spotify.com/album/1fgC2wGsGXRJqTPTsmIyOi"
       },
       "artists": [
         {
-          "name": "headachee",
-          "url": "https://open.spotify.com/artist/7FLnr6jif4euepPlgGtaJZ"
+          "name": "\u0421\u0442\u0440\u0430\u0445\u0438",
+          "url": "https://open.spotify.com/artist/6A039k1F7V7oXxKAoUO1o7"
         }
       ],
-      "duration_ms": 193398,
-      "name": "\u0441\u043e\u0443 \u0445\u0430\u0440\u0434",
-      "url": "https://open.spotify.com/track/32Oyx638kXMoRNBKSdZiQO"
+      "duration_ms": 204000,
+      "name": "\u0414\u043e\u043b\u043e\u043d\u0456 \u0442\u0432\u043e\u0457",
+      "url": "https://open.spotify.com/track/4sBOfVEDrZTiH3WDmWdbSo"
     },
     {
       "added_at": "2026-07-09 21:00:16",
       "album": {
-        "name": "\u043c\u0430\u0448\u0438\u043d\u0430\u043c-\u0432\u0443\u043b\u0438\u0446\u044f\u043c",
-        "url": "https://open.spotify.com/album/3AhfPM37N6nxUlL7ewPFGd"
+        "name": "Don't call it love",
+        "url": "https://open.spotify.com/album/2wh748oDQCDZDue7XyxsX5"
       },
       "artists": [
         {
-          "name": "Berliner D\u00f6ner",
-          "url": "https://open.spotify.com/artist/0xF8vLtcDaxlv4s14moz72"
+          "name": "Marra Finn",
+          "url": "https://open.spotify.com/artist/5o4zCIlk3VBkX7ySwC4ipt"
         }
       ],
-      "duration_ms": 182250,
-      "name": "\u043c\u0430\u0448\u0438\u043d\u0430\u043c-\u0432\u0443\u043b\u0438\u0446\u044f\u043c",
-      "url": "https://open.spotify.com/track/2krMvok5fEOlQR3cjvjr9t"
+      "duration_ms": 164000,
+      "name": "Don't call it love",
+      "url": "https://open.spotify.com/track/583xHq04HxEJKIqqclE4O0"
     }
   ],
   "unique_name": "\u0456\u043d\u0434\u0456",

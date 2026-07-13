@@ -3091,6 +3091,24 @@
     },
     {
       "album": {
+        "name": "Party Dress",
+        "url": "https://open.spotify.com/album/1kq2F2GMGZnw9p5Q7Ch4jN"
+      },
+      "artists": [
+        {
+          "name": "Jada Facer",
+          "url": "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189993,
+      "name": "Party Dress",
+      "url": "https://open.spotify.com/track/3SerU0y1IgIxpniCYMSxlQ"
+    },
+    {
+      "album": {
         "name": "Past Life",
         "url": "https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL"
       },
@@ -3742,6 +3760,28 @@
       "duration_ms": 224653,
       "name": "Taboo",
       "url": "https://open.spotify.com/track/0LKALGlOvOau898oFGfEMu"
+    },
+    {
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/0V3YKC3QI5P1sAjM4csXju"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2026-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201557,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/1ydTfAU0AXrRnbPpfyWYQm"
     },
     {
       "album": {

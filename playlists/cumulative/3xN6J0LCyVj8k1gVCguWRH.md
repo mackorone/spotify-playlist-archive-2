@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-6,271 songs - 14 day 14 hr 39 min
+6,272 songs - 14 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3889,6 +3889,7 @@
 | [Oak Tree](https://open.spotify.com/track/0MJahZptuCBfLX5DVrL682) | [Hieros Gamos](https://open.spotify.com/artist/5Oors7sxVBhBHKVXfBRd1J) | [Oak Tree](https://open.spotify.com/album/4XQJLSdUk4dDtrtxMN42VY) | 6:49 | 2023-12-28 | 2024-01-05 |
 | [Oasis](https://open.spotify.com/track/2BErRZBoWGubwxNzjhy7S3) | [Rachel Curtis](https://open.spotify.com/artist/6DkII9PFxB8CETfB5qqr9W) | [Oasis](https://open.spotify.com/album/5lA2i5jeybyU72tr13vsuv) | 3:06 | 2025-10-16 | 2025-10-29 |
 | [Oasis](https://open.spotify.com/track/6a1TU3CohMRB3GQrPE4CUh) | [Us3r](https://open.spotify.com/artist/6WKERvE3l2iklzOSZxtLsf) | [Oasis](https://open.spotify.com/album/1Be1lPGRJq5A3xGfVH0FS3) | 3:15 | 2021-06-26 | 2021-07-12 |
+| [Obra Maestra](https://open.spotify.com/track/10xc0lox0r7D3OrEhZT4Vr) | [Gus Ormo](https://open.spotify.com/artist/1UwYKOt6E0pj3bzIhbTqFh) | [Alquimia](https://open.spotify.com/album/0rb1qG6DI5JisDMULKdwH8) | 3:21 | 2026-07-12 |  |
 | [Obsessed](https://open.spotify.com/track/27JQIiCCGGj9RsvQuCtc27) | [coasT](https://open.spotify.com/artist/6yTH0xQfcVbp8b6afRfAJZ) | [Obsessed](https://open.spotify.com/album/3I2dpWdCd38ArJ7xbpT0x8) | 2:19 | 2024-07-24 | 2024-08-05 |
 | [Obsessed](https://open.spotify.com/track/1V5e1iDlwRbHw9OL8DBrAG) | [Mia Grace](https://open.spotify.com/artist/3sQqNOqJbcGWXJz9UUnFm0) | [Obsessed](https://open.spotify.com/album/0qM09b6ga8COUk0tE5x8er) | 3:35 | 2024-10-18 | 2024-11-02 |
 | [Obsessed \- Fantasy Mix](https://open.spotify.com/track/2WDkANFIO2JKB4hfPxRPz0) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT), [Bairi](https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP), [Sherrionn](https://open.spotify.com/artist/3SGauX2k9gCIGwRZdlheMR) | [Obsessed \(Fantasy Mix\)](https://open.spotify.com/album/5AZwCTZmMB9yMsUduduWwx) | 2:50 | 2023-05-12 | 2023-08-28 |

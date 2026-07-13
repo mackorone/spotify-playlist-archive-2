@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > hyper\_sleaze.electro\_glitch.v2008.creep.zip.\[FINAL\]\_\[REAL\]\_\_coverartist.FrostChildren
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,371,921 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,371,845 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

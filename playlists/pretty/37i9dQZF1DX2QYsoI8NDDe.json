@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Marian Oviedo y Laraim \ud83d\udd25",
-  "num_followers": 579892,
+  "num_followers": 579883,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
+        "name": "Que Pretendes",
+        "url": "https://open.spotify.com/album/4a73GvMmOXzYjEbTJ8zMoo"
+      },
+      "artists": [
+        {
+          "name": "Ximena Cuevas",
+          "url": "https://open.spotify.com/artist/7mzUHxaab0u4s4iIiPgoRA"
+        }
+      ],
+      "duration_ms": 145121,
+      "name": "Que Pretendes",
+      "url": "https://open.spotify.com/track/0NePbYKCjQkNdvGZxcdoYF"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
         "name": "A Trav\u00e9s Del Vaso",
         "url": "https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 173102,
       "name": "Piensa en m\u00ed",
       "url": "https://open.spotify.com/track/1XwNYoMOeD7399kxslic0Q"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
-        "name": "Que Pretendes",
-        "url": "https://open.spotify.com/album/4a73GvMmOXzYjEbTJ8zMoo"
-      },
-      "artists": [
-        {
-          "name": "Ximena Cuevas",
-          "url": "https://open.spotify.com/artist/7mzUHxaab0u4s4iIiPgoRA"
-        }
-      ],
-      "duration_ms": 145121,
-      "name": "Que Pretendes",
-      "url": "https://open.spotify.com/track/0NePbYKCjQkNdvGZxcdoYF"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "El Problema Eras T\u00fa",
-        "url": "https://open.spotify.com/album/4xKwnqFUiCk5lgMmJfUuRd"
-      },
-      "artists": [
-        {
-          "name": "NXNNI",
-          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 192086,
-      "name": "El Problema Eras T\u00fa",
-      "url": "https://open.spotify.com/track/5chSieINSaqzNxMtht6zEC"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "\u00bfARDIDA QUI\u00c9N?",
         "url": "https://open.spotify.com/album/4oxsCPmw0U4j8Rg5jg6ygJ"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 140854,
       "name": "\u00bfARDIDA QUI\u00c9N?",
       "url": "https://open.spotify.com/track/0gCqNU4anOEcpwUY0u44br"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
+        "name": "El Problema Eras T\u00fa",
+        "url": "https://open.spotify.com/album/4xKwnqFUiCk5lgMmJfUuRd"
+      },
+      "artists": [
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 192086,
+      "name": "El Problema Eras T\u00fa",
+      "url": "https://open.spotify.com/track/5chSieINSaqzNxMtht6zEC"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "Coleccionando Corazones",
-        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 196766,
-      "name": "Se Me Va A Pasar",
-      "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "Ese Morrito",
         "url": "https://open.spotify.com/album/00yXhQTcU4gfoyzwKTewp9"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 176093,
       "name": "Ese Morrito",
       "url": "https://open.spotify.com/track/2JcCEJbgqaLAqgly93CK89"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
+        "name": "Coleccionando Corazones",
+        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 196766,
+      "name": "Se Me Va A Pasar",
+      "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "Chingos De Amor",
-        "url": "https://open.spotify.com/album/0CjU7nGl6BnrvkRGpyTdJN"
-      },
-      "artists": [
-        {
-          "name": "NXNNI",
-          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
-        }
-      ],
-      "duration_ms": 188671,
-      "name": "Chingos De Amor",
-      "url": "https://open.spotify.com/track/7BR2AICzC6Rd2hWRXd6WWp"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "El Adi\u00f3s Ranchero",
         "url": "https://open.spotify.com/album/39veRp09mMstYyyFFRb4EK"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 170997,
       "name": "El Adi\u00f3s Ranchero",
       "url": "https://open.spotify.com/track/6FiCXjItnPGWQ09DIOi1Ml"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
+        "name": "Chingos De Amor",
+        "url": "https://open.spotify.com/album/0CjU7nGl6BnrvkRGpyTdJN"
+      },
+      "artists": [
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        }
+      ],
+      "duration_ms": 188671,
+      "name": "Chingos De Amor",
+      "url": "https://open.spotify.com/track/7BR2AICzC6Rd2hWRXd6WWp"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "De Beso En Cuando",
-        "url": "https://open.spotify.com/album/6TVICULyTlgdXqhY06Ecuq"
-      },
-      "artists": [
-        {
-          "name": "Vilax",
-          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
-        }
-      ],
-      "duration_ms": 156013,
-      "name": "De Beso En Cuando",
-      "url": "https://open.spotify.com/track/2Djiqy1ptXFvlKizkaga2a"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "Herencias De Mi Madre (Volumen 2)",
         "url": "https://open.spotify.com/album/21rDrBv6U3OmR8s6BRsC5E"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "La Novia Del Pajarillo (En Vivo)",
-        "url": "https://open.spotify.com/album/4hYc8P71h1ByS2vHjItpQF"
+        "name": "De Beso En Cuando",
+        "url": "https://open.spotify.com/album/6TVICULyTlgdXqhY06Ecuq"
       },
       "artists": [
         {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+          "name": "Vilax",
+          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
         }
       ],
-      "duration_ms": 235434,
-      "name": "La Novia Del Pajarillo (En Vivo)",
-      "url": "https://open.spotify.com/track/1cqqXvOmdlhbMidw2Uvqtn"
+      "duration_ms": 156013,
+      "name": "De Beso En Cuando",
+      "url": "https://open.spotify.com/track/2Djiqy1ptXFvlKizkaga2a"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -1043,6 +1027,38 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
+        "name": "La Novia Del Pajarillo (En Vivo)",
+        "url": "https://open.spotify.com/album/4hYc8P71h1ByS2vHjItpQF"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 235434,
+      "name": "La Novia Del Pajarillo (En Vivo)",
+      "url": "https://open.spotify.com/track/1cqqXvOmdlhbMidw2Uvqtn"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
+        "name": "Con Todo Y Mi Tristeza (En Vivo Desde Tenampa 100)",
+        "url": "https://open.spotify.com/album/10l6d2kg8dxjPemNIfxbUW"
+      },
+      "artists": [
+        {
+          "name": "Karina Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
+        }
+      ],
+      "duration_ms": 254227,
+      "name": "Con Todo Y Mi Tristeza - En Vivo Desde Tenampa 100",
+      "url": "https://open.spotify.com/track/1KZ7bZLmto31FCm4G3dURQ"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
         "name": "Monarca",
         "url": "https://open.spotify.com/album/4M5aDPki2nzsQvjmqRvxkX"
       },
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "Algunas Canciones Romanticas",
-        "url": "https://open.spotify.com/album/155GEFtzsqj9iMhZNjEwKh"
-      },
-      "artists": [
-        {
-          "name": "Briseyda Solis",
-          "url": "https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi"
-        }
-      ],
-      "duration_ms": 215483,
-      "name": "Maldito Sea Tu Amor",
-      "url": "https://open.spotify.com/track/1N2sjSxjlMu0za92rIXrcL"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "Selectiva",
         "url": "https://open.spotify.com/album/5WLtyQPSuBnKE7lB2O3HzB"
       },
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "Con Todo Y Mi Tristeza (En Vivo Desde Tenampa 100)",
-        "url": "https://open.spotify.com/album/10l6d2kg8dxjPemNIfxbUW"
+        "name": "Algunas Canciones Romanticas",
+        "url": "https://open.spotify.com/album/155GEFtzsqj9iMhZNjEwKh"
       },
       "artists": [
         {
-          "name": "Karina Catal\u00e1n",
-          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
+          "name": "Briseyda Solis",
+          "url": "https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi"
         }
       ],
-      "duration_ms": 254227,
-      "name": "Con Todo Y Mi Tristeza - En Vivo Desde Tenampa 100",
-      "url": "https://open.spotify.com/track/1KZ7bZLmto31FCm4G3dURQ"
+      "duration_ms": 215483,
+      "name": "Maldito Sea Tu Amor",
+      "url": "https://open.spotify.com/track/1N2sjSxjlMu0za92rIXrcL"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
+        "name": "Cuando Ama Una Mujer",
+        "url": "https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp"
+      },
+      "artists": [
+        {
+          "name": "Diana Hoyos",
+          "url": "https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn"
+        }
+      ],
+      "duration_ms": 150880,
+      "name": "Cuando Ama Una Mujer",
+      "url": "https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
         "name": "\u00bfQui\u00e9n Es Usted?",
         "url": "https://open.spotify.com/album/5IcZe5B1FZzVRtKT8sNYgS"
       },
@@ -1247,18 +1263,18 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "Cuando Ama Una Mujer",
-        "url": "https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp"
+        "name": "All\u00e1 Donde Vayas",
+        "url": "https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn"
       },
       "artists": [
         {
-          "name": "Diana Hoyos",
-          "url": "https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn"
+          "name": "Angela Fonte",
+          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
         }
       ],
-      "duration_ms": 150880,
-      "name": "Cuando Ama Una Mujer",
-      "url": "https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o"
+      "duration_ms": 213316,
+      "name": "All\u00e1 Donde Vayas",
+      "url": "https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -1295,22 +1311,6 @@
       "duration_ms": 179647,
       "name": "Nos Acostumbramos",
       "url": "https://open.spotify.com/track/0GnSyaviaDBEtitiaH9TST"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
-        "name": "All\u00e1 Donde Vayas",
-        "url": "https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn"
-      },
-      "artists": [
-        {
-          "name": "Angela Fonte",
-          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
-        }
-      ],
-      "duration_ms": 213316,
-      "name": "All\u00e1 Donde Vayas",
-      "url": "https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "Se Fue Con Ella",
-        "url": "https://open.spotify.com/album/7iKKZ42AHg7wlKV1FwVrGI"
-      },
-      "artists": [
-        {
-          "name": "Silvia Y Los Gomez",
-          "url": "https://open.spotify.com/artist/5j703HeNlUHpNC05u9hTCU"
-        }
-      ],
-      "duration_ms": 156081,
-      "name": "Se Fue Con Ella",
-      "url": "https://open.spotify.com/track/7Gem1J6cYcGVxuqdSCf6h1"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "El Hielo Est\u00e1 Quemando",
         "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 189884,
       "name": "El Hielo Est\u00e1 Quemando",
       "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
+        "name": "Se Fue Con Ella",
+        "url": "https://open.spotify.com/album/7iKKZ42AHg7wlKV1FwVrGI"
+      },
+      "artists": [
+        {
+          "name": "Silvia Y Los Gomez",
+          "url": "https://open.spotify.com/artist/5j703HeNlUHpNC05u9hTCU"
+        }
+      ],
+      "duration_ms": 156081,
+      "name": "Se Fue Con Ella",
+      "url": "https://open.spotify.com/track/7Gem1J6cYcGVxuqdSCf6h1"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "La Bruta (En Vivo)",
-        "url": "https://open.spotify.com/album/2c0n8wO3gVg2WhmOIUtpGA"
-      },
-      "artists": [
-        {
-          "name": "Perla Valenzuela",
-          "url": "https://open.spotify.com/artist/7lGS8PPqjf2dH9NOotYNxH"
-        }
-      ],
-      "duration_ms": 174227,
-      "name": "La Bruta - En Vivo",
-      "url": "https://open.spotify.com/track/163temcvEe9TOytyKIBM0r"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "Sufriendo a Solas (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/3m2moauAcI7193V5YzVdIO"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 294002,
       "name": "Sufriendo a Solas",
       "url": "https://open.spotify.com/track/0iXi968cTVRo7QP7S6VegQ"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
+        "name": "La Bruta (En Vivo)",
+        "url": "https://open.spotify.com/album/2c0n8wO3gVg2WhmOIUtpGA"
+      },
+      "artists": [
+        {
+          "name": "Perla Valenzuela",
+          "url": "https://open.spotify.com/artist/7lGS8PPqjf2dH9NOotYNxH"
+        }
+      ],
+      "duration_ms": 174227,
+      "name": "La Bruta - En Vivo",
+      "url": "https://open.spotify.com/track/163temcvEe9TOytyKIBM0r"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "Caminos De Michoacan (En Vivo)",
-        "url": "https://open.spotify.com/album/2onjf4QRJiGJWCwkXSDTxp"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 363264,
-      "name": "Caminos De Michoacan (En Vivo)",
-      "url": "https://open.spotify.com/track/1yaCfymfoO4c3bxCAWl3WD"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "Se Me Sigue Olvidando",
         "url": "https://open.spotify.com/album/0ghyA4LynKnYbejvvWPWFg"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 179566,
       "name": "Se Me Sigue Olvidando",
       "url": "https://open.spotify.com/track/61rsUkZSrsaP53mSVEPfWu"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
+        "name": "Caminos De Michoacan (En Vivo)",
+        "url": "https://open.spotify.com/album/2onjf4QRJiGJWCwkXSDTxp"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 363264,
+      "name": "Caminos De Michoacan (En Vivo)",
+      "url": "https://open.spotify.com/track/1yaCfymfoO4c3bxCAWl3WD"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "Cuando Abras Los Ojos (En Vivo)",
-        "url": "https://open.spotify.com/album/4bVfMcEwztp8nUaqj5Pueq"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 200745,
-      "name": "Cuando Abras Los Ojos (En Vivo)",
-      "url": "https://open.spotify.com/track/0Qe97fMABeUgesEKr51Xwl"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/5JoE7qRxFl2gBMyKpddgV6"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 214864,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/4XRJ2OjlS5Trp66QQSDAVC"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
+        "name": "Cuando Abras Los Ojos (En Vivo)",
+        "url": "https://open.spotify.com/album/4bVfMcEwztp8nUaqj5Pueq"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 200745,
+      "name": "Cuando Abras Los Ojos (En Vivo)",
+      "url": "https://open.spotify.com/track/0Qe97fMABeUgesEKr51Xwl"
     },
     {
       "added_at": "2026-07-10 06:00:52",

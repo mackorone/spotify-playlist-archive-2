@@ -1,6 +1,6 @@
 {
   "description": "Classic Contemporary Christian songs you can always count on! Cover: Lauren Daigle",
-  "num_followers": 674452,
+  "num_followers": 674510,
   "original_name": "Christian Classics",
   "owner": {
     "name": "Spotify",
@@ -527,18 +527,18 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "Church Music",
-        "url": "https://open.spotify.com/album/69UXabkBHbKMJ0DQjctXtK"
+        "name": "Burning Lights",
+        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
       },
       "artists": [
         {
-          "name": "David Crowder Band",
-          "url": "https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 318693,
-      "name": "How He Loves",
-      "url": "https://open.spotify.com/track/6WSFMa721PvfnspCRsGOMh"
+      "duration_ms": 267906,
+      "name": "Whom Shall I Fear (God Of Angel Armies)",
+      "url": "https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -575,34 +575,18 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "Burning Lights",
-        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
+        "name": "Church Music",
+        "url": "https://open.spotify.com/album/69UXabkBHbKMJ0DQjctXtK"
       },
       "artists": [
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "David Crowder Band",
+          "url": "https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS"
         }
       ],
-      "duration_ms": 267906,
-      "name": "Whom Shall I Fear (God Of Angel Armies)",
-      "url": "https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
-        "name": "Bright Faith Bold Future",
-        "url": "https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 234731,
-      "name": "Yes I Will",
-      "url": "https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT"
+      "duration_ms": 318693,
+      "name": "How He Loves",
+      "url": "https://open.spotify.com/track/6WSFMa721PvfnspCRsGOMh"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -619,6 +603,22 @@
       "duration_ms": 306253,
       "name": "The Lion and the Lamb",
       "url": "https://open.spotify.com/track/2FJYXPlTmFPAjTwPS1bMnw"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
+        "name": "Bright Faith Bold Future",
+        "url": "https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 234731,
+      "name": "Yes I Will",
+      "url": "https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "Give It Time",
-        "url": "https://open.spotify.com/album/36TqkiS7AIf2u2dG4fQymd"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 208480,
-      "name": "Honestly, We Just Need Jesus",
-      "url": "https://open.spotify.com/track/4tBmvwXJKaxi8pWyBWMwT8"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
         "name": "Restart",
         "url": "https://open.spotify.com/album/2DzN9KpN5XlDcSKaqa1bZl"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 261693,
       "name": "We Believe",
       "url": "https://open.spotify.com/track/1dtzjTkNecIRAL4X3u4CtL"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
+        "name": "Give It Time",
+        "url": "https://open.spotify.com/album/36TqkiS7AIf2u2dG4fQymd"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 208480,
+      "name": "Honestly, We Just Need Jesus",
+      "url": "https://open.spotify.com/track/4tBmvwXJKaxi8pWyBWMwT8"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "Trial & Triumph",
-        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 238306,
-      "name": "Scars",
-      "url": "https://open.spotify.com/track/72B1Omo2kmEst4YKO8vOB6"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
         "name": "Speaking Louder Than Before",
         "url": "https://open.spotify.com/album/0GOyWcbeMSqnvMfCD1wQzt"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "If We're Honest (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw"
+        "name": "Trial & Triumph",
+        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
       },
       "artists": [
         {
-          "name": "Francesca Battistelli",
-          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
         }
       ],
-      "duration_ms": 207172,
-      "name": "He Knows My Name",
-      "url": "https://open.spotify.com/track/2lrHKMXyu8LTLxMorzJkTQ"
+      "duration_ms": 238306,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/72B1Omo2kmEst4YKO8vOB6"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -939,6 +923,22 @@
       "duration_ms": 214665,
       "name": "Me Without You",
       "url": "https://open.spotify.com/track/3LEBulRQI5hHe2TUKKswUf"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
+        "name": "If We're Honest (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw"
+      },
+      "artists": [
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+        }
+      ],
+      "duration_ms": 207172,
+      "name": "He Knows My Name",
+      "url": "https://open.spotify.com/track/2lrHKMXyu8LTLxMorzJkTQ"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "Beloved",
-        "url": "https://open.spotify.com/album/37b7Y7ow9J8eHcRyEtqaWY"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "The River",
-      "url": "https://open.spotify.com/track/1mSMwIW4ZK6DVl499FvDPv"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
         "name": "The Ascension",
         "url": "https://open.spotify.com/album/4n00c0RLzY8dZiDnsNwHQf"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 279786,
       "name": "This Is Amazing Grace",
       "url": "https://open.spotify.com/track/5C64H6dEsQ15bS9gp0D3Xr"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
+        "name": "Beloved",
+        "url": "https://open.spotify.com/album/37b7Y7ow9J8eHcRyEtqaWY"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 195506,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/1mSMwIW4ZK6DVl499FvDPv"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -2239,6 +2239,22 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Start A Fire",
+      "url": "https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
         "name": "2.0",
         "url": "https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS"
       },
@@ -2251,6 +2267,30 @@
       "duration_ms": 244786,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
+        "name": "We Will Not Be Shaken (Live)",
+        "url": "https://open.spotify.com/album/6Es2No0kYBzVAQlSmsEaZm"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        }
+      ],
+      "duration_ms": 373691,
+      "name": "No Longer Slaves (Live)",
+      "url": "https://open.spotify.com/track/63SF10lPoWA71bDYYzxfUs"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -2291,30 +2331,6 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "We Will Not Be Shaken (Live)",
-        "url": "https://open.spotify.com/album/6Es2No0kYBzVAQlSmsEaZm"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        },
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        }
-      ],
-      "duration_ms": 373691,
-      "name": "No Longer Slaves (Live)",
-      "url": "https://open.spotify.com/track/63SF10lPoWA71bDYYzxfUs"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
         "name": "Welcome to the New",
         "url": "https://open.spotify.com/album/4xBIDYQZtXRghjFPwqDLsP"
       },
@@ -2331,22 +2347,6 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Start A Fire",
-      "url": "https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
         "name": "How Can It Be",
         "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
       },
@@ -2359,22 +2359,6 @@
       "duration_ms": 211600,
       "name": "Trust In You",
       "url": "https://open.spotify.com/track/4908mwb34dqgcaxHeFjitw"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "The Comeback",
-      "url": "https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -2399,6 +2383,22 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "The Comeback",
+      "url": "https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
         "name": "In Jesus Name (God Of Possible)",
         "url": "https://open.spotify.com/album/6O6M9RO7S8AztEGAYKvD5T"
       },
@@ -2411,6 +2411,22 @@
       "duration_ms": 222039,
       "name": "In Jesus Name (God Of Possible)",
       "url": "https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja"
+    },
+    {
+      "added_at": "2026-05-12 00:21:15",
+      "album": {
+        "name": "Kari Jobe",
+        "url": "https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
+        }
+      ],
+      "duration_ms": 361386,
+      "name": "Revelation Song",
+      "url": "https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -2463,18 +2479,18 @@
     {
       "added_at": "2026-05-12 00:21:15",
       "album": {
-        "name": "Kari Jobe",
-        "url": "https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb"
+        "name": "Big God",
+        "url": "https://open.spotify.com/album/3neRBcOUW8ZMem3hBAU1u1"
       },
       "artists": [
         {
-          "name": "Kari Jobe Carnes",
-          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
         }
       ],
-      "duration_ms": 361386,
-      "name": "Revelation Song",
-      "url": "https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5"
+      "duration_ms": 191710,
+      "name": "Big God",
+      "url": "https://open.spotify.com/track/3vrD1zG1gJeGTkscxOMnO3"
     },
     {
       "added_at": "2026-05-12 00:21:15",
@@ -2507,22 +2523,6 @@
       "duration_ms": 215133,
       "name": "Grace Got You",
       "url": "https://open.spotify.com/track/72Hr8XLZckFo1Gie68XoMf"
-    },
-    {
-      "added_at": "2026-05-12 00:21:15",
-      "album": {
-        "name": "Ever Be",
-        "url": "https://open.spotify.com/album/09ErTYDLaRj9MgTr8oEUuj"
-      },
-      "artists": [
-        {
-          "name": "Aaron Shust",
-          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
-        }
-      ],
-      "duration_ms": 230093,
-      "name": "Ever Be",
-      "url": "https://open.spotify.com/track/0P8ANiSwsjYPx3zrmgN2Pv"
     }
   ],
   "unique_name": "Christian Classics",

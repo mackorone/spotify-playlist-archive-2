@@ -4,7 +4,7 @@
 
 > Fucked up and evil\. What an absolute bop.
 
-59 songs - 3 hr 2 min
+60 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Mx\. Sinister](https://open.spotify.com/track/1hYXuCb1EMgwfl3QHUeTfM) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Mx\. Sinister](https://open.spotify.com/album/3qUrbZrRvcbfMsHyE0qkeC) | 2:59 | 2023-01-07 |  |
 | [My Axe](https://open.spotify.com/track/21DhGvrfC9W2FBjW5EJmWE) | [Insane Clown Posse](https://open.spotify.com/artist/4xtWjIlVuZwTCeqVAsgEXy) | [Jugganauts \- The Best Of ICP](https://open.spotify.com/album/1SjluyIg7rIF87i76JxlhH) | 3:53 | 2024-10-09 |  |
 | [Never Let You Go](https://open.spotify.com/track/5GszXOtSSTq55cuyQTMNQ2) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy), [Gloom Darkheart](https://open.spotify.com/artist/2vIH8aDm7FlN5d1raMzfPt) | [Never Let You Go](https://open.spotify.com/album/4A3MZv5WLDVLzd6HWJtrOo) | 3:14 | 2023-03-23 |  |
+| [Once Upon a Time at Texaco pt\. 1](https://open.spotify.com/track/0MP9GFdd98d41oEorwCqyo) | [Amigo the Devil](https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv) | [Yours Until the War is Over](https://open.spotify.com/album/3Uf2ioZXjv71usXs8NZZ7M) | 4:13 | 2026-07-13 |  |
 | [One by One](https://open.spotify.com/track/6JyqoYZzjE6L50iDC5SbhB) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy), [Gloom Darkheart](https://open.spotify.com/artist/2vIH8aDm7FlN5d1raMzfPt) | [One by One](https://open.spotify.com/album/6Rac9Az8RQyXqodgu2ispe) | 2:52 | 2024-10-11 |  |
 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 | 2024-12-12 |  |
 | [Redesign Your Logo](https://open.spotify.com/track/6BVpvP8cxaBlYS1x6u01Sq) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [The Fump, Vol\. 20: March \- April 2010](https://open.spotify.com/album/795ErcyPhr0Trsq0a4SauM) | 4:19 | 2025-01-21 |  |
