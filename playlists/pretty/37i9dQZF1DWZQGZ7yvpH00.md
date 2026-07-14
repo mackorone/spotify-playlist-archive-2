@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Adrian L Santos y T3R Elemento en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,492 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,422 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 74 | [LO QUE QUIERAS DARME](https://open.spotify.com/track/68m6QEijGUpcDEcUnIKn53) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy) | [LO QUE QUIERAS DARME](https://open.spotify.com/album/1F3Oencni5u8m2cv2N8Cx4) | 2:35 |
 | 75 | [Madrid](https://open.spotify.com/track/5T9CTDe93Oj93n9M1bYFdM) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Madrid](https://open.spotify.com/album/51GmWpEhHzRosHUxOfCkY7) | 3:06 |
 
-Snapshot ID: `AAAAAGnn3+YVZkcEE/UxHIM/bwIw/Sn7`
+Snapshot ID: `AAAAAJH54REFBIjqQDIElUjwEz/uqnWx`

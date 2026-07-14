@@ -265,6 +265,40 @@
     },
     {
       "album": {
+        "name": "2X (Os Caras da Rua) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4ouHiCMczVoB3r7rCkzBl2"
+      },
+      "artists": [
+        {
+          "name": "FM O Dia",
+          "url": "https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ"
+        },
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        },
+        {
+          "name": "Renan Oliveira",
+          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
+        },
+        {
+          "name": "Paulinho",
+          "url": "https://open.spotify.com/artist/66WmQFOJlgpllywrKRV2w1"
+        },
+        {
+          "name": "Yan",
+          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179669,
+      "name": "2X (Os Caras da Rua) - Ao Vivo",
+      "url": "https://open.spotify.com/track/0vb4oGpelS1gR3A8MSIcPR"
+    },
+    {
+      "album": {
         "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
         "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
       },
@@ -11208,7 +11242,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 117954,
       "name": "No Meu Club",
       "url": "https://open.spotify.com/track/7K9SL09rkjRVbORQULf2Qq"

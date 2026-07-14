@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > Pop on the rise you should know, featuring Alleh.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,912,685 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,912,361 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 | 7 | [abusadOra \(tambores\)](https://open.spotify.com/track/1thaOV3ltF9gn3if93fyRo) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [ANTES DE QUE SEA TARDE](https://open.spotify.com/album/7z513StymZaeATXNoCBeDr) | 3:11 |
 | 8 | [UNA NA MAS](https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [UNA NA MAS](https://open.spotify.com/album/4KsLRrdsmskz2N1nlFrACQ) | 3:16 |
 | 9 | [LLEVA AL SOL](https://open.spotify.com/track/47zVKSB29KsEjcBPBrFSTB) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [love love FLAKK](https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be) | 1:59 |
-| 10 | [LA GUARACHA \(Oh Oh Oh\)](https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [LA GUARACHA \(Oh Oh Oh\)](https://open.spotify.com/album/2I5gxj9pxbyE7o0TpcadAN) | 3:19 |
+| 10 | [LA GUARACHA \(Oh Oh Oh\)](https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [LA GUARACHA \(Oh Oh Oh\)](https://open.spotify.com/album/2I5gxj9pxbyE7o0TpcadAN) | 3:20 |
 | 11 | [aiaiaiaiai](https://open.spotify.com/track/1OWeVALbBJNeVRn09ZKB53) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [aiaiaiaiai](https://open.spotify.com/album/080bvrS3d0ZPPwlAz3ui1T) | 2:20 |
 | 12 | [EPA](https://open.spotify.com/track/1DtGtvgGRxsfHfwQu3cqfw) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [EPA](https://open.spotify.com/album/42bmZVf8s1S0wMhY7HrBGZ) | 3:22 |
 | 13 | [Si tú supieras…](https://open.spotify.com/track/6aPlrDbqDmON1KAkUn4D6U) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [babylona blue](https://open.spotify.com/album/6Q4c6DexERmNLUyDeTj738) | 2:20 |

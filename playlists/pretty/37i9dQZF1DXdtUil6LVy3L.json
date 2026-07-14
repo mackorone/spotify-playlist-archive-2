@@ -1,6 +1,6 @@
 {
   "description": "Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.",
-  "num_followers": 38907,
+  "num_followers": 38903,
   "original_name": "Jazzy Christmas Chill\ud83c\udf84\u2728",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "Lost in the Stars",
-        "url": "https://open.spotify.com/album/4RrIEi9MX1i5IOq9g6leA7"
-      },
-      "artists": [
-        {
-          "name": "UWS Jazz Trio",
-          "url": "https://open.spotify.com/artist/2hWsHcobGML6Rr9HAdY44K"
-        }
-      ],
-      "duration_ms": 205276,
-      "name": "Lost in the Stars",
-      "url": "https://open.spotify.com/track/5Q9vFxDdswixkE6GtM4Se4"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "Please come home for christmas",
         "url": "https://open.spotify.com/album/5r2ZzaDZhyqzORtTWnbYPM"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 153892,
       "name": "Please come home for christmas",
       "url": "https://open.spotify.com/track/4CjsInvWGmHOxxVQ2sS9F4"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "Lost in the Stars",
+        "url": "https://open.spotify.com/album/4RrIEi9MX1i5IOq9g6leA7"
+      },
+      "artists": [
+        {
+          "name": "UWS Jazz Trio",
+          "url": "https://open.spotify.com/artist/2hWsHcobGML6Rr9HAdY44K"
+        }
+      ],
+      "duration_ms": 205276,
+      "name": "Lost in the Stars",
+      "url": "https://open.spotify.com/track/5Q9vFxDdswixkE6GtM4Se4"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "A Christmas Love Song",
-        "url": "https://open.spotify.com/album/3KBCBLVGamNAwM1pPY65rJ"
-      },
-      "artists": [
-        {
-          "name": "Francis Graden",
-          "url": "https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w"
-        }
-      ],
-      "duration_ms": 158066,
-      "name": "A Christmas Love Song",
-      "url": "https://open.spotify.com/track/3srmpEPRcrE5FAGJcsHk55"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "The greatest gift we've got",
         "url": "https://open.spotify.com/album/28xA0XgYaLhtGl9z3XMQjr"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 217014,
       "name": "The greatest gift we've got",
       "url": "https://open.spotify.com/track/7kKeIMx30LYBbdXx3a2WFQ"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "A Christmas Love Song",
+        "url": "https://open.spotify.com/album/3KBCBLVGamNAwM1pPY65rJ"
+      },
+      "artists": [
+        {
+          "name": "Francis Graden",
+          "url": "https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w"
+        }
+      ],
+      "duration_ms": 158066,
+      "name": "A Christmas Love Song",
+      "url": "https://open.spotify.com/track/3srmpEPRcrE5FAGJcsHk55"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "Angels We Have Heard on High",
-        "url": "https://open.spotify.com/album/2KqInjYpnuhRqjqff6qgDF"
-      },
-      "artists": [
-        {
-          "name": "Henri La Mer",
-          "url": "https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Angels We Have Heard on High",
-      "url": "https://open.spotify.com/track/0TDif8fPpS7TfXsOHLHfDn"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "Meet Me Under the Mistletoe",
         "url": "https://open.spotify.com/album/7eWMP5eQSUrOKivRDD9rHc"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 204187,
       "name": "Meet Me Under the Mistletoe",
       "url": "https://open.spotify.com/track/39kbAYlQI8I9WA6j3YxKSD"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "Angels We Have Heard on High",
+        "url": "https://open.spotify.com/album/2KqInjYpnuhRqjqff6qgDF"
+      },
+      "artists": [
+        {
+          "name": "Henri La Mer",
+          "url": "https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Angels We Have Heard on High",
+      "url": "https://open.spotify.com/track/0TDif8fPpS7TfXsOHLHfDn"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
+        "name": "Here We Come A-Caroling",
+        "url": "https://open.spotify.com/album/3egzz4FGBjVceoI4hO89BI"
+      },
+      "artists": [
+        {
+          "name": "Goblin Quartet",
+          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
+        }
+      ],
+      "duration_ms": 143808,
+      "name": "Here We Come A-Caroling",
+      "url": "https://open.spotify.com/track/6dAElJFsKJmqRrqaHYoJfg"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
         "name": "Where Are You Christmas",
         "url": "https://open.spotify.com/album/7MkJv5yyWK1lBjaLlODknj"
       },
@@ -1099,18 +1115,18 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "Here We Come A-Caroling",
-        "url": "https://open.spotify.com/album/3egzz4FGBjVceoI4hO89BI"
+        "name": "O Little Town Of Bethlehem",
+        "url": "https://open.spotify.com/album/5ATgjzS28kfGc1mEb7woSb"
       },
       "artists": [
         {
-          "name": "Goblin Quartet",
-          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
+          "name": "Jason Starman",
+          "url": "https://open.spotify.com/artist/52a7FDR4OUPloosqc20P3K"
         }
       ],
-      "duration_ms": 143808,
-      "name": "Here We Come A-Caroling",
-      "url": "https://open.spotify.com/track/6dAElJFsKJmqRrqaHYoJfg"
+      "duration_ms": 121585,
+      "name": "O Little Town Of Bethlehem",
+      "url": "https://open.spotify.com/track/1kmTkjdISuKcmP5NTop76j"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -1143,22 +1159,6 @@
       "duration_ms": 149940,
       "name": "I Heard the Bells on Christmas Day",
       "url": "https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
-        "name": "O Little Town Of Bethlehem",
-        "url": "https://open.spotify.com/album/5ATgjzS28kfGc1mEb7woSb"
-      },
-      "artists": [
-        {
-          "name": "Jason Starman",
-          "url": "https://open.spotify.com/artist/52a7FDR4OUPloosqc20P3K"
-        }
-      ],
-      "duration_ms": 121585,
-      "name": "O Little Town Of Bethlehem",
-      "url": "https://open.spotify.com/track/1kmTkjdISuKcmP5NTop76j"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "Deck the Halls",
-        "url": "https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop"
-      },
-      "artists": [
-        {
-          "name": "Michael Stylez & Co",
-          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
-        }
-      ],
-      "duration_ms": 99179,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "Under My Christmas Tree",
         "url": "https://open.spotify.com/album/3486nX6gEewOk56YcHVrxA"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 186139,
       "name": "Under My Christmas Tree",
       "url": "https://open.spotify.com/track/4tKd4QHmVtC0EB4FvVCWyf"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "Deck the Halls",
+        "url": "https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop"
+      },
+      "artists": [
+        {
+          "name": "Michael Stylez & Co",
+          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
+        }
+      ],
+      "duration_ms": 99179,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq"
     }
   ],
   "unique_name": "Jazzy Christmas Chill\ud83c\udf84\u2728",

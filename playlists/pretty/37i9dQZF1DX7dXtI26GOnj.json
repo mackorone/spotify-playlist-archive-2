@@ -1,6 +1,6 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Rauw Alejandro",
-  "num_followers": 243820,
+  "num_followers": 243842,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
@@ -699,26 +699,6 @@
     {
       "added_at": "2026-06-17 15:55:40",
       "album": {
-        "name": "Troka",
-        "url": "https://open.spotify.com/album/00yl2r8v4986lCsP6rGOkv"
-      },
-      "artists": [
-        {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        }
-      ],
-      "duration_ms": 169622,
-      "name": "Troka",
-      "url": "https://open.spotify.com/track/5AchK5XMO4AwN99yYcDPQc"
-    },
-    {
-      "added_at": "2026-06-17 15:55:40",
-      "album": {
         "name": "QUEMA",
         "url": "https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 150618,
       "name": "QUEMA",
       "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
+    },
+    {
+      "added_at": "2026-06-17 15:55:40",
+      "album": {
+        "name": "Troka",
+        "url": "https://open.spotify.com/album/00yl2r8v4986lCsP6rGOkv"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        }
+      ],
+      "duration_ms": 169622,
+      "name": "Troka",
+      "url": "https://open.spotify.com/track/5AchK5XMO4AwN99yYcDPQc"
     },
     {
       "added_at": "2026-06-17 15:55:40",

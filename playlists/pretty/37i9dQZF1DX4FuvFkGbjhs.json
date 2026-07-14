@@ -1,6 +1,6 @@
 {
   "description": "Beyond titles, beyond genre. Cover: Kelela",
-  "num_followers": 198547,
+  "num_followers": 198545,
   "original_name": "UNTITLED",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-07-09 23:00:46",
       "album": {
+        "name": "So it goes",
+        "url": "https://open.spotify.com/album/3DezGjyrh1Hwa6mdiqSPNb"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 156340,
+      "name": "So it goes",
+      "url": "https://open.spotify.com/track/5qfWxLZF5bxsQcen6PIg8U"
+    },
+    {
+      "added_at": "2026-07-09 23:00:46",
+      "album": {
         "name": "Last of a Dying Breed",
         "url": "https://open.spotify.com/album/3ttt3IAhIjw42M0OXWbyJS"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 216311,
       "name": "BIG DOG",
       "url": "https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ"
-    },
-    {
-      "added_at": "2026-07-09 23:00:46",
-      "album": {
-        "name": "So it goes",
-        "url": "https://open.spotify.com/album/3DezGjyrh1Hwa6mdiqSPNb"
-      },
-      "artists": [
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        }
-      ],
-      "duration_ms": 156340,
-      "name": "So it goes",
-      "url": "https://open.spotify.com/track/5qfWxLZF5bxsQcen6PIg8U"
     },
     {
       "added_at": "2026-07-09 23:00:46",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-07-09 23:00:46",
       "album": {
-        "name": "Maktoub",
-        "url": "https://open.spotify.com/album/5lGNl6oIZCafJQKQYKWmpZ"
-      },
-      "artists": [
-        {
-          "name": "Alewya",
-          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
-        }
-      ],
-      "duration_ms": 161178,
-      "name": "Maktoub",
-      "url": "https://open.spotify.com/track/56DYNKo3QHkakqOUkWi3vl"
-    },
-    {
-      "added_at": "2026-07-09 23:00:46",
-      "album": {
         "name": "i Music Listen",
         "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 203865,
       "name": "cu\u00eddame de mi",
       "url": "https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F"
+    },
+    {
+      "added_at": "2026-07-09 23:00:46",
+      "album": {
+        "name": "Maktoub",
+        "url": "https://open.spotify.com/album/5lGNl6oIZCafJQKQYKWmpZ"
+      },
+      "artists": [
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        }
+      ],
+      "duration_ms": 161178,
+      "name": "Maktoub",
+      "url": "https://open.spotify.com/track/56DYNKo3QHkakqOUkWi3vl"
     },
     {
       "added_at": "2026-07-09 23:00:46",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-07-09 23:00:46",
       "album": {
-        "name": "Sick Of Love",
-        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Sick Of Love",
-      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
-    },
-    {
-      "added_at": "2026-07-09 23:00:46",
-      "album": {
         "name": "Helicopters",
         "url": "https://open.spotify.com/album/53IVWLHnBwJ6KwpOAc5NRX"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 238086,
       "name": "Helicopters",
       "url": "https://open.spotify.com/track/2ofMsovltZ6Nn6wQz1ZphY"
+    },
+    {
+      "added_at": "2026-07-09 23:00:46",
+      "album": {
+        "name": "Sick Of Love",
+        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Sick Of Love",
+      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
     },
     {
       "added_at": "2026-07-09 23:00:46",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-07-09 23:00:46",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd"
-      },
-      "artists": [
-        {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
-        }
-      ],
-      "duration_ms": 137493,
-      "name": "Madonna",
-      "url": "https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI"
-    },
-    {
-      "added_at": "2026-07-09 23:00:46",
-      "album": {
         "name": "Beyond The Brilliant Haze",
         "url": "https://open.spotify.com/album/1eSBJYm05UodNrXkzOgzSg"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 191799,
       "name": "Beyond The Brilliant Haze",
       "url": "https://open.spotify.com/track/4DjTD6mX5Cu2ZFduKT64X5"
+    },
+    {
+      "added_at": "2026-07-09 23:00:46",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "duration_ms": 137493,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI"
     },
     {
       "added_at": "2026-07-09 23:00:46",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-07-09 23:00:46",
       "album": {
-        "name": "Knife In The Heart",
-        "url": "https://open.spotify.com/album/3hUVYAg62w5WHRDCZOaG6A"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 177592,
-      "name": "Knife In The Heart",
-      "url": "https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3"
-    },
-    {
-      "added_at": "2026-07-09 23:00:46",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 266129,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
+    },
+    {
+      "added_at": "2026-07-09 23:00:46",
+      "album": {
+        "name": "Knife In The Heart",
+        "url": "https://open.spotify.com/album/3hUVYAg62w5WHRDCZOaG6A"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 177592,
+      "name": "Knife In The Heart",
+      "url": "https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3"
     },
     {
       "added_at": "2026-07-09 23:00:46",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2026-07-09 23:00:46",
       "album": {
-        "name": "Where The Waves Break",
-        "url": "https://open.spotify.com/album/6R1xCzolR17w5pJWFKHHeu"
+        "name": "i let the sun back in",
+        "url": "https://open.spotify.com/album/4LKiBILBoGF9LbkgkpVnwL"
       },
       "artists": [
         {
-          "name": "TENDER",
-          "url": "https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm"
+          "name": "kid apollo",
+          "url": "https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u"
         }
       ],
-      "duration_ms": 266767,
-      "name": "Eleanor",
-      "url": "https://open.spotify.com/track/4x9RLHwtUvN2zchIJt7F3W"
+      "duration_ms": 146510,
+      "name": "i let the sun back in",
+      "url": "https://open.spotify.com/track/00OaYHmBjzIPSEnUI0q1lO"
     }
   ],
   "unique_name": "UNTITLED",

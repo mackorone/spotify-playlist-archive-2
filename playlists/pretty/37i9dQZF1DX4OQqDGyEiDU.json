@@ -1,6 +1,6 @@
 {
   "description": "Explore the current wave of VOCALOID culture. Cover: Hiiragi Magnetite",
-  "num_followers": 120912,
+  "num_followers": 120915,
   "original_name": "VOCALOID now",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-07-02 02:39:57",
       "album": {
-        "name": "\u82b1\u306b\u98a8",
-        "url": "https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA"
-      },
-      "artists": [
-        {
-          "name": "balloon",
-          "url": "https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva"
-        }
-      ],
-      "duration_ms": 225748,
-      "name": "\u82b1\u306b\u98a8",
-      "url": "https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6"
-    },
-    {
-      "added_at": "2026-07-02 02:39:57",
-      "album": {
         "name": "\u3044\u307e\u3059\u3050\u8f2a\u5efb",
         "url": "https://open.spotify.com/album/7INI4kXA59Vti239hZ9gwe"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 122482,
       "name": "\u3044\u307e\u3059\u3050\u8f2a\u5efb",
       "url": "https://open.spotify.com/track/2YZa7FpeKe423Wvme0yKNf"
+    },
+    {
+      "added_at": "2026-07-02 02:39:57",
+      "album": {
+        "name": "\u82b1\u306b\u98a8",
+        "url": "https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA"
+      },
+      "artists": [
+        {
+          "name": "balloon",
+          "url": "https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva"
+        }
+      ],
+      "duration_ms": 225748,
+      "name": "\u82b1\u306b\u98a8",
+      "url": "https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6"
     },
     {
       "added_at": "2026-07-02 02:39:57",

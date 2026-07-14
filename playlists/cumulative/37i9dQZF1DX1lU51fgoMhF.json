@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: Dayoung)",
+  "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: WOOAH (\uc6b0\uc544))",
   "name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "tracks": [
     {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 210573,
       "name": "Alcohol-Free",
       "url": "https://open.spotify.com/track/01bKPMGCl8LFzbtciNlhaj"
@@ -6640,6 +6640,24 @@
       "duration_ms": 187066,
       "name": "SUMMER",
       "url": "https://open.spotify.com/track/6QwgTML7rpE006H9ROG5mi"
+    },
+    {
+      "album": {
+        "name": "Wish With W : Vol.3",
+        "url": "https://open.spotify.com/album/4iHtzmB65LzS88mAtbckKG"
+      },
+      "artists": [
+        {
+          "name": "WOOAH",
+          "url": "https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144424,
+      "name": "SUMMER",
+      "url": "https://open.spotify.com/track/0ttbI9SXLukXICIoNIrH0l"
     },
     {
       "album": {

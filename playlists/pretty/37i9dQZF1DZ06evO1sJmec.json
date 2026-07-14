@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2120745,
+  "num_followers": 2120908,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAAAQnIoToAHi+h1S1Gk7RT4x",
+  "snapshot_id": "alLZAAAAAADUWn0cLPlCv7jRc+S0vXQR",
   "tracks": [
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u2026And Justice for All (Remastered)",
-        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
+        "name": "Metallica (Remastered 2021)",
+        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 385986,
-      "name": "Eye of the Beholder",
-      "url": "https://open.spotify.com/track/4oNXsQxJS726q1CALwlIzc"
+      "duration_ms": 308506,
+      "name": "The God That Failed - Remastered 2021",
+      "url": "https://open.spotify.com/track/6SUS59EDam0USXk05d9ZAH"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metallica (Remastered 2021)",
-        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
+        "name": "\u2026And Justice for All (Remastered)",
+        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 308506,
-      "name": "The God That Failed - Remastered 2021",
-      "url": "https://open.spotify.com/track/6SUS59EDam0USXk05d9ZAH"
+      "duration_ms": 385986,
+      "name": "Eye of the Beholder",
+      "url": "https://open.spotify.com/track/4oNXsQxJS726q1CALwlIzc"
     },
     {
       "added_at": null,

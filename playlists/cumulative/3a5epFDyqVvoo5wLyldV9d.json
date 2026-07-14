@@ -6055,6 +6055,24 @@
     },
     {
       "album": {
+        "name": "Sen Aglama",
+        "url": "https://open.spotify.com/album/0qTyJMQhBBb5oeoTr8b8Ra"
+      },
+      "artists": [
+        {
+          "name": "Sezen Aksu",
+          "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271618,
+      "name": "Haydi Gel Benimle Ol",
+      "url": "https://open.spotify.com/track/6ekUWsPDlyooDFSBmXvBIW"
+    },
+    {
+      "album": {
         "name": "Volume 5",
         "url": "https://open.spotify.com/album/1duYR1BKAr0ZNX35kEnk9Y"
       },
@@ -8187,7 +8205,7 @@
     },
     {
       "album": {
-        "name": "La Legge Dei Gangsters",
+        "name": "La legge dei gangsters",
         "url": "https://open.spotify.com/album/3j4peilVrbOhAZEIvA3ptr"
       },
       "artists": [
@@ -8200,7 +8218,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 154853,
-      "name": "Lui E Lei",
+      "name": "Lui e lei",
       "url": "https://open.spotify.com/track/7CwBlDpfPEpeAmAO2fE1Ao"
     },
     {
@@ -9776,6 +9794,28 @@
       "duration_ms": 315306,
       "name": "My Country",
       "url": "https://open.spotify.com/track/2ahWD5RUT7SIwDII6Z9lAO"
+    },
+    {
+      "album": {
+        "name": "Night Song (Real World Gold)",
+        "url": "https://open.spotify.com/album/39R3IELCHOo5HqYJjEIWPo"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        },
+        {
+          "name": "Michael Brook",
+          "url": "https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331293,
+      "name": "My Heart, My Life",
+      "url": "https://open.spotify.com/track/51kDnf9dngc5G01ncfKc9K"
     },
     {
       "album": {

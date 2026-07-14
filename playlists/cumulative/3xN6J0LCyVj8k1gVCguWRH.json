@@ -58971,6 +58971,24 @@
     },
     {
       "album": {
+        "name": "Lights Down",
+        "url": "https://open.spotify.com/album/21S1PqYmW5l0WF1uUluF7s"
+      },
+      "artists": [
+        {
+          "name": "Baby Richman",
+          "url": "https://open.spotify.com/artist/0Rflnb0WvYeuK5B6AHVSXE"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193809,
+      "name": "Lights Down",
+      "url": "https://open.spotify.com/track/7ihxR27tybU9Kf5tx3Rnbg"
+    },
+    {
+      "album": {
         "name": "Lights from Container Ships",
         "url": "https://open.spotify.com/album/4b8PPBZL6vEiRyijRaPG3q"
       },

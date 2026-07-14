@@ -1823,6 +1823,36 @@
     },
     {
       "album": {
+        "name": "Cow With Half Moon Parasol",
+        "url": "https://open.spotify.com/album/3s5JFSNttXDbwCEvCIctLS"
+      },
+      "artists": [
+        {
+          "name": "HUG",
+          "url": "https://open.spotify.com/artist/0fPTd29x2F2C4lHNVUwFEs"
+        },
+        {
+          "name": "Gyan Riley",
+          "url": "https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf"
+        },
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        },
+        {
+          "name": "Noah Georgeson",
+          "url": "https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276620,
+      "name": "Cow With Half Moon Parasol",
+      "url": "https://open.spotify.com/track/2pUjVfqByVLqkgrKBrsdkw"
+    },
+    {
+      "album": {
         "name": "Wake Up Calls",
         "url": "https://open.spotify.com/album/74ExKX0TXhIQE30UrTiPlD"
       },
@@ -4968,7 +4998,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 320044,
       "name": "Moonlit Whispers",
       "url": "https://open.spotify.com/track/4lxrnbNCqFxywcO2hC5pbD"

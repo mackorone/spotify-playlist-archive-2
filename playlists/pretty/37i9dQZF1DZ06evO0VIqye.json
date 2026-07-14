@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 62451,
+  "num_followers": 62456,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAABAZPZ32SUALeTqobT1/qp8",
+  "snapshot_id": "alLZAAAAAAAK46+aepc+TgR6VZ3++0ji",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Into It",
-        "url": "https://open.spotify.com/album/4Trti87I17wUxMIymbKcZG"
+        "name": "The Hit List",
+        "url": "https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV"
       },
       "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        },
         {
           "name": "Joan Jett & the Blackhearts",
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 216865,
-      "name": "Wildside - feat. Joan Jett",
-      "url": "https://open.spotify.com/track/1zaXFoTfjdNpZyMHnlWGSj"
+      "duration_ms": 227400,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/1TtEL6XQLDyDnG5QU9oqaD"
     },
     {
       "added_at": null,
@@ -339,18 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hit List",
-        "url": "https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV"
+        "name": "Dream Into It",
+        "url": "https://open.spotify.com/album/4Trti87I17wUxMIymbKcZG"
       },
       "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        },
         {
           "name": "Joan Jett & the Blackhearts",
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 227400,
-      "name": "Love Hurts",
-      "url": "https://open.spotify.com/track/1TtEL6XQLDyDnG5QU9oqaD"
+      "duration_ms": 216865,
+      "name": "Wildside - feat. Joan Jett",
+      "url": "https://open.spotify.com/track/1zaXFoTfjdNpZyMHnlWGSj"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Music",
-        "url": "https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D"
+        "name": "The Hit List",
+        "url": "https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 345000,
-      "name": "Good Music",
-      "url": "https://open.spotify.com/track/3H3e9wWaEjGDjPxZYVkNHp"
+      "duration_ms": 141773,
+      "name": "Tush",
+      "url": "https://open.spotify.com/track/12tFpmVUAaQTrTbxGJUlTI"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hit List",
-        "url": "https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV"
+        "name": "Good Music",
+        "url": "https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 141773,
-      "name": "Tush",
-      "url": "https://open.spotify.com/track/12tFpmVUAaQTrTbxGJUlTI"
+      "duration_ms": 345000,
+      "name": "Good Music",
+      "url": "https://open.spotify.com/track/3H3e9wWaEjGDjPxZYVkNHp"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Music",
-        "url": "https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D"
+        "name": "Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 139173,
-      "name": "Fun, Fun, Fun",
-      "url": "https://open.spotify.com/track/0zp6Byr3O05jhRYFhgTKSV"
+      "duration_ms": 182800,
+      "name": "I Love Playin' With Fire",
+      "url": "https://open.spotify.com/track/3umY8W04g6IleknmXNEPVV"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
+        "name": "Good Music",
+        "url": "https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 182800,
-      "name": "I Love Playin' With Fire",
-      "url": "https://open.spotify.com/track/3umY8W04g6IleknmXNEPVV"
+      "duration_ms": 139173,
+      "name": "Fun, Fun, Fun",
+      "url": "https://open.spotify.com/track/0zp6Byr3O05jhRYFhgTKSV"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
       "duration_ms": 170506,
       "name": "Two Shots",
       "url": "https://open.spotify.com/track/3xmDEGMS0QDkMe4Mhm8Gxy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Music",
-        "url": "https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Roadrunner",
-      "url": "https://open.spotify.com/track/14422jQTovCSyqhd1Q7StC"
     },
     {
       "added_at": null,
@@ -799,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Music",
+        "url": "https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Roadrunner",
+      "url": "https://open.spotify.com/track/14422jQTovCSyqhd1Q7StC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Glorious Results of a Misspent Youth (Expanded Edition)",
         "url": "https://open.spotify.com/album/5g0tzzMKPjOFd3tbjvVISF"
       },
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Notorious",
-        "url": "https://open.spotify.com/album/63eWzC0Z9JSpdlOFsliBm7"
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/21b03QbYud0qjLM5vd7VZa"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 270240,
-      "name": "Lie to Me",
-      "url": "https://open.spotify.com/track/7f249fAedlAqWStTPmf63j"
+      "duration_ms": 173960,
+      "name": "Tulane",
+      "url": "https://open.spotify.com/track/7eHhkn6a1MTFKw4NkY3V61"
     }
   ],
   "unique_name": "This Is Joan Jett & the Blackhearts",

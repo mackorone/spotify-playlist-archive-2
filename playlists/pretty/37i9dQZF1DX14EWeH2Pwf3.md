@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > la Million Dollar Babe  in cover 🎀
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,125,113 likes - 55 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125,080 likes - 55 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

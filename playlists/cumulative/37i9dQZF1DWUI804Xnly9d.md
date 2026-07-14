@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-649 songs - 1 day 12 hr 17 min
+650 songs - 1 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Jiya \- Acoustic](https://open.spotify.com/track/2k66hTa45HXKxvw0nkdImV) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H), [UNPLG'd](https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO) | [Jiya \(Acoustic\)](https://open.spotify.com/album/5XbDHv87fUXMPIkQPh0Jaf) | 1:04 | 2025-07-24 | 2025-08-12 |
 | [Jo Tum Mere Ho](https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Jo Tum Mere Ho](https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW) | 4:11 | 2024-08-02 |  |
 | [Juda nehi hu](https://open.spotify.com/track/7J24bbx5NFY0mSQb0POBg6) | [Himpol Kalita](https://open.spotify.com/artist/5dTQOtRKiAdus7MuKqE83b) | [Juda nehi hu](https://open.spotify.com/album/1dNlr4Afpv1rwqOoDGg1I7) | 2:29 | 2024-09-03 | 2025-02-14 |
+| [Kaafi Hai Na \(From "Musafir Cafe"\)](https://open.spotify.com/track/0PKLIjYe9K78lky2LxUz2P) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Aniket Shukla](https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe) | [Kaafi Hai Na \(From "Musafir Cafe"\)](https://open.spotify.com/album/5IYccMBAe0EuOET3USDVvl) | 3:15 | 2026-07-13 |  |
 | [Kaagaz Ke Phool](https://open.spotify.com/track/6doiO8LvoZLTfNg2TekxSZ) | [Mohnissh Zzade](https://open.spotify.com/artist/0vk40I5yG2WaD0nNy7IM4H) | [Kaagaz Ke Phool](https://open.spotify.com/album/4CsrGLeMjPrnjuIXqAOxUG) | 4:07 | 2025-03-17 | 2025-05-30 |
 | [Kaash \(Mehfil Unplugged\)](https://open.spotify.com/track/2jeqpd4ASuRT4Ou5BxYekz) | [Nikhil Kotibhaskar](https://open.spotify.com/artist/7egL4IzmCXgj9AGCfnVBHx) | [Kaash \(Mehfil Unplugged\)](https://open.spotify.com/album/4Ey1RYnacQgSF1DKNGqREu) | 2:36 | 2024-04-15 | 2024-04-30 |
 | [Kaayar](https://open.spotify.com/track/6cbxJhOuZWDP8kEeM6QWYe) | [Khatth](https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY) | [Kaayar](https://open.spotify.com/album/3nuufuEPeDjesdwC7AqzNQ) | 2:14 | 2023-09-26 | 2024-02-03 |
@@ -608,7 +609,7 @@
 | [TUM JO SAATH HO](https://open.spotify.com/track/4LoBM8A2XOuiQ4Ic3IVWeu) | [Archit Tak](https://open.spotify.com/artist/2j4zrtE8NNT2KgHpCoyoYA) | [TUM JO SAATH HO](https://open.spotify.com/album/6lR4XHAh3vVFzkp9otcMBs) | 4:01 | 2023-06-08 | 2023-08-04 |
 | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/track/7JdzydVMtRwxr1BUIipZbv) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/album/5IoxrWkZLHmHIhZLHyiAjj) | 1:15 | 2023-09-21 | 2023-10-04 |
 | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/track/4kL3wGVwDpOVn8NOmKAopG) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tum Kya Mile \(Jonita's Version\)](https://open.spotify.com/album/0xKZP5O8CSbmMn5iOD9hpa) | 1:15 | 2023-10-03 | 2024-02-08 |
-| [Tum Mere Hona](https://open.spotify.com/track/7qjXz8fcLnc9pmzfP1UlH2) | [Yashashree Venkatesh](https://open.spotify.com/artist/6vm6Dz0pOPUo7tmTFHQPWu), [ANKUSH](https://open.spotify.com/artist/77o1JYELsxlyy19Z3WOiLv) | [Tum Mere Hona](https://open.spotify.com/album/3tnEdFjBzdoCugmz3ZC76x) | 3:09 | 2026-06-23 |  |
+| [Tum Mere Hona](https://open.spotify.com/track/7qjXz8fcLnc9pmzfP1UlH2) | [Yashashree Venkatesh](https://open.spotify.com/artist/6vm6Dz0pOPUo7tmTFHQPWu), [ANKUSH](https://open.spotify.com/artist/77o1JYELsxlyy19Z3WOiLv) | [Tum Mere Hona](https://open.spotify.com/album/3tnEdFjBzdoCugmz3ZC76x) | 3:09 | 2026-06-23 | 2026-07-14 |
 | [Tum Mere Kya Ho \- Acoustic](https://open.spotify.com/track/2cMu7vAPzdImJKQprhywwI) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Tum Mere Kya Ho \(Acoustic\)](https://open.spotify.com/album/2lvcYEZgXXYvWWYEvmvLeY) | 2:47 | 2025-06-17 |  |
 | [Tum Meri Ho](https://open.spotify.com/track/0NaeiORUuQWkD3mGpuVUG4) | [MAJOR STUDIO](https://open.spotify.com/artist/5SNjhow2A2xiloi8MUedNC), [Abhidev Chaudhary](https://open.spotify.com/artist/28IGTT6g9wMnkVmYocoVpj) | [Tum Meri Ho](https://open.spotify.com/album/11X0eOPuhW8aYaJp8COqzq) | 3:04 | 2024-05-06 | 2024-09-21 |
 | [Tum Mujhe Jaante Ho \- Ukulele Version](https://open.spotify.com/track/1kZZfGmtZHBd4cZOuov1k0) | [Trishita Recs](https://open.spotify.com/artist/4lB0A51UgKHZ00Uhuta9K4), [Luv](https://open.spotify.com/artist/1dEulvhhLRgnDn5DW1WNqe) | [Tum Mujhe Jaante Ho \(Ukulele Version\)](https://open.spotify.com/album/69hZQvIMjMIOEhgYmuWZua) | 3:50 | 2023-05-17 | 2024-02-10 |

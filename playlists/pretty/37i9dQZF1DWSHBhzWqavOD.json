@@ -1,6 +1,6 @@
 {
   "description": "The Biggest Afrobeats festival in World ",
-  "num_followers": 24293,
+  "num_followers": 24348,
   "original_name": "Afro Nation 2026",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Realms",
-        "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 156083,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 148656,
       "name": "Coco",
       "url": "https://open.spotify.com/track/5Cs4kQRpfYgcBMFsvezdbZ"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Realms",
+        "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 156083,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -751,26 +751,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "BAD BOY LOVESTORY",
-        "url": "https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi"
-      },
-      "artists": [
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        },
-        {
-          "name": "Jeez Suave",
-          "url": "https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P"
-        }
-      ],
-      "duration_ms": 164234,
-      "name": "KONGOLESE SOUS BBL",
-      "url": "https://open.spotify.com/track/7eqwODSSwRSniktCjCXZyW"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "Iskaba",
         "url": "https://open.spotify.com/album/0Xv3hpglXQQXDw1927aJvu"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 224640,
       "name": "Iskaba",
       "url": "https://open.spotify.com/track/1GuLgNKd4lrI1vugkxMCAX"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "BAD BOY LOVESTORY",
+        "url": "https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        },
+        {
+          "name": "Jeez Suave",
+          "url": "https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P"
+        }
+      ],
+      "duration_ms": 164234,
+      "name": "KONGOLESE SOUS BBL",
+      "url": "https://open.spotify.com/track/7eqwODSSwRSniktCjCXZyW"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -863,18 +863,26 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Rock Me Gentle",
-        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
+        "name": "Olamid\u00e9",
+        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
       "artists": [
         {
           "name": "Olamide",
           "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
         }
       ],
-      "duration_ms": 186028,
-      "name": "Rock Me Gentle",
-      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
+      "duration_ms": 226800,
+      "name": "Billionaires Club",
+      "url": "https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -959,26 +967,18 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Olamid\u00e9",
-        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
+        "name": "Rock Me Gentle",
+        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
       },
       "artists": [
         {
           "name": "Olamide",
           "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
         }
       ],
-      "duration_ms": 226800,
-      "name": "Billionaires Club",
-      "url": "https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX"
+      "duration_ms": 186028,
+      "name": "Rock Me Gentle",
+      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 152824,
+      "name": "Kilometre",
+      "url": "https://open.spotify.com/track/6xwQng3m1S1xwZR8afMzHI"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "Kurhula",
         "url": "https://open.spotify.com/album/552Kxk9MJl4M0WNvst18xH"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 408014,
       "name": "Khawleza (feat. Makhanj)",
       "url": "https://open.spotify.com/track/7N0ymLLWoUCe9kAvMOzYba"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 152824,
-      "name": "Kilometre",
-      "url": "https://open.spotify.com/track/6xwQng3m1S1xwZR8afMzHI"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Ivy League",
-        "url": "https://open.spotify.com/album/4BBkjAHKLbwB6IdFHWzr4n"
-      },
-      "artists": [
-        {
-          "name": "Kelvin Momo",
-          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
-        },
-        {
-          "name": "Mhaw Keys",
-          "url": "https://open.spotify.com/artist/653Y1k21jYNqD7XY4lszrK"
-        }
-      ],
-      "duration_ms": 411468,
-      "name": "Song Cry (feat. Mhaw Keys)",
-      "url": "https://open.spotify.com/track/0497mayuEADTcP2TBzkH7Y"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "Ke Star (feat. Virgo Deep) [Remix]",
         "url": "https://open.spotify.com/album/3YVMs7Ktt0s5Lt9vRCOcf3"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 328766,
       "name": "Ke Star (feat. Virgo Deep) - Remix",
       "url": "https://open.spotify.com/track/71JcMmqaJ2rGxxTcufwkSg"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Ivy League",
+        "url": "https://open.spotify.com/album/4BBkjAHKLbwB6IdFHWzr4n"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+        },
+        {
+          "name": "Mhaw Keys",
+          "url": "https://open.spotify.com/artist/653Y1k21jYNqD7XY4lszrK"
+        }
+      ],
+      "duration_ms": 411468,
+      "name": "Song Cry (feat. Mhaw Keys)",
+      "url": "https://open.spotify.com/track/0497mayuEADTcP2TBzkH7Y"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Sewe",
-        "url": "https://open.spotify.com/album/3q8j0FIXu60xJIzeDrqOzh"
-      },
-      "artists": [
-        {
-          "name": "Kelvin Momo",
-          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
-        },
-        {
-          "name": "Sykes",
-          "url": "https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC"
-        }
-      ],
-      "duration_ms": 404634,
-      "name": "Bala (feat. SYKES)",
-      "url": "https://open.spotify.com/track/1mourdmaqv51JvXKTjuFCP"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "Lucent",
         "url": "https://open.spotify.com/album/0zJPWuHZWvGyw8urFFcxxx"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 391888,
       "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
       "url": "https://open.spotify.com/track/4bojrlaIBAWtOntcIH29Kt"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Sewe",
+        "url": "https://open.spotify.com/album/3q8j0FIXu60xJIzeDrqOzh"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+        },
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC"
+        }
+      ],
+      "duration_ms": 404634,
+      "name": "Bala (feat. SYKES)",
+      "url": "https://open.spotify.com/track/1mourdmaqv51JvXKTjuFCP"
     },
     {
       "added_at": "2026-06-30 14:51:43",

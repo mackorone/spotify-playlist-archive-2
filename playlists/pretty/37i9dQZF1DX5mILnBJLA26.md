@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves right now\.  Cover: Fake'Well
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,244,226 likes - 50 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,244,651 likes - 50 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Lutho \(feat\. De Rose\)](https://open.spotify.com/track/54gOExDYI4WmDlwQaygLDp) | [Dj Jaivane](https://open.spotify.com/artist/4F8OilWxRKQzg1Lw9sJ4Pl), [Smaki 08](https://open.spotify.com/artist/3UWe7UnbC6ZfUxJ6AoqBkQ), [Wesley Keys](https://open.spotify.com/artist/2OGYdhAxnbigwUW9Be2b6C), [De Rose](https://open.spotify.com/artist/37O5tzWTGqsppdwaIskInL) | [Onkgopotse](https://open.spotify.com/album/1NSZ619pGHYfsgbB2kBfF8) | 6:35 |
 | 50 | [Xaka Ra Mina \(feat\. QuayR Musiq, Terra Fontain & Enny Man Da Guitar\)](https://open.spotify.com/track/6xDCfoZGK9uShZx0y0PWs4) | [Mulest Vankay](https://open.spotify.com/artist/3xqiosg5nLMwVd8w3lO5li), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [QuayR Musiq](https://open.spotify.com/artist/4Swe2JHqCnhe8uQA9oNs08), [Terra fontain](https://open.spotify.com/artist/3zsUaO3dQlLmjTfM8qgTkj), [Enny Man Da Guitar](https://open.spotify.com/artist/0eTIUHraMDu3poKy1Qsqv6) | [Xaka Ra Mina \(feat\. QuayR Musiq, Terra Fontain & Enny Man Da Guitar\)](https://open.spotify.com/album/4zSxehigUpZjGPWP78JJHa) | 6:34 |
 
-Snapshot ID: `AAAAAIhjoX/C3C29AIp4alp0HQY5jVU2`
+Snapshot ID: `AAAAAKenzPLKuWX5iHDnBSFDgZoOduCW`

@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 126147,
+  "num_followers": 126172,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Water Temple",
-        "url": "https://open.spotify.com/album/2tDEN7aZafEFVRcoNiBdtp"
-      },
-      "artists": [
-        {
-          "name": "Lords of Lounge",
-          "url": "https://open.spotify.com/artist/1rr5AQb3MwrAJB4mrw2K88"
-        }
-      ],
-      "duration_ms": 258510,
-      "name": "Water Temple",
-      "url": "https://open.spotify.com/track/1lyprGNpWaB0Ay8DZxNBoW"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Forgotten Light",
         "url": "https://open.spotify.com/album/79wYMiI8DcvwFdCrhh7NsM"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 97659,
       "name": "Forgotten Light",
       "url": "https://open.spotify.com/track/6cMvnZciT4mV313kBY3o26"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Water Temple",
+        "url": "https://open.spotify.com/album/2tDEN7aZafEFVRcoNiBdtp"
+      },
+      "artists": [
+        {
+          "name": "Lords of Lounge",
+          "url": "https://open.spotify.com/artist/1rr5AQb3MwrAJB4mrw2K88"
+        }
+      ],
+      "duration_ms": 258510,
+      "name": "Water Temple",
+      "url": "https://open.spotify.com/track/1lyprGNpWaB0Ay8DZxNBoW"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Things We Leave Behind",
-        "url": "https://open.spotify.com/album/2zrQDqIJLQtqG0MS6YJkpl"
-      },
-      "artists": [
-        {
-          "name": "Friend from Work",
-          "url": "https://open.spotify.com/artist/6DxNs0iTkF0hSaFoqc3C2z"
-        }
-      ],
-      "duration_ms": 167909,
-      "name": "Things We Leave Behind",
-      "url": "https://open.spotify.com/track/2P0aYTKE36gztfQPXrXlOP"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Sakura In Blossom",
         "url": "https://open.spotify.com/album/08KQ0Ga7FFrIg1V3CH6QRE"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 141428,
       "name": "Sakura In Blossom",
       "url": "https://open.spotify.com/track/3APiPBmfAeo2sUwaBOwUKH"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Things We Leave Behind",
+        "url": "https://open.spotify.com/album/2zrQDqIJLQtqG0MS6YJkpl"
+      },
+      "artists": [
+        {
+          "name": "Friend from Work",
+          "url": "https://open.spotify.com/artist/6DxNs0iTkF0hSaFoqc3C2z"
+        }
+      ],
+      "duration_ms": 167909,
+      "name": "Things We Leave Behind",
+      "url": "https://open.spotify.com/track/2P0aYTKE36gztfQPXrXlOP"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Love in the Void",
+        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 392374,
+      "name": "I Would Stare into the Sun with You Forever",
+      "url": "https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "Dust Bowl",
         "url": "https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5"
       },
@@ -899,18 +915,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Love in the Void",
-        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
+        "name": "Keep The Orange Sun",
+        "url": "https://open.spotify.com/album/6MLLMv5uFphvY2eXVEHB4X"
       },
       "artists": [
         {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+          "name": "awakened souls",
+          "url": "https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU"
+        },
+        {
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
         }
       ],
-      "duration_ms": 392374,
-      "name": "I Would Stare into the Sun with You Forever",
-      "url": "https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc"
+      "duration_ms": 254000,
+      "name": "Keep The Orange Sun",
+      "url": "https://open.spotify.com/track/40rVSnon5rqxnNbZoyMwWG"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -947,26 +967,6 @@
       "duration_ms": 228973,
       "name": "Farewell, Stars - The American Dollar Rework",
       "url": "https://open.spotify.com/track/7oEKxSpVRJo4SgBMl6DAhR"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Keep The Orange Sun",
-        "url": "https://open.spotify.com/album/6MLLMv5uFphvY2eXVEHB4X"
-      },
-      "artists": [
-        {
-          "name": "awakened souls",
-          "url": "https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU"
-        },
-        {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Keep The Orange Sun",
-      "url": "https://open.spotify.com/track/40rVSnon5rqxnNbZoyMwWG"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Massive",
+        "url": "https://open.spotify.com/album/1GgwPjS8K4SXSM1ysW86WB"
+      },
+      "artists": [
+        {
+          "name": "Moseqar",
+          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
+        }
+      ],
+      "duration_ms": 240461,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "The American Dollar",
         "url": "https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF"
       },
@@ -1199,6 +1215,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "The Skyline EP",
+        "url": "https://open.spotify.com/album/1ytb7WT8k3J4kNVlPWYtPB"
+      },
+      "artists": [
+        {
+          "name": "Stubbleman",
+          "url": "https://open.spotify.com/artist/0Fu1gmQ4PZ1S5anr0l2Cov"
+        }
+      ],
+      "duration_ms": 270962,
+      "name": "Skyline Drive",
+      "url": "https://open.spotify.com/track/4WQAWGhJB358e9g4wTS3pI"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "The Blurred Horizon",
         "url": "https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi"
       },
@@ -1215,18 +1247,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "The Skyline EP",
-        "url": "https://open.spotify.com/album/1ytb7WT8k3J4kNVlPWYtPB"
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP"
       },
       "artists": [
         {
-          "name": "Stubbleman",
-          "url": "https://open.spotify.com/artist/0Fu1gmQ4PZ1S5anr0l2Cov"
+          "name": "Interstellar Noise",
+          "url": "https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT"
         }
       ],
-      "duration_ms": 270962,
-      "name": "Skyline Drive",
-      "url": "https://open.spotify.com/track/4WQAWGhJB358e9g4wTS3pI"
+      "duration_ms": 227975,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1247,18 +1279,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP"
+        "name": "Volcan",
+        "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
       },
       "artists": [
         {
-          "name": "Interstellar Noise",
-          "url": "https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT"
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
         }
       ],
-      "duration_ms": 227975,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM"
+      "duration_ms": 284000,
+      "name": "Deliveries",
+      "url": "https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1283,22 +1315,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Volcan",
-        "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
-      },
-      "artists": [
-        {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Deliveries",
-      "url": "https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Lifelike",
         "url": "https://open.spotify.com/album/3I0Vuo5qaEIKB5OL6KIIRL"
       },
@@ -1319,22 +1335,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Barren",
-        "url": "https://open.spotify.com/album/1wLiK2y7Ahf0p4gzmY5oZN"
-      },
-      "artists": [
-        {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
-        }
-      ],
-      "duration_ms": 616188,
-      "name": "Barren",
-      "url": "https://open.spotify.com/track/7kzMC5fRkZQjjF5jeW02HE"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "kissing maggots",
         "url": "https://open.spotify.com/album/1Nc0BTwUDnr8OfzRTxkdYe"
       },
@@ -1351,34 +1351,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Massive",
-        "url": "https://open.spotify.com/album/1GgwPjS8K4SXSM1ysW86WB"
+        "name": "Barren",
+        "url": "https://open.spotify.com/album/1wLiK2y7Ahf0p4gzmY5oZN"
       },
       "artists": [
         {
-          "name": "Moseqar",
-          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
         }
       ],
-      "duration_ms": 240461,
-      "name": "Massive",
-      "url": "https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "A Place to Breathe",
-        "url": "https://open.spotify.com/album/1MfQ1WJQ5IihFUkqusIgxQ"
-      },
-      "artists": [
-        {
-          "name": "Lumestria",
-          "url": "https://open.spotify.com/artist/2EgAcyKbKswfRo9sHGG3xC"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "A Place to Breathe",
-      "url": "https://open.spotify.com/track/6buddStONGyZPOSDaYODVU"
+      "duration_ms": 616188,
+      "name": "Barren",
+      "url": "https://open.spotify.com/track/7kzMC5fRkZQjjF5jeW02HE"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1395,6 +1379,22 @@
       "duration_ms": 235213,
       "name": "Abell 1835",
       "url": "https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "A Place to Breathe",
+        "url": "https://open.spotify.com/album/1MfQ1WJQ5IihFUkqusIgxQ"
+      },
+      "artists": [
+        {
+          "name": "Lumestria",
+          "url": "https://open.spotify.com/artist/2EgAcyKbKswfRo9sHGG3xC"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "A Place to Breathe",
+      "url": "https://open.spotify.com/track/6buddStONGyZPOSDaYODVU"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Songs to Disappear to",
-        "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
-      },
-      "artists": [
-        {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
-        }
-      ],
-      "duration_ms": 257568,
-      "name": "Old Moon",
-      "url": "https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 230000,
       "name": "Astronomer",
       "url": "https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Songs to Disappear to",
+        "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 257568,
+      "name": "Old Moon",
+      "url": "https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Chronos",
+        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
+      },
+      "artists": [
+        {
+          "name": "Ausklang",
+          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
+        }
+      ],
+      "duration_ms": 355360,
+      "name": "Abschied",
+      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
       },
@@ -1519,18 +1535,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Chronos",
-        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
+        "name": "Cura",
+        "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
       },
       "artists": [
         {
-          "name": "Ausklang",
-          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
+          "name": "Call the Ocean",
+          "url": "https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr"
         }
       ],
-      "duration_ms": 355360,
-      "name": "Abschied",
-      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
+      "duration_ms": 439449,
+      "name": "Cura",
+      "url": "https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1551,22 +1567,6 @@
       "duration_ms": 229186,
       "name": "A Dream to Call My Own (feat. Janell Rosa)",
       "url": "https://open.spotify.com/track/1QRbOx5X5oCNla0mfHJOH3"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Cura",
-        "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
-      },
-      "artists": [
-        {
-          "name": "Call the Ocean",
-          "url": "https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr"
-        }
-      ],
-      "duration_ms": 439449,
-      "name": "Cura",
-      "url": "https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "As She Bends Towards the Sun",
-        "url": "https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7"
+        "name": "endless, somewhere",
+        "url": "https://open.spotify.com/album/5p6OGDLBZksOVhgqUCFuLK"
       },
       "artists": [
         {
-          "name": "Teoay",
-          "url": "https://open.spotify.com/artist/34Zt4C6Z2S3i6VLuc1ErV1"
+          "name": "Nitewalk",
+          "url": "https://open.spotify.com/artist/0IEo7LtbFGCx6M71t1VerI"
         }
       ],
-      "duration_ms": 287388,
-      "name": "As She Bends Towards the Sun",
-      "url": "https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc"
+      "duration_ms": 216000,
+      "name": "endless, somewhere",
+      "url": "https://open.spotify.com/track/3AtSW2JF4TQXjCJNxb5hpu"
     }
   ],
   "unique_name": "Ambient Post-Rock",

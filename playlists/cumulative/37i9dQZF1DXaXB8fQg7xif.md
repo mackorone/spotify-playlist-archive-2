@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,376 songs - 3 day 1 hr 32 min
+1,377 songs - 3 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -927,6 +927,7 @@
 | [Party Starter](https://open.spotify.com/track/0sJ2TnHlej7YZfqMnYj9QW) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Mark Bale](https://open.spotify.com/artist/4zrsPs5wddzJnn6vSO2jlx) | [Party Starter](https://open.spotify.com/album/7jSNvVIJkXi1wFQBbqzIXc) | 2:11 | 2020-05-22\* | 2022-04-21 |
 | [Party Starter](https://open.spotify.com/track/1Cr4BPvz478KxPohfnLuN0) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Party Starter](https://open.spotify.com/album/6c0uhRxf7aA6XccEQNYCF8) | 3:52 | 2022-04-29 | 2022-05-14 |
 | [Party Time](https://open.spotify.com/track/0uif0Lvh62KQ8GIFY594M7) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [SWACQ](https://open.spotify.com/artist/45UHclgIcRavRoRa2MET5i) | [Party Time](https://open.spotify.com/album/2lRY5mltiOiMqT9nBcdXfK) | 2:46 | 2020-05-22\* | 2022-04-19 |
+| [Party Time \(feat\. Aatig\)](https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Party Time \(feat\. Aatig\)](https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl) | 3:19 | 2026-07-10 |  |
 | [Party With You](https://open.spotify.com/track/1s7Mm2bEKLmcjAS4AzGf8E) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [Tracks to the Future](https://open.spotify.com/album/3peeS7BEzRQMlnye583xWn) | 2:11 | 2021-12-17 | 2022-04-20 |
 | [Pass The Dutch](https://open.spotify.com/track/0Tk3EEE8mCTb8VaS5Phqc0) | [Jaded](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Pass The Dutch](https://open.spotify.com/album/4jd1mPf6zBve7aMue5g4qj) | 3:28 | 2021-07-16 | 2022-04-21 |
 | [Past Life](https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Past Life](https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL) | 3:16 | 2023-09-22 | 2024-08-24 |
@@ -1277,7 +1278,7 @@
 | [Up All Night](https://open.spotify.com/track/5RugEn59RTnWE4IM4uBaC9) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Fiora](https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM) | [Up All Night](https://open.spotify.com/album/0YFbpYgj1TyV9P8L1n8XbW) | 2:41 | 2020-05-22\* | 2022-04-21 |
 | [Up Down](https://open.spotify.com/track/5jqEybi7fIl2BpT0njbfhO) | [bradeazy](https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI), [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Up Down](https://open.spotify.com/album/3rClZY3iOdiE4bwY6P25hY) | 2:52 | 2025-09-26 |  |
 | [Up Front](https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Up Front](https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP) | 3:27 | 2025-12-12 | 2026-01-15 |
-| [Upside Down](https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [Upside Down](https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH) | 2:42 | 2025-02-07 |  |
+| [Upside Down](https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [Upside Down](https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH) | 2:42 | 2025-02-07 | 2026-07-14 |
 | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm) | 2:54 | 2023-05-12 | 2024-04-15 |
 | [Uptown Funk \(feat\. Bruno Mars\) \- Will Sparks Remix](https://open.spotify.com/track/5MpKzeXvOBFiZpQWV9iP5O) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Funk \(Remixes\) \(feat\. Bruno Mars\)](https://open.spotify.com/album/6oJPf4A0f047HhhANIFJVK) | 4:37 | 2020-05-22\* | 2020-11-14 |
 | [Use Me Again \(And Again\)](https://open.spotify.com/track/6GCA4mop7cqrqFkyqMjmMF) | [Tom Trago](https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK) | [Use Me Again \(And Again\)](https://open.spotify.com/album/0PEKVd030jHP00OnxwIFtb) | 8:15 | 2022-07-14 | 2022-07-30 |

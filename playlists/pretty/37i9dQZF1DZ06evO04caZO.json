@@ -1,12 +1,12 @@
 {
   "description": "This is The Strokes. The essential tracks, all in one playlist.",
-  "num_followers": 497474,
+  "num_followers": 497577,
   "original_name": "This Is The Strokes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAADFqku3tOSpyBt6g04ogmnv",
+  "snapshot_id": "alLZAAAAAABBoHjr5/q8C1MaiQWK5oQY",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Room On Fire",
-        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "Under Control",
-      "url": "https://open.spotify.com/track/3kKb3U3a8jmUJQB9ypE1Jl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Angles",
         "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 255240,
       "name": "Life Is Simple in the Moonlight",
       "url": "https://open.spotify.com/track/4ileLT7ldd2uX8bMemWqbm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Room On Fire",
+        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Under Control",
+      "url": "https://open.spotify.com/track/3kKb3U3a8jmUJQB9ypE1Jl"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Room On Fire",
-        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 162040,
-      "name": "I Can't Win",
-      "url": "https://open.spotify.com/track/7eX5SypK35V8Y9d9pS6rWy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Angles",
         "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 203240,
       "name": "Taken for a Fool",
       "url": "https://open.spotify.com/track/6SdAztAqklk1zAmUHhU4N7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Room On Fire",
+        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 162040,
+      "name": "I Can't Win",
+      "url": "https://open.spotify.com/track/7eX5SypK35V8Y9d9pS6rWy"
     },
     {
       "added_at": null,

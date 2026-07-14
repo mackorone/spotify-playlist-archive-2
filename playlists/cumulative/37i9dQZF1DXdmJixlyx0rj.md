@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: Silly Silky \(실리실키\)\)
 
-326 songs - 18 hr 21 min
+327 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [It Couldn’t Be Better](https://open.spotify.com/track/3KPsZ9xEvbdIloQb0OjwPI) | [SakaZan](https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM) | [It Couldn’t Be Better](https://open.spotify.com/album/1iGNYCVo1OAoX7UjJZ72r2) | 3:14 | 2024-04-05 | 2024-06-29 |
 | [It's Me](https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [MAMIHLAPINATAPAI](https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ) | 2:18 | 2026-06-23 |  |
 | [Itaewonian Funk](https://open.spotify.com/track/5p04bdrM3hca55mydwRDDF) | [IÖN](https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV), [DJ POOL](https://open.spotify.com/artist/2apxgZK9kFgoCt7XCTUnhK), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [AREA X](https://open.spotify.com/album/3y7wrIeJ0o7OvlQLLPOYTJ) | 2:55 | 2026-06-29 | 2026-07-02 |
-| [Jealous](https://open.spotify.com/track/1maz5QxIWm6ZLyE8m9i56n) | [DPR CREAM](https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw), [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ) | [NO DRUGS](https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M) | 2:22 | 2026-06-23 |  |
+| [Jealous](https://open.spotify.com/track/1maz5QxIWm6ZLyE8m9i56n) | [DPR CREAM](https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw), [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ) | [NO DRUGS](https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M) | 2:22 | 2026-06-23 | 2026-07-14 |
 | [Keep My Light On](https://open.spotify.com/track/5zADzgQPu2VDODCcXANZou) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ) | [Keep My Light On](https://open.spotify.com/album/3HcZw9vfH6krvhgkhfkWSW) | 2:45 | 2024-06-28 |  |
 | [Keep On Jumpin'](https://open.spotify.com/track/0CbT1KxkgntAeNGYy5jwQE) | [Worvan](https://open.spotify.com/artist/2xPNzJaAiVobXqliW6ZXvC), [Juyong](https://open.spotify.com/artist/0ALnsDV3w3tXL6abvFJkP2) | [Keep On Jumpin'](https://open.spotify.com/album/1JXc3MPb9LFPiWuM5qe18Z) | 2:00 | 2024-04-05 | 2024-06-01 |
 | [Keep Swimmin' Through x Baby Shark \(Dance Remix\)](https://open.spotify.com/track/05w1GGQQl1NEw0hEznuANx) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [The Cast of Baby Shark's Big Movie](https://open.spotify.com/artist/2qlOwH6ICaEw63LMC3bBVR), [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Keep Swimmin' Through x Baby Shark \(Dance Remix\)](https://open.spotify.com/album/4FJWDOLq0eiu0WGrJHqZfo) | 1:04 | 2024-06-28 | 2026-06-23 |
@@ -333,6 +333,7 @@
 | [Your Face](https://open.spotify.com/track/4I0iEpmX812wvEbv2l0q96) | [Forest Music](https://open.spotify.com/artist/7JDHEXYj47HQeeH2ziOPt8) | [Your Face](https://open.spotify.com/album/5yM1envtfaw7hfcIj8gLjT) | 2:39 | 2024-08-10 | 2024-08-15 |
 | [가시권 \(Heart Raider\) \(Inst.\)](https://open.spotify.com/track/5biUKJ4FpDlaFaUBffcX5T) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [4study4work4inst Vol.2](https://open.spotify.com/album/5bLmEt6fMUTRAZGfZDtmzu) | 2:59 | 2025-02-11 | 2025-10-15 |
 | [넘버 원 // NUMMER ETT Part 2 \- Effie & Eurohead Remix](https://open.spotify.com/track/217pG31hswPFS8zFo2KONE) | [Dj Billybool](https://open.spotify.com/artist/1WbYH0xbbvXsjbbkFL2T4k), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f) | [넘버 원 // NUMMER ETT Part 2 \(Effie & Eurohead Remix\)](https://open.spotify.com/album/0aYO5sUYrc65edOubY9saN) | 3:06 | 2026-01-23 |  |
+| [천생연분 Destiny \(Fyke Remix\)](https://open.spotify.com/track/0BZgJV9s7ib3ysp75hSW8x) | [Solid](https://open.spotify.com/artist/5QxwwdnZNkIl7AyFEPZxX5) | [Into the Light](https://open.spotify.com/album/3zx7uivDY6DW2UrvPs9wua) | 4:03 | 2026-07-03 |  |
 | [희 \(love type shit\)](https://open.spotify.com/track/18aWa24FoxzlPiRkBrGxgC) | [kimj](https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw), [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ), [audiogothh](https://open.spotify.com/artist/1cTacypQyyzMQhsGmmKAyR) | [희 / 노 / 애 / 락](https://open.spotify.com/album/2q4GpFI6Ytc0apj7VnUgvf) | 2:30 | 2026-01-23 | 2026-06-23 |
 
 \*This playlist was first scraped on 2024-04-06. Prior content cannot be recovered.

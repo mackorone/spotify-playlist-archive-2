@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Cultura Prof\u00e9tica.",
-  "num_followers": 742276,
+  "num_followers": 742213,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
+        "name": "Morfina",
+        "url": "https://open.spotify.com/album/3XA0Zax9bAGsnvMcElA16n"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 350919,
+      "name": "Morfina",
+      "url": "https://open.spotify.com/track/7lYKq59aOgRnRlrjuTIvJv"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
         "name": "Marcri\u00e1",
         "url": "https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 203856,
       "name": "dandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltas",
       "url": "https://open.spotify.com/track/0l21xkEnzkakePnAfPbJRq"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
-        "name": "RODEO CLOWN",
-        "url": "https://open.spotify.com/album/5172xO1n4yEllzzcsIqP1N"
-      },
-      "artists": [
-        {
-          "name": "Obed Padilla",
-          "url": "https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl"
-        }
-      ],
-      "duration_ms": 153764,
-      "name": "RODEO CLOWN",
-      "url": "https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
+        "name": "RODEO CLOWN",
+        "url": "https://open.spotify.com/album/5172xO1n4yEllzzcsIqP1N"
+      },
+      "artists": [
+        {
+          "name": "Obed Padilla",
+          "url": "https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl"
+        }
+      ],
+      "duration_ms": 153764,
+      "name": "RODEO CLOWN",
+      "url": "https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
         "name": "Bendito Vicio",
         "url": "https://open.spotify.com/album/01IslxV0ythFtzyAhQsWRQ"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 271285,
       "name": "Bendito Vicio",
       "url": "https://open.spotify.com/track/03pzxEy3IkfZgYRWKRTOT3"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
-        "name": "Morfina",
-        "url": "https://open.spotify.com/album/3XA0Zax9bAGsnvMcElA16n"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 350919,
-      "name": "Morfina",
-      "url": "https://open.spotify.com/track/7lYKq59aOgRnRlrjuTIvJv"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -667,30 +667,6 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
-        "name": "Sensaci\u00f3n",
-        "url": "https://open.spotify.com/album/4IlsDJUMB4nhLi3HPozP9H"
-      },
-      "artists": [
-        {
-          "name": "Helado Tropical",
-          "url": "https://open.spotify.com/artist/4pqutkxj0y0je4UpFFX8B9"
-        },
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        },
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 209551,
-      "name": "Sensaci\u00f3n",
-      "url": "https://open.spotify.com/track/2eNDrODvRe4dCnxGKGEKBB"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
         "name": "Desvelado",
         "url": "https://open.spotify.com/album/6qqLIWRr9XpxuqZiWRM5Zr"
       },
@@ -719,6 +695,30 @@
       "duration_ms": 196034,
       "name": "bandOlerO",
       "url": "https://open.spotify.com/track/6fzvTjGv5I65Waaam5UTVv"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
+        "name": "Sensaci\u00f3n",
+        "url": "https://open.spotify.com/album/4IlsDJUMB4nhLi3HPozP9H"
+      },
+      "artists": [
+        {
+          "name": "Helado Tropical",
+          "url": "https://open.spotify.com/artist/4pqutkxj0y0je4UpFFX8B9"
+        },
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        },
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 209551,
+      "name": "Sensaci\u00f3n",
+      "url": "https://open.spotify.com/track/2eNDrODvRe4dCnxGKGEKBB"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
+        "name": "Falta Algo",
+        "url": "https://open.spotify.com/album/5psNcnKQlvazaFbBN8MUVv"
+      },
+      "artists": [
+        {
+          "name": "Chuwi",
+          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
+        }
+      ],
+      "duration_ms": 203127,
+      "name": "Falta Algo",
+      "url": "https://open.spotify.com/track/6zZjV6QPv2DQqcBQRPyd5f"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
         "name": "Distinto",
         "url": "https://open.spotify.com/album/0a505H49Qu64xAf5mfNMB7"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 165110,
       "name": "Distinto",
       "url": "https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
-        "name": "Falta Algo",
-        "url": "https://open.spotify.com/album/5psNcnKQlvazaFbBN8MUVv"
-      },
-      "artists": [
-        {
-          "name": "Chuwi",
-          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
-        }
-      ],
-      "duration_ms": 203127,
-      "name": "Falta Algo",
-      "url": "https://open.spotify.com/track/6zZjV6QPv2DQqcBQRPyd5f"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -875,6 +875,22 @@
       "duration_ms": 180631,
       "name": "aunquetelopida",
       "url": "https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
+        "name": "1-800",
+        "url": "https://open.spotify.com/album/1n1XDhzFAGyjMva7QArIv7"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Isabel",
+          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
+        }
+      ],
+      "duration_ms": 151808,
+      "name": "1-800",
+      "url": "https://open.spotify.com/track/0AkmDhmbHBkKcw4Upq1NqQ"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -923,22 +939,6 @@
       "duration_ms": 206366,
       "name": "miau",
       "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
-        "name": "1-800",
-        "url": "https://open.spotify.com/album/1n1XDhzFAGyjMva7QArIv7"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Isabel",
-          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
-        }
-      ],
-      "duration_ms": 151808,
-      "name": "1-800",
-      "url": "https://open.spotify.com/track/0AkmDhmbHBkKcw4Upq1NqQ"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
-        "name": "no te vayas",
-        "url": "https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ"
-      },
-      "artists": [
-        {
-          "name": "Sparklmami",
-          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
-        }
-      ],
-      "duration_ms": 194890,
-      "name": "no te vayas",
-      "url": "https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
         "name": "BES4ME",
         "url": "https://open.spotify.com/album/2pDTIwOIb85dGC7Pj0RUay"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 153176,
       "name": "BES4ME",
       "url": "https://open.spotify.com/track/4YoHssP1wgFxKIrgkAJRDD"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
+        "name": "no te vayas",
+        "url": "https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ"
+      },
+      "artists": [
+        {
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+        }
+      ],
+      "duration_ms": 194890,
+      "name": "no te vayas",
+      "url": "https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
-        "name": "VETIVER Y AMARETTO",
-        "url": "https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 242857,
-      "name": "VETIVER Y AMARETTO",
-      "url": "https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
         "name": "quisiera",
         "url": "https://open.spotify.com/album/7AHG9x2e3h4zjBdjAzuwPs"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 254218,
       "name": "quisiera",
       "url": "https://open.spotify.com/track/2cxlVp4E32261uVRRJS8Fk"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
+        "name": "ColdS3x",
+        "url": "https://open.spotify.com/album/7s1ODT1foSajGhpwGAslFA"
+      },
+      "artists": [
+        {
+          "name": "LA GURU",
+          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
+        }
+      ],
+      "duration_ms": 190084,
+      "name": "ColdS3x",
+      "url": "https://open.spotify.com/track/7uiCWibg26j4fe51KUa0ZZ"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
-        "name": "ColdS3x",
-        "url": "https://open.spotify.com/album/7s1ODT1foSajGhpwGAslFA"
+        "name": "VETIVER Y AMARETTO",
+        "url": "https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs"
       },
       "artists": [
         {
-          "name": "LA GURU",
-          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 190084,
-      "name": "ColdS3x",
-      "url": "https://open.spotify.com/track/7uiCWibg26j4fe51KUa0ZZ"
+      "duration_ms": 242857,
+      "name": "VETIVER Y AMARETTO",
+      "url": "https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
-        "name": "NI\u00d1O BUENO",
-        "url": "https://open.spotify.com/album/4WTG7l2mJEcwUdt2aIiL1e"
-      },
-      "artists": [
-        {
-          "name": "FABIAN",
-          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
-        }
-      ],
-      "duration_ms": 191375,
-      "name": "contraste",
-      "url": "https://open.spotify.com/track/2nxDBchv9ZAYLfkr7l33Gt"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
         "name": "Madrug\u00e1",
         "url": "https://open.spotify.com/album/4Xd8y35JgDCHJWyQ2ljQge"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 188842,
       "name": "Madrug\u00e1",
       "url": "https://open.spotify.com/track/2IkZgaT0PlisNPXbmu8FMv"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
+        "name": "NI\u00d1O BUENO",
+        "url": "https://open.spotify.com/album/4WTG7l2mJEcwUdt2aIiL1e"
+      },
+      "artists": [
+        {
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
+        }
+      ],
+      "duration_ms": 191375,
+      "name": "contraste",
+      "url": "https://open.spotify.com/track/2nxDBchv9ZAYLfkr7l33Gt"
     },
     {
       "added_at": "2026-07-10 04:01:46",

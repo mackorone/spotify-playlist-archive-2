@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Gowry Lekshmi
 
-526 songs - 1 day 8 hr 21 min
+527 songs - 1 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Aakasham](https://open.spotify.com/track/2sKNMV4SfPYWbsUeWjUFGX) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Hope](https://open.spotify.com/album/18rt3txit31UqKoC7rI6D9) | 3:18 | 2022-06-23 | 2023-10-11 |
 | [Aakasham](https://open.spotify.com/track/4s7FOn8Vubr8CvHCkHFpDu) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Aakasham](https://open.spotify.com/album/0lsfdxX9UkuIYhoqKX0EK3) | 3:21 | 2024-01-15 | 2024-07-02 |
 | [Aanandam Aanandame](https://open.spotify.com/track/5cKvhS5YD93kGRKCDav2eK) | [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg) | [Aanandam Aanandame](https://open.spotify.com/album/3aWkF9mfuR3jG3r7EPML1e) | 3:32 | 2025-10-09 | 2026-06-20 |
+| [Aaranya](https://open.spotify.com/track/4RZG16ijkIJqLsQ1SB9yIa) | [Sayoojya Das](https://open.spotify.com/artist/4fBuBFlRbayPCUa2zlSGTX), [Shabareesh](https://open.spotify.com/artist/26GPFA1pn4fxK2LngqPv2S), [Arun Ashok](https://open.spotify.com/artist/3S3DvBPgaU3dMh1mikwqNU) | [Aaranya](https://open.spotify.com/album/5UtUCF3Krfm7K1JhtTF7mM) | 3:59 | 2026-07-13 |  |
 | [Aardram](https://open.spotify.com/track/6OgVAaUP7en823TphjJJgh) | [Afzal Yusuff](https://open.spotify.com/artist/5aLx8IMz29yKNh4WFnogsm), [Sreelakshmi Santhosh](https://open.spotify.com/artist/13PCQ5Kzf6gA25QG6zdu0P), [Aman Paul George](https://open.spotify.com/artist/1qGQx9Mff5WqDiap3IVZzJ) | [Aardram](https://open.spotify.com/album/088jk7Y32lDsXwb0DaOUrn) | 3:06 | 2026-07-02 |  |
 | [Aare](https://open.spotify.com/track/7FeVLlzrI2ju3rJte0n2IE) | [Sanjay Sukumaran](https://open.spotify.com/artist/7GHQmiNnYfUMRZE0VOEz5S), [Anila Rajeev](https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6), [Arjun B Nair](https://open.spotify.com/artist/3NbZnrvIDwlSlTdEw6Hl32) | [Aare](https://open.spotify.com/album/5RQHOfd4nzZtJMBW3hL2XD) | 2:20 | 2024-10-14 | 2025-03-18 |
 | [Aarodum Mindathey Chembarathi Poove](https://open.spotify.com/track/36vvMWld2SRP0pL4V4ynFe) | [J Sudarsan](https://open.spotify.com/artist/0Bgs2IMaGK6uEeBYxOZuQZ) | [Aarodum Mindathey Chembarathi Poove](https://open.spotify.com/album/4PB9os5EkuQaZgiTeUdEZ3) | 2:49 | 2026-07-09 |  |

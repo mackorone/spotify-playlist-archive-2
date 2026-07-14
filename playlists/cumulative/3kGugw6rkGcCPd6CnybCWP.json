@@ -4091,6 +4091,24 @@
     },
     {
       "album": {
+        "name": "ICDWIW",
+        "url": "https://open.spotify.com/album/4xBR8xAPJKs3aDETzyDRde"
+      },
+      "artists": [
+        {
+          "name": "Ismael Blanno",
+          "url": "https://open.spotify.com/artist/2hibiqPMqWZo4lLy3yLXcU"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132765,
+      "name": "Let me die",
+      "url": "https://open.spotify.com/track/3qT5QSy4iruq5xwbhj3iKd"
+    },
+    {
+      "album": {
         "name": "let me down",
         "url": "https://open.spotify.com/album/1zbr6mwb5gTnPWHqQnCYrm"
       },
@@ -5667,6 +5685,24 @@
     },
     {
       "album": {
+        "name": "Just This Once",
+        "url": "https://open.spotify.com/album/5esNLPl6s0u3gakmkWAvcq"
+      },
+      "artists": [
+        {
+          "name": "Jude Watkins",
+          "url": "https://open.spotify.com/artist/5eSjKqo8lqiGTqYYG8naMn"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270048,
+      "name": "Runner",
+      "url": "https://open.spotify.com/track/3EE7VV4wxNVu0sWYtP2nid"
+    },
+    {
+      "album": {
         "name": "Runnin' On Empty",
         "url": "https://open.spotify.com/album/6zrNLo1HS4qF1d72WfDqiE"
       },
@@ -6150,6 +6186,24 @@
       "duration_ms": 245000,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0tcghuttDwLWSEtV59geke"
+    },
+    {
+      "album": {
+        "name": "ICDWIW",
+        "url": "https://open.spotify.com/album/4xBR8xAPJKs3aDETzyDRde"
+      },
+      "artists": [
+        {
+          "name": "Ismael Blanno",
+          "url": "https://open.spotify.com/artist/2hibiqPMqWZo4lLy3yLXcU"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183542,
+      "name": "Stay (Until i die)",
+      "url": "https://open.spotify.com/track/2KRhjzJS92DTaiB3RshpcP"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 682032,
+  "num_followers": 682033,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "House of Gold & Bones, Part 1",
-        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Absolute Zero",
-      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "Highway to Hell",
         "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 203918,
       "name": "Girls Got Rhythm",
       "url": "https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "House of Gold & Bones, Part 1",
+        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Absolute Zero",
+      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Below The Belt",
-        "url": "https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv"
-      },
-      "artists": [
-        {
-          "name": "Danko Jones",
-          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
-        }
-      ],
-      "duration_ms": 222214,
-      "name": "Had Enough",
-      "url": "https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "Dirty Honey",
         "url": "https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "We Are The Royal",
-        "url": "https://open.spotify.com/album/5osUvIVodotBHXYbQhiYCN"
+        "name": "Below The Belt",
+        "url": "https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv"
       },
       "artists": [
         {
-          "name": "Royal Republic",
-          "url": "https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS"
+          "name": "Danko Jones",
+          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
         }
       ],
-      "duration_ms": 154293,
-      "name": "Tommy-Gun",
-      "url": "https://open.spotify.com/track/2Wskx0dJg9TUl6glZohl4J"
+      "duration_ms": 222214,
+      "name": "Had Enough",
+      "url": "https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -975,18 +959,18 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Tyrannosaurus Hives",
-        "url": "https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV"
+        "name": "We Are The Royal",
+        "url": "https://open.spotify.com/album/5osUvIVodotBHXYbQhiYCN"
       },
       "artists": [
         {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+          "name": "Royal Republic",
+          "url": "https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS"
         }
       ],
-      "duration_ms": 120506,
-      "name": "Two-Timing Touch and Broken Bones",
-      "url": "https://open.spotify.com/track/5F7AoCwgftgUdGUgd57RVE"
+      "duration_ms": 154293,
+      "name": "Tommy-Gun",
+      "url": "https://open.spotify.com/track/2Wskx0dJg9TUl6glZohl4J"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -1003,6 +987,22 @@
       "duration_ms": 185131,
       "name": "Shot In The Dark",
       "url": "https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "Tyrannosaurus Hives",
+        "url": "https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 120506,
+      "name": "Two-Timing Touch and Broken Bones",
+      "url": "https://open.spotify.com/track/5F7AoCwgftgUdGUgd57RVE"
     },
     {
       "added_at": "2024-11-12 16:18:09",

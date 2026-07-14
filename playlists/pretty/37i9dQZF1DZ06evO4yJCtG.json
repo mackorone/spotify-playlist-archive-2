@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 159393,
+  "num_followers": 159414,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAABn4e+GnWJZq48ET2cT0h8Y",
+  "snapshot_id": "alLZAAAAAACK/fdeXncurnYCfUNTpmIJ",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No.6 Collaborations Project",
-        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
+        "name": "Do You Still Love Me?",
+        "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
       },
       "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
         {
           "name": "Ella Mai",
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 197093,
-      "name": "Put It All on Me (feat. Ella Mai)",
-      "url": "https://open.spotify.com/track/5T03itPFOPGGkvVPvPiyla"
+      "duration_ms": 214933,
+      "name": "First Day",
+      "url": "https://open.spotify.com/track/3QFxAtV6IQGbsvkJbvGvSc"
     },
     {
       "added_at": null,
@@ -319,18 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do You Still Love Me?",
-        "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
+        "name": "No.6 Collaborations Project",
+        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
       "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
         {
           "name": "Ella Mai",
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 214933,
-      "name": "First Day",
-      "url": "https://open.spotify.com/track/3QFxAtV6IQGbsvkJbvGvSc"
+      "duration_ms": 197093,
+      "name": "Put It All on Me (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/5T03itPFOPGGkvVPvPiyla"
     },
     {
       "added_at": null,

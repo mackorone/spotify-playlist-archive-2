@@ -1839,6 +1839,24 @@
     },
     {
       "album": {
+        "name": "I understand you sometimes",
+        "url": "https://open.spotify.com/album/7zZ19yOpQtttHW3EbP5j6R"
+      },
+      "artists": [
+        {
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156146,
+      "name": "Midnight Black",
+      "url": "https://open.spotify.com/track/7HDg0pVM0VODtA9oX5lFtg"
+    },
+    {
+      "album": {
         "name": "Smurfs Movie Soundtrack (Music From & Inspired By)",
         "url": "https://open.spotify.com/album/1WWC30whzWg114IF0EEcRx"
       },

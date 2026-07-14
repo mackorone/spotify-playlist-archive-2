@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 ### [Sunny Beats](https://open.spotify.com/playlist/37i9dQZF1DXbtuVQL4zoey)
 
-> Beach vibes and summer jams only 🌞✨
+> Feel\-good summer vibes for poolside hangs, long drives, or slow golden afternoons 🌞✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,845 likes - 195 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,951 likes - 195 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 194 | [Hang On](https://open.spotify.com/track/4duI476FUu6iId8JOTOk8i) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Hang On](https://open.spotify.com/album/246psBSULJ3D3tL7zwU4wO) | 1:58 |
 | 195 | [No Problem Too Small](https://open.spotify.com/track/0Td7VHO3ojTr3VO8GJTqQh) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [No Problem Too Small](https://open.spotify.com/album/3qKy5Uvc5ru23HZ4XYW40d) | 2:02 |
 
-Snapshot ID: `AAAAAN/7gPo9yXNI5aKDDLcxYu6uowtv`
+Snapshot ID: `AAAAAJ71wXaR1qc4aSu5nxyoay5zKWoJ`

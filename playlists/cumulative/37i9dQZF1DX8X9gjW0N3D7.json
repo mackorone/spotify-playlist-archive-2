@@ -1619,6 +1619,28 @@
     },
     {
       "album": {
+        "name": "Coude au plancher",
+        "url": "https://open.spotify.com/album/1nCDFDLHZPdE8ovpf1qNgi"
+      },
+      "artists": [
+        {
+          "name": "Arpin L\u00e9pine",
+          "url": "https://open.spotify.com/artist/716wdXFGdFr9p82O3dfmd1"
+        },
+        {
+          "name": "Tobin",
+          "url": "https://open.spotify.com/artist/2s6qJ66nyUULVHTsxscSh9"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226909,
+      "name": "Coude au plancher",
+      "url": "https://open.spotify.com/track/3ogPHqMjDF3pPnHKdJxAN1"
+    },
+    {
+      "album": {
         "name": "Coule douce",
         "url": "https://open.spotify.com/album/3pkNmEiDoIErguYqeBJ7jf"
       },
@@ -6352,6 +6374,24 @@
       "duration_ms": 177104,
       "name": "Ne me fais pas mal",
       "url": "https://open.spotify.com/track/5vMfDo2q3Pl8e4qgczvrzm"
+    },
+    {
+      "album": {
+        "name": "Alouette!",
+        "url": "https://open.spotify.com/album/3DH22OuM4KWNsKDevq3j3n"
+      },
+      "artists": [
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307389,
+      "name": "Ne me quitte pas des yeux",
+      "url": "https://open.spotify.com/track/2Ig2HQJp2wdbpQKPcOhL63"
     },
     {
       "album": {

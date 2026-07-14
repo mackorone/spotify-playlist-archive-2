@@ -2,9 +2,9 @@
 
 ### [Taewitdak Radio](https://open.spotify.com/playlist/37i9dQZF1E4yFjPEVNm1gW)
 
-> With Yeat, Autumn!, Cuo Zay and more
+> With Yeat, Cuo Zay, Autumn! and more
 
-268 songs - 10 hr 34 min
+269 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,10 +111,10 @@
 | [i want](https://open.spotify.com/track/1y1f64rhNHqhxHf4b6t3iO) | [yit](https://open.spotify.com/artist/5WEPWwmJRjDOub8mfEs08r), [M71KE](https://open.spotify.com/artist/12TuXufr9APcDNTQ1SsCYu) | [yit.mp3](https://open.spotify.com/album/0GQgKhXbtJ3jJ8DnwfxKXj) | 2:43 | 2026-02-01 | 2026-03-19 |
 | [I'm Okay](https://open.spotify.com/track/5MQByQHR2Jxv8AjgGHiu0L) | [4TUNAT](https://open.spotify.com/artist/7xQ6sIYtLwD4JjZVddw9Jl), [Mascey](https://open.spotify.com/artist/2leeJ9Oskse9ySvoRgIYiY) | [YARDMAN: DELUXE](https://open.spotify.com/album/79St16B0at9aFJU0ga3v1X) | 2:03 | 2026-04-14 | 2026-04-21 |
 | [IDK](https://open.spotify.com/track/1tdofYaObJtffeWsCFrg04) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [IDK](https://open.spotify.com/album/1s3Fi0Esr37lOvmigDbMkv) | 3:06 | 2025-12-24 | 2025-12-31 |
-| [imposter](https://open.spotify.com/track/14DqYafHROsQH834bFBVbt) | [boolymon](https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd) | [imposter](https://open.spotify.com/album/4ZSVleSwpCk6pzhBBiXP5m) | 1:48 | 2025-11-29 |  |
+| [imposter](https://open.spotify.com/track/14DqYafHROsQH834bFBVbt) | [boolymon](https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd) | [imposter](https://open.spotify.com/album/4ZSVleSwpCk6pzhBBiXP5m) | 1:48 | 2025-11-29 | 2026-07-14 |
 | [In the mix \(be here\)](https://open.spotify.com/track/3pmJTS65kQO7tORlc8dIxp) | [Saltyngget](https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy) | [In the mix \(be here\)](https://open.spotify.com/album/4RHKFFYmxxSvmtKBJ9izoY) | 5:09 | 2026-04-14 | 2026-05-07 |
 | [INDUSTRY PLANT](https://open.spotify.com/track/2Aao3bufeuxEa38YbFv4lU) | [K!no](https://open.spotify.com/artist/1dHcJc1Gq7dbyOm9cIiy81) | [INDUSTRY PLANT](https://open.spotify.com/album/5BNrO66yui2L7StgLrz4To) | 1:53 | 2025-11-29 | 2025-12-01 |
-| [Insane](https://open.spotify.com/track/6tWKJHkhYDscB7S7JAJeBt) | [bowling](https://open.spotify.com/artist/3LwTlp1sPzJkOQAXzqI4M6) | [Fleh](https://open.spotify.com/album/1IKMMQ91MJaGlWEEk6cc3M) | 1:57 | 2026-07-08 | 2026-07-13 |
+| [Insane](https://open.spotify.com/track/6tWKJHkhYDscB7S7JAJeBt) | [bowling](https://open.spotify.com/artist/3LwTlp1sPzJkOQAXzqI4M6) | [Fleh](https://open.spotify.com/album/1IKMMQ91MJaGlWEEk6cc3M) | 1:57 | 2026-07-08 |  |
 | [Intervals](https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9) | [Łee](https://open.spotify.com/artist/0TiAJVuSZaqSOCWUtt9zuz) | [Intervals](https://open.spotify.com/album/1B1ox43mBzMXwSijn6E8GN) | 2:23 | 2026-01-15 | 2026-07-06 |
 | [ion like 3](https://open.spotify.com/track/7FxOfg0t8UOFtYBbxsOXc1) | [vløne6d](https://open.spotify.com/artist/5M2Er3reI2NZdF7kW68vXF) | [ion like 3](https://open.spotify.com/album/5jJ1etG0e1j8q7GE6CNCMH) | 1:43 | 2026-05-29 | 2026-06-08 |
 | [It Was A Good Day](https://open.spotify.com/track/0Itetny9Gq16uLsUk54gKD) | [Lil Orpheus](https://open.spotify.com/artist/6p87Wfqm1k9fbzEbDr3MHq) | [It Was A Good Day](https://open.spotify.com/album/1WH9zxKSdzKaNaDxlRivcE) | 1:57 | 2026-03-11 | 2026-03-14 |
@@ -127,7 +127,7 @@
 | [KARATE KICKIN](https://open.spotify.com/track/6Rg9jc60UmZLchTTPyzMk9) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [KARATE KICKIN](https://open.spotify.com/album/7mnbl6AKnr2DeyQ02nRi8P) | 1:54 | 2026-02-10 | 2026-02-17 |
 | [Karl Malone \(2nd Session\)](https://open.spotify.com/track/5qwtkIJSqZMrmmqXciVBDm) | [$t3PPA](https://open.spotify.com/artist/3YkoJWMGUpspkflqRt8xUU) | [Therapeutic Deluxe \(2nd Session\)](https://open.spotify.com/album/4RrFwR4RBdpchZbu34MwHn) | 1:44 | 2026-05-01 | 2026-05-22 |
 | [keep no glock](https://open.spotify.com/track/0dzGkFHENpNZIci76uHYJi) | [K\-SEE](https://open.spotify.com/artist/3Pa1wXxunsWmALJOnjbfbQ) | [keep no glock](https://open.spotify.com/album/20IEHOPAcmQp7MQcSxM1uN) | 1:46 | 2025-12-01 | 2025-12-20 |
-| [king of the pumpkin patch](https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Lil Shadow](https://open.spotify.com/artist/3Orvb4DLJrPOZpEfMwfsKf) | [thinking of you, wherever you are](https://open.spotify.com/album/35gtPnzUu1SUfM5BvCtoYB) | 3:09 | 2025-12-10 |  |
+| [king of the pumpkin patch](https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Lil Shadow](https://open.spotify.com/artist/3Orvb4DLJrPOZpEfMwfsKf) | [thinking of you, wherever you are](https://open.spotify.com/album/35gtPnzUu1SUfM5BvCtoYB) | 3:09 | 2025-12-10 | 2026-07-14 |
 | [kombucha](https://open.spotify.com/track/4JrovQ9zoSKkGGSojCJycx) | [Rob Apollo](https://open.spotify.com/artist/6yKhvpwLXw23Iy6jFr192V) | [kombucha](https://open.spotify.com/album/387rs95u8Re0cTBJNpNajz) | 2:08 | 2025-12-08 | 2025-12-22 |
 | [Ky’reemoo Irving](https://open.spotify.com/track/3DCMa648m8EHDPZwjxrWva) | [Reemo](https://open.spotify.com/artist/1ytfDr5Kx6uRKsHTD31OzE) | [Kyriemo Irving](https://open.spotify.com/album/399iVBAT5cROxGpbcFGxmK) | 2:18 | 2026-02-28 | 2026-03-26 |
 | [Leave the state](https://open.spotify.com/track/70Byrc1SrJQVUY8jQ6ertY) | [Shadstackzz](https://open.spotify.com/artist/4Iiocuqzvz9MHDLHcQw2Iu) | [BALL HOGGIN](https://open.spotify.com/album/0WEh8EymKnVVTE5il6m5bN) | 1:48 | 2025-12-21 |  |
@@ -226,6 +226,7 @@
 | [Strings Attached \(feat\. TopOppGen\)](https://open.spotify.com/track/7GHiehPcW6YJ892iZA92ga) | [AZIEDOESNTEXIST](https://open.spotify.com/artist/13BgU01okousPOFvmiwecU), [TopOppGen](https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye) | [Strings Attached](https://open.spotify.com/album/7xVrnsfXIbVF5NikvzdiGZ) | 1:47 | 2026-06-20 |  |
 | [SUN\*GAZING](https://open.spotify.com/track/4zCPSUbMklynyC5GFHYei6) | [xtsy\*](https://open.spotify.com/artist/5spNfNcEgssXmB1893yRLN) | [Teen Angst](https://open.spotify.com/album/4EqJbvtHup3H77oSenkCDh) | 2:22 | 2026-01-25 | 2026-02-02 |
 | [SurfBoard](https://open.spotify.com/track/0ufbERhFvpqXT7Sw6bcMRv) | [GoodFinesse](https://open.spotify.com/artist/0EAHtZWQM2YT88U4mZFKr8), [K7 the Finesser](https://open.spotify.com/artist/4KUIUBkJYUqGcS9fkkoWZJ) | [SurfBoard](https://open.spotify.com/album/0QYqi8VfBF0V9A73F5RBYa) | 2:28 | 2026-06-11 | 2026-06-13 |
+| [Survival Mode](https://open.spotify.com/track/6J1qkQoOtEC66i6gwz112z) | [Vital!](https://open.spotify.com/artist/6AVo4Qa7foJkNWsqc9ur7n), [BRANNY](https://open.spotify.com/artist/3gZJfRZ6PFi512WVutjb1r) | [Survival Mode](https://open.spotify.com/album/3yGCakcqJvGPcebT34rzet) | 2:17 | 2026-07-14 |  |
 | [Swept Da Block](https://open.spotify.com/track/3TZjiHzps5d0Lk2snACKG3) | [Unitus](https://open.spotify.com/artist/4i2MeDBaCWuskZDgkCVAlS) | [4 DA THRILL](https://open.spotify.com/album/1hVMY5IZJHZE95MP7wY37r) | 1:52 | 2026-05-03 | 2026-05-23 |
 | [Switch It Up](https://open.spotify.com/track/0C0eS2XfcoN0fSUP9Lh8UL) | [Kai Bandz](https://open.spotify.com/artist/1D8twu2cuGQdILSS02MqLW) | [Switch It Up](https://open.spotify.com/album/3XNZfL33Sps01AU8G3bum4) | 2:05 | 2026-06-26 | 2026-06-27 |
 | [Switchin Sides](https://open.spotify.com/track/0Qll2hFkRx6HDScTQwyxEM) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [HYPERNOVA.](https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og) | 2:29 | 2025-11-29 |  |

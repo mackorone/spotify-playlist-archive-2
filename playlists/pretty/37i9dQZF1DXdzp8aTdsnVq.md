@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 
 > Novedades y clásicos del popular género colombiano\. Foto: Ana del Castillo
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,900 likes - 61 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,896 likes - 61 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

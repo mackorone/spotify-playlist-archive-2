@@ -974,7 +974,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 129880,
       "name": "I Am The Sea",
       "url": "https://open.spotify.com/track/1HKbWgJm1kYJvuU1yl7Aoy"
@@ -1778,6 +1778,24 @@
       "duration_ms": 310880,
       "name": "See Me, Feel Me / Listening To You - Live At The Oval, London, England - 9/18/1971",
       "url": "https://open.spotify.com/track/3Jd6LGdPGR3StjDhAufvpb"
+    },
+    {
+      "album": {
+        "name": "Live At Leeds (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6W3aTLI4B5UsPpWMvhT2W4"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274440,
+      "name": "Shakin' All Over - Live",
+      "url": "https://open.spotify.com/track/0QDuxU2lGn3HThu6U84oFP"
     },
     {
       "album": {

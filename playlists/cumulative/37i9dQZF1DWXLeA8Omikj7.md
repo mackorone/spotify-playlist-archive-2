@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,211 songs - 3 day 17 hr 0 min
+1,212 songs - 3 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Found Footage](https://open.spotify.com/track/6PNP5wFnQQl2nlMfBMaxCt) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Found Footage](https://open.spotify.com/album/2w8WfnamQbPHnopnZMcVrp) | 0:56 | 2019-06-19\* | 2021-03-10 |
 | [Freefall \(feat\. Malcolm Duncan\)](https://open.spotify.com/track/3sgWl7edt8ANfm1Z3lsXan) | [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK), [Malcolm Duncan](https://open.spotify.com/artist/01dBySUVkftXHYYWmX4jlP) | [Destination Unknown](https://open.spotify.com/album/06I4GlaMPfcP7qEINXbDgA) | 7:02 | 2019-06-21 | 2022-04-19 |
 | [Frequency](https://open.spotify.com/track/11FmDjx3y7vz27i0n8GMhF) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [Freedom](https://open.spotify.com/album/7K6M3yA2U62g0E0UBShazi) | 6:06 | 2021-07-23 | 2022-07-29 |
+| [From Kinosaki](https://open.spotify.com/track/20XVOGHynT49SuCdAQhGBH) | [Passepartout Duo](https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1) | [From Kinosaki](https://open.spotify.com/album/3GvcRogqMuhKfeDxdfq9C8) | 3:50 | 2026-07-10 |  |
 | [Full Attention](https://open.spotify.com/track/1kSJQOaDfJZk8ZL4D5ysBd) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe), [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Full Attention](https://open.spotify.com/album/39FzFnodvbF1nGkXcYepQg) | 4:33 | 2021-07-23 | 2022-06-10 |
 | [Further](https://open.spotify.com/track/3eROgdA5NjH03NF9RvInML) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [Further](https://open.spotify.com/album/5ZXdrv2X4rSMl5p2Xza3o7) | 5:07 | 2019-06-19\* | 2022-04-20 |
 | [Further Than It](https://open.spotify.com/track/6typP3PydlxW5m90XWkxYo) | [Mad Zach](https://open.spotify.com/artist/1RxjZjOSbva0JR7T2LsRve) | [Further Than It](https://open.spotify.com/album/2VjrJ0IskNKJKTsWYCLDgl) | 3:36 | 2019-06-19\* | 2020-10-22 |
@@ -614,7 +615,7 @@
 | [Loon E](https://open.spotify.com/track/27WhNUMC7jvvQ6m2zF3FW0) | [Purelink](https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ) | [Club Moss](https://open.spotify.com/album/2XpWP3eKFkMNlISF1ApaMm) | 5:51 | 2024-03-15 | 2024-05-01 |
 | [Looped](https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Kiasmos](https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d) | 6:00 | 2023-03-24 | 2023-05-04 |
 | [Lost](https://open.spotify.com/track/76D0QaPXfnofucHcsVCV32) | [Else](https://open.spotify.com/artist/2tUUqZeqBYInHt3aDp3a1B) | [Lost](https://open.spotify.com/album/2Hpt14C9hBXuUXe2IZRb9B) | 3:33 | 2026-05-19 |  |
-| [Lost](https://open.spotify.com/track/0kDiks9Ad3eXvfeb1EV8Jj) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Movement](https://open.spotify.com/album/7r8WcFH2Vgxb5cNNOgb6o3) | 5:26 | 2026-06-13 |  |
+| [Lost](https://open.spotify.com/track/0kDiks9Ad3eXvfeb1EV8Jj) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Movement](https://open.spotify.com/album/7r8WcFH2Vgxb5cNNOgb6o3) | 5:26 | 2026-06-13 | 2026-07-14 |
 | [Love](https://open.spotify.com/track/1DPQO6QuHJEVNO1ukVKVdX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Love](https://open.spotify.com/album/6OenbU5SkncCjUpzRIQ4Zo) | 4:38 | 2020-10-19 | 2026-04-23 |
 | [Love](https://open.spotify.com/track/3VsAxQh5ke9D3UCg7ZnPq2) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L) | [Love](https://open.spotify.com/album/6w32IwyhOZUgoU8sEUt3Rq) | 3:56 | 2025-02-12 | 2026-05-31 |
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-19 | 2024-02-23 |

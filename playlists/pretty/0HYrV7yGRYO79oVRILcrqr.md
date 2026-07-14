@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,871 likes - 63 songs - 4 hr 14 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,873 likes - 66 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,5 +71,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 61 | [Rossa Luna](https://open.spotify.com/track/3wnGCihTWncCJkn0awDes3) | [Hari the Cosmic Cowboy](https://open.spotify.com/artist/5rYjmE5aHWuEzdBi4Afb7m) | [Rossa Luna](https://open.spotify.com/album/2763zkWD7SCAnmFH8pIhjQ) | 3:57 |
 | 62 | [Menunggu Yang Tak Kembali \(2026\)](https://open.spotify.com/track/1sCgHlVyvvJEjKExIsJsJ6) | [Yosie Widianta](https://open.spotify.com/artist/30OcarWko8rxYaH0TTkgsx) | [Menunggu Yang Tak Kembali \(2026\)](https://open.spotify.com/album/0rxRylINpphWKEKwGb2YGC) | 3:07 |
 | 63 | [Magnolia](https://open.spotify.com/track/6IufA64SPqtOYyFoKzL1s6) | [Jonathan Turk](https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo) | [My Revenge](https://open.spotify.com/album/1rjfZshfNjxGP5cQXyIGzz) | 3:20 |
+| 64 | [Mundo Infeliz](https://open.spotify.com/track/4wD588EI0N67gAXGGDaN98) | [Lo Que Nunca Fuimos](https://open.spotify.com/artist/6fjRwIsTHVRTAELwXewKBI) | [El Viejo Y Querido Punk Rock](https://open.spotify.com/album/3KcAhyLdLNx9oMuXoLn6F4) | 3:10 |
+| 65 | [Numbers \- New Mix 26](https://open.spotify.com/track/4JcxaiREcccj1EaWW4gCOD) | [The Insomnia Night](https://open.spotify.com/artist/1kf6je9RrHLLxg5ocFLVbD) | [Numbers \(New Mix 26\)](https://open.spotify.com/album/3WZkE6XZ6xwjWIp3Xpcvbf) | 4:34 |
+| 66 | [I'm In Love With The Way \(You Breathe My Name\)](https://open.spotify.com/track/2BKkiZsIn81BlnNSIm2NEb) | [Paper Satellite](https://open.spotify.com/artist/4nfaau5xtDWVVwCTxkjZrN) | [Turbulence](https://open.spotify.com/album/42b2E8vOKrh5XBI8rGG1Fz) | 5:48 |
 
-Snapshot ID: `AAAL/PM22d16MJSO8xaUV4OagYI74p55`
+Snapshot ID: `AAAL/9AQQ/f4bN3qSiWComyvpFS6VeA3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di ANNA, Frezza, Il Ghost, Flextony e Tigerplug, e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,848 likes - 127 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,853 likes - 127 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

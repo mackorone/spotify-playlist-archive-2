@@ -891,22 +891,6 @@
     {
       "added_at": "2026-06-16 02:26:42",
       "album": {
-        "name": "under your skin",
-        "url": "https://open.spotify.com/album/0tqVAQUdpTqHiMZzSAC5O1"
-      },
-      "artists": [
-        {
-          "name": "Silent Planet",
-          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
-        }
-      ],
-      "duration_ms": 215462,
-      "name": "under your skin",
-      "url": "https://open.spotify.com/track/2rBbRERHIt7Mn7mpz4HC4h"
-    },
-    {
-      "added_at": "2026-06-16 02:26:42",
-      "album": {
         "name": "Silk & Static",
         "url": "https://open.spotify.com/album/75jOtFQtV3xOtM5PDTXf8X"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 226229,
       "name": "Silk & Static",
       "url": "https://open.spotify.com/track/2AOmWZIZhRuQrEqrxzaRvy"
+    },
+    {
+      "added_at": "2026-06-16 02:26:42",
+      "album": {
+        "name": "under your skin",
+        "url": "https://open.spotify.com/album/0tqVAQUdpTqHiMZzSAC5O1"
+      },
+      "artists": [
+        {
+          "name": "Silent Planet",
+          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
+        }
+      ],
+      "duration_ms": 215462,
+      "name": "under your skin",
+      "url": "https://open.spotify.com/track/2rBbRERHIt7Mn7mpz4HC4h"
     },
     {
       "added_at": "2026-06-16 02:26:42",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-06-16 02:26:42",
       "album": {
-        "name": "HELL IS JUST A HALFWAY HOUSE",
-        "url": "https://open.spotify.com/album/7FLIoMWtmEEtHtdyuXYlKP"
-      },
-      "artists": [
-        {
-          "name": "Iridium",
-          "url": "https://open.spotify.com/artist/6EAJ5s0HutTfAxMh87x7om"
-        }
-      ],
-      "duration_ms": 292851,
-      "name": "GOD EATER",
-      "url": "https://open.spotify.com/track/3Vtx6M80W4ZvPIwJkHJtGn"
-    },
-    {
-      "added_at": "2026-06-16 02:26:42",
-      "album": {
         "name": "It Only Gets Darker",
         "url": "https://open.spotify.com/album/0Lb1q2XEatoB4ZKP8FtjQo"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 271349,
       "name": "It Only Gets Darker",
       "url": "https://open.spotify.com/track/1VRspIpapVgCmA3WwLbCd4"
+    },
+    {
+      "added_at": "2026-06-16 02:26:42",
+      "album": {
+        "name": "HELL IS JUST A HALFWAY HOUSE",
+        "url": "https://open.spotify.com/album/7FLIoMWtmEEtHtdyuXYlKP"
+      },
+      "artists": [
+        {
+          "name": "Iridium",
+          "url": "https://open.spotify.com/artist/6EAJ5s0HutTfAxMh87x7om"
+        }
+      ],
+      "duration_ms": 292851,
+      "name": "GOD EATER",
+      "url": "https://open.spotify.com/track/3Vtx6M80W4ZvPIwJkHJtGn"
     },
     {
       "added_at": "2026-06-16 02:26:42",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-06-16 02:26:42",
       "album": {
-        "name": "Resurge",
-        "url": "https://open.spotify.com/album/1iqxPyYTSbIaUiVFIGA6cf"
-      },
-      "artists": [
-        {
-          "name": "Future Palace",
-          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
-        }
-      ],
-      "duration_ms": 196840,
-      "name": "Resurge",
-      "url": "https://open.spotify.com/track/2HaLls9gZTjwAffcUgCmSa"
-    },
-    {
-      "added_at": "2026-06-16 02:26:42",
-      "album": {
         "name": "Break The Cycle",
         "url": "https://open.spotify.com/album/2qW76Gsj9L2Yqi7oaHNLt0"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 184500,
       "name": "Break The Cycle",
       "url": "https://open.spotify.com/track/0kDqg26YPUnRNzcd9Yfgwl"
+    },
+    {
+      "added_at": "2026-06-16 02:26:42",
+      "album": {
+        "name": "Resurge",
+        "url": "https://open.spotify.com/album/1iqxPyYTSbIaUiVFIGA6cf"
+      },
+      "artists": [
+        {
+          "name": "Future Palace",
+          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
+        }
+      ],
+      "duration_ms": 196840,
+      "name": "Resurge",
+      "url": "https://open.spotify.com/track/2HaLls9gZTjwAffcUgCmSa"
     },
     {
       "added_at": "2026-06-16 02:26:42",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-06-16 02:26:42",
       "album": {
-        "name": "Say So",
-        "url": "https://open.spotify.com/album/6rHtASj6N3WhxXMoEmoblr"
-      },
-      "artists": [
-        {
-          "name": "Archers",
-          "url": "https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire"
-        }
-      ],
-      "duration_ms": 183993,
-      "name": "Say So",
-      "url": "https://open.spotify.com/track/02kPZAxrFGPvlpGLUG9BgY"
-    },
-    {
-      "added_at": "2026-06-16 02:26:42",
-      "album": {
         "name": "Bad Dreams (feat. Of Virtue)",
         "url": "https://open.spotify.com/album/2CIZQKBEuZJrs6LEY7bW31"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 220866,
       "name": "Bad Dreams (feat. Of Virtue)",
       "url": "https://open.spotify.com/track/1MYG4PzDAovlzKFZ6dqatY"
+    },
+    {
+      "added_at": "2026-06-16 02:26:42",
+      "album": {
+        "name": "Say So",
+        "url": "https://open.spotify.com/album/6rHtASj6N3WhxXMoEmoblr"
+      },
+      "artists": [
+        {
+          "name": "Archers",
+          "url": "https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire"
+        }
+      ],
+      "duration_ms": 183993,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/02kPZAxrFGPvlpGLUG9BgY"
     },
     {
       "added_at": "2026-06-16 02:26:42",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-06-16 02:26:42",
       "album": {
-        "name": "Pit of Misery",
-        "url": "https://open.spotify.com/album/5ickix0UdA5jqLnzPOWX4Q"
-      },
-      "artists": [
-        {
-          "name": "Get The Shot",
-          "url": "https://open.spotify.com/artist/47YTOUaDKlPoDHr00r5Wu2"
-        }
-      ],
-      "duration_ms": 308493,
-      "name": "Pit of Misery",
-      "url": "https://open.spotify.com/track/3SM1GyP52v3fUHhl5IBggs"
-    },
-    {
-      "added_at": "2026-06-16 02:26:42",
-      "album": {
         "name": "Overdose (feat. Blindside)",
         "url": "https://open.spotify.com/album/6fiUohfi86KTzXkf2OGOYi"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 187862,
       "name": "Overdose - feat. Blindside",
       "url": "https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ"
+    },
+    {
+      "added_at": "2026-06-16 02:26:42",
+      "album": {
+        "name": "Pit of Misery",
+        "url": "https://open.spotify.com/album/5ickix0UdA5jqLnzPOWX4Q"
+      },
+      "artists": [
+        {
+          "name": "Get The Shot",
+          "url": "https://open.spotify.com/artist/47YTOUaDKlPoDHr00r5Wu2"
+        }
+      ],
+      "duration_ms": 308493,
+      "name": "Pit of Misery",
+      "url": "https://open.spotify.com/track/3SM1GyP52v3fUHhl5IBggs"
     },
     {
       "added_at": "2026-06-16 02:26:42",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-06-16 02:26:42",
       "album": {
-        "name": "The Only Heaven You'll Know",
-        "url": "https://open.spotify.com/album/7KpJScXcBBefTyBciJj2Ba"
-      },
-      "artists": [
-        {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Lost In The Violence",
-      "url": "https://open.spotify.com/track/1GV8rtxGSrioNqU47CGm3n"
-    },
-    {
-      "added_at": "2026-06-16 02:26:42",
-      "album": {
         "name": "WHERE THE LIGHT LEAVES",
         "url": "https://open.spotify.com/album/11s6vQkS5eVq5tVWGUJwSr"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 203687,
       "name": "Blissful End",
       "url": "https://open.spotify.com/track/5brgPwPVEwNb2zQdVs7yiF"
+    },
+    {
+      "added_at": "2026-06-16 02:26:42",
+      "album": {
+        "name": "The Only Heaven You'll Know",
+        "url": "https://open.spotify.com/album/7KpJScXcBBefTyBciJj2Ba"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Lost In The Violence",
+      "url": "https://open.spotify.com/track/1GV8rtxGSrioNqU47CGm3n"
     },
     {
       "added_at": "2026-06-16 02:26:42",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2026-06-16 02:26:42",
       "album": {
-        "name": "Where Only The Truth Is Spoken",
-        "url": "https://open.spotify.com/album/1qs6bVTbcreJUBB3yuspkq"
-      },
-      "artists": [
-        {
-          "name": "Malevolence",
-          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
-        }
-      ],
-      "duration_ms": 258377,
-      "name": "So Help Me God",
-      "url": "https://open.spotify.com/track/3tkBA0ct7h0EQ3XmR4y9bp"
-    },
-    {
-      "added_at": "2026-06-16 02:26:42",
-      "album": {
         "name": "This Room Could Be Heaven.",
         "url": "https://open.spotify.com/album/2WOBMTxdpxPHMGXWXZXskG"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 176557,
       "name": "Color Slowly Fading",
       "url": "https://open.spotify.com/track/342hKxP5tTHRXWs20vWhQE"
+    },
+    {
+      "added_at": "2026-06-16 02:26:42",
+      "album": {
+        "name": "Where Only The Truth Is Spoken",
+        "url": "https://open.spotify.com/album/1qs6bVTbcreJUBB3yuspkq"
+      },
+      "artists": [
+        {
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+        }
+      ],
+      "duration_ms": 258377,
+      "name": "So Help Me God",
+      "url": "https://open.spotify.com/track/3tkBA0ct7h0EQ3XmR4y9bp"
     },
     {
       "added_at": "2026-06-16 02:26:42",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2026-06-16 02:26:42",
       "album": {
-        "name": "Will You Haunt Me, With That Same Patience",
-        "url": "https://open.spotify.com/album/1OESBdYYfEHfTbhsNKLpXD"
-      },
-      "artists": [
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 226712,
-      "name": "Silence Isn't Helping Us",
-      "url": "https://open.spotify.com/track/34LT97EvA73UvXBycsYA3o"
-    },
-    {
-      "added_at": "2026-06-16 02:26:42",
-      "album": {
         "name": "OPTIMIZE",
         "url": "https://open.spotify.com/album/1MsPJsZSrBUsqTDPCx1050"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 237800,
       "name": "OPTIMIZE",
       "url": "https://open.spotify.com/track/1s8PGnCoTjzcsp3OoDw6tG"
+    },
+    {
+      "added_at": "2026-06-16 02:26:42",
+      "album": {
+        "name": "Will You Haunt Me, With That Same Patience",
+        "url": "https://open.spotify.com/album/1OESBdYYfEHfTbhsNKLpXD"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 226712,
+      "name": "Silence Isn't Helping Us",
+      "url": "https://open.spotify.com/track/34LT97EvA73UvXBycsYA3o"
     },
     {
       "added_at": "2026-06-16 02:26:42",
@@ -2391,18 +2391,18 @@
     {
       "added_at": "2026-06-16 02:26:42",
       "album": {
-        "name": "Erase You",
-        "url": "https://open.spotify.com/album/4CDKNg45v59YxubcJhVxDC"
+        "name": "A Pure Expression",
+        "url": "https://open.spotify.com/album/5Epd7YN5aMt7VUOqteapKs"
       },
       "artists": [
         {
-          "name": "Still Remains",
-          "url": "https://open.spotify.com/artist/1vqMfm7uSTpqRUeV1iQPPp"
+          "name": " I Promised The World",
+          "url": "https://open.spotify.com/artist/2JolAkglUjazbqQetBefGk"
         }
       ],
-      "duration_ms": 245538,
-      "name": "Erase You",
-      "url": "https://open.spotify.com/track/3Kjq6Goqd6fUol5haNRW5L"
+      "duration_ms": 243638,
+      "name": "A Pure Expression",
+      "url": "https://open.spotify.com/track/6Mn8iXyjC8cVBy3dCdDGEu"
     },
     {
       "added_at": "2026-06-16 02:26:42",
@@ -2423,18 +2423,18 @@
     {
       "added_at": "2026-06-16 02:26:42",
       "album": {
-        "name": "A Pure Expression",
-        "url": "https://open.spotify.com/album/5Epd7YN5aMt7VUOqteapKs"
+        "name": "Erase You",
+        "url": "https://open.spotify.com/album/4CDKNg45v59YxubcJhVxDC"
       },
       "artists": [
         {
-          "name": " I Promised The World",
-          "url": "https://open.spotify.com/artist/2JolAkglUjazbqQetBefGk"
+          "name": "Still Remains",
+          "url": "https://open.spotify.com/artist/1vqMfm7uSTpqRUeV1iQPPp"
         }
       ],
-      "duration_ms": 243638,
-      "name": "A Pure Expression",
-      "url": "https://open.spotify.com/track/6Mn8iXyjC8cVBy3dCdDGEu"
+      "duration_ms": 245538,
+      "name": "Erase You",
+      "url": "https://open.spotify.com/track/3Kjq6Goqd6fUol5haNRW5L"
     },
     {
       "added_at": "2026-06-16 02:26:42",
@@ -2639,22 +2639,6 @@
     {
       "added_at": "2026-06-16 02:26:42",
       "album": {
-        "name": "Pump Action Catatonia",
-        "url": "https://open.spotify.com/album/5krb0Ap4CyW2DKHNSxU1ka"
-      },
-      "artists": [
-        {
-          "name": "Dealer",
-          "url": "https://open.spotify.com/artist/0TpKwhxtfxaPTaWsHqpVqP"
-        }
-      ],
-      "duration_ms": 152924,
-      "name": "Pump Action Catatonia",
-      "url": "https://open.spotify.com/track/0XbBQLhk9563TkTjgDgnno"
-    },
-    {
-      "added_at": "2026-06-16 02:26:42",
-      "album": {
         "name": "CYNICAL SAVIOR",
         "url": "https://open.spotify.com/album/3HT9dHaFwzou0WDz0dn98m"
       },
@@ -2667,6 +2651,22 @@
       "duration_ms": 184000,
       "name": "EARN YOUR FLOWERS",
       "url": "https://open.spotify.com/track/7phSReNlStY9XckxYd7ZnB"
+    },
+    {
+      "added_at": "2026-06-16 02:26:42",
+      "album": {
+        "name": "Pump Action Catatonia",
+        "url": "https://open.spotify.com/album/5krb0Ap4CyW2DKHNSxU1ka"
+      },
+      "artists": [
+        {
+          "name": "Dealer",
+          "url": "https://open.spotify.com/artist/0TpKwhxtfxaPTaWsHqpVqP"
+        }
+      ],
+      "duration_ms": 152924,
+      "name": "Pump Action Catatonia",
+      "url": "https://open.spotify.com/track/0XbBQLhk9563TkTjgDgnno"
     },
     {
       "added_at": "2026-06-16 02:26:42",
@@ -2767,6 +2767,22 @@
     {
       "added_at": "2026-06-16 02:26:42",
       "album": {
+        "name": "SICK TO DEATH OF EVERYTHING",
+        "url": "https://open.spotify.com/album/7CPEiZM98WngGwyfNgy29f"
+      },
+      "artists": [
+        {
+          "name": "Tropic Gold",
+          "url": "https://open.spotify.com/artist/25My38UxRbqlegmRn61zQP"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "THE ANGELS ARE GONE",
+      "url": "https://open.spotify.com/track/51eiDxzFWzeKjqEvUz8w7l"
+    },
+    {
+      "added_at": "2026-06-16 02:26:42",
+      "album": {
         "name": "Stasis",
         "url": "https://open.spotify.com/album/2UrX4QpKocescxrNW5fj5b"
       },
@@ -2783,22 +2799,6 @@
       "duration_ms": 223151,
       "name": "Stasis",
       "url": "https://open.spotify.com/track/4K1YLR62rcOkP9sezzlwED"
-    },
-    {
-      "added_at": "2026-06-16 02:26:42",
-      "album": {
-        "name": "SICK TO DEATH OF EVERYTHING",
-        "url": "https://open.spotify.com/album/7CPEiZM98WngGwyfNgy29f"
-      },
-      "artists": [
-        {
-          "name": "Tropic Gold",
-          "url": "https://open.spotify.com/artist/25My38UxRbqlegmRn61zQP"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "THE ANGELS ARE GONE",
-      "url": "https://open.spotify.com/track/51eiDxzFWzeKjqEvUz8w7l"
     },
     {
       "added_at": "2026-06-16 02:26:42",
@@ -2871,6 +2871,22 @@
     {
       "added_at": "2026-06-16 02:26:42",
       "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/5Q5o2jUS5MFcdDm16o1VcK"
+      },
+      "artists": [
+        {
+          "name": "Thousand Below",
+          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
+        }
+      ],
+      "duration_ms": 241700,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/11DmWsJq63RyfNY8m0MiH3"
+    },
+    {
+      "added_at": "2026-06-16 02:26:42",
+      "album": {
         "name": "devil's/speak",
         "url": "https://open.spotify.com/album/1FV3MLWx4908vJthffT5TD"
       },
@@ -2887,22 +2903,6 @@
       "duration_ms": 192200,
       "name": "devil's/speak",
       "url": "https://open.spotify.com/track/2Z2LaPdOVMFUvqfY7FP2oz"
-    },
-    {
-      "added_at": "2026-06-16 02:26:42",
-      "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/5Q5o2jUS5MFcdDm16o1VcK"
-      },
-      "artists": [
-        {
-          "name": "Thousand Below",
-          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
-        }
-      ],
-      "duration_ms": 241700,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/11DmWsJq63RyfNY8m0MiH3"
     },
     {
       "added_at": "2026-06-16 02:26:42",
@@ -2971,22 +2971,6 @@
     {
       "added_at": "2026-06-16 02:26:42",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/233juQwCUc0uHzSa2sU4gI"
-      },
-      "artists": [
-        {
-          "name": "The Narrator",
-          "url": "https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk"
-        }
-      ],
-      "duration_ms": 200356,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/0qrpctqrt2zifx5poFSeXK"
-    },
-    {
-      "added_at": "2026-06-16 02:26:42",
-      "album": {
         "name": "Cannibals",
         "url": "https://open.spotify.com/album/3fe6XLdIJjaPcDmxHYembu"
       },
@@ -3019,6 +3003,22 @@
       "duration_ms": 205281,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/6yI6Y1n34Z41GTol95JpsY"
+    },
+    {
+      "added_at": "2026-06-16 02:26:42",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/233juQwCUc0uHzSa2sU4gI"
+      },
+      "artists": [
+        {
+          "name": "The Narrator",
+          "url": "https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk"
+        }
+      ],
+      "duration_ms": 200356,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/0qrpctqrt2zifx5poFSeXK"
     },
     {
       "added_at": "2026-06-16 02:26:42",
@@ -3123,22 +3123,6 @@
     {
       "added_at": "2026-06-16 02:26:42",
       "album": {
-        "name": "Royal Discordance",
-        "url": "https://open.spotify.com/album/084gouDJiJ0JjTItTo7Ogu"
-      },
-      "artists": [
-        {
-          "name": "The Gloom In The Corner",
-          "url": "https://open.spotify.com/artist/4dJTtqdQ6GlgNr8TNkzh65"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "That's Life (Carry Me Home)",
-      "url": "https://open.spotify.com/track/2H54nxlOgvjInaKtBbwqZK"
-    },
-    {
-      "added_at": "2026-06-16 02:26:42",
-      "album": {
         "name": "Hollow Walls",
         "url": "https://open.spotify.com/album/6GUSCLPmHMldZbOOPSJOcb"
       },
@@ -3155,18 +3139,18 @@
     {
       "added_at": "2026-06-16 02:26:42",
       "album": {
-        "name": "I KNOW I'LL SURVIVE",
-        "url": "https://open.spotify.com/album/7Fj7simawPCITb8rmhygoD"
+        "name": "Royal Discordance",
+        "url": "https://open.spotify.com/album/084gouDJiJ0JjTItTo7Ogu"
       },
       "artists": [
         {
-          "name": "Execution Day",
-          "url": "https://open.spotify.com/artist/3f3CYDS0i8Z0Egxp9gwD1Z"
+          "name": "The Gloom In The Corner",
+          "url": "https://open.spotify.com/artist/4dJTtqdQ6GlgNr8TNkzh65"
         }
       ],
-      "duration_ms": 197446,
-      "name": "I KNOW I'LL SURVIVE",
-      "url": "https://open.spotify.com/track/5McUe0CiX98x0ThrGFLgxE"
+      "duration_ms": 250000,
+      "name": "That's Life (Carry Me Home)",
+      "url": "https://open.spotify.com/track/2H54nxlOgvjInaKtBbwqZK"
     },
     {
       "added_at": "2026-06-16 02:26:42",
@@ -3199,6 +3183,22 @@
       "duration_ms": 198453,
       "name": "Kubrick Stare",
       "url": "https://open.spotify.com/track/78XlxZ40ogIPZq1dYMmu2Y"
+    },
+    {
+      "added_at": "2026-06-16 02:26:42",
+      "album": {
+        "name": "I KNOW I'LL SURVIVE",
+        "url": "https://open.spotify.com/album/7Fj7simawPCITb8rmhygoD"
+      },
+      "artists": [
+        {
+          "name": "Execution Day",
+          "url": "https://open.spotify.com/artist/3f3CYDS0i8Z0Egxp9gwD1Z"
+        }
+      ],
+      "duration_ms": 197446,
+      "name": "I KNOW I'LL SURVIVE",
+      "url": "https://open.spotify.com/track/5McUe0CiX98x0ThrGFLgxE"
     },
     {
       "added_at": "2026-06-16 02:26:42",
@@ -3319,22 +3319,6 @@
     {
       "added_at": "2026-06-16 02:26:42",
       "album": {
-        "name": "Get By Then Die",
-        "url": "https://open.spotify.com/album/6bAjeZOa0tKK4CdeH8a2NR"
-      },
-      "artists": [
-        {
-          "name": "Trash Boat",
-          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
-        }
-      ],
-      "duration_ms": 211217,
-      "name": "Get By Then Die",
-      "url": "https://open.spotify.com/track/3RjrQZqMvyvsnFHsV9JXlx"
-    },
-    {
-      "added_at": "2026-06-16 02:26:42",
-      "album": {
         "name": "Cold Hard Truth",
         "url": "https://open.spotify.com/album/3Xj0z4iaakPOJXB2c6CZE7"
       },
@@ -3347,6 +3331,22 @@
       "duration_ms": 182061,
       "name": "Cold Hard Truth",
       "url": "https://open.spotify.com/track/0MwRJeQZmAn954BxUqcnit"
+    },
+    {
+      "added_at": "2026-06-16 02:26:42",
+      "album": {
+        "name": "Get By Then Die",
+        "url": "https://open.spotify.com/album/6bAjeZOa0tKK4CdeH8a2NR"
+      },
+      "artists": [
+        {
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
+        }
+      ],
+      "duration_ms": 211217,
+      "name": "Get By Then Die",
+      "url": "https://open.spotify.com/track/3RjrQZqMvyvsnFHsV9JXlx"
     },
     {
       "added_at": "2026-06-16 02:26:42",

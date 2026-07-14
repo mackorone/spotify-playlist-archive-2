@@ -1,12 +1,12 @@
 {
   "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 517421,
+  "num_followers": 517510,
   "original_name": "This Is Bring Me The Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAAC06rQF6md/M0pmEZHq8KFc",
+  "snapshot_id": "alLZAAAAAACmnsjLVScN3Jrk7N5hcoS/",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black & Blue (2026 Repented)",
-        "url": "https://open.spotify.com/album/6U3DX5YduAdNPwupudPkbm"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 272967,
-      "name": "Black & Blue - 2026 Repented",
-      "url": "https://open.spotify.com/track/7KkbjjccZvAxo6dHiagV4i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "POST HUMAN: SURVIVAL HORROR",
         "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 291812,
       "name": "Parasite Eve",
       "url": "https://open.spotify.com/track/36xBFaVGjqm7le8CTHytUj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Count Your Blessings | Repented",
+        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 266369,
+      "name": "Pray for Plagues - 2026 Repented",
+      "url": "https://open.spotify.com/track/2h2z6VlYWtw5jUZ1GRSrg8"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 266369,
-      "name": "Pray for Plagues - 2026 Repented",
-      "url": "https://open.spotify.com/track/2h2z6VlYWtw5jUZ1GRSrg8"
+      "duration_ms": 268740,
+      "name": "For Stevie Wonder's Eyes Only (Braille) - 2026 Repented",
+      "url": "https://open.spotify.com/track/3puxwm52DQKx5MP5GIO3eP"
     },
     {
       "added_at": null,
@@ -427,6 +427,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black & Blue (2026 Repented)",
+        "url": "https://open.spotify.com/album/6U3DX5YduAdNPwupudPkbm"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 272967,
+      "name": "Black & Blue - 2026 Repented",
+      "url": "https://open.spotify.com/track/7KkbjjccZvAxo6dHiagV4i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Count Your Blessings | Repented",
+        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 219783,
+      "name": "Tell Slater Not to Wash His Dick - 2026 Repented",
+      "url": "https://open.spotify.com/track/64JZAC5iYe4eymrII98Fwg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "amo",
         "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
       },
@@ -443,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Count Your Blessings | Repented",
-        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
       },
       "artists": [
         {
@@ -452,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 268740,
-      "name": "For Stevie Wonder's Eyes Only (Braille) - 2026 Repented",
-      "url": "https://open.spotify.com/track/3puxwm52DQKx5MP5GIO3eP"
+      "duration_ms": 200236,
+      "name": "n/A",
+      "url": "https://open.spotify.com/track/0lKUFDN6EFpbg5bnUfkkrl"
     },
     {
       "added_at": null,
@@ -479,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "POST HUMAN: NeX GEn",
-        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+        "name": "Count Your Blessings | Repented",
+        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
       },
       "artists": [
         {
@@ -488,9 +520,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 200236,
-      "name": "n/A",
-      "url": "https://open.spotify.com/track/0lKUFDN6EFpbg5bnUfkkrl"
+      "duration_ms": 160627,
+      "name": "Dragon Slaying - 2026 Repented",
+      "url": "https://open.spotify.com/track/1h9wiXPEX1ZR2Jb60nFrqM"
     },
     {
       "added_at": null,
@@ -507,22 +539,6 @@
       "duration_ms": 271186,
       "name": "in the dark",
       "url": "https://open.spotify.com/track/4swVflM7KtMxzfHBWqPv9S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Count Your Blessings | Repented",
-        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 219783,
-      "name": "Tell Slater Not to Wash His Dick - 2026 Repented",
-      "url": "https://open.spotify.com/track/64JZAC5iYe4eymrII98Fwg"
     },
     {
       "added_at": null,
@@ -563,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Count Your Blessings | Repented",
+        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 97839,
+      "name": "Slow Dance - 2026 Repented",
+      "url": "https://open.spotify.com/track/41Xk5FPVSwFQTeAmUKZ7jQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Suicide Season",
         "url": "https://open.spotify.com/album/5gLPHzNPjPb2wfZRx7pwj6"
       },
@@ -575,22 +607,6 @@
       "duration_ms": 302560,
       "name": "Chelsea Smile",
       "url": "https://open.spotify.com/track/3WrJEnn2BDh3QQYdgEyk9Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Count Your Blessings | Repented",
-        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 160627,
-      "name": "Dragon Slaying - 2026 Repented",
-      "url": "https://open.spotify.com/track/1h9wiXPEX1ZR2Jb60nFrqM"
     },
     {
       "added_at": null,
@@ -639,22 +655,6 @@
       "duration_ms": 240151,
       "name": "Wonderwall - Spotify Singles",
       "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Count Your Blessings | Repented",
-        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 97839,
-      "name": "Slow Dance - 2026 Repented",
-      "url": "https://open.spotify.com/track/41Xk5FPVSwFQTeAmUKZ7jQ"
     },
     {
       "added_at": null,
@@ -760,13 +760,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Dimension 32",
-          "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
+          "name": "lophiile",
+          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
         }
       ],
-      "duration_ms": 185200,
-      "name": "sTr4nG3r5.vsn0",
-      "url": "https://open.spotify.com/track/5OjkJMfEVBAVgoYshwZuRt"
+      "duration_ms": 309218,
+      "name": "med!cine.fbk",
+      "url": "https://open.spotify.com/track/4XhbazNmRNlkUkjYX38Obc"
     },
     {
       "added_at": null,
@@ -856,13 +856,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "lophiile",
-          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
+          "name": "Kanisan",
+          "url": "https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO"
         }
       ],
-      "duration_ms": 265328,
-      "name": "sL33pwalking.idl",
-      "url": "https://open.spotify.com/track/3UfassQ27R4HgpBRwJIQkr"
+      "duration_ms": 188288,
+      "name": "in_the_dark.ech",
+      "url": "https://open.spotify.com/track/78mP1BhsKkinyPyFK0whIF"
     }
   ],
   "unique_name": "This Is Bring Me The Horizon",

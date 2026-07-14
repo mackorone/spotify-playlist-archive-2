@@ -1,6 +1,6 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 336168,
+  "num_followers": 336243,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
@@ -43,7 +43,7 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "La Legge Dei Gangsters",
+        "name": "La legge dei gangsters",
         "url": "https://open.spotify.com/album/3j4peilVrbOhAZEIvA3ptr"
       },
       "artists": [
@@ -53,7 +53,7 @@
         }
       ],
       "duration_ms": 167314,
-      "name": "Crepuscolo Sul Mare",
+      "name": "Crepuscolo sul mare",
       "url": "https://open.spotify.com/track/3c07yD1n2fRvcD9wY638hg"
     },
     {
@@ -499,7 +499,7 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Svezia, Inferno E Paradiso",
+        "name": "Svezia, inferno e paradiso (The Original Complete Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a"
       },
       "artists": [
@@ -509,7 +509,7 @@
         }
       ],
       "duration_ms": 116559,
-      "name": "Mah N\u00e0 Mah N\u00e0",
+      "name": "Mah n\u00e0 mah n\u00e0",
       "url": "https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK"
     },
     {
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "40 Hits Latinos",
-        "url": "https://open.spotify.com/album/4IQki6Ugj67CC8K8ouOFRC"
-      },
-      "artists": [
-        {
-          "name": "Mantovani y Su Gran Orquesta",
-          "url": "https://open.spotify.com/artist/6Y1LEH2sDrGXvthbvTHanb"
-        }
-      ],
-      "duration_ms": 172893,
-      "name": "Amapola",
-      "url": "https://open.spotify.com/track/64S1kBJCGH7KCDqJTBrIvC"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Al Caiola",
         "url": "https://open.spotify.com/album/5H4XIkoq40S5IJg8YHSeQi"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 127440,
       "name": "Wheels",
       "url": "https://open.spotify.com/track/4GAk2C8GXuTQPbCILxZERU"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "40 Hits Latinos",
+        "url": "https://open.spotify.com/album/4IQki6Ugj67CC8K8ouOFRC"
+      },
+      "artists": [
+        {
+          "name": "Mantovani y Su Gran Orquesta",
+          "url": "https://open.spotify.com/artist/6Y1LEH2sDrGXvthbvTHanb"
+        }
+      ],
+      "duration_ms": 172893,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/64S1kBJCGH7KCDqJTBrIvC"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
-      },
-      "artists": [
-        {
-          "name": "Raul Di Blasio",
-          "url": "https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Coraz\u00f3n de Ni\u00f1o",
-      "url": "https://open.spotify.com/track/56y7Xna4NmOjX8VNz4dlNk"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Music To Watch Girls By",
         "url": "https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 111026,
       "name": "Music to Watch Girls By",
       "url": "https://open.spotify.com/track/1YDIAKuPvhIxG6HiFaRA2t"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
+      },
+      "artists": [
+        {
+          "name": "Raul Di Blasio",
+          "url": "https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Coraz\u00f3n de Ni\u00f1o",
+      "url": "https://open.spotify.com/track/56y7Xna4NmOjX8VNz4dlNk"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1463,34 +1463,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Concierto De Aranjuez (Slidepack)",
-        "url": "https://open.spotify.com/album/4I0UtJya3m3usd91RB3EJU"
-      },
-      "artists": [
-        {
-          "name": "Paco de Luc\u00eda",
-          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
-        },
-        {
-          "name": "Joaqu\u00edn Rodrigo",
-          "url": "https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr"
-        },
-        {
-          "name": "Orquesta De Cadaques",
-          "url": "https://open.spotify.com/artist/1cmiYraSsNQzA3FD1KkmDU"
-        },
-        {
-          "name": "Edmon Colomer",
-          "url": "https://open.spotify.com/artist/7BiMQ3Qho34fOpo2VMjHXJ"
-        }
-      ],
-      "duration_ms": 692373,
-      "name": "Concierto De Aranjuez: 2. Adagio - Instrumental",
-      "url": "https://open.spotify.com/track/5VlfofwGTSDVOHqLSQHlEx"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "16 Grandes \u00c9xitos Instrumentales",
         "url": "https://open.spotify.com/album/27l2H5cdTFAZt8qTckJJBL"
       },
@@ -1523,6 +1495,50 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
+        "name": "Concierto De Aranjuez (Slidepack)",
+        "url": "https://open.spotify.com/album/4I0UtJya3m3usd91RB3EJU"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        },
+        {
+          "name": "Joaqu\u00edn Rodrigo",
+          "url": "https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr"
+        },
+        {
+          "name": "Orquesta De Cadaques",
+          "url": "https://open.spotify.com/artist/1cmiYraSsNQzA3FD1KkmDU"
+        },
+        {
+          "name": "Edmon Colomer",
+          "url": "https://open.spotify.com/artist/7BiMQ3Qho34fOpo2VMjHXJ"
+        }
+      ],
+      "duration_ms": 692373,
+      "name": "Concierto De Aranjuez: 2. Adagio - Instrumental",
+      "url": "https://open.spotify.com/track/5VlfofwGTSDVOHqLSQHlEx"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Fusion Brasil Jazz. Bossa Nova M\u00fasica Brasile\u00f1a",
+        "url": "https://open.spotify.com/album/37zxh5L8F8zURM03aCAp29"
+      },
+      "artists": [
+        {
+          "name": "Spanish Caribe Band",
+          "url": "https://open.spotify.com/artist/0gkvval3Ekf4A9OCjO0s1q"
+        }
+      ],
+      "duration_ms": 140560,
+      "name": "Concierto para una Sola Voz",
+      "url": "https://open.spotify.com/track/70sxaj2Vw8JxkJVCSSv7UR"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
         "name": "Before The Rain",
         "url": "https://open.spotify.com/album/57AGQL2GDbyMDKx68P6xhg"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 126893,
       "name": "Spanish Flea",
       "url": "https://open.spotify.com/track/0fmNiN85g1XF1NemAGY7G2"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
-        "name": "Fusion Brasil Jazz. Bossa Nova M\u00fasica Brasile\u00f1a",
-        "url": "https://open.spotify.com/album/37zxh5L8F8zURM03aCAp29"
-      },
-      "artists": [
-        {
-          "name": "Spanish Caribe Band",
-          "url": "https://open.spotify.com/artist/0gkvval3Ekf4A9OCjO0s1q"
-        }
-      ],
-      "duration_ms": 140560,
-      "name": "Concierto para una Sola Voz",
-      "url": "https://open.spotify.com/track/70sxaj2Vw8JxkJVCSSv7UR"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "!!!Going Places!!!",
-        "url": "https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
-        }
-      ],
-      "duration_ms": 125920,
-      "name": "Tijuana Taxi",
-      "url": "https://open.spotify.com/track/7JH6N7qstfxRhaB7PjiE9q"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "60 Timeless Classics from the Giants of Traditional Jazz",
         "url": "https://open.spotify.com/album/6fN8msI9VOM3uWxjO1Y9eR"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 164360,
       "name": "Petite Fleur",
       "url": "https://open.spotify.com/track/49ENB0tgwiU80dvt57WQ5x"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "!!!Going Places!!!",
+        "url": "https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+        }
+      ],
+      "duration_ms": 125920,
+      "name": "Tijuana Taxi",
+      "url": "https://open.spotify.com/track/7JH6N7qstfxRhaB7PjiE9q"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Latin-Esque",
-        "url": "https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq"
+        "name": "Tony Mottola y Su Orquesta",
+        "url": "https://open.spotify.com/album/5XPpYqZJ3zdJv4qAI0NBYl"
       },
       "artists": [
         {
-          "name": "Esquivel!",
-          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
+          "name": "Tony Mottola y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5qByAjccmQRznP524QB0wy"
         }
       ],
-      "duration_ms": 186536,
-      "name": "Latin-Esque",
-      "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
+      "duration_ms": 113880,
+      "name": "Woodpecker Song",
+      "url": "https://open.spotify.com/track/1b39F2Q4sNP8R9PwGK8G5D"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Tony Mottola y Su Orquesta",
-        "url": "https://open.spotify.com/album/5XPpYqZJ3zdJv4qAI0NBYl"
+        "name": "Latin-Esque",
+        "url": "https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq"
       },
       "artists": [
         {
-          "name": "Tony Mottola y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5qByAjccmQRznP524QB0wy"
+          "name": "Esquivel!",
+          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
         }
       ],
-      "duration_ms": 113880,
-      "name": "Woodpecker Song",
-      "url": "https://open.spotify.com/track/1b39F2Q4sNP8R9PwGK8G5D"
+      "duration_ms": 186536,
+      "name": "Latin-Esque",
+      "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
     },
     {
       "added_at": "2025-02-14 17:45:29",

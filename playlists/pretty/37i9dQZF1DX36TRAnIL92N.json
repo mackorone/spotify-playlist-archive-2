@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 496237,
+  "num_followers": 496390,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-07-10 04:01:01",
       "album": {
+        "name": "Diamonds On My Mind",
+        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 168529,
+      "name": "Diamonds On My Mind",
+      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+    },
+    {
+      "added_at": "2026-07-10 04:01:01",
+      "album": {
         "name": "See Me Coming",
         "url": "https://open.spotify.com/album/0AKiFtkKreaYXCJ5v1I5DY"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 256511,
       "name": "See Me Coming",
       "url": "https://open.spotify.com/track/2h7C1TrUOKCqI5DTM3XW3m"
-    },
-    {
-      "added_at": "2026-07-10 04:01:01",
-      "album": {
-        "name": "Diamonds On My Mind",
-        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 168529,
-      "name": "Diamonds On My Mind",
-      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
     },
     {
       "added_at": "2026-07-10 04:01:01",
@@ -755,26 +755,6 @@
     {
       "added_at": "2026-07-10 04:01:01",
       "album": {
-        "name": "Acid Blood",
-        "url": "https://open.spotify.com/album/6bmsMcbQLEfYykzpRd3qEf"
-      },
-      "artists": [
-        {
-          "name": "999999999",
-          "url": "https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc"
-        },
-        {
-          "name": "FLKN",
-          "url": "https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww"
-        }
-      ],
-      "duration_ms": 211741,
-      "name": "Acid Blood",
-      "url": "https://open.spotify.com/track/1ivhs5EQc8eAw5rcB9SEQz"
-    },
-    {
-      "added_at": "2026-07-10 04:01:01",
-      "album": {
         "name": "Coming In Heavy",
         "url": "https://open.spotify.com/album/723kV64ne2P2nR3PLXHNyY"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 231521,
       "name": "Coming In Heavy",
       "url": "https://open.spotify.com/track/6VTiQz9Er68Nn8DywsO2v3"
+    },
+    {
+      "added_at": "2026-07-10 04:01:01",
+      "album": {
+        "name": "Acid Blood",
+        "url": "https://open.spotify.com/album/6bmsMcbQLEfYykzpRd3qEf"
+      },
+      "artists": [
+        {
+          "name": "999999999",
+          "url": "https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc"
+        },
+        {
+          "name": "FLKN",
+          "url": "https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww"
+        }
+      ],
+      "duration_ms": 211741,
+      "name": "Acid Blood",
+      "url": "https://open.spotify.com/track/1ivhs5EQc8eAw5rcB9SEQz"
     },
     {
       "added_at": "2026-07-10 04:01:01",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-07-10 04:01:01",
       "album": {
-        "name": "Let the Bass Kick",
-        "url": "https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul"
-      },
-      "artists": [
-        {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
-        }
-      ],
-      "duration_ms": 146100,
-      "name": "Let the Bass Kick",
-      "url": "https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2"
-    },
-    {
-      "added_at": "2026-07-10 04:01:01",
-      "album": {
         "name": "Wavey",
         "url": "https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB"
       },
@@ -887,22 +871,6 @@
       "duration_ms": 143379,
       "name": "Wavey",
       "url": "https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1"
-    },
-    {
-      "added_at": "2026-07-10 04:01:01",
-      "album": {
-        "name": "Say It Again",
-        "url": "https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Say It Again",
-      "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
     },
     {
       "added_at": "2026-07-10 04:01:01",
@@ -927,6 +895,38 @@
     {
       "added_at": "2026-07-10 04:01:01",
       "album": {
+        "name": "Let the Bass Kick",
+        "url": "https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "duration_ms": 146100,
+      "name": "Let the Bass Kick",
+      "url": "https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2"
+    },
+    {
+      "added_at": "2026-07-10 04:01:01",
+      "album": {
+        "name": "Say It Again",
+        "url": "https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Say It Again",
+      "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
+    },
+    {
+      "added_at": "2026-07-10 04:01:01",
+      "album": {
         "name": "Charlotte de Witte",
         "url": "https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a"
       },
@@ -947,18 +947,26 @@
     {
       "added_at": "2026-07-10 04:01:01",
       "album": {
-        "name": "DIE TONIGHT EP",
-        "url": "https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg"
+        "name": "When I Push (Edit)",
+        "url": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy"
       },
       "artists": [
         {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
         }
       ],
-      "duration_ms": 194509,
-      "name": "Kummer",
-      "url": "https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM"
+      "duration_ms": 213582,
+      "name": "When I Push - Edit",
+      "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
     }
   ],
   "unique_name": "Techno Workout",

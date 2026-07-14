@@ -3417,6 +3417,24 @@
     },
     {
       "album": {
+        "name": "Nothing like uuu",
+        "url": "https://open.spotify.com/album/1pTBbzLvXEtbqFjbdQPh7G"
+      },
+      "artists": [
+        {
+          "name": "Nettspend",
+          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112243,
+      "name": "Nothing like uuu",
+      "url": "https://open.spotify.com/track/3h7QZ9cXhlOoh1ywJWS8GH"
+    },
+    {
+      "album": {
         "name": "Meteora",
         "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
       },

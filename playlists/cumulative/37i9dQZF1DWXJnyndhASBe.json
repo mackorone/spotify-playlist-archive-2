@@ -729,6 +729,24 @@
     },
     {
       "album": {
+        "name": "#MATA2040",
+        "url": "https://open.spotify.com/album/3qbTjrny6JVyR9Q8hZoJYT"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157849,
+      "name": "5 malin",
+      "url": "https://open.spotify.com/track/6IbQeh3J825ekqHo1ghgwj"
+    },
+    {
+      "album": {
         "name": "5 ST\u00d3W",
         "url": "https://open.spotify.com/album/4VEJavkoMSfeUAt55N6fna"
       },
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 157440,
       "name": "Aftery Pod Blokiem",
       "url": "https://open.spotify.com/track/2XIGsfFsSCuAvaeCziatho"
@@ -7050,7 +7068,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 120000,
       "name": "Fish & Tits",
       "url": "https://open.spotify.com/track/2pNpsm7kW1ojADjTBlIMmS"
@@ -14538,6 +14556,28 @@
       "duration_ms": 184000,
       "name": "NIC DO STRACENIA",
       "url": "https://open.spotify.com/track/3nv37ifhZAxyTBj4mEInrI"
+    },
+    {
+      "album": {
+        "name": "NIC NIE MIJA / za tten rap",
+        "url": "https://open.spotify.com/album/2XTLtzCOSOqarqCKK40NM9"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "NIC NIE MIJA",
+      "url": "https://open.spotify.com/track/5QG98InY2TALW4heEeze5H"
     },
     {
       "album": {

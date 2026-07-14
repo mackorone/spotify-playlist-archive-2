@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 1009,
+  "num_followers": 1022,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAEISw45rRa1trfFlWvXKph3qg46jt1",
+  "snapshot_id": "AAAEI/idCd6YPtKp1L4iU8H3nZGEvMuq",
   "tracks": [
     {
       "added_at": "2026-06-05 18:13:27",
@@ -1231,6 +1231,38 @@
       "duration_ms": 182774,
       "name": "La valiente",
       "url": "https://open.spotify.com/track/7hojzEYFzsIFNcsoD8ElWD"
+    },
+    {
+      "added_at": "2026-07-13 09:19:37",
+      "album": {
+        "name": "Fomo",
+        "url": "https://open.spotify.com/album/6JSwfaJHoJzy5GTSugAv5t"
+      },
+      "artists": [
+        {
+          "name": "Marcoo",
+          "url": "https://open.spotify.com/artist/78r09t3sUYBpJSrYZqeAxb"
+        }
+      ],
+      "duration_ms": 178336,
+      "name": "Soy Bitcoin",
+      "url": "https://open.spotify.com/track/1En4oVInBsxbcnnhJqnqxM"
+    },
+    {
+      "added_at": "2026-07-13 09:19:46",
+      "album": {
+        "name": "IS IT STILL IN ME?",
+        "url": "https://open.spotify.com/album/1CnOt3j4Oxhu2Iy81TrpXJ"
+      },
+      "artists": [
+        {
+          "name": "Twmmy",
+          "url": "https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx"
+        }
+      ],
+      "duration_ms": 264047,
+      "name": "WITHOUT A RUSH",
+      "url": "https://open.spotify.com/track/6ZBbGUG2MtXgcWzfLX2KPX"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

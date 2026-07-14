@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 49 | [Nobody Knows You When You're Down and Out](https://open.spotify.com/track/4xtxGynUKSGzHdW5iZ2uQE) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 3:20 |
 | 50 | [Trouble In Mind](https://open.spotify.com/track/0c3YbzSctWakEYtmjVzlWB) | [Steve Mann](https://open.spotify.com/artist/2hcBQcl1OhkGXtcsuy2Mc1), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Steve Mann: Alive And Pickin'](https://open.spotify.com/album/2e82i0uQxkMwdJr8ASIvFe) | 3:07 |
 
-Snapshot ID: `alGHgAAAAAAZCEIFJEYgCoAWasWXsWPf`
+Snapshot ID: `alLZAAAAAABk3xFvyyIUkOrIs/wPr5KT`

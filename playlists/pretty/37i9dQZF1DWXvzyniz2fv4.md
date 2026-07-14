@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,439 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,432 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 56 | [Pegando Carona](https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Ciclo Vicioso](https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ) | 3:26 |
 | 57 | [Bate A Onda](https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37) | [Rio Santana](https://open.spotify.com/artist/3mLdH6xxrscTf2poCN9Kzy), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF) | [Bate A Onda](https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1) | 4:41 |
 | 58 | [Conexão](https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Luan LDS](https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J) | [Conexão](https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i) | 2:23 |
-| 59 | [quem dera fosse...](https://open.spotify.com/track/2kmITcoAdnL8D7YPfwgklS) | [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Léo da Bodega](https://open.spotify.com/artist/1CCSimZ4o0yIv6v7iQAh0g), [DMAX](https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ) | [quem dera fosse...](https://open.spotify.com/album/2buJ0NeUZkGf0uu4I7CjCK) | 2:49 |
-| 60 | [Proposital \(Citação Aquele Abraço\)](https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS) | [Ato 3: TODAMANHÃ](https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw) | 2:48 |
+| 59 | [Proposital \(Citação Aquele Abraço\)](https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS) | [Ato 3: TODAMANHÃ](https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw) | 2:48 |
+| 60 | [quem dera fosse...](https://open.spotify.com/track/2kmITcoAdnL8D7YPfwgklS) | [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Léo da Bodega](https://open.spotify.com/artist/1CCSimZ4o0yIv6v7iQAh0g), [DMAX](https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ) | [quem dera fosse...](https://open.spotify.com/album/2buJ0NeUZkGf0uu4I7CjCK) | 2:49 |
 
 Snapshot ID: `AAAAAFL1sGrzJ45eSkjKdipMgqLZ444B`

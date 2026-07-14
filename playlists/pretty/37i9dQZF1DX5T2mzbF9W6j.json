@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112787,
+  "num_followers": 112782,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-06-26 08:33:43",
       "album": {
-        "name": "Don't Say That",
-        "url": "https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 210048,
-      "name": "Don't Say That",
-      "url": "https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6"
-    },
-    {
-      "added_at": "2026-06-26 08:33:43",
-      "album": {
         "name": "Zoo (z filmu \"Zwierzogr\u00f3d 2\")",
         "url": "https://open.spotify.com/album/7oPKTptGg3JbF7nXYGwU6W"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 190822,
       "name": "Zoo - z filmu \"Zwierzogr\u00f3d 2\"",
       "url": "https://open.spotify.com/track/1W6AFHYh0GZpiu40atnpaS"
+    },
+    {
+      "added_at": "2026-06-26 08:33:43",
+      "album": {
+        "name": "Don't Say That",
+        "url": "https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 210048,
+      "name": "Don't Say That",
+      "url": "https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6"
     },
     {
       "added_at": "2026-06-26 08:33:43",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2026-06-26 08:33:43",
       "album": {
-        "name": "poci\u0105g bez ostatniej stacji",
-        "url": "https://open.spotify.com/album/4AAlpeTlY3hzbcQVmGms73"
-      },
-      "artists": [
-        {
-          "name": "majtis",
-          "url": "https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv"
-        },
-        {
-          "name": "4Money",
-          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
-        }
-      ],
-      "duration_ms": 144505,
-      "name": "poci\u0105g bez ostatniej stacji",
-      "url": "https://open.spotify.com/track/5fSucf8xEDuZxMBMppdeUb"
-    },
-    {
-      "added_at": "2026-06-26 08:33:43",
-      "album": {
         "name": "Przejdzie",
         "url": "https://open.spotify.com/album/3NtiIpwW1totTDtB8EH8ZR"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 225600,
       "name": "Przejdzie",
       "url": "https://open.spotify.com/track/1mX2xcAqCVkmTljZoyIryk"
+    },
+    {
+      "added_at": "2026-06-26 08:33:43",
+      "album": {
+        "name": "poci\u0105g bez ostatniej stacji",
+        "url": "https://open.spotify.com/album/4AAlpeTlY3hzbcQVmGms73"
+      },
+      "artists": [
+        {
+          "name": "majtis",
+          "url": "https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv"
+        },
+        {
+          "name": "4Money",
+          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
+        }
+      ],
+      "duration_ms": 144505,
+      "name": "poci\u0105g bez ostatniej stacji",
+      "url": "https://open.spotify.com/track/5fSucf8xEDuZxMBMppdeUb"
     },
     {
       "added_at": "2026-06-26 08:33:43",

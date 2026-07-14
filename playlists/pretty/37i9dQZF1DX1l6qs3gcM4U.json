@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Dynamo",
-  "num_followers": 247914,
+  "num_followers": 247949,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-07-10 02:36:08",
       "album": {
+        "name": "Nha Mos",
+        "url": "https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "Nha Mos",
+      "url": "https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m"
+    },
+    {
+      "added_at": "2026-07-10 02:36:08",
+      "album": {
         "name": "Totoloto",
         "url": "https://open.spotify.com/album/4WunUod6SvMME077UZtvFU"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 183396,
       "name": "Boss",
       "url": "https://open.spotify.com/track/7KvpAuRJ0Mk7V69FR5578v"
-    },
-    {
-      "added_at": "2026-07-10 02:36:08",
-      "album": {
-        "name": "Nha Mos",
-        "url": "https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "Nha Mos",
-      "url": "https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m"
     },
     {
       "added_at": "2026-07-10 02:36:08",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-07-10 02:36:08",
       "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/3N5otHQA5GL3sX9y56xOwt"
+      },
+      "artists": [
+        {
+          "name": "Avanah",
+          "url": "https://open.spotify.com/artist/4kS6NC6K4IAwuwuaAazVFY"
+        }
+      ],
+      "duration_ms": 186727,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/3zHqzrkiGN7RR1OFjcS8JZ"
+    },
+    {
+      "added_at": "2026-07-10 02:36:08",
+      "album": {
         "name": "Ilus\u00e3o",
         "url": "https://open.spotify.com/album/7KZ5tJxMCnxWo2pqyUN5Mm"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 181764,
       "name": "Ilus\u00e3o",
       "url": "https://open.spotify.com/track/795GBlhlnKl1LQvO7kYAVv"
-    },
-    {
-      "added_at": "2026-07-10 02:36:08",
-      "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/3N5otHQA5GL3sX9y56xOwt"
-      },
-      "artists": [
-        {
-          "name": "Avanah",
-          "url": "https://open.spotify.com/artist/4kS6NC6K4IAwuwuaAazVFY"
-        }
-      ],
-      "duration_ms": 186727,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/3zHqzrkiGN7RR1OFjcS8JZ"
     },
     {
       "added_at": "2026-07-10 02:36:08",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2026-07-10 02:36:08",
       "album": {
-        "name": "Vida Linda",
-        "url": "https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH"
-      },
-      "artists": [
-        {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 175346,
-      "name": "Vida Linda",
-      "url": "https://open.spotify.com/track/6PFCS07ThHLVYlOM5LeJFP"
-    },
-    {
-      "added_at": "2026-07-10 02:36:08",
-      "album": {
         "name": "Te Avisei",
         "url": "https://open.spotify.com/album/517j90MdtPA3dGrWmSGiyi"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 166153,
       "name": "Te Avisei",
       "url": "https://open.spotify.com/track/2MnGRWPN0GXLajqzxBCUqq"
+    },
+    {
+      "added_at": "2026-07-10 02:36:08",
+      "album": {
+        "name": "Vida Linda",
+        "url": "https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH"
+      },
+      "artists": [
+        {
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 175346,
+      "name": "Vida Linda",
+      "url": "https://open.spotify.com/track/6PFCS07ThHLVYlOM5LeJFP"
     },
     {
       "added_at": "2026-07-10 02:36:08",

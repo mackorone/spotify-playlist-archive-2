@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,166 likes - 96 songs - 5 hr 42 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,165 likes - 99 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,5 +104,8 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 94 | [Onomanosphere](https://open.spotify.com/track/49hjIuAb7VKotojvXPrmBd) | [TIRED](https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO) | [Onomanosphere](https://open.spotify.com/album/2dohHJ6ZCqeKfve1MqbiSA) | 2:50 |
 | 95 | [Battlefield](https://open.spotify.com/track/1K3uidXakgwiD3FgRlxZPl) | [Jakob Welding](https://open.spotify.com/artist/0qRmzN4h7LMZHoRwsLPbXe) | [a cosmic ballet](https://open.spotify.com/album/6Lsj3aJbzRacjop57eei5L) | 3:48 |
 | 96 | [S.A.D.](https://open.spotify.com/track/4qtr4X6SQU3KZcFN1E8y9e) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [S.A.D.](https://open.spotify.com/album/3hGmdAkoso8AqAaxiLNgi0) | 3:20 |
+| 97 | [Runner](https://open.spotify.com/track/3EE7VV4wxNVu0sWYtP2nid) | [Jude Watkins](https://open.spotify.com/artist/5eSjKqo8lqiGTqYYG8naMn) | [Just This Once](https://open.spotify.com/album/5esNLPl6s0u3gakmkWAvcq) | 4:30 |
+| 98 | [Let me die](https://open.spotify.com/track/3qT5QSy4iruq5xwbhj3iKd) | [Ismael Blanno](https://open.spotify.com/artist/2hibiqPMqWZo4lLy3yLXcU) | [ICDWIW](https://open.spotify.com/album/4xBR8xAPJKs3aDETzyDRde) | 2:12 |
+| 99 | [Stay \(Until i die\)](https://open.spotify.com/track/2KRhjzJS92DTaiB3RshpcP) | [Ismael Blanno](https://open.spotify.com/artist/2hibiqPMqWZo4lLy3yLXcU) | [ICDWIW](https://open.spotify.com/album/4xBR8xAPJKs3aDETzyDRde) | 3:03 |
 
-Snapshot ID: `AAAPboPW5PxJ5+AanVFYN9OEmhOoqEjn`
+Snapshot ID: `AAAPcV7hDNMBhWDFz8r1LdT3HA5DQwU5`

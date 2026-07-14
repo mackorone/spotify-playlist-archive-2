@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 66308,
+  "num_followers": 66312,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAAAWK5tnwAQZ9QzOwOBfij3A",
+  "snapshot_id": "alLZAAAAAABg1h8pSjQOoXDv3oWt9udi",
   "tracks": [
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corazonada",
-        "url": "https://open.spotify.com/album/6M2WxySETQXSq6K5QRXqyx"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "Corazonada",
-      "url": "https://open.spotify.com/track/50djfaTziNAD9lzW394lyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara [En Vivo]",
         "url": "https://open.spotify.com/album/2pYAi581eUrOxSGWMuN5dH"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 271000,
       "name": "Amor, Amor de Mis Amores (with Ximena Sari\u00f1ana) - En Vivo [Sala Telef\u00f3nica del Centro Cultural Roberto Cantoral]",
       "url": "https://open.spotify.com/track/1xUUwulH27eH1TPa1faebX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corazonada",
+        "url": "https://open.spotify.com/album/6M2WxySETQXSq6K5QRXqyx"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "Corazonada",
+      "url": "https://open.spotify.com/track/50djfaTziNAD9lzW394lyQ"
     },
     {
       "added_at": null,
@@ -955,26 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Extra\u00f1ar\u00e9",
-        "url": "https://open.spotify.com/album/1UT6WSgRQ09CY40pHslYEQ"
-      },
-      "artists": [
-        {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 196365,
-      "name": "Te Extra\u00f1ar\u00e9",
-      "url": "https://open.spotify.com/track/4jNEAv50XJge80AocPZYWB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No todo lo puedes dar",
         "url": "https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 195075,
       "name": "Fetiche",
       "url": "https://open.spotify.com/track/0x1QQhfXdWPv8GizKQuEgm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Extra\u00f1ar\u00e9",
+        "url": "https://open.spotify.com/album/1UT6WSgRQ09CY40pHslYEQ"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 196365,
+      "name": "Te Extra\u00f1ar\u00e9",
+      "url": "https://open.spotify.com/track/4jNEAv50XJge80AocPZYWB"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1313,
+  "num_followers": 1314,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAV+739z5NA8ck8aHrjxUSYmkyZ06Ev",
+  "snapshot_id": "AAAWAq9gZF1BF9K079Lb3UAkiGl03Z7r",
   "tracks": [
     {
       "added_at": "2026-07-02 22:11:30",
@@ -2623,6 +2623,118 @@
       "duration_ms": 173017,
       "name": "Loverboy",
       "url": "https://open.spotify.com/track/0tWLQ2YmQ3MoCaZkckzXkY"
+    },
+    {
+      "added_at": "2026-07-13 07:41:46",
+      "album": {
+        "name": "Vitanova",
+        "url": "https://open.spotify.com/album/4Q974cR2eM18ZwOEDFlBDL"
+      },
+      "artists": [
+        {
+          "name": "ANNAPURNA",
+          "url": "https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ"
+        }
+      ],
+      "duration_ms": 247066,
+      "name": "The ritual sound of silence",
+      "url": "https://open.spotify.com/track/0RJ2p6teIbZtKbj2y4e2Bg"
+    },
+    {
+      "added_at": "2026-07-13 07:41:49",
+      "album": {
+        "name": "Fun with Layla in Wallington",
+        "url": "https://open.spotify.com/album/2hTc0kStuvzmNsApCiLosP"
+      },
+      "artists": [
+        {
+          "name": "Quilted Snowflake",
+          "url": "https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA"
+        }
+      ],
+      "duration_ms": 163144,
+      "name": "Layla Bartle",
+      "url": "https://open.spotify.com/track/0VbH7zwCc4sdkpLeSDe7nu"
+    },
+    {
+      "added_at": "2026-07-13 07:42:03",
+      "album": {
+        "name": "disaster",
+        "url": "https://open.spotify.com/album/76FbLBSd2Zot5goToxcbHN"
+      },
+      "artists": [
+        {
+          "name": "only tears",
+          "url": "https://open.spotify.com/artist/6AaJR9N3Z2Ot4HGNdM4rlM"
+        }
+      ],
+      "duration_ms": 220642,
+      "name": "disaster",
+      "url": "https://open.spotify.com/track/0M201PbVv5MjbZkiWzCUlk"
+    },
+    {
+      "added_at": "2026-07-13 07:42:24",
+      "album": {
+        "name": "Suelto y conf\u00edo",
+        "url": "https://open.spotify.com/album/2L8Iefk4mOcE8eWhNcyr8X"
+      },
+      "artists": [
+        {
+          "name": "LuzAzuL",
+          "url": "https://open.spotify.com/artist/0zQiZWTwq8iqanSdpFSi5I"
+        }
+      ],
+      "duration_ms": 236999,
+      "name": "Suelto y conf\u00edo",
+      "url": "https://open.spotify.com/track/5drexCN3QLbB5gQOkLSwlT"
+    },
+    {
+      "added_at": "2026-07-13 15:54:00",
+      "album": {
+        "name": "Boiling Hot",
+        "url": "https://open.spotify.com/album/3MruevULXHS23YScLZkUHE"
+      },
+      "artists": [
+        {
+          "name": "Mischa Plus",
+          "url": "https://open.spotify.com/artist/7JS3DVlq1iHThu4k2OcmNh"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Boiling Hot",
+      "url": "https://open.spotify.com/track/5iNqv4rUHi27ud7mxsuOJi"
+    },
+    {
+      "added_at": "2026-07-13 15:54:25",
+      "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/0K6aF4sCLwrPe8qxwtJLLg"
+      },
+      "artists": [
+        {
+          "name": "Marty Van Wells",
+          "url": "https://open.spotify.com/artist/5Lh1aWTbIqlZtTIFwBMM1z"
+        }
+      ],
+      "duration_ms": 158011,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/0R6H2QqlJlPw4kVo2DgQk2"
+    },
+    {
+      "added_at": "2026-07-13 15:54:29",
+      "album": {
+        "name": "Peace Anthem",
+        "url": "https://open.spotify.com/album/6WEjep4YsM4MycixUtKxK9"
+      },
+      "artists": [
+        {
+          "name": "Diana Vibes Earth",
+          "url": "https://open.spotify.com/artist/0QC7leTBU5trqgGkJpJz49"
+        }
+      ],
+      "duration_ms": 101539,
+      "name": "Peace Anthem",
+      "url": "https://open.spotify.com/track/4WUfp4Fo6Rd6O9RnAd5zFd"
     }
   ],
   "unique_name": "New Indie Music",

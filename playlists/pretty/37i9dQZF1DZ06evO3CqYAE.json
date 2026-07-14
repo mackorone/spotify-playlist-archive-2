@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 14944,
+  "num_followers": 14945,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAAAGM0Qej/L48BivkYVRxWZr",
+  "snapshot_id": "alLZAAAAAAA6ZT9MgElGqrBQd8VPZv8U",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Doing of the Lord",
-        "url": "https://open.spotify.com/album/0UMzdsiWTh6HOPeQ0m3Twe"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "The Doing of the Lord",
-      "url": "https://open.spotify.com/track/5dp5WKKU2t3TZ3LWl9Ehz3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Man Of Galilee",
         "url": "https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 334393,
       "name": "More Than Gold (feat. Mercy Chinwo)",
       "url": "https://open.spotify.com/track/7ImaABjt1NzhwO9KhABkG4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Doing of the Lord",
+        "url": "https://open.spotify.com/album/0UMzdsiWTh6HOPeQ0m3Twe"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "The Doing of the Lord",
+      "url": "https://open.spotify.com/track/5dp5WKKU2t3TZ3LWl9Ehz3"
     },
     {
       "added_at": null,
@@ -383,22 +383,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taking Care",
-        "url": "https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd"
+        "name": "The Bank Statements",
+        "url": "https://open.spotify.com/album/7gXl3kRiPWnC53m50neX1D"
       },
       "artists": [
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
         },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 222315,
-      "name": "Taking Care - Remix",
-      "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
+      "duration_ms": 265168,
+      "name": "Selense",
+      "url": "https://open.spotify.com/track/7pIVgLpDDIF7oAt7YNhGx0"
     },
     {
       "added_at": null,
@@ -423,22 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bank Statements",
-        "url": "https://open.spotify.com/album/7gXl3kRiPWnC53m50neX1D"
+        "name": "Taking Care",
+        "url": "https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd"
       },
       "artists": [
         {
-          "name": "Banky W.",
-          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 265168,
-      "name": "Selense",
-      "url": "https://open.spotify.com/track/7pIVgLpDDIF7oAt7YNhGx0"
+      "duration_ms": 222315,
+      "name": "Taking Care - Remix",
+      "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Overwhelming Victory",
-        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 504108,
-      "name": "My Lover - Live",
-      "url": "https://open.spotify.com/track/7DdZb0zDfmg7dXGsUICh2E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Okemmuo (The Spirit of the Spirit)",
         "url": "https://open.spotify.com/album/2hPoJ6ylg4KRyaWV7Qa832"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 354986,
       "name": "Okemmuo (The Spirit of the Spirit)",
       "url": "https://open.spotify.com/track/2B5bl6TenrogNpxgdCIPTw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Overwhelming Victory",
+        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 504108,
+      "name": "My Lover - Live",
+      "url": "https://open.spotify.com/track/7DdZb0zDfmg7dXGsUICh2E"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Overwhelming Victory",
-        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 613764,
-      "name": "Oke Mmiri - Live",
-      "url": "https://open.spotify.com/track/4qLYAlR2b0uwvNTtOapmFF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Birth of Revival",
         "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 629497,
       "name": "Who Is on the Lord's Side",
       "url": "https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Overwhelming Victory",
+        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 613764,
+      "name": "Oke Mmiri - Live",
+      "url": "https://open.spotify.com/track/4qLYAlR2b0uwvNTtOapmFF"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's The Season (Live Performance)",
-        "url": "https://open.spotify.com/album/4sfiFXIHYJj2FINtFPjFPu"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 1944960,
-      "name": "It's The Season (Live Performance)",
-      "url": "https://open.spotify.com/track/2vSs0nmmOyJ6wMt35kH3PA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oyoyo Chukwu",
         "url": "https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 317986,
       "name": "Oyoyo Chukwu",
       "url": "https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's The Season (Live Performance)",
+        "url": "https://open.spotify.com/album/4sfiFXIHYJj2FINtFPjFPu"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 1944960,
+      "name": "It's The Season (Live Performance)",
+      "url": "https://open.spotify.com/track/2vSs0nmmOyJ6wMt35kH3PA"
     },
     {
       "added_at": null,

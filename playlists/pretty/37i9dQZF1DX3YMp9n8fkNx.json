@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: No Doubt",
-  "num_followers": 1513714,
+  "num_followers": 1513853,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Resident Alien",
-        "url": "https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A"
-      },
-      "artists": [
-        {
-          "name": "Spacehog",
-          "url": "https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ"
-        }
-      ],
-      "duration_ms": 299506,
-      "name": "In the Meantime",
-      "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 190320,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Resident Alien",
+        "url": "https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A"
+      },
+      "artists": [
+        {
+          "name": "Spacehog",
+          "url": "https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ"
+        }
+      ],
+      "duration_ms": 299506,
+      "name": "In the Meantime",
+      "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "As Ugly As It Gets: The Very Best Of",
-        "url": "https://open.spotify.com/album/5oukrASJpumQ9tUHxgK5Kj"
+        "name": "Odelay",
+        "url": "https://open.spotify.com/album/3PpTsdpZmaLUh6RvViu9G7"
       },
       "artists": [
         {
-          "name": "Ugly Kid Joe",
-          "url": "https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 255160,
-      "name": "Everything About You",
-      "url": "https://open.spotify.com/track/1O2ACd0zg4GYgQRhLBGYDV"
+      "duration_ms": 192933,
+      "name": "Devils Haircut",
+      "url": "https://open.spotify.com/track/7h69nvFshbhUpesEXBPH0w"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Odelay",
-        "url": "https://open.spotify.com/album/3PpTsdpZmaLUh6RvViu9G7"
+        "name": "As Ugly As It Gets: The Very Best Of",
+        "url": "https://open.spotify.com/album/5oukrASJpumQ9tUHxgK5Kj"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Ugly Kid Joe",
+          "url": "https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf"
         }
       ],
-      "duration_ms": 192933,
-      "name": "Devils Haircut",
-      "url": "https://open.spotify.com/track/7h69nvFshbhUpesEXBPH0w"
+      "duration_ms": 255160,
+      "name": "Everything About You",
+      "url": "https://open.spotify.com/track/1O2ACd0zg4GYgQRhLBGYDV"
     },
     {
       "added_at": "2024-06-26 02:07:58",

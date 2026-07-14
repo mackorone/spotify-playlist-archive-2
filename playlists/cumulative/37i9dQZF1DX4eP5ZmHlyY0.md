@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: PSYCHIC FEVER from EXILE TRIBE
 
-1,044 songs - 2 day 8 hr 40 min
+1,046 songs - 2 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Don't Tell Nobody](https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [Don't Tell Nobody](https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN) | 2:53 | 2024-08-20 | 2025-01-06 |
 | [Donkey Gongs](https://open.spotify.com/track/5dEqcmor35aN7xwbupzDqz) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [H⁺](https://open.spotify.com/album/0GoIL3ApSF3ttfO1U367bJ) | 3:35 | 2024-11-26 | 2025-03-10 |
 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 | 2025-05-15 | 2025-10-21 |
+| [DOWN WITH IT](https://open.spotify.com/track/52VfQZtkilOzX9khwY5aHM) | [DAILY:DIRECTION](https://open.spotify.com/artist/7tEX36hrHuwMnHXrZUkzx7) | [MONKEY MODE](https://open.spotify.com/album/5uOZbWLWrFLPTShywsJC3b) | 2:41 | 2026-07-13 |  |
 | [Downforce](https://open.spotify.com/track/5JdT5kFwFoM3SSYSwRT9d3) | [SUPER★DRAGON](https://open.spotify.com/artist/2O86rYMEuvyrkOhyooK87W) | [Downforce](https://open.spotify.com/album/0FBtOBWbZ8leLwZLjgkslc) | 3:27 | 2024-09-10 | 2024-10-02 |
 | [DRAW+ing](https://open.spotify.com/track/4gcGVSVzZPnCeBt3Be1bmQ) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [DRAW+ing](https://open.spotify.com/album/54O5v1GtPDAeGMTw3lCG82) | 3:24 | 2024-06-04 | 2024-07-10 |
 | [Dream With Us](https://open.spotify.com/track/4MNxZZl9iyLRvz9n1kHSEg) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Dream With Us](https://open.spotify.com/album/1MKVIZSSI1346mVoBiLAy1) | 2:48 | 2026-06-12 |  |
@@ -437,6 +438,7 @@
 | [Keep on Moving](https://open.spotify.com/track/4nS2rDbFUcvcrNoTEQFJJM) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe \(Japanese Ver.\) / Keep on Moving \-Special Edition\-](https://open.spotify.com/album/5tyosIYVnbP67FGL9o8Xx6) | 3:06 | 2024-08-22 | 2024-09-25 |
 | [Keep on Moving \(Korean Version\)](https://open.spotify.com/track/1yxwMcQCslhKvGHA4OnNaj) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Keep on Moving \(Korean Version\)](https://open.spotify.com/album/4q1Pmz0UWvz6LoiNF6q63r) | 3:06 | 2024-09-24 | 2024-10-16 |
 | [KEYVITUP](https://open.spotify.com/track/5BKwXFDUy903O85ATXdu5e) | [KEYVITUP](https://open.spotify.com/artist/5t5DHjgbcPnJGZJyz3YCnv) | [1ST EP ALBUM \[KEYVITUP\]](https://open.spotify.com/album/4LP65OY24zeyZRNd4GxhCH) | 2:38 | 2026-04-09 |  |
+| [Kids Return](https://open.spotify.com/track/0R6FvzEYhEzeE2q03EfXWI) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<itsnotover>](https://open.spotify.com/album/2J0bo8DrmROWhOzHltbUyn) | 3:06 | 2026-07-13 |  |
 | [KILL SHOT](https://open.spotify.com/track/0E2uBfka0bJQjzco0OGjgT) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [KILL SHOT](https://open.spotify.com/album/1ZNVbLc6DaYeY5F3QJVUGx) | 3:12 | 2026-04-20 | 2026-06-16 |
 | [Killa](https://open.spotify.com/track/4KwBjOcDve0jQrvD9eQljz) | [ENJIN](https://open.spotify.com/artist/1xO6BVi6M8m2Q2O1EE7oEC) | [Inception](https://open.spotify.com/album/5qb6vswL32wO47scCrZ7EL) | 3:24 | 2024-06-12 | 2024-07-10 |
 | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs) | 2:28 | 2025-06-13 | 2025-11-19 |

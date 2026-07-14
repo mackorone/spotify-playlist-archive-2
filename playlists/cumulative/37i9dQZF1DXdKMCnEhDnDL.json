@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 158961,
       "name": "Buut Vrij",
       "url": "https://open.spotify.com/track/3QPg1dEGWflIOjyFQyho8i"
@@ -2040,6 +2040,24 @@
       "duration_ms": 181066,
       "name": "De Kapitein Deel II",
       "url": "https://open.spotify.com/track/3lhpOjOF3GZsjNFgMhHtgb"
+    },
+    {
+      "album": {
+        "name": "lieve monsters: epiloog",
+        "url": "https://open.spotify.com/album/6xMq7H65IFjuxIJ5JWLnmr"
+      },
+      "artists": [
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204184,
+      "name": "de laatste zomer",
+      "url": "https://open.spotify.com/track/38CzuqJ1HtzsPinaZLmNy7"
     },
     {
       "album": {
@@ -2898,7 +2916,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 172533,
       "name": "Get It Right",
       "url": "https://open.spotify.com/track/4eycOJZ9ofGW7iqm1QEaDJ"
@@ -4770,7 +4788,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 109564,
       "name": "Kan Niet Alleen",
       "url": "https://open.spotify.com/track/07Ps9tTIpjvErfsyNM2sev"
@@ -7287,6 +7305,28 @@
     },
     {
       "album": {
+        "name": "Safe and Sound",
+        "url": "https://open.spotify.com/album/4ww7KYNPOFZBtP60Mj7hPq"
+      },
+      "artists": [
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        },
+        {
+          "name": "Oscar and the Wolf",
+          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193766,
+      "name": "Safe and Sound",
+      "url": "https://open.spotify.com/track/1rPiYTqwFEgpIw9F1Anu0d"
+    },
+    {
+      "album": {
         "name": "Safe Haven",
         "url": "https://open.spotify.com/album/0ZdOm1pVd7bilAbWTrLeYw"
       },
@@ -8940,7 +8980,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 197204,
       "name": "Voor Je \u2018t Weet",
       "url": "https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD"

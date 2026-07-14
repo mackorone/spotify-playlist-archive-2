@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcND7hNAhMeu.md) - [plain]
 
 > Geleceğin seslerini dinle! Kapak: Melis Karaduman
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,345 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,354 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sonum Ol](https://open.spotify.com/track/3waipLozRiAKg6Ad0o40xg) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Sonum Ol](https://open.spotify.com/album/0x5Cz4GC7HnNmvr6kUmJx5) | 3:39 |
 | 2 | [Alıştım](https://open.spotify.com/track/3JTIs7oWHrhfJ9zmF7ALzR) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Alıştım](https://open.spotify.com/album/7LrRZONcEPYPRDvwLC1U8M) | 2:57 |
 | 3 | [Son Perde](https://open.spotify.com/track/6qWXNfRL7ygjONnrPPzALQ) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Son Perde](https://open.spotify.com/album/3UyAJFP27NQabY22Te3UuA) | 3:23 |
-| 4 | [N'olur Gelsen](https://open.spotify.com/track/7gh5AmydKfR9wfTQOyRZrP) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [N'olur Gelsen](https://open.spotify.com/album/1LRfz2siYTDHkYfZNkGDEr) | 2:48 |
+| 4 | [N'olur Gelsen](https://open.spotify.com/track/7gh5AmydKfR9wfTQOyRZrP) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK), [Gizem Orhan](https://open.spotify.com/artist/6NuJHmxmFEempARh9fp3qy) | [N'olur Gelsen](https://open.spotify.com/album/1LRfz2siYTDHkYfZNkGDEr) | 2:48 |
 | 5 | [Bİ DAHA DÖNMEM](https://open.spotify.com/track/4HzcajLTN9Nr0Bml0coNbv) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [Bİ DAHA DÖNMEM](https://open.spotify.com/album/1TKonbiCF4nE7pW7AVfC2w) | 2:31 |
 | 6 | [YENİ BİRİ](https://open.spotify.com/track/0wx08CQnNntQhnkhEq9h2r) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [YENİ BİRİ](https://open.spotify.com/album/14ZzDyIYf5mBua5zRnIldK) | 2:33 |
 | 7 | [YARINIMIZ OLMAYACAK](https://open.spotify.com/track/3cbMUX9OhGmAFeLybYcaMn) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [YARINIMIZ OLMAYACAK](https://open.spotify.com/album/3vVSHVhbyBvY9TdlnFGt1b) | 2:34 |

@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Igor",
-  "num_followers": 11440,
+  "num_followers": 11444,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Winterkind",
-        "url": "https://open.spotify.com/album/2zwHRzS6FnqAuMR4NKyE0P"
-      },
-      "artists": [
-        {
-          "name": "Lindi",
-          "url": "https://open.spotify.com/artist/5Hvge2fZ3VfkwUhXaXCnpR"
-        }
-      ],
-      "duration_ms": 165818,
-      "name": "Winterkind",
-      "url": "https://open.spotify.com/track/3EAK7oSLalIonAaeiLAYGm"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Boterham",
         "url": "https://open.spotify.com/album/2gs4DAtbdobe6Zc0WEYXoO"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 127562,
       "name": "Boterham",
       "url": "https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Winterkind",
+        "url": "https://open.spotify.com/album/2zwHRzS6FnqAuMR4NKyE0P"
+      },
+      "artists": [
+        {
+          "name": "Lindi",
+          "url": "https://open.spotify.com/artist/5Hvge2fZ3VfkwUhXaXCnpR"
+        }
+      ],
+      "duration_ms": 165818,
+      "name": "Winterkind",
+      "url": "https://open.spotify.com/track/3EAK7oSLalIonAaeiLAYGm"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -595,38 +595,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Vliegen",
-        "url": "https://open.spotify.com/album/5qKq0ApO977tSmvGzIuH3H"
-      },
-      "artists": [
-        {
-          "name": "Maxime",
-          "url": "https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Vliegen",
-      "url": "https://open.spotify.com/track/62aJj3DjAJtvU1hri0d27h"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "GEEN BEEST",
-        "url": "https://open.spotify.com/album/43Il7EpL8sGI4rN9hDxwCk"
-      },
-      "artists": [
-        {
-          "name": "Elmer",
-          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
-        }
-      ],
-      "duration_ms": 145536,
-      "name": "GEEN BEEST",
-      "url": "https://open.spotify.com/track/3u3qtlVYVfEkzcci4E5v8l"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Bang Dat Ik Spring",
         "url": "https://open.spotify.com/album/0Cpxp6XmrxJjmTsb1MJwn2"
       },
@@ -647,6 +615,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
+        "name": "GEEN BEEST",
+        "url": "https://open.spotify.com/album/43Il7EpL8sGI4rN9hDxwCk"
+      },
+      "artists": [
+        {
+          "name": "Elmer",
+          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
+        }
+      ],
+      "duration_ms": 145536,
+      "name": "GEEN BEEST",
+      "url": "https://open.spotify.com/track/3u3qtlVYVfEkzcci4E5v8l"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
         "name": "Vlammen!",
         "url": "https://open.spotify.com/album/5ttJNiwtPhkCMzLz9YlGOE"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 165586,
       "name": "Vlammen!",
       "url": "https://open.spotify.com/track/2GXZ1LZ1Br2cUyMudL6vBa"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Vliegen",
+        "url": "https://open.spotify.com/album/5qKq0ApO977tSmvGzIuH3H"
+      },
+      "artists": [
+        {
+          "name": "Maxime",
+          "url": "https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Vliegen",
+      "url": "https://open.spotify.com/track/62aJj3DjAJtvU1hri0d27h"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "GEEN TITEL",
-        "url": "https://open.spotify.com/album/3hioypt7zKgNZT5JTUwXsx"
-      },
-      "artists": [
-        {
-          "name": "Ploegendienst",
-          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
-        }
-      ],
-      "duration_ms": 152413,
-      "name": "CONFLICT",
-      "url": "https://open.spotify.com/track/6rhUciq7H7uz6WjEckuk0S"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Nederland",
         "url": "https://open.spotify.com/album/45DRLkQnQCjxiPDLrK0x63"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 184666,
       "name": "Nederland",
       "url": "https://open.spotify.com/track/6lByEnaXlZS78u7YxvKEF4"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "GEEN TITEL",
+        "url": "https://open.spotify.com/album/3hioypt7zKgNZT5JTUwXsx"
+      },
+      "artists": [
+        {
+          "name": "Ploegendienst",
+          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
+        }
+      ],
+      "duration_ms": 152413,
+      "name": "CONFLICT",
+      "url": "https://open.spotify.com/track/6rhUciq7H7uz6WjEckuk0S"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -779,26 +779,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Niemandsland",
-        "url": "https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll"
-      },
-      "artists": [
-        {
-          "name": "Ploegendienst",
-          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
-        },
-        {
-          "name": "Willem",
-          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
-        }
-      ],
-      "duration_ms": 165210,
-      "name": "Niemandsland",
-      "url": "https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "IJSLAND 2",
         "url": "https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 199371,
       "name": "TIJDSGEEST",
       "url": "https://open.spotify.com/track/3uKQQH67pV4dsJIR6SML8z"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Niemandsland",
+        "url": "https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll"
+      },
+      "artists": [
+        {
+          "name": "Ploegendienst",
+          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
+        },
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        }
+      ],
+      "duration_ms": 165210,
+      "name": "Niemandsland",
+      "url": "https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa"
     },
     {
       "added_at": "2026-05-28 11:50:51",

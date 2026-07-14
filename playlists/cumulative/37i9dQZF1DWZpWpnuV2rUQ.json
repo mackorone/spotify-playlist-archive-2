@@ -508,7 +508,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 177361,
       "name": "alguien que yo no es",
       "url": "https://open.spotify.com/track/6bNKsd0yqRy9GNOBr8H3X5"
@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 184040,
       "name": "Breed",
       "url": "https://open.spotify.com/track/3PyPpABRA2bTGhNwPd66H6"
@@ -3254,7 +3254,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 246428,
       "name": "Dichavate",
       "url": "https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa"
@@ -4615,6 +4615,28 @@
     },
     {
       "album": {
+        "name": "Friendzone :(",
+        "url": "https://open.spotify.com/album/4G18IcvRUvmo2sFZh598ka"
+      },
+      "artists": [
+        {
+          "name": "slimesanti",
+          "url": "https://open.spotify.com/artist/7m6juwK6xeE8csPoZ5MGK6"
+        },
+        {
+          "name": "Slurgwurf",
+          "url": "https://open.spotify.com/artist/1ruGNNrOEDDDP6hgi8a12q"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102524,
+      "name": "Friendzone :(",
+      "url": "https://open.spotify.com/track/7B2hUSC5sb8tJIRkXvktu9"
+    },
+    {
+      "album": {
         "name": "NO ME OLVIDES",
         "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
       },
@@ -5208,7 +5230,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 223013,
       "name": "honeybee",
       "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
@@ -5234,6 +5256,24 @@
       "duration_ms": 198495,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
+    },
+    {
+      "album": {
+        "name": "Tierra de Campeones",
+        "url": "https://open.spotify.com/album/5x8nm1g0z1w9rOTnEZtH9v"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114482,
+      "name": "Hoy juega la Argentina",
+      "url": "https://open.spotify.com/track/5ReBBT7pfIHs8IwShZ5nJA"
     },
     {
       "album": {
@@ -5743,6 +5783,42 @@
     },
     {
       "album": {
+        "name": "Estilo R'S",
+        "url": "https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153923,
+      "name": "La Cheyenne",
+      "url": "https://open.spotify.com/track/290ilxF4OsghfGWMV9OZNd"
+    },
+    {
+      "album": {
+        "name": "La Cuarta Estrella (Versi\u00f3n Hinchada)",
+        "url": "https://open.spotify.com/album/3u1Qtnb3qTJmnRxCxxUtNi"
+      },
+      "artists": [
+        {
+          "name": "PALMITO",
+          "url": "https://open.spotify.com/artist/4dNjHVtAnfP7CSXm0VJu8v"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135270,
+      "name": "La Cuarta Estrella (Versi\u00f3n Hinchada)",
+      "url": "https://open.spotify.com/track/1QPjHLJWBXvE5Ymck4wtfW"
+    },
+    {
+      "album": {
         "name": "LA CUEVA",
         "url": "https://open.spotify.com/album/26dJWqDIdIY9iAmntxjOiR"
       },
@@ -5758,6 +5834,24 @@
       "duration_ms": 164318,
       "name": "LA CUEVA",
       "url": "https://open.spotify.com/track/14vcO1XwnWzz4RJnUAQSkW"
+    },
+    {
+      "album": {
+        "name": "Cumbia Villera",
+        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251146,
+      "name": "La Cumbia De Los Trapos",
+      "url": "https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS"
     },
     {
       "album": {
@@ -10251,6 +10345,24 @@
     },
     {
       "album": {
+        "name": "Hoy Quiero So\u00f1ar",
+        "url": "https://open.spotify.com/album/5VsY1xpqMRKAfECE19ZFaa"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211626,
+      "name": "Qu\u00e9 Me Van A Hablar De Amor",
+      "url": "https://open.spotify.com/track/53e9kK5U7udi2SqDzaEIVv"
+    },
+    {
+      "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
       },
@@ -10632,7 +10744,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 209000,
       "name": "RUN IT",
       "url": "https://open.spotify.com/track/0ZYs2sRaCVomWCYP2PGH1j"
@@ -11832,7 +11944,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 184365,
       "name": "TERMINA EL VERANO",
       "url": "https://open.spotify.com/track/2AvxgWxUzNaym9kjtHoqRW"
@@ -12072,6 +12184,24 @@
       "duration_ms": 225000,
       "name": "Tiene",
       "url": "https://open.spotify.com/track/1KfiYYMCZkP7no8DdkXFDl"
+    },
+    {
+      "album": {
+        "name": "Tierra de Campeones",
+        "url": "https://open.spotify.com/album/5x8nm1g0z1w9rOTnEZtH9v"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166497,
+      "name": "Tierra de Campeones ( Pa' los jugadores)",
+      "url": "https://open.spotify.com/track/0stkQt5poZVs82AOMNPzF6"
     },
     {
       "album": {
@@ -12734,7 +12864,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 166666,
       "name": "Un Cachito de Luz - Versi\u00f3n Deluxe",
       "url": "https://open.spotify.com/track/0UJvn3UQWBSOh4Aj171Zoa"
@@ -13286,7 +13416,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 194068,
       "name": "VOY A DISPARARME",
       "url": "https://open.spotify.com/track/1Xv6fhX3Dg12XdP92Xb9jA"
@@ -13764,7 +13894,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 196516,
       "name": "Yo no soy esa Julieta",
       "url": "https://open.spotify.com/track/43nbhltYvSgh05Mfq26BuE"

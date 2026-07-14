@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,294 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,307 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 35 | [Corner Of My Sky](https://open.spotify.com/track/0Kx5mnfoluqEcrZmQDin6m) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Inner Song](https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz) | 7:27 |
 | 36 | [Love in Constant Spectacle](https://open.spotify.com/track/15EzGKqgmv2DJqrZ64tWM3) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [Love in Constant Spectacle](https://open.spotify.com/album/7JQueQibvRMgQ6gHRpUOpd) | 4:17 |
 | 37 | [Snapdragon](https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:12 |
-| 38 | [Deux Paradis](https://open.spotify.com/track/5rpm1ugQFOy1X76YvVFmEO) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Deux Paradis](https://open.spotify.com/album/4uwHuTOND0nzdivw2yuqtG) | 4:33 |
-| 39 | [Afternoon X](https://open.spotify.com/track/3DdKYu9en4HzWUdg98bB9Z) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Afternoon X](https://open.spotify.com/album/6yUptnHXA1lRp48hWzXsUl) | 4:06 |
+| 38 | [Afternoon X](https://open.spotify.com/track/3DdKYu9en4HzWUdg98bB9Z) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Afternoon X](https://open.spotify.com/album/6yUptnHXA1lRp48hWzXsUl) | 4:06 |
+| 39 | [Deux Paradis](https://open.spotify.com/track/5rpm1ugQFOy1X76YvVFmEO) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Deux Paradis](https://open.spotify.com/album/4uwHuTOND0nzdivw2yuqtG) | 4:33 |
 | 40 | [Billowing](https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk) | [Hiro Ama](https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ), [Keeley Forsyth](https://open.spotify.com/artist/3b0YRaadaoMwK4STNVeHGF) | [Music for Peace and Harmony](https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW) | 4:35 |
 | 41 | [Løveskatt](https://open.spotify.com/track/00nk5f2eHeKQpmXCJY1Hll) | [Ora the Molecule](https://open.spotify.com/artist/6RQoLyY1nkArRcNc3sE86m) | [Løveskatt](https://open.spotify.com/album/4brikg7YkZMYyXuIIQptE1) | 4:47 |
 | 42 | [Follow The Light](https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Follow The Light](https://open.spotify.com/album/6v2rqiNIvp8wpwjuM52ea6) | 2:39 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 52 | [WILLING](https://open.spotify.com/track/2hf3RcWaexBbDBuUfY4QfD) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [WILLING](https://open.spotify.com/album/0Ye4lZJZJor3sJj4uAEOYE) | 3:03 |
 | 53 | [Evening Mood](https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Evening Mood](https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu) | 6:24 |
 | 54 | [It's In Our Hands](https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L) | [MEMORIALS](https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP) | [Music For Film: Women Against The Bomb](https://open.spotify.com/album/3h5hrCfmIHXQcxZYUnfE85) | 3:32 |
-| 55 | [Anónima](https://open.spotify.com/track/08dAkGmUKmkmj4BJ3hCpfB) | [Titanic](https://open.spotify.com/artist/0R4GqPzobzIMpRgEKJ4c5i), [I la Católica](https://open.spotify.com/artist/2rCybFFmfZAOrBwGA8L7Nu), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Vidrio](https://open.spotify.com/album/0fkpb1L4tISjGSYzjRkWOv) | 4:37 |
-| 56 | [Dry](https://open.spotify.com/track/2WejiOMM6ja5WM28Zu2qTu) | [Geneva Jacuzzi](https://open.spotify.com/artist/0Z7IzQYoiuCJIDI2c9EHxG) | [Triple Fire](https://open.spotify.com/album/1qiM88pXnw52LRZDzOmpA3) | 3:37 |
+| 55 | [Dry](https://open.spotify.com/track/2WejiOMM6ja5WM28Zu2qTu) | [Geneva Jacuzzi](https://open.spotify.com/artist/0Z7IzQYoiuCJIDI2c9EHxG) | [Triple Fire](https://open.spotify.com/album/1qiM88pXnw52LRZDzOmpA3) | 3:37 |
+| 56 | [Anónima](https://open.spotify.com/track/08dAkGmUKmkmj4BJ3hCpfB) | [Titanic](https://open.spotify.com/artist/0R4GqPzobzIMpRgEKJ4c5i), [I la Católica](https://open.spotify.com/artist/2rCybFFmfZAOrBwGA8L7Nu), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Vidrio](https://open.spotify.com/album/0fkpb1L4tISjGSYzjRkWOv) | 4:37 |
 | 57 | [Big Appetite](https://open.spotify.com/track/4XPlKxzm2My7efFgFbsomR) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/0jlrYQZy6lkuIN0mYgxLfS) | 5:16 |
 | 58 | [Windows Open](https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm) | [Maps](https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2) | [Counter Melodies](https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs) | 5:18 |
 | 59 | [thieves](https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [thieves](https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7) | 2:58 |

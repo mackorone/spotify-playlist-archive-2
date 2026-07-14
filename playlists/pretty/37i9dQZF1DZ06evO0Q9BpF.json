@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 51300,
+  "num_followers": 51310,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAAAdbblcaVPasJBC6/MmqhPt",
+  "snapshot_id": "alLZAAAAAAB9DDYR2yt/B4yq4qQRAv87",
   "tracks": [
     {
       "added_at": null,
@@ -468,21 +468,17 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         },
         {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
         },
         {
           "name": "Stefy Espinosa",
           "url": "https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
         }
       ],
-      "duration_ms": 749184,
-      "name": "Sana Nuestra Naci\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/54JLF5PHpMTt0TmbjhNmEW"
+      "duration_ms": 341208,
+      "name": "Es por Fe - En Vivo",
+      "url": "https://open.spotify.com/track/3V10K6i8e0LSTybqb5NpWb"
     },
     {
       "added_at": null,
@@ -556,17 +552,21 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         },
         {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
         },
         {
           "name": "Stefy Espinosa",
           "url": "https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
         }
       ],
-      "duration_ms": 341208,
-      "name": "Es por Fe - En Vivo",
-      "url": "https://open.spotify.com/track/3V10K6i8e0LSTybqb5NpWb"
+      "duration_ms": 749184,
+      "name": "Sana Nuestra Naci\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/54JLF5PHpMTt0TmbjhNmEW"
     },
     {
       "added_at": null,
@@ -995,42 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo De Dios",
-        "url": "https://open.spotify.com/album/3K7duNwXAJJSVfFCudKEaw"
-      },
-      "artists": [
-        {
-          "name": "MISSION MUSICA",
-          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
-        },
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 347128,
-      "name": "El Hijo De Dios",
-      "url": "https://open.spotify.com/track/2CsDJMbMwyS4JvpfoWcj5F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
-        "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 342227,
-      "name": "Hacedor De Milagros",
-      "url": "https://open.spotify.com/track/3cITpsmVQMnBq0RX6EXfEW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Obra de Tu Amor",
         "url": "https://open.spotify.com/album/6XYbEcqn7QcbLlJbfwdbS2"
       },
@@ -1059,6 +1023,42 @@
       "duration_ms": 276480,
       "name": "Cantar de Tu Amor - En Vivo",
       "url": "https://open.spotify.com/track/1x6LGbZbGFm8PYl8QDuVC1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
+        "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 342227,
+      "name": "Hacedor De Milagros",
+      "url": "https://open.spotify.com/track/3cITpsmVQMnBq0RX6EXfEW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Hijo De Dios",
+        "url": "https://open.spotify.com/album/3K7duNwXAJJSVfFCudKEaw"
+      },
+      "artists": [
+        {
+          "name": "MISSION MUSICA",
+          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
+        },
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 347128,
+      "name": "El Hijo De Dios",
+      "url": "https://open.spotify.com/track/2CsDJMbMwyS4JvpfoWcj5F"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Introducing RADAR Philippines Cast of 2026\. Cover: Kenaniah
 
-345 songs - 20 hr 24 min
+346 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Alam Mo Ba Girl](https://open.spotify.com/track/57Z7lSnhwx82laEb6rdZPB) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:43 | 2024-04-02 | 2025-03-28 |
 | [All These Ladies](https://open.spotify.com/track/4IziPWd0KztwFIRzPw1Ahy) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [All These Ladies](https://open.spotify.com/album/0ZJrY2IPQAJdqPDaTPsEpQ) | 3:47 | 2025-06-23 | 2026-04-07 |
 | [Alphamart](https://open.spotify.com/track/31lMscTTCcX8AJF6uLYxUy) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Halabyu](https://open.spotify.com/album/2OPCyTjalGPWV3a4wAViOD) | 2:57 | 2025-11-17 | 2026-04-07 |
+| [Amoeba](https://open.spotify.com/track/1z3yelL9joxerhXDqG96vy) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Amoeba](https://open.spotify.com/album/7c17U6VtyH0xRoWqfDcKrn) | 3:16 | 2026-07-13 |  |
 | [An Art Gallery Could Never Be As Unique As You](https://open.spotify.com/track/22Nd3GuO7sHopPjdKccRcq) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [An Art Gallery Could Never Be As Unique As You](https://open.spotify.com/album/0FRaoawfqep3bJcCqcQZpD) | 2:38 | 2022-03-24 | 2023-04-14 |
 | [Andito Lang](https://open.spotify.com/track/1vexzmQHWgUxeHds1ICxV5) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Andito Lang](https://open.spotify.com/album/4Ekyc9KGDcQumJUo9vyJuF) | 2:46 | 2025-03-27 | 2026-04-07 |
 | [Ang Galing DITO](https://open.spotify.com/track/0LAX5IcN1i2aDWXqW0Tsap) | [DITO Telecommunity](https://open.spotify.com/artist/5dvhvdiS3UKaAJ74swZo8H), [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Ang Galing DITO](https://open.spotify.com/album/0SlJFK6OHKamPywLwROwaI) | 2:24 | 2024-02-21 | 2024-04-03 |

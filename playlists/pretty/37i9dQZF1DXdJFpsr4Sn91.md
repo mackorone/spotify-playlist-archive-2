@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. 🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,954 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,943 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 26 | [Economy PLUS](https://open.spotify.com/track/0QEasyD0inY0gmEMkXvHuV) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Economy PLUS](https://open.spotify.com/album/35oWqxJND9YW6bM2Xu1Irf) | 3:00 |
 | 27 | [Kuka nauraa nyt](https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Kuka nauraa nyt](https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX) | 2:55 |
 | 28 | [Jokaisen hymyn takana](https://open.spotify.com/track/5EJNi9EF4ut1vFNo0ygJsl) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Jokaisen hymyn takana](https://open.spotify.com/album/35TYpcFr95oXYfYJnTlxBu) | 3:08 |
-| 29 | [Vesipisaroiden valssi \(feat\. KAUKUA\)](https://open.spotify.com/track/7e64QPpNIC6pMFvabkY06u) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [22](https://open.spotify.com/album/0WlCOa1ThY86YsJWRcCfxg) | 2:54 |
-| 30 | [Vanhoja muistellaan](https://open.spotify.com/track/28KgsaQJPjbYKTDltlE9gK) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [Vanhoja muistellaan](https://open.spotify.com/album/2dkIJyXn7PDW2P0GzcGtza) | 2:48 |
+| 29 | [Vanhoja muistellaan](https://open.spotify.com/track/28KgsaQJPjbYKTDltlE9gK) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [Vanhoja muistellaan](https://open.spotify.com/album/2dkIJyXn7PDW2P0GzcGtza) | 2:48 |
+| 30 | [Vesipisaroiden valssi \(feat\. KAUKUA\)](https://open.spotify.com/track/7e64QPpNIC6pMFvabkY06u) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [22](https://open.spotify.com/album/0WlCOa1ThY86YsJWRcCfxg) | 2:54 |
 | 31 | [Limee ja suolaa](https://open.spotify.com/track/7Lg9ofCGw4UUYXPKyTpzRp) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Limee ja suolaa](https://open.spotify.com/album/3Pl188gepWX1HVKonTwAUl) | 3:13 |
 | 32 | [Pelkkä kirosana](https://open.spotify.com/track/2LnXnh1HRlznaDtf5LrFOa) | [helmi marleena](https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK) | [Pelkkä kirosana](https://open.spotify.com/album/69BJtiqmsfk2WkiuImEEYY) | 3:12 |
 | 33 | [Sitkeä sissi](https://open.spotify.com/track/559VRxeQbrr7IwPbxW9tA5) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Sitkeä sissi](https://open.spotify.com/album/4fcI6itldeexoAtP8JRULT) | 3:01 |
-| 34 | [Sinä ja se poitsu](https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh) | [SANNI](https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze) | [Sinä ja se poitsu](https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg) | 3:03 |
-| 35 | [Vähän rahaa, paljon rakkautta](https://open.spotify.com/track/2BYgh7jz3huleibaQgAFun) | [Olli Halonen](https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts) | [Vähän rahaa, paljon rakkautta](https://open.spotify.com/album/2CJrdfV8OIxbMBEZExvzWv) | 2:49 |
+| 34 | [Vähän rahaa, paljon rakkautta](https://open.spotify.com/track/2BYgh7jz3huleibaQgAFun) | [Olli Halonen](https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts) | [Vähän rahaa, paljon rakkautta](https://open.spotify.com/album/2CJrdfV8OIxbMBEZExvzWv) | 2:49 |
+| 35 | [Sinä ja se poitsu](https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh) | [SANNI](https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze) | [Sinä ja se poitsu](https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg) | 3:03 |
 | 36 | [Mun vuoro luovuttaa](https://open.spotify.com/track/7rQi8Vc7X68hNyvrNkt1Po) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Mun vuoro luovuttaa](https://open.spotify.com/album/6V6cqP9X5yHqX4r2xea1Wc) | 2:40 |
 | 37 | [Hullu nainen](https://open.spotify.com/track/2G5KUqFFdIQKq0bXsxt4p4) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Hullu nainen](https://open.spotify.com/album/1WBwJFbYM4G9EqEOvBrt8n) | 2:57 |
 | 38 | [Eläköön elämä](https://open.spotify.com/track/5UmUoihlRQHchy2bt59YsL) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv), [Sonja Lumme](https://open.spotify.com/artist/0crt6CiHJXQXnL4zdHmwrS) | [Eläköön elämä](https://open.spotify.com/album/6e01m6cB2ym4pYjW6eRx89) | 3:19 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 47 | [Terälehti](https://open.spotify.com/track/7qOfaHhszShFogrKzTcudQ) | [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Terälehti](https://open.spotify.com/album/27dC1j8a4OPjwgD71idjJr) | 2:28 |
 | 48 | [Teatterii](https://open.spotify.com/track/7unJcils43dvDrUjadoyI5) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [Teatterii](https://open.spotify.com/album/7E5wNdC3AtJNchnf83KoLL) | 2:39 |
 | 49 | [Rockstar \(feat\. Janna\)](https://open.spotify.com/track/5KWylYB9XbM8X0oQY2zvqR) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3) | [Rockstar \(feat\. Janna\)](https://open.spotify.com/album/4RvjDCkML2vMayyXsofQKZ) | 2:54 |
-| 50 | [Running Through My Head](https://open.spotify.com/track/1o88DMOCUYqQC2AQM824gV) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Running Through My Head](https://open.spotify.com/album/1Tap373TJJ0bN1YzMohbXj) | 2:39 |
-| 51 | [en tunne](https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt) | [Ella Herold](https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM) | [en tunne](https://open.spotify.com/album/6cDfwvDCGoGFCPRb5A4FHb) | 3:01 |
+| 50 | [en tunne](https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt) | [Ella Herold](https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM) | [en tunne](https://open.spotify.com/album/6cDfwvDCGoGFCPRb5A4FHb) | 3:01 |
+| 51 | [Running Through My Head](https://open.spotify.com/track/1o88DMOCUYqQC2AQM824gV) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Running Through My Head](https://open.spotify.com/album/1Tap373TJJ0bN1YzMohbXj) | 2:39 |
 | 52 | [Jussi \(feat\. Jaakko Kulta\)](https://open.spotify.com/track/0QVaSbyIo8jPzrkU5exmE0) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO), [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [2000](https://open.spotify.com/album/5lzkzJ8wSkUqUFSpiTgEDc) | 2:52 |
 | 53 | [Sulhanen](https://open.spotify.com/track/0xbCCH7Gw9AmPBd1deLoDT) | [Aleksanteri Hakaniemi](https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi) | [Sulhanen](https://open.spotify.com/album/5FzkvrMQ05Q46wHqCYZz30) | 2:42 |
 | 54 | [Jengi tekee sen virheen](https://open.spotify.com/track/7792JXlYkHSXvk8bPUFUOa) | [Pilven Piirtäjät](https://open.spotify.com/artist/2TXeAvWZHD0hW66yk5SZ2t) | [Jengi tekee sen virheen](https://open.spotify.com/album/5dDfkrgcQ6nkqDiOhVCH96) | 3:00 |

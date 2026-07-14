@@ -1,12 +1,12 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49199,
+  "num_followers": 49201,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAAAPiBtMj4Y9OE9GzquzUccJ",
+  "snapshot_id": "alLZAAAAAABuinBrk3/j5VRfY0RtCFw7",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Taste So Good (The Cann Song)",
+        "url": "https://open.spotify.com/album/46hhmMspdSlJaGjAVv4VXG"
+      },
+      "artists": [
+        {
+          "name": "VINCINT",
+          "url": "https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 155975,
+      "name": "Taste So Good (The Cann Song)",
+      "url": "https://open.spotify.com/track/5QfungSRYsaCetJfRdazI3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bang! (feat. Hayley Kiyoko - AhhHaa Remix)",
         "url": "https://open.spotify.com/album/5DtvtNJSg3QbMhPXOKBI04"
       },
@@ -663,34 +691,6 @@
       "duration_ms": 167433,
       "name": "luna",
       "url": "https://open.spotify.com/track/4rCiYKROPDRqMGKX0zSGEo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Taste So Good (The Cann Song)",
-        "url": "https://open.spotify.com/album/46hhmMspdSlJaGjAVv4VXG"
-      },
-      "artists": [
-        {
-          "name": "VINCINT",
-          "url": "https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd"
-        },
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 155975,
-      "name": "Taste So Good (The Cann Song)",
-      "url": "https://open.spotify.com/track/5QfungSRYsaCetJfRdazI3"
     },
     {
       "added_at": null,

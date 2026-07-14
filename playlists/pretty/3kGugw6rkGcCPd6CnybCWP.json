@@ -1,12 +1,12 @@
 {
   "description": "Celebrating individuality within independent music",
-  "num_followers": 1166,
+  "num_followers": 1165,
   "original_name": "INDI(E)VIDUAL",
   "owner": {
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAPboPW5PxJ5+AanVFYN9OEmhOoqEjn",
+  "snapshot_id": "AAAPcV7hDNMBhWDFz8r1LdT3HA5DQwU5",
   "tracks": [
     {
       "added_at": "2026-05-06 11:42:58",
@@ -1575,6 +1575,54 @@
       "duration_ms": 200470,
       "name": "S.A.D.",
       "url": "https://open.spotify.com/track/4qtr4X6SQU3KZcFN1E8y9e"
+    },
+    {
+      "added_at": "2026-07-13 11:09:10",
+      "album": {
+        "name": "Just This Once",
+        "url": "https://open.spotify.com/album/5esNLPl6s0u3gakmkWAvcq"
+      },
+      "artists": [
+        {
+          "name": "Jude Watkins",
+          "url": "https://open.spotify.com/artist/5eSjKqo8lqiGTqYYG8naMn"
+        }
+      ],
+      "duration_ms": 270048,
+      "name": "Runner",
+      "url": "https://open.spotify.com/track/3EE7VV4wxNVu0sWYtP2nid"
+    },
+    {
+      "added_at": "2026-07-13 11:09:23",
+      "album": {
+        "name": "ICDWIW",
+        "url": "https://open.spotify.com/album/4xBR8xAPJKs3aDETzyDRde"
+      },
+      "artists": [
+        {
+          "name": "Ismael Blanno",
+          "url": "https://open.spotify.com/artist/2hibiqPMqWZo4lLy3yLXcU"
+        }
+      ],
+      "duration_ms": 132765,
+      "name": "Let me die",
+      "url": "https://open.spotify.com/track/3qT5QSy4iruq5xwbhj3iKd"
+    },
+    {
+      "added_at": "2026-07-13 11:09:25",
+      "album": {
+        "name": "ICDWIW",
+        "url": "https://open.spotify.com/album/4xBR8xAPJKs3aDETzyDRde"
+      },
+      "artists": [
+        {
+          "name": "Ismael Blanno",
+          "url": "https://open.spotify.com/artist/2hibiqPMqWZo4lLy3yLXcU"
+        }
+      ],
+      "duration_ms": 183542,
+      "name": "Stay (Until i die)",
+      "url": "https://open.spotify.com/track/2KRhjzJS92DTaiB3RshpcP"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

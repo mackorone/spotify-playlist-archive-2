@@ -1,6 +1,6 @@
 {
   "description": "Indie jams that sound like lounging under the sun with friends. ",
-  "num_followers": 531942,
+  "num_followers": 531915,
   "original_name": "Park Hangs",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-01-20 16:17:11",
       "album": {
-        "name": "Starfucker",
-        "url": "https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ"
-      },
-      "artists": [
-        {
-          "name": "STRFKR",
-          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-        }
-      ],
-      "duration_ms": 173693,
-      "name": "Rawnald Gregory Erickson the Second",
-      "url": "https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j"
-    },
-    {
-      "added_at": "2026-01-20 16:17:11",
-      "album": {
         "name": "If This Isn\u2019t Nice, I Don\u2019t Know What Is",
         "url": "https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 139293,
       "name": "Window",
       "url": "https://open.spotify.com/track/42Fm8hxhh8i0Zx0Si7XIxd"
+    },
+    {
+      "added_at": "2026-01-20 16:17:11",
+      "album": {
+        "name": "Starfucker",
+        "url": "https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "duration_ms": 173693,
+      "name": "Rawnald Gregory Erickson the Second",
+      "url": "https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j"
     },
     {
       "added_at": "2026-01-20 16:17:11",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2026-01-20 16:17:11",
       "album": {
-        "name": "Blame My Ex",
-        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        },
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 173975,
-      "name": "My Body ft Your Lips",
-      "url": "https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR"
-    },
-    {
-      "added_at": "2026-01-20 16:17:11",
-      "album": {
         "name": "Early",
         "url": "https://open.spotify.com/album/5Q7XISk90DAYHFghAvKYI9"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 193934,
       "name": "Early",
       "url": "https://open.spotify.com/track/6AcFiVsHvDtat3rmHNK2Nf"
+    },
+    {
+      "added_at": "2026-01-20 16:17:11",
+      "album": {
+        "name": "Blame My Ex",
+        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        },
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 173975,
+      "name": "My Body ft Your Lips",
+      "url": "https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR"
     },
     {
       "added_at": "2026-01-20 16:17:11",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-01-20 16:17:11",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/7yf6qu9oeomPuI8p3FHjCP"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 230310,
-      "name": "Keep On Calling",
-      "url": "https://open.spotify.com/track/35nfO92JtV6Nhv3CgHpS7P"
-    },
-    {
-      "added_at": "2026-01-20 16:17:11",
-      "album": {
         "name": "Boyhood",
         "url": "https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 189624,
       "name": "Boyhood",
       "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
+    },
+    {
+      "added_at": "2026-01-20 16:17:11",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/7yf6qu9oeomPuI8p3FHjCP"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 230310,
+      "name": "Keep On Calling",
+      "url": "https://open.spotify.com/track/35nfO92JtV6Nhv3CgHpS7P"
     },
     {
       "added_at": "2026-01-20 16:17:11",

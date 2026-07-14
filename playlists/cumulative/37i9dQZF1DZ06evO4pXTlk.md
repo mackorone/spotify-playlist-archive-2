@@ -4,7 +4,7 @@
 
 > This is The XCERTS\. The essential tracks, all in one playlist.
 
-115 songs - 6 hr 22 min
+117 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,8 +29,9 @@
 | [Crisis in the Slow Lane](https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 4:22 | 2022-09-16 |  |
 | [Cry](https://open.spotify.com/track/52vsw5MbrxfOWRaDWn6va9) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 5:44 | 2022-09-16 | 2022-10-09 |
 | [Daydream](https://open.spotify.com/track/4ZJRoFTNJzcA1KKJgxncvu) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 2:26 | 2022-09-16 |  |
-| [Distant Memory](https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 4:30 | 2022-09-16 | 2026-07-12 |
-| [do it to myself](https://open.spotify.com/track/1i58DuUI4xULMspCDEG7f7) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [do it to myself](https://open.spotify.com/album/7rvGnG8H4j5yT3cUph6REB) | 3:16 | 2026-01-30 |  |
+| [Distant Memory](https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 4:30 | 2022-09-16 |  |
+| [do it to myself](https://open.spotify.com/track/05mZ4vAbzyGFAeiqGOJEKS) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [i think i want to go home now.](https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl) | 3:15 | 2026-07-14 |  |
+| [do it to myself](https://open.spotify.com/track/1i58DuUI4xULMspCDEG7f7) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [do it to myself](https://open.spotify.com/album/7rvGnG8H4j5yT3cUph6REB) | 3:16 | 2026-01-30 | 2026-07-14 |
 | [Do You Feel Safe?](https://open.spotify.com/track/71B1fNBwSnln85JuY4bTh3) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 3:32 | 2022-09-16 |  |
 | [Drag Me Out](https://open.spotify.com/track/1mxA1LEz7XZ5IS78LBdWCJ) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2) | 2:47 | 2024-09-05 | 2025-12-09 |
 | [Drag Me Out](https://open.spotify.com/track/5MmCBut3K1DS3SJtjVDluN) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/6GrsEsTOh0Pb56iQMIe0qe) | 2:47 | 2023-08-19 | 2024-09-01 |
@@ -59,9 +60,9 @@
 | [I Don't Care](https://open.spotify.com/track/6GcSXnHXutP7pjnJIEclny) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 3:52 | 2022-09-16 | 2022-11-22 |
 | [I Scare Easy](https://open.spotify.com/track/4X3bochi0tHmuob5vBWMlE) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:22 | 2024-01-27 | 2026-03-31 |
 | [I See Things Differently](https://open.spotify.com/track/4t7u79jvGHrhr0sh5SrSuD) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 4:22 | 2022-09-17 | 2024-08-22 |
-| [i think i want to go home now.](https://open.spotify.com/track/5xInzoe4I4IZEbpQezGBoC) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [i think i want to go home now.](https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl) | 0:51 | 2026-07-12 |  |
+| [i think i want to go home now.](https://open.spotify.com/track/5xInzoe4I4IZEbpQezGBoC) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [i think i want to go home now.](https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl) | 0:51 | 2026-07-12 | 2026-07-14 |
 | [I Wanna Be Sedated](https://open.spotify.com/track/29p7YwJIPrek6T2dwrrVwK) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [So No One Told You Life Was Gonna Be This Way](https://open.spotify.com/album/7Dubvhg0cRoqLSb3TVKfHg) | 2:32 | 2022-10-12 | 2026-02-01 |
-| [in your eyes](https://open.spotify.com/track/1Lex0gvGPc1895VBluRjv5) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [in your eyes](https://open.spotify.com/album/4jtdFDvahvr1hhEOsV2BWr) | 5:17 | 2026-03-13 |  |
+| [in your eyes](https://open.spotify.com/track/1Lex0gvGPc1895VBluRjv5) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [in your eyes](https://open.spotify.com/album/4jtdFDvahvr1hhEOsV2BWr) | 5:17 | 2026-03-13 | 2026-07-14 |
 | [Inbetween Days](https://open.spotify.com/track/1nnXpxZyF7ule644vVi1RZ) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [So No One Told You Life Was Gonna Be This Way](https://open.spotify.com/album/7Dubvhg0cRoqLSb3TVKfHg) | 2:51 | 2022-10-12 | 2026-04-28 |
 | [Inhale \(her\)](https://open.spotify.com/track/58PNAiIBCBLZDe3ZFSiS7b) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2) | 1:21 | 2024-10-25 | 2025-06-29 |
 | [Inhale \(her\)](https://open.spotify.com/track/668hsMtswySyHQqZAWMyDp) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/6GrsEsTOh0Pb56iQMIe0qe) | 1:21 | 2023-08-19 | 2024-07-24 |
@@ -97,7 +98,8 @@
 | [pretty ugly](https://open.spotify.com/track/6DcwcXgTaxY4lHeHJVT14c) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [pretty ugly](https://open.spotify.com/album/4in7sttZpgJwqxNXhVdKVb) | 3:03 | 2026-04-24 |  |
 | [Ready to Call](https://open.spotify.com/track/5ie3gZHgWj0Tip7YxJFTn6) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Ready to Call](https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS) | 3:39 | 2022-09-16 |  |
 | [Real Love](https://open.spotify.com/track/5lfjKinwOHkwLfExvzMOLI) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Wildheart Dreaming](https://open.spotify.com/album/66OUu51LrvQjuywPP78Itc) | 3:12 | 2022-09-16 | 2025-07-18 |
-| [rinse repeat](https://open.spotify.com/track/1pUxWIbU2SKcXSWEpo7You) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [rinse repeat](https://open.spotify.com/album/3jpF6GsJvKU6tOHgIYK6E0) | 3:35 | 2026-05-22 |  |
+| [rinse repeat](https://open.spotify.com/track/1pUxWIbU2SKcXSWEpo7You) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [rinse repeat](https://open.spotify.com/album/3jpF6GsJvKU6tOHgIYK6E0) | 3:35 | 2026-05-22 | 2026-07-14 |
+| [rinse repeat](https://open.spotify.com/track/6MjPqcnMFAumdddQ802SmO) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [i think i want to go home now.](https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl) | 3:35 | 2026-07-14 |  |
 | [Ruin My Life \(feat\. Murray Macleod\)](https://open.spotify.com/track/6MiQvf0yzfKwLg0nPOWIYU) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y), [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5), [Murray Macleod](https://open.spotify.com/artist/4Cat1aWfF7A4bJLkIsFXtQ) | [Ruin My Life \(feat\. Murray Macleod\)](https://open.spotify.com/album/5Knzryo0fl9c15kTCHOIY8) | 3:34 | 2026-01-15 |  |
 | [Say Yes](https://open.spotify.com/track/4Bglz77Z736LzNpBCQrE2M) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Stairs to Noise: The Scatterbrain](https://open.spotify.com/album/0nge5MyzEgVNZnc4OPg518) | 2:11 | 2022-10-12 | 2023-11-11 |
 | [Scatterbrain](https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:15 | 2022-09-18 | 2026-07-12 |

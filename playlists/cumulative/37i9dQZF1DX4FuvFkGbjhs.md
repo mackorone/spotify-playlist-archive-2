@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Kelela
 
-911 songs - 2 day 4 hr 37 min
+912 songs - 2 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 | 2024-06-27 | 2024-07-27 |
 | [Echo From The Flames](https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Full Circle](https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U) | 4:11 | 2026-03-27 |  |
 | [eko \- Edit](https://open.spotify.com/track/2LpAgQiBOnkhx2MS5Cpg9F) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [eko](https://open.spotify.com/album/7eKyBS8bK0jnfIWByYDrzB) | 2:01 | 2024-10-24 | 2025-01-24 |
-| [Eleanor](https://open.spotify.com/track/4x9RLHwtUvN2zchIJt7F3W) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Where The Waves Break](https://open.spotify.com/album/6R1xCzolR17w5pJWFKHHeu) | 4:26 | 2026-07-09 |  |
+| [Eleanor](https://open.spotify.com/track/4x9RLHwtUvN2zchIJt7F3W) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Where The Waves Break](https://open.spotify.com/album/6R1xCzolR17w5pJWFKHHeu) | 4:26 | 2026-07-09 | 2026-07-14 |
 | [Electric Children](https://open.spotify.com/track/1x9GBKUXIqBH1DYc9C5PvS) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:26 | 2024-10-24 | 2025-01-24 |
 | [Elevate](https://open.spotify.com/track/5iWNskrPocMh7z8CwUBSRe) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Elevate](https://open.spotify.com/album/1g3eES9s4NjqIYbdhmqXVr) | 3:05 | 2024-11-15 | 2025-01-24 |
 | [Elk Skin](https://open.spotify.com/track/34gdkFDYWeqyqr8u7KSrWD) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Elk Skin](https://open.spotify.com/album/5twIZTmDYO9d7awAUvVRkV) | 2:52 | 2024-06-27 | 2024-07-05 |
@@ -383,6 +383,7 @@
 | [I Had a Dream She Took My Hand](https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [I Had a Dream She Took My Hand](https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw) | 3:40 | 2026-02-13 |  |
 | [I Imagine \(with Hope Tala\)](https://open.spotify.com/track/430rbHunIAZUcA9Cy2ymU5) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [I Imagine \(with Hope Tala\)](https://open.spotify.com/album/0piQOFAI3t9FjSP3re0Bp9) | 2:23 | 2025-07-04 | 2025-08-15 |
 | [I Know You'd Kill](https://open.spotify.com/track/44rqdhvXIFXY30GPejON8Y) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [I Know You'd Kill](https://open.spotify.com/album/4Q3C0YpuMPVrIO857IZqGD) | 2:54 | 2025-03-21 | 2025-06-06 |
+| [i let the sun back in](https://open.spotify.com/track/00OaYHmBjzIPSEnUI0q1lO) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [i let the sun back in](https://open.spotify.com/album/4LKiBILBoGF9LbkgkpVnwL) | 2:26 | 2026-07-09 |  |
 | [I Like It I Like It](https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [I Like It I Like It](https://open.spotify.com/album/1xJLW4FSiXsJEhGq15s3oU) | 4:10 | 2025-05-08 | 2025-11-08 |
 | [I Look for You](https://open.spotify.com/track/3bfPZagJDhGPzmUJiX19VU) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Acts of Faith](https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU) | 3:11 | 2024-12-27 | 2025-03-21 |
 | [I Need U](https://open.spotify.com/track/1j5OPlPaNAvWL9mgis4lur) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [So Far South](https://open.spotify.com/album/0QVZNjVqsLenILPinmltYG) | 3:46 | 2025-09-04 | 2025-10-17 |

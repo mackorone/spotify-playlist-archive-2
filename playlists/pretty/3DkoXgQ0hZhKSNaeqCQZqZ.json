@@ -6,8 +6,28 @@
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFhw3w6a9oy5iBfZhcPAvT2eEDoEg4",
+  "snapshot_id": "AAAFiFWYRzNcB5MTe7DpprKz+MxsnXTk",
   "tracks": [
+    {
+      "added_at": "2026-07-13 06:02:32",
+      "album": {
+        "name": "Down Down Down",
+        "url": "https://open.spotify.com/album/0GJGtyGJLXSdUqDJf4mQed"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        },
+        {
+          "name": "OodleZz",
+          "url": "https://open.spotify.com/artist/2eCpXBK9mnqr6o9TydXu98"
+        }
+      ],
+      "duration_ms": 217148,
+      "name": "Down Down Down",
+      "url": "https://open.spotify.com/track/6u9Nn6X2eqhrtyzoG296kc"
+    },
     {
       "added_at": "2026-06-30 21:58:18",
       "album": {

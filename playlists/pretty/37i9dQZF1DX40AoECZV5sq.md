@@ -1,0 +1,35 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AoECZV5sq.md) - [plain](/playlists/plain/37i9dQZF1DX40AoECZV5sq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX40AoECZV5sq)
+
+### [멋진 신세계 \(My Royal Nemesis\)](https://open.spotify.com/playlist/37i9dQZF1DX40AoECZV5sq)
+
+> 드라마 대사와 함께 더 몰입감 있게 작품의 사운드 트랙을 감상해보세요\. \(Immerse yourself in the soundtrack alongside iconic lines from the drama.\)
+
+[Spotify](https://open.spotify.com/user/spotify) - 1,597 likes - 23 songs - 1 hr 1 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [대사\(Line\) \- 하여튼](https://open.spotify.com/track/6kBzWIxR0bWryZEJmYwjGz) | [멋진 신세계 \(My Royal Nemesis\)](https://open.spotify.com/artist/3Y6U9dOFrQoAJuWRra44VQ) | [멋진 신세계 \(My Royal Nemesis\)](https://open.spotify.com/album/3xhvkOv0onLMSLPPi5d4aP) | 0:27 |
+| 2 | [Anyway \(My Royal Nemesis : Original Television Soundtrack\)](https://open.spotify.com/track/4zfsEYbKqAvhQqD78nUyF8) | [Nam Jong](https://open.spotify.com/artist/4655rSqMQf3JSjo47WNB7z) | [My Royal Nemesis, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/4L5vMqic0O0DRXQNYToYcN) | 3:29 |
+| 3 | [대사 \(Line\) \- 다시 돌아온 계절](https://open.spotify.com/track/3hQzuKWkXwlFTrdMpt5KFD) | [멋진 신세계 \(My Royal Nemesis\)](https://open.spotify.com/artist/3Y6U9dOFrQoAJuWRra44VQ) | [멋진 신세계 \(My Royal Nemesis\)](https://open.spotify.com/album/3xhvkOv0onLMSLPPi5d4aP) | 0:27 |
+| 4 | [Season of Us \(My Royal Nemesis : Original Television Soundtrack\)](https://open.spotify.com/track/4psgarxEXbzJjShiFkTmcW) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [My Royal Nemesis, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5KSZzsfMDQ8vr59JvvKVkm) | 3:36 |
+| 5 | [대사 \(Line\) \- 마음을 놓치다](https://open.spotify.com/track/2a6zm9okWnjbMkwWtts5Ue) | [멋진 신세계 \(My Royal Nemesis\)](https://open.spotify.com/artist/3Y6U9dOFrQoAJuWRra44VQ) | [멋진 신세계 \(My Royal Nemesis\)](https://open.spotify.com/album/3xhvkOv0onLMSLPPi5d4aP) | 0:24 |
+| 6 | [Losing My Heart \(My Royal Nemesis : Original Television Soundtrack\)](https://open.spotify.com/track/4IL6AzRjCOpn9xsx17mgxP) | [Gwyn Dorado](https://open.spotify.com/artist/7pZ42lLRSlDnoPCfINXCn9) | [My Royal Nemesis, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/1DK4Aphy9qSEZTjSdnFHXD) | 4:50 |
+| 7 | [대사 \(Line\) \- Universe](https://open.spotify.com/track/4mQE3K04qV6TzlfjZSeeGh) | [멋진 신세계 \(My Royal Nemesis\)](https://open.spotify.com/artist/3Y6U9dOFrQoAJuWRra44VQ) | [멋진 신세계 \(My Royal Nemesis\)](https://open.spotify.com/album/3xhvkOv0onLMSLPPi5d4aP) | 0:19 |
+| 8 | [Universe \(My Royal Nemesis : Original Television Soundtrack\)](https://open.spotify.com/track/66tEwz44nZoJZQWyWTNpTJ) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [My Royal Nemesis, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3MSwoxBCSsLQlc7n2GhUuU) | 3:07 |
+| 9 | [대사 \(Line\) \- 조용한 기적](https://open.spotify.com/track/31hsI7CnqIkSm3cCATh56B) | [멋진 신세계 \(My Royal Nemesis\)](https://open.spotify.com/artist/3Y6U9dOFrQoAJuWRra44VQ) | [멋진 신세계 \(My Royal Nemesis\)](https://open.spotify.com/album/3xhvkOv0onLMSLPPi5d4aP) | 0:32 |
+| 10 | [Everyday Miracle \(My Royal Nemesis : Original Television Soundtrack\)](https://open.spotify.com/track/6OYNTeGf3UU0kAHWogRr1k) | [Seo Ja Yeong](https://open.spotify.com/artist/21MtEORMs0VrLY1Gy4JXIN) | [My Royal Nemesis, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/2UGunzTucuEAIZK1sSjajG) | 4:03 |
+| 11 | [대사 \(Line\) \- Into You](https://open.spotify.com/track/7b2IQIiHccnbYiN0QfMU5r) | [멋진 신세계 \(My Royal Nemesis\)](https://open.spotify.com/artist/3Y6U9dOFrQoAJuWRra44VQ) | [멋진 신세계 \(My Royal Nemesis\)](https://open.spotify.com/album/3xhvkOv0onLMSLPPi5d4aP) | 0:38 |
+| 12 | [Into You \(My Royal Nemesis : Original Television Soundtrack\)](https://open.spotify.com/track/4rC5blu7XZkF1ApNpVsFWe) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [My Royal Nemesis, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/09Vr5ucAzWoETt4EzqmLsb) | 2:58 |
+| 13 | [대사 \(Line\) \- 바래진 말들](https://open.spotify.com/track/3U5L1xITiztURcNveGmgLh) | [멋진 신세계 \(My Royal Nemesis\)](https://open.spotify.com/artist/3Y6U9dOFrQoAJuWRra44VQ) | [멋진 신세계 \(My Royal Nemesis\)](https://open.spotify.com/album/3xhvkOv0onLMSLPPi5d4aP) | 0:27 |
+| 14 | [Faded Words \(My Royal Nemesis : Original Television Soundtrack\)](https://open.spotify.com/track/6vgarqZvEEzWUgCK45gCfz) | [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [My Royal Nemesis, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/39eE2rHfiTrxv6SPVCHdFY) | 4:06 |
+| 15 | [Falling in Line \(My Royal Nemesis : Original Television Soundtrack\)](https://open.spotify.com/track/0OtK6k5NcvgIydAUpv8arD) | [Seo Ja Yeong](https://open.spotify.com/artist/21MtEORMs0VrLY1Gy4JXIN) | [My Royal Nemesis Special All Track \(Original Soundtrack\)](https://open.spotify.com/album/6LWdvDYQJ77aUbLM1AnHjA) | 4:03 |
+| 16 | [When You Wish Upon a Star](https://open.spotify.com/track/1WrPa4lrIddctGWAIYYfP9) | [Cliff Edwards](https://open.spotify.com/artist/0aeRagbqQCOKkVURrvcMrn), [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Pinocchio](https://open.spotify.com/album/5zsAzctyWGNrchLWXFvKgz) | 3:15 |
+| 17 | [Red Brick House](https://open.spotify.com/track/3AjYC7fC2otH5SgtxnjDUE) | [Nam Jong](https://open.spotify.com/artist/4655rSqMQf3JSjo47WNB7z) | [Red Brick House](https://open.spotify.com/album/2QcbOTx7gEoX5zW6NOtYX1) | 3:32 |
+| 18 | [이것밖에는 없다 nothing but](https://open.spotify.com/track/3cEri8HtxeuJdzEZp3N3j9) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Letters with notes](https://open.spotify.com/album/1ycrrYiqueL6KJBbc1PtE2) | 3:21 |
+| 19 | [Purple Love \(Barney\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/6S3xm0W5b146P2WcOomxBJ) | [Gwyn Dorado](https://open.spotify.com/artist/7pZ42lLRSlDnoPCfINXCn9) | [FAMOUS](https://open.spotify.com/album/2XLImKK2rDKE1bqzza0NSv) | 3:50 |
+| 20 | [Today's Mood](https://open.spotify.com/track/7LcgHOeLcMbAMu48Abqtqt) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/0H24UcLRQFp2iihdvpQQ20) | 3:45 |
+| 21 | [On the Trail](https://open.spotify.com/track/3Qm9BDf1KlyYM4A2U5hIHI) | [Seo Ja Yeong](https://open.spotify.com/artist/21MtEORMs0VrLY1Gy4JXIN) | [Naro](https://open.spotify.com/album/2uot082JkflqGXkjWO2OIj) | 4:01 |
+| 22 | [TOUGH LOVE](https://open.spotify.com/track/0JWu3QkeitDCsiSTohLcc0) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [TOUGH LOVE](https://open.spotify.com/album/5eyN4dfPRJEAVU7paiAYsA) | 2:37 |
+| 23 | [I Was Young And I Wanted To Say I Was Sorry](https://open.spotify.com/track/30owTe5uaJg0njiSWLgR8X) | [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [I Was Young And I Wanted To Say I Was Sorry](https://open.spotify.com/album/1b5gUogKYDGooCkPByNtwc) | 3:10 |
+
+Snapshot ID: `AAAAAKzpnZgc5rSW9qfZrDskPkJaxr/Q`

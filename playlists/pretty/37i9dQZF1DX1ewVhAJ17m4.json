@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Lina-Mariah",
-  "num_followers": 604402,
+  "num_followers": 604438,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-07-03 12:33:21",
       "album": {
+        "name": "MOON",
+        "url": "https://open.spotify.com/album/5cUf1ovfEUKU3ZwcwXHzLB"
+      },
+      "artists": [
+        {
+          "name": "04 Limited Sazabys",
+          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
+        }
+      ],
+      "duration_ms": 166986,
+      "name": "magnet",
+      "url": "https://open.spotify.com/track/2HwweciLv84LZCPguyDpi4"
+    },
+    {
+      "added_at": "2026-07-03 12:33:21",
+      "album": {
         "name": "Still There\u2019s a Glow",
         "url": "https://open.spotify.com/album/6Xx2GugbRprNzLpleBpepd"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 203444,
       "name": "Give or Take",
       "url": "https://open.spotify.com/track/1WqcU47Rm0e94bWzltV4vl"
-    },
-    {
-      "added_at": "2026-07-03 12:33:21",
-      "album": {
-        "name": "MOON",
-        "url": "https://open.spotify.com/album/5cUf1ovfEUKU3ZwcwXHzLB"
-      },
-      "artists": [
-        {
-          "name": "04 Limited Sazabys",
-          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
-        }
-      ],
-      "duration_ms": 166986,
-      "name": "magnet",
-      "url": "https://open.spotify.com/track/2HwweciLv84LZCPguyDpi4"
     },
     {
       "added_at": "2026-07-03 12:33:21",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-07-03 12:33:21",
       "album": {
-        "name": "Moments Before The Wind",
-        "url": "https://open.spotify.com/album/3PFZyu1ND2jxImmSSonOng"
-      },
-      "artists": [
-        {
-          "name": "Free Throw",
-          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
-        }
-      ],
-      "duration_ms": 189915,
-      "name": "MissingNo.",
-      "url": "https://open.spotify.com/track/2jJkqTRSJ9EHIGQXckDW20"
-    },
-    {
-      "added_at": "2026-07-03 12:33:21",
-      "album": {
         "name": "So Happy",
         "url": "https://open.spotify.com/album/5hR4oE1YAVdj8QzfaLQpCp"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 173783,
       "name": "So Happy",
       "url": "https://open.spotify.com/track/2wjhT6w7H9Myc7oT3A5Wnj"
+    },
+    {
+      "added_at": "2026-07-03 12:33:21",
+      "album": {
+        "name": "Moments Before The Wind",
+        "url": "https://open.spotify.com/album/3PFZyu1ND2jxImmSSonOng"
+      },
+      "artists": [
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        }
+      ],
+      "duration_ms": 189915,
+      "name": "MissingNo.",
+      "url": "https://open.spotify.com/track/2jJkqTRSJ9EHIGQXckDW20"
     },
     {
       "added_at": "2026-07-03 12:33:21",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2026-07-03 12:33:21",
       "album": {
-        "name": "Whatever",
-        "url": "https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt"
+        "name": "Take What You Want",
+        "url": "https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw"
       },
       "artists": [
         {
-          "name": "Lina-Mariah",
-          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
         }
       ],
-      "duration_ms": 168552,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi"
+      "duration_ms": 146703,
+      "name": "Take What You Want",
+      "url": "https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

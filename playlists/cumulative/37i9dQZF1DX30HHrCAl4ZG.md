@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Finn Wolfhard
 
-2,193 songs - 5 day 4 hr 18 min
+2,194 songs - 5 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1950,6 +1950,7 @@
 | [Think Nothing](https://open.spotify.com/track/2beHFbJTzHSDZ9smRsq9TK) | [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [Think Nothing](https://open.spotify.com/album/1pW4u5dnjaMZVMJHR4oIZ6) | 3:31 | 2022-06-25 | 2022-08-27 |
 | [This Is Life](https://open.spotify.com/track/79EYgUv9JojcgVVEJXdPbI) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu), [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn), [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [This is Life](https://open.spotify.com/album/25g1BNalfJaZflKcyuANmz) | 3:32 | 2024-06-28 | 2024-10-19 |
 | [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 | 2025-07-18 | 2026-01-17 |
+| [This Song May Or May Not Be About An Alt\-Right Influencer](https://open.spotify.com/track/5qxkkQtRam7a6ktD1gl4ZZ) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [This Song May Or May Not Be About An Alt\-Right Influencer](https://open.spotify.com/album/4eX7HvaDELkp9wwaOSuL1G) | 2:42 | 2026-07-13 |  |
 | [This Time](https://open.spotify.com/track/1n6kvOFn2qK5iTS5QJcaAV) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [This Time](https://open.spotify.com/album/4MD1aVgYMaer9QktxqHJQU) | 3:01 | 2024-03-01 | 2024-04-06 |
 | [Thrift Store](https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Thrift Store](https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ) | 2:14 | 2025-02-07 | 2025-03-08 |
 | [Through My Teeth](https://open.spotify.com/track/1HPjqA8j8yVb4DoqD7dJpx) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Through My Teeth](https://open.spotify.com/album/4x7Jd8pLbRyJdhuIrlhnBZ) | 3:25 | 2025-04-11 | 2025-06-28 |

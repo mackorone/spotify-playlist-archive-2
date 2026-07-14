@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Lili Forest 木子
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Deb Fan
 
-1,704 songs - 4 day 0 hr 26 min
+1,707 songs - 4 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Among Us](https://open.spotify.com/track/3ocUbbOV84SoQ3SspSLvXn) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [Among Us](https://open.spotify.com/album/5jO1w6shmYBeaTLOmPZ39J) | 4:55 | 2024-06-20 | 2024-11-15 |
 | [And The Darkness](https://open.spotify.com/track/1a4cJ6ElAAsZXc1UUsxsxv) | [Glen Alfred](https://open.spotify.com/artist/2zzLSCN9YTxzrMpmT28Lhx) | [And The Darkness](https://open.spotify.com/album/5DhVNlkZdtqugiJKArk3Qi) | 4:02 | 2024-08-22 | 2024-12-13 |
 | [Angel](https://open.spotify.com/track/5G2ZoEo1Iy6WtCL43VmGFE) | [Sake by the Water](https://open.spotify.com/artist/6bcndRRyytWLfkekq2XyKQ) | [Angel](https://open.spotify.com/album/7DI0cZNwszJlsuCxioJLXX) | 3:41 | 2025-06-12 | 2025-11-21 |
+| [Angel\(s\)](https://open.spotify.com/track/6SwLUJjEIhQfDBPJNexA2y) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Angel\(s\)](https://open.spotify.com/album/71W6HyKdt6FDhVYChmamZ4) | 3:03 | 2026-07-13 |  |
 | [ANIMAL](https://open.spotify.com/track/622KzomkoRZAhj6aJ422y3) | [Rae Law](https://open.spotify.com/artist/3R82T1kwSMzxEH1UbkRqLV) | [ANIMAL](https://open.spotify.com/album/3NWp4o5sMQgelznuJkpvOF) | 2:13 | 2024-02-01 | 2024-05-10 |
 | [Annabelle](https://open.spotify.com/track/1tyv2KT1wqkJVuGlBf3KBE) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Annabelle](https://open.spotify.com/album/4Lb1ip97KpMT1OZjc1Q9i8) | 2:09 | 2025-10-02 | 2026-02-27 |
 | [Another Life](https://open.spotify.com/track/6AaJtwlagk4mY5PQZMyiHt) | [SpotlessMind](https://open.spotify.com/artist/0VMR8op8diaqyoJjc7hBgf) | [Another Life](https://open.spotify.com/album/2XKZZcZQTfpKQf1g4KuSSn) | 2:22 | 2024-07-04 | 2024-11-15 |
@@ -221,6 +222,7 @@
 | [DEJA VU](https://open.spotify.com/track/5hKUDU4pAJ0r5q1EKHUtOQ) | [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b) | [DEJA VU](https://open.spotify.com/album/5vXqBD6mMYZPQmYgWYs9P9) | 2:20 | 2025-05-15 | 2025-11-21 |
 | [Demon](https://open.spotify.com/track/5McqzZpmquik6IKt68mifT) | [Pi Pi Pierrot](https://open.spotify.com/artist/4EWciNc2dVhDRUeLQ7ixs3) | [Flower Eater](https://open.spotify.com/album/7plt5CetyH9mzEUCgd0lLM) | 2:26 | 2024-03-21 | 2024-11-15 |
 | [DEMONS](https://open.spotify.com/track/0UMhOCEAdwvxWaZ0K7V6KU) | [Derek Chan](https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x) | [DEMONS](https://open.spotify.com/album/4ZCF8pOZliBXL2RhM7VDFW) | 2:27 | 2022-05-26 | 2022-07-29 |
+| [depresso](https://open.spotify.com/track/7oM7WsJFQclWbcD7Obrrrz) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [depresso](https://open.spotify.com/album/2CUbNUEaW14qh7Z7XmDcGp) | 3:48 | 2026-07-13 |  |
 | [devilsdisstrack](https://open.spotify.com/track/1Kg1LZq9x1eittBD2fzD4N) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [devilsdisstrack](https://open.spotify.com/album/0mFFBAVNg2fzpEI9ryda69) | 2:22 | 2024-07-18 | 2024-11-15 |
 | [DFIL](https://open.spotify.com/track/7KUqg0AvenQFGgC3o5Gj4B) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [fKboY Eulogy](https://open.spotify.com/album/3i8szjXfDqp9gtHLE3mzUd) | 2:34 | 2024-11-28 | 2025-05-30 |
 | [Diary](https://open.spotify.com/track/3wgo4Y2wUJrBqFW26KjAcD) | [Wafi!](https://open.spotify.com/artist/2jmXc7n39dA18y6MUi5rqB) | [Diary](https://open.spotify.com/album/59clnR7qJSWyNQbvAOB7c5) | 1:21 | 2023-01-12 | 2023-02-03 |
@@ -891,6 +893,7 @@
 | [Spaceship](https://open.spotify.com/track/3w6VSyZ1isHJ53YHDdT2CE) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Spaceship](https://open.spotify.com/album/7qXjSLSvngusEgkvX7m5uU) | 3:23 | 2022-10-13 | 2022-11-04 |
 | [Spaceship](https://open.spotify.com/track/7Kz8jS0iJ07JjWkN6gY0S6) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Spaceship](https://open.spotify.com/album/4wc8biQw9TsUg8DdH6IU4s) | 3:23 | 2022-07-07 | 2022-10-19 |
 | [Spaceship \- SZEMEI1994 Remix](https://open.spotify.com/track/5b6Bz3LfzrNymVDF5ecQYB) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9), [SZEMEI1994](https://open.spotify.com/artist/0LrMg79iUC04QawdFKLjRu) | [Spaceship \(SZEMEI1994 Remix\)](https://open.spotify.com/album/7qeSBmka6Sl5vRAOV01HpI) | 4:36 | 2023-07-06 | 2023-09-15 |
+| [SPARKLE BLUE](https://open.spotify.com/track/2AsYTLSa51fTnWTNegQbCd) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [BLUE HOURS](https://open.spotify.com/album/1wzAwMstc8mW3z1vkU1P1O) | 3:03 | 2026-07-13 |  |
 | [sparks \- live at home](https://open.spotify.com/track/3w5SPHFYd6boRmRgjIsm6L) | [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [sparks \(live at home\)](https://open.spotify.com/album/2ITNohgJWUaQ4JJXIRS913) | 4:18 | 2024-08-23 | 2024-12-13 |
 | [spiltcans?](https://open.spotify.com/track/1gG9Tj3MQsbcBIfXh0u10u) | [The Wavelength](https://open.spotify.com/artist/3yvaG8Q6oLAp95rMecgACr) | [spiltcans?](https://open.spotify.com/album/5lAaJpNbBAOqx1XFkXHiEe) | 4:17 | 2024-03-21 | 2024-11-15 |
 | [Spit like this](https://open.spotify.com/track/6n7ae6AyZf6dOWsafwhtKt) | [Yumewanaii](https://open.spotify.com/artist/4oLq9qTt8P6pawQN1w9zL8), [SUSKI](https://open.spotify.com/artist/53HdF9KrlOQfBPPDavGT0w) | [Spit like this](https://open.spotify.com/album/731BfzQsw4Aw1ehLvyUYkB) | 3:10 | 2025-06-05 | 2025-11-21 |

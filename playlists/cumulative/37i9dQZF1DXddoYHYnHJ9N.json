@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: mollywood",
+  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: Dzs\u00fadl\u00f3",
   "name": "Hot Hits Magyarorsz\u00e1g",
   "tracks": [
     {
@@ -830,7 +830,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 137999,
       "name": "DADDY",
       "url": "https://open.spotify.com/track/4MQmgboYHKTI8Nfxd0nDjA"
@@ -1638,6 +1638,24 @@
       "duration_ms": 185333,
       "name": "G\u00c1Z",
       "url": "https://open.spotify.com/track/07L9KepMsQ4mG9BLE04mXc"
+    },
+    {
+      "album": {
+        "name": "Ha bukok",
+        "url": "https://open.spotify.com/album/3FzfbbJxJfabT3WiKmE2Fd"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139700,
+      "name": "Ha bukok",
+      "url": "https://open.spotify.com/track/1jqthYE9Qyki3574xA7ZPL"
     },
     {
       "album": {
@@ -3413,6 +3431,28 @@
     },
     {
       "album": {
+        "name": "civil",
+        "url": "https://open.spotify.com/album/2VPjzGe5Sd8Vvj8sbzAH9N"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        },
+        {
+          "name": "Only U",
+          "url": "https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163583,
+      "name": "reflex",
+      "url": "https://open.spotify.com/track/6GJOamdpyJv4Yb5JDD4R1F"
+    },
+    {
+      "album": {
         "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
         "url": "https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b"
       },
@@ -3906,7 +3946,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
@@ -4441,6 +4481,28 @@
     },
     {
       "album": {
+        "name": "civil",
+        "url": "https://open.spotify.com/album/2VPjzGe5Sd8Vvj8sbzAH9N"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        },
+        {
+          "name": "gyuris",
+          "url": "https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187245,
+      "name": "tokio",
+      "url": "https://open.spotify.com/track/052xnp9xQg6FZyUEoXC5P7"
+    },
+    {
+      "album": {
         "name": "Unheard",
         "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
       },
@@ -4506,7 +4568,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 236523,
       "name": "utema",
       "url": "https://open.spotify.com/track/6rrn0Jzt0dDSQ9B1ZBiuCt"

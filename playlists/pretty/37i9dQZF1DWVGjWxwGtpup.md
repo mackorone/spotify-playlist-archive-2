@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : Shakira x Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,131 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,163 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 19 | [Choque](https://open.spotify.com/track/68KElV3TDyDy2zHPCWjUyt) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Choque](https://open.spotify.com/album/18G9V5rZ8UvMRgUbS5fshr) | 3:19 |
 | 20 | [La Monda](https://open.spotify.com/track/7cIyY45Uw7NIWkVt3QkbsH) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [La Monda](https://open.spotify.com/album/2Z4jEq2zHhWK9XagSRjnTV) | 2:56 |
 | 21 | [YAPAQUE](https://open.spotify.com/track/67kmVaXtdmcy856hKjHb3y) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [YAPAQUE](https://open.spotify.com/album/29FOwp0vsOM1V3ybDRFL5v) | 3:57 |
-| 22 | [LA GUARACHA \(Oh Oh Oh\)](https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [LA GUARACHA \(Oh Oh Oh\)](https://open.spotify.com/album/2I5gxj9pxbyE7o0TpcadAN) | 3:19 |
+| 22 | [LA GUARACHA \(Oh Oh Oh\)](https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [LA GUARACHA \(Oh Oh Oh\)](https://open.spotify.com/album/2I5gxj9pxbyE7o0TpcadAN) | 3:20 |
 | 23 | [LOCA](https://open.spotify.com/track/1t6A6AZZ8RyVPWrrO6aX3b) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [LOCA](https://open.spotify.com/album/2wnaEz6OTA8VUzQSpR7i2E) | 3:11 |
 | 24 | [OSSESSIONE](https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [OSSESSIONE](https://open.spotify.com/album/2DbfTApmD8EQye9mNgVpcK) | 3:08 |
 | 25 | [ALGO TÚ](https://open.spotify.com/track/1dHbcmMm9bov1q4lG7Q4nQ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [ALGO TÚ](https://open.spotify.com/album/7jpTAGolkBbMuFyegBwBNo) | 3:33 |

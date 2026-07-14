@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Musica dalla comunit\u00e0 LGBQTIA+ \ud83c\uddee\ud83c\uddf9  Santamarea in cover",
+  "description": "Musica dalla comunit\u00e0 LGBQTIA+ \ud83c\uddee\ud83c\uddf9  M\u00a5SS KETA in cover",
   "name": "GLOW Italia",
   "tracks": [
     {
@@ -64,6 +64,24 @@
       "duration_ms": 140297,
       "name": "181",
       "url": "https://open.spotify.com/track/3yEA1LJvalVoh8ejwq7PHD"
+    },
+    {
+      "album": {
+        "name": "2ali",
+        "url": "https://open.spotify.com/album/13SXQCsFCxAVQEULCdNDac"
+      },
+      "artists": [
+        {
+          "name": "imthatboi",
+          "url": "https://open.spotify.com/artist/4hOMc8Shbw9RgGtUUd9qFo"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194124,
+      "name": "2ali",
+      "url": "https://open.spotify.com/track/02L8g9AVUDrGyqgBFAjTt0"
     },
     {
       "album": {
@@ -1142,7 +1160,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 209090,
       "name": "Cambiare l\u2019acqua ai fiori",
       "url": "https://open.spotify.com/track/3hiWaxuxemFaqShQZwga4C"
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 163706,
       "name": "CARAMELLE",
       "url": "https://open.spotify.com/track/4YQ9Fbo5xyKlenSjmNbcqk"
@@ -1958,6 +1976,24 @@
       "duration_ms": 236569,
       "name": "Dancing On This",
       "url": "https://open.spotify.com/track/2ohHqiZmBeSRsiWwzc8j3h"
+    },
+    {
+      "album": {
+        "name": "DANNATA",
+        "url": "https://open.spotify.com/album/0a0QwgwvlIEzSBYAknUkL1"
+      },
+      "artists": [
+        {
+          "name": "SARABAMBA",
+          "url": "https://open.spotify.com/artist/4F4YKoEBlDwzAFXiFKjpWX"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275250,
+      "name": "DANNATA",
+      "url": "https://open.spotify.com/track/2R6XEL60yq5SJoDzhMNado"
     },
     {
       "album": {
@@ -3097,6 +3133,28 @@
     },
     {
       "album": {
+        "name": "HANGOVER GIRL",
+        "url": "https://open.spotify.com/album/4KzO8wGVIUOguCqVWoG70t"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        },
+        {
+          "name": "Miss Bashful",
+          "url": "https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184225,
+      "name": "HANGOVER GIRL",
+      "url": "https://open.spotify.com/track/4IRpoipsrAESkDp5fxW4b9"
+    },
+    {
+      "album": {
         "name": "Haunted",
         "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
       },
@@ -4182,7 +4240,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 172722,
       "name": "Love Will Save the Day",
       "url": "https://open.spotify.com/track/0S3kBOcAhCI0CFGrMhLAh9"
@@ -4842,7 +4900,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 57000,
       "name": "Neuro Queer Cyber Punk (italia)",
       "url": "https://open.spotify.com/track/1UK7liy7XxmvtFcbiLj914"
@@ -4950,7 +5008,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 202500,
       "name": "NORMALE",
       "url": "https://open.spotify.com/track/3QCQSvsySCZpqFkkFrKMd9"
@@ -6475,6 +6533,24 @@
     },
     {
       "album": {
+        "name": "Side To Side",
+        "url": "https://open.spotify.com/album/3L3RSdDNuLskDQW8pKTbYM"
+      },
+      "artists": [
+        {
+          "name": "Viviana Edera",
+          "url": "https://open.spotify.com/artist/5vqN52ZlnYXs5WpE5Rd6Ik"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103431,
+      "name": "Side To Side",
+      "url": "https://open.spotify.com/track/3CG0Igojrrbel5OdRoAMRf"
+    },
+    {
+      "album": {
         "name": "Silenzio",
         "url": "https://open.spotify.com/album/4jWgwYsZqS67dT82lm0Xxq"
       },
@@ -7439,6 +7515,28 @@
     },
     {
       "album": {
+        "name": "TU ME QUE",
+        "url": "https://open.spotify.com/album/0XqLmm5MohTZ6C8QTdRyNj"
+      },
+      "artists": [
+        {
+          "name": "Gigi Ros",
+          "url": "https://open.spotify.com/artist/2AIBX47y2SapwNsCvk6MdV"
+        },
+        {
+          "name": "Ethan",
+          "url": "https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175445,
+      "name": "TU ME QUE",
+      "url": "https://open.spotify.com/track/1QADSwIqwagfd2UMRzY68H"
+    },
+    {
+      "album": {
         "name": "Tutto va bene quando facciamo l'amore (Remixes)",
         "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
       },
@@ -7508,7 +7606,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 339999,
       "name": "ULTRANCE",
       "url": "https://open.spotify.com/track/11O2CGvvumz63FcH4VYUMx"

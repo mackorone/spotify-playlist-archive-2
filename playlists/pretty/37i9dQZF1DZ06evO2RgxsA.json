@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 93763,
+  "num_followers": 93764,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAADivtTfpVt7WNKFXeTw2UXv",
+  "snapshot_id": "alLZAAAAAABeWw0fcz+ZK/S4THl0hZOE",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minnesota Nazis",
-        "url": "https://open.spotify.com/album/5zqJjEsvOX077dfZnfG2cy"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 219616,
-      "name": "Minnesota Nazis",
-      "url": "https://open.spotify.com/track/29wgPMWqXQcezTMVBVV21X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "White Trash, Two Heebs and a Bean",
         "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 166373,
       "name": "Soul Doubt",
       "url": "https://open.spotify.com/track/3TYC9jm4RXCPomDD4V3KRD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minnesota Nazis",
+        "url": "https://open.spotify.com/album/5zqJjEsvOX077dfZnfG2cy"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 219616,
+      "name": "Minnesota Nazis",
+      "url": "https://open.spotify.com/track/29wgPMWqXQcezTMVBVV21X"
     },
     {
       "added_at": null,

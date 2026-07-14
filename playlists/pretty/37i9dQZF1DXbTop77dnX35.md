@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Victony, Runtown, FAVE, Sarkodie, Beyoncé, Kelela, Kojo Blak, Nasty C & Tellaman and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,173 likes - 59 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,268 likes - 59 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 34 | [For Me](https://open.spotify.com/track/02dbh1zG1eJSjawx3VpbkA) | [Tripa Gninnin](https://open.spotify.com/artist/1942Gu3Pj3kVg8SmX8T5lJ), [Jujuboy](https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a) | [For Me](https://open.spotify.com/album/2p2UQ9PPOOFhTBWOcc0JFH) | 2:20 |
 | 35 | [Bad Timing](https://open.spotify.com/track/2RCATsDsg3vBL3x561PJ1w) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Bad Timing](https://open.spotify.com/album/4pNBMEmECbFNbcR1IduYxA) | 4:16 |
 | 36 | [I FOR TRY \(HANI WO\)](https://open.spotify.com/track/581IwufJevbbut4ttRyF5p) | [D.H](https://open.spotify.com/artist/62rEGooHOYHYawDHyYbSqt), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [HANI WO YA](https://open.spotify.com/album/6p7rc5AtGsg9pezg3EkM8N) | 3:17 |
-| 37 | [PGLD](https://open.spotify.com/track/5IBJP4aSprtoFPwrFPg8fx) | [Skillz 8figure](https://open.spotify.com/artist/7gTH9Cv2pAlhscmRsaGqy9) | [See U At Midnight](https://open.spotify.com/album/2IC303WQXLzOxSQxIAY84l) | 2:48 |
+| 37 | [PGLD](https://open.spotify.com/track/5IBJP4aSprtoFPwrFPg8fx) | [Skillz 8figure](https://open.spotify.com/artist/7gTH9Cv2pAlhscmRsaGqy9), [cino9hunid](https://open.spotify.com/artist/6vEmKa2MHPtrKP4wJg1JRX) | [See U At Midnight](https://open.spotify.com/album/2IC303WQXLzOxSQxIAY84l) | 2:48 |
 | 38 | [From Love](https://open.spotify.com/track/6aFR5NY1paOEEcUNTk9YLm) | [Y.D.A](https://open.spotify.com/artist/45Kik1HKtVxnaeajZtYozL) | [From Love](https://open.spotify.com/album/5w7LM2rgImK3pKrgN2HifL) | 2:36 |
 | 39 | [Pretty Girls](https://open.spotify.com/track/1UrbeGtdJPNsLjbNITs8ig) | [Elinala](https://open.spotify.com/artist/430SncLUZgc9EpCzbbtTB2) | [Waves & Tides](https://open.spotify.com/album/2cmUMwVOnwZKwyanxxv71h) | 2:19 |
 | 40 | [Blackberry Luv](https://open.spotify.com/track/3TdU2kPDRy00y70BJqLGfF) | [Banggz](https://open.spotify.com/artist/5x31gWpEhTWWp4lPmog1IH), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Love, Banggz](https://open.spotify.com/album/0FXuB6qp00L6FJ7f5bquwg) | 3:33 |

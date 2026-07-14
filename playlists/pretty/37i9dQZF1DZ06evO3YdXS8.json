@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 644872,
+  "num_followers": 644891,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAACoIXQ5pgzI0kt1fjMpuxwW",
+  "snapshot_id": "alLZAAAAAADNkxNlau+hpi8lOVQQCj5w",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selena: The Series Soundtrack",
-        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 183933,
-      "name": "Yo Fui Aquella - .",
-      "url": "https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/78GeZ5IA1KSbI0MiR4bAhH"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 253733,
       "name": "Bidi Bidi Bom Bom",
       "url": "https://open.spotify.com/track/7brHejB8gAkS3nUNyvllWp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Selena: The Series Soundtrack",
+        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 183933,
+      "name": "Yo Fui Aquella - .",
+      "url": "https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS"
     },
     {
       "added_at": null,

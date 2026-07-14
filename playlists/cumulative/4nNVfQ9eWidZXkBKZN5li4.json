@@ -9565,6 +9565,32 @@
     },
     {
       "album": {
+        "name": "Ve Junoon (From \"Awarapan 2\")",
+        "url": "https://open.spotify.com/album/0GN8c8LKElLxzjr5gOams3"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Sayeed Quadri",
+          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
+        },
+        {
+          "name": "Subodhh Sharma",
+          "url": "https://open.spotify.com/artist/1dWf4FUHnUgKHkSNmPofYx"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401834,
+      "name": "Ve Junoon (From \"Awarapan 2\")",
+      "url": "https://open.spotify.com/track/0jfPsVkuCCqz8A9vDkWkMr"
+    },
+    {
+      "album": {
         "name": "Vekh Sohneyaa (From \"Call Me Bae\")",
         "url": "https://open.spotify.com/album/23eaFv7tdDjiPmdv5nQKj1"
       },

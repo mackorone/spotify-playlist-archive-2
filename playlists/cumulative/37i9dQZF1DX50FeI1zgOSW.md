@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Joshua Aaron
 
-813 songs - 1 day 22 hr 6 min
+814 songs - 1 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -601,6 +601,7 @@
 | [Sakara Kati](https://open.spotify.com/track/0OvejIBBqjCIrg1BNe2fpg) | [Bhuvanesh Selvanesan](https://open.spotify.com/artist/6Zv8qFORCOlUV0pogS2vP4), [Arjun Muralidharan](https://open.spotify.com/artist/634iLUrDyXGlNzvhsAiPNH) | [Sakara Kati](https://open.spotify.com/album/1EmbmqHrbWX8FMRRgsYRd3) | 4:08 | 2025-07-14 | 2026-01-15 |
 | [Sakhiye](https://open.spotify.com/track/4bSXdsi3xVKZk4kYFKCaE3) | [Salman Koroth](https://open.spotify.com/artist/3NmWvHbLeja1KL716ZByRS), [Christy George](https://open.spotify.com/artist/1YBMgy2O1RtGlVZN1Bx81W) | [Sakhiye](https://open.spotify.com/album/2HNmyGd1C9SUGyQ2FR1Emt) | 4:03 | 2024-11-19 | 2025-02-11 |
 | [Samanilai Velicham \- Radio Edit](https://open.spotify.com/track/2AWqwQGWhedo5lWP59pLcB) | [The songs of society](https://open.spotify.com/artist/1gIjLVjVt6WtdyOe93BL0U), [Caleb steven raj](https://open.spotify.com/artist/4F13u1RHzEcTRpFlMwHhxd) | [Samanilai Velicham \- Radio Edit](https://open.spotify.com/album/0n2uzjQ9d036fyBcJp81da) | 4:30 | 2024-02-19 | 2024-05-21 |
+| [Sambavam Startu](https://open.spotify.com/track/4W295YjbF0883qgI5WBFVD) | [Abishek Vasagan](https://open.spotify.com/artist/32Nq1omkpqoA0ZtaZ2eApI), [Premgi Amaren](https://open.spotify.com/artist/4GxNKj50amLne9azxcrqK2), [Viji Kannan](https://open.spotify.com/artist/1rulPO5G7jVHfbeuuk9mP6) | [Sambavam Startu](https://open.spotify.com/album/7yeFhdPrA5yfXNtkjrmR7L) | 4:06 | 2026-07-13 |  |
 | [Santhosham](https://open.spotify.com/track/7gocHLwMiHYistuL6IRvPC) | [Sasi The Don](https://open.spotify.com/artist/6APAnfUdrwL4p3SKl733Q8) | [Santhosham](https://open.spotify.com/album/79tK2NhrdB5Q2g1hFA906K) | 3:17 | 2025-01-17 | 2025-04-02 |
 | [Sattaiyila Button Illa \- From "Think Indie"](https://open.spotify.com/track/1TQN8q2X6dS3RXrnoxfFpA) | [Pranav Muniraj](https://open.spotify.com/artist/4Y4vxCuihUYyfcZlYuTmXp), [Pravekha](https://open.spotify.com/artist/26s50DKJKi3Sg5zhw0jwv9), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp), [Susantika](https://open.spotify.com/artist/4gnkNWZfLbN5K26Pjf7wnT) | [Sattaiyila Button Illa \(From "Think Indie"\)](https://open.spotify.com/album/4cWZj0QW1LJeZJt2ISpxa2) | 2:57 | 2026-02-12 | 2026-07-11 |
 | [Scene \- From" Saina Music Indie"](https://open.spotify.com/track/5oVdp5lZLOBAhjYXUTPjwF) | [Karuvadu](https://open.spotify.com/artist/67X1H3DJyh1hMMVIJvIShT) | [Scene \(From" Saina Music Indie"\)](https://open.spotify.com/album/1KH0Z78HKzl8DqwT2zEgvx) | 2:45 | 2026-05-15 |  |

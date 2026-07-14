@@ -1,13 +1,29 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 107714,
+  "num_followers": 107723,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAACWNz5d3gZcvArJVnXlUZQ6",
+  "snapshot_id": "alLZAAAAAACbo3Sh0niCU/Dqnd/zlFOd",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Queen of Salsa: En Vivo Desde Europa",
+        "url": "https://open.spotify.com/album/0AoHIMWcU8TaDXrbXJpPEK"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 433816,
+      "name": "La Dicha M\u00eda - En Vivo",
+      "url": "https://open.spotify.com/track/7zEFe9zIxXmIVkWBqi5kII"
+    },
     {
       "added_at": null,
       "album": {
@@ -1095,26 +1111,6 @@
       "duration_ms": 296720,
       "name": "Ay Mi Cuba",
       "url": "https://open.spotify.com/track/1wn4tJRraiHIx518NyMmHA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Celia Cruz Centennial",
-        "url": "https://open.spotify.com/album/4UWhyS8tzlwpbkEm7DyNR1"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 272251,
-      "name": "Oye C\u00f3mo Va",
-      "url": "https://open.spotify.com/track/3a5UozLKx9KIg5XeinOiYr"
     }
   ],
   "unique_name": "This Is Celia Cruz",

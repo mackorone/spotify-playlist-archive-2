@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Karan Aujla
 
-801 songs - 1 day 14 hr 17 min
+802 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [Fire \(From "Je Jatt Vigarh Gya"\)](https://open.spotify.com/track/7FEoHQ0OvfyYFkg2poZcPJ) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Fire \(From "Je Jatt Vigarh Gya"\)](https://open.spotify.com/album/1NDXK9oOpMzt2WAzsSRXhs) | 2:16 | 2024-04-30 | 2024-05-11 |
 | [Flex and Follow Up](https://open.spotify.com/track/4ZbEKND0tW165VaN88ZpZp) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Corsa](https://open.spotify.com/album/37YYfGSIOa2jBWaZ4XjEZ4) | 2:13 | 2025-11-03 |  |
 | [Foes To Fans](https://open.spotify.com/track/18CZdFGVEwYp2LYv0HcNCQ) | [Armaan Dhillon](https://open.spotify.com/artist/7tKbaCF35AFn9aXt22LFoC), [Prabh Bains](https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Foes To Fans](https://open.spotify.com/album/0iQ3tA1tOHAwbSfOkhHMCy) | 3:06 | 2024-03-11 | 2024-04-12 |
-| [Folk Know](https://open.spotify.com/track/0O1tXwRRk5ewkyEEjcpQxs) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Geet](https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W) | [Folk Know](https://open.spotify.com/album/7J5KMOMgJd7hLMMWCogwhl) | 2:18 | 2026-06-12 |  |
+| [Folk Know](https://open.spotify.com/track/0O1tXwRRk5ewkyEEjcpQxs) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Geet](https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W) | [Folk Know](https://open.spotify.com/album/7J5KMOMgJd7hLMMWCogwhl) | 2:18 | 2026-06-12 | 2026-07-14 |
 | [Forever Rolling](https://open.spotify.com/track/2PIweF2UHfY89Zc6FuaycE) | [SAHIL CHEEMA](https://open.spotify.com/artist/386AhN34S4IHWkG8mGM1g6), [Prodbywizrd](https://open.spotify.com/artist/0ZmMkBzd5XM8fJBFZrJU0W) | [AROUND THE CORNER](https://open.spotify.com/album/4nF4eqnpi3O8R2P7iQfjtB) | 3:00 | 2025-08-30 | 2025-09-20 |
 | [Freestyle](https://open.spotify.com/track/7rlulUEMn27TLbdHpNPugE) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [FAME](https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg) | 2:55 | 2023-03-29 | 2023-12-02 |
 | [Freestyle](https://open.spotify.com/track/2lgj77f4BMnqYVTKvfvbPm) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV) | [Freestyle](https://open.spotify.com/album/7cR3BLC3bVzXHYGUtXFhJn) | 2:07 | 2023-06-19 | 2023-06-24 |
@@ -287,6 +287,7 @@
 | [God Mode On](https://open.spotify.com/track/6krbwFqqtDqkiNTdFMONwF) | [Turban Beats](https://open.spotify.com/artist/6Ddk8RlrCsHSGe2e4qafZE), [Gammy](https://open.spotify.com/artist/7xjjktWTKRlzBcu176C29D) | [God Mode On](https://open.spotify.com/album/1FtRXcJxKqCohUOdie3omb) | 2:53 | 2026-03-13 | 2026-04-11 |
 | [Goddamn](https://open.spotify.com/track/1fRoeq8MpXigvxHj1QJiHO) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Infinite](https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe) | 2:00 | 2023-04-01 | 2023-04-15 |
 | [Godfather](https://open.spotify.com/track/2R2YRJh5wYtQ2npGZlcXP4) | [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2) | [Godfather](https://open.spotify.com/album/4W7ikib3YON9MGY5uDmPhh) | 2:24 | 2026-01-27 | 2026-02-19 |
+| [God’s Favorite \(feat\. Sultaan\)](https://open.spotify.com/track/7qgguh45vGEpq7Mue1xNBG) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [God’s Favorite](https://open.spotify.com/album/4bHtB4mKSgQxpbiB4UAYxU) | 2:52 | 2026-07-13 |  |
 | [Going High](https://open.spotify.com/track/2pdvCFecZszYQbaoOnrKPp) | [JP47](https://open.spotify.com/artist/12ZFBwOMiEaUTRYUYfOUBw), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [Going High](https://open.spotify.com/album/2BDj1FY6UOm0Mu6zSmrHMZ) | 1:55 | 2025-05-01 | 2025-06-03 |
 | [Goli Chalgyi \- From "Gangland"](https://open.spotify.com/track/2E5arbjLBQgLCauBzJAFNe) | [Sajji Sanj](https://open.spotify.com/artist/1x3bu8OhOQZzNvzO8yVsHA), [V Barot](https://open.spotify.com/artist/4bdZvxe87m5UnVLP2S2bgr) | [Goli Chalgyi \(From "Gangland"\)](https://open.spotify.com/album/26v4JO9xYFIscfZNRSS0Zd) | 2:10 | 2025-06-04 | 2025-06-10 |
 | [Good Luck](https://open.spotify.com/track/7o3py15E6jl10blnwEj4cP) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA) | [Good Luck](https://open.spotify.com/album/3zaGOSPJY6ADqytyWIM81N) | 3:31 | 2023-03-29 | 2024-04-19 |

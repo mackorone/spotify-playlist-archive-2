@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 591196,
+  "num_followers": 591265,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-07-10 04:01:23",
       "album": {
-        "name": "Give It All",
-        "url": "https://open.spotify.com/album/24RTvkSb3aoYar07Ix3I9d"
-      },
-      "artists": [
-        {
-          "name": "Emanuel Satie",
-          "url": "https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij"
-        }
-      ],
-      "duration_ms": 179527,
-      "name": "Give It All",
-      "url": "https://open.spotify.com/track/1IPrjsTNfq2sMuMrDuiGBP"
-    },
-    {
-      "added_at": "2026-07-10 04:01:23",
-      "album": {
         "name": "See You Again",
         "url": "https://open.spotify.com/album/6k4dxoY6e4bis3BHs2C52x"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 271007,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/56UAYL2z5DZoj6qJXGrQsA"
+    },
+    {
+      "added_at": "2026-07-10 04:01:23",
+      "album": {
+        "name": "Give It All",
+        "url": "https://open.spotify.com/album/24RTvkSb3aoYar07Ix3I9d"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Satie",
+          "url": "https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij"
+        }
+      ],
+      "duration_ms": 179527,
+      "name": "Give It All",
+      "url": "https://open.spotify.com/track/1IPrjsTNfq2sMuMrDuiGBP"
     },
     {
       "added_at": "2026-07-10 04:01:23",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-07-10 04:01:23",
       "album": {
+        "name": "Gotta Be Cool",
+        "url": "https://open.spotify.com/album/5ECZBzFKBBdBYtkyi3KUeS"
+      },
+      "artists": [
+        {
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        }
+      ],
+      "duration_ms": 231774,
+      "name": "Gotta Be Cool",
+      "url": "https://open.spotify.com/track/0BYTKcBcRU9w9S8QqbTIUR"
+    },
+    {
+      "added_at": "2026-07-10 04:01:23",
+      "album": {
         "name": "Heart Spin EP",
         "url": "https://open.spotify.com/album/5p7Zfw7MUNPxXg1dWmYSl6"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 264000,
       "name": "Heart Spin",
       "url": "https://open.spotify.com/track/116fzo1wS2gAtGYYdx30C8"
-    },
-    {
-      "added_at": "2026-07-10 04:01:23",
-      "album": {
-        "name": "Gotta Be Cool",
-        "url": "https://open.spotify.com/album/5ECZBzFKBBdBYtkyi3KUeS"
-      },
-      "artists": [
-        {
-          "name": "Rafael",
-          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
-        }
-      ],
-      "duration_ms": 231774,
-      "name": "Gotta Be Cool",
-      "url": "https://open.spotify.com/track/0BYTKcBcRU9w9S8QqbTIUR"
     },
     {
       "added_at": "2026-07-10 04:01:23",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2026-07-10 04:01:23",
       "album": {
-        "name": "take me (to the sunrise)",
-        "url": "https://open.spotify.com/album/1ePQDyfS4ajFsU8zv1HQcF"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 226829,
-      "name": "take me (to the sunrise)",
-      "url": "https://open.spotify.com/track/7xFd6J61nBu42RAlDVgQC3"
-    },
-    {
-      "added_at": "2026-07-10 04:01:23",
-      "album": {
         "name": "Bilmirem",
         "url": "https://open.spotify.com/album/43ZP1eMhyK58ki4mGeEuy0"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 162937,
       "name": "Bilmirem",
       "url": "https://open.spotify.com/track/1V0mY5kWhCbUJYil8PVGUJ"
+    },
+    {
+      "added_at": "2026-07-10 04:01:23",
+      "album": {
+        "name": "take me (to the sunrise)",
+        "url": "https://open.spotify.com/album/1ePQDyfS4ajFsU8zv1HQcF"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 226829,
+      "name": "take me (to the sunrise)",
+      "url": "https://open.spotify.com/track/7xFd6J61nBu42RAlDVgQC3"
     },
     {
       "added_at": "2026-07-10 04:01:23",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-07-10 04:01:23",
       "album": {
-        "name": "M\u00e1s Tiempo Vol. 2",
-        "url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 380625,
-      "name": "The Whistle Tune",
-      "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
-    },
-    {
-      "added_at": "2026-07-10 04:01:23",
-      "album": {
         "name": "Back On 74 (Rework)",
         "url": "https://open.spotify.com/album/5EN57EnOfeu9KPeTFBXr2W"
       },
@@ -1663,22 +1647,42 @@
     {
       "added_at": "2026-07-10 04:01:23",
       "album": {
-        "name": "AD02: Pans Of Death / Rounds",
-        "url": "https://open.spotify.com/album/4d74veTXh1r6jtpLaH1fNL"
+        "name": "M\u00e1s Tiempo Vol. 2",
+        "url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA"
       },
       "artists": [
         {
-          "name": "MAFRO",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
-        },
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 320597,
-      "name": "Pans Of Death",
-      "url": "https://open.spotify.com/track/7xcyrOG8Hx9qHbf7JRx31T"
+      "duration_ms": 380625,
+      "name": "The Whistle Tune",
+      "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
+    },
+    {
+      "added_at": "2026-07-10 04:01:23",
+      "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/5S8RSxz5dhVO1hEwbhl9JK"
+      },
+      "artists": [
+        {
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        },
+        {
+          "name": "Gwen Guthrie",
+          "url": "https://open.spotify.com/artist/77HthcNFa6SbicRaQKdhyy"
+        }
+      ],
+      "duration_ms": 224761,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/7LiBdIjTaowl2NIy92FA3g"
     },
     {
       "added_at": "2026-07-10 04:01:23",
@@ -1707,26 +1711,22 @@
     {
       "added_at": "2026-07-10 04:01:23",
       "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/5S8RSxz5dhVO1hEwbhl9JK"
+        "name": "AD02: Pans Of Death / Rounds",
+        "url": "https://open.spotify.com/album/4d74veTXh1r6jtpLaH1fNL"
       },
       "artists": [
         {
-          "name": "Rafael",
-          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
         },
         {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        },
-        {
-          "name": "Gwen Guthrie",
-          "url": "https://open.spotify.com/artist/77HthcNFa6SbicRaQKdhyy"
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
         }
       ],
-      "duration_ms": 224761,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/7LiBdIjTaowl2NIy92FA3g"
+      "duration_ms": 320597,
+      "name": "Pans Of Death",
+      "url": "https://open.spotify.com/track/7xcyrOG8Hx9qHbf7JRx31T"
     },
     {
       "added_at": "2026-07-10 04:01:23",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2026-07-10 04:01:23",
       "album": {
-        "name": "Porto",
-        "url": "https://open.spotify.com/album/33DuO7XdZfFbl00dsYGsOU"
-      },
-      "artists": [
-        {
-          "name": "VXSION",
-          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
-        }
-      ],
-      "duration_ms": 226467,
-      "name": "Porto",
-      "url": "https://open.spotify.com/track/1TB6gXUbIuZO2keuAY3vQn"
-    },
-    {
-      "added_at": "2026-07-10 04:01:23",
-      "album": {
         "name": "2 This",
         "url": "https://open.spotify.com/album/39YiPEbLFmOgliiXBJ63zi"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 187083,
       "name": "2 This",
       "url": "https://open.spotify.com/track/2KRkXR3I8mHGeQjZYALfHK"
+    },
+    {
+      "added_at": "2026-07-10 04:01:23",
+      "album": {
+        "name": "Porto",
+        "url": "https://open.spotify.com/album/33DuO7XdZfFbl00dsYGsOU"
+      },
+      "artists": [
+        {
+          "name": "VXSION",
+          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
+        }
+      ],
+      "duration_ms": 226467,
+      "name": "Porto",
+      "url": "https://open.spotify.com/track/1TB6gXUbIuZO2keuAY3vQn"
     },
     {
       "added_at": "2026-07-10 04:01:23",
@@ -1979,30 +1979,6 @@
     {
       "added_at": "2026-07-10 04:01:23",
       "album": {
-        "name": "I Don\u2019t Want To Go (feat. Bloody Civilian & The Joy)",
-        "url": "https://open.spotify.com/album/3LxTnt5i5qLoYMZJhPna48"
-      },
-      "artists": [
-        {
-          "name": "KILIMANJARO",
-          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
-        },
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        },
-        {
-          "name": "The Joy",
-          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
-        }
-      ],
-      "duration_ms": 197546,
-      "name": "I Don\u2019t Want To Go (feat. Bloody Civilian & The Joy)",
-      "url": "https://open.spotify.com/track/7buuOG83BDx2R8dc36WAYn"
-    },
-    {
-      "added_at": "2026-07-10 04:01:23",
-      "album": {
         "name": "Campanera",
         "url": "https://open.spotify.com/album/3IsSwiowHDd0YgVeAIuU4U"
       },
@@ -2047,22 +2023,26 @@
     {
       "added_at": "2026-07-10 04:01:23",
       "album": {
-        "name": "Let's Get Down",
-        "url": "https://open.spotify.com/album/0zCxFXy6hVSLLmXPDKfb0R"
+        "name": "I Don\u2019t Want To Go (feat. Bloody Civilian & The Joy)",
+        "url": "https://open.spotify.com/album/3LxTnt5i5qLoYMZJhPna48"
       },
       "artists": [
         {
-          "name": "Yulia Niko",
-          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
         },
         {
-          "name": "Supafly",
-          "url": "https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV"
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        },
+        {
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
         }
       ],
-      "duration_ms": 195692,
-      "name": "Let's Get Down",
-      "url": "https://open.spotify.com/track/5jEgK8fb8NT3DlFqG7dqRx"
+      "duration_ms": 197546,
+      "name": "I Don\u2019t Want To Go (feat. Bloody Civilian & The Joy)",
+      "url": "https://open.spotify.com/track/7buuOG83BDx2R8dc36WAYn"
     },
     {
       "added_at": "2026-07-10 04:01:23",
@@ -2083,6 +2063,26 @@
       "duration_ms": 166707,
       "name": "A.I.E.",
       "url": "https://open.spotify.com/track/1IKARclHbrqdFf2XdQ6KlK"
+    },
+    {
+      "added_at": "2026-07-10 04:01:23",
+      "album": {
+        "name": "Let's Get Down",
+        "url": "https://open.spotify.com/album/0zCxFXy6hVSLLmXPDKfb0R"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        },
+        {
+          "name": "Supafly",
+          "url": "https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Let's Get Down",
+      "url": "https://open.spotify.com/track/5jEgK8fb8NT3DlFqG7dqRx"
     },
     {
       "added_at": "2026-07-10 04:01:23",
@@ -2111,6 +2111,26 @@
     {
       "added_at": "2026-07-10 04:01:23",
       "album": {
+        "name": "The Drum",
+        "url": "https://open.spotify.com/album/6NmhZ8znJbCvIg3N2zEqYp"
+      },
+      "artists": [
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        }
+      ],
+      "duration_ms": 197829,
+      "name": "The Drum",
+      "url": "https://open.spotify.com/track/6kidZ88sGNXXFI1GzOlUL0"
+    },
+    {
+      "added_at": "2026-07-10 04:01:23",
+      "album": {
         "name": "BIG DRIP",
         "url": "https://open.spotify.com/album/3GtsCwOjMOKhWMv8AKRmTu"
       },
@@ -2131,26 +2151,6 @@
       "duration_ms": 200000,
       "name": "BIG DRIP",
       "url": "https://open.spotify.com/track/54kjuFG2o22RrtAlCSwDdJ"
-    },
-    {
-      "added_at": "2026-07-10 04:01:23",
-      "album": {
-        "name": "The Drum",
-        "url": "https://open.spotify.com/album/6NmhZ8znJbCvIg3N2zEqYp"
-      },
-      "artists": [
-        {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        },
-        {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
-        }
-      ],
-      "duration_ms": 197829,
-      "name": "The Drum",
-      "url": "https://open.spotify.com/track/6kidZ88sGNXXFI1GzOlUL0"
     },
     {
       "added_at": "2026-07-10 04:01:23",
@@ -2303,6 +2303,26 @@
     {
       "added_at": "2026-07-10 04:01:23",
       "album": {
+        "name": "Blower",
+        "url": "https://open.spotify.com/album/2pK3RhDVE9XvD12aZGJJUE"
+      },
+      "artists": [
+        {
+          "name": "JANAKEY",
+          "url": "https://open.spotify.com/artist/24udzsxakjNTTMYETGtOMx"
+        },
+        {
+          "name": "Cem Seckin",
+          "url": "https://open.spotify.com/artist/7mPKbXLm5SyzOwTQ99hel4"
+        }
+      ],
+      "duration_ms": 208524,
+      "name": "Blower",
+      "url": "https://open.spotify.com/track/0fC67A99zxU0gzhLibyTsK"
+    },
+    {
+      "added_at": "2026-07-10 04:01:23",
+      "album": {
         "name": "The Thrill is Gone",
         "url": "https://open.spotify.com/album/6PXVu267RRh64SqiJiY5os"
       },
@@ -2323,26 +2343,6 @@
       "duration_ms": 213855,
       "name": "The Thrill is Gone",
       "url": "https://open.spotify.com/track/5lXX0NaAtr6VPnTxyj6aPB"
-    },
-    {
-      "added_at": "2026-07-10 04:01:23",
-      "album": {
-        "name": "Blower",
-        "url": "https://open.spotify.com/album/2pK3RhDVE9XvD12aZGJJUE"
-      },
-      "artists": [
-        {
-          "name": "JANAKEY",
-          "url": "https://open.spotify.com/artist/24udzsxakjNTTMYETGtOMx"
-        },
-        {
-          "name": "Cem Seckin",
-          "url": "https://open.spotify.com/artist/7mPKbXLm5SyzOwTQ99hel4"
-        }
-      ],
-      "duration_ms": 208524,
-      "name": "Blower",
-      "url": "https://open.spotify.com/track/0fC67A99zxU0gzhLibyTsK"
     },
     {
       "added_at": "2026-07-10 04:01:23",
@@ -2607,6 +2607,22 @@
     {
       "added_at": "2026-07-10 04:01:23",
       "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/0TVnT7UIPFln8ztsb2cdwb"
+      },
+      "artists": [
+        {
+          "name": "Gina Jeanz",
+          "url": "https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu"
+        }
+      ],
+      "duration_ms": 286229,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/71XJZeCmG14wFL58SNcQgd"
+    },
+    {
+      "added_at": "2026-07-10 04:01:23",
+      "album": {
         "name": "So Divine EP",
         "url": "https://open.spotify.com/album/5OCpYdpNDtgpouukkMNQPs"
       },
@@ -2619,54 +2635,6 @@
       "duration_ms": 189396,
       "name": "So Divine",
       "url": "https://open.spotify.com/track/3Jw0Ll8KQ58RvNMZXgA7Aq"
-    },
-    {
-      "added_at": "2026-07-10 04:01:23",
-      "album": {
-        "name": "Tiki Tiki",
-        "url": "https://open.spotify.com/album/0iGop2RKLCPDQ8Ts3cIHD9"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "SALIMA CHICA",
-          "url": "https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw"
-        },
-        {
-          "name": "Argento Dust",
-          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
-        },
-        {
-          "name": "Bun Xapa",
-          "url": "https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ"
-        }
-      ],
-      "duration_ms": 190447,
-      "name": "Tiki Tiki 2.0",
-      "url": "https://open.spotify.com/track/0abYF61EsGbxEOuO57OvxF"
-    },
-    {
-      "added_at": "2026-07-10 04:01:23",
-      "album": {
-        "name": "4ME",
-        "url": "https://open.spotify.com/album/2HzzCotu4tcdeUh0Jqls36"
-      },
-      "artists": [
-        {
-          "name": "JAMIIE",
-          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
-        },
-        {
-          "name": "Ape Drums",
-          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
-        }
-      ],
-      "duration_ms": 236070,
-      "name": "4ME",
-      "url": "https://open.spotify.com/track/3nhnlHjoxX5gIkmWbqtnVc"
     },
     {
       "added_at": "2026-07-10 04:01:23",
@@ -2691,6 +2659,26 @@
       "duration_ms": 185820,
       "name": "Hold It (feat. ZenTola)",
       "url": "https://open.spotify.com/track/5ZYDjHYSe9IOE5MqkqOzuk"
+    },
+    {
+      "added_at": "2026-07-10 04:01:23",
+      "album": {
+        "name": "4ME",
+        "url": "https://open.spotify.com/album/2HzzCotu4tcdeUh0Jqls36"
+      },
+      "artists": [
+        {
+          "name": "JAMIIE",
+          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
+        },
+        {
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+        }
+      ],
+      "duration_ms": 236070,
+      "name": "4ME",
+      "url": "https://open.spotify.com/track/3nhnlHjoxX5gIkmWbqtnVc"
     }
   ],
   "unique_name": "Tantra",

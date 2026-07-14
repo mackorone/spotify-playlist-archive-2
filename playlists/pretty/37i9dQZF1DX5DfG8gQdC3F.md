@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Releases from Future, Beyoncé, The Rolling Stones, Suki Waterhouse, ROLE MODEL, Tucker Wetmore, Finn Wolfhard, and Magi Merlin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,542 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,499 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 91 | [Not on the Run](https://open.spotify.com/track/3sKzGE1NqzMV96BqacsEm6) | [True Quiet](https://open.spotify.com/artist/6uDLahVZZGW8tboTCW88fO) | [Not on the Run](https://open.spotify.com/album/3drm7P3ddFJldy10G0hhAp) | 3:51 |
 | 92 | [Dupe](https://open.spotify.com/track/5cdGa77tX90MjFSlepk6lk) | [Puma June](https://open.spotify.com/artist/2kZHI8c2WK0bi6EaNAWg2I) | [Dupe](https://open.spotify.com/album/7CFlseQhPVnIyn4QlDFiLI) | 2:57 |
 | 93 | [Well Organised \(feat\. Lila Iké\)](https://open.spotify.com/track/6bYQZWdJMKimn0VTXhMwd6) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Well Organised \(feat\. Lila Iké\)](https://open.spotify.com/album/33tTOCJ1O1PJ8yVtmIDD5H) | 3:32 |
-| 94 | [Lost In You](https://open.spotify.com/track/70pv2djw0j0Q8ds06gIy05) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd) | [Lost In You](https://open.spotify.com/album/3DN6kb9e9F2hK0uEm4HcDE) | 2:31 |
+| 94 | [Lost In You](https://open.spotify.com/track/70pv2djw0j0Q8ds06gIy05) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Ary B](https://open.spotify.com/artist/2Q0gszM51Kkyhwjs8BTkKa) | [Lost In You](https://open.spotify.com/album/3DN6kb9e9F2hK0uEm4HcDE) | 2:31 |
 | 95 | [My Own Name](https://open.spotify.com/track/4DJXcp9Awjg6vCgoDThD3k) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Villainous](https://open.spotify.com/album/4gae2cFWCoGhohWbZmXNvR) | 3:03 |
 | 96 | [Turn It Up](https://open.spotify.com/track/3kihf5wWzLdE0xwmVDtPSU) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Turn It Up](https://open.spotify.com/album/4YNfqUF8keHTgZuNpz7vPE) | 2:53 |
 | 97 | [Mobile Groove](https://open.spotify.com/track/5dy1bdvVpdW62kizAWUACU) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Mobile Groove](https://open.spotify.com/album/2njt1aVBaYxJLhWsdffPvD) | 3:39 |

@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 147607,
+  "num_followers": 147620,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
@@ -1287,30 +1287,6 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Como Soy",
-        "url": "https://open.spotify.com/album/6aDcL8v3iXacgkHL7DGu0G"
-      },
-      "artists": [
-        {
-          "name": "Pacho El Antifeka",
-          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 312232,
-      "name": "Como Soy",
-      "url": "https://open.spotify.com/track/6l2UmWFHtPqgWq0hnqlfJT"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
         "name": "Ven y Hazlo T\u00fa (feat. Arc\u00e1ngel)",
         "url": "https://open.spotify.com/album/2D7VGl437ipTJnMQg0bs99"
       },
@@ -1335,6 +1311,30 @@
       "duration_ms": 262500,
       "name": "Ven y Hazlo T\u00fa (feat. Arc\u00e1ngel)",
       "url": "https://open.spotify.com/track/3NbwRR74N1FykCWETcEk3j"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "Como Soy",
+        "url": "https://open.spotify.com/album/6aDcL8v3iXacgkHL7DGu0G"
+      },
+      "artists": [
+        {
+          "name": "Pacho El Antifeka",
+          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 312232,
+      "name": "Como Soy",
+      "url": "https://open.spotify.com/track/6l2UmWFHtPqgWq0hnqlfJT"
     },
     {
       "added_at": "2024-08-19 19:01:43",

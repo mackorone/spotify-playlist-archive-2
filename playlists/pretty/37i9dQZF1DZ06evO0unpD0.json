@@ -1,12 +1,12 @@
 {
   "description": "This is Salif Keita. The essential tracks, all in one playlist.",
-  "num_followers": 13926,
+  "num_followers": 13931,
   "original_name": "This Is Salif Keita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAADU0E6DSibyhCqlUWEqF8Ny",
+  "snapshot_id": "alLZAAAAAAD6pGo+O/CJiyPm7pOW5u72",
   "tracks": [
     {
       "added_at": null,
@@ -67,26 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moffou (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/08WWdjuCR4ZMhV3ZeUAEI7"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        },
-        {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
-        }
-      ],
-      "duration_ms": 193173,
-      "name": "Madan - Remix",
-      "url": "https://open.spotify.com/track/5h1xmefdnY2Y4zld4jnvoE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Madan",
         "url": "https://open.spotify.com/album/2r095z3wi0vIxl5Yn990St"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 176167,
       "name": "Madan",
       "url": "https://open.spotify.com/track/5siFgBbdKb7TwqXi1CzF3C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moffou (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/08WWdjuCR4ZMhV3ZeUAEI7"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        }
+      ],
+      "duration_ms": 193173,
+      "name": "Madan - Remix",
+      "url": "https://open.spotify.com/track/5h1xmefdnY2Y4zld4jnvoE"
     },
     {
       "added_at": null,
@@ -151,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moffou (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/08WWdjuCR4ZMhV3ZeUAEI7"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        },
-        {
-          "name": "Ces\u00e1ria Evora",
-          "url": "https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn"
-        }
-      ],
-      "duration_ms": 442546,
-      "name": "Yamore",
-      "url": "https://open.spotify.com/track/1bhld9Fgp9UClF0xHCPFpB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cesaria Evora & ...",
         "url": "https://open.spotify.com/album/0gfKLeKKzIdkF5eMvhLW5e"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 223600,
       "name": "Yamore - En Duo Avec Salif Keita - Radio Edit",
       "url": "https://open.spotify.com/track/4C6eOyC7XYXeD1YClASZYu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moffou (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/08WWdjuCR4ZMhV3ZeUAEI7"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Ces\u00e1ria Evora",
+          "url": "https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn"
+        }
+      ],
+      "duration_ms": 442546,
+      "name": "Yamore",
+      "url": "https://open.spotify.com/track/1bhld9Fgp9UClF0xHCPFpB"
     },
     {
       "added_at": null,
@@ -722,11 +722,15 @@
         {
           "name": "Salif Keita",
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
         }
       ],
-      "duration_ms": 267946,
-      "name": "Natty",
-      "url": "https://open.spotify.com/track/2EQcny3367J1n6gLC0Y16l"
+      "duration_ms": 378213,
+      "name": "Ch\u00e9rie s'en va",
+      "url": "https://open.spotify.com/track/1NnUiWQ5GKOcEdPJSyHquJ"
     },
     {
       "added_at": null,
@@ -790,15 +794,11 @@
         {
           "name": "Salif Keita",
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        },
-        {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
         }
       ],
-      "duration_ms": 378213,
-      "name": "Ch\u00e9rie s'en va",
-      "url": "https://open.spotify.com/track/1NnUiWQ5GKOcEdPJSyHquJ"
+      "duration_ms": 267946,
+      "name": "Natty",
+      "url": "https://open.spotify.com/track/2EQcny3367J1n6gLC0Y16l"
     },
     {
       "added_at": null,

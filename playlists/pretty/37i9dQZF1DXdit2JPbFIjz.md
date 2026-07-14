@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdit2JPbFIjz.md) - [plain]
 
 > This is a normal day playlist with V\. Vote for the NORMAL day song that best suits V! Then, the NORMAL Day BTS playlist will be complete!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2 likes - 20 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,064 likes - 20 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

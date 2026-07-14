@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: TOQUEL ",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: RACK",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -5286,7 +5286,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 188233,
       "name": "HAHAHA",
       "url": "https://open.spotify.com/track/4agkvRh2xfTlFPfJ5ZpRTQ"
@@ -6938,7 +6938,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 161454,
       "name": "LEUKO",
       "url": "https://open.spotify.com/track/7Ko0FGZr3IGSEBrTFLEV92"
@@ -7614,6 +7614,32 @@
       "duration_ms": 179573,
       "name": "Me Xodepses",
       "url": "https://open.spotify.com/track/2XDgYSMOmSSjNGpDoJCPDJ"
+    },
+    {
+      "album": {
+        "name": "MELANI",
+        "url": "https://open.spotify.com/album/0i8eSP7x4801qP5X3tRThr"
+      },
+      "artists": [
+        {
+          "name": "Merko",
+          "url": "https://open.spotify.com/artist/3NBuryo6MsorZpU4VRpHOJ"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
+        },
+        {
+          "name": "Sanko",
+          "url": "https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162401,
+      "name": "MELANI",
+      "url": "https://open.spotify.com/track/176kRJ2oc7kVDA6IBo1xVh"
     },
     {
       "album": {
@@ -9586,7 +9612,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 135000,
       "name": "POIOS EINAI?",
       "url": "https://open.spotify.com/track/3nbldvhSJd3bNdkhusT4I0"
@@ -9660,6 +9686,28 @@
       "duration_ms": 126923,
       "name": "Pos Pernao",
       "url": "https://open.spotify.com/track/2luaR63Wr8oFc4OdVPP8Lz"
+    },
+    {
+      "album": {
+        "name": "POTE",
+        "url": "https://open.spotify.com/album/4HVncWl87jExvllBJNPb0p"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "CHEKKIS",
+          "url": "https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "POTE",
+      "url": "https://open.spotify.com/track/0hEtvbRFwcHe8xPEPPtdih"
     },
     {
       "album": {
@@ -10680,6 +10728,28 @@
       "duration_ms": 201931,
       "name": "SKG DRILL",
       "url": "https://open.spotify.com/track/3YKFn6I4dDHORAFWCNgvFU"
+    },
+    {
+      "album": {
+        "name": "SKONI TIS SELINIS",
+        "url": "https://open.spotify.com/album/6krtXhXq52iEqxDfLp50cF"
+      },
+      "artists": [
+        {
+          "name": "SIGMA",
+          "url": "https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow"
+        },
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204736,
+      "name": "SKONI TIS SELINIS",
+      "url": "https://open.spotify.com/track/0Q3l36g28MxaSk4jSxnwBE"
     },
     {
       "album": {
@@ -11800,7 +11870,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 175747,
       "name": "Ti Thelo Ego Me Sena",
       "url": "https://open.spotify.com/track/7gLT8aVOkQkXQk2yTkZzhF"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCq6Hu9FwJd.md) - [plain]
 
 > This is a normal day playlist with RM\. Vote for the NORMAL day song that best suits RM! Then, the NORMAL Day BTS playlist will be complete!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2 likes - 19 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,001 likes - 19 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

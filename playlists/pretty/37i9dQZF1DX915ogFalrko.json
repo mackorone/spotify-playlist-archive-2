@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 188074,
+  "num_followers": 188071,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,26 @@
     {
       "added_at": "2026-07-10 15:30:48",
       "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/6kn5ZIUlHA3NBsacObuBiU"
+      },
+      "artists": [
+        {
+          "name": "Bon Calso",
+          "url": "https://open.spotify.com/artist/7ayZ0ZHp9SC1Bp6rzDd6gu"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 250006,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/7IwG40uAh2A39GQtqANRNW"
+    },
+    {
+      "added_at": "2026-07-10 15:30:48",
+      "album": {
         "name": "Warhaus",
         "url": "https://open.spotify.com/album/0v7z6pf34VKMECP0Bmbxi3"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 221790,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
-    },
-    {
-      "added_at": "2026-07-10 15:30:48",
-      "album": {
-        "name": "Diamantes",
-        "url": "https://open.spotify.com/album/6kn5ZIUlHA3NBsacObuBiU"
-      },
-      "artists": [
-        {
-          "name": "Bon Calso",
-          "url": "https://open.spotify.com/artist/7ayZ0ZHp9SC1Bp6rzDd6gu"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 250006,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/7IwG40uAh2A39GQtqANRNW"
     },
     {
       "added_at": "2026-07-10 15:30:48",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-07-10 15:30:48",
       "album": {
-        "name": "the van",
-        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 178001,
-      "name": "the van",
-      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
-    },
-    {
-      "added_at": "2026-07-10 15:30:48",
-      "album": {
         "name": "The Dream",
         "url": "https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2026-07-10 15:30:48",
       "album": {
-        "name": "Isteri",
-        "url": "https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk"
+        "name": "the van",
+        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
       },
       "artists": [
         {
-          "name": "Ours Samplus",
-          "url": "https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Spell on You",
-      "url": "https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M"
+      "duration_ms": 178001,
+      "name": "the van",
+      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
     },
     {
       "added_at": "2026-07-10 15:30:48",
@@ -855,6 +839,22 @@
       "duration_ms": 196813,
       "name": "All Night",
       "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
+    },
+    {
+      "added_at": "2026-07-10 15:30:48",
+      "album": {
+        "name": "Isteri",
+        "url": "https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk"
+      },
+      "artists": [
+        {
+          "name": "Ours Samplus",
+          "url": "https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Spell on You",
+      "url": "https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M"
     },
     {
       "added_at": "2026-07-10 15:30:48",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-07-10 15:30:48",
       "album": {
-        "name": "BODY TO BODY",
-        "url": "https://open.spotify.com/album/67ntbNxZcbz9Hpf73sVCdL"
-      },
-      "artists": [
-        {
-          "name": "Sam Tompkins",
-          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "BODY TO BODY",
-      "url": "https://open.spotify.com/track/5IcnbQ9qp0tBGZp7vVhdzW"
-    },
-    {
-      "added_at": "2026-07-10 15:30:48",
-      "album": {
         "name": "Sim",
         "url": "https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 235600,
       "name": "Boa Sorte / Good Luck (feat. Ben Harper)",
       "url": "https://open.spotify.com/track/1LR5KBD64oRzGEjQhAMNdj"
+    },
+    {
+      "added_at": "2026-07-10 15:30:48",
+      "album": {
+        "name": "BODY TO BODY",
+        "url": "https://open.spotify.com/album/67ntbNxZcbz9Hpf73sVCdL"
+      },
+      "artists": [
+        {
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "BODY TO BODY",
+      "url": "https://open.spotify.com/track/5IcnbQ9qp0tBGZp7vVhdzW"
     },
     {
       "added_at": "2026-07-10 15:30:48",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-07-10 15:30:48",
       "album": {
-        "name": "Interior",
-        "url": "https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 213545,
-      "name": "Yours & Mine",
-      "url": "https://open.spotify.com/track/0Mp0s7GXwLHFlZWwUVftL5"
-    },
-    {
-      "added_at": "2026-07-10 15:30:48",
-      "album": {
         "name": "Plan B",
         "url": "https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 200826,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ"
+    },
+    {
+      "added_at": "2026-07-10 15:30:48",
+      "album": {
+        "name": "Interior",
+        "url": "https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 213545,
+      "name": "Yours & Mine",
+      "url": "https://open.spotify.com/track/0Mp0s7GXwLHFlZWwUVftL5"
     },
     {
       "added_at": "2026-07-10 15:30:48",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2026-07-10 15:30:48",
       "album": {
-        "name": "Umoja",
-        "url": "https://open.spotify.com/album/0gvs6tpyGn2LuvkRwmMdAA"
-      },
-      "artists": [
-        {
-          "name": "Skinshape",
-          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
-        },
-        {
-          "name": "D'Alma",
-          "url": "https://open.spotify.com/artist/7u9Zt6g4twVWySeTjO72Us"
-        }
-      ],
-      "duration_ms": 282765,
-      "name": "Sua Alma",
-      "url": "https://open.spotify.com/track/1ooPkv9QwTUjkErmsDVLyB"
-    },
-    {
-      "added_at": "2026-07-10 15:30:48",
-      "album": {
         "name": "You Don't Need A Reason To Call (feat. Valley)",
         "url": "https://open.spotify.com/album/5E6P1NTqT2NgoqzkroOk9H"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 220460,
       "name": "You Don't Need A Reason To Call (feat. Valley)",
       "url": "https://open.spotify.com/track/37hZrsZ7Ab3xDppA4qAb3S"
+    },
+    {
+      "added_at": "2026-07-10 15:30:48",
+      "album": {
+        "name": "Umoja",
+        "url": "https://open.spotify.com/album/0gvs6tpyGn2LuvkRwmMdAA"
+      },
+      "artists": [
+        {
+          "name": "Skinshape",
+          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
+        },
+        {
+          "name": "D'Alma",
+          "url": "https://open.spotify.com/artist/7u9Zt6g4twVWySeTjO72Us"
+        }
+      ],
+      "duration_ms": 282765,
+      "name": "Sua Alma",
+      "url": "https://open.spotify.com/track/1ooPkv9QwTUjkErmsDVLyB"
     },
     {
       "added_at": "2026-07-10 15:30:48",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-07-10 15:30:48",
       "album": {
-        "name": "Something Out Of Nothing",
-        "url": "https://open.spotify.com/album/5DzYearmFZj5MF36mNJpl2"
-      },
-      "artists": [
-        {
-          "name": "Bye Parula",
-          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
-        }
-      ],
-      "duration_ms": 206338,
-      "name": "Something Out Of Nothing",
-      "url": "https://open.spotify.com/track/1SpUMOyvEtvjWa4xWqFlAv"
-    },
-    {
-      "added_at": "2026-07-10 15:30:48",
-      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/5Gbo4sOeenmqYTRolOGmZt"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2026-07-10 15:30:48",
       "album": {
+        "name": "Something Out Of Nothing",
+        "url": "https://open.spotify.com/album/5DzYearmFZj5MF36mNJpl2"
+      },
+      "artists": [
+        {
+          "name": "Bye Parula",
+          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
+        }
+      ],
+      "duration_ms": 206338,
+      "name": "Something Out Of Nothing",
+      "url": "https://open.spotify.com/track/1SpUMOyvEtvjWa4xWqFlAv"
+    },
+    {
+      "added_at": "2026-07-10 15:30:48",
+      "album": {
         "name": "Hopes",
         "url": "https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H"
       },
@@ -1531,22 +1531,6 @@
       "duration_ms": 164500,
       "name": "Hopes",
       "url": "https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7"
-    },
-    {
-      "added_at": "2026-07-10 15:30:48",
-      "album": {
-        "name": "Dream House",
-        "url": "https://open.spotify.com/album/6ztAmj7OoaQHdyqzaDK9pZ"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 174200,
-      "name": "Dream House",
-      "url": "https://open.spotify.com/track/04kUzwSMwCIsuXoxqeaZ75"
     },
     {
       "added_at": "2026-07-10 15:30:48",
@@ -1567,6 +1551,22 @@
       "duration_ms": 183013,
       "name": "weirdness",
       "url": "https://open.spotify.com/track/0Z14ueqgvLP39oCdTCDyOT"
+    },
+    {
+      "added_at": "2026-07-10 15:30:48",
+      "album": {
+        "name": "Dream House",
+        "url": "https://open.spotify.com/album/6ztAmj7OoaQHdyqzaDK9pZ"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 174200,
+      "name": "Dream House",
+      "url": "https://open.spotify.com/track/04kUzwSMwCIsuXoxqeaZ75"
     },
     {
       "added_at": "2026-07-10 15:30:48",

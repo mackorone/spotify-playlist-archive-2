@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: A$AP Rocky.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,384 likes - 100 songs - 4 hr 38 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,383 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 61 | [Temptation](https://open.spotify.com/track/4Q2qcWDlvVnnxkGevD7n2H) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [Temptation](https://open.spotify.com/album/28hp5P612w60qm0xso66nO) | 3:00 |
 | 62 | [getting money still sad too](https://open.spotify.com/track/5FJbsAs6XuKuxZzvwDl7gR) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Horse Head](https://open.spotify.com/artist/0LBfcXnrLErD1afLyzB2xA) | [getting money still sad too](https://open.spotify.com/album/06590fcGOrc0hgvDHcDiaH) | 2:37 |
 | 63 | [VIBES](https://open.spotify.com/track/0XKjxLy23wMZ3zNNluXw0A) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [VIBES](https://open.spotify.com/album/0JDx8253dyuMQ1DdXGYzUJ) | 3:42 |
-| 64 | [Track 5](https://open.spotify.com/track/35Gc7ihva3XEo5gw8gazRa) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Track 5](https://open.spotify.com/album/3aw4rnv0BLiiEqFbYZHBdN) | 2:58 |
+| 64 | [Feed the Streets](https://open.spotify.com/track/35Gc7ihva3XEo5gw8gazRa) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Feed the Streets](https://open.spotify.com/album/3aw4rnv0BLiiEqFbYZHBdN) | 2:58 |
 | 65 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
 | 66 | [DVP](https://open.spotify.com/track/6ldm05XEc52Z1l4yKbbo1b) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [DVP](https://open.spotify.com/album/68BoXMpig9FNsztO5U2TfR) | 2:05 |
 | 67 | [HELICOPTER](https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HELICOPTER](https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf) | 2:45 |

@@ -4,7 +4,7 @@
 
 > All the best tracks from Pixar films.
 
-110 songs - 5 hr 10 min
+111 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [We Belong Together](https://open.spotify.com/track/2m1mYan1nvOMORlb12q2Y9) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3y8MjpBVOSPzJLdgUGNIZQ) | 4:02 | 2023-09-15 |  |
 | [We Belong Together](https://open.spotify.com/track/3fazam52RUALaUhR6cDadU) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1d9mhjBzN4ovJUr3AntOuC) | 4:02 | 2024-04-08 | 2024-06-01 |
 | [We're In the Club Now](https://open.spotify.com/track/5HQiu07zg3KIFMGvbAiW5t) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 0:43 | 2023-09-15 |  |
+| [Welcome Woody](https://open.spotify.com/track/54VePmzLfmSJukpzY1GtQ7) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 5 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6G2u8sy0sQvyALLoTTXkzn) | 4:04 | 2026-07-13 |  |
 | [What It All Means](https://open.spotify.com/track/7kXS9G2r9mzGE11GWGROgI) | [Campfire](https://open.spotify.com/artist/54iFlEyl0Ns7oVIoee11W4), [Varren Wade](https://open.spotify.com/artist/2jahW6GoW9cecxm9TT9DMV) | [Win or Lose \(Original Soundtrack\)](https://open.spotify.com/album/5b8ZVBaIDmoFi7NEv3swE7) | 2:52 | 2025-02-21 |  |
 | [When She Loved Me](https://open.spotify.com/track/6lMh9k54E4mxbGBMkSwYhT) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Toy Story 2](https://open.spotify.com/album/0MCE2KRV2L5NJYMyQNPKHY) | 3:05 | 2024-04-08 | 2024-06-01 |
 | [When She Loved Me \- From "Toy Story 2" / Soundtrack Version](https://open.spotify.com/track/780W6YW5HFANQLR77Owern) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Toy Story Favorites](https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936) | 3:03 | 2023-09-15 |  |

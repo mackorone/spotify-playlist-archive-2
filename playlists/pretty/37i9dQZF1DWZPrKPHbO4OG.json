@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 38269,
+  "num_followers": 38281,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,26 @@
     {
       "added_at": "2026-06-10 09:54:00",
       "album": {
+        "name": "Hey Pavlaay",
+        "url": "https://open.spotify.com/album/3sgeiiKEmNqOW2A5uphB4P"
+      },
+      "artists": [
+        {
+          "name": "Preet Bandre",
+          "url": "https://open.spotify.com/artist/53vx7sCjX8Ll1I0H59ZDr2"
+        },
+        {
+          "name": "Dhruvan Moorthy",
+          "url": "https://open.spotify.com/artist/3psleO4ViEBEsBsLHNF1Iu"
+        }
+      ],
+      "duration_ms": 113333,
+      "name": "Hey Pavlaay",
+      "url": "https://open.spotify.com/track/35LJQhz82wUfSztjpHV4ss"
+    },
+    {
+      "added_at": "2026-06-10 09:54:00",
+      "album": {
         "name": "Majhi Baay Go",
         "url": "https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 268242,
       "name": "Majhi Baay Go",
       "url": "https://open.spotify.com/track/2l4MIKaU0kB4UjjCfuq2X0"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
-        "name": "Hey Pavlaay",
-        "url": "https://open.spotify.com/album/3sgeiiKEmNqOW2A5uphB4P"
-      },
-      "artists": [
-        {
-          "name": "Preet Bandre",
-          "url": "https://open.spotify.com/artist/53vx7sCjX8Ll1I0H59ZDr2"
-        },
-        {
-          "name": "Dhruvan Moorthy",
-          "url": "https://open.spotify.com/artist/3psleO4ViEBEsBsLHNF1Iu"
-        }
-      ],
-      "duration_ms": 113333,
-      "name": "Hey Pavlaay",
-      "url": "https://open.spotify.com/track/35LJQhz82wUfSztjpHV4ss"
     },
     {
       "added_at": "2026-06-10 09:54:00",

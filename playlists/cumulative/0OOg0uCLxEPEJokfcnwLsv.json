@@ -2975,6 +2975,24 @@
     },
     {
       "album": {
+        "name": "Falling Curtain",
+        "url": "https://open.spotify.com/album/0hsbIouOmJOjyPfwRoG1Z8"
+      },
+      "artists": [
+        {
+          "name": "Ask The Dust",
+          "url": "https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208346,
+      "name": "Falling Curtain",
+      "url": "https://open.spotify.com/track/2yHWrzZ7foMNuft7TlarBm"
+    },
+    {
+      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/4Qp6S6ln5GwDmTih32uJVf"
       },
@@ -6026,6 +6044,24 @@
       "duration_ms": 215639,
       "name": "On the Loose",
       "url": "https://open.spotify.com/track/7d1lvt879yCYPAGbpacM04"
+    },
+    {
+      "album": {
+        "name": "One Life in a Second",
+        "url": "https://open.spotify.com/album/31tJrwZLvVxTmiDHo7I5es"
+      },
+      "artists": [
+        {
+          "name": "Beyond the touch",
+          "url": "https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281025,
+      "name": "One Life in a Second",
+      "url": "https://open.spotify.com/track/3ejiegnz0P0wCBmDiVt6DS"
     },
     {
       "album": {

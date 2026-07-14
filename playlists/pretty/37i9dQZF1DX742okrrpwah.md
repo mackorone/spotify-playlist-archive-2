@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > La Mano 1.9 x Ninho, Genezio, U2 et Teddy Swims au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,175 likes - 99 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,166 likes - 99 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

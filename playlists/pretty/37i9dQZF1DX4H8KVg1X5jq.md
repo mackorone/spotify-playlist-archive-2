@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4H8KVg1X5jq.md) - [plain]
 
 > The complete soundtrack to Love Story: John F\. Kennedy Jr\. & Carolyn Bessette, airing now on FX.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,981 likes - 55 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,091 likes - 55 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

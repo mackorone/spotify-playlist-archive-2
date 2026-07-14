@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Gregossan, MRD, Oykie, NOELL3 en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,767 likes - 89 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,763 likes - 89 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LIFESTYLE](https://open.spotify.com/track/62aNBgDhsUJEH3bHgSOGRW) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC), [TAREK](https://open.spotify.com/artist/27vjWK90FPlwA54zdWh2rL) | [LIFESTYLE](https://open.spotify.com/album/5jb0CkHHEhbk3fsWiYoV8m) | 2:29 |
-| 2 | [Bon Voyage](https://open.spotify.com/track/6elxCSCGjzG2nLiJwUZk6n) | [MRD](https://open.spotify.com/artist/1Ph1cqOn7flTxltVNis2l9) | [Bon Voyage](https://open.spotify.com/album/2mTgmeYAKEannU4Hhbs6aI) | 2:47 |
-| 3 | [Range](https://open.spotify.com/track/2zoluwABwWrv3JCA1kzrPC) | [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf), [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ) | [Range](https://open.spotify.com/album/5GNZHAPHmD2YkN9CV7DrNi) | 2:18 |
-| 4 | [Ziek](https://open.spotify.com/track/0BllBZc5gGIZ7K7sK9EFQZ) | [Xeno](https://open.spotify.com/artist/6QNmkf3USZGhsn81cZCKre), [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF) | [Ziek](https://open.spotify.com/album/4b0yYuXWyZIDwOh7ayasmO) | 2:55 |
-| 5 | [Back voor je needs](https://open.spotify.com/track/6x2Wbp92mZPqCrt6ZQ0ELi) | [NOELL3](https://open.spotify.com/artist/2MCk3BEEbEX4OAdyHjuqdB) | [Back voor je needs](https://open.spotify.com/album/5BdDqKGlJrCmuQP4LohGJD) | 1:52 |
-| 6 | [Stemmetjes](https://open.spotify.com/track/2hVkWemDRVGB0LXdgxWNki) | [Vurr Flashy](https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh) | [Stemmetjes](https://open.spotify.com/album/4tfiw6kXeev2TrvgQbD8Br) | 2:01 |
+| 1 | [Range](https://open.spotify.com/track/2zoluwABwWrv3JCA1kzrPC) | [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf), [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ) | [Range](https://open.spotify.com/album/5GNZHAPHmD2YkN9CV7DrNi) | 2:18 |
+| 2 | [LIFESTYLE](https://open.spotify.com/track/62aNBgDhsUJEH3bHgSOGRW) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC), [TAREK](https://open.spotify.com/artist/27vjWK90FPlwA54zdWh2rL) | [LIFESTYLE](https://open.spotify.com/album/5jb0CkHHEhbk3fsWiYoV8m) | 2:29 |
+| 3 | [Bon Voyage](https://open.spotify.com/track/6elxCSCGjzG2nLiJwUZk6n) | [MRD](https://open.spotify.com/artist/1Ph1cqOn7flTxltVNis2l9) | [Bon Voyage](https://open.spotify.com/album/2mTgmeYAKEannU4Hhbs6aI) | 2:47 |
+| 4 | [Koude Zomer](https://open.spotify.com/track/2gcmzJ7VZLZingEz4PE5Cz) | [Riffi](https://open.spotify.com/artist/7rWuImrIbAa8XxwWVFWNoZ) | [Koude Zomer](https://open.spotify.com/album/7Bs2bVDuVZeDi7ylmfoE9c) | 2:33 |
+| 5 | [Ziek](https://open.spotify.com/track/0BllBZc5gGIZ7K7sK9EFQZ) | [Xeno](https://open.spotify.com/artist/6QNmkf3USZGhsn81cZCKre), [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF) | [Ziek](https://open.spotify.com/album/4b0yYuXWyZIDwOh7ayasmO) | 2:55 |
+| 6 | [Back voor je needs](https://open.spotify.com/track/6x2Wbp92mZPqCrt6ZQ0ELi) | [NOELL3](https://open.spotify.com/artist/2MCk3BEEbEX4OAdyHjuqdB) | [Back voor je needs](https://open.spotify.com/album/5BdDqKGlJrCmuQP4LohGJD) | 1:52 |
 | 7 | [SIDE HUSTLE](https://open.spotify.com/track/0PzUpGxpmrYIkxZwlyno4h) | [Ajay](https://open.spotify.com/artist/6blOShkI4PDC0gqCk6PQoa), [DELLA](https://open.spotify.com/artist/6GaWUTq8uyIdXtSS1rx1F3), [Anu\-D](https://open.spotify.com/artist/0d3APB2jngaBHrA0DZHJYp) | [SIDE HUSTLE](https://open.spotify.com/album/1t0PbFgCkwt947gbFh5bnZ) | 2:36 |
 | 8 | [Meters Pakken](https://open.spotify.com/track/1GmyXOZqTqg8419gR9TjoK) | [Inghostwetrust](https://open.spotify.com/artist/6cVBGSZEbA1TrH2b9zJfe7), [Geezzay](https://open.spotify.com/artist/7E3sPDrqgkn1upFx2ecvit) | [Meters Pakken](https://open.spotify.com/album/2PqpRFHT3JcA2jO2iVgsrx) | 2:11 |
 | 9 | [Ski](https://open.spotify.com/track/5lRY5YVes9ZAs5XCgsdXoA) | [Trxnz](https://open.spotify.com/artist/1u2RwK9C55BTgbGB0LARNm), [Hiltje](https://open.spotify.com/artist/7IzRpPjjOsoCkhctY8lAb8), [Benaja](https://open.spotify.com/artist/04hhcLaopGwW5RJB9pwEgU) | [Ski](https://open.spotify.com/album/2l34OyqZcNUWyFeZfr2mhX) | 3:13 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 88 | [Presidential Factory](https://open.spotify.com/track/5PhAdHlHJGl5zDOpr7L1W6) | [Inghostwetrust](https://open.spotify.com/artist/6cVBGSZEbA1TrH2b9zJfe7), [Geezzay](https://open.spotify.com/artist/7E3sPDrqgkn1upFx2ecvit) | [Presidential Factory](https://open.spotify.com/album/3snEd9JfD7zQf9iSC2NdrR) | 2:21 |
 | 89 | [schud](https://open.spotify.com/track/48Ls5ALCuBG5oGvww63tmh) | [RADIO Z](https://open.spotify.com/artist/2YKf3owzYnZlcecKmQCgob), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U), [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Kabul $lim](https://open.spotify.com/artist/6KPpLyARdAWIxznl7tkoyD) | [schud](https://open.spotify.com/album/6Q4jZXG9L75mc7ukTArF62) | 2:02 |
 
-Snapshot ID: `AAAAADZPHRs2ZSfMMpKldyFVlDJcBHGf`
+Snapshot ID: `AAAAAOQtO4OY/EjGcHd1D/3dfqzlFlWt`

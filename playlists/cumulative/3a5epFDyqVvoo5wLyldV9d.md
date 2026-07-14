@@ -4,7 +4,7 @@
 
 > 
 
-920 songs - 3 day 0 hr 13 min
+922 songs - 3 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Havan' Hamac](https://open.spotify.com/track/0b8KA5i5PRoUNU1XxHw46W) | [Eddy La Viny](https://open.spotify.com/artist/2BO5NFGeuWzQMWTvU8HlfO) | [Club Meduse Compiled by Charles Bals](https://open.spotify.com/album/1JzG0fZPiAmbWKGd5Ymiyx) | 3:42 | 2021-07-13 |  |
 | [Haydar Haydar](https://open.spotify.com/track/7syaCNriqwhd8JMOar0vTE) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [Haydar Haydar](https://open.spotify.com/album/2gHGFvvbULh5yldskbJI39) | 4:24 | 2022-02-28 |  |
 | [Haydi Bastir](https://open.spotify.com/track/1SfK87lT6vymCjBPuBBm0b) | [Figen Han](https://open.spotify.com/artist/7CR2Zz4MqIyoM8alBapKil) | [Pisi Pisi \- Haydi Bastir](https://open.spotify.com/album/53v3KmyHhKyz8JLisGzTMQ) | 2:12 | 2019-08-26 |  |
+| [Haydi Gel Benimle Ol](https://open.spotify.com/track/6ekUWsPDlyooDFSBmXvBIW) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Sen Aglama](https://open.spotify.com/album/0qTyJMQhBBb5oeoTr8b8Ra) | 4:31 | 2026-07-13 |  |
 | [Hayeelin](https://open.spotify.com/track/7IAgfdPRFX0EG34LtDMeax) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Volume 5](https://open.spotify.com/album/1duYR1BKAr0ZNX35kEnk9Y) | 5:40 | 2023-10-30 |  |
 | [Heaven](https://open.spotify.com/track/6V8mQGMlteOnomLViyIRwU) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Ebo Taylor](https://open.spotify.com/album/5FOShBCFRekNYPZwzKWLB2) | 6:05 | 2024-02-08 |  |
 | [Hedi Bled Noum](https://open.spotify.com/track/17taTggvvhrwrTvE0LIMsG) | [Shams Dinn](https://open.spotify.com/artist/1nYTfvRcasFFOJ4YNefQSE) | [France chébran: French Boogie \(1982 \- 1989\), Vol\. 2](https://open.spotify.com/album/4jjz6MAd8xmKKBWDnqQiEy) | 4:01 | 2021-11-29 |  |
@@ -445,7 +446,7 @@
 | [Love on the Sand](https://open.spotify.com/track/6G92PEEvTgJVWuCI7XECPL) | [Alessandro Alessandroni](https://open.spotify.com/artist/6NXwJ5CEziDQrfimLpr7gZ) | [A Trip Around the World](https://open.spotify.com/album/2YPRffE03kmLtsqaHn2w6v) | 3:43 | 2022-07-08 |  |
 | [Love Words](https://open.spotify.com/track/48ZhKhbBQFF5hTVvWRHZCa) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Mots D'amour](https://open.spotify.com/album/4SpLpWMyS9k6mrn4po8AFC) | 4:42 | 2020-04-11 |  |
 | [Loving You](https://open.spotify.com/track/0b3sXNCllKHYn6SqDkK5BS) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu) | 9:28 | 2022-08-02 |  |
-| [Lui E Lei](https://open.spotify.com/track/7CwBlDpfPEpeAmAO2fE1Ao) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [La Legge Dei Gangsters](https://open.spotify.com/album/3j4peilVrbOhAZEIvA3ptr) | 2:34 | 2020-09-20 |  |
+| [Lui e lei](https://open.spotify.com/track/7CwBlDpfPEpeAmAO2fE1Ao) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [La legge dei gangsters](https://open.spotify.com/album/3j4peilVrbOhAZEIvA3ptr) | 2:34 | 2020-09-20 |  |
 | [Lw Kan](https://open.spotify.com/track/2ov40EF0gnt0t72ilfoXqV) | [El Shab Arab](https://open.spotify.com/artist/7FNcfQiEZbb87WEya2TFat) | [Lw Kan](https://open.spotify.com/album/5CPPXbtpIwPVXXEuaqOmID) | 3:58 | 2025-02-18 |  |
 | [Ma Be Ham Nemiresim](https://open.spotify.com/track/0i27GYpTwao1Yyqn8pv3z3) | [Googoosh](https://open.spotify.com/artist/07L6XZ7QaTsZLP8jwLoFgY) | [Nimeh Gomshodeh Man](https://open.spotify.com/album/2mOkX0Ykj4hC36QfmUB9TC) | 5:36 | 2023-03-15 |  |
 | [Ma Huno](https://open.spotify.com/track/0E13ER49Am3UzRpahU5tk4) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Coming Home](https://open.spotify.com/album/4t2suyEBeShOXvvzQS4hcV) | 5:43 | 2023-03-26 |  |
@@ -529,6 +530,7 @@
 | [Mundo Deserto](https://open.spotify.com/track/2x6ztBh9TsTqAS5mX9ttEw) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Ela](https://open.spotify.com/album/00v6XMJH8URR26deMot450) | 2:36 | 2021-05-11 |  |
 | [Music de Carnaval](https://open.spotify.com/track/5NqQovaNr0L2VVn9Svdlmf) | [Magdy Al Hussainy](https://open.spotify.com/artist/1xo3eWzfxA5p7tkBahC6MD) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \- Part 2 \(Habibi Funk 015\)](https://open.spotify.com/album/0PkKIo93pKAnqpo0mi5yb1) | 5:10 | 2022-12-05 |  |
 | [My Country](https://open.spotify.com/track/2ahWD5RUT7SIwDII6Z9lAO) | [Américo Brito](https://open.spotify.com/artist/7qPxIkKHTXFtFuTV4urY0Q) | [Sintado Na Pracinha \(Sodad Serie 4 \- Vol\. 3\)](https://open.spotify.com/album/2yU729Nwsv7jUqbdqlIyCt) | 5:15 | 2023-02-23 |  |
+| [My Heart, My Life](https://open.spotify.com/track/51kDnf9dngc5G01ncfKc9K) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [Night Song \(Real World Gold\)](https://open.spotify.com/album/39R3IELCHOo5HqYJjEIWPo) | 5:31 | 2026-07-13 |  |
 | [Más Profundo](https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt) | [Bruxas](https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7) | [Más Profundo](https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx) | 6:12 | 2024-11-12 |  |
 | [Na boca do sol](https://open.spotify.com/track/5oiueCPkJCU9wCmQO5HDTj) | [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Arthur Verocai](https://open.spotify.com/album/4yv17Q486G8QoqM001kFKO) | 2:59 | 2018-01-04 |  |
 | [Na Mundo Deos Quita Manda](https://open.spotify.com/track/6e3VqBbHE9eTeq0qYWd3Jc) | [Marcos](https://open.spotify.com/artist/6LqUuMCyfYcsJgz0HmjLXS) | [Saudade](https://open.spotify.com/album/4LgX603BC6uJYcveklZ6DE) | 4:41 | 2026-02-02 |  |

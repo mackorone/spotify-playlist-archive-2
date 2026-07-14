@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-169 songs - 11 hr 20 min
+170 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,8 +167,9 @@
 | [โรคแอบชอบ \(Love Fever\)](https://open.spotify.com/track/5iDMOWPzjW8ZgSY5cjqdmM) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [โรคแอบชอบ \(Love Fever\)](https://open.spotify.com/album/3zOMdMTh1BYNMigeo4eQP0) | 4:01 | 2022-05-26 | 2026-05-08 |
 | [ใจเกเร](https://open.spotify.com/track/3oYQXrsOO8I2V7lnrhVQz1) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [เรือนแพ ชุดที่ 6](https://open.spotify.com/album/2I9sAfirDryTyaWzd5iSgy) | 3:48 | 2024-01-06 | 2024-10-25 |
 | [七夕の夜、君に逢いたい](https://open.spotify.com/track/6I250T7L2iSmpdB41Q1BIo) | [Five Ⅱ Four](https://open.spotify.com/artist/5zFs0F6FatcZAYPlTDitgT), [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [七夕の夜、君に逢いたい](https://open.spotify.com/album/6pTHVdpiYlq1KM67Z6eEXP) | 4:52 | 2024-01-06 | 2024-09-28 |
-| [不標準情人](https://open.spotify.com/track/5TlQjk6LfvsGbnNOR555va) | [Freckle](https://open.spotify.com/artist/0LWVgqTRkGQkN6Txprc6LF) | [不標準情人](https://open.spotify.com/album/5ue5bCo48QRPUOi7y8Egj1) | 4:35 | 2022-05-26 |  |
+| [不標準情人](https://open.spotify.com/track/5TlQjk6LfvsGbnNOR555va) | [Freckle](https://open.spotify.com/artist/0LWVgqTRkGQkN6Txprc6LF) | [不標準情人](https://open.spotify.com/album/5ue5bCo48QRPUOi7y8Egj1) | 4:35 | 2022-05-26 | 2026-07-14 |
 | [二都夜想曲](https://open.spotify.com/track/1nMnEUTOhfDUsLpyrmc1r2) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO), [wapiti](https://open.spotify.com/artist/0yWUMWzT5OnBurSaKi356m) | [二都夜想曲](https://open.spotify.com/album/19mx3ysGi9Xdd0HiyFXFL2) | 4:09 | 2025-09-16 |  |
+| [切ない](https://open.spotify.com/track/4jLnRj5b0KGX5v6UPqO6tS) | [Skastra](https://open.spotify.com/artist/29sYgtFF2sRAVbzZ64rbkB) | [切ない \(Nelangsa\)](https://open.spotify.com/album/44VDPRIif3YJLY5tXzWLIG) | 4:48 | 2026-07-14 |  |
 | [別急著說妳愛我到天長地久](https://open.spotify.com/track/1BhjeUl8YkY20lfmpmwfAj) | [Sticky Rice](https://open.spotify.com/artist/3WKrI3XoAOlmHlR9cl6M11) | [別急著說愛我到天長地久 20](https://open.spotify.com/album/0vKhnsFBuItT2ufOlX9RAi) | 4:05 | 2022-05-26 | 2024-04-19 |
 | [別急著說妳愛我到天長地久](https://open.spotify.com/track/3qVS40B9udu90K4Bo0Jlnl) | [Sticky Rice](https://open.spotify.com/artist/3WKrI3XoAOlmHlR9cl6M11) | [別急著說愛我到天長地久](https://open.spotify.com/album/6dyPWNvtoRDOvWF6XnqrGF) | 4:05 | 2022-05-26 |  |
 | [容易厭倦的時刻 \- Tsudio Studio Remix](https://open.spotify.com/track/308LFXPTq5qZgqZpKzBr33) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm) | [容易厭倦的時刻 \(Tsudio Studio Remix\)](https://open.spotify.com/album/3LxPlbXVlRges9ZoZbkwv5) | 4:04 | 2023-02-02 |  |

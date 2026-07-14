@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: Yammi
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,803 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,815 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 15 | [Baby Mpya](https://open.spotify.com/track/2xGY29EZ31aTDvlDEd1Gt9) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Baby Mpya](https://open.spotify.com/album/52HY5Otj0tCwRFBPlulaAh) | 3:53 |
 | 16 | [Ganda](https://open.spotify.com/track/3jLHB3D1Nk2eH15et5avoL) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Ganda](https://open.spotify.com/album/3fouXgLz0yUNZzTUuQnFW8) | 3:16 |
 | 17 | [EX WA NANI](https://open.spotify.com/track/20RY7KkpJUxhhH4glf4Tzt) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [A DAY TO REMEMBER](https://open.spotify.com/album/5dclc98AKoG0OmQBLndQFJ) | 4:04 |
-| 18 | [Nitafanyaje](https://open.spotify.com/track/0hmYcBy4sTrmlU7CqVWN8I) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Nitafanyaje](https://open.spotify.com/album/28EHJ9YuzNdVF7D8EeIpaK) | 4:43 |
-| 19 | [Nakuja \- Remix](https://open.spotify.com/track/6F6GGekktwwJbjDZwkncCX) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Nakuja \(Remix\)](https://open.spotify.com/album/1nmpGHgVggvQHiDt0Ub338) | 4:05 |
+| 18 | [Nakuja \- Remix](https://open.spotify.com/track/6F6GGekktwwJbjDZwkncCX) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Nakuja \(Remix\)](https://open.spotify.com/album/1nmpGHgVggvQHiDt0Ub338) | 4:05 |
+| 19 | [Nitafanyaje](https://open.spotify.com/track/0hmYcBy4sTrmlU7CqVWN8I) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Nitafanyaje](https://open.spotify.com/album/28EHJ9YuzNdVF7D8EeIpaK) | 4:43 |
 | 20 | [Naoa](https://open.spotify.com/track/1Vm5Ka4woQQnVYG8HJtc12) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Naoa](https://open.spotify.com/album/4m1seE9FusFaKvjPKhBQI2) | 3:57 |
 | 21 | [Staki Mazoea](https://open.spotify.com/track/51nUxYujKieQPIfSWmIQR7) | [Dj Mushizo](https://open.spotify.com/artist/11xpQtgAZTHvwnGNXaDzaj), [Dogo Mallo](https://open.spotify.com/artist/1I9za42Mp9BiwmgbjcjoNw), [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Staki Mazoea](https://open.spotify.com/album/2CaJyxnM3Ar6i0lMiu8eV7) | 4:36 |
 | 22 | [Ungewezaje](https://open.spotify.com/track/4u1eyjnUORPm3GE9hLsFcR) | [Dogo Paten](https://open.spotify.com/artist/0IVlD4qNndd1mcbVLILBQ9) | [Ungewezaje](https://open.spotify.com/album/07BT9Wmq8cYs6DPCMTEQhW) | 2:45 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 63 | [GUGO](https://open.spotify.com/track/4AzK6l6gNs5OZXYlHIK8J5) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [GUGO](https://open.spotify.com/album/0ScNdVwWbHmSB9ni9bcxiv) | 2:17 |
 | 64 | [Dua](https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Dua](https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7) | 4:42 |
 | 65 | [Sina](https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Sina](https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu) | 4:58 |
-| 66 | [Hatujui](https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Maturity EP](https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq) | 4:30 |
-| 67 | [Dar Es Salaam](https://open.spotify.com/track/5ilkB8b305bzKh3zzgs5cB) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Dar Es Salaam](https://open.spotify.com/album/1zbJ41YdrJ9WuOjxcgH4hJ) | 2:33 |
+| 66 | [Dar Es Salaam](https://open.spotify.com/track/5ilkB8b305bzKh3zzgs5cB) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Dar Es Salaam](https://open.spotify.com/album/1zbJ41YdrJ9WuOjxcgH4hJ) | 2:33 |
+| 67 | [Hatujui](https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Maturity EP](https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq) | 4:30 |
 | 68 | [Kijumbe](https://open.spotify.com/track/68I76ceLuHRfU9wqlA6wo4) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Kijumbe](https://open.spotify.com/album/2iQbLXbeyFsokSg0ENz5VR) | 3:29 |
 | 69 | [Rudi Tena](https://open.spotify.com/track/1DPac0fiYlY493E9QCdwY1) | [Ten Ballz](https://open.spotify.com/artist/67iMSibGgkEzemZCjlUHOz), [Dogo Elisha](https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13), [Dj pacheko midundo](https://open.spotify.com/artist/26SAE5mEh0Cs7DJgSQk2SU), [Banx](https://open.spotify.com/artist/0BRornhoWDjWs0PP7Iw9va) | [Rudi Tena](https://open.spotify.com/album/5H4d2QdcvEgYhNHtLgb5Pa) | 3:46 |
 | 70 | [Chura](https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g) | [Snura](https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9) | [Chura](https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm) | 4:32 |

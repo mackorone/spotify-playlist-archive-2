@@ -1,12 +1,12 @@
 {
   "description": "Playlist",
-  "num_followers": 18084,
+  "num_followers": 18086,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAMh0mDZ1eaFVOye2lD8JaoE9R2v4wk",
+  "snapshot_id": "AAAMiphzktWm0KtX8HsKq3aqHGCaEQUy",
   "tracks": [
     {
       "added_at": "2026-07-07 07:02:20",
@@ -127,6 +127,26 @@
       "duration_ms": 170279,
       "name": "RGH",
       "url": "https://open.spotify.com/track/55liuh0Oi1wNPwIJlBDwbu"
+    },
+    {
+      "added_at": "2026-07-13 07:55:38",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/67xHJ0x5tX4E5ADqix2RF0"
+      },
+      "artists": [
+        {
+          "name": "j.paul",
+          "url": "https://open.spotify.com/artist/0klHZ1ixAXRq6KIJIMYtXO"
+        },
+        {
+          "name": "Lazy Trail",
+          "url": "https://open.spotify.com/artist/5WHVS2qeych1JQDD4qQPjg"
+        }
+      ],
+      "duration_ms": 150786,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1nU7euE2UtifL8LvwjyCm0"
     },
     {
       "added_at": "2026-04-10 08:28:13",
@@ -10767,6 +10787,26 @@
       "duration_ms": 211893,
       "name": "This is a Poem",
       "url": "https://open.spotify.com/track/5JLlk8QoH8jlzdUXRvYFPZ"
+    },
+    {
+      "added_at": "2026-07-13 07:54:49",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/67xHJ0x5tX4E5ADqix2RF0"
+      },
+      "artists": [
+        {
+          "name": "j.paul",
+          "url": "https://open.spotify.com/artist/0klHZ1ixAXRq6KIJIMYtXO"
+        },
+        {
+          "name": "Lazy Trail",
+          "url": "https://open.spotify.com/artist/5WHVS2qeych1JQDD4qQPjg"
+        }
+      ],
+      "duration_ms": 150786,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1nU7euE2UtifL8LvwjyCm0"
     }
   ],
   "unique_name": "Nice Guys | 24/7 Radio",

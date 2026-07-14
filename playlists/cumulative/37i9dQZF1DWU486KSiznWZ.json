@@ -925,6 +925,24 @@
     },
     {
       "album": {
+        "name": "Dayago Sadri",
+        "url": "https://open.spotify.com/album/5XJ9w79wQutSWWMXNgN30i"
+      },
+      "artists": [
+        {
+          "name": "Rabeh Saqer",
+          "url": "https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285725,
+      "name": "Dayago Sadri",
+      "url": "https://open.spotify.com/track/6f8vDZ3CyluqRhyeo12GVJ"
+    },
+    {
+      "album": {
         "name": "Dehkat Ayami",
         "url": "https://open.spotify.com/album/0mdNdGbwgfzLMPUX6nRFIz"
       },
@@ -1564,6 +1582,24 @@
       "duration_ms": 177516,
       "name": "Kent Ahebik",
       "url": "https://open.spotify.com/track/7M4naaZsceXAjDUZ7XNZ8g"
+    },
+    {
+      "album": {
+        "name": "Kent Ma Aarfak",
+        "url": "https://open.spotify.com/album/5CdW51qKdnlmm4prUjxzSY"
+      },
+      "artists": [
+        {
+          "name": "Abdul Majeed Abdullah",
+          "url": "https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328942,
+      "name": "Kent Ma Aarfak",
+      "url": "https://open.spotify.com/track/2uS2hqFB1r97OfiPvKEpTw"
     },
     {
       "album": {

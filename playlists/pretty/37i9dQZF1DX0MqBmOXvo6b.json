@@ -1,6 +1,6 @@
 {
   "description": "Conc\u00e9ntrate al m\u00e1ximo, sin distracciones.",
-  "num_followers": 436550,
+  "num_followers": 436580,
   "original_name": "Concentraci\u00f3n Perfecta",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Fiume",
-        "url": "https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk"
-      },
-      "artists": [
-        {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
-        }
-      ],
-      "duration_ms": 140124,
-      "name": "Fiume",
-      "url": "https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Hivon",
         "url": "https://open.spotify.com/album/23jcFelRsPzQYacsgJ2HDI"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 162430,
       "name": "Hivon",
       "url": "https://open.spotify.com/track/4R5hrJSecDyvtD80GZLAGs"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Fiume",
+        "url": "https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "duration_ms": 140124,
+      "name": "Fiume",
+      "url": "https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Lost in your light",
-        "url": "https://open.spotify.com/album/4OGR54PPjoNCX3HzqXfYNa"
-      },
-      "artists": [
-        {
-          "name": "Anton Lindholm",
-          "url": "https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP"
-        }
-      ],
-      "duration_ms": 150183,
-      "name": "Lost in your light",
-      "url": "https://open.spotify.com/track/03WCxjmI3kGMf4UPMVcFHp"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Into the Unknown",
         "url": "https://open.spotify.com/album/4LEyZZo2zNN9kmBiaQSKiR"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 172097,
       "name": "Into the Unknown",
       "url": "https://open.spotify.com/track/58fzqWnRTNaQsUM8pVeyoY"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Lost in your light",
+        "url": "https://open.spotify.com/album/4OGR54PPjoNCX3HzqXfYNa"
+      },
+      "artists": [
+        {
+          "name": "Anton Lindholm",
+          "url": "https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP"
+        }
+      ],
+      "duration_ms": 150183,
+      "name": "Lost in your light",
+      "url": "https://open.spotify.com/track/03WCxjmI3kGMf4UPMVcFHp"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Slowly \u6162\u6162\u5730",
-        "url": "https://open.spotify.com/album/5gQPws4thKwNUF73TcUGIx"
-      },
-      "artists": [
-        {
-          "name": "Li Zemin",
-          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
-        }
-      ],
-      "duration_ms": 129828,
-      "name": "Slowly \u6162\u6162\u5730",
-      "url": "https://open.spotify.com/track/4qly3FfGri8B6IwAFOfO9T"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "somewhere else, together",
         "url": "https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 189108,
       "name": "somewhere else, together",
       "url": "https://open.spotify.com/track/4Pl37bufUvxJOhLJIfLCcl"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Slowly \u6162\u6162\u5730",
+        "url": "https://open.spotify.com/album/5gQPws4thKwNUF73TcUGIx"
+      },
+      "artists": [
+        {
+          "name": "Li Zemin",
+          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
+        }
+      ],
+      "duration_ms": 129828,
+      "name": "Slowly \u6162\u6162\u5730",
+      "url": "https://open.spotify.com/track/4qly3FfGri8B6IwAFOfO9T"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
+        "name": "Secret Meadow",
+        "url": "https://open.spotify.com/album/3vqbinG3yAqZhYdCuq9eKM"
+      },
+      "artists": [
+        {
+          "name": "Cole Neumann",
+          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
+        }
+      ],
+      "duration_ms": 147524,
+      "name": "Secret Meadow",
+      "url": "https://open.spotify.com/track/0CtYYa8anV9WcP4R7WEP6c"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
         "name": "Noct\u00e9",
         "url": "https://open.spotify.com/album/6c93p8mX7rQtckEI2waoYK"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 150854,
       "name": "Como Nights",
       "url": "https://open.spotify.com/track/38LK6J6rTadvqkZ2cdYlyc"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
-        "name": "Secret Meadow",
-        "url": "https://open.spotify.com/album/3vqbinG3yAqZhYdCuq9eKM"
-      },
-      "artists": [
-        {
-          "name": "Cole Neumann",
-          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
-        }
-      ],
-      "duration_ms": 147524,
-      "name": "Secret Meadow",
-      "url": "https://open.spotify.com/track/0CtYYa8anV9WcP4R7WEP6c"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "In Case",
-        "url": "https://open.spotify.com/album/2SyTi9C27bjnovD0Ba8WB5"
-      },
-      "artists": [
-        {
-          "name": "Ren Lockhart",
-          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
-        }
-      ],
-      "duration_ms": 166817,
-      "name": "In Case",
-      "url": "https://open.spotify.com/track/3VBHL1iyA6xSym5kRBvng1"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Irenic",
         "url": "https://open.spotify.com/album/3bFSZrJMYMzAh62F1ujuhx"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 177323,
       "name": "Irenic",
       "url": "https://open.spotify.com/track/6TOY3VJAAMb2uRfYLBvCXR"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "In Case",
+        "url": "https://open.spotify.com/album/2SyTi9C27bjnovD0Ba8WB5"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "duration_ms": 166817,
+      "name": "In Case",
+      "url": "https://open.spotify.com/track/3VBHL1iyA6xSym5kRBvng1"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "The Only One",
-        "url": "https://open.spotify.com/album/3PMbgWveWWvXDqNl8h8v4m"
-      },
-      "artists": [
-        {
-          "name": "Aron E. Ross",
-          "url": "https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4"
-        }
-      ],
-      "duration_ms": 176137,
-      "name": "The Only One",
-      "url": "https://open.spotify.com/track/6ffWLQVoGsJyXeqkgXSAIg"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Into the Unknown",
         "url": "https://open.spotify.com/album/38EOJDVjA48a1OsabohitZ"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 159739,
       "name": "Into the Unknown",
       "url": "https://open.spotify.com/track/6xhu6te5zJFLn4sgavp5Xz"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "The Only One",
+        "url": "https://open.spotify.com/album/3PMbgWveWWvXDqNl8h8v4m"
+      },
+      "artists": [
+        {
+          "name": "Aron E. Ross",
+          "url": "https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4"
+        }
+      ],
+      "duration_ms": 176137,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/6ffWLQVoGsJyXeqkgXSAIg"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Campania",
-        "url": "https://open.spotify.com/album/10Ol0BRzxel4NoqxFSJgC8"
+        "name": "Fireside",
+        "url": "https://open.spotify.com/album/4w1VRr8VTbdwyp1VfQ7mwK"
       },
       "artists": [
         {
-          "name": "Gilded Reverie",
-          "url": "https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym"
+          "name": "Aisen Voight",
+          "url": "https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb"
         }
       ],
-      "duration_ms": 141014,
-      "name": "Campania",
-      "url": "https://open.spotify.com/track/2Nf6J9vOtyzP4gX6xBvLv9"
+      "duration_ms": 144291,
+      "name": "Fireside",
+      "url": "https://open.spotify.com/track/41A4bFgArMNz740zk0qOJD"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Fireside",
-        "url": "https://open.spotify.com/album/4w1VRr8VTbdwyp1VfQ7mwK"
+        "name": "Campania",
+        "url": "https://open.spotify.com/album/10Ol0BRzxel4NoqxFSJgC8"
       },
       "artists": [
         {
-          "name": "Aisen Voight",
-          "url": "https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb"
+          "name": "Gilded Reverie",
+          "url": "https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym"
         }
       ],
-      "duration_ms": 144291,
-      "name": "Fireside",
-      "url": "https://open.spotify.com/track/41A4bFgArMNz740zk0qOJD"
+      "duration_ms": 141014,
+      "name": "Campania",
+      "url": "https://open.spotify.com/track/2Nf6J9vOtyzP4gX6xBvLv9"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Shadows On The Lawn",
-        "url": "https://open.spotify.com/album/5SPQjNTPLyfJOXTPy4AUNN"
-      },
-      "artists": [
-        {
-          "name": "Andreas Monta",
-          "url": "https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ"
-        }
-      ],
-      "duration_ms": 133058,
-      "name": "Shadows On The Lawn",
-      "url": "https://open.spotify.com/track/0GcwEkklAbxpJIiNCafBct"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "D\u00e9lise",
         "url": "https://open.spotify.com/album/52Wm8XO82x6UKyAmIVQIDQ"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 125968,
       "name": "D\u00e9lise",
       "url": "https://open.spotify.com/track/7sTIuY89Vgtb67PdM1awJK"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Shadows On The Lawn",
+        "url": "https://open.spotify.com/album/5SPQjNTPLyfJOXTPy4AUNN"
+      },
+      "artists": [
+        {
+          "name": "Andreas Monta",
+          "url": "https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ"
+        }
+      ],
+      "duration_ms": 133058,
+      "name": "Shadows On The Lawn",
+      "url": "https://open.spotify.com/track/0GcwEkklAbxpJIiNCafBct"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "fallen leaves",
-        "url": "https://open.spotify.com/album/5WACx3ToU3nizu4plI5ldW"
-      },
-      "artists": [
-        {
-          "name": "Koshun Nakao",
-          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
-        }
-      ],
-      "duration_ms": 151900,
-      "name": "fallen leaves",
-      "url": "https://open.spotify.com/track/0sYfmKsl5ebxiUhJHLxmeK"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Red Ridge Road",
         "url": "https://open.spotify.com/album/3v0jNmPIt6mj7vRB2H1umM"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 163514,
       "name": "Red Ridge Road",
       "url": "https://open.spotify.com/track/2BNF35bgujUs1KtGl5Xww0"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "fallen leaves",
+        "url": "https://open.spotify.com/album/5WACx3ToU3nizu4plI5ldW"
+      },
+      "artists": [
+        {
+          "name": "Koshun Nakao",
+          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
+        }
+      ],
+      "duration_ms": 151900,
+      "name": "fallen leaves",
+      "url": "https://open.spotify.com/track/0sYfmKsl5ebxiUhJHLxmeK"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Melancholy",
-        "url": "https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3"
-      },
-      "artists": [
-        {
-          "name": "Les Moray",
-          "url": "https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR"
-        }
-      ],
-      "duration_ms": 214630,
-      "name": "Melancholy",
-      "url": "https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Apr\u00e8s Tout",
         "url": "https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 147250,
       "name": "Apr\u00e8s tout",
       "url": "https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Melancholy",
+        "url": "https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3"
+      },
+      "artists": [
+        {
+          "name": "Les Moray",
+          "url": "https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR"
+        }
+      ],
+      "duration_ms": 214630,
+      "name": "Melancholy",
+      "url": "https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Morning Light",
-        "url": "https://open.spotify.com/album/4sTkIu2zQegGH1eC9SPXxg"
-      },
-      "artists": [
-        {
-          "name": "Kyo Himura",
-          "url": "https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1"
-        }
-      ],
-      "duration_ms": 146073,
-      "name": "Morning Light",
-      "url": "https://open.spotify.com/track/7yTxnKpCWKf4aquBYtkFJ7"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Armonia",
         "url": "https://open.spotify.com/album/6AQymVdiw5JbFH9GU6P1oG"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 180830,
       "name": "Armonia",
       "url": "https://open.spotify.com/track/7twgqnezfkPggDImVdAdfT"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/4sTkIu2zQegGH1eC9SPXxg"
+      },
+      "artists": [
+        {
+          "name": "Kyo Himura",
+          "url": "https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1"
+        }
+      ],
+      "duration_ms": 146073,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/7yTxnKpCWKf4aquBYtkFJ7"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Veiled Memory",
-        "url": "https://open.spotify.com/album/5uaz6CNRu055gCdLSJVLEt"
-      },
-      "artists": [
-        {
-          "name": "Herman Schirmer",
-          "url": "https://open.spotify.com/artist/3jyv8lrOBakKhajNDnxoJm"
-        }
-      ],
-      "duration_ms": 135437,
-      "name": "Veiled Memory",
-      "url": "https://open.spotify.com/track/56owYDwyHyN0211FP8X9UD"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Open Window",
         "url": "https://open.spotify.com/album/3YiONYPqiN8RuWTgGY3wBE"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 146000,
       "name": "Open Window",
       "url": "https://open.spotify.com/track/3OBNyirkkJ5olw2qoLrOxg"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Veiled Memory",
+        "url": "https://open.spotify.com/album/5uaz6CNRu055gCdLSJVLEt"
+      },
+      "artists": [
+        {
+          "name": "Herman Schirmer",
+          "url": "https://open.spotify.com/artist/3jyv8lrOBakKhajNDnxoJm"
+        }
+      ],
+      "duration_ms": 135437,
+      "name": "Veiled Memory",
+      "url": "https://open.spotify.com/track/56owYDwyHyN0211FP8X9UD"
     },
     {
       "added_at": "2026-05-29 04:00:30",

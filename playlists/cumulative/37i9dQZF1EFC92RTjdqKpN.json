@@ -4423,6 +4423,24 @@
     },
     {
       "album": {
+        "name": "HIGH AND A(LIVE)",
+        "url": "https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490631,
+      "name": "Wasted Time With Folsom Prison Blues - Live from the HIGH AND ALIVE WORLD TOUR",
+      "url": "https://open.spotify.com/track/0g0Gbad2qQmYfFHwFlKSdp"
+    },
+    {
+      "album": {
         "name": "TLC",
         "url": "https://open.spotify.com/album/0Etb5PXUH3sXTnC59r2MKZ"
       },

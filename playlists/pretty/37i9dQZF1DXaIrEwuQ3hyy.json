@@ -1,6 +1,6 @@
 {
   "description": "sommerurlaub f\u00fcr zwischendurch \u26f1\ufe0f",
-  "num_followers": 1100184,
+  "num_followers": 1100241,
   "original_name": "Sommer Chillout",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-07-09 22:00:48",
       "album": {
+        "name": "Claw Marks",
+        "url": "https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "duration_ms": 155528,
+      "name": "Claw Marks",
+      "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
+    },
+    {
+      "added_at": "2026-07-09 22:00:48",
+      "album": {
         "name": "girls like girls the album",
         "url": "https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 232934,
       "name": "die 4 u",
       "url": "https://open.spotify.com/track/6m23hIW0TYTnSdHJOHoZnl"
-    },
-    {
-      "added_at": "2026-07-09 22:00:48",
-      "album": {
-        "name": "Claw Marks",
-        "url": "https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I"
-      },
-      "artists": [
-        {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
-        }
-      ],
-      "duration_ms": 155528,
-      "name": "Claw Marks",
-      "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
     },
     {
       "added_at": "2026-07-09 22:00:48",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-07-09 22:00:48",
       "album": {
-        "name": "Cut In Half",
-        "url": "https://open.spotify.com/album/0LEFdPWcty1wzOYTBebazM"
-      },
-      "artists": [
-        {
-          "name": "Sonny Tennet",
-          "url": "https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Cut In Half",
-      "url": "https://open.spotify.com/track/1aGnbst3HYuQ2Rq3bMXM53"
-    },
-    {
-      "added_at": "2026-07-09 22:00:48",
-      "album": {
         "name": "Iman",
         "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 190266,
       "name": "Know the Night",
       "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
+    },
+    {
+      "added_at": "2026-07-09 22:00:48",
+      "album": {
+        "name": "Cut In Half",
+        "url": "https://open.spotify.com/album/0LEFdPWcty1wzOYTBebazM"
+      },
+      "artists": [
+        {
+          "name": "Sonny Tennet",
+          "url": "https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "Cut In Half",
+      "url": "https://open.spotify.com/track/1aGnbst3HYuQ2Rq3bMXM53"
     },
     {
       "added_at": "2026-07-09 22:00:48",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-07-09 22:00:48",
       "album": {
-        "name": "Morning Birds",
-        "url": "https://open.spotify.com/album/3ayZrqhHdGnR7yysveunbf"
-      },
-      "artists": [
-        {
-          "name": "Xavier Rudd",
-          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "Morning Birds",
-      "url": "https://open.spotify.com/track/3QXGb2BWrmysiT0otVCj9a"
-    },
-    {
-      "added_at": "2026-07-09 22:00:48",
-      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si"
       },
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2026-07-09 22:00:48",
       "album": {
-        "name": "Petrichor",
-        "url": "https://open.spotify.com/album/1FpxFs3YgX34FKfEb8KbuN"
+        "name": "Morning Birds",
+        "url": "https://open.spotify.com/album/3ayZrqhHdGnR7yysveunbf"
       },
       "artists": [
         {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+          "name": "Xavier Rudd",
+          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
         }
       ],
-      "duration_ms": 207676,
-      "name": "Petrichor",
-      "url": "https://open.spotify.com/track/4GTd137gJz6LFQI3RFpQT5"
+      "duration_ms": 287000,
+      "name": "Morning Birds",
+      "url": "https://open.spotify.com/track/3QXGb2BWrmysiT0otVCj9a"
     },
     {
       "added_at": "2026-07-09 22:00:48",
@@ -1547,6 +1531,22 @@
       "duration_ms": 226146,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
+    },
+    {
+      "added_at": "2026-07-09 22:00:48",
+      "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/1FpxFs3YgX34FKfEb8KbuN"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 207676,
+      "name": "Petrichor",
+      "url": "https://open.spotify.com/track/4GTd137gJz6LFQI3RFpQT5"
     },
     {
       "added_at": "2026-07-09 22:00:48",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-07-09 22:00:48",
       "album": {
-        "name": "Summer Nostalgia",
-        "url": "https://open.spotify.com/album/1QVc0CyfwvZr18tN0apisr"
-      },
-      "artists": [
-        {
-          "name": "Emily James",
-          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Summer on Ice",
-      "url": "https://open.spotify.com/track/4xFDggrjuOkJPO2LQmslQE"
-    },
-    {
-      "added_at": "2026-07-09 22:00:48",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/24j6IoQ8Junn1mIXfgijU4"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 267100,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4LIRPQO4jzel3t4aN5J8PN"
+    },
+    {
+      "added_at": "2026-07-09 22:00:48",
+      "album": {
+        "name": "Summer Nostalgia",
+        "url": "https://open.spotify.com/album/1QVc0CyfwvZr18tN0apisr"
+      },
+      "artists": [
+        {
+          "name": "Emily James",
+          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Summer on Ice",
+      "url": "https://open.spotify.com/track/4xFDggrjuOkJPO2LQmslQE"
     },
     {
       "added_at": "2026-07-09 22:00:48",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-07-09 22:00:48",
       "album": {
-        "name": "Blanc",
-        "url": "https://open.spotify.com/album/6Dsu7W8rO1eq2n2aYrLGPC"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Blanc",
-      "url": "https://open.spotify.com/track/3rT4gJN45VHbkPguDsE4Op"
-    },
-    {
-      "added_at": "2026-07-09 22:00:48",
-      "album": {
         "name": "when words fail",
         "url": "https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 176495,
       "name": "when words fail",
       "url": "https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA"
+    },
+    {
+      "added_at": "2026-07-09 22:00:48",
+      "album": {
+        "name": "Damn the Wild Air, Pt. 01",
+        "url": "https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk"
+      },
+      "artists": [
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT"
     }
   ],
   "unique_name": "Sommer Chillout",

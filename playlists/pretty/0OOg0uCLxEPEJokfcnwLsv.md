@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,147 likes - 120 songs - 7 hr 25 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,158 likes - 122 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,5 +128,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 118 | [Stolen Youth](https://open.spotify.com/track/5L1ZtnPyztBReHpcSDhynz) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Stolen Youth](https://open.spotify.com/album/60sXsHPRz2Muij3B3NXeee) | 3:36 |
 | 119 | [Glorious](https://open.spotify.com/track/1mAJOvqasn4SzRgqvdmF52) | [Darius Zaltash](https://open.spotify.com/artist/6nL6fYu8ysN6yayyT24xgo) | [Glorious](https://open.spotify.com/album/4o0dKj5YGNJX3NmM8SPY1g) | 3:35 |
 | 120 | [what're we doing?](https://open.spotify.com/track/04bZCSivQeAQLCfVu6CTEQ) | [Ethan Jacobs](https://open.spotify.com/artist/7rLn0S7IQ2UibUTclefgGA) | [what're we doing?](https://open.spotify.com/album/2AtX3aO6bRDHtc1qO3W61D) | 4:03 |
+| 121 | [Falling Curtain](https://open.spotify.com/track/2yHWrzZ7foMNuft7TlarBm) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Falling Curtain](https://open.spotify.com/album/0hsbIouOmJOjyPfwRoG1Z8) | 3:28 |
+| 122 | [One Life in a Second](https://open.spotify.com/track/3ejiegnz0P0wCBmDiVt6DS) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [One Life in a Second](https://open.spotify.com/album/31tJrwZLvVxTmiDHo7I5es) | 4:41 |
 
-Snapshot ID: `AAAGnu0m8haM2OUTt8DyVuAA1iByvck2`
+Snapshot ID: `AAAGoAa2vc0kRJKtgLmnQ20kzyeYyjF3`

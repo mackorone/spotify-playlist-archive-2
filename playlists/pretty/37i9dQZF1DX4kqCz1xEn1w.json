@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 78521,
+  "num_followers": 78512,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Jesus You Alone",
-        "url": "https://open.spotify.com/album/3FQEV5T91MUH6qPDqEluZK"
-      },
-      "artists": [
-        {
-          "name": "Highlands Worship",
-          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
-        }
-      ],
-      "duration_ms": 372150,
-      "name": "Jesus You Alone",
-      "url": "https://open.spotify.com/track/4zYvDOveReSl6t86OfBMCU"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Blood of Jesus (I Surrender All)",
         "url": "https://open.spotify.com/album/39iJQ5xz5BDQ30QdSGHbhW"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 337520,
       "name": "Blood of Jesus (I Surrender All)",
       "url": "https://open.spotify.com/track/0quxaXkS1kE3oKMdMWJbZ8"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Jesus You Alone",
+        "url": "https://open.spotify.com/album/3FQEV5T91MUH6qPDqEluZK"
+      },
+      "artists": [
+        {
+          "name": "Highlands Worship",
+          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
+        }
+      ],
+      "duration_ms": 372150,
+      "name": "Jesus You Alone",
+      "url": "https://open.spotify.com/track/4zYvDOveReSl6t86OfBMCU"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -991,26 +991,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Calvary",
-        "url": "https://open.spotify.com/album/2LFpbMOEZnJDFwNvAboRLg"
-      },
-      "artists": [
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        },
-        {
-          "name": "Janice Gaines",
-          "url": "https://open.spotify.com/artist/5Lhj3Zhqnh4r33iU0tnecc"
-        }
-      ],
-      "duration_ms": 265688,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/17aPbGuR4BStWix3SjjnLo"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Let It Echo (Live)",
         "url": "https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 246640,
       "name": "Fierce - Live",
       "url": "https://open.spotify.com/track/4VS6PK5bVEBtEt4lLvLYoi"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Calvary",
+        "url": "https://open.spotify.com/album/2LFpbMOEZnJDFwNvAboRLg"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        },
+        {
+          "name": "Janice Gaines",
+          "url": "https://open.spotify.com/artist/5Lhj3Zhqnh4r33iU0tnecc"
+        }
+      ],
+      "duration_ms": 265688,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/17aPbGuR4BStWix3SjjnLo"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Hosanna",
-        "url": "https://open.spotify.com/album/2HmNNkm5dX8awwSlfZGgZN"
-      },
-      "artists": [
-        {
-          "name": "Gracie Binion",
-          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
-        }
-      ],
-      "duration_ms": 476677,
-      "name": "Hosanna",
-      "url": "https://open.spotify.com/track/7LcufkZ8en3eUP7NbkMrqk"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "You Will Be Saved",
         "url": "https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 374904,
       "name": "You Will Be Saved",
       "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Hosanna",
+        "url": "https://open.spotify.com/album/2HmNNkm5dX8awwSlfZGgZN"
+      },
+      "artists": [
+        {
+          "name": "Gracie Binion",
+          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
+        }
+      ],
+      "duration_ms": 476677,
+      "name": "Hosanna",
+      "url": "https://open.spotify.com/track/7LcufkZ8en3eUP7NbkMrqk"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 283746,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Royalty: Live At The Ryman",
         "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 427389,
       "name": "God So Loved - Live",
       "url": "https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 283746,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Thank The Lord",
-        "url": "https://open.spotify.com/album/7gjCfoCmp00bvGVYQzg8JB"
-      },
-      "artists": [
-        {
-          "name": "Madison Street Worship",
-          "url": "https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53"
-        },
-        {
-          "name": "Noah Hinshaw",
-          "url": "https://open.spotify.com/artist/5G6xDPshmI9d5TObWw0VJM"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Thank The Lord",
-      "url": "https://open.spotify.com/track/17twfk8FZ0DX7obvyGyoS8"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Sing! The Great Commission - World Tour (Live)",
         "url": "https://open.spotify.com/album/1WsOwc3ZE7MvMzube1cPyF"
       },
@@ -1583,22 +1563,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "The Worship Initiative, Vol. 8",
-        "url": "https://open.spotify.com/album/10mYLdNmVV5zvPO6EVxzPB"
+        "name": "Thank The Lord",
+        "url": "https://open.spotify.com/album/7gjCfoCmp00bvGVYQzg8JB"
       },
       "artists": [
         {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+          "name": "Madison Street Worship",
+          "url": "https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53"
         },
         {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+          "name": "Noah Hinshaw",
+          "url": "https://open.spotify.com/artist/5G6xDPshmI9d5TObWw0VJM"
         }
       ],
-      "duration_ms": 286481,
-      "name": "Nothing But the Blood",
-      "url": "https://open.spotify.com/track/0lY7aTxHRprImCO03ueK5d"
+      "duration_ms": 279266,
+      "name": "Thank The Lord",
+      "url": "https://open.spotify.com/track/17twfk8FZ0DX7obvyGyoS8"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1619,6 +1599,26 @@
       "duration_ms": 285773,
       "name": "Yes He Lives - Live",
       "url": "https://open.spotify.com/track/0PIbTI6cRxRiPl7tFDO1co"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "The Worship Initiative, Vol. 8",
+        "url": "https://open.spotify.com/album/10mYLdNmVV5zvPO6EVxzPB"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 286481,
+      "name": "Nothing But the Blood",
+      "url": "https://open.spotify.com/track/0lY7aTxHRprImCO03ueK5d"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Rolled Away (Sunday Edit)",
-        "url": "https://open.spotify.com/album/24zeioYNhFWy9v2WSryXZe"
-      },
-      "artists": [
-        {
-          "name": "CCV Music",
-          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
-        }
-      ],
-      "duration_ms": 295157,
-      "name": "Rolled Away - Sunday Edit",
-      "url": "https://open.spotify.com/track/09o5CpYZUfXe94FHsRVfDJ"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "My King and My Defender",
         "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 320981,
       "name": "My King and My Defender",
       "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Rolled Away (Sunday Edit)",
+        "url": "https://open.spotify.com/album/24zeioYNhFWy9v2WSryXZe"
+      },
+      "artists": [
+        {
+          "name": "CCV Music",
+          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
+        }
+      ],
+      "duration_ms": 295157,
+      "name": "Rolled Away - Sunday Edit",
+      "url": "https://open.spotify.com/track/09o5CpYZUfXe94FHsRVfDJ"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "Faith And Wonder (Live)",
+        "url": "https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj"
+      },
+      "artists": [
+        {
+          "name": "Meredith Andrews",
+          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
+        }
+      ],
+      "duration_ms": 359374,
+      "name": "Who Could (Live)",
+      "url": "https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "We Shall Behold Him/Behold The Lamb",
         "url": "https://open.spotify.com/album/6CpNgIYmLAgZmvgPoynCzg"
       },
@@ -1975,22 +1991,6 @@
       "duration_ms": 480240,
       "name": "We Shall Behold Him/Behold The Lamb",
       "url": "https://open.spotify.com/track/7mINdftFHnJOOO2ur4ZFzS"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "Faith And Wonder (Live)",
-        "url": "https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj"
-      },
-      "artists": [
-        {
-          "name": "Meredith Andrews",
-          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
-        }
-      ],
-      "duration_ms": 359374,
-      "name": "Who Could (Live)",
-      "url": "https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/2bbndQzbmvnaaiKcTPsnYO"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 271533,
-      "name": "Lion and the Lamb",
-      "url": "https://open.spotify.com/track/2nn89bqsJMqX9po7uiSr5r"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "All The Earth",
         "url": "https://open.spotify.com/album/6AmRmySvr449vMyF5Eq7ty"
       },
@@ -2495,6 +2479,22 @@
       "duration_ms": 486944,
       "name": "Peace Be Still (feat. Lauren Daigle)",
       "url": "https://open.spotify.com/track/6zvSkAEtFZIJD7kVeo5by4"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/2bbndQzbmvnaaiKcTPsnYO"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 271533,
+      "name": "Lion and the Lamb",
+      "url": "https://open.spotify.com/track/2nn89bqsJMqX9po7uiSr5r"
     },
     {
       "added_at": "2026-04-04 06:11:10",

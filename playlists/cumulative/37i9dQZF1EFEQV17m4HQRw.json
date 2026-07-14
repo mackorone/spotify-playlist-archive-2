@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Amores Turistas",
+        "url": "https://open.spotify.com/album/1HN2pByOnHBzqopDuT4cXJ"
+      },
+      "artists": [
+        {
+          "name": "Ella",
+          "url": "https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150197,
+      "name": "Amores Turistas",
+      "url": "https://open.spotify.com/track/1B1NyhUHqxVK7K2Z2pOQr8"
+    },
+    {
+      "album": {
         "name": "Apollo 11",
         "url": "https://open.spotify.com/album/2twRkiHWXubukZhe4kp7cm"
       },

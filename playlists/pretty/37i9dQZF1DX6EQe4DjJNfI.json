@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Chris MC, BIN",
-  "num_followers": 189942,
+  "num_followers": 189973,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-07-03 03:01:33",
       "album": {
-        "name": "Eu Sou S\u00f3 Minha (Live from Vevo)",
-        "url": "https://open.spotify.com/album/6bX9t2JWqNwuZCL3VrBP80"
-      },
-      "artists": [
-        {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Eu Sou S\u00f3 Minha - Live",
-      "url": "https://open.spotify.com/track/34qgCotJhDI8vhQysVIpai"
-    },
-    {
-      "added_at": "2026-07-03 03:01:33",
-      "album": {
         "name": "Amar\u00edssima",
         "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 216000,
       "name": "10 Minutos",
       "url": "https://open.spotify.com/track/7exzjXAlIdaZN72iALsc5W"
+    },
+    {
+      "added_at": "2026-07-03 03:01:33",
+      "album": {
+        "name": "Eu Sou S\u00f3 Minha (Live from Vevo)",
+        "url": "https://open.spotify.com/album/6bX9t2JWqNwuZCL3VrBP80"
+      },
+      "artists": [
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Eu Sou S\u00f3 Minha - Live",
+      "url": "https://open.spotify.com/track/34qgCotJhDI8vhQysVIpai"
     },
     {
       "added_at": "2026-07-03 03:01:33",
@@ -739,6 +739,30 @@
     {
       "added_at": "2026-07-03 03:01:33",
       "album": {
+        "name": "SEM AR//CAOS",
+        "url": "https://open.spotify.com/album/2x3AutqIh3CMYwiC3A1ZQl"
+      },
+      "artists": [
+        {
+          "name": "Gustavvo",
+          "url": "https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8"
+        },
+        {
+          "name": "Guiggow",
+          "url": "https://open.spotify.com/artist/5EQOHqyIiNMSVwndMmZRuN"
+        },
+        {
+          "name": "Zuchini",
+          "url": "https://open.spotify.com/artist/7Kydl65dvmuhcxPgG3WTKZ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "SEM AR",
+      "url": "https://open.spotify.com/track/1aqyJwn9vx6WMV6h8RfhM9"
+    },
+    {
+      "added_at": "2026-07-03 03:01:33",
+      "album": {
         "name": "Poema Sujo",
         "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
       },
@@ -783,30 +807,6 @@
       "duration_ms": 273777,
       "name": "Ouvir Voc\u00ea (Remix)",
       "url": "https://open.spotify.com/track/2rFdrg0CX3R2TGxPWe1uph"
-    },
-    {
-      "added_at": "2026-07-03 03:01:33",
-      "album": {
-        "name": "SEM AR//CAOS",
-        "url": "https://open.spotify.com/album/2x3AutqIh3CMYwiC3A1ZQl"
-      },
-      "artists": [
-        {
-          "name": "Gustavvo",
-          "url": "https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8"
-        },
-        {
-          "name": "Guiggow",
-          "url": "https://open.spotify.com/artist/5EQOHqyIiNMSVwndMmZRuN"
-        },
-        {
-          "name": "Zuchini",
-          "url": "https://open.spotify.com/artist/7Kydl65dvmuhcxPgG3WTKZ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "SEM AR",
-      "url": "https://open.spotify.com/track/1aqyJwn9vx6WMV6h8RfhM9"
     },
     {
       "added_at": "2026-07-03 03:01:33",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-07-03 03:01:33",
       "album": {
+        "name": "Me Deixa Ser Pausa",
+        "url": "https://open.spotify.com/album/1YGx8ztMd3xEWsGX2P6ln0"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "duration_ms": 127389,
+      "name": "Me Deixa Ser Pausa",
+      "url": "https://open.spotify.com/track/3lHmzv6l0t3xHHl4LWvExn"
+    },
+    {
+      "added_at": "2026-07-03 03:01:33",
+      "album": {
         "name": "Se For Com Voc\u00ea",
         "url": "https://open.spotify.com/album/4jAsY6ILLnhixhthDLRXay"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 170191,
       "name": "Se For Com Voc\u00ea",
       "url": "https://open.spotify.com/track/0R3UF9P83s8P6DR9lOnfuE"
-    },
-    {
-      "added_at": "2026-07-03 03:01:33",
-      "album": {
-        "name": "Me Deixa Ser Pausa",
-        "url": "https://open.spotify.com/album/1YGx8ztMd3xEWsGX2P6ln0"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        }
-      ],
-      "duration_ms": 127389,
-      "name": "Me Deixa Ser Pausa",
-      "url": "https://open.spotify.com/track/3lHmzv6l0t3xHHl4LWvExn"
     },
     {
       "added_at": "2026-07-03 03:01:33",

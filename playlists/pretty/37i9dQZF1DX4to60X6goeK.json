@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Kanine",
-  "num_followers": 76046,
+  "num_followers": 76053,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -611,26 +611,6 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
-        "name": "Skanka",
-        "url": "https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU"
-      },
-      "artists": [
-        {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
-        },
-        {
-          "name": "Jaybee (UK)",
-          "url": "https://open.spotify.com/artist/0Qe56XT4qjMaQhwVSFSFbH"
-        }
-      ],
-      "duration_ms": 190689,
-      "name": "Skanka",
-      "url": "https://open.spotify.com/track/0oQsppeTfYFHbDHLrPFXno"
-    },
-    {
-      "added_at": "2026-07-01 17:59:00",
-      "album": {
         "name": "Beamin\u2019 (K Motionz & skantia Remix)",
         "url": "https://open.spotify.com/album/4gmV6lUCXyhnOcUglQ0qPQ"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 243103,
       "name": "Beamin\u2019 - K Motionz & skantia Remix",
       "url": "https://open.spotify.com/track/56qOWeHCiS8EbdYc39sjEr"
+    },
+    {
+      "added_at": "2026-07-01 17:59:00",
+      "album": {
+        "name": "Skanka",
+        "url": "https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU"
+      },
+      "artists": [
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        },
+        {
+          "name": "Jaybee (UK)",
+          "url": "https://open.spotify.com/artist/0Qe56XT4qjMaQhwVSFSFbH"
+        }
+      ],
+      "duration_ms": 190689,
+      "name": "Skanka",
+      "url": "https://open.spotify.com/track/0oQsppeTfYFHbDHLrPFXno"
     },
     {
       "added_at": "2026-07-01 17:59:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
-        "name": "Vandal",
-        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
-      },
-      "artists": [
-        {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
-        }
-      ],
-      "duration_ms": 161379,
-      "name": "Vandal",
-      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
-    },
-    {
-      "added_at": "2026-07-01 17:59:00",
-      "album": {
         "name": "Left 2 Right",
         "url": "https://open.spotify.com/album/5Geg97JMNRNsSh1kgw7yY6"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 202971,
       "name": "Left 2 Right",
       "url": "https://open.spotify.com/track/3dbCZLMW3xuBry6L8pBlkE"
+    },
+    {
+      "added_at": "2026-07-01 17:59:00",
+      "album": {
+        "name": "Vandal",
+        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
     },
     {
       "added_at": "2026-07-01 17:59:00",

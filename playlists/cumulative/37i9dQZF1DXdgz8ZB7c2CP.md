@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a> 💨 featuring MPH
 
-1,454 songs - 3 day 6 hr 51 min
+1,455 songs - 3 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,7 @@
 | [Dafodil](https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Dafodil](https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb) | 3:32 | 2024-08-29 | 2025-04-23 |
 | [Damager](https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Damager](https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB) | 3:44 | 2024-11-15 | 2025-11-22 |
 | [Dance](https://open.spotify.com/track/58i2U0HFuS1fqyfkoXRv6r) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Chopsoe](https://open.spotify.com/artist/5y8reXJqfkQwiFoFHOqTzF) | [Noise Pollution](https://open.spotify.com/album/2Bj2CNQUurTkMIhy4gero9) | 2:05 | 2024-12-05 | 2025-01-17 |
-| [dance 4 infinity](https://open.spotify.com/track/4jBjwCXgvAJNPYluVDb3uJ) | [Silent Boy](https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu), [defyer](https://open.spotify.com/artist/4gzhQmub5TDvQ9cgvhvOUE) | [333 dance songs](https://open.spotify.com/album/5i08Xlvbxhlbq3M4NLEV0l) | 2:35 | 2026-02-20 |  |
+| [dance 4 infinity](https://open.spotify.com/track/4jBjwCXgvAJNPYluVDb3uJ) | [Silent Boy](https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu), [defyer](https://open.spotify.com/artist/4gzhQmub5TDvQ9cgvhvOUE) | [333 dance songs](https://open.spotify.com/album/5i08Xlvbxhlbq3M4NLEV0l) | 2:35 | 2026-02-20 | 2026-07-14 |
 | [Dance Without You](https://open.spotify.com/track/0GUhOjgRbZnsqmaz9rxhVr) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o), [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Dance Without You](https://open.spotify.com/album/5OpKlmpZ98jUQMeoVuNYAF) | 2:45 | 2025-06-19 | 2025-12-08 |
 | [Dancing In The Leaves](https://open.spotify.com/track/3nHjEuNtJ0fmAD2EljdKlz) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Buunshin](https://open.spotify.com/artist/5ucX3eT8wlEQGRVwUyeqBj), [Lucy Lucy](https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs) | [Dancing In The Leaves](https://open.spotify.com/album/7H7TH8noObN6xLd7Oy34Sj) | 2:03 | 2025-11-07 | 2025-12-23 |
 | [DANGER](https://open.spotify.com/track/4BjpmFI41RA3sSVhwBHWOp) | [Bad Patterns](https://open.spotify.com/artist/7svnzSrXghKRXwNk7K4Le0), [Justin Joseph](https://open.spotify.com/artist/11PePQsNsBsfTF5nSK7mbZ) | [DANGER](https://open.spotify.com/album/7A8iQWG13GeAcKmYlAkvMM) | 2:43 | 2026-02-13 | 2026-03-07 |
@@ -1279,6 +1279,7 @@
 | [thumbs](https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Lamb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [thumbs](https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8) | 2:50 | 2026-06-12 |  |
 | [tic tac toe](https://open.spotify.com/track/0ObiilKtl2cNkpiSscSVP6) | [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v), [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn), [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf) | [tic tac toe](https://open.spotify.com/album/08n4CTuQ8LVjfnHZ1IjmFs) | 2:52 | 2021-08-06 | 2022-06-22 |
 | [Ticking Time Bomb](https://open.spotify.com/track/1CtVZuYHOWTY7QYSTbYbu4) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Power of Panic](https://open.spotify.com/album/1zfxKqa3dLKcXto7XOZT0u) | 2:47 | 2024-07-12 | 2024-10-25 |
+| [Til The Sun Burns Out](https://open.spotify.com/track/1IeimEvUVGhtL81kexJ33q) | [Daily Bread](https://open.spotify.com/artist/4IsiG6RpDyRq6Frd2CvddW) | [Til The Sun Burns Out](https://open.spotify.com/album/2PaEUWw3OtsmN1owkzpZDA) | 3:28 | 2026-07-13 |  |
 | [TIME + ENERGY](https://open.spotify.com/track/25w0UAB6bOKU7M3EXwWgZh) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [TIME + ENERGY](https://open.spotify.com/album/1Bgd2VZwTf6sPYtpwQKvgM) | 2:58 | 2021-08-06 | 2023-05-13 |
 | [Time:never](https://open.spotify.com/track/3c7kn1x8bIqMiTT8rTDcsM) | [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM), [Swan](https://open.spotify.com/artist/6c3y5GxfMe6dWgUtTLnnCE) | [Time:never](https://open.spotify.com/album/6iLIhOWokff8uIfsvRskGX) | 3:19 | 2026-07-10 |  |
 | [Timeless](https://open.spotify.com/track/26oeUzITZWkDBFEwHyLAtx) | [Kislaw](https://open.spotify.com/artist/3TyDnNCINpwLxJiRbT6uuh) | [Timeless](https://open.spotify.com/album/3Bee6iyio3FUHeFSl063ba) | 2:17 | 2025-10-10 | 2025-11-08 |

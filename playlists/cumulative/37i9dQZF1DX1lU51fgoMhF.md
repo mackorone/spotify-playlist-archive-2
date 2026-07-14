@@ -2,9 +2,9 @@
 
 ### [Summer K\-Pop Hits \(썸머 히트\)](https://open.spotify.com/playlist/37i9dQZF1DX1lU51fgoMhF)
 
-> Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: Dayoung\)
+> Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: WOOAH \(우아\)\)
 
-415 songs - 22 hr 29 min
+416 songs - 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [AH YEAH](https://open.spotify.com/track/4Sk31AucPyWuAEztAu2dEA) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [WE](https://open.spotify.com/album/35kSd7Y6cojcwxuW10dOuU) | 2:56 | 2022-07-27 | 2024-04-19 |
 | [Airplane](https://open.spotify.com/track/45GRs2YmGzTKp2MmafqCjG) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 3:34 | 2021-11-17 | 2022-07-27 |
 | [Airplane](https://open.spotify.com/track/74nVZpjqAjZvuOWmu3I6o5) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 3:34 | 2022-07-27 | 2022-08-13 |
-| [Alcohol\-Free](https://open.spotify.com/track/01bKPMGCl8LFzbtciNlhaj) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/7KnpAprx7DBlh6WWTsm3Jp) | 3:30 | 2023-09-14 |  |
+| [Alcohol\-Free](https://open.spotify.com/track/01bKPMGCl8LFzbtciNlhaj) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/7KnpAprx7DBlh6WWTsm3Jp) | 3:30 | 2023-09-14 | 2026-07-14 |
 | [Alcohol\-Free](https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 3:30 | 2021-11-17 | 2026-05-26 |
 | [Aloha Oe](https://open.spotify.com/track/3wIBehhSPvWurziEvwFZov) | [Cherry Bullet](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) | [Aloha Oe](https://open.spotify.com/album/2GbJdvDNT54jK11Oof6BRQ) | 3:01 | 2021-11-17 | 2022-07-28 |
 | [Alright](https://open.spotify.com/track/3YwRisfTPmDXtZ1Lnz6Fpr) | [Ares Carter](https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Alright](https://open.spotify.com/album/4tPe3h6ShVtDHo3TOeyqIL) | 3:18 | 2021-11-17 | 2022-07-29 |
@@ -361,6 +361,7 @@
 | [STYLE](https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [STYLE](https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB) | 3:29 | 2025-06-25 |  |
 | [SUGAR](https://open.spotify.com/track/3J33REyr0X61LC869JrocX) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [Splash \- MIRAE 2nd Mini Album](https://open.spotify.com/album/6i4asWHVJ6ji44qYYSUakM) | 3:51 | 2021-11-17 | 2022-07-19 |
 | [SUMMER](https://open.spotify.com/track/6QwgTML7rpE006H9ROG5mi) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [SUMMER](https://open.spotify.com/album/6D2b7LdHoc6YhWf2Zx5M0Y) | 3:07 | 2024-07-08 | 2024-08-08 |
+| [SUMMER](https://open.spotify.com/track/0ttbI9SXLukXICIoNIrH0l) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [Wish With W : Vol.3](https://open.spotify.com/album/4iHtzmB65LzS88mAtbckKG) | 2:24 | 2026-07-13 |  |
 | [Summer Bliss](https://open.spotify.com/track/1xVZxMqppn2l2kIRLSR6IN) | [JinE](https://open.spotify.com/artist/0GCWHNEMDSH4WQ1Ar5T5od) | [Summer Bliss](https://open.spotify.com/album/6TTyktwPBBDfsgc4ZqrjiF) | 3:05 | 2024-07-08 | 2024-08-01 |
 | [Summer Comes](https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Golden Hourglass](https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif) | 3:20 | 2023-07-25 | 2024-09-25 |
 | [Summer Freak](https://open.spotify.com/track/7MeLFWgbHK8XxiMwvAUyne) | [Soulights](https://open.spotify.com/artist/35ducZNsJuhyWmHnhHAADz) | [Summer Freak](https://open.spotify.com/album/7zld27DJOAGzHZwTjKH1Lb) | 2:54 | 2022-06-09 | 2022-07-03 |

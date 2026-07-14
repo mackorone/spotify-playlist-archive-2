@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdG6xNmMOWik.md) - [plain]
 
 > 蓮ノ空女学院スクールアイドルクラブ」の楽曲を1つのプレイリストで。Enjoy music from " LoveLive! HASU NO SORA JOGAKUIN SCHOOL IDOL CLUB"\. ©プロジェクトラブライブ！蓮ノ空女学院スクールアイドルクラブ
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,642 likes - 105 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,644 likes - 105 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

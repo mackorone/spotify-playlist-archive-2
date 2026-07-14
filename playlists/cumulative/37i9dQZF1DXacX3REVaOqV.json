@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 185375,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/462XncSZQqphAVXMwDY3Yp"
@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 319882,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/68nYFINrWVFTJ23ukqGcPt"
@@ -2488,7 +2488,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 211428,
       "name": "Celebrate Life",
       "url": "https://open.spotify.com/track/1C2lPtkPvjvoQQ91RgwyIf"
@@ -2732,7 +2732,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 199248,
       "name": "Come To Me",
       "url": "https://open.spotify.com/track/2qWEfQHQsIjJKkZk3NYr2O"
@@ -3196,7 +3196,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 240024,
       "name": "Dancing - Samm Remix",
       "url": "https://open.spotify.com/track/1rrCwv6BYLOzhvTxq5UarM"
@@ -3291,6 +3291,24 @@
     },
     {
       "album": {
+        "name": "Dancing Till Sunrise",
+        "url": "https://open.spotify.com/album/2NOEeK2OrNWcSQiOKH1oE2"
+      },
+      "artists": [
+        {
+          "name": "StoneBridge",
+          "url": "https://open.spotify.com/artist/1jpQ5Xepnpx5YAqKQITP4A"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164285,
+      "name": "Dancing Till Sunrise",
+      "url": "https://open.spotify.com/track/7ytDYGgGS3t50kaT2P5hIE"
+    },
+    {
+      "album": {
         "name": "Freerange Records Presents Colour Series: Orange 05",
         "url": "https://open.spotify.com/album/7q6LEIl8DXY2Z5sEwiuXuM"
       },
@@ -3324,7 +3342,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 182044,
       "name": "Dare You",
       "url": "https://open.spotify.com/track/2SJYvOEDMMiVXlctHQ8WJ2"
@@ -3776,7 +3794,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 175238,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/2JgqwzlOSIxq5WmXKJdnVp"
@@ -4042,7 +4060,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 182125,
       "name": "Easily",
       "url": "https://open.spotify.com/track/5y4UnA1BOuxp2J0vbO575R"
@@ -4086,7 +4104,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 134905,
       "name": "Edge of Desire",
       "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
@@ -4370,7 +4388,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 167208,
       "name": "Everything For You",
       "url": "https://open.spotify.com/track/5XMZSjx1fi2tx2GFTTaPCZ"
@@ -4622,7 +4640,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 164761,
       "name": "Feel Free",
       "url": "https://open.spotify.com/track/4nq4MNzju4UhdmL6Oyf6cT"
@@ -4724,6 +4742,28 @@
       "duration_ms": 180982,
       "name": "Feel The Love (Pride Anthem 2025)",
       "url": "https://open.spotify.com/track/4CVlaXv9huD30ej1FRZrfg"
+    },
+    {
+      "album": {
+        "name": "Feel the Vibe (Sugarstarr's Long Mix)",
+        "url": "https://open.spotify.com/album/5ziFGxsMg00PUySAII2cc3"
+      },
+      "artists": [
+        {
+          "name": "Motte",
+          "url": "https://open.spotify.com/artist/5sB137AE7SdNPstyPdz9BY"
+        },
+        {
+          "name": "Sugarstarr",
+          "url": "https://open.spotify.com/artist/7FXy2Mz6gHQKouWYhNz0NK"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317419,
+      "name": "Feel the Vibe - Sugarstarr's Long Mix",
+      "url": "https://open.spotify.com/track/22SKto32i63Lrm6yePSsXw"
     },
     {
       "album": {
@@ -5154,7 +5194,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 201700,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
@@ -5392,7 +5432,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 213978,
       "name": "Funky",
       "url": "https://open.spotify.com/track/5R94fJwcK8nFiIBmVFQ4Du"
@@ -5970,7 +6010,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 123640,
       "name": "Got Me Good",
       "url": "https://open.spotify.com/track/7tp47Us7OJ0u2JaPnSCP5n"
@@ -6548,7 +6588,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 191500,
       "name": "High On You",
       "url": "https://open.spotify.com/track/4B9KPPA4Nm4HKDynyuoRZe"
@@ -6810,7 +6850,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 231023,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/4hTT2n6g4oq7isk4w1adY2"
@@ -7594,7 +7634,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 176666,
       "name": "I Won\u2019t Let You Go (feat. Eight9FLY)",
       "url": "https://open.spotify.com/track/2rPC0QvHTDT7qnUGZIrGxc"
@@ -7642,7 +7682,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 161952,
       "name": "ILLUSIONS",
       "url": "https://open.spotify.com/track/4auvJ0GGuAiw4bQF9gOF2S"
@@ -8178,7 +8218,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 197419,
       "name": "Jazzy Glazzy",
       "url": "https://open.spotify.com/track/03vtyVbJQfT7IEQeeLxmy1"
@@ -8990,7 +9030,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 208534,
       "name": "Lift Me High",
       "url": "https://open.spotify.com/track/4m0F3I0T7y2tkSSZ1Ha80B"
@@ -9194,6 +9234,32 @@
       "duration_ms": 178763,
       "name": "LOOKS LIKE IT (SPACE TALK)",
       "url": "https://open.spotify.com/track/16XeipT6LkTIHfP3fcP2hu"
+    },
+    {
+      "album": {
+        "name": "Looney Tunes",
+        "url": "https://open.spotify.com/album/5NjqfBREBVCH8cPC55KzGx"
+      },
+      "artists": [
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+        },
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        },
+        {
+          "name": "bankr",
+          "url": "https://open.spotify.com/artist/1yeRfHskcp7ujLZNmabEpp"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Looney Tunes",
+      "url": "https://open.spotify.com/track/56nOWmdv5U0DIcKzzKGOIb"
     },
     {
       "album": {
@@ -9726,7 +9792,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 226890,
       "name": "Luv U",
       "url": "https://open.spotify.com/track/5mMJdBqQu2VvHrkmpTeFTP"
@@ -10134,7 +10200,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 152883,
       "name": "Mi Vida",
       "url": "https://open.spotify.com/track/7GNcodiCQICWsRT99AZ3ib"
@@ -10332,7 +10398,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 182109,
       "name": "Morning Coffee",
       "url": "https://open.spotify.com/track/0U62uEAcEBfWab5CyQLaEg"
@@ -10354,7 +10420,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 190153,
       "name": "Moth To A Flame",
       "url": "https://open.spotify.com/track/4ZOdEGreqCzM2P3C9EE4AF"
@@ -10738,7 +10804,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 178552,
       "name": "Nappp",
       "url": "https://open.spotify.com/track/2VrfjBzBu6RD6ONQSq3NUP"
@@ -10980,7 +11046,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 217142,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/7nj9KmrlNU0RnVl8kogfyd"
@@ -11098,7 +11164,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 187607,
       "name": "Now We Are One",
       "url": "https://open.spotify.com/track/1AwmULJ7ZXNozQbFJ4rqj5"
@@ -12003,6 +12069,24 @@
     },
     {
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/1Ys6RUIJSGa1a82QGvTrfr"
+      },
+      "artists": [
+        {
+          "name": "Jon Flores",
+          "url": "https://open.spotify.com/artist/22jXZlcnm6s2SidCCQ23rh"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329280,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/4SICnBUBUgDS6zUsfgMGWX"
+    },
+    {
+      "album": {
         "name": "PRAY",
         "url": "https://open.spotify.com/album/6cMdeBfnyXRCcJWx80653Y"
       },
@@ -12168,6 +12252,24 @@
       "duration_ms": 214285,
       "name": "R U",
       "url": "https://open.spotify.com/track/0YOgkVf88IfKjV5dbEnK15"
+    },
+    {
+      "album": {
+        "name": "Raise Your Hands",
+        "url": "https://open.spotify.com/album/3AC4AC0FIEsAa4dHKIJqp5"
+      },
+      "artists": [
+        {
+          "name": "Jay Vegas",
+          "url": "https://open.spotify.com/artist/4KJr0U6w9jItvF3ypmQLjw"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192541,
+      "name": "Raise Your Hands - Radio Edit",
+      "url": "https://open.spotify.com/track/2pmJz2cAVMeXWQ2xCPPx1m"
     },
     {
       "album": {
@@ -13456,6 +13558,28 @@
       "duration_ms": 203346,
       "name": "SILLAGE",
       "url": "https://open.spotify.com/track/01p0P5yMqqXmUEKS6ok1be"
+    },
+    {
+      "album": {
+        "name": "Silver Lines (feat. Emily Warren)",
+        "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Emily Warren",
+          "url": "https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201296,
+      "name": "Silver Lines (feat. Emily Warren)",
+      "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
     },
     {
       "album": {
@@ -14792,7 +14916,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 177913,
       "name": "Taking Us Higher",
       "url": "https://open.spotify.com/track/1y5AErdUv289F9zs8bbcRQ"
@@ -15795,6 +15919,24 @@
     },
     {
       "album": {
+        "name": "What Did You Come For ?",
+        "url": "https://open.spotify.com/album/3HK2AgbyXwcMfYBjG2A71e"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221535,
+      "name": "Trapped - Radio-Edit",
+      "url": "https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx"
+    },
+    {
+      "album": {
         "name": "Tremble (ft. Kim English)",
         "url": "https://open.spotify.com/album/2Fji8FWMOMhF1mLiH5taPF"
       },
@@ -15974,7 +16116,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 187500,
       "name": "Turn Me Up",
       "url": "https://open.spotify.com/track/5cd8YFFqYye4F1BEnaDE9g"
@@ -16468,7 +16610,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 153750,
       "name": "Waves of Luv",
       "url": "https://open.spotify.com/track/4kmxETbclaI5PF9uqKKM8q"
@@ -16582,7 +16724,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 180923,
       "name": "We Move",
       "url": "https://open.spotify.com/track/3nbZeBRz4WrMfUYnMC7zfu"
@@ -16994,7 +17136,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 200704,
       "name": "With You (Tonight)",
       "url": "https://open.spotify.com/track/4asw6zOFWBeYkCr3vSknf1"

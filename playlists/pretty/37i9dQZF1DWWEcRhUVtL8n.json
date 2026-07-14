@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Quiet Houses",
-  "num_followers": 1666738,
+  "num_followers": 1666711,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHnHctbjvk6zKXAWE3txQOxY9Kcz",
+  "snapshot_id": "AAAAAGL85Q1hDogEr+3gclo6juWQ3cNk",
   "tracks": [
     {
       "added_at": "2026-06-19 04:01:13",
@@ -153,6 +153,22 @@
       "url": "https://open.spotify.com/track/22l7ocwYpEYGvYpM9T2C5K"
     },
     {
+      "added_at": "2026-07-13 20:06:18",
+      "album": {
+        "name": "eat the pavement",
+        "url": "https://open.spotify.com/album/1BplCRhETbabreZMRIgkfx"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "duration_ms": 224950,
+      "name": "eat the pavement",
+      "url": "https://open.spotify.com/track/5WnxvPtkEJ31yXF8ZPwQr2"
+    },
+    {
       "added_at": "2026-05-15 16:17:55",
       "album": {
         "name": "Dracula",
@@ -189,22 +205,6 @@
       "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Back To Me",
-        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
-    },
-    {
       "added_at": "2026-06-26 04:55:44",
       "album": {
         "name": "My Body Isn't Ready",
@@ -219,6 +219,22 @@
       "duration_ms": 217380,
       "name": "My Body Isn't Ready",
       "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
     },
     {
       "added_at": "2026-05-25 17:48:56",
@@ -321,20 +337,20 @@
       "url": "https://open.spotify.com/track/1AIDXxGVErYEjI3dJ6KNJY"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
+      "added_at": "2026-06-19 04:01:13",
       "album": {
-        "name": "In Every Lifetime (From the Prime Original Series, Off Campus)",
-        "url": "https://open.spotify.com/album/2yPLiUHhRdTE0b84ljXgGd"
+        "name": "Whatever You Wanna",
+        "url": "https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs"
       },
       "artists": [
         {
-          "name": "The Two Lips",
-          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+          "name": "Annabelle Dinda",
+          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
         }
       ],
-      "duration_ms": 203572,
-      "name": "In Every Lifetime",
-      "url": "https://open.spotify.com/track/6Ya6zZj0ZzxjpErU7LM7ba"
+      "duration_ms": 211486,
+      "name": "Whatever You Wanna",
+      "url": "https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -353,20 +369,20 @@
       "url": "https://open.spotify.com/track/3cLBx0lEWPKSM99hx5RVcx"
     },
     {
-      "added_at": "2026-06-19 04:01:13",
+      "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Whatever You Wanna",
-        "url": "https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs"
+        "name": "In Every Lifetime (From the Prime Original Series, Off Campus)",
+        "url": "https://open.spotify.com/album/2yPLiUHhRdTE0b84ljXgGd"
       },
       "artists": [
         {
-          "name": "Annabelle Dinda",
-          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+          "name": "The Two Lips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
         }
       ],
-      "duration_ms": 211486,
-      "name": "Whatever You Wanna",
-      "url": "https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz"
+      "duration_ms": 203572,
+      "name": "In Every Lifetime",
+      "url": "https://open.spotify.com/track/6Ya6zZj0ZzxjpErU7LM7ba"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -619,22 +635,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Do You Really Love Her",
-        "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 228168,
-      "name": "Do You Really Love Her",
-      "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Take A Drive",
         "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 225000,
       "name": "Take A Drive",
       "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Do You Really Love Her",
+        "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 228168,
+      "name": "Do You Really Love Her",
+      "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -857,22 +873,6 @@
       "url": "https://open.spotify.com/track/1ahZDBeXgSjbo31UyKh7w6"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "In Twos",
-        "url": "https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW"
-      },
-      "artists": [
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
-        }
-      ],
-      "duration_ms": 166897,
-      "name": "In Twos",
-      "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
-    },
-    {
       "added_at": "2026-07-03 04:20:13",
       "album": {
         "name": "of everyone in the world\u2026",
@@ -891,6 +891,22 @@
       "duration_ms": 187445,
       "name": "of everyone in the world\u2026",
       "url": "https://open.spotify.com/track/40hiSrEnjRq1JyMeDf0Npo"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "In Twos",
+        "url": "https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 166897,
+      "name": "In Twos",
+      "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -997,22 +1013,6 @@
       "url": "https://open.spotify.com/track/2uEWM5lSQsl0ubzbxFd6U7"
     },
     {
-      "added_at": "2026-06-05 04:02:01",
-      "album": {
-        "name": "Mesmerized",
-        "url": "https://open.spotify.com/album/48cw0m0nuKHe6Q369tRLkr"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 158936,
-      "name": "Mesmerized",
-      "url": "https://open.spotify.com/track/6jOxmhdeeabZJ6ALOalk45"
-    },
-    {
       "added_at": "2026-06-26 04:55:44",
       "album": {
         "name": "Suburbia",
@@ -1029,6 +1029,22 @@
       "url": "https://open.spotify.com/track/5zYpWznknMJkx7ovNZLbuk"
     },
     {
+      "added_at": "2026-06-05 04:02:01",
+      "album": {
+        "name": "Mesmerized",
+        "url": "https://open.spotify.com/album/48cw0m0nuKHe6Q369tRLkr"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 158936,
+      "name": "Mesmerized",
+      "url": "https://open.spotify.com/track/6jOxmhdeeabZJ6ALOalk45"
+    },
+    {
       "added_at": "2026-05-15 19:54:37",
       "album": {
         "name": "Better Than Before",
@@ -1043,22 +1059,6 @@
       "duration_ms": 162768,
       "name": "Better Than Before",
       "url": "https://open.spotify.com/track/30ewsn0jSF9Jme7Altrz9X"
-    },
-    {
-      "added_at": "2026-06-12 04:02:00",
-      "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/3GcXs4OJPRieUpoTZabyHP"
-      },
-      "artists": [
-        {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
-        }
-      ],
-      "duration_ms": 228904,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/1Scf7pyUoj6g4gMHd1O5Uk"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1079,6 +1079,22 @@
       "duration_ms": 133270,
       "name": "wasted time",
       "url": "https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS"
+    },
+    {
+      "added_at": "2026-06-12 04:02:00",
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/3GcXs4OJPRieUpoTZabyHP"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "duration_ms": 228904,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/1Scf7pyUoj6g4gMHd1O5Uk"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1129,6 +1145,22 @@
       "url": "https://open.spotify.com/track/4JLB0VDIuNsOrZrAIlNri2"
     },
     {
+      "added_at": "2026-07-06 20:29:59",
+      "album": {
+        "name": "Edges of You",
+        "url": "https://open.spotify.com/album/6qSE38dtgNyo5Enaxa1EFo"
+      },
+      "artists": [
+        {
+          "name": "Alfie Jukes",
+          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
+        }
+      ],
+      "duration_ms": 194746,
+      "name": "Edges of You",
+      "url": "https://open.spotify.com/track/3dat7vpTyvyUiCYkvopr1L"
+    },
+    {
       "added_at": "2026-06-12 04:02:00",
       "album": {
         "name": "plum",
@@ -1159,22 +1191,6 @@
       "duration_ms": 154244,
       "name": "I Lit The Fire",
       "url": "https://open.spotify.com/track/3AbrErcms1clz7cbakuQt1"
-    },
-    {
-      "added_at": "2026-07-06 20:29:59",
-      "album": {
-        "name": "Edges of You",
-        "url": "https://open.spotify.com/album/6qSE38dtgNyo5Enaxa1EFo"
-      },
-      "artists": [
-        {
-          "name": "Alfie Jukes",
-          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
-        }
-      ],
-      "duration_ms": 194746,
-      "name": "Edges of You",
-      "url": "https://open.spotify.com/track/3dat7vpTyvyUiCYkvopr1L"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "RODEO CLOWN",
-        "url": "https://open.spotify.com/album/5172xO1n4yEllzzcsIqP1N"
-      },
-      "artists": [
-        {
-          "name": "Obed Padilla",
-          "url": "https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl"
-        }
-      ],
-      "duration_ms": 153764,
-      "name": "RODEO CLOWN",
-      "url": "https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Geezer",
         "url": "https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO"
       },
@@ -1299,6 +1299,22 @@
       "duration_ms": 169776,
       "name": "Geezer",
       "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "RODEO CLOWN",
+        "url": "https://open.spotify.com/album/5172xO1n4yEllzzcsIqP1N"
+      },
+      "artists": [
+        {
+          "name": "Obed Padilla",
+          "url": "https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl"
+        }
+      ],
+      "duration_ms": 153764,
+      "name": "RODEO CLOWN",
+      "url": "https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba"
     },
     {
       "added_at": "2026-06-12 04:02:00",
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Leaving The House Is A Performance",
-        "url": "https://open.spotify.com/album/2X4TbgZOMmhZ6LuWmvwDSs"
-      },
-      "artists": [
-        {
-          "name": "Sofia and the Antoinettes",
-          "url": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7"
-        }
-      ],
-      "duration_ms": 221717,
-      "name": "Naked Chess",
-      "url": "https://open.spotify.com/track/3H245jcnY44ovCFlXMXRtV"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "terrible4u",
         "url": "https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn"
       },
@@ -1363,6 +1363,22 @@
       "duration_ms": 198092,
       "name": "terrible4u",
       "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Leaving The House Is A Performance",
+        "url": "https://open.spotify.com/album/2X4TbgZOMmhZ6LuWmvwDSs"
+      },
+      "artists": [
+        {
+          "name": "Sofia and the Antoinettes",
+          "url": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7"
+        }
+      ],
+      "duration_ms": 221717,
+      "name": "Naked Chess",
+      "url": "https://open.spotify.com/track/3H245jcnY44ovCFlXMXRtV"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Sick Of Love",
-        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Sick Of Love",
-      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "AngieAngieAngie",
         "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
       },
@@ -1445,6 +1445,22 @@
       "url": "https://open.spotify.com/track/5esPnS3J0c0x94yZuCxukj"
     },
     {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Sick Of Love",
+        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Sick Of Love",
+      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
+    },
+    {
       "added_at": "2026-06-26 04:55:44",
       "album": {
         "name": "Eternal BAM Nation",
@@ -1459,6 +1475,22 @@
       "duration_ms": 144680,
       "name": "I Haven\u2019t Forgotten You",
       "url": "https://open.spotify.com/track/10dei2pRZz9USduNqb2BsY"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Pinky Promise",
+        "url": "https://open.spotify.com/album/1yNNvUBskbCyaL3U8HajF4"
+      },
+      "artists": [
+        {
+          "name": "Lola Blue",
+          "url": "https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at"
+        }
+      ],
+      "duration_ms": 184740,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/25qyBoX9Hk4WSB6lXrKw9K"
     },
     {
       "added_at": "2026-06-12 04:02:00",
@@ -1499,22 +1531,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Pinky Promise",
-        "url": "https://open.spotify.com/album/1yNNvUBskbCyaL3U8HajF4"
-      },
-      "artists": [
-        {
-          "name": "Lola Blue",
-          "url": "https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at"
-        }
-      ],
-      "duration_ms": 184740,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/25qyBoX9Hk4WSB6lXrKw9K"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
         "url": "https://open.spotify.com/album/4eXihWYidaaT9dIA25HxqN"
       },
@@ -1533,22 +1549,6 @@
       "url": "https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS"
     },
     {
-      "added_at": "2026-06-12 04:02:00",
-      "album": {
-        "name": "Southern Youth",
-        "url": "https://open.spotify.com/album/4vS8e6ggYLuO6eMNwbqRYg"
-      },
-      "artists": [
-        {
-          "name": "Chloe Slater",
-          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
-        }
-      ],
-      "duration_ms": 242029,
-      "name": "Southern Youth",
-      "url": "https://open.spotify.com/track/1PWh0ypifsoAUUN2HtZMpq"
-    },
-    {
       "added_at": "2026-07-03 04:20:13",
       "album": {
         "name": "kiss of life. (you\u2019re kinda magical)",
@@ -1565,20 +1565,36 @@
       "url": "https://open.spotify.com/track/4cW17k9yriRkF6j2hz4LPY"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
+      "added_at": "2026-06-12 04:02:00",
       "album": {
-        "name": "Never Let Go",
-        "url": "https://open.spotify.com/album/1wEDrmEFhRfbNiFRj1PTiM"
+        "name": "Southern Youth",
+        "url": "https://open.spotify.com/album/4vS8e6ggYLuO6eMNwbqRYg"
       },
       "artists": [
         {
-          "name": "Meltt",
-          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
         }
       ],
-      "duration_ms": 312000,
-      "name": "Never Let Go",
-      "url": "https://open.spotify.com/track/6wDUqYQ9sbWGMPpWOQLlmt"
+      "duration_ms": 242029,
+      "name": "Southern Youth",
+      "url": "https://open.spotify.com/track/1PWh0ypifsoAUUN2HtZMpq"
+    },
+    {
+      "added_at": "2026-07-10 16:27:35",
+      "album": {
+        "name": "Haven't Said I Love You Yet",
+        "url": "https://open.spotify.com/album/3oH6oD1wZxzAjc2sz3owej"
+      },
+      "artists": [
+        {
+          "name": "Golden Cats",
+          "url": "https://open.spotify.com/artist/2jmo1S0qDb6WzvNfTf6PUr"
+        }
+      ],
+      "duration_ms": 113725,
+      "name": "Haven't Said I Love You Yet",
+      "url": "https://open.spotify.com/track/3Bbmipb8KY7goBdBplMZ3b"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1595,6 +1611,22 @@
       "duration_ms": 266129,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Never Let Go",
+        "url": "https://open.spotify.com/album/1wEDrmEFhRfbNiFRj1PTiM"
+      },
+      "artists": [
+        {
+          "name": "Meltt",
+          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/6wDUqYQ9sbWGMPpWOQLlmt"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1643,38 +1675,6 @@
       "duration_ms": 221066,
       "name": "Memory Be a Blade",
       "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Don't Kill the Vibe",
-        "url": "https://open.spotify.com/album/4tYBaS0xN0eYmFSGHJ1C7N"
-      },
-      "artists": [
-        {
-          "name": "Jordan Joy",
-          "url": "https://open.spotify.com/artist/4SpTLCaS4bSWUFgN7AapHv"
-        }
-      ],
-      "duration_ms": 262459,
-      "name": "Don't Kill the Vibe",
-      "url": "https://open.spotify.com/track/3ZiHHaMuZ2cQXLtjxgiGUd"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Ready",
-        "url": "https://open.spotify.com/album/1e50AHM2FkCz5SLww9qFzT"
-      },
-      "artists": [
-        {
-          "name": "Junior Varsity",
-          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "Lost and Found",
-      "url": "https://open.spotify.com/track/0SYktSP2XOX3OipKS9W5vJ"
     }
   ],
   "unique_name": "Indie Pop",

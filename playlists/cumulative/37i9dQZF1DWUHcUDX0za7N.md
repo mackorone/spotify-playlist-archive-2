@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Fimi
 
-787 songs - 1 day 12 hr 54 min
+788 songs - 1 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Gbedu](https://open.spotify.com/track/1XhTCQFzYcgFeJpkw2x2VV) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Gbedu](https://open.spotify.com/album/78tVCq1xaSu5u8L3sABqE4) | 3:09 | 2023-09-21 | 2023-09-29 |
 | [Gbege](https://open.spotify.com/track/38gXK9lmlIQTpbkh3dCvaG) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Confirm Parole](https://open.spotify.com/album/21kr46AIPCtfESBgSgxhC6) | 3:29 | 2024-10-25 | 2025-05-09 |
 | [Gbemi](https://open.spotify.com/track/4yH24p2mpo5nDWU3oHANWH) | [King Rapsodi](https://open.spotify.com/artist/4Q9IxEYvljHW4JdiAx0mcU) | [The Rhapsodies](https://open.spotify.com/album/4Q4Ddw9rw7V1uopq0S7Yqq) | 2:14 | 2024-11-22 | 2024-12-17 |
+| [Gbewa](https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Gbewa](https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1) | 2:49 | 2026-07-10 |  |
 | [Gentle Baby](https://open.spotify.com/track/2WsP9OSJYPttgj0Zptt0rk) | [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr) | [Gentle Baby](https://open.spotify.com/album/6ftxNFksrLfwHymv4jsSiZ) | 2:29 | 2025-08-01 | 2025-08-22 |
 | [German Machine \(feat\. Jeriq\)](https://open.spotify.com/track/6TEseDlC0o2lkim735xKhU) | [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [BLESSED](https://open.spotify.com/album/0s2MBUOX5nPs0zjc7eukuZ) | 2:31 | 2024-02-23 | 2024-03-29 |
 | [Get Better](https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Get Better](https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy) | 3:15 | 2025-03-31 |  |
@@ -331,7 +332,7 @@
 | [Hustle](https://open.spotify.com/track/3vWfYFzMoHkioV6sx35n6L) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A) | [Hustle](https://open.spotify.com/album/6mOwZyFB4QxYRlunQNNrxt) | 3:29 | 2022-06-23 | 2022-11-19 |
 | [Hustle](https://open.spotify.com/track/612ZmfgN8sC6XYXnnTi42v) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Hitboy Kellz](https://open.spotify.com/artist/38Fq4nvPL9X8BHv4YadDrf), [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [Niggas From The South](https://open.spotify.com/album/7MUP19rxDwxNnNlD69dyAe) | 2:00 | 2024-11-15 | 2025-07-05 |
 | [Hustle](https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Hustle](https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH) | 3:09 | 2022-06-09 | 2024-07-19 |
-| [HUSTLE KPA $$$ \(feat\. ARTSALGHUL\)](https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf) | [HUSTLE KPA $$$ \(feat\. ARTSALGHUL\)](https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe) | 3:09 | 2026-03-13 |  |
+| [HUSTLE KPA $$$ \(feat\. ARTSALGHUL\)](https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf) | [HUSTLE KPA $$$ \(feat\. ARTSALGHUL\)](https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe) | 3:09 | 2026-03-13 | 2026-07-14 |
 | [Hustler](https://open.spotify.com/track/7JPweWVt1wDEu7EFwvupCo) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Chequemate](https://open.spotify.com/album/2EPnjTlC52Hr4LPIHNjcjt) | 2:43 | 2023-07-28 | 2023-10-27 |
 | [Hypnotic](https://open.spotify.com/track/34JhQbb9lUXklugrGxG5d4) | [Lifesize Teddy](https://open.spotify.com/artist/7qQNbbOL2eYZYxSGtcDvcR) | [Lifesize Teddy](https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe) | 3:07 | 2023-08-10 | 2023-10-27 |
 | [I DEY ABUJA](https://open.spotify.com/track/6AAKc2ijypXA3aAGvL40i7) | [Toocoldbaby](https://open.spotify.com/artist/7IsbSKYoGSIWo0NMqxjOCM) | [I DEY ABUJA](https://open.spotify.com/album/1B3he5xpzSAlAsUevQ2P2V) | 1:51 | 2026-02-27 | 2026-03-13 |

@@ -14009,6 +14009,28 @@
     },
     {
       "album": {
+        "name": "The Premiere Collection",
+        "url": "https://open.spotify.com/album/6graNNVqeRUOONM3Rybzjc"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Elaine Paige",
+          "url": "https://open.spotify.com/artist/7KckozT8XPOqtgJjpAcrnA"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258133,
+      "name": "Memory - From \"Cats\"",
+      "url": "https://open.spotify.com/track/5mEzNQPhgFFdd3qa5y3Og8"
+    },
+    {
+      "album": {
         "name": "Aspects Of Love (Original London Cast Recording / Remastered 2005)",
         "url": "https://open.spotify.com/album/3AhJavqwsQzTyp3PTeeF8l"
       },
@@ -14769,6 +14791,24 @@
     },
     {
       "album": {
+        "name": "Une vie d'amour (Best Of)",
+        "url": "https://open.spotify.com/album/4YF7c0pMd6BSi6aIo7CE42"
+      },
+      "artists": [
+        {
+          "name": "Mireille Mathieu",
+          "url": "https://open.spotify.com/artist/6fAg4jVV9zANHej0mzaMG6"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227466,
+      "name": "Nos souvenirs - Memory",
+      "url": "https://open.spotify.com/track/1pjSoTCcWr8LOlly1AVaRW"
+    },
+    {
+      "album": {
         "name": "The Phantom Of The Opera At The Royal Albert Hall",
         "url": "https://open.spotify.com/album/6C4TnJuvfxJakuhh2vT0Hh"
       },
@@ -15120,7 +15160,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 193806,
       "name": "ON AND ON",
       "url": "https://open.spotify.com/track/5GkHY36WKgA9d9KFbpXcXd"
@@ -15952,6 +15992,28 @@
       "duration_ms": 195186,
       "name": "Ouverture",
       "url": "https://open.spotify.com/track/3Nm7uImNGdgFXTAlhnZEbM"
+    },
+    {
+      "album": {
+        "name": "Cats Deutsche Gesamtaufnahme Live Aus Dem Hamburger Operettenhaus",
+        "url": "https://open.spotify.com/album/4g9ugmWm9GObKVhjobzPFI"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "\"Cats\" 1986 Die Besetzung Deutsch Aus Dem Hamburger Operettenhaus",
+          "url": "https://open.spotify.com/artist/27Wj4WH49otO3UWxAH8SJN"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190573,
+      "name": "Ouvert\u00fcre - Live / Deutsche Gesamtaufnahme Aus Dem Hamburger Operettenhaus",
+      "url": "https://open.spotify.com/track/0kJxnWebUpVKWp5BTu0pUt"
     },
     {
       "album": {
@@ -16982,6 +17044,24 @@
       "duration_ms": 80160,
       "name": "Pharaos Traum Gedeutet",
       "url": "https://open.spotify.com/track/774pP9kOp2rgd94AZfKvTu"
+    },
+    {
+      "album": {
+        "name": "Piano (Memory)",
+        "url": "https://open.spotify.com/album/3SHEC5rKJNtTbddmGZqc7u"
+      },
+      "artists": [
+        {
+          "name": "Paul Potts",
+          "url": "https://open.spotify.com/artist/68klHWrqL5uWq2Qjqaz46j"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252373,
+      "name": "Piano (Memory)",
+      "url": "https://open.spotify.com/track/6Jk9UJwLl5uipHmXdCFU7z"
     },
     {
       "album": {
@@ -28676,6 +28756,42 @@
           "url": "https://open.spotify.com/artist/5Rm3BKMDLHoNFnxV52adY6"
         }
       ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264440,
+      "name": "\u56de\u61b6",
+      "url": "https://open.spotify.com/track/2CB7MfQKo5AMt1BVprGDF2"
+    },
+    {
+      "album": {
+        "name": "\u6700\u4f73\u62cd\u6a94\u5927\u986f\u795e\u901a",
+        "url": "https://open.spotify.com/album/5yed5aWuTf6Jgz7wuuAwCO"
+      },
+      "artists": [
+        {
+          "name": "Sam Hui",
+          "url": "https://open.spotify.com/artist/1SglpJrPltamdJLLwInIL7"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209600,
+      "name": "\u5728\u56de\u61b6\u4e2d",
+      "url": "https://open.spotify.com/track/6MSBbLkO1UljDppTIUIEfD"
+    },
+    {
+      "album": {
+        "name": "\u8cbb\u7fd4\u767e\u8001\u532f\u7d93\u5178\u8f2f",
+        "url": "https://open.spotify.com/album/7sOZ2clDdWhOmidam24fdk"
+      },
+      "artists": [
+        {
+          "name": "\u8cbb\u7fd4",
+          "url": "https://open.spotify.com/artist/5Rm3BKMDLHoNFnxV52adY6"
+        }
+      ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -28736,6 +28852,24 @@
       "duration_ms": 274013,
       "name": "\u6b4c\u5287\u9b45\u5f71",
       "url": "https://open.spotify.com/track/4iXyRJdzSju9Aa1uYn6amH"
+    },
+    {
+      "album": {
+        "name": "\u6797\u5b50\u7965 24K Mastersonic Compilation",
+        "url": "https://open.spotify.com/album/2U54rwqwuiOKPwSArV8ebG"
+      },
+      "artists": [
+        {
+          "name": "George Lam",
+          "url": "https://open.spotify.com/artist/7rxRHujzUzobMEbtoE297s"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258826,
+      "name": "\u6bcf\u4e00\u500b\u665a\u4e0a",
+      "url": "https://open.spotify.com/track/1hPHHsZeLHIT7mik694hj5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFNY5PUODjKDb"

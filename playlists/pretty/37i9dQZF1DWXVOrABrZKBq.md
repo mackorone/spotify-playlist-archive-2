@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: La Mano 1.9, Ninho
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,486 likes - 63 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,505 likes - 63 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

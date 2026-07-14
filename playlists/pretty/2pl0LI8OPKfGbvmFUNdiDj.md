@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,009 likes - 73 songs - 4 hr 15 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,022 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,5 +81,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 71 | [Frequency](https://open.spotify.com/track/6fFANLe45lolpWyZJWy175) | [Nia Tone](https://open.spotify.com/artist/1hPZmJ6YcmKIEQKSzSkOup) | [Frequency](https://open.spotify.com/album/59EtQ9iTxB9kbnJ2kGqwGT) | 2:57 |
 | 72 | [Вредные привычки](https://open.spotify.com/track/6IVb14z4hVAg6ZXys0OvYE) | [AVISHA](https://open.spotify.com/artist/4UjgtBaKmWqr2hTnSZRvS5) | [Вредные привычки](https://open.spotify.com/album/4PZGbvYySz3OiyC5fH8ukp) | 2:23 |
 | 73 | [La valiente](https://open.spotify.com/track/7hojzEYFzsIFNcsoD8ElWD) | [Alicia Castillo](https://open.spotify.com/artist/75DS5VXEOn1wHK8Y5PdTBM) | [Silencio y vértigo](https://open.spotify.com/album/4Q8VjxMQTSGXQ8UCEw2zHz) | 3:02 |
+| 74 | [Soy Bitcoin](https://open.spotify.com/track/1En4oVInBsxbcnnhJqnqxM) | [Marcoo](https://open.spotify.com/artist/78r09t3sUYBpJSrYZqeAxb) | [Fomo](https://open.spotify.com/album/6JSwfaJHoJzy5GTSugAv5t) | 2:58 |
+| 75 | [WITHOUT A RUSH](https://open.spotify.com/track/6ZBbGUG2MtXgcWzfLX2KPX) | [Twmmy](https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx) | [IS IT STILL IN ME?](https://open.spotify.com/album/1CnOt3j4Oxhu2Iy81TrpXJ) | 4:24 |
 
-Snapshot ID: `AAAEISw45rRa1trfFlWvXKph3qg46jt1`
+Snapshot ID: `AAAEI/idCd6YPtKp1L4iU8H3nZGEvMuq`

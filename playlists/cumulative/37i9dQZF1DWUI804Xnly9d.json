@@ -4991,6 +4991,36 @@
     },
     {
       "album": {
+        "name": "Kaafi Hai Na (From \"Musafir Cafe\")",
+        "url": "https://open.spotify.com/album/5IYccMBAe0EuOET3USDVvl"
+      },
+      "artists": [
+        {
+          "name": "Garvit - Priyansh",
+          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
+        },
+        {
+          "name": "Priyansh Srivastava",
+          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Aniket Shukla",
+          "url": "https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195050,
+      "name": "Kaafi Hai Na (From \"Musafir Cafe\")",
+      "url": "https://open.spotify.com/track/0PKLIjYe9K78lky2LxUz2P"
+    },
+    {
+      "album": {
         "name": "Kaagaz Ke Phool",
         "url": "https://open.spotify.com/album/4CsrGLeMjPrnjuIXqAOxUG"
       },
@@ -12452,7 +12482,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 189356,
       "name": "Tum Mere Hona",
       "url": "https://open.spotify.com/track/7qjXz8fcLnc9pmzfP1UlH2"

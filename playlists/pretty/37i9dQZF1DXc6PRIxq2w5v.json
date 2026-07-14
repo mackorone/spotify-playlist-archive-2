@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos",
-  "num_followers": 192336,
+  "num_followers": 192349,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -579,26 +579,6 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
-        "name": "Medo",
-        "url": "https://open.spotify.com/album/4Wep3P2OJihAOvsWbXIMm0"
-      },
-      "artists": [
-        {
-          "name": "Thiag\u00e3o",
-          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
-        },
-        {
-          "name": "ULTRA FACE",
-          "url": "https://open.spotify.com/artist/6ActLE7hUyGQT3k6Ne1llH"
-        }
-      ],
-      "duration_ms": 272230,
-      "name": "Medo",
-      "url": "https://open.spotify.com/track/1DfElz56bAKqzyxNGqR30v"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
         "name": "Cora\u00e7\u00e3o Cansado",
         "url": "https://open.spotify.com/album/647o2SxR5KwJMyiW8UjWwW"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 160000,
       "name": "Cora\u00e7\u00e3o Cansado",
       "url": "https://open.spotify.com/track/00IM6KmIxhJGhJ6s4Rzutf"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
+        "name": "Medo",
+        "url": "https://open.spotify.com/album/4Wep3P2OJihAOvsWbXIMm0"
+      },
+      "artists": [
+        {
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        },
+        {
+          "name": "ULTRA FACE",
+          "url": "https://open.spotify.com/artist/6ActLE7hUyGQT3k6Ne1llH"
+        }
+      ],
+      "duration_ms": 272230,
+      "name": "Medo",
+      "url": "https://open.spotify.com/track/1DfElz56bAKqzyxNGqR30v"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -1103,30 +1103,6 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5q4wiZahugsjPi6xAc2LMX"
-      },
-      "artists": [
-        {
-          "name": "EMID\u00ca",
-          "url": "https://open.spotify.com/artist/0nLvcz7CwG1lYeFbXVHLKQ"
-        },
-        {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/2mfgu7vppecOmppqCVgML0"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
         "name": "Sangue",
         "url": "https://open.spotify.com/album/68t3Pq78Lt2hAguwFSWUDj"
       },
@@ -1147,6 +1123,30 @@
       "duration_ms": 173548,
       "name": "Sangue",
       "url": "https://open.spotify.com/track/0iuI32iEQ10jIp5SOTxbqx"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5q4wiZahugsjPi6xAc2LMX"
+      },
+      "artists": [
+        {
+          "name": "EMID\u00ca",
+          "url": "https://open.spotify.com/artist/0nLvcz7CwG1lYeFbXVHLKQ"
+        },
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/2mfgu7vppecOmppqCVgML0"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -1243,6 +1243,46 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
+        "name": "Lesgo",
+        "url": "https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 204210,
+      "name": "Lesgo",
+      "url": "https://open.spotify.com/track/6Ig0Tox0Jcomij14pZkkg1"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
+        "name": "Irris\u00f3rio",
+        "url": "https://open.spotify.com/album/0JlfzFcZY4Zia7Q8Pl1dHO"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 146750,
+      "name": "Irris\u00f3rio",
+      "url": "https://open.spotify.com/track/1hCCO4RPynQYID6E5G37ix"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
         "name": "Ora\u00e7\u00e3o II",
         "url": "https://open.spotify.com/album/0et5qT00Uf6ONjbtJdnHnZ"
       },
@@ -1267,46 +1307,6 @@
       "duration_ms": 133333,
       "name": "Ora\u00e7\u00e3o II",
       "url": "https://open.spotify.com/track/7z8XT0LLmLma82SSkwN4et"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
-        "name": "Irris\u00f3rio",
-        "url": "https://open.spotify.com/album/0JlfzFcZY4Zia7Q8Pl1dHO"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 146750,
-      "name": "Irris\u00f3rio",
-      "url": "https://open.spotify.com/track/1hCCO4RPynQYID6E5G37ix"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
-        "name": "Lesgo",
-        "url": "https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV"
-      },
-      "artists": [
-        {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 204210,
-      "name": "Lesgo",
-      "url": "https://open.spotify.com/track/6Ig0Tox0Jcomij14pZkkg1"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -1343,6 +1343,26 @@
       "duration_ms": 146000,
       "name": "Tua Face",
       "url": "https://open.spotify.com/track/2algWOqywvUnC0vK19JM9R"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
+        "name": "Profeta",
+        "url": "https://open.spotify.com/album/0SqrwFHqjYuYJy0EzSpiYY"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 131785,
+      "name": "Profeta",
+      "url": "https://open.spotify.com/track/5nYKIgbNukm47srcFcbceE"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -1387,26 +1407,6 @@
       "duration_ms": 173617,
       "name": "Love Sangre",
       "url": "https://open.spotify.com/track/14vhf1UyE14WJzk7aXdyeo"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
-        "name": "Profeta",
-        "url": "https://open.spotify.com/album/0SqrwFHqjYuYJy0EzSpiYY"
-      },
-      "artists": [
-        {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 131785,
-      "name": "Profeta",
-      "url": "https://open.spotify.com/track/5nYKIgbNukm47srcFcbceE"
     },
     {
       "added_at": "2026-06-12 03:01:42",

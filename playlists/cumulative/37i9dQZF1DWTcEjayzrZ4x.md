@@ -2,7 +2,7 @@
 
 ### [Lazy Jazz Cat](https://open.spotify.com/playlist/37i9dQZF1DWTcEjayzrZ4x)
 
-> Relaxing instrumental Jazz with a cool and soft sound.
+> Relaxing instrumental jazz for your softest moments 🐈
 
 907 songs - 2 day 5 hr 58 min
 

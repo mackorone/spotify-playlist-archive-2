@@ -4,7 +4,7 @@
 
 > kelela🌘 🌑 🌒 <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">read our substack! </a>
 
-3,875 songs - 8 day 20 hr 14 min
+3,877 songs - 8 day 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -815,6 +815,7 @@
 | [Daddy Issues \(Remix\) feat\. Syd](https://open.spotify.com/track/5Q6fh8OEhBYepJaORz9lxe) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Daddy Issues \(Remix\) feat\. Syd](https://open.spotify.com/album/6vdbDPGQbJMCHyZhz9z6GS) | 3:01 | 2021-08-07 | 2021-12-02 |
 | [Dagger Song](https://open.spotify.com/track/6lgMxz2iOpeiDTIeuIR7Be) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Dagger Song](https://open.spotify.com/album/56HC5Tbuu2LY13my4Spzfy) | 4:06 | 2025-08-15 | 2025-09-24 |
 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-11 |  |
+| [DAISIES](https://open.spotify.com/track/1ZyvjjCfzDazY8gVcSVDaR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG LIVE FROM COACHELLA \(Weekend II\)](https://open.spotify.com/album/4Wa07ZTBEshnd57JomGmij) | 4:19 | 2026-07-13 |  |
 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 | 2022-09-23 | 2022-11-05 |
 | [Damn](https://open.spotify.com/track/0NL9pLIzlXC3E5IaHCYacZ) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Damn](https://open.spotify.com/album/4WZKgaREgMXyICu8SXJFBh) | 3:22 | 2024-04-05 | 2024-05-11 |
 | [Damn Shame](https://open.spotify.com/track/5XP4NbKorAE3mMl5gcuQW6) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Damn Shame](https://open.spotify.com/album/4kMW4QkHFBOBvx5wIn8uDF) | 2:48 | 2024-12-13 | 2025-03-27 |
@@ -1451,6 +1452,7 @@
 | [HEADSTART](https://open.spotify.com/track/4au9zOGq4UoV03sLuXFZZI) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 3:10 | 2021-10-26 | 2022-05-21 |
 | [headstrong gunner](https://open.spotify.com/track/3X0r6QZjpgWyMbyCBCvBX0) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [headstrong gunner](https://open.spotify.com/album/2F4tvdjZIfNQhQUh2iCgjt) | 1:55 | 2023-03-10 | 2024-01-11 |
 | [HEADY](https://open.spotify.com/track/7aNW0M1R6eUnoXKpN2HncV) | [Reaper](https://open.spotify.com/artist/47qrgNNbZRRCAK0ZrKcuZV) | [heady](https://open.spotify.com/album/2v9Eny0s7E50ugTiFlCuUF) | 3:31 | 2020-02-05 | 2020-05-14 |
+| [Heart Has To Work So Hard](https://open.spotify.com/track/4wwOje67xW4mPCf8JvmWYK) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Heart Has To Work So Hard](https://open.spotify.com/album/1nIWbgwX2lwqgoUDimt1oh) | 3:12 | 2026-07-13 |  |
 | [Heart of Gold](https://open.spotify.com/track/3PyDLRIhkP5H8ox85fEwxb) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Heart of Gold](https://open.spotify.com/album/2ng2h7smH52oleaooKsCTV) | 3:07 | 2025-04-30 | 2026-01-15 |
 | [Heart Of The Country \- Remastered 2012](https://open.spotify.com/track/5ZAfhAtEpgScJLzx7hHfLI) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Linda McCartney](https://open.spotify.com/artist/6QEKXJs8gQCiyBq5L8knco) | [Ram \(Archive Collection\)](https://open.spotify.com/album/3DTMsrNO6lEHNmDJ0fsN4v) | 2:23 | 2021-07-17 | 2021-07-29 |
 | [Heartbeat](https://open.spotify.com/track/0YUt3MicxnPYcXmoErwqBO) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Heartbeat](https://open.spotify.com/album/6opMaSMh0n9uOEp069dj81) | 3:28 | 2020-10-13 | 2020-11-27 |

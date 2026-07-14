@@ -1833,6 +1833,28 @@
     },
     {
       "album": {
+        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6i8BR7tAJxVGZAEcF1dxlZ"
+      },
+      "artists": [
+        {
+          "name": "Catherine Laga'aia",
+          "url": "https://open.spotify.com/artist/73VULsGi9bDaKbgLORFXd5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171040,
+      "name": "How Far I'll Go",
+      "url": "https://open.spotify.com/track/03Rc61rSW8InC7gW8Wj4NR"
+    },
+    {
+      "album": {
         "name": "Moana (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3g9Z0jxX31lghNgzkdfhCD"
       },
@@ -1848,7 +1870,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 171040,
       "name": "How Far I'll Go",
       "url": "https://open.spotify.com/track/0L7dpG5vvfPxrhJnEZ5zg1"
@@ -3420,10 +3442,32 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 184360,
       "name": "Shiny",
       "url": "https://open.spotify.com/track/1ey4RwlCQdVc5l0cOKCPmr"
+    },
+    {
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6i8BR7tAJxVGZAEcF1dxlZ"
+      },
+      "artists": [
+        {
+          "name": "Jemaine Clement",
+          "url": "https://open.spotify.com/artist/1Ymky4GOgYA1NI96FCY8yE"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184360,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/4vIPTMkaMYgJLL4rsaFG2P"
     },
     {
       "album": {
@@ -3442,7 +3486,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 185466,
       "name": "Shiny",
       "url": "https://open.spotify.com/track/1IZwCzAmaFmmdJj0cmhaax"
@@ -4872,10 +4916,32 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 163893,
       "name": "You're Welcome",
       "url": "https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24"
+    },
+    {
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6i8BR7tAJxVGZAEcF1dxlZ"
+      },
+      "artists": [
+        {
+          "name": "Dwayne Johnson",
+          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167186,
+      "name": "You're Welcome",
+      "url": "https://open.spotify.com/track/5GxKY3XkzmSqymfpuWRnkJ"
     },
     {
       "album": {
@@ -4894,7 +4960,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 167186,
       "name": "You're Welcome",
       "url": "https://open.spotify.com/track/6H0JqH391qbGqe0zs3oZJW"

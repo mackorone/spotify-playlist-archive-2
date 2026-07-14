@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,828 likes - 90 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,841 likes - 90 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 22 | [Alguien Mejor Que Yo](https://open.spotify.com/track/2hmWVUzKNZH0nYa1OAR5oT) | [Sharon y los Camperos del Chamamé](https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa), [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Alguien Mejor Que Yo](https://open.spotify.com/album/5izCgXmLdwGlU1Zg7zTyPJ) | 3:21 |
 | 23 | [Enero](https://open.spotify.com/track/4NXUTU34xLQhFacaPxKij6) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Chamame](https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz) | 3:17 |
 | 24 | [La Dueña del Monte](https://open.spotify.com/track/0fDOXK3M6HYYhkdUp0Vilt) | [Emiliano Cardozo](https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn), [Los Cardocitos](https://open.spotify.com/artist/49bS4UnI47t9mUwLZFIPzv) | [Alegría y Chamamé](https://open.spotify.com/album/5KMt2a3QOU9w4b8ihoCJBq) | 2:53 |
-| 25 | [Granja San Antonio](https://open.spotify.com/track/4eCHSv0YIbGmZL8kxABNJQ) | [Damasio Esquivel](https://open.spotify.com/artist/1BWqJJLlVyTRaKbyf6bibt) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:51 |
-| 26 | [Laguna Totora](https://open.spotify.com/track/2PgHMG4GYoLzL3feOhycy0) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:39 |
+| 25 | [Laguna Totora](https://open.spotify.com/track/2PgHMG4GYoLzL3feOhycy0) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:39 |
+| 26 | [Granja San Antonio](https://open.spotify.com/track/4eCHSv0YIbGmZL8kxABNJQ) | [Damasio Esquivel](https://open.spotify.com/artist/1BWqJJLlVyTRaKbyf6bibt) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:51 |
 | 27 | [Pastor Luna y Su Acordeón](https://open.spotify.com/track/5OrIO5OgtulDJUtkfg1loG) | [Pastor Luna](https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW) | [30 Años Con el Chamamé](https://open.spotify.com/album/6Idi1uBauH0SESb3GdVLlf) | 2:11 |
 | 28 | [Amanecer Campero](https://open.spotify.com/track/1WOW5dpVavNNqNA83WY0IM) | [Miguel Figueroa y Su Conjunto Amanecer Campero](https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef) | [Me Dicen el Rey](https://open.spotify.com/album/6CA6JZ9igKWBTxi18sdTo8) | 2:46 |
-| 29 | [Mi Primer Amor \- Versión Chamamé](https://open.spotify.com/track/6MUOEPhADhWrwYk1JQLNQ6) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Mi Primer Amor \- Version Chamamé](https://open.spotify.com/album/6FApf1TbGRBTBuGqyhB3GE) | 2:43 |
-| 30 | [Asi Se Baila El Chamame](https://open.spotify.com/track/5b1Rxf30tpYFUji8lhIS19) | [Los Reyes Del Chamame](https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom) | [Coleccion Aniversario](https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV) | 2:05 |
+| 29 | [Asi Se Baila El Chamame](https://open.spotify.com/track/5b1Rxf30tpYFUji8lhIS19) | [Los Reyes Del Chamame](https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom) | [Coleccion Aniversario](https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV) | 2:05 |
+| 30 | [Mi Primer Amor \- Versión Chamamé](https://open.spotify.com/track/6MUOEPhADhWrwYk1JQLNQ6) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Mi Primer Amor \- Version Chamamé](https://open.spotify.com/album/6FApf1TbGRBTBuGqyhB3GE) | 2:43 |
 | 31 | [Mi Última Flor](https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs) | [Los Hermanos Cardozo](https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR) | [Nuestras Mejores 30 Canciones](https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex) | 2:26 |
 | 32 | [Universo Paralelo](https://open.spotify.com/track/1L7X1Y9YNvD3Vo6GlMyqVj) | [Alma Chaqueña](https://open.spotify.com/artist/3fPh0oV5t5u5MzfAHOT1iD) | [Universo Paralelo](https://open.spotify.com/album/76Wx8Rrj18iuEwa7tB1zuj) | 4:57 |
 | 33 | [La Fiesta Del Chamamé](https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8) | [Amboé](https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD) | [Sobredosis De Chamame](https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH) | 4:56 |

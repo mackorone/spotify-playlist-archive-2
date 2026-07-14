@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover: where.t.at
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,973 likes - 165 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,461 likes - 165 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

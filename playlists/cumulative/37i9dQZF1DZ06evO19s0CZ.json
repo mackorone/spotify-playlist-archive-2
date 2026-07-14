@@ -344,7 +344,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 271997,
       "name": "Covered In You",
       "url": "https://open.spotify.com/track/0vSBTJalfOB6oyIHNMqG2t"
@@ -416,10 +416,28 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 286343,
       "name": "Divine Intervention",
       "url": "https://open.spotify.com/track/0xfsrFFZovlGjNtfIh4OUr"
+    },
+    {
+      "album": {
+        "name": "Foreign Tongues",
+        "url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286343,
+      "name": "Divine Intervention",
+      "url": "https://open.spotify.com/track/1BqDpIOzTzfJCZZc89lpAe"
     },
     {
       "album": {
@@ -1144,7 +1162,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 228866,
       "name": "Love Is Strong - Remastered 2009",
       "url": "https://open.spotify.com/track/3Is1ugfPG3hdFWTq15nNBV"
@@ -1162,7 +1180,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 264266,
       "name": "Loving Cup",
       "url": "https://open.spotify.com/track/34OzAaQeAWlFnZBSyUAtRh"
@@ -1533,6 +1551,24 @@
     },
     {
       "album": {
+        "name": "Foreign Tongues",
+        "url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279635,
+      "name": "Rough And Twisted",
+      "url": "https://open.spotify.com/track/095K0Tsihjj4xWc3mBY3Ci"
+    },
+    {
+      "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK"
       },
@@ -1544,7 +1580,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 279635,
       "name": "Rough And Twisted",
       "url": "https://open.spotify.com/track/1ilnthAuHvDnqO5rshz0Wy"
@@ -1804,7 +1840,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 240669,
       "name": "Some Of Us",
       "url": "https://open.spotify.com/track/5igfpGVhHEuMbev0WS205q"

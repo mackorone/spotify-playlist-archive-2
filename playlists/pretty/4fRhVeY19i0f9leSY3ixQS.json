@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1481,
+  "num_followers": 1490,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAARkqnH9gt/DYwhrVUkfgh+oPXebgej",
+  "snapshot_id": "AAARnWWUKYZdUy6r2vhXTuwZ0vsbkV7a",
   "tracks": [
     {
       "added_at": "2026-07-09 06:34:34",
@@ -4717,6 +4717,74 @@
       "url": "https://open.spotify.com/track/5xz9coyceFfawPzjoeuarl"
     },
     {
+      "added_at": "2026-07-14 02:39:01",
+      "album": {
+        "name": "Die By The Sword",
+        "url": "https://open.spotify.com/album/1K6v41Xlv4fDiyqgkWVZCB"
+      },
+      "artists": [
+        {
+          "name": "Kiaatti",
+          "url": "https://open.spotify.com/artist/377cfCgISHAg4XpqT07ei8"
+        },
+        {
+          "name": "ADG YellaBoi",
+          "url": "https://open.spotify.com/artist/6wIfVfxdMW2UNePhYv1cob"
+        }
+      ],
+      "duration_ms": 177175,
+      "name": "Die By The Sword",
+      "url": "https://open.spotify.com/track/2rJne5ulBILHWgOYGWOq5F"
+    },
+    {
+      "added_at": "2026-07-14 02:38:36",
+      "album": {
+        "name": "Badlands",
+        "url": "https://open.spotify.com/album/6Arc9qH9m1rBnpfPtuneAn"
+      },
+      "artists": [
+        {
+          "name": "Hurricane 5AM",
+          "url": "https://open.spotify.com/artist/00XYXkpt3uf0cMhNoffCRO"
+        }
+      ],
+      "duration_ms": 183442,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/5h4UZYPdF9QDl5qDqDs2E1"
+    },
+    {
+      "added_at": "2026-07-13 14:26:56",
+      "album": {
+        "name": "The Good Luck of a Bad Romance",
+        "url": "https://open.spotify.com/album/6gJWjcSqu31V72p4G0JJYE"
+      },
+      "artists": [
+        {
+          "name": "Bones In The Museum",
+          "url": "https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "The Good Luck of a Bad Romance",
+      "url": "https://open.spotify.com/track/2raLip0KvgQsBMFy229IYf"
+    },
+    {
+      "added_at": "2026-07-13 09:48:51",
+      "album": {
+        "name": "El Viejo Y Querido Punk Rock",
+        "url": "https://open.spotify.com/album/3KcAhyLdLNx9oMuXoLn6F4"
+      },
+      "artists": [
+        {
+          "name": "Lo Que Nunca Fuimos",
+          "url": "https://open.spotify.com/artist/6fjRwIsTHVRTAELwXewKBI"
+        }
+      ],
+      "duration_ms": 190615,
+      "name": "Mundo Infeliz",
+      "url": "https://open.spotify.com/track/4wD588EI0N67gAXGGDaN98"
+    },
+    {
       "added_at": "2026-07-12 12:52:40",
       "album": {
         "name": "Lightspeed",
@@ -4795,6 +4863,122 @@
       "duration_ms": 140000,
       "name": "Joe and Serena",
       "url": "https://open.spotify.com/track/1P6C2xeRMI7RcFKl3HMYwE"
+    },
+    {
+      "added_at": "2026-07-13 09:50:22",
+      "album": {
+        "name": "Big Car",
+        "url": "https://open.spotify.com/album/7cCZmHsRJEC6t9E2Th47C4"
+      },
+      "artists": [
+        {
+          "name": "Barnshed",
+          "url": "https://open.spotify.com/artist/25NiXzEzQZXv5AXSUJ0QbP"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "Big Car",
+      "url": "https://open.spotify.com/track/3VakH1BK08lAILT4oyyhHQ"
+    },
+    {
+      "added_at": "2026-07-14 02:47:24",
+      "album": {
+        "name": "How Do You Sleep?",
+        "url": "https://open.spotify.com/album/21I90xcafuUMscBPvpalvt"
+      },
+      "artists": [
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "duration_ms": 175999,
+      "name": "How Do You Sleep?",
+      "url": "https://open.spotify.com/track/4jPV9n9d4ofuJEeurNh7WE"
+    },
+    {
+      "added_at": "2026-07-14 02:48:14",
+      "album": {
+        "name": "Edge of a Knife",
+        "url": "https://open.spotify.com/album/7Ki0iA1JMqrdqosCQunBhd"
+      },
+      "artists": [
+        {
+          "name": "Saliva",
+          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 160497,
+      "name": "Edge of a Knife",
+      "url": "https://open.spotify.com/track/1Eogckk6L0kcm5iwnXyz1c"
+    },
+    {
+      "added_at": "2026-07-14 03:01:44",
+      "album": {
+        "name": "Soundtrack of a Dying Dream",
+        "url": "https://open.spotify.com/album/4ZzcGcoJ7wA5l4D1ngp9qF"
+      },
+      "artists": [
+        {
+          "name": "The Last Pioneers",
+          "url": "https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM"
+        }
+      ],
+      "duration_ms": 220318,
+      "name": "Soundtrack of a Dying Dream",
+      "url": "https://open.spotify.com/track/32EqgOrpKnCdTKfW0SShiM"
+    },
+    {
+      "added_at": "2026-07-14 03:03:46",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/5Klb8K3CFOPAJgfPAupUKV"
+      },
+      "artists": [
+        {
+          "name": "Luan Luan",
+          "url": "https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG"
+        }
+      ],
+      "duration_ms": 259793,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/6qwbAsMNRLZdvzx9bGzpWZ"
+    },
+    {
+      "added_at": "2026-07-14 03:04:31",
+      "album": {
+        "name": "Dethroned",
+        "url": "https://open.spotify.com/album/2YANVUxhMLXy7CY1SYX8pk"
+      },
+      "artists": [
+        {
+          "name": "Condition Baker",
+          "url": "https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu"
+        }
+      ],
+      "duration_ms": 177975,
+      "name": "Dethroned - Single Version",
+      "url": "https://open.spotify.com/track/4qozyUj1G2qVakk2p7bn2t"
+    },
+    {
+      "added_at": "2026-07-14 03:33:55",
+      "album": {
+        "name": "SILENCE INTO SOUND",
+        "url": "https://open.spotify.com/album/1x80ZWeW9EGJubxRWOebn5"
+      },
+      "artists": [
+        {
+          "name": "Re:Instinct",
+          "url": "https://open.spotify.com/artist/5sQwAdM036wHrul770MyqT"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "SILENCE INTO SOUND",
+      "url": "https://open.spotify.com/track/36Rfe6kKy9U1JLJyngJuyy"
     }
   ],
   "unique_name": "Spotify Radio",

@@ -4,7 +4,7 @@
 
 > Videos from our studio and live sessions\. Music videos available only on Premium\. Cover: Kehlani
 
-29 songs - 1 hr 40 min
+31 songs - 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,11 +22,13 @@
 | [How Deep Is Your Love \(Live\) \- Spotify Live Room](https://open.spotify.com/track/2yI5b5B4pwmahsOMGTgua1) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Zara Larsson \- Spotify Live Room](https://open.spotify.com/album/5SZW71fufjCWXvTRiAn2ae) | 2:12 | 2026-05-08 |  |
 | [I CAN TELL \- \(Spotify OUTSIDE Version\) \- Live from the Mojave Desert](https://open.spotify.com/track/5FpFMWxPfwPZ3lrdEV2ERj) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Spotify OUTSIDE](https://open.spotify.com/album/3syXCMQNzgnpvaHFG5QsoX) | 3:23 | 2026-05-08 |  |
 | [La Pared \- Spotify Anniversary Version](https://open.spotify.com/track/1foAJDTHldUwI6mvmPj1D8) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 2:59 | 2026-05-08 |  |
+| [LLEVA AL SOL \(Live\) \- Spotify Live Room](https://open.spotify.com/track/3ukh2uh6yuHuyrYhiq0No8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Rels B \- Spotify Live Room](https://open.spotify.com/album/42xIr4vHShxAWnsIFmmG0N) | 2:37 | 2026-07-13 |  |
 | [Man I Need \(Live\) – Spotify Live Room](https://open.spotify.com/track/3yYuSzBhxR4kd4CNtfyHN7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Olivia Dean \- Spotify Live Room](https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX) | 3:04 | 2026-05-08 |  |
 | [MI$ LLAMADA$ \(Live\) \- Spotify Live Room](https://open.spotify.com/track/1HvieARJQd1MjV8EGN5U4M) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Junior H \- Spotify Live Room](https://open.spotify.com/album/5YdEBNUaKJtFfnDKtDAxVW) | 3:58 | 2026-05-08 |  |
 | [Midnight Song \(Live\) \- Spotify Live Room](https://open.spotify.com/track/5sS2DXrsMFhwTPD3T1li0T) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Wolf Alice \- Spotify Live Room](https://open.spotify.com/album/67jG99DKNpyBkD2AN0cCJm) | 3:37 | 2026-05-08 |  |
 | [Midnight Sun \(Live\) \- Spotify Live Room](https://open.spotify.com/track/6ZN4ZI5f7ZIXO0lMe5fcyQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Zara Larsson \- Spotify Live Room](https://open.spotify.com/album/5SZW71fufjCWXvTRiAn2ae) | 3:16 | 2026-05-08 |  |
 | [My Blue \- \(Spotify OUTSIDE Version\) \- Live From Austin, TX](https://open.spotify.com/track/4Asuxhd6MyV09hg8968rz7) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Spotify OUTSIDE](https://open.spotify.com/album/7McukhbTTBeqoQXWH1kISF) | 4:41 | 2026-05-08 |  |
+| [PAÑUELITO DE SEDA \(Live\) \- Spotify Live Room](https://open.spotify.com/track/36LheLzOGQecNf5h10MmjB) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Rels B \- Spotify Live Room](https://open.spotify.com/album/42xIr4vHShxAWnsIFmmG0N) | 2:24 | 2026-07-13 |  |
 | [Pies Descalzos, Sueños Blancos \- Spotify Anniversary Version](https://open.spotify.com/track/6ehebXUTI8jx1kodxfE11a) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 3:04 | 2026-05-08 |  |
 | [Play It Out \(Live\) \- Spotify Live Room](https://open.spotify.com/track/44cYxPKYAv0TEsVSScm0ua) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Wolf Alice \- Spotify Live Room](https://open.spotify.com/album/67jG99DKNpyBkD2AN0cCJm) | 3:58 | 2026-05-08 |  |
 | [RATHER BE \- \(Spotify OUTSIDE Version\) \- Live from the Mojave Desert](https://open.spotify.com/track/091jGhOpX0hLeA6Eb2Nx1p) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Spotify OUTSIDE](https://open.spotify.com/album/3syXCMQNzgnpvaHFG5QsoX) | 2:52 | 2026-05-08 |  |

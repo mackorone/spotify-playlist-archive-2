@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Vicco, Pablo Alborán, Lucho RK, J Abecia con Luis Cortés y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,923 likes - 65 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,925 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

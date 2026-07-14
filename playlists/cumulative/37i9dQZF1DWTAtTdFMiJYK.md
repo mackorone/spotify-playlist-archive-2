@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover: Mary Ann Alexander
 
-442 songs - 1 day 0 hr 44 min
+443 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Arz e Dil](https://open.spotify.com/track/5xm5sFLCrI7uNgk7nHYLpo) | [Nikhil Iyer](https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek), [Nirmal Roy](https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs) | [Arz e Dil](https://open.spotify.com/album/3CSAcvKVgNVR3rneunfvt9) | 3:35 | 2024-01-10 | 2026-02-06 |
 | [Asar](https://open.spotify.com/track/4Cl13lnGGhHmNpO4tTi3az) | [Anand Bhaskar](https://open.spotify.com/artist/4aykldlxvwj6cRQfhbfNMO), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Asar](https://open.spotify.com/album/4NAqO60ilbYjOULTBgf9Mc) | 3:10 | 2022-06-29 | 2023-03-21 |
 | [Attached](https://open.spotify.com/track/4LXP4tw0mucgLy8zeNj7lL) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW) | [593, Vol\. I](https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I) | 2:10 | 2022-01-10 | 2022-04-15 |
+| [Baanancha Daati](https://open.spotify.com/track/61CgDKF7g0c07IsD5uF6QT) | [Narayan Sharma](https://open.spotify.com/artist/3bLpM0uZQGjGyxtXgJa8hP), [Sumedh K](https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz) | [Uyyale Geethe](https://open.spotify.com/album/2HJj1hEG43s89FrLeGGeEh) | 3:44 | 2026-07-13 |  |
 | [Baarish Ka Asar](https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baarish Ka Asar](https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj) | 4:05 | 2021-12-06 | 2022-04-15 |
 | [Baarish Mein Phir](https://open.spotify.com/track/3PbjRHCyZmK84h0qMMIRPw) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Baarish Mein Phir](https://open.spotify.com/album/1Gayp4bOKWoJOc9wbGtEwv) | 2:56 | 2025-12-03 | 2026-01-15 |
 | [Baaton Baaton Main](https://open.spotify.com/track/6BZuq1cB3TZrIJ3MJSERdo) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Sha](https://open.spotify.com/album/4v3fX2KzYPbs6zBQtE0x75) | 3:54 | 2023-11-29 | 2024-01-11 |
@@ -446,7 +447,7 @@
 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 | 2021-12-06 | 2022-11-16 |
 | [Yun](https://open.spotify.com/track/6MXxjUljZHV2qsCJg9a9iL) | [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h), [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC) | [Yun](https://open.spotify.com/album/4XJjKeDY2C7dBez6rezqqS) | 2:32 | 2023-01-10 | 2023-02-25 |
 | [Zakir](https://open.spotify.com/track/6RtnuC14DOUrvpRgS6WMQX) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Zakir](https://open.spotify.com/album/2EsxYdY99R9jF31YveCUZN) | 3:41 | 2021-12-06 | 2022-11-02 |
-| [Zarii](https://open.spotify.com/track/2yHBq4DRKITMUypmWT136A) | [rohh](https://open.spotify.com/artist/2ZRhDLITL8RK1IbK9dDGhf), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Zarii](https://open.spotify.com/album/70ZVp8tkKTz2VUl6TIvjDS) | 2:51 | 2026-03-10 |  |
+| [Zarii](https://open.spotify.com/track/2yHBq4DRKITMUypmWT136A) | [rohh](https://open.spotify.com/artist/2ZRhDLITL8RK1IbK9dDGhf), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Zarii](https://open.spotify.com/album/70ZVp8tkKTz2VUl6TIvjDS) | 2:51 | 2026-03-10 | 2026-07-14 |
 | [Zindabad Vs Murdabad](https://open.spotify.com/track/3WyDMmK8L85dJo1RiA4swl) | [Alif](https://open.spotify.com/artist/66PL9mtBViWeqR2wUrS0Bk) | [Siyah \- Pt\. 1 \| Haal](https://open.spotify.com/album/0UzUJComSbcAgY8e5KXYSP) | 4:00 | 2021-12-06 | 2022-02-01 |
 | [Zindagi Ki Goud Mein](https://open.spotify.com/track/0wA7aUIOOynbdIyF6AIejn) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Zindagi Ki Goud Mein](https://open.spotify.com/album/6ZdIpnlVpCcv7ZOS5jC2Ci) | 3:36 | 2021-12-06 | 2022-04-15 |
 | [Zulfe](https://open.spotify.com/track/5Jr6BVsaP2w8YgkFxobTYf) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r), [Trosk](https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN) | [Zulfe](https://open.spotify.com/album/46guavxrNdZddtM3XouUli) | 2:39 | 2026-06-19 |  |

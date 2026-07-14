@@ -1,12 +1,12 @@
 {
   "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0627\u063a\u0627\u0646\u064a \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629. \u0627\u0644\u063a\u0644\u0627\u0641: \u0645\u062d\u0645\u0648\u062f \u0627\u0644\u062a\u0631\u0643\u064a \u0648 \u062f\u0627\u0644\u064a\u0627\n  ",
-  "num_followers": 171730,
+  "num_followers": 171745,
   "original_name": "\u0647\u0648\u0627\u064a\u064e\u0647\u0652 \u0639\u0631\u0627\u0642\u064a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIz7iO9SkXiPZXCL/JWjvhmBW+4P",
+  "snapshot_id": "AAAAALwdWHG61klLbwILZQLWg69XIYs2",
   "tracks": [
     {
       "added_at": "2026-06-04 14:55:40",
@@ -29,20 +29,52 @@
       "url": "https://open.spotify.com/track/0X14TVQhZcv7R78yNO7xpB"
     },
     {
-      "added_at": "2026-04-14 21:40:39",
+      "added_at": "2026-07-13 09:47:57",
       "album": {
-        "name": "Shensa Menhom",
-        "url": "https://open.spotify.com/album/2vwGXebB2tYB6FcDpBR0L8"
+        "name": "El Omr Rah (Original)",
+        "url": "https://open.spotify.com/album/0CMZpfbdAGEIuYVJdL63Oa"
       },
       "artists": [
         {
-          "name": "Sabah Mahmod",
-          "url": "https://open.spotify.com/artist/6DPTJXd1omQ1oTiR1Vy9CZ"
+          "name": "Nasrat Al Badr",
+          "url": "https://open.spotify.com/artist/3fPWjGqkBchYXNmr18J5n5"
         }
       ],
-      "duration_ms": 206532,
-      "name": "Shensa Menhom",
-      "url": "https://open.spotify.com/track/3IPqVifbYjScga84DRtju8"
+      "duration_ms": 271441,
+      "name": "El Omr Rah - Original",
+      "url": "https://open.spotify.com/track/1rwhsMQoNtMn2PGJsUJ0aZ"
+    },
+    {
+      "added_at": "2026-07-13 09:47:57",
+      "album": {
+        "name": "Rouh W Nsani",
+        "url": "https://open.spotify.com/album/0H52Tii8jORuNjsunpgwaV"
+      },
+      "artists": [
+        {
+          "name": "Yasmeen",
+          "url": "https://open.spotify.com/artist/6hWSF0FMDSa4AtFLH0cVEP"
+        }
+      ],
+      "duration_ms": 225959,
+      "name": "Rouh W Nsani",
+      "url": "https://open.spotify.com/track/3EmlkQjuUaAwo7BjwqHNba"
+    },
+    {
+      "added_at": "2026-07-13 09:47:57",
+      "album": {
+        "name": "\u0627\u0631\u062c\u0639 \u0639\u0644\u064a\u0646\u0627",
+        "url": "https://open.spotify.com/album/0VUDEMAiaWZMowQASWSktF"
+      },
+      "artists": [
+        {
+          "name": "\u0639\u0644\u064a \u062d\u0627\u062a\u0645",
+          "url": "https://open.spotify.com/artist/4MlczWxXyrZvwEP7W2nOin"
+        }
+      ],
+      "duration_ms": 287216,
+      "name": "\u0627\u0631\u062c\u0639 \u0639\u0644\u064a\u0646\u0627",
+      "url": "https://open.spotify.com/track/20IgyjZCkaLFXqXERnN5tq"
     },
     {
       "added_at": "2026-02-27 18:06:46",
@@ -533,26 +565,6 @@
       "url": "https://open.spotify.com/track/2d89YOM8eeLB7D0lR8XQ5y"
     },
     {
-      "added_at": "2025-01-22 12:31:44",
-      "album": {
-        "name": "\u0633\u0643\u0631\u064a\u0646 \u0634\u0648\u062a",
-        "url": "https://open.spotify.com/album/4kfU56vhxuRSVNvc9NiS7Q"
-      },
-      "artists": [
-        {
-          "name": "Hussam Al Majed",
-          "url": "https://open.spotify.com/artist/1vR9BAtUE91PkAXpO8UOi0"
-        },
-        {
-          "name": "Sajjad Al Kaabi",
-          "url": "https://open.spotify.com/artist/0dCw2zbfudQRX8T1LhJDov"
-        }
-      ],
-      "duration_ms": 169579,
-      "name": "\u0633\u0643\u0631\u064a\u0646 \u0634\u0648\u062a",
-      "url": "https://open.spotify.com/track/7p5KOUo1Z3p4523IXuC8od"
-    },
-    {
       "added_at": "2026-02-27 20:40:52",
       "album": {
         "name": "\u0634\u0643\u0648 \u0645\u0627\u0643\u0648",
@@ -663,22 +675,6 @@
       "duration_ms": 250729,
       "name": "Atrak - \u0639\u0637\u0631\u0643",
       "url": "https://open.spotify.com/track/2QtVbvCqhwmhorkdu1BS6t"
-    },
-    {
-      "added_at": "2025-01-22 12:31:44",
-      "album": {
-        "name": "Ya El Ghashash (\u064a\u0627\u0644\u063a\u0634\u0627\u0634)",
-        "url": "https://open.spotify.com/album/7DbmlwivNtglxYVWxQ807a"
-      },
-      "artists": [
-        {
-          "name": "Dumooa Tahseen",
-          "url": "https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ"
-        }
-      ],
-      "duration_ms": 215585,
-      "name": "Ya El Ghashash - \u064a\u0627\u0644\u063a\u0634\u0627\u0634",
-      "url": "https://open.spotify.com/track/69F05yNX2cTsQANGxub8Ph"
     },
     {
       "added_at": "2025-01-22 12:31:44",
@@ -795,26 +791,6 @@
       "duration_ms": 213714,
       "name": "Ya Chathab",
       "url": "https://open.spotify.com/track/6Ag4Und6NcTdnQvNMtbDN6"
-    },
-    {
-      "added_at": "2025-01-22 12:31:44",
-      "album": {
-        "name": "Low Tehbny",
-        "url": "https://open.spotify.com/album/26QmCBzT5VngDgCFEmuAb1"
-      },
-      "artists": [
-        {
-          "name": "Yasser Abd Alwahab",
-          "url": "https://open.spotify.com/artist/6257KWddv5693NK51w7iXa"
-        },
-        {
-          "name": "Yousif Basim",
-          "url": "https://open.spotify.com/artist/48gGrQgctA3maCIN6xRNTd"
-        }
-      ],
-      "duration_ms": 187578,
-      "name": "Low Tehbny",
-      "url": "https://open.spotify.com/track/1Qv14GgwC8DOg3w5IlXz2V"
     },
     {
       "added_at": "2025-01-22 12:31:44",

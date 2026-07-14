@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8NMUtC3b3gL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8NMUtC3b3gL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8NMUtC3b3gL)
 
-### [lofi summer haze](https://open.spotify.com/playlist/37i9dQZF1DX8NMUtC3b3gL)
+### [lofi summer beats](https://open.spotify.com/playlist/37i9dQZF1DX8NMUtC3b3gL)
 
-> beautiful beats for beautiful moments.
+> chill vibes for lazy mornings, sun\-soaked afternoons, and late\-night breezes 🏖️☀️
 
 642 songs - 1 day 1 hr 1 min
 

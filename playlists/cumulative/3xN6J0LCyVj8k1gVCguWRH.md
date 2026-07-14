@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-6,272 songs - 14 day 14 hr 42 min
+6,273 songs - 14 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3111,6 +3111,7 @@
 | [Light Work](https://open.spotify.com/track/1YHkDDFxeHPFit1Pu8REtA) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Wavy Boy Smith](https://open.spotify.com/artist/5R0PHvHnz26MnV7keyLxli) | [Light Work](https://open.spotify.com/album/47R1W7b9zrF0UYwpVdJTzs) | 3:31 | 2021-04-03 | 2021-04-18 |
 | [Lightbulb](https://open.spotify.com/track/3ansqno08pVEKlqnHZyd3d) | [NISHA](https://open.spotify.com/artist/0zY8LOMvTmcromP2vV0nBv) | [Lightbulb](https://open.spotify.com/album/3mj0UrmtLP4BHp7AphKy0f) | 2:35 | 2023-01-21 | 2023-02-24 |
 | [lightning bug \- Radio Edit](https://open.spotify.com/track/7L2hQtzf50HfxQEt93TJq2) | [Koser](https://open.spotify.com/artist/2SBexQFceTYMVRlzeNU9Uf) | [lightning bug \(Radio Edit\)](https://open.spotify.com/album/5zTvtXYgQz5rsiHKvt2xJp) | 3:19 | 2024-12-26 | 2025-01-08 |
+| [Lights Down](https://open.spotify.com/track/7ihxR27tybU9Kf5tx3Rnbg) | [Baby Richman](https://open.spotify.com/artist/0Rflnb0WvYeuK5B6AHVSXE) | [Lights Down](https://open.spotify.com/album/21S1PqYmW5l0WF1uUluF7s) | 3:13 | 2026-07-13 |  |
 | [Lights from Container Ships](https://open.spotify.com/track/6Osy3fAqkAmyMXXvTD00dE) | [Duane Face](https://open.spotify.com/artist/2GBtCXYYPAPLMkFArqAkUU) | [Lights from Container Ships](https://open.spotify.com/album/4b8PPBZL6vEiRyijRaPG3q) | 3:45 | 2026-05-23 | 2026-06-05 |
 | [Like A Dream](https://open.spotify.com/track/7k12vwMLm7QZTPXyJxJ0X6) | [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl) | [Like A Dream \(Radio\)](https://open.spotify.com/album/7INhjPp2au9xaMpmtxeKLB) | 3:00 | 2022-05-27 | 2022-06-12 |
 | [Like a Garden](https://open.spotify.com/track/51dGcyIKiDum7xc1pHNWEJ) | [Mojoe](https://open.spotify.com/artist/1P8vWCKNXt3W5eSyZQpTX1) | [Like a Garden](https://open.spotify.com/album/6qUCtqe9bsBBsKH9kB70bh) | 3:25 | 2021-09-04 | 2021-09-19 |

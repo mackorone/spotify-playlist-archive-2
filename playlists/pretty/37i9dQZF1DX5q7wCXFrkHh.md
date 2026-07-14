@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,771 likes - 100 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,830 likes - 100 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 56 | [I Didn't Know What Time It Was](https://open.spotify.com/track/7CYu93j5AsYDEhY7apdKvw) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 1](https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc) | 6:31 |
 | 57 | [High Wire](https://open.spotify.com/track/5L8yfDH7MIE7jWidHZPwBX) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Ready Take One](https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM) | 3:47 |
 | 58 | [52nd Street Theme](https://open.spotify.com/track/63AH56BdSoBHKJAnsB6KiR) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Kenny Drew And His Progressive Piano](https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe) | 3:24 |
-| 59 | [I'm Glad There Is You](https://open.spotify.com/track/0JCipYWmZT7sYHkunRqoRi) | [Duke Pearson](https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44) | [Profile](https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG) | 4:52 |
-| 60 | [How High The Moon](https://open.spotify.com/track/6NaOd4T2RdzU92CBTcTPQn) | [Hank Jones Trio](https://open.spotify.com/artist/0mwM5zJkCaimWBvlUu0P6U) | [The Trio](https://open.spotify.com/album/61YL3smwkMQDcs8qPqmPOx) | 6:03 |
+| 59 | [How High The Moon](https://open.spotify.com/track/6NaOd4T2RdzU92CBTcTPQn) | [Hank Jones Trio](https://open.spotify.com/artist/0mwM5zJkCaimWBvlUu0P6U) | [The Trio](https://open.spotify.com/album/61YL3smwkMQDcs8qPqmPOx) | 6:03 |
+| 60 | [I'm Glad There Is You](https://open.spotify.com/track/0JCipYWmZT7sYHkunRqoRi) | [Duke Pearson](https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44) | [Profile](https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG) | 4:52 |
 | 61 | [Night And Day](https://open.spotify.com/track/4kutk0onBpr8xcwfXItJDJ) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq), [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [John Simmons](https://open.spotify.com/artist/3aj8NPpdh8d5DDQmsu3Xx9), [Alvin Stoller](https://open.spotify.com/artist/3fnw6uRt2w26bQrNLM5Mnk) | [The Best Of Art Tatum](https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms) | 6:07 |
 | 62 | [Blind Man, Blind Man](https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [My Point Of View \(Expanded Edition\)](https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh) | 8:19 |
 | 63 | [The Man I Love](https://open.spotify.com/track/5OAEDR0DZegpjuTU3T2zS9) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Serenade To "Laura"](https://open.spotify.com/album/19iYq44Yh3H1vDNNr3o1po) | 2:40 |

@@ -1733,6 +1733,36 @@
     },
     {
       "album": {
+        "name": "Pagode Daquele Jeito (Ao Vivo)",
+        "url": "https://open.spotify.com/album/11B1LkMEiDnkSoXtR2ZLHP"
+      },
+      "artists": [
+        {
+          "name": "Filtr Music Brasil",
+          "url": "https://open.spotify.com/artist/3HS6PhyJJP5YNb5OFw1E5Q"
+        },
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        },
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        },
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303829,
+      "name": "Dorme com Deus / Pra N\u00e3o Pensar Em Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/5w3YtgXqR7BD0hZctqWgLR"
+    },
+    {
+      "album": {
         "name": "Imagina pra Namorar, Pt. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0zxfKH3fV097N0frpzKmOE"
       },
@@ -2640,6 +2670,40 @@
       "duration_ms": 519365,
       "name": "Gra\u00e7a / Mais Forte Que Eu / Dist\u00e2ncia / Carona do Amor / Por T\u00e3o Pouco - Ao Vivo",
       "url": "https://open.spotify.com/track/4F96aHMnrMNb8OnEgH0WJN"
+    },
+    {
+      "album": {
+        "name": "Netinho & Fam\u00edlia de Paula - Na Segunda Absoluta, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1UpWpSOoD2bUGjZLM3Tdrl"
+      },
+      "artists": [
+        {
+          "name": "Netinho De Paula",
+          "url": "https://open.spotify.com/artist/0b2YHyqwdG24iZZEZSagrL"
+        },
+        {
+          "name": "Vinigram",
+          "url": "https://open.spotify.com/artist/1rKRidjjPD9pJa2Xgvrowk"
+        },
+        {
+          "name": "Levi de Paula",
+          "url": "https://open.spotify.com/artist/03wMmfMoMZY7aSUqArVtHO"
+        },
+        {
+          "name": "Dudu de Paula",
+          "url": "https://open.spotify.com/artist/3igV32XS5jgjYlv0CpnrkP"
+        },
+        {
+          "name": "Dika de Paula",
+          "url": "https://open.spotify.com/artist/2fuN90QsV8UnLKP2DNE7Nc"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299645,
+      "name": "Heran\u00e7a Popular / Quem Gosta de Mim (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4E7wwjZgvv2S1Dj5WsYdEj"
     },
     {
       "album": {
@@ -4442,7 +4506,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 229721,
       "name": "Placa de Perigo / Valeu Pra Aprender",
       "url": "https://open.spotify.com/track/4OlFz6Bt8XbDsOQ3W3R7u8"
@@ -5590,7 +5654,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 254467,
       "name": "Singelo Menestrel / Mini Saia",
       "url": "https://open.spotify.com/track/76u8DjeHOHoYwUjCGJM82g"

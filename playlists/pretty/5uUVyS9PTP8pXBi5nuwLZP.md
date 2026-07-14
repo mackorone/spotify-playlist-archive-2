@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 584,028 likes - 83 songs - 4 hr 34 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 584,191 likes - 83 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 6 | [Summer anthem](https://open.spotify.com/track/0x3YU7sbhUd9f3YpwTSUNO) | [Picasso Shy](https://open.spotify.com/artist/6qM5Vw1YNzcRcnbagpvV0F) | [Summer anthem](https://open.spotify.com/album/5QsLIyF9ygbw9OR4lPPMdX) | 1:42 |
 | 7 | [Window of your soul](https://open.spotify.com/track/6jMETmGvbayaKHlohoQ4eP) | [Antonios Stathis](https://open.spotify.com/artist/70taWpRUMrQOC5G26OUHCX) | [Window of your soul](https://open.spotify.com/album/34NVTRSd6sK5EIe4otlwcI) | 3:38 |
 | 8 | [Saved](https://open.spotify.com/track/0QA4WJCBdZjkyQj2wpWLQ5) | [Ingrid](https://open.spotify.com/artist/03njCp0h4JbdLnwtNp5whL) | [Saved](https://open.spotify.com/album/1vuBOtm3i2huP2nUqR7rhZ) | 3:24 |
-| 9 | [Adrenaline \- Original Mix](https://open.spotify.com/track/3bX9uc35AznJD2BTCiqctd) | [Ξclipse](https://open.spotify.com/artist/4bzVOymbeYrofPchmQy7Jr) | [Feelings](https://open.spotify.com/album/7LGjZIgyvV1c9atDy3ClDe) | 5:00 |
+| 9 | [Adrenaline \- Original Mix](https://open.spotify.com/track/3bX9uc35AznJD2BTCiqctd) | [MEEST](https://open.spotify.com/artist/4zzOgZ6EsXLOT4bMDgsvg5) | [Feelings](https://open.spotify.com/album/7LGjZIgyvV1c9atDy3ClDe) | 5:00 |
 | 10 | [Come Back Smilling](https://open.spotify.com/track/7rjTLH0iGBrvWueJSfMwpk) | [Jan Paulke](https://open.spotify.com/artist/5EiWf4Z1aq5AnpwdSgVdjE) | [Come Back Smilling](https://open.spotify.com/album/6vumsiZxr2qowJk7M63mmS) | 2:01 |
 | 11 | [Ready 2 Ride](https://open.spotify.com/track/2pXeugFwbhbi9gXIoxL3fk) | [Undeniable](https://open.spotify.com/artist/4naHWiPcW9ucCoCmEUXM8o) | [Undeniable](https://open.spotify.com/album/1W8X9da3oSyRHScWo21QIc) | 5:00 |
 | 12 | [sekuretu](https://open.spotify.com/track/0R3jOIqQfM2ADeKrEQ28ML) | [electrOgourmet](https://open.spotify.com/artist/6DMUoP5PPVQ1sqEn1GO157) | [sekuretu](https://open.spotify.com/album/2RJxjx3SYWA11nn5mfNTne) | 3:52 |

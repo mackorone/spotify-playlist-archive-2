@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Boards Of Canada on cover.",
-  "num_followers": 579398,
+  "num_followers": 579437,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -219,38 +219,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Vendetta",
-        "url": "https://open.spotify.com/album/3cGO3FBxbnkyB7gWIWYmwS"
-      },
-      "artists": [
-        {
-          "name": "Temples",
-          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
-        }
-      ],
-      "duration_ms": 268062,
-      "name": "Vendetta",
-      "url": "https://open.spotify.com/track/2iaqhM34CBBgoyHLxOg5Ba"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
-        "name": "Wading Out / Shell Island",
-        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
-      },
-      "artists": [
-        {
-          "name": "Favourite People",
-          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Shell Island",
-      "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Bacchanal",
         "url": "https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF"
       },
@@ -279,6 +247,38 @@
       "duration_ms": 288826,
       "name": "Three King Fishers",
       "url": "https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Wading Out / Shell Island",
+        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
+      },
+      "artists": [
+        {
+          "name": "Favourite People",
+          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Shell Island",
+      "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Vendetta",
+        "url": "https://open.spotify.com/album/3cGO3FBxbnkyB7gWIWYmwS"
+      },
+      "artists": [
+        {
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+        }
+      ],
+      "duration_ms": 268062,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/2iaqhM34CBBgoyHLxOg5Ba"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Are You Tired? (Keep on Singing)",
-        "url": "https://open.spotify.com/album/6bfQx9nxndQu5zU3G4qBW7"
-      },
-      "artists": [
-        {
-          "name": "DARKSIDE",
-          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
-        }
-      ],
-      "duration_ms": 404562,
-      "name": "Are You Tired? (Keep on Singing)",
-      "url": "https://open.spotify.com/track/7qONmzQvjWnzQAbBrRqKrB"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Rose City Band",
         "url": "https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 394323,
       "name": "Rivers of Mind",
       "url": "https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Are You Tired? (Keep on Singing)",
+        "url": "https://open.spotify.com/album/6bfQx9nxndQu5zU3G4qBW7"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "duration_ms": 404562,
+      "name": "Are You Tired? (Keep on Singing)",
+      "url": "https://open.spotify.com/track/7qONmzQvjWnzQAbBrRqKrB"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Angeles",
-        "url": "https://open.spotify.com/album/1vad0gJkkmtHw3j57nrrSj"
-      },
-      "artists": [
-        {
-          "name": "City of the Sun",
-          "url": "https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "Angeles",
-      "url": "https://open.spotify.com/track/1WRwNkPolcW0a6sveTUBY8"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "V.",
         "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "A Dream of Lasting Peace",
-        "url": "https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw"
+        "name": "Angeles",
+        "url": "https://open.spotify.com/album/1vad0gJkkmtHw3j57nrrSj"
       },
       "artists": [
         {
-          "name": "Siena Root",
-          "url": "https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l"
+          "name": "City of the Sun",
+          "url": "https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k"
         }
       ],
-      "duration_ms": 218013,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0"
+      "duration_ms": 289000,
+      "name": "Angeles",
+      "url": "https://open.spotify.com/track/1WRwNkPolcW0a6sveTUBY8"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -671,6 +655,22 @@
       "duration_ms": 261634,
       "name": "Egypt",
       "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "A Dream of Lasting Peace",
+        "url": "https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw"
+      },
+      "artists": [
+        {
+          "name": "Siena Root",
+          "url": "https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
+        "name": "Funeral for Justice (Injustice Version)",
+        "url": "https://open.spotify.com/album/3fYga5PA5HrnbPFH4pWc8F"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "duration_ms": 345702,
+      "name": "Funeral for Justice - Injustice Version",
+      "url": "https://open.spotify.com/track/7MXFGo3Eelb8RegCAC5WQX"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
         "name": "We Were We Still Are",
         "url": "https://open.spotify.com/album/01DzJZ1Ir8CkDfVDZdxsW9"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 177920,
       "name": "We Were We Still Are",
       "url": "https://open.spotify.com/track/1t7KPfFCA5fVTV1FR9kSuJ"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
-        "name": "Funeral for Justice (Injustice Version)",
-        "url": "https://open.spotify.com/album/3fYga5PA5HrnbPFH4pWc8F"
-      },
-      "artists": [
-        {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
-        }
-      ],
-      "duration_ms": 345702,
-      "name": "Funeral for Justice - Injustice Version",
-      "url": "https://open.spotify.com/track/7MXFGo3Eelb8RegCAC5WQX"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Ring Tail",
-        "url": "https://open.spotify.com/album/1jB0X1Ch7IChY79vv1gZMe"
-      },
-      "artists": [
-        {
-          "name": "Monster Rally",
-          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
-        }
-      ],
-      "duration_ms": 118883,
-      "name": "Ring Tail",
-      "url": "https://open.spotify.com/track/1wVNi51JyuLkBa1Q7JeUTN"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Right or Wrong",
         "url": "https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 207665,
       "name": "Right or Wrong",
       "url": "https://open.spotify.com/track/3iblchfWSkursOZywc1MyH"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Ring Tail",
+        "url": "https://open.spotify.com/album/1jB0X1Ch7IChY79vv1gZMe"
+      },
+      "artists": [
+        {
+          "name": "Monster Rally",
+          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
+        }
+      ],
+      "duration_ms": 118883,
+      "name": "Ring Tail",
+      "url": "https://open.spotify.com/track/1wVNi51JyuLkBa1Q7JeUTN"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Season Finale",
-        "url": "https://open.spotify.com/album/1vnozWw44b4fNNhV4sSNQP"
-      },
-      "artists": [
-        {
-          "name": "The Holydrug Couple",
-          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
-        }
-      ],
-      "duration_ms": 200476,
-      "name": "Season Finale",
-      "url": "https://open.spotify.com/track/3LSAVMvco9SOlZgOePCwYz"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Bud Spencer Blues Explosion",
         "url": "https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 195013,
       "name": "Hey Boy Hey Girl - Cover Version",
       "url": "https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Season Finale",
+        "url": "https://open.spotify.com/album/1vnozWw44b4fNNhV4sSNQP"
+      },
+      "artists": [
+        {
+          "name": "The Holydrug Couple",
+          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
+        }
+      ],
+      "duration_ms": 200476,
+      "name": "Season Finale",
+      "url": "https://open.spotify.com/track/3LSAVMvco9SOlZgOePCwYz"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "The Real Work",
-        "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
-      },
-      "artists": [
-        {
-          "name": "Party Dozen",
-          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
-        }
-      ],
-      "duration_ms": 266737,
-      "name": "Risky Behaviour",
-      "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Sophomore",
         "url": "https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 332335,
       "name": "Time Frame",
       "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "The Real Work",
+        "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
+      },
+      "artists": [
+        {
+          "name": "Party Dozen",
+          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
+        }
+      ],
+      "duration_ms": 266737,
+      "name": "Risky Behaviour",
+      "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Coyote",
-        "url": "https://open.spotify.com/album/4RUEEx7aI836PxNySeoCEf"
-      },
-      "artists": [
-        {
-          "name": "El Goodo",
-          "url": "https://open.spotify.com/artist/5i7dni5qwxlcEs65HSvUm7"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "Feel so Fine",
-      "url": "https://open.spotify.com/track/6G25oGNPGDdkS3A74JnauO"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Hippie Hourrah!",
         "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/69rQ1bld0ENV22159ssTEs"
+        "name": "Coyote",
+        "url": "https://open.spotify.com/album/4RUEEx7aI836PxNySeoCEf"
       },
       "artists": [
         {
-          "name": "Dead Vibrations",
-          "url": "https://open.spotify.com/artist/4Mp0Z4j3la5wMW7qufBzsr"
+          "name": "El Goodo",
+          "url": "https://open.spotify.com/artist/5i7dni5qwxlcEs65HSvUm7"
         }
       ],
-      "duration_ms": 235583,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/4Mg8hV7BLoqDzvUii8x9Iw"
+      "duration_ms": 237493,
+      "name": "Feel so Fine",
+      "url": "https://open.spotify.com/track/6G25oGNPGDdkS3A74JnauO"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1251,6 +1235,22 @@
       "duration_ms": 267640,
       "name": "Another Quiet Sunday (Keep Moving On)",
       "url": "https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/69rQ1bld0ENV22159ssTEs"
+      },
+      "artists": [
+        {
+          "name": "Dead Vibrations",
+          "url": "https://open.spotify.com/artist/4Mp0Z4j3la5wMW7qufBzsr"
+        }
+      ],
+      "duration_ms": 235583,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/4Mg8hV7BLoqDzvUii8x9Iw"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Pascuales",
-        "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
-      },
-      "artists": [
-        {
-          "name": "Bobui",
-          "url": "https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse"
-        }
-      ],
-      "duration_ms": 217103,
-      "name": "Pascuales",
-      "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Non Ex Orbis",
         "url": "https://open.spotify.com/album/1XczGr1lyHPJpaTJ7KHNXq"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 486860,
       "name": "Mother Seletta",
       "url": "https://open.spotify.com/track/3q6wLmKG8EalzV3bcxNmQt"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Pascuales",
+        "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
+      },
+      "artists": [
+        {
+          "name": "Bobui",
+          "url": "https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse"
+        }
+      ],
+      "duration_ms": 217103,
+      "name": "Pascuales",
+      "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "No Way In",
-        "url": "https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2"
+        "name": "Fliiim",
+        "url": "https://open.spotify.com/album/3FoCvSpo76YEUAt98FSKAq"
       },
       "artists": [
         {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+          "name": "Upupay\u0101ma",
+          "url": "https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD"
         }
       ],
-      "duration_ms": 246125,
-      "name": "No Way In",
-      "url": "https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL"
+      "duration_ms": 329102,
+      "name": "Fliiim",
+      "url": "https://open.spotify.com/track/1aAsUzTj2bIH6cAHLsacKw"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

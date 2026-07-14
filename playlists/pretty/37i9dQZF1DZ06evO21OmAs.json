@@ -1,12 +1,12 @@
 {
   "description": "This is girl in red. The essential tracks, all in one playlist.",
-  "num_followers": 255545,
+  "num_followers": 255538,
   "original_name": "This Is girl in red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAAB5ihgsa93GBj6voKwGyCRg",
+  "snapshot_id": "alLZAAAAAAD+3e8DabArkyQy7SvKzUuo",
   "tracks": [
     {
       "added_at": null,
@@ -536,12 +536,12 @@
       },
       "artists": [
         {
-          "name": "Lawrence Rothman",
-          "url": "https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N"
-        },
-        {
           "name": "Day Wave",
           "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        },
+        {
+          "name": "Lawrence Rothman",
+          "url": "https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N"
         },
         {
           "name": "girl in red",

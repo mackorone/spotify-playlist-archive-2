@@ -1,6 +1,6 @@
 {
   "description": "To all the 7abieb out there. Cover:  Tamer Ashour.",
-  "num_followers": 211440,
+  "num_followers": 211455,
   "original_name": "Arabic Love Songs",
   "owner": {
     "name": "Spotify",
@@ -607,18 +607,18 @@
     {
       "added_at": "2025-10-08 07:02:25",
       "album": {
-        "name": "\u0644\u062d\u0638\u0629 \u0628\u0639\u0627\u062f\u0643",
-        "url": "https://open.spotify.com/album/5ZzAowICKjKwUrWMz8nxPd"
+        "name": "Mawali",
+        "url": "https://open.spotify.com/album/5ntiX3s1kigHbz9WqQsxyN"
       },
       "artists": [
         {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
         }
       ],
-      "duration_ms": 221379,
-      "name": "\u0644\u062d\u0638\u0629 \u0628\u0639\u0627\u062f\u0643",
-      "url": "https://open.spotify.com/track/7bsE3mQpFJPdIFXLmlJxRt"
+      "duration_ms": 268549,
+      "name": "Mawali",
+      "url": "https://open.spotify.com/track/6EGN0RcirTvE4HCrKNXGe0"
     },
     {
       "added_at": "2025-10-08 07:02:25",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-10-08 07:02:25",
       "album": {
-        "name": "Mawali",
-        "url": "https://open.spotify.com/album/5ntiX3s1kigHbz9WqQsxyN"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 268549,
-      "name": "Mawali",
-      "url": "https://open.spotify.com/track/6EGN0RcirTvE4HCrKNXGe0"
-    },
-    {
-      "added_at": "2025-10-08 07:02:25",
-      "album": {
         "name": "Kol Sana Wenta Tayeb",
         "url": "https://open.spotify.com/album/3VUbM9nuE2cSRN5DS0CuZy"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 241781,
       "name": "Kol Sana Wenta Tayeb",
       "url": "https://open.spotify.com/track/3LVbXJEWPs6gvIMMLU5aWw"
+    },
+    {
+      "added_at": "2025-10-08 07:02:25",
+      "album": {
+        "name": "\u0644\u062d\u0638\u0629 \u0628\u0639\u0627\u062f\u0643",
+        "url": "https://open.spotify.com/album/5ZzAowICKjKwUrWMz8nxPd"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "duration_ms": 221379,
+      "name": "\u0644\u062d\u0638\u0629 \u0628\u0639\u0627\u062f\u0643",
+      "url": "https://open.spotify.com/track/7bsE3mQpFJPdIFXLmlJxRt"
     },
     {
       "added_at": "2025-10-08 07:02:25",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-10-08 07:02:25",
       "album": {
-        "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
-        "url": "https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L"
-      },
-      "artists": [
-        {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
-        }
-      ],
-      "duration_ms": 198571,
-      "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
-      "url": "https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e"
-    },
-    {
-      "added_at": "2025-10-08 07:02:25",
-      "album": {
         "name": "Bahebak",
         "url": "https://open.spotify.com/album/5uPTWqnAfnZrrGi4Kxnes0"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 199108,
       "name": "Bahebak",
       "url": "https://open.spotify.com/track/6ma9Xd53y0elLkH1KfiSU5"
+    },
+    {
+      "added_at": "2025-10-08 07:02:25",
+      "album": {
+        "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
+        "url": "https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "duration_ms": 198571,
+      "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
+      "url": "https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e"
     },
     {
       "added_at": "2025-10-08 07:02:25",
@@ -979,18 +979,22 @@
     {
       "added_at": "2025-10-08 07:02:25",
       "album": {
-        "name": "Oyouno Lama Ablony",
-        "url": "https://open.spotify.com/album/4b1AMevNzVNAyTMzO8mbPu"
+        "name": "Habibi Elli",
+        "url": "https://open.spotify.com/album/5aSjZMQpfrCBnGodq3u0Xo"
       },
       "artists": [
         {
-          "name": "Ramy Sabry",
-          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+          "name": "Mohamed Chaker",
+          "url": "https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0"
+        },
+        {
+          "name": "Rima Yussef",
+          "url": "https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl"
         }
       ],
-      "duration_ms": 197197,
-      "name": "Oyouno Lama Ablony",
-      "url": "https://open.spotify.com/track/63SfVFcA5kGYX1qJKRHhXR"
+      "duration_ms": 251294,
+      "name": "Habibi Elli",
+      "url": "https://open.spotify.com/track/6WMT7X0aCuWHrNWzPng4BS"
     }
   ],
   "unique_name": "Arabic Love Songs",

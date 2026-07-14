@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-1,024 songs - 2 day 3 hr 5 min
+1,025 songs - 2 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -768,7 +768,7 @@
 | [Shutdown](https://open.spotify.com/track/31k2GXJC7k1DZeT6BB2WxB) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Shutdown](https://open.spotify.com/album/1HuzkJxyRtBsKuBxeywSMg) | 3:51 | 2025-07-10 | 2025-08-13 |
 | [Siks kai mä oon sun \(Vain elämää kausi 16\)](https://open.spotify.com/track/3zUWeZ6BDAIyPKAWbU9SQX) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Siks kai mä oon sun \(Vain elämää kausi 16\)](https://open.spotify.com/album/6puwcWcwlJ3sfSS6p07nfx) | 2:29 | 2025-10-30 | 2025-11-14 |
 | [Sinfoniaa](https://open.spotify.com/track/4gXjGeJjVmDeBHkecLGxTr) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Sinfoniaa](https://open.spotify.com/album/4x5w1WOBRdtc2rPEbbZMu2) | 3:07 | 2026-06-11 |  |
-| [Sinä ja se poitsu](https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh) | [SANNI](https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze) | [Sinä ja se poitsu](https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg) | 3:03 | 2026-03-19 |  |
+| [Sinä ja se poitsu](https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh) | [SANNI](https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze) | [Sinä ja se poitsu](https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg) | 3:03 | 2026-03-19 | 2026-07-14 |
 | [Sirkus](https://open.spotify.com/track/0Ekrxw3lGOi3upnMTH90VY) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Sirkus](https://open.spotify.com/album/3ncKZQQaLP3Ikw1vpIX24F) | 2:52 | 2024-07-02 | 2024-11-22 |
 | [Sisko](https://open.spotify.com/track/5GsPlZhyZhpYWqFQagfySb) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Sisko](https://open.spotify.com/album/726cvsMISBANq4GBdUzBKL) | 3:29 | 2025-03-20 | 2025-07-04 |
 | [Sisko ja sen veli](https://open.spotify.com/track/4QK7HRDhvO5ujhMhWG2wuD) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Sisko ja sen veli](https://open.spotify.com/album/1ZsxL73Hpo3JpiS4GqkqKg) | 3:08 | 2026-02-12 |  |
@@ -994,6 +994,7 @@
 | [Vuosi](https://open.spotify.com/track/7HLjXn0DkzLjVfCM8GePX6) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Vuosi](https://open.spotify.com/album/4o2NeIpas2AuMq50pLdJ2Q) | 3:00 | 2025-01-02 | 2025-01-31 |
 | [Vuosi \(feat\. SANNI\)](https://open.spotify.com/track/7ka3rnsRdx8MwOydwceZRt) | [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5), [SANNI](https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze) | [Rehellisesti](https://open.spotify.com/album/7fiaOeSdQLY7j5sf2ZqfgO) | 2:29 | 2024-07-02 | 2024-07-05 |
 | [Vähän enemmän](https://open.spotify.com/track/7oZUbH4QyiNtW8L9ibZFHH) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Vähän enemmän](https://open.spotify.com/album/0QNhV8mz6qAYwFZnfAbASR) | 3:07 | 2025-10-09 | 2025-11-21 |
+| [Vähän rahaa, paljon rakkautta](https://open.spotify.com/track/2BYgh7jz3huleibaQgAFun) | [Olli Halonen](https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts) | [Vähän rahaa, paljon rakkautta](https://open.spotify.com/album/2CJrdfV8OIxbMBEZExvzWv) | 2:49 | 2026-06-25 |  |
 | [Värit](https://open.spotify.com/track/0wvcMn4YYcmdAzvcvJkRZQ) | [BENI](https://open.spotify.com/artist/0yVKqanLFd6BLlbkfYOnqX) | [Värit](https://open.spotify.com/album/2lihJzuMtlNJASqgaIKFRA) | 2:49 | 2026-05-21 | 2026-05-29 |
 | [Väärään ihmiseen](https://open.spotify.com/track/2x4xLxN2y6c7yUhK9Sxzpq) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Väärään ihmiseen](https://open.spotify.com/album/1JO9UvzcMtrJJ2nh5Pf7vk) | 2:07 | 2025-05-22 | 2025-08-19 |
 | [While Your Lips Are Still Red \(Vain elämää kausi 15\)](https://open.spotify.com/track/17wu4wGbxdfdH7xkqcMt5U) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [While Your Lips Are Still Red \(Vain elämää kausi 15\)](https://open.spotify.com/album/55ucWx00U8mVBaPpU7gC44) | 2:36 | 2024-11-28 | 2024-12-06 |

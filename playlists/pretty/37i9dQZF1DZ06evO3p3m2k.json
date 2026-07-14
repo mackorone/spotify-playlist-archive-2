@@ -1,12 +1,12 @@
 {
   "description": "This is Juliana. The essential tracks, all in one playlist.",
-  "num_followers": 5905,
+  "num_followers": 5907,
   "original_name": "This Is Juliana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAADuf26RRx/GA+5nIzlcnXEY",
+  "snapshot_id": "alLZAAAAAAB8QH6NdyBT/mhfSs7hcdj8",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Juliana",
+        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 175286,
+      "name": "Presiento",
+      "url": "https://open.spotify.com/track/6xc4zqAPPvOr0zRaUo5tip"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si Dios Perdona",
         "url": "https://open.spotify.com/album/70fClqkoidHfZivofJHZmc"
       },
@@ -559,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mala Hora",
-        "url": "https://open.spotify.com/album/34TloCPADxqF8R3otAHRA6"
-      },
-      "artists": [
-        {
-          "name": "Natalia Natalia",
-          "url": "https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ"
-        },
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 199736,
-      "name": "YA NO SIENTO FR\u00cdO",
-      "url": "https://open.spotify.com/track/5pWKM3ZxK7T14uSyuxVrH5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DOS DOS DOS",
         "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
       },
@@ -595,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juliana",
-        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
+        "name": "A Mala Hora",
+        "url": "https://open.spotify.com/album/34TloCPADxqF8R3otAHRA6"
       },
       "artists": [
+        {
+          "name": "Natalia Natalia",
+          "url": "https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ"
+        },
         {
           "name": "Juliana",
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 175286,
-      "name": "Presiento",
-      "url": "https://open.spotify.com/track/6xc4zqAPPvOr0zRaUo5tip"
+      "duration_ms": 199736,
+      "name": "YA NO SIENTO FR\u00cdO",
+      "url": "https://open.spotify.com/track/5pWKM3ZxK7T14uSyuxVrH5"
     },
     {
       "added_at": null,

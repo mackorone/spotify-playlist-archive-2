@@ -4,7 +4,7 @@
 
 > Playlist
 
-652 songs - 1 day 14 hr 33 min
+653 songs - 1 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Floating](https://open.spotify.com/track/0E5CMtgGnfrOhcTxzZaOhu) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Floating](https://open.spotify.com/album/74ZTgXZoy6R98LS2GlHGZm) | 3:42 | 2023-10-25 |  |
 | [Floating](https://open.spotify.com/track/1aPUONuI7KAvlIPcR6ykkA) | [Marrakech](https://open.spotify.com/artist/396uBOizN3Vw2K2FmSlU2B) | [Floating](https://open.spotify.com/album/6PE7PpQc15oj7ax0vFTlmh) | 2:56 | 2023-10-25 |  |
 | [Flook](https://open.spotify.com/track/4uJygJrv9ZRqkxfDijPxod) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Untitled '91](https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu) | 1:27 | 2023-10-25 |  |
+| [Flowers](https://open.spotify.com/track/1nU7euE2UtifL8LvwjyCm0) | [j.paul](https://open.spotify.com/artist/0klHZ1ixAXRq6KIJIMYtXO), [Lazy Trail](https://open.spotify.com/artist/5WHVS2qeych1JQDD4qQPjg) | [Flowers](https://open.spotify.com/album/67xHJ0x5tX4E5ADqix2RF0) | 2:30 | 2026-07-13 |  |
 | [Flowers](https://open.spotify.com/track/7ELRIwLlCifSY1HG2hgd4m) | [Sebastian Roca](https://open.spotify.com/artist/4axhTQXDTfbRk7FZe2tsTF) | [Parkview Demos](https://open.spotify.com/album/3Vgnh06FtxYOsr1zkFwVu2) | 3:41 | 2023-10-25 |  |
 | [Flowers in the Garden](https://open.spotify.com/track/59QMzFQooFuIhGyrHqQZMH) | [Blacktop](https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc) | [Gardening is a Practice, Not an Idea \(Deluxe\)](https://open.spotify.com/album/3A5v9tb1gc0TtegtuLTk84) | 4:05 | 2024-02-20 |  |
 | [For Another One](https://open.spotify.com/track/1p3cobnspNSIRYaHMpLncQ) | [Nic Clay](https://open.spotify.com/artist/3Irb4dWmjcnpsDDbbBbZso) | [For Another One](https://open.spotify.com/album/5RhtSUPZQNOPDmXtNm3PzA) | 3:10 | 2023-10-25 |  |

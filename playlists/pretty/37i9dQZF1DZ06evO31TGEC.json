@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 55690,
+  "num_followers": 55699,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAACHHxlWYxxRBlfkmwR6fOxO",
+  "snapshot_id": "alLZAAAAAAAKw+9W0btbIImXrXkkUvrV",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi M\u00e9xico Para El Mundo",
-        "url": "https://open.spotify.com/album/23r76axU3JSU045PYMWqIq"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Hola Mi Amor (Mariachi)",
-      "url": "https://open.spotify.com/track/5BaDvD4VYk48bVskuzQjwI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Se Mueran de Envidia",
         "url": "https://open.spotify.com/album/040eUd8jkUXnYW8ceUAVOQ"
       },
@@ -527,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ten\u00eda Due\u00f1o",
-        "url": "https://open.spotify.com/album/5mXBG1ENFkwJjklKbFQKrk"
+        "name": "Mi M\u00e9xico Para El Mundo",
+        "url": "https://open.spotify.com/album/23r76axU3JSU045PYMWqIq"
       },
       "artists": [
         {
@@ -536,9 +520,25 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 183941,
-      "name": "Ten\u00eda Due\u00f1o",
-      "url": "https://open.spotify.com/track/6nZZB9Q0NDUliyOsa9BKEU"
+      "duration_ms": 190080,
+      "name": "Hola Mi Amor (Mariachi)",
+      "url": "https://open.spotify.com/track/5BaDvD4VYk48bVskuzQjwI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corazon de Nino",
+        "url": "https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 160213,
+      "name": "Regalo del Cielo",
+      "url": "https://open.spotify.com/track/28YNal6Gsq8v6xDNfXQ717"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corazon de Nino",
-        "url": "https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh"
+        "name": "Ten\u00eda Due\u00f1o",
+        "url": "https://open.spotify.com/album/5mXBG1ENFkwJjklKbFQKrk"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 160213,
-      "name": "Regalo del Cielo",
-      "url": "https://open.spotify.com/track/28YNal6Gsq8v6xDNfXQ717"
+      "duration_ms": 183941,
+      "name": "Ten\u00eda Due\u00f1o",
+      "url": "https://open.spotify.com/track/6nZZB9Q0NDUliyOsa9BKEU"
     },
     {
       "added_at": null,

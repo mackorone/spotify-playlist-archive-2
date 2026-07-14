@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 187840,
       "name": "401",
       "url": "https://open.spotify.com/track/43X9h7tRxERIYgztKjHU6k"
@@ -226,6 +226,24 @@
       "duration_ms": 240240,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/2gFb9birqiHSgS8A5IEcQr"
+    },
+    {
+      "album": {
+        "name": "1021",
+        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215186,
+      "name": "Good One",
+      "url": "https://open.spotify.com/track/6AuoUvOQDpxQdyE28xg3wT"
     },
     {
       "album": {

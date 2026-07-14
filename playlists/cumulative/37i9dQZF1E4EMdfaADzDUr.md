@@ -2,7 +2,7 @@
 
 ### [Klangphonics Radio](https://open.spotify.com/playlist/37i9dQZF1E4EMdfaADzDUr)
 
-> With winterburn, Michael Canitrot, After Cooking and more
+> With winterburn, After Cooking, GONE and more
 
 309 songs - 23 hr 36 min
 

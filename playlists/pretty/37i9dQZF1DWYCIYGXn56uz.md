@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > 6 🤷 7 \- Madame in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,271 likes - 95 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,252 likes - 95 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [M'AMA NON M'AMA](https://open.spotify.com/track/62Fhtd4RS4ZJFeuIflGKyg) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [M'AMA NON M'AMA](https://open.spotify.com/album/3AtmmwCyWNlimeMrEC8rq7) | 2:32 |
-| 2 | [WHITE GIRL WASTED](https://open.spotify.com/track/3d56FH7ZlHf9tjojZSwv8U) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [WHITE GIRL WASTED](https://open.spotify.com/album/1MdbSkPqc1AeqWJQBk3Weq) | 2:22 |
+| 2 | [MILLION DOLLAR BABE](https://open.spotify.com/track/4uzXo3sUkY7xXelBvj1L7A) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [MILLION DOLLAR BABE](https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5) | 2:53 |
 | 3 | [LA LEGGE DEL KARMA](https://open.spotify.com/track/3fr8SqIWgQfqZcFijWN4re) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [AMATORE](https://open.spotify.com/album/0Put06lJPKgGFHmMntdV7f) | 3:02 |
 | 4 | [PAROLE AL VENTO](https://open.spotify.com/track/1hH3NZI3u7ripOZDu4HPA1) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [PAROLE AL VENTO](https://open.spotify.com/album/4GUb7g0PDX2dBLGYVG96Oi) | 2:57 |
 | 5 | [Temporale \(feat\. LILCR & Mida\)](https://open.spotify.com/track/6HKaTiZRaBX9CpZTMYP06E) | [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1), [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Temporale \(feat\. LILCR & Mida\)](https://open.spotify.com/album/2gEv5J4oyuMHo3Nsy9yoYV) | 2:43 |
 | 6 | [Da Dio](https://open.spotify.com/track/7pzx95tPu1njhmM6IoR6Al) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Da Dio](https://open.spotify.com/album/1XjzMjgg0ktZSGrUv3j1bs) | 2:53 |
-| 7 | [MILLION DOLLAR BABE](https://open.spotify.com/track/4uzXo3sUkY7xXelBvj1L7A) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [MILLION DOLLAR BABE](https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5) | 2:53 |
+| 7 | [WHITE GIRL WASTED](https://open.spotify.com/track/3d56FH7ZlHf9tjojZSwv8U) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [WHITE GIRL WASTED](https://open.spotify.com/album/1MdbSkPqc1AeqWJQBk3Weq) | 2:22 |
 | 8 | [E Allora](https://open.spotify.com/track/1XzHasEgB7QoXXtoD3sUKY) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [È O G.](https://open.spotify.com/album/3vAjsYdC3b1kYWqmZaM4sd) | 1:51 |
 | 9 | [LE RAGAZZE](https://open.spotify.com/track/2YVIDa7ZPLtce3VLGNcxvv) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ), [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [LE RAGAZZE](https://open.spotify.com/album/5dGbct1c1422HZRyViiNR0) | 2:59 |
 | 10 | [CANZONE D'AMORE](https://open.spotify.com/track/4oAmcoWAsnEKF47gYNryAc) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:00 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 94 | [Perdigiorno](https://open.spotify.com/track/6Tld3zH5XE2EXF2UOqtLi1) | [plasma](https://open.spotify.com/artist/4ct6fFxYrQCgyveC8ILww4) | [Perdigiorno](https://open.spotify.com/album/6dn67zZpP9upayDx1f1p7l) | 2:57 |
 | 95 | [Millemila Missili](https://open.spotify.com/track/07WaD3eZhsXtVMJsi2tXmq) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Millemila Missili](https://open.spotify.com/album/2jYKHTVyCkm3m78zl7t21l) | 2:50 |
 
-Snapshot ID: `AAAAAHK+mFRBlYQ0TNw4m+TDM1KIXIKQ`
+Snapshot ID: `AAAAAO4MzpqvZvB4MU41Ks4nD9Delv7N`

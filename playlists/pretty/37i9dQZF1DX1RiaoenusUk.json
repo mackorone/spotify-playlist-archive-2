@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 35168,
+  "num_followers": 35171,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -1651,18 +1651,22 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Melod\u00edas",
-        "url": "https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj"
+        "name": "Polvo C\u00f3smico (Remix)",
+        "url": "https://open.spotify.com/album/6mGtBcrNrRiMMH8LIWqINx"
       },
       "artists": [
         {
-          "name": "Monoson",
-          "url": "https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A"
+          "name": "Cevlade",
+          "url": "https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY"
+        },
+        {
+          "name": "C-Funk",
+          "url": "https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO"
         }
       ],
-      "duration_ms": 185312,
-      "name": "Melod\u00edas",
-      "url": "https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH"
+      "duration_ms": 207888,
+      "name": "Polvo C\u00f3smico - Remix",
+      "url": "https://open.spotify.com/track/70a8kMxbPGDkGk0yNXnU5B"
     }
   ],
   "unique_name": "Nota Funk",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Chevy Beaulieu
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,120 likes - 162 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,123 likes - 162 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

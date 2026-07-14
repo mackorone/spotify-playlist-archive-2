@@ -192,7 +192,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 154000,
       "name": "Acid For Breakfast",
       "url": "https://open.spotify.com/track/5GWuNgdeHmy37dTDYOe9Ql"
@@ -976,10 +976,28 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 152142,
       "name": "Bad",
       "url": "https://open.spotify.com/track/11BtGhFCp0R6yRzB9grEKw"
+    },
+    {
+      "album": {
+        "name": "Bad Behaviour",
+        "url": "https://open.spotify.com/album/4P0xcSNathFwohfVIBUTtn"
+      },
+      "artists": [
+        {
+          "name": "AVAO",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Bad Behaviour",
+      "url": "https://open.spotify.com/track/0aF53G3vRoyWnBCBKfihyX"
     },
     {
       "album": {
@@ -1064,6 +1082,28 @@
       "duration_ms": 142153,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/4RBbIPUGgYBKiExshxMN9c"
+    },
+    {
+      "album": {
+        "name": "Bang On The Drums",
+        "url": "https://open.spotify.com/album/4HgdfeH2IwTfwnIhQrReXN"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152368,
+      "name": "Bang On The Drums",
+      "url": "https://open.spotify.com/track/6FnmKuDTiiM8GxZx0KiiFT"
     },
     {
       "album": {
@@ -3833,6 +3873,28 @@
     },
     {
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/0QJZAHxcKEhpQPkBgiCwX4"
+      },
+      "artists": [
+        {
+          "name": "The Hitmen",
+          "url": "https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75"
+        },
+        {
+          "name": "Nasha",
+          "url": "https://open.spotify.com/artist/4rjMrD55Od3MSYRyl3xt6n"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238321,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/3dL80LEvdLfZllIKdCeGFN"
+    },
+    {
+      "album": {
         "name": "Retro Future, Vol. 3",
         "url": "https://open.spotify.com/album/05t0v1yS6XFup4zH1VjR7U"
       },
@@ -3936,7 +3998,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 221818,
       "name": "Eyes Open Wide (feat. The Melody Men)",
       "url": "https://open.spotify.com/track/3lNB6AIzIndg6zUzWH8Wql"
@@ -4706,7 +4768,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 169153,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/29WwN7OZGIwtRsEX18c1LO"
@@ -5334,7 +5396,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 187384,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/1A0yrRs7GAe1gbCklYE6wl"
@@ -5988,7 +6050,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 193345,
       "name": "Holy Place",
       "url": "https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL"
@@ -6150,7 +6212,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 173419,
       "name": "Hypnotise",
       "url": "https://open.spotify.com/track/6EZz5l9orMw7FJdLzw73to"
@@ -6726,7 +6788,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-09",
+      "date_removed": null,
       "duration_ms": 151945,
       "name": "It Ain't Safe (FENRIP)",
       "url": "https://open.spotify.com/track/2uvchqTMwW7gAgjuGVI2pj"
@@ -6880,7 +6942,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 200113,
       "name": "Jump To The Pump",
       "url": "https://open.spotify.com/track/146f4yEqzZGS0DtxCAU6r1"
@@ -8989,6 +9051,42 @@
     },
     {
       "album": {
+        "name": "Naughty",
+        "url": "https://open.spotify.com/album/4BFziZ45Pg91qenH1VVBiB"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132161,
+      "name": "Naughty",
+      "url": "https://open.spotify.com/track/3U47of5EW3ejO4nsAfVGJz"
+    },
+    {
+      "album": {
+        "name": "Needle On The Record",
+        "url": "https://open.spotify.com/album/21H3MmqMqJogAAcxpl9KIa"
+      },
+      "artists": [
+        {
+          "name": "D'Angello & Francis",
+          "url": "https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221322,
+      "name": "Needle On The Record",
+      "url": "https://open.spotify.com/track/7hPpYgOa6hiKodxQleM7e1"
+    },
+    {
+      "album": {
         "name": "Nessun Dorma (feat. Luciano Pavarotti)",
         "url": "https://open.spotify.com/album/0xQzA4AYTp21tB2mOdSg0t"
       },
@@ -9272,7 +9370,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 143046,
       "name": "No Sleep - VIVID Remix",
       "url": "https://open.spotify.com/track/7LRwqpDlu44yDlJFuFL4j7"
@@ -9994,7 +10092,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 149600,
       "name": "Outside World",
       "url": "https://open.spotify.com/track/5FriNJpgR0DT1p3ypBPhR9"
@@ -11486,7 +11584,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 152307,
       "name": "Right Here, Right Now",
       "url": "https://open.spotify.com/track/0zYjllevbCpjeOI06v40bu"
@@ -13514,7 +13612,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 217070,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/51iiwYPDTDrOTMPct3wlW5"
@@ -15056,7 +15154,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 202500,
       "name": "Wake Me Up (I'm Alive)",
       "url": "https://open.spotify.com/track/6xS0c6nbKlUq8blm3Qq5Ad"
@@ -15340,6 +15438,24 @@
       "duration_ms": 145714,
       "name": "We Own The Night (feat. Chandan Shetty)",
       "url": "https://open.spotify.com/track/2XdU173I0vnlcgT8LAEBy7"
+    },
+    {
+      "album": {
+        "name": "We Rave (Part One & Part Two)",
+        "url": "https://open.spotify.com/album/5UOVBJYCvmVM6XmZib15Iz"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91535,
+      "name": "We Rave - Part Two",
+      "url": "https://open.spotify.com/track/4CObYsJjb5YStYPcfOI5Nt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 
 > This is Sufjan Stevens\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,183 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,198 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 | 49 | [Dreams](https://open.spotify.com/track/0lDmaJqbfQLbnhOGGQvSxE) | [Meg Lui](https://open.spotify.com/artist/0ei3gCD1ByhH4bn6DeGBsJ), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Dreams](https://open.spotify.com/album/64U7yOMQtMNro5WD9rw5e2) | 3:54 |
 | 50 | [Heirloom](https://open.spotify.com/track/3bKXWcC7H2oBGVq73gK5yX) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [All Delighted People](https://open.spotify.com/album/1wnEAz2lDtNoUUZF0KStuo) | 2:55 |
 
-Snapshot ID: `alGHgAAAAABpBjYhgL2F4IbIXV3kWZ9B`
+Snapshot ID: `alLZAAAAAADC9sNOGteOfgyAk0oi4th5`

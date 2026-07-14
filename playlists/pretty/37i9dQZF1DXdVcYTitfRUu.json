@@ -1,6 +1,6 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 16393,
+  "num_followers": 16396,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-07-01 09:54:42",
       "album": {
-        "name": "TR.EE",
-        "url": "https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Layback",
-      "url": "https://open.spotify.com/track/6svaR3ZzkDtHv0a2EHhOY7"
-    },
-    {
-      "added_at": "2026-07-01 09:54:42",
-      "album": {
         "name": "ETERNALT",
         "url": "https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 215760,
       "name": "All My Poetry",
       "url": "https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0"
+    },
+    {
+      "added_at": "2026-07-01 09:54:42",
+      "album": {
+        "name": "TR.EE",
+        "url": "https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Layback",
+      "url": "https://open.spotify.com/track/6svaR3ZzkDtHv0a2EHhOY7"
     },
     {
       "added_at": "2026-07-01 09:54:42",
@@ -663,54 +663,6 @@
     {
       "added_at": "2026-07-01 09:54:42",
       "album": {
-        "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
-        "url": "https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg"
-      },
-      "artists": [
-        {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
-      "url": "https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL"
-    },
-    {
-      "added_at": "2026-07-01 09:54:42",
-      "album": {
-        "name": "As If",
-        "url": "https://open.spotify.com/album/5cQBqXCPndAmOPRZfLLL3a"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "As If",
-      "url": "https://open.spotify.com/track/4CBQXkillvktWczebMlqip"
-    },
-    {
-      "added_at": "2026-07-01 09:54:42",
-      "album": {
-        "name": "I`m Firefly",
-        "url": "https://open.spotify.com/album/1GJArSrDSNTyWeTvGeenAT"
-      },
-      "artists": [
-        {
-          "name": "Hwang Karam",
-          "url": "https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc"
-        }
-      ],
-      "duration_ms": 215433,
-      "name": "I`m Firefly",
-      "url": "https://open.spotify.com/track/27QLNrvWbFcwOYr8RpOpxg"
-    },
-    {
-      "added_at": "2026-07-01 09:54:42",
-      "album": {
         "name": "Dear.J",
         "url": "https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek"
       },
@@ -731,18 +683,50 @@
     {
       "added_at": "2026-07-01 09:54:42",
       "album": {
-        "name": "No Words Can Say",
-        "url": "https://open.spotify.com/album/2d96sKtYbxVpOQVFetsaOr"
+        "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
+        "url": "https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg"
       },
       "artists": [
         {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
         }
       ],
-      "duration_ms": 236000,
-      "name": "No Words Can Say",
-      "url": "https://open.spotify.com/track/1xkhh2mQI71CJJUrIbyKwk"
+      "duration_ms": 256026,
+      "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
+      "url": "https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL"
+    },
+    {
+      "added_at": "2026-07-01 09:54:42",
+      "album": {
+        "name": "I`m Firefly",
+        "url": "https://open.spotify.com/album/1GJArSrDSNTyWeTvGeenAT"
+      },
+      "artists": [
+        {
+          "name": "Hwang Karam",
+          "url": "https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc"
+        }
+      ],
+      "duration_ms": 215433,
+      "name": "I`m Firefly",
+      "url": "https://open.spotify.com/track/27QLNrvWbFcwOYr8RpOpxg"
+    },
+    {
+      "added_at": "2026-07-01 09:54:42",
+      "album": {
+        "name": "As If",
+        "url": "https://open.spotify.com/album/5cQBqXCPndAmOPRZfLLL3a"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "As If",
+      "url": "https://open.spotify.com/track/4CBQXkillvktWczebMlqip"
     },
     {
       "added_at": "2026-07-01 09:54:42",
@@ -759,6 +743,22 @@
       "duration_ms": 187733,
       "name": "Dear my X",
       "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
+    },
+    {
+      "added_at": "2026-07-01 09:54:42",
+      "album": {
+        "name": "No Words Can Say",
+        "url": "https://open.spotify.com/album/2d96sKtYbxVpOQVFetsaOr"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "No Words Can Say",
+      "url": "https://open.spotify.com/track/1xkhh2mQI71CJJUrIbyKwk"
     },
     {
       "added_at": "2026-07-01 09:54:42",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-07-01 09:54:42",
       "album": {
-        "name": "When Spring Comes",
-        "url": "https://open.spotify.com/album/38vHJ0XSQiQYLyZjjb09Me"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "When Spring Comes",
-      "url": "https://open.spotify.com/track/6vt4R4q5YL4M2cxl7o6pTe"
-    },
-    {
-      "added_at": "2026-07-01 09:54:42",
-      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 234000,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
+    },
+    {
+      "added_at": "2026-07-01 09:54:42",
+      "album": {
+        "name": "When Spring Comes",
+        "url": "https://open.spotify.com/album/38vHJ0XSQiQYLyZjjb09Me"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "When Spring Comes",
+      "url": "https://open.spotify.com/track/6vt4R4q5YL4M2cxl7o6pTe"
     },
     {
       "added_at": "2026-07-01 09:54:42",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-07-01 09:54:42",
       "album": {
+        "name": "Flower in the Desert",
+        "url": "https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
+        }
+      ],
+      "duration_ms": 259133,
+      "name": "Flower in the Desert - Kor Version",
+      "url": "https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi"
+    },
+    {
+      "added_at": "2026-07-01 09:54:42",
+      "album": {
         "name": "We Are All Trying Here (Original Soundtrack) Part.1",
         "url": "https://open.spotify.com/album/1vuyFbNIp8V2MprNjev7Dz"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 258146,
       "name": "Let's Stay Well (My love X Roy Kim)",
       "url": "https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee"
-    },
-    {
-      "added_at": "2026-07-01 09:54:42",
-      "album": {
-        "name": "Flower in the Desert",
-        "url": "https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM"
-      },
-      "artists": [
-        {
-          "name": "Woody",
-          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
-        }
-      ],
-      "duration_ms": 259133,
-      "name": "Flower in the Desert - Kor Version",
-      "url": "https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi"
     },
     {
       "added_at": "2026-07-01 09:54:42",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-07-01 09:54:42",
       "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt"
+    },
+    {
+      "added_at": "2026-07-01 09:54:42",
+      "album": {
         "name": "COVID-19",
         "url": "https://open.spotify.com/album/1RKCttAVNGpm1pTar0drh5"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 196793,
       "name": "COVID-19 (feat. SUPERBEE)",
       "url": "https://open.spotify.com/track/32qLwcEpoKeutWxwrJM4FX"
-    },
-    {
-      "added_at": "2026-07-01 09:54:42",
-      "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP"
-      },
-      "artists": [
-        {
-          "name": "DK",
-          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt"
     },
     {
       "added_at": "2026-07-01 09:54:42",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-07-01 09:54:42",
       "album": {
-        "name": "Bloom Again",
-        "url": "https://open.spotify.com/album/2Ki6NwC0tAoWpIQIW5at94"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "No More Encore",
-      "url": "https://open.spotify.com/track/3W2kHl0GltIhAxO1zNqOxY"
-    },
-    {
-      "added_at": "2026-07-01 09:54:42",
-      "album": {
         "name": "Last Love",
         "url": "https://open.spotify.com/album/4jMqo0Fsa1nGt0yq5S2pk6"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 255000,
       "name": "Last Love",
       "url": "https://open.spotify.com/track/5wOCYMy0SP58fPiXOc4p3s"
+    },
+    {
+      "added_at": "2026-07-01 09:54:42",
+      "album": {
+        "name": "Bloom Again",
+        "url": "https://open.spotify.com/album/2Ki6NwC0tAoWpIQIW5at94"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "No More Encore",
+      "url": "https://open.spotify.com/track/3W2kHl0GltIhAxO1zNqOxY"
     },
     {
       "added_at": "2026-07-01 09:54:42",

@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,733 songs - 7 day 0 hr 33 min
+2,735 songs - 7 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [ALIVE \- LycoReco Version](https://open.spotify.com/track/6d1bY43yAlhHwxJAuUYsll) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ALIVE \(LycoReco Version\)](https://open.spotify.com/album/2wfi1Oar57Qp9wAm4pwSY4) | 2:46 | 2022-10-11 | 2022-11-25 |
 | [ALIVE \-season 03\-](https://open.spotify.com/track/7jXP5zbMmeiIJ6JTkA1dff) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ALIVE \-season 03\-](https://open.spotify.com/album/3dgLQWzjYuMUnCZplwXMir) | 3:37 | 2025-04-15 | 2025-05-21 |
 | [All I Want \(T\_001\)](https://open.spotify.com/track/3kvDdcw3onrlVgCmHtZwKf) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX), [Orika Okachi](https://open.spotify.com/artist/64MR9WRpiytWnGv4fWfryX) | [All I Want \(T\_001\)](https://open.spotify.com/album/3dvsu8OIVbNZYt7ztkQMcw) | 2:55 | 2025-05-13 | 2025-05-30 |
+| [All in](https://open.spotify.com/track/3B2FmUgXzhzIyTZFDtLDFy) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [All in](https://open.spotify.com/album/1miPzCysreRcRYRQzeYsrp) | 2:55 | 2026-07-13 |  |
 | [ALL MY PARTS](https://open.spotify.com/track/2HF1AgI2r4asyj938aL02q) | [GYROAXIA](https://open.spotify.com/artist/28PDBS1Y9qIwKlne2T8hm0) | [ALL MY PARTS](https://open.spotify.com/album/7ky0Wlz0NAtVqwS2KOJM7A) | 4:18 | 2023-09-07 | 2023-10-04 |
 | [All or None \(feat\. Jua\)](https://open.spotify.com/track/6bpABVRPoeSYd3HQPMxqjG) | [Hidetake Takayama](https://open.spotify.com/artist/1g9ljMQR4hwkikhrk8vI2i), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [All or None \(feat\. Jua\)](https://open.spotify.com/album/4gGuVpcAIAtIYVpUbF1S7d) | 2:35 | 2025-11-06 | 2026-01-04 |
 | [Alright!!!](https://open.spotify.com/track/3tPk1doXdKGzwHP3HsghPg) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Alright!!!](https://open.spotify.com/album/2LAtZAVqBu5mwWOXuvecxs) | 3:39 | 2025-04-05 | 2025-07-05 |
@@ -1213,6 +1214,7 @@
 | [So Far Away \-THIRD STAGE\-](https://open.spotify.com/track/4tDInjX1DWeE9jJU097YHm) | [SI\-VIS](https://open.spotify.com/artist/3iiwPTKjc9xinrfvPKMhne) | [So Far Away \-THIRD STAGE\-](https://open.spotify.com/album/4KnqhfIkTlRZ33Nythk8so) | 4:07 | 2025-10-28 | 2025-11-05 |
 | [So Precious](https://open.spotify.com/track/1xq5OxDUGhqBFXgjC9TGPK) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [So Precious](https://open.spotify.com/album/6LexuWYpwKbdy00OH8l9Xk) | 3:29 | 2024-04-04 | 2024-07-03 |
 | [So Precious](https://open.spotify.com/track/6apVanen4xNhOipSav71hX) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [So Precious](https://open.spotify.com/album/0NeQnk6t4tRFgVHKPg8CMw) | 3:29 | 2024-04-04 | 2024-04-19 |
+| [Soarin'](https://open.spotify.com/track/75Mt8bfob6tPmP3xdvgELu) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Soarin'](https://open.spotify.com/album/7DPc96w5fUdAK6X2dRKbRr) | 3:24 | 2026-07-13 |  |
 | [soldier game](https://open.spotify.com/track/6EjqikavIw48BKxg7Z8gGQ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [LoveLive! Series 15th Anniversary Tribute Album](https://open.spotify.com/album/4UvWdqO4nQwqeAz4UHBVMi) | 3:41 | 2026-01-15 | 2026-04-17 |
 | [Somebody help us](https://open.spotify.com/track/11gc2n8N1ANGERLZ1Ju66i) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/0hOBqS9AHeJXGqoDQ6gBy6) | 4:08 | 2025-02-15 | 2025-04-09 |
 | [Somehow](https://open.spotify.com/track/1mgUIZDkxR0vnxdc9qECmL) | [藤咲凪](https://open.spotify.com/artist/7GnXpIaxaxEhhw0Wy308Cj) | [Somehow](https://open.spotify.com/album/64OV5Kd13DblHah4aoy4tH) | 3:25 | 2025-04-15 | 2025-05-21 |
@@ -2495,7 +2497,7 @@
 | [潜在的なアイ](https://open.spotify.com/track/0ctxb8aazqRnAEdc2hcBDM) | [13.3g](https://open.spotify.com/artist/1Q3gnCRHEHdl5JqbBTpWiy) | [潜在的なアイ](https://open.spotify.com/album/5vpekhoyDHmnnXIdw3eEx0) | 3:26 | 2026-01-15 | 2026-04-17 |
 | [火宴](https://open.spotify.com/track/2jVUtXgfpr0xYYdZxxGdHb) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [火宴](https://open.spotify.com/album/4Tq4uLb7EZcUSGbcI0K6Zk) | 3:22 | 2026-07-06 |  |
 | [火星人](https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [火星人](https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj) | 3:54 | 2025-05-08 | 2025-07-11 |
-| [火種](https://open.spotify.com/track/3WaAa5Fc3LgN7QRn5oVomX) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [火種](https://open.spotify.com/album/1usOiy15DL5VbcguyZmrX5) | 3:24 | 2026-04-07 |  |
+| [火種](https://open.spotify.com/track/3WaAa5Fc3LgN7QRn5oVomX) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [火種](https://open.spotify.com/album/1usOiy15DL5VbcguyZmrX5) | 3:24 | 2026-04-07 | 2026-07-14 |
 | [灯を護る](https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [灯を護る](https://open.spotify.com/album/5kh25KxBQdiqOPOr05rxM3) | 3:33 | 2025-10-05 | 2026-01-15 |
 | [灯火](https://open.spotify.com/track/52yZji1fkuUScDNuezg2G0) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [灯火](https://open.spotify.com/album/3uz7kZnobQe7o7KEStivTg) | 3:30 | 2025-07-15 | 2025-10-15 |
 | [灯火](https://open.spotify.com/track/3lcBFczHT6GgHtCTIcO4h6) | [Half time Old](https://open.spotify.com/artist/1zpGAwgdCoZw9CP4QlWq9l) | [灯火](https://open.spotify.com/album/2nlvi70ynicKcQZlVjNwOC) | 4:19 | 2023-07-11 | 2023-08-02 |
@@ -2655,7 +2657,7 @@
 | [逆夢](https://open.spotify.com/track/2tymuyImEjfqVCearVpYCf) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 5:08 | 2023-11-28 | 2024-01-10 |
 | [逆夢](https://open.spotify.com/track/5igeBrUIrt8hEguPkIfcEW) | [Megumi Ogata](https://open.spotify.com/artist/2j8sQGmlCNu84Hm1KzmUMH) | [アニメグ。30th](https://open.spotify.com/album/0AOR7lfA2ulA6pjLAVmohs) | 5:12 | 2023-02-14 | 2023-04-12 |
 | [逆夢 \- from CrosSing](https://open.spotify.com/track/2L7GfBtcqYStaTsFsNuOKB) | [林勇](https://open.spotify.com/artist/2KZLtHl1A7glIn5t1XSNJu) | [逆夢 \- from CrosSing](https://open.spotify.com/album/4KvtLvYdmW2i2vcvX0jxZM) | 5:09 | 2022-07-12 | 2022-07-27 |
-| [逆様](https://open.spotify.com/track/3hETmWK6G4wLMRCADo6hXn) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [逆様](https://open.spotify.com/album/1qq7jAulzATlVCltzautOz) | 2:51 | 2026-04-07 |  |
+| [逆様](https://open.spotify.com/track/3hETmWK6G4wLMRCADo6hXn) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [逆様](https://open.spotify.com/album/1qq7jAulzATlVCltzautOz) | 2:51 | 2026-04-07 | 2026-07-14 |
 | [逆転劇](https://open.spotify.com/track/6EfKm8UXtBQqQXz2epsiwc) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [逆転劇](https://open.spotify.com/album/1SCbaRbu0FCUySzlPDPO9r) | 3:02 | 2023-04-04 | 2023-04-06 |
 | [透明](https://open.spotify.com/track/4uGObz1zPMzNy6ZMUnaFNR) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [透明](https://open.spotify.com/album/4OD3PNAySdYTVqPHAdn3TD) | 3:16 | 2026-03-31 | 2026-07-08 |
 | [透明人間](https://open.spotify.com/track/2ePc0yN0MmzIhA6tUEGtz1) | [青山吉能](https://open.spotify.com/artist/2oWuPhnuBys0IELQq85Ww2) | [la valigia](https://open.spotify.com/album/7AFaeistpx8sxk0353ddN2) | 4:09 | 2023-03-07 | 2023-04-21 |

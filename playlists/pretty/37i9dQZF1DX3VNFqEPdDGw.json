@@ -1,6 +1,6 @@
 {
   "description": "Bhangra is our pride, Bhangra is our culture. Cover: Navaan Sandhu & Param",
-  "num_followers": 249305,
+  "num_followers": 249306,
   "original_name": "Bhangra Bangers",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-07-10 13:16:16",
       "album": {
+        "name": "Mitti Da Bawa",
+        "url": "https://open.spotify.com/album/0yrvrlpDvPM05MJQyVPKvW"
+      },
+      "artists": [
+        {
+          "name": "Ranjit Bawa",
+          "url": "https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn"
+        }
+      ],
+      "duration_ms": 184938,
+      "name": "Yaari Chandigarh Waliye",
+      "url": "https://open.spotify.com/track/2xzuUPOffYMIdOkOG7D0BI"
+    },
+    {
+      "added_at": "2026-07-10 13:16:16",
+      "album": {
         "name": "Future Folk",
         "url": "https://open.spotify.com/album/6ukTEfsBa5GIp9nOJQTLkw"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 183149,
       "name": "Defender",
       "url": "https://open.spotify.com/track/695j3oqRL6a4o0oJR2rHS1"
-    },
-    {
-      "added_at": "2026-07-10 13:16:16",
-      "album": {
-        "name": "Mitti Da Bawa",
-        "url": "https://open.spotify.com/album/0yrvrlpDvPM05MJQyVPKvW"
-      },
-      "artists": [
-        {
-          "name": "Ranjit Bawa",
-          "url": "https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn"
-        }
-      ],
-      "duration_ms": 184938,
-      "name": "Yaari Chandigarh Waliye",
-      "url": "https://open.spotify.com/track/2xzuUPOffYMIdOkOG7D0BI"
     },
     {
       "added_at": "2026-07-10 13:16:16",
@@ -567,6 +567,26 @@
     {
       "added_at": "2026-07-10 13:16:16",
       "album": {
+        "name": "KAREEB",
+        "url": "https://open.spotify.com/album/0QAgFyTDc54qWQcnRsSyap"
+      },
+      "artists": [
+        {
+          "name": "Shivjot",
+          "url": "https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs"
+        },
+        {
+          "name": "Sudesh Kumari",
+          "url": "https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X"
+        }
+      ],
+      "duration_ms": 180970,
+      "name": "KAREEB",
+      "url": "https://open.spotify.com/track/684pfVLmrVEaDhdvLGvXK5"
+    },
+    {
+      "added_at": "2026-07-10 13:16:16",
+      "album": {
         "name": "Junoon",
         "url": "https://open.spotify.com/album/6AwcRYopbjMHQUoUU9d1OC"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 322307,
       "name": "Junoon",
       "url": "https://open.spotify.com/track/4eycNYNawrcBdbN5SbwtKl"
-    },
-    {
-      "added_at": "2026-07-10 13:16:16",
-      "album": {
-        "name": "KAREEB",
-        "url": "https://open.spotify.com/album/0QAgFyTDc54qWQcnRsSyap"
-      },
-      "artists": [
-        {
-          "name": "Shivjot",
-          "url": "https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs"
-        },
-        {
-          "name": "Sudesh Kumari",
-          "url": "https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X"
-        }
-      ],
-      "duration_ms": 180970,
-      "name": "KAREEB",
-      "url": "https://open.spotify.com/track/684pfVLmrVEaDhdvLGvXK5"
     },
     {
       "added_at": "2026-07-10 13:16:16",
@@ -695,6 +695,30 @@
     {
       "added_at": "2026-07-10 13:16:16",
       "album": {
+        "name": "Con.Fi.Den.Tial",
+        "url": "https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Snappy",
+          "url": "https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix"
+        },
+        {
+          "name": "Rav Hanjra",
+          "url": "https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd"
+        }
+      ],
+      "duration_ms": 176670,
+      "name": "High End",
+      "url": "https://open.spotify.com/track/5dUpL1UYXkjXqf55FrBLgr"
+    },
+    {
+      "added_at": "2026-07-10 13:16:16",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/5qq6snxXXNJ73QSaUF9PLC"
       },
@@ -723,50 +747,6 @@
     {
       "added_at": "2026-07-10 13:16:16",
       "album": {
-        "name": "Con.Fi.Den.Tial",
-        "url": "https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Snappy",
-          "url": "https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix"
-        },
-        {
-          "name": "Rav Hanjra",
-          "url": "https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd"
-        }
-      ],
-      "duration_ms": 176670,
-      "name": "High End",
-      "url": "https://open.spotify.com/track/5dUpL1UYXkjXqf55FrBLgr"
-    },
-    {
-      "added_at": "2026-07-10 13:16:16",
-      "album": {
-        "name": "31,10",
-        "url": "https://open.spotify.com/album/64DXvZLQn47dURuggDCeA5"
-      },
-      "artists": [
-        {
-          "name": "Pardeep Sran",
-          "url": "https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC"
-        },
-        {
-          "name": "Sukh Lotey",
-          "url": "https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "31,10",
-      "url": "https://open.spotify.com/track/6hCJYYohjT9FqR6WZh2ToL"
-    },
-    {
-      "added_at": "2026-07-10 13:16:16",
-      "album": {
         "name": "Proud Jawani",
         "url": "https://open.spotify.com/album/0TK4ld6smZ0ELX3e0GdksR"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 160000,
       "name": "Koka Gaani",
       "url": "https://open.spotify.com/track/0wGvJPMrtBckI9Bg0D0TBn"
+    },
+    {
+      "added_at": "2026-07-10 13:16:16",
+      "album": {
+        "name": "31,10",
+        "url": "https://open.spotify.com/album/64DXvZLQn47dURuggDCeA5"
+      },
+      "artists": [
+        {
+          "name": "Pardeep Sran",
+          "url": "https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC"
+        },
+        {
+          "name": "Sukh Lotey",
+          "url": "https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "31,10",
+      "url": "https://open.spotify.com/track/6hCJYYohjT9FqR6WZh2ToL"
     },
     {
       "added_at": "2026-07-10 13:16:16",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-07-10 13:16:16",
       "album": {
-        "name": "Lala Lala",
-        "url": "https://open.spotify.com/album/7HnJnv2r43VyQKBAtWChVA"
-      },
-      "artists": [
-        {
-          "name": "SABBA",
-          "url": "https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8"
-        }
-      ],
-      "duration_ms": 156103,
-      "name": "Lala Lala",
-      "url": "https://open.spotify.com/track/54ZQ2j0hUi3pMyGAVCnswr"
-    },
-    {
-      "added_at": "2026-07-10 13:16:16",
-      "album": {
         "name": "Premium",
         "url": "https://open.spotify.com/album/2dC6mEsReiGOqWaVkYzBnx"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 176923,
       "name": "Premium",
       "url": "https://open.spotify.com/track/2z8jdMLjDhvcBzx8hdyarK"
+    },
+    {
+      "added_at": "2026-07-10 13:16:16",
+      "album": {
+        "name": "Lala Lala",
+        "url": "https://open.spotify.com/album/7HnJnv2r43VyQKBAtWChVA"
+      },
+      "artists": [
+        {
+          "name": "SABBA",
+          "url": "https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8"
+        }
+      ],
+      "duration_ms": 156103,
+      "name": "Lala Lala",
+      "url": "https://open.spotify.com/track/54ZQ2j0hUi3pMyGAVCnswr"
     },
     {
       "added_at": "2026-07-10 13:16:16",
@@ -1311,6 +1311,30 @@
     {
       "added_at": "2026-07-10 13:16:16",
       "album": {
+        "name": "V8",
+        "url": "https://open.spotify.com/album/4yzyfXlckctM5u8I9Mslk2"
+      },
+      "artists": [
+        {
+          "name": "Jass Bajwa",
+          "url": "https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx"
+        },
+        {
+          "name": "Mandeep Maavi",
+          "url": "https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1"
+        },
+        {
+          "name": "Black Virus",
+          "url": "https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "25/26",
+      "url": "https://open.spotify.com/track/2eHjnrKW0jAJ0JwjBMW9Zv"
+    },
+    {
+      "added_at": "2026-07-10 13:16:16",
+      "album": {
         "name": "Do Gabru - Diljit Dosanjh & Akhil",
         "url": "https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ"
       },
@@ -1351,46 +1375,26 @@
     {
       "added_at": "2026-07-10 13:16:16",
       "album": {
-        "name": "V8",
-        "url": "https://open.spotify.com/album/4yzyfXlckctM5u8I9Mslk2"
+        "name": "Farmhouse",
+        "url": "https://open.spotify.com/album/3pt2TFlHkZ7RPLX3sQuLvm"
       },
       "artists": [
         {
-          "name": "Jass Bajwa",
-          "url": "https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx"
+          "name": "Gulab Sidhu",
+          "url": "https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW"
         },
         {
-          "name": "Mandeep Maavi",
-          "url": "https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1"
+          "name": "Music Empire",
+          "url": "https://open.spotify.com/artist/4LqmswmlN0mAZs930MjGOt"
         },
         {
-          "name": "Black Virus",
-          "url": "https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU"
+          "name": "Sidhu Sarabjit",
+          "url": "https://open.spotify.com/artist/56A1SYMxgHpsnzKdp4nOgc"
         }
       ],
-      "duration_ms": 165714,
-      "name": "25/26",
-      "url": "https://open.spotify.com/track/2eHjnrKW0jAJ0JwjBMW9Zv"
-    },
-    {
-      "added_at": "2026-07-10 13:16:16",
-      "album": {
-        "name": "Back to Roots",
-        "url": "https://open.spotify.com/album/0QyDEaqYnehKA956tyQmm9"
-      },
-      "artists": [
-        {
-          "name": "Sharry Mann",
-          "url": "https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i"
-        },
-        {
-          "name": "Nick Dhammu",
-          "url": "https://open.spotify.com/artist/5E8B4QGklx5On8tFgo294e"
-        }
-      ],
-      "duration_ms": 195348,
-      "name": "Jatt Nazaare Lenda",
-      "url": "https://open.spotify.com/track/65kOgRJjUVaVmA4wzqcFQ7"
+      "duration_ms": 233313,
+      "name": "Jitt Da Swad",
+      "url": "https://open.spotify.com/track/2QvDGjDnWnqPT3Yetnpr7v"
     },
     {
       "added_at": "2026-07-10 13:16:16",
@@ -1415,26 +1419,22 @@
     {
       "added_at": "2026-07-10 13:16:16",
       "album": {
-        "name": "Farmhouse",
-        "url": "https://open.spotify.com/album/3pt2TFlHkZ7RPLX3sQuLvm"
+        "name": "Back to Roots",
+        "url": "https://open.spotify.com/album/0QyDEaqYnehKA956tyQmm9"
       },
       "artists": [
         {
-          "name": "Gulab Sidhu",
-          "url": "https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW"
+          "name": "Sharry Mann",
+          "url": "https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i"
         },
         {
-          "name": "Music Empire",
-          "url": "https://open.spotify.com/artist/4LqmswmlN0mAZs930MjGOt"
-        },
-        {
-          "name": "Sidhu Sarabjit",
-          "url": "https://open.spotify.com/artist/56A1SYMxgHpsnzKdp4nOgc"
+          "name": "Nick Dhammu",
+          "url": "https://open.spotify.com/artist/5E8B4QGklx5On8tFgo294e"
         }
       ],
-      "duration_ms": 233313,
-      "name": "Jitt Da Swad",
-      "url": "https://open.spotify.com/track/2QvDGjDnWnqPT3Yetnpr7v"
+      "duration_ms": 195348,
+      "name": "Jatt Nazaare Lenda",
+      "url": "https://open.spotify.com/track/65kOgRJjUVaVmA4wzqcFQ7"
     },
     {
       "added_at": "2026-07-10 13:16:16",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2026-07-10 13:16:16",
       "album": {
+        "name": "Case",
+        "url": "https://open.spotify.com/album/6hcj3kDj61GfdHUpVqFVrl"
+      },
+      "artists": [
+        {
+          "name": "R Nait",
+          "url": "https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON"
+        },
+        {
+          "name": "Deepak Dhillon",
+          "url": "https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY"
+        }
+      ],
+      "duration_ms": 229604,
+      "name": "Case",
+      "url": "https://open.spotify.com/track/2irS0WFQGvi1aoJY9hUd6s"
+    },
+    {
+      "added_at": "2026-07-10 13:16:16",
+      "album": {
         "name": "Yaar Bawara (From \"Raunak\")",
         "url": "https://open.spotify.com/album/4UqfZntJTYM62fr06ZXwe7"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 149662,
       "name": "Yaar Bawara (From \"Raunak\")",
       "url": "https://open.spotify.com/track/6Ns79GWBJVRjzaBpTdKCVb"
-    },
-    {
-      "added_at": "2026-07-10 13:16:16",
-      "album": {
-        "name": "Case",
-        "url": "https://open.spotify.com/album/6hcj3kDj61GfdHUpVqFVrl"
-      },
-      "artists": [
-        {
-          "name": "R Nait",
-          "url": "https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON"
-        },
-        {
-          "name": "Deepak Dhillon",
-          "url": "https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY"
-        }
-      ],
-      "duration_ms": 229604,
-      "name": "Case",
-      "url": "https://open.spotify.com/track/2irS0WFQGvi1aoJY9hUd6s"
     },
     {
       "added_at": "2026-07-10 13:16:16",

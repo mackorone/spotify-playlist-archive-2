@@ -1,12 +1,12 @@
 {
   "description": "This is Gregory Alan Isakov. The essential tracks, all in one playlist.",
-  "num_followers": 81127,
+  "num_followers": 81147,
   "original_name": "This Is Gregory Alan Isakov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAACfxDprrg34jvQm0czPAWTk",
+  "snapshot_id": "alLZAAAAAAC8eQJ5xN41BATUrJLXjuI4",
   "tracks": [
     {
       "added_at": null,
@@ -143,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j"
+        "name": "This Empty Northern Hemisphere",
+        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 179480,
-      "name": "Dark, Dark, Dark",
-      "url": "https://open.spotify.com/track/6QAH2Ji6xjUOJDUoIq6gab"
+      "duration_ms": 267160,
+      "name": "If I Go, I'm Goin",
+      "url": "https://open.spotify.com/track/1vqtj4c5aNPKkLS2LXkd4E"
     },
     {
       "added_at": null,
@@ -175,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Empty Northern Hemisphere",
-        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 267160,
-      "name": "If I Go, I'm Goin",
-      "url": "https://open.spotify.com/track/1vqtj4c5aNPKkLS2LXkd4E"
+      "duration_ms": 179480,
+      "name": "Dark, Dark, Dark",
+      "url": "https://open.spotify.com/track/6QAH2Ji6xjUOJDUoIq6gab"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
       "duration_ms": 293560,
       "name": "That Sea, The Gambler",
       "url": "https://open.spotify.com/track/12VXe2fhXFRtnU2k1imuCW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Surprises (feat. Gregory Alan Isakov)",
-        "url": "https://open.spotify.com/album/3NzR0FrJVJsw1vF2TfUPQc"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Fraites",
-          "url": "https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly"
-        },
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 257290,
-      "name": "No Surprises (feat. Gregory Alan Isakov)",
-      "url": "https://open.spotify.com/track/0ur0BoMX0LcblJzYsQxAS1"
     },
     {
       "added_at": null,

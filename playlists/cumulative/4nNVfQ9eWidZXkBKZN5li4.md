@@ -4,7 +4,7 @@
 
 > Groove to Desi chart\-toppers and Bollywood’s top TikTok hits &amp; Reels Anthems —featuring Arijit Singh, Badshah, AP Dhillon, Shreya Ghoshal, Neha Kakkar, Sunidhi Chauhan, A.R\. Rahman, Pritam, and Tanishk Bagchi!
 
-387 songs - 1 day 0 hr 2 min
+388 songs - 1 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Tunak Tunak Tun](https://open.spotify.com/track/131yybV7A3TmC34a0qE8u8) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx) | [Tunak Tunak Tun](https://open.spotify.com/album/0xEUOENXKtOMg0BVr34jur) | 5:03 | 2023-02-06 | 2025-08-13 |
 | [Urvashi](https://open.spotify.com/track/4VAY0PQ6ZLStwgdjyMQxWa) | [Yo Yo Honei\-sing](https://open.spotify.com/artist/2hlwHWSih4ajaqhHOk25S8) | [Urvashi](https://open.spotify.com/album/463RaVI3vVq8a8bpkgZ59J) | 3:50 | 2021-01-25\* | 2021-07-13 |
 | [Va Va Voom \(From "The Archies"\)](https://open.spotify.com/track/1vUau8NMY4vdUrdPzAAsLj) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl), [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Va Va Voom \(From "The Archies"\)](https://open.spotify.com/album/41efXRJaAdzIOCHeMuKNEJ) | 2:08 | 2023-11-03 | 2024-04-02 |
+| [Ve Junoon \(From "Awarapan 2"\)](https://open.spotify.com/track/0jfPsVkuCCqz8A9vDkWkMr) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8), [Subodhh Sharma](https://open.spotify.com/artist/1dWf4FUHnUgKHkSNmPofYx) | [Ve Junoon \(From "Awarapan 2"\)](https://open.spotify.com/album/0GN8c8LKElLxzjr5gOams3) | 6:41 | 2026-07-13 |  |
 | [Vekh Sohneyaa \- From "Call Me Bae"](https://open.spotify.com/track/2RelZc0EwHPsVwrW6B6taZ) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Vekh Sohneyaa \(From "Call Me Bae"\)](https://open.spotify.com/album/23eaFv7tdDjiPmdv5nQKj1) | 3:36 | 2024-08-31 |  |
 | [Victory Anthem](https://open.spotify.com/track/1UEbsf5kGEIcSMiWexOkrZ) | [Khushi TDT](https://open.spotify.com/artist/0O8DjpANOBrYwtNXlxbyff), [Lash curry](https://open.spotify.com/artist/5EXPLxIaBJwaXPW5FovTOx), [Audiocrackerr](https://open.spotify.com/artist/6R3w3WdJRJqEMRc0qy1z5i) | [Victory Anthem](https://open.spotify.com/album/2qcvlrz2bh9ExDluhtNDAs) | 2:37 | 2024-11-25 | 2024-12-24 |
 | [What Jhumka ? \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/track/4uNxdQ1L4Xa52MWX864QhW) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ranveer Singh](https://open.spotify.com/artist/0lMa3YTHqQnDDTBaxAV7LK), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu) | [What Jhumka ? \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/album/2140eUTm2dUfKj1FL7DDAe) | 3:33 | 2023-08-10 | 2025-10-30 |

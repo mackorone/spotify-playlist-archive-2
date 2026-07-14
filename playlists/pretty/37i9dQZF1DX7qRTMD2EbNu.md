@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Sarkodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,442 likes - 85 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,474 likes - 85 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 21 | [Fowaah](https://open.spotify.com/track/1M0MnNWPoBA3BP49jshvsS) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Fowaah](https://open.spotify.com/album/0n1Hnr42y8SvpdhdCtHmVM) | 2:47 |
 | 22 | [Awurade Aye](https://open.spotify.com/track/5MO3ZW5mDhQiUmrYoYfitt) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Awurade Aye](https://open.spotify.com/album/0iMv1LDtzvVJWrZ1nBAjs4) | 3:39 |
 | 23 | [Hold Tight](https://open.spotify.com/track/2G6OdggLpTjbKu8qsdiwBI) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [PLAYMAN](https://open.spotify.com/album/5vOuUhzxjTyoTiW0HsOKjL) | 3:33 |
-| 24 | [PGLD](https://open.spotify.com/track/5IBJP4aSprtoFPwrFPg8fx) | [Skillz 8figure](https://open.spotify.com/artist/7gTH9Cv2pAlhscmRsaGqy9) | [See U At Midnight](https://open.spotify.com/album/2IC303WQXLzOxSQxIAY84l) | 2:48 |
+| 24 | [PGLD](https://open.spotify.com/track/5IBJP4aSprtoFPwrFPg8fx) | [Skillz 8figure](https://open.spotify.com/artist/7gTH9Cv2pAlhscmRsaGqy9), [cino9hunid](https://open.spotify.com/artist/6vEmKa2MHPtrKP4wJg1JRX) | [See U At Midnight](https://open.spotify.com/album/2IC303WQXLzOxSQxIAY84l) | 2:48 |
 | 25 | [WOTOWOTO SEASONING \(feat\. Black Sherif\)](https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [EZIOKWU \(UNCUT\)](https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW) | 2:51 |
 | 26 | [Born In Hell](https://open.spotify.com/track/5XybdUjJjvjjw1sezKvK1T) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Born in Hell](https://open.spotify.com/album/75ypH24gbGXUjhJWYDw4XG) | 2:15 |
 | 27 | [HUSTLERS DREAM \(feat\. Jay Bahd & Kwaku DMC\)](https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [HUSTLERS DREAM \(feat\. Jay Bahd & Kwaku DMC\)](https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ) | 3:15 |

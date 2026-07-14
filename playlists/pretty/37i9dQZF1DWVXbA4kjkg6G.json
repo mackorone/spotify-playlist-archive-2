@@ -1,6 +1,6 @@
 {
   "description": "Atmospheric textures & downtempo beats. Cover: Beth Gibbons of Portishead ",
-  "num_followers": 636842,
+  "num_followers": 636933,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-07-15 20:04:22",
       "album": {
-        "name": "Becoming X",
-        "url": "https://open.spotify.com/album/74nAYi5aVDBdb5jGx8OM7s"
-      },
-      "artists": [
-        {
-          "name": "Sneaker Pimps",
-          "url": "https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "6 Underground",
-      "url": "https://open.spotify.com/track/7KvSuH86lIT2aTl9PBCAfd"
-    },
-    {
-      "added_at": "2024-07-15 20:04:22",
-      "album": {
         "name": "A New Stereophonic Sound Spectacular",
         "url": "https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 284293,
       "name": "2 Wicky",
       "url": "https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI"
+    },
+    {
+      "added_at": "2024-07-15 20:04:22",
+      "album": {
+        "name": "Becoming X",
+        "url": "https://open.spotify.com/album/74nAYi5aVDBdb5jGx8OM7s"
+      },
+      "artists": [
+        {
+          "name": "Sneaker Pimps",
+          "url": "https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "6 Underground",
+      "url": "https://open.spotify.com/track/7KvSuH86lIT2aTl9PBCAfd"
     },
     {
       "added_at": "2024-07-15 20:04:22",

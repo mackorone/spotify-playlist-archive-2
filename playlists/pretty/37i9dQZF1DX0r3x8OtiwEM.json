@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 1069864,
+  "num_followers": 1069929,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,26 @@
     {
       "added_at": "2026-07-10 04:01:18",
       "album": {
+        "name": "Lost In The Woods",
+        "url": "https://open.spotify.com/album/5jKMnxhWTDmF8lV6tSU0ax"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 183934,
+      "name": "Lost In The Woods",
+      "url": "https://open.spotify.com/track/3USL3vqTBzGdm1SR8T8BZx"
+    },
+    {
+      "added_at": "2026-07-10 04:01:18",
+      "album": {
         "name": "Last Night (Anyma x Layton Giordani Remix)",
         "url": "https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 256743,
       "name": "Last Night - Anyma x Layton Giordani Remix",
       "url": "https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a"
-    },
-    {
-      "added_at": "2026-07-10 04:01:18",
-      "album": {
-        "name": "Lost In The Woods",
-        "url": "https://open.spotify.com/album/5jKMnxhWTDmF8lV6tSU0ax"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 183934,
-      "name": "Lost In The Woods",
-      "url": "https://open.spotify.com/track/3USL3vqTBzGdm1SR8T8BZx"
     },
     {
       "added_at": "2026-07-10 04:01:18",
@@ -891,6 +891,26 @@
     {
       "added_at": "2026-07-10 04:01:18",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/0nnSX8cnMsGV9pcQxyTND9"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 182479,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/4d8031x6HPpjQtH98BmRio"
+    },
+    {
+      "added_at": "2026-07-10 04:01:18",
+      "album": {
         "name": "One And Only",
         "url": "https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 222956,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ"
-    },
-    {
-      "added_at": "2026-07-10 04:01:18",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/0nnSX8cnMsGV9pcQxyTND9"
-      },
-      "artists": [
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 182479,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/4d8031x6HPpjQtH98BmRio"
     },
     {
       "added_at": "2026-07-10 04:01:18",
@@ -959,26 +959,6 @@
     {
       "added_at": "2026-07-10 04:01:18",
       "album": {
-        "name": "Empty Skies",
-        "url": "https://open.spotify.com/album/1A8ijkzRwAmJuzLN6IVWxs"
-      },
-      "artists": [
-        {
-          "name": "Switch Disco",
-          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
-        },
-        {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
-        }
-      ],
-      "duration_ms": 214687,
-      "name": "Empty Skies",
-      "url": "https://open.spotify.com/track/1JFWNrBSaz1HdWUPPILJ3V"
-    },
-    {
-      "added_at": "2026-07-10 04:01:18",
-      "album": {
         "name": "Attract",
         "url": "https://open.spotify.com/album/30L1oRMIswC3hErbOQ5JO9"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 307317,
       "name": "Attract",
       "url": "https://open.spotify.com/track/4ykK6tNnlu2fAAWPCxzvFc"
+    },
+    {
+      "added_at": "2026-07-10 04:01:18",
+      "album": {
+        "name": "Empty Skies",
+        "url": "https://open.spotify.com/album/1A8ijkzRwAmJuzLN6IVWxs"
+      },
+      "artists": [
+        {
+          "name": "Switch Disco",
+          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
+        },
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        }
+      ],
+      "duration_ms": 214687,
+      "name": "Empty Skies",
+      "url": "https://open.spotify.com/track/1JFWNrBSaz1HdWUPPILJ3V"
     },
     {
       "added_at": "2026-07-10 04:01:18",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-07-10 04:01:18",
       "album": {
+        "name": "Smalltown Boy",
+        "url": "https://open.spotify.com/album/1hwUID1QuiH75DSxJJhnwW"
+      },
+      "artists": [
+        {
+          "name": "Koti\u0113r",
+          "url": "https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu"
+        }
+      ],
+      "duration_ms": 204720,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/5za6XRkJQSrVipzabuf6cV"
+    },
+    {
+      "added_at": "2026-07-10 04:01:18",
+      "album": {
         "name": "Ginger",
         "url": "https://open.spotify.com/album/3rRynKB1uolIl6HwikbFnS"
       },
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2026-07-10 04:01:18",
       "album": {
-        "name": "Smalltown Boy",
-        "url": "https://open.spotify.com/album/1hwUID1QuiH75DSxJJhnwW"
+        "name": "WONDER",
+        "url": "https://open.spotify.com/album/5UDziBqXsCROej1kQLJVwf"
       },
       "artists": [
         {
-          "name": "Koti\u0113r",
-          "url": "https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu"
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
         }
       ],
-      "duration_ms": 204720,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/5za6XRkJQSrVipzabuf6cV"
+      "duration_ms": 159600,
+      "name": "WONDER",
+      "url": "https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s"
     },
     {
       "added_at": "2026-07-10 04:01:18",
@@ -1235,18 +1251,22 @@
     {
       "added_at": "2026-07-10 04:01:18",
       "album": {
-        "name": "WONDER",
-        "url": "https://open.spotify.com/album/5UDziBqXsCROej1kQLJVwf"
+        "name": "Come To Life",
+        "url": "https://open.spotify.com/album/0HIW7oTP9Y1RpJ1OlvJ4lD"
       },
       "artists": [
         {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
         }
       ],
-      "duration_ms": 159600,
-      "name": "WONDER",
-      "url": "https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s"
+      "duration_ms": 192209,
+      "name": "Come To Life",
+      "url": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW"
     },
     {
       "added_at": "2026-07-10 04:01:18",
@@ -1267,26 +1287,6 @@
       "duration_ms": 231701,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/3YRFFwV0OtH5pWJYvNS8yV"
-    },
-    {
-      "added_at": "2026-07-10 04:01:18",
-      "album": {
-        "name": "Born Like That",
-        "url": "https://open.spotify.com/album/63cNdecRbo4VnYixeiO56Q"
-      },
-      "artists": [
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        },
-        {
-          "name": "Jast",
-          "url": "https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo"
-        }
-      ],
-      "duration_ms": 225892,
-      "name": "Born Like That",
-      "url": "https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN"
     }
   ],
   "unique_name": "Lowkey Tech",

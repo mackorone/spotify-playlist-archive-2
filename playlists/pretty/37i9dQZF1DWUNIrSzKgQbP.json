@@ -1,6 +1,6 @@
 {
   "description": "Sweet songs for sunny days. ",
-  "num_followers": 1649689,
+  "num_followers": 1649501,
   "original_name": "Summer Acoustic",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Beams",
-        "url": "https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16"
-      },
-      "artists": [
-        {
-          "name": "Derby",
-          "url": "https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ"
-        }
-      ],
-      "duration_ms": 161375,
-      "name": "Ambrosia",
-      "url": "https://open.spotify.com/track/344KZeQWZKibpxndj98m1j"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Fine (feat. Paul Kelly)",
         "url": "https://open.spotify.com/album/1ZmehdFS3WXShPPt2WMztb"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 262840,
       "name": "Fine (feat. Paul Kelly)",
       "url": "https://open.spotify.com/track/6MQ2BFdh2Rtn6uYX4NWffi"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Beams",
+        "url": "https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16"
+      },
+      "artists": [
+        {
+          "name": "Derby",
+          "url": "https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ"
+        }
+      ],
+      "duration_ms": 161375,
+      "name": "Ambrosia",
+      "url": "https://open.spotify.com/track/344KZeQWZKibpxndj98m1j"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Such Love Does",
-        "url": "https://open.spotify.com/album/7qNbPyJsIY98uut0qke5PY"
-      },
-      "artists": [
-        {
-          "name": "Andrea von Kampen",
-          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "Sister Moon",
-      "url": "https://open.spotify.com/track/6gkgd7ayZdwvd8z7wYIMeL"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Bad Luck Bad Habit",
         "url": "https://open.spotify.com/album/2K0GCEkTtUgBXWk1KGyzeA"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 210256,
       "name": "Bad Luck Bad Habit",
       "url": "https://open.spotify.com/track/0o394lDZL07bwAv8K11yDj"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Such Love Does",
+        "url": "https://open.spotify.com/album/7qNbPyJsIY98uut0qke5PY"
+      },
+      "artists": [
+        {
+          "name": "Andrea von Kampen",
+          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "Sister Moon",
+      "url": "https://open.spotify.com/track/6gkgd7ayZdwvd8z7wYIMeL"
     },
     {
       "added_at": "2026-07-09 23:27:48",

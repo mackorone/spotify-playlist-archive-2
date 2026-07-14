@@ -33545,6 +33545,24 @@
     },
     {
       "album": {
+        "name": "Simone",
+        "url": "https://open.spotify.com/album/2rS7GdcsaBQxaQxVMa4n8Q"
+      },
+      "artists": [
+        {
+          "name": "Buddha Jane",
+          "url": "https://open.spotify.com/artist/2PgGIyvok0ttueHKmZGhgM"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231688,
+      "name": "Simone",
+      "url": "https://open.spotify.com/track/5E7iBT5WQtXBmpPGcPZ5mR"
+    },
+    {
+      "album": {
         "name": "Sing You Lullaby",
         "url": "https://open.spotify.com/album/1mc4pdSstVJ67gvmTrFznl"
       },

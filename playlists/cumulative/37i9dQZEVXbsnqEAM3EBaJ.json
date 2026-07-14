@@ -1907,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "2014 NYC (Live at Best Buy Theatre, New York, 2014)",
+        "url": "https://open.spotify.com/album/4bDCE47WHVCxy7CZJUs1Y2"
+      },
+      "artists": [
+        {
+          "name": "King Crimson",
+          "url": "https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413451,
+      "name": "A Scarcity Of Miracles - Live at Best Buy Theatre, New York, 2014",
+      "url": "https://open.spotify.com/track/0puWTmBBfMCSqjLJwk4htb"
+    },
+    {
+      "album": {
         "name": "Werewolves of London (Live)",
         "url": "https://open.spotify.com/album/0UWYYGAuvcWJSXlgBYtf7g"
       },
@@ -18402,7 +18420,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 272000,
       "name": "Enmiserate",
       "url": "https://open.spotify.com/track/30qxCcubEI3NgTj39UUh4c"
@@ -23474,7 +23492,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 267769,
       "name": "Goodbye My Love",
       "url": "https://open.spotify.com/track/2uDd4zoCUIJ8Q83FG5V6d4"
@@ -29038,7 +29056,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 56633,
       "name": "Improv: Hoodoo - Live at Best Buy Theatre, New York, 2014",
       "url": "https://open.spotify.com/track/33niU9pVp4BMGSId7uT5cs"
@@ -33884,7 +33902,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 155591,
       "name": "Let It Shine",
       "url": "https://open.spotify.com/track/67LZCrjGOpeygJ7DlreWCM"
@@ -53960,7 +53978,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 464000,
       "name": "Song for November",
       "url": "https://open.spotify.com/track/5GHEfrHj0M1xdpPq2OYOwQ"

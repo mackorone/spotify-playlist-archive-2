@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40TymUMoWoqMrIV7VBRRAn">Jotta A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-53 songs - 3 hr 48 min
+54 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Alasca](https://open.spotify.com/track/30xBipXCgDQefGMmVGtODe) | [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 4:36 | 2023-02-16 |  |
 | [Altar da Graça](https://open.spotify.com/track/3kKsYXQevowt1FwbP8Fvac) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 5:29 | 2022-06-04 |  |
 | [Amor Impetuoso](https://open.spotify.com/track/6mnaqZnMNWgNsRKpfQxBYY) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Muéstrame Tu Gloria](https://open.spotify.com/album/1hdMxcb2eRzIuD2YJuDFTb) | 6:26 | 2022-06-04 |  |
+| [Amores Turistas](https://open.spotify.com/track/1B1NyhUHqxVK7K2Z2pOQr8) | [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA) | [Amores Turistas](https://open.spotify.com/album/1HN2pByOnHBzqopDuT4cXJ) | 2:30 | 2026-07-13 |  |
 | [Apollo 11](https://open.spotify.com/track/2rtrHYY3AyUlpAB8M4GSAC) | [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA) | [Apollo 11](https://open.spotify.com/album/2twRkiHWXubukZhe4kp7cm) | 3:13 | 2022-07-06 |  |
 | [Aventurero](https://open.spotify.com/track/4ZwgnxVK1fxr58BEVo5sZ8) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Aventurero](https://open.spotify.com/album/6bWDNm3rA6TGfOLP9bB0pP) | 3:26 | 2022-06-04 |  |
 | [Cante Outra Vez](https://open.spotify.com/track/17mVv6aGrWt7ScrMWrVMXh) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 4:39 | 2023-07-20 |  |

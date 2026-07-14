@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Os funks mais 🔑 do Brasil / Foto: MC Jacaré
+> Os funks mais 🔑 do Brasil / Foto: MC Jvila, MC Meno K, MC Rodrigo do CN, DJ Glenner
 
 447 songs - 1 day 2 hr 38 min
 

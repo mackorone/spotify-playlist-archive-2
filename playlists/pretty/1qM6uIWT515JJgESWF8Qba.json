@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 509,
+  "num_followers": 517,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACAeCsmu/04mTsUAdBeXlmw0inf66E",
+  "snapshot_id": "AAACB0PDx1wfywtYjYylFhNgZGgnjl03",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1347,6 +1347,102 @@
       "duration_ms": 215625,
       "name": "Glorious",
       "url": "https://open.spotify.com/track/1mAJOvqasn4SzRgqvdmF52"
+    },
+    {
+      "added_at": "2026-07-13 10:49:51",
+      "album": {
+        "name": "Don't Forget the Roll",
+        "url": "https://open.spotify.com/album/5wuEmaSZr4KX0WxiXCVyjk"
+      },
+      "artists": [
+        {
+          "name": "On-Off",
+          "url": "https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "Catch the Bunny",
+      "url": "https://open.spotify.com/track/3ULtM3rM1C2eAsTOjhAkCL"
+    },
+    {
+      "added_at": "2026-07-13 10:53:47",
+      "album": {
+        "name": "The Family Secret",
+        "url": "https://open.spotify.com/album/1kDUZGxfVbg4uS3OC0MqpB"
+      },
+      "artists": [
+        {
+          "name": "Ten Eighty Trees",
+          "url": "https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD"
+        }
+      ],
+      "duration_ms": 179882,
+      "name": "The Family Secret",
+      "url": "https://open.spotify.com/track/5v6DxofVLhcqQWsO4JlQ1v"
+    },
+    {
+      "added_at": "2026-07-13 11:00:25",
+      "album": {
+        "name": "Seasons In Exile",
+        "url": "https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9"
+      },
+      "artists": [
+        {
+          "name": "Unquiet Nights",
+          "url": "https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot"
+        }
+      ],
+      "duration_ms": 196219,
+      "name": "Diamond and the Missing Son",
+      "url": "https://open.spotify.com/track/293qXS4YFA9eFcb8Plx4u9"
+    },
+    {
+      "added_at": "2026-07-13 15:26:27",
+      "album": {
+        "name": "Chicago",
+        "url": "https://open.spotify.com/album/5V7ZgYI3RoHeLYNtiJoTLB"
+      },
+      "artists": [
+        {
+          "name": "Follow Deep",
+          "url": "https://open.spotify.com/artist/0pi2JVymYDQ1helz6Z1AOg"
+        }
+      ],
+      "duration_ms": 189549,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/0uhM1mDQ9tsxPdV4oorvUv"
+    },
+    {
+      "added_at": "2026-07-13 15:29:22",
+      "album": {
+        "name": "She Calls Me",
+        "url": "https://open.spotify.com/album/1KN6GFe9o8fOAJDs9EgPV3"
+      },
+      "artists": [
+        {
+          "name": "CRAZY PARTY",
+          "url": "https://open.spotify.com/artist/4U96U4AZGFryQYnWo4BGup"
+        }
+      ],
+      "duration_ms": 334341,
+      "name": "She Calls Me",
+      "url": "https://open.spotify.com/track/1iDu1uRfjqlW4Cqt78zAfm"
+    },
+    {
+      "added_at": "2026-07-14 01:13:32",
+      "album": {
+        "name": "Laser Love",
+        "url": "https://open.spotify.com/album/3rpHtJw1hn2JDGlTxEDgxf"
+      },
+      "artists": [
+        {
+          "name": "Poison Oak",
+          "url": "https://open.spotify.com/artist/4serq8W7kitDHuSTd4DhjF"
+        }
+      ],
+      "duration_ms": 182198,
+      "name": "Laser Love",
+      "url": "https://open.spotify.com/track/6FzsZvYUcxbZwpykjhBsl0"
     }
   ],
   "unique_name": "Local Rock Bands",

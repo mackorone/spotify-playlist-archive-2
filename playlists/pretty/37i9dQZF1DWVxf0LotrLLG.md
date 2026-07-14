@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2026\. Hit shuffle for a mixed listening experience\. Cover: Eslabon Armado
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,659 likes - 180 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,657 likes - 180 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

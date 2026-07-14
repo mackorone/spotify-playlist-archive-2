@@ -1971,6 +1971,24 @@
     },
     {
       "album": {
+        "name": "Toy Story 5 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6G2u8sy0sQvyALLoTTXkzn"
+      },
+      "artists": [
+        {
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244626,
+      "name": "Welcome Woody",
+      "url": "https://open.spotify.com/track/54VePmzLfmSJukpzY1GtQ7"
+    },
+    {
+      "album": {
         "name": "Win or Lose (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5b8ZVBaIDmoFi7NEv3swE7"
       },

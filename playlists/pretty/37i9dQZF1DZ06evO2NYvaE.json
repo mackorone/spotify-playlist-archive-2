@@ -1,12 +1,12 @@
 {
   "description": "This is Spiritbox. The essential tracks, all in one playlist.",
-  "num_followers": 53464,
+  "num_followers": 53481,
   "original_name": "This Is Spiritbox",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAAA1sRdTlJeHPKjO5Dh1IV/p",
+  "snapshot_id": "alLZAAAAAAB+Bj/5cIrqkkEmxyvwUHj2",
   "tracks": [
     {
       "added_at": null,
@@ -390,15 +390,11 @@
         {
           "name": "Spiritbox",
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        },
-        {
-          "name": "Sam Carter",
-          "url": "https://open.spotify.com/artist/1uPi1JTam729B87k1h5q0o"
         }
       ],
-      "duration_ms": 198067,
-      "name": "Yellowjacket - feat. Sam Carter",
-      "url": "https://open.spotify.com/track/3zQy3N1K8Mk5QknfFuVGNc"
+      "duration_ms": 219280,
+      "name": "Secret Garden",
+      "url": "https://open.spotify.com/track/0OzpSEZ5rwwAu1JC2zRAvb"
     },
     {
       "added_at": null,
@@ -435,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cellar Door",
+        "url": "https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 283957,
+      "name": "Cellar Door",
+      "url": "https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ties That Bind (feat. Courtney LaPlante of Spiritbox)",
         "url": "https://open.spotify.com/album/7KkQ2wX2VoNoEyFCfRzHwO"
       },
@@ -459,22 +471,6 @@
       "duration_ms": 231848,
       "name": "Ties That Bind (feat. Courtney LaPlante of Spiritbox)",
       "url": "https://open.spotify.com/track/75AOHT6wkAr1XzaXTZiK6o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cellar Door",
-        "url": "https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 283957,
-      "name": "Cellar Door",
-      "url": "https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 75789,
+  "num_followers": 75852,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAAC+I3fF/Pnuvtkhf5tW6cJX",
+  "snapshot_id": "alLZAAAAAAABqA+CA5+T3T+14R8ilyrv",
   "tracks": [
     {
       "added_at": null,
@@ -103,8 +103,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlaws Like Us",
-        "url": "https://open.spotify.com/album/6PorC2h1FBX9xatc7ChceS"
+        "name": "Different 'Round Here",
+        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
       },
       "artists": [
         {
@@ -112,9 +112,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 250253,
-      "name": "When She Comes Home Tonight",
-      "url": "https://open.spotify.com/track/3QE9qyQrIgefznSchAYJPB"
+      "duration_ms": 194426,
+      "name": "There Was This Girl",
+      "url": "https://open.spotify.com/track/7grWGhX8SHNmyGOkMNVMCt"
     },
     {
       "added_at": null,
@@ -135,8 +135,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different 'Round Here",
-        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
+        "name": "Outlaws Like Us",
+        "url": "https://open.spotify.com/album/6PorC2h1FBX9xatc7ChceS"
       },
       "artists": [
         {
@@ -144,9 +144,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 194426,
-      "name": "There Was This Girl",
-      "url": "https://open.spotify.com/track/7grWGhX8SHNmyGOkMNVMCt"
+      "duration_ms": 250253,
+      "name": "When She Comes Home Tonight",
+      "url": "https://open.spotify.com/track/3QE9qyQrIgefznSchAYJPB"
     },
     {
       "added_at": null,

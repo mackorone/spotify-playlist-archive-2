@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With MIK's Reaction, Hrafnsson, JUST LIZZY and more",
+  "description": "With MIK's Reaction, Hrafnsson, Shane Embury and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -836,10 +836,28 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 313549,
       "name": "Ambrosia",
       "url": "https://open.spotify.com/track/6UCBjjduLh0jqKr1PjkRG2"
+    },
+    {
+      "album": {
+        "name": "Dark To Dark",
+        "url": "https://open.spotify.com/album/4Zz0eC566dO5G3qaTzVhY9"
+      },
+      "artists": [
+        {
+          "name": "Liminal Dawn",
+          "url": "https://open.spotify.com/artist/5JTrasPTRNGB9sgNUAyVr1"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432274,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/6ERkyCqkm3hwiybfexekLN"
     },
     {
       "album": {
@@ -934,7 +952,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 219789,
       "name": "Angels Have No Wings",
       "url": "https://open.spotify.com/track/4T1IDZ1Mh8idHzzdv10zX0"
@@ -1378,7 +1396,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 244280,
       "name": "basement dust",
       "url": "https://open.spotify.com/track/0D3zi4wRgtaWOJglzWUZg8"
@@ -1664,7 +1682,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 262736,
       "name": "BEWARE THE PROMISE",
       "url": "https://open.spotify.com/track/1HP6lE1hvZf147vnHepMa4"
@@ -2032,7 +2050,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Blood God",
       "url": "https://open.spotify.com/track/2E8AaeOkYGfyGKkpEkBkG6"
@@ -2126,7 +2144,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 246888,
       "name": "Borrowed Flames",
       "url": "https://open.spotify.com/track/5rzwrrfygwce2kHvCm39Zw"
@@ -2506,7 +2524,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 310000,
       "name": "Can You See",
       "url": "https://open.spotify.com/track/0821u62C5YiW4Z2beHjvGf"
@@ -2914,7 +2932,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 451422,
       "name": "Cities of the Interior",
       "url": "https://open.spotify.com/track/3tkITGy7zB69m235HMTrW3"
@@ -3246,7 +3264,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -3860,7 +3878,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 291464,
       "name": "Dark Allies",
       "url": "https://open.spotify.com/track/0b7AEjVaW9qZmwmMWMP2zd"
@@ -8378,7 +8396,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 323500,
       "name": "It's No Good",
       "url": "https://open.spotify.com/track/2Dc6DRMr5fKhcLn57iwnjz"
@@ -8450,7 +8468,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 180273,
       "name": "Jimmy",
       "url": "https://open.spotify.com/track/3CuBwvjwt5GqyuLCws5k7B"
@@ -8952,7 +8970,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "Layers",
       "url": "https://open.spotify.com/track/2w68LiCEisB0exE4UxEer2"
@@ -9158,7 +9176,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 275670,
       "name": "Let the Rain Fall",
       "url": "https://open.spotify.com/track/6XLUesMlr0D29UU7OjGfHQ"
@@ -12418,7 +12436,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 272000,
       "name": "Rubyshine",
       "url": "https://open.spotify.com/track/7fhcrNzuryRRDMdKtzEUvv"
@@ -13511,6 +13529,24 @@
     },
     {
       "album": {
+        "name": "Smile, Smile, Smile",
+        "url": "https://open.spotify.com/album/5x46ysFFiRln88dE3AB7FQ"
+      },
+      "artists": [
+        {
+          "name": "Hats Off Gentlemen It's Adequate",
+          "url": "https://open.spotify.com/artist/0oomA1zS33GYRNuiuevzAw"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277282,
+      "name": "Smile, Smile, Smile",
+      "url": "https://open.spotify.com/track/1nlhgVRaJJl1tWqXpLtuTf"
+    },
+    {
+      "album": {
         "name": "Smoke and Mirrors",
         "url": "https://open.spotify.com/album/68cT0BcKQcHGxToCYg4A1H"
       },
@@ -14176,7 +14212,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 202135,
       "name": "Steel Butterflies",
       "url": "https://open.spotify.com/track/48bvLtjiWAWwaKSHrC5NF2"
@@ -14324,7 +14360,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 207857,
       "name": "Stray",
       "url": "https://open.spotify.com/track/7FJgXLgAj9dKf9Vm4fC2j2"
@@ -15488,7 +15524,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "THE MESS",
       "url": "https://open.spotify.com/track/6OrMR8KqJ5IReNnqGJTEB0"
@@ -16174,7 +16210,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 190955,
       "name": "Through The Looking Glass",
       "url": "https://open.spotify.com/track/2VChgOUgrKcZ7poZHsQTqe"
@@ -17261,6 +17297,24 @@
     },
     {
       "album": {
+        "name": "Waiting for the sun",
+        "url": "https://open.spotify.com/album/53baik6gfswTLvkgKNeKeE"
+      },
+      "artists": [
+        {
+          "name": "MINDSET OFF",
+          "url": "https://open.spotify.com/artist/72HSL8naHJEvXwTNwEXUBr"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304615,
+      "name": "Waiting for the sun",
+      "url": "https://open.spotify.com/track/02keQt7ux2wti1rlSHJ7na"
+    },
+    {
+      "album": {
         "name": "Follow the Light (Redeux)",
         "url": "https://open.spotify.com/album/1CwR06espw9M5UYbCHm9dh"
       },
@@ -17398,7 +17452,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 142419,
       "name": "War in My Heart",
       "url": "https://open.spotify.com/track/2JFArST7SWmFM57tHJzIM9"
@@ -17882,7 +17936,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 219840,
       "name": "Where The Bubbles Rise",
       "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"

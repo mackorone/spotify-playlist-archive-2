@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från VC Barre, Beyoncé och Kygo med flera\. Happy New Music Friday!
 
-24,984 songs - 53 day 22 hr 22 min
+24,985 songs - 53 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11064,6 +11064,7 @@
 | [In My Pockets](https://open.spotify.com/track/15NvWexLBzx8l0anZ6V2Yb) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [In My Pockets](https://open.spotify.com/album/4nqkI4pUK9k9OdDtyjPsXO) | 2:39 | 2022-07-29 | 2022-08-05 |
 | [In My Room](https://open.spotify.com/track/5Yqqm8RJ5Rm7FDAv3g1obU) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [In My Room](https://open.spotify.com/album/4EslqDlOgXkIhbEQHHjl3g) | 2:39 | 2025-04-17 | 2025-04-25 |
 | [In My Sleep](https://open.spotify.com/track/2O7DB9aOH4AHx9uoSx3zNV) | [Wilhelmina](https://open.spotify.com/artist/2ZCcqreFw4auSkxe2wsnbG), [TwoWorldsApart](https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B) | [In My Sleep](https://open.spotify.com/album/6NpUbmaZ4OLVH92oJE3CU7) | 2:38 | 2022-08-05 | 2022-08-12 |
+| [In My Victoria's Secret](https://open.spotify.com/track/3k5OStPX5fNfTd3ZQL8RkY) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [In My Victoria's Secret](https://open.spotify.com/album/6tUTuceOlc0o9osQphRnzF) | 2:40 | 2026-07-10 |  |
 | [In My World](https://open.spotify.com/track/2gXZufRsrkTS2MOAnPkTXB) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [In My World](https://open.spotify.com/album/0RjevZ5UL21eqgEhNYbvjp) | 3:35 | 2025-10-02 | 2025-10-10 |
 | [In My Zone](https://open.spotify.com/track/2qbIOwDRoPbuvahK6Fcghj) | [Macky](https://open.spotify.com/artist/7yptUupX4aIIkXwXhggAgk) | [In My Zone](https://open.spotify.com/album/1PBx6uXL22msGAgcTckra6) | 2:41 | 2023-07-20 | 2023-07-28 |
 | [In My Zone](https://open.spotify.com/track/3LR2EPyj36gxYgCYbC0au0) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [In My Zone](https://open.spotify.com/album/78t3QrtBcUZhthPk0ROf2r) | 2:41 | 2022-01-28 | 2022-02-04 |

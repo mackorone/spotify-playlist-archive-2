@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 115639,
+  "num_followers": 115645,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -703,26 +703,6 @@
     {
       "added_at": "2026-06-12 03:01:50",
       "album": {
-        "name": "Presente de Deus",
-        "url": "https://open.spotify.com/album/4LwrqbJBtTPzv1b4t8Rq6W"
-      },
-      "artists": [
-        {
-          "name": "Oficina do Som",
-          "url": "https://open.spotify.com/artist/27ETia5GYLx019IIaPt5Ha"
-        },
-        {
-          "name": "Renato Vianna",
-          "url": "https://open.spotify.com/artist/0rbot8VBGRQ5ac2OQDvqd7"
-        }
-      ],
-      "duration_ms": 209020,
-      "name": "Presente de Deus",
-      "url": "https://open.spotify.com/track/4KbeQFTT9sAdu95SOsdvzS"
-    },
-    {
-      "added_at": "2026-06-12 03:01:50",
-      "album": {
         "name": "Amar pra Sempre",
         "url": "https://open.spotify.com/album/3xmpGzhNKqpZcyjRNruEDR"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 285544,
       "name": "Amar pra Sempre",
       "url": "https://open.spotify.com/track/5QzEmPJCu2MSyaR5OpjVqr"
+    },
+    {
+      "added_at": "2026-06-12 03:01:50",
+      "album": {
+        "name": "Presente de Deus",
+        "url": "https://open.spotify.com/album/4LwrqbJBtTPzv1b4t8Rq6W"
+      },
+      "artists": [
+        {
+          "name": "Oficina do Som",
+          "url": "https://open.spotify.com/artist/27ETia5GYLx019IIaPt5Ha"
+        },
+        {
+          "name": "Renato Vianna",
+          "url": "https://open.spotify.com/artist/0rbot8VBGRQ5ac2OQDvqd7"
+        }
+      ],
+      "duration_ms": 209020,
+      "name": "Presente de Deus",
+      "url": "https://open.spotify.com/track/4KbeQFTT9sAdu95SOsdvzS"
     },
     {
       "added_at": "2026-06-12 03:01:50",

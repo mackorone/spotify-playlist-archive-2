@@ -1,12 +1,12 @@
 {
   "description": "Sing along with Moana and Maui to \"How Far I'll Go,\" \"You're Welcome\" and other Disney favorites! Disney's Moana, in theaters soon.",
-  "num_followers": 1172782,
+  "num_followers": 1172913,
   "original_name": "Disney Sing-Alongs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHFddoeWKfRNuecrUN0xK6Rd8uXe",
+  "snapshot_id": "AAAAAMOxl8fblUbch7Ge8ZPgY/97T/QA",
   "tracks": [
     {
       "added_at": "2026-06-29 13:00:22",
@@ -107,6 +107,26 @@
       "duration_ms": 223840,
       "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
+    },
+    {
+      "added_at": "2026-07-13 13:59:39",
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6i8BR7tAJxVGZAEcF1dxlZ"
+      },
+      "artists": [
+        {
+          "name": "Dwayne Johnson",
+          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "You're Welcome",
+      "url": "https://open.spotify.com/track/5GxKY3XkzmSqymfpuWRnkJ"
     },
     {
       "added_at": "2026-06-29 13:00:22",
@@ -239,26 +259,6 @@
       "duration_ms": 202066,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
-    },
-    {
-      "added_at": "2026-06-29 13:00:22",
-      "album": {
-        "name": "Moana (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3g9Z0jxX31lghNgzkdfhCD"
-      },
-      "artists": [
-        {
-          "name": "Dwayne Johnson",
-          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "You're Welcome",
-      "url": "https://open.spotify.com/track/6H0JqH391qbGqe0zs3oZJW"
     },
     {
       "added_at": "2026-06-29 13:00:22",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2026-06-29 13:00:22",
       "album": {
-        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 163386,
-      "name": "How Far I'll Go",
-      "url": "https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd"
-    },
-    {
-      "added_at": "2026-06-29 13:00:22",
-      "album": {
         "name": "Pocahontas",
         "url": "https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd"
       },
@@ -1743,26 +1723,6 @@
       "duration_ms": 194160,
       "name": "Go the Distance",
       "url": "https://open.spotify.com/track/0D1OY0M5A0qD5HGBvFmFid"
-    },
-    {
-      "added_at": "2026-06-29 13:00:22",
-      "album": {
-        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
-      },
-      "artists": [
-        {
-          "name": "Dwayne Johnson",
-          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 163893,
-      "name": "You're Welcome",
-      "url": "https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24"
     },
     {
       "added_at": "2026-06-29 13:00:22",

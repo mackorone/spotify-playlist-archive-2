@@ -2168,7 +2168,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 132812,
       "name": "COLD",
       "url": "https://open.spotify.com/track/17AsJZ1jvgJtfYqVd7xPua"
@@ -2300,7 +2300,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 231375,
       "name": "Cs\u00f3nak",
       "url": "https://open.spotify.com/track/0PtZBguIFXu0LZ56P4Q4ZB"
@@ -2482,7 +2482,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 171806,
       "name": "Demo",
       "url": "https://open.spotify.com/track/3huWs5M8a0MXTgc477aORn"
@@ -3615,6 +3615,28 @@
     },
     {
       "album": {
+        "name": "FREAKED OUT",
+        "url": "https://open.spotify.com/album/7rlCLUxXi7iAxL1kmiOHxm"
+      },
+      "artists": [
+        {
+          "name": "Fat Papi",
+          "url": "https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov"
+        },
+        {
+          "name": "prodshushy",
+          "url": "https://open.spotify.com/artist/6aQnbm7k0VsmUqfU9cfwoA"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "FREAKED OUT",
+      "url": "https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN"
+    },
+    {
+      "album": {
         "name": "FRENCH KISS",
         "url": "https://open.spotify.com/album/1Riw1WQSd6TUyWzgFeodaH"
       },
@@ -4267,6 +4289,24 @@
     },
     {
       "album": {
+        "name": "Ha bukok",
+        "url": "https://open.spotify.com/album/3FzfbbJxJfabT3WiKmE2Fd"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139700,
+      "name": "Ha bukok",
+      "url": "https://open.spotify.com/track/1jqthYE9Qyki3574xA7ZPL"
+    },
+    {
+      "album": {
         "name": "N\u00e9gyes J\u00e1rat",
         "url": "https://open.spotify.com/album/1SHP8lIyvebQruVn08mG5Q"
       },
@@ -4468,7 +4508,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 248201,
       "name": "hamupip\u0151ke",
       "url": "https://open.spotify.com/track/1T8FpKsW8aH6wiV8SjNXQx"
@@ -9167,6 +9207,28 @@
     },
     {
       "album": {
+        "name": "civil",
+        "url": "https://open.spotify.com/album/2VPjzGe5Sd8Vvj8sbzAH9N"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        },
+        {
+          "name": "Only U",
+          "url": "https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163583,
+      "name": "reflex",
+      "url": "https://open.spotify.com/track/6GJOamdpyJv4Yb5JDD4R1F"
+    },
+    {
+      "album": {
         "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
         "url": "https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b"
       },
@@ -9288,6 +9350,24 @@
       "duration_ms": 173760,
       "name": "rizz",
       "url": "https://open.spotify.com/track/6O93HKbpLjykCXApaiAf5f"
+    },
+    {
+      "album": {
+        "name": "RMB (Ring My Bell)",
+        "url": "https://open.spotify.com/album/4pkAMeqsWDN1YtFHsKoD1g"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174222,
+      "name": "RMB (Ring My Bell)",
+      "url": "https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS"
     },
     {
       "album": {
@@ -10966,6 +11046,24 @@
       "duration_ms": 168260,
       "name": "televana",
       "url": "https://open.spotify.com/track/1hhCT2t9WDHyrrPpgdQwaz"
+    },
+    {
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/527WThPElJ2zVD0SXN2wst"
+      },
+      "artists": [
+        {
+          "name": "Sofi",
+          "url": "https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121512,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/5B8GKNiAHjmlxtizWo58E3"
     },
     {
       "album": {
@@ -12654,7 +12752,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 168510,
       "name": "\u00datraval\u00f3",
       "url": "https://open.spotify.com/track/63TYUTXMtgmBRGLAyEJnz7"

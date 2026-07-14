@@ -5672,7 +5672,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 155076,
       "name": "dance 4 infinity",
       "url": "https://open.spotify.com/track/4jBjwCXgvAJNPYluVDb3uJ"
@@ -26636,6 +26636,24 @@
       "duration_ms": 167200,
       "name": "Ticking Time Bomb",
       "url": "https://open.spotify.com/track/1CtVZuYHOWTY7QYSTbYbu4"
+    },
+    {
+      "album": {
+        "name": "Til The Sun Burns Out",
+        "url": "https://open.spotify.com/album/2PaEUWw3OtsmN1owkzpZDA"
+      },
+      "artists": [
+        {
+          "name": "Daily Bread",
+          "url": "https://open.spotify.com/artist/4IsiG6RpDyRq6Frd2CvddW"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Til The Sun Burns Out",
+      "url": "https://open.spotify.com/track/1IeimEvUVGhtL81kexJ33q"
     },
     {
       "album": {

@@ -4226,7 +4226,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 148124,
       "name": "Dhak Dhak Reloaded",
       "url": "https://open.spotify.com/track/5VbLC80g5f6oSbSq9BsC6K"
@@ -6258,7 +6258,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 181440,
       "name": "Guzara",
       "url": "https://open.spotify.com/track/5llGxmF2mDHmormgVmWiIY"
@@ -6430,7 +6430,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 165826,
       "name": "Hai Jawani Toh Ishq Hona Hai (Title Track)",
       "url": "https://open.spotify.com/track/4hzZCaJh4u0r4qxdtcy0Nz"
@@ -9476,6 +9476,28 @@
       "duration_ms": 234166,
       "name": "Kaise Hum",
       "url": "https://open.spotify.com/track/7sxx709AexC8scBIjVMCQV"
+    },
+    {
+      "album": {
+        "name": "Kaisi Ye Paheli",
+        "url": "https://open.spotify.com/album/6Q25fAU6hNnCZ9ZZjdPDlk"
+      },
+      "artists": [
+        {
+          "name": "Rahul Jain",
+          "url": "https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX"
+        },
+        {
+          "name": "Suman Sridhar",
+          "url": "https://open.spotify.com/artist/6swk5jDsD7ahHLnUOioVfq"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177237,
+      "name": "Kaisi Ye Paheli",
+      "url": "https://open.spotify.com/track/2PtM2qHIrnSd7ho2s8gbBx"
     },
     {
       "album": {
@@ -13948,6 +13970,36 @@
       "duration_ms": 252089,
       "name": "Pagalpan",
       "url": "https://open.spotify.com/track/38I7Uyjiful80S7RjilkxS"
+    },
+    {
+      "album": {
+        "name": "Dhamaal 4",
+        "url": "https://open.spotify.com/album/61WM5EP0jWS6PA4X1vnwRb"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Param Raj",
+          "url": "https://open.spotify.com/artist/08W3FvU4dZmwoZXVWwSJcT"
+        },
+        {
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144022,
+      "name": "Paisa Lao",
+      "url": "https://open.spotify.com/track/6rK13kKFS0sESe2Kjc4jar"
     },
     {
       "album": {
@@ -18648,6 +18700,24 @@
       "duration_ms": 170883,
       "name": "Teri Aarzoo",
       "url": "https://open.spotify.com/track/0tj3hr6pWgB7mbf0uja8jM"
+    },
+    {
+      "album": {
+        "name": "Teri Adaa (Sar-e-Shaam - Mehfilz with Papon) (From The Living Room)",
+        "url": "https://open.spotify.com/album/2CCbwzWqZpawKUadLYNk4J"
+      },
+      "artists": [
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287073,
+      "name": "Teri Adaa (Sar-e-Shaam - Mehfilz with Papon) (From The Living Room)",
+      "url": "https://open.spotify.com/track/3yp8vscdlRw20aCTMHEUO2"
     },
     {
       "album": {

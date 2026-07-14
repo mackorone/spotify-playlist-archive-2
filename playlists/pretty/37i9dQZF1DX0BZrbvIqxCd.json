@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544151,
+  "num_followers": 544154,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
+        "name": "Get Lost, Find Yourself",
+        "url": "https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW"
+      },
+      "artists": [
+        {
+          "name": "Chunk! No, Captain Chunk!",
+          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Playing Dead",
+      "url": "https://open.spotify.com/track/4KuwjTOfniivWFKJz3p1yW"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 110320,
       "name": "Chaos From Within",
       "url": "https://open.spotify.com/track/1N8K9up7uz8EuyEiOoy9pq"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
-        "name": "Get Lost, Find Yourself",
-        "url": "https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW"
-      },
-      "artists": [
-        {
-          "name": "Chunk! No, Captain Chunk!",
-          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Playing Dead",
-      "url": "https://open.spotify.com/track/4KuwjTOfniivWFKJz3p1yW"
     },
     {
       "added_at": "2024-07-19 11:53:42",

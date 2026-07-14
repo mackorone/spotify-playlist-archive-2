@@ -1975,6 +1975,32 @@
     },
     {
       "album": {
+        "name": "Do You Mind (Remix)",
+        "url": "https://open.spotify.com/album/61Z1B5MUoFjCftYWIsQDr4"
+      },
+      "artists": [
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO"
+        },
+        {
+          "name": "DJ Paleface",
+          "url": "https://open.spotify.com/artist/4O5jQeIShGpcjxHwr1P0Gt"
+        },
+        {
+          "name": "Crazy Cousinz",
+          "url": "https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209055,
+      "name": "Do You Mind - Remix",
+      "url": "https://open.spotify.com/track/69UOKg0ctcOcYNfyH0BKt9"
+    },
+    {
+      "album": {
         "name": "Lungs (Deluxe Version)",
         "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
       },
@@ -7628,7 +7654,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"

@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 8532,
+  "num_followers": 8540,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAADWU3ebZ+R5kRyOqPdTSkpW",
+  "snapshot_id": "alLZAAAAAACbXvSouzyDEbvaIn7Yceuu",
   "tracks": [
     {
       "added_at": null,
@@ -64,9 +64,9 @@
           "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
         }
       ],
-      "duration_ms": 280880,
-      "name": "See Me So",
-      "url": "https://open.spotify.com/track/0RdXMS28fH63l6Is3eHZXM"
+      "duration_ms": 269733,
+      "name": "If Love Is A Crime",
+      "url": "https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs"
     },
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
         }
       ],
-      "duration_ms": 269733,
-      "name": "If Love Is A Crime",
-      "url": "https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs"
+      "duration_ms": 280880,
+      "name": "See Me So",
+      "url": "https://open.spotify.com/track/0RdXMS28fH63l6Is3eHZXM"
     },
     {
       "added_at": null,
@@ -707,30 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worry Me",
-        "url": "https://open.spotify.com/album/6XUaZvaQMG42gPY1KqVP9p"
-      },
-      "artists": [
-        {
-          "name": "DJ Jimmy Jatt",
-          "url": "https://open.spotify.com/artist/1ZwLoNSj1T8R4D303zVVMp"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 193044,
-      "name": "Worry Me",
-      "url": "https://open.spotify.com/track/1l1iB9yTcm1oDex1ZwKOwu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "[I.N.I.T] In Nasboi I Trust",
         "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
       },
@@ -751,6 +727,30 @@
       "duration_ms": 184500,
       "name": "Ashewo",
       "url": "https://open.spotify.com/track/6phfOLRF89L8DlEofGXVHN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Worry Me",
+        "url": "https://open.spotify.com/album/6XUaZvaQMG42gPY1KqVP9p"
+      },
+      "artists": [
+        {
+          "name": "DJ Jimmy Jatt",
+          "url": "https://open.spotify.com/artist/1ZwLoNSj1T8R4D303zVVMp"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 193044,
+      "name": "Worry Me",
+      "url": "https://open.spotify.com/track/1l1iB9yTcm1oDex1ZwKOwu"
     },
     {
       "added_at": null,

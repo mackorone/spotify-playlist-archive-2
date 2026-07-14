@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
-  "num_followers": 171546,
+  "num_followers": 171606,
   "original_name": "techno party",
   "owner": {
     "name": "Spotify",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2026-07-10 04:01:19",
       "album": {
+        "name": "Better With You",
+        "url": "https://open.spotify.com/album/3Uuy2TmXMScAV6Mzy9CZiO"
+      },
+      "artists": [
+        {
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        },
+        {
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+        }
+      ],
+      "duration_ms": 211928,
+      "name": "Better With You",
+      "url": "https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8"
+    },
+    {
+      "added_at": "2026-07-10 04:01:19",
+      "album": {
         "name": "Country Roads",
         "url": "https://open.spotify.com/album/3qP68dpdi9QrNjYKNTsBP3"
       },
@@ -1499,6 +1519,26 @@
       "duration_ms": 190438,
       "name": "Country Roads",
       "url": "https://open.spotify.com/track/5zCEzQtMVqQPnjua0Orfyc"
+    },
+    {
+      "added_at": "2026-07-10 04:01:19",
+      "album": {
+        "name": "Bang On The Drums",
+        "url": "https://open.spotify.com/album/4HgdfeH2IwTfwnIhQrReXN"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "duration_ms": 152368,
+      "name": "Bang On The Drums",
+      "url": "https://open.spotify.com/track/6FnmKuDTiiM8GxZx0KiiFT"
     },
     {
       "added_at": "2026-07-10 04:01:19",
@@ -1563,46 +1603,6 @@
       "duration_ms": 168124,
       "name": "Energy",
       "url": "https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM"
-    },
-    {
-      "added_at": "2026-07-10 04:01:19",
-      "album": {
-        "name": "Better With You",
-        "url": "https://open.spotify.com/album/3Uuy2TmXMScAV6Mzy9CZiO"
-      },
-      "artists": [
-        {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
-        },
-        {
-          "name": "Novah",
-          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
-        }
-      ],
-      "duration_ms": 211928,
-      "name": "Better With You",
-      "url": "https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8"
-    },
-    {
-      "added_at": "2026-07-10 04:01:19",
-      "album": {
-        "name": "Bang On The Drums",
-        "url": "https://open.spotify.com/album/4HgdfeH2IwTfwnIhQrReXN"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 152368,
-      "name": "Bang On The Drums",
-      "url": "https://open.spotify.com/track/6FnmKuDTiiM8GxZx0KiiFT"
     },
     {
       "added_at": "2026-07-10 04:01:19",
@@ -1747,22 +1747,18 @@
     {
       "added_at": "2026-07-10 04:01:19",
       "album": {
-        "name": "Lalala",
-        "url": "https://open.spotify.com/album/0VDSo8iWnOvGbXvFegmi1x"
+        "name": "Naughty",
+        "url": "https://open.spotify.com/album/0yEEruerpgU6vBbZlQ9QjA"
       },
       "artists": [
         {
           "name": "Marie Vaunt",
           "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
-        },
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
         }
       ],
-      "duration_ms": 142838,
-      "name": "Lalala",
-      "url": "https://open.spotify.com/track/4LHHkEu5IgNu1CQqTOxUZ9"
+      "duration_ms": 174375,
+      "name": "Naughty",
+      "url": "https://open.spotify.com/track/0vInsMdMmLOCrAQkwlymyO"
     },
     {
       "added_at": "2026-07-10 04:01:19",
@@ -1779,6 +1775,26 @@
       "duration_ms": 126153,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/1xDoxgBWey42TdlfUMQvof"
+    },
+    {
+      "added_at": "2026-07-10 04:01:19",
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        }
+      ],
+      "duration_ms": 151688,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY"
     },
     {
       "added_at": "2026-07-10 04:01:19",
@@ -1807,26 +1823,6 @@
     {
       "added_at": "2026-07-10 04:01:19",
       "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "VisionV",
-          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
-        }
-      ],
-      "duration_ms": 151688,
-      "name": "Renaissance",
-      "url": "https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY"
-    },
-    {
-      "added_at": "2026-07-10 04:01:19",
-      "album": {
         "name": "Bounce Like That",
         "url": "https://open.spotify.com/album/2x3EqTw9pWYRZn88Kx9rJy"
       },
@@ -1843,18 +1839,22 @@
     {
       "added_at": "2026-07-10 04:01:19",
       "album": {
-        "name": "Naughty",
-        "url": "https://open.spotify.com/album/0yEEruerpgU6vBbZlQ9QjA"
+        "name": "Lalala",
+        "url": "https://open.spotify.com/album/0VDSo8iWnOvGbXvFegmi1x"
       },
       "artists": [
         {
           "name": "Marie Vaunt",
           "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        },
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
         }
       ],
-      "duration_ms": 174375,
-      "name": "Naughty",
-      "url": "https://open.spotify.com/track/0vInsMdMmLOCrAQkwlymyO"
+      "duration_ms": 142838,
+      "name": "Lalala",
+      "url": "https://open.spotify.com/track/4LHHkEu5IgNu1CQqTOxUZ9"
     },
     {
       "added_at": "2026-07-10 04:01:19",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2026-07-10 04:01:19",
       "album": {
+        "name": "Electrify",
+        "url": "https://open.spotify.com/album/2BllKa75Mt0XF59p9xd0bs"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "Electrify",
+      "url": "https://open.spotify.com/track/6GqRZMF2nCtYakIrnkpith"
+    },
+    {
+      "added_at": "2026-07-10 04:01:19",
+      "album": {
         "name": "Push It (Ueberrest Remix)",
         "url": "https://open.spotify.com/album/5uLOMJab207RjQBtayElnE"
       },
@@ -2007,26 +2023,6 @@
       "duration_ms": 177600,
       "name": "Mix The Master",
       "url": "https://open.spotify.com/track/4H8zrjope9TS7uK9XJyAr9"
-    },
-    {
-      "added_at": "2026-07-10 04:01:19",
-      "album": {
-        "name": "Tell Me Why",
-        "url": "https://open.spotify.com/album/224hEKX6NC4pzENbWL2vXj"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        },
-        {
-          "name": "Jack Holiday",
-          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
-        }
-      ],
-      "duration_ms": 135400,
-      "name": "Tell Me Why",
-      "url": "https://open.spotify.com/track/4BvBTmceA5V1pDuaC3RabS"
     }
   ],
   "unique_name": "techno party",

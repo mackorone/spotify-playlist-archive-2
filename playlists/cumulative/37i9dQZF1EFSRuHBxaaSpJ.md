@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-98 songs - 5 hr 8 min
+99 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Dis moi que tu m'aimes](https://open.spotify.com/track/1T9LhC0vlV95Q8HJRaNC1S) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 3:12 | 2025-09-28 |  |
 | [Dis\-moi que tu m'aimes](https://open.spotify.com/track/6rWZiuSrqHdgG62GIaXmZk) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Dis\-moi que tu m'aimes](https://open.spotify.com/album/5PSs4QyTRbUsv4aLyeXPwc) | 3:13 | 2025-07-26 | 2025-09-29 |
 | [Diviser pour mieux régner](https://open.spotify.com/track/2SyhVw4qt5p5PDIWkO1XE2) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 2:40 | 2024-06-07 |  |
+| [Elle veut](https://open.spotify.com/track/3x6mSf2tTzv8bvEVI8LQkQ) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 2:39 | 2026-07-13 |  |
 | [Empire](https://open.spotify.com/track/7inZTYdMa0QXoyaIDxI612) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 2:08 | 2026-04-26 |  |
 | [Entre nous](https://open.spotify.com/track/0CCuBJkOnLy09zFaQBSJ50) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Entre nous](https://open.spotify.com/album/1LvrT5k4frdXaOy7sc66jl) | 2:48 | 2024-06-07 |  |
 | [Essaie encore](https://open.spotify.com/track/792zA7PcYHPDtUoXnYrV5e) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 2:40 | 2024-06-07 |  |

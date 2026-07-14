@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7442,
+  "num_followers": 7446,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAAC2Cpq4QxZVL9NKJwhOV2FZ",
+  "snapshot_id": "alLZAAAAAADBa8lm5neFCuEWpVbDV/z2",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
       "duration_ms": 181160,
       "name": "Freefall (feat. Durand Bernarr)",
       "url": "https://open.spotify.com/track/2flqiTbuPeDZXxgEW67rxw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AM I OKAY?!",
-        "url": "https://open.spotify.com/album/4Tku8dpR2O31BsilYVBw91"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 217662,
-      "name": "AM I OKAY?!",
-      "url": "https://open.spotify.com/track/7acblFUsVC2haLFRkHqlQZ"
     },
     {
       "added_at": null,
@@ -99,6 +83,22 @@
       "duration_ms": 207318,
       "name": "Weird (feat. Durand Bernarr)",
       "url": "https://open.spotify.com/track/7zvpJRsDXAwwe2nLXUP7v4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BERNARR.",
+        "url": "https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 217662,
+      "name": "AM I OKAY?!",
+      "url": "https://open.spotify.com/track/6QLRg3NlTVItMsH3WBLn6q"
     },
     {
       "added_at": null,
@@ -195,26 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "baby, can we?",
-        "url": "https://open.spotify.com/album/3bgs7xRzqhbubFe4t1xoUZ"
-      },
-      "artists": [
-        {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 246422,
-      "name": "baby, can we?",
-      "url": "https://open.spotify.com/track/2VAqycb7wkoJvHjAg3GLdk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BLOOM",
         "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 317966,
       "name": "No Business",
       "url": "https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "baby, can we?",
+        "url": "https://open.spotify.com/album/3bgs7xRzqhbubFe4t1xoUZ"
+      },
+      "artists": [
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 246422,
+      "name": "baby, can we?",
+      "url": "https://open.spotify.com/track/2VAqycb7wkoJvHjAg3GLdk"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 263893,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/4x54v9wLiL2mHmKVcyPIcH"
+      "duration_ms": 267687,
+      "name": "PSST!",
+      "url": "https://open.spotify.com/track/4ygTGz56fx18n4uxvFphj6"
     },
     {
       "added_at": null,
@@ -519,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BERNARR.",
-        "url": "https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
       "artists": [
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
         }
       ],
-      "duration_ms": 284562,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/7HwwKT3cGTRY5xS3GgnXrv"
+      "duration_ms": 218571,
+      "name": "Rollin\u2019",
+      "url": "https://open.spotify.com/track/7IXRl11ljin6axzMbllSFo"
     },
     {
       "added_at": null,
@@ -548,25 +544,9 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 267687,
-      "name": "PSST!",
-      "url": "https://open.spotify.com/track/4ygTGz56fx18n4uxvFphj6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 218571,
-      "name": "Rollin\u2019",
-      "url": "https://open.spotify.com/track/7IXRl11ljin6axzMbllSFo"
+      "duration_ms": 263893,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/4x54v9wLiL2mHmKVcyPIcH"
     },
     {
       "added_at": null,

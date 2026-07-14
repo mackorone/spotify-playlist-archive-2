@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 30414,
+  "num_followers": 30432,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAACbkVAn7UJ4e024Rw8SK98I",
+  "snapshot_id": "alLZAAAAAACdLlXi9a6nMliOY+B7za3F",
   "tracks": [
     {
       "added_at": null,
@@ -162,11 +162,15 @@
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Ghosttown",
+          "url": "https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf"
         }
       ],
-      "duration_ms": 153850,
-      "name": "A Crawl Through a Low Tide",
-      "url": "https://open.spotify.com/track/4ySj2WIkfOAJbKr8eSMVay"
+      "duration_ms": 160729,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/3ici5bVyYe4hidBW2enSUt"
     },
     {
       "added_at": null,
@@ -230,15 +234,11 @@
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Ghosttown",
-          "url": "https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf"
         }
       ],
-      "duration_ms": 160729,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/3ici5bVyYe4hidBW2enSUt"
+      "duration_ms": 153850,
+      "name": "A Crawl Through a Low Tide",
+      "url": "https://open.spotify.com/track/4ySj2WIkfOAJbKr8eSMVay"
     },
     {
       "added_at": null,

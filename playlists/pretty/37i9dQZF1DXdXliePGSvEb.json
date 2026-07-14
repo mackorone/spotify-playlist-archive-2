@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 78410,
+  "num_followers": 78409,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "Dream Night",
+        "url": "https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 267693,
+      "name": "Dream Night",
+      "url": "https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "See It As A Sign",
         "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 174204,
       "name": "See It As A Sign",
       "url": "https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "Dream Night",
-        "url": "https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 267693,
-      "name": "Dream Night",
-      "url": "https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3"
-      },
-      "artists": [
-        {
-          "name": "Shanti Celeste",
-          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
-        }
-      ],
-      "duration_ms": 256920,
-      "name": "Romance",
-      "url": "https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Play Me",
         "url": "https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 169411,
       "name": "Play Me",
       "url": "https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3"
+      },
+      "artists": [
+        {
+          "name": "Shanti Celeste",
+          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
+        }
+      ],
+      "duration_ms": 256920,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi"
     },
     {
       "added_at": "2025-12-03 12:15:55",

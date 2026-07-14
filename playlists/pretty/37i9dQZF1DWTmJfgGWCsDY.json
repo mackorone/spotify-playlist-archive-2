@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Yammi",
-  "num_followers": 10803,
+  "num_followers": 10815,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-06-05 03:30:22",
       "album": {
-        "name": "Nitafanyaje",
-        "url": "https://open.spotify.com/album/28EHJ9YuzNdVF7D8EeIpaK"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 283500,
-      "name": "Nitafanyaje",
-      "url": "https://open.spotify.com/track/0hmYcBy4sTrmlU7CqVWN8I"
-    },
-    {
-      "added_at": "2026-06-05 03:30:22",
-      "album": {
         "name": "Nakuja (Remix)",
         "url": "https://open.spotify.com/album/1nmpGHgVggvQHiDt0Ub338"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 245202,
       "name": "Nakuja - Remix",
       "url": "https://open.spotify.com/track/6F6GGekktwwJbjDZwkncCX"
+    },
+    {
+      "added_at": "2026-06-05 03:30:22",
+      "album": {
+        "name": "Nitafanyaje",
+        "url": "https://open.spotify.com/album/28EHJ9YuzNdVF7D8EeIpaK"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "duration_ms": 283500,
+      "name": "Nitafanyaje",
+      "url": "https://open.spotify.com/track/0hmYcBy4sTrmlU7CqVWN8I"
     },
     {
       "added_at": "2026-06-05 03:30:22",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-06-05 03:30:22",
       "album": {
+        "name": "Dar Es Salaam",
+        "url": "https://open.spotify.com/album/1zbJ41YdrJ9WuOjxcgH4hJ"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "duration_ms": 153281,
+      "name": "Dar Es Salaam",
+      "url": "https://open.spotify.com/track/5ilkB8b305bzKh3zzgs5cB"
+    },
+    {
+      "added_at": "2026-06-05 03:30:22",
+      "album": {
         "name": "Maturity EP",
         "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 270460,
       "name": "Hatujui",
       "url": "https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN"
-    },
-    {
-      "added_at": "2026-06-05 03:30:22",
-      "album": {
-        "name": "Dar Es Salaam",
-        "url": "https://open.spotify.com/album/1zbJ41YdrJ9WuOjxcgH4hJ"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        }
-      ],
-      "duration_ms": 153281,
-      "name": "Dar Es Salaam",
-      "url": "https://open.spotify.com/track/5ilkB8b305bzKh3zzgs5cB"
     },
     {
       "added_at": "2026-06-05 03:30:22",

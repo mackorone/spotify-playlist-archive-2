@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[kiara](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,226 likes - 422 songs - 20 hr 53 min
+[kiara](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,227 likes - 423 songs - 20 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -430,5 +430,6 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 420 | [Where it Hurts](https://open.spotify.com/track/0tSBgoAFCfUdridosP1S2Q) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Rebirth](https://open.spotify.com/album/64ZoM34QVrRj0zzAOqRhA7) | 2:57 |
 | 421 | [Nirvana](https://open.spotify.com/track/52etPPMjlz6NQbxTsoKlvy) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Nirvana](https://open.spotify.com/album/6KWcHp9kqhmH17dcJPhYj3) | 4:39 |
 | 422 | [FLY WITH ME](https://open.spotify.com/track/1rHTshEmjoQ1GBoQfXEXIQ) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4), [MANEDBENTO!](https://open.spotify.com/artist/3Tls1YrzO8LhdZjaG32MyH) | [FLY WITH ME](https://open.spotify.com/album/6sK9SWuKTDP0zyz9ZcKV8E) | 4:09 |
+| 423 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 |
 
-Snapshot ID: `AAAB0GsQevMiF548t9A9H7zHiSI47CDu`
+Snapshot ID: `AAAB0Z4rJ9rT2BMjpKI1RfakHFiM77Jq`

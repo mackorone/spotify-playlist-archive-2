@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 > Let these calm Jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,644,924 likes - 156 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,645,043 likes - 156 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 155 | [Haley's Comet](https://open.spotify.com/track/6l5ugDTNaJpzROfC1OLEIJ) | [Lukas Auer](https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu) | [Haley's Comet](https://open.spotify.com/album/6wVjnR2KDv2pzNKN3g7HTe) | 2:40 |
 | 156 | [Orion](https://open.spotify.com/track/5fhlriWxzZWNOCAL9z9AwG) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Orion](https://open.spotify.com/album/1yfASIKHgeXoWasPQwWMeI) | 2:04 |
 
-Snapshot ID: `AAAAABls/BSiTePzrSBhTbAexMC0klqX`
+Snapshot ID: `AAAAAFmfUV9gYCcdHoywgCm/sB93n6gi`

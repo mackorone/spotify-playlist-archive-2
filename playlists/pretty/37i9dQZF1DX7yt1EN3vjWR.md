@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 全セットリストを公開！2026年4月3日\(金\)\~4月5日\(日\)に幕張メッセで開催されたヒップホップフェスティバル『POP YOURS』の公式プレイリスト。プレイリストでセットリストを再現。
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,184 likes - 370 songs - 19 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,185 likes - 370 songs - 19 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -360,7 +360,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 350 | [違う](https://open.spotify.com/track/3UDXnCDzTv4yWO93HAJJ6E) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [違う](https://open.spotify.com/album/1uP8jI2re3s6MElvZZZuPI) | 4:27 |
 | 351 | [Visitor](https://open.spotify.com/track/4pblFz5wpV1BIM16fUVfVY) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [TIMELESS](https://open.spotify.com/album/7lY2QQlClBznftTUF1VNtg) | 2:42 |
 | 352 | [Keep Goin' Rozay](https://open.spotify.com/track/3kmxUoeuVtWSFTStU8ollP) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [TIMELESS](https://open.spotify.com/album/7lY2QQlClBznftTUF1VNtg) | 2:14 |
-| 353 | [Ma Boyz \(feat\. MIKADO, G\-k.i.d & Tete\)](https://open.spotify.com/track/2VT7foaxXwGRAmvQGOGVaL) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [G\-k.i.d](https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v), [Tete](https://open.spotify.com/artist/6iFxV1dKdvCszs4pcX1E2j) | [Ma Boyz \(feat\. MIKADO, G\-k.i.d & Tete\)](https://open.spotify.com/album/2Vy3Pdi41DbtJNzkZFDjpP) | 4:20 |
+| 353 | [Ma Boyz \(feat\. MIKADO, G\-k.i.d & Tete\)](https://open.spotify.com/track/2VT7foaxXwGRAmvQGOGVaL) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [G\-k.i.d](https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v), [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [Ma Boyz \(feat\. MIKADO, G\-k.i.d & Tete\)](https://open.spotify.com/album/2Vy3Pdi41DbtJNzkZFDjpP) | 4:20 |
 | 354 | [What I Do](https://open.spotify.com/track/2PkIUrrzOjoe2NDtQO9lZu) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [TIMELESS](https://open.spotify.com/album/7lY2QQlClBznftTUF1VNtg) | 2:34 |
 | 355 | [You & I](https://open.spotify.com/track/0JzDLRWl0bwNdNuWxuBGRO) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [TIMELESS](https://open.spotify.com/album/7lY2QQlClBznftTUF1VNtg) | 2:19 |
 | 356 | [Tell Me How It Goes](https://open.spotify.com/track/1pIsFTEz8mGw8VBzh7vtlI) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Tell Me How It Goes](https://open.spotify.com/album/0b196yyH4aO0CCRb5m1zMP) | 3:25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Tristeza latina
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,034 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,039 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 16 | [U/T](https://open.spotify.com/track/1GUxYyg4Hg49icIJC9p0qA) | [Un Viejo Arcoiris](https://open.spotify.com/artist/2DmfnifKTOqFOMBBj7pPbb) | [Hace Dos Veranos](https://open.spotify.com/album/1PRTHcesi1VKgVWtkjIS6j) | 2:47 |
 | 17 | [Jardín de Plastilina](https://open.spotify.com/track/5TlBGBCObj3AGtuwUIcJE9) | [recuerdo acariciar con miedo las alas de un ave herida](https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu) | [Muchas Formas de Decir Casa](https://open.spotify.com/album/6w90GXtYSucNXlwo19qk0u) | 3:52 |
 | 18 | [Destello](https://open.spotify.com/track/1M0QiIMZ7hR7Am3hK9Y5Vz) | [Distimia Agorafóbica](https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR) | [Todo Ocaso Resplandece y Acaba](https://open.spotify.com/album/7Mpv4BsHC0sM20F4RXXMYJ) | 5:00 |
-| 19 | [respirar en cuadro](https://open.spotify.com/track/5FH5wUNZEMJQRyYL4Fc6fg) | [Gol Olímpico](https://open.spotify.com/artist/6bLnqm1VnANrrGcZPfou2C), [Accidents](https://open.spotify.com/artist/0f2zT6pFZKYyFnFZQuZuS5) | [respirar en cuadro](https://open.spotify.com/album/3W7FUcuUTFobQkH3T8Dl5j) | 6:13 |
-| 20 | [Mera Telos & Letpig Adventure](https://open.spotify.com/track/3eUYUFu7PhhxWSIV8c3uX6) | [Incendios Forestales Del Viejo Continente](https://open.spotify.com/artist/2mwdGkikTTeufyEPUFRijJ) | [Principios Y Fundamentos De La Fauna Moderna](https://open.spotify.com/album/2QEPAzajwc62HOtrtEghxK) | 5:25 |
+| 19 | [Mera Telos & Letpig Adventure](https://open.spotify.com/track/3eUYUFu7PhhxWSIV8c3uX6) | [Incendios Forestales Del Viejo Continente](https://open.spotify.com/artist/2mwdGkikTTeufyEPUFRijJ) | [Principios Y Fundamentos De La Fauna Moderna](https://open.spotify.com/album/2QEPAzajwc62HOtrtEghxK) | 5:25 |
+| 20 | [respirar en cuadro](https://open.spotify.com/track/5FH5wUNZEMJQRyYL4Fc6fg) | [Gol Olímpico](https://open.spotify.com/artist/6bLnqm1VnANrrGcZPfou2C), [Accidents](https://open.spotify.com/artist/0f2zT6pFZKYyFnFZQuZuS5) | [respirar en cuadro](https://open.spotify.com/album/3W7FUcuUTFobQkH3T8Dl5j) | 6:13 |
 | 21 | [Monty murió por mi culpa y ahora su fantasma no deja de molestarme](https://open.spotify.com/track/1Css9p0LMeZ8v84E7tig4j) | [Angelo Con Baja Autoestima](https://open.spotify.com/artist/15eh6gwszLI2pu628n0nRx) | [Verde Color Universo](https://open.spotify.com/album/7hIp2B3nKf6iERwUkWk9IS) | 3:02 |
 | 22 | [lo que no tiene forma](https://open.spotify.com/track/5tcYqt8wdni44SB6vijp02) | [miraflores](https://open.spotify.com/artist/2gNsyO8EaIN8NcBekODo7g) | [lo que no tiene forma](https://open.spotify.com/album/3avJy5qJtoSHjiCndzhtGx) | 4:11 |
 | 23 | [Emo Mid Windows](https://open.spotify.com/track/6PomEc2OZ5FArC6NGAcZOs) | [El mejor verano de mi vida](https://open.spotify.com/artist/0eeLx3Q4FwreAyuPZLxR3n) | [El mejor verano de mi vida](https://open.spotify.com/album/5atwna2DVeRTYaSpfY3gi2) | 2:26 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 43 | [Doctrina](https://open.spotify.com/track/4c28N3w0jxzuYoqk6faW8X) | [Las Armas](https://open.spotify.com/artist/2c8uad9zaUCSYzh2K2QPi7) | [De Lo Espiritual en la Música](https://open.spotify.com/album/4h8oNmAVeEnsXroRRc2ki1) | 2:24 |
 | 44 | [3k](https://open.spotify.com/track/1B9QARNqTkzIUosalq7d7g) | [Kumatora](https://open.spotify.com/artist/22c7RZg1HnmhTs96YEJLYs) | [lo único incómodo \(es\) que nos vamos a encontrar](https://open.spotify.com/album/5QKRBZ05aG8NOQIqsz0oPx) | 1:44 |
 | 45 | [Kabuki](https://open.spotify.com/track/4Sf7foZWDZXcsiFCFKIsTC) | [Fiesta Bizarra](https://open.spotify.com/artist/4LJsadS7NTK4pjcXkNu5Zu) | [LaFlor Records Vol\. 1](https://open.spotify.com/album/6BV2gv6qZ37d4gD4eWRygX) | 1:05 |
-| 46 | [Todo es igual](https://open.spotify.com/track/6nzCwtaxALVq9ttc2hHwYT) | [Dan Taylor MX](https://open.spotify.com/artist/3XMLtLBrACQZcPO846w2Ri) | [IV](https://open.spotify.com/album/5vEJgoBOUoxPGyIFQN71k6) | 2:12 |
-| 47 | [¿Dónde Estás?](https://open.spotify.com/track/0fPKu2W9GKva9hLkab5L5p) | [Local Champion](https://open.spotify.com/artist/1GSe3n9GErzHAaPcn7fXMT) | [Todo Lo Que Siempre Quise Decirte](https://open.spotify.com/album/4ShonKGDpddXlbuTpObnro) | 2:33 |
+| 46 | [¿Dónde Estás?](https://open.spotify.com/track/0fPKu2W9GKva9hLkab5L5p) | [Local Champion](https://open.spotify.com/artist/1GSe3n9GErzHAaPcn7fXMT) | [Todo Lo Que Siempre Quise Decirte](https://open.spotify.com/album/4ShonKGDpddXlbuTpObnro) | 2:33 |
+| 47 | [Todo es igual](https://open.spotify.com/track/6nzCwtaxALVq9ttc2hHwYT) | [Dan Taylor MX](https://open.spotify.com/artist/3XMLtLBrACQZcPO846w2Ri) | [IV](https://open.spotify.com/album/5vEJgoBOUoxPGyIFQN71k6) | 2:12 |
 | 48 | [Sabado en Alemán](https://open.spotify.com/track/1Ly47nLecje8VHxml8eB9X) | [Teniente](https://open.spotify.com/artist/2gi6IsKTijDybvh79yqx5a) | [Fuseimyaku](https://open.spotify.com/album/7KNyE8ipPRD7FStCbJbzRL) | 4:13 |
 | 49 | [Riviera](https://open.spotify.com/track/08vKDopMoW4BHOrGbdWPez) | [AMBR](https://open.spotify.com/artist/46A52Keqzf0gPAfXqWLAVu) | [De Entropía](https://open.spotify.com/album/0ZSPDZ8pneDzOdzn1Zbnhg) | 1:56 |
 | 50 | [De Dios](https://open.spotify.com/track/2pvyTrY3i5N2vjKCH2w6x3) | [Contraflores](https://open.spotify.com/artist/0wGaUR9l9vGTRIRy9kjZ0x) | [De Dios](https://open.spotify.com/album/4kj1lahnGLAxqnVvThCA6y) | 3:42 |

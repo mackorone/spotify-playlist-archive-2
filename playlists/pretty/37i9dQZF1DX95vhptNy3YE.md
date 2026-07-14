@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Ciça e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,194 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,166 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 47 | [Quando Você Ligou](https://open.spotify.com/track/2kbSMgvj7H2cqnDXvDAfZS) | [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [DJ Guh Mix](https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD), [DJ Yago](https://open.spotify.com/artist/4tdmp3YXtKZU6mk91K9yJb) | [Quando Você Ligou](https://open.spotify.com/album/0QPNCXbWTQqLXSSOZqp2dh) | 3:09 |
 | 48 | [A Fila Anda \- Ao Vivo](https://open.spotify.com/track/47EEgS4GK27ZTSA82EmIWI) | [Grupo Revelação](https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw) | [Revelação 30 Anos: O Nosso Samba Virou Religião!, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/39pTNskJhORlMMPDTZY0oH) | 2:52 |
 | 49 | [Cabo de Guerra \- Ao Vivo](https://open.spotify.com/track/2XFdV3cyde4ontEM9VuBZr) | [Samba De Dom](https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm) | [Pagodom \(Ao Vivo\)](https://open.spotify.com/album/3ffLAkkIY5Vh9qsZniuf1y) | 4:17 |
-| 50 | [No Meu Club](https://open.spotify.com/track/7K9SL09rkjRVbORQULf2Qq) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [SIX.](https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr) | 1:57 |
+| 50 | [2X \(Os Caras da Rua\) \- Ao Vivo](https://open.spotify.com/track/0vb4oGpelS1gR3A8MSIcPR) | [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt), [Renan Oliveira](https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm), [Paulinho](https://open.spotify.com/artist/66WmQFOJlgpllywrKRV2w1), [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq) | [2X \(Os Caras da Rua\) \[Ao Vivo\]](https://open.spotify.com/album/4ouHiCMczVoB3r7rCkzBl2) | 2:59 |
 
 Snapshot ID: `AAAAABLVOt4DLfia8GvPNG56GZz0/S5x`

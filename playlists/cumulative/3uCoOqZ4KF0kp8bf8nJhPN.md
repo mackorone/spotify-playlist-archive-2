@@ -4,7 +4,7 @@
 
 > 
 
-328 songs - 13 hr 0 min
+329 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Nodding Off](https://open.spotify.com/track/7jd5bSsJ3pdPVDU7PdFVJL) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 5:45 | 2025-03-14 |  |
 | [NOMOTION](https://open.spotify.com/track/2jvdBpGG2TXmrNTA7SxFEP) | [kuya archive](https://open.spotify.com/artist/4QWyQK0QIBGZMLzklenwMP), [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [NOMOTION](https://open.spotify.com/album/0X4l37wfioPNxtNBvlFrGd) | 1:51 | 2025-04-11 |  |
 | [Not how it seems](https://open.spotify.com/track/0OnpNyDCOGE2gmjYZwIW5y) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB) | [Not how it seems](https://open.spotify.com/album/4m9T6ngJpEkTD48kVjbjvo) | 1:40 | 2025-05-28 |  |
+| [Nothing like uuu](https://open.spotify.com/track/3h7QZ9cXhlOoh1ywJWS8GH) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [Nothing like uuu](https://open.spotify.com/album/1pTBbzLvXEtbqFjbdQPh7G) | 1:52 | 2026-07-13 |  |
 | [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:07 | 2025-01-17 |  |
 | [oh, you don't say?!!](https://open.spotify.com/track/3xhKONvY5OfqTT5es5HpQg) | [idkwhyy](https://open.spotify.com/artist/4fipNOIWi1qnCRQRg7C0mr) | [oh, you don't say?!!](https://open.spotify.com/album/15zemNR2rRtd09VVH5YM3h) | 2:23 | 2025-05-03 |  |
 | [ON A TREE!](https://open.spotify.com/track/3y5ywnLJb9EzlbcnJZRBDV) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 2:10 | 2025-03-24 |  |

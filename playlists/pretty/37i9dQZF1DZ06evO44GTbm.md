@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44GTbm.md) - [plain]
 | 21 | [Raindrops](https://open.spotify.com/track/3EErgq0XAaJNoUPU3Xd4Dr) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [Seeing Is Forgetting](https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll) | 4:35 |
 | 22 | [How Big Is Time](https://open.spotify.com/track/20V47MWSX8TPqQ0Rudb7HQ) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Texada \(Original Score\)](https://open.spotify.com/album/6k5BAI9sWhz4wCeIXx7Qv5) | 2:12 |
 | 23 | [Blue](https://open.spotify.com/track/2vKIle8Cz6jOaRjQwpVSR3) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [The Blue of Distance](https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy) | 9:56 |
-| 24 | [Architectural Plans](https://open.spotify.com/track/2rdH4Nn2qne7ZzjTJ6YkaE) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 2:01 |
+| 24 | [Grows Along the River Fast](https://open.spotify.com/track/055kH8vTZLQDDVwZU4jmfO) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 8:50 |
 | 25 | [Drifts II](https://open.spotify.com/track/143Uu2ssw2p9to2BNXcdjV) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Drifts and Surfaces](https://open.spotify.com/album/6CRaegrVWfzQ6wneCbUoxA) | 5:28 |
-| 26 | [Grows Along the River Fast](https://open.spotify.com/track/055kH8vTZLQDDVwZU4jmfO) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 8:50 |
+| 26 | [Architectural Plans](https://open.spotify.com/track/2rdH4Nn2qne7ZzjTJ6YkaE) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 2:01 |
 | 27 | [Drifts I](https://open.spotify.com/track/7Gp8T4YlNRpXUqgnJPupSz) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Drifts and Surfaces](https://open.spotify.com/album/6CRaegrVWfzQ6wneCbUoxA) | 12:32 |
 
-Snapshot ID: `alGHgAAAAABCChJpB2DtLkQ08dMzQpHz`
+Snapshot ID: `alLZAAAAAAAUMGG/ayFmuyC2zXsBtdb2`

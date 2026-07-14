@@ -1,12 +1,12 @@
 {
   "description": "This is Zolita. The essential tracks, all in one playlist.",
-  "num_followers": 3199,
+  "num_followers": 3198,
   "original_name": "This Is Zolita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAACDgu1V7asTVZvcAb1xhcv6",
+  "snapshot_id": "alLZAAAAAABxwaqSFKo+yi5umwrSqq1J",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ruin My Life",
-        "url": "https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "Ruin My Life",
-      "url": "https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Best Ex of Your Life",
         "url": "https://open.spotify.com/album/7HRxfQtn1QyngtjAyFeUzi"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 142000,
       "name": "Best Ex of Your Life",
       "url": "https://open.spotify.com/track/2RhLKRJJq29Tvecbk63X4K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ruin My Life",
+        "url": "https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Ruin My Life",
+      "url": "https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evil Angel",
-        "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
+        "name": "Sappho",
+        "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 169871,
-      "name": "Bedspell",
-      "url": "https://open.spotify.com/track/0486NoRItdcZ1k42ErhWHG"
+      "duration_ms": 216971,
+      "name": "Come Home With Me",
+      "url": "https://open.spotify.com/track/2IUZ5ifH9R13RoK8X70lgF"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sappho",
-        "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
+        "name": "Evil Angel",
+        "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 216971,
-      "name": "Come Home With Me",
-      "url": "https://open.spotify.com/track/2IUZ5ifH9R13RoK8X70lgF"
+      "duration_ms": 169871,
+      "name": "Bedspell",
+      "url": "https://open.spotify.com/track/0486NoRItdcZ1k42ErhWHG"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Falling Out / Falling In",
-        "url": "https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb"
+        "name": "Grave",
+        "url": "https://open.spotify.com/album/1qzE9q5WIok3jj1LOiMtuQ"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 193466,
-      "name": "For the Both of Us",
-      "url": "https://open.spotify.com/track/0yOEI0VoPeo1vyWjUnglLw"
+      "duration_ms": 152226,
+      "name": "Grave",
+      "url": "https://open.spotify.com/track/5XZj0TXYvV7c34lP69peNI"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grave",
-        "url": "https://open.spotify.com/album/1qzE9q5WIok3jj1LOiMtuQ"
+        "name": "Falling Out / Falling In",
+        "url": "https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 152226,
-      "name": "Grave",
-      "url": "https://open.spotify.com/track/5XZj0TXYvV7c34lP69peNI"
+      "duration_ms": 193466,
+      "name": "For the Both of Us",
+      "url": "https://open.spotify.com/track/0yOEI0VoPeo1vyWjUnglLw"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
       "duration_ms": 143000,
       "name": "Evil Angel",
       "url": "https://open.spotify.com/track/6JOhnaA96rAc1BHgvDRp4Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Falling Out / Falling In",
-        "url": "https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "Drunk with Your Exes",
-      "url": "https://open.spotify.com/track/2EyKyp1GPK6xhJSoVi4WRk"
     },
     {
       "added_at": null,
@@ -539,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Falling Out / Falling In",
+        "url": "https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Drunk with Your Exes",
+      "url": "https://open.spotify.com/track/2EyKyp1GPK6xhJSoVi4WRk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Evil Angel",
         "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
       },
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Immaculate Conception",
-        "url": "https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 209230,
-      "name": "Kill for You",
-      "url": "https://open.spotify.com/track/1ciiCR9U41zWj3JrMfHTyi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sappho",
         "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 224445,
       "name": "New You",
       "url": "https://open.spotify.com/track/1IM5NzUgVym6ERZc2nO0a2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Immaculate Conception",
+        "url": "https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 209230,
+      "name": "Kill for You",
+      "url": "https://open.spotify.com/track/1ciiCR9U41zWj3JrMfHTyi"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Immaculate Conception",
-        "url": "https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Drug Me Now",
-      "url": "https://open.spotify.com/track/1bKyqptWUV3LYj5I7GpcPM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sappho",
         "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 244580,
       "name": "Remind Me",
       "url": "https://open.spotify.com/track/1UCYSP9JPrHQuaJYHZjiw9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Immaculate Conception",
+        "url": "https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Drug Me Now",
+      "url": "https://open.spotify.com/track/1bKyqptWUV3LYj5I7GpcPM"
     },
     {
       "added_at": null,

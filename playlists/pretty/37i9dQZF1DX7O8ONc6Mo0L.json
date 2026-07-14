@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 383082,
+  "num_followers": 383129,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -347,18 +347,22 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
-        "name": "P\u00e9s Descal\u00e7os (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7i50ZWb0o1IlMBpJl4x57G"
+        "name": "Eu e o Rei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ"
       },
       "artists": [
         {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
         }
       ],
-      "duration_ms": 443013,
-      "name": "P\u00e9s Descal\u00e7os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4VOsJRyiADQaROG2e6NZyL"
+      "duration_ms": 337525,
+      "name": "Eu e o Rei - Ao Vivo",
+      "url": "https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy"
     },
     {
       "added_at": "2026-03-13 19:15:18",
@@ -379,22 +383,18 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
-        "name": "Eu e o Rei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ"
+        "name": "P\u00e9s Descal\u00e7os (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7i50ZWb0o1IlMBpJl4x57G"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
         }
       ],
-      "duration_ms": 337525,
-      "name": "Eu e o Rei - Ao Vivo",
-      "url": "https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy"
+      "duration_ms": 443013,
+      "name": "P\u00e9s Descal\u00e7os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4VOsJRyiADQaROG2e6NZyL"
     },
     {
       "added_at": "2026-03-13 19:15:18",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
+        "name": "Ac\u00fastico Mergulhar",
+        "url": "https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+        }
+      ],
+      "duration_ms": 374096,
+      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB"
+    },
+    {
+      "added_at": "2026-03-13 19:15:18",
+      "album": {
         "name": "Acoustic Session, Vol. 01",
         "url": "https://open.spotify.com/album/1pbf0SKp7UHiOJV8dK3LPp"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 342250,
       "name": "A Casa \u00c9 Sua - Acoustic Session",
       "url": "https://open.spotify.com/track/5ROOQb6C8Tz71kJbViGSwG"
-    },
-    {
-      "added_at": "2026-03-13 19:15:18",
-      "album": {
-        "name": "Ac\u00fastico Mergulhar",
-        "url": "https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Mergulhar",
-          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
-        }
-      ],
-      "duration_ms": 374096,
-      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB"
     },
     {
       "added_at": "2026-03-13 19:15:18",

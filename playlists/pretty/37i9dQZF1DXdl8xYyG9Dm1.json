@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  6uff",
-  "num_followers": 192077,
+  "num_followers": 192102,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -983,26 +983,6 @@
     {
       "added_at": "2026-06-19 00:01:51",
       "album": {
-        "name": "Modern Fantasy",
-        "url": "https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy"
-      },
-      "artists": [
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        },
-        {
-          "name": "Raytheboffin",
-          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Modern man",
-      "url": "https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y"
-    },
-    {
-      "added_at": "2026-06-19 00:01:51",
-      "album": {
         "name": "Tontonte",
         "url": "https://open.spotify.com/album/5njbyZ86SDLuOJoHJekpsV"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 260375,
       "name": "Tontonte",
       "url": "https://open.spotify.com/track/2joZgmbvHfeypuPFBysocT"
+    },
+    {
+      "added_at": "2026-06-19 00:01:51",
+      "album": {
+        "name": "Modern Fantasy",
+        "url": "https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        },
+        {
+          "name": "Raytheboffin",
+          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Modern man",
+      "url": "https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y"
     },
     {
       "added_at": "2026-06-19 00:01:51",

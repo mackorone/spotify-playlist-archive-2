@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Curry
 
-689 songs - 1 day 15 hr 3 min
+690 songs - 1 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Mi Amor](https://open.spotify.com/track/4257sWSwAnFjI725qd4YT4) | [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Vaishnavi](https://open.spotify.com/artist/5cOsPxjOTOovRWboflO8CZ) | [Mi Amor](https://open.spotify.com/album/0GmaAGG2IIdoIhdH2rRTfX) | 3:02 | 2024-11-12 | 2025-04-18 |
 | [Middle Class](https://open.spotify.com/track/3og2Ymk1krtW30QTf8xTFV) | [MrinmayMS](https://open.spotify.com/artist/6v5DdTFX82mPM3PS0GDj0x) | [Middle Class](https://open.spotify.com/album/1lvqtLmDTND6dZ0PbUM5Uq) | 1:11 | 2026-03-13 |  |
 | [Modala Anuraagha](https://open.spotify.com/track/3DwxcZtB2OyvWa3GfWuktS) | [Praveen Srinivasmurthy](https://open.spotify.com/artist/0j797yShflaeSHwSXgvudO), [Kashi Mohan](https://open.spotify.com/artist/1augpbLYfLW0D2880tnicq), [Supriya Joshi](https://open.spotify.com/artist/5DoEZi8HmGHT8FcBP2zpsB) | [Modala Anuraagha](https://open.spotify.com/album/50vHFpFQpuXqgr1gS2Opbk) | 5:14 | 2024-02-14 | 2024-07-30 |
+| [Moha](https://open.spotify.com/track/3LouCeQBvruw6t98z5NZF1) | [Thanusha K M](https://open.spotify.com/artist/4a0PohCJlPrpCCYcCIGNj8), [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re) | [Moha](https://open.spotify.com/album/3305TUU9f36esWNU6ffNaA) | 4:01 | 2026-07-13 |  |
 | [Mokee](https://open.spotify.com/track/5Cyb1AzqZKK8DqcqzgbTCx) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09) | [Mokee](https://open.spotify.com/album/2kMIE8OMwDqQJIAmH0GiKD) | 3:32 | 2025-03-19 | 2025-10-24 |
 | [Money In The World](https://open.spotify.com/track/3mb6cmdGfriBt5WHamvtdo) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Money In The World](https://open.spotify.com/album/1cGiCtgfbtXuda2WIO41jj) | 1:30 | 2023-07-24 | 2024-02-01 |
 | [Money Minded \(feat\. Dheemusix\)](https://open.spotify.com/track/1hfUSMzucr5vntMJcuUeGm) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Money Minded \(feat\. Dheemusix\)](https://open.spotify.com/album/2Yxm0F6CH1Mcm1Rtra0AU4) | 3:04 | 2023-01-25 | 2023-08-22 |

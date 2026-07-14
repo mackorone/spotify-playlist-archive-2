@@ -2,9 +2,9 @@
 
 ### [PRIDE France](https://open.spotify.com/playlist/37i9dQZF1DX2D4YSkCZ0rP)
 
-> La playlist des artistes LGBTQIA+\. Photo : Pierre de Maere
+> La playlist des artistes LGBTQIA+\. Photo : Victor Aupecle
 
-126 songs - 6 hr 34 min
+128 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [BALLERINES DE BOURGE](https://open.spotify.com/track/2NGMnic5kVnqB12RLiEdOy) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD), [Tess Kirby](https://open.spotify.com/artist/173QAn9N2bN4CJ6LJEoeO3) | [BALLERINES DE BOURGE](https://open.spotify.com/album/1JQxGJxzNukKrEiD6jC2qY) | 2:51 | 2026-06-07 | 2026-06-22 |
 | [Beaucoup](https://open.spotify.com/track/0Ql9OMKwFzW1y8Ljx4XU26) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Beaucoup](https://open.spotify.com/album/6YdzYiE9zEmoBAslQowFBL) | 2:40 | 2026-06-07 |  |
 | [Behind A Tree](https://open.spotify.com/track/5xy6evgWUZ5nnAI9Ox6y1A) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Behind A Tree](https://open.spotify.com/album/35WEBguCyLhFI1czWxmSPn) | 4:46 | 2026-06-21 |  |
+| [Belles et Fières](https://open.spotify.com/track/4O9qqrDkmcObUGpBHpcNwy) | [The Cast of Drag Race France](https://open.spotify.com/artist/0I194yud9E8kWYVFBX95mI) | [Belles et Fières](https://open.spotify.com/album/3cP83ovdSuPppylRN1bgPi) | 3:29 | 2026-07-13 |  |
 | [bellevie](https://open.spotify.com/track/5gLrC8G7RwfxsiX2ICNZTa) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [bellevie](https://open.spotify.com/album/23vv5Kj5UbC7uT2cjbe778) | 3:01 | 2026-06-07 |  |
 | [BIAGA](https://open.spotify.com/track/6afJmqv47eUa4GfsMug5ZW) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [BIAGA](https://open.spotify.com/album/2vRpjBFNo0xnbbX4KyyJOE) | 2:10 | 2025-05-26 | 2026-06-08 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-10-18 | 2025-05-27 |
@@ -67,6 +68,7 @@
 | [I'M READY](https://open.spotify.com/track/1QZXAnAMpys425p19UWlUH) | [LUCKY LOVE](https://open.spotify.com/artist/3EApXFqJtyNGLwOVFKvhMP) | [I'M READY](https://open.spotify.com/album/0aEO7eknTMcfJJiYk0pYxN) | 3:02 | 2024-07-03 | 2024-10-19 |
 | [In Your Head \(La Di Da Da\)](https://open.spotify.com/track/6hNCCCELgZzldNHCZs4ptk) | [Nicky Doll](https://open.spotify.com/artist/4EuM3R5q2w7YIedgtQiMrj) | [APOLLO • ARTEMIS](https://open.spotify.com/album/4fyP2Rofo56yZLfS1dIOEA) | 2:47 | 2026-06-07 |  |
 | [J'tomberai pas](https://open.spotify.com/track/4wFWwZ3AYbFmeQTqAnSKgF) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Panorama](https://open.spotify.com/album/30xA05iVxdjBjfj2mKXhL5) | 3:08 | 2024-06-04 | 2026-06-08 |
+| [Je fais de mon mieux](https://open.spotify.com/track/2Vfodj5BAW4hvGdBCSm5zQ) | [Victor Aupecle](https://open.spotify.com/artist/0mHcsoJwqKXHePZRpzssvk) | [Je fais de mon mieux](https://open.spotify.com/album/3C2sUgiKo8PXIzlOLaOQm6) | 2:49 | 2026-07-13 |  |
 | [Je pense à vous](https://open.spotify.com/track/0IBFKh0F3jumRYg5nIwsCa) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Je pense à vous](https://open.spotify.com/album/7nYETPT6MTJ1UcIn1x4MFF) | 2:52 | 2026-06-07 |  |
 | [Je t'accuse](https://open.spotify.com/track/4QPBfQaSKEw56Vvo0i2XsL) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Je t'accuse](https://open.spotify.com/album/5AV57sv3V86WhdZhUTrdEh) | 2:49 | 2025-05-26 | 2026-06-08 |
 | [LA FÊTE](https://open.spotify.com/track/18xjZqxbgxxhQTqhUTAlYT) | [Barbara Butch](https://open.spotify.com/artist/2XCkEQ4EJWc27RHEr6pONs) | [LA FÊTE](https://open.spotify.com/album/5ZAtFP3eAW3s1UKZlcSS2Y) | 3:03 | 2026-06-07 | 2026-06-22 |
@@ -77,7 +79,7 @@
 | [les filles, les meufs](https://open.spotify.com/track/1aLHvqPB5CxGYzhJB7Hzo1) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [les filles, les meufs](https://open.spotify.com/album/5g6WWG1UboeBuaPXP4g9sY) | 2:59 | 2025-05-26 | 2026-06-08 |
 | [Lipstick Lover](https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Lipstick Lover](https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T) | 2:49 | 2024-06-04 | 2025-05-27 |
 | [Lola \(feat\. Nicola Sirkis\)](https://open.spotify.com/track/2UC24t5kdAucpeFtVONiYZ) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq), [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ), [Nicola Sirkis](https://open.spotify.com/artist/1GPOQdRaRdalF1ct9DKfuJ) | [Lola \(feat\. Nicola Sirkis\)](https://open.spotify.com/album/3qaG54mQkO2ekk3FNuSbKQ) | 3:01 | 2025-05-26 | 2026-06-08 |
-| [LOS ANGELES](https://open.spotify.com/track/6t2cW2HwqkgPs6Mm3TJs12) | [Loa Mercury](https://open.spotify.com/artist/6Zb2vTrIhur77yejWgHN60) | [SANS NUAGE](https://open.spotify.com/album/3eVC4NmN3o5zgmonK2wa6t) | 3:56 | 2026-07-05 |  |
+| [LOS ANGELES](https://open.spotify.com/track/6t2cW2HwqkgPs6Mm3TJs12) | [Loa Mercury](https://open.spotify.com/artist/6Zb2vTrIhur77yejWgHN60) | [SANS NUAGE](https://open.spotify.com/album/3eVC4NmN3o5zgmonK2wa6t) | 3:56 | 2026-07-05 | 2026-07-14 |
 | [LOVA](https://open.spotify.com/track/1BKiHTMrJSax72pYTOds2U) | [LUCKY LOVE](https://open.spotify.com/artist/3EApXFqJtyNGLwOVFKvhMP) | [TENDRESSE](https://open.spotify.com/album/4fWaoWaNKTYjC604wGfJ0A) | 3:39 | 2024-06-04 | 2024-07-04 |
 | [Love](https://open.spotify.com/track/0crgq6PLl60iznPz45NEHP) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [Love](https://open.spotify.com/album/0uKQKIBzN5kpJSuiybdgVt) | 2:45 | 2024-06-04 | 2026-06-08 |
 | [Love Noir](https://open.spotify.com/track/3QSfWyXeGEpEoMpufPPtot) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr), [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Love Noir](https://open.spotify.com/album/4q3khzl3yEiqMcry65Q4ZW) | 2:51 | 2026-06-07 |  |
@@ -116,7 +118,7 @@
 | [Recommence\-moi](https://open.spotify.com/track/6P3HLPsc5pWu3sZYxL0S9N) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 3:16 | 2025-05-26 | 2026-06-08 |
 | [rentrer chez moi](https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rentrer chez moi](https://open.spotify.com/album/3d8yIiEx11x64VMAbpoQcU) | 3:39 | 2024-06-04 | 2024-10-19 |
 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2024-06-04 | 2025-05-27 |
-| [salt water so sweet](https://open.spotify.com/track/4mvWkf00ysZPqFcBpPKMd8) | [Melissa Laveaux](https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO) | [at my softest i am most dangerous](https://open.spotify.com/album/0aWjRhCvvBQgXS8ZOe074m) | 4:01 | 2026-06-07 |  |
+| [salt water so sweet](https://open.spotify.com/track/4mvWkf00ysZPqFcBpPKMd8) | [Melissa Laveaux](https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO) | [at my softest i am most dangerous](https://open.spotify.com/album/0aWjRhCvvBQgXS8ZOe074m) | 4:01 | 2026-06-07 | 2026-07-14 |
 | [Show Me Love](https://open.spotify.com/track/2S8zGKKeoSwgyrVoW9Wbo3) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [Everything Tasteful](https://open.spotify.com/album/5pgnrJou1USLiQ2C1wU30o) | 2:41 | 2024-06-04 | 2025-05-27 |
 | [SLUT \( i just wanna fuck \)](https://open.spotify.com/track/2ewATJlDAVistbrs1gqU7z) | [Yanka](https://open.spotify.com/artist/5yAgNwxoOxbPpKdgaY7Ro6), [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ) | [SLUT \( i just wanna fuck \)](https://open.spotify.com/album/5UrdHHdQSdnjqeNB8wz3b7) | 2:50 | 2026-06-21 |  |
 | [Sossaup](https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:36 | 2024-06-04 | 2025-05-27 |

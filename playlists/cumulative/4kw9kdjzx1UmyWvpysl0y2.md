@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,266 songs - 2 day 22 hr 17 min
+1,267 songs - 2 day 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1066,6 +1066,7 @@
 | [Sweetheart](https://open.spotify.com/track/5RNmbFUSiWxdLq8SiJhQXu) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Equals](https://open.spotify.com/album/2yobtVPdvXpjv5oYzCX46V) | 3:22 | 2024-10-22 | 2025-01-29 |
 | [Switch On Em](https://open.spotify.com/track/4ZPU9Q0rSQLO4NZ3Wl6ivr) | [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Switch On Em](https://open.spotify.com/album/4rL8IlLaGiexJNReOAGWWb) | 3:05 | 2025-07-11 | 2025-10-07 |
 | [Sylky](https://open.spotify.com/track/5gfIjW3jXyvLAcRV8Fr2lj) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Mylky](https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2) | [Sylky](https://open.spotify.com/album/0om04yGw0cfWgvyrAxsd5S) | 2:16 | 2023-10-03 | 2024-01-18 |
+| [System Overload](https://open.spotify.com/track/5Yls2FxOVM4OD6miSkpKPs) | [Mazdem](https://open.spotify.com/artist/5HuVtqpuZlBSeQs0NLMehi) | [Monstercat Uncaged Selections 03](https://open.spotify.com/album/1wDdxMDeuJTfBACALMxT5s) | 2:43 | 2026-07-13 |  |
 | [Take 2](https://open.spotify.com/track/2SMhyjOfbnXSqbnGWkxASl) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m) | [Take 2](https://open.spotify.com/album/6dheHcTDf71XC3OEWZPIrU) | 3:48 | 2023-11-15 | 2024-02-28 |
 | [Take It Away](https://open.spotify.com/track/4yJmqZJmrXOiY3i8eWoxxq) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Take It Away](https://open.spotify.com/album/1JSiNOEHf9NjVGxQqsTM71) | 3:46 | 2022-05-05 | 2022-07-16 |
 | [Take It Back](https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Take It Back](https://open.spotify.com/album/3jYN8ZuvgXap2QtNQgl4Td) | 3:31 | 2024-01-26 | 2024-04-17 |

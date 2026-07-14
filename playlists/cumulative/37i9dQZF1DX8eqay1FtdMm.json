@@ -3767,6 +3767,24 @@
     },
     {
       "album": {
+        "name": "Haze",
+        "url": "https://open.spotify.com/album/2a8lS3EXK9D9kLDtCmzgmI"
+      },
+      "artists": [
+        {
+          "name": "slowly",
+          "url": "https://open.spotify.com/artist/4nlhwoVtGxBhaNia2znZg0"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198547,
+      "name": "Haze",
+      "url": "https://open.spotify.com/track/0Vp1xTot1eXBXLzEpphGGa"
+    },
+    {
+      "album": {
         "name": "Heartache",
         "url": "https://open.spotify.com/album/4FWBSVDxn1E0eQConJ66Qr"
       },
@@ -9200,7 +9218,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 233000,
       "name": "SUZUME",
       "url": "https://open.spotify.com/track/6qoAZFEGqZcr9oIKYV43we"

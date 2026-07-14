@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: TOM LECHEF
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,336 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,363 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 47 | [GET ON IT](https://open.spotify.com/track/5OQaJTP80UW6G6IpNKueVx) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H) | [GET ON IT](https://open.spotify.com/album/4i5aocSQ5i8ME7kFmAYBe0) | 3:07 |
 | 48 | [The Sign](https://open.spotify.com/track/21tvog0dPrmzmIqRTKFYG9) | [Flourish](https://open.spotify.com/artist/5FyEVZanhJH5rwTLxKrmJ7), [Wolf Cutt](https://open.spotify.com/artist/2tLDyyJUExjosjJrNoTqLA) | [The Sign](https://open.spotify.com/album/0I7SWNmu6IRJ58aekoxlbt) | 3:19 |
 | 49 | [Pull Up](https://open.spotify.com/track/1MMFFS8ddSQbYVBclBZTZN) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [ODF](https://open.spotify.com/artist/14Md2pjzFKO47fz1vq9KLu), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Pull Up](https://open.spotify.com/album/6bBot7gb3Uu3sqDiiusSDu) | 3:16 |
-| 50 | [Pull Up](https://open.spotify.com/track/3mlWa4kG7dOeO509aLJUfY) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [Royal\-T](https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW) | [Pull Up](https://open.spotify.com/album/0cRikIMmmZbGnJiEHmWMmW) | 3:13 |
+| 50 | [Fino](https://open.spotify.com/track/4KjEoeioaLszOZuzqmP9RA) | [Desmond](https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY), [Dréya Mac](https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP) | [Fino](https://open.spotify.com/album/55aF7PhVRfncm0eRNLzxrr) | 2:40 |
 | 51 | [Motion Sickness](https://open.spotify.com/track/1XWmqyDgC9pZfAjkgMmj18) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Motion Sickness](https://open.spotify.com/album/0WfMQgxZsTquXJbqmj4Nj8) | 3:20 |
-| 52 | [Fino](https://open.spotify.com/track/4KjEoeioaLszOZuzqmP9RA) | [Desmond](https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY), [Dréya Mac](https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP) | [Fino](https://open.spotify.com/album/55aF7PhVRfncm0eRNLzxrr) | 2:40 |
+| 52 | [Pull Up](https://open.spotify.com/track/3mlWa4kG7dOeO509aLJUfY) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [Royal\-T](https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW) | [Pull Up](https://open.spotify.com/album/0cRikIMmmZbGnJiEHmWMmW) | 3:13 |
 | 53 | [Cru](https://open.spotify.com/track/41Oa5fohSoOoJeAGXEFROw) | [TOM LECHEF](https://open.spotify.com/artist/0saQAX63InOdwPBfJhj5wd) | [Cru](https://open.spotify.com/album/5de3SMpwYt1g6z2lam3cCU) | 3:30 |
 | 54 | [Melon](https://open.spotify.com/track/3z9QZsBbiHrYi25dsxKG3M) | [Lockerz](https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN) | [Melon](https://open.spotify.com/album/6zlg3V43JYvY7HMhFsv6D3) | 3:27 |
 | 55 | [Over My Head](https://open.spotify.com/track/46ug82uA2i8Yc87Zm6BeXb) | [KING BOOO!](https://open.spotify.com/artist/4Qazcx4lvMEqKhOspj4Mb9), [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Over My Head](https://open.spotify.com/album/5vTDwhMlSxhmW3E77jYNmx) | 3:45 |

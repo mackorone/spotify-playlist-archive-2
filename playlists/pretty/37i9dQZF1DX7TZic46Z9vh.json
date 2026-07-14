@@ -1,6 +1,6 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 46585,
+  "num_followers": 46589,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-04-05 19:11:35",
       "album": {
-        "name": "Regreso al Origen",
-        "url": "https://open.spotify.com/album/64RtO5TpcdbVol35dsP4L1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ciruela",
-          "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "Regreso al Origen",
-      "url": "https://open.spotify.com/track/2IlUZ4U52jCcE5oRebAnbK"
-    },
-    {
-      "added_at": "2024-04-05 19:11:35",
-      "album": {
         "name": "Serie de Colecci\u00f3n 18 Aut\u00e9nticos \u00c9xitos Hit\u00b4s de Grupos, Vol. 2",
         "url": "https://open.spotify.com/album/3eXRb8zVCNGSWx3OHodqXB"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 115853,
       "name": "In-a-Gadda-da-Vida",
       "url": "https://open.spotify.com/track/27bwyWQYuTFwvvks3JkeF7"
+    },
+    {
+      "added_at": "2024-04-05 19:11:35",
+      "album": {
+        "name": "Regreso al Origen",
+        "url": "https://open.spotify.com/album/64RtO5TpcdbVol35dsP4L1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ciruela",
+          "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "Regreso al Origen",
+      "url": "https://open.spotify.com/track/2IlUZ4U52jCcE5oRebAnbK"
     },
     {
       "added_at": "2024-04-05 19:11:35",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-04-05 19:11:35",
       "album": {
-        "name": "El Rollo de la Fresa \u00c1cida",
-        "url": "https://open.spotify.com/album/10An8pPDBqBxhAu1g0KzKG"
-      },
-      "artists": [
-        {
-          "name": "La Fresa \u00c1cida",
-          "url": "https://open.spotify.com/artist/7CmYoo2ydmPuGMVTIX4eUp"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "Flores en Tu Pelo (Sn. Francisco \"Flowers In Your Hair\")",
-      "url": "https://open.spotify.com/track/6V9FnhQ6JwhFabU2CHNbcN"
-    },
-    {
-      "added_at": "2024-04-05 19:11:35",
-      "album": {
         "name": "El Ritual",
         "url": "https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 234498,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir"
+    },
+    {
+      "added_at": "2024-04-05 19:11:35",
+      "album": {
+        "name": "El Rollo de la Fresa \u00c1cida",
+        "url": "https://open.spotify.com/album/10An8pPDBqBxhAu1g0KzKG"
+      },
+      "artists": [
+        {
+          "name": "La Fresa \u00c1cida",
+          "url": "https://open.spotify.com/artist/7CmYoo2ydmPuGMVTIX4eUp"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "Flores en Tu Pelo (Sn. Francisco \"Flowers In Your Hair\")",
+      "url": "https://open.spotify.com/track/6V9FnhQ6JwhFabU2CHNbcN"
     },
     {
       "added_at": "2024-04-05 19:11:35",

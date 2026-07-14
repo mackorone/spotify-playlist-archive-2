@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Pan\-Pot
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,223 likes - 90 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,311 likes - 90 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 71 | [Orages](https://open.spotify.com/track/1L0hqrZM2FEuiIrquTG8aq) | [Joris Delacroix](https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1), [PACT](https://open.spotify.com/artist/5EDgmVBq5IjxAumbWRazCA) | [Orages](https://open.spotify.com/album/7dmsg0zuOtzMmhV4QhTvc5) | 3:45 |
 | 72 | [Satisfy My Soul](https://open.spotify.com/track/6pVBHHLrSlsZ05bJMCJSy1) | [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Satisfy My Soul](https://open.spotify.com/album/3R78xxXlZUHLk7ySPLg6TK) | 2:39 |
 | 73 | [No Good](https://open.spotify.com/track/5J3MQ84TiCjqitj3cjcMrG) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [No Good](https://open.spotify.com/album/6QJnrQ9ISrVznM40ttFqpd) | 3:46 |
-| 74 | [Addicted To Lies](https://open.spotify.com/track/1IdhGrwGyVecu7b1ZUvueH) | [Skuro \(IT\)](https://open.spotify.com/artist/1IhNa18PPS7VIpz8LNaIHJ) | [Addicted To Lies](https://open.spotify.com/album/5WGRS1iN3eVJjuKVilBdZV) | 3:29 |
+| 74 | [Addicted To Lies](https://open.spotify.com/track/1IdhGrwGyVecu7b1ZUvueH) | [Skuro \(IT\)](https://open.spotify.com/artist/1IhNa18PPS7VIpz8LNaIHJ), [NIKITA](https://open.spotify.com/artist/1t209pHtHfFUWWgxJpHZhk) | [Addicted To Lies](https://open.spotify.com/album/5WGRS1iN3eVJjuKVilBdZV) | 3:29 |
 | 75 | [Falling](https://open.spotify.com/track/65DRXQnLaTX9GYx2avtx1x) | [Nico Morano](https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz), [Paul Brenning](https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6) | [Falling](https://open.spotify.com/album/60qxIzRnfGFFWeOsZ066RN) | 4:39 |
 | 76 | [Hail From Mali](https://open.spotify.com/track/4hTBLho8z5pCohCFwllQhG) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [NenaHalena](https://open.spotify.com/artist/23iRCK9958IO0IMtIvAAJq), [Wassolou Benkain](https://open.spotify.com/artist/25UWWgCDnt0marGRT3mNg3) | [Hail From Mali](https://open.spotify.com/album/2jdEsd3shisnzOHpXFfzFF) | 3:42 |
 | 77 | [Lost In The Ocean \- Pan\-Pot Remix](https://open.spotify.com/track/4DJDoYZfrDGTknSbA01dGW) | [Mona Chrome](https://open.spotify.com/artist/5bu1zB9HX3sW2yUNVjQQbT), [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [Lost In The Ocean](https://open.spotify.com/album/2PSxzbFYLrVhxYYwZPw07b) | 3:38 |

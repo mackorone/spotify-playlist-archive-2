@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWf4OkNlfxR.md) - [plain]
 
 > The Official Setlist for the Harry Styles \| Together, Together Tour
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,409 likes - 21 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,714 likes - 21 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

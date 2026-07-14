@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Sinan Akçıl, Enes Yolcu, KERRO
 
-654 songs - 1 day 9 hr 11 min
+655 songs - 1 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Babil](https://open.spotify.com/track/53DRdoRp8ihlGH2XZwqv6a) | [Nil Karaibrahimgil](https://open.spotify.com/artist/1PpRPZXSS5ka7m5NW2TO7q) | [Babil](https://open.spotify.com/album/5laJzLzpppiMQo5EvwTMc7) | 2:20 | 2024-11-28 | 2024-12-30 |
 | [Badem](https://open.spotify.com/track/2x3Sioq1PLzQmomVYvXaui) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Badem](https://open.spotify.com/album/5NhE8aUF0EHa5lh9YijL8B) | 3:43 | 2025-08-21 | 2025-09-02 |
 | [Bahanesi Yok](https://open.spotify.com/track/44MZe5MnxxXKHngM74p40n) | [Mustafa Mert Koç](https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi) | [Bahanesi Yok](https://open.spotify.com/album/6w6QjuKQXtk9jH4ME4rCVE) | 2:55 | 2026-06-12 |  |
+| [Bak Dönüyor Dünya](https://open.spotify.com/track/3RdKD3wm6kek88IA63CTnl) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bak Dönüyor Dünya](https://open.spotify.com/album/12CMUzJenwQUW0khZBysNs) | 2:42 | 2026-07-09 |  |
 | [Baksana Bana](https://open.spotify.com/track/5u5aUcPR8ldDForXsAAtqP) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Baksana Bana](https://open.spotify.com/album/0SRLj5x7TcO8LbS65oPzbF) | 3:13 | 2024-11-21 | 2024-12-06 |
 | [Bal](https://open.spotify.com/track/0Dj36bCRSouqzx8wHwB9dR) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Bal](https://open.spotify.com/album/33CZvHcrejXTOA7lx1Nb7D) | 4:25 | 2024-06-27 | 2024-10-29 |
 | [Bal Böceği](https://open.spotify.com/track/4P1xU6Qiz34UknVAV1kdin) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC) | [Bal Böceği](https://open.spotify.com/album/4Sw0ElAaK2JH9e9ROh2tlf) | 2:18 | 2025-09-25 | 2026-05-29 |
@@ -406,7 +407,7 @@
 | [Mevzu Derin](https://open.spotify.com/track/5VGWEPtPUKqjQwGO1Pyz2r) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Mevzu Derin](https://open.spotify.com/album/1NVVh17oO9OQDmja5mPMTV) | 2:55 | 2024-10-24 | 2024-12-12 |
 | [Misafir](https://open.spotify.com/track/0S1U1NW1XX8nB6E6HVBxuG) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Misafir](https://open.spotify.com/album/4SVsB40go4tAWhiKweWiwP) | 2:32 | 2026-04-16 |  |
 | [Mucize](https://open.spotify.com/track/6zfnaEJ1e2pQULGX5Qm3to) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Mucize](https://open.spotify.com/album/3rLShAcaMZZls5uZx7bPE4) | 2:37 | 2025-06-19 | 2025-09-28 |
-| [Mutlu Bir Son](https://open.spotify.com/track/1KTXMmoHI17NnUWhhtj5qq) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Anlatasım Var](https://open.spotify.com/album/2qMIz3YNB30GPbj6hTurWQ) | 3:07 | 2025-11-06 |  |
+| [Mutlu Bir Son](https://open.spotify.com/track/1KTXMmoHI17NnUWhhtj5qq) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Anlatasım Var](https://open.spotify.com/album/2qMIz3YNB30GPbj6hTurWQ) | 3:07 | 2025-11-06 | 2026-07-14 |
 | [Müdavim](https://open.spotify.com/track/53VNTMgC3ERPW8k4rgXYE4) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Müdavim](https://open.spotify.com/album/1nnTqKDTO9fQjkFyzxnv5j) | 3:34 | 2024-11-28 | 2024-12-04 |
 | [Müebbet](https://open.spotify.com/track/0SrplhrELBctlVPi8CtAxC) | [İntizar](https://open.spotify.com/artist/3mv52kRne0G5Las6jClwj0) | [Müebbet](https://open.spotify.com/album/1TSUc8a0Fl33MFREhmsOgV) | 3:09 | 2026-05-14 | 2026-05-23 |
 | [Müptelanım Bilgine](https://open.spotify.com/track/1jypLgDWOBOJe6BgO8FWzo) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP) | [Müptelanım Bilgine](https://open.spotify.com/album/0wnXAeVnoF5hmh3kqKq4ka) | 3:44 | 2024-11-28 | 2025-01-11 |

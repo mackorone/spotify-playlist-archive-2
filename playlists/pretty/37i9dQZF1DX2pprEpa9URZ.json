@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 913580,
+  "num_followers": 913681,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-04-06 12:35:10",
       "album": {
+        "name": "Bahar",
+        "url": "https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Bahar",
+      "url": "https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj"
+    },
+    {
+      "added_at": "2026-04-06 12:35:10",
+      "album": {
         "name": "Maithori",
         "url": "https://open.spotify.com/album/1BuOAjhPeakuaULbB4sWL9"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 182000,
       "name": "Maithori",
       "url": "https://open.spotify.com/track/5FMsc3sFLmZKxgo73GqOq7"
-    },
-    {
-      "added_at": "2026-04-06 12:35:10",
-      "album": {
-        "name": "Bahar",
-        "url": "https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Bahar",
-      "url": "https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj"
     },
     {
       "added_at": "2026-04-06 12:35:10",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-04-06 12:35:10",
       "album": {
+        "name": "Se Va, Se Va",
+        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 449509,
+      "name": "Se Va, Se Va",
+      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
+    },
+    {
+      "added_at": "2026-04-06 12:35:10",
+      "album": {
         "name": "I See The Sun",
         "url": "https://open.spotify.com/album/4etM1UCLaOIDvemwbX1x3w"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 245000,
       "name": "I See The Sun",
       "url": "https://open.spotify.com/track/5VDeDeUUar6zrLw3XZAdCX"
-    },
-    {
-      "added_at": "2026-04-06 12:35:10",
-      "album": {
-        "name": "Se Va, Se Va",
-        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 449509,
-      "name": "Se Va, Se Va",
-      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
     },
     {
       "added_at": "2026-04-06 12:35:10",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2026-04-06 12:35:10",
       "album": {
-        "name": "Casablanca",
-        "url": "https://open.spotify.com/album/2G4vviYLIiVAspd8iGdihA"
-      },
-      "artists": [
-        {
-          "name": "Lilya Mandre",
-          "url": "https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW"
-        },
-        {
-          "name": "VXSION",
-          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
-        }
-      ],
-      "duration_ms": 285148,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/1Am4yQgjawTWCy3dZsNWpJ"
-    },
-    {
-      "added_at": "2026-04-06 12:35:10",
-      "album": {
         "name": "Asalam Alaikum",
         "url": "https://open.spotify.com/album/0Ujw0Jt3rQlsEkH16pcXXw"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 303386,
       "name": "Asalam Alaikum",
       "url": "https://open.spotify.com/track/2KexuBVRYdXFQdbVM2wqxO"
+    },
+    {
+      "added_at": "2026-04-06 12:35:10",
+      "album": {
+        "name": "Casablanca",
+        "url": "https://open.spotify.com/album/2G4vviYLIiVAspd8iGdihA"
+      },
+      "artists": [
+        {
+          "name": "Lilya Mandre",
+          "url": "https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW"
+        },
+        {
+          "name": "VXSION",
+          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
+        }
+      ],
+      "duration_ms": 285148,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/1Am4yQgjawTWCy3dZsNWpJ"
     },
     {
       "added_at": "2026-04-06 12:35:10",
@@ -1507,22 +1507,18 @@
     {
       "added_at": "2026-04-06 12:35:10",
       "album": {
-        "name": "K\u2019in Tuun",
-        "url": "https://open.spotify.com/album/3Xr2PaTLmVudrkdYGLNaVM"
+        "name": "Quem Sou Eu",
+        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
       },
       "artists": [
         {
-          "name": "Bahri Bekil",
-          "url": "https://open.spotify.com/artist/3VXsrd84vzoeNiVgonCBlL"
-        },
-        {
-          "name": "R\u00dcKIN",
-          "url": "https://open.spotify.com/artist/01Ey4GfEPWZBQVFyAdcXaq"
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
         }
       ],
-      "duration_ms": 180093,
-      "name": "K\u2019in Tuun",
-      "url": "https://open.spotify.com/track/2uhluQrSPTK4rkU9aZOiYE"
+      "duration_ms": 328912,
+      "name": "Quem Sou Eu",
+      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
     }
   ],
   "unique_name": "Org\u00e1nica",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The Ultimate EA SPORTS FC Spain Playlist: bringing together the sounds of Spain in celebration of The World's Game\. Curated specially for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,446 likes - 27 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,394 likes - 27 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,19 +15,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 5 | [Moving](https://open.spotify.com/track/2wvmkXG4foIJ2xUiwLhBjA) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Puerto Presente](https://open.spotify.com/album/0NfmXeIvmXywovqG2uGVpr) | 3:19 |
 | 6 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 |
 | 7 | [Aloha](https://open.spotify.com/track/0GARcbxLIOmzrs0lHpuvmi) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aloha](https://open.spotify.com/album/23T1akaF3cPN6Pp27JQ8vi) | 3:07 |
-| 8 | [Seguimos](https://open.spotify.com/track/1MrRrD8A0aUdRcuAhCh1Ui) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Seguimos](https://open.spotify.com/album/40X3bp854vux6RGS2BEQtU) | 4:48 |
-| 9 | [Nací Orishas](https://open.spotify.com/track/4wdbtgDHBcCk6jDNavvnLw) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [El Kilo](https://open.spotify.com/album/1FrqlQVSibjEyPChfwXmaK) | 4:56 |
-| 10 | [Love Natural](https://open.spotify.com/track/6wpx4u1PeQlXEvZMPQ49sU) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Cave Rave](https://open.spotify.com/album/68K5LJ1pOR3KcuVP8hw3RP) | 3:19 |
+| 8 | [Nací Orishas](https://open.spotify.com/track/4wdbtgDHBcCk6jDNavvnLw) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [El Kilo](https://open.spotify.com/album/1FrqlQVSibjEyPChfwXmaK) | 4:56 |
+| 9 | [Love Natural](https://open.spotify.com/track/6wpx4u1PeQlXEvZMPQ49sU) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Cave Rave](https://open.spotify.com/album/68K5LJ1pOR3KcuVP8hw3RP) | 3:19 |
+| 10 | [Seguimos](https://open.spotify.com/track/1MrRrD8A0aUdRcuAhCh1Ui) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Seguimos](https://open.spotify.com/album/40X3bp854vux6RGS2BEQtU) | 4:48 |
 | 11 | [Vive la vida](https://open.spotify.com/track/7lHeWCRwTmwe1Pzro8sJFk) | [Gusanito](https://open.spotify.com/artist/7cHey6Cgv29faMEHfEQu5j) | [Grandes éxitos](https://open.spotify.com/album/30pc2z0Xew0HDN6Xm6SGvP) | 3:13 |
 | 12 | [SCORPION](https://open.spotify.com/track/0wnvDdOhIhzxfELTPBJx57) | [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY) | [SCORPION](https://open.spotify.com/album/33MbKPzMLUCQHYHPeJJbKK) | 3:24 |
 | 13 | [Losing You \- Baio Remix](https://open.spotify.com/track/77AZGHtsg2byhvloBbpPSx) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj), [Baio](https://open.spotify.com/artist/50lhyY7UVI9NyVHl79rVgk) | [Losing You \(Baio Remix\)](https://open.spotify.com/album/4eoMfOkwDTj7e7Ir9Bo1hH) | 5:35 |
-| 14 | [En Forma](https://open.spotify.com/track/3YULPlrZVxe6T40gUP8E7w) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [VIVA HINDS](https://open.spotify.com/album/4XQwD29zcKWF5TUKjYACaN) | 3:48 |
-| 15 | [Another Level](https://open.spotify.com/track/01gdZsRoaxG5cCZ6ivGcBd) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Another Level](https://open.spotify.com/album/6LuluaWmz0Sfb1s1EJRFdP) | 3:06 |
+| 14 | [Another Level](https://open.spotify.com/track/01gdZsRoaxG5cCZ6ivGcBd) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Another Level](https://open.spotify.com/album/6LuluaWmz0Sfb1s1EJRFdP) | 3:06 |
+| 15 | [En Forma](https://open.spotify.com/track/3YULPlrZVxe6T40gUP8E7w) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [VIVA HINDS](https://open.spotify.com/album/4XQwD29zcKWF5TUKjYACaN) | 3:48 |
 | 16 | [Una Sola Voz](https://open.spotify.com/track/0w8Cl2ZUpE4uoOVNZ5DYVD) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [El Murmullo Del Fuego](https://open.spotify.com/album/74IZPV6CB1eAWgm1e7TBgq) | 3:26 |
 | 17 | [Get Down](https://open.spotify.com/track/5pEZh7HyU4y3Xj6udVsL4u) | [Carlos Jean](https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA) | [Mr Miracle](https://open.spotify.com/album/2hzaPJF24H3LnBteWxN3td) | 3:32 |
 | 18 | [Cientos De Preguntas](https://open.spotify.com/track/3Tw6wsnqcBabS9SKDX3HXw) | [Sôber](https://open.spotify.com/artist/3Y2UMfxP15qisezhYgjTKN) | [Reddo](https://open.spotify.com/album/1pG9g7FPXI4kOUGjvv4xZB) | 3:43 |
-| 19 | [Drive Me](https://open.spotify.com/track/4FxOAj1L7plvcF0Ll8Th9U) | [Najwajean](https://open.spotify.com/artist/6cygtyj4D0riFvZSzm8UTR) | [Till It Breaks](https://open.spotify.com/album/6I8WNpsIOtKhH0gqtnImCm) | 5:41 |
-| 20 | [Follow](https://open.spotify.com/track/0ux2EioEe5Fw07rXYRUSTz) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star Of Love](https://open.spotify.com/album/00v21bgN2da5KonMWEAMec) | 3:14 |
+| 19 | [Follow](https://open.spotify.com/track/0ux2EioEe5Fw07rXYRUSTz) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star Of Love](https://open.spotify.com/album/00v21bgN2da5KonMWEAMec) | 3:14 |
+| 20 | [Drive Me](https://open.spotify.com/track/4FxOAj1L7plvcF0Ll8Th9U) | [Najwajean](https://open.spotify.com/artist/6cygtyj4D0riFvZSzm8UTR) | [Till It Breaks](https://open.spotify.com/album/6I8WNpsIOtKhH0gqtnImCm) | 5:41 |
 | 21 | [Hacen falta dos](https://open.spotify.com/track/5qk4Lrp59mTgS3mFV1DTl9) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Puerto Presente](https://open.spotify.com/album/6NxKGBZnWEeOajXC5hnb8i) | 3:54 |
 | 22 | [Sampleame](https://open.spotify.com/track/5lavcMev0NOpWTprBIpwcd) | [The Pinker Tones](https://open.spotify.com/artist/0Iojk2fr06Az0SzIoiO1vM) | [Modular](https://open.spotify.com/album/6VtSM9WtAXeywtQqTTAvh7) | 3:36 |
 | 23 | [Jugadoras,Jugadores](https://open.spotify.com/track/6uuqfE90P991leVbQ0ClKU) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Alevosía \(Explicit Version\)](https://open.spotify.com/album/15bRkuyGkxKTvSKCfeVQOZ) | 5:41 |

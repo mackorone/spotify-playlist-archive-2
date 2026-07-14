@@ -4,12 +4,13 @@
 
 > شيلات تشيل الليلة\. الغلاف: بندر بن عوير
 
-290 songs - 19 hr 21 min
+291 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Agblt Bghala](https://open.spotify.com/track/3HISZkVKGdicqfeytw8WRL) | [Ziyad Al Zahem](https://open.spotify.com/artist/6X48LcVZiaJrHUdyhikE08) | [Agblt Bghala](https://open.spotify.com/album/6ovX8eybx62I2LQe9Va6Jh) | 4:16 | 2023-02-22 | 2024-05-10 |
 | [Alek Akhaf](https://open.spotify.com/track/2BRQStJtGN03JujyZd2faL) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Alek Akhaf](https://open.spotify.com/album/7e0KX9hQhk5VIFo3YoTPSA) | 3:28 | 2024-02-29 |  |
+| [Altohfah Al Ajeiah](https://open.spotify.com/track/60CvKpS9Po7Bj0Gh7vaYhD) | [Malek Alhurise](https://open.spotify.com/artist/6jGfkUHsmkbBolEPFkOdpl), [Abdulrahman Al Ebeiwey](https://open.spotify.com/artist/1wO38HaJWF0vgM8Jiw9V4L) | [Altohfah Al Ajeiah](https://open.spotify.com/album/2Q1L4wy7Xebb8g50K4x1EA) | 3:06 | 2026-07-13 |  |
 | [Argeb Lega](https://open.spotify.com/track/2p47AbcWY2wDKC1RjEX4jA) | [Zayed Bin Saber](https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs) | [Argeb Lega](https://open.spotify.com/album/20pQj78Ek0kM2clAVKCPsi) | 3:45 | 2023-11-17 | 2023-12-06 |
 | [Arjaa Ant](https://open.spotify.com/track/0GzSAq6B9D4A3olcU1HVsM) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Arjaa Ant](https://open.spotify.com/album/3SUUhb8d6mTWgOyteHMygk) | 4:27 | 2026-01-26 |  |
 | [Atmna Shoftak](https://open.spotify.com/track/5XARFcDeJmdjBTZXGDmUNJ) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Atmna Shoftak](https://open.spotify.com/album/1zu44llZrXAdX0XQgTDSxF) | 2:52 | 2023-02-22 |  |
@@ -250,7 +251,7 @@
 | [ناس غداره](https://open.spotify.com/track/5bPtrvFUxWFIjpxvlvB7mH) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [ناس غداره](https://open.spotify.com/album/56uwlCTBtL3laF34jUmiOh) | 4:08 | 2022-03-30 | 2022-11-02 |
 | [نظرته قتالة](https://open.spotify.com/track/7DHZR2oLRk4E78BLcsStej) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [نظرته قتالة](https://open.spotify.com/album/1BD5Jn39AJStfjxJlrv2B3) | 3:26 | 2023-11-14 | 2024-12-20 |
 | [هذا سنابي](https://open.spotify.com/track/3doZhyrtZ1p1ofO0hAp1Ve) | [ابو حنظله](https://open.spotify.com/artist/6VKZZWZui2euVAS6CbIbbj) | [هذا سنابي](https://open.spotify.com/album/2qJ04Mg4Xe8zhQTjB34slE) | 3:20 | 2023-07-11 | 2024-04-11 |
-| [هذي السعودية](https://open.spotify.com/track/2ALbR9ZUg2ZCyvSKLUj8iU) | [فهد بن جازع](https://open.spotify.com/artist/7zomIMNBDA13luA3e2VZZH) | [هذي السعودية](https://open.spotify.com/album/7zoH3dM5vkCTk813x4g49z) | 4:29 | 2025-09-22 |  |
+| [هذي السعودية](https://open.spotify.com/track/2ALbR9ZUg2ZCyvSKLUj8iU) | [فهد بن جازع](https://open.spotify.com/artist/7zomIMNBDA13luA3e2VZZH) | [هذي السعودية](https://open.spotify.com/album/7zoH3dM5vkCTk813x4g49z) | 4:29 | 2025-09-22 | 2026-07-14 |
 | [هزتك الطواري](https://open.spotify.com/track/1J4dgHB8BPkch94uf6xdMg) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg), [فالح بن فصلا](https://open.spotify.com/artist/1DHRyIdhWKNu1nQzLP1A1T) | [هزتك الطواري](https://open.spotify.com/album/7sOTNZnBic4iN1MOp2X6WV) | 3:08 | 2026-04-23 |  |
 | [هويتك](https://open.spotify.com/track/2wCwMq1udMs7TbMpFg13D2) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [هويتك](https://open.spotify.com/album/2OX0k9xbA3TaBCL5NWl3mN) | 3:37 | 2022-08-31 | 2023-03-15 |
 | [هويتك](https://open.spotify.com/track/6U7cxsbmsvF0NRssvWBWid) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep), [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [هويتك](https://open.spotify.com/album/5YCf0zGLkiAv7vE13eP859) | 3:37 | 2022-03-30 | 2022-11-03 |

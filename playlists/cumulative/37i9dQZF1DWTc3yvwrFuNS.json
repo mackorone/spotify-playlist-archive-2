@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Rels B - Spotify Live Room",
+        "url": "https://open.spotify.com/album/42xIr4vHShxAWnsIFmmG0N"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157564,
+      "name": "LLEVA AL SOL (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/3ukh2uh6yuHuyrYhiq0No8"
+    },
+    {
+      "album": {
         "name": "Olivia Dean - Spotify Live Room",
         "url": "https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX"
       },
@@ -356,6 +374,24 @@
       "duration_ms": 281583,
       "name": "My Blue - (Spotify OUTSIDE Version) - Live From Austin, TX",
       "url": "https://open.spotify.com/track/4Asuxhd6MyV09hg8968rz7"
+    },
+    {
+      "album": {
+        "name": "Rels B - Spotify Live Room",
+        "url": "https://open.spotify.com/album/42xIr4vHShxAWnsIFmmG0N"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144021,
+      "name": "PA\u00d1UELITO DE SEDA (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/36LheLzOGQecNf5h10MmjB"
     },
     {
       "album": {

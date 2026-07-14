@@ -4,7 +4,7 @@
 
 > Hip\-hop hits only\. Music videos only available on Premium.
 
-61 songs - 3 hr 28 min
+62 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Big Dawgs](https://open.spotify.com/track/6u94evMWCToFG9pwEPZ3gI) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6wkd68ryjF7uuUrMTG9iY5) | 3:54 | 2025-12-09 |  |
 | [Big Energy](https://open.spotify.com/track/2SVaLNAPb15vnkwv40u5sc) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/5MrU5xtIT0a7LZYDxDClR0) | 3:21 | 2025-12-09 | 2026-06-23 |
 | [Blick Blick](https://open.spotify.com/track/6v4pVSkyOXL3nOXzPJ8r8O) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Blick Blick](https://open.spotify.com/album/6etIolgwICygZOazhrRLnj) | 2:58 | 2025-12-09 |  |
-| [Breathe](https://open.spotify.com/track/0M68GE694Iyzearl93bIhV) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Breathe](https://open.spotify.com/album/2A4NQQ1eRAPaX6f2z3SqYc) | 2:50 | 2025-12-09 |  |
+| [Breathe](https://open.spotify.com/track/0M68GE694Iyzearl93bIhV) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Breathe](https://open.spotify.com/album/2A4NQQ1eRAPaX6f2z3SqYc) | 2:50 | 2025-12-09 | 2026-07-14 |
 | [Come & Go](https://open.spotify.com/track/29UocD5ZcszfHj87s1mqiD) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Come & Go](https://open.spotify.com/album/28i9LjqRXyudh3hYRkxuJP) | 3:32 | 2025-12-09 |  |
 | [Dark Thoughts](https://open.spotify.com/track/0dPRqFuiUV32vDdNDby3TX) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/2bvBRbbDepD3vl8FMX2kDd) | 2:35 | 2025-12-09 |  |
 | [Did It First](https://open.spotify.com/track/5UXg5G7hJqeeKdCX0zbKsp) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First](https://open.spotify.com/album/1u4jMFc5cdBFgRVSVOFCel) | 2:06 | 2025-12-09 |  |
@@ -51,6 +51,7 @@
 | [Shabang](https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:08 | 2026-05-26 |  |
 | [SkeeYee](https://open.spotify.com/track/6muHHIwOi1mGGcqV8b34Gj) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SkeeYee](https://open.spotify.com/album/5dsb2MEXRCZkZAdqQ3olcl) | 3:16 | 2025-12-09 |  |
 | [So Be It](https://open.spotify.com/track/2FqmvgPLashbibERULndOv) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [So Be It](https://open.spotify.com/album/4QhX24n7J1Xjc5Joh6GTF5) | 3:18 | 2026-01-27 |  |
+| [Spend Dat](https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Spend Dat](https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC) | 3:01 | 2026-07-13 |  |
 | [Sprinter](https://open.spotify.com/track/1GBzfoHf4FfustFKKMI5gM) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/0PfbItXP9ZeQ4P7QuODYX5) | 3:49 | 2025-12-09 |  |
 | [Sugar On My Tongue](https://open.spotify.com/track/5NUHcOdBIhbq9K2ksWEjhh) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Sugar On My Tongue](https://open.spotify.com/album/7vqUPziG3E5XenIIiRoJvQ) | 2:44 | 2025-12-09 |  |
 | [Super Freaky Girl](https://open.spotify.com/track/2gJjdDDe0LYCNUrhxEERrC) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/1fNEdMjkD1VmcoqpHXGode) | 2:51 | 2025-12-09 |  |

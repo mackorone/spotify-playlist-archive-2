@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-536 songs - 1 day 6 hr 23 min
+538 songs - 1 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2026-05-13 | 2026-06-14 |
 | [Sotto la Pioggia](https://open.spotify.com/track/1E5cfhHQzQEGFrkCLCoJYK) | [Vacant Age](https://open.spotify.com/artist/4oRYX3WgCNT4BzcKXxLXPq) | [Sotto la Pioggia](https://open.spotify.com/album/2P2iK8WQH5ziCz9z91QcaC) | 3:16 | 2025-12-24 | 2026-01-15 |
 | [Soul'd Off](https://open.spotify.com/track/5yDps6fyhd80oH6xFhZioi) | [Corey Drumz](https://open.spotify.com/artist/1FahdwAmCrNJVrH1rHGlML) | [Soul'd Off](https://open.spotify.com/album/3UZUOsT9cTRr5jxbbf6Wfo) | 3:56 | 2026-05-26 | 2026-07-02 |
+| [Soy Bitcoin](https://open.spotify.com/track/1En4oVInBsxbcnnhJqnqxM) | [Marcoo](https://open.spotify.com/artist/78r09t3sUYBpJSrYZqeAxb) | [Fomo](https://open.spotify.com/album/6JSwfaJHoJzy5GTSugAv5t) | 2:58 | 2026-07-13 |  |
 | [Spacing Out](https://open.spotify.com/track/77fhoJzb7s4oSw7zIrZNyz) | [JTL](https://open.spotify.com/artist/6DZYmpRaYs36tOF2w4RRrN) | [Spacing Out](https://open.spotify.com/album/4e7aOzK90rVVOHI10ogtGd) | 2:46 | 2026-05-19 | 2026-06-14 |
 | [Special Request](https://open.spotify.com/track/32S5hZP2vnB2Lw49ZkZhvb) | [Kool Breed](https://open.spotify.com/artist/4Ul0KjB1HMg6ozrWCZOc28) | [Special Request Tape](https://open.spotify.com/album/6s4mnxf3T0QNppxWnwwAyQ) | 4:24 | 2026-05-19 | 2026-06-14 |
 | [Spell On Me](https://open.spotify.com/track/1dU5H0mipa2uHxMOPVRSBr) | [Visiion](https://open.spotify.com/artist/1iGd2vsZFEL1h6APTFqSKC) | [Spell On Me](https://open.spotify.com/album/5cmBf5CAACoNL4ZfKrbKAr) | 1:53 | 2026-05-19 | 2026-06-14 |
@@ -520,6 +521,7 @@
 | [WIFE YOU UP](https://open.spotify.com/track/0Hg2N59MLGTo588NK6DHC9) | [Yenn](https://open.spotify.com/artist/6QRKylVfrExn0cIOQzpAIp), [Mayn](https://open.spotify.com/artist/3Bm2qmss0lQDGCO0NoH2zX), [OhMyGon!](https://open.spotify.com/artist/24Yd7vBTT9pEYgOw9Cs2Pj) | [WIFE YOU UP](https://open.spotify.com/album/2YqQ3pZFbtlgvM0li5R7p0) | 2:18 | 2025-11-10 | 2025-12-01 |
 | [With Me or Not](https://open.spotify.com/track/4HEA6mMR5amsP0cs0zMff3) | [ADAD Audio](https://open.spotify.com/artist/5E6ZCRSMAyeT15BqrWOdy5) | [With Me or Not](https://open.spotify.com/album/0SHyYqd5du5q3RPXchBD6l) | 2:55 | 2026-01-13 | 2026-02-21 |
 | [WITHOUT A RUSH](https://open.spotify.com/track/5wERfkI6PVJx5TNLBHD9Gj) | [Twmmy](https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx) | [WITHOUT A RUSH](https://open.spotify.com/album/3mlm8T34g8ulynQ4JPbnok) | 4:24 | 2026-04-27 |  |
+| [WITHOUT A RUSH](https://open.spotify.com/track/6ZBbGUG2MtXgcWzfLX2KPX) | [Twmmy](https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx) | [IS IT STILL IN ME?](https://open.spotify.com/album/1CnOt3j4Oxhu2Iy81TrpXJ) | 4:24 | 2026-07-13 |  |
 | [Without The Kiss](https://open.spotify.com/track/415RGDjNwmsNR7RgUE8VOC) | [Crimson Crow](https://open.spotify.com/artist/7mFL33QnjafnM1J1456vsX) | [Reflection](https://open.spotify.com/album/51Z96Q16vCgmoPsic84Ewf) | 4:46 | 2026-03-01 | 2026-05-26 |
 | [Witness](https://open.spotify.com/track/2uBliRj3NSX0Hn55p6gVbO) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Witness](https://open.spotify.com/album/5eFVRyXq0Oi7GVoAjZb2k8) | 2:20 | 2026-05-19 | 2026-06-14 |
 | [Wolves \(Instrumental Version\)](https://open.spotify.com/track/3fPmoZmxjh4b8oJpi7NCeK) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [Danny Bourgeois](https://open.spotify.com/artist/0j2o3txfia5ATDt4sPqAnr) | [Open Strum 2](https://open.spotify.com/album/1jIdsJW3n2lfxaP7IQnwko) | 2:07 | 2025-11-03 | 2025-12-01 |

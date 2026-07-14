@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-795 songs - 3 day 1 hr 53 min
+796 songs - 3 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Bloom In The Cold](https://open.spotify.com/track/3VH1pgtGlayAWg2s19IDed) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Bloom In The Cold](https://open.spotify.com/album/02OyJh302Y5RUnrI1GqeKX) | 4:23 | 2023-02-18 | 2024-07-19 |
 | [Blue Dream](https://open.spotify.com/track/7etFQJui0P0UpMF4TDMBvl) | [Beatamines](https://open.spotify.com/artist/12q8WblexNLJ0QGejfoeXK) | [Blue Dream](https://open.spotify.com/album/3H3HlMwpfD8CpTjhVwhKw9) | 5:51 | 2019-08-06\* | 2019-09-19 |
 | [Boavista](https://open.spotify.com/track/5XWtnEDX7CJC9yK6F7KeK6) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Boavista](https://open.spotify.com/album/2v2BidodVf5z07M6Pofhx3) | 7:37 | 2021-10-11 | 2022-07-28 |
-| [Born Like That](https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Jast](https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo) | [Born Like That](https://open.spotify.com/album/63cNdecRbo4VnYixeiO56Q) | 3:45 | 2025-10-24 |  |
+| [Born Like That](https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Jast](https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo) | [Born Like That](https://open.spotify.com/album/63cNdecRbo4VnYixeiO56Q) | 3:45 | 2025-10-24 | 2026-07-14 |
 | [Boundaries](https://open.spotify.com/track/4hJyUjsqSPN9WedW4J6S5p) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Should Have Seen It Coming EP](https://open.spotify.com/album/0vg4zAM1cS40kkCxfINEey) | 4:11 | 2021-02-20 | 2022-07-16 |
 | [BOY \(ZACARIA\)](https://open.spotify.com/track/04sAktFgPACZPDeiXV09PL) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [BOY \(ZACARIA\)](https://open.spotify.com/album/14QU74vfV7yRVvdZ0pPQhy) | 2:00 | 2025-07-04 | 2026-02-22 |
 | [Boys & Girls](https://open.spotify.com/track/4JWXOAxHSA6BQFHWvMwMcM) | [Nightwhisper](https://open.spotify.com/artist/01CKNofaWoejTw9J0WMkOa) | [Boys & Girls](https://open.spotify.com/album/212D606rlOMsRWxOV6s0jW) | 2:32 | 2020-11-28 | 2022-04-24 |
@@ -136,6 +136,7 @@
 | [Coffee](https://open.spotify.com/track/3Myu3hGDqQXZYqQRWtAqlv) | [Taglo](https://open.spotify.com/artist/4dQDfHDSlal2ceGhs4ZQTD) | [Coffee](https://open.spotify.com/album/75S36sAFceZXQrOo5X8GlV) | 5:59 | 2020-11-21 | 2021-02-27 |
 | [COL](https://open.spotify.com/track/3L5LIZs4OOxQrLNrwPUYAK) | [Circle of Life](https://open.spotify.com/artist/42RQg877YIAzBlaGWWGEPs) | [COL](https://open.spotify.com/album/3D2xhuW1DSLNxqdJzwWn7E) | 7:40 | 2021-02-23 | 2021-05-28 |
 | [Cold Blooded](https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:37 | 2023-06-30 | 2024-10-28 |
+| [Come To Life](https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Come To Life](https://open.spotify.com/album/0HIW7oTP9Y1RpJ1OlvJ4lD) | 3:12 | 2026-07-10 |  |
 | [Come Together](https://open.spotify.com/track/7GA49BEANCELzwyBxQVxU1) | [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R) | [Together EP](https://open.spotify.com/album/6mCctpikauFgj3maH8BgBp) | 7:34 | 2020-04-26 | 2021-12-21 |
 | [COMFORT \- Florian Kruse Remix](https://open.spotify.com/track/3ml3Ua61sp0hcQIlsZ9QIP) | [Joplyn](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Florian Kruse](https://open.spotify.com/artist/7GhGgxIAhzJxZXvF1bEYZ8) | [TOO MUCH HATE \(Remixes\)](https://open.spotify.com/album/6fT6swhDeDdtr8CU5f0fIY) | 7:16 | 2019-08-06\* | 2020-03-05 |
 | [Contesto](https://open.spotify.com/track/4PjAtEHN8MXgXFQwTxIWva) | [Massuma](https://open.spotify.com/artist/2JnGvSeKbZegE0nxAsHCNF), [DOSAMIS](https://open.spotify.com/artist/36fpW4ktLfu9b1duhS928K) | [Contesto](https://open.spotify.com/album/2EKQFEyR9kMnCZ52U8xPgA) | 3:26 | 2025-07-04 |  |

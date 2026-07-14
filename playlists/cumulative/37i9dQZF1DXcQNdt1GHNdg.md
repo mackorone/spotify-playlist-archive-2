@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Cheema Y & more!
 
-351 songs - 16 hr 48 min
+352 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Kikli](https://open.spotify.com/track/752ZVuWP4QcOQNgxWaV4b4) | [Kptaan](https://open.spotify.com/artist/06MWXAofHwT2tS9EyF1TpJ), [Ghxst](https://open.spotify.com/artist/2Q1wU3JGmsqdM5xevEC5qj) | [Kikli](https://open.spotify.com/album/4WCsDUqNWHK33Y6A9MvGUK) | 2:53 | 2023-11-18 | 2024-04-19 |
 | [Killa](https://open.spotify.com/track/0sVG8wDYt7IYy2M1KJu07y) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [Killa](https://open.spotify.com/album/59YGPxS2fsNUGxB0SA4bSy) | 2:26 | 2025-07-11 |  |
 | [King Shit](https://open.spotify.com/track/1BpvuKIG7jK5EiTp2tv5z8) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 3:46 | 2024-02-02 | 2025-01-26 |
-| [Kothi](https://open.spotify.com/track/4M4hH18ip58eo7ieYLVaMJ) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [JATTCODE](https://open.spotify.com/album/0Wj0tVlY9UxfnL7XeEBPPG) | 2:49 | 2026-06-17 |  |
+| [Kothi](https://open.spotify.com/track/4M4hH18ip58eo7ieYLVaMJ) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [JATTCODE](https://open.spotify.com/album/0Wj0tVlY9UxfnL7XeEBPPG) | 2:49 | 2026-06-17 | 2026-07-14 |
 | [Kudi Chidi](https://open.spotify.com/track/13jtIRitHaTMsBgZn5EGOj) | [SAHIL CHEEMA](https://open.spotify.com/artist/386AhN34S4IHWkG8mGM1g6), [Prodbywizrd](https://open.spotify.com/artist/0ZmMkBzd5XM8fJBFZrJU0W) | [Kudi Chidi](https://open.spotify.com/album/6jbEuuqf3VDacCKn1kdu0B) | 3:16 | 2026-04-10 | 2026-05-07 |
 | [Laagdaat](https://open.spotify.com/track/0xuOmIFVzGGNBl4VoAphrC) | [Sheera Jasvir](https://open.spotify.com/artist/7kcl4Cs88q6BfB0Qx5Vkil) | [Laagdaat](https://open.spotify.com/album/6i93yHBtrvxyxU6pzCZie8) | 3:48 | 2024-11-04 | 2024-11-16 |
 | [LALA LALA](https://open.spotify.com/track/4Szt63J5j1ieCImAvn6EPv) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mofusion](https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv) | [LALA LALA](https://open.spotify.com/album/6SXtMDIW4GxsSP0AIK6O1B) | 3:38 | 2025-01-08 | 2025-02-07 |
@@ -290,6 +290,7 @@
 | [Rank 1](https://open.spotify.com/track/7piFoYCgGN0w8vxukuCrvP) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Never Before](https://open.spotify.com/album/3YFTFdg3bhcB8XAg85Rugh) | 2:59 | 2024-04-06 | 2025-02-19 |
 | [Ready](https://open.spotify.com/track/7cJWX93y1s1yJUx0iPCeJN) | [Kahlon](https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl) | [Best Kept Secret](https://open.spotify.com/album/1Ai2o0Nw0OoBsmhX4oT8Jb) | 2:54 | 2026-07-10 |  |
 | [Reckless](https://open.spotify.com/track/4nzpmVBjHny6Iw42ZO1AvL) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sicario](https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl) | 2:38 | 2025-01-22 | 2025-04-26 |
+| [Refugee](https://open.spotify.com/track/5uHCw6YJdAv3LO8boVPg9p) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [God’s Favorite](https://open.spotify.com/album/4bHtB4mKSgQxpbiB4UAYxU) | 2:28 | 2026-07-13 |  |
 | [Reign](https://open.spotify.com/track/1116nfUXzoKZ4zyjEVAC0U) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Starting Over](https://open.spotify.com/album/4OiXXyu7zq7VdI49tDxKoe) | 2:45 | 2025-08-11 | 2025-08-24 |
 | [Revenge](https://open.spotify.com/track/7uSpLsbpnwk0XTC1nLlpG2) | [Jind](https://open.spotify.com/artist/7apgUg8yCqpPXZqSLRlw1h), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Isajan](https://open.spotify.com/artist/1ZAwMkiDj1MgIGdtEjf0xv) | [Revenge](https://open.spotify.com/album/5BPoxXx4RiQ9jIV2XdA5Xg) | 2:55 | 2025-03-26 | 2025-05-07 |
 | [Richie Rich](https://open.spotify.com/track/5OxAMzahUJ6vfpKe1sMSO4) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ), [Straight Bank](https://open.spotify.com/artist/6MmvoeQxFPr8VWERxYdE5f) | [In Your Thoughts](https://open.spotify.com/album/6YAIfEP5AwiMV7pFt6gVGg) | 3:02 | 2024-08-23 | 2024-10-25 |

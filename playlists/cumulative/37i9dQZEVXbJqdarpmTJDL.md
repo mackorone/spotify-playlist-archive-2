@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-2,895 songs - 6 day 5 hr 28 min
+2,896 songs - 6 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1236,7 +1236,7 @@
 | [It's Love](https://open.spotify.com/track/6bOAwlJ6V8oWqGOXeairhN) | [Solven](https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd) | [It's Love](https://open.spotify.com/album/61fjiw7XzE91ldIpdf3iCz) | 2:51 | 2022-04-11 | 2022-04-16 |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2021-12-25 | 2025-12-28 |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:31 | 2024-12-26 | 2024-12-28 |
-| [Jackie Ο'](https://open.spotify.com/track/3eki2WDPpHdejxehX147UA) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Jackie Ο'](https://open.spotify.com/album/35hZqIutiGG7tCaPNDlnE9) | 2:37 | 2026-07-03 |  |
+| [Jackie Ο'](https://open.spotify.com/track/3eki2WDPpHdejxehX147UA) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Jackie Ο'](https://open.spotify.com/album/35hZqIutiGG7tCaPNDlnE9) | 2:37 | 2026-07-03 | 2026-07-14 |
 | [JackpoTT](https://open.spotify.com/track/1qu9xjffk1viZGNVeU7rSy) | [Likeboss](https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [JackpoTT](https://open.spotify.com/album/4SdmEvfSZkKNkLfYg6F6l8) | 2:07 | 2025-03-08 | 2025-03-13 |
 | [JACOB & CO](https://open.spotify.com/track/0fgJM8xRHf33hR98YqYAEC) | [MG](https://open.spotify.com/artist/6SWOdiks4Ac3lMM8NCqDm0) | [MEMENTO](https://open.spotify.com/album/7At9VaYb02avtIUtQeIOZS) | 2:46 | 2023-04-08 | 2023-04-11 |
 | [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-08-31 | 2021-09-04 |
@@ -1640,6 +1640,7 @@
 | [Mediterranean Scammers](https://open.spotify.com/track/2jEDlNsGMRwR4VseOdvXPY) | [VLOSPA](https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa) | [Inside Story](https://open.spotify.com/album/5hzQaoeZMXZwsr4TwLq2AZ) | 3:30 | 2024-05-18 | 2024-05-20 |
 | [Meeting](https://open.spotify.com/track/31DdfTPoCtQAP4Tei70aXa) | [Zoro&Buzz](https://open.spotify.com/artist/1lqh5puCZTMsGJalV8Rjbe), [Zoro](https://open.spotify.com/artist/4hjnUrxUPiNsPgFMWkBvIl), [Buzz](https://open.spotify.com/artist/72psY0qma8uEbuSXL8LtT5), [Dolos](https://open.spotify.com/artist/3L4ffGkzeEsDSgLXUPaA0R) | [Matrix](https://open.spotify.com/album/3giwYTIQt55rx1WlEgv8IY) | 3:34 | 2021-06-04 | 2021-06-05 |
 | [Meine Gia Ligo](https://open.spotify.com/track/2jeuoMQB17m1KOMR7EiG9m) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy) | [Interrail](https://open.spotify.com/album/0wDaGND7KC1IG5vUzuLj34) | 3:11 | 2022-04-27 | 2022-04-30 |
+| [MELANI](https://open.spotify.com/track/176kRJ2oc7kVDA6IBo1xVh) | [Merko](https://open.spotify.com/artist/3NBuryo6MsorZpU4VRpHOJ), [Spize](https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm), [Sanko](https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx) | [MELANI](https://open.spotify.com/album/0i8eSP7x4801qP5X3tRThr) | 2:42 | 2026-07-13 |  |
 | [Melanie](https://open.spotify.com/track/2dXPx2RaIy16C8JnJlaETW) | [Mef](https://open.spotify.com/artist/45FQfgBXKsdtElNqmKeJTC), [YT](https://open.spotify.com/artist/48pDK4NOqLtJxn5AAKVUra) | [Melanie](https://open.spotify.com/album/6ZbqSHXncjFU8ab60qjHrQ) | 3:42 | 2021-04-13 | 2021-04-15 |
 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 | 2023-07-29 | 2023-08-06 |
 | [Memento Vivere In F Minor](https://open.spotify.com/track/3MM4G1uA3cscvcGkbT3XZW) | [Beats Pliz](https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E), [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy) | [Arte Povera](https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU) | 3:22 | 2023-04-21 | 2023-05-14 |

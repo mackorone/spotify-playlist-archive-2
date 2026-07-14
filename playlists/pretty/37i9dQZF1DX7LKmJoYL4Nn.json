@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 63136,
+  "num_followers": 63132,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
+        "name": "Mellow Addiction (Short ver.)",
+        "url": "https://open.spotify.com/album/5KAtG79YspWcsMaWn7j3wY"
+      },
+      "artists": [
+        {
+          "name": "MELLOW DEAR US",
+          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
+        }
+      ],
+      "duration_ms": 134100,
+      "name": "Mellow Addiction - Short ver.",
+      "url": "https://open.spotify.com/track/3z7jW68dK4nQWY595nOA98"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
         "name": "Trickstar \u300cCELEBRATE!!\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season6",
         "url": "https://open.spotify.com/album/1O2mVKwhzQ4kVeZx4Hd8s3"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 183833,
       "name": "\u30d9\u30ea\u30a4\u30fb\u30d9\u30ea\u30a4\u30fb\u30b9\u30a4\u30fc\u30c8\u30fb\u30db\u30ef\u30a4\u30c8\u2661",
       "url": "https://open.spotify.com/track/7BvTk4mj3sjBcshBHFRk7I"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "Mellow Addiction (Short ver.)",
-        "url": "https://open.spotify.com/album/5KAtG79YspWcsMaWn7j3wY"
-      },
-      "artists": [
-        {
-          "name": "MELLOW DEAR US",
-          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
-        }
-      ],
-      "duration_ms": 134100,
-      "name": "Mellow Addiction - Short ver.",
-      "url": "https://open.spotify.com/track/3z7jW68dK4nQWY595nOA98"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
+        "name": "Dear World (Short ver.)",
+        "url": "https://open.spotify.com/album/5Iibsmm600yJmx7VBUHTYV"
+      },
+      "artists": [
+        {
+          "name": "MELLOW DEAR US",
+          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
+        }
+      ],
+      "duration_ms": 145300,
+      "name": "Dear World - Short ver.",
+      "url": "https://open.spotify.com/track/4WhbXvkphy7lrFzOVelHqX"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
         "name": "Ra*bits \u300cJUMPIN' LUCK BEAT\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
         "url": "https://open.spotify.com/album/2oTxRxLNZ9prO8Sd8tAPZz"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 227734,
       "name": "JUMPIN' LUCK BEAT",
       "url": "https://open.spotify.com/track/6xooenMiEU8fcuuawnubXh"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "Dear World (Short ver.)",
-        "url": "https://open.spotify.com/album/5Iibsmm600yJmx7VBUHTYV"
-      },
-      "artists": [
-        {
-          "name": "MELLOW DEAR US",
-          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
-        }
-      ],
-      "duration_ms": 145300,
-      "name": "Dear World - Short ver.",
-      "url": "https://open.spotify.com/track/4WhbXvkphy7lrFzOVelHqX"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -743,26 +743,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "Switch\u300cWish upon a MUSIC!!\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
-        "url": "https://open.spotify.com/album/5AZolT2qgm76KwEncevfgK"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/6nJGti9TeLNasxxhxdm2AK"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 219170,
-      "name": "Wish upon a MUSIC!!",
-      "url": "https://open.spotify.com/track/5OlrGFzpu4cCfPZF0voF2b"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01Bright me up!!\u300f\u30a2\u30d7\u30ea\u4e3b\u984c\u6b4c\u300cBRIGHTEST STARS!!\u300d",
         "url": "https://open.spotify.com/album/5Ctyhj2QjC7DhCikMYdrNt"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 188639,
       "name": "BRIGHTEST STARS!! (ES\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba ver.)",
       "url": "https://open.spotify.com/track/6goODWB6IHzU96zSBLZEbf"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "Switch\u300cWish upon a MUSIC!!\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
+        "url": "https://open.spotify.com/album/5AZolT2qgm76KwEncevfgK"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/6nJGti9TeLNasxxhxdm2AK"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 219170,
+      "name": "Wish upon a MUSIC!!",
+      "url": "https://open.spotify.com/track/5OlrGFzpu4cCfPZF0voF2b"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -843,26 +843,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "Switch\u300cSwitching Journey\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season6",
-        "url": "https://open.spotify.com/album/0tY29k3k1KEipb5uR4NrQq"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/6nJGti9TeLNasxxhxdm2AK"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 217239,
-      "name": "Switching Journey",
-      "url": "https://open.spotify.com/track/2UvlKKola0spjTZ23VvuOY"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u300cYeeeeES! JUKEBOX\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d0\u30e9\u30a8\u30c6\u30a3\u30bd\u30f3\u30b0\u30b7\u30ea\u30fc\u30ba \u7a76\u6975\u306e9\u66f2",
         "url": "https://open.spotify.com/album/1NssTUwDb3XvecIxuODTPi"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 242533,
       "name": "YeeeeES! JUKEBOX",
       "url": "https://open.spotify.com/track/6Yoj7gRWD3AfUuUUrJkBFM"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "Switch\u300cSwitching Journey\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season6",
+        "url": "https://open.spotify.com/album/0tY29k3k1KEipb5uR4NrQq"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/6nJGti9TeLNasxxhxdm2AK"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 217239,
+      "name": "Switching Journey",
+      "url": "https://open.spotify.com/track/2UvlKKola0spjTZ23VvuOY"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "\u7d05\u6708\u300c\u767e\u82b1\u7e5a\u4e71\u3001\u7d05\u6708\u591c\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
-        "url": "https://open.spotify.com/album/3oSqmv9f8hc0zMb4rmPGCz"
-      },
-      "artists": [
-        {
-          "name": "\u7d05\u6708",
-          "url": "https://open.spotify.com/artist/3vcRME7zu5NYZxk4nweuCs"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 260933,
-      "name": "\u767e\u82b1\u7e5a\u4e71\u3001\u7d05\u6708\u591c (2025 ver.)",
-      "url": "https://open.spotify.com/track/40CBtoFAQB16zgwkZfYRZf"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u30d5\u30e9\u30b8\u30fc\u30eb (feat. \u6771\u96f2\u5f70\u4eba & \u9752\u67f3\u51ac\u5f25) [Cover]",
         "url": "https://open.spotify.com/album/3KM5OtuX96tlIwmzt0GKTI"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 270354,
       "name": "\u30d5\u30e9\u30b8\u30fc\u30eb - Cover",
       "url": "https://open.spotify.com/track/1vywsFdOWEVvP6JkDOuUbU"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u7d05\u6708\u300c\u767e\u82b1\u7e5a\u4e71\u3001\u7d05\u6708\u591c\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
+        "url": "https://open.spotify.com/album/3oSqmv9f8hc0zMb4rmPGCz"
+      },
+      "artists": [
+        {
+          "name": "\u7d05\u6708",
+          "url": "https://open.spotify.com/artist/3vcRME7zu5NYZxk4nweuCs"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 260933,
+      "name": "\u767e\u82b1\u7e5a\u4e71\u3001\u7d05\u6708\u591c (2025 ver.)",
+      "url": "https://open.spotify.com/track/40CBtoFAQB16zgwkZfYRZf"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "\u7d05\u6708\u300c\u708e\u7e8f\u7130\u8e0a\u5343\u5909\u4e07\u706b\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
-        "url": "https://open.spotify.com/album/2zswpyvNjZHvXLcxaf3kGp"
-      },
-      "artists": [
-        {
-          "name": "\u7d05\u6708",
-          "url": "https://open.spotify.com/artist/3vcRME7zu5NYZxk4nweuCs"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 214749,
-      "name": "\u708e\u7e8f\u7130\u8e0a\u5343\u5909\u4e07\u706b",
-      "url": "https://open.spotify.com/track/2clRZ276jPbCuE9kedTkxX"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u300c\u77ac\u304dSign\u2606\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u9078\u629c\u66f2",
         "url": "https://open.spotify.com/album/22KZVcTQ9TclS3O8zRnlW7"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 249173,
       "name": "\u77ac\u304dSign\u2606",
       "url": "https://open.spotify.com/track/01wK8qdoiA2FlYbSYQin0Y"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u7d05\u6708\u300c\u708e\u7e8f\u7130\u8e0a\u5343\u5909\u4e07\u706b\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
+        "url": "https://open.spotify.com/album/2zswpyvNjZHvXLcxaf3kGp"
+      },
+      "artists": [
+        {
+          "name": "\u7d05\u6708",
+          "url": "https://open.spotify.com/artist/3vcRME7zu5NYZxk4nweuCs"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 214749,
+      "name": "\u708e\u7e8f\u7130\u8e0a\u5343\u5909\u4e07\u706b",
+      "url": "https://open.spotify.com/track/2clRZ276jPbCuE9kedTkxX"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "\u7d05\u6708\u300c\u660e\u93e1\u6d41\u6c34\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
-        "url": "https://open.spotify.com/album/383W6Pd0RmZ3AdzkS8MOUl"
-      },
-      "artists": [
-        {
-          "name": "\u7d05\u6708",
-          "url": "https://open.spotify.com/artist/3vcRME7zu5NYZxk4nweuCs"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 217766,
-      "name": "\u660e\u93e1\u6d41\u6c34",
-      "url": "https://open.spotify.com/track/4dTrZCkSIFEcsrwyouLop3"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u6df1\u6d77 \u594f\u6c70\u300c\u65c5\u3059\u308b\u30e6\u30ea\u30b7\u30b9\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
         "url": "https://open.spotify.com/album/2DuJ3oE4Q97Ol4uF0X4nSZ"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 220571,
       "name": "\u65c5\u3059\u308b\u30e6\u30ea\u30b7\u30b9",
       "url": "https://open.spotify.com/track/2BXV3mTxHwA2n4lDAMj7HQ"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u7d05\u6708\u300c\u660e\u93e1\u6d41\u6c34\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
+        "url": "https://open.spotify.com/album/383W6Pd0RmZ3AdzkS8MOUl"
+      },
+      "artists": [
+        {
+          "name": "\u7d05\u6708",
+          "url": "https://open.spotify.com/artist/3vcRME7zu5NYZxk4nweuCs"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 217766,
+      "name": "\u660e\u93e1\u6d41\u6c34",
+      "url": "https://open.spotify.com/track/4dTrZCkSIFEcsrwyouLop3"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 EVIL NUM+\u300cRinging evil phone\u300d",
-        "url": "https://open.spotify.com/album/0dd0yMYC6Kx15SETHvgkQo"
-      },
-      "artists": [
-        {
-          "name": "EVIL NUM+\uff0f\u9006\u5148 \u590f\u76ee(CV.\u91ce\u5cf6 \u5065\u5150)\u3001\u6c37\u9df9 \u5317\u6597(CV.\u524d\u91ce \u667a\u662d)\u3001\u8475 \u3072\u306a\u305f(CV.\u6589\u85e4 \u58ee\u99ac)\u3001\u7d2b\u4e4b \u5275(CV.\u9ad8\u5742 \u77e5\u4e5f)\u3001\u6714\u9593 \u51db\u6708(CV.\u5c71\u4e0b \u5927\u8f1d)",
-          "url": "https://open.spotify.com/artist/3bMNMWYrLxOUy6CZDsucYt"
-        }
-      ],
-      "duration_ms": 237788,
-      "name": "Ringing evil phone",
-      "url": "https://open.spotify.com/track/2qQRTuUDbce625o8ELS3vX"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba fine",
         "url": "https://open.spotify.com/album/4z49lX1K56H1WPOgE12LMl"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 259453,
       "name": "SHINING STAR",
       "url": "https://open.spotify.com/track/7mhaukVfWWMkYTnj6ckX4e"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 EVIL NUM+\u300cRinging evil phone\u300d",
+        "url": "https://open.spotify.com/album/0dd0yMYC6Kx15SETHvgkQo"
+      },
+      "artists": [
+        {
+          "name": "EVIL NUM+\uff0f\u9006\u5148 \u590f\u76ee(CV.\u91ce\u5cf6 \u5065\u5150)\u3001\u6c37\u9df9 \u5317\u6597(CV.\u524d\u91ce \u667a\u662d)\u3001\u8475 \u3072\u306a\u305f(CV.\u6589\u85e4 \u58ee\u99ac)\u3001\u7d2b\u4e4b \u5275(CV.\u9ad8\u5742 \u77e5\u4e5f)\u3001\u6714\u9593 \u51db\u6708(CV.\u5c71\u4e0b \u5927\u8f1d)",
+          "url": "https://open.spotify.com/artist/3bMNMWYrLxOUy6CZDsucYt"
+        }
+      ],
+      "duration_ms": 237788,
+      "name": "Ringing evil phone",
+      "url": "https://open.spotify.com/track/2qQRTuUDbce625o8ELS3vX"
     },
     {
       "added_at": "2026-04-21 15:00:41",

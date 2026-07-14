@@ -1,6 +1,6 @@
 {
   "description": "Sun's out...and so are you!  Let these inspirational and faith-filled songs soundtrack your summer fun!",
-  "num_followers": 33488,
+  "num_followers": 33517,
   "original_name": "Summer Spirit",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
+        "name": "what if i told you?",
+        "url": "https://open.spotify.com/album/2dsICzIDzI5meqWD0sXVBx"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 182816,
+      "name": "what if i told you?",
+      "url": "https://open.spotify.com/track/4iz2gpYykJizD8tyqnhZZw"
+    },
+    {
+      "added_at": "2026-07-11 04:17:10",
+      "album": {
         "name": "NO HALO",
         "url": "https://open.spotify.com/album/213lU4rAk8SVSOs4bjAASB"
       },
@@ -407,18 +423,18 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
-        "name": "God Is For Me",
-        "url": "https://open.spotify.com/album/6f8eCGU8Pf9rI0OTP6HTAU"
+        "name": "Messed Up Messenger",
+        "url": "https://open.spotify.com/album/68RSHthYk5DHJEnsVtTjcj"
       },
       "artists": [
         {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+          "name": "LIN D",
+          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
         }
       ],
-      "duration_ms": 164309,
-      "name": "God Is For Me",
-      "url": "https://open.spotify.com/track/7Dzhw9i6H4oX89Iwqf3ziK"
+      "duration_ms": 197898,
+      "name": "Messed Up Messenger",
+      "url": "https://open.spotify.com/track/6S7ozX65RnMobYTiaSlreq"
     },
     {
       "added_at": "2026-07-11 04:17:10",
@@ -439,18 +455,18 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
-        "name": "Messed Up Messenger",
-        "url": "https://open.spotify.com/album/68RSHthYk5DHJEnsVtTjcj"
+        "name": "God Is For Me",
+        "url": "https://open.spotify.com/album/6f8eCGU8Pf9rI0OTP6HTAU"
       },
       "artists": [
         {
-          "name": "LIN D",
-          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
         }
       ],
-      "duration_ms": 197898,
-      "name": "Messed Up Messenger",
-      "url": "https://open.spotify.com/track/6S7ozX65RnMobYTiaSlreq"
+      "duration_ms": 164309,
+      "name": "God Is For Me",
+      "url": "https://open.spotify.com/track/7Dzhw9i6H4oX89Iwqf3ziK"
     },
     {
       "added_at": "2026-07-11 04:17:10",
@@ -467,22 +483,6 @@
       "duration_ms": 179843,
       "name": "Run",
       "url": "https://open.spotify.com/track/2CQPcqiBrGm19Gx2I2EqB2"
-    },
-    {
-      "added_at": "2026-07-11 04:17:10",
-      "album": {
-        "name": "what if i told you?",
-        "url": "https://open.spotify.com/album/2dsICzIDzI5meqWD0sXVBx"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 182816,
-      "name": "what if i told you?",
-      "url": "https://open.spotify.com/track/4iz2gpYykJizD8tyqnhZZw"
     },
     {
       "added_at": "2026-07-11 04:17:10",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
-        "name": "Counting My Blessings",
-        "url": "https://open.spotify.com/album/3qr0raAjkRZfT881l6a2uz"
-      },
-      "artists": [
-        {
-          "name": "Seph Schlueter",
-          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
-        }
-      ],
-      "duration_ms": 190106,
-      "name": "Steady Love",
-      "url": "https://open.spotify.com/track/1LAFeVyit0FoefJUt9PvgT"
-    },
-    {
-      "added_at": "2026-07-11 04:17:10",
-      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/5EMVa6j7qhA6t2C4bsTkbJ"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 194251,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/4q8AWVVk5OB1Xz9vNoBn5h"
+    },
+    {
+      "added_at": "2026-07-11 04:17:10",
+      "album": {
+        "name": "Counting My Blessings",
+        "url": "https://open.spotify.com/album/3qr0raAjkRZfT881l6a2uz"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "duration_ms": 190106,
+      "name": "Steady Love",
+      "url": "https://open.spotify.com/track/1LAFeVyit0FoefJUt9PvgT"
     },
     {
       "added_at": "2026-07-11 04:17:10",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
+        "name": "Love Me Back to Life",
+        "url": "https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM"
+      },
+      "artists": [
+        {
+          "name": "Natalie Layne",
+          "url": "https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB"
+        }
+      ],
+      "duration_ms": 167617,
+      "name": "Love Me Back to Life",
+      "url": "https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J"
+    },
+    {
+      "added_at": "2026-07-11 04:17:10",
+      "album": {
         "name": "whisper and the wind (b+CL version)",
         "url": "https://open.spotify.com/album/3nLiutNSYBngqPRzTOB7Br"
       },
@@ -979,22 +995,6 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
-        "name": "Love Me Back to Life",
-        "url": "https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM"
-      },
-      "artists": [
-        {
-          "name": "Natalie Layne",
-          "url": "https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB"
-        }
-      ],
-      "duration_ms": 167617,
-      "name": "Love Me Back to Life",
-      "url": "https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J"
-    },
-    {
-      "added_at": "2026-07-11 04:17:10",
-      "album": {
         "name": "redeemed",
         "url": "https://open.spotify.com/album/5Gz7B8CntlUIvMoGlKZY3f"
       },
@@ -1007,22 +1007,6 @@
       "duration_ms": 205448,
       "name": "redeemed",
       "url": "https://open.spotify.com/track/2lkHVcg3Ur0DK0YGR2RFT2"
-    },
-    {
-      "added_at": "2026-07-11 04:17:10",
-      "album": {
-        "name": "backseat drive",
-        "url": "https://open.spotify.com/album/0KfV7F7WilXiUspp3YN1Hr"
-      },
-      "artists": [
-        {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 174650,
-      "name": "backseat drive",
-      "url": "https://open.spotify.com/track/4IValzT5ZRzUXyofWl8mbp"
     },
     {
       "added_at": "2026-07-11 04:17:10",
@@ -1043,22 +1027,6 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
-        "name": "How Good of God",
-        "url": "https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 164632,
-      "name": "How Good of God",
-      "url": "https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t"
-    },
-    {
-      "added_at": "2026-07-11 04:17:10",
-      "album": {
         "name": "MILLION WAYS",
         "url": "https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2"
       },
@@ -1075,6 +1043,38 @@
       "duration_ms": 210933,
       "name": "MILLION WAYS",
       "url": "https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP"
+    },
+    {
+      "added_at": "2026-07-11 04:17:10",
+      "album": {
+        "name": "backseat drive",
+        "url": "https://open.spotify.com/album/0KfV7F7WilXiUspp3YN1Hr"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 174650,
+      "name": "backseat drive",
+      "url": "https://open.spotify.com/track/4IValzT5ZRzUXyofWl8mbp"
+    },
+    {
+      "added_at": "2026-07-11 04:17:10",
+      "album": {
+        "name": "How Good of God",
+        "url": "https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 164632,
+      "name": "How Good of God",
+      "url": "https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t"
     },
     {
       "added_at": "2026-07-11 04:17:10",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
+        "name": "Only One That Matters",
+        "url": "https://open.spotify.com/album/7HhahFU4VcDw0bQqsdK4qs"
+      },
+      "artists": [
+        {
+          "name": "Ethan Beer",
+          "url": "https://open.spotify.com/artist/5hE9hHrQbGqtLypxH1KyYM"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Only One That Matters",
+      "url": "https://open.spotify.com/track/0NaFnPszXIlEyXLrWcuKo3"
+    },
+    {
+      "added_at": "2026-07-11 04:17:10",
+      "album": {
         "name": "This Love",
         "url": "https://open.spotify.com/album/4Pifj4Xa7S26ipKXAucJYC"
       },
@@ -1495,26 +1515,6 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
-        "name": "Only One That Matters",
-        "url": "https://open.spotify.com/album/7HhahFU4VcDw0bQqsdK4qs"
-      },
-      "artists": [
-        {
-          "name": "Ethan Beer",
-          "url": "https://open.spotify.com/artist/5hE9hHrQbGqtLypxH1KyYM"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Only One That Matters",
-      "url": "https://open.spotify.com/track/0NaFnPszXIlEyXLrWcuKo3"
-    },
-    {
-      "added_at": "2026-07-11 04:17:10",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/21muhjj4VKsJ3a7Nb6D66v"
       },
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
+        "name": "Arizona",
+        "url": "https://open.spotify.com/album/5oYnJgSK8BTQR1AwUzgF6z"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Arizona",
+      "url": "https://open.spotify.com/track/6O6s8Ozp1qHdbAJvlEirMN"
+    },
+    {
+      "added_at": "2026-07-11 04:17:10",
+      "album": {
         "name": "SUNSHINE",
         "url": "https://open.spotify.com/album/0D6Y4LUu13t6XLiLv87opR"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 187073,
       "name": "SUNSHINE",
       "url": "https://open.spotify.com/track/1Q6GO5Uq4DbfWAtMGTlnm4"
-    },
-    {
-      "added_at": "2026-07-11 04:17:10",
-      "album": {
-        "name": "Give It All",
-        "url": "https://open.spotify.com/album/01KaHkRWPyHbu9IyJcseZc"
-      },
-      "artists": [
-        {
-          "name": "Tedashii",
-          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
-        }
-      ],
-      "duration_ms": 174220,
-      "name": "Give It All",
-      "url": "https://open.spotify.com/track/2IEPGJGDOYz8aOaaXZCbUT"
     },
     {
       "added_at": "2026-07-11 04:17:10",
@@ -1619,6 +1619,22 @@
       "duration_ms": 199583,
       "name": "Good Shepherd (John 10)",
       "url": "https://open.spotify.com/track/32ATRazMSiY7hvHvTeU2sj"
+    },
+    {
+      "added_at": "2026-07-11 04:17:10",
+      "album": {
+        "name": "Give It All",
+        "url": "https://open.spotify.com/album/01KaHkRWPyHbu9IyJcseZc"
+      },
+      "artists": [
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        }
+      ],
+      "duration_ms": 174220,
+      "name": "Give It All",
+      "url": "https://open.spotify.com/track/2IEPGJGDOYz8aOaaXZCbUT"
     },
     {
       "added_at": "2026-07-11 04:17:10",
@@ -1655,22 +1671,6 @@
       "duration_ms": 170400,
       "name": "Joyful Melody",
       "url": "https://open.spotify.com/track/69yAwdmV8VngYAYXNgbWrZ"
-    },
-    {
-      "added_at": "2026-07-11 04:17:10",
-      "album": {
-        "name": "Arizona",
-        "url": "https://open.spotify.com/album/5oYnJgSK8BTQR1AwUzgF6z"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Arizona",
-      "url": "https://open.spotify.com/track/6O6s8Ozp1qHdbAJvlEirMN"
     },
     {
       "added_at": "2026-07-11 04:17:10",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
+        "name": "Don't do Molly",
+        "url": "https://open.spotify.com/album/09FwcYyetbIIkjFTBTmRtJ"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 152555,
+      "name": "Don't do Molly",
+      "url": "https://open.spotify.com/track/2eIxhnxXBPcFawLvjZyhzy"
+    },
+    {
+      "added_at": "2026-07-11 04:17:10",
+      "album": {
         "name": "A Little Light",
         "url": "https://open.spotify.com/album/2qlhs0qXQ3PMWzsPHpPwhC"
       },
@@ -1727,30 +1743,6 @@
       "duration_ms": 219464,
       "name": "A Little Light",
       "url": "https://open.spotify.com/track/74LJN9lVkbpVRXnZOLKttx"
-    },
-    {
-      "added_at": "2026-07-11 04:17:10",
-      "album": {
-        "name": "WAITING ROOM",
-        "url": "https://open.spotify.com/album/5pnf64squuM0LMkFqQ1GiC"
-      },
-      "artists": [
-        {
-          "name": "Bridge Music",
-          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
-        },
-        {
-          "name": "Reggie Dartey",
-          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
-        },
-        {
-          "name": "Chanele",
-          "url": "https://open.spotify.com/artist/4jcApI1xdHMtx4iMvLV01a"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "DESTINY",
-      "url": "https://open.spotify.com/track/5RtRPhTCDjPoJqhqAtMz3t"
     }
   ],
   "unique_name": "Summer Spirit",

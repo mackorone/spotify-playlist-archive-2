@@ -1375,6 +1375,24 @@
     },
     {
       "album": {
+        "name": "Aroma",
+        "url": "https://open.spotify.com/album/0Ww5tOygtuUVsVx8IiEaON"
+      },
+      "artists": [
+        {
+          "name": "Eri Ife",
+          "url": "https://open.spotify.com/artist/73HQr5WapR3nN1hP2ZTDJg"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "Aroma",
+      "url": "https://open.spotify.com/track/5DmVPK3uvMeVpB1yFClKEb"
+    },
+    {
+      "album": {
         "name": "As we look",
         "url": "https://open.spotify.com/album/0dGMDH7mo6O8isPMiMrmzU"
       },
@@ -7125,6 +7143,24 @@
     },
     {
       "album": {
+        "name": "I'M BLESSED",
+        "url": "https://open.spotify.com/album/1PNHuxikN3sQWr1LbTOp4u"
+      },
+      "artists": [
+        {
+          "name": "Kevin Adams & Voices of Praise",
+          "url": "https://open.spotify.com/artist/1gjLvPTniUzZAzokFsuMDV"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176841,
+      "name": "I'M BLESSED",
+      "url": "https://open.spotify.com/track/4YEafuhU1hLqlyGxP4fF5f"
+    },
+    {
+      "album": {
         "name": "I'm Ready",
         "url": "https://open.spotify.com/album/6S7gLUI8nQr3HRW79IjTaH"
       },
@@ -10016,7 +10052,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 852000,
       "name": "MOUNTAINS TREMBLE - Live",
       "url": "https://open.spotify.com/track/1JiH8Y5VAjuGmkcYPIHAaq"
@@ -15844,7 +15880,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 147644,
       "name": "Without You",
       "url": "https://open.spotify.com/track/4leFpYPiDcf617jC0WXZXu"

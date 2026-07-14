@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 75964,
+  "num_followers": 75978,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -1255,38 +1255,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Tenia Tanto Para Darte",
-        "url": "https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B"
-      },
-      "artists": [
-        {
-          "name": "Matamba",
-          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
-        }
-      ],
-      "duration_ms": 263144,
-      "name": "Tenia Tanto Para Darte",
-      "url": "https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
-        "name": "S\u00ed Ser\u00e1s",
-        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 283400,
-      "name": "La Clave",
-      "url": "https://open.spotify.com/track/7CkVCRgoZWPt2v1WXRV7rs"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "Torito",
         "url": "https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4"
       },
@@ -1299,6 +1267,42 @@
       "duration_ms": 196000,
       "name": "Torito",
       "url": "https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "Qui\u00e9n Sos?",
+        "url": "https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        },
+        {
+          "name": "Julieta Rada",
+          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
+        }
+      ],
+      "duration_ms": 231464,
+      "name": "Qui\u00e9n Sos?",
+      "url": "https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "Tenia Tanto Para Darte",
+        "url": "https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B"
+      },
+      "artists": [
+        {
+          "name": "Matamba",
+          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
+        }
+      ],
+      "duration_ms": 263144,
+      "name": "Tenia Tanto Para Darte",
+      "url": "https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1543,6 +1547,22 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
+        "name": "Arde",
+        "url": "https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7"
+      },
+      "artists": [
+        {
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+        }
+      ],
+      "duration_ms": 186837,
+      "name": "Arde",
+      "url": "https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
         "name": "Agua Nueva",
         "url": "https://open.spotify.com/album/5LztDzrA8CF02H92LddtOl"
       },
@@ -1559,22 +1579,6 @@
       "duration_ms": 222000,
       "name": "Agua Nueva",
       "url": "https://open.spotify.com/track/0SNOtKlYtfNzv0fg0gdBCh"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
-        "name": "Arde",
-        "url": "https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7"
-      },
-      "artists": [
-        {
-          "name": "Escorpia",
-          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
-        }
-      ],
-      "duration_ms": 186837,
-      "name": "Arde",
-      "url": "https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy"
     }
   ],
   "unique_name": "Reggae al Sur",

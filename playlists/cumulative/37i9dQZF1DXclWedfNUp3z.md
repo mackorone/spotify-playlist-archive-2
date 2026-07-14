@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-478 songs - 1 day 8 hr 47 min
+479 songs - 1 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [conversations with grandma](https://open.spotify.com/track/5GgoR6lurqxLpfMjNOMUmG) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [blue moon](https://open.spotify.com/album/665irKdzu7aptrhBycT5NJ) | 1:26 | 2021-10-20 | 2023-08-03 |
 | [conversations with grandma](https://open.spotify.com/track/5Hfp1A85EAcD3fqHmAPbpN) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [blue moon](https://open.spotify.com/album/439132aTNPy2bbctlYh3yN) | 1:26 | 2021-10-20 | 2024-04-19 |
 | [COT2ON](https://open.spotify.com/track/6lMcrN9rMYh0AKMGQbE30j) | [Kampala Social Club](https://open.spotify.com/artist/1j2z4kWUO6QrYTqzQVxoZS) | [COT2ON](https://open.spotify.com/album/7hYw5hD2lfDGzIhpov4bI3) | 4:52 | 2021-10-20 | 2022-07-28 |
+| [Cow With Half Moon Parasol](https://open.spotify.com/track/2pUjVfqByVLqkgrKBrsdkw) | [HUG](https://open.spotify.com/artist/0fPTd29x2F2C4lHNVUwFEs), [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf), [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [Cow With Half Moon Parasol](https://open.spotify.com/album/3s5JFSNttXDbwCEvCIctLS) | 4:36 | 2026-07-13 |  |
 | [Cuckoo](https://open.spotify.com/track/1Dryf1pXEIEsKC2Q8Z2FAT) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake Up Calls](https://open.spotify.com/album/74ExKX0TXhIQE30UrTiPlD) | 2:25 | 2021-10-20 | 2024-04-19 |
 | [Cuckoo](https://open.spotify.com/track/21nmBBjOkUxLbeU8lmxmxA) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake Up Calls](https://open.spotify.com/album/2bzUMXACWhOZnl7pyV8VWy) | 2:25 | 2021-10-20 | 2023-01-27 |
 | [Cuckoo](https://open.spotify.com/track/2BwiTu8QrHm09soMmegJbu) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake up Calls](https://open.spotify.com/album/6zZr0Y6Z6khPwf2LuZTK4K) | 2:25 | 2021-10-20 | 2022-04-20 |
@@ -268,7 +269,7 @@
 | [Moon](https://open.spotify.com/track/36buqw0d9Vb8LEtCSLOALu) | [Andres Alborok](https://open.spotify.com/artist/7zkqJ8J6yAlrBzDwbIMEEB), [Lamat 8](https://open.spotify.com/artist/6SCo5wTXf6Zab3LG4QZ1fW) | [Moon](https://open.spotify.com/album/17K33CjV7hiOzERXPhyshv) | 4:41 | 2022-03-30 | 2025-07-25 |
 | [Moon & Domino](https://open.spotify.com/track/3LDkxHcVV5H7fU3zASnkDU) | [Camille Cabbabe](https://open.spotify.com/artist/0kNsnflNww6brcHP8Dywn6) | [K2](https://open.spotify.com/album/7HeE9amV1xHGKfG8YLfUTz) | 2:08 | 2025-04-15 |  |
 | [Moondust](https://open.spotify.com/track/07iYIlLUadhc2BDCoSck5W) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Moondust](https://open.spotify.com/album/2KsPxlCq5ohM8mBQfaJyvy) | 2:13 | 2022-01-20 | 2022-07-17 |
-| [Moonlit Whispers](https://open.spotify.com/track/4lxrnbNCqFxywcO2hC5pbD) | [Volodja Brodsky](https://open.spotify.com/artist/3j7qT7OdjOJBQTkJS5jwtd) | [Whispering Ln](https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951) | 5:20 | 2024-08-16 |  |
+| [Moonlit Whispers](https://open.spotify.com/track/4lxrnbNCqFxywcO2hC5pbD) | [Volodja Brodsky](https://open.spotify.com/artist/3j7qT7OdjOJBQTkJS5jwtd) | [Whispering Ln](https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951) | 5:20 | 2024-08-16 | 2026-07-14 |
 | [Morning Dancing](https://open.spotify.com/track/7CuqddnG0PqziRanIm6WrQ) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Jim Doney](https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8) | [Point Zero](https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI) | 9:52 | 2022-05-18 | 2023-10-03 |
 | [Mt Baker](https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:12 | 2021-12-01 |  |
 | [Mudita](https://open.spotify.com/track/7CYsCrteAXeSEADg1KyNvI) | [Marko Ivic](https://open.spotify.com/artist/5LqMTuz0Lw3pN29tpmDE5C) | [Mudita](https://open.spotify.com/album/54Zk9JASCc4kYAnJHlOX2K) | 6:17 | 2024-02-26 | 2025-11-15 |

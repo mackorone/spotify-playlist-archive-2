@@ -7553,6 +7553,24 @@
     },
     {
       "album": {
+        "name": "Fomo",
+        "url": "https://open.spotify.com/album/6JSwfaJHoJzy5GTSugAv5t"
+      },
+      "artists": [
+        {
+          "name": "Marcoo",
+          "url": "https://open.spotify.com/artist/78r09t3sUYBpJSrYZqeAxb"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178336,
+      "name": "Soy Bitcoin",
+      "url": "https://open.spotify.com/track/1En4oVInBsxbcnnhJqnqxM"
+    },
+    {
+      "album": {
         "name": "Spacing Out",
         "url": "https://open.spotify.com/album/4e7aOzK90rVVOHI10ogtGd"
       },
@@ -9518,6 +9536,24 @@
       "duration_ms": 264047,
       "name": "WITHOUT A RUSH",
       "url": "https://open.spotify.com/track/5wERfkI6PVJx5TNLBHD9Gj"
+    },
+    {
+      "album": {
+        "name": "IS IT STILL IN ME?",
+        "url": "https://open.spotify.com/album/1CnOt3j4Oxhu2Iy81TrpXJ"
+      },
+      "artists": [
+        {
+          "name": "Twmmy",
+          "url": "https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264047,
+      "name": "WITHOUT A RUSH",
+      "url": "https://open.spotify.com/track/6ZBbGUG2MtXgcWzfLX2KPX"
     },
     {
       "album": {

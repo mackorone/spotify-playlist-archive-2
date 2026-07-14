@@ -4,7 +4,7 @@
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-183 songs - 10 hr 15 min
+184 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,11 +170,12 @@
 | [TEM CORAGEM](https://open.spotify.com/track/4m1rIYJfM2R9EMH7YeqSsQ) | [Bells](https://open.spotify.com/artist/3zl0R9GYjgPiS74kSz6kvN), [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O) | [TEM CORAGEM](https://open.spotify.com/album/7d2d1U9WXWm4pcEwtiAP93) | 4:04 | 2024-09-30 | 2024-12-07 |
 | [Terra do Sol](https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf) | [Calmô](https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy), [Tupi Machine](https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l) | [Terra do Sol](https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8) | 2:33 | 2023-07-03 | 2025-02-22 |
 | [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 | 2023-07-03 | 2023-10-14 |
+| [Time Won’t Wait](https://open.spotify.com/track/3wbqx5euzFgiPWg6zQRK7J) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [Time Won’t Wait](https://open.spotify.com/album/53BphEUeLMphh5CCKe8Uo2) | 3:30 | 2026-07-13 |  |
 | [Toda Molhada \(Casa do Sol\) \- Ao Vivo 25 Anos](https://open.spotify.com/track/1g6Ng6XKGC8ns0aWFS5Zun) | [Comunidade Nin\-jitsu](https://open.spotify.com/artist/46Jgh80vLc36SBFi9UXpcg) | [Toda Molhada \(Casa do Sol\) \- Ao Vivo 25 Anos](https://open.spotify.com/album/3qDRvHE5ZYck86T7SrGdS1) | 4:35 | 2023-07-03 | 2024-02-24 |
 | [Toda Noite](https://open.spotify.com/track/4yK5IkPZoj0RCWcn6vJz74) | [Edu Ribeiro](https://open.spotify.com/artist/1fB70H0nL0avbtQEGi8pLE) | [Toda Noite](https://open.spotify.com/album/5ZSiRjfNCBEyF20FtrEL6j) | 3:49 | 2024-12-06 | 2025-04-06 |
 | [Todo Corpo](https://open.spotify.com/track/1MvZd2Ti0NJvYr58bBArn3) | [Héloa](https://open.spotify.com/artist/7DFdiuoXSlZnvRxU83UvCi) | [Todo Corpo](https://open.spotify.com/album/2nwFfB3kFNkM9qehdqmxNm) | 3:40 | 2024-04-12 | 2024-07-01 |
 | [True To Myself](https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:45 | 2023-07-03 | 2025-02-22 |
-| [Tô Em Casa](https://open.spotify.com/track/71GwNOolQgbTqG4YQM8TNO) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Tô Em Casa](https://open.spotify.com/album/1tHXr2JpbZAyn4cS6eObs7) | 2:46 | 2023-07-03 |  |
+| [Tô Em Casa](https://open.spotify.com/track/71GwNOolQgbTqG4YQM8TNO) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Tô Em Casa](https://open.spotify.com/album/1tHXr2JpbZAyn4cS6eObs7) | 2:46 | 2023-07-03 | 2026-07-14 |
 | [Tô Falando Sério](https://open.spotify.com/track/6z2uY9gMkM0L5tLhUqRf9K) | [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN) | [Tô Falando Sério](https://open.spotify.com/album/3K8vP1P69XZSzHRnqRhdLG) | 2:26 | 2023-07-03 | 2024-02-24 |
 | [Tô Te Esperando pra Dançar](https://open.spotify.com/track/1qBn46JiD592bFbumAR3G7) | [Gu Andersen](https://open.spotify.com/artist/66b5vc5HnjIcG0cwWg5ITA), [Bells](https://open.spotify.com/artist/3zl0R9GYjgPiS74kSz6kvN) | [Tô Te Esperando pra Dançar](https://open.spotify.com/album/1YDBkaJhuTl1S9FRFxiw2h) | 3:18 | 2024-08-30 | 2024-11-16 |
 | [Um Anjo do Céu](https://open.spotify.com/track/2YgAAAq8h7nPIMVLVVSHtK) | [Maskavo](https://open.spotify.com/artist/4wvAGBushcLkCZ1lEZsYMf) | [Já](https://open.spotify.com/album/6TVsnE10smdfVGIEG5BFbM) | 3:19 | 2023-07-03 | 2025-05-10 |

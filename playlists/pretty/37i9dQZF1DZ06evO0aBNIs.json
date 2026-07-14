@@ -1,12 +1,12 @@
 {
   "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
-  "num_followers": 759961,
+  "num_followers": 760037,
   "original_name": "This Is Avril Lavigne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAACTRcZ40S1/EvSB/DcW4iLQ",
+  "snapshot_id": "alLZAAAAAADQ4InTQ055NzMEYkKEefcx",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 239906,
-      "name": "Keep Holding On",
-      "url": "https://open.spotify.com/track/4UPcXTh26ilb7owtuyHqNI"
+      "duration_ms": 202973,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/6z7fZRrQfOH3ZjWEkC4QhC"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 202973,
-      "name": "Hot",
-      "url": "https://open.spotify.com/track/6z7fZRrQfOH3ZjWEkC4QhC"
+      "duration_ms": 239906,
+      "name": "Keep Holding On",
+      "url": "https://open.spotify.com/track/4UPcXTh26ilb7owtuyHqNI"
     },
     {
       "added_at": null,

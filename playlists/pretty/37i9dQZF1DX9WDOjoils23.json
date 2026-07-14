@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 42896,
+  "num_followers": 42921,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -411,26 +411,6 @@
     {
       "added_at": "2026-06-25 16:43:44",
       "album": {
-        "name": "Nit Khair Manga",
-        "url": "https://open.spotify.com/album/1GpHMadC0c2fwLxZPPBe5b"
-      },
-      "artists": [
-        {
-          "name": "Divyam Sodhi",
-          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
-        },
-        {
-          "name": "Khwaab",
-          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Nit Khair Manga",
-      "url": "https://open.spotify.com/track/56xKQu2yEWxz5h2Iv5jwVe"
-    },
-    {
-      "added_at": "2026-06-25 16:43:44",
-      "album": {
         "name": "Qubool Hai",
         "url": "https://open.spotify.com/album/0YqdLvNV20CLUKQAZPfnf6"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 409137,
       "name": "Qubool Hai",
       "url": "https://open.spotify.com/track/3L0pDSx6tBEuBs6f2gk7tQ"
+    },
+    {
+      "added_at": "2026-06-25 16:43:44",
+      "album": {
+        "name": "Nit Khair Manga",
+        "url": "https://open.spotify.com/album/1GpHMadC0c2fwLxZPPBe5b"
+      },
+      "artists": [
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        },
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Nit Khair Manga",
+      "url": "https://open.spotify.com/track/56xKQu2yEWxz5h2Iv5jwVe"
     },
     {
       "added_at": "2026-06-25 16:43:44",
@@ -643,6 +643,26 @@
     {
       "added_at": "2026-06-25 16:43:44",
       "album": {
+        "name": "DUMA DUM MAST QALANDER (Rebooted & Revved Up)",
+        "url": "https://open.spotify.com/album/0ryfzVTE1efrUdiRmnR5eI"
+      },
+      "artists": [
+        {
+          "name": "Master Saleem",
+          "url": "https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y"
+        },
+        {
+          "name": "Hashmat Sultana",
+          "url": "https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok"
+        }
+      ],
+      "duration_ms": 249545,
+      "name": "DUMA DUM MAST QALANDER - Rebooted & Revved Up",
+      "url": "https://open.spotify.com/track/6uVX6rVtBCNk648wmMtWOU"
+    },
+    {
+      "added_at": "2026-06-25 16:43:44",
+      "album": {
         "name": "Ranjha",
         "url": "https://open.spotify.com/album/3IKEzGl5fUUO29QdbPlc9X"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 291251,
       "name": "Ranjha",
       "url": "https://open.spotify.com/track/65ixdACjOb3qOSLnGONOSB"
-    },
-    {
-      "added_at": "2026-06-25 16:43:44",
-      "album": {
-        "name": "DUMA DUM MAST QALANDER (Rebooted & Revved Up)",
-        "url": "https://open.spotify.com/album/0ryfzVTE1efrUdiRmnR5eI"
-      },
-      "artists": [
-        {
-          "name": "Master Saleem",
-          "url": "https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y"
-        },
-        {
-          "name": "Hashmat Sultana",
-          "url": "https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok"
-        }
-      ],
-      "duration_ms": 249545,
-      "name": "DUMA DUM MAST QALANDER - Rebooted & Revved Up",
-      "url": "https://open.spotify.com/track/6uVX6rVtBCNk648wmMtWOU"
     },
     {
       "added_at": "2026-06-25 16:43:44",

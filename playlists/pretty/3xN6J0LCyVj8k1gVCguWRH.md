@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,452 likes - 208 songs - 12 hr 4 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,450 likes - 209 songs - 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -216,5 +216,6 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 206 | [Get Me Out](https://open.spotify.com/track/7mpeImgGAkaeuK6sUkY4Jj) | [Cesario](https://open.spotify.com/artist/7Kiklhm5NnMvGES9cr6Gic) | [Get Me Out](https://open.spotify.com/album/7mUn65wuSjFLKVbl2NG2UK) | 3:57 |
 | 207 | [Eshey](https://open.spotify.com/track/0qMaisy3JYZdg90CVuZR8g) | [PKG Vntz](https://open.spotify.com/artist/4yxQydQCmkReK5P5B1IbuM), [Diamond Boy](https://open.spotify.com/artist/2Mr8ln1UwCpIFb1KeeS5TE) | [Silly/ Eshey](https://open.spotify.com/album/1DCenOUzpUZC53FulkKYmW) | 2:26 |
 | 208 | [Ginger Me](https://open.spotify.com/track/1Rm3JZ6UJiqr5B34NvrN39) | [WizzyVybzWave](https://open.spotify.com/artist/7w9J4v53cJ5hJxk52T2DZo) | [Ginger Me](https://open.spotify.com/album/2A531LSQOQ1e3Utllld9VO) | 3:44 |
+| 209 | [Lights Down](https://open.spotify.com/track/7ihxR27tybU9Kf5tx3Rnbg) | [Baby Richman](https://open.spotify.com/artist/0Rflnb0WvYeuK5B6AHVSXE) | [Lights Down](https://open.spotify.com/album/21S1PqYmW5l0WF1uUluF7s) | 3:13 |
 
-Snapshot ID: `AAA8jBu9XPd49iuSiatOpg19Nh/9jMOx`
+Snapshot ID: `AAA8jaZ7XIINr4yDfazJq6iE33CrPzsw`

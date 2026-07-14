@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 50036,
+  "num_followers": 50040,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2026-07-03 07:28:10",
       "album": {
+        "name": "Fermata",
+        "url": "https://open.spotify.com/album/3v1d74UUOHYRVZV01vvuhX"
+      },
+      "artists": [
+        {
+          "name": "YOUNGJAE",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Escape to Me",
+      "url": "https://open.spotify.com/track/4TpP0C0g138XLBytuduE0m"
+    },
+    {
+      "added_at": "2026-07-03 07:28:10",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 215537,
       "name": "A Race",
       "url": "https://open.spotify.com/track/2XIxIDXxuE9d97TqjQPwQy"
-    },
-    {
-      "added_at": "2026-07-03 07:28:10",
-      "album": {
-        "name": "Fermata",
-        "url": "https://open.spotify.com/album/3v1d74UUOHYRVZV01vvuhX"
-      },
-      "artists": [
-        {
-          "name": "YOUNGJAE",
-          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Escape to Me",
-      "url": "https://open.spotify.com/track/4TpP0C0g138XLBytuduE0m"
     },
     {
       "added_at": "2026-07-03 07:28:10",

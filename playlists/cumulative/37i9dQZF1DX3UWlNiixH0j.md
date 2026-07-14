@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 青葉市子 Ichiko Aoba
 
-3,614 songs - 9 day 12 hr 59 min
+3,615 songs - 9 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1784,6 +1784,7 @@
 | [Signal](https://open.spotify.com/track/0RWAEbEcbu53uJjGEykgOi) | [藤本夏樹](https://open.spotify.com/artist/0l14yZqsqEyTqqaR7tz4iz) | [RANDOM](https://open.spotify.com/album/4S7xvdrtOQqUFMd9Clwksr) | 5:07 | 2023-08-08 | 2023-08-23 |
 | [silence](https://open.spotify.com/track/4gavRqPb1i4PZa61UPF5rv) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [silence](https://open.spotify.com/album/0SzgO8c1ythyfqMew5XYHp) | 3:42 | 2026-02-17 | 2026-04-01 |
 | [Silent Night](https://open.spotify.com/track/4Mk5HxrnnNy0SZ5oLcuLH0) | [Kawabe Moto](https://open.spotify.com/artist/0BcWtTLPn8svqCdk4FnetR) | [Silent Night / Ekimae](https://open.spotify.com/album/25ZRJLmZFSgw8Lrp7hs0Ak) | 4:30 | 2025-12-09 | 2025-12-17 |
+| [Simone](https://open.spotify.com/track/5E7iBT5WQtXBmpPGcPZ5mR) | [Buddha Jane](https://open.spotify.com/artist/2PgGIyvok0ttueHKmZGhgM) | [Simone](https://open.spotify.com/album/2rS7GdcsaBQxaQxVMa4n8Q) | 3:51 | 2026-07-13 |  |
 | [Sing You Lullaby](https://open.spotify.com/track/3RmB2AtBeJD0RlfDIfdwK1) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [Sing You Lullaby](https://open.spotify.com/album/1mc4pdSstVJ67gvmTrFznl) | 2:51 | 2025-04-15 | 2025-04-23 |
 | [sinister](https://open.spotify.com/track/7tR03ofElFzll0dVIgnIAm) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [sinister](https://open.spotify.com/album/2sYMWQ3gsmhz8waGwYpGCq) | 3:38 | 2023-04-11 | 2024-01-09 |
 | [siro](https://open.spotify.com/track/45iBvegExfIRmkaSF2qKZ7) | [futures](https://open.spotify.com/artist/2wtFS2xpKzmzVCD1k9vhI6) | [siro](https://open.spotify.com/album/0KVac4opVyftJLTKKVQj6G) | 5:10 | 2025-02-18 | 2025-02-26 |

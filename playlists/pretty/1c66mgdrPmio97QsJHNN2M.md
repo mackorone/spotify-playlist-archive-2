@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,738 likes - 289 songs - 15 hr 9 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,753 likes - 297 songs - 15 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -295,7 +295,15 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 285 | [Breath Between Goodbyes](https://open.spotify.com/track/4l0MXZV1IMLJOiYrfi3fiG) | [The Divas Five](https://open.spotify.com/artist/2IKZBpocujc08kPUTKpcfh) | [Breath Between Goodbyes](https://open.spotify.com/album/2WKRryfvuceNBlE02YYuPt) | 3:19 |
 | 286 | [Glass\-Heart Groove](https://open.spotify.com/track/3KBvf1yXgo0dSUKgvnO4kR) | [The Blossom](https://open.spotify.com/artist/44tJA03Gm4xOKdO8FQI9az) | [Glass\-Heart Groove](https://open.spotify.com/album/09nhTIUMYYnQT9Se7daqlM) | 3:07 |
 | 287 | [Just Us](https://open.spotify.com/track/6cQ29umh2K5DgdxKaXulTX) | [TELMAN](https://open.spotify.com/artist/1yUoEAx9505meg1nEyulne) | [Just Us](https://open.spotify.com/album/5DF0i9KWbZLxli0y7n8U5f) | 2:30 |
-| 288 | [Little Darling \- Jyrgen Verge Remix](https://open.spotify.com/track/2R3ldxzXJJSjRjhcypSTe2) | [DenManTau](https://open.spotify.com/artist/6W25roUIQ91MhyStOO6IfT), [Jyrgen Verge](https://open.spotify.com/artist/7mpjzxLMfNhUEUkOOOzyTb) | [Little Darling \(Jyrgen Verge Remix\)](https://open.spotify.com/album/07GvQi9hS33U2pbfNHPIJK) | 3:42 |
+| 288 | [Little Darling \- Remix](https://open.spotify.com/track/2R3ldxzXJJSjRjhcypSTe2) | [DenManTau](https://open.spotify.com/artist/6W25roUIQ91MhyStOO6IfT), [Jyrgen Verge](https://open.spotify.com/artist/7mpjzxLMfNhUEUkOOOzyTb) | [Little Darling \(Remix\)](https://open.spotify.com/album/07GvQi9hS33U2pbfNHPIJK) | 3:42 |
 | 289 | [Passing Decades \(2026 Mix\)](https://open.spotify.com/track/6OhXkIh8k02qSxFxtjwWyb) | [Rory Ridley\-Duff](https://open.spotify.com/artist/72cohRXOZ03aOYHrg7rEIi) | [Passing Decades \(2026 Mix\)](https://open.spotify.com/album/58OSn6hpPpHi4W9LkXU4yG) | 3:36 |
+| 290 | [Gap Year Girl](https://open.spotify.com/track/0KPqmnvdMEj6iEbdg8kVRZ) | [Love Juliet](https://open.spotify.com/artist/1YS15EpvCxpGL5SeHcmCqb) | [Gap Year Girl](https://open.spotify.com/album/1ikuup1HT3koggG1ubJ39B) | 2:40 |
+| 291 | [WINTERTIME PUZZLES](https://open.spotify.com/track/1pJzbVbxMnBHLbvNfdEXNh) | [Jesse Cleaves](https://open.spotify.com/artist/15kRGaQ94f0HTKJx6iZDds) | [WINTERTIME PUZZLES](https://open.spotify.com/album/1fmxs8CH1ZBvbXDyxqUTtA) | 3:00 |
+| 292 | [true love \(sped up\)](https://open.spotify.com/track/6Gjl1d38hUSPJH635BMGFA) | [ChaseJr](https://open.spotify.com/artist/3aUQ4lie6wq176yuqtlPYP) | [true love](https://open.spotify.com/album/4iH8BGadKlLDqtWBuQXFR8) | 1:31 |
+| 293 | [Forever Falling for You](https://open.spotify.com/track/3CyyUvpDlu89HZVsUghlj4) | [Harrison Jay](https://open.spotify.com/artist/1IP2JOtGneRPhNZEJTo4TG), [Obsidian Rose](https://open.spotify.com/artist/7iVNdqLpRus9I1Z5zGCbmx) | [Forever Falling for You](https://open.spotify.com/album/6secmtblrcxaNuXhA7Wlrx) | 2:11 |
+| 294 | [Everyone's Belifes](https://open.spotify.com/track/4O5NufkmDK72Pr5YZTQ9sQ) | [Neura](https://open.spotify.com/artist/4XICbjfkxHAYV9Cqr88KFB) | [Everyone's Belifes](https://open.spotify.com/album/5VoBRao4rbcGbcMQAieTPj) | 2:19 |
+| 295 | [Las Calles](https://open.spotify.com/track/2OXlgMMCqM5pPt5zYhtIBG) | [Lilcsr](https://open.spotify.com/artist/7DtNzqDxHYWlygb1fhzBPu) | [Las Calles](https://open.spotify.com/album/1kyUDsagSfYRwwAfc1JhDG) | 2:22 |
+| 296 | [I wanna be your man](https://open.spotify.com/track/33suoS5xUsDtEhhYvRig0R) | [OMER AHMET](https://open.spotify.com/artist/3JVxVTJNYcvna9BAZh0n1w) | [I wanna be your man](https://open.spotify.com/album/5oo5k7OppjYU9oTiuVbo4E) | 3:31 |
+| 297 | [Birds of a Feather](https://open.spotify.com/track/4PFZaXIEanBzrjfTR2P1Wp) | [Beach Symphony](https://open.spotify.com/artist/1g7T3WjueJnRn8SU9b4zRJ) | [Birds of a Feather](https://open.spotify.com/album/2jrt27c4tvGmHf4N5nYykv) | 3:56 |
 
-Snapshot ID: `AAA6eINhznEsJJabyUOEj8rBd8WzEOI9`
+Snapshot ID: `AAA6gOfVev6GWjwzMj4/27lnwyvFTpnN`

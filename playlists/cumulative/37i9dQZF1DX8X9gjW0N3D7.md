@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\.  Photo: Sophia Bel
 
-546 songs - 1 day 6 hr 33 min
+548 songs - 1 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Corail](https://open.spotify.com/track/1zhvNd9Owc6MYk4TjV7wdm) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Corail](https://open.spotify.com/album/55NhEOcVmjVT6gWcI18GFJ) | 3:20 | 2025-01-17 | 2025-03-15 |
 | [Couche tard](https://open.spotify.com/track/2GMjBIujd8dNs5SpT1RQLd) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt) | [Couche tard](https://open.spotify.com/album/7HoyKW7zPtK0VoDXsUwNLQ) | 1:55 | 2025-06-20 | 2025-11-22 |
 | [coucou, comment ça va?](https://open.spotify.com/track/2KFgHnjoIbI2xZZjbxQMWf) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [coucou, comment ça va?](https://open.spotify.com/album/0q5h1NuPKCjq06DSz5q9T7) | 4:13 | 2026-04-30 | 2026-06-13 |
+| [Coude au plancher](https://open.spotify.com/track/3ogPHqMjDF3pPnHKdJxAN1) | [Arpin Lépine](https://open.spotify.com/artist/716wdXFGdFr9p82O3dfmd1), [Tobin](https://open.spotify.com/artist/2s6qJ66nyUULVHTsxscSh9) | [Coude au plancher](https://open.spotify.com/album/1nCDFDLHZPdE8ovpf1qNgi) | 3:46 | 2026-07-13 |  |
 | [Coule douce](https://open.spotify.com/track/1ixXxv3cM3N1fj0dlMdePT) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO), [Pilou](https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c) | [Coule douce](https://open.spotify.com/album/3pkNmEiDoIErguYqeBJ7jf) | 3:10 | 2026-02-13 | 2026-05-09 |
 | [Coup de poing](https://open.spotify.com/track/1LaRRI4KI5mp68FvI2OBMv) | [Guillaume Lafond](https://open.spotify.com/artist/0EgXmvNo92tl6qSXPehQWG) | [Coup de poing](https://open.spotify.com/album/0xc3PJIrmlTk8WHEkM7Agf) | 2:53 | 2024-09-27 | 2024-11-09 |
 | [Coup de vent](https://open.spotify.com/track/55wBGo1kOr3ISMHTTJR28I) | [Erwan](https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH) | [Coup de vent](https://open.spotify.com/album/4Jtej4dOIc8GAogC71Kkix) | 4:29 | 2026-04-10 | 2026-05-09 |
@@ -345,6 +346,7 @@
 | [Naked Pictures](https://open.spotify.com/track/3g3ghs1pdHaEe3FExsx7lY) | [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt) | [Naked Pictures](https://open.spotify.com/album/2aZu7pupiF9fJ1Eumxi1WO) | 2:23 | 2026-03-20 | 2026-05-09 |
 | [NE FERME PAS LES YEUX](https://open.spotify.com/track/7w3wrc3vxHMCYlWDd6eYlZ) | [David Moa](https://open.spotify.com/artist/3jmtiGF45imkF53S9qw8Ji) | [Let it Bloom](https://open.spotify.com/album/2HX6aBQ8oMCQFvd8uPEEK6) | 4:12 | 2026-02-20 | 2026-04-18 |
 | [Ne me fais pas mal](https://open.spotify.com/track/5vMfDo2q3Pl8e4qgczvrzm) | [Édouard Tremblay\-Grenier](https://open.spotify.com/artist/6renDkf9cZYkI2TX5SKD4X) | [François Roberge](https://open.spotify.com/album/6sVp4J3N1Ws0Mouj5ksdAp) | 2:57 | 2026-01-23 | 2026-06-27 |
+| [Ne me quitte pas des yeux](https://open.spotify.com/track/2Ig2HQJp2wdbpQKPcOhL63) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Alouette!](https://open.spotify.com/album/3DH22OuM4KWNsKDevq3j3n) | 5:07 | 2026-07-13 |  |
 | [Ne me quitte pas des yeux](https://open.spotify.com/track/3o8R0EWZOAm7zWkMLG6BNc) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Ne me quitte pas des yeux](https://open.spotify.com/album/7o3NPNaON3hnqFzWZbCY9P) | 5:07 | 2026-02-27 | 2026-05-30 |
 | [Ne partez pas sans moi](https://open.spotify.com/track/040pT97vMtIYgABtNjzrau) | [Star Académie](https://open.spotify.com/artist/4JNaMxBxA6eqY6QYRj5jDK) | [Ne partez pas sans moi](https://open.spotify.com/album/17go52ItR838U5I3fywNDA) | 3:12 | 2025-02-21 | 2025-11-15 |
 | [Ni Dieu ni maître](https://open.spotify.com/track/2Te3XX0nnlY8JdEQlfrWz0) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Ni Dieu ni maître](https://open.spotify.com/album/5PLiXLTCFIEuuEr5BHn7ir) | 3:55 | 2026-03-23 | 2026-05-09 |

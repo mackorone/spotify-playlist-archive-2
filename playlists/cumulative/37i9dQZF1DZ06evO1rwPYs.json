@@ -1641,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "Queen of Salsa: En Vivo Desde Europa",
+        "url": "https://open.spotify.com/album/0AoHIMWcU8TaDXrbXJpPEK"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433816,
+      "name": "La Dicha M\u00eda - En Vivo",
+      "url": "https://open.spotify.com/track/7zEFe9zIxXmIVkWBqi5kII"
+    },
+    {
+      "album": {
         "name": "Cuba y Puerto Rico",
         "url": "https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw"
       },
@@ -2362,7 +2380,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 272251,
       "name": "Oye C\u00f3mo Va",
       "url": "https://open.spotify.com/track/3a5UozLKx9KIg5XeinOiYr"

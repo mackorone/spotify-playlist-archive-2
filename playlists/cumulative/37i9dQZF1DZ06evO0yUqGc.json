@@ -537,6 +537,28 @@
     },
     {
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202446,
+      "name": "Heaven's Gate (feat. Lily Allen)",
+      "url": "https://open.spotify.com/track/6FccLTPgQd0vnrFqmtbD64"
+    },
+    {
+      "album": {
         "name": "It's Not Me, It's You (Special Edition)",
         "url": "https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX"
       },

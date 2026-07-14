@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-864 songs - 2 day 7 hr 42 min
+866 songs - 2 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-10-17 | 2025-10-22 |
 | [Call of Silence](https://open.spotify.com/track/1fN2JjN9Sj2kOPJXLDovSe) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」Season 2 オリジナルサウンドトラック](https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg) | 2:58 | 2022-06-03 | 2022-07-28 |
 | [Call of Silence](https://open.spotify.com/track/7k1HoUdskuBhyWvm7hPctM) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 2:58 | 2022-07-28 | 2024-04-19 |
-| [CASANOVA POSSE](https://open.spotify.com/track/26Lip4WX1oWceF9tb8m2qw) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [CASANOVA POSSE](https://open.spotify.com/album/2xfq9tUp4QOlCGT6j4k0g9) | 4:00 | 2025-04-18 |  |
+| [CASANOVA POSSE](https://open.spotify.com/track/26Lip4WX1oWceF9tb8m2qw) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [CASANOVA POSSE](https://open.spotify.com/album/2xfq9tUp4QOlCGT6j4k0g9) | 4:00 | 2025-04-18 | 2026-07-14 |
 | [Catch the Moment](https://open.spotify.com/track/25UWsqfdAYrJDS2LqVP2hv) | [WACAVA](https://open.spotify.com/artist/6K5fW2F91aYNzfy4FiYgMg), [PelleK](https://open.spotify.com/artist/1qLwXsUtyW2Ba2Iotg4gE3) | [Catch the Moment](https://open.spotify.com/album/1KWkZSBw5YlrB24exegOCQ) | 4:42 | 2022-06-24 | 2022-07-15 |
 | [Celebration \(Movie Edit\) \[feat\. Toko Miura\]](https://open.spotify.com/track/2AmRjWxvLxJK3DjCYNruLI) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [Weathering With You](https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q) | 2:36 | 2022-06-03 | 2022-07-28 |
 | [CHAIN](https://open.spotify.com/track/2ZsDN8E5DL92MFDGV2cM6r) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [CHAIN](https://open.spotify.com/album/48ei3gYn7at2b2eO6ZXMQr) | 4:03 | 2022-06-03 | 2022-07-26 |
@@ -664,7 +664,7 @@
 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 | 2022-12-04 | 2023-01-16 |
 | [初恋カラーズ](https://open.spotify.com/track/12a4SsN1e1xBwhTaOHH2nq) | [大西亜玖璃](https://open.spotify.com/artist/6aUFQSt39umq1GsNbYu4u3) | [Elder flower/初恋カラーズ](https://open.spotify.com/album/5GkcLAaYTUVsbAMgwcz5Jr) | 3:43 | 2022-07-14 | 2022-07-21 |
 | [刹那の鼓動](https://open.spotify.com/track/2vcuyhuQAFHKOWkKMdqb0O) | [吉岡亜衣加](https://open.spotify.com/artist/3SK0go2QBoTNd5W7uPCWM6) | [刹那の鼓動](https://open.spotify.com/album/2JBNKRiyYMN8ap0VFPWmlZ) | 4:40 | 2022-07-26 | 2022-07-28 |
-| [前前前世 \- movie ver.](https://open.spotify.com/track/23eTkfMmq1LvqiDzeNHdVe) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 4:45 | 2022-07-07 |  |
+| [前前前世 \- movie ver.](https://open.spotify.com/track/23eTkfMmq1LvqiDzeNHdVe) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 4:45 | 2022-07-07 | 2026-07-14 |
 | [創聖のアクエリオン](https://open.spotify.com/track/0AiRpK3u9OeM37Wsdkk8eJ) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ 創聖のアクエリオン](https://open.spotify.com/album/2fZRAf3DOShFYTBZ3dolFN) | 4:43 | 2024-04-30 | 2024-07-03 |
 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 | 2024-04-10 | 2025-01-15 |
 | [千夜想歌](https://open.spotify.com/track/5HeD2ZWisLQJVEQLVDLzaW) | [CIVILIAN](https://open.spotify.com/artist/0b2o5veg0MfvF2e11AWfaZ) | [千夜想歌](https://open.spotify.com/album/2G47iByNrswcboIypLq1PD) | 4:51 | 2022-06-24 | 2022-06-26 |
@@ -762,6 +762,7 @@
 | [火炎](https://open.spotify.com/track/3ci0yvrzssec1bqDzMkXuu) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [火炎\(Full Edition\)](https://open.spotify.com/album/3cYIIURFYUIyn7UTsqCVzD) | 3:35 | 2022-06-03 | 2022-07-14 |
 | [火炎](https://open.spotify.com/track/3xVCQGla5LLhrwqNS2FcHo) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [Fire \(Full Edition\)](https://open.spotify.com/album/74Ml5uN949WSHheLQxgaeB) | 3:35 | 2022-07-28 | 2022-09-16 |
 | [火炎](https://open.spotify.com/track/4k2GMy34pt5rQT9aVEzEwq) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [火炎\(Full Edition\)](https://open.spotify.com/album/6DdJGNawJYKpYq6A9hwcfp) | 3:35 | 2024-01-09 | 2024-04-19 |
+| [火種](https://open.spotify.com/track/3WaAa5Fc3LgN7QRn5oVomX) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [火種](https://open.spotify.com/album/1usOiy15DL5VbcguyZmrX5) | 3:24 | 2026-07-13 |  |
 | [灯を護る](https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [灯を護る](https://open.spotify.com/album/5kh25KxBQdiqOPOr05rxM3) | 3:33 | 2026-01-13 | 2026-03-25 |
 | [灯日](https://open.spotify.com/track/5shTlJsofq6UMl93Q4BwDZ) | [saji](https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC) | [灯日](https://open.spotify.com/album/4IG5QN4PXjTZBsGTlPzggG) | 3:15 | 2022-06-24 | 2022-07-27 |
 | [灰色のサーガ](https://open.spotify.com/track/2prKFbvl9cvM2IKDB1twOi) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [灰色のサーガ](https://open.spotify.com/album/2jZ60kmYUrfI8X5ozmXi25) | 3:32 | 2022-07-26 | 2022-07-28 |
@@ -837,6 +838,7 @@
 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 | 2022-06-03 | 2022-10-19 |
 | [轍\~Wadachi\~](https://open.spotify.com/track/0AuEHmUQAMbqf9hrXBQcuT) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [轍\~Wadachi\~](https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho) | 3:42 | 2022-06-03 | 2022-06-13 |
 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 | 2022-10-19 | 2026-04-15 |
+| [逆様](https://open.spotify.com/track/3hETmWK6G4wLMRCADo6hXn) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [逆様](https://open.spotify.com/album/1qq7jAulzATlVCltzautOz) | 2:51 | 2026-07-13 |  |
 | [透明](https://open.spotify.com/track/6HM9odeh1TcxBlkghy69iO) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [透明](https://open.spotify.com/album/7atpOizmkOdg4GtPTjhjrZ) | 3:50 | 2022-06-03 | 2022-07-24 |
 | [透明](https://open.spotify.com/track/4uGObz1zPMzNy6ZMUnaFNR) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [透明](https://open.spotify.com/album/4OD3PNAySdYTVqPHAdn3TD) | 3:16 | 2026-07-08 |  |
 | [透明な世界](https://open.spotify.com/track/6MjG6j8Iuea6XL9cp1aUec) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [透明な世界](https://open.spotify.com/album/5UIoqGhZcqn5XFa1CwWx7I) | 4:03 | 2022-06-03 | 2022-07-27 |

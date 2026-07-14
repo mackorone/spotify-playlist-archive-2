@@ -1,12 +1,12 @@
 {
   "description": "This is Oasis. The essential tracks, all in one playlist.",
-  "num_followers": 6683,
+  "num_followers": 6687,
   "original_name": "This Is Oasis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAAD8C483zhBpagDaXfRXkOMJ",
+  "snapshot_id": "alLZAAAAAAAgvbl/LtA6zmZ7GFRzTjUP",
   "tracks": [
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Masterplan",
-        "url": "https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4"
+        "name": "Definitely Maybe (30th Anniversary)",
+        "url": "https://open.spotify.com/album/4J0amttxitKO3C2qCab3YA"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 322640,
-      "name": "The Masterplan",
-      "url": "https://open.spotify.com/track/0g1Y10aIIdJDkcSEuAq51k"
+      "duration_ms": 274533,
+      "name": "Sad Song - Mauldeth Road West Demo, Nov' 92",
+      "url": "https://open.spotify.com/track/4LFwqwVGdViVgDIvJNIqqV"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Definitely Maybe (30th Anniversary)",
-        "url": "https://open.spotify.com/album/4J0amttxitKO3C2qCab3YA"
+        "name": "The Masterplan",
+        "url": "https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 274533,
-      "name": "Sad Song - Mauldeth Road West Demo, Nov' 92",
-      "url": "https://open.spotify.com/track/4LFwqwVGdViVgDIvJNIqqV"
+      "duration_ms": 322640,
+      "name": "The Masterplan",
+      "url": "https://open.spotify.com/track/0g1Y10aIIdJDkcSEuAq51k"
     },
     {
       "added_at": null,

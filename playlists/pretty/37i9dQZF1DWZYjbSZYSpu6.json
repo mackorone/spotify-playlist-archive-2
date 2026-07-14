@@ -1,6 +1,6 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Sung Si Kyung & Raisa)",
-  "num_followers": 396762,
+  "num_followers": 396754,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,26 @@
     {
       "added_at": "2026-07-03 06:32:48",
       "album": {
+        "name": "Even for a moment",
+        "url": "https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        },
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "duration_ms": 293160,
+      "name": "Even for a moment",
+      "url": "https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD"
+    },
+    {
+      "added_at": "2026-07-03 06:32:48",
+      "album": {
         "name": "THIS NIGHT",
         "url": "https://open.spotify.com/album/4XPkeXge5bJLJsGCpJ1nVi"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 215213,
       "name": "This Night (feat. Blue.D, Jhnovr)",
       "url": "https://open.spotify.com/track/626C6JMdKevCTv10pLeHJf"
-    },
-    {
-      "added_at": "2026-07-03 06:32:48",
-      "album": {
-        "name": "Even for a moment",
-        "url": "https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        },
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 293160,
-      "name": "Even for a moment",
-      "url": "https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD"
     },
     {
       "added_at": "2026-07-03 06:32:48",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-07-03 06:32:48",
       "album": {
-        "name": "You & Me",
-        "url": "https://open.spotify.com/album/6EI3flCxdtzr5oMIxdHWJe"
-      },
-      "artists": [
-        {
-          "name": "DOK2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "LEEHI",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/7j2HXqNaP7V5oOayUpU1rV"
-    },
-    {
-      "added_at": "2026-07-03 06:32:48",
-      "album": {
         "name": "I Wanna Be - The 1st Album Repackage",
         "url": "https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 193263,
       "name": "I Wanna Be",
       "url": "https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i"
+    },
+    {
+      "added_at": "2026-07-03 06:32:48",
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/6EI3flCxdtzr5oMIxdHWJe"
+      },
+      "artists": [
+        {
+          "name": "DOK2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "LEEHI",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/7j2HXqNaP7V5oOayUpU1rV"
     },
     {
       "added_at": "2026-07-03 06:32:48",
@@ -1003,22 +1003,22 @@
     {
       "added_at": "2026-07-03 06:32:48",
       "album": {
-        "name": "Love(Prod.Rocoberry)",
-        "url": "https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH"
+        "name": "Did you wake up? (one and only romance X Hello Ga-Young, WONPIL(DAY6))",
+        "url": "https://open.spotify.com/album/3LKDYgN60NINDo6HBynrq0"
       },
       "artists": [
         {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
         },
         {
-          "name": "LEE SUNG KYOUNG",
-          "url": "https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP"
+          "name": "WONPIL",
+          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
         }
       ],
-      "duration_ms": 220626,
-      "name": "Love(Prod.Rocoberry)",
-      "url": "https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS"
+      "duration_ms": 199146,
+      "name": "Did you wake up? (one and only romance X Hello Ga-Young, WONPIL(DAY6))",
+      "url": "https://open.spotify.com/track/3pw62nzuActNxaMDhxoQVS"
     }
   ],
   "unique_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",

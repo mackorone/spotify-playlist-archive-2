@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 
 ### [Pop Focus \| Pop Music for ADHD, Studying, Stress, and Anxiety](https://open.spotify.com/playlist/24U0Ot6ffyRdCjR8IdPLTo)
 
-> 🎧 Pop Study Zone 📚\. Dive into deep focus &amp; elevate your study sessions for ADHD, exams, or deep work\. Calming pop that sparks productivity &amp; curbs anxiety\. Feat\. Holly Humberstone, Gracie Abrams, Noah Kahan &amp; rising indie stars\. Updated regularly\. Save &amp; share this essential study mix!
+> 🎧 Study Flow Pop 🧠\. Maximize your focus &amp; boost cognitive function for studying, exams, &amp; deep work\. Chill Pop beats specifically for ADHD to reduce distractions &amp; calm your mind\. Feat\. Halsey, Lauv, Alec Benjamin &amp; curated new pop\. Updated weekly\. Listen now for optimized study sessions!
 
-[Topsify](https://open.spotify.com/user/topsify) - 9,650 likes - 100 songs - 5 hr 28 min
+[Topsify](https://open.spotify.com/user/topsify) - 9,649 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 | 99 | [Love You To Death](https://open.spotify.com/track/1LuGdo7IQW64Z6qyOq6kuw) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Love You To Death](https://open.spotify.com/album/2kWsq2EhITWoK0N4pu09A7) | 2:19 |
 | 100 | [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 |
 
-Snapshot ID: `AAAGdm8b1VRkE0FrSMz3rs9i6XBuQemO`
+Snapshot ID: `AAAGdwDu+8j/vAbKUiB0JPOAOhzjaikz`

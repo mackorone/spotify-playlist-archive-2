@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 775,
+  "num_followers": 781,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADzKgbbOueWG5JLIBXwb8nL0jsVg1g",
+  "snapshot_id": "AAADzhoy84vn7JFYF+vYrap2bceZk1g1",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1347,6 +1347,38 @@
       "duration_ms": 158400,
       "name": "Run - Cover",
       "url": "https://open.spotify.com/track/7qCzuCpMsiQqPqyjsURAQZ"
+    },
+    {
+      "added_at": "2026-07-13 10:56:46",
+      "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/5PcV3AxCIWaXY4t2f26cbb"
+      },
+      "artists": [
+        {
+          "name": "Revolana",
+          "url": "https://open.spotify.com/artist/10GMiQxPVYdUZ5OceNBtNC"
+        }
+      ],
+      "duration_ms": 151124,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/5JDoCALAWk9tryxgXaNHtN"
+    },
+    {
+      "added_at": "2026-07-14 00:28:59",
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/7walbgh9oEj9ZEzp6BY48s"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Jonsson",
+          "url": "https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx"
+        }
+      ],
+      "duration_ms": 242253,
+      "name": "United",
+      "url": "https://open.spotify.com/track/5jatJhTrrKfJRZZCHMM6tT"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

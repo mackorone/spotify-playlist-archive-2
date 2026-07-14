@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,481 likes - 293 songs - 16 hr 16 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,490 likes - 304 songs - 16 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -296,10 +296,21 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 286 | [deceived](https://open.spotify.com/track/5wYc5u1J7qUjmwLiHJRGZG) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [deceived](https://open.spotify.com/album/4RntmhyWWyLjAWdfOI3Fth) | 2:24 |
 | 287 | [COMEBACK](https://open.spotify.com/track/1WueuwIcvtCOC3uLhPK815) | [Alex Sandra](https://open.spotify.com/artist/6M0BEwom1GzPfvDXbhb2qi), [Silos](https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9) | [COMEBACK](https://open.spotify.com/album/0ZmkyAWkROPIOimaeECyjH) | 3:40 |
 | 288 | [Backstabbing Aside](https://open.spotify.com/track/5xz9coyceFfawPzjoeuarl) | [Apache Rose](https://open.spotify.com/artist/6UiyXCbm8nWQB3ODDyDkA7) | [Backstabbing Aside](https://open.spotify.com/album/1cx8aMWD7C78NH8LUwzmsV) | 4:20 |
-| 289 | [Lightspeed](https://open.spotify.com/track/0Yu2piUOhLiwCQo8EFWvU3) | [Lyra Ash](https://open.spotify.com/artist/1ifx4vYdESbELp6kikeprp) | [Lightspeed](https://open.spotify.com/album/2I4w8HcHeeejYMgmwfaPNg) | 3:15 |
-| 290 | [Just My Style](https://open.spotify.com/track/0usJsw64exL53A5maMb5V2) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Just My Style](https://open.spotify.com/album/0l7iIFtaRYX64L86PGfBbp) | 3:08 |
-| 291 | [All Our Garden](https://open.spotify.com/track/2XcH0LhEdc5JqxCxbycOfA) | [bradleynotbrad](https://open.spotify.com/artist/722BstvnwTMR8HeofZ3FsS) | [Early for Tomorrow](https://open.spotify.com/album/0b6kBuipC2TA5ZuvHe4kv1) | 3:14 |
-| 292 | [Vanity](https://open.spotify.com/track/7y4Nk2fKgkRXsSjNG5CFYg) | [RESENTLESS.](https://open.spotify.com/artist/55vgJME2WgJi6eq7bMsi6J) | [Vanity](https://open.spotify.com/album/2IhwgZkqWixLb13jSpeVu3) | 2:42 |
-| 293 | [Joe and Serena](https://open.spotify.com/track/1P6C2xeRMI7RcFKl3HMYwE) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 2:20 |
+| 289 | [Die By The Sword](https://open.spotify.com/track/2rJne5ulBILHWgOYGWOq5F) | [Kiaatti](https://open.spotify.com/artist/377cfCgISHAg4XpqT07ei8), [ADG YellaBoi](https://open.spotify.com/artist/6wIfVfxdMW2UNePhYv1cob) | [Die By The Sword](https://open.spotify.com/album/1K6v41Xlv4fDiyqgkWVZCB) | 2:57 |
+| 290 | [Everlasting](https://open.spotify.com/track/5h4UZYPdF9QDl5qDqDs2E1) | [Hurricane 5AM](https://open.spotify.com/artist/00XYXkpt3uf0cMhNoffCRO) | [Badlands](https://open.spotify.com/album/6Arc9qH9m1rBnpfPtuneAn) | 3:03 |
+| 291 | [The Good Luck of a Bad Romance](https://open.spotify.com/track/2raLip0KvgQsBMFy229IYf) | [Bones In The Museum](https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT) | [The Good Luck of a Bad Romance](https://open.spotify.com/album/6gJWjcSqu31V72p4G0JJYE) | 3:51 |
+| 292 | [Mundo Infeliz](https://open.spotify.com/track/4wD588EI0N67gAXGGDaN98) | [Lo Que Nunca Fuimos](https://open.spotify.com/artist/6fjRwIsTHVRTAELwXewKBI) | [El Viejo Y Querido Punk Rock](https://open.spotify.com/album/3KcAhyLdLNx9oMuXoLn6F4) | 3:10 |
+| 293 | [Lightspeed](https://open.spotify.com/track/0Yu2piUOhLiwCQo8EFWvU3) | [Lyra Ash](https://open.spotify.com/artist/1ifx4vYdESbELp6kikeprp) | [Lightspeed](https://open.spotify.com/album/2I4w8HcHeeejYMgmwfaPNg) | 3:15 |
+| 294 | [Just My Style](https://open.spotify.com/track/0usJsw64exL53A5maMb5V2) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Just My Style](https://open.spotify.com/album/0l7iIFtaRYX64L86PGfBbp) | 3:08 |
+| 295 | [All Our Garden](https://open.spotify.com/track/2XcH0LhEdc5JqxCxbycOfA) | [bradleynotbrad](https://open.spotify.com/artist/722BstvnwTMR8HeofZ3FsS) | [Early for Tomorrow](https://open.spotify.com/album/0b6kBuipC2TA5ZuvHe4kv1) | 3:14 |
+| 296 | [Vanity](https://open.spotify.com/track/7y4Nk2fKgkRXsSjNG5CFYg) | [RESENTLESS.](https://open.spotify.com/artist/55vgJME2WgJi6eq7bMsi6J) | [Vanity](https://open.spotify.com/album/2IhwgZkqWixLb13jSpeVu3) | 2:42 |
+| 297 | [Joe and Serena](https://open.spotify.com/track/1P6C2xeRMI7RcFKl3HMYwE) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 2:20 |
+| 298 | [Big Car](https://open.spotify.com/track/3VakH1BK08lAILT4oyyhHQ) | [Barnshed](https://open.spotify.com/artist/25NiXzEzQZXv5AXSUJ0QbP) | [Big Car](https://open.spotify.com/album/7cCZmHsRJEC6t9E2Th47C4) | 2:57 |
+| 299 | [How Do You Sleep?](https://open.spotify.com/track/4jPV9n9d4ofuJEeurNh7WE) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [How Do You Sleep?](https://open.spotify.com/album/21I90xcafuUMscBPvpalvt) | 2:55 |
+| 300 | [Edge of a Knife](https://open.spotify.com/track/1Eogckk6L0kcm5iwnXyz1c) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Edge of a Knife](https://open.spotify.com/album/7Ki0iA1JMqrdqosCQunBhd) | 2:40 |
+| 301 | [Soundtrack of a Dying Dream](https://open.spotify.com/track/32EqgOrpKnCdTKfW0SShiM) | [The Last Pioneers](https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM) | [Soundtrack of a Dying Dream](https://open.spotify.com/album/4ZzcGcoJ7wA5l4D1ngp9qF) | 3:40 |
+| 302 | [Yellow](https://open.spotify.com/track/6qwbAsMNRLZdvzx9bGzpWZ) | [Luan Luan](https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG) | [Yellow](https://open.spotify.com/album/5Klb8K3CFOPAJgfPAupUKV) | 4:19 |
+| 303 | [Dethroned \- Single Version](https://open.spotify.com/track/4qozyUj1G2qVakk2p7bn2t) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [Dethroned](https://open.spotify.com/album/2YANVUxhMLXy7CY1SYX8pk) | 2:57 |
+| 304 | [SILENCE INTO SOUND](https://open.spotify.com/track/36Rfe6kKy9U1JLJyngJuyy) | [Re:Instinct](https://open.spotify.com/artist/5sQwAdM036wHrul770MyqT) | [SILENCE INTO SOUND](https://open.spotify.com/album/1x80ZWeW9EGJubxRWOebn5) | 3:12 |
 
-Snapshot ID: `AAARkqnH9gt/DYwhrVUkfgh+oPXebgej`
+Snapshot ID: `AAARnWWUKYZdUy6r2vhXTuwZ0vsbkV7a`

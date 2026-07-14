@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Mack Keane
 
-1,360 songs - 3 day 9 hr 43 min
+1,362 songs - 3 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -716,6 +716,7 @@
 | [Little Bit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6Vq3kVswTkMyXNfyFEfBbX) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Spotify Singles](https://open.spotify.com/album/4U9Z2CNRkgjTbupyX2OXUN) | 2:26 | 2022-01-19 |  |
 | [Little Things \- Spotify Studio Oyster Recording](https://open.spotify.com/track/6AyfS4IEX0XrPOgJdb1kAM) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Little Things \(Spotify Studio Oyster Recording\)](https://open.spotify.com/album/58X5fsJT2bWfB6KpQJhGzI) | 3:23 | 2025-02-13 |  |
 | [Lizard \(Alternate Universe\) \- Spotify Singles](https://open.spotify.com/track/1CGKhnXxoyXZa2PLQdYW1X) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 2:51 | 2022-01-19 |  |
+| [LLEVA AL SOL \(Live\) \- Spotify Live Room](https://open.spotify.com/track/3ukh2uh6yuHuyrYhiq0No8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Rels B \- Spotify Live Room](https://open.spotify.com/album/42xIr4vHShxAWnsIFmmG0N) | 2:37 | 2026-07-13 |  |
 | [Loading Zones \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/29g4GrixF3dLKhiBiyDXS5) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Spotify Singles](https://open.spotify.com/album/682eaYOi2FDTTnDxnhcelE) | 2:44 | 2022-01-19 |  |
 | [Loading Zones \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6DFRmyB4extuKOIbIw0ATq) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Spotify Singles](https://open.spotify.com/album/2WYaBZWo157sNWHyKpXai8) | 2:44 | 2022-07-05 | 2024-04-19 |
 | [Location \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2mKvT6ktC8tQbaKOHUKU6X) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Spotify Singles](https://open.spotify.com/album/67heSgreFffe8zNCXhTAII) | 2:58 | 2023-10-02 | 2024-04-19 |
@@ -938,6 +939,7 @@
 | [Passionfruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/32s8Fw4H89EkJ5DPKEWnWY) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:41 | 2022-01-19 |  |
 | [Passionfruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1ZEwtauaLu1s6LlCSpo04U) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Spotify Singles](https://open.spotify.com/album/5DqAR5V10hgBupy2yesNzW) | 4:26 | 2022-01-19 |  |
 | [Passionfruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7It4zopBMUEaJ9F24CF3tG) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Ripple Waves](https://open.spotify.com/album/1N5bqHytFgwnEgpCSECdn7) | 4:27 | 2023-03-15 | 2024-04-19 |
+| [PAÑUELITO DE SEDA \(Live\) \- Spotify Live Room](https://open.spotify.com/track/36LheLzOGQecNf5h10MmjB) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Rels B \- Spotify Live Room](https://open.spotify.com/album/42xIr4vHShxAWnsIFmmG0N) | 2:24 | 2026-07-13 |  |
 | [Peaches \- Spotify Singles](https://open.spotify.com/track/2SZ6Trbdt2vH5xZ1puA1tM) | [Shaznay Lewis](https://open.spotify.com/artist/4LUOGNccPSilRIm4Jcflg2) | [Spotify Singles](https://open.spotify.com/album/6QhTn5Q6IV6L0NHg0JLOnX) | 3:27 | 2024-08-01 |  |
 | [people pleaser \- Spotify Singles](https://open.spotify.com/track/4pt2q4CYb9gRJq48mQ7HIE) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Spotify Singles](https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO) | 3:27 | 2022-10-26 |  |
 | [Perfume \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6jPNBp1lDOoLNYm4sd2rWq) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 2:35 | 2022-01-19 |  |

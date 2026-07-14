@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1147,
+  "num_followers": 1158,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGnu0m8haM2OUTt8DyVuAA1iByvck2",
+  "snapshot_id": "AAAGoAa2vc0kRJKtgLmnQ20kzyeYyjF3",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1955,6 +1955,38 @@
       "duration_ms": 243750,
       "name": "what're we doing?",
       "url": "https://open.spotify.com/track/04bZCSivQeAQLCfVu6CTEQ"
+    },
+    {
+      "added_at": "2026-07-13 10:52:29",
+      "album": {
+        "name": "Falling Curtain",
+        "url": "https://open.spotify.com/album/0hsbIouOmJOjyPfwRoG1Z8"
+      },
+      "artists": [
+        {
+          "name": "Ask The Dust",
+          "url": "https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND"
+        }
+      ],
+      "duration_ms": 208346,
+      "name": "Falling Curtain",
+      "url": "https://open.spotify.com/track/2yHWrzZ7foMNuft7TlarBm"
+    },
+    {
+      "added_at": "2026-07-13 15:43:36",
+      "album": {
+        "name": "One Life in a Second",
+        "url": "https://open.spotify.com/album/31tJrwZLvVxTmiDHo7I5es"
+      },
+      "artists": [
+        {
+          "name": "Beyond the touch",
+          "url": "https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93"
+        }
+      ],
+      "duration_ms": 281025,
+      "name": "One Life in a Second",
+      "url": "https://open.spotify.com/track/3ejiegnz0P0wCBmDiVt6DS"
     }
   ],
   "unique_name": "Unsigned Rock",

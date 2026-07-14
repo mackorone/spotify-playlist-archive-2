@@ -18347,6 +18347,24 @@
     },
     {
       "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/0TVnT7UIPFln8ztsb2cdwb"
+      },
+      "artists": [
+        {
+          "name": "Gina Jeanz",
+          "url": "https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286229,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/71XJZeCmG14wFL58SNcQgd"
+    },
+    {
+      "album": {
         "name": "Riga",
         "url": "https://open.spotify.com/album/3puESyF040eq4WYWJPSG4S"
       },
@@ -22306,7 +22324,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 190447,
       "name": "Tiki Tiki 2.0",
       "url": "https://open.spotify.com/track/0abYF61EsGbxEOuO57OvxF"

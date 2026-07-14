@@ -1,6 +1,6 @@
 {
   "description": "look up, dream on, drift off... ",
-  "num_followers": 126419,
+  "num_followers": 126439,
   "original_name": "cloud gazing",
   "owner": {
     "name": "Spotify",
@@ -692,16 +692,12 @@
       },
       "artists": [
         {
-          "name": "Gianni Domenici",
-          "url": "https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g"
-        },
-        {
-          "name": "Nadav Cohen",
-          "url": "https://open.spotify.com/artist/7MVwyy7j6wKwEPFPT3RpjV"
-        },
-        {
           "name": "Nsee",
           "url": "https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm"
+        },
+        {
+          "name": "Gianni Domenici",
+          "url": "https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g"
         }
       ],
       "duration_ms": 140564,

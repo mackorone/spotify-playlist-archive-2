@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 61180,
+  "num_followers": 61181,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -887,18 +887,18 @@
     {
       "added_at": "2026-07-02 22:00:38",
       "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/16DmICdpaMDhQBmvPWTSPd"
+        "name": "St\u00f6rd",
+        "url": "https://open.spotify.com/album/4A7EjZFyWeH1fobQTj1UmV"
       },
       "artists": [
         {
-          "name": "Korsv\u00e4gen",
-          "url": "https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT"
+          "name": "noll2",
+          "url": "https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR"
         }
       ],
-      "duration_ms": 180343,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/4TRQ9JWo2kytsBQqaayD5z"
+      "duration_ms": 173173,
+      "name": "St\u00f6rd",
+      "url": "https://open.spotify.com/track/2IgrHNArmP0qRKbQ5UVeVB"
     },
     {
       "added_at": "2026-07-02 22:00:38",
@@ -919,18 +919,18 @@
     {
       "added_at": "2026-07-02 22:00:38",
       "album": {
-        "name": "St\u00f6rd",
-        "url": "https://open.spotify.com/album/4A7EjZFyWeH1fobQTj1UmV"
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/16DmICdpaMDhQBmvPWTSPd"
       },
       "artists": [
         {
-          "name": "noll2",
-          "url": "https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR"
+          "name": "Korsv\u00e4gen",
+          "url": "https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT"
         }
       ],
-      "duration_ms": 173173,
-      "name": "St\u00f6rd",
-      "url": "https://open.spotify.com/track/2IgrHNArmP0qRKbQ5UVeVB"
+      "duration_ms": 180343,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/4TRQ9JWo2kytsBQqaayD5z"
     },
     {
       "added_at": "2026-07-02 22:00:38",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-07-02 22:00:38",
       "album": {
-        "name": "Stockholm \u00e4r f\u00f6r stort",
-        "url": "https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk"
-      },
-      "artists": [
-        {
-          "name": "Amani Smith",
-          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
-        }
-      ],
-      "duration_ms": 185421,
-      "name": "Stockholm \u00e4r f\u00f6r stort",
-      "url": "https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv"
-    },
-    {
-      "added_at": "2026-07-02 22:00:38",
-      "album": {
         "name": "ett minne i taget",
         "url": "https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 170500,
       "name": "ett minne i taget",
       "url": "https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj"
+    },
+    {
+      "added_at": "2026-07-02 22:00:38",
+      "album": {
+        "name": "Stockholm \u00e4r f\u00f6r stort",
+        "url": "https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk"
+      },
+      "artists": [
+        {
+          "name": "Amani Smith",
+          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
+        }
+      ],
+      "duration_ms": 185421,
+      "name": "Stockholm \u00e4r f\u00f6r stort",
+      "url": "https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv"
     },
     {
       "added_at": "2026-07-02 22:00:38",

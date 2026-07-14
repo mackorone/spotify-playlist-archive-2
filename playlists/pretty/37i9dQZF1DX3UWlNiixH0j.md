@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 青葉市子 Ichiko Aoba
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,341 likes - 99 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,359 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,6 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 96 | [The Flower Shop That Suited Your Part\-Time Job](https://open.spotify.com/track/75RzmAiWPY5FkkByCaxHiQ) | [零度pool](https://open.spotify.com/artist/0L4cdHcduLfN7LS3dAQVMH) | [The Flower Shop That Suited Your Part\-Time Job](https://open.spotify.com/album/73brYX2yGzjQTc4mDAtdqN) | 3:04 |
 | 97 | [utahime\(feat\. Mao Sasagawa , yuigot, KBSNK, samayuzame & kumamiso\)](https://open.spotify.com/track/0tQ6BUsm560fc7VEalqBHL) | [ko shinonome](https://open.spotify.com/artist/14cmTPiiGSZZ3gW6AWAp10), [笹川真生](https://open.spotify.com/artist/4S3tEYMH3Mjdbn4mkBvqi0), [yuigot](https://open.spotify.com/artist/6JpGvdWdOnLTKuNWqOpYT0), [KBSNK](https://open.spotify.com/artist/4BnAvxhZ0QKTALIGv828R2), [samayuzame](https://open.spotify.com/artist/35rpDiXIsvLFJx0KaGvxK2), [熊味噌](https://open.spotify.com/artist/01GNlFglyUazjW9IvQuQRn) | [utahime\(feat\. Mao Sasagawa , yuigot, KBSNK, samayuzame & kumamiso\)](https://open.spotify.com/album/0q9fyvxY9CAXIC67hHEl2e) | 3:04 |
 | 98 | [Hazy Dream](https://open.spotify.com/track/70PeuOvEOdN4GSiQ2x3ams) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [Urakami Souki](https://open.spotify.com/artist/3FshbsBfRLNk2n9mQ6ue6W) | [Hazy Dream](https://open.spotify.com/album/0VRPOm7dJjGRBuiN5mSNQK) | 3:50 |
-| 99 | [アイスクリームマン](https://open.spotify.com/track/2U6RF1DR1FLxyrXkB4z7WH) | [the myeahns](https://open.spotify.com/artist/3JWMYNLhLQlbjtNoEQpPnw) | [アイスクリームマン](https://open.spotify.com/album/292YNZAp8oUAmixVzWKLUH) | 2:27 |
+| 99 | [Simone](https://open.spotify.com/track/5E7iBT5WQtXBmpPGcPZ5mR) | [Buddha Jane](https://open.spotify.com/artist/2PgGIyvok0ttueHKmZGhgM) | [Simone](https://open.spotify.com/album/2rS7GdcsaBQxaQxVMa4n8Q) | 3:51 |
+| 100 | [アイスクリームマン](https://open.spotify.com/track/2U6RF1DR1FLxyrXkB4z7WH) | [the myeahns](https://open.spotify.com/artist/3JWMYNLhLQlbjtNoEQpPnw) | [アイスクリームマン](https://open.spotify.com/album/292YNZAp8oUAmixVzWKLUH) | 2:27 |
 
-Snapshot ID: `AAAAANleHdnxEK+2148jQghMF20jyvdk`
+Snapshot ID: `AAAAAFycLKnwarK1bR6+nlG0rj/JvpZQ`

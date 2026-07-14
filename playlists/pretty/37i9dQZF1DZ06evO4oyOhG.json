@@ -1,12 +1,12 @@
 {
   "description": "This is CHiCO with HoneyWorks. The essential tracks, all in one playlist.",
-  "num_followers": 18481,
+  "num_followers": 18483,
   "original_name": "This Is CHiCO with HoneyWorks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAABwve7MgJhARyywAEPpsx1T",
+  "snapshot_id": "alLZAAAAAAANIxHxQBTETNkyy1Fq5nKg",
   "tracks": [
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\uff49\u306f\u81ea\u7531\u3067\u3001\u7e1b\u308c\u306a\u3044\u3002",
-        "url": "https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms"
+        "name": "STAY WITH YOU",
+        "url": "https://open.spotify.com/album/5WMPUTPQm99vEKkrs9GFnc"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
         }
       ],
-      "duration_ms": 207626,
-      "name": "\u30cf\u30fc\u30c8\u306e\u8a93\u3044",
-      "url": "https://open.spotify.com/track/2BzZV7zxQKHrfVebawH2NX"
+      "duration_ms": 200080,
+      "name": "STAY WITH YOU",
+      "url": "https://open.spotify.com/track/78DX3tE003w78ZpwurnhjF"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "STAY WITH YOU",
-        "url": "https://open.spotify.com/album/5WMPUTPQm99vEKkrs9GFnc"
+        "name": "\uff49\u306f\u81ea\u7531\u3067\u3001\u7e1b\u308c\u306a\u3044\u3002",
+        "url": "https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
         }
       ],
-      "duration_ms": 200080,
-      "name": "STAY WITH YOU",
-      "url": "https://open.spotify.com/track/78DX3tE003w78ZpwurnhjF"
+      "duration_ms": 207626,
+      "name": "\u30cf\u30fc\u30c8\u306e\u8a93\u3044",
+      "url": "https://open.spotify.com/track/2BzZV7zxQKHrfVebawH2NX"
     },
     {
       "added_at": null,

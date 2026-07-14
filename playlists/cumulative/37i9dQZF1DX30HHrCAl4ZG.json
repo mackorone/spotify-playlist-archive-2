@@ -35681,6 +35681,24 @@
     },
     {
       "album": {
+        "name": "This Song May Or May Not Be About An Alt-Right Influencer",
+        "url": "https://open.spotify.com/album/4eX7HvaDELkp9wwaOSuL1G"
+      },
+      "artists": [
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162025,
+      "name": "This Song May Or May Not Be About An Alt-Right Influencer",
+      "url": "https://open.spotify.com/track/5qxkkQtRam7a6ktD1gl4ZZ"
+    },
+    {
+      "album": {
         "name": "This Time",
         "url": "https://open.spotify.com/album/4MD1aVgYMaer9QktxqHJQU"
       },

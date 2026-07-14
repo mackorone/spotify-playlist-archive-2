@@ -1,6 +1,6 @@
 {
   "description": "Mit dieser Playlist h\u00f6rt die Party nie auf!",
-  "num_followers": 497807,
+  "num_followers": 497828,
   "original_name": "Malle Party 2026",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,18 @@
     {
       "added_at": "2026-07-09 22:01:11",
       "album": {
-        "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
-        "url": "https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC"
+        "name": "Helene Fischer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
       },
       "artists": [
         {
-          "name": "MXM",
-          "url": "https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4"
-        },
-        {
-          "name": "Chris van Dutch",
-          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
         }
       ],
-      "duration_ms": 240761,
-      "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
-      "url": "https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7"
+      "duration_ms": 205653,
+      "name": "Herzbeben",
+      "url": "https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U"
     },
     {
       "added_at": "2026-07-09 22:01:11",
@@ -351,18 +347,22 @@
     {
       "added_at": "2026-07-09 22:01:11",
       "album": {
-        "name": "Helene Fischer (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
+        "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
+        "url": "https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC"
       },
       "artists": [
         {
-          "name": "Helene Fischer",
-          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+          "name": "MXM",
+          "url": "https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4"
+        },
+        {
+          "name": "Chris van Dutch",
+          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
         }
       ],
-      "duration_ms": 205653,
-      "name": "Herzbeben",
-      "url": "https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U"
+      "duration_ms": 240761,
+      "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
+      "url": "https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7"
     },
     {
       "added_at": "2026-07-09 22:01:11",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-07-09 22:01:11",
       "album": {
+        "name": "Mountain Man",
+        "url": "https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gabalier",
+          "url": "https://open.spotify.com/artist/4rp8rIXbwp93MnStnqDGQD"
+        }
+      ],
+      "duration_ms": 180252,
+      "name": "Hulapalu",
+      "url": "https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK"
+    },
+    {
+      "added_at": "2026-07-09 22:01:11",
+      "album": {
         "name": "Peter Pan",
         "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 210869,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
-    },
-    {
-      "added_at": "2026-07-09 22:01:11",
-      "album": {
-        "name": "Mountain Man",
-        "url": "https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a"
-      },
-      "artists": [
-        {
-          "name": "Andreas Gabalier",
-          "url": "https://open.spotify.com/artist/4rp8rIXbwp93MnStnqDGQD"
-        }
-      ],
-      "duration_ms": 180252,
-      "name": "Hulapalu",
-      "url": "https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK"
     },
     {
       "added_at": "2026-07-09 22:01:11",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-07-09 22:01:11",
       "album": {
+        "name": "Gute Laune",
+        "url": "https://open.spotify.com/album/2L23gI2D1leCUsyraaOmuj"
+      },
+      "artists": [
+        {
+          "name": "Gro\u00dfstadtEngel",
+          "url": "https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG"
+        }
+      ],
+      "duration_ms": 175790,
+      "name": "Gute Laune",
+      "url": "https://open.spotify.com/track/7fapAlfgJf6EzlviBqJb4f"
+    },
+    {
+      "added_at": "2026-07-09 22:01:11",
+      "album": {
         "name": "Fliesentisch Romantik 2",
         "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 150413,
       "name": "Easy Peasy",
       "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
-    },
-    {
-      "added_at": "2026-07-09 22:01:11",
-      "album": {
-        "name": "Gute Laune",
-        "url": "https://open.spotify.com/album/2L23gI2D1leCUsyraaOmuj"
-      },
-      "artists": [
-        {
-          "name": "Gro\u00dfstadtEngel",
-          "url": "https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG"
-        }
-      ],
-      "duration_ms": 175790,
-      "name": "Gute Laune",
-      "url": "https://open.spotify.com/track/7fapAlfgJf6EzlviBqJb4f"
     },
     {
       "added_at": "2026-07-09 22:01:11",
@@ -723,22 +723,22 @@
     {
       "added_at": "2026-07-09 22:01:11",
       "album": {
-        "name": "So Bist Du",
-        "url": "https://open.spotify.com/album/7gvNdIuBUJIsjqBLpyqtdg"
+        "name": "Tag X (Geiles Leben Edition)",
+        "url": "https://open.spotify.com/album/1dK5iraBeq5qeMowd8Itsn"
       },
       "artists": [
         {
-          "name": "Oli. P",
-          "url": "https://open.spotify.com/artist/4SP3LwSvQscEr8Fs3HfesU"
+          "name": "Glasperlenspiel",
+          "url": "https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO"
         },
         {
-          "name": "Felix Harrer",
-          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
+          "name": "Madizin",
+          "url": "https://open.spotify.com/artist/3KCO1VWpmHG0T2zYJjXVgj"
         }
       ],
-      "duration_ms": 209135,
-      "name": "So Bist Du",
-      "url": "https://open.spotify.com/track/0O1aY7nPePS7BBPGEqQ31J"
+      "duration_ms": 211373,
+      "name": "Geiles Leben - Madizin Single Mix",
+      "url": "https://open.spotify.com/track/4GyG53nBdaEvSEn9o8roA2"
     },
     {
       "added_at": "2026-07-09 22:01:11",
@@ -759,22 +759,22 @@
     {
       "added_at": "2026-07-09 22:01:11",
       "album": {
-        "name": "Tag X (Geiles Leben Edition)",
-        "url": "https://open.spotify.com/album/1dK5iraBeq5qeMowd8Itsn"
+        "name": "So Bist Du",
+        "url": "https://open.spotify.com/album/7gvNdIuBUJIsjqBLpyqtdg"
       },
       "artists": [
         {
-          "name": "Glasperlenspiel",
-          "url": "https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO"
+          "name": "Oli. P",
+          "url": "https://open.spotify.com/artist/4SP3LwSvQscEr8Fs3HfesU"
         },
         {
-          "name": "Madizin",
-          "url": "https://open.spotify.com/artist/3KCO1VWpmHG0T2zYJjXVgj"
+          "name": "Felix Harrer",
+          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
         }
       ],
-      "duration_ms": 211373,
-      "name": "Geiles Leben - Madizin Single Mix",
-      "url": "https://open.spotify.com/track/4GyG53nBdaEvSEn9o8roA2"
+      "duration_ms": 209135,
+      "name": "So Bist Du",
+      "url": "https://open.spotify.com/track/0O1aY7nPePS7BBPGEqQ31J"
     },
     {
       "added_at": "2026-07-09 22:01:11",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2026-07-09 22:01:11",
       "album": {
-        "name": "ANALYSiEREN",
-        "url": "https://open.spotify.com/album/6LrbfDtYXHaAT4oiwa9LY2"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        }
-      ],
-      "duration_ms": 155513,
-      "name": "ANALYSiEREN",
-      "url": "https://open.spotify.com/track/34buWaz6Az55gBmXCUajm2"
-    },
-    {
-      "added_at": "2026-07-09 22:01:11",
-      "album": {
         "name": "Dieter (Der LKW Song)",
         "url": "https://open.spotify.com/album/2Woo0eDfX5vKGrXfQzvnbN"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 164769,
       "name": "Hey Macarena!",
       "url": "https://open.spotify.com/track/2NAn1J4RbC8Ure2F1hByXK"
+    },
+    {
+      "added_at": "2026-07-09 22:01:11",
+      "album": {
+        "name": "ANALYSiEREN",
+        "url": "https://open.spotify.com/album/6LrbfDtYXHaAT4oiwa9LY2"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        }
+      ],
+      "duration_ms": 155513,
+      "name": "ANALYSiEREN",
+      "url": "https://open.spotify.com/track/34buWaz6Az55gBmXCUajm2"
     },
     {
       "added_at": "2026-07-09 22:01:11",

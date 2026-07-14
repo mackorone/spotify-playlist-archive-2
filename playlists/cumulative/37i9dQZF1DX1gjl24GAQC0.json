@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your bias K-Pop boy group? (Cover: AHOF) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
+  "description": "Is it your bias K-Pop boy group? (Cover: idntt) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
   "name": "BIASBOYS",
   "tracks": [
     {
@@ -4234,7 +4234,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 214000,
       "name": "Everyday, Everynight",
       "url": "https://open.spotify.com/track/02dJ49umfCGM6JCh7OX8eY"
@@ -7442,6 +7442,24 @@
       "duration_ms": 175533,
       "name": "Kick It 4 Now",
       "url": "https://open.spotify.com/track/5oyt64vcLF0MwDq5XNgx86"
+    },
+    {
+      "album": {
+        "name": "<itsnotover>",
+        "url": "https://open.spotify.com/album/5QN6OFQqJ2tM7d5Sh3wceq"
+      },
+      "artists": [
+        {
+          "name": "idntt",
+          "url": "https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Kids Return",
+      "url": "https://open.spotify.com/track/6iJFM7bEdD06xKggWoPKXq"
     },
     {
       "album": {
@@ -11698,7 +11716,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 200000,
       "name": "RUN TO YOU",
       "url": "https://open.spotify.com/track/0ku6osTANoM57WO6LWAgwZ"
@@ -14352,7 +14370,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "UNIQUE",
       "url": "https://open.spotify.com/track/2UcWuaUqRrKRL8iTA92ELO"

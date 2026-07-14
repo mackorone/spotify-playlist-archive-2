@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 156 songs - 8 hr 45 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,314 likes - 163 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,5 +164,12 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 154 | [Rótulo](https://open.spotify.com/track/4F1QSRSGLiFmqKUZA2HOjR) | [Andre Santolin](https://open.spotify.com/artist/4nY8m3tltMGpIDJnKnLe8K), [Vanessa Louz](https://open.spotify.com/artist/4vUiVOcaAaHlwOWlNsWeXM) | [Rótulo](https://open.spotify.com/album/2QaYSsaNuZTTKxxoxTrBsg) | 4:34 |
 | 155 | [Charades](https://open.spotify.com/track/0Lqam62KIO2220P2lulsYJ) | [Max Cooper III](https://open.spotify.com/artist/5VwbADUdH8ryktypdkpX06) | [Charades](https://open.spotify.com/album/3Iv3MMwKQn1RiZEpQ7RsNB) | 3:22 |
 | 156 | [Loverboy](https://open.spotify.com/track/0tWLQ2YmQ3MoCaZkckzXkY) | [The Falls](https://open.spotify.com/artist/64VoUwM0Ui5gXHMrzOPOgA) | [Loverboy](https://open.spotify.com/album/5mmkHXR5YMkbdNbJ6EXRQF) | 2:53 |
+| 157 | [The ritual sound of silence](https://open.spotify.com/track/0RJ2p6teIbZtKbj2y4e2Bg) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Vitanova](https://open.spotify.com/album/4Q974cR2eM18ZwOEDFlBDL) | 4:07 |
+| 158 | [Layla Bartle](https://open.spotify.com/track/0VbH7zwCc4sdkpLeSDe7nu) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Fun with Layla in Wallington](https://open.spotify.com/album/2hTc0kStuvzmNsApCiLosP) | 2:43 |
+| 159 | [disaster](https://open.spotify.com/track/0M201PbVv5MjbZkiWzCUlk) | [only tears](https://open.spotify.com/artist/6AaJR9N3Z2Ot4HGNdM4rlM) | [disaster](https://open.spotify.com/album/76FbLBSd2Zot5goToxcbHN) | 3:40 |
+| 160 | [Suelto y confío](https://open.spotify.com/track/5drexCN3QLbB5gQOkLSwlT) | [LuzAzuL](https://open.spotify.com/artist/0zQiZWTwq8iqanSdpFSi5I) | [Suelto y confío](https://open.spotify.com/album/2L8Iefk4mOcE8eWhNcyr8X) | 3:56 |
+| 161 | [Boiling Hot](https://open.spotify.com/track/5iNqv4rUHi27ud7mxsuOJi) | [Mischa Plus](https://open.spotify.com/artist/7JS3DVlq1iHThu4k2OcmNh) | [Boiling Hot](https://open.spotify.com/album/3MruevULXHS23YScLZkUHE) | 3:13 |
+| 162 | [Sunset](https://open.spotify.com/track/0R6H2QqlJlPw4kVo2DgQk2) | [Marty Van Wells](https://open.spotify.com/artist/5Lh1aWTbIqlZtTIFwBMM1z) | [Sunset](https://open.spotify.com/album/0K6aF4sCLwrPe8qxwtJLLg) | 2:38 |
+| 163 | [Peace Anthem](https://open.spotify.com/track/4WUfp4Fo6Rd6O9RnAd5zFd) | [Diana Vibes Earth](https://open.spotify.com/artist/0QC7leTBU5trqgGkJpJz49) | [Peace Anthem](https://open.spotify.com/album/6WEjep4YsM4MycixUtKxK9) | 1:41 |
 
-Snapshot ID: `AAAV+739z5NA8ck8aHrjxUSYmkyZ06Ev`
+Snapshot ID: `AAAWAq9gZF1BF9K079Lb3UAkiGl03Z7r`

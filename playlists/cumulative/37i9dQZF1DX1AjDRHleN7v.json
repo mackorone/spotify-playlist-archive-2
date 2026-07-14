@@ -3305,6 +3305,28 @@
     },
     {
       "album": {
+        "name": "Time Won\u2019t Wait",
+        "url": "https://open.spotify.com/album/53BphEUeLMphh5CCKe8Uo2"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210010,
+      "name": "Time Won\u2019t Wait",
+      "url": "https://open.spotify.com/track/3wbqx5euzFgiPWg6zQRK7J"
+    },
+    {
+      "album": {
         "name": "Toda Molhada (Casa do Sol) - Ao Vivo 25 Anos",
         "url": "https://open.spotify.com/album/3qDRvHE5ZYck86T7SrGdS1"
       },
@@ -3392,7 +3414,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 166731,
       "name": "T\u00f4 Em Casa",
       "url": "https://open.spotify.com/track/71GwNOolQgbTqG4YQM8TNO"

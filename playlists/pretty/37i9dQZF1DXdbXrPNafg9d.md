@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Suki Waterhouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,291,047 likes - 202 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,290,989 likes - 202 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 269457,
+  "num_followers": 269521,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -583,18 +583,18 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "En Teatro del Huerto",
-        "url": "https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL"
+        "name": "Luna Park (En Vivo)",
+        "url": "https://open.spotify.com/album/1Oatu8AcJtDJsC24cEJr3r"
       },
       "artists": [
         {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         }
       ],
-      "duration_ms": 260755,
-      "name": "Entre el Cielo Vos y Yo - En Vivo",
-      "url": "https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN"
+      "duration_ms": 198267,
+      "name": "Pa' la Selecci\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/6o74gO9Cc65yOph1pWnWmS"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -619,18 +619,18 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "Luna Park (En Vivo)",
-        "url": "https://open.spotify.com/album/1Oatu8AcJtDJsC24cEJr3r"
+        "name": "En Teatro del Huerto",
+        "url": "https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL"
       },
       "artists": [
         {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
         }
       ],
-      "duration_ms": 198267,
-      "name": "Pa' la Selecci\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/6o74gO9Cc65yOph1pWnWmS"
+      "duration_ms": 260755,
+      "name": "Entre el Cielo Vos y Yo - En Vivo",
+      "url": "https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "Festival (En Vivo)",
-        "url": "https://open.spotify.com/album/6vSSjSJLfVY0PHdT1d9fGx"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 628309,
-      "name": "Me Enamore / A tus pies / Te falta sufrir - En Vivo",
-      "url": "https://open.spotify.com/track/4SdhLz9BrdxkNQuWGtu1Vd"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 71981,
       "name": "Persiana Americana - En Vivo",
       "url": "https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
+        "name": "Festival (En Vivo)",
+        "url": "https://open.spotify.com/album/6vSSjSJLfVY0PHdT1d9fGx"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "duration_ms": 628309,
+      "name": "Me Enamore / A tus pies / Te falta sufrir - En Vivo",
+      "url": "https://open.spotify.com/track/4SdhLz9BrdxkNQuWGtu1Vd"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 287320,
+      "name": "Los Pibes Chorros / Solo Le Pido a Dios / Botellero",
+      "url": "https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
         "name": "El Que Siempre Te Espera",
         "url": "https://open.spotify.com/album/05JrWs6dpHryCNWvcbTRwG"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 173412,
       "name": "El Que Siempre Te Espera",
       "url": "https://open.spotify.com/track/7DamHboUtPW1M1K6EkIg4c"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 287320,
-      "name": "Los Pibes Chorros / Solo Le Pido a Dios / Botellero",
-      "url": "https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -827,6 +827,26 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
+        "name": "Tu Falta de Querer (En Vivo)",
+        "url": "https://open.spotify.com/album/0ORf7W65yurL3oBalZfiJF"
+      },
+      "artists": [
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        },
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "Tu Falta de Querer - En Vivo",
+      "url": "https://open.spotify.com/track/4ILNfW7djsop5wyLB00W4V"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
         "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
         "url": "https://open.spotify.com/album/7kaJpPaXQWftu2JtlcPnKS"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 362235,
       "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
       "url": "https://open.spotify.com/track/3XgBkO4HqaUmF9QmtYSQHC"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
-        "name": "Tu Falta de Querer (En Vivo)",
-        "url": "https://open.spotify.com/album/0ORf7W65yurL3oBalZfiJF"
-      },
-      "artists": [
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        },
-        {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "Tu Falta de Querer - En Vivo",
-      "url": "https://open.spotify.com/track/4ILNfW7djsop5wyLB00W4V"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
+        "name": "En Vivo en el Teatro",
+        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 1189088,
+      "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
+      "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
         "name": "Sergio Torres - Session #50 (Sin Miedo: Lado S)",
         "url": "https://open.spotify.com/album/3Q4Pml7HR06oTRmvXfdIiq"
       },
@@ -1151,26 +1167,6 @@
       "duration_ms": 182953,
       "name": "Mi celosa hermosa",
       "url": "https://open.spotify.com/track/3FtWgxYcMusd1RWw9Up16U"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
-        "name": "Recordando / Dudas (En Vivo)",
-        "url": "https://open.spotify.com/album/3cSt8iKh3bROdkyrcksFi8"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        },
-        {
-          "name": "Walter Encina",
-          "url": "https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp"
-        }
-      ],
-      "duration_ms": 307375,
-      "name": "Recordando / Dudas - En Vivo",
-      "url": "https://open.spotify.com/track/0Eo5FcB5bHGjmisR8WtUQk"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -1223,6 +1219,26 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
+        "name": "Recordando / Dudas (En Vivo)",
+        "url": "https://open.spotify.com/album/3cSt8iKh3bROdkyrcksFi8"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        },
+        {
+          "name": "Walter Encina",
+          "url": "https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp"
+        }
+      ],
+      "duration_ms": 307375,
+      "name": "Recordando / Dudas - En Vivo",
+      "url": "https://open.spotify.com/track/0Eo5FcB5bHGjmisR8WtUQk"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
         "name": "Luis Ornelas - Session #49 (Sin Miedo: Lado S)",
         "url": "https://open.spotify.com/album/5ZIveP7Qu4aMutlybGeSgB"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 111605,
       "name": "Cumbia buena",
       "url": "https://open.spotify.com/track/0QxYb3Kg7W2Ls5aAQncHJd"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
-        "name": "En Vivo en el Teatro",
-        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 1189088,
-      "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
-      "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
     },
     {
       "added_at": "2026-06-23 12:55:28",

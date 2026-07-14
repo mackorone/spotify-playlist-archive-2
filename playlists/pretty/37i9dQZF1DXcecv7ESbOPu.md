@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från VC Barre, Beyoncé och Kygo med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,913 likes - 81 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,911 likes - 82 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,6 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 78 | [Reasons](https://open.spotify.com/track/1nZz6nJgjcinLKZ40Ulrjj) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Reasons EP](https://open.spotify.com/album/7cqwMYtGdmytQ4tga6W6XL) | 1:54 |
 | 79 | [Hits Me](https://open.spotify.com/track/7hbsfi6jiydEHGmXSQWA2m) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Hits Me](https://open.spotify.com/album/53KBpFueG6qOFrR9RqEemi) | 3:10 |
 | 80 | [Slow](https://open.spotify.com/track/2F2G0xc90aQXudP68DE6v3) | [Josefine Ridell](https://open.spotify.com/artist/0AAjLPnvriz6ZX3huVVko8) | [Slow](https://open.spotify.com/album/7p1VCMKOCk91oSTuisUNBz) | 3:03 |
-| 81 | [Don't](https://open.spotify.com/track/7m5y7mIOWGABC04lL4acuD) | [Luc Veermeer](https://open.spotify.com/artist/1GQNSN0anKfRx96S1A4QIN) | [Elsewhere](https://open.spotify.com/album/5AeA3BwZYLPF4sZkseKaVd) | 4:18 |
+| 81 | [In My Victoria's Secret](https://open.spotify.com/track/3k5OStPX5fNfTd3ZQL8RkY) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [In My Victoria's Secret](https://open.spotify.com/album/6tUTuceOlc0o9osQphRnzF) | 2:40 |
+| 82 | [Don't](https://open.spotify.com/track/7m5y7mIOWGABC04lL4acuD) | [Luc Veermeer](https://open.spotify.com/artist/1GQNSN0anKfRx96S1A4QIN) | [Elsewhere](https://open.spotify.com/album/5AeA3BwZYLPF4sZkseKaVd) | 4:18 |
 
 Snapshot ID: `AAAAAIre6snpiIQtcJ3R80BA1v8i8qeS`

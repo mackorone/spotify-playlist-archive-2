@@ -4,7 +4,7 @@
 
 > mostly furry
 
-419 songs - 20 hr 43 min
+420 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,6 +424,7 @@
 | [Your Power \(stripped\)](https://open.spotify.com/track/0ysKhk22YTKjov3ZeiSiRY) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Your Power \(stripped\)](https://open.spotify.com/album/09qRZsAJNuLxw14CEcuhta) | 2:12 | 2024-01-23 |  |
 | [Zillion](https://open.spotify.com/track/5YYvxKjDmhfiY0jxcXWkoz) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 3:35 | 2024-05-15 |  |
 | [メズマライザー \(feat\. 初音ミク&重音テト\)](https://open.spotify.com/track/5ic62hKqeDhZsa9l6YQxzJ) | [32ki](https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [メズマライザー](https://open.spotify.com/album/3DkZ625ZGRV80f5aFnlPCL) | 2:36 | 2025-02-28 |  |
+| [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 | 2026-07-13 |  |
 | [불빛](https://open.spotify.com/track/0jSHZ3aAuoco22Le7Haulo) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [불빛](https://open.spotify.com/album/0oy2pLM5Y9tmBashoPa5G4) | 4:24 | 2024-01-20 |  |
 | [작별인사](https://open.spotify.com/track/1vhU3pXYv5mao22jQvvA9J) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [작별인사](https://open.spotify.com/album/6RzTgYi8SNyIAI0DsBjvAf) | 3:34 | 2024-07-12 |  |
 | [작별인사 \- Acoustic](https://open.spotify.com/track/7KTIOEXqZUFeacLJMuTtFK) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [작별인사](https://open.spotify.com/album/6RzTgYi8SNyIAI0DsBjvAf) | 3:34 | 2024-07-19 |  |

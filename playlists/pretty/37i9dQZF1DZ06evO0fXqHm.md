@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 
 > This is Mac Júlia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,914 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,916 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 | 37 | [Dona Onça](https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Sextape: Love Me Two Times](https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR) | 2:00 |
 | 38 | [Tropa Das Onça](https://open.spotify.com/track/0HgptFHLQfgE4auvN31Gr5) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV) | [Segue O Baile](https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g) | 2:39 |
 | 39 | [ai que vontade](https://open.spotify.com/track/46rHe7jYJQArqk2zABlsNP) | [KING Saints](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [maux](https://open.spotify.com/artist/0kQZp9rotXxKDvJ951gbv3), [DMAX](https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ) | [ai que vontade](https://open.spotify.com/album/3z1CLq24Qp1YCfDwSNxmN4) | 2:55 |
-| 40 | [BOLA LOGO](https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql) | [Wealstarcks](https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [AMOUR BEIJA FLOR](https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn) | 1:47 |
-| 41 | [Sem Pressão](https://open.spotify.com/track/2a3xEMLiLgIrYzPPXbTV0b) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [$IMBIO$E](https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY) | 2:22 |
+| 40 | [Sem Pressão](https://open.spotify.com/track/2a3xEMLiLgIrYzPPXbTV0b) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [$IMBIO$E](https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY) | 2:22 |
+| 41 | [BOLA LOGO](https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql) | [Wealstarcks](https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [AMOUR BEIJA FLOR](https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn) | 1:47 |
 | 42 | [Puta Que Pariu](https://open.spotify.com/track/4NDvt31QU8VSXjfEk7O64A) | [DJ Dayeh](https://open.spotify.com/artist/0ZTKJ3pvPBc2IgKz6i7RH3), [DJ K](https://open.spotify.com/artist/1YZljq3fZXrlnCe0mMxwKB), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Tory Dru](https://open.spotify.com/artist/0dxYsrJebx92yDX7hQrup5) | [Puta Que Pariu](https://open.spotify.com/album/515WImJFOyl2duvuIV1lo6) | 2:31 |
 | 43 | [Fica Tudo Bem](https://open.spotify.com/track/3CZ1yKCXWvZ08SQd4n08hs) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [Fica Tudo Bem](https://open.spotify.com/album/7ufEyoej0NRDZsjRtxf3Pu) | 2:48 |
 | 44 | [Papo 10](https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [VINT](https://open.spotify.com/artist/6KjG5ZIQ6aiu2i0cKGqzJ7) | [Papo 10](https://open.spotify.com/album/0QaSKRQmdSlq97XMBzvbUs) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 | 49 | [Gloss](https://open.spotify.com/track/5l3vz1aOUOQAlwU6F1F3Jr) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Weeze Cooker](https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo) | [Gloss](https://open.spotify.com/album/6bJXjxrtZxQjWbNrhRfrtT) | 2:14 |
 | 50 | [Juma Marruá](https://open.spotify.com/track/69GJRlhDtyaOnSGL7tQhhw) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 2:42 |
 
-Snapshot ID: `alGHgAAAAAC486REebALF10haOCpXKtb`
+Snapshot ID: `alLZAAAAAACxVqrinJiArgm51nyv4Ams`

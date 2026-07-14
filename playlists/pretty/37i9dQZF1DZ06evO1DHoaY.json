@@ -1,29 +1,13 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2077603,
+  "num_followers": 2077636,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAACYtjmCro2WZ7qYUY+KsZhq",
+  "snapshot_id": "alLZAAAAAABBRMoEbLX3F5YNPEZZTQti",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Roots, Rock, Reggae (Live At The Hammersmith Odeon, London, UK - June 1976)",
-        "url": "https://open.spotify.com/album/7fmhLR0NS63rgviBqOhTZX"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 322220,
-      "name": "Roots, Rock, Reggae - Live At The Hammersmith Odeon, London, UK - June, 1976",
-      "url": "https://open.spotify.com/track/5f08TjZ0NqmPOO0KSMXLtw"
-    },
     {
       "added_at": null,
       "album": {
@@ -283,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu"
+        "name": "One Love (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2VbmXDBkPj34TiyMNYaboj"
       },
       "artists": [
         {
@@ -292,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 191866,
-      "name": "Crazy Baldhead",
-      "url": "https://open.spotify.com/track/1zWr2alhnYrRBy1M28d3z7"
+      "duration_ms": 217106,
+      "name": "Roots, Rock, Reggae",
+      "url": "https://open.spotify.com/track/1j3ANZgokEc0jKztEDV34l"
     },
     {
       "added_at": null,
@@ -343,6 +327,22 @@
       "duration_ms": 231466,
       "name": "Ride Natty Ride",
       "url": "https://open.spotify.com/track/5cTsXX5qwa6zmG80OCz4hR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 191866,
+      "name": "Crazy Baldhead",
+      "url": "https://open.spotify.com/track/1zWr2alhnYrRBy1M28d3z7"
     },
     {
       "added_at": null,

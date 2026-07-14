@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > أحلى أغاني المسلسلات المصرية 📺✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,802 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,824 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,9 +101,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 91 | [El Omr](https://open.spotify.com/track/0b7LojaglTKiRajPGjfsiP) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [El Omr](https://open.spotify.com/album/6lzqUlf0BIs2IaiQFjSgCc) | 3:38 |
 | 92 | [Al Najdain \(النجدين\)](https://open.spotify.com/track/2wX6tRMGNryOFsc8vuqZ4B) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Al Najdain \(النجدين\)](https://open.spotify.com/album/54N1rRSxWZlAqkEnslrOf1) | 4:13 |
 | 93 | [حدوتة منسية \- تتر مسلسل حدوتة منسية](https://open.spotify.com/track/55jdqfy9BOY3MPYPIqCM8X) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [حدوتة منسية \(من مسلسل حدوتة منسية\)](https://open.spotify.com/album/5qoHbZ0DAQn49sesJhAdy1) | 3:57 |
-| 94 | [تعالالي حبيبي الليلة](https://open.spotify.com/track/3quMoxktYlgORFxQt4CpAI) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Mai Omar](https://open.spotify.com/artist/3VZQvZXsTyCzwjhXJgv2tC) | [تعالالي حبيبي الليلة](https://open.spotify.com/album/4E7h6qYmzp5gpjtmk4T0uW) | 1:49 |
+| 94 | [El Shawarea Hawadeet](https://open.spotify.com/track/1H8yRqNgrvEfayedUKyJAR) | [Ferqet El Masryeen](https://open.spotify.com/artist/5KmlAHpo6RWvUVoXfc3Q5M) | [Bahebak La](https://open.spotify.com/album/3inqrohlc5Hnph8IPu2guh) | 5:39 |
 | 95 | [Allo Zaman](https://open.spotify.com/track/1kChmwhLz4tSQIKdiGyhKK) | [Ali El Haggar](https://open.spotify.com/artist/6pnyGPcDohIUFHU2AJfDT6) | [Tegeesh Naeesh](https://open.spotify.com/album/34zmTDhsfhU2RKUq9RuIFY) | 4:10 |
-| 96 | [El Shawarea Hawadeet](https://open.spotify.com/track/1H8yRqNgrvEfayedUKyJAR) | [Ferqet El Masryeen](https://open.spotify.com/artist/5KmlAHpo6RWvUVoXfc3Q5M) | [Bahebak La](https://open.spotify.com/album/3inqrohlc5Hnph8IPu2guh) | 5:39 |
+| 96 | [تعالالي حبيبي الليلة](https://open.spotify.com/track/3quMoxktYlgORFxQt4CpAI) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Mai Omar](https://open.spotify.com/artist/3VZQvZXsTyCzwjhXJgv2tC) | [تعالالي حبيبي الليلة](https://open.spotify.com/album/4E7h6qYmzp5gpjtmk4T0uW) | 1:49 |
 | 97 | [آخرة طريقى دا إيه ؟ \- من مسلسل كوبرا](https://open.spotify.com/track/4k3ygO9jqERGUnHB5UnOtG) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [آخرة طريقى دا إيه ؟ \(من مسلسل كوبرا\)](https://open.spotify.com/album/3Qgdwj8TYUrv0ksxVsn6KN) | 2:29 |
 | 98 | [لذاذة \- من مسلسل بابا جه](https://open.spotify.com/track/03Kv0B3BKyM2Ik2RNYsb2d) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [لذاذة \(من مسلسل بابا جه\)](https://open.spotify.com/album/2v0WlxhOficmnLhwRjlNVf) | 2:53 |
 | 99 | [تحية \- من مسلسل لعبة وقلبت بجد](https://open.spotify.com/track/47ZPOStAXyjOvmO8MNPyGQ) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [تحية \(من مسلسل لعبة وقلبت بجد\)](https://open.spotify.com/album/4EQMImTVpj4VJrd5rdFjRk) | 2:24 |

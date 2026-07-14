@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-560 songs - 1 day 5 hr 39 min
+561 songs - 1 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Don't Play](https://open.spotify.com/track/2F99j2WpQ5GRWoTAQZ0rPQ) | [Marti](https://open.spotify.com/artist/4jmSBoKdI4v6xgF9B88u9Q), [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Don't Play](https://open.spotify.com/album/6ev9CsA87Vs4hht6DQkWnc) | 2:54 | 2025-01-27 | 2026-03-01 |
 | [DONTTOUCHANYTHING](https://open.spotify.com/track/3mHR0X6FG3Y7uofHs1QRjT) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [CHAMPION](https://open.spotify.com/album/5lufjyPgNitwHis7Ch5n38) | 4:16 | 2025-11-11 | 2025-11-18 |
 | [DOUBL3 TAK3 \- R3MIX](https://open.spotify.com/track/5OCeL0gRKf54buDtZHFkq6) | [DAMAG3](https://open.spotify.com/artist/0xIT8X4ltWYOTHXJ2hm6vn), [Lex Bratcher](https://open.spotify.com/artist/72bCjI953sBXUcEccj0SWf), [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [DOUBL3 TAK3 \(R3MIX\)](https://open.spotify.com/album/1YsqdmOXAqFh8Nhf7dzMgK) | 2:53 | 2026-01-17 |  |
+| [Down Down Down](https://open.spotify.com/track/6u9Nn6X2eqhrtyzoG296kc) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [OodleZz](https://open.spotify.com/artist/2eCpXBK9mnqr6o9TydXu98) | [Down Down Down](https://open.spotify.com/album/0GJGtyGJLXSdUqDJf4mQed) | 3:37 | 2026-07-13 |  |
 | [Dr1p](https://open.spotify.com/track/1yPooLQa9YF3ZLQckOWRcQ) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [Daxbak](https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv) | [Holoplankton](https://open.spotify.com/album/7g5ymwyauwP5J0jGP9yGmp) | 3:49 | 2023-06-14 |  |
 | [Drained](https://open.spotify.com/track/3ISjtbkPZgp4kQaGuNcQwR) | [ABSRDST](https://open.spotify.com/artist/0F4rneT54YD3eaWYXUXvFM) | [Drained](https://open.spotify.com/album/3FDlszVMTptRq3PXkGbw4p) | 4:02 | 2024-11-18 |  |
 | [Dream Well](https://open.spotify.com/track/2matn9WPqhSjpWN1VsZDay) | [HIYU](https://open.spotify.com/artist/61FnFYz1oDlDss8t3j7vO1), [Ashtalon](https://open.spotify.com/artist/6iavgDwB3ZnFmALNatdhgg) | [Furality Somna \(Original Soundtrack\)](https://open.spotify.com/album/7ilCmxVwT6CxEdWAdIMO0R) | 20:00 | 2025-07-17 | 2025-07-22 |

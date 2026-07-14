@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Adriatique, Beyoncé, Pashanim, Dhurata Dora, Luciano & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,446 likes - 96 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,445 likes - 96 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

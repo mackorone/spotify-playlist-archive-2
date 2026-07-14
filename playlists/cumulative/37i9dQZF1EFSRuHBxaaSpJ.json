@@ -595,6 +595,28 @@
     },
     {
       "album": {
+        "name": "NOV",
+        "url": "https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Nov",
+          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159173,
+      "name": "Elle veut",
+      "url": "https://open.spotify.com/track/3x6mSf2tTzv8bvEVI8LQkQ"
+    },
+    {
+      "album": {
         "name": "LVDR",
         "url": "https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1"
       },

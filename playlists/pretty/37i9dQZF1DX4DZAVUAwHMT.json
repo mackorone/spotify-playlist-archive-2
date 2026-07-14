@@ -1,12 +1,12 @@
 {
   "description": "The UK's biggest rock playlist. Cover: Show Me The Body",
-  "num_followers": 1036942,
+  "num_followers": 1036872,
   "original_name": "The Rock List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMb3APQLRIzyn/+PCwxdRjptrSrv",
+  "snapshot_id": "AAAAABNw0ma7j1IvgUjAiApaIXdm6okb",
   "tracks": [
     {
       "added_at": "2026-07-10 00:00:22",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-07-10 00:00:22",
       "album": {
-        "name": "Drag Path",
-        "url": "https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Drag Path",
-      "url": "https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
         "name": "Party Lines",
         "url": "https://open.spotify.com/album/3QaE8o1uk2xnqm3iSSYtno"
       },
@@ -559,22 +543,6 @@
       "duration_ms": 243280,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/2fxwskCmd9LE7RznxScHsz"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
-        "name": "Bones For The Crows",
-        "url": "https://open.spotify.com/album/1jKDs3Oq7HAY05DffoP4Fg"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 244638,
-      "name": "Bones For The Crows",
-      "url": "https://open.spotify.com/track/37vEcnzAkAOdb7zqxLqHvb"
     },
     {
       "added_at": "2026-07-10 00:00:22",
@@ -655,26 +623,6 @@
       "duration_ms": 249293,
       "name": "Fangs",
       "url": "https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
-        "name": "FIX UR FACE (with Fred Durst)",
-        "url": "https://open.spotify.com/album/5V2DOzyXq1zx7yRgebZZIv"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Fred Durst",
-          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
-        }
-      ],
-      "duration_ms": 199068,
-      "name": "FIX UR FACE (with Fred Durst)",
-      "url": "https://open.spotify.com/track/0zcU626JV9kV61raS5sGu4"
     },
     {
       "added_at": "2026-07-10 00:00:22",
@@ -919,26 +867,6 @@
     {
       "added_at": "2026-07-10 00:00:22",
       "album": {
-        "name": "highway robbery (feat. Lenny Kravitz)",
-        "url": "https://open.spotify.com/album/5x9833iDvciVUJZ9ml5HZv"
-      },
-      "artists": [
-        {
-          "name": "DE'WAYNE",
-          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
-        },
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 208786,
-      "name": "highway robbery (feat. Lenny Kravitz)",
-      "url": "https://open.spotify.com/track/4iuyHLFblqYFi3REOrMkMP"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
         "name": "We Might as Well Be Strangers (ft. Wednesday)",
         "url": "https://open.spotify.com/album/0L6BByZ7oX4EOrx1nHd2SS"
       },
@@ -1007,22 +935,6 @@
     {
       "added_at": "2026-07-10 00:00:22",
       "album": {
-        "name": "Coming On Strong",
-        "url": "https://open.spotify.com/album/3oeSa6CphbMgzssPEUknVt"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Coming On Strong",
-      "url": "https://open.spotify.com/track/0803vH8x1peM7SxVODBhVn"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/10reOzyrRiJQehulKminkn"
       },
@@ -1035,22 +947,6 @@
       "duration_ms": 225229,
       "name": "Evolution",
       "url": "https://open.spotify.com/track/2vpO3zMJ82SxEY1MzjNNrp"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
-        "name": "pretty ugly",
-        "url": "https://open.spotify.com/album/4in7sttZpgJwqxNXhVdKVb"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 183386,
-      "name": "pretty ugly",
-      "url": "https://open.spotify.com/track/6DcwcXgTaxY4lHeHJVT14c"
     },
     {
       "added_at": "2026-07-10 00:00:22",
@@ -1083,22 +979,6 @@
       "duration_ms": 296746,
       "name": "See Out Loud",
       "url": "https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
-        "name": "Punching the Flowers",
-        "url": "https://open.spotify.com/album/7M1MydZE4a34uIo3iQrthu"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 191568,
-      "name": "Punching the Flowers",
-      "url": "https://open.spotify.com/track/56es3ImztwXSwpYmtS6c4A"
     },
     {
       "added_at": "2026-07-10 00:00:22",
@@ -1151,54 +1031,6 @@
     {
       "added_at": "2026-07-10 00:00:22",
       "album": {
-        "name": "Your Favorite Toy",
-        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/1N8fvq9XcxxpRdGydlSqC1"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
-        "name": "Highs and Lows",
-        "url": "https://open.spotify.com/album/5nYfSJY34atP95u6wGEUNw"
-      },
-      "artists": [
-        {
-          "name": "Citizen",
-          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
-        }
-      ],
-      "duration_ms": 223416,
-      "name": "Highs and Lows",
-      "url": "https://open.spotify.com/track/2jqYwfkkbi9c4nTsRap9RL"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/70OLK4vLOoljMTDM6ZDFx4"
-      },
-      "artists": [
-        {
-          "name": "PRESIDENT",
-          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
-        }
-      ],
-      "duration_ms": 229227,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/3KmFFR1CInXTFKMvZiAmgL"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
         "name": "backflip",
         "url": "https://open.spotify.com/album/63VMlr8gjkRrWIv69Fr4fW"
       },
@@ -1227,38 +1059,6 @@
       "duration_ms": 199784,
       "name": "HOTEL",
       "url": "https://open.spotify.com/track/5O6hZDPvTS31fXufypSL9d"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
-        "name": "SORRY! CRASH!",
-        "url": "https://open.spotify.com/album/3XtL1iGsmeZFgTMSch4tvo"
-      },
-      "artists": [
-        {
-          "name": "Ecca Vandal",
-          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
-        }
-      ],
-      "duration_ms": 189680,
-      "name": "SORRY! CRASH!",
-      "url": "https://open.spotify.com/track/1fmibwNXIJ4vSlZXS3ZqkH"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
-        "name": "when we were friends",
-        "url": "https://open.spotify.com/album/0EKr0IF82LGWsTFMJJygT3"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "when we were friends",
-      "url": "https://open.spotify.com/track/6VleKNFc2xxqiQSAPUBnRR"
     },
     {
       "added_at": "2026-07-10 00:00:22",
@@ -1295,22 +1095,6 @@
     {
       "added_at": "2026-07-10 00:00:22",
       "album": {
-        "name": "KIDS THESE DAYS",
-        "url": "https://open.spotify.com/album/6gMPmjCfM0RlymPPWCmvqf"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8RY",
-          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
-        }
-      ],
-      "duration_ms": 190441,
-      "name": "KIDS THESE DAYS",
-      "url": "https://open.spotify.com/track/27EYzBA2Gsd5TsvKyLJQBu"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
         "name": "Bleech 9:3",
         "url": "https://open.spotify.com/album/6LnK2cmnchsy0iSsLJE9ib"
       },
@@ -1327,22 +1111,6 @@
     {
       "added_at": "2026-07-10 00:00:22",
       "album": {
-        "name": "Get Them Out",
-        "url": "https://open.spotify.com/album/6M7SwHpvqj0MxfARhJ7QoS"
-      },
-      "artists": [
-        {
-          "name": "Saint Agnes",
-          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
-        }
-      ],
-      "duration_ms": 258047,
-      "name": "Get Them Out",
-      "url": "https://open.spotify.com/track/1mcgcAggdf9MSEN9wTiKNR"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
         "name": "Resistance",
         "url": "https://open.spotify.com/album/7tSXgQdkbNATcCYbOzIjW4"
       },
@@ -1355,118 +1123,6 @@
       "duration_ms": 226017,
       "name": "HEALTH+",
       "url": "https://open.spotify.com/track/5P7iWxMrJCKmAlmTYi29Jy"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
-        "name": "Wasted",
-        "url": "https://open.spotify.com/album/0K0bBhoK5Flh3cdYIS9iVP"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 198438,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/4vI5vmoRpxsEgEftEEBfUb"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
-        "name": "Show Me A God",
-        "url": "https://open.spotify.com/album/22PpP580Vc80i1qU6ZlVVK"
-      },
-      "artists": [
-        {
-          "name": "Westislonely",
-          "url": "https://open.spotify.com/artist/4aLDZqT6rZaIMWRtXaCH69"
-        }
-      ],
-      "duration_ms": 211804,
-      "name": "Show Me A God",
-      "url": "https://open.spotify.com/track/4fFuZYKIijh5Srn1qK2cEf"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
-        "name": "Vendetta",
-        "url": "https://open.spotify.com/album/3cGO3FBxbnkyB7gWIWYmwS"
-      },
-      "artists": [
-        {
-          "name": "Temples",
-          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
-        }
-      ],
-      "duration_ms": 268062,
-      "name": "Vendetta",
-      "url": "https://open.spotify.com/track/2iaqhM34CBBgoyHLxOg5Ba"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
-        "name": "\u80aa \uff5cBo",
-        "url": "https://open.spotify.com/album/2en4aIjPUvlolSAAXWStDy"
-      },
-      "artists": [
-        {
-          "name": "bed",
-          "url": "https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "\u80aa \uff5cBo",
-      "url": "https://open.spotify.com/track/71J6B49V8UJAhbAB3FZpgB"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
-        "name": "Swan Songs",
-        "url": "https://open.spotify.com/album/2GtYQMZi2e2BLHn8gAYBrc"
-      },
-      "artists": [
-        {
-          "name": "Model/Actriz",
-          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
-        }
-      ],
-      "duration_ms": 268280,
-      "name": "Glassman",
-      "url": "https://open.spotify.com/track/1mogapB4xvnlFlZUB3FKII"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/0iGHI45DWOOb5QG7aDlzvm"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 282062,
-      "name": "One Thing At A Time",
-      "url": "https://open.spotify.com/track/1KuW8u6AAPmCzpSCfWbq4I"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
-        "name": "Cult of Celebrity",
-        "url": "https://open.spotify.com/album/0WI41FEVRdFwjcVdrTSBrm"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 133749,
-      "name": "Cult of Celebrity",
-      "url": "https://open.spotify.com/track/2ptN3AC6mPNdtLrJaeOEQV"
     },
     {
       "added_at": "2026-07-10 00:00:22",
@@ -1519,22 +1175,6 @@
     {
       "added_at": "2026-07-10 00:00:22",
       "album": {
-        "name": "Do You Remember?",
-        "url": "https://open.spotify.com/album/4dw74gFXRLubjjaOOohMgK"
-      },
-      "artists": [
-        {
-          "name": "AS IT IS",
-          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
-        }
-      ],
-      "duration_ms": 213364,
-      "name": "Do You Remember?",
-      "url": "https://open.spotify.com/track/6cfzPo3FiRjAVx6n4OVOHS"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
         "name": "The Great Impersonator (Deluxe)",
         "url": "https://open.spotify.com/album/6ehD64XkegXwfsA2hYhkKr"
       },
@@ -1547,22 +1187,6 @@
       "duration_ms": 189461,
       "name": "Carry the Weight",
       "url": "https://open.spotify.com/track/7p3oJMceNz5skGLw52ZOjY"
-    },
-    {
-      "added_at": "2026-07-10 00:00:22",
-      "album": {
-        "name": "Blood on the Bone",
-        "url": "https://open.spotify.com/album/1HEJyjclrdNapUGwNs9Pl0"
-      },
-      "artists": [
-        {
-          "name": "The Amazons",
-          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
-        }
-      ],
-      "duration_ms": 225735,
-      "name": "Blood on the Bone",
-      "url": "https://open.spotify.com/track/2neNFxrx4wiAemOcykU7NO"
     },
     {
       "added_at": "2026-07-10 00:00:22",

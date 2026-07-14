@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 
 > 5月5日\(火祝\)\~6日\(水祝\)に開催される「KOBE MELLOW CRUISE」公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,663 likes - 409 songs - 20 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,662 likes - 409 songs - 20 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,7 +178,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 | 168 | [Visitor](https://open.spotify.com/track/4pblFz5wpV1BIM16fUVfVY) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [TIMELESS](https://open.spotify.com/album/7lY2QQlClBznftTUF1VNtg) | 2:42 |
 | 169 | [KJ Season Freestyle](https://open.spotify.com/track/4am6TzRurAoSy94sDSouTk) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [KJ SEASON](https://open.spotify.com/album/28Tb83FZurUuUbiv17V0zE) | 1:30 |
 | 170 | [Never Disappoint](https://open.spotify.com/track/6BiHfT6jQ9IJ1feIUAWPDr) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [G.O.A.T / Never Disappoint](https://open.spotify.com/album/2tvMrD9fO4DfL2xMXeWTR9) | 2:58 |
-| 171 | [Ma Boyz \(feat\. MIKADO, G\-k.i.d & Tete\)](https://open.spotify.com/track/2VT7foaxXwGRAmvQGOGVaL) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [G\-k.i.d](https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v), [Tete](https://open.spotify.com/artist/6iFxV1dKdvCszs4pcX1E2j) | [Ma Boyz \(feat\. MIKADO, G\-k.i.d & Tete\)](https://open.spotify.com/album/2Vy3Pdi41DbtJNzkZFDjpP) | 4:20 |
+| 171 | [Ma Boyz \(feat\. MIKADO, G\-k.i.d & Tete\)](https://open.spotify.com/track/2VT7foaxXwGRAmvQGOGVaL) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [G\-k.i.d](https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v), [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [Ma Boyz \(feat\. MIKADO, G\-k.i.d & Tete\)](https://open.spotify.com/album/2Vy3Pdi41DbtJNzkZFDjpP) | 4:20 |
 | 172 | [Spotlight \(feat\. Kohjiya & Tete\) \- Remix](https://open.spotify.com/track/3HsJQpi43e4l2SbqL0ACGo) | [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw), [KORK](https://open.spotify.com/artist/2W81lzbXt4CilB0Yfm8Wpj) | [Spotlight \(feat\. Kohjiya & Tete\) \[Remix\]](https://open.spotify.com/album/1T8fK6QRR9SoLfsIMNb8CY) | 2:58 |
 | 173 | [You & I](https://open.spotify.com/track/0JzDLRWl0bwNdNuWxuBGRO) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [TIMELESS](https://open.spotify.com/album/7lY2QQlClBznftTUF1VNtg) | 2:19 |
 | 174 | [Broke Boy Rich](https://open.spotify.com/track/0dSbZGtxtsbvB6SQNafgmG) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Broke Boy Rich](https://open.spotify.com/album/28FUxgcSQ8dtx1tSf1ZEPS) | 2:16 |

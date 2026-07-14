@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Diante do Trono
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,895 likes - 80 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,940 likes - 80 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

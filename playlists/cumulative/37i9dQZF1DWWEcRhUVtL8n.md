@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Quiet Houses
 
-2,467 songs - 5 day 11 hr 29 min
+2,469 songs - 5 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,7 +608,7 @@
 | [dominoes](https://open.spotify.com/track/1VTr2yQEEKt8ctEL0sFn2m) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [dominoes](https://open.spotify.com/album/38UEwenNyPDRh8e0JhT3hJ) | 2:57 | 2022-01-28 | 2022-04-17 |
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-28 | 2022-04-26 |
 | [Don't Forget Your Neighborhood](https://open.spotify.com/track/0f5oefcDaN8RCIZrVJa8Q7) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Don't Forget Your Neighborhood](https://open.spotify.com/album/2sse1UJ2m1BwZ243r8duR7) | 4:54 | 2021-06-03 | 2021-06-04 |
-| [Don't Kill the Vibe](https://open.spotify.com/track/3ZiHHaMuZ2cQXLtjxgiGUd) | [Jordan Joy](https://open.spotify.com/artist/4SpTLCaS4bSWUFgN7AapHv) | [Don't Kill the Vibe](https://open.spotify.com/album/4tYBaS0xN0eYmFSGHJ1C7N) | 4:22 | 2026-04-24 |  |
+| [Don't Kill the Vibe](https://open.spotify.com/track/3ZiHHaMuZ2cQXLtjxgiGUd) | [Jordan Joy](https://open.spotify.com/artist/4SpTLCaS4bSWUFgN7AapHv) | [Don't Kill the Vibe](https://open.spotify.com/album/4tYBaS0xN0eYmFSGHJ1C7N) | 4:22 | 2026-04-24 | 2026-07-14 |
 | [Don't Know How to Girlfriend](https://open.spotify.com/track/0Xujn00SgmNKBo4y7czhnl) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0FsaP4LD9X3oRAJR9Vs4sI) | 3:01 | 2022-04-15 | 2022-04-20 |
 | [Don't Let Me Die In Hollywood](https://open.spotify.com/track/3DJ8ykFy6BdKzoPQFsAkBM) | [Sean Kennedy](https://open.spotify.com/artist/6kY7DKDwm2bt996rMF4CLK) | [Don't Let Me Die In Hollywood](https://open.spotify.com/album/3PwkZ5GRuEL1V56z3n0ifR) | 3:02 | 2020-10-13\* | 2020-11-13 |
 | [Don't Let Me Down](https://open.spotify.com/track/181PmaC6c39r59gfhDGKdh) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Don't Let Me Down](https://open.spotify.com/album/1PdRtUkny2sF2Hf1BbHsDU) | 3:55 | 2023-04-21 | 2024-01-13 |
@@ -683,6 +683,7 @@
 | [easy for u.](https://open.spotify.com/track/7LByPJBcAtpbqI3GM1zl1f) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [easy for u.](https://open.spotify.com/album/3XlLpaoGlbez0LYtA3tcKR) | 2:16 | 2021-02-27 | 2021-05-21 |
 | [Easy Going](https://open.spotify.com/track/2be1ZSjEYPuLOjCDJIdEhN) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Easy Going](https://open.spotify.com/album/5nchHAqJGErJGdVOFYOwHC) | 2:42 | 2021-09-25 | 2021-12-07 |
 | [Eat It All Up](https://open.spotify.com/track/4qBsljPLydFTDKdLAfXjUa) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Eat It All Up](https://open.spotify.com/album/1quBPc64lRxo3RfWkmzCSE) | 2:37 | 2021-06-03 | 2021-10-24 |
+| [eat the pavement](https://open.spotify.com/track/5WnxvPtkEJ31yXF8ZPwQr2) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [eat the pavement](https://open.spotify.com/album/1BplCRhETbabreZMRIgkfx) | 3:44 | 2026-07-13 |  |
 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 | 2024-05-31 | 2025-06-28 |
 | [Edges of You](https://open.spotify.com/track/3dat7vpTyvyUiCYkvopr1L) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Edges of You](https://open.spotify.com/album/6qSE38dtgNyo5Enaxa1EFo) | 3:14 | 2026-07-06 |  |
 | [Effortless](https://open.spotify.com/track/1kERj1mdR9X6ZkCGsbIwYc) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [Effortless](https://open.spotify.com/album/32En4ZcvsHfgeQh26fX9wn) | 2:41 | 2020-10-13\* | 2020-10-23 |
@@ -918,6 +919,7 @@
 | [HATELOVE](https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [HATELOVE](https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R) | 2:51 | 2023-02-24 | 2024-05-11 |
 | [Haunted](https://open.spotify.com/track/71Uv6VSCYTjjXOEokJwpj4) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [Haunted](https://open.spotify.com/album/5tgF2RTf3CbJiU8GSoeUsy) | 2:53 | 2021-06-02 | 2022-04-15 |
 | [have a great day](https://open.spotify.com/track/2TmW432ldVYhIwAdJSlJEG) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [have a great day](https://open.spotify.com/album/0FOFp8kZa4HtV16w2TTqTS) | 3:22 | 2021-06-03 | 2021-10-14 |
+| [Haven't Said I Love You Yet](https://open.spotify.com/track/3Bbmipb8KY7goBdBplMZ3b) | [Golden Cats](https://open.spotify.com/artist/2jmo1S0qDb6WzvNfTf6PUr) | [Haven't Said I Love You Yet](https://open.spotify.com/album/3oH6oD1wZxzAjc2sz3owej) | 1:53 | 2026-07-10 |  |
 | [He Said She Said](https://open.spotify.com/track/5fdoU9T5AUNXj9NNWmRGLp) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [He Said She Said](https://open.spotify.com/album/6PU2JJHEfry8nJT8K3BDzL) | 3:09 | 2021-05-05 | 2022-04-03 |
 | [he said, she said](https://open.spotify.com/track/1BqtEfEiep87O11qZSk9Vy) | [wordsbyjuni](https://open.spotify.com/artist/0yLJt17DnD4o5Z7HQMFFhy) | [he said, she said](https://open.spotify.com/album/0ktzn42QPH9qE15MwAsBkg) | 3:17 | 2020-10-13\* | 2020-11-20 |
 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 | 2024-09-13 | 2026-04-25 |
@@ -1326,7 +1328,7 @@
 | [Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 3:43 | 2025-09-05 | 2026-02-07 |
 | [Losing You](https://open.spotify.com/track/1RV0XIw3iSYmlBOwrhJC6D) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Losing You](https://open.spotify.com/album/1TMwi1RyeTfgQyUH05CrmZ) | 2:42 | 2024-02-16 | 2024-02-29 |
 | [Losing You](https://open.spotify.com/track/00zlgHUZDIixDNBRE4r4lK) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Losing You](https://open.spotify.com/album/1JtdjMrrJTW1wC4r8olF1t) | 3:02 | 2023-08-18 | 2023-09-30 |
-| [Lost and Found](https://open.spotify.com/track/0SYktSP2XOX3OipKS9W5vJ) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Ready](https://open.spotify.com/album/1e50AHM2FkCz5SLww9qFzT) | 2:52 | 2026-05-01 |  |
+| [Lost and Found](https://open.spotify.com/track/0SYktSP2XOX3OipKS9W5vJ) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Ready](https://open.spotify.com/album/1e50AHM2FkCz5SLww9qFzT) | 2:52 | 2026-05-01 | 2026-07-14 |
 | [Lost Angeles](https://open.spotify.com/track/3AqGCyuUQuzcRqTMMetjqP) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Lost Angeles](https://open.spotify.com/album/47m4v1Gj5pvcylJlBkWLpJ) | 3:11 | 2020-10-20 | 2020-10-21 |
 | [LOST CONTROL](https://open.spotify.com/track/4apL2Bd2RIMXj94M8dEJHj) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [SPARK](https://open.spotify.com/album/5FgDFLMa4LM50AlBypheGs) | 2:48 | 2022-09-16 | 2022-10-08 |
 | [Lost In Love](https://open.spotify.com/track/3ZeR4nO0QmiIP8DlNYz4wm) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Lost In Love](https://open.spotify.com/album/5wptCIda7QwzdcJ0sZhdWX) | 2:10 | 2021-05-03 | 2021-10-09 |

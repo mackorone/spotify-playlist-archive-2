@@ -369,6 +369,40 @@
     },
     {
       "album": {
+        "name": "Sing, Ye Heavens: Hymns for All Time",
+        "url": "https://open.spotify.com/album/5luJyO3HHejiLP9XfU9lHE"
+      },
+      "artists": [
+        {
+          "name": "Martin Luther",
+          "url": "https://open.spotify.com/artist/1VPTZh1NXBaOm90Oq7vaQD"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "John Scott",
+          "url": "https://open.spotify.com/artist/5kcQ9Unglia5GTp5NESsWh"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293173,
+      "name": "A Mighty Fortress",
+      "url": "https://open.spotify.com/track/6oAh5ZBLK3vGT9rrx14klF"
+    },
+    {
+      "album": {
         "name": "Lighten Our Darkness: Music for the Close of Day",
         "url": "https://open.spotify.com/album/5alGKjK8d8xyqbneREbY37"
       },
@@ -3886,7 +3920,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 310800,
       "name": "VI. The Lord Is My Shepherd",
       "url": "https://open.spotify.com/track/33wcUoT3MCdGaZncoJj25p"

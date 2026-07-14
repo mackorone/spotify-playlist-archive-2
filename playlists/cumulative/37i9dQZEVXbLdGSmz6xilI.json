@@ -731,6 +731,40 @@
     },
     {
       "album": {
+        "name": "TINH H\u00c0 \"SAY HI\", T\u1eacP 2",
+        "url": "https://open.spotify.com/album/03GZcmJ7G6H1zPZin5rQcX"
+      },
+      "artists": [
+        {
+          "name": "TINH H\u00c0 \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/2dLayz7AThHVFmsIbsvTKh"
+        },
+        {
+          "name": "CoolKid",
+          "url": "https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi"
+        },
+        {
+          "name": "Quang H\u00f9ng MasterD",
+          "url": "https://open.spotify.com/artist/0slOzRzTQb1RBBVJbvRITP"
+        },
+        {
+          "name": "Jaysonlei",
+          "url": "https://open.spotify.com/artist/5BQgZQPuGImYR5xgbytUKg"
+        },
+        {
+          "name": "CODYNAMVO",
+          "url": "https://open.spotify.com/artist/7MtgS1BXZAtslgSSTpdikk"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "50 CU\u1ed8C G\u1eccI NH\u1ee0",
+      "url": "https://open.spotify.com/track/4HjBeRYorM50d1rCrl853a"
+    },
+    {
+      "album": {
         "name": "99%",
         "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
       },
@@ -16756,7 +16790,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 192485,
       "name": "M\u1eaft M\u00f4i Tay Ch\u00e2n (feat. Tage)",
       "url": "https://open.spotify.com/track/5ze1OgIdC5fJLJfpvT9Jog"
@@ -22762,7 +22796,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 234168,
       "name": "Sinh Ra \u0110\u00e3 L\u00e0 Th\u1ee9 \u0110\u1ed1i L\u1eadp Nhau (feat. Badbies)",
       "url": "https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9"
@@ -24068,7 +24102,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 247058,
       "name": "S\u00e0i G\u00f2n H\u00f4m Nay M\u01b0a",
       "url": "https://open.spotify.com/track/1xoadYaxtOp9gHDwgmPDuz"

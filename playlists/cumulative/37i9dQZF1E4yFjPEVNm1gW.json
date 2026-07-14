@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-29",
-  "description": "With Yeat, Autumn!, Cuo Zay and more",
+  "description": "With Yeat, Cuo Zay, Autumn! and more",
   "name": "Taewitdak Radio",
   "tracks": [
     {
@@ -2118,7 +2118,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 108437,
       "name": "imposter",
       "url": "https://open.spotify.com/track/14DqYafHROsQH834bFBVbt"
@@ -2172,7 +2172,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 117607,
       "name": "Insane",
       "url": "https://open.spotify.com/track/6tWKJHkhYDscB7S7JAJeBt"
@@ -2418,7 +2418,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 189231,
       "name": "king of the pumpkin patch",
       "url": "https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv"
@@ -4318,6 +4318,28 @@
       "duration_ms": 148080,
       "name": "SurfBoard",
       "url": "https://open.spotify.com/track/0ufbERhFvpqXT7Sw6bcMRv"
+    },
+    {
+      "album": {
+        "name": "Survival Mode",
+        "url": "https://open.spotify.com/album/3yGCakcqJvGPcebT34rzet"
+      },
+      "artists": [
+        {
+          "name": "Vital!",
+          "url": "https://open.spotify.com/artist/6AVo4Qa7foJkNWsqc9ur7n"
+        },
+        {
+          "name": "BRANNY",
+          "url": "https://open.spotify.com/artist/3gZJfRZ6PFi512WVutjb1r"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Survival Mode",
+      "url": "https://open.spotify.com/track/6J1qkQoOtEC66i6gwz112z"
     },
     {
       "album": {

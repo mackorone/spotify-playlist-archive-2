@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1644462,
+  "num_followers": 1644693,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-06-11 16:08:55",
       "album": {
+        "name": "Swing Lynn (Slowed Version)",
+        "url": "https://open.spotify.com/album/3wah0ODozs7Q39lUvFEwOn"
+      },
+      "artists": [
+        {
+          "name": "Harmless",
+          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
+        }
+      ],
+      "duration_ms": 448000,
+      "name": "Swing Lynn - Slowed Version",
+      "url": "https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC"
+    },
+    {
+      "added_at": "2026-06-11 16:08:55",
+      "album": {
         "name": "Shootout (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/6yRgFDV8SK8RfzAIwRcTPG"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 140142,
       "name": "Shootout (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/1S7ca5mJlpHn7GCE88jejz"
-    },
-    {
-      "added_at": "2026-06-11 16:08:55",
-      "album": {
-        "name": "Swing Lynn (Slowed Version)",
-        "url": "https://open.spotify.com/album/3wah0ODozs7Q39lUvFEwOn"
-      },
-      "artists": [
-        {
-          "name": "Harmless",
-          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
-        }
-      ],
-      "duration_ms": 448000,
-      "name": "Swing Lynn - Slowed Version",
-      "url": "https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC"
     },
     {
       "added_at": "2026-06-11 16:08:55",
@@ -827,6 +827,26 @@
     {
       "added_at": "2026-06-11 16:08:55",
       "album": {
+        "name": "LOVELY BASTARDS (Slowed)",
+        "url": "https://open.spotify.com/album/1QL0TDLvTBzk673QULEBMQ"
+      },
+      "artists": [
+        {
+          "name": "ZWE1HVNDXR",
+          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
+        },
+        {
+          "name": "yatashigang",
+          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
+        }
+      ],
+      "duration_ms": 152674,
+      "name": "LOVELY BASTARDS - Slowed",
+      "url": "https://open.spotify.com/track/0D1lgFbxCMU4aieSJWSy9H"
+    },
+    {
+      "added_at": "2026-06-11 16:08:55",
+      "album": {
         "name": "PURPLE ICON (CHOPNOTSLOP REMIX)",
         "url": "https://open.spotify.com/album/2hLRqbKFipxAUgEMaV0k4O"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 329914,
       "name": "butterflies. (chopnotslop remix)",
       "url": "https://open.spotify.com/track/4OwqkNn54F8QV4lXdbkfxx"
-    },
-    {
-      "added_at": "2026-06-11 16:08:55",
-      "album": {
-        "name": "LOVELY BASTARDS (Slowed)",
-        "url": "https://open.spotify.com/album/1QL0TDLvTBzk673QULEBMQ"
-      },
-      "artists": [
-        {
-          "name": "ZWE1HVNDXR",
-          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
-        },
-        {
-          "name": "yatashigang",
-          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
-        }
-      ],
-      "duration_ms": 152674,
-      "name": "LOVELY BASTARDS - Slowed",
-      "url": "https://open.spotify.com/track/0D1lgFbxCMU4aieSJWSy9H"
     },
     {
       "added_at": "2026-06-11 16:08:55",

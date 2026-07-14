@@ -3385,6 +3385,28 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/67xHJ0x5tX4E5ADqix2RF0"
+      },
+      "artists": [
+        {
+          "name": "j.paul",
+          "url": "https://open.spotify.com/artist/0klHZ1ixAXRq6KIJIMYtXO"
+        },
+        {
+          "name": "Lazy Trail",
+          "url": "https://open.spotify.com/artist/5WHVS2qeych1JQDD4qQPjg"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150786,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1nU7euE2UtifL8LvwjyCm0"
+    },
+    {
+      "album": {
         "name": "Parkview Demos",
         "url": "https://open.spotify.com/album/3Vgnh06FtxYOsr1zkFwVu2"
       },

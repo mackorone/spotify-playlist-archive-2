@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,866 likes - 43 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,873 likes - 43 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 42 | [ما طرا لك](https://open.spotify.com/track/7mCgHEktGmzif4F4gZbhM4) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [ما طرا لك](https://open.spotify.com/album/0y6IIvasAsbnqt84FzEDzX) | 3:53 |
 | 43 | [Modalali](https://open.spotify.com/track/2TzwSS261mOvEOBORrmjed) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Modalali](https://open.spotify.com/album/2mBvlgySmYubAVGWv0UcAx) | 3:16 |
 
-Snapshot ID: `AAAAACQgDXFz4seVWlJ8MTKFaV1+iJiu`
+Snapshot ID: `AAAAAL1QStdKEFaQSMJji2ptV0OxKK4J`

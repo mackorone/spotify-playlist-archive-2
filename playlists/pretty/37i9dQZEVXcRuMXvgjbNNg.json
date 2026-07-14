@@ -6,42 +6,210 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aksoQAAAAABIcvVt6d2ePG7hBR23hAAD",
+  "snapshot_id": "alRiwAAAAAAxFU0dYGjJ2PDjEXU+Ac2x",
   "tracks": [
     {
-      "added_at": "2026-07-06 04:00:00",
+      "added_at": "2026-07-13 04:00:00",
       "album": {
-        "name": "Shortcut",
-        "url": "https://open.spotify.com/album/62cmsvHJ3ujV0I2W6nyrGj"
+        "name": "Autumn 3 - Recomposed By Max Richter - Vivaldi: The Four Seasons (Fear Of Tigers Remix)",
+        "url": "https://open.spotify.com/album/2HfRajo9y0NCvaSnIQbExQ"
       },
       "artists": [
         {
-          "name": "oakwhisper",
-          "url": "https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr"
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Raphael Alpermann",
+          "url": "https://open.spotify.com/artist/23Z0TsB54gPf1Zo2KLeak9"
+        },
+        {
+          "name": "Konzerthaus Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
+        },
+        {
+          "name": "Andre de Ridder",
+          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
         }
       ],
-      "duration_ms": 142125,
-      "name": "Shortcut",
-      "url": "https://open.spotify.com/track/3RVvakb2wJVqirFMCRiMkG"
+      "duration_ms": 104680,
+      "name": "Richter: Recomposed By Max Richter: Vivaldi, The Four Seasons: Autumn 3 - 2012",
+      "url": "https://open.spotify.com/track/05xTN4p6wHJqJI3FDTliL8"
     },
     {
-      "added_at": "2026-07-06 04:00:00",
+      "added_at": "2026-07-13 04:00:00",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/2DQgDdMRNtvMKVEoFPdNFy"
+        "name": "The Drive Back",
+        "url": "https://open.spotify.com/album/6eCy47ljBMWOTD1OjRFrbe"
       },
       "artists": [
         {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+          "name": "Tom Anello",
+          "url": "https://open.spotify.com/artist/4vk7AwwGqVSHkpMeZOyxmM"
         }
       ],
-      "duration_ms": 313460,
-      "name": "Masollan",
-      "url": "https://open.spotify.com/track/3F8K6njJIKvuMkAzItLzDz"
+      "duration_ms": 241985,
+      "name": "The Drive Back",
+      "url": "https://open.spotify.com/track/4Wf9NKFM3rFbI7jenep2MD"
     },
     {
-      "added_at": "2026-07-06 04:00:00",
+      "added_at": "2026-07-13 04:00:00",
+      "album": {
+        "name": "Shared World (Radio Edit)",
+        "url": "https://open.spotify.com/album/1V4LGZ5qLhURRf2cHMA4ZN"
+      },
+      "artists": [
+        {
+          "name": "Rafa Ramos Sania",
+          "url": "https://open.spotify.com/artist/76dSnNgfXmhfkJoFCPaE4C"
+        }
+      ],
+      "duration_ms": 151596,
+      "name": "Shared World - Radio Edit",
+      "url": "https://open.spotify.com/track/5hsAxKwasdnhlB4muIZlAz"
+    },
+    {
+      "added_at": "2026-07-13 04:00:00",
+      "album": {
+        "name": "Laina",
+        "url": "https://open.spotify.com/album/1rF1s7zbv80JByoe1KkI5i"
+      },
+      "artists": [
+        {
+          "name": "a sound for you",
+          "url": "https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI"
+        }
+      ],
+      "duration_ms": 146351,
+      "name": "Laina",
+      "url": "https://open.spotify.com/track/6RNblUi8kutBunUnwnrqDP"
+    },
+    {
+      "added_at": "2026-07-13 04:00:00",
+      "album": {
+        "name": "Folded Landscapes",
+        "url": "https://open.spotify.com/album/38mhxC6TEoXfimNwed6MhD"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        },
+        {
+          "name": "Scottish Ensemble",
+          "url": "https://open.spotify.com/artist/7ruv7Qzy1XmFJui8t2s4sJ"
+        }
+      ],
+      "duration_ms": 234253,
+      "name": "Movement 6 - Instrumental",
+      "url": "https://open.spotify.com/track/2P1sxWkfLRqLkORBGiw3g6"
+    },
+    {
+      "added_at": "2026-07-13 04:00:00",
+      "album": {
+        "name": "Home Keeper",
+        "url": "https://open.spotify.com/album/5PMZCEV4Sa5sXseo4bY2gI"
+      },
+      "artists": [
+        {
+          "name": "The Field Tapes",
+          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
+        },
+        {
+          "name": "Weather Club",
+          "url": "https://open.spotify.com/artist/6cYCCVFAdHlAGAaf5Zpznq"
+        }
+      ],
+      "duration_ms": 190379,
+      "name": "Home Keeper",
+      "url": "https://open.spotify.com/track/6gqNQVsi70v4ArvynXwJuB"
+    },
+    {
+      "added_at": "2026-07-13 04:00:00",
+      "album": {
+        "name": "The Cosmic Selector Vol. 1",
+        "url": "https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 213283,
+      "name": "Nothing I Need",
+      "url": "https://open.spotify.com/track/0TPS1dKI4m27xCxm7jF7SU"
+    },
+    {
+      "added_at": "2026-07-13 04:00:00",
+      "album": {
+        "name": "Autumn Melodies, Continued.",
+        "url": "https://open.spotify.com/album/0GDpaR6P1xjSZvMB46XoFh"
+      },
+      "artists": [
+        {
+          "name": "Alan Gogoll",
+          "url": "https://open.spotify.com/artist/7MOxmVjcx5HWoEu9pBWXT3"
+        }
+      ],
+      "duration_ms": 126308,
+      "name": "Lia's Dance",
+      "url": "https://open.spotify.com/track/0suSwu763GfT7tDkVNHdxM"
+    },
+    {
+      "added_at": "2026-07-13 04:00:00",
+      "album": {
+        "name": "Tabula Rasa",
+        "url": "https://open.spotify.com/album/30OgCzf2n8pLPvqW5ECtkR"
+      },
+      "artists": [
+        {
+          "name": "Calum Graham",
+          "url": "https://open.spotify.com/artist/6VUCcZ6HiQQ39DhxV4bSeA"
+        }
+      ],
+      "duration_ms": 176115,
+      "name": "Tabula Rasa",
+      "url": "https://open.spotify.com/track/6hQZPyTLH2GnCY7ss23DsD"
+    },
+    {
+      "added_at": "2026-07-13 04:00:00",
+      "album": {
+        "name": "Nocturnes",
+        "url": "https://open.spotify.com/album/3CzteTQEt2FfsdvVzCRV1f"
+      },
+      "artists": [
+        {
+          "name": "David Ross Lawn",
+          "url": "https://open.spotify.com/artist/7crSZLg74nlnSz4eEwHjZr"
+        }
+      ],
+      "duration_ms": 216842,
+      "name": "Vigil",
+      "url": "https://open.spotify.com/track/3MtsmE7mtY70gsYLjT8VeM"
+    },
+    {
+      "added_at": "2026-07-13 04:00:00",
+      "album": {
+        "name": "The Seafarer",
+        "url": "https://open.spotify.com/album/7rsOqzHQgd3AZFfF3sIfL6"
+      },
+      "artists": [
+        {
+          "name": "Peter Belec",
+          "url": "https://open.spotify.com/artist/012xNfNlm7MiRwB2DuLaAu"
+        }
+      ],
+      "duration_ms": 176588,
+      "name": "The Seafarer",
+      "url": "https://open.spotify.com/track/5T9Fe9dZ3Sw6X2TkwZ1AAI"
+    },
+    {
+      "added_at": "2026-07-13 04:00:00",
       "album": {
         "name": "Hogwarts Legacy (Original Video Game Soundtrack)",
         "url": "https://open.spotify.com/album/7zh839yQHDgZJASAuDmnpi"
@@ -56,296 +224,192 @@
           "url": "https://open.spotify.com/artist/1JLbOKxg2sA694KKvAOI3G"
         }
       ],
-      "duration_ms": 204826,
-      "name": "The House Cup",
-      "url": "https://open.spotify.com/track/3tjTLJOAc2FFJi2LkHFcXl"
+      "duration_ms": 248546,
+      "name": "The Four Houses",
+      "url": "https://open.spotify.com/track/2RLpq3exi2NwesuGtlMrhw"
     },
     {
-      "added_at": "2026-07-06 04:00:00",
+      "added_at": "2026-07-13 04:00:00",
       "album": {
-        "name": "Midwest Western (Bonus Track)",
-        "url": "https://open.spotify.com/album/699pjJR5Ydm9SgMHn5Dk0x"
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/1w10NVbrezBjDn7uzJ4hQl"
       },
       "artists": [
         {
-          "name": "Jacob Montague",
-          "url": "https://open.spotify.com/artist/3CJqcROIuvaZDEyxPN6woq"
+          "name": "Analog Heart",
+          "url": "https://open.spotify.com/artist/5vBiybWobp2E6UPKKxo8FZ"
         }
       ],
-      "duration_ms": 153426,
-      "name": "Midwest Western (Bonus Track)",
-      "url": "https://open.spotify.com/track/7ezyXro9ftyv6pFycGY8Ne"
+      "duration_ms": 358499,
+      "name": "With Love",
+      "url": "https://open.spotify.com/track/4Zm6CNGk7PQutyqHzUJGfZ"
     },
     {
-      "added_at": "2026-07-06 04:00:00",
+      "added_at": "2026-07-13 04:00:00",
       "album": {
-        "name": "Serpentine Stone",
-        "url": "https://open.spotify.com/album/4k9BTHvpyy9UahNVxemgLm"
+        "name": "Sweetest Goodbye (Piano Reimagined)",
+        "url": "https://open.spotify.com/album/194g5rrd21D8luLtlGAhvx"
       },
       "artists": [
         {
-          "name": "Paul Alan Morris",
-          "url": "https://open.spotify.com/artist/1TNiz4tR70en7oaBGZ2L9M"
+          "name": "Ludo Pimenta",
+          "url": "https://open.spotify.com/artist/1vNRqUdfkkgRh0WhnR6wzZ"
         }
       ],
-      "duration_ms": 125424,
-      "name": "Serpentine Stone",
-      "url": "https://open.spotify.com/track/03iPxf9T7n4uxUtymea6Do"
+      "duration_ms": 182792,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/5i9Mmp3fphoa92eiYRITmL"
     },
     {
-      "added_at": "2026-07-06 04:00:00",
+      "added_at": "2026-07-13 04:00:00",
       "album": {
-        "name": "The Secret Life of Walter Mitty (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/2pLC40gyEsQljWWBV3zA1T"
+        "name": "Ache",
+        "url": "https://open.spotify.com/album/0wro0MjwMK6n2ZeuOvVYpw"
       },
       "artists": [
         {
-          "name": "Theodore Shapiro",
-          "url": "https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T"
+          "name": "Still Restless",
+          "url": "https://open.spotify.com/artist/6AHEtmyMoioYHE2mEZWEl0"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Ache",
+      "url": "https://open.spotify.com/track/2Kz3IOim1mK1qIfReul4lb"
+    },
+    {
+      "added_at": "2026-07-13 04:00:00",
+      "album": {
+        "name": "Dear Ivy",
+        "url": "https://open.spotify.com/album/7Iv795GarZ0qKXixN25DuE"
+      },
+      "artists": [
+        {
+          "name": "Jonathan L'Esp\u00e9rance",
+          "url": "https://open.spotify.com/artist/0qhLM9NLxQaAU19UopyLo7"
+        }
+      ],
+      "duration_ms": 188697,
+      "name": "Ivy - Remastered 2022",
+      "url": "https://open.spotify.com/track/2eX1rbVI5e4sG9B8OUQDaH"
+    },
+    {
+      "added_at": "2026-07-13 04:00:00",
+      "album": {
+        "name": "a small step forward",
+        "url": "https://open.spotify.com/album/12mcgbGkp2kApq4LKOXbvD"
+      },
+      "artists": [
+        {
+          "name": "Tommaso Farinetti",
+          "url": "https://open.spotify.com/artist/5xt6w0ov3upD2D8eScoH91"
+        }
+      ],
+      "duration_ms": 171022,
+      "name": "a small step forward",
+      "url": "https://open.spotify.com/track/0ZKdbUBqTP4XQnk17w7vsk"
+    },
+    {
+      "added_at": "2026-07-13 04:00:00",
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 230813,
+      "name": "Featherweight",
+      "url": "https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3"
+    },
+    {
+      "added_at": "2026-07-13 04:00:00",
+      "album": {
+        "name": "These Moments",
+        "url": "https://open.spotify.com/album/19BrnNH9dPJ6ZArTijLG8E"
+      },
+      "artists": [
+        {
+          "name": "Antoine Dufour",
+          "url": "https://open.spotify.com/artist/15kzFPO1n6iK1GqFaTDDBo"
         },
         {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        },
-        {
-          "name": "Mark Graham",
-          "url": "https://open.spotify.com/artist/2n2ZWyoCn0jr3I5rhDoFAw"
+          "name": "Van Larkins",
+          "url": "https://open.spotify.com/artist/7kP1fOzswDN61C3oV3JMJH"
         }
       ],
-      "duration_ms": 238106,
-      "name": "Eyjafjallaj\u00f6kull",
-      "url": "https://open.spotify.com/track/0mim6nkzHTzujVP0XTmG1O"
+      "duration_ms": 302338,
+      "name": "These Moments",
+      "url": "https://open.spotify.com/track/2LSfUlr1YPUgHE3QLpBxPK"
     },
     {
-      "added_at": "2026-07-06 04:00:00",
+      "added_at": "2026-07-13 04:00:00",
       "album": {
-        "name": "Romantique",
-        "url": "https://open.spotify.com/album/3xVSVdqG95Q0RHHdaHYlhl"
+        "name": "Apple x",
+        "url": "https://open.spotify.com/album/4sfzc6uCPrkCqbrhXhBedU"
       },
       "artists": [
         {
-          "name": "Jordan Critz",
-          "url": "https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC"
+          "name": "GLIN",
+          "url": "https://open.spotify.com/artist/5qEwzYDXGh4juehLZM96un"
         }
       ],
-      "duration_ms": 178044,
-      "name": "Rivi\u00e8re",
-      "url": "https://open.spotify.com/track/77PT66jmy4TsJU3WIKcdrC"
+      "duration_ms": 197375,
+      "name": "Apple x",
+      "url": "https://open.spotify.com/track/39W73553kCwSMyEyUhOrQt"
     },
     {
-      "added_at": "2026-07-06 04:00:00",
+      "added_at": "2026-07-13 04:00:00",
       "album": {
-        "name": "The Light from Within",
-        "url": "https://open.spotify.com/album/5DeBurv4zuboaQM1uqDgYK"
+        "name": "Violet Evergarden: Automemories",
+        "url": "https://open.spotify.com/album/72gCyV73fW93aTkOM8C4W2"
       },
       "artists": [
         {
-          "name": "Howard Harper-Barnes",
-          "url": "https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe"
+          "name": "Evan Call",
+          "url": "https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ"
         }
       ],
-      "duration_ms": 150193,
-      "name": "Progressive Progress",
-      "url": "https://open.spotify.com/track/6Marmee2WT50icMbZP31EU"
+      "duration_ms": 133093,
+      "name": "The Birth of a Legend",
+      "url": "https://open.spotify.com/track/3QdvUqggXskPIcZV7o1OMe"
     },
     {
-      "added_at": "2026-07-06 04:00:00",
+      "added_at": "2026-07-13 04:00:00",
       "album": {
-        "name": "Little Women (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE"
+        "name": "The Wind Waker Orchestrated",
+        "url": "https://open.spotify.com/album/6N6jfTjyhTM3TMcLXumRBN"
       },
       "artists": [
         {
-          "name": "Alexandre Desplat",
-          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+          "name": "The Marcus Hedges Trend Orchestra",
+          "url": "https://open.spotify.com/artist/123epI2OFu37F7VsnOBn9F"
         }
       ],
-      "duration_ms": 216546,
-      "name": "The Book - from \"Little Women\" Soundtrack",
-      "url": "https://open.spotify.com/track/5FZIKdpPvoI8kGx1harA4s"
+      "duration_ms": 144500,
+      "name": "Title Theme - From \"The Legend of Zelda: The Wind Waker\"",
+      "url": "https://open.spotify.com/track/7pQx6ipTaJBJUvWjEwxZMK"
     },
     {
-      "added_at": "2026-07-06 04:00:00",
+      "added_at": "2026-07-13 04:00:00",
       "album": {
-        "name": "Chrysaline",
-        "url": "https://open.spotify.com/album/32coi76VqlqpeRO3egLsez"
+        "name": "Stardew Valley (Festival of Seasons)",
+        "url": "https://open.spotify.com/album/7m5t0eOoZ9qOzElaVwpcLB"
       },
       "artists": [
         {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+          "name": "ConcernedApe",
+          "url": "https://open.spotify.com/artist/2PqkSKtPxs112KDZdRXGO2"
         }
       ],
-      "duration_ms": 249533,
-      "name": "Evangeline",
-      "url": "https://open.spotify.com/track/2Og5uypMDBJikUNEspkyO3"
+      "duration_ms": 365472,
+      "name": "Season Suite (Fall)",
+      "url": "https://open.spotify.com/track/6emzgVHXImmr0ZKdFbibUO"
     },
     {
-      "added_at": "2026-07-06 04:00:00",
-      "album": {
-        "name": "Downton Abbey - The Ultimate Collection (Music From The Original TV Series)",
-        "url": "https://open.spotify.com/album/6xjWiCK1NwsZr7GtP2EWeP"
-      },
-      "artists": [
-        {
-          "name": "John Lunn",
-          "url": "https://open.spotify.com/artist/5Zly5j72BTO6psXGz12qSt"
-        },
-        {
-          "name": "The Chamber Orchestra Of London",
-          "url": "https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT"
-        }
-      ],
-      "duration_ms": 128639,
-      "name": "The Butler And The Housekeeper",
-      "url": "https://open.spotify.com/track/3fDfaj3i5Z3F7QDnccUkKV"
-    },
-    {
-      "added_at": "2026-07-06 04:00:00",
-      "album": {
-        "name": "Adrift",
-        "url": "https://open.spotify.com/album/6n2eHieO2Tiiy52i7RpLEG"
-      },
-      "artists": [
-        {
-          "name": "Alan Gogoll",
-          "url": "https://open.spotify.com/artist/7MOxmVjcx5HWoEu9pBWXT3"
-        }
-      ],
-      "duration_ms": 102447,
-      "name": "The Sun in the Sea",
-      "url": "https://open.spotify.com/track/0oYWsQeDF3hyLuqItLMHTg"
-    },
-    {
-      "added_at": "2026-07-06 04:00:00",
-      "album": {
-        "name": "If We Don't Wake Up",
-        "url": "https://open.spotify.com/album/06OBlFQ0wiIxYJsayBtP4b"
-      },
-      "artists": [
-        {
-          "name": "Kiernan Tollefson",
-          "url": "https://open.spotify.com/artist/7xUAXohTtb2o2saEb2OE3n"
-        }
-      ],
-      "duration_ms": 277849,
-      "name": "If We Don't Wake Up",
-      "url": "https://open.spotify.com/track/5eo62EZPlAO4K14Hk1PGnp"
-    },
-    {
-      "added_at": "2026-07-06 04:00:00",
-      "album": {
-        "name": "Towards the Beloved City",
-        "url": "https://open.spotify.com/album/6Gi3sazIxpDdUzZQgHoGeV"
-      },
-      "artists": [
-        {
-          "name": "Kirill Richter",
-          "url": "https://open.spotify.com/artist/36Gn8Yc06oIST4l5VtvLdB"
-        }
-      ],
-      "duration_ms": 190516,
-      "name": "Waltz No. 7",
-      "url": "https://open.spotify.com/track/4A3SifL2cmHIgz3BVRqgDI"
-    },
-    {
-      "added_at": "2026-07-06 04:00:00",
-      "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/5qy44aSAB9TKb5RzJz3H7l"
-      },
-      "artists": [
-        {
-          "name": "The Piano Guys",
-          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/73O7rPlJqpxAevXk7aWrTH"
-    },
-    {
-      "added_at": "2026-07-06 04:00:00",
-      "album": {
-        "name": "The Lord of the Rings - The Return of the King - The Complete Recordings (Limited Edition)",
-        "url": "https://open.spotify.com/album/2Re6RMBEfD8iv1HMxLMdzI"
-      },
-      "artists": [
-        {
-          "name": "Howard Shore",
-          "url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
-        }
-      ],
-      "duration_ms": 207520,
-      "name": "And\u00faril - Flame of the West",
-      "url": "https://open.spotify.com/track/3oJFlRfVPq7IZcj2hsO3H4"
-    },
-    {
-      "added_at": "2026-07-06 04:00:00",
-      "album": {
-        "name": "Lonesome Dreams (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4YRpE1Scu5m6nCDdHZZP2M"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 255573,
-      "name": "Lonesome Dreams",
-      "url": "https://open.spotify.com/track/6ghs5L0WDC2aPaOOXOsJP7"
-    },
-    {
-      "added_at": "2026-07-06 04:00:00",
-      "album": {
-        "name": "Why Should The Fire Die?",
-        "url": "https://open.spotify.com/album/6l61p7zbizBUjQWY10LWmb"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 113506,
-      "name": "First And Last Waltz",
-      "url": "https://open.spotify.com/track/0jA97ZNgPqfcg9QesgEzXC"
-    },
-    {
-      "added_at": "2026-07-06 04:00:00",
-      "album": {
-        "name": "Game Of Thrones: Season 5 (Music from the HBO Series)",
-        "url": "https://open.spotify.com/album/7lIn0dMIUvlw3n3l0uWlsZ"
-      },
-      "artists": [
-        {
-          "name": "Ramin Djawadi",
-          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
-        }
-      ],
-      "duration_ms": 136546,
-      "name": "I Dreamt I Was Old",
-      "url": "https://open.spotify.com/track/4lH2Yme6OZffqS3PTGtXyx"
-    },
-    {
-      "added_at": "2026-07-06 04:00:00",
-      "album": {
-        "name": "Project Hail Mary (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/47Kmv7voPLipz2zbyD8v84"
-      },
-      "artists": [
-        {
-          "name": "Daniel Pemberton",
-          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
-        }
-      ],
-      "duration_ms": 329986,
-      "name": "Life is Reason - from \"Project Hail Mary\"",
-      "url": "https://open.spotify.com/track/6qTa4paI2yrfxIZ194inBL"
-    },
-    {
-      "added_at": "2026-07-06 04:00:00",
+      "added_at": "2026-07-13 04:00:00",
       "album": {
         "name": "Andor: Season 2 - Vol. 3 (Episode 7-9) [Original Score]",
         "url": "https://open.spotify.com/album/05B5E1D6Sm5UBIPtJJUCVr"
@@ -356,165 +420,109 @@
           "url": "https://open.spotify.com/artist/7EDDArVp3EXwuDx8HUQrTo"
         }
       ],
-      "duration_ms": 180560,
-      "name": "Bix's Message",
-      "url": "https://open.spotify.com/track/3XiGi2QXAjUDIFJ6kIP3CH"
+      "duration_ms": 110133,
+      "name": "Messenger",
+      "url": "https://open.spotify.com/track/3r5rKJkgKCmSA9O3iTB3Qa"
     },
     {
-      "added_at": "2026-07-06 04:00:00",
+      "added_at": "2026-07-13 04:00:00",
       "album": {
-        "name": "39 Seconds",
-        "url": "https://open.spotify.com/album/47SmIF41WMIUYeHfriLx0T"
+        "name": "Inwood improv: Riverside",
+        "url": "https://open.spotify.com/album/2leyWLoHS1DPqcyJgPQT3k"
       },
       "artists": [
         {
-          "name": "Marcus Warner",
-          "url": "https://open.spotify.com/artist/44HQ4cmv8MKMNHkPtXwZbQ"
+          "name": "Theodore Lee",
+          "url": "https://open.spotify.com/artist/2p47GhXQ4q2llIC1mq1oqe"
         }
       ],
-      "duration_ms": 321618,
-      "name": "Tokyo Rain",
-      "url": "https://open.spotify.com/track/7kutPF54tDrhROVwm5r0C2"
+      "duration_ms": 178147,
+      "name": "Inwood improv: Riverside",
+      "url": "https://open.spotify.com/track/2xHwvxXAAi8YWonDazNCT2"
     },
     {
-      "added_at": "2026-07-06 04:00:00",
+      "added_at": "2026-07-13 04:00:00",
       "album": {
-        "name": "Mozart in the Jungle: Seasons 1 and 2 (An Amazon Music Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6TCIfnENf2TU7QeGHUONs9"
+        "name": "Dear Wormwood",
+        "url": "https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK"
       },
       "artists": [
         {
-          "name": "The Hollywood Symphony",
-          "url": "https://open.spotify.com/artist/2LpjQ4zxDJVN5ec3mm9Dwm"
+          "name": "The Oh Hellos",
+          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+        }
+      ],
+      "duration_ms": 178405,
+      "name": "There Beneath",
+      "url": "https://open.spotify.com/track/77xQIv2s8VpLAK7vCcnDsA"
+    },
+    {
+      "added_at": "2026-07-13 04:00:00",
+      "album": {
+        "name": "the painting",
+        "url": "https://open.spotify.com/album/6mbsGsjA2O2V5MVuQXpIsr"
+      },
+      "artists": [
+        {
+          "name": "Alanna Crouch",
+          "url": "https://open.spotify.com/artist/3LiFngq9LVm61OaC0amG9w"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "to go out again",
+      "url": "https://open.spotify.com/track/5tgGFP5CXuK1UBvCwZoLvB"
+    },
+    {
+      "added_at": "2026-07-13 04:00:00",
+      "album": {
+        "name": "Tamazula",
+        "url": "https://open.spotify.com/album/0VYgYfBXmtZfx6JCknjLfn"
+      },
+      "artists": [
+        {
+          "name": "Ilyia",
+          "url": "https://open.spotify.com/artist/1XQi3YuOGdh8SHL6T6GkYi"
+        }
+      ],
+      "duration_ms": 163208,
+      "name": "Tamazula",
+      "url": "https://open.spotify.com/track/5BiR2lwvnzxdCrQq4fdmIQ"
+    },
+    {
+      "added_at": "2026-07-13 04:00:00",
+      "album": {
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/5jPS8sVcP89icU78a5XHNt"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
         },
         {
-          "name": "Roger Neill",
-          "url": "https://open.spotify.com/artist/5uIsAGdhVwyi5n2HAvlyk9"
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
         }
       ],
-      "duration_ms": 144931,
-      "name": "Lisztomania",
-      "url": "https://open.spotify.com/track/4LwrGnkvMqbsCdUoUMnL8A"
+      "duration_ms": 200487,
+      "name": "Songs",
+      "url": "https://open.spotify.com/track/3APiwcT5Jd0bDOKQi2NPwH"
     },
     {
-      "added_at": "2026-07-06 04:00:00",
+      "added_at": "2026-07-13 04:00:00",
       "album": {
-        "name": "Luca (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/62coFwzQrIGBhkVFYv5xPa"
+        "name": "Omoiyari",
+        "url": "https://open.spotify.com/album/7efrHmcFVWTB733vfDt9ey"
       },
       "artists": [
         {
-          "name": "Dan Romer",
-          "url": "https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4"
+          "name": "Kishi Bashi",
+          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
         }
       ],
-      "duration_ms": 166146,
-      "name": "Telescope",
-      "url": "https://open.spotify.com/track/7nEyry1XTeLdc5nqs1uFWH"
-    },
-    {
-      "added_at": "2026-07-06 04:00:00",
-      "album": {
-        "name": "The Amazing Spider-Man (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/60IT8AganbZfiCpoJbiEnU"
-      },
-      "artists": [
-        {
-          "name": "James Horner",
-          "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "The Briefcase",
-      "url": "https://open.spotify.com/track/7rzPaacq6e9XYopTA8bwcg"
-    },
-    {
-      "added_at": "2026-07-06 04:00:00",
-      "album": {
-        "name": "Finch In The Pantry",
-        "url": "https://open.spotify.com/album/3M5uRiRwNqLa7I33FD4X9f"
-      },
-      "artists": [
-        {
-          "name": "The Arcadian Wild",
-          "url": "https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY"
-        }
-      ],
-      "duration_ms": 164879,
-      "name": "Stan The Man",
-      "url": "https://open.spotify.com/track/4aH5eyjX241rZTOpY4zce2"
-    },
-    {
-      "added_at": "2026-07-06 04:00:00",
-      "album": {
-        "name": "Dreamer (Piano and Strings)",
-        "url": "https://open.spotify.com/album/7klOFEVsGiCjOnGIqbKCF5"
-      },
-      "artists": [
-        {
-          "name": "Luke Faulkner",
-          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
-        },
-        {
-          "name": "Alkyona Quartet",
-          "url": "https://open.spotify.com/artist/6GFleRROXkEseKXdEhnNUc"
-        }
-      ],
-      "duration_ms": 155496,
-      "name": "Dreamer (Piano and Strings)",
-      "url": "https://open.spotify.com/track/6XxStFTu8b53zMRt9Ve4zs"
-    },
-    {
-      "added_at": "2026-07-06 04:00:00",
-      "album": {
-        "name": "End of Beginning",
-        "url": "https://open.spotify.com/album/3x1OTX6yg5aL0n6uxC1DDL"
-      },
-      "artists": [
-        {
-          "name": "Asiancellodude",
-          "url": "https://open.spotify.com/artist/3YJJSktrvGW0GYbbZwyGsY"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/7BLMg1DQhOXt449q1Q4RJG"
-    },
-    {
-      "added_at": "2026-07-06 04:00:00",
-      "album": {
-        "name": "I Want to See Pulaski at Night",
-        "url": "https://open.spotify.com/album/7kVYsyN5ozvrEjtqTM86nC"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 406333,
-      "name": "Ethio Invention no. 1",
-      "url": "https://open.spotify.com/track/5q1td13vqj3FpQxmitHaBX"
-    },
-    {
-      "added_at": "2026-07-06 04:00:00",
-      "album": {
-        "name": "Richter & Glass: Seasons",
-        "url": "https://open.spotify.com/album/4Tvg7qBQHGCEU3epHaHhPA"
-      },
-      "artists": [
-        {
-          "name": "Delirium Musicum",
-          "url": "https://open.spotify.com/artist/6cehH0C4lbI8AmQJ4LAOwZ"
-        },
-        {
-          "name": "\u00c9tienne Gara",
-          "url": "https://open.spotify.com/artist/3nHanVpXy2JPDHQye9f5Wp"
-        }
-      ],
-      "duration_ms": 150293,
-      "name": "The Four Seasons: Spring 1",
-      "url": "https://open.spotify.com/track/4SkMgBt5RVKHOJsF692MRl"
+      "duration_ms": 213586,
+      "name": "Penny Rabbit and Summer Bear",
+      "url": "https://open.spotify.com/track/2DD9LNVKrcw1wt7m2dG4pS"
     }
   ],
   "unique_name": "Discover Weekly (@mackorone)",

@@ -1,6 +1,6 @@
 {
   "description": "Soft Jazz beats in the background while you're studying or relaxing.",
-  "num_followers": 202713,
+  "num_followers": 202726,
   "original_name": "Smooth Jazz Beats",
   "owner": {
     "name": "Spotify",
@@ -571,26 +571,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "sunday morning stroll",
-        "url": "https://open.spotify.com/album/6betGZCqz1FSDDVjylmDtW"
-      },
-      "artists": [
-        {
-          "name": "Montreux Stay-Behinds",
-          "url": "https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd"
-        },
-        {
-          "name": "chill.farm",
-          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "sunday morning stroll",
-      "url": "https://open.spotify.com/track/4DNoCeluuyNlWt9FrEQYyi"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "places i have yet to see",
         "url": "https://open.spotify.com/album/1Uh4HKvQmuBWqaIshTEyiE"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 136800,
       "name": "places i have yet to see",
       "url": "https://open.spotify.com/track/0ScamXll3uLlIp5Pt5s8Ze"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "sunday morning stroll",
+        "url": "https://open.spotify.com/album/6betGZCqz1FSDDVjylmDtW"
+      },
+      "artists": [
+        {
+          "name": "Montreux Stay-Behinds",
+          "url": "https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd"
+        },
+        {
+          "name": "chill.farm",
+          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "sunday morning stroll",
+      "url": "https://open.spotify.com/track/4DNoCeluuyNlWt9FrEQYyi"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Good feeling",
-        "url": "https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s"
-      },
-      "artists": [
-        {
-          "name": "Moox",
-          "url": "https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq"
-        }
-      ],
-      "duration_ms": 135987,
-      "name": "Good feeling",
-      "url": "https://open.spotify.com/track/39kvnRTzzHJYq564oiuJjP"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "high downforce",
         "url": "https://open.spotify.com/album/2wVHvyrMgTFW0OazHPe7Zq"
       },
@@ -839,18 +823,18 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Finish Line",
-        "url": "https://open.spotify.com/album/50A6GHBw1sNjVbzVOyyojT"
+        "name": "Good feeling",
+        "url": "https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s"
       },
       "artists": [
         {
-          "name": "Mizlo",
-          "url": "https://open.spotify.com/artist/4yfQDVxDZuhHtIKFROMjSQ"
+          "name": "Moox",
+          "url": "https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq"
         }
       ],
-      "duration_ms": 117900,
-      "name": "Finish Line",
-      "url": "https://open.spotify.com/track/1InvRwwWnE1OKEvsZHb3OG"
+      "duration_ms": 135987,
+      "name": "Good feeling",
+      "url": "https://open.spotify.com/track/39kvnRTzzHJYq564oiuJjP"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -883,26 +867,18 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Gryning",
-        "url": "https://open.spotify.com/album/5DrVnUxN15Lt9yBsYVu9lu"
+        "name": "Finish Line",
+        "url": "https://open.spotify.com/album/50A6GHBw1sNjVbzVOyyojT"
       },
       "artists": [
         {
-          "name": "Oh, My.",
-          "url": "https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h"
-        },
-        {
-          "name": "Boukas",
-          "url": "https://open.spotify.com/artist/59yn6qYpXksMH0N6y42Hnj"
-        },
-        {
-          "name": "Daniel Andersson",
-          "url": "https://open.spotify.com/artist/1qARouNIdXCPBKudfGFuC6"
+          "name": "Mizlo",
+          "url": "https://open.spotify.com/artist/4yfQDVxDZuhHtIKFROMjSQ"
         }
       ],
-      "duration_ms": 137500,
-      "name": "Gryning",
-      "url": "https://open.spotify.com/track/3KEOL0pwQVznboXjHLtrZu"
+      "duration_ms": 117900,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/1InvRwwWnE1OKEvsZHb3OG"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -923,6 +899,30 @@
       "duration_ms": 117101,
       "name": "Surf",
       "url": "https://open.spotify.com/track/4UfwdU3IjjV3rLJwp2jMUz"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "Gryning",
+        "url": "https://open.spotify.com/album/5DrVnUxN15Lt9yBsYVu9lu"
+      },
+      "artists": [
+        {
+          "name": "Oh, My.",
+          "url": "https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h"
+        },
+        {
+          "name": "Boukas",
+          "url": "https://open.spotify.com/artist/59yn6qYpXksMH0N6y42Hnj"
+        },
+        {
+          "name": "Daniel Andersson",
+          "url": "https://open.spotify.com/artist/1qARouNIdXCPBKudfGFuC6"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "Gryning",
+      "url": "https://open.spotify.com/track/3KEOL0pwQVznboXjHLtrZu"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/3GcGWY5hQALNHm9qKNzsb9"
+      },
+      "artists": [
+        {
+          "name": "Adam Space",
+          "url": "https://open.spotify.com/artist/3q9oOLVN8jaGI6Ui3qB2LU"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/2NpovkabnwBkEDtxCEqtqB"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/3pHtNw9KkN3KzNPP4PyU0c"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 144285,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/3ic2O47katD7m5S4YDvbCt"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/3GcGWY5hQALNHm9qKNzsb9"
-      },
-      "artists": [
-        {
-          "name": "Adam Space",
-          "url": "https://open.spotify.com/artist/3q9oOLVN8jaGI6Ui3qB2LU"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/2NpovkabnwBkEDtxCEqtqB"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "High Expectations",
-        "url": "https://open.spotify.com/album/6Or8HJNSBISRJNgukN5tyd"
-      },
-      "artists": [
-        {
-          "name": "sentiment:lo",
-          "url": "https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g"
-        },
-        {
-          "name": "chill.farm",
-          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
-        }
-      ],
-      "duration_ms": 136438,
-      "name": "High Expectations",
-      "url": "https://open.spotify.com/track/4rn17OCKU2IAPEPVOi8kPy"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "Moonlit",
         "url": "https://open.spotify.com/album/08eQz5C2sWlA8ivM5qv7RZ"
       },
@@ -1387,22 +1367,22 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/4gzdGWLEKxkUNxIyPwNp3K"
+        "name": "High Expectations",
+        "url": "https://open.spotify.com/album/6Or8HJNSBISRJNgukN5tyd"
       },
       "artists": [
         {
-          "name": "Prod. By Outtake",
-          "url": "https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc"
+          "name": "sentiment:lo",
+          "url": "https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g"
         },
         {
-          "name": "Zmeyev",
-          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+          "name": "chill.farm",
+          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/6D8pqERRdI5nwsONPRDd87"
+      "duration_ms": 136438,
+      "name": "High Expectations",
+      "url": "https://open.spotify.com/track/4rn17OCKU2IAPEPVOi8kPy"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1419,6 +1399,26 @@
       "duration_ms": 144744,
       "name": "Morning Waffles",
       "url": "https://open.spotify.com/track/1XhDC4CcSNpeBKuxER02gt"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4gzdGWLEKxkUNxIyPwNp3K"
+      },
+      "artists": [
+        {
+          "name": "Prod. By Outtake",
+          "url": "https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc"
+        },
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/6D8pqERRdI5nwsONPRDd87"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/7rFErmxiSojz9alXdzTdIB"
+      },
+      "artists": [
+        {
+          "name": "skyswimming",
+          "url": "https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy"
+        },
+        {
+          "name": "koolmonke",
+          "url": "https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/0JOyBXKbIAMqYpjif4HxMX"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
         "name": "Brooklyn Brownstone",
         "url": "https://open.spotify.com/album/14cxmAu3gvzR5oNrJcN3R3"
       },
@@ -1519,26 +1539,6 @@
       "duration_ms": 136000,
       "name": "Brooklyn Brownstone",
       "url": "https://open.spotify.com/track/1qqwr9QESlVKf4mQ071m92"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/7rFErmxiSojz9alXdzTdIB"
-      },
-      "artists": [
-        {
-          "name": "skyswimming",
-          "url": "https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy"
-        },
-        {
-          "name": "koolmonke",
-          "url": "https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/0JOyBXKbIAMqYpjif4HxMX"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Brecon",
-        "url": "https://open.spotify.com/album/76S9heYns7ZmyMc9RBE0wY"
-      },
-      "artists": [
-        {
-          "name": "John Lee",
-          "url": "https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E"
-        },
-        {
-          "name": "Horace Maurice",
-          "url": "https://open.spotify.com/artist/5fCp4yfEkKNN24SUYR7ZnP"
-        }
-      ],
-      "duration_ms": 135200,
-      "name": "Brecon",
-      "url": "https://open.spotify.com/track/3SUPrCR11PWuUpM2hopS4A"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "Refractions",
         "url": "https://open.spotify.com/album/03KrQZCLUNTSaqnx1GHBsT"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 136000,
       "name": "Refractions",
       "url": "https://open.spotify.com/track/5T78R7NpMs9DJVSaxEowuM"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "Brecon",
+        "url": "https://open.spotify.com/album/76S9heYns7ZmyMc9RBE0wY"
+      },
+      "artists": [
+        {
+          "name": "John Lee",
+          "url": "https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E"
+        },
+        {
+          "name": "Horace Maurice",
+          "url": "https://open.spotify.com/artist/5fCp4yfEkKNN24SUYR7ZnP"
+        }
+      ],
+      "duration_ms": 135200,
+      "name": "Brecon",
+      "url": "https://open.spotify.com/track/3SUPrCR11PWuUpM2hopS4A"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Moonwalker",
-        "url": "https://open.spotify.com/album/65NN6OIdeRV286VSOSgrgS"
-      },
-      "artists": [
-        {
-          "name": "Peter Olyni Jr.",
-          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
-        }
-      ],
-      "duration_ms": 162978,
-      "name": "Moonwalker",
-      "url": "https://open.spotify.com/track/4YdD9UItuRNEXII4n7kNQB"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/168btAQtCTUue1WU0bpJz7"
       },
@@ -1743,6 +1727,22 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
+        "name": "Moonwalker",
+        "url": "https://open.spotify.com/album/65NN6OIdeRV286VSOSgrgS"
+      },
+      "artists": [
+        {
+          "name": "Peter Olyni Jr.",
+          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
+        }
+      ],
+      "duration_ms": 162978,
+      "name": "Moonwalker",
+      "url": "https://open.spotify.com/track/4YdD9UItuRNEXII4n7kNQB"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
         "name": "Soft Shadows",
         "url": "https://open.spotify.com/album/1p1bSDLIrNgYETMjggQqzf"
       },
@@ -1755,30 +1755,6 @@
       "duration_ms": 155647,
       "name": "Soft Shadows",
       "url": "https://open.spotify.com/track/7DXIGDvTUP2JO1NEh02f2h"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
-        "name": "Speakeasy",
-        "url": "https://open.spotify.com/album/0qcEeZzloAY2Bn6CQjzBcZ"
-      },
-      "artists": [
-        {
-          "name": "Erwin Do",
-          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
-        },
-        {
-          "name": "J Fletch",
-          "url": "https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8"
-        },
-        {
-          "name": "brass.beats",
-          "url": "https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Speakeasy",
-      "url": "https://open.spotify.com/track/5YDoJVsS7bklB3c1YoETiy"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1803,6 +1779,30 @@
       "duration_ms": 143437,
       "name": "El Platanal",
       "url": "https://open.spotify.com/track/5euxtzHFyA4WAbbERfT0eg"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "Speakeasy",
+        "url": "https://open.spotify.com/album/0qcEeZzloAY2Bn6CQjzBcZ"
+      },
+      "artists": [
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        },
+        {
+          "name": "J Fletch",
+          "url": "https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8"
+        },
+        {
+          "name": "brass.beats",
+          "url": "https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Speakeasy",
+      "url": "https://open.spotify.com/track/5YDoJVsS7bklB3c1YoETiy"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Luminism",
-        "url": "https://open.spotify.com/album/1verBqXRd5mPWIdcKnz6Vy"
-      },
-      "artists": [
-        {
-          "name": "Blossum",
-          "url": "https://open.spotify.com/artist/5n57oRR8VeYTcFnpz6svA4"
-        },
-        {
-          "name": "iamalex",
-          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Luminism",
-      "url": "https://open.spotify.com/track/6WtvZcBhLlI1pTWkAmyHDk"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "Thank You for Waiting",
         "url": "https://open.spotify.com/album/73j9ThF4ukgyeFQq4IGsCe"
       },
@@ -1955,6 +1935,26 @@
       "duration_ms": 123789,
       "name": "For the Homies",
       "url": "https://open.spotify.com/track/5uSJS1Oy5XSAAX7kP3LH3s"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "Luminism",
+        "url": "https://open.spotify.com/album/1verBqXRd5mPWIdcKnz6Vy"
+      },
+      "artists": [
+        {
+          "name": "Blossum",
+          "url": "https://open.spotify.com/artist/5n57oRR8VeYTcFnpz6svA4"
+        },
+        {
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Luminism",
+      "url": "https://open.spotify.com/track/6WtvZcBhLlI1pTWkAmyHDk"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "drop top",
-        "url": "https://open.spotify.com/album/5gvHSInmVc8QP4xRzfJi0u"
-      },
-      "artists": [
-        {
-          "name": "Harry G's Beats",
-          "url": "https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V"
-        }
-      ],
-      "duration_ms": 152958,
-      "name": "drop top",
-      "url": "https://open.spotify.com/track/1dMAKSyWc90DhQY8zix6gp"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "Slipping Slowly",
         "url": "https://open.spotify.com/album/00ejlsopWmxDclwu12Vgz4"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 138352,
       "name": "Slipping Slowly",
       "url": "https://open.spotify.com/track/3utuOUxyj2ur3Hh2b1Hi9W"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "drop top",
+        "url": "https://open.spotify.com/album/5gvHSInmVc8QP4xRzfJi0u"
+      },
+      "artists": [
+        {
+          "name": "Harry G's Beats",
+          "url": "https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V"
+        }
+      ],
+      "duration_ms": 152958,
+      "name": "drop top",
+      "url": "https://open.spotify.com/track/1dMAKSyWc90DhQY8zix6gp"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -2419,26 +2419,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Making It Rain / Buckets",
-        "url": "https://open.spotify.com/album/1xIEHNtF2PiFZmC9jK1N0z"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
-        },
-        {
-          "name": "delaney.",
-          "url": "https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h"
-        }
-      ],
-      "duration_ms": 147333,
-      "name": "Making It Rain",
-      "url": "https://open.spotify.com/track/7pCnG3kLCGZwp4lGT5C2xm"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "Notes",
         "url": "https://open.spotify.com/album/5OWNwdm8CWn52XZUfTK5Ld"
       },
@@ -2459,6 +2439,26 @@
       "duration_ms": 135211,
       "name": "Amber",
       "url": "https://open.spotify.com/track/2vgb3IA5TbrEoenhqFdpmO"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "Making It Rain / Buckets",
+        "url": "https://open.spotify.com/album/1xIEHNtF2PiFZmC9jK1N0z"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
+        },
+        {
+          "name": "delaney.",
+          "url": "https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h"
+        }
+      ],
+      "duration_ms": 147333,
+      "name": "Making It Rain",
+      "url": "https://open.spotify.com/track/7pCnG3kLCGZwp4lGT5C2xm"
     },
     {
       "added_at": "2026-05-26 07:53:18",

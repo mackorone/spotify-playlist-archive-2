@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica navide\u00f1a para las fiestas decembrinas. Cover: Ilusion Eterno ",
-  "num_followers": 12842,
+  "num_followers": 12841,
   "original_name": "La Posada",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-12-19 05:00:41",
       "album": {
-        "name": "La Diva en Vivo",
-        "url": "https://open.spotify.com/album/6nZlQ5J8lFrZ0Db4KZuFce"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 253746,
-      "name": "Navidad Sin Ti - Live",
-      "url": "https://open.spotify.com/track/0IowQHym495GsLIVyuScWH"
-    },
-    {
-      "added_at": "2025-12-19 05:00:41",
-      "album": {
         "name": "Feliz Navidad",
         "url": "https://open.spotify.com/album/0E0PV5nu1RPCHwxAyIqvWx"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 182226,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3rLAEFEQyNq0I9BFq4P3XG"
+    },
+    {
+      "added_at": "2025-12-19 05:00:41",
+      "album": {
+        "name": "La Diva en Vivo",
+        "url": "https://open.spotify.com/album/6nZlQ5J8lFrZ0Db4KZuFce"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 253746,
+      "name": "Navidad Sin Ti - Live",
+      "url": "https://open.spotify.com/track/0IowQHym495GsLIVyuScWH"
     },
     {
       "added_at": "2025-12-19 05:00:41",
@@ -1003,38 +1003,6 @@
     {
       "added_at": "2025-12-19 05:00:41",
       "album": {
-        "name": "Contigo En Navidad",
-        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Dame Un Beso En Noche Buena",
-      "url": "https://open.spotify.com/track/4ppNsm9kQu6HvipzQ56T2A"
-    },
-    {
-      "added_at": "2025-12-19 05:00:41",
-      "album": {
-        "name": "Feliz Navidad Con Banda el Recodo de Cruz Liz\u00e1rraga",
-        "url": "https://open.spotify.com/album/4O4jEe27pdyAt631nGTaAE"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "Vamonos de Fiesta",
-      "url": "https://open.spotify.com/track/3FTz7HqpK34vdYfPUiDkrV"
-    },
-    {
-      "added_at": "2025-12-19 05:00:41",
-      "album": {
         "name": "Eterna Navidad Celebremos",
         "url": "https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu"
       },
@@ -1059,6 +1027,38 @@
       "duration_ms": 174600,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/6Lmnli1aPgP4ze8SyWRzBf"
+    },
+    {
+      "added_at": "2025-12-19 05:00:41",
+      "album": {
+        "name": "Feliz Navidad Con Banda el Recodo de Cruz Liz\u00e1rraga",
+        "url": "https://open.spotify.com/album/4O4jEe27pdyAt631nGTaAE"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "Vamonos de Fiesta",
+      "url": "https://open.spotify.com/track/3FTz7HqpK34vdYfPUiDkrV"
+    },
+    {
+      "added_at": "2025-12-19 05:00:41",
+      "album": {
+        "name": "Contigo En Navidad",
+        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Dame Un Beso En Noche Buena",
+      "url": "https://open.spotify.com/track/4ppNsm9kQu6HvipzQ56T2A"
     },
     {
       "added_at": "2025-12-19 05:00:41",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-12-19 05:00:41",
       "album": {
-        "name": "Cada Diciembre",
-        "url": "https://open.spotify.com/album/0HvnVL2VTStW5X5tT0nTOI"
-      },
-      "artists": [
-        {
-          "name": "Nuevo Elemento",
-          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
-        }
-      ],
-      "duration_ms": 147657,
-      "name": "Cada Diciembre",
-      "url": "https://open.spotify.com/track/6vYw8xnCYqUggR61dGE1OX"
-    },
-    {
-      "added_at": "2025-12-19 05:00:41",
-      "album": {
         "name": "Jingle Bells (Vamos All The Way)",
         "url": "https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 155626,
       "name": "Jingle Bells (Vamos All The Way)",
       "url": "https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7"
+    },
+    {
+      "added_at": "2025-12-19 05:00:41",
+      "album": {
+        "name": "Cada Diciembre",
+        "url": "https://open.spotify.com/album/0HvnVL2VTStW5X5tT0nTOI"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Elemento",
+          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
+        }
+      ],
+      "duration_ms": 147657,
+      "name": "Cada Diciembre",
+      "url": "https://open.spotify.com/track/6vYw8xnCYqUggR61dGE1OX"
     },
     {
       "added_at": "2025-12-19 05:00:41",

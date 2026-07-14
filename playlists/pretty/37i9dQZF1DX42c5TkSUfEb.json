@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 895908,
+  "num_followers": 895865,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-07-10 15:29:29",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 233552,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
-    },
-    {
-      "added_at": "2026-07-10 15:29:29",
-      "album": {
         "name": "Transformer",
         "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 255875,
       "name": "Walk On the Wild Side",
       "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
+    },
+    {
+      "added_at": "2026-07-10 15:29:29",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 233552,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
     },
     {
       "added_at": "2026-07-10 15:29:29",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-07-10 15:29:29",
       "album": {
-        "name": "Welcome to the Mood (Special Edition)",
-        "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
-    },
-    {
-      "added_at": "2026-07-10 15:29:29",
-      "album": {
         "name": "La Biographie de Luka Philipsen",
         "url": "https://open.spotify.com/album/02o4ipeZALU4EG2RX6d4Ip"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 178160,
       "name": "Jardin d'hiver",
       "url": "https://open.spotify.com/track/45gpJxviKRBsQo1lDZ03Xf"
+    },
+    {
+      "added_at": "2026-07-10 15:29:29",
+      "album": {
+        "name": "Welcome to the Mood (Special Edition)",
+        "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
     },
     {
       "added_at": "2026-07-10 15:29:29",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-07-10 15:29:29",
       "album": {
+        "name": "Karaoke Bar",
+        "url": "https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 204467,
+      "name": "Karaoke Bar",
+      "url": "https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN"
+    },
+    {
+      "added_at": "2026-07-10 15:29:29",
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 206463,
       "name": "You (feat. Hermanos Guti\u00e9rrez)",
       "url": "https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7"
-    },
-    {
-      "added_at": "2026-07-10 15:29:29",
-      "album": {
-        "name": "Karaoke Bar",
-        "url": "https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 204467,
-      "name": "Karaoke Bar",
-      "url": "https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN"
     },
     {
       "added_at": "2026-07-10 15:29:29",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-07-10 15:29:29",
       "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 239895,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6"
-    },
-    {
-      "added_at": "2026-07-10 15:29:29",
-      "album": {
         "name": "rose ave.",
         "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 192597,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/3DKYv4paFYB1p4H6qKaiKi"
+    },
+    {
+      "added_at": "2026-07-10 15:29:29",
+      "album": {
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 239895,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6"
     },
     {
       "added_at": "2026-07-10 15:29:29",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-07-10 15:29:29",
       "album": {
-        "name": "only human",
-        "url": "https://open.spotify.com/album/5qCvxLDPjQ7IPZz9IIhZgm"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 214032,
-      "name": "only human",
-      "url": "https://open.spotify.com/track/4EPemjVgAz4YbDgaRYUdta"
-    },
-    {
-      "added_at": "2026-07-10 15:29:29",
-      "album": {
         "name": "\u00e0 deux",
         "url": "https://open.spotify.com/album/0lBTXzbaZT2BSXQZHjWFM1"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 205808,
       "name": "\u00e0 deux",
       "url": "https://open.spotify.com/track/4o9qAFSKQCZHM6tYoKrxGq"
+    },
+    {
+      "added_at": "2026-07-10 15:29:29",
+      "album": {
+        "name": "only human",
+        "url": "https://open.spotify.com/album/5qCvxLDPjQ7IPZz9IIhZgm"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 214032,
+      "name": "only human",
+      "url": "https://open.spotify.com/track/4EPemjVgAz4YbDgaRYUdta"
     },
     {
       "added_at": "2026-07-10 15:29:29",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2026-07-10 15:29:29",
       "album": {
-        "name": "Beautiful Thingz",
-        "url": "https://open.spotify.com/album/0FUZCikaqg8mlA4MvRcPCZ"
+        "name": "Rupture (Version acoustique)",
+        "url": "https://open.spotify.com/album/5A0Mz9kzwjm0eMnPINChun"
       },
       "artists": [
         {
-          "name": "Cocoon",
-          "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
+          "name": "Laurie Darmon",
+          "url": "https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U"
         }
       ],
-      "duration_ms": 208031,
-      "name": "Beautiful Thingz",
-      "url": "https://open.spotify.com/track/1y4h1ZxF2sI36abMmFjGiH"
+      "duration_ms": 150896,
+      "name": "Rupture - Version acoustique",
+      "url": "https://open.spotify.com/track/2leECNnP3di7pzp8BIzdIh"
     },
     {
       "added_at": "2026-07-10 15:29:29",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-07-10 15:29:29",
       "album": {
+        "name": "Beautiful Thingz",
+        "url": "https://open.spotify.com/album/0FUZCikaqg8mlA4MvRcPCZ"
+      },
+      "artists": [
+        {
+          "name": "Cocoon",
+          "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
+        }
+      ],
+      "duration_ms": 208031,
+      "name": "Beautiful Thingz",
+      "url": "https://open.spotify.com/track/1y4h1ZxF2sI36abMmFjGiH"
+    },
+    {
+      "added_at": "2026-07-10 15:29:29",
+      "album": {
         "name": "Elle laisse (Radio Edit)",
         "url": "https://open.spotify.com/album/2iFptJp3EGJagpx0KdWlcr"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 208493,
       "name": "Elle laisse - Radio Edit",
       "url": "https://open.spotify.com/track/01gFlEXnkRNkgtN7jPjByI"
-    },
-    {
-      "added_at": "2026-07-10 15:29:29",
-      "album": {
-        "name": "Rupture (Version acoustique)",
-        "url": "https://open.spotify.com/album/5A0Mz9kzwjm0eMnPINChun"
-      },
-      "artists": [
-        {
-          "name": "Laurie Darmon",
-          "url": "https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U"
-        }
-      ],
-      "duration_ms": 150896,
-      "name": "Rupture - Version acoustique",
-      "url": "https://open.spotify.com/track/2leECNnP3di7pzp8BIzdIh"
     },
     {
       "added_at": "2026-07-10 15:29:29",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-07-10 15:29:29",
       "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 211027,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2"
+    },
+    {
+      "added_at": "2026-07-10 15:29:29",
+      "album": {
         "name": "paradox",
         "url": "https://open.spotify.com/album/3pexxVelQfabVmGJNTmq24"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 200971,
       "name": "Cure for Emptiness (with Bello)",
       "url": "https://open.spotify.com/track/0PsLWRlhGxICKhJtT6U8ya"
-    },
-    {
-      "added_at": "2026-07-10 15:29:29",
-      "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 211027,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2"
     },
     {
       "added_at": "2026-07-10 15:29:29",

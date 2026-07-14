@@ -1,12 +1,12 @@
 {
   "description": "Frisse Nederlandse pop. Cover: Emma Heesters",
-  "num_followers": 246690,
+  "num_followers": 246694,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMhzf2mILcSCoYo/VZ2W/xbjzvFa",
+  "snapshot_id": "AAAAACP94keTEu8DKEozkdWLm5huE2mb",
   "tracks": [
     {
       "added_at": "2026-07-09 22:01:30",
@@ -43,18 +43,22 @@
     {
       "added_at": "2026-07-09 22:01:30",
       "album": {
-        "name": "Niet Als Vroeger",
-        "url": "https://open.spotify.com/album/0gHTDh7gNJHudGNDR4UcfQ"
+        "name": "Met Mij Zijn",
+        "url": "https://open.spotify.com/album/2slIoPsgmDzAcvkF5g2Uyt"
       },
       "artists": [
         {
-          "name": "Hiigo",
-          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
         }
       ],
-      "duration_ms": 264742,
-      "name": "Niet Als Vroeger",
-      "url": "https://open.spotify.com/track/6uQ7YRkBxvQF6nRjLK3DhW"
+      "duration_ms": 153158,
+      "name": "Met Mij Zijn",
+      "url": "https://open.spotify.com/track/1EOSFJC2w4LvFaInJr9G4T"
     },
     {
       "added_at": "2026-07-09 22:01:30",
@@ -107,6 +111,22 @@
     {
       "added_at": "2026-07-09 22:01:30",
       "album": {
+        "name": "Niet Als Vroeger",
+        "url": "https://open.spotify.com/album/0gHTDh7gNJHudGNDR4UcfQ"
+      },
+      "artists": [
+        {
+          "name": "Hiigo",
+          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
+        }
+      ],
+      "duration_ms": 264742,
+      "name": "Niet Als Vroeger",
+      "url": "https://open.spotify.com/track/6uQ7YRkBxvQF6nRjLK3DhW"
+    },
+    {
+      "added_at": "2026-07-09 22:01:30",
+      "album": {
         "name": "Terug Bij Af",
         "url": "https://open.spotify.com/album/5la8hK7ztHSPnb9mBycbXf"
       },
@@ -135,26 +155,6 @@
       "duration_ms": 149589,
       "name": "SUPERSTAR",
       "url": "https://open.spotify.com/track/0isizAo7CkD7DhZm3C1DaY"
-    },
-    {
-      "added_at": "2026-07-09 22:01:30",
-      "album": {
-        "name": "Met Mij Zijn",
-        "url": "https://open.spotify.com/album/2slIoPsgmDzAcvkF5g2Uyt"
-      },
-      "artists": [
-        {
-          "name": "Sigourney K",
-          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
-        },
-        {
-          "name": "Yssi SB",
-          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
-        }
-      ],
-      "duration_ms": 153158,
-      "name": "Met Mij Zijn",
-      "url": "https://open.spotify.com/track/1EOSFJC2w4LvFaInJr9G4T"
     },
     {
       "added_at": "2026-07-09 22:01:30",

@@ -1,12 +1,12 @@
 {
   "description": "This is kwn. The essential tracks, all in one playlist.",
-  "num_followers": 21826,
+  "num_followers": 21844,
   "original_name": "This Is kwn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alGHgAAAAAAK/qFPZmL/ooNkV1vtYDx+",
+  "snapshot_id": "alLZAAAAAACIi99wiR21kFlhOlCjp9YP",
   "tracks": [
     {
       "added_at": null,
@@ -111,42 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "idea of love - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/37Cp4Hk4xLqVmUHQRLu1es"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 154314,
-      "name": "idea of love - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3XMriAsMxhNuT7ygP11JpJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 188562,
-      "name": "do what i say",
-      "url": "https://open.spotify.com/track/5P8zrJH6NhD2QRIscTSTcq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "While We Wait 2",
         "url": "https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA"
       },
@@ -167,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "and all pride aside",
-        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
       },
       "artists": [
         {
@@ -176,9 +140,9 @@
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 238950,
-      "name": "'til u cry",
-      "url": "https://open.spotify.com/track/7IyLGq39V0aIRCmOOZsPtP"
+      "duration_ms": 188562,
+      "name": "do what i say",
+      "url": "https://open.spotify.com/track/5P8zrJH6NhD2QRIscTSTcq"
     },
     {
       "added_at": null,
@@ -199,22 +163,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
       },
       "artists": [
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 213571,
-      "name": "worst behaviour (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici"
+      "duration_ms": 238950,
+      "name": "'til u cry",
+      "url": "https://open.spotify.com/track/7IyLGq39V0aIRCmOOZsPtP"
     },
     {
       "added_at": null,
@@ -239,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "and all pride aside",
-        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
       },
       "artists": [
         {
@@ -248,13 +208,13 @@
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         },
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 150447,
-      "name": "'til the room stinks (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/1ILFNxCVhJT2viKziURC3U"
+      "duration_ms": 213571,
+      "name": "worst behaviour (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici"
     },
     {
       "added_at": null,
@@ -275,18 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
       },
       "artists": [
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 132368,
-      "name": "all the girls",
-      "url": "https://open.spotify.com/track/35LxnbeMImdQePFuaZgIjF"
+      "duration_ms": 150447,
+      "name": "'til the room stinks (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1ILFNxCVhJT2viKziURC3U"
     },
     {
       "added_at": null,
@@ -307,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "and all pride aside",
-        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
       },
       "artists": [
         {
@@ -316,9 +280,9 @@
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 326341,
-      "name": "rather never love again",
-      "url": "https://open.spotify.com/track/06eYospB1uVxwSty0QCdhq"
+      "duration_ms": 132368,
+      "name": "all the girls",
+      "url": "https://open.spotify.com/track/35LxnbeMImdQePFuaZgIjF"
     },
     {
       "added_at": null,
@@ -339,22 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
       },
       "artists": [
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 186870,
-      "name": "talk you through it (feat. FLO)",
-      "url": "https://open.spotify.com/track/0XnxrosRIxY1nKFJ7wc5Ut"
+      "duration_ms": 326341,
+      "name": "rather never love again",
+      "url": "https://open.spotify.com/track/06eYospB1uVxwSty0QCdhq"
     },
     {
       "added_at": null,
@@ -379,18 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "and all pride aside",
-        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
       },
       "artists": [
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 237618,
-      "name": "heaven's in your hands",
-      "url": "https://open.spotify.com/track/5VDi2Kj3krfXYqhliDXhEG"
+      "duration_ms": 186870,
+      "name": "talk you through it (feat. FLO)",
+      "url": "https://open.spotify.com/track/0XnxrosRIxY1nKFJ7wc5Ut"
     },
     {
       "added_at": null,
@@ -411,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
       },
       "artists": [
         {
@@ -420,9 +384,9 @@
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 153103,
-      "name": "stand on it",
-      "url": "https://open.spotify.com/track/4Lt6z7rZq9UfKHZdC4a3uJ"
+      "duration_ms": 237618,
+      "name": "heaven's in your hands",
+      "url": "https://open.spotify.com/track/5VDi2Kj3krfXYqhliDXhEG"
     },
     {
       "added_at": null,
@@ -439,6 +403,22 @@
       "duration_ms": 155064,
       "name": "making love",
       "url": "https://open.spotify.com/track/5RWaq2ntMWdC2j4yM30j58"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "stand on it",
+      "url": "https://open.spotify.com/track/4Lt6z7rZq9UfKHZdC4a3uJ"
     },
     {
       "added_at": null,

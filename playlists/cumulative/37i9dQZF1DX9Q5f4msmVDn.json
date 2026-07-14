@@ -720,7 +720,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 230080,
       "name": "Ocean Views",
       "url": "https://open.spotify.com/track/1f0tj0IQ28OXq7hS0Rz0LH"
@@ -742,6 +742,24 @@
       "duration_ms": 318533,
       "name": "Optimistic",
       "url": "https://open.spotify.com/track/7Mb7jOst43wPQELas93ARE"
+    },
+    {
+      "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/084WGSgugXmYrsJRMeIRaB"
+      },
+      "artists": [
+        {
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190525,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/2yPQab0fUSPz6cCv4JOJrU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: Mercy Chinwo & Nathaniel Bassey
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,686 likes - 100 songs - 13 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,824 likes - 100 songs - 13 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

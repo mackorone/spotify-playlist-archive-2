@@ -3799,6 +3799,28 @@
     },
     {
       "album": {
+        "name": "FREAKED OUT",
+        "url": "https://open.spotify.com/album/7rlCLUxXi7iAxL1kmiOHxm"
+      },
+      "artists": [
+        {
+          "name": "Fat Papi",
+          "url": "https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov"
+        },
+        {
+          "name": "prodshushy",
+          "url": "https://open.spotify.com/artist/6aQnbm7k0VsmUqfU9cfwoA"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "FREAKED OUT",
+      "url": "https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN"
+    },
+    {
+      "album": {
         "name": "freddy krueger",
         "url": "https://open.spotify.com/album/2DEpDCLLjmQ64FIvTl88ZG"
       },
@@ -3854,7 +3876,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -8208,7 +8230,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 144624,
       "name": "Rebirth (Intro)",
       "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
@@ -10860,7 +10882,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 171995,
       "name": "Who (Rock Remix)",
       "url": "https://open.spotify.com/track/1MC8JLPV4fbvVBqvGSLoDf"
@@ -12330,7 +12352,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "\u0412\u0441\u0435 \u0445\u043e\u0442\u044f\u0442 \u043c\u0435\u043d\u044f \u043f\u043e\u0446\u0435\u043b\u043e\u0432\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/6yMFLAVzfpHZdN98V99Zsb"
@@ -14204,7 +14226,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 105000,
       "name": "\u041a\u0423\u041f\u0415\u0420",
       "url": "https://open.spotify.com/track/7fYkeBS6A7uiKh39L1POmA"
@@ -19138,7 +19160,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 163000,
       "name": "\u0422\u043e\u043d\u0443",
       "url": "https://open.spotify.com/track/3dxOjnX03UHPUYW7bBikVu"
@@ -19328,7 +19350,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 145942,
       "name": "\u0442\u044b \u043b\u044e\u0431\u0438\u0448\u044c \u0442\u0430\u043d\u0446\u0435\u0432\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/0nukg1QtwhP7jBbmeFKoiT"
@@ -20500,7 +20522,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 146008,
       "name": "\u0428\u0451\u043b\u043a",
       "url": "https://open.spotify.com/track/3chb0SAouU1FtBPR5NPHWX"
@@ -20554,7 +20576,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-14",
       "duration_ms": 268906,
       "name": "\u042d\u043d\u0434\u043e\u0440\u0444\u0438\u043d",
       "url": "https://open.spotify.com/track/4GbHNkWtWUIZAL0owhoz1i"
